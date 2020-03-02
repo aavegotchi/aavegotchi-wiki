@@ -13,11 +13,11 @@ export default function Header(props) {
         </Link>
         <div>
           <Link href={`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "/" : "/info"}`}>
+            window.location.pathname == "/info" ?
+            "/" : "/info"}`}>
             <h1>{`${typeof window !== "undefined" &&
-          window.location.pathname == "/info" ?
-          "close" : "info"}`}</h1>
+              window.location.pathname == "/info" ?
+              "close" : "info"}`}</h1>
           </Link>
         </div>
       </nav>
@@ -29,6 +29,7 @@ export default function Header(props) {
           h1:hover {
             cursor: pointer;
           }
+          
           nav {
             padding: 1.5rem 1.25rem;
             border-bottom: 1px solid #ebebeb;

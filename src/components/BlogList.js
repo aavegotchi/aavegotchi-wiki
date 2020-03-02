@@ -21,18 +21,18 @@ const BlogList = (props) => {
             href={{ pathname: `/blog/${post.slug}` }}
           >
             <a>
-            <li>
-              <div className="hero_image">
-                <img src={post.document.data.hero_image} alt={post.document.data.hero_image} />
-              </div>
-              <div className="blog__info">
-                <h2>{post.document.data.title}</h2>
-                <h3> {reformatDate(post.document.data.date)}</h3>
-                <p>
-                  <ReactMarkdown source={truncateSummary(post.document.content)} />
-                </p>
-              </div>
-            </li>
+              <li>
+                <div className="hero_image">
+                  <img src={post.document.data.hero_image} alt={post.document.data.hero_image} />
+                </div>
+                <div className="blog__info">
+                  <h2>{post.document.data.title}</h2>
+                  <h3> {reformatDate(post.document.data.date)}</h3>
+                  <p>
+                    <ReactMarkdown source={truncateSummary(post.document.content)} />
+                  </p>
+                </div>
+              </li>
             </a>
           </Link>
         ))}
@@ -48,7 +48,7 @@ const BlogList = (props) => {
             transition: opacity 0.3s ease;
           }
           a:hover li .blog__info h2, a:hover li .blog__info h3, a:hover li .blog__info p {
-            transform: translateX(10px);
+          
             transition: transform 0.5s ease-out;
           }
           .hero_image {

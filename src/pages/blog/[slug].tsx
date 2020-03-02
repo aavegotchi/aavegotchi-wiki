@@ -14,33 +14,33 @@ export default function BlogTemplate(props) {
 
   return (
     <Layout siteTitle={props.siteTitle}>
-    <article className="blog">
+      <article className="blog">
         <figure className="blog__hero">
-        <img
+          <img
             src={frontmatter.hero_image}
             alt={`blog_hero_${frontmatter.title}`}
-        />
+          />
         </figure>
         <div className="blog__info">
-        <h1>{frontmatter.title}</h1>
-        <h3>{reformatDate(frontmatter.date)}</h3>
+          <h1>{frontmatter.title}</h1>
+          <h3>{reformatDate(frontmatter.date)}</h3>
         </div>
         <div className="blog__body">
-        <ReactMarkdown source={markdownBody} />
+          <ReactMarkdown source={markdownBody} />
         </div>
         <h2 className="blog__footer">
-        Written By: {frontmatter.author}
+          Written By: {frontmatter.author}
         </h2>
-    </article>
-    <style jsx>
-      {`
+      </article>
+      <style jsx>
+        {`
         .blog h1 {
           margin-bottom: .7rem;
         }
         
         .blog__hero {
           min-height: 300px;
-          height: 60vh;
+          height: 300px;
           width: 100%;
           margin: 0;
           overflow: hidden;
@@ -134,8 +134,9 @@ export default function BlogTemplate(props) {
             margin-bottom: 1.5rem;
           }
           .blog__hero {
-            min-height: 600px;
-            height: 75vh;
+            min-height: 400px;
+           
+           
           }
           .blog__info {
             text-align: center;
@@ -162,14 +163,14 @@ export default function BlogTemplate(props) {
           }
         }
       `}
-      
-    </style>
+
+      </style>
     </Layout>
-    );
+  );
 
 }
 
-BlogTemplate.getInitialProps = async function(ctx) {
+BlogTemplate.getInitialProps = async function (ctx) {
   const { slug } = ctx.query
   const content = await import(`../../posts/${slug}.md`)
   const config = await import(`../../data/config.json`)
