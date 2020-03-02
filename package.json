@@ -12,7 +12,7 @@
     "start": "next start src",
     "export": "next export src",
     "deploy": "yarn build && yarn export",
-    "now-build": "next build"
+    "now-build": "next build src"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
