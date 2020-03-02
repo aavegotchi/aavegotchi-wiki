@@ -23,7 +23,7 @@ const Index = (props) => {
 
       </div>
 
-      <h1>dmathieu.org</h1>
+      <h1>Welcome to dmathieu.org</h1>
 
       <div>
         Explorations and tutorials of Web3, Dapps, NFTs and more. Written by coderdannn
