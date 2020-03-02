@@ -23,10 +23,6 @@ const Index = (props) => {
 
       </div>
 
-      <Button variant="primary">
-        Hello
-      </Button>
-
       <h1>Welcome to dmathieu.org</h1>
 
       <div>
