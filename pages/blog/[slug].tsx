@@ -173,6 +173,7 @@ export default function BlogTemplate(props) {
 BlogTemplate.getInitialProps = async function (ctx) {
   const { slug } = ctx.query
   const content = await import(`../../posts/${slug}.md`)
+  //@ts-ignore
   const config = await import(`../../data/config.json`)
   const data = matter(content.default);
   return {

@@ -46,6 +46,7 @@ const Index = (props) => {
 export default Index;
 
 Index.getInitialProps = async function () {
+  //@ts-ignore
   const siteConfig = await import(`../data/config.json`)
   //get posts & context from folder
   const posts = (context => {
