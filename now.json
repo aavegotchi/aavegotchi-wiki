@@ -1,0 +1,9 @@
+{
+    "name": "dmathieu-org",
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@now/next"
+        }
+    ]
+}
