@@ -1,28 +1,29 @@
 const glob = require('glob')
 
 module.exports = {
-  webpack: function (config) {
-    config.module.rules.push({
-      test: /\.md$/,
-      use: "raw-loader"
-    });
-    return config;
+
+
+  target: 'serverless',
+  cssLoaderOptions: {
+    url: false
   },
-  exportPathMap: async function () {
-    const routes = {
-      '/': { page: '/' },
+  webpack: (config, { isServer }) => {
+
+    // Fixes npm packages that depend on `fs` module
+    if (!isServer) {
+      config.node = {
+        fs: 'empty'
+      }
     }
-    //get all .md files in the posts dir
-    const blogs = glob.sync('src/posts/**/*.md')
 
-    //remove path and extension to leave filename only
-    const blogSlugs = blogs.map(file => file.split('/')[2].replace(/ /g, '-').slice(0, - 3).trim())
+    if (typeof require !== 'undefined') {
+      require.extensions['.less'] = () => { }
+      require.extensions['.css'] = file => { }
+    }
 
-    //add each blog to the routes obj
-    blogSlugs.forEach(blog => {
-      routes[`/blog/${blog}`] = { page: '/blog/[slug]', query: { slug: blog } };
-    });
-
-    return routes
+    return config;
   }
+
+
+
 };
