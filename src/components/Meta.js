@@ -170,7 +170,7 @@ export default function Meta(props) {
                     }
 
                     h1 {
-                    font-size: 2rem;
+                    font-size: 3rem;
                     letter-spacing: -1px;
                     line-height: 1.1875;
                     }
