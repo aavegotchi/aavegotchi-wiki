@@ -11,8 +11,7 @@
     "build": "next build src",
     "start": "next start src",
     "export": "next export src",
-    "deploy": "yarn build && yarn export",
-    "now-build": "next build src"
+    "deploy": "yarn build && yarn export"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",

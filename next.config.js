@@ -1,7 +1,6 @@
 const glob = require('glob')
 
 module.exports = {
-  target: 'serverless',
   webpack: function (config) {
     config.module.rules.push({
       test: /\.md$/,
@@ -12,7 +11,6 @@ module.exports = {
   exportPathMap: async function () {
     const routes = {
       '/': { page: '/' },
-      "/info": { page: "/info" }
     }
     //get all .md files in the posts dir
     const blogs = glob.sync('src/posts/**/*.md')
