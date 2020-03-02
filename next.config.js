@@ -1,6 +1,6 @@
 const glob = require('glob')
 
-module.exports = ({
+module.exports = {
   target: 'serverless',
   webpack: function (config) {
     config.module.rules.push({
@@ -27,4 +27,4 @@ module.exports = ({
 
     return routes
   }
-});
+};

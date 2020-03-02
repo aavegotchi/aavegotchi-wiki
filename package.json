@@ -4,6 +4,12 @@
   "description": "A simple starter to get up and developing quickly with Next.js",
   "license": "MIT",
   "version": "0.1.0",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/next"
+    }
+  ],
   "author": "@cinnabarhorse",
   "scripts": {
     "dev": "next src",
