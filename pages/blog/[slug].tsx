@@ -4,7 +4,13 @@ import ReactMarkdown from "react-markdown";
 
 import Layout from '../../components/Layout'
 
+
 export default function BlogTemplate(props) {
+
+  //console.log('code block:', CodeBlock)
+
+  const CodeBlock = require('../../components/CodeBlock').default
+
   function reformatDate(fullDate) {
     const date = new Date(fullDate)
     return date.toDateString().slice(4);
@@ -26,7 +32,9 @@ export default function BlogTemplate(props) {
           <h3>{reformatDate(frontmatter.date)}</h3>
         </div>
         <div className="blog__body">
-          <ReactMarkdown source={markdownBody} />
+          <ReactMarkdown
+            renderers={{ code: CodeBlock }}
+            source={markdownBody} />
         </div>
         <h2 className="blog__footer">
           Written By: {frontmatter.author}
