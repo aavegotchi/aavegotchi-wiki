@@ -3,31 +3,21 @@ import matter from 'gray-matter'
 import Layout from "../components/Layout";
 import BlogList from "../components/BlogList";
 
-import Head from 'next/head'
-import Button from 'react-bootstrap/Button'
-
 const Index = (props) => {
+
+  console.log('props:', props)
+
   return (
     <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
-      <Head>
-        <link
-          rel="stylesheet"
-          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-          crossOrigin="anonymous"
-        />
-      </Head>
-
-      <div style={{ height: 40 }}>
+      <div style={{ height: 20 }}>
 
       </div>
 
-      <h1>Welcome to dmathieu.org</h1>
 
-      <div>
-        Explorations and tutorials of Web3, Dapps, NFTs and more. Written by coderdannn
-</div>
+      <h2 style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '18px' }}>
+        Level up your Web3 development skills with tutorials by @coderdannn
+</h2>
 
       <hr />
 

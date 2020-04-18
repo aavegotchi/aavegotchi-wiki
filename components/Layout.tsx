@@ -8,9 +8,8 @@ export default function Layout(props) {
     <Container>
 
       <Row>
-        <Col> </Col>
 
-        <Col xl={12} lg={12} md={10} sm={10} xs={10}>
+        <Col xl={12} lg={12} md={12} sm={12} xs={12}>
           <Meta
             siteTitle={props.siteTitle}
             siteDescription={props.siteDescription}
@@ -19,7 +18,6 @@ export default function Layout(props) {
           <div className="content">{props.children}</div>
         </Col>
 
-        <Col></Col>
 
 
       </Row>
