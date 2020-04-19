@@ -25,7 +25,7 @@ const Index = (props) => {
 
 
       <h2 style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '18px' }}>
-        Level up your Web3 development skills with tutorials by @coderdannn
+        📈Level up your Web3 development skills with tutorials by @coderdannn
 </h2>
 
       <hr />
