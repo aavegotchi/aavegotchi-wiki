@@ -1,10 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { themeColor, themeSecondary } from '../../theme'
 import Link from 'next/link'
-import { rightLinks } from './links'
-
-
-import { Container } from 'react-bootstrap'
+import { Container, Button } from 'react-bootstrap'
+import SubscribeModal from '../SignupModal'
 
 interface Props {
     logo?: JSX.Element
@@ -15,6 +13,19 @@ interface Props {
 const NextStyledNavBar = (props: Props) => {
 
 
+    const [showSubscribe, setShowSubscribe] = useState(false)
+
+    var rightLinks = [
+
+        {
+            name: "projects",
+            href: "#projects",
+            component: <Button variant="primary" onClick={() => setShowSubscribe(true)} style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '12px' }}>Subscribe</Button>
+
+        },
+
+
+    ]
 
     const brand = (
         <div className="brandContainer">
@@ -321,22 +332,12 @@ const NextStyledNavBar = (props: Props) => {
                     </div>
 
 
-
-
-
-
-                    {/*searchBar()*/}
-
-
-
-
-
-
-
                 </div>
 
             </Container>
 
+
+            <SubscribeModal show={showSubscribe} hide={() => setShowSubscribe(false)} />
 
         </div>
 

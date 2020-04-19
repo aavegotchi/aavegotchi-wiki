@@ -36,7 +36,8 @@ export default function Meta(props) {
                   
                     }
 
-                    a:hover {               
+                    a:hover {    
+                        text-decoration:none;           
                     color:${themeColor};
                     }
 
@@ -109,6 +110,14 @@ export default function Meta(props) {
                        margin-left:30px;
                         padding:10px;
                         background:${themeComplement};
+                    }
+
+                    .modal-m {
+                        width:60%;
+                        max-width:unset;
+                        margin: 0 auto;
+                        margin-top:40px;
+                        height:520px;
                     }
 
                     @media (max-width: 768px) {
