@@ -73,7 +73,7 @@ const Footer = (props: FooterProps) => {
 
                             <h3 style={{ margin: 0 }}>© coderdan 2020</h3>
 
-                            <a style={{ marginLeft: 15 }} className="social-icon" target="_blank" href="https://www.twitter.com/bullionix_io">{TwitterSVG(25, "black")}</a>
+                            <a style={{ marginLeft: 15 }} className="social-icon" target="_blank" href="https://www.twitter.com/coderdannn">{TwitterSVG(25, "black")}</a>
 
 
                         </div>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Row, Col } from "react-bootstrap";
+import { themeColor } from "../theme";
 
 const BlogList = (props) => {
 
@@ -86,9 +87,11 @@ const BlogList = (props) => {
 
           a {
             margin:15px;
+            color:black;
           }
 
           a:hover {
+            color:${themeColor};
             text-decoration:none;
           }
 

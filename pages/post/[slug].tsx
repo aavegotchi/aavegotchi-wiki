@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 import Layout from '../../components/Layout'
 import NextStyledFooter from '../../components/NextComponents/NextStyledFooter'
 import { Jumbotron, Row, Col } from 'react-bootstrap';
-import { themeComplement, themeColor } from '../../theme';
+import { themeComplement, themeColor, themeSecondary } from '../../theme';
 
 
 export default function BlogTemplate(props) {
@@ -25,6 +25,66 @@ export default function BlogTemplate(props) {
 
   return (
     <Layout siteTitle={props.siteTitle}>
+
+      <style jsx>
+        {`
+
+        .blog {
+          width:75%;
+          margin:0 auto;
+        }
+
+        .metadata {
+          display: flex;
+          flex-direction:row;
+          margin-top:10px;
+          margin-bottom:20px;
+        }
+
+        .date {
+          background: whitesmoke;
+          width: fit-content;
+          padding: 10px;
+          margin:0;
+        }
+
+        .tag {
+          background: ${themeComplement};
+          width: fit-content;
+          padding: 10px;
+          margin-left:5px;
+        }
+
+        .blogHero {
+          width:100%;
+          height:400px;
+          overflow:hidden;
+        }
+
+        a {
+          color:${themeColor} !important;
+        }
+
+        a:hover {
+          color:${themeSecondary};
+        }
+
+        @media screen and (max-width:768px) {
+
+          .blogHero {
+            height:300px;
+          }
+
+          h1 {
+            font-size:36px;
+          }
+        }
+        
+      `}
+
+      </style>
+
+
 
       <Row>
 
@@ -69,61 +129,6 @@ export default function BlogTemplate(props) {
         </Col>
 
       </Row>
-
-      <style jsx>
-        {`
-
-        .blog {
-          width:75%;
-          margin:0 auto;
-        }
-
-        .metadata {
-          display: flex;
-          flex-direction:row;
-          margin-top:10px;
-          margin-bottom:20px;
-        }
-
-        .date {
-          background: whitesmoke;
-          width: fit-content;
-          padding: 10px;
-          margin:0;
-        }
-
-        .tag {
-          background: ${themeComplement};
-          width: fit-content;
-          padding: 10px;
-          margin-left:5px;
-        }
-
-        .blogHero {
-          width:100%;
-          height:400px;
-          overflow:hidden;
-        }
-
-        a {
-          color:${themeColor} !important;
-        }
-
-        @media screen and (max-width:768px) {
-
-          .blogHero {
-            height:300px;
-          }
-
-          h1 {
-            font-size:36px;
-          }
-        }
-        
-      `}
-
-      </style>
-
 
       <NextStyledFooter />
 
