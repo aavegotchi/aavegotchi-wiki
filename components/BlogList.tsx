@@ -4,13 +4,6 @@ import { themeColor } from "../theme";
 
 const BlogList = (props) => {
 
-  console.log('props:', props)
-
-  function reformatDate(fullDate) {
-    const date = new Date(fullDate)
-    return date.toDateString().slice(4);
-  }
-
   return (
     <div>
 
