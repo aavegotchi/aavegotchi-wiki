@@ -5,7 +5,7 @@ import ReactMarkdown from "react-markdown";
 import Layout from '../../components/Layout'
 import NextStyledFooter from '../../components/NextComponents/NextStyledFooter'
 import { Jumbotron, Row, Col } from 'react-bootstrap';
-import { themeComplement } from '../../theme';
+import { themeComplement, themeColor } from '../../theme';
 
 
 export default function BlogTemplate(props) {
@@ -103,6 +103,10 @@ export default function BlogTemplate(props) {
           width:100%;
           height:400px;
           overflow:hidden;
+        }
+
+        a {
+          color:${themeColor} !important;
         }
 
         @media screen and (max-width:768px) {

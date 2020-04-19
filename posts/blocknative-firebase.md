@@ -8,10 +8,10 @@ tags: ["Dapp", "UX", "Blocknative"]
 ---
 _In this tutorial, you’ll learn how to use the Blocknative SDK to effortlessly synchronize blockchain transaction states with a traditional backend database, ensuring your end users are_ **never** _left hanging with pending transactions._
 
-**Difficulty:** Intermediate  
-**Required skills:** Basic knowledge of Web3 and Firebase  
-**Link to the Github repo:** [blocknative-notify-firebase](https://github.com/cinnabarhorse/blocknative-notify-firebase)  
-**View a demo:** [https://blocknative-notify-firebase.now.sh/](https://blocknative-notify-firebase.now.sh/)
+> **Difficulty:** Intermediate  
+> **Required skills:** Basic knowledge of Web3 and Firebase  
+> **Link to the Github repo:** [blocknative-notify-firebase](https://github.com/cinnabarhorse/blocknative-notify-firebase)  
+> **View a demo:** [https://blocknative-notify-firebase.now.sh/](https://blocknative-notify-firebase.now.sh/)
 
 # Introduction
 
@@ -22,7 +22,7 @@ However, smooth onboarding is only one piece of the UX puzzle. For a truly seaml
 Luckily, using Blocknative notifications, we can solve this problem with a robust and elegant solution.
 
 > **Who is Blocknative? (From the blocknative.com website):**  
-> Blocknative’s mission is to provide easy to use tools for developers to monitor transactions in real-time.*
+> *Blocknative’s mission is to provide easy to use tools for developers to monitor transactions in real-time.*
 
 > *Our team is comprised of a unique combination of experienced entrepreneurs and leading blockchain technologists. And we’re backed by a leading VC firm.*
 
@@ -499,7 +499,7 @@ For cancel or speedup transactions, we can first delete the old transaction row 
 
 In a production environment, in addition to storing the transaction status, we may also be storing some data relevant to our transaction, so before deleting the old row, it would be necessary to fetch it into memory first and save it alongside our new replaceHash.
 
-> What happens if the Blocknative status is “dropped” or “failed”?
+> **What happens if the Blocknative status is “dropped” or “failed”?**
 
 > In those cases, the transaction failed completely, and you can either remove the item from your database, or set the status to “dropped” or “failed”. That’s your choice as a backend architect.
 
@@ -508,4 +508,4 @@ Now you have a fully functioning dapp that effortlessly handles the fickle permu
 View the working demo [here](https://blocknative-notify-firebase.now.sh/).  
 See all the code used in this tutorial [here](https://github.com/cinnabarhorse/blocknative-notify-firebase).
 
-_If you liked this tutorial, follow me on Twitter for more tutorials about Web3, dapps, and great UX, and don’t forget to 👏👏!_
+_If you liked this tutorial, [follow me on Twitter](https://twitter.com/coderdannn) for more tutorials about Web3, dapps, and great UX. And subscribe to my email list for updates when tutorials are released._

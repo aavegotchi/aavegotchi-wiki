@@ -31,14 +31,14 @@ export default function Meta(props) {
                     }
                     a {
                     text-decoration: none;
-                    color: inherit;
+                    color: ${themeColor};
                     transition:color 0.2s;
                   
                     }
 
                     a:hover {    
                         text-decoration:none;           
-                    color:${themeColor};
+                        color:${themeSecondary};
                     }
 
                     .btn-primary {
@@ -107,9 +107,14 @@ export default function Meta(props) {
                     }
 
                     blockquote {
-                       margin-left:30px;
                         padding:10px;
+                        padding-bottom:10px;
                         background:${themeComplement};
+                        border-left:solid 8px ${themeColor};
+                    }
+
+                    blockquote > p:last-child {
+                        margin-bottom:0;
                     }
 
                     .modal-m {
@@ -148,6 +153,7 @@ export default function Meta(props) {
                             margin-top:20px;
                             margin-bottom:20px;
                             margin-left:0;
+                            border-left:solid 5px ${themeColor};
                         }
                     }
                 `}
