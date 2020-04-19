@@ -92,35 +92,50 @@ const SubscribeModal = (props: SubscribeModalProps) => {
                 <Col>
 
 
-                    <div style={{ display: 'flex', flexDirection: 'row' }}>
-                        <NextStyledInput
-                            placeHolderText="First name"
+                    <div style={{ display: 'flex', flexDirection: 'row', overflow: 'hidden' }}>
 
-                            onChangeText={(text) => setFirstName(text)}
-                            value={firstName}
-                            inputFieldStyles={`
-                            margin-top:20px;
-                            font-size:14px;
-                            height:60px;
-                            color:black;
-                            background:whitesmoke;
-                        `}
-                        />
+                        <div style={{ width: '50%' }}>
 
-                        <NextStyledInput
-                            placeHolderText="Last name"
-                            onChangeText={(text) => setLastName(text)}
-                            value={lastName}
-                            inputFieldStyles={`
-                            margin-left:15px;
-                            margin-top:20px;
-                            font-size:14px;
-                            height:60px;
-                            color:black;
-                            background:whitesmoke;
+
+                            <NextStyledInput
+                                placeHolderText="First name"
+
+                                onChangeText={(text) => setFirstName(text)}
+                                value={firstName}
+                                inputFieldStyles={`
+                                margin-top:20px;
+                                font-size:14px;
+                                height:60px;
+                                color:black;
+                                background:whitesmoke;
+                                width:100%;
                         `}
-                        />
+                            />
+
+                        </div>
+
+
+                        <div style={{ width: '50%', marginLeft: 15 }}>
+
+
+
+                            <NextStyledInput
+                                placeHolderText="Last name"
+                                onChangeText={(text) => setLastName(text)}
+                                value={lastName}
+                                inputFieldStyles={`
+                                margin-top:20px;
+                                font-size:14px;
+                                height:60px;
+                                color:black;
+                                background:whitesmoke;
+                                width:100%;
+                        `}
+                            />
+
+                        </div>
                     </div>
+
 
 
                     <NextStyledInput
