@@ -28,9 +28,9 @@ export default function BlogTemplate(props) {
         title={frontmatter.title}
         description={frontmatter.description}
         siteName="coderdan's blog"
-        url={`/post/${frontmatter.slug}`}
-        faviconPath="/favicon.ico"
-        image={frontmatter.hero_image}
+        url={`https://blog.coderdan.dev/post/${frontmatter.slug}`}
+        faviconPath="https://blog.coderdan.dev/favicon.ico"
+        image={`https://blog.coderdan.dev${frontmatter.hero_image}`}
       />
 
       <style jsx>

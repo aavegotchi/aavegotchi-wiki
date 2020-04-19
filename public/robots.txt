@@ -1,0 +1,3 @@
+Sitemap:https://blog.coderdan.dev/sitemap.xml
+User-agent:*
+Disallow:
