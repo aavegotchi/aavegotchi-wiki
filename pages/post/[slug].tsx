@@ -6,11 +6,10 @@ import Layout from '../../components/Layout'
 import NextStyledFooter from '../../components/NextComponents/NextStyledFooter'
 import { Jumbotron, Row, Col } from 'react-bootstrap';
 import { themeComplement, themeColor, themeSecondary } from '../../theme';
+import NextReusableHead from '../../components/NextComponents/NextReusableHead'
 
 
 export default function BlogTemplate(props) {
-
-  //console.log('code block:', CodeBlock)
 
   const CodeBlock = require('../../components/CodeBlock').default
 
@@ -21,10 +20,18 @@ export default function BlogTemplate(props) {
   const markdownBody = props.content
   const frontmatter = props.data
 
-  console.log('props:', props)
 
   return (
     <Layout siteTitle={props.siteTitle}>
+
+      <NextReusableHead
+        title={frontmatter.title}
+        description={frontmatter.description}
+        siteName="coderdan's blog"
+        url={`/post/${frontmatter.slug}`}
+        faviconPath="/favicon.ico"
+        image={frontmatter.hero_image}
+      />
 
       <style jsx>
         {`

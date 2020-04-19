@@ -2,6 +2,7 @@ import matter from 'gray-matter'
 
 import Layout from "../components/Layout";
 import BlogList from "../components/BlogList";
+import NextReusableHead from '../components/NextComponents/NextReusableHead';
 
 const Index = (props) => {
 
@@ -9,6 +10,14 @@ const Index = (props) => {
 
   return (
     <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
+
+      <NextReusableHead
+        title="coderdan's blog"
+        description="Level up your Web3 development skills with tutorials by @coderdannn"
+        siteName="coderdan's blog"
+        url="blog.coderdan.dev"
+        faviconPath="/favicon.ico"
+      />
 
       <div style={{ height: 20 }}>
 
