@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Modal, Col } from "react-bootstrap";
 import NextStyledInput from "./NextComponents/NextStyledInput";
 import NextStyledButton from "./NextComponents/NextStyledButton";
-import { themeColor, darkThemeColor, themeComplement, themeGray } from "../theme";
+import { themeColor, darkThemeColor, themeGray } from "../theme";
 import { validateEmail } from "../functions";
 
 interface SubscribeModalProps {
@@ -15,24 +15,39 @@ const SubscribeModal = (props: SubscribeModalProps) => {
     const { show, hide } = props
 
     const [email, setEmail] = useState(undefined)
-    const [name, setName] = useState(undefined)
+    const [firstName, setFirstName] = useState(undefined)
+    const [lastName, setLastName] = useState(undefined)
     const [submitting, setSubmitting] = useState(false)
+
+    function verifyInformation() {
+        if (validateEmail(email) && firstName && lastName) return true
+        else return false
+    }
 
     async function handleSubmit() {
 
-        const verify = true //validateEmail(email)
+        const verify = verifyInformation()
 
         if (verify) {
 
             try {
                 setSubmitting(true)
-                //const result = await addSubscriber(email)
 
-                // console.log('result:', result)
+                const result = await fetch(`/api/addSubscriber?email=${email}&fname=${firstName}&lname=${lastName}`)
 
-                alert("Subscribed! Please check your inbox to confirm.")
+                const json = await result.json()
+                const parsed = JSON.parse(json.body)
+
+                if (parsed.status === "success") {
+                    alert("Subscribed! Please check your inbox to confirm.")
+                }
+                else {
+                    alert(`Error: ${parsed.message}`)
+                }
 
                 setSubmitting(false)
+                hide()
+
             } catch (error) {
                 console.log('error:', error)
 
@@ -43,7 +58,7 @@ const SubscribeModal = (props: SubscribeModalProps) => {
 
         }
         else {
-            alert("Please input a valid email address.")
+            alert("Please input a valid email address and name.")
         }
 
 
@@ -77,19 +92,36 @@ const SubscribeModal = (props: SubscribeModalProps) => {
                 <Col>
 
 
-                    <NextStyledInput
-                        placeHolderText="Name"
+                    <div style={{ display: 'flex', flexDirection: 'row' }}>
+                        <NextStyledInput
+                            placeHolderText="First name"
 
-                        onChangeText={(text) => setName(text)}
-                        value={email}
-                        inputFieldStyles={`
+                            onChangeText={(text) => setFirstName(text)}
+                            value={firstName}
+                            inputFieldStyles={`
                             margin-top:20px;
                             font-size:14px;
                             height:60px;
                             color:black;
                             background:whitesmoke;
                         `}
-                    />
+                        />
+
+                        <NextStyledInput
+                            placeHolderText="Last name"
+                            onChangeText={(text) => setLastName(text)}
+                            value={lastName}
+                            inputFieldStyles={`
+                            margin-left:15px;
+                            margin-top:20px;
+                            font-size:14px;
+                            height:60px;
+                            color:black;
+                            background:whitesmoke;
+                        `}
+                        />
+                    </div>
+
 
                     <NextStyledInput
                         placeHolderText="Email"
