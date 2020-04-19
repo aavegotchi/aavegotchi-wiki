@@ -1,7 +1,7 @@
 ---
 author: Daniel Mathieu
 date: '2020-04-18T07:00:00.000Z'
-hero_image: /alfons-taekema-bali.jpg
+hero_image: /blocknative.jpg
 title: 'Achieve Seamless Dapp UX Using Blocknative Notifications and Firebase Cloud Functions'
 description: 'Learn how to use the Blocknative SDK to effortlessly synchronize blockchain transaction states with a traditional backend database'
 tags: ["Dapp", "UX", "Blocknative"]
