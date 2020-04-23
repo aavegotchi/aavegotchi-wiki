@@ -1,13 +1,13 @@
 ---
 author: Daniel Mathieu
-date: '2020-04-18T07:00:00.000Z'
+date: '2020-04-23T07:00:00.000Z'
 hero_image: /blocknative.jpg
 slug: seamless-dapp-ux-with-blocknative
 title: 'Seamless Dapp UX with Blocknative Notifications and Firebase Cloud Functions'
-description: 'Learn how to use the Blocknative SDK to effortlessly synchronize blockchain transaction states with a traditional backend database'
+description: 'Learn how to use the Blocknative Notify API to effortlessly synchronize blockchain transaction states with a traditional backend database.'
 tags: ["Dapp", "UX", "Blocknative"]
 ---
-_In this tutorial, you’ll learn how to use the Blocknative SDK to effortlessly synchronize blockchain transaction states with a traditional backend database, ensuring your end users are_ **never** _left hanging with pending transactions._
+_In this tutorial, you’ll learn how to use the [Blocknative Notify API](https://docs.blocknative.com/webhook-api) to effortlessly synchronize blockchain transaction states with a traditional backend database, ensuring your end users are_ **never** _left hanging with pending transactions._
 
 > **Difficulty:** Intermediate  
 > **Required skills:** Basic knowledge of Web3 and Firebase  
@@ -504,9 +504,11 @@ In a production environment, in addition to storing the transaction status, we m
 
 > In those cases, the transaction failed completely, and you can either remove the item from your database, or set the status to “dropped” or “failed”. That’s your choice as a backend architect.
 
+> Learn more about transaction states [with this Blocknative blog post](https://blog.blocknative.com/blog/canceled-transactions).
+
 Now you have a fully functioning dapp that effortlessly handles the fickle permutations of blockchain state using Blocknative notifications! 🚀
 
-View the working demo [here](https://blocknative-notify-firebase.now.sh/).  
-See all the code used in this tutorial [here](https://github.com/cinnabarhorse/blocknative-notify-firebase).
+**View the working demo** [here](https://blocknative-notify-firebase.now.sh/).  
+**See all the code used in this tutorial** [here](https://github.com/cinnabarhorse/blocknative-notify-firebase).
 
 _If you liked this tutorial, [follow me on Twitter](https://twitter.com/coderdannn) for more tutorials about Web3, dapps, and great UX. And subscribe to my email list for updates when tutorials are released._
