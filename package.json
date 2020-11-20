@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "author": "@cinnabarhorse",
   "scripts": {
-    "dev": "env-cmd -f .env next",
+    "dev": "next",
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
     "build": "next build",
