@@ -2,6 +2,16 @@
 
 ##  How to Contribute
 
+If you've never used Github before, you'll need to create an account. Then contact Coder Dan to get write access! 
+
+#### Before you set up
+
+You'll need to install `yarn` and `nodejs` onto your computer, via the command line. 
+
+Yarn Install Guide: https://classic.yarnpkg.com/en/docs/install
+
+NodeJS install guide: https://nodejs.org/en/download/
+
 #### *Set-up Locally*
 In your terminal, navigate to where you would like this blog to live, then run 
 ```bash
