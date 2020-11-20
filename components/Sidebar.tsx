@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import { items } from "../data/sidebarItems";
 
 interface SidebarProps {
 
@@ -7,29 +8,7 @@ interface SidebarProps {
 
 const Sidebar = (props: SidebarProps) => {
 
-    const links = [
 
-        {
-            name: "Home",
-            href: ""
-        },
-        {
-            name: "About",
-            href: "about"
-        },
-        {
-            name: "Portals",
-            href: "portals"
-        },
-        {
-            name: "aTokens",
-            href: "atokens"
-        },
-        {
-            name: "Wearables",
-            href: "wearables"
-        }
-    ]
     return (
         <div className="sidebarContainer">
 
@@ -76,7 +55,7 @@ const Sidebar = (props: SidebarProps) => {
             </style>
 
             <ul>
-                {links.map((linkObject) => {
+                {items.map((linkObject) => {
 
                     if (linkObject.href === "") {
                         return (

@@ -23,6 +23,8 @@ const Page = (props) => {
     const frontmatter = props.data
 
 
+
+
     return (
         <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
@@ -45,8 +47,7 @@ const Page = (props) => {
                 <Col>
 
                     <div className="blogBody">
-                        <h1>{frontmatter}
-                        </h1>
+                        <h1>{frontmatter.title}</h1>
                         <hr />
                         <ReactMarkdown
                             renderers={{ code: CodeBlock }}

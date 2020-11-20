@@ -11,9 +11,6 @@ import Link from 'next/link';
 
 const Index = (props) => {
 
-  console.log('props:', props)
-
-
   const CodeBlock = require('../components/CodeBlock').default
   const markdownBody = props.content
   const frontmatter = props.data

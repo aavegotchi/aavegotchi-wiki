@@ -19,8 +19,10 @@ const NextStyledNavBar = (props: Props) => {
 
         {
             name: "projects",
-            href: "#projects",
-            component: <Button variant="primary" onClick={() => setShowSubscribe(true)} style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '12px' }}>Contribute</Button>
+            href: "https://github.com/aavegotchi/aavegotchi",
+            component: <Link href="https://github.com/aavegotchi/aavegotchi-wiki">
+                <a><img src="/github.svg" /></a>
+            </Link>
 
         },
 
