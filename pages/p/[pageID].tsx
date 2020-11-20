@@ -45,9 +45,8 @@ const Page = (props) => {
                 <Col>
 
                     <div className="blogBody">
-                        <h1>{
-                            //@ts-ignore
-                            router.query.pageID ? capitalize(router.query.pageID) : ""}</h1>
+                        <h1>{frontmatter}
+                        </h1>
                         <hr />
                         <ReactMarkdown
                             renderers={{ code: CodeBlock }}
