@@ -30,7 +30,7 @@ const Page = (props) => {
         //we use it to constrain the max width of an image to its container
 
         link: ({ children, href }) => {
-            return <Link href={href}><a>{children}</a></Link>
+            return <Link href={href}><a target="_blank">{children}</a></Link>
         },
         code: CodeBlock
     };

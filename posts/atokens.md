@@ -5,13 +5,15 @@ title: 'aTokens'
 description: 'All about Aavegotchi aTokens'
 ---
 
-aTokens are interest-bearing tokens from the Aave Protocol. They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in Aave protocol. aTokens can be freely stored, transferred, and traded. While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in Aave protocol. aTokens can be freely stored, transferred, and traded. 
 
-The following aTokens are available on the Aave Protocol:
+While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-* aDAI
-* aUSDC
-* aTUSD
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) are available on the Aave Protocol:
+
+* <img class="atoken" src="/atokens/aDAI.svg"> aDAI
+* <img class="atoken" src="/atokens/aUSDC.svg"> aUSDC
+* <img class="atoken" src="/atokens/aTUSD.svg"> aTUSD
 * aUSDT
 * asUSD
 * aBUSD
@@ -28,5 +30,3 @@ The following aTokens are available on the Aave Protocol:
 * aSNX
 * awBTC
 * aZRX
-
-<img src = "/public/aETH.svg">

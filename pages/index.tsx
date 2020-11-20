@@ -27,24 +27,8 @@ const Index = (props) => {
     //we use it to constrain the max width of an image to its container
 
     link: ({ children, href }) => {
-      return <Link href={href}><a>{children}</a></Link>
+      return <Link href={href}><a target="_blank">{children}</a></Link>
     },
-    /*image: ({
-      alt,
-      src,
-      title,
-    }: {
-      alt?: string;
-      src?: string;
-      title?: string;
-    }) => (
-        <img
-          alt={alt}
-          src={src}
-          title={title}
-          style={{ float: 'right', maxWidth: '40%', padding: 15, border: 'solid 3px whitesmoke', borderRadius: 10, marginLeft: 20 }} />
-      ),
-      */
     code: CodeBlock
   };
 
