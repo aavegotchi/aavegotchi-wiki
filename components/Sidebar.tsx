@@ -72,14 +72,31 @@ const Sidebar = (props: SidebarProps) => {
                     return (
                         <Link href="/p/[pageID]" as={`/p/${linkObject.href}`}>
                             <a>
-                                <li>
-                                    {linkObject.name}
+                                <li className="flexRow">
+                                    <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} /> {linkObject.name}
                                 </li>
                             </a>
                         </Link>
                     )
                 })}
+
+
+
             </ul>
+
+
+            <style jsx>
+                {`
+                      .sideBarIcon {
+                          margin-top:-4px;
+                        margin-right:10px;
+                        width:26px;
+                        height:26px;
+                        height: 100%;
+                        object-fit: contain;
+                    }
+                `}
+            </style>
 
 
 
