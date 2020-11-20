@@ -17,6 +17,15 @@ const NextStyledNavBar = (props: Props) => {
 
     var rightLinks = [
 
+        /* {
+             name: "EN",
+             href: "",
+             component: <Button style={{ background: 'whitesmoke', border: 'none', color: 'black', fontSize: '12px', padding: 10, marginRight: 10 }}>
+                 中文
+             </Button>
+         },
+         */
+
         {
             name: "projects",
             href: "https://github.com/aavegotchi/aavegotchi",
