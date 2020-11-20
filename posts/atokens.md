@@ -28,5 +28,3 @@ The following aTokens are available on the Aave Protocol:
 * aSNX
 * awBTC
 * aZRX
-
-<img src = "/public/aETH.svg">
