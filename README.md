@@ -9,6 +9,7 @@ If you've never used Github before, you'll need to create an account. Then conta
 You'll need to install `yarn` and `nodejs` onto your computer, via the command line. 
 
 Yarn Install Guide: https://classic.yarnpkg.com/en/docs/install
+
 NodeJS install guide: https://nodejs.org/en/download/
 
 #### *Set-up Locally*
