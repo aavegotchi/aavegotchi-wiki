@@ -33,4 +33,4 @@ Once you're happy with your changes, submit a pull request and an Aarchiver will
 
 - Sidebar: `components/Sidebar`. 
 - Global Styles `styles.css`. 
-- Pages: `/p/[pageID] fetches the Markdown file of the current page
+- Pages: `/p/[pageID]` fetches the Markdown file of the current page
