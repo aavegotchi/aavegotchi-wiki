@@ -6,7 +6,7 @@
 In your terminal, navigate to where you would like this blog to live, then run 
 ```bash
 #clone the repo
-git clone git@github.com:aavegotchi/aavegotchi-wiki.git
+git clone https://github.com/aavegotchi/aavegotchi-wiki.git
 
 #navigate to the directory
 cd aavegotchi-wiki
