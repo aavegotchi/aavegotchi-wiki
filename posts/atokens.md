@@ -14,19 +14,19 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 * <img class="atoken" src="/atokens/aDAI.svg"> aDAI
 * <img class="atoken" src="/atokens/aUSDC.svg"> aUSDC
 * <img class="atoken" src="/atokens/aTUSD.svg"> aTUSD
-* aUSDT
-* asUSD
-* aBUSD
-* aETH
-* aUNI
-* aYFI
-* aBAT
-* aREN
-* aENJ
-* aKNC
-* aLINK
-* aMANA
-* aREP
-* aSNX
-* awBTC
-* aZRX
+* <img class="atoken" src="/atokens/aUSDT.svg"> aUSDT
+* <img class="atoken" src="/atokens/asUSD.svg"> asUSD
+* <img class="atoken" src="/atokens/aBUSD.svg"> aBUSD
+* <img class="atoken" src="/atokens/aETH.svg"> aETH
+* <img class="atoken" src="/atokens/aUNI.svg"> aUNI
+* <img class="atoken" src="/atokens/aYFI.svg"> aYFI
+* <img class="atoken" src="/atokens/aBAT.svg"> aBAT
+* <img class="atoken" src="/atokens/aREN.svg"> aREN
+* <img class="atoken" src="/atokens/aENJ.svg"> aENJ
+* <img class="atoken" src="/atokens/aKNC.svg"> aKNC
+* <img class="atoken" src="/atokens/aLINK.svg"> aLINK
+* <img class="atoken" src="/atokens/aMANA.svg"> aMANA
+* <img class="atoken" src="/atokens/aREP.svg"> aREP
+* <img class="atoken" src="/atokens/aSNX.svg"> aSNX
+* <img class="atoken" src="/atokens/awBTC.svg"> awBTC
+* <img class="atoken" src="/atokens/aZRX.svg"> aZRX
