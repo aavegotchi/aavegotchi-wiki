@@ -5,7 +5,6 @@ import ReactMarkdown from "react-markdown"
 import Layout from "../../components/Layout";
 import NextReusableHead from "../../components/NextComponents/NextReusableHead";
 import Sidebar from "../../components/Sidebar";
-import { capitalize } from "../../functions";
 import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from "next/link";
@@ -18,10 +17,6 @@ const Page = (props) => {
 
     const CodeBlock = require('../../components/CodeBlock').default
 
-    function reformatDate(fullDate) {
-        const date = new Date(fullDate)
-        return date.toDateString().slice(4);
-    }
     const markdownBody = props.content
     const frontmatter = props.data
 
