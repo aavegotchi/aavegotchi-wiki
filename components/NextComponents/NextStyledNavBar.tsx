@@ -20,7 +20,7 @@ const NextStyledNavBar = (props: Props) => {
         {
             name: "projects",
             href: "#projects",
-            component: <Button variant="primary" onClick={() => setShowSubscribe(true)} style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '12px' }}>Subscribe</Button>
+            component: <Button variant="primary" onClick={() => setShowSubscribe(true)} style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '12px' }}>Contribute</Button>
 
         },
 
@@ -33,12 +33,12 @@ const NextStyledNavBar = (props: Props) => {
                 <a className="brand">
                     <div className="logoImage">
 
-                        <img src="/coderdan.jpg" width="100%" />
+                        <img src="/aavegotchi.png" width="100%" />
 
 
                     </div>
                     <div className="siteTitle">
-                        coderdan's blog</div>
+                        Aavegotchi Wiki</div>
                 </a>
             </Link>
 
@@ -93,20 +93,10 @@ const NextStyledNavBar = (props: Props) => {
 
         <div className="navBar">
 
-            <Container>
+            <Container fluid>
 
                 <style global jsx>
                     {`
-
-                .navPlaceholder {
-                   display: flex;
-                   height:65px;
-                    flex: 0.75;
-                    flex-direction: row;
-                    justify-content: flex-start;
-                    background-color:white;
-                }
-
 
 
                 .navBar {
@@ -133,6 +123,13 @@ const NextStyledNavBar = (props: Props) => {
                     flex-direction: column;
                     box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.04);
                 
+                }
+
+                .row {
+                    display:flex;
+                    flex-direction:row;
+                    padding-left:30px;
+                    padding-right:30px;
                 }
 
 
@@ -242,14 +239,6 @@ const NextStyledNavBar = (props: Props) => {
                     .siteTitle {
                         font-size:18px;
                     }
-
-                    .navPlaceholder {
-                        display: flex;
-                         flex: 0.3;
-                         flex-direction: row;
-                         justify-content: flex-start;
-                     }
-
                    
                 }
 
@@ -280,9 +269,7 @@ const NextStyledNavBar = (props: Props) => {
                 `}
                 </style>
 
-                <div style={{ display: 'flex', flex: 1 }}>
-
-                    <div style={{ display: 'flex', flex: 0.5 }}></div>
+                <div className="row">
 
                     {brand}
 
@@ -314,7 +301,6 @@ const NextStyledNavBar = (props: Props) => {
 
                     </div>
 
-                    <div style={{ display: 'flex', flex: 0.5 }}></div>
 
 
                     <div className="navMenuHamburgerContainer">
@@ -335,6 +321,7 @@ const NextStyledNavBar = (props: Props) => {
                 </div>
 
             </Container>
+
 
 
             <SubscribeModal show={showSubscribe} hide={() => setShowSubscribe(false)} />

@@ -3,43 +3,101 @@ import matter from 'gray-matter'
 import Layout from "../components/Layout";
 import BlogList from "../components/BlogList";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
+import { Col, Container, Row } from 'react-bootstrap';
+import Sidebar from '../components/Sidebar';
+import ReactMarkdownWithHtml from 'react-markdown/with-html'
+import htmlParser from 'react-markdown/plugins/html-parser'
+import Link from 'next/link';
 
 const Index = (props) => {
 
   console.log('props:', props)
 
+
+  const CodeBlock = require('../components/CodeBlock').default
+  const markdownBody = props.content
+  const frontmatter = props.data
+
+  const parseHtml = htmlParser({
+    isValidNode: (node) => node.type !== 'script',
+    processingInstructions: [
+      /* ... */
+    ]
+  })
+
+  const renderers = {
+    //This custom renderer changes how images are rendered
+    //we use it to constrain the max width of an image to its container
+
+    link: ({ children, href }) => {
+      return <Link href={href}><a>{children}</a></Link>
+    },
+    /*image: ({
+      alt,
+      src,
+      title,
+    }: {
+      alt?: string;
+      src?: string;
+      title?: string;
+    }) => (
+        <img
+          alt={alt}
+          src={src}
+          title={title}
+          style={{ float: 'right', maxWidth: '40%', padding: 15, border: 'solid 3px whitesmoke', borderRadius: 10, marginLeft: 20 }} />
+      ),
+      */
+    code: CodeBlock
+  };
+
   return (
     <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
       <NextReusableHead
-        title="coderdan's blog"
-        description="Level up your Web3 development skills with tutorials by @coderdannn"
-        siteName="coderdan's blog"
-        url="blog.coderdan.dev"
+        title="Aavegotchi Wiki"
+        description="The Official Wiki of Aavegotchi"
+        siteName="Aavegotchi Wiki"
+        url="https://wiki.aavegotchi.com"
         faviconPath="/favicon.ico"
       />
 
-      <div style={{ height: 20 }}>
-
-      </div>
 
 
-      <h2 style={{ letterSpacing: '1.2px', textTransform: 'uppercase', fontSize: '18px' }}>
-        📈Level up your Web3 development skills with tutorials by @coderdannn
-</h2>
 
-      <hr />
+      <Row style={{ padding: 0, margin: 0 }}>
+        <Col style={{ padding: 0, margin: 0 }} xl={2} lg={2} md={2} sm={12} xs={12}>
+          <Sidebar />
+        </Col>
 
-      <section>
+        <Col>
 
-        <BlogList allBlogs={props.allBlogs} />
-      </section>
-    </Layout>
+          <div className="blogBody">
+
+            <h1>{frontmatter.title}</h1>
+
+            <hr />
+
+            <ReactMarkdownWithHtml
+
+              allowDangerousHtml={true}
+              astPlugins={[parseHtml]}
+              renderers={renderers}
+              children={markdownBody} />
+          </div>
+
+        </Col>
+
+
+      </Row>
+
+    </Layout >
   );
 };
 
 export default Index;
 
+/*
 Index.getInitialProps = async function () {
   //@ts-ignore
   const siteConfig = await import(`../data/config.json`)
@@ -68,5 +126,20 @@ Index.getInitialProps = async function () {
   return {
     allBlogs: posts,
     ...siteConfig,
+  }
+}
+*/
+
+
+Index.getInitialProps = async function (ctx) {
+  // const { slug } = ctx.query
+  const slug = "index"
+  const content = await import(`../posts/${slug}.md`)
+  //@ts-ignore
+  const config = await import(`../data/config.json`)
+  const data = matter(content.default);
+  return {
+    siteTitle: config.title,
+    ...data
   }
 }

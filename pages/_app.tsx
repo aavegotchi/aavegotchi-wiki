@@ -3,6 +3,7 @@ import App from 'next/app'
 import Head from 'next/head'
 import NextStyledNavBar from '../components/NextComponents/NextStyledNavBar'
 import '../css/fonts.css'
+import '../css/styles.css'
 
 class MyApp extends App {
 

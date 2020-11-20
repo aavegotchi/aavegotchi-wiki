@@ -17,46 +17,44 @@ const BlogList = (props) => {
 
             <Row>
 
-              <div className="row">
 
-                <Col xl={4} lg={4} md={5} sm={12} xs={12} >
+              {/*}  <Col xl={4} lg={4} md={5} sm={12} xs={12} >
                   <div className="heroImage">
                     <img src={post.document.data.hero_image} alt={post.document.data.hero_image} />
                   </div>
                 </Col>
+      {*/}
 
 
-                <Col>
+              <Col>
 
-                  <div className="blogInfo">
-                    <h2>{post.document.data.title}</h2>
+                <div className="blogInfo">
+                  <h2>{post.document.data.title}</h2>
 
-                    {/*}  <h3> {reformatDate(post.document.data.date)}</h3>
+                  {/*}  <h3> {reformatDate(post.document.data.date)}</h3>
                   {*/}
 
 
-                    {post.document.data.description &&
-                      <p style={{ marginBottom: 8 }}>{post.document.data.description}</p>
+                  {post.document.data.description &&
+                    <p style={{ marginBottom: 8 }}>{post.document.data.description}</p>
+                  }
+
+
+                  <div className="metadata">
+                    <div style={{ fontSize: '12px', color: 'black' }}>Tags:</div>
+
+                    {post.document.data.tags && post.document.data.tags.map((tag) => {
+                      return (
+                        <div key={tag} className="tag">{tag}</div>
+                      )
+                    })
+
                     }
 
-
-                    <div className="metadata">
-                      <div style={{ fontSize: '12px', color: 'black' }}>Tags:</div>
-
-                      {post.document.data.tags && post.document.data.tags.map((tag) => {
-                        return (
-                          <div key={tag} className="tag">{tag}</div>
-                        )
-                      })
-
-                      }
-
-                    </div>
-
                   </div>
-                </Col>
 
-              </div>
+                </div>
+              </Col>
 
 
             </Row>
@@ -114,6 +112,7 @@ const BlogList = (props) => {
             flex:1;
             flex-direction:column;
             height:100%;
+            background:yellow;
             border-bottom:solid 1px whitesmoke;
           }
          

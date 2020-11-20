@@ -15,25 +15,25 @@
     "deploy": "yarn build && yarn export"
   },
   "dependencies": {
-    "@now/node": "^1.5.1",
-    "bootstrap": "^4.4.1",
+    "@now/node": "^1.8.5",
+    "bootstrap": "^4.5.3",
     "gray-matter": "^4.0.2",
-    "mailchimp-api-v3": "^1.13.1",
-    "next": "^9.3.2",
+    "mailchimp-api-v3": "^1.14.0",
+    "next": "^9.5.5",
     "node-glob": "^1.2.0",
     "raw-loader": "^3.1.0",
-    "react": "^16.13.0",
-    "react-bootstrap": "^1.0.0",
-    "react-dom": "^16.13.0",
-    "react-markdown": "^4.3.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-markdown": "^5.0.2",
     "react-syntax-highlighter": "^12.2.1",
-    "webpack": "^4.42.0"
+    "webpack": "^4.44.2"
   },
   "devDependencies": {
-    "@types/node": "^13.7.7",
+    "@types/node": "^13.13.31",
     "env-cmd": "^10.1.0",
     "prettier": "^1.19.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.7"
   },
   "keywords": [
     "next"

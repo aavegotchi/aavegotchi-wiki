@@ -3,7 +3,7 @@ author: Daniel Mathieu
 date: '2020-04-23T07:00:00.000Z'
 hero_image: /blocknative.jpg
 slug: seamless-dapp-ux-with-blocknative
-title: 'Seamless Dapp UX with Blocknative Notifications and Firebase Cloud Functions'
+title: 'Aavegotchi'
 description: 'Learn how to use the Blocknative Notify API to effortlessly synchronize blockchain transaction states with a traditional backend database.'
 tags: ["Dapp", "UX", "Blocknative"]
 ---
