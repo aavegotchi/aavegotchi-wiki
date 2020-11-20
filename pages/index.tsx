@@ -8,6 +8,13 @@ import Sidebar from '../components/Sidebar';
 import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
+import { useEffect, useState } from 'react';
+
+interface Commit {
+  date: string
+  name: string
+
+}
 
 const Index = (props) => {
 
@@ -15,12 +22,32 @@ const Index = (props) => {
   const markdownBody = props.content
   const frontmatter = props.data
 
+  const [latestCommit, setLatestCommit] = useState<Commit>(undefined)
+
   const parseHtml = htmlParser({
     isValidNode: (node) => node.type !== 'script',
     processingInstructions: [
       /* ... */
     ]
   })
+
+  useEffect(() => {
+
+    getLastCommits()
+
+  }, [])
+
+  async function getLastCommits() {
+    const url = "https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/index.md&page=1&per_page=1"
+
+    const commits = await fetch(url)
+    const response = await commits.json()
+
+    if (response.length > 0) {
+      setLatestCommit(response[0].commit.author)
+    }
+
+  }
 
   const renderers = {
     //This custom renderer changes how images are rendered
@@ -57,6 +84,12 @@ const Index = (props) => {
 
             <h1>{frontmatter.title}</h1>
 
+            {latestCommit &&
+              <div className="latestCommit">
+                Last updated on {latestCommit.date} by {latestCommit.name}
+              </div>
+            }
+
             <hr />
 
             <ReactMarkdownWithHtml
@@ -72,45 +105,17 @@ const Index = (props) => {
 
       </Row>
 
+      <style jsx>
+        {`
+        
+        `}
+      </style>
+
     </Layout >
   );
 };
 
 export default Index;
-
-/*
-Index.getInitialProps = async function () {
-  //@ts-ignore
-  const siteConfig = await import(`../data/config.json`)
-  //get posts & context from folder
-  const posts = (context => {
-    const keys = context.keys();
-    const values = keys.map(context);
-    const data = keys.map((key, index) => {
-      // Create slug from filename
-      const slug = key
-        .replace(/^.*[\\\/]/, "")
-        .split(".")
-        .slice(0, -1)
-        .join(".");
-      const value = values[index];
-      // Parse yaml metadata & markdownbody in document
-      const document = matter(value.default);
-      return {
-        document,
-        slug
-      };
-    });
-    return data;
-  })(require['context']("../posts", true, /\.md$/));
-
-  return {
-    allBlogs: posts,
-    ...siteConfig,
-  }
-}
-*/
-
 
 Index.getInitialProps = async function (ctx) {
   // const { slug } = ctx.query

@@ -62,3 +62,10 @@ a:hover {
     width:50px;
     height: 50px;
 }
+
+.latestCommit {
+    margin-top:-30px;
+    margin-bottom:30px;
+    font-style:oblique;
+    font-size:12px;
+  }

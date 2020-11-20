@@ -8,12 +8,19 @@ import Sidebar from "../../components/Sidebar";
 import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from "next/link";
+import { useEffect, useState } from "react";
+
+interface Commit {
+    date: string
+    name: string
+
+}
 
 const Page = (props) => {
 
     const router = useRouter()
 
-    console.log('router:', router)
+    const [latestCommit, setLatestCommit] = useState<Commit>(undefined)
 
     const CodeBlock = require('../../components/CodeBlock').default
 
@@ -36,6 +43,27 @@ const Page = (props) => {
             /* ... */
         ]
     })
+
+
+    useEffect(() => {
+
+        getLastCommits()
+
+    }, [router.query.pageID])
+
+    async function getLastCommits() {
+        const url = `https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/${router.query.pageID}.md&page=1&per_page=1`
+
+        const commits = await fetch(url)
+        const response = await commits.json()
+
+        console.log('response:', response)
+
+        if (response.length > 0) {
+            setLatestCommit(response[0].commit.author)
+        }
+
+    }
 
 
 
@@ -62,6 +90,13 @@ const Page = (props) => {
 
                     <div className="blogBody">
                         <h1>{frontmatter.title}</h1>
+
+                        {latestCommit &&
+                            <div className="latestCommit">
+                                Last updated on {latestCommit.date} by {latestCommit.name}
+                            </div>
+                        }
+
                         <hr />
                         <ReactMarkdownWithHtml
 
