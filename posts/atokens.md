@@ -28,5 +28,5 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 * <img class="atoken" src="/atokens/aMANA.svg"> aMANA
 * <img class="atoken" src="/atokens/aREP.svg"> aREP
 * <img class="atoken" src="/atokens/aSNX.svg"> aSNX
-* <img class="atoken" src="/atokens/awBTC.svg"> awBTC
+* <img class="atoken" src="/atokens/aWBTC.svg"> awBTC
 * <img class="atoken" src="/atokens/aZRX.svg"> aZRX

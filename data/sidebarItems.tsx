@@ -19,5 +19,9 @@ export const items = [
     {
         name: "Wearables",
         href: "wearables"
-    }
+    },
+	{
+        name: "Key Events",
+        href: "events"
+    }	
 ]
