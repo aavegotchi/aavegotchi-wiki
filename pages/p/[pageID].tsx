@@ -6,6 +6,9 @@ import Layout from "../../components/Layout";
 import NextReusableHead from "../../components/NextComponents/NextReusableHead";
 import Sidebar from "../../components/Sidebar";
 import { capitalize } from "../../functions";
+import ReactMarkdownWithHtml from 'react-markdown/with-html'
+import htmlParser from 'react-markdown/plugins/html-parser'
+import Link from "next/link";
 
 const Page = (props) => {
 
@@ -22,6 +25,22 @@ const Page = (props) => {
     const markdownBody = props.content
     const frontmatter = props.data
 
+    const renderers = {
+        //This custom renderer changes how images are rendered
+        //we use it to constrain the max width of an image to its container
+
+        link: ({ children, href }) => {
+            return <Link href={href}><a>{children}</a></Link>
+        },
+        code: CodeBlock
+    };
+
+    const parseHtml = htmlParser({
+        isValidNode: (node) => node.type !== 'script',
+        processingInstructions: [
+            /* ... */
+        ]
+    })
 
 
 
@@ -49,9 +68,12 @@ const Page = (props) => {
                     <div className="blogBody">
                         <h1>{frontmatter.title}</h1>
                         <hr />
-                        <ReactMarkdown
-                            renderers={{ code: CodeBlock }}
-                            source={markdownBody} />
+                        <ReactMarkdownWithHtml
+
+                            allowDangerousHtml={true}
+                            astPlugins={[parseHtml]}
+                            renderers={renderers}
+                            children={markdownBody} />
                     </div>
 
                 </Col>
