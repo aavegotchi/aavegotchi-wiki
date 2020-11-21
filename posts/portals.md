@@ -6,4 +6,4 @@ description: 'All about Aavegotchi Portals'
 ---
 To summon your Aavegotchi, you will first need to acquire a portal These will cost 100 GHST.
 
-Next para test.
+It's a me, trying to test out the editing.
