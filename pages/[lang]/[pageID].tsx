@@ -52,7 +52,7 @@ const Page = (props) => {
     }, [router.query.pageID])
 
     async function getLastCommits() {
-        const url = `https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/${router.query.pageID}.md&page=1&per_page=1`
+        const url = `https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/${router.query.lang}/${router.query.pageID}.md&page=1&per_page=1`
 
         const commits = await fetch(url)
         const response = await commits.json()
