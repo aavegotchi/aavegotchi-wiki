@@ -126,14 +126,24 @@ export default Index;
 Index.getInitialProps = async function (ctx) {
 
     const { lang, pageID } = ctx.query
-    const { res } = ctx
+    const { res, req } = ctx
 
     //Check if there's a pageID argument. If not, then redirect and try to find a page
     if (!pageID) {
 
         if (res) {
             console.log('NO PAGE ID, REDIRECT')
-            const path = `http://localhost:3000/en/${lang}`
+
+            const preferredLanguage: string = req ? req.headers['accept-language'] : navigator.languages
+
+            let code = preferredLanguage.slice(0, 2)
+
+            console.log('code:', code)
+
+            if (!code) {
+                code = "en"
+            }
+            const path = `http://localhost:3000/${code}/${lang}`
 
             res.writeHead(301, { Location: path });
             res.end()

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { items } from "../data/sidebarItems";
 import { themeHotPink } from "../theme";
 
@@ -8,6 +8,15 @@ interface SidebarProps {
 }
 
 const Sidebar = (props: SidebarProps) => {
+
+    const [languageCode, setLanguageCode] = useState(undefined)
+
+
+
+    useEffect(() => {
+        const code = navigator.languages[0].slice(0, 2)
+        setLanguageCode(code)
+    }, [])
 
 
     return (
@@ -87,7 +96,7 @@ const Sidebar = (props: SidebarProps) => {
                     }
 
                     return (
-                        <Link href="/p/[pageID]" as={`/p/${linkObject.href}`}>
+                        <Link href="/p/[pageID]" as={`/${languageCode}/${linkObject.href}`}>
                             <a>
                                 <li className="flexRow">
                                     <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} />
