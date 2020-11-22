@@ -61,7 +61,7 @@ description: 'History of the Aaavegotchi Project'
 * Uniswap LP staking of the GHST-ETH pair
 * Gotchi memes flooooding Aavegooootchi Reddit!
 
-## {29 September 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+## [29 September 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
 * STAKE GHST AND MAKE FRIENDS!!!!! Live on Kovan testnet!
 
 ## [25 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
@@ -87,7 +87,7 @@ description: 'History of the Aaavegotchi Project'
 
 ## [20 August 2020](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
 * Private sale soollllldddd ouuuuttt!
-* Launch of Aavegotchi Telegram chat!
+* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
 * Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
 ## [13 August 2020](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
