@@ -26,6 +26,10 @@ export const items = [
         href: "history"
     },
 	{
+		name: "Bonding Curve",
+		href: "curve"
+	},
+	{
 		name: "Memes",
 		href: "memes"
 	}
