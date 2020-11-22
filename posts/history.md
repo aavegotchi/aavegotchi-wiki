@@ -5,7 +5,7 @@ title: 'History'
 description: 'History of the Aaavegotchi Project'
 ---
 
-## 14 July 2020
+## [14 July 2020](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
 * Aavegotchi's first Medium Post!
 * Xibot joins the team!
 
@@ -36,3 +36,10 @@ description: 'History of the Aaavegotchi Project'
 
 ## 14 September 2020
 * $GHST has launched on Mainnet! Pre-sale soollllldddd ouuuuttt in under a minute! :O
+* GHST token held by over 2000 unique addresses! This is huuuugggeeeee
+
+## 24 September 2020
+* FRENS WITH CHAINLINK! Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
+
+## 
+
