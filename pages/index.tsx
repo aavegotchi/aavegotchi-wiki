@@ -84,11 +84,11 @@ const Index = (props) => {
 
             <h1>{frontmatter.title}</h1>
 
-            {latestCommit &&
-              <div className="latestCommit">
-                Last updated on {latestCommit.date} by {latestCommit.name}
-              </div>
-            }
+
+            <div className="latestCommit">
+              Last updated on {latestCommit && latestCommit.date} by {latestCommit && latestCommit.name}
+            </div>
+
 
             <hr />
 

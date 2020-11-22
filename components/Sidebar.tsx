@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { items } from "../data/sidebarItems";
+import { themeHotPink } from "../theme";
 
 interface SidebarProps {
 
@@ -19,7 +20,7 @@ const Sidebar = (props: SidebarProps) => {
                         min-height:600px;
                         height:auto;
                         height:100%;
-                        background:#FA34F3;
+                        background:${themeHotPink};
                         border:solid 5px #FFF971;
                         border-left:5px white;
                         border-style:none dashed none none;
@@ -51,6 +52,19 @@ const Sidebar = (props: SidebarProps) => {
                     a:hover {
                         text-decoration:none;
                     }
+
+                    .sideBarIcon {
+                        margin-top:-4px;
+                      margin-right:10px;
+                      width:26px;
+                      height:26px;
+                      height: 100%;
+                      object-fit: contain;
+                  }
+
+                  .name {
+                      font-size:14px;
+                  }
                 `}
             </style>
 
@@ -62,7 +76,10 @@ const Sidebar = (props: SidebarProps) => {
                             <Link href="/">
                                 <a>
                                     <li>
-                                        {linkObject.name}
+                                        <div className="name">
+                                            {linkObject.name}
+                                        </div>
+
                                     </li>
                                 </a>
                             </Link>
@@ -73,7 +90,12 @@ const Sidebar = (props: SidebarProps) => {
                         <Link href="/p/[pageID]" as={`/p/${linkObject.href}`}>
                             <a>
                                 <li className="flexRow">
-                                    <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} /> {linkObject.name}
+                                    <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} />
+
+                                    <div className="name">
+                                        {linkObject.name}
+                                    </div>
+
                                 </li>
                             </a>
                         </Link>
@@ -83,22 +105,6 @@ const Sidebar = (props: SidebarProps) => {
 
 
             </ul>
-
-
-            <style jsx>
-                {`
-                      .sideBarIcon {
-                          margin-top:-4px;
-                        margin-right:10px;
-                        width:26px;
-                        height:26px;
-                        height: 100%;
-                        object-fit: contain;
-                    }
-                `}
-            </style>
-
-
 
         </div>
     );

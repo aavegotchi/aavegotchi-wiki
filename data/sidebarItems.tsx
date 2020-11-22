@@ -1,12 +1,13 @@
 export const items = [
 
+    /*  {
+          name: "Home",
+          href: ""
+      },
+      */
     {
-        name: "Home",
-        href: ""
-    },
-    {
-        name: "About",
-        href: "about"
+        name: "Introduction",
+        href: "introduction"
     },
     {
         name: "Portals",
@@ -20,8 +21,8 @@ export const items = [
         name: "Wearables",
         href: "wearables"
     },
-	{
+    {
         name: "History",
         href: "history"
-    }	
+    }
 ]
