@@ -15,9 +15,9 @@ tags: ["Dapp", "UX", "Blocknative"]
 
 你好！
 
-Aavegotchi is an Non-Fungible Token (NFT) collectible with DeFi (Decentralized Finance) enabled elements released on Ethereum in late 2020.
+Aavegotchi是2020年底将在Ethereum上发布的一款支持DeFi（去中心化金融）元素的非同质化代币（NFT）收藏品。
 
-Aavegotchi is built around [DeFi token collateral stakes](/p/atokens), dynamic rarity, rarity farming, DAO-governed game mechanics, and a playable metaverse with mini-games.
+Aavegotchi是围绕[DeFi代币抵押](/p/atokens)、动态稀有度、稀有度养殖、DAO治理的游戏机制以及一个带有小游戏的可玩性元世界而建立的。 
 
 ## About
 Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. [4]
