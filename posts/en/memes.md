@@ -9,7 +9,7 @@ description: 'The meme game is stronk with this one'
 
 ### <span style="color:gold">1st place: Aavegotchi PAC MAN</span>
 
-<p><img class="memes" src="/memes/aavegotchiPACMAN.jpg" width = "250">
+<p><img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250">
 
 ### <span style="color:silver">2nd place: By Your Powers Combined</span>
 
