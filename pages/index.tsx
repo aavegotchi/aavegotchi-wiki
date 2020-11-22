@@ -1,7 +1,6 @@
 import matter from 'gray-matter'
 
 import Layout from "../components/Layout";
-import BlogList from "../components/BlogList";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
 import { Col, Container, Row } from 'react-bootstrap';
 import Sidebar from '../components/Sidebar';
@@ -9,6 +8,7 @@ import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+import { getLanguageCode } from '../functions';
 
 interface Commit {
   date: string
@@ -124,17 +124,7 @@ Index.getInitialProps = async function (ctx) {
   const { req } = ctx
   const slug = "index"
 
-  let code;
-
-  if (req) {
-    const preferredLanguage: string = req.headers['accept-language']
-    code = preferredLanguage.slice(0, 2)
-  }
-  else {
-    code = navigator.languages[0].slice(0, 2)
-  }
-
-  if (!code) code = "en"
+  const code = getLanguageCode(req, typeof navigator !== 'undefined' ? navigator.languages : [])
 
   try {
     const content = await import(`../posts/${code}/${slug}.md`)

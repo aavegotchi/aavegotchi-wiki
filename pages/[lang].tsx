@@ -1,7 +1,4 @@
-import matter from 'gray-matter'
-
 import Layout from "../components/Layout";
-import BlogList from "../components/BlogList";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
 import { Col, Container, Row } from 'react-bootstrap';
 import Sidebar from '../components/Sidebar';
@@ -10,6 +7,7 @@ import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/dist/client/router';
+import { getLanguageCode } from '../functions';
 
 interface Commit {
     date: string
@@ -20,8 +18,6 @@ interface Commit {
 const Index = (props) => {
 
     const router = useRouter()
-    console.log('qery:', router.query)
-
     const CodeBlock = require('../components/CodeBlock').default
     const markdownBody = props.content
     const frontmatter = props.data
@@ -133,21 +129,8 @@ Index.getInitialProps = async function (ctx) {
 
         if (res) {
 
-            let code;
-
-            if (req) {
-                const preferredLanguage: string = req.headers['accept-language']
-                code = preferredLanguage.slice(0, 2)
-            }
-            else {
-                code = navigator.languages[0].slice(0, 2)
-
-            }
-
-            if (!code) code = "en"
-
             //Set the correct language for their browser
-
+            const code = getLanguageCode(req, typeof navigator !== 'undefined' ? navigator.languages : [])
 
             //Add on SSH if it's not localhost
             let path
