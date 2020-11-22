@@ -132,17 +132,29 @@ Index.getInitialProps = async function (ctx) {
   }
   else {
     code = navigator.languages[0].slice(0, 2)
-
   }
 
   if (!code) code = "en"
 
-  const content = await import(`../posts/${code}/${slug}.md`)
-  //@ts-ignore
-  const config = await import(`../data/config.json`)
-  const data = matter(content.default);
-  return {
-    siteTitle: config.title,
-    ...data
+  try {
+    const content = await import(`../posts/${code}/${slug}.md`)
+    //@ts-ignore
+    const config = await import(`../data/config.json`)
+    const data = matter(content.default);
+    return {
+      siteTitle: config.title,
+      ...data
+    }
+  } catch (error) {
+    const content = await import(`../posts/en/${slug}.md`)
+    //@ts-ignore
+    const config = await import(`../data/config.json`)
+    const data = matter(content.default);
+    return {
+      siteTitle: config.title,
+      ...data
+    }
   }
+
+
 }
