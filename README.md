@@ -43,4 +43,9 @@ Once you're happy with your changes, submit a pull request and an Aarchiver will
 
 - Sidebar: `components/Sidebar`. 
 - Global Styles `styles.css`. 
-- Pages: `/p/[pageID]` fetches the Markdown file of the current page
+- Pages: `/[lang]/[pageID]` fetches the localized Markdown file of the current page. 
+
+## Localization
+
+All localization will be done via the CrowdIn platform at https://crowdin.com/project/aavegotchi-wiki. 
+Currently we're testing the workflow with Chinese - Simplified but will soon add other languages!
