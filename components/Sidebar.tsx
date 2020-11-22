@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 import { items } from "../data/sidebarItems";
+import { getLanguageCode } from "../functions";
 import { themeHotPink } from "../theme";
 
 interface SidebarProps {
@@ -14,7 +15,10 @@ const Sidebar = (props: SidebarProps) => {
 
 
     useEffect(() => {
-        const code = navigator.languages[0].slice(0, 2)
+        //  const code = navigator.languages[0].slice(0, 2)
+
+        const code = getLanguageCode(undefined, navigator.languages)
+
         setLanguageCode(code)
     }, [])
 
