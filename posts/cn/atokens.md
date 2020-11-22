@@ -5,11 +5,11 @@ title: 'aTokens'
 description: '一切关于Aavegotchi的aTokens'
 ---
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in Aave protocol. aTokens can be freely stored, transferred, and traded.
+aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 aTokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+当基础资产贷给借款人时，Tokens 直接在您的钱包中实时计息！ 请注意，您可以看到您的余额每分钟都会增加。
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) are available on the Aave Protocol:
+以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) 可在 Aave 协议上获取：
 
 * <img class="atoken" src="/atokens/aDAI.svg" /> aDAI
 * <img class="atoken" src="/atokens/aUSDC.svg" /> aUSDC
