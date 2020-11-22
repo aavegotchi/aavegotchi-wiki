@@ -132,14 +132,22 @@ Index.getInitialProps = async function (ctx) {
     if (!pageID) {
 
         if (res) {
-            console.log('NO PAGE ID, REDIRECT')
+
+            let code;
+
+            if (req) {
+                const preferredLanguage: string = req.headers['accept-language']
+                code = preferredLanguage.slice(0, 2)
+            }
+            else {
+                code = navigator.languages[0].slice(0, 2)
+
+            }
+
+            if (!code) code = "en"
 
             //Set the correct language for their browser
-            const preferredLanguage: string = req ? req.headers['accept-language'] : navigator.languages
-            let code = preferredLanguage.slice(0, 2)
-            if (!code) {
-                code = "en"
-            }
+
 
             //Add on SSH if it's not localhost
             let path
@@ -155,6 +163,8 @@ Index.getInitialProps = async function (ctx) {
             res.writeHead(301, { Location: path });
             res.end()
         }
+
+
 
     }
 }

@@ -96,7 +96,7 @@ const Sidebar = (props: SidebarProps) => {
                     }
 
                     return (
-                        <Link href="/p/[pageID]" as={`/${languageCode}/${linkObject.href}`}>
+                        <Link href="/[lang]/[pageID]" as={`/${languageCode}/${linkObject.href}`}>
                             <a>
                                 <li className="flexRow">
                                     <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} />

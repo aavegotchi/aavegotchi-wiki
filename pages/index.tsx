@@ -124,8 +124,18 @@ Index.getInitialProps = async function (ctx) {
   const { req } = ctx
   const slug = "index"
 
-  const preferredLanguage: string = req ? req.headers['accept-language'] : navigator.languages
-  let code = preferredLanguage.slice(0, 2)
+  let code;
+
+  if (req) {
+    const preferredLanguage: string = req.headers['accept-language']
+    code = preferredLanguage.slice(0, 2)
+  }
+  else {
+    code = navigator.languages[0].slice(0, 2)
+
+  }
+
+  if (!code) code = "en"
 
   const content = await import(`../posts/${code}/${slug}.md`)
   //@ts-ignore
