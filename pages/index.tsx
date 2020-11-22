@@ -121,9 +121,13 @@ export default Index;
 
 Index.getInitialProps = async function (ctx) {
 
-  // const { slug } = ctx.query
+  const { req } = ctx
   const slug = "index"
-  const content = await import(`../posts/${slug}.md`)
+
+  const preferredLanguage: string = req ? req.headers['accept-language'] : navigator.languages
+  let code = preferredLanguage.slice(0, 2)
+
+  const content = await import(`../posts/${code}/${slug}.md`)
   //@ts-ignore
   const config = await import(`../data/config.json`)
   const data = matter(content.default);

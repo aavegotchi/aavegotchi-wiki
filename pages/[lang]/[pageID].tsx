@@ -119,10 +119,10 @@ export default Page;
 Page.getInitialProps = async function (ctx) {
     const { lang, pageID } = ctx.query
 
-    console.log('file exists')
 
+    //First check if this page exists in the language 
     try {
-        const content = await import(`../../posts/${pageID}.md`)
+        const content = await import(`../../posts/${lang}/${pageID}.md`)
         //@ts-ignore
         const config = await import(`../../data/config.json`)
         const data = matter(content.default);
@@ -131,37 +131,30 @@ Page.getInitialProps = async function (ctx) {
             ...data
         }
     } catch (error) {
-
-        //@ts-ignore
-        const content = await import(`../../posts/error.md`)
-        //@ts-ignore
-        const config = await import(`../../data/config.json`)
-        const data = matter(content.default);
-        return {
-            siteTitle: config.title,
-            ...data
+        //Then check if this page exists in English
+        try {
+            //@ts-ignore
+            const content = await import(`../../posts/en/${pageID}.md`)
+            //@ts-ignore
+            const config = await import(`../../data/config.json`)
+            const data = matter(content.default);
+            return {
+                siteTitle: config.title,
+                ...data
+            }
+        } catch (error) {
+            //@ts-ignore
+            const content = await import(`../../posts/en/error.md`)
+            //@ts-ignore
+            const config = await import(`../../data/config.json`)
+            const data = matter(content.default);
+            return {
+                siteTitle: config.title,
+                ...data
+            }
         }
+
+
     }
-
-
-    //  }
-    /*
-    else {
-        console.log('404')
-
-        //@ts-ignore
-        const content = await import(`../../posts/error.md`)
-        const data = matter(content.default);
-
-        return {
-            siteTitle: "Page Not Found",
-            ...data
-
-
-        }
-    }
-    */
-
-
 
 }
