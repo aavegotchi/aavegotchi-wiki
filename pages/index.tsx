@@ -35,6 +35,8 @@ const Index = (props) => {
 
     getLastCommits()
 
+    console.log('navigator:', navigator.languages)
+
   }, [])
 
   async function getLastCommits() {
@@ -118,6 +120,7 @@ const Index = (props) => {
 export default Index;
 
 Index.getInitialProps = async function (ctx) {
+
   // const { slug } = ctx.query
   const slug = "index"
   const content = await import(`../posts/${slug}.md`)

@@ -117,13 +117,51 @@ const Page = (props) => {
 export default Page;
 
 Page.getInitialProps = async function (ctx) {
-    const { pageID } = ctx.query
-    const content = await import(`../../posts/${pageID}.md`)
-    //@ts-ignore
-    const config = await import(`../../data/config.json`)
-    const data = matter(content.default);
-    return {
-        siteTitle: config.title,
-        ...data
+    const { lang, pageID } = ctx.query
+
+    console.log('file exists')
+
+    try {
+        const content = await import(`../../posts/${pageID}.md`)
+        //@ts-ignore
+        const config = await import(`../../data/config.json`)
+        const data = matter(content.default);
+        return {
+            siteTitle: config.title,
+            ...data
+        }
+    } catch (error) {
+
+        //@ts-ignore
+        const content = await import(`../../posts/error.md`)
+        //@ts-ignore
+        const config = await import(`../../data/config.json`)
+        const data = matter(content.default);
+        return {
+            siteTitle: config.title,
+            ...data
+        }
     }
+
+
+    //  }
+    /*
+    else {
+        console.log('404')
+
+        //@ts-ignore
+        const content = await import(`../../posts/error.md`)
+        const data = matter(content.default);
+
+        return {
+            siteTitle: "Page Not Found",
+            ...data
+
+
+        }
+    }
+    */
+
+
+
 }
