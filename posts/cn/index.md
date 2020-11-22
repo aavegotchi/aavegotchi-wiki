@@ -4,24 +4,26 @@ date: '2020-04-23T07:00:00.000Z'
 hero_image: /blocknative.jpg
 title: 'Aavegotchi Wiki'
 description: 'All about the Aavegotchi Wiki'
-tags: ["Dapp", "UX", "Blocknative"]
+tags:
+  - "Dapp"
+  - "UX"
+  - "Blocknative"
 ---
 
 <div class="rightImageContainer">
 <img class="rightImage" src="/icons/introduction.svg">
-<p class="rightImageText">The Aavegotchi Wiki</p>
+<p class="rightImageText">Aavegotchi 百科</p>
 </div>
 
+欢迎来到官方的Aavegotchi百科
 
-Welcome to the official Aavegotchi Wiki, fren! 
+这个aavegotchi百科是所有Aavegotchi的中心知识网，由我们的著名贡献者团队，即Aarchivers维护和更新。
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
+## Aavegotchi相关
 
-## New to Aavegotchi?
+这里 [介绍](https://wiki.aavegotchi.com/introduction) 用于Aavegotchi 游戏的详细概述。
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game. 
-
-## Popular Pages
+## 热门页面
 * [Gameplay](https://wiki.aavegotchi.com/gameplay) -- Introduction to the Aavegotchi game
 * [GHST](https://wiki.aavegotchi.com/ghst) -- Learn about the eco-governance token of Aavegotchi
 * [Staking](https://wiki.aavegotchi.com/staking) -- Learn how to stake GHST to make FRENS
@@ -36,7 +38,7 @@ Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-leve
 
 ## Contribute
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki). 
+Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
 If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
 
