@@ -15,10 +15,7 @@ const Sidebar = (props: SidebarProps) => {
 
 
     useEffect(() => {
-        //  const code = navigator.languages[0].slice(0, 2)
-
         const code = getLanguageCode(undefined, navigator.languages)
-
         setLanguageCode(code)
     }, [])
 

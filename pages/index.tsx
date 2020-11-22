@@ -32,11 +32,7 @@ const Index = (props) => {
   })
 
   useEffect(() => {
-
     getLastCommits()
-
-    console.log('navigator:', navigator.languages)
-
   }, [])
 
   async function getLastCommits() {

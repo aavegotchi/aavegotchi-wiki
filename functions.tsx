@@ -15,14 +15,21 @@ export function getLanguageCode(req, languages) {
     if (req) {
         const preferredLanguage: string = req.headers['accept-language']
         code = preferredLanguage.slice(0, 2)
+        console.log('req code:', code)
+    }
+    else if (languages.length > 0) {
+        code = languages[0].slice(0, 2)
+        console.log('languages code:', code)
     }
     else {
-        code = navigator.languages[0].slice(0, 2)
+        code = "en"
     }
 
     //Handle some cases
     if (code === "zh-CN") code = "cn"
     if (!code) code = "en"
+
+    console.log('final code:', code)
 
     return code;
 }
