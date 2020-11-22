@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: 'Coder Dan'
 title: 'Metaverse'
 description: 'All about the Aavegotchi Metaverse'
 ---
