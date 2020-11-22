@@ -24,5 +24,9 @@ export const items = [
     {
         name: "History",
         href: "history"
-    }
+    },
+	{
+		name: "Memes",
+		href: "memes"
+	}
 ]
