@@ -71,16 +71,45 @@ a:hover {
 .rightImageContainer {
     width:350px;
     height:auto;
-    float:right; 
+    float:right;
     border-radius:10px;
-    padding:15px; 
+    padding:15px;
     padding-bottom: 0;
     margin-left:20px;
     border: solid 5px whitesmoke;
-   
+
 }
 
 .rightImageText {
+    margin-top: 10px;
+    text-align:center;
+}
+
+.leftImage {
+    width:100%;
+    height:100%;
+}
+
+.leftFlexContainer {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  display: inline-block;
+}
+
+.leftImageContainer {
+    width:250px;
+    height:auto;
+    /*float:left;*/
+    border-radius:10px;
+    padding:15px;
+    padding-bottom: 15px;
+    margin-right:20px;
+    border: solid 5px whitesmoke;
+
+}
+
+.leftImageText {
     margin-top: 10px;
     text-align:center;
 }
@@ -111,5 +140,3 @@ a:hover {
       height: 128px;
       margin-right: 10px;
   }
-
-  
