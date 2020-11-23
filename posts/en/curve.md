@@ -13,4 +13,8 @@ This bonding curve says that price increases as the supply of the token increase
 
 When a person has purchased the token, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
 
+### Resources on Bonding Curves
+
 Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+
+Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
