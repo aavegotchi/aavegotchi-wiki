@@ -7,7 +7,7 @@ description: 'The Aavegotchi Bonding Curve'
 
 A bonding curve is a mathematical curve that defines a relationship between price and token supply. Here’s an example of a bonding curve, where currentPrice = tokenSupply²:
 
-<p><img class="curve" src="/curve/bonding-curve.jpeg">
+<p><img class="curve" src="/curve/bonding-curve.jpeg" width = "500">
 
 This bonding curve says that price increases as the supply of the token increases. In the case of an exponential curve such as the one above, the growth rate accelerate as the number of tokens minted increases.
 
