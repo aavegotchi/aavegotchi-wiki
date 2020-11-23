@@ -1,27 +1,53 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
 title: 'Team'
 description: 'See who&#8217s building the Aavegotchi Game'
 ---
 
-## Coderdan
-将要改变世界的男人。 首席执行官。 网络名人。 Learn the art of the 'Gotchi and the Maiya tang from him!
+<div class="rightImageContainer">
+<img class="rightImage" src="/team/aavegotchi-team-photo.png">
+<p class="rightImageText">Non edited photo</p>
+</div>
 
-<a href="https://twitter.com/coderdannn" target="_blank"><img src = "/icons/twitter.png" width = "25" /></a>
+# The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world.
 
-## GldnXross
-If GldnXross ain't here, he'll be out making a name for himself rappin'. At present, a distinguished COO of the Aavegotchi project.
+Insert story about how the team came together, and how coderdan will change the world ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<a href="https://twitter.com/gldnxross"  target="_blank"><img src = "/icons/twitter.png" width = "25" /></a>
+<div class="leftFlexContainer">
+  <div class="leftImageContainer">
+  <img class="leftImage" src="/team/jesse-wizard-hat.png">
+  <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
+  </div>
+Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
 
-## Xibot
-Our great artist and first among all the bots. Is he a bot?, a human, or an advanced AI? We will never know!
 
-<a href="https://twitter.com/xavieriturralde"  target="_blank"><img src = "/icons/twitter.png" width = "25" /></a>
+  <div class="leftImageContainer">
+  <img class="leftImage" src="/coderdan.jpg">
+  <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
+  </div>
+Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
 
-## Nick Mudge
-Diamonds are a girl's best friend? Nah. It's Nick Mudge's best fren! Author of the [Diamond Standard](https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb). The Solidity Champ!
 
-<a href="https://twitter.com/mudgen"  target="_blank"><img src = "/icons/twitter.png" width = "25" /></a>
+  <div class="leftImageContainer">
+  <img class="leftImage" src="/team/xi-bot-spaceman.jpg">
+  <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
+  </div>
+Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
 
+  <div class="leftImageContainer">
+  <img class="leftImage" src="/team/nick-mudge.jpg">
+  <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
+  </div>
+
+Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+
+  <div class="leftImageContainer">
+  <img class="leftImage" src="/team/jc-crown.jpg">
+  <p class="leftImageText">JC Crown</p>
+  </div>
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+
+
+</div>
