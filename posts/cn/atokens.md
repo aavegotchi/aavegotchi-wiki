@@ -5,11 +5,22 @@ title: 'aTokens'
 description: '一切关于Aavegotchi的aTokens'
 ---
 
-aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 aTokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。
+## Table of contents
+1. [Introduction](#introduction)
+2. [Stablecoins](#stablecoins)
+3. [Cryptocurrencies](#cryptocurrencies)
+
+## Introduction <a name = "en/atokens/introduction"></a>
+
+aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens 可以自由存储、转移和交易。
 
 当基础资产贷给借款人时，Tokens 直接在您的钱包中实时计息！ 请注意，您可以看到您的余额每分钟都会增加。
 
-以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) 可在 Aave 协议上获取：
+aTokens can be classified into one of two categories: (1) stablecoins, or (2) cryptocurrencies. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile. Cryptocurrencies are digital assets
+
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) are available on the Aave Protocol.
+
+## Stablecoins <a name = "stablecoins"></a>
 
 * <img class="atoken" src="/atokens/aDAI.svg" /> aDAI
 * <img class="atoken" src="/atokens/aUSDC.svg" /> aUSDC
@@ -17,6 +28,9 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 * <img class="atoken" src="/atokens/aUSDT.svg" /> aUSDT
 * <img class="atoken" src="/atokens/asUSD.svg" /> asUSD
 * <img class="atoken" src="/atokens/aBUSD.svg" /> aBUSD
+
+## Cryptocurrencies <a name = "cryptocurrencies"></a>
+
 * <img class="atoken" src="/atokens/aETH.svg" /> aETH
 * <img class="atoken" src="/atokens/aUNI.svg" /> aUNI
 * <img class="atoken" src="/atokens/aYFI.svg" /> aYFI
