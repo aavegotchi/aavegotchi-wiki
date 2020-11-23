@@ -6,7 +6,7 @@ description: 'See who&#8217s building the Aavegotchi Game'
 ---
 
 ## Coderdan
-The Man who will change the world. The CEO. The Internet Celebrity. Learn the art of the 'Gotchi and the Maiya tang from him!
+将要改变世界的男人。 首席执行官。 网络名人。 Learn the art of the 'Gotchi and the Maiya tang from him!
 
 <a href="https://twitter.com/coderdannn" target="_blank"><img src = "/icons/twitter.png" width = "25" /></a>
 
