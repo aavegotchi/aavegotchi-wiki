@@ -1,5 +1,6 @@
 import matter from 'gray-matter'
 
+import React from 'react'
 import Layout from "../components/Layout";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
 import { Col, Container, Row } from 'react-bootstrap';
