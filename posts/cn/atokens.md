@@ -6,11 +6,11 @@ description: '一切关于Aavegotchi的aTokens'
 ---
 
 ## Table of contents
-1. [Introduction](#introduction)
-2. [Stablecoins](#stablecoins)
-3. [Cryptocurrencies](#cryptocurrencies)
+1. <a href=#introduction>Introduction</a>
+2. <a href=#stablecoins>Stablecoins</a>
+3. <a href=#cryptocurrencies>Cryptocurrencies</a>
 
-## Introduction <a name = "en/atokens/introduction"></a>
+## Introduction
 
 aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens 可以自由存储、转移和交易。
 
@@ -20,7 +20,7 @@ aTokens can be classified into one of two categories: (1) stablecoins, or (2) cr
 
 The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) are available on the Aave Protocol.
 
-## Stablecoins <a name = "stablecoins"></a>
+## Stablecoins
 
 * <img class="atoken" src="/atokens/aDAI.svg" /> aDAI
 * <img class="atoken" src="/atokens/aUSDC.svg" /> aUSDC
@@ -29,7 +29,7 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 * <img class="atoken" src="/atokens/asUSD.svg" /> asUSD
 * <img class="atoken" src="/atokens/aBUSD.svg" /> aBUSD
 
-## Cryptocurrencies <a name = "cryptocurrencies"></a>
+## Cryptocurrencies
 
 * <img class="atoken" src="/atokens/aETH.svg" /> aETH
 * <img class="atoken" src="/atokens/aUNI.svg" /> aUNI
