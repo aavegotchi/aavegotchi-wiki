@@ -21,11 +21,13 @@ Insert story about how the team came together, and how coderdan will change the 
   </div>
 Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
 
+
   <div class="leftImageContainer">
   <img class="leftImage" src="/coderdan.jpg">
   <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
   </div>
 Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+
 
   <div class="leftImageContainer">
   <img class="leftImage" src="/team/xi-bot-spaceman.jpg">
