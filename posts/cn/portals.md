@@ -7,4 +7,4 @@ description: 'All about Aavegotchi Portals'
 
 要召唤您的 Aavegotchi, 您将首先需要购买一个传送门，这将花费100 GHST。
 
-. .
+. Why do the git gods hate me. pew pew i'm trying to test again
