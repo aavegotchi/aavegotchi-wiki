@@ -1,4 +1,5 @@
 import { useRouter } from "next/dist/client/router";
+import React from 'react'
 import matter from 'gray-matter'
 import { Row, Col, Container } from "react-bootstrap";
 import ReactMarkdown from "react-markdown"
@@ -27,6 +28,24 @@ const Page = (props) => {
     const markdownBody = props.content
     const frontmatter = props.data
 
+
+    const flatten = (text: string, child) => {
+        return typeof child === 'string'
+            ? text + child
+            : React.Children.toArray(child.props.children).reduce(flatten, text);
+    };
+
+    /**
+     * HeadingRenderer is a custom renderer
+     * It parses the heading and attaches an id to it to be used as an anchor
+     */
+    const HeadingRenderer = props => {
+        const children = React.Children.toArray(props.children);
+        const text = children.reduce(flatten, '');
+        const slug = text.toLowerCase().replace(/\W/g, '-');
+        return React.createElement('h' + props.level, { id: slug }, props.children);
+    };
+
     const renderers = {
         //This custom renderer changes how images are rendered
         //we use it to constrain the max width of an image to its container
@@ -34,7 +53,8 @@ const Page = (props) => {
         link: ({ children, href }) => {
             return <Link href={href}><a target="_blank">{children}</a></Link>
         },
-        code: CodeBlock
+        code: CodeBlock,
+        heading: HeadingRenderer
     };
 
     const parseHtml = htmlParser({
@@ -64,6 +84,7 @@ const Page = (props) => {
         }
 
     }
+
 
 
 
