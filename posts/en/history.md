@@ -71,6 +71,7 @@ description: 'History of the Aaavegotchi Project'
 
 ## [24 September 2020](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
 * FRENS WITH CHAINLINK! Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
+* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
 
 ## [14 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
 * $GHST has launched on Mainnet! Pre-sale soollllldddd ouuuuttt in under a minute! :O

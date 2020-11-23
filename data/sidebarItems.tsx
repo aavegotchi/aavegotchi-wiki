@@ -9,6 +9,10 @@ export const items = [
         name: "Introduction",
         href: "introduction"
     },
+	{
+		name: "Team",
+		href: "team"
+	},
     {
         name: "Portals",
         href: "portals"
