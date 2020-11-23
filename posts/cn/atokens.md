@@ -9,6 +9,7 @@ description: '一切关于Aavegotchi的aTokens'
 1. <a href=#introduction>Introduction</a>
 2. <a href=#stablecoins>Stablecoins</a>
 3. <a href=#cryptocurrencies>Cryptocurrencies</a>
+4. <a href=#gettingatokens>Getting aTokens</a>
 
 ## Introduction
 
@@ -16,9 +17,9 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 当基础资产贷给借款人时，Tokens 直接在您的钱包中实时计息！ 请注意，您可以看到您的余额每分钟都会增加。
 
-aTokens can be classified into one of two categories: (1) stablecoins, or (2) cryptocurrencies. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile. Cryptocurrencies are digital assets
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) are available on the Aave Protocol.
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol.
 
 ## Stablecoins
 
@@ -44,3 +45,14 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 * <img class="atoken" src="/atokens/aSNX.svg" /> aSNX
 * <img class="atoken" src="/atokens/aWBTC.svg" /> aWBTC
 * <img class="atoken" src="/atokens/aZRX.svg" /> aZRX
+
+## Getting aTokens
+
+1). Head over to the [Aave Protocol](https://aave.com/). Scroll down the page and you will see something similar to the screenshot below.
+
+<img src = "/atokens/aave-dashboard.png" width = "750" />
+
+
+2). Select the token of your choice and click deposit. For example, if you want aDAI, click the Deposit button for DAI.
+
+3). 
