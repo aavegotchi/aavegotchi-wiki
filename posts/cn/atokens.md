@@ -48,7 +48,7 @@ a令牌可分为两类之一：(1) 加密货币，或(2) 稳定币。 加密货�
 
 ## 获取 aTokens
 
-1). 跳转到 [Aave协议](https://aave. com/)。 向下滚动页面，您将看到类似于下面截图的页面。
+1). 跳转到 [aave协议](https://aave.com/)。 向下滚动页面，您将看到类似于下面截图的页面。
 
 <img src = "/atokens/aave-dashboard.png" width = "750" />
 
