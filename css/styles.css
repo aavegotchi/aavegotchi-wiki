@@ -5,6 +5,7 @@
 --rarity-legendary: #FFC36B;
 --rarity-mythical:#FF96FF;
 --rarity-godlike:#51FFA8;
+--theme-hot-pink: #FA34F3;
 }
 
 .common {
@@ -32,7 +33,24 @@ body {
 }
 
 a {
-    color: #FA34F3;
+    color: var(--theme-hot-pink)
+}
+
+.button-default {
+    background: var(--theme-hot-pink);
+    color: white;
+    padding: 18px 9px 18px 9px;
+    text-transform: uppercase;
+    font-size: 12px;
+    border: solid 3px yellow;
+    border-style: dashed;
+}
+
+.button-default:hover {
+    color: var(--theme-hot-pink);
+    background: white;
+    border: solid 3px var(--theme-hot-pink);
+    border-style: dashed;
 }
 
 a:hover {
