@@ -141,6 +141,8 @@ Index.getInitialProps = async function (ctx) {
 
   const code = getLanguageCode(req, typeof navigator !== 'undefined' ? navigator.languages : [])
 
+  console.log('code:', code)
+
   try {
     const content = await import(`../posts/${code}/${slug}.md`)
     //@ts-ignore

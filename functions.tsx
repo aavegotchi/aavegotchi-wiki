@@ -25,7 +25,7 @@ export function getLanguageCode(req, languages) {
     if (code.toLowerCase() === "zh-cn") code = "cn"
     else if (!code) code = "en"
 
-    console.log('final code:', code.slice(0, 2))
+    console.log('final code:', code)
 
     return code.slice(0, 2);
 }
