@@ -12,11 +12,11 @@ description: 'The Aavegotchi Bonding Curve'
 
 ## 介紹
 
-聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 Here’s an example of a bonding curve, where currentPrice = tokenSupply:
+聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 這是一個聯合曲線的示例，其中當前價格 = tokenSupply²：
 
 <p><img class="curve" src="/curve/bonding-curve.jpeg" width = "500" />
 
-This bonding curve says that price increases as the supply of the token increases. In the case of an exponential curve such as the one above, the growth rate accelerate as the number of tokens minted increases.
+這種聯合曲線表明，價格隨著代幣供應的增加而上漲。 In the case of an exponential curve such as the one above, the growth rate accelerate as the number of tokens minted increases.
 
 When a person has purchased the token, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
 
