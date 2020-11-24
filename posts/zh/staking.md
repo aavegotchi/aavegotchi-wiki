@@ -5,4 +5,4 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 ---
 
-There's no content for this page yet! [Dive in](https://github.com/aavegotchi/aavegotchi-wiki) and start writing.
+There's no content for this page yet! There's no content for this page yet! [Dive in](https://github.com/aavegotchi/aavegotchi-wiki) and start writing.
