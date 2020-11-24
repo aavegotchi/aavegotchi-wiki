@@ -18,7 +18,7 @@ tags:
 
 Aavegotchi是2020年底將在Ethereum上發布的一款支持DeFi（去中心化金融）元素的非同質化代币（NFT）收藏品。
 
-Aavegotchi 是圍繞<0> DeFi代幣抵押</0>、動態稀有度、稀有度養殖、DAO治理的遊戲機制以及一個带有小遊戲的可玩性元世界而建立的。
+Aavegotchi 是圍繞[DeFi代幣抵押](/p/atokens)、動態稀有度、稀有度養殖、DAO治理的遊戲機制以及一個带有小遊戲的可玩性元世界而建立的。
 
 ## 關於
 Aavegotchis是生活在Ethereum區塊鏈上的稀有加密收藏品，由流行的區塊鏈遊戲如CryptoKitties、Axie Infinity和Cryptovoxels等使用的ERC-721標準支持。 [4] Aavegotchis擁有三種屬性，抵押物、特徵和可穿戴物，這些屬性決定了它們在Aavegotchi宇宙中的整體價值和稀有度。
