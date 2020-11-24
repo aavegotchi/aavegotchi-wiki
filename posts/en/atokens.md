@@ -33,7 +33,7 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 ## Cryptocurrencies
 
 * <img class="atoken" src="/atokens/aETH.svg" alt = "aETH token"> aETH
-* <img class="atoken" src="/atokens/aUNI.svg" alt = a"UNI token"> aUNI
+* <img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token"> aUNI
 * <img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token"> aYFI
 * <img class="atoken" src="/atokens/aBAT.svg" alt = "aBAT token"> aBAT
 * <img class="atoken" src="/atokens/aREN.svg" alt = "aREN token"> aREN
