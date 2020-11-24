@@ -1,9 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'History'
+title: '编年史'
 description: 'History of the Aaavegotchi Project'
 ---
+
+## [2020年11月23日](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave正式宣布了他们对Pixelcraft Studios的投资！
+* Pixelcraft Studios 是Aavegotchi 的主要开发团队
 
 ## [2020年11月20日](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * Aavegotchi ❤ Chainlink 小说, 由我们自己的学徒编写 [Appellants](https://twitter.com/sinkielinkie)！
@@ -71,9 +75,10 @@ description: 'History of the Aaavegotchi Project'
 
 ## [2020 年 9 月 24 日](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
 * 与CHAINLINK合作！ Coderdan 解释了Chainlink的可验证随机函数 (VRF) 和 Aavegotchi 如何使用它
+* 更深入地解释Chainlink VRF，请参阅 [Chainlink文章](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)
 
 ## [2020 年 9 月 14 日](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST 已在Mainnet上启动！ 预售在1分钟内完成！ :
+* $GHST 已在Mainnet上启动！ 预售在1分钟内完成！ 哦！
 * GHST 令牌由 2000 多个唯一地址持有！ 这是多么伟大！
 
 ## [2020 年 9 月 10 日](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)

@@ -1,5 +1,6 @@
 import matter from 'gray-matter'
 
+import React from 'react'
 import Layout from "../components/Layout";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
 import { Col, Container, Row } from 'react-bootstrap';
@@ -47,6 +48,23 @@ const Index = (props) => {
 
   }
 
+  const flatten = (text: string, child) => {
+    return typeof child === 'string'
+      ? text + child
+      : React.Children.toArray(child.props.children).reduce(flatten, text);
+  };
+
+  /**
+   * HeadingRenderer is a custom renderer
+   * It parses the heading and attaches an id to it to be used as an anchor
+   */
+  const HeadingRenderer = props => {
+    const children = React.Children.toArray(props.children);
+    const text = children.reduce(flatten, '');
+    const slug = text.toLowerCase().replace(/\W/g, '-');
+    return React.createElement('h' + props.level, { id: slug }, props.children);
+  };
+
   const renderers = {
     //This custom renderer changes how images are rendered
     //we use it to constrain the max width of an image to its container
@@ -54,7 +72,8 @@ const Index = (props) => {
     link: ({ children, href }) => {
       return <Link href={href}><a target="_blank">{children}</a></Link>
     },
-    code: CodeBlock
+    code: CodeBlock,
+    heading: HeadingRenderer
   };
 
   return (

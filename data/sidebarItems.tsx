@@ -9,10 +9,10 @@ export const items = [
         name: "Introduction",
         href: "introduction"
     },
-	{
-		name: "Team",
-		href: "team"
-	},
+    {
+        name: "Team",
+        href: "team"
+    },
     {
         name: "Portals",
         href: "portals"
@@ -29,12 +29,16 @@ export const items = [
         name: "History",
         href: "history"
     },
-	{
-		name: "Bonding Curve",
-		href: "curve"
-	},
-	{
-		name: "Memes",
-		href: "memes"
-	}
+    {
+        name: "Bonding Curve",
+        href: "curve"
+    },
+    {
+        name: "Memes",
+        href: "memes"
+    },
+    {
+        name: "Developers",
+        href: "developers"
+    }
 ]
