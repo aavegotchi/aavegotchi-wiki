@@ -21,25 +21,25 @@ tags:
 
 ## Aavegotchi相關
 
-這里 介紹 用於<0>Aavegotchi</0> 遊戲的詳细概述。
+這裡介紹用於<0>Aavegotchi</0> 遊戲的詳细概述。
 
-## 熱門鏈接
+## 熱門連結
 * <0>遊戲玩法</0>-- Aavegotchi遊戲簡介
-* [GHST](https://wiki.aavegotchi.com/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](https://wiki.aavegotchi.com/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](https://wiki.aavegotchi.com/dao) -- Everything there is to know about AavegotchiDAO
+* <0>GHST</0>-- 了解Aavegotchi的生態治理令牌
+* <0>質押</0>-- 學習如何使用 GHST 質押
+* <0>DAO</0>— 關於AavegotchiDAO 的一切内容
 
-## Other Useful Pages
+## 其它有用連結
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's buidlin' Aavegotchi
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- The up-to-date roadmap of Aavegotchi
+* <0>團隊</0>-- 查看Aavegotchi的創建團隊
+* <0>路線圖</0>-- Aavegotchi的最新路線圖。
 
 
 
-## Contribute
+## 貢獻
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+任何人都可以為百科做出貢獻，你只需要我們 Github 的寫入權限。
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+如果您想要作出貢獻，請到Aavegotchi Discord中的 #wiki頻道並請我們的Aarchivers 授予權限。
 
-Then head to our Github Repo and dive right in with your first commit. 
+現在就訪問我們的Github庫，進行提交第一個提交申請吧。 
