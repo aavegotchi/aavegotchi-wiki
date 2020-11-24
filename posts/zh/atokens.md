@@ -15,13 +15,13 @@ description: 'All about Aavegotchi aTokens'
 
 aTokens 是來自 Aave 協議的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens can be freely stored, transferred, and traded.
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+當基礎資產貸给借款人時，Tokens 直接在您的錢包中實時計息！ 請注意，您可以看到您的餘額每分鐘都會增加。 Seriously, you can watch your balance grow every minute.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+a令牌可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨幣是由加密技術保護的數字或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散化網路——一個由不同的計算機網路執行的分布式帳本。 穩定幣是一種加密貨幣，它試圖通過與美元等外部參考值掛鈎來提供價格穩定。 不同的穩定幣，掛鉤的基本機制不同，各自有各自的風險特徵。
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol.
+以下 aTokens （加密貨幣或者穩定幣）可在 Aave 協議上獲取：
 
-## Stablecoins
+## 穩定幣
 
 * <img class="atoken" src="/atokens/aDAI.svg" /> aDAI
 * <img class="atoken" src="/atokens/aUSDC.svg" /> aUSDC
@@ -30,7 +30,7 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 * <img class="atoken" src="/atokens/asUSD.svg" /> asUSD
 * <img class="atoken" src="/atokens/aBUSD.svg" /> aBUSD
 
-## Cryptocurrencies
+## 加密貨幣
 
 * <img class="atoken" src="/atokens/aETH.svg" /> aETH
 * <img class="atoken" src="/atokens/aUNI.svg" /> aUNI
