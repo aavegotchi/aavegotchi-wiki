@@ -34,25 +34,25 @@ Aavegotchis擁有多種特徵，這些特徵會影響他們的稀有度、他們
 
 "親屬關係 "並不是隨機分配的，而是在出生時就開始有一個固定的數值，並根據各種因素而增加或减少，比如Aavegotchi與同一個主人相處的时間，以及主人與它互動的頻率等。 \[4\] \[4\]
 ## 等級
-Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every few levels, Aavegotchis receive one Spirit Point that can be allocated towards increasing or decreasing a certain trait.
+Aavegotchis通過在Aavegotchi Dao中投票和參加小遊戲獲得更多的經驗來提升等級。 每隔幾級，Aavegotchis就會獲得一個靈點，可以用於增加或減少某個特性。
 
-## Wearables
-In addition to managing the aToken escrow, Aavegotchis also extend the ERC998 Composables standard, which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem.
+## 可穿戴裝備
+除了管理aToken托管，Aavegotchis還擴展了ERC998 Composables標準，使他們能夠管理附屬NFTs，即Aavegotchi生態系統中的可穿戴設備。
 
-Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits.
+並非每一個可穿戴設備都能被每個Aavegotchi裝備上。 一些可穿戴設備可能需要專門Aavegotchis装備，這些Aavegotchis有一定的抵押品，有一定級别的，有一定特徵的。
 
-Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+有些可穿戴設備可以增加或減少Aavegotchi的某些特質。 例如，裝備一把劍可以略微提升Aavegotchi的攻擊性，而裝備一件Bob Marley襯衫可以降低其能量水平。
 
-## Aavegotchi Value
-The valuation of an Aavegotchi will come from both from its intrinsic value and from its rarity value.
+## Aavegotchi 的價值
+Aavegotchi的價值將來自於它的内在價值和稀有價值。
 
-## Intrinsic value
-Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only ERC20 tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+## 內在價值
+内在價值是Aavegotchi抵押品的計價價值。 如果Aavegotchi以10個aDAI作為抵押品，那麼内在價值將是10個aDAI，再加上從貸款池中累積的任何额外aDAI。 最初，只有在Aave平台上上市的ERC20代幣（aTokens）才能作為抵押品。 然而，一旦AavegotchiDAO推出，社區將能夠投票決定允許哪些為新的抵押品。
 
-## Rarity value
-Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in more detail in the Aavegotchi official whitepaper to be released soon.
+## 稀有度值
+稀有度值是通過計算Aavegotchi宇宙中每個Aavegotchi的特質和裝備穿戴物的稀有度來決定的。 與其他NFT遊戲不同，稀有度在Aavegotchi中並不是一個固定的數值。 它可以隨著時間的推移而改變，因為Aavegotchi可以裝備不同等級的可穿戴設備。 因此，一周内稀有的Aavegotchi可能會變得很常見，反之亦然，這取決於Aavegotchi宇宙中特徵和可穿戴設備的整體分布。 這就實現了一個被稱為 "稀有度養成 "的新概念，在即將發佈的Aavegotchi官方白皮書中會有更詳细的解釋。
 
-## The Aavegotchi Universe
+## Aavegotchi宇宙
 The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate, including Portals, the $GHST Utility Token, AavegotchiDAO, and the Aavegotchi Realm.
 
 ## Portal
