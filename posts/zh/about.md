@@ -5,3 +5,5 @@ title: 'About Aavegotchi'
 description: 'All about Aavegotchi'
 ---
 
+
+dyveeegoooooooooooooooooootchi
