@@ -5,6 +5,10 @@ title: 'History'
 description: 'History of the Aaavegotchi Project'
 ---
 
+## [23 November 2020](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave announced officially regarding their investment in Pixelcraft Studios!
+* FYI Pixelcraft Studios is the main development team for Aavegotchi
+
 ## [20 November 2020](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)!
 

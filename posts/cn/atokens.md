@@ -19,7 +19,7 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 a令牌可分为两类之一：(1) 加密货币，或(2) 稳定币。 加密货币是由加密技术保护的数字或虚拟货币。 许多加密货币是基于区块链技术的分散化网络——一个由不同的计算机网络执行的分布式账本。 稳定币是一种加密货币，它试图通过与美元等外部参考值挂钩来提供价格稳定。 不同的稳定币，挂钩的基本机制不同，各自有各自的风险特征。
 
-以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) 可在 Aave 协议上获取：
+以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) （加密货币或者稳定币）可在 Aave 协议上获取：
 
 ## 稳定币
 
