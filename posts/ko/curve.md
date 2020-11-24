@@ -7,8 +7,7 @@ description: 'The Aavegotchi Bonding Curve'
 
 ## Table of contents
 1. <a href=#introduction>Introduction</a>
-2. <a href=#daico>DAICO</a>
-3. <a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a>
+2. <a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a>
 
 ## Introduction
 
@@ -28,13 +27,18 @@ The Reserve Ratio represents a fixed ratio between the Continuous Token’s tota
 
 Since each purchase or sale of a Continuous Token triggers an increase or decrease of Reserve Tokens and Continuous Tokens, the price of the Continuous Token with respect to its Reserve Tokens will continuously recalculate to maintain the configured reserve ratio between them.
 
-## DAICO
+TEH CURVE IS FOREVER!
+
+## Aavegotchi Bonding Curve
+The Aavegotchi Bonding Curve was distributed on 14 September 2020 via a bonding curve smart contract. After the conclusion of a presale for 500,000 $GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per $GHST. It has a reserve ratio of 33%.
+
+### DAICO
 A DAICO is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency. In addition, investors can also vote to do away with the project and have the investor funds returned.
 
 The Aavegotchi project launched the Bonding Curve through a DAICO on Aragon.
 
-## Aavegotchi Bonding Curve
-The Aavegotchi Bonding Curve was distributed on 14 September 2020 via a bonding curve smart contract. After the conclusion of a presale for 500,000 $GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per $GHST. It has a reserve ratio of 33%.
+First iteration of [AavegotchiDAO](https://aavegotchi.com/curve) launched in tandem with $GHST distribution. $GHST holders had the power to vote on increasing/ maintaining a “tap” mechanism that transfers funds from the token bonding curve (TBC) reserve to Pixelcraft to support development. The proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval.
+
 
 ### Resources on Bonding Curves
 
