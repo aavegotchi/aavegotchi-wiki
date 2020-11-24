@@ -17,7 +17,7 @@ tags:
 
 歡迎來到官方的Aavegotchi百科
 
-這個aavegotchi百科是所有Aavegotchi的中心知識網，由我們的著名貢獻者團隊，即Aarchivers維護和更新。
+這個Aavegotchi百科是所有Aavegotchi的中心知識網，由我們的著名貢獻者團隊，即Aarchivers維護和更新。
 
 ## Aavegotchi相關
 
