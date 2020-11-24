@@ -12,9 +12,9 @@ description: 'The Aavegotchi Bonding Curve'
 
 ## 介紹
 
-聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 這是一個聯合曲線的示例，其中當前價格 = tokenSupply²：
+聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 Here’s a screenshot of [Aavegotchi's bonding curve](https://aavegotchi.com/curve)  :
 
-<p><img class="curve" src="/curve/bonding-curve.jpeg" width = "500" />
+<p><img class="curve" src="/curve/bonding-curve.png" width = "500" />
 
 這種聯合曲線表明，價格隨著代幣供應的增加而上漲。 就像上文這樣的指數曲線而言，隨著標記數量的增加，增長率會加快。
 
