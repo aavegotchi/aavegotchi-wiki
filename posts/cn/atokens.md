@@ -48,24 +48,24 @@ a令牌可分为两类之一：(1) 加密货币，或(2) 稳定币。 加密货�
 
 ## 获取 aTokens
 
-*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
+*<a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">从零到英雄指南 2.0</a> 来自Aave Medium采取了以下步骤。 为方便读者阅读在这里复制了这份文件。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). 跳转到 <a href = "https://app.aave.com/">Aave 协议</a> 开始吧！
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). 这里你有几个选项来链接你的加密钱包，取决于你拥有哪种类型的钱包：
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" width = "500" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). 在您使用 Aave 协议之前，您需要拥有一些加密资产。 可用加密资产列表显示在 <a href=#stablecoins>稳定币</a> 和 <a href=#cryptocurrencies>虚拟货币</a> 上面的部分。
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+如果你不拥有任何加密资产，但你想要加入进来， 您将需要转换您的法定货币(普通货币，如美元、欧元等)，然后 将其转化为加密资产（例如上文之一）。
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+你很走运，Aave最近引入了一个加密转换功能，您可以直接从 Aave 协议应用程序购买加密资产！ 现在您可以使用 Transak 或 Ramp 即时购买您选择的资产，在几分钟内直接使用信用卡或借记卡或电汇(见下文)。
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" width = "500" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it!
+4). 一旦你将你的钱包连接到平台，你可以将一个资产存入Aave协议。 当您点击“存款”时，接口将显示您在钱包中可用的存款信息。 然后您选择您想要存入的资产，选择要存入多少资产，然后确定，您已经完成了！
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
-As soon as you deposit, you benefit from the deposit interest rate.
+一旦你进行存款，你就会受益于存款利率。
