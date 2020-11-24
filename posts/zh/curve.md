@@ -16,9 +16,9 @@ description: 'The Aavegotchi Bonding Curve'
 
 <p><img class="curve" src="/curve/bonding-curve.jpeg" width = "500" />
 
-這種聯合曲線表明，價格隨著代幣供應的增加而上漲。 In the case of an exponential curve such as the one above, the growth rate accelerate as the number of tokens minted increases.
+這種聯合曲線表明，價格隨著代幣供應的增加而上漲。 就像上文這樣的指數曲線而言，隨著標記數量的增加，增長率會加快。
 
-When a person has purchased the token, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
+當一個人購買了代幣時，每個随後的買方必須為每個代幣支付略高的價格， 為最早的投資者創造潛在利潤。 隨著更多的人了解該項目並繼續購買，每個代幣的價值沿著聯合曲線逐漸增加。 早期發現有前途的項目的投資者，購買聯合曲線代幣，然後再出售代幣，就能夠在未來賺取利潤。
 
 Bonding curves come with in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
 
