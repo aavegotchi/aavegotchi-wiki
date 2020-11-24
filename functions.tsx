@@ -1,3 +1,4 @@
+
 export function validateEmail(text) {
     let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
     return reg.test(text)
@@ -10,26 +11,21 @@ export const capitalize = (s) => {
 
 export function getLanguageCode(req, languages) {
 
-    let code;
+    let code: string;
 
     if (req) {
-        const preferredLanguage: string = req.headers['accept-language']
-        code = preferredLanguage.slice(0, 2)
+        //There's only one
+        code = req.headers['accept-language']
         console.log('req code:', code)
     }
-    else if (languages.length > 0) {
-        code = languages[0].slice(0, 2)
-        console.log('languages code:', code)
-    }
-    else {
-        code = "en"
-    }
+    else if (languages.length > 0) code = languages[0]
+    else code = "en"
 
     //Handle some cases
-    if (code === "zh-CN" || code === "zh") code = "cn"
-    if (!code) code = "en"
+    if (code.toLowerCase() === "zh-cn") code = "cn"
+    else if (!code) code = "en"
 
-    console.log('final code:', code)
+    console.log('final code:', code.slice(0, 2))
 
-    return code;
+    return code.slice(0, 2);
 }

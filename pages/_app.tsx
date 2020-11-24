@@ -5,10 +5,16 @@ import NextStyledNavBar from '../components/NextComponents/NextStyledNavBar'
 import '../css/fonts.css'
 import '../css/styles.css'
 
+
 class MyApp extends App {
+
+
 
     render() {
         const { Component, pageProps } = this.props
+
+
+
 
         return (
 
