@@ -15,16 +15,16 @@ tags:
 <p class="rightImageText">The Aavegotchi Wiki</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+歡迎來到官方的Aavegotchi百科
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
+這個aavegotchi百科是所有Aavegotchi的中心知識網，由我們的著名貢獻者團隊，即Aarchivers維護和更新。
 
-## New to Aavegotchi?
+## Aavegotchi相關
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game.
+這里 介紹 用於<0>Aavegotchi</0> 遊戲的詳细概述。
 
-## Popular Pages
-* [Gameplay](https://wiki.aavegotchi.com/gameplay) -- Introduction to the Aavegotchi game
+## 熱門鏈接
+* <0>遊戲玩法</0>-- Aavegotchi遊戲簡介
 * [GHST](https://wiki.aavegotchi.com/ghst) -- Learn about the eco-governance token of Aavegotchi
 * [Staking](https://wiki.aavegotchi.com/staking) -- Learn how to stake GHST to make FRENS
 * [DAO](https://wiki.aavegotchi.com/dao) -- Everything there is to know about AavegotchiDAO
