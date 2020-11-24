@@ -16,12 +16,12 @@ tags:
 <p class="rightImageText">Aavegotchi</p>
 </div>
 
-Aavegotchi is an Non-Fungible Token (NFT) collectible with DeFi (Decentralized Finance) enabled elements released on Ethereum in late 2020.
+Aavegotchi是2020年底將在Ethereum上發布的一款支持DeFi（去中心化金融）元素的非同質化代币（NFT）收藏品。
 
-Aavegotchi is built around [DeFi token collateral stakes](/p/atokens), dynamic rarity, rarity farming, DAO-governed game mechanics, and a playable metaverse with mini-games.
+Aavegotchi 是圍繞<0> DeFi代幣抵押</0>、動態稀有度、稀有度養殖、DAO治理的遊戲機制以及一個带有小遊戲的可玩性元世界而建立的。
 
-## About
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. [4] Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
+## 關於
+Aavegotchis是生活在Ethereum區塊鏈上的稀有加密收藏品，由流行的區塊鏈遊戲如CryptoKitties、Axie Infinity和Cryptovoxels等使用的ERC-721標準支持。 [4] Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
 ## Collateral stake
 Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
 
