@@ -46,13 +46,13 @@ a令牌可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨
 * <img class="atoken" src="/atokens/aWBTC.svg" /> aWBTC
 * <img class="atoken" src="/atokens/aZRX.svg" /> aZRX
 
-## Getting aTokens
+## 獲取aToken
 
-1). Head over to the [Aave Protocol](https://aave.com/). Scroll down the page and you will see something similar to the screenshot below.
+1). 跳轉到 aave協議。 向下滾動頁面，您將看到類似於下面截圖的頁面。
 
 <img src = "/atokens/aave-dashboard.png" width = "750" />
 
 
-2). Select the token of your choice and click deposit. For example, if you want aDAI, click the Deposit button for DAI.
+2). 選擇您想要儲存的令牌並點擊deposit。 例如，如果您想要aDAI，請單擊Deposit按鈕為 DAI 。
 
 3). 
