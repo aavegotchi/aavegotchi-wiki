@@ -3,13 +3,13 @@ import matter from 'gray-matter'
 import React from 'react'
 import Layout from "../components/Layout";
 import NextReusableHead from '../components/NextComponents/NextReusableHead';
-import { Col, Container, Row } from 'react-bootstrap';
+import { Col, Row } from 'react-bootstrap';
 import Sidebar from '../components/Sidebar';
 import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { getLanguageCode } from '../functions';
+import { handleLanguageCode } from '../functions';
 
 interface Commit {
   date: string
@@ -139,12 +139,16 @@ Index.getInitialProps = async function (ctx) {
   const { req } = ctx
   const slug = "index"
 
-  const code = getLanguageCode(req, typeof navigator !== 'undefined' ? navigator.languages : [])
-
-  console.log('code:', code)
-
   try {
-    const content = await import(`../posts/${code}/${slug}.md`)
+
+    let code: string
+
+    //Check if this page exists localized
+    if (req) code = req.headers['accept-language'].split(",")[0]
+    else code = navigator.languages[0]
+    const lang = handleLanguageCode(code)
+
+    const content = await import(`../posts/${lang}/${slug}.md`)
     //@ts-ignore
     const config = await import(`../data/config.json`)
     const data = matter(content.default);
@@ -153,6 +157,7 @@ Index.getInitialProps = async function (ctx) {
       ...data
     }
   } catch (error) {
+    //If not revert to English
     const content = await import(`../posts/en/${slug}.md`)
     //@ts-ignore
     const config = await import(`../data/config.json`)
