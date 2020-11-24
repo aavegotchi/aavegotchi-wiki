@@ -5,15 +5,15 @@ title: 'aTokens'
 description: 'All about Aavegotchi aTokens'
 ---
 
-## Table of contents
-1. <a href=#introduction>Introduction</a>
-2. <a href=#stablecoins>Stablecoins</a>
-3. <a href=#cryptocurrencies>Cryptocurrencies</a>
-4. <a href=#gettingatokens>Getting aTokens</a>
+## 目錄
+1. <a href=#introduction>介紹</a>
+2. <a href=#stablecoins>穩定幣</a>
+3. <a href=#cryptocurrencies>加密貨幣</a>
+4. <a href=#gettingatokens>獲取aToken</a>
 
-## Introduction
+## 介紹
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded.
+aTokens 是來自 Aave 協議的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens can be freely stored, transferred, and traded.
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
