@@ -37,7 +37,7 @@ A DAICO is a new fundraising method that seeks to incorporate the best features 
 
 The Aavegotchi project launched the Bonding Curve through a DAICO on Aragon.
 
-First iteration of [AavegotchiDAO](https://aavegotchi.com/curve) launched in tandem with $GHST distribution. $GHST holders had the power to vote on increasing/ maintaining a “tap” mechanism that transfers funds from the token bonding curve (TBC) reserve to Pixelcraft to support development. The proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI passed with 99% approval.
+First iteration of [AavegotchiDAO](https://aavegotchi.com/curve) launched in tandem with $GHST distribution. $GHST holders had the power to vote on increasing/ maintaining a “tap” mechanism that transfers funds from the token bonding curve (TBC) reserve to Pixelcraft to support development. The proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval.
 
 
 ### Resources on Bonding Curves
