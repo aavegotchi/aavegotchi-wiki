@@ -21,19 +21,19 @@ Aavegotchi是2020年底將在Ethereum上發布的一款支持DeFi（去中心化
 Aavegotchi 是圍繞<0> DeFi代幣抵押</0>、動態稀有度、稀有度養殖、DAO治理的遊戲機制以及一個带有小遊戲的可玩性元世界而建立的。
 
 ## 關於
-Aavegotchis是生活在Ethereum區塊鏈上的稀有加密收藏品，由流行的區塊鏈遊戲如CryptoKitties、Axie Infinity和Cryptovoxels等使用的ERC-721標準支持。 [4] Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
-## Collateral stake
-Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+Aavegotchis是生活在Ethereum區塊鏈上的稀有加密收藏品，由流行的區塊鏈遊戲如CryptoKitties、Axie Infinity和Cryptovoxels等使用的ERC-721標準支持。 [4] Aavegotchis擁有三種屬性，抵押物、特徵和可穿戴物，這些屬性決定了它們在Aavegotchi宇宙中的整體價值和稀有度。
+## 抵押品質押
+每個Aavegotchi ERC721 NFT管理一個托管合约地址，該地址持有Aave支持的ERC20抵押品，即 "aToken"。 "aToken "通過Aave的LendingPool產生收益，從而增加錢包中持有的aToken數量。 因此，隨著時間的推移，Aavegotchi的托管地址中持有的aToken數量也會增加。
 
-## Traits
-Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi.
+## 特徵
+Aavegotchis擁有多種特徵，這些特徵會影響他們的稀有度、他們在小遊戲中的表現，以及他們可以装備的可穿戴設備。 有些是在出生時隨機生成的，有些則取決於用户與Aavegotchi的互動。
 
-## Randomly-Generated Traits
-Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, Legendary, or Mythical, depending on its rarity. [4]
-## Kinship
+## 隨機生成的特徵
+每個Aavegotchi在出生時，都會使用ChainLink VRF隨機數生成器被隨機分配到幾個特徵值。 特徵值分布在一條鐘形曲線上，每個特質根據其稀有程度被分配一個普通、罕見、稀有、傳奇或神話的值。 \[4\] \[4\]
+## 親屬關係
 
-“Kinship” is not randomly assigned, but rather starts at a fixed value upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. [4]
-## Level
+"親屬關係 "並不是隨機分配的，而是在出生時就開始有一個固定的數值，並根據各種因素而增加或减少，比如Aavegotchi與同一個主人相處的时間，以及主人與它互動的頻率等。 \[4\] \[4\]
+## 等級
 Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every few levels, Aavegotchis receive one Spirit Point that can be allocated towards increasing or decreasing a certain trait.
 
 ## Wearables
