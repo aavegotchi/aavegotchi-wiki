@@ -41,7 +41,10 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
   <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
   </div>
 
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick Mudge是以太坊最有成就的核心开发者之一。 ERC998合成标准是由Mudge撰写的，是Aavegotchi游戏最重要的方面之一， 允许“家长”NFT装备和携带“儿童”NFT。
+Mudge撰写了ERC998合成标准，这是Aavegotchi游戏最重要的一个特征，通过这个标准可以装备一个“父”NFT和携带"子"NFTs 。 最近，Mudge领导了以太坊Diamond Standard的研究和开发工作。 Diamond Standard为可更新智能合约带来了重大突破，并且很快被专注DAOs的治理协议采用。
+
+
 
   <div class="leftImageContainer">
   <img class="leftImage" src="/team/jc-crown.jpg">

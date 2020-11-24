@@ -5,7 +5,7 @@ title: 'Bonding Curve'
 description: 'The Aavegotchi Bonding Curve'
 ---
 
-A bonding curve is a mathematical curve that defines a relationship between price and token supply. Here’s an example of a bonding curve, where currentPrice = tokenSupply²:
+聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 這是一個聯合曲線的示例，其中當前價格 = tokenSupply²：
 
 <p><img class="curve" src="/curve/bonding-curve.jpeg" width = "500" />
 
