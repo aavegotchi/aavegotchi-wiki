@@ -64,7 +64,7 @@ aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" width = "500" />
 
-4). 一旦你將你的錢包連接到平台，你可以將一個資產存入Aave協議。 當您點擊“存款”時，介面將顯示您在錢包中可用的存款信息。 You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it!
+4). 一旦你將你的錢包連接到平台，你可以將一個資產存入Aave協議。 當您點擊“存款”時，介面將顯示您在錢包中可用的存款信息。 然後您選擇您想要存入的資產，選擇要存入多少資產，然後確定，您已經完成了！
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
