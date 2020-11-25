@@ -6,9 +6,6 @@ description: 'All about Rarity Farming'
 ---
 
 
-
-
-==============================================
 What's rarity farming, you ask? As the name suggests, you farm for the rarest Aavegotchis, and get rewarded in GHST for training the rarest Aavegotchis.
 
 The rarity of the Aavegotchi is determined by the rareness of the Aavegotchi's traits and the wearables that it equips. However, the rarity of a single Aavegotchi can change over time as the overall distribution of the traits and wearables in the Aavegotchi universe changes. All of these are the core of the rarity farming concept.
