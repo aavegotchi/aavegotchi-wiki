@@ -6,7 +6,7 @@ description: 'All about Aavegotchi aTokens'
 ---
 
 ## 目錄
-1. <a href=#introduction>介紹</a>
+1. <a href=#introduction>Introduction</a>
 2. <a href=#stablecoins>穩定幣</a>
 3. <a href=#cryptocurrencies>加密貨幣</a>
 4. <a href=#getting-atokens>獲取aTokens</a>
