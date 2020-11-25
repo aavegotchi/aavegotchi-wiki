@@ -1,8 +1,17 @@
 export const items = [
 
+
     {
         name: "Introduction",
         href: "introduction"
+    },
+    {
+        name: "Metaverse",
+        href: "metaverse"
+    },
+    {
+        name: "Community",
+        href: "community"
     },
     {
         name: "Team",
