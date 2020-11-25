@@ -34,6 +34,10 @@ export const items = [
         href: "curve"
     },
     {
+        name: "Rarity Farming",
+        href: "rarity-farming"
+    },
+    {
         name: "Memes",
         href: "memes"
     },

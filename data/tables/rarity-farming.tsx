@@ -27,7 +27,7 @@ export const tables
                     ["Wizard Staff wearable", "Godlike", "-", "50", "-"],
                     ["TOTAL BRS", "-", "-", "466", "-"],
                     ["TOTAL ARS", "-", "-", "-", "352"],
-                    ["FINAL RARITY SCORE", "", "", "", "818"],
+                    ["<b>FINAL RARITY SCORE</b>", "", "", "", "<b>818</b>"],
 
 
                 ]
