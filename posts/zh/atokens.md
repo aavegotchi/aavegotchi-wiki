@@ -60,11 +60,11 @@ aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨
 
 如果你不擁有任何加密資產，但你想要加入進來， 您將需要轉換您的法定貨幣(普通貨幣，如美元、歐元等)，然後將其轉化為加密資產（例如上文之一）。
 
-你很走運，Aave最近引入了一個加密轉換功能，您可以直接從 Aave 協議應用程序購買加密資產！ Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+你很走運，Aave最近引入了一個加密轉換功能，您可以直接從 Aave 協議應用程序購買加密資產！ 現在您可以使用 Transak 或 Ramp 即時購買您選擇的資產，在幾分鐘内直接使用信用卡或借記卡或電匯(見下文)。
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" width = "500" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it!
+4). 一旦你將你的錢包連接到平台，你可以將一個資產存入Aave協議。 當您點擊“存款”時，介面將顯示您在錢包中可用的存款信息。 You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it!
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
