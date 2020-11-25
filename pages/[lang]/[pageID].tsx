@@ -10,6 +10,7 @@ import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import gfm from 'remark-gfm'
 
 interface Commit {
     date: string
@@ -120,7 +121,7 @@ const Page = (props) => {
 
                         <hr />
                         <ReactMarkdownWithHtml
-
+                            plugins={[gfm]}
                             allowDangerousHtml={true}
                             astPlugins={[parseHtml]}
                             renderers={renderers}
