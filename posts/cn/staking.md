@@ -64,14 +64,14 @@ Frens 点不可转让。 他们是为你的以太坊地址积累的，你不能�
 
 获奖取决于哪种奖券和你投入的此类型奖券数量， 有多少奖品，还有多少奖券是其他人提交的。
 
-The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) to determine prize winners.
+抽奖通过Chainlink的 [可验证的随机性](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 来确定获奖者。
 
-Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
+奖品也叫作装备凭证的奖品，可以从 [商店](https://aavegotchi.com/shop) 换取对应的 avegotchi 可穿戴物品。
 
-Blog posts:
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+博客文章
+- [Aavegotchi 抽奖——免费指南](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink 抽奖 — 你获胜了吗？](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon和他的绿色奖券](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 
 
 
