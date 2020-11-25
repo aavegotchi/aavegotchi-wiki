@@ -11,58 +11,58 @@ description: 'Stake GHST, Make FRENS'
 
 1. 在 [质押合同](https://aavegotchi.com/stake) 中选择质押GHST token 或 GHST/ETH Uniswapp 流动性池token 做这件事会使你随着时间的推移而获得越来越多的惊喜。
 1. 静静等待查看你慢慢上涨的积分。
-1. Using your frens points purchase raffle tickets from the [shop](https://aavegotchi.com/shop).
-1. Enter your raffle tickets into a [raffle](https://aavegotchi.com/raffle).
-1. When the raffle ends find out what prizes you won and claim them.
+1. 使用您的积分点在 [商店](https://aavegotchi.com/shop)购买票券。
+1. 将您的奖券存入 [raffle](https://aavegotchi.com/raffle).
+1. 当raffle结束时，你可以查看你赢得了什么奖品并获取奖品。
 
-You can unstake your GHST and/or GHST/ETH Uniswap liquidity pool tokens at any time.
+您可以随时取消质押您的GHST/或GHST/ETH Uniswap流动资金池代币。
 
 
-## Staking & Frens
+## 质押和积分
 
-To stake GHST you must first get GHST.  The easiest way to get GHST is to purchase it from the [ETH/GHST Uniswap pool](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH). It can also be purchased from the [GHST bonding curve](https://aavegotchi.com/curve).
+您必须先获取 GHST才能质押GHST。  获取GHST的最简单方法是从 [ETH/GHST Uniswap池](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) 购买。 也可以从 [GHST 联合曲线](https://aavegotchi.com/curve) 购买。
 
-Once you have GHST you can stake it directly in the staking contract or you can put it into the [ETH/GHST Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) and get pool tokens back that you stake into the staking contract.
+一旦你有了GHST，你就可以直接在质押合同中质押它，或者你可以将它放入 [ETH/GHST Uniswap 池](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) 并获得流动池令牌，然后质押合同中质押。
 
-You earn 1 frens point per day for each GHST token staked. You earn 100 frens points per day for each GHST/ETH Uniswap liquidity pool token staked.
+每个GHST 令牌每天会为你赚取1个积分点。 每个GHST/ETH Uniswap流动池令牌每天会为你赚取100个积分点。
 
-*1 GHST earns 1 FRENS point per day, and 1 GHST-ETH LP token earns 100 FRENS / day*
+*1 GHST 每天赚取1 FRENS 点，1 GHST-ETH LP token 赚取100 FRENS / 天*
 
-Go to the [staking user interface](https://aavegotchi.com/stake-mainnet) to stake GHST and/or GHST/ETH pool tokens.  This webpage will also show you how many frens points you have accumulated.
+前往 [用户质押界面](https://aavegotchi.com/stake-mainnet) 来质押GHST或者GHST/ETH 池令牌。  这个网页还将向你展示你累积了多少积分点。
 
-Frens points are not transferable. They accumulate for your Ethereum address and you can't transfer them to a different address. You can use them to purchase raffle tickets.
+Frens 点不可转让。 他们是为你的以太坊地址积累的，你不能将它们转移到另一个地址。 您可以使用它们来购买抽奖券。
 
-## Purchasing Raffle Tickets
+## 购买抽奖券
 
-Once you have enough frens go to the [Shop Bulk Buy user interface](https://aavegotchi.com/bulk-buy) to purchase raffle tickets with frens.
+一旦你有足够的积分点请到 [商店批量购买界面](https://aavegotchi.com/bulk-buy) 来用积分点购买奖券。
 
-There are six different levels of raffle tickets:
+有六种不同等级的奖券：
 
 ![Raffle Tickets](/staking/raffletickets.png)
 
-- Each common ticket costs 50 frens. Entering a common ticket into a raffles gives a chance of winning a common prize. A common prize is the most plentiful and least rare prize in a raffle.
-- Each uncommon ticket costs 250 frens. Entering an uncommon ticket into a raffles gives a chance of winning an uncommon prize. An uncommon prize is more rare than a common prize in a raffle.
-- Each rare ticket costs 500 frens. Entering a rare ticket into a raffles gives a chance of winning a rare prize. An rare prize is more rare than an uncommon prize in a raffle.
-- Each legendary ticket costs 2500 frens. Entering a legendary ticket into a raffles gives a chance of winning a legendary prize. A legendary prize is more rare than a rare prize in a raffle.
-- Each mythical ticket costs 10,000 frens. Entering a mythical ticket into a raffles gives a chance of winning a mythical prize. A mythical prize is more rare than a legendary prize in a raffle.
-- Each godlike ticket costs 50,000 frens. Entering a godlike ticket into a raffles gives a chance of winning a godlike prize. A godlike prize is more rare than a mythical prize in a raffle.
+- 每张普通抽奖券票价为50积分点。 将普通抽奖券放到抽奖池中，将有机会获得一个普通等级的奖品。 一个普通奖品是最丰富和最寻常的奖品。
+- 每张罕见的奖券都要花费250积分。 将罕见抽奖券放到抽奖池中，将有机会获得一个罕见等级的奖品。 一个罕见的奖品比一个普通奖品难得。
+- 每张稀有的奖券费用为500积分。 将稀有抽奖券放到抽奖池中，将有机会获得一个稀有等级的奖品。 一个稀有的奖品比一个罕见的奖品更稀有。
+- 每张传奇奖券花费2500积分。 将传奇抽奖券放到抽奖池中，将有机会获得一个传奇等级的奖品。  一个稀有的奖品比一个罕见的奖品更罕见。
+- 每张神话奖券花费10000积分。 将神话抽奖券放到抽奖池中，将有机会获得一个神话等级的奖品。 一个神话的奖品比一个传奇的奖品更稀有。
+- 每张创世级奖券花费50000积分。 将创世抽奖券放到抽奖池中，将有机会获得一个创世等级的奖品。 一个创世的奖品比一个神话的奖品更稀有。
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+博客: [ 质押GHST，获取主网上的积分！](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-etherum-mainnet-658bd507d67b)
 
 
-## Entering a Raffle and Winning Prizes
+## 进入抽奖池和赢得奖品
 
-A raffle runs for a period of time. During this time you can submit your raffle tickets for chances to win prizes. When the raffle is over you can find out what prizes you won and claim them.
+一次抽奖将运行一段时间。 在这段时间里，您可以提交您的抽奖券来赢得奖励。 当抽奖结束后，你可以查看是否赢得了它们。
 
-The first raffle started on 10 November 2020 and ran for 3 days. Here were the prizes for the raffle:
+第一次抽奖于2020年11月10日开始，持续了3天。 下面是分级奖品：
 
 ![Raffle Prizes](/staking/prizes.png)
 
-A total of 6010 prizes.
+共有6010个奖品。
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[OpenSea 价格](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Winning prizes depends on which tickets and how many tickets you enter into a raffle, how many prizes there are, and how many tickets other people submit.
+获奖取决于哪种奖券和你投入的此类型奖券数量， 有多少奖品，还有多少奖券是其他人提交的。
 
 The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) to determine prize winners.
 
