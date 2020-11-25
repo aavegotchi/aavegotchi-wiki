@@ -9,7 +9,7 @@ description: 'The Aavegotchi Bonding Curve'
 1. <a href=#introduction>介紹</a>
 2. <a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a>
 
-## Introduction
+## 介紹
 
 聯合曲線是一個數學曲線，它定義了價格與令牌供應之間的關係。 Here’s a screenshot of [Aavegotchi's bonding curve](https://aavegotchi.com/curve)  :
 
