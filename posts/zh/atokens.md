@@ -6,7 +6,7 @@ description: 'All about Aavegotchi aTokens'
 ---
 
 ## 目錄
-1. <a href=#introduction>Introduction</a>
+1. <a href=#introduction>介紹</a>
 2. <a href=#stablecoins>穩定幣</a>
 3. <a href=#cryptocurrencies>加密貨幣</a>
 4. <a href=#getting-atokens>獲取aTokens</a>
@@ -48,9 +48,9 @@ aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨
 
 ## 獲取aTokens
 
-*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
+*<a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">從零到英雄指南 2.0</a> 來自Aave Medium採取了以下步驟。 為方便讀者閱讀在這裡複製了這份文件。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). 跳轉到 <a href = "https://app.aave.com/">Aave 協議</a> 開始吧！
 
 2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
