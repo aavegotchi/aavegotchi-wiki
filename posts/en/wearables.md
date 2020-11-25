@@ -22,10 +22,10 @@ This page contains detailed information about every wearable that has been confi
 
 Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits. 
 
-<div class="tableHeader">Table 1 - LINK Wearables</div>
-
 table_linkWearablesTable
 
 # Aave Themed Set
+
+table_aaveWearablesTable
 
 <hr />

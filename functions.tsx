@@ -26,10 +26,15 @@ export function addTablesToMarkdown(markdown, pageName) {
         let finalMarkdown = markdown
 
         tables.forEach((table) => {
-            const replaceMarkdown = generateMarkdownTableFromJson(table.tableData)
-            console.log('replace:', replaceMarkdown)
-            finalMarkdown = markdown.replace(`table_${table.tableName}`, replaceMarkdown)
+
+            console.log('table', table)
+
+            const replaceMarkdown = generateMarkdownTableFromJson(table)
+            //  console.log('replace:', replaceMarkdown)
+            finalMarkdown = finalMarkdown.replace(`table_${table.tableName}`, replaceMarkdown)
         });
+
+        console.log('final markdown:', finalMarkdown)
 
         return finalMarkdown;
     } catch (error) {
@@ -41,10 +46,14 @@ export function addTablesToMarkdown(markdown, pageName) {
 
 }
 
-export function generateMarkdownTableFromJson(tableData) {
+export function generateMarkdownTableFromJson(table) {
+
+    let tableData = table.tableData
 
     //Begin table
     let finalMarkdown = "<table>"
+
+    finalMarkdown = finalMarkdown.concat(`<caption>${table.tableCaption}</caption>`)
 
     //Add headers
     finalMarkdown = finalMarkdown.concat("<thead>")

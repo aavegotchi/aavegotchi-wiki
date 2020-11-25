@@ -202,6 +202,11 @@ a:hover {
     text-align: center;
   }
 
+  table > caption {
+      caption-side: top;
+      text-align: center;
+  }
+
   td > img {
     width: 75px;
     height: 75px;
