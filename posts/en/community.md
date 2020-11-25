@@ -22,7 +22,7 @@ pop in and chat. </p>
 
 <p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Missions (of which there are currently ten) will 
 level you up to Aavegotchi Aagent status, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you complete them all before mainnet launch. Mainnet
-is currently slated for late December, so check out our missions page now for more info on how to level up!
+is currently slated for late December, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
 </p>
 
 &nbsp;
