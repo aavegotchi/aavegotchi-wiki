@@ -5,12 +5,12 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 ---
 
-The end goal of staking is to earn specially themed Aavegotchi wearables.
+质押的最终目标是赚取特别主题的Aavegotchi可穿戴装备。
 
-Here are the steps this is done:
+以下是完整的步骤：
 
-1. Stake either GHST tokens or GHST/ETH Uniswap liquidity pool tokens in the [staking contract](https://aavegotchi.com/stake). Doing this earns you frens points over time.
-1. Wait and watch your frens points accumulate.
+1. 在 [质押合同](https://aavegotchi.com/stake) 中选择质押GHST token 或 GHST/ETH Uniswapp 流动性池token 做这件事会使你随着时间的推移而获得越来越多的惊喜。
+1. 静静等待查看你慢慢上涨的积分。
 1. Using your frens points purchase raffle tickets from the [shop](https://aavegotchi.com/shop).
 1. Enter your raffle tickets into a [raffle](https://aavegotchi.com/raffle).
 1. When the raffle ends find out what prizes you won and claim them.
