@@ -7,21 +7,22 @@ description: 'All about the Aavegotchi Community'
 
 Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us 
 wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of 
-our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on each of the ways you can connect with us.
+our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many
+ways you can connect with our frenly GotchiGang.
 
 &nbsp;
 
 <a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a> 
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is almost 6,000 members stronk. For Gotchi noobs, our Discord is the best place to be, with a wealth of
+<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>almost 6,000 members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
  fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aasisstant, and a host of helpful community members.  
-Our Discord is also a great spot for anyone with general questions, not so general questions, those who need technical support, or any frens who want to just to 
+Our Discord is also a great spot for anyone with general questions, not so general questions, those who need technical support, or any frens who want to just 
 pop in and chat. </p>
 
 &nbsp;
 
-<p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Missions (of which there are currently ten) will 
-level you up to Aavegotchi Aagent status, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you complete them all before mainnet launch. Mainnet
+<p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Doing missions (of which there are 
+currently ten) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
 is currently slated for late December, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
 </p>
 
@@ -30,7 +31,7 @@ is currently slated for late December, so check out our <a href="https://wiki.aa
 <a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a> 
 
 <p style="margin-left: 4.8em">The Aavegotchi Medium page is a great place for readers who want to keep up with the Aavegotchi project. This is where you’ll find in-depth community updates, 
-as well as detailed information on raffles, events and even occasionally come across some inspired Gotchi fan-fiction.</p>
+as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired Gotchi fan-fiction.</p>
 
 &nbsp;
 
@@ -47,11 +48,11 @@ Twitter avatar</a>).</p>
 <a href="https://t.me/aavegotchi"><img class="community" src="/community/telegram.png" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Find Us on Telegram**</a> 
 
 <p style="margin-left: 4.8em">What’s a crypto project without Telegram? In addition to our Discord, you can also find our devs and team in Telegram, along with 
-around 3100 other frens. Complete with Aavgotchi Telegram stickers, the Aavegotchi Telegram is another hyper-aactive channel where you can reach us anytime. </p>
+around 3,100 other frens. Complete with Aavgotchi Telegram stickers, the Aavegotchi Telegram is another hyper-aactive channel where you can reach us anytime. </p>
 
 &nbsp;
  
-We look forward to welcoming you to our GotchiGang. Head over to any of our channels or our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> to learn more!
+We look forward to welcoming you, fren! Head over to any of our channels or our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> to learn more.
 
 
 
