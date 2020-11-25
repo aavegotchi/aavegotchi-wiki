@@ -8,28 +8,74 @@ export const capitalize = (s) => {
     return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
-export function getLanguageCode(req, languages) {
-
-    let code;
-
-    if (req) {
-        const preferredLanguage: string = req.headers['accept-language']
-        code = preferredLanguage.slice(0, 2)
-        console.log('req code:', code)
-    }
-    else if (languages.length > 0) {
-        code = languages[0].slice(0, 2)
-        console.log('languages code:', code)
-    }
-    else {
-        code = "en"
-    }
-
+export function handleLanguageCode(code: string) {
+    let finalCode: string
     //Handle some cases
-    if (code === "zh-CN" || code === "zh") code = "cn"
-    if (!code) code = "en"
+    if (code.toLowerCase() === "zh-cn") finalCode = "cn"
+    else if (!code) finalCode = "en"
+    else finalCode = code
+    console.log('final code:', finalCode)
+    return finalCode.slice(0, 2);
+}
 
-    console.log('final code:', code)
+export function addTablesToMarkdown(markdown, pageName) {
 
-    return code;
+    try {
+        const tables = require(`./data/tables/${pageName}.tsx`).tables
+
+        let finalMarkdown = markdown
+
+        tables.forEach((table) => {
+
+            console.log('table', table)
+
+            const replaceMarkdown = generateMarkdownTableFromJson(table)
+            //  console.log('replace:', replaceMarkdown)
+            finalMarkdown = finalMarkdown.replace(`table_${table.tableName}`, replaceMarkdown)
+        });
+
+        console.log('final markdown:', finalMarkdown)
+
+        return finalMarkdown;
+    } catch (error) {
+        console.log('no tables found')
+        return markdown
+
+    }
+
+
+}
+
+export function generateMarkdownTableFromJson(table) {
+
+    let tableData = table.tableData
+
+    //Begin table
+    let finalMarkdown = "<table>"
+
+    finalMarkdown = finalMarkdown.concat(`<caption>${table.tableCaption}</caption>`)
+
+    //Add headers
+    finalMarkdown = finalMarkdown.concat("<thead>")
+    tableData.headers.forEach((header) => {
+        finalMarkdown = finalMarkdown.concat(`<th>${header}</th>`)
+    });
+    finalMarkdown = finalMarkdown.concat("</thead>")
+
+    //Add rows
+    tableData.data.forEach(row => {
+
+        let rowMarkdown = "<tr>"
+        row.forEach(item => {
+
+            rowMarkdown = rowMarkdown.concat(`<td>${item}</td>`)
+        });
+        finalMarkdown = finalMarkdown.concat(rowMarkdown).concat("</tr>")
+    });
+
+
+    //Close table
+    return finalMarkdown.concat("</table>")
+
+
 }

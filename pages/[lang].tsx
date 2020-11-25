@@ -7,7 +7,7 @@ import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/dist/client/router';
-import { getLanguageCode } from '../functions';
+import { handleLanguageCode } from '../functions';
 
 interface Commit {
     date: string
@@ -121,33 +121,27 @@ export default Index;
 
 Index.getInitialProps = async function (ctx) {
 
-    const { lang, pageID } = ctx.query
+    //Lang here isn't actually language, it's probably the page input
+    const { lang } = ctx.query
     const { res, req } = ctx
 
-    //Check if there's a pageID argument. If not, then redirect and try to find a page
-    if (!pageID) {
+    if (req) {
 
-        if (res) {
+        const code = req.headers['accept-language'].split(",")[0]
+        const userLang = handleLanguageCode(code)
 
-            //Set the correct language for their browser
-            const code = getLanguageCode(req, typeof navigator !== 'undefined' ? navigator.languages : [])
-
-            //Add on SSH if it's not localhost
-            let path
-            const host = req.headers.host
-            if (host.includes("localhost")) {
-                path = `http://${req.headers.host}/${code}/${lang}`
-            }
-            else {
-                path = `https://${req.headers.host}/${code}/${lang}`
-            }
-
-
-            res.writeHead(301, { Location: path });
-            res.end()
+        //Add on SSH if it's not localhost
+        let path
+        const host = req.headers.host
+        if (host.includes("localhost")) {
+            path = `http://${req.headers.host}/${userLang}/${lang}`
+        }
+        else {
+            path = `https://${req.headers.host}/${userLang}/${lang}`
         }
 
 
-
+        res.writeHead(301, { Location: path });
+        res.end()
     }
 }

@@ -5,21 +5,27 @@ title: 'Wearables'
 description: 'All about Aavegotchi Wearables'
 ---
 
-## [0]  Camo Hat
-<div class="flexRow">
-<img src="/wearables/testwearable.svg" class="wearableSmall">
-<div class="common">Common</div>
-</div>
+## Table of contents
+1. <a href=#introduction>Introduction</a>
+2. <a href=#link-themed-set>LINK Themed Set</a>
+2. <a href=#aave-themed-set>Aave Themed Set</a>
 
+## Introduction
 
-## [1] Camo Pants
-<div class="flexRow">
-<img src="/wearables/testwearable.svg" class="wearableSmall">
-<div class="common">Common</div>
-</div>
+Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in minigames, as well as in rarity farming. 
 
-## [2] MK2 Grenade
-<div class="flexRow">
-<img src="/wearables/testwearable.svg" class="wearableSmall">
-<div class="common">Common</div>
-</div>
+This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
+
+# LINK Themed Set
+
+<hr />
+
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits. 
+
+table_linkWearablesTable
+
+# Aave Themed Set
+
+table_aaveWearablesTable
+
+<hr />

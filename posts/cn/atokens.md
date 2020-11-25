@@ -9,7 +9,7 @@ description: '一切关于Aavegotchi的aTokens'
 1. <a href=#introduction>介绍</a>
 2. <a href=#stablecoins>稳定币</a>
 3. <a href=#cryptocurrencies>加密货币</a>
-4. <a href=#gettingatokens>获取 aTokens</a>
+4. <a href=#getting-atokens>获取 aTokens</a>
 
 ## 介绍
 
@@ -23,36 +23,49 @@ a令牌可分为两类之一：(1) 加密货币，或(2) 稳定币。 加密货�
 
 ## 稳定币
 
-* <img class="atoken" src="/atokens/aDAI.svg" /> aDAI
-* <img class="atoken" src="/atokens/aUSDC.svg" /> aUSDC
-* <img class="atoken" src="/atokens/aTUSD.svg" /> aTUSD
-* <img class="atoken" src="/atokens/aUSDT.svg" /> aUSDT
-* <img class="atoken" src="/atokens/asUSD.svg" /> asUSD
-* <img class="atoken" src="/atokens/aBUSD.svg" /> aBUSD
+* <img class="atoken" src="/atokens/aDAI.svg" alt = "aDAI token" /> aDAI
+* <img class="atoken" src="/atokens/aUSDC.svg" alt = "aUSDC token" /> aUSDC
+* <img class="atoken" src="/atokens/aTUSD.svg" alt = "aTUSD token" /> aTUSD
+* <img class="atoken" src="/atokens/aUSDT.svg" alt = "aUSDT token" /> aUSDT
+* <img class="atoken" src="/atokens/asUSD.svg" alt = "asUSD token" /> asUSD
+* <img class="atoken" src="/atokens/aBUSD.svg" alt = "aBUSD token" /> aBUSD
 
 ## 加密货币
 
-* <img class="atoken" src="/atokens/aETH.svg" /> aETH
-* <img class="atoken" src="/atokens/aUNI.svg" /> aUNI
-* <img class="atoken" src="/atokens/aYFI.svg" /> aYFI
-* <img class="atoken" src="/atokens/aBAT.svg" /> aBAT
-* <img class="atoken" src="/atokens/aREN.svg" /> aREN
-* <img class="atoken" src="/atokens/aENJ.svg" /> aENJ
-* <img class="atoken" src="/atokens/aKNC.svg" /> aKNC
-* <img class="atoken" src="/atokens/aLINK.svg" /> aLINK
-* <img class="atoken" src="/atokens/aMANA.svg" /> aMANA
-* <img class="atoken" src="/atokens/aREP.svg" /> aREP
-* <img class="atoken" src="/atokens/aSNX.svg" /> aSNX
-* <img class="atoken" src="/atokens/aWBTC.svg" /> aWBTC
-* <img class="atoken" src="/atokens/aZRX.svg" /> aZRX
+* <img class="atoken" src="/atokens/aETH.svg" alt = "aETH token" /> aETH
+* <img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token" /> aUNI
+* <img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token" /> aYFI
+* <img class="atoken" src="/atokens/aBAT.svg" alt = "aBAT token" /> aBAT
+* <img class="atoken" src="/atokens/aREN.svg" alt = "aREN token" /> aREN
+* <img class="atoken" src="/atokens/aENJ.svg" alt = "aENJ token" /> aENJ
+* <img class="atoken" src="/atokens/aKNC.svg" alt = "aKNC token" /> aKNC
+* <img class="atoken" src="/atokens/aLINK.svg" alt = "aLINK token" /> aLINK
+* <img class="atoken" src="/atokens/aMANA.svg" alt = "aMANA token" /> aMANA
+* <img class="atoken" src="/atokens/aREP.svg" alt = "aREP token" /> aREP
+* <img class="atoken" src="/atokens/aSNX.svg" alt = "aSNX token" /> aSNX
+* <img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token" /> aWBTC
+* <img class="atoken" src="/atokens/aZRX.svg" alt = "aZRX token" /> aZRX
 
 ## 获取 aTokens
 
-1). 跳转到 [aave协议](https://aave.com/)。 向下滚动页面，您将看到类似于下面截图的页面。
+*<a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">从零到英雄指南 2.0</a> 来自Aave Medium采取了以下步骤。 为方便读者阅读在这里复制了这份文件。*
 
-<img src = "/atokens/aave-dashboard.png" width = "750" />
+1). 跳转到 <a href = "https://app.aave.com/">Aave 协议</a> 开始吧！
 
+2). 这里你有几个选项来链接你的加密钱包，取决于你拥有哪种类型的钱包：
 
-2). 选择您想要储存的令牌并点击deposit。 例如，如果您想要aDAI，请单击Deposit按钮为 DAI 。
+<img src = "/atokens/connect-your-wallet.png" alt = "aave" width = "500" />
 
-3). 
+3). 在您使用 Aave 协议之前，您需要拥有一些加密资产。 可用加密资产列表显示在 <a href=#stablecoins>稳定币</a> 和 <a href=#cryptocurrencies>虚拟货币</a> 上面的部分。
+
+如果你不拥有任何加密资产，但你想要加入进来， 您将需要转换您的法定货币(普通货币，如美元、欧元等)，然后 将其转化为加密资产（例如上文之一）。
+
+你很走运，Aave最近引入了一个加密转换功能，您可以直接从 Aave 协议应用程序购买加密资产！ 现在您可以使用 Transak 或 Ramp 即时购买您选择的资产，在几分钟内直接使用信用卡或借记卡或电汇(见下文)。
+
+<img src = "/atokens/buy-with-fiat.png" alt = "aave" width = "500" />
+
+4). 一旦你将你的钱包连接到平台，你可以将一个资产存入Aave协议。 当您点击“存款”时，接口将显示您在钱包中可用的存款信息。 然后您选择您想要存入的资产，选择要存入多少资产，然后确定，您已经完成了！
+
+<img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
+
+一旦你进行存款，你就会受益于存款利率。

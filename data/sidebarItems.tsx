@@ -1,10 +1,5 @@
 export const items = [
 
-    /*  {
-          name: "Home",
-          href: ""
-      },
-      */
     {
         name: "Introduction",
         href: "introduction"

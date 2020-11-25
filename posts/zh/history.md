@@ -5,12 +5,12 @@ title: 'History'
 description: 'History of the Aaavegotchi Project'
 ---
 
-## [23 November 2020](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave announced officially regarding their investment in Pixelcraft Studios!
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+## [<0>2020年11月23日</0>](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave正式宣布了他們對Pixelcraft Studios的投資！
+* Pixelcraft Studios 是Aavegotchi 的主要开發團隊
 
-## [20 November 2020](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)!
+## [<0>2020年11月20日</0>](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* Aavegotchi ❤ Chainlink 小說, 由我們自己的學徒編寫<0> Appellants</0>！
 
 ## [13 November 2020](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 * The first raffle was a success!

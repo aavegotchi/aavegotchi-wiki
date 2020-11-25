@@ -160,4 +160,84 @@ a:hover {
       width:128px;
       height: 128px;
       margin-right: 10px;
+     
+      margin-bottom: 15px;
+  }
+
+  .wearableTrait {
+      font-size: 12px;
+      margin-bottom: 8px;
+  }
+
+  .tableHeader {
+      width: 100%;
+      text-align: center;
+      font-size: 16px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+
+  table {
+      width: 100%;
+      border-top: solid 3px whitesmoke;
+      border-bottom: solid 3px whitesmoke;
+  }
+
+  thead > th {
+      font-size: 18px;
+      padding-top: 10px;
+      margin-top: 20px;
+      padding-bottom: 10px;
+      background: black;
+      color: white;
+  }
+
+  tr:nth-child(even) {
+   background:whitesmoke;
+  }
+  
+
+  table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  table > caption {
+      caption-side: top;
+      text-align: center;
+  }
+
+  td > img {
+    width: 75px;
+    height: 75px;
+}
+ 
+
+  @media screen and (max-width:768px) {
+      thead { font-size: 18px;}
+
+    td {
+        font-size: 13px;
+      
+    }
+
+    td > img {
+        width: 75px;
+        height: 75px;
+    }
+
+  }
+
+  @media screen and (max-width:571px) {
+    thead > tr { font-size: 14px;}
+   
+  td {
+      font-size: 10px;
+     
+  }
+
+  td > img {
+      width: 50px;
+      height: 50px;
+  }
   }

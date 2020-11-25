@@ -5,7 +5,7 @@ title: 'Develop this Wiki'
 description: 'Jump in and help develop this Wiki!'
 ---
 
-Wanna show off your hotshot coding skills? Help develop this Wiki!
+Wanna show off your hotshot coding skills? Help develop this Wiki! Help develop this Wiki!
 
 Some requested or needed features:
 
