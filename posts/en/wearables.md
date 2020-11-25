@@ -24,26 +24,7 @@ Distributed via an exclusive, limited-edition Raffle in November 2020, these LIN
 
 <div class="tableHeader">Table 1 - LINK Wearables</div>
 
-| Image                                  | ID| Name           |  Rarity  | Stats         |
-| ---------------------------------------| --|--------------  | -------  | --------------|
-|<img src="/wearables/link/camo-cap.svg"/>| 1 | Camo Hat       |  Common  | TBD        |   
-|<img src="/wearables/link/camo-pants.svg"/>| 2 | Camo Pants     |  Common  | TBD        |
-|<img src="/wearables/link/mk2-grenade.svg"/>| 3 | MK2 Grenade       |  Common | TBD        |
-|<img src="/wearables/link/snow-camo-cap.svg"/>| 4 | Snow Camo Hat      |  Uncommon  | TBD        |
-|<img src="/wearables/link/snow-camo-pants.svg"/>| 5 | Snow Camo Pants     |  Uncommon  | TBD        |
-|<img src="/wearables/link/m67-grenade.svg"/>| 6 | M67 Grenade        |  Uncommon  | TBD        |
-|<img src="/wearables/link/marine-cap.svg"/>| 7 | Marine Cap     |  Rare  | TBD        |
-|<img src="/wearables/link/marine-suit.svg"/>| 8 | Marine Jacket     |  Rare  | TBD        |
-|<img src="/wearables/link/walkie-talkie.svg"/>| 9 | Walkie Talkie     |  Rare  | TBD        |
-|<img src="/wearables/link/mess-cap.svg"/>| 10 | Link White Hat     |  Legendary  | TBD        |
-|<img src="/wearables/link/mess-dress.svg"/>| 11 | Link Mess Dress     |  Legendary  | TBD        |
-|<img src="/wearables/link/link-bubbly.svg"/>| 12 | Link Bubbly     |  Legendary  | TBD        |
-|<img src="/wearables/link/sergey-beard.svg"/>| 13 | Sergey Beard      |  Mythical  | TBD        |
-|<img src="/wearables/link/sergey-eyes.svg"/>| 14 | Sergey Eyes      |  Mythical  | TBD        |
-|<img src="/wearables/link/sergey-red.svg"/>| 15 | Sergey Red Plaid     |  Mythical  | TBD        |
-|<img src="/wearables/link/sergey-blue.svg"/>| 16 | Sergey Blue Plaid     |  Godlike  | TBD        |
-|<img src="/wearables/link/link-cube.svg"/>| 17 | LINK Cube     |  Godlike  | TBD        |
-
+table_linkWearablesTable
 
 # Aave Themed Set
 

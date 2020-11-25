@@ -11,6 +11,7 @@ import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import gfm from 'remark-gfm'
+import { addTablesToMarkdown } from "../../functions";
 
 interface Commit {
     date: string
@@ -28,6 +29,9 @@ const Page = (props) => {
 
     const markdownBody = props.content
     const frontmatter = props.data
+
+    //Override the content and add tables
+    const finalMarkdown = addTablesToMarkdown(markdownBody, router.query.pageID)
 
 
     const flatten = (text: string, child) => {
@@ -125,7 +129,7 @@ const Page = (props) => {
                             allowDangerousHtml={true}
                             astPlugins={[parseHtml]}
                             renderers={renderers}
-                            children={markdownBody} />
+                            children={finalMarkdown} />
                     </div>
 
                 </Col>

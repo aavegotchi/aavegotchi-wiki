@@ -17,3 +17,56 @@ export function handleLanguageCode(code: string) {
     console.log('final code:', finalCode)
     return finalCode.slice(0, 2);
 }
+
+export function addTablesToMarkdown(markdown, pageName) {
+
+    try {
+        const tables = require(`./data/tables/${pageName}.tsx`).tables
+
+        let finalMarkdown = markdown
+
+        tables.forEach((table) => {
+            const replaceMarkdown = generateMarkdownTableFromJson(table.tableData)
+            console.log('replace:', replaceMarkdown)
+            finalMarkdown = markdown.replace(`table_${table.tableName}`, replaceMarkdown)
+        });
+
+        return finalMarkdown;
+    } catch (error) {
+        console.log('no tables found')
+        return markdown
+
+    }
+
+
+}
+
+export function generateMarkdownTableFromJson(tableData) {
+
+    //Begin table
+    let finalMarkdown = "<table>"
+
+    //Add headers
+    finalMarkdown = finalMarkdown.concat("<thead>")
+    tableData.headers.forEach((header) => {
+        finalMarkdown = finalMarkdown.concat(`<th>${header}</th>`)
+    });
+    finalMarkdown = finalMarkdown.concat("</thead>")
+
+    //Add rows
+    tableData.data.forEach(row => {
+
+        let rowMarkdown = "<tr>"
+        row.forEach(item => {
+
+            rowMarkdown = rowMarkdown.concat(`<td>${item}</td>`)
+        });
+        finalMarkdown = finalMarkdown.concat(rowMarkdown).concat("</tr>")
+    });
+
+
+    //Close table
+    return finalMarkdown.concat("</table>")
+
+
+}
