@@ -6,6 +6,10 @@ export const items = [
         href: "introduction"
     },
     {
+        name: "GHST",
+        href: "ghst"
+    },
+    {
         name: "Metaverse",
         href: "metaverse"
     },
