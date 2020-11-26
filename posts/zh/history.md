@@ -7,7 +7,7 @@ description: 'History of the Aaavegotchi Project'
 
 ## [<0>2020年11月23日</0>](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave正式宣布了他們對Pixelcraft Studios的投資！
-* Pixelcraft Studios 是Aavegotchi 的主要开發團隊
+* Pixelcraft Studios 是Aavegotchi 的主要開發團隊
 
 ## [<0>2020年11月20日</0>](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * Aavegotchi ❤ Chainlink 小說, 由我們自己的學徒編寫<0> Appellants</0>！
