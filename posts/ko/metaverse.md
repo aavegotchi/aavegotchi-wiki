@@ -9,7 +9,7 @@ description: 'All about the Aavegotchi Metaverse'
 
 &nbsp;
 
-Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! In the Aavegotchi Metaverse, you can:
+Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! In the Aavegotchi Realm, you can:
 
 &nbsp;
 
@@ -44,11 +44,11 @@ In the Gotchiverse, you’ll also be able to contribute your own creations to th
 
 &nbsp;
 
-Can’t wait to see you in the Metaverse, fren! <img src="/metaverse/aavegotchiwave.png" width="70" height="60" />
+Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" width="70" height="60" />
 
 &nbsp;
 
-<p style="font-size:13px;">Our Metaverse is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
+<p style="font-size:13px;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
  community channels!</a></p>
 
 &nbsp; &nbsp;
