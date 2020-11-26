@@ -68,4 +68,4 @@ aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
-As soon as you deposit, you benefit from the deposit interest rate.
+一旦你進行存款，你就會受益於存款利率。
