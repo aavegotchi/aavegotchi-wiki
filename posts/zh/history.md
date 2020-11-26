@@ -37,25 +37,25 @@ description: 'History of the Aaavegotchi Project'
 
 ## [2020年10月23日](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
 * 11月10日將舉行主網上線前的首次抽獎活動。
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+* 這次活動以LINK為題，是為了慶祝我們與Chainlink的伙伴關係和使用Chainlink VRF。
 
-## [20 October 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* Staking GHST on Mainnet is now live!
+## [2020年10月20日](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* 主網上的 GHST 質押現已上線！
 
-## [18 October 2020](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* GHST Staking audit report complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [2020年10月18日](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* AavegotchiDAO第一次在鏈上投票，99%票數通過！
+* GHST Staking審計報告已完成 — 沒有漏洞！
+* GHST Staking在72小時内在Mainnet上啟動
+* Aavegotchi 贏得OKex Defi + NFT 充值上線競賽。
 
-## [14 October 2020](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Vote with GHST! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+## [2020年10月14日](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
+* 使用GHST投票！ AavegotchiDAO的初步建議：增加水龍頭資金！
 
-## [13 October 2020](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* Welcome your Aavegotchi frens on Kovan testnet. Summoning now live!
+## [2020年10月13日](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 歡迎您在 Kovan 測試網上測試Aavegotchi。 現在就開始召喚吧！
 
-## [10 October 2020](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Open call for Aavegotchi Aartists
+## [2020年10月10日](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* 召喚你的Aavegotchi吧
 * Announcing the winners of the Mission 8 Aavegotchi meme contest winners! Woohoo!
 
 ## [7 October 2020](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
