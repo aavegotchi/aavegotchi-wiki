@@ -12,31 +12,31 @@ description: 'History of the Aaavegotchi Project'
 ## [<0>2020年11月20日</0>](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * Aavegotchi ❤ Chainlink 小說, 由我們自己的學徒編寫<0> Appellants</0>！
 
-## [13 November 2020](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* The first raffle was a success!
+## [2020年11月13日](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* 第一次抽獎活動成功！
 
-## [9 November 2020](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! Step-by-step guide for the upcoming raffles!
+## [2020年11月9日](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* 準備好了朋友們！ 發布即將到來抽獎活動詳細指南！
 
-## [4 November 2020](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* Test raffle live on Kovan testnet
-* Recap of the Aawesome Haalloween Paartay!
-* Announcement of the costume contest winners!
+## [2020年11月4日](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* 在 Kovan 測試網上線抽獎活動
+* 回憶萬聖節活動！
+* 宣布服飾比賽獲勝者！
 
-## [29 October 2020](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [2020年10月29日](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* 啟動Aavegotchi Builder，這是一個互動式小型應用程序，您可以在這裡參加Aavegotchi 各種特徵遊戲，並通過各種可穿戴設備模擬你的Aavegotchi 。
 
-## [28 October 2020](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty!
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+## [2020年10月28日](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+* 更多關於萬聖節的詳細信息！
+* 虛擬服飾比賽！
+* 來自Harrison First 的音樂，與Cherry、 OpenSea 和Matic Network見面。 由Aave創始人Stani進行開場白。
 
-## [25 October 2020](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Announcing the Mission 9 Contest Winners
-* Announcing a a Halloween Paarty!! Woot woot! Friday, 30 October 2020. Be there or be square!
+## [2020年10月25日](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* 宣布任務9 競賽獲獎者
+* 宣布萬聖節活動！！ Woot woot! 2020年10月30日，星期五 大家都來參加吧
 
-## [23 October 2020](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* The first of 3 pre-Mainnet GHST Staking Raffles is happening on Nov. 10!
+## [2020年10月23日](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+* 11月10日將舉行主網上線前的首次抽獎活動。
 * This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
 
 ## [20 October 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
