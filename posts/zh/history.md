@@ -63,22 +63,22 @@ description: 'History of the Aaavegotchi Project'
 
 ## [2020年10月2日](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
 * Uniswap質押池增加 GHST-ETH
-* Gotchi memes flooooding Aavegooootchi Reddit!
+* 在Reddit上進行表情大賽
 
-## [29 September 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Live on Kovan testnet!
+## [2020 年 9 月 29 日](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* 質押GSHT！ 在Kovan 測試網測試
 
-## [25 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+## [2020 年 9 月 25 日](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* Aavegotchi 傳送門上線 Kovan 測試網！
+* AavegotchiDAOs 提議：在Uniswap上增加GHST 流動資金
+* 已宣布的任務7獲勝者"Just DAO it！"
 
-## [24 September 2020](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+## [2020 年 9 月 24 日](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* 與CHAINLINK合作！ Coderdan 解釋了Chainlink的可驗證隨機函數 (VRF) 和 Aavegotchi 如何使用它
+* 更深入地解釋Chainlink VRF，請參閱 [Chainlink文章](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)
 
-## [14 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST has launched on Mainnet! Pre-sale soollllldddd ouuuuttt in under a minute! :O
+## [2020 年 9 月 14 日](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST 已在Mainnet上啟動！ Pre-sale soollllldddd ouuuuttt in under a minute! :O
 * GHST token held by over 2000 unique addresses! This is huuuugggeeeee
 
 ## [10 September 2020](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
