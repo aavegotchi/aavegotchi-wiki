@@ -35,7 +35,7 @@ A few ideas if you're bored just hodling your GHST:
   &nbsp;
   <li><b>Earn ETH:</b> our frens at opensea have made things easy for your to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable</li> 
   &nbsp;
-  <li><b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal for 100 GHST and chose 1 out of 10 Aavegotchis randomly generated. Mainnet sooooon, <a href="https://kovan.aavegotchi.com/portals">test it on Kovan</a></li>
+  <li><b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal for 100 GHST and chose 1 out of 10 Aavegotchis randomly generated. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan</a></li>
   &nbsp;
   <li><b>Soon... buy wearables, consumables & collectibles.</b> Your Aavegotchi has high fashion standards, make him feel special and he will give it back to you. <a href="https://wiki.aavegotchi.com/en/rarity-farming">Ever heard of rarity farming?</a></li>
   &nbsp;  
