@@ -16,7 +16,7 @@ export const tables
             tableName: "RarityScoreCalculationTable",
             tableCaption: "Final Rarity Score Calculation Example",
             tableData: {
-                headers: ["Trait", "Rarity", "Trait Value", "Value Name", "BRS", "ARS"],
+                headers: ["Trait", "Rarity", "Trait Value", "Trait Value Name", "BRS", "ARS"],
                 data: [
                     ["Energy", "Common", "61", "Calm", "61", "40 (60% possess)"],
                     ["Aggressiveness", "Uncommon", "78", "Combative", "78", "80 (20% possess)"],
