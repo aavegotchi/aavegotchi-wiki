@@ -56,13 +56,13 @@ description: 'History of the Aaavegotchi Project'
 
 ## [2020年10月10日](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
 * 召喚你的Aavegotchi吧
-* Announcing the winners of the Mission 8 Aavegotchi meme contest winners! Woohoo!
+* 宣布任務8的獲獎者 Aavegotchi meme競賽獲獎者！ 哇呼!
 
-## [7 October 2020](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Special edition of Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+## [2020年10月7日](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* Aavegotchi x Okex NFT的特定版本，將GHST存入OKex
 
-## [2 October 2020](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Uniswap LP staking of the GHST-ETH pair
+## [2020年10月2日](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* Uniswap質押池增加 GHST-ETH
 * Gotchi memes flooooding Aavegooootchi Reddit!
 
 ## [29 September 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
