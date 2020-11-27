@@ -10,9 +10,9 @@ tags:
   - "Blocknative"
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/icons/introduction.svg">
-<p class="rightImageText">Aavegotchi 百科</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/introduction.svg">
+<p class="headerImageText">Aavegotchi 百科</p>
 </div>
 
 欢迎来到官方的Aavegotchi百科
