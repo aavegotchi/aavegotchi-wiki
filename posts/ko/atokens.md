@@ -5,19 +5,33 @@ title: 'aTokens'
 description: 'All about Aavegotchi aTokens'
 ---
 
-## Table of contents
-1. <a href=#introduction>Introduction</a>
-2. <a href=#stablecoins>Stablecoins</a>
-3. <a href=#cryptocurrencies>Cryptocurrencies</a>
-4. <a href=#getting-atokens>Getting aTokens</a>
 
-## Introduction
+<div class="headerImageContainer">
+<img class="headerImage" src="/atokens/aETH.svg">
+<p class="headerImageText">The aETH aToken</p>
+</div>
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded.
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. 
+
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#introduction>About</a></li>
+<li><a href=#stablecoins>Stablecoins</a></li>
+<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
+<li><a href=#getting-atokens>Getting aTokens</a></li>
+</ol>
+
+</div>
+
+## About
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
 aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+
 
 The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol.
 
