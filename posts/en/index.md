@@ -7,9 +7,9 @@ description: 'All about the Aavegotchi Wiki'
 tags: ["Dapp", "UX", "Blocknative"]
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/icons/introduction.svg">
-<p class="rightImageText">The Aavegotchi Wiki</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/introduction.svg">
+<p class="headerImageText">The Aavegotchi Wiki</p>
 </div>
 
 

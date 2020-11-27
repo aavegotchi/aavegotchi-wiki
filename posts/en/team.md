@@ -4,9 +4,9 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Team'
 description: 'See who&#8217s building the Aavegotchi Game'
 ---
-<div class="rightImageContainer">
-<img class="rightImage" src="/team/aavegotchi-team-photo.png">
-<p class="rightImageText">Non edited photo</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/team/aavegotchi-team-photo.png">
+<p class="headerImageText">Non edited photo</p>
 </div>
 
 # The Dream Team Assembles
