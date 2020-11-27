@@ -3,6 +3,7 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
 description: 'All about AavegotchiDAO'
+image: "icons/dao.svg"
 ---
 
 <div class="headerImageContainer">
