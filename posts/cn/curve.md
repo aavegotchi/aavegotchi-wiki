@@ -3,6 +3,7 @@ author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: '联合曲线'
 description: 'The Aavegotchi Bonding Curve'
+image: "curve/bonding-curve.png"
 ---
 
 
