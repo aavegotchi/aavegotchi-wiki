@@ -4,6 +4,8 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
 description: 'All about Aavegotchi Wearables'
 image: "wearables/link/sergey-blue.svg"
+contributors:
+  - "cinnabarhorse"
 ---
 
 <div class="headerImageContainer">
@@ -50,5 +52,7 @@ Distributed via an exclusive, limited-edition Raffle in November 2020, these LIN
 table_linkWearablesTable
 
 # Aave Themed Set
+
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
