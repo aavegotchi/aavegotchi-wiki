@@ -51,6 +51,15 @@ export const items = [
         name: "Rarity Farming",
         href: "rarity-farming"
     },
+
+    {
+        name: "Missions",
+        href: "missions"
+    },
+    {
+        name: "Staking",
+        href: "staking"
+    },
     {
         name: "Memes",
         href: "memes"
