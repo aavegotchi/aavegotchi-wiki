@@ -3,6 +3,7 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: '可穿戴裝備'
 description: 'All about Aavegotchi Wearables'
+image: "wearables/link/sergey-blue.svg"
 ---
 
 <div class="headerImageContainer">
