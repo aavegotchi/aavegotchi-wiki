@@ -3,6 +3,7 @@ author: letsgobankless
 date: '2020-11-25T07:00:00.000Z'
 title: 'GHST Token'
 description: 'The eco-governance token of Aavegotchi'
+icon: "/ghst/ghsttoken.svg"
 ---
 
 <div class="headerImageContainer">
@@ -19,13 +20,13 @@ Beware of any token registered at a different address.
 **Contents**
 
 <ol>
-<li><a href=#buy-sell-mechanisms>Buy/sell mechanisms</a></li>
+<li><a href=#how-to-trade>How to Trade</a></li>
 <li><a href=#uses>Token uses</a></li>
 </ol>
 
 </div>
 
-## Buy/sell mechanisms
+## How to Trade
 There are basically 2 ways to buy GHST tokens :
 <ul>
   <li><a href="https://aavegotchi.com/curve">With KYC & DAI: the curve is forever, leverage that alpha</a>. Buy here and fund directly the Aavegotchi development (the DAO governs how to deal with the DAI collected in the treasury). </li>
