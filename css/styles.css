@@ -249,7 +249,20 @@ ol > li::before {
  
 
   @media screen and (max-width:768px) {
-      thead { font-size: 18px;}
+
+    .headerImageContainer {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .blogBody > h1 {
+        font-size: 32px;
+    }
+
+    thead { font-size: 18px;}
+    thead > th {
+        font-size: 13px;
+    }
 
     td {
         font-size: 13px;
