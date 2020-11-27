@@ -39,28 +39,11 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 
 ## Stablecoins
 
-* <img class="atoken" src="/atokens/aDAI.svg" alt = "aDAI token"> aDAI
-* <img class="atoken" src="/atokens/aUSDC.svg" alt = "aUSDC token"> aUSDC
-* <img class="atoken" src="/atokens/aTUSD.svg" alt = "aTUSD token"> aTUSD
-* <img class="atoken" src="/atokens/aUSDT.svg" alt = "aUSDT token"> aUSDT
-* <img class="atoken" src="/atokens/asUSD.svg" alt = "asUSD token"> asUSD
-* <img class="atoken" src="/atokens/aBUSD.svg" alt = "aBUSD token"> aBUSD
+table_stablecoins
 
 ## Cryptocurrencies
 
-* <img class="atoken" src="/atokens/aETH.svg" alt = "aETH token"> aETH
-* <img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token"> aUNI
-* <img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token"> aYFI
-* <img class="atoken" src="/atokens/aBAT.svg" alt = "aBAT token"> aBAT
-* <img class="atoken" src="/atokens/aREN.svg" alt = "aREN token"> aREN
-* <img class="atoken" src="/atokens/aENJ.svg" alt = "aENJ token"> aENJ
-* <img class="atoken" src="/atokens/aKNC.svg" alt = "aKNC token"> aKNC
-* <img class="atoken" src="/atokens/aLINK.svg" alt = "aLINK token"> aLINK
-* <img class="atoken" src="/atokens/aMANA.svg" alt = "aMANA token"> aMANA
-* <img class="atoken" src="/atokens/aREP.svg" alt = "aREP token"> aREP
-* <img class="atoken" src="/atokens/aSNX.svg" alt = "aSNX token"> aSNX
-* <img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token"> aWBTC
-* <img class="atoken" src="/atokens/aZRX.svg" alt = "aZRX token"> aZRX
+table_cryptocurrencies
 
 ## Getting aTokens
 
