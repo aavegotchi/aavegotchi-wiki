@@ -3,6 +3,8 @@ author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'History'
 description: 'History of the Aaavegotchi Project'
+contributors:
+  - "unintelligent-nerd"
 ---
 
 ## [<0>2020年11月23日</0>](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
