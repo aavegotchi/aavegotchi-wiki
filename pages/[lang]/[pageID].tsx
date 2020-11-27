@@ -96,8 +96,8 @@ const Page = (props) => {
         <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
             <NextReusableHead
-                title="Aavegotchi Wiki"
-                description="The Official Wiki of Aavegotchi"
+                title={`${frontmatter.title} -- Aavegotchi Wiki`}
+                description={frontmatter.description}
                 siteName="Aavegotchi Wiki"
                 url="https://wiki.aavegotchi.com"
                 faviconPath="/favicon.ico"
