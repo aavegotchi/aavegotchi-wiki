@@ -6,7 +6,7 @@ description: 'See who&#8217s building the Aavegotchi Game'
 ---
 <div class="rightImageContainer">
 <img class="rightImage" src="/team/aavegotchi-team-photo.png">
-<p class="rightImageText">Non edited photo</p>
+<p class="rightImageText">Non-edited photo</p>
 </div>
 
 # The Dream Team Assembles
