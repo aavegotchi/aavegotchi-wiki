@@ -5,20 +5,25 @@ title: 'GHST Token'
 description: 'The eco-governance token of Aavegotchi'
 ---
 
-<img src="/ghst/ghst.gif" width="300" height="300" />
+<div class="headerImageContainer">
+<img class="headerImage" src="/ghst/ghst.gif">
+<p class="headerImageText">GHST Token</p>
+</div>
 
-## Table of contents
-1. <a href=#introduction>Introduction</a>
-2. <a href=#buy-sell-mechanisms>Buy/sell mechanisms</a>
-3. <a href=#what-can-i-do-with-the-ghst-token>What can I do with the GHST token?</a>
+GHST token is the eco-governance token of the Aavegotchi Universe. GHST is an ERC-20 token running on the ethereum blockchain. The token contract address is: <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>.
 
+Beware of any token registered at a different address.
 
-## Introduction
+<div class="contentsBox">
 
-The GHST token is the base currency of the Aavegotchi realm. GHST is an ERC-20 token running on the ethereum blockchain. Here is the contract details: <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>. Beware of any token registered at a different address.
+**Contents**
 
+<ol>
+<li><a href=#buy-sell-mechanisms>Buy/sell mechanisms</a></li>
+<li><a href=#uses>Token uses</a></li>
+</ol>
 
-
+</div>
 
 ## Buy/sell mechanisms
 There are basically 2 ways to buy GHST tokens :
@@ -28,14 +33,14 @@ There are basically 2 ways to buy GHST tokens :
   <li><a href="https://www.coingecko.com/en/coins/aavegotchi#markets">Exchanges: here is a list of exchanges where you can do that</a>. If GHST is not listed yet on your favourite exchange, it is your duty to spam their support team until they fix it</li>
 </ul>
 
-## What can I do with the GHST token?
+## Uses
 A few ideas if you're bored just hodling your GHST:
 <ul>
-  <li><b>Earn raffle tickets for a chance to win wearables:</b> <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to be <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">as lucky as this anon</a></li>
+  <li><b>Earn raffle tickets for a chance to win wearables:</b> <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to be <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">as lucky as this anon.</a></li>
   &nbsp;
-  <li><b>Earn ETH:</b> our frens at opensea have made things easy for your to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable</li> 
+  <li><b>Earn ETH:</b> our frens at opensea have made things easy for your to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable.</li> 
   &nbsp;
-  <li><b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal for 100 GHST and chose 1 out of 10 Aavegotchis randomly generated. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan</a></li>
+  <li><b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal for 100 GHST and chose 1 out of 10 Aavegotchis randomly generated. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan.</a></li>
   &nbsp;
   <li><b>Soon... buy wearables, consumables & collectibles.</b> Your Aavegotchi has high fashion standards, make him feel special and he will give it back to you. <a href="https://wiki.aavegotchi.com/en/rarity-farming">Ever heard of rarity farming?</a></li>
   &nbsp;  
