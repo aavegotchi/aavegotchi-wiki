@@ -1,8 +1,21 @@
 export const items = [
 
+
     {
         name: "Introduction",
         href: "introduction"
+    },
+    {
+        name: "GHST",
+        href: "ghst"
+    },
+    {
+        name: "Metaverse",
+        href: "metaverse"
+    },
+    {
+        name: "Community",
+        href: "community"
     },
     {
         name: "Team",
@@ -27,6 +40,10 @@ export const items = [
     {
         name: "Bonding Curve",
         href: "curve"
+    },
+    {
+        name: "Rarity Farming",
+        href: "rarity-farming"
     },
     {
         name: "Memes",
