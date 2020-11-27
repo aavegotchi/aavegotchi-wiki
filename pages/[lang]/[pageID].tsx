@@ -101,7 +101,7 @@ const Page = (props) => {
                 siteName="Aavegotchi Wiki"
                 url="https://wiki.aavegotchi.com"
                 faviconPath="/favicon.ico"
-                image={`https://wiki.aavegotchi.com/${frontmatter.image}`}
+                image={`/${frontmatter.image}`}
             />
 
 
