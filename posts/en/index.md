@@ -1,10 +1,9 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-hero_image: /blocknative.jpg
 title: 'Aavegotchi Wiki'
 description: 'All about the Aavegotchi Wiki'
-tags: ["Dapp", "UX", "Blocknative"]
+image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
