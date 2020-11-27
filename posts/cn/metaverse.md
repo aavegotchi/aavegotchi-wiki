@@ -3,6 +3,7 @@ author: eris
 date: 'Coder Dan'
 title: 'Metaverse'
 description: 'All about the Aavegotchi Metaverse'
+image: "metaverse/metaverse.png"
 ---
 
 <div class="headerImageContainer">
