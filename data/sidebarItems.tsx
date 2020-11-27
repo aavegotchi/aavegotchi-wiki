@@ -52,5 +52,9 @@ export const items = [
     {
         name: "Developers",
         href: "developers"
+    },
+    {
+        name: "AavegotchiDAO",
+        href: "dao"
     }
 ]
