@@ -5,6 +5,11 @@ title: '传送门'
 description: 'All about Aavegotchi Portals'
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/portals/portal.gif">
+<p class="headerImageText">An Aavegotchi Portal</p>
+</div>
+
 如何召唤Aavegotchi并将它从暗黑世界中带到您的屏幕？ 当然通过一个传送门！
 
 向紫色的深处窥视，看看下面潜伏着什么--你会发现一个朋友。 或者更确切地说，是10个朋友。
