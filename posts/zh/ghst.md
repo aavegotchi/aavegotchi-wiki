@@ -4,6 +4,7 @@ date: '2020-11-25T07:00:00.000Z'
 title: 'GHST Token'
 description: 'The eco-governance token of Aavegotchi'
 icon: "/ghst/ghsttoken.svg"
+image: "ghst/ghsttoken.svg"
 ---
 
 <div class="headerImageContainer">
