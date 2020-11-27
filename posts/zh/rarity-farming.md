@@ -5,20 +5,29 @@ title: 'Rarity Farming'
 description: 'All about Rarity Farming'
 ---
 
-## 目錄
-1. <a href=#introduction>介紹</a>
-2. <a href=#base-rarity-score>Base Rarity Score</a>
-3. <a href=#absolute-rarity-score>Absolute Rarity Score</a>
-4. <a href=#final-rarity-score>Final Rarity Score</a>
-5. <a href=#getting-rewarded-for-rarity-farming>Getting Rewarded for Rarity Farming</a>
-
-## 介紹
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/rarity-farming.svg">
+<p class="headerImageText">A Rarity Farmer</p>
+</div>
 
 Rarity farming, as the name suggests, is where you farm for the rarest Aavegotchis, and get rewarded in GHST for training Aavegotchis with the highest <a href=#final-rarity-score>Final Rarity Score</a>!
 
 The rarity of the Aavegotchi is determined by the rareness of the Aavegotchi's <a href="https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#heading=h.3rdcrjn">traits</a> and the [wearables](https://wiki.aavegotchi.com/en/wearables)  that it equips. However, the rarity of a single Aavegotchi can change over time as the overall distribution of the traits and wearables in the Aavegotchi universe changes. All of these are the core of the rarity farming concept.
 
 There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
+
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#base-rarity-score>Base Rarity Score</a></li>
+<li><a href=#absolute-rarity-score>Absolute Rarity Score</a></li>
+<li> <a href=#final-rarity-score>Final Rarity Score</a></li>
+<li><a href=#rewards>Rewards</a></li>
+</ol>
+
+</div>
 
 ## Base Rarity Score
 
@@ -48,7 +57,7 @@ Example of the Final Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
 
-## Getting Rewarded for Rarity Farming
+## Rewards
 
 In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the <b>highest Final Rarity Scores</b> will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
