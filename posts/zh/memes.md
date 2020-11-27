@@ -3,6 +3,8 @@ author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Memes'
 description: 'The meme game is stronk with this one'
+contributors:
+  - "unintelligent-nerd"
 ---
 
 ## Aavegotchi Mission 8 Meme Contest Winners
