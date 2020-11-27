@@ -5,18 +5,27 @@ title: 'Wearables'
 description: 'All about Aavegotchi Wearables'
 ---
 
-## 目录
-1. <a href=#introduction>介绍</a>
-2. <a href=#link-themed-set>LINK Themed Set</a>
-2. <a href=#aave-themed-set>Aave Themed Set</a>
-
-## 介绍
+<div class="headerImageContainer">
+<img class="headerImage" src="/wearables/link/sergey-blue.svg">
+<p class="headerImageText">The Sergey Blue Plaid</p>
+</div>
 
 Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in minigames, as well as in rarity farming.
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
+This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
 
-# LINK Themed Set
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#link-themed-set>LINK Themed Set</a></li>
+<li><a href=#aave-themed-set>Aave Themed Set</a></li>
+</ol>
+
+</div>
+
+## LINK Themed Set
 
 <hr />
 
@@ -24,7 +33,7 @@ Distributed via an exclusive, limited-edition Raffle in November 2020, these LIN
 
 table_linkWearablesTable
 
-# Aave Themed Set
+## Aave Themed Set
 
 table_aaveWearablesTable
 
