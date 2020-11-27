@@ -9,7 +9,7 @@ image: "ghst/ghsttoken.svg"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ghst/ghst.gif">
-<p class="headerImageText">GHST Token</p>
+<p class="headerImageText">GHST 代幣</p>
 </div>
 
 GHST token is the eco-governance token of the Aavegotchi Universe. GHST is an ERC-20 token running on the ethereum blockchain. The token contract address is: <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>.
