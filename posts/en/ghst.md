@@ -23,24 +23,27 @@ Beware of any token registered at a different address.
 **Contents**
 
 <ol>
-<li><a href=#how-to-trade>How to Trade</a></li>
-<li><a href=#uses>Token uses</a></li>
+<li><a href=#get-ghst>Get GHST</a></li>
+<li><a href=#use-ghst>Use GHST</a></li>
+<li><a href=#use-ghst>Earn GHST</a></li>
 </ol>
 
 </div>
 
 
 
-## How to Trade
+## Get GHST
 There are basically 2 ways to buy GHST tokens :
 <ul>
-  <li><a href="https://aavegotchi.com/curve">With KYC & DAI: the curve is forever, leverage that alpha</a>. Buy here and fund directly the Aavegotchi development (the DAO governs how to deal with the DAI collected in the treasury). </li>
+  <li><a href="https://aavegotchi.com/curve">From the official Aavegotchi Bonding Curve</a>. Buy here and fund directly the Aavegotchi development (the DAO governs how to deal with the DAI collected in the treasury). <i>Note: Requires KYC, and Americans and Chinese citizens cannot participate.</i>  </li>
 <br>
-  <li><a href="https://www.coingecko.com/en/coins/aavegotchi#markets">Exchanges: here is a list of exchanges where you can do that</a>. If GHST is not listed yet on your favourite exchange, it is your duty to spam their support team until they fix it</li>
+  <li><a href="https://www.coingecko.com/en/coins/aavegotchi#markets">From DEXes and centralized exchanges</a>. GHST is listed on many DEXes and exchanges, including Uniswap, OKex, and Matcha. Acquiring GHST from these platforms does not require KYC, but it also does not directly support the Aavegotchi DAICO.</li>
 </ul>
   
-## Uses
-A few ideas if you're bored just hodling your GHST:
+## Use GHST
+GHST is the eco-governance token of the Aavegotchi Universe. When Aavegotchi launches on Mainnet, players will spend GHST to buy portals, wearables, and REALM parcels.
+
+Here are all the current and future uses for GHST:
 <ul>
   <li><b>Earn raffle tickets for a chance to win wearables:</b> <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to be <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">as lucky as this anon.</a></li>
   &nbsp;
@@ -54,3 +57,5 @@ A few ideas if you're bored just hodling your GHST:
   &nbsp; 
   <li><b>Soon... enhance the REALM.</b> Stake GHST and unlock parcel features within the REALM. REALM is a 2D pixelated metaverse for Aavegotchis, where Aavegotchis can encounter each other, participate in mini-games, call smart contracts, and participate in governance of the AavegotchiDAO. In addition to building out their parcel visually using a parcel editor, REALM holders will also be able to call smart contracts directly from their parcels, unlocking an entire new universe of possibilities.</li>
 </ul>
+
+## Earn GHST
