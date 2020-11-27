@@ -114,7 +114,14 @@ const Page = (props) => {
                 <Col>
 
                     <div className="blogBody">
-                        <h1>{frontmatter.title}</h1>
+
+
+                        <h1 style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
+
+                            {frontmatter.icon && <img src={frontmatter.icon} className="headerIcon" />}
+
+                            {frontmatter.title}
+                        </h1>
 
 
                         <div className="latestCommit">
