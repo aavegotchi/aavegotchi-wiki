@@ -54,4 +54,6 @@ table_linkWearablesTable
 
 # Aave Themed Set
 
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team. 
+
 table_aaveWearablesTable

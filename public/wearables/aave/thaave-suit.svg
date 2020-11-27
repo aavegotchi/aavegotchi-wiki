@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:v="https://vecta.io/nano"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#C0642E;}
+	.st2{fill:#8E9397;}
+	.st3{fill:#5ABDCE;}
+	.st4{fill:#FFC500;}
+</style>
+<rect y="0" class="st0" width="64" height="64"/>
+<g>
+	<path class="st1" d="M9.5,19.5v8.8h1.2v-10H9.5V19.5z M53.2,18.2v10h1.2v-10H53.2z M40.8,25.8h-2.5v2.5h5v-2.5H42H40.8z M23.2,25.8
+		h-2.5v2.5h5v-2.5h-1.2H23.2z"/>
+	<path class="st2" d="M25.8,38.2H22V42h6.2v-3.8H27H25.8z M39.5,38.2h-3.8V42H42v-3.8h-1.2H39.5z M40.8,30.8h-2.5v2.5H42v-2.5H40.8z
+		 M24.5,33.2h1.2v-2.5H22v2.5h1.2H24.5z"/>
+	<g>
+		<path class="st3" d="M34.5,30.8h-1.2v2.5h-2.5v-2.5h-2.5v7.5h2.5v-2.5h2.5v2.5h2.5v-7.5H34.5z"/>
+		<path class="st3" d="M33.2,30.8v-2.5h-2.5v2.5H32H33.2z"/>
+	</g>
+	<path d="M33.2,38.2v-2.5h-2.5v2.5h-2.5v5h7.5v-5h-1.2H33.2z M52,19.5v1.2h-1.2V22h-2.5v1.2h-2.5v1.2h-2.5v3.8h-10v2.5h2.5v2.5h2.5
+		v-2.5H42v2.5h11.2V19.5H52z"/>
+	<path d="M30.8,30.8v2.5h2.5v-2.5H32H30.8z"/>
+	<path d="M30.8,28.2h-10v-3.8h-2.5v-1.2h-2.5V22h-2.5v-1.2H12v-1.2h-1.2v13.8H22v-2.5h3.8v2.5h2.5v-2.5h2.5v-1.2V28.2z M28.2,35.8
+		H10.8v10h5v-2.5H22v-5h6.2V37V35.8z M50.8,35.8h-15v2.5H42v5h6.2v2.5h5v-10H52H50.8z"/>
+	<path class="st4" d="M25.8,42H22v3.8h6.2V42H27H25.8z M39.5,42h-3.8v3.8H42V42h-1.2H39.5z M52,33.2H35.8v2.5h17.5v-2.5H52z
+		 M25.8,33.2h-15v2.5h17.5v-2.5H27H25.8z"/>
+</g>
+</svg>
