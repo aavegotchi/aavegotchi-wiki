@@ -13,6 +13,10 @@ contributors: ["eris771"]
 </div>
 
 
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-style:italic; font-size:13px;">The Aavegotchi Realm is currently under construction. As our metaverse grows, so will our metaverse page. To be first in the know
+for upcoming updates or discussions regarding potential developments, <a href="https://discord.com/invite/3fkAkdS">hop into our Discord.</a></p>
+
 
 Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll 
 be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
@@ -47,7 +51,7 @@ The Aavegotchi Realm is expanding as we speak. Here are just a few of the activi
 
 <ul><p style="margin-left: 2.4em"><b><li>Vote in the DAO</li></b></p></ul>
 
-<p style="margin-left: 4.8em">Make your voice heard in the Aavegotchi Realm. Head to the metaverse governance building to cast your vote for the future of the Aavegotchi!</p>
+<p style="margin-left: 4.8em">Make your voice heard in the Aavegotchi Realm. Head to the metaverse governance building to cast your vote for the future of Aavegotchi!</p>
 
 <ul><p style="margin-left: 2.4em"><b><li>Find a Babysitter and More</li></b></p></ul>
 
@@ -63,5 +67,5 @@ REALM parcels can also be **enhanced by staking GHST to unlock new features.**
 
 Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" width="70" height="60">
 
-<p style="font-size:13px;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
+<p style="font-size:13px; font-style:italic;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
  community channels!</a></p>
