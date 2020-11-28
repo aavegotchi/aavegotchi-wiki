@@ -67,7 +67,7 @@ Winning prizes depends on which tickets and how many tickets you enter into a ra
 
 The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) to determine prize winners.
 
-Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
+Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding Aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
 
 Blog posts:
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
