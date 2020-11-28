@@ -2,18 +2,18 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+description: '아베고치 위키의 모든 것'
 image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">아베고치 위키</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+아베고치 위키에 온걸 환영해요 친구!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
+이 별 것 없는 위키는 아베고치의 모든 정보의 중심 저장소이고, '아카이버'라고 불리는 아베고치 커뮤니티 봉사자들을 통해 업데이트 되고 유지됩니다.
 
 ## New to Aavegotchi?
 
