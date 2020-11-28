@@ -34,8 +34,6 @@ const Sidebar = (props: SidebarProps) => {
                         border:solid 5px #FFF971;
                         border-left:5px white;
                         border-style:none dashed none none;
-                        
-
                         padding:15px;
                         padding-top:50px;
                     }
@@ -74,6 +72,30 @@ const Sidebar = (props: SidebarProps) => {
 
                   .name {
                       font-size:14px;
+                  }
+
+                  @media screen and (max-width:768px) {
+
+                    .sidebarContainer {
+                        min-height:unset;
+                        height:fit-content;
+                        padding-top:20px;
+                    }
+                      ul {
+                          display:flex;
+                          flex-direction:row;
+                          flex-wrap:wrap;
+                          justify-content:center;
+                      }
+
+                      ul > a  > li {
+                          width:40px;
+                          height:40px;
+                      }
+
+                      .name {
+                          display:none;
+                      }
                   }
                 `}
             </style>

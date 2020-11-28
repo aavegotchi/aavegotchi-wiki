@@ -11,9 +11,9 @@ tags:
   - "Blocknative"
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/aavegotchi.png">
-<p class="rightImageText">Aavegotchi</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/aavegotchi.png">
+<p class="headerImageText">Aavegotchi</p>
 </div>
 
 Aavegotchi是2020年底將在Ethereum上發布的一款支持DeFi（去中心化金融）元素的非同質化代币（NFT）收藏品。

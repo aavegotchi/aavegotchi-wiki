@@ -11,9 +11,9 @@ tags:
   - "Blocknative"
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/aavegotchi.png">
-<p class="rightImageText">Aavegotchi</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/aavegotchi.png">
+<p class="headerImageText">Aavegotchi</p>
 </div>
 
 Aavegotchi is an Non-Fungible Token (NFT) collectible with DeFi (Decentralized Finance) enabled elements released on Ethereum in late 2020.
