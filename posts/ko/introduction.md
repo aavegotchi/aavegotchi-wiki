@@ -1,8 +1,8 @@
 ---
-author: Coder Dan
+author: 코더 댄
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+title: '아베고치'
+description: '아베고치 위키 소개'
 image: "aavegotchi.png"
 ---
 
