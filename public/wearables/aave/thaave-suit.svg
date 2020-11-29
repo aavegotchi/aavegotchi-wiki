@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:v="https://vecta.io/nano"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#C0642E;}
+	.st2{fill:#8E9397;}
+	.st3{fill:#5ABDCE;}
+	.st4{fill:#FFC500;}
+	.st5{fill:#C22B2A;}
+	.st6{fill:#7D0019;}
+</style>
+<rect y="0" class="st0" width="64" height="64"/>
+<g>
+	<g>
+		<path class="st1" d="M14,22v7h1v-8h-1V22z M49,21v8h1v-8H49z M39,27h-2v2h4v-2h-1H39z M25,27h-2v2h4v-2h-1H25z"/>
+		<path class="st2" d="M27,37h-3v3h5v-3h-1H27z M38,37h-3v3h5v-3h-1H38z M39,31h-2v2h3v-2H39z M26,33h1v-2h-3v2h1H26z"/>
+		<g>
+			<path class="st3" d="M34,31h-1v2h-2v-2h-2v6h2v-2h2v2h2v-6H34z"/>
+			<path class="st3" d="M33,31v-2h-2v2h1H33z"/>
+		</g>
+		<path d="M33,37v-2h-2v2h-2v4h6v-4h-1H33z M48,22v1h-1v1h-2v1h-2v1h-2v3h-8v2h2v2h2v-2h3v2h9V22H48z"/>
+		<path d="M31,31v2h2v-2h-1H31z"/>
+		<path d="M31,29h-8v-3h-2v-1h-2v-1h-2v-1h-1v-1h-1v11h9v-2h3v2h2v-2h2v-1V29z M29,35H15v8h4v-2h5v-4h5v-1V35z M47,35H35v2h5v4h5v2
+			h4v-8h-1H47z"/>
+		<path class="st4" d="M27,40h-3v3h5v-3h-1H27z M38,40h-3v3h5v-3h-1H38z M48,33H35v2h14v-2H48z M27,33H15v2h14v-2h-1H27z"/>
+	</g>
+	<g>
+		<g>
+			<path class="st5" d="M14,38v1h-1v3h2v-6h-1v1V38z"/>
+			<path class="st5" d="M14,30h-1v4h-1v4h-1v1h-1v3h2v-3h1v-3h1v-1h1v-6h-1V30z M19,41v1h2v-1h-1H19z M22,41v1h2v-1h-1H22z M40,41v1
+				h2v-1h-1H40z M43,41v1h2v-1h-1H43z M29,41v1h2v-1h-1H29z M33,41v1h2v-1h-1H33z M50,38v-2h-1v6h2v-3h-1V38z"/>
+			<path class="st5" d="M53,39v-1h-1v-4h-1v-4h-1v-1h-1v6h1v1h1v3h1v3h2v-3H53z"/>
+		</g>
+		<g>
+			<path class="st6" d="M14,35h1v1h-1V35z"/>
+			<path class="st6" d="M13,37v2h1v-3h-1V37z M22,42v-1h-1v1h-2v1h5v-1h-1H22z M43,42v-1h-1v1h-2v1h5v-1h-1H43z M33,42v-1h-2v1h-2v1
+				h6v-1h-1H33z"/>
+			<path class="st6" d="M12,40v2h-2v-3h1v-1H9v5h6v-1h-2v-3h-1V40z"/>
+			<path class="st6" d="M12,37v-3h1v-4h-1v3h-1v5h1V37z M49,35h1v1h-1V35z"/>
+			<path class="st6" d="M51,37v-1h-1v3h1v-1V37z M53,36v-3h-1v-3h-1v4h1v4h1v-1V36z"/>
+			<path class="st6" d="M54,38h-1v1h1v3h-2v-3h-1v3h-2v1h6v-5H54z"/>
+		</g>
+	</g>
+</g>
+</svg>

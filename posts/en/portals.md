@@ -3,7 +3,14 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
 description: 'All about Aavegotchi Portals'
+image: "portals/portal.gif"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/portals/portal.gif">
+<p class="headerImageText">An Aavegotchi Portal</p>
+</div>
+
 How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course! 
 
 Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.

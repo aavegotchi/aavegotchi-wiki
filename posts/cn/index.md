@@ -1,18 +1,14 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-hero_image: /blocknative.jpg
 title: 'Aavegotchi Wiki'
 description: 'All about the Aavegotchi Wiki'
-tags:
-  - "Dapp"
-  - "UX"
-  - "Blocknative"
+image: "icons/introduction.svg"
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/icons/introduction.svg">
-<p class="rightImageText">Aavegotchi 百科</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/introduction.svg">
+<p class="headerImageText">Aavegotchi 百科</p>
 </div>
 
 欢迎来到官方的Aavegotchi百科

@@ -10,6 +10,7 @@ import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { addTablesToMarkdown } from "../../functions";
 
 interface Commit {
     date: string
@@ -27,6 +28,9 @@ const Page = (props) => {
 
     const markdownBody = props.content
     const frontmatter = props.data
+
+    //Override the content and add tables
+    const finalMarkdown = addTablesToMarkdown(markdownBody, router.query.pageID)
 
 
     const flatten = (text: string, child) => {
@@ -86,17 +90,16 @@ const Page = (props) => {
     }
 
 
-
-
     return (
         <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
             <NextReusableHead
-                title="Aavegotchi Wiki"
-                description="The Official Wiki of Aavegotchi"
+                title={`${frontmatter.title} -- Aavegotchi Wiki`}
+                description={frontmatter.description}
                 siteName="Aavegotchi Wiki"
                 url="https://wiki.aavegotchi.com"
                 faviconPath="/favicon.ico"
+                image={`https://wiki.aavegotchi.com/${frontmatter.image}`}
             />
 
 
@@ -110,7 +113,15 @@ const Page = (props) => {
                 <Col>
 
                     <div className="blogBody">
-                        <h1>{frontmatter.title}</h1>
+
+
+                        <h1 style={{ display: 'flex', flexDirection: 'row', alignItems: 'center' }}>
+
+                            {frontmatter.icon && <img src={frontmatter.icon} className="headerIcon" />}
+
+                            {frontmatter.title}
+
+                        </h1>
 
 
                         <div className="latestCommit">
@@ -118,18 +129,53 @@ const Page = (props) => {
                         </div>
 
 
+
+                        {frontmatter.contributors &&
+                            <div className="contributorContainer">
+                                Contributors
+                                {frontmatter.contributors.map((name) => {
+                                return <a target="_blank" href={`https://github.com/${name}`}>
+                                    <img className="contributor" src={`/contributors/${name}.png`} />
+                                </a>
+                            })}
+                            </div>
+                        }
+
                         <hr />
                         <ReactMarkdownWithHtml
 
                             allowDangerousHtml={true}
                             astPlugins={[parseHtml]}
                             renderers={renderers}
-                            children={markdownBody} />
+                            children={finalMarkdown} />
                     </div>
 
                 </Col>
             </Row>
 
+
+            <style jsx>
+                {`
+                            .contributorContainer {
+                                font-size:10px;
+                                text-transform:uppercase;
+                                border:solid 1px rgba(0,0,0,0.3);
+                                width:fit-content;
+                                padding:4px 10px 4px 10px;
+                                display:flex;
+                                flex-direction:row;
+                                align-items:center;
+                                border-radius:30px;
+                            }
+                            
+                            .contributor {
+                                margin-left:10px;
+                                width:30px;
+                                height:30px;
+                                border-radius:100%;
+                            }
+                        `}
+            </style>
 
         </Layout>
     );
