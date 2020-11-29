@@ -24,19 +24,21 @@ description: 'Stake GHST, Make FRENS'
 
 一旦你有了GHST，你就可以直接在质押合同中质押它，或者你可以将它放入 [ETH/GHST Uniswap 池](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) 并获得流动池令牌，然后质押合同中质押。
 
-每个GHST 令牌每天会为你赚取1个积分点。 每个GHST/ETH Uniswap流动池令牌每天会为你赚取100个积分点。
+The amount of ETH and GHST required to acquire 1ETH/GHST LP token varies based on the price of the pool token at the time.
 
-*1 GHST 每天赚取1 FRENS 点，1 GHST-ETH LP token 赚取100 FRENS / 天*
+You earn 1 frens point per day for each GHST token staked. You earn 100 frens points per day for each GHST/ETH Uniswap liquidity pool token staked.
 
-前往 [用户质押界面](https://aavegotchi.com/stake-mainnet) 来质押GHST或者GHST/ETH 池令牌。  这个网页还将向你展示你累积了多少积分点。
+*1 GHST earns 1 FRENS point per day, and 1 GHST-ETH LP token earns 100 FRENS / day*
 
-Frens 点不可转让。 他们是为你的以太坊地址积累的，你不能将它们转移到另一个地址。 您可以使用它们来购买抽奖券。
+Go to the [staking user interface](https://aavegotchi.com/stake-mainnet) to stake GHST and/or GHST/ETH pool tokens.  This webpage will also show you how many frens points you have accumulated.
+
+Frens points are not transferable. They accumulate for your Ethereum address and you can't transfer them to a different address. You can use them to purchase raffle tickets.
 
 ## 购买抽奖券
 
-一旦你有足够的积分点请到 [商店批量购买界面](https://aavegotchi.com/bulk-buy) 来用积分点购买奖券。
+Once you have enough frens go to the [Shop Bulk Buy user interface](https://aavegotchi.com/bulk-buy) to purchase raffle tickets with frens.
 
-有六种不同等级的奖券：
+There are six different levels of raffle tickets:
 
 ![Raffle Tickets](/staking/raffletickets.png)
 
@@ -47,28 +49,28 @@ Frens 点不可转让。 他们是为你的以太坊地址积累的，你不能�
 - 每张神话奖券花费10000积分。 将神话抽奖券放到抽奖池中，将有机会获得一个神话等级的奖品。 一个神话的奖品比一个传奇的奖品更稀有。
 - 每张创世级奖券花费50000积分。 将创世抽奖券放到抽奖池中，将有机会获得一个创世等级的奖品。 一个创世的奖品比一个神话的奖品更稀有。
 
-博客: [ 质押GHST，获取主网上的积分！](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-etherum-mainnet-658bd507d67b)
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 
 ## 进入抽奖池和赢得奖品
 
-一次抽奖将运行一段时间。 在这段时间里，您可以提交您的抽奖券来赢得奖励。 当抽奖结束后，你可以查看是否赢得了它们。
+A raffle runs for a period of time. During this time you can submit your raffle tickets for chances to win prizes. When the raffle is over you can find out what prizes you won and claim them.
 
-第一次抽奖于2020年11月10日开始，持续了3天。 下面是分级奖品：
+The first raffle started on 10 November 2020 and ran for 3 days. Here were the prizes for the raffle:
 
 ![Raffle Prizes](/staking/prizes.png)
 
-共有6010个奖品。
+A total of 6010 prizes.
 
-[OpenSea 价格](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-获奖取决于哪种奖券和你投入的此类型奖券数量， 有多少奖品，还有多少奖券是其他人提交的。
+Winning prizes depends on which tickets and how many tickets you enter into a raffle, how many prizes there are, and how many tickets other people submit.
 
-抽奖通过Chainlink的 [可验证的随机性](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 来确定获奖者。
+The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) to determine prize winners.
 
-奖品也叫作装备凭证的奖品，可以从 [商店](https://aavegotchi.com/shop) 换取对应的 avegotchi 可穿戴物品。
+Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
 
-博客文章
+Blog posts:
 - [Aavegotchi 抽奖——免费指南](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink 抽奖 — 你获胜了吗？](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 - [Anon和他的绿色奖券](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
