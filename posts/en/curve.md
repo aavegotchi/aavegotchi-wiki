@@ -27,6 +27,8 @@ The Reserve Ratio represents a fixed ratio between the Continuous Token’s tota
 
 Since each purchase or sale of a Continuous Token triggers an increase or decrease of Reserve Tokens and Continuous Tokens, the price of the Continuous Token with respect to its Reserve Tokens will continuously recalculate to maintain the configured reserve ratio between them.
 
+If you wanna see it in action, check out this interactive model coderdan made [here] (https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve) .
+
 TEH CURVE IS FOREVER!
 
 ## Aavegotchi Bonding Curve
