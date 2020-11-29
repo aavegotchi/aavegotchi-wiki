@@ -29,7 +29,7 @@ contributors:
 
 </div>
 
-&nbsp;
+&nbsp;<a name="General"></a>
 
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
 
@@ -78,7 +78,7 @@ any of the remaining raffles for a chance to win unique wearables for your Aaveg
 <ul><p style="margin-left: 2.4em"><li><b>Do Missions to Earn Wearables:</b> You can also complete our <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi Missions</a> - which, after you’ve completed them all, will earn you an exclusive Aavegotchi Aagent wearable 
 set.</li></p></ul>
 
-&nbsp;
+&nbsp;<a name="Raffle"></a>
 
 <p style="font-size:25px;">Raffle FAQ</p>
 <p style="font-style:italic; font-size:13px;"><a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Read me</a> for general information
