@@ -36,14 +36,14 @@ With the help of \[Chainlink’s VRF\] (https://blog.chain.link/verifiable-rando
 
 table_PortalTraitTable
 
-More information on rarity farming can be found \[here\] (https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/rarity-farming).
+More information on rarity farming can be found \[here\] (https://wiki.aavegotchi.com/en/rarity-farming).
 
 
 **3. Stake Your Collateral**
 
 Once you’ve decided on the Aavegotchi that you wish to stake, you need to stake the required amount of Spirit Force to the Portal. In other words, you’ll need to stake an Aave-backed ERC20 token to it, or “aTokens”. These aTokens will have to be acquired from our frens at \[Aave\] (https://aave.com/).
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. For more information on aTokens, check out the \[page\] (https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/atokens) on it.
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. For more information on aTokens, check out the \[page\] (https://wiki.aavegotchi.com/en/atokens) on it.
 
 In more technical terms, each Aavegotchi ERC721 NFT manages an escrow contract address that holds their aToken Spirit Force. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet, helping to increase the intrinsic value of your fren over time.
 
