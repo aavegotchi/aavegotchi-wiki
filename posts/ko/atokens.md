@@ -21,7 +21,7 @@ aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). 
 **Contents**
 
 <ol>
-<li><a href=#introduction>About</a></li>
+<li><a href=#introduction>아베고치에 대해서</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
@@ -29,7 +29,7 @@ aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). 
 
 </div>
 
-## About
+## 아베고치에 대해서
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
