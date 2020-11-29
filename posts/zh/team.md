@@ -3,6 +3,7 @@ author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
 title: 'Team'
 description: 'See who&#8217s building the Aavegotchi Game'
+image: "team/aavegotchi-team-photo.png"
 ---
 
 <div class="headerImageContainer">
@@ -11,9 +12,17 @@ description: 'See who&#8217s building the Aavegotchi Game'
 </div>
 
 # The Dream Team Assembles
-This is the team, behind the meme.  This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world.
+This is the team, behind the meme.  This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aaprentice et al.
 
-Insert story about how the team came together, and how coderdan will change the world ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+
+"It's time to sell some candy" Said Dan.
+
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
+
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+
+So this is how our heroes assembled, some details have been edited for time.
 
 <div class="leftFlexContainer">
   <div class="leftImageContainer">

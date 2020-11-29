@@ -3,7 +3,13 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: '传送门'
 description: 'All about Aavegotchi Portals'
+image: "portals/portal.gif"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/portals/portal.gif">
+<p class="headerImageText">An Aavegotchi Portal</p>
+</div>
 
 如何召唤Aavegotchi并将它从暗黑世界中带到您的屏幕？ 当然通过一个传送门！
 
