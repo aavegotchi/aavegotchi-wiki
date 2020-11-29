@@ -32,27 +32,31 @@ image: "portals/portal.gif"
 
 好极了！ 您已经拥有了一个传送门。 在“我的项目”下选择您的传送门，点击打开它。 每个传送门包含10个不同的Aavegotchis，供您选择从暗黑世界召唤出来。
 
-在Chainlink的 VRF 的帮助下，这些Aavegotchis 都有不同的随机生成的特性。 在您切换选项时，您可以查看这些特性和您的Aavegotchi的基础稀有分数。 关于稀有农业的更多资料可在稀有农业中查阅。
+在Chainlink的 VRF 的帮助下，这些Aavegotchis 都有不同的随机生成的特性。 在您切换选项时，您可以查看这些特性和您的Aavegotchi的基础稀有分数。 You can check out the trait range and rarity probabilities in this table here:
+
+table_PortalTraitTable
+
+More information on rarity farming can be found \[here\] (https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/rarity-farming).
 
 
-**3. 质押你的抵押物**
+**3. Stake Your Collateral**
 
-一旦你在Aavegotchi上决定你想要质押的类型，你就需要把所需的抵押物质押到传送门中。 换言之，您需要质押一种基于Aave的 ERC20 令牌或者叫做“aTokens”。
+Once you’ve decided on the Aavegotchi that you wish to stake, you need to stake the required amount of Spirit Force to the Portal. In other words, you’ll need to stake an Aave-backed ERC20 token to it, or “aTokens”.
 
-除了由稀缺性和市场力量决定的货币价值外，每个Aavegotchi还具有内在价值。 你所质押的atokens代表了它的内在价值。 关于 aTokens 的更多信息，请参阅LINK。
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. For more information on aTokens, check out LINK.
 
-在更多的技术术语中，每个Aavegotchi ERC721 NFT管理着一个托管合同地址，该地址持有他们的aToken精神力。 aToken通过Aave的LendingPool产生收益率，从而增加钱包中持有的aToken数量，有助于随着时间的推移提高你持有的aavegotchi内在价值。
+In more technical terms, each Aavegotchi ERC721 NFT manages an escrow contract address that holds their aToken Spirit Force. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet, helping to increase the intrinsic value of your fren over time.
 
-一般来说，精神力(抵押物)的最低数量取决于你要召唤的aavegotchi的基础稀有度分数。 得分越高，所需的抵押物就越多。
+Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
 
-**4. 转让或者释放你的aavegotchi**
+**4. Transferring or Releasing Your Aavegotchi**
 
-首先，你为什么会这样做？ 做一个像我们所有人一样的傻瓜。
+First of all, why would you do that??? Be a simp like all of us.
 
-但除了笑外，下面告诉你如何操作。
+But jokes aside, here’s what happens.
 
-将Aavegotchi转让给一个新的所有者(当你交易时)也转让了它包括的相关抵押物。
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it.
 
-另一方面，如果您想要取回您的 Aavegotchi 的隐藏抵押物， 它将被永远送回暗黑世界(burned)，并将被释放的抵押物还给你。 
+On the other hand, if you wish to retrieve the staked collateral backing your Aavegotchi, it will be sent back to the Nether Realm forever (burned), and the staked collateral will be returned to you. 
 
