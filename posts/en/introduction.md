@@ -1,24 +1,29 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-hero_image: /blocknative.jpg
-slug: seamless-dapp-ux-with-blocknative
 title: 'Aavegotchi'
-description: 'Learn how to use the Blocknative Notify API to effortlessly synchronize blockchain transaction states with a traditional backend database.'
-tags: ["Dapp", "UX", "Blocknative"]
+description: 'Introduction to the Aavegotchi Wiki'
+image: "aavegotchi.png"
 ---
 
-<div class="rightImageContainer">
-<img class="rightImage" src="/aavegotchi.png">
-<p class="rightImageText">Aavegotchi</p>
+<div class="headerImageContainer">
+<img class="headerImage" src="/aavegotchi.png">
+<p class="headerImageText">Aavegotchi</p>
 </div>
 
-Aavegotchi is an Non-Fungible Token (NFT) collectible with DeFi (Decentralized Finance) enabled elements released on Ethereum in late 2020.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake NFT avatars with interest-generating [aTokens](https://wiki.aavegotchi.com/atokens) and interact with the Aavegotchi [metaverse](https://wiki.aavegotchi.com/metaverse). It is a unique combination of DeFi and NFTs.
 
-Aavegotchi is built around [DeFi token collateral stakes](/p/atokens), dynamic rarity, rarity farming, DAO-governed game mechanics, and a playable metaverse with mini-games.
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the **ERC-721** standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral, and equipped [wearables](https://wiki.aavegotchi.com/wearables). 
+
+To level up their Aavegotchis, players can participate in a variety of activities including mini-games, governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up. 
+
+Rare Aavegotchis not only have higher secondary marketplace value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens. 
+
+Aavegotchi is governed by [AavegotchiDAO](https://wiki.aavegotchi.com/dao) that manages all funds generated through the [GHST token](https://wiki.aavegotchi.com/ghst) distribution.
+
 
 ## About
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. [4]
+Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. 
 Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables. 
 ## Collateral stake
 Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time. 
@@ -27,10 +32,10 @@ Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave
 Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. 
 
 ## Randomly-Generated Traits
-Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, Legendary, or Mythical, depending on its rarity. [4]
+Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, Legendary, or Mythical, depending on its rarity. 
 ## Kinship
 
-“Kinship” is not randomly assigned, but rather starts at a fixed value upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. [4]
+“Kinship” is not randomly assigned, but rather starts at a fixed value upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. 
 ## Level 
 Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every few levels, Aavegotchis receive one Spirit Point that can be allocated towards increasing or decreasing a certain trait. 
 
@@ -53,8 +58,4 @@ Rarity value is determined by calculating the rareness of each Aavegotchi’s tr
 ## The Aavegotchi Universe
 The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate, including Portals, the $GHST Utility Token, AavegotchiDAO, and the Aavegotchi Realm.
 
-## Portal
-
-## DeFi elements
-Aavegotchi will be built around DeFi token collateral stakes, dynamic rarity, rarity farming, DAO-governed game mechanics, and a playable metaverse with mini-games.
 

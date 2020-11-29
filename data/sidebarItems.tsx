@@ -6,6 +6,26 @@ export const items = [
         href: "introduction"
     },
     {
+        name: "GHST",
+        href: "ghst"
+    },
+    {
+        name: "AavegotchiDAO",
+        href: "dao"
+    },
+    {
+        name: "Bonding Curve",
+        href: "curve"
+    },
+    {
+        name: "Wearables",
+        href: "wearables"
+    },
+    {
+        name: "Metaverse",
+        href: "metaverse"
+    },
+    {
         name: "Community",
         href: "community"
     },
@@ -21,17 +41,24 @@ export const items = [
         name: "aTokens",
         href: "atokens"
     },
-    {
-        name: "Wearables",
-        href: "wearables"
-    },
+
     {
         name: "History",
         href: "history"
     },
+
     {
-        name: "Bonding Curve",
-        href: "curve"
+        name: "Rarity Farming",
+        href: "rarity-farming"
+    },
+
+    {
+        name: "Missions",
+        href: "missions"
+    },
+    {
+        name: "Staking",
+        href: "staking"
     },
     {
         name: "Memes",
@@ -40,5 +67,6 @@ export const items = [
     {
         name: "Developers",
         href: "developers"
-    }
+    },
+
 ]

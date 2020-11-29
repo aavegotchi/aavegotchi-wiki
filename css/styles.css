@@ -82,12 +82,18 @@ a:hover {
     padding:20px;
 }
 
-.rightImage {
+.headerIcon {
+    width:50px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.headerImage {
     width:100%;
     height:100%;
 }
 
-.rightImageContainer {
+.headerImageContainer {
     width:350px;
     height:auto;
     float:right;
@@ -99,9 +105,16 @@ a:hover {
 
 }
 
-.rightImageText {
+.headerImageText {
     margin-top: 10px;
     text-align:center;
+}
+
+.contentsBox {
+    width: fit-content;
+    padding:15px;
+    background: whitesmoke;
+    border: solid 1px darkgray;
 }
 
 .leftImage {
@@ -144,77 +157,112 @@ a:hover {
 
 .latestCommit {
     margin-top:-30px;
-    margin-bottom:30px;
+    margin-bottom:15px;
     font-style:oblique;
     font-size:12px;
-  }
+}
 
 
-  .flexRow {
-      display:flex;
-      flex-direction: row;
-      align-items: center;
-  }
+.flexRow {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
 
-  .wearableSmall {
-      width:128px;
-      height: 128px;
-      margin-right: 10px;
-     
-      margin-bottom: 15px;
-  }
+.wearableSmall {
+    width:128px;
+    height: 128px;
+    margin-right: 10px;
+    
+    margin-bottom: 15px;
+}
 
-  .wearableTrait {
-      font-size: 12px;
-      margin-bottom: 8px;
-  }
+.wearableTrait {
+    font-size: 12px;
+    margin-bottom: 8px;
+}
 
-  .tableHeader {
-      width: 100%;
-      text-align: center;
-      font-size: 16px;
-      margin-top: 20px;
-      margin-bottom: 20px;
-  }
+.tableHeader {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
-  table {
-      width: 100%;
-      border-top: solid 3px whitesmoke;
-      border-bottom: solid 3px whitesmoke;
-  }
+table {
+    width: 100%;
+    border-top: solid 3px whitesmoke;
+    border-bottom: solid 3px whitesmoke;
+}
 
-  thead > th {
-      font-size: 18px;
-      padding-top: 10px;
-      margin-top: 20px;
-      padding-bottom: 10px;
-      background: black;
-      color: white;
-  }
+thead > th {
+    font-size: 18px;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    background: black;
+    color: white;
+}
 
-  tr:nth-child(even) {
+tr:nth-child(even) {
    background:whitesmoke;
-  }
+}
   
 
-  table, th, td {
+table, th, td {
     border: 1px solid black;
     text-align: center;
-  }
+}
 
-  table > caption {
-      caption-side: top;
-      text-align: center;
-  }
+table > caption {
+    caption-side: top;
+    text-align: center;
+}
 
-  td > img {
+td > img {
     width: 75px;
     height: 75px;
+}
+
+ol  {
+    padding-left: 15px;
+    list-style: none;
+    counter-reset: list-counter;
+}
+
+ol > li {
+    display: flex;
+    flex-direction: row;
+    counter-increment: list-counter;
+    margin-bottom: 10px;
+}
+
+ol > li::before {
+    display: flex;
+    flex-direction: row;
+    content: counter(list-counter);
+    margin-right: 15px;
+    width: 1rem;
+    justify-content:center;
 }
  
 
   @media screen and (max-width:768px) {
-      thead { font-size: 18px;}
+
+    .headerImageContainer {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .blogBody > h1 {
+        font-size: 32px;
+    }
+
+    thead { font-size: 18px;}
+    thead > th {
+        font-size: 13px;
+    }
 
     td {
         font-size: 13px;
