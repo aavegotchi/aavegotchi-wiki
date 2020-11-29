@@ -15,14 +15,14 @@ image: "aavegotchi.png"
 
 아베고치들은 이더리움 블록체인상에서 존재하는 픽셀화된 유령으로, **ERC-721** 표준으로 존재합니다. 아베고치의 가치는 희귀도 레벨에 따라 나뉘며, 이는 기본 특성, 스테이킹된 담보물의 양, 그리고 장착된 [웨어러블](https://wiki.aavegotchi.com/wearables)과 같은 요소들을 통해 결정됩니다.
 
-To level up their Aavegotchis, players can participate in a variety of activities including mini-games, governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
+또한, 플레이어들은 미니게임, 가버넌스, 밋업등 다양한 엑티비티에 참여하여 아베고치를 레벨업 시킬 수 있습니다. 아베고치를 레벨업 하는 것과 인게임 상 웨어러블을 장착하는 것을 통해 희귀도 레벨을 올릴 수 있습니다.
 
-Rare Aavegotchis not only have higher secondary marketplace value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+희귀한 아베고치들은 2차시장에서의 가치가 높을 뿐만이 아니라, 아베고치가 [희귀도 파밍](https://wiki.aavegotchi.com/rarity-farming) 을 더 잘할 수 있습니다. 희귀도 파밍이란 제일 희귀한 아베고치들을 GHST 토큰으로 보상하는 미니게임입니다.
 
-Aavegotchi is governed by [AavegotchiDAO](https://wiki.aavegotchi.com/dao) that manages all funds generated through the [GHST token](https://wiki.aavegotchi.com/ghst) distribution.
+아베고치는 [아베고치DAO](https://wiki.aavegotchi.com/dao)를 통해 운영되고 있고, [GHST 토큰](https://wiki.aavegotchi.com/ghst) 분배를 통해 모인 자금을 운영합니다.
 
 
-## About
+## 아베고치에 대해서
 Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
 ## Collateral stake
 Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
