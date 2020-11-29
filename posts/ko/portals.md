@@ -32,7 +32,11 @@ If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approx
 
 Sweet! You’ve got your hands on a portal. Select your portal under ‘My Items’, click to open it. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm.
 
-With the help of Chainlink’s VRF, these Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. More information on rarity farming can be found at LINK.
+With the help of Chainlink’s VRF, these Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
+
+table_PortalTraitTable
+
+More information on rarity farming can be found \[here\] (https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/rarity-farming).
 
 
 **3. Stake Your Collateral**
