@@ -49,6 +49,10 @@ TEH CURVE IS FOREVER!
 ## Aavegotchi Bonding Curve
 The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 $GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per $GHST. It has a connecting weight of 33%.
 
+You will have to complete KYC in order to purchase straight from the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. 
+
+If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your $GHST off a DEX like Uniswap or a CEX like OKex instead.
+
 ## Aavegotchi DAICO
 A DAICO is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency. In addition, investors can also vote to do away with the project and have the investor funds returned.
 
