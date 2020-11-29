@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 Atokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。 
+aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 Atokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。 See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
 <div class="contentsBox">
 
