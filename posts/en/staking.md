@@ -24,6 +24,8 @@ To stake GHST you must first get GHST.  The easiest way to get GHST is to purcha
 
 Once you have GHST you can stake it directly in the staking contract or you can put it into the [ETH/GHST Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) and get pool tokens back that you stake into the staking contract. 
 
+The amount of ETH and GHST required to acquire 1ETH/GHST LP token varies based on the price of the pool token at the time. 
+
 You earn 1 frens point per day for each GHST token staked. You earn 100 frens points per day for each GHST/ETH Uniswap liquidity pool token staked.
 
 *1 GHST earns 1 FRENS point per day, and 1 GHST-ETH LP token earns 100 FRENS / day*
