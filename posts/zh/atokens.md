@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
 <div class="contentsBox">
 
