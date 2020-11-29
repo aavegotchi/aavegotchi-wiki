@@ -13,7 +13,7 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. 
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
 
 <div class="contentsBox">
