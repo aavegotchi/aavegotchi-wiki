@@ -32,7 +32,7 @@ image: "portals/portal.gif"
 
 好极了！ 您已经拥有了一个传送门。 在“我的项目”下选择您的传送门，点击打开它。 每个传送门包含10个不同的Aavegotchis，供您选择从暗黑世界召唤出来。
 
-在Chainlink的 VRF 的帮助下，这些Aavegotchis 都有不同的随机生成的特性。 在您切换选项时，您可以查看这些特性和您的Aavegotchi的基础稀有分数。 You can check out the trait range and rarity probabilities in this table here:
+With the help of \[Chainlink’s VRF\] (https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/), these Aavegotchis all bear different randomly generated traits. 在您切换选项时，您可以查看这些特性和您的Aavegotchi的基础稀有分数。 You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
@@ -41,13 +41,15 @@ More information on rarity farming can be found \[here\] (https://aavegotchi-wik
 
 **3. Stake Your Collateral**
 
-Once you’ve decided on the Aavegotchi that you wish to stake, you need to stake the required amount of Spirit Force to the Portal. In other words, you’ll need to stake an Aave-backed ERC20 token to it, or “aTokens”.
+Once you’ve decided on the Aavegotchi that you wish to stake, you need to stake the required amount of Spirit Force to the Portal. In other words, you’ll need to stake an Aave-backed ERC20 token to it, or “aTokens”. These aTokens will have to be acquired from our frens at \[Aave\] (https://aave.com/).
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. For more information on aTokens, check out LINK.
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. For more information on aTokens, check out the \[page\] (https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/atokens) on it.
 
 In more technical terms, each Aavegotchi ERC721 NFT manages an escrow contract address that holds their aToken Spirit Force. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet, helping to increase the intrinsic value of your fren over time.
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
+
+The minimum amount of collateral required is 10 DAI, while the maximum is 1000 DAI.
 
 
 **4. Transferring or Releasing Your Aavegotchi**
