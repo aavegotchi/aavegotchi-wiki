@@ -58,7 +58,7 @@ First of all, why would you do that??? Be a simp like all of us.
 
 But jokes aside, here’s what happens.
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it.
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it. This happens when you trade your Gotchi on an online marketplace such as OpenSea.
 
 On the other hand, if you wish to retrieve the staked collateral backing your Aavegotchi, it will be sent back to the Nether Realm forever (burned), and the staked collateral will be returned to you. 
 
