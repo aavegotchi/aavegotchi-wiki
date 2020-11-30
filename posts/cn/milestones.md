@@ -83,31 +83,31 @@ contributors:
 * $GHST 已在Mainnet上启动！ 预售在1分钟内完成！ 哦！
 * GHST 令牌由 2000 多个唯一地址持有！ 这是多么伟大！
 
-## [2020 年 9 月 10 日](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* 关于预售的新闻
+## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
 
-## [2020 年 9 月 3 日](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* Aavegotchi 联合曲线 (TBC) 在Rinkeby测试网发布!
+## [Launch of Bonding Cruve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
 
-## [2020 年 9 月 1 日](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi的第一个社区问答(AMA)
+## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
 
-## [2020年8月20日](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* 私募完成
+## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Private sale sold out on 20 August 2020
 * 启动 Aavegotchi [Telegram 聊天！](https://t.me/aavegotchi)
 * 启动 [官方白皮书](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
-## [2020年8月13日](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* Aavegotchi Aagents 已超过120个成员！
-* Shadowcrypto, Vanilladelphia.eth, Hackingmoneyyph and Unintelligent_nerd 加入了Aavegotchi 学徒！
+## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
+* Aavegotchi Aagents is over 120 members strong!
 
-## [2020年7月29日](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* JC Crown加入队伍！
-* 启动Aavegotchi 社区任务！
+## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* On 29 July 2020, JC Crown joins the Aavegotchi team!
+* Launch of Aavegotchi Missions on the same date!
 
-## [2020年7月22日](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge加入团队！
+## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge joins the team on 22 July 2020
 
-## [2020年7月14日](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* Aavegotchi第一篇博客文章！
+## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* On 14 July 2020, the first Aavegotchi post was published on Medium!
 * Xibot加入队伍！
