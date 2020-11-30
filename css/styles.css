@@ -194,6 +194,7 @@ table {
     width: 100%;
     border-top: solid 3px whitesmoke;
     border-bottom: solid 3px whitesmoke;
+    margin-bottom: 15px;
 }
 
 thead > th {
