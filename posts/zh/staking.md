@@ -5,18 +5,31 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 ---
 
-The end goal of staking is to earn specially themed Aavegotchi wearables.
 
-Here are the steps this is done:
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/staking.svg">
+<p class="headerImageText">Stake GHST, Make FRENS!</p>
+</div>
 
-1. Stake either GHST tokens or GHST/ETH Uniswap liquidity pool tokens in the [staking contract](https://aavegotchi.com/stake). Doing this earns you frens points over time.
-1. Wait and watch your frens points accumulate.
-1. Using your frens points purchase raffle tickets from the [shop](https://aavegotchi.com/shop).
-1. Enter your raffle tickets into a [raffle](https://aavegotchi.com/raffle).
-1. When the raffle ends find out what prizes you won and claim them.
+GHST token can be staked to earn FRENS, a non-transferable balance within the Staking Contract.
 
-You can unstake your GHST and/or GHST/ETH Uniswap liquidity pool tokens at any time.
+FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
 
+Continue reading to learn how to stake GHST and earn prizes with your FRENS.
+
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#ghst-token>How to Stake</a></li>
+<li><a href=#portals>Stake GHST, Make FRENS</a></li>
+<li><a href=#wearables>可穿戴裝備</a></li>
+<li><a href=#rarity-farming>Rarity Farming</a></li>
+<li><a href=#minigames>Minigames</a></li>
+</ol>
+
+</div>
 
 ## Staking & Frens
 
