@@ -43,8 +43,8 @@ export const items = [
     },
 
     {
-        name: "History",
-        href: "history"
+        name: "Milestones",
+        href: "milestones"
     },
 
     {
