@@ -23,7 +23,7 @@ image: "aavegotchi.png"
 
 
 ## 아베고치에 대해서
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
+아베고치는 이더리움 블록체인상에 존재하는 희귀한 크립토소집품으로써, 크립토키티스, 엑시 인피니티, 및 크립토박셀 등등에서 사용되는 ERC-721 기준을 사용합니다. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe, collateral stake, traits, and wearables.
 ## Collateral stake
 Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. aTokens generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
 
