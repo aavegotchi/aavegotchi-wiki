@@ -22,16 +22,15 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 **Contents**
 
 <ol>
-<li><a href=#ghst-token>How to Stake</a></li>
-<li><a href=#portals>Stake GHST, Make FRENS</a></li>
-<li><a href=#wearables>可穿戴设备</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#how-to-stake>How to Stake</a></li>
+<li><a href=#purchasing-raffle-tickets>购买抽奖券</a></li>
+<li><a href=#entering-raffles>Entering Raffles</a></li>
+<li><a href=#more-resources>More Resources</a></li>
 </ol>
 
 </div>
 
-## 质押和积分
+## How to Stake
 
 您必须先获取 GHST才能质押GHST。  获取GHST的最简单方法是从 [ETH/GHST Uniswap池](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) 购买。 也可以从 [GHST 联合曲线](https://aavegotchi.com/curve) 购买。
 
@@ -65,7 +64,7 @@ There are six different levels of raffle tickets:
 Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 
-## 进入抽奖池和赢得奖品
+## Entering Raffles
 
 A raffle runs for a period of time. During this time you can submit your raffle tickets for chances to win prizes. When the raffle is over you can find out what prizes you won and claim them.
 
@@ -83,7 +82,8 @@ The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.ch
 
 Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
 
-Blog posts:
+## More Resources
+
 - [Aavegotchi 抽奖——免费指南](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink 抽奖 — 你获胜了吗？](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 - [Anon和他的绿色奖券](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
