@@ -5,18 +5,31 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 ---
 
-质押的最终目标是赚取特别主题的Aavegotchi可穿戴装备。
 
-以下是完整的步骤：
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/staking.svg">
+<p class="headerImageText">Stake GHST, Make FRENS!</p>
+</div>
 
-1. 在 [质押合同](https://aavegotchi.com/stake) 中选择质押GHST token 或 GHST/ETH Uniswapp 流动性池token 做这件事会使你随着时间的推移而获得越来越多的惊喜。
-1. 静静等待查看你慢慢上涨的积分。
-1. 使用您的积分点在 [商店](https://aavegotchi.com/shop)购买票券。
-1. 将您的奖券存入 [raffle](https://aavegotchi.com/raffle).
-1. 当raffle结束时，你可以查看你赢得了什么奖品并获取奖品。
+GHST token can be staked to earn FRENS, a non-transferable balance within the Staking Contract.
 
-您可以随时取消质押您的GHST/或GHST/ETH Uniswap流动资金池代币。
+FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
 
+Continue reading to learn how to stake GHST and earn prizes with your FRENS.
+
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#ghst-token>How to Stake</a></li>
+<li><a href=#portals>Stake GHST, Make FRENS</a></li>
+<li><a href=#wearables>可穿戴设备</a></li>
+<li><a href=#rarity-farming>Rarity Farming</a></li>
+<li><a href=#minigames>Minigames</a></li>
+</ol>
+
+</div>
 
 ## 质押和积分
 
