@@ -82,31 +82,31 @@ contributors: ["unintelligent-nerd"]
 * $GHST has launched on Mainnet! Pre-sale soollllldddd ouuuuttt in under a minute! :O
 * GHST token held by over 2000 unique addresses! This is huuuugggeeeee
 
-## [10 September 2020](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* Juicccyy news concerning the upcoming Pre-Sale
+## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
 
-## [3 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* Aavegotchi Token Bonding Curve (TBC) launched on Rinkeby testnet!
+## [Launch of Bonding Cruve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
 
-## [1 September 2020](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA)
+## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
 
-## [20 August 2020](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale soollllldddd ouuuuttt!
+## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Private sale sold out on 20 August 2020
 * Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
 * Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
-## [13 August 2020](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
 * Aavegotchi Aagents is over 120 members strong!
-* Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
 
-## [29 July 2020](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* JC Crown joins the team!
-* Launch of Aavegotchi Missions!
+## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* On 29 July 2020, JC Crown joins the Aavegotchi team!
+* Launch of Aavegotchi Missions on the same date!
 
-## [22 July 2020](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team!
+## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge joins the team on 22 July 2020
 
-## [14 July 2020](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* Aavegotchi's first Medium Post!
+## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* On 14 July 2020, the first Aavegotchi post was published on Medium!
 * Xibot joins the team!
