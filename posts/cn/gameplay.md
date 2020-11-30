@@ -14,7 +14,7 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
 <li><a href=#portals>传送门</a></li>
-<li><a href=#wearables>可穿戴设备</a></li>
+<li><a href=#wearables>Wearables</a></li>
 <li><a href=#rarity-farming>Rarity Farming</a></li>
 <li><a href=#minigames>Minigames</a></li>
 </ol>
@@ -33,7 +33,7 @@ A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summo
 
 You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
 
-## 可穿戴设备
+## Wearables
 
 [Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
 
