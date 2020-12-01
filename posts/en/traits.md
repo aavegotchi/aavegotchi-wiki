@@ -46,7 +46,7 @@ Some ways to boost your Aavegotchi’s kinship level:
 <li>Aavegotchis are born with a sense of civic duty. Bring your Aavegotchi to City Hall and let it vote in AavegotchiDAO;</li>
 <li>Aavegotchis may be ghosts, but they have voracious appetites! Feed your Aavegotchi consumables to see its spooky smile;</li>
 <li>Aavegotchis love trying on new clothes. Equip your Aavegotchi with new wearables to forge a lasting bond; </li>
-<li>Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi [Realm](https://wiki.aavegotchi.com/en/metaverse) and level it up playing mini-games. </li>
+<li>Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi Realm and level it up playing mini-games. </li>
 </ul>
 
 ## Experience
