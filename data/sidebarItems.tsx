@@ -61,6 +61,10 @@ export const items = [
         href: "staking"
     },
     {
+        name: "Traits",
+        href: "traits"
+    },
+    {
         name: "Memes",
         href: "memes"
     },

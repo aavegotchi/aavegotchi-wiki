@@ -24,15 +24,15 @@ contributors: ["eris771"]
 
 <ol>
 <li><a href="#general-faq">General FAQ</a></li>
-<p style="margin-left: 4em; font-size:13px;"><a href="#i-m-new-to-aavegotchi--after-launch--how-do-i-play-">I'm new to Aavegotchi. After launch, how do I play?</a></p>
-<p style="margin-left: 4em; font-size:13px;"><a href="#when-can-i-get-an-aavegotchi-">When can I get an Aavegotchi?</a></p>
-<p style="margin-left: 4em; font-size:13px;"><a href="#when-is-mainnet-launch-">When is mainnet launch?</a></p>
-<p style="margin-left: 4em; font-size:13px;"><a href="#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token-">Do I need KYC to play Aavegotchi or own GHST token?</a></p>
-<p style="margin-left: 4em; font-size:13px;"><a href="#what-can-i-do-now-">What can I do now?</a></p>
+<p><a href="#i-m-new-to-aavegotchi--after-launch--how-do-i-play-">I'm new to Aavegotchi. After launch, how do I play?</a></p>
+<p><a href="#when-can-i-get-an-aavegotchi-">When can I get an Aavegotchi?</a></p>
+<p><a href="#when-is-mainnet-launch-">When is mainnet launch?</a></p>
+<p><a href="#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token-">Do I need KYC to play Aavegotchi or own GHST token?</a></p>
+<p><a href="#what-can-i-do-now-">What can I do now?</a></p>
 <li><a href="#raffle-faq">Raffle FAQ</a></li>
-<p style="margin-left: 4em; font-size:13px;"><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
+<p><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
 <li><a href="#technical-faq">Technical FAQ</a></li>
-<p style="margin-left: 4em; font-size:13px;"><a href="#is-aavegotchi-on-chain-">Is Aavegotchi on-chain?</a></p>
+<p><a href="#is-aavegotchi-on-chain-">Is Aavegotchi on-chain?</a></p>
 </ol>
 
 </div>
@@ -42,7 +42,6 @@ contributors: ["eris771"]
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
 ## General FAQ
 
-&nbsp;
 
 ### I'm new to Aavegotchi. After launch, how do I play?
 
@@ -55,18 +54,17 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay">here.</a>
 
-&nbsp;
 
 ### When can I get an Aavegotchi?
 
 Aavegotchis will be available at mainnet launch. The metaverse will also open in that time.
 
-&nbsp;
+
 
 ### When is mainnet launch?
 Mainnet is currently slated for late December.
 
-&nbsp;
+
 
 ### Do I need KYC to play Aavegotchi or own GHST token?
 
@@ -74,7 +72,6 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
  as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, no KYC is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
 <a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
 
-&nbsp;
 
 ### What can I do now?
 
@@ -87,10 +84,10 @@ any of the remaining raffles for a chance to win unique wearables for your Aaveg
 set.</li></p></ul>
 
 ## Raffle FAQ
-<p style="font-style:italic; font-size:13px;"><a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Read me</a> for general information
- on raffles.</p>
 
-&nbsp;
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+
+
 
 ### Does buying a ticket mean I'm entered into the raffle?
 
@@ -100,17 +97,11 @@ see the number of tickets you’ve entered in the raffle on the Stats page.
 
 ## Technical FAQ
 
-&nbsp;
+
 
 ### Is Aavegotchi on-chain?
 
 All elements of the Aavegotchi game are 100% on-chain. You can read more about our unique design [here(link tbd)].
-
-
-&nbsp;
-
-&nbsp;
-
 
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>

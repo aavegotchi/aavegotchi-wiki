@@ -112,11 +112,7 @@ const NextStyledNavBar = (props: Props) => {
 
                 .navBar {
 
-                    position: sticky;
-                    position: -webkit-sticky;
-                    position: -moz-sticky;
-                    position: -ms-sticky;
-                    position: -o-sticky;
+                 
                   
                     top:0;
                     display: flex;
