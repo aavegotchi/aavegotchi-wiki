@@ -1,8 +1,11 @@
 ---
-author: coderdan
+author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Traits'
-description: 'All about Aavegotchi Traits'
+description: 'Everything you need to know about Aavegotchi traits!'
+contributors:
+  - "cinnabarhorse"
+  - "wagyuchicken"
 ---
 
 Aavegotchis are born with traits. Just like how your traits define who your are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score), their performance in mini-games, and the [wearables](https://wiki.aavegotchi.com/en/wearables) that they're qualified to fashion. Aavegotchis summoned from [portals](https://wiki.aavegotchi.com/en/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
