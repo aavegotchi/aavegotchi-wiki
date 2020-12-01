@@ -1,9 +1,9 @@
 ---
-author: Coder Dan
+author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming'
-description: 'All about Rarity Farming'
-image: "icons/rarity-farming.svg"
+description: 'Everything you need to know about Rarity Farming!'
+contributors: ["cinnabarhorse", "wagyuchicken"]
 ---
 
 <div class="headerImageContainer">
@@ -57,6 +57,7 @@ Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegot
 Example of the Final Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
+<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
 ## Rewards
 
