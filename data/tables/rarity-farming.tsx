@@ -21,7 +21,6 @@ export const tables
                     ["Energy", "Common", "61", "Calm", "61", "40 (60% possess)"],
                     ["Aggressiveness", "Uncommon", "78", "Combative", "78", "80 (20% possess)"],
                     ["Spookiness", "Common", "27", "Neutral", "73", "45 (55% possess)"],
-                    ["Etheriality", "Rare", "6", "50%", "94", "90 (10% possess)"],
                     ["Brain Size", "Mythical", "100", "Galaxy", "100", "97 (3% possess)"],
                     ["Wizard Hat wearable", "Rare", "-", "-", "10", "-"],
                     ["Wizard Staff wearable", "Godlike", "-", "-", "50", "-"],
