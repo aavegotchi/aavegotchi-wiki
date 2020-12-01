@@ -58,12 +58,16 @@ Here are all the current and future uses for GHST:
 
 
 ## Earn GHST
-All the GHST collected through sales (portals, wearables, parcels, consumables & collectibles) will be split in two cakes. Cake 1 will reward the Aavegotchi players. Cake 2 will be burnt, which is not really tasty <a href="https://discord.com/channels/732491344970383370/769205560222285844/776545843607896074">but is awesome for the token value!</a>. It is estimated that 80% of GHST will flow into cake 1 at launch (of course the DAO will chose how to adjust), here are ways to earn your share:
+All the GHST collected through sales (portals, wearables, parcels, consumables & collectibles) will be split in two cakes. Cake 1 will reward the Aavegotchi players. Cake 2 will be burnt, which is not really tasty <a href="https://discord.com/channels/732491344970383370/769205560222285844/776545843607896074">but is awesome for the token value!</a> It is estimated that 80% of GHST will flow into cake 1 at launch (of course the DAO will chose how to adjust), here are ways to earn your share:
 <ul>
-  <li><b><a href="https://discord.com/channels/732491344970383370/737923459061121044/738035042399551569">Become an Aagent</a></b>. Every time you successfully complete a Mission, your Role in the Aavegotchi Discord increases by one. When Aavegotchi launches on Mainnet (Q4 2020 or early Q1 2021), Mission participants will be entered into giveaways for Aavegotchi swag, including $GHST tokens, fab wearables, and consumables. Each Level will have its own giveaway, so the higher your level, the more chances you’ll have!
+  <li><b><a href="https://discord.com/channels/732491344970383370/737923459061121044/738035042399551569">Become an Aagent</a></b>. Every time you successfully complete a Mission, your Role in the Aavegotchi Discord increases by one. When Aavegotchi launches on Mainnet (announced for December 2020), Mission participants will be entered into giveaways for Aavegotchi swag, including $GHST tokens, fab wearables, and consumables. Each Level will have its own giveaway, so the higher your level, the more chances you’ll have!
+  &nbsp;
   <li><b><a href="https://discord.com/invite/NPwnWB6">Become an examplary Aagent</a></b>. Our beloved Aavegotchi founders have always rewarded the Aagents that went the extra mile. Have a look at the Discord discussions, there may be some acitivty that will stick to your skills.
+  &nbsp;
   <li><b>Soon... bored with yield farming? Try rarity farming!</b> The rarest your Aavegotchi, the more GHST rewards you will get back. Read the <a href="https://wiki.aavegotchi.com/en/rarity-farming">aawesome article for more details.</a>
-  <li><b>Soon... <a href="https://wiki.aavegotchi.com/en/dao"> Participate in the DAO</a></b>. Many DAOs struggles from the stakeholders low implication in the decision process. Aavegotchi aims to solve that by gamifying the decision process. More to be announced soon, but the general idea is that the more active a player is the more rewards he will get.  
+  &nbsp;
+  <li><b>Soon... <a href="https://wiki.aavegotchi.com/en/dao"> Participate in the DAO</a></b>. Many DAOs struggles from the stakeholders low implication in the decision process. Aavegotchi aims to solve that by gamifying the decision process. More to be announced soon, but the general idea is that the more active a player is the more rewards he will get.
+  &nbsp;
   <li><b>Soon... play mini-games.</b> Not much has been announced so far about this, we know the DAO will be the first mini-game</li>
   &nbsp; 
 </ul>
