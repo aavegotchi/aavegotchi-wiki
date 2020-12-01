@@ -67,17 +67,17 @@ a:hover {
 }
 
 .blogBody h2 {
-    
-    padding-top: 80px;
+    padding-top: 40px;
     font-size: 21px;
     font-weight: bold;
 }
 
 .blogBody h3 {
+    padding-top: 25px;
     font-size: 16px;
-    margin-top: 20px;
     font-weight: bold;
 }
+
 .blogBody {
     padding:20px;
 }
@@ -246,6 +246,11 @@ ol > li::before {
     margin-right: 15px;
     width: 1rem;
     justify-content:center;
+}
+
+ol > p {
+    margin-left: 4em;
+     font-size:13px;
 }
  
 
