@@ -35,7 +35,7 @@ export const tables
                     [`<img src="/wearables/link/sergey-eyes.svg" />`, "14", "Sergey Eyes", "Mythical", "SPK +1, BRN +4"],
                     [`<img src="/wearables/link/sergey-red.svg" />`, "15", "Red Plaid", "Mythical", "NRG +3, AGG +2"],
                     [`<img src="/wearables/link/sergey-blue.svg" />`, "16", "Blue Plaid", "Godlike", "NRG -4, AGG -2"],
-                    [`<img src="/wearables/link/link-cube.svg" />`, "16", "LINK Cube", "Godlike", "BRN +6"],
+                    [`<img src="/wearables/link/link-cube.svg" />`, "17", "LINK Cube", "Godlike", "BRN +6"],
 
                 ]
             }
@@ -65,7 +65,7 @@ export const tables
                     [`<img src="/wearables/aave/aave-flag.svg" />`, "32", "Aave Flag", "Mythical", "AGG -2, SPK +3"],
                     [`<img src="/wearables/aave/stani-hair.svg" />`, "33", "Stani Hair", "Godlike", "AGG -3, BRN +3"],
                     [`<img src="/wearables/aave/stani-lifejacket.svg" />`, "34", "Stani Lifejacket", "Godlike", "NRG +3, AGG -3"],
-                    [`<img src="/wearables/aave/aave-boat.svg" />`, "34", "Aave Boat", "Godlike", "AGG -6"],
+                    [`<img src="/wearables/aave/aave-boat.svg" />`, "35", "Aave Boat", "Godlike", "AGG -6"],
 
                 ]
             }
