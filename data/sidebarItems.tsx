@@ -9,68 +9,65 @@ export const items = [
         name: "GHST",
         href: "ghst"
     },
-    {
+	{
+		name: "Bonding Curve",
+		href: "curve"
+	}, 
+	{
+		name: "aTokens",
+		href: "atokens"
+	},
+	{
         name: "AavegotchiDAO",
         href: "dao"
     },
-    {
-        name: "Bonding Curve",
-        href: "curve"
+	{
+        name: "Metaverse",
+        href: "metaverse"
     },
     {
         name: "Wearables",
         href: "wearables"
     },
     {
-        name: "Metaverse",
-        href: "metaverse"
+        name: "Portals",
+        href: "portals"
+    },
+	{
+        name: "Traits",
+        href: "traits"
+    },
+	{
+        name: "Rarity Farming",
+        href: "rarity-farming"
+    },
+	{
+        name: "Staking",
+        href: "staking"
+    },
+	{
+        name: "Milestones",
+        href: "milestones"
+    },
+	{
+        name: "Team",
+        href: "team"
+    },
+	{
+        name: "Developers",
+        href: "developers"
     },
     {
         name: "Community",
         href: "community"
     },
     {
-        name: "Team",
-        href: "team"
-    },
-    {
-        name: "Portals",
-        href: "portals"
-    },
-    {
-        name: "aTokens",
-        href: "atokens"
-    },
-
-    {
-        name: "Milestones",
-        href: "milestones"
-    },
-
-    {
-        name: "Rarity Farming",
-        href: "rarity-farming"
-    },
-
-    {
         name: "Missions",
         href: "missions"
     },
     {
-        name: "Staking",
-        href: "staking"
-    },
-    {
-        name: "Traits",
-        href: "traits"
-    },
-    {
         name: "Memes",
         href: "memes"
-    },
-    {
-        name: "Developers",
-        href: "developers"
     },
     {
         name: "FAQ",
