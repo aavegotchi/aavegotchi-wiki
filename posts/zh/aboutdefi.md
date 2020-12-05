@@ -70,7 +70,11 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 Some examples you may have heard of include UniSwap, Balancer and Kyber, amongst others.
 
 
-**Flash Loans** placeholder
+**Flash Loans** Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+
+The flash loan has to be repaid within the same transaction block.
+
+If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point.
 
 
 
@@ -78,11 +82,17 @@ Some examples you may have heard of include UniSwap, Balancer and Kyber, amongst
 
 
 
-**Smart Contracts** placeholder
+**Smart Contracts** Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+
+Smart contracts are commonly used in DeFi for a whole range of purposes. These include
 
 
 
 **Staking** placeholder
+
+
+
+**Underlying Assets** Placeholder
 
 
 
