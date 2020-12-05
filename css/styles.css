@@ -78,6 +78,12 @@ a:hover {
     font-weight: bold;
 }
 
+.blogBody h4 {
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 .blogBody {
     padding:20px;
 }
