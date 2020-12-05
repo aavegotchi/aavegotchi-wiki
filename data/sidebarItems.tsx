@@ -1,81 +1,112 @@
-export const items = [
+import { Category } from "../types";
 
 
+export const items: Category[] = [
     {
-        name: "Introduction",
-        href: "introduction"
+        name: "Start Here",
+        items: [
+            {
+                name: "Introduction",
+                href: "introduction"
+            },
+            {
+                name: "FAQ",
+                href: "faq"
+            },
+        ]
     },
+
     {
-        name: "GHST",
-        href: "ghst"
+        name: "Tokenomics",
+        items: [
+            {
+                name: "GHST",
+                href: "ghst"
+            },
+            {
+                name: "Bonding Curve",
+                href: "curve"
+            },
+            {
+                name: "aTokens",
+                href: "atokens"
+            },
+            {
+                name: "Staking",
+                href: "staking"
+            },
+        ]
+
     },
-	{
-		name: "Bonding Curve",
-		href: "curve"
-	}, 
-	{
-		name: "aTokens",
-		href: "atokens"
-	},
-	{
-        name: "AavegotchiDAO",
-        href: "dao"
-    },
-	{
-        name: "Metaverse",
-        href: "metaverse"
-    },
+
     {
-        name: "Wearables",
-        href: "wearables"
+        name: "Gameplay",
+        items: [
+            {
+                name: "Metaverse",
+                href: "metaverse"
+            },
+            {
+                name: "Wearables",
+                href: "wearables"
+            },
+            {
+                name: "Portals",
+                href: "portals"
+            },
+            {
+                name: "Traits",
+                href: "traits"
+            },
+            {
+                name: "Rarity Farming",
+                href: "rarity-farming"
+            },
+        ]
     },
-    {
-        name: "Portals",
-        href: "portals"
-    },
-	{
-        name: "Traits",
-        href: "traits"
-    },
-	{
-        name: "Rarity Farming",
-        href: "rarity-farming"
-    },
-	{
-        name: "Staking",
-        href: "staking"
-    },
-	{
-        name: "Milestones",
-        href: "milestones"
-    },
-	{
-        name: "Team",
-        href: "team"
-    },
-	{
-        name: "Developers",
-        href: "developers"
-    },
+
     {
         name: "Community",
-        href: "community"
+        items: [
+            {
+                name: "AavegotchiDAO",
+                href: "dao"
+            },
+            {
+                name: "Community",
+                href: "community"
+            },
+            {
+                name: "Missions",
+                href: "missions"
+            },
+            {
+                name: "Contests",
+                href: "contests"
+            },
+            {
+                name: "Memes",
+                href: "memes"
+            },
+        ]
     },
+
     {
-        name: "Missions",
-        href: "missions"
-    },
-	{
-        name: "Contests",
-        href: "contests"
-    },
-    {
-        name: "Memes",
-        href: "memes"
-    },
-    {
-        name: "FAQ",
-        href: "faq"
-    },
+        name: "Team",
+        items: [
+            {
+                name: "Team",
+                href: "team"
+            },
+            {
+                name: "Developers",
+                href: "developers"
+            },
+            {
+                name: "Milestones",
+                href: "milestones"
+            },
+        ]
+    }
 
 ]
