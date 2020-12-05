@@ -54,7 +54,7 @@ On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literall
 
 ## Aavegotchi Mission 9 Content Contest
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either written or in video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
 
 ### Video Category
 
@@ -69,3 +69,8 @@ Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aag
 #### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Written Category
+
+#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+<div><img class = "boxLinks" src = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5"></div>
