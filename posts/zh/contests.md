@@ -69,4 +69,12 @@ Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aag
 
 #### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
 
-<div><img class = "boxLinks" src = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5"></div>
+<a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
+
+#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+
+<a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
+
+#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+
+<a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
