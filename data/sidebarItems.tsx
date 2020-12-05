@@ -65,6 +65,10 @@ export const items = [
         name: "Missions",
         href: "missions"
     },
+	{
+        name: "Contests",
+        href: "contests"
+    },
     {
         name: "Memes",
         href: "memes"
