@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { items } from "../data/sidebarItems";
 import { handleLanguageCode } from "../functions";
 import { themeHotPink } from "../theme";
+import { Category, Item } from "../types";
 
 interface SidebarProps {
 
@@ -101,42 +102,56 @@ const Sidebar = (props: SidebarProps) => {
             </style>
 
             <ul>
-                {items.map((linkObject) => {
-
-                    if (linkObject.href === "") {
-                        return (
-                            <Link href="/">
-                                <a>
-                                    <li>
-                                        <div className="name">
-                                            {linkObject.name}
-                                        </div>
-
-                                    </li>
-                                </a>
-                            </Link>
-                        )
-                    }
+                {items.map((category: Category) => {
 
                     return (
-                        <Link href="/[lang]/[pageID]" as={`/${languageCode}/${linkObject.href}`}>
-                            <a>
-                                <li className="flexRow">
-                                    <img className="sideBarIcon" src={`/icons/${linkObject.href}.svg`} />
+                        <div>
+                            <div className="category">{category.name}</div>
 
-                                    <div className="name">
-                                        {linkObject.name}
-                                    </div>
+                            {category.items.map((item: Item) => {
+                                return (
+                                    <Link href="/[lang]/[pageID]" as={`/${languageCode}/${item.href}`}>
+                                        <a>
+                                            <li className="flexRow">
+                                                <img className="sideBarIcon" src={`/icons/${item.href}.svg`} />
 
-                                </li>
-                            </a>
-                        </Link>
+                                                <div className="name">
+                                                    {item.name}
+                                                </div>
+
+                                            </li>
+                                        </a>
+                                    </Link>
+                                )
+                            })}
+
+                        </div>
+
+
                     )
                 })}
 
 
 
             </ul>
+
+            <style jsx>
+                {`
+                    .category {
+                        text-transform:uppercase;
+                        color:rgba(255,255,255,0.5);
+                        margin-bottom:15px;
+                        margin-top:30px;
+                        font-size:13px;
+                    }
+
+                    @media screen and (max-width:768px) {
+                        .category {
+                            display:none;
+                        }
+                    }
+                `}
+            </style>
 
         </div>
     );
