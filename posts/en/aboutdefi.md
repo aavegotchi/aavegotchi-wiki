@@ -59,7 +59,11 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 
 **Collateral**
-x
+Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money frmo them. If you cannot pay back your loean, your collateral will be used to pay your debt. 
+
+In the context of DeFi, this is how things might look: 
+
+Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as colalteral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
 
 
@@ -71,6 +75,7 @@ Otherwise known as a Decentralized Autonomous Organization. These sdflskdjf
 **DEX**
 Otherwise known as a Decentralized Exchange. Such platforms allow users to . This is as opposed to the way CEXs (Centralized Exchanges) work, by__.
 
+Some examples you may have heard of include UniSwap, Balancer and Kyber, amongst others.
 
 
 **Flash Loans**
