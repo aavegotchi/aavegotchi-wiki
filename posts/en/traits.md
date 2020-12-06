@@ -22,11 +22,15 @@ Aavegotchis are born with traits. Just like how your traits define who your are 
 </div>
 
 ## Randomly Generated Traits 
-Upon opening of a portal, Chainlink’s VRF random number generator function is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+Upon opening of a portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
 
 table_TraitsProbabilities
 
-Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](https://wiki.aavegotchi.com/en/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
+The bell curve for trait value distribution would look something like the following:
+
+<img class="traits" src="/traits/bell_curve.jpg" width = "500">
+
+Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
 
 Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game. 
 
@@ -39,7 +43,7 @@ Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not ra
 
 Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
 
-High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](https://wiki.aavegotchi.com/en/rarity-farming). Low kinship levels will have the opposite effect.
+High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
 
 Some ways to boost your Aavegotchi’s kinship level:
 <ul>
