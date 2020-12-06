@@ -21,7 +21,7 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 **Contents**
 
 <ol>
-<li><a href=#introduction>關於</a></li>
+<li><a href=#about>關於</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
@@ -36,7 +36,7 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨幣是由加密技術保護的數字或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散化網路——一個由不同的計算機網路執行的分布式帳本。 穩定幣是一種加密貨幣，它試圖通過與美元等外部參考值掛鈎來提供價格穩定。 不同的穩定幣，掛鉤的基本機制不同，各自有各自的風險特徵。
 
 
-以下 aTokens （加密貨幣或者穩定幣）可在 Aave 協議上獲取：
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Stablecoins
 
