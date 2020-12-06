@@ -21,7 +21,7 @@ aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). 
 **Contents**
 
 <ol>
-<li><a href=#introduction>아베고치에 대해서</a></li>
+<li><a href=#about>아베고치에 대해서</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
@@ -36,7 +36,7 @@ While the underlying asset is loaned out to borrowers, aTokens accrue interest i
 aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol.
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Stablecoins
 
