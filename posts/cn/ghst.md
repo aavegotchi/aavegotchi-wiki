@@ -36,6 +36,8 @@ There are basically 2 ways to buy GHST tokens :
 <br>
   <li><a href="https://www.coingecko.com/en/coins/aavegotchi#markets">From DEXes and centralized exchanges</a>. GHST is listed on many DEXes and exchanges, including <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550">Uniswap</a>, <a href="https://www.okex.com/spot/trade/ghst-eth#type=1">OKex</a>, and <a href="https://matcha.xyz/markets/GHST">Matcha</a>. Acquiring GHST from these platforms does not require KYC, but it also does not directly support the Aavegotchi DAICO.</li>
 </ul>
+Although most Ethereum wallets will allow you to buy GHST, it is recommended to use <a href="https://metamask.io/">Metamask</a>. If your GHST does not display in Metamask, <a href="https://www.youtube.com/watch?v=vePRtkt5Bu0">follow this guide to add it</a>. Beware of smart contract wallets which may not be fully compatible with staking or other functions.
+
 
 ## Use GHST
 GHST is the eco-governance token of the Aavegotchi Universe. When Aavegotchi launches on Mainnet, players will spend GHST to buy <a href="https://wiki.aavegotchi.com/en/portals">portals</a>, <a href="https://wiki.aavegotchi.com/en/metaverse">wearables</a>, and <a href="https://wiki.aavegotchi.com/en/metaverse">REALM parcels</a>.
