@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [One of the big bois now!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
 * Pixelcraft Studios 是Aavegotchi 的主要开发团队
 
@@ -45,7 +45,7 @@ contributors:
 * GHST staking is now live on Mainnet on 20 October 2020
 
 ## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! GHST Staking audit report complete — no exploits!
+* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
 * GHST Staking launching on Mainnet within 72 hours
 * AavegotchiDAO’s first onchain vote passes with 99% YES!
 * Aavegotchi 赢得OKex Defi + NFT 充值上线竞赛。
