@@ -7,6 +7,19 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
+* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+
+## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
+* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
+* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+
+## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
+* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+
 ## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
 * FYI Pixelcraft Studios is the main development team for Aavegotchi
