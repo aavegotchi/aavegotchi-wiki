@@ -65,8 +65,7 @@ You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.co
 
 ### When can I get an Aavegotchi?
 
-Aavegotchis will be available at mainnet launch. The metaverse will also open in that time.
-
+Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aavegotchi.com/metaverse">metaverse</a> will open shortly after (Q1 2021).
 
 
 ### When is mainnet launch?
