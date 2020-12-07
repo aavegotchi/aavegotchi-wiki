@@ -7,9 +7,22 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
+* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+
+## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
+* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
+* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+
+## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
+* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+
 ## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* Pixelcraft Studios 是Aavegotchi 的主要开发团队
+* FYI Pixelcraft Studios is the main development team for Aavegotchi
 
 ## [Awwww](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
@@ -18,7 +31,7 @@ contributors:
 * With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
 
 ## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* 准备好了朋友们！ A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
 
 ## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
 * A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
@@ -30,8 +43,8 @@ contributors:
 
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * More details on the Haaaalloween Paaarty were announced on 28 October 2020
-* 虚拟服饰比赛！
-* 来自Harrison First 的音乐，与Cherry、 OpenSea 和Matic Network见面。 由Aave创始人Stani进行开场白。
+* Virtual Costume Contest!
+* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
 
 ## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
 * Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
@@ -39,7 +52,7 @@ contributors:
 
 ## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
 * On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* 这次活动以LINK为主题，是为了庆祝我们与Chainlink的伙伴关系和使用Chainlink VRF。
+* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
 
 ## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 * GHST staking is now live on Mainnet on 20 October 2020
@@ -48,7 +61,7 @@ contributors:
 * Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
 * GHST Staking launching on Mainnet within 72 hours
 * AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi 赢得OKex Defi + NFT 充值上线竞赛。
+* Aavegotchi wins the OKex DeFi + NFT listing contest
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
 * Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
@@ -65,23 +78,23 @@ contributors:
 
 ## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
 * Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* 在Reddit上进行表情大赛
+* Gotchi memes flooooding Aavegooootchi Reddit!
 
 ## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* 质押GSHT！ Went live on Kovan testnet on 29 September 2020!
+* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
 
 ## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
 * Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs 提议：在Uniswap上增加GHST 流动资金
-* 已宣布的任务7获胜者"Just DAO it！"
+* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
+* Winners announced for Mission 7 "Just DAO it!"
 
 ## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* 与CHAINLINK合作！ On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* 更深入地解释Chainlink VRF，请参阅 [Chainlink文章](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)
+* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
+* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
 
 ## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! 预售在1分钟内完成！ 哦！
-* GHST 令牌由 2000 多个唯一地址持有！ This is yuuuugggeeeee
+* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
+* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
 
 ## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
 * On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
@@ -94,8 +107,8 @@ contributors:
 
 ## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
 * Private sale sold out on 20 August 2020
-* 启动 Aavegotchi [Telegram 聊天！](https://t.me/aavegotchi)
-* 启动 [官方白皮书](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
+* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
 ## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
 * On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
@@ -110,4 +123,4 @@ contributors:
 
 ## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
 * On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot加入队伍！
+* Xibot joins the team!
