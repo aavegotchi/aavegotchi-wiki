@@ -19,7 +19,7 @@ for upcoming updates or discussions regarding potential developments, <a href="h
 
 Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
 
-<p style="font-size:13px;">Glossary help: <a href="https://www.lexico.com/definition/metaverse">What is a metaverse?</a></p>
+<p style="font-size:13px;">Glossary help: <a href="https://wiki.aavegotchi.com/glossary#metaverse">What is a metaverse?</a></p>
 
 <a name="Realm"></a>
 
