@@ -13,6 +13,10 @@ export const items: Category[] = [
                 name: "FAQ",
                 href: "faq"
             },
+            {
+                name: "Glossary",
+                href: "glossary"
+            },
         ]
     },
 
