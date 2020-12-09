@@ -12,7 +12,7 @@ Aavegotchis are born with traits. Just like how your traits define who your are 
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
