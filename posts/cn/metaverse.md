@@ -25,7 +25,7 @@ Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-di
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#Realm>Realm Activities</a></li>
