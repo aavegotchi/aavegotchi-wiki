@@ -19,7 +19,7 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#how-to-stake>How to Stake</a></li>
