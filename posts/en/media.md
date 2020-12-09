@@ -10,7 +10,10 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 ### Aave * Aavegotchi Fireside Chat (8 December 2020)
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Aave x Aavegotchi Campfire Chat <a href="https://t.co/vFOUTy4RHS">https://t.co/vFOUTy4RHS</a></p>&mdash; Aave (@AaveAave) <a href="https://twitter.com/AaveAave/status/1336280328952942595?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cbUO9yb2bjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6EJPkRlX7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020)
 
