@@ -60,7 +60,7 @@ Some ways to boost your Aavegotchi’s kinship level:
 Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their collateral stake and transfer it to another Aavegotchi. The recipient Aavegotchi will receive a percentage of the sacrificed Aavegotchi’s accrued XP. Exact percentage will be determined by the AavegotchiDAO.
 
 ## Level
-Aavegotchis level up as they gain more XP. Every few levels, Aavegotchis receive one Spirit Point that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. 每隔几级，Aavegotchis就会获得一个灵点，可以分配用于增加或减少某项特质。 Some wearables can only be worn by Aavegotchis of a certain level.
 
 ## Haunt
 Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
