@@ -9,16 +9,16 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/community/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">Hello, fren!</p>
+<p class="headerImageText">你好，朋友</p>
 </div>
 
-Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
+欢迎来到官方的Aavegotchi百科 我们的社区是一个充满活力的群体，对Aavegotchi感到疯狂。 我们有几个不同的渠道， 这样你就可以在最适合的地方找到我们 — — 但如果你想要升级到 Aavegotch Agent 状态，请务必不要错过我们的Discord！ 我们的Aavegotchi Aagents 是 我们社区的一个中心部分，他们有着深入的Aavegotchi知识和特殊的Agent 可穿戴装备。 阅读更多关于如何成为aagent的信息 ，下面众多 方法中的每一个都可以与我们疯狂的 GotchiGang连接。
 
 <a name="Discord"></a>
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
@@ -32,7 +32,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 &nbsp;
 
-<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a>
+<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**在 Discord上加入我们**</a>
 
 <p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>almost 6,000 members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
  fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
