@@ -18,7 +18,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#DeFi>DeFi 101</a></li>
