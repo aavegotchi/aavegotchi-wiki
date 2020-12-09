@@ -11,7 +11,7 @@ Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests 
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi 任务 8 Meme 竞赛胜利者</a></li>
