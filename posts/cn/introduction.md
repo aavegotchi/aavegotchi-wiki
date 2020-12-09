@@ -23,7 +23,7 @@ Aavegotchi is governed by [AavegotchiDAO](https://wiki.aavegotchi.com/dao) that 
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#about-aavegotchis>About Aavegotchis</a></li>
