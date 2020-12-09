@@ -19,7 +19,7 @@ image: "portals/portal.gif"
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
