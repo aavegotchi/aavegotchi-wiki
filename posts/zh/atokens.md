@@ -14,18 +14,17 @@ contributors:
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-aTokens 是來自 [Aave](https://aave.com) 的計息代幣。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#introduction>關於</a></li>
-<li><a href=#stablecoins>穩定幣</a></li>
-<li><a href=#cryptocurrencies>加密貨幣</a></li>
-<li><a href=#getting-atokens>取得 aTokens</a></li>
-
+<li><a href=#about>關於</a></li>
+<li><a href=#stablecoins>Stablecoins</a></li>
+<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
+<li><a href=#getting-atokens>Getting aTokens</a></li>
 </ol>
 
 </div>
@@ -34,38 +33,39 @@ aTokens 是來自 [Aave](https://aave.com) 的計息代幣。 它們在存入時
 
 當基礎資產貸给借款人時，aTokens 直接在您的錢包中實時計息！ 請注意，您可以看到您的餘額每分鐘都會增加。 請注意，您可以看到您的餘額每分鐘都會增加。
 
-aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨幣是由加密技術保護的數字或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散化網路——一個由不同的計算機網路執行的分布式帳本。 穩定幣是一種加密貨幣，它試圖通過與美元等外部參考值掛鈎來提供價格穩定。 不同的穩定幣，掛鉤的基本機制不同，各自有各自的風險。
+aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨幣是由加密技術保護的數字或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散化網路——一個由不同的計算機網路執行的分布式帳本。 穩定幣是一種加密貨幣，它試圖通過與美元等外部參考值掛鈎來提供價格穩定。 不同的穩定幣，掛鉤的基本機制不同，各自有各自的風險特徵。
 
-以下的 aTokens （加密貨幣或者穩定幣）可在 Aave 協議上取得：
 
-## 穩定幣
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+
+## Stablecoins
 
 table_stablecoins
 
-## 加密貨幣
+## Cryptocurrencies
 
 table_cryptocurrencies
 
-## 取得 aTokens
+## Getting aTokens
 
-*接下來的步驟是取自 <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> 來源是 Aave Medium. 為了方便讀者閱讀，此處已將其複制。*
+*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). 前往 <a href = "https://app.aave.com/">Aave Protocol</a> 
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-2). 在這裡，您可以根據自己的錢包種類，選擇不同方式來連接您的加密錢包：
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" width = "500" />
 
-3). 在使用Aave協議之前，您需要一些加密資產。 可用的加密資產列表在上面的 <a href=#stablecoins>穩定幣</a> 和 <a href=#cryptocurrencies>加密貨幣</a> 部分中顯示。
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-如果您沒有任何加密貨幣，但想加入，則需要將法定貨幣（正常貨幣，如美元，歐元等）轉換為加密資產（如上述一種）。
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-幸運的是，Aave最近向加密貨幣入門引入了法定貨幣，您可以直接從Aave協議應用程序中購買加密資產！現在，您可以在短短幾分鐘內使用Transak或Ramp Instant通過信用卡，記帳卡或電匯直接購買所選資產（請參閱下文）。
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" width = "500" />
 
-4). 將錢包連接到平台後，就可以將資產存入Aave協議。當您點擊存款時，界面將顯示您錢包中可用的存款。然後，選擇要存入的資產，再選擇存入多少，就完成了！
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
-一但存款後，您將可以依照存款利率中獲取利息。
+As soon as you deposit, you benefit from the deposit interest rate.
