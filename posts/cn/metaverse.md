@@ -19,11 +19,13 @@ for upcoming updates or discussions regarding potential developments, <a href="h
 
 Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
 
+<p style="font-size:13px;">Glossary help: <a href="https://wiki.aavegotchi.com/glossary#metaverse">What is a metaverse?</a></p>
+
 <a name="Realm"></a>
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#Realm>Realm Activities</a></li>
@@ -57,9 +59,11 @@ The Aavegotchi Realm is expanding as we speak. Here are just a few of the activi
 <a name="Land"></a>
 <p style="font-size:25px;"><b>How Do I Get My Own Land?</b></p>
 
-In the Gotchiverse, you’ll also be able to contribute your own creations to the Aavegotchi experience! **REALM parcels** will be purchasable in the Aavegotchi store. You’ll be able to decorate your parcel via the Aavegotchi scene builder, and even add dApps to your land that can be used to interact with all kinds of other smart contracts. If that weren't enough, REALM parcels can also be **enhanced by staking GHST to unlock new features.**
+In the Gotchiverse,* you’ll also be able to contribute your own creations to the Aavegotchi experience! **REALM parcels** will be purchasable in the Aavegotchi store. You’ll be able to decorate your parcel via the Aavegotchi scene builder, and even add dApps to your land that can be used to interact with all kinds of other smart contracts. If that weren't enough, REALM parcels can also be **enhanced by staking GHST to unlock new features.**
 
 Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" width="70" height="60" />
+
+<p style="font-size:13px; font-style:italic;">*The Aavegotchi metaverse, or Gotchiverse, both refer to what is officially named the "Aavegotchi Realm." </a></p>
 
 <p style="font-size:13px; font-style:italic;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
  community channels!</a></p>

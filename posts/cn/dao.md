@@ -17,7 +17,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#genesis>Genesis</a></li>

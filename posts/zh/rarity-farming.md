@@ -1,9 +1,11 @@
 ---
-author: Coder Dan
+author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming'
-description: 'All about Rarity Farming'
-image: "icons/rarity-farming.svg"
+description: 'Everything you need to know about Rarity Farming!'
+contributors:
+  - "cinnabarhorse"
+  - "wagyuchicken"
 ---
 
 <div class="headerImageContainer">
@@ -13,7 +15,7 @@ image: "icons/rarity-farming.svg"
 
 Rarity farming, as the name suggests, is where you farm for the rarest Aavegotchis, and get rewarded in GHST for training Aavegotchis with the highest <a href=#final-rarity-score>Final Rarity Score</a>!
 
-The rarity of the Aavegotchi is determined by the rareness of the Aavegotchi's <a href="https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#heading=h.3rdcrjn">traits</a> and the [wearables](https://wiki.aavegotchi.com/en/wearables)  that it equips. However, the rarity of a single Aavegotchi can change over time as the overall distribution of the traits and wearables in the Aavegotchi universe changes. All of these are the core of the rarity farming concept.
+The rarity of the Aavegotchi is determined by the rareness of the Aavegotchi's [traits](https://wiki.aavegotchi.com/en/traits) and the [wearables](https://wiki.aavegotchi.com/en/wearables)  that it equips. However, the rarity of a single Aavegotchi can change over time as the overall distribution of the traits and wearables in the Aavegotchi universe changes. All of these are the core of the rarity farming concept.
 
 There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
 
@@ -44,7 +46,7 @@ BRS of the Aavegotchi's traits is derived using the following formula:
 
 ### Wearables BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare wearables yield 10 BRS and godlike wearables 50 BRS (values to be confirmed).
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare wearables yield 10 BRS and godlike wearables 50 BRS (values to be confirmed). More information on wearable's contribution to BRS will be shared once it's available!
 
 ## Absolute Rarity Score
 
@@ -57,6 +59,7 @@ Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegot
 Example of the Final Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
+<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
 ## Rewards
 

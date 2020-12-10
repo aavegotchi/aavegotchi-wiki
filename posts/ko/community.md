@@ -25,6 +25,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 <li><a href=#Medium>Medium</a></li>
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
+<li><a href=#Reddit>Reddit</a></li>
 </ol>
 
 </div>
@@ -67,6 +68,12 @@ Twitter avatar</a>).</p>
 
 <p style="margin-left: 4.8em">What’s a crypto project without Telegram? In addition to our Discord, you can also find our devs and team in Telegram, along with 
 around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavegotchi Telegram is another hyper-aactive channel where you can reach us anytime. </p>
+
+&nbsp;<a name="Reddit"></a>
+
+<a href="https://www.reddit.com/r/Aavegotchi/"><img class="community" src="/community/reddit.jpg" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme with Us on Reddit**</a>
+
+<p style="margin-left: 4.8em">Come for the memes and stay for the community! Take a break and have a wonderfully good time at Aavegotchi Reddit, where our great memers reside!</p>
 
 &nbsp;
 

@@ -5,20 +5,32 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 ---
 
-The end goal of staking is to earn specially themed Aavegotchi wearables.
 
-Here are the steps this is done:
+<div class="headerImageContainer">
+<img class="headerImage" src="/icons/staking.svg">
+<p class="headerImageText">Stake GHST, Make FRENS!</p>
+</div>
 
-1. Stake either GHST tokens or GHST/ETH Uniswap liquidity pool tokens in the [staking contract](https://aavegotchi.com/stake). Doing this earns you frens points over time.
-1. Wait and watch your frens points accumulate.
-1. Using your frens points purchase raffle tickets from the [shop](https://aavegotchi.com/shop).
-1. Enter your raffle tickets into a [raffle](https://aavegotchi.com/raffle).
-1. When the raffle ends find out what prizes you won and claim them.
+GHST token can be staked to earn FRENS, a non-transferable balance within the Staking Contract.
 
-You can unstake your GHST and/or GHST/ETH Uniswap liquidity pool tokens at any time.
+FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
 
+Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 
-## Staking & Frens
+<div class="contentsBox">
+
+**Contents**
+
+<ol>
+<li><a href=#how-to-stake>How to Stake</a></li>
+<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
+<li><a href=#entering-raffles>Entering Raffles</a></li>
+<li><a href=#more-resources>More Resources</a></li>
+</ol>
+
+</div>
+
+## How to Stake
 
 To stake GHST you must first get GHST.  The easiest way to get GHST is to purchase it from the [ETH/GHST Uniswap pool](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH). It can also be purchased from the [GHST bonding curve](https://aavegotchi.com/curve).
 
@@ -52,7 +64,7 @@ There are six different levels of raffle tickets:
 Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 
-## Entering a Raffle and Winning Prizes
+## Entering Raffles
 
 A raffle runs for a period of time. During this time you can submit your raffle tickets for chances to win prizes. When the raffle is over you can find out what prizes you won and claim them.
 
@@ -70,7 +82,8 @@ The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.ch
 
 Later on the prizes, also called Wearable Vouchers, can be exchanged for corresponding aavegotchi wearables from the [shop](https://aavegotchi.com/shop).
 
-Blog posts:
+## More Resources
+
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 - [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
