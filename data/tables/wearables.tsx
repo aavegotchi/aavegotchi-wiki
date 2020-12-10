@@ -25,7 +25,7 @@ export const tables
                     [`<img src="/wearables/link/snow-camo-pants.svg" />`, "5", "Snow Camo Hat", "Uncommon", "AGG +1, SPK +1"],
                     [`<img src="/wearables/link/m67-grenade.svg" />`, "6", "M67 Grenade", "Uncommon", "AGG +2"],
                     [`<img src="/wearables/link/marine-cap.svg" />`, "7", "Marine Cap", "Rare", "AGG +2, BRN +1"],
-                    [`<img src="/wearables/link/marine-suit.svg" />`, "8", "Marine Jacket", "Rare", "AGG +1, BRN +1"],
+                    [`<img src="/wearables/link/marine-suit.svg" />`, "8", "Marine Jacket", "Rare", "AGG +2, BRN +1"],
                     [`<img src="/wearables/link/walkie-talkie.svg" />`, "9", "Walkie Talkie", "Rare", "NRG +1, SPK +1, BRN +1"],
                     [`<img src="/wearables/link/link-white-cap.svg" />`, "10", "Link White Hat", "Legendary", "AGG +2, BRN +2"],
                     [`<img src="/wearables/link/link-mess-dress.svg" />`, "11", "Link Mess Dress", "Legendary", "AGG +2, BRN +2"],
