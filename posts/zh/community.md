@@ -9,10 +9,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/community/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">Hello, fren!</p>
+<p class="headerImageText">你好，朋友!</p>
 </div>
 
-Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
+歡迎來到官方的Aavegotchi百科 我們的社區是一個充滿活力的群體，對Aavegotchi感到瘋狂。 我們有幾個不同的渠道， 這樣你就可以在最適合的地方找到我們 — — 但如果你想要升级到 Aavegotchi Agent 狀態，請務必不要錯過我們的Discord！ 我們的Aavegotchi Aagents 是 我們社區的一個中心部分，他們有著深入的Aavegotchi知識和特殊的Agent 可穿戴裝備。 Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
 
 <a name="Discord"></a>
 
