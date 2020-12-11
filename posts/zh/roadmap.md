@@ -13,7 +13,7 @@ The Aavegotchi team uses an iterative development flow built on upgradable contr
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#q3-20>Q3 2020 </a></li>
