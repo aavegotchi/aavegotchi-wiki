@@ -63,6 +63,6 @@ Aavegotchi 通過在 Aragon 上建造的 DAICO 發佈了聯合曲線。
 ## 更多
 * [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
-* [Bonding Curves](https://defiprime.com/bonding-curve-explained) 的文章來自 DeFi Prime.
+* [Bonding Curves](https://defiprime.com/bonding-curve-explained)
 
-* [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) 的文章來自 Coin Telegraph.
+* [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained)
