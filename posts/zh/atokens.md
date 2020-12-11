@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'aTokens'
-description: 'All about Aavegotchi aTokens'
+description: '一切關於Aavegotchi的aTokens'
 image: "atokens/aETH.svg"
 contributors:
   - "unintelligent-nerd"
@@ -11,14 +11,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.svg">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">關於aTokens</p>
 </div>
 
-aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave議定的信息。
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#about>關於</a></li>
@@ -36,9 +36,9 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 aTokens可分為兩類之一：(1) 加密貨幣，或(2) 穩定幣。  加密貨幣是由加密技術保護的數字或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散化網路——一個由不同的計算機網路執行的分布式帳本。 穩定幣是一種加密貨幣，它試圖通過與美元等外部參考值掛鈎來提供價格穩定。 不同的穩定幣，掛鉤的基本機制不同，各自有各自的風險特徵。
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+以下 <0>aTokens</0> （加密貨幣或者穩定幣）可在 Aave 協議上獲取： 由 Aavegotchi</em> 列出支持的 *表示AToken 是否可用於 Aavegotchi 遊戲。 支持的 aTokens 列表未最后完成; 基於玩家的需求，Aavegotchi 遊戲將會有Twitter投票/DAO 投票添加更多的aTokens。 </p>
 
-## Stablecoins
+## 穩定幣
 
 table_stablecoins
 
@@ -46,11 +46,11 @@ table_stablecoins
 
 table_cryptocurrencies
 
-## Getting aTokens
+## 獲取 aTokens
 
-*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
+*<a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">從零到英雄指南 2.0</a> 來自Aave Medium採取了以下步驟。 為方便讀者閱讀在這裡複製了這份文件。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). 跳轉到 <a href = "https://app.aave.com/">Aave 協議</a> 開始吧！
 
 2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
