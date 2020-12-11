@@ -68,4 +68,4 @@ table_cryptocurrencies
 
 <img src = "/atokens/deposit.gif" alt = "aave" width = "500" />
 
-As soon as you deposit, you benefit from the deposit interest rate.
+一旦你進行存款，你就會受益於存款利率。
