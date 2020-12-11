@@ -52,11 +52,11 @@ table_cryptocurrencies
 
 1). 跳轉到 <a href = "https://app.aave.com/">Aave 協議</a> 開始吧！
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). 這裡你有幾個選項來連接你的加密錢包，取決於你擁有哪種類型的錢包：
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" width = "500" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). 在您使用 Aave 協議之前，您需要擁有一些加密資產。 可用加密資產列表顯示在 <a href=#stablecoins>穩定幣</a> 和 <a href=#cryptocurrencies>虛擬貨幣</a> 上面的部分。
 
 If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
