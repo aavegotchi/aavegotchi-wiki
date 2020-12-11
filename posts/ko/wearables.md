@@ -36,7 +36,7 @@ Aavegotchis have four traits that can be modified by wearables.
 * AGG = Aggressiveness
 * NRG = Energy
 * SPK = Spookiness
-* BRN - Brain Size
+* BRN = Brain Size
 
 *Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
