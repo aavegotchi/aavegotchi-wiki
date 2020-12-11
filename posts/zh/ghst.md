@@ -19,7 +19,7 @@ GHST is an ERC-20 token running on the ethereum blockchain at the address: <a hr
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#get-ghst>Get GHST</a></li>
