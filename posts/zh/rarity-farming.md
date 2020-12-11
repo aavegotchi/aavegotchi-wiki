@@ -21,7 +21,7 @@ There are 2 types of rarity scores in play here - Base Rarity Score (for traits 
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#base-rarity-score>Base Rarity Score</a></li>
