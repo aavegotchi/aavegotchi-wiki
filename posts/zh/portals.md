@@ -19,7 +19,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
