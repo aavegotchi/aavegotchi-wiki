@@ -31,6 +31,7 @@ contributors:
 <p><a href="#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token-">Do I need KYC to play Aavegotchi or own GHST token?</a></p>
 <p><a href="#what-does-aave-have-to-do-with-aavegotchi-">What does Aave have to do with Aavegotchi?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
 <li><a href="#raffle-faq">Raffle FAQ</a></li>
 <p><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
@@ -96,6 +97,11 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> as a central element of gameplay, and as of November 2020, Aave is also an <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">official investor</a> in Pixelcraft Studios, the team behind Aavegotchi.
 
 ## Bonding Curve FAQ
+
+### I bought GHST but I can't see it in my wallet
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+
+<img src = "/faq/claim-order.png" width = "500" />
 
 ### Can people frontrun the Bonding Curve?
 No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
