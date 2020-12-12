@@ -37,6 +37,7 @@ contributors: ["eris771"]
 <p><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href="#will-raffle-wearables-be-available-in-the-aavegotchi-store-">Will raffle wearables be available in the Aavegotchi store?</a></p>
 <p><a href="#are-raffle-wearables-special-">Are raffle wearables special?</a></p>
+<p><a href="#are-frens-used-for-anything-besides-raffles-">Are FRENS used for anything besides raffles?</a></p>
 <li><a href="#gameplay-faq">Gameplay FAQ</a></li>
 <p><a href="#do-higher-trait-scores-always-mean-higher-rarity-">Do higher trait scores always mean higher rarity?</a></p>
 <p><a href="#how-much-does-it-cost-to-play-">How much does it cost to play?</a></p>
@@ -136,6 +137,9 @@ As far as gameplay, raffle wearables will offer the same <a href="https://wiki.a
 class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, 
 whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
+### Are FRENS used for anything besides raffles?
+
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 
 ## Gameplay FAQ
