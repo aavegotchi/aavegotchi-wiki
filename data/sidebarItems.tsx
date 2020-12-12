@@ -92,6 +92,10 @@ export const items: Category[] = [
                 name: "Memes",
                 href: "memes"
             },
+			{
+				name: "Media",
+				href: "media"
+			},
         ]
     },
 
