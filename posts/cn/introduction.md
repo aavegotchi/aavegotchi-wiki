@@ -43,7 +43,7 @@ Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由
 
 *  **特质:** Aavegotchis拥有多种特质，这些特质会影响他们的稀有度、他们在小游戏中的表现以及他们可以装备的穿戴物。 有些是在出生时随机生成的，有些则取决于用户与Aavegotchi的互动。 **查看[特质](https://wiki.aavegotchi.com/traits).**
 
-    * **随机特质**: 每一个Aavegotchi在出生时，都会使用ChainLink VRF随机数生成器随机分配若干个特征值。 特质值呈钟形曲线分布，每个特质根据其稀有程度，被赋予普通、罕见、稀有、传奇或神话的数值。
+    * **随机特质**: 每一个Aavegotchi在出生时，都会使用ChainLink VRF随机数生成器随机分配若干个特征值。 Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, Legendary, Mythical, or Godlike depending on its rarity.
 
     *  **亲属关系**: "亲缘关系 "并不是随机分配的，而是在出生时就开始有一个固定的数值，并根据各种因素而增加或减少，比如Aavegotchi与同一个主人相处的时间，以及主人与它互动的频率。
 
