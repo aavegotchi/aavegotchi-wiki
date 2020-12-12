@@ -42,6 +42,7 @@ contributors:
 <li><a href="#technical-faq">Technical FAQ</a></li>
 <p><a href="#is-aavegotchi-on-chain-">Is Aavegotchi on-chain?</a></p>
 <p><a href="#which-wallet-should-i-use-with-aavegotchi-">Which wallet should I use with Aavegotchi?</a></p>
+<p><a href="#will-aavegotchi-run-on-layer-2-">Will Aavegotchi run on Layer 2?</a></p>
 <p><a href="#do-i-need-to-migrate-my-aave-tokens-">Do I need to migrate my Aave tokens?</a></p>
 </ol>
 
@@ -69,7 +70,7 @@ Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aaveg
 
 
 ### When is mainnet launch?
-Mainnet is currently slated for late December.
+Mainnet is currently slated for January 4th, 2021.
 
 
 
@@ -142,6 +143,10 @@ All elements of the Aavegotchi game are <a href="https://twitter.com/aavegotchi/
 ### Which wallet should I use with Aavegotchi?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and <a href="https://arkane.network/apps">Arkane wallet</a> - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+
+### Will Aavegotchi run on Layer 2?
+
+Yes! Aavegotchi plans to use <a href="https://matic.network/">Matic</a> as a Layer 2 solution, integrated shortly after launch.
 
 ### Do I need to migrate my Aave tokens?
 
