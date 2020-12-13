@@ -49,7 +49,7 @@ Here are all the current and future uses for GHST:
 <ul>
   <li><b>Earn raffle tickets for a chance to win wearables:</b> <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">be as lucky as this anon.</a></li>
   &nbsp;
-  <li><b>Earn ETH:</b> our frens at opensea have made things easy for your to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable.</li> 
+  <li><b>Earn ETH:</b> Our frens at OpenSea have made things easy for you to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable.</li> 
   &nbsp;
   <li><b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal and chose 1 out of 10 Aavegotchis randomly generated. The initial price set for a portal is 100 GHST. As always, players will decide <a href="https://wiki.aavegotchi.com/en/dao">through the DAO</a> if this is a fair price. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan.</a></li>
   &nbsp;
