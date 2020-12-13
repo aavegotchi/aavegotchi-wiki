@@ -23,29 +23,30 @@ contributors: ["eris771"]
 **Contents**
 
 <ol>
-<li><a href="#general-faq">General FAQ</a></li>
-<p><a href="#i-m-new-to-aavegotchi--after-launch--how-do-i-play-">I'm new to Aavegotchi. After launch, how do I play?</a></p>
-<p><a href="#when-can-i-get-an-aavegotchi-">When can I get an Aavegotchi?</a></p>
-<p><a href="#when-is-mainnet-launch-">When is mainnet launch?</a></p>
-<p><a href="#what-can-i-do-now-">What can I do now?</a></p>
-<p><a href="#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token-">Do I need KYC to play Aavegotchi or own GHST token?</a></p>
-<p><a href="#what-does-aave-have-to-do-with-aavegotchi-">What does Aave have to do with Aavegotchi?</a></p>
+<li><a href=#general-faq>General FAQ</a></li>
+<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
+<p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
+<p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
+<p><a href=#what-can-i-do-now->What can I do now?</a></p>
+<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
+<p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
-<li><a href="#raffle-faq">Raffle FAQ</a></li>
-<p><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
-<p><a href="#will-raffle-wearables-be-available-in-the-aavegotchi-store-">Will raffle wearables be available in the Aavegotchi store?</a></p>
-<p><a href="#are-raffle-wearables-special-">Are raffle wearables special?</a></p>
-<p><a href="#are-frens-used-for-anything-besides-raffles-">Are FRENS used for anything besides raffles?</a></p>
-<li><a href="#gameplay-faq">Gameplay FAQ</a></li>
-<p><a href="#do-higher-trait-scores-always-mean-higher-rarity-">Do higher trait scores always mean higher rarity?</a></p>
-<p><a href="#how-much-does-it-cost-to-play-">How much does it cost to play?</a></p>
-<li><a href="#technical-faq">Technical FAQ</a></li>
-<p><a href="#is-aavegotchi-on-chain-">Is Aavegotchi on-chain?</a></p>
-<p><a href="#which-wallet-should-i-use-with-aavegotchi-">Which wallet should I use with Aavegotchi?</a></p>
-<p><a href="#will-aavegotchi-run-on-layer-2-">Will Aavegotchi run on Layer 2?</a></p>
-<p><a href="#do-i-need-to-migrate-my-aave-tokens-">Do I need to migrate my Aave tokens?</a></p>
+<li><a href=#raffle-faq>Raffle FAQ</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
+<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
+<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
+<li><a href=#technical-faq>Technical FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
 </ol>
 
 </div>
@@ -140,6 +141,9 @@ whether they have more resale value due to their **pre-launch status** or **bran
 ### Are FRENS used for anything besides raffles?
 
 No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+
+### How do you transfer raffle tickets?
+Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
 
 
 ## Gameplay FAQ
