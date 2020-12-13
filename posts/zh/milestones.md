@@ -7,6 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+* Community update published on 12 December 2020!
+* 4 January 2021 Aavegotchi launch date confirmed!
+* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
+* Binance lists GHST token
+* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
+* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
+* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+
 ## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
 * On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
 
@@ -27,7 +36,7 @@ contributors:
 * Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
 * FYI Pixelcraft Studios is the main development team for Aavegotchi
 
-## [Awwww](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
 
 ## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
