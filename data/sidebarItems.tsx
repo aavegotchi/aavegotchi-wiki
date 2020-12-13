@@ -47,14 +47,6 @@ export const items: Category[] = [
         name: "Gameplay",
         items: [
             {
-                name: "Metaverse",
-                href: "metaverse"
-            },
-            {
-                name: "Wearables",
-                href: "wearables"
-            },
-            {
                 name: "Portals",
                 href: "portals"
             },
@@ -63,9 +55,19 @@ export const items: Category[] = [
                 href: "traits"
             },
             {
+                name: "Wearables",
+                href: "wearables"
+            },
+            {
                 name: "Rarity Farming",
                 href: "rarity-farming"
             },
+
+            {
+                name: "Metaverse",
+                href: "metaverse"
+            },
+
         ]
     },
 
@@ -91,6 +93,10 @@ export const items: Category[] = [
             {
                 name: "Memes",
                 href: "memes"
+            },
+            {
+                name: "Media",
+                href: "media"
             },
         ]
     },

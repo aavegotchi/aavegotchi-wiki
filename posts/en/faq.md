@@ -30,16 +30,21 @@ contributors: ["eris771"]
 <p><a href="#what-can-i-do-now-">What can I do now?</a></p>
 <p><a href="#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token-">Do I need KYC to play Aavegotchi or own GHST token?</a></p>
 <p><a href="#what-does-aave-have-to-do-with-aavegotchi-">What does Aave have to do with Aavegotchi?</a></p>
+<li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
+<p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
 <li><a href="#raffle-faq">Raffle FAQ</a></li>
 <p><a href="#does-buying-a-ticket-mean-i-m-entered-into-the-raffle-">Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href="#will-raffle-wearables-be-available-in-the-aavegotchi-store-">Will raffle wearables be available in the Aavegotchi store?</a></p>
 <p><a href="#are-raffle-wearables-special-">Are raffle wearables special?</a></p>
+<p><a href="#are-frens-used-for-anything-besides-raffles-">Are FRENS used for anything besides raffles?</a></p>
 <li><a href="#gameplay-faq">Gameplay FAQ</a></li>
 <p><a href="#do-higher-trait-scores-always-mean-higher-rarity-">Do higher trait scores always mean higher rarity?</a></p>
 <p><a href="#how-much-does-it-cost-to-play-">How much does it cost to play?</a></p>
 <li><a href="#technical-faq">Technical FAQ</a></li>
 <p><a href="#is-aavegotchi-on-chain-">Is Aavegotchi on-chain?</a></p>
 <p><a href="#which-wallet-should-i-use-with-aavegotchi-">Which wallet should I use with Aavegotchi?</a></p>
+<p><a href="#will-aavegotchi-run-on-layer-2-">Will Aavegotchi run on Layer 2?</a></p>
 <p><a href="#do-i-need-to-migrate-my-aave-tokens-">Do I need to migrate my Aave tokens?</a></p>
 </ol>
 
@@ -69,7 +74,7 @@ Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aaveg
 
 
 ### When is mainnet launch?
-Mainnet is currently slated for late December.
+Mainnet is currently slated for January 4th, 2021.
 
 
 
@@ -98,7 +103,15 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> as a central 
 element of gameplay, and as of November 2020, Aave is also an <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">official investor</a> in Pixelcraft Studios, the team behind Aavegotchi.
 
+## Bonding Curve FAQ
 
+### I bought GHST but I can't see it in my wallet
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+
+<img src = "/faq/claim-order.png" width = "500">
+
+### Can people frontrun the Bonding Curve?
+No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## Raffle FAQ
 
@@ -124,6 +137,9 @@ As far as gameplay, raffle wearables will offer the same <a href="https://wiki.a
 class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, 
 whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
+### Are FRENS used for anything besides raffles?
+
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 
 ## Gameplay FAQ
@@ -153,6 +169,10 @@ our unique design using the Diamond Standard <a href="https://eips.ethereum.org/
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and <a href="https://arkane.network/apps">Arkane wallet</a> - which will be integrating with Aavegotchi
  soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+
+### Will Aavegotchi run on Layer 2?
+
+Yes! Aavegotchi plans to use <a href="https://matic.network/">Matic</a> as a Layer 2 solution, integrated shortly after launch.
 
 ### Do I need to migrate my Aave tokens?
 

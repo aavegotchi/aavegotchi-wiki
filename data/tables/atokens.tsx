@@ -14,7 +14,7 @@ export const tables
     = [
         {
             tableName: "stablecoins",
-            tableCaption: "stablecoins",
+            tableCaption: "",
             tableData: {
                 headers: ["Image", "Name", "Description", "Supported by Aavegotchi"],
                 data: [
@@ -31,7 +31,7 @@ export const tables
 
         {
             tableName: "cryptocurrencies",
-            tableCaption: "cryptocurrencies",
+            tableCaption: "",
             tableData: {
                 headers: ["Image", "Name", "Description", "Supported by Aavegotchi"],
                 data: [
