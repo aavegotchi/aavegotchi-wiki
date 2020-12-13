@@ -15,7 +15,7 @@ contributors: ["unintelligent-nerd"]
 
 A token bonding curve (TBC) is a mathematical curve that defines a relationship between price and token supply.
 
-In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an Aragon Decentralized Autonomous Initial Coin Offering (DAICO), we will be discussing DAICOs as well.
+In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an Aragon Decentralized Autonomous Initial Coin Offering (DAICO), this article discusses DAICOs as well.
 
 <div class="contentsBox">
 
@@ -34,23 +34,36 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 ## Mechanics
 
+### Minting / Burning on demand
+
 Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
 
 When a token is purchased via a TBC, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
+
+### Formula
 
 Bonding curves come in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750">
 
-The Reserve Ratio is expressed as a percentage greater than 0% and up to 100%.
+### Formula Explanation
 
-The Reserve Ratio represents a fixed ratio between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance. This ratio will be held constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells. The Reserve Token refers to the token that users stake into the bonding curve. The Continuous Token refers to the token that is received from the bonding curve upon staking the Reserve Token. In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively. 
+The **Reserve Token** refers to the token that users stake into the bonding curve.
 
-Since each purchase or sale of a Continuous Token triggers an increase or decrease of Reserve Tokens and Continuous Tokens, the price of the Continuous Token with respect to its Reserve Tokens will continuously recalculate to maintain the configured reserve ratio between them.
+The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
 
-The Reserve Ratio determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity. A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively. 
 
-**Aavegotchi's Reserve Ratio is 100% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+
+Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+
+
+The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity. 
+
+A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+
+**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
 
 If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
 

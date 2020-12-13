@@ -74,8 +74,12 @@ a:hover {
 
 .blogBody h3 {
     padding-top: 25px;
-    font-size: 16px;
+    padding-bottom: 5px;
+    font-size: 15px;
     font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: darkslategray;
 }
 
 .blogBody h4 {
