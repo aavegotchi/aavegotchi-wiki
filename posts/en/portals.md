@@ -42,9 +42,21 @@ If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approx
 
 ## Opening your Portal
 
-Sweet! You’ve got your hands on a portal. Select your portal under ‘My Portals, then send a transaction to open it. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm.
+Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-With the help of [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/), these Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
+Whenever a player purchases a Portal, it is automatically entered into a batch. This allows Portals to be grouped in a single batch, that can be executed with a single [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) call. When this is executed, all Portals in that batch will be assigned a random number via the aforementioned VRF, ensuring that the Aavegotchi's traits will be provably random. 
+
+If you're not ready to summon your Aavegotchi immediately, that's okay too. (For instance, you might be thinking of selling your portal, or just holding on to it for a while.) You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the batch, and then wait for the Summoning Ritual to happen. 
+
+Here's a handy flow chart that summarizes the process:
+
+
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "portal-flow" width = "750">
+
+
+When the Summoning Ritual is done, you will need to submit one more transaction to open your portal and claim your friend. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. 
+
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
