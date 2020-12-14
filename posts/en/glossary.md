@@ -4,6 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
 description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
 image: "IMAGE HERE"
+contributors: ["appellants", "eris"]
 ---
 
 <div class="headerImageContainer">
@@ -25,26 +26,29 @@ When you're done reading this and hopefully have a better understanding of these
 **Contents**
 
 <ol>
-<li><a href=#DeFi>DeFi 101</a></li>
-<p><a href="#apy">APY</a></p>
-<p><a href="#collateral">Collateral</a></p>
-<p><a href="#dao">DAO</a></p>
-<p><a href="#dex">DEX</a></p>
-<p><a href="#flash-loans">Flash Loans</a></p>
-<p><a href="#impermanent-loss">Impermanent Loss</a></p>
-<p><a href="#liquidity-pools">Liquidity Pools</a></p>
-<p><a href="#oracles">Oracles</a></p>
-<p><a href="#smart-contracts">Smart Contracts</a></p>
-<p><a href="#staking">Staking</a></p>
-<p><a href="#yield-farming">Yield Farming</a></p>
-<li><a href=#general-terms">General Terms</a></li>
-<p><a href="#metaverse">Metaverse</a></p>
-<p><a href="#nft">NFT</a></p>
+<li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#apy>APY</a></p>
+<p><a href=#collateral>Collateral</a></p>
+<p><a href=#dao>DAO</a></p>
+<p><a href=#dex>DEX</a></p>
+<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#impermanent-loss>Impermanent Loss</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#oracles>Oracles</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#staking>Staking</a></p>
+<p><a href=#yield-farming>Yield Farming</a></p>
+<li><a href=#general-terms>General Terms</a></li>
+<p><a href=#metaverse>Metaverse</a></p>
+<p><a href=#nft>NFT</a></p>
+<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-point>Spirit Point</a></p>
 </ol>
 
 </div>
 
-## DeFi
+## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decetralized manner with no middle man. 
 
@@ -149,4 +153,12 @@ NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning i
 such as wearables, works of art, or any other type of property. 
 
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same
-kind are known as fungible tokens.  
+kind are known as fungible tokens.
+
+## Aavegotchi-related
+
+### Spirit Force
+Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi. 
+
+### Spirit Point
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.

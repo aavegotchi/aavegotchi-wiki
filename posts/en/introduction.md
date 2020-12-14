@@ -7,7 +7,7 @@ image: "aavegotchi.png"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/aavegotchi.png">
+<img class="headerImage" src="/aavegotchi.png" alt="aavegotchi" />
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
@@ -53,7 +53,7 @@ Aavegotchis possess multiple traits that influence their rarity, their performan
 
     *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. 
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every few levels, Aavegotchis receive one Spirit Point that can be allocated towards increasing or decreasing a certain trait. 
+    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/posts/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. 
 
 * **Wearables**
 In addition to managing the aToken escrow, Aavegotchis also extend the ERC998 Composables standard, which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. 
