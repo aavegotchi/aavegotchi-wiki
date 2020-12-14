@@ -25,26 +25,26 @@ When you're done reading this and hopefully have a better understanding of these
 **Contents**
 
 <ol>
-<li><a href=#DeFi>DeFi 101</a></li>
-<p><a href="#apy">APY</a></p>
-<p><a href="#collateral">Collateral</a></p>
-<p><a href="#dao">DAO</a></p>
-<p><a href="#dex">DEX</a></p>
-<p><a href="#flash-loans">Flash Loans</a></p>
-<p><a href="#impermanent-loss">Impermanent Loss</a></p>
-<p><a href="#liquidity-pools">Liquidity Pools</a></p>
-<p><a href="#oracles">Oracles</a></p>
-<p><a href="#smart-contracts">Smart Contracts</a></p>
-<p><a href="#staking">Staking</a></p>
-<p><a href="#yield-farming">Yield Farming</a></p>
-<li><a href=#general-terms">General Terms</a></li>
-<p><a href="#metaverse">Metaverse</a></p>
-<p><a href="#nft">NFT</a></p>
+<li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#apy>APY</a></p>
+<p><a href=#collateral>Collateral</a></p>
+<p><a href=#dao>DAO</a></p>
+<p><a href=#dex>DEX</a></p>
+<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#impermanent-loss>Impermanent Loss</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#oracles>Oracles</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#staking>Staking</a></p>
+<p><a href=#yield-farming>Yield Farming</a></p>
+<li><a href=#general-terms>General Terms</a></li>
+<p><a href=#metaverse>Metaverse</a></p>
+<p><a href=#nft>NFT</a></p>
 </ol>
 
 </div>
 
-## DeFi
+## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decetralized manner with no middle man. 
 
