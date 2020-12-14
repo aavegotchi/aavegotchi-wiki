@@ -16,6 +16,8 @@ contributors:
 
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
+So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get dem.
+
 <div class="contentsBox">
 
 **Contents**
