@@ -4,6 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
 description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
 image: "IMAGE HERE"
+contributors: ["appellants", "eris"]
 ---
 
 <div class="headerImageContainer">
@@ -40,6 +41,9 @@ When you're done reading this and hopefully have a better understanding of these
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#nft>NFT</a></p>
+<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-point>Spirit Point</a></p>
 </ol>
 
 </div>
@@ -149,4 +153,12 @@ NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning i
 such as wearables, works of art, or any other type of property. 
 
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same
-kind are known as fungible tokens.  
+kind are known as fungible tokens.
+
+## Aavegotchi-related
+
+### Spirit Force
+Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi. 
+
+### Spirit Point
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
