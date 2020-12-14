@@ -44,6 +44,12 @@ Aavegotchis have four traits that can be modified by wearables.
 
 See [Traits](https://wiki.aavegotchi.com/traits) for more about this topic.
 
+## Wearables BRS
+
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi: 
+
+table_wearablesBRStable
+
 <hr />
 
 

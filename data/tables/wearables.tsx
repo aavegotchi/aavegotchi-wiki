@@ -69,5 +69,20 @@ export const tables
             }
         },
 
+        {
+            tableName: "wearablesBRStable",
+            tableCaption: "Wearable Rarity and BRS Bonus",
+            tableData: {
+                headers: ["Rarity Type", "Quantity", "BRS Bonus"],
+                data: [
+                    ["Common", "1000+", "+1"],
+                    ["Uncommon", "500-999", "+2"],
+                    ["Rare", "250-499", "+5"],
+                    ["Legendary", "100-249", "+10"],
+                    ["Mythical", "10-99", "+20"],
+                    ["Godlike", "1-9", "+50"],
 
+                ]
+            }
+        },
     ]
