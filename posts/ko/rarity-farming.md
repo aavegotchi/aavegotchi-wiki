@@ -46,7 +46,7 @@ BRS of the Aavegotchi's traits is derived using the following formula:
 
 ### Wearables BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare wearables yield 10 BRS and godlike wearables 50 BRS (values to be confirmed). More information on wearable's contribution to BRS will be shared once it's available!
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
 
 ## Absolute Rarity Score
 
