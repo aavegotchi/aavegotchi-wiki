@@ -13,16 +13,16 @@ In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest 
 
 ### <span style="color:gold">第一位： Aavegotchi PAC MANM</span>
 
-<p><img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
+<p><img class="memes" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi memes" width = "250" />
 
 ### <span style="color:silver">第二位: By Your Powers Combined</span>
 
-<p><img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
+<p><img class="memes" src="/memes/byyourpowerscombined.png" alt = "aavegotchi memes" width = "250" />
 
 ### <span style="color:#cd7f32">第三位: Cozy GHST</span>
 
-<p><img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
+<p><img class="memes" src="/memes/CozyGHST.jpg" alt = "aavegotchi memes" width = "250" />
 
 ### 其它表情
 
-<p><img class="memes" src="/memes/nickmudgeandvan.png" width = "250" /> <p> <p><img class="memes" src="/memes/danmaiyatang.png" alt = "Daniel Mathieu" width = "250" />
+<p><img class="memes" src="/memes/nickmudgeandvan.png" alt = "nick mudge" width = "250" /> <p> <p><img class="memes" src="/memes/danmaiyatang.png" alt = "Daniel Mathieu" width = "250" />
