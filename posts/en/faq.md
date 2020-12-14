@@ -37,6 +37,7 @@ contributors: ["eris771"]
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
 <p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
+<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
@@ -137,6 +138,9 @@ No. The only time these wearables will ever be released is during the pre-launch
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity 
 class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, 
 whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+
+### Can I buy FRENS?
+No. FRENS are a way to reward our community members who staked GHST.
 
 ### Are FRENS used for anything besides raffles?
 
