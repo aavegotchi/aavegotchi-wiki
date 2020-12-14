@@ -36,7 +36,7 @@ Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribu
 
 table_TraitsByRarity
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
-<p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDai, sky blue for aLend, purple for aETH etc. </i></p>
+<p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDai, sky blue for aAave, purple for aETH etc. </i></p>
 
 ## Kinship
 Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. 
