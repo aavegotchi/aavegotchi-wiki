@@ -7,7 +7,7 @@ image: "aavegotchi.png"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/aavegotchi.png" alt="aavegotchi">
+<img class="headerImage" src="/aavegotchi.png" alt="aavegotchi" />
 <p class="headerImageText">아베고치</p>
 </div>
 
