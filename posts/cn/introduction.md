@@ -47,7 +47,7 @@ Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由
 
     *  **亲属关系**: "亲缘关系 "并不是随机分配的，而是在出生时就开始有一个固定的数值，并根据各种因素而增加或减少，比如Aavegotchi与同一个主人相处的时间，以及主人与它互动的频率。
 
-    *  **经验:** Aavegotchis通过在AavegotchiDAO中投票和参加小游戏获得更多的经验，从而提升等级。 每隔几级，Aavegotchis就会获得一个灵点，可以分配用于增加或减少某项特质。
+    *  **经验:** Aavegotchis通过在AavegotchiDAO中投票和参加小游戏获得更多的经验，从而提升等级。 Every three levels, Aavegotchis receive one [Spirit Point](/posts/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
 
 * **可穿戴装备**除了管理aToken托管，Aavegotchis还扩展了ERC998 Composables标准，使他们能够管理附属NFT，即Aavegotchi生态系统中的可穿戴设备。 并非每一个可穿戴装备都能被每个Aavegotchi装备。 一些可穿戴装备可能需要专门Aavegotchis装备，这些Aavegotchis有一定的抵押品，有一定级别的，有一定特征的。 有些可穿戴装备可以增加或减少Aavegotchi的某些特质。 例如，装备一把剑可以略微提升Aavegotchi的攻击性，而装备一件Bob Marley衬衫可以降低其能量水平。
 
