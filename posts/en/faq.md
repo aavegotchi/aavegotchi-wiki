@@ -110,7 +110,7 @@ element of gameplay, and as of November 2020, Aave is also an <a href="https://m
 ### I bought GHST but I can't see it in my wallet
 After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
-<img src = "/faq/claim-order.png" width = "500">
+<img src = "/faq/claim-order.png" class="bodyImage">
 
 ### Can people frontrun the Bonding Curve?
 No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.

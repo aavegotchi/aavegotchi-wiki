@@ -48,7 +48,7 @@ Using Godlike Raffle Tickets as an example, ensure that there is a "Verified Con
 
 Next, scroll down the page, and check the Chain Info subsection. Compare the Contract Address to verify if it matches with the Raffle Tickets Contract Address (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A). If they are similar, you are good to go.
 
-<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" width = "500">
+<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage">
 
 
 ## Warnings
