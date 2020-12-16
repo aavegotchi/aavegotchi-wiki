@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces. Currently, [OpenSea](https://opensea.io/) is the most accessible marketplace where trades take place. This page will detail some precautionary measures to take to prevent getting scammed!
+Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces.
 
-In the future, Aavegotchi will host their own internal marketplace for gamers to trade among themselves.
+Currently, [OpenSea](https://opensea.io/) is the most accessible marketplace where trades take place. In the future, Aavegotchi will host their own internal marketplace for gamers to trade among themselves.
 
 As more Aavegotchi assets become available, there will be more categories of assets that are available for trading (e.g. portals, the Aavegotchis themselves, etc).
 
@@ -18,7 +18,8 @@ As more Aavegotchi assets become available, there will be more categories of ass
 **Contents**
 
 <ol>
-<li><a href=#opensea>OpenSea</a></li>
+<li><a href=#opensea>OpenSea Example</a></li>
+<li><a href=#warnings>Warnings</a></li>
 </ol>
 
 </div>
@@ -47,4 +48,13 @@ Next, scroll down the page, and check the Chain Info subsection. Compare the Con
 
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" width = "500" />
 
+table_[smartcontracts]
+
 ### Wearable Vouchers
+
+## Warnings
+
+It's not fun to spend your hard-earned money for fake wearables, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+
+1. Always double-check that the contract address for the items are coming from the correct contract addresses.
+2. If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
