@@ -67,6 +67,10 @@ export const items: Category[] = [
                 name: "Metaverse",
                 href: "metaverse"
             },
+            /* {
+                 name: "Marketplace",
+                 href: 'marketplace'
+             }*/
 
         ]
     },
