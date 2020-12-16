@@ -265,8 +265,11 @@ ol > p {
 }
 
 .bodyImage {
+    margin-top: 15px;
+    margin-bottom: 15px;
     width: 60%;
     max-width: 500px;
+    object-fit: contain;
 }
 
  
