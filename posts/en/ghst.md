@@ -13,7 +13,7 @@ contributors: ["letsgobankless"]
 </div>
 
 
-GHST token is the eco-governance token of the Aavegotchi Universe. GHST is minted by depositing DAI into a <a href="https://wiki.aavegotchi.com/en/curve">bonding curve</a>. As long as Ethereum exists, it will be possible to convert GHST back into DAI by interacting with the curve.
+GHST token is the eco-governance token of the Aavegotchi Universe. GHST is minted by depositing DAI into a [bonding curve](/posts/curve). As long as Ethereum exists, it will be possible to convert GHST back into DAI by interacting with the curve.
 
 GHST is an ERC-20 token running on the ethereum blockchain at the address: <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>.  Be cautious to follow the guidelines below and refer to this exact address when gettin some.
 
@@ -64,7 +64,7 @@ All the GHST collected through sales (portals, wearables, parcels, consumables &
 <ul>
   <li><b><a href="https://discord.com/channels/732491344970383370/737923459061121044/738035042399551569">Become an Aagent</a></b>. Every time you successfully complete a Mission, your Role in the Aavegotchi Discord increases by one. When Aavegotchi launches on Mainnet (announced for December 2020), Mission participants will be entered into giveaways for Aavegotchi swag, including $GHST tokens, fab wearables, and consumables. Each Level will have its own giveaway, so the higher your level, the more chances you’ll have!
   &nbsp;
-  <li><b><a href="https://discord.com/invite/NPwnWB6">Become an examplary Aagent</a></b>. Our beloved Aavegotchi founders have always rewarded the Aagents that went the extra mile. Have a look at the Discord discussions, there may be some acitivty that will stick to your skills.
+  <li><b><a href="https://discord.com/invite/NPwnWB6">Become an exemplary Aagent</a></b>. Our beloved Aavegotchi founders have always rewarded the Aagents that went the extra mile. Have a look at the Discord discussions, there may be some acitivty that will stick to your skills.
   &nbsp;
   <li><b>Soon... bored with yield farming? Try rarity farming!</b> The rarest your Aavegotchi, the more GHST rewards you will get back. Read the <a href="https://wiki.aavegotchi.com/en/rarity-farming">aawesome article for more details.</a>
   &nbsp;
