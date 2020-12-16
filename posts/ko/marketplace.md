@@ -18,15 +18,18 @@ As more Aavegotchi assets become available, there will be more categories of ass
 **Contents**
 
 <ol>
-<li><a href=#opensea>OpenSea Example</a></li>
+<li><a href=#collection-addresses>Collection Addresses</a></li>
+<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
 <li><a href=#warnings>Warnings</a></li>
 </ol>
 
 </div>
 
-## OpenSea
+## Collection Addresses
 
-### Raffle Tickets
+table_smartcontracts
+
+## OpenSea Tutorial
 
 Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
 
@@ -48,13 +51,10 @@ Next, scroll down the page, and check the Chain Info subsection. Compare the Con
 
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" width = "500" />
 
-table_smartcontracts
-
-### Wearable Vouchers
 
 ## Warnings
 
 It's not fun to spend your hard-earned money for fake wearables, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
-1. Always double-check that the contract address for the items are coming from the correct contract addresses.
-2. If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
+* Always double-check that the contract address for the items are coming from the correct contract addresses.
+* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
