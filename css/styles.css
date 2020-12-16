@@ -263,6 +263,12 @@ ol > p {
     margin-left: 4em;
      font-size:13px;
 }
+
+.bodyImage {
+    width: 60%;
+    max-width: 500px;
+}
+
  
 
   @media screen and (max-width:768px) {
@@ -274,6 +280,11 @@ ol > p {
 
     .blogBody > h1 {
         font-size: 32px;
+    }
+
+    .bodyImage {
+        width: 100%;
+        max-width: unset;
     }
 
     thead { font-size: 18px;}
