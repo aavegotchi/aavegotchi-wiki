@@ -47,7 +47,7 @@ Next, scroll down the page, and check the Chain Info subsection. Compare the Con
 
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" width = "500">
 
-table_[smartcontracts]
+table_smartcontracts
 
 ### Wearable Vouchers
 

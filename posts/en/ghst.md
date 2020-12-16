@@ -46,15 +46,15 @@ GHST is the eco-governance token of the Aavegotchi Universe. When Aavegotchi lau
 
 Here are all the current and future uses for GHST:
 
-  * <b>Earn raffle tickets for a chance to win wearables:</b> <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">be as lucky as this anon.</a></
+  * **Earn raffle tickets for a chance to win wearables:** <a href="https://aavegotchi.com/stake"> Stake your GHST</a> to earn FRENS, <a href="https://aavegotchi.com/shop"> Convert your FRENS</a> to raffle tickets, <a href="https://aavegotchi.com/raffle"> Enter the raffle</a> and pray the holy VRF frog to <a href="https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">be as lucky as this anon.</a>
  
-  * <b>Earn ETH:</b> Our frens at OpenSea have made things easy for you to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable.
+  * **Earn ETH:** Our frens at [OpenSea](https://opensea.io/) have made things easy for you to buy and sell NFTs. <a href="https://opensea.io/assets/aavegotchi-frens-raffle-tickets">Raffle tickets can be sold </a>, <a href="https://opensea.io/assets/aavegotchi-wearable-vouchers">Wearables can be sold</a>, and of course Aavegotchis themselves will be saleable.
 
-  * <b>Soon... summon an Aavegotchi.</b> You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal and chose 1 out of 10 Aavegotchis randomly generated. The initial price set for a portal is 100 GHST. As always, players will decide <a href="https://wiki.aavegotchi.com/en/dao">through the DAO</a> if this is a fair price. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan.</a>
+  * **Soon... summon an Aavegotchi.** You might want to summon an Aavegotchi to play Aavegotchi. Buy a portal and chose 1 out of 10 Aavegotchis randomly generated. The initial price set for a portal is 100 GHST. As always, players will decide [through the DAO](/posts/dao) if this is a fair price. Mainnet sooooon, <a href="https://testnet.aavegotchi.com/portals">test it on Kovan.</a>
 
-  * <b>Soon... dress your Aavegotchi.</b> Your Aavegotchi has high fashion standards, make it feel special and it will give it back to you. It is pretty likely that Aavegotchis with the rarest traits and wearables will be the most valuable.<
+  * **Soon... dress your Aavegotchi.** Your Aavegotchi has high fashion standards, make it feel special and it will give it back to you. It is pretty likely that Aavegotchis with the rarest traits and wearables will be the most valuable.
 
-  * <b>Soon... enhance the <a href="https://wiki.aavegotchi.com/fr/metaverse">REALM</a>.</b> Stake GHST and unlock parcel features within the REALM. REALM is a 2D pixelated metaverse for Aavegotchis, where Aavegotchis can encounter each other, participate in mini-games, call smart contracts, and participate in governance of the AavegotchiDAO. In addition to building out their parcel visually using a parcel editor, REALM holders will also be able to call smart contracts directly from their parcels, unlocking an entire new universe of possibilities.
+  * **Soon... enhance the [REALM](/posts/metaverse).** Stake GHST and unlock parcel features within the REALM. REALM is a 2D pixelated metaverse for Aavegotchis, where Aavegotchis can encounter each other, participate in mini-games, call smart contracts, and participate in governance of the AavegotchiDAO. In addition to building out their parcel visually using a parcel editor, REALM holders will also be able to call smart contracts directly from their parcels, unlocking an entire new universe of possibilities.
 
 
 
