@@ -224,6 +224,7 @@ tr:nth-child(even) {
 table, th, td {
     border: 1px solid black;
     text-align: center;
+    padding: 10px;
 }
 
 table > caption {
@@ -282,7 +283,10 @@ ol > p {
 
     td {
         font-size: 13px;
-      
+    }
+
+    table, th, td {
+        padding: 0;
     }
 
     td > img {
