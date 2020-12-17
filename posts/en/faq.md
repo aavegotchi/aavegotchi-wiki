@@ -180,7 +180,7 @@ our unique design using the Diamond Standard <a href="https://eips.ethereum.org/
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi plans to use <a href="https://matic.network/">Matic</a> as a Layer 2 solution, integrated shortly after launch.
+Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea. 
 
 ### Do I need to migrate my Aave tokens?
 
