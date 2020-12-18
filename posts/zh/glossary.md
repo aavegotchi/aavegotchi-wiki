@@ -6,7 +6,7 @@ description: 'Glossary with information about Aavegotchi, NFT and DeFi terminolo
 image: "IMAGE HERE"
 contributors:
   - "appellants"
-  - "eris"
+  - "eris771"
 ---
 
 <div class="headerImageContainer">
