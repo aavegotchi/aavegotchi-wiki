@@ -6,6 +6,9 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
+* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+
 ## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
 * Community update published on 12 December 2020!
 * 4 January 2021 Aavegotchi launch date confirmed!
