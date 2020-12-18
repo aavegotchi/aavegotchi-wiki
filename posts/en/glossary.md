@@ -4,7 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
 description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
 image: "IMAGE HERE"
-contributors: ["appellants", "eris"]
+contributors: ["appellants", "eris771"]
 ---
 
 <div class="headerImageContainer">
