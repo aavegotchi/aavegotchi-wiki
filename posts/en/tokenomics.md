@@ -100,7 +100,6 @@ What happens to all the GHST spent on portals and wearables?
 
 We've made a handy diagram that briefly breaks it down for you:
 
-
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "ghstcircle">
 </div>
