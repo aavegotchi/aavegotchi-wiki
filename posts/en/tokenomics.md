@@ -8,8 +8,8 @@ contributors: ["appellants"]
 ---
 
 <div class="headerImageContainer">
-<img src="/faq/faq.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<img src="/tokenomics/leogotchi.png" class="headerImage">
+<p class="headerImageText">gatsbygotchi: "wEn GHST $5???"</p>
 </div>
 
 Tokenomics? Who even cares? WeN mOoN?? 
@@ -18,10 +18,11 @@ We do, and so should you. If you're planning to invest in a project like GHST (o
 
 Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creting a healthy pay-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+
 
 This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
 
@@ -31,7 +32,7 @@ This part of the wiki will first take you through GHST's token distribution, the
 
 <ol>
 <li><a href=#token-distribution>Token Distribution</a></li>
-<p><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></p>
+<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
 <p><a href=#rarity-farming>Rarity Farming</a></p>
 <p><a href=#dao-governance>DAO Governance</a></p>
 <p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
@@ -67,18 +68,18 @@ The funds raised here were used to bootstrap liquidity in the Token Bonding Curv
 
 Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
 
-For more details on this, read on in the Aavegotchi Whitepaper and Community Update #4. 
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451). 
 
 
 **Public Bonding Curve Sale**
 
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, view BONDING CURVE SECTION LINK.
+As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](https://wiki.aavegotchi.com/en/curve).
 
 There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
 Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve. 
 
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found at https://fundrasing.aragon.black .
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
 
 **Ecosystem Fund**
@@ -153,6 +154,7 @@ However, if developers aren’t paid ANY native token, then incentives aren’t 
 The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
 
 Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+
 
 
 **Final Words**
