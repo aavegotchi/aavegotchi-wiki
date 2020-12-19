@@ -24,6 +24,11 @@ When you're done reading this and hopefully have a better understanding of these
 **Contents**
 
 <ol>
+<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#frens>FRENS</a></p>
+<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#collateral>Collateral</a></p>
@@ -40,14 +45,23 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#nft>NFT</a></p>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
-<p><a href=#frens>FRENS</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#wearables>Wearables</a></p>
 </ol>
 
 </div>
+
+## Aavegotchi-related
+
+### FRENS
+Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+
+### Spirit Force
+Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+
+### Spirit Point
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+
+### Wearables
+Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
 
 ## DeFi 101
 
@@ -159,16 +173,3 @@ NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning i
 
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
-## Aavegotchi-related
-
-### FRENS
-Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
-
-### Spirit Force
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
-
-### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
-
-### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
