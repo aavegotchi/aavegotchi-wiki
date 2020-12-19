@@ -8,7 +8,7 @@ contributors: ["cinnabarhorse"]
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/wearables/link/sergey-blue.svg">
+<img class="headerImage" src="/wearables/sergey-blue.png">
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 

@@ -9,7 +9,7 @@ contributors: ["unintelligent-nerd"]
 
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/atokens/aETH.svg">
+<img class="headerImage" src="/atokens/aETH.png">
 <p class="headerImageText">The aETH aToken</p>
 </div>
 

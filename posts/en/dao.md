@@ -7,7 +7,7 @@ image: "icons/dao.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/dao.svg">
+<img class="headerImage" src="/dao/dao.png">
 <p class="headerImageText">The AavegotchiDAO Crest</p>
 </div>
 
