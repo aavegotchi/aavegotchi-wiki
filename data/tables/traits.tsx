@@ -28,17 +28,34 @@ export const tables
         },
 
         {
-            tableName: "TraitsByRarity",
+            tableName: "TraitsByRarity1",
             tableCaption: "Aavegotchi Personal Traits by Rarity",
             tableData: {
-                headers: ["Trait", "Mythical(L)", "Rare(L)", "Uncommon(L)", "Common", "Uncommon(H)", "Rare(H)", "Mythical(H)"],
+                headers: ["Trait", "Mythical(L)", "Rare(L)", "Uncommon(L)", "Common"],
                 data: [
-                    ["Energy", "Zen", "Serene", "Sleepy", "Calm", "Energetic", "Hyper", "Turnt"],
-                    ["Aggressiveness", "Nonviolent", "Peaceful", "Gentle", "Neutral", "Combative", "Warlike", "Based"],
-                    ["Spookiness", "Cuddly", "Impish", "Unnerving", "Scary", "Creepy", "Terrifying", "Ghastly"],
-                    ["Brain Size", "Smol", "Tiny", "Small", "Normal", "Big", "Huge", "Galaxy"],
-                    ["Eye Shape", "Single Dot", "Flat Line", "T Eyes", "Round Eyes", "Anime Eyes", "Awesome Eyes", "Collateral"],
-                    ["Eye Color", `<img src="/traits/eye-colour/mythical_low.svg" />`, `<img src="/traits/eye-colour/rare_low.svg" />`, `<img src="/traits/eye-colour/uncommon_low.svg" />`, "*Collateral Colour", `<img src="/traits/eye-colour/uncommon_high.svg" />`, `<img src="/traits/eye-colour/rare_high.svg" />`, `<img src="/traits/eye-colour/mythical_high.svg" />`],
+                    ["Energy", "Zen", "Serene", "Sleepy", "Calm"],
+                    ["Aggressiveness", "Nonviolent", "Peaceful", "Gentle", "Neutral"],
+                    ["Spookiness", "Cuddly", "Impish", "Unnerving", "Scary"],
+                    ["Brain Size", "Smol", "Tiny", "Small", "Normal"],
+                    ["Eye Shape", "Single Dot", "Flat Line", "T Eyes", "Round Eyes"],
+                    ["Eye Color", `<img src="/traits/eye-colour/mythical_low.svg" />`, `<img src="/traits/eye-colour/rare_low.svg" />`, `<img src="/traits/eye-colour/uncommon_low.svg" />`, "*Collateral Colour"],
+
+                ]
+            }
+        },
+		
+		        {
+            tableName: "TraitsByRarity2",
+            tableCaption: "Aavegotchi Personal Traits by Rarity (Continued)",
+            tableData: {
+                headers: ["Trait", "Common", "Uncommon(H)", "Rare(H)", "Mythical(H)"],
+                data: [
+                    ["Energy", "Calm", "Energetic", "Hyper", "Turnt"],
+                    ["Aggressiveness", "Neutral", "Combative", "Warlike", "Based"],
+                    ["Spookiness", "Scary", "Creepy", "Terrifying", "Ghastly"],
+                    ["Brain Size", "Normal", "Big", "Huge", "Galaxy"],
+                    ["Eye Shape", "Round Eyes", "Anime Eyes", "Awesome Eyes", "Collateral"],
+                    ["Eye Color", "*Collateral Colour", `<img src="/traits/eye-colour/uncommon_high.svg" />`, `<img src="/traits/eye-colour/rare_high.svg" />`, `<img src="/traits/eye-colour/mythical_high.svg" />`],
 
                 ]
             }

@@ -34,7 +34,10 @@ Aavegotchis possess six traits initially, although these may be extended in the 
 
 Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game. 
 
-table_TraitsByRarity
+The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart *
+
+table_TraitsByRarity1
+table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDai, sky blue for aAave, purple for aETH etc. </i></p>
 
