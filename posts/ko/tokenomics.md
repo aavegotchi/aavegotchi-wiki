@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">gatsbygotchi: "wEn GHST $5???"</p>
+<p class="headerImageText">wEn GHST $5???</p>
 </div>
 
 Tokenomics? Who even cares? WeN mOoN??
@@ -97,7 +97,9 @@ What happens to all the GHST spent on portals and wearables?
 
 We've made a handy diagram that briefly breaks it down for you:
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/tokenomics/ghstcircle.png" alt = "ghstcircle" width = "750" />
+<div class="centerImageContainer">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "ghstcircle">
+</div>
 
 Read on to learn about the various allocations in more detail.
 
