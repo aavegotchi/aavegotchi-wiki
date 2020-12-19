@@ -1,23 +1,49 @@
 ---
-author: Coder Dan
+author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tokenomics'
 description: 'The Tokenomics of Aavegotchi GHST Token'
+image: "IMAGE HERE"
+contributors:
+  - "appellants"
 ---
 
-Tokenomics? Who even cares? WeN mOoN?? wEN GHST $5???
+<div class="headerImageContainer">
+<img src="/faq/faq.png" class="headerImage">
+<p class="headerImageText">wEn GHST $5???</p>
+</div>
 
-We hear you, Moonbois. But if you’re planning to invest in a project like GHST, it’s important to think about how the broader ecosystem works.
+Tokenomics? Who even cares? WeN mOoN??
 
-That’s precisely what Tokenomics is – understanding a particular token or coin’s network from its genesis to management, with the ultimate aim of incentivizing positive behaviour in the network.
+We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
 
-GHST, Aavegotchi’s native governance token, will be distributed in two main phases. These are the initial token distribution phase, and later on through governance rewards and rarity farming.
+Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
 
+<ul><p style="margin-left: 2.4em"><b><li>Creting a healthy pay-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
 
+This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
 
-**Phase 1: GHST’s Token Distribution**
+<div class="contentsBox">
 
-In this phase, GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
+**Contents**
+
+<ol>
+<li><a href=#token-distribution>Token Distribution</a></li>
+<p><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></p>
+<p><a href=#rarity-farming>Rarity Farming</a></p>
+<p><a href=#dao-governance>DAO Governance</a></p>
+<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
+<p><a href=#development-team>Development Team</a></p>
+</ol>
+
+</div>
+
+## Token Distribution
+
+GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
 
 
 **The Private Sale**
@@ -65,16 +91,67 @@ The Team Fund consists of 1, 000, 000 GHST locked according to the same schedule
 
 Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
+## Revenue Sharing Overview
+
+What happens to all the GHST spent on portals and wearables?
+
+We've made a handy diagram that briefly breaks it down for you:
+
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/tokenomics/ghstcircle.png" alt = "ghstcircle" width = "750" />
+
+Read on to learn about the various allocations in more detail.
 
 
-**Phase 2: Governance Rewards and Rarity Farming in the Ecosystem**
+## Rarity Farming
 
-More information on governance rewards and rarity farming can be found under RARITY FARMING SECTiON LINK + DAO LINK.
+A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
 
-As a quick point of reference though, here’s a handy diagram that provides an overview of the system.
+To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
 
-(that ecosystem diagram with the arrows here.)
+Initially, there will be three categories of Player Rewards:
 
+<ul><p style="margin-left: 2.4em"><b><li>Top 100 Rarest Aavegotchis (by BRS)</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Top 100 Kinship Scores</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Top 100 Experience (XP)</li></b></p></ul>
+
+More categories will be added, as the game continues to develop.
+
+These rewards will be distributed **every two weeks** via onchain snapshots.
+
+
+## DAO Governance
+
+Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasure, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+
+**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, thie percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+
+
+## BURN BABY BURN
+
+As a prelude, it would be good to get yourself acquainted with GHST's bonding curve and how it works. Then, the fun begins.
+
+**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+
+This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed suply.
+
+Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+
+Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the DAICO Tap Mechanism.
+
+
+## Development Team
+
+Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+
+That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+
+When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+
+However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+
+The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
+
+Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
 
 
 **Final Words**
