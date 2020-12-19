@@ -1,8 +1,10 @@
 ---
-author: Coder Dan
+author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
 description: 'All about Aavegotchi Portals'
+contributors:
+  - "appellants"
 image: "portals/portal.gif"
 ---
 
