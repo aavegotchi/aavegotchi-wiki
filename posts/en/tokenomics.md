@@ -9,7 +9,7 @@ contributors: ["appellants"]
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">gatsbygotchi: "wEn GHST $5???"</p>
+<p class="headerImageText">wEn GHST $5???</p>
 </div>
 
 Tokenomics? Who even cares? WeN mOoN?? 
