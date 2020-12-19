@@ -7,7 +7,7 @@ description: 'Stake GHST, Make FRENS'
 
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/staking.svg">
+<img class="headerImage" src="/staking/staking.png">
 <p class="headerImageText">Stake GHST, Make FRENS!</p>
 </div>
 
