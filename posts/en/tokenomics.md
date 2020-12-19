@@ -24,6 +24,7 @@ Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goa
 <ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
 
 
+
 This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
@@ -99,7 +100,11 @@ What happens to all the GHST spent on portals and wearables?
 
 We've made a handy diagram that briefly breaks it down for you:
 
+
+<div class="centerImageContainer">
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/tokenomics/ghstcircle.png" alt = "ghstcircle" width = "750">
+</div>
+
 
 Read on to learn about the various allocations in more detail.
 
