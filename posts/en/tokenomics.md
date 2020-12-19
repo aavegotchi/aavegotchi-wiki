@@ -102,7 +102,7 @@ We've made a handy diagram that briefly breaks it down for you:
 
 
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics.ghstcircle.png" alt = "ghstcircle">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "ghstcircle">
 </div>
 
 
