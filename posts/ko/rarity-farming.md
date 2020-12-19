@@ -18,7 +18,7 @@ contributors:
 
 Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
-This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more, fren!
+This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
 
 <div class="contentsBox">
 
@@ -26,7 +26,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 
 <ol>
 <li><a href=#how-do-i-rarity-farm>How Do I Rarity Farm?</a></p>
-<li><a href=#calculating-rarity>Calculating Rarity</a></p>
+<li><a href=#calculating-rarity>Calculating Rarity</a></li>
 <p><a href=#base-rarity-score>Base Rarity Score</a></p>
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
 <p> <a href=#final-rarity-score>Final Rarity Score</a></p>
@@ -35,16 +35,14 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 
 </div>
 
-Rarity farming, as the name suggests, is where you farm for the rarest Aavegotchis, and get rewarded in GHST for training Aavegotchis with the highest <a href=#final-rarity-score>Final Rarity Score</a>!
-
-## **How Do I Rarity Farm**
+## **How Do I Rarity Farm?**
 There are several ways you can engage in the rarity farming exercise. These include:
 
-<ul><p style="margin-left: 2.4em"><b><li>Carefully selecting an Aavegotchi with rare [traits](https://wiki.aavegotchi.com/en/traits) during the summoning process</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Equipping [wearables]((https://wiki.aavegotchi.com/en/wearables) to modify the traits of your Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Carefully selecting an Aavegotchi with rare traits during the summoning process</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Equipping wearables to modify the traits of your Aavegotchi</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Engaging in minigames</li></b></p></ul>
 
-For more information on each process, just follow the links to the respective pages.
+For more information on each process, just follow the links to the respective pages on the sidebar.
 
 That said, the rarity level of a single Aavegotchi is dynamic and will change over time, as the distribution of traits and wearables in the Aavegotchi universe changes. In other words, it isn't enough to simply max out a particular trait in your Aavegotchi. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a war-like gotchi with high aggression scores, this trait becomes less rare, and your Aavegotchi's rarity level goes down.
 
