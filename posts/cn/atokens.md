@@ -10,7 +10,7 @@ contributors:
 
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/atokens/aETH.svg">
+<img class="headerImage" src="/atokens/aETH.png">
 <p class="headerImageText">关于aTokens</p>
 </div>
 
