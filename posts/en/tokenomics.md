@@ -103,7 +103,6 @@ We've made a handy diagram that briefly breaks it down for you:
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "ghstcircle">
 </div>
 
-
 Read on to learn about the various allocations in more detail.
 
 
