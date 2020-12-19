@@ -9,7 +9,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/rarity-farming.svg">
+<img class="headerImage" src="/rarity-farming/rarity-farming.png">
 <p class="headerImageText">A Rarity Farmer</p>
 </div>
 
