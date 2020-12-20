@@ -76,16 +76,9 @@ Why the huge difference in the number of FRENS earned through this method? Staki
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/bulk-buy) to purchase raffle tickets with FRENS.
 
-There are six different levels of raffle tickets:
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
-<img class = "bodyImage" src = "/staking/raffletickets.png" alt = "Aavegotchi Raffle Tickets" />
-
-- 每张普通抽奖券票价为50积分点。 将普通抽奖券放到抽奖池中，将有机会获得一个普通等级的奖品。 一个普通奖品是最丰富和最寻常的奖品。
-- 每张罕见的奖券都要花费250积分。 将罕见抽奖券放到抽奖池中，将有机会获得一个罕见等级的奖品。 一个罕见的奖品比一个普通奖品难得。
-- 每张稀有的奖券费用为500积分。 将稀有抽奖券放到抽奖池中，将有机会获得一个稀有等级的奖品。 一个稀有的奖品比一个罕见的奖品更稀有。
-- 每张传奇奖券花费2500积分。 将传奇抽奖券放到抽奖池中，将有机会获得一个传奇等级的奖品。  一个稀有的奖品比一个罕见的奖品更罕见。
-- 每张神话奖券花费10000积分。 将神话抽奖券放到抽奖池中，将有机会获得一个神话等级的奖品。 一个神话的奖品比一个传奇的奖品更稀有。
-- 每张创世级奖券花费50000积分。 将创世抽奖券放到抽奖池中，将有机会获得一个创世等级的奖品。 一个创世的奖品比一个神话的奖品更稀有。
+table_RaffleTickets
 
 Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
@@ -94,9 +87,9 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. When the raffle is over, you can find out what prizes you have won and can claim them. If you choose not to participate in a given Raffle, this option is also possible. You can accumulate Raffle Tickets for subsequent Raffles if you like to do so.
 
-The first raffle (Chainlink Theme) started on 10 November 2020 and ran for 3 days. Here were the prizes for the raffle:
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Chainlink Aavegotchi Raffle Prizes" />
+<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
 A total of 6010 prizes.
 
@@ -110,6 +103,6 @@ The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual A
 
 ## More Resources
 
-- [Aavegotchi 抽奖——免费指南](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink 抽奖 — 你获胜了吗？](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon和他的绿色奖券](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
