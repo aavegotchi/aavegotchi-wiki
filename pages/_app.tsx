@@ -4,6 +4,7 @@ import Head from 'next/head'
 import NextStyledNavBar from '../components/NextComponents/NextStyledNavBar'
 import '../css/fonts.css'
 import '../css/styles.css'
+import BackToTopButton from '../components/BackToTop'
 
 
 class MyApp extends App {
@@ -34,6 +35,7 @@ class MyApp extends App {
 
 
 
+                <BackToTopButton />
 
 
                 <Component {...pageProps} />

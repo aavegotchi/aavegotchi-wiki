@@ -191,13 +191,16 @@ a:hover {
 }
 
 .backToTop {
+    position: fixed;
 	border: solid 1px;
 	background-color: #FA34F3;
-	color: white;
-	float: right;
-	padding: 10px;
+    color: white;
+    width: 44px;
+    height: 44px;
+	border-radius: 100%;
 	right: 20px;
-	bottom: 20px;
+    bottom: 20px;
+    z-index: 9;
 }
 
 .latestCommit {
