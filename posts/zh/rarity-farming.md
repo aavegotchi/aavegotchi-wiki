@@ -25,7 +25,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 **内容**
 
 <ol>
-<li><a href=#how-do-i-rarity-farm>How Do I Rarity Farm?</a></p>
+<li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
 <li><a href=#calculating-rarity>Calculating Rarity</a></li>
 <p><a href=#base-rarity-score>Base Rarity Score</a></p>
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
@@ -38,9 +38,11 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 ## **How Do I Rarity Farm?**
 There are several ways you can engage in the rarity farming exercise. These include:
 
-<ul><p style="margin-left: 2.4em"><b><li>Carefully selecting an Aavegotchi with rare traits during the summoning process</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Equipping wearables to modify the traits of your Aavegotchi</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Engaging in minigames</li></b></p></ul>
+* **Carefully selecting an Aavegotchi with rare traits during the summoning process**
+
+* **Equipping [wearables](/posts/wearables) to modify the traits of your Aavegotchi**
+
+* **Engaging in minigames**
 
 For more information on each process, just follow the links to the respective pages on the sidebar.
 
