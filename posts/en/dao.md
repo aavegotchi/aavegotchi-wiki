@@ -41,12 +41,11 @@ Token holders will not receive rewards in GHST for active participation in this 
 
 ## Metamorphosis
 
- Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of AavegotchiDAO, such as the total supply of Aavegotchis, adding new collaterals and deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO OASIS, the AavegotchiDAO will again vote to perform the migration.
+Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of AavegotchiDAO, such as the total supply of Aavegotchis, adding new collaterals and deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO OASIS, the AavegotchiDAO will again vote to perform the migration.
 
- A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
 
 Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
-AavegotchiDAO (Oasis)
 
 ## Oasis
 
