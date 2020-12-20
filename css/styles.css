@@ -190,6 +190,16 @@ a:hover {
     height: 50px;
 }
 
+.backToTop {
+	border: solid 1px;
+	background-color: #FA34F3;
+	color: white;
+	float: right;
+	padding: 10px;
+	right: 20px;
+	bottom: 20px;
+}
+
 .latestCommit {
     margin-top:-30px;
     margin-bottom:15px;
