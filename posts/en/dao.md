@@ -4,6 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
 description: 'All about AavegotchiDAO'
 image: "icons/dao.svg"
+contributors: ["vanilladelphia", "cinnabarhorse"]
 ---
 
 <div class="headerImageContainer">
@@ -25,6 +26,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#genesis>Genesis</a></li>
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
+<li><a href=#participating-in-governance>Participating in Governance</a></li>
 </ol>
 
 </div>
@@ -51,3 +53,8 @@ AavegotchiDAO (Oasis)
 Although AavegotchiDAO OASIS is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
 
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+
+## Participating in Governance
+I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+
+More details will be fleshed out once the game releases!
