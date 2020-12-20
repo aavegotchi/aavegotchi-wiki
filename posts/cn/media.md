@@ -11,6 +11,8 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/RbVr_we7cgE?start=35946" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/2GY5wKa_4d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/cbUO9yb2bjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
