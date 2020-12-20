@@ -74,16 +74,9 @@ Why the huge difference in the number of FRENS earned through this method? Staki
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/bulk-buy) to purchase raffle tickets with FRENS.
 
-There are six different levels of raffle tickets:
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
-<img class = "bodyImage" src = "/staking/raffletickets.png" alt = "Aavegotchi Raffle Tickets">
-
-- Each common ticket costs 50 frens. Entering a common ticket into a raffles gives a chance of winning a common prize. A common prize is the most plentiful and least rare prize in a raffle.
-- Each uncommon ticket costs 250 frens. Entering an uncommon ticket into a raffles gives a chance of winning an uncommon prize. An uncommon prize is more rare than a common prize in a raffle.
-- Each rare ticket costs 500 frens. Entering a rare ticket into a raffles gives a chance of winning a rare prize. An rare prize is more rare than an uncommon prize in a raffle.
-- Each legendary ticket costs 2500 frens. Entering a legendary ticket into a raffles gives a chance of winning a legendary prize. A legendary prize is more rare than a rare prize in a raffle.
-- Each mythical ticket costs 10,000 frens. Entering a mythical ticket into a raffles gives a chance of winning a mythical prize. A mythical prize is more rare than a legendary prize in a raffle.
-- Each godlike ticket costs 50,000 frens. Entering a godlike ticket into a raffles gives a chance of winning a godlike prize. A godlike prize is more rare than a mythical prize in a raffle.
+table_RaffleTickets
 
 Blog post: [Stake GHST, Make FRENS Live on Ethereum Mainnet!](
 https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
@@ -93,9 +86,9 @@ https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. When the raffle is over, you can find out what prizes you have won and can claim them. If you choose not to participate in a given Raffle, this option is also possible. You can accumulate Raffle Tickets for subsequent Raffles if you like to do so.
 
-The first raffle (Chainlink Theme) started on 10 November 2020 and ran for 3 days. Here were the prizes for the raffle:
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Chainlink Aavegotchi Raffle Prizes">
+<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes">
 
 A total of 6010 prizes.
 
