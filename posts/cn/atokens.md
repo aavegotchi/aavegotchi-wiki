@@ -8,6 +8,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<a name="top"></a>
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.png">
@@ -71,3 +72,5 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
 As soon as you deposit, you benefit from the deposit interest rate.
+
+<a class = "backToTop" href = #top>Back to top</a>
