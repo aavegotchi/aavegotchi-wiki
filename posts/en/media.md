@@ -22,6 +22,9 @@ Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbUO9yb2bjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020)
+<iframe src="https://anchor.fm/andrew-steinwold/embed/episodes/Jesse--Dan-from-Aavegotchi---Challenging-The-NFT-Status-Quo---Zima-Red-ep-41-en5go5/a-a404hd4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 ### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6EJPkRlX7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
