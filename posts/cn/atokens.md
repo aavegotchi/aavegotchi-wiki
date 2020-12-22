@@ -15,7 +15,7 @@ contributors:
 
 aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 Atokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。 请参阅 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多关于Aave议定的信息。
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get dem.
+So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
 <div class="contentsBox">
 
@@ -69,4 +69,4 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as you deposit, you benefit from the deposit interest rate.
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
