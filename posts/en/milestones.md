@@ -6,6 +6,10 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
+* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
+* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+
 ## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
 * Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
 
