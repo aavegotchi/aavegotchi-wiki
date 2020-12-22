@@ -42,6 +42,8 @@ Once you have some GHST tokens, it is time to stake them!
 
 There are two ways to stake: (1) staking GHST tokens, and/or (2) staking Uniswap GHST-ETH LP tokens.
 
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+
 ### Staking GHST tokens
 This is the most straightforward way to stake GHST tokens. Head over to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
 
