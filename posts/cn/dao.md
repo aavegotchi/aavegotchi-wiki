@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">The AavegotchiDAO Crest</p>
 </div>
 
-A DAO is a decentralized form of governence, which allows token holders to vote in order to shape the way the organization makes decisions.
+A DAO is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
 
 Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
 
