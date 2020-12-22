@@ -28,6 +28,10 @@ export const items: Category[] = [
                 href: "ghst"
             },
             {
+                name: "Tokenomics",
+                href: "tokenomics"
+            },
+            {
                 name: "Bonding Curve",
                 href: "curve"
             },
