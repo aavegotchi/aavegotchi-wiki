@@ -52,11 +52,11 @@ That said, the rarity level of a single Aavegotchi is dynamic and will change ov
 
 There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
 
-## Base Rarity Score
+### Base Rarity Score
 
 Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits and equipped wearables.
 
-### Trait BRS
+#### Trait BRS
 
 BRS of the Aavegotchi's traits is derived using the following formula:
 
@@ -64,15 +64,15 @@ BRS of the Aavegotchi's traits is derived using the following formula:
 <p style="margin-left: 4.8em"><i>If trait value is more than or equal to 50, BRS = trait value. </i></p> 
 <p style="margin-left: 4.8em"><i>If trait value is less than 50, BRS = 100 - trait value. </i></p>
 
-### Wearables BRS
+#### Wearables BRS
 
 Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
 
-## Absolute Rarity Score
+### Absolute Rarity Score
 
 Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
-## Final Rarity Score
+### Final Rarity Score
 
 <b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
 
