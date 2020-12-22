@@ -25,7 +25,7 @@ Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-di
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#Realm>Realm Activities</a></li>
@@ -61,7 +61,7 @@ The Aavegotchi Realm is expanding as we speak. Here are just a few of the activi
 
 In the Gotchiverse,* you’ll also be able to contribute your own creations to the Aavegotchi experience! **REALM parcels** will be purchasable in the Aavegotchi store. You’ll be able to decorate your parcel via the Aavegotchi scene builder, and even add dApps to your land that can be used to interact with all kinds of other smart contracts. If that weren't enough, REALM parcels can also be **enhanced by staking GHST to unlock new features.**
 
-Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" width="70" height="60" />
+Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" alt = "aavegotchi" width="70" height="60" />
 
 <p style="font-size:13px; font-style:italic;">*The Aavegotchi metaverse, or Gotchiverse, both refer to what is officially named the "Aavegotchi Realm." </a></p>
 

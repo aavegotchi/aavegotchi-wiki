@@ -1,8 +1,10 @@
 ---
-author: Coder Dan
+author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
 description: 'All about Aavegotchi Portals'
+contributors:
+  - "appellants"
 image: "portals/portal.gif"
 ---
 
@@ -19,7 +21,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
@@ -32,16 +34,28 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 ## Buying a Portal
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as OpenSea.
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10, 000 Portals up for grabs. After this, the AavegotchiDAO will continue to vote on decisions relating to separate haunts.
+If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10, 000 Portals up for grabs. After this, the AavegotchiDAO will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Opening your Portal
 
-Sweet! You’ve got your hands on a portal. Select your portal under ‘My Portals, then send a transaction to open it. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm.
+Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-With the help of [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/), these Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
+Whenever a player purchases a Portal, it is automatically entered into a batch. This allows Portals to be grouped in a single batch, that can be executed with a single [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) call. When this is executed, all Portals in that batch will be assigned a random number via the aforementioned VRF, ensuring that the Aavegotchi's traits will be provably random.
+
+If you're not ready to summon your Aavegotchi immediately, that's okay too. (For instance, you might be thinking of selling your portal, or just holding on to it for a while.) You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the batch, and then wait for the Summoning Ritual to happen.
+
+Here's a handy flow chart that summarizes the process:
+
+
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "portal-flow" width = "750" />
+
+
+When the Summoning Ritual is done, you will need to submit one more transaction to open your portal and claim your friend. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
+
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 

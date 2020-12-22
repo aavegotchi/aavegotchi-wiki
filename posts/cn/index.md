@@ -27,7 +27,7 @@ image: "icons/introduction.svg"
 
 ## 其它有用链接
 
-* [团队](https://wiki.aavegotchi.com/team) -- 查看Aavegotchi的创建团队
+* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
 * [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi的最新路线图。
 
 

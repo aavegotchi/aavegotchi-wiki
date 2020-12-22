@@ -4,6 +4,9 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
 description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
 image: "IMAGE HERE"
+contributors:
+  - "appellants"
+  - "eris771"
 ---
 
 <div class="headerImageContainer">
@@ -18,29 +21,49 @@ When you're done reading this and hopefully have a better understanding of these
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#DeFi>DeFi 101</a></li>
-<p><a href="#apy">APY</a></p>
-<p><a href="#collateral">Collateral</a></p>
-<p><a href="#dao">DAO</a></p>
-<p><a href="#dex">DEX</a></p>
-<p><a href="#flash-loans">Flash Loans</a></p>
-<p><a href="#impermanent-loss">Impermanent Loss</a></p>
-<p><a href="#liquidity-pools">Liquidity Pools</a></p>
-<p><a href="#oracles">Oracles</a></p>
-<p><a href="#smart-contracts">Smart Contracts</a></p>
-<p><a href="#staking">Staking</a></p>
-<p><a href="#yield-farming">Yield Farming</a></p>
-<li><a href="#general-terms&quot;">General Terms</a></li>
-<p><a href="#metaverse">Metaverse</a></p>
-<p><a href="#nft">NFT</a></p>
+<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#frens>FRENS</a></p>
+<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#wearables>可穿戴裝備</a></p>
+<li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#apy>APY</a></p>
+<p><a href=#collateral>Collateral</a></p>
+<p><a href=#dao>DAO</a></p>
+<p><a href=#dex>DEX</a></p>
+<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#impermanent-loss>Impermanent Loss</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#oracles>Oracles</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#staking>Staking</a></p>
+<p><a href=#yield-farming>Yield Farming</a></p>
+<li><a href=#general-terms>General Terms</a></li>
+<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#metaverse>Metaverse</a></p>
+<p><a href=#nft>NFT</a></p>
 </ol>
 
 </div>
 
-## DeFi
+## Aavegotchi-related
+
+### FRENS
+Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+
+### Spirit Force
+Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+
+### Spirit Point
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+
+### 可穿戴裝備
+Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+
+## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decetralized manner with no middle man.
 
@@ -58,13 +81,15 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 
 ### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money frmo them. If you cannot pay back your loean, your collateral will be used to pay your debt.
+Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
 In the context of DeFi, this is how things might look:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as colalteral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+
+In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 
 
@@ -92,17 +117,17 @@ Remember what we mentioned above about loans and collaterals? Well, flash loans 
 
 The flash loan has to be repaid within the same transaction block.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point.
+If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-Impermanent loss occurs when you provide liquidity to a pool (see "Liquidity Pools"), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
+Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
 ### Liquidity Pools
-The term is somewhat self explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
@@ -132,6 +157,9 @@ This can happen in a variety of ways, but the most common mechanism is when depo
 
 ## General Terms
 
+### Bell Curve
+A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+
 ### Metaverse
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
@@ -143,4 +171,5 @@ Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/met
 
 NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.  
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+

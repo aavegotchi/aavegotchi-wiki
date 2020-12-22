@@ -9,7 +9,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/wearables/link/sergey-blue.svg">
+<img class="headerImage" src="/wearables/sergey-blue.png">
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
@@ -19,12 +19,15 @@ This page contains detailed information about every wearable that has been confi
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#key>Key</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
+<li><a href=#aave-themed-set>Rafle 3 Wearables</a></li>
+<li><a href="#aagent-wearables">Aagent Wearables</a></li>
+<li><a href="#aagent-wearables">OKex Wearables</a></li>
 </ol>
 
 </div>
@@ -42,17 +45,40 @@ Aavegotchis have four traits that can be modified by wearables.
 
 See [Traits](https://wiki.aavegotchi.com/traits) for more about this topic.
 
-<hr />
+## Wearables BRS
+
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+
+table_wearablesBRStable
 
 
-# LINK Themed Set
+# Pre-Launch Wearables
+
+
+## LINK Themed Set
 
 Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
-# Aave Themed Set
+## Aave Themed Set
 
 The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
+
+## Raffle 3 Wearables
+
+Coming soon!
+
+## Aagent Wearables Set
+
+Coming soon!
+
+## OKex Wearables
+
+Coming soon!
+
+# Shop Wearables
+
+Coming soon!

@@ -6,37 +6,57 @@ description: 'Everything you need to know about Rarity Farming!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "appellants"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/rarity-farming.svg">
+<img class="headerImage" src="/rarity-farming/rarity-farming.png">
 <p class="headerImageText">A Rarity Farmer</p>
 </div>
 
-Rarity farming, as the name suggests, is where you farm for the rarest Aavegotchis, and get rewarded in GHST for training Aavegotchis with the highest <a href=#final-rarity-score>Final Rarity Score</a>!
+**Introduction**
 
-The rarity of the Aavegotchi is determined by the rareness of the Aavegotchi's [traits](https://wiki.aavegotchi.com/en/traits) and the [wearables](https://wiki.aavegotchi.com/en/wearables)  that it equips. However, the rarity of a single Aavegotchi can change over time as the overall distribution of the traits and wearables in the Aavegotchi universe changes. All of these are the core of the rarity farming concept.
+Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
-There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
+This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#base-rarity-score>Base Rarity Score</a></li>
-<li><a href=#absolute-rarity-score>Absolute Rarity Score</a></li>
-<li> <a href=#final-rarity-score>Final Rarity Score</a></li>
+<li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
+<li><a href=#calculating-rarity>Calculating Rarity</a></li>
+<p><a href=#base-rarity-score>Base Rarity Score</a></p>
+<p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
+<p> <a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Rewards</a></li>
 </ol>
 
 </div>
 
-## Base Rarity Score
+## **How Do I Rarity Farm?**
+There are several ways you can engage in the rarity farming exercise. These include:
+
+* **Carefully selecting an Aavegotchi with rare traits during the summoning process**
+
+* **Equipping [wearables](/posts/wearables) to modify the traits of your Aavegotchi**
+
+* **Engaging in minigames**
+
+For more information on each process, just follow the links to the respective pages on the sidebar.
+
+That said, the rarity level of a single Aavegotchi is dynamic and will change over time, as the distribution of traits and wearables in the Aavegotchi universe changes. In other words, it isn't enough to simply max out a particular trait in your Aavegotchi. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a war-like gotchi with high aggression scores, this trait becomes less rare, and your Aavegotchi's rarity level goes down.
+
+## **Calculating Rarity**
+
+There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
+
+### Base Rarity Score
 
 Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits and equipped wearables.
 
-### Trait BRS
+#### Trait BRS
 
 BRS of the Aavegotchi's traits is derived using the following formula:
 
@@ -44,15 +64,15 @@ BRS of the Aavegotchi's traits is derived using the following formula:
 <p style="margin-left: 4.8em"><i>If trait value is more than or equal to 50, BRS = trait value. </i></p> 
 <p style="margin-left: 4.8em"><i>If trait value is less than 50, BRS = 100 - trait value. </i></p>
 
-### Wearables BRS
+#### Wearables BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare wearables yield 10 BRS and godlike wearables 50 BRS (values to be confirmed). More information on wearable's contribution to BRS will be shared once it's available!
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
 
-## Absolute Rarity Score
+### Absolute Rarity Score
 
 Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
-## Final Rarity Score
+### Final Rarity Score
 
 <b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
 

@@ -27,7 +27,7 @@ image: "icons/introduction.svg"
 
 ## 다른 유용한 페이지들
 
-* [팀](https://wiki.aavegotchi.com/team) -- 아베고치를 만들어가는 사람들
+* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
 * [로드맵](https://wiki.aavegotchi.com/roadmap) -- 아베고치의 최신 로드맵
 
 
