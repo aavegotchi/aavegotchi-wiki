@@ -12,13 +12,13 @@ contributors:
 <p class="headerImageText">Hê lô mấy cưng!</p>
 </div>
 
-Chào mừng các bợn đến với đại gia đình Aavegotchi! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
+Chào mừng các bợn đến với đại gia đình Aavegotchi! Cộng đồng chúng tôi là một hội những người phát cuồng vì Aavegotchi. Bọn mình hoạt động trên nhiều kênh khác nhau nên các bạn có thể dễ dàng tìm cho mình một nền tảng phù hợp nhất - nhưng hãy chắc chắn là bạn sẽ ghé thăm Discord nếu bạn muốn được phong chức thành Aavegotchi Aagent (Điệp viên Aavegotchi)! Aavegotchi lAavegent à một phần chủ chốt trong cộng đồng chúng tôi, với những kiến thức chuyên sâu về Aavegotchi và những phụ kiện Điệp viên xịn xò. Hãy đọc thêm nhiều thông tin để biết cách trở thành một Aagent, cũng như hàng tá cách để giao lưu với những người bạn Gochigang nhắn nhít ngoài kia.
 
 <a name="Discord"></a>
 
 <div class="contentsBox">
 
-**Contents**
+**Nội dung**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
@@ -32,7 +32,7 @@ Chào mừng các bợn đến với đại gia đình Aavegotchi! Our community
 
 &nbsp;
 
-<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a>
+<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Tham gia với chúng tôi trên Discord**</a>
 
 <p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>almost 6,000 members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
  fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
