@@ -16,7 +16,7 @@ contributors:
 
 DAO là một dạng quản trị phi tập trung cho phép người nắm giữ token có quyền vote để định hình cho các quyết định của một tổ chức.
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Aavegotchi nối gót những giao thức DeFi thành công như Compound và Synthetix bằng tiến trình "phân tán từng bậc", bắt đầu với team sáng lập, Pixelcraft Studios, những người đã tổ chức sự kiện phân bổ token được quản trị bởi DAO (DAICO) và đạt đỉnh điểm khi quyền quản trị trò chơi Aavegotchi, bao gồm tất cả các cơ chế, hợp đồng thông minh, và ngân quỹ, được trao lại dưới sự bảo hộ của AavegotchiDAO, nhưng phải luôn tuân theo môi trường pháp lý. Điều này sẽ được hoàn thành trong ba giai đoạn.
 
 <div class="contentsBox">
 
@@ -33,15 +33,15 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 
 ## Genesis
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*Xem* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders can vote on increasing/decreasing a “tap” mechanism that transfers funds from the token bonding curve (TBC) reserve to Pixelcraft to support development. When the time comes to migrate at AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+Vòng lặp đầu tiên của AavegotchiDAO đã được triển khai cùng lúc với sự kiện phân bổ của token GHST. Người nắm giữ token GHST có thể vote cho việc tăng/giảm một cơ chế "tap" để chuyển ngân quỹ từ quỹ dự trữ của token bonding curve (TBC) sang cho Pixelcraft để hỗ trợ quá trình phát triển. Khi đã đến lúc để chuyển đến giai đoạn AavegotchiDAO Metamorphosis, người nắm giữ token cũng sẽ vote để việc dịch chuyển được diễn ra.
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Người nắm giữ token sẽ không nhận được phần thưởng ở dạng GHST vì đã chủ động tham gia vào vòng lặp này của AavegotchiDAO.
 
 ## Metamorphosis
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of AavegotchiDAO, such as the total supply of Aavegotchis, adding new collaterals and deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO OASIS, the AavegotchiDAO will again vote to perform the migration.
+Metamorphosis là vòng lặp thứ 2 của AavegotchiDAO, và giữ vai trò quản trị những cơ chế game đơn giản của AavegotchiDAO, ví dụ như tổng cung của Aavegotchis, bổ sung những loại tài sản ký quỹ mới và quyết định đối với những tính năng, và thêm vào những trang bị được tạo ra bởi cộng đồng. When the time comes to migrate to AavegotchiDAO OASIS, the AavegotchiDAO will again vote to perform the migration.
 
 A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
 
