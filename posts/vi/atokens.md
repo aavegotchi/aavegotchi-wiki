@@ -51,9 +51,9 @@ table_cryptocurrencies
 
 *The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+Đây là một trong những tuỳ chọn được liên kết với ví tiền điện tử của bạn, tuỳ thuộc vào loại ví mà bạn sở hữu. Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
