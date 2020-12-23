@@ -34,16 +34,12 @@ Chào mừng các bợn đến với đại gia đình Aavegotchi! Cộng đồn
 
 <a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Tham gia với chúng tôi trên Discord**</a>
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>almost 6,000 members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
- fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
-Our Discord is also a great spot for anyone with general questions, not so general questions, those who need technical support, or any frens who want to just 
-pop in and chat. </p>
+<p style="margin-left: 4.8em">Đại gia đình Aavegotchi trên Discord có <b> gần 6000 thành viên siêu khủng long </b>, Với những ai chưa quen với Gotchi, kênh Discord sẽ là nơi tuyệt vời nhất, với một gia tài thông tin đồ sộ về dự án Aavegotchi cũng như những Aavegotchi Aaprentices (Aavegotchi Tập sự) thân thiết, Trợ lý của riêng bọn mình, và một cộng đồng thành viên vô cùng tốt bụng.  
+Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho những ai những câu hỏi chung, những câu không được chung cho lắm, những ai cần sự hỗ trợ kỹ thuật và bất kể những bồ tèo nào chỉ muốn tham gia để chat chít cho vui. </p>
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
-is currently slated for late December, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
+<p style="margin-left: 4.8em">Mà đặc biệt nha, cũng <b> CHỈ CÓ </b> tham gia vào Discord của Aavegotchi thì bạn có thể hoàn thành những "nhiệm vụ" Aavegotchi tẹt vời mà hui. Làm nhiệm vụ (hiện tại có 11 nhiệm vụ tổng cộng) sẽ tự động được tăng bậc Aagent, mang đến cho mấy fen <b>những bộ trang bị Aavegotchi Aagent phải gọi là độc lạ</b> khi mấy fen <b>đã hoàn thành hết nhiệm vụ trước khi mainnet được triển khai. </b> Mainnet hiện chưa lên sóng trong giai đoạn cuối Tháng Mười Hai, vậy nên hãy ghé qua trang <a href="https://wiki.aavegotchi.com/en/missions"> nhiệm vụ </a> để có được thông tin về cách thăng hạn nhé!
 </p>
 
 &nbsp;<a name="Twitter"></a>
