@@ -34,8 +34,8 @@ Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một
 
 ## Đóng Góp
 
-Bất kì ai muốn đóng góp cho trang Wiki, chỉ cần viết cho bọn tớ một lời đề nghị trên [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+Bất kì ai muốn đóng góp cho trang Wiki, chỉ cần viết cho bọn mình một lời đề nghị trên [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+Nếu bạn muốn đóng góp, hãy vào kênh #wiki trên Discord của Aavegotchi và xin phép các Aarchiver nhé.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Sau đó đến Github Repo của bọn mình và viết nên những dòng đầu tiên nhé. 
