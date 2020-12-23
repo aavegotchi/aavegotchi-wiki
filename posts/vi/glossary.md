@@ -21,7 +21,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <div class="contentsBox">
 
-**Contents**
+**Nội dung**
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
