@@ -44,16 +44,15 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a>
+<a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Xem bài viết của chúng tôi trên Medium**</a>
 
-<p style="margin-left: 4.8em">The Aavegotchi Medium page is a great place for readers who want to keep up with the Aavegotchi project. This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired Gotchi fan-fiction.</p>
+<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. Đây là nơi mà bạn sẽ tìm thấy những cập nhật cộng đồng chuyên sâu, cũng như những thông tin chi tiết về<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffle (xổ số), </a> những sự kiện và đôi khi thậm chí bắt gặp một số fan-fiction được lấy cảm hứng từ Gotchi.</p>
 
 &nbsp;<a name="Telegram"></a>
 
-<a href="https://twitter.com/aavegotchi"><img class="community" src="/community/twitter.png" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Follow Us on Twitter**</a>
+<a href="https://twitter.com/aavegotchi"><img class="community" src="/community/twitter.png" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Follow chúng tôi trên Twitter**</a>
 
-<p style="margin-left: 4.8em">Twitter is our super-efficient news venue. Here you can keep up with all Aavegotchi events in 280 characters or less, from news
+<p style="margin-left: 4.8em">Twitter là một nguồn thông tin siêu toẹt vời của bọn mình. Here you can keep up with all Aavegotchi events in 280 characters or less, from news
  about our community parties (!) to important progress updates and a latest who’s-who on the most recent converts to our Aavegotchi cause 
 (see <a href=https://twitter.com/aavegotchi/status/1313813072717389824">Jay Hao updates 
 Twitter avatar</a>).</p>
