@@ -10,46 +10,46 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">The aETH aToken / Đồng aETH (aToken của Ethereum)</p>
 </div>
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com). Chúng được đúc thông qua hoạt động gửi tiền vào giao thức và sẽ bị đốt khi rút tiền. Những đồng aToken được gắn với giá trị của những tài sản được gửi vào Aave Protocol theo tỷ lệ 1:1. những đồng aToken này có thể được tự do lưu giữ, chuyển khoản, và giao dịch. Xem phần [FAQ ](https://docs.aave.com/faq/)của Aave để có thêm nhiều thông tin về Aave Protocol.
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Vậy những đồng aToken liên quan như thế nào với Aavegotchi? Mỗi Aavegotchi phải được triệu hồi thông qua một [Portal (cánh cổng)](/pages/portals), và phải được ký gửi bằng một đồng aToken (giá trị từ 10 đến 1000 Dai) trước khi chúng được kích hoạt! Không có ngoại lệ! Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
 
 <div class="contentsBox">
 
-**Contents**
+**Nội dung**
 
 <ol>
-<li><a href=#about>About</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
+<li><a href=#about>Sơ lược</a></li>
+<li><a href=#stablecoins>Stablecoin</a></li>
+<li><a href=#cryptocurrencies>Tiền mã hoá</a></li>
+<li><a href=#getting-atokens>Sở hữu aToken</a></li>
 </ol>
 
 </div>
 
-## About
+## Sơ lược
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Khi những tài sản có giá trị được mang đi cho vay, những đồng aToken sẽ trực tiếp mang lợi nhuận theo thời gian thực vào ví của bạn! Thật đấy, bạn có thể xem số dư của mình tăng trưởng mỗi phút.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken có thể được chia ra thành một trong hai loại: (1) tiền điện tử, hoặc (2) stablecoin. Tiền điện tử là những loại tiền tệ kỹ thuật số hoặc mã hoá được bảo mật bằng thuật toán. Nhiều loại tiền điện tử là những mạng lưới phân tán được dựa trên công nghệ blockchain - một loại sổ cái phân tán vận hành bởi những mạng lưới máy tính khác nhau. Những đồng stablecoin là một loại tiền điện tử được thiết kế để giữ giá ổn định bằng cách gán chúng với một tài sản bên ngoài ví dụ như đồng đô la Mỹ (USD). Cơ chế gán giá trị phía sau của những stablecoin sẽ khác nhau, và mỗi cách gán sẽ có những rủi ro nhất định.
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Những đồng [aToken (tiền điện tử và stablecoin) ](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)sau đây hiện đang có mặt trên Aave Protocol. Cột *Được hỗ trợ bở Aavegotchi *cho biết những đồng aToken sẽ được dùng trong trò chơi Aavegotchi hay không. Danh sách những đồng aToken dùng trong trò Aavegotchi được dựa trên nhu cầu của người chơi.
 
-## Stablecoins
+## Stablecoin
 
-table_stablecoins
+table_stablecoins (https://docs.google.com/document/d/11HwrEYrrt5jAjssTGzTa0yqgFJKeGx-Oi-Co5btQXbE/edit?usp=sharing)
 
-## Cryptocurrencies
+## Tiền mã hoá
 
 table_cryptocurrencies
 
-## Getting aTokens
+## Sở hữu aToken
 
-*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
+*Những bước sau đây được lấy ra từ <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Bài hướng dẫn Zero to Hero 2.0 </a>từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
 
 1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
@@ -69,4 +69,4 @@ May thay, gần đây Aave đã giới thiệu một cổng tắt để chuyển
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được hưởng tiền lợi nhuận. The aToken version of the asset can now be seen in your wallet.
+Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được hưởng tiền lợi nhuận. Giờ bạn đã có thể xem phiên bản aToken của tài sản của bạn ngay trong ví.
