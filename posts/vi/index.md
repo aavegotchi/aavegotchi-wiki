@@ -8,10 +8,10 @@ image: "icons/introduction.svg"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Trang Wiki của Aavegotchi</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Chào mừng fen đến với trang Wiki chính thức của Aavegotchi!
 
 This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
 
