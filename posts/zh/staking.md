@@ -87,7 +87,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 ## Entering Raffles
 
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. When the raffle is over, you can find out what prizes you have won and can claim them. If you choose not to participate in a given Raffle, this option is also possible. You can accumulate Raffle Tickets for subsequent Raffles if you like to do so.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. When the raffle is over, you can find out what prizes you have won and can claim them. If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
 As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
@@ -97,9 +97,13 @@ A total of 6010 prizes.
 
 [Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Winning prizes depends on which tickets and how many tickets you enter into a raffle, how many prizes there are, and how many tickets other people submit.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-The raffle utilizes Chainlink's [on-chain verifiable randomness](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) to determine prize winners.
+You can improve your probability of winning by:
+* Submitting multiple tickets
+* Enter raffle ticket categories with more prizes (e.g. Common)
+
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
