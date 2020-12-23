@@ -22,7 +22,7 @@ Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồ
 
 Những Aavegotchi hiếm không chỉ có giá trị cao trên những thị trường thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất.
 
-Aavegotchi is governed by [AavegotchiDAO](/posts/dao) that manages all funds generated through the [GHST token](/posts/ghst) distribution.
+Aavegotchi được quản trị bởi[AavegotchiDAO](/posts/dao), có quyền quyết định với tất cả ngân quỹ được sinh ra thông qua quá trình phân bổ [GHST token](/posts/ghst).
 
 <div class="contentsBox">
 
