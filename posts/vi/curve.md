@@ -60,20 +60,20 @@ Trong trường hợp của Aavegotchi, Reserve và Continuous Token lần lư�
 Mỗi lệnh mua hoặc bán Continuous Token (GHST) sẽ khiến lượng Reserve Token (DAI) tăng hoặc giảm. Giá của Reserve Token sau đó phải được tính lại liên tục để duy trì Connecting Weight đã được cấu hình giữa chúng.
 
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
+Connecting Weight cho thấy giá của Continuous Token cần được điều chỉnh rõ rệt như thế nào để có thể cân đối mỗi giao dịch, hay nói cách khác, là độ nhạy cảm về giá.
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+Tỷ lệ dự trữ cao hơn giữa số dư của Reserve Token và Continuous Token sẽ khiến độ nhạy cảm giá thấp đi, nghĩa là mỗi lệnh mua bán sẽ có ít hiệu ứng tương xứng trên đường đi giá các Token Continuous hơn. Ngược lại, tỷ lệ thấp hơn giữa số dư Reserve Token và Continuous Token sẽ khiến cho độ nhạy cảm về giá cao hơn, nghĩa là mỗi lệnh mua bán sẽ có ít hiệu ứng tương xứng với đường đi của giá các Token Continuous hơn.
 
-**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+**Tỷ lệ Dự Trữ của Aavegotchi là 33% đấy mấy fen!** Nghĩa là fen không cần phải sợ mấy anh cá voi đâu nhé. Họ không thể nào pump rồi dump GHST bởi bonding curve được bảo vệ trước những giao dịch siêuuuuu khủng!
 
-If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
+Nếu bạn muốn thấy tận mắt cơ chế này, hãy xem qua mô hình tương tác của bonding curve mà Coderdan đã làm [tại đây](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
 
-TEH CURVE IS FOREVER!
+THE CURVE NÉ VỜ ĐAI!
 
 ## Aavegotchi Bonding Curve
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+Aavegotchi Bonding Curve đã được tạo ra vào ngày 14 Tháng Chín năm 2020 thông qua một hợp đồng bonding curve thông minh được vận hành bởi [Aragon Fundraising](https://fundraising.aragon.black/). Sau khi kết thúc đợ presale với khoảng 500.000 GHST, thì bonding curve này đã được mở ra ngay lập tức. Bonding curve có kích thước vô tận, có thời gian vô hạn, và chào bán với giá ban đầu là 0.2 DAI mõi GHST. Connecting weight của nó là 33%.
 
-You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
+Bạn cần phải hoàn thành thủ tục KYC để có thể mua/bán trực tiếp từ đường cong này. Tuân thủ pháp luật quan trọng lắm mấy bồ ơi - chúng ta sống trong một xã hội, và ta cũng không muốn dự án bị rút ruột bởi chính phủ. Lệnh mua thông qua bonding cure phải được thực hiện bằng DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
 
 If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
 
