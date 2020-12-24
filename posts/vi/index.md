@@ -13,7 +13,7 @@ image: "icons/introduction.svg"
 
 Chào mừng fen đến với trang Wiki chính thức của Aavegotchi!
 
-Chiếc Wiki be bé này chính là tâm điểm kiến thức về tất tần tật mọi thứ trong Aavegotchi, được duy trì và cập nhật bởi một đội nhóm những người cống hiến tuyệt vời, mệnh danh là Aarchivers.
+This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
 
 ## Mới biết tới Aavegotchi hử?
 
