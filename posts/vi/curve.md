@@ -39,17 +39,17 @@ Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tă
 
 Bonding Curves sử dụng một thuật toán giá để làm việc như ứng dụng tạo thị trường tự động và cung cấp một nguồn thanh khoản vô tận. Người dùng có thể tương tác với bonding curve bằng cách stake các token và trong quỹ dự trữ của bonding curve. Khi họ làm như vậy, bonding curve sẽ đúc ra các token để trả lại cho người dùng dựa trên thuật toán giá. Những token vừa đựa đúc có thể có những ứng dụng đặc thù và thậm chí là được giao dịch bởi người dùng những luôn có thể trao đổi lại thông qua bonding curve dành cho các token ở trong quỹ dự trữ của bonding curve.
 
-When a token is purchased via a TBC, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
+Khi một token được mua thông qua TBC, mỗi người mua sau sẽ phải trả giá cao hơn một chút cho mỗi token, tạo ra nhiều tiềm năng lợi nhuận cho những người đầu tư từ sớm. Khi nhiều người biết về dự án hơn và việc mua hàng tiếp diễn, giá trị của mỗi token sẽ tăng dần với bonding curve. Những nhà đầu tư sớm tìm ra dự án ở giai đoạn đầu, mua token từ bonding curve, và sau đó bán lại token để có lợi nhuận trong tương lại.
 
-### Formula
+### Công thức
 
-Bonding curves come in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
+Bonding curve khác nhau về hình dạng và kích thước. Với những dự án Aavegotchi, team phát triển đã ứng dựng Công thức của Bancor:
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
 
-### Formula Explanation
+### Giải thích công thức
 
-The **Reserve Token** refers to the token that users stake into the bonding curve.
+**Quỹ dự trữ Token** chính là những token mà người dùng stake trong bonding curve.
 
 The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
 
