@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/curve/bonding-curve.png">
-<p class="headerImageText">The Bonding Curve</p>
+<p class="headerImageText">Bonding Curve</p>
 </div>
 
 A token bonding curve (TBC) is a mathematical curve that defines a relationship between price and token supply.
