@@ -51,11 +51,11 @@ Bonding curve khác nhau về hình dạng và kích thước. Với những d�
 
 **Quỹ dự trữ Token** chính là những token mà người dùng stake trong bonding curve.
 
-The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
+** Continuous Token** được hiểu là token nhận được từ bonding curve dựa trên việc stake Reserve Token.
 
-In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively.
+Trong trường hợp của Aavegotchi, Reserve và Continuous Token lần lượt là DAI và GHST.
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**Connecting Weight** (cũng được hiểu là Reserve Ratio) đại diện cho một tỷ lệ cố định (giữa 0 và 100%) giữa tổng giá trị của Continuous Token (tổng lượng cung x đơn vị giá) và giá trị số dư của Reserve Token.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
 
 Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
 
