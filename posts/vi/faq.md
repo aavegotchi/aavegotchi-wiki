@@ -33,10 +33,10 @@ contributors:
 <li><a href=#bonding-curve-faq>Những câu hỏi về Bonding Curve</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ai đó có thể vượt mặt bonding curve hay không?</a></p>
-<li><a href=#raffle-faq>Những câu hỏi về Xổ số</a></li>
+<li><a href=#raffle-faq>Những câu hỏi về Raffle (Xổ số)</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?</a></p>
-<p><a href=#are-raffle-wearables-special->Có loại trang bị nào trong raffle mà khủng khủng không?</a></p>
+<p><a href=#are-raffle-wearables-special->Có loại trang bị khủng nào trong raffle hay không?</a></p>
 <p><a href=#can-i-buy-frens->Mình có thể mua FRENS được không?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài reffle hay không?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
@@ -82,55 +82,53 @@ Mainnet hiện tại sẽ mở ra vào ngày 4 tháng 1 năm 2021.
 
 Hiện tại, bạn có thể:
 
-<ul><p style="margin-left: 2.4em"><li><b>Tham gia vào Rafle để Sở hữu Phụ kiện</b> Cho đến khi mainnet được triển khai, cộng đồng sẽ tổ chức một chuỗi <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffles</a> để bạn có thể stake GHST để lấy FRENS. With FRENS, you can enter 
-any of the remaining raffles for a chance to win unique wearables for your Aavegotchi.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>Tham gia vào Rafle để Sở hữu Phụ kiện</b> Cho đến khi mainnet được triển khai, cộng đồng sẽ tổ chức một chuỗi <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffles</a> để bạn có thể stake GHST để lấy FRENS. Với FRENS, bạn có thể tham gia vào bất kì sự kiện raffle nào để có cơ hội giành lấy những phụ kiện cho Aavegotchi của mình.</li></p></ul>
 
-<ul><p style="margin-left: 2.4em"><li><b>Do Missions to Earn Wearables:</b> You can also complete our <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi Missions</a> - which, after you’ve completed them all, will earn you an exclusive Aavegotchi Aagent wearable 
-set.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>Làm nhiệm vụ Kiếm Phụ kiện</b> Bạn có thể hoàn thành các <a href="https://wiki.aavegotchi.com/en/missions"> Nhiệm vụ Aavegotchi</a> để nhận được những bộ phụ kiện Điệp viên Aavegotchi độc đáo sao khi hoàn thành.</li></p></ul>
 
 ### Mình có cần KYC trước khi chơi Aavegotchi hoặc nắm giữ token GHST hay không?
 
-No! You only need to do KYC if you want to buy GHST directly from the <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> You can purchase GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">on Uniswap</a> without KYC, as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
+Không nha! Bạn chỉ cần KYC nếu bạn muốn mua GHST trực tiếp từ <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> Bạn có thể mua GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">trên Uniswap</a> mà không cần KYC, cũng như <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">trên một số sàn giao dịch.</a> Ngoài ra, ** KYC** là không cần thiết khi mua Portal, <a href="https://wiki.aavegotchi.com/en/minigames">để chơi game,</a> 
+<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> hoặc bất kỳ khía cạnh nào của dự án Aavegotchi này cả.
 
 
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> as a central element of gameplay, and as of November 2020, Aave is also an <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">official investor</a> in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">nhà đầu tư chính thức</a> của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
 
 ## Những câu hỏi về Bonding Curve
 
 ### Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+Sau khi mua GHST trên bonding curve, bạn cần phải thực hiện thêm một giao dịch nữa đển nhận GHST về ví. Vui lòng xem ảnh chụp màn hình phía dưới để lấy ví dụ. Người dùng cần phải nhấp vào nút "CLAIM ORDER" để token GHST có thể hiện lên trong ví của mình.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### Ai đó có thể vượt mặt bonding curve hay không?
+Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dịch được gộp lại với những giao dịch khác trước khi được gửi đi đến hợp đồng thông minh. Họ không thể mau được giá thấp hơn với phí gas cao hơn nhằm vượt mặt đợt mua hàng của bạn được.
 
-## Những câu hỏi về Xổ số
+## Những câu hỏi về Raffle (Xổ số)
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+Xem <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> để biết thêm thông tin chi tiết về raffles.
 
 
 
 ### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Không nha! Xin lưu ý rằng việc chỉ mua vé bằng FRENS **sẽ không tự động giúp bạn chơi xổ số.** Bạn cần phải STAKE vé của mình trong vòng 72 giờ để mở raffle. Việc này sẽ cần đến hai giao dịch trên trang Raffle - **approve** vé của bạn, **và tham gia** vào xổ số. Nếu bạn đã yêu cầu thành công, bạn sẽ nhận được số trên vé để có thể tham gia vào xổ số ở trang Stats.
 
 
 ### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+Không nha. Những phụ kiện này sẽ chỉ được xuất hiện trong sự kiện xổ số trước khi game khởi chạy.
 
 
-### Có loại trang bị nào trong raffle mà khủng khủng không?
+### Có loại trang bị khủng nào trong raffle hay không?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v. ).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 ### Mình có thể mua FRENS được không?
-No. FRENS are a way to reward our community members who staked GHST.
+Không nha. FRENS are a way to reward our community members who staked GHST.
 
 ### FRENS có được dùng để mua gì khác ngoài reffle hay không?
 
