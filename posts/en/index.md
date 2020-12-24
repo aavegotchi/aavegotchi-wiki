@@ -14,7 +14,7 @@ image: "icons/introduction.svg"
 
 Welcome to the official Aavegotchi Wiki, fren! 
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
+This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
 
 ## New to Aavegotchi?
 
