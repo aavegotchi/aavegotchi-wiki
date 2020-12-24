@@ -50,22 +50,22 @@ Aavegotchi là những vật sưu tầm có độ hiếm cư ngụ trên blockch
 
     *  **Kinh nghiệm:** Aavegotchi lên cấp khi có nhiều kinh nghiệm thông qua việc vote trong AavegotchiDAO và tham gia vào minigame. Cứ mỗi ba cấp độ, Aavegotchi sẽ nhận được một [ Spirit Point ](/posts/glossary#spirit-point) có thể được phân bổ cho việc tăng hoặc giảm một đặc điểm nhất định.
 
-* ** Phụ kiện ** Bên cạnh việc quản lý kho ký quỹ của aToken, Aavegotchi cũng được hỗ trợ thêm chuẩn ERC998 tạm thời, cho phép chúng quản lý những NFT con, được gọi là phụ kiện trong hệ sinh thái Aavegotchi. Không phải phụ kiện nào cũng có phù hợp với tất cả Aavegotchi. Một số phụ kiện có thể được trang bị cho một loại Aavegotchi được stake với một loại tiền ký quỹ nhất định, ở một cấp độ nhất định và với những đặc điểm nhất định. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* ** Phụ kiện ** Bên cạnh việc quản lý kho ký quỹ của aToken, Aavegotchi cũng được hỗ trợ thêm chuẩn ERC998 tạm thời, cho phép chúng quản lý những NFT con, được gọi là phụ kiện trong hệ sinh thái Aavegotchi. Không phải phụ kiện nào cũng có phù hợp với tất cả Aavegotchi. Một số phụ kiện có thể được trang bị cho một loại Aavegotchi được stake với một loại tiền ký quỹ nhất định, ở một cấp độ nhất định và với những đặc điểm nhất định. Một vài phụ kiện có thể tăng hoặc giảm một số đặc điểm trong Aavegotchi. Ví dụ, việc trang bị một thanh kiếm có thể làm tặng nhẹ tính hiếu chiến của Aavegotchi, trong khi đó việc trang bị một chiếc áo Bob Marley có thể giảm đi cấp độ năng lượng của nó.
 
-The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
+Mối quan hệ giữa Collateral stake, Traits, Wearables, và Kinship được mô tả rõ nhất thông Đồ thị Onion (xem bên dưới). Mỗi lớp được xây dựng trên những lớp trước, và được phản ánh bằng chính Aavegotchi!
 
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
-## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+## Giá trị của Aavegotchi
+Việc đánh giá Aavegotchi đến từ giá trị nội tại và độ hiếm của nó.
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only ERC20 tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **Giá trị nội tại** Giá trị nội tại là giá trị được định giá bằng lượng tiền ký quỹ stake trong Aavegotchi. Nếu Aavegotchi được stake với 10 aDAI, thì giá trị nội tại sẽ là khoản 10 aDAI, cộng thêm bất kỳ aDAI phát sinh nào có được từ Lending Pool. Ban đầu, chỉ những token ERC20 được liệt kê trên nền tảng Aave (aToken) sẽ được dùng để ký quỹ. Tuy nhiên, một khi AavegotchiDAO được triển khai, cộng đồng sẽ có thể vote xem những loại tiền ký quỹ nào sẽ được cho phép.
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in more detail in the Aavegotchi official whitepaper to be released soon.
+* **Giá trị hiếm** Giá trị hiếm được định hình bằng cách tính toán độ hiếm của một đặc điểm mà Aavegotchi sỡ hữu và những phụ kiện được trang bị trong thế giới Aavegotchi. Không giống như những game NFT khác, độ hiếm không phải là một giá trị cố định trong Aavegotchi. Nó có thể thay đổi theo thời gian khi Aavegotchis lên cấp và trang bị những phụ kiện khác. Dodos, một Aavegotchi hiếm trong tuần này có thể trở nên bình thường vào tuần sau, và vân vân, phụ thuộc vào sự phân bổ tổng thể của các thuộc tính và phụ kiện trong thế giới Aavegotchi. Điều này sinh ra một khái niệm tuyệt hảo được gọi là "rarity farming", nó sẽ được giải thích chi tiết hơn trong whitepaper chính thức sắp được phát hành của Aavegotchi.
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
+## Vũ trụ Aavegotchi
+Vũ trụ Aavegotchi bao hàm tất cả những yếu tố cho phép các Aavegotchi được vận hành:
 * [Portals](/posts/portals)
-* [GHST Utility Token](/posts/ghst)
+* [Token Tiện ích GHST](/posts/ghst)
 * [AavegotchiDAO](/posts/dao)
 * [Aavegotchi Realm](/posts/metaverse)
