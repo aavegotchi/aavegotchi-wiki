@@ -5,7 +5,7 @@ title: 'Gameplay'
 description: 'Intrduction to Aavegotchi Gameplay'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Aavegotchi có một lối chơi thật sự cực kỳ độc đáo bao gồm nhiều yếu tố, pha lẫn giữa NFT và DeFi.
 
 <div class="contentsBox">
 
@@ -37,12 +37,12 @@ Bạn có thể mua một Portal trên dApp của Aavegotchi hoặc những th�
 
 [Wearables](https://wiki.aavegotchi.com/en/wearables) là một phần quan trọng trong lối chơi của Aavegotchi. Bằng cách mặc trang phục cho Aavegotchi, bạn có thể tăng chỉ số độ hiếm và đặc điểm cho những người bạn ma đáng yêu, giúp các bé hoạt động tốt hơn trong rarity farming và minigames.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+Hiện tại bạn có thể giành lấy một Wearable Voucher thông qua một phiên bản giới hạn của [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) và nhận được một Wearable tương tự khi Aavegotchi khởi chạy trên Mainnet chính thức.
 
 ## Rarity farming
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) là một minigame mà trong đó những ai sở hữu các Aavegotchi có độ hiếm cao nhất sẽ nhận được token GHST. Mục tiêu là tạo ra một Aavegotchi có Điểm Độ Hiếm Cuối cao nhất, được định hình bởi độ hiếm của đặc điểm và phụ kiện.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+Vào cuối mỗi gia đoạn, thời gian sẽ được AavegotchiDAO quyết định, chủ sở hữu của những Aavegotchis hiếm nhất sẽ nhận được phần thưởng là các token GHST.
 
 ## Minigames
