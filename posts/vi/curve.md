@@ -84,10 +84,10 @@ Dự án Aavegotchi đã triển khai một bonding curve thông qua một sự 
 
 **Đây mới gọi là SAFU này. Không. Được. Loại. Bỏ. Bonding. Curve.** Nó ngăn không để những nhà đầu tư bị cuỗm vốn bởi họ có quyền hành tối thượng với số tiền nằm trong DAICO/Bonding curve!
 
-Vòng lặp đầu tiên của [AavegotchiDAO](/dao) đã được triển khai cùng lúc với sự phân bổ GHST trong bonding curve. Người nắm giữ GHST có quyền vote để tăng/giảm lượng tài sản được phân bổ thông qua cơ chế tap của quỹ dự trữ token bonding curve (TBC) dành cho Pixelcraft Studios (team đằng sau Aavegotchi) để hỗ trợ phát triển dự án. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+Vòng lặp đầu tiên của [AavegotchiDAO](/dao) đã được triển khai cùng lúc với sự phân bổ GHST trong bonding curve. Người nắm giữ GHST có quyền vote để tăng/giảm lượng tài sản được phân bổ thông qua cơ chế tap (quỹ dành cho nhà phát triển) của quỹ dự trữ token bonding curve (TBC) dành cho Pixelcraft Studios (team đằng sau Aavegotchi) để hỗ trợ phát triển dự án. Đề nghị AavegotchiDAO đầu tiên về việc tăng giới lượng tap của Aavegotchi DAICO từ 50.000 DAI lên thành 100.000 DAI mỗi tháng đã vượt quá 99% phiếu tán thành vào ngày 18 tháng Mười năm 2020.
 
 ## Những Động Lực Trong Lượng Cung Token của Aavegotchi
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
+Sau khi đã bàn luận về bonding curve/DAICO ở phía trên, chúng ta đã học được rằng tổng lượng cung của token GHST là một động lực. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
 
 The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
 
