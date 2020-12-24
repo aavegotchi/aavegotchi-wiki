@@ -92,14 +92,14 @@ Sau khi đã bàn luận về bonding curve/DAICO ở phía trên, chúng ta đ�
 Tình trạng lạm phát của token GHST những lệnh mua hàng tịnh trên bonding curve tương quan tích cực với giá của GHST. **Bonding curve đang được lập trình toán học để khiến giá của GHST tăng lên khi lượng cung của GHST tăng lên.**
 
 ## Kiếm lợi nhuận từ chênh lệch giá
-Với những ai đã hoàn thành KYC, họ sẽ có thể kiếm lợi nhuận từ sự chênh lệch giá GHST giữ token bonding curve và những DEX khác ví dụ như Uniswap và Balancer. Theo [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage là việc mua và bán một tài sản để có thể kiếm lợi nhuận từ sự khác nhau về giá giữa các thị trường. Loại giao dịch này kiếm lời bằng cách khai thác sự khác nhau về giá giữa những công cụ tài chính giống hoặc tương tự nhau trong những thị trường hoặc những dạng khác nhau. Kiếm lợi nhuận từ chênh lệch giá tồn tại khi thị trường thiếu đi sự hiệu quả và do đó không nó không tồn tại nếu tất cả thị trường vận hành một cách hoàn hảo." Điều này có thể xảy ra bởi các DEXes được trang bị những công thức Tạo Thị Trường Tự Động (AMM) riêng biệt và các lệnh mua/bán tịnh của token GHST trên những DEX này sẽ dẫn đến việc giá bị khác đi so với giá trên token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Với những ai đã hoàn thành KYC, họ sẽ có thể kiếm lợi nhuận từ sự chênh lệch giá GHST giữ token bonding curve và những DEX khác ví dụ như Uniswap và Balancer. Theo [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage là việc mua và bán một tài sản để có thể kiếm lợi nhuận từ sự khác nhau về giá giữa các thị trường. Loại giao dịch này kiếm lời bằng cách khai thác sự khác nhau về giá giữa những công cụ tài chính giống hoặc tương tự nhau trong những thị trường hoặc những dạng khác nhau. Kiếm lợi nhuận từ chênh lệch giá tồn tại khi thị trường thiếu đi sự hiệu quả và do đó không nó không tồn tại nếu tất cả thị trường vận hành một cách hoàn hảo." Điều này có thể xảy ra bởi các DEXes được trang bị những công thức Tạo Thị Trường Tự Động (AMM) riêng biệt và các lệnh mua/bán tịnh của token GHST trên những DEX này sẽ dẫn đến việc giá bị khác đi so với giá trên token bonding curve. Một nhà đầu tư có hiểu biết có thể sẽ nghĩ đến việc khai thác sự kém hiệu quả của thịt trường (*nhá nhẹ xíu nha*).
 
 ## Tìm hiểu thêm
 
-* For moar on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Đọc nhèo hơn tại [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* Đọc thêm tại [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* Bài viết [Bonding Curves](https://defiprime.com/bonding-curve-explained) trên DeFi Prime.
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Bài viết về [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) trên the Coin Telegraph.
