@@ -125,17 +125,17 @@ Không nha. Những phụ kiện này sẽ chỉ được xuất hiện trong s�
 
 ### Có loại trang bị khủng nào trong raffle hay không?
 
-Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v. ).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v. ).  Trong những <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">thị trường mở </a>, việc chúng có giá trị chuyển nhượng cao hơn bởi **trạng thái trước khi khởi chạy ** hoặc ** liên kết với các dự án lớn ** hay không sẽ được định hình bởi nhu cầu của thị trường.
 
 ### Mình có thể mua FRENS được không?
-Không nha. FRENS are a way to reward our community members who staked GHST.
+Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
 
 ### FRENS có được dùng để mua gì khác ngoài reffle hay không?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. Phần còn lại của hệ sinh thái Aavegotchi sẽ được vận hành bởi GHST.
 
 ### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
-Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+Vé Raffle được dự trên tiêu chuẩn ERC-1155. Hiện tại, các token dựa trên tiêu chuẩn này có thể được chuyển đi bằng cách sử dụng giao diện của [Opensea](https://opensea.io/). Khi đã truy cập vào Opensea, hãy kết nối ví Metamask và nhập địa chỉ người nhận vào để chuyển vé raffle đến cho họ.
 
 
 ## Những câu hỏi về Lối chơi
@@ -143,18 +143,18 @@ Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on th
 
 ### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 1-100 range are more common.
+Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 1-100 thường sẽ dễ gặp hơn.
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 
-Portals are expected to cost between 50-100 GHST. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, <a href="https://wiki.aavegotchi.com/dao">the DAO</a> will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
+Portal sẽ có giá khoảng từ 50-100 GHST. Giá trị của những vật phẩm khác như trang bị, vật phẩm tiêu hao, và đất đai sẽ được công bố - dù sau khi trò chơi được triển khai <a href="https://wiki.aavegotchi.com/dao">DAO</a> sẽ có quyền **điều chỉnh giá tài sản thông qua những cuộc bỏ phiếu quản trị**. Hiện tại, bạn có thể xem qua giá hiện tại trên thị trường mở dành cho một số loại phụ kiện trên <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
 
 ## Những câu hỏi về Kỹ thuật
 
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-All elements of the Aavegotchi game are <a href="https://twitter.com/aavegotchi/status/1328548543909351429">stored on the Ethereum blockchain</a>. You can read more about our unique design using the Diamond Standard <a href="https://eips.ethereum.org/EIPS/eip-2535">here</a>.
+Tất cả những yếu tố trong game Aavegotchi được <a href="https://twitter.com/aavegotchi/status/1328548543909351429"> lưu trữ trên blockchain của Ethereum</a>. Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard<a href="https://eips.ethereum.org/EIPS/eip-2535"> tại đây</a>.
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
