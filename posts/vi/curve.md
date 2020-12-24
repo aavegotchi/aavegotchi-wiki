@@ -55,9 +55,9 @@ Bonding curve khác nhau về hình dạng và kích thước. Với những d�
 
 Trong trường hợp của Aavegotchi, Reserve và Continuous Token lần lượt là DAI và GHST.
 
-**Connecting Weight** (cũng được hiểu là Reserve Ratio) đại diện cho một tỷ lệ cố định (giữa 0 và 100%) giữa tổng giá trị của Continuous Token (tổng lượng cung x đơn vị giá) và giá trị số dư của Reserve Token.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**Connecting Weight** (cũng được hiểu là Reserve Ratio) đại diện cho một tỷ lệ cố định (giữa 0 và 100%) giữa tổng giá trị của Continuous Token (tổng lượng cung x đơn vị giá) và giá trị số dư của Reserve Token.  CW là một hằng số có được từ Công thức của Bancor bởi số dư của Reserve Token và tổng giá trị của Continuous Token (hay còn gọi là 'vốn hoá thị trường') luôn dao động với những lệnh mua và lệnh bán.
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+Mỗi lệnh mua hoặc bán Continuous Token (GHST) sẽ khiến lượng Reserve Token (DAI) tăng hoặc giảm. Giá của Reserve Token sau đó phải được tính lại liên tục để duy trì Connecting Weight đã được cấu hình giữa chúng.
 
 
 The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
