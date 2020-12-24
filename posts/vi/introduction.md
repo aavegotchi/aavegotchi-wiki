@@ -29,14 +29,14 @@ Aavegotchi được quản trị bởi[AavegotchiDAO](/posts/dao), có quyền q
 **Nội dung**
 
 <ol>
-<li><a href=#about-aavegotchis>About Aavegotchis</a></li>
-<li><a href=#aavegotchi-value>Aavegotchi Value</a></li>
-<li><a href=#the-aavegotchi-universe>The Aavegotchi Universe</a></li>
+<li><a href=#about-aavegotchis>Về Aavegotchi</a></li>
+<li><a href=#aavegotchi-value>Giá trị của Aavegotchi</a></li>
+<li><a href=#the-aavegotchi-universe>Vũ trụ Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## About Aavegotchis
+## Về Aavegotchi
 Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
 
 *  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](https://wiki.aavegotchi.com/atokens) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
