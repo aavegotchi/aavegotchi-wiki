@@ -40,33 +40,33 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 Đầu tiên, bạn cần sở hữu một vài token GHST để stake. [Trang token GHST](/posts/ghst) của bọn mình cung cấp nhiều cách thức để bạn có thể tự mình sở hữu chúng.
 
 ## Cách Stake
-Once you have some GHST tokens, it is time to stake them!
+Một khi đã có token GHST, đã đến lúc để stake chúng!
 
-There are two ways to stake: (1) staking GHST tokens, and/or (2) staking Uniswap GHST-ETH LP tokens.
+Có 2 cách để stake: (1) stake token GHST, và/hoặc (2) stake Token LP GHST-ETH từ Uniswap.
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
 
-### Staking GHST tokens
-This is the most straightforward way to stake GHST tokens. Head over to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
+### Stake token GHST
+Đây là cách trực tiếp nhất để stake token GHST. Hãy chuyển đến trang [giao diện staking của người dùng](https://aavegotchi.com/stake). Nó sẽ giống như hình ở bên dưới đây.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the left will be titled "Stake GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một trang khác có 2 hộp thoại. Hộp bên trái sẽ có dòng chữ "Stake token GHST" (xem ảnh bên dưới). Nếu bạn đang stake lần đầu, bạn phải nhấp vào nút "Approve" để cho phép Hợp đồng Staking quyền truy cập vào token GHST của bạn. Một khi giao dịch "Approve" được thông qua, bạn có thể nhập số lượng GHST mà bạn muốn stake vào vùng "Input amount". Khi hoàn tất, hãy nhấn nút "Stake" để bắt đầu quá trình.
 
 <img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi" />
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
-### Staking Uniswap GHST-ETH LP tokens
-A second, and more complicated, method is to stake the Uniswap GHST-ETH Liquidity Provider (LP) tokens. To do this, you have to have both GHST tokens and ETH in your wallet. Head over to the [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) to add liquidity for both tokens (see image below). Users have to contribute liquidity at a ratio of 50% GHST and 50% ETH to the pool. The amount of GHST and ETH required to acquire 1 GHST-ETH LP token varies based on the price of the pool token at the time.  In return for staking both GHST and ETH, users will receive the GHST-ETH LP token from Uniswap.
+### Stake Token LP GHST-ETH từ Uniswap
+Một phương pháp thứ hai và phức tạp hơn là stake token Cung cấp Thanh khoản (LP) GHST-ETH từ Uniswap. Bằng cách này, bạn cần phải có cả token GHST và ETH trong ví. Hãy chuyển đến trang [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) để cung cấp thanh khoản cho cả hai token (xem ảnh bên dưới). Người dùng cần cung cấp thanh khoản với tỷ lệ 50% GHST và 50% ETH trong quỹ thanh khoản. Lượng GHST và ETH được yêu cầu để nhận được 1 token LP GHST-ETH sẽ khác nhau tuỳ theo giá của token trong quỹ tại một thời điểm.  Khi stake cả GHST và ETH, người dùng sẽ nhận được token LP GHST-ETH từ Uniswap.
 
 <img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
 
-Once you have acquired your GHST-ETH LP token, head to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
+Một khi bạn đã có được token LP GHST-ETH, hãy chuyển đến [giao diện staking dành cho người dùng](https://aavegotchi.com/stake). Nó sẽ giống như hình ở bên dưới đây.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the right will be titled "Stake Uniswap GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST-ETH LP tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một trang khác có 2 hộp thoại. Hộp bên phải sẽ có chữ "Stake Uniswap GHST Token" (xem ảnh bên dưới). Nếu bạn đang stake lần đầu thì bạn phải nhấn vào nút Approve để cho phép Hợp đồng Staking có thể truy cập vào token LP GHST-ETH của bạn. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. Khi hoàn tất, hãy nhấn nút "Stake" để bắt đầu quá trình.
 
 <img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi" />
 
