@@ -23,8 +23,8 @@ contributors:
 **Nội dung**
 
 <ol>
-<li><a href=#general-faq>General FAQ</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
+<li><a href=#general-faq>Tổng quan Những câu hỏi thường gặp</a></li>
+<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Mình mới chơi Aavegotchi. After launch, how do I play?</a></p>
 <p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
 <p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
 <p><a href=#what-can-i-do-now->What can I do now?</a></p>
@@ -55,10 +55,10 @@ contributors:
 &nbsp;
 
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
-## General FAQ
+## Tổng quan Những câu hỏi thường gặp
 
 
-### I'm new to Aavegotchi. After launch, how do I play?
+### Mình mới chơi Aavegotchi. After launch, how do I play?
 
 <ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
 <ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals">Portal</a></li></p></ul>
