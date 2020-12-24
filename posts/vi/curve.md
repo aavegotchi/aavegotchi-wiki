@@ -14,26 +14,26 @@ contributors:
 <p class="headerImageText">Bonding Curve</p>
 </div>
 
-A token bonding curve (TBC) is a mathematical curve that defines a relationship between price and token supply.
+Token Bonding curve (TBC) là một vòng cung toán học cho thấy mối quan hệ giữa giá và lượng cung của token.
 
-In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an  Aragon [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico), this article discusses DAICOs as well.
+Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tăng lên, và giảm khi lượng cung giảm. Do Aavegotchi, Bonding Curve được triển khai thông qua [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico) của Aragon nên bài viết này cũng sẽ bàn luận về các DAICO.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#mechanics>Mechanics</a></li>
+<li><a href=#mechanics>Cơ chế</a></li>
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
-<li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Supply Dynamics</a></li>
+<li><a href=#aavegotchi-token-supply-dynamics>Những Động Lực Trong Lượng Cung Token của Aavegotchi</a></li>
 <li><a href=#arbitrage>Arbitrage</a></li>
 <li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
 
-## Mechanics
+## Cơ chế
 
 ### Minting / Burning on demand
 
@@ -86,7 +86,7 @@ The Aavegotchi project launched the token bonding curve through a DAICO on Arago
 
 The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
 
-## Aavegotchi Token Supply Dynamics
+## Những Động Lực Trong Lượng Cung Token của Aavegotchi
 In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
 
 The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
