@@ -13,7 +13,7 @@ image: "icons/introduction.svg"
 
 歡迎來到官方的Aavegotchi百科
 
-這個Aavegotchi百科是所有Aavegotchi的中心知識網，由我們的著名貢獻者團隊，即Aarchivers維護和更新。
+This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
 
 ## Aavegotchi相關
 
