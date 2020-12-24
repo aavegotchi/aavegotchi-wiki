@@ -78,6 +78,8 @@ Why the huge difference in the number of FRENS earned through this method? Staki
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/bulk-buy) to purchase raffle tickets with FRENS.
 
+Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on marketplaces.
+
 There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
 table_RaffleTickets
