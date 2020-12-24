@@ -102,15 +102,15 @@ Tổng cộng 6010 giải.
 Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
 
 Bạn có thể cải thiện khả năng thắng giải bằng cách:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+* Tham gia với nhiều vé
+* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
