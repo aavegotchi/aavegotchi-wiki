@@ -61,7 +61,7 @@ The valuation of an Aavegotchi comes from both from its intrinsic value and from
 
 * **内在价值** 内在价值 是指Aavegotchi使用的抵押品的计价。 如果Aavegotchi以10个aDAI作为抵押品，那么内在价值将是10个aDAI，再加上从贷款池中累积的任何额外aDAI。 最初，只有在Aave平台上上市的ERC20代币（aTokens）才能作为抵押品。 然而，一旦AavegotchiDAO推出，社区将能够投票决定允许哪些新的抵押品。
 
-* **稀有度** 稀有度值是通过计算Aavegotchi宇宙中每个Aavegotchi的特质和装备穿戴物的稀有度来决定的。 与其他NFT游戏不同，稀有度在Aavegotchi中并不是一个固定的数值。 它可以随着时间的推移而改变，因为Aavegotchi可以装备不同等级的可穿戴装备。 因此，一周内稀有的Aavegotchi可能会变得很常见，反之亦然，这取决于Aavegotchi宇宙中特性和可穿戴设备的整体分布。 这就实现了一个被称为 "稀有度养成 "的新概念，在即将发布的Aavegotchi官方白皮书中会有更详细的解释。
+* **稀有度** 稀有度值是通过计算Aavegotchi宇宙中每个Aavegotchi的特质和装备穿戴物的稀有度来决定的。 与其他NFT游戏不同，稀有度在Aavegotchi中并不是一个固定的数值。 它可以随着时间的推移而改变，因为Aavegotchi可以装备不同等级的可穿戴装备。 因此，一周内稀有的Aavegotchi可能会变得很常见，反之亦然，这取决于Aavegotchi宇宙中特性和可穿戴设备的整体分布。 This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
 
 ## Aavegotchi元宇宙
 The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
