@@ -158,17 +158,16 @@ Tất cả những yếu tố trong game Aavegotchi được <a href="https://tw
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and <a href="https://arkane.network/apps">Arkane wallet</a> - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và<a href="https://arkane.network/apps">Arkane wallet</a> - sẽ sớm được tích hợp vào Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Đúng vậy! Aavegotchi dự định sẽ dùng [Matic](https://matic.network/) như một giải pháp Layer 2, được tích hợp ngay khi triển khai. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi will work with aTokens from <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we 
-<a href="https://twitter.com/StaniKulechov/status/1334546997827809285">should have a migration tool out soon</a> (before launch) :) 
+Aavegotchi sẽ hoạt động tốt với aToken từ <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta <a href="https://twitter.com/StaniKulechov/status/1334546997827809285"> sẽ sớm có một công cụ hỗ trợ việc dịch chuyển</a> (trước khi game được triển khai) :) 
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
