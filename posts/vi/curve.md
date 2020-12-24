@@ -27,17 +27,17 @@ Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tă
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Những Động Lực Trong Lượng Cung Token của Aavegotchi</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>Learn More</a></li>
+<li><a href=#arbitrage>Kiếm lợi nhuận từ chênh lệch giá</a></li>
+<li><a href=#learn-more>Tìm hiểu thêm</a></li>
 </ol>
 
 </div>
 
 ## Cơ chế
 
-### Minting / Burning on demand
+### Đúc/Đốt theo nhu cầu
 
-Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
+Bonding Curves sử dụng một thuật toán giá để làm việc như ứng dụng tạo thị trường tự động và cung cấp một nguồn thanh khoản vô tận. Người dùng có thể tương tác với bonding curve bằng cách stake các token và trong quỹ dự trữ của bonding curve. Khi họ làm như vậy, bonding curve sẽ đúc ra các token để trả lại cho người dùng dựa trên thuật toán giá. Những token vừa đựa đúc có thể có những ứng dụng đặc thù và thậm chí là được giao dịch bởi người dùng những luôn có thể trao đổi lại thông qua bonding curve dành cho các token ở trong quỹ dự trữ của bonding curve.
 
 When a token is purchased via a TBC, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
 
@@ -91,10 +91,10 @@ In our discussion of the token bonding curve/DAICO above, we learned that the to
 
 The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
 
-## Arbitrage
+## Kiếm lợi nhuận từ chênh lệch giá
 For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
 
-## Learn More
+## Tìm hiểu thêm
 
 * For moar on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
