@@ -60,34 +60,34 @@ Số lượng: 500,000 GHST Giá: 0.1 DAI / GHST
 
 Đợt Pre-Sale của GHST đã được tổ chức vào ngày 14 tháng Chín năm 2020, và chỉ diễn ra trong giới hạn 14 ngày hoặc cho đén khi lượng token được bán hết. Tất cả những Aagent Level 6 và đã thực hiện KYC đề được quyền mua GHST ở giai đoạn này, vào ngày mở bán nói trên.
 
-Để tổ chức mở bán, team phát triển đã snapshot lại thông tin của tất cả những Aagent Level 6. Sau đó, những thành viên này sẽ được kiểm tra xem liệu họ đã hoàn tất KYC hay chưa. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+Để tổ chức mở bán, team phát triển đã snapshot lại thông tin của tất cả những Aagent Level 6. Sau đó, những thành viên này sẽ được kiểm tra xem liệu họ đã hoàn tất KYC hay chưa. Tiếp theo, tất cả những ai đủ điều kiện sẽ nhận được một huy hiện "Verified Level 6" trong Discord. Những người này sau đó được mời tham gia vào kênh Discord đặc biệt và nhận được một liên kết dẫn đến sự kiện presale.
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+Số tiền nhận được đã được dùng để hỗ trợ thanh khoản trong quỹ dự trữ Token Bonding Curve, với tỷ lệ dự trữ là 100%.
 
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+Những người tham gia vào Private Sale và Pre-Sale sẽ dần nhận được token GHST của mình sau một năm, bắt đầu kể từ khi vòng Pre-Sale kết thúc. Sau 180 ngày, đợt trả token đầu tiên tương đương với 50% trên tổng số sẽ được thực hiện, sau đó là một đợt trả token với quy mô nhỏ để trả số lượng token còn lại trong vòng 185 ngày tiếp theo.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
-
-
-**Public Bonding Curve Sale**
-
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
-
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
-
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
-
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
 
 
-**Ecosystem Fund**
+**Sale Công Khai Thông Qua Bonding Curve**
 
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+Như những gì mà bọn của bọn tới thường nói, the curve né vờ đai! Nếu muốn biến thêm nhiều thông tin về cơ thế của bonding curve, hãy xem qua trang [curve](/curve).
+
+Không có giới hạn nào với lượng cung của GHST trong vòng này cả, và cũng không có giới hạn về thời gian. Giá mở bán đã là 0.2 DAI/GHST, và giao động theo đường cong. Token cũng sẽ không bị khoá trong vòng này - người dùng có thể nhận token ngay từ bonding curve.
+
+Những ai đã hoàn thành KYC và địa chỉ của họ đã được vào whitelist của Aavegotchi thì sẽ có thể mua luôn từ bonding curve.
+
+Số tiền có được từ Bonding Curve sẽ được trao cho Pixelcraft Studios thông qua tap mechinism (cơ chế trả lương) được quyết định bởi những người nắm giữ token GHST. Bạn có thể xem thêm và cơ chế này tại [đây](https://fundrasing.aragon.black).
 
 
-**Team Fund**
+**Ngân Quỹ Của Hệ Sinh Thái**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+Ngân Quỹ Của Hệ Sinh Thái lưu giữ 1.000.000 GHST được khoá lại theo cơ chế tương tự như lịch trình của vòng Private và Pre-Sale. Việc mở khoá ngân quỹ có thể được thực hiên thông qua những đề xuất được đệ trình lên [AavegotchiDAO ](/dao) 2.0 hoặc hơn, để phục vụ cho những tình huống hợp lý ví dụ những quỹ phát triển dành cho những thành viên không nằm trong team chủ chốt của Aavegotchi, khuyến mãi và marketing dành cho AavegotchiDAO, cũng như bất kỳ trường hợp nào mà Aavegotchi cảm thấy có ích.
+
+
+**Quỹ Dành Cho Đội Ngũ Phát Triển**
+
+Quỹ này có 1.000.000 GHST được khoá tương tự như lịch trình của vòng Private. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
 
 Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
