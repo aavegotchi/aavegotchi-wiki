@@ -87,39 +87,39 @@ Ngân Quỹ Của Hệ Sinh Thái lưu giữ 1.000.000 GHST được khoá lại
 
 **Quỹ Dành Cho Đội Ngũ Phát Triển**
 
-Quỹ này có 1.000.000 GHST được khoá tương tự như lịch trình của vòng Private. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+Quỹ này có 1.000.000 GHST được khoá tương tự như lịch trình của vòng Private. Tuy nhiên, một khi quỹ này được mở khoá hoàn toàn, chúng sẽ được phân phát dần theo lịch trình 3 năm, và phần còn lại sẽ được khoá lại trong một hợp đồng trả dần mới trong vòng 2 năm, và trả nhỏ giọt cho team cốt lõi của Aavegotchi.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
+Quỹ của team được sử dụng chủ yếu để khuyến khích những thành viên chủ chốt trong team Aavegotchi, để họ có thể cống hiến hết mình cho dự án, cũng như để hỗ trợ cho các advisors bên ngoài.
 
-## Revenue Sharing Overview
+## Tổng Quan Về Phân Chia Doanh Thu
 
-What happens to all the GHST spent on portals and wearables?
+Điều gì sẽ xảy ra khi tất cả GHST được đổ vào portal và wearable?
 
-We've made a handy diagram that briefly breaks it down for you:
+Chúng tôi đang vẽ ra một biểu đồ để có thể giải thích cho bạn một cách ngắn gọn:
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various allocations in more detail.
+Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
 
 
 ## Rarity Farming
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Một phần cốt lõi trong việc trải nghiệm Aavegotchi chính là dành thời gian để chơi với các bé Gotchis và trang bị phụ kiện cho chúng. Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+Nói vậy có nghĩa là **40%**của lượng GHST kiếm được sẽ được phân bố lại cho người chơi thông qua các phần thưởng.
 
-Initially, there will be three categories of Player Rewards:
+Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* Top 100 Aavegotchis Hiếm Nhất (by [BRS](/rarity-farming#base-rarity-score))
+* Top 100 [Điểm Kinship](/traits#kinship) Cao Nhất
+* Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Số phần trăm chính xác của mỗi hạng mục chưa được xác nhận và sẽ được bàn luận thêm tại AavegotchiDAO.
 
-More categories will be added, as the game continues to develop.
+Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
+Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snapshot trên snapshot.
 
 
 ## DAO Governance
