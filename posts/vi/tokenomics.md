@@ -97,7 +97,7 @@ Quỹ của team được sử dụng chủ yếu để khuyến khích những 
 
 Chúng tôi đang vẽ ra một biểu đồ để có thể giải thích cho bạn một cách ngắn gọn:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Tokenomics của Aavegotchi">
 </div>
 
 Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
@@ -152,15 +152,15 @@ Khi những người phát triển giao thức chỉ được trả thù lao b�
 
 Tuy nhiên, nếu những lập trình viên không được trả BẤT KỲ token nền tảng nào, thì phần thưởng sẽ không đủ hấp dẫn, dẫn đến việc tiến hành những quyết định không mấy hay ho.
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
+Bonding curve của Aavegotchi giải quyết vấn đề thông qua phương thức chia tách vấn đề - Tam mechainism dựa trên quyền quyết định của cộng đồng chúng tôi sẽ phân phát DAI từ quỹ dự trữ của Pixelcraft Studios (công ty đứng sau Aavegotchi) mỗi tháng và chúng tôi sẽ có ngân quỹ để tích cực phát triển dự án.
 
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Thêm vào đó, Pixelcraft cũng sẽ nhận 17% tổng doanh thu của GHST, chủ yếu được dùng để khuyến khích thanh khoản, giveaway, và những hoạt động quảng cáo khác yêu cầu GHST.
 
 
 
-**Final Words**
+**Lời cuối**
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+Một trong những điều hay ho nhất trong thới tới tiền mã hoá và lý do tại sao bạn luôn thấy nhưng tay chơi mới thay gia vào ngành này chính là do dây - nó là một trò chơi zero sum. Có thể tất cả chúng ta sẽ kiếm được lợi nhuận cùng nhau, đặc biệt là trong một DAO. Nhưng câu hỏi là, sản phẩm của chúng ta tốt đến đâu. Hãy cố để hiểu rõ về tokenomics mà một dự án cung cấp cho chúng ta, với một điểm bắt đầu đúng.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, các Aagent. 
 
