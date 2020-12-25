@@ -7,23 +7,23 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Chào cả nhà Aavegotchi nha! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
+Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều cuộc thi liên quan đến Aavegotchi tương tác với cộng đồng. Sẽ vui lắm đấy và sẽ có nhiều phần thưởng để giành lấy! Tại đây, bạn có thể nhìn vào những cuộc thi đã kết thúc và những bài dự thi mà chúng tôi nhận được từ người thắng cuộc!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>
-<li><a href=#halloween-costume-contest>Halloween Costume Contest</a></li>
-<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Contest</a></li>
+<li><a href=#aavegotchi-mission-8-meme-contest-winners>Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi</a></li>
+<li><a href=#halloween-costume-contest>Cuộc Thi Trang Phục Halloween</a></li>
+<li><a href=#aavegotchi-mission-9-content-contest>Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi
 
-In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
 
 ### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
 
@@ -37,7 +37,7 @@ In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest m
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Costume Contest
+## Cuộc Thi Trang Phục Halloween
 
 On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
 
@@ -53,7 +53,7 @@ On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literall
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
-## Aavegotchi Mission 9 Content Contest
+## Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi
 
 Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
 
