@@ -49,20 +49,20 @@ GHST là một token quản trị sinh thái được dùng trong Vũ trụ Aave
 
   * **Sắp có.... hãy lên đồ cho Aavegotchi của bạn.** Aavegotchi của bạn có những tiêu chuẩn thời trang khá cao, hãy khiến nó cảm thấy mình đặc biệt và nó sẽ mang lại nhiều giá trị cho bạn. Nếu một Aavegotchi có những đặc điểm và phụ kiện hiếm nhất thì nhiều khả năng nó sẽ là bé ma có giá trị nhất.
 
-  * **Sắp có... hãy góp sức mạnh cho [REALM](/posts/metaverse). **Stake GHST và mở khoá những gói đặc tính trong REALM. REALM là một metaverse pixel 2D dành cho Aavegotchis, nơi mà Aavegotchi có thể gặp những người bạn khác, tham gia vào các minigames, tương tác với hợp đồng thông minh, và tham gia vào việc quản trị AavegotchiDAO. In addition to building out their parcel visually using a parcel editor, REALM holders will also be able to call smart contracts directly from their parcels, unlocking an entire new universe of possibilities.
+  * **Sắp có... hãy góp sức mạnh cho [REALM](/posts/metaverse). **Stake GHST và mở khoá những gói đặc tính trong REALM. REALM là một metaverse pixel 2D dành cho Aavegotchis, nơi mà Aavegotchi có thể gặp những người bạn khác, tham gia vào các minigames, tương tác với hợp đồng thông minh, và tham gia vào việc quản trị AavegotchiDAO. Bên cạnh việc xây dựng hình ảnh cho các gói REALM thông qua chương trình edit, người sở hữu REALM cũng sẽ có thể tương tác trực tiếp với hợp đồng thông minh từ những gói của mình, mở ra một vũ trự của những khả năng hoàn toàn mới mẻ.
 
 
 
 ## Kiếm GHST
-All the GHST collected through sales (portals, wearables, parcels, consumables & collectibles) will be split in two cakes. Cake 1 will reward the Aavegotchi players. Cake 2 will be burnt, which is not really tasty but is [awesome for the token value!](https://discord.com/channels/732491344970383370/769205560222285844/776545843607896074) It is estimated that 80% of GHST will flow into cake 1 at launch (of course the DAO will chose how to adjust), here are ways to earn your share:
+Tất cả GHST kiếm được thông qua các đợt mở bán (portals, wearables, parcels, consumables & collectibles) sẽ được chia ra thành cái bánh. Cái bánh thứ nhất sẽ dành tặng cho những người chơi game Aavegotchi. Cái bánh thứ hai sẽ được đốt đi, nghe không ngon lắm nhưng [với giá trị của token thì lại rất tuyệt vời!](https://discord.com/channels/732491344970383370/769205560222285844/776545843607896074) Theo ước tính, có khoảng 80% GHST sẽ chảy vào cái bánh thứ nhất khi trò chơi lên sóng (tất nhiên là DAO sẽ chọn ra cách điều chỉnh), đây là những cách để bạn cũng được chia phần:
 
- * **[Become an Aagent](https://discord.com/channels/732491344970383370/737923459061121044/738035042399551569)**. Every time you successfully complete a Mission, your Role in the Aavegotchi Discord increases by one. When Aavegotchi launches on Mainnet (announced for December 2020), Mission participants will be entered into giveaways for Aavegotchi swag, including $GHST tokens, fab wearables, and consumables. Each Level will have its own giveaway, so the higher your level, the more chances you’ll have!
-
-* **[Become an exemplary Aagent](https://discord.com/invite/NPwnWB6)**. Our beloved Aavegotchi founders have always rewarded the Aagents that went the extra mile. Have a look at the Discord discussions, there may be some activity that will stick to your skills.
-
-* **Soon... bored with yield farming? Try rarity farming!** The rarest your Aavegotchi, the more GHST rewards you will get back. Read the [aawesome article](/posts/rarity-farming) for more details.
+ * Trở thành một Aavegent</strong>. Cứ mỗi khi bạn hoàn thành một nhiệm vụ thì Cấp độ của bạn trong Discord của Aavegotchi sẽ tăng lên một bậc. Khi Aavegotchi được triển khai trên Mainnet (được công bố là vào tháng Mười Hai năm 2020), những người tham gia vào nhiệm vụ sẽ được tham gia một sự kiện giveaways để giành được những món quà từ Aavegotchi, bao gồm token $GHST, những phụ kiện sang chảnh, và consumables. Mỗi cấp độ sẽ có những giveaway riêng, vậy nên cấp càng lớn thì cơ hội chiến thắng càng cao!</p> 
+   
+   * Hãy trở thành một Aavegent mẫu mực</strong>. Những nhà sáng lập Aavegotchi đáng mến của chúng tôi luôn tưởng thưởng cho những Aavegents có cống hiến vượt trội. Hãy tham gia vào những cuộc thảo luận trên Discord nhé, biết đâu lại có nhiều hoạt động phù hợp với kỹ năng của bạn thì sao.</p></li> 
+  
+  * Sắp có... bạn chán yeild farming rồi đúng không? Vậy thì thử chơi rarity farming nhaaa! </strong>Aavegotchi của bạn càng hiếm thì bạn càng được thưởng nhiều GHST. Read the [aawesome article](/posts/rarity-farming) for more details.
 
 * **Soon... [Participate in the DAO](/posts/dao)**. Wondering what a DAO is? It stand for Decentralised Autonomous Organisation, meaning that the GHST token holders will govern the Aavegotchi realm. More to be announced soon, but the general idea is that the more active a player is in the governance process, the more rewards he/she/it will get.
 
-* <b>Soon... play mini-games.</b> Not much has been announced so far about this, we know the DAO will be the first mini-game
+* <b>Soon... play mini-games.</b> Not much has been announced so far about this, we know the DAO will be the first mini-game</ul></li> </ul>
 
