@@ -124,16 +124,16 @@ Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snaps
 
 ## DAO Governance
 
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Một phần trong những trách nhiệm của DAO bao gồm có việc quản lý ngân quỹ cho bất kỳ mục đích nào miễn là nó xứng đáng. (Hình Waifu, chẳng hạn?)
 
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+Ban đầu, **10%** doanh thu sẽ được phân phát cho ngân quỹ của DAO. Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
 
 
 ## BURN BABY BURN
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách nó vận hành là cực kỳ tốt. Khi đó, chuyện vui mới bắt đầu.
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+**33%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
 This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed suply.
 
