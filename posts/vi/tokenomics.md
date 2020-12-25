@@ -15,52 +15,52 @@ contributors:
 
 Tokenomics hả? Ai quan tâm đâu bạn ơi? WeN mOoN??
 
-Bọn tớ quan tâm đấy, các bạn cũng nên như vậy. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Bọn tớ quan tâm đấy, các bạn cũng nên như vậy. Nếu bạn định đầu tư vào một dự án như GHST (hoặc bất kỳ dự án nào có tiềm năng ấy), thì việc hiểu rõ cách vận hành của cả một hệ sinh thái lớn là vô cùng cần thiết. Suy cho cùng, đây mới chính là yếu tố giúp chúng ta chiến thắng.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Giải pháp của Aavegotchi về vấn đề chia sẻ doanh thu và tokenomics hướng đến việc cân bằng bốn mục tiêu:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Tạo ra một hệ sinh thái vừa-chơi-vừa-kiếm-tiền có thể trao thưởng cho những người chơi tích cực và những ai tham gia vào DAO</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Đảm bảo được rằng token GHST có một nền tảng vững chải để nắm bắt được những giá trị dài hạn</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Xây dựng ngân quỹ cho AavegotchiDAO để dùng trong chi tiêu cho nhiều mục đích khác nhau</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Mang đến phần thưởng tài chính đều đặn cho những ai phát triển nên Aavegotchi</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token GHST được phân phối và đề xuất cách mà những mục tiêu này được hoàn thành.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
+<li><a href=#token-distribution>Phân Phối Token</a></li>
+<li><a href=#revenue-sharing-overview>Tổng Quan Về Phân Chia Doanh Thu</a></li></p>
 <p><a href=#rarity-farming>Rarity Farming</a></p>
 <p><a href=#dao-governance>DAO Governance</a></p>
 <p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<p><a href=#development-team>Đội Ngũ Phát Triển</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## Phân Phối Token
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
+GHST được phân phối theo ba giai đoạn. Bao gồm private sale, pre-sale, và public bonding curve sale.
 
 
 **The Private Sale**
 
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
+Số lượng: 5.000.000 GHST Giá: 0.05 DAI / GHST
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+Private sale diễn ra vào Tháng Tám 2020. Những ai thực hiện KYC và có ít nhất 20k DAI sẽ có quyền tham gia. Số tiền kêu gọi được trong vòng này sẽ đượng phân bố cho Pixelcraft Studios, công ty phát triển Aavegotchi, để đảm bảo thành công cho sự phát triển của trò chơi Aavegotchi.
 
 
-**The Pre-Sale**
+**Pre-Sale**
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
+Số lượng: 500,000 GHST Giá: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+Đợt Pre-Sale của GHST đã được tổ chức vào ngày 14 tháng Chín năm 2020, và chỉ diễn ra trong giới hạn 14 ngày hoặc cho đén khi lượng token được bán hết. Tất cả những Aagent Level 6 và đã thực hiện KYC đề được quyền mua GHST ở giai đoạn này, vào ngày mở bán nói trên.
 
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+Để tổ chức mở bán, team phát triển đã snapshot lại thông tin của tất cả những Aagent Level 6. Sau đó, những thành viên này sẽ được kiểm tra xem liệu họ đã hoàn tất KYC hay chưa. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
 
 The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
 
