@@ -9,7 +9,7 @@ contributors:
 
 Bạn có thắng mắc nào về những thông tin được Aavegotchi công bố hay không? Đây là con đường đến mainnet của chúng tôi!
 
-The Aavegotchi team uses an iterative development flow built on upgradable contracts, allowing them to adapt based on feedback from the <a href="https://wiki.aavegotchi.com/community">community</a>. There will also be opportunities to participate for bug bounties. Once primary development is finished, the team will ensure that the contracts are audited.
+Team Aavegotchi sử dụng một loạt hoạt động phát triển lặp đi lặp lại được xây dựng trên những hợp đồng có thể nâng cấp được, cho phép chúng có thể thích nghi dựa trên những góp ý từ <a href="https://wiki.aavegotchi.com/community">cộng đồng</a>. Sẽ có cơ hội để các bạn tham gia vào quá trình tìm lỗi trong trò chơi. Một khi các khía cạnh cốt lõi được phát triển hoàn tất, team đảm bảo rằng các hợp đồng thông minh sẽ được audit.
 
 <div class="contentsBox">
 
@@ -17,8 +17,8 @@ The Aavegotchi team uses an iterative development flow built on upgradable contr
 
 <ol>
 <li><a href=#q3-20>Q3 2020 </a></li>
-<li><a href=#q4-20>Early Q4 2020</a></li>
-<li><a href=#lateq4-20>Late Q4 2020</a></li>
+<li><a href=#q4-20>Đầu Q4 2020</a></li>
+<li><a href=#lateq4-20>Cuối Q4 2020</a></li>
 <li><a href=#q1-21>Q1 2021</a></li>
 </ol>
 
@@ -27,24 +27,24 @@ The Aavegotchi team uses an iterative development flow built on upgradable contr
 <a name="q3-20"></a>
 <h2>Q3 2020</h2>
 <ul>
-<li>GHST token distribution</li>
-<li>Aavegotchi DAO 1.0 launches</li>
+<li>Phát token GHST</li>
+<li>Aavegotchi DAO 1.0 được triển khai</li>
 </ul>
 
 <a name="q4-20"></a>
-<h2>Early Q4 2020</h2>
+<h2>Đầu Q4 2020</h2>
 <ul>
-<li>Aavegotchi testnet launches</li>
+<li>Testnet của Aavegotchi được triển khai</li>
 </ul>
 
 <a name="lateq4-20"></a>
-<h2>Late Q4 2020</h2>
+<h2>Cuối Q4 2020</h2>
 <ul>
-<li>Aavegotchi Mainnet and AavegotchiDAO 2.0 launches</li>
+<li>Mainnet của Aavegotchi và AavegotchiDAO 2.0 được triển khai</li>
 </ul>
 <a name="q1-21"></a>
 <h2>Q1 2021</h2>
 <ul>
-<li>Rarity farming begins</li>
-<li>Aavegotchi Realm begins </li>
+<li>Rarity farming bắt đầu</li>
+<li>Aavegotchi Realm bắt đầu </li>
 </ul>
