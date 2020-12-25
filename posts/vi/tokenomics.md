@@ -135,22 +135,22 @@ Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách n
 
 **33%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed suply.
+Con số cao chót vót này bắt nguồn từ việc GHST là một token với lượng cung có động lực. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. Đó là vấn đề của những token có lượng cung giới hạn.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+Việc trực tiếp gửi GHST đến địa chỉ đốt cũng sẽ khoá DAI có trong bonding curve, tạo ra một sàn tăng giá cho GHST. Đây là một điều hoàn toàn tích cực cho nhiều phía, khi mà nó cho mang đến thanh khoản tốt hơn cho người mua kẻ bán trên đường cong (hay nói cách khác là trượt giá), giảm lượng cung, và mang đến tính ổn định cho [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
-## Development Team
+## Đội Ngũ Phát Triển
 
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+Cuối bài nhưng chắc chắn là chưa hết đâu đấy, **17%**doanh thu sẽ được trả cho đội ngũ phát triển. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+Ý là, chúng ta đều là con người mà ha. Khi mà những lập trình viên của giao thức không nhận được những phần thưởng khích lệ xứng đang thì đó sẽ là lý do lớn nhất khiến cho giao thức thất bại, và đó là vấn đề mà Aavegotchi muốn ngăn chặn.
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+Khi những người phát triển giao thức chỉ được trả thù lao bằng token của nền tảng thì họ buộc phải bán token để chi trả cho các chi phí, dẫn đến các áp lực bán tháo và một viễn cảnh “spiral of death” sẽ diễn ra khiến giá token không thể nào phục hồi lại được.
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+Tuy nhiên, nếu những lập trình viên không được trả BẤT KỲ token nền tảng nào, thì phần thưởng sẽ không đủ hấp dẫn, dẫn đến việc tiến hành những quyết định không mấy hay ho.
 
 The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
 
