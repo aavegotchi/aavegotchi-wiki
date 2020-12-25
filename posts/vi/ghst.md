@@ -1,8 +1,8 @@
 ---
 author: letsgobankless
 date: '2020-11-28T07:00:00.000Z'
-title: 'GHST Token'
-description: 'The eco-governance token of Aavegotchi'
+title: 'Token GHST'
+description: 'Token quản trị sinh thái của Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
@@ -58,11 +58,11 @@ Tất cả GHST kiếm được thông qua các đợt mở bán (portals, weara
 
  * Trở thành một Aavegent</strong>. Cứ mỗi khi bạn hoàn thành một nhiệm vụ thì Cấp độ của bạn trong Discord của Aavegotchi sẽ tăng lên một bậc. Khi Aavegotchi được triển khai trên Mainnet (được công bố là vào tháng Mười Hai năm 2020), những người tham gia vào nhiệm vụ sẽ được tham gia một sự kiện giveaways để giành được những món quà từ Aavegotchi, bao gồm token $GHST, những phụ kiện sang chảnh, và consumables. Mỗi cấp độ sẽ có những giveaway riêng, vậy nên cấp càng lớn thì cơ hội chiến thắng càng cao!</p> 
    
-   * Hãy trở thành một Aavegent mẫu mực</strong>. Những nhà sáng lập Aavegotchi đáng mến của chúng tôi luôn tưởng thưởng cho những Aavegents có cống hiến vượt trội. Hãy tham gia vào những cuộc thảo luận trên Discord nhé, biết đâu lại có nhiều hoạt động phù hợp với kỹ năng của bạn thì sao.</p></li> 
-  
-  * Sắp có... bạn chán yeild farming rồi đúng không? Vậy thì thử chơi rarity farming nhaaa! </strong>Aavegotchi của bạn càng hiếm thì bạn càng được thưởng nhiều GHST. Read the [aawesome article](/posts/rarity-farming) for more details.
+   * **[Hãy trở thành một Aavegent mẫu mực](https://discord.com/invite/NPwnWB6)**. Những nhà sáng lập Aavegotchi đáng mến của chúng tôi luôn tưởng thưởng cho những Aavegents có cống hiến vượt trội. Hãy tham gia vào những cuộc thảo luận trên Discord nhé, biết đâu lại có nhiều hoạt động phù hợp với kỹ năng của bạn thì sao.
 
-* **Soon... [Participate in the DAO](/posts/dao)**. Wondering what a DAO is? It stand for Decentralised Autonomous Organisation, meaning that the GHST token holders will govern the Aavegotchi realm. More to be announced soon, but the general idea is that the more active a player is in the governance process, the more rewards he/she/it will get.
+* **Sắp có... Bạn chán yeild farming rồi đúng không? Vậy thì thử chơi rarity farming nhaaa! **Aavegotchi của bạn càng hiếm thì bạn càng được thưởng nhiều GHST. Hãy đọc qua [những bài viết hay ho](/posts/rarity-farming) này để biết thêm thông tin chi tiết.
 
-* <b>Soon... play mini-games.</b> Not much has been announced so far about this, we know the DAO will be the first mini-game</ul></li> </ul>
+* **Sắp có... [Tham gia vào DAO](/posts/dao)**. Bạn có tự hỏi DAO là gì không? Đó là từ viết tắt của Decentralised Autonomous Organisation (Tổ chức Tự động Phân tán), nghĩa là những ai nắm giữ token GHST sẽ có quyền quản trị đối với vùng đất Aavegotchi. Thông tin sẽ được bật mí thêm sớm thôi, nhưng ý chung là những người chơi càng tích cực tham gia vào quá trình quả trị, thì ảnh/cổ/nỏ sẽ nhận được càng nhiều phần thưởng.
+
+* <b>Sắp có... Chơi Minigame.</b> Không có nhiều thông tin được ông bố, chúng ta chỉ biết rằng DAO chính là trò chơi đầu tiên</li> </ul>
 
