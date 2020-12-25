@@ -10,33 +10,33 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ghst/ghst.gif">
-<p class="headerImageText">GHST Token</p>
+<p class="headerImageText">Token GHST</p>
 </div>
 
-GHST token is the eco-governance token of the Aavegotchi Universe. GHST is minted by depositing DAI into a [bonding curve](/posts/curve). As long as Ethereum exists, it will be possible to convert GHST back into DAI by interacting with the curve.
+Token GHST là một token quản trị sinh thái được dùng trong Vũ trự Aavegotchi. GHST được đúc bằng cách ký gửi DAI vào trong một [bonding curve](/posts/curve). Khi Ethereum còn vận hành, thì việc chuyển đổi GHST lại trở thành DAI bằng các tương tác với bonding curve vẫn sẽ có thể thực hiện được.
 
-GHST is an ERC-20 token running on the ethereum blockchain at the address: <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>.  Be cautious to follow the guidelines below and refer to this exact address when gettin some.
+GHST là một trong những token ERC-20 được vận hành trên blockchain Ethereum tại địa chỉ <a href="https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550">0x3F382DbD960E3a9bbCeaE22651E88158d2791550</a>.  Hãy cẩn thận khi làm theo hướng dẫn bên dưới và hãy sử dụng đúng địa chỉ để có thể mua được token này.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#get-ghst>Get GHST</a></li>
-<li><a href=#use-ghst>Use GHST</a></li>
-<li><a href=#use-ghst>Earn GHST</a></li>
+<li><a href=#get-ghst>Sở hữu GHST</a></li>
+<li><a href=#use-ghst>Dùng GHST</a></li>
+<li><a href=#use-ghst>Kiếm GHST</a></li>
 </ol>
 
 </div>
 
-## Get GHST
-There are basically 2 ways to buy GHST tokens :
-  * [From the official Aavegotchi Bonding Curve](https://aavegotchi.com/curve). Buy here and fund directly the Aavegotchi development (the DAO governs how to deal with the DAI collected in the treasury). <i>Note: Requires KYC, citizens from the United States & China cannot participate.</i>  * [From DEXes and centralized exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). GHST is listed on many DEXes and exchanges, including <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550">Uniswap</a>, <a href="https://www.binance.com/en/trade/GHST_ETH?layout=pro">Binance</a>, <a href="https://www.okex.com/spot/trade/ghst-eth#type=1">OKex</a>, and <a href="https://matcha.xyz/markets/GHST">Matcha</a>. Acquiring GHST from these platforms does not require KYC, but it also does not directly support the Aavegotchi DAICO.
+## Sở hữu GHST
+Về cơ bản, có 2 cách để mua token GHST:
+  * [Từ Bonding Curve chính thức của Aavegotchi](https://aavegotchi.com/curve). Mua token ở đây và góp vốn trực tiếp cho team phát triển Aavegotchi (tổ chức DAO quản trị cách sử dụng số DAI được ký gửi trong ngân quỹ). <i>Chú ý: Không cần KYC, người có quốc tịch Hoà Kỳ và Canada không thể tham gia.</i>  * [Từ cách sàn giao dịch phi tập trung và tập trung](https://www.coingecko.com/en/coins/aavegotchi#markets). GHST được niêm yết trên nhiều sàn giao dịch tập trung và phi tập trung, bao gồm <a href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550">Uniswap</a>, <a href="https://www.binance.com/en/trade/GHST_ETH?layout=pro">Binance</a>, <a href="https://www.okex.com/spot/trade/ghst-eth#type=1">OKex</a>, and <a href="https://matcha.xyz/markets/GHST">Matcha</a>. Việc mua GHST trên các nền tảng này không đòi hỏi KYC, nhưng cũng không trực tiếp hỗ trợ cho cơ chế DAICO của Aavegotchi.
 
-Although most Ethereum wallets will allow you to buy GHST, it is recommended to use [Metamask](https://metamask.io/). If your GHST does not display in Metamask, follow this [guide](https://www.youtube.com/watch?v=vePRtkt5Bu0) to add it. Beware of smart contract wallets which may not be fully compatible with staking or other functions.
+Mặc dù đa số ví Ethereum sẽ cho phép bạn mua GHST, thế những bạn nên dùng [Metamask](https://metamask.io/). If your GHST does not display in Metamask, follow this [guide](https://www.youtube.com/watch?v=vePRtkt5Bu0) to add it. Beware of smart contract wallets which may not be fully compatible with staking or other functions.
 
 
-## Use GHST
+## Dùng GHST
 GHST is the eco-governance token of the Aavegotchi Universe. When Aavegotchi launches on Mainnet, players will spend GHST to buy [portals](https://wiki.aavegotchi.com/portals), [wearables](https://wiki.aavegotchi.com/wearables), and [REALM parcels](https://wiki.aavegotchi.com/metaverse).
 
 Here are all the current and future uses for GHST:
@@ -53,7 +53,7 @@ Here are all the current and future uses for GHST:
 
 
 
-## Earn GHST
+## Kiếm GHST
 All the GHST collected through sales (portals, wearables, parcels, consumables & collectibles) will be split in two cakes. Cake 1 will reward the Aavegotchi players. Cake 2 will be burnt, which is not really tasty but is [awesome for the token value!](https://discord.com/channels/732491344970383370/769205560222285844/776545843607896074) It is estimated that 80% of GHST will flow into cake 1 at launch (of course the DAO will chose how to adjust), here are ways to earn your share:
 
  * **[Become an Aagent](https://discord.com/channels/732491344970383370/737923459061121044/738035042399551569)**. Every time you successfully complete a Mission, your Role in the Aavegotchi Discord increases by one. When Aavegotchi launches on Mainnet (announced for December 2020), Mission participants will be entered into giveaways for Aavegotchi swag, including $GHST tokens, fab wearables, and consumables. Each Level will have its own giveaway, so the higher your level, the more chances you’ll have!
