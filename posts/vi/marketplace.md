@@ -1,39 +1,39 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+title: 'Marketplace (Thị trường trao đổi)'
+description: 'Các marketplace (thị trường trao đổi) dành cho Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces.
+Vé raffle Aavegotchi và những voucher mở ra wearable có thể được trao đổi giữa những người chơi thông qua nhiều marketplace khác nhau.
 
-Currently, [OpenSea](https://opensea.io/) is the most accessible marketplace where trades take place. In the future, Aavegotchi will host their own internal marketplace for gamers to trade among themselves.
+Hiện tại, [OpenSea](https://opensea.io/) là thị trường dễ dùng nhất với nhiều hoạt động trao đổi mua bán. Trong tương lai, Aavegotchi sẽ tổ chức một marketplace trong game để người chơi có thể trao đổi với nhau.
 
-As more Aavegotchi assets become available, there will be more categories of assets that are available for trading (e.g. portals, the Aavegotchis themselves, etc).
+Khi có nhiều tài sản xuất hiện trong Aavegotchi hơn, sẽ có nhiều hạng mục tài sản mà người chơi có thể trao đổi (ví dụ như portal, hoặc các Aavegotchi, v.v.).
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
+<li><a href=#opensea-tutorial>Hướng Sử Dụng OpenSea</a></li>
+<li><a href=#precautions>Khuyến Cáo Trước</a></li>
 </ol>
 
 </div>
 
-## Collection Addresses
+## Địa Chỉ Của Các Vật Phẩm
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+Bảng phía dưới đây cho thấy địa chỉ hợp đồng thông minh chính thức của nhiều loại tài sản trong Aavegotchi. Trước khi mua hàng trên bất kỳ marketplace nào, hãy xác thực lại hợp đồng của món hàng mà bạn định mua thông qua những hợp đồng được liệt kê trong bảng dưới đây (ví dụ, nếu bạn định mua vế Raffle, hãy xem lại contract address của Raffle Tickets trước khi tiến hành mua).
 
 table_smartcontracts
 
-## OpenSea Tutorial
+## Hướng Sử Dụng OpenSea
 
-The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
+Bài hướng dẫn sử dụng OpenSea sẽ hướng dẫn cho bạn kiểm tra kỹ lưỡng trước khi mua bất kỳ vật phẩm nào từ OpenSea. Bài hướng dẫn này không dành cho tất cả các vật phẩm; chỉ Raffle Tickets được dùng làm ví dụ. You can extend the same principle to other asset categories (e.g. Wearables, etc).
 
 Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
 
@@ -56,7 +56,7 @@ Next, scroll down the page, and check the Chain Info subsection. Compare the Con
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## Khuyến Cáo Trước
 
 It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
