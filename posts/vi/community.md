@@ -9,16 +9,16 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/community/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">Hello, fren!</p>
+<p class="headerImageText">Hê lô mấy cưng!</p>
 </div>
 
-Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
+Chào mừng các bợn đến với đại gia đình Aavegotchi! Cộng đồng chúng tôi là một hội những người phát cuồng vì Aavegotchi. Bọn mình hoạt động trên nhiều kênh khác nhau nên các bạn có thể dễ dàng tìm cho mình một nền tảng phù hợp nhất - nhưng hãy chắc chắn là bạn sẽ ghé thăm Discord nếu bạn muốn được phong chức thành Aavegotchi Aagent (Điệp viên Aavegotchi)! Aavegotchi lAavegent à một phần chủ chốt trong cộng đồng chúng tôi, với những kiến thức chuyên sâu về Aavegotchi và những phụ kiện Điệp viên xịn xò. Hãy đọc thêm nhiều thông tin để biết cách trở thành một Aagent, cũng như hàng tá cách để giao lưu với những người bạn Gochigang nhắn nhít ngoài kia.
 
 <a name="Discord"></a>
 
 <div class="contentsBox">
 
-**Contents**
+**Nội dung**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
@@ -32,52 +32,43 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 &nbsp;
 
-<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a>
+<a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Tham gia với chúng tôi trên Discord**</a>
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>almost 6,000 members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
- fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
-Our Discord is also a great spot for anyone with general questions, not so general questions, those who need technical support, or any frens who want to just 
-pop in and chat. </p>
+<p style="margin-left: 4.8em">Đại gia đình Aavegotchi trên Discord có <b> gần 6000 thành viên siêu khủng long </b>, Với những ai chưa quen với Gotchi, kênh Discord sẽ là nơi tuyệt vời nhất, với một gia tài thông tin đồ sộ về dự án Aavegotchi cũng như những Aavegotchi Aaprentices (Aavegotchi Tập sự) thân thiết, Trợ lý của riêng bọn mình, và một cộng đồng thành viên vô cùng tốt bụng.  
+Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho những ai những câu hỏi chung, những câu không được chung cho lắm, những ai cần sự hỗ trợ kỹ thuật và bất kể những bồ tèo nào chỉ muốn tham gia để chat chít cho vui. </p>
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
-is currently slated for late December, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
+<p style="margin-left: 4.8em">Mà đặc biệt nha, cũng <b> CHỈ CÓ </b> tham gia vào Discord của Aavegotchi thì bạn có thể hoàn thành những "nhiệm vụ" Aavegotchi tẹt vời mà hui. Làm nhiệm vụ (hiện tại có 11 nhiệm vụ tổng cộng) sẽ tự động được tăng bậc Aagent, mang đến cho mấy fen <b>những bộ trang bị Aavegotchi Aagent phải gọi là độc lạ</b> khi mấy fen <b>đã hoàn thành hết nhiệm vụ trước khi mainnet được triển khai. </b> Mainnet hiện chưa lên sóng trong giai đoạn cuối Tháng Mười Hai, vậy nên hãy ghé qua trang <a href="https://wiki.aavegotchi.com/en/missions"> nhiệm vụ </a> để có được thông tin về cách thăng hạn nhé!
 </p>
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a>
+<a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Xem Bài Viết Của Chúng Tôi Trên Medium**</a>
 
-<p style="margin-left: 4.8em">The Aavegotchi Medium page is a great place for readers who want to keep up with the Aavegotchi project. This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired Gotchi fan-fiction.</p>
+<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. Đây là nơi mà bạn sẽ tìm thấy những cập nhật cộng đồng chuyên sâu, cũng như những thông tin chi tiết về<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffle (xổ số), </a> những sự kiện và đôi khi thậm chí bắt gặp một số fan-fiction được lấy cảm hứng từ Gotchi.</p>
 
 &nbsp;<a name="Telegram"></a>
 
-<a href="https://twitter.com/aavegotchi"><img class="community" src="/community/twitter.png" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Follow Us on Twitter**</a>
+<a href="https://twitter.com/aavegotchi"><img class="community" src="/community/twitter.png" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Follow Bọn Mình Trên Twitter**</a>
 
-<p style="margin-left: 4.8em">Twitter is our super-efficient news venue. Here you can keep up with all Aavegotchi events in 280 characters or less, from news
- about our community parties (!) to important progress updates and a latest who’s-who on the most recent converts to our Aavegotchi cause 
-(see <a href=https://twitter.com/aavegotchi/status/1313813072717389824">Jay Hao updates 
-Twitter avatar</a>).</p>
+<p style="margin-left: 4.8em">Twitter là một nguồn thông tin siêu toẹt vời của bọn mình. Tại đây mấy fen có thể cập nhật nhanh chóng tất cả những sự kiện Aavegotchi trong vỏn vẹn 280 ký tự trở xuống, từ tin tức về những bữa tiệc cộng đồng của bọn mình (!) cho đến những cập nhật tiến độ quan trọng và những gương mặt nổi cộm mà gần đây đã chuyển đổi sang thế giới Aavegotchi (xem <a href=https://twitter.com/aavegotchi/status/1313813072717389824">Jay Hao cập nhật avatar Twitter</a>).</p>
 
 &nbsp;
 
-<a href="https://t.me/aavegotchi"><img class="community" src="/community/telegram.png" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Find Us on Telegram**</a>
+<a href="https://t.me/aavegotchi"><img class="community" src="/community/telegram.png" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Tìm Bọn Mình Trên Telegram**</a>
 
-<p style="margin-left: 4.8em">What’s a crypto project without Telegram? In addition to our Discord, you can also find our devs and team in Telegram, along with 
-around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavegotchi Telegram is another hyper-aactive channel where you can reach us anytime. </p>
+<p style="margin-left: 4.8em">Dự án tiền mã hoá mà không có Telegram thì hơi lạ hen? Ngoài Discord thì mấy fen cũng có thể kết nối với những các lập trình viên cùng cả team bọn mình trên Telegram, với hơn 3100 bồ tèo khác. Được hoàn thiện với các sticker mang hình dạng Aavegotchi, Telegram của Aavegotchi là một trong những kênh thông tin hoạt động siêu hăng hái mà bạn có thể đến chơi bất kỳ lúc nào. </p>
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/"><img class="community" src="/community/reddit.jpg" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme with Us on Reddit**</a>
+<a href="https://www.reddit.com/r/Aavegotchi/"><img class="community" src="/community/reddit.jpg" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Chế Hình Với Bọn Mình Trên Reddit**</a>
 
-<p style="margin-left: 4.8em">Come for the memes and stay for the community! Take a break and have a wonderfully good time at Aavegotchi Reddit, where our great memers reside!</p>
+<p style="margin-left: 4.8em">Đến để chế hình và ở lại vì chúng mình! Thư giãn một tẹo và thưởng thức những phút giây tuyệt vời tại Aavegot Reddit nhé, bởi đây là nơi trú ngụ của những cao thủ chế meme đấy!</p>
 
 &nbsp;
 
-We look forward to welcoming you, fren! Head over to any of our channels or our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> to learn more.
+Bọn mình đang trông các bạn quá đây này! Hãy cùng gia nhập vào những kênh yêu thích và hoàn thành <a href="https://wiki.aavegotchi.com/en/missions">nhiệm vụ </a> để hiểu hơn về bọn mình nhé.
 
 
 

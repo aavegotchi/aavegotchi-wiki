@@ -32,6 +32,7 @@ When you're done reading this and hopefully have a better understanding of these
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#collateral>Collateral</a></p>
+<p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
@@ -91,6 +92,8 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
+### DAICO
+Stands for Decentralized Autonomous Initial Coin Offering. It's an improvement on the ICO fundraising model that incorporates certain aspects of [DAOs](/glossary#DAO).
 
 
 ### DAO

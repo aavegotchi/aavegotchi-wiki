@@ -8,34 +8,34 @@ image: "icons/introduction.svg"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Trang Wiki của Aavegotchi</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Chào mừng fen đến với trang Wiki chính thức của Aavegotchi!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and update by our aamazing team of contributors, known as Aarchivers.
+This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
 
-## New to Aavegotchi?
+## Mới biết tới Aavegotchi hử?
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game.
+Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một bài tổng quan cấp cao về trò chơi Aavegotchi nhé.
 
-## Popular Pages
-* [Gameplay](https://wiki.aavegotchi.com/gameplay) -- Introduction to the Aavegotchi game
-* [GHST](https://wiki.aavegotchi.com/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](https://wiki.aavegotchi.com/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](https://wiki.aavegotchi.com/dao) -- Everything there is to know about AavegotchiDAO
+## Trang Được Xem Nhiều
+* [Lối chơi](https://wiki.aavegotchi.com/gameplay) -- Giới thiệu về game Aavegotchi
+* [GHST](https://wiki.aavegotchi.com/ghst) -- Học thêm về token sinh thái quản trị của Aavegotchi
+* [Staking](https://wiki.aavegotchi.com/staking) -- Học cách stake GHST để có FRENS
+* [DAO](https://wiki.aavegotchi.com/dao) -- Mọi thứ cần biết về AavegotchiDAO
 
-## Other Useful Pages
+## Những Trang Hữu Ích Khác
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Team](https://wiki.aavegotchi.com/team) -- Xem những ai đang xây dựng Aavegotchi
+* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- Roadmap mới toanh của Aavegotchi
 
 
 
-## Contribute
+## Đóng Góp
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+Bất kì ai muốn đóng góp cho trang Wiki, chỉ cần viết cho bọn mình một lời đề nghị trên [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+Nếu bạn muốn đóng góp, hãy vào kênh #wiki trên Discord của Aavegotchi và xin phép các Aarchiver nhé.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Sau đó đến Github Repo của bọn mình và viết nên những dòng đầu tiên nhé. 

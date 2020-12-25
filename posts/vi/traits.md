@@ -12,7 +12,7 @@ Aavegotchis are born with traits. Just like how your traits define who your are 
 
 <div class="contentsBox">
 
-**Contents**
+**Nội dung**
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
@@ -31,13 +31,13 @@ table_TraitsProbabilities
 
 The bell curve for trait value distribution would look something like the following:
 
-<img class="traits" src="/traits/bell_curve.jpg" width = "500" />
+<img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
 
 Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
 
 Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game.
 
-The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart *
+The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
 
 table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>

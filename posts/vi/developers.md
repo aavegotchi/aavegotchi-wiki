@@ -5,13 +5,13 @@ title: 'Develop this Wiki'
 description: 'Jump in and help develop this Wiki!'
 ---
 
-Wanna show off your hotshot coding skills? Help develop this Wiki!
+Bạn muốn thể hiện khả năng lập trình siêu đỉnh của mình không? Giúp chúng tôi phát triển trang Wiki này nhé!
 
-Some requested or needed features:
+Một số tính năng được yêu cầu hoặc đang cần:
 
 * 🌃 Daark Mode
-* 📱 Make it more Mobile frenly
-* ✏️ "Edit this Page" button that links directly to the Github edit page
+* Giúp Wiki tương thích với điện thoại hơn
+* ✏️ Nút "Edit this Page" có thể liên kết trực tiếp với trang edit trên Github
 
 <div style="margin-top:50px;"></div>
 

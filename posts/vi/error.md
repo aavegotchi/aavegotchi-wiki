@@ -10,4 +10,4 @@ tags:
   - "Blocknative"
 ---
 
-Page not found, fren!
+Không tìm thấy trang này, bạn ơi!
