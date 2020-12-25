@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Contests'
-description: 'Our Winners!'
+title: 'Cuộc thi'
+description: 'Người Thắng Cuộc Của Chúng Tôi!'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -23,58 +23,58 @@ Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều
 
 ## Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi
 
-Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! Top 3 những meme được upvote nhiều nhất vào lúc 20 giờ (Singapore), ngày 9 tháng Mười sẽ nhận được mỗi người lần lượt 300, 200, và 100 token GHST.
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">Giải 1: Aavegotchi PAC MAN của bạn Zemus</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">Giải 2: By Your Powers Combined của Raster Eyes</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">Giải 3: Cozy GHST do Moon</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
 ## Cuộc Thi Trang Phục Halloween
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+Vào Thứ Sáu, ngày 30 tháng Mười (16 giờ UTC / 12 giờ trưa EST / 12 giờ đêm SGT), các bé ma * thực sự theo nghĩa đen* đã xuất hiện để diễu hành (bản gốc chơi chữ ý :P). Các Aagent đã vui vẻ khoác mặc trang phục lên cho Aavegotchi của mình và mỗi gotchi đã <s>sải bước</s>lướt xuống sàn <s>cat</s>ghost walk. Cộng đồng cũng đã bầu chọn cho tác phẩm mà mình yêu thích.
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">Gải nhất: IT của Esveebee</span>
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">Giải 2: Zombie của Flamee</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">Giải 3: Trumpigotchi của PoW Miner</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
 ## Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Thời Đại là 100 thành viên! Các bạn không còn là aagents nữa, mà các bạn là thành viên của một băng đản đản đang trổi dậy vượt bậc - Băng đản Gotchi Gang! Với nhiệm vụ tuần này, hãy shill Aavegotchi vượt mọi biên giới! Hãy sáng tao nên những nội dung về Aavegotchi (dù là viết hay là video). Ba tác phẩm thuộc mỗi đề mục (viết hoặc video) được chọn ra bởi đội ngũ phát triển sẽ nhận được những phần thưởng ngọt sớt là lượng token GHST trị giá lần lượt là 300/100/50, cũng như cơ hội để tạo ra nhiều nội dung hơn với chúng tôi.
 
-### Video Category
+### Hạng Mục Video
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">Giải 1: Cách Để Bắt Đầu Chơi Aavegotchi của Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">Giải 2: Hiểu Aavegotchi trong 2 phút của DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">Giải 3: Thành Viên Vô Danh tìm Aavegotchi của Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### Hạng Mục Viết
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">Gải 1: Aavegotchi: Farming Một Cách Frenly Giữa Trời Mùa Thu của Appelants</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">Giải 2: Chơi để giàu hay chơi để chết của Letsgobankless</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">Giải 3: Ơn Giời, Aavegotchi trên Testnet Koven Đây Rồi! [Step-by-Step-guide] by Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
