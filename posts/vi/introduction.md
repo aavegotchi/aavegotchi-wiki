@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+description: 'Giới thiệu về trang Wiki của Aavegotchi'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -61,7 +61,7 @@ Việc đánh giá Aavegotchi đến từ giá trị nội tại và độ hiế
 
 * **Giá trị nội tại** Giá trị nội tại là giá trị được định giá bằng lượng tiền ký quỹ stake trong Aavegotchi. Nếu Aavegotchi được stake với 10 aDAI, thì giá trị nội tại sẽ là khoản 10 aDAI, cộng thêm bất kỳ aDAI phát sinh nào có được từ Lending Pool. Ban đầu, chỉ những token ERC20 được liệt kê trên nền tảng Aave (aToken) sẽ được dùng để ký quỹ. Tuy nhiên, một khi AavegotchiDAO được triển khai, cộng đồng sẽ có thể vote xem những loại tiền ký quỹ nào sẽ được cho phép.
 
-* **Giá trị hiếm** Giá trị hiếm được định hình bằng cách tính toán độ hiếm của một đặc điểm mà Aavegotchi sỡ hữu và những phụ kiện được trang bị trong thế giới Aavegotchi. Không giống như những game NFT khác, độ hiếm không phải là một giá trị cố định trong Aavegotchi. Nó có thể thay đổi theo thời gian khi Aavegotchis lên cấp và trang bị những phụ kiện khác. Dodos, một Aavegotchi hiếm trong tuần này có thể trở nên bình thường vào tuần sau, và vân vân, phụ thuộc vào sự phân bổ tổng thể của các thuộc tính và phụ kiện trong thế giới Aavegotchi. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **Giá trị hiếm** Giá trị hiếm được định hình bằng cách tính toán độ hiếm của một đặc điểm mà Aavegotchi sỡ hữu và những phụ kiện được trang bị trong thế giới Aavegotchi. Không giống như những game NFT khác, độ hiếm không phải là một giá trị cố định trong Aavegotchi. Nó có thể thay đổi theo thời gian khi Aavegotchis lên cấp và trang bị những phụ kiện khác. Dodos, một Aavegotchi hiếm trong tuần này có thể trở nên bình thường vào tuần sau, và vân vân, phụ thuộc vào sự phân bổ tổng thể của các thuộc tính và phụ kiện trong thế giới Aavegotchi. Từ đó, một khái niệm tuyệt vời mang tên "rarity farming" đã được sinh ra và được giải thích qua [trang này](/rarity-farming).
 
 ## Vũ trụ Aavegotchi
 Vũ trụ Aavegotchi bao hàm tất cả những yếu tố cho phép các Aavegotchi được vận hành:

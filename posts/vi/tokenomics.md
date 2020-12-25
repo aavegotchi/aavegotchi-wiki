@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+description: 'The Tokenomics of Token GHST Trong Dự Án Aavegotchi'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -13,152 +13,154 @@ contributors:
 <p class="headerImageText">wEn GHST $5???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+Tokenomics hả? Ai quan tâm đâu bạn ơi? WeN mOoN??
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Bọn tớ quan tâm đấy, các bạn cũng nên như vậy. Nếu bạn định đầu tư vào một dự án như GHST (hoặc bất kỳ dự án nào có tiềm năng ấy), thì việc hiểu rõ cách vận hành của cả một hệ sinh thái lớn là vô cùng cần thiết. Suy cho cùng, đây mới chính là yếu tố giúp chúng ta chiến thắng.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Giải pháp của Aavegotchi về vấn đề chia sẻ doanh thu và tokenomics hướng đến việc cân bằng bốn mục tiêu:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Tạo ra một hệ sinh thái vừa-chơi-vừa-kiếm-tiền có thể trao thưởng cho những người chơi tích cực và những ai tham gia vào DAO</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Đảm bảo được rằng token GHST có một nền tảng vững chải để nắm bắt được những giá trị dài hạn</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Xây dựng ngân quỹ cho AavegotchiDAO để dùng trong chi tiêu cho nhiều mục đích khác nhau</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Mang đến phần thưởng tài chính đều đặn cho những ai phát triển nên Aavegotchi</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token GHST được phân phối và đề xuất cách mà những mục tiêu này được hoàn thành.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
+<li><a href=#token-distribution>Phân Phối Token</a></li>
+<li><a href=#revenue-sharing-overview>Tổng Quan Về Phân Chia Doanh Thu</a></li></p>
 <p><a href=#rarity-farming>Rarity Farming</a></p>
 <p><a href=#dao-governance>DAO Governance</a></p>
 <p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<p><a href=#development-team>Đội Ngũ Phát Triển</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## Phân Phối Token
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
+GHST được phân phối theo ba giai đoạn. Bao gồm private sale, pre-sale, và public bonding curve sale.
 
 
 **The Private Sale**
 
-Size: 5, 000, 000 GHST Price: 0.05 DAI / GHST
+Số lượng: 5.000.000 GHST Giá: 0.05 DAI / GHST
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+Private sale diễn ra vào Tháng Tám 2020. Những ai thực hiện KYC và có ít nhất 20k DAI sẽ có quyền tham gia. Số tiền kêu gọi được trong vòng này sẽ đượng phân bố cho Pixelcraft Studios, công ty phát triển Aavegotchi, để đảm bảo thành công cho sự phát triển của trò chơi Aavegotchi.
 
 
-**The Pre-Sale**
+**Pre-Sale**
 
-Size: 500, 000 GHST Price: 0.1 DAI / GHST
+Số lượng: 500,000 GHST Giá: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+Đợt Pre-Sale của GHST đã được tổ chức vào ngày 14 tháng Chín năm 2020, và chỉ diễn ra trong giới hạn 14 ngày hoặc cho đén khi lượng token được bán hết. Tất cả những Aagent Level 6 và đã thực hiện KYC đề được quyền mua GHST ở giai đoạn này, vào ngày mở bán nói trên.
 
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+Để tổ chức mở bán, team phát triển đã snapshot lại thông tin của tất cả những Aagent Level 6. Sau đó, những thành viên này sẽ được kiểm tra xem liệu họ đã hoàn tất KYC hay chưa. Tiếp theo, tất cả những ai đủ điều kiện sẽ nhận được một huy hiện "Verified Level 6" trong Discord. Những người này sau đó được mời tham gia vào kênh Discord đặc biệt và nhận được một liên kết dẫn đến sự kiện presale.
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+Số tiền nhận được đã được dùng để hỗ trợ thanh khoản trong quỹ dự trữ Token Bonding Curve, với tỷ lệ dự trữ là 100%.
 
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+Những người tham gia vào Private Sale và Pre-Sale sẽ dần nhận được token GHST của mình sau một năm, bắt đầu kể từ khi vòng Pre-Sale kết thúc. Sau 180 ngày, đợt trả token đầu tiên tương đương với 50% trên tổng số sẽ được thực hiện, sau đó là một đợt trả token với quy mô nhỏ để trả số lượng token còn lại trong vòng 185 ngày tiếp theo.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
-
-
-**Public Bonding Curve Sale**
-
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](https://wiki.aavegotchi.com/en/curve).
-
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
-
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
-
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
 
 
-**Ecosystem Fund**
+**Sale Công Khai Thông Qua Bonding Curve**
 
-The Ecosystem fund consists of 1, 000, 000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the AavegotchiDAO V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+Như những gì mà bọn của bọn tới thường nói, the curve né vờ đai! Nếu muốn biến thêm nhiều thông tin về cơ thế của bonding curve, hãy xem qua trang [curve](/curve).
+
+Không có giới hạn nào với lượng cung của GHST trong vòng này cả, và cũng không có giới hạn về thời gian. Giá mở bán đã là 0.2 DAI/GHST, và giao động theo đường cong. Token cũng sẽ không bị khoá trong vòng này - người dùng có thể nhận token ngay từ bonding curve.
+
+Những ai đã hoàn thành KYC và địa chỉ của họ đã được vào whitelist của Aavegotchi thì sẽ có thể mua luôn từ bonding curve.
+
+Số tiền có được từ Bonding Curve sẽ được trao cho Pixelcraft Studios thông qua tap mechinism (cơ chế trả lương) được quyết định bởi những người nắm giữ token GHST. Bạn có thể xem thêm và cơ chế này tại [đây](https://fundrasing.aragon.black).
 
 
-**Team Fund**
+**Ngân Quỹ Của Hệ Sinh Thái**
 
-The Team Fund consists of 1, 000, 000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+Ngân Quỹ Của Hệ Sinh Thái lưu giữ 1.000.000 GHST được khoá lại theo cơ chế tương tự như lịch trình của vòng Private và Pre-Sale. Việc mở khoá ngân quỹ có thể được thực hiên thông qua những đề xuất được đệ trình lên [AavegotchiDAO ](/dao) 2.0 hoặc hơn, để phục vụ cho những tình huống hợp lý ví dụ những quỹ phát triển dành cho những thành viên không nằm trong team chủ chốt của Aavegotchi, khuyến mãi và marketing dành cho AavegotchiDAO, cũng như bất kỳ trường hợp nào mà Aavegotchi cảm thấy có ích.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
-## Revenue Sharing Overview
+**Quỹ Dành Cho Đội Ngũ Phát Triển**
 
-What happens to all the GHST spent on portals and wearables?
+Quỹ này có 1.000.000 GHST được khoá tương tự như lịch trình của vòng Private. Tuy nhiên, một khi quỹ này được mở khoá hoàn toàn, chúng sẽ được phân phát dần theo lịch trình 3 năm, và phần còn lại sẽ được khoá lại trong một hợp đồng trả dần mới trong vòng 2 năm, và trả nhỏ giọt cho team cốt lõi của Aavegotchi.
 
-We've made a handy diagram that briefly breaks it down for you:
+Quỹ của team được sử dụng chủ yếu để khuyến khích những thành viên chủ chốt trong team Aavegotchi, để họ có thể cống hiến hết mình cho dự án, cũng như để hỗ trợ cho các advisors bên ngoài.
+
+## Tổng Quan Về Phân Chia Doanh Thu
+
+Điều gì sẽ xảy ra khi tất cả GHST được đổ vào portal và wearable?
+
+Chúng tôi đang vẽ ra một biểu đồ để có thể giải thích cho bạn một cách ngắn gọn:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "ghstcircle">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Tokenomics của Aavegotchi">
 </div>
 
-Read on to learn about the various allocations in more detail.
+Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
 
 
 ## Rarity Farming
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Một phần cốt lõi trong việc trải nghiệm Aavegotchi chính là dành thời gian để chơi với các bé Gotchis và trang bị phụ kiện cho chúng. Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+Nói vậy có nghĩa là **40%**của lượng GHST kiếm được sẽ được phân bố lại cho người chơi thông qua các phần thưởng.
 
-Initially, there will be three categories of Player Rewards:
+Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 
-<ul><p style="margin-left: 2.4em"><b><li>Top 100 Rarest Aavegotchis (by BRS)</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Top 100 Kinship Scores</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Top 100 Experience (XP)</li></b></p></ul>
+* Top 100 Aavegotchis Hiếm Nhất (by [BRS](/rarity-farming#base-rarity-score))
+* Top 100 [Điểm Kinship](/traits#kinship) Cao Nhất
+* Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
 
-More categories will be added, as the game continues to develop.
+Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Số phần trăm chính xác của mỗi hạng mục chưa được xác nhận và sẽ được bàn luận thêm tại AavegotchiDAO.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
+Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
+
+Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snapshot trên snapshot.
 
 
 ## DAO Governance
 
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasure, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Một phần trong những trách nhiệm của DAO bao gồm có việc quản lý ngân quỹ cho bất kỳ mục đích nào miễn là nó xứng đáng. (Hình Waifu, chẳng hạn?)
 
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, thie percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+Ban đầu, **10%** doanh thu sẽ được phân phát cho ngân quỹ của DAO. Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
 
 
 ## BURN BABY BURN
 
-As a prelude, it would be good to get yourself acquainted with GHST's bonding curve and how it works. Then, the fun begins.
+Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách nó vận hành là cực kỳ tốt. Khi đó, chuyện vui mới bắt đầu.
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+**33%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed suply.
+Con số cao chót vót này bắt nguồn từ việc GHST là một token với lượng cung có động lực. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. Đó là vấn đề của những token có lượng cung giới hạn.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the DAICO Tap Mechanism.
-
-
-## Development Team
-
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
-
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
-
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
-
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
-
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
-
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Việc trực tiếp gửi GHST đến địa chỉ đốt cũng sẽ khoá DAI có trong bonding curve, tạo ra một sàn tăng giá cho GHST. Đây là một điều hoàn toàn tích cực cho nhiều phía, khi mà nó cho mang đến thanh khoản tốt hơn cho người mua kẻ bán trên đường cong (hay nói cách khác là trượt giá), giảm lượng cung, và mang đến tính ổn định cho [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
+## Đội Ngũ Phát Triển
 
-**Final Words**
+Cuối bài nhưng chắc chắn là chưa hết đâu đấy, **17%**doanh thu sẽ được trả cho đội ngũ phát triển. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+Ý là, chúng ta đều là con người mà ha. Khi mà những lập trình viên của giao thức không nhận được những phần thưởng khích lệ xứng đang thì đó sẽ là lý do lớn nhất khiến cho giao thức thất bại, và đó là vấn đề mà Aavegotchi muốn ngăn chặn.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+Khi những người phát triển giao thức chỉ được trả thù lao bằng token của nền tảng thì họ buộc phải bán token để chi trả cho các chi phí, dẫn đến các áp lực bán tháo và một viễn cảnh “spiral of death” sẽ diễn ra khiến giá token không thể nào phục hồi lại được.
+
+Tuy nhiên, nếu những lập trình viên không được trả BẤT KỲ token nền tảng nào, thì phần thưởng sẽ không đủ hấp dẫn, dẫn đến việc tiến hành những quyết định không mấy hay ho.
+
+Bonding curve của Aavegotchi giải quyết vấn đề thông qua phương thức chia tách vấn đề - Tam mechainism dựa trên quyền quyết định của cộng đồng chúng tôi sẽ phân phát DAI từ quỹ dự trữ của Pixelcraft Studios (công ty đứng sau Aavegotchi) mỗi tháng và chúng tôi sẽ có ngân quỹ để tích cực phát triển dự án.
+
+Thêm vào đó, Pixelcraft cũng sẽ nhận 17% tổng doanh thu của GHST, chủ yếu được dùng để khuyến khích thanh khoản, giveaway, và những hoạt động quảng cáo khác yêu cầu GHST.
+
+
+
+**Lời cuối**
+
+Một trong những điều hay ho nhất trong thới tới tiền mã hoá và lý do tại sao bạn luôn thấy nhưng tay chơi mới thay gia vào ngành này chính là do dây - nó là một trò chơi zero sum. Có thể tất cả chúng ta sẽ kiếm được lợi nhuận cùng nhau, đặc biệt là trong một DAO. Nhưng câu hỏi là, sản phẩm của chúng ta tốt đến đâu. Hãy cố để hiểu rõ về tokenomics mà một dự án cung cấp cho chúng ta, với một điểm bắt đầu đúng.
+
+Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, các Aagent. 
 
