@@ -71,13 +71,13 @@ Xem thêm thông tin về rarity farming tại [đây](/rarity-farming).
 
 Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
 
-Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
+Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
 
-The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
+Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
 
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
