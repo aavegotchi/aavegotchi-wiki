@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: 'Nhiệm vụ'
+description: 'Tất tần tật về Nhiệm vụ trong Aavegotchi'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -10,10 +10,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">Aagents Khi Làm</p>
 </div>
 
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
+<p style="font-size:25px; font-style: italic;"><b>"Nhiệm vụ của bạn, nếu bạn chấp nhận nó..."</b></p>
 
 Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
 
