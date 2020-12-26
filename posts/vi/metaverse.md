@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Metaverse'
-description: 'All about the Aavegotchi Metaverse'
+description: 'Tất tần tật về Aavegotchi Metaverse'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
@@ -13,11 +13,10 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">The Aavegotchi Realm is currently under construction. As our metaverse grows, so will our metaverse page. To be first in the know
-for upcoming updates or discussions regarding potential developments, <a href="https://discord.com/invite/3fkAkdS">hop into our Discord.</a></p>
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-style:italic; font-size:13px;">Aavegotchi Realm hiện đang được xây dựng. Khi metaverse của chúng tôi phát triển hơn, thì trang này cũng sẽ vậy. Để trở thành người đầu tiên biết về những cập nhật sắp tới hoặc thảo luận về những phát triển trong tương lai <a href="https://discord.com/invite/3fkAkdS"> hãy tham gia vào Discord của chúng tôi.</a></p>
 
-Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
+Chào mừng mấy fen! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
 
 <p style="font-size:13px;">Glossary help: <a href="https://wiki.aavegotchi.com/glossary#metaverse">What is a metaverse?</a></p>
 
