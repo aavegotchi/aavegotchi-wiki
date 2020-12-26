@@ -63,22 +63,22 @@ table_linkWearablesTable
 
 ## Trang Phục Chủ Đề Aave
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. Bộ sưu tập tuyệt vời này là để chào mừng sự kết hợp giữa Aavegotchi với cộng đồng cùng những người đứng đầu team Aave.
 
 table_aaveWearablesTable
 
 ## Raffle 3 Wearables
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
-## Aagent Wearables Set
+## Bộ Trang Phục Chủ Đề Aave
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
 ## OKex Wearables
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
-# Shop Wearables
+# Wearables Có Trong Shop
 
-Coming soon!
+Sẽ sớm xuất hiện!
