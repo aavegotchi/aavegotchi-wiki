@@ -84,13 +84,13 @@ Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake
 
 Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong Aavegotchi, thì có hai cách:
 
-1. **Reduce the amount of collateral** in your Aavegotchi (but not below it's minimum stake).
+1. **Giảm lượng tài sản ký gửi** trong Aavegotchi (nhưng không được dưới mức stake tối thiểu).
 
-2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral.
+2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
 
 
 
