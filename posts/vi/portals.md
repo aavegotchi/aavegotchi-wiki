@@ -82,7 +82,7 @@ Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
 
 If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
