@@ -24,22 +24,22 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 **Nội dung**
 
 <ol>
-<li><a href=#buying-a-portal>Buying a Portal</a></li>
-<li><a href=#opening-your-portal>Opening your Portal</a></li>
+<li><a href=#buying-a-portal>Mua Portal</a></li>
+<li><a href=#opening-your-portal>Mở Portal</a></li>
 <li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
 <li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## Buying a Portal
+## Mua Portal
 
 Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
 
 If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
-## Opening your Portal
+## Mở Portal
 
 Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
