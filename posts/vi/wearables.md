@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+description: 'Tất tần tật về Wearables trong Aavegotchi'
 image: "wearables/link/sergey-blue.svg"
 contributors:
   - "cinnabarhorse"
@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+Phụ kiện là yếu tố quan trọng trong game Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
 
