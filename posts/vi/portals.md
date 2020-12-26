@@ -26,26 +26,26 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 <ol>
 <li><a href=#buying-a-portal>Mua Portal</a></li>
 <li><a href=#opening-your-portal>Mở Portal</a></li>
-<li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
-<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
+<li><a href=#claiming-an-aavegotchi>Nhận Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Chuyển Aavegotchi Sang Địa Chỉ Khác</a></li>
 </ol>
 
 </div>
 
 ## Mua Portal
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
+Trước khi nuôi nấng những bé ma pixel, bạn sẽ phải triệu hồi chúng thông qua một cách cổng. Bạn có thể mua được nó thông qua [Dapp chính thức của Aavegtochi](https://aavegotchi.com/buy-portal), hoặc thị trường bên ngoài ví dụ như [OpenSea](https://opensea.io/).
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá gần 100 GHST. Những thiết bị này sẽ được tra mắt trong sự kiện 'Haunts' (nhiều phiên bản). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
 
 
 ## Mở Portal
 
-Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
+Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal Summoning Ritual ~ (Nghi Lễ Triệu Hồi Qua Cánh Cổng) được triển khai. Cơ chế này giúp bạn có thể triệu hồi Aavegotchi cho mình.
 
-Whenever a player purchases a Portal, it is automatically entered into a batch. This allows Portals to be grouped in a single batch, that can be executed with a single [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) call. When this is executed, all Portals in that batch will be assigned a random number via the aforementioned VRF, ensuring that the Aavegotchi's traits will be provably random.
+Bất cứ khi nào một người chơi mua một Portal, nó sẽ tự động được gộp vào một batch. Nghĩa là các Portal sẽ được nhóm lại thành chỉ một batch, có thể được vận hành trong chỉ một lần dùng [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/). Khi khởi chạy, tất cả Portal trong batch sẽ được chỉ định một số ngẫu nhiên thông qua chương trình VRF đã được nói đến để đảm bảo rằng đặc điểm của Aavegotchi sẽ được thực sự ngẫu nhiên.
 
-Why can't I open my Portal immediately? Why does it need to be placed alongside other Portals in a batch? Whenever the Chainlink VRF is called, the caller has to pay in LINK. Paying LINK for the opening of each individual Portal is expensive! It adds up if you are opening many Portals! Batching Portals together and calling the Chainlink VRF function once is more economical and allows for cost-savings.
+Tại sao tớ không thể mở Portal ngay vậy? Tại sao lại phải đặt chung với những Portal khách trong batch? Whenever the Chainlink VRF is called, the caller has to pay in LINK. Paying LINK for the opening of each individual Portal is expensive! It adds up if you are opening many Portals! Batching Portals together and calling the Chainlink VRF function once is more economical and allows for cost-savings.
 
 If you're not ready to summon your Aavegotchi immediately, that's okay too (For instance, you might be thinking of selling your portal, or just holding on to it for a while). You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the next batch, and then wait for the Summoning Ritual to happen.
 
@@ -65,7 +65,7 @@ table_PortalTraitTable
 More information on rarity farming can be found [here](/rarity-farming).
 
 
-## Claiming an Aavegotchi
+## Nhận Aavegotchi
 
 To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
@@ -80,7 +80,7 @@ The minimum amount of collateral required is 10 DAI worth, while the maximum is 
 You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
 
-## Transferring your Aavegotchi
+## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
 Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
