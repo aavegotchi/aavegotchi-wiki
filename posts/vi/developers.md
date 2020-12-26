@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Develop this Wiki'
-description: 'Jump in and help develop this Wiki!'
+title: 'Phát triển Wiki này'
+description: 'Tham gia giúp phát triển Wiki này!'
 ---
 
 Bạn muốn thể hiện khả năng lập trình siêu đỉnh của mình không? Giúp chúng tôi phát triển trang Wiki này nhé!
