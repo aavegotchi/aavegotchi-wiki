@@ -49,7 +49,7 @@ table_cryptocurrencies
 
 ## 获取 aTokens
 
-*The following steps are taken from the <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Zero to Hero Guide 2.0</a> from Aave Medium. It has been replicated here for the reader's convenience.*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
 1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
