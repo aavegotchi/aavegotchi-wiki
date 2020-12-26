@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
-description: 'All about Aavegotchi Portals'
+description: 'Tất tần tật về Portal trong Aavegotchi'
 contributors:
   - "appellants"
 image: "portals/portal.gif"
@@ -10,14 +10,14 @@ image: "portals/portal.gif"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">An Aavegotchi Portal</p>
+<p class="headerImageText">Portal Trong Game Aavegotchi</p>
 </div>
 
-How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
+Làm thế nào để triệu hồi Aavegotchi và đưa nó từ Nether realm đến với màn hình của bạn? Tất nhien là thông qua Portal!
 
-Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.
+Hãy nhìn thấu vào những chiều sâu tím thẩm và tìm xem sinh vật gì đang ẩn nấp bên dưới - mấy fen sẽ tìm thấy một người bạn cho mình. Hoặc còn đặc biệt hơn nữa là có đến tận 10 người bạn.
 
-So put on your wizard cap – it’s time to learn more about Portals and the Aavegotchi summoning process. 
+Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lúc để tìm hiểu về Portal và nghi lễ triệu hồi các Aavegotchi. 
 
 <div class="contentsBox">
 
