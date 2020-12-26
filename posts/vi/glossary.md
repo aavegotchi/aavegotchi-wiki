@@ -148,31 +148,31 @@ Nói chung, một hợp đồng thông minh là một hợp đồng mà những 
 
 
 ### Staking
-Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
 
 
 ### NFT
 
-NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+NFT là viết tắt của từ Non-Fungible Token. Loại token này là **độc nhất**, nghĩa là nó không thể bị swap thành bất kỳ token cùng loại nào khác. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
 
