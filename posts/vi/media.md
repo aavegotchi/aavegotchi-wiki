@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't make it? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
+Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện trên Aavegotchi chỉ tại vì bạn không có thời gian hay chưa? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
