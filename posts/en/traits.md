@@ -28,8 +28,8 @@ Aavegotchis have six traits:
 * NRG = Energy
 * SPK = Spookiness
 * BRN = Brain Size
-* Eye Shape
-* Eye Color
+* EYS = Eye Shape
+* EYC = Eye Color
 
 Traits are determined at the point of opening a [Portal](/portal). Upon opening of a Portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
 
