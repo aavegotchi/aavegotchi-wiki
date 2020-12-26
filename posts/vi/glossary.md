@@ -81,38 +81,38 @@ APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm
 
 
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+### Tài Sản Thế Chấp
+Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
 
 
-In the context of DeFi, this is how things might look:
+Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. Để làm được điều này, bạn cần phải đưa ra một phần nào đó tài sản của mình để thế chấp. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It's an improvement on the ICO fundraising model that incorporates certain aspects of [DAOs](/glossary#DAO).
+Viết tắt của cụm từ Decentralized Autonomous Initial Coin Offering. Đây là sự cải tiến của hình thức gọi vốn ICO kết hợp với một số khía cạnh của [DAOs](/glossary#DAO).
 
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Hoặc cũng có thể gọi là Decentralized Autonomous Organization. Đây là những tổ được quản trị bởi những quy luật đã được code trong hợp đồng thông minh và được điều khiển bởi các thành viên tham gia. Điều này trái với những mô hình tổ chức truyền thống, thường hướng về việc quản trị thông qua một nhóm nhỏ gồm những nhân vật có thẩm quyền.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Trong ngữ cảnh của AavegotchiDAO, điều này có nghĩa là các thành viên trong hệ sinh thái sẽ có thể bắt đầu và vote cho các đề xuất có ảnh hưởng đến cách mà những hệ sinh thái lớn hơn sẽ vận hành. Ví dụ, các thành viên có thể đề xuất tăng số lượng Portal được bán theo thời gian, hoặc những tính năng mà họ nghĩ là sẽ giúp cộng đồng được cải thiện.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [trang này](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer mannet, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
