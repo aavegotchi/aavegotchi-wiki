@@ -36,7 +36,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10, 000 Portals up for grabs. After this, the AavegotchiDAO will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Opening your Portal
@@ -45,31 +45,33 @@ Sweet! You're about to purchase your portal. This is where the ~ Portal Summonin
 
 Whenever a player purchases a Portal, it is automatically entered into a batch. This allows Portals to be grouped in a single batch, that can be executed with a single [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) call. When this is executed, all Portals in that batch will be assigned a random number via the aforementioned VRF, ensuring that the Aavegotchi's traits will be provably random.
 
-If you're not ready to summon your Aavegotchi immediately, that's okay too. (For instance, you might be thinking of selling your portal, or just holding on to it for a while.) You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the batch, and then wait for the Summoning Ritual to happen.
+Why can't I open my Portal immediately? Why does it need to be placed alongside other Portals in a batch? Whenever the Chainlink VRF is called, the caller has to pay in LINK. Paying LINK for the opening of each individual Portal is expensive! It adds up if you are opening many Portals! Batching Portals together and calling the Chainlink VRF function once is more economical and allows for cost-savings.
+
+If you're not ready to summon your Aavegotchi immediately, that's okay too (For instance, you might be thinking of selling your portal, or just holding on to it for a while). You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the next batch, and then wait for the Summoning Ritual to happen.
 
 Here's a handy flow chart that summarizes the process:
 
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "portal-flow" width = "750" />
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "Aavegotchi Portal" width = "750" />
 
 
 When the Summoning Ritual is done, you will need to submit one more transaction to open your portal and claim your friend. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
-These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s Base Rarity Score. You can check out the trait range and rarity probabilities in this table here:
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
 
-More information on rarity farming can be found [here](https://wiki.aavegotchi.com/rarity-farming).
+More information on rarity farming can be found [here](/rarity-farming).
 
 
 ## Claiming an Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force (aTokens) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
-**For more information on aTokens, see [aTokens](https://wiki.aavegotchi.com/atokens).**
+**For more information on aTokens, see [aTokens](/atokens).**
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
