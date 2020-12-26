@@ -49,7 +49,7 @@ table_cryptocurrencies
 
 ## Sở hữu aToken
 
-*Những bước sau đây được lấy ra từ <a href = "https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834">Bài hướng dẫn Zero to Hero 2.0 </a>từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
 
 1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
