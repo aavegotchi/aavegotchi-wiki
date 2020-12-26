@@ -14,17 +14,17 @@ contributors:
 <p class="headerImageText">Aavegotchi sau khi chúng ta đọc xong GotchiGlossary</p>
 </div>
 
-Nếu bạn chỉ mới bắt đầu khám phá thế giới DeFi thì chào mừng bạn đến với góc trời này của internet nhé! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+Nếu bạn chỉ mới bắt đầu khám phá thế giới DeFi thì chào mừng bạn đến với góc trời này của internet nhé! Bảng thuật ngữ này cung cấp cho bạn một bài thông tin hữu ích, giúp bạn thông hiểu một số thuật ngữ cơ bản trong DeFi. Nếu bạn hoàn toàn mới trong lĩnh vực này thì bảng thuật ngữ này cũng sẽ cung cấp cho bạn cái nhìn tổng quan về một số thuật ngữ mà bạn có thể thấy khi du hành trong thế giới Aavegotchi, giúp bạn tăng cường hiểu biết của mình.
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về những thuật ngữ này, vui lòng nhảy đến ONBOARDING SECTION và đắm mình trong những kiến thức chuyên sâu của hệ sinh thái.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<li><a href=#aavegotchi-related>Liên Quan Đến Aavegotchi</a></li>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -42,7 +42,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#nft>NFT</a></p>
@@ -50,34 +50,34 @@ When you're done reading this and hopefully have a better understanding of these
 
 </div>
 
-## Aavegotchi-related
+## Liên Quan Đến Aavegotchi
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+Spirit Force dùng để chỉ lượng tài sản ký gửi (aToken) được khoá trong các Gochi.
 
 ### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
 
 ### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng đạt tiêu chuẩn ERC-1155.
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decetralized manner with no middle man.
+"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
 
-## Key Terms
+## Những Thuật Ngữ Quan Trọng
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
 
 
@@ -158,7 +158,7 @@ Very simply put, yield farming is a practice that allows users to earn rewards b
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## Những Thuật Ngữ Chung
 
 ### Bell Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
