@@ -5,7 +5,7 @@ title: 'Traits'
 description: 'Everything you need to know about Aavegotchi traits!'
 contributors: ["cinnabarhorse", "wagyuchicken"]
 ---
-Aavegotchis are born with traits. Just like how your traits define who your are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in mini-games, and the [wearables](/wearables) that they're qualified to fashion. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in mini-games, and the [wearables](/wearables) that they're qualified to fashion. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
 
 <div class="contentsBox">
 
@@ -30,6 +30,8 @@ Aavegotchis have six traits:
 * BRN = Brain Size
 * EYS = Eye Shape
 * EYC = Eye Color
+
+Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
 
 Traits are determined at the point of opening a [Portal](/portal). Upon opening of a Portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
 
