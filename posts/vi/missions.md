@@ -15,12 +15,12 @@ contributors:
 
 <p style="font-size:25px; font-style: italic;"><b>"Nhiệm vụ của bạn, nếu bạn chấp nhận nó..."</b></p>
 
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Aavegotchi “missions” là một cách thú vị để hiểu thêm nhiều về dự án Aavegotchi. Đa số đều là những nhiệm vụ đơn giản (trừ những nhiệm vụ yêu cầu phải suy nghĩ nhiều hơn) và có thể được thực hiện bất cứ khi nào thời gian cho phép và có thể thực hiện không theo thứ tự. Mỗi khi bạn hoàn thành một nhiệm vụ, bạn sẽ được tăng cấp bởi Aaprentices của mình, cho đến khi bạn nhận được trạng thái Aagent cao cấp! Chỉ cần đảm bảo là bạn vào xem Mission Control trước khi mainnet được triển khai bởi chương trình Aagent sẽ kết thúc vào lúc đó. Khi mainnet khởi chạy, những Aagent đã ** hoàn thành TẤT CẢ nhiệm vụ Aavegotchi ** sẽ nhận được một **set đồ Aagent đặc biệt dành riêng cho các Aagent Aavegotchi.**
 
 &nbsp;
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+[**>MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment vào Litepaper của Aavegotchi.
 
 [**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
 
