@@ -43,9 +43,11 @@ Aavegotchis have four traits that can be modified by wearables.
 * SPK = Spookiness
 * BRN = Brain Size
 
+The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+
 *Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
-See [Traits](https://wiki.aavegotchi.com/traits) for more about this topic.
+See [Traits](/traits) for more about this topic.
 
 ## Wearables BRS
 
