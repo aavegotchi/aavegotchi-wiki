@@ -2,13 +2,13 @@
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+description: 'Mọi thứ bạn cần biết về trait của Aavegotchi!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
 ---
 
-Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in mini-games, and the [wearables](/wearables) that they're qualified to fashion. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+Aavegotchi được sinh ra với các trait. Giống như các đặc điểm để định hình rằng bạn là một con người, trait của Aavegotchi rất quan trọng trong việc định hình sự đống động của một bé ma! Những lại đặc điểm này mà chúng sở hữu có ảnh hưởng đến[Trait Base Rarity](/rarity-farming#base-rarity-score) của chúng, cách chúng thể hiện trong minigame và [wearables](/wearables) mà chúng được mặc. Những Aavegotchi được triệu hồi từ [portals](/portals) được sinh ra với tổ hợp những trait được chỉ định ngẫu nhiên. Tuy nhiên, trait của Aavegotchi có thể thay đổi được với <a href=#level>level</a>, những wearable được trang bị và những consumble đã dùng. 
 
 <div class="contentsBox">
 
@@ -25,18 +25,18 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 </div>
 
 ## Randomly Generated Traits
-Aavegotchis have six traits:
+Aavegotchi có sáu đặc điểm:
 
 * AGG = Aggressiveness (Hiếu Chiến)
 * NRG = Energy (Năng Lượng)
 * SPK = Spookiness (Đáng Sợ)
 * BRN = Brain Size (Kích Thước Não)
-* EYS = Eye Shape
-* EYC = Eye Color
+* EYS = Hình Dạng Mắt
+* EYC = Màu Mắt
 
-Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
+Khi dùng dùng thuật ngữ RPG (Role-playing Game), `AGG` cũng tưng tự với Strength, `NRG` tương tự với Agility, `BRN` tương tự với Intelligence, and `SPK` là một trait cao cấp. Hãy nhớ rằng những trait này không hoàn toàn giống với những RPG tiêu chuẩn; trait có giá trị thấp trong metaverse của Aavegotchi thực sự rất mạnh!
 
-Traits are determined at the point of opening a [Portal](/portal). Upon opening of a Portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+Trait được định hình ở thời điểm người chơi mở [Portal](/portal). Khi mở Portal [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) được gọi để chỉ định các giá trị trait ngẫu nhiên cho Aavegotchi. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
 
 table_TraitsProbabilities
 
