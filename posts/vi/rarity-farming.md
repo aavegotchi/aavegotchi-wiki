@@ -87,7 +87,7 @@ Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), m
 
 Điểm độ hiếm cuối cùng của một Aavegotchi trong cả Vũ Trụ Aavegotchi vẫn đang biến đổi không ngừng khi người chơi triệu hồi Aavegotchi, trang bị các wearable, và nâng cấp cho Aavegotchi. Do đó, người chơi phải có những quyết định chiến thuật với cách mà họ train và trang bị cho Aavegotchi. Đây là cách mà cơ chế rarity farming trong Aavegotchi khuyến khích lối chơi chiến thuật và sự tham gia tích cực từ phía người chơi, rồi thưởng cho những anh "nông dân" chịu cày cuốc trên những vụ mùa ma quái của mình nhất.
 
-There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
+Hiện tại thì không có giới hạn đối với số lần tương tác mà một Aavegotchi có thể thực hiện trong mỗi giai đoạn, những nếu một hoạt động nào đó của bot trở thành vấn đề thì AavegotchiDAO có thể vote để thêm biện pháp ngăn chặn chúng.
 
 
 
