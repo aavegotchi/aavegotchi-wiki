@@ -46,11 +46,17 @@ To purchase them off [OpenSea](https://opensea.io/), key in the search term "aav
 
 Navigate to the type of Raffle ticket you are intending to purchase.
 
-Using Godlike Raffle Tickets as an example, ensure that there is a "Verified Contract" blue tick mark next to the OpenSea collection title (circled in red below).
+Using Godlike Raffle Tickets as an example, verify the following:
 
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike rafflet ticket" class="bodyImage">
+* The URL displays the correct contract address (circled in red below):
 
-Next, scroll down the page, and check the Chain Info subsection. Compare the Contract Address (circled in red below) to verify if it matches with the Raffle Tickets Contract Address (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A). If they are similar, you are good to go.
+<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket">
+
+* The presence of a "Verified Contract" blue tick mark next to the OpenSea collection title (circled in red below).
+
+<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage">
+
+* The Chain Info subsection shows the correct contract address (circled in red below). At the left hand corner of the screen, there will be a Chain Info subsection. Expand the subsection and compare the contract address against the Raffle Tickets Contract Address (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A). If they are similar, you are good to go.
 
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage">
 
