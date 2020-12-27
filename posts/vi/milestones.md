@@ -70,17 +70,17 @@ contributors:
 * Công bố Người thắng trong cuộc thi của Mission 9
 
 ## [Thứ gì đó sắp hiện hình.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+* Vào ngày 23 Tháng Mười năm 2020, team đã thông báo về 1 trong 3 Sự kiện pre-Mainnet GHST Staking Raffles, sẽ diễn ra vào ngày 10 Tháng Mười Một!
+* Raffle này sẽ có chủ đề LINK, để chào mừng sự hợp tác với Chainlink và việc dùng Chainlink VRF.
 
 ## [Khai đao và chúng tôi đến rồi đây!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 * GHST staking đã hoạt động trên mainnet vào ngày 20 Tháng Mười năm 2020
 
 ## [Kiểm tra trên game đang test! Audit đã đạt chuẩn](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+* Thông báo quan trọng vào ngày 18 Tháng Mười năm 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) hoàn thành — không có lỗ hổng!
+* GHST Staking triển khai trên Mainnet trong vòng 72 giờ
+* AavegotchiDAO vote trên chuỗi đầu tiên đã đạt 99% YES!
+* Aavegotchi đã chiến thắng cuộc thi niêm yết dự án DeFi + NFT của OKex
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
 * Hear ye! Hear ye! Vote bằng GHST vào ngày 14 Tháng Mười 2020 đi bạn êi! Proposal Đầu Tiên Trên AavegotchiDAO: Tap Increase for Scaling Sprint! (Tăng tiền lương cho dev)
@@ -93,7 +93,7 @@ contributors:
 * Kêu gọi những Nghệ sĩ Aavegotchi
 
 ## [Phiên bản Wearable đặc biệt theo chủ đề OKex](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+* Thông báo quan trọng vào ngày 7 Tháng Mười năm 2020! Nhận ngay NFT Aavegotchi x OKex Wearable phiên bản đặc biệt khi nạp GHST vào OKex
 
 ## [Cặp staking GHST-ETH trên Uniswap đã xuất hiện trên testnet Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
 * Triển khai staking LP trên Uniswap với cặp GHST-ETH trên testnet vào ngày 2 Tháng Mười năm 2020
@@ -103,13 +103,13 @@ contributors:
 * STAKE GHST VÀ KIẾM FRIENDS!!!!! Đã xuất hiện trên testnet Kovan vào ngày 29 Tháng Chín năm 2020!
 
 ## [Thử nghiệm Portal trên testnet Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+* Portal Aavegotchi xuất hiện trên testnet của Kovan vào ngày 25 Tháng Chín năm 2020!
+* Hoạt động đầu của AavegotchiDAO: thêm thanh khoản cho GHST trên Uniswap
+* Người chiến thắng Mission 7 "Just DAO it" được công bố
 
 ## [Aavegotchi và Chainlink là đôi bạn thân!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+* LÀM BẠN VỚI CHAINLINK! Vào ngày 24 Tháng Chín năm 2020, Coderdan giải thích về Chainlink's Verifiable Random Function (VRF) và cách mà Aavegotchi sử dụng nó
+* Đọc [bài viết hữu ích về Chainlink](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) này để có thêm lời giải thích chuyên sâu về Chainlink VRF
 
 ## [Presale được bán sạch trong vòng một phút!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
 * $GHST đã được triển khai trên Mainnet vào ngày 14 Tháng Chín năm 2020! Presale được bán sạch trong vòng một phút! :O
