@@ -2,7 +2,7 @@
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming'
-description: 'Everything you need to know about Rarity Farming!'
+description: 'Mọi thứ bạn cần biết về Rarity Farming!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
@@ -11,14 +11,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/rarity-farming/rarity-farming.png">
-<p class="headerImageText">A Rarity Farmer</p>
+<p class="headerImageText">Một Rarity Farmer</p>
 </div>
 
-**Introduction**
+**Giới thiệu**
 
-Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
+Rarity farming là một cơ chế chơi game đột phá được đi đầu bởi Aavegotchi. Nó được thiết kế thể tưởng thưởng cho những người dùng tương tác một cách có chiến thuật và tích cực nhất với hệ sinh thái. Như thể hiện ở cái tên của nó, đây là quá trình mà bạn cố gắng nuôi nấng những bé Aavegotchi hiếm nhất, và nhận phần thưởng cho việc đó.
 
-This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
+Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong rarity farming, và cách mà Aavegotchi được định hình. Hãy đọc tiếp đẻ hiểu thêm nhé!
 
 <div class="contentsBox">
 
