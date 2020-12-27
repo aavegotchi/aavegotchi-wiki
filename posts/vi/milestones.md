@@ -31,34 +31,34 @@ contributors:
 * Sự kiện Raffle chủ đề Aave sẽ có thêm NFT Frens4Ever! Hãy săn tìm CoderDangotchi và Jessegotchi nếu bạn muốn!
 
 ## [Học Giả Aavegotchi! Wiki của Aavegotchi Đây Rồi!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Wiki của Aavegotchi được triển khai vào ngày 27 Tháng Mười Hai năm 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+* Wiki của Aavegotchi được triển khai vào ngày 27 Tháng Mười Hai năm 2020. Aagents ơi, chúng tôi cần các bạn quảng bá trang wiki!
+* Aavegotchi được đề cử tận 2 lần tại Giải thưởng NFT của năm 2020. Woohoo!
+* Beep! Aavegotchi đang tuyển một nhà lập trình game! Những ai đang quan tâm hãy tham gia cùng chúng tôi!
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+## [Hết hồn chưa! Danh Sách Giải Thưởng Trong Sự Kiện Raffle Chủ Đề Aave](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* Hé lộ những wearable chủ đều Aavenger Superheo vào ngày 25 tháng Mười Một năm 2020.
+* Với sự góp mặc của wearable chủ đề Marc, Jordan, và Stani-gotchi!
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+## [Aave đầu tư vào Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave đã chính thức thông báo về việc đầu tư vào Pixelcraft Studio vào ngày 23 Tháng Mười Một năm 2020
+* Pixel Studios là team phát triển chính của Aavegotchi
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+## [Awwww. Fanfiction về Aavegotchi <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* Aavegotchi ❤ Chainlink Fan Fiction, được viết bởi nhân viên tập sự của chúng tôi [appellants](https://twitter.com/sinkielinkie)! Được đăng vào ngày 20 Tháng Mười Hai năm 2020.
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [Ai cũng là người chiến thắng!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* Với khoảnh khắc đầy ngộp thở, mọi người đã mong chờ Chainlink VRF sẽ hoạt động một cách thần kỳ vào ngày 13 Tháng Mười Một năm 2020. Kết quả là...Ai cũng là người chiến thắng!
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+## [Hãy sẵn sàng nào các fen ơi!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* Hãy sẵng sàng nhé! Hướng dẫn từng bước về những sự kiện raffle sắp tới - Được đăng vào ngày 9 Tháng Mười Một năm 2020!
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [Haaaaallooweeeen Paartaay vui không tưởng luôn!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* Tổng kết sự kiện Aawesome Haalloween Paartay đã được đăng vào ngày 4 Tháng Mười Một năm 2020!
+* Thông báo người chiến thắng cuộc thi trang phục!
+* Thử nghiệm raffle trên testnet Kovan
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [Hãy tạo ra Gochi của riêng bạn!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* Triển khai Aavegotchi Builder vào ngày 29 Tháng Mười năm 2020, một mini-app tương tác nơi bạn có thể chơi với những đặc điểm của Aavegotchi và tạo ra một bé Aavegotchi mà bạn muốn thấy với những phụ kiện được cung cấp.
 
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * More details on the Haaaalloween Paaarty were announced on 28 October 2020
@@ -118,28 +118,28 @@ contributors:
 ## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
 * On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
 
-## [Launch of Bonding Cruve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+## [Bonding Cruve được thử nghiệm trên testnet Rinkeby](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
 * On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+## [Ask Me Anything (AMA) đầu tiên của Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Ask Me Anything (AMA) đầu tiên của Aavegotchi đã được công bố vào ngày 1 Tháng Chín năm 2020
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+## [Private sale được bánnnnnnn sajchhhhhhh!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Private sale được bán sạch vào ngày 20 Tháng Tám năm 2020
+* [Telegram chat!](https://t.me/aavegotchi) của Aavegotchi được triển khai
+* [Whitepaper Chính Thức](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view) được công bố
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Các Aapprentices tham gia vào cuộc chơi!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* Vào ngày 13 Tháng Tám năm 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph và Unintelligent_nerd đã tham gia đội Aavegotchi Aapprentices!
+* Aavegotchi Aagents hùng mạnh với 120 thành viên!
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown tham gia vào team vào Aavegotchi Mission được triển khai](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Vào ngày 29 Tháng Bảy năm 2020, JC Crown đã tham gia vào team Aavegotchi!
+* Aavegotchi Mission được triển khai cùng ngày!
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge tham gia vào team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge tham gia vào ngày 22 Tháng Bảy năm 2020
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [Bài đăng đầu tiên của Aavegotchi trên Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Vào ngày 14 Tháng Bảy năm 2020, sự kiện Aavegotchi đầu tiên đã được đăng tải trên Medium!
+* Xibot đã tham gia vào team!
