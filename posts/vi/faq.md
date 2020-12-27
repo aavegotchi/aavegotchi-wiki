@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'FAQ'
-description: 'Short Answers to Quick Questions'
+description: 'Câu Trả Lời Ngắn Gọn Cho Những Câu Hỏi Nhanh Gọn'
 image: "faq/faq.png"
 contributors:
   - "eris771"
@@ -13,8 +13,8 @@ contributors:
 <p class="headerImageText">Aavegotchi Goes Brrrrr</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built. Feel free to use Mission 11 suggestions for questions you'd like to see here.</a></p>
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-style:italic; font-size:13px;">Trang này đang được hoàn thiện. Vui lòng dùng Mission 11 để gợi ý những câu hỏi mà bạn muốn xuất hiện tại đây.</a></p>
 
 <a name="FAQ"></a>
 

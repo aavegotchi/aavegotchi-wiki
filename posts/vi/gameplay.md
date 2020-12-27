@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: 'Lối Chơi'
+description: 'Giới Thiệu Lối Chơi Của Aavegotchi'
 ---
 
 Aavegotchi có một lối chơi thật sự cực kỳ độc đáo bao gồm nhiều yếu tố, pha lẫn giữa NFT và DeFi.

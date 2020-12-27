@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+description: 'Tất tần tật về Wearables trong Aavegotchi'
 image: "wearables/link/sergey-blue.svg"
 contributors:
   - "cinnabarhorse"
@@ -13,18 +13,18 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+Phụ kiện là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
+Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi. 
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#key>Key</a></li>
-<li><a href=#link-themed-set>LINK Themed Set</a></li>
-<li><a href=#aave-themed-set>Aave Themed Set</a></li>
+<li><a href=#key>Then Chốt</a></li>
+<li><a href=#link-themed-set>Trang Phục Chủ Đề Link</a></li>
+<li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#aave-themed-set>Rafle 3 Wearables</a></li>
 <li><a href="#aagent-wearables">Aagent Wearables</a></li>
 <li><a href="#aagent-wearables">OKex Wearables</a></li>
@@ -32,53 +32,53 @@ This page contains detailed information about every wearable that has been confi
 
 </div>
 
-## Key
+## Then Chốt
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằng wearables.
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG = Aggressiveness (Hiếu Chiến)
+* NRG = Energy (Năng Lượng)
+* SPK = Spookiness (Đáng Sợ)
+* BRN = Brain Size (Kích Thước Não)
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!*
 
-See [Traits](https://wiki.aavegotchi.com/traits) for more about this topic.
+Xem [Đặc điểm](https://wiki.aavegotchi.com/traits) for more about this topic.
 
 ## Wearables BRS
 
-Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Trang bị/Tháo trang bị phụ kiện có thể ảnh hưởng đến [độ hiếm chung](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) của một Aavegotchi:
 
 table_wearablesBRStable
 
 
-# Pre-Launch Wearables
+# Wearables Trước Khi Triển Khai Chính Thức
 
 
-## LINK Themed Set
+## Trang Phục Chủ Đề Link
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Được phân phát thông qua một sự kiện Raffle độc nhất với phiên bản giới hạn vào Tháng Mười Một năm 2020, những wearables có có chủ đề LINK được ra mắt để chào mừng sự hợp tác của Aavegotchi và Chainlink, đặc biệt là việc bọn mình sử dụng Chainlink VRF để đảm bảo rằng các Aavegotchi có những đặc điểm thực sự ngẫu nhiên.
 
 table_linkWearablesTable
 
-## Aave Themed Set
+## Trang Phục Chủ Đề Aave
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. Bộ sưu tập tuyệt vời này là để chào mừng sự kết hợp giữa Aavegotchi với cộng đồng cùng những người đứng đầu team Aave.
 
 table_aaveWearablesTable
 
 ## Raffle 3 Wearables
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
-## Aagent Wearables Set
+## Bộ Trang Phục Chủ Đề Aave
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
 ## OKex Wearables
 
-Coming soon!
+Sẽ sớm xuất hiện!
 
-# Shop Wearables
+# Wearables Có Trong Shop
 
-Coming soon!
+Sẽ sớm xuất hiện!

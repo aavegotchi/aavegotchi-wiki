@@ -1,14 +1,14 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: 'Lịch sử phát triển'
+description: 'Lịch sử phát triển của Dự Án Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
+## [Vote cho aToken tiếp theo!](https://twitter.com/aavegotchi/status/1341054376132034564)
+* Kể từ ngày 22 Tháng Mười Hai năm 2020, vote cho hai aToken tiếp theo để tích hợp vào Aavegotchi trên Twitter và Snapshot.
 * Featuring aBUSD, aSUSD, aYFI, and aUNI!
 
 ## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)

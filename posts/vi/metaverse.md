@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Metaverse'
-description: 'All about the Aavegotchi Metaverse'
+description: 'Tất tần tật về Aavegotchi Metaverse'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
@@ -13,13 +13,12 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">The Aavegotchi Realm is currently under construction. As our metaverse grows, so will our metaverse page. To be first in the know
-for upcoming updates or discussions regarding potential developments, <a href="https://discord.com/invite/3fkAkdS">hop into our Discord.</a></p>
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-style:italic; font-size:13px;">Aavegotchi Realm hiện đang được xây dựng. Khi metaverse của chúng tôi phát triển hơn, thì trang này cũng sẽ vậy. Để trở thành người đầu tiên biết về những cập nhật sắp tới hoặc thảo luận về những phát triển trong tương lai <a href="https://discord.com/invite/3fkAkdS"> hãy tham gia vào Discord của chúng tôi.</a></p>
 
-Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-dimensional, pixelated wonderland where Aavegotchis live, work, and play. This is where you’ll be able to interact with all aspects of Aavegotchi life - and even build some of it yourself! 
+Chào mừng mấy fen! Bạn đang bước chân vào Aavegotchi Realm - một thế giới thần tiên cổ điển, hai chiều, ở dạng pixel, nơi mà các Aavegotchi sinh sống, làm lụng và chơi đùa. Đây là nơi mà bạn có thể tương tác với mọi khía cạnh trong cuộc sống của Aavegotchi - và thậm chí là tự dụng nên một số thứ của riêng mình! 
 
-<p style="font-size:13px;">Glossary help: <a href="https://wiki.aavegotchi.com/glossary#metaverse">What is a metaverse?</a></p>
+<p style="font-size:13px;">Xem thêm về thuật ngữ: <a href="https://wiki.aavegotchi.com/glossary#metaverse"> What is a metaverse?</a></p>
 
 <a name="Realm"></a>
 
@@ -28,42 +27,40 @@ Welcome, fren! You’ve stumbled upon the Aavegotchi Realm - the classic, two-di
 **Nội dung**
 
 <ol>
-<li><a href=#Realm>Realm Activities</a></li>
-<li><a href=#Land>Land Ownership</a></li>
+<li><a href=#Realm>Các Hoạt Động Ở Realm</a></li>
+<li><a href=#Land>Sở Hữu Đất</a></li>
 </ol>
 
 </div>
 
 &nbsp;
 
-<p style="font-size:25px;"><b>Life in the Realm</b></p>
+<p style="font-size:25px;"><b>Cuộc Sống Ở Realm</b></p>
 
-The Aavegotchi Realm is expanding as we speak. Here are just a few of the activities you'll be able to find in the metaverse so far:
+Aavegotchi Realm đang mở rộng ra khi chúng ta trò chuyện. Đây chỉ là một trong những hoạt động mà bạn có thể tìm thấy trong metaverse ở thời điểm hiện tại:
 
-<ul><p style="margin-left: 2.4em"><b><li>Interact with other Gotchis</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Tương tác với các Gotchis khác</li></b></p></ul>
 
-<p style="margin-left: 4.8em">Say hello! Visit your Aavegotchi frens and make new ones.</p>
+<p style="margin-left: 4.8em">Hãy chào hỏi nhau! Đến thăm những người bạn Aavegotchi và làm bạn với nhau.</p>
 
-<ul><p style="margin-left: 2.4em"><b><li>Play Mini-Games</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Chơi Mini-Games</li></b></p></ul>
 
-<p style="margin-left: 4.8em">Enter your Gotchi into competition! Level up your Aavegotchi when you rack up wins in all kinds of different metaverse games.</p>
+<p style="margin-left: 4.8em">Tham gia cuộc thi cùng Gotchi! Thăng cấp cho Aavegotchi khi bạn chiến thắng tất cả mọi trò chơi trong những trò chơi khác nhau.</p>
 
-<ul><p style="margin-left: 2.4em"><b><li>Vote in the DAO</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Bỏ phiếu trong DAO</li></b></p></ul>
 
-<p style="margin-left: 4.8em">Make your voice heard in the Aavegotchi Realm. Head to the metaverse governance building to cast your vote for the future of Aavegotchi!</p>
+<p style="margin-left: 4.8em">Hãy thể hiện trọng lượng trong lời nói của bạn tại Aavegotchi Realm. Hãy xây dựng quyền quản trị trong metaverse để vote cho tương lai của Aavegotchi!</p>
 
-<ul><p style="margin-left: 2.4em"><b><li>Find a Babysitter and More</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Tìm Vú Nuôi và Nhiều Hơn Nữa</li></b></p></ul>
 
-<p style="margin-left: 4.8em">As the ecosystem grows, you’ll be able to choose a special someone to look after your Aavegotchi when you’re away. Since 
-<a href="https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#heading=h.2g1uoi1shr1d">kinship</a> is an important aspect of Aavegotchi care, you’ll be able to find these types of services and more in the Aavegotchi metaverse.</p>
+<p style="margin-left: 4.8em">Khi hệ sinh thái phát triển, bạn sẽ có thể chọn một ai đó đặc biệt để trông nôm cho các Aavegotchi khi bạn đang bận. Do <a href="https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#heading=h.2g1uoi1shr1d">kinship</a> là một khía cạnh đặc biệt đối với bé Aavegotchi mà bạn đang chăm sóc, bạn se có thể tìm thấy những dịch vụ kiểu này hoặc khác trong metaverse của Aavegotchi.</p>
 <a name="Land"></a>
-<p style="font-size:25px;"><b>How Do I Get My Own Land?</b></p>
+<p style="font-size:25px;"><b>Làm Thế Nào Để Mua Đất Cho Riêng Mình?</b></p>
 
-In the Gotchiverse,* you’ll also be able to contribute your own creations to the Aavegotchi experience! **REALM parcels** will be purchasable in the Aavegotchi store. You’ll be able to decorate your parcel via the Aavegotchi scene builder, and even add dApps to your land that can be used to interact with all kinds of other smart contracts. If that weren't enough, REALM parcels can also be **enhanced by staking GHST to unlock new features.**
+Trong Vũ Trụ Gotchi*, bạn sẽ có thể cống hiến sự sáng tạo của mình để nâng cao những trải nghiệm trong Aavegotchi! **Gói REALM** sẽ có thể được mua thông qua cửa hàng Aavegotchi. Bạn có thể trang trí những gói của mình thông qua trình dựng cảnh Aavegotchi, và thậm chí là thêm các dApps vào vùng đất của mình để có thể tương tác với tất cả những loại hợp đồng khác. Nếu điều đó là chưa đủ thì các REALM có thể được ** tăng sức mạnh bằng cách stake GHST để có thể mở khoá những tính năng mới.**
 
-Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.png" alt = "aavegotchi" width="70" height="60" />
+Bọn mình thật sự mong được thấy bạn tham gia vào Realm, fen à! <img src="/metaverse/aavegotchiwave.png" alt = "aavegotchi" width="70" height="60" />
 
-<p style="font-size:13px; font-style:italic;">*The Aavegotchi metaverse, or Gotchiverse, both refer to what is officially named the "Aavegotchi Realm." </a></p>
+<p style="font-size:13px; font-style:italic;">*Metaverse của Aavegotchi, hoặc Gotchiverse, đều dùng để chỉ về cái tên "Aavegotchi Realm." </a></p>
 
-<p style="font-size:13px; font-style:italic;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
- community channels!</a></p>
+<p style="font-size:13px; font-style:italic;">Aavegotchi Realm là đang phát triển với tốc độ ánh sáng và trang này sẽ được cập nhật khi chúng tôi phát triển. Bạn còn thắc mắc điều gì khác hay không? Hãy tham gia với chúng tôi tại <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">một trong những kênh cộng đồng này!</a></p>
