@@ -46,7 +46,7 @@ Dan hay còn gọi là Coder Dan, là một lập trình viên full stack và l�
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
 </div>
-Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, đã có vai trò dẫn dắt việc phát triển một vài nền tảng NFT nổi tiếng đến ngày nay, ví dụ như nền mint ra NFT đầu tiên là Mitable, hiện đang hoạt động trên cả Ethereum và Zilliqua. Anh cũng là người sáng lập ra ý tưởng Value-Staked NFTs được nhắc đến phía trên, với vai trò là người sáng lập ra Bullionix.io, công ty đầu tiên chào bán những vật sưu tầm kỹ thuật số 3D có độ phân giải cao, được stake với những đồng stablecoin vàng. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, đã có vai trò dẫn dắt việc phát triển một vài nền tảng NFT nổi tiếng đến ngày nay, ví dụ như nền mint ra NFT đầu tiên là Mitable, hiện đang hoạt động trên cả Ethereum và Zilliqua. Anh cũng là người sáng lập ra ý tưởng Value-Staked NFTs được nhắc đến phía trên, với vai trò là người sáng lập ra Bullionix.io, công ty đầu tiên chào bán những vật sưu tầm kỹ thuật số 3D có độ phân giải cao, được stake với những đồng stablecoin vàng. Trước khi làm việc với các dapp trên Ethereum, Jesse đã hoạt động mạnh mẽ trong lĩnh vực sàn giao dịch tài sản kỹ thuật số với vai trò head of international development cho ZB Group và trước đó làm việc ở vị trí chuyên viên sát nhập và phát triển sản phẩn Motorola cho Đợn vị Điện Thoại Di Động của Lenovo tại Trung Quốc.
 
 ## Xibot
 
@@ -54,7 +54,7 @@ Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, �
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
-Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Xavier Iturralde aka xibot, là một trong những nghệ sĩ và doanh nhân thành công nhất của lĩnh vực Crypto Art. Những tác phẩm pixel độc đáo của anh đã lấy được sự chú ý cũng những trader NFT trên OpenSea và Rarible. Token $PIXEL đột phá của anh cũng là một trong những token xã hội đầu tiên vẫn giữ vững và thể hiện rằng NFT được gán với token xã hội là những hình mẫu có chân. Những người được truyền cảm hứng từ anh ta cũng là một lý do cho sự fomo mà đội nhóm toàn sao sáng của Aavegotchi nhận được.
 
 ## Nick Mudge
 
@@ -62,7 +62,7 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick Mudge là một trong những lập trình viên solidity thành công nhất trên Etherum. Mudge chính là tác giả của tiêu chuẩn kết hợp ERC998, một trong những khía cạnh quan trọng nhất của game Aavegotchi, cho phép một NFT "bố mẹ" có thể trang bị và mang NFT "con cháu" đi theo chung với mình. Gần đây nhất, Mudge đã điều hành một công cuộc nghiên cứu về Ethereum và phát triển một thứ gọi là Diamond Standard. Tiêu chuẩn này cho phép những đột phá lớn dành cho những hợp đồng có thể nâng cấp được và nhanh chóng được sử dụng bởi những DAO tập trung vào quyền quản trị.
 
 ## JC
 
