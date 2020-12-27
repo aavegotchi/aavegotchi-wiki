@@ -47,11 +47,17 @@ Cả 6 loại vé đều có chung một địa chỉ hợp đồng là 0x93eA6e
 
 Tìm loại vé Raffle mà bạn đang định mua.
 
-Lấy vé Raffle Godlike làm ví dụ, hãy đảm bảo rằng có một dấu tích xanh mang ý nghĩa "Verified Contract" (Hợp Đồng Đã Được Xác Thực) bên cạnh tựa của bộ sưu tập trên OpenSea (được khoanh đỏ phía dưới).
+Using Godlike Raffle Tickets as an example, verify the following:
 
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike rafflet ticket" class="bodyImage" />
+* The URL displays the correct contract address (circled in red below):
 
-Sau đó, lăn xuống trang phía dưới, tìm phần (Chain Info) (Thông tin trên blockchain). So sánh Contract Address (Địa Chỉ Hợp Đồng) (được khoanh đỏ phía dưới) để xác thực xem nó có trùng với Raffle Tickets Contract Address (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A) hay không. Nếu đúng thì hãy tiến hành mua nhé.
+<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket" />
+
+* The presence of a "Verified Contract" blue tick mark next to the OpenSea collection title (circled in red below).
+
+<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage" />
+
+* The Chain Info subsection shows the correct contract address (circled in red below). At the left hand corner of the screen, there will be a Chain Info subsection. Expand the subsection and compare the contract address against the Raffle Tickets Contract Address (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A). If they are similar, you are good to go.
 
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
@@ -60,5 +66,5 @@ Sau đó, lăn xuống trang phía dưới, tìm phần (Chain Info) (Thông tin
 
 Tiền kiếm rất khó khăn nên bạn nhớ đừng mua phải những tài sản giả mạo, vậy nên khi bạn mua hàng trên OpenSea hoặc những thị trường thứ cấp, hãy nhớ luôn kiểm tra thật cẩn thận. Lưu ý rằng, nếu thấy món hàng nhìn thấy nó pha ke kiểu gì thì có thể là nó pha ke thật đấy!
 
-* Hãy luôn kiểm tra lại contract address nhiều lần bởi những món vật phẩm được sinh ra từ những contract address thật.
-* Nếu bạn thấy không chắc chắn, hãy tham gia vào [kênh Discord chính thức của Aavegotchi](https://discord.com/invite/NPwnWB6), để hỏi các bạn Aaprentice thân thiện luôn sẵn sàng giúp đỡ nhé!
+* Always double-check that the contract address for the items are coming from the correct contract addresses.
+* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
