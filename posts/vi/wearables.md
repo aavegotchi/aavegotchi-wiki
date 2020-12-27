@@ -41,13 +41,15 @@ Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằn
 * SPK = Spookiness (Đáng Sợ)
 * BRN = Brain Size (Kích Thước Não)
 
-*Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!*
+The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-Xem [Đặc điểm](https://wiki.aavegotchi.com/traits) for more about this topic.
+*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+
+See [Traits](/traits) for more about this topic.
 
 ## Wearables BRS
 
-Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Trang bị/Tháo trang bị phụ kiện có thể ảnh hưởng đến [độ hiếm chung](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) của một Aavegotchi:
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
 
@@ -57,13 +59,13 @@ table_wearablesBRStable
 
 ## Trang Phục Chủ Đề Link
 
-Được phân phát thông qua một sự kiện Raffle độc nhất với phiên bản giới hạn vào Tháng Mười Một năm 2020, những wearables có có chủ đề LINK được ra mắt để chào mừng sự hợp tác của Aavegotchi và Chainlink, đặc biệt là việc bọn mình sử dụng Chainlink VRF để đảm bảo rằng các Aavegotchi có những đặc điểm thực sự ngẫu nhiên.
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
 ## Trang Phục Chủ Đề Aave
 
-Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. Bộ sưu tập tuyệt vời này là để chào mừng sự kết hợp giữa Aavegotchi với cộng đồng cùng những người đứng đầu team Aave.
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
