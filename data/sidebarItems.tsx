@@ -3,7 +3,7 @@ import { Category } from "../types";
 
 export const items: Category[] = [
     {
-        name: "Start Here",
+        name: "Start Here Fren",
         items: [
             {
                 name: "Introduction",
