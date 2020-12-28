@@ -7,17 +7,17 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
+## [Cập nhật: Giúp đỡ bồ tèo](https://twitter.com/aavegotchi/status/1343184902083121157)
 On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
+## [Vote cho aToken tiếp theo!](https://twitter.com/aavegotchi/status/1341054376132034564)
 * Kể từ ngày 22 Tháng Mười Hai năm 2020, vote cho hai aToken tiếp theo để tích hợp vào Aavegotchi trên Twitter và Snapshot.
 * Với các ứng cử viên aBUSD, aSUSD, aYFI, và aUNI!
 
-## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
+## [Hỗ trợ một bồ tèo số nhọ](https://twitter.com/aavegotchi/status/1339738554906243072)
 * Thông báo vào ngày 18 Tháng Mười Hai năm 2020. Giúp một bồ tèo số nhọ bằng cách quyên góp hơn 20 đô la ở dạng token ERC0 và nhận về mũ Santagotchi!
 
-## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+## [Kết Thúc Sự Kiện Raffle Với Chủ Đề Aave!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
 * Thông báo cập nhật cho cộng đồng được đăng vào ngày 12 Tháng Mười Hai năm 2020!
 * Ngày 4 Tháng Giêng 2021 được xác định là ngày khởi chạy trò chơi!
 * Sự kiện Raffle chủ đề Aavegotchi là một thành công vang dội! số lượng vé tăng lên đến 66% so với sự kiện Raffle chủ đề Chainlink
@@ -26,30 +26,30 @@ On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We r
 * Buổi Tiệc Kỷ Niệm 3 Tháng Của GHST vào ngày 14 Tháng Mười Hai năm 2020!
 * Jesse thuyết trình với CGC về "INTEROPERABLE AVATARS ĐỂ XÂY DỰNG MỘT GAME WEB3 MMORPG VĨ ĐẠI" (Xem thêm nếu bạn muốn tại [media ](/posts/media) của chúng tôi nhé!)
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+## [Aavegotchi dự kiến được triển khai vào ngày 4 Tháng Giêng năm 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
 * Vào ngày 12 Tháng Mười Hai năm 2020, Coindesk đăng tải một bài báo để công bố ngày triển khai trò chơi Aavegotchi vào ngày 4 Tháng Giêng năm 2021. Bạn có háo hứng không? Tôi thì có đấy!
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+## [Aave thông báo sẽ có thêm những NFT chủ đề Aave được thêm vào sự kiện Raffle Aavegotchi sắp tới](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
 * Vào ngày 6 Tháng Mười Hai năm 2020, Aave thông báo rằng Aave * Aavegotchi Fireside Chat vào ngày 8 Tháng Mười Hai năm 2020 để triển khai sự kiện Raffle với chủ đề Aave
 * Sự kiện Raffle chủ đề Aave sẽ có thêm NFT Frens4Ever! Hãy săn tìm CoderDangotchi và Jessegotchi nếu bạn muốn!
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+## [Aavegotchi Scholars! Wiki của Aavegotchi Đây Rồi!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
 * Wiki của Aavegotchi được triển khai vào ngày 27 Tháng Mười Hai năm 2020. Aagents ơi, chúng tôi cần các bạn quảng bá trang wiki!
 * Aavegotchi được đề cử tận 2 lần tại Giải thưởng NFT của năm 2020. Woohoo!
 * Beep! Aavegotchi đang tuyển một nhà lập trình game! Những ai đang quan tâm hãy tham gia cùng chúng tôi!
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+## [Peek a boo! Danh Sách Giải Thưởng Trong Sự Kiện Raffle Chủ Đề Aave](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
 * Hé lộ những wearable chủ đều Aavenger Superheo vào ngày 25 tháng Mười Một năm 2020.
 * Với sự góp mặc của wearable chủ đề Marc, Jordan, và Stani-gotchi!
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+## [Aave đầu tư vào Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave đã chính thức thông báo về việc đầu tư vào Pixelcraft Studio vào ngày 23 Tháng Mười Một năm 2020
 * Pixel Studios là team phát triển chính của Aavegotchi
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+## [Awwww. Fanfiction về Aavegotchi <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * Aavegotchi ❤ Chainlink Fan Fiction, được viết bởi nhân viên tập sự của chúng tôi [appellants](https://twitter.com/sinkielinkie)! Được đăng vào ngày 20 Tháng Mười Hai năm 2020.
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+## [Ai cũng là người chiến thắng!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 * Với khoảnh khắc đầy ngộp thở, mọi người đã mong chờ Chainlink VRF sẽ hoạt động một cách thần kỳ vào ngày 13 Tháng Mười Một năm 2020. Kết quả là...Ai cũng là người chiến thắng!
 
 ## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
