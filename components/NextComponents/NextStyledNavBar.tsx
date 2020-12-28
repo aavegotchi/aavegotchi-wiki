@@ -250,6 +250,10 @@ const NextStyledNavBar = (props: Props) => {
                 }
 
                 @media only screen and (max-width:768px) {
+
+                    .navMenu {
+                        display:none;
+                    }
                   
                     .navMenuHamburgerContainer {
                         display:flex;

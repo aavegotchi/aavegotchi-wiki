@@ -78,6 +78,7 @@ const Sidebar = (props: SidebarProps) => {
                   @media screen and (max-width:768px) {
 
                     .sidebarContainer {
+                        display:none;
                         min-height:unset;
                         height:fit-content;
                         padding-top:20px;

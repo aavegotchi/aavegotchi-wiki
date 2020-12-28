@@ -24,6 +24,7 @@
     "raw-loader": "^3.1.0",
     "react": "^16.14.0",
     "react-bootstrap": "^1.4.0",
+    "react-burger-menu": "^3.0.2",
     "react-dom": "^16.14.0",
     "react-markdown": "^5.0.2",
     "react-syntax-highlighter": "^12.2.1",

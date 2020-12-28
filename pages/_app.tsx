@@ -5,6 +5,7 @@ import NextStyledNavBar from '../components/NextComponents/NextStyledNavBar'
 import '../css/fonts.css'
 import '../css/styles.css'
 import BackToTopButton from '../components/BackToTop'
+import SideMenu from '../components/SideMenu'
 
 
 class MyApp extends App {
@@ -21,6 +22,12 @@ class MyApp extends App {
 
             <div>
 
+                <div className="sideMenu">
+                    <SideMenu />
+                </div>
+
+
+
                 <NextStyledNavBar />
 
                 <Head>
@@ -35,10 +42,28 @@ class MyApp extends App {
 
 
 
+
+
                 <BackToTopButton />
 
 
                 <Component {...pageProps} />
+
+                <style jsx>
+                    {`
+                        .sideMenu {
+                           
+                            display:none;
+                        }
+
+                        @media screen and (max-width:768px) {
+                            .sideMenu {
+                        
+                                display:block;
+                            }
+                        }
+                    `}
+                </style>
 
             </div>
 
