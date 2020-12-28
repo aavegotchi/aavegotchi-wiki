@@ -38,12 +38,12 @@ Aavegotchi “missions” là một cách thú vị để hiểu thêm nhiều v
 
 [**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (nhiệm vụ khó nhất) Viết một bài viết ngắn hoặc làm một video ngắn về Aavegotchi (khoảng 300 từ đối với bài viết, hoặc 30 giây với video). Đăng tác phẩm của bạn lên nền tảng mà bạn chọn (có nhiều lựa chọn), và retweet chúng tôi thêm một lần với đường link dẫn đến nội dụng sáng tạo của bạn.
 
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) TẠO RA MỘT AAVEGOTCHI (trên testnet) bằng cách dùng Aavegotchi builder của chúng tôi, dùng Gotchi của bạn để làm avatar (trong vòng 48 tiếng), và chia sẻ tác phẩm lên với toàn thể gia đình Aavegotchi!
+[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
 
 [**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Xem qua trang wiki mới của chúng tôi! Chọn ra hai thứ mà bạn nghĩ là nó sẽ hữu ích để có nó trở thành nguồn thông tin tuyệt vời nhất.
 
 &nbsp;
 
-Chúc mừng các bạn nha, giờ đây bạn đã là một Aagent Aavegotchi chính thức! <img src="/missions/tinyagent.png" /> **MISSION 12** đang cận kề - nhưng sẽ không còn nhiệm vụ nào khi mainnet chính thức khởi chạy. Hãy tham gia ngay khi có thể - <a href="https://discord.com/invite/NPwnWB6"> đến ngay Discord của chúng tôi để bắt đầu!</a>
+Chúc mừng các bạn nha, giờ đây bạn đã là một Aagent Aavegotchi chính thức! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> **MISSION 12** is on the horizon - but, there won’t be many more missions as mainnet launch is imminent. Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
