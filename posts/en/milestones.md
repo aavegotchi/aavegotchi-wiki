@@ -6,6 +6,9 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
+On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+
 ## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
 * Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
 * Featuring aBUSD, aSUSD, aYFI, and aUNI!

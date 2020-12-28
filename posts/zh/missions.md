@@ -38,12 +38,12 @@ Aavegotchi “missions” are a fun way to get a great understanding of the Aave
 
 [**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
 
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 48 hours), and share your creation with the rest of the Aavegotchi fam!
+[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
 
 [**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" /> **MISSION 12** is on the horizon - but, there won’t be many more missions as mainnet launch is imminent. Join us while you can - <a href="https://discord.com/invite/NPwnWB6">head over to our Discord to get started!</a>
+Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> **MISSION 12** is on the horizon - but, there won’t be many more missions as mainnet launch is imminent. Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
