@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Community'
-description: 'All about the Aavegotchi Community'
+title: 'Cộng đồng'
+description: 'Tất tần tật về Cộng đồng Aavegotchi'
 contributors:
   - "eris771"
 ---
@@ -34,23 +34,19 @@ Chào mừng các bợn đến với đại gia đình Aavegotchi! Cộng đồn
 
 <a href="https://discord.com/invite/NPwnWB6"><img src="/community/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Tham gia với chúng tôi trên Discord**</a>
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>6,000+ members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
- fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
+<p style="margin-left: 4.8em">Đại gia đình Aavegotchi trên Discord có <b> gần 6000 thành viên siêu khủng long </b>, Với những ai chưa quen với Gotchi, kênh Discord sẽ là nơi tuyệt vời nhất, với một gia tài thông tin đồ sộ về dự án Aavegotchi cũng như những Aavegotchi Aaprentices (Aavegotchi Tập sự) thân thiết, Trợ lý của riêng bọn mình, và một cộng đồng thành viên vô cùng tốt bụng.  
 Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho những ai những câu hỏi chung, những câu không được chung cho lắm, những ai cần sự hỗ trợ kỹ thuật và bất kể những bồ tèo nào chỉ muốn tham gia để chat chít cho vui. </p>
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">Mà đặc biệt nha, cũng <b> CHỈ CÓ </b> tham gia vào Discord của Aavegotchi thì bạn có thể hoàn thành những "nhiệm vụ" Aavegotchi tẹt vời mà hui. Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
-is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
+<p style="margin-left: 4.8em">Mà đặc biệt nha, cũng <b> CHỈ CÓ </b> tham gia vào Discord của Aavegotchi thì bạn có thể hoàn thành những "nhiệm vụ" Aavegotchi tẹt vời mà hui. Làm nhiệm vụ (hiện tại có 11 nhiệm vụ tổng cộng) sẽ tự động được tăng bậc Aagent, mang đến cho mấy fen <b>những bộ trang bị Aavegotchi Aagent phải gọi là độc lạ</b> khi mấy fen <b>đã hoàn thành hết nhiệm vụ trước khi mainnet được triển khai. </b> Mainnet hiện chưa lên sóng trong giai đoạn cuối Tháng Mười Hai, vậy nên hãy ghé qua trang <a href="https://wiki.aavegotchi.com/en/missions"> nhiệm vụ </a> để có được thông tin về cách thăng hạn nhé!
 </p>
 
 &nbsp;<a name="Twitter"></a>
 
 <a href="https://aavegotchi.medium.com/"><img src="/community/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Xem Bài Viết Của Chúng Tôi Trên Medium**</a>
 
-<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
+<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. Đây là nơi mà bạn sẽ tìm thấy những cập nhật cộng đồng chuyên sâu, cũng như những thông tin chi tiết về<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffle (xổ số), </a> những sự kiện và đôi khi thậm chí bắt gặp một số fan-fiction được lấy cảm hứng từ Gotchi</p>
 
 &nbsp;<a name="Telegram"></a>
 
