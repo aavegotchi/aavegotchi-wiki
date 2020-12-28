@@ -34,7 +34,6 @@ export function addTablesToMarkdown(markdown, pageName) {
             finalMarkdown = finalMarkdown.replace(`table_${table.tableName}`, replaceMarkdown)
         });
 
-        console.log('final markdown:', finalMarkdown)
 
         return finalMarkdown;
     } catch (error) {

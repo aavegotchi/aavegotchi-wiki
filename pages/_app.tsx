@@ -7,6 +7,10 @@ import '../css/styles.css'
 import BackToTopButton from '../components/BackToTop'
 import SideMenu from '../components/SideMenu'
 
+import { GlobalState } from '../State/globalState'
+import { initialState } from '../State/initialState'
+import { reducer } from '../State/reducers'
+
 
 class MyApp extends App {
 
@@ -20,7 +24,7 @@ class MyApp extends App {
 
         return (
 
-            <div>
+            <GlobalState initialState={initialState} reducer={reducer}>
 
                 <div className="sideMenu">
                     <SideMenu />
@@ -65,9 +69,7 @@ class MyApp extends App {
                     `}
                 </style>
 
-            </div>
-
-
+            </GlobalState>
         )
     }
 }

@@ -6,6 +6,7 @@ import { items } from '../data/sidebarItems'
 import { handleLanguageCode } from "../functions";
 import { Category, Item } from "../types";
 import { darkThemeColor, themeHotPink } from "../theme";
+import { useStateValue } from "../State/globalState";
 
 interface SideMenuProps {
 
@@ -15,6 +16,8 @@ const SideMenu = (props: SideMenuProps) => {
 
     const [languageCode, setLanguageCode] = useState(undefined)
 
+    const [{ sideMenuOpen }, dispatch] = useStateValue()
+
     useEffect(() => {
         const code = handleLanguageCode(navigator.languages[0])
         setLanguageCode(code)
@@ -22,12 +25,13 @@ const SideMenu = (props: SideMenuProps) => {
 
     var styles = {
         bmBurgerButton: {
-            position: 'fixed',
-            width: 24,
-            height: 24,
-            top: 24,
-            right: 24
-            // display: 'none',
+            /* position: 'fixed',
+             width: 24,
+             height: 24,
+             top: 24,
+             right: 24
+             */
+            display: 'none',
 
         },
 
@@ -74,14 +78,30 @@ const SideMenu = (props: SideMenuProps) => {
         bmOverlay: {
             background: 'rgba(0, 0, 0, 0.3)'
         },
+        a: {
+            textDecoration: 'none'
+        }
 
 
+    }
+
+    function closeMenu() {
+
+        console.log('hcloseey!')
+
+        dispatch({
+            type: 'updateSideMenuOpen',
+            sideMenuOpen: false
+        })
     }
 
 
     return (
         <div>
-            <Menu disableAutoFocus right styles={styles}>
+            <Menu disableAutoFocus onClose={() => {
+                console.log('closing time')
+                closeMenu()
+            }} isOpen={sideMenuOpen} right styles={styles}>
 
                 <div className="sidebarContainer">
 
@@ -95,7 +115,9 @@ const SideMenu = (props: SideMenuProps) => {
                                     {category.items.map((item: Item) => {
                                         return (
                                             <Link href="/[lang]/[pageID]" as={`/${languageCode}/${item.href}`}>
-                                                <a>
+                                                <a onClick={() => {
+                                                    closeMenu()
+                                                }}>
                                                     <li className="flexRow">
                                                         <img className="sideBarIcon" src={`/icons/${item.href}.svg`} />
 

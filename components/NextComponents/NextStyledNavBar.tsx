@@ -3,6 +3,7 @@ import { themeColor, themeSecondary } from '../../theme'
 import Link from 'next/link'
 import { Container, Button } from 'react-bootstrap'
 import SubscribeModal from '../SignupModal'
+import { useStateValue } from '../../State/globalState'
 
 interface Props {
     logo?: JSX.Element
@@ -13,6 +14,7 @@ interface Props {
 const NextStyledNavBar = (props: Props) => {
 
 
+    const [{ sideMenuOpen }, dispatch] = useStateValue()
     const [showSubscribe, setShowSubscribe] = useState(false)
 
     var rightLinks = [
@@ -264,15 +266,14 @@ const NextStyledNavBar = (props: Props) => {
 
                     .navMenuHamburger {
                         display:flex;
-                        background:${themeColor};
-                        margin-left:15px;
+                        position:fixed;
+                        top:15px;
+                        right:20px;
+                        background:none;
+                        border:none;
+                        z-index:999;
                       
-                      
-                        height:50px;
-                        width:auto;
                        
-                        align-items:center;
-                        justify-content:center;
                     }
                 }
                 
@@ -318,11 +319,17 @@ const NextStyledNavBar = (props: Props) => {
 
 
 
-                        <div className="navMenuHamburger">
+                        <button onClick={() => dispatch({
+                            type: 'updateSideMenuOpen',
+                            sideMenuOpen: !sideMenuOpen
+                        })} className="navMenuHamburger">
 
-                            {/*hamburgerDropdown(<FontAwesomeIcon icon={faBars} size="lg" />, hamburgerLinks)*/}
+                            <img src="/icons/hamburger.svg" />
 
-                        </div>
+
+                        </button>
+
+
 
 
 
