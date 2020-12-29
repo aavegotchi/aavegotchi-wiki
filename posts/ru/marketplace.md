@@ -15,7 +15,7 @@ As more Aavegotchi assets become available, there will be more categories of ass
 
 <div class="contentsBox">
 
-**Contents**
+Содержание:
 
 <ol>
 <li><a href=#collection-addresses>Collection Addresses</a></li>
