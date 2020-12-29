@@ -6,8 +6,14 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* Ready up frens! This 29 December 2020 announcement is biiigg!
+* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
+* Yessss, there's another party on New Year's Eve!
+* The Final Mission is released! You are now Moovie Staars frens!
+
 ## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
 
 ## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
 * Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
