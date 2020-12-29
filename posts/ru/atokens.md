@@ -32,16 +32,16 @@ aTokens — приносящий процентный доход токен пл
 
 ## О токене
 
-Когда заемщик одалживает деньги у занимателя, aTokens зарабатывают для вас проценты в режиме реального времени, прямо на счет в кошельке! Seriously, you can watch your balance grow every minute.
+Когда заемщик одалживает деньги у занимателя, aTokens зарабатывают для вас проценты в режиме реального времени, прямо на счет в кошельке! Серьезно, вы можете отслеживать рост вашего баланса каждую минуту.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokens классифицируются двумя категориями: (1) криптовалюты или (2) стейблкоины. Криптовалюты — это защищенные криптографически цифровые или виртуальные валюты. В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью компьютеров. Стейблкоины — класс криптовалют, которые стремятся предложить стабильность цен за счет привязки к базовому активу, например, к доллару США (USD). У каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+В таблице ниже вы можете увидеть, какие токены [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (криптовалюты и стейблкоины) доступны в рамках протокола Aave. В столбце *Поддерживается Aavegotchi* вы можете увидеть, станет ли данный токен доступным для геймплея. Список поддерживаемых токенов обновляется. По запросу игроков будут проводится голосования в Twitter и в DAO, чтобы добавить больше поддерживаемых токенов в геймлей Aavegotchi.
 
 ## Стейблкоины
 
-table_stablecoins
+https://docs.google.com/document/d/1_XiHsecyhwCGXjKeCclPpRIPQTjC6wrL5FAwewojw0g/edit
 
 ## Криптовалюты
 
@@ -49,7 +49,7 @@ table_cryptocurrencies
 
 ## Получение aTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Приводим пошаговую стратегию из гайда [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834), размещенного в блоге Aave на платформе Medium. It has been replicated here for the reader's convenience.*
 
 1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
