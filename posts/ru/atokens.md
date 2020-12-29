@@ -49,24 +49,24 @@ table_cryptocurrencies
 
 ## Получение aTokens
 
-*Приводим пошаговую стратегию из гайда [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834), размещенного в блоге Aave на платформе Medium. It has been replicated here for the reader's convenience.*
+*Приводим пошаговую стратегию из гайда [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834), размещенного в блоге Aave на платформе Medium. Он воспроизведен здесь для вашего удобства.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Чтобы начать играть перейдите на <a href = "https://app.aave.com/">Aave Protocol</a>!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Привяжите свой кошелек, выбрав один из нижеуказанных способов:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Чтобы пользоваться всеми преимуществами протокола Aave Protocol, нужно иметь некоторую сумму цифровых активов. Список доступных активов размещен в секции <a href=#stablecoins>стейблкоинов</a> и <a href=#cryptocurrencies>криптовалют</a>.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Если у вас нет криптоактивов, можно обменять свою фиатную валюту (доллар, евро — то есть обычные деньги) на цифровой актив (как один из вышеперечисленных).
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+К вашему счастью, Aave недавно представили возможность купить криптовалюту прямо в приложении Aave Protocol! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Как только вы подключили кошелек к платформе, вы можете сделать депозит в Aave Protocol. При нажатии специальной кнопки “deposit”, в интерфейсе можно увидеть, какие криптовалюты есть у вас в кошельке, и выбрать подходящую для внесения депозита. Когда вы определились с валютой депозита, выставляете количество монет и вуаля, вы это сделали! *Примечание: сначала появится транзакция разрешения ("approve"), только потом пройдет транзакция зачисления. Это делается для предоставления разрешения депозитному контракту на использование именно этого выбранного вами актива.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Как только будет сделан депозит, по нему вам будет начислена процентная ставка. The aToken version of the asset can now be seen in your wallet.
