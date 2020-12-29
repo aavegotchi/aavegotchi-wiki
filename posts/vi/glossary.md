@@ -32,7 +32,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Tài Sản Thế Chấp</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
@@ -85,7 +85,7 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 
 
-### Collateral
+### Tài Sản Thế Chấp
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
