@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'aTokens'
-description: 'All about Aavegotchi aTokens'
+description: 'Все об Aavegotchi aTokens'
 image: "atokens/aETH.svg"
 contributors:
   - "unintelligent-nerd"
