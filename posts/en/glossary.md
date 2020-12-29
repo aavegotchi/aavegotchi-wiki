@@ -27,6 +27,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -53,6 +54,9 @@ When you're done reading this and hopefully have a better understanding of these
 </div>
 
 ## Aavegotchi-related
+
+### Aavegotchi
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
 ### FRENS
 Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
@@ -95,8 +99,7 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It's an improvement on the ICO fundraising model that incorporates certain aspects of [DAOs](/glossary#DAO).
-
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
 
 ### DAO 
 Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures. 

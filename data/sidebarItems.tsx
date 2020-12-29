@@ -21,7 +21,7 @@ export const items: Category[] = [
     },
 
     {
-        name: "Tokenomics",
+        name: "Cryptoeconomics",
         items: [
             {
                 name: "GHST",

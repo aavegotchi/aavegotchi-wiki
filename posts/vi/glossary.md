@@ -25,6 +25,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 
 <ol>
 <li><a href=#aavegotchi-related>Liên Quan Đến Aavegotchi</a></li>
+<p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -52,127 +53,130 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 
 ## Liên Quan Đến Aavegotchi
 
+### Aavegotchi
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+
 ### FRENS
-Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
+Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
 ### Spirit Force
-Spirit Force dùng để chỉ lượng tài sản ký gửi (aToken) được khoá trong các Gochi.
+Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
 
 ### Spirit Point
-Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Wearables
-Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng đạt tiêu chuẩn ERC-1155.
+Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
 
 ## DeFi 101
 
-"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
+"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decetralized manner with no middle man.
 
 
-Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
+That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
 
 
-Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
+At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
 
 ## Những Thuật Ngữ Quan Trọng
 
 ### APY
-APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
+APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
 
 
-### Tài Sản Thế Chấp
-Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
+### Collateral
+Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
-Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
+In the context of DeFi, this is how things might look:
 
 
-Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. Để làm được điều này, bạn cần phải đưa ra một phần nào đó tài sản của mình để thế chấp. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
+Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
-Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
+In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Viết tắt của cụm từ Decentralized Autonomous Initial Coin Offering. Đây là sự cải tiến của hình thức gọi vốn ICO kết hợp với một số khía cạnh của [DAOs](/glossary#DAO).
+Stands for Decentralized Autonomous Initial Coin Offering. It's an improvement on the ICO fundraising model that incorporates certain aspects of [DAOs](/glossary#DAO).
 
 
 ### DAO
-Hoặc cũng có thể gọi là Decentralized Autonomous Organization. Đây là những tổ được quản trị bởi những quy luật đã được code trong hợp đồng thông minh và được điều khiển bởi các thành viên tham gia. Điều này trái với những mô hình tổ chức truyền thống, thường hướng về việc quản trị thông qua một nhóm nhỏ gồm những nhân vật có thẩm quyền.
+Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
 
-Trong ngữ cảnh của AavegotchiDAO, điều này có nghĩa là các thành viên trong hệ sinh thái sẽ có thể bắt đầu và vote cho các đề xuất có ảnh hưởng đến cách mà những hệ sinh thái lớn hơn sẽ vận hành. Ví dụ, các thành viên có thể đề xuất tăng số lượng Portal được bán theo thời gian, hoặc những tính năng mà họ nghĩ là sẽ giúp cộng đồng được cải thiện.
+In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
 
-Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [trang này](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
 ### DEX
-Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
+Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer mannet, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
 
-Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
+Some examples of DEXs include UniSwap, Mesa and Balancer.
 
 
-Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
+Some examples of CEXs include Binance, Coinbase and OKex.
 
 
 ### Flash Loans
-Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. Tuy nhiên, có một chỗ khá thú vị.
+Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
-Flash loan phải được trả trong cùng một block giao dịch.
+The flash loan has to be repaid within the same transaction block.
 
-Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có thể huỷ các thao tác diễn ra vào thời điểm trước đó một cách hiệu quả. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
+If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-Impermanent loss (tổn thất tạm thời) xảy ra khi bạn cung cấp thanh khoản cho một quỹ (xem [Liquidity Pools](/glossary#liquidity-pools)), and và giá của tài sản mà bạn ký gởi thao đổi khác đi so với lúc bạn ký gửi. Điều này sẽ khiến bạn mất tiền nếu, tại thời điểm bạn muốn rút tiền, giá tiền bị giảm đi so với hồi đầu bạn nạp vào. Điều này dẫn đến việc giá trị quy đổi lúc bạn rút ra tiền thật sẽ bị thấp đi.
+Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
 ### Liquidity Pools
-Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ) của token này được khoá trong hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
+The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
-Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
+For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
 
 
 ### Oracles
-Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
+In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
 ### Smart Contracts
-Nói chung, một hợp đồng thông minh là một hợp đồng mà những "điều khoản" giữa những người dùng của hợp đồng, được được viết vào trong bộ code của hợp đồng có thể vận hành một cách tự động. Khi những điều khoản và dịch vụ được đặt trước này thoả mãn các điều kiện thì hợp đồng sẽ được thi hành.
+Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
 
 ### Staking
-Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
 
 
 
 ### Yield Farming
-Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
+Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
-Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
+This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Bell Curve
-Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
+A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Metaverse
 
-Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
 ### NFT
 
-NFT là viết tắt của từ Non-Fungible Token. Loại token này là **độc nhất**, nghĩa là nó không thể bị swap thành bất kỳ token cùng loại nào khác. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
+NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
