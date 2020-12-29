@@ -15,39 +15,39 @@ contributors:
 
 aTokens — приносящий процентный доход токен платформы [Aave Protocol](https://aave.com). При внесении депозита происходит эмиссия, а при снятии средств — его сжигание. Токены aTokens привязаны 1:1 к цене базового актива, депонированного в протоколе Aave Protocol. Ими можно распоряжаться по своему усмотрению — хранить, передавать и обменивать. Читайте [Aave FAQ](https://docs.aave.com/faq/), чтобы узнать больше об экосистеме Aave Protocol.
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [portal](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
 
 <div class="contentsBox">
 
-**Contents**
+Содержание:
 
 <ol>
-<li><a href=#about>About</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
+<li><a href=#about>О токене</a></li>
+<li><a href=#stablecoins>Стейблкоины</a></li>
+<li><a href=#cryptocurrencies>Криптовалюты</a></li>
+<li><a href=#getting-atokens>Получение aTokens</a></li>
 </ol>
 
 </div>
 
-## About
+## О токене
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Когда заемщик одалживает деньги у занимателя, aTokens зарабатывают для вас проценты в режиме реального времени, прямо на счет в кошельке! Seriously, you can watch your balance grow every minute.
 
 aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
 
 The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
-## Stablecoins
+## Стейблкоины
 
 table_stablecoins
 
-## Cryptocurrencies
+## Криптовалюты
 
 table_cryptocurrencies
 
-## Getting aTokens
+## Получение aTokens
 
 *The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
