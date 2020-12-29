@@ -329,10 +329,6 @@ const NextStyledNavBar = (props: Props) => {
 
                         </button>
 
-
-
-
-
                     </div>
 
 
