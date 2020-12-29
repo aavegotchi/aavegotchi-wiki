@@ -69,4 +69,4 @@ table_cryptocurrencies
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-Как только будет сделан депозит, по нему вам будет начислена процентная ставка. The aToken version of the asset can now be seen in your wallet.
+Как только будет сделан депозит, по нему вам будет начислена процентная ставка. А в кошельке сможете увидеть токены aToken.
