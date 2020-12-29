@@ -59,7 +59,7 @@ When you're done reading this and hopefully have a better understanding of these
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
 ### Spirit Force
 Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi. 
