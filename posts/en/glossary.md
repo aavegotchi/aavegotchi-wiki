@@ -27,6 +27,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -53,6 +54,9 @@ When you're done reading this and hopefully have a better understanding of these
 </div>
 
 ## Aavegotchi-related
+
+### Aavegotchi
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
 ### FRENS
 Points that are rewarded to users who have staked GHST. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
