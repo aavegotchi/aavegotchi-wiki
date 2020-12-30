@@ -21,6 +21,9 @@ git clone https://github.com/aavegotchi/aavegotchi-wiki.git
 #navigate to the directory
 cd aavegotchi-wiki
 
+# Install the Burger Menu
+npm install react-burger-menu
+
 #install dependencies & run dev server with yarn 
 yarn install
 yarn dev
