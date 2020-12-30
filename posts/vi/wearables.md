@@ -25,9 +25,9 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#key>Then Chốt</a></li>
 <li><a href=#link-themed-set>Trang Phục Chủ Đề Link</a></li>
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
-<li><a href=#aave-themed-set>Rafle 3 Wearables</a></li>
-<li><a href="#aagent-wearables">Aagent Wearables</a></li>
-<li><a href="#aagent-wearables">OKex Wearables</a></li>
+<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
+<li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aave</a></li>
+<li><a href=#okex-wearables>OKex Wearables</a></li>
 </ol>
 
 </div>
@@ -69,7 +69,11 @@ The Aave-themed set was distributed in the second of three pre-launch Raffles, h
 
 table_aaveWearablesTable
 
-## Raffle 3 Wearables
+## Ethereum Themed Set
+
+The Ethereum-themed set is the last of three pre-Mainnet sets. Stats for the individual wearables will be out soon.
+
+table_ethereumWearablesTable
 
 Sẽ sớm xuất hiện!
 
