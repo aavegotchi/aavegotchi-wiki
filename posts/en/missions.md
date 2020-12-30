@@ -19,6 +19,8 @@ Aavegotchi “missions” are a fun way to get a great understanding of the Aave
 by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will 
 only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
 
+**ALL 12 MISSIONS MUST BE COMPLETED BY MAINNET LAUNCH ON 4 JANUARY 2021!**
+
 &nbsp;
 
 
@@ -44,10 +46,11 @@ only run until then. Upon mainnet launch, Aagents who have **completed ALL Aaveg
 
 [**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
 
+[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent"> **MISSION 12** is on the horizon - but, there won’t be many more 
-missions as mainnet launch is imminent. Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent"> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
  
 &nbsp;
 &nbsp;
