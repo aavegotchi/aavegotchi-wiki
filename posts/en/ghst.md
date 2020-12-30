@@ -26,7 +26,7 @@ Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer
 <li><a href=#why-ghst>Why GHST?</a></li>
 <li><a href=#using-ghst>Using GHST</a></li>
 <li><a href=#buying-ghst>Buying GHST</a></li>
-<li><a href=#earn-ghst>Earn GHST</a></li>
+<li><a href=#earning-ghst>Earning GHST</a></li>
 </ol>
 
 </div>
