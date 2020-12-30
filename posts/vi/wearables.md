@@ -75,13 +75,13 @@ The Ethereum-themed set is the last of three pre-Mainnet sets. Stats for the ind
 
 table_ethereumWearablesTable
 
-Sẽ sớm xuất hiện!
-
 ## Bộ Trang Phục Chủ Đề Aave
 
 Sẽ sớm xuất hiện!
 
 ## OKex Wearables
+
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables.
 
 Sẽ sớm xuất hiện!
 
