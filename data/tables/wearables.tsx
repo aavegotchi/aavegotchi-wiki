@@ -68,6 +68,40 @@ export const tables
                 ]
             }
         },
+		
+		        {
+            tableName: "ethereumWearablesTable",
+            tableCaption: "Ethereum-Themed Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+                    [`<img src="/wearables/ethereum/eth logo glasses.svg" alt = "aavegotchi ETH Logo Glasses" />`, "36", "ETH Logo Glasses", "Common", "", "1000"],
+					[`<img src="/wearables/ethereum/eth tshirt.svg" alt = "aavegotchi ETH T-Shirt" />`, "37", "ETH TShirt", "Common", "", "1000"],
+					[`<img src="/wearables/ethereum/32 eth coin.svg" alt = "aavegotchi 32 ETH Coin" />`, "38", "32 ETH Coin", "Common", "", "1000"],
+					[`<img src="/wearables/ethereum/foxy mask.svg" alt = "aavegotchi Foxy Mask" />`, "39", "Foxy Mask", "Uncommon", "", "500"],
+					[`<img src="/wearables/ethereum/foxy tail.svg" alt = "aavegotchi Foxy Tail" />`, "40", "Foxy Tail", "Uncommon", "", "500"],
+					[`<img src="/wearables/ethereum/trezor wallet.svg" alt = "aavegotchi Trezor Wallet" />`, "41", "Trezor Wallet", "Uncommon", "", "500"],
+					[`<img src="/wearables/ethereum/eagle mask.svg" alt = "aavegotchi Eagle Mask" />`, "42", "Eagle Mask", "Rare", "", "250"],
+					[`<img src="/wearables/ethereum/nogara armor.svg" alt = "aavegotchi Nogara Armor" />`, "43", "Nogara Armor", "Rare", "", "250"],
+					[`<img src="/wearables/ethereum/dao egg.svg" alt = "aavegotchi DAO Egg" />`, "44", "DAO Egg", "Rare", "", "250"],
+					[`<img src="/wearables/ethereum/ape mask.svg" alt = "aavegotchi Ape Mask" />`, "45", "Ape Mask", "Legendary", "", "100"],
+					[`<img src="/wearables/ethereum/half rekt shirt.svg" alt = "aavegotchi Half Rekt Shirt" />`, "46", "Half Rekt Shirt", "Legendary", "", "100"],
+					[`<img src="/wearables/ethereum/waifu pillow.svg" alt = "aavegotchi Waifu Pillow" />`, "47", "Waifu Pillow", "Legendary", "", "100"],
+					[`<img src="/wearables/ethereum/xibot mohawk.svg" alt = "aavegotchi Xibot Mohawk" />`, "48", "Xibot Mohawk", "Mythical", "", "50"],
+					[`<img src="/wearables/ethereum/coderdan shades.svg" alt = "aavegotchi Coderdan Shades" />`, "49", "Coderdan Shades", "Mythical", "", "50"],
+					[`<img src="/wearables/ethereum/gldnxross robe.svg" alt = "aavegotchi GldnXross Robe" />`, "50", "GldnXross Robe", "Mythical", "", "50"],
+					[`<img src="/wearables/ethereum/mudgen diamond.svg" alt = "aavegotchi Mudgen Diamond" />`, "51", "Mudgen Diamond", "Mythical", "", "50"],
+					[`<img src="/wearables/ethereum/galaxy brain.svg" alt = "aavegotchi Galaxy Brain" />`, "52", "Galaxy Brain", "Godlike", "", "5"],
+					[`<img src="/wearables/ethereum/all seeing eyes.svg" alt = "aavegotchi All Seeing Eyes" />`, "53", "All Seeing Eyes", "Godlike", "", "5"],
+					[`<img src="/wearables/ethereum/llamacorn shirt.svg" alt = "aavegotchi Llamacorn Shirt" />`, "54", "Llamacorn Shirt", "Godlike", "", "5"]
+                ]
+            }
+        },
+		
+		
+		
+		
+		
 
         {
             tableName: "wearablesBRStable",
