@@ -20,7 +20,7 @@ Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by th
 
 To level up their Aavegotchis, players can participate in a variety of activities including mini-games, governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
 
-Rare Aavegotchis not only have higher secondary marketplace value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+Rare Aavegotchis not only have higher secondary [marketplace](/marketplace) value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi is governed by [AavegotchiDAO](/posts/dao) that manages all funds generated through the [GHST token](/posts/ghst) distribution.
 
@@ -50,7 +50,7 @@ Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, back
 
     *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/posts/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the ERC998 Composables standard, which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
 
 The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
 
