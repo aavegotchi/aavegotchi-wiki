@@ -20,7 +20,7 @@ Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by th
 
 为了提升Aavegotchis的等级，参与者可以参加各种活动，包括小型游戏、政府决策和集会。 Aavegotchis还可以通过装备游戏内可穿戴设备来提升稀有度。
 
-罕见的Aavegotchis不仅具有更高的二级级市场价值。 他们还使得Aavegotchi能够在 [稀有农业](https://wiki.aavegotchi.com/rarity-farming)中表现得更好，这是一个用GHST代币奖励最稀有的Aavegotchis的小游戏。
+Rare Aavegotchis not only have higher secondary [marketplace](/marketplace) value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi is governed by [AavegotchiDAO](/posts/dao) that manages all funds generated through the [GHST token](/posts/ghst) distribution.
 
@@ -50,7 +50,7 @@ Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由
 
     *  **经验:** Aavegotchis通过在AavegotchiDAO中投票和参加小游戏获得更多的经验，从而提升等级。 Every three levels, Aavegotchis receive one [Spirit Point](/posts/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
 
-* **可穿戴装备**除了管理aToken托管，Aavegotchis还扩展了ERC998 Composables标准，使他们能够管理附属NFT，即Aavegotchi生态系统中的可穿戴设备。 并非每一个可穿戴装备都能被每个Aavegotchi装备。 一些可穿戴装备可能需要专门Aavegotchis装备，这些Aavegotchis有一定的抵押品，有一定级别的，有一定特征的。 有些可穿戴装备可以增加或减少Aavegotchi的某些特质。 例如，装备一把剑可以略微提升Aavegotchi的攻击性，而装备一件Bob Marley衬衫可以降低其能量水平。
+* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. 并非每一个可穿戴装备都能被每个Aavegotchi装备。 一些可穿戴装备可能需要专门Aavegotchis装备，这些Aavegotchis有一定的抵押品，有一定级别的，有一定特征的。 有些可穿戴装备可以增加或减少Aavegotchi的某些特质。 例如，装备一把剑可以略微提升Aavegotchi的攻击性，而装备一件Bob Marley衬衫可以降低其能量水平。
 
 The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
 
