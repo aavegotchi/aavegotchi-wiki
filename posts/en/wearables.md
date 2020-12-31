@@ -49,7 +49,7 @@ The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
 See [Traits](/traits) for more about this topic.
 
-## Wearables BRS
+## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
 Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi: 
 
