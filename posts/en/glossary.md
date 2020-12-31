@@ -48,6 +48,7 @@ When you're done reading this and hopefully have a better understanding of these
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
+<p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#nft>NFT</a></p>
 </ol>
@@ -172,7 +173,16 @@ A bell curve is a common type of distribution for a variable, also known as the 
 ### ERC-721
 A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
-Think of them like rare, one-of-a-kind collectables. For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Think of them like rare, one-of-a-kind collectables. 
+
+For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+
+### ERC-998
+ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+
+Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+
+For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
 ### Metaverse
 
