@@ -47,7 +47,7 @@ Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằn
 
 Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
-## Wearables BRS
+## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
 Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
