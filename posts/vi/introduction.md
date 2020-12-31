@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [NFT](/glossary#nft) avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). Trò chơi này là một sự kết hợp độc đáo giữa DeFi với NFT.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [NFT](/glossary#nft) avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). It is a unique combination of [DeFi](/glossary#defi-101) and NFTs.
 
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
 
