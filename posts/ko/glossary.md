@@ -45,6 +45,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#nft>NFT</a></p>
 </ol>
@@ -165,6 +166,11 @@ This can happen in a variety of ways, but the most common mechanism is when depo
 
 ### Bell Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+
+### ERC-721
+A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+
+Think of them like rare, one-of-a-kind collectables. For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### Metaverse
 
