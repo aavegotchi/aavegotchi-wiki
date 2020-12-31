@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">아베고치</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake NFT avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). 이는 디파이와 NFT들의 독특한 조합입니다.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [NFT](/glossary#nft) avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). 이는 디파이와 NFT들의 독특한 조합입니다.
 
-아베고치들은 이더리움 블록체인상에서 존재하는 픽셀화된 유령으로, **ERC-721** 표준으로 존재합니다. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral, and equipped [wearables](/posts/wearables).
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral, and equipped [wearables](/posts/wearables).
 
 또한, 플레이어들은 미니게임, 가버넌스, 밋업등 다양한 엑티비티에 참여하여 아베고치를 레벨업 시킬 수 있습니다. 아베고치를 레벨업 하는 것과 인게임 상 웨어러블을 장착하는 것을 통해 희귀도 레벨을 올릴 수 있습니다.
 
