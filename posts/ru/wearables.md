@@ -25,9 +25,9 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#key>Key</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
-<li><a href=#aave-themed-set>Rafle 3 Wearables</a></li>
-<li><a href="#aagent-wearables">Aagent Wearables</a></li>
-<li><a href="#aagent-wearables">OKex Wearables</a></li>
+<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
+<li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
+<li><a href=#okex-wearables>OKex Wearables</a></li>
 </ol>
 
 </div>
@@ -69,15 +69,19 @@ The Aave-themed set was distributed in the second of three pre-launch Raffles, h
 
 table_aaveWearablesTable
 
-## Raffle 3 Wearables
+## Ethereum Themed Set
 
-Coming soon!
+The Ethereum-themed set is the last of three pre-Mainnet sets. Stats for the individual wearables will be out soon.
+
+table_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
 Coming soon!
 
 ## OKex Wearables
+
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables.
 
 Coming soon!
 
