@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** là một game crypto thể loại sưu tập dựa trên khái niệm DeFi, được phát triển bởi Pixelcraft Studio, mà trong đó, người chơi có thể stake những nhân vật đại diện dạng NFT với những [aTokens](/posts/atokens) sinh lợi nhuận và tương tác với Aavegotchi [metaverse](/posts/metaverse). Trò chơi này là một sự kết hợp độc đáo giữa DeFi với NFT.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [NFT](/glossary#nft) avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). It is a unique combination of [DeFi](/glossary#defi-101) and NFTs.
 
-Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn **ERC-721**. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
 
 Để nâng cấp các Aavegotchi, người chơi cần tham gia vào hàng loạt các hoạt động bao gồm các mini-games, quản trị, và các buổi meetups. Aavegotchis cũng có thể tăng độ hiếm bằng cách trang bị những phụ kiện trong game và lên cấp.
 
-Những Aavegotchi hiếm không chỉ có giá trị cao trên những thị trường thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất.
+Rare Aavegotchis not only have higher secondary [marketplace](/marketplace) value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi được quản trị bởi[AavegotchiDAO](/posts/dao), có quyền quyết định với tất cả ngân quỹ được sinh ra thông qua quá trình phân bổ [GHST token](/posts/ghst).
 
@@ -50,7 +50,7 @@ Aavegotchi là những vật sưu tầm có độ hiếm cư ngụ trên blockch
 
     *  **Kinh nghiệm:** Aavegotchi lên cấp khi có nhiều kinh nghiệm thông qua việc vote trong AavegotchiDAO và tham gia vào minigame. Cứ mỗi ba cấp độ, Aavegotchi sẽ nhận được một [ Spirit Point ](/posts/glossary#spirit-point) có thể được phân bổ cho việc tăng hoặc giảm một đặc điểm nhất định.
 
-* ** Phụ kiện ** Bên cạnh việc quản lý kho ký quỹ của aToken, Aavegotchi cũng được hỗ trợ thêm chuẩn ERC998 tạm thời, cho phép chúng quản lý những NFT con, được gọi là phụ kiện trong hệ sinh thái Aavegotchi. Không phải phụ kiện nào cũng có phù hợp với tất cả Aavegotchi. Một số phụ kiện có thể được trang bị cho một loại Aavegotchi được stake với một loại tiền ký quỹ nhất định, ở một cấp độ nhất định và với những đặc điểm nhất định. Một vài phụ kiện có thể tăng hoặc giảm một số đặc điểm trong Aavegotchi. Ví dụ, việc trang bị một thanh kiếm có thể làm tặng nhẹ tính hiếu chiến của Aavegotchi, trong khi đó việc trang bị một chiếc áo Bob Marley có thể giảm đi cấp độ năng lượng của nó.
+* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Không phải phụ kiện nào cũng có phù hợp với tất cả Aavegotchi. Một số phụ kiện có thể được trang bị cho một loại Aavegotchi được stake với một loại tiền ký quỹ nhất định, ở một cấp độ nhất định và với những đặc điểm nhất định. Một vài phụ kiện có thể tăng hoặc giảm một số đặc điểm trong Aavegotchi. Ví dụ, việc trang bị một thanh kiếm có thể làm tặng nhẹ tính hiếu chiến của Aavegotchi, trong khi đó việc trang bị một chiếc áo Bob Marley có thể giảm đi cấp độ năng lượng của nó.
 
 Mối quan hệ giữa Collateral stake, Traits, Wearables, và Kinship được mô tả rõ nhất thông Đồ thị Onion (xem bên dưới). Mỗi lớp được xây dựng trên những lớp trước, và được phản ánh bằng chính Aavegotchi!
 
