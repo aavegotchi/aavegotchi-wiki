@@ -87,8 +87,8 @@ export const items: Category[] = [
                 href: "dao"
             },
             {
-                name: "Community",
-                href: "community"
+                name: "Social Media",
+                href: "socialmedia"
             },
             {
                 name: "Missions",
