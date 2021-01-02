@@ -113,7 +113,7 @@ For more a more detailed explainer on DAOs, check out [this page](https://blockc
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer mannet, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer mainnet, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
 
 Some examples of DEXs include UniSwap, Mesa and Balancer.
