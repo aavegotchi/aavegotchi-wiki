@@ -176,22 +176,22 @@ Hãy xem chúng như những món đồ sưu tập hiếm có, và độc nhất
 Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-721, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 là một bản mở rộng của tiêu chuẩn [ERC-721](/glossary#erc-721) và nó cho [token non-fungible](/glossary#nft) khả năng để có thể sở hữu những token non-fungible và token ERC-20 khác.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Token Non-fungible theo chuẩn ERC998 cũng được trang bị chuẩn ERC-721.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-998).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
 
 
 ### NFT
 
-NFT stands for Non-Fungible Token. This is a token that is **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+NFT là viết tắt của từ Non-Fungible Token. Loại token này là **độc nhất**, nghĩa là nó không thể bị swap thành bất kỳ token cùng loại nào khác. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
 
