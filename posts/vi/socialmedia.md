@@ -1,7 +1,7 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Social Media'
+title: 'Social Media (Phương Tiện Truyền Thông)'
 description: 'Tất tần tật về Cộng đồng Aavegotchi'
 contributors:
   - "eris771"

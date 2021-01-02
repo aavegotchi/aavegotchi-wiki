@@ -35,6 +35,8 @@ Bản dưới đây cho thấy lượng XP cần có cho mỗi cấp. Trướng 
 * Khác biệt: Khác biệt trong XP được yêu cầu để có thể đạt được cấp độ trong cột **Next Level** khi so sánh với cột tương tự trong hàng trước
 * Hằng số: Một gái trị cố định được dùng trong việc tính toán lượng XP cần để dùng Công Thức Tính Cấp Tiếp Theo
 
+Cấp độ cao nhất mà một aavegotchi có thể đạt được là 99. Bất kỳ sự thay đổi nào về cấp độ tối đã có thể được chấp thuận thông qua những đề nghị của [AavegotchiDAO](/dao).
+
 *Chú ý: Aavegotchi bắt đầu với Cấp Độ 1. "Level 0" bao gồm trong bảng dành cho những ai muốn áp dụng công thức và xem XP được tính như thế nào.*
 
 table_XP

@@ -7,10 +7,13 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+# 3 [aUNI và aYFI đã được chọn để trở thành Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
+* Quyền lực của của người dùng đã được thể hiện! Vào ngày 1 Tháng Một năm 2021, đã số người dùng đã bình chọn để aUNI và aYFI trở thành Aavegotchi collaterals (tài sản thế chấp) tiếp theo!
+
 ## [Nhiệm vụ Aavegotchi cuối cùng!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
 * Sẵn sàng đi nha mấy fen! Ngày 29 Tháng Mười Hai 2020 sẽ có thông báo to đùngggggg!
 * Sự kiện Raffle 3 (Chủ đề Ethereum) và những wearables sẽ được công bố! Sự kiện Raffle bắt đầu vào ngày 31 Tháng Mười Hai năm 2020 trong bữa tiệc Mừng Năm Mới của chúng tôi!
-* Đúng vajiiiiii, sẽ có một bữa tiệc khác vào ngày Tết Dương Lịch!
+* Đúng vạiiiiii, sẽ có một bữa tiệc khác vào ngày Tết Dương Lịch!
 * Nhiệm vụ cuối cùng sẽ được triển khai! Giờ đây các frens sẽ là những Moovie Staars!
 
 ## [Cập nhật: Giúp đỡ bồ tèo](https://twitter.com/aavegotchi/status/1343184902083121157)
@@ -64,7 +67,7 @@ contributors:
 ## [Haaaaallooweeeen Paartaay vui không tưởng luôn!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
 * Tổng kết sự kiện Aawesome Haalloween Paartay đã được đăng vào ngày 4 Tháng Mười Một năm 2020!
 * Thông báo người chiến thắng cuộc thi trang phục!
-* Thử nghiệm raffle trên testnet Kovan
+* Thử nghiệm Portal trên testnet Kovan
 
 ## [Hãy tạo ra Gochi của riêng bạn!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
 * Triển khai Aavegotchi Builder vào ngày 29 Tháng Mười năm 2020, một mini-app tương tác nơi bạn có thể chơi với những đặc điểm của Aavegotchi và tạo ra một bé Aavegotchi mà bạn muốn thấy với những phụ kiện được cung cấp.
@@ -133,7 +136,7 @@ contributors:
 ## [Ask Me Anything (AMA) đầu tiên của Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
 * Ask Me Anything (AMA) đầu tiên của Aavegotchi đã được công bố vào ngày 1 Tháng Chín năm 2020
 
-## [Private sale được bánnnnnnn sajchhhhhhh!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+## [Private sale được bánnnnnnn sạchhhhhhh!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
 * Private sale được bán sạch vào ngày 20 Tháng Tám năm 2020
 * [Telegram chat!](https://t.me/aavegotchi) của Aavegotchi được triển khai
 * [Whitepaper Chính Thức](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view) được công bố
