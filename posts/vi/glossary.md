@@ -171,9 +171,9 @@ Bell Curve là một loại hình thức phân bổ phổ biến cho một biế
 ### ERC-721
 Một tiểu chuẩn mở, miễn phí miêu tả cách mà những token không thể thay thế hoặc độc nhất trên blockchain của Ethereum. Trong khi đã số các token đề có nhiều phiên bản khác nhau (mỗi token đề tương tự như những token khác) thì các ERC-721 đều là độc nhất.
 
-Think of them like rare, one-of-a-kind collectables.
+Hãy xem chúng như những món đồ sưu tập hiếm có, và độc nhất.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-721, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
 ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
