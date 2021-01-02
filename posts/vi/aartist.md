@@ -1,10 +1,10 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+title: 'Nghệ Sĩ Aavegotchi'
+description: 'Hiểu thêm về Aavegotchi Aartist tại đây!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them here!
+Bạn biết có gì hấp dẫn hơm? Những aartist của cộng đồng bọn mình! Hiểu thêm về họ tại đây!
 
 table_aartist
