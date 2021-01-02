@@ -47,7 +47,7 @@ Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằn
 
 Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
-## Wearables BRS
+## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
 Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
@@ -81,9 +81,9 @@ Sẽ sớm xuất hiện!
 
 ## OKex Wearables
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables.
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
-Sẽ sớm xuất hiện!
+The statistics table for the OKex Wearables will be updated soon!
 
 # Wearables Có Trong Shop
 

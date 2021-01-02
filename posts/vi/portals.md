@@ -45,7 +45,7 @@ Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal
 
 Bất cứ khi nào một người chơi mua một Portal, nó sẽ tự động được gộp vào một batch. Nghĩa là các Portal sẽ được nhóm lại thành chỉ một batch, có thể được vận hành trong chỉ một lần dùng [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/). Khi khởi chạy, tất cả Portal trong batch sẽ được chỉ định một số ngẫu nhiên thông qua chương trình VRF đã được nói đến để đảm bảo rằng đặc điểm của Aavegotchi sẽ được thực sự ngẫu nhiên.
 
-Tại sao tớ không thể mở Portal ngay vậy? Tại sao lại phải đặt chung với những Portal khách trong batch? Bất cứ khi nào Chainlink VRF được khởi chạy, người vận hành sẽ phải dùng token Link để trả phí. Việc dùng LINK để chi trả cho việc mở riêng một cánh cổng khá là đắt đỏ! Càng mở nhiều Portal thì càng tốt tiền! Gộp các Portal lại với nhau để mở một lần và dùng Chainlink VRF một lần sẽ rẻ hơn và giúp tiết kiệm chi phí.
+Tại sao tớ không thể mở Portal ngay vậy? Tại sao lại phải đặt chung với những Portal khách trong batch? Bất cứ khi nào Chainlink VRF được khởi chạy, người vận hành sẽ phải dùng token Link để trả phí. Việc dùng LINK để chi trả cho việc mở riêng một cánh cổng khá là đắt đỏ! It adds up if you are opening many Portals. Gộp các Portal lại với nhau để mở một lần và dùng Chainlink VRF một lần sẽ rẻ hơn và giúp tiết kiệm chi phí.
 
 Nếu bạn chưa muốn triệu hồi Aavegotchi ngay thì cũng không sao (Ví dụ như bạn muốn bán portal, hoặc chỉ muốn giữ trong một khoảng thời gian). Bạn có thể không tham gia vào quá trình tự động này trên giao diện Buy Portal. Tuy nhiên, khi bạn cuối cùng đã quyết định triệu hồi Aavegotchi, bạn sẽ phải thực hiện một giao dịch riêng để đặt cánh cổng vào batch tiếp theo, và sau đó đợi đến sự kiện Summoning Ritual khác.
 
@@ -57,40 +57,43 @@ Nếu bạn chưa muốn triệu hồi Aavegotchi ngay thì cũng không sao (V�
 
 Khi Summoning Ritual hoàn tất, bạn sẽ phải thực hiện thêm một giao dịch để mở portal và nhận về người bạn của mình. Mỗi cánh cổng có chứa 10 Aavegotchi khác nhau để bạn chọn, kêu gọi nó từ Nether realm. Bạn sẽ cần chọn 1 trong số 10 bé ma để triệu hồi. Số còn lại, tiếc thay, sẽ tan biến mãi mãi.
 
-Những Aavegotchi này đều có những đặc điểm khác nhau được sinh ra một cách ngẫu nhiên. Khi chuyển đổi giữa các option, bạn có thể xem những đặc điểm này và [Base Rarity Score](/rarity-farming#base-rarity-score) thuộc về Aavegotchi của bạn. Bạn có thể xem nhóm đặc điểm và tỷ lệ hiếm trong bản ở đây:
+Những Aavegotchi này đều có những đặc điểm khác nhau được sinh ra một cách ngẫu nhiên. Khi chuyển đổi giữa các option, bạn có thể xem những đặc điểm này và [Base Rarity Score](/rarity-farming#base-rarity-score) thuộc về Aavegotchi của bạn. This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
+
+
+You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
 
-Xem thêm thông tin về rarity farming tại [đây](/rarity-farming).
+More information on rarity farming can be found [here](/rarity-farming).
 
 
 ## Nhận Aavegotchi
 
-Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng Spirit Force được yêu cầu ([ các aToken](/atokens)) vào trong Portal. AToken có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
-Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
-**Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
+**For more information on aTokens, see [aTokens](/atokens).**
 
-Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
+Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
-Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
+The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
 
-Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
+You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
-Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
-Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong Aavegotchi, thì có hai cách:
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **Giảm lượng tài sản ký gửi** trong Aavegotchi (nhưng không được dưới mức stake tối thiểu).
 
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
-**Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
 
 
 

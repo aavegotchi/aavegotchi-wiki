@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">아베고치</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake NFT avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). 이는 디파이와 NFT들의 독특한 조합입니다.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [NFT](/glossary#nft) avatars with interest-generating [aTokens](/posts/atokens) and interact with the Aavegotchi [metaverse](/posts/metaverse). It is a unique combination of [DeFi](/glossary#defi-101) and NFTs.
 
-아베고치들은 이더리움 블록체인상에서 존재하는 픽셀화된 유령으로, **ERC-721** 표준으로 존재합니다. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral, and equipped [wearables](/posts/wearables).
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base traits, amount of staked collateral, and equipped [wearables](/posts/wearables).
 
 또한, 플레이어들은 미니게임, 가버넌스, 밋업등 다양한 엑티비티에 참여하여 아베고치를 레벨업 시킬 수 있습니다. 아베고치를 레벨업 하는 것과 인게임 상 웨어러블을 장착하는 것을 통해 희귀도 레벨을 올릴 수 있습니다.
 
-희귀한 아베고치들은 2차시장에서의 가치가 높을 뿐만이 아니라, 아베고치가 [희귀도 파밍](https://wiki.aavegotchi.com/rarity-farming) 을 더 잘할 수 있습니다. 희귀도 파밍이란 제일 희귀한 아베고치들을 GHST 토큰으로 보상하는 미니게임입니다.
+Rare Aavegotchis not only have higher secondary [marketplace](/marketplace) value, they also enable the Aavegotchi to perform better in [rarity farming](https://wiki.aavegotchi.com/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi is governed by [AavegotchiDAO](/posts/dao) that manages all funds generated through the [GHST token](/posts/ghst) distribution.
 
@@ -50,7 +50,7 @@ Aavegotchi is governed by [AavegotchiDAO](/posts/dao) that manages all funds gen
 
     *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/posts/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the ERC998 Composables standard, which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
 
 The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
 
