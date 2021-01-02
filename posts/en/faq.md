@@ -44,6 +44,7 @@ contributors: ["eris771"]
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
 <li><a href=#technical-faq>Technical FAQ</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
@@ -167,6 +168,9 @@ Portals are expected to cost between 50-100 GHST. Costs for other items like wea
 game launch, <a href="https://wiki.aavegotchi.com/dao">the DAO</a> will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the 
 open market prices currently are for certain wearables
 on <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
+
+### Does changing the collateral staked affect kinship level?
+No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
 ## Technical FAQ
 
