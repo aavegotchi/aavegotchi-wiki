@@ -7,59 +7,59 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-# 3 [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+# 3 [aUNI và aYFI đã được chọn để trở thành Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
+* Quyền lực của của người dùng đã được thể hiện! Vào ngày 1 Tháng Một năm 2021, đã số người dùng đã bình chọn để aUNI và aYFI trở thành Aavegotchi collaterals (tài sản thế chấp) tiếp theo!
 
 ## [Nhiệm vụ Aavegotchi cuối cùng!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Sẵn sàng đi nha mấy fen! This 29 December 2020 announcement is biiigg!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
+* Sẵn sàng đi nha mấy fen! Ngày 29 Tháng Mười Hai 2020 sẽ có thông báo to đùngggggg!
+* Sự kiện Raffle 3 (Chủ đề Ethereum) và những wearables sẽ được công bố! Sự kiện Raffle bắt đầu vào ngày 31 Tháng Mười Hai năm 2020 trong bữa tiệc Mừng Năm Mới của chúng tôi!
+* Đúng vạiiiiii, sẽ có một bữa tiệc khác vào ngày Tết Dương Lịch!
+* Nhiệm vụ cuối cùng sẽ được triển khai! Giờ đây các frens sẽ là những Moovie Staars!
 
 ## [Cập nhật: Giúp đỡ bồ tèo](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+* Vào ngày 27 Tháng Mười Hai 2020, chúng tôi đã tổng hợp thông tin tài sản thu thập được từ santagotchi.eth. Chúng tôi đã quyên góp được hơn 10k đô la để giúp anh bạn bị mất tiền.
 
 ## [Bỏ phiếu cho aToken tiếp theo!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
-* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+* Kể từ ngày 22 Tháng Mười Hai năm 2020, vote cho hai aToken tiếp theo để tích hợp vào Aavegotchi trên Twitter và Snapshot.
+* Với các ứng cử viên aBUSD, aSUSD, aYFI, và aUNI!
 
 ## [Hỗ trợ một bồ tèo số nhọ](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+* Thông báo vào ngày 18 Tháng Mười Hai năm 2020. Giúp một bồ tèo số nhọ bằng cách quyên góp hơn 20 đô la ở dạng token ERC0 và nhận về mũ Santagotchi!
 
 ## [Kết Thúc Sự Kiện Raffle Với Chủ Đề Aave!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Community update published on 12 December 2020!
-* 4 January 2021 Aavegotchi launch date confirmed!
-* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+* Thông báo cập nhật cho cộng đồng được đăng vào ngày 12 Tháng Mười Hai năm 2020!
+* Ngày 4 Tháng Giêng 2021 được xác định là ngày khởi chạy trò chơi!
+* Sự kiện Raffle chủ đề Aavegotchi là một thành công vang dội! số lượng vé tăng lên đến 66% so với sự kiện Raffle chủ đề Chainlink
+* Binance niêm yết token GHST
+* Giúp một bồ tèo! Một ồ tèo đã gửi toàn bộ LINK mà anh ta đang có vào hợp đồng staking của GHST :(
+* Buổi Tiệc Kỷ Niệm 3 Tháng Của GHST vào ngày 14 Tháng Mười Hai năm 2020!
+* Jesse thuyết trình với CGC về "INTEROPERABLE AVATARS ĐỂ XÂY DỰNG MỘT GAME WEB3 MMORPG VĨ ĐẠI" (Xem thêm nếu bạn muốn tại [media ](/posts/media) của chúng tôi nhé!)
 
 ## [Aavegotchi dự kiến được triển khai vào ngày 4 Tháng Giêng năm 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+* Vào ngày 12 Tháng Mười Hai năm 2020, Coindesk đăng tải một bài báo để công bố ngày triển khai trò chơi Aavegotchi vào ngày 4 Tháng Giêng năm 2021. Bạn có háo hứng không? Tôi thì có đấy!
 
 ## [Aave thông báo sẽ có thêm những NFT chủ đề Aave được thêm vào sự kiện Raffle Aavegotchi sắp tới](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+* Vào ngày 6 Tháng Mười Hai năm 2020, Aave thông báo rằng Aave * Aavegotchi Fireside Chat vào ngày 8 Tháng Mười Hai năm 2020 để triển khai sự kiện Raffle với chủ đề Aave
+* Sự kiện Raffle chủ đề Aave sẽ có thêm NFT Frens4Ever! Hãy săn tìm CoderDangotchi và Jessegotchi nếu bạn muốn!
 
 ## [Học Giả Aavegotchi! Wiki của Aavegotchi Đây Rồi!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+* Wiki của Aavegotchi được triển khai vào ngày 27 Tháng Mười Hai năm 2020. Aagents ơi, chúng tôi cần các bạn quảng bá trang wiki!
+* Aavegotchi được đề cử tận 2 lần tại Giải thưởng NFT của năm 2020. Woohoo!
+* Beep! Aavegotchi đang tuyển một nhà lập trình game! Những ai đang quan tâm hãy tham gia cùng chúng tôi!
 
 ## [Hết hồn chưa! Danh Sách Giải Thưởng Trong Sự Kiện Raffle Chủ Đề Aave](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+* Hé lộ những wearable chủ đều Aavenger Superheo vào ngày 25 tháng Mười Một năm 2020.
+* Với sự góp mặc của wearable chủ đề Marc, Jordan, và Stani-gotchi!
 
 ## [Aave đầu tư vào Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+* Aave đã chính thức thông báo về việc đầu tư vào Pixelcraft Studio vào ngày 23 Tháng Mười Một năm 2020
+* Pixel Studios là team phát triển chính của Aavegotchi
 
 ## [Awwww. Fanfiction về Aavegotchi <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+* Aavegotchi ❤ Chainlink Fan Fiction, được viết bởi nhân viên tập sự của chúng tôi [appellants](https://twitter.com/sinkielinkie)! Được đăng vào ngày 20 Tháng Mười Hai năm 2020.
 
 ## [Ai cũng là người chiến thắng!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+* Với khoảnh khắc đầy ngộp thở, mọi người đã mong chờ Chainlink VRF sẽ hoạt động một cách thần kỳ vào ngày 13 Tháng Mười Một năm 2020. Kết quả là...Ai cũng là người chiến thắng!
 
 ## [Sẵn sàng đi nha mấy fen!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 * Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
@@ -86,7 +86,7 @@ contributors:
 * This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
 
 ## [Khai đao và chúng tôi đến rồi đây!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+* GHST staking đã hoạt động trên mainnet vào ngày 20 Tháng Mười năm 2020
 
 ## [Kiểm tra trên game đang test! Audit đã đạt chuẩn](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
 * Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
