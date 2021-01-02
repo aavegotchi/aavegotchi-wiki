@@ -37,8 +37,8 @@ export const tables
                 data: [
                     [`<img class="atoken" src="/atokens/aETH.svg" alt = "aETH token">`, "aETH", "Digital, global money. The currency of Ethereum DApps.", "Yes"],
 					[`<img class="atoken" src="/atokens/aAAVE.svg" alt = "aAAVE token">`, "aAAVE", "Governance token of Aave Protocol. Stakers provide security to the protocol.", "Yes"],
-                    [`<img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token">`, "aUNI", "Governance token of Uniswap Exchange.", "TBC"],
-                    [`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "aYFI", "Governance token of Yearn Finance.", "TBC"],
+                    [`<img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token">`, "aUNI", "Governance token of Uniswap Exchange.", "Yes"],
+                    [`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "aYFI", "Governance token of Yearn Finance.", "Yes"],
                     [`<img class="atoken" src="/atokens/aBAT.svg" alt = "aBAT token">`, "aBAT", "Token that powers Brave Browser and digital advertising.", "TBC"],
                     [`<img class="atoken" src="/atokens/aREN.svg" alt = "aREN token">`, "aREN", "Token that powers the RenVM and Darknodes.", "TBC"],
                     [`<img class="atoken" src="/atokens/aENJ.svg" alt = "aENJ token">`, "aENJ", "Token used to back the value of assets created on Enjin.", "TBC"],
