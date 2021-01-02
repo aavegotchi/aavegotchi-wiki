@@ -111,7 +111,7 @@ Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [t
 
 
 ### DEX
-Cũng được gọi là Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
+Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
 
 
 Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
@@ -169,7 +169,7 @@ Việc này có thể làm được bằng nhiều cách khác nhau, những cơ
 Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Một tiểu chuẩn mở, miễn phí miêu tả cách mà những token không thể thay thế hoặc độc nhất trên blockchain của Ethereum. Trong khi đã số các token đề có nhiều phiên bản khác nhau (mỗi token đề tương tự như những token khác) thì các ERC-721 đều là độc nhất.
 
 Think of them like rare, one-of-a-kind collectables.
 
