@@ -35,6 +35,8 @@ The table below shows the XP required for each level. Before delving into the da
 * Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
 * Constant: A fixed value that is used in the computation of the XP required for the next level Formula
 
+The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+
 *Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
 
 table_XP
