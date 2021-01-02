@@ -34,9 +34,9 @@ Hãy gom hàng đi nhé, mấy fren - trong phần Wiki này, chúng ta sẽ nh�
 </div>
 
 ## Tại sao lại là GHST
-User incentives play a huge part in any project. In this case, GHST provides the economic incentives to encourage greater participation in the Aavegotchi ecosystem. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
+Các phần thưởng khuyến khích người dùng là rất quan trọng trong bất kỳ một dự án nào. Trong trường hợp này, GHST mang đến những thưởng kinh tế để khuyến khích sự tham gia nhiệt tình của người chơi vào hệ sinh thái của Aavegotchi. Đặc biệt, token này sẽ giúp những dự định chính đáng của AavegotchiDAO, người nắm giữ GHST, và người nắm giữ Aavegotchi trở thành hiện thực.
 
-Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+Người dùng cần phải mua GHST và dùng nó vào quá trình triệu hồi cũng như huấn luyện các Aavegotchi. Một phần số tiền thu được sẽ được chuyển lại cho DAO để có thêm ngân sách nhằm phát triển hệ sinh thái này. Đồng thời, một phần giá trị cũng sẽ được phân bố như một phần thưởng cho những quyết định quản trị thông thái từ DAO, và sẽ là phần thưởng cho những ai tham gia vào rarity farming.
 
 For more information, make sure to check out the pages under 'Tokenomics' in the sidebar.
 
