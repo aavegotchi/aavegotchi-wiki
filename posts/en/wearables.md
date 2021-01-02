@@ -73,7 +73,7 @@ table_aaveWearablesTable
 
 ## Ethereum Themed Set
 
-The Ethereum-themed set is the last of three pre-Mainnet sets. Stats for the individual wearables will be out soon.
+The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
