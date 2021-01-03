@@ -41,15 +41,18 @@ contributors:
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài reffle hay không?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
-<li><a href=#gameplay-faq>Những câu hỏi về Lối chơi</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?</a></p>
-<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
-<p><a href=#is-aavegotchi-on-chain->Aavegotchi là game chơi ngay trên blockchain đúng không?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
+<li><a href=#portal-faq>Portal FAQ</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
+<li><a href=#technical-faq>Technical FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
 </ol>
 
 </div>
@@ -142,39 +145,48 @@ Vé Raffle được dự trên tiêu chuẩn ERC-1155. Hiện tại, các token 
 ### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
 Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
 
-## Những câu hỏi về Lối chơi
+## Portal FAQ
+
+### How many portals can you buy in 1 transaction?
+Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+
+### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+
+## Gameplay FAQ
 
 
-### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
+### Do higher trait scores always mean higher rarity?
 
-Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 1-100 thường sẽ dễ gặp hơn.
+Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 1-100 range are more common.
 
-### Vậy thì mình phải trả bao nhiêu để chơi?
+### How much does it cost to play?
 
-Portal sẽ có giá khoảng từ 50-100 GHST. Giá trị của những vật phẩm khác như trang bị, vật phẩm tiêu hao, và đất đai sẽ được công bố - dù sau khi trò chơi được triển khai <a href="https://wiki.aavegotchi.com/dao">DAO</a> sẽ có quyền **điều chỉnh giá tài sản thông qua những cuộc bỏ phiếu quản trị**. Hiện tại, bạn có thể xem qua giá hiện tại trên thị trường mở dành cho một số loại phụ kiện trên <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
+Portals are expected to cost between 50-100 GHST. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, <a href="https://wiki.aavegotchi.com/dao">the DAO</a> will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
 
-### Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?
-Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được stake vào Aavegotchi sẽ không làm ảnh hưởng đến cấp độ kinship.
+### Does changing the collateral staked affect kinship level?
+No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Những câu hỏi về Kỹ thuật
+## Technical FAQ
 
 
-### Aavegotchi là game chơi ngay trên blockchain đúng không?
+### Is Aavegotchi on-chain?
 
-Tất cả những yếu tố trong game Aavegotchi được <a href="https://twitter.com/aavegotchi/status/1328548543909351429"> lưu trữ trên blockchain của Ethereum</a>. Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard<a href="https://eips.ethereum.org/EIPS/eip-2535"> tại đây</a>.
+All elements of the Aavegotchi game are <a href="https://twitter.com/aavegotchi/status/1328548543909351429">stored on the Ethereum blockchain</a>. You can read more about our unique design using the Diamond Standard <a href="https://eips.ethereum.org/EIPS/eip-2535">here</a>.
 
-### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
+### Which wallet should I use with Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và<a href="https://arkane.network/apps">Arkane wallet</a> - sẽ sớm được tích hợp vào Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and <a href="https://arkane.network/apps">Arkane wallet</a> - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-### Aavegotchi sẽ chạy trên Layer 2 chứ?
+### Will Aavegotchi run on Layer 2?
 
-Đúng vậy! Aavegotchi dự định sẽ dùng [Matic](https://matic.network/) như một giải pháp Layer 2, được tích hợp ngay khi triển khai. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
+Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Mình có cần di chuyển token Aave hay không?
+### Do I need to migrate my Aave tokens?
 
-Aavegotchi sẽ hoạt động tốt với aToken từ <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta <a href="https://twitter.com/StaniKulechov/status/1334546997827809285"> sẽ sớm có một công cụ hỗ trợ việc dịch chuyển</a> (trước khi game được triển khai) :) 
+Aavegotchi will work with aTokens from <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we 
+<a href="https://twitter.com/StaniKulechov/status/1334546997827809285">should have a migration tool out soon</a> (before launch) :) 
 
-<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
