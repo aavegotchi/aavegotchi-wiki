@@ -29,10 +29,10 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
 <li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
-<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
-<li><a href=#okex-wearables>OKex Wearables</a></li>
 <li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
 <li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
+<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
+<li><a href=#okex-wearables>OKex Wearables</a></li>
 <li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 <li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
@@ -68,10 +68,6 @@ Wearables can be equipped or unequipped at any time. Equipping/unequipping weara
 
 table_wearablesBRStable
 
-
-# Pre-Launch Wearables
-
-
 ## LINK Themed Set
 
 Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits. 
@@ -96,21 +92,6 @@ The Aagent Wearables Set is a limited edition set that is given to all [Level 12
 
 table_aagentWearablesTable
 
-## Santa Wearables Set
-
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
-
-table_santaWearablesTable
-
-## OKex Wearables
-
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
-
-table_okexWearablesTable
-
-# Shop Wearables
-Shop wearables are wearables which could be purchased in the Aavegotchi shop using GHST. There are limited quantities for each wearable as well.
-
 ## Wizard Wearables Set
 
 Pictures for the Wizard Wearables Set coming soon!
@@ -122,6 +103,18 @@ table_wizardWearablesTable
 Pictures for the Farmer Wearables Set coming soon!
 
 table_farmerWearablesTable
+
+## Santa Wearables Set
+
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+
+table_santaWearablesTable
+
+## OKex Wearables
+
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+
+table_okexWearablesTable
 
 ## Skater Wearables Set
 
