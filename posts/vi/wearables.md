@@ -34,7 +34,8 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
 <li><a href=#sushi-wearables-set>Bộ Trang Phục Chủ Đề Sushi</a></li>
 <li><a href=#gentleman-wearables-set>Bộ Trang Phục Chủ Đề Gentleman</a></li>
-<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
 </ol>
 
 </div>
@@ -88,27 +89,30 @@ Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được 
 
 table_aagentWearablesTable
 
+# Wearables Có Trong Shop
+Shop wearables are wearables which could be purchased in the Aavegotchi shop using GHST. There are limited quantities for each wearable as well.
+
 ## Bộ Trang Phục Chủ Đề Phù Thuỷ
 
-Hình ảnh của Wearable chủ đề Phù Thuỷ sẽ sớm được tiết lộ!
+Pictures for the Wizard Wearables Set coming soon!
 
 table_wizardWearablesTable
 
 ## Farmer Wearables Nông Dân
 
-Hình ảnh của Wearable chủ đề Nông Dân sẽ sớm được tiết lộ!
+Pictures for the Farmer Wearables Set coming soon!
 
 table_farmerWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Santa
 
-Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
 ## Trang Phục Chủ Đề OKex
 
-Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
@@ -124,10 +128,10 @@ table_sushiWearablesTable
 
 table_gentlemanWearablesTable
 
-## Miner Wearables Set
+## Bộ Trang Phục Chủ Đề Miner
 
 table_minerWearablesTable
 
-# Wearables Có Trong Shop
+## Pajamas Wearables Set
 
-Coming soon!
+table_pajamasWearablesTable
