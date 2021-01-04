@@ -304,6 +304,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "hazmatWearablesTable",
+            tableCaption: "Hazmat Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "111", "Hazmat Hood", "Legendary", "NRG +1, AGG -1, SPK +2", "125"],
+					["", "112", "Hazmat Suit", "Legendary", "NRG +2, AGG -1, SPK +1", "125"],
+					["", "113", "Uranium Rod", "Godlike", "NRG +6", "3"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
