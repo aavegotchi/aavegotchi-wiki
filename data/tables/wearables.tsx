@@ -216,9 +216,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "87", "Miner Helmet", "Uncommon", "NRG +1, BRN -1", "500"],
-					["", "88", "Miner Jeans", "Uncommon", "NRG +1, BRN -1", "500"],
-					["", "89", "Pickaxe", "Rare", "NRG +1, AGG +2", "250"]
+				    [`<img src="/wearables/final wearables/87_MinerHelmet.svg" alt = "aavegotchi Miner Helmet"/>`, "87", "Miner Helmet", "Uncommon", "NRG +1, BRN -1", "500"],
+					[`<img src="/wearables/final wearables/88_MinerJeans.svg" alt = "aavegotchi Miner Jeans"/>`, "88", "Miner Jeans", "Uncommon", "NRG +1, BRN -1", "500"],
+					[`<img src="/wearables/final wearables/89_MinerPickaxe.svg" alt = "aavegotchi Miner Pickaxe"/>`, "89", "Pickaxe", "Rare", "NRG +1, AGG +2", "250"]
 				]
 			}
 		},
