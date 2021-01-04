@@ -95,7 +95,7 @@ For users who have completed KYC, they will be able to arbitrage the GHST price 
 
 ## Learn More
 
-* For moar on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
 * Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
