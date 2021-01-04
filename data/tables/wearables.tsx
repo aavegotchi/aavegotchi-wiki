@@ -69,7 +69,7 @@ export const tables
             }
         },
 		
-		        {
+		{
             tableName: "ethereumWearablesTable",
             tableCaption: "Ethereum-Themed Wearables",
             tableData: {
@@ -98,9 +98,20 @@ export const tables
             }
         },
 		
-		
-		
-		
+		{
+            tableName: "aagentWearablesTable",
+            tableCaption: "Aagent Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "55", "Aagent Headset", "Rare", "AGG +1, SPK +1, BRN +1", ""],
+				    ["", "56", "Aagent Shirt", "Rare", "NRG -1, AGG +1, SPK +1", ""],					
+				    ["", "57", "Aagent Shades", "Rare", "NRG -1, SPK +2", ""],		
+				    ["", "58", "Aagent Pistol", "Rare", "AGG +3", ""],		
+				    ["", "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", ""]
+				]
+			}
+		},		
 		
 
         {

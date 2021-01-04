@@ -79,7 +79,9 @@ table_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
-Coming soon!
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+
+table_aagentWearablesTable
 
 ## OKex Wearables
 
