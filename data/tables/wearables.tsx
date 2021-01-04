@@ -170,6 +170,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "skaterWearablesTable",
+            tableCaption: "Skater Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "77", "Bitcoin Beanie", "Uncommon", "NRG +1, BRN -1", "500"],
+					["", "78", "Black Jeans", "Uncommon", "AGG +1, BRN -1", "500"],
+					["", "79", "Skateboard", "Rare", "NRG +1, BRN -2", "250"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
