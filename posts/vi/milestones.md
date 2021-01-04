@@ -145,16 +145,16 @@ contributors:
 * Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
 ## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+* Vào ngày 13 Tháng Tám năm 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph và Unintelligent_nerd đã tham gia đội Aavegotchi Aapprentices!
+* Aavegotchi Aagents hùng mạnh với 120 thành viên!
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown tham gia vào team vào Aavegotchi Mission được triển khai](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Vào ngày 29 Tháng Bảy năm 2020, JC Crown đã tham gia vào team Aavegotchi!
+* Aavegotchi Mission được triển khai cùng ngày!
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge tham gia vào team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge tham gia vào ngày 22 Tháng Bảy năm 2020
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [Bài đăng đầu tiên của Aavegotchi trên Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Vào ngày 14 Tháng Bảy năm 2020, sự kiện Aavegotchi đầu tiên đã được đăng tải trên Medium!
+* Xibot đã tham gia vào team!
