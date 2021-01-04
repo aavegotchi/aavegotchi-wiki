@@ -41,18 +41,18 @@ contributors:
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài reffle hay không?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Có thể mua được bao nhiêu portal chỉ trong một giao dịch?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Nếu mình mở một portal nhưng không có atoken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?</a></p>
+<li><a href=#gameplay-faq>Những câu hỏi về Lối chơi</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?</a></p>
+<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
+<p><a href=#is-aavegotchi-on-chain->Aavegotchi là game chơi ngay trên blockchain đúng không?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
 </ol>
 
 </div>
