@@ -136,10 +136,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "67", "Straw Hat", "Common", "NRG -1", "1000"],
-				    ["", "68", "Farmer Jeans", "Common", "BRN -1", "1000"],					
-				    ["", "69", "Pitchfork", "Common", "AGG +1", "1000"],		
-				    ["", "70", "Handsaw ", "Mythical", "AGG +3, BRN -2", "50"]
+				    [`<img src="/wearables/final wearables/67_FarmerStrawHat.svg" alt = "aavegotchi Farmer Straw Hat"/>`, "67", "Straw Hat", "Common", "NRG -1", "1000"],
+				    [`<img src="/wearables/final wearables/68_FarmerJeans.svg" alt = "aavegotchi Farmer Jeans"/>`, "68", "Farmer Jeans", "Common", "BRN -1", "1000"],					
+				    [`<img src="/wearables/final wearables/69_FarmerPitchfork.svg" alt = "aavegotchi Farmer Pitchfork"/>`, "69", "Pitchfork", "Common", "AGG +1", "1000"],		
+				    [`<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`, "70", "Handsaw ", "Mythical", "AGG +3, BRN -2", "50"]
 				]
 			}
 		},
