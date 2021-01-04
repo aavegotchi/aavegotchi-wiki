@@ -33,6 +33,7 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#okex-wearables>Trang Phục Chủ Đề OKex</a></li>
 <li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
+<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
 </ol>
 
 </div>
@@ -117,6 +118,10 @@ table_skaterWearablesTable
 ## Sushi Wearables Set
 
 table_sushiWearablesTable
+
+## Gentleman Wearables Set
+
+table_gentlemanWearablesTable
 
 # Wearables Có Trong Shop
 
