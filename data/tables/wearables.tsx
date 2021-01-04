@@ -237,6 +237,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "runnerWearablesTable",
+            tableCaption: "Runner Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "94", "Sweatband", "Uncommon", "NRG +2", "500"],
+					["", "95", "Track Shorts", "Uncommon", "NRG +1, BRN -1", "500"],
+					["", "96", "Water bottle", "Uncommon", "NRG +2", "500"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
