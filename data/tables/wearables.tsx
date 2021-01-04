@@ -283,10 +283,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "104", "Portal Mage Helmet", "Legendary", "NRG +2, AGG +1, SPK +1", "125"],
-					["", "105", "Portal Mage Armor", "Legendary", "NRG +1, AGG +2, SPK +2", "125"],
-					["", "106", "Portal Mage Axe", "Legendary", "AGG +4", "125"],
-					["", "107", "Portal Mage Black Axe", "Godlike", "AGG +6", "5"]
+				    [`<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`, "104", "Portal Mage Helmet", "Legendary", "NRG +2, AGG +1, SPK +1", "125"],
+					[`<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`, "105", "Portal Mage Armor", "Legendary", "NRG +1, AGG +2, SPK +2", "125"],
+					[`<img src="/wearables/final wearables/106_PortalMageAxe.svg" alt = "aavegotchi Portal Mage Axe"/>`, "106", "Portal Mage Axe", "Legendary", "AGG +4", "125"],
+					[`<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`, "107", "Portal Mage Black Axe", "Godlike", "AGG +6", "5"]
 				]
 			}
 		},
