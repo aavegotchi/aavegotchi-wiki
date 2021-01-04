@@ -203,9 +203,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "84", "Gentleman Hat", "Legendary", "NRG -1, AGG -3", "125"],
-					["", "85", "Genteman Coat", "Legendary", "NRG -1, AGG -3", "125"],
-					["", "86", "Monocle", "Mythical", "AGG -2, BRN +3", "50"]
+				    [`<img src="/wearables/final wearables/84_GentlemanHat.svg" alt = "aavegotchi Gentleman Hat"/>`, "84", "Gentleman Hat", "Legendary", "NRG -1, AGG -3", "125"],
+					[`<img src="/wearables/final wearables/85_GentlemanSuitFull.svg" alt = "aavegotchi Gentleman Coat"/>`, "85", "Genteman Coat", "Legendary", "NRG -1, AGG -3", "125"],
+					[`<img src="/wearables/final wearables/86_GentlemanMonocle.svg" alt = "aavegotchi Gentleman Monocle"/>`, "86", "Monocle", "Mythical", "AGG -2, BRN +3", "50"]
 				]
 			}
 		},
