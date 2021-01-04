@@ -150,7 +150,7 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "71", "Red Santa Hat", "Rare", "AGG -1, SPK -2", "250"]
+				    [`<img src="/wearables/final wearables/71_SantagotchiHat.svg" alt = "aavegotchi Santagotchi Hat"/>`, "71", "Red Santa Hat", "Rare", "AGG -1, SPK -2", "250"]
 				]
 			}
 		},
