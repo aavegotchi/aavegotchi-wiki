@@ -183,6 +183,20 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "sushiWearablesTable",
+            tableCaption: "Sushi Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "80", "Sushi Bandana", "Rare", "NRG -1, AGG +2", "250"],
+					["", "81", "Sushi Coat", "Rare", "NRG -2, AGG +1", "250"],
+					["", "82", "Sushi Piece", "Legendary", "SPK -4", "125"],
+					["", "83", "Sushi Knife", "Rare", "AGG +3", "250"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
