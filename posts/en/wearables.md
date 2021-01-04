@@ -42,6 +42,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
 <li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
 <li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
+<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
 </ol>
 
 </div>
@@ -157,3 +158,7 @@ table_witchyWearablesTable
 ## Portal Wearables Set
 
 table_portalWearablesTable
+
+## Rasta Wearables Set
+
+table_rastaWearablesTable

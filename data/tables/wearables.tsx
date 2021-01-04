@@ -291,6 +291,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "rastaWearablesTable",
+            tableCaption: "Rasta Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "108", "Rasta Hat", "Uncommon", "NRG -1, AGG -1", "500"],
+					["", "109", "Rasta Shirt", "Uncommon", "NRG -1, AGG -1", "500"],
+					["", "110", "Jamaican Flag", "Rare", "NRG -1, AGG -2", "250"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
