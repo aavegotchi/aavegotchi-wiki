@@ -39,6 +39,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
 <li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
 <li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
+<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
 </ol>
 
 </div>
@@ -142,3 +143,7 @@ table_pajamasWearablesTable
 ## Runner Wearables Set
 
 table_runnerWearablesTable
+
+## Lady Wearables Set
+
+table_ladyWearablesTable

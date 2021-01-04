@@ -250,6 +250,20 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "ladyWearablesTable",
+            tableCaption: "Lady Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "97", "Pillbox Hat", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
+					["", "98", "Day Dress", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
+					["", "99", "Parasol", "Mythical", "NRG +1, AGG -1, SPK -3", "50"],
+					["", "100", "Clutch", "Legendary", "NRG +1, AGG -1, SPK -2", "125"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
