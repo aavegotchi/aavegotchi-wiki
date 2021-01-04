@@ -44,6 +44,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
 <li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
 <li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
+<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
 </ol>
 
 </div>
@@ -160,3 +161,7 @@ table_rastaWearablesTable
 ## Hazmat Wearables Set
 
 table_hazmatWearablesTable
+
+## Vacation Wearables Set
+
+table_vacationWearablesTable

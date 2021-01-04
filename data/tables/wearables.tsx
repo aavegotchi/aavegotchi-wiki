@@ -317,6 +317,20 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "vacationWearablesTable",
+            tableCaption: "Hazmat Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "114", "Red Hawaiian Shirt", "Mythical", "NRG -3, AGG -2", "50"],
+					["", "115", "Blue Hawaiian Shirt", "Legendary", "NRG -2, AGG -2", "125"],
+					["", "116", "Coconut", "Rare", "SPK -3", "250"],
+					["", "117", "Cool shades", "Common", "BRN -1", "1000"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
