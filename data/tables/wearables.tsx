@@ -104,11 +104,11 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "55", "Aagent Headset", "Rare", "AGG +1, SPK +1, BRN +1", ""],
-				    ["", "56", "Aagent Shirt", "Rare", "NRG -1, AGG +1, SPK +1", ""],					
-				    ["", "57", "Aagent Shades", "Rare", "NRG -1, SPK +2", ""],		
-				    ["", "58", "Aagent Pistol", "Rare", "AGG +3", ""],		
-				    ["", "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", ""]
+				    [`<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, "55", "Aagent Headset", "Rare", "AGG +1, SPK +1, BRN +1", ""],
+				    [`<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, "56", "Aagent Shirt", "Rare", "NRG -1, AGG +1, SPK +1", ""],					
+				    [`<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, "57", "Aagent Shades", "Rare", "NRG -1, SPK +2", ""],		
+				    [`<img src="/wearables/final wearables/58_AagentPistol.svg" alt = "aavegotchi Aagent Pistol"/>`, "58", "Aagent Pistol", "Rare", "AGG +3", ""],		
+				    [`<img src="/wearables/final wearables/59_AagentFedoraHat.svg" alt = "aavegotchi Aagent Fedora Hat"/>`, "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", ""]
 				]
 			}
 		},
