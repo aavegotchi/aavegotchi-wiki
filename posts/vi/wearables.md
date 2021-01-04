@@ -39,6 +39,8 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
 <li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
 <li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
+<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
 </ol>
 
 </div>
@@ -150,3 +152,11 @@ table_ladyWearablesTable
 ## Witchy Wearables Set
 
 table_witchyWearablesTable
+
+## Portal Wearables Set
+
+table_portalWearablesTable
+
+## Rasta Wearables Set
+
+table_rastaWearablesTable
