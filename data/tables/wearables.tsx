@@ -347,6 +347,17 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "independentHeadTable",
+            tableCaption: "Independent Head Items",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "124", "Beer Helmet", "Mythical", "BRN -5", "50"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
