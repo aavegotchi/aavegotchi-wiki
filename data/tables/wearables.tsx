@@ -155,6 +155,21 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "okexWearablesTable",
+            tableCaption: "OKex Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "72", "Jaay Hairpiece", "Mythical", "BRN -5", "30"],
+					["", "73", "Jaay Glasses", "Mythical", "NRG -2, AGG -2, BRN -1", "10"],
+					["", "74", "Jaay Suit", "Mythical", "NRG -2, BRN -3", "20"],
+					["", "75", "OKex Sign", "Mythical", "NRG -5", "40"],
+					["", "76", "Big GHST Token", "Common", "BRN +1", "1000"],
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
