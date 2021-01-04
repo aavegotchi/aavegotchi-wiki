@@ -111,6 +111,23 @@ export const tables
 				    ["", "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", ""]
 				]
 			}
+		},
+
+		{
+            tableName: "wizardWearablesTable",
+            tableCaption: "Wizard Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "60", "Common Wizard Hat", "Common", "BRN +1", "1000"],
+				    ["", "61", "Legendary Wizard Hat", "Legendary", "SPK +2, BRN +2", "125"],					
+				    ["", "62", "Mythical Wizard Hat", "Mythical", "SPK +2, BRN +3", "50"],		
+				    ["", "63", "Godlike Wizard Hat", "Godlike", "SPK +2, BRN +4", "3"],		
+				    ["", "64", "Common Wizard Staff", "Common", "NRG +1", "1000"],
+					["", "65", "Legendary Wizard Staff", "Legendary", "NRG +2, BRN +2", "125"],
+					["", "66", "Wizard Visor", "Common", "NRG +1", "1000"]
+				]
+			}
 		},		
 		
 
