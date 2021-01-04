@@ -41,6 +41,9 @@ contributors:
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
+<li><a href=#portal-faq>Portal FAQ</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
@@ -143,6 +146,14 @@ Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on th
 
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+
+## Portal FAQ
+
+### How many portals can you buy in 1 transaction?
+Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+
+### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ## Gameplay FAQ
 
