@@ -72,7 +72,7 @@ Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 stan
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
+"DeFi" stands for **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
 
 Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
