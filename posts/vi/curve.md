@@ -96,7 +96,7 @@ Với những ai đã hoàn thành KYC, họ sẽ có thể kiếm lợi nhuận
 
 ## Tìm hiểu thêm
 
-* Đọc nhèo hơn tại [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
 * Đọc thêm tại [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
