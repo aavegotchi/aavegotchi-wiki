@@ -34,6 +34,16 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 <li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
+<li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
+<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
+<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
+<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
+<li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
+<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
+<li><a href=#independent-drink-items>Independent Drink Items</a></li>
 </ol>
 
 </div>
@@ -58,10 +68,6 @@ See [Traits](/traits) for more about this topic.
 Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
-
-
-# Pre-Launch Wearables
-
 
 ## LINK Themed Set
 
@@ -123,6 +129,42 @@ table_sushiWearablesTable
 
 table_gentlemanWearablesTable
 
-# Shop Wearables
+## Miner Wearables Set
 
-Coming soon!
+table_minerWearablesTable
+
+## Pajamas Wearables Set
+
+table_pajamasWearablesTable
+
+## Runner Wearables Set
+
+table_runnerWearablesTable
+
+## Lady Wearables Set
+
+table_ladyWearablesTable
+
+## Witchy Wearables Set
+
+table_witchyWearablesTable
+
+## Portal Wearables Set
+
+table_portalWearablesTable
+
+## Rasta Wearables Set
+
+table_rastaWearablesTable
+
+## Hazmat Wearables Set
+
+table_hazmatWearablesTable
+
+## Vacation Wearables Set
+
+table_vacationWearablesTable
+
+## Independent Drink Items
+
+table_independentDrinksTable
