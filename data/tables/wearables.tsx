@@ -197,6 +197,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "gentlemanWearablesTable",
+            tableCaption: "Gentleman Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "84", "Gentleman Hat", "Legendary", "NRG -1, AGG -3", "125"],
+					["", "85", "Genteman Coat", "Legendary", "NRG -1, AGG -3", "125"],
+					["", "86", "Monocle ", "Mythical", "AGG -2, BRN +3", "50"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
