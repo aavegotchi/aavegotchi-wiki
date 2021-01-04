@@ -32,6 +32,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
 <li><a href=#okex-wearables>OKex Wearables</a></li>
 <li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
+<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 </ol>
 
 </div>
@@ -112,6 +113,10 @@ table_okexWearablesTable
 ## Skater Wearables Set
 
 table_skaterWearablesTable
+
+## Sushi Wearables Set
+
+table_sushiWearablesTable
 
 # Shop Wearables
 
