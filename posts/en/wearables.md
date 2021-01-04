@@ -91,6 +91,9 @@ The Aagent Wearables Set is a limited edition set that is given to all [Level 12
 
 table_aagentWearablesTable
 
+# Shop Wearables
+Shop wearables are wearables which could be purchased in the Aavegotchi shop using GHST. There are limited quantities for each wearable as well.
+
 ## Wizard Wearables Set
 
 Pictures for the Wizard Wearables Set coming soon!
@@ -134,7 +137,3 @@ table_minerWearablesTable
 ## Pajamas Wearables Set
 
 table_pajamasWearablesTable
-
-# Shop Wearables
-
-Coming soon!
