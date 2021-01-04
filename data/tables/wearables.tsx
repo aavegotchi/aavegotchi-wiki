@@ -161,11 +161,11 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "72", "Jaay Hairpiece", "Mythical", "BRN -5", "30"],
-					["", "73", "Jaay Glasses", "Mythical", "NRG -2, AGG -2, BRN -1", "10"],
-					["", "74", "Jaay Suit", "Mythical", "NRG -2, BRN -3", "20"],
-					["", "75", "OKex Sign", "Mythical", "NRG -5", "40"],
-					["", "76", "Big GHST Token", "Common", "BRN +1", "1000"],
+				    [`<img src="/wearables/final wearables/72_JaayHairpiece.svg" alt = "aavegotchi Jaay Hairpiece"/>`, "72", "Jaay Hairpiece", "Mythical", "BRN -5", "30"],
+					[`<img src="/wearables/final wearables/73_JaayGlasses.svg" alt = "aavegotchi Jaay Glasses"/>`, "73", "Jaay Glasses", "Mythical", "NRG -2, AGG -2, BRN -1", "10"],
+					[`<img src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt = "aavegotchi Jaay Suit"/>`, "74", "Jaay Suit", "Mythical", "NRG -2, BRN -3", "20"],
+					[`<img src="/wearables/final wearables/75_OKexSign.svg" alt = "aavegotchi OKex Sign"/>`, "75", "OKex Sign", "Mythical", "NRG -5", "40"],
+					[`<img src="/wearables/final wearables/76_BigGHSTToken.svg" alt = "aavegotchi Big GHST Token"/>`, "76", "Big GHST Token", "Common", "BRN +1", "1000"],
 				]
 			}
 		},
