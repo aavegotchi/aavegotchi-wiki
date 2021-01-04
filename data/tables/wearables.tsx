@@ -223,6 +223,20 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "pajamasWearablesTable",
+            tableCaption: "Pajamas Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "90", "Pajama Hat", "Common", "SPK -1", "1000"],
+					["", "91", "Pajama Shirt", "Uncommon", "AGG -1, SPK -1", "500"],
+					["", "92", "Bedtime Milk", "Rare", "AGG -2, SPK -1", "250"],
+					["", "93", "Fluffy Pillow", "Legendary", "SPK -4", "125"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
