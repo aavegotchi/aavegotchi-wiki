@@ -31,6 +31,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
 <li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
 <li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
+<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
 <li><a href=#okex-wearables>OKex Wearables</a></li>
 </ol>
 
@@ -96,6 +97,12 @@ table_wizardWearablesTable
 Pictures for the Farmer Wearables Set coming soon!
 
 table_farmerWearablesTable
+
+## Santa Wearables Set
+
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information.
+
+table_santaWearablesTable
 
 ## OKex Wearables
 

@@ -142,7 +142,18 @@ export const tables
 				    ["", "70", "Handsaw ", "Mythical", "AGG +3, BRN -2", "50"]
 				]
 			}
-		},		
+		},
+		
+		{
+            tableName: "santaWearablesTable",
+            tableCaption: "Santa Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "71", "Red Santa Hat", "Rare", "AGG -1, SPK -2", "250"]
+				]
+			}
+		},
 		
 
         {
