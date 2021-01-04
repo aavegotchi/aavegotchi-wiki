@@ -36,6 +36,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 <li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
 </ol>
 
 </div>
@@ -124,6 +125,10 @@ table_sushiWearablesTable
 ## Gentleman Wearables Set
 
 table_gentlemanWearablesTable
+
+## Miner Wearables Set
+
+table_minerWearablesTable
 
 # Shop Wearables
 

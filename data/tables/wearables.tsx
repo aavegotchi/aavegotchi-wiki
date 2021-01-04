@@ -205,7 +205,20 @@ export const tables
                 data: [
 				    ["", "84", "Gentleman Hat", "Legendary", "NRG -1, AGG -3", "125"],
 					["", "85", "Genteman Coat", "Legendary", "NRG -1, AGG -3", "125"],
-					["", "86", "Monocle ", "Mythical", "AGG -2, BRN +3", "50"]
+					["", "86", "Monocle", "Mythical", "AGG -2, BRN +3", "50"]
+				]
+			}
+		},
+		
+		{
+            tableName: "minerWearablesTable",
+            tableCaption: "Miner Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "87", "Miner Helmet", "Uncommon", "NRG +1, BRN -1", "500"],
+					["", "88", "Miner Jeans", "Uncommon", "NRG +1, BRN -1", "500"],
+					["", "89", "Pickaxe", "Rare", "NRG +1, AGG +2", "250"]
 				]
 			}
 		},
