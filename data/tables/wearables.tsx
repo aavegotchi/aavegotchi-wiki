@@ -229,10 +229,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "90", "Pajama Hat", "Common", "SPK -1", "1000"],
-					["", "91", "Pajama Shirt", "Uncommon", "AGG -1, SPK -1", "500"],
-					["", "92", "Bedtime Milk", "Rare", "AGG -2, SPK -1", "250"],
-					["", "93", "Fluffy Pillow", "Legendary", "SPK -4", "125"]
+				    [`<img src="/wearables/final wearables/90_PajamaHat.svg" alt = "aavegotchi Pajama Hat"/>`, "90", "Pajama Hat", "Common", "SPK -1", "1000"],
+					[`<img src="/wearables/final wearables/91_PajamaPantsFull.svg" alt = "aavegotchi Pajama Shirt"/>`, "91", "Pajama Shirt", "Uncommon", "AGG -1, SPK -1", "500"],
+					[`<img src="/wearables/final wearables/92_BedtimeMilk.svg" alt = "aavegotchi Bedtime Milk"/>`, "92", "Bedtime Milk", "Rare", "AGG -2, SPK -1", "250"],
+					[`<img src="/wearables/final wearables/93_FluffyBlanket.svg" alt = "aavegotchi Fluffy Pillow"/>`, "93", "Fluffy Pillow", "Legendary", "SPK -4", "125"]
 				]
 			}
 		},
