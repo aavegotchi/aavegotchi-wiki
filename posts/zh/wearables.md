@@ -35,6 +35,7 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 <li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
 <li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
 </ol>
 
 </div>
@@ -88,6 +89,9 @@ The Aagent Wearables Set is a limited edition set that is given to all [Level 12
 
 table_aagentWearablesTable
 
+# Shop Wearables
+Shop wearables are wearables which could be purchased in the Aavegotchi shop using GHST. There are limited quantities for each wearable as well.
+
 ## Wizard Wearables Set
 
 Pictures for the Wizard Wearables Set coming soon!
@@ -128,6 +132,6 @@ table_gentlemanWearablesTable
 
 table_minerWearablesTable
 
-# Shop Wearables
+## Pajamas Wearables Set
 
-Coming soon!
+table_pajamasWearablesTable
