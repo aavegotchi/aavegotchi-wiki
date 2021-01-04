@@ -41,6 +41,9 @@ contributors:
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài reffle hay không?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
+<li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Có thể mua được bao nhiêu portal chỉ trong một giao dịch?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Nếu mình mở một portal nhưng không có atoken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?</a></p>
 <li><a href=#gameplay-faq>Những câu hỏi về Lối chơi</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
@@ -141,6 +144,14 @@ Vé Raffle được dự trên tiêu chuẩn ERC-1155. Hiện tại, các token 
 
 ### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
 Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
+
+## Những câu hỏi về Portal
+
+### Có thể mua được bao nhiêu portal chỉ trong một giao dịch?
+Mỗi người chơi mua được tổng cộng 50 portal trong 1 giao dịch. Điều này giúp ngăn chặn việc cá voi độc quyền sở hữu một số lượng portal lớn.
+
+### Nếu mình mở một portal nhưng không có atoken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?
+Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở lại để triệu hồi pé gotchi. Bạn không cần phải chuẩn bị aToken trước.
 
 ## Những câu hỏi về Lối chơi
 

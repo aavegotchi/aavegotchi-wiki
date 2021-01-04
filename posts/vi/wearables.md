@@ -27,7 +27,13 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
 <li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aave</a></li>
-<li><a href=#okex-wearables>OKex Wearables</a></li>
+<li><a href=#wizard-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Nông Dân</a></li>
+<li><a href=#santa-wearables-set>Bộ Trang Phục Chủ Đề Santa</a></li>
+<li><a href=#okex-wearables>Trang Phục Chủ Đề OKex</a></li>
+<li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
+<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
+<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
 </ol>
 
 </div>
@@ -77,14 +83,46 @@ table_ethereumWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Aave
 
-Sẽ sớm xuất hiện!
+Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được trao tặng cho tất cả những [Aagent có cấp độ 12](/missions), những người đã hoàn thành hết 12 Aagent Missions trước khi Mainnet của Aavegotchi khởi chạy. Hình ảnh và Số lượng sẽ sớm được tiết lộ!
 
-## OKex Wearables
+table_aagentWearablesTable
+
+## Bộ Trang Phục Chủ Đề Phù Thuỷ
+
+Hình ảnh của Wearable chủ đề Phù Thuỷ sẽ sớm được tiết lộ!
+
+table_wizardWearablesTable
+
+## Farmer Wearables Nông Dân
+
+Hình ảnh của Wearable chủ đề Nông Dân sẽ sớm được tiết lộ!
+
+table_farmerWearablesTable
+
+## Bộ Trang Phục Chủ Đề Santa
+
+Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+
+table_santaWearablesTable
+
+## Trang Phục Chủ Đề OKex
 
 Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
 
-Bảng dữ liệu về Wearable OKex sẽ được cập nhật sớm cho các fren!
+table_okexWearablesTable
+
+## Bộ Trang Phục Chủ Đề Skater
+
+table_skaterWearablesTable
+
+## Sushi Wearables Set
+
+table_sushiWearablesTable
+
+## Gentleman Wearables Set
+
+table_gentlemanWearablesTable
 
 # Wearables Có Trong Shop
 
-Sẽ sớm xuất hiện!
+Coming soon!
