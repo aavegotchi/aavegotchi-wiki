@@ -27,6 +27,8 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
 <li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aave</a></li>
+<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
 <li><a href=#okex-wearables>OKex Wearables</a></li>
 </ol>
 
@@ -86,6 +88,12 @@ table_aagentWearablesTable
 Pictures for the Wizard Wearables Set coming soon!
 
 table_wizardWearablesTable
+
+## Farmer Wearables Set
+
+Pictures for the Farmer Wearables Set coming soon!
+
+table_farmerWearablesTable
 
 ## OKex Wearables
 
