@@ -243,9 +243,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "94", "Sweatband", "Uncommon", "NRG +2", "500"],
-					["", "95", "Track Shorts", "Uncommon", "NRG +1, BRN -1", "500"],
-					["", "96", "Water bottle", "Uncommon", "NRG +2", "500"]
+				    [`<img src="/wearables/final wearables/94_RunnerSweatband.svg" alt = "aavegotchi Sweatband"/>`, "94", "Sweatband", "Uncommon", "NRG +2", "500"],
+					[`<img src="/wearables/final wearables/95_RunnerShorts.svg" alt = "aavegotchi Track Shorts"/>`, "95", "Track Shorts", "Uncommon", "NRG +1, BRN -1", "500"],
+					[`<img src="/wearables/final wearables/96_WaterBottle.svg" alt = "aavegotchi Water Bottle"/>`, "96", "Water bottle", "Uncommon", "NRG +2", "500"]
 				]
 			}
 		},
