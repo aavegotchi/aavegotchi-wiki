@@ -189,10 +189,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "80", "Sushi Bandana", "Rare", "NRG -1, AGG +2", "250"],
-					["", "81", "Sushi Coat", "Rare", "NRG -2, AGG +1", "250"],
-					["", "82", "Sushi Piece", "Legendary", "SPK -4", "125"],
-					["", "83", "Sushi Knife", "Rare", "AGG +3", "250"]
+				    [`<img src="/wearables/final wearables/80_SushiHeadband.svg" alt = "aavegotchi Sushi Bandana"/>`, "80", "Sushi Bandana", "Rare", "NRG -1, AGG +2", "250"],
+					[`<img src="/wearables/final wearables/81_SushiRobe.svg" alt = "aavegotchi Sushi Coat"/>`, "81", "Sushi Coat", "Rare", "NRG -2, AGG +1", "250"],
+					[`<img src="/wearables/final wearables/82_SushiRoll.svg" alt = "aavegotchi Sushi Piece"/>`, "82", "Sushi Piece", "Legendary", "SPK -4", "125"],
+					[`<img src="/wearables/final wearables/83_SushiKnife.svg" alt = "aavegotchi Sushi Knife"/>`, "83", "Sushi Knife", "Rare", "AGG +3", "250"]
 				]
 			}
 		},
