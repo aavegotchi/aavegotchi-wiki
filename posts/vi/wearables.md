@@ -32,8 +32,9 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#santa-wearables-set>Bộ Trang Phục Chủ Đề Santa</a></li>
 <li><a href=#okex-wearables>Trang Phục Chủ Đề OKex</a></li>
 <li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
-<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
-<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
+<li><a href=#sushi-wearables-set>Bộ Trang Phục Chủ Đề Sushi</a></li>
+<li><a href=#gentleman-wearables-set>Bộ Trang Phục Chủ Đề Gentleman</a></li>
+<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
 </ol>
 
 </div>
@@ -115,13 +116,17 @@ table_okexWearablesTable
 
 table_skaterWearablesTable
 
-## Sushi Wearables Set
+## Bộ Trang Phục Chủ Đề Sushi
 
 table_sushiWearablesTable
 
-## Gentleman Wearables Set
+## Bộ Trang Phục Chủ Đề Gentleman
 
 table_gentlemanWearablesTable
+
+## Miner Wearables Set
+
+table_minerWearablesTable
 
 # Wearables Có Trong Shop
 
