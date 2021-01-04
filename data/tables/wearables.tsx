@@ -319,7 +319,7 @@ export const tables
 		
 		{
             tableName: "vacationWearablesTable",
-            tableCaption: "Hazmat Set Wearables",
+            tableCaption: "Vacation Set Wearables",
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
@@ -327,6 +327,22 @@ export const tables
 					["", "115", "Blue Hawaiian Shirt", "Legendary", "NRG -2, AGG -2", "125"],
 					["", "116", "Coconut", "Rare", "SPK -3", "250"],
 					["", "117", "Cool shades", "Common", "BRN -1", "1000"]
+				]
+			}
+		},
+		
+		{
+            tableName: "independentDrinksTable",
+            tableCaption: "Independent Drink Items",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "118", "Water Jug", "Legendary", "NRG +2, BRN +2", "125"],
+					["", "119", "Baby Bottle", "Legendary", "AGG -1, SPK -3", "125"],
+					["", "120", "Martini", "Legendary", "NRG -1, BRN -3", "125"],
+					["", "121", "Wine", "Rare", "BRN -3", "250"],
+					["", "122", "Milkshake", "Mythical", "SPK -5", "50"],
+					["", "123", "Apple Juice", "Uncommon", "SPK -2", "500"]
 				]
 			}
 		},
