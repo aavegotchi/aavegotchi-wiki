@@ -264,6 +264,19 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "witchyWearablesTable",
+            tableCaption: "Witchy Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "101", "Witchy Hat", "Legendary", "AGG +1, SPK +3", "125"],
+					["", "102", "Witchy Cloak", "Legendary", "AGG +1, SPK +3", "125"],
+					["", "103", "Witchy Wand", "Mythical", "AGG +2, SPK +2, BRN +1", "50"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
