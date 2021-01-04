@@ -8,7 +8,7 @@ contributors:
 ---
 
 ## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Được thông báo vào ngày 2 Tháng Giêng 2020.
+* Những điều bạn cần biết về sự kiện Rarity Farming sắp tới đây! Được thông báo vào ngày 2 Tháng Giêng 2020.
 
 ## [aUNI và aYFI đã được chọn để trở thành tài sản thế chấp trong Aavegotchi](https://twitter.com/aavegotchi/status/1345026523263238145)
 * Quyền lực của của người dùng đã được thể hiện! Vào ngày 1 Tháng Một năm 2021, đã số người dùng đã bình chọn để aUNI và aYFI trở thành Aavegotchi collaterals (tài sản thế chấp) tiếp theo!
