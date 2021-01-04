@@ -256,10 +256,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "97", "Pillbox Hat", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
-					["", "98", "Day Dress", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
-					["", "99", "Parasol", "Mythical", "NRG +1, AGG -1, SPK -3", "50"],
-					["", "100", "Clutch", "Legendary", "NRG +1, AGG -1, SPK -2", "125"]
+				    [`<img src="/wearables/final wearables/97_PillboxHat.svg" alt = "aavegotchi Pillbox Hat"/>`, "97", "Pillbox Hat", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
+					[`<img src="/wearables/final wearables/98_LadySkirt.svg" alt = "aavegotchi Day Dress"/>`, "98", "Day Dress", "Legendary", "NRG +1, AGG -1, SPK -2", "125"],
+					[`<img src="/wearables/final wearables/99_LadyParasol.svg" alt = "aavegotchi Parasol"/>`, "99", "Parasol", "Mythical", "NRG +1, AGG -1, SPK -3", "50"],
+					[`<img src="/wearables/final wearables/100_LadyClutch.svg" alt = "aavegotchi Clutch"/>`, "100", "Clutch", "Legendary", "NRG +1, AGG -1, SPK -2", "125"]
 				]
 			}
 		},
