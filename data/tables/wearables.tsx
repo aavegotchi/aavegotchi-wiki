@@ -270,9 +270,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "101", "Witchy Hat", "Legendary", "AGG +1, SPK +3", "125"],
-					["", "102", "Witchy Cloak", "Legendary", "AGG +1, SPK +3", "125"],
-					["", "103", "Witchy Wand", "Mythical", "AGG +2, SPK +2, BRN +1", "50"]
+				    [`<img src="/wearables/final wearables/101_WitchHat.svg" alt = "aavegotchi Witchy Hat"/>`, "101", "Witchy Hat", "Legendary", "AGG +1, SPK +3", "125"],
+					[`<img src="/wearables/final wearables/102_WitchCapeFull.svg" alt = "aavegotchi Witchy Cloak"/>`, "102", "Witchy Cloak", "Legendary", "AGG +1, SPK +3", "125"],
+					[`<img src="/wearables/final wearables/103_WitchWand.svg" alt = "aavegotchi Witchy Wand"/>`, "103", "Witchy Wand", "Mythical", "AGG +2, SPK +2, BRN +1", "50"]
 				]
 			}
 		},
