@@ -128,6 +128,20 @@ export const tables
 					["", "66", "Wizard Visor", "Common", "NRG +1", "1000"]
 				]
 			}
+		},
+		
+		{
+            tableName: "farmerWearablesTable",
+            tableCaption: "Farmer Set Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                data: [
+				    ["", "67", "Straw Hat", "Common", "NRG -1", "1000"],
+				    ["", "68", "Farmer Jeans", "Common", "BRN -1", "1000"],					
+				    ["", "69", "Pitchfork", "Common", "AGG +1", "1000"],		
+				    ["", "70", "Handsaw ", "Mythical", "AGG +3, BRN -2", "50"]
+				]
+			}
 		},		
 		
 

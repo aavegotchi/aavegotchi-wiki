@@ -29,6 +29,8 @@ This page contains detailed information about every wearable that has been confi
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
 <li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
+<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
 <li><a href=#okex-wearables>OKex Wearables</a></li>
 </ol>
 
@@ -88,6 +90,12 @@ table_aagentWearablesTable
 Pictures for the Wizard Wearables Set coming soon!
 
 table_wizardWearablesTable
+
+## Farmer Wearables Set
+
+Pictures for the Farmer Wearables Set coming soon!
+
+table_farmerWearablesTable
 
 ## OKex Wearables
 
