@@ -135,7 +135,7 @@ Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách n
 
 **33%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
-Con số cao chót vót này bắt nguồn từ việc GHST là một token với lượng cung có động lực. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. Đó là vấn đề của những token có lượng cung giới hạn.
+Con số cao chót vót này bắt nguồn từ việc GHST là một token với lượng cung có động lực. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. That's a problem for tokens with a fixed supply.
 
 Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
