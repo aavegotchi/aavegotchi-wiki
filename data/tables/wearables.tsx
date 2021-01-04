@@ -176,9 +176,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "77", "Bitcoin Beanie", "Uncommon", "NRG +1, BRN -1", "500"],
-					["", "78", "Black Jeans", "Uncommon", "AGG +1, BRN -1", "500"],
-					["", "79", "Skateboard", "Rare", "NRG +1, BRN -2", "250"]
+				    [`<img src="/wearables/final wearables/77_BitcoinBeanie.svg" alt = "aavegotchi Bitcoin Beanie"/>`, "77", "Bitcoin Beanie", "Uncommon", "NRG +1, BRN -1", "500"],
+					[`<img src="/wearables/final wearables/78_SkaterJeans.svg" alt = "aavegotchi Black Jeans"/>`, "78", "Black Jeans", "Uncommon", "AGG +1, BRN -1", "500"],
+					[`<img src="/wearables/final wearables/79_Skateboard.svg" alt = "aavegotchi Skateboard"/>`, "79", "Skateboard", "Rare", "NRG +1, BRN -2", "250"]
 				]
 			}
 		},
