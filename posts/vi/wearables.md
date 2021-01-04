@@ -37,6 +37,7 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#miner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
 <li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
 <li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
+<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
 </ol>
 
 </div>
@@ -140,3 +141,7 @@ table_pajamasWearablesTable
 ## Runner Wearables Set
 
 table_runnerWearablesTable
+
+## Lady Wearables Set
+
+table_ladyWearablesTable
