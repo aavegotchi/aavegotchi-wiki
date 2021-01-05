@@ -46,7 +46,7 @@ Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏ
 Bao gồm:
 
 * Mua [portals](https://wiki.aavegotchi.com/portals) để triệu hồi Aavegotchis
-* Mua [portals](https://wiki.aavegotchi.com/wearables) để triệu hồi Aavegotchis
+* Mua [wearables](https://wiki.aavegotchi.com/wearables) để triệu hồi Aavegotchis
 * Mua [gói REALM](https://wiki.aavegotchi.com/metaverse) (và nhiều thông tin hơn về sẽ được thông báo)
 * [Stake GHST](https://wiki.aavegotchi.com/en/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
@@ -55,7 +55,7 @@ Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua
 
 Bạn có thể mua thẳng từ [curve](https://aavegotchi.com/curve) (dù cách này đòi hỏi bạn phải KYC, mà xui cái là người dùng từ Mỹ và Trung Quốc sẽ không được tham gia); hoặc mua từ [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - một vài DEX ví dụ như Uniswap và Matcha, cùng các CEX như OKex và Binance, hiện đang niêm yết GHST.
 
-Hãy đảm bảo rằng bạn đang dùng đúng địa chỉ token nhé: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Xin hãy xác nhận liên kết này với những người thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
+Hãy đảm bảo rằng bạn đang dùng đúng địa chỉ token nhé: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
 
 ## Kiếm GHST
 Không phải ai cũng là whale, và cũng không sao - vẫn còn nhiều điều bất ngờ trong vùng biến DeFi.
