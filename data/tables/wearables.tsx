@@ -310,9 +310,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "111", "Hazmat Hood", "Legendary", "NRG +1, AGG -1, SPK +2", "125"],
-					["", "112", "Hazmat Suit", "Legendary", "NRG +2, AGG -1, SPK +1", "125"],
-					["", "113", "Uranium Rod", "Godlike", "NRG +6", "3"]
+				    [`<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`, "111", "Hazmat Hood", "Legendary", "NRG +1, AGG -1, SPK +2", "125"],
+					[`<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`, "112", "Hazmat Suit", "Legendary", "NRG +2, AGG -1, SPK +1", "125"],
+					[`<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`, "113", "Uranium Rod", "Godlike", "NRG +6", "3"]
 				]
 			}
 		},
