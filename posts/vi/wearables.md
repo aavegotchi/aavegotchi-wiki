@@ -27,18 +27,18 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
 <li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aave</a></li>
-<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
-<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
-<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
-<li><a href=#okex-wearables>OKex Wearables</a></li>
+<li><a href=#wizard-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Nông Dân</a></li>
+<li><a href=#santa-wearables-set>Bộ Trang Phục Chủ Đề Santa</a></li>
+<li><a href=#okex-wearables>Trang Phục Chủ Đề OKex</a></li>
 <li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
 <li><a href=#sushi-wearables-set>Bộ Trang Phục Chủ Đề Sushi</a></li>
 <li><a href=#gentleman-wearables-set>Bộ Trang Phục Chủ Đề Gentleman</a></li>
 <li><a href=#miner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
-<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
-<li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
-<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
-<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Bộ Trang Phục Chủ Đề Jajamas</a></li>
+<li><a href=#runner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
+<li><a href=#lady-wearables-set>Bộ Trang Phục Chủ Đề Lady</a></li>
+<li><a href=#witchy-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
 <li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
 <li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
 <li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
@@ -94,25 +94,25 @@ Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được 
 
 table_aagentWearablesTable
 
-## Wizard Wearables Set
+## Bộ Trang Phục Chủ Đề Phù Thuỷ
 
 Pictures for the Wizard Wearables Set coming soon!
 
 table_wizardWearablesTable
 
-## Farmer Wearables Set
+## Farmer Wearables Nông Dân
 
 Pictures for the Farmer Wearables Set coming soon!
 
 table_farmerWearablesTable
 
-## Santa Wearables Set
+## Bộ Trang Phục Chủ Đề Santa
 
 One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
-## OKex Wearables
+## Trang Phục Chủ Đề OKex
 
 On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
@@ -134,19 +134,19 @@ table_gentlemanWearablesTable
 
 table_minerWearablesTable
 
-## Pajamas Wearables Set
+## Bộ Trang Phục Chủ Đề Jajamas
 
 table_pajamasWearablesTable
 
-## Runner Wearables Set
+## Bộ Trang Phục Chủ Đề Miner
 
 table_runnerWearablesTable
 
-## Lady Wearables Set
+## Bộ Trang Phục Chủ Đề Lady
 
 table_ladyWearablesTable
 
-## Witchy Wearables Set
+## Bộ Trang Phục Chủ Đề Phù Thuỷ
 
 table_witchyWearablesTable
 
