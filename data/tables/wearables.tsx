@@ -337,12 +337,12 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "118", "Water Jug", "Legendary", "NRG +2, BRN +2", "125"],
-					["", "119", "Baby Bottle", "Legendary", "AGG -1, SPK -3", "125"],
-					["", "120", "Martini", "Legendary", "NRG -1, BRN -3", "125"],
-					["", "121", "Wine", "Rare", "BRN -3", "250"],
-					["", "122", "Milkshake", "Mythical", "SPK -5", "50"],
-					["", "123", "Apple Juice", "Uncommon", "SPK -2", "500"]
+				    [`<img src="/wearables/final wearables/118_WaterJug.svg" alt = "aavegotchi Water Jug"/>`, "118", "Water Jug", "Legendary", "NRG +2, BRN +2", "125"],
+					[`<img src="/wearables/final wearables/119_BabyBottle.svg" alt = "aavegotchi Baby Bottle"/>`, "119", "Baby Bottle", "Legendary", "AGG -1, SPK -3", "125"],
+					[`<img src="/wearables/final wearables/120_Martini.svg" alt = "aavegotchi Martini"/>`, "120", "Martini", "Legendary", "NRG -1, BRN -3", "125"],
+					[`<img src="/wearables/final wearables/121_WineBottle.svg" alt = "aavegotchi Wine"/>`, "121", "Wine", "Rare", "BRN -3", "250"],
+					[`<img src="/wearables/final wearables/122_Milkshake.svg" alt = "aavegotchi Milkshake"/>`, "122", "Milkshake", "Mythical", "SPK -5", "50"],
+					[`<img src="/wearables/final wearables/123_AppleJuice.svg" alt = "aavegotchi Apple Juice"/>`, "123", "Apple Juice", "Uncommon", "SPK -2", "500"]
 				]
 			}
 		},
