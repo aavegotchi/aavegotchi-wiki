@@ -297,9 +297,9 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "108", "Rasta Hat", "Uncommon", "NRG -1, AGG -1", "500"],
-					["", "109", "Rasta Shirt", "Uncommon", "NRG -1, AGG -1", "500"],
-					["", "110", "Jamaican Flag", "Rare", "NRG -1, AGG -2", "250"]
+				    [`<img src="/wearables/final wearables/108_RastaDreds.svg" alt = "aavegotchi Rasta Hat"/>`, "108", "Rasta Hat", "Uncommon", "NRG -1, AGG -1", "500"],
+					[`<img src="/wearables/final wearables/109_RastaShirtFull.svg" alt = "aavegotchi Rasta Shirt"/>`, "109", "Rasta Shirt", "Uncommon", "NRG -1, AGG -1", "500"],
+					[`<img src="/wearables/final wearables/110_JamaicanFlag.svg" alt = "aavegotchi Jamaican Flag"/>`, "110", "Jamaican Flag", "Rare", "NRG -1, AGG -2", "250"]
 				]
 			}
 		},
