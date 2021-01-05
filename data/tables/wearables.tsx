@@ -323,10 +323,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "114", "Red Hawaiian Shirt", "Mythical", "NRG -3, AGG -2", "50"],
-					["", "115", "Blue Hawaiian Shirt", "Legendary", "NRG -2, AGG -2", "125"],
-					["", "116", "Coconut", "Rare", "SPK -3", "250"],
-					["", "117", "Cool shades", "Common", "BRN -1", "1000"]
+				    [`<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`, "114", "Red Hawaiian Shirt", "Mythical", "NRG -3, AGG -2", "50"],
+					[`<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`, "115", "Blue Hawaiian Shirt", "Legendary", "NRG -2, AGG -2", "125"],
+					[`<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`, "116", "Coconut", "Rare", "SPK -3", "250"],
+					[`<img src="/wearables/final wearables/117_DealWithItShades.svg" alt = "aavegotchi Cool shades"/>`, "117", "Cool shades", "Common", "BRN -1", "1000"]
 				]
 			}
 		},
