@@ -353,7 +353,7 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
                 data: [
-				    ["", "124", "Beer Helmet", "Mythical", "BRN -5", "50"]
+				    [`<img src="/wearables/final wearables/124_BeerHelmet.svg" alt = "aavegotchi Beer Helmet"/>`, "124", "Beer Helmet", "Mythical", "BRN -5", "50"]
 				]
 			}
 		},
