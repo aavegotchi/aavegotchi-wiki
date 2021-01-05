@@ -117,15 +117,15 @@ export const tables
             tableName: "wizardWearablesTable",
             tableCaption: "Wizard Set Wearables",
             tableData: {
-                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "GHST Price", "Quantity"],
                 data: [
-				    [`<img src="/wearables/final wearables/60_WizardHat.svg" alt = "aavegotchi Common Wizard Hat"/>`, "60", "Common Wizard Hat", "Common", "BRN +1", "1000"],
-				    [`<img src="/wearables/final wearables/61_WizardHatLegendary.svg" alt = "aavegotchi Legendary Wizard Hat"/>`, "61", "Legendary Wizard Hat", "Legendary", "SPK +2, BRN +2", "125"],					
-				    [`<img src="/wearables/final wearables/62_WizardHatMythical.svg" alt = "aavegotchi Mythical Wizard Hat"/>`, "62", "Mythical Wizard Hat", "Mythical", "SPK +2, BRN +3", "50"],		
-				    [`<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, "63", "Godlike Wizard Hat", "Godlike", "SPK +2, BRN +4", "3"],		
-				    [`<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, "64", "Common Wizard Staff", "Common", "NRG +1", "1000"],
-					[`<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, "65", "Legendary Wizard Staff", "Legendary", "NRG +2, BRN +2", "125"],
-					[`<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "66", "Wizard Visor", "Common", "NRG +1", "1000"]
+				    [`<img src="/wearables/final wearables/60_WizardHat.svg" alt = "aavegotchi Common Wizard Hat"/>`, "60", "Common Wizard Hat", "Common", "BRN +1", "5", "1000"],
+				    [`<img src="/wearables/final wearables/61_WizardHatLegendary.svg" alt = "aavegotchi Legendary Wizard Hat"/>`, "61", "Legendary Wizard Hat", "Legendary", "SPK +2, BRN +2", "300", "125"],					
+				    [`<img src="/wearables/final wearables/62_WizardHatMythical.svg" alt = "aavegotchi Mythical Wizard Hat"/>`, "62", "Mythical Wizard Hat", "Mythical", "SPK +2, BRN +3", "2000", "50"],		
+				    [`<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, "63", "Godlike Wizard Hat", "Godlike", "SPK +2, BRN +4", "10000", "3"],		
+				    [`<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, "64", "Common Wizard Staff", "Common", "NRG +1", "5", "1000"],
+					[`<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, "65", "Legendary Wizard Staff", "Legendary", "NRG +2, BRN +2", "300", "125"],
+					[`<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "66", "Wizard Visor", "Common", "NRG +1", "5", "1000"]
 				]
 			}
 		},
