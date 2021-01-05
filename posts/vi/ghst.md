@@ -46,7 +46,7 @@ Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏ
 Bao gồm:
 
 * Mua [portals](https://wiki.aavegotchi.com/portals) để triệu hồi Aavegotchis
-* Mua [portals](https://wiki.aavegotchi.com/wearables) để triệu hồi Aavegotchis
+* Mua [wearables](https://wiki.aavegotchi.com/wearables) để triệu hồi Aavegotchis
 * Mua [gói REALM](https://wiki.aavegotchi.com/metaverse) (và nhiều thông tin hơn về sẽ được thông báo)
 * [Stake GHST](https://wiki.aavegotchi.com/en/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
