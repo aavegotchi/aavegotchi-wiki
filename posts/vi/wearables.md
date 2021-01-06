@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Phụ kiện là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
 
 Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi. 
 
