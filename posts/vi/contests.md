@@ -75,6 +75,6 @@ Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Th�
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">Giải 3: Ơn Giời, Aavegotchi trên Testnet Koven Đây Rồi! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">Giải 3: Ơn Giời, Aavegotchi trên Testnet Koven Đây Rồi! [Step-by-Step-guide] tác giả Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>

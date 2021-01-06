@@ -13,7 +13,7 @@ image: "icons/introduction.svg"
 
 아베고치 위키에 온걸 환영해요 친구!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+이 자그마한 위키는 아베고치의 모든 정보가 담긴 핵심 저장소이며, '아카이버(Aarchivers)'라고 불리는 아베고치 커뮤니티 조력자들을 통해 업데이트되고 관리됩니다.
 
 ## 아베고치가 처음이신가요?
 
