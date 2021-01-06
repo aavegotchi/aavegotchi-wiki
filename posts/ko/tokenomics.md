@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+title: '토크노믹스'
+description: '아베고치 GHST 토큰의 토크노믹스'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -10,10 +10,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<p class="headerImageText">언제 GHST가 $5가 될까?</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+토크노믹스? 누가 신경쓸까? 언제 올라가는 거야?
 
 We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
 
