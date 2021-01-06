@@ -15,16 +15,16 @@ contributors:
 
 토크노믹스? 누가 신경쓸까? 언제 올라가는 거야?
 
-우리가 하고 여러분도 같이 해야만 합니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 마지막에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
+우리가 하고 여러분도 같이 해야만 합니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
 
 수익 배분과 토크노믹스에 대해 아베고치는 4가지 목표의 균형을 맞추려고 합니다.
 
 <ul><p style="margin-left: 2.4em"><b><li> 열정적인 플레이어들과 DAO 참여자들에게 보상을 해주는, 이른바 '게임을 하며 수익을 얻는' 건강한 생태계를 만드는 것.</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li> GHST 토큰이 장기적인 가치 생성에 있어 강력한 토대를 갖도록 보장하는 것.</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li> 아베고치 Dao에서 나온 안건들이 자유롭게 집행될 수 있도록 재원을 마련하는 것 </li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>아베고치 개발자들을 위해 지속적으로 재정적인 보상을 제공해주는 것.</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+이제부터 여러분에게 GHST 토큰 배분에 대해 먼저 말씀드리고, 앞서 언급한 목표들이 어떻게 완수될 수 있는지 상세하게 알려드릴 것입니다. 그러니 집중하셔서 읽어주시길 바랍니다 :)
 
 <div class="contentsBox">
 
