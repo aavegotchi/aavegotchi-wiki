@@ -38,7 +38,7 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 ## **Làm thế nào để có thể Farm Rarity?**
 Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farming. Bao gồm:
 
-* **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
+* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
 
 * **Trang bị [wearables](/posts/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
 
