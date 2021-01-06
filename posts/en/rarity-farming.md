@@ -36,7 +36,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 ## **How Do I Rarity Farm?**
 There are several ways you can engage in the rarity farming exercise. These include:
 
-* **Carefully selecting an Aavegotchi with rare traits during the summoning process**
+* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
 
 * **Equipping [wearables](/posts/wearables) to modify the traits of your Aavegotchi**
 
