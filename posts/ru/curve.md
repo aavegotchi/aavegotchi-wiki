@@ -57,12 +57,12 @@ contributors:
 
 **Связующий Вес** (также известный как Коэффициент Резерва) представляет собой фиксированное соотношение (от 0 до 100%) между общей ценностью Непрерывных Токенов (общее предложение × цена единицы) и значением баланса его Резервных Токенов.  Связующий Вес является константой по формуле Bancor, поскольку как баланс Резервного Токена, так и общая стоимость Непрерывного Токена (также известная как рыночная капитализация) колеблются в зависимости от покупок и продаж.
 
-Каждая покупка или продажа Непрерывного токена (GHST) вызывает увеличение или уменьшение Резервных токенов (DAI). Поэтому цена Непрерывного Токена по отношению к его Резервным Токенам должна постоянно пересчитываться для поддержания их Связующего Веса.
+Каждая покупка или продажа Непрерывного Токена (GHST) вызывает увеличение или уменьшение Резервных токенов (DAI). Поэтому цена Непрерывного Токена по отношению к его Резервным Токенам должна постоянно пересчитываться для поддержания их Связующего Веса.
 
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
+Связующий Вес определяет ценовую чувствительность, он указывает, как должна корректироваться цена Непрерывного Токена, чтобы поддерживаться с каждой транзакцией.
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+Более высокое соотношение резервов между балансом Резервного Токена и Непрерывным Токеном приведет к снижению чувствительности цены, а это означает, что каждая покупка и продажа будут иметь менее пропорциональное влияние на движение цены Непрерывного Токена. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
 
 **Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
 
