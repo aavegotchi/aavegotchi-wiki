@@ -39,21 +39,21 @@ contributors:
 
 Изогнутые кривые пользуются алгоритмом ценообразования, чтобы служить в качестве автоматического маркетмейкера и обеспечивать всегда доступный источник ликвидности. Пользователи могут взаимодействовать с кривой, размещая токены в ее резервном пуле. Когда они это делают, изогнутая кривая создает для пользователя соответствующие токены на основе алгоритма ценообразования. Только что выпущенные токены могут иметь определенную полезность и даже торговаться, но всегда могут быть обменены обратно через кривую на токены в ее резервном пуле.
 
-Когда токен приобретается через TBC, каждый последующий покупатель должен будет заплатить более высокую цену за токен, что принесет потенциальную прибыль ранним инвесторам. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
+Когда токен приобретается через TBC, каждый последующий покупатель должен будет заплатить более высокую цену за токен, что принесет потенциальную прибыль ранним инвесторам. Когда все больше людей узнают о проекте, и покупки токенов продолжаются, их стоимость постепенно возрастает по изогнутой кривой. Поэтому ранние инвесторы, которые раньше других находят перспективные проекты и покупают токены через кривую TBC, в будущем, при их продаже, могут получить прибыль.
 
-### Formula
+### ФОРМУЛА
 
-Bonding curves come in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
+Изогнутые кривые бывают разных форм и размеров. Для проекта Aavegotchi команда приняла Формулу Bancor:
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
 
-### Formula Explanation
+### ОБЪЯСНЕНИЕ ФОРМУЛЫ
 
-The **Reserve Token** refers to the token that users stake into the bonding curve.
+**Резервный Токен** относится к токену, который пользователи помещают в изогнутую кривую.
 
-The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
+**Непрерывный Токен** относится к токену, который получают из изогнутой кривой при размещении Резервного Токена.
 
-In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively.
+В случае с Aavegotchi Резервный и Непрерывный Токены — это DAI и GHST соответственно.
 
 The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
 
