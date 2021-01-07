@@ -3,8 +3,8 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
 description: 'All about Aavegotchi Wearables'
-image: "wearables/link/sergey-blue.svg"
-contributors: ["cinnabarhorse"]
+image: "wearables/sergey-blue.png"
+contributors: ["cinnabarhorse","unintelligent-nerd"]
 ---
 
 <div class="headerImageContainer">
