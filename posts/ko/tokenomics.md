@@ -28,22 +28,22 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**목차**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
+<li><a href=#token-distribution>토큰 배분</a></li>
+<li><a href=#revenue-sharing-overview>수익 분배 개요</a></li></p>
 <p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO Governance</a></p>
-<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<p><a href=#dao-governance>DAO 거버넌스</a></p>
+<p><a href=#burn-baby-burn>소각 시스템</a></p>
+<p><a href=#development-team>개발진</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## 토큰 배분
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
+GHST는 3단계에 걸쳐 배분되었습니다. These were the private sale, pre-sale and public bonding curve sale.
 
 
 **The Private Sale**
