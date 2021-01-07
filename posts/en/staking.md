@@ -29,6 +29,7 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 <li><a href=#how-to-stake>How to Stake</a></li>
 <li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
 <li><a href=#entering-raffles>Entering Raffles</a></li>
+<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
 <li><a href=#more-resources>More Resources</a></li>
 </ol>
 
@@ -107,6 +108,9 @@ You can improve your probability of winning by:
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+
+## Past Raffles Statistics
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## More Resources
 
