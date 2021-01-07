@@ -61,7 +61,7 @@ table_cryptocurrencies
 
 Если у вас нет криптоактивов, можно обменять свою фиатную валюту (доллар, евро — то есть обычные деньги) на цифровой актив (как один из вышеперечисленных).
 
-К вашему счастью, Aave недавно представили возможность купить криптовалюту прямо в приложении Aave Protocol! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+К вашему счастью, Aave недавно представили возможность купить криптовалюту прямо в приложении Aave Protocol! Например, Transak или Ramp Instant, где можно купить криптовалюту, заплатив со счета кредитной или дебетовой карты или сделав банковский перевод буквально за считаные минуты (смотрите ниже).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
