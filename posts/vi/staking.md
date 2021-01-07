@@ -31,7 +31,8 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 <li><a href=#how-to-stake>Cách Stake</a></li>
 <li><a href=#purchasing-raffle-tickets>Mua vé Raffle</a></li>
 <li><a href=#entering-raffles>Tham gia Raffle</a></li>
-<li><a href=#more-resources>Thêm nguồn</a></li>
+<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
+<li><a href=#more-resources>More Resources</a></li>
 </ol>
 
 </div>
@@ -109,7 +110,10 @@ Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [ph�
 
 Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
 
-## Thêm nguồn
+## Past Raffles Statistics
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+
+## More Resources
 
 - [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
