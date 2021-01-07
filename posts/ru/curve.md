@@ -55,7 +55,7 @@ contributors:
 
 В случае с Aavegotchi Резервный и Непрерывный Токены — это DAI и GHST соответственно.
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**Связующий Вес** (также известный как Коэффициент Резерва) представляет собой фиксированное соотношение (от 0 до 100%) между общей ценностью Непрерывных Токенов (общее предложение × цена единицы) и значением баланса его Резервных Токенов.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
 
 Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
 
