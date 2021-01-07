@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Bonding Curve'
-description: 'The Aavegotchi Bonding Curve'
+title: 'Изогнутая кривая'
+description: 'Изогнутая кривая Aavegotchi'
 image: "curve/bonding-curve.png"
 contributors:
   - "unintelligent-nerd"
@@ -11,19 +11,19 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/curve/bonding-curve.png">
-<p class="headerImageText">The Bonding Curve</p>
+<p class="headerImageText">Изогнутая кривая</p>
 </div>
 
-A token bonding curve (TBC) is a mathematical curve that defines a relationship between price and token supply.
+Изогнутая Кривая токенов (token bonding curve или TBC) — это математическая кривая, определяющая соотношение между ценой токенов и их предложением.
 
-In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an  Aragon [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico), this article discusses DAICOs as well.
+В стандартной TBC цена токенов увеличивается по мере роста предложения. В стандартной TBC цена токенов увеличивается по мере роста предложения и снижается по мере уменьшения предложения. Поскольку Изогнутая Кривая Aavegotchi была запущена через децентрализованное автономное первоначальное предложение монет (DAICO) на платформе Aragon, в этой статье также обсуждаются DAICO.
 
 <div class="contentsBox">
 
 Содержание:
 
 <ol>
-<li><a href=#mechanics>Mechanics</a></li>
+<li><a href=#mechanics>Механика</a></li>
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Supply Dynamics</a></li>
@@ -33,7 +33,7 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 </div>
 
-## Mechanics
+## Механика
 
 ### Minting / Burning on demand
 
