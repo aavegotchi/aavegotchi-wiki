@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+title: 'Thông Số về Những Sự Kiện Aavegotchi Raffle Đã Kết Thúc'
+description: 'Thông Số Về Sự Kiện Raffle Đã Qua'
 contributors:
   - "unintelligent-nerd"
 ---
 
-How many raffle tickets were submitted in past raffles? How many were there in each category? We have the historical data for past raffles for you here!
+Có bao nhiêu vé raffle đã được đăng ký tham gia trong những sự kiện raffle vừa qua? Có bao nhiêu vé trong mỗi hạng mục? Bọn mình mang đến cho bạn dữ liệu về những đợt raffle đã kết thúc tại đây!
 
 <div class="contentsBox">
 
@@ -28,4 +28,4 @@ table_raffle1
 table_raffle2
 
 ## Raffle 3
-table_raffle3 <iframe src="https://wiki.aavegotchi.com/en/plot.html" mark="crwd-mark"></iframe>
+table_raffle3 <iframe src="../../data/plot.html" mark="crwd-mark"></iframe>
