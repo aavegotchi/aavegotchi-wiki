@@ -82,6 +82,18 @@ Generally speaking, the minimum amount of Spirit Force (collateral) depends on t
 
 The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral. 
 
+The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+
+```
+if (rarityScore < 300) return 10;
+        else if (rarityScore >= 300 && rarityScore < 450) return 10;
+        else if (rarityScore >= 450 && rarityScore <= 525) return 25;
+        else if (rarityScore >= 526 && rarityScore <= 580) return 100;
+        else if (rarityScore >= 581) return 1000;
+```
+
+For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+
 You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
 
