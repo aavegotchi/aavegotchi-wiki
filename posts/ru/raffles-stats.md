@@ -28,4 +28,4 @@ table_raffle1
 table_raffle2
 
 ## Raffle 3
-table_raffle3 <iframe src="https://wiki.aavegotchi.com/en/plot.html" mark="crwd-mark"></iframe>
+table_raffle3
