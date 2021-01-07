@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: '토크노믹스'
-description: '아베고치 GHST 토큰의 토크노믹스'
+title: '토큰 이코노미'
+description: '아베고치 GHST 토큰 이코노미'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -13,11 +13,11 @@ contributors:
 <p class="headerImageText">언제 GHST가 $5가 될까?</p>
 </div>
 
-토크노믹스? 누가 신경쓸까? 언제 올라가는 거야?
+토큰 이코노미? 누가 신경쓸까? 언제 올라가는 거야?
 
 우리가 하고 여러분도 같이 해야만 합니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
 
-수익 배분과 토크노믹스에 대해 아베고치는 4가지 목표의 균형을 맞추려고 합니다.
+수익 배분과 토큰 이코노미에 대해 아베고치는 4가지 목표의 균형을 맞추려고 합니다.
 
 <ul><p style="margin-left: 2.4em"><b><li> 열정적인 플레이어들과 DAO 참여자들에게 보상을 해주는, 이른바 '게임을 하며 수익을 얻는' 건강한 생태계를 만드는 것.</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li> GHST 토큰이 장기적인 가치 생성에 있어 강력한 토대를 갖도록 보장하는 것.</li></b></p></ul>
@@ -28,48 +28,48 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**목차**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
+<li><a href=#token-distribution>토큰 배분</a></li>
+<li><a href=#revenue-sharing-overview>수익 분배 개요</a></li></p>
 <p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO Governance</a></p>
-<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<p><a href=#dao-governance>DAO 거버넌스</a></p>
+<p><a href=#burn-baby-burn>소각 시스템</a></p>
+<p><a href=#development-team>개발진</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## 토큰 배분
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
-
-
-**The Private Sale**
-
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
+GHST는 3단계에 걸쳐 배분되었습니다. 바로 한정판매(Private Sale), 특별 판매(pre-sale), 그리고 bonding curve에 따른 판매입니다.
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+**한정 판매 (The Private Sale)**
+
+규모: 5,000,000 GHST 가격: 0.05 DAI / GHST
 
 
-**The Pre-Sale**
-
-Size: 500,000 GHST Price: 0.1 DAI / GHST
-
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
-
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
-
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
-
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
-
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
+한정 판매는 2020년 8월에 개시되었습니다. KYC인증을 마치고 최소 20k DAI를 가진 누구나 참여할 수 있었습니다. 당시에 유입된 자금들은 아베고치 게임의 성공적인 개발을 도와주는 Pixelcraft Studios에 배당되었습니다.
 
 
-**Public Bonding Curve Sale**
+**특별 판매(pre-sale)**
+
+규모: 500,000 GHST 가격: 0.1DAI / GHST
+
+GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 참여할 수 있었고, 공급량이 소진되기 전까지 판매가 이루어졌습니다. 앞서 공지된 날짜까지 KYC 인증을 마친 Level 6을 달성한 모든 Aagent들은 이때 GHST를 구매할 수 있었습니다.
+
+원활한 판매를 위해 모든 Level 6 Aagent들을 대상으로 snapshot이 이루어졌습니다. 그리고 KYC 인증 완료 대상자들과 교차 검증되었습니다. 교차검증 후에는, "Verified Level 6" 배지가 디스코드 상에서 활동하는 사람들 중 적합한 참가자들에게 부여되었습니다. 이들은 특별 판매가 진행되는 링크가 담긴 디스코드 채널에 추가되었습니다.
+
+여기서 조성된 자금들은 100%의 예비율 (reserve ratio) 로 토큰 Bonding Curve 예치풀에 유동성을 부트스트랩 (bootstrap) 하도록 사용되었습니다.
+
+한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년간 채굴된 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
+
+이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
+
+
+**모두를 위한 Bonding Curve 판매**
 
 As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
 

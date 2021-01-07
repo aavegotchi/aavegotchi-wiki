@@ -31,7 +31,8 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 <li><a href=#how-to-stake>Cách Stake</a></li>
 <li><a href=#purchasing-raffle-tickets>Mua vé Raffle</a></li>
 <li><a href=#entering-raffles>Tham gia Raffle</a></li>
-<li><a href=#more-resources>Thêm nguồn</a></li>
+<li><a href=#past-raffles-statistics>Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ</a></li>
+<li><a href=#more-resources>More Resources</a></li>
 </ol>
 
 </div>
@@ -78,7 +79,7 @@ Tại sao lại có sự khác biệt lớn với số lượng FRENS kiếm đ�
 
 Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/bulk-buy) để mua vé raffle với FRENS.
 
-Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. They can also be bought/sold on [marketplaces](/marketplace).
+Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Chúng có thể được mua/bán trên [marketplaces](/marketplace).
 
 Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất):
 
@@ -108,6 +109,9 @@ Bạn có thể cải thiện khả năng thắng giải bằng cách:
 Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
 
 Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
+
+## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
+Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
 
 ## Thêm nguồn
 
