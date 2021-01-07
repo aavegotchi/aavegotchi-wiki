@@ -32,7 +32,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 &nbsp;
 
-<a href="https://discord.com/invite/NPwnWB6" target = "_blank"><img src="/socialmedia/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a>
+<a href="https://discord.com/invite/NPwnWB6" target = "_blank"><img src="/socialmedia/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Присоединяйтесь к нам в Discord**</a>
 
 <p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>6,000+ members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
  fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
