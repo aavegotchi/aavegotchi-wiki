@@ -55,9 +55,9 @@ contributors:
 
 В случае с Aavegotchi Резервный и Непрерывный Токены — это DAI и GHST соответственно.
 
-**Связующий Вес** (также известный как Коэффициент Резерва) представляет собой фиксированное соотношение (от 0 до 100%) между общей ценностью Непрерывных Токенов (общее предложение × цена единицы) и значением баланса его Резервных Токенов.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**Связующий Вес** (также известный как Коэффициент Резерва) представляет собой фиксированное соотношение (от 0 до 100%) между общей ценностью Непрерывных Токенов (общее предложение × цена единицы) и значением баланса его Резервных Токенов.  Связующий Вес является константой по формуле Bancor, поскольку как баланс Резервного Токена, так и общая стоимость Непрерывного Токена (также известная как рыночная капитализация) колеблются в зависимости от покупок и продаж.
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+Каждая покупка или продажа Непрерывного токена (GHST) вызывает увеличение или уменьшение Резервных токенов (DAI). Поэтому цена Непрерывного Токена по отношению к его Резервным Токенам должна постоянно пересчитываться для поддержания их Связующего Веса.
 
 
 The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
