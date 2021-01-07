@@ -28,3 +28,5 @@ table_raffle2
 
 ## Raffle 3
 table_raffle3
+
+<iframe src="https://wiki.aavegotchi.com/en/plot.html"></iframe>
