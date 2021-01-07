@@ -43,26 +43,26 @@ contributors:
 
 ## 토큰 배분
 
-GHST는 3단계에 걸쳐 배분되었습니다. These were the private sale, pre-sale and public bonding curve sale.
+GHST는 3단계에 걸쳐 배분되었습니다. 바로 한정판매(Private Sale), 특별 판매(pre-sale), 그리고 bonding curve에 따른 판매입니다.
 
 
-**The Private Sale**
+**한정 판매 (The Private Sale)**
 
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
-
-
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+규모: 5,000,000 GHST 가격: 0.05 DAI / GHST
 
 
-**The Pre-Sale**
+한정 판매는 2020년 8월에 개시되었습니다. KYC인증을 마치고 최소 20k DAI를 가진 누구나 참여할 수 있었습니다. 당시에 유입된 자금들은 아베고치 게임의 성공적인 개발을 도와주는 Pixelcraft Studios에 배당되었습니다.
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+**특별 판매(pre-sale)**
 
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+규모: 500,000 GHST 가격: 0.1DAI / GHST
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 참여할 수 있었고, 공급량이 소진되기 전까지 판매가 이루어졌습니다. 앞서 공지된 날짜까지 KYC 인증을 마친 Level 6을 달성한 모든 Aagent들은 이때 GHST를 구매할 수 있었습니다.
+
+원활한 판매를 위해 모든 Level 6 Aagent들을 대상으로 snapshot이 이루어졌습니다. 그리고 KYC 인증 완료 대상자들과 교차 검증되었습니다. 교차검증 후에는, "Verified Level 6" 배지가 디스코드 상에서 활동하는 사람들 중 적합한 참가자들에게 부여되었습니다. 이들은 특별 판매가 진행되는 링크가 담긴 디스코드 채널에 추가되었습니다.
+
+여기서 조성된 자금들은 100%의 예비율 (reserve ratio) 로 토큰 Bonding Curve 예치풀에 유동성을 부트스트랩 (bootstrap) 하도록 사용되었습니다.
 
 Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
 
