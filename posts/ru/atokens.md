@@ -45,7 +45,7 @@ https://docs.google.com/document/d/1_XiHsecyhwCGXjKeCclPpRIPQTjC6wrL5FAwewojw0g/
 
 ## Криптовалюты
 
-table_cryptocurrencies
+таблица_криптовалюты
 
 ## Получение aTokens
 
