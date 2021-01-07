@@ -3,9 +3,10 @@ author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
 description: 'Tất tần tật về Wearables trong Aavegotchi'
-image: "wearables/link/sergey-blue.svg"
+image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
