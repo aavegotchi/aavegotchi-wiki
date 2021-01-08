@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+description: 'Einführung ins Aavegotchi Wiki'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with interest-generating [aTokens](/atokens) and interact with the Aavegotchi [metaverse](/metaverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi** ist ein DeFi-basiertes Krypto-Sammelspiel, das von Pixelcraft Studios mit Sitz in Singapur entwickelt wurde. Es erlaubt Spielern, Charaktere in Form von [nicht fungiblen Tokens (NFTs)](/glossary#non-fungible-token) durch zinstragende [aTokens](/atokens) zum Leben zu erwecken und mit dem Aavegotchi [Metaverse](/metaverse) zu interagieren. Es ist eine einzigartige Kombination aus [Decentralized Finance (DeFi)](/glossary#defi-101) und NFTs.
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Aavegotchis sind pixelförmige Geister, die gestützt auf dem [**ERC-721**](/glossary#erc-721) Standard auf der Ethereum-Blockchain leben. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
 
 To level up their Aavegotchis, players can participate in a variety of activities including mini-games, governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
 
