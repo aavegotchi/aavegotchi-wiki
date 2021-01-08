@@ -17,6 +17,8 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
+In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+
 <div class="contentsBox">
 
 **内容**
