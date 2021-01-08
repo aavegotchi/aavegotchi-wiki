@@ -7,6 +7,13 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
+* The community voted and made the decision to launch on Matic Network at a later date
+* Aagent missions have finally concluded!
+* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
+* Aavegotchi looking for Aambassadors!
+
 ## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
 * What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
 
