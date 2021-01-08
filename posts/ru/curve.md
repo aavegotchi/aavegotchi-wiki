@@ -75,10 +75,10 @@ contributors:
 
 Вам нужно будет пройти KYC, чтобы покупать/продавать токены через кривую. Чуваки, соблюдение требований важно, ведь мы живем в обществе и не хотим, чтобы правительство препятствовало проекту. Покупки с помощью кривой производится в DAI. Это работает так же и в обратную сторону, вы можете продать свой GHST на рынок за DAI, но зачем вам это делать? :( :( :(
 
-If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
+Если вы не можете пройти KYC из-за своего гражданства, не волнуйтесь! **Вы по-прежнему сможете взаимодействовать с любой другой частью метавселенной Aavegotchi**.  Вам просто нужно приобрести GHST на DEX, например Uniswap или Balancer, или на CEX, например OKex. Узнайте, как получить токены GHST [здесь](/ghst#get-ghst).
 
 ## Aavegotchi DAICO
-A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Децентрализованное автономное первоначальное предложение монет (DAICO) — это новый метод сбора средств, который направлен на объединение лучших характеристик децентрализованной автономной организации (DAO) с функциями первоначального предложения монет (ICO). DAICO — это модель, согласно которой инвесторы имеют контроль над собранными средствами после завершения их сбора. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
 
 The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
 
