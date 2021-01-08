@@ -45,10 +45,11 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
 <p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#nft>NFT</a></p>
+<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 </ol>
 
 </div>
@@ -168,30 +169,33 @@ Việc này có thể làm được bằng nhiều cách khác nhau, những cơ
 ### Bell Curve
 Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
+### ERC-20
+A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+
 ### ERC-721
-Một tiểu chuẩn mở, miễn phí miêu tả cách mà những token không thể thay thế hoặc độc nhất trên blockchain của Ethereum. Trong khi đã số các token đề có nhiều phiên bản khác nhau (mỗi token đề tương tự như những token khác) thì các ERC-721 đều là độc nhất.
+A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
-Hãy xem chúng như những món đồ sưu tập hiếm có, và độc nhất.
+Think of them like rare, one-of-a-kind collectables.
 
-Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-721, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-721).
+For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 là một bản mở rộng của tiêu chuẩn [ERC-721](/glossary#erc-721) và nó cho [token non-fungible](/glossary#nft) khả năng để có thể sở hữu những token non-fungible và token ERC-20 khác.
+ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
 
-Token Non-fungible theo chuẩn ERC998 cũng được trang bị chuẩn ERC-721.
+Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
-Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-998).
+For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
 ### Metaverse
 
-Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
-### NFT
+### Non-Fungible Token
 
-NFT là viết tắt của từ Non-Fungible Token. Loại token này là **độc nhất**, nghĩa là nó không thể bị swap thành bất kỳ token cùng loại nào khác. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 

@@ -20,10 +20,11 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game.
 
 ## Popular Pages
-* [Gameplay](https://wiki.aavegotchi.com/gameplay) -- Introduction to the Aavegotchi game
-* [GHST](https://wiki.aavegotchi.com/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](https://wiki.aavegotchi.com/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](https://wiki.aavegotchi.com/dao) -- Everything there is to know about AavegotchiDAO
+* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## Other Useful Pages
 
