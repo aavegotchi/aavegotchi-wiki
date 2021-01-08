@@ -20,7 +20,7 @@ Aavegotchis sind pixelförmige Geister, die auf der Ethereum-Blockchain leben - 
 
 Um ihre Aavegotchis hochzuleveln, können Spieler an einer Vielzahl von Aktivitäten teilnehmen, darunter Minispiele, Governance und Meetups. Aavegotchis können ihre Seltenheitsstufe auch verbessern, indem sie Kleidungsstücke ausrüsten oder auf ein höheres Level aufsteigen.
 
-Seltene Aavegotchis haben nicht nur einen höheren Wert auf sekundären [Marktplätzen](/marketplace), es ermöglicht ihnen auch eine bessere Performance im [Rarity Farming](/rarity-farming) – ein Minispiel, das die seltensten Aavegotchis mit GHST Tokens belohnt.
+Seltene Aavegotchis haben nicht nur einen höheren Wert auf sekundären [Marktplätzen](/marketplace), es ermöglicht ihnen auch eine bessere Leistung im [Rarity Farming](/rarity-farming) – ein Minispiel, das die seltensten Aavegotchis mit GHST Tokens belohnt.
 
 Aavegotchi wird vom [AavegotchiDAO](/dao) geleitet, das auch alle finanziellen Mittel verwaltet, die durch die Distribution von [GHST Tokens](/ghst) generiert werden.
 
@@ -39,12 +39,12 @@ Aavegotchi wird vom [AavegotchiDAO](/dao) geleitet, das auch alle finanziellen M
 ## Über Aavegotchis
 Aavegotchis sind seltene Krypto-Sammelobjekte, die auf der Ethereum-Blockchain leben. Sie basieren auf dem ERC-721 Standard, der für beliebte Blockchain-Spiele wie CryptoKitties, Axie Infinity und Cryptovoxels verwendet wird. Aavegotchis besitzen drei Attribute, die ihren Gesamtwert und ihre Seltenheit innerhalb des Aavegotchi-Universums beeinflussen: **Hinterlegte Sicherheiten, Eigenschaften und Kleidungsstücke.**
 
-*  **Hinterlegte Sicherheiten:** Jeder Aavegotchi NFT verwaltet eine Escrow-Adresse, die eine Aave-basierte Sicherheit in Form von „aTokens“ (einem ERC-20) enthält. [aTokens](/atokens) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+*  **Hinterlegte Sicherheiten:** Jeder Aavegotchi NFT verwaltet eine Escrow-Adresse, die eine Aave-basierte Sicherheit in Form von „aTokens“ (einem ERC-20) enthält. [aTokens](/atokens) generieren eine Rendite über den Lending-Pool von Aave, der die Menge an aTokens im Wallet erhöht. So steigt im Laufe der Zeit die Anzahl aTokens, die in der Escrow-Adresse des Aavegotchis aufbewahrt werden.
 
 
-*  **Traits:** Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. **See [Traits](/traits).**
+*  **Eigenschaften:** Aavegotchis besitzen mehrere Eigenschaften, die ihre Seltenheit, ihre Leistung in Minispielen und die ausrüstbaren Kleidungsstücke beeinflussen. Einige werden bei ihrer Geburt zufällig generiert und andere hängen von Interaktionen mit dem Aavegotchi ab. Siehe [Eigenschaften](/traits).
 
-    * **Random Traits**: Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical depending on its rarity.
+    * **Zufällige Eigenschaften**: Jedem Aavegotchi werden mit Hilfe des ChainLink VRF Zufallsgenerators mehrere zufällige Eigenschaftswerte zugewiesen. Die Merkmalswerte sind auf einer Glockenkurve verteilt, wobei jedem Merkmal je nach Seltenheit ein Wert von Gewöhnlich, Ungewöhnlich, Selten oder Mythisch zugewiesen wird.
 
     *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
 
