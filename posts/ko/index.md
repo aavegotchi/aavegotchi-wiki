@@ -20,10 +20,11 @@ image: "icons/introduction.svg"
 아베고치 게임에 대한 전체적인 개요는 [인트로](https://wiki.aavegotchi.com/introduction)페이지에서 찾아보실 수 있습니다.
 
 ## 인기 페이지들
-* [게임플레이](https://wiki.aavegotchi.com/gameplay) -- 아베고치 게임 소개
-* [GHST](https://wiki.aavegotchi.com/ghst) -- 아베고치 생태계의 가버넌스 토큰에 대해 알아보기
-* [스테이킹](https://wiki.aavegotchi.com/staking) -- FRENS 포인트를 얻기 위한 GHST 스테이킹 알아보기
-* [DAO](https://wiki.aavegotchi.com/dao) -- 아베고치DAO에 대해 알아야 할 모든 것
+* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## 다른 유용한 페이지들
 

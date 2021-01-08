@@ -80,20 +80,32 @@ Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ
 
 Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
 
-Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
+The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+
+```
+if (rarityScore < 300) return 10;
+        else if (rarityScore >= 300 && rarityScore < 450) return 10;
+        else if (rarityScore >= 450 && rarityScore <= 525) return 25;
+        else if (rarityScore >= 526 && rarityScore <= 580) return 100;
+        else if (rarityScore >= 581) return 1000;
+```
+
+For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+
+You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
-Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
-Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong Aavegotchi, thì có hai cách:
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **Giảm lượng tài sản ký gửi** trong Aavegotchi (nhưng không được dưới mức stake tối thiểu).
 
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
-**Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
 
 
 
