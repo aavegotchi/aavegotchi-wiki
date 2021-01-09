@@ -63,9 +63,9 @@ Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
 
 ## Nhận Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng Spirit Force được yêu cầu ([ các aToken](/atokens)) vào trong Portal. AToken có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
+Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
 
 **Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
 
@@ -73,7 +73,7 @@ Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ
 
 Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
 
-The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+Công thức sau dùng để suy ra lượng Spirit Force (collateral) cần có như sau:
 
 ```
 if (rarityScore < 300) return 10;
@@ -83,11 +83,11 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+Ví dụ, nếu Base Rarity Score thấp hơn, 300 thì bạn cần phải stake một lượng token có giá trị ít nhất 10 DAI để triệu hồi Gotchi.
 
 Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. Đầu tiên, bạn cần phải cho phép hợp đồng thông minh dùng aToken trong ví bạn. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
 
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
