@@ -141,13 +141,13 @@ GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적�
 소각 주소로의 GHST 전송을 통해 bonding curve 내에 DAI가 락업되면 GHST의 가격 상승이 발생합니다. 이는 모든 당사자들에게 긍정적으로 작용하게 됩니다. 왜냐하면 구매자와 판매자에겐 더 나은 유동성을 제공함으로써 슬리피지를 감소시킬 수 있고, 유통량을 감소시키며, [DAICO 탭 메커니즘(Tap Mechanism)](/curve#aavegotchi-daico)이 안정적이게끔 하기 때문입니다.
 
 
-## Development Team
+## 개발진
 
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+끝으로, 적어도 가장 확실하게 수익의  **17%** 가 개발진에게 돌아가고 있습니다. 무엇보다도, 개발진들이 팀에서 모두를 위한 최상의 DeFi x NFT 결과물 제작 지원에 집중할 수 있도록 하는 것은 정말 중요합니다.
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+즉 우리 모두 사람이기에 프로토콜 개발자들을 위한 인센티브가 잘 조정되지 않는다면 프로토콜 개발은 실패로 돌아갈 수 밖에 없으며, 이것이야말로 아베고치가 막고자하는 문제입니다.
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+만약 프로토콜 개발자들이 작업에 대한 보상으로 자체 토큰을 독점적으로 받게 된다면, 여러 비용들을 지불하기 위해 토큰을 팔 수 밖에 없을 것이고 이는 판매 압력으로 이어져 토큰의 가치가 회복되지 않는, 일명 잠재적인 '죽음의 소용돌이(spiral of death)' 시나리오에 처할 수 있습니다.
 
 However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
 
