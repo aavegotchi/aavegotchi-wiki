@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'aTokens'
-description: 'All about Aavegotchi aTokens'
+description: 'Alles über Aavegotchi aTokens'
 image: "atokens/aETH.svg"
 contributors:
   - "unintelligent-nerd"
@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">Der aETH aToken</p>
 </div>
 
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
