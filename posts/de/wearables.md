@@ -20,7 +20,7 @@ This page contains detailed information about every wearable that has been confi
 
 <div class="contentsBox">
 
-**Contents**
+**Inhalte**
 
 <ol>
 <li><a href=#key>Key</a></li>
