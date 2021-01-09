@@ -64,7 +64,7 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 여기서 조성된 자금들은 100%의 예비율 (reserve ratio) 로 토큰 Bonding Curve 예치풀에 유동성을 부트스트랩 (bootstrap) 하도록 사용되었습니다.
 
-한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년간 채굴된 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
+한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년에 걸쳐 구매한 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
 
 이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
 
@@ -73,9 +73,9 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 아베고치의 열렬한 팬들은 "Curve는 결코 끝나지 않는다!"라고 말합니다. Curve의 메커니즘에 대해 좀 더 자세히 알고 싶다면, 다음 [Curve(곡선)](/curve). 페이지를 꼭 확인해보세요
 
-이제는 GHST의 공급에 있어 어떠한 시공간적인 제약이 없습니다. 처음엔 가격이 0.2 DAI/ GHST로 형성이 되었으며 Cuve에 의해 변화합니다. There is no lockup in this round either – tokens can be claimed straight away from the curve.
+이제는 GHST의 공급에 있어 어떠한 시공간적인 제약이 없습니다. 처음엔 가격이 0.2 DAI/ GHST로 형성이 되었으며 Cuve에 의해 변화합니다. 이전 판매와 달리 락업이 따로 없습니다. 즉 Curve에 의해 토큰을 구매 후 바로 소유할 수 있게 됩니다.
 
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
+KYC인증을 마치고 아베고치 팀에 의해 검증된 지갑 주소를 가진 누구든지 Curve로부터 바로 GHST를 구매할 수 있습니다.
 
 Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
