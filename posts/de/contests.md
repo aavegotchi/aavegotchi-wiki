@@ -23,58 +23,58 @@ Hey Aavegotchi Fam! Von Zeit zu Zeit werden wir verschiedene Aavegotchi-Wettbewe
 
 ## Sieger des Aavegotchi Meme Wettbewerbs für Mission 8
 
-In der [Aavegotchi Mission 8](/missions) hatten die Agenten die Aufgabe, das beste Meme zu Aavegotchi oder GHST im [Aavegotchi Subreddit](https://www.reddit.com/r/Aavegotchi/) zu erstellen. Upvote deine Favoriten! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+In der [Aavegotchi Mission 8](/missions) haben die Aagenten die Aufgabe, das beste Meme zu Aavegotchi oder GHST im [Aavegotchi Subreddit](https://www.reddit.com/r/Aavegotchi/) zu erstellen. Upvote deine Favoriten! Die Top 3 Memes am 9. Oktober, 20:00 Uhr SGT, erhalten jeweils 300, 200 und 100 GHST.
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1. Platz: Aavegotchi PAC MAN von Zemus</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2. Platz: By Your Powers Combined von Raster Eyes</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3. Platz: Cozy GHST von Moon</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
 ## Halloween Kostümwettbewerb
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+Am Freitag, dem 30. Oktober (16:00 UTC / 12:00 EST / 00:00 SGT), versammelten sich die Geister *wortwörtlich* zu einem Umzug (Wortspiel beabsichtigt :P). Die Agenten konnten ein Aavegotchi verkleiden, das sich später auf der Bühne mit den anderen abwechselte. Die Community hat ihre Favoriten mit Upvotes gewählt.
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">1. Platz: IT von Esveebee</span>
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">2. Platz: Zombie von Flamee</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">3. Platz: Trumpigotchi von PoW Miner</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
 ## Aavegotchi Mission 9 Content-Wettbewerb
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchi-Aagenten haben das Allzeithoch von 1'000 geknackt! Ihr seid nicht länger Aagenten, sondern Mitglieder der schnell wachsenden Gotchi Gang! Für die Mission dieser Woche musst du Aavegotchi weiter shillen! Erstelle einen Beitrag über Aavegotchi (entweder in Text- oder Videoform). Die besten 3 Beiträge in jeder Kategorie (Text und Video), die vom Team ausgewählt werden, erhalten jeweils eine nette GHST Belohnung in Höhe von 300/100/50, sowie die Möglichkeit, weitere Inhalte mit uns zu erstellen.
 
-### Video Category
+### Video-Kategorie
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1. Platz: How to Get Started with Aavegotchi von Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2. Platz: Aavegotchi 2 Minute Guide von DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3. Platz: Anon finds Aavegotchi von Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### Text-Kategorie
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">1. Platz: Aavegotchi: Frenly Farming in the Fall von Appellants</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">2. Platz: Get rich or die playing von Letsgobankless</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">3. Platz: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] von Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
