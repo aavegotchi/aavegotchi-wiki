@@ -16,7 +16,7 @@ contributors:
 
 **Aavegotchi** ist ein DeFi-basiertes Krypto-Sammelspiel, das von Pixelcraft Studios mit Sitz in Singapur entwickelt wurde. Es erlaubt Spielern, Charaktere in Form von [nicht fungiblen Tokens (NFTs)](/glossary#non-fungible-token) durch zinstragende [aTokens](/atokens) zum Leben zu erwecken und mit dem Aavegotchi [Metaverse](/metaverse) zu interagieren. Es ist eine einzigartige Kombination aus [Decentralized Finance (DeFi)](/glossary#defi-101) und NFTs.
 
-Aavegotchis sind pixelförmige Geister, die auf der Ethereum-Blockchain leben - gestützt durch den [ERC-721](/glossary#erc-721) Standard. Der Wert eines Geistes wird durch seine Seltenheit festgelegt, die anhand von mehreren Faktoren berechnet wird. Dazu gehören z.B. Basis-[Eigenschaften](/traits), Menge der hinterlegten Sicherheiten/aTokens, sowie ausgerüstete [Kleidungsstücke](/wearables).
+Aavegotchis sind pixelförmige Geister, die auf der Ethereum-Blockchain leben - gestützt durch den [**ERC-721**](/glossary#erc-721) Standard. Der Wert eines Geistes wird durch seine Seltenheit festgelegt, die anhand von mehreren Faktoren berechnet wird. Dazu gehören z.B. Basis-[Eigenschaften](/traits), Menge der hinterlegten Sicherheiten/aTokens, sowie ausgerüstete [Kleidungsstücke](/wearables).
 
 Um ihre Aavegotchis hochzuleveln, können Spieler an einer Vielzahl von Aktivitäten teilnehmen, darunter Minispiele, Governance und Meetups. Aavegotchis können ihre Seltenheitsstufe auch verbessern, indem sie Kleidungsstücke ausrüsten oder auf ein höheres Level aufsteigen.
 
@@ -42,15 +42,15 @@ Aavegotchis sind seltene Krypto-Sammelobjekte, die auf der Ethereum-Blockchain l
 *  **Hinterlegte Sicherheiten:** Jeder Aavegotchi NFT verwaltet eine Escrow-Adresse, die eine Aave-basierte Sicherheit in Form von „aTokens“ (einem ERC-20) enthält. [aTokens](/atokens) generieren eine Rendite über den Lending-Pool von Aave, der die Menge an aTokens im Wallet erhöht. So steigt im Laufe der Zeit die Anzahl aTokens, die in der Escrow-Adresse des Aavegotchis aufbewahrt werden.
 
 
-*  **Eigenschaften:** Aavegotchis besitzen mehrere Eigenschaften, die ihre Seltenheit, ihre Leistung in Minispielen und die ausrüstbaren Kleidungsstücke beeinflussen. Einige werden bei ihrer Geburt zufällig generiert und andere hängen von Interaktionen mit dem Aavegotchi ab. Siehe [Eigenschaften](/traits).
+*  **Eigenschaften:** Aavegotchis besitzen mehrere Eigenschaften, die ihre Seltenheit, ihre Leistung in Minispielen und die ausrüstbaren Kleidungsstücke beeinflussen. Einige werden bei ihrer Geburt zufällig generiert und andere hängen von Interaktionen mit dem Aavegotchi ab. **Siehe [Eigenschaften](/traits).**
 
     * **Zufällige Eigenschaften**: Jedem Aavegotchi werden mit Hilfe des ChainLink VRF Zufallsgenerators mehrere zufällige Eigenschaftswerte zugewiesen. Die Merkmalswerte sind auf einer Glockenkurve verteilt, wobei jedem Merkmal je nach Seltenheit ein Wert von Gewöhnlich, Ungewöhnlich, Selten oder Mythisch zugewiesen wird.
 
-    *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
+    *  **Verwandtschaft**: "Verwandtschaft" wird nicht zufällig zugewiesen, sondern beginnt mit einem festen Wert (50) bei der Geburt. Er erhöht oder verringert sich aufgrund verschiedener Faktoren, z.B. wie lange das Aavegotchi bei demselben Besitzer ist und wie oft der Besitzer mit ihm interagiert.
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
+    *  **Erfahrung:** Aavegotchis leveln auf, wenn sie mehr Erfahrung sammeln, indem sie im AavegotchiDAO abstimmen und an Minispielen teilnehmen. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann.
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Kleidungsstücke** Neben der Verwaltung des aToken-Escrows können Aavegotchis durch den [ERC998 Composables Standard](/glossary#erc-998) untergeordnete NFTs verwalten, die im Aavegotchi-Ökosystem als Kleidungsstücke (Wearables) bezeichnet werden. Nicht jedes Kleidungsstück kann von jedem Aavegotchi ausgerüstet werden. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
 
 The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
 
