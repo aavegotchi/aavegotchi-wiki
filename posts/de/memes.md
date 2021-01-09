@@ -11,15 +11,15 @@ contributors:
 
 In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote deine Favoriten! The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively.
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1. Platz: Aavegotchi PAC MAN von Zemus</span>
 
 <img class="bodyImage" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi memes" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2. Platz: By Your Powers Combined von Raster Eyes</span>
 
 <img class="bodyImage" src="/memes/byyourpowerscombined.png" alt = "aavegotchi memes" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3. Platz: Cozy GHST von Moon</span>
 
 <img class="bodyImage" src="/memes/CozyGHST.jpg" alt = "aavegotchi memes" />
 
