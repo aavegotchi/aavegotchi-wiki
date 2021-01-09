@@ -77,17 +77,17 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 KYC인증을 마치고 아베고치 팀에 의해 검증된 지갑 주소를 가진 누구든지 Curve로부터 바로 GHST를 구매할 수 있습니다.
 
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 탭 메커니즘(tap mechansim) 을 통해 Pixelcraft Studios가 사용할 수 있습니다. 더 자세한 정보는 [여기](https://fundrasing.aragon.black)에서 확인할 수 있습니다.
 
 
-**Ecosystem Fund**
+**생태계 자금**
 
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+아베고치 생태계에 이용될 자금은 1,000,000 GHST로 조성되어 있으며, 이전의 한정 판매, 특별 판매의 일정에 따라현재 락업되어 있습니다. 락업이 해제된 자금들은 아베고치 DAO V2.0에 의해 만들어진 제안들에 따라 효율적으로 이용될 수 있습니다. 그리고 아베고치에 속하진 않지만 상당한 기여를 한 핵심 멤버들의 개발에 대한 지원, 아베고치 DAO의 홍보, 마케팅 등 아베고치 Dao에 유용할 것이라고 판단되는 합당한 사례들에 이용될 수 있습니다.
 
 
-**Team Fund**
+**경영진 자금**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+경영진 자금은 1,000,000 GHST로 구성되어 있으며, 한정판매 때와 동일한 일정에 따라 현재 락업 상태에 있습니다. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
 
 Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
