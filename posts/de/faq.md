@@ -130,7 +130,7 @@ Nein. Diese Kleidungsstücke werden nur während den Pre-Launch Lotterien heraus
 
 ### Sind Lotterie-Kleidungsstücke etwas Besonderes?
 
-Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  Ob sie auf dem <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">Sekundär-Markt</a> aufgrund ihres **Pre-Launch Status** oder den **Brand-Assoziationen** einen höheren Wiederverkaufswert haben, wird von der Marktnachfrage bestimmt.
 
 ### Kann ich FRENS kaufen?
 Nein. FRENS are a way to reward our community members who staked GHST.
