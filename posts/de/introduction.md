@@ -54,18 +54,18 @@ Aavegotchis sind seltene Krypto-Sammelobjekte, die auf der Ethereum-Blockchain l
 
 Die Beziehung zwischen hinterlegten Sicherheiten, Eigenschaften, Kleidungsstücken und Freundschaft lässt sich am besten durch ein Zwiebel-Diagramm darstellen (siehe unten). Jede Schicht baut auf den vorherigen Schichten auf, wobei die Summe das Aavegotchi selbst ist!
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Zwiebel-Diagramm" />
 
 ## Wert von Aavegotchis
 Die Bewertung eines Aavegotchis ergibt sich sowohl aus seinem inneren Wert als auch aus seinem Seltenheitswert.
 
 * **Innerer Wert** Der innere Wert ist der Gegenwert der hinterlegten Sicherheiten des Aavegotchis. Wenn 10aDAI für das Aavegotchi hinterlegt wurden, dann beträgt der innere Wert 10 aDAI, plus die zusätzlichen aDAI aus dem Lending-Pool. Anfangs sind nur [ERC20](/glossary#erc-20) Token, die es bereits auf der Aave Plattform gibt (aTokens) als Sicherheiten verfügbar. Doch sobald das AavegotchiDAO gestartet ist, kann die Community darüber abstimmen, welche neuen Sicherheiten zugelassen sein sollen.
 
-* **Seltenheitswert** Der Seltenheitswert wird durch die Berechnung der Seltenheit der Eigenschaften und ausgerüsteten Kleidungsstücke jedes Aavegotchis innerhalb des Aavegotchi-Universums bestimmt. Im Gegensatz zu anderen NFT-Spielen ist die Seltenheit in einem Aavegotchi kein fester Wert. Sie kann sich im Laufe der Zeit ändern, wenn Aavegotchis aufleveln und verschiedene Kleidungsstücke ausrüsten. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **Seltenheitswert** Der Seltenheitswert wird durch die Berechnung der Seltenheit der Eigenschaften und ausgerüsteten Kleidungsstücke jedes Aavegotchis innerhalb des Aavegotchi-Universums bestimmt. Im Gegensatz zu anderen NFT-Spielen ist die Seltenheit in einem Aavegotchi kein fester Wert. Sie kann sich im Laufe der Zeit ändern, wenn Aavegotchis aufleveln und verschiedene Kleidungsstücke ausrüsten. So könnte ein seltenes Aavegotchi nach einer Woche "gewöhnlich" werden und umgekehrt, je nach der Gesamtverteilung von Eigenschaften und Kleidungsstücken innerhalb des Aavegotchi-Universums. Dies ermöglicht ein einzigartiges Konzept namens "Rarity Farming", das auf [dieser Seite](/rarity-farming) erklärt wird.
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
+## Das Aavegotchi-Universum
+Das Aavegotchi-Universum umfasst alle Elemente, die das Funktionieren der Aavegotchis ermöglichen:
+* [Portale](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
 * [Aavegotchi Realm](/metaverse)
