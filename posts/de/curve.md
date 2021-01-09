@@ -55,12 +55,12 @@ Der **Continuous Token** bezieht sich auf den Token, den man von der Bonding Cur
 
 Im Fall von Aavegotchi sind die Reserve und Continuous Tokens DAI bzw. GHST.
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+Das **Connecting Weight** (auch bekannt als Reserve Ratio) stellt ein festes Verhältnis (zwischen 0 und 100%) zwischen dem Gesamtwert des Continuous Token (Gesamtangebot × Stückpreis) und dem Wert seiner gesamten Reserve Tokens dar.  Dieses CW ist durch die Bancor-Formel konstant, da sowohl die Anzahl Reserve Tokens als auch der Gesamtwert des Continuous Token (aka. "Marktkapitalisierung") mit Käufen und Verkäufen schwanken.
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+Jeder Kauf oder Verkauf des Continuous Tokens (GHST) löst eine Zunahme oder Abnahme von Reserve Tokens (DAI) aus. Der Preis des Continuous Tokens in Bezug auf seine Reserve Tokens muss dann kontinuierlich neu berechnet werden, um das konfigurierte Connecting Weight / Ratio zwischen ihnen aufrechtzuerhalten.
 
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
+Das Connecting Weight bestimmt, wie stark sich der Preis eines Continuous Tokens anpassen muss, um das Ratio aufrechtzuerhalten. Mit anderen Worten: seine Preissensitivität.
 
 A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
 
