@@ -11,7 +11,7 @@ image: "icons/introduction.svg"
 <p class="headerImageText">Das Aavegotchi Wiki</p>
 </div>
 
-Willkommen im offiziellen Aavegotchi Wiki, Fren!
+Willkommen im offiziellen Aavegotchi Wiki!
 
 Dieses bescheidene Wiki ist der zentrale Wissenspunkt für alles, was mit Aavegotchi zu tun hat. Es wird von unserem grossartigen Team von Mitwirkenden, bekannt als Aarchivers, gepflegt und aktualisiert.
 
