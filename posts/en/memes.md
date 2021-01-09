@@ -14,7 +14,7 @@ In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest 
 
 <img class="bodyImage" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi memes">
 
-### <span style="color:silver">2nd place: By Your Powers Combined</span>
+### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
 
 <img class="bodyImage" src="/memes/byyourpowerscombined.png" alt = "aavegotchi memes">
 
