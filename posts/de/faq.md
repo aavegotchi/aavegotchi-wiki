@@ -120,17 +120,17 @@ Siehe <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-6
 
 ### Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?
 
-Nein! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Nein! Bitte beachte, dass der Kauf von Tickets mit FRENS **nicht automatisch zur Teilnahme an der Lotterie führt**. Du musst deine Tickets innerhalb der 72 Stunden, in denen die Lotterie geöffnet ist, einlösen. Dies beinhaltet zwei Transaktionen - **Freigabe** deiner Tickets, **und die Einlösung** deiner Tickets. Wenn du deine Tickets erfolgreich eingereicht hast, siehst du auf der Stats-Seite die Anzahl der Tickets, die du für die Lotterie eingelöst hast.
 
 
 ### Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?
 
-Nein. The only time these wearables will ever be released is during the pre-launch raffles.
+Nein. Diese Kleidungsstücke werden nur während den Pre-Launch Lotterien herausgegeben.
 
 
 ### Sind Lotterie-Kleidungsstücke etwas Besonderes?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 ### Kann ich FRENS kaufen?
 Nein. FRENS are a way to reward our community members who staked GHST.
