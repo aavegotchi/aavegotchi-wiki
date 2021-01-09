@@ -59,44 +59,42 @@ contributors:
 
 &nbsp;
 
-Die FAQ ist als Schnellübersicht für kurze Antworten auf einfache Fragen gedacht. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
+Die FAQ ist als Schnellübersicht für kurze Antworten auf einfache Fragen gedacht. Für ausführlichere Informationen, schau dir die eingebauten Links oder unsere Seitenleiste für generelle Themen an.
 ## Allgemeines FAQ
 
 
 ### Ich bin neu bei Aavegotchi. Wie kann ich nach dem Start spielen?
 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 4:</b> Stake your aTokens to claim your Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse">metaverse!</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>Schritt 1:</b> Kaufe <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 2:</b> Verwende dein GHST, um ein <a href="https://wiki.aavegotchi.com/en/portals">Portal</a> zu kaufen</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 3:</b> Hinterlege Sicherheiten bei Aave, um <a href="https://wiki.aavegotchi.com/en/atokens">aTokens</a> für das Aavegotchi deiner Wahl zu erhalten</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 4:</b> Verwende deine aTokens, um dein Gotchi zum Leben zu erwecken</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Besuche das <a href="https://wiki.aavegotchi.com/en/metaverse">Metaverse</a>!</li></p></ul>
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay">here.</a>
+Hier findest du eine detaillierte Übersicht zum <a href="https://wiki.aavegotchi.com/en/gameplay">Gameplay</a>.
+
 
 ### Wann kann ich ein Aavegotchi bekommen?
 
-Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aavegotchi.com/metaverse">metaverse</a> will open shortly after (Q1 2021).
+Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das <a href="https://wiki.aavegotchi.com/metaverse">Metaverse</a> wird kurz danach zugänglich werden (Q1 2021).
 
 
 ### Wann wird das Mainnet lanciert?
-Mainnet is currently slated for January 4th, 2021.
+Das Mainnet ist derzeit für den 4. Januar 2021 geplant.
 
 
 
 ### Was kann ich aktuell tun?
 
-Right now, you can:
+Im Moment kannst du:
 
-<ul><p style="margin-left: 2.4em"><li><b>Enter Raffles to Win Wearables:</b> Until mainnet launches, the community is holding a series of <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles</a> where you can stake your GHST to earn FRENS. With FRENS, you can enter 
-any of the remaining raffles for a chance to win unique wearables for your Aavegotchi.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>An Lotterien teilnehmen und Kleidungsstücke gewinnen:</b> Bis zum Start des Mainnets veranstaltet die Community eine Reihe von <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a>, bei denen du deine GHST staken kannst, um FRENS zu generieren. Mit FRENS kannst du an jedem der verbleibenden Gewinnspiele teilnehmen, um mit etwas Glück einzigartige Kleidungsstücke für dein Aavegotchi zu gewinnen.</li></p></ul>
 
-<ul><p style="margin-left: 2.4em"><li><b>Do Missions to Earn Wearables:</b> You can also complete our <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi Missions</a> - which, after you’ve completed them all, will earn you an exclusive Aavegotchi Aagent wearable 
-set.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>Erledige Missionen, um Kleidungsstücke zu verdienen:</b> Du kannst auch unsere <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi-Missionen</a> absolvieren - die dir, nachdem du sie alle abgeschlossen hast, ein exklusives Aavegotchi Aagent Kleidungs-Set bescheren.</li></p></ul>
 
 ### Brauche ich KYC, um Aavegotchi zu spielen oder GHST Tokens zu kaufen?
 
-No! You only need to do KYC if you want to buy GHST directly from the <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> You can purchase GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">on Uniswap</a> without KYC, as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
+Nein! Du musst KYC nur machen, wenn du GHST direkt von der <a href="https://wiki.aavegotchi.com/en/curve">Bonding Curve</a> kaufen willst. Du kannst GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">auf Uniswap</a> ohne KYC kaufen, sowie <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">auf bestimmten Börsen</a>. Dabei ist **kein KYC** erforderlich, um Portale zu kaufen, <a href="https://wiki.aavegotchi.com/en/minigames">Spiele zu spielen</a>, <a href="https://wiki.aavegotchi.com/en/staking">GHST zu staken</a>, oder für irgendeinen anderen Aspekt des Aavegotchi Projekts.
 
 
 
@@ -111,7 +109,7 @@ After making a purchase on the bonding curve, you need to make another transacti
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
+### Ist Front-Running bei der Bonding Curve möglich?
 No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## Lotterie FAQ
@@ -122,7 +120,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Nein! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?
