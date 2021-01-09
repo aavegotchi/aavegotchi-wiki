@@ -85,39 +85,38 @@ Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 
 아베고치 생태계에 이용될 자금은 1,000,000 GHST로 조성되어 있으며, 이전의 한정 판매, 특별 판매의 일정에 따라현재 락업되어 있습니다. 락업이 해제된 자금들은 아베고치 DAO V2.0에 의해 만들어진 제안들에 따라 효율적으로 이용될 수 있습니다. 그리고 아베고치에 속하진 않지만 상당한 기여를 한 핵심 멤버들의 개발에 대한 지원, 아베고치 DAO의 홍보, 마케팅 등 아베고치 Dao에 유용할 것이라고 판단되는 합당한 사례들에 이용될 수 있습니다.
 
 
-**경영진 자금**
+**팀(Team) 자금**
 
-경영진 자금은 1,000,000 GHST로 구성되어 있으며, 한정판매 때와 동일한 일정에 따라 현재 락업 상태에 있습니다. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+팀 자금은 1,000,000 GHST로 구성되어 있으며, 한정판매 때와 동일한 일정에 따라 현재 락업 상태에 있습니다. 그러나 자금들에 대한 락업이 완전히 해제된다면, 3년에 걸친 지급 스케줄에 따라 분배될 것이고, 남아있는 자금들은 다시 2년 동안 새로운 지급 스케줄에 따라 락업될 것이고 아베코치 핵심팀에 배분될 것입니다.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
+팀 자금은 주로 외부 고문들에 대한 보상뿐만 아니라 아베고치 핵심 멤버들이 프로젝트에 전력을 다할 수 있도록 장려하는데 사용됩니다.
 
-## Revenue Sharing Overview
+## 수익 배분 개관
 
-What happens to all the GHST spent on portals and wearables?
+Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
 
-We've made a handy diagram that briefly breaks it down for you:
-<div class="centerImageContainer">
+우리는 이를 여러분에게 설명하기 위한 유용한 도표를 만들었습니다.<div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various allocations in more detail.
+여러가지의 GHST 할당에 대해 자세히 알고 싶다면 게속 읽어주세요 :)
 
 
-## Rarity Farming
+## 희귀성 농사(Rarity Farming)
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+아베고치에서 즐길 수 있는 가장 핵심적인 경험은 여러분의 고치(Gochis) 들과 시간을 보내고 그들에게 장비(wearables) 를 입혀주는 것입니다. 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+이를 위해 전체 GHST 수입의 **40%**가 플레이어 보상의 차원으로 유저들에게 배분될 것입니다.
 
-Initially, there will be three categories of Player Rewards:
+초기엔 유저 보상에 3개의 차원으로 이루어질 것입니다.
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* BRS에 따라 가장 희귀한 아베고치 Top 100
+* 친밀도 점수 Top 100
+* 경험치(XP) Top 100
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+3개 차원에서의 보상을 모두 종합하게 되면 전체 GHST 수입의 40%가 됩니다. 각각의 비율은 현재 확정되지 않았지만 아베고치 DAO에서 토의할 것입니다.
 
-More categories will be added, as the game continues to develop.
+이외에도 게임이 계속해서 발전하게 된다면 더 많은 분야가 추가될 것입니다.
 
 These rewards will be distributed **every two weeks** via onchain snapshots.
 
