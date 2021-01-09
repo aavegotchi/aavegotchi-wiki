@@ -140,25 +140,25 @@ Nein. FRENS sind die Belohnung für unsere Community-Mitglieder, die GHST staken
 Nein, FRENS existieren nur für die Teilnahme an den Aavegotchi-Lotterien. Der Rest des Aavegotchi Ökosystems wird mit GHST funktionieren.
 
 ### Wie überträgt man Lotterie-Tickets?
-Lotterie-Tickets basieren auf dem ERC-1155 Standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+Lotterie-Tickets basieren auf dem ERC-1155 Standard. Derzeit können Token, die auf diesem Standard basieren, über das [Opensea](https://opensea.io/) Interface verschickt werden. Man muss sich nur auf Opensea mit Metamask verbinden und die Wallet-Adresse des Empfängers eingeben, um die Tickets an ihn zu übertragen.
 
 ### Wird es nach dem Start des Mainnets noch Lotterien geben?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+Ja, es wird nach dem Mainnet-Launch weitere Lotterien geben. Sie finden jedoch eher selten statt und werden nicht im Voraus angekündigt. Damit sollen Spieler belohnt werden, die weiterhin staken und somit [FRENS](/glossary#frens) und/oder Tickets akkumulieren.
 
 ## Portal FAQ
 
 ### Wie viele Portale kann man in 1 Transaktion kaufen?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhindern, dass Whales eine grosse Anzahl von Portalen auf einmal an sich reissen und den Markt monopolsieren.
 
 ### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
 
 ## Gameplay FAQ
 
 
 ### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 1-100 range are more common.
+Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 1-100 range are more common.
 
 ### Wie viel kostet es zu spielen?
 
