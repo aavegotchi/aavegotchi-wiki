@@ -92,14 +92,14 @@ In unserer obigen Diskussion über die Token Bonding Curve / DAICO haben wir gel
 Die Inflation von GHST Tokens durch Nettokäufe auf der Bonding Curve ist positiv mit dem GHST Preis korreliert. **Die Bonding Curve wurde mathematisch so programmiert, dass der Preis von GHST steigt, wenn das zirkulierende Angebot an GHST zunimmt.**
 
 ## Arbitrage
-Nutzer, die KYC durchgeführt haben, werden in der Lage sein, die GHST Preisunterschiede zwischen der Token Bonding Curve und anderen DEXes wie Uniswap und Balancer zu arbitrieren. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Nutzer, die KYC durchgeführt haben, werden in der Lage sein, die GHST Preisunterschiede zwischen der Token Bonding Curve und anderen dezentralen Börsen (DEX) wie Uniswap und Balancer zu arbitrieren. Laut [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp) ist "Arbitrage der Kauf und Verkauf eines Vermögenswertes, um von einer Preisdifferenz zwischen den Märkten zu profitieren. Es ist also ein Handel, der durch die Ausnutzung der Preisunterschiede von identischen oder ähnlichen Finanzinstrumenten auf verschiedenen Märkten oder in verschiedenen Formen profitiert. Arbitrage existiert als Ergebnis von Marktineffizienzen und würde daher nicht existieren, wenn alle Märkte perfekt effizient wären." Dies ist deshalb möglich, da DEXe mit ihrer eigenen Automated Market Maker (AMM) Formel ausgestattet sind und die Netto-Kauf-/Verkaufsaktionen von GHST Tokens auf diesen DEXen zu Preisen führen würden, die von der Token Bonding Curve abweichen. Ein erfahrener Investor könnte es erwägen, solche Ineffizienzen im Markt auszunutzen (*Alpha Leak*).
 
 ## Weitere Infos
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Mehr über [Aragon Fundraising und Bonding Curves!](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* Weitere Informationen im Artikel [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* Artikel über [Bonding Curves](https://defiprime.com/bonding-curve-explained) von DeFi Prime.
 
 * Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
