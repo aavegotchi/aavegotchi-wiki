@@ -69,9 +69,9 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
 
 
-**모두를 위한 Bonding Curve 판매**
+**모두에게 열린 Bonding Curve Sale**
 
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
+아베고치의 열렬한 팬들은 "Curve는 결코 끝나지 않는다!"라고 말합니다. Curve의 메커니즘에 대해 좀 더 자세히 알고 싶다면, 다음 [Curve(곡선)](/curve). 페이지를 꼭 확인해보세요
 
 There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
