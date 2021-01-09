@@ -15,7 +15,7 @@ Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu c�
 
 <img class="bodyImage" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi Memes" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined</span>
+### <span style="color:silver">Giải 2: By Your Powers Combined của Raster Eyes</span>
 
 <img class="bodyImage" src="/memes/byyourpowerscombined.png" alt = "aavegotchi Memes" />
 
