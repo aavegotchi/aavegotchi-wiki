@@ -78,8 +78,8 @@ Sobald deine Einzahlungstransaktion abgeschlossen ist, profitierst du von den Ei
 
 Okay, ich habe mir einige aToken besorgt. Was nun?
 
-Gute gemacht, Fren.
+Gut gemacht!
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+Der nächste Schritt ist ein [Portal](/portale) mit [GHST](/ghst) zu kaufen. Portale können in der Aavegotchi dApp (Link wird beim Launch zur Verfügung gestellt) oder auf den [Sekundärmärkten](/marketplace) wie Opensea gekauft werden. Sobald du ein kostbares Portal in die Hände bekommen hast, ist es an der Zeit, den Beschwörungsprozess zu beginnen. Wenn du das Portal öffnest, werden dir 10 Gotchis präsentiert, jedes mit einem randomisierten, erforderlichen aToken. Hier kommen die aTokens ins Spiel, die du erworben hast. Hinterlege sie bei dem Gotchi, das den gleichen aToken-Typ hat und erwecke deinen neuen Freund zum Leben!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Für eine detailliertere Erklärung des Öffnungsprozesses eines Portals, besuche unsere Seite über [Portale](/portals).
