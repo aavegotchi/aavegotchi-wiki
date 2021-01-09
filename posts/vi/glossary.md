@@ -49,6 +49,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
+<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 </ol>
@@ -195,6 +196,11 @@ ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds t
 Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+
+### Matic Network
+Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
+
+Read more about Matic Network [here](https://matic.network/).
 
 ### Metaverse
 
