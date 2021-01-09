@@ -25,7 +25,7 @@ Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu c�
 
 ### Một Số Meme Khác
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+Nick Mudge hướng dẫn Vanilladelphia cách "mặc quần."
 
 <img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
 
