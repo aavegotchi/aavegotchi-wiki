@@ -33,10 +33,10 @@ Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Ü
 
 
 
-## Contribute
+## Mitwirken
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+Jeder kann zum Wiki beitragen, du benötigst nur Schreibrechte für unser [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+Wenn du etwas beitragen möchtest, melde dich im #wiki Channel des Aavegotchi-Discords und bitte einen unserer Aarchivers um Erlaubnis.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Dann begib dich zu unserem Github Repo und tauche gleich mit deinem ersten Commit ein. 
