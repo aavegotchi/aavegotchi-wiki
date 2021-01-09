@@ -17,7 +17,7 @@ aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao th
 
 Vậy những đồng aToken liên quan như thế nào với Aavegotchi? Mỗi Aavegotchi phải được triệu hồi thông qua một [Portal (cánh cổng)](/pages/portals), và phải được ký gửi bằng một đồng aToken (giá trị từ 10 đến 1000 Dai) trước khi chúng được kích hoạt! Không có ngoại lệ! Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+Trong Aavegotchi, thuật ngữ "Spirit Force", "Collateral", và "aToken" có chung ý nghĩa.
 
 <div class="contentsBox">
 
@@ -28,23 +28,23 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 <li><a href=#stablecoins>Stablecoin</a></li>
 <li><a href=#cryptocurrencies>Tiền mã hoá</a></li>
 <li><a href=#getting-atokens>Sở hữu aToken</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>Stake aToken vào Aavegotchi</a></li>
 </ol>
 
 </div>
 
 ## Sơ lược
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Khi những tài sản có giá trị được mang đi cho vay, những đồng aToken sẽ trực tiếp mang lợi nhuận theo thời gian thực vào ví của bạn! Thật đấy, bạn có thể xem số dư của mình tăng trưởng mỗi phút.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken có thể được chia ra thành một trong hai loại: (1) tiền điện tử, hoặc (2) stablecoin. Tiền điện tử là những loại tiền tệ kỹ thuật số hoặc mã hoá được bảo mật bằng thuật toán. Nhiều loại tiền điện tử là những mạng lưới phân tán được dựa trên công nghệ blockchain - một loại sổ cái phân tán vận hành bởi những mạng lưới máy tính khác nhau. Những đồng stablecoin là một loại tiền điện tử được thiết kế để giữ giá ổn định bằng cách gán chúng với một tài sản bên ngoài ví dụ như đồng đô la Mỹ (USD). Cơ chế gán giá trị phía sau của những stablecoin sẽ khác nhau, và mỗi cách gán sẽ có những rủi ro nhất định.
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Những đồng [aToken (tiền điện tử và stablecoin) ](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)sau đây hiện đang có mặt trên Aave Protocol. Cột *Được hỗ trợ bở Aavegotchi *cho biết những đồng aToken sẽ được dùng trong trò chơi Aavegotchi hay không. Danh sách những đồng aToken dùng trong trò Aavegotchi được dựa trên nhu cầu của người chơi.
 
 ## Stablecoin
 
-table_stablecoins
+table_stablecoins (https://docs. google. com/document/d/11HwrEYrrt5jAjssTGzTa0yqgFJKeGx-Oi-Co5btQXbE/edit? usp=sharing)
 
 ## Tiền mã hoá
 
@@ -52,34 +52,34 @@ table_cryptocurrencies
 
 ## Sở hữu aToken
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Những bước sau đây được lấy ra từ [Bài hướng dẫn Zero to Hero 2.0 ](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834)từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Đây là một trong những tuỳ chọn được liên kết với ví tiền điện tử của bạn, tuỳ thuộc vào loại ví mà bạn sở hữu:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Trước khi sử dụng Aave Protocol, bạn sẽ phải có một số ít tiền điện tử. Danh sách những loại tiền mã hoá được thể hiện trong mục <a href=#stablecoins> Stablecoin</a> và<a href=#cryptocurrencies> Tiền mã hoá </a>phía trên.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Nếu bạn không có tiền điện tử những muốn tham gia vào cuộc vui này, bạn sẽ cần phải chuyển đổi tiền pháp định (tiền bình thường, như đô la, ơ rô, v. v.) thành tài sản mã hoá (giống như phía trên).
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+May thay, gần đây Aave đã giới thiệu một cổng tắt để chuyển đổi từ tiền pháp định sang tiền điện tử nơi bạn có thể mua tài sản mã hoá trực tiếp từ ứng dụng Aave Protocol! Giờ đây bạn có thể dùng Transak và Ramp Instant để mua tài sản theo ít mình một cách trực tiếp thông qua thẻ tín dụng, thẻ ghi nợ hoặc chuyển khoản điện tín chỉ trong một vài phút (xem bên dưới).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Khi bạn sẽ kết nối ví với nền tảng, bạn có thể gửi một tài sản vào Aave Protocol. Khi bạn nhấp vào “deposit”, giao diện sẽ cho bạn thấy lượng tài sản có sẽ để bạn có thể ký gửi. Sau đó, bạn hãy chọn loại tài sản mà bạn muốn gửi, chọn số lượng tiền và sau đó voliá, bạn đã thành công! Chú ý: Sẽ có một giao dịch “approve” trước khi giao dịch gửi tiền diễn ra. Việc này sẽ cho phép hợp đồng ký gửi sử dụng số tiền mà bạn đang ký gửi
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được hưởng tiền lợi nhuận. Giờ bạn đã có thể xem phiên bản aToken của tài sản của bạn ngay trong ví.
 
-## Staking aTokens into Aavegotchis
+## Stake aToken vào Aavegotchi
 
-Okay, I've gotten myself some aTokens. What now?
+Okie, giờ mình đã có một ít aToken rồi. Nên làm gì tiếp theo nhỉ?
 
-Good work fren.
+Tốt lắm bạn hiền.
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+Bước tiếp theo là mua một [portal](/portals) bằng [GHST](/ghst). Portal có thể được mua thông qua DApp Aavegotchi (đường link sẽ được cung cấp khi game được khởi chạy) và trên [Thị Trường Thứ Cấp](/marketplace) như Opensea. Một khi bạn đã có trong portal xịn xò trong tay, hãy bắt đầu quá trình triệu hồi. Trước khi mở portal, bạn sẽ được qua 10 bé Gotchi, và mỗi bé sẽ cần một lượng aToken/collateral được yêu cầu ngẫu nhiên. Đây là lúc bạn cần aToken để có thể bắt đầu chơi game. Hãy stake tài sản cùng loại được yêu cầu vào trong Gotchi và mang sức sống đến cho chúng!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Để có được những lời giải thích chi tiết về quá trình mở portal, hãy xem qua trang [portals](/portals) của chúng tôi.
