@@ -27,8 +27,8 @@ Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu c�
 
 Nick Mudge hướng dẫn Vanilladelphia cách "mặc quần."
 
-<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
+<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge và vanilladelphia" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+CoderDan trong khoảng thời gian khiêm tốn bán keo mạnh nha trên bải biển. Tác giả Zer0dot.
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />
