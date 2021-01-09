@@ -28,6 +28,7 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 <li><a href=#stablecoins>Стейблкоины</a></li>
 <li><a href=#cryptocurrencies>Криптовалюты</a></li>
 <li><a href=#getting-atokens>Получение aTokens</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
 </ol>
 
 </div>
@@ -72,3 +73,13 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+
+## Staking aTokens into Aavegotchis
+
+Okay, I've gotten myself some aTokens. What now?
+
+Good work fren.
+
+The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+
+For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
