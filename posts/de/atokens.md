@@ -28,7 +28,7 @@ Im Aavegotchi-Universum bedeuten die Begriffe "Spirit Force", "Sicherheit/Collat
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Kryptowährungen</a></li>
 <li><a href=#getting-atokens>aTokens bekommen</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Aavegotchies mit aTokens besichern</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>Aavegotchis mit aTokens besichern</a></li>
 </ol>
 
 </div>
@@ -52,33 +52,33 @@ table_cryptocurrencies
 
 ## aTokens bekommen
 
-*Die folgenden Schritte wurden vom [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) des Aave Medium-Accounts übernommen. It has been replicated here for the reader's convenience.*
+*Die folgenden Schritte wurden vom [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) des Aave Medium-Accounts übernommen. Wir haben es hier für den Komfort des Lesers übertragen.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Besuche das <a href = "https://app.aave.com/">Aave Protokoll</a> um loszulegen!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Hier gibt es einige Optionen, um verschiedene Arten von Krypto Wallets zu verknüpfen:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Bevor du das Aave Protokoll nutzen kannst, musst du einige Krypto-Assets besitzen. Die Liste der verfügbaren Krypto-Assets wird in den Abschnitten <a href=#stablecoins>Stablecoins</a> und <a href=#cryptocurrencies>Kryptowährungen</a> oben aufgeführt.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Wenn du keine Kryptowährung besitzt, aber trotzdem mitspielen willst, musst du Fiat-Währung ("normales" Geld wie US Dollar, Euro, etc.) in ein kryptografisches Asset (wie eines der oben genannten) umwandeln.
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+Zum Glück hat Aave vor kurzem eine Fiat-zu-Krypto Onramp entwickelt, mit der du Krypto-Assets direkt über die Aave Anwendung kaufen kannst! Jetzt kannst du Transak oder Ramp Instant nutzen, um das Asset deiner Wahl direkt mit einer Kredit-/Debitkarte oder per Überweisung in nur wenigen Minuten zu kaufen (siehe unten).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Sobald du dein Wallet mit der Plattform verbunden hast, kannst du ein Asset in das Aave Protokoll einzahlen. Wenn du auf "Deposit" klickst, zeigt dir das Interface, was du in deinem Wallet zur Verfügung hast. Du wählst dann den Vermögenswert aus, den du einzahlen möchtest, legst den Betrag fest und voilá, du hast es geschafft! *Hinweis: Es wird eine Genehmigungstransaktion geben, bevor die eigentliche Einzahlung stattfindet. Damit erteilst du dem Smart Contract die Erlaubnis, den bestimmten Vermögenswert zu nutzen.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Sobald deine Einzahlungstransaktion abgeschlossen ist, profitierst du von den Einlagezinsen. Die aToken-Version des Assets kann nun in deinem Wallet gesehen werden.
 
-## Aavegotchies mit aTokens besichern
+## Aavegotchis mit aTokens besichern
 
-Okay, I've gotten myself some aTokens. What now?
+Okay, ich habe mir einige aToken besorgt. Was nun?
 
-Good work fren.
+Gute gemacht, Fren.
 
 The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
 
