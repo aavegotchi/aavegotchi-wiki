@@ -13,9 +13,9 @@ contributors:
 <p class="headerImageText">언제 GHST가 $5가 될까?</p>
 </div>
 
-토큰 이코노미? 누가 신경쓸까? 언제 올라가는 거야?
+토큰 이코노미? 어떻게 돌아가는 걸까? 언제 올라가는 거야?
 
-우리가 하고 여러분도 같이 해야만 합니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
+우리와 여러분이 함께 만들어가는 것입니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
 
 수익 배분과 토큰 이코노미에 대해 아베고치는 4가지 목표의 균형을 맞추려고 합니다.
 
@@ -118,23 +118,23 @@ Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
 
 이외에도 게임이 계속해서 발전하게 된다면 더 많은 분야가 추가될 것입니다.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
+이러한 보상들은 온체인 스냅샷을 통해 2주마다 유저들에게 돌아갈 것입니다.
 
 
-## DAO Governance
+## DAO 거버넌스
 
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. DAO의 책무(책임) 중 일부는 가치 있다고 판단되는 안건들에 대한 자금 관리를 포함합니다. (Waifu pics, maybe?)
 
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+수익의 **10%**는 처음에는 DAO의 자금으로 귀속될 것입니다. 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
 
 
-## BURN BABY BURN
+## 소각 시스템(BURN BABY BURN)
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+시작하기에 앞서, GHST의 [bonding curve](/curve) 와 메커니즘에 대해 스스로 익숙해지는 것은 상당히 이롭습니다. Then, the fun begins.
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+portal과 아이템 판매 수익의 **33%**는 소각될 것입니다. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
 
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
+이러한 상당히 높은 수치는 GHST가 역동적인 공급의 토큰이라는 사실에서 비롯됩니다. Ghst의 공급은 수요에 따라 증가하므로 이러한 높은 소각률은 결코 토큰의 급격한 디플레이션(통화 수축) 을 의미하지 않습니다. That's a problem for tokens with a fixed supply.
 
 Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
 
