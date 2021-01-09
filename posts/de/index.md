@@ -2,34 +2,34 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+description: 'Alles über das Aavegotchi Wiki'
 image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Das Aavegotchi Wiki</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Willkommen im offiziellen Aavegotchi Wiki, Fren!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+Dieses bescheidene Wiki ist der zentrale Wissenspunkt für alles, was mit Aavegotchi zu tun hat. Es wird von unserem grossartigen Team von Mitwirkenden, bekannt als Aarchivers, gepflegt und aktualisiert.
 
-## New to Aavegotchi?
+## Neu bei Aavegotchi?
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game.
+Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Übersicht über das Aavegotchi-Spiel.
 
-## Popular Pages
-* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+## Beliebte Seiten
+* [Gameplay](/gameplay) -- Einführung in das eigentliche Aavegotchi-Spiel
+* [GHST](/ghst) -- Mehr über den Öko-Governance Token von Aavegotchi erfahren
+* [Staking](/staking) -- Informationen zum Staking von GHST, das FRENS generiert
+* [DAO](/dao) -- Alles, was es über das AavegotchiDAO zu wissen gibt
+* [Rarity Farming](/rarity-farming) -- Spiel Aavegotchi und verdiene Belohnungen!
 
-## Other Useful Pages
+## Andere nützliche Seiten
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Team](https://wiki.aavegotchi.com/team) -- Erfahren, wer Aavegotchi entwickelt
+* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- Die aktuelle Roadmap von Aavegotchi
 
 
 
