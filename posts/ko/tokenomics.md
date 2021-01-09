@@ -96,7 +96,7 @@ Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 
 Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
 
 우리는 이를 여러분에게 설명하기 위한 유용한 도표를 만들었습니다.<div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "아베고치 토큰 이코노미">
 </div>
 
 여러가지의 GHST 할당에 대해 자세히 알고 싶다면 게속 읽어주세요 :)
@@ -149,17 +149,17 @@ GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적�
 
 만약 프로토콜 개발자들이 작업에 대한 보상으로 자체 토큰을 독점적으로 받게 된다면, 여러 비용들을 지불하기 위해 토큰을 팔 수 밖에 없을 것이고 이는 판매 압력으로 이어져 토큰의 가치가 회복되지 않는, 일명 잠재적인 '죽음의 소용돌이(spiral of death)' 시나리오에 처할 수 있습니다.
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+그러나, 개발자들에게 어떠한 토큰들도 보수로 지급되지 않는다면, 인센티브가 강력하게 조정되지 않고 잘못된 결정으로 이어지는 원인이 될 수 있습니다.
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
+아베고치 bonding curve가 이러한 문제를 해결하는데, 커뮤니티가 통제하는 탭 메커니즘(Tap mechanism) 은 DAI를 매달 잔고에서 Pixelcraft Studios(메인 개발자들) 로 배분을 함으로써 적극적인 개발을 위한 예산 운용을 보장합니다.
 
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+추가적으로, Pixelcraft는 GHST 수입의 17%을 받게 되는데, 이는 주로 GHST가 필요한 유동성 인센티브, 경품, 그리고 여타 홍보활동에 사용됩니다.
 
 
 
-**Final Words**
+**끝으로**
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+가상화폐 세계에서 가장 중요한 것들 중 한가지, 그리고 왜 지속적인 유입이 나타나는지의 이유는 바로 이것이 결코 '제로섬' 게임이 아니기 때문입니다. 우리 모두가 함께 이득 보는 기회가 있으며 특히 DAO에서는 더욱 확실하다. 이제 어떻게 최선으로 이러한 기회를 만들어낼 것인가에 답해야 한다. 프로젝트의 토큰 이코노미를 이해하는 것은 우리에게 굉장한 출발점을 제공해줍니다.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+계속 읽고, 계속 플레이하라. See you one the moon soon, Aagent! 
 
