@@ -134,11 +134,11 @@ Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
 
 portal과 아이템 판매 수익의 **33%**는 소각될 것입니다. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
 
-이러한 상당히 높은 수치는 GHST가 역동적인 공급의 토큰이라는 사실에서 비롯됩니다. Ghst의 공급은 수요에 따라 증가하므로 이러한 높은 소각률은 결코 토큰의 급격한 디플레이션(통화 수축) 을 의미하지 않습니다. That's a problem for tokens with a fixed supply.
+이러한 상당히 높은 수치는 GHST가 역동적인 공급의 토큰이라는 사실에서 비롯됩니다. GHST의 공급은 수요에 따라 증가하므로 이러한 높은 소각률은 결코 토큰의 급격한 디플레이션(통화 수축) 을 의미하지 않습니다. 그건 고정된 공급량을 지닌 토큰에게만 해당되는 문제입니다.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적으로 발생할 수 있는 GHST의 가격 하락 압박에 대한 디플레이션(통화 수축)의 기능으로써 균형을 잡아줍니다.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+소각 주소로의 GHST 전송을 통해 bonding curve 내에 DAI가 락업되면 GHST의 가격 상승이 발생합니다. 이는 모든 당사자들에게 긍정적으로 작용하게 됩니다. 왜냐하면 구매자와 판매자에겐 더 나은 유동성을 제공함으로써 슬리피지를 감소시킬 수 있고, 유통량을 감소시키며, [DAICO 탭 메커니즘(Tap Mechanism)](/curve#aavegotchi-daico)이 안정적이게끔 하기 때문입니다.
 
 
 ## Development Team
