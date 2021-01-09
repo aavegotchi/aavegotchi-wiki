@@ -67,11 +67,11 @@ To claim an Aavegotchi from the portal, you need to stake the required amount of
 
 In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
 
-Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
+Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
 
-The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
+Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
 
 The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
 
