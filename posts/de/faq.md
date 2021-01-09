@@ -100,7 +100,7 @@ Nein! Du musst KYC nur machen, wenn du GHST direkt von der <a href="https://wiki
 
 ### Was hat Aave mit Aavegotchi zu tun?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> as a central element of gameplay, and as of November 2020, Aave is also an <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">official investor</a> in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlaubnis zur Verwendung des Aave-Logos. Das Aavegotchi Spiel integriert die Verwendung von <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> als zentrales Element des Gameplays, und seit November 2020 ist Aave auch ein <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">offizieller Investor</a> in Pixelcraft Studios, dem Team hinter Aavegotchi.
 
 ## Bonding Curve FAQ
 
