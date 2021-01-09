@@ -13,46 +13,46 @@ contributors:
 <p class="headerImageText">Der aETH aToken</p>
 </div>
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com). Sie werden bei Einzahlung erstellt und bei Einlösung verbrannt. Die aTokens sind 1:1 an den Wert des Basiswerts gekoppelt, der im Aave Protokoll hinterlegt ist. aTokens können frei aufbewahrt, übertragen und gehandelt werden. Weitere Informationen zum Aave Protokoll gibt es im [Aave FAQ](https://docs.aave.com/faq/).
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Inwiefern sind aTokens also relevant für Aavegotchi? Jedes Aavegotchi muss durch ein [Portal](/pages/portals) beschwört und mit einem aToken besichert werden, bevor es zum Leben erweckt wird! Keine Ausnahmen! Deshalb brauchst du aTokens und diese Seite wird dir hilfreiche Informationen darüber geben, welche aTokens es gibt und wie du sie bekommst.
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+Im Aavegotchi-Universum bedeuten die Begriffe "Spirit Force", "Sicherheit/Collateral" und "aTokens" das Gleiche.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhalte**
 
 <ol>
-<li><a href=#about>About</a></li>
+<li><a href=#about>Über</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#cryptocurrencies>Kryptowährungen</a></li>
+<li><a href=#getting-atokens>aTokens bekommen</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>Aavegotchies mit aTokens besichern</a></li>
 </ol>
 
 </div>
 
-## About
+## Über
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Während der zugrundeliegende Vermögenswert an Kreditnehmer verliehen wird, generieren aTokens in Echtzeit Zinsen, direkt in deinem Wallet! Wirklich, man kann jede Minute sehen, wie das Guthaben wächst.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokens können in eine von zwei Kategorien eingeteilt werden: (1) Kryptowährungen oder (2) Stablecoins. Kryptowährungen sind digitale oder virtuelle Währungen, die durch Kryptographie gesichert sind. Viele Kryptowährungen sind dezentralisierte Netzwerke, die auf der Blockchain-Technologie basieren - ein verteiltes Hauptbuch, das durch ein dezentrales Netzwerk von Computern betrieben wird. Stablecoins sind eine Klasse von Kryptowährungen, die Preisstabilität zu bieten versuchen, indem sie an einen externen Referenzwert wie den US Dollar (USD) gekoppelt sind. Der zugrundeliegende Mechanismus der Kopplung unterscheidet sich von Stablecoin zu Stablecoin, wobei jeder sein eigenes Risikoprofil hat.
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Die folgenden [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (Kryptowährungen und Stablecoins) sind im Aave Protokoll verfügbar. Die *Supported by Aavegotchi* Spalte zeigt an, ob ein gegebener aToken für das Aavegotchi Gameplay verfügbar sein wird. Die Liste der unterstützten aTokens ist noch nicht endgültig; es wird Twitter-Abstimmungen/DAO-Abstimmungen geben, um weitere aTokens mit entsprechender Nachfrage hinzuzufügen.
 
 ## Stablecoins
 
 table_stablecoins
 
-## Cryptocurrencies
+## Kryptowährungen
 
 table_cryptocurrencies
 
-## Getting aTokens
+## aTokens bekommen
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Die folgenden Schritte wurden vom [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) des Aave Medium-Accounts übernommen. It has been replicated here for the reader's convenience.*
 
 1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
@@ -74,7 +74,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Staking aTokens into Aavegotchis
+## Aavegotchies mit aTokens besichern
 
 Okay, I've gotten myself some aTokens. What now?
 
