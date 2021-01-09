@@ -162,7 +162,7 @@ Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, da
 
 ### Wie viel kostet es zu spielen?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+Portale werden im ersten "Haunt" voraussichtlich 100 GHST kosten.  Die Kosten für andere Gegenstände wie Kleidungsstücke, Consumables und Land wurden noch nicht offiziell bekanntgegeben. Nach dem Start des Spiels wird der [DAO](/dao) die Macht haben, die **Preise der Gegenstände per Votum anzupassen**. In der Zwischenzeit kannst du dir die Marktpreise für einige Kleidungsstücke auf [Opensea](https://opensea.io/collection/aavegotchi-wearable-vouchers) anschauen.
 
 ### Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?
 Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotchi hinterlegt sind, hat keinen Einfluss auf den Freundschaftslevel.
@@ -176,7 +176,7 @@ Alle Elemente des Aavegotchi Spiels werden <a href="https://twitter.com/aavegotc
 
 ### Welches Wallet sollte ich für Aavegotchi verwenden?
 
-<a href="https://metamask.io/">Metamask</a> ist nach den Erfahrungen unserer Community bei weitem die beste Option, um mit Aavegotchi zu interagieren. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> ist nach den Erfahrungen unserer Community bei weitem die beste Option, um mit Aavegotchi zu interagieren. Metamask und [Arkane Wallet](https://arkane.network/apps) - das Aavegotchi bald integrieren wird - unterstützen beide ERC1155 Token. Das bedeutet, dass du in der Lage sein wirst, alle deine Vermögenswerte (wie z. B. Kleidungsstücke) in deinem Wallet neben den GHST Tokens zu sehen.
 
 ### Wird Aavegotchi auf Layer 2 laufen?
 
@@ -184,7 +184,7 @@ Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2
 
 ### Muss ich meine Aave Tokens migrieren?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
+Aavegotchi funktioniert mit aTokens von [Aave Version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir [bald](https://twitter.com/StaniKulechov/status/1334546997827809285) (vor dem Launch) ein Migrationstool haben :) 
 
 <p style="font-style:italic; font-size:13px;">...Fortsetzung folgt!</p>
 
