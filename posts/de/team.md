@@ -18,7 +18,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 <div class="contentsBox">
 
-**Contents**
+**Inhalte**
 
 <ol>
 <li><a href=#coder-dan>Coder Dan</a></li>
