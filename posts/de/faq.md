@@ -105,16 +105,16 @@ Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlau
 ## Bonding Curve FAQ
 
 ### Ich habe GHST gekauft, aber kann es nicht in meinem Wallet sehen
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+Nachdem du einen Kauf auf der Bonding Curve getätigt hast, musst du eine weitere Transaktion durchführen, um die GHST Tokens zu erhalten. Im Screenshot unten gibt es ein Beispiel dafür. Der Nutzer muss auf den "CLAIM ORDER" Button klicken, damit die GHST Tokens in seinem Wallet erscheinen.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Ist Front-Running bei der Bonding Curve möglich?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+Nein. Wenn du Käufe/Verkäufe von GHST Tokens auf der Bonding Curve durchführst, werden die Transaktionen zusammen mit denen anderer Leute gebündelt, bevor sie an den Smart Contract gesendet werden. Es ist also nicht möglich, mit einem niedrigeren GHST Preis aber höheren Gas-Gebühren deinen Kauf zu "frontrunnen".
 
 ## Lotterie FAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+Siehe <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a> für allgemeine Informationen zu den Lotterien.
 
 
 
@@ -125,7 +125,7 @@ Nein! Please be aware simply buying tickets with FRENS **does not automatically 
 
 ### Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+Nein. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Sind Lotterie-Kleidungsstücke etwas Besonderes?
@@ -133,7 +133,7 @@ No. The only time these wearables will ever be released is during the pre-launch
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 ### Kann ich FRENS kaufen?
-No. FRENS are a way to reward our community members who staked GHST.
+Nein. FRENS are a way to reward our community members who staked GHST.
 
 ### Werden FRENS für irgendetwas anderes als die Lotterie verwendet?
 
