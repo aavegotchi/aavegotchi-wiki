@@ -13,16 +13,22 @@ Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu c�
 
 ### <span style="color:gold">Giải 1: Aavegotchi PAC MAN của bạn Zemus</span>
 
-<p><img class="memes" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi Memes" width = "250" />
+<img class="bodyImage" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchi Memes" />
 
 ### <span style="color:silver">2nd place: By Your Powers Combined</span>
 
-<p><img class="memes" src="/memes/byyourpowerscombined.png" alt = "aavegotchi Memes" width = "250" />
+<img class="bodyImage" src="/memes/byyourpowerscombined.png" alt = "aavegotchi Memes" />
 
 ### <span style="color:#cd7f32">Giải 3: Cozy GHST do Moon</span>
 
-<p><img class="memes" src="/memes/CozyGHST.jpg" alt = "aavegotchi Memes" width = "250" />
+<img class="bodyImage" src="/memes/CozyGHST.jpg" alt = "aavegotchi Memes" />
 
 ### Một Số Meme Khác
 
-<p><img class="memes" src="/memes/nickmudgeandvan.png" alt = "nick mudge" width = "250" /> <p> <p><img class="memes" src="/memes/danmaiyatang.png" alt = "Daniel Mathieu" width = "250" />
+Nick Mudge teaching Vanilladelphia how to "put on his pants."
+
+<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
+
+CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+
+<img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />
