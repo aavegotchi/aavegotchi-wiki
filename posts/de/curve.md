@@ -62,29 +62,29 @@ Jeder Kauf oder Verkauf des Continuous Tokens (GHST) löst eine Zunahme oder Abn
 
 Das Connecting Weight bestimmt, wie stark sich der Preis eines Continuous Tokens anpassen muss, um das Ratio aufrechtzuerhalten. Mit anderen Worten: seine Preissensitivität.
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+Ein höheres Reserveverhältnis zwischen dem Reserve Token und dem Continuous Token führt zu einer geringeren Preissensitivität. Das bedeutet, dass jeder Kauf und Verkauf einen unterproportionalen Einfluss auf die Preisbewegung des Continuous Tokens haben wird. Andererseits führt ein geringeres Verhältnis zwischen dem Reserve Token und dem Continuous Token zu einer höheren Preissensitivität. Das bedeutet, dass jeder Kauf und Verkauf einen überproportionalen Effekt auf die Preisbewegung des Continuous Tokens hat.
 
-**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+**Das Reserveverhältnis von Aavegotchi liegt bei 33%!** Das bedeutet, dass du keine Angst vor Whales haben musst. Sie können GHST nicht pump & dumpen, da die Bonding Curve gegen ihre riesigen Transaktionen geschützt ist!
 
-If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
+Wenn du es in Aktion sehen willst, schau dir dieses interaktive Modell der Bonding Curve an, das Coderdan [hier](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve) erstellt hat.
 
-TEH CURVE IS FOREVER!
+THE CURVE IS FOREVER!
 
 ## Aavegotchi Bonding Curve
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+Die Aavegotchi Bonding Curve wurde am 14. September 2020 über einen Bonding Curve Smart Contract erstellt, der von [Aragon Fundraising](https://fundraising.aragon.black/) bereitgestellt wird. Nach dem Abschluss des Presales für 500'000 GHST wurde die Bonding Curve sofort freigegeben. Die Bonding Curve ist in ihrer Grösse unbegrenzt, hat kein Zeitlimit und bietet einen Startkurs von 0.2 Dai pro GHST. Sie hat ein Connecting Weight von 33%.
 
-You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
+Du musst trotzdem KYC abschliessen, um direkt in der Curve kaufen/verkaufen zu können. Compliance ist wichtig - we live in a society, und wir wollen auch nicht, dass das Projekt von der Regierung zerstört wird. Einkäufe auf der Curve werden in DAI getätigt. Umgekehrt kannst du deine GHST für DAI zurück an die Curve verkaufen, aber warum solltest du das tun? :( :( :(
 
-If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
+Wenn du aufgrund deiner Staatsbürgerschaft nicht in der Lage bist, KYC durchzuführen, mach dir keine Sorgen! **Du wirst immer noch in der Lage sein, mit jedem anderen Teil des Aavegotchi Metaverse zu interagieren.** Du musst einfach deine GHST von einem DEX wie Uniswap / Balancer kaufen, oder stattdessen von einem CEX wie OKEx. [Hier](/ghst#get-ghst) erfährst du, wie man GHST Tokens bekommt.
 
 ## Aavegotchi DAICO
-A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Ein Decentralized Autonomous Initial Coin Offering (DAICO) ist eine neue Fundraising-Methode, die versucht, die besten Eigenschaften einer Dezentralen Autonomen Organisation (DAO) mit denen eines Initial Coin Offering (ICO) zu verbinden. Dadurch soll eine Struktur geschaffen werden, die dem Token-Sale-Fundraising-Modell ein höheres Mass an Effektivität verleiht. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
 
-The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
+Das Aavegotchi Projekt hat die Token Bonding Curve durch einen DAICO auf Aragon gestartet.
 
-**This is SAFU. Do. Not. Remove. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**Dies ist SAFU. Entferne. Niemals. Die. Bonding. Curve. ** Es verhindert, dass die Investoren ihre Gelder verlieren, da sie letztendlich die Kontrolle über die Finanzen innerhalb des DAICO / der Bonding Curve haben!
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+Die erste Version des [AavegotchiDAO](/dao) startete im Tandem mit der GHST Distribution auf der Bonding Curve. GHST Nutzer hatten die Macht, über die Erhöhung / Beibehaltung der Mittel abzustimmen, die durch den Tap Mechanismus der Token Bonding Curve (TBC) Reserven an Pixelcraft Studios (dem Team hinter Aavegotchi) ausgeschüttet werden, um die Entwicklung zu unterstützen. Der erste Vorschlag des AavegotchiDAO, den Aavegotchi DAICO Tap von 50'000 DAI auf 100'000 DAI pro Monat zu erhöhen, wurde am 18. Oktober 2020 mit 99% Zustimmung angenommen.
 
 ## Aavegotchi Token Angebots-Dynamik
 In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
