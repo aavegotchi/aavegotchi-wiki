@@ -20,11 +20,11 @@ Chiếc Wiki be bé này chính là tâm điểm kiến thức về tất tần 
 Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một bài tổng quan cấp cao về trò chơi Aavegotchi nhé.
 
 ## Trang Được Xem Nhiều
-* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Lối chơi](/gameplay) -- Giới thiệu về game Aavegotchi
+* [GHST](/ghst) -- Học thêm về token sinh thái quản trị của Aavegotchi
+* [Staking](/staking) -- Học cách stake GHST để có FRENS
+* [DAO](/dao) -- Mọi thứ cần biết về AavegotchiDAO
+* [Rarity Farming](/rarity-farming) -- Chơi Aavegotchi và giành giải thưởng!
 
 ## Những Trang Hữu Ích Khác
 
