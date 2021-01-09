@@ -18,7 +18,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 <div class="contentsBox">
 
-**Contents**
+**Inhalte**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
