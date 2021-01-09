@@ -23,7 +23,7 @@ Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Ü
 * [Gameplay](/gameplay) -- Einführung in das eigentliche Aavegotchi-Spiel
 * [GHST](/ghst) -- Mehr über den Öko-Governance Token von Aavegotchi erfahren
 * [Staking](/staking) -- Informationen zum Staking von GHST, das FRENS generiert
-* [DAO](/dao) -- Alles, was es über das AavegotchiDAO zu wissen gibt
+* [DAO](/dao) -- Alles, was es über den AavegotchiDAO zu wissen gibt
 * [Rarity Farming](/rarity-farming) -- Spiel Aavegotchi und verdiene Belohnungen!
 
 ## Andere nützliche Seiten
