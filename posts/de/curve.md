@@ -98,8 +98,8 @@ Nutzer, die KYC durchgeführt haben, werden in der Lage sein, die GHST Preisunte
 
 * Mehr über [Aragon Fundraising und Bonding Curves!](https://fundraising.aragon.black/components/bonding-curve)
 
-* Weitere Informationen im Artikel [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* 101 zu Bonding Curves: [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
 * Artikel über [Bonding Curves](https://defiprime.com/bonding-curve-explained) von DeFi Prime.
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Artikel über [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) von Cointelegraph.
