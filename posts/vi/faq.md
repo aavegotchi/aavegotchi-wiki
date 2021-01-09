@@ -162,7 +162,7 @@ Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở 
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 
-Portal sẽ có giá khoảng từ 50-100 GHST. Giá trị của những vật phẩm khác như trang bị, vật phẩm tiêu hao, và đất đai sẽ được công bố - dù sau khi trò chơi được triển khai <a href="https://wiki.aavegotchi.com/dao">DAO</a> sẽ có quyền **điều chỉnh giá tài sản thông qua những cuộc bỏ phiếu quản trị**. Hiện tại, bạn có thể xem qua giá hiện tại trên thị trường mở dành cho một số loại phụ kiện trên <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">OpenSea</a>.
+Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
 
 ### Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?
 Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được stake vào Aavegotchi sẽ không làm ảnh hưởng đến cấp độ kinship.
@@ -176,7 +176,7 @@ Tất cả những yếu tố trong game Aavegotchi được <a href="https://tw
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
-<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và<a href="https://arkane.network/apps">Arkane wallet</a> - sẽ sớm được tích hợp vào Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
+<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
@@ -184,7 +184,7 @@ Tất cả những yếu tố trong game Aavegotchi được <a href="https://tw
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi sẽ hoạt động tốt với aToken từ <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta <a href="https://twitter.com/StaniKulechov/status/1334546997827809285"> sẽ sớm có một công cụ hỗ trợ việc dịch chuyển</a> (trước khi game được triển khai) :) 
+Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
 
 <p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
