@@ -69,11 +69,11 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
 
 
-**모두에게 열린 Bonding Curve Sale**
+**모두에게 열린 Bonding Curve에 따른 판매**
 
 아베고치의 열렬한 팬들은 "Curve는 결코 끝나지 않는다!"라고 말합니다. Curve의 메커니즘에 대해 좀 더 자세히 알고 싶다면, 다음 [Curve(곡선)](/curve). 페이지를 꼭 확인해보세요
 
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
+이제는 GHST의 공급에 있어 어떠한 시공간적인 제약이 없습니다. 처음엔 가격이 0.2 DAI/ GHST로 형성이 되었으며 Cuve에 의해 변화합니다. There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
 Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
