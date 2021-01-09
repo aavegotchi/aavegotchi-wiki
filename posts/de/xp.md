@@ -14,13 +14,13 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 **Inhalte**
 
 <ol>
-<li><a href=#formula>Formula</a></li>
+<li><a href=#formula>Formel</a></li>
 <li><a href=#experience-table>Experience Table</a></li>
 </ol>
 
 </div>
 
-## Formula
+## Formel
 The following formula is used to determine the XP required for the next level:
 
 (Current Level ^ 2) ÷ Constant, where Constant = 0.02
