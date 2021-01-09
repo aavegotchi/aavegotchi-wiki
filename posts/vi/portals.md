@@ -45,20 +45,20 @@ Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal
 
 Sau khi mua portal, bước kế tiếp là mở nó ra. Portal sẽ được mở ra trên [Matic Network](/glossary#matic-network) khi người chơi ký vào một giao dịch. Sau khi giao dịch được kí, [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) sẽ được thực thi "phía sau cánh gà.". Sau khi hoàn thành, portal sẽ được chỉ định một số ngẫu nhiên để đảm bảo các chỉ số của Aavegotchi được ngẫu nhiên một cách công khai.
 
-Here's a handy flow chart that summarizes the process:
+Đây là một biểu đồ tóm tắt quá trình:
 
 <img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Quá trình mở Portal trong Aavegotchi" />
 
-After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
+Mỗi cánh cổng có chứa 10 Aavegotchi khác nhau để bạn chọn, kêu gọi nó từ Nether realm. Bạn sẽ cần chọn 1 trong số 10 bé ma để triệu hồi. Số còn lại, tiếc thay, sẽ tan biến mãi mãi.
 
-These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
+Những Aavegotchi này đều có những đặc điểm khác nhau được sinh ra một cách ngẫu nhiên. Khi chuyển đổi giữa các option, bạn có thể xem những đặc điểm này và [Base Rarity Score](/rarity-farming#base-rarity-score) thuộc về Aavegotchi của bạn. Đây là rarity score mà Aavegotchi có được lúc ban đầu, dựa trên những đặc điểm khởi đầu mà có sỡ hữu khi được triệu hồi. Rarity score này sau đó có thể được điều chỉnh thông qua một loạt các hoạt động, ví dụ như trang bị wearables cho Aavegotchi của bạn.
 
-You can check out the trait range and rarity probabilities in this table here:
+Bạn có thể xem nhóm đặc điểm và tỷ lệ hiếm trong bản ở đây:
 
 table_PortalTraitTable
 
 
-More information on rarity farming can be found [here](/rarity-farming).
+Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
 
 
 ## Nhận Aavegotchi
