@@ -180,13 +180,12 @@ Alle Elemente des Aavegotchi Spiels werden <a href="https://twitter.com/aavegotc
 
 ### Wird Aavegotchi auf Layer 2 laufen?
 
-Ja! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2 Lösung, die bereits bald nach dem Launch integriert wird. Das Team hat sich für Matic entschieden, da sie starke Entwickler haben, Fortschritte bei der Dezentralisierung erzielen konnten und einen starken Netzwerkeffekt mit anderen NFT-Plattformen wie OpenSea aufweisen.
 
 ### Muss ich meine Aave Tokens migrieren?
 
-Aavegotchi will work with aTokens from <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave version 2.0</a> - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we 
-<a href="https://twitter.com/StaniKulechov/status/1334546997827809285">should have a migration tool out soon</a> (before launch) :) 
+Aavegotchi funktioniert mit aTokens von <a href="https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a">Aave Version 2.0</a> - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir <a href="https://twitter.com/StaniKulechov/status/1334546997827809285">bald</a> (vor dem Launch) ein Migrationstool haben :) 
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">...Fortsetzung folgt!</p>
 
 
