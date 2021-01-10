@@ -51,20 +51,20 @@ Dazu gehören:
 * [GHST staken](https://wiki.aavegotchi.com/en/staking), FRENS generieren, Tickets kaufen und Lotterie-Preise gewinnen
 
 ## GHST kaufen
-Get your wallets (preferably Metamask) ready - there are two main ways to buy GHST tokens.
+Halte dein Wallet (vorzugsweise Metamask) bereit - es gibt zwei Möglichkeiten, um GHST Tokens zu kaufen.
 
-You can either buy it straight from the [curve](https://aavegotchi.com/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as Uniswap and Matcha, as well as CEXes like OKex and Binance, carry GHST.
+Du kannst es entweder direkt von der [Curve](https://aavegotchi.com/curve) kaufen (dies erfordert allerdings KYC, was leider Staatsbürger der USA und Chinas ausschliesst); oder du kaufst es von einer [Börse](https://www.coingecko.com/en/coins/aavegotchi#markets) - mehrere DEXes wie Uniswap und Matcha, sowie CEXes wie OKex und Binance, bieten GHST an.
 
-Make sure you get the correct token address as well: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Please verify this link against other officially published Aavegotchi sources - it never hurts to be extra careful.**
+Achte darauf, dass du auch die richtige Token-Adresse verwendest: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Bitte überprüfe diesen Link mit anderen offiziell veröffentlichten Aavegotchi Quellen - es schadet nie, vorsichtig zu sein.**
 
 ## GHST verdienen
-Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+Nicht jeder ist ein Whale, und das ist auch in Ordnung - es gibt genugn zu tun in den DeFi-Meeren.
 
-There are several ways to grind it out and earn GHST. These include:
+Es gibt mehrere Möglichkeiten, um GHST zu verdienen. Diese beinhalten:
 
-* Engaging in [rarity farming](https://wiki.aavegotchi.com/en/rarity-farming)
-* Participate and vote in [AavegotchiDAO](https://wiki.aavegotchi.com/en/dao)
-* Playing and winning in minigames (more information TBC)
+* [Rarity Farming](https://wiki.aavegotchi.com/en/rarity-farming) betreiben
+* Sich am [AavegotchiDAO](https://wiki.aavegotchi.com/en/dao) beteiligen und abstimmen
+* In Minispielen mitmachen und gewinnen (bald mehr Infos dazu)
 
 
 
