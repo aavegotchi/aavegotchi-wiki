@@ -1,14 +1,14 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: 'Minigames'
-description: 'All about Aavegotchi minigames'
+title: 'Minispiele'
+description: 'Alles über Aavegotchi Minispiele'
 ---
 
-*Aavegotchi's don't spend their time jsut twiddling their ghostly thumbs, y'know...*
+*Aavegotchi's verbringen ihre Zeit nicht mit Däumchendrehen, weisst du...*
 
-The [metaverse](/metaverse) is chock-full of things for Aavegotchis and their masters to do. Explore the realm with your friends and pit your 'Gotchi against theirs to win their ever-precious spirit force (not including their initial balance, of course) and valuable XP!
+Das [Metaverse](/metaverse) ist vollgepackt mit Dingen, die die Aavegotchis und ihre Meister tun können. Erforsche den Realm mit deinen Freunden und lass dein Gotchi gegen ihres antreten, um ihre wertvolle Spirit Force (natürlich ohne ihr anfängliches Guthaben), sowie Erfahrungspunkte (EXP) zu gewinnen!
 
-There are a wide variety of mini-games to suit all players' (and Aavegotchis') tastes. If your adorably ethereal companion's *hyper-aggressive,* they'd surely appreciate a good battle here and there. On the flip side, they might not be quite right for a baking competition.
+Es gibt eine grosse Auswahl an Minispielen, die den Geschmack aller Spieler (und Aavegotchis) abdecken. Wenn dein liebenswerter Begleiter *hyper-aggressiv* ist, würde er sicherlich einen guten Kampf hier und da zu schätzen wissen. Auf der anderen Seite ist er vielleicht nicht ganz der Richtige für einen Backwettbewerb.
 
-As the [AavegotchiDAO](/dao) evolves, there are incentives coming for anyone and everyone to jump in and develop their very own mini-games! As long as they conform to the trait distribution standards, the games will reward winners with XP.
+Während sich das [AavegotchiDAO](/dao) weiterentwickelt, gibt es Anreize für jeden und jede, mitzumachen und seine eigenen Minispiele zu entwickeln! Solange sie den Standards für die Eingenschaft-Distribution entsprechen, werden die Spiele die Gewinner mit EXP belohnen.
