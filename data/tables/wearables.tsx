@@ -351,7 +351,7 @@ export const tables
             tableName: "independentHeadTable",
             tableCaption: "Independent Head Items",
             tableData: {
-                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity"],
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
                 data: [
 				    [`<img src="/wearables/final wearables/124_BeerHelmet.svg" alt = "aavegotchi Beer Helmet"/>`, "124", "Beer Helmet", "Mythical", "BRN -5", "50", "head"]
 				]
