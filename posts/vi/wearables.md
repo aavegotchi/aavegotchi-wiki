@@ -27,7 +27,7 @@ Trang này có chứa những thông tin chi tiết về mỗi loại wearable �
 <li><a href=#link-themed-set>Trang Phục Chủ Đề Link</a></li>
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
-<li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aave</a></li>
+<li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aagent</a></li>
 <li><a href=#wizard-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
 <li><a href=#farmer-wearables-set>Farmer Wearables Nông Dân</a></li>
 <li><a href=#santa-wearables-set>Bộ Trang Phục Chủ Đề Santa</a></li>
@@ -89,7 +89,7 @@ Bộ trang phục chủ đề Ethereum là bộ cuối cùng trong ba bộ trang
 
 table_ethereumWearablesTable
 
-## Bộ Trang Phục Chủ Đề Aave
+## Bộ Trang Phục Chủ Đề Aagent
 
 Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được trao tặng cho tất cả những [Aagent có cấp độ 12](/missions), những người đã hoàn thành hết 12 Aagent Missions trước khi Mainnet của Aavegotchi khởi chạy. Hình ảnh và Số lượng sẽ sớm được tiết lộ!
 
