@@ -151,27 +151,27 @@ Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen 
 
 
 ### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Im Allgemeinen ist ein Smart Contract ein selbstausführender Vertrag/Contract, bei dem die "Vertragsbedingungen" zwischen den Nutzern direkt in den Code des Vertrags selbst geschrieben werden. Wenn diese vorgegebenen Bedingungen und bestimmte Konditionen erfüllt sind, kommt der Vertrag zustande.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Das Staking einer Kryptowährung bedeutet im Wesentlichen, dass man diese Währung hält, um Transaktionen zu verifizieren und das Netzwerk zu unterstützen. Im Austausch dafür erhalten die Staker normalerweise eine Art Belohnung. Zum Beispiel werden in der Aavegotchi Welt die $GHST-Staker mit FRENS belohnt, mit denen sie in regelmässigen Lottieren Tickets kaufen und Preise gewinnen können.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Einfach ausgedrückt ist Yield Farming eine Strategie, die Nutzern das Verdienen von Belohnungen ermöglicht, indem sie ihr Vermögen in einem bestimmten Protokoll hinterlegen und verleihen.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Dies kann auf verschiedene Arten geschehen, aber der häufigste Mechanismus ist, dass Einleger/Kreditgeber Coins von einem Protokoll verdienen, indem sie einfach ihre ERC-20 Token und/oder Stablecoins auf der Plattform staken. Normalerweise werden diese Belohnungen genutzt, um potenzielle Einleger und Kreditnehmer dazu zu bewegen, einer bestimmten Plattform Liquidität zuzuführen.
 
 
 ## Allgemeine Begriffe
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon ist ein Open Source, Community-getriebenes Projekt mit der Mission, die Unabhängigkeit von dezentralisierten Organisationen zu stärken, indem es Werkzeuge für deren Erfolg entwickelt.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Das Flaggschiffprodukt des Projekts ist der Aragon Client, ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Das Projekt baut auch das Aragon Network, die erste digitale Jurisdiktion der Welt.
 
 The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
 
