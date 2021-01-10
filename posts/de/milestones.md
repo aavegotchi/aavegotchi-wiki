@@ -66,49 +66,49 @@ contributors:
 * FYI Pixelcraft Studios ist das Entwicklerteam für Aavegotchi
 
 ## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* Eine Aavegotchi ❤ Chainlink Fan Fiction, geschrieben von unserem eigenen Aapprentice [Appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+* Eine Aavegotchi ❤ Chainlink Fan Fiction, geschrieben von unserem eigenen Aapprentice [Appellants](https://twitter.com/sinkielinkie)! Veröffentlicht am 20. November 2020.
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [Jeder ist ein Gewinner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* Mit angehaltenem Atem warteten alle darauf, dass das Chainlink VRF am 13. November 2020 seine Wirkung entfalten würde. Dann kamen die Ergebnisse.........Jeder ist ein Gewinner!
 
-## [Mach dich bereit!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+## [Macht euch bereit!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* Bereitet euch vor! Eine Schritt-für-Schritt-Anleitung für die kommenden Lotterien - Veröffentlicht am 9. November 2020!
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [Der Haaaaallooweeeen Paartaay war ein Knaller!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* Ein Rückblick auf die Aawesome Haalloween Paartay wurde am 4. November 2020 veröffentlicht!
+* Bekanntgabe der Gewinner des Kostümwettbewerbs!
+* Test Lotterie live auf dem Kovan Testnet
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [Baue dein eigenes Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* Launch des Aavegotchi Builder am 29. Oktober 2020, einer interaktiven Mini-App, in der du mit Aavegotchi-Eigenschaften spielen und simulieren kannst, wie dein Aavegotchi mit Kleidungsstücken aussehen würde.
 
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+* Weitere Details zur Haaaalloween Paaarty wurden am 28. Oktober 2020 bekannt gegeben
+* Virtueller Kostümwettbewerb!
+* Mit Musik von Harrison First und Meet n Greets mit Cherry, OpenSea, und Matic. Paartty wird mit Aaves Stani Kulechov gestartet.
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
+## [Mehr Spass! Mehr Aufregung!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* Beep! Beep! Das Team gab am 25. Oktober 2020 bekannt, dass am Freitag, dem 30. Oktober 2020, eine Haalllooowwweeen-Party stattfinden wird. Be there or be square!
+* Bekanntgabe der Gewinner des Mission 9 Wettbewerbs
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+## [Etwas braut sich zusammen.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+* Am 23. Oktober 2020 gab das Team bekannt, dass die erste von 3 Pre-Mainnet GHST Staking Lotterien am 10. November stattfinden wird!
+* Diese Lotterie hat das Thema LINK, um unsere Partnerschaft mit Chainlink und die Nutzung des Chainlink VRF zu feiern.
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+## [Anschnallen und los geht's!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* GHST Staking ist jetzt live auf dem Mainnet am 20. Oktober 2020
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [Test in test! Audits abgeschlossen](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* Wichtige Ankündigung am 18. Oktober 2020! [GHST Staking Audit](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) komplett - keine Exploits!
+* GHST Staking startet auf dem Mainnet innerhalb von 72 Stunden
+* Die erste Onchain-Abstimmung des AavegotchiDAO wird mit 99% JA angenommen!
+* Aavegotchi gewinnt den OKex DeFi + NFT Listing Wettbewerb
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+* Hört, Hört! Stimme mit deinem GHST am 14. Oktober 2020 ab! Der erste Vorschlag für den AavegotchiDAO: Tap-Erhöhung für den Scaling Sprint!
 
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
+## [Spoookyy. Begrüss unsere Freunde aus ihren Portalen](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* Am 13. Oktober 2020 ist es soweit. Begrüsse unsere spooky Freunde aus ihren Portalen auf dem Kovan Testnet. Whooooo!
 
 ## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
 * Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
