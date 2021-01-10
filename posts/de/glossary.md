@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
+title: 'Glossar'
+description: 'Glossar mit Informationen über Aavegotchi, NFT und DeFi-Terminologie.'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,71 +11,71 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">Aavegotchi nach dem Lesen des GotchiGlossars</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+Wenn du gerade erst angefangen hast, die Welt von DeFi zu erkunden, dann willkommen in dieser Ecke des Internets! Dieses Glossar soll dir einige Informationen zur Verfügung stellen, die dir hoffentlich helfen, die DeFi Grundlagen zu verstehen. Wenn du ganz neu in diesem Bereich bist, wird dir dieses Glossar auch einen Überblick über einige Begriffe geben, die du erwarten kannst, wenn du durch die Aavegotchi-Welt wanderst, um dein Verständnis weiter zu verbessern.
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für diese Begriffe hast, kannst du gerne in den ONBOARDING Bereich springen und in das eigentliche Ökosystem eintauchen.
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<li><a href=#aavegotchi-related>Aavegotchi-verwandt</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#wearables>Kleidungsstücke</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Sicherheiten/Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#liquidity-pools>Liquiditätspools</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<li><a href=#general-terms>Allgemeine Begriffe</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#bell-curve>Glockenkurve</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
+<p><a href=#matic-network>Matic Netzwerk</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#non-fungible-token>Nicht-fungibler Token (NFT)</a></p>
 </ol>
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi-verwandt
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis sind pixelförmige Geister, die auf der Ethereum Blockchain leben und durch den ERC-721 Standard unterstützt werden. Ihr Wert wird durch die [Seltenheitsstufe](/rarity-farming) bestimmt, die über mehrere Faktoren berechnet wird, wie z.B. Basis-Eigenschaften, Menge an [hinterlegten Sicherheiten](atokens) und ausgerüstete [Kleidungsstücke](/wearables).
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Punkte, die an Benutzer vergeben werden, die GHST staken. FRENS ist kein Token. Technisch gesehen handelt es sich um ein Guthaben innerhalb des Staking Contracts. FRENS sind nicht übertragbar und dienen dazu, Staker für ihren Beitrag zum Aavegotchi-Projekt zu belohnen.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+Spirit Force bezieht sich auf die Menge an Sicherheiten (aTokens), die im Gotchi eingeschlossen sind.
 
 ### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+Spirit Point bezieht sich auf einen Punkt, den ein Gotchi erhält, wenn es auflevelt. Ähnlich wie Stats-Punkte in RPG-Spielen. Du erhältst 1 Spirit Point alle 3 Level.
 
-### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+### Kleidungsstücke
+Kleidung/Ausrüstung, die dein Aavegotchi trägt. Sie entsprechen dem ERC-1155 Standard.
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" steht für **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
 
 That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
@@ -90,7 +90,7 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 
 
-### Collateral
+### Sicherheiten/Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -137,7 +137,7 @@ Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Poo
 
 
 
-### Liquidity Pools
+### Liquiditätspools
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -166,7 +166,7 @@ Very simply put, yield farming is a practice that allows users to earn rewards b
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## Allgemeine Begriffe
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -177,7 +177,7 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### Bell Curve
+### Glockenkurve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### ERC-20
@@ -197,7 +197,7 @@ Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
+### Matic Netzwerk
 Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
 Read more about Matic Network [here](https://matic.network/).
