@@ -69,7 +69,7 @@ Zusätzlich zu ihrem monetären Wert, der durch Knappheit und den Markt bestimmt
 
 **Für weitere Informationen über aTokens, siehe [aTokens](/atokens).**
 
-Im Allgemeinen hängt die minimale Menge an Spirit Force (Sicherheiten) von der Basis-Seltenheitsstufe des Aavegotchi ab, das du beschwören willst. Je höher die Punktzahl, desto mehr Sicherheiten werden benötigt.
+Im Allgemeinen hängt die minimale Menge an Spirit Force (Sicherheiten) vom Base Rarity Scores des Aavegotchi ab, das du beschwören willst. Je höher die Punktzahl, desto mehr Sicherheiten werden benötigt.
 
 Der Mindestbetrag der erforderlichen Sicherheiten liegt bei 10 DAI, während der Höchstbetrag bei 1000 DAI liegt.
 
@@ -83,24 +83,24 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-Wenn der Basis-Seltenheitswert zum Beispiel weniger als 300 beträgt, musst du Sicherheiten im Wert von mindestens 10 DAI hinterlegen, um das Gotchi zu beschwören.
+Wenn der Base Rarity Score zum Beispiel weniger als 300 beträgt, musst du Sicherheiten im Wert von mindestens 10 DAI hinterlegen, um das Gotchi zu beschwören.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+Du kannst die Spirit Force (hinterlegte Menge an aTokens) deines Aavegotchis später über die Aavegotchi dApp UI erhöhen oder verringern.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+Um dein Gotchi zu beschwören, musst du 2 Transaktionen durchführen. Zuerst musst du dem Smart Contract die Genehmigung erteilen, um den aToken in deinem Wallet auszugeben. Die anschliessende Transaktion ermöglicht es dir, das Aavegotchi zu beschwören.
 
 
 ## Dein Aavegotchi transferieren
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+Wenn du ein Aavegotchi auf einen neuen Besitzer überträgst (wenn du es tauschst), werden auch die hinterlegten Sicherheiten übertragen, ebenso wie alle Gegenstände und Kleidungsstücke im Inventar des Aavegotchis. Das passiert, wenn du dein Aavegotchi auf einem Online-Marktplatz wie OpenSea handelst.
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+Wenn du die hinterlegten Sicherheiten, die dein Aavegotchi sichern, zurückholen möchtest, hast du zwei Möglichkeiten:
 
-1. **Reduce the amount of collateral** in your Aavegotchi (but not below it's minimum stake).
+1. **Reduziere die Menge der Sicherheiten** in deinem Aavegotchi (aber nicht unter seinen Mindesteinsatz).
 
-2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral.
+2. **Verbrenn dein Aavegotchi**, lass es zurück in den Nether Realm und bekomm alle deine Sicherheiten zurück.
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**Bevor du dein Aavegotchi auf Sekundärmärkten wie OpenSea zum Verkauf anbietest, solltest du dein Aavegotchi über die dApp UI "sperren", damit der Käufer sicher sein kann, dass alle Besitztümer des Aavegotchis mit übertragen werden.**
 
 
 
