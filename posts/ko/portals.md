@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
-description: 'All about Aavegotchi Portals'
+description: '아베고치 포털에 대한 모든 것'
 contributors:
   - "appellants"
 image: "portals/portal.gif"
@@ -10,55 +10,48 @@ image: "portals/portal.gif"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">An Aavegotchi Portal</p>
+<p class="headerImageText">아베고치 포털(Portal)</p>
 </div>
 
-How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
+어떻게 아베고치를 저승에서 소환시켜 여러분의 스크린으로 데려올 수 있을까요? 포털을 통해서라면, 문제 없습니다!
 
-Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.
+보라색의 심연을 자세히 들여다보고 그 너머에 무엇이 숨어있는지를 보세요! 아마 친구를 찾을 수 있을 것입니다! 더 정확히는, 10명의 친구들이 숨어있습니다.
 
-So put on your wizard cap – it’s time to learn more about Portals and the Aavegotchi summoning process. 
+이제 여러분의 마법사 모자를 꺼내서 쓰세요. 포털과 아베고치 소환 과정에 대해 더 많이 배워볼 시간입니다. 
 
 <div class="contentsBox">
 
-**Contents**
+**목차**
 
 <ol>
-<li><a href=#buying-a-portal>Buying a Portal</a></li>
-<li><a href=#opening-your-portal>Opening your Portal</a></li>
-<li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
-<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
+<li><a href=#buying-a-portal>포털 구매</a></li>
+<li><a href=#opening-your-portal>포털 개방</a></li>
+<li><a href=#claiming-an-aavegotchi>아베고치 소환</a></li>
+<li><a href=#transferring-your-aavegotchi>여러분의 아베고치로 만들기</a></li>
 </ol>
 
 </div>
 
-## Buying a Portal
+## 포털 구매
 
 Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
 
 If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
-## Opening your Portal
+## 포털 개방
 
 Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-Whenever a player purchases a Portal, it is automatically entered into a batch. This allows Portals to be grouped in a single batch, that can be executed with a single [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) call. When this is executed, all Portals in that batch will be assigned a random number via the aforementioned VRF, ensuring that the Aavegotchi's traits will be provably random.
-
-Why can't I open my Portal immediately? Why does it need to be placed alongside other Portals in a batch? Whenever the Chainlink VRF is called, the caller has to pay in LINK. Paying LINK for the opening of each individual Portal is expensive! It adds up if you are opening many Portals. Batching Portals together and calling the Chainlink VRF function once is more economical and allows for cost-savings.
-
-If you're not ready to summon your Aavegotchi immediately, that's okay too (For instance, you might be thinking of selling your portal, or just holding on to it for a while). You can opt out of this automatic entry on the Buy Portal interface. However, when you decide you want to finally summon your Aavegotchi, you will have to execute a separate transaction to place your portal in the next batch, and then wait for the Summoning Ritual to happen.
+After purchasing the portal, the very next step is to open it. Opening the portal occurs on the [Matic Network](/glossary#matic-network) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
 
 Here's a handy flow chart that summarizes the process:
 
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "Aavegotchi Portal" width = "750" />
-
-
-When the Summoning Ritual is done, you will need to submit one more transaction to open your portal and claim your friend. Each portal contains 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
+After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
 These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
-
 
 You can check out the trait range and rarity probabilities in this table here:
 
@@ -68,7 +61,7 @@ table_PortalTraitTable
 More information on rarity farming can be found [here](/rarity-farming).
 
 
-## Claiming an Aavegotchi
+## 아베고치 소환
 
 To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
@@ -94,8 +87,10 @@ For example, if the Base Rarity Score is less than 300, you need to stake at lea
 
 You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
-## Transferring your Aavegotchi
+
+## 여러분의 아베고치로 만들기
 
 Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 

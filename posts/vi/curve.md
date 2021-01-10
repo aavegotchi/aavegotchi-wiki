@@ -16,7 +16,8 @@ contributors:
 
 Token Bonding curve (TBC) là một vòng cung toán học cho thấy mối quan hệ giữa giá và lượng cung của token.
 
-Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tăng lên, và giảm khi lượng cung giảm. Do Aavegotchi, Bonding Curve được triển khai thông qua [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico) của Aragon nên bài viết này cũng sẽ bàn luận về các DAICO.
+Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tăng lên, và giảm khi lượng cung giảm. Do Aavegotchi, Bonding Curve được triển khai thông qua [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico) của
+Aragon</0> nên bài viết này cũng sẽ bàn luận về các DAICO.</p>
 
 <div class="contentsBox">
 
@@ -35,11 +36,15 @@ Trong một TBC điển hình, giá sẽ tăng khi lượng cung của token tă
 
 ## Cơ chế
 
+
+
 ### Đúc/Đốt theo nhu cầu
 
 Bonding Curves sử dụng một thuật toán giá để làm việc như ứng dụng tạo thị trường tự động và cung cấp một nguồn thanh khoản vô tận. Người dùng có thể tương tác với bonding curve bằng cách stake các token và trong quỹ dự trữ của bonding curve. Khi họ làm như vậy, bonding curve sẽ đúc ra các token để trả lại cho người dùng dựa trên thuật toán giá. Những token vừa đựa đúc có thể có những ứng dụng đặc thù và thậm chí là được giao dịch bởi người dùng những luôn có thể trao đổi lại thông qua bonding curve dành cho các token ở trong quỹ dự trữ của bonding curve.
 
 Khi một token được mua thông qua TBC, mỗi người mua sau sẽ phải trả giá cao hơn một chút cho mỗi token, tạo ra nhiều tiềm năng lợi nhuận cho những người đầu tư từ sớm. Khi nhiều người biết về dự án hơn và việc mua hàng tiếp diễn, giá trị của mỗi token sẽ tăng dần với bonding curve. Những nhà đầu tư sớm tìm ra dự án ở giai đoạn đầu, mua token từ bonding curve, và sau đó bán lại token để có lợi nhuận trong tương lại.
+
+
 
 ### Công thức
 
@@ -47,20 +52,21 @@ Bonding curve khác nhau về hình dạng và kích thước. Với những d�
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
 
+
+
 ### Giải thích công thức
 
 **Quỹ dự trữ Token** chính là những token mà người dùng stake trong bonding curve.
 
 ** Continuous Token** được hiểu là token nhận được từ bonding curve dựa trên việc stake Reserve Token.
 
-Trong trường hợp của Aavegotchi, Reserve và Continuous Token lần lượt là DAI và GHST.
+Trong trường hợp của Aavegotchi, Reserve và Continuous Token lần lượt là DAI và GHST. 
 
 **Connecting Weight** (cũng được hiểu là Reserve Ratio) đại diện cho một tỷ lệ cố định (giữa 0 và 100%) giữa tổng giá trị của Continuous Token (tổng lượng cung x đơn vị giá) và giá trị số dư của Reserve Token.  CW là một hằng số có được từ Công thức của Bancor bởi số dư của Reserve Token và tổng giá trị của Continuous Token (hay còn gọi là 'vốn hoá thị trường') luôn dao động với những lệnh mua và lệnh bán.
 
 Mỗi lệnh mua hoặc bán Continuous Token (GHST) sẽ khiến lượng Reserve Token (DAI) tăng hoặc giảm. Giá của Reserve Token sau đó phải được tính lại liên tục để duy trì Connecting Weight đã được cấu hình giữa chúng.
 
-
-Connecting Weight cho thấy giá của Continuous Token cần được điều chỉnh rõ rệt như thế nào để có thể cân đối mỗi giao dịch, hay nói cách khác, là độ nhạy cảm về giá.
+Connecting Weight cho thấy giá của Continuous Token cần được điều chỉnh rõ rệt như thế nào để có thể cân đối mỗi giao dịch, hay nói cách khác, là độ nhạy cảm về giá. 
 
 Tỷ lệ dự trữ cao hơn giữa số dư của Reserve Token và Continuous Token sẽ khiến độ nhạy cảm giá thấp đi, nghĩa là mỗi lệnh mua bán sẽ có ít hiệu ứng tương xứng trên đường đi giá các Token Continuous hơn. Ngược lại, tỷ lệ thấp hơn giữa số dư Reserve Token và Continuous Token sẽ khiến cho độ nhạy cảm về giá cao hơn, nghĩa là mỗi lệnh mua bán sẽ có ít hiệu ứng tương xứng với đường đi của giá các Token Continuous hơn.
 
@@ -70,14 +76,20 @@ Nếu bạn muốn thấy tận mắt cơ chế này, hãy xem qua mô hình tư
 
 THE CURVE NÉ VỜ ĐAI!
 
+
+
 ## Aavegotchi Bonding Curve
+
 Aavegotchi Bonding Curve đã được tạo ra vào ngày 14 Tháng Chín năm 2020 thông qua một hợp đồng bonding curve thông minh được vận hành bởi [Aragon Fundraising](https://fundraising.aragon.black/). Sau khi kết thúc đợ presale với khoảng 500.000 GHST, thì bonding curve này đã được mở ra ngay lập tức. Bonding curve có kích thước vô tận, có thời gian vô hạn, và chào bán với giá ban đầu là 0.2 DAI mõi GHST. Connecting weight của nó là 33%.
 
 Bạn cần phải hoàn thành thủ tục KYC để có thể mua/bán trực tiếp từ đường cong này. Tuân thủ pháp luật quan trọng lắm mấy bồ ơi - chúng ta sống trong một xã hội, và ta cũng không muốn dự án bị rút ruột bởi chính phủ. Lệnh mua thông qua bonding cure phải được thực hiện bằng DAI. Ngược lại cũng được, bạn có thể bán GHST lại cho bonding curve để lấy DAI, nhưng sao bạn lại làm thế cơ chứ? :( :( :(
 
 Nếu bạn không thể thực hiện KYC với quốc tịch của mình thì cũng đừng lo! **Bạn vẫn có thể tương tác với mọi phần của Aavegotchi metaverse.** Bọn có thể chỉ đơn giản là mua lại GHST từ một DEX ví dụ như Uniswap hoặc Balancer, hoặc một CEX như OKex chẳng hạn. Xem thêm về cách sở hữu GHST [tại đây](/ghst#get-ghst).
 
+
+
 ## Aavegotchi DAICO
+
 Decentralized Autonomous Initial Coin Offering (DAICO) là một hình thức gây quỹ mới với mong muốn kết hợp những đặc tính nổi trội nhất của Decentralized Autonomous Organization (DAO) với Initial Coin Offering (ICO) để tạo ra một cấu trúc để có thể mang đến một mô hình mở bán token gây vốn với độ hiệu quả cao hơn. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
 
 Dự án Aavegotchi đã triển khai một bonding curve thông qua một sự kiện DAICO trên Aragon.
@@ -86,13 +98,21 @@ Dự án Aavegotchi đã triển khai một bonding curve thông qua một sự 
 
 Vòng lặp đầu tiên của [AavegotchiDAO](/dao) đã được triển khai cùng lúc với sự phân bổ GHST trong bonding curve. Người nắm giữ GHST có quyền vote để tăng/giảm lượng tài sản được phân bổ thông qua cơ chế tap (quỹ dành cho nhà phát triển) của quỹ dự trữ token bonding curve (TBC) dành cho Pixelcraft Studios (team đằng sau Aavegotchi) để hỗ trợ phát triển dự án. Đề nghị AavegotchiDAO đầu tiên về việc tăng giới lượng tap của Aavegotchi DAICO từ 50.000 DAI lên thành 100.000 DAI mỗi tháng đã vượt quá 99% phiếu tán thành vào ngày 18 tháng Mười năm 2020.
 
+
+
 ## Những Động Lực Trong Lượng Cung Token của Aavegotchi
+
 Sau khi đã bàn luận về bonding curve/DAICO ở phía trên, chúng ta đã học được rằng tổng lượng cung của token GHST là một động lực. Khi các nhà đầu tư dùng DAI để mua GHST từ bonding curve, những token GHST được đúc và tổng lượng cung được phát hành của GHST sẽ tăng lên. Tình huống ngược lại vẫn đúng. Khi người dùng bán GHST lại cho bonding curve, họ sẽ nhận được một lượng DAI tương ứng dựa vào giá GHST thích hợp được thể hiện trên bonding curve.
 
 Tình trạng lạm phát của token GHST những lệnh mua hàng tịnh trên bonding curve tương quan tích cực với giá của GHST. **Bonding curve đang được lập trình toán học để khiến giá của GHST tăng lên khi lượng cung của GHST tăng lên.**
 
+
+
 ## Kiếm lợi nhuận từ chênh lệch giá
+
 Với những ai đã hoàn thành KYC, họ sẽ có thể kiếm lợi nhuận từ sự chênh lệch giá GHST giữ token bonding curve và những DEX khác ví dụ như Uniswap và Balancer. Theo [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage là việc mua và bán một tài sản để có thể kiếm lợi nhuận từ sự khác nhau về giá giữa các thị trường. Loại giao dịch này kiếm lời bằng cách khai thác sự khác nhau về giá giữa những công cụ tài chính giống hoặc tương tự nhau trong những thị trường hoặc những dạng khác nhau. Kiếm lợi nhuận từ chênh lệch giá tồn tại khi thị trường thiếu đi sự hiệu quả và do đó không nó không tồn tại nếu tất cả thị trường vận hành một cách hoàn hảo." Điều này có thể xảy ra bởi các DEXes được trang bị những công thức Tạo Thị Trường Tự Động (AMM) riêng biệt và các lệnh mua/bán tịnh của token GHST trên những DEX này sẽ dẫn đến việc giá bị khác đi so với giá trên token bonding curve. Một nhà đầu tư có hiểu biết có thể sẽ nghĩ đến việc khai thác sự kém hiệu quả của thịt trường (*nhá nhẹ xíu nha*).
+
+
 
 ## Tìm hiểu thêm
 

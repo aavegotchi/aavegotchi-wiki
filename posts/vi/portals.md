@@ -43,29 +43,22 @@ Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá g�
 
 Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal Summoning Ritual ~ (Nghi Lễ Triệu Hồi Qua Cánh Cổng) được triển khai. Cơ chế này giúp bạn có thể triệu hồi Aavegotchi cho mình.
 
-Bất cứ khi nào một người chơi mua một Portal, nó sẽ tự động được gộp vào một batch. Nghĩa là các Portal sẽ được nhóm lại thành chỉ một batch, có thể được vận hành trong chỉ một lần dùng [Chainlink VRF](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/). Khi khởi chạy, tất cả Portal trong batch sẽ được chỉ định một số ngẫu nhiên thông qua chương trình VRF đã được nói đến để đảm bảo rằng đặc điểm của Aavegotchi sẽ được thực sự ngẫu nhiên.
-
-Tại sao tớ không thể mở Portal ngay vậy? Tại sao lại phải đặt chung với những Portal khách trong batch? Bất cứ khi nào Chainlink VRF được khởi chạy, người vận hành sẽ phải dùng token Link để trả phí. Việc dùng LINK để chi trả cho việc mở riêng một cánh cổng khá là đắt đỏ! Càng mở nhiều Portal thì càng tốt tiền. Gộp các Portal lại với nhau để mở một lần và dùng Chainlink VRF một lần sẽ rẻ hơn và giúp tiết kiệm chi phí.
-
-Nếu bạn chưa muốn triệu hồi Aavegotchi ngay thì cũng không sao (Ví dụ như bạn muốn bán portal, hoặc chỉ muốn giữ trong một khoảng thời gian). Bạn có thể không tham gia vào quá trình tự động này trên giao diện Buy Portal. Tuy nhiên, khi bạn cuối cùng đã quyết định triệu hồi Aavegotchi, bạn sẽ phải thực hiện một giao dịch riêng để đặt cánh cổng vào batch tiếp theo, và sau đó đợi đến sự kiện Summoning Ritual khác.
+Sau khi mua portal, bước kế tiếp là mở nó ra. Portal sẽ được mở ra trên [Matic Network](/glossary#matic-network) khi người chơi ký vào một giao dịch. Sau khi giao dịch được kí, [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) sẽ được thực thi "phía sau cánh gà.". Sau khi hoàn thành, portal sẽ được chỉ định một số ngẫu nhiên để đảm bảo các chỉ số của Aavegotchi được ngẫu nhiên một cách công khai.
 
 Đây là một biểu đồ tóm tắt quá trình:
 
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Quá trình mở Portal trong Aavegotchi" />
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/portals/portal-flow.png" alt = "Aavegotchi Portal" width = "750" />
-
-
-Khi Summoning Ritual hoàn tất, bạn sẽ phải thực hiện thêm một giao dịch để mở portal và nhận về người bạn của mình. Mỗi cánh cổng có chứa 10 Aavegotchi khác nhau để bạn chọn, kêu gọi nó từ Nether realm. Bạn sẽ cần chọn 1 trong số 10 bé ma để triệu hồi. Số còn lại, tiếc thay, sẽ tan biến mãi mãi.
+Mỗi cánh cổng có chứa 10 Aavegotchi khác nhau để bạn chọn, kêu gọi nó từ Nether realm. Bạn sẽ cần chọn 1 trong số 10 bé ma để triệu hồi. Số còn lại, tiếc thay, sẽ tan biến mãi mãi.
 
 Những Aavegotchi này đều có những đặc điểm khác nhau được sinh ra một cách ngẫu nhiên. Khi chuyển đổi giữa các option, bạn có thể xem những đặc điểm này và [Base Rarity Score](/rarity-farming#base-rarity-score) thuộc về Aavegotchi của bạn. Đây là rarity score mà Aavegotchi có được lúc ban đầu, dựa trên những đặc điểm khởi đầu mà có sỡ hữu khi được triệu hồi. Rarity score này sau đó có thể được điều chỉnh thông qua một loạt các hoạt động, ví dụ như trang bị wearables cho Aavegotchi của bạn.
-
 
 Bạn có thể xem nhóm đặc điểm và tỷ lệ hiếm trong bản ở đây:
 
 table_PortalTraitTable
 
 
-Xem thêm thông tin về rarity farming tại [đây](/rarity-farming).
+Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
 
 
 ## Nhận Aavegotchi
@@ -80,7 +73,7 @@ Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ
 
 Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
 
-The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+Công thức sau dùng để suy ra lượng Spirit Force (collateral) cần có như sau:
 
 ```
 if (rarityScore < 300) return 10;
@@ -90,22 +83,24 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+Ví dụ, nếu Base Rarity Score thấp hơn, 300 thì bạn cần phải stake một lượng token có giá trị ít nhất 10 DAI để triệu hồi Gotchi.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
+
+Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. Đầu tiên, bạn cần phải cho phép hợp đồng thông minh dùng aToken trong ví bạn. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
 
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong Aavegotchi, thì có hai cách:
 
 1. **Giảm lượng tài sản ký gửi** trong Aavegotchi (nhưng không được dưới mức stake tối thiểu).
 
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
 
 
 

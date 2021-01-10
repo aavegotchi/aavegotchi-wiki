@@ -13,9 +13,9 @@ contributors:
 <p class="headerImageText">언제 GHST가 $5가 될까?</p>
 </div>
 
-토큰 이코노미? 누가 신경쓸까? 언제 올라가는 거야?
+토큰 이코노미? 어떻게 돌아가는 걸까? 언제 올라가는 거야?
 
-우리가 하고 여러분도 같이 해야만 합니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
+우리와 여러분이 함께 만들어가는 것입니다. 만약 GHST (또는 이런 류의 어떠한 프로젝트) 와 같은 프로젝트에 투자를 하실 계획이라면, 이렇게 광범위한 생태계가 어떻게 작동하는지를 꼭 이해해야 합니다. 이것이야말로 종국에 우리 모두가 친구들과 함께 승리할 수 있는 방법입니다.
 
 수익 배분과 토큰 이코노미에 대해 아베고치는 4가지 목표의 균형을 맞추려고 합니다.
 
@@ -64,103 +64,102 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 여기서 조성된 자금들은 100%의 예비율 (reserve ratio) 로 토큰 Bonding Curve 예치풀에 유동성을 부트스트랩 (bootstrap) 하도록 사용되었습니다.
 
-한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년간 채굴된 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
+한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년에 걸쳐 구매한 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
 
 이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
 
 
-**모두를 위한 Bonding Curve 판매**
+**모두에게 열린 Bonding Curve에 따른 판매**
 
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
+아베고치의 열렬한 팬들은 "Curve는 결코 끝나지 않는다!"라고 말합니다. Curve의 메커니즘에 대해 좀 더 자세히 알고 싶다면, 다음 [Curve(곡선)](/curve). 페이지를 꼭 확인해보세요
 
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
+이제는 GHST의 공급에 있어 어떠한 시공간적인 제약이 없습니다. 처음엔 가격이 0.2 DAI/ GHST로 형성이 되었으며 Cuve에 의해 변화합니다. 이전 판매와 달리 락업이 따로 없습니다. 즉 Curve에 의해 토큰을 구매 후 바로 소유할 수 있게 됩니다.
 
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
+KYC인증을 마치고 아베고치 팀에 의해 검증된 지갑 주소를 가진 누구든지 Curve로부터 바로 GHST를 구매할 수 있습니다.
 
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
-
-
-**Ecosystem Fund**
-
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 탭 메커니즘(tap mechansim) 을 통해 Pixelcraft Studios가 사용할 수 있습니다. 더 자세한 정보는 [여기](https://fundrasing.aragon.black)에서 확인할 수 있습니다.
 
 
-**Team Fund**
+**생태계 자금**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+아베고치 생태계에 이용될 자금은 1,000,000 GHST로 조성되어 있으며, 이전의 한정 판매, 특별 판매의 일정에 따라현재 락업되어 있습니다. 락업이 해제된 자금들은 아베고치 DAO V2.0에 의해 만들어진 제안들에 따라 효율적으로 이용될 수 있습니다. 그리고 아베고치에 속하진 않지만 상당한 기여를 한 핵심 멤버들의 개발에 대한 지원, 아베고치 DAO의 홍보, 마케팅 등 아베고치 Dao에 유용할 것이라고 판단되는 합당한 사례들에 이용될 수 있습니다.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
-## Revenue Sharing Overview
+**팀(Team) 자금**
 
-What happens to all the GHST spent on portals and wearables?
+팀 자금은 1,000,000 GHST로 구성되어 있으며, 한정판매 때와 동일한 일정에 따라 현재 락업 상태에 있습니다. 그러나 자금들에 대한 락업이 완전히 해제된다면, 3년에 걸친 지급 스케줄에 따라 분배될 것이고, 남아있는 자금들은 다시 2년 동안 새로운 지급 스케줄에 따라 락업될 것이고 아베코치 핵심팀에 배분될 것입니다.
 
-We've made a handy diagram that briefly breaks it down for you:
-<div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
+팀 자금은 주로 외부 고문들에 대한 보상뿐만 아니라 아베고치 핵심 멤버들이 프로젝트에 전력을 다할 수 있도록 장려하는데 사용됩니다.
+
+## 수익 배분 개관
+
+Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
+
+우리는 이를 여러분에게 설명하기 위한 유용한 도표를 만들었습니다.<div class="centerImageContainer">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "아베고치 토큰 이코노미">
 </div>
 
-Read on to learn about the various allocations in more detail.
+여러가지의 GHST 할당에 대해 자세히 알고 싶다면 게속 읽어주세요 :)
 
 
-## Rarity Farming
+## 희귀성 농사(Rarity Farming)
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+아베고치에서 즐길 수 있는 가장 핵심적인 경험은 여러분의 고치(Gochis) 들과 시간을 보내고 그들에게 장비(wearables) 를 입혀주는 것입니다. 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+이를 위해 전체 GHST 수입의 **40%**가 플레이어 보상의 차원으로 유저들에게 배분될 것입니다.
 
-Initially, there will be three categories of Player Rewards:
+초기엔 유저 보상에 3개의 차원으로 이루어질 것입니다.
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* BRS에 따라 가장 희귀한 아베고치 Top 100
+* 친밀도 점수 Top 100
+* 경험치(XP) Top 100
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+3개 차원에서의 보상을 모두 종합하게 되면 전체 GHST 수입의 40%가 됩니다. 각각의 비율은 현재 확정되지 않았지만 아베고치 DAO에서 토의할 것입니다.
 
-More categories will be added, as the game continues to develop.
+이외에도 게임이 계속해서 발전하게 된다면 더 많은 분야가 추가될 것입니다.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
-
-
-## DAO Governance
-
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
-
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+이러한 보상들은 온체인 스냅샷을 통해 2주마다 유저들에게 돌아갈 것입니다.
 
 
-## BURN BABY BURN
+## DAO 거버넌스
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. DAO의 책무(책임) 중 일부는 가치 있다고 판단되는 안건들에 대한 자금 관리를 포함합니다. (Waifu pics, maybe?)
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
-
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
-
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
-
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+수익의 **10%**는 처음에는 DAO의 자금으로 귀속될 것입니다. 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
 
 
-## Development Team
+## 소각 시스템(BURN BABY BURN)
 
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+시작하기에 앞서, GHST의 [bonding curve](/curve) 와 메커니즘에 대해 스스로 익숙해지는 것은 상당히 이롭습니다. Then, the fun begins.
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+portal과 아이템 판매 수익의 **33%**는 소각될 것입니다. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+이러한 상당히 높은 수치는 GHST가 역동적인 공급의 토큰이라는 사실에서 비롯됩니다. GHST의 공급은 수요에 따라 증가하므로 이러한 높은 소각률은 결코 토큰의 급격한 디플레이션(통화 수축) 을 의미하지 않습니다. 그건 고정된 공급량을 지닌 토큰에게만 해당되는 문제입니다.
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적으로 발생할 수 있는 GHST의 가격 하락 압박에 대한 디플레이션(통화 수축)의 기능으로써 균형을 잡아줍니다.
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
-
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+소각 주소로의 GHST 전송을 통해 bonding curve 내에 DAI가 락업되면 GHST의 가격 상승이 발생합니다. 이는 모든 당사자들에게 긍정적으로 작용하게 됩니다. 왜냐하면 구매자와 판매자에겐 더 나은 유동성을 제공함으로써 슬리피지를 감소시킬 수 있고, 유통량을 감소시키며, [DAICO 탭 메커니즘(Tap Mechanism)](/curve#aavegotchi-daico)이 안정적이게끔 하기 때문입니다.
 
 
+## 개발진
 
-**Final Words**
+끝으로, 적어도 가장 확실하게 수익의  **17%** 가 개발진에게 돌아가고 있습니다. 무엇보다도, 개발진들이 팀에서 모두를 위한 최상의 DeFi x NFT 결과물 제작 지원에 집중할 수 있도록 하는 것은 정말 중요합니다.
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+즉 우리 모두 사람이기에 프로토콜 개발자들을 위한 인센티브가 잘 조정되지 않는다면 프로토콜 개발은 실패로 돌아갈 수 밖에 없으며, 이것이야말로 아베고치가 막고자하는 문제입니다.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+만약 프로토콜 개발자들이 작업에 대한 보상으로 자체 토큰을 독점적으로 받게 된다면, 여러 비용들을 지불하기 위해 토큰을 팔 수 밖에 없을 것이고 이는 판매 압력으로 이어져 토큰의 가치가 회복되지 않는, 일명 잠재적인 '죽음의 소용돌이(spiral of death)' 시나리오에 처할 수 있습니다.
+
+그러나, 개발자들에게 어떠한 토큰들도 보수로 지급되지 않는다면, 인센티브가 강력하게 조정되지 않고 잘못된 결정으로 이어지는 원인이 될 수 있습니다.
+
+아베고치 bonding curve가 이러한 문제를 해결하는데, 커뮤니티가 통제하는 탭 메커니즘(Tap mechanism) 은 DAI를 매달 잔고에서 Pixelcraft Studios(메인 개발자들) 로 배분을 함으로써 적극적인 개발을 위한 예산 운용을 보장합니다.
+
+추가적으로, Pixelcraft는 GHST 수입의 17%을 받게 되는데, 이는 주로 GHST가 필요한 유동성 인센티브, 경품, 그리고 여타 홍보활동에 사용됩니다.
+
+
+
+**끝으로**
+
+가상화폐 세계에서 가장 중요한 것들 중 한가지, 그리고 왜 지속적인 유입이 나타나는지의 이유는 바로 이것이 결코 '제로섬' 게임이 아니기 때문입니다. 우리 모두가 함께 이득 보는 기회가 있으며 특히 DAO에서는 더욱 확실하다. 이제 어떻게 최선으로 이러한 기회를 만들어낼 것인가에 답해야 한다. 프로젝트의 토큰 이코노미를 이해하는 것은 우리에게 굉장한 출발점을 제공해줍니다.
+
+계속 읽고, 계속 플레이하라. See you one the moon soon, Aagent! 
 

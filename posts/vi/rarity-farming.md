@@ -38,7 +38,7 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 ## **Làm thế nào để có thể Farm Rarity?**
 Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farming. Bao gồm:
 
-* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
+* **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
 
 * **Trang bị [wearables](/posts/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
 
@@ -46,7 +46,7 @@ Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farm
 
 Để có nhiều thông tin hơn, hãy theo dõi đường link dẫn ở phần sidebar.
 
-Điều này có nghĩa là độ hiếm của mỗi Aavegotchi là có động lực và sẽ thay đổi theo thời gian, khi sự phân bổ của các đặc điểm và phụ kiện trong thế giới của Aavegotchi thay đổi. Nói cách khác, sẽ không đơn giản chỉ có chiến thuật tăng cao một đặc điểm nào đó trong Aavegotchi của bạn. Bajnc ũng cần phải xem xét hành động của người chơi khác. Ví dụ, nếu có quá nhiều người muốn chơi những bé gochi thành đánh nhau với điểm hiếu chiến cao, thì những đặc điểm này sẽ trở nên ít hiếm hơn, và độ hiếm Aavegotchi của bạn sẽ giảm xuống.
+Điều này có nghĩa là độ hiếm của mỗi Aavegotchi là có động lực và sẽ thay đổi theo thời gian, khi sự phân bổ của các đặc điểm và phụ kiện trong thế giới của Aavegotchi thay đổi. Nói cách khác, sẽ không đơn giản chỉ có chiến thuật tăng cao một đặc điểm nào đó trong Aavegotchi của bạn. Bạn cũng cần phải xem xét hành động của người chơi khác. Ví dụ, nếu có quá nhiều người muốn chơi những bé gochi thành đánh nhau với điểm hiếu chiến cao, thì những đặc điểm này sẽ trở nên ít hiếm hơn, và độ hiếm Aavegotchi của bạn sẽ giảm xuống.
 
 ## **Tính Toán Độ Hiếm**
 

@@ -44,10 +44,12 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
+<p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
+<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 </ol>
@@ -73,7 +75,7 @@ Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 stan
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" stands for **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
 
 
 Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
@@ -166,36 +168,50 @@ Việc này có thể làm được bằng nhiều cách khác nhau, những cơ
 
 ## Những Thuật Ngữ Chung
 
+### Metaverse
+Aragon là một dự án được định hướng bởi cộng đồng và có mã nguồn mở với sứ mệnh tăng cường sự tự do bằng cách tạo ra những công cụ mà các tổ chức phi tập trung có thể sử dụng.
+
+Sản phẩm fligship của dự án là Aragon client, một công cụ để tạo và tham gia vào những tổ chức phân tán trên Ethereum. Dự án cũng đang xây dựng Aragon Network, quyền lực pháp lý kỹ thuật số đầu tiên trên thế giới.
+
+Dự án Aragon được quản lý bởi Tổ chức Aragon, một tổ chức phi lợi nhuận có trụ sở tại Zug, Thuỵ Sĩ, và được quản trị bởi những người nắm giữ token Aragon Network.
+
+Xem thêm [website của họ](https://aragon.org/) tại đây.
+
 ### Bell Curve
 Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Một tiêu chuẩn token dành cho token có thể thay thế được, hay nói cách khác, chúng có một chức năng giúp mỗi Token sẽ giống hệt (về loại và giá trị) với một Token khác. Chúng có những chức năng ví dụ như chuyển khoản từ tài khoản này sang tài khoản khác, biết được số dư của token đó trong một tài khoản riêng lẻ cũng như tổng lượng cung của token tồn tại trên mạng lưới. Bên cạnh đó, nó cũng cung cấp những chức năng ví dụ như cho phép một tài khoản chứa token có thể tiêu xài token đó thông qua một tài khoản của bên thứ ba. Xem thêm tại [đây](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Một tiểu chuẩn mở, miễn phí miêu tả cách mà những token không thể thay thế hoặc độc nhất trên blockchain của Ethereum. Trong khi đã số các token đề có nhiều phiên bản khác nhau (mỗi token đề tương tự như những token khác) thì các ERC-721 đều là độc nhất.
 
-Think of them like rare, one-of-a-kind collectables.
+Hãy xem chúng như những món đồ sưu tập hiếm có, và độc nhất.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-721, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 là một bản mở rộng của tiêu chuẩn [ERC-721](/glossary#erc-721) và nó cho [token non-fungible](/glossary#nft) khả năng để có thể sở hữu những token non-fungible và token ERC-20 khác.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Token Non-fungible theo chuẩn ERC998 cũng được trang bị chuẩn ERC-721.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-998).
+
+### Matic Network
+Matic Network là một giải pháp mở rộng cho các blockchain công khai. Dựa trên công nghệ framework Plasma (Plasma MoreVP), với phương thức triển khai dựa trên tài khoản, Matic hỗ trợ tất cả các công cụ dành cho Ethereum đang tồn tại với những giao dịch nhanh và rẻ hơn.
+
+Đọc thêm về Matic Network tại [đây](https://matic.network/).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
 
 
-### Non-Fungible Token
+### Non-Fungible Token (NFT)
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại diện cho một thứ gì đó **độc đáo**, nghĩa là nó không thể được dùng để swap sang bất kỳ loại token nào. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
 

@@ -32,7 +32,7 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 <li><a href=#purchasing-raffle-tickets>Mua vé Raffle</a></li>
 <li><a href=#entering-raffles>Tham gia Raffle</a></li>
 <li><a href=#past-raffles-statistics>Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#more-resources>Thêm nguồn</a></li>
 </ol>
 
 </div>
