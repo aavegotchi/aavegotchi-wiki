@@ -9,7 +9,7 @@ contributors:
 
 Bist du neugierig, was für Aavegotchi geplant ist? Hier ist die Roadmap!
 
-The Aavegotchi team uses an iterative development flow built on upgradable contracts, allowing them to adapt based on feedback from the <a href="https://wiki.aavegotchi.com/community">community</a>. There will also be opportunities to participate for bug bounties. Once primary development is finished, the team will ensure that the contracts are audited.
+Das Aavegotchi-Team verwendet einen schrittweisen Entwicklungsablauf, der auf erweiterbaren Contracts aufbaut und es ihnen ermöglicht, sich an das Feedback der <a href="https://wiki.aavegotchi.com/community">Community</a> anzupassen. Es wird auch die Möglichkeit geben, bei Bug Bounties mitzumachen. Sobald die primäre Entwicklung abgeschlossen ist, stellt das Team sicher, dass die Contracts einem Audit unterzogen werden.
 
 <div class="contentsBox">
 
@@ -17,8 +17,8 @@ The Aavegotchi team uses an iterative development flow built on upgradable contr
 
 <ol>
 <li><a href=#q3-20>Q3 2020 </a></li>
-<li><a href=#q4-20>Early Q4 2020</a></li>
-<li><a href=#lateq4-20>Late Q4 2020</a></li>
+<li><a href=#q4-20>Anfang Q4 2020</a></li>
+<li><a href=#lateq4-20>Ende Q4 2020</a></li>
 <li><a href=#q1-21>Q1 2021</a></li>
 </ol>
 
@@ -27,24 +27,24 @@ The Aavegotchi team uses an iterative development flow built on upgradable contr
 <a name="q3-20"></a>
 <h2>Q3 2020</h2>
 <ul>
-<li>GHST token distribution</li>
-<li>Aavegotchi DAO 1.0 launches</li>
+<li>GHST Token Distribution</li>
+<li>Aavegotchi DAO 1.0 startet</li>
 </ul>
 
 <a name="q4-20"></a>
-<h2>Early Q4 2020</h2>
+<h2>Anfang Q4 2020</h2>
 <ul>
-<li>Aavegotchi testnet launches</li>
+<li>Aavegotchi Testnet startet</li>
 </ul>
 
 <a name="lateq4-20"></a>
-<h2>Late Q4 2020</h2>
+<h2>Ende Q4 2020</h2>
 <ul>
-<li>Aavegotchi Mainnet and AavegotchiDAO 2.0 launches</li>
+<li>Aavegotchi Mainnet und AavegotchiDAO 2.0 startet</li>
 </ul>
 <a name="q1-21"></a>
 <h2>Q1 2021</h2>
 <ul>
-<li>Rarity farming begins</li>
-<li>Aavegotchi Realm begins </li>
+<li>Rarity Farming beginnt</li>
+<li>Der Aavegotchi Realm startet </li>
 </ul>
