@@ -173,45 +173,45 @@ Aragon ist ein Open Source, Community-getriebenes Projekt mit der Mission, die U
 
 Das Flaggschiffprodukt des Projekts ist der Aragon Client, ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Das Projekt baut auch das Aragon Network, die erste digitale Jurisdiktion der Welt.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Das Aragon Projekt wird von der Aragon Association verwaltet, einer Non-Profit-Organisation mit Sitz in Zug (Schweiz), die von den Besitzern der Aragon Network Token verwaltet wird.
 
-Check out their [site](https://aragon.org/) here.
+Schau dir ihre [Seite](https://aragon.org/) hier an.
 
 ### Glockenkurve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Ein Token-Standard für fungible Token. Mit anderen Worten haben sie eine Eigenschaft, die jeden Token genau gleich (in Typ und Wert) wie einen anderen Token macht. Es bietet Funktionen wie das Übertragen von Token von einem Konto auf ein anderes, das Abrufen des aktuellen Token-Guthabens eines Kontos und auch den Gesamtvorrat der im Netzwerk verfügbaren Token. Daneben gibt es noch einige andere Funktionen, wie z.B. die Freigabe einer bestimmten Menge an Token, die von einem Drittanbieterkonto ausgegeben werden können. Weitere Informationen findest du [hier](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Ein freier, offener Standard, der beschreibt, wie man nicht-fungible oder einzigartige Token auf der Ethereum Blockchain baut. Während die meisten Token fungibel sind (jeder Token ist derselbe wie jeder andere Token), sind ERC-721 Token alle einzigartig.
 
-Think of them like rare, one-of-a-kind collectables.
+Stell sie dir wie seltene, einzigartige Sammlerstücke vor.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Eine ausführliche Erklärung, was der ERC-721 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 ist eine Erweiterung des [ERC-721](/glossary#erc-721) Standards, der die Fähigkeit für [nicht-fungible Token](/glossary#nft) hinzufügt, andere nicht-fungible Token und ERC-20 Tokens zu besitzen.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Nicht-fungible Token, die ERC998 implementieren, implementieren auch den ERC-721 Standard.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-998).
 
 ### Matic Netzwerk
-Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Das Matic Netzwerk ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
 
-Read more about Matic Network [here](https://matic.network/).
+Lies mehr über das Matic Netzwerk [hier](https://matic.network/).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
 
 
-### Non-Fungible Token
+### Nicht-fungibler Token
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
 
