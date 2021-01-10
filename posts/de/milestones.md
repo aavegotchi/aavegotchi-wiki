@@ -110,32 +110,32 @@ contributors:
 ## [Spoookyy. Begrüss unsere Freunde aus ihren Portalen](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
 * Am 13. Oktober 2020 ist es soweit. Begrüsse unsere spooky Freunde aus ihren Portalen auf dem Kovan Testnet. Whooooo!
 
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
+## [Bereit dafür? Sieger des Aavegotchi Meme Wettbewerbs!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* Wir verkünden die Gewinner des Mission 8 Aavegotchi Meme Wettbewerbs am 10. Oktober 2020! Wahnsinn!
+* Offener Aufruf für Aavegotchi Aartists
 
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+## [Sonderedition OKEx Kleidungsstücke](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* Wichtige Ankündigung am 7. Oktober 2020! Hol dir die Sonderedition Aavegotchi x OKex Kleidungsstück-NFTs, indem du GHST auf OKex einzahlst
 
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* Gotchi memes flooooding Aavegooootchi Reddit!
+## [Uniswap GHST-ETH Paar Staking live auf dem Kovan Testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* Launch des Uniswap LP Stakings des GHST-ETH Paares auf dem Kovan Testnet am 2. Oktober 2020
+* Gotchi Memes überschwemmen den Aavegooootchi Subreddit!
 
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
+## [GHST Staking live auf dem Kovan Testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* GHST STAKEN UND FRENS GENERIEREN!!!!! Wurde am 29. September 2020 auf dem Kovan Testnet live geschaltet!
 
-## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+## [Portale live auf dem Kovan Testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* Aavegotchi-Portale sind ab dem 25. September 2020 auf dem Kovan Testnet live!
+* Erste Reise des AavegotchiDAO Taps: Hinzufügen von GHST-Liquidität auf Uniswap
+* Die Gewinner für Mission 7 "Just DAO it!" stehen fest
 
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+## [Aavegotchi und Chainlink sind befreundet!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* BEFREUNDET MIT CHAINLINK! Am 24. September 2020 erklärt Coderdan, was die Verifiable Random Function (VRF) von Chainlink ist und wie Aavegotchi sie nutzt
+* Siehe diesen [hilfreichen Chainlink Artikel](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) für eine ausführlichere Erklärung des Chainlink VRF
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [Der Vorverkauf war in weniger als einer Minute ausverkauft!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST ist am 14. September 2020 auf dem Mainnet gestartet! Der Vorverkauf war in unter einer Minute ausverkauft! :O
+* GHST-Token im Besitz von über 2000 einzigartigen Adressen! This is yuuuugggeeeee
 
 ## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
 * On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
