@@ -42,12 +42,12 @@ Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt ke
 
 [**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Erstelle ein AAVEGOTCHI (im Testnet) mit unserem Aavegotchi-Builder, adoptiere dein Gotchi als deinen Avatar (für 72 Stunden) und teile deine Kreation mit dem Rest der Aavegotchi Fam!
 
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
+[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Schau dir unser neues Wiki an! Wähle zwei Dinge aus, die deiner Meinung nach nützlich sein könnten, um das Wiki zur bestmöglichen Ressource zu machen.
 
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Sei ein Moovie Star! Markiere 2 deiner Lieblings-Krypto-Youtuber und lass sie wissen, dass die #GotchiGang unterwegs ist!
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+Herzlichen Glückwunsch, du bist nun ein offizieller Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
