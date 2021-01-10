@@ -69,7 +69,7 @@ ist derzeit für den 4. Januar 2021 geplant, also besuche jetzt unsere <a href="
 
 &nbsp;
 
-Wir freuen uns, dich zu begrüssen! Head over to any of our channels or our [missions page](/missions) to learn more.
+Wir freuen uns, dich zu begrüssen! Schau auf einem unserer Kanäle oder auf unserer [Missionsseite](/missionen) vorbei, um mehr zu erfahren.
 
 
 
