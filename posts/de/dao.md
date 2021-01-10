@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'Alles über den AavegotchiDAO'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">Das Wappen des AavegotchiDAO</p>
 </div>
 
 A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
