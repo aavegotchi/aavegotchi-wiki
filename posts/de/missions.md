@@ -48,6 +48,6 @@ Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt ke
 
 &nbsp;
 
-Herzlichen Glückwunsch, du bist nun ein offizieller Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+Herzlichen Glückwunsch, du bist nun ein offizieller Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Schliess dich uns an, solange du noch kannst - [Tritt unserem Discord bei um loszulegen!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
