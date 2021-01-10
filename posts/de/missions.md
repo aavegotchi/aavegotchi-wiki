@@ -17,30 +17,30 @@ contributors:
 
 Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt kennenzulernen. Die meisten sind einfache Aufgaben (mit Ausnahme von nur einer, die ein bisschen mehr Nachdenken erfordert) und können erledigt werden, wann immer es die Zeit erlaubt und in jeder beliebigen Reihenfolge. Wenn du alle Aufgaben erledigst, wirst du von unseren Aaprentices hochgelevelt, bis du den vollen Aagent-Status erreichst! Achte nur darauf, dass du vor dem Launch des Mainnets in damit fertig bist, da unser Aagenten-Programm nur bis dahin läuft. Beim Launch des Mainnets erhalten Aagenten, die **alle Aavegotchi Missionen abgeschlossen haben**, ein **komplettes Aagent Kleidungsstück-Set exklusiv für Aavegotchi-Aagenten.**
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY MAINNET LAUNCH ON 4 JANUARY 2021!**
+**ALLE 12 MISSIONEN MÜSSEN BIS ZUM MAINNET LAUNCH AM 4. JANUAR 2021 ABGESCHLOSSEN SEIN!**
 
 &nbsp;
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Kommentar im Aavegotchi Litepaper.
 
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
+[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Lade einen Freund in den Discord ein.
 
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
+[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Füge dem Aavegotchi Community Pitch Papier ein oder zwei Sätze hinzu.
 
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
+[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweete uns auf Twitter, sag uns, warum du Aavegotchi liebst und markiere zwei Freunde.
 
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
+[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stell eine Frage in unserem Telegram.
 
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
+[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Nutze unser Testnet, um Testnet (nicht echtes) GHST von der Testnet Bonding Curve zu kaufen (die KEIN KYC erfordert - die echte Bonding Curve schon, aber **du kannst alle Missionen ohne KYC abschliessen). ** Hier wirst du plötzlich zum Experten in der Nutzung von Testnets, wenn du es vorher nicht warst, und wirst dich superschlau fühlen, wenn du jedem helfen kannst, der nach dir kommt. Wenn du bei Mission 6 nicht weiterkommst, frag uns! Wir freuen uns, wenn wir unsere Aagenten unterstützen können.
 
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
+[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stimme über einen Aavegotchi Governance Vorschlag ab.
 
-[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
+[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Zeit für Memes! Erstelle ein Meme zum Thema Aavegotchi in einer beliebigen Sprache und poste es in unserem Meme-Thread auf Reddit.
 
-[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
+[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Unsere anspruchsvollste Mission) Schreib einen kurzen Artikel oder erstell ein kurzes Video über Aavegotchi (300 Wörter für Artikel, oder 30 Sekunden für Videos). Veröffentliche deine Kreation auf der Plattform deiner Wahl (es gibt mehrere Optionen für jede) und retweete uns ein weiteres Mal zusammen mit dem Link zu deinem tollen Content.
 
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
+[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Erstelle ein AAVEGOTCHI (im Testnet) mit unserem Aavegotchi-Builder, adoptiere dein Gotchi als deinen Avatar (für 72 Stunden) und teile deine Kreation mit dem Rest der Aavegotchi Fam!
 
 [**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
 
