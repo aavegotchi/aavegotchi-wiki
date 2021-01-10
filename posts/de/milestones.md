@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: 'Meilensteine'
+description: 'Meilensteine des Aaavegotchi Projekts'
 contributors:
   - "unintelligent-nerd"
 ---
 
-## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Matic Network at a later date
-* Aagent missions have finally concluded!
-* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
-* Aavegotchi looking for Aambassadors!
+## [Aavegotchi verschiebt den Start des Mainnets](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* Der Start des Mainnets am 4. Januar 2021 wurde aufgrund von extremer Netzwerküberlastung verschoben :(
+* Die Community hat abgestimmt und die Entscheidung getroffen, zu einem späteren Zeitpunkt auf dem Matic Netzwerk zu starten
+* Die Missionen der Agenten sind endlich abgeschlossen!
+* Aavegotchi Shop Kleidungsstücke enthüllt! Schaue [hier](/wearables) vorbei, um sie zu sehen
+* Aavegotchi sucht nach Aambassadors!
 
 ## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
+* Was du über das kommende Rarity Farming wissen musst! Angekündigt am 2. Januar 2021.
 
-## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+## [aUNI und aYFI als Aavegotchi Sicherheiten ausgewählt](https://twitter.com/aavegotchi/status/1345026523263238145)
+* Die Community hat gesprochen! Am 1. Januar 2021 wurde bekannt gegeben, dass die Mehrheit der Wähler aUNI und aYFI als die nächsten Aavegotchi Sicherheiten gewählt hat!
 
-## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Ready up frens! This 29 December 2020 announcement is biiigg!
+## [Die letzte Aavegotchi-Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* Mach dich bereit! Diese Ankündigung vom 29. Dezember 2020 ist wirklich wichtig!
 * Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
 * Yessss, there's another party on New Year's Eve!
 * The Final Mission is released! You are now Moovie Staars frens!
@@ -71,7 +71,7 @@ contributors:
 ## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 * With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+## [Mach dich bereit!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 * Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
 
 ## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
