@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Metaverse'
-description: 'All about the Aavegotchi Metaverse'
+description: 'Alles über das Aavegotchi Metaverse'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
