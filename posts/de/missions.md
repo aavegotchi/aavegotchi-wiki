@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: 'Missionen'
+description: 'Alles über die Aavegotchi Missionen'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -10,12 +10,12 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">Aagents bei der Arbeit</p>
 </div>
 
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
+<p style="font-size:25px; font-style: italic;"><b>"Deine Mission, solltest du dich entscheiden, sie anzunehmen..."</b></p>
 
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt kennenzulernen. Die meisten sind einfache Aufgaben (mit Ausnahme von nur einer, die ein bisschen mehr Nachdenken erfordert) und können erledigt werden, wann immer es die Zeit erlaubt und in jeder beliebigen Reihenfolge. Wenn du alle Aufgaben erledigst, wirst du von unseren Aaprentices hochgelevelt, bis du den vollen Aagent-Status erreichst! Achte nur darauf, dass du vor dem Launch des Mainnets in damit fertig bist, da unser Aagenten-Programm nur bis dahin läuft. Beim Launch des Mainnets erhalten Aagenten, die **alle Aavegotchi Missionen abgeschlossen haben**, ein **komplettes Aagent Kleidungsstück-Set exklusiv für Aavegotchi-Aagenten.**
 
 **ALL 12 MISSIONS MUST BE COMPLETED BY MAINNET LAUNCH ON 4 JANUARY 2021!**
 
