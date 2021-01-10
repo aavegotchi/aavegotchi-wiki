@@ -1,41 +1,41 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+title: 'Marktplatz'
+description: 'Aavegotchi Marktplätze'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces.
+Aavegotchi Lotterie-Tickets und Kleidungsstücke-Gutscheine können auf verschiedenen Marktplätzen zwischen Spielern gehandelt werden.
 
-Currently, [OpenSea](https://opensea.io/) is the most accessible marketplace where trades take place. In the future, Aavegotchi will host their own internal marketplace for gamers to trade among themselves.
+Derzeit ist [OpenSea](https://opensea.io/) der am besten zugängliche Marktplatz, auf dem gehandelt wird. In Zukunft wird Aavegotchi einen eigenen internen Marktplatz bereitstellen, auf dem die Spieler untereinander handeln können.
 
-As more Aavegotchi assets become available, there will be more categories of assets that are available for trading (e.g. portals, the Aavegotchis themselves, etc).
+Sobald mehr Aavegotchi-Assets verfügbar sind, wird es mehr Kategorien von Assets geben, die für den Handel verfügbar sind (z.B. Portale, die Aavegotchis selbst, etc.).
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
+<li><a href=#collection-addresses>Adressen der Kollektionen</a></li>
 <li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#precautions>Vorsichtsmassnahmen</a></li>
 </ol>
 
 </div>
 
-## Collection Addresses
+## Adressen der Kollektionen
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+Die folgende Tabelle zeigt die offiziellen Smart Contract Adressen für die verschiedenen Aavegotchi Assets. Bevor du einen Kauf auf einem Marktplatz tätigst, solltest du den Contract des Vermögenswertes, den du kaufen möchtest, mit dem entsprechenden Contract in der untenstehenden Tabelle abgleichen (z.B. wenn du beabsichtigst, ein Lotterie-Ticket zu kaufen, überprüfe die Adresse des Ticket-Contracts, bevor du fortfährst).
 
 table_smartcontracts
 
 ## OpenSea Tutorial
 
-The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
+Das OpenSea-Tutorial ist ein Beispiel dafür, wie man eine grundlegende Sorgfaltsprüfung vornimmt, bevor man einen Kauf auf OpenSea tätigt. Das Tutorial ist nicht vollständig; Lotterie-Tickets werden als Beispiel verwendet. Du kannst das gleiche Prinzip auf andere Asset-Kategorien ausweiten (z.B. Kleidungsstücke, etc.).
 
-Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
+Lotterie-Tickets bezeichnen die Tickets, die zur Teilnahme an Aavegotchi-Lotterien verwendet werden. Es gibt sie in 6 verschiedenen Arten: (1) Gewöhnlich, (2) Ungewöhlich, (3) Selten, (4) Legendär, (5) Mythisch und (6) Göttlich. Visually, they look like the following image.
 
 <img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
 
@@ -62,7 +62,7 @@ Using Godlike Raffle Tickets as an example, verify the following:
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## Vorsichtsmassnahmen
 
 It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
