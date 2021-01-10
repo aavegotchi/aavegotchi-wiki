@@ -2,12 +2,12 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+description: 'Die Aavegotchi Roadmap'
 contributors:
   - "hackingmoneyph"
 ---
 
-Curious about what's in store for Aavegotchi? Here is the road(map) to mainnet!
+Bist du neugierig, was für Aavegotchi geplant ist? Hier ist die Roadmap!
 
 The Aavegotchi team uses an iterative development flow built on upgradable contracts, allowing them to adapt based on feedback from the <a href="https://wiki.aavegotchi.com/community">community</a>. There will also be opportunities to participate for bug bounties. Once primary development is finished, the team will ensure that the contracts are audited.
 
