@@ -2,7 +2,7 @@
 author: letsgobankless
 date: '2020-11-28T07:00:00.000Z'
 title: 'GHST Token'
-description: 'The eco-governance token of Aavegotchi'
+description: 'Der Öko-Governance-Token von Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
@@ -14,50 +14,50 @@ contributors:
 <p class="headerImageText">GHST Token</p>
 </div>
 
-Price action and trading is cool, but what else can you do with Aavegotchi’s native token, GHST?
+Kursbewegungen und Trading ist cool, aber was kannst du sonst noch mit Aavegotchis nativem Token, GHST, machen?
 
-The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Aavegotchi assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, GHST also has several other functions, such as staking and enabling players to vote in the DAO.
+Der Token soll als Basis-Ökosystemwährung für den Kauf von verschiedenen On-Chain-Aavegotchi-Assets verwendet werden. Dazu gehören unter anderem Portale, Kleidungsstücke, Consumables, Sammlerstücke und vieles mehr. Darüber hinaus hat GHST noch einige andere Funktionen, wie z.B. das Staking und die Möglichkeit für Spieler, im DAO abzustimmen.
 
-Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
+In diesem Teil unseres Wikis werden wir uns diese glänzenden runden lila Dinger etwas genauer unter die Lupe nehmen.
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#why-ghst>Why GHST?</a></li>
-<li><a href=#using-ghst>Using GHST</a></li>
-<li><a href=#buying-ghst>Buying GHST</a></li>
-<li><a href=#earning-ghst>Earning GHST</a></li>
+<li><a href=#why-ghst>Warum GHST?</a></li>
+<li><a href=#using-ghst>GHST verwenden</a></li>
+<li><a href=#buying-ghst>GHST kaufen</a></li>
+<li><a href=#earning-ghst>GHST verdienen</a></li>
 </ol>
 
 </div>
 
-## Why GHST
-User incentives play a huge part in any project. In this case, GHST provides the economic incentives to encourage greater participation in the Aavegotchi ecosystem. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
+## Warum GHST
+Anreize für Nutzer spielen in jedem Projekt eine grosse Rolle. In diesem Fall bietet die GHST die wirtschaftlichen Anreize, um eine stärkere Beteiligung am Aavegotchi Ökosystem zu fördern. Insbesondere hilft der Token dabei, die jeweiligen Ziele des AavegotchiDAO, der GHST-Besitzer und der Aavegotchi-Besitzer in Einklang zu bringen.
 
-Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+Spieler müssen GHST kaufen und es im Prozess der Beschwörung und Ausbildung von Aavegotchis ausgeben. Ein Teil davon wird direkt zurück an den DAO überwiesen, um die Entwicklung des Ökosystems weiter zu finanzieren. Gleichzeitig wird ein Teil auch als Belohnung für kluges Management des DAO und als Belohnung für das Betreiben von Rarity Farming verteilt.
 
-For more information, make sure to check out the pages under 'Tokenomics' in the sidebar.
+Weitere Informationen findest du auf den Seiten unter "Tokenomics" in der Sidebar.
 
-## Using GHST
-What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
+## GHST verwenden
+Was kannst du mit GHST machen, ausser es zu kaufen und dich zu wundern, "when moon"? Eine ganze Menge, und wenn du erst einmal die verschiedenen Möglichkeiten zur Nutzung von GHST kennengelernt hast, haben wir das Gefühl, dass du den Verkauf noch einmal überdenken wirst.
 
-These include:
+Dazu gehören:
 
-* Buying [portals](https://wiki.aavegotchi.com/portals) to summon Aavegotchis
-* Buying [wearables](https://wiki.aavegotchi.com/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](https://wiki.aavegotchi.com/metaverse) (more information TBC)
-* [Stake GHST](https://wiki.aavegotchi.com/en/staking), make FRENS, buy tickets and win raffle prizes
+* [Portale](https://wiki.aavegotchi.com/portals) kaufen, um Aavegotchis zu beschwören
+* [Kleidungsstücke](https://wiki.aavegotchi.com/wearables) kaufen, um dein Aavegotchi anzuziehen
+* [REALM Grundstücke](https://wiki.aavegotchi.com/metaverse)</a> kaufen (bald mehr Infos dazu)
+* [GHST staken](https://wiki.aavegotchi.com/en/staking), FRENS generieren, Tickets kaufen und Lotterie-Preise gewinnen
 
-## Buying GHST
+## GHST kaufen
 Get your wallets (preferably Metamask) ready - there are two main ways to buy GHST tokens.
 
 You can either buy it straight from the [curve](https://aavegotchi.com/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as Uniswap and Matcha, as well as CEXes like OKex and Binance, carry GHST.
 
 Make sure you get the correct token address as well: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Please verify this link against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
-## Earning GHST
+## GHST verdienen
 Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
 
 There are several ways to grind it out and earn GHST. These include:
