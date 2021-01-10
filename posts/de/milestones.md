@@ -22,51 +22,51 @@ contributors:
 
 ## [Die letzte Aavegotchi-Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
 * Mach dich bereit! Diese Ankündigung vom 29. Dezember 2020 ist wirklich wichtig!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
+* Lotterie 3 Kleidungsstücke (mit dem Thema Ethereum) enthüllt! Die Lotterie startet am 31. Dezember 2020 auf unserer Silvesterparty!
+* Yessss, es gibt wieder eine Party an Silvester!
+* Die letzte Mission ist veröffentlicht! Ihr seid jetzt Moovie Staars!
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+## [Update: Einem Kumpel aushelfen](https://twitter.com/aavegotchi/status/1343184902083121157)
+* Am 27. Dezember 2020 haben wir den gesammelten Betrag für santagotchi.eth ermittelt. Wir haben mehr als 10k gesammelt, um unserem Freund zu helfen, der sein Geld verloren hat.
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
-* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+## [Stimme für den nächsten aToken ab!](https://twitter.com/aavegotchi/status/1341054376132034564)
+* Ab dem 22. Dezember 2020 kannst du auf Twitter und Snapshot für die nächsten zwei aTokens abstimmen, die in Aavegotchi aufgenommen werden.
+* Mit aBUSD, aSUSD, aYFI, und aUNI!
 
-## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+## [Hilfe für unseren Freund](https://twitter.com/aavegotchi/status/1339738554906243072)
+* Ankündigung am 18. Dezember 2020. Hilf unserem Freund, der alle seine Gelder verloren hat, indem du einen beliebigen ERC20 Token im Wert von mehr als $20 spendest und erhalte einen Santagotchi Hut!
 
-## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Community update published on 12 December 2020!
-* 4 January 2021 Aavegotchi launch date confirmed!
-* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+## [Aave-Lotterie beendet!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+* Community Update veröffentlicht am 12. Dezember 2020!
+* 4. Januar 2021 Aavegotchi Launchtermin bestätigt!
+* Die Lotterie mit dem Thema Aave war ein voller Erfolg! 66% mehr Lose als bei der Chainlink-Lotterie
+* Binance notiert GHST Token
+* Hilf einem Freund! Ein Nutzer hat seine gesamten LINK Bestände in den GHST Staking Contract geschickt :(
+* GHST 3 Month Anniversary Paarrttaaay am 14. Dezember 2020!
+* Jesses Präsentation mit CGC zum Thema "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Schau es dir on-demand auf unserer [Medien](/posts/media) Seite hier an!)
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [Aavegotchi Gameplay soll am 4. Januar 2021 erscheinen](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* Am 12. Dezember 2020 veröffentlicht Coindesk einen Artikel, in dem der Launch des Aavegotchi Gameplay am 4. Januar 2021 angekündigt wird. Bist du aufgeregt? Ich bin es definitiv!
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [Aave kündigt Bonus Aave NFTs in der kommenden Aavegotchi Lotterie an](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* Am 6. Dezember 2020 kündigt Aave einen Aave * Aavegotchi Fireside Chat am 8. Dezember 2020 an, um die Aave-Lotterie einzuleiten
+* Die Lotterie mit dem Thema Aave beinhaltet Bonus Frens4Ever NFTs! Schnapp dir ein CoderDangotchi und ein Jessegotchi wenn du kannst!
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+## [Aavegotchi Gelehrte! Das Aavegotchi Wiki ist da!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Launch des Aavegotchi Wiki am 27. November 2020. Aagents, wir brauchen eure Hilfe, um das Wiki zu füllen!
+* Aavegotchi zweimal nominiert bei den NFT Awards 2020. Woohoo!
+* Beep! Aavegotchi stellt einen Spieleentwickler ein! Interessierte können sich der Fam anschliessen!
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+## [Peek a boo! Preisliste der Aave-Lotterie](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* Ein kleiner Vorgeschmack auf die Aavevengers Superhero Kleidungsstücke am 25. November 2020.
+* Mit Marc, Jordan und Stani-gotchi Kleidungsstücken!
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+## [Aave investiert in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave gab am 23. November 2020 offiziell die Investition in Pixelcraft Studios bekannt
+* FYI Pixelcraft Studios ist das Entwicklerteam für Aavegotchi
 
 ## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+* Eine Aavegotchi ❤ Chainlink Fan Fiction, geschrieben von unserem eigenen Aapprentice [Appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
 
 ## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 * With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
