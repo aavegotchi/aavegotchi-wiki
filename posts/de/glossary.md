@@ -75,7 +75,7 @@ Kleidung/Ausrüstung, die dein Aavegotchi trägt. Sie entsprechen dem ERC-1155 S
 
 ## DeFi 101
 
-"DeFi" steht für **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" steht für **De**centralized **Fi**nance. Man kann es sich als ein Ökosystem von Anwendungen und Protokollen vorstellen, die ähnliche Dienste wie traditionelle Finanzinstitutionen anbieten (z.B. Kreditvergabe, Kreditaufnahme, Verzinsung von Sparguthaben, etc.). Es gibt jedoch einen entscheidenden Unterschied - DeFi zielt darauf ab, dies dezentral und ohne Drittpartei zu tun.
 
 
 That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
