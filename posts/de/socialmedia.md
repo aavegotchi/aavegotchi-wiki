@@ -2,17 +2,17 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Social Media'
-description: 'All about the Aavegotchi Community'
+description: 'Alles über die Aavegotchi Community'
 contributors:
   - "eris771"
 ---
 
 <div class="headerImageContainer">
 <img src="/socialmedia/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">Hello, fren!</p>
+<p class="headerImageText">Willkommen!</p>
 </div>
 
-Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.
+Willkommen bei der Aavegotchi Fam! Unsere Community ist eine lebendige Gruppe, die verrückt nach Aavegotchi ist. Wir sind auf verschiedenen Kanälen unterwegs, also kannst du uns dort finden, wo es dir am besten gefällt - aber verpasse auf keinen Fall unseren Discord, wenn du zum Aavegotch Aagent Status aufsteigen willst! Unsere Aavegotchi Aagents sind ein zentraler Teil unserer Community, mit tiefgreifendem Aavegotchi-Wissen und speziellen Aagent Kleidungsstücken. Lies weiter, um mehr darüber zu erfahren, wie du ein Aagent werden kannst, sowie über die vielen Wege, wie du dich mit der GotchiGang verbinden kannst.
 
 <a name="Discord"></a>
 
@@ -32,52 +32,44 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 &nbsp;
 
-<a href="https://discord.com/invite/NPwnWB6" target = "_blank"><img src="/socialmedia/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Join Us on Discord**</a>
+<a href="https://discord.com/invite/NPwnWB6" target = "_blank"><img src="/socialmedia/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**Tritt unserem Discord bei**</a>
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>6,000+ members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
- fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
-Our Discord is also a great spot for anyone with general questions, not so general questions, those who need technical support, or any frens who want to just 
-pop in and chat. </p>
+<p style="margin-left: 4.8em">Unsere Aavegotchi Discord Fam ist <b>6.000+ Mitglieder stark.</b> Für Gotchi-Noobs ist unser Discord der beste Anlaufpunkt, mit einer Fülle von grundlegenden Informationen über das Aavegotchi Projekt sowie unseren Aavegotchi Aaprentices, unserem eigenen Aassistant und einer Vielzahl von hilfreichen Community Mitgliedern.  
+Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen haben, weniger allgemeine Fragen, Leute mit technischen Problemen oder solche, die einfach nur mal reinschauen und chatten wollen. </p>
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
-is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
+<p style="margin-left: 4.8em">Wichtig ist, dass der Aavegotchi Discord auch der <b>EINZIGE</b> Ort ist, an dem du die Aavegotchi-"Missionen" erledigen kannst. Das Erfüllen von Missionen (von denen es derzeit elf gibt) erhöht deinen Aagent-Rang und verschafft dir ein <b>exklusives Aavegotchi Aagent Kleidungsstück Set</b>, wenn du sie <b>alle vor dem Launch des Mainnets abschliesst.</b> Das Mainnet
+ist derzeit für den 4. Januar 2021 geplant, also besuche jetzt unsere <a href="https://wiki.aavegotchi.com/en/missions">Missionsseite</a> für weitere Informationen, wie du aufleveln kannst!
 </p>
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a>
+<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Besuche uns auf Medium**</a>
 
-<p style="margin-left: 4.8em">The Aavegotchi Medium page is a great place for readers who want to keep up with the Aavegotchi project. This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
+<p style="margin-left: 4.8em">Die Aavegotchi Medium Seite ist ein grossartiger Ort für Leser, die über das Aavegotchi Projekt auf dem Laufenden bleiben wollen. Hier findest du ausführliche Community-Updates, sowie detaillierte Informationen zu <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien,</a> Events und manchmal stösst du sogar auf<a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi Fan-Fiction.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
-<a href="https://twitter.com/aavegotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/twitter.png" alt = "aavegotchi twitter" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Follow Us on Twitter**</a>
+<a href="https://twitter.com/aavegotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/twitter.png" alt = "aavegotchi twitter" width="58" height="58"> &nbsp;&nbsp;&nbsp;**Folg uns auf Twitter**</a>
 
-<p style="margin-left: 4.8em">Twitter is our super-efficient news venue. Here you can keep up with all Aavegotchi events in 280 characters or less, from news
- about our community parties (!) to important progress updates and a latest who’s-who on the most recent converts to our Aavegotchi cause 
-(see <a href=https://twitter.com/aavegotchi/status/1313813072717389824">Jay Hao updates 
-Twitter avatar</a>).</p>
+<p style="margin-left: 4.8em">Twitter ist unser super-effizienter News-Treffpunkt. Hier kannst du dich in 280 Zeichen oder weniger über alle Aavegotchi-Ereignisse auf dem Laufenden bleiben. Das reicht von Neuigkeiten über unsere Community-Parties (!) bis hin zu wichtigen Entwicklungs-Updates und einem aktuellen Who's-Who über die jüngsten Konvertierten zum Aavegotchi-Projekt (siehe <a href=https://twitter.com/aavegotchi/status/1313813072717389824">Jay Hao aktualisiert Twitter Avatar</a>).</p>
 
 &nbsp;
 
-<a href="https://t.me/aavegotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/telegram.png" alt = "aavegotchi telegram" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Find Us on Telegram**</a>
+<a href="https://t.me/aavegotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/telegram.png" alt = "aavegotchi telegram" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Finde uns auf Telegram**</a>
 
-<p style="margin-left: 4.8em">What’s a crypto project without Telegram? In addition to our Discord, you can also find our devs and team in Telegram, along with 
-around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavegotchi Telegram is another hyper-aactive channel where you can reach us anytime. </p>
+<p style="margin-left: 4.8em">Was ist ein Krypto-Projekt ohne Telegram? Zusätzlich zu unserem Discord kannst du unsere Entwickler und unser Team auch in Telegram finden, zusammen mit rund 3'100 anderen Freunden. Komplett mit Aavegotchi Telegram-Stickern ist das Aavegotchi Telegram ein weiterer hyperaktiver Kanal, auf dem du uns jederzeit erreichen kannst. </p>
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme with Us on Reddit**</a>
+<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme mit uns auf Reddit**</a>
 
-<p style="margin-left: 4.8em">Come for the memes and stay for the community! Take a break and have a wonderfully good time at Aavegotchi Reddit, where our great memers reside! Have a great laugh as you unwind for the day.</p>
+<p style="margin-left: 4.8em">Komm für die Memes und bleib für die Community! Mach eine Pause und hab eine schöne Zeit auf dem Aavegotchi Reddit, wo unsere tollen Memer sind! Viel Spass beim Entspannen für den Tag.</p>
 
 &nbsp;
 
-We look forward to welcoming you, fren! Head over to any of our channels or our [missions page](/missions) to learn more.
+Wir freuen uns, dich zu begrüssen! Head over to any of our channels or our [missions page](/missions) to learn more.
 
 
 
