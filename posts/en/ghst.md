@@ -43,10 +43,10 @@ What can you do with GHST, other than buy it and wonder wen moon? Plenty, and on
 
 These include:
 
-* Buying [portals](https://wiki.aavegotchi.com/portals) to summon Aavegotchis
-* Buying [wearables](https://wiki.aavegotchi.com/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](https://wiki.aavegotchi.com/metaverse) (more information TBC)
-* [Stake GHST](https://wiki.aavegotchi.com/en/staking), make FRENS, buy tickets and win raffle prizes
+* Buying [portals](/portals) to summon Aavegotchis
+* Buying [wearables](/wearables) to equip on your Aavegotchis
+* Buying [REALM parcels](/metaverse) (more information TBC)
+* [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
 
 ## Buying GHST
 Get your wallets (preferably Metamask) ready - there are two main ways to buy GHST tokens. 
