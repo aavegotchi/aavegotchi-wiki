@@ -174,7 +174,7 @@ No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does
 
 ### Is Aavegotchi on-chain?
 
-All elements of the Aavegotchi game are <a href="https://twitter.com/aavegotchi/status/1328548543909351429">stored on the Ethereum blockchain</a>. You can read more about our unique design using the Diamond Standard <a href="https://eips.ethereum.org/EIPS/eip-2535">here</a>.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Which wallet should I use with Aavegotchi?
 
