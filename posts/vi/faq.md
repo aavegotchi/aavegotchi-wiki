@@ -172,7 +172,7 @@ Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được 
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-Tất cả những yếu tố trong game Aavegotchi được <a href="https://twitter.com/aavegotchi/status/1328548543909351429"> lưu trữ trên blockchain của Ethereum</a>. Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard<a href="https://eips.ethereum.org/EIPS/eip-2535"> tại đây</a>.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
