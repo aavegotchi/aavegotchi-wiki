@@ -1,7 +1,7 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Portals'
+title: '포털'
 description: '아베고치 포털에 대한 모든 것'
 contributors:
   - "appellants"
@@ -34,9 +34,9 @@ image: "portals/portal.gif"
 
 ## 포털 구매
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
+여러분의 픽셀로된 아기 아베고치를 키우기 전에 포털을 통해 아베고치를 소환시켜야 합니다. 아베고치 공식 Dapp이나 OpenSea와 같은 외부 마켓플레이스에서 포털을 구매할 수 있습니다.
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+만약 아베고치 Dapp에서 구매를 하신다면 각각의 포털은 약 100GHST입니다. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## 포털 개방
