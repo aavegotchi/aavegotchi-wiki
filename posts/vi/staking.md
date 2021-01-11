@@ -87,31 +87,36 @@ table_RaffleTickets
 
 Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Tham gia Raffle
 
-Raffle sẽ diễn ra trong một giai đoạn thời gian. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng. Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
+When the raffle is over, you can find out what prizes you have won and can claim them.
+
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-Tổng cộng 6010 giải.
+A total of 6010 prizes.
 
-[Giải thưởng trên OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Bạn có thể cải thiện khả năng thắng giải bằng cách:
+You can improve your probability of winning by:
 * Tham gia với nhiều vé
 * Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
+The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Thêm nguồn
 

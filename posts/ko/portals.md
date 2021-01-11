@@ -10,64 +10,64 @@ image: "portals/portal.gif"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">아베고치 포털(Portal)</p>
+<p class="headerImageText">아베고치 포탈(Portal)</p>
 </div>
 
-어떻게 아베고치를 저승에서 소환시켜 여러분의 스크린으로 데려올 수 있을까요? 포털을 통해서라면, 문제 없습니다!
+어떻게 아베고치를 저승에서 소환시켜 여러분의 스크린으로 데려올 수 있을까요? 포탈을 통해서라면, 문제 없습니다!
 
 보라색의 심연을 자세히 들여다보고 그 너머에 무엇이 숨어있는지를 보세요! 아마 친구를 찾을 수 있을 것입니다! 더 정확히는, 10명의 친구들이 숨어있습니다.
 
-이제 여러분의 마법사 모자를 꺼내서 쓰세요. 포털과 아베고치 소환 과정에 대해 더 많이 배워볼 시간입니다. 
+이제 여러분의 마법사 모자를 꺼내서 쓰세요. 포탈과 아베고치 소환 과정에 대해 더 많이 배워볼 시간입니다. 
 
 <div class="contentsBox">
 
 **목차**
 
 <ol>
-<li><a href=#buying-a-portal>포털 구매</a></li>
-<li><a href=#opening-your-portal>포털 개방</a></li>
-<li><a href=#claiming-an-aavegotchi>아베고치 소환</a></li>
+<li><a href=#buying-a-portal>포탈 구매</a></li>
+<li><a href=#opening-your-portal>포탈 개방</a></li>
+<li><a href=#claiming-an-aavegotchi>아베고치 신청</a></li>
 <li><a href=#transferring-your-aavegotchi>여러분의 아베고치로 만들기</a></li>
 </ol>
 
 </div>
 
-## 포털 구매
+## 포탈 구매
 
 여러분의 픽셀로된 아기 아베고치를 키우기 전에 포털을 통해 아베고치를 소환시켜야 합니다. 아베고치 공식 Dapp이나 OpenSea와 같은 외부 마켓플레이스에서 포털을 구매할 수 있습니다.
 
-만약 아베고치 Dapp에서 구매를 하신다면 각각의 포털은 약 100GHST입니다. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+만약 아베고치 Dapp에서 구매를 하신다면 각각의 포털은 약 100GHST입니다. 또한 포탈들은 'Haunt'로 나올 수 있습니다. 첫번째 Haunt는 10,000개의 포탈들을 묶어서 제공할 것입니다. 이후에는 [아베고치 DAO](/dao)가 Haunt의 구성에 관한 결정을 위해 투표를 지속할 것입니다. 이를테면 DAO에서의 투표에 따른 결저으로 미래에는 포탈의 가격과 수량이 바뀔 수 있습니다.
 
 
-## 포털 개방
+## 포탈 개방
 
-Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
+와우! 이제 곧 포탈을 장만할 생각이신가 보네요. 이제 여기서 ~ 포탈 소환 의식 ~ 이 시작됩니다! 의식을 거쳐 여러분의 아베고치를 소환할 수 있게 됩니다.
 
-After purchasing the portal, the very next step is to open it. Opening the portal occurs on the [Matic Network](/glossary#matic-network) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
+포탈을 구매한 다음 해야할 일은 포탈을 개방하는 것입니다. 포탈 개방은 게이머들이 거래에 서명을 해야하는 [Matic Network](/glossary#matic-network)에서 이루어집니다. 거래가 서명되고 나면, 체인링크의 검증가능한 랜덤함수가 자연스럽게 호출이 됩니다. 함수가 실행되면, 포탈은 무작위의 숫자를 지정받게 되며, 이것이 아베고치의 특성을 무작위적으로 지정해줍니다.
 
-Here's a handy flow chart that summarizes the process:
+아래의 포탈 개방 과정을 요약한 순서도를 참고하시길 바랍니다 :)
 
 <img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
+포탈을 개방한 후, 10마리의 제각각인 아베고치들을 볼 수 있고 선택을 통해 저승에서 불러올 수 있습니다. 여러분은 10마리 중 한 마리만을 택해 소환시킬 수 있습니다. 나머지는 불행하게도, 사라질 것입니다.
 
-These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
+아베고치들은 제각기 다른 무작위적인 특성들을 모두 가지고 있습니다. 여러 옵션들의 설정을 통해 아베고치들의 특성과 [초기 희귀도 점수(Base Rarity Scroe, BSR)'](/rarity-farming#base-rarity-score)를 확인할 수 있습니다. 이것은 아베고치가 소환되자마자 가지게 된 초기 특성에 기반하여 아베고치에게 주어진 희귀도 점수입니다. 이 점수는 아베고치의 wearable 착용과 같은 다양한 활동을 통해 나중에 바뀔 수 있습니다.
 
-You can check out the trait range and rarity probabilities in this table here:
+아래의 표에서 희귀도 유형에 따른 특성들의 범위와 확률을 확인해보세요!
 
 table_PortalTraitTable
 
 
-More information on rarity farming can be found [here](/rarity-farming).
+희귀도 농사(Rarity Farming)에 관해 더 자세히 알고 싶다면 [여기](/rarity-farming)를 참고해주세요 :)
 
 
-## 아베고치 소환
+## 아베고치 신청하기
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+포탈에서 나온 아베고치를 신청하여 갖기 위해선 포탈에 Spirit Force([aToken](/atokens)) 를 요구되는 양만큼 스테이킹해야 합니다. aToken은 [Aave](https://aave.com/)나 유니스왑과 같은 탈중앙화 거래소(DEX)들에서 바로 얻을 수 있습니다.
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
+희소성과 시장 원리에 따라 결정되는 통화적인 가치뿐만 아니라, 각각의 아베고치는 각각의 고유한 가치를 지니고 있습니다. 바로 스테이킹한 aToken이 고유한 가치를 제공해줍니다.
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**aToken에 대해 자세히 알고 싶으시다면 [aTokens](/atokens) 페이지에서 확인해보세요 :)**
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
