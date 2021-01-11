@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+description: 'GHST staken, FRENS generieren'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -11,48 +11,48 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">GHST staken, FRENS generieren!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+Staking bezieht sich auf den Prozess des Sperrens deiner Kryptowährung im Gegenzug für Belohnungen. Das ist bei dem Aavegotchi Projekt nicht anders. Der native Token, [GHST](/posts/ghst), kann im Staking Contract platziert werden, um [FRENS](/posts/glossary#frens) zu verdienen.
 
-FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
+FRENS sind ein nicht übertragbares Guthaben innerhalb des Aavegotchi Staking Contracts. FRENS können nicht gekauft werden. Sie sind als Belohnung für den Beitrag der Staker zum Aavegotchi-Projekt gedacht.
 
-FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
+FRENS können dann in Lotterie-Tickets umgewandelt werden, mit denen man an den regelmässigen Lotterien teilnehmen kann, um Preise zu gewinnen.
 
-Continue reading to learn how to stake GHST and earn prizes with your FRENS.
+Lies weiter, um zu erfahren, wie du GHST staken und mit deinen FRENS Preise verdienen kannst.
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#purchasing-ghst>Purchasing GHST</a></li>
-<li><a href=#how-to-stake>How to Stake</a></li>
-<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#purchasing-ghst>GHST kaufen</a></li>
+<li><a href=#how-to-stake>Wie man staked</a></li>
+<li><a href=#purchasing-raffle-tickets>Lotterie-Tickets kaufen</a></li>
+<li><a href=#entering-raffles>An Lotterien teilnehmen</a></li>
+<li><a href=#past-raffles-statistics>Statistiken der letzten Lotterien</a></li>
+<li><a href=#more-resources>Weitere Ressourcen</a></li>
 </ol>
 
 </div>
 
-## Purchasing GHST
-First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
+## GHST kaufen
+Zuerst musst du dir ein paar GHST Tokens besorgen, um sie zu staken. Unsere [GHST Token Seite](/posts/ghst) deckt die verschiedenen Möglichkeiten ab, wie du dir welche besorgen kannst.
 
-## How to Stake
-Once you have some GHST tokens, it is time to stake them!
+## Wie man staked
+Sobald du einige GHST Tokens hast, ist es an der Zeit, sie zu staken!
 
-There are two ways to stake: (1) staking GHST tokens, and/or (2) staking Uniswap GHST-ETH LP tokens.
+Es gibt zwei Möglichkeiten zu staken: (1) Staking von GHST Tokens, und/oder (2) Staking von Uniswap GHST-ETH LP Tokens.
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Hinweis: Presale GHST Tokens können nicht gestaked werden, bis sie freigeschaltet wurden.*
 
-### Staking GHST tokens
-This is the most straightforward way to stake GHST tokens. Head over to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
+### GHST Tokens staken
+Dies ist die einfachste Art, GHST Tokens zu staken. Gehe auf die [Staking-Benutzeroberfläche](https://aavegotchi.com/stake). Es wird wie das Bild unten aussehen.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the left will be titled "Stake GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. Die Box auf der linken Seite wird mit "Stake GHST Token" bezeichnet sein (siehe Bild unten). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
 
 <img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi" />
 
@@ -63,11 +63,11 @@ A second, and more complicated, method is to stake the Uniswap GHST-ETH Liquidit
 
 <img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
 
-Once you have acquired your GHST-ETH LP token, head to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
+Once you have acquired your GHST-ETH LP token, head to the [staking user interface](https://aavegotchi.com/stake). Es wird wie das Bild unten aussehen.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the right will be titled "Stake Uniswap GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST-ETH LP tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. The box on the right will be titled "Stake Uniswap GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST-ETH LP tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
 
 <img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi" />
 
@@ -75,7 +75,7 @@ Select "Stake on Mainnet" and you will be presented with another page with two b
 
 Why the huge difference in the number of FRENS earned through this method? Staking GHST-ETH LP tokens has the risk of [impermanent loss](/posts/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-## Purchasing Raffle Tickets
+## Lotterie-Tickets kaufen
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
@@ -89,7 +89,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## An Lotterien teilnehmen
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
@@ -115,10 +115,10 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
-## Past Raffles Statistics
+## Statistiken der letzten Lotterien
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## Weitere Ressourcen
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
