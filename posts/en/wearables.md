@@ -98,13 +98,9 @@ table_aagentWearablesTable
 
 ## Wizard Wearables Set
 
-Pictures for the Wizard Wearables Set coming soon!
-
 table_wizardWearablesTable
 
 ## Farmer Wearables Set
-
-Pictures for the Farmer Wearables Set coming soon!
 
 table_farmerWearablesTable
 
