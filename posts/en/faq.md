@@ -170,7 +170,7 @@ Yes, you can leave the portal opened, go acquire the specific aToken, and come b
 ### Do higher trait scores always mean higher rarity?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the
- 1-100 range are more common. 
+ 0-100 range are more common. 
 
 ### How much does it cost to play?
 
