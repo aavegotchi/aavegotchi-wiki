@@ -17,7 +17,7 @@ contributors:
 
 Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt kennenzulernen. Die meisten sind einfache Aufgaben (mit Ausnahme von nur einer, die ein bisschen mehr Nachdenken erfordert) und können erledigt werden, wann immer es die Zeit erlaubt und in jeder beliebigen Reihenfolge. Wenn du alle Aufgaben erledigst, wirst du von unseren Aaprentices hochgelevelt, bis du den vollen Aagent-Status erreichst! Achte nur darauf, dass du vor dem Launch des Mainnets in damit fertig bist, da unser Aagenten-Programm nur bis dahin läuft. Beim Launch des Mainnets erhalten Aagenten, die **alle Aavegotchi Missionen abgeschlossen haben**, ein **komplettes Aagent Kleidungsstück-Set exklusiv für Aavegotchi-Aagenten.**
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
+**ALLE 12 MISSIONEN MÜSSEN BIS ZUM MAINNET LAUNCH AM 4. JANUAR 2021 ABGESCHLOSSEN SEIN!**
 
 &nbsp;
 
