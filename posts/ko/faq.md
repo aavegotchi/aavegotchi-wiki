@@ -79,8 +79,7 @@ Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aaveg
 
 
 ### When is mainnet launch?
-Mainnet is currently slated for January 4th, 2021.
-
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
 
 
 ### What can I do now?
@@ -160,7 +159,7 @@ Yes, you can leave the portal opened, go acquire the specific aToken, and come b
 
 ### Do higher trait scores always mean higher rarity?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 1-100 range are more common.
+Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
 ### How much does it cost to play?
 
