@@ -140,7 +140,7 @@ contributors:
 ## [Neuigkeiten zum Vorverkauf! Frisch aus der Presse!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
 * Am 10. September 2020 wurden juicccyy Neuigkeiten zum bevorstehenden Vorverkauf an die Öffentlichkeit veröffentlicht!
 
-## [Launch der Bonding Curve auf dem Rinkeby Testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
 * Am 3. September 2020 wurde die Aavegotchi Token Bonding Curve (TBC) auf dem Rinkeby Testnet lanciert
 
 ## [Erstes Ask Me Anything (AMA) von Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
