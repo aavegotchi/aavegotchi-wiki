@@ -71,5 +71,4 @@ Can't wait to see you in the Realm, fren! <img src="/metaverse/aavegotchiwave.pn
 
 <p style="font-size:13px; font-style:italic;">*The Aavegotchi metaverse, or Gotchiverse, both refer to what is officially named the "Aavegotchi Realm." </a></p>
 
-<p style="font-size:13px; font-style:italic;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://aavegotchi-wiki-git-main.bullionix.vercel.app/en/community">one of our
- community channels!</a></p>
+<p style="font-size:13px; font-style:italic;">Our Aavegotchi Realm is in rapid development and this page will be updated as we progress. Still have other questions? Reach out to us in <a href="https://wiki.aavegotchi.com/socialmedia" target = "_blank">one of our community channels!</a></p>
