@@ -36,7 +36,7 @@ Aavegotchi có sáu đặc điểm:
 
 Khi dùng dùng thuật ngữ RPG (Role-playing Game), `AGG` cũng tưng tự với Strength, `NRG` tương tự với Agility, `BRN` tương tự với Intelligence, and `SPK` là một trait cao cấp. Hãy nhớ rằng những trait này không hoàn toàn giống với những RPG tiêu chuẩn; trait có giá trị thấp trong metaverse của Aavegotchi thực sự rất mạnh!
 
-Trait được định hình ở thời điểm người chơi mở [Portal](/portal). Khi mở Portal [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) được gọi để chỉ định các giá trị trait ngẫu nhiên cho Aavegotchi. Những giá trị trait này được phân bố theo beell-curve, và mỗi trait sẽ được chỉ định một giá trị trong số các giá trị Common, Uncommon, Rare, hoặc Mythical, tuỳ theo độ hiếm của chúng. Tỷ lệ nhận được mỗi đặc điểm với độ hiếm được thể hiện trong bảng dưới đây:
+Traits are determined at the point of opening a [Portal](/portals). Khi mở Portal [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) được gọi để chỉ định các giá trị trait ngẫu nhiên cho Aavegotchi. Những giá trị trait này được phân bố theo beell-curve, và mỗi trait sẽ được chỉ định một giá trị trong số các giá trị Common, Uncommon, Rare, hoặc Mythical, tuỳ theo độ hiếm của chúng. Tỷ lệ nhận được mỗi đặc điểm với độ hiếm được thể hiện trong bảng dưới đây:
 
 table_TraitsProbabilities
 
@@ -55,13 +55,17 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> *Những màu mắt phổ biến mang màu sắc của những tài sản ký gửi trên Aavegotchi của bạn. ví dụ màu cam dành cho aDAI, màu xanh da trời cho aAAVE, màu tím cho aETH, v.v. </i></p>
 
 ## Kinship
-Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần.
+Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. The minimum kinship value is 0. There is no maximum kinship value.
 
 Đặc biệt, ở bên cạnh chủ càng lâu thì kinship sẽ càng cao, như bỏ roi bé Aavegotchi quá lâu thì cấp độ kinship sẽ giảm xuống. Aavegotchi không chỉ là những đường dẫn để bạn lưu giữ tài sản đầu tư của mình. Chúng là những chú ma có sức sống, thở được, và cần sức ảnh hưởng của bạn!
 
-Cấp độ kinship cao có thể tăng cường sự thể hiện của Aavegotchi trong minigame, và cũng có thể giúp bạn nhân lên số phần thưởng trong GHST khi tham gia quản trị và [rarity farming](/rarity-farming). Kinship cấp độ thấp có thể có hiệu ứng ngược lại.
+A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
 
-Một số cách để tăng cấp độ kinship cho Aavegotchi của bạn:
+Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+
+High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+
+Some ways to boost your Aavegotchi’s kinship level:
 
 * Aavegotchi được sinh ra với ý thức về sứ mệnh của một người công dân. Hãy mang Aavegotchi của bạn đến City Hall và cho nó vote trong AavegotchiDAO;
 * Tuy Aavegotchi là ma những chúng có những cơn đói cồn cào! Hãy cho Aavegotchi dùng những vật phẩm tiêu hao để chúng có thể cười rùng rợn;
@@ -70,12 +74,12 @@ Một số cách để tăng cấp độ kinship cho Aavegotchi của bạn:
 
 
 ## Experience
-Aavegotchi nhận được kinh nghiệm (XP) khi vote cho AavegotchiDAO và chơi minigame. Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/atokens) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
+Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 ## Level
-Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+Aavegotchis level up as they gain more XP. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Some wearables can only be worn by Aavegotchis of a certain level.
 
-Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
+For detailed information on the XP required for each level, click [here](/xp).
 
 ## Haunt
-Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
