@@ -81,8 +81,7 @@ Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aaveg
 
 
 ### When is mainnet launch?
-Mainnet is currently slated for January 4th, 2021.
-
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
 
 
 ### What can I do now?
