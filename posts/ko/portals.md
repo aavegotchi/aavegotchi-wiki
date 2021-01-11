@@ -65,9 +65,9 @@ table_PortalTraitTable
 
 포탈에서 나온 아베고치를 신청하여 갖기 위해선 포탈에 Spirit Force([aToken](/atokens)) 를 요구되는 양만큼 스테이킹해야 합니다. aToken은 [Aave](https://aave.com/)나 유니스왑과 같은 탈중앙화 거래소(DEX)들에서 바로 얻을 수 있습니다.
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
+희소성과 시장 원리에 따라 결정되는 통화적인 가치뿐만 아니라, 각각의 아베고치는 각각의 고유한 가치를 지니고 있습니다. 바로 스테이킹한 aToken이 고유한 가치를 제공해줍니다.
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**aToken에 대해 자세히 알고 싶으시다면 [aTokens](/atokens) 페이지에서 확인해보세요 :)**
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
