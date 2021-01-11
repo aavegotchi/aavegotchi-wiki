@@ -17,7 +17,7 @@ contributors:
 
 Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY MAINNET LAUNCH ON 4 JANUARY 2021!**
+**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
 
 &nbsp;
 

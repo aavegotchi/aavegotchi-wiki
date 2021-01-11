@@ -46,6 +46,7 @@ When you're done reading this and hopefully have a better understanding of these
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
@@ -179,6 +180,17 @@ Check out their [site](https://aragon.org/) here.
 
 ### Bell Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+
+### Diamond Standard
+The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+
+Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+
+Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+
+A diamond is a contract that implements the Specification in this standard.
+
+See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
 
 ### ERC-20
 A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.

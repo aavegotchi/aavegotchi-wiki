@@ -13,7 +13,8 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
-<li><a href=#portals>Portals</a></li>
+<li><a href=#portals>포털
+</a></li>
 <li><a href=#wearables>Wearables</a></li>
 <li><a href=#rarity-farming>Rarity Farming</a></li>
 <li><a href=#minigames>Minigames</a></li>
@@ -27,7 +28,7 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 
 You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
 
-## Portals
+## 포털
 
 A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
 

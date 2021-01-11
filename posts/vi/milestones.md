@@ -140,7 +140,7 @@ contributors:
 ## [Thông tin về Presale! Báo chí đăng tin!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
 * Vào ngày 10 Tháng Chín năm 2020, thông tin cực sốc liên quan đến sự kiện Pre-Sale đã được công bố rộng rãi!
 
-## [Bonding Cruve được thử nghiệm trên testnet Rinkeby](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
 * Vào ngày 3 Tháng Chín năm 2020, Token Bonding Curve (TBC) của Aavegotchi đã được triển khai trên testnet
 
 ## [Ask Me Anything (AMA) đầu tiên của Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)

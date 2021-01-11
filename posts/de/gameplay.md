@@ -2,10 +2,10 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+description: 'Einführung in das Aavegotchi Gameplay'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Aavegotchi hat ein wirklich einzigartiges Gameplay, das aus mehreren Elementen besteht und NFTs + DeFi kombiniert.
 
 <div class="contentsBox">
 
@@ -13,36 +13,36 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
-<li><a href=#portals>Portals</a></li>
-<li><a href=#wearables>Wearables</a></li>
+<li><a href=#portals>Portale</a></li>
+<li><a href=#wearables>Kleidungsstücke</a></li>
 <li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#minigames>Minispiele</a></li>
 </ol>
 
 </div>
 
-## GHST token
+## GHST Token
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+[GHST](https://wiki.aavegotchi.com/en/ghst) ist der native Governance Token und die Basiswährung des Aavegotchi Ökosystems und schaltet die tollsten Features des Spiels frei. Du kannst es staken, um FRENS zu bekommen und diese in Lotterie-Tickets umzuwandeln, Portale und Kleidungsstücke zu kaufen, mehr GHST zu verdienen (kommt bald!) und vieles mehr.
 
-You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
+Du kannst GHST über die Aavegotchi [Bonding Curve](https://wiki.aavegotchi.com/en/curve) oder eine deiner Lieblingsbörsen kaufen.
 
-## Portals
+## Portale
 
-A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+Ein [Portal](https://wiki.aavegotchi.com/en/portals) ist ein Instrument, das du brauchst, um dein Aavegotchi aus dem Nether Reich zu beschwören und damit zu spielen. Ein Portal ermöglicht es dir, aus 10 verschiedenen Aavegotchis mit zufällig generierten Eigenschaften zu wählen und ihnen einen inneren Wert zu verleihen, indem du Aave-gestützte ERC20 Tokens, aka [aTokens](https://wiki.aavegotchi.com/en/atokens) hinterlegst.
 
-You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
+Du kannst ein Portal auf der Aavegotchi dApp oder einem externen NFT-Marktplatz wie OpenSea für ca. 100 GHST kaufen.
 
-## Wearables
+## Kleidungsstücke
 
-[Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+[Kleidungsstücke](https://wiki.aavegotchi.com/en/wearables) sind ein wichtiger Teil des Aavegotchi-Gameplays. Indem du dein Aavegotchi verkleidest, kannst du den Seltenheitswert und die Eigenschaften deines niedlichen Geistes verstärken, was ihm hilft, beim Rarity Farming und bei Minispielen besser abzuschneiden.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+Du kannst jetzt einen Gutschein über eine limitierte [Lotterie](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) erhalten und ihn gegen ein analoges Kleidungsstück einlösen, wenn Aavegotchi auf dem Mainnet startet.
 
-## Rarity farming
+## Rarity Farming
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+[Rarity Farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) ist ein Minispiel, das die Besitzer der seltensten Aavegotchis mit GHST Tokens belohnt. Das Ziel ist es, ein Aavegotchi mit dem höchsten Final Rarity Score zu erstellen, der durch die Seltenheit seiner Eigenschaften und Kleidungsstücke bestimmt wird.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+Nach dem Ende jeder Phase, deren Länge vom AavegotchiDAO bestimmt wird, erhalten die Besitzer der seltensten Aavegotchis eine Verteilung von GHST-Belohnungen.
 
-## Minigames
+## Minispiele

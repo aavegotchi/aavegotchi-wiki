@@ -2,14 +2,14 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Memes'
-description: 'The meme game is stronk with this one'
+description: '"The meme game is stronk with this one"'
 contributors:
   - "unintelligent-nerd"
 ---
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Sieger des Aavegotchi Meme Wettbewerbs für Mission 8
 
-In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote deine Favoriten! The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively.
+In der [Aavegotchi Mission 8](/missions) hatten die Aagenten die Aufgabe, das beste Meme zu Aavegotchi oder GHST im [Aavegotchi Subreddit](https://www.reddit.com/r/Aavegotchi/) zu erstellen. Upvote deine Favoriten! Die Top 3 Memes am 9. Oktober, 20:00 Uhr SGT, erhielten jeweils 300, 200 und 100 GHST.
 
 ### <span style="color:gold">1. Platz: Aavegotchi PAC MAN von Zemus</span>
 
@@ -23,12 +23,12 @@ In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest 
 
 <img class="bodyImage" src="/memes/CozyGHST.jpg" alt = "aavegotchi memes" />
 
-### Miscellaneous Memes
+### Sonstige Memes
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+Nick Mudge bringt Vanilladelphia bei, wie man "seine Hosen anzieht".
 
 <img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+CoderDan während seiner Zeit als bescheidener Maiya Tang (Malzbonbon) Verkäufer am Strand. Erstellt von Zer0dot.
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />

@@ -79,8 +79,7 @@ Aavegotchi sẽ xuất hiện khi mainnet được triển khai. <a href="https:
 
 
 ### Khi nào thì mainnet được triển khai?
-Mainnet hiện tại sẽ mở ra vào ngày 4 tháng 1 năm 2021.
-
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
 
 
 ### Giờ mình có thể làm gì?
@@ -158,7 +157,7 @@ Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở 
 
 ### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
-Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 1-100 thường sẽ dễ gặp hơn.
+Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 
@@ -172,7 +171,7 @@ Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được 
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-Tất cả những yếu tố trong game Aavegotchi được <a href="https://twitter.com/aavegotchi/status/1328548543909351429"> lưu trữ trên blockchain của Ethereum</a>. Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard<a href="https://eips.ethereum.org/EIPS/eip-2535"> tại đây</a>.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 

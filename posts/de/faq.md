@@ -80,8 +80,7 @@ Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das <a href="https://wik
 
 
 ### Wann wird das Mainnet lanciert?
-Das Mainnet ist derzeit für den 4. Januar 2021 geplant.
-
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
 
 
 ### Was kann ich aktuell tun?
@@ -158,7 +157,7 @@ Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorge
 
 ### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
-Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Eigenschaftswerte</a>, die in der Mitte des 1-100 Bereichs liegen, sind häufiger zu finden.
+Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
 ### Wie viel kostet es zu spielen?
 
@@ -172,7 +171,7 @@ Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotc
 
 ### Ist Aavegotchi On-Chain?
 
-Alle Elemente des Aavegotchi Spiels werden <a href="https://twitter.com/aavegotchi/status/1328548543909351429">auf der Ethereum Blockchain</a> gespeichert. Mehr Informationen zu unserem einzigartigen Design mit dem Diamond Standard gibt es <a href="https://eips.ethereum.org/EIPS/eip-2535">hier</a>.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Welches Wallet sollte ich für Aavegotchi verwenden?
 

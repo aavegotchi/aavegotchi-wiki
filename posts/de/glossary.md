@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
+title: 'Glossar'
+description: 'Glossar mit Informationen über Aavegotchi, NFT und DeFi-Terminologie.'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,41 +11,42 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">Aavegotchi nach dem Lesen des GotchiGlossars</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+Wenn du gerade erst angefangen hast, die Welt von DeFi zu erkunden, dann willkommen in dieser Ecke des Internets! Dieses Glossar soll dir einige Informationen zur Verfügung stellen, die dir hoffentlich helfen, die DeFi Grundlagen zu verstehen. Wenn du ganz neu in diesem Bereich bist, wird dir dieses Glossar auch einen Überblick über einige Begriffe geben, die du erwarten kannst, wenn du durch die Aavegotchi-Welt wanderst, um dein Verständnis weiter zu verbessern.
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für diese Begriffe hast, kannst du gerne in den ONBOARDING Bereich springen und in das eigentliche Ökosystem eintauchen.
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<li><a href=#aavegotchi-related>Aavegotchi-verwandt</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#wearables>Kleidungsstücke</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Sicherheiten/Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#liquidity-pools>Liquiditätspools</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<li><a href=#general-terms>Allgemeine Begriffe</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#bell-curve>Glockenkurve</a></p>
+<p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
@@ -56,129 +57,140 @@ When you're done reading this and hopefully have a better understanding of these
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi-verwandt
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis sind pixelförmige Geister, die auf der Ethereum Blockchain leben und durch den ERC-721 Standard unterstützt werden. Ihr Wert wird durch die [Seltenheitsstufe](/rarity-farming) bestimmt, die über mehrere Faktoren berechnet wird, wie z.B. Basis-Eigenschaften, Menge an [hinterlegten Sicherheiten](atokens) und ausgerüstete [Kleidungsstücke](/wearables).
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Punkte, die an Benutzer vergeben werden, die GHST staken. FRENS ist kein Token. Technisch gesehen handelt es sich um ein Guthaben innerhalb des Staking Contracts. FRENS sind nicht übertragbar und dienen dazu, Staker für ihren Beitrag zum Aavegotchi-Projekt zu belohnen.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+Spirit Force bezieht sich auf die Menge an Sicherheiten (aTokens), die im Gotchi eingeschlossen sind.
 
 ### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+Spirit Point bezieht sich auf einen Punkt, den ein Gotchi erhält, wenn es auflevelt. Ähnlich wie Stats-Punkte in RPG-Spielen. Du erhältst 1 Spirit Point alle 3 Level.
 
-### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+### Kleidungsstücke
+Kleidung/Ausrüstung, die dein Aavegotchi trägt. Sie entsprechen dem ERC-1155 Standard.
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" steht für **De**centralized **Fi**nance. Man kann es sich als ein Ökosystem von Anwendungen und Protokollen vorstellen, die ähnliche Dienste wie traditionelle Finanzinstitutionen anbieten (z.B. Kreditvergabe, Kreditaufnahme, Verzinsung von Sparguthaben, etc.). Es gibt jedoch einen entscheidenden Unterschied - DeFi zielt darauf ab, dies dezentral und ohne Drittpartei zu tun.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Das bedeutet, dass keine Banken einen Anteil an deinen potenziellen Einkünften nehmen oder dir Negativzinsen anbieten. Das bedeutet auch, dass es keinen zentralen Punkt des Versagens gibt, an dem das gesamte System kollabieren könnte. Es gibt auch keine Regeln, die von einer kleinen Gruppe mit konzentrierter Macht beschlossen und umgesetzt werden.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Zum Zeitpunkt der Erstellung dieses Artikels (5. Dezember 2020) liegt der Gesamtwert in DeFi bei 14,24 Mrd. USD.
 
-## Key Terms
+## Wichtige Begriffe
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY steht für Annual Percentage Yield. Dies ist die reale Rendite, die du auf deine Ersparnisse, die du in ein Protokoll eingezahlt hast, erhältst. Dabei wird der Effekt des Zinseszinses berücksichtigt.
 
 
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+### Sicherheiten/Collateral
+Sicherheiten sind ein ziemlich simples Konzept. Es bezieht sich auf einen Vermögenswert, den du als Garantie für einen Kreditgeber hinterlegen kannst, wenn du dir Geld von ihm leihst. Wenn du deinen Kredit nicht zurückzahlen kannst, werden deine Sicherheiten verwendet, um die Schulden zu begleichen.
 
 
-In the context of DeFi, this is how things might look:
+Im Kontext von DeFi könnte es ungefähr so aussehen:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Sagen wir, du willst dir ein paar Assets aus einem Protokoll leihen. Dafür musst du einen Teil deines sonstigen Vermögens als Sicherheit hinterlegen. Wenn du deinen Kredit nicht zurückzahlst, wird das Protokoll deine Sicherheiten nicht an dich zurückgeben.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Im Aavegotchi Metaverse sind Sicherheiten auch als [Spirit Force](/glossary#spirit-force) bekannt.
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
+Steht für Decentralized Autonomous Initial Coin Offering. Es ist eine neue Fundraising-Methode, die versucht, die besten Eigenschaften einer [Dezentralen Autonomen Organisation (DAO)](/glossary#dao) mit denen eines Initial Coin Offering (ICO) zu verbinden. Dadurch soll eine Struktur geschaffen werden, die dem Token-Sale-Fundraising-Modell ein höheres Mass an Effektivität verleiht. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Auch bekannt als Dezentralized Autonomous Organization. Das sind Organisationen, deren Regeln in Smart Contracts kodiert sind und die von ihren Mitgliedern kontrolliert werden. Dies steht im Gegensatz zu traditionellen Organisationsmodellen, die oft dazu neigen, von einer kleinen Gruppe von Autoritätspersonen regiert zu werden.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Im Kontext des AavegotchiDAO bedeutet dies, dass die Mitglieder des Ökosystems in der Lage sein werden, Vorschläge zu unterbreiten und darüber abzustimmen. Dies wird Einfluss darauf haben, wie das gesamte Ökosystem funktionieren wird. Die Mitglieder könnten zum Beispiel vorschlagen, die Anzahl der verfügbaren Portale im Laufe der Zeit zu erhöhen, neben jeder anderen Funktion, die ihrer Meinung nach der Community helfen würde.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Eine ausführlichere Erklärung zu DAOs findest du auf [dieser Seite](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Auch bekannt als dezentrale Börse (Decentralized Exchange). Solche Plattformen ermöglichen es den Nutzern, Transaktionen direkt Peer-to-Peer abzuwickeln, um mit Hilfe von Smart Contracts Tokens in die eigene Wallet zu erhalten. Dies steht im Gegensatz zur Funktionsweise von CEXs (Centralized Exchanges), die über einen Zwischenhändler (die zentrale Börse selbst) funktionieren.
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Einige Beispiele für DEXe sind Uniswap, Mesa und Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Einige Beispiele für CEXs sind Binance, Coinbase und OKEx.
 
 
 ### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Erinnerst du dich, was wir oben über Kredite und Sicherheiten geschrieben haben? Nun, Flash Loans sind eine Form von Krediten, die die Notwendigkeit von Sicherheiten umgehen. Allerdings gibt es einen Haken.
 
-The flash loan has to be repaid within the same transaction block.
+Die Flash Loan muss innerhalb desselben Transaktionsblocks zurückgezahlt werden.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Wenn dies nicht geschieht, wird die gesamte Transaktion aufgehoben, sodass die bis zu diesem Zeitpunkt ausgeführten Aktionen rückgängig gemacht werden. Mehr über Flash Loans kannst du [hier](https://aave.com/flash-loans/) lesen.
 
 
 
 ### Impermanent Loss
-Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
+Impermanent Loss tritt auf, wenn du einem Pool Liquidität zur Verfügung stellst (siehe [Liquiditätspools](/glossary#liquidity-pools)) und sich der Preis deiner hinterlegten Vermögenswerte im Vergleich zu dem Zeitpunkt, als du sie hinterlegt hast, ändert. Dies würde zu einem Verlust führen, wenn zu dem Zeitpunkt, an dem du dein Vermögen abheben möchtest, der Preis gegenüber deiner ersten Einzahlung gesunken ist. Das führt zu einem niedrigeren Dollar-Wert zum Zeitpunkt deiner Auszahlung.
 
 
 
-### Liquidity Pools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+### Liquiditätspools
+Der Begriff ist einigermassen selbsterklärend. Dies sind Pools von Tokens, die in einem Smart Contract eingeschlossen sind. Sie werden dann genutzt, um den Handel durch die Bereitstellung von Liquidität zu erleichtern.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Für eine detailliertere Erklärung dieser Begriffe, schau dir den [Guide](https://finematics.com/liquidity-pools-explained/) von Finematics an.
 
 
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen erfüllt sein. Informationen über das Vorhandensein dieser Bedingungen müssen in die Blockchain eingespeist werden, auf der sich der Contract befindet. Das liegt daran, dass Blockchains typischerweise keinen direkten Zugang zu Informationen ausserhalb der Chain haben. An dieser Stelle kommen Oracles ins Spiel. Diese Einheiten liefern die notwendigen Daten, um Smart Contracts auszulösen.
 
 
 
 ### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Im Allgemeinen ist ein Smart Contract ein selbstausführender Vertrag/Contract, bei dem die "Vertragsbedingungen" zwischen den Nutzern direkt in den Code des Vertrags selbst geschrieben werden. Wenn diese vorgegebenen Bedingungen und bestimmte Konditionen erfüllt sind, kommt der Vertrag zustande.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Das Staking einer Kryptowährung bedeutet im Wesentlichen, dass man diese Währung hält, um Transaktionen zu verifizieren und das Netzwerk zu unterstützen. Im Austausch dafür erhalten die Staker normalerweise eine Art Belohnung. Zum Beispiel werden in der Aavegotchi Welt die $GHST-Staker mit FRENS belohnt, mit denen sie in regelmässigen Lottieren Tickets kaufen und Preise gewinnen können.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Einfach ausgedrückt ist Yield Farming eine Strategie, die Nutzern das Verdienen von Belohnungen ermöglicht, indem sie ihr Vermögen in einem bestimmten Protokoll hinterlegen und verleihen.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Dies kann auf verschiedene Arten geschehen, aber der häufigste Mechanismus ist, dass Einleger/Kreditgeber Coins von einem Protokoll verdienen, indem sie einfach ihre ERC-20 Token und/oder Stablecoins auf der Plattform staken. Normalerweise werden diese Belohnungen genutzt, um potenzielle Einleger und Kreditnehmer dazu zu bewegen, einer bestimmten Plattform Liquidität zuzuführen.
 
 
-## General Terms
+## Allgemeine Begriffe
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon ist ein Open Source, Community-getriebenes Projekt mit der Mission, die Unabhängigkeit von dezentralisierten Organisationen zu stärken, indem es Werkzeuge für deren Erfolg entwickelt.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Das Flaggschiffprodukt des Projekts ist der Aragon Client, ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Das Projekt baut auch das Aragon Network, die erste digitale Jurisdiktion der Welt.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Das Aragon Projekt wird von der Aragon Association verwaltet, einer Non-Profit-Organisation mit Sitz in Zug (Schweiz), die von den Besitzern der Aragon Network Token verwaltet wird.
 
-Check out their [site](https://aragon.org/) here.
+Schau dir ihre [Seite](https://aragon.org/) hier an.
 
-### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+### Glockenkurve
+Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
+
+### Diamond Standard
+The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+
+Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+
+Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+
+A diamond is a contract that implements the Specification in this standard.
+
+See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
 
 ### ERC-20
 A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.

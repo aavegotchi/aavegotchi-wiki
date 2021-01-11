@@ -17,7 +17,7 @@ contributors:
 
 Aavegotchi “missions” là một cách thú vị để hiểu thêm nhiều về dự án Aavegotchi. Đa số đều là những nhiệm vụ đơn giản (trừ những nhiệm vụ yêu cầu phải suy nghĩ nhiều hơn) và có thể được thực hiện bất cứ khi nào thời gian cho phép và có thể thực hiện không theo thứ tự. Mỗi khi bạn hoàn thành một nhiệm vụ, bạn sẽ được tăng cấp bởi Aaprentices của mình, cho đến khi bạn nhận được trạng thái Aagent cao cấp! Chỉ cần đảm bảo là bạn vào xem Mission Control trước khi mainnet được triển khai bởi chương trình Aagent sẽ kết thúc vào lúc đó. Khi mainnet khởi chạy, những Aagent đã ** hoàn thành TẤT CẢ nhiệm vụ Aavegotchi ** sẽ nhận được một **set đồ Aagent đặc biệt dành riêng cho các Aagent Aavegotchi.**
 
-**TẤT CẢ 12 NHIỆM VỤ PHẢI ĐƯỢC HOÀN THÀNH TRƯỚC KHI MAINNET TRIỂN KHAI VÀO NGÀY 4 THÁNG GIÊNG NĂM 2021!**
+**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
 
 &nbsp;
 
