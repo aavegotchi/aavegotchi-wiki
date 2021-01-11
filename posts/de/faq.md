@@ -172,7 +172,7 @@ Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotc
 
 ### Ist Aavegotchi On-Chain?
 
-Alle Elemente des Aavegotchi Spiels werden <a href="https://twitter.com/aavegotchi/status/1328548543909351429">auf der Ethereum Blockchain</a> gespeichert. Mehr Informationen zu unserem einzigartigen Design mit dem Diamond Standard gibt es <a href="https://eips.ethereum.org/EIPS/eip-2535">hier</a>.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Welches Wallet sollte ich für Aavegotchi verwenden?
 
