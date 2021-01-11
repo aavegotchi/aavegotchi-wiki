@@ -46,12 +46,13 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <li><a href=#general-terms>Allgemeine Begriffe</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>Glockenkurve</a></p>
+<p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Netzwerk</a></p>
+<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Nicht-fungibler Token (NFT)</a></p>
+<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 </ol>
 
 </div>
@@ -180,38 +181,49 @@ Schau dir ihre [Seite](https://aragon.org/) hier an.
 ### Glockenkurve
 Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
 
+### Diamond Standard
+The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+
+Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+
+Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+
+A diamond is a contract that implements the Specification in this standard.
+
+See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+
 ### ERC-20
-Ein Token-Standard für fungible Token. Mit anderen Worten haben sie eine Eigenschaft, die jeden Token genau gleich (in Typ und Wert) wie einen anderen Token macht. Es bietet Funktionen wie das Übertragen von Token von einem Konto auf ein anderes, das Abrufen des aktuellen Token-Guthabens eines Kontos und auch den Gesamtvorrat der im Netzwerk verfügbaren Token. Daneben gibt es noch einige andere Funktionen, wie z.B. die Freigabe einer bestimmten Menge an Token, die von einem Drittanbieterkonto ausgegeben werden können. Weitere Informationen findest du [hier](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
+A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
 
 ### ERC-721
-Ein freier, offener Standard, der beschreibt, wie man nicht-fungible oder einzigartige Token auf der Ethereum Blockchain baut. Während die meisten Token fungibel sind (jeder Token ist derselbe wie jeder andere Token), sind ERC-721 Token alle einzigartig.
+A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
-Stell sie dir wie seltene, einzigartige Sammlerstücke vor.
+Think of them like rare, one-of-a-kind collectables.
 
-Eine ausführliche Erklärung, was der ERC-721 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-721).
+For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 ist eine Erweiterung des [ERC-721](/glossary#erc-721) Standards, der die Fähigkeit für [nicht-fungible Token](/glossary#nft) hinzufügt, andere nicht-fungible Token und ERC-20 Tokens zu besitzen.
+ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
 
-Nicht-fungible Token, die ERC998 implementieren, implementieren auch den ERC-721 Standard.
+Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
-Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-998).
+For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Netzwerk
-Das Matic Netzwerk ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
+### Matic Network
+Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
-Lies mehr über das Matic Netzwerk [hier](https://matic.network/).
+Read more about Matic Network [here](https://matic.network/).
 
 ### Metaverse
 
-Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
-### Nicht-fungibler Token
+### Non-Fungible Token
 
-Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
