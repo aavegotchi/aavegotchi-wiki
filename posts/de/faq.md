@@ -80,7 +80,7 @@ Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das <a href="https://wik
 
 
 ### Wann wird das Mainnet lanciert?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
+Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. Die Community stimmte für den Launch von Aavegotchi auf dem Matic Netzwerk zu einem späteren Zeitpunkt. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
 
 
 ### Was kann ich aktuell tun?
@@ -157,7 +157,7 @@ Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorge
 
 ### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
-Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Eigenschaftswerte</a>, die in die Mitte des Bereichs von 0-100 fallen, sind häufiger.
 
 ### Wie viel kostet es zu spielen?
 
@@ -171,7 +171,7 @@ Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotc
 
 ### Ist Aavegotchi On-Chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Alle Elemente des Aavegotchi-Spiels sind [auf der Ethereum-Blockchain](https://twitter.com/aavegotchi/status/1328548543909351429) gespeichert. Du kannst [hier](/glossary#diamond-standard) mehr über unser einzigartiges Design mit dem Diamond Standard lesen.
 
 ### Welches Wallet sollte ich für Aavegotchi verwenden?
 
