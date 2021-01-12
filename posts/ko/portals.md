@@ -51,7 +51,7 @@ image: "portals/portal.gif"
 
 포탈을 개방한 후, 10마리의 제각각인 아베고치들을 볼 수 있고 선택을 통해 저승에서 불러올 수 있습니다. 여러분은 10마리 중 한 마리만을 택해 소환시킬 수 있습니다. 나머지는 불행하게도, 사라질 것입니다.
 
-아베고치들은 제각기 다른 무작위적인 특성들을 모두 가지고 있습니다. 여러 옵션들의 설정을 통해 아베고치들의 특성과 [초기 희귀도 점수(Base Rarity Scroe, BSR)'](/rarity-farming#base-rarity-score)를 확인할 수 있습니다. 이것은 아베고치가 소환되자마자 가지게 된 초기 특성에 기반하여 아베고치에게 주어진 희귀도 점수입니다. 이 점수는 아베고치의 wearable 착용과 같은 다양한 활동을 통해 나중에 바뀔 수 있습니다.
+아베고치들은 제각기 다른 무작위적인 특성들을 모두 가지고 있습니다. 여러 옵션들의 설정을 통해 아베고치들의 특성과 [기본 희귀도 점수(Base Rarity Scroe, BRS)'](/rarity-farming#base-rarity-score)를 확인할 수 있습니다. 이것은 아베고치가 소환되자마자 가지게 된 초기 특성에 기반하여 아베고치에게 주어진 희귀도 점수입니다. 이 점수는 아베고치의 wearable 착용과 같은 다양한 활동을 통해 나중에 바뀔 수 있습니다.
 
 아래의 표에서 희귀도 유형에 따른 특성들의 범위와 확률을 확인해보세요!
 
@@ -69,9 +69,9 @@ table_PortalTraitTable
 
 **aToken에 대해 자세히 알고 싶으시다면 [aTokens](/atokens) 페이지에서 확인해보세요 :)**
 
-Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
+일반적으로 담보로서의 Spirit Force의 최소량은 여러분이 소환하길 원하는 아베고치의 BRS에 달려 있습니다. 점수가 높으면 높을수록, 더 많은 담보물을 스테이킹해야합니다.
 
-The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
+스테이킹할 담보물의 최소량은 10DAI 정도의 가치에 해당하며 최대량은 1000DAI의 가치에 해당합니다.
 
 The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
 
