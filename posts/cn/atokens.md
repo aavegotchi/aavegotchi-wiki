@@ -78,8 +78,8 @@ table_cryptocurrencies
 
 好吧，我已经获得了一些aTokens。 现在怎么办？
 
-Good work fren.
+干得好朋友
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+下一步是购买 [portal](/portals) ，通过 [GHST](/ghst). 门户可以在 Aavegotchi DApp (启动时将提供链接) 或在 [次要市场](/marketplace) 上购买，如Openseas。 一旦你获得了一个宝贵的传送门，现在是开始传唤进程的时候了。 打开门户网站后，您将会收到10个Gotchis，每个Gotchis都有随机必需的 aToken/抵押品。 这里是您获得的 aToken 的地方。 把它押在有相同抵押品类型的Gotchi上，让你的朋友复活!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+若要更详细地解释门户打开过程，请查看我们的 [传送门](/portals) 页面。
