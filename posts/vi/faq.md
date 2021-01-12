@@ -65,17 +65,17 @@ Mục FAQ được thiết kế để làm một bài hướng dẫn nhanh với
 
 ### Mình mới chơi Aavegotchi. Làm sao để bắt đầu chơi nhỉ?
 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 1:</b> Mua <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 2:</b> Dùng GHST để mua một <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 3:</b> Gửi tiền ký quỹ vào Aave để nhận <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> dành cho Aavegotchi mà bạn đã chọn</li></p></ul> 
 <ul><p style="margin-left: 2.4em"><li><b>BƯỚC 4:</b> Stake aTokens của bạn để nhận nuôi Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 5:</b> Ghé qua trang <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+Bạn có thể tìm thêm thông tin về lối chơi tại <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">đây.</a>
 
 ### Mình có thể nhận Aavegotchi ở đâu?
 
-Aavegotchi sẽ xuất hiện khi mainnet được triển khai. The [metaverse](/metaverse) will open shortly after (Q1 2021).
+Aavegotchi sẽ xuất hiện khi mainnet được triển khai. [Metaverse](/metaverse) sẽ mở sau Quý I 2021.
 
 
 ### Khi nào thì mainnet được triển khai?
@@ -171,7 +171,7 @@ Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được 
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên blockchain của Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard[ tại đây](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
