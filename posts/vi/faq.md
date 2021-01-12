@@ -79,7 +79,7 @@ Aavegotchi sẽ xuất hiện khi mainnet được triển khai. [Metaverse](/me
 
 
 ### Khi nào thì mainnet được triển khai?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
+Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Matic Network vào một ngày khác. Nhóm bọn mình sẽ cập nhật thông tin cho mọi người về ngày triển khai khi có thể.
 
 
 ### Giờ mình có thể làm gì?
@@ -99,7 +99,7 @@ Không nha! Bạn chỉ cần KYC nếu bạn muốn mua GHST trực tiếp từ
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng [aTokens](/atokens) như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một [nhà đầu tư chính thức](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
 
 ## Những câu hỏi về Bonding Curve
 
@@ -157,7 +157,7 @@ Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở 
 
 ### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
-Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 0-100 thường sẽ dễ gặp hơn.
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 
