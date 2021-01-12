@@ -65,17 +65,17 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 ### I'm new to Aavegotchi. After launch, how do I play?
 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
 <ul><p style="margin-left: 2.4em"><li><b>STEP 4:</b> Stake your aTokens to claim your Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse">metaverse!</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay">here.</a>
+You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
 ### When can I get an Aavegotchi?
 
-Aavegotchis will be available at mainnet launch. The <a href="https://wiki.aavegotchi.com/metaverse">metaverse</a> will open shortly after (Q1 2021).
+Aavegotchis will be available at mainnet launch. The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
 
 ### When is mainnet launch?
@@ -101,7 +101,7 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
 
 ### What does Aave have to do with Aavegotchi?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> as a central element of gameplay, and as of November 2020, Aave is also an <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">official investor</a> in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ## Bonding Curve FAQ
 

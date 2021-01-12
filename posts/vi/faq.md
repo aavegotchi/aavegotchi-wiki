@@ -65,17 +65,17 @@ Mục FAQ được thiết kế để làm một bài hướng dẫn nhanh với
 
 ### Mình mới chơi Aavegotchi. Làm sao để bắt đầu chơi nhỉ?
 
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 1:</b> Mua <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 2:</b> Dùng GHST để mua một <a href="https://wiki.aavegotchi.com/en/portals">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 3:</b> Gửi tiền ký quỹ vào Aave để nhận <a href="https://wiki.aavegotchi.com/en/atokens">aTokens</a> dành cho Aavegotchi mà bạn đã chọn</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
 <ul><p style="margin-left: 2.4em"><li><b>BƯỚC 4:</b> Stake aTokens của bạn để nhận nuôi Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 5:</b> Ghé qua trang <a href="https://wiki.aavegotchi.com/en/metaverse">metaverse!</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
 
-Bạn có thể tìm thêm thông tin về lối chơi tại <a href="https://wiki.aavegotchi.com/en/gameplay">đây.</a>
+You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
 ### Mình có thể nhận Aavegotchi ở đâu?
 
-Aavegotchi sẽ xuất hiện khi mainnet được triển khai. <a href="https://wiki.aavegotchi.com/metaverse">Metaverse</a> sẽ mở sau Quý I 2021.
+Aavegotchi sẽ xuất hiện khi mainnet được triển khai. The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
 
 ### Khi nào thì mainnet được triển khai?
@@ -99,7 +99,7 @@ Không nha! Bạn chỉ cần KYC nếu bạn muốn mua GHST trực tiếp từ
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">nhà đầu tư chính thức</a> của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
+Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ## Những câu hỏi về Bonding Curve
 

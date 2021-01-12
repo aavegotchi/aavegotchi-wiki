@@ -65,18 +65,18 @@ Die FAQ ist als Schnellübersicht für kurze Antworten auf einfache Fragen gedac
 
 ### Ich bin neu bei Aavegotchi. Wie kann ich nach dem Start spielen?
 
-<ul><p style="margin-left: 2.4em"><li><b>Schritt 1:</b> Kaufe <a href="https://wiki.aavegotchi.com/en/ghst">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 2:</b> Verwende dein GHST, um ein <a href="https://wiki.aavegotchi.com/en/portals">Portal</a> zu kaufen</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 3:</b> Hinterlege Sicherheiten bei Aave, um <a href="https://wiki.aavegotchi.com/en/atokens">aTokens</a> für das Aavegotchi deiner Wahl zu erhalten</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>Schritt 1:</b> Kaufe <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 2:</b> Verwende dein GHST, um ein <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a> zu kaufen</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>SCHRITT 3:</b> Hinterlege Sicherheiten bei Aave, um <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> für das Aavegotchi deiner Wahl zu erhalten</li></p></ul> 
 <ul><p style="margin-left: 2.4em"><li><b>SCHRITT 4:</b> Verwende deine aTokens, um dein Gotchi zum Leben zu erwecken</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Besuche das <a href="https://wiki.aavegotchi.com/en/metaverse">Metaverse</a>!</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Besuche das <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">Metaverse</a>!</li></p></ul>
 
-Hier findest du eine detaillierte Übersicht zum <a href="https://wiki.aavegotchi.com/en/gameplay">Gameplay</a>.
+Hier findest du eine detaillierte Übersicht zum <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">Gameplay</a>.
 
 
 ### Wann kann ich ein Aavegotchi bekommen?
 
-Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das <a href="https://wiki.aavegotchi.com/metaverse">Metaverse</a> wird kurz danach zugänglich werden (Q1 2021).
+Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das [Metaverse](/metaverse) wird kurz danach zugänglich werden (Q1 2021).
 
 
 ### Wann wird das Mainnet lanciert?
@@ -99,7 +99,7 @@ Nein! Du musst KYC nur machen, wenn du GHST direkt von der <a href="https://wiki
 
 ### Was hat Aave mit Aavegotchi zu tun?
 
-Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlaubnis zur Verwendung des Aave-Logos. Das Aavegotchi Spiel integriert die Verwendung von <a href="https://wiki.aavegotchi.com/atokens">aTokens</a> als zentrales Element des Gameplays, und seit November 2020 ist Aave auch ein <a href="https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f">offizieller Investor</a> in Pixelcraft Studios, dem Team hinter Aavegotchi.
+Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlaubnis zur Verwendung des Aave-Logos. Das Aavegotchi Spiel integriert die Verwendung von [aTokens](/atokens) als zentrales Element des Gameplays, und seit November 2020 ist Aave auch ein [offizieller Investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, dem Team hinter Aavegotchi.
 
 ## Bonding Curve FAQ
 
