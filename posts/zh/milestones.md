@@ -7,6 +7,13 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
+* There are Liquidity Migration Incentives up for grabs as well!
+
+## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
+* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
+
 ## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
 * Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
 * The community voted and made the decision to launch on Matic Network at a later date
