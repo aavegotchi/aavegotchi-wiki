@@ -27,7 +27,7 @@ image: "portals/portal.gif"
 <li><a href=#buying-a-portal>포탈 구매</a></li>
 <li><a href=#opening-your-portal>포탈 개방</a></li>
 <li><a href=#claiming-an-aavegotchi>아베고치 신청</a></li>
-<li><a href=#transferring-your-aavegotchi>여러분의 아베고치로 만들기</a></li>
+<li><a href=#transferring-your-aavegotchi>아베고치 입양하기</a></li>
 </ol>
 
 </div>
@@ -73,7 +73,7 @@ table_PortalTraitTable
 
 스테이킹할 담보물의 최소량은 10DAI 정도의 가치에 해당하며 최대량은 1000DAI의 가치에 해당합니다.
 
-The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+스테이킹, 담보물로써 필요한 Spirit Force의 양은 아래의 공식에 의해 결정됩니다.
 
 ```
 if (rarityScore < 300) return 10;
@@ -81,16 +81,23 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 450 && rarityScore <= 525) return 25;
         else if (rarityScore >= 526 && rarityScore <= 580) return 100;
         else if (rarityScore >= 581) return 1000;
+
+희귀도 점수 = A, 스테이킹해야하는 Spirit Force = B라고 할 때,
+A < 300 : B = 10DAI 가치
+300 < = A < 450 : 10DAI 가치
+450 < = A <= 525 : 25DAI 가치
+526 < = A < 580 : 100DAI 가치
+581 < = A : 1000DAI 가치
 ```
 
-For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+예를 들어, 만약 BRS가 300이하면, Gotchi(고치!)를 소환하기 위해서 최소 10DAI 정도의 담보물을 스테이킹해야 합니다.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+아베고치 댑(Dapp) UI를 통해 여러분의 아베고치에 스테이킹된 aToken의 양인 Spirit Force를 늘리거나 줄일 수 있습니다.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+고치를 신청하기 위해서 2번의 거래를 수행해야 합니다. 우선, 스마트컨트랙트가 여러분의 wallet에 있는 aToken을 쓸 수 있도록 승인해주어야 합니다. 이어지는 거래에서 여러분은 아베고치를 신청할 수 있게 됩니다 :)
 
 
-## 여러분의 아베고치로 만들기
+## 아베고치 입양하기!
 
 Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
