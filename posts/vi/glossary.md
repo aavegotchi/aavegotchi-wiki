@@ -221,7 +221,7 @@ A metaverse is a virtual world where you can interact with aspects of the world 
 Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
-### Non-Fungible Token
+### Non-Fungible Token (NFT)
 
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
