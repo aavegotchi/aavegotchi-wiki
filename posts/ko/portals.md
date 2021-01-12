@@ -27,7 +27,7 @@ image: "portals/portal.gif"
 <li><a href=#buying-a-portal>포탈 구매</a></li>
 <li><a href=#opening-your-portal>포탈 개방</a></li>
 <li><a href=#claiming-an-aavegotchi>아베고치 신청</a></li>
-<li><a href=#transferring-your-aavegotchi>아베고치 입양하기</a></li>
+<li><a href=#transferring-your-aavegotchi>아베고치 이전하기!</a></li>
 </ol>
 
 </div>
@@ -47,7 +47,7 @@ image: "portals/portal.gif"
 
 아래의 포탈 개방 과정을 요약한 순서도를 참고하시길 바랍니다 :)
 
-<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "아베고치 포탈을 개방하는 과정" />
 
 포탈을 개방한 후, 10마리의 제각각인 아베고치들을 볼 수 있고 선택을 통해 저승에서 불러올 수 있습니다. 여러분은 10마리 중 한 마리만을 택해 소환시킬 수 있습니다. 나머지는 불행하게도, 사라질 것입니다.
 
@@ -97,17 +97,17 @@ A < 300 : B = 10DAI 가치
 고치를 신청하기 위해서 2번의 거래를 수행해야 합니다. 우선, 스마트컨트랙트가 여러분의 wallet에 있는 aToken을 쓸 수 있도록 승인해주어야 합니다. 이어지는 거래에서 여러분은 아베고치를 신청할 수 있게 됩니다 :)
 
 
-## 아베고치 입양하기!
+## 아베고치 이전하기!
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+만약 거래를 하면서 아베고치를 새로운 주인에게 주는 것은 아베고치의 인벤토리에 있는 아이템과 wearables 뿐만 아니라 아베고치에 스테이킹된 담보물도 이전하는 것입니다. Opensea와 같은 온라인 마켓플레이스에서 아베고치를 거래할 때 발생하게 됩니다.
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+만약 아베고치에 스테이킹된 담보물을 돌려받고 싶다면, 두가지 옵션이 있습니다.
 
-1. **Reduce the amount of collateral** in your Aavegotchi (but not below it's minimum stake).
+1. 아베고치에 스테이킹된 담보물을 감소시키는 것입니다.(하지만 이때 최소한의 양은 남겨두셔야 합니다.)
 
-2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral.
+2. 아베고치를 소각시키는 것입니다. 아베고치를 저승으로 돌려보내고,  모든 담보물을 돌려받는 것입니다.
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**Opensea와 같은 다른 마켓에서 아베고치를 판매하시기 전에,  구매자가아베고치가 가진 아이팀이나 wearables까지 함께 이전될 거라는 것을 확신할 수 있도록 댑(Dapp) UI를 통해 아베고치를 부디 락(lock)해주시길 바랍니다 :)**
 
 
 
