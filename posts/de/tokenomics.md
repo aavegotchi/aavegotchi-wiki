@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+description: 'Die Tokenomics des Aavegotchi GHST Tokens'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -13,16 +13,16 @@ contributors:
 <p class="headerImageText">wEn GHST $5???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+Tokenomics? Juckt mich doch nicht! WeN mOoN??
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Uns interessiert es und das sollte es auch dich. Wenn du planst, in ein Projekt wie GHST (oder ein anderes Projekt) zu investieren, ist es wichtig zu verstehen, wie das breitere Ökosystem funktioniert. Am Ende des Tages können wir so alle profitieren.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchis Ansatz zur Umsatzbeteiligung und Tokenomics zielt darauf ab, vier Ziele auszugleichen:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Schaffen eines gesunden Play-to-Earn-Ökosystems, das aktive Spieler und DAO-Teilnehmer belohnt</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Sicherstellen, dass der GHST Token ein starkes Fundament für die langfristige Wertschöpfung hat</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Aufbau einer Treasury für den AavegotchiDAO zur Verwendung für Ausgaben</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Fortlaufende finanzielle Belohnungen für die Entwickler von Aavegotchi</li></b></p></ul>
 
 This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
 
