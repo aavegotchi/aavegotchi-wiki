@@ -75,66 +75,66 @@ Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một tr
 
 Tại sao lại có sự khác biệt lớn với số lượng FRENS kiếm được thông qua phương thức này? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/posts/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
 
-### Staking in the GHST-QUICK pool on QuickSwap [Matic]
+### Stake vào quỹ GHST-QUICK trên QuickSwap [Matic]
 
-The third method involves transferring GHST tokens from Ethereum Mainnet to the Matic Network, a layer 2 solution.
+Phương pháp thứ ba chính là chuyển token GHST từ Mainnet của Ethereum sang Matic Network, một giải pháp layer 2.
 
-Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network. Once that is done, follow the subsequent steps found in the [Matic Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
+Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có được hướng dẫn chi tiết về cách cấu hình sao cho ví MetaMask có thể kết nối với Matic Network nhé. Một khi đã hoàn thành, hãy xem những bước hướng dẫn tại đường link[đến bài viết Matic Liquidity Migration Incentives](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
-1. Get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH and QUICK-USDC. Soon GHST-QUICK will also be an option.
+1. Mua một ít token QUICK từ [QuickSwap](https://quickswap.exchange). Cặp giao dịch có thanh khoản cao nhất hiện tại là QUICK-UNI, QUICK-WETH và QUICK-USDC. GHST-QUICK sẽ sớm được thêm vào.
 
-2. Become a liquidity provider in the GHST-QUICK Pool on Quickswap.
+2. Hãy trở thành một người cung cấp thanh khoản cho Quỹ GHST-QUICK trên Uniswap.
 
-3. Take your LP tokens received from Step 2 and stake them into the GHST-QUICK Staking Pool to get stkGHST.
+3. Hãy nhận token LP mà bạn có được từ bước 2 và stake vào Quỹ Staking GHST-QUICK để nhận stkGHST.
 
-4. Finally, take the stkGHST receipt tokens emitted from the GHST Staking Contract and stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
+4. Cuối cùng, dùng token stkGHST từ Hợp Đồng Staking GHST và stake chúng vào Quỹ Giải Thưởng Quickswap tại [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
 
-Now you are earning QUICK and FRENS!
+Giờ đây bạn đã có thể bắt đầu kiếm QUICK và FRENS!
 
-Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
+Tương tự như khi stake token LP GHST-ETH trên Uniswap, bạn có nguy cơ bị tổn thất tạm thời khi sử dụng phương pháp này.
 
 ## Mua vé Raffle
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
+Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
 
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
+Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Chúng có thể được mua/bán trên [marketplaces](/marketplace).
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất):
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
 ## Tham gia Raffle
 
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
+Raffle sẽ diễn ra trong một giai đoạn thời gian. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
 
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Tổng cộng 6010 giải.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Giải thưởng trên OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
 
-You can improve your probability of winning by:
+Bạn có thể cải thiện khả năng thắng giải bằng cách:
 * Tham gia với nhiều vé
 * Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
 
 ## Thêm nguồn
 
