@@ -40,78 +40,76 @@ contributors:
 <p><a href=#can-i-buy-frens->我可以买积分吗?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->除了抽奖，积分还有别的用处吗?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->你怎样转帐抽奖券?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Mainnet发射后是否会有Raffles？</a></p>
+<li><a href=#portal-faq>传送门常见问题</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->您可以在 1 次交易中购买多少门？</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->如果我打开了一个传送门，但没有认领gotchi所需的代币，我可以稍后再来认领吗?</a></p>
+<li><a href=#gameplay-faq>游戏常见问题</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->更高的特性总是意味着更稀少？</a></p>
+<p><a href=#how-much-does-it-cost-to-play->它的费用是多少？</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->改变附带关系是否影响亲属关系水平？</a></p>
+<li><a href=#technical-faq>技术常见问题</a></li>
+<p><a href=#is-aavegotchi-on-chain->Aavegotchi 是否在链上？</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->我应该和 Aavegotchi 使用哪个钱包？</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi 是否会在Layer 2运行？</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->我需要迁移我的 Aave 令牌吗？</a></p>
 </ol>
 
 </div>
 
 &nbsp;
 
-The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
+问答调查表旨在作为快速回答问题的快速参考指南。 欲了解更多深入信息，请查看嵌入的链接或对一般主题使用我们的侧边栏。
 ## 一般常见问题
 
 
 ### 我是Aavegotchi的新人。 启动后，我将如何玩？
 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 4:</b> Stake your aTokens to claim your Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP1：</b> 购买 <a href="https://wiki. aavegotchi. com/en/ghst" target = "_blank">GHST</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP2:</b> 使用您的 GHST 购买 <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">传送门</a></li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP3：</b> 将担保品存入Aave以获得 <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> 用于您选择的 Aavegotchi</li></p></ul> 
+<ul><p style="margin-left: 2.4em"><li><b>STEP4:</b> 质押aTokens来获取你的Gotchi</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>STEP5:</b> 访问 <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">元!</a></li></p></ul>
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+您可以在这里找到游戏 <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">的深入轮廓</a>
 
 ### 什么时候我可以得到一个Aavegotchi？
 
-Aavegotchis will be available at mainnet launch. The [metaverse](/metaverse) will open shortly after (Q1 2021).
+Aavegotchis将会在主网启动时使用。 [元](/metaverse) 将在 (Q1 2021) 后不久打开.
 
 
 ### 主网何时启动？
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on the Matic Network at a later date. The team will keep everyone updated on the new launch date when it is feasible.
+Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重拥挤，社区投票被付诸行动。 该社区投票赞成晚些时候在Matic Network推出Aavegotchi。 小组将在可行的情况下随时向所有人通报新的发射日期。
 
 
 ### 现在你能做什么？
 
-Right now, you can:
+现在你可以：
 
-<ul><p style="margin-left: 2.4em"><li><b>Enter Raffles to Win Wearables:</b> Until mainnet launches, the community is holding a series of <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles</a> where you can stake your GHST to earn FRENS. With FRENS, you can enter 
-any of the remaining raffles for a chance to win unique wearables for your Aavegotchi.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>进入抽奖获得装备:</b> 直到Mainnet启动为止， 社区正在进行一系列 <a href="https://aavegotchi. medium. com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">的狂犬病</a> 你可以在那里与您的GHST 赚取FRENS。 和朋友一起，你可以参加剩下的抽奖活动，有机会为你的Aavegotchi赢得独特的可穿戴设备。</li></p></ul>
 
-<ul><p style="margin-left: 2.4em"><li><b>Do Missions to Earn Wearables:</b> You can also complete our <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi Missions</a> - which, after you’ve completed them all, will earn you an exclusive Aavegotchi Aagent wearable 
-set.</li></p></ul>
+<ul><p style="margin-left: 2.4em"><li><b>做社区任务获取装备:</b> 你也可以完成我们 <a href="https://wiki. aavegotchi. com/en/missions">Aavegotchi 任务</a> - 任务 完成全部后，您将会赚到您独家的 Aavegotchi 代理人可穿戴的装备。</li></p></ul>
 
 ### 我需要 KYC 来玩Aavegotchi 或拥有GHST 令牌吗？
 
-No! You only need to do KYC if you want to buy GHST directly from the <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> You can purchase GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">on Uniswap</a> without KYC, as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
+不！ 如果您想直接从 <a href="https://wiki.aavegotchi.com/en/curve">绑定曲线购买GHST，您只需要做KYC。</a> 您可以在 Uniswap上购买 GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH"></a> 无需了解KYC, 以及 <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">在某些交易所。</a> 同时， **无需购买门户网站** <a href="https://wiki.aavegotchi.com/en/minigames">游戏，</a> 
+<a href="https://wiki.aavegotchi.com/en/staking">涉及GHST,</a> 或 Aavegotchi 项目本身的任何其他方面。
 
 
 
 ### Aave需要和 Aavegotchi 做什么？
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi首先获得了Aave生态系统补助金，授权他使用Aave幽灵标识。 Aavegotchi游戏包含了使用 [aTokens](/atokens) 作为游戏中心元素的游戏，到2020年11月。 Aave也是Aavegotchi背后的 Pixelcraft Studios [官方投资者](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 
 ## 联合曲线
 
 ### 我购买了GHST，但我在我的钱包里看不到它
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+在连接曲线上购买后，您需要进行另一笔交易才能认领GHST 代币。 请参阅下面的屏幕截图。 用户必须单击"CLAIM ORDER"按钮才能让GHST 代币出现在他们的钱包。
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### 人们能越过这条联合曲线吗?
+不 当您在绑定曲线上购买/销售GHST令牌时， 在发送到智能合同之前，交易与其他人的交易被分批处理。 他们无法以较高的煤气费投标较低的GHST价格来掩盖您的购买。
 
 ## Raffle 常见问题
 
@@ -121,12 +119,12 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### 买了票就意味着我可以参加抽奖吗?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+不！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Aavegotchi商店会提供抽奖可穿戴设备吗?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+不 The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### 抽奖可穿戴设备很特别吗?
@@ -134,7 +132,7 @@ No. The only time these wearables will ever be released is during the pre-launch
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 ### 我可以买积分吗?
-No. FRENS are a way to reward our community members who staked GHST.
+不 FRENS are a way to reward our community members who staked GHST.
 
 ### 除了抽奖，积分还有别的用处吗?
 
@@ -143,47 +141,47 @@ No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the
 ### 你怎样转帐抽奖券?
 Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
 
-### Will there be Raffles after Mainnet launches?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+### Mainnet发射后是否会有Raffles？
+是的，Mainnet启动后还会有更多的冲锋。 然而，这种做法并不经常发生，而且不会事先宣布。 这是为了奖励那些仍在挂起和累积他们的 [积分](/glossary#frens) 和/或奖券。
 
-## Portal FAQ
+## 传送门常见问题
 
-### How many portals can you buy in 1 transaction?
+### 您可以在 1 次交易中购买多少门？
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### 如果我打开了一个传送门，但没有认领gotchi所需的代币，我可以稍后再来认领吗?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
-## Gameplay FAQ
+## 游戏常见问题
 
 
-### Do higher trait scores always mean higher rarity?
+### 更高的特性总是意味着更稀少？
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### 它的费用是多少？
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
 
-### Does changing the collateral staked affect kinship level?
+### 改变附带关系是否影响亲属关系水平？
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Technical FAQ
+## 技术常见问题
 
 
-### Is Aavegotchi on-chain?
+### Aavegotchi 是否在链上？
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### 我应该和 Aavegotchi 使用哪个钱包？
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-### Will Aavegotchi run on Layer 2?
+### Aavegotchi 是否会在Layer 2运行？
 
 Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### 我需要迁移我的 Aave 令牌吗？
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
 
