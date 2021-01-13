@@ -5,25 +5,25 @@ title: 'Gameplay'
 description: 'Intrduction to Aavegotchi Gameplay'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Aavegotchi有一个真正独特的游戏，由多个元素组成，混合在NFT和Defi之间。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#ghst-token>GHST Token</a></li>
+<li><a href=#ghst-token>GHST 代币</a></li>
 <li><a href=#portals>传送门</a></li>
-<li><a href=#wearables>Wearables</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#wearables>可穿戴装备</a></li>
+<li><a href=#rarity-farming>稀有农场</a></li>
+<li><a href=#minigames>迷你游戏</a></li>
 </ol>
 
 </div>
 
-## GHST token
+## GHST 代币
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+[GHST](https://wiki.aavegotchi.com/en/ghst) 是Aavegotchi生态系统的本机管理令牌和基础货币，可释放游戏中最强大的功能。 You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
 
 You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
 
