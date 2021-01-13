@@ -10,10 +10,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/faq/faq.png" class="headerImage">
-<p class="headerImageText">Aavegotchi Goes Brrrrr</p>
+<p class="headerImageText">Aavegotchi</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>正在工作的AARCHIVERS</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
 <p style="font-style:italic; font-size:13px;">This page is being built. Feel free to use Mission 11 suggestions for questions you'd like to see here.</a></p>
 
 <a name="FAQ"></a>
@@ -23,8 +23,8 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#general-faq>General FAQ</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
+<li><a href=#general-faq>一般常见问题</a></li>
+<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->我是Aavegotchi的新人。 启动后，我将如何玩？</a></p>
 <p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
 <p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
 <p><a href=#what-can-i-do-now->What can I do now?</a></p>
@@ -60,10 +60,10 @@ contributors:
 &nbsp;
 
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
-## General FAQ
+## 一般常见问题
 
 
-### I'm new to Aavegotchi. After launch, how do I play?
+### 我是Aavegotchi的新人。 启动后，我将如何玩？
 
 <ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
 <ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
