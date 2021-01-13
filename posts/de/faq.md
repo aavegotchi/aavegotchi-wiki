@@ -80,7 +80,7 @@ Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das [Metaverse](/metaver
 
 
 ### Wann wird das Mainnet lanciert?
-Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. Die Community stimmte für den Launch von Aavegotchi auf dem Matic Netzwerk zu einem späteren Zeitpunkt. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
+Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. Die Community stimmte für den Launch von Aavegotchi auf dem Matic Network zu einem späteren Zeitpunkt. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
 
 
 ### Was kann ich aktuell tun?

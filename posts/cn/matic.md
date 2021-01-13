@@ -3,9 +3,8 @@ author: Moon
 date: '2020-04-23T07:00:00.000Z'
 title: 'Matic'
 description: 'Matic Tutorial'
-image: "atokens/aETH.svg"
 contributors:
-  - "moon"
+  - "moon14888"
 ---
 
 Hey Fren! So you’ve heard about the migration to Matic, but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
