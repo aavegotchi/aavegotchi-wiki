@@ -45,15 +45,15 @@ Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏ
 
 Bao gồm:
 
-* Buying [portals](/portals) to summon Aavegotchis
-* Buying [wearables](/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](/metaverse) (more information TBC)
-* [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
+* Mua [portals](/portals) để triệu hồi Aavegotchis
+* Mua [wearables](/wearables) để triệu hồi Aavegotchis
+* Mua [gói REALM](/metaverse) (và nhiều thông tin hơn về sẽ được thông báo)
+* [Stake GHST](/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
 ## Mua GHST
 Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua token GHST.
 
-You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as Uniswap and Matcha, as well as CEXes like OKex and Binance, carry GHST.
+Bạn có thể mua thẳng từ [curve](/curve) (dù cách này đòi hỏi bạn phải KYC, mà xui cái là người dùng từ Mỹ và Trung Quốc sẽ không được tham gia); hoặc mua từ [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - một vài DEX ví dụ như Uniswap và Matcha, cùng các CEX như OKex và Binance, hiện đang niêm yết GHST.
 
 Hãy đảm bảo rằng bạn đang dùng đúng địa chỉ token nhé: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
 
@@ -62,8 +62,8 @@ Không phải ai cũng là whale, và cũng không sao - vẫn còn nhiều đi�
 
 Có nhiều cách để căng buồm và kiếm thêm GHST. Bao gồm:
 
-* Engaging in [rarity farming](/rarity-farming)
-* Participate and vote in [AavegotchiDAO](/dao)
+* Tham gia vào [rarity farming](/rarity-farming)
+* Tham gia và vote trong [AavegotchiDAO](/dao)
 * Chơi và chiến thằng trong các minigame (nhiều thông tin hơn sẽ được thông báo)
 
 
