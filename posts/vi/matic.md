@@ -68,22 +68,22 @@ Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc U
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 
-2). **ĐỪNG** nhấp vào nút "Switch to Plasma”. Đó không phải cầu kết nối mà bạn cần và phải mất 7 ngày để rút tiền đấy. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
+2). **ĐỪNG** nhấp vào nút "Switch to Plasma”. Đó không phải cầu kết nối mà bạn cần và phải mất 7 ngày để rút tiền đấy. Thay vào đó hãy thêm tài sản mà bạn muốn chuyển đi vào bên phải. Mình đã thêm sẵn USDC rồi nên các bạn có thể thấy nó trong ví của mình.
 
 <img class = "bodyImage" src = "/matic/matic-wallet-add-token.png" alt = "Thêm Token trên Matic Wallet" />
 
-3). On the left side click “Matic Wallet” and “Deposit”.
+3). Ở phía bên trái, hãy nhấp vào "Matic Wallet" và "Deposit".
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit.png" alt = "Gửi Token vào Matic Wallet" />
 
-4). Click “Continue to Deposit” and select your asset here:
+4). Hãy nhấp vào "Tiếp tục Gửi tiền" và chọn tài sản của bạn ở đây:
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit2.png" alt = "Gửi Token vào Matic Wallet" />
 
-5). Enter how much of it you’d like to bridge and click the big blue button.
+5). Nhập vào số lượng mà bạn muốn dùng qua cầu kết nối và nhấn vào cái nút màu xanh to to nhé.
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit3.png" alt = "Gửi Token vào Matic Wallet" />
 
-Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Matic address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on matic. (That’s enough for 1000s of transactions, Matic is aavesome!)
+Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Matic của bạn. Bạn có thể được airdrop 0.1 MATIC nếu bạn chuyển một stablecoin vào tài khoản và yêu cầu [Quickswap](https://quickswap.exchange/), DEX lớn nhất trên MATIC, chuyển MATIC cho bạn. (Nhiêu đó thôi là đã đủ để chuyển hơn 1000 giao dịch rồi, Matic thật toẹt vời ông mặt trời mà!)
 
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
