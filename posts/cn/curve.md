@@ -66,40 +66,40 @@ contributors:
 
 **Avegotchi的储备比率是33%！** 这意味着你不需要害怕鲸鱼。 他们无法泵出 & 转储GHST，因为绑定曲线被强化为他们的 huuge 交易！
 
-If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
+如果你想看到它在操作中，请查看这个交互式模型来制作 [在这里](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve)。
 
-TEH CURVE IS FOREVER!
+终结！
 
 ## Aavegotchi 绑定曲线
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+Aavegotchi Bonding 曲线是2020年9月14日通过 [Aragon Funding](https://fundraising.aragon.black/) 提供动力的连接曲线智能合同创建的。 在50万GHST预设完后，连接曲线立即开启。 连接曲线的尺寸无限，没有时间限制，每种温室气体运输标准的开价为0.2 Dai。 它的连接重量为33%。
 
-You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
+您必须完成了解你的数据才能直接从或出售到曲线。 守约是我的重要舞蹈――我们生活在一个社会中，我们也不希望该项目被政府搁浅。 从曲线购买的是DAI。 反向也适用；您可以将GHST卖回到DAI的曲线上，但为什么要这样做？ :( :( :(
 
-If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
+如果由于您的公民身份而无法执行了解客户，请不要担心！ **你仍然能够与Aavegotchi元的其他部分交互。** 您只需从DEX购买GHST, 如Uniswap或Balancer, 或是一个 CEX 像OKex。 在这里学习如何获取 GHST 令牌 [](/ghst#get-ghst)。
 
 ## Aavegotchi DAICO
-A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+分权式自治初步合作项目是一种新的筹资方法，旨在将分权自治组织的最佳特点与首次合作提供的特点结合起来，以便建立一个能够提高象征性销售筹资模式效力的结构。 投资管理处是一种模式，一旦筹款结束，投资者就可以控制所募集的资金。 投资者可以影响开发者如何获得资金，以及通过一个“tap”机制的频率。 此外，投资者也可以投票取消该项目，并将资金退还。
 
-The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
+Aavegotchi项目通过Aragon的DAICO启动了象征性的连接曲线。
 
-**This is SAFU. Do. Not. Remove. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**这是SAFU。 不 要 移除 联合 曲线 。</p>
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+[AavegotchiDAO 的第一次迭代](/dao) 与GHST在绑定曲线上的分布同步启动。 GHST 持有人有权就增加/维持资金进行投票，这些资金是通过象征性的连接曲线预留器(TBC) 分配给Pixelcraft Studios(Aavegotchi背后的团队) 来支持发展。 第一个AavegotchiDAO建议将Aavegotchi DAICO 的点击率从50增加到50， 200 DAI至100 000DAI，2020年10月18日获得99%的批准。
 
 ## Aavegotchi 令牌供应动态
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
+在我们讨论上述标记关联曲线/DAICO时，我们了解到，GHST 令牌的总供应是动态的。 当投资者使用 DAI 从关联曲线购买GHST时， 新的GHST 代币已被点燃，流通GHST 的总供应量将会增加。 反过来也是如此。 当用户将其GHST卖回到连接曲线时， 他们收到了建筑工程师协会根据捆绑曲线上通用的GHST价格提供的同等数额。
 
-The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
+GHST 代币通过在绑定曲线上的净购买而出现的通货膨胀与GHST 价格有着正面的关系。 **随着GHST供应量的增加，绑定曲线的数学设计是为了提高GHST的价格。**
 
 ## 仲裁权
-For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+对于已完成KYC的用户 他们将能够将GHST价格的差异弥合在代币关联曲线和其他DEX（例如Uniswap和Balancer）之间。 根据 [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), “仲裁是指购买和出售一项资产，以便从该资产在市场之间的价格差异中获利。 这是一种通过利用不同市场或不同形式的相同或类似金融工具的价格差异而获得利润的贸易。 仲裁是由于市场效率低下造成的，因此如果所有市场都完全高效，就不会存在。” 这样做是可能的，因为DEXes配备了自己的自动市场制造商(AMM) 公式，而GHST 代币在这些代谢物上的净购买/销售行动将导致不同于代币关联曲线的价格。 野蛮的投资者可能会考虑利用市场中这种低效率的做法(*Alpha leak here*)。
 
 ## 了解更多
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* 更多关于 [Aragon筹款和关联曲线！](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* 在 [联合曲线解释](https://yos.io/2018/11/10/bonding-curves/) 阅读更多内容
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* 由 DeFi Prime 编写的 [绑定曲线上的文章](https://defiprime.com/bonding-curve-explained)。
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Coin Telegraph上的 [DAICO](https://cointelegraph. com/explained/what-is-a-daico-explained) 文章。
