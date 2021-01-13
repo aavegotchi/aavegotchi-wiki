@@ -11,66 +11,66 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/curve/bonding-curve.png">
-<p class="headerImageText">The Bonding Curve</p>
+<p class="headerImageText">联合曲线</p>
 </div>
 
-A token bonding curve (TBC) is a mathematical curve that defines a relationship between price and token supply.
+联合曲线是一个数学曲线，它定义了价格与令牌供应之间的关系。
 
-In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an  [Aragon](/glossary#aragon) [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico), this article discusses DAICOs as well.
+在典型的技术性贸易壁垒中，价格随着象征性供应的增加而上涨，随着供应的减少而下降。 由于Aavegotchi 联合曲线是通过  [Aragon](/glossary#aragon) [分散自治的首次代币发行(DAICO)](/glossary#daico)本文也讨论了DAICO。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#mechanics>Mechanics</a></li>
-<li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
+<li><a href=#mechanics>关键词组成</a></li>
+<li><a href=#aavegotchi-bonding-curve>Aavegotchi 绑定曲线</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
-<li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Supply Dynamics</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>Learn More</a></li>
+<li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi 令牌供应动态</a></li>
+<li><a href=#arbitrage>仲裁权</a></li>
+<li><a href=#learn-more>了解更多</a></li>
 </ol>
 
 </div>
 
-## Mechanics
+## 关键词组成
 
-### Minting / Burning on demand
+### 按需铸造/燃烧
 
-Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
+捆绑曲线使用定价算法作为自动化市场制造商，提供一个总是可用的流动资金来源。 用户可以通过将令牌放入绑定曲线储备池来与关联曲线交互。 当他们这样做时，联合曲线会根据定价算法为用户提供相应的令牌。 新创建的令牌可以有特定的用途，甚至可以在用户之间交易。 但总是可以通过绑定曲线储备池中代币的关联曲线进行兑换。
 
-When a token is purchased via a TBC, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
+当一个人购买了代币时，每个随后的买方必须为每个代币支付略高的价格， 为最早的投资者创造潜在利润。 随着更多的人了解该项目并继续购买，每个代币的价值沿着联合曲线逐渐增加。 早期发现有前途的项目的投资者，购买联合曲线代币，然后再出售代币，就能够在未来赚取利润。
 
-### Formula
+### 公式
 
-Bonding curves come in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
+捆绑曲线以不同的形状和大小出现。 关于Aavegotchi项目，小组采用了Bancor公式：
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
 
-### Formula Explanation
+### 公式说明
 
-The **Reserve Token** refers to the token that users stake into the bonding curve.
+**储备令牌** 是指用户在关联曲线中的标记。
 
-The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
+**储备令牌** 是指收藏储备令牌时从绑定曲线收到的令牌。
 
-In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively.
+就Aavegotchi而言，储备和连续代币分别是DAI和GHST。
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**连接重量** (也称为储备比率) 表示持续代币总值(总供应量×单位价格) 与储备代币余额之间的固定比率(介于 0 到 100%之间)。  这个CW是银行公式的常数，既是储备代币的余额，也是连续代币的总值 (a.k.a)。 “市场上限”随着购买和销售而波动。
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+每次购买或销售持续代币会导致储备代币(DAI) 的增加或减少。 其储备代币的连续代币价格必须不断重新计算，以保持已配置的连接重量。
 
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
+连接重量决定连续令牌的价格需要调整多大程度才能保持每次交易。 换言之，其价格敏感性。
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+储备代币余额和连续代币之间储备比率较高将降低价格敏感度。 意味着每个买卖都会对持续代币的价格变动产生低于比例的影响。 储备代币余额和连续代币之间储备比率较高将降低价格敏感度。 意味着每个买卖都会对持续代币的价格变动产生低于比例的影响。
 
-**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+**Avegotchi的储备比率是33%！** 这意味着你不需要害怕鲸鱼。 他们无法泵出 & 转储GHST，因为绑定曲线被强化为他们的 huuge 交易！
 
 If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
 
 TEH CURVE IS FOREVER!
 
-## Aavegotchi Bonding Curve
+## Aavegotchi 绑定曲线
 The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
 
 You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
@@ -86,15 +86,15 @@ The Aavegotchi project launched the token bonding curve through a DAICO on Arago
 
 The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
 
-## Aavegotchi Token Supply Dynamics
+## Aavegotchi 令牌供应动态
 In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
 
 The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
 
-## Arbitrage
+## 仲裁权
 For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
 
-## Learn More
+## 了解更多
 
 * For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
