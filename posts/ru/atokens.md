@@ -17,7 +17,7 @@ aTokens — приносящий процентный доход токен пл
 
 Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [portal](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+В Aavegotchi термины "Сила духа", "Обеспечение" и aTokens имеют одинаковое значение.
 
 <div class="contentsBox">
 
@@ -28,7 +28,7 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 <li><a href=#stablecoins>Стейблкоины</a></li>
 <li><a href=#cryptocurrencies>Криптовалюты</a></li>
 <li><a href=#getting-atokens>Получение aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>Стейкинг aTokens внутри Aavegotchi</a></li>
 </ol>
 
 </div>
@@ -44,11 +44,11 @@ aTokens классифицируются двумя категориями: (1) 
 
 ## Стейблкоины
 
-table_stablecoins
+таблица_стейблкоинов
 
 ## Криптовалюты
 
-table_cryptocurrencies
+таблица_криптовалют
 
 ## Получение aTokens
 
@@ -76,10 +76,10 @@ table_cryptocurrencies
 
 ## Стейкинг aTokens внутри Aavegotchi
 
-Okay, I've gotten myself some aTokens. What now?
+Окей, я заполучил несколько aTokens. Что дальше?
 
-Good work fren.
+Отличная работа, френ.
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+Следующим шагом будет покупка [портала](/portals) с помощью [GHST](/ghst). Порталы можно купить в приложении Aavegotchi (ссылка появится при запуске) или на [Вторичных Рынках](/marketplace), таких как Opensea. Как только вы заполучили драгоценный портал, пора начинать процедуру призыва. При открытии портала вы увидите 10 Gotchi, каждый из которых потребует случайное количество aToken в обеспечение. Здесь и вступает в игру полученный вами aToken. Стейкайте токены в Gotchi с тем же самым типом обеспечения и вдохните жизнь в своего френа!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Для детальной информации о процессе открытия портала посетите страницу [порталы](/portals).
