@@ -15,9 +15,9 @@ contributors:
 
 Токеномика? Кого она вообще волнует? Когда Туземун??
 
-Нас волнует, и вам бы тоже стоило. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Нас волнует, и вам бы тоже стоило. Планируя инвестировать в токены GHST (или любые другие), нужно понимать, как устроена и работает экосистема проекта. В конце концов, чем выше ваши знания, тем лучше для всего сообщества френов.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchi уделяют много внимания распределению доходов и поддержанию эффективной токеномики, при этом балансируя в достижении вот этих четырех основных целей:
 
 <ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
