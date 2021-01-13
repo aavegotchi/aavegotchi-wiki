@@ -34,7 +34,7 @@ GHST 토큰은 온체인 상의 다양한 아베고치 자산들을 구매하는
 </div>
 
 ## 왜 GHST인가?
-사용자 동기부여는 어떤 프로젝트에서든지 굉장히 중요한 부분입니다. In this case, GHST provides the economic incentives to encourage greater participation in the Aavegotchi ecosystem. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
+사용자 동기부여는 어떤 프로젝트에서든지 굉장히 중요한 부분입니다. GHST는 유저들이 아베고치 생태계에 대한 참여를 장겨하기 위해 경제적인 인센티브를 제공하고 있습니다. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
 
 Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
 
