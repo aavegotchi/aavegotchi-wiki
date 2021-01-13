@@ -3,7 +3,7 @@ author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Изогнутая кривая'
 description: 'Изогнутая кривая Aavegotchi'
-image: "curve/bonding-curve.png"
+image: "кривая/изогнутая-кривая.png"
 contributors:
   - "unintelligent-nerd"
 ---
