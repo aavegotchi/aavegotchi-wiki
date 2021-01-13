@@ -69,7 +69,7 @@ Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标
 灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
 
 ### 灵魂点
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+灵魂点指的是等级上升时得到的点。 Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Wearables
 Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
