@@ -113,33 +113,33 @@ Aavegotchi首先获得了Aave生态系统补助金，授权他使用Aave幽灵�
 
 ## Raffle 常见问题
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+请参阅 <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> 以获取关于奖券的一般信息。
 
 
 
 ### 买了票就意味着我可以参加抽奖吗?
 
-不！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+不！ 请注意，简单地购买奖券 **并不自动进入抽奖。** 你需要在72小时内把票押上 抽奖已经开始了。 这包括Raffle页面上的两个交易 - **批准您的** 工单， **并输入** 您的工单。 如果您成功提交了您的工单，您将在 看到您在统计页面中输入的工单数量。
 
 
 ### Aavegotchi商店会提供抽奖可穿戴设备吗?
 
-不 The only time these wearables will ever be released is during the pre-launch raffles.
+不 只有在发射前的突击搜查期间才能释放这些穿戴物。
 
 
 ### 抽奖可穿戴设备很特别吗?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+至于游戏玩法，可穿戴抽奖设备也会提供同样的服务<a href="https://wiki.aavegotchi.com/wearables">提升</a> 倍速。 mythical等)。  在 <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">开放市场</a>， 由于他们的 **启动前状态** 或 **品牌协会** 是否具有更大的转售价值将取决于市场需求。
 
 ### 我可以买积分吗?
-不 FRENS are a way to reward our community members who staked GHST.
+不 FRENS 是一种奖励身患GHST的社区成员的方式。
 
 ### 除了抽奖，积分还有别的用处吗?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+不，FRENS的唯一东西是进入Aavegotchi raffff。 Aavegotchi生态系统的其余部分将由GHST提供动力。
 
 ### 你怎样转帐抽奖券?
-Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+Raffle Tickets是基于ERC-1155标准。 目前，基于此标准的令牌可以使用 [Opensea](https://opensea.io/) 接口传输。 一旦在Opensea，连接您的metamask和钥匙在收件人的钱包地址转移您的奖券给他们。
 
 ### Mainnet发射后是否会有Raffles？
 是的，Mainnet启动后还会有更多的冲锋。 然而，这种做法并不经常发生，而且不会事先宣布。 这是为了奖励那些仍在挂起和累积他们的 [积分](/glossary#frens) 和/或奖券。
@@ -147,43 +147,44 @@ Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on th
 ## 传送门常见问题
 
 ### 您可以在 1 次交易中购买多少门？
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+每个用户可以在 1 笔交易中购买多达50个门户。 这是为了防止鲸鱼在一个前垄断大量的门户。
 
 ### 如果我打开了一个传送门，但没有认领gotchi所需的代币，我可以稍后再来认领吗?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+是的，您可以离开门户打开，去获取特定的 aToken，稍后再回来召唤您的所得。 你不需要事先准备aTokens。
 
 ## 游戏常见问题
 
 
 ### 更高的特性总是意味着更稀少？
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Aavegotchi 稀有性基于一个钟曲线——表示 **高和极低** 特性是可取的。 <a href="https://wiki.aavegotchi.com/traits">掉落在
+ 0-100 范围中的特性得分</a> 更为常见。
 
 ### 它的费用是多少？
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+门户的首次出没预计将花费100 GHST。 其他物品如磨损、消耗品和土地的成本将在正式发布时宣布——尽管 游戏启动后， [DAO](/dao) 将有权通过治理投票 **调整资产价格** 同时，您可以查看目前在 [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers) 上的某些可穿戴物品的 开放市场价格。
 
 ### 改变附带关系是否影响亲属关系水平？
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+不，增加或减少Aavegotchi中的抵押品/aToken不影响亲属关系。
 
 ## 技术常见问题
 
 
 ### Aavegotchi 是否在链上？
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Aavegotchi游戏的所有元素都存储 [在以太坊区块链上](https://twitter.com/aavegotchi/status/1328548543909351429). 您可以在这里阅读更多关于我们独特设计的信息，使用钻石标准 [](/glossary#diamond-standard)。
 
 ### 我应该和 Aavegotchi 使用哪个钱包？
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> 迄今是根据我们社区的经验与Aavegotchi一起使用的最佳选项。 Metamask 和 [Arkane 钱包](https://arkane.network/apps) - 它将很快与 Aavegotchi 集成——两者都支持 ERC1155 令牌， 这意味着你可以看到你钱包中的所有资产(例如磨损)以及你的GHST 代币。
 
 ### Aavegotchi 是否会在Layer 2运行？
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+是 Aavegotchi 计划使用 [Matic](https://matic.network/) 作为第二层解决方案，在发射后很快会集成。 小组选定Matic，因为他们有一个强有力的团队，在权力下放方面取得了进展。 与 OpenSea 等其他NFT 平台似乎具有强大的网络效果。
 
 ### 我需要迁移我的 Aave 令牌吗？
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
+Aavegotchi 将使用 [Aave第二版的 aTokens](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - 在尝试索取您的 Aavegotchi 之前，一定要迁移您在版本 1 上的任何代币。 根据Stani，我们 [应该很快就有一个迁移工具](https://twitter.com/StaniKulechov/status/1334546997827809285) (启动前) :) 
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
