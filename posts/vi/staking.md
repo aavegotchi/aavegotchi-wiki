@@ -43,11 +43,11 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 ## Cách Stake
 Một khi đã có token GHST, đã đến lúc để stake chúng!
 
-There are three ways to stake: (1) staking GHST tokens [Mainnet], (2) staking Uniswap GHST-ETH LP tokens [Mainnet], and/or (3) the GHST-QUICK pool on QuickSwap [Matic].
+Có ba cách để stake: (1) stake token GHST [Mainnet], (2) stake token thanh khoản GHST-ETH trên Uniswap [Mainnet], và/hoặc (3) quỹ GHST-QUICK trên Quickswap [Matic].
 
 *Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
 
-### Staking GHST tokens [Mainnet]
+### Stake token GHST [Mainnet]
 Đây là cách trực tiếp nhất để stake token GHST. Hãy chuyển đến trang [giao diện staking của người dùng](https://aavegotchi.com/stake). Nó sẽ giống như hình ở bên dưới đây.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
@@ -58,7 +58,7 @@ Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một tr
 
 *Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
-### Staking Uniswap GHST-ETH LP tokens [Mainnet]
+### Stake Token LP GHST-ETH từ Uniswap [Mainnet]
 Một phương pháp thứ hai và phức tạp hơn là stake token Cung cấp Thanh khoản (LP) GHST-ETH từ Uniswap. Bằng cách này, bạn cần phải có cả token GHST và ETH trong ví. Hãy chuyển đến trang [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) để cung cấp thanh khoản cho cả hai token (xem ảnh bên dưới). Người dùng cần cung cấp thanh khoản với tỷ lệ 50% GHST và 50% ETH trong quỹ thanh khoản. Lượng GHST và ETH được yêu cầu để nhận được 1 token LP GHST-ETH sẽ khác nhau tuỳ theo giá của token trong quỹ tại một thời điểm.  Khi stake cả GHST và ETH, người dùng sẽ nhận được token LP GHST-ETH từ Uniswap.
 
 <img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
