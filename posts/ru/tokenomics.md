@@ -1,9 +1,9 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
-image: "IMAGE HERE"
+title: 'Токеномика'
+description: 'Токеномика Aavegotchi токена GHST'
+image: "ИЗОБРАЖЕНИЕ ЗДЕСЬ"
 contributors:
   - "appellants"
 ---
