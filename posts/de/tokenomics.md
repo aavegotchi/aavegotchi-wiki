@@ -109,58 +109,58 @@ Ein wichtiger Teil des Aavegotchi-Erlebnisses ist es, Zeit mit deinen Gotchis zu
 
 Dazu werden **40%** aller verdienten GHST über Spielerbelohnungen an die Spieler zurückgegeben.
 
-Initially, there will be three categories of Player Rewards:
+Zu Beginn wird es drei Kategorien von Spielerbelohnungen geben:
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* Top 100 seltenste Aavegotchis (nach [BRS](/rarity-farming#base-rarity-score))
+* Top 100 [Freundschafts](/traits#kinship)-Werte
+* Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+Die drei Kategorien summieren sich auf die **40%** aller verdienten GHST. Genaue Prozentzahlen für jede Kategorie stehen noch nicht fest und werden im AavegotchiDAO besprochen.
 
-More categories will be added, as the game continues to develop.
+Weitere Kategorien werden hinzugefügt, wenn sich das Spiel weiter entwickelt.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
+Diese Belohnungen werden **alle zwei Wochen** über Onchain-Snapshots verteilt.
 
 
 ## DAO Governance
 
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+Community Governance ist auch ein Kernpunkt der Aavegotchi-Erfahrung. Zu den Aufgaben des DAO gehört auch die Verwaltung einer Treasury, die für jede Initiative verwendet werden kann, die der DAO für sinnvoll erachtet. (Waifu pics vielleicht?)
 
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+**10%** der Einnahmen werden zunächst an die DAO-Treasury ausgeschüttet. Wenn der DAO weiter reift, kann sich dieser Prozentsatz noch erhöhen. Das Endziel ist natürlich, dass der DAO zu einer Einheit heranwächst, die in der Lage ist, das Protokoll zu verwalten und sogar zu upzugraden. Auch wenn das noch ein paar Jahre entfernt ist (Aavegotchi ist schliesslich erst Mitte 2020 gestartet), ist es doch etwas, worauf man sich freuen kann.
 
 
 ## BURN BABY BURN
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+Als Auftakt wäre es gut, sich mit der [Bonding Curve](/curve) von GHST und ihrer Funktionsweise vertraut zu machen. Dann beginnt der Spass.
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+**33%** aller GHST, die über Portal- und Itemverkäufe verdient werden, werden verbrannt. Für immer. Ja, das hast du richtig gelesen.
 
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
+Diese hohe Zahl beruht auf der Tatsache, dass GHST ein Token mit einem dynamischen Angebot ist. Sein Angebot steigt mit der Nachfrage, was bedeutet, dass diese hohe Verbrennungsrate nicht zu einer schnellen Deflation des Tokens führt. Das ist ein Problem für Token mit einem festem Angebot.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+Das Verbrennen von GHST ist ein deflationäres Gegengewicht zum Abwärtsdruck auf den Preis von GHST, wie er möglicherweise durch die Ausgabe von GHST-Spielbelohnungen in Form von GHST verursacht wird.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
-
-
-## Development Team
-
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
-
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
-
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
-
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
-
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
-
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Das Senden von GHST direkt an die Burn Adresse sperrt auch DAI innerhalb der Bonding Curve, was eine steigende Preisuntergrenze für GHST schafft. Dies ist für alle Parteien positiv, da es eine bessere Liquidität für Käufer und Verkäufer auf der Curve ermöglicht (aka weniger Slippage), das zirkulierende Angebot senkt und Stabilität für den [DAICO Tap Mechanismus](/curve#aavegotchi-daico) bietet.
 
 
+## Entwicklerteam
 
-**Final Words**
+Zu guter Letzt gehen **17%** der Einnahmen an das Entwicklungsteam. Schliesslich ist es wichtig, unsere Entwickler zu füttern, damit sie sich darauf konzentrieren können, die beste DeFi x NFT Erfahrung für alle hier zu schaffen.
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+Schliesslich sind wir alle Menschen hier. Schlecht ausgerichtete Anreize für Protokollentwickler sind eine grosse Ursache für das Scheitern von Protokollen und ein Problem, das Aavegotchi verhindern möchte.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+Wenn Protokollentwickler für ihre Arbeit ausschliesslich in dem nativen Token bezahlt werden, sind sie gezwungen, den Token zu verkaufen, um die Ausgaben zu bezahlen, was zu Verkaufsdruck und einem potenziellen "Todesspiral"-Szenario führt, von dem sich der Token nie wieder erholt.
+
+Wenn Entwickler jedoch GAR nicht mit dem nativen Token bezahlt werden, dann sind die Anreize nicht stark genug, was zu schlechten Entscheidungen führt.
+
+Die Aavegotchi Bonding Curve löst dieses Problem über eine Trennung der Interessen - unser von der Community verwalteter Tap-Mechanismus verteilt jeden Monat DAI aus der Reserve an Pixelcraft Studios (die Hauptentwickler von Aavegotchi), um ein funktionierendes Budget für die aktive Entwicklung zu gewährleisten.
+
+Zusätzlich erhält Pixelcraft 17% aller GHST-Einnahmen, die hauptsächlich für Liquiditätsanreize, Werbegeschenke und andere Werbeaktionen, die GHST erfordern, verwendet werden.
+
+
+
+**Schlussworte**
+
+Einer der besten Aspekte des Krypto-Versums und der Grund, warum ständig neue Spieler hinzukommen, ist dieser - es ist kein Nullsummenspiel. Es gibt die Chance für uns alle, gemeinsam Gewinne zu erzielen, besonders in einem DAO. Die Frage ist, wie wir das am besten bewerkstelligen können. Das Verstehen der Tokenomics eines Projekts bietet uns einen guten Ausgangspunkt.
+
+Lies und spiel weiter. Wir sehen uns bald auf dem Mond, Aagent. 
 
