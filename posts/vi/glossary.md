@@ -182,18 +182,18 @@ Xem thêm [website của họ](https://aragon.org/) tại đây.
 Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### Diamond Standard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+The Diamond Standard được tạo ra bởi người anh em [Nick Mudge](/team#nick-mudge) của chúng tôi. Diamond Standard cho phép người dùng viết những bản hợp đồng theo một mô đun mà trong đó không hề có giới hạn về kích thước và tiết kiệm gas.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Diamond có thể được nâng cấp lên nhanh chóng mà không cần phải tái vận hành những chức năng đã tồn tại.
 
 Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
 
 A diamond is a contract that implements the Specification in this standard.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Hãy nhấp vào [đây](https://eips.ethereum.org/EIPS/eip-2535) để xem thông tin chi tiết.
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Một tiêu chuẩn token dành cho token có thể thay thế được, hay nói cách khác, chúng có một chức năng giúp mỗi Token sẽ giống hệt (về loại và giá trị) với một Token khác. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
 
 ### ERC-721
 A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
