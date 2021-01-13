@@ -9,41 +9,41 @@ contributors:
 
 Hey! Du hast also von der Migration auf Matic gehört, hast aber keine Ahnung, was das überhaupt ist? Keine Sorge, wir werden dich Schritt für Schritt durch alles führen!
 
-In short, Matic Network is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+Kurz gefasst ist Matic Network eine Layer 2 Skalierungslösung für öffentliche Blockchains wie Ethereum. Es ist eine dezentralisierte Plattform, die schnellere und extrem kostengünstige Transaktionen mit Finalität auf der Hauptchain gewährleistet. Wenn du wissen willst, wie es im Detail funktioniert, schau dir diesen [Artikel](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) an.
 
-So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
+Verabschiede dich also von 100$ Transaktionen auf Uniswap und sag hallo zu (fast) kostenlosen Interaktionen!
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#why-matic->Why Matic?</a></li>
-<li><a href=#adding-matic-to-your-metamask>Adding Matic to your Metamask</a></li>
-<li><a href=#bridging-assets-to-matic>Bridging assets to Matic</a></li>
+<li><a href=#why-matic->Wieso Matic?</a></li>
+<li><a href=#adding-matic-to-your-metamask>Matic zu deiner Metamask Wallet hinzufügen</a></li>
+<li><a href=#bridging-assets-to-matic>Assets auf Matic transferieren</a></li>
 </ol>
 
 </div>
 
-## Why Matic?
+## Wieso Matic?
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+Wie du vielleicht weisst, war der Launch des Aavegotchi Mainnets für den 4. Januar 2021 geplant. An diesem Tag bewegte sich Bitcoin um fast 40%, was dazu führte, dass Arbitrage-Bots durchdrehten. Dies liess die Gasgebühren auf über 400 gwei explodieren, was zu lächerlichen Transaktionsgebühren führte. Nur um es in Perspektive zu setzen: Ein einziges [Portal](/portals) zu kaufen, es zu öffnen und ein Gotchi zu beschwören, hätte mindestens 300$ gekostet.
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Matic has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Matic with 76%.
+Es war klar, dass ein Launch auf dem Ethereum Mainnet unmöglich war. Da Matic bereits mit verschiedenen NFT-Projekten (wie z.B. OpenSea) zusammengearbeitet hat, war die Wahl relativ einfach. Die Community teilte diese Meinung und stimmte mit 76% für einen Launch auf Matic.
 
-## Adding Matic to your Metamask
+## Matic zu deiner Metamask Wallet hinzufügen
 
-Let’s get started with the fun stuff! To use Matic Network, you first need to add it to your Metamask wallet.
+Fangen wir also an! Um Matic Network zu nutzen, musst du es zunächst zu deiner Metamask Wallet hinzufügen.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Öffne die Erweiterung und klicke oben auf den Button "Ethereum Mainnet".
 
 <img class = "bodyImage" src = "/matic/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). Wähle "Custom RPC".
 
 <img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
 
-3). Enter the following settings:
+3). Gib die folgenden Einstellungen ein:
 
 Network Name: Matic Mainnet
 
@@ -55,35 +55,35 @@ Currency Symbol (optional): MATIC
 
 Block Explorer URL (optional): https://explorer.matic.network/
 
-Once you’ve added everything, you can click on “Save”.
+Sobald du alles hinzugefügt hast, kannst du auf "Save" klicken.
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Matic by clicking the button from step 1.
+4). Es gibt keinen Schritt 4, du bist schon fertig! Du kannst nun zwischen Ethereum Mainnet und Matic wechseln, indem du auf den Button aus Schritt 1 klickst.
 
-## Bridging assets to Matic
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Matic. We’re going to use the PoS Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+## Assets auf Matic transferieren
+Nun hast du Metamask eingerichtet und bist bereit loszulegen. Doch vorher brauchst du noch ein paar Assets auf Matic. Wir werden die PoS Matic Bridge nutzen, um unsere Tokens vom Ethereum Mainnet auf Matic zu transferieren. Wenn du nur GHST migrieren möchtest, ignoriere alle folgenden Schritte und benutze unsere einfache Aavegotchi Bridge [hier](https://aavegotchi.com/bridge).
 
-So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
+Also für alle, die verschiedene Assets wie ETH oder USDC übertragen wollen, hier ist die Vorgehensweise:
 
-1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
+1). Besuche die Seite [https://wallet.matic.network/](https://wallet.matic.network/) und logge dich mit Metamask ein. Vergewissere dich, dass du dich im "Wallet" Tab befindest, es sollte in etwa so aussehen:
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 
-2). **DO NOT** click the “Switch to Plasma” button. That’s the wrong bridge and needs 7 days to withdraw. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
+2). **Klicke NICHT** auf die Schaltfläche "Switch to Plasma". Das ist die falsche Brücke und braucht 7 Tage um die Gelder zurückzuschicken. Füge stattdessen das Asset, das du migrieren möchtest, auf der rechten Seite hinzu. Ich habe bereits USDC hinzugefügt, daher kann man es in meiner Wallet sehen.
 
 <img class = "bodyImage" src = "/matic/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
 
-3). On the left side click “Matic Wallet” and “Deposit”.
+3). Klicke auf der linken Seite auf "Matic Wallet" und "Deposit".
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
 
-4). Click “Continue to Deposit” and select your asset here:
+4). Klicke auf "Continue to Deposit" und wähle hier dein Asset aus:
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
 
-5). Enter how much of it you’d like to bridge and click the big blue button.
+5). Gib ein, wie viel davon du migrieren möchtest und klicke auf den grossen blauen Button.
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
 
-Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Matic address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on matic. (That’s enough for 1000s of transactions, Matic is aavesome!)
+Uuuuund das war's! Bestätige einfach die Transaktion in Metamask und du bist fertig. Es kann bis zu 10 Minuten dauern, bis die Token in deiner Matic Adresse ankommen. Du solltest 0.1 MATIC airdropped bekommen, wenn du einen Stablecoin transferierst und [Quickswap](https://quickswap.exchange/) öffnest, den grössten DEX auf Matic. (Das ist genug für tausende von Transaktionen, Matic ist super!)
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+Wenn du bei irgendetwas Hilfe brauchst, kannst du dem Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) beitreten und ein anderes Community-Mitglied fragen.
