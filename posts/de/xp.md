@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Aavegotchi Erfahrung (EXP)'
+description: 'Erfahre mehr über Aavegotchi Erfahrungspunkte (EXP) hier!'
 contributors:
   - "unintelligent-nerd"
 ---
