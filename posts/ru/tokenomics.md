@@ -10,12 +10,12 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<p class="headerImageText">Когда же GHST будет по 5 баксов???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+Токеномика? Кого она вообще волнует? Когда Туземун??
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Нас волнует, и вам бы тоже стоило. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
 
 Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
 
