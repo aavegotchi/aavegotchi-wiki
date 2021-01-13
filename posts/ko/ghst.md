@@ -34,14 +34,14 @@ GHST 토큰은 온체인 상의 다양한 아베고치 자산들을 구매하는
 </div>
 
 ## 왜 GHST인가?
-사용자 동기부여는 어떤 프로젝트에서든지 굉장히 중요한 부분입니다. GHST는 유저들이 아베고치 생태계에 대한 참여를 장겨하기 위해 경제적인 인센티브를 제공하고 있습니다. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
+사용자 동기부여는 어떤 프로젝트에서든지 굉장히 중요한 부분입니다. GHST는 유저들이 아베고치 생태계에 대한 참여를 장겨하기 위해 경제적인 인센티브를 제공하고 있습니다. 특히 GHST는 아베고치DAO, GHST 홀더, 아베고치 홀더들이 지닌 각각의 목표에 도달하는 것을 돕습니다.
 
-Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+유저들은 GHST를 구매해 아베고치를 소환하고 훈련하는 과정에 사용해야 합니다. 사용된 GHST의 일부는 DAO에게 즉시 전달되어 아베고치 생태계의 발전을 지원하는데 쓰입니다. 동시에 DAO의 건전한 거버넌스와 희귀도 농사 참여에 대한 보상으로도 배분이 이루어집니다.
 
-For more information, make sure to check out the pages under 'Tokenomics' in the sidebar.
+더 많은 정보가 필요하다면 사이드바의 '토큰 이코노미(Tokenomics)' 페이지를 확인해주시길 바랍니다 :)
 
 ## GHST 사용하기
-What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
+아베고치를 구매하는 것 말고 GHST로 무엇을 할 수 있을까요? 그리고 GHST는 언제 고점에 도달하게 될까요? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
 
 These include:
 
