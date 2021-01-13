@@ -45,14 +45,14 @@ contributors:
 <p><a href=#yield-farming>产量农业</a></p>
 <li><a href=#general-terms>一般术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
-<p><a href=#diamond-standard>Diamond Standard</a></p>
+<p><a href=#bell-curve>Bell曲线</a></p>
+<p><a href=#diamond-standard>钻石标准</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
+<p><a href=#matic-network>Matic 网络</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#non-fungible-token>非同质化代币 (NFT)</a></p>
 </ol>
 
 </div>
@@ -60,13 +60,13 @@ contributors:
 ## Aavegotchi相关的
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/rarity-farming)。
 
 ### 积分
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+积分被奖励给已质押GHST的用户。 FRENS 不是一个令牌。 从技术上讲，这是放样合同中的余额。 FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
 ### 灵魂力
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
 
 ### 灵魂点
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
@@ -178,10 +178,10 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### Bell Curve
+### Bell曲线
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
-### Diamond Standard
+### 钻石标准
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
 Diamonds can be upgraded on the fly without having to redeploy existing functionality.
@@ -209,7 +209,7 @@ Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
+### Matic 网络
 Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
 Read more about Matic Network [here](https://matic.network/).
