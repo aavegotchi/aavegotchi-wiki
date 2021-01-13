@@ -64,7 +64,7 @@ Whale(대주주, 일명 고래)가 아니여도 상관없습니다 - 디파이 �
 
 * 희귀도 농사에 참여하기
 * 아베고치DAO에 참여하고 투표하기
-* Playing and winning in minigames (more information TBC)
+* 미니게임에 참여하고 승리하기(더 많은 정보들이 추후에 공개될 것입니다!)
 
 
 
