@@ -79,7 +79,7 @@ Aavegotchis erhalten Erfahrung (EXP) für das Abstimmen im AavegotchiDAO und das
 ## Level
 Aavegotchis leveln auf, wenn sie mehr EXP erhalten. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Einige Kleidungsstücke können nur von Aavegotchis eines bestimmten Levels getragen werden.
 
-For detailed information on the XP required for each level, click [here](/xp).
+Für detaillierte Informationen zu wie viel EXP für jedes Level benötigt werden, klicke [hier](/xp).
 
 ## Haunt
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Wie Pioniere in der Neuen Welt reisen die Aavegotchis in Gruppen, die als Haunts bekannt sind, vom Nether Realm zum Ether Realm. Der erste Haunt enthält 10'000 Aavegotchis. Danach müssen neue Haunts vom AavegotchiDAO genehmigt werden. Einige Kleidungsstücke können nur von Aavegotchis getragen werden, die zu einem bestimmten Haunt gehören.
