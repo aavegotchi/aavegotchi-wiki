@@ -2,7 +2,7 @@
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
 title: 'Team'
-description: 'See who&#8217s building the Aavegotchi Game'
+description: 'Sieh dir an, wer das Aavegotchi Spiel entwickelt'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
@@ -11,10 +11,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/aavegotchi-team-photo.png">
-<p class="headerImageText">Non edited photo</p>
+<p class="headerImageText">Nicht-bearbeitetes Foto</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+Willst du wissen, wer hinter den süssen Gotchis steckt? We got ya covered. Presenting the people behind Aavegotchi!
 
 <div class="contentsBox">
 
