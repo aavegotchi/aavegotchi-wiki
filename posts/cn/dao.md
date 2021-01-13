@@ -11,35 +11,35 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">AavegotchiDAO徽章</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+[DAO](glossary#dao) 是一种分散的治理形式。 它允许令牌持有者投票，以便塑造组织的决策方式。
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Aavegotchi遵循“逐步分散化”的流程，遵循了诸如Descompound和Synthetix等成功的DeFi协议的脚步，从创始团队开始，Pixelcraft Studios组织了DAO管理的代币分发活动（DAICO），并最终对Aavegotchi进行了治理 ，包括所有游戏机制，智能合约和资金，均由AavegotchiDAO赞助，但必须遵守现行法规环境。 这将分三个阶段完成。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
-<li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
+<li><a href=#genesis>起源</a></li>
+<li><a href=#metamorphosis>变形</a></li>
+<li><a href=#oasis>绿洲</a></li>
+<li><a href=#participating-in-governance>参与治理</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## 起源
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*查看* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
 The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
 
 Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-## Metamorphosis
+## 变形
 
 Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
 
@@ -47,13 +47,13 @@ A full list of actions available to perform by the AavegotchiDAO in this phase i
 
 Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
 
-## Oasis
+## 绿洲
 
 Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
 
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-## Participating in Governance
+## 参与治理
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 More details will be fleshed out once the game releases!
