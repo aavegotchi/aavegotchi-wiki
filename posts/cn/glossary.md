@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
+title: '术语表'
+description: '关于Aavegotchi、NFT 和 DeFi 术语的词汇。'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,39 +11,39 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">阅读Gotchi术语之后的Aavegotchi</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+如果你刚刚开始探索DeFi世界，欢迎来到这个互联网角落！ 本词汇表旨在为您提供一些信息，希望这些信息可以帮助您了解一些DeFi基础知识。 如果您是这个领域的新手，那么此词汇表还将为您提供一些在浏览Aavegotchi世界时可以看到的术语的概述，以帮助您进一步理解。
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+当您阅读完本并希望对这些术语有更好的理解后，请随时转到入门部分，并深入了解生态系统。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<li><a href=#aavegotchi-related>Aavegotchi相关的</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#frens>FRENS</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#frens>积分</a></p>
+<p><a href=#spirit-force>灵魂力</a></p>
+<p><a href=#spirit-point>灵魂点</a></p>
+<p><a href=#wearables>可穿戴装备</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>抵押品</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
-<p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
-<p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
-<p><a href=#staking>Staking</a></p>
-<p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<p><a href=#flash-loans>快速贷款</a></p>
+<p><a href=#impermanent-loss>无常损失</a></p>
+<p><a href=#liquidity-pools>流动资金池</a></p>
+<p><a href=#oracles>预言机</a></p>
+<p><a href=#smart-contracts>智能合约</a></p>
+<p><a href=#staking>质押</a></p>
+<p><a href=#yield-farming>产量农业</a></p>
+<li><a href=#general-terms>一般术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#diamond-standard>Diamond Standard</a></p>
@@ -57,18 +57,18 @@ When you're done reading this and hopefully have a better understanding of these
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi相关的
 
 ### Aavegotchi
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
-### FRENS
+### 积分
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
-### Spirit Force
+### 灵魂力
 Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
 
-### Spirit Point
+### 灵魂点
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Wearables
@@ -91,7 +91,7 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 
 
-### Collateral
+### 抵押品
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -124,7 +124,7 @@ Some examples of DEXs include UniSwap, Mesa and Balancer.
 Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### Flash Loans
+### 快速贷款
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -133,12 +133,12 @@ If this doesn't happen, the whole transaction is reversed to effectively undo th
 
 
 
-### Impermanent Loss
+### 无常损失
 Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
-### Liquidity Pools
+### 流动资金池
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -146,12 +146,12 @@ For a more detailed breakdown of these terms, check out Finematics's [guide](htt
 
 
 
-### Oracles
+### 预言机
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
-### Smart Contracts
+### 智能合约
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
@@ -161,13 +161,13 @@ Staking a cryptocurrency essentially means to hold that currency, to help verify
 
 
 
-### Yield Farming
+### 产量农业
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## 一般术语
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
