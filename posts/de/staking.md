@@ -109,32 +109,32 @@ Nutzer können in einer einzigen Transaktion Tickets aus verschiedenen Kategorie
 
 ## An Lotterien teilnehmen
 
-Eine Lotterie läuft über einen bestimmten Zeitraum. In diesem Zeitraum kannst du deine Lotterie-Tickets einreichen, um eine Chance auf gewisse Preise zu erhalten. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
+Eine Lotterie läuft über einen bestimmten Zeitraum. In diesem Zeitraum kannst du deine Lotterie-Tickets einreichen, um eine Chance auf gewisse Preise zu erhalten. Das Einreichen von Lotterie-Tickets für die Verlosung erfordert eine Ethereum-Transaktion; sie erfolgt nicht automatisch. Wenn du viele verschiedene Kategorien von Lotterie-Tickets hast und diese zusammen als Bündel einreichen möchtest, ist dies ebenfalls möglich. Du musst **keine** separaten Transaktionen erstellen, um jede Kategorie von Lotterie-Tickets in die Verlosung einzutragen.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Wenn die Lotterie vorbei ist, erfährst du, welche Preise du gewonnen hast und kannst sie einfordern.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+Wenn du dich dafür entscheidest, nicht an einer bestimmten Lotterie teilzunehmen, musst du nichts mit deinen Lotterie-Tickets machen. Du kannst auch Lotterie-Tickets für spätere Lotterien sammeln, wenn du das möchtest.
 
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Die erste Lotterie hatte zum Beispiel Chainlink als Theme. Hier waren die Preise für die Lotterie:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Insgesamt 6010 Preise.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Preise auf OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Jeder Preis wird einem zufällig gezogenen Lotterie-Ticket zugewiesen, wobei jedes Ticket die gleiche Gewinnchance hat.
 
-You can improve your probability of winning by:
+Du kannst deine Gewinnwahrscheinlichkeit verbessern, indem du:
 * Mehrere Tickets einreichst
 * An Ticket-Kategorien mit mehr Preisen teilnimmst (z.B. Gewöhnlich)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Die Zufallszahlen für die Gewinner der Lotterie werden durch Chainlinks [Onchain Verifiable Randomness Generator (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) generiert.
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+Die Preise, bei denen es sich um Gutscheine für Kleidungsstücke handelt, können 1:1 gegen das eigentliche Aavegotchi Kleidungsstück getauscht werden, sobald das Spiel gelauncht wird. Dies wird im [Aavegotchi Shop](https://aavegotchi.com/shop) stattfinden.
 
 ## Statistiken der letzten Lotterien
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Zu wissen, wie man FRENS staked und an Lotterien teilnimmt, ist ja gut und schön. Aber wie sieht es mit den Zahlen aus? Wie hoch sind die Wahrscheinlichkeiten, ein Kleidungsstück zu gewinnen, basierend auf vergangenen Lotterien? Besuche die [Raffles Statistik Seite](/raffles-stats) für die historischen Daten.
 
 ## Weitere Ressourcen
 
