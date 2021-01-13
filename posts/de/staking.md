@@ -52,71 +52,71 @@ Dies ist die einfachste Art, GHST Tokens zu staken. Gehe auf die [Staking-Benutz
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. Die Box auf der linken Seite wird mit "Stake GHST Token" bezeichnet sein (siehe Bild unten). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. Die Box auf der linken Seite wird mit "Stake GHST Token" bezeichnet sein (siehe Bild unten). Wenn du zum allerersten Mal stakest, musst du auf den "Approve" Button klicken, der dem Staking Contract Zugriff auf deine GHST Token gewährt. Sobald die " Approve" Transaktion durchgeführt wurde, kannst du den gewünschten GHST-Betrag, den du staken möchtest, in das Feld "Input amount" eingeben. Wenn du fertig bist, drücke den "Stake" Button, um den Staking Prozess zu starten.
 
-<img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi" />
+<img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "aavegotchi staking" />
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Für jede 1 GHST, die auf diese Weise gestaked wird, erhältst du 1 FRENS / Tag.*
 
-### Staking Uniswap GHST-ETH LP tokens
-A second, and more complicated, method is to stake the Uniswap GHST-ETH Liquidity Provider (LP) tokens. To do this, you have to have both GHST tokens and ETH in your wallet. Head over to the [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) to add liquidity for both tokens (see image below). Users have to contribute liquidity at a ratio of 50% GHST and 50% ETH to the pool. The amount of GHST and ETH required to acquire 1 GHST-ETH LP token varies based on the price of the pool token at the time.  In return for staking both GHST and ETH, users will receive the GHST-ETH LP token from Uniswap.
+### GHST-ETH LP Tokens staken
+Eine zweite, etwas kompliziertere Methode ist das Staken der Uniswap GHST-ETH Liquidity Provider (LP) Token. Um dies zu tun, musst du sowohl GHST Token als auch ETH in deiner Wallet haben. Begib dich in den [GHST-ETH Uniswap Pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH), um Liquidität für beide Token hinzuzufügen (siehe Bild unten). Man muss Liquidität im Verhältnis von 50% GHST und 50% ETH in den Pool einzahlen. Die Menge an GHST und ETH, die benötigt wird, um 1 GHST-ETH LP-Token zu erwerben, variiert je nach dem Preis des Pool-Tokens zu diesem Zeitpunkt.  Im Gegenzug für das Staken von GHST und ETH erhalten die Nutzer den GHST-ETH LP-Token von Uniswap.
 
 <img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
 
-Once you have acquired your GHST-ETH LP token, head to the [staking user interface](https://aavegotchi.com/stake). Es wird wie das Bild unten aussehen.
+Sobald du deine GHST-ETH LP-Tokens erworben hast, gehst du zum [Staking User Interface](https://aavegotchi.com/stake). Es wird wie das Bild unten aussehen.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
 
-Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. The box on the right will be titled "Stake Uniswap GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST-ETH LP tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
+Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. Die Box auf der rechten Seite lautet "Stake Uniswap GHST Token" (siehe Bild unten). Wenn du zum allerersten Mal stakest, musst du auf den "Genehmigen" -Button klicken, der dem Staking-Vertrag Zugriff auf deine GHST-ETH LP Token gewährt. Sobald die " Approve" Transaktion durchgeführt wurde, kannst du den gewünschten Betrag an GHST-ETH LP-Tokens, den du staken möchtest, in das Feld "Input amount" eingeben. Wenn du fertig bist, drücke den "Stake" Button, um den Staking Prozess zu starten.
 
 <img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi" />
 
-*For every 1 GHST-ETH staked in this way, you receive 100 FRENS / Day.*
+*Für jede 1 GHST-ETH, die auf diese Weise gestaked wird, erhältst du 100 FRENS / Tag.*
 
-Why the huge difference in the number of FRENS earned through this method? Staking GHST-ETH LP tokens has the risk of [impermanent loss](/posts/glossary#impermanent-loss). You are compensated for the increased risk you take.
+Warum der grosse Unterschied in der Anzahl der FRENS, die durch diese Methode verdient werden? Das Staken von GHST-ETH LP Token birgt das Risiko des [Impermanent Loss](/posts/glossary#impermanent-loss). Du wirst für das erhöhte Risiko, das du eingehst, entschädigt.
 
 ## Lotterie-Tickets kaufen
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
+Sobald du genug FRENS hast, gehst du zur [Shop Bulk Buy Benutzeroberfläche](https://aavegotchi.com/tickets), um Lotterie-Tickets mit FRENS zu kaufen.
 
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
+Im Gegensatz zu FRENS können die Lotterie-Tickets von einer Wallet zur anderen übertragen werden. Sie können auch auf [Marktplätzen](/marketplace) gekauft/verkauft werden.
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+Es gibt sechs verschiedene Kategorien von Lotterie-Tickets, die von Gewöhnlich (am wenigsten wertvoll) bis Göttlich (am wertvollsten) reichen:
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blog Beitrag: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Nutzer können in einer einzigen Transaktion Tickets aus verschiedenen Kategorien kaufen. Du musst **nicht** für jede Kategorie von Lotterie-Tickets separate Kauftransaktionen erstellen.
 
 ## An Lotterien teilnehmen
 
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
+Eine Lotterie läuft über einen bestimmten Zeitraum. In diesem Zeitraum kannst du deine Lotterie-Tickets einreichen, um eine Chance auf gewisse Preise zu erhalten. Das Einreichen von Lotterie-Tickets für die Verlosung erfordert eine Ethereum-Transaktion; sie erfolgt nicht automatisch. Wenn du viele verschiedene Kategorien von Lotterie-Tickets hast und diese zusammen als Bündel einreichen möchtest, ist dies ebenfalls möglich. Du musst **keine** separaten Transaktionen erstellen, um jede Kategorie von Lotterie-Tickets in die Verlosung einzutragen.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Wenn die Lotterie vorbei ist, erfährst du, welche Preise du gewonnen hast und kannst sie einfordern.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+Wenn du dich dafür entscheidest, nicht an einer bestimmten Lotterie teilzunehmen, musst du nichts mit deinen Lotterie-Tickets machen. Du kannst auch Lotterie-Tickets für spätere Lotterien sammeln, wenn du das möchtest.
 
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Die erste Lotterie hatte zum Beispiel Chainlink als Theme. Hier waren die Preise für die Lotterie:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Insgesamt 6010 Preise.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Preise auf OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Jeder Preis wird einem zufällig gezogenen Lotterie-Ticket zugewiesen, wobei jedes Ticket die gleiche Gewinnchance hat.
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+Du kannst deine Gewinnwahrscheinlichkeit verbessern, indem du:
+* Mehrere Tickets einreichst
+* An Ticket-Kategorien mit mehr Preisen teilnimmst (z.B. Gewöhnlich)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Die Zufallszahlen für die Gewinner der Lotterie werden durch Chainlinks [Onchain Verifiable Randomness Generator (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) generiert.
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+Die Preise, bei denen es sich um Gutscheine für Kleidungsstücke handelt, können 1:1 gegen das eigentliche Aavegotchi Kleidungsstück getauscht werden, sobald das Spiel gelauncht wird. Dies wird im [Aavegotchi Shop](https://aavegotchi.com/shop) stattfinden.
 
 ## Statistiken der letzten Lotterien
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Zu wissen, wie man FRENS staked und an Lotterien teilnimmt, ist ja gut und schön. Aber wie sieht es mit den Zahlen aus? Wie hoch sind die Wahrscheinlichkeiten, ein Kleidungsstück zu gewinnen, basierend auf vergangenen Lotterien? Besuche die [Raffles Statistik Seite](/raffles-stats) für die historischen Daten.
 
 ## Weitere Ressourcen
 
