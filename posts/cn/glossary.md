@@ -68,34 +68,34 @@ Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标
 ### 灵魂力
 灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
 
-### 灵魂点
-灵魂点指的是等级上升时得到的点。 Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+### 精神点
+灵魂点指的是等级上升时得到的点。 Kinda就像RPG游戏中的统计点。 你每3级获得1个精神点。
 
-### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+### 可穿戴装备
+Aavegotchi穿的衣服/设备。 它们符合ERC-1155标准。
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" 是指 **去**中心化**金融**nance. 可以认为它是为传统金融机构提供类似服务的应用程序和协议的生态系统（例如，借贷，借贷以及从储蓄中产生的利息等）。 但是，有一个主要区别-DeFi的目标是在没有中间人的情况下以分散的方式进行。
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+这意味着没有银行削减您的潜在收益或为您提供负利率。 这也意味着不会出现整个系统可能崩溃的中心故障点，也不会受到由集中力量的小组决定和实施的一组规则的影响。
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+在撰写本文时（2020年12月5日），锁定Defi的总价值为14.24B USD。
 
-## Key Terms
+## 用户条款
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY代表年收益率。 这是您存入协议的储蓄所赚取的实际收益率，同时考虑了加息的影响。
 
 
 
 ### 抵押品
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+抵押是一个非常简单的概念。 它是指您从放款人那里借钱时可能放下的一种资产，作为对放款人的担保。 如果您无法偿还贷款，您的抵押品将用于偿还债务。
 
 
-In the context of DeFi, this is how things might look:
+在DeFi的情况下，情况可能如下所示：
 
 
 Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
