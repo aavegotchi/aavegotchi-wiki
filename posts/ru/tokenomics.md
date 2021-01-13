@@ -56,9 +56,9 @@ GHST токен распределялся в три стадии. Это час
 
 **Пресейл**
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
+Размер: 500 тысяч GHST Цена: 0,1 DAI/GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+Пресейл токенов GHST стартовал 14.09.2020 года, был ограничен по времени — на 2 недели или до момента, пока не выкупят все токены. Все Аагенты 6 уровня, прошедшие KYC проверку до указанной даты, имели право приобрести GHST на этом этапе.
 
 To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
 
