@@ -5,44 +5,44 @@ title: 'Gameplay'
 description: 'Intrduction to Aavegotchi Gameplay'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Aavegotchi有一个真正独特的游戏，由多个元素组成，混合在NFT和Defi之间。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#ghst-token>GHST Token</a></li>
+<li><a href=#ghst-token>GHST 代币</a></li>
 <li><a href=#portals>传送门</a></li>
-<li><a href=#wearables>Wearables</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#wearables>可穿戴装备</a></li>
+<li><a href=#rarity-farming>稀有农场</a></li>
+<li><a href=#minigames>迷你游戏</a></li>
 </ol>
 
 </div>
 
-## GHST token
+## GHST 代币
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+[GHST](https://wiki.aavegotchi.com/en/ghst) 是Aavegotchi生态系统的本机管理令牌和基础货币，可释放游戏中最强大的功能。 您可以将其抵押以获得FRENS，并将其转换为抽奖券，购买Portal和可穿戴设备，赚取更多GHST（即将推出！）等等。
 
-You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
+您可以通过Aavegotchi [绑定曲线](https://wiki.aavegotchi.com/en/curve) 或您最喜欢的一次交易购买GHST。
 
 ## 传送门
 
-A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+[传送门](https://wiki.aavegotchi.com/en/portals) 是一个你需要的设备来召唤你的Aavegotchi 从地狱领域开始玩。 一个门户允许您从10种不同的 Aavegotchis 中选择随机生成的特性并通过发布Aave-backed ERC20 令牌为其添加内在值。 或 [aTokens](https://wiki.aavegotchi.com/en/atokens) 到它。
 
-You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
+您可以在 Aavegotchi dApp 上购买一个传送门或外部NFT 市场，如OpenSea ，用于大约100 GHST。
 
-## Wearables
+## 可穿戴装备
 
-[Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+[可穿戴装备](https://wiki.aavegotchi.com/en/wearables) 是Aavegotchi 游戏的重要部分。 通过打扮您的Aavegotchi，您可以提高可爱的幽灵fren的稀有度和特质，帮助他们在稀有农业和迷你游戏中表现更好。
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+您现在可以通过限定版本的 [抽奖](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) 获得一个可穿戴装备，并在Mainnet上的 Aavegotchi 发射时将其兑换成一个类似的Wearable。可穿戴装备
 
-## Rarity farming
+## 稀有农场
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+[稀有农场](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) 是一款迷你游戏，使用GHST令牌奖励最稀有的Aavegotchi的所有者。 目标是创建一个具有最高最终稀有度分数的Aavegotchi，该分数取决于其特征和可穿戴设备的稀有性。
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+在每个期限结束后，长度由AavegotchiDAO决定，最稀有的Aavegotchis的所有者将获得GHST奖励的分配。
 
-## Minigames
+## 迷你游戏

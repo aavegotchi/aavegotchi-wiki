@@ -77,7 +77,7 @@ Some ways to boost your Aavegotchi’s kinship level:
 Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 ## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. 每隔几级，Aavegotchis就会获得一个灵点，可以用于增加或减少某个特性。 Some wearables can only be worn by Aavegotchis of a certain level.
 
 For detailed information on the XP required for each level, click [here](/xp).
 

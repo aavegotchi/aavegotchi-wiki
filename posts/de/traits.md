@@ -1,85 +1,85 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+title: 'Eigenschaften'
+description: 'Alles was du über Aavegotchi Eigenschaften wissen musst!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
 ---
 
-Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in mini-games, and the [wearables](/wearables) that they are allowed to wear. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+Aavegotchis werden mit (Charakter-)Eigenschaften geboren. Genauso wie deine Eigenschaften bestimmen, wer du als Person bist, sind auch die Eigenschaften eines Aavegotchis wichtig, um sein Leben als Geist zu bestimmen! Diese vielfältigen Eigenschaften, die sie besitzen, beeinflussen ihre [Eigenschafts Base Rarity](/rarity-farming#base-rarity-score), ihre Leistung in Minispielen und die [Kleidungsstücke](/wearables), die sie tragen dürfen. Aavegotchis, die von [Portalen](/portale) beschwört werden, kommen mit einer Kombination von zufällig generierten Eigenschaften auf die Welt. Die Eigenschaften des Aavegotchi können sich jedoch mit dem <a href=#level>Level</a>, den ausgerüsteten Kleidungsstücken und den verwendeten Consumables verändern. 
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
-<li><a href=#kinship>Kinship</a></li>
-<li><a href=#experience>Experience</a></li>
+<li><a href=#randomly-generated-traits>Zufällig generierte Eigenschaften </a></li>
+<li><a href=#kinship>Freundschaft</a></li>
+<li><a href=#experience>Erfahrung</a></li>
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
 </ol>
 
 </div>
 
-## Randomly Generated Traits
-Aavegotchis have six traits:
+## Zufällig generierte Eigenschaften
+Aavegotchis haben sechs Eigenschaften:
 
-* AGG = Aggressiveness
-* NRG = Energy
+* AGG = Aggressivität
+* NRG = Energie
 * SPK = Spookiness
-* BRN = Brain Size
-* EYS = Eye Shape
-* EYC = Eye Color
+* BRN = Hirngrösse (Engl. = Brain Size)
+* EYS = Augenform (Engl. = Eye Shape)
+* EYC = Augenfarbe (Engl. = Eye Color)
 
-Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
+In der RPG (Role-playing Game) Terminologie entspricht `AGG` der Stärke, `NRG` der Agilität, `BRN` der Intelligenz und `SPK` ist eine Wildcard Eigenschaft. Beachte bitte, dass diese Eigenschaften nicht genau den Standard-RPGs entsprechen; niedrigere Eigenschaftswerte im Aavegotchi-Metaverse sind ebenfalls sehr mächtig!
 
-Traits are determined at the point of opening a [Portal](/portals). Upon opening of a Portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+Eigenschaften werden beim Öffnen eines [Portals](/portals) festgelegt. Beim Öffnen eines Portals wird [Chainlink's VRF Zufallszahlengenerator Funktion](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) aufgerufen, um Aavegotchis mit zufälligen Eigenschaftswerten zu versehen. Diese Eigenschaftswerte sind auf einer Glockenkurve verteilt und jeder Eigenschaft wird ein Wert von Gewöhnlich, Ungewöhnlich, Selten oder Mythisch zugewiesen, abhängig von ihrer Seltenheit. Die Chancen, jede Seltenheitswerte zu erhalten, sind in der folgenden Tabelle aufgeführt:
 
 table_TraitsProbabilities
 
-The bell curve for trait value distribution would look something like the following:
+Die Glockenkurve für die Verteilung der Eigenschaftswerte würde in etwa wie folgt aussehen:
 
 <img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
 
-Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
+Aavegotchis besitzen zunächst sechs Eigenschaften, wobei diese in Zukunft durch Abstimmung im [AavegotchiDAO](/dao) erweitert werden können. Einige Eigenschaften, wie z.B. die Körperfarbe des Aavegotchis (anders als einfach nur weiss), werden von der AavegotchiDAO für jeden neuen "Haunt" (Dt. = Spuk) definiert!
 
-Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game.
+Im Gegensatz zu anderen Spielen, gibt es in Aavegotchi keine "optimale" Eigenschaft. Jedes Attribut (ausser Augenform und Augenfarbe) hat unterschiedliche Auswirkungen in verschiedenen Minispielen. Zum Beispiel können Aavegotchis mit höherer Energie gut in Rennen abschneiden, würden aber nicht gut in einem Meditations-Minispiel abschneiden.
 
-The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
+Die folgenden Tabellen zeigen jede Eigenschaft nach Seltenheit. *Hinweis: Die beiden Tabellen sollten als eine gesehen werden. Sie wurde aufgespalten, um sie auf mobilen Geräten zu rendern.*
 
 table_TraitsByRarity1 table_TraitsByRarity2
-<p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
-<p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDAI, sky blue for aAAVE, purple for aETH etc. </i></p>
+<p style="margin-left: 3.0em"><i> (L) steht für "Low" / Niedrig; (H) steht für "High" / Hoch </i></p>
+<p style="margin-left: 3.0em"><i> *Gewöhnliche Augenfarben nehmen die Farben der hinterlegten Sicherheiten in deinem Aavegotchi an. z.B. orange für aDAI, himmelblau für aAAVE, lila für aETH etc. </i></p>
 
-## Kinship
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+## Freundschaft
+Freundschaft ist das Gefühl der Loyalität deines Aavegotchis dir gegenüber. Freundschaft wird nicht zufällig zugewiesen, sondern beginnt mit einem festen Wert (50) bei der Beschwörung und erhöht oder verringert sich basierend auf verschiedenen Faktoren, wie z.B. wie lange das Aavegotchi bei demselben Besitzer ist und wie oft der Besitzer mit ihm interagiert. Der Mindestwert für die Freundschaft ist 0. Es gibt keinen maximalen Wert für die Freundschaft.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Normalerweise bedeutet längerer Besitz eine höhere Freundschaft, aber wenn du dein Aavegotchi über einen längeren Zeitraum vernachlässigst, sinkt sein Level der Freundschaft. Aavegotchis sind nicht nur Gefässe zur Aufbewahrung deiner Krypto-Bags. Sie sind lebendige, atmende Geister und sie brauchen deine Zuneigung!
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Für jede 12-Stunden-Periode, in der du mit deinem Aavegotchi interagierst, erhältst du maximal 1 Freundschaftspunkt. Umgekehrt gibt es einen Abzug von -1 Freundschaftspunkt, wenn dein Aavegotchi 24 Stunden lang vernachlässigt wird.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+Tränke können auch verwendet werden, um Freundschaftspunkte zu verbessern. Allerdings handelt es sich dabei um limitierte Consumables, die nicht immer im Aavegotchi-Store erhältlich sind. Mehr Details zu Tränken werden bald verfügbar sein.
 
-High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+Hohe Level an Freundschaft können die Leistung deines Aavegotchis in Minispielen erhöhen und können auch als Multiplikator für GHST-Belohnungen bei Governance und [Rarity Farming](/rarity-farming) dienen. Ein niedriges Level an Freundschaft wird den gegenteiligen Effekt haben.
 
-Some ways to boost your Aavegotchi’s kinship level:
+Einige Möglichkeiten, den Freundschaftswert deines Aavegotchis zu erhöhen:
 
-* Aavegotchis are born with a sense of civic duty. Bring your Aavegotchi to City Hall and let it vote in AavegotchiDAO;
-* Aavegotchis may be ghosts, but they have voracious appetites! Feed your Aavegotchi consumables to see its spooky smile;
-* Aavegotchis love trying on new clothes. Equip your Aavegotchi with new wearables to forge a lasting bond;
-* Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi Realm and level it up playing mini-games.
+* Aavegotchis werden mit einem Sinn für staatsbürgerliche Pflichten geboren. Bring dein Aavegotchi zum Rathaus und lass es im AavegotchiDAO abstimmen;
+* Aavegotchis mögen Geister sein, aber sie haben einen unersättlichen Appetit! Füttere dein Aavegotchi mit Consumables, um sein gespenstisches Lächeln zu sehen;
+* Aavegotchis lieben es, neue Kleidung anzuprobieren. Statte dein Aavegotchi mit neuen Kleidungsstücken aus, um eine dauerhafte Bindung zu schaffen;
+* Aavegotchis lieben es zu spielen! Nimm dein Aavegotchi mit in den Aavegotchi Realm und level es in Minispielen auf.
 
 
-## Experience
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+## Erfahrung
+Aavegotchis erhalten Erfahrung (EXP) für das Abstimmen im AavegotchiDAO und das Spielen von Minispielen. Aavegotchis können auch geopfert werden, um ihre [Sicherheiten](/atokens) zu entfernen und auf ein anderes Aavegotchi übertragen zu lassen. Das Empfänger-Aavegotchi erhält 100% der gesammelten EXP des geopferten Aavegotchis.
 
 ## Level
-Aavegotchis level up as they gain more XP. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis leveln auf, wenn sie mehr EXP erhalten. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Einige Kleidungsstücke können nur von Aavegotchis eines bestimmten Levels getragen werden.
 
-For detailed information on the XP required for each level, click [here](/xp).
+Für detaillierte Informationen zu wie viel EXP für jedes Level benötigt werden, klicke [hier](/xp).
 
 ## Haunt
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Wie Pioniere in der Neuen Welt reisen die Aavegotchis in Gruppen, die als Haunts bekannt sind, vom Nether Realm zum Ether Realm. Der erste Haunt enthält 10'000 Aavegotchis. Danach müssen neue Haunts vom AavegotchiDAO genehmigt werden. Einige Kleidungsstücke können nur von Aavegotchis getragen werden, die zu einem bestimmten Haunt gehören.

@@ -11,49 +11,49 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">AavegotchiDAO徽章</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+[DAO](glossary#dao) 是一种分散的治理形式。 它允许令牌持有者投票，以便塑造组织的决策方式。
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Aavegotchi遵循“逐步分散化”的流程，遵循了诸如Descompound和Synthetix等成功的DeFi协议的脚步，从创始团队开始，Pixelcraft Studios组织了DAO管理的代币分发活动（DAICO），并最终对Aavegotchi进行了治理 ，包括所有游戏机制，智能合约和资金，均由AavegotchiDAO赞助，但必须遵守现行法规环境。 这将分三个阶段完成。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
-<li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
+<li><a href=#genesis>起源</a></li>
+<li><a href=#metamorphosis>变形</a></li>
+<li><a href=#oasis>绿洲</a></li>
+<li><a href=#participating-in-governance>参与治理</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## 起源
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*查看* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+AavegotchiDAO 的第一次迭代 与GHST在绑定曲线上的分布同步启动。 GHST 持有人有权就增加/维持资金进行投票，这些资金是通过象征性的连接曲线预留器(TBC) 分配给Pixelcraft Studios(Aavegotchi背后的团队) 来支持发展。 第一个AavegotchiDAO建议将Aavegotchi DAICO 的点击率从50增加到50， 200 DAI至100 000DAI，2020年10月18日获得99%的批准。 当迁移到AavegotchiDAO Metamorphosis的时间时，代币持有者也会投票执行迁移。
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+代币持有者不会因积极参与AavegotchiDAO的激发而获得GHST奖励。
 
-## Metamorphosis
+## 变形
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+Metamorphossi是AavegotchiDAO的第二次迭代，负责管理Aavegotchi的简单游戏机械师。 例如Aavegotchis的总供应量，增加新的抵押品，决定其功能，增加社区创造的新的杂质。 当迁移到AavegotchiDAO Metamorphosis的时间时，代币持有者也会投票执行迁移。
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotchi 智能合同文档的 [Governance](https://docs.aavegotchi.com/overview/governance) 部分查阅。
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+代币持有者不会因积极参与AavegotchiDAO的激发而获得GHST奖励。
 
-## Oasis
+## 绿洲
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+虽然AavegotchiDAO 绿洲是AavegotchiDAO 进化的最后迭代，但它只是实现DAO统治的游戏的开始。 与Aavegotchi游戏机制，REALM机制，生态系统支出乃至智能合约升级有关的所有决定都将由AavegotchiDAO投票表决。
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+代币持有者不会因积极参与AavegotchiDAO的激发而获得GHST奖励。
 
-## Participating in Governance
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+## 参与治理
+我激动了！ 那么我如何参加AavegotchiDAO？ 朋友，我们把你盖住了！ [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) 详细列出了成员可以调用/使用的 DAO 函数列表，以实现已被投票的更改。 例如，让我们说作为 [的抵押品类型](/posts/atokens) 已经投票了 asUSD 。 AavegotchiDAO 可以通过使用 `addCollaterTypes()` 函数并在函数中指定 asUSD 来实现更改。
 
-More details will be fleshed out once the game releases!
+一旦游戏发布，更多详细信息将会被刷新！

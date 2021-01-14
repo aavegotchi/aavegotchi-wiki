@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Aavegotchi Erfahrung (EXP)'
+description: 'Erfahre mehr über Aavegotchi Erfahrungspunkte (EXP) hier!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+Aavegotchis leveln auf, wenn sie mehr Erfahrung (EXP) sammeln. Aber wie viel EXP brauchen sie genau für jedes Level? Datenanalysten, wir haben hier ein paar Zahlen für euch!
 
 <div class="contentsBox">
 
@@ -15,29 +15,29 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 
 <ol>
 <li><a href=#formula>Formel</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#experience-table>Erfahrungstabelle</a></li>
 </ol>
 
 </div>
 
 ## Formel
-The following formula is used to determine the XP required for the next level:
+Die folgende Formel wird verwendet, um die benötigten EXP für das nächste Level zu bestimmen:
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+(Aktuelles Level ^ 2) ÷ Konstante, wobei Konstante = 0.02
 
-## Experience Table
+## Erfahrungstabelle
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+Die Tabelle unten zeigt die benötigten EXP für jedes Level. Bevor wir uns in den Daten verlieren, hier ein paar hilfreiche Definitionen der verwendeten Schlüsselbegriffe:
 
-* Current Level: Current Level of your Gotchi
-* Next Level: Next Level of your Gotchi
-* XP: Experience required to reach the next level that is specified in the **Next Level** column
-* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
-* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
+* Current Level: Aktuelles Level deines Gotchis
+* Next Level: Nächstes Level deines Gotchis
+* XP: Benötigte Erfahrung, um das nächste Level zu erreichen, das in der **Next Level** Spalte angegeben ist
+* Difference: Differenz der EXP, die zum Erreichen des Levels in der **Nächsten Level** Spalte benötigt werden, verglichen mit der gleichen Spalte in der vorherigen Zeile
+* Constant: Ein fester Wert, der bei der Berechnung der benötigten EXP für das nächste Level verwendet wird
 
-The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+Das höchste Level, das ein Aavegotchi erreichen kann, ist 99. Jegliche Änderungen des Maximal-Levels können über [AavegotchiDAO](/dao) Vorschläge erfolgen.
 
-*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
+*Hinweis: Aavegotchis starten bei Level 1. "Level 0" ist in der Tabelle für Personen enthalten, die daran interessiert sind, die Formel anzuwenden und zu beobachten, wie die EXP-Berechnung funktioniert.*
 
 table_XP
 

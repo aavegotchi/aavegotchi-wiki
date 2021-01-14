@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
+title: '术语表'
+description: '关于Aavegotchi、NFT 和 DeFi 术语的词汇。'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,91 +11,91 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">阅读Gotchi术语之后的Aavegotchi</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+如果你刚刚开始探索DeFi世界，欢迎来到这个互联网角落！ 本词汇表旨在为您提供一些信息，希望这些信息可以帮助您了解一些DeFi基础知识。 如果您是这个领域的新手，那么此词汇表还将为您提供一些在浏览Aavegotchi世界时可以看到的术语的概述，以帮助您进一步理解。
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+当您阅读完本并希望对这些术语有更好的理解后，请随时转到入门部分，并深入了解生态系统。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<li><a href=#aavegotchi-related>Aavegotchi相关的</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#frens>FRENS</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#frens>积分</a></p>
+<p><a href=#spirit-force>灵魂力</a></p>
+<p><a href=#spirit-point>灵魂点</a></p>
+<p><a href=#wearables>可穿戴装备</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>抵押品</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
-<p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
-<p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
-<p><a href=#staking>Staking</a></p>
-<p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<p><a href=#flash-loans>快速贷款</a></p>
+<p><a href=#impermanent-loss>无常损失</a></p>
+<p><a href=#liquidity-pools>流动资金池</a></p>
+<p><a href=#oracles>预言机</a></p>
+<p><a href=#smart-contracts>智能合约</a></p>
+<p><a href=#staking>质押</a></p>
+<p><a href=#yield-farming>产量农业</a></p>
+<li><a href=#general-terms>一般术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
-<p><a href=#diamond-standard>Diamond Standard</a></p>
+<p><a href=#bell-curve>Bell曲线</a></p>
+<p><a href=#diamond-standard>钻石标准</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
+<p><a href=#matic-network>Matic 网络</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#non-fungible-token>非同质化代币 (NFT)</a></p>
 </ol>
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi相关的
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/rarity-farming)。
 
-### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+### 积分
+积分被奖励给已质押GHST的用户。 FRENS 不是一个令牌。 从技术上讲，这是放样合同中的余额。 FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
-### Spirit Force
-Spirit Force refers to the amount of collateral (aTokens) locked within the gotchi.
+### 灵魂力
+灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
 
-### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+### 精神点
+灵魂点指的是等级上升时得到的点。 Kinda就像RPG游戏中的统计点。 你每3级获得1个精神点。
 
-### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+### 可穿戴装备
+Aavegotchi穿的衣服/设备。 它们符合ERC-1155标准。
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" 是指 **去**中心化**金融**nance. 可以认为它是为传统金融机构提供类似服务的应用程序和协议的生态系统（例如，借贷，借贷以及从储蓄中产生的利息等）。 但是，有一个主要区别-DeFi的目标是在没有中间人的情况下以分散的方式进行。
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+这意味着没有银行削减您的潜在收益或为您提供负利率。 这也意味着不会出现整个系统可能崩溃的中心故障点，也不会受到由集中力量的小组决定和实施的一组规则的影响。
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+在撰写本文时（2020年12月5日），锁定Defi的总价值为14.24B USD。
 
-## Key Terms
+## 用户条款
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY代表年收益率。 这是您存入协议的储蓄所赚取的实际收益率，同时考虑了加息的影响。
 
 
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+### 抵押品
+抵押是一个非常简单的概念。 它是指您从放款人那里借钱时可能放下的一种资产，作为对放款人的担保。 如果您无法偿还贷款，您的抵押品将用于偿还债务。
 
 
-In the context of DeFi, this is how things might look:
+在DeFi的情况下，情况可能如下所示：
 
 
 Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
@@ -124,7 +124,7 @@ Some examples of DEXs include UniSwap, Mesa and Balancer.
 Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### Flash Loans
+### 快速贷款
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -133,12 +133,12 @@ If this doesn't happen, the whole transaction is reversed to effectively undo th
 
 
 
-### Impermanent Loss
+### 无常损失
 Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
-### Liquidity Pools
+### 流动资金池
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -146,12 +146,12 @@ For a more detailed breakdown of these terms, check out Finematics's [guide](htt
 
 
 
-### Oracles
+### 预言机
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
-### Smart Contracts
+### 智能合约
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
@@ -161,13 +161,13 @@ Staking a cryptocurrency essentially means to hold that currency, to help verify
 
 
 
-### Yield Farming
+### 产量农业
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## 一般术语
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -178,10 +178,10 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### Bell Curve
+### Bell曲线
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
-### Diamond Standard
+### 钻石标准
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
 Diamonds can be upgraded on the fly without having to redeploy existing functionality.
@@ -209,7 +209,7 @@ Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
+### Matic 网络
 Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
 Read more about Matic Network [here](https://matic.network/).

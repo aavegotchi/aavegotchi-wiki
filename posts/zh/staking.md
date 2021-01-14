@@ -43,11 +43,11 @@ First, you need to get your hands on some GHST tokens to stake. Our [GHST token 
 ## How to Stake
 Once you have some GHST tokens, it is time to stake them!
 
-There are two ways to stake: (1) staking GHST tokens, and/or (2) staking Uniswap GHST-ETH LP tokens.
+There are three ways to stake: (1) staking GHST tokens [Mainnet], (2) staking Uniswap GHST-ETH LP tokens [Mainnet], and/or (3) the GHST-QUICK pool on QuickSwap [Matic].
 
 *Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
-### Staking GHST tokens
+### Staking GHST tokens [Mainnet]
 This is the most straightforward way to stake GHST tokens. Head over to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
 
 <img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
@@ -58,7 +58,7 @@ Select "Stake on Mainnet" and you will be presented with another page with two b
 
 *For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
-### Staking Uniswap GHST-ETH LP tokens
+### Staking Uniswap GHST-ETH LP tokens [Mainnet]
 A second, and more complicated, method is to stake the Uniswap GHST-ETH Liquidity Provider (LP) tokens. To do this, you have to have both GHST tokens and ETH in your wallet. Head over to the [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) to add liquidity for both tokens (see image below). Users have to contribute liquidity at a ratio of 50% GHST and 50% ETH to the pool. The amount of GHST and ETH required to acquire 1 GHST-ETH LP token varies based on the price of the pool token at the time.  In return for staking both GHST and ETH, users will receive the GHST-ETH LP token from Uniswap.
 
 <img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
@@ -74,6 +74,24 @@ Select "Stake on Mainnet" and you will be presented with another page with two b
 *For every 1 GHST-ETH staked in this way, you receive 100 FRENS / Day.*
 
 Why the huge difference in the number of FRENS earned through this method? Staking GHST-ETH LP tokens has the risk of [impermanent loss](/posts/glossary#impermanent-loss). You are compensated for the increased risk you take.
+
+### Staking in the GHST-QUICK pool on QuickSwap [Matic]
+
+The third method involves transferring GHST tokens from Ethereum Mainnet to the Matic Network, a layer 2 solution.
+
+Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network. Once that is done, follow the subsequent steps found in the [Matic Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
+
+1. Get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH and QUICK-USDC. Soon GHST-QUICK will also be an option.
+
+2. Become a liquidity provider in the GHST-QUICK Pool on Quickswap.
+
+3. Take your LP tokens received from Step 2 and stake them into the GHST-QUICK Staking Pool to get stkGHST.
+
+4. Finally, take the stkGHST receipt tokens emitted from the GHST Staking Contract and stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
+
+Now you are earning QUICK and FRENS!
+
+Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
 
 ## Purchasing Raffle Tickets
 

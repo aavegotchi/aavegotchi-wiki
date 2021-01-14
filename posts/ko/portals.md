@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: '포털'
-description: '아베고치 포털에 대한 모든 것'
+description: '아베고치 포탈에 대한 모든 것'
 contributors:
   - "appellants"
 image: "portals/portal.gif"

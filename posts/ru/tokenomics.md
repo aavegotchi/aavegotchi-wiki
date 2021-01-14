@@ -1,64 +1,64 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
-image: "IMAGE HERE"
+title: 'Токеномика'
+description: 'Токеномика Aavegotchi токена GHST'
+image: "ИЗОБРАЖЕНИЕ ЗДЕСЬ"
 contributors:
   - "appellants"
 ---
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<p class="headerImageText">Когда же GHST будет по 5 баксов???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+Токеномика? Кого она вообще волнует? Когда Туземун??
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Нас волнует, и вам бы тоже стоило. Планируя инвестировать в токены GHST (или любые другие), нужно понимать, как устроена и работает экосистема проекта. В конце концов, чем выше ваши знания, тем лучше для всего сообщества френов.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchi уделяют много внимания распределению доходов и поддержанию эффективной токеномики, при этом балансируя в достижении вот этих четырех основных целей:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Развитие полноценной игровой экосистемы в формате play-to-earn (играй и зарабатывай), которая поощряет активных игроков и участников DAO</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Обеспечение прочной основы для токена GHST с целью создания долгосрочной ценности</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Запуск казначейства AavegotchiDAO для распределения средств на дискреционные расходы</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Обеспечение постоянной финансовой поддержки активным разработчикам Aavegotchi</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+В данной статье в ВИКИ мы сначала разберемся, как распределяются токены GHST, а затем выясним, как будут достигаться эти цели.
 
 <div class="contentsBox">
 
 Содержание:
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
-<p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO Governance</a></p>
-<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<li><a href=#token-distribution>Распределение токенов</a></li>
+<li><a href=#revenue-sharing-overview>Распределение доходов</a></li></p>
+<p><a href=#rarity-farming>Фарминг Редкости</a></p>
+<p><a href=#dao-governance>Управление DAO</a></p>
+<p><a href=#burn-baby-burn>Сжигание токенов. ГОРИ ДЕТКА ГОРИ</a></p>
+<p><a href=#development-team>Команда разработчиков</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## Распределение токенов
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
-
-
-**The Private Sale**
-
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
+GHST токен распределялся в три стадии. Это частные продажи, пресейл и публичные продажи с помощью изогнутой кривой.
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+**Частные продажи**
+
+Размер: 5 миллионов токенов GHST Цена: 0,05 DAI/GHST
 
 
-**The Pre-Sale**
+Частная продажа токенов была проведена в августе 2020 года. Принять участие в ней мог каждый, кто прошел KYC авторизацию и имел от 20 000 DAI. Средства, которые были получены в ходе этого раунда финансирования, пошли на затраты Pixelcraft Studios, компании-разработчика Aavegotchi, потребовавшиеся в процессе создания игры Aavegotchi.
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+**Пресейл**
+
+Размер: 500 тысяч GHST Цена: 0,1 DAI/GHST
+
+Пресейл токенов GHST стартовал 14.09.2020 года, был ограничен по времени — на 2 недели или до момента, пока не выкупят все токены. Все Аагенты 6 уровня, прошедшие KYC проверку до указанной даты, имели право приобрести GHST на этом этапе.
 
 To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
 

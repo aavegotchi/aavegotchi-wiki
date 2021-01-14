@@ -63,4 +63,4 @@ Bọn mình thật sự mong được thấy bạn tham gia vào Realm, fen à! 
 
 <p style="font-size:13px; font-style:italic;">*Metaverse của Aavegotchi, hoặc Gotchiverse, đều dùng để chỉ về cái tên "Aavegotchi Realm." </a></p>
 
-<p style="font-size:13px; font-style:italic;">Aavegotchi Realm là đang phát triển với tốc độ ánh sáng và trang này sẽ được cập nhật khi chúng tôi phát triển. Bạn còn thắc mắc điều gì khác hay không? Reach out to us in <a href="https://wiki.aavegotchi.com/socialmedia" target = "_blank">one of our community channels!</a></p>
+<p style="font-size:13px; font-style:italic;">Aavegotchi Realm là đang phát triển với tốc độ ánh sáng và trang này sẽ được cập nhật khi chúng tôi phát triển. Bạn còn thắc mắc điều gì khác hay không? Hãy tham gia với chúng tôi tại <a href="https://wiki.aavegotchi.com/socialmedia" target = "_blank">một trong những kênh cộng đồng này!</a></p>
