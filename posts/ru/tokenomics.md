@@ -135,16 +135,16 @@ GHST токен распределялся в три стадии. Это час
 
 **33%** всех токенов GHST, заработанных через портал и продажи цифровых объектов, будут сжигаться. Безвозвратно. Да, вы не ошиблись.
 
-Столь высокий показатель связан с тем, что GHST — это токен с динамическим предложением. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
+Столь высокий показатель связан с тем, что GHST — это токен с динамическим предложением. По мере активизации спроса растет предложение, поэтому с помощью регулярного сжигания не провоцируется быстрая дефляция (удешевление) токена. Обычно, дефляция — это большая проблема для токенов с фиксированным саплаем.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+Сжигание GHST служит дефляционным противовесом, который снижает давление на стоимость токенов, возникающее из-за выдачи игровых вознаграждений токенами GHST.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+Отправка GHST для сжигания также блокирует DAI в кривой связывания, создавая нижний предел цены для GHST. От этого выигрывают все стороны, так как обеспечивается лучшая ликвидность для покупателей и продавцов на кривой (говоря другими словами, снижается показатель проскальзывания slippage), уменьшается циркулирующее предложение и обеспечивается стабильность [tap-механизма DAICO](/curve#aavegotchi-daico).
 
 
-## Development Team
+## Команда разработчиков
 
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+Вот последняя сфера траты доходов, но не менее важная, — **17%** дохода поступает команде разработчиков. В конце концов, им нужна поддержка, чтобы они могли сосредоточиться на решении важных задач в создании DeFi и NFT продуктов для всех нас.
 
 That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
 
