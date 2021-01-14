@@ -62,32 +62,32 @@ GHST токен распределялся в три стадии. Это час
 
 На момент проведения пресейла были учтены все Аагенты 6 уровня. Затем среди них выявили тех, кто прошел KYC проверку. У каждого соответствующего требованиям участника появился значок «Подтвержденный 6 уровень» в Discord. Всех их добавили в специальный канал, где размещались ссылки на предпродажу.
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+Собранные во время предпродажи средства использовались для увеличения ликвидности в резервном пуле Изогнутой Кривой со стопроцентным коэффициентом резервирования.
 
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+Участники частной продажи и пресейла получили токены GHST с вестингом на 1 год, начиная с момента закрытия раунда пресейла. Спустя 180 дней состоится релиз 50% оставшихся токенов, а эмиссия остатка произойдет в течение последующих 185 дней.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
-
-
-**Public Bonding Curve Sale**
-
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
-
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
-
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
-
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+Подробнее об этом читайте в [Aavegotchi Вайтпейпер](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) и [Комьюнити обновления #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
 
 
-**Ecosystem Fund**
+**Публичная продажа через Изогнутую Кривую**
 
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+Как говорится, кривая никогда не заканчивается! Чтобы получить больше информации о том, как устроена [Изогнутая Кривая](/curve), перейдите на соответствующую страницу в ВИКИ.
+
+В раунде продаж кривой нет ограничений по токенам GHST и лимита по времени. Цена стартовала по 0,2 DAI/GHST и колеблется вдоль кривой. В данном раунде отсутствует блокировка — токены с кривой можно забрать незамедлительно.
+
+Любой, кто прошел KYC, и чей адрес был внесен в вайтлист командой Aavegotchi, может покупать токены прямо из кривой.
+
+Полученные через изогнутую кривую средства будут доступны разработчикам из Pixelcraft Studios через tap-механизм, подконтрольный держателям токенов GHST. Подробно о том, как работает tap-механизм, можно узнать [тут](https://fundrasing.aragon.black).
 
 
-**Team Fund**
+**Фонд экосистемы**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+В фонде экосистемы Aavegotchi находится 1 млн. токенов GHST, заблокированных по тому же графику, который использован для частной продажи и пресейла. Разблокировка и использование средств осуществляются путем подачи целевых предложений и вынесения их на голосование в [AavegotchiDAO](/dao) V2.0 и выше, для последующего использования с целью финансирования разработки игры не членами основной команды Aavegotchi, продвижения и маркетинга AavegotchiDAO, а также любых других целей использования, которые, по мнению AavegotchiDAO, принесут пользу проекту.
+
+
+**Фонд команды**
+
+В этом фонде также хранится 1 млн GHST, заблокированных согласно графику, что и при частной продаже. По мере полной разблокировки средств фонда, их будут распределять по заранее составленному 3-летнему графику вестинга, а оставшиеся токены будут заблокированы в новом вестинг контракте еще на 2 года и переданы основной команде Aavegotchi небольшими суммами.
 
 Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
