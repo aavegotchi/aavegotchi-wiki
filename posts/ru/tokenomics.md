@@ -97,7 +97,7 @@ GHST токен распределялся в три стадии. Это час
 
 С помощью этой диаграммы можно понять, как происходит распределение средств:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Токеномика Aavegotchi">
 </div>
 
 Сейчас мы расскажем о принципе распределения более подробно.
@@ -146,21 +146,21 @@ GHST токен распределялся в три стадии. Это час
 
 Вот последняя сфера траты доходов, но не менее важная, — **17%** дохода поступает команде разработчиков. В конце концов, им нужна поддержка, чтобы они могли сосредоточиться на решении важных задач в создании DeFi и NFT продуктов для всех нас.
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+Как говорится, все мы люди. Плохо согласованная стимуляция разработчиков может принести больше проблем для проекта, чем ее отсутствие, и Aavegotchi надеется это предотвратить.
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+Основная проблема — в модели выплат для разработчиков, например, если они получают нативные токены проекта, то вынуждены продавать их для оплаты разного рода расходов, что повышает давление продавцов и приводит к дефляционной «спирали смерти», после которой токен уже никогда не восстановится.
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+Однако, если разработчики не получают нативные токены вообще, они не имеют стимулов, и это приводит к принятию посредственных решений.
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
+Кривая связывания Aavegotchi решает эту проблему, сообщество с помощью tap-механизма распределяет DAI из резерва и каждый месяц передает Pixelcraft Studios (ведущие разработчики Aavegotchi), чтобы обеспечить рабочий бюджет для поддержки проекта.
 
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Кроме того, Pixelcraft также будет получать 17% всех доходов от GHST, которые будут использоваться для стимулирования ликвидности, бесплатных раздач и других рекламных мероприятий, требующих GHST.
 
 
 
-**Final Words**
+**Подведем итоги**
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+Одним из главных плюсов криптопроекта и того, что в игре постоянно появляются новые игроки, является тот факт, что это не антагонистическая игра, т. е. не проект с нулевой суммой. У всех членов сообщества и разработчиков есть шанс добиться совместного успеха, особенно в DAO. Вопрос в том, как лучше это реализовать. Понимание токеномики проекта дает нам хорошую отправную точку.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+Читайте и играйте. До скорой встречи на луне, Аагенты! 
 
