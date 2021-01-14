@@ -106,60 +106,60 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 Aavegotchi体验的核心部分是花时间陪伴Gotchi，并为他们配备可穿戴装备。 鼓励持续和积极地参与游戏的生态系统； 通过门户销售和可磨损赚取的部分收入将用于奖励优秀的农民。
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+为此目的，所有已赚到的GHST中的 **40%** 将通过玩家奖励返回玩家。
 
-Initially, there will be three categories of Player Rewards:
+最初，玩家奖励将分为三类：
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* 前100名最稀有的Aavegotchis(由 [BRS](/rarity-farming#base-rarity-score))
+* 前 100 [亲属](/traits#kinship) 分数
+* 前 100 [经验 (XP)](/traits#experience)
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+这三个类别总共将达到所有GHST收入的 **40%**。 每个类别的确切百分比尚未确认，将在AavegotchiDAO中讨论。
 
-More categories will be added, as the game continues to develop.
+随着游戏继续发展，将添加更多类别。
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
-
-
-## DAO Governance
-
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
-
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+这些奖励将通过链上快照每 **两周分发一次。**
 
 
-## BURN BABY BURN
+## 治理
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+社区治理也是Aavegotchi经验的核心原则。 该组织的部分职责包括管理财政，用于它认为有价值的任何倡议。 (Waifu pics, maybe?)
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
-
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
-
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
-
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+收入的**10%** 最初将分配给DAO库房。 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
 
 
-## Development Team
+## 燃烧
 
-Last, but most definitely not least, **17%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+作为一个前奏，了解GHST的 [关联曲线](/curve) 以及如何工作，将是很好的。 然后乐趣就开始了。
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+**33%** 通过传送门和物品销售赚取的所有GHST将被烧毁。 永远 是的，你读了那个权利。
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+这个数字之所以如此之高，是因为GHST是一种动态供应的象征。 其供应量随着需求的增加而增加，这意味着这种高烧速率不会导致代币迅速通货紧缩。 这是一种固定供应的令牌问题。
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+燃烧GHST是对GHST价格下调压力的一种通货紧缩制衡。 这可能是GHST授予GHST游戏奖励的结果。
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
-
-Additionally, Pixelcraft will also receive 17% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+将GHST直接发送到烧伤地址，还将DAI锁在连接曲线内，为GHST制造一个涨价底部。 这对所有各方来说都是净正值，因为它使买方和卖方能够更好地获得流动资金（减少了滑幅）。 降低循环供应量，并为 [DAICO 点击机制](/curve#aavegotchi-daico) 提供稳定性。
 
 
+## 开发团队
 
-**Final Words**
+最后但绝非最不重要的一点是， **17%** 的收入流向开发团队。 毕竟， 重要的是为我们的开发者提供食物，以确保他们能够集中精力帮助为这里的每个人建立最好的 DeFi x NFT 体验。
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+说了这番话，我们都是人类。 对协议开发者的激励措施不统一，是导致协议失败的巨大因素，是Aavegotchi希望防止的一个问题。
 
-Keep reading, and keep playing. See you on the moon soon, Aagent. 
+当协议开发者完全用本地令牌付费时，他们被迫出售令牌以支付费用。 导致出售压力和潜在的“死亡循环”场景，令牌永远无法从中恢复。
+
+然而，如果开发者没有付给任何本地代币，那么激励措施就不会强有力地结合起来，导致决策不善。
+
+Aavegotchi 连接曲线通过分开关注解决了这个问题——我们社区管理的点击机制每月从保留地向Pixelcraft Studios（Aavegotchi的主要开发者）分发DAI，以确保积极发展的工作预算。
+
+此外，Pixelcraft还将获得全部GHST收入的17％，主要用于流动性激励，赠品和其他需要GHST的促销活动。
+
+
+
+**写在最后**
+
+这是一个关于加密节点的最佳部分，以及你为什么不断看到添加新玩家的原因——它不是零和游戏。 我们所有人都有机会共同取得成果，特别是在DAO中。 问题是，我们如何才能最好地实现这一点。 理解一个项目的令牌，为我们提供了一个良好的起点。
+
+保持阅读并继续游戏。 即将在月球上看到您，Aagent。 
 
