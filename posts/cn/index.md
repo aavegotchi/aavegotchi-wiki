@@ -13,22 +13,22 @@ image: "icons/introduction.svg"
 
 欢迎来到官方的Aavegotchi百科
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+这个aavegotchi百科是所有Aavegotchi的中心知识网，由我们的著名贡献者团队，即Aarchivers维护和更新。
 
 ## Aavegotchi相关
 
 这里 [介绍](https://wiki.aavegotchi.com/introduction) 用于Aavegotchi 游戏的详细概述。
 
 ## 热门链接
-* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [游戏玩法](/gameplay) -- Aavegotchi游戏简介
+* [GHST](/ghst) -- 了解Aavegotchi的生态治理令牌
+* [质押](/staking) -- 学习如何使用 GHST 质押
+* [DAO](/dao) — 关于AavegotchiDAO 的一切内容
+* [稀有农场](/rarity-farming) -- 玩Avegotchi 并获得奖励！
 
 ## 其它有用链接
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
+* [团队](https://wiki.aavegotchi.com/team) -- 查看Aavegotchi的创建团队
 * [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi的最新路线图。
 
 
