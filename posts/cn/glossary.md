@@ -196,32 +196,32 @@ Diamond可以即时升级，而无需重新部署现有功能。
 可替代令牌的令牌标准，换句话说，它们具有使每个令牌与另一个令牌完全相同（在类型和值上）的属性。 它提供了一些功能，例如将令牌从一个帐户转移到另一个帐户，获取帐户的当前令牌余额以及网络上可用令牌的总供应量。 除此之外，它还具有其他功能，例如批准可由第三方帐户使用的令牌数量。 更多信息请参阅此 [页面](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)。
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+一个自由开放的标准，描述如何在以太坊区块链上构建不可互换或独特的代币。 虽然大多数令牌都是可互换的 (每个令牌都与其他令牌相同)，ERC-721 令牌都是唯一的。
 
-Think of them like rare, one-of-a-kind collectables.
+将它们看成是罕见的、一种类型的收藏品。
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+要全面解释ERC-721标准的含义，请在这里查看 [](https://eips.ethereum.org/EIPS/eip-721)。
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998是 [ERC-721](/glossary#erc-721) 标准的延伸，它增加了 [不可替代代币](/glossary#nft) 拥有其他不可替代代币和 ERC-20 代币的能力。
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+实施ERC998的不可替代代币也实施ERC-721标准。
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+要全面解释ERC-998标准的含义，请在这里查看 [](https://eips.ethereum.org/EIPS/eip-998)。
 
 ### Matic 网络
-Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Matic Network是公共区块链的扩展解决方案。 基于调整后的 Plasma 框架 (Plasma MoreVP) 的实现情况，并以账户为基础实现， Matic 支持所有现有的Etherum工具以及更快和更便宜的交易。
 
-Read more about Matic Network [here](https://matic.network/).
+在这里阅读更多关于Matic Network [的信息](https://matic.network/)。
 
-### Metaverse
+### 元宇宙
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+元宇宙是一个虚拟的世界，您可以在其中与世界本身（例如游戏或商店）的各个方面以及其他用户进行交互。
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+一些元宇宙的例子包括 <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> 以及诸如第二生命和权力下放等项目。
 
 
-### Non-Fungible Token
+### 非同质化代币 (NFT）
 
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
