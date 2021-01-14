@@ -9,7 +9,7 @@ contributors:
 
 ## Aavegotchi 任务 8 Meme 竞赛胜利者
 
-In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). 欢迎您的收藏！ The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively.
+在 [Aavegotchi 任务 8](/missions),, aagents 的任务是在 [Aavegotchi 版块上创建展示Aavegotchi 或GHST 令牌的某些方面的舞蹈纪念物](https://www.reddit.com/r/Aavegotchi/) 欢迎您的收藏！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300、200和100个GHST。
 
 ### <span style="color:gold">第一位： Aavegotchi PAC MANM</span>
 
@@ -25,10 +25,10 @@ In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest 
 
 ### 其它表情
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+Nick Mudge教授Vanilladelphia如何“放进他的盒子上”。
 
 <img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+CoderDan在海滩上谦虚的maiya tang（麦芽糖）销售商时期。 Created by Zer0dot.
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />

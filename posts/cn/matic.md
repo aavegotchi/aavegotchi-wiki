@@ -7,83 +7,83 @@ contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Matic, but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+嘿，朋友！ 因此，您听说过向Matic的迁移，但不知道这到底是什么？ 别担心，我们会逐步带你完成所有步骤！
 
-In short, Matic Network is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+简而言之，Matic Network是适用于以太坊等公共区块链的第2层扩展解决方案。 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
 
-So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
+因此，告别Uniswap上的100美元交易，并向（几乎）免费互动打招呼！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#why-matic->Why Matic?</a></li>
-<li><a href=#adding-matic-to-your-metamask>Adding Matic to your Metamask</a></li>
-<li><a href=#bridging-assets-to-matic>Bridging assets to Matic</a></li>
+<li><a href=#why-matic->为什么是Matic？</a></li>
+<li><a href=#adding-matic-to-your-metamask>将Matic 添加到您的Metamask</a></li>
+<li><a href=#bridging-assets-to-matic>将资产迁移到Matic</a></li>
 </ol>
 
 </div>
 
-## Why Matic?
+## 为什么是Matic？
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+你们可能知道，也可能不知道，Aavegotchi Mainnet计划在2021年1月4日上线。 那天，比特币上涨了近40％，这导致套利机器人发疯。 这使天然气费飙升至超过400 gwei，从而导致可笑的交易费。 只是为了说明一下：购买单个[传送门](/portals)，将其打开并召唤Gotchi至少需要花费300美元。
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Matic has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Matic with 76%.
+很明显，在Ethereum Mainnet上进行上线是不可能的。 由于Matic 一直与不同的NFT项目(例如OpenSea)一起工作，选择比较容易。 社区对此也有同感，并投票赞成以76%的比例在Matic网络上线。
 
-## Adding Matic to your Metamask
+## 将Matic 添加到您的Metamask
 
-Let’s get started with the fun stuff! To use Matic Network, you first need to add it to your Metamask wallet.
+让我们以有趣的东西开始吧！ 要使用Matic Network，您首先需要将其添加到您的 Metamask 钱包。
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). 打开扩展并点击顶部的“Ethereum  Mainnet”按钮。
 
 <img class = "bodyImage" src = "/matic/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). 选择“自定义 RPC”。
 
 <img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
 
-3). Enter the following settings:
+3). 输入以下设置：
 
-Network Name: Matic Mainnet
+网络名称：Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+新 RPC URL： https://rpc-mainnet.maticvilli.com/
 
-Chain ID: 137
+链条ID：137
 
-Currency Symbol (optional): MATIC
+货币符号(可选)：MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+区块资源管理器URL (可选)：https://explorer.matic.network/
 
-Once you’ve added everything, you can click on “Save”.
+一旦你添加了一切，你可以点击“保存”。
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Matic by clicking the button from step 1.
+4). 没有步骤四，您已经完成了！ 您现在可以通过单击步骤1中的按钮在以太坊主网和Matic 之间切换。
 
-## Bridging assets to Matic
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Matic. We’re going to use the PoS Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+## 将资产迁移到Matic
+好吧，你已经设置了Metamask，准备好立即挖掘。 但在您需要Matic 的一些资产之前。 我们将使用 PoS Matic Bridge 将我们的资金从Ethereum Mainnet转给Matic 如果您只想转移您的 GHST，忽略所有以下步骤并使用我们简单的 Aavegotchi 桥 [在这里](https://aavegotchi.com/bridge)。
 
-So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
+对于想要转移不同资产的所有人，如ETH或USDC，您在这里是如何操作的：
 
-1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
+1). 到 [https://wallet.matic.network/](https://wallet.matic.network/) 并使用Metamask登录。 请确保您在“钱包”选项卡中，它应该看起来像这样：
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 
-2). **DO NOT** click the “Switch to Plasma” button. That’s the wrong bridge and needs 7 days to withdraw. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
+2). **不要** 点击"切换到Plasma"按钮。 这是错误的桥，需要7天才能退出。 相反，添加您想要在右侧转移的资产。 我已经添加 USDC 以便你可以在我的钱包中看到。
 
 <img class = "bodyImage" src = "/matic/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
 
-3). On the left side click “Matic Wallet” and “Deposit”.
+3). 在左侧单击“Matic Wallet ”和“存款”。
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
 
-4). Click “Continue to Deposit” and select your asset here:
+4). 单击“继续保存”并在此选择您的资产：
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
 
-5). Enter how much of it you’d like to bridge and click the big blue button.
+5). 输入您想要桥接的数量，并点击大蓝色按钮。
 
 <img class = "bodyImage" src = "/matic/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
 
-Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Matic address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on matic. (That’s enough for 1000s of transactions, Matic is aavesome!)
+是就它！ 只需确认Metamask中的交易并完成了。 令牌可能需要10分钟才能到达您的Matic 地址。 如果你传送了一个Matic打开 [Quickswap](https://quickswap.exchange/)，你应该得到0.1 MATIC空投，它是我的最大的DEX。 这足以进行1000笔交易，Matic非常好！
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+如果您需要任何帮助，您可以加入 Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) 并询问其他社区成员。
