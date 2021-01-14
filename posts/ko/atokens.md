@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'aTokens'
-description: 'All about Aavegotchi aTokens'
+description: '아베고치 aToken에 관한 모든 것'
 image: "atokens/aETH.svg"
 contributors:
   - "unintelligent-nerd"
