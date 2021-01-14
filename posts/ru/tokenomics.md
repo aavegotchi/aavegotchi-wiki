@@ -115,27 +115,27 @@ GHST токен распределялся в три стадии. Это час
 * Топ 100 по уровню [Kinship](/traits#kinship)
 * Топ 100 по [очкам опыта (XP)](/traits#experience)
 
-Для вознаграждения победителей всех трех категорий предназначено **40%** от всех заработанных GHST. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+Для вознаграждения победителей всех трех категорий предназначено **40%** от всех заработанных GHST. Пока еще не утверждены точные проценты наград, — за них проголосуют в AavegotchiDAO.
 
-More categories will be added, as the game continues to develop.
+По мере развития игры будут добавляться другие категории.
 
-These rewards will be distributed **every two weeks** via onchain snapshots.
-
-
-## DAO Governance
-
-Community governance is also a core tenet of the Aavegotchi experience. Part of the DAO's responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
-
-**10%** of revenue will initially be distributed to the DAO treasury. As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+Награды будут распределяться среди лучших **каждые две недели** на основании ончейн снепшотов.
 
 
-## BURN BABY BURN
+## Управление DAO
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+Власть сообщества является руководящим принципом игрового проекта Aavegotchi. В обязанности DAO будет входить управление казначейством, денежные средства которого могут быть потрачены на любую инициативу, если за нее проголосует большинство. (Может быть, картинка Waifu?)
 
-**33%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+Первоначально **10%** выручки будут поступать в казну DAO. По мере развития DAO этот процент может увеличиться. Конечная цель состоит в том, чтобы своими решениями DAO эффективно управляла проектом и даже обновляла протокол. Хотя это, скорей всего, будет достигнуто только через пару лет (ведь проект Aavegotchi стартовал только в середине 2020 года), но команда проекта на это очень надеется.
 
-This high number stems from the fact that GHST is a token with a dynamic supply. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
+
+## Сжигание токенов. ГОРИ ДЕТКА ГОРИ
+
+Чтобы хорошо разбираться в этом процессе, нужно познакомиться с [изогнутой кривой](/curve) GHST и с тем, как она работает. После чего вы сможете понять, как работает механизм увеличения ликвидности.
+
+**33%** всех токенов GHST, заработанных через портал и продажи цифровых объектов, будут сжигаться. Безвозвратно. Да, вы не ошиблись.
+
+Столь высокий показатель связан с тем, что GHST — это токен с динамическим предложением. Its supply increases with demand, meaning that this high burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
 
 Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
 
