@@ -223,7 +223,7 @@ Matic Network是公共区块链的扩展解决方案。 基于调整后的 Plasm
 
 ### 非同质化代币 (NFT）
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+非同质化令牌 (NFT) 是一种特殊类型的加密令牌，它代表了某种 **独特的**， 意思是它不能换取任何其它标记。 非同质化代币通常代表对类物品的所有权，如装备、艺术作品或任何其他类型的财产。
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+不可替代令牌的**反面 ** 是可以交换任何其他同类令牌的令牌，例如USDC或比特币。 可兑换1:1的代币是可替代代币。
 
