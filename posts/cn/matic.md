@@ -7,33 +7,33 @@ contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Matic, but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+嘿，朋友！ 因此，您听说过向Matic的迁移，但不知道这到底是什么？ 别担心，我们会逐步带你完成所有步骤！
 
-In short, Matic Network is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+简而言之，Matic Network是适用于以太坊等公共区块链的第2层扩展解决方案。 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
 
-So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
+因此，告别Uniswap上的100美元交易，并向（几乎）免费互动打招呼！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#why-matic->Why Matic?</a></li>
-<li><a href=#adding-matic-to-your-metamask>Adding Matic to your Metamask</a></li>
-<li><a href=#bridging-assets-to-matic>Bridging assets to Matic</a></li>
+<li><a href=#why-matic->为什么是Matic？</a></li>
+<li><a href=#adding-matic-to-your-metamask>将Matic 添加到您的Metamask</a></li>
+<li><a href=#bridging-assets-to-matic>将资产迁移到Matic</a></li>
 </ol>
 
 </div>
 
-## Why Matic?
+## 为什么是Matic？
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+你们可能知道，也可能不知道，Aavegotchi Mainnet计划在2021年1月4日上线。 那天，比特币上涨了近40％，这导致套利机器人发疯。 这使天然气费飙升至超过400 gwei，从而导致可笑的交易费。 只是为了说明一下：购买单个[传送门](/portals)，将其打开并召唤Gotchi至少需要花费300美元。
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Matic has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Matic with 76%.
+很明显，在Ethereum Mainnet上进行上线是不可能的。 由于Matic 一直与不同的NFT项目(例如OpenSea)一起工作，选择比较容易。 社区对此也有同感，并投票赞成以76%的比例在Matic网络上线。
 
-## Adding Matic to your Metamask
+## 将Matic 添加到您的Metamask
 
-Let’s get started with the fun stuff! To use Matic Network, you first need to add it to your Metamask wallet.
+让我们以有趣的东西开始吧！ 要使用Matic Network，您首先需要将其添加到您的 Metamask 钱包。
 
 1). Open the extension and click the “Ethereum Mainnet” button on the top.
 
@@ -59,7 +59,7 @@ Once you’ve added everything, you can click on “Save”.
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Matic by clicking the button from step 1.
 
-## Bridging assets to Matic
+## 将资产迁移到Matic
 Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Matic. We’re going to use the PoS Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
 
 So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
