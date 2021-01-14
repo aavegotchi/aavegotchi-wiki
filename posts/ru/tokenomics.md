@@ -89,33 +89,33 @@ GHST токен распределялся в три стадии. Это час
 
 В этом фонде также хранится 1 млн GHST, заблокированных согласно графику, что и при частной продаже. По мере полной разблокировки средств фонда, их будут распределять по заранее составленному 3-летнему графику вестинга, а оставшиеся токены будут заблокированы в новом вестинг контракте еще на 2 года и переданы основной команде Aavegotchi небольшими суммами.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
+Средства из Фонда разработчиков в основном расходуются на стимулирование основных членов команды Aavegotchi, а также пойдут на компенсационные выплаты внешним консультантам.
 
-## Revenue Sharing Overview
+## Распределение доходов
 
-What happens to all the GHST spent on portals and wearables?
+Как распределяются токены GHST, потраченные на порталы и wearables?
 
-We've made a handy diagram that briefly breaks it down for you:
+С помощью этой диаграммы можно понять, как происходит распределение средств:
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various allocations in more detail.
+Сейчас мы расскажем о принципе распределения более подробно.
 
 
-## Rarity Farming
+## Фарминг Редкости
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Одна из главных частей взаимодействия игрока и Aavegotchi — проводить время со своими Gotchi и оснащать их wearables. Для постоянной стимуляции взаимодействия с игровой экосистемой, часть доходов с продажи порталов и амуниции пойдет на вознаграждение ТОПовых фармеров редкости.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+На вознаграждения планируется выделять **40%** ото всех заработанных токенов GHST.
 
-Initially, there will be three categories of Player Rewards:
+На старте игры будет три категории вознаграждений для игроков:
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/traits#kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* 100 самых редких Aavegotchi (по [BRS](/rarity-farming#base-rarity-score))
+* Топ 100 по уровню [Kinship](/traits#kinship)
+* Топ 100 по [очкам опыта (XP)](/traits#experience)
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
+Для вознаграждения победителей всех трех категорий предназначено **40%** от всех заработанных GHST. Exact percentages for each category have not been confirmed yet and will be discussed in the AavegotchiDAO.
 
 More categories will be added, as the game continues to develop.
 
