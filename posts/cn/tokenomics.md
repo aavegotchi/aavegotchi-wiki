@@ -10,102 +10,101 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<p class="headerImageText">GHST 什么时候5美元???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+代币学？ 谁关心？ 什么时候到月球？？？
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+我们是这样做的，你也应该如此。 如果您打算投资GHST之类的项目（或与此相关的任何项目），那么了解更广泛的生态系统的工作方式非常重要。 归根结底，我们大家都能以我们的狂热赢得胜利。
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchi在分享收入和代币方面的做法旨在平衡四项目标：
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>创建一个健康的游戏赚钱生态系统，奖励活跃的玩家和 DAO 参与者</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>确保GHST 令牌具有长期捕获值的坚实基础</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>为AavegotchiDAO建造一个金库，用于自由支配支出</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>向那些正在开发Aavegotchi的人提供持续的财政奖励</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+wiki的这一部分将首先带你通过GHST的令牌发布，然后详细说明如何实现这些目标。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li></p>
-<p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO Governance</a></p>
-<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Development Team</a></p>
+<li><a href=#token-distribution>代币分配</a></li>
+<li><a href=#revenue-sharing-overview>收入分享概览</a></li></p>
+<p><a href=#rarity-farming>稀有农场</a></p>
+<p><a href=#dao-governance>治理</a></p>
+<p><a href=#burn-baby-burn>燃烧</a></p>
+<p><a href=#development-team>开发团队</a></p>
 </ol>
 
 </div>
 
-## Token Distribution
+## 代币分配
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
-
-
-**The Private Sale**
-
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
+GHST分三个阶段分发。 这些是私人销售、预售和公共关联曲线销售。
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+**私人销售**
+
+额度：5,000,000GHST 价格：0.05DAI / GHST
 
 
-**The Pre-Sale**
-
-Size: 500,000 GHST Price: 0.1 DAI / GHST
-
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
-
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
-
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
-
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
-
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
+私人出售于2020年8月进行。 任何人只要达到20k的 DAI 最小值并进行KYC就可以加入。 这一轮筹集的资金分配给Aavegotchi背后的公司Pixelcraft Studios，以确保Aavegotchi游戏的成功发展。
 
 
-**Public Bonding Curve Sale**
+**预售：**
 
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
+额度：5,000,000GHST 价格：0.05DAI / GHST
 
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
+GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先到者为准。 在上述日期之前执行KYC的所有第6级代理商都可以在此阶段购买GHST。
 
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
+为了进行销售，当时进行了所有6级Actic的快照。 然后与那些执行KYC的人核对了这一点。 然后，向Discord的所有合格参与者发放了特别的“6级”徽章。 然后将这些参与者添加到一个特殊的discord通道上，在这里张贴到预设的链接。
 
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+此处筹集的资金被用来引入令牌联合曲线储备库的流动资金，储备比率为100%。
+
+私营销售和预销售参与者的GHST 代币将在一年内拥有。 从预售回合结束开始。 180天后，初次释放的金额大约相当于总金额的50%。 随后在今后185天内释放剩余的代币。
+
+关于这个问题的更多详细信息，请参阅 [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451)。
 
 
-**Ecosystem Fund**
+**公开联合曲线销售**
 
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+正如我们的朋友们所说的那样，曲线永远不会结束！ 欲了解更多关于曲线机制的信息，请查看我们在 [曲线](/curve) 上的页面。
+
+在这一轮中，GHST的供应没有限制，时间也没有限制。 价格为0.2 DAI / GHST，随曲线波动。 此回合中没有锁定-令牌可以直接从曲线上认领。
+
+任何参加KYC并由Aavegotchi团队将其地址列入白名单的人都可以直接从曲线上购买。
+
+从Curve筹集的资金将通过GHST令牌持有者控制的点击机制提供给Pixelcraft Studios。 关于该机制的更多信息可以在这里找到 [](https://fundrasing.aragon.black)。
 
 
-**Team Fund**
+**生态系统基金**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+生态系统基金由1 000 000GHST组成，按与私人和预售回合相同的时间表锁定。 解锁的资金可以通过对 [AavegotchiDAO](/dao) V2 的建议来部署。 此外，为了合法使用，如非Aavegotchi核心团队成员的资金开发等， 促销和推销AavegotchiDao以及AavegotchiDAO认为有用的任何其他使用案例。
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
-## Revenue Sharing Overview
+**团队资金：**
 
-What happens to all the GHST spent on portals and wearables?
+团队基金由1 000 000GHST组成，按与私人回合相同的时间表锁定。 然而，一旦资金全部解锁，将按照三年的授予计划进行分配。 剩下的资金将被锁定为新的授予股权合同，为期两年，并将驾驶证交给Aavegotchi核心团队。
 
-We've made a handy diagram that briefly breaks it down for you:
-<div class="centerImageContainer">
+团队资金主要用于激励Aavegotchi团队核心成员为项目作出充分努力。 并补偿外聘顾问。
+
+## 收入分享概览
+
+在传送门和可穿戴设备上花费的所有GHST会如何处理？
+
+我们制作了一个方便的图表，为您简要地分解了一下：<div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various allocations in more detail.
+继续阅读以更详细地了解各种分配。
 
 
-## Rarity Farming
+## 稀有农场
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables. To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Aavegotchi体验的核心部分是花时间陪伴Gotchi，并为他们配备可穿戴装备。 鼓励持续和积极地参与游戏的生态系统； 通过门户销售和可磨损赚取的部分收入将用于奖励优秀的农民。
 
 To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
 
