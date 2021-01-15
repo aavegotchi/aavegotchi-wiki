@@ -5,10 +5,10 @@ title: 'Minigames'
 description: 'All about Aavegotchi minigames'
 ---
 
-*Aavegotchi's don't spend their time jsut twiddling their ghostly thumbs, y'know...*
+*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
 
-The [metaverse](/metaverse) is chock-full of things for Aavegotchis and their masters to do. Explore the realm with your friends and pit your 'Gotchi against theirs to win their ever-precious spirit force (not including their initial balance, of course) and valuable XP!
+[元数据](/metaverse) 是Aavegotchis和他们的主子要做的全套东西。 与您的朋友一起探索世界，将'Gotchi与他们的朋友抗衡，以赢得他们无与伦比的精神力量（当然不包括最初的平衡）和宝贵的XP！
 
-There are a wide variety of mini-games to suit all players' (and Aavegotchis') tastes. If your adorably ethereal companion's *hyper-aggressive,* they'd surely appreciate a good battle here and there. On the flip side, they might not be quite right for a baking competition.
+有各种各样适合所有玩家（和Aavegotchis）口味的小型游戏。 如果你的同伴的 *极具侵略性。* 他们肯定会欣赏这里和那里的一场很好的战斗。 另一方面，他们可能不适合参加烘焙比赛。
 
-As the [AavegotchiDAO](/dao) evolves, there are incentives coming for anyone and everyone to jump in and develop their very own mini-games! As long as they conform to the trait distribution standards, the games will reward winners with XP.
+随着 [AavegotchiDAO](/dao) 的演进，任何人和每个人都可以跳进和发展自己的小游戏！ 只要符合特征分配标准，游戏将奖励经验丰富的获奖者。

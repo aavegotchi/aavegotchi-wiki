@@ -5,7 +5,7 @@ title: 'Minispiele'
 description: 'Alles über Aavegotchi Minispiele'
 ---
 
-*Aavegotchi's verbringen ihre Zeit nicht mit Däumchendrehen, weisst du...*
+*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
 
 Das [Metaverse](/metaverse) ist vollgepackt mit Dingen, die die Aavegotchis und ihre Meister tun können. Erforsche den Realm mit deinen Freunden und lass dein Gotchi gegen ihres antreten, um ihre wertvolle Spirit Force (natürlich ohne ihr anfängliches Guthaben), sowie Erfahrungspunkte (EXP) zu gewinnen!
 
