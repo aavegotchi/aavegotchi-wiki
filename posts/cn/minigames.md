@@ -5,7 +5,7 @@ title: 'Minigames'
 description: 'All about Aavegotchi minigames'
 ---
 
-*Aavegotchi不要花时间拼写他们的幽灵，你知道……*
+*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
 
 [元数据](/metaverse) 是Aavegotchis和他们的主子要做的全套东西。 与您的朋友一起探索世界，将'Gotchi与他们的朋友抗衡，以赢得他们无与伦比的精神力量（当然不包括最初的平衡）和宝贵的XP！
 
