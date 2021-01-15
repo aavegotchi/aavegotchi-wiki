@@ -44,7 +44,7 @@ pop in and chat. </p>
 <a name="Medium"></a>
 
 <p style="margin-left: 4.8em">Importantly, the Aavegotchi Discord is also the <b>ONLY</b> place you can complete aavesome Aavegotchi "missions.” Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
+currently twelve) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
 is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
 </p>
 
