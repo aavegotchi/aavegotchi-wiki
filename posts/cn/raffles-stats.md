@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-How many raffle tickets were submitted in past raffles? How many were there in each category? We have the historical data for past raffles for you here!
+过去的抽奖活动中提交了多少张抽奖券？ 每个类别中有多少？ 我们在这里为您提供过往抽奖的历史数据！
 
 <div class="contentsBox">
 
