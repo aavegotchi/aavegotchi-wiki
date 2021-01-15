@@ -53,6 +53,7 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Nicht-fungibler Token (NFT)</a></p>
+<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 </ol>
 
 </div>
@@ -226,4 +227,12 @@ Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/met
 Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
 
 Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
+
+### Proof of Stake
+
+Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+
+Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+
+Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
