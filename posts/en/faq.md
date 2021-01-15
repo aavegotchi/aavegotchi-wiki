@@ -41,6 +41,8 @@ contributors: ["eris771"]
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
+<li><a href=#wearable-faq>Wearable FAQ</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
@@ -152,6 +154,11 @@ Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on th
 
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+
+## Wearable FAQ
+
+### Do I need to transfer my wearable vouchers to Matic?
+No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
 
 ## Portal FAQ
 
