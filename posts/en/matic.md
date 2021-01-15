@@ -59,7 +59,7 @@ Once you’ve added everything, you can click on “Save”.
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Matic by clicking the button from step 1.
 
 ## Bridging assets to Matic
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Matic. We’re going to use the PoS Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Matic. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
 
 So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
 
