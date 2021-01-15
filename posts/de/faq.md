@@ -41,20 +41,20 @@ contributors:
 <p><a href=#are-frens-used-for-anything-besides-raffles->Werden FRENS für irgendetwas anderes als die Lotterie verwendet?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Wie überträgt man Lotterie-Tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Wird es nach dem Start des Mainnets noch Lotterien geben?</a></p>
-<li><a href=#wearable-faq>Wearable FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
+<li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Wie viel kostet es zu spielen?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?</a></p>
+<li><a href=#technical-faq>Technisches FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Ist Aavegotchi On-Chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Welches Wallet sollte ich für Aavegotchi verwenden?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Wird Aavegotchi auf Layer 2 laufen?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Muss ich meine Aave Tokens migrieren?</a></p>
 </ol>
 
 </div>
@@ -146,49 +146,49 @@ Lotterie-Tickets basieren auf dem ERC-1155 Standard. Derzeit können Token, die 
 ### Wird es nach dem Start des Mainnets noch Lotterien geben?
 Ja, es wird nach dem Mainnet-Launch weitere Lotterien geben. Sie finden jedoch eher selten statt und werden nicht im Voraus angekündigt. Damit sollen Spieler belohnt werden, die weiterhin staken und somit [FRENS](/glossary#frens) und/oder Tickets akkumulieren.
 
-## Wearable FAQ
+## Kleidungsstück FAQ
 
-### Do I need to transfer my wearable vouchers to Matic?
+### Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?
 Nein. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
 
 ## Portal FAQ
 
-### How many portals can you buy in 1 transaction?
+### Wie viele Portale kann man in 1 Transaktion kaufen?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ## Gameplay FAQ
 
 
-### Do higher trait scores always mean higher rarity?
+### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Wie viel kostet es zu spielen?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
 
-### Does changing the collateral staked affect kinship level?
+### Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Technical FAQ
+## Technisches FAQ
 
 
-### Is Aavegotchi on-chain?
+### Ist Aavegotchi On-Chain?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Welches Wallet sollte ich für Aavegotchi verwenden?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-### Will Aavegotchi run on Layer 2?
+### Wird Aavegotchi auf Layer 2 laufen?
 
 Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Muss ich meine Aave Tokens migrieren?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
 
