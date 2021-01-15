@@ -39,8 +39,9 @@ Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen hab
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">Wichtig ist, dass der Aavegotchi Discord auch der <b>EINZIGE</b> Ort ist, an dem du die Aavegotchi-"Missionen" erledigen kannst. Das Erfüllen von Missionen (von denen es derzeit elf gibt) erhöht deinen Aagent-Rang und verschafft dir ein <b>exklusives Aavegotchi Aagent Kleidungsstück Set</b>, wenn du sie <b>alle vor dem Launch des Mainnets abschliesst.</b> Das Mainnet
-ist derzeit für den 4. Januar 2021 geplant, also besuche jetzt unsere <a href="https://wiki.aavegotchi.com/en/missions">Missionsseite</a> für weitere Informationen, wie du aufleveln kannst!
+<p style="margin-left: 4.8em">Wichtig ist, dass der Aavegotchi Discord auch der <b>EINZIGE</b> Ort ist, an dem du die Aavegotchi-"Missionen" erledigen kannst. Doing missions (of which there are 
+currently twelve) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
+is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
 </p>
 
 &nbsp;<a name="Twitter"></a>
