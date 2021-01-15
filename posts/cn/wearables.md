@@ -16,7 +16,9 @@ contributors:
 
 可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有农业](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
 
-此页包含了Aavegotchi游戏中已经确认的每个可穿戴衣服的详细信息。 
+此页包含了Aavegotchi游戏中已经确认的每个可穿戴衣服的详细信息。
+
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
 
 <div class="contentsBox">
 
@@ -52,46 +54,46 @@ contributors:
 
 ## Key
 
-Aavegotchis有四个特征，可以通过装备进行修改。
+Aavegotchis have four traits that can be modified by wearables.
 
 * AGG = 侵略性
 * NRG = Energy
 * SPK = Spookiness
 * BRN = Brain Size
 
-“眼色”和“眼形”的特性不能通过穿戴来修改。
+The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-*注意：负值并不意味着特性正在得到“弱化”。 Aavegotchi 特性分布在钟曲线上，所以极端值(0,1)和99,100实际上是最好的！*
+*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
-关于此主题的更多详情，请参阅 [特性](/traits)。
+See [Traits](/traits) for more about this topic.
 
 ## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
-任何时候都可以配备或卸下装备。 装备/装备穿戴物品可能会影响Aavegotchi的 [总体稀有程度](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score)：
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
 
 ## LINK Themed Set
 
-这些LINK主题织物庆祝Avegotchi与Chainlink结成的伙伴关系于2020年11月通过独家有限版本的Raffle发行。 具体而言，我们使用Chainlink VRF来确保Aavegotchis具有可验证的随机特性。
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
 ## Aave Themed Set
 
-以Aave为主题的套装在2020年12月8日举行的三个预发布的莱佛士中的第二个中分发。 这个美术馆纪念Aavegotchi与Aave社区和领导团队之间的纽带。
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
 ## Ethereum Themed Set
 
-以太坊为主题的集合是Mainnet之前的三个集合中的最后一个。
+The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
-Aagent Wearables Set 是一个限定版本集，它提供给所有 [级12Aags](/missions) 在Mainnet发射Aavegotchi 之前已经完成所有12个Aagent Missions。 图片和数量即将到来！
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
@@ -105,13 +107,13 @@ table_farmerWearablesTable
 
 ## Santa Wearables Set
 
-我们的一位朋友意外向GHST Staking 合同发送了4000link(~5万美元)。 我们从我们的社区筹集了资金来帮助他。 每个捐给SantaGotchi.eth超过20美元的ANY ERC20令牌的人都会被空投一个有限版本的Santagogchi Hat。 更多信息请参阅此 [页面](https://twitter.com/aavegotchi/status/1339738554906243072)。 可穿戴的图片将很快出去！ Santa wearables集中的其他物品也将很快提供。
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
 ## OKex Wearables
 
-2020年10月7日，Aavegotchi与OKex合作，在OKex首席执行官Jay Hao的启发下创建了一套特殊装备。 幸运的存款者在OKex平台上存放他们的GHST令牌，有机会赢得这些装备。 150件可穿戴装备。 前 5 位存放者将自动赢得完整的5个装备。 但是剩余的125个NFT将随机奖励给任何存入10 GHST以上的人。 更多信息请参阅此 [页面](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)。
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
