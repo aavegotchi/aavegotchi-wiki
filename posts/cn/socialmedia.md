@@ -40,8 +40,9 @@ contributors:
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">确切来说，Aavegotchi Discord是你要完成Aavegotchi "missions”的唯一地方。 执行任务(目前有12个任务)将提高您的代理排名， 当您 <b>在主网启动前全部完成时，您将获得一个 <b>独家的 Aavegotchi 代理可穿戴套装</b> 。</b> Mainnet
-目前定于2021年1月4日 现在来看看我们的 <a href="https://wiki.aavegotchi.com/en/missions">任务页</a> 了解如何升级的更多信息！
+<p style="margin-left: 4.8em">确切来说，Aavegotchi Discord是你要完成Aavegotchi "missions”的唯一地方。 Doing missions (of which there are 
+currently twelve) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
+is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
 </p>
 
 &nbsp;<a name="Twitter"></a>
