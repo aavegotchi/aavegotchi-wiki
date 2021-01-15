@@ -60,7 +60,7 @@ contributors:
 4). 没有步骤四，您已经完成了！ 您现在可以通过单击步骤1中的按钮在以太坊主网和Matic 之间切换。
 
 ## 将资产迁移到Matic
-好吧，你已经设置了Metamask，准备好立即挖掘。 但在您需要Matic 的一些资产之前。 我们将使用 PoS Matic Bridge 将我们的资金从Ethereum Mainnet转给Matic 如果您只想转移您的 GHST，忽略所有以下步骤并使用我们简单的 Aavegotchi 桥 [在这里](https://aavegotchi.com/bridge)。
+好吧，你已经设置了Metamask，准备好立即挖掘。 但在您需要Matic 的一些资产之前。 We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Matic Bridge to transfer our funds from Ethereum Mainnet to Matic. 如果您只想转移您的 GHST，忽略所有以下步骤并使用我们简单的 Aavegotchi 桥 [在这里](https://aavegotchi.com/bridge)。
 
 对于想要转移不同资产的所有人，如ETH或USDC，您在这里是如何操作的：
 
