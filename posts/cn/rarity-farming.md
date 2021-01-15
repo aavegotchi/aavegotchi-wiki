@@ -11,83 +11,83 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/rarity-farming/rarity-farming.png">
-<p class="headerImageText">A Rarity Farmer</p>
+<p class="headerImageText">稀有农民</p>
 </div>
 
-**Introduction**
+**介绍**
 
-Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
+稀有农业是Aavegotchi倡导的一种创新游戏机制。 它努力奖励那些最深思熟虑和最热情地参与生态系统的用户。 正如它的名称所表明的那样，这是一个你试图提高最稀少的Aavegotchis的过程，并且因为这样做而得到奖励。
 
-This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
+这个wiki页面将解释你如何从事稀有农业，以及如何确定最稀有的Aavegotchis。 继续阅读以了解更多！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
-<li><a href=#calculating-rarity>Calculating Rarity</a></li>
-<p><a href=#base-rarity-score>Base Rarity Score</a></p>
-<p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p> <a href=#final-rarity-score>Final Rarity Score</a></p>
-<li><a href=#rewards>Rewards</a></li>
+<li><a href=#how-do-i-rarity-farm->我如何进行稀有农场？</a></p>
+<li><a href=#calculating-rarity>计算稀有度</a></li>
+<p><a href=#base-rarity-score>基础稀有分</a></p>
+<p><a href=#absolute-rarity-score>绝对稀有分</a></p>
+<p> <a href=#final-rarity-score>最终得分</a></p>
+<li><a href=#rewards>奖励</a></li>
 </ol>
 
 </div>
 
-## **How Do I Rarity Farm?**
-There are several ways you can engage in the rarity farming exercise. These include:
+## **我如何稀有农作？**
+你们可以通过几种方式从事稀有的耕作。 这些包括：
 
-* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
+* **在 [召唤过程中，仔细选择一个稀有特性的 Aavegotchi](/portals)**
 
-* **Equipping [wearables](/posts/wearables) to modify the traits of your Aavegotchi**
+* **装备 [可穿戴装备](/posts/wearables) 来修改你的 Aavegotchi 的特性**
 
-* **Engaging in minigames**
+* **进行迷你游戏**
 
-For more information on each process, just follow the links to the respective pages on the sidebar.
+关于每个进程的更多信息，请点击侧边栏上相应页面的链接。
 
-That said, the rarity level of a single Aavegotchi is dynamic and will change over time, as the distribution of traits and wearables in the Aavegotchi universe changes. In other words, it isn't enough to simply max out a particular trait in your Aavegotchi. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a war-like gotchi with high aggression scores, this trait becomes less rare, and your Aavegotchi's rarity level goes down.
+尽管如此，单个Aavegotchi的稀有水平是动态的，将随着时间的推移而变化。 Aavegotchi 宇宙中特性和织物分布的变化。 换言之，仅仅在您的 Aavegotchi 中最大化某个特性是不够的。 你还必须考虑其他玩家的行动。 例如，如果太多的玩家试图为侵略得分很高的战争之类的争斗而磨难， 这个特性变得更少了，你的 Aavegotchi 的稀有水平下降。
 
-## **Calculating Rarity**
+## **计算稀有度**
 
-There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
+稀有度分数在这里有2种类型-基本稀有度分数（针对特质和可穿戴设备）和 绝对稀有度分数。
 
-### Base Rarity Score
+### 基础稀有分
 
-Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits and equipped wearables.
+基础稀有分数（BRS）来自Aavegotchi的特征和装备的磨损的总体稀有程度。
 
-#### Trait BRS
+#### 特性 BRS
 
-BRS of the Aavegotchi's traits is derived using the following formula:
+Aavegotchi特征的BRS采用以下公式：
 
-<p style="margin-left: 4.8em"><b>Trait BRS = traitValue >= 50 ? traitValue : 100-traitValue </b> (coding language)</p> 
-<p style="margin-left: 4.8em"><i>If trait value is more than or equal to 50, BRS = trait value. </i></p> 
-<p style="margin-left: 4.8em"><i>If trait value is less than 50, BRS = 100 - trait value. </i></p>
+<p style="margin-left: 4.8em"><b>特性BRS = 特性值 >= 50 ? 特性值: 100-traitValue </b> (编码语言)</p> 
+<p style="margin-left: 4.8em"><i>如果特性值大于或等于 50，BRS = 特性值。 </i></p> 
+<p style="margin-left: 4.8em"><i>如果特性值小于50，BRS = 100 - 特性值。 </i></p>
 
-#### Wearables BRS
+#### 可穿戴装备 BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
+另一方面，可穿戴装备的BRS取决于其稀少。 例如，稀有的 [可穿戴装备](https://wiki.aavegotchi.com/en/wearables) 产生5 BRS 和类似神的可磨损50 BRS。
 
-### Absolute Rarity Score
+### 绝对稀有分
 
-Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
+绝对稀有度分数（ARS）来自整个Aavegotchi生态系统中Aavegotchi特征的特殊稀有性。 例如，如果许多玩家将他们的Aavegotchis训练为具有最高能量水平，那么高能量水平-TURNT的ARS将低于最低能量水平-WASTED的ARS。 ARS是按照Aavegotchi特征每个特征100个百分点计算的。 因此，例如，如果所有Aavegotchi的5％具有WASTED特质，则WASTED特质将使Aavegotchi的能量特质ARS达到95分。
 
-### Final Rarity Score
+### 最终得分
 
-<b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
+<b>最终稀有分 = Traits BRS + Wearables BRS + Traits ARS</b>
 
-Example of the Final Rarity Score calculation is as shown below:
+最后分数计算的示例如下：
 
-table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
+表_稀有计分表
+<p style="margin-left: 2.8em"><i>BRS 表示基础稀有分数；ARS 表示绝对稀有分数</i></p>
 
-## Rewards
+## 奖励
 
-In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the <b>highest Final Rarity Scores</b> will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+在每个时期(AavegotchiDAO确定的时间长度) 拥有 <b>最高最终稀少等级得分</b> 的几个最稀少的Aavegotchis将得到一个分布式GHST 奖励(来自所有涉及GHST的销售)，所有者都可以要求这些奖励。
 
-The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
+随着玩家召唤更多的Aavegotchi，装备更多的可穿戴设备并提升他们的Aavegotchi，Aavegotchi整个宇宙中Aavegotchi的最终稀有度分数不断变化。 因此，参与者必须就如何训练和装备他们的Aavegotchis作出战略决定。 这就是Aavegotchi的稀有耕种方式，鼓励了深思熟虑的游戏玩法和用户的积极参与，同时奖励了最优秀的农民，因为他们的收成令人讨厌。
 
-There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
+目前，Aavegotchi在每个时段内可以执行多少次交互没有限制，但是如果机器人活动成为问题，则AavegotchiDAO可以投票决定添加断路器来减少机器人活动。
 
 
 
