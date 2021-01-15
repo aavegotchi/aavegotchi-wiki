@@ -34,23 +34,21 @@ contributors:
 
 <a href="https://discord.com/invite/NPwnWB6" target = "_blank"><img src="/socialmedia/discord.png" alt = "aavegotchi discord" width="60" height="60"> &nbsp;&nbsp;&nbsp;**在 Discord上加入我们**</a>
 
-<p style="margin-left: 4.8em">Our Aavegotchi Discord fam is <b>6,000+ members stronk.</b> For Gotchi noobs, our Discord is the best place to be, with a wealth of
- fundamental information on the Aavegotchi project as well as our frenly Aavegotchi Aaprentices, our own Aassistant, and a host of helpful community members.  
+<p style="margin-left: 4.8em">我们的 Aavegotchi Discord 粉丝是 <b>6 000多个成员。</b> 对于Gotchi noobs, 我们的 Discord 是最好的地方， 具有丰富的
+ 关于Aavegotchi项目的基本信息以及我们的疯狂Aavegotchi Aaprentices， 我们自己的助手和许多有帮助的社区成员。  
 我们的Discord对任何有一般问题的人来说也是一个很好的地方，而不是那些需要技术支持的人，或者那些想只需要点进和聊天的朋友们。 </p>
 
 <a name="Medium"></a>
 
-<p style="margin-left: 4.8em">确切来说，Aavegotchi Discord是你要完成Aavegotchi "missions”的唯一地方。 Doing missions (of which there are 
-currently eleven) will increase your Aagent ranking, earning you an <b>exclusive Aavegotchi Aagent wearable set</b> when you <b>complete them all before mainnet launch.</b> Mainnet
-is currently slated for 4 January 2021, so check out our <a href="https://wiki.aavegotchi.com/en/missions">missions page</a> now for more info on how to level up!
+<p style="margin-left: 4.8em">确切来说，Aavegotchi Discord是你要完成Aavegotchi "missions”的唯一地方。 执行任务(目前有12个任务)将提高您的代理排名， 当您 <b>在主网启动前全部完成时，您将获得一个 <b>独家的 Aavegotchi 代理可穿戴套装</b> 。</b> Mainnet
+目前定于2021年1月4日 现在来看看我们的 <a href="https://wiki.aavegotchi.com/en/missions">任务页</a> 了解如何升级的更多信息！
 </p>
 
 &nbsp;<a name="Twitter"></a>
 
 <a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**在Medium查看我们**</a>
 
-<p style="margin-left: 4.8em">Aavegotchi Medium对于想跟上Aavegotchi项目的读者来说是一个很好的地方。 This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
+<p style="margin-left: 4.8em">Aavegotchi Medium对于想跟上Aavegotchi项目的读者来说是一个很好的地方。 这里您会找到深入的社区更新， 以及关于 <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">奖券，</a> 事件甚至偶尔会遇到一些鼓舞人心的 <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi 粉丝。</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -70,11 +68,11 @@ as well as detailed information on <a href="https://aavegotchi.medium.com/aavego
 
 <a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**与我们在Reddit上的交流**</a>
 
-<p style="margin-left: 4.8em">用表情图来为社区创造更多的记忆吧。 休息一下，在Aavegotchi Reddit愉快的玩耍吧。我们伟大的纪念物留在那里！ Have a great laugh as you unwind for the day.</p>
+<p style="margin-left: 4.8em">用表情图来为社区创造更多的记忆吧。 休息一下，在Aavegotchi Reddit愉快的玩耍吧。我们伟大的纪念物留在那里！ 当您放松身心时，请大笑。</p>
 
 &nbsp;
 
-我们期待着欢迎你，朋友！ Head over to any of our channels or our [missions page](/missions) to learn more.
+我们期待着欢迎你，朋友！ 直接到我们的任何频道或我们的 [任务页面](/missions) 了解更多信息。
 
 
 
