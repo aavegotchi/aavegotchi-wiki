@@ -11,6 +11,17 @@ contributors: ["eris771"]
 <p class="headerImageText">Aagents at Work</p>
 </div>
 
+
+**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+
+Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These
+agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore. 
+
+**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent">
+
+
+From the aarchives:
+
 <p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
 
 
