@@ -53,6 +53,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 </ol>
 
 </div>
@@ -226,4 +227,12 @@ Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/met
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+
+### Proof of Stake
+
+Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+
+Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+
+Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
