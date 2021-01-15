@@ -4,7 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Minigames'
 description: 'All about Aavegotchi minigames'
 ---
-*Aavegotchi's don't spend their time jsut twiddling their ghostly thumbs, y'know...*
+*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
 
 The [metaverse](/metaverse) is chock-full of things for Aavegotchis and their masters to do. Explore the realm with your friends and pit your 'Gotchi against theirs to win their ever-precious spirit force (not including their initial balance, of course) and valuable XP!
 
