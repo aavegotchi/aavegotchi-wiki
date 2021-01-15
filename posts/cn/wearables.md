@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有农业](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
+此页包含了Aavegotchi游戏中已经确认的每个可穿戴衣服的详细信息。 
 
 <div class="contentsBox">
 
@@ -52,18 +52,18 @@ This page contains detailed information about every wearable that has been confi
 
 ## Key
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchis有四个特征，可以通过装备进行修改。
 
-* AGG = Aggressiveness
+* AGG = 侵略性
 * NRG = Energy
 * SPK = Spookiness
 * BRN = Brain Size
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+“眼色”和“眼形”的特性不能通过穿戴来修改。
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*注意：负值并不意味着特性正在得到“弱化”。 Aavegotchi 特性分布在钟曲线上，所以极端值(0,1)和99,100实际上是最好的！*
 
-See [Traits](/traits) for more about this topic.
+关于此主题的更多详情，请参阅 [特性](/traits)。
 
 ## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
