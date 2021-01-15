@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+Aavegotchis级别提高，因为他们获得了更多的经验(XP)。 但它们在每一级需要多少XP？ 数据分析师，我们有一些数字可供您处理！
 
 <div class="contentsBox">
 
@@ -15,19 +15,19 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 
 <ol>
 <li><a href=#formula>公式</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#experience-table>经验表</a></li>
 </ol>
 
 </div>
 
 ## 公式
-The following formula is used to determine the XP required for the next level:
+以下公式用于确定下一级所需的 XP：
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+（当前等级^ 2）÷常数，其中常数= 0.02
 
-## Experience Table
+## 经验表
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+下表显示每一级所需的 XP。 在深入了解数据之前，这里是所用关键术语的一些有用的定义：
 
 * Current Level: Current Level of your Gotchi
 * Next Level: Next Level of your Gotchi
