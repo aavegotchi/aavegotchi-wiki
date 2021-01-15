@@ -17,7 +17,7 @@ Wearables are an important component of the Aavegotchi game. Besides endowing yo
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game. 
 
-
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
 
 <div class="contentsBox">
 
