@@ -61,11 +61,11 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 <a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Chế Hình Với Bọn Mình Trên Reddit**</a>
 
-<p style="margin-left: 4.8em">Đến để chế hình và ở lại vì chúng mình! Thư giãn một tẹo và thưởng thức những phút giây tuyệt vời tại Aavegot Reddit nhé, bởi đây là nơi trú ngụ của những cao thủ chế meme đấy! Have a great laugh as you unwind for the day.</p>
+<p style="margin-left: 4.8em">Đến để chế hình và ở lại vì chúng mình! Thư giãn một tẹo và thưởng thức những phút giây tuyệt vời tại Aavegot Reddit nhé, bởi đây là nơi trú ngụ của những cao thủ chế meme đấy! Hãy cười thật đã đời trong những ngày tẻ nhạt nhé.</p>
 
 &nbsp;
 
-We look forward to welcoming you, fren! Head over to any of our channels or our [missions page](/missions) to learn more.
+Bọn mình đang trông các bạn quá đây này! Chuyển ngay đến kênh của bọn mình hoặc [Trang Nhiệm Vụ](/missions) để xem thêm.
 
 
 
