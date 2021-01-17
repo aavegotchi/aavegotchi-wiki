@@ -192,6 +192,6 @@ Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên 
 
 Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :) 
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
