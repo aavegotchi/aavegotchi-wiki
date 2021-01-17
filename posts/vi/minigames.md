@@ -5,7 +5,7 @@ title: 'Minigames'
 description: 'Tất tần tật về minigame trong Aavegotchi'
 ---
 
-*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
+*Aavegotchi không chỉ quay quay ngón tay để giết thời gian mấy bạn hiểu hôn...*
 
 [Metaverse](/metaverse) sẽ là nơi mà Aavegotchi và chủ nhân của mình cùng làm hàng tá những thứ hay ho. Khám phá realm với những người bạn và cùng Gotchi đối đầu với họ để chiến thắng điểm Spirit Force (chứ không phải tiền họ gửi vào đâu nha) và điểm kinh nghiệm vô cùng quý giá!
 
