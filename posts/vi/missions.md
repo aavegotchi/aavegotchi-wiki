@@ -20,7 +20,7 @@ Một chương sử hào hùng trong lịch sử Aavegotchi đã kết thúc v�
 **CHÚC MỪNG CÁC AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 
 
-From the aarchives:
+Từ những bản ghi chép cũ xưa:
 
 <p style="font-size:25px; font-style: italic;"><b>"Nhiệm vụ của bạn, nếu bạn chấp nhận nó..."</b></p>
 
