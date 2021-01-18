@@ -13,11 +13,11 @@ contributors:
 <p class="headerImageText">關於aTokens</p>
 </div>
 
-aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由儲存、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave議定的信息。
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由儲存、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave協議的訊息。
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+那麼 aTokens 與 Aavegotchi 有什麼關係呢？ 每一個 Aavegotchi 都必須由[傳送門](/pages/portals)來召喚, 召喚之前還必須用 atoken 來作為擔保。 沒有例外! 這就是為什麼你需要 aTokens 和這個頁面，接下來將為你介紹一些有用的訊息，說明什麼是可用的 aTokens 以及你如何取得。
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+在 Aavegotchi 中，"精神力量"、"抵押" 和 "aTokens" 代表的是一樣的東西。
 
 <div class="contentsBox">
 
@@ -25,10 +25,10 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 
 <ol>
 <li><a href=#about>關於</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#stablecoins>穩定幣</a></li>
+<li><a href=#cryptocurrencies>密碼貨幣</a></li>
+<li><a href=#getting-atokens>取得 aToken</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>在 Aavegotchi 中抵押 aToken</a></li>
 </ol>
 
 </div>
@@ -46,7 +46,7 @@ The following [aTokens](https://docs.aave.com/developers/deployed-contracts/depl
 
 table_stablecoins
 
-## Cryptocurrencies
+## 密碼貨幣
 
 table_cryptocurrencies
 
@@ -74,7 +74,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Staking aTokens into Aavegotchis
+## 在 Aavegotchi 中抵押 aToken
 
 Okay, I've gotten myself some aTokens. What now?
 
