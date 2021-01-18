@@ -37,10 +37,10 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 
 當基礎資產貸給借款人的時候，aTokens 會直接在您的錢包中實時計算利息！ 真的，你可以看到你的餘額每分鐘都正在增加。
 
-aToken 可以分成兩種：(1) 加密貨幣，或(2) 穩定幣。 加密貨幣是由加密技術保護的數位資料或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散式網絡 — 一個由不同的計算機網絡執行的分佈式帳本。 Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken 可以分成兩種：(1) 加密貨幣，或(2) 穩定幣。 加密貨幣是由加密技術保護的數位資料或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散式網絡 — 一個由不同的計算機網絡執行的分佈式帳本。 穩定幣是一種密碼貨幣，試圖通過與美元掛鉤來提供穩定的價格。 不同的穩定幣會有不同的掛鉤機制，也會有不同的風險。
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+以下的 [aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (加密或幣或穩定幣) 都可以在 Aave 上取得: 由 Aavegotchi 列出的表格表示 aToken 是否可用於 Aavegotchi 遊戲中。 The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## 穩定幣
 
