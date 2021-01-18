@@ -230,9 +230,9 @@ Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại di
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) là một loại cơ chế đồng thuận mà các blockchain có thể dùng để cùng nhau chập thuận duy nhất một bản gi dữ liệu lịch sử đúng sự thật. Trong một blockchain PoS, validator thực hiện stake tài sản để chứng thực (hay xác thực) sự tồn tại của những block (khối giao dịch).
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validator là những người tham gia vào mạng lưới những người chạy các node (được gọi là validators nodes) để đề nghị và chứng thực những khối giao dịch nằm trên mọt blockchain PoS. Họ thực hiện công việc này bằng các stake tiền điện tử (trong trường hợp của Ethereum 2.0, ETH) trên mạng lưới và khiến chúng có thể được ngẫu nhiên nhằm đề xuất một khối giao dịch. Những validator khác sau đó sẽ "chứng thực" rằng họ đã thấy khối giao dịch đó. Khi một số lượng lớn hoạt động chứng thực các khối giao dịch đã được ghi nhận, khối giao dịch đó sẽ được thêm vào blockchain. Validator nhận được phần thưởng khi đề xuất các khối giao dịch thành công (giống như cách hoạt động trong PoW) và khi chứng thực cho những khối giao dịch mà họ đã thấy.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Đọc thêm về cơ chế đồng thuận Proof of Stake tại [đây](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 

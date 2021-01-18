@@ -230,9 +230,9 @@ Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jede
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) ist eine Art Konsens-Mechanismus, den Blockchains nutzen können, um sich auf einen einzigen wahren, historischen Datensatz zu einigen. In einer PoS Blockchain setzen Validators Stakes ein, um die Existenz von Blöcken zu bestätigen (oder zu "validieren").
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validators sind die Teilnehmer im Netzwerk, die Nodes (sogenannte Validator Nodes) betreiben, um Blöcke auf einer PoS Blockchain vorzuschlagen und zu bestätigen. Sie tun dies, indem sie Krypto (im Fall von Ethereum 2.0, ETH) im Netzwerk staken und sich zur Verfügung stellen, um zufällig ausgewählt zu werden und einen Block vorzuschlagen. Andere Validators "bescheinigen" dann, dass sie den Block gesehen haben. Wenn eine ausreichende Anzahl von Bescheinigungen für den Block gesammelt wurde, wird der Block zur Blockchain hinzugefügt. Validators erhalten Belohnungen sowohl für das erfolgreiche Vorschlagen von Blöcken (genau wie bei PoW) als auch für die Bescheinigung von Blöcken, die sie gesehen haben.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 

@@ -83,7 +83,20 @@ table_RarityScoreCalculationTable
 
 ## Phần thưởng
 
-Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với <b>Final Rarity Score cao nhất</b> sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
+Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với **Final Rarity Score cao nhất** sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
+
+Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
+* Top 100 Aavegotchi hiếm nhất (theo BRS, ARS, sắp tiến hành)
+* Top 100 Aavegotchi Có Điểm [Kinship](/traits#kinship) Cao Nhất
+* Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
+
+Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quyết định bởi AavegotchiDAO.
+
+Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
+
+Phần thưởng sẽ được phân phát mỗi hai tuần thông qua snapshot trên snapshot. Ban đầu, quá trình này sẽ được team Pixelcraft tự quản lý, những về sau nó sẽ được tự động giải quyết bởi DAO. Sau mỗi lần snapshot, giải thưởng có thể được nhận bởi tất cả những người nông dân thành công trong việc cày độ hiếm và vòng đua top kế tiếp sẽ bắt đầu ngay lập tức.
+
+Giải thưởng GHST dành cho Rarity Farming được tài trợ bằng cách nào? [40% trong số tổng lượng GHST được dùng để mua wearables, consumables, và những vật phẩm game khác được chuyển lại vào quỹ giải thưởng dành cho Rarity Farming](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
 Điểm độ hiếm cuối cùng của một Aavegotchi trong cả Vũ Trụ Aavegotchi vẫn đang biến đổi không ngừng khi người chơi triệu hồi Aavegotchi, trang bị các wearable, và nâng cấp cho Aavegotchi. Do đó, người chơi phải có những quyết định chiến thuật với cách mà họ train và trang bị cho Aavegotchi. Đây là cách mà cơ chế rarity farming trong Aavegotchi khuyến khích lối chơi chiến thuật và sự tham gia tích cực từ phía người chơi, rồi thưởng cho những anh "nông dân" chịu cày cuốc trên những vụ mùa ma quái của mình nhất.
 
