@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">關於aTokens</p>
 </div>
 
-aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave議定的信息。
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由儲存、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave議定的信息。
 
 So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
