@@ -34,31 +34,31 @@ contributors:
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Ich habe GHST gekauft, aber kann es nicht in meinem Wallet sehen</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ist Front-Running bei der Bonding Curve möglich?</a></p>
 <li><a href=#frens-faq>FRENS FAQ</a></li>
-<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
-<li><a href=#raffle-faq>Raffle FAQ</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
-<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#wearable-faq>Wearable FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
+<p><a href=#can-i-buy-frens->Kann ich FRENS kaufen?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Werden FRENS für irgendetwas anderes als die Lotterie verwendet?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->Was passiert mit den Mainnet FRENS nach dem Launch auf Matic?</a></p>
+<li><a href=#raffle-faq>Lotterie FAQ</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?</a></p>
+<p><a href=#are-raffle-wearables-special->Sind Lotterie-Kleidungsstücke etwas Besonderes?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->Wie überträgt man Lotterie-Tickets?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Wird es nach dem Start des Mainnets noch Lotterien geben?</a></p>
+<li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
-<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Wie stimme ich mit Trust Wallet auf Aragon ab?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Wie viel kostet es zu spielen?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?</a></p>
+<li><a href=#technical-faq>Technisches FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Ist Aavegotchi On-Chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Welches Wallet sollte ich für Aavegotchi verwenden?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Wird Aavegotchi auf Layer 2 laufen?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Muss ich meine Aave Tokens migrieren?</a></p>
 </ol>
 
 </div>
@@ -119,97 +119,97 @@ Nein. Wenn du Käufe/Verkäufe von GHST Tokens auf der Bonding Curve durchführs
 
 ## FRENS FAQ
 
-### Can I buy FRENS?
-Nein. FRENS are a way to reward our community members who staked GHST.
+### Kann ich FRENS kaufen?
+Nein. FRENS sind die Belohnung für unsere Community-Mitglieder, die GHST staken.
 
-### Are FRENS used for anything besides raffles?
+### Werden FRENS für irgendetwas anderes als die Lotterie verwendet?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+Nein, FRENS existieren nur für die Teilnahme an den Aavegotchi-Lotterien. Der Rest des Aavegotchi Ökosystems wird mit GHST funktionieren.
 
-### What happens to the FRENS on Mainnet after the game launches on Matic?
-Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
+### Was passiert mit den Mainnet FRENS nach dem Launch auf Matic?
+Dein FRENS-Guthaben wird automatisch auf Matic übertragen. Die FRENS auf dem Mainnet werden dann wertlos sein.
 
-## Raffle FAQ
+## Lotterie FAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
-
-
-
-### Does buying a ticket mean I'm entered into the raffle?
-
-Nein! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Siehe <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a> für allgemeine Informationen zu den Lotterien.
 
 
-### Will raffle wearables be available in the Aavegotchi store?
 
-Nein. The only time these wearables will ever be released is during the pre-launch raffles.
+### Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?
 
-
-### Are raffle wearables special?
-
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Nein! Bitte beachte, dass der Kauf von Tickets mit FRENS **nicht automatisch zur Teilnahme an der Lotterie führt**. Du musst deine Tickets innerhalb der 72 Stunden, in denen die Lotterie geöffnet ist, einlösen. Dies beinhaltet zwei Transaktionen - **Freigabe** deiner Tickets, **und die Einlösung** deiner Tickets. Wenn du deine Tickets erfolgreich eingereicht hast, siehst du auf der Stats-Seite die Anzahl der Tickets, die du für die Lotterie eingelöst hast.
 
 
-### How do you transfer raffle tickets?
-Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+### Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?
 
-### Will there be Raffles after Mainnet launches?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+Nein. Diese Kleidungsstücke werden nur während den Pre-Launch Lotterien herausgegeben.
 
-## Wearable FAQ
 
-### Do I need to transfer my wearable vouchers to Matic?
-Nein. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
+### Sind Lotterie-Kleidungsstücke etwas Besonderes?
+
+Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  Ob sie auf dem <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">Sekundär-Markt</a> aufgrund ihres **Pre-Launch Status** oder den **Brand-Assoziationen** einen höheren Wiederverkaufswert haben, wird von der Marktnachfrage bestimmt.
+
+
+### Wie überträgt man Lotterie-Tickets?
+Lotterie-Tickets basieren auf dem ERC-1155 Standard. Derzeit können Token, die auf diesem Standard basieren, über das [Opensea](https://opensea.io/) Interface verschickt werden. Man muss sich nur auf Opensea mit Metamask verbinden und die Wallet-Adresse des Empfängers eingeben, um die Tickets an ihn zu übertragen.
+
+### Wird es nach dem Start des Mainnets noch Lotterien geben?
+Ja, es wird nach dem Mainnet-Launch weitere Lotterien geben. Sie finden jedoch eher selten statt und werden nicht im Voraus angekündigt. Damit sollen Spieler belohnt werden, die weiterhin staken und somit [FRENS](/glossary#frens) und/oder Tickets akkumulieren.
+
+## Kleidungsstück FAQ
+
+### Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?
+Nein. Sowohl beanspruchte als auch nicht beanspruchte Kleidungsstücke-Gutscheine werden beim Launch von Aavegotchi automatisch auf das Matic Network übertragen.
 
 ## Portal FAQ
 
-### How many portals can you buy in 1 transaction?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+### Wie viele Portale kann man in 1 Transaktion kaufen?
+Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhindern, dass Whales eine grosse Anzahl von Portalen auf einmal an sich reissen und den Markt monopolsieren.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
+Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
 
 ## AavegotchiDAO FAQ
 
-### How do I vote using Trust Wallet on Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+### Wie stimme ich mit Trust Wallet auf Aragon ab?
+Zum jetzigen Zeitpunkt hat Aragon Trust Wallet noch nicht integriert. Eine alternative Lösung ist es, die Private Keys aus deiner Trust Wallet in Metamask zu importieren. Sobald du in Metamask bist, kannst du nun über Aragon abstimmen.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Siehe [hier](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) für weitere Informationen, wie das geht.
 
 
 ## Gameplay FAQ
 
 
-### Do higher trait scores always mean higher rarity?
+### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Eigenschaftswerte</a>, die in die Mitte des Bereichs von 0-100 fallen, sind häufiger.
 
-### How much does it cost to play?
+### Wie viel kostet es zu spielen?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+Portale werden im ersten "Haunt" voraussichtlich 100 GHST kosten. Die Kosten für andere Gegenstände wie Kleidungsstücke, Consumables und Land wurden noch nicht offiziell bekanntgegeben. Nach dem Start des Spiels wird der [DAO](/dao) die Macht haben, die **Preise der Gegenstände per Votum anzupassen**. In der Zwischenzeit kannst du dir die Marktpreise für einige Kleidungsstücke auf [Opensea](https://opensea.io/collection/aavegotchi-wearable-vouchers) anschauen.
 
-### Does changing the collateral staked affect kinship level?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+### Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?
+Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotchi hinterlegt sind, hat keinen Einfluss auf den Freundschaftslevel.
 
-## Technical FAQ
+## Technisches FAQ
 
 
-### Is Aavegotchi on-chain?
+### Ist Aavegotchi On-Chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Alle Elemente des Aavegotchi-Spiels sind [auf der Ethereum-Blockchain](https://twitter.com/aavegotchi/status/1328548543909351429) gespeichert. Du kannst [hier](/glossary#diamond-standard) mehr über unser einzigartiges Design mit dem Diamond Standard lesen.
 
-### Which wallet should I use with Aavegotchi?
+### Welches Wallet sollte ich für Aavegotchi verwenden?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> ist nach den Erfahrungen unserer Community bei weitem die beste Option, um mit Aavegotchi zu interagieren. Metamask und [Arkane Wallet](https://arkane.network/apps) - das Aavegotchi bald integrieren wird - unterstützen beide ERC1155 Token. Das bedeutet, dass du in der Lage sein wirst, alle deine Vermögenswerte (wie z. B. Kleidungsstücke) in deinem Wallet neben den GHST Tokens zu sehen.
 
-### Will Aavegotchi run on Layer 2?
+### Wird Aavegotchi auf Layer 2 laufen?
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2 Lösung, die bereits bald nach dem Launch integriert wird. Das Team hat sich für Matic entschieden, da sie starke Entwickler haben, Fortschritte bei der Dezentralisierung erzielen konnten und einen starken Netzwerkeffekt mit anderen NFT-Plattformen wie OpenSea aufweisen.
 
-### Do I need to migrate my Aave tokens?
+### Muss ich meine Aave Tokens migrieren?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
+Aavegotchi funktioniert mit aTokens von [Aave Version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir [bald](https://twitter.com/StaniKulechov/status/1334546997827809285) (vor dem Launch) ein Migrationstool haben :) 
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">...Fortsetzung folgt!</p>
 
 
