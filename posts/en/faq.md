@@ -46,6 +46,8 @@ contributors: ["eris771"]
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
@@ -167,6 +169,14 @@ Each user can purchase up to 50 portals in 1 transaction. This is to prevent wha
 
 ### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+
+## AavegotchiDAO FAQ
+
+### How do I vote using Trust Wallet on Aragon?
+As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+
+See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+
 
 ## Gameplay FAQ
 
