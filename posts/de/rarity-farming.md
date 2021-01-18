@@ -83,24 +83,24 @@ table_RarityScoreCalculationTable
 
 ## Belohnungen
 
-In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the **highest Final Rarity Scores** will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+In jeder Periode (Länge wird von AavegotchiDAO festgelegt) erhalten die seltensten Aavegotchis mit den **höchsten Final Rarity Scores** eine Ausschüttung von GHST Belohnungen (abgeleitet von allen Verkäufen, die GHST beinhalten), die von ihren Besitzern eingefordert werden können.
 
-Initially, there will be three categories of rewards:
-* Top 100 Rarest Aavegotchis (by BRS, ARS coming later)
-* Top 100 Highest [Kinship](/traits#kinship) Score
-* Top 100 Highest [Experience](/traits#experience)
+Zu Beginn wird es drei Kategorien von Spielerbelohnungen geben:
+* Top 100 seltenste Aavegotchis (nach BRS, ARS kommt später)
+* Top 100 [Freundschafts](/traits#kinship)-Werte
+* Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
 
-The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
+Der Anteil der Belohnungen, die den einzelnen Kategorien zugeteilt werden, wird vom AavegotchiDAO entschieden.
 
-More categories will be added later as the Aavegotchi game continues to develop.
+Weitere Kategorien werden hinzugefügt, wenn sich das Spiel weiter entwickelt.
 
-Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
+Diese Belohnungen werden alle zwei Wochen über Onchain-Snapshots verteilt. Anfänglich wird dies ein manueller Prozess sein, der von Pixelcraft abgewickelt wird, aber schliesslich vom DAO automatisiert werden kann. Nach jedem Snapshot können die Belohnungen von allen erfolgreichen Rarity Farmer eingefordert werden und die nächste Runde beginnt sofort.
 
-How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from wearables, consumables, and other game items are redirected into the Rarity Farming rewards pool](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
+Wie werden die GHST-Belohnungen für Rarity Farming finanziert? [40% aller ausgegebenen GHST von Kleidungsstücken, Consumables und anderen Spielgegenständen werden in den Rarity Farming Belohnungspool umgeleitet](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
-The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
+Der Final Rarity Score eines Aavegotchis im gesamten Aavegotchi-Universum ändert sich ständig, wenn Spieler mehr Aavegotchis beschwören, mehr Kleidungsstücke ausrüsten und ihre Aavegotchis aufleveln. So müssen die Spieler strategische Entscheidungen treffen, wie sie ihre Aavegotchis trainieren und ausrüsten. So fördert das Rarity Farming von Aavegotchi ein durchdachtes Gameplay und eine aktive Beteiligung der Nutzer, während die besten Farmer für ihre geisterhaften Ernten belohnt werden.
 
-There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
+Derzeit gibt es kein Limit, wie viele Interaktionen ein Aavegotchi pro Periode durchführen kann. Sollte Bot-Aktivität jedoch zu einem Problem werden, könnte der AavegotchiDAO über das Hinzufügen von Sicherungen abstimmen, um die Bot-Aktivität zu reduzieren.
 
 
 
