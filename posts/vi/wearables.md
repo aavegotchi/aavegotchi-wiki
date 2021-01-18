@@ -16,7 +16,9 @@ contributors:
 
 Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
 
-Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi. 
+Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi.
+
+Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng aartist](/aartist) của nhóm bọn mình.
 
 <div class="contentsBox">
 
@@ -67,7 +69,7 @@ Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
 ## [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) Từ Wearables
 
-Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Trang bị/Tháo trang bị phụ kiện có thể ảnh hưởng đến [độ hiếm chung](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) của một Aavegotchi:
 
 table_wearablesBRStable
 
@@ -79,7 +81,7 @@ table_linkWearablesTable
 
 ## Trang Phục Chủ Đề Aave
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
@@ -105,7 +107,7 @@ table_farmerWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Santa
 
-Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Xem thêm tại [đây](https://twitter.com/aavegotchi/status/1339738554906243072). Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
 
 table_santaWearablesTable
 

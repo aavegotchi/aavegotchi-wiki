@@ -10,8 +10,17 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents Khi Làm</p>
+<p class="headerImageText">Aagents Đi Làm</p>
 </div>
+
+**CHƯƠNG TRÌNH NHIỆM VỤ AAVEGOTCHI HIỆN TẠI ĐÃ KẾT THÚC!**
+
+Một chương sử hào hùng trong lịch sử Aavegotchi đã kết thúc với hơn 280 thành viên trong cộng đồng cống hiến hết mình trong công cuộc leo rank nhằm với đến danh hiệu Aavegotchi Aagent! Các điệp viên này sẽ trở thành chủ sỡ hữu độc quyền [bộ trang phục Aavegotchi Aagent](/wearables#aagent-wearables-set), khắc tên mình vào những trang sử của Aavegotchi.
+
+**CHÚC MỪNG CÁC AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
+
+
+Từ những bản ghi chép cũ xưa:
 
 <p style="font-size:25px; font-style: italic;"><b>"Nhiệm vụ của bạn, nếu bạn chấp nhận nó..."</b></p>
 
