@@ -33,19 +33,21 @@ contributors:
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Ich habe GHST gekauft, aber kann es nicht in meinem Wallet sehen</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ist Front-Running bei der Bonding Curve möglich?</a></p>
-<li><a href=#raffle-faq>Lotterie FAQ</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?</a></p>
-<p><a href=#are-raffle-wearables-special->Sind Lotterie-Kleidungsstücke etwas Besonderes?</a></p>
-<p><a href=#can-i-buy-frens->Kann ich FRENS kaufen?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Werden FRENS für irgendetwas anderes als die Lotterie verwendet?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->Wie überträgt man Lotterie-Tickets?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Wird es nach dem Start des Mainnets noch Lotterien geben?</a></p>
-<li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?</a></p>
+<li><a href=#frens-faq>FRENS FAQ</a></li>
+<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
+<li><a href=#raffle-faq>Raffle FAQ</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
+<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
+<li><a href=#wearable-faq>Wearable FAQ</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
@@ -115,51 +117,57 @@ Nachdem du einen Kauf auf der Bonding Curve getätigt hast, musst du eine weiter
 ### Ist Front-Running bei der Bonding Curve möglich?
 Nein. Wenn du Käufe/Verkäufe von GHST Tokens auf der Bonding Curve durchführst, werden die Transaktionen zusammen mit denen anderer Leute gebündelt, bevor sie an den Smart Contract gesendet werden. Es ist also nicht möglich, mit einem niedrigeren GHST Preis aber höheren Gas-Gebühren deinen Kauf zu "frontrunnen".
 
-## Lotterie FAQ
+## FRENS FAQ
 
-Siehe <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a> für allgemeine Informationen zu den Lotterien.
+### Can I buy FRENS?
+Nein. FRENS are a way to reward our community members who staked GHST.
+
+### Are FRENS used for anything besides raffles?
+
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+
+### What happens to the FRENS on Mainnet after the game launches on Matic?
+Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
+
+## Raffle FAQ
+
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
-### Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?
+### Does buying a ticket mean I'm entered into the raffle?
 
-Nein! Bitte beachte, dass der Kauf von Tickets mit FRENS **nicht automatisch zur Teilnahme an der Lotterie führt**. Du musst deine Tickets innerhalb der 72 Stunden, in denen die Lotterie geöffnet ist, einlösen. Dies beinhaltet zwei Transaktionen - **Freigabe** deiner Tickets, **und die Einlösung** deiner Tickets. Wenn du deine Tickets erfolgreich eingereicht hast, siehst du auf der Stats-Seite die Anzahl der Tickets, die du für die Lotterie eingelöst hast.
-
-
-### Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?
-
-Nein. Diese Kleidungsstücke werden nur während den Pre-Launch Lotterien herausgegeben.
+Nein! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### Sind Lotterie-Kleidungsstücke etwas Besonderes?
+### Will raffle wearables be available in the Aavegotchi store?
 
-Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  Ob sie auf dem <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">Sekundär-Markt</a> aufgrund ihres **Pre-Launch Status** oder den **Brand-Assoziationen** einen höheren Wiederverkaufswert haben, wird von der Marktnachfrage bestimmt.
+Nein. The only time these wearables will ever be released is during the pre-launch raffles.
 
-### Kann ich FRENS kaufen?
-Nein. FRENS sind die Belohnung für unsere Community-Mitglieder, die GHST staken.
 
-### Werden FRENS für irgendetwas anderes als die Lotterie verwendet?
+### Are raffle wearables special?
 
-Nein, FRENS existieren nur für die Teilnahme an den Aavegotchi-Lotterien. Der Rest des Aavegotchi Ökosystems wird mit GHST funktionieren.
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
-### Wie überträgt man Lotterie-Tickets?
-Lotterie-Tickets basieren auf dem ERC-1155 Standard. Derzeit können Token, die auf diesem Standard basieren, über das [Opensea](https://opensea.io/) Interface verschickt werden. Man muss sich nur auf Opensea mit Metamask verbinden und die Wallet-Adresse des Empfängers eingeben, um die Tickets an ihn zu übertragen.
 
-### Wird es nach dem Start des Mainnets noch Lotterien geben?
-Ja, es wird nach dem Mainnet-Launch weitere Lotterien geben. Sie finden jedoch eher selten statt und werden nicht im Voraus angekündigt. Damit sollen Spieler belohnt werden, die weiterhin staken und somit [FRENS](/glossary#frens) und/oder Tickets akkumulieren.
+### How do you transfer raffle tickets?
+Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
 
-## Kleidungsstück FAQ
+### Will there be Raffles after Mainnet launches?
+Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-### Muss ich meine Kleidungsstück-Gutscheine auf Matic migrieren?
-Nein. Sowohl beanspruchte als auch nicht beanspruchte Kleidungsstücke-Gutscheine werden beim Launch von Aavegotchi automatisch auf das Matic Network übertragen.
+## Wearable FAQ
+
+### Do I need to transfer my wearable vouchers to Matic?
+Nein. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
 
 ## Portal FAQ
 
-### Wie viele Portale kann man in 1 Transaktion kaufen?
-Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhindern, dass Whales eine grosse Anzahl von Portalen auf einmal an sich reissen und den Markt monopolsieren.
+### How many portals can you buy in 1 transaction?
+Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
-Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
+### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ## AavegotchiDAO FAQ
 
