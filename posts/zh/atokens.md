@@ -35,9 +35,9 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 
 ## 關於
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+當基礎資產貸給借款人的時候，aTokens 會直接在您的錢包中實時計算利息！ 真的，你可以看到你的餘額每分鐘都正在增加。
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken 可以分成兩種：(1) 加密貨幣，或(2) 穩定幣。 加密貨幣是由加密技術保護的數位資料或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散式網絡 — 一個由不同的計算機網絡執行的分佈式帳本。 Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
 
 The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
