@@ -18,7 +18,7 @@ Kleidungsstücke sind ein wichtiger Bestandteil des Aavegotchi-Spiels. Kleidungs
 
 Diese Seite enthält detaillierte Informationen über jedes Kleidungsstück, das im Aavegotchi-Spiel bestätigt wurde.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
+Das Design der Kleidungsstücke wird von [Xibot](/team#xibot) und unserem Team von [Community Aartists](/aartist) erstellt.
 
 <div class="contentsBox">
 
@@ -54,34 +54,34 @@ Design of the wearables are done by [Xibot](/team#xibot) and our team of [commun
 
 ## Legende
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchis haben vier Eigenschaften, die durch Kleidungsstücke verändert werden können.
 
 * AGG = Aggressivität
 * NRG = Energie
 * SPK = Spookiness
 * BRN = Hirngrösse (Engl. = Brain Size)
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+Die Eigenschaften "Augenfarbe" und "Augenform" können nicht durch Kleidungsstücke verändert werden.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*Hinweis: Negative Werte bedeuten nicht, dass die Eigenschaft "schlechter" wird. Aavegotchi Eigenschaften sind auf einer Glockenkurve verteilt, so dass die Extreme (0,1) und (99,100) eigentlich die besten sind!*
 
-See [Traits](/traits) for more about this topic.
+Siehe [Eigenschaften](/traits) für mehr zu diesem Thema.
 
 ## [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) von Kleidungsstücken
 
-Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Kleidungsstücke können jederzeit aus- oder umgerüstet werden. Das An- und Ablegen von Kleidungsstücken kann die [Gesamt-Seltenheit](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) eines Aavegotchi beeinflussen:
 
 table_wearablesBRStable
 
 ## LINK Set
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Diese LINK-Kleidungsstücke wurden über eine exklusive, limitierte Lotterie im November 2020 verteilt und feiern Aavegotchis Partnerschaft mit Chainlink, insbesondere unsere Verwendung des Chainlink VRF, um sicherzustellen, dass Aavegotchis nachweisbare, zufällige Eigenschaften haben.
 
 table_linkWearablesTable
 
 ## Aave Set
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Das Aave Set wurde in der zweiten von drei Pre-Launch Lotterien verteilt, das am 8. Dezember 2020 stattfand. Diese aavesome Kollektion feiert die Verbundenheit zwischen Aavegotchi und der Aave Community, sowie deren Entwicklerteam.
 
 table_aaveWearablesTable
 
