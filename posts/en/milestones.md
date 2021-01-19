@@ -6,6 +6,9 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+
 ## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
 * On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
 * There are Liquidity Migration Incentives up for grabs as well!
