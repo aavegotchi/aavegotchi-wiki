@@ -6,7 +6,7 @@ description: 'Introduction to the Aavegotchi Wiki'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
-  - "unintelligent-nerd"
+  - "chinyh"
 ---
 
 <div class="headerImageContainer">
