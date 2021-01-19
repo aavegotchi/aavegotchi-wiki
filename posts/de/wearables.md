@@ -18,7 +18,7 @@ Kleidungsstücke sind ein wichtiger Bestandteil des Aavegotchi-Spiels. Kleidungs
 
 Diese Seite enthält detaillierte Informationen über jedes Kleidungsstück, das im Aavegotchi-Spiel bestätigt wurde.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
+Das Design der Kleidungsstücke wird von [Xibot](/team#xibot) und unserem Team von [Community Aartists](/aartist) erstellt.
 
 <div class="contentsBox">
 
@@ -54,46 +54,46 @@ Design of the wearables are done by [Xibot](/team#xibot) and our team of [commun
 
 ## Legende
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchis haben vier Eigenschaften, die durch Kleidungsstücke verändert werden können.
 
 * AGG = Aggressivität
 * NRG = Energie
 * SPK = Spookiness
 * BRN = Hirngrösse (Engl. = Brain Size)
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+Die Eigenschaften "Augenfarbe" und "Augenform" können nicht durch Kleidungsstücke verändert werden.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*Hinweis: Negative Werte bedeuten nicht, dass die Eigenschaft "schlechter" wird. Aavegotchi Eigenschaften sind auf einer Glockenkurve verteilt, so dass die Extreme (0,1) und (99,100) eigentlich die besten sind!*
 
-See [Traits](/traits) for more about this topic.
+Siehe [Eigenschaften](/traits) für mehr zu diesem Thema.
 
 ## [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) von Kleidungsstücken
 
-Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Kleidungsstücke können jederzeit aus- oder umgerüstet werden. Das An- und Ablegen von Kleidungsstücken kann die [Gesamt-Seltenheit](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) eines Aavegotchi beeinflussen:
 
 table_wearablesBRStable
 
 ## LINK Set
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Diese LINK-Kleidungsstücke wurden über eine exklusive, limitierte Lotterie im November 2020 verteilt und feiern Aavegotchis Partnerschaft mit Chainlink, insbesondere unsere Verwendung des Chainlink VRF, um sicherzustellen, dass Aavegotchis nachweisbare, zufällige Eigenschaften haben.
 
 table_linkWearablesTable
 
 ## Aave Set
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Das Aave Set wurde in der zweiten von drei Pre-Launch Lotterien verteilt, das am 8. Dezember 2020 stattfand. Diese aavesome Kollektion feiert die Verbundenheit zwischen Aavegotchi und der Aave Community, sowie deren Entwicklerteam.
 
 table_aaveWearablesTable
 
 ## Ethereum Set
 
-The Ethereum-themed set is the last of three pre-Mainnet sets.
+Das Ethereum Set ist das letzte von drei Pre-Mainnet-Sets.
 
 table_ethereumWearablesTable
 
 ## Aagent Set
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+Das Aagent Set ist ein limitiertes Set, das alle [Level 12 Aagents](/missions) erhalten, die alle 12 Aagent-Missionen vor dem Launch von Aavegotchi abgeschlossen haben. Bilder und Anzahl folgen bald!
 
 table_aagentWearablesTable
 
@@ -107,13 +107,13 @@ table_farmerWearablesTable
 
 ## Santa Set
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+Einer unserer Freunde hat versehentlich 4000 LINK (~$50'000) an den GHST Staking Contract geschickt. Wir sammelten Geld in unserer Community, um ihm zu helfen. Jeder, der mehr als $20 im Wert von irgendeinem ERC20-Token an SantaGotchi.eth gespendet hat, wird einen limitierten Santagotchi-Hut per Airdrop erhalten. Siehe [hier](https://twitter.com/aavegotchi/status/1339738554906243072) für weitere Informationen. Bilder für das Kleidungsstück gibt es bald! Weitere Kleidungsstücke aus dem Santa Set Kleidungsstücke werden ebenfalls bald erhältlich sein.
 
 table_santaWearablesTable
 
 ## OKEx Set
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+Am 7. Oktober 2020 hat sich Aavegotchi mit OKex zusammengetan, um ein spezielles Set an Kleidungsstücken zu kreieren, das von Jay Hao, dem CEO von OKex, inspiriert wurde. Glückspilze, die ihre GHST Token auf der OKex-Plattform einzahlten, hatten die Chance, diese Kleidungsstücke zu gewinnen. 150 Kleidungsstücke gab es insgesamt. Die Top 5 der Einzahlenden gewannen automatisch das komplette 5er-Set. Aber die restlichen 125 NFTs wurden zufällig an diejenigen verteilt, die mehr als 10 GHST einzahlten. Klicke [hier](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) für weitere Informationen.
 
 table_okexWearablesTable
 

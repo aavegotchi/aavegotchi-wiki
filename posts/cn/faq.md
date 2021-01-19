@@ -33,19 +33,23 @@ contributors:
 <li><a href=#bonding-curve-faq>联合曲线</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>我购买了GHST，但我在我的钱包里看不到它</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->人们能越过这条联合曲线吗?</a></p>
-<li><a href=#raffle-faq>Raffle 常见问题</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->买了票就意味着我可以参加抽奖吗?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Aavegotchi商店会提供抽奖可穿戴设备吗?</a></p>
-<p><a href=#are-raffle-wearables-special->抽奖可穿戴设备很特别吗?</a></p>
-<p><a href=#can-i-buy-frens->我可以买积分吗?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->除了抽奖，积分还有别的用处吗?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->你怎样转帐抽奖券?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Mainnet发射后是否会有Raffles？</a></p>
+<li><a href=#frens-faq>FRENS FAQ</a></li>
+<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
+<li><a href=#raffle-faq>Raffle FAQ</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
+<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
 <li><a href=#wearable-faq>Wearable FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
@@ -113,38 +117,44 @@ Aavegotchi首先获得了Aave生态系统补助金，授权他使用Aave幽灵�
 ### 人们能越过这条联合曲线吗?
 不 当您在绑定曲线上购买/销售GHST令牌时， 在发送到智能合同之前，交易与其他人的交易被分批处理。 他们无法以较高的煤气费投标较低的GHST价格来掩盖您的购买。
 
-## Raffle 常见问题
+## FRENS FAQ
 
-请参阅 <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> 以获取关于奖券的一般信息。
+### Can I buy FRENS?
+不 FRENS are a way to reward our community members who staked GHST.
+
+### Are FRENS used for anything besides raffles?
+
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+
+### What happens to the FRENS on Mainnet after the game launches on Matic?
+Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
+
+## Raffle FAQ
+
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
-### 买了票就意味着我可以参加抽奖吗?
+### Does buying a ticket mean I'm entered into the raffle?
 
-不！ 请注意，简单地购买奖券 **并不自动进入抽奖。** 你需要在72小时内把票押上 抽奖已经开始了。 这包括Raffle页面上的两个交易 - **批准您的** 工单， **并输入** 您的工单。 如果您成功提交了您的工单，您将在 看到您在统计页面中输入的工单数量。
-
-
-### Aavegotchi商店会提供抽奖可穿戴设备吗?
-
-不 只有在发射前的突击搜查期间才能释放这些穿戴物。
+不！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### 抽奖可穿戴设备很特别吗?
+### Will raffle wearables be available in the Aavegotchi store?
 
-至于游戏玩法，可穿戴抽奖设备也会提供同样的服务<a href="https://wiki.aavegotchi.com/wearables">提升</a> 倍速。 mythical等)。  在 <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">开放市场</a>， 由于他们的 **启动前状态** 或 **品牌协会** 是否具有更大的转售价值将取决于市场需求。
+不 The only time these wearables will ever be released is during the pre-launch raffles.
 
-### 我可以买积分吗?
-不 FRENS 是一种奖励身患GHST的社区成员的方式。
 
-### 除了抽奖，积分还有别的用处吗?
+### Are raffle wearables special?
 
-不，FRENS的唯一东西是进入Aavegotchi raffff。 Aavegotchi生态系统的其余部分将由GHST提供动力。
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
-### 你怎样转帐抽奖券?
-Raffle Tickets是基于ERC-1155标准。 目前，基于此标准的令牌可以使用 [Opensea](https://opensea.io/) 接口传输。 一旦在Opensea，连接您的metamask和钥匙在收件人的钱包地址转移您的奖券给他们。
 
-### Mainnet发射后是否会有Raffles？
-是的，Mainnet启动后还会有更多的冲锋。 然而，这种做法并不经常发生，而且不会事先宣布。 这是为了奖励那些仍在挂起和累积他们的 [积分](/glossary#frens) 和/或奖券。
+### How do you transfer raffle tickets?
+Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+
+### Will there be Raffles after Mainnet launches?
+Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
 ## Wearable FAQ
 
@@ -158,6 +168,14 @@ Each user can purchase up to 50 portals in 1 transaction. This is to prevent wha
 
 ### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+
+## AavegotchiDAO FAQ
+
+### How do I vote using Trust Wallet on Aragon?
+As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+
+See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+
 
 ## Gameplay FAQ
 

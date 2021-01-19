@@ -33,12 +33,14 @@ contributors:
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Ich habe GHST gekauft, aber kann es nicht in meinem Wallet sehen</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ist Front-Running bei der Bonding Curve möglich?</a></p>
+<li><a href=#frens-faq>FRENS FAQ</a></li>
+<p><a href=#can-i-buy-frens->Kann ich FRENS kaufen?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Werden FRENS für irgendetwas anderes als die Lotterie verwendet?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->Was passiert mit den Mainnet FRENS nach dem Launch auf Matic?</a></p>
 <li><a href=#raffle-faq>Lotterie FAQ</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Bedeutet der Kauf eines Tickets, dass ich an der Lotterie teilnehme?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Werden Lotterie-Kleidungsstücke im Aavegotchi Shop erhältlich sein?</a></p>
 <p><a href=#are-raffle-wearables-special->Sind Lotterie-Kleidungsstücke etwas Besonderes?</a></p>
-<p><a href=#can-i-buy-frens->Kann ich FRENS kaufen?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Werden FRENS für irgendetwas anderes als die Lotterie verwendet?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->Wie überträgt man Lotterie-Tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Wird es nach dem Start des Mainnets noch Lotterien geben?</a></p>
 <li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
@@ -46,6 +48,8 @@ contributors:
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Wie stimme ich mit Trust Wallet auf Aragon ab?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->Wie viel kostet es zu spielen?</a></p>
@@ -113,6 +117,18 @@ Nachdem du einen Kauf auf der Bonding Curve getätigt hast, musst du eine weiter
 ### Ist Front-Running bei der Bonding Curve möglich?
 Nein. Wenn du Käufe/Verkäufe von GHST Tokens auf der Bonding Curve durchführst, werden die Transaktionen zusammen mit denen anderer Leute gebündelt, bevor sie an den Smart Contract gesendet werden. Es ist also nicht möglich, mit einem niedrigeren GHST Preis aber höheren Gas-Gebühren deinen Kauf zu "frontrunnen".
 
+## FRENS FAQ
+
+### Kann ich FRENS kaufen?
+Nein. FRENS sind die Belohnung für unsere Community-Mitglieder, die GHST staken.
+
+### Werden FRENS für irgendetwas anderes als die Lotterie verwendet?
+
+Nein, FRENS existieren nur für die Teilnahme an den Aavegotchi-Lotterien. Der Rest des Aavegotchi Ökosystems wird mit GHST funktionieren.
+
+### Was passiert mit den Mainnet FRENS nach dem Launch auf Matic?
+Dein FRENS-Guthaben wird automatisch auf Matic übertragen. Die FRENS auf dem Mainnet werden dann wertlos sein.
+
 ## Lotterie FAQ
 
 Siehe <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a> für allgemeine Informationen zu den Lotterien.
@@ -133,12 +149,6 @@ Nein. Diese Kleidungsstücke werden nur während den Pre-Launch Lotterien heraus
 
 Was das Gameplay angeht, bieten die Lotterie-Kleidunggstücke die gleichen <a href="https://wiki.aavegotchi.com/wearables">Boosts</a> für dein Aavegotchi wie alle anderen Kleidungsstücke in ihrer Seltenheitsklasse (z.B. selten, mythisch, etc.).  Ob sie auf dem <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">Sekundär-Markt</a> aufgrund ihres **Pre-Launch Status** oder den **Brand-Assoziationen** einen höheren Wiederverkaufswert haben, wird von der Marktnachfrage bestimmt.
 
-### Kann ich FRENS kaufen?
-Nein. FRENS sind die Belohnung für unsere Community-Mitglieder, die GHST staken.
-
-### Werden FRENS für irgendetwas anderes als die Lotterie verwendet?
-
-Nein, FRENS existieren nur für die Teilnahme an den Aavegotchi-Lotterien. Der Rest des Aavegotchi Ökosystems wird mit GHST funktionieren.
 
 ### Wie überträgt man Lotterie-Tickets?
 Lotterie-Tickets basieren auf dem ERC-1155 Standard. Derzeit können Token, die auf diesem Standard basieren, über das [Opensea](https://opensea.io/) Interface verschickt werden. Man muss sich nur auf Opensea mit Metamask verbinden und die Wallet-Adresse des Empfängers eingeben, um die Tickets an ihn zu übertragen.
@@ -158,6 +168,14 @@ Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhi
 
 ### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
 Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
+
+## AavegotchiDAO FAQ
+
+### Wie stimme ich mit Trust Wallet auf Aragon ab?
+Zum jetzigen Zeitpunkt hat Aragon Trust Wallet noch nicht integriert. Eine alternative Lösung ist es, die Private Keys aus deiner Trust Wallet in Metamask zu importieren. Sobald du in Metamask bist, kannst du nun über Aragon abstimmen.
+
+Siehe [hier](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) für weitere Informationen, wie das geht.
+
 
 ## Gameplay FAQ
 

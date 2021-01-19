@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Experience (XP)'
 description: 'Learn about Aavegotchi Experience (XP) here!'
 contributors:
-  - "unintelligent-nerd"
+  - "chinyh"
 ---
 
 Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
