@@ -103,6 +103,12 @@ Now you are earning QUICK and FRENS!
 
 Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
 
+### Staking GHST on Matic Cheetsheet!
+
+The following diagram shows the two different routes to staking on Matic that we have discussed above (<a href=#staking-ghst-tokens--matic->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking in the GHST-QUICK pool</a>).
+
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+
 ## Mua vé Raffle
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
