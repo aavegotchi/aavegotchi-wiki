@@ -1,11 +1,11 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'aTokens'
-description: '一切關於Aavegotchi的aTokens'
+description: '關於 Aavegotchi 中的 aToken'
 image: "atokens/aETH.svg"
 contributors:
-  - "unintelligent-nerd"
+  - "chinyh"
 ---
 
 <div class="headerImageContainer">
@@ -13,11 +13,11 @@ contributors:
 <p class="headerImageText">關於aTokens</p>
 </div>
 
-aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由存儲、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave議定的信息。
+aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在存入時被鑄造，贖回時被銷毀。 Atokens與存入Aave協議的基礎資產價值1:1掛鈎。 aTokens 可以自由存儲、轉移和交易。 aTokens 可以自由儲存、轉移和交易。 請參閱 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多關於Aave協議的訊息。
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+那麼 aTokens 與 Aavegotchi 有什麼關係呢？ 每一個 Aavegotchi 都必須由[傳送門](/pages/portals)來召喚, 召喚之前還必須用 atoken 來作為擔保。 沒有例外! 這就是為什麼你需要 aTokens 和這個頁面，接下來將為你介紹一些有用的訊息，說明什麼是可用的 aTokens 以及你如何取得。
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+在 Aavegotchi 中，"精神力量"、"抵押" 和 "aTokens" 代表的是一樣的東西。
 
 <div class="contentsBox">
 
@@ -25,46 +25,46 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 
 <ol>
 <li><a href=#about>關於</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#stablecoins>穩定幣</a></li>
+<li><a href=#cryptocurrencies>密碼貨幣</a></li>
+<li><a href=#getting-atokens>取得 aToken</a></li>
+<li><a href=#staking-atokens-into-aavegotchis>在 Aavegotchi 中抵押 aToken</a></li>
 </ol>
 
 </div>
 
 ## 關於
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+當基礎資產貸給借款人的時候，aTokens 會直接在您的錢包中實時計算利息！ 真的，你可以看到你的餘額每分鐘都正在增加。
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken 可以分成兩種：(1) 加密貨幣，或(2) 穩定幣。 加密貨幣是由加密技術保護的數位資料或虛擬貨幣。 許多加密貨幣是基於區塊鏈技術的分散式網絡 — 一個由不同的計算機網絡執行的分佈式帳本。 穩定幣是一種密碼貨幣，試圖通過與美元掛鉤來提供穩定的價格。 不同的穩定幣會有不同的掛鉤機制，也會有不同的風險。
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+以下的 [aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (加密或幣或穩定幣) 都可以在 Aave 上取得: 由 Aavegotchi 列出的表格表示 aToken 是否可用於 Aavegotchi 遊戲中。 可以使用的 aTokens 列表還沒有全部決定; 基於玩家的需求，將會有 Twitter 和 DAO 投票在 ，決定 Aavegotchi 遊戲中添加更多的 aTokens。
 
 ## 穩定幣
 
 table_stablecoins
 
-## Cryptocurrencies
+## 密碼貨幣
 
 table_cryptocurrencies
 
 ## 獲取 aTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*接下來的步驟取自 Aave Medium 的[Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) 為了讀者方便閱讀，我們在這裡複製了這份文件。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). 前往 <a href = "https://app.aave.com/">Aave Protocol</a> !
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). 這裡你有幾個選項來連接你的加密錢包，取決於你擁有哪種類型的錢包：
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). 在使用 Aave 之前，您需要擁有一些加密資產。 可以使用的加密貨幣資產列表顯示在上面 <a href=#stablecoins>穩定幣</a> 和 <a href=#cryptocurrencies>加密貨幣</a> 的部分。
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+如果你沒有任何加密資產，但你想要加入我們， 你就需要把你的法定貨幣(普通貨幣，如美元、歐元等)，轉換成加密貨幣資產（如上文之一）。
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+幸運的是，Aave 最近增加了一個購買加密貨幣功能，你可以直接從 Aave 協議應用程式來購買加密資產！ 現在你可以使用 Transak 或 Ramp 在幾分鐘內直接使用信用卡或借記卡或電匯，選擇並購買你想要的加密貨幣 (見下文)。
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
@@ -74,7 +74,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Staking aTokens into Aavegotchis
+## 在 Aavegotchi 中抵押 aToken
 
 Okay, I've gotten myself some aTokens. What now?
 

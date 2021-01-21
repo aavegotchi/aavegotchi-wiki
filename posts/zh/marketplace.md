@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Marketplace'
 description: 'Aavegotchi Marketplaces'
 contributors:
-  - "unintelligent-nerd"
+  - "chinyh"
 ---
 
 Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces.

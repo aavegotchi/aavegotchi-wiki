@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Contests'
 description: 'Our Winners!'
 contributors:
-  - "unintelligent-nerd"
+  - "chinyh"
 ---
 
 Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
