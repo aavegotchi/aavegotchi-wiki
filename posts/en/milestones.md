@@ -6,6 +6,9 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! aTokens are now live on Matic Network!
+
 ## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
 * On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
 
