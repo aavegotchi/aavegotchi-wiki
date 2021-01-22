@@ -9,6 +9,10 @@ export const items: Category[] = [
                 name: "Introduction",
                 href: "introduction"
             },
+			{
+				name: "Tutorials",
+				href: "video-tutorials"
+			},
             {
                 name: "FAQ",
                 href: "faq"
