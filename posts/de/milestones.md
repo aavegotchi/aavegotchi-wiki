@@ -144,42 +144,42 @@ contributors:
 
 ## [Portale live auf dem Kovan Testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
 * Aavegotchi-Portale sind ab dem 25. September 2020 auf dem Kovan Testnet live!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+* Erste Reise des AavegotchiDAO Taps: Hinzufügen von GHST-Liquidität auf Uniswap
+* Die Gewinner für Mission 7 "Just DAO it!" stehen fest
 
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+## [Aavegotchi und Chainlink sind befreundet!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* BEFREUNDET MIT CHAINLINK! Am 24. September 2020 erklärt Coderdan, was die Verifiable Random Function (VRF) von Chainlink ist und wie Aavegotchi sie nutzt
+* Siehe diesen [hilfreichen Chainlink Artikel](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) für eine ausführlichere Erklärung des Chainlink VRF
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [Der Vorverkauf war in weniger als einer Minute ausverkauft!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST ist am 14. September 2020 auf dem Mainnet gestartet! Der Vorverkauf war in unter einer Minute ausverkauft! :O
+* GHST-Token im Besitz von über 2000 einzigartigen Adressen! Das ist Yuuugggeeeee
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+## [Neuigkeiten zum Vorverkauf! Frisch aus der Presse!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* Am 10. September 2020 wurden juicccyy Neuigkeiten zum bevorstehenden Vorverkauf an die Öffentlichkeit veröffentlicht!
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
+## [Launch der Bonding Curve auf dem Rinkeby Testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* Am 3. September 2020 wurde die Aavegotchi Token Bonding Curve (TBC) auf dem Rinkeby Testnet lanciert
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+## [Erstes Ask Me Anything (AMA) von Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Das allererste Ask Me Anything (AMA) von Aavegotchi wurde am 1. September 2020 veranstaltet
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+## [Private Sale aaaauuusverkaaaaauft!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Der Private Sale war am 20. August 2020 ausverkauft
+* Launch des Aavegotchi [Telegram-Chat!](https://t.me/aavegotchi)
+* Launch des [Offiziellen Whitepapers](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Aapprentices treten in die Schlacht!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* Am 13. August 2020 treten Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph und Unintelligent_nerd als Aavegotchi Aapprentices in den Ring!
+* Aavegotchi Aagenten sind über 120 Mitglieder stark!
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown schliesst sich dem Team an und Aavegotchi Missionen starten](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Am 29. Juli 2020 schliesst sich JC Crown dem Aavegotchi Team an!
+* Launch der Aavegotchi Missionen am selben Tag!
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge schliesst sich dem Team an](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge tritt dem Team am 22. Juli 2020 bei
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [Erster Aavegotchi Beitrag auf Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Am 14. Juli 2020 wurde der erste Aavegotchi Beitrag auf Medium veröffentlicht!
+* Xibot tritt dem Team bei!
