@@ -226,12 +226,12 @@ Mit dem Trezor One kannst du weiterhin auf das Matic Network zugreifen. Für all
 
 ### Warum kann ich meine Matic GHST nicht auf Metamask sehen?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Matic transaction. The token address for GHST on Matic is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Stelle sicher, dass du zwei Transaktionen abgeschlossen hast: (1) die "Approve"-Transaktion und (2) die Transaktion zur Migration auf Matic. Die Token Adresse für GHST auf Matic ist wie folgt: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Warum kann ich meine LP-Token nicht auf QuickSwap sehen?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Nachdem du deine LP-Token auf QuickSwap gestaked hast, kannst du sie nicht mehr in deiner Wallet sehen. Unstake sie, wenn du die LP tokens in deiner Wallet sehen willst.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">...Fortsetzung folgt!</p>
 
 
