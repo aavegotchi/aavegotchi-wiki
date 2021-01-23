@@ -34,32 +34,32 @@ contributors:
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ai đó có thể vượt mặt bonding curve hay không?</a></p>
 <li><a href=#frens-faq>FRENS FAQ</a></li>
-<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
+<p><a href=#can-i-buy-frens->Mình có thể mua FRENS được không?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài raffle hay không?</a></p>
 <p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
 <li><a href=#raffle-faq>Raffle FAQ</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
-<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#wearable-faq>Wearable FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?</a></p>
+<p><a href=#are-raffle-wearables-special->Có loại trang bị khủng nào trong raffle hay không?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
+<li><a href=#wearable-faq>Những câu hỏi về Wearables</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Mình có cần chuyển voucher của wearable sang Matic hay không?</a></p>
+<li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Có thể mua được bao nhiêu portal chỉ trong một giao dịch?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?</a></p>
 <p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
-<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
+<li><a href=#aavegotchidao-faq>Những câu hỏi về AavegotchiDAO</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<li><a href=#gameplay-faq>Những câu hỏi về Lối chơi</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?</a></p>
+<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
+<p><a href=#is-aavegotchi-on-chain->Aavegotchi là game chơi ngay trên blockchain đúng không?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
 <p><a href=#how-do-i-migrate-to-matic->How do I migrate to Matic?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
@@ -124,12 +124,12 @@ Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dị
 
 ## FRENS FAQ
 
-### Can I buy FRENS?
-Không nha. FRENS are a way to reward our community members who staked GHST.
+### Mình có thể mua FRENS được không?
+Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
 
-### Are FRENS used for anything besides raffles?
+### FRENS có được dùng để mua gì khác ngoài raffle hay không?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 ### What happens to the FRENS on Mainnet after the game launches on Matic?
 Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
@@ -140,44 +140,44 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 
 
-### Does buying a ticket mean I'm entered into the raffle?
+### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
 
 Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### Will raffle wearables be available in the Aavegotchi store?
+### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
 
 Không nha. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
-### Are raffle wearables special?
+### Có loại trang bị khủng nào trong raffle hay không?
 
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
-### How do you transfer raffle tickets?
+### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
 Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
 
-### Will there be Raffles after Mainnet launches?
+### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-## Wearable FAQ
+## Những câu hỏi về Wearables
 
-### Do I need to transfer my wearable vouchers to Matic?
+### Mình có cần chuyển voucher của wearable sang Matic hay không?
 Không nha. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
 
-## Portal FAQ
+## Những câu hỏi về Portal
 
-### How many portals can you buy in 1 transaction?
+### Có thể mua được bao nhiêu portal chỉ trong một giao dịch?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ### When will portals be released?
 Portals will be released on Matic at early February.
 
-## AavegotchiDAO FAQ
+## Những câu hỏi về AavegotchiDAO
 
 ### How do I vote using Trust Wallet on Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
@@ -185,36 +185,36 @@ As at this point, Aragon has not integrated Trust Wallet yet. An alternative sol
 See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
 
-## Gameplay FAQ
+## Những câu hỏi về Lối chơi
 
 
-### Do higher trait scores always mean higher rarity?
+### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Vậy thì mình phải trả bao nhiêu để chơi?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
 
-### Does changing the collateral staked affect kinship level?
+### Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Technical FAQ
+## Những câu hỏi về Kỹ thuật
 
 
-### Is Aavegotchi on-chain?
+### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-### Will Aavegotchi run on Layer 2?
+### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
 Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Mình có cần di chuyển token Aave hay không?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
