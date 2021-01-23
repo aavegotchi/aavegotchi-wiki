@@ -48,22 +48,22 @@ contributors:
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
-<p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
+<p><a href=#when-will-portals-be-released->Wann kann ich Portale kaufen?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
-<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Wie stimme ich mit Trust Wallet auf Aragon ab?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Wie viel kostet es zu spielen?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?</a></p>
 <li><a href=#technical-faq>Technisches FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-matic->How do I migrate to Matic?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#is-aavegotchi-on-chain->Ist Aavegotchi On-Chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Welches Wallet sollte ich für Aavegotchi verwenden?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Wird Aavegotchi auf Layer 2 laufen?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Muss ich meine Aave Tokens migrieren?</a></p>
+<p><a href=#how-do-i-migrate-to-matic->Wie migriere ich auf Matic?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Ich habe einen Ledger / Trezor, was soll ich tun?</a></p>
+<p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Warum kann ich meine Matic GHST nicht auf Metamask sehen?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Warum kann ich meine LP-Token nicht auf QuickSwap sehen?</a></p>
 </ol>
 
 </div>
@@ -174,61 +174,61 @@ Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhi
 ### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
 Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
 
-### When will portals be released?
-Portals will be released on Matic at early February.
+### Wann kann ich Portale kaufen?
+Die Portale werden Anfang Februar auf Matic veröffentlicht.
 
 ## AavegotchiDAO FAQ
 
-### How do I vote using Trust Wallet on Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+### Wie stimme ich mit Trust Wallet auf Aragon ab?
+Zum jetzigen Zeitpunkt hat Aragon Trust Wallet noch nicht integriert. Eine alternative Lösung ist es, die Private Keys aus deiner Trust Wallet in Metamask zu importieren. Sobald du in Metamask bist, kannst du nun über Aragon abstimmen.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Siehe [hier](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) für weitere Informationen, wie das geht.
 
 
 ## Gameplay FAQ
 
 
-### Do higher trait scores always mean higher rarity?
+### Bedeuten höhere Eigenschaftswerte immer eine höhere Seltenheit?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Die Seltenheit von Aavegotchis basiert auf einer Glockenkurve - das bedeutet, dass **sowohl extrem hohe als auch extrem niedrige** Eigenschaften wünschenswert sind. <a href="https://wiki.aavegotchi.com/traits">Eigenschaftswerte</a>, die in die Mitte des Bereichs von 0-100 fallen, sind häufiger.
 
-### How much does it cost to play?
+### Wie viel kostet es zu spielen?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+Portale werden im ersten "Haunt" voraussichtlich 100 GHST kosten. Die Kosten für andere Gegenstände wie Kleidungsstücke, Consumables und Land wurden noch nicht offiziell bekanntgegeben. Nach dem Start des Spiels wird der [DAO](/dao) die Macht haben, die **Preise der Gegenstände per Votum anzupassen**. In der Zwischenzeit kannst du dir die Marktpreise für einige Kleidungsstücke auf [Opensea](https://opensea.io/collection/aavegotchi-wearable-vouchers) anschauen.
 
-### Does changing the collateral staked affect kinship level?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+### Beeinflusst die Veränderung der hinterlegten Sicherheiten den Freundschaftslevel?
+Nein, das Erhöhen oder Verringern der Sicherheiten/der aTokens, die im Aavegotchi hinterlegt sind, hat keinen Einfluss auf den Freundschaftslevel.
 
 ## Technisches FAQ
 
 
-### Is Aavegotchi on-chain?
+### Ist Aavegotchi On-Chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Alle Elemente des Aavegotchi-Spiels sind [auf der Ethereum-Blockchain](https://twitter.com/aavegotchi/status/1328548543909351429) gespeichert. Du kannst [hier](/glossary#diamond-standard) mehr über unser einzigartiges Design mit dem Diamond Standard lesen.
 
-### Which wallet should I use with Aavegotchi?
+### Welches Wallet sollte ich für Aavegotchi verwenden?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> ist nach den Erfahrungen unserer Community bei weitem die beste Option, um mit Aavegotchi zu interagieren. Metamask und [Arkane Wallet](https://arkane.network/apps) - das Aavegotchi bald integrieren wird - unterstützen beide ERC1155 Token. Das bedeutet, dass du in der Lage sein wirst, alle deine Vermögenswerte (wie z. B. Kleidungsstücke) in deinem Wallet neben den GHST Tokens zu sehen.
 
-### Will Aavegotchi run on Layer 2?
+### Wird Aavegotchi auf Layer 2 laufen?
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2 Lösung, die bereits bald nach dem Launch integriert wird. Das Team hat sich für Matic entschieden, da sie starke Entwickler haben, Fortschritte bei der Dezentralisierung erzielen konnten und einen starken Netzwerkeffekt mit anderen NFT-Plattformen wie OpenSea aufweisen.
 
-### Do I need to migrate my Aave tokens?
+### Muss ich meine Aave Tokens migrieren?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi funktioniert mit aTokens von [Aave Version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir [bald](https://twitter.com/StaniKulechov/status/1334546997827809285) (vor dem Launch) ein Migrationstool haben :)
 
-### How do I migrate to Matic?
-Check out our [Matic Migration Guide](/matic).
+### Wie migriere ich auf Matic?
+Schau dir unseren [Matic Migration Guide](/matic) an.
 
-### I have a ledger / trezor, what do I do?
-You could still access Matic Network using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### Ich habe einen Ledger / Trezor, was soll ich tun?
+Mit dem Trezor One kannst du weiterhin auf das Matic Network zugreifen. Für alle anderen ist es vorerst nicht möglich. Du könntest eine neue Metamask Wallet erstellen und @Jesse | gldnXross#6482 um Hilfe bitten.
 
-### Why can't I see my Matic GHST on Metamask?
+### Warum kann ich meine Matic GHST nicht auf Metamask sehen?
 
 Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Matic transaction. The token address for GHST on Matic is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### Why can't I see my LP Tokens on QuickSwap?
+### Warum kann ich meine LP-Token nicht auf QuickSwap sehen?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
