@@ -63,6 +63,7 @@ contributors: ["eris771"]
 <p><a href=#how-do-i-migrate-to-matic->How do I migrate to Matic?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
 </ol>
 
 </div>
@@ -240,7 +241,9 @@ You could still access Matic Network using the Trezor One. For all others, it is
 
 Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Matic transaction. The token address for GHST on Matic is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
+### Why can't I see my LP Tokens on QuickSwap?
 
+After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
