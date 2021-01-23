@@ -43,7 +43,7 @@ Zuerst musst du dir ein paar GHST Tokens besorgen, um sie zu staken. Unsere [GHS
 ## Wie man staked
 Sobald du einige GHST Tokens hast, ist es an der Zeit, sie zu staken!
 
-There are four ways to stake: (1) staking GHST tokens [Mainnet], (2) staking Uniswap GHST-ETH LP tokens [Mainnet], (3) staking GHST tokens [Matic], and/or (4) the GHST-QUICK pool on QuickSwap [Matic].
+Es gibt vier Möglichkeiten zu Staken: (1) GHST Tokens staken [Mainnet], (2) Uniswap GHST-ETH LP Tokens staken [Mainnet], (3) GHST Token staken [Matic], und/oder (4) der GHST-QUICK Pool auf QuickSwap [Matic].
 
 *Hinweis: Presale GHST Tokens können nicht gestaked werden, bis sie freigeschaltet wurden.*
 
@@ -75,21 +75,21 @@ Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. 
 
 Warum der grosse Unterschied in der Anzahl der FRENS, die durch diese Methode verdient werden? Das Staken von GHST-ETH LP Token birgt das Risiko des [Impermanent Loss](/posts/glossary#impermanent-loss). Du wirst für das erhöhte Risiko, das du eingehst, entschädigt.
 
-### Staking GHST tokens [Matic]
+### GHST Tokens staken [Matic]
 
 Die dritte Methode beinhaltet die Übertragung von GHST Tokens aus dem Ethereum Mainnet in das Matic Network, eine Layer 2 Lösung.
 
-This is done by using the [Bridge to Matic Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Matic Network. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Matic. Your balance will update automatically. Please be patient!
+Dies geschieht über das [Bridge to Matic Interface](https://aavegotchi.com/bridge). Gib dem Smart Contract die Bewilligung, deine GHST Tokens zu nutzen. Sobald die Transaktion abgeschlossen ist, gibst du den Betrag der GHST ein, die du auf das Matic Network übertragen möchtest. Sobald deine Transaktion auf Ethereum bestätigt wurde, dauert es ungefähr 7-8 Minuten, bis dein Guthaben auf Matic erscheint. Dein Guthaben wird automatisch aktualisiert. Bitte habe Geduld!
 
-Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network.
+Als nächstes musst du deine Metamask so konfigurieren, dass sie deinen Wallet Kontostand anzeigt. In diesem [Matic Guide](/matic) findest du eine detaillierte Anleitung, wie du deine Metamask Wallet für das Matic Network konfigurieren kannst.
 
-Connect your Metamask to Matic Network and head over to the [Matic Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Matic. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
+Verbinde deine Metamask mit dem Matic Network und gehe auf die [Matic Staking Page](https://aavegotchi.com/stake-matic) in der Aavegotchi dApp. Gib dem Smart Contract die Bewilligung, deine GHST Tokens auf Matic zu nutzen. Sobald die Transaktion durchgeführt wurde, gibst du den Betrag der GHST ein, die du einzahlen möchtest. Presto! Das wars!
 
-### Staking in the GHST-QUICK pool on QuickSwap [Matic]
+### Im GHST-QUICK-Pool auf QuickSwap staken [Matic]
 
-The fourth method involves transferring GHST tokens from Ethereum Mainnet to the Matic Network, a layer 2 solution.
+Die vierte Methode beinhaltet die Übertragung von GHST Tokens aus dem Ethereum Mainnet in das Matic Network, eine Layer 2 Lösung.
 
-Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network. Once that is done, follow the subsequent steps found in the [Matic Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
+In diesem [Matic Guide](/matic) findest du eine detaillierte Anleitung, wie du deine Metamask Wallet für das Matic Network konfigurieren kannst. Sobald das erledigt ist, folge den weiteren Schritten, die du im [Matic Liquidity Migration Incentives Beitrag](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73) findest.
 
 1. Hol dir ein paar QUICK Tokens von [QuickSwap](https://quickswap.exchange). Die liquidesten Paare sind derzeit QUICK-UNI, QUICK-WETH und QUICK-USDC. Bald wird auch GHST-QUICK eine Option sein.
 
@@ -99,58 +99,58 @@ Do refer to this [Matic Guide](/matic) for detailed instructions on how one can 
 
 4. Zum Schluss nimmst du die stkGHST Tokens, die vom GHST Staking Contract ausgegeben wurden und stakest sie in den Quickswap Rewards Pool: [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
 
-Now you are earning QUICK and FRENS!
+Jetzt verdienst du QUICK und FRENS!
 
-Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
+Ähnlich wie beim Staking von Uniswap GHST-ETH LP Tokens, besteht auch bei dieser Methode das Risiko des Impermanent Loss.
 
-### Staking GHST on Matic Cheetsheet!
+### GHST Staking auf Matic Cheat-Sheet!
 
-The following diagram shows the two different routes to staking on Matic that we have discussed above (<a href=#staking-ghst-tokens--matic->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking in the GHST-QUICK pool</a>).
+Das folgende Diagramm zeigt die zwei verschiedenen Wege auf Matic zu staken, die wir oben besprochen haben (<a href=#staking-ghst-tokens--matic->GHST Token staken</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking im GHST-QUICK Pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## Lotterie-Tickets kaufen
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
+Sobald du genug FRENS hast, gehst du zur [Shop Bulk Buy Benutzeroberfläche](https://aavegotchi.com/tickets), um Lotterie-Tickets mit FRENS zu kaufen.
 
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
+Im Gegensatz zu FRENS können die Lotterie-Tickets von einer Wallet zur anderen übertragen werden. Sie können auch auf [Marktplätzen](/marketplace) gekauft/verkauft werden.
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+Es gibt sechs verschiedene Kategorien von Lotterie-Tickets, die von Gewöhnlich (am wenigsten wertvoll) bis Göttlich (am wertvollsten) reichen:
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blog Beitrag: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Nutzer können in einer einzigen Transaktion Tickets aus verschiedenen Kategorien kaufen. Du musst **nicht** für jede Kategorie von Lotterie-Tickets separate Kauftransaktionen erstellen.
 
 ## An Lotterien teilnehmen
 
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
+Eine Lotterie läuft über einen bestimmten Zeitraum. In diesem Zeitraum kannst du deine Lotterie-Tickets einreichen, um eine Chance auf gewisse Preise zu erhalten. Das Einreichen von Lotterie-Tickets für die Verlosung erfordert eine Ethereum-Transaktion; sie erfolgt nicht automatisch. Wenn du viele verschiedene Kategorien von Lotterie-Tickets hast und diese zusammen als Bündel einreichen möchtest, ist dies ebenfalls möglich. Du musst **keine** separaten Transaktionen erstellen, um jede Kategorie von Lotterie-Tickets in die Verlosung einzutragen.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Wenn die Lotterie vorbei ist, erfährst du, welche Preise du gewonnen hast und kannst sie einfordern.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+Wenn du dich dafür entscheidest, nicht an einer bestimmten Lotterie teilzunehmen, musst du nichts mit deinen Lotterie-Tickets machen. Du kannst auch Lotterie-Tickets für spätere Lotterien sammeln, wenn du das möchtest.
 
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Die erste Lotterie hatte zum Beispiel Chainlink als Theme. Hier waren die Preise für die Lotterie:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Insgesamt 6010 Preise.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Preise auf OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Jeder Preis wird einem zufällig gezogenen Lotterie-Ticket zugewiesen, wobei jedes Ticket die gleiche Gewinnchance hat.
 
-You can improve your probability of winning by:
+Du kannst deine Gewinnwahrscheinlichkeit verbessern, indem du:
 * Mehrere Tickets einreichst
 * An Ticket-Kategorien mit mehr Preisen teilnimmst (z.B. Gewöhnlich)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Die Zufallszahlen für die Gewinner der Lotterie werden durch Chainlinks [Onchain Verifiable Randomness Generator (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) generiert.
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+Die Preise, bei denen es sich um Gutscheine für Kleidungsstücke handelt, können 1:1 gegen das eigentliche Aavegotchi Kleidungsstück getauscht werden, sobald das Spiel gelauncht wird. Dies wird im [Aavegotchi Shop](https://aavegotchi.com/shop) stattfinden.
 
 ## Statistiken der letzten Lotterien
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Zu wissen, wie man FRENS staked und an Lotterien teilnimmt, ist ja gut und schön. Aber wie sieht es mit den Zahlen aus? Wie hoch sind die Wahrscheinlichkeiten, ein Kleidungsstück zu gewinnen, basierend auf vergangenen Lotterien? Besuche die [Raffles Statistik Seite](/raffles-stats) für die historischen Daten.
 
 ## Weitere Ressourcen
 
