@@ -11,6 +11,8 @@ Hey Fam! Hast du schon mal einen Aavegotchi-Talk/Chat verpasst, weil du keine Ze
 
 Wir haben auch einen eigenen [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) :D
 
+### Wie du Aavegotchi für deinen Hackathon integrieren kannst, mit Coderdan und Nick (19. Januar 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6--GY-5yWy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Coderdan hält einen Vortrag über die Bonding Curve (20. Dezember 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/RbVr_we7cgE?start=35946" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Cutting-edge Games Conference: Interoperable Avatare für das grosse Web3 MMORPG (12. Dezember 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/2GY5wKa_4d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>

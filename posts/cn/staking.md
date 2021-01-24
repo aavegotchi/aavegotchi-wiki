@@ -43,7 +43,7 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 ## 如何质押
 一旦你有了一些GHST 令牌，现在是时候了!
 
-有三种方法要抓住：(1) 质押GHST 令牌 [Mainnet]， (2) 将 GHST-ETH LP 令牌 [Mainnet], 和/或(3) GHST-QUICK 池在 QuickSwap [Matic] 上。
+There are four ways to stake: (1) staking GHST tokens [Mainnet], (2) staking Uniswap GHST-ETH LP tokens [Mainnet], (3) staking GHST tokens [Matic], and/or (4) the GHST-QUICK pool on QuickSwap [Matic].
 
 *注意：预销售GHST 令牌在解锁之前不能被质押。*
 
@@ -75,11 +75,21 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 为什么通过这种方法赚取的积分数的巨大差异？ 质押 GHST-ETH LP token 有可能造成 [永久性损失](/posts/glossary#impermanent-loss)。 您因承担的风险增加而得到补偿。
 
-### 在 QuickSwap 上在 GHST-QUICK 池中存储 [Matic]
+### Staking GHST tokens [Matic]
 
 第三种方法涉及将GHST 代币从以太坊主网转移到Matic Network，这是层2解决方案。
 
-请参考此 [Matic 指南](/matic) 详细说明如何配置他们的 Metamask 钱包以包含Matic 网络。 一旦完成了这项工作，将按照 [Matic Liquidity Migration Incentions](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73) 所发现的随后步骤进行。
+This is done by using the [Bridge to Matic Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Matic Network. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Matic. Your balance will update automatically. Please be patient!
+
+Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network.
+
+Connect your Metamask to Matic Network and head over to the [Matic Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Matic. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
+
+### Staking in the GHST-QUICK pool on QuickSwap [Matic]
+
+The fourth method involves transferring GHST tokens from Ethereum Mainnet to the Matic Network, a layer 2 solution.
+
+Do refer to this [Matic Guide](/matic) for detailed instructions on how one can configure their Metamask wallet to include the Matic Network. Once that is done, follow the subsequent steps found in the [Matic Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
 1. 从 [QuickSwap](https://quickswap.exchange) 获取一些QUICK 令牌。 当前流动性最高的对是QUICK-UNI，QUICK-WETH和QUICK-USDC。 不久的GHST-QUICK也将是一种选择。
 
@@ -89,52 +99,58 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 4. 最后，拿出GHST Staking 合同所释放的stkGHST 收据代币，然后将其置于快速交换奖励池中 [https://quickswap.exchange/#/lick](https://quickswap.exchange/#/quick)。
 
-现在您正在赚取QUICK和积分！
+Now you are earning QUICK and FRENS!
 
-与Staking Uniswap GHST-ETH LP Tokens相似，也有使用这种方法造成永久性损失的风险。
+Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
+
+### Staking GHST on Matic Cheetsheet!
+
+The following diagram shows the two different routes to staking on Matic that we have discussed above (<a href=#staking-ghst-tokens--matic->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking in the GHST-QUICK pool</a>).
+
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## 购买抽奖券
 
-一旦您有足够的积分，就可以在 [商店批量购买用户界面](https://aavegotchi.com/tickets) 购买抽奖券。
+Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
-与免费的积分，Raffle Tickets可以从一个钱包转移到另一个钱包。 他们也可以在 [marketplace](/marketplace) 上购买或出售。
+Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
 
-有六种不同类型的积分，从普通（价值最低）到创世之类（价值最高）：
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
-表格_RaffleTickets
+table_RaffleTickets
 
-博客: [ 质押GHST，获取主网上的积分！](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-etherum-mainnet-658bd507d67b)
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-用户可以在一次交易中购买属于不同类别的奖券。 您不需要 **** 为每个类别的票券创建单独的购买交易。
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## 进入抽奖
 
-一次抽奖将运行一段时间。 在这段时间里，您可以提交您的奖券来赢得奖励。 向抽奖中提交抽奖券涉及以太坊交易； 它不会自动完成。 如果您有许多不同类别的抽奖券，并且希望将它们捆绑在一起输入，那么这也是可能的。 您不需要 **** 创建单独的交易来将每个类别的奖券输入进去。
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-抽奖结束后，您可以找出自己赢得了哪些奖品并可以领取。
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-如果您选择不参加给定的抽奖活动，则无需对抽奖券进行任何操作。 如果愿意，您也可以为以后的抽奖活动累积抽奖券。
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
-例如，第一个抽奖活动有一个Chainlink主题。 下面是分级奖品：
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-共有6010个奖品。
+A total of 6010 prizes.
 
-[OpenSea 价格](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-每张奖品将分配给随机抽奖的彩票，每张彩票都有相等的中奖机会。
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-您可以提高您的获胜概率：
+You can improve your probability of winning by:
 * 提交多个奖券
 * 输入具有更多奖品的抽奖券类别（例如“普通”）
 
-Raffle奖获得者的随机编号是通过Chainlink的 [链上可验证的随机生成器](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 生成的。
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-奖品是可爱的礼品券，一旦游戏启动，可将1:1兑换成实际的Aavegotchi。 这将在 [Aavegotchi Shop](https://aavegotchi.com/shop) 商店进行。
+The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
 ## 过去Raffles 统计
-您会说，知道如何抵押FRENS并参与抽奖很不错。 但数字如何呢？ 根据过往的抽奖活动赢得可穿戴设备的可能性是什么？ 访问 [Raffles Statistics page](/raffles-stats) 查看历史数据。
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## 更多资源
 

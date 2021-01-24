@@ -43,7 +43,7 @@ Zuerst musst du dir ein paar GHST Tokens besorgen, um sie zu staken. Unsere [GHS
 ## Wie man staked
 Sobald du einige GHST Tokens hast, ist es an der Zeit, sie zu staken!
 
-Es gibt drei Möglichkeiten zum Staken: (1) GHST Tokens staken [Mainnet], (2) Uniswap GHST-ETH LP Tokens staken [Mainnet], und/oder (3) der GHST-QUICK Pool auf QuickSwap [Matic].
+Es gibt vier Möglichkeiten zu Staken: (1) GHST Tokens staken [Mainnet], (2) Uniswap GHST-ETH LP Tokens staken [Mainnet], (3) GHST Token staken [Matic], und/oder (4) der GHST-QUICK Pool auf QuickSwap [Matic].
 
 *Hinweis: Presale GHST Tokens können nicht gestaked werden, bis sie freigeschaltet wurden.*
 
@@ -75,9 +75,19 @@ Wähle "Stake on Mainnet" und du wirst eine weitere Seite mit zwei Boxen sehen. 
 
 Warum der grosse Unterschied in der Anzahl der FRENS, die durch diese Methode verdient werden? Das Staken von GHST-ETH LP Token birgt das Risiko des [Impermanent Loss](/posts/glossary#impermanent-loss). Du wirst für das erhöhte Risiko, das du eingehst, entschädigt.
 
-### Im GHST-QUICK-Pool auf QuickSwap staken [Matic]
+### GHST Tokens staken [Matic]
 
 Die dritte Methode beinhaltet die Übertragung von GHST Tokens aus dem Ethereum Mainnet in das Matic Network, eine Layer 2 Lösung.
+
+Dies geschieht über das [Bridge to Matic Interface](https://aavegotchi.com/bridge). Gib dem Smart Contract die Bewilligung, deine GHST Tokens zu nutzen. Sobald die Transaktion abgeschlossen ist, gibst du den Betrag der GHST ein, die du auf das Matic Network übertragen möchtest. Sobald deine Transaktion auf Ethereum bestätigt wurde, dauert es ungefähr 7-8 Minuten, bis dein Guthaben auf Matic erscheint. Dein Guthaben wird automatisch aktualisiert. Bitte habe Geduld!
+
+Als nächstes musst du deine Metamask so konfigurieren, dass sie deinen Wallet Kontostand anzeigt. In diesem [Matic Guide](/matic) findest du eine detaillierte Anleitung, wie du deine Metamask Wallet für das Matic Network konfigurieren kannst.
+
+Verbinde deine Metamask mit dem Matic Network und gehe auf die [Matic Staking Page](https://aavegotchi.com/stake-matic) in der Aavegotchi dApp. Gib dem Smart Contract die Bewilligung, deine GHST Tokens auf Matic zu nutzen. Sobald die Transaktion durchgeführt wurde, gibst du den Betrag der GHST ein, die du einzahlen möchtest. Presto! Das wars!
+
+### Im GHST-QUICK-Pool auf QuickSwap staken [Matic]
+
+Die vierte Methode beinhaltet die Übertragung von GHST Tokens aus dem Ethereum Mainnet in das Matic Network, eine Layer 2 Lösung.
 
 In diesem [Matic Guide](/matic) findest du eine detaillierte Anleitung, wie du deine Metamask Wallet für das Matic Network konfigurieren kannst. Sobald das erledigt ist, folge den weiteren Schritten, die du im [Matic Liquidity Migration Incentives Beitrag](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73) findest.
 
@@ -92,6 +102,12 @@ In diesem [Matic Guide](/matic) findest du eine detaillierte Anleitung, wie du d
 Jetzt verdienst du QUICK und FRENS!
 
 Ähnlich wie beim Staking von Uniswap GHST-ETH LP Tokens, besteht auch bei dieser Methode das Risiko des Impermanent Loss.
+
+### GHST Staking auf Matic Cheat-Sheet!
+
+Das folgende Diagramm zeigt die zwei verschiedenen Wege auf Matic zu staken, die wir oben besprochen haben (<a href=#staking-ghst-tokens--matic->GHST Token staken</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking im GHST-QUICK Pool</a>).
+
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## Lotterie-Tickets kaufen
 

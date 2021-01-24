@@ -7,6 +7,14 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
+* GHST Staking Contract on Matic to launch alongside the bridge from Mainnet to Matic
+* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+
+## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Matic Network on 20 January 2021!
+
 ## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
 * On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
 

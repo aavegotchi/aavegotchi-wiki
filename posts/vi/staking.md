@@ -75,9 +75,19 @@ Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một tr
 
 Tại sao lại có sự khác biệt lớn với số lượng FRENS kiếm được thông qua phương thức này? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/posts/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
 
-### Stake vào quỹ GHST-QUICK trên QuickSwap [Matic]
+### Stake token GHST [Matic]
 
 Phương pháp thứ ba chính là chuyển token GHST từ Mainnet của Ethereum sang Matic Network, một giải pháp layer 2.
+
+Điều này được thực hiện thông qua dịch vụ [Bridge to Matic Interface](https://aavegotchi.com/bridge). Approve hợp đồng để dùng token GHST. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Một khi giao dịch được xác nhận trên Ethereum, sẽ mất khoảng 7 đến 8 phút để số dư của bạn được hiện lên trên Matic. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
+
+Tiếp theo, bạn cần phải cấu hình ví MetaMask để số dư trong ví hiện lên. Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có được hướng dẫn chi tiết về cách cấu hình sao cho ví MetaMask có thể kết nối với Matic Network nhé.
+
+Kết nối ví MetaMask với Matic Network và chuyển đến trang [Matic Staking Page](https://aavegotchi.com/stake-matic) trên DApp của Aavegotchi. Approve hợp đồng để dùng token GHST. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Presto! Xong rồi bạn êi!
+
+### Stake vào quỹ GHST-QUICK trên QuickSwap [Matic]
+
+Phương pháp thứ tư chính là chuyển token GHST từ Mainnet của Ethereum sang Matic Network, một giải pháp layer 2.
 
 Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có được hướng dẫn chi tiết về cách cấu hình sao cho ví MetaMask có thể kết nối với Matic Network nhé. Một khi đã hoàn thành, hãy xem những bước hướng dẫn tại đường link[đến bài viết Matic Liquidity Migration Incentives](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
@@ -92,6 +102,12 @@ Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có 
 Giờ đây bạn đã có thể bắt đầu kiếm QUICK và FRENS!
 
 Tương tự như khi stake token LP GHST-ETH trên Uniswap, bạn có nguy cơ bị tổn thất tạm thời khi sử dụng phương pháp này.
+
+### Lật Bùa Cách Stake GHST trên Matic nào!
+
+Hình dưới đây giúp bạn hiểu về 2 cách tham gia vào staking trên Matic mà chúng ta đã thảo luận phía trên (<a href=#staking-ghst-tokens--matic->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking in the GHST-QUICK pool</a>).
+
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## Mua vé Raffle
 

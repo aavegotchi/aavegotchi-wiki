@@ -48,6 +48,7 @@ contributors:
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->Wie viele Portale kann man in 1 Transaktion kaufen?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?</a></p>
+<p><a href=#when-will-portals-be-released->Wann kann ich Portale kaufen?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Wie stimme ich mit Trust Wallet auf Aragon ab?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
@@ -59,6 +60,10 @@ contributors:
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Welches Wallet sollte ich für Aavegotchi verwenden?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Wird Aavegotchi auf Layer 2 laufen?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Muss ich meine Aave Tokens migrieren?</a></p>
+<p><a href=#how-do-i-migrate-to-matic->Wie migriere ich auf Matic?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Ich habe einen Ledger / Trezor, was soll ich tun?</a></p>
+<p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Warum kann ich meine Matic GHST nicht auf Metamask sehen?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Warum kann ich meine LP-Token nicht auf QuickSwap sehen?</a></p>
 </ol>
 
 </div>
@@ -169,6 +174,9 @@ Jeder Nutzer kann in einer Transaktion bis zu 50 Portale kaufen. Dies soll verhi
 ### Wenn ich ein Portal öffne, aber gerade keine aTokens habe, kann ich dann später wiederkommen und es zum Leben erwecken?
 Ja, man kann das Portal geöffnet lassen, sich den entsprechenden aToken besorgen und später zurückkommen, um sein Gotchi zu beschwören. Man muss die aTokens also nicht im Vorfeld vorbereiten.
 
+### Wann kann ich Portale kaufen?
+Die Portale werden Anfang Februar auf Matic veröffentlicht.
+
 ## AavegotchiDAO FAQ
 
 ### Wie stimme ich mit Trust Wallet auf Aragon ab?
@@ -208,7 +216,21 @@ Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2
 
 ### Muss ich meine Aave Tokens migrieren?
 
-Aavegotchi funktioniert mit aTokens von [Aave Version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir [bald](https://twitter.com/StaniKulechov/status/1334546997827809285) (vor dem Launch) ein Migrationstool haben :) 
+Aavegotchi funktioniert mit aTokens von [Aave Version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - stell also sicher, dass du alle Tokens von Version 1 auf 2 migriert hast, bevor du dein Aavegotchi beschwören willst. Laut Stani sollten wir [bald](https://twitter.com/StaniKulechov/status/1334546997827809285) (vor dem Launch) ein Migrationstool haben :)
+
+### Wie migriere ich auf Matic?
+Schau dir unseren [Matic Migration Guide](/matic) an.
+
+### Ich habe einen Ledger / Trezor, was soll ich tun?
+Mit dem Trezor One kannst du weiterhin auf das Matic Network zugreifen. Für alle anderen ist es vorerst nicht möglich. Du könntest eine neue Metamask Wallet erstellen und @Jesse | gldnXross#6482 um Hilfe bitten.
+
+### Warum kann ich meine Matic GHST nicht auf Metamask sehen?
+
+Stelle sicher, dass du zwei Transaktionen abgeschlossen hast: (1) die "Approve"-Transaktion und (2) die Transaktion zur Migration auf Matic. Die Token Adresse für GHST auf Matic ist wie folgt: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+
+### Warum kann ich meine LP-Token nicht auf QuickSwap sehen?
+
+Nachdem du deine LP-Token auf QuickSwap gestaked hast, kannst du sie nicht mehr in deiner Wallet sehen. Unstake sie, wenn du die LP tokens in deiner Wallet sehen willst.
 
 <p style="font-style:italic; font-size:13px;">...Fortsetzung folgt!</p>
 
