@@ -15,8 +15,8 @@ contributors:
 ## [aToken xuất hiện trên Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
 * Diamond Boi của chúng tôi, [Nick Mudge](/team#nick-mudge), đã làm được điều này! Anh ấy đã bridge thành công aToken sang Matic Network vào ngày 20 tháng Giêng năm 2021!
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+## [Bỏ phiếu trên Aragon đã bắt đầu!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* Vào ngày 18 tháng Giêng năm 2021, team đã thông báo về hai bản đề xuất AavegotchiDAO mới được đề xuất trên Aragon để người dùng có thể bỏ phiếu. Thời lượng bỏ phiếu kéo dài 72 tiếng.
 
 ## [Token GHST có mặt trên Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
 * Vào ngày 11 tháng Giêng năm 2021, team Aavegotchi công bố rằng token GHST đã xuất hiện trên Matic network
