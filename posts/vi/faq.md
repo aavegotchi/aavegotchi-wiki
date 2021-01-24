@@ -33,11 +33,11 @@ contributors:
 <li><a href=#bonding-curve-faq>Những câu hỏi về Bonding Curve</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ai đó có thể vượt mặt bonding curve hay không?</a></p>
-<li><a href=#frens-faq>FRENS FAQ</a></li>
+<li><a href=#frens-faq>Những Câu Hỏi Về FRENS</a></li>
 <p><a href=#can-i-buy-frens->Mình có thể mua FRENS được không?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài raffle hay không?</a></p>
 <p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
-<li><a href=#raffle-faq>Raffle FAQ</a></li>
+<li><a href=#raffle-faq>Những câu hỏi về Raffle (Xổ số)</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?</a></p>
 <p><a href=#are-raffle-wearables-special->Có loại trang bị khủng nào trong raffle hay không?</a></p>
@@ -122,7 +122,7 @@ Sau khi mua GHST trên bonding curve, bạn cần phải thực hiện thêm m�
 ### Ai đó có thể vượt mặt bonding curve hay không?
 Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dịch được gộp lại với những giao dịch khác trước khi được gửi đi đến hợp đồng thông minh. Họ không thể mau được giá thấp hơn với phí gas cao hơn nhằm vượt mặt đợt mua hàng của bạn được.
 
-## FRENS FAQ
+## Những Câu Hỏi Về FRENS
 
 ### Mình có thể mua FRENS được không?
 Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
@@ -134,7 +134,7 @@ Không được, cách duy nhất để có FRENS chính là tham gia vào sự 
 ### What happens to the FRENS on Mainnet after the game launches on Matic?
 Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
 
-## Raffle FAQ
+## Những câu hỏi về Raffle (Xổ số)
 
 Xem <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> để biết thêm thông tin chi tiết về raffles.
 
