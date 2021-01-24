@@ -2,28 +2,28 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Improvement Proposals (AGIPs)'
-description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
+description: 'Danh sách cách Aavegotchi Improvement Proposals (AGIPs)'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard.
+Chào mấy fen. Tham dự vào Aavegotchi Improvement Proposals (AGIPs) là điều mà những gotchi có trách nhiệm sẽ làm! Bạn cần phải bỏ phiếu và tiếng nói của bạn sẽ được thể hiện.
 
-How far have we progressed as a community? Look at our archives of past votes here!
+Cộng đồng của chúng ta đã phát triển đến mức nào rồi? Hãy xem qua thông tin lưu trữ về những lần bầu chọn đã qua tại đây nhé!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
-<li><a href=#add-fees-to-bonding-curve>Add fees to Bonding Curve</a></li>
-<li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>Tăng lượng Tap để Phát Triển Sâu Rộng</a></li>
+<li><a href=#add-fees-to-bonding-curve>Thêm Phí Giao Dịch Vào Bonding Curve</a></li>
+<li><a href=#increase-daico-tap-for-ghst-purchases>Tăng lượng tap từ DAICO để mua lại GHST</a></li>
 </ol>
 
 </div>
 
-### Tap increase for Scaling Sprint
+### Tăng lượng Tap để Phát Triển Sâu Rộng
 **Aavegotchi Improvement Proposal #1**
 
 **Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
@@ -46,7 +46,7 @@ No: 601.83249 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
-### Add fees to Bonding Curve
+### Thêm Phí Giao Dịch Vào Bonding Curve
 **Aavegotchi Improvement Proposal #2**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
@@ -69,7 +69,7 @@ No: 108143.33932 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
-### Increase DAICO tap for GHST purchases
+### Tăng lượng tap từ DAICO để mua lại GHST
 **Aavegotchi Improvement Proposal #3**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
