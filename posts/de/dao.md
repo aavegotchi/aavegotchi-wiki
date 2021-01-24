@@ -61,6 +61,6 @@ Mehr Details gibt es, sobald das Spiel veröffentlicht wurde!
 
 ## Aavegotchi Improvement Proposals (AGIPS)
 
-Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
+Aavegotchi Improvement Proposals (AGIPS) sind Onchain-Abstimmungen, an denen sich die Community beteiligen kann.
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
+Besuch die [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) Seite für eine Liste der vergangenen Abstimmungen.
