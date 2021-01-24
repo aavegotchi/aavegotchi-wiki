@@ -27,6 +27,7 @@ Aavegotchi tritt in die Fussstapfen erfolgreicher DeFi-Protokolle wie Compound u
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Teilnahme an der Governance</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
 </ol>
 
 </div>
@@ -57,3 +58,9 @@ Tokenbesitzer werden für die aktive Teilnahme an dieser Version des AavegotchiD
 Ich bin total aufgeregt! Wie kann ich nun am AavegotchiDAO teilnehmen? Ganz einfach! In den [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) ist die Liste der DAO-Funktionen aufgeführt, die Mitglieder aufrufen/verwenden können, um abgestimmte Änderungen zu implementieren. Sagen wir zum Beispiel, dass asUSD als [aToken-Typ](/posts/atokens) gewählt wurde. Der AavegotchiDAO könnte die Änderung implementieren, indem er die `addCollateralTypes()` Funktion verwendet und asUSD innerhalb der Funktion angibt.
 
 Mehr Details gibt es, sobald das Spiel veröffentlicht wurde!
+
+## Aavegotchi Improvement Proposals (AGIPS)
+
+Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
+
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
