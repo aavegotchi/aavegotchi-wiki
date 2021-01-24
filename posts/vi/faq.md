@@ -182,7 +182,7 @@ Portal sẽ được mở bán trên Matic vào đầu tháng Hai.
 ### Làm cách nào để có thể Vote trên Aragon bằng Trust Wallet?
 Hiện tại, Aragon vẫn chưa được tích hợp với Trust Wallet. Giải pháp thay thế trong thời điểm hiện tại là xuất private key từ ví Trust của bạn vào MetaMask. Một khi đã cài xong tài khoản trên MetaMask, bạn sẽ có thể vote trên Aragon.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Xem[bài viết này](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) để có thêm thông tin về cách làm này.
 
 
 ## Những câu hỏi về Lối chơi
@@ -212,26 +212,26 @@ Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên 
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Yes! Aavegotchi dự định sẽ dùng [Matic](https://matic.network/) như một giải pháp Layer 2, được tích hợp ngay khi triển khai. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Đúng vậy! Aavegotchi dự định sẽ dùng [Matic](https://matic.network/) như một giải pháp Layer 2, được tích hợp ngay khi triển khai. Team phát triển chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
 
 ### Mình có thể chuyển sang Matic bằng cách nào?
-Check out our [Matic Migration Guide](/matic).
+Xem thêm tại [Matic Migration Guide](/matic).
 
-### I have a ledger / trezor, what do I do?
-You could still access Matic Network using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### Mình có ví ledger / trezor, mình cần phải làm gì?
+Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
 
 ### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Matic transaction. The token address for GHST on Matic is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
