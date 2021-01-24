@@ -9,7 +9,7 @@ contributors:
 
 Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard.
 
-How have we progress along as a community? Look at our archives of past votes here!
+How far have we progressed as a community? Look at our archives of past votes here!
 
 <div class="contentsBox">
 
