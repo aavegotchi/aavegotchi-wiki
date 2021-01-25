@@ -27,6 +27,7 @@ Aavegotchi遵循“逐步分散化”的流程，遵循了诸如Descompound和Sy
 <li><a href=#metamorphosis>变形</a></li>
 <li><a href=#oasis>绿洲</a></li>
 <li><a href=#participating-in-governance>参与治理</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
 </ol>
 
 </div>
@@ -57,3 +58,9 @@ AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotc
 我激动了！ 那么我如何参加AavegotchiDAO？ 朋友，我们把你盖住了！ [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) 详细列出了成员可以调用/使用的 DAO 函数列表，以实现已被投票的更改。 例如，让我们说作为 [的抵押品类型](/posts/atokens) 已经投票了 asUSD 。 AavegotchiDAO 可以通过使用 `addCollaterTypes()` 函数并在函数中指定 asUSD 来实现更改。
 
 一旦游戏发布，更多详细信息将会被刷新！
+
+## Aavegotchi Improvement Proposals (AGIPS)
+
+Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
+
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.

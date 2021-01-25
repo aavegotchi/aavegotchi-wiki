@@ -27,6 +27,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
 </ol>
 
 </div>
@@ -57,3 +58,9 @@ Token holders will receive rewards in GHST for active participation in this iter
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 More details will be fleshed out once the game releases!
+
+## Aavegotchi Improvement Proposals (AGIPS)
+
+Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
+
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
