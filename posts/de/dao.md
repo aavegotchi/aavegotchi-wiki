@@ -29,8 +29,8 @@ Aavegotchi tritt in die Fussstapfen erfolgreicher DeFi-Protokolle wie Compound u
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Teilnahme an der Governance</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
-<li><a href=#snapshot-voting>Snapshot Voting</a></li>
-<li><a href=#aragon-voting>Aragon Voting</a></li>
+<li><a href=#snapshot-voting>Snapshot Abstimmungen</a></li>
+<li><a href=#aragon-voting>Aragon Abstimmungen</a></li>
 </ol>
 
 </div>
@@ -66,45 +66,45 @@ Mehr Details gibt es, sobald das Spiel veröffentlicht wurde!
 
 Aavegotchi Improvement Proposals (AGIPS) sind Onchain-Abstimmungen, an denen sich die Community beteiligen kann.
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Besuch die [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) Seite für eine Liste der vergangenen Abstimmungen. Wenn du über zukünftige Vorschläge informiert werden möchtest, folg [Aavegotchi auf Social Media](/socialmedia).
 
-## Snapshot Voting
+## Snapshot Abstimmungen
 
-Snapshot is a gasless way of voting, and you can see the [Aavegotchi Snapshot here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot ist eine gaslose Art des Votings. Hier kannst du den [Aavegotchi Snapshot sehen](https://snapshot.page/#/aavegotchi.eth).
 
-1). Go to an open proposal.
+1). Geh zu einem offenen Vorschlag.
 
-2). Connect your wallet.
+2). Verbinde dein Wallet.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "snapshot connect" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "snapshot connect" />
 
-3). Sell a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Wähl eine Option aus und klick auf "Vote". Ein Pop-up-Fenster wird erscheinen, um deine Wahl zu bestätigen.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "snapshot vote" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "snapshot vote" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Dein Metamask wird erscheinen. Unterschreibe die Transaktion, und du bist fertig!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction" />
 
-## Aragon Voting
+## Aragon Abstimmungen
 
-Aragon is an on-chain vote, and you can see the [Aavegotchi Aragon page here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aragon ist ein On-Chain Vote. Hier kannst du die [Aavegotchi Aragon Seite sehen](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-1). Go to an open proposal.
+1). Geh zu einem offenen Vorschlag.
 
-2). Connect your wallet.
+2). Verbinde dein Wallet.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "aragon connect" />
 
-3). Choose to vote "Yes" or "No."
+3). Wähle, ob du mit "Ja" oder "Nein" stimmen willst.
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "aragon choice" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Eine Metamask-Transaktion wird sich öffnen. Beachte, dass deine Transaktion gemined werden muss, um bestätigt zu werden, also konsultiere eine Seite wie [gasnow](https://gasnow.org/) für den aktuellen Gaspreis.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Sobald deine Transaktion gemined ist, wird deine Stimme entsprechend reflektiert.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "aragon final" />
