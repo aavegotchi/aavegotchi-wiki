@@ -53,7 +53,7 @@ GHST를 사용하는 추가적인 방법은 다음과 같습니다.
 ## GHST 구매하기
 지갑을 준비해야 합니다!(가급적이면 Metamask를 이용해주세요) - GHST 토큰을 구매하는 방법엔 2가지가 있습니다.
 
-Curve에서 바로 구매를 하거나 [거래소](https://www.coingecko.com/en/coins/aavegotchi#markets) 에서 구매를 하는 방법이 있습니다.(단, curve를 통해 구매하는 경우 KYC 인증이 필요하며, 미국과 중국 시민들은 제한이 됩니다) 거래소의 경우엔 유니스왑이나 Matcha와 같은 탈중앙 거래소와 Okex, 바이낸스와 같은 중앙 거래소에서 구매가 가능합니다.
+You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST), as well as CEXes like [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), carry GHST.
 
 GHST를 구매하실 땐 정확한 주소를 입력하셔야 합니다! (GHST 토큰 주소: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)) **공식적으로 발표된 아베고치의 다른 주소들과는 별개로 이 주소를 꼭 확인하셔야 합니다! - 주의해서 나쁠 것 없으니까요! :)**
 
