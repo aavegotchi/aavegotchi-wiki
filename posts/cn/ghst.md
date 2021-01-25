@@ -53,7 +53,7 @@ contributors:
 ## 购买GHST
 准备好你的钱包(最好是Metamask) - 有两种主要方法购买GHST 令牌。
 
-您可以直接从 [联合曲线](/curve) (尽管这需要KYC)。 不幸地排除美国和中国公民； 或从 [交易所购买](https://www.coingecko.com/en/coins/aavegotchi#markets) - 好几种DEX，例如Uniswap和 Matcha, 如OKex和Binance等CEX也携带GHST。
+You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST), as well as CEXes like [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), carry GHST.
 
 确保您也有正确的令牌地址： [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)。 **请验证此链接与其他官方发布的 Aavegotchi 消息来源的链接 - 它从不伤害额外的注意。**
 

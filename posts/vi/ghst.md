@@ -53,7 +53,7 @@ Bao gồm:
 ## Mua GHST
 Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua token GHST.
 
-Bạn có thể mua thẳng từ [curve](/curve) (dù cách này đòi hỏi bạn phải KYC, mà xui cái là người dùng từ Mỹ và Trung Quốc sẽ không được tham gia); hoặc mua từ [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - một vài DEX ví dụ như Uniswap và Matcha, cùng các CEX như OKex và Binance, hiện đang niêm yết GHST.
+You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST), as well as CEXes like [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), carry GHST.
 
 Hãy đảm bảo rằng bạn đang dùng đúng địa chỉ token nhé: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
 

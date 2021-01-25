@@ -7,6 +7,7 @@ image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
   - "cinnabarhorse"
+  - "hackingmoneyph"
 ---
 
 <div class="headerImageContainer">
@@ -28,6 +29,8 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
+<li><a href=#snapshot-voting>Snapshot Voting</a></li>
+<li><a href=#aragon-voting>Aragon Voting</a></li>
 </ol>
 
 </div>
@@ -63,4 +66,45 @@ Nhiều thông tin chi tiết sẽ được công bố một khi trò chơi đư
 
 Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+
+## Snapshot Voting
+
+Snapshot is a gasless way of voting, and you can see the [Aavegotchi Snapshot here](https://snapshot.page/#/aavegotchi.eth).
+
+1). Go to an open proposal.
+
+2). Connect your wallet.
+
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "snapshot connect" />
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "snapshot connect" />
+
+3). Sell a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "snapshot vote" />
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "snapshot vote" />
+
+4). Your Metamask will pop up. Sign the transaction, and you're done!
+
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction" />
+
+## Aragon Voting
+
+Aragon is an on-chain vote, and you can see the [Aavegotchi Aragon page here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+
+1). Go to an open proposal.
+
+2). Connect your wallet.
+
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "aragon connect" />
+
+3). Choose to vote "Yes" or "No."
+
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "aragon choice" />
+
+4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+
+5). Once your transaction is mined, your vote will be reflected accordingly.
+
+
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "aragon final" />
