@@ -75,17 +75,17 @@ Snapshot is a gasless way of voting, and you can see the [Aavegotchi Snapshot he
 
 2. Connect your wallet.
 
-<img class = "bodyImage" src = "/dao/snapshot1" alt = "snapshot connect">
-<img class = "bodyImage" src = "/dao/snapshot2" alt = "snapshot connect">
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "snapshot connect">
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "snapshot connect">
 
 3. Sell a poll option, and click "Vote." A pop-up will appear to confirm your choice.
 
-<img class = "bodyImage" src = "/dao/snapshot3" alt = "snapshot vote">
-<img class = "bodyImage" src = "/dao/snapshot4" alt = "snapshot vote">
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "snapshot vote">
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "snapshot vote">
 
 4. Your Metamask will pop up. Sign the transaction, and you're done!
 
-<img class = "bodyImage" src = "/dao/snapshot5" alt = "sign transaction">
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction">
 
 ## Aragon Voting
 
@@ -95,15 +95,15 @@ Aragon is an on-chain vote, and you can see the [Aavegotchi Aragon page here](ht
 
 2. Connect your wallet.
 
-<img class = "bodyImage" src = "/dao/aragon1" alt = "aragon connect">
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "aragon connect">
 
 3. Choose to vote "Yes" or "No."
 
-<img class = "bodyImage" src = "/dao/aragon2" alt = "aragon choice">
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "aragon choice">
 
 4. A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
 
 5. Once your transaction is mined, your vote will be reflected accordingly.
 
 
-<img class = "bodyImage" src = "/dao/aragon3" alt = "aragon final">
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "aragon final">
