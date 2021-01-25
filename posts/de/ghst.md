@@ -53,7 +53,7 @@ Dazu gehören:
 ## GHST kaufen
 Halte dein Wallet (vorzugsweise Metamask) bereit - es gibt zwei Möglichkeiten, um GHST Tokens zu kaufen.
 
-You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST), as well as CEXes like [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), carry GHST.
+Du kannst es entweder direkt von der [Curve](/curve) kaufen (dies erfordert allerdings KYC, was Bürger der Vereinigten Staaten und Chinas leider ausschliesst); oder es von einer [Börse](https://www.coingecko.com/en/coins/aavegotchi#markets) kaufen - mehrere DEXe wie [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) und [Matcha](https://matcha.xyz/markets/GHST), sowie CEXe wie [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) und [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), bieten GHST an.
 
 Achte darauf, dass du auch die richtige Token-Adresse verwendest: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Bitte überprüfe diesen Link mit anderen offiziell veröffentlichten Aavegotchi Quellen - es schadet nie, vorsichtig zu sein.**
 
