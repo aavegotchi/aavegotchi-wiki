@@ -36,15 +36,15 @@ Ngân sách 50k DAI thêm vào sẽ được dùng trong 4 hạng mục khác nh
 * Một bước tạo đà trong marketing giúp nhân rộng sự hiện diện của Aavegotchi.
 * Phần thưởng dành cho cộng đồng để bọn mình có thể tiếp tục phát triển những chương trình (như team Aartists hay Aaprentices) nhằm tưởng thưởng cho những ai có nhiều cảm hứng nhất trong cộng đồng bọn mình.
 
-**Voting Period:** 15 - 19 October 2020
+**Thời gian vote:**15 - 19 tháng Mười 2020
 
-**Results:**
+**Kết quả:**
 
 Yes: 2540143.23957 GHST
 
 No: 601.83249 GHST
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
+[Đường dẫn đến giao diện người dùng của Aragon](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
 ### Thêm Phí Giao Dịch Vào Bonding Curve
 **Aavegotchi Improvement Proposal #2**
@@ -61,13 +61,13 @@ Any fees earned would automatically be transferred to the DAO Treasury address a
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**Kết quả:**
 
 Yes: 3726567.25851 GHST
 
 No: 108143.33932 GHST
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
+[Đường dẫn đến giao diện người dùng của Aragon](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
 ### Tăng lượng tap từ DAICO để mua lại GHST
 **Aavegotchi Improvement Proposal #3**
@@ -82,10 +82,10 @@ In order to offset the burning (which could ultimately turn GHST into a stableco
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**Kết quả:**
 
 Yes: 3836093.44669 GHST
 
 No: 33683.04753 GHST
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+[Đường dẫn đến giao diện người dùng của Aragon](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
