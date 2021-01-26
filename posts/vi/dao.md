@@ -28,7 +28,7 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
-<li><a href=#voting>Voting</a></li>
+<li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
 </ol>
 
@@ -61,7 +61,7 @@ Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? 
 
 Nhiều thông tin chi tiết sẽ được công bố một khi trò chơi được triển khai!
 
-## Voting
+## Bỏ phiếu
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
