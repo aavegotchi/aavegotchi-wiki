@@ -49,7 +49,7 @@ No: 601.83249 GHST
 ### Thêm Phí Giao Dịch Vào Bonding Curve
 **Aavegotchi Improvement Proposal #2**
 
-**Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
+**Tóm Tắt Bản Đề Nghị:** Bonding curve là nguồn thanh khoản chính của GHST. Những người mua và người bán số lượng lớn trong hiện tải không phải trả bất kỳ loại phí nào.
 
 Our market maker offers the ability to add fees to buy and sell orders.
 
