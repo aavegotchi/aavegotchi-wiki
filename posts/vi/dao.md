@@ -72,23 +72,23 @@ Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu �
 
 Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Bỏ phiếu cho một phương án, và nhấp "Vote" Một pop-up sẽ hiện lên để bạn có thể xác nhận lựa chọn của mình.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
-### Aragon Voting
+### Vote bằng Aragon
 
 Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
 
@@ -96,9 +96,9 @@ Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegot
 
 To vote on Aragon, follow the steps below:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
