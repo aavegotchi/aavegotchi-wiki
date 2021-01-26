@@ -27,9 +27,8 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals</a></li>
-<li><a href=#snapshot-voting>Snapshot Voting</a></li>
-<li><a href=#aragon-voting>Aragon Voting</a></li>
+<li><a href=#voting>Voting</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
 </ol>
 
 </div>
@@ -61,49 +60,60 @@ I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you c
 
 More details will be fleshed out once the game releases!
 
-## Aavegotchi Improvement Proposals (AGIPS)
+## Voting
 
-Aavegotchi Improvement Proposals (AGIPS) are onchain votes that the community participates in.
+There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Snapshot Voting
+### Snapshot Voting
 
-Snapshot is a gasless way of voting, and you can see the [Aavegotchi Snapshot here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+
+To vote on Snapshot, follow the steps below:
 
 1). Go to an open proposal.
 
 2). Connect your wallet.
 
-<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "snapshot connect">
-<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "snapshot connect">
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum">
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum">
 
-3). Sell a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
 
-<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "snapshot vote">
-<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "snapshot vote">
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum">
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum">
 
 4). Your Metamask will pop up. Sign the transaction, and you're done!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction">
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting">
 
-## Aragon Voting
+### Aragon Voting
 
-Aragon is an on-chain vote, and you can see the [Aavegotchi Aragon page here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain. 
+
+Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+
+To vote on Aragon, follow the steps below:
 
 1). Go to an open proposal.
 
 2). Connect your wallet.
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "aragon connect">
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum">
 
 3). Choose to vote "Yes" or "No."
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "aragon choice">
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum">
 
 4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
 
 5). Once your transaction is mined, your vote will be reflected accordingly.
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "aragon final">
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum">
+
+## Aavegotchi Improvement Proposals (AGIPs)
+
+See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)! 
+
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
