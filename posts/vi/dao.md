@@ -86,35 +86,35 @@ Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu �
 
 4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
 ### Vote bằng Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
 1). Vào một bản đề xuất đang được mở.
 
 2). Kết nối ví.
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Bình chọn "Yes" hoặc "No."
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Snapshot Voting Ethereum" />
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
