@@ -32,6 +32,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
+<p><a href=#atokens>aTokens</a></p>
 <p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
@@ -39,6 +40,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
@@ -90,7 +92,8 @@ At the time of writing (December 5 2020), the Total Value Locked in Defi stands 
 ### APY
 APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
-
+### aTokens
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
 ### Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
@@ -145,7 +148,10 @@ The term is somewhat self-explanatory. These are pools of tokens that are locked
 
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
+### maTokens
+maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
 
+For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
 
 ### Oracles
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
