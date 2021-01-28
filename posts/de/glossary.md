@@ -93,154 +93,154 @@ Zum Zeitpunkt der Erstellung dieses Artikels (5. Dezember 2020) liegt der Gesamt
 APY steht für Annual Percentage Yield. Dies ist die reale Rendite, die du auf deine Ersparnisse, die du in ein Protokoll eingezahlt hast, erhältst. Dabei wird der Effekt des Zinseszinses berücksichtigt.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com/). Eine Schritt-für-Schritt-Anleitung, wie du aTokens bekommst, findest du auf unserer [aTokens](/atokens) Seite.
 
 ### Sicherheiten/Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+Sicherheiten sind ein ziemlich simples Konzept. Es bezieht sich auf einen Vermögenswert, den du als Garantie für einen Kreditgeber hinterlegen kannst, wenn du dir Geld von ihm leihst. Wenn du deinen Kredit nicht zurückzahlen kannst, werden deine Sicherheiten verwendet, um die Schulden zu begleichen.
 
 
-In the context of DeFi, this is how things might look:
+Im Kontext von DeFi könnte es ungefähr so aussehen:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Sagen wir, du willst dir ein paar Assets aus einem Protokoll leihen. Dafür musst du einen Teil deines sonstigen Vermögens als Sicherheit hinterlegen. Wenn du deinen Kredit nicht zurückzahlst, wird das Protokoll deine Sicherheiten nicht an dich zurückgeben.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Im Aavegotchi Metaverse sind Sicherheiten auch als [Spirit Force](/glossary#spirit-force) bekannt.
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
+Steht für Decentralized Autonomous Initial Coin Offering. Es ist eine neue Fundraising-Methode, die versucht, die besten Eigenschaften einer [Dezentralen Autonomen Organisation (DAO)](/glossary#dao) mit denen eines Initial Coin Offering (ICO) zu verbinden. Dadurch soll eine Struktur geschaffen werden, die dem Token-Sale-Fundraising-Modell ein höheres Mass an Effektivität verleiht. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Auch bekannt als Dezentralized Autonomous Organization. Das sind Organisationen, deren Regeln in Smart Contracts kodiert sind und die von ihren Mitgliedern kontrolliert werden. Dies steht im Gegensatz zu traditionellen Organisationsmodellen, die oft dazu neigen, von einer kleinen Gruppe von Autoritätspersonen regiert zu werden.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Im Kontext des AavegotchiDAO bedeutet dies, dass die Mitglieder des Ökosystems in der Lage sein werden, Vorschläge zu unterbreiten und darüber abzustimmen. Dies wird Einfluss darauf haben, wie das gesamte Ökosystem funktionieren wird. Die Mitglieder könnten zum Beispiel vorschlagen, die Anzahl der verfügbaren Portale im Laufe der Zeit zu erhöhen, neben jeder anderen Funktion, die ihrer Meinung nach der Community helfen würde.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Eine ausführlichere Erklärung zu DAOs findest du auf [dieser Seite](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Auch bekannt als dezentrale Börse (Decentralized Exchange). Solche Plattformen ermöglichen es den Nutzern, Transaktionen direkt Peer-to-Peer abzuwickeln, um mit Hilfe von Smart Contracts Tokens in die eigene Wallet zu erhalten. Dies steht im Gegensatz zur Funktionsweise von CEXs (Centralized Exchanges), die über einen Zwischenhändler (die zentrale Börse selbst) funktionieren.
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Einige Beispiele für DEXe sind Uniswap, Mesa und Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Einige Beispiele für CEXs sind Binance, Coinbase und OKEx.
 
 
 ### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Erinnerst du dich, was wir oben über Kredite und Sicherheiten geschrieben haben? Nun, Flash Loans sind eine Form von Krediten, die die Notwendigkeit von Sicherheiten umgehen. Allerdings gibt es einen Haken.
 
-The flash loan has to be repaid within the same transaction block.
+Die Flash Loan muss innerhalb desselben Transaktionsblocks zurückgezahlt werden.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Wenn dies nicht geschieht, wird die gesamte Transaktion aufgehoben, sodass die bis zu diesem Zeitpunkt ausgeführten Aktionen rückgängig gemacht werden. Mehr über Flash Loans kannst du [hier](https://aave.com/flash-loans/) lesen.
 
 
 
 ### Impermanent Loss
-Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
+Impermanent Loss tritt auf, wenn du einem Pool Liquidität zur Verfügung stellst (siehe [Liquiditätspools](/glossary#liquidity-pools)) und sich der Preis deiner hinterlegten Vermögenswerte im Vergleich zu dem Zeitpunkt, als du sie hinterlegt hast, ändert. Dies würde zu einem Verlust führen, wenn zu dem Zeitpunkt, an dem du dein Vermögen abheben möchtest, der Preis gegenüber deiner ersten Einzahlung gesunken ist. Das führt zu einem niedrigeren Dollar-Wert zum Zeitpunkt deiner Auszahlung.
 
 
 
 ### Liquiditätspools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+Der Begriff ist einigermassen selbsterklärend. Dies sind Pools von Tokens, die in einem Smart Contract eingeschlossen sind. Sie werden dann genutzt, um den Handel durch die Bereitstellung von Liquidität zu erleichtern.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Für eine detailliertere Erklärung dieser Begriffe, schau dir den [Guide](https://finematics.com/liquidity-pools-explained/) von Finematics an.
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens sind [aTokens](/glossary#atokens) auf dem Matic Network. Sie wurden von [Nick Mudge](/team#nick-mudge) entwickelt.
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
+Eine Schritt-für-Schritt-Anleitung, wie du aTokens auf dem Ethereum Mainnet in maTokens auf dem Matic Network umwandelst, findest du in dieser [maTokens](/matokens) Anleitung.
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen erfüllt sein. Informationen über das Vorhandensein dieser Bedingungen müssen in die Blockchain eingespeist werden, auf der sich der Contract befindet. Das liegt daran, dass Blockchains typischerweise keinen direkten Zugang zu Informationen ausserhalb der Chain haben. An dieser Stelle kommen Oracles ins Spiel. Diese Einheiten liefern die notwendigen Daten, um Smart Contracts auszulösen.
 
 
 
 ### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Im Allgemeinen ist ein Smart Contract ein selbstausführender Vertrag/Contract, bei dem die "Vertragsbedingungen" zwischen den Nutzern direkt in den Code des Vertrags selbst geschrieben werden. Wenn diese vorgegebenen Bedingungen und bestimmte Konditionen erfüllt sind, kommt der Vertrag zustande.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Das Staking einer Kryptowährung bedeutet im Wesentlichen, dass man diese Währung hält, um Transaktionen zu verifizieren und das Netzwerk zu unterstützen. Im Austausch dafür erhalten die Staker normalerweise eine Art Belohnung. Zum Beispiel werden in der Aavegotchi Welt die $GHST-Staker mit FRENS belohnt, mit denen sie in regelmässigen Lottieren Tickets kaufen und Preise gewinnen können.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Einfach ausgedrückt ist Yield Farming eine Strategie, die Nutzern das Verdienen von Belohnungen ermöglicht, indem sie ihr Vermögen in einem bestimmten Protokoll hinterlegen und verleihen.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Dies kann auf verschiedene Arten geschehen, aber der häufigste Mechanismus ist, dass Einleger/Kreditgeber Coins von einem Protokoll verdienen, indem sie einfach ihre ERC-20 Token und/oder Stablecoins auf der Plattform staken. Normalerweise werden diese Belohnungen genutzt, um potenzielle Einleger und Kreditnehmer dazu zu bewegen, einer bestimmten Plattform Liquidität zuzuführen.
 
 
 ## Allgemeine Begriffe
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon ist ein Open Source, Community-getriebenes Projekt mit der Mission, die Unabhängigkeit von dezentralisierten Organisationen zu stärken, indem es Werkzeuge für deren Erfolg entwickelt.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Das Flaggschiffprodukt des Projekts ist der Aragon Client, ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Das Projekt baut auch das Aragon Network, die erste digitale Jurisdiktion der Welt.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Das Aragon Projekt wird von der Aragon Association verwaltet, einer Non-Profit-Organisation mit Sitz in Zug (Schweiz), die von den Besitzern der Aragon Network Token verwaltet wird.
 
-Check out their [site](https://aragon.org/) here.
+Schau dir ihre [Seite](https://aragon.org/) hier an.
 
 ### Glockenkurve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
 
 ### Diamond Standard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+Der Diamond Standard wurde von Teammitglied [Nick Mudge](/team#nick-mudge) erstellt. Der Diamond Standard ermöglicht es Entwicklern, Contracts mit praktisch keiner Grössenbeschränkung auf modulare und gaseffiziente Weise zu schreiben.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Diamonds können bei Bedarf aktualisiert werden, ohne dass die bestehende Funktionalität neu implementiert werden muss.
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+Es standardisiert Contract Interfaces und Implementierungsdetails von Diamonds und ermöglicht so Softwareintegration und Interoperabilität.
 
-A diamond is a contract that implements the Specification in this standard.
+Ein Diamond ist ein Contract, der die Vorgaben in diesem Standard umsetzt.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Mehr Informationen findest du [hier](https://eips.ethereum.org/EIPS/eip-2535).
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Ein Token-Standard für fungible Token. Mit anderen Worten haben sie eine Eigenschaft, die jeden Token genau gleich (in Typ und Wert) wie einen anderen Token macht. Es bietet Funktionen wie das Übertragen von Token von einem Konto auf ein anderes, das Abrufen des aktuellen Token-Guthabens eines Kontos und auch den Gesamtvorrat der im Netzwerk verfügbaren Token. Daneben gibt es noch einige andere Funktionen, wie z.B. die Freigabe einer bestimmten Menge an Token, die von einem Drittanbieterkonto ausgegeben werden können. Weitere Informationen findest du [hier](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Ein freier, offener Standard, der beschreibt, wie man nicht-fungible oder einzigartige Token auf der Ethereum Blockchain baut. Während die meisten Token fungibel sind (jeder Token ist derselbe wie jeder andere Token), sind ERC-721 Token alle einzigartig.
 
-Think of them like rare, one-of-a-kind collectables.
+Stell sie dir wie seltene, einzigartige Sammlerstücke vor.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Eine ausführliche Erklärung, was der ERC-721 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 ist eine Erweiterung des [ERC-721](/glossary#erc-721) Standards, der die Fähigkeit für [nicht-fungible Token](/glossary#nft) hinzufügt, andere nicht-fungible Token und ERC-20 Tokens zu besitzen.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Nicht-fungible Token, die ERC998 implementieren, implementieren auch den ERC-721 Standard.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Netzwerk
-Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
+### Matic Network
+Das Matic Network ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
 
-To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+Um Tokens vom Ethereum Mainnet zum Matic Network zu migrieren, lies bitte diese [Anleitung](/matic).
 
-Read more about Matic Network [here](https://matic.network/).
+Lies mehr über das Matic Network [hier](https://matic.network/).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
 
 
-### Non-Fungible Token
+### Nicht-fungible Token
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) ist eine Art Konsens-Mechanismus, den Blockchains nutzen können, um sich auf einen einzigen wahren, historischen Datensatz zu einigen. In einer PoS Blockchain setzen Validators Stakes ein, um die Existenz von Blöcken zu bestätigen (oder zu "validieren").
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validators sind die Teilnehmer im Netzwerk, die Nodes (sogenannte Validator Nodes) betreiben, um Blöcke auf einer PoS Blockchain vorzuschlagen und zu bestätigen. Sie tun dies, indem sie Krypto (im Fall von Ethereum 2.0, ETH) im Netzwerk staken und sich zur Verfügung stellen, um zufällig ausgewählt zu werden und einen Block vorzuschlagen. Andere Validators "bescheinigen" dann, dass sie den Block gesehen haben. Wenn eine ausreichende Anzahl von Bescheinigungen für den Block gesammelt wurde, wird der Block zur Blockchain hinzugefügt. Validators erhalten Belohnungen sowohl für das erfolgreiche Vorschlagen von Blöcken (genau wie bei PoW) als auch für die Bescheinigung von Blöcken, die sie gesehen haben.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
