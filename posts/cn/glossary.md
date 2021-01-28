@@ -32,27 +32,29 @@ contributors:
 <p><a href=#wearables>可穿戴装备</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
-<p><a href=#collateral>抵押品</a></p>
+<p><a href=#atokens>aTokens</a></p>
+<p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>快速贷款</a></p>
-<p><a href=#impermanent-loss>无常损失</a></p>
-<p><a href=#liquidity-pools>流动资金池</a></p>
-<p><a href=#oracles>预言机</a></p>
-<p><a href=#smart-contracts>智能合约</a></p>
-<p><a href=#staking>质押</a></p>
-<p><a href=#yield-farming>产量农业</a></p>
+<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#impermanent-loss>Impermanent Loss</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#matokens>maTokens</a></p>
+<p><a href=#oracles>Oracles</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#staking>Staking</a></p>
+<p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>一般术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell曲线</a></p>
-<p><a href=#diamond-standard>钻石标准</a></p>
+<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic 网络</a></p>
+<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>非同质化代币 (NFT)</a></p>
+<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 </ol>
 
@@ -90,141 +92,145 @@ Aavegotchi穿的衣服/设备。 它们符合ERC-1155标准。
 ### APY
 APY代表年收益率。 这是您存入协议的储蓄所赚取的实际收益率，同时考虑了加息的影响。
 
+### aTokens
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+
+### Collateral
+Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
-### 抵押品
-抵押是一个非常简单的概念。 它是指您从放款人那里借钱时可能放下的一种资产，作为对放款人的担保。 如果您无法偿还贷款，您的抵押品将用于偿还债务。
+In the context of DeFi, this is how things might look:
 
 
-在DeFi的情况下，情况可能如下所示：
+Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
-
-假设您想从协议中借用一些资产。 为了做到这一点，您需要将其他资产的一部分设置为抵押品。 如果您不偿还贷款，协议将不会释放您的抵押回给您。
-
-在Aavegotchi元宇宙中，抵押物也称为 [灵魂力](/glossary#spirit-force).
+In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-代表分散式自动初始代币发行。 分权式自治初步合作项目是一种新的筹资方法，旨在将分权自治组织的最佳特点与首次合作提供的特点结合起来，以便建立一个能够提高象征性销售筹资模式效力的结构。 投资管理处是一种模式，一旦筹款结束，投资者就可以控制所募集的资金。 投资者可以影响开发者如何获得资金，以及通过一个“tap”机制的频率。 此外，投资者也可以投票取消该项目，并将资金退还。
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. 投资管理处是一种模式，一旦筹款结束，投资者就可以控制所募集的资金。 投资者可以影响开发者如何获得资金，以及通过一个“tap”机制的频率。 此外，投资者也可以投票取消该项目，并将资金退还。
 
 ### DAO
-称为分散式自治组织。 这些组织是受由智能合约编码并受其成员控制的规则约束的组织。 这与传统的组织模型相反，传统的组织模型通常倾向于由一小部分权威人士来管理。
+Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
 
-在AavegotchiDAO范围内， 这意味着生态系统成员将能够提出影响大生态系统如何运作的建议并就此进行表决。 例如，成员们可以提议随着时间的推移增加传送门的数量。 除其他特点外，她们感到有助于改善社区。
+In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
 
-关于DAO更详细的解释，请参阅 [此页面](https://blockchainhub.net/dao-decentralized-autonomous-organization/)。
+For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
 ### DEX
-去中心化交易所。 这种平台允许用户在智能合约的帮助下以对等方式处理交易，通过用户自己的钱包获取代币。 这与CEX(中心化交易所) 的运作方式相反，CEX是通过中间商(CEX本身) 运作的。
+Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
 
-DEXs的一些例子包括UniSwap、Mesa和Balancer。
+Some examples of DEXs include UniSwap, Mesa and Balancer.
 
 
-CEX的一些例子包括Binance、Coinbase和OKex。
+Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### 闪电贷
-记得我们上面提到的关于贷款和担保的内容？ 好吧，快速贷款是一种解决抵押贷款需求的形式。 但是，有一个陷阱。
+### Flash Loans
+Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
-紧急贷款必须在相同的交易区内偿还。
+The flash loan has to be repaid within the same transaction block.
 
-如果不发生这种情况，整个交易将被逆转以有效撤销执行到那个点的操作。 您可以在这里阅读更多关于 Flash 贷款 [的信息](https://aave.com/flash-loans/)。
-
-
-
-### 无常损失
-当您向集合提供流动资金时发生永久性损失(见 [流动资金池](/glossary#liquidity-pools))， 和您交存的资产的价格与您交存它们的时候相比有变化。 如果您想要在某个时候提取您的资产，这将造成损失。 价格已从您首次交存时开始下降。 这会导致提取时美元价值降低。
+If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
 
 
 
-### 流动资金池
-这个词有点不言自明。 这些是在智能合约中锁定的代币池。 反过来，它们又被用来通过提供流动资金来促进贸易。
-
-
-关于这些条款的更详细细分，请参阅Finematics的 [指南](https://finematics.com/liquidity-pools-explained/)。
+### Impermanent Loss
+Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
-### 预言机
-为了执行智能合同，需要满足某些条件。 关于这些条件存在的信息需要输入合同上的区块链。 这是因为区块链通常无法随时获取链外的信息。 这正是需要预言机的地方。 这些实体提供了启动智能合同所必需的数据。
+### Liquidity Pools
+The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+
+
+For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+
+### maTokens
+maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
+
+For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
+
+### Oracles
+In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
-### 智能合约
-一般说来， 智能合同是一项自动执行合同，合同使用者之间的“协议条款”直接写入合同本身的代码。 当这些预定条款和某些条件得到满足时，合同即予执行。
+### Smart Contracts
+Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
 
-### 质押
-预订加密货币主要意味着持有该货币，帮助验证交易和支持网络。 作为交换条件，利益攸关者通常得到某种奖励。 例如在Aavegotchi世界 $GHST 质押被奖励为免费奖励(点数)，他们可以用来购买奖券并在定期评级中赢得奖品。
+### Staking
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
 
 
 
-### 产量农业
-简单地说，收益式耕作是一种允许用户通过将其资产存入某一协议来赚取报酬的做法。
+### Yield Farming
+Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
-这种情况可以各种方式发生，但最常见的机制是存款人/借款人从协议中赚取硬币。 简单地将他们的 ERC-20 令牌和/或稳定的硬币放置在其平台上。 通常，这些奖励用于鼓励潜在的存款人和借款人在某个平台上增加流动资金。
+This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
 ## 一般术语
 
 ### Aragon
-Aragon是一个开放源码社区驱动的项目，其任务是通过创造工具使分散的组织能够兴旺发展来增强自由。
+Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
 
-该项目的旗舰产品是Aragon客户，这是在Etherum创建和参与分散的组织的工具。 该项目还正在建设Aragon网络，这是世界上第一个数字管辖区。
+The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
 
-Aragon项目由设在瑞士祖格的非营利实体Aragon协会管理，Aragon网络Token持有人管理。
+The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
 
-在这里查看他们的 [站点](https://aragon.org/)。
+Check out their [site](https://aragon.org/) here.
 
-### Bell曲线
-钟形曲线是一个变量的一种常见的分布类型，也称为正常分布。 “钟曲线”一词源于用来描绘正常分布情况的图形由对称钟形曲线构成这一事实。 更多信息请参阅此 [页面](https://www.investopedia.com/terms/b/bell-curve.asp)。
+### Bell Curve
+A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
-### 钻石标准
-钻石标准是由我们自己的 [Nick Mudge](/team#nick-mudge) 创建的。 钻石标准使人们能够以模块化和天然气效率的方式编写几乎没有大小限制的合同。
+### Diamond Standard
+The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
-Diamond可以即时升级，而无需重新部署现有功能。
+Diamonds can be upgraded on the fly without having to redeploy existing functionality.
 
-使合同接口和钻石的实施细节标准化，使软件一体化和互操作性成为可能。
+Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
 
-钻石是执行这一标准中的规格的合同。
+A diamond is a contract that implements the Specification in this standard.
 
-更多信息请参阅此 [页面](https://eips.ethereum.org/EIPS/eip-2535)。
+See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
 
 ### ERC-20
-可替代令牌的令牌标准，换句话说，它们具有使每个令牌与另一个令牌完全相同（在类型和值上）的属性。 它提供了一些功能，例如将令牌从一个帐户转移到另一个帐户，获取帐户的当前令牌余额以及网络上可用令牌的总供应量。 除此之外，它还具有其他功能，例如批准可由第三方帐户使用的令牌数量。 更多信息请参阅此 [页面](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)。
+A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
 
 ### ERC-721
-一个自由开放的标准，描述如何在以太坊区块链上构建不可互换或独特的代币。 虽然大多数令牌都是可互换的 (每个令牌都与其他令牌相同)，ERC-721 令牌都是唯一的。
+A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
-将它们看成是罕见的、一种类型的收藏品。
+Think of them like rare, one-of-a-kind collectables.
 
-要全面解释ERC-721标准的含义，请在这里查看 [](https://eips.ethereum.org/EIPS/eip-721)。
+For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998是 [ERC-721](/glossary#erc-721) 标准的延伸，它增加了 [不可替代代币](/glossary#nft) 拥有其他不可替代代币和 ERC-20 代币的能力。
+ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
 
-实施ERC998的不可替代代币也实施ERC-721标准。
+Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
-要全面解释ERC-998标准的含义，请在这里查看 [](https://eips.ethereum.org/EIPS/eip-998)。
+For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic 网络
-Matic Network是公共区块链的扩展解决方案。 基于调整后的 Plasma 框架 (Plasma MoreVP) 的实现情况，并以账户为基础实现， Matic 支持所有现有的Etherum工具以及更快和更便宜的交易。
+### Matic Network
+Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
 To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
 
 Read more about Matic Network [here](https://matic.network/).
 
-### 元宇宙
+### Metaverse
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
 Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
-### 非同质化代币 (NFT）
+### Non-Fungible Token
 
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 

@@ -20,6 +20,8 @@ contributors:
 
 Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
 
+For information on **Wearable Sets**, check out this [page](/sets)!
+
 <div class="contentsBox">
 
 **内容**

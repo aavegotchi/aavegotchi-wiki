@@ -30,9 +30,10 @@ contributors:
 <p><a href=#what-can-i-do-now->现在你能做什么？</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->我需要 KYC 来玩Aavegotchi 或拥有GHST 令牌吗？</a></p>
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->Aave需要和 Aavegotchi 做什么？</a></p>
+<p><a href=#what-are-matokens->What are maTokens?</a></p>
 <li><a href=#bonding-curve-faq>联合曲线</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>我购买了GHST，但我在我的钱包里看不到它</a></p>
-<p><a href=#can-people-frontrun-the-bonding-curve->人们能越过这条联合曲线吗?</a></p>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
+<p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
 <li><a href=#frens-faq>FRENS FAQ</a></li>
 <p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
@@ -112,15 +113,18 @@ Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重
 
 Aavegotchi首先获得了Aave生态系统补助金，授权他使用Aave幽灵标识。 Aavegotchi游戏包含了使用 [aTokens](/atokens) 作为游戏中心元素的游戏，到2020年11月。 Aave也是Aavegotchi背后的 Pixelcraft Studios [官方投资者](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 
+### What are maTokens?
+maTokens are aTokens which have been transferred to the Matic Network. Like aTokens, they accrue interest over time!
+
 ## 联合曲线
 
-### 我购买了GHST，但我在我的钱包里看不到它
-在连接曲线上购买后，您需要进行另一笔交易才能认领GHST 代币。 请参阅下面的屏幕截图。 用户必须单击"CLAIM ORDER"按钮才能让GHST 代币出现在他们的钱包。
+### I bought GHST but I can't see it in my wallet
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### 人们能越过这条联合曲线吗?
-不 当您在绑定曲线上购买/销售GHST令牌时， 在发送到智能合同之前，交易与其他人的交易被分批处理。 他们无法以较高的煤气费投标较低的GHST价格来掩盖您的购买。
+### Can people frontrun the Bonding Curve?
+不 When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## FRENS FAQ
 
@@ -212,7 +216,7 @@ All elements of the Aavegotchi game are [stored on the Ethereum blockchain](http
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Yes! Aavegotchi uses [Matic](https://matic.network/) as a Layer 2 solution. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Do I need to migrate my Aave tokens?
 

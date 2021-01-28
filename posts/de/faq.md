@@ -30,6 +30,7 @@ contributors:
 <p><a href=#what-can-i-do-now->Was kann ich aktuell tun?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Brauche ich KYC, um Aavegotchi zu spielen oder GHST Tokens zu kaufen?</a></p>
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->Was hat Aave mit Aavegotchi zu tun?</a></p>
+<p><a href=#what-are-matokens->Was sind maTokens?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Ich habe GHST gekauft, aber kann es nicht in meinem Wallet sehen</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ist Front-Running bei der Bonding Curve möglich?</a></p>
@@ -111,6 +112,9 @@ Nein! Du musst KYC nur machen, wenn du GHST direkt von der <a href="https://wiki
 ### Was hat Aave mit Aavegotchi zu tun?
 
 Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlaubnis zur Verwendung des Aave-Logos. Das Aavegotchi Spiel integriert die Verwendung von [aTokens](/atokens) als zentrales Element des Gameplays, und seit November 2020 ist Aave auch ein [offizieller Investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, dem Team hinter Aavegotchi.
+
+### Was sind maTokens?
+maTokens sind aTokens, die auf das Matic Network übertragen wurden. Wie aTokens generieren sie mit der Zeit Zinsen!
 
 ## Bonding Curve FAQ
 
@@ -212,7 +216,7 @@ Alle Elemente des Aavegotchi-Spiels sind [auf der Ethereum-Blockchain](https://t
 
 ### Wird Aavegotchi auf Layer 2 laufen?
 
-Ja! Aavegotchi plant den Einsatz von [Matic](https://matic.network/) als Layer 2 Lösung, die bereits bald nach dem Launch integriert wird. Das Team hat sich für Matic entschieden, da sie starke Entwickler haben, Fortschritte bei der Dezentralisierung erzielen konnten und einen starken Netzwerkeffekt mit anderen NFT-Plattformen wie OpenSea aufweisen.
+Ja! Aavegotchi verwendet [Matic](https://matic.network/) als Layer 2 Lösung. Das Team hat sich für Matic entschieden, da sie starke Entwickler haben, Fortschritte bei der Dezentralisierung erzielen konnten und einen starken Netzwerkeffekt mit anderen NFT-Plattformen wie OpenSea aufweisen.
 
 ### Muss ich meine Aave Tokens migrieren?
 

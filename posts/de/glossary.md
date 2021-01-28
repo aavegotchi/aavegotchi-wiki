@@ -32,6 +32,7 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#wearables>Kleidungsstücke</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
+<p><a href=#atokens>aTokens</a></p>
 <p><a href=#collateral>Sicherheiten/Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
@@ -39,6 +40,7 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
 <p><a href=#liquidity-pools>Liquiditätspools</a></p>
+<p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
@@ -50,7 +52,7 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
+<p><a href=#matic-network>Matic Netzwerk</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Nicht-fungibler Token (NFT)</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
@@ -90,7 +92,8 @@ Zum Zeitpunkt der Erstellung dieses Artikels (5. Dezember 2020) liegt der Gesamt
 ### APY
 APY steht für Annual Percentage Yield. Dies ist die reale Rendite, die du auf deine Ersparnisse, die du in ein Protokoll eingezahlt hast, erhältst. Dabei wird der Effekt des Zinseszinses berücksichtigt.
 
-
+### aTokens
+aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com/). Eine Schritt-für-Schritt-Anleitung, wie du aTokens bekommst, findest du auf unserer [aTokens](/atokens) Seite.
 
 ### Sicherheiten/Collateral
 Sicherheiten sind ein ziemlich simples Konzept. Es bezieht sich auf einen Vermögenswert, den du als Garantie für einen Kreditgeber hinterlegen kannst, wenn du dir Geld von ihm leihst. Wenn du deinen Kredit nicht zurückzahlen kannst, werden deine Sicherheiten verwendet, um die Schulden zu begleichen.
@@ -145,7 +148,10 @@ Der Begriff ist einigermassen selbsterklärend. Dies sind Pools von Tokens, die 
 
 Für eine detailliertere Erklärung dieser Begriffe, schau dir den [Guide](https://finematics.com/liquidity-pools-explained/) von Finematics an.
 
+### maTokens
+maTokens sind [aTokens](/glossary#atokens) auf dem Matic Network. Sie wurden von [Nick Mudge](/team#nick-mudge) entwickelt.
 
+Eine Schritt-für-Schritt-Anleitung, wie du aTokens auf dem Ethereum Mainnet in maTokens auf dem Matic Network umwandelst, findest du in dieser [maTokens](/matokens) Anleitung.
 
 ### Oracles
 Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen erfüllt sein. Informationen über das Vorhandensein dieser Bedingungen müssen in die Blockchain eingespeist werden, auf der sich der Contract befindet. Das liegt daran, dass Blockchains typischerweise keinen direkten Zugang zu Informationen ausserhalb der Chain haben. An dieser Stelle kommen Oracles ins Spiel. Diese Einheiten liefern die notwendigen Daten, um Smart Contracts auszulösen.
@@ -213,28 +219,28 @@ Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [
 ### Matic Network
 Das Matic Network ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
 
-To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+Um Tokens vom Ethereum Mainnet zum Matic Network zu migrieren, lies bitte diese [Anleitung](/matic).
 
-Read more about Matic Network [here](https://matic.network/).
+Lies mehr über das Matic Network [hier](https://matic.network/).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
 
 
-### Nicht-fungibler Token
+### Nicht-fungible Token
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) ist eine Art Konsens-Mechanismus, den Blockchains nutzen können, um sich auf einen einzigen wahren, historischen Datensatz zu einigen. In einer PoS Blockchain setzen Validators Stakes ein, um die Existenz von Blöcken zu bestätigen (oder zu "validieren").
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validators sind die Teilnehmer im Netzwerk, die Nodes (sogenannte Validator Nodes) betreiben, um Blöcke auf einer PoS Blockchain vorzuschlagen und zu bestätigen. Sie tun dies, indem sie Krypto (im Fall von Ethereum 2.0, ETH) im Netzwerk staken und sich zur Verfügung stellen, um zufällig ausgewählt zu werden und einen Block vorzuschlagen. Andere Validators "bescheinigen" dann, dass sie den Block gesehen haben. Wenn eine ausreichende Anzahl von Bescheinigungen für den Block gesammelt wurde, wird der Block zur Blockchain hinzugefügt. Validators erhalten Belohnungen sowohl für das erfolgreiche Vorschlagen von Blöcken (genau wie bei PoW) als auch für die Bescheinigung von Blöcken, die sie gesehen haben.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 

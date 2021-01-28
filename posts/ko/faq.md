@@ -30,6 +30,7 @@ contributors:
 <p><a href=#what-can-i-do-now->What can I do now?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
+<p><a href=#what-are-matokens->What are maTokens?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -113,6 +114,9 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
 ### What does Aave have to do with Aavegotchi?
 
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+
+### What are maTokens?
+maTokens are aTokens which have been transferred to the Matic Network. Like aTokens, they accrue interest over time!
 
 ## Bonding Curve FAQ
 
@@ -214,7 +218,7 @@ All elements of the Aavegotchi game are [stored on the Ethereum blockchain](http
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi plans to use [Matic](https://matic.network/) as a Layer 2 solution, integrated shortly after launch. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Yes! Aavegotchi uses [Matic](https://matic.network/) as a Layer 2 solution. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Do I need to migrate my Aave tokens?
 
