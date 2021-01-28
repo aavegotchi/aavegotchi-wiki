@@ -28,7 +28,7 @@ Trong Aavegotchi, thuật ngữ "Spirit Force", "Collateral", và "aToken" có c
 <li><a href=#stablecoins>Stablecoin</a></li>
 <li><a href=#cryptocurrencies>Tiền mã hoá</a></li>
 <li><a href=#getting-atokens>Sở hữu aToken</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Stake aToken vào Aavegotchi</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
