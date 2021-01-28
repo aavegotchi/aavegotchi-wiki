@@ -33,13 +33,13 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Sicherheiten/Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#liquidity-pools>Liquiditätspools</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
@@ -95,7 +95,7 @@ APY steht für Annual Percentage Yield. Dies ist die reale Rendite, die du auf d
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Collateral
+### Sicherheiten/Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -142,7 +142,7 @@ Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Poo
 
 
 
-### Liquidity Pools
+### Liquiditätspools
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
