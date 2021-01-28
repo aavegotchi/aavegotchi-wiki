@@ -213,6 +213,8 @@ For a full explanation of what the ERC-998 standard entails, check it out [here]
 ### Matic Network
 Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
+To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+
 Read more about Matic Network [here](https://matic.network/).
 
 ### Metaverse
