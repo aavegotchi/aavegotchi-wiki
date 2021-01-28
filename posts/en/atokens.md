@@ -27,7 +27,7 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the sa
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Staking aTokens into Aavegotchis</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
