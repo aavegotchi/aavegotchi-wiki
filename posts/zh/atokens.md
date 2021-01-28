@@ -28,7 +28,7 @@ aTokens 是來自 [Aave 協議](https://aave.com) 的計息令牌。 它們在�
 <li><a href=#stablecoins>穩定幣</a></li>
 <li><a href=#cryptocurrencies>密碼貨幣</a></li>
 <li><a href=#getting-atokens>取得 aToken</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>在 Aavegotchi 中抵押 aToken</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
