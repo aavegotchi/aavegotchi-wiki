@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: 'Alles über Aavegotchi maTokens'
 contributors:
   - "unintelligent-nerd"
 ---
