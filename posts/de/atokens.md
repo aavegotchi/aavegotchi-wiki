@@ -17,7 +17,7 @@ aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com). Sie we
 
 Inwiefern sind aTokens also relevant für Aavegotchi? Jedes Aavegotchi muss durch ein [Portal](/pages/portals) beschwört und mit einem aToken besichert werden, bevor es zum Leben erweckt wird! Keine Ausnahmen! Deshalb brauchst du aTokens und diese Seite wird dir hilfreiche Informationen darüber geben, welche aTokens es gibt und wie du sie bekommst.
 
-When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+Als Aavegotchi vom Ethereum Mainnet auf das [Matic Network](/glossary#matic-network) verschoben wurde, mussten diese aTokens auch auf dem Matic Network verfügbar sein. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
 
 From a gamer's standpoint, playing Aavegotchi involves:
 
