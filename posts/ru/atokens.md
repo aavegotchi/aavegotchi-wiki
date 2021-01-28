@@ -28,7 +28,7 @@ aTokens — приносящий процентный доход токен пл
 <li><a href=#stablecoins>Стейблкоины</a></li>
 <li><a href=#cryptocurrencies>Криптовалюты</a></li>
 <li><a href=#getting-atokens>Получение aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Стейкинг aTokens внутри Aavegotchi</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
