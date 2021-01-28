@@ -213,26 +213,28 @@ Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [
 ### Matic Network
 Das Matic Network ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
 
-Lies mehr über das Matic Network [hier](https://matic.network/).
+To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+
+Read more about Matic Network [here](https://matic.network/).
 
 ### Metaverse
 
-Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
 ### Nicht-fungibler Token
 
-Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
 ### Proof of Stake
 
-Proof of Stake (PoS) ist eine Art Konsens-Mechanismus, den Blockchains nutzen können, um sich auf einen einzigen wahren, historischen Datensatz zu einigen. In einer PoS Blockchain setzen Validators Stakes ein, um die Existenz von Blöcken zu bestätigen (oder zu "validieren").
+Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
 
-Validators sind die Teilnehmer im Netzwerk, die Nodes (sogenannte Validator Nodes) betreiben, um Blöcke auf einer PoS Blockchain vorzuschlagen und zu bestätigen. Sie tun dies, indem sie Krypto (im Fall von Ethereum 2.0, ETH) im Netzwerk staken und sich zur Verfügung stellen, um zufällig ausgewählt zu werden und einen Block vorzuschlagen. Andere Validators "bescheinigen" dann, dass sie den Block gesehen haben. Wenn eine ausreichende Anzahl von Bescheinigungen für den Block gesammelt wurde, wird der Block zur Blockchain hinzugefügt. Validators erhalten Belohnungen sowohl für das erfolgreiche Vorschlagen von Blöcken (genau wie bei PoW) als auch für die Bescheinigung von Blöcken, die sie gesehen haben.
+Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
 
-Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 

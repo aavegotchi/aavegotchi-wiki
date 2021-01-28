@@ -17,7 +17,17 @@ aTokens — приносящий процентный доход токен пл
 
 Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [portal](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
 
-В Aavegotchi термины "Сила духа", "Обеспечение" и aTokens имеют одинаковое значение.
+When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+
+From a gamer's standpoint, playing Aavegotchi involves:
+
+1. Getting some aTokens
+2. Converting aTokens to maTokens
+3. After opening a Portal, using maTokens as collateral to summon an Aavegotchi
+
+In this page, we will instruct you in the ways of the aTokens.
+
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
 <div class="contentsBox">
 
@@ -28,58 +38,54 @@ aTokens — приносящий процентный доход токен пл
 <li><a href=#stablecoins>Стейблкоины</a></li>
 <li><a href=#cryptocurrencies>Криптовалюты</a></li>
 <li><a href=#getting-atokens>Получение aTokens</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Стейкинг aTokens внутри Aavegotchi</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
 
 ## О токене
 
-Когда заемщик одалживает деньги у занимателя, aTokens зарабатывают для вас проценты в режиме реального времени, прямо на счет в кошельке! Серьезно, вы можете отслеживать рост вашего баланса каждую минуту.
+While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-aTokens классифицируются двумя категориями: (1) криптовалюты или (2) стейблкоины. Криптовалюты — это защищенные криптографически цифровые или виртуальные валюты. В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью компьютеров. Стейблкоины — класс криптовалют, которые стремятся предложить стабильность цен за счет привязки к базовому активу, например, к доллару США (USD). У каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
 
-В таблице ниже вы можете увидеть, какие токены [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (криптовалюты и стейблкоины) доступны в рамках протокола Aave. В столбце *Поддерживается Aavegotchi* вы можете увидеть, станет ли данный токен доступным для геймплея. Список поддерживаемых токенов обновляется. По запросу игроков будут проводится голосования в Twitter и в DAO, чтобы добавить больше поддерживаемых токенов в геймлей Aavegotchi.
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Стейблкоины
 
-таблица_стейблкоинов
+table_stablecoins
 
 ## Криптовалюты
 
-таблица_криптовалют
+table_cryptocurrencies
 
 ## Получение aTokens
 
-*Приводим пошаговую стратегию из гайда [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834), размещенного в блоге Aave на платформе Medium. Он воспроизведен здесь для вашего удобства.*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). Перейдите на <a href = "https://app.aave.com/">Aave Protocol</a>, чтобы начать!
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-2). Привяжите свой кошелек, выбрав один из нижеуказанных способов:
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Чтобы пользоваться всеми преимуществами протокола Aave Protocol, нужно иметь некоторую сумму цифровых активов. Список доступных активов размещен в секции <a href=#stablecoins>стейблкоинов</a> и <a href=#cryptocurrencies>криптовалют</a>.
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-Если у вас нет криптоактивов, можно обменять свою фиатную валюту (доллар, евро — то есть обычные деньги) на цифровой актив (как один из вышеперечисленных).
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-К вашему счастью, Aave недавно представили возможность купить криптовалюту прямо в приложении Aave Protocol! Например, Transak или Ramp Instant, где можно купить криптовалюту, заплатив со счета кредитной или дебетовой карты или сделав банковский перевод буквально за считаные минуты (смотрите ниже).
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Как только вы подключили кошелек к платформе, вы можете сделать депозит в Aave Protocol. При нажатии специальной кнопки “deposit”, в интерфейсе можно увидеть, какие криптовалюты есть у вас в кошельке, и выбрать подходящую для внесения депозита. Когда вы определились с валютой депозита, выставляете количество монет и вуаля, вы это сделали! *Примечание: сначала появится транзакция разрешения ("approve"), только потом пройдет транзакция зачисления. Это делается для предоставления разрешения депозитному контракту на использование именно этого выбранного вами актива.*
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-Как только будет сделан депозит, по нему вам будет начислена процентная ставка. А в кошельке сможете увидеть токены aToken.
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Стейкинг aTokens внутри Aavegotchi
+## Converting aTokens into maTokens
 
-Окей, я заполучил несколько aTokens. Что дальше?
+Got your aTokens? Good!
 
-Отличная работа, френ.
-
-Следующим шагом будет покупка [портала](/portals) с помощью [GHST](/ghst). Порталы можно купить в приложении Aavegotchi (ссылка появится при запуске) или на [Вторичных Рынках](/marketplace), таких как Opensea. Как только вы заполучили драгоценный портал, пора начинать процедуру призыва. При открытии портала вы увидите 10 Gotchi, каждый из которых потребует случайное количество aToken в обеспечение. Здесь и вступает в игру полученный вами aToken. Стейкайте токены в Gotchi с тем же самым типом обеспечения и вдохните жизнь в своего френа!
-
-Для детальной информации о процессе открытия портала посетите страницу [порталы](/portals).
+Let's head over to the [maTokens](/matokens) page for Step 2!
