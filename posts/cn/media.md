@@ -11,6 +11,8 @@ contributors:
 
 朋友, 我们也有自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)
 
+### Our Malaysian Aambassador Buzz Lightyear / Jason Chew shares with DeFi Singapore about Aavegotchi Farming and NFTs! (27 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ8XH5sldhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6--GY-5yWy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/RbVr_we7cgE?start=35946" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>

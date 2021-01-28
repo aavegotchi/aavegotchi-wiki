@@ -213,20 +213,22 @@ ERC-998是 [ERC-721](/glossary#erc-721) 标准的延伸，它增加了 [不可�
 ### Matic 网络
 Matic Network是公共区块链的扩展解决方案。 基于调整后的 Plasma 框架 (Plasma MoreVP) 的实现情况，并以账户为基础实现， Matic 支持所有现有的Etherum工具以及更快和更便宜的交易。
 
-在这里阅读更多关于Matic Network [的信息](https://matic.network/)。
+To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+
+Read more about Matic Network [here](https://matic.network/).
 
 ### 元宇宙
 
-元宇宙是一个虚拟的世界，您可以在其中与世界本身（例如游戏或商店）的各个方面以及其他用户进行交互。
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-一些元宇宙的例子包括 <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> 以及诸如第二生命和权力下放等项目。
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
 ### 非同质化代币 (NFT）
 
-非同质化令牌 (NFT) 是一种特殊类型的加密令牌，它代表了某种 **独特的**， 意思是它不能换取任何其它标记。 非同质化代币通常代表对类物品的所有权，如装备、艺术作品或任何其他类型的财产。
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-不可替代令牌的**反面 ** 是可以交换任何其他同类令牌的令牌，例如USDC或比特币。 可兑换1:1的代币是可替代代币。
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
 ### Proof of Stake
 
