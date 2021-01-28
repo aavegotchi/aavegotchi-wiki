@@ -17,7 +17,17 @@ aToken은 [Aave](https://aave.com) Protocol에서 만든 '이자가 붙는' 토�
 
 그럼 aToken은 아베고치와 어떤 관련이 있을까요? 모든 아베고치는 생명이 부여되기 전에 aToken을 통해 가치를 확인받아야 하며 [포탈](/pages/portals)을 통해 소환되어져야 합니다. 예외는 없습니다! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", and "aTokens" mean the same thing.
+When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+
+From a gamer's standpoint, playing Aavegotchi involves:
+
+1. Getting some aTokens
+2. Converting aTokens to maTokens
+3. After opening a Portal, using maTokens as collateral to summon an Aavegotchi
+
+In this page, we will instruct you in the ways of the aTokens.
+
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
 <div class="contentsBox">
 
@@ -74,12 +84,8 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Staking aTokens into Aavegotchis
+## Converting aTokens into maTokens
 
-Okay, I've gotten myself some aTokens. What now?
+Got your aTokens? Good!
 
-Good work fren.
-
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required aToken/collateral. Here's where the aToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
-
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Let's head over to the [maTokens](/matokens) page for Step 2!
