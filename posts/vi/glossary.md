@@ -213,26 +213,28 @@ Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998,
 ### Matic Network
 Matic Network là một giải pháp mở rộng cho các blockchain công khai. Dựa trên công nghệ framework Plasma (Plasma MoreVP), với phương thức triển khai dựa trên tài khoản, Matic hỗ trợ tất cả các công cụ dành cho Ethereum đang tồn tại với những giao dịch nhanh và rẻ hơn.
 
-Đọc thêm về Matic Network tại [đây](https://matic.network/).
+To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
+
+Read more about Matic Network [here](https://matic.network/).
 
 ### Metaverse
 
-Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
 
 ### Non-Fungible Token (NFT)
 
-Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại diện cho một thứ gì đó **độc đáo**, nghĩa là nó không thể được dùng để swap sang bất kỳ loại token nào. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
 ### Proof of Stake
 
-Proof of Stake (PoS) là một loại cơ chế đồng thuận mà các blockchain có thể dùng để cùng nhau chập thuận duy nhất một bản gi dữ liệu lịch sử đúng sự thật. Trong một blockchain PoS, validator thực hiện stake tài sản để chứng thực (hay xác thực) sự tồn tại của những block (khối giao dịch).
+Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
 
-Validator là những người tham gia vào mạng lưới những người chạy các node (được gọi là validators nodes) để đề nghị và chứng thực những khối giao dịch nằm trên mọt blockchain PoS. Họ thực hiện công việc này bằng các stake tiền điện tử (trong trường hợp của Ethereum 2.0, ETH) trên mạng lưới và khiến chúng có thể được ngẫu nhiên nhằm đề xuất một khối giao dịch. Những validator khác sau đó sẽ "chứng thực" rằng họ đã thấy khối giao dịch đó. Khi một số lượng lớn hoạt động chứng thực các khối giao dịch đã được ghi nhận, khối giao dịch đó sẽ được thêm vào blockchain. Validator nhận được phần thưởng khi đề xuất các khối giao dịch thành công (giống như cách hoạt động trong PoW) và khi chứng thực cho những khối giao dịch mà họ đã thấy.
+Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
 
-Đọc thêm về cơ chế đồng thuận Proof of Stake tại [đây](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
