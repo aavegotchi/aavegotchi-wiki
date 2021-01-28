@@ -28,7 +28,7 @@ Im Aavegotchi-Universum bedeuten die Begriffe "Spirit Force", "Sicherheit/Collat
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Kryptowährungen</a></li>
 <li><a href=#getting-atokens>aTokens bekommen</a></li>
-<li><a href=#staking-atokens-into-aavegotchis>Aavegotchis mit aTokens besichern</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 </ol>
 
 </div>
