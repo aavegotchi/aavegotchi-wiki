@@ -1,19 +1,19 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+title: '로드맵'
+description: '아베고치 로드맵'
 contributors:
   - "hackingmoneyph"
 ---
 
-Curious about what's in store for Aavegotchi? Here is the road(map) to mainnet!
+아베고치가 어떻게 나아가실 것인지 궁금하신가요? 이곳에서 메인넷을 향한 로드맵을 확인할 수 있습니다!
 
 The Aavegotchi team uses an iterative development flow built on upgradable contracts, allowing them to adapt based on feedback from the <a href="https://wiki.aavegotchi.com/community">community</a>. There will also be opportunities to participate for bug bounties. Once primary development is finished, the team will ensure that the contracts are audited.
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#q3-20>Q3 2020 </a></li>
