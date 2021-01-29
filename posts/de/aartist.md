@@ -5,7 +5,7 @@ title: 'Aavegotchi Aartists'
 description: 'Lerne unsere Aavegotchi Aartists hier kennen!'
 ---
 
-Weisst du, was groovy ist? Unsere Community Aartists! Get to know them (and their creations) here!
+Weisst du, was groovy ist? Unsere Community Aartists! Lern sie (und ihre Kreationen) hier kennen!
 
 <div class="contentsBox">
 
@@ -31,7 +31,7 @@ table_aartist
 
 ## Cawito
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Rasta Hat
 * Rasta Shirt
@@ -42,7 +42,7 @@ Designed the following wearables:
 
 ## Esveebee
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Portal Mage Helmet
 * Portal Mage Armor
@@ -51,26 +51,26 @@ Designed the following wearables:
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Handsaw
 
 ## Qurka
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Water Jug
 
 ## Rod
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Red Hawaiian Shirt
 * Blue Hawaiian Shirt
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Hazmat Hood
 * Hazmat Suit
@@ -78,13 +78,13 @@ Designed the following wearables:
 
 ## SnottySnake
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Coconut
 * Milkshake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+Hat die folgenden Kleidungsstücke entworfen:
 
 * Beer Helmet
