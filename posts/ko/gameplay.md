@@ -1,36 +1,36 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: '게임플레이'
+description: '아베고치 게임 플레이 소개'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+아베고치는 NFT와 DeFi를 융합시켜 다양한 요소들로 구성된 굉장히 독특한 게임플레이를 자랑합니다.
 
 <div class="contentsBox">
 
 ** 목차 **
 
 <ol>
-<li><a href=#ghst-token>GHST Token</a></li>
+<li><a href=#ghst-token>GHST 토큰</a></li>
 <li><a href=#portals>포털
 </a></li>
 <li><a href=#wearables>Wearables</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#rarity-farming>희귀도 파밍</a></li>
+<li><a href=#minigames>미니게임</a></li>
 </ol>
 
 </div>
 
-## GHST token
+## GHST 토큰
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+[GHST](https://wiki.aavegotchi.com/en/ghst)는 거버넌스 토큰이자 동시에 게임의 놀라운 부분들을 보여주는 아베고치 생태계의 근간입니다. GHST를 스테이킹하여 FRENS를 얻고 Raffle ticket으로 바꿀 수 있으며, GHST로 포탈, wearables 구매, 더 많은 GHST 얻기 등 다양한 활동을 할 수 있습니다.
 
-You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
+아베고치의 [ bonding curve ](https://wiki.aavegotchi.com/en/curve) 또는 여러분이 선호하는 거래소 중 하나를 통해 GHST를 얻을 수 있습니다.
 
 ## 포털
 
-A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+[포탈](https://wiki.aavegotchi.com/en/portals)은 아베고치를 저승으로부터 소환하고 게임을 플레이하기 위해 필요한 장비입니다. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
 
 You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
 
