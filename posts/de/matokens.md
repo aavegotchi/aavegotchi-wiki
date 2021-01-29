@@ -37,25 +37,25 @@ Nachdem du den Token ausgewählt hast, gibst du den Betrag ein, den du auf Matic
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Once you have keyed in the desired amount, click the "Approve Transfer" button. Wait for the transaction to go through on Ethereum.
+Sobald du den gewünschten Betrag eingegeben hast, klicke auf die Schaltfläche "Approve Transfer". Warte darauf, dass die Transaktion auf Ethereum durchgeführt wird.
 
-After the Approve transaction goes through, click the "Transfer to Matic" button. Wait for this transaction to go through on Ethereum as well.
+Nachdem die Transaktion genehmigt wurde, klicke auf die Schaltfläche "Transfer to Matic". Warte darauf, dass diese Transaktion auch auf Ethereum durchgeführt wird.
 
-After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
+Nachdem du das getan hast, warte etwa 10 Minuten, bis deine maTokens in deiner Wallet erscheinen.
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/matic) for step-by-step instructions as to how to do so.
+Wenn du Metamask verwendest und wissen möchtest, wie du Matic Network darauf konfigurierst, dann schau dir die [Matic Anleitung](/matic) an, um eine Schritt-für-Schritt-Anleitung zu erhalten.
 
 ## Aavegotchis mit maTokens besichern
 
-Okay, I've gotten myself some maTokens. What now?
+Okay, ich habe mir ein paar maTokens besorgt. Was nun?
 
-Good work fren.
+Gut gemacht!
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+Der nächste Schritt ist ein [Portal](/portale) mit [GHST](/ghst) zu kaufen. Portale können in der Aavegotchi dApp (Link wird beim Launch zur Verfügung gestellt) oder auf den [Sekundärmärkten](/marketplace) wie Opensea gekauft werden. Sobald du ein kostbares Portal in die Hände bekommen hast, ist es an der Zeit, den Beschwörungsprozess zu beginnen. Wenn du das Portal öffnest, werden dir 10 Gotchis präsentiert, jedes mit einem randomisierten, erforderlichen maToken. Hier kommen die maTokens ins Spiel, die du erworben hast. Hinterlege sie bei dem Gotchi, das den gleichen aToken-Typ hat und erwecke deinen neuen Freund zum Leben!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Für eine detailliertere Erklärung des Öffnungsprozesses eines Portals, besuche unsere Seite über [Portale](/portals).
 
-## Learn more
+## Weitere Informationen
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Matic Network as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* [Twitter Thread](https://twitter.com/mudgen/status/1352399348219445250) von [Nick Mudge](/team#nick-mudge) über seine erfolgreiche Migration von aTokens auf Matic Network als maTokens
+* Nick Mudge taucht ein in die [Technischen Details des maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
