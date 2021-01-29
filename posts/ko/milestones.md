@@ -167,22 +167,22 @@ contributors:
 ## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
 * Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+## [한정 판매 완료!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* 2020년 8월 20일 한정판매가 완료되었습니다!
+* 아베고치 [텔레그램 채널](https://t.me/aavegotchi)이 개설되었습니다!
+* [공식 백서](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)가 발행되었습니다!
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Aaprentice들의 참여!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* 2020년 8월 13일 Shadowcrypto, Vanildaelphi.eth, hackingmoneyph, 그리고 Unintelligent_nerd가 아베고치 Aapprentices로 여정에 함께하게 되었습니다!
+* 이로써 아베고치의 기여자들(Aagent)은 120명이 넘을 정도로 강력해졌습니다!
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown의 합류와 아베고치 Mission 발표](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* 2020년 7월 29일 JC Crown이 아베고치 팀에 합류하였습니다!
+* 동일한 날짜에 아베고치 Mission이 발표되었습니다!
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge의 합류](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* 2020년 7월 22일 Nick Mudge가 팀에 합류했습니다. (Nick Mudge는 Matic Network로의 이전에 기여하였습니다)
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [미디엄에서의 첫 포스트](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* 2020년 7월 14일, 미디엄에서 아베고치의 첫 포스트 발행!
+* Xibot의 아베고치 팀 합류!
