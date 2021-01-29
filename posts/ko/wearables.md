@@ -24,7 +24,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#key>Key</a></li>
