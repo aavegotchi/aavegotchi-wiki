@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-What do you get when you take those interest-bearing aTokens and put them on the Matic Network? Why you get maTokens, of course!
+Was bekommst du, wenn du diese verzinslichen aTokens nimmst und sie auf das Matic Network überträgst? Natürlich bekommst du maTokens!
 
-This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
+Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir uns einige aTokens besorgt. Jetzt sind wir daran interessiert, sie in maTokens umzuwandeln und sie als Sicherheit zu benutzen, um unsere Aavegotchis zu beschwören!
 
 <div class="contentsBox">
 
@@ -17,7 +17,7 @@ This page is a continuation of the [aTokens](/atokens) page. Previously, we have
 
 <ol>
 <li><a href=#converting-atokens-into-matokens>Konvertieren von aTokens zu maTokens</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Aavegotchis mit maTokens besichern</a></li>
 <li><a href=#learn-more>Weitere Infos</a></li>
 </ol>
 
@@ -25,15 +25,15 @@ This page is a continuation of the [aTokens](/atokens) page. Previously, we have
 
 ## Konvertieren von aTokens zu maTokens
 
-First, head over to the [Bridge to Matic](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
+Gehe zuerst auf die [Brücke zu Matic](https://aavegotchi.com/bridge) in der Aavegotchi dApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens. At this moment, only three aTokens are supported: (1) aUSDC, (2) aDAI, and (3) aWETH.
+Als nächstes klickst du auf das Token-Bild (unten rot eingekreist), um ein Dropdown-Menü mit Tokens zu öffnen. Im Moment werden nur drei aTokens unterstützt: (1) aUSDC, (2) aDAI, und (3) aWETH.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-After selecting the token, key in the amount you want to transfer to Matic. Using aUSDC as an example, key in the amount you would like to transfer to Matic Network in the box highlighted in red.
+Nachdem du den Token ausgewählt hast, gibst du den Betrag ein, den du auf Matic überweisen möchtest. Nehmen wir aUSDC als Beispiel: Gib in das rot markierte Feld den Betrag ein, den du auf das Matic Network übertragen möchtest.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
@@ -45,7 +45,7 @@ After you have done that, give it 10 minutes or so for your maTokens to appear i
 
 If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/matic) for step-by-step instructions as to how to do so.
 
-## Staking maTokens into Aavegotchis
+## Aavegotchis mit maTokens besichern
 
 Okay, I've gotten myself some maTokens. What now?
 
