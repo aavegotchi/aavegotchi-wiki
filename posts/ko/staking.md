@@ -24,7 +24,7 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#purchasing-ghst>Purchasing GHST</a></li>

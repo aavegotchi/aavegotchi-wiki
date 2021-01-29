@@ -16,14 +16,14 @@ This page is a continuation of the [aTokens](/atokens) page. Previously, we have
 **内容**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>將 aTokens 轉換成 maTokens</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
 
-## Converting aTokens into maTokens
+## 將 aTokens 轉換成 maTokens
 
 First, head over to the [Bridge to Matic](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 

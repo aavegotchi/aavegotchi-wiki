@@ -13,7 +13,7 @@ How far have we progressed as a community? Look at our archives of past votes he
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>

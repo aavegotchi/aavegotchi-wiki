@@ -11,7 +11,7 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#formula>Formula</a></li>

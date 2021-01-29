@@ -11,7 +11,7 @@ How many raffle tickets were submitted in past raffles? How many were there in e
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#raffle-1>Raffle 1</a></li>

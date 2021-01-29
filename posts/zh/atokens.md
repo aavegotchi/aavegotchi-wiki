@@ -38,7 +38,7 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens"
 <li><a href=#stablecoins>穩定幣</a></li>
 <li><a href=#cryptocurrencies>密碼貨幣</a></li>
 <li><a href=#getting-atokens>取得 aToken</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>將 aTokens 轉換成 maTokens</a></li>
 </ol>
 
 </div>
@@ -84,7 +84,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Converting aTokens into maTokens
+## 將 aTokens 轉換成 maTokens
 
 Got your aTokens? Good!
 
