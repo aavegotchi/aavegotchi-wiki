@@ -9,7 +9,7 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
