@@ -20,7 +20,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
