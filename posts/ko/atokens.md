@@ -15,17 +15,17 @@ contributors:
 
 aToken은 [Aave](https://aave.com) Protocol에서 만든 '이자가 붙는' 토큰입니다. aToken들은 예치금이 있을 때 채굴되며 예치금을 다시 돌려받을 때 소각됩니다. aToken은 Aave Protocol에 예치된 자산의 가치와 1:1로 연동이 됩니다. aToken은 자유롭게 저장되고 교환되며 거래됩니다. Aave Protocol에 대해 좀 더 자세히 알고 싶은 분들은 [Aave FAQ](https://docs.aave.com/faq/)를 확인하세요! :)
 
-그럼 aToken은 아베고치와 어떤 관련이 있을까요? 모든 아베고치는 생명이 부여되기 전에 aToken을 통해 가치를 확인받아야 하며 [포탈](/pages/portals)을 통해 소환되어져야 합니다. 예외는 없습니다! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+그럼 aToken은 아베고치와 어떤 관련이 있을까요? 모든 아베고치는 생명이 부여되기 전에 aToken을 통해 가치를 확인받아야 하며 [포탈](/pages/portals)을 통해 소환되어져야 합니다. 예외는 없습니다! 따라서 여러분은 aToken이 필요하며 지금 여기서 여러분은 이용 가능한 aToken의 종류와 얻을 수 있는 방법에 대한 몇가지 도움되는 정보를 얻을 수 있습니다.
 
-When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+아베고치가 이더리움 메인넷에서 [메틱(Matic) 네트워크](/glossary#matic-network)로  변경되었을 때 aToken들은 메틱 네트워크에서도 이용가능해야만 했습니다. 하지만 다행히도 우리 팀의 유능한 개발자인 [Nick Mudge](/team#nick-mudge)가 메틱 네트워크로의 브릿징을 해냈습니다. 참고로 메틱 네트워크에서 aToken들은 maToken으로 알려져 있습니다.
 
-From a gamer's standpoint, playing Aavegotchi involves:
+게이머의 관점에서 아베고치 플레이에 몇가지 과정이 필요합니다.
 
-1. Getting some aTokens
-2. Converting aTokens to maTokens
-3. After opening a Portal, using maTokens as collateral to summon an Aavegotchi
+1. 1. aToken 획득하기
+2. aToken을 maToken으로 전환하기
+3. 포탈을 개방시킨 후, maToken을 담보로 삼아서 아베고치를 소환시키기.
 
-In this page, we will instruct you in the ways of the aTokens.
+이번 페이지에서는 aToken의 방식을 알려드릴 것입니다.
 
 In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
