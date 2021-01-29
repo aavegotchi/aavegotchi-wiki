@@ -113,23 +113,23 @@ contributors:
 * Announcing the Mission 9 Contest Winners
 
 ## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
+* 2020년 10월 23일
 * This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+## [꽉 매! 진짜 시작이니까!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* 2020년 10월 20일 GHST 스테이킹이 메인넷에 정식 출시되었습니다!
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [Test in Test! 감사 통과 완료!](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* 2020년 10월 18일 중대 발표! [ GHST 스테이킹 감사 보고서](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking)가 완료되었습니다 - 문제 없이 말이죠!
+* 72시간 내로 메인넷에 GHST 스테이킹이 론칭되었습니다.
+* 아베고치DAO의 첫 온체인 투표가 99% 찬성으로 통과되었습니다.
+* 아베고치는 Okex DeFi + NFT 콘테스트에서 우승하였습니다.
 
-## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+## [아베고치DAO 두둥등장!](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
+* 주목! 주목! 2020년 10월 14일에 GHST로 투표하세요! 아베고치DAO에서 Tap Increase for Scaling Sprint 에 대해 첫 제안이 나왔습니다 :
 
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
+## [Spoookyy... 포탈에서 새로운 친구를 환영해주세요!](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 2020년 10월 13일 Kovan 테스트넷의 포탈에서온 spooky 친구를 환여해주세요! 무섭지!
 
 ## [준비되었나요? 아베고치 밈 컨테스트 위너!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
 * 2020년 10월 10일 Mission 8 아베고치 밈 컨테스트의 승리자를 발표하였습니다! 와우!
