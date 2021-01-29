@@ -15,7 +15,7 @@ Get ready a fat stack of GHST! You will need them!
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#key>Key</a></li>
