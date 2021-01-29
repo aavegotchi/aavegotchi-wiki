@@ -28,22 +28,22 @@ description: '아베고치 게임 플레이 소개'
 
 아베고치의 [ bonding curve ](https://wiki.aavegotchi.com/en/curve) 또는 여러분이 선호하는 거래소 중 하나를 통해 GHST를 얻을 수 있습니다.
 
-## 포털
+## 포탈
 
-[포탈](https://wiki.aavegotchi.com/en/portals)은 아베고치를 저승으로부터 소환하고 게임을 플레이하기 위해 필요한 장비입니다. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+[포탈](https://wiki.aavegotchi.com/en/portals)은 아베고치를 저승으로부터 소환하고 게임을 플레이하기 위해 필요한 장비입니다. 포탈은 [aToken(Aave-backed ERC20 tokens)](https://wiki.aavegotchi.com/en/atokens)을 스테이킹함으로써 무작위적인 특성을 지니고 내재 특성을 가지게 되는 10마리의 서로 다른 아베고치를 선택하게 해줍니다.
 
-You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
+대략 100 GHST로 Opensea와 같은 외부 마켓플레이스나 아베고치 dApp에서 포탈을 구매할 수 있습니다.
 
 ## Wearables
 
-[Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+[Wearables](https://wiki.aavegotchi.com/en/wearables)은 아베고치 게임플레이에서 중요한 부분 중 하나입니다. 아베고치를 wearables로 꾸며주게 되면, 여러분의 귀여운 고치(gotchi) 친구의 희귀도 점수와 특성을 올릴 수 있으며, 희귀도 파밍과 미니게임에서 더 잘 활동할 수 있게 돕게 됩니다.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+여러분은 한정판 [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)을 통해 Wearable 바우처를 얻을 수 있으며 아베고치가 메인넷에 출시될 때 유사한 wearable로 바꿀 수 있습니다.
 
-## Rarity farming
+## 희귀도 파밍
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+[희귀도 파밍](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score)은 가장 희귀한 아베고치를 지닌 유저에게 GHST 토큰을 보사으로 지급하는 미니게임입니다. 희귀도 파밍의 목표는 가장 높은 최종 희귀도 점수를 가진 아베고치를 만드는 것으로 특성과 wearables의 희귀도에 따라 결정됩니다.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+아베고치 DAO에서 정하는 기간이 끝나고 나면, 가장 희귀한 아베고치를 가진 유저는 GHST 리워드 배분을 받을 수 있습니다.
 
-## Minigames
+## 미니게임
