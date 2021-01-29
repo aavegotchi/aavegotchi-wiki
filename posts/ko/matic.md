@@ -15,7 +15,7 @@ So say goodbye to 100$ transactions on Uniswap and hello to (almost) free intera
 
 <div class="contentsBox">
 
-**Contents**
+** 목차 **
 
 <ol>
 <li><a href=#why-matic->Why Matic?</a></li>
