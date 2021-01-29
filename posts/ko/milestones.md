@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: '중요한 이정표'
+description: '아베고치 프로젝트의 Milestones'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -131,41 +131,41 @@ contributors:
 ## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
 * 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
 
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
+## [준비되었나요? 아베고치 밈 컨테스트 위너!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* 2020년 10월 10일 Mission 8 아베고치 밈 컨테스트의 승리자를 발표하였습니다! 와우!
+* 아베고치 아티스트들 공개 모집!
 
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+## [특별 한정판 : Okex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* 2020년 10월 7일 중대 발표가 있었습니다! Okex에서 GHST를 예치함으로써 아베고치 X Okex Wearables NFT 특별 한정판을 얻을 수 있었습니다!
 
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* Gotchi memes flooooding Aavegooootchi Reddit!
+## [Kovan 테스트넷에서 유니스왑 GHST-ETH 스테이킹 가능!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* 2020년 10월 2일 Kovan 테스트넷에서 GHST-ETH pair 스테이킹에 대한 Uniswap의 LP 토큰 출시!
+* 아베고치 Reddit에서 Gotchi 밈이 마구마구 나오기 시작하였습니다!
 
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
+## [Kovan 테스트넷, 그리고 GHST 스테이킹](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* GHST를 스테이킹하고 친구들을 만드세요!! 2020년 9월 29일 Kovan 테스트넷에서 GHST 스테이킹이 가능해졌습니다!
 
-## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+## [Kovan 테스트넷, 그리고 포탈!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* 2020년 9월 25일 Kovan 테스트넷에서 아베고치 포탈을 이용할 수 있게 되었습니다!
+* 아베고치DAO의 첫번째 여정 : Uniswap에 GHST 유동성을 공급하기
+* Mission 7, "Just DAO it!" 발표
 
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+## [아베고치와 체인링크의 협약!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* 체인링크와의 협약입니다! 2020년 9월 24일, Coderdan은 체인링크의 검증가능한 랜덤함수(VRF)가 무엇이며 아베고치가 어떻게 이를 이용할 것인지에 대해 설명하였습니다.
+* 체인링크 VRF에 대한 더 깊은 이해를 위해선 [ 해당 알티클 ](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)을 참고해주세요.
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [특별판매가 1분도 채 되지 않아 종료되었습니다!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* 2020년 9월 14일 메인넷에 $GHST가 출시되었습니다. 특별판매는 1분도 채 되지 않아 종료되었습니다! :O
+* 특별판매를 통해 2000여개의 주소에서 GHST를 홀딩하게 되었습니다! This is yuuuugggeeeee
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+## [특별 판매 소식! 따끈따끈한 뉴스](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* 2020년 9월 10일 예정된 특별판매에 대한 새로운 소식이 대중들에게 발표되었습니다!
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
+## [Rinkeby 테스트넷에서 Bonding Curve 출시](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* 2020년 9월 3일, 아베고치의 Bonding Curve가 Rinkeby 테스트넷에서 출시되었습니다.
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+## [아베고치의 첫 AMA [Ask Me Anything]](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* 2020년 9월 1일에 아베고치의 첫 AMA가 있었습니다.
 
 ## [한정 판매 완료!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
 * 2020년 8월 20일 한정판매가 완료되었습니다!
