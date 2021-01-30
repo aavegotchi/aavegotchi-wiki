@@ -149,7 +149,7 @@ Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ)
 Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens chính là những [aTokens](/glossary#atokens) nằm trên Matic Network. Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
 
