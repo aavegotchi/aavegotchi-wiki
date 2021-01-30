@@ -5,7 +5,7 @@ title: 'Nghệ Sĩ Aavegotchi'
 description: 'Hiểu thêm về Aavegotchi Aartist tại đây!'
 ---
 
-Bạn biết có gì hấp dẫn hơm? Những aartist của cộng đồng bọn mình! Get to know them (and their creations) here!
+Bạn biết có gì hấp dẫn hơm? Những aartist của cộng đồng bọn mình! Hãy cùng tìm hiểu về họ (cùng những tác phẩm của họ) tại đây nhé!
 
 <div class="contentsBox">
 
@@ -31,7 +31,7 @@ table_aartist
 
 ## Cawito
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Rasta Hat
 * Rasta Shirt
@@ -42,35 +42,35 @@ Designed the following wearables:
 
 ## Esveebee
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Portal Mage Helmet
 * Portal Mage Armor
 * Portal Mage Axe
-* Portal Mage Black Axe
+* Portal Mage Axe
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Handsaw
 
 ## Qurka
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Water Jug
 
 ## Rod
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Red Hawaiian Shirt
 * Blue Hawaiian Shirt
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Hazmat Hood
 * Hazmat Suit
@@ -78,13 +78,13 @@ Designed the following wearables:
 
 ## SnottySnake
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Coconut
 * Milkshake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+Thiết kế những trang phục sau đây:
 
 * Beer Helmet
