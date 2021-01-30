@@ -1,17 +1,17 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+title: 'Kleidungsstück-Sets'
+description: 'Alles über Aavegotchi Kleidungsstück-Sets'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+Hey! Wusstest du, dass wenn *bestimmte Kleidungsstücke* zusammen ausgestattet sind, du einen Set-Bonus erhalten kannst? Jetzt weisst dus!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**Kleidungsstück-Sets** sind Sammlungen von Kleidungsstücken, die dem Aavegotchi, das sie trägt, einen zusätzlichen Bonus verleihen.
 
-Get ready a fat stack of GHST! You will need them!
+Hol dir schon mal einen grossen GHST Bag! Du wirst ihn brauchen!
 
 <div class="contentsBox">
 
@@ -19,7 +19,7 @@ Get ready a fat stack of GHST! You will need them!
 
 <ol>
 <li><a href=#key>Legende</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#wearable-sets>Kleidungsstück-Sets</a></li>
 </ol>
 
 </div>
@@ -32,7 +32,7 @@ Get ready a fat stack of GHST! You will need them!
 * SPK = Spookiness
 * BRN = Hirngrösse (Engl. = Brain Size)
 
-## Wearable Sets
+## Kleidungsstück-Sets
 
 table_sets
 
