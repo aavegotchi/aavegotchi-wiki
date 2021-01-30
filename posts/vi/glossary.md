@@ -129,24 +129,24 @@ Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
-Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. However, there's a catch.
+Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. Tuy nhiên, có một chỗ khá thú vị.
 
-The flash loan has to be repaid within the same transaction block.
+Flash loan phải được trả trong cùng một block giao dịch.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có thể huỷ các thao tác diễn ra vào thời điểm trước đó một cách hiệu quả. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
+Impermanent loss (tổn thất tạm thời) xảy ra khi bạn cung cấp thanh khoản cho một quỹ (xem [Liquidity Pools](/glossary#liquidity-pools)), and và giá của tài sản mà bạn ký gởi thao đổi khác đi so với lúc bạn ký gửi. Điều này sẽ khiến bạn mất tiền nếu, tại thời điểm bạn muốn rút tiền, giá tiền bị giảm đi so với hồi đầu bạn nạp vào. Điều này dẫn đến việc giá trị quy đổi lúc bạn rút ra tiền thật sẽ bị thấp đi.
 
 
 
 ### Quỹ thanh khoản
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ) của token này được khoá trong hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
 maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
@@ -154,36 +154,36 @@ maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are develop
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
 
 
 
 ### Hợp đồng thông minh
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Nói chung, một hợp đồng thông minh là một hợp đồng mà những "điều khoản" giữa những người dùng của hợp đồng, được được viết vào trong bộ code của hợp đồng có thể vận hành một cách tự động. Khi những điều khoản và dịch vụ được đặt trước này thoả mãn các điều kiện thì hợp đồng sẽ được thi hành.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon là một dự án được định hướng bởi cộng đồng và có mã nguồn mở với sứ mệnh tăng cường sự tự do bằng cách tạo ra những công cụ mà các tổ chức phi tập trung có thể sử dụng.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Sản phẩm fligship của dự án là Aragon client, một công cụ để tạo và tham gia vào những tổ chức phân tán trên Ethereum. Dự án cũng đang xây dựng Aragon Network, quyền lực pháp lý kỹ thuật số đầu tiên trên thế giới.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Dự án Aragon được quản lý bởi Tổ chức Aragon, một tổ chức phi lợi nhuận có trụ sở tại Zug, Thuỵ Sĩ, và được quản trị bởi những người nắm giữ token Aragon Network.
 
-Check out their [site](https://aragon.org/) here.
+Xem thêm [website của họ](https://aragon.org/) tại đây.
 
 ### Bell Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
