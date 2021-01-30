@@ -2,14 +2,14 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: 'Tất tần tật về maToken trong Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-What do you get when you take those interest-bearing aTokens and put them on the Matic Network? Why you get maTokens, of course!
+Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Matic Network? Tất nhiên là cùng lý do việc sở hữu maToken rổi!
 
-This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
+Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
 
 <div class="contentsBox">
 
