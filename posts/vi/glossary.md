@@ -33,16 +33,16 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Tài Sản Thế Chấp</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#liquidity-pools>Quỹ thanh khoản</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#smart-contracts>Hợp đồng thông minh</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
@@ -93,43 +93,43 @@ Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locke
 APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com/). Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [aTokens](/atokens).
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
-
-
-In the context of DeFi, this is how things might look:
+### Tài Sản Thế Chấp
+Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. Để làm được điều này, bạn cần phải đưa ra một phần nào đó tài sản của mình để thế chấp. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
+
+Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
+Viết tắt của cụm từ Decentralized Autonomous Initial Coin Offering. Decentralized Autonomous Initial Coin Offering (DAICO) là một hình thức gây quỹ mới với mong muốn kết hợp những đặc tính nổi trội nhất của Decentralized Autonomous Organization (DAO) với Initial Coin Offering (ICO) để tạo ra một cấu trúc để có thể mang đến một mô hình mở bán token gây vốn với độ hiệu quả cao hơn. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Hoặc cũng có thể gọi là Decentralized Autonomous Organization. Đây là những tổ được quản trị bởi những quy luật đã được code trong hợp đồng thông minh và được điều khiển bởi các thành viên tham gia. Điều này trái với những mô hình tổ chức truyền thống, thường hướng về việc quản trị thông qua một nhóm nhỏ gồm những nhân vật có thẩm quyền.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Trong ngữ cảnh của AavegotchiDAO, điều này có nghĩa là các thành viên trong hệ sinh thái sẽ có thể bắt đầu và vote cho các đề xuất có ảnh hưởng đến cách mà những hệ sinh thái lớn hơn sẽ vận hành. Ví dụ, các thành viên có thể đề xuất tăng số lượng Portal được bán theo thời gian, hoặc những tính năng mà họ nghĩ là sẽ giúp cộng đồng được cải thiện.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [trang này](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
 
@@ -142,7 +142,7 @@ Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Poo
 
 
 
-### Liquidity Pools
+### Quỹ thanh khoản
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -158,7 +158,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 
 
 
-### Smart Contracts
+### Hợp đồng thông minh
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
