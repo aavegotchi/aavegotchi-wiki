@@ -2,16 +2,16 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+description: 'Tất tần tật về Wearables trong Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+Chào mấy fen! Bạn có biết rằng nếu *những món wearable nhất định*được trang bị cùng nhau thì bạn có thể được số điểm cộng trang phục cao và vượt trội hơn khi mặc trang phục riêng lẻ? Giờ thì biết rồi nhá!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**Bộ Trang phục** là những bộ sưu tập tang phục mang đến điểm cộng thêm khi chúng được trang bị cho Aavegotchi.
 
-Get ready a fat stack of GHST! You will need them!
+Hãy gom thật nhiều GHST đi nhé! Bạn sẽ cần dùng đến đấy!
 
 <div class="contentsBox">
 
@@ -26,7 +26,7 @@ Get ready a fat stack of GHST! You will need them!
 
 ## Then Chốt
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
+* [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) Từ Wearables
 * AGG = Aggressiveness (Hiếu Chiến)
 * NRG = Energy (Năng Lượng)
 * SPK = Spookiness (Đáng Sợ)
