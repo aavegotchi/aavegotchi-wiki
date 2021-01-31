@@ -86,27 +86,27 @@ contributors:
 * Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
 * FYI Pixelcraft Studios is the main development team for Aavegotchi
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+## [와우! 아베고치 팬픽션이 나왔답니다 <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* 아베고치의 aapprentice, [appellants](https://twitter.com/sinkielinkie)에 의해 작성된 아베고치 ❤ 체인링크 팬 픽션이 나왔습니다! 2020년 11월 20일에 말이죠 :)
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [모두가 승자가 아닐까요?!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* 모두가 숨을 죽인 채로 2020년 11월 13일에 있을 체인링크의 검증가능한 랜덤함수(VRF)가 가져올 마법을 기대하고 있습니다. 그리고 결과가 나왔는데요.... 바로 모두가 성공하였습니다!
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+## [준비하세요!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* 친구들 모두 준비하세요! 다가올  raffle에 대한 단계별 가이드가 2020년 11월 9일에 발행되었습니다!
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [이번 할로윈 파~~~~뤼는 정말 굉장했습니다!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* 놀라웠던 할로윈 파~~~~~뤼의 순간들이 엮어져서 2020년 11월 4일에 발표가 되었습니다!
+* 의상 경연대회의 우승자 발표가 있었습니다!
+* 추가적으로 raffle에 대한 테스트가 Kovan testnet에서 이루어졌습니다.
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [여러분의 고치(Gotchi)를 만드세요!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* 2020년 10월 29일 Aavegotchi Builder이 출시되었습니다. Aavegtochi Builder은 아베고치의 특성들을 테스트해볼 수 있고 wearable을 착용시켜 시뮬레이션 해볼 수 있는, 대단히 상호적인 mini-app입니다.
 
 ## [두구두구두구 바로 할로윈 파~~~~~~~~뤼!](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * 할로윈 파~~~~~뤼에 대한 상세한 내용은 2020년 10월 28일에 발표되었습니다.
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+* 바로 고치(Gotchi)들의 의상 경연 대회!
+* Harrison First의 노래와 함께 Cherry, OpenSea, 그리고 Matic Network와의 만남이 있었습니다! 파티는 Aave의 창립자인 Stani Kulechove와 함께 시작될 예정입니다 :)
 
 ## [더 큰 재미! 더 큰 기대!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
 * 삐삐! 삐삐! 아베고치 팀은 2020년 10월 25일 할로윈 파티가 2020년 10월 30일에 있을 것이라고 발표했습니다. 놓치지 말고 함께 참여하세요!
