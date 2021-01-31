@@ -53,7 +53,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#matic-network>Matic Network</a></p>
-<p><a href=#metaverse>Metaverse</a></p>
+<p><a href=#metaverse>Metaverse!</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 </ol>
@@ -223,7 +223,7 @@ To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer 
 
 Read more about Matic Network [here](https://matic.network/).
 
-### Metaverse
+### Metaverse!
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
