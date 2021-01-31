@@ -103,18 +103,18 @@ contributors:
 ## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
 * Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
 
-## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
+## [두구두구두구 바로 할로윈 파~~~~~~~~뤼!](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+* 할로윈 파~~~~~뤼에 대한 상세한 내용은 2020년 10월 28일에 발표되었습니다.
 * Virtual Costume Contest!
 * With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
+## [더 큰 재미! 더 큰 기대!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* 삐삐! 삐삐! 아베고치 팀은 2020년 10월 25일 할로윈 파티가 2020년 10월 30일에 있을 것이라고 발표했습니다. 놓치지 말고 함께 참여하세요!
+* Mission 9 콘테스트 우승자도 발표했습니다.
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+## [뭔가 요동치고 있습니다...!](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
 * 2020년 10월 23일
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+* 이번 라플(raffle) 이벤트는 체인링크의 검증가능한 랜덤함수(VRF) 이용 및 체인링크와의 파트너십을 축하하기 위해 LINK를 주제로 하였습니다.
 
 ## [꽉 매! 진짜 시작이니까!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 * 2020년 10월 20일 GHST 스테이킹이 메인넷에 정식 출시되었습니다!
