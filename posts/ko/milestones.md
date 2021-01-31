@@ -7,64 +7,64 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Matic and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+## [농사꾼의 연감 : GHST를 얻기 위한 궁극의 가이드!](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* 여러분~~~~! GHST를 Matic으로 이전하기 위해 도움이 필요합니다! 대신 정말 정말 달달한 보상이 있다는 건 비밀입니다 :) GHST 이전 그리고 보상에 대한 가이드를 준비했습니다! 2021년 1월 25일에 발행되었으니 놓치지 마세요!
 
-## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Matic to launch alongside the bridge from Mainnet to Matic
-* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+## [Aavegotchi 개선 제안(AGIP) 2, 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* 2021년 1월 21일, 아베고치 개선 제안(AGIPs) 2, 3이 정족수를 채우기까지 8시간을 남겨두고 있습니다.
+* 메인넷에서 Matic으로의 브릿징 출시를 통해 Matic에서의 GHST 스테이킹 컨트랙트가 가능해집니다!
+* 한국, 프랑스, 에스파냐 아베고치 커뮤니티에서 엄청난 성장이 있었습니다! 얏호!
 
-## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Matic Network on 20 January 2021!
+## [aToken 역시 이제 Matic Network에서 이용가능합니다!](https://twitter.com/coderdannn/status/1351902787919986693)
+* 우리의 훌륭한 팀원인 [Nick Mudge](/team#nick-mudge)가 이를 해냈습니다! 그는 2021년 1월 20일에 성공적으로 Matic Network로의 aToken 이전을 완성시켰습니다.
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+## [Aragon에서의 투표가 시작되었습니다!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* 2021년 1월 18일, 두가지의 AavegotchiDAO 제안들이 Aragon에서 투표를 통해 결정할 수 있게 되었습니다! 투표는 72시간동안 지속될 것입니다.
 
-## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
-* There are Liquidity Migration Incentives up for grabs as well!
+## [이제 Matic에서 GHST token이 이용가능합니다!](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* 2021년 1월 11일, Aavegotchi 팀은 Matic Network에서의 GHST 론칭을 발표했습니다!
+* 여러분의 GHST 유동성을 이동하게 될 경우 지급될 인센티브도 준비되어 있습니다!
 
-## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
-* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
+## [개발진들 모두 주목해주세요!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
+* Aavegotchi팀은 epic ETH 글로벌 해커톤인 MarketMake를 후원할 예정이며 4000GHST를 보상으로 하고 있습니다! (그리고 여러분의 미래 고치(Gotchi)들을 위한 추가적인 달달한 XP 보너스도 있답니다)
 
-## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Matic Network at a later date
-* Aagent missions have finally concluded!
-* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
-* Aavegotchi looking for Aambassadors!
+## [Aavegotchi는 메인넷 출시를 연기하였습니다.](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* 극심한 이더리움 네트워크 혼잡으로 인해 2021년 1월 4일로 예정된 메인넷 출시가 연기되었습니다.
+* 커뮤니티에서 투표가 이루어졌고 훗날에 Matic Network로의 출시를 결정하였습니다.
+* Aagent Mission이 최종적으로 완료되었습니다!
+* Aavegotchi Shop Wearables가 공개되었습니다! [여기](/wearables)서 확인해보세요 :)
+* 아베고치가 Aambassador를 모집중입니다!
 
-## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
+## [희귀도 파밍 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
+* 성큼 다가온 희귀도 파밍에 관해 알아야 할 것들!!! 2021년 1월 2일에 발표됩니다!
 
-## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+## [aUNI와 aYFI가 투표에서 선정되었습니다.](https://twitter.com/aavegotchi/status/1345026523263238145)
+* 유저들이 외칩니다! 2021년 1월 1일, 대다수의 투표자들이 aUNI와 aYFI를 새로운 Aavegotchi 담보물로 투표하였습니다!
 
-## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Ready up frens! This 29 December 2020 announcement is biiigg!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
+## [최종 Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* 준비하세요! 2020년 12월 29일에 엄청난 발표가 있을 것입니다!
+* 이더리움을 테마로한 Raffle 3 wearables가 공개되었습니다! 2020년 12월 31일 새해 전날 파티에 Raffle이 시작될 것입니다!
+* 그리고... 새해 전에 또다른 이벤트가 있을 예정인데요
+* 최종 Mission이 공개되었습니다! 이제 우리는 Moovie Staars입니다!
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+## [새로운 소식입니다! : 친구를 함께 도와요 :)](https://twitter.com/aavegotchi/status/1343184902083121157)
+* 2020년 12월 27일 santagotchi.eth에 모인 양을 표로 작성하였습니다. 우리는 자금을 잃어버린 친구를 돕기 위해 10K 이상을 모금하였습니다!
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
-* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+## [새로운 aToken 선정을 위해 투표하세요!](https://twitter.com/aavegotchi/status/1341054376132034564)
+* 2020년 12월 22일을 시작으로, 트위터와 Snapshot에서 아베고치에 새로이 추가될 두가지의 aToken에 투표하세요!
+* 후보엔 aBUSD, aSUSD, aYFI, 그리고 aUNI가 있습니다!
 
-## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+## [어려움을 겪는 친구를 도와주세요!](https://twitter.com/aavegotchi/status/1339738554906243072)
+* 2020년 12월 18일에 있던 공지입니다. $20이상의 ERC-20 토큰을 기부해서 어려움을 겪은 유저를 돕고 Santagotchi Hat을 받아가세요!
 
 ## [Aave 테마의 Raffle이 종료되었습니다!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
 * 2020년 12월 12일 커뮤니티 업데이트가 발행될 예정입니다.
 * 2021년 1월 4일 아베고치 출시 날짜가 확정되었습니다!
 * Aave 테마 Raffle은 정말 기가 막힐 정도로 대 성공이었습니다! 체인링크 테마의 Raffle과 비교했을 때 티켓량이 66% 증가했습니다
 * 바이낸스가 GHST 토큰을 상장시켰습니다.
-* 모두들 도와주세요! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+* 모두들 도와주세요! 한 유저가 자신이 보유한 전체 LINK 보유분을 GHST 스테이킹 컨트랙트로 보냈습니다 :(
+* GHST의 0.25돌 파티(3개월 기념!)가 2020년 12월 14일에 있었습니다!
+* "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG(WEB3 MMORPG의 성공을 위한 상호교환 가능 코스튬)"에서 CGC와 함게 Jesse의 발표가 있었습니다. (궁금하다면 [media](/posts/media) 페이지에서 확인하세요!)
 
 ## [2021년 1월 4일 Aavegotchi의 Gamplay가 출시될 예정입니다!](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
 * 2020년 12월 12일, 코인데스크는 2021년 1월 4일 Aavegotchi의 Gamplay 출시를 주제로한 기사를 발행하였습니다. 기대되시나요? 전 정말로 기대가 됩니다!
