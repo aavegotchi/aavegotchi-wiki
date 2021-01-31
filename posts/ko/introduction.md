@@ -68,4 +68,4 @@ The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to o
 * [포털 ](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi 왕국](/metaverse)
