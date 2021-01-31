@@ -57,34 +57,34 @@ contributors:
 ## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
 * Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
 
-## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Community update published on 12 December 2020!
-* 4 January 2021 Aavegotchi launch date confirmed!
-* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
+## [Aave 테마의 Raffle이 종료되었습니다!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+* 2020년 12월 12일 커뮤니티 업데이트가 발행될 예정입니다.
+* 2021년 1월 4일 아베고치 출시 날짜가 확정되었습니다!
+* Aave 테마 Raffle은 정말 기가 막힐 정도로 대 성공이었습니다! 체인링크 테마의 Raffle과 비교했을 때 티켓량이 66% 증가했습니다
+* 바이낸스가 GHST 토큰을 상장시켰습니다.
+* 모두들 도와주세요! A Fren sent his entire LINK holdings into the GHST staking contract :(
 * GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
 * Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [2021년 1월 4일 Aavegotchi의 Gamplay가 출시될 예정입니다!](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* 2020년 12월 12일, 코인데스크는 2021년 1월 4일 Aavegotchi의 Gamplay 출시를 주제로한 기사를 발행하였습니다. 기대되시나요? 전 정말로 기대가 됩니다!
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [Aave는 다가오는 Aavegotchi Raffle에서 보너스 Aave NFT를 예고하였습니다](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* 2020년 12월 6일, Aave는 Aave 테마의 Raffle을 시작하기 위해 Aave * Aavegotchi Firside Chat을 발표하였습니다
+* Aave 테마 Raffle은 보너스 Frens4Ever NFT를 포함할 예정입니다. 만약 할 수 잇다면... CoderDAngotchi와 Jessegotchi를 잡아보세요!
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+## [Aavegotchi에 대해 더 자세히 알고 싶다면?! Aavegotchi Wiki를 이용하세요!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* 2020년 11월 27일 아베고치 위키가 출시되었습니다! 여러분, wiki를 활성화시키기 위해선 여러분의 도움이 필요합니다!
+* Aavegotchi는 2020년 NFT Awards에 두번이나 선정되었습니다. 와우!
+* 삐빅! Aavegotchi는 게임 개발자를 모집하고 있습니다! 관심있다면 저희와 함께 합시다!
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+## [까꿍! Aave를 주제로한 Raffle Prize가 나왔습니다!](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* 2020년 11월 25일에 Aavengers Superhero wearables에 대해 살짝 엿볼 수 있었습니다.
+* Mar, Jordan, 그리고 Stani-Gotchi wearables도 함께 확인할 수 있었습니다!
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+## [Aave가 Aavegotchi에 투자를 해ㅐㅐㅐㅐㅆ습니다!!!!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave는 2020년 11월 23일에 Pixelcraft Studios에 대한 그들의 투자를 공식적으로 발표했습니다.
+* FYI PIxelcraft Studios는 이제 Aavegotchi의 메인 개발진입니다
 
 ## [와우! 아베고치 팬픽션이 나왔답니다 <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * 아베고치의 aapprentice, [appellants](https://twitter.com/sinkielinkie)에 의해 작성된 아베고치 ❤ 체인링크 팬 픽션이 나왔습니다! 2020년 11월 20일에 말이죠 :)
