@@ -33,58 +33,46 @@ table_aartist
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Rasta Hat
-* Rasta Shirt
-* Jamaican Flag
-* Baby Bottle
-* Martini
-* Wine
+table_cawito
 
 ## Esveebee
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Portal Mage Helmet
-* Portal Mage Armor
-* Portal Mage Axe
-* Portal Mage Black Axe
+table_esveebee
 
 ## Ka Wai Leong
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Handsaw
+table_kawaileong
 
 ## Qurka
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Water Jug
+table_qurka
 
 ## Rod
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Red Hawaiian Shirt
-* Blue Hawaiian Shirt
+table_rod
 
 ## ShadowLord Obeeus
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Hazmat Hood
-* Hazmat Suit
-* Uranium Rod
+table_shadowlordobeeus
 
 ## SnottySnake
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Coconut
-* Milkshake
+table_snottysnake
 
 ## Vanilladelphia
 
 Hat die folgenden Kleidungsstücke entworfen:
 
-* Beer Helmet
+table_vanilladelphia
