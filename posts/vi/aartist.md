@@ -33,58 +33,46 @@ table_aartist
 
 Thiết kế những trang phục sau đây:
 
-* Rasta Hat
-* Rasta Shirt
-* Jamaican Flag
-* Baby Bottle
-* Martini
-* Wine
+table_cawito
 
 ## Esveebee
 
 Thiết kế những trang phục sau đây:
 
-* Portal Mage Helmet
-* Portal Mage Armor
-* Portal Mage Axe
-* Portal Mage Axe
+table_esveebee
 
 ## Ka Wai Leong
 
 Thiết kế những trang phục sau đây:
 
-* Handsaw
+table_kawaileong
 
 ## Qurka
 
 Thiết kế những trang phục sau đây:
 
-* Water Jug
+table_qurka
 
 ## Rod
 
 Thiết kế những trang phục sau đây:
 
-* Red Hawaiian Shirt
-* Blue Hawaiian Shirt
+table_rod
 
 ## ShadowLord Obeeus
 
 Thiết kế những trang phục sau đây:
 
-* Hazmat Hood
-* Hazmat Suit
-* Uranium Rod
+table_shadowlordobeeus
 
 ## SnottySnake
 
 Thiết kế những trang phục sau đây:
 
-* Coconut
-* Milkshake
+table_snottysnake
 
 ## Vanilladelphia
 
 Thiết kế những trang phục sau đây:
 
-* Beer Helmet
+table_vanilladelphia
