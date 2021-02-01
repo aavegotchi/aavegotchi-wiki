@@ -33,58 +33,46 @@ table_aartist
 
 Designed the following wearables:
 
-* Rasta Hat
-* Rasta Shirt
-* Jamaican Flag
-* Baby Bottle
-* Martini
-* Wine
+table_cawito
 
 ## Esveebee
 
 Designed the following wearables:
 
-* Portal Mage Helmet
-* Portal Mage Armor
-* Portal Mage Axe
-* Portal Mage Black Axe
+table_esveebee
 
 ## Ka Wai Leong
 
 Designed the following wearables:
 
-* Handsaw
+table_kawaileong
 
 ## Qurka
 
 Designed the following wearables:
 
-* Water Jug
+table_qurka
 
 ## Rod
 
 Designed the following wearables:
 
-* Red Hawaiian Shirt
-* Blue Hawaiian Shirt
+table_rod
 
 ## ShadowLord Obeeus
 
 Designed the following wearables:
 
-* Hazmat Hood
-* Hazmat Suit
-* Uranium Rod
+table_shadowlordobeeus
 
 ## SnottySnake
 
 Designed the following wearables:
 
-* Coconut
-* Milkshake
+table_snottysnake
 
 ## Vanilladelphia
 
 Designed the following wearables:
 
-* Beer Helmet
+table_vanilladelphia
