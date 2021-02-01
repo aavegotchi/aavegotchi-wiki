@@ -28,7 +28,105 @@ export const tables
 					[`Vanilladelphia`, `<img src="/aartist/vanilladelphia.png" alt = "Vanilladelphia" /"`, `What can we say about our dear Vanilladelphia.eth. Is he a master Aapprentice, meming Aagents through the missions? Is he an Aartist, creating wearables like the beer helmet that we all love so much? Is he a computer wizard, helping the Aarchivist's organize the rabid mission 11 submissions? Yes... The answer to all of these questions is a resounding yes. Besides all of this, Vanilladelphia still finds time to be an active contributor to many other DAO projects. He is a Diamond Founder of <a href = "https://metagame.wtf/" target = "_blank">MetaGame</a>, a member of <a href = "https://raidguild.org" target = "_blank">Raid Guild</a>, <a href = "https://she.energy" target = "_blank">Shenanigans</a>, and <a href = "https://chiev.net" target = "_blank">ChievMint</a> DAOs.  He is also an active <a href = "https://www.twitter.com/ethtard" target = "_blank">twitter degen</a>. When Vanilla finds the time, between navigating all of these projects, he enjoys doing all sorts of art, from Pixel art, to Photography, to digital compositions, and illustration, and is also a terrible bass and mandolin player.`, `<a href = "https://www.twitter.com/ethtard" target = "_blank">Twitter</a>`]
                 ]
             }
-        }
+        },
+		
+		{
+            tableName: "cawito",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+                    ["Rasta Hat", `<img src="/wearables/final wearables/108_RastaDreds.svg" alt = "aavegotchi Rasta Hat"/>`],
+					["Rasta Shirt", `<img src="/wearables/final wearables/109_RastaShirtFull.svg" alt = "aavegotchi Rasta Shirt"/>`],
+					["Jamaican Flag", `<img src="/wearables/final wearables/110_JamaicanFlag.svg" alt = "aavegotchi Jamaican Flag"/>`],
+					["Baby Bottle", `<img src="/wearables/final wearables/119_BabyBottle.svg" alt = "aavegotchi Baby Bottle"/>`],
+					["Martini", `<img src="/wearables/final wearables/120_Martini.svg" alt = "aavegotchi Martini"/>`],
+					["Wine", `<img src="/wearables/final wearables/121_WineBottle.svg" alt = "aavegotchi Wine"/>`]
+                ]
+            }
+        },
 
-
+		{
+            tableName: "esveebee",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+				    ["Portal Mage Helmet", `<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`],
+					["Portal Mage Armor", `<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`],
+					["Portal Mage Axe", `<img src="/wearables/final wearables/106_PortalMageAxe.svg" alt = "aavegotchi Portal Mage Axe"/>`],
+					["Portal Mage Black Axe", `<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "kawaileong",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+					["Handsaw", `<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "qurka",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+					["Water Jug", `<img src="/wearables/final wearables/118_WaterJug.svg" alt = "aavegotchi Water Jug"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "rod",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+				    ["Red Hawaiian Shirt", `<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`],
+					["Blue Hawaiian Shirt", `<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "shadowlordobeeus",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+				    ["Hazmat Hood", `<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`],
+					["Hazmat Suit", `<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`],
+					["Uranium Rod", `<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "snottysnake",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+					["Coconut", `<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`],
+					["Milkshake", `<img src="/wearables/final wearables/122_Milkshake.svg" alt = "aavegotchi Milkshake"/>`]
+                ]
+            }
+        },
+		
+		{
+            tableName: "vanilladelphia",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Image"],
+                data: [
+				    ["Beer Helmet", `<img src="/wearables/final wearables/124_BeerHelmet.svg" alt = "aavegotchi Beer Helmet"/>`]
+                ]
+            }
+        },
     ]
