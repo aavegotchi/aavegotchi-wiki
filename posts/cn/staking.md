@@ -43,7 +43,7 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 ## 如何质押
 一旦你有了一些GHST 令牌，现在是时候了!
 
-There are four ways to stake: (1) staking GHST tokens [Mainnet], (2) staking Uniswap GHST-ETH LP tokens [Mainnet], (3) staking GHST tokens [Matic], and/or (4) the GHST-QUICK pool on QuickSwap [Matic].
+There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Matic Network, and/or (4) the GHST-QUICK pool on QuickSwap on Matic Network.
 
 *注意：预销售GHST 令牌在解锁之前不能被质押。*
 
