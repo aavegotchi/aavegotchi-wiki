@@ -11,7 +11,7 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
-### Jesse chia sẻ về Aavegotchi trên Blockchain Game Alliance Demo Day (29 tháng Giêng 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Đại Sứ người Malaysia của chúng tôi là Buzz Lightyear / Jason Chew chia sẻ với DeFi Singapore về Aavegotchi Farming và NFT! (27 tháng Giêng 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ8XH5sldhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
