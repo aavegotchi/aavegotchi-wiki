@@ -7,23 +7,46 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi raffle tickets and wearable vouchers can be traded between players in various marketplaces.
+"Psst.....you there"
 
-Currently, [OpenSea](https://opensea.io/) is the most accessible marketplace where trades take place. In the future, Aavegotchi will host their own internal marketplace for gamers to trade among themselves.
+The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
 
-As more Aavegotchi assets become available, there will be more categories of assets that are available for trading (e.g. portals, the Aavegotchis themselves, etc).
+"I have something aamazing for you."
+
+The Merchant Gotchi brought out a cloth-covered object. Slowly, he pulled away the cloth. The object caught the sun's rays and shone in the bright afternoon sun.
+
+".....A Mudgen Diamond" you whispered to yourself.
+
+The marvellous shine caught the attention of countless bystanders.
+
+Another Gotchi shoved in. "I'll have it!"
+
+"NO! I'LL HAVE IT!"
+
+This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+
+Come and test your mettle! Buyers and sellers alike!
 
 <div class="contentsBox">
 
 ** 목차 **
 
 <ol>
+<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#collection-addresses>Collection Addresses</a></li>
 <li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
 <li><a href=#precautions>Precautions</a></li>
 </ol>
 
 </div>
+
+## Aavegotchi Baazaar
+
+The Aavegotchi Baazaar is the official marketplace for Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+
+<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
+
+Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
 ## Collection Addresses
 
