@@ -11,7 +11,7 @@ Hey Fam! Hast du schon mal einen Aavegotchi-Talk/Chat verpasst, weil du keine Ze
 
 Wir haben auch einen eigenen [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) :D
 
-### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Coderdan spricht über Aavegotchi auf dem Blockchain Game Alliance Demo Day (29. Januar 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Unser malaysischer Aambassador Buzz Lightyear / Jason Chew spricht mit DeFi Singapur über Aavegotchi Farming und NFTs! (27. Januar 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ8XH5sldhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
