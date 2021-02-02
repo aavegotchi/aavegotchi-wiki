@@ -11,7 +11,7 @@ contributors:
 
 朋友, 我们也有自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)
 
-### Jesse shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Our Malaysian Aambassador Buzz Lightyear / Jason Chew shares with DeFi Singapore about Aavegotchi Farming and NFTs! (27 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ8XH5sldhc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
