@@ -9,7 +9,7 @@ contributors:
 
 Wann Video? Wann Video? Wann Video?
 
-Hey Fam, wir haben deine Vorschläge gehört. [Cagyjan](https://www.youtube.com/c/CAGYJAN/about), ein Content-Produzent für Blockchain-NFT-Krypto-Gaming, hat neue Video-Tutorials zum Thema "How-to" rund um Aavegotchi veröffentlicht. #Gotchigang
+Hey Fam, wir haben deine Vorschläge gehört. [Cagyjan](https://www.youtube.com/c/CAGYJAN/about), ein Content-Produzent für Blockchain-NFT-Krypto-Gaming, hat neue Video-Tutorials zum Thema "How-to" rund um Aavegotchi veröffentlicht. Enjoy! #gotchigang
 
 ### Wie du deine GHST vom Ethereum Mainnet auf Matic Network migrierst <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
