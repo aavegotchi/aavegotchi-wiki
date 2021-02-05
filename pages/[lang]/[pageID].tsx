@@ -141,9 +141,11 @@ const Page = (props) => {
                             </div>
                         }
 
-                        <a href={`https://github.com/almndbtr/aavegotchi-wiki/edit/main/posts/${router.query.lang}/${router.query.pageID}.md`}>
-                            ✏️ Edit this page
-                        </a>
+                        <div style={{marginTop: '1rem'}}>
+                            <a href={`https://github.com/almndbtr/aavegotchi-wiki/edit/main/posts/${router.query.lang}/${router.query.pageID}.md`}>
+                                ✏️ Edit this page
+                            </a>
+                        </div>
 
                         <hr />
                         <ReactMarkdownWithHtml
