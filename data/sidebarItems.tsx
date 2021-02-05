@@ -11,7 +11,7 @@ export const items: Category[] = [
             },
 			{
 				name: "Tutorials",
-				href: "video-tutorials"
+				href: "tutorials"
 			},
             {
                 name: "FAQ",
