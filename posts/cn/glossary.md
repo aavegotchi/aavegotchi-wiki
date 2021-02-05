@@ -56,6 +56,7 @@ contributors:
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
+<p><a href=#quickswap>QuickSwap</a></p>
 </ol>
 
 </div>
@@ -244,3 +245,8 @@ Validators are the participants on the network who run nodes (called validator n
 
 Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
+### QuickSwap
+
+QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Matic Network](/glossary#matic-network)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+
+QuickSwap can be accessed [here](https://quickswap.exchange).
