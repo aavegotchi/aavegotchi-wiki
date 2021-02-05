@@ -43,7 +43,7 @@ First, you need to get your hands on some GHST tokens to stake. Our [GHST token 
 ## How to Stake
 Once you have some GHST tokens, it is time to stake them!
 
-There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Matic Network, and/or (4) the GHST-QUICK pool on QuickSwap on Matic Network.
+There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Matic Network, and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Matic Network.
 
 *Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 

@@ -43,7 +43,7 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 ## Cách Stake
 Một khi đã có token GHST, đã đến lúc để stake chúng!
 
-There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Matic Network, and/or (4) the GHST-QUICK pool on QuickSwap on Matic Network.
+There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Matic Network, and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Matic Network.
 
 *Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
 

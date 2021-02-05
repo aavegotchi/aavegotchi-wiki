@@ -30,6 +30,7 @@ contributors:
 <p><a href=#what-can-i-do-now->现在你能做什么？</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->我需要 KYC 来玩Aavegotchi 或拥有GHST 令牌吗？</a></p>
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->Aave需要和 Aavegotchi 做什么？</a></p>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <li><a href=#bonding-curve-faq>联合曲线</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
@@ -107,11 +108,12 @@ Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重
 不！ 如果您想直接从 <a href="https://wiki.aavegotchi.com/en/curve">绑定曲线购买GHST，您只需要做KYC。</a> 您可以在 Uniswap上购买 GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH"></a> 无需了解KYC, 以及 <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">在某些交易所。</a> 同时， **无需购买门户网站** <a href="https://wiki.aavegotchi.com/en/minigames">游戏，</a> 
 <a href="https://wiki.aavegotchi.com/en/staking">涉及GHST,</a> 或 Aavegotchi 项目本身的任何其他方面。
 
-
-
 ### Aave需要和 Aavegotchi 做什么？
 
 Aavegotchi首先获得了Aave生态系统补助金，授权他使用Aave幽灵标识。 Aavegotchi游戏包含了使用 [aTokens](/atokens) 作为游戏中心元素的游戏，到2020年11月。 Aave也是Aavegotchi背后的 Pixelcraft Studios [官方投资者](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+
+### Can aTokens staked inside an Aavegotchi get liquidated?
+不 The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### What are maTokens?
 maTokens are aTokens which have been transferred to the Matic Network. Like aTokens, they accrue interest over time!
