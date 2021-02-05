@@ -20,6 +20,6 @@ If you have any other suggestions on new topics to be covered here, do approach 
 
 </div>
 
-## Matic Guide
+## Matic Tutorial
 Our Great Aassistant Moon has written an aavesome piece on setting up Matic Network on your MetaMask. Check it out [here](/matic)!
 
