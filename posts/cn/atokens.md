@@ -17,7 +17,7 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 那么aTokens如何与Aavegotchi相关？ 每一个 Aavegotchi 都必须通过一个 [传送门](/pages/portals), 并且必须先由 aToken 担保，然后才能投入生命！ 没有例外！ 这就是为什么你需要aTokens和这个页面将为你提供一些有用的信息，说明什么是可用的 aTokens 以及你如何得到它们。
 
-当Aavegotchi从Ethereum Mainnet转移到[ Matic网络 ](/glossary#matic-network)时，这些aTokens也需要在Matic网络上可用。 Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+当Aavegotchi从Ethereum Mainnet转移到[ Matic网络 ](/glossary#matic-network)时，这些aTokens也需要在Matic网络上可用。 我们将内置相应技术[Nick Mudge](/team#nick-mudge)，从而将它们连接到Matic网络上。 Matic网络上的aTokens被称为maTokens。
 
 From a gamer's standpoint, playing Aavegotchi involves:
 
