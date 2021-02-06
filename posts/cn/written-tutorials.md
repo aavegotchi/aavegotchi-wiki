@@ -16,11 +16,11 @@ If you have any other suggestions on new topics to be covered here, do approach 
 **内容**
 
 <ol>
-<li><a href=#matic-tutorial>Matic Tutorial</a></li>
+<li><a href=#matic-tutorial>Matic教程</a></li>
 </ol>
 
 </div>
 
-## Matic Tutorial
+## Matic教程
 Our Great Aassistant Moon has written an aavesome piece on setting up Matic Network on your MetaMask. Check it out [here](/matic)!
 
