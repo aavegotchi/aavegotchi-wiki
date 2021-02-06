@@ -1,5 +1,5 @@
 ---
-author: Beep Operation
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Marketplace'
 description: 'Aavegotchi Marketplaces'
@@ -15,17 +15,17 @@ contributors:
 
 商人 Gotchi 拿出了一件布包着的东西。 他缓慢地拿走了衣服。 这个物品抓住了太阳的能量并反射出光芒。
 
-".....A Mudgen Diamond" you whispered to yourself.
+".....A Mudgen Diamond” 你对自己说道
 
-The marvellous shine caught the attention of countless bystanders.
+炫目的光芒吸引了无数围观者的注意。
 
-Another Gotchi shoved in. "I'll have it!"
+另一个 Gotchi 强行挤进来。 “我要买！”
 
-"NO! I'LL HAVE IT!"
+“不！ 它是我的！”
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+这就是我的朋友 Aavegotchi Baazaar。 你是否足够精明，能快速发现并抢购到好货？ 你能忍受走向富裕途中的噪音吗？
 
-Come and test your mettle! Buyers and sellers alike!
+快来测试一下你的勇气！ 不论买家还是卖家！
 
 <div class="contentsBox">
 
@@ -33,28 +33,28 @@ Come and test your mettle! Buyers and sellers alike!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#collection-addresses>收藏品地址</a></li>
+<li><a href=#opensea-tutorial>OpenSea 教程</a></li>
+<li><a href=#precautions>注意事项</a></li>
 </ol>
 
 </div>
 
 ## Aavegotchi Baazaar
 
-The Aavegotchi Baazaar is the official marketplace for Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
-## Collection Addresses
+## 收藏品地址
 
 The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
 
 table_smartcontracts
 
-## OpenSea Tutorial
+## OpenSea 教程
 
 The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
 
@@ -85,7 +85,7 @@ Using Godlike Raffle Tickets as an example, verify the following:
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## 注意事项
 
 It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
