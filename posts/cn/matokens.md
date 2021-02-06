@@ -2,14 +2,14 @@
 author: Do not prove this
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: '关于Aavegotchi maTokens你需要知道的一切'
 contributors:
   - "unintelligent-nerd"
 ---
 
-当你拿走那些有兴趣的 aTokens 并将它们放入Matic Network时，你会得到什么？ 为什么你会得到matoken，当然！
+当你拿走那些本身享有利息的 aTokens 并将它们转移到Matic Network时，你会得到什么？ 为什么你会得到matoken，当然！
 
-此页面是 [aTokens](/atokens) 页面的继续。 以前，我们已经获得了一些aToken。 现在，我们有兴趣将它们变成玉米，用它们作为抵押品来召唤我们的Aavegotchi 疯狂！
+此页面是 [aTokens](/atokens) 页面的延续。 之前，我们已经获得了一些aTokens。 现在，我们将会把他们转换成maTokens，然后用他们作为抵押品去召唤Aavegotchi frens！
 
 <div class="contentsBox">
 
@@ -17,7 +17,7 @@ contributors:
 
 <ol>
 <li><a href=#converting-atokens-into-matokens>将aTokens转化成maTokens</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>将maTokens抵押进入Aavegotchi</a></li>
 <li><a href=#learn-more>了解更多</a></li>
 </ol>
 
