@@ -11,7 +11,6 @@ Một số tính năng được yêu cầu hoặc đang cần:
 
 * 🌃 Daark Mode
 * Giúp Wiki tương thích với điện thoại hơn
-* ✏️ Nút "Edit this Page" có thể liên kết trực tiếp với trang edit trên Github
 
 <div style="margin-top:50px;"></div>
 
