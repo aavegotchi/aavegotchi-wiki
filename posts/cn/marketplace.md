@@ -58,19 +58,19 @@ table_smartcontracts
 
 OpenSea 教程会为您提供一些基础性的指导，告诉您如何在 OpenSea 平台购买资产。 Raffle Tickets 就是其中的一个例子， 您可以将相同的操作步骤扩展到其他资产类别（例如可穿戴设备等）。
 
-Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票。 它们有以下6种类型之一：（1）常见，（2）罕见，（3）稀有，（4）传奇，（5）神话（6）创世。 从视觉上看，他们看起来像下面的图像。
+Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以下6种类型：（1）普通，（2）罕见，（3）稀少，（4）传奇，（5）神话，以及（6）创世。 视觉上来讲，他们看起来像下方图片里面的形象。
 
 <img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi 冲锋票" class="bodyImage" />
 
-所有6种抽奖券共享相同的合同地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
+所有6种 Raffle tickets 都是同一个合约地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
-若要购买 [OpenSea](https://opensea.io/), 在 OpenSea 搜索栏中的关键词“aavegotchi FRENS raffle tickets”。 选择从下拉菜单弹出的关键字 (在红色中盘旋)。 一个替代办法是在上面的 [表](/posts/marketplace#collection-addresses) 中使用到 Raffle Tickets 收藏的链接。
+在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
 
 <img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS 抽签单" class="bodyImage" />
 
-浏览到您打算购买的奖券类型。
+挑选您喜欢的 Raffle ticket。
 
-使用Godlike Raffle Tickets作为示例，验证以下内容：
+以创世 Godlike Raffle Tickets 为例，验证以下内容：
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)：
 
