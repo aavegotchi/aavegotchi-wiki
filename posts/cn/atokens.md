@@ -64,28 +64,28 @@ aTokens可以分为两类。(1) 加密货币，或 (2) 稳定币。 加密货币
 
 *以下步骤取自Aave Medium的 [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) 。 为了方便读者阅读，在此进行了复制。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). 首先从 <a href = "https://app.aave.com/">Aave Protocol</a>  开始吧!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). 在这里，你有几个选项来链接你的加密钱包，这取决于你有哪种类型的钱包。
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). 在你使用Aave协议之前，你需要先拥有一些加密资产。 可用的加密资产列表，在上述 <a href=#stablecoins>Stablecoins</a>  和 <a href=#cryptocurrencies>Cryptocurrencies</a> 列表当中已经有所展示。
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+如果您没有任何加密资产，但您想加入其中，您需要将您的法币（正常货币，如美元、欧元等）转换为加密资产（如上述之一）。
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+幸运的是，Aave最近推出了一个一站式将法币兑换成加密货币平台，因而你可以直接在Aave协议应用中购买加密资产!  现在，仅需要几分钟时间，您可以使用Transak或Ramp Instant通过信用卡或借记卡或电汇，购买您想要的资产（见下文）。
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). 当您将钱包连接到平台后，您可以将资产存入Aave协议。 当您点击 "存款（Deposit） "时，界面会显示您钱包里有哪些可以入金的资产。 然后选择您想存入的资产，选择存入的金额，然后就完成了!  * 注意：在实际存款交易发生之前，会有一个 "批准（Approve） "交易。 这是为了允许存款合约能够调用您存入的相应资产。</p>
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+只要您的存款交易通过，您就坐享存款利息了。 现在你应该可以在您的钱包中看到相应资产的aToken版本。
 
 ## 将aTokens转化成maTokens
 
-Got your aTokens? Good!
+拿到你的aTokens了吗？ 很好！
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+让我们前往 [maTokens](/matokens) 页面进行第二步！
