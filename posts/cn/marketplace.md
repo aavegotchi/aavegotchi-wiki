@@ -1,5 +1,5 @@
 ---
-author: Unintelligent Nerd
+author: Beep Operation
 date: '2020-04-23T07:00:00.000Z'
 title: 'Marketplace'
 description: 'Aavegotchi Marketplaces'
@@ -9,11 +9,11 @@ contributors:
 
 "Psst.....you there"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+商人 Gotchi 偷偷地把你招到他的摊位前，眼睛里闪烁着光芒。
 
-"I have something aamazing for you."
+"我有个很棒的东西给你。"
 
-The Merchant Gotchi brought out a cloth-covered object. Slowly, he pulled away the cloth. The object caught the sun's rays and shone in the bright afternoon sun.
+商人 Gotchi 拿出了一件布包着的东西。 他缓慢地拿走了衣服。 这个物品抓住了太阳的能量并反射出光芒。
 
 ".....A Mudgen Diamond" you whispered to yourself.
 
