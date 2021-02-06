@@ -28,13 +28,13 @@ Aavegotchi遵循“逐步分散化”的流程，遵循了诸如Descompound和Sy
 <li><a href=#metamorphosis>变形</a></li>
 <li><a href=#oasis>绿洲</a></li>
 <li><a href=#participating-in-governance>参与治理</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
+<li><a href=#voting>投票</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi改进建议(AGIPs)</a></li>
 </ol>
 
 </div>
 
-## 起源
+## 创世纪
 
 *查看* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
@@ -61,7 +61,7 @@ AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotc
 
 一旦游戏发布，更多详细信息将会被刷新！
 
-## Voting
+## 投票
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
