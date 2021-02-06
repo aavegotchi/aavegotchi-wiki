@@ -1,5 +1,5 @@
 ---
-author: 007
+author: dagongzai
 date: '2020-04-23T07:00:00.000Z'
 title: 'Marketplace'
 description: 'Aavegotchi Marketplaces'
@@ -42,52 +42,52 @@ contributors:
 
 ## Aavegotchi Baazaar
 
-Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新资讯。
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
 ## 收藏品地址
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+下表显示了各种 Aavegotchi 资产的官方智能合约地址。 在任何市场购买之前, 请对照下表中的相关合同来验证您购买的资产的合同。（例如您打算购买一个Raffle Ticket，请在继续之前对照Raffle Tickets合同地址检查)。
 
 table_smartcontracts
 
 ## OpenSea 教程
 
-The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
+OpenSea 教程是在购买任何OpenSeare之前如何进行一些基本的应有注意的例子。 本教程并非详尽无遗; Raffle Tickets被用作一个例子。 您可以将相同的原则扩展到其他资产类别(例如Wearables等)。
 
-Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
+抽奖券是指用于参加Aavegotchi抽奖活动的门票。 它们有以下6种类型之一：（1）常见，（2）罕见，（3）稀有，（4）传奇，（5）神话（6）创世。 从视觉上看，他们看起来像下面的图像。
 
-<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi 冲锋票" class="bodyImage" />
 
-All 6 types of Raffle tickets share the same contract address: 0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
+所有6种抽奖券共享相同的合同地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
-To purchase them off [OpenSea](https://opensea.io/), key in the search term "aavegotchi FRENS raffle tickets" in the search bar on OpenSea. Select the same keywords that pop up from the dropdown menu (circled in red below). An alternative is to use the link to the Raffle Tickets collection on OpenSea in the [table](/posts/marketplace#collection-addresses) above.
+若要购买 [OpenSea](https://opensea.io/), 在 OpenSea 搜索栏中的关键词“aavegotchi FRENS raffle tickets”。 选择从下拉菜单弹出的关键字 (在红色中盘旋)。 一个替代办法是在上面的 [表](/posts/marketplace#collection-addresses) 中使用到 Raffle Tickets 收藏的链接。
 
-<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS 抽签单" class="bodyImage" />
 
-Navigate to the type of Raffle ticket you are intending to purchase.
+浏览到您打算购买的奖券类型。
 
-Using Godlike Raffle Tickets as an example, verify the following:
+使用Godlike Raffle Tickets作为示例，验证以下内容：
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)：
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket" />
+<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi 冲锋票" />
 
 * OpenSea 收藏标题旁边有一个“经验证的合同”蓝色标记(在红色中盘旋)。
 
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage" />
+<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi FRENS 抽签单" class="bodyImage" />
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)： 在屏幕的左上角，将有一个“链信息”小节。 展开小节，然后将合同地址与抽奖券合同地址（0x93eA6ec350Ace7473f7694D43dEC2726a515E31A）进行比较。 如果它们相似，你们就会很好。
 
-<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi 在链中信息opensea" class="bodyImage" />
 
 
 ## 注意事项
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+用辛苦赚来的钱来买假资产并不是一件有趣的事，因此在Opensea和其他二级市场上进行购买时，请务必谨慎。 记住，如果它看起来太好了，它可能是好的！
 
 * 总是要仔细检查这些物品的合同地址来自正确的合同地址。
 * 如果你不知道什么，去 [官方的 Aavegotchi Discord](https://discord.com/invite/NPwnWB6)，那里总是有疯狂的学徒愿意帮助！
