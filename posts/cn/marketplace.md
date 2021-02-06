@@ -60,13 +60,13 @@ OpenSea 教程会为您提供一些基础性的指导，告诉您如何在 OpenS
 
 Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以下6种类型：（1）普通，（2）罕见，（3）稀少，（4）传奇，（5）神话，以及（6）创世。 视觉上来讲，他们看起来像下方图片里面的形象。
 
-<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi 冲锋票" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
 
 所有6种 Raffle tickets 都是同一个合约地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
 在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方显示为红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
 
-<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS 抽签单" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
 
 挑选您喜欢的 Raffle ticket。
 
@@ -74,15 +74,15 @@ Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以�
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)：
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi 冲锋票" />
+<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket" />
 
 * OpenSea 收藏标题旁边有一个“经验证的合同”蓝色标记(在红色中盘旋)。
 
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi FRENS 抽签单" class="bodyImage" />
+<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage" />
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)： 在屏幕的左上角，将有一个“链信息”小节。 展开小节，然后将合同地址与抽奖券合同地址（0x93eA6ec350Ace7473f7694D43dEC2726a515E31A）进行比较。 如果它们相似，你们就会很好。
 
-<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi 在链中信息opensea" class="bodyImage" />
+<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
 ## 注意事项
