@@ -19,7 +19,7 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 当Aavegotchi从Ethereum Mainnet转移到[ Matic网络 ](/glossary#matic-network)时，这些aTokens也需要在Matic网络上可用。 我们将内置相应技术[Nick Mudge](/team#nick-mudge)，从而将它们连接到Matic网络上。 Matic网络上的aTokens被称为maTokens。
 
-From a gamer's standpoint, playing Aavegotchi involves:
+从玩家的角度来看，玩Aavegotchi包括：
 
 1. Getting some aTokens
 2. Converting aTokens to maTokens
