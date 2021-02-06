@@ -47,7 +47,7 @@ contributors:
 
 网络名称：Matic Mainnet
 
-新 RPC URL： https://rpc-mainnet.maticvilli.com/
+新 RPC URL： https://rpc-mainnet.maticvigil.com/
 
 链条ID：137
 
