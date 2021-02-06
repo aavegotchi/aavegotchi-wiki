@@ -11,7 +11,6 @@ Einige gewünschte oder benötigte Features:
 
 * 🌃 Daark Mode
 * 📱 Besser anpassen für Mobile
-* ✏️ "Edit this Page" Button, der direkt auf die Github Bearbeitungsseite verlinkt
 
 <div style="margin-top:50px;"></div>
 
