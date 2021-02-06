@@ -1,5 +1,5 @@
 ---
-author: Do not prove this
+author: BeepCrypto
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
 description: '关于Aavegotchi maTokens你需要知道的一切'
@@ -29,33 +29,33 @@ contributors:
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-接着，点击令牌图像(在下方红色中盘旋)打开一个下拉菜单。 此时此刻，只支持三个令牌：(1) USDC，(2) aDAI和(3) aWETH。
+接下来，点击代币图片（下方红色圆圈），打开代币的下拉菜单。 目前，暂且只支持三种aToken。(1) aUSDC、(2) aDAI和(3) aWETH。
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-在选择标记后，您想要传输到Matic 的金额的密钥。 使用 aUSDC 作为示例，您想要在红色高亮的方框中传输到Matic Network的金额中的键值。
+选择代币后，输入您要转入Matic的金额。 以aUSDC为例，在高亮的红色框中输入您想转入Matic网络的金额。
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-一旦您按需要的金额键入，点击“批准传输”按钮。 等待交易在以太坊通过。
+输入所需金额后，点击 "Approve Transfer批准转账 "按钮。 等待交易在以太坊通过。
 
 审批交易完成后，点击"传输到Matic"按钮。 等待交易在以太坊通过。
 
-在你这样做之后，给你的 matokens 以10分钟左右的时间出现在你的钱包。
+上述操作之后，你的 matokens 将在10分钟左右之后出现在你的钱包。
 
 如果您正在使用Metamask，希望了解如何在它上配置Matic Network。 请先来看看 [Matic Guide](/matic) 以了解如何做到这一点。
 
-## 将 aTokens 质押到Aavegotchis
+## 将 maTokens 质押到Aavegotchis
 
-好吧，我已经获得了一些aTokens。 现在怎么办？
+好吧，我已经获得了一些maTokens。 现在怎么办？
 
-干得好朋友
+干得好朋友！
 
-下一步是购买 [portal](/portals) ，通过 [GHST](/ghst). 门户可以在 Aavegotchi DApp (启动时将提供链接) 或在 [次要市场](/marketplace) 上购买，如Openseas。 一旦你获得了一个宝贵的传送门，现在是开始传唤进程的时候了。 打开门户网站后，您将会收到10个Gotchis，每个Gotchis都有随机必需的 aToken/抵押品。 这里是您获得的 aToken 的地方。 把它押在有相同抵押品类型的Gotchi上，让你的朋友复活!
+下一步是购买 [传送门portal](/portals) ，通过 [GHST](/ghst). 用户可以在 Aavegotchi DApp (启动时将提供链接) 或在 [二级市场](/marketplace) ，如Openseas 上购买传送门。 一旦你获得了一个宝贵的传送门，现在是开始进入召唤流程了。 打开传送门之后，您将会收到10个小鬼Gotchis，每个Gotchis都有随机必需的 aToken/抵押品。 这就是你获得的maToken的作用。 把它押注在具有相同抵押品类型的Gotchi上，让你的fren活起来!
 
-若要更详细地解释门户打开过程，请查看我们的 [传送门](/portals) 页面。
+若要更详细地解释传送门Portal打开过程，请查看我们的 [传送门Portals](/portals) 页面。
 
 ## 了解更多资讯
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Matic Network as maTokens
-* Nick Mudge 潜入了 [makens 的技术细节](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* [Nick Mudge](/team#nick-mudge) 在[Twitter ](https://twitter.com/mudgen/status/1352399348219445250)  上发表了关于他在Matic网络上成功部署aTokens作为maTokens的帖子。
+* Nick Mudge 深入探讨了 [maTokens 的技术细节](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
