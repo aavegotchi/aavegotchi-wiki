@@ -42,7 +42,7 @@ AavegotchiDAO 的第一次迭代 与GHST在绑定曲线上的分布同步启动�
 
 代币持有者不会因积极参与AavegotchiDAO的激发而获得GHST奖励。
 
-## 变形
+## 蜕变
 
 Metamorphossi是AavegotchiDAO的第二次迭代，负责管理Aavegotchi的简单游戏机械师。 例如Aavegotchis的总供应量，增加新的抵押品，决定其功能，增加社区创造的新的杂质。 当迁移到AavegotchiDAO Metamorphosis的时间时，代币持有者也会投票执行迁移。
 
@@ -63,58 +63,58 @@ AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotc
 
 ## 投票
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+有两种投票方式。(1)快照投票，和/或(2)Aragon投票。
 
 
-### Snapshot Voting
+### 快照投票
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+快照投票是Ethereum上的一个投票DApp。 在Snapshot上进行的投票不需要任何gas费用，也不在链上。 Aavegotchi的快照投票页面可以在[这里](https://snapshot.page/#/aavegotchi.eth)找到
 
-To vote on Snapshot, follow the steps below:
+要在Snapshot上投票，请按照以下步骤进行。
 
-1). Go to an open proposal.
+1). 进入一个公开的提案。
 
-2). Connect your wallet.
+2). 连接你的钱包。
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). 选择一个投票选项，然后点击 "投票"。 会出现一个弹窗，确认你的选择。
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). 你的Metamask会弹出。 签署交易，就完成了!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
-### Aragon Voting
+### Aragon投票
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon是一个在Ethereum上创建和参与去中心化组织的工具。 在Aragon上进行的投票需要gas费用，并且存在链上。
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aavegotchi的Aragon页面可以在 [这里 ](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/)找到。
 
-To vote on Aragon, follow the steps below:
+要在Aragon上投票，请按照以下步骤进行。
 
-1). Go to an open proposal.
+1). 进入一个公开的提案。
 
-2). Connect your wallet.
+2). 连接你的钱包。
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). 选择投票“是”与“否”。
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Metamask交易将会弹出。 注意，你的交易要经过区块确认之后才会成功，所以可以及时查看[gasnow](https://gasnow.org/) 等网站，了解最新的gas费。
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). 一旦交易成功，你的投票就会有相应的体现。
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
-## Aavegotchi Improvement Proposals (AGIPs)
+## Aavegotchi改进提案（AGIPs）
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+看到Aragon上的那些投票了吗？ 它们是Aavegotchi改进提案（AGIPs）！
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+请访问[Aavegotchi改进提案](/aavegotchi-improvement-proposals) 页面，查看历史投票列表。 如果你想及时了解到未来的一些提案，请在[社交媒体](/socialmedia)上关注Aavegotchi。
