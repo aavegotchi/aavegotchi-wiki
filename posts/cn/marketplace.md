@@ -1,8 +1,8 @@
 ---
 author: you can proof read this
 date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+title: '交易市场'
+description: 'Aavegotchi 交易市场'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -42,7 +42,7 @@ contributors:
 
 ## Aavegotchi Baazaar
 
-Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新资讯。
+Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新发售情况。
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
@@ -52,7 +52,7 @@ Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotc
 
 下表显示了不同种类 Aavegotchi 资产的官方智能合约地址。 在消费之前，请您根据下表中的相关信息核对您所购买的资产的智能合约（例如，如果您打算购买 Raffle Ticket（抽奖券），请在操作之前根据 Raffle Ticket 合约地址进行核实）。
 
-table_smartcontracts
+合约地址表
 
 ## OpenSea 教程
 
