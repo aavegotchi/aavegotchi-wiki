@@ -5,12 +5,12 @@ title: 'Develop this Wiki'
 description: 'Jump in and help develop this Wiki!'
 ---
 
-Wanna show off your hotshot coding skills? Help develop this Wiki! Help develop this Wiki!
+想展示你的厉害的编码技术吗？帮助开发这个Wiki!  帮助开发这个Wiki!
 
-Some requested or needed features:
+一些要求或需要的功能。
 
-* 🌃 Daark Mode
-* 📱 Make it more Mobile frenly
+* 🌃 深色模式
+* 📱 让它移动端更加友好化
 
 <div style="margin-top:50px;"></div>
 
