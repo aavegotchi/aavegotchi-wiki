@@ -21,13 +21,13 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 从玩家的角度来看，玩Aavegotchi包括：
 
-1. Getting some aTokens
-2. Converting aTokens to maTokens
-3. After opening a Portal, using maTokens as collateral to summon an Aavegotchi
+1. 首先获得一些aTokens
+2. 将aTokens转换为maTokens
+3. 开启传送门后，用maTokens作为抵押品，召唤出Aavegotchi
 
-In this page, we will instruct you in the ways of the aTokens.
+在本页中，我们将指导你学习aTokens的方法
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
+在Aavegotchi中，"精神力"、"抵押品"、"aTokens "和 "maTokens "这几个词的意思是一样的。
 
 <div class="contentsBox">
 
@@ -38,7 +38,7 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens"
 <li><a href=#stablecoins>稳定币</a></li>
 <li><a href=#cryptocurrencies>加密货币</a></li>
 <li><a href=#getting-atokens>获取 aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>将aTokens转化成maTokens</a></li>
 </ol>
 
 </div>
@@ -84,7 +84,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Converting aTokens into maTokens
+## 将aTokens转化成maTokens
 
 Got your aTokens? Good!
 
