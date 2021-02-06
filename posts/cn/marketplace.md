@@ -64,7 +64,7 @@ Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以�
 
 所有6种 Raffle tickets 都是同一个合约地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
-在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
+在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方显示为红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
 
 <img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS 抽签单" class="bodyImage" />
 
@@ -87,7 +87,7 @@ Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以�
 
 ## 注意事项
 
-用辛苦赚来的钱来买假资产并不是一件有趣的事，因此在Opensea和其他二级市场上进行购买时，请务必谨慎。 记住，如果它看起来太好了，它可能是好的！
+在 Opensea 和其他二级市场上购买资产固然有趣，但保护财产安全也是重中之重，请您务必小心谨慎。 记住，如果什么东西美好得不像真的，那你就要保持警惕！
 
 * 总是要仔细检查这些物品的合同地址来自正确的合同地址。
 * 如果你不知道什么，去 [官方的 Aavegotchi Discord](https://discord.com/invite/NPwnWB6)，那里总是有疯狂的学徒愿意帮助！
