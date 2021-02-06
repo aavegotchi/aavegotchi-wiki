@@ -47,22 +47,22 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 当基础资产借给借款人时，aToken将会实时计息，而利润会直接进入你的钱包!  说真的，你可以看到你的余额每分钟都在增长。
 
-aTokens可以分为两类。(1) 加密货币，或 (2) 稳定币。 加密货币是由加密技术确保其安全的数字或虚拟货币。 Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokens可以分为两类。(1) 加密货币，或 (2) 稳定币。 加密货币是由加密技术确保其安全的数字或虚拟货币。 大多数加密货币是基于区块链技术的去中心化网络--由不同的计算机网络执行的分布式账本。 稳定币是一类通过与美元（USD）等外部参照物挂钩，从而达到价格稳定的加密货币。 不同稳定币的挂钩基础机制不同，每个稳定币都有自己的风险特征。
 
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) （加密货币和稳定币）可在Aave协议上使用。 “Aavegotchi支持一览”表示给定的aToken是否可以用于Aavegotchi游戏。 支持的aToken列表尚未最终确定；将通过twitter投票/DAO投票，根据玩家的需求，从而增加更多Aavegotchi游戏的aToken总类。
 
 ## 稳定币
 
-table_stablecoins
+稳定币表
 
 ## 加密货币
 
-table_cryptocurrencies
+加密货币表
 
 ## 获取 aTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*以下步骤取自Aave Medium的 [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) 。 为了方便读者阅读，在此进行了复制。*
 
 1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
