@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-"Psst.....you there"
+“嘿…伙计”
 
-商人 Gotchi 偷偷地把你招到他的摊位前，眼睛里闪烁着光芒。
+商人 Gotchi 神秘地把你招到他的摊位前，眼睛里闪烁着光芒。
 
-"我有个很棒的东西给你。"
+“给你看个厉害的。"
 
-商人 Gotchi 拿出了一件布包着的东西。 他缓慢地拿走了衣服。 这个物品抓住了太阳的能量并反射出光芒。
+商人 Gotchi 拿出了一件用布包裹着的东西。 他缓缓揭开了布， 里面的宝贝仿佛在一瞬间吸收了太阳的能量，反射出了耀眼的光芒。
 
-".....A Mudgen Diamond” 你对自己说道
+"…..是 Mudgen 钻石嘛” 你自己嘀咕着。
 
-炫目的光芒吸引了无数围观者的注意。
+但同时，宝贝散发出的炫目的光芒也吸引了无数围观者的注意。
 
-另一个 Gotchi 强行挤进来。 “我要买！”
+另一个 Gotchi 强行挤进来喊着， “我要买！”
 
 “不！ 它是我的！”
 
-这就是我的朋友 Aavegotchi Baazaar。 你是否足够精明，能快速发现并抢购到好货？ 你能忍受走向富裕途中的噪音吗？
+朋友们看到了嘛，这就是 Aavegotchi Baazaar 交易市场的热闹非凡。 你能在交易市场中下手稳准狠吗？ 你能抵御致富道路上的种种噪音吗？
 
-快来测试一下你的勇气！ 不论买家还是卖家！
+快来测试一下你的能力和勇气！ 不论你是买家还是卖家！
 
 <div class="contentsBox">
 
@@ -50,15 +50,15 @@ Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotc
 
 ## 收藏品地址
 
-下表显示了各种 Aavegotchi 资产的官方智能合约地址。 在任何市场购买之前, 请对照下表中的相关合同来验证您购买的资产的合同。（例如您打算购买一个Raffle Ticket，请在继续之前对照Raffle Tickets合同地址检查)。
+下表显示了不同种类 Aavegotchi 资产的官方智能合约地址。 在消费之前，请您根据下表中的相关信息核对您所购买的资产的智能合约（例如，如果您打算购买 Raffle Ticket（抽奖券），请在操作之前根据 Raffle Ticket 合约地址进行核实）。
 
 table_smartcontracts
 
 ## OpenSea 教程
 
-OpenSea 教程是在购买任何OpenSeare之前如何进行一些基本的应有注意的例子。 本教程并非详尽无遗; Raffle Tickets被用作一个例子。 您可以将相同的原则扩展到其他资产类别(例如Wearables等)。
+OpenSea 教程会为您提供一些基础性的指导，告诉您如何在 OpenSea 平台购买资产。 Raffle Tickets 就是其中的一个例子， 您可以将相同的操作步骤扩展到其他资产类别（例如可穿戴设备等）。
 
-抽奖券是指用于参加Aavegotchi抽奖活动的门票。 它们有以下6种类型之一：（1）常见，（2）罕见，（3）稀有，（4）传奇，（5）神话（6）创世。 从视觉上看，他们看起来像下面的图像。
+Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票。 它们有以下6种类型之一：（1）常见，（2）罕见，（3）稀有，（4）传奇，（5）神话（6）创世。 从视觉上看，他们看起来像下面的图像。
 
 <img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi 冲锋票" class="bodyImage" />
 
