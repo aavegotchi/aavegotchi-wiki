@@ -1,7 +1,7 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: '术语表'
+title: '词汇表'
 description: '关于Aavegotchi、NFT 和 DeFi 术语的词汇。'
 image: "IMAGE HERE"
 contributors:
