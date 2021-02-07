@@ -247,6 +247,6 @@ Validator là những người tham gia vào mạng lưới những người ch�
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Matic Network](/glossary#matic-network)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#matic-network). Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+Truy cập vào Quickswap tại [đây](https://quickswap.exchange).
