@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-"Psst.....you there"
+"Ệi...cậu đây rồi"
 
 The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
 
