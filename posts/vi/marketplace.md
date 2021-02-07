@@ -15,17 +15,17 @@ Tay Buôn Gotchi lén ngoắt tay liếc mắc gọi bạn vào sạp đồ.
 
 Tay Buôn Gotchi rút ra một vật thể gói trong lớp vải. Hắn chầm chậm bỏ miếng vải ra. Vật thể ấy bắt nắng và chiếu sáng chói loà dưới ánh mặt trời ban trưa.
 
-".....A Mudgen Diamond" you whispered to yourself.
+"... Một Viên Kim Cương Mudgen" bạn tự thì thầm với mình.
 
-The marvellous shine caught the attention of countless bystanders.
+Tia sáng kỳ ảo ấy bắt lấy mọi ánh nhìn của vô số những người đứng xung quanh.
 
-Another Gotchi shoved in. "I'll have it!"
+Một Gotchi khác chen vào. "Tôi sẽ mua món này!"
 
-"NO! I'LL HAVE IT!"
+"KHÔNG ĐƯỢC! "MÓN NÀY LÀ CỦA TÔI!"
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Nơi đây, bạn tôi ơi, chính là Aavegotchi Baazaar. Bạn có đủ sành sỏi để tìm và chốt được một deal ngon lành nhanh gọn hay không? Bạn có thể chịu được nhiệt khi trả giá với bọn nhà giàu hay không?
 
-Come and test your mettle! Buyers and sellers alike!
+Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 <div class="contentsBox">
 
@@ -33,28 +33,28 @@ Come and test your mettle! Buyers and sellers alike!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
+<li><a href=#opensea-tutorial>Hướng Sử Dụng OpenSea</a></li>
+<li><a href=#precautions>Khuyến Cáo</a></li>
 </ol>
 
 </div>
 
 ## Aavegotchi Baazaar
 
-The Aavegotchi Baazaar is the official marketplace for Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
-## Collection Addresses
+## Địa Chỉ Của Các Vật Phẩm
 
 The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
 
 table_smartcontracts
 
-## OpenSea Tutorial
+## Hướng Sử Dụng OpenSea
 
 The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
 
@@ -85,7 +85,7 @@ Using Godlike Raffle Tickets as an example, verify the following:
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## Khuyến Cáo
 
 It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
