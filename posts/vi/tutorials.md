@@ -29,14 +29,14 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 <ol>
 <li><a href=#video-tutorials>Video Hướng dẫn</a></li>
-<li><a href=#written-tutorials>Written Tutorials</a></li>
+<li><a href=#written-tutorials>Bài Viết Hướng Dẫn</a></li>
 </ol>
 
 </div>
 
 ## Video Hướng dẫn
 
-For those who prefer watching videos, check out the [Video Tutorials](/video-tutorials) page.
+Với những bồ tèo thích xem video, hãy ghé qua trang [Video Tutorials](/video-tutorials) nhé!
 
-## Written Tutorials
-Prefer the written word instead? Check out the [Written Tutorials](/written-tutorials) page.
+## Bài Viết Hướng Dẫn
+Thích đọc bài viết hơn đúng hôn? Hãy xem qua trang [Written Tutorials](/written-tutorials) nha!
