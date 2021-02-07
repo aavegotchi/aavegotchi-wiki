@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+description: 'Aavegotchi 综合指南'
 image: "icons/introduction.svg"
 ---
 
@@ -11,29 +11,29 @@ image: "icons/introduction.svg"
 <p class="headerImageText">Aavegotchi 百科</p>
 </div>
 
-欢迎来到官方的Aavegotchi百科
+欢迎来到 Aavegotchi 官方百科！
 
-这个aavegotchi百科是所有Aavegotchi的中心知识网，由我们的著名贡献者团队，即Aarchivers维护和更新。
+Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由社区贡献者们，即 Aarchivers，来负责维护和更新。
 
-## Aavegotchi相关
+## 初来乍到？
 
-这里 [介绍](https://wiki.aavegotchi.com/introduction) 用于Aavegotchi 游戏的详细概述。
+点击 [简介](https://wiki.aavegotchi.com/introduction) 快速了解 Aavegotchi 游戏。
 
 ## 热门链接
-* [游戏玩法](/gameplay) -- Aavegotchi游戏简介
-* [GHST](/ghst) -- 了解Aavegotchi的生态治理令牌
-* [质押](/staking) -- 学习如何使用 GHST 质押
-* [DAO](/dao) — 关于AavegotchiDAO 的一切内容
-* [稀有农场](/rarity-farming) -- 玩Avegotchi 并获得奖励！
+* [游戏玩法](/gameplay) -- Aavegotchi 游戏简介
+* [GHST](/ghst) -- Aavegotchi 的生态治理代币
+* [质押](/staking) -- 学习质押 GHST
+* [DAO](/dao) -- 深入了解 AavegotchiDAO
+* [稀缺性挖矿](/rarity-farming) -- 边玩边赚
 
-## 其它有用链接
+## 相关链接
 
-* [团队](https://wiki.aavegotchi.com/team) -- 查看Aavegotchi的创建团队
-* [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi的最新路线图。
+* [团队](https://wiki.aavegotchi.com/team) -- Aavegotchi 核心成员
+* [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi 最新版路线图
 
 
 
-## 贡献
+## 为社区做出更多贡献
 
 任何人都可以为百科做出贡献，你只需要我们 [Github](https://github.com/aavegotchi/aavegotchi-wiki) 的写入权限。
 
