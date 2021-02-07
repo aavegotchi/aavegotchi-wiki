@@ -1,11 +1,11 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: '游戏玩法'
+description: 'Aavegotchi游戏介绍'
 ---
 
-Aavegotchi有一个真正独特的游戏，由多个元素组成，混合在NFT和Defi之间。
+Aavegotchi是真正将NFTs和DeFi融合在一起的独特游戏。
 
 <div class="contentsBox">
 
@@ -15,7 +15,7 @@ Aavegotchi有一个真正独特的游戏，由多个元素组成，混合在NFT�
 <li><a href=#ghst-token>GHST 代币</a></li>
 <li><a href=#portals>传送门</a></li>
 <li><a href=#wearables>可穿戴装备</a></li>
-<li><a href=#rarity-farming>稀有农场</a></li>
+<li><a href=#rarity-farming>稀有度挖矿</a></li>
 <li><a href=#minigames>迷你游戏</a></li>
 </ol>
 
@@ -23,7 +23,7 @@ Aavegotchi有一个真正独特的游戏，由多个元素组成，混合在NFT�
 
 ## GHST 代币
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) 是Aavegotchi生态系统的本机管理令牌和基础货币，可释放游戏中最强大的功能。 您可以将其抵押以获得FRENS，并将其转换为抽奖券，购买Portal和可穿戴设备，赚取更多GHST（即将推出！）等等。
+[GHST](https://wiki.aavegotchi.com/en/ghst) 是Aavegotchi生态系统的原生治理代币和基础货币，可用于解锁游戏中最棒的功能。 您可以将其抵押以获得FRENS，并将其转换为抽奖券，购买Portal和可穿戴设备，赚取更多GHST（即将推出！）等等。
 
 您可以通过Aavegotchi [绑定曲线](https://wiki.aavegotchi.com/en/curve) 或您最喜欢的一次交易购买GHST。
 
