@@ -22,9 +22,9 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团
 ## 热门链接
 * [游戏玩法](/gameplay) -- Aavegotchi 游戏简介
 * [GHST](/ghst) -- Aavegotchi 的生态治理代币
-* [质押](/staking) -- 学习质押 GHST
+* [质押](/staking) -- 学习如何质押 GHST获得FRENS
 * [DAO](/dao) -- 深入了解 AavegotchiDAO
-* [稀缺性挖矿](/rarity-farming) -- 边玩边赚
+* [稀有度挖矿](/rarity-farming) -- 边玩边赚
 
 ## 相关链接
 
