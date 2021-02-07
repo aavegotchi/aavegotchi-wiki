@@ -9,11 +9,11 @@ contributors:
 
 "Ệi...cậu đây rồi"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Tay Buôn Gotchi lén ngoắt tay liếc mắc gọi bạn vào sạp đồ.
 
-"I have something aamazing for you."
+"Ta có món hàng khủng này muốn cho cậu xem."
 
-The Merchant Gotchi brought out a cloth-covered object. Slowly, he pulled away the cloth. The object caught the sun's rays and shone in the bright afternoon sun.
+Tay Buôn Gotchi rút ra một vật thể gói trong lớp vải. Hắn chầm chậm bỏ miếng vải ra. Vật thể ấy bắt nắng và chiếu sáng chói loà dưới ánh mặt trời ban trưa.
 
 ".....A Mudgen Diamond" you whispered to yourself.
 
