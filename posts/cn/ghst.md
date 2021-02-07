@@ -34,37 +34,37 @@ contributors:
 </div>
 
 ## 为什么要GHST？
-用户激励在任何项目中都发挥着巨大的作用。 在这种情况下，GHST提供了经济激励，以鼓励更多的人参与Aavegotchi生态系统。 具体而言，这种象征有助于协调AavegotchiDAO、GHST持有人和Aavegotchi持有人各自的目标。
+用户激励在任何项目中都发挥着巨大的作用。 在这种情况下，GHST提供了经济激励，以鼓励更多的人参与Aavegotchi生态系统。 具体来说，该代币有助于平衡AavegotchiDAO、GHST持有者和Aavegotchi持有者各自的角色。
 
-玩家必须购买GHST，并在召唤和训练Aavegotchis的过程中花费它。 其中一部分直接转移回DAO，继续为生态系统的发展提供资金。 同时，部分价值也作为对DAO中明智管理的奖励和对进行稀有农业的奖励而分配。
+玩家必须购买GHST，并在召唤和训练Aavegotchis的过程中进行消费。 其中一部分会直接转回DAO，继续资助生态系统的发展。 同时，部分价值也会作为DAO中明智治理的奖励，以及从事稀有度挖矿的奖励进行分配。
 
-欲了解更多信息，请务必查看侧边栏中'Tokenomics'下的页面。
+更多信息，请务必查看侧边栏 "Tokenomics "下的页面。
 
 ## 使用 GHST
-你可以对GHST做什么，除了买它和想要赢得东西？ 很多，一旦您了解了使用GHST的各种方法，我们就会觉得您可能会重新考虑销售。
+除了买GHST，然后想知道他什么时候涨上天之外，你能用GHST做什么呢？ 很多哦，一旦你了解了GHST的各种使用方法，我们感觉你可能会重新考虑抛售。
 
 这些包括：
 
 * 购买 [传送门](/portals) 以召唤Aavegotchis
 * 购买 [可穿戴装备](/wearables) 来装备你的 Aavegotchis
 * 购买 [REALM包裹](/metaverse) (更多信息 TBC)
-* [质押GHST](/staking), 获取积分，购买门票并赢得抽奖奖品
+* [质押GHST](/staking), 获取FRENS，购买抽奖券然后赢取抽奖奖品。
 
 ## 购买GHST
 准备好你的钱包(最好是Metamask) - 有两种主要方法购买GHST 令牌。
 
-You can either buy it straight from the [curve](/curve) (though this requires KYC, which unfortunately precludes citizens of the United States and China); or buy it from an [exchange](https://www.coingecko.com/en/coins/aavegotchi#markets) - several DEXes such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST), as well as CEXes like [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), carry GHST.
+你可以直接从 [联合曲线](/curve) 购买GHST（需要KYC，另外需要注意的是，美国和中国的公民不允许参与）；或者从[交易所](https://www.coingecko.com/en/coins/aavegotchi#markets) 购买GHST--DEXs如 [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) 和 [Matcha](https://matcha.xyz/markets/GHST)，以及CEXs如 [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1)和 [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)。
 
-确保您也有正确的令牌地址： [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)。 **请验证此链接与其他官方发布的 Aavegotchi 消息来源的链接 - 它从不伤害额外的注意。**
+确保你也得到正确的代币地址。0x3F382DbD960E3a9bbCeaE22651E88158d2791550 **请将此链接与其他官方发布的Aavegotchi来源进行对比验证--小心无大错。**
 
 ## 获得GHST
-不是每个人都是鲸鱼，这很好——在深海海域有很多东西可以去做。
+不是每个人都是鲸鱼，这很好——在DeFi领域有很多东西可以去做。
 
-有几种方法可以研磨它并获得GHST。 这些包括：
+有几种方法可以帮助你获得GHST。 这些包括：
 
-* 使用 [稀有农业](/rarity-farming)
+* 参与 [稀有度挖矿](/rarity-farming)
 * 在 [AavegotchiDAO 中参与投票](/dao)
-* 在迷你游戏中获胜(更多信息 TBC)
+* 参与并在迷你游戏中获胜(更多信息 TBC)
 
 
 
