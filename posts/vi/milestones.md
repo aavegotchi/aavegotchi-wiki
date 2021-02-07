@@ -10,48 +10,48 @@ contributors:
 ## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
 * On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February!
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Matic and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+## [Công bố Bảng Niên Giám của Anh Nông Dân: Hướng Dẫn Cực Chi Tiết Về Cách Thu Hoạch Giải Thưởng GHST](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* Chào mấy fen! Có phải bạn đang cần ai đó hỗ trợ để chuyển GHST sang Matic và gặt hái những giải thưởng ngọt ngào hay không nè? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được đăng vào ngày 25 Tháng Giêng 2020.
 
-## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Matic to launch alongside the bridge from Mainnet to Matic
-* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+## [Aavegotchi Improvement Proposals 2 và 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* Vào ngày 21 tháng Giêng năm 2021, lượt vote Aavegotchi Improvement Proposals (AGIPs) 2 và 3 đã vượt quá số lượng tối thiểu để thực thi khi chỉ còn 8 tiếng là kết thúc!
+* Hợp đồng Staking GHST trên Matic được triển khai cùng lúc với cầu nối Mainnet đến Matic
+* Cộng Đồng tiếng Hàn, Pháp, và Tây Ban Nha của Aavegotchi! Woot woot!
 
-## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Matic Network on 20 January 2021!
+## [aToken xuất hiện trên Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Diamond Boi của chúng tôi, [Nick Mudge](/team#nick-mudge), đã làm được điều này! Anh ấy đã bridge thành công aToken sang Matic Network vào ngày 20 tháng Giêng năm 2021!
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+## [Bỏ phiếu trên Aragon đã bắt đầu!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* Vào ngày 18 tháng Giêng năm 2021, team đã thông báo về hai bản đề xuất AavegotchiDAO mới được đề xuất trên Aragon để người dùng có thể bỏ phiếu. Thời lượng bỏ phiếu kéo dài 72 tiếng.
 
-## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
-* There are Liquidity Migration Incentives up for grabs as well!
+## [Token GHST có mặt trên Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* Vào ngày 11 tháng Giêng năm 2021, team Aavegotchi công bố rằng token GHST đã xuất hiện trên Matic network
+* Có phần thưởng khuyến khích việc Dịch Chuyển Thanh Khoản đó nha!
 
-## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
-* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
+## [Kêu gọi tất cả lập trình viên!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
+* Team Aavegotchi sẽ tài trợ cho MarketMake, sự khiên hackathon siêu khủng của ETH Global, với giải thưởng trị giá hơn 4000 GHST (và lượng lớn XP cộng thêm cho những Aavegotchi mà bạn sỡ hữu trong tương lai).
 
-## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Matic Network at a later date
-* Aagent missions have finally concluded!
-* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
-* Aavegotchi looking for Aambassadors!
+## [Aavegotchi Hoãn Sự Kiện Triển Khai Mainnet](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* Sự kiện Triển Khai Mainnet vào ngày 4 Tháng Giêng 2021 đã hoãn lại do mạng lưới Ethereum đãng bị nghẽn một cách nghiêm trọng :(
+* Cộng đồng đã bầu chọn và quyết định triển khai trên Matic Network vào một ngày khác
+* Aavegotchi Mission cuối cùng đã kết thúc!
+* Aavegotchi Shop Wearables đã được công bố! Hãy vào [đây](/wearables) xem các trang bị này nhé
+* Aavegotchi đang tìm kiếm Aambassadors!
 
 ## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
+* Những điều bạn cần biết về sự kiện Rarity Farming sắp tới đây! Được thông báo vào ngày 2 Tháng Giêng 2020.
 
-## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+## [aUNI và aYFI đã được chọn để trở thành tài sản thế chấp trong Aavegotchi](https://twitter.com/aavegotchi/status/1345026523263238145)
+* Quyền lực của của người dùng đã được thể hiện! Vào ngày 1 Tháng Một năm 2021, đã số người dùng đã bình chọn để aUNI và aYFI trở thành Aavegotchi collaterals (tài sản thế chấp) tiếp theo!
 
-## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Ready up frens! This 29 December 2020 announcement is biiigg!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
+## [Nhiệm vụ Aavegotchi cuối cùng!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* Hãy sẵn sàng nào các fen ơi! Ngày 29 Tháng Mười Hai 2020 sẽ có thông báo to đùngggggg!
+* Sự kiện Raffle 3 (Chủ đề Ethereum) và những wearables sẽ được công bố! Sự kiện Raffle bắt đầu vào ngày 31 Tháng Mười Hai năm 2020 trong bữa tiệc Mừng Năm Mới của chúng tôi!
+* Đúng vạiiiiii, sẽ có một bữa tiệc khác vào ngày Tết Dương Lịch!
+* Nhiệm vụ cuối cùng sẽ được triển khai! Giờ đây các frens sẽ là những Moovie Staars!
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+## [Cập nhật: Giúp đỡ bồ tèo](https://twitter.com/aavegotchi/status/1343184902083121157)
+* Vào ngày 27 Tháng Mười Hai 2020, chúng tôi đã tổng hợp thông tin tài sản thu thập được từ santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
 
 ## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
 * Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
@@ -95,7 +95,7 @@ contributors:
 ## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 * With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+## [Hãy sẵn sàng nào các fen ơi!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 * Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
 
 ## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
