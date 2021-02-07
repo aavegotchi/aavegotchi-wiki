@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Need step-by-step help with something? Check out the written tutorials page for more!
+Bạn cần được hướng dẫn một cách chi tiết hả? Hãy xem qua bài viết hướng dẫn này để có thêm nhiều thông tin chi tiết nhé!
 
-If you have any other suggestions on new topics to be covered here, do approach our friendly aarchivers and let them know!
+Nếu bạn có bất kỳ đề nghị nào về chủ đề mới cần được thêm vào, thì hãy nhớ nói cho các aarchivers thân thiện biết nhé!
 
 <div class="contentsBox">
 
@@ -22,5 +22,5 @@ If you have any other suggestions on new topics to be covered here, do approach 
 </div>
 
 ## Hướng dẫn về Matic
-Our Great Aassistant Moon has written an aavesome piece on setting up Matic Network on your MetaMask. Check it out [here](/matic)!
+Great Assistant Moon của bọn mình đã viết một bài hướng dẫn tuyệt vời về cách cài đặt Matic Network trên MetaMask này. Hãy xem qua ở [đây](/matic) nhé!
 
