@@ -7,21 +7,21 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Feeling overwhelmed fren?
+Thấy nhiều thứ quá đúng không fen?
 
-There's Ethereum.
+Có Ethereum.
 
-There's MetaMask.
+Có MetaMask.
 
-There's Aave and aTokens.
+Rồi nào là Aave, nào là aToken.
 
-There's Non-Fungible Tokens (NFTs).
+Rồi có cả Non-Fungigle Token (NFTs).
 
-And then there's Aavegotchi.
+Rồi đâu ra Aavegotchi nữa.
 
-It's alright fren. We were once newbies as well. We know how you feel.
+Không sao đâu fen. Lúc đầu ai cũng gà mờ cả. Bọn mình hiểu mà.
 
-We have prepared some tutorials to help kickstart your journey! You will become one with us soon enough. :)
+Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn bắt đầu cuộc hành trình nè! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
 
 <div class="contentsBox">
 
