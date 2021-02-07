@@ -25,11 +25,11 @@ Aavegotchi是真正将NFTs和DeFi融合在一起的独特游戏。
 
 [GHST](https://wiki.aavegotchi.com/en/ghst) 是Aavegotchi生态系统的原生治理代币和基础货币，可用于解锁游戏中最棒的功能。 您可以将其抵押以获得FRENS，并将其转换为抽奖券，购买Portal和可穿戴设备，赚取更多GHST（即将推出！）等等。
 
-您可以通过Aavegotchi [绑定曲线](https://wiki.aavegotchi.com/en/curve) 或您最喜欢的一次交易购买GHST。
+你可以通过Aavegotchi[联合曲线](https://wiki.aavegotchi.com/en/curve)或在你喜欢的交易所购买GHST。
 
 ## 传送门
 
-[传送门](https://wiki.aavegotchi.com/en/portals) 是一个你需要的设备来召唤你的Aavegotchi 从地狱领域开始玩。 一个门户允许您从10种不同的 Aavegotchis 中选择随机生成的特性并通过发布Aave-backed ERC20 令牌为其添加内在值。 或 [aTokens](https://wiki.aavegotchi.com/en/atokens) 到它。
+[传送门](https://wiki.aavegotchi.com/en/portals) 是你将Aavegotchi从Nether realm （冥界）召唤回来并开始游戏的装置。 一个门户允许您从10种不同的 Aavegotchis 中选择随机生成的特性并通过发布Aave-backed ERC20 令牌为其添加内在值。 或 [aTokens](https://wiki.aavegotchi.com/en/atokens) 到它。
 
 您可以在 Aavegotchi dApp 上购买一个传送门或外部NFT 市场，如OpenSea ，用于大约100 GHST。
 
