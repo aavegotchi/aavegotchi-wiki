@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Aavegotchi Wiki 介绍'
+description: 'Aavegotchi 维基简介'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
