@@ -13,7 +13,7 @@ image: "icons/introduction.svg"
 
 欢迎来到 Aavegotchi 官方百科！
 
-Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由社区贡献者们，即 Aarchivers，来负责维护和更新。
+Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团队，即 Aarchivers，来负责维护和更新。
 
 ## 初来乍到？
 
@@ -35,8 +35,8 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由社区贡献
 
 ## 为社区做出更多贡献
 
-任何人都可以为百科做出贡献，你只需要我们 [Github](https://github.com/aavegotchi/aavegotchi-wiki) 的写入权限。
+欢迎社区小伙伴们为 Aavegotchi 百科添砖加瓦，点击 [Github](https://github.com/aavegotchi/aavegotchi-wiki) 链接获取写入权限。
 
-如果您想要作出贡献，请到Aavegotchi Discord中的 #wiki频道并请我们的Aarchivers 授予权限。
+心动不如行动，前往 Aavegotchi Discord #wiki 频道，Aarchivers 会授予您相关权限。
 
-现在就访问我们的Github库，进行提交第一个提交申请吧。 
+现在就访问我们的 Github Repo 提交第一个 commit 吧！ 
