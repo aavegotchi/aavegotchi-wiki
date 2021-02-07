@@ -1,7 +1,7 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki'
+title: 'Aavegotchi 百科'
 description: 'Aavegotchi 综合指南'
 image: "icons/introduction.svg"
 ---
