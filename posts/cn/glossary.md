@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: '词汇表'
-description: '关于Aavegotchi、NFT 和 DeFi 术语的词汇。'
+description: 'Aavegotchi，NFT 和 DeFi 词汇表'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">阅读Gotchi术语之后的Aavegotchi</p>
+<p class="headerImageText">懂了 Gotchi 行话？那来看看 Aavegotchi 吧</p>
 </div>
 
 如果你刚刚开始探索DeFi世界，欢迎来到这个互联网角落！ 本词汇表旨在为您提供一些信息，希望这些信息可以帮助您了解一些DeFi基础知识。 如果您是这个领域的新手，那么此词汇表还将为您提供一些在浏览Aavegotchi世界时可以看到的术语的概述，以帮助您进一步理解。
