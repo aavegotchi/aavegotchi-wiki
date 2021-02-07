@@ -14,7 +14,7 @@ contributors:
 </div>
 
 <p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>正在工作的AARCHIVERS</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built. Feel free to use Mission 11 suggestions for questions you'd like to see here.</a></p>
+<p style="font-style:italic; font-size:13px;">本页面正在建设中。 Feel free to use Mission 11 suggestions for questions you'd like to see here.</a></p>
 
 <a name="FAQ"></a>
 
