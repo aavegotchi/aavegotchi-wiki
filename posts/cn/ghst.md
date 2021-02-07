@@ -1,7 +1,7 @@
 ---
 author: letsgobankless
 date: '2020-11-28T07:00:00.000Z'
-title: 'GHST Token'
+title: 'GHST 代币'
 description: 'The eco-governance token of Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
@@ -11,12 +11,12 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ghst/ghst.gif">
-<p class="headerImageText">GHST Token</p>
+<p class="headerImageText">GHST 代币</p>
 </div>
 
-价格行动和交易很酷，但是您还可以使用Aavegotchi的本地代币GHST做什么呢？
+价格波动和交易虽然很酷，但你还可以用Aavegotchi的原生代币GHST做什么呢？
 
-该令牌旨在用作购买各种链上Aavegotchi资产的基础生态系统货币。 其中包括传送门，可穿戴装备，消耗品和收藏品，以及其他商品。 除此之外，GHST还有其他几项职能，例如在DAO中进行竞选和使其能够投票。
+该代币旨在作为购买各种链上Aavegotchi资产的基本生态系统货币。 这些资产包括传送门、可穿戴设备、消耗品和收藏品以及其他商品。 除此之外，GHST还有其他一些功能，比如质押挖矿和DAO投票。
 
 收拾行李，从零开始-在我们的Wiki这一部分中，我们将仔细研究这些闪亮的圆形紫色男孩。
 
@@ -34,7 +34,7 @@ contributors:
 </div>
 
 ## 为什么要GHST？
-用户奖励在任何项目中都发挥了巨大作用。 在这种情况下，GHST为鼓励更多地参与Aavegotchi生态系统提供了经济奖励。 具体而言，这种象征有助于协调AavegotchiDAO、GHST持有人和Aavegotchi持有人各自的目标。
+用户激励在任何项目中都发挥着巨大的作用。 在这种情况下，GHST提供了经济激励，以鼓励更多的人参与Aavegotchi生态系统。 具体而言，这种象征有助于协调AavegotchiDAO、GHST持有人和Aavegotchi持有人各自的目标。
 
 玩家必须购买GHST，并在召唤和训练Aavegotchis的过程中花费它。 其中一部分直接转移回DAO，继续为生态系统的发展提供资金。 同时，部分价值也作为对DAO中明智管理的奖励和对进行稀有农业的奖励而分配。
 
