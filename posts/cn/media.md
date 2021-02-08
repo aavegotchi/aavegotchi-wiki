@@ -29,6 +29,6 @@ contributors:
 
 ### 对稀缺性的追逐：当 DeFi 遇上 Aavegotchi NFTs，Robin Schmidt 和 The Defiant（2020年10月5日） <iframe width="560" height="315" src="https://www.youtube.com/embed/M_zreDIcjno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Aavegotchi * Chainlink 直播 Q&A：使用 Chainlink VRF 进行 DeFi 抵押的加密收藏品（2020年10月1日） <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi * Chainlink 直播 Q&A：使用 Chainlink VRF 进行 DeFi 质押的加密收藏品（2020年10月1日） <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 
