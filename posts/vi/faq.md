@@ -66,6 +66,7 @@ contributors:
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->Mình có ví ledger / trezor, mình cần phải làm gì</a></p>
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?</a></p>
+<p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Can I send Matic-side tokens to Centralized Exchanges directly?</a></p>
 </ol>
 
 </div>
@@ -241,6 +242,9 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+
+### Can I send Matic-side tokens to Centralized Exchanges directly?
+**No!** You should not send Matic-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
