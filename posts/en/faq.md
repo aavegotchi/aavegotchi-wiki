@@ -113,6 +113,10 @@ No! You only need to do KYC if you want to buy GHST directly from the <a href="h
  as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
 <a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
 
+The table below summarizes the information:
+
+table_kyc
+
 ### What does Aave have to do with Aavegotchi?
 
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
