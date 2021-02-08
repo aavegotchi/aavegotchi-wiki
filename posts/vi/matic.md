@@ -21,6 +21,7 @@ Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Un
 <li><a href=#why-matic->Tại sao lại là Matic?</a></li>
 <li><a href=#adding-matic-to-your-metamask>Thêm Matic vào Metamask</a></li>
 <li><a href=#bridging-assets-to-matic>Kết nối tài sản đến Matic</a></li>
+<li><a href=#bridging-assets-back-to-ethereum-mainnet>Bridging assets back to Ethereum Mainnet</a></li>
 </ol>
 
 </div>
@@ -87,3 +88,19 @@ Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc U
 Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Matic của bạn. Bạn có thể được airdrop 0.1 MATIC nếu bạn chuyển một stablecoin vào tài khoản và yêu cầu [Quickswap](https://quickswap.exchange/), DEX lớn nhất trên MATIC, chuyển MATIC cho bạn. (Nhiêu đó thôi là đã đủ để chuyển hơn 1000 giao dịch rồi, Matic thật toẹt vời ông mặt trời mà!)
 
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
+
+## Bridging assets back to Ethereum Mainnet
+
+What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
+
+Yes, there is a way to transfer your assets back to Ethereum Mainnet!
+
+Head over to the [Aavegotchi Bridge](https://aavegotchi.com/bridge) again.
+
+<img class = "bodyImage" src = "/matic/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
+
+At the right hand side of the screen, there is an image of a token as well as a box where you can input an amount in. Click on the image of the token and a display of available tokens will appear. Select the [maToken](/matokens) which you want to bridge back to Ethereum Mainnet. After that, key in the desired amount in the box and hit the "Transfer to Ethereum" button.
+
+Withdrawing from Matic takes approximately 30 minutes. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
+
+Currently, the Aavegotchi Bridge supports the transfer of maTokens from Matic to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.

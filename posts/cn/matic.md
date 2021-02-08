@@ -21,6 +21,7 @@ contributors:
 <li><a href=#why-matic->为什么是Matic？</a></li>
 <li><a href=#adding-matic-to-your-metamask>将Matic 添加到您的Metamask</a></li>
 <li><a href=#bridging-assets-to-matic>将资产迁移到Matic</a></li>
+<li><a href=#bridging-assets-back-to-ethereum-mainnet>Bridging assets back to Ethereum Mainnet</a></li>
 </ol>
 
 </div>
@@ -87,3 +88,19 @@ contributors:
 是就它！ 只需确认Metamask中的交易并完成了。 令牌可能需要10分钟才能到达您的Matic 地址。 如果你传送了一个Matic打开 [Quickswap](https://quickswap.exchange/)，你应该得到0.1 MATIC空投，它是我的最大的DEX。 这足以进行1000笔交易，Matic非常好！
 
 如果您需要任何帮助，您可以加入 Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) 并询问其他社区成员。
+
+## Bridging assets back to Ethereum Mainnet
+
+What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
+
+Yes, there is a way to transfer your assets back to Ethereum Mainnet!
+
+Head over to the [Aavegotchi Bridge](https://aavegotchi.com/bridge) again.
+
+<img class = "bodyImage" src = "/matic/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
+
+At the right hand side of the screen, there is an image of a token as well as a box where you can input an amount in. Click on the image of the token and a display of available tokens will appear. Select the [maToken](/matokens) which you want to bridge back to Ethereum Mainnet. After that, key in the desired amount in the box and hit the "Transfer to Ethereum" button.
+
+Withdrawing from Matic takes approximately 30 minutes. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
+
+Currently, the Aavegotchi Bridge supports the transfer of maTokens from Matic to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.
