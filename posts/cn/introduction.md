@@ -14,30 +14,30 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** 是一个 DeFi 赋能的加密收藏品游戏，由设立在新加坡的Pixelcraft Studios 团队开发，玩家可以质押 [aTokens](https://wiki. aavegotchi. com/atokens) 产生[ Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars 与 Aavegotchi [元宇宙](https://wiki. aavegotchi. com/metaverse) 进行交互。 它是 [去中心化金融（DeFi）](/glossary#defi-101) 和 NFT 的绝妙组合。
+**Aavegotchi** 是一个 DeFi 赋能的加密收藏品游戏，由设立在新加坡的 Pixelcraft Studios 团队开发，玩家可以质押 [aTokens](https://wiki. aavegotchi. com/atokens) 产生[ Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars 与 Aavegotchi [元宇宙](https://wiki. aavegotchi. com/metaverse) 进行交互。 它是 [去中心化金融（DeFi）](/glossary#defi-101) 和 NFT 的绝妙组合。
 
 Aavegotchis 是生活在以太坊区块链上的像素幽灵，使用
-ERC-721** 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/traits)。</p> 
+ERC-721** 标准。 它的价值由其稀有度决定。很多种因素会影响稀有度，例如特性，质押品/aTokens 的数量，以及其 [可穿戴设备](/traits)的配置等等。</p> 
 
-为了提升Aavegotchis的等级，参与者可以参加各种活动，包括小型游戏、政府决策和集会。 Aavegotchis还可以通过装备游戏内可穿戴设备来提升稀有度。 
+玩家可以参与如小型游戏，治理和集会等活动来提升 Aavegotchis 的等级。 Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
 
-罕见的Aavegotchis不仅具有更高的二级级市场价值。 他们还使得Aavegotchi能够在 [稀有农业](/marketplace)中表现得更好，这是一个用GHST代币奖励最稀有的Aavegotchis的小游戏。 
+罕见的 Aavegotchis 不仅在二级市场价值更高，他们还能让 Aavegotchi 在 [稀有度挖矿](/marketplace)中表现得更好----一个用 GHST 代币奖励最稀有的 Aavegotchis 的小游戏。 
 
-Aavegotchi 是由 [AavegotchiDAO](/dao) 管理的，它管理通过 [GHST 令牌](/ghst) 分配产生的所有资金。
+Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发对应的投票权管理资金。
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#about-aavegotchis>关于 Aavegotchis</a></li>
+<li><a href=#about-aavegotchis>什么是 Aavegotchis</a></li>
 <li><a href=#aavegotchi-value>Aavegotchi 的价值</a></li>
-<li><a href=#the-aavegotchi-universe>Aavegotchi元宇宙</a></li>
+<li><a href=#the-aavegotchi-universe>Aavegotchi 的世界</a></li>
 </ol>
 
 </div>
 
-## 关于 Aavegotchis
+## 什么是 Aavegotchis
 
 Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由流行的区块链游戏中使用的ERC-721标准支持，如CryptoKitties, Axie Infinity和Cryptovoxels。 Aavegotchi拥有三种属性，这三种属性决定了它们在Aavegotchi世界中的整体价值和稀缺性: 抵押品、特质和可穿戴装备。
 
@@ -71,9 +71,9 @@ Aavegotchi的价值将来自于它的内在价值和稀有价值。
 
 ## Aavegotchi元宇宙
 
-Aavegotchi 宇宙包含允许Aavegotchis操作的所有元素：
+Aavegotchi 宇宙为 Aavegotchis 提供了一切条件：
 
 * [传送门](/portals)
-* [GHST 实用工具令牌](/ghst)
+* [GHST 实用代币](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi 的价值](/metaverse)
+* [Aavegotchi 领地](/metaverse)
