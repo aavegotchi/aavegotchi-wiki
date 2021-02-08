@@ -9,7 +9,7 @@ contributors:
 
 嘿，伙计！ 你是不是也担心时间问题而错过 Aavegotchi 的访谈或者聊天会话？ 太多“稍后再看”的 DeFi 视频而错过了 Aavegotchi 的好内容？ 别担心， 有我们在， 最好的内容都为你整理好啦！
 
-家人们，我们也有自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)，嘻嘻。
+快来看看我们自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)，嘻嘻。
 
 ### Coderdan 在 Blockchain Game Alliance Demo Day 展示了 Aavegotchi 的相关内容（2021年1月29日） <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
@@ -25,10 +25,10 @@ contributors:
 
 ### Jesse & Dan - 在 Zima Red 迎接 NFT 挑战（2020年11月30日） <iframe src="https://anchor.fm/andrew-steinwold/embed/episodes/Jesse--Dan-from-Aavegotchi---Challenging-The-NFT-Status-Quo---Zima-Red-ep-41-en5go5/a-a404hd4" height="102px" width="400px" frameborder="0" scrolling="no" mark="crwd-mark"></iframe>
 
-### Aavegotchi 创始人采访。 Cagyjan 访问 Jesse / GldnXross（2020年10月16日） <iframe width="560" height="315" src="https://www.youtube.com/embed/g6EJPkRlX7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi 创始人访谈： Cagyjan 访问 Jesse / GldnXross（2020年10月16日） <iframe width="560" height="315" src="https://www.youtube.com/embed/g6EJPkRlX7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### 对稀缺性的追逐：当 DeFi 遇上 Aavegotchi NFTs，Robin Schmidt 和 The Defiant（2020年10月5日） <iframe width="560" height="315" src="https://www.youtube.com/embed/M_zreDIcjno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi * Chainlink 直播 Q&A：使用 Chainlink VRF 进行 DeFi 抵押的加密收藏品（2020年10月1日） <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 
