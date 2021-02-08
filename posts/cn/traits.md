@@ -77,7 +77,7 @@ table_TraitsByRarity1 table_TraitsByRarity2
 Aavegotchis获得了参加AavegotchiDAO投票和玩小型游戏的经验(XP)。 Aavegotchis 也可以被牺牲掉来移除他们的 [质押代币](/atokens) 并将它转移到另一个Aavegotchi。 收款人Aavegotchi将获得牺牲的 Aavegotchi 应计XP的100%。
 
 ## 等级
-Aavegotchis级别提高，因为他们获得了更多的 XP。 每隔几级，Aavegotchis就会获得一个灵点，可以用于增加或减少某个特性。 有些穿戴物品只能由一定级别的Aavegotchis穿戴。
+Aavegotchis级别提高，因为他们获得了更多的 XP。 每升三级，Aavegotchis 就会获得一个灵魂点，可以用于增加或减少某个特性。 有些穿戴物品只能由一定级别的Aavegotchis穿戴。
 
 若要获取每个级别所需的 XP 详细信息，请点击 [这里](/xp)。
 
