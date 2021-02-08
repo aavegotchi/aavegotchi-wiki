@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Media'
-description: "Aavegotchi Media"
+title: '媒体'
+description: "Aavegotchi 媒体"
 contributors:
   - "unintelligent-nerd"
 ---
 
-嘿, 伙计..。 是否曾经因为无法做到而错过了Aavegotchi谈话/聊天会话？ 担心由于您观看的DeFi视频堆积而忽略了一些与Aavegotchi有趣的媒体？ 不用担心的伙计。 我们备份了！ 在这里随时看看他们！
+嘿，伙计！ 你是不是也担心时间问题而错过 Aavegotchi 的访谈或者聊天会话？ 太多“稍后再看”的 DeFi 视频而错过了 Aavegotchi 的好内容？ 别担心， 有我们在， 最好的内容都为你整理好啦！
 
-朋友, 我们也有自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)
+家人们，我们也有自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)，嘻嘻。
 
 ### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
