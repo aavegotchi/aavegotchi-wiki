@@ -39,21 +39,21 @@ Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发
 
 ## 什么是 Aavegotchis
 
-Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由流行的区块链游戏中使用的ERC-721标准支持，如CryptoKitties, Axie Infinity和Cryptovoxels。 Aavegotchi拥有三种属性，这三种属性决定了它们在Aavegotchi世界中的整体价值和稀缺性: 抵押品、特质和可穿戴装备。
+Aavegotchis 是生活在以太坊区块链上的稀有加密收藏品，它也采用了流行区块链游戏如 CryptoKitties，Axie Infinity 和 Cryptovoxels 等普遍使用的ERC-721标准。 Aavegotchis 的三项指标：质押、特性和可穿戴设备，决定了它们在 Aavegotchi 宇宙中的整体价值和稀有度。
 
-*  **抵押品:**每个Aavegotchi ERC721 NFT都管理着一个托管合同地址，该地址持有 Aave支持的ERC20抵押品，或 "aToken"。 [aTokens](/atokens) 通过 Aave's LendingPool生成收益，它会自动增加在钱包中持有的 aTokens 数量。 因此，随着时间的推移，Aavegotchi的托管地址中持有的aToken数量也会增加。 
+*  **质押：**每个 Aavegotchi ERC721 NFT 都有着一个托管合约地址，该地址质押了 Aave 支持的 ERC20 抵押品，或 "aToken"。 [aTokens](/atokens) 通过 Aave's LendingPool 产生借贷收益，它会自动在钱包中增加 aTokens 的数量。 因此，Aavegotchi 的托管地址中持有的 aTokens 的数量会随着时间的推移而增加。 
 
-*  **特质:** Aavegotchis拥有多种特质，这些特质会影响他们的稀有度、他们在小游戏中的表现以及他们可以装备的穿戴物。 有些是在出生时随机生成的，有些则取决于用户与Aavegotchi的互动。 **查看[特质](/traits).**
+*  **特质：** Aavegotchis 拥有多种特质，这些特质会影响他们的稀有度，在小游戏中的表现以及他们可以装备的可穿戴设备。 有些特质是在出生时就随机生成的，有些则取决于玩家与 Aavegotchi 的互动。 **查看[特质](/traits).**
   
-      * **随机特质**: 每一个Aavegotchi在出生时，都会使用ChainLink VRF随机数生成器随机分配若干个特征值。 特质值分布在一条钟形曲线上，每个特质根据其稀有程度被分配一个普通、罕见、稀有、传奇或神话的值。
+      * **随机特质**：每一个 Aavegotchi 在出生时，都会使用 ChainLink VRF 随机数生成器分配特质。 特质值分布在一条钟形曲线上，每个特质根据其稀有程度被分划分为普通、罕见、稀有、传奇或神话类别。
 
-    *  **亲属关系**: "亲缘关系 "并不是随机分配的，而是在出生时就开始有一个固定的数值，并根据各种因素而增加或减少，比如Aavegotchi与同一个主人相处的时间，以及主人与它互动的频率。
+    *  **亲密度**：“亲密度”并不是随机分配的，而是在出生时起始为一个固定值，之后根据其他因素而增加或减少，比如 Aavegotchi 与同一个主人相处的时间，以及主人与它互动的频率等等。
 
-    *  **经验:** Aavegotchis通过在AavegotchiDAO中投票和参加小游戏获得更多的经验，从而提升等级。 每隔几级，Aavegotchis就会获得一个灵点，可以用于增加或减少某个特性。
+    *  **经验**：Aavegotchis 通过在 AavegotchiDAO 中投票以及参加小游戏获得更多的经验，从而提升等级。 每升三级，Aavegotchis 就会获得一个灵魂点，可以用于增加或减少某个特性。
 
-* **可穿戴装备**除了管理aToken托管，Aavegotchis还扩展了ERC998 Composables标准，使他们能够管理附属NFT，即Aavegotchi生态系统中的可穿戴设备。 并非每一个可穿戴装备都能被每个Aavegotchi装备。 一些可穿戴装备可能需要专门Aavegotchis装备，这些Aavegotchis有一定的抵押品，有一定级别的，有一定特征的。 有些可穿戴装备可以增加或减少Aavegotchi的某些特质。 例如，装备一把剑可以略微提升Aavegotchi的攻击性，而装备一件Bob Marley衬衫可以降低其能量水平。
+* **可穿戴装备**除了管理aToken托管，Aavegotchis还扩展了ERC998 Composables标准，使他们能够管理附属NFT，即Aavegotchi生态系统中的可穿戴设备。 并非每一个可穿戴装备都能被每个Aavegotchi装备。 一些可穿戴设备可能需要 Aavegotchis 有特定的质押，级别，或者特质才能装备。 有些可穿戴设备可以增加或减少 Aavegotchi 的某些特质， 比如装备一把宝剑可能会提升 Aavegotchi 的攻击性，而装备一件 Bob Marley 衬衫则可能会降低其能量水平。
 
-抵押品、特征、可穿戴设备和亲属关系之间的关系最好用洋葱图来表示(见下图)。 每一层都建立在前一层之上，加起来就是Aavegotchi本身!
+洋葱图可以很好的展现质押，特征，可穿戴设备和亲密度之间的关系（见下图）。 每一层都建立在前一层之上，叠加起来就是 Aavegotchi 本身！
 
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
@@ -61,9 +61,9 @@ Aavegotchis是生活在以太坊区块链上的稀有的加密收藏品，它由
 
 ## Aavegotchi 的价值
 
-Aavegotchi的价值将来自于它的内在价值和稀有价值。
+Aavegotchi 的价值来源于它的内在价值和稀有价值。
 
-* **内在价值** 内在价值 是指Aavegotchi使用的抵押品的计价。 如果Aavegotchi以10个aDAI作为抵押品，那么内在价值将是10个aDAI，再加上从贷款池中累积的任何额外aDAI。 最初，只有在Aave平台上上市的ERC20代币（aTokens）才能作为抵押品。 然而，一旦AavegotchiDAO推出，社区将能够投票决定允许哪些新的抵押品。 
+* **内在价值** 内在价值是指 Aavegotchi 的质押价值。 如果 Aavegotchi 以10个 aDAI 作为质押，那么其内在价值就是10个 aDAI，再加上借贷池中累积的额外收益的 aDAI。 最初，只有在Aave平台上上市的ERC20代币（aTokens）才能作为抵押品。 然而，一旦AavegotchiDAO推出，社区将能够投票决定允许哪些新的抵押品。 
 
 * **稀有度** 稀有度值是通过计算Aavegotchi宇宙中每个Aavegotchi的特质和装备穿戴物的稀有度来决定的。 与其他NFT游戏不同，稀有度在Aavegotchi中并不是一个固定的数值。 它可以随着时间的推移而改变，因为Aavegotchi可以装备不同等级的可穿戴装备。 因此，一周内稀有的Aavegotchi可能会变得很常见，反之亦然，这取决于Aavegotchi宇宙中特性和可穿戴设备的整体分布。 这使人们能够形成一个称为“稀有农场”的新概念，这个概念在 [此页面](/rarity-farming) 中得到解释。
 
@@ -71,7 +71,7 @@ Aavegotchi的价值将来自于它的内在价值和稀有价值。
 
 ## Aavegotchi元宇宙
 
-Aavegotchi 宇宙为 Aavegotchis 提供了一切条件：
+Aavegotchi 宇宙为 Aavegotchis 提供了想要的一切：
 
 * [传送门](/portals)
 * [GHST 实用代币](/ghst)
