@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: '术语表'
-description: '关于Aavegotchi、NFT 和 DeFi 术语的词汇。'
+title: '词汇表'
+description: 'Aavegotchi，NFT 和 DeFi 词汇表'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -11,62 +11,62 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">阅读Gotchi术语之后的Aavegotchi</p>
+<p class="headerImageText">懂了 Gotchi 行话？那来看看 Aavegotchi 吧！</p>
 </div>
 
-如果你刚刚开始探索DeFi世界，欢迎来到这个互联网角落！ 本词汇表旨在为您提供一些信息，希望这些信息可以帮助您了解一些DeFi基础知识。 如果您是这个领域的新手，那么此词汇表还将为您提供一些在浏览Aavegotchi世界时可以看到的术语的概述，以帮助您进一步理解。
+如果你是 DeFi 新生，那么欢迎你来到这个趣味天地～ 这份词汇表希望能帮助你快速了解 DeFi。 如果你之前从来没有接触过这个领域，这份词汇表也可以帮助你在探索 Aavegotchi 世界的同时掌握行业内的基础知识。
 
 
-当您阅读完本并希望对这些术语有更好的理解后，请随时转到入门部分，并深入了解生态系统。
+如果觉得胸有成竹，就来大展身手吧！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi相关的</a></li>
+<li><a href=#aavegotchi-related>Aavegotchi 相关内容</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#frens>积分</a></p>
+<p><a href=#frens>FRENS</a></p>
 <p><a href=#spirit-force>灵魂力</a></p>
 <p><a href=#spirit-point>灵魂点</a></p>
 <p><a href=#wearables>可穿戴装备</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>抵押品</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
-<p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#flash-loans>闪电贷</a></p>
+<p><a href=#impermanent-loss>无常损失</a></p>
+<p><a href=#liquidity-pools>流动性矿池</a></p>
 <p><a href=#matokens>maTokens</a></p>
-<p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
-<p><a href=#staking>Staking</a></p>
-<p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>一般术语</a></li>
+<p><a href=#oracles>预言机</a></p>
+<p><a href=#smart-contracts>智能合约</a></p>
+<p><a href=#staking>质押</a></p>
+<p><a href=#yield-farming>挖矿</a></p>
+<li><a href=#general-terms>通用术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
-<p><a href=#diamond-standard>Diamond Standard</a></p>
+<p><a href=#bell-curve>钟形曲线</a></p>
+<p><a href=#diamond-standard>钻石标准</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
-<p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
-<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
+<p><a href=#matic-network>Matic 网络</a></p>
+<p><a href=#metaverse>元宇宙</a></p>
+<p><a href=#non-fungible-token>非同质化代币 (NFT)</a></p>
+<p><a href=#proof-of-stake>权益证明机制（PoS）</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
 
 </div>
 
-## Aavegotchi相关的
+## Aavegotchi 相关内容
 
 ### Aavegotchi
 Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/rarity-farming)。
 
-### 积分
+### FRENS
 积分被奖励给已质押GHST的用户。 FRENS 不是一个令牌。 从技术上讲，这是放样合同中的余额。 FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
 ### 灵魂力
@@ -96,7 +96,7 @@ APY代表年收益率。 这是您存入协议的储蓄所赚取的实际收益�
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Collateral
+### 抵押品
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -129,7 +129,7 @@ Some examples of DEXs include UniSwap, Mesa and Balancer.
 Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### Flash Loans
+### 闪电贷
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -138,12 +138,12 @@ If this doesn't happen, the whole transaction is reversed to effectively undo th
 
 
 
-### Impermanent Loss
+### 无常损失
 Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
-### Liquidity Pools
+### 流动性矿池
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -154,12 +154,12 @@ maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are develop
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
 
-### Oracles
+### 预言机
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
-### Smart Contracts
+### 智能合约
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
@@ -169,13 +169,13 @@ Staking a cryptocurrency essentially means to hold that currency, to help verify
 
 
 
-### Yield Farming
+### 挖矿
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## 一般术语
+## 通用术语
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -186,10 +186,10 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### Bell Curve
+### 钟形曲线
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
-### Diamond Standard
+### 钻石标准
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
 Diamonds can be upgraded on the fly without having to redeploy existing functionality.
@@ -217,7 +217,7 @@ Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
+### Matic 网络
 Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
 
 To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).

@@ -1,61 +1,61 @@
 ---
-author: Unintelligent Nerd
+author: BeepCrypto
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: '关于Aavegotchi maTokens你需要知道的一切'
 contributors:
   - "unintelligent-nerd"
 ---
 
-What do you get when you take those interest-bearing aTokens and put them on the Matic Network? Why you get maTokens, of course!
+当你拿走那些本身享有利息的 aTokens 并将它们转移到Matic Network时，你会得到什么？ 为什么你会得到matoken，当然！
 
-This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
+此页面是 [aTokens](/atokens) 页面的延续。 之前，我们已经获得了一些aTokens。 现在，我们将会把他们转换成maTokens，然后用他们作为抵押品去召唤Aavegotchi frens！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#converting-atokens-into-matokens>将aTokens转化成maTokens</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>将maTokens抵押进入Aavegotchi</a></li>
 <li><a href=#learn-more>了解更多</a></li>
 </ol>
 
 </div>
 
-## Converting aTokens into maTokens
+## 将aTokens转化成maTokens
 
-First, head over to the [Bridge to Matic](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
+首先，在Aavegotchi DAP上走到 [桥到Mati](https://aavegotchi.com/bridge)
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens. At this moment, only three aTokens are supported: (1) aUSDC, (2) aDAI, and (3) aWETH.
+接下来，点击代币图片（下方红色圆圈），打开代币的下拉菜单。 目前，暂且只支持三种aToken。(1) aUSDC、(2) aDAI和(3) aWETH。
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-After selecting the token, key in the amount you want to transfer to Matic. Using aUSDC as an example, key in the amount you would like to transfer to Matic Network in the box highlighted in red.
+选择代币后，输入您要转入Matic的金额。 以aUSDC为例，在高亮的红色框中输入您想转入Matic网络的金额。
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Once you have keyed in the desired amount, click the "Approve Transfer" button. Wait for the transaction to go through on Ethereum.
+输入所需金额后，点击 "Approve Transfer批准转账 "按钮。 等待交易在以太坊通过。
 
-After the Approve transaction goes through, click the "Transfer to Matic" button. Wait for this transaction to go through on Ethereum as well.
+审批交易完成后，点击"传输到Matic"按钮。 等待交易在以太坊通过。
 
-After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
+上述操作之后，你的 matokens 将在10分钟左右之后出现在你的钱包。
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/matic) for step-by-step instructions as to how to do so.
+如果您正在使用Metamask，希望了解如何在它上配置Matic Network。 请先来看看 [Matic Guide](/matic) 以了解如何做到这一点。
 
-## Staking maTokens into Aavegotchis
+## 将 maTokens 质押到Aavegotchis
 
-Okay, I've gotten myself some maTokens. What now?
+好吧，我已经获得了一些maTokens。 现在怎么办？
 
-Good work fren.
+干得好朋友！
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+下一步是购买 [传送门portal](/portals) ，通过 [GHST](/ghst). 用户可以在 Aavegotchi DApp (启动时将提供链接) 或在 [二级市场](/marketplace) ，如Openseas 上购买传送门。 一旦你获得了一个宝贵的传送门，现在是开始进入召唤流程了。 打开传送门之后，您将会收到10个小鬼Gotchis，每个Gotchis都有随机必需的 aToken/抵押品。 这就是你获得的maToken的作用。 把它押注在具有相同抵押品类型的Gotchi上，让你的fren活起来!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+若要更详细地解释传送门Portal打开过程，请查看我们的 [传送门Portals](/portals) 页面。
 
-## Learn more
+## 了解更多资讯
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Matic Network as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* [Nick Mudge](/team#nick-mudge) 在[Twitter ](https://twitter.com/mudgen/status/1352399348219445250)  上发表了关于他在Matic网络上成功部署aTokens作为maTokens的帖子。
+* Nick Mudge 深入探讨了 [maTokens 的技术细节](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)

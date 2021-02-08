@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-"Psst.....you there"
+"Ệi...cậu đây rồi"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Tay Buôn Gotchi lén ngoắt tay liếc mắc gọi bạn vào sạp đồ.
 
-"I have something aamazing for you."
+"Ta có món hàng khủng này muốn cho cậu xem."
 
-The Merchant Gotchi brought out a cloth-covered object. Slowly, he pulled away the cloth. The object caught the sun's rays and shone in the bright afternoon sun.
+Tay Buôn Gotchi rút ra một vật thể gói trong lớp vải. Hắn chầm chậm bỏ miếng vải ra. Vật thể ấy bắt nắng và chiếu sáng chói loà dưới ánh mặt trời ban trưa.
 
-".....A Mudgen Diamond" you whispered to yourself.
+"... Một Viên Kim Cương Mudgen" bạn tự thì thầm với mình.
 
-The marvellous shine caught the attention of countless bystanders.
+Tia sáng kỳ ảo ấy bắt lấy mọi ánh nhìn của vô số những người đứng xung quanh.
 
-Another Gotchi shoved in. "I'll have it!"
+Một Gotchi khác chen vào. "Tôi sẽ mua món này!"
 
-"NO! I'LL HAVE IT!"
+"KHÔNG ĐƯỢC! "MÓN NÀY LÀ CỦA TÔI!"
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Nơi đây, bạn tôi ơi, chính là Aavegotchi Baazaar. Bạn có đủ sành sỏi để tìm và chốt được một deal ngon lành nhanh gọn hay không? Bạn có thể chịu được nhiệt khi trả giá với bọn nhà giàu hay không?
 
-Come and test your mettle! Buyers and sellers alike!
+Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 <div class="contentsBox">
 
@@ -33,44 +33,44 @@ Come and test your mettle! Buyers and sellers alike!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
+<li><a href=#opensea-tutorial>Hướng Sử Dụng OpenSea</a></li>
+<li><a href=#precautions>Khuyến Cáo</a></li>
 </ol>
 
 </div>
 
 ## Aavegotchi Baazaar
 
-The Aavegotchi Baazaar is the official marketplace for Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Đây là trung tâm thương mại chính của tất cả các Aavegotchi, cho phép mua bán cả trên Shop Aavegotchi chính và thị trường thứ cấp để ai cũng có thể đăng bán vật phẩm của mình. Ghé qua Shop Aavegotchi để nhận được những cập nhật mới nhất về trang phục và những lọ thuốc,... nhé.
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
-## Collection Addresses
+## Địa Chỉ Của Các Vật Phẩm
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+Bảng phía dưới đây cho thấy địa chỉ hợp đồng thông minh chính thức của nhiều loại tài sản trong Aavegotchi. Trước khi mua hàng trên bất kỳ marketplace nào, hãy xác thực lại hợp đồng của món hàng mà bạn định mua thông qua những hợp đồng được liệt kê trong bảng dưới đây (ví dụ, nếu bạn định mua vế Raffle, hãy xem lại contract address của Raffle Tickets trước khi tiến hành mua).
 
 table_smartcontracts
 
-## OpenSea Tutorial
+## Hướng Sử Dụng OpenSea
 
-The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
+Bài hướng dẫn sử dụng OpenSea sẽ hướng dẫn cho bạn kiểm tra kỹ lưỡng trước khi mua bất kỳ vật phẩm nào từ OpenSea. Bài hướng dẫn này không dành cho tất cả các vật phẩm; chỉ Raffle Tickets được dùng làm ví dụ. Bạn có thể dùng chung một nguyên lý với những mục khác (ví dụ như Wearables, v.v.).
 
-Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
+Raffle Tickets là những tấm vé có thể dùng để tham gia và sự kiện Aavegotchi Raffles. Có tổng cộng 6 loại: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Chúng có hình dạng như trong hình dưới đây.
 
 <img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
 
-All 6 types of Raffle tickets share the same contract address: 0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
+Cả 6 loại vé đều có chung một địa chỉ hợp đồng là 0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
-To purchase them off [OpenSea](https://opensea.io/), key in the search term "aavegotchi FRENS raffle tickets" in the search bar on OpenSea. Select the same keywords that pop up from the dropdown menu (circled in red below). An alternative is to use the link to the Raffle Tickets collection on OpenSea in the [table](/posts/marketplace#collection-addresses) above.
+Để mua vé từ [OpenSea](https://opensea.io/), hãy nhập vào ô tìm kiếm của OpenSea cụm từ "aavegotchi FRENS raffle tickets". Chọn những keyword tương tự hiện liên từ menu đổ xuống (được khoanh đỏ dưới đây). Có một cách khác chính là dùng đường liên kết đến bộ sưu tập Raffle Tickets trên OpenSea trong [bảng](/posts/marketplace#collection-addresses) dưới đây.
 
 <img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
 
-Navigate to the type of Raffle ticket you are intending to purchase.
+Tìm loại vé Raffle mà bạn đang định mua.
 
-Using Godlike Raffle Tickets as an example, verify the following:
+Sử dụng vé Godlike Raffle như một ví dụ, hãy xác thực những thông tin sau:
 
 * URL có thể hiện đúng địa chỉ hợp đồng hay không (được khoanh bên dưới):
 
@@ -85,9 +85,9 @@ Using Godlike Raffle Tickets as an example, verify the following:
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## Khuyến Cáo
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+Tiền kiếm rất khó khăn nên bạn nhớ đừng mua phải những tài sản giả mạo, vậy nên khi bạn mua hàng trên OpenSea hoặc những thị trường thứ cấp, hãy nhớ luôn kiểm tra thật cẩn thận. Lưu ý rằng, nếu thấy món hàng nhìn thấy nó pha ke kiểu gì thì có thể là nó pha ke thật đấy!
 
 * Hãy luôn kiểm tra lại những địa chỉ hợp đồng của vật phẩm để chúng luôn là những địa chỉ đúng.
 * Nếu bạn không chắc, hãy vào [ Discord chính thức của Aavegotchi](https://discord.com/invite/NPwnWB6), nơi mà những Aapprentice luôn sẵn sàng giúp đỡ!

@@ -1,31 +1,31 @@
 ---
-author: Unintelligent Nerd
+author: you can proof read this
 date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+title: '交易市场'
+description: 'Aavegotchi 交易市场'
 contributors:
   - "unintelligent-nerd"
 ---
 
-"Psst.....you there"
+“嘿…伙计”
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+商人 Gotchi 神秘地把你招到他的摊位前，眼睛里闪烁着光芒。
 
-"I have something aamazing for you."
+“给你看个厉害的。"
 
-The Merchant Gotchi brought out a cloth-covered object. Slowly, he pulled away the cloth. The object caught the sun's rays and shone in the bright afternoon sun.
+商人 Gotchi 拿出了一件用布包裹着的东西。 他缓缓揭开了布， 里面的宝贝仿佛在一瞬间吸收了太阳的能量，反射出了耀眼的光芒。
 
-".....A Mudgen Diamond" you whispered to yourself.
+"…..是 Mudgen 钻石嘛” 你自己嘀咕着。
 
-The marvellous shine caught the attention of countless bystanders.
+但同时，宝贝散发出的炫目的光芒也吸引了无数围观者的注意。
 
-Another Gotchi shoved in. "I'll have it!"
+另一个 Gotchi 强行挤进来喊着， “我要买！”
 
-"NO! I'LL HAVE IT!"
+“不！ 它是我的！”
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+朋友们看到了嘛，这就是 Aavegotchi Baazaar 交易市场的热闹非凡。 你能在交易市场中下手稳准狠吗？ 你能抵御致富道路上的种种噪音吗？
 
-Come and test your mettle! Buyers and sellers alike!
+快来测试一下你的能力和勇气！ 不论你是买家还是卖家！
 
 <div class="contentsBox">
 
@@ -33,44 +33,44 @@ Come and test your mettle! Buyers and sellers alike!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#collection-addresses>收藏品地址</a></li>
+<li><a href=#opensea-tutorial>OpenSea 教程</a></li>
+<li><a href=#precautions>注意事项</a></li>
 </ol>
 
 </div>
 
 ## Aavegotchi Baazaar
 
-The Aavegotchi Baazaar is the official marketplace for Aavegotchi. It is the main hub for all Aavegotchi commerce, hosting both the primary Aavegotchi Shop and the secondary market for any owners looking to list their holdings. Visit the Aavegotchi Shop for the latest releases of wearables, potions, etc.
+Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新发售情况。
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
-## Collection Addresses
+## 收藏品地址
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+下表显示了不同种类 Aavegotchi 资产的官方智能合约地址。 在消费之前，请您根据下表中的相关信息核对您所购买的资产的智能合约（例如，如果您打算购买 Raffle Ticket（抽奖券），请在操作之前根据 Raffle Ticket 合约地址进行核实）。
 
-table_smartcontracts
+合约地址表
 
-## OpenSea Tutorial
+## OpenSea 教程
 
-The OpenSea tutorial is an example of how to conduct some basic due diligence before making any purchase on OpenSea. The tutorial is non-exhaustive; Raffle Tickets are used as an example. You can extend the same principle to other asset categories (e.g. Wearables, etc).
+OpenSea 教程会为您提供一些基础性的指导，告诉您如何在 OpenSea 平台购买资产。 Raffle Tickets 就是其中的一个例子， 您可以将相同的操作步骤扩展到其他资产类别（例如可穿戴设备等）。
 
-Raffle Tickets refer to the tickets that are used to participate in Aavegotchi Raffles. They come in one of 6 types: (1) Common, (2) Uncommon, (3) Rare, (4) Legendary, (5) Mythical, and (6) Godlike. Visually, they look like the following image.
+Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以下6种类型：（1）普通，（2）罕见，（3）稀少，（4）传奇，（5）神话，以及（6）创世。 视觉上来讲，他们看起来像下方图片里面的形象。
 
 <img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
 
-All 6 types of Raffle tickets share the same contract address: 0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
+所有6种 Raffle tickets 都是同一个合约地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
 
-To purchase them off [OpenSea](https://opensea.io/), key in the search term "aavegotchi FRENS raffle tickets" in the search bar on OpenSea. Select the same keywords that pop up from the dropdown menu (circled in red below). An alternative is to use the link to the Raffle Tickets collection on OpenSea in the [table](/posts/marketplace#collection-addresses) above.
+在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方显示为红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
 
 <img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
 
-Navigate to the type of Raffle ticket you are intending to purchase.
+挑选您喜欢的 Raffle ticket。
 
-Using Godlike Raffle Tickets as an example, verify the following:
+以创世 Godlike Raffle Tickets 为例，验证以下内容：
 
 * URL 显示正确的合约地址 (在下面红色中盘旋)：
 
@@ -85,9 +85,9 @@ Using Godlike Raffle Tickets as an example, verify the following:
 <img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
 
 
-## Precautions
+## 注意事项
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+在 Opensea 和其他二级市场上购买资产固然有趣，但保护财产安全也是重中之重，请您务必小心谨慎。 记住，如果什么东西美好得不像真的，那你就要保持警惕！
 
 * 总是要仔细检查这些物品的合同地址来自正确的合同地址。
 * 如果你不知道什么，去 [官方的 Aavegotchi Discord](https://discord.com/invite/NPwnWB6)，那里总是有疯狂的学徒愿意帮助！

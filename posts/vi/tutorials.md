@@ -7,21 +7,21 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Feeling overwhelmed fren?
+Thấy nhiều thứ quá đúng không fen?
 
-There's Ethereum.
+Có Ethereum.
 
-There's MetaMask.
+Có MetaMask.
 
-There's Aave and aTokens.
+Rồi nào là Aave, nào là aToken.
 
-There's Non-Fungible Tokens (NFTs).
+Rồi có cả Non-Fungigle Token (NFTs).
 
-And then there's Aavegotchi.
+Rồi đâu ra Aavegotchi nữa.
 
-It's alright fren. We were once newbies as well. We know how you feel.
+Không sao đâu fen. Lúc đầu ai cũng gà mờ cả. Bọn mình hiểu mà.
 
-We have prepared some tutorials to help kickstart your journey! You will become one with us soon enough. :)
+Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn bắt đầu cuộc hành trình nè! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
 
 <div class="contentsBox">
 
@@ -29,14 +29,14 @@ We have prepared some tutorials to help kickstart your journey! You will become 
 
 <ol>
 <li><a href=#video-tutorials>Video Hướng dẫn</a></li>
-<li><a href=#written-tutorials>Written Tutorials</a></li>
+<li><a href=#written-tutorials>Bài Viết Hướng Dẫn</a></li>
 </ol>
 
 </div>
 
 ## Video Hướng dẫn
 
-For those who prefer watching videos, check out the [Video Tutorials](/video-tutorials) page.
+Với những bồ tèo thích xem video, hãy ghé qua trang [Video Tutorials](/video-tutorials) nhé!
 
-## Written Tutorials
-Prefer the written word instead? Check out the [Written Tutorials](/written-tutorials) page.
+## Bài Viết Hướng Dẫn
+Thích đọc bài viết hơn đúng hôn? Hãy xem qua trang [Written Tutorials](/written-tutorials) nha!

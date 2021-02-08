@@ -66,6 +66,7 @@ contributors:
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Can I send Matic-side tokens to Centralized Exchanges directly?</a></p>
 </ol>
 
 </div>
@@ -109,6 +110,10 @@ set.</li></p></ul>
 
 No! You only need to do KYC if you want to buy GHST directly from the <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> You can purchase GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">on Uniswap</a> without KYC, as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
 <a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
+
+The table below summarizes the information:
+
+table_kyc
 
 ### What does Aave have to do with Aavegotchi?
 
@@ -239,6 +244,9 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 ### Why can't I see my LP Tokens on QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+
+### Can I send Matic-side tokens to Centralized Exchanges directly?
+**No!** You should not send Matic-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 

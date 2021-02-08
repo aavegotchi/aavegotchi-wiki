@@ -66,6 +66,7 @@ contributors:
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Can I send Matic-side tokens to Centralized Exchanges directly?</a></p>
 </ol>
 
 </div>
@@ -108,12 +109,16 @@ Im Moment kannst du:
 
 Nein! Du musst KYC nur machen, wenn du GHST direkt von der <a href="https://wiki.aavegotchi.com/en/curve">Bonding Curve</a> kaufen willst. Du kannst GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">auf Uniswap</a> ohne KYC kaufen, sowie <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">auf bestimmten Börsen</a>. Dabei ist **kein KYC** erforderlich, um Portale zu kaufen, <a href="https://wiki.aavegotchi.com/en/minigames">Spiele zu spielen</a>, <a href="https://wiki.aavegotchi.com/en/staking">GHST zu staken</a>, oder für irgendeinen anderen Aspekt des Aavegotchi Projekts.
 
+The table below summarizes the information:
+
+table_kyc
+
 ### Was hat Aave mit Aavegotchi zu tun?
 
-Aavegotchi begann mit einem Zuschuss des Aave-Ökosystems, und erhielt die Erlaubnis zur Verwendung des Aave-Logos. Das Aavegotchi Spiel integriert die Verwendung von [aTokens](/atokens) als zentrales Element des Gameplays, und seit November 2020 ist Aave auch ein [offizieller Investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, dem Team hinter Aavegotchi.
+Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Can aTokens staked inside an Aavegotchi get liquidated?
-Nein. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### What are maTokens?
 maTokens are aTokens which have been transferred to the Matic Network. Like aTokens, they accrue interest over time!
@@ -126,12 +131,12 @@ After making a purchase on the bonding curve, you need to make another transacti
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Can people frontrun the Bonding Curve?
-Nein. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## FRENS FAQ
 
 ### Can I buy FRENS?
-Nein. FRENS are a way to reward our community members who staked GHST.
+No. FRENS are a way to reward our community members who staked GHST.
 
 ### Are FRENS used for anything besides raffles?
 
@@ -153,7 +158,7 @@ Nein! Please be aware simply buying tickets with FRENS **does not automatically 
 
 ### Will raffle wearables be available in the Aavegotchi store?
 
-Nein. The only time these wearables will ever be released is during the pre-launch raffles.
+No. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Are raffle wearables special?
@@ -170,7 +175,7 @@ Yes, there will be additional raffles after Mainnet launches. However, they will
 ## Kleidungsstück FAQ
 
 ### Do I need to transfer my wearable vouchers to Matic?
-Nein. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
+No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
 
 ## Portal FAQ
 
@@ -237,6 +242,9 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 ### Why can't I see my LP Tokens on QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+
+### Can I send Matic-side tokens to Centralized Exchanges directly?
+**No!** You should not send Matic-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
