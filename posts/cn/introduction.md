@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Aavegotchi 维基简介'
+description: 'Aavegotchi 百科简介'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** 是一个 DeFi 加密游戏，由设在新加坡的Pixelcraft Studios 开发，它允许玩家以质押 [aTokens](https://wiki. aavegotchi. com/atokens) 与Aavegotchi [元宇宙](https://wiki. aavegotchi. com/metaverse) 进行交互。 它是 [去中心化金融(DeFi)](/glossary#defi-101) 和 NFT的独特组合。
+**Aavegotchi** 是一个 DeFi 赋能的加密收藏品游戏，由设立在新加坡的Pixelcraft Studios 团队开发，玩家可以质押 [aTokens](https://wiki. aavegotchi. com/atokens) 产生[ Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars 与 Aavegotchi [元宇宙](https://wiki. aavegotchi. com/metaverse) 进行交互。 它是 [去中心化金融（DeFi）](/glossary#defi-101) 和 NFT 的绝妙组合。
 
-Aavegotchis是生活在以太坊区块链上的像素幽灵，使用
+Aavegotchis 是生活在以太坊区块链上的像素幽灵，使用
 ERC-721** 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/traits)。</p> 
 
 为了提升Aavegotchis的等级，参与者可以参加各种活动，包括小型游戏、政府决策和集会。 Aavegotchis还可以通过装备游戏内可穿戴设备来提升稀有度。 
