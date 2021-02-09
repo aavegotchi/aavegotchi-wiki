@@ -43,7 +43,7 @@ contributors:
 
 Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新发售情况。
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
+<img class = "bodyImage" src = "/marketplace/avegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
 更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
@@ -55,7 +55,7 @@ Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotc
 
 ## 注意事项
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+在 Opensea 和其他二级市场上购买资产固然有趣，但保护财产安全也是重中之重，请您务必小心谨慎。 记住，如果什么东西美好得不像真的，那你就要保持警惕！
 
-* Always double-check that the contract address for the items are coming from the correct contract addresses.
-* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
+* 多次检查以确保合约地址的正确性
+* 如果有其他疑问，可以到 [ Aavegotchi Discord](https://discord.com/invite/NPwnWB6) 官方平台寻求帮助哦，热情的 Aapprentices 等待你的到来。
