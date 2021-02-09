@@ -67,6 +67,7 @@ contributors:
 <p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?</a></p>
 <p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Can I send Matic-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
 </ol>
 
 </div>
@@ -245,6 +246,14 @@ After you have staked your LP tokens on QuickSwap, you will not be able to see t
 
 ### Can I send Matic-side tokens to Centralized Exchanges directly?
 **No!** You should not send Matic-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+
+### Why is Metamask rejecting my token symbol?
+
+Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+
+Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
