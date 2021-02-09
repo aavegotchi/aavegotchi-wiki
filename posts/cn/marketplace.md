@@ -13,13 +13,13 @@ contributors:
 
 “给你看个厉害的。"
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+商人 Gotchi 拿出了一件用布包裹着的东西。 他缓缓揭开了布， 里面的宝贝仿佛在一瞬间吸收了太阳的能量，反射出了耀眼的光芒。
 
-".....A Mudgen Diamond" you whisper to yourself.
+"…..是 Mudgen 钻石嘛” 你自己嘀咕着。
 
-The marvellous shine catches the attention of countless bystanders.
+但同时，宝贝散发出的炫目的光芒也吸引了无数围观者的注意。
 
-Another Gotchi shoves in. “我要买！”
+另一个 Gotchi 强行挤进来喊着， “我要买！”
 
 “不！ 它是我的！”
 
@@ -34,7 +34,7 @@ Another Gotchi shoves in. “我要买！”
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#collection-addresses>收藏品地址</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#precautions>注意事项</a></li>
 </ol>
 
 </div>
@@ -53,7 +53,7 @@ Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotc
 
 合约地址表
 
-## Precautions
+## 注意事项
 
 It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
