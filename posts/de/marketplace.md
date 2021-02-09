@@ -13,13 +13,13 @@ Der Händler Gotchi winkt dich heimlich und mit einem Glitzern in den Augen zu s
 
 "Ich habe etwas Tolles für dich."
 
-Der Händler Gotchi holte einen mit Stoff bedeckten Gegenstand hervor. Langsam zog er das Tuch weg. Das Objekt fing die Sonnenstrahlen ein und leuchtete in der hellen Nachmittagssonne.
+The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
 
-".....Ein Mudgen-Diamant", flüsterst du zu dir selbst.
+".....A Mudgen Diamond" you whisper to yourself.
 
-Der wunderbare Glanz zog die Aufmerksamkeit unzähliger Umstehender auf sich.
+The marvellous shine catches the attention of countless bystanders.
 
-Ein weiteres Gotchi kommt dazu. "Ich möchte es!"
+Another Gotchi shoves in. "Ich möchte es!"
 
 "NEIN! ICH WILL ES!"
 
@@ -34,8 +34,7 @@ Komm und teste dein Geschick! Käufer und Verkäufer gleichermassen!
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#collection-addresses>Adressen der Kollektionen</a></li>
-<li><a href=#opensea-tutorial>OpenSea Tutorial</a></li>
-<li><a href=#precautions>Vorsichtsmassnahmen</a></li>
+<li><a href=#precautions>Precautions</a></li>
 </ol>
 
 </div>
@@ -54,40 +53,9 @@ Die folgende Tabelle zeigt die offiziellen Smart Contract Adressen für die vers
 
 table_smartcontracts
 
-## OpenSea Tutorial
+## Precautions
 
-Das OpenSea-Tutorial ist ein Beispiel dafür, wie man eine grundlegende Sorgfaltsprüfung vornimmt, bevor man einen Kauf auf OpenSea tätigt. Das Tutorial ist nicht vollständig; Lotterie-Tickets werden als Beispiel verwendet. Du kannst das gleiche Prinzip auf andere Asset-Kategorien ausweiten (z.B. Kleidungsstücke, etc.).
+It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
-Lotterie-Tickets bezeichnen die Tickets, die zur Teilnahme an Aavegotchi-Lotterien verwendet werden. Es gibt sie in 6 verschiedenen Arten: (1) Gewöhnlich, (2) Ungewöhlich, (3) Selten, (4) Legendär, (5) Mythisch und (6) Göttlich. Optisch sehen sie aus wie das folgende Bild.
-
-<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
-
-Alle 6 Arten von Lotterie-Tickets teilen sich die gleiche Contract-Adresse: 0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
-
-Um sie auf [OpenSea](https://opensea.io/) zu kaufen, gib den Suchbegriff "Aavegotchi FRENS Raffle Tickets" in die Suchleiste von OpenSea ein. Wähle die gleichen Keywords aus, die im Dropdown-Menü auftauchen (unten rot eingekreist). Eine Alternative ist, den Link zur Lottiere-Ticket-Kollektion auf OpenSea in der [Tabelle](/posts/marketplace#collection-addresses) oben zu verwenden.
-
-<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
-
-Begib dich zu der Art von Tickets, die du kaufen möchtest.
-
-Überprüfe am Beispiel der Göttlichen Lotterie-Tickets folgendes:
-
-* Die URL zeigt die korrekte Contract-Adresse an (unten rot eingekreist):
-
-<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket" />
-
-* Das Vorhandensein eines blauen Häkchens "Verified Contract" neben dem Titel der OpenSea-Kollektion (unten in rot eingekreist).
-
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage" />
-
-* Der Unterabschnitt "Chain Info" zeigt die korrekte Contract-Adresse (unten rot eingekreist). In der linken Ecke des Bildschirms befindet sich ein weiterer Abschnitt "Chain Info". Erweitere diesen und vergleiche die Contract-Adresse mit der Lotterie-Ticket-Adresse (0x93eA6ec350Ace7473f7694D43dEC2726a515E31A). Wenn sie gleich sind, bist du startklar.
-
-<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
-
-
-## Vorsichtsmassnahmen
-
-Es macht keinen Spass, dein hart verdientes Geld für gefälschte Assets auszugeben. Wenn du also auf Opensea und anderen Sekundärmarktplätzen kaufst, solltest du vorsichtig sein. Vergiss nicht: Wenn es zu gut aussieht, um wahr zu sein, ist es das wahrscheinlich auch!
-
-* Überprüfe immer doppelt, ob die Contract-Adressen für die Artikel von der richtigen Adresse stammen.
-* Wenn du dir bei etwas unsicher bist, gehe zum [offiziellen Aavegotchi Discord](https://discord.com/invite/NPwnWB6), wo es immer hilfsbereite Aapprentices gibt!
+* Always double-check that the contract address for the items are coming from the correct contract addresses.
+* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!

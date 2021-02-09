@@ -34,7 +34,6 @@ contributors:
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#collection-addresses>收藏品地址</a></li>
-<li><a href=#opensea-tutorial>OpenSea 教程</a></li>
 <li><a href=#precautions>注意事项</a></li>
 </ol>
 
@@ -44,7 +43,7 @@ contributors:
 
 Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新发售情况。
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
+<img class = "bodyImage" src = "/marketplace/avegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
 更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
@@ -54,40 +53,9 @@ Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotc
 
 合约地址表
 
-## OpenSea 教程
-
-OpenSea 教程会为您提供一些基础性的指导，告诉您如何在 OpenSea 平台购买资产。 Raffle Tickets 就是其中的一个例子， 您可以将相同的操作步骤扩展到其他资产类别（例如可穿戴设备等）。
-
-Raffle Tickets 是指用于参加 Aavegotchi 抽奖活动的门票， 包含以下6种类型：（1）普通，（2）罕见，（3）稀少，（4）传奇，（5）神话，以及（6）创世。 视觉上来讲，他们看起来像下方图片里面的形象。
-
-<img src = "/marketplace/aavegotchi-raffle-tix.png" alt = "aavegotchi raffle tickets" class="bodyImage" />
-
-所有6种 Raffle tickets 都是同一个合约地址：0x93eA6ec350Ace7473f7694D43dEC2726a515E31A
-
-在 [OpenSea](https://opensea.io/) 平台购买 Raffle tickets，仅需在搜索栏中输入关键词 “aavegotchi FRENS raffle tickets”， 选择从下拉菜单弹出的相同关键字选项 (下方显示为红色圆圈)， 或者使用上面 [表格](/posts/marketplace#collection-addresses) 中的链接进入到 Raffle Tickets 收藏的界面。
-
-<img src = "/marketplace/aavegotchi-frens-raffle-tickets-opensea.png" alt = "aavegotchi FRENS raffle tickets" class="bodyImage" />
-
-挑选您喜欢的 Raffle ticket。
-
-以创世 Godlike Raffle Tickets 为例，验证以下内容：
-
-* URL 显示正确的合约地址 (在下面红色中盘旋)：
-
-<img class = "bodyImage" src = "/marketplace/aavegotchi-opensea-url.png" alt = "aavegotchi raffle ticket" />
-
-* OpenSea 收藏标题旁边有一个“经验证的合同”蓝色标记(在红色中盘旋)。
-
-<img src ="/marketplace/aavegotchi-godlike-raffle-ticket.png" alt= "aavegotchi godlike raffle ticket" class="bodyImage" />
-
-* URL 显示正确的合约地址 (在下面红色中盘旋)： 在屏幕的左上角，将有一个“链信息”小节。 展开小节，然后将合同地址与抽奖券合同地址（0x93eA6ec350Ace7473f7694D43dEC2726a515E31A）进行比较。 如果它们相似，你们就会很好。
-
-<img src = "/marketplace/aavegotchi-chain-info.png" alt = "aavegotchi on-chain info opensea" class="bodyImage" />
-
-
 ## 注意事项
 
 在 Opensea 和其他二级市场上购买资产固然有趣，但保护财产安全也是重中之重，请您务必小心谨慎。 记住，如果什么东西美好得不像真的，那你就要保持警惕！
 
-* 总是要仔细检查这些物品的合同地址来自正确的合同地址。
-* 如果你不知道什么，去 [官方的 Aavegotchi Discord](https://discord.com/invite/NPwnWB6)，那里总是有疯狂的学徒愿意帮助！
+* 多次检查以确保合约地址的正确性
+* 如果有其他疑问，可以到 [ Aavegotchi Discord](https://discord.com/invite/NPwnWB6) 官方平台寻求帮助哦，热情的 Aapprentices 等待你的到来。
