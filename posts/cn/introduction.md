@@ -55,7 +55,7 @@ Aavegotchis 是生活在以太坊区块链上的稀有加密收藏品，它也�
 
 洋葱图可以很好的展现质押，特征，可穿戴设备和亲密度之间的关系（见下图）。 每一层都建立在前一层之上，叠加起来就汇聚成了 Aavegotchi 本身！
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi 洋葱图" />
 
 
 
