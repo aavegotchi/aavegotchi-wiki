@@ -13,13 +13,13 @@ Tay Buôn Gotchi lén ngoắt tay liếc mắc gọi bạn vào sạp đồ.
 
 "Ta có món hàng khủng này muốn cho cậu xem."
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Tay Buôn Gotchi rút ra một vật thể gói trong lớp vải. Hắn chầm chậm bỏ miếng vải ra. Vật thể ấy bắt nắng và chiếu sáng chói loà dưới ánh mặt trời ban trưa.
 
-".....A Mudgen Diamond" you whisper to yourself.
+"... Một Viên Kim Cương Mudgen" bạn tự thì thầm với mình.
 
-The marvellous shine catches the attention of countless bystanders.
+Tia sáng kỳ ảo ấy bắt lấy mọi ánh nhìn của vô số những người đứng xung quanh.
 
-Another Gotchi shoves in. "Tôi sẽ mua món này!"
+Một Gotchi khác chen vào. "Tôi sẽ mua món này!"
 
 "KHÔNG ĐƯỢC! "MÓN NÀY LÀ CỦA TÔI!"
 
@@ -34,7 +34,7 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#precautions>Khuyến Cáo</a></li>
 </ol>
 
 </div>
@@ -53,9 +53,9 @@ Bảng phía dưới đây cho thấy địa chỉ hợp đồng thông minh ch�
 
 table_smartcontracts
 
-## Precautions
+## Khuyến Cáo
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+Tiền kiếm rất khó khăn nên bạn nhớ đừng mua phải những tài sản giả mạo, vậy nên khi bạn mua hàng trên OpenSea hoặc những thị trường thứ cấp, hãy nhớ luôn kiểm tra thật cẩn thận. Lưu ý rằng, nếu thấy món hàng nhìn thấy nó pha ke kiểu gì thì có thể là nó pha ke thật đấy!
 
-* Always double-check that the contract address for the items are coming from the correct contract addresses.
-* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
+* Hãy luôn kiểm tra lại contract address nhiều lần bởi những món vật phẩm được sinh ra từ những contract address thật.
+* Nếu bạn thấy không chắc chắn, hãy tham gia vào [kênh Discord chính thức của Aavegotchi](https://discord.com/invite/NPwnWB6), để hỏi các bạn Aaprentice thân thiện luôn sẵn sàng giúp đỡ nhé!
