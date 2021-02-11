@@ -21,7 +21,7 @@ Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Un
 <li><a href=#why-matic->Tại sao lại là Matic?</a></li>
 <li><a href=#adding-matic-to-your-metamask>Thêm Matic vào Metamask</a></li>
 <li><a href=#bridging-assets-to-matic>Kết nối tài sản đến Matic</a></li>
-<li><a href=#bridging-assets-back-to-ethereum-mainnet>Bridging assets back to Ethereum Mainnet</a></li>
+<li><a href=#bridging-assets-back-to-ethereum-mainnet>Chuyển tài sản về lại Ethereum Mainnet</a></li>
 </ol>
 
 </div>
@@ -89,18 +89,18 @@ Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. C
 
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
-## Bridging assets back to Ethereum Mainnet
+## Chuyển tài sản về lại Ethereum Mainnet
 
-What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
+Vậy thì làm thế nào để chuyển tài sản về lại Ethereum Mainnet? Có thể làm vậy được hay không?
 
-Yes, there is a way to transfer your assets back to Ethereum Mainnet!
+Có chứ, có một cách giúp bạn có thể chuyển tài sản trở lại Ethereum Mainnet!
 
-Head over to the [Aavegotchi Bridge](https://aavegotchi.com/bridge) again.
+Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge)lại nhé.
 
 <img class = "bodyImage" src = "/matic/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
 
-At the right hand side of the screen, there is an image of a token as well as a box where you can input an amount in. Click on the image of the token and a display of available tokens will appear. Select the [maToken](/matokens) which you want to bridge back to Ethereum Mainnet. After that, key in the desired amount in the box and hit the "Transfer to Ethereum" button.
+Ở bên tay phải của màn hình, có hình ảnh của một đồng token cũng như một ô để bạn có thể nhập số lượng vào đó. Nhấp vào ảnh của token và một bảng danh sách token sẽ xuất hiện. Hãy chọn [maToken](/matokens) mà bạn muốn chuyển lại Mainnet của Ethereum. Sau đó, hãy nhập vào lượng token mà bạn muốn chuyển vào đó và nhấp vào nút "Transfer to Ethereum.".
 
-Withdrawing from Matic takes approximately 30 minutes. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
+Việc rút tiền từ Matic Network sẽ mất khoảng 30 phút. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
 
 Currently, the Aavegotchi Bridge supports the transfer of maTokens from Matic to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.
