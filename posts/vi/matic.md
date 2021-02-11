@@ -101,6 +101,6 @@ Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge)lại nhé
 
 Ở bên tay phải của màn hình, có hình ảnh của một đồng token cũng như một ô để bạn có thể nhập số lượng vào đó. Nhấp vào ảnh của token và một bảng danh sách token sẽ xuất hiện. Hãy chọn [maToken](/matokens) mà bạn muốn chuyển lại Mainnet của Ethereum. Sau đó, hãy nhập vào lượng token mà bạn muốn chuyển vào đó và nhấp vào nút "Transfer to Ethereum.".
 
-Việc rút tiền từ Matic Network sẽ mất khoảng 30 phút. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
+Việc rút tiền từ Matic Network sẽ mất khoảng 30 phút. Có lúc sẽ lâu hơn. Sau khi rút tiền thành công, bạn vẫn sẽ phải nhấp vào nút "CLAIM ON ETHEREUM" để nhận lại token trên Ethereum Mainnet.
 
-Currently, the Aavegotchi Bridge supports the transfer of maTokens from Matic to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.
+Trong hiện tại, Aavegotchi Bridge hỗ trợ chuyển maToken từ Matic về Ethereum Mainnet. Trong tương lai, nó sẽ hỗ trợ chuyển các Aaevegotchi (ERC-721) và cũng như Trang phục (ERC-1155).
