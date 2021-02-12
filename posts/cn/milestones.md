@@ -8,27 +8,27 @@ contributors:
 ---
 
 ## [等等！ 什么？！ Aavegotchi NFT 交易市场？](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February!
+* 2021年2月2日，团队宣布，2月游戏上线时，Aavegotchi 官方交易市场（Aavegotchi Baazaar）将与任意门和可穿戴设备一起发布！
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Matic and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+## [矿工奖励释放年鉴：收获 GHST 奖励的终极指南](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* 嘿呀，朋友们！ 想知道如何将 GHST 迁移到 Matic 网络再顺便收获一些奖励？ 我们已经为你编写了指南！ 文件发布于2021年1月25日。
 
-## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Matic to launch alongside the bridge from Mainnet to Matic
-* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+## [Aavegotchi 改进提案（AGIPs）2和3！](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* 2021年1月21日，Aavegotchi 改进提案（AGIPs）2和3在剩余8个小时的时候表决达到法定人数！
+* GHST 在 Matic 网络部署质押合约，同时从主网桥迁至 Matic 网络。
+* Aavegotchi 社区在韩国，法国和西班牙的增长！ 嘻嘻！
 
-## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Matic Network on 20 January 2021!
+## [aTokens 在 Matic 网络生效！](https://twitter.com/coderdannn/status/1351902787919986693)
+* 我们的宝藏男孩， [Nick Mudge](/team#nick-mudge)，已经搞定了这项任务！ 2021年1月20日，他成功地将 aTokens 桥迁到 Matic 网络耶！
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+## [Aragon 上的投票现已启动！](https://twitter.com/aavegotchi/status/1351159786109341698)
+* 2021年1月18日，团队宣布，两项新的 AavegotchiDAO 提案已在 Aragon 上等待投票。 投票时间为72小时。
 
-## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
-* There are Liquidity Migration Incentives up for grabs as well!
+## [GHST 在 Matic 网络生效](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* 2021年1月11日，Aavegotchi 团队宣布在 Matic 网络上发行 GHST。
+* 同时提供流动性迁移的激励方案！
 
-## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
+## [呼叫所有开发者！](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
 * The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
 
 ## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
