@@ -44,37 +44,37 @@ contributors:
 ## [aUNI 和 aYFI 被选作 Aavegotchi  的抵押代币](https://twitter.com/aavegotchi/status/1345026523263238145)
 * 人民的决定！哈哈。 2021年1月1日，多数选民投票赞成 aUNI 和 aYFI 被纳入 aavegotchi 抵押代币！
 
-## [Aavegotchi 终极愿景！](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Ready up frens! This 29 December 2020 announcement is biiigg!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
+## [Aavegotchi 终极任务！](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* 准备好了嘛！ 2020年12月29日的通知很重要！
+* Raffle 3 （Etherum 主题） 可穿戴设备公开！ 抽奖于2020年12月31日新年夜举办！
+* 是的，在新年夜还有另一个派对！
+* 最终任务已发布！ 疯狂吧朋友们！
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+## [更新：帮助 Fren 解锁](https://twitter.com/aavegotchi/status/1343184902083121157)
+* 2020年12月27日，我们整理了为 santagogchi.eth 捐赠的金额列表。 我们筹集了10k 以上的资金来帮助这位失去资金的 Fren。
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
-* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+## [投票支持下一个 aToken！](https://twitter.com/aavegotchi/status/1341054376132034564)
+* 从2020年12月22日起，在 Twitter 和 Snapshot 上投票支持将被添加到 Aavegotchi 的下两个新的aTokens。
+* 快来支持你的 aBUSD，aSUSD，aYFI 和 aUNI 吧！
 
-## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+## [帮助解锁我们的 fren](https://twitter.com/aavegotchi/status/1339738554906243072)
+* 2020年12月18日宣布。 通过捐献任何价值超过20美元的 ERC20 代币来解锁我们的 fren 并获得 Santagotchi 帽子！
 
-## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Community update published on 12 December 2020!
-* 4 January 2021 Aavegotchi launch date confirmed!
-* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+## [Aave 主题抽奖圆满结束！](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+* 2020年12月12日，社区发布最新进展！
+* 2021年1月4日，Aavegotchi 上线日期确认！
+* Aave 主题抽奖圆满举办！ 与以 Chainlink 为主题的抽奖活动相比，门票参与数量增加了66％
+* 币安上线 GHST 代币
+* 救救 Fren！ 一个 Fren 将他的全部的 LINK 质押到了 GHST 合约 :(
+* 2020年12月14号举行 GHST 诞生三个月“周年”派对奥！
+* Jesse 与 CGC 的主题演讲“INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG”（在 [媒体](/posts/media) 页面点击阅读！)
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [Aavegotchi Gameplay 定于2021年1月4日启动](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* 2020年12月12日，Coindesk 发表一篇文章介绍关于2021年1月4日发布的 Aavegotchi Gameplay 的最新进展。 激动吗？ 激动奥！
 
-## [在即将到来的 Avegotchi Raffle 中宣布 Aave NFT](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+## [Aave 宣布 Avegotchi 抽奖奖励为 Aave NFTs](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
 * 2020年12月6日，Aave 宣布将于2020年12月8日将举办 Aave * Aavegotchi 炉边谈话活动来启动 Aave 主题的抽奖。
-* Aave 主题抽奖将包括 Frens4Ever NFTs！ Catch a CoderDangotchi and a Jessegotchi if you can!
+* Aave 主题抽奖将包括 Frens4Ever NFTs！ 还有一个CoderDangogchi 和一个Jessegotchi 哦！
 
 ## [Aavegotchi 学者萌！ Aavegotchi 百科在这里！](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
 * 2020年11月27日启动 Aavegotchi 百科计划。 朋友们，我们需要大家来为百科添砖加瓦！
@@ -82,7 +82,7 @@ contributors:
 * 哔！ Aavegotchi 招募了一名游戏开发者！ 感兴趣小伙伴们也快来加入吧！
 
 ## [来辣！ Aave 主题 Raffle 获奖列表](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* 预览于2020年11月25日发布的 Aavevengers 超级英雄可穿戴设备
+* 先睹为快，将于2020年11月25日发布的 Aavevengers 超级英雄可穿戴设备
 * 还有 Marc, Jordan, 和 Stani-gotchi 的呢！
 
 ## [Aave 向 Aavegotchi 投资！！！](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
@@ -113,7 +113,7 @@ contributors:
 
 ## [更好玩！ 更刺激！](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
 * 哔！ 哔！ 团队在2020年10月25日宣布，将于2020年10月30日星期五举行Haalllooowwweeen 派对。 不见不散！
-* 宣布愿景9获胜者
+* 宣布任务9获胜者
 
 ## [大招蓄力中...](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
 * 2020年10月23日，团队宣布将在11月10日进行抽取3个主网预发布前的 GHST 质押的 Raffles！
@@ -135,7 +135,7 @@ contributors:
 * 2020年10月13日， 欢迎从 Kovan 测试网传送门到来的 frens。 厉害了奥。
 
 ## [准备好了吗？ Aavegotchi 表情包大赛的获胜者们！](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* 2020年10月10日公布愿景8 -- Aavegotchi 表情包大赛获奖名单！ 鼓掌！
+* 2020年10月10日公布任务8 -- Aavegotchi 表情包大赛获奖名单！ 鼓掌！
 * 公开招募 Aavegotchi 艺术家
 
 ## [特别供应版 OKex 可穿戴装备](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
@@ -151,7 +151,7 @@ contributors:
 ## [传送门在 Kovan 测试网生效！](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
 * Aavegotchi 传送门于2020年9月25日在 Kovan 测试网上运行！
 * AavegotchiDAOs 首次提议：在 Uniswap 上增加 GHST 流动性
-* 获胜者宣布愿景7 "Just DAO it!"
+* 获胜者宣布任务7 "Just DAO it!"
 
 ## [Aavegotchi 和 Chainlink 是好基友！](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
 * 与 CHAINLINK 合作！ 2020年9月24日，Coderdan 解释了 Chainlink 的可验证随机函数（VRF）和Aavegotchi 将如何使用它。
@@ -179,9 +179,9 @@ contributors:
 * 2020年8月13日，Shadowcrypto, Vanilladelphia.eth, Hackingmoneyyph 和 Unintelligent_nerd 加入了 Aavegotchi 学徒！
 * Aavegotchi 代理团队拥有超过120名成员！
 
-## [JC Crown 加入团队以及 Aavegotchi 愿景发布](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+## [JC Crown 加入团队以及 Aavegotchi 任务发布](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
 * 2020年7月29日，JC Crown 加入 Aavegotchi 团队！
-* 同一天发布了 Aavegotchi 愿景！
+* 同一天发布了 Aavegotchi 任务！
 
 ## [Nick Mudge 加入团队！](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
 * Nick Mudge 于2020年7月22日加入团队。
