@@ -81,35 +81,35 @@ contributors:
 * Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
 * Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
+## [来辣！ Aave 主题 Raffle 获奖列表](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* 预览于2020年11月25日发布的 Aavevengers 超级英雄可穿戴设备
 * Featuring Marc, Jordan, and Stani-gotchi wearables too!
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi
+## [Aave 向 Aavegotchi 投资！！！](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave 于2020年11月23日正式宣布其对 Pixelcraft Studios 的投资。
+* Pixelcraft Studios 是 Aavegotchi 的主要开发团队
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+## [哇～ Aavegotchi 同人文 <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* Aavegotchi ❤ Chainlink 基情文学，由自己人 [appellants](https://twitter.com/sinkielinkie) 激情编写！ 发布于2020年11月20日。
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [每个人都是获胜者！](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* 屏住呼吸，每个人都等待着2020年11月13日 Chainlink VRF 的魔法展示。 然后的结果出来辣........每个人都是获胜者！
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+## [坐稳了 frens！](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* 准备好了朋友们！ 即将到来的抽奖活动的手把手教学----于2020年11月9日发布！
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [万圣节派对来了！](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* 2020年11月4日发布万圣节派对精彩回顾！
+* 宣布装扮大赛获胜者！
+* 在 Kovan 测试网上线抽奖活动
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [创造你自己的 Gotchi！](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* 2020年10月29日发布交互式小型程序 Aavegotchi Builder，熟悉 Aavegotchi 的特质，或者模拟装备 Aavegotchi 的可穿戴设备。
 
-## [Haaaaallooweeeen 派对](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+## [万圣节派对](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * 2020年10月28日公布了关于万圣节派对的具体细节。
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+* 虚拟装扮大赛！
+* 伴随 Harrison First 的音乐，与Cherry，OpenSea 还有 Matic 网络一同玩耍。 派对将由 Aave 创始人Stani 带来开场表演。
 
 ## [更好玩！ 更刺激！](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
 * 哔！ 哔！ 团队在2020年10月25日宣布，将于2020年10月30日星期五举行Haalllooowwweeen 派对。 不见不散！
