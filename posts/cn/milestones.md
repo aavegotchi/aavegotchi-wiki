@@ -141,17 +141,17 @@ contributors:
 ## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
 * Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
 
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+## [Uniswap GHST-ETH 交易对在 Kovan 测试网生效！](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
 * Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
 * Gotchi memes flooooding Aavegooootchi Reddit!
 
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
+## [GHST 在 Kovan 测试网质押！](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* 质押 GHST 获得 FRIENDS！！！！！ 2020年9月29日在 Kovan 测试网上线！
 
 ## [传送门在 Kovan 测试网生效！](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
 * Aavegotchi 传送门于2020年9月25日在 Kovan 测试网上运行！
 * AavegotchiDAOs 首次提议：在 Uniswap 上增加 GHST 流动性
-* Winners announced for Mission 7 "Just DAO it!"
+* 获胜者宣布愿景7 "Just DAO it!"
 
 ## [Aavegotchi 和 Chainlink 是好基友！](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
 * 与 CHAINLINK 合作！ 2020年9月24日，Coderdan 解释了 Chainlink 的可验证随机函数（VRF）和Aavegotchi 将如何使用它。
