@@ -106,18 +106,18 @@ contributors:
 ## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
 * Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
 
-## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
+## [Haaaaallooweeeen 派对](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+* 2020年10月28日公布了关于万圣节派对的具体细节。
 * Virtual Costume Contest!
 * With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
+## [更好玩！ 更刺激！](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* 哔！ 哔！ 团队在2020年10月25日宣布，将于2020年10月30日星期五举行Haalllooowwweeen 派对。 不见不散！
+* 宣布愿景9获胜者
 
 ## [大招蓄力中...](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+* 2020年10月23日，团队宣布将在11月10日进行抽取3个主网预发布前的 GHST 质押的 Raffles！
+* 本次抽奖以 LINK 为主题，庆祝我们与 Chainlink 的基情以及 Chainlink VRF 的正式使用。
 
 ## [继续前进！](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 * GHST 质押已于2020年10月20日在主网上线
