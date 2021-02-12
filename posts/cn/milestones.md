@@ -131,19 +131,19 @@ contributors:
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
 * Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
 
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
+## [哦嚯～ 欢迎从传送门到来的 frens](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 2020年10月13日， 欢迎从 Kovan 测试网传送门到来的 frens。 厉害了奥。
 
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
+## [准备好了吗？ Aavegotchi 表情包大赛的获胜者们！](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* 2020年10月10日公布愿景8 -- Aavegotchi 表情包大赛获奖名单！ 鼓掌！
+* 公开招募 Aavegotchi 艺术家
 
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+## [特别供应版 OKex 可穿戴装备](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* 2020年10月7日的重要公告！ 将 GHST 存入 OKex，即可获得 Aavegotchi x Okex 可穿戴设备 NFT的特别供应版。
 
 ## [Uniswap GHST-ETH 交易对在 Kovan 测试网生效！](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* Gotchi memes flooooding Aavegooootchi Reddit!
+* 2020年10月2日，Uniswap LP 质押交易对 GHST-ETH 在 Kovan 测试网生效！
+* 在 Reddit 举办 Aavegotchi 表情包大赛！
 
 ## [GHST 在 Kovan 测试网质押！](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
 * 质押 GHST 获得 FRIENDS！！！！！ 2020年9月29日在 Kovan 测试网上线！
