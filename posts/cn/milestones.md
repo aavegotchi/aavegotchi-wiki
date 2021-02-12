@@ -29,22 +29,22 @@ contributors:
 * 同时提供流动性迁移的激励方案！
 
 ## [呼叫所有开发者！](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
-* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
+* Aavegotchi 团队将赞助 ETH 全球黑客松 MarketMake，奖金为4000 GHST（还有一笔可观的 XP 奖励给你未来的 Aavegotchis 哦）。
 
-## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Matic Network at a later date
-* Aagent missions have finally concluded!
-* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
-* Aavegotchi looking for Aambassadors!
+## [Aavegotchi 推迟主网启动](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* 由于极端网络拥堵情况，原定于2021年1月4日的主网启动计划已被推迟 :(
+* 社区投票决定项目之后在 Matic 网络启动
+* 代理任务终于完成！
+* Aavegotchi 可穿戴装备商店官宣！ 点击 [这里](/wearables) 参观～
+* Aavegotchi 大使招募计划！
 
-## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
+## [稀有度挖矿101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
+* 想要知道稀有度挖矿的全部内容？ 2021年1月2日公布。
 
-## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+## [aUNI 和 aYFI 被选作 Aavegotchi  的抵押代币](https://twitter.com/aavegotchi/status/1345026523263238145)
+* 人民的决定！哈哈。 2021年1月1日，多数选民投票赞成 aUNI 和 aYFI 被纳入 aavegotchi 抵押代币！
 
-## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+## [Aavegotchi 终极愿景！](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
 * Ready up frens! This 29 December 2020 announcement is biiigg!
 * Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
 * Yessss, there's another party on New Year's Eve!
