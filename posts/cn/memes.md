@@ -23,12 +23,12 @@ contributors:
 
 <img class="bodyImage" src="/memes/CozyGHST.jpg" alt = "aavegotchi memes" />
 
-### 其它表情
+### 风格迥异的表情包
 
-Nick Mudge教授Vanilladelphia如何“放进他的盒子上”。
+Nick Mudge 教 Vanilladelphia 如何 “穿上裤子”。
 
 <img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
 
-CoderDan在海滩上谦虚的maiya tang（麦芽糖）销售商时期。 Created by Zer0dot.
+CoderDan 在海边叫卖麦芽糖， 作者 Zer0dot。
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />
