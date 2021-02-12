@@ -72,18 +72,18 @@ contributors:
 ## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
 * On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [在即将到来的 Avegotchi Raffle 中宣布 Aave NFT](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* 2020年12月6日，Aave 宣布将于2020年12月8日将举办 Aave * Aavegotchi 炉边谈话活动来启动 Aave 主题的抽奖。
+* Aave 主题抽奖将包括 Frens4Ever NFTs！ Catch a CoderDangotchi and a Jessegotchi if you can!
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+## [Aavegotchi 学者萌！ Aavegotchi 百科在这里！](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* 2020年11月27日启动 Aavegotchi 百科计划。 朋友们，我们需要大家来为百科添砖加瓦！
+* Aavegotchi 在 2020 NFT Awards 中两次获得提名。 哇哦！
+* 哔！ Aavegotchi 招募了一名游戏开发者！ 感兴趣小伙伴们也快来加入吧！
 
 ## [来辣！ Aave 主题 Raffle 获奖列表](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
 * 预览于2020年11月25日发布的 Aavevengers 超级英雄可穿戴设备
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+* 还有 Marc, Jordan, 和 Stani-gotchi 的呢！
 
 ## [Aave 向 Aavegotchi 投资！！！](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
 * Aave 于2020年11月23日正式宣布其对 Pixelcraft Studios 的投资。
