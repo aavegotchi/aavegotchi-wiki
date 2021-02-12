@@ -115,21 +115,21 @@ contributors:
 * Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
 * Announcing the Mission 9 Contest Winners
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+## [大招蓄力中...](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
 * On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
 * This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+## [继续前进！](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* GHST 质押已于2020年10月20日在主网上线
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [在测试网里测试～ 审计通过](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* 2020年10月18日的重要公告！ [GHST 质押审计报告](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) 完成----没有漏洞！
+* GHST 质押在72小时内于主网上线
+* AavegotchiDAO 的第一次在链上投票以 99% 的赞成票通过！
+* Aavegotchi 赢得 OKex Defi + NFT 上线竞赛。
 
-## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+## [AavegotchiDAO 来了奥](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
+* 注意！ 注意！ 2020年10月14日，准备好你的 GHST 来投票吧！ AavegotchiDAO的上任议题：提升资金上限！
 
 ## [哦嚯～ 欢迎从传送门到来的 frens](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
 * 2020年10月13日， 欢迎从 Kovan 测试网传送门到来的 frens。 厉害了奥。
