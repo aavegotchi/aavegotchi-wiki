@@ -39,7 +39,7 @@ contributors:
 
 ## 万圣节装扮竞赛
 
-10月30日星期五 (UTC 下午四点 / EST 中午12点 / SGT 晚12点)，鬼怪们 *字面意思* 鬼魂出来游行(双关语:P)。。 Aagents 有一些有趣的衣服，一个Aavegotchi，每个gotchi轮到 <s>步行</s>浮动到 <s>cat</s>幽灵行走。 社区成员给他们最喜欢的投票。
+10月30日星期五 (UTC 下午四点 / EST 中午12点 / SGT 晚12点)，鬼怪们 *（字面意思奥）* 纷纷出动啦～～ Aagents 有一些有趣的衣服，一个Aavegotchi，每个gotchi轮到 <s>步行</s>浮动到 <s>cat</s>幽灵行走。 社区成员给他们最喜欢的投票。
 
 ### <span style="color:gold">第一位：Esveebee提供的IT</span>
 
