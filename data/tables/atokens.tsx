@@ -24,7 +24,7 @@ export const tables
                     [`<img class="atoken" src="/atokens/aUSDT.svg" alt = "aUSDT token">`, "aUSDT", "A stablecoin that mirrors the price of the U.S. dollar, issued by Tether.", "Yes"],
                     [`<img class="atoken" src="/atokens/asUSD.svg" alt = "asUSD token">`, "asUSD", "A synthetic USD token enabled by the Synthetix protocol.", "TBC"],
                     [`<img class="atoken" src="/atokens/aBUSD.svg" alt = "aBUSD token">`, "aBUSD", "A 1:1 USD-backed stable coin issued by Binance (in partnership with Paxos).", "TBC"],
-					
+					[`<img class="atoken" src="/atokens/aGUSD.svg" alt = "aGUSD token">`, "aGUSD", "A USD Stablecoin issued by Gemini.", "TBC"]					
                 ]
             }
         },
@@ -49,7 +49,8 @@ export const tables
                     [`<img class="atoken" src="/atokens/aSNX.svg" alt = "aSNX token">`, "aSNX", "Token that backs the synthetic assets on Synthetix Exchange.", "TBC"],
                     [`<img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token">`, "aWBTC", "Tokenized version of Bitcoin on Ethereum.",  "TBC"],
                     [`<img class="atoken" src="/atokens/aZRX.svg" alt = "aZRX token">`, "aZRX", "Token that is used to pay fees on the 0x protocol.", "TBC"],
-					[`<img class="atoken" src="/atokens/aCRV.svg" alt = "aCRV token">`, "aCRV", "Governance token of Curve Finance.", "TBC"]
+					[`<img class="atoken" src="/atokens/aCRV.svg" alt = "aCRV token">`, "aCRV", "Governance token of Curve Finance.", "TBC"],
+					["Pending image from Aave", "aBAL", "Governance token of Balancer.", "TBC"]
                 ]
             }
         },
