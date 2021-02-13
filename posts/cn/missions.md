@@ -35,11 +35,11 @@ Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式
 
 [**任务2：**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) 邀请一位 fren 加入 Discord。
 
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
+[**任务3：**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) 在 Aavegotchi 社区介绍文件中添加一个或两个你对项目的想法。
 
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
+[**任务4：**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) 转发我们的 Twitter 说说为什么会喜欢上 Aavegotchi 大家庭，并 at 两个 frens。
 
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
+[**任务5：**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) 在我们的 Telegram 群中提出一个问题。
 
 [**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
 
