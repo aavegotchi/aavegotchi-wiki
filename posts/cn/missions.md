@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: '任务'
+description: '关于 Aavegotchi 任务的一切'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -10,10 +10,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">代理人的工作</p>
+<p class="headerImageText">使命</p>
 </div>
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+**AAVEGOTCHI 任务计划已完成！**
 
 Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
 
