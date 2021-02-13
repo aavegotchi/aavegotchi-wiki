@@ -24,16 +24,16 @@ Aavegotchi 历史长河中的一个史诗级进程暂时告一段落， 约280�
 
 <p style="font-size:25px; font-style: italic;"><b>"你的任务，你应该选择接受它..."</b></p>
 
-Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式。 大多数任务都是简单的任务（只有一项除外，它可能需要更多的思考），并且可以在时间允许的情况下以任何顺序进行。 As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式。 大多数任务都是简单的任务（只有一项除外，它可能需要更多的思考），并且可以在时间允许的情况下以任何顺序进行。 完成每个步骤后，我们的 Aaprentices 将为您升级，直到获得完整的 Aagent 身份！ 只需确保在主网启动之前进入 Mission Control，我们的 Aagent 程序将一直运行到那个阶段。 在主网上线时， **完成所有 Aavegotchi 任务** 的 Aagents 将收到一套**完整的专为Aavegotchi Aagent 定制的可穿戴装备**。
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
+**所有12项任务必须在2021年1月4日之前完成！**
 
 &nbsp;
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+[**任务1：**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) 在 Aavegotchi Litepaper 中评论。
 
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
+[**任务2：**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) 邀请一位 fren 加入 Discord。
 
 [**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
 
