@@ -10,21 +10,21 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">使命</p>
+<p class="headerImageText">Aagents 走马上任</p>
 </div>
 
 **AAVEGOTCHI 任务计划已完成！**
 
-Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
+Aavegotchi 历史长河中的一个史诗级进程暂时告一段落， 约280名热忱的社区小伙伴成功升级为 Aavegotchi 官方 Aagent 身份！ 这些小伙伴们将是 [Aavegotchi Aagent 可穿戴设备](/wearables#aagent-wearables-set)的独家持有人，进一步强化他们在 Aavegotchi 中的地位。
 
-**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
+**恭喜各位 AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 
 
-From the aarchives:
+宣读档案：
 
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
+<p style="font-size:25px; font-style: italic;"><b>"你的任务，你应该选择接受它..."</b></p>
 
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式。 大多数任务都是简单的任务（只有一项除外，它可能需要更多的思考），并且可以在时间允许的情况下以任何顺序进行。 As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
 
 **ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
 
