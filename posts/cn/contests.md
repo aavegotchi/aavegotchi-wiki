@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Contests'
-description: 'Our Winners!'
+title: '各项竞赛'
+description: '获奖名单！'
 contributors:
   - "unintelligent-nerd"
 ---
 
-嗨，朋友们！ 我们将不时举办各种aavegotchi竞赛，让社区参与进来。 它将是有趣的，将会赢得奖励！ 在这里，你可以看看我们过去的比赛和我们收到的优胜者提交的作品!
+嘿，伙计们！ 我们经常会组织各种 Aavegotchi 竞赛，来和社区小伙伴们互动。 活动不仅仅是有趣，而且有奖励哦！ 快来看看我们以往的比赛和获奖者作品吧～
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi 任务 8 Meme 竞赛胜利者</a></li>
-<li><a href=#halloween-costume-contest>万圣节服饰</a></li>
-<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi 任务 9 内容比赛</a></li>
+<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi 任务8表情包大赛获奖名单</a></li>
+<li><a href=#halloween-costume-contest>万圣节装扮竞赛</a></li>
+<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi 任务9内容竞赛</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi 任务 8 Meme 竞赛胜利者
+## Aavegotchi 任务8表情包大赛获奖名单
 
 在 [Aavegotchi 任务 8](/missions),, aagents 的任务是在 [Aavegotchi 版块上创建展示Aavegotchi 或GHST 令牌的某些方面的舞蹈纪念物](https://www.reddit.com/r/Aavegotchi/) 欢迎您的收藏！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300、200和100个GHST。
 
@@ -37,7 +37,7 @@ contributors:
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## 万圣节服饰
+## 万圣节装扮竞赛
 
 10月30日星期五（4点 UTC / 12月 EST / 12 午夜SGT）， *字面上* 鬼魂出来游行(双关语:P)。。 Aagents 有一些有趣的衣服，一个Aavegotchi，每个gotchi轮到 <s>步行</s>浮动到 <s>cat</s>幽灵行走。 社区成员给他们最喜欢的投票。
 
@@ -53,7 +53,7 @@ contributors:
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
-## Aavegotchi 任务 9 内容比赛
+## Aavegotchi 任务9内容竞赛
 
 Aavegotchi特工突破了1000的历史新高! 你不再是代理人，而是快速增长的Gotchi Gang的成员！ 为了这个星期的任务，再回到Aavegotchi ！ 创建一个关于 Aavegotchi 的内容(书面形式或视频形式)。 每个类别(文字和视频) 的前三名由核心团队选择，将各自获得一些甜蜜的GHST奖励，总计300/100/50，以及一个机会，以创建更多的内容与我们。
 
