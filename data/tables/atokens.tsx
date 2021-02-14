@@ -50,7 +50,7 @@ export const tables
                     [`<img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token">`, "aWBTC", "Tokenized version of Bitcoin on Ethereum.",  "TBC"],
                     [`<img class="atoken" src="/atokens/aZRX.svg" alt = "aZRX token">`, "aZRX", "Token that is used to pay fees on the 0x protocol.", "TBC"],
 					[`<img class="atoken" src="/atokens/aCRV.svg" alt = "aCRV token">`, "aCRV", "Governance token of Curve Finance.", "TBC"],
-					["Pending image from Aave", "aBAL", "Governance token of Balancer.", "TBC"]
+					[`<img class="atoken" src="/atokens/aBAL.svg" alt = "aBAL token">`, "aBAL", "Governance token of Balancer.", "TBC"]
                 ]
             }
         },
