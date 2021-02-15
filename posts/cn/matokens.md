@@ -25,7 +25,7 @@ contributors:
 
 ## 将aTokens转化成maTokens
 
-首先，在Aavegotchi DAP上走到 [桥到Mati](https://aavegotchi.com/bridge)
+首先，前往在Aavegotchi DApp上点击  [嫁接到Matic](https://aavegotchi.com/bridge)。
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
@@ -49,7 +49,7 @@ contributors:
 
 好吧，我已经获得了一些maTokens。 现在怎么办？
 
-干得好朋友！
+干得好朋友
 
 下一步是购买 [传送门portal](/portals) ，通过 [GHST](/ghst). 用户可以在 Aavegotchi DApp (启动时将提供链接) 或在 [二级市场](/marketplace) ，如Openseas 上购买传送门。 一旦你获得了一个宝贵的传送门，现在是开始进入召唤流程了。 打开传送门之后，您将会收到10个小鬼Gotchis，每个Gotchis都有随机必需的 aToken/抵押品。 这就是你获得的maToken的作用。 把它押注在具有相同抵押品类型的Gotchi上，让你的fren活起来!
 
