@@ -16,14 +16,14 @@ If you have any other suggestions on new topics to be covered here, do approach 
 **内容**
 
 <ol>
-<li><a href=#polygon-tutorial>Polygon Tutorial</a></li>
+<li><a href=#polygon-tutorial>Polygon 教程</a></li>
 <li><a href=#matokens-tutorial>maTokens Tutorial</a></li>
 <li><a href=#mumbai-testnet-tutorial>Mumbai Testnet Tutorial</a></li>
 </ol>
 
 </div>
 
-## Polygon Tutorial
+## Polygon 教程
 Our Great Aassistant Moon has written an aavesome piece on setting up Polygon on your MetaMask. Check it out [here](/polygon)!
 
 ## maTokens Tutorial
