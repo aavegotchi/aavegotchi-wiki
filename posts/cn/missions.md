@@ -41,19 +41,19 @@ Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式
 
 [**任务5：**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) 在我们的 Telegram 群中提出一个问题。
 
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
+[**任务6：**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) 从测试网的联合曲线（无需 KYC ---- 真实的联合曲线需要，但**你无需 KYC 就可以完成所有的任务**）购买测试网上的 GHST（不是真实的 GHST）。如果你之前没有过类似的经历，你会突然成为测试网的专家，向之后到来的小伙伴提供帮助会让你富有成就感。 如果在任务6的某些环节卡壳了，可以随时联系我们！ 我们很乐意为 Aagents 提供援助。
 
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
+[**任务7：**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) 对 Aavegotchi 治理提案进行投票。
 
-[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
+[**任务8：**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) 表情包大赛！ 用任何你喜欢的语言创作一个 Aavegotchi 主题的表情包并发布在 Reddit 上面。
 
-[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
+[**任务9：**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (我们最具挑战性的使命) 创造一篇短文或制作一个短视频介绍 Aavegotchi（文章字数为300个单词左右， 视频时间为30秒左右)。 在你喜欢的平台发布你的创作（不同类型的创作都有相应的几个发布平台），并从官推再转发一次包含你的创作内容的推特。
 
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
+[**任务10：**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) 在 AVEGOTCHI（测试网）使用 Aavegotchi Builder 把你的 Gotchi 换为你的 avatar（持续72小时），并与 Aavegotchi 大家庭分享你的创作！
 
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
+[**任务11：**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) 查看我们的新百科！ 选择你认为可能最有价值的两个板块来帮助它成为我们最有价值的资源。
 
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+[**任务12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影明星！ Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
 
 &nbsp;
 
