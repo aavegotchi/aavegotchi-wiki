@@ -52,9 +52,9 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#polygon>Polygon</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
@@ -150,9 +150,9 @@ Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ)
 Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
-maTokens chính là những [aTokens](/glossary#atokens) nằm trên Matic Network. Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
+maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-Để xem qua bài hướng dẫn về cách chuyển đổi từ token aToken trên Mainnet của Ethereum sang maToken trên Matic Network, vui lòng xem qua bài hướng dẫn về [maTokens](/matokens) này.
+For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
 
 ### Oracles
 Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
@@ -217,25 +217,24 @@ Token Non-fungible theo chuẩn ERC998 cũng được trang bị chuẩn ERC-721
 
 Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
-Matic Network là một giải pháp mở rộng cho các blockchain công khai. Dựa trên công nghệ framework Plasma (Plasma MoreVP), với phương thức triển khai dựa trên tài khoản, Matic hỗ trợ tất cả các công cụ dành cho Ethereum đang tồn tại với những giao dịch nhanh và rẻ hơn.
-
-Để chuyển token từ Mainnet của Ethereum sang Matic Network, vui lòng xem qua [bày hướng dẫn](/matic)này.
-
-Đọc thêm về Matic Network tại [đây](https://matic.network/).
-
 ### Metaverse
 
-Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
+### Non-Fungible Token
 
-### Non-Fungible Token (Nft)
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại diện cho một thứ gì đó **độc đáo**, nghĩa là nó không thể được dùng để swap sang bất kỳ loại token nào. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
-**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
+### Polygon
+Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+
+To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+
+Read more about Polygon [here](https://matic.network/).
 
 ### Proof of Stake
 
@@ -247,6 +246,6 @@ Validator là những người tham gia vào mạng lưới những người ch�
 
 ### QuickSwap
 
-Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#matic-network). Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
+QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
 
 Truy cập vào Quickswap tại [đây](https://quickswap.exchange).
