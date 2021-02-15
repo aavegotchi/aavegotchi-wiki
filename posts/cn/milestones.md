@@ -8,7 +8,7 @@ contributors:
 ---
 
 ## [等等！ 什么？！ Aavegotchi NFT 交易市场？](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* 2021年2月2日，团队宣布，2月游戏上线时，Aavegotchi 官方交易市场（Aavegotchi Baazaar）将与任意门和可穿戴设备一起发布！
+* 2021年2月2日，团队宣布，2月游戏上线时，Aavegotchi 官方交易市场（Aavegotchi Baazaar）将与传送门和可穿戴设备一起发布！
 
 ## [矿工奖励释放年鉴：收获 GHST 奖励的终极指南](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
 * 嘿呀，朋友们！ 想知道如何将 GHST 迁移到 Matic 网络再顺便收获一些奖励？ 我们已经为你编写了指南！ 文件发布于2021年1月25日。
