@@ -1,7 +1,7 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Social Media'
+title: '社交网络'
 description: 'All about the Aavegotchi Community'
 contributors:
   - "eris771"
@@ -9,10 +9,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/socialmedia/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">你好，朋友</p>
+<p class="headerImageText">嘿，伙计！</p>
 </div>
 
-欢迎来到官方的Aavegotchi百科 我们的社区是一个充满活力的群体，对Aavegotchi感到疯狂。 我们有几个不同的渠道， 这样你就可以在最适合的地方找到我们 — — 但如果你想要升级到 Aavegotch Agent 状态，请务必不要错过我们的Discord！ 我们的Aavegotchi Aagents 是 我们社区的一个中心部分，他们有着深入的Aavegotchi知识和特殊的Agent 可穿戴装备。 阅读更多关于如何成为aagent的信息 ，下面众多 方法中的每一个都可以与我们疯狂的 GotchiGang连接。
+欢迎来到 Aavegotchi 大家庭！ 我们的社区是一个充满活力的群体，对Aavegotchi感到疯狂。 我们有几个不同的渠道， 这样你就可以在最适合的地方找到我们 — — 但如果你想要升级到 Aavegotch Agent 状态，请务必不要错过我们的Discord！ 我们的Aavegotchi Aagents 是 我们社区的一个中心部分，他们有着深入的Aavegotchi知识和特殊的Agent 可穿戴装备。 阅读更多关于如何成为aagent的信息 ，下面众多 方法中的每一个都可以与我们疯狂的 GotchiGang连接。
 
 <a name="Discord"></a>
 

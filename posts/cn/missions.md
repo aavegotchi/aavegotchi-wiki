@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: '任务'
+description: '关于 Aavegotchi 任务的一切'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -10,53 +10,53 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">代理人的工作</p>
+<p class="headerImageText">Aagents 走马上任</p>
 </div>
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+**AAVEGOTCHI 任务计划已完成！**
 
-Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
+Aavegotchi 历史长河中的一个史诗级进程暂时告一段落， 约280名热忱的社区小伙伴成功升级为 Aavegotchi 官方 Aagent 身份！ 这些小伙伴们将是 [Aavegotchi Aagent 可穿戴设备](/wearables#aagent-wearables-set)的独家持有人，进一步强化他们在 Aavegotchi 中的地位。
 
-**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
-
-
-From the aarchives:
-
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
-
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
-
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
-
-&nbsp;
+**恭喜各位 AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+宣读档案：
 
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
+<p style="font-size:25px; font-style: italic;"><b>"你的任务，你应该选择接受它..."</b></p>
 
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
+Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式。 大多数任务都是简单的任务（只有一项除外，它可能需要更多的思考），并且可以在时间允许的情况下以任何顺序进行。 完成每个步骤后，我们的 Aaprentices 将为您升级，直到获得完整的 Aagent 身份！ 只需确保在主网启动之前进入 Mission Control，我们的 Aagent 程序将一直运行到那个阶段。 在主网上线时， **完成所有 Aavegotchi 任务** 的 Aagents 将收到一套**完整的专为Aavegotchi Aagent 定制的可穿戴装备**。
 
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
-
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
-
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
-
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
-
-[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
-
-[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
-
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
-
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
-
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+**所有12项任务必须在2021年1月4日之前完成！**
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+
+[**任务1：**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) 在 Aavegotchi Litepaper 中评论。
+
+[**任务2：**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) 邀请一位 fren 加入 Discord。
+
+[**任务3：**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) 在 Aavegotchi 社区介绍文件中添加一个或两个你对项目的想法。
+
+[**任务4：**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) 转发我们的 Twitter 说说为什么会喜欢上 Aavegotchi 大家庭，并 at 两个 frens。
+
+[**任务5：**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) 在我们的 Telegram 群中提出一个问题。
+
+[**任务6：**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) 从测试网的联合曲线（无需 KYC ---- 真实的联合曲线需要，但**你无需 KYC 就可以完成所有的任务**）购买测试网上的 GHST（不是真实的 GHST）。如果你之前没有过类似的经历，你会突然成为测试网的专家，向之后到来的小伙伴提供帮助会让你富有成就感。 如果在任务6的某些环节卡壳了，可以随时联系我们！ 我们很乐意为 Aagents 提供援助。
+
+[**任务7：**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) 对 Aavegotchi 治理提案进行投票。
+
+[**任务8：**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) 表情包大赛！ 用任何你喜欢的语言创作一个 Aavegotchi 主题的表情包并发布在 Reddit 上面。
+
+[**任务9：**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (我们最具挑战性的使命) 创造一篇短文或制作一个短视频介绍 Aavegotchi（文章字数为300个单词左右， 视频时间为30秒左右)。 在你喜欢的平台发布你的创作（不同类型的创作都有相应的几个发布平台），并从官推再转发一次包含你的创作内容的推特。
+
+[**任务10：**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) 在 AVEGOTCHI（测试网）使用 Aavegotchi Builder 把你的 Gotchi 换为你的 avatar（持续72小时），并与 Aavegotchi 大家庭分享你的创作！
+
+[**任务11：**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) 查看我们的新百科！ 选择你认为可能最有价值的两个板块来帮助它成为我们最有价值的资源。
+
+[**任务12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影明星！ 标记两个你最喜欢的区块链密码学相关的 Youtubers，让他们知道 #GotchiGang（Gotchi 帮会）来啦！
+
+&nbsp;
+
+恭喜 fren，你现在就是 Aavegotchi 官方 Aagent 了！ <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> 快来加入我们吧 - [找到我们的 Discord 开启新的旅程](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
