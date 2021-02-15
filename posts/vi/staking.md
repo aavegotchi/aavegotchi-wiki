@@ -43,7 +43,7 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 ## Cách Stake
 Một khi đã có token GHST, đã đến lúc để stake chúng!
 
-Có 4 cách để stake: (1) stake token GHST trên Mainnet (**sẽ không còn hiệu lực nữa**), (2) stake token LP GHST-ETH từ Uniswap trên Mainnet (**sẽ không còn hiệu lực**), (3) stake token GHST trên Matic Network, và/hoặc quỹ GHST-QUICK trên [QuickSwap](/glossary#quickswap) trong Matic Network.
+There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Polygon (formerly Matic Network), and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Polygon.
 
 *Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
 
@@ -75,21 +75,21 @@ Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một tr
 
 Tại sao lại có sự khác biệt lớn với số lượng FRENS kiếm được thông qua phương thức này? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/posts/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
 
-### Stake token GHST [Matic]
+### Staking GHST tokens [Polygon]
 
-Phương pháp thứ ba chính là chuyển token GHST từ Mainnet của Ethereum sang Matic Network, một giải pháp layer 2.
+The third method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
-Điều này được thực hiện thông qua dịch vụ [Bridge to Matic Interface](https://aavegotchi.com/bridge). Approve hợp đồng để dùng token GHST. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Một khi giao dịch được xác nhận trên Ethereum, sẽ mất khoảng 7 đến 8 phút để số dư của bạn được hiện lên trên Matic. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
+This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve hợp đồng để dùng token GHST. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
 
-Tiếp theo, bạn cần phải cấu hình ví MetaMask để số dư trong ví hiện lên. Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có được hướng dẫn chi tiết về cách cấu hình sao cho ví MetaMask có thể kết nối với Matic Network nhé.
+Tiếp theo, bạn cần phải cấu hình ví MetaMask để số dư trong ví hiện lên. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
 
-Kết nối ví MetaMask với Matic Network và chuyển đến trang [Matic Staking Page](https://aavegotchi.com/stake-matic) trên DApp của Aavegotchi. Approve hợp đồng để dùng token GHST. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Presto! Xong rồi bạn êi!
+Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Presto! Xong rồi bạn êi!
 
-### Stake vào quỹ GHST-QUICK trên QuickSwap [Matic]
+### Staking in the GHST-QUICK pool on QuickSwap [Polygon]
 
-Phương pháp thứ tư chính là chuyển token GHST từ Mainnet của Ethereum sang Matic Network, một giải pháp layer 2.
+The fourth method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
-Các bạn hãy xem qua [Bài hướng dẫn về Matic](/matic) này để có được hướng dẫn chi tiết về cách cấu hình sao cho ví MetaMask có thể kết nối với Matic Network nhé. Một khi đã hoàn thành, hãy xem những bước hướng dẫn tại đường link[đến bài viết Matic Liquidity Migration Incentives](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
+Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Once that is done, follow the subsequent steps found in the [Polygon Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
 1. Mua một ít token QUICK từ [QuickSwap](https://quickswap.exchange). Cặp giao dịch có thanh khoản cao nhất hiện tại là QUICK-UNI, QUICK-WETH và QUICK-USDC. GHST-QUICK sẽ sớm được thêm vào.
 
@@ -103,9 +103,9 @@ Giờ đây bạn đã có thể bắt đầu kiếm QUICK và FRENS!
 
 Tương tự như khi stake token LP GHST-ETH trên Uniswap, bạn có nguy cơ bị tổn thất tạm thời khi sử dụng phương pháp này.
 
-### Lật Bùa Cách Stake GHST trên Matic nào!
+### Staking GHST on Polygon Cheetsheet!
 
-Hình dưới đây giúp bạn hiểu về 2 cách tham gia vào staking trên Matic mà chúng ta đã thảo luận phía trên (<a href=#staking-ghst-tokens--matic->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--matic->Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens--polygon->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--polygon->Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
