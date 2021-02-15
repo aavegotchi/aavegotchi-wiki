@@ -2,7 +2,7 @@
 author: hard to edit since its already a proof-reading one, i’ll check this tomorrow
 date: '2020-04-23T07:00:00.000Z'
 title: 'Polygon'
-description: 'Polygon Tutorial'
+description: 'Polygon 教程'
 contributors:
   - "moon14888"
 ---
