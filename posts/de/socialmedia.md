@@ -26,6 +26,7 @@ Willkommen bei der Aavegotchi Fam! Unsere Community ist eine lebendige Gruppe, d
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
+<li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
 </div>
@@ -65,7 +66,13 @@ Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen hab
 
 &nbsp;
 
-Wir freuen uns, dich zu begrüssen! Schau auf einem unserer Kanäle oder auf unserer [Missionsseite](/missionen) vorbei, um mehr zu erfahren.
+Wir freuen uns, dich zu begrüssen! Head over to any of our channels to learn more.
+
+## Aavegotchi Malaysia
+
+Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
+
+
 
 
 
