@@ -32,7 +32,7 @@ Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发
 <ol>
 <li><a href=#about-aavegotchis>什么是 Aavegotchis</a></li>
 <li><a href=#aavegotchi-value>Aavegotchi 的价值</a></li>
-<li><a href=#the-aavegotchi-universe>Aavegotchi 的世界</a></li>
+<li><a href=#the-aavegotchi-universe>Aavegotchi 宇宙</a></li>
 </ol>
 
 </div>
