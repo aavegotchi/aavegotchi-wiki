@@ -1,14 +1,14 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: 'Minigames'
-description: 'All about Aavegotchi minigames'
+title: '迷你小游戏'
+description: '关于Aavegotchi迷你小游戏，你所需要知道的一切！'
 ---
 
-*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
+*你知道，我们不会把Aavegotchi设计成用户们只能整日玩玩小鬼们的大拇指的......*
 
-[元数据](/metaverse) 是Aavegotchis和他们的主子要做的全套东西。 与您的朋友一起探索世界，将'Gotchi与他们的朋友抗衡，以赢得他们无与伦比的精神力量（当然不包括最初的平衡）和宝贵的XP！
+[虚拟世界](/metaverse) 中充满了Aavegotchis和他们的主人要做的事情。 与你的朋友们一起探索这个世界，并让你的 "Gotchi "与他们的 "Gotchi "对战，以赢得他们珍贵的 spirit force 精神力（当然不包括他们的初始余额）和宝贵的XP!
 
-有各种各样适合所有玩家（和Aavegotchis）口味的小型游戏。 如果你的同伴的 *极具侵略性。* 他们肯定会欣赏这里和那里的一场很好的战斗。 另一方面，他们可能不适合参加烘焙比赛。
+有各种各样的小游戏来满足所有玩家（和Aavegotchis）的口味。 如果你可爱的小鬼具有 *超强攻击性* ，他们肯定会享受各地的一场场战役。 反过来说，他们可能不太适合参加烘焙比赛。
 
-随着 [AavegotchiDAO](/dao) 的演进，任何人和每个人都可以跳进和发展自己的小游戏！ 只要符合特征分配标准，游戏将奖励经验丰富的获奖者。
+随着[AavegotchiDAO](/dao) 的发展，所有愿意来参与并开发自己迷你小游戏的用户都将会受到相应的激励!  只要符合特质分配标准，游戏将通过XP奖励优胜者。
