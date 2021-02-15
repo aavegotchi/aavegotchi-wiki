@@ -26,6 +26,7 @@ contributors:
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
+<li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
 </div>
@@ -71,7 +72,13 @@ around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavego
 
 &nbsp;
 
-We look forward to welcoming you, fren! Head over to any of our channels or our [missions page](/missions) to learn more.
+We look forward to welcoming you, fren! Head over to any of our channels to learn more.
+
+## Aavegotchi Malaysia
+
+Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
+
+
 
 
 
