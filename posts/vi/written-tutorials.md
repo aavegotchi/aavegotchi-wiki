@@ -16,18 +16,18 @@ Nếu bạn có bất kỳ đề nghị nào về chủ đề mới cần đư�
 **Nội dung**
 
 <ol>
-<li><a href=#matic-tutorial>Hướng dẫn về Matic</a></li>
+<li><a href=#polygon-tutorial>Polygon Tutorial</a></li>
 <li><a href=#matokens-tutorial>Hướng dẫn về maToken</a></li>
 <li><a href=#mumbai-testnet-tutorial>Mumbai Testnet Tutorial</a></li>
 </ol>
 
 </div>
 
-## Hướng dẫn về Matic
-Great Assistant Moon của bọn mình đã viết một bài hướng dẫn tuyệt vời về cách cài đặt Matic Network trên MetaMask này. Hãy xem qua ở [đây](/matic) nhé!
+## Polygon Tutorial
+Our Great Aassistant Moon has written an aavesome piece on setting up Polygon on your MetaMask. Check it out [here](/polygon)!
 
 ## Hướng dẫn về maToken
-Bạn cần được hỗ trợ để chuyển đổi aTokan thành maToken trên Matic Network đúng không? Hãy ghé qua trang  [maTokens](/matokens) nhé.
+Need help with converting your aTokens into maTokens on the Polygon? Hãy ghé qua trang  [maTokens](/matokens) nhé.
 
 ## Mumbai Testnet Tutorial
 The Aavegotchi Baazaar is live on Mumbai Testnet. Wanna play with it but not sure how to connect to the Mumbai Testnet and where to go to get tokens? Check out our Mumbai Testnet Tutorial [here](/mumbai-testnet).
