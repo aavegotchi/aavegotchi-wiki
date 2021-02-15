@@ -53,10 +53,10 @@ Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式
 
 [**任务11：**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) 查看我们的新百科！ 选择你认为可能最有价值的两个板块来帮助它成为我们最有价值的资源。
 
-[**任务12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影明星！ Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+[**任务12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影明星！ 标记两个你最喜欢的区块链密码学相关的 Youtubers，让他们知道 #GotchiGang（Gotchi 帮会）来啦！
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+恭喜 fren，你现在就是 Aavegotchi 官方 Aagent 了！ <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> 快来加入我们吧 - [找到我们的 Discord 开启新的旅程](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
