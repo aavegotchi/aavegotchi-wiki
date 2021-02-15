@@ -52,9 +52,9 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Netzwerk</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Nicht-fungibler Token (NFT)</a></p>
+<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#polygon>Polygon</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
@@ -150,9 +150,9 @@ Der Begriff ist einigermassen selbsterklärend. Dies sind Pools von Tokens, die 
 Für eine detailliertere Erklärung dieser Begriffe, schau dir den [Guide](https://finematics.com/liquidity-pools-explained/) von Finematics an.
 
 ### maTokens
-maTokens sind [aTokens](/glossary#atokens) auf dem Matic Network. Sie wurden von [Nick Mudge](/team#nick-mudge) entwickelt.
+maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). Sie wurden von [Nick Mudge](/team#nick-mudge) entwickelt.
 
-Eine Schritt-für-Schritt-Anleitung, wie du aTokens auf dem Ethereum Mainnet in maTokens auf dem Matic Network umwandelst, findest du in dieser [maTokens](/matokens) Anleitung.
+For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
 
 ### Oracles
 Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen erfüllt sein. Informationen über das Vorhandensein dieser Bedingungen müssen in die Blockchain eingespeist werden, auf der sich der Contract befindet. Das liegt daran, dass Blockchains typischerweise keinen direkten Zugang zu Informationen ausserhalb der Chain haben. An dieser Stelle kommen Oracles ins Spiel. Diese Einheiten liefern die notwendigen Daten, um Smart Contracts auszulösen.
@@ -217,25 +217,24 @@ Nicht-fungible Token, die ERC998 implementieren, implementieren auch den ERC-721
 
 Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
-Das Matic Network ist eine Skalierungslösung für öffentliche Blockchains. Basierend auf einer angepassten Implementierung des Plasma-Frameworks (Plasma MoreVP) unterstützt Matic alle bestehenden Ethereum-Tools aber ermöglicht schnellere und günstigere Transaktionen.
-
-Um Tokens vom Ethereum Mainnet zum Matic Network zu migrieren, lies bitte diese [Anleitung](/matic).
-
-Lies mehr über das Matic Network [hier](https://matic.network/).
-
 ### Metaverse
 
-Ein Metaverse ist eine virtuelle Welt, in der du sowohl mit Aspekten der Welt selbst (wie Spielen oder Shops) als auch mit anderen Nutzern interagieren kannst.
+A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Ein Beispiel für ein Metaverse ist der <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a>, aber auch Projekte wie Second Life und Decentraland.
+Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
+### Non-Fungible Token
 
-### Nicht-fungible Token
+A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
-Ein nicht-fungibler Token (NFT) ist ein spezieller Typ eines kryptographischen Tokens, der etwas **Einzigartiges** repräsentiert, was bedeutet, dass er nicht gegen einen anderen Token ausgetauscht werden kann. Nicht-fungible Token repräsentieren typischerweise das Eigentum an Gegenständen wie Wearables, Kunstwerke oder jede andere Art von Eigentum.
+The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
-Das **Gegenstück** zu einem nicht-fungiblen Token ist ein Token, der gegen jeden anderen seiner Art getauscht werden kann, wie USDC oder Bitcoin. Token, die 1:1 gegen einen Coin der gleichen Art getauscht werden können, werden als fungible Token bezeichnet.
+### Polygon
+Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+
+To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+
+Read more about Polygon [here](https://matic.network/).
 
 ### Proof of Stake
 
@@ -247,6 +246,6 @@ Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.n
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Matic Network](/glossary#matic-network)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
 
 QuickSwap can be accessed [here](https://quickswap.exchange).
