@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/marketplace/baazaar.gif">
+<p class="headerImageText">The Baazaar</p>
+</div>
+
 "Ệi...cậu đây rồi"
 
 Tay Buôn Gotchi lén ngoắt tay liếc mắc gọi bạn vào sạp đồ.
