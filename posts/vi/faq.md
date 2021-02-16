@@ -38,7 +38,7 @@ contributors:
 <li><a href=#frens-faq>Những Câu Hỏi Về FRENS</a></li>
 <p><a href=#can-i-buy-frens->Mình có thể mua FRENS được không?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài raffle hay không?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
 <li><a href=#raffle-faq>Những câu hỏi về Raffle (Xổ số)</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?</a></p>
@@ -46,7 +46,7 @@ contributors:
 <p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
 <li><a href=#wearable-faq>Những câu hỏi về Wearables</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Mình có cần chuyển voucher của wearable sang Matic hay không?</a></p>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->Có thể mua được bao nhiêu portal chỉ trong một giao dịch?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?</a></p>
@@ -62,11 +62,11 @@ contributors:
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
-<p><a href=#how-do-i-migrate-to-matic->Mình có thể chuyển sang Matic bằng cách nào?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->Mình có ví ledger / trezor, mình cần phải làm gì</a></p>
-<p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?</a></p>
-<p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 </ol>
 
@@ -94,7 +94,7 @@ Aavegotchi sẽ xuất hiện khi mainnet được triển khai. [Metaverse](/me
 
 
 ### Khi nào thì mainnet được triển khai?
-Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Matic Network vào một ngày khác. Nhóm bọn mình sẽ cập nhật thông tin cho mọi người về ngày triển khai khi có thể.
+Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. The community voted for the launch of Aavegotchi on Polygon at a later date. Nhóm bọn mình sẽ cập nhật thông tin cho mọi người về ngày triển khai khi có thể.
 
 
 ### Giờ mình có thể làm gì?
@@ -102,8 +102,6 @@ Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng
 Hiện tại, bạn có thể:
 
 <ul><p style="margin-left: 2.4em"><li><b>Tham gia vào Rafle để Sở hữu Phụ kiện</b> Cho đến khi mainnet được triển khai, cộng đồng sẽ tổ chức một chuỗi <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffles</a> để bạn có thể stake GHST để lấy FRENS. Với FRENS, bạn có thể tham gia vào bất kì sự kiện raffle nào để có cơ hội giành lấy những phụ kiện cho Aavegotchi của mình.</li></p></ul>
-
-<ul><p style="margin-left: 2.4em"><li><b>Làm nhiệm vụ Kiếm Phụ kiện</b> Bạn có thể hoàn thành các <a href="https://wiki.aavegotchi.com/en/missions"> Nhiệm vụ Aavegotchi</a> để nhận được những bộ phụ kiện Điệp viên Aavegotchi độc đáo sao khi hoàn thành.</li></p></ul>
 
 ### Mình có cần KYC trước khi chơi Aavegotchi hoặc nắm giữ token GHST hay không?
 
@@ -122,7 +120,7 @@ Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh th�
 Không nha. Atoken được stake trong Aavegotchi không thể được dùng như một tài sản thế chấp để vay tiền từ nền tảng Aave. Thật ra, những aToken này không thể bị thanh lý.
 
 ### MaToken là gì?
-maToken là aToken được chuyển đến Matic Network. Tương tự như aToken, chúng tự sinh ra lợi nhuận theo thời gian!
+maTokens are aTokens which have been transferred to Polygon. Tương tự như aToken, chúng tự sinh ra lợi nhuận theo thời gian!
 
 ## Những câu hỏi về Bonding Curve
 
@@ -143,8 +141,8 @@ Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành 
 
 Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. Phần còn lại của hệ sinh thái Aavegotchi sẽ được vận hành bởi GHST.
 
-### Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?
-Số dư FRENS của bạn sẽ được tự động chuyển lên Matic. FRENS trên Mainnet sẽ không có giá trị.
+### What happens to the FRENS on Mainnet after the game launches on Polygon?
+Your FRENS balance will be automatically transferred to Polygon. FRENS trên Mainnet sẽ không có giá trị.
 
 ## Những câu hỏi về Raffle (Xổ số)
 
@@ -175,8 +173,8 @@ Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy 
 
 ## Những câu hỏi về Wearables
 
-### Mình có cần chuyển voucher của wearable sang Matic hay không?
-Không nha. Voucher wearables dù đã nhận hay không nhận đều sẽ được tự động chuyển sang Matic Network khi Aavegotchi triển khai.
+### Do I need to transfer my wearable vouchers to Polygon?
+Không nha. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ## Những câu hỏi về Portal
 
@@ -187,7 +185,7 @@ Mỗi người chơi mua được tổng cộng 50 portal trong 1 giao dịch. �
 Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở lại để triệu hồi bé Gotchi. Bạn không cần phải chuẩn bị aToken trước.
 
 ### Khi nào thì Portal sẽ được mở bán?
-Portal sẽ được mở bán trên Matic vào đầu tháng Hai.
+Portals will be released on Polygon at February.
 
 ## Những câu hỏi về AavegotchiDAO
 
@@ -224,28 +222,28 @@ Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên 
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Đúng vậy! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
+Đúng vậy! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
 Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
 
-### Mình có thể chuyển sang Matic bằng cách nào?
-Xem thêm tại [Matic Migration Guide](/matic).
+### How do I migrate to Polygon?
+Check out our [Polygon Migration Guide](/polygon).
 
 ### Mình có ví ledger / trezor, mình cần phải làm gì?
-Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
+You could still access Polygon using the Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
 
-### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
+### Why can't I see my Polygon GHST on Metamask?
 
-Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
 Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
 
-### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Matic sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
+### Can I send Polygon-side tokens to Centralized Exchanges directly?
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?
 

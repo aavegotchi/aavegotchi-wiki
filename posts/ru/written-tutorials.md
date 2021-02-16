@@ -16,18 +16,18 @@ If you have any other suggestions on new topics to be covered here, do approach 
 Содержание:
 
 <ol>
-<li><a href=#matic-tutorial>Matic Tutorial</a></li>
+<li><a href=#polygon-tutorial>Polygon Tutorial</a></li>
 <li><a href=#matokens-tutorial>maTokens Tutorial</a></li>
 <li><a href=#mumbai-testnet-tutorial>Mumbai Testnet Tutorial</a></li>
 </ol>
 
 </div>
 
-## Matic Tutorial
-Our Great Aassistant Moon has written an aavesome piece on setting up Matic Network on your MetaMask. Check it out [here](/matic)!
+## Polygon Tutorial
+Our Great Aassistant Moon has written an aavesome piece on setting up Polygon on your MetaMask. Check it out [here](/polygon)!
 
 ## maTokens Tutorial
-Need help with converting your aTokens into maTokens on the Matic Network? Check out the [maTokens](/matokens) page.
+Need help with converting your aTokens into maTokens on the Polygon? Check out the [maTokens](/matokens) page.
 
 ## Mumbai Testnet Tutorial
 The Aavegotchi Baazaar is live on Mumbai Testnet. Wanna play with it but not sure how to connect to the Mumbai Testnet and where to go to get tokens? Check out our Mumbai Testnet Tutorial [here](/mumbai-testnet).

@@ -2,7 +2,7 @@
 author: eris
 date: 'Coder Dan'
 title: 'Metaverse'
-description: 'All about the Aavegotchi Metaverse'
+description: '关于Aavegotchi 虚拟世界，你所需要知道的一切'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
@@ -14,12 +14,12 @@ contributors:
 </div>
 
 <p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>正在工作的AARCHIVERS</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">Aavegotchi 领域目前正在建造中。 随着我们的metaverse（元数据）的增长，我们的metaverse页面也会随之增长。 首先了解
+<p style="font-style:italic; font-size:13px;">Aavegotchi 领域目前正在建造中。 随着我们的metaverse（虚拟世界）的增长，我们的metaverse页面也会随之增长。 首先了解
 即将更新或讨论潜在的发展， <a href="https://discord.com/invite/3fkAkdS">跳到我们的Discord。</a></p>
 
 你好，朋友 你已经在 Avegotchi 领域——Aavegotchis 居住、工作和游戏的古典、双维度和像素化的奇迹——上停留在那里。 这是你能够与 Aavegotchi 生命的所有方面交互的地方 
 
-<p style="font-size:13px;">词汇表帮助： <a href="https://wiki.aavegotchi.com/glossary#metaverse">什么是元？</a></p>
+<p style="font-size:13px;">词汇表帮助： <a href="https://wiki.aavegotchi.com/glossary#metaverse">什么是虚拟世界？</a></p>
 
 <a name="Realm"></a>
 
@@ -59,7 +59,7 @@ contributors:
 <a name="Land"></a>
 <p style="font-size:25px;"><b>我如何获得自己的土地？</b></p>
 
-在 Gotchiverse* 中，您也将能够为Aavegotchi 体验贡献自己的创作！ **REALM 包裹** 可以在 Aavegotchi 商店购买。 你可以通过 Aavegotchi 场景生成器装饰你的包裹。 甚至在你的土地上添加可用于与其他各种智能合约交互的dApp。 如果这还不够。 ReALM包也可以通过发布GHST来解锁新功能来提高 **。**
+在 Gotchiverse* 中，您也将能够为Aavegotchi 体验贡献自己的创作！ **REALM 土地** 可以在 Aavegotchi 商店购买。 你可以通过 Aavegotchi 场景生成器装饰你的房子。 甚至在你的土地上添加可用于与其他各种智能合约交互的dApp。 如果这还不够。 ReALM包也可以通过发布GHST来解锁新功能来提高 **。**
 
 等不及要在世界里见到你，朋友！ <img src="/metaverse/aavegotchiwave.png" alt = "aavegotchi" width="70" height="60" />
 

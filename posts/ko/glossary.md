@@ -52,9 +52,9 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
-<p><a href=#matic-network>Matic Network</a></p>
 <p><a href=#metaverse>Metaverse!</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#polygon>Polygon</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
@@ -150,9 +150,9 @@ The term is somewhat self-explanatory. These are pools of tokens that are locked
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on the Matic Network. They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Matic Network, do refer to this [maTokens](/matokens) guide.
+For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
 
 ### Oracles
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
@@ -217,25 +217,24 @@ Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
 
-### Matic Network
-Matic Network is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Matic supports all the existing Ethereum tooling along with faster and cheaper transactions.
-
-To transfer tokens from the Ethereum Mainnet to the Matic Network, please refer to this [guide](/matic).
-
-Read more about Matic Network [here](https://matic.network/).
-
 ### Metaverse!
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
 Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
 
-
 ### Non-Fungible Token
 
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+
+### Polygon
+Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+
+To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+
+Read more about Polygon [here](https://matic.network/).
 
 ### Proof of Stake
 
@@ -247,6 +246,6 @@ Read more about the Proof of Stake consensus mechanism [here](https://consensys.
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Matic Network](/glossary#matic-network)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
 
 QuickSwap can be accessed [here](https://quickswap.exchange).

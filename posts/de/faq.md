@@ -38,7 +38,7 @@ contributors:
 <li><a href=#frens-faq>FRENS FAQ</a></li>
 <p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-matic->What happens to the FRENS on Mainnet after the game launches on Matic?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
 <li><a href=#raffle-faq>Lotterie FAQ</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
@@ -46,7 +46,7 @@ contributors:
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
 <li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-matic->Do I need to transfer my wearable vouchers to Matic?</a></p>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
@@ -62,11 +62,11 @@ contributors:
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-matic->How do I migrate to Matic?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-matic-ghst-on-metamask->Why can't I see my Matic GHST on Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
-<p><a href=#can-i-send-matic-side-tokens-to-centralized-exchanges-directly->Can I send Matic-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
 </ol>
 
@@ -95,7 +95,7 @@ Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das [Metaverse](/metaver
 
 
 ### Wann wird das Mainnet lanciert?
-Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. Die Community stimmte für den Launch von Aavegotchi auf dem Matic Network zu einem späteren Zeitpunkt. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
+Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. The community voted for the launch of Aavegotchi on Polygon at a later date. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
 
 
 ### Was kann ich aktuell tun?
@@ -103,8 +103,6 @@ Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund d
 Im Moment kannst du:
 
 <ul><p style="margin-left: 2.4em"><li><b>An Lotterien teilnehmen und Kleidungsstücke gewinnen:</b> Bis zum Start des Mainnets veranstaltet die Community eine Reihe von <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien</a>, bei denen du deine GHST staken kannst, um FRENS zu generieren. Mit FRENS kannst du an jedem der verbleibenden Gewinnspiele teilnehmen, um mit etwas Glück einzigartige Kleidungsstücke für dein Aavegotchi zu gewinnen.</li></p></ul>
-
-<ul><p style="margin-left: 2.4em"><li><b>Erledige Missionen, um Kleidungsstücke zu verdienen:</b> Du kannst auch unsere <a href="https://wiki.aavegotchi.com/en/missions">Aavegotchi-Missionen</a> absolvieren - die dir, nachdem du sie alle abgeschlossen hast, ein exklusives Aavegotchi Aagent Kleidungs-Set bescheren.</li></p></ul>
 
 ### Brauche ich KYC, um Aavegotchi zu spielen oder GHST Tokens zu kaufen?
 
@@ -122,7 +120,7 @@ Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use 
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### What are maTokens?
-maTokens are aTokens which have been transferred to the Matic Network. Like aTokens, they accrue interest over time!
+maTokens are aTokens which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
 ## Bonding Curve FAQ
 
@@ -143,8 +141,8 @@ No. FRENS are a way to reward our community members who staked GHST.
 
 No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
-### What happens to the FRENS on Mainnet after the game launches on Matic?
-Your FRENS balance will be automatically transferred to Matic. FRENS on Mainnet will then become worthless.
+### What happens to the FRENS on Mainnet after the game launches on Polygon?
+Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ## Lotterie FAQ
 
@@ -175,8 +173,8 @@ Yes, there will be additional raffles after Mainnet launches. However, they will
 
 ## Kleidungsstück FAQ
 
-### Do I need to transfer my wearable vouchers to Matic?
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Matic Network when Aavegotchi launches.
+### Do I need to transfer my wearable vouchers to Polygon?
+No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ## Portal FAQ
 
@@ -187,7 +185,7 @@ Each user can purchase up to 50 portals in 1 transaction. This is to prevent wha
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ### When will portals be released?
-Portals will be released on Matic at early February.
+Portals will be released on Polygon at February.
 
 ## AavegotchiDAO FAQ
 
@@ -224,28 +222,28 @@ All elements of the Aavegotchi game are [stored on the Ethereum blockchain](http
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi uses [Matic](https://matic.network/) as a Layer 2 solution. The team selected Matic as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Do I need to migrate my Aave tokens?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-### How do I migrate to Matic?
-Check out our [Matic Migration Guide](/matic).
+### How do I migrate to Polygon?
+Check out our [Polygon Migration Guide](/polygon).
 
 ### I have a ledger / trezor, what do I do?
-You could still access Matic Network using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### Why can't I see my Matic GHST on Metamask?
+### Why can't I see my Polygon GHST on Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Matic transaction. The token address for GHST on Matic is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Why can't I see my LP Tokens on QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Can I send Matic-side tokens to Centralized Exchanges directly?
-**No!** You should not send Matic-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+### Can I send Polygon-side tokens to Centralized Exchanges directly?
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 ### Why is Metamask rejecting my token symbol?
 
