@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: '传送门'
-description: 'All about Aavegotchi Portals'
+description: '关于Aavegotchi 传送门的一切！'
 contributors:
   - "appellants"
 image: "portals/portal.gif"
@@ -13,9 +13,9 @@ image: "portals/portal.gif"
 <p class="headerImageText">Aavegotchi传送门</p>
 </div>
 
-如何召唤Aavegotchi并将它从暗黑世界中带到您的屏幕？ 当然通过一个传送门！
+你如何召唤Aavegotchi，并把它从冥界带到你的屏幕上呢？ 当然通过一个传送门！
 
-向紫色的深处窥视，看看下面潜伏着什么--你会发现一个朋友。 或者更确切地说，是10个朋友。
+向传送门紫色的深处窥视，看看下面潜伏着什么--你会发现一个朋友。 或者更确切地说，是10个朋友。
 
 所以戴上你的巫师帽吧--是时候了解更多关于传送门和Aavegotchi召唤过程的信息了。 
 
