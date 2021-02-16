@@ -41,53 +41,29 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 首先，你需要拿到一些GHST令牌。 我们的 [GHST 令牌页面](/posts/ghst) 涵盖了您可以获得一些东西的各种方式。
 
 ## 如何质押
-一旦你有了一些GHST 令牌，现在是时候了!
+Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
 
-There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Polygon (formerly Matic Network), and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Polygon.
+There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking in the GHST-QUICK pool on [QuickSwap](/glossary#quickswap).
 
-*注意：预销售GHST 令牌在解锁之前不能被质押。*
+**Important: Staking on Mainnet has been discontinued!**
 
-### 质押GHST 令牌  主网[Mainnet]
-这是对GHST 令牌最直接的方式。 跳转到 [staking user interface](https://aavegotchi.com/stake)。 它将看起来像下面的图像。
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
+### Staking GHST tokens directly
 
-选择"Mainnet上的利益相关者"，您将会收到另外一个带两个框的页面。 左边的盒子的标题将为“Stake GHST Token”(见下面的图像)。 如果您第一次触发，您必须点击“审批”按钮， 它允许您的 GHST 代币的预订合同。 “审批”交易完成后， 然后您可以使用您想要在“输入数量”字段中输入的GHST的所需数量键。 当您完成后，点击"Stake"按钮来启动这个过程.
-
-<img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi" />
-
-*每有1个GHST 以这种方式保存，您就会收到1个免费的 / 日。*
-
-### 质押 Uniswap GHST-ETH LP token [Mainnet]
-第二种更复杂的方法是将Uniswap GHST-ETH 流动性提供商(LP) 令牌连成一体。 为了做到这一点，您必须在您的钱包中既有GHST 令牌又有ETH。 直接到 [GHST-ETH Uniswap 池](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) 来增加两个代币的流动性(见下面的图像)。 用户必须以50%GHST和50%ETH的比率向集合提供流动资金。 购买1个GHST-ETH LP令牌所需的GHST和ETH数量因池代币当时的价格而异。  作为GHST 和 ETH的回报，用户将从Uniswap接收GHST-ETH LP 令牌。
-
-<img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
-
-一旦你获得了你的 GHST-ETH LP 令牌，就会跟着 [触摸用户界面](https://aavegotchi.com/stake)。 它将看起来像下面的图像。
-
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
-
-选择"Mainnet上的利益相关者"，您将会收到另外一个带两个框的页面。 右边的方框将标题为“Stake Uniswap GHST Token”(见下面的图像)。 如果您第一次触发，您必须点击“审批”按钮， 它授予您的 GHST-ETH LP 令牌的仓储合同。 “审批”交易完成后， 然后您可以使用您想要在“输入数量”字段中使用的 GHST-ETH LP 代币的数量键。 当您完成后，点击"Stake"按钮来启动这个过程.
-
-<img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi" />
-
-*每有1个GHST-ETH以这种方式连接，您就会收到100个积分/日。*
-
-为什么通过这种方法赚取的积分数的巨大差异？ 质押 GHST-ETH LP token 有可能造成 [永久性损失](/posts/glossary#impermanent-loss)。 您因承担的风险增加而得到补偿。
-
-### Staking GHST tokens [Polygon]
-
-The third method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
 This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
 
 Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
 
-Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
+Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. 恭喜你!  你现在完成了!
 
-### Staking in the GHST-QUICK pool on QuickSwap [Polygon]
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
-The fourth method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+### Staking in the GHST-QUICK pool on QuickSwap
+
+Similar to staking GHST tokens directly, you have to transfer GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
 Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Once that is done, follow the subsequent steps found in the [Polygon Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
@@ -101,11 +77,13 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 Now you are earning QUICK and FRENS!
 
-Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
+*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+
+Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
 ### Staking GHST on Polygon Cheetsheet!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens--polygon->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--polygon->Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
