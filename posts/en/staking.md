@@ -39,43 +39,17 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
 
 ## How to Stake
-Once you have some GHST tokens, it is time to stake them! 
+Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
 
-There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Polygon (formerly Matic Network), and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Polygon.
+There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking in the GHST-QUICK pool on [QuickSwap](/glossary#quickswap).
+
+**Important: Staking on Mainnet has been discontinued!**
 
 *Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
-### Staking GHST tokens [Mainnet]
-This is the most straightforward way to stake GHST tokens. Head over to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
+### Staking GHST tokens directly
 
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking">
-
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the left will be titled "Stake GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
-
-<img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi">
-
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
-
-### Staking Uniswap GHST-ETH LP tokens [Mainnet]
-A second, and more complicated, method is to stake the Uniswap GHST-ETH Liquidity Provider (LP) tokens. To do this, you have to have both GHST tokens and ETH in your wallet. Head over to the [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) to add liquidity for both tokens (see image below). Users have to contribute liquidity at a ratio of 50% GHST and 50% ETH to the pool. The amount of GHST and ETH required to acquire 1 GHST-ETH LP token varies based on the price of the pool token at the time.  In return for staking both GHST and ETH, users will receive the GHST-ETH LP token from Uniswap. 
-
-<img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking">
-
-Once you have acquired your GHST-ETH LP token, head to the [staking user interface](https://aavegotchi.com/stake). It will look like the image below.
-
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking">
-
-Select "Stake on Mainnet" and you will be presented with another page with two boxes. The box on the right will be titled "Stake Uniswap GHST Token" (see image below). If you are staking for the very first time, you have to click on the "Approve" button, which grants the Staking Contract access to your GHST-ETH LP tokens. Once the "Approve" transaction goes through, you can then key in the desired amount of GHST-ETH LP tokens you would like to stake in the "Input amount" field. When you are done, hit the "Stake" button to initiate the staking process.
-
-<img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi">
- 
-*For every 1 GHST-ETH staked in this way, you receive 100 FRENS / Day.*
-
-Why the huge difference in the number of FRENS earned through this method? Staking GHST-ETH LP tokens has the risk of [impermanent loss](/posts/glossary#impermanent-loss). You are compensated for the increased risk you take.
-
-### Staking GHST tokens [Polygon]
-
-The third method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
 This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
 
@@ -83,9 +57,11 @@ Next, you have to configure your Metamask to display your wallet balance. Do ref
 
 Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
 
-### Staking in the GHST-QUICK pool on QuickSwap [Polygon]
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
-The fourth method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+### Staking in the GHST-QUICK pool on QuickSwap
+
+Similar to staking GHST tokens directly, you have to transfer GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
 Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Once that is done, follow the subsequent steps found in the [Polygon Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
@@ -99,11 +75,13 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 Now you are earning QUICK and FRENS!
 
-Similar to Staking Uniswap GHST-ETH LP tokens, there is a risk of impermanent loss using this method as well.
+*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+
+Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
 ### Staking GHST on Polygon Cheetsheet!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens--polygon->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--polygon->Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet">
 
