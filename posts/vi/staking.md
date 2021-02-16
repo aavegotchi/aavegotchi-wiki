@@ -41,53 +41,29 @@ FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia v
 Đầu tiên, bạn cần sở hữu một vài token GHST để stake. [Trang token GHST](/posts/ghst) của bọn mình cung cấp nhiều cách thức để bạn có thể tự mình sở hữu chúng.
 
 ## Cách Stake
-Một khi đã có token GHST, đã đến lúc để stake chúng!
+Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
 
-There are four ways to stake: (1) staking GHST tokens on Mainnet (**will be discontinued eventually**), (2) staking Uniswap GHST-ETH LP tokens on Mainnet (**will be discontinued eventually**), (3) staking GHST tokens on Polygon (formerly Matic Network), and/or (4) the GHST-QUICK pool on [QuickSwap](/glossary#quickswap) on Polygon.
+There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking in the GHST-QUICK pool on [QuickSwap](/glossary#quickswap).
 
-*Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
+**Important: Staking on Mainnet has been discontinued!**
 
-### Stake token GHST [Mainnet]
-Đây là cách trực tiếp nhất để stake token GHST. Hãy chuyển đến trang [giao diện staking của người dùng](https://aavegotchi.com/stake). Nó sẽ giống như hình ở bên dưới đây.
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
+### Staking GHST tokens directly
 
-Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một trang khác có 2 hộp thoại. Hộp bên trái sẽ có dòng chữ "Stake token GHST" (xem ảnh bên dưới). Nếu bạn đang stake lần đầu, bạn phải nhấp vào nút "Approve" để cho phép Hợp đồng Staking quyền truy cập vào token GHST của bạn. Một khi giao dịch "Approve" được thông qua, bạn có thể nhập số lượng GHST mà bạn muốn stake vào vùng "Input amount". Khi hoàn tất, hãy nhấn nút "Stake" để bắt đầu quá trình.
+First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
-<img class = "bodyImage" src = "/staking/stake-ghst.png" alt = "stake ghst token aavegotchi" />
+This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
 
-*Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
+Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
 
-### Stake Token LP GHST-ETH từ Uniswap [Mainnet]
-Một phương pháp thứ hai và phức tạp hơn là stake token Cung cấp Thanh khoản (LP) GHST-ETH từ Uniswap. Bằng cách này, bạn cần phải có cả token GHST và ETH trong ví. Hãy chuyển đến trang [GHST-ETH Uniswap pool](https://app.uniswap.org/#/add/0x3f382dbd960e3a9bbceae22651e88158d2791550/ETH) để cung cấp thanh khoản cho cả hai token (xem ảnh bên dưới). Người dùng cần cung cấp thanh khoản với tỷ lệ 50% GHST và 50% ETH trong quỹ thanh khoản. Lượng GHST và ETH được yêu cầu để nhận được 1 token LP GHST-ETH sẽ khác nhau tuỳ theo giá của token trong quỹ tại một thời điểm.  Khi stake cả GHST và ETH, người dùng sẽ nhận được token LP GHST-ETH từ Uniswap.
+Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! Xong rồi bạn êi!
 
-<img class = "bodyImage" src = "/staking/ghst-eth-uniswap-interface.png" alt = "GHST-ETH LP Tokens Aavegotchi staking" />
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
-Một khi bạn đã có được token LP GHST-ETH, hãy chuyển đến [giao diện staking dành cho người dùng](https://aavegotchi.com/stake). Nó sẽ giống như hình ở bên dưới đây.
+### Staking in the GHST-QUICK pool on QuickSwap
 
-<img class = "bodyImage" src = "/staking/staking-interface.png" alt = "aavegotchi staking" />
-
-Chọn "Stake on Mainnet" và bạn sẽ được giới thiệu đến một trang khác có 2 hộp thoại. Hộp bên phải sẽ có chữ "Stake Uniswap GHST Token" (xem ảnh bên dưới). Nếu bạn đang stake lần đầu thì bạn phải nhấn vào nút Approve để cho phép Hợp đồng Staking có thể truy cập vào token LP GHST-ETH của bạn. Một khi giao dịch "Approve" được hoàn tất, bạn có thể nhập vào số lượng token LP GHST-ETH mà bạn muốn stake và vùng "Input amount". Khi hoàn tất, hãy nhấn nút "Stake" để bắt đầu quá trình.
-
-<img class = "bodyImage" src = "/staking/stake-uniswap-ghst-eth.png" alt = "stake uniswap ghst-eth LP token aavegotchi" />
-
-*Với mỗi 1 GHST-ETH mà bạn muốn stake bằng cách này, bạn sẽ nhận được 100 FRENS/Ngày.*
-
-Tại sao lại có sự khác biệt lớn với số lượng FRENS kiếm được thông qua phương thức này? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/posts/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
-
-### Staking GHST tokens [Polygon]
-
-The third method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
-
-This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve hợp đồng để dùng token GHST. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
-
-Tiếp theo, bạn cần phải cấu hình ví MetaMask để số dư trong ví hiện lên. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
-
-Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Một khi giao dịch được thông qua, hãy nhập vào lượng GHST mà bạn muốn chuyển đến Matic Network. Presto! Xong rồi bạn êi!
-
-### Staking in the GHST-QUICK pool on QuickSwap [Polygon]
-
-The fourth method involves transferring GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+Similar to staking GHST tokens directly, you have to transfer GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
 
 Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Once that is done, follow the subsequent steps found in the [Polygon Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
 
@@ -99,58 +75,60 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 4. Cuối cùng, dùng token stkGHST từ Hợp Đồng Staking GHST và stake chúng vào Quỹ Giải Thưởng Quickswap tại [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
 
-Giờ đây bạn đã có thể bắt đầu kiếm QUICK và FRENS!
+Now you are earning QUICK and FRENS!
 
-Tương tự như khi stake token LP GHST-ETH trên Uniswap, bạn có nguy cơ bị tổn thất tạm thời khi sử dụng phương pháp này.
+*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+
+Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
 ### Staking GHST on Polygon Cheetsheet!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens--polygon->Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap--polygon->Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## Mua vé Raffle
 
-Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
+Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
-Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Chúng có thể được mua/bán trên [marketplaces](/marketplace).
+Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
 
-Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất):
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
 table_RaffleTickets
 
-Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Tham gia Raffle
 
-Raffle sẽ diễn ra trong một giai đoạn thời gian. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
-Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-Tổng cộng 6010 giải.
+A total of 6010 prizes.
 
-[Giải thưởng trên OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Bạn có thể cải thiện khả năng thắng giải bằng cách:
+You can improve your probability of winning by:
 * Tham gia với nhiều vé
 * Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
+The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Thêm nguồn
 
