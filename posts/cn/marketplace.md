@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/marketplace/baazaar.gif">
+<p class="headerImageText">The Baazaar</p>
+</div>
+
 “嘿…伙计”
 
 商人 Gotchi 神秘地把你招到他的摊位前，眼睛里闪烁着光芒。
