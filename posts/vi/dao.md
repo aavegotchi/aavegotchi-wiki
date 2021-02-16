@@ -30,6 +30,7 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
 <li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
+<li><a href=#treasury>Treasury</a></li>
 </ol>
 
 </div>
@@ -118,3 +119,11 @@ Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.ara
 Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
 
 Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
+
+## Treasury
+
+AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
