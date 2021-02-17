@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 当你拿走那些本身享有利息的 aTokens 并将它们转移到Matic Network时，你会得到什么？ 为什么你会得到matoken，当然！
 
 此页面是 [aTokens](/atokens) 页面的延续。 之前，我们已经获得了一些aTokens。 现在，我们将会把他们转换成maTokens，然后用他们作为抵押品去召唤Aavegotchi frens！
@@ -17,7 +22,7 @@ contributors:
 
 <ol>
 <li><a href=#converting-atokens-into-matokens>将aTokens转化成maTokens</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>将maTokens抵押进入Aavegotchi</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>将 maTokens 质押到Aavegotchis</a></li>
 <li><a href=#learn-more>了解更多</a></li>
 </ol>
 
