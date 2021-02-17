@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 Was bekommst du, wenn du diese verzinslichen aTokens nimmst und sie auf das Matic Network überträgst? Natürlich bekommst du maTokens!
 
 Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir uns einige aTokens besorgt. Jetzt sind wir daran interessiert, sie in maTokens umzuwandeln und sie als Sicherheit zu benutzen, um unsere Aavegotchis zu beschwören!
