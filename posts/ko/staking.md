@@ -71,7 +71,7 @@ GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 �
 
 2. Quickswap의 [GHST-QUICK 풀](https://aavegotchi.com/stake-matic)에 유동성을 공급하세요.
 
-3. 유동성 공급 후 Step2에서 LP 토큰을 획득하시고 GHST-QUICK 스테이킹 풀에 LP 토큰을 예치하여 stkGHST를 획득하세요
+3. Take your LP tokens received from Step 2 and stake them into the [GHST-QUICK Staking Pool](https://aavegotchi.com/stake-matic) to get stkGHST.
 
 4. 마지막으로 GHST 스테이킹 컨트랙트에서의 stkGHST 토큰을 [ https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 리워드 풀에 스테이킹 하시면 됩니다.
 
