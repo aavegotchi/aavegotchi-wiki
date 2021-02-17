@@ -71,7 +71,7 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 2. Werde ein Liquiditätsanbieter im GHST-QUICK Pool auf Quickswap.
 
-3. Nimm deine LP Token aus Schritt 2 und stake sie in den GHST-QUICK Staking Pool, um stkGHST zu erhalten.
+3. Take your LP tokens received from Step 2 and stake them into the [GHST-QUICK Staking Pool](https://aavegotchi.com/stake-matic) to get stkGHST.
 
 4. Zum Schluss nimmst du die stkGHST Tokens, die vom GHST Staking Contract ausgegeben wurden und stakest sie in den Quickswap Rewards Pool: [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
 
