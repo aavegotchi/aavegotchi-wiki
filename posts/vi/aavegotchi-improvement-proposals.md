@@ -20,6 +20,7 @@ Cộng đồng của chúng ta đã phát triển đến mức nào rồi? Hãy 
 <li><a href=#add-fees-to-bonding-curve>Thêm Phí Giao Dịch Vào Bonding Curve</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Tăng lượng tap từ DAICO để mua lại GHST</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 </ol>
 
 </div>
@@ -121,3 +122,30 @@ Aavegotchi Maarket: 683420 GHST
 Neither: 150380 GHST
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
+
+### Eligibility of GHST-USDC LP tokens to earn FRENS
+
+**Vote bằng Snapshot**
+
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Matic already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-matic](https://aavegotchi.com/stake-matic). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Matic.
+
+We are setting a 500,000 GHST quorum for this vote to be enacted.
+
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+
+**Voting Period:** 8 - 11 February 2021
+
+**Kết quả:**
+
+Yes: 2560000
+
+No: 354030
+
+[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
+
