@@ -43,7 +43,7 @@ After the Approve transaction goes through, click the "Transfer to Matic" button
 
 After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/matic) for step-by-step instructions as to how to do so.
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Staking maTokens into Aavegotchis
 
