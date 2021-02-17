@@ -6,6 +6,11 @@ description: 'All about Aavegotchi maTokens'
 contributors: ["unintelligent-nerd"]
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 What do you get when you take those interest-bearing aTokens and put them on the Matic Network? Why you get maTokens, of course!
 
 This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
