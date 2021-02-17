@@ -38,42 +38,42 @@ FRENS는 아베고치 스테이킹 컨트랙트 내에서 교환되는 자산이
 </div>
 
 ## GHST 구매하기
-스테이킹을 하기 전엔 당연하게도 여러분의 손에 스테이킹할 GHST가 쥐어져 있어야 합니다. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
+스테이킹을 하기 전엔 당연하게도 여러분의 손에 스테이킹할 GHST가 쥐어져 있어야 합니다. [GHST 토큰 페이지](/posts/ghst)에 관련 내용이 안내되어 있으니 선호하는 방식을 택하시길 바랍니다 :)
 
 ## 스테이킹 방법
-Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
+GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
 
-There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking in the GHST-QUICK pool on [QuickSwap](/glossary#quickswap).
+스테이킹 방법엔 크게 2가지가 있습니다 : (1) GHST를 바로 스테이킹하기 또는 (2) [Quickswap](/glossary#quickswap)에서 GHST-QUICK pool에 스테이킹하기
 
-**Important: Staking on Mainnet has been discontinued!**
+**중요 : 메인넷에서의 스테이킹은 현재 중단되었습니다!**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*참고 : 특별 판매(Pre-sale)에서의 GHST 토큰들은 현재 락업 상태이기 때문에 락업이 풀리기 전까지 스테이킹이 불가능합니다.*
 
-### Staking GHST tokens directly
+### GHST 토큰을 직접 스테이킹하기
 
-First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+먼저 GHST토큰을 이더리움 메인넷에서 layer2 솔루션인 폴리곤으로 옮겨야 합니다.
 
-This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
+이는 [Bridge to Polygon Interface](https://aavegotchi.com/bridge)를 통해 이루어집니다. 그리고 GHST토큰을 사용할 컨트랙트에 승인을 해야합니다.(일종의 승인 과정입니다.) 승인이 완료되면, 폴리곤으로 옮기길 원하는 GHST의 양을 input으로 설정해 트랜잭션을 진행합니다. 이더리움 상에서 GHST 거래가 확인이 되면 폴리곤에서 GHST 수량이 반영되기 까지는 대략 7 ~ 8분이 걸립니다. 입금된 GHST는 자동적으로 업데이트가 됩니다. 그러니 인내심을 갖고 기다려주시길 바랍니다!
 
-Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
+그런 다음 메타마스크 상에서 wallet 잔액들이 보이도록 설정해줘야 합니다. 메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다.
 
-Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-matic) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
+여러분의 메타마스크를 폴리곤에 연결하고 아베고치 댑에 있는 [폴리곤 스테이킹 페이지](https://aavegotchi.com/stake-matic)로 이동하시길 바랍니다. 그런 다음 폴리곤에 있는 GHST를 사용할 수 있도록 계약(트랜잭션)을 승인해주시길 바랍니다. 거래가 성사되면 원하는 양만큼의 GHST를 설정하여 스테이킹하시길 바랍니다! 굉장히 빠르죠! 스테이킹이 완료되었습니다!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*이런 방식으로 1 GHST를 스테이킹할 때마다 하루에 1FRENS를 받게 됩니다.*
 
-### Staking in the GHST-QUICK pool on QuickSwap
+### Quickswap에서 GHST-QUICK 풀에 스테이킹하기
 
-Similar to staking GHST tokens directly, you have to transfer GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 메인넷에서 layer 2 솔루션인 폴리곤으로 옮기셔야 합니다.
 
-Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Once that is done, follow the subsequent steps found in the [Polygon Liquidity Migration Incentives post](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73).
+메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다. 이전이 완료되면 [폴리곤 유동성 이전 보상 포스팅](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)에 나와있는 단계를 순차적으로 따라주시길 바랍니다.
 
-1. Get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH and QUICK-USDC. Soon GHST-QUICK will also be an option.
+1. [Quickswap](https://quickswap.exchange)에서 QUICK 토큰을 획득합니다. 가장 유동성 공급이 활발한 페어는 현재 QUICK-UNI, QUICK-WETH, 그리고 QUICK-USDC입니다.(quickswap의 유동성 상황에 따라 달라질 수 있는 지표입니다) 곧 GHST-QUICK 역시 pool에 추가될 것입니다.
 
-2. Become a liquidity provider in the GHST-QUICK Pool on Quickswap.
+2. Quickswap의 GHST-QUICK 풀에 유동성을 공급하세요.
 
-3. Take your LP tokens received from Step 2 and stake them into the GHST-QUICK Staking Pool to get stkGHST.
+3. 유동성 공급 후 Step2에서 LP 토큰을 획득하시고 GHST-QUICK 스테이킹 풀에 LP 토큰을 예치하여 stkGHST를 획득하세요
 
-4. Finally, take the stkGHST receipt tokens emitted from the GHST Staking Contract and stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick).
+4. 마지막으로 GHST 스테이킹 컨트랙트에서의 stkGHST 토큰을 [ https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 리워드 풀에 스테이킹 하시면 됩니다.
 
 Now you are earning QUICK and FRENS!
 
