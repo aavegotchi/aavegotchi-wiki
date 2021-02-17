@@ -43,7 +43,7 @@ contributors:
 
 上述操作之后，你的 matokens 将在10分钟左右之后出现在你的钱包。
 
-如果您正在使用Metamask，希望了解如何在它上配置Matic Network。 请先来看看 [Matic Guide](/matic) 以了解如何做到这一点。
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## 将 maTokens 质押到Aavegotchis
 
