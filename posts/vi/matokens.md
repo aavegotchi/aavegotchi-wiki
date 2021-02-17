@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Matic Network? Tất nhiên là cùng lý do việc sở hữu maToken rổi!
 
 Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
