@@ -71,7 +71,7 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 2. 在Quickswap上的 GHST-QUICK 池中成为流动资金提供者。
 
-3. 拿走从步骤2收到的LP令牌并把它们关进GHST-QUICK Staking Pool 以获取stkGHST。
+3. Take your LP tokens received from Step 2 and stake them into the [GHST-QUICK Staking Pool](https://aavegotchi.com/stake-matic) to get stkGHST.
 
 4. 最后，拿出GHST Staking 合同所释放的stkGHST 收据代币，然后将其置于快速交换奖励池中 [https://quickswap.exchange/#/lick](https://quickswap.exchange/#/quick)。
 
