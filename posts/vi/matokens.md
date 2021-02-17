@@ -43,7 +43,7 @@ Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Mat
 
 Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
 
-Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Matic Network trên ví đó, hãy xem qua [Bài hướng dẫn về Matic](/matic) và thực hiện theo từng bước từng bước một.
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Stake maToken vào Aavegotchi
 
