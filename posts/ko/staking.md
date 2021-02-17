@@ -69,7 +69,7 @@ GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 �
 
 1. [Quickswap](https://quickswap.exchange)에서 QUICK 토큰을 획득합니다. 가장 유동성 공급이 활발한 페어는 현재 QUICK-UNI, QUICK-WETH, 그리고 QUICK-USDC입니다.(quickswap의 유동성 상황에 따라 달라질 수 있는 지표입니다) 곧 GHST-QUICK 역시 pool에 추가될 것입니다.
 
-2. Quickswap의 GHST-QUICK 풀에 유동성을 공급하세요.
+2. Quickswap의 [GHST-QUICK 풀](https://aavegotchi.com/stake-matic)에 유동성을 공급하세요.
 
 3. 유동성 공급 후 Step2에서 LP 토큰을 획득하시고 GHST-QUICK 스테이킹 풀에 LP 토큰을 예치하여 stkGHST를 획득하세요
 
