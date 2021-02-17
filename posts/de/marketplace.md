@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/marketplace/baazaar.gif">
+<p class="headerImageText">The Baazaar</p>
+</div>
+
 "Psst....du da"
 
 Der Händler Gotchi winkt dich heimlich und mit einem Glitzern in den Augen zu seinem Stand hinüber.

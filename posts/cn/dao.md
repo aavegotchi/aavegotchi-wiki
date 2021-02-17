@@ -30,6 +30,7 @@ Aavegotchi效仿Compound和Synthetix等成功的DeFi协议，遵循 "逐步去�
 <li><a href=#participating-in-governance>参与治理</a></li>
 <li><a href=#voting>投票</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi改进建议(AGIPs)</a></li>
+<li><a href=#treasury>Treasury</a></li>
 </ol>
 
 </div>
@@ -118,3 +119,11 @@ Aavegotchi的Aragon页面可以在 [这里](https://client.aragon.org/#/aavegotc
 看到Aragon上的那些投票了吗？ 它们是Aavegotchi改进提案（AGIPs）！
 
 请访问[Aavegotchi改进提案](/aavegotchi-improvement-proposals) 页面，查看历史投票列表。 如果你想及时了解到未来的一些提案，请在[社交媒体](/socialmedia)上关注Aavegotchi。
+
+## Treasury
+
+AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).

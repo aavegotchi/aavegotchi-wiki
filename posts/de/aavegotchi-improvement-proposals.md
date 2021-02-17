@@ -19,6 +19,7 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#tap-increase-for-scaling-sprint>Erhöhung des Taps für den Scaling-Sprint</a></li>
 <li><a href=#add-fees-to-bonding-curve>Hinzufügen von Gebühren zur Bonding Curve</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Erhöhung des DAICO-Taps für GHST-Käufe</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 </ol>
 
 </div>
@@ -89,3 +90,34 @@ Ja: 3836093.44669 GHST
 Nein: 33683.04753 GHST
 
 [Link zur Abstimmung über das Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+
+### Name of Aavegotchi Marketplace
+**Snapshot Abstimmungen**
+
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+
+Aavegotchi is launching its own NFT marketplace on Matic in tandem with the game!
+
+What should we call the official Aavegotchi Marketplace?
+
+Choice A: Aavegotchi Baazaar
+
+Choice B: Aavegotchi Maarket
+
+Choice C: Neither
+
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+
+If "Neither" wins...you guys better start coming up with some good alternatives!
+
+**Voting Period:** 8 - 11 February 2021
+
+**Ergebnis:**
+
+Aavegotchi Baazaar: 973380 GHST
+
+Aavegotchi Maarket: 683420 GHST
+
+Neither: 150380 GHST
+
+[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)

@@ -30,6 +30,7 @@ Aavegotchi tritt in die Fussstapfen erfolgreicher DeFi-Protokolle wie Compound u
 <li><a href=#participating-in-governance>Teilnahme an der Governance</a></li>
 <li><a href=#voting>Abstimmen</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
+<li><a href=#treasury>Treasury</a></li>
 </ol>
 
 </div>
@@ -118,3 +119,11 @@ Um über Aragon abzustimmen, folge den untenstehenden Schritten:
 Siehst du diese Abstimmungen auf Aragon? Das sind Aavegotchi Improvement Proposals (AGIPs)!
 
 Besuche die [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) Seite für eine Liste der vergangenen Abstimmungen. Wenn du über zukünftige Vorschläge informiert werden möchtest, folg [Aavegotchi auf Social Media](/socialmedia).
+
+## Treasury
+
+AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
