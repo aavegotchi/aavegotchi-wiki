@@ -93,13 +93,13 @@ GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 �
 
 FRENS와 달리 래플 티켓은 다른 지갑으로의 이동이 가능합니다. 그렇기 때문에 [마켓플레이스](/marketplace)에서 구매하거나 판매도 가능합니다.
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+래플 티켓은 6가지의 등급으로 나뉘어지는데 희귀도가 가장 가치가 낮은 Common에서부터 가장 가치가 높은 Godlike까지 있습니다.
 
-table_RaffleTickets
+표_ 래플 티켓
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+미디엄 포스트: [ [Stake GHST, Make FRENS Live on Ethereum Mainnet!]](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+사용자들은 한번의 트랜잭션에서 여러 등급의 티켓에 대한 거래가 가능합니다. 그렇기 때문에 각 등급의 래플 티켓을 구매할 때 **각각의 트랜잭션을 만드실 필요는 없습니다.**
 
 ## 래플 참여하기
 
