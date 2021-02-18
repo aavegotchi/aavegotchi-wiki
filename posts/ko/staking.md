@@ -71,15 +71,15 @@ GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 �
 
 2. Quickswap의 [GHST-QUICK 풀](https://aavegotchi.com/stake-matic)에 유동성을 공급하세요.
 
-3. Take your LP tokens received from Step 2 and stake them into the [GHST-QUICK Staking Pool](https://aavegotchi.com/stake-matic) to get stkGHST.
+3. 2단계에서 LP토큰을 받게 됩니다. 이 LP 토큰을 [GHST-QUICK 스테이킹 풀](https://aavegotchi.com/stake-matic)에 예치를 하시고 stkGHST를 획득하세요
 
 4. 마지막으로 GHST 스테이킹 컨트랙트에서의 stkGHST 토큰을 [ https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 리워드 풀에 스테이킹 하시면 됩니다.
 
-Now you are earning QUICK and FRENS!
+이제 여러분은 QUICK토큰과 FRENS를 모두 모을 수 있게 됩니다!
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+*이러한 방식으로 스테이킹된 GHST-QUICK LP 토큰 1개로 여러분은 매일 14FRENS를 받게 됩니다.*
 
-Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+왜 이렇게 스테이킹을 하게 되면 FRENS 포인트를 더 많이 모을 수 있는 것일까요? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
 ### Staking GHST on Polygon Cheetsheet!
 
