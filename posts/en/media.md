@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Coderdan presents Aavegotchi on Odaily China Crypto News (3 February 2021)
+Link to video [here](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/)
+
 ### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
