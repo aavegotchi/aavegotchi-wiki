@@ -28,7 +28,8 @@ Aavegotchi tritt in die Fussstapfen erfolgreicher DeFi-Protokolle wie Compound u
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Teilnahme an der Governance</a></li>
-<li><a href=#voting>Abstimmen</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
+<li><a href=#voting>Voting</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
 <li><a href=#treasury>Treasury</a></li>
 </ol>
@@ -58,67 +59,79 @@ Obwohl AavegotchiDAO Oasis die letzte Version der Evolution des AavegotchiDAO is
 Tokenbesitzer werden für die aktive Teilnahme an dieser Version des AavegotchiDAO Belohnungen in Form von GHST erhalten.
 
 ## Teilnahme an der Governance
-Ich bin total aufgeregt! Wie kann ich nun am AavegotchiDAO teilnehmen? Ganz einfach! In den [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) ist die Liste der DAO-Funktionen aufgeführt, die Mitglieder aufrufen/verwenden können, um abgestimmte Änderungen zu implementieren. Sagen wir zum Beispiel, dass asUSD als [aToken-Typ](/posts/atokens) gewählt wurde. Der AavegotchiDAO könnte die Änderung implementieren, indem er die `addCollateralTypes()` Funktion verwendet und asUSD innerhalb der Funktion angibt.
+Ich bin total aufgeregt! Wie kann ich nun am AavegotchiDAO teilnehmen? Ganz einfach!
 
-Mehr Details gibt es, sobald das Spiel veröffentlicht wurde!
+First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
 
-## Abstimmen
+Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
-Es gibt zwei Möglichkeiten, abzustimmen: (1) Snapshot Abstimmungen, und/oder (2) Aragon Abstimmungen.
+More details will be fleshed out once the game releases!
+
+## AavegotchiDAO Forum
+
+The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+
+We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+
+The Forum can be found [here](https://dao.aavegotchi.com/).
+
+## Voting
+
+There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
 
 ### Snapshot Abstimmungen
 
-Snapshot ist eine Abstimmungs-dApp auf Ethereum. Abstimmungen auf Snapshot erfordern kein Gas und sind nicht on-chain. Aavegotchis Snapshot-Seite findest du [hier](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
 
-Um über Snapshot abzustimmen, folge den untenstehenden Schritten:
+To vote on Snapshot, follow the steps below:
 
-1). Geh zu einem offenen Vorschlag.
+1). Go to an open proposal.
 
-2). Verbinde dein Wallet.
+2). Connect your wallet.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Wähl eine Option aus und klick auf "Vote". Ein Pop-up-Fenster wird erscheinen, um deine Wahl zu bestätigen.
+3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Dein Metamask wird erscheinen. Unterschreibe die Transaktion, und du bist fertig!
+4). Your Metamask will pop up. Sign the transaction, and you're done!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
 ### Aragon Abstimmungen
 
-Aragon ist ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Stimmen, die auf Aragon abgegeben werden, benötigen Gas und existieren auf der Ethereum Blockchain.
+Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
 
-Aavegotchis Aragon-Seite findest du [hier](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-Um über Aragon abzustimmen, folge den untenstehenden Schritten:
+To vote on Aragon, follow the steps below:
 
-1). Geh zu einem offenen Vorschlag.
+1). Go to an open proposal.
 
-2). Verbinde dein Wallet.
+2). Connect your wallet.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Wähl "ja" oder "nein".
+3). Choose to vote "Yes" or "No."
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). Eine Metamask-Transaktion wird sich öffnen. Beachte, dass deine Transaktion gemined werden muss, um bestätigt zu werden, also konsultiere eine Seite wie [gasnow](https://gasnow.org/) für den aktuellen Gaspreis.
+4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
 
-5). Sobald deine Transaktion gemined ist, wird deine Stimme entsprechend reflektiert.
+5). Once your transaction is mined, your vote will be reflected accordingly.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-Siehst du diese Abstimmungen auf Aragon? Das sind Aavegotchi Improvement Proposals (AGIPs)!
+See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
-Besuche die [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) Seite für eine Liste der vergangenen Abstimmungen. Wenn du über zukünftige Vorschläge informiert werden möchtest, folg [Aavegotchi auf Social Media](/socialmedia).
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
 ## Treasury
 
