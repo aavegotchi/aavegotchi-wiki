@@ -68,6 +68,7 @@ contributors: ["eris771"]
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
 <p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
 </ol>
 
 </div>
@@ -264,6 +265,22 @@ Metamask has a maximum limit of 11 characters for their token symbol. You can ch
 Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit">
+
+### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+
+First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+
+Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+
+https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
+
+That URL will indicate the status of your withdrawal transaction. 
+
+If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+
+If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
