@@ -71,35 +71,35 @@ GHST 토큰을 직접 스테이킹하는 것처럼 GHST토큰을 이더리움 �
 
 2. Quickswap의 [GHST-QUICK 풀](https://aavegotchi.com/stake-matic)에 유동성을 공급하세요.
 
-3. Take your LP tokens received from Step 2 and stake them into the [GHST-QUICK Staking Pool](https://aavegotchi.com/stake-matic) to get stkGHST.
+3. 2단계에서 LP토큰을 받게 됩니다. 이 LP 토큰을 [GHST-QUICK 스테이킹 풀](https://aavegotchi.com/stake-matic)에 예치를 하시고 stkGHST를 획득하세요
 
 4. 마지막으로 GHST 스테이킹 컨트랙트에서의 stkGHST 토큰을 [ https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 리워드 풀에 스테이킹 하시면 됩니다.
 
-Now you are earning QUICK and FRENS!
+이제 여러분은 QUICK토큰과 FRENS를 모두 모을 수 있게 됩니다!
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+*이러한 방식으로 스테이킹된 GHST-QUICK LP 토큰 1개로 여러분은 매일 14FRENS를 받게 됩니다.*
 
-Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+왜 이렇게 스테이킹을 하게 되면 FRENS 포인트를 더 많이 모을 수 있는 것일까요? GHST-QUICK LP토큰을 예치하는 것은 [비영구적손실](/glossary#impermanent-loss)의 위험이 있습니다. 그렇기 때문에 GHST-QUICK 풀에 스테이킹을 한 분들의 리스크는 FRENS로 보상받게 되는 것입니다.
 
-### Staking GHST on Polygon Cheetsheet!
+### 폴리곤에 GHST를 스테이킹 하는 방법!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
+아래의 그림을 통해 이전까지 함께 알아보았던 <a href=#staking-ghst-tokens-directly>GHST 토큰 스테이킹 방법</a>과 <a href=#staking-in-the-ghst-quick-pool-on-quickswap>GHST-QUICK 풀 스테이킹</a>, 이렇게 2가지의 스테이킹 방버을 한눈에 확인할 수 있습니다! (한국으로 번역된 그림을 확인하고 싶으시다면 [농사꾼의 연감](https://aavegotchikr.medium.com/%EB%86%8D%EC%82%AC%EA%BE%BC%EC%9D%98-%EC%97%B0%EA%B0%90-ghst-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B0%80%EC%9D%B4%EB%93%9C-c28b64c8ad8d)를 확인해 주세요
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 ## 래플 티켓 구매하기
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
+이제 충분한 FRENS가 준비되셨다면 [ 래플 티켓 판매점 ](https://aavegotchi.com/tickets)으로 이동하셔서 FRENS로 래플 티켓을 구매하세요.
 
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
+FRENS와 달리 래플 티켓은 다른 지갑으로의 이동이 가능합니다. 그렇기 때문에 [마켓플레이스](/marketplace)에서 구매하거나 판매도 가능합니다.
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+래플 티켓은 6가지의 등급으로 나뉘어지는데 희귀도가 가장 가치가 낮은 Common에서부터 가장 가치가 높은 Godlike까지 있습니다.
 
-table_RaffleTickets
+표_ 래플 티켓
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+미디엄 포스트: [ [Stake GHST, Make FRENS Live on Ethereum Mainnet!]](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+사용자들은 한번의 트랜잭션에서 여러 등급의 티켓에 대한 거래가 가능합니다. 그렇기 때문에 각 등급의 래플 티켓을 구매할 때 **각각의 트랜잭션을 만드실 필요는 없습니다.**
 
 ## 래플 참여하기
 
