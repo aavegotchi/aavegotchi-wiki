@@ -27,6 +27,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
 <li><a href=#voting>Voting</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
 <li><a href=#treasury>Treasury</a></li>
@@ -57,9 +58,21 @@ Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evoluti
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
 ## Participating in Governance
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! 
+
+First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+
+Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 More details will be fleshed out once the game releases!
+
+## AavegotchiDAO Forum
+
+The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+
+We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+
+The Forum can be found [here](https://dao.aavegotchi.com/).
 
 ## Voting
 
