@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 What do you get when you take those interest-bearing aTokens and put them on the Matic Network? Why you get maTokens, of course!
 
 This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
@@ -43,7 +48,7 @@ After the Approve transaction goes through, click the "Transfer to Matic" button
 
 After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/matic) for step-by-step instructions as to how to do so.
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Staking maTokens into Aavegotchis
 

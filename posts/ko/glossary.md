@@ -43,7 +43,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
-<p><a href=#staking>Staking</a></p>
+<p><a href=#staking>스테이킹</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#aragon>Aragon</a></p>
@@ -164,7 +164,7 @@ Generally speaking, a smart contract is a self-executing contract with the "term
 
 
 
-### Staking
+### 스테이킹
 Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
 
 

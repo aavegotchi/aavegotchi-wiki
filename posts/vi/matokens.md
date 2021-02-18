@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Matic Network? Tất nhiên là cùng lý do việc sở hữu maToken rổi!
 
 Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
@@ -43,7 +48,7 @@ Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Mat
 
 Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
 
-Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Matic Network trên ví đó, hãy xem qua [Bài hướng dẫn về Matic](/matic) và thực hiện theo từng bước từng bước một.
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Stake maToken vào Aavegotchi
 

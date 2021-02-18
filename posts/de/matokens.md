@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/matokens/matoken.png">
+<p class="headerImageText">maTokens!</p>
+</div>
+
 Was bekommst du, wenn du diese verzinslichen aTokens nimmst und sie auf das Matic Network überträgst? Natürlich bekommst du maTokens!
 
 Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir uns einige aTokens besorgt. Jetzt sind wir daran interessiert, sie in maTokens umzuwandeln und sie als Sicherheit zu benutzen, um unsere Aavegotchis zu beschwören!
@@ -43,7 +48,7 @@ Nachdem die Transaktion genehmigt wurde, klicke auf die Schaltfläche "Transfer 
 
 Nachdem du das getan hast, warte etwa 10 Minuten, bis deine maTokens in deiner Wallet erscheinen.
 
-Wenn du Metamask verwendest und wissen möchtest, wie du Matic Network darauf konfigurierst, dann schau dir die [Matic Anleitung](/matic) an, um eine Schritt-für-Schritt-Anleitung zu erhalten.
+If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Aavegotchis mit maTokens besichern
 
