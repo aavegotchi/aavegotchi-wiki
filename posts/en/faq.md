@@ -14,7 +14,7 @@ contributors: ["eris771"]
 
 
 <p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built. Feel free to use Mission 11 suggestions for questions you'd like to see here.</a></p>
+<p style="font-style:italic; font-size:13px;">This page is being built continuously.</a></p>
 
 <a name="FAQ"></a>
 
@@ -39,6 +39,7 @@ contributors: ["eris771"]
 <p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
 <p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
 <p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
+<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Why is the GHST-USDC LP yielding 74M FRENS per day?</a></p>
 <li><a href=#raffle-faq>Raffle FAQ</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
@@ -148,6 +149,9 @@ No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the
 
 ### What happens to the FRENS on Mainnet after the game launches on Polygon?
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+
+### Why is the GHST-USDC LP yielding 74M FRENS per day?
+An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Raffle FAQ
 
