@@ -9,6 +9,10 @@ contributors:
 
 How many raffle tickets were submitted in past raffles? How many were there in each category? We have the historical data for past raffles for you here!
 
+Probability is defined as:
+
+Total Number of Prizes in a given category / Total Number of Tickets submitted for that same category
+
 <div class="contentsBox">
 
 ** 목차 **

@@ -9,6 +9,10 @@ contributors:
 
 Có bao nhiêu vé raffle đã được đăng ký tham gia trong những sự kiện raffle vừa qua? Có bao nhiêu vé trong mỗi hạng mục? Bọn mình mang đến cho bạn dữ liệu về những đợt raffle đã kết thúc tại đây!
 
+Probability is defined as:
+
+Total Number of Prizes in a given category / Total Number of Tickets submitted for that same category
+
 <div class="contentsBox">
 
 **Nội dung**
