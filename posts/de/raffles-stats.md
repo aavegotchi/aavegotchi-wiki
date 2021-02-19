@@ -9,6 +9,10 @@ contributors:
 
 Wie viele Tickets wurden bei vergangenen Lotterien eingereicht? Wie viele waren es in jeder Kategorie? Wir haben die historischen Daten vergangener Lotterien für dich!
 
+Probability is defined as:
+
+Total Number of Prizes in a given category / Total Number of Tickets submitted for that same category
+
 <div class="contentsBox">
 
 **Inhalte**
