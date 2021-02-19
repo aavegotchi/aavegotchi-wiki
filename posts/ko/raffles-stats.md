@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+description: '과거 래플 통계'
 contributors:
   - "unintelligent-nerd"
 ---
