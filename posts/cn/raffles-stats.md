@@ -9,6 +9,10 @@ contributors:
 
 过去的抽奖活动中提交了多少张抽奖券？ 每个类别中有多少？ 我们在这里为您提供过往抽奖的历史数据！
 
+Probability is defined as:
+
+Total Number of Prizes in a given category / Total Number of Tickets submitted for that same category
+
 <div class="contentsBox">
 
 **内容**
