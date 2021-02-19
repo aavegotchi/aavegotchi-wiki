@@ -75,7 +75,7 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 Now you are earning QUICK and FRENS!
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 14 FRENS / Day.*
+*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day.*
 
 Why the huge difference in the number of FRENS earned through this method? Staking GHST-QUICK LP tokens has the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
