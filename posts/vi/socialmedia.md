@@ -66,11 +66,11 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 &nbsp;
 
-Bọn mình đang trông các bạn quá đây này! Head over to any of our channels to learn more.
+Bọn mình đang trông các bạn quá đây này! Hãy vào bất kỳ kênh nào của bọn mình để tìm hiểu thêm nhé.
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
+Aavegotchi Malaysia là nơi tụ họp dành cho cả Gia Đình Aavegotchi ở đất nước Malaysia tuyệt vời! Hãy xem qua [Nhóm Facebook](https://www.facebook.com/groups/aavegotchimalaysia) của bọn mình nhé! Aambassador của Malaysia, Buzz Lightyear / Jason Chew rất vui được đón tiếp các bạn!
 
 
 
