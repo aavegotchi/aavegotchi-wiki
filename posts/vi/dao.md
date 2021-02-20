@@ -100,7 +100,7 @@ To vote on Snapshot, follow the steps below:
 
 4). Your Metamask will pop up. Sign the transaction, and you're done!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
 ### Vote bằng Aragon
 
