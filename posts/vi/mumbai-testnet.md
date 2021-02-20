@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
+Aavegotchi Baazaar đã có mặt trên Testnet Mumbai! Thử đi bạn, bạn cần phải cấu hình MetaMask và nhận một vài token trên Testnet. Bài hướng dẫn này sẽ giúp bạn biết cách thực hiện!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
-<li><a href=#getting-tokens-from-mumbai-faucet>Getting tokens from Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#adding-mumbai-testnet-to-your-metamask>Thêm Polygon vào Metamask</a></li>
+<li><a href=#getting-tokens-from-mumbai-faucet>Nhận token từ Faucet của Testnet Mumbai</a></li>
+<li><a href=#getting-mumbai-ghst>Nhận GHST trên Mumbai</a></li>
 </ol>
 
 </div>
 
-## Adding Mumbai Testnet to your Metamask
+## Thêm Polygon vào Metamask
 
-To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
+Để có thể kết nối với Testnet Mumbai, bạn cần phải thực hiện cấu hình trên ví MetaMask.
 
-1). First, open the extension and click the “Ethereum Mainnet” button on the top.
+1). Mở Metamask ra rồi nhấp vào nút "Ethereum Mainnet" trên đỉnh.
 
 <img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask" />
 
@@ -43,11 +43,11 @@ Chain ID: 80001
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (optional): https://mumbai-explorer.matic.today
+Block Explorer URL (tuỳ chọn): https://mumbai-explorer.matic.today
 
-Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". You are now on Mumbai Testnet!
+Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". Giờ bạn đang ở trên Mumbai Testnet rồi nè!
 
-## Getting tokens from Mumbai Faucet
+## Nhận token từ Faucet của Testnet Mumbai
 
 1). Head over to the Mumbai Faucet at [https://faucet.matic.network/](https://faucet.matic.network/).
 
@@ -55,7 +55,7 @@ Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". You are now on M
 
 3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
 
-## Getting Mumbai GHST
+## Nhận GHST trên Mumbai
 
 Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
 
