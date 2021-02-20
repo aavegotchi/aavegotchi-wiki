@@ -14,7 +14,7 @@ contributors:
 </div>
 
 <p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built continuously.</a></p>
+<p style="font-style:italic; font-size:13px;">Trang wiki này sẽ tiếp tục được xây dựng.</a></p>
 
 <a name="FAQ"></a>
 
