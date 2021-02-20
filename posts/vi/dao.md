@@ -31,7 +31,7 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
 <li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#treasury>Ngân Quỹ</a></li>
 </ol>
 
 </div>
@@ -61,68 +61,68 @@ Người nắm giữ token sẽ nhận được phần thưởng ở dạng GHST
 ## Tham Gia Quản Trị
 Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? Bạn êi, bọn mình lo hết!
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+Trước tiên, bạn phải tham gia vào những cuộc thảo luận trên [AavegotchiDAO forum](https://dao.aavegotchi.com/). Bọn mình hân hạnh được đón tiếp tất cả các bạn!
 
-Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+[Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) liệt kê chi tiết danh sách các hàm liên quan đến DAO mà thành viên có thể gọi/dùng để thực hiện những thay đổi đã được vote. Giả dụ như asUSD được vote để trở thành một [loại tài sản ký gửi ](/posts/atokens)đi. Aavegotchi sẽ có thể triển khai thay đổi này bằng cách sử dụng hàm `addCollateralTypes()` và chỉ định asUSD sẽ nằm trong hàm đó.
 
-More details will be fleshed out once the game releases!
+Nhiều thông tin chi tiết sẽ được công bố một khi trò chơi được triển khai!
 
 ## Diễn đàn AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Diễn Đàn Quản Trị AavegotchiDAO được vận hành trên Discourse. Sự có mặt của diễn đàn này sẽ giúp cộng đồng tập trung thảo luận những chủ đề liên quan đến cơ chế game Aavegotchi, yêu cầu ngân sách, và những đề xuất khác.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Bọn mình hy vọng rằng #GotchiGang sẽ trở thành một mô hình cho những game được sở hữu bởi DAO trong tương lai, vậy nên hãy tham gia và nhớ lịch sự với những người anh em trong cộng đồng nhé.
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/).
 
 ## Bỏ phiếu
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (2) Argagon.
 
 
 ### Vote bằng Snapshot
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
 
-To vote on Snapshot, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Bỏ phiếu cho một phương án, và nhấp "Vote" Một pop-up sẽ hiện lên để bạn có thể xác nhận lựa chọn của mình.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
 ### Vote bằng Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Bình chọn "Yes" hoặc "No."
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Snapshot Voting Ethereum" />
