@@ -150,9 +150,9 @@ Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ)
 Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
+maToken là [aTokens](/glossary#atokens) trên mạng [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Để xem qua bài hướng dẫn về cách chuyển đổi từ token aToken trên Mainnet của Ethereum sang maToken trên trên, vui lòng xem qua bài hướng dẫn về [maTokens](/matokens) này.
 
 ### Oracles
 Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
