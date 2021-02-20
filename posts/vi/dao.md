@@ -28,8 +28,8 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#voting>Voting</a></li>
+<li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
+<li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
 <li><a href=#treasury>Treasury</a></li>
 </ol>
@@ -67,7 +67,7 @@ Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) d
 
 More details will be fleshed out once the game releases!
 
-## AavegotchiDAO Forum
+## Diễn đàn AavegotchiDAO
 
 The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
@@ -75,7 +75,7 @@ We hope that #GotchiGang can become a model for DAO-owned games in the future, s
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
 
-## Voting
+## Bỏ phiếu
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -129,14 +129,14 @@ To vote on Aragon, follow the steps below:
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
 
-## Treasury
+## Ngân Quỹ
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO Treasury có thể truy cập vào tại [here](https://aavegotchi.com/treasury).
