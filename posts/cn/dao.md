@@ -61,7 +61,7 @@ AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotc
 ## 参与治理
 我激动了！ 那么我如何参加AavegotchiDAO？ 朋友，我们为你准备好了!！
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+首先，您可以参加 [AavegotchiDAO 论坛](https://dao.aavegotchi.com/) 的讨论。 我们欢迎大家！
 
 Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
