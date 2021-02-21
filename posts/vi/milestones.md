@@ -16,16 +16,15 @@ contributors:
 * On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 <p></p>
 
-## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Why did Aavegotchi chose Polygon as a Layer 2 solution? Get the scoop here! Article posted on 16 February 2021.
+## [Lý do Aavegotchi chọn Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
+* Aavegotchi dùng Matic làm giải pháp Layer 2? Get the scoop here! Article posted on 16 February 2021.
 <p></p>
 
-## [Monthly GHST purchase program & new LP token vote](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
-* Last month, the AavegotchiDAO concluded a successful proposal to increase the tap emission from 100,000 DAI per month to 150,000 DAI per month, with the understanding that the extra 50,000 DAI would be used by Pixelcraft Studios (the lead developers of Aavegotchi) to purchase GHST from the curve.
-* Starting this month, Pixelcraft Studios will begin purchasing GHST from the Ethereum mainnet bonding curve!
-* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Come and cast your votes fam!
-* Article published on 8 February 2021.
-<p></p>
+## [Chưa trình mua lại GHST& vote cho token LP mới](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
+* Vào tháng trước, AavegotchiDAO đã tổng kết thành công một bản kiến nghị về việc tăng lượng tiền nhã ra từ 100k DAI mỗi tháng lên 150k DAI mỗi tháng, 50k DAI cộng thêm được Pixelcraft Studios (những người phát triển Aavegotchi) dùng để mua lại GHST từ trong curve.
+* Bắt đầu từ tháng này, Pixelcraft Studios sẽ bắt đầu mua lại GHST từ bonding curve trên Ethereum Mainnet!
+* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Hãy cùng đến vote nhé cả nhà!
+* Bài viết được đăng vào ngày 8 tháng Hai năm 2021.<p></p>
 
 ## [Đợi đã! Cái gì cơ?! Các marketplace (thị trường trao đổi) dành cho Aavegotchi sao](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
 * Vào ngày 2 Tháng Hai 2021, team đã thông báo về việc Aavegotchi Marketplace chính chủ (Aavegotchi Baazaar) sẽ được triển khai chung với Portals và Wearables khi game khởi chạy chính thức vào tháng Hai!
@@ -232,26 +231,26 @@ contributors:
 <p></p>
 
 ## [Private sale được bánnnnnnn sạchhhhhhh!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+* Private sale được bán sạch vào ngày 20 Tháng Tám năm 2020
+* [Telegram chat!](https://t.me/aavegotchi) của Aavegotchi được triển khai
+* [Whitepaper Chính Thức](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view) được công bố
 <p></p>
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Các Aapprentices tham gia vào cuộc chơi!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* Vào ngày 13 Tháng Tám năm 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph và Unintelligent_nerd đã tham gia đội Aavegotchi Aapprentices!
+* Aavegotchi Aagents hùng mạnh với 120 thành viên!
 <p></p>
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown tham gia vào team vào Aavegotchi Mission được triển khai](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Vào ngày 29 Tháng Bảy năm 2020, JC Crown đã tham gia vào team Aavegotchi!
+* Aavegotchi Mission được triển khai cùng ngày!
 <p></p>
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge tham gia vào team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge tham gia vào ngày 22 Tháng Bảy năm 2020
 <p></p>
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [Bài đăng đầu tiên của Aavegotchi trên Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Vào ngày 14 Tháng Bảy năm 2020, sự kiện Aavegotchi đầu tiên đã được đăng tải trên Medium!
+* Xibot đã tham gia vào team!
 <p></p>
