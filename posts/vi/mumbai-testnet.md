@@ -49,20 +49,20 @@ Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". Giờ bạn đan
 
 ## Nhận token từ Faucet của Testnet Mumbai
 
-1). Head over to the Mumbai Faucet at [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Truy cập vào Mumbai Faucet tại [https://faucet.matic.network/](https://faucet.matic.network/).
 
-2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
+2). Chọn token mà bạn muốn có từ faucet (ví dụ như token MATIC), chọn Network mặc định (Mumbai), và nhập địa chỉ trên Metamask của bạn vào ô trống.
 
-3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
+3). Nhấp vào nút "Submit" và đợi đến khi token được chuyển vào ví.
 
 ## Nhận GHST trên Mumbai
 
-Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
+Một khi bạn đã có trong tay vài đồng token MATIC từ Mumbai Faucet thì giờ đã có thể mua một ít Mumbai GHST rồi!
 
-1). Head over to [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
+1). Truy cập vào [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
 
-2). Connect to the Mumbai Testnet.
+2). Kết nối với Mumbai Testnet.
 
-3). Use the Mumbai MATIC tokens you have received to purchase Mumbai GHST by clicking the "Click to get MUMBAI GHST" button. Presto! Xong rồi bạn êi!
+3). Dùng token MATIC trên Mumbai mà bạn nhận được để mua Mumbai GHST bằng cách nhấp vào nút "Click to get MUMBAI GHST". Presto! Xong rồi bạn êi!
 
-Have fun at the [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) fren!
+Chúc bạn trải nghiệm vui vẻ tại [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) nhé!
