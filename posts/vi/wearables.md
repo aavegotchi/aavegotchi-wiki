@@ -50,7 +50,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#vacation-wearables-set>Bộ Trang Phục Chủ Đề Vacation</a></li>
 <li><a href=#independent-drink-items>Vật Phẩm Đồ Uống Độc Lập</a></li>
 <li><a href=#independent-head-items>Vật Phẩm Dành Cho Phần Đầu Độc Lập</a></li>
-<li><a href=#independent-body-items>Independent Body Items</a></li>
+<li><a href=#independent-body-items>Vật Phẩm Độc Lập Cho Phần Thân</a></li>
 </ol>
 
 </div>
@@ -176,6 +176,6 @@ table_independentDrinksTable
 
 table_independentHeadTable
 
-## Independent Body Items
+## Vật Phẩm Độc Lập Cho Phần Thân
 
 table_independentBodyTable
