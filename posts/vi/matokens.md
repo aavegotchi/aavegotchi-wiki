@@ -34,7 +34,7 @@ Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước �
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
+Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
