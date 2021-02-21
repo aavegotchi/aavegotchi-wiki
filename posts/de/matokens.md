@@ -34,7 +34,7 @@ First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on th
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Als nächstes klickst du auf das Token-Bild (unten rot eingekreist), um ein Dropdown-Menü mit Tokens zu öffnen. Im Moment werden nur drei aTokens unterstützt: (1) aUSDC, (2) aDAI, und (3) aWETH.
+Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
