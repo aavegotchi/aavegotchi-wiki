@@ -66,7 +66,8 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-					["Handsaw", `<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`]
+					["Handsaw", `<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`],
+					["Track Suit", `<img src="/wearables/final wearables/125_TrackSuitFull.svg" alt = "aavegotchi Track Suit"/>`]
                 ]
             }
         },

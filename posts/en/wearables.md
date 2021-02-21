@@ -49,6 +49,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
 <li><a href=#independent-drink-items>Independent Drink Items</a></li>
 <li><a href=#independent-head-items>Independent Head Items</a></li>
+<li><a href=#independent-body-items>Independent Body Items</a></li>
 </ol>
 
 </div>
@@ -173,3 +174,7 @@ table_independentDrinksTable
 ## Independent Head Items
 
 table_independentHeadTable
+
+## Independent Body Items
+
+table_independentBodyTable

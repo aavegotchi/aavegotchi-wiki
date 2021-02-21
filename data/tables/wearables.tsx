@@ -358,6 +358,17 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "independentBodyTable",
+            tableCaption: "Independent Body Items",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+				    [`<img src="/wearables/final wearables/125_TrackSuitFull.svg" alt = "aavegotchi Track Suit"/>`, "125", "Track Suit", "Legendary", "NRG +2, AGG +2", "125", "body"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
