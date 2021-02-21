@@ -8,22 +8,22 @@ contributors:
 ---
 
 
-## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
+## [Quỹ Thanh Khoản GHST-USDC đã lên sóng!](https://twitter.com/aavegotchi/status/1362423023656001537)
+* Quỹ thanh khoản GHST-USDC được triển khai vào ngày 18 tháng Hai năm 2021. Giờ bạn đã có thể kiếm FRENs từ quỹ mới này!
 <p></p>
 
-## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+## [Quỹ AavegotchiDAO đã chạm mốc 100k!](https://twitter.com/aavegotchi/status/1361690024958300170)
+* Vào ngày 16 tháng Hai năm 2021, Ngân Quỹ AavegotchiDAO đã chạm mốc 100k DAI. AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi Bonding Curve ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 <p></p>
 
 ## [Lý do Aavegotchi chọn Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Aavegotchi dùng Matic làm giải pháp Layer 2? Get the scoop here! Article posted on 16 February 2021.
+* Aavegotchi dùng Matic làm giải pháp Layer 2? Vào đây để tìm hiểu sâu hơn nhé! Bài viết được đăng vào ngày 16 tháng Hai năm 2021.
 <p></p>
 
 ## [Chưa trình mua lại GHST& vote cho token LP mới](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
 * Vào tháng trước, AavegotchiDAO đã tổng kết thành công một bản kiến nghị về việc tăng lượng tiền nhã ra từ 100k DAI mỗi tháng lên 150k DAI mỗi tháng, 50k DAI cộng thêm được Pixelcraft Studios (những người phát triển Aavegotchi) dùng để mua lại GHST từ trong curve.
 * Bắt đầu từ tháng này, Pixelcraft Studios sẽ bắt đầu mua lại GHST từ bonding curve trên Ethereum Mainnet!
-* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Hãy cùng đến vote nhé cả nhà!
+* Vote trên Snapshot để token LP GHST-USDC có thể dùng để kiếm FRENS! Hãy cùng đến vote nhé cả nhà!
 * Bài viết được đăng vào ngày 8 tháng Hai năm 2021.<p></p>
 
 ## [Đợi đã! Cái gì cơ?! Các marketplace (thị trường trao đổi) dành cho Aavegotchi sao](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
