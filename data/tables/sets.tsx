@@ -18,7 +18,8 @@ export const tables
             tableData: {
                 headers: ["Set", "Item 1", "Item 2", "Item 3", "Item 4", "Item 5", "Set Bonus"],
                 data: [ 
-					["Infantry", "Camo Hat", "Camo Pants", "MK2 Grenade", "-", "-", "BRS +1, AGG +1"],
+					["Infantry", `<img src="/wearables/link/camo-cap.svg" alt = "aavegotchi chainlink camo cap"/>`, `<img src="/wearables/link/camo-pants.svg" alt = "aavegotchi chainlink camo pants" />`, 
+					`<img src="/wearables/link/mk2-grenade.svg" alt = "aavegotchi chainlink mk2 grenade" />`, "-", "-", "BRS +1, AGG +1"],
 					["Trooper", "Snow Camo Hat", "Snow Camo Pants", "M67 Grenade", "-", "-", "BRS +2, AGG +1"],
 					["Sergeant", "Marine Cap", "Marine Jacket", "Walkie Talkie", "-", "-", "BRS +3, AGG +2"],
 					["General", "Link White Hat", "Mess Dress", "Link Bubbly", "-", "-", "BRS +4, AGG +2"],
