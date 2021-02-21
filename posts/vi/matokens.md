@@ -62,5 +62,5 @@ Bước tiếp theo là mua một [portal](/portals) bằng [GHST](/ghst). Porta
 
 ## Tìm hiểu thêm
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
+* [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên trên Polygon và biến nó thành maToken
 * Nick Mudge giải thích sâu hơn về[đặc tính kỹ thuật của maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
