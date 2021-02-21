@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on Polygon? Tất nhiên là cùng lý do việc sở hữu maToken rổi!
+Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Polygon? Tất nhiên là cùng lý do việc sở hữu maToken rồi!
 
 Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
 
@@ -30,7 +30,7 @@ Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước �
 
 ## Chuyển đổi aToken thành maToken
 
-First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
+Đầu tiên, hãy truy cập vào [Bridge to Polygon](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
@@ -38,17 +38,17 @@ Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
+Sau khi chọn xong token, nhập vào lượng tài sản mà bạn muốn chuyển đến Polygon. Hãy lấy aUSDC là ví dụ, nhập số lượng token mà bạn muốn chuyển sang Polygon vào ô được đánh dấu màu đỏ.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
 Một khi bạn đã nhập số lượng token mà bạn muốn rồi thì hãy nhấn vào nút "Approve Transfer.". Đợi đến khi giao dịch được chấp thuận trên Ethereum.
 
-After the Approve transaction goes through, click the "Transfer to Polygon" button. Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
+Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Polygon". Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
 
 Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
 
-If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
+Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Polygon trên ví đó, hãy xem qua [Bài hướng dẫn về Polygon](/polygon) và thực hiện theo từng bước từng bước một.
 
 ## Stake maToken vào Aavegotchi
 
