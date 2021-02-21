@@ -28,10 +28,10 @@ Aavegotchi效仿Compound和Synthetix等成功的DeFi协议，遵循 "逐步去�
 <li><a href=#metamorphosis>蜕变</a></li>
 <li><a href=#oasis>绿洲</a></li>
 <li><a href=#participating-in-governance>参与治理</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAO 论坛</a></li>
+<li><a href=#voting>投票</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi改进建议(AGIPs)</a></li>
+<li><a href=#treasury>国库</a></li>
 </ol>
 
 </div>
@@ -67,7 +67,7 @@ Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) d
 
 More details will be fleshed out once the game releases!
 
-## AavegotchiDAO Forum
+## AavegotchiDAO 论坛
 
 The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
@@ -75,7 +75,7 @@ We hope that #GotchiGang can become a model for DAO-owned games in the future, s
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
 
-## Voting
+## 投票
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -133,7 +133,7 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Treasury
+## 国库
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
 
