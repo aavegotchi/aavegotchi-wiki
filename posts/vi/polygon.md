@@ -2,14 +2,14 @@
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
 title: 'Polygon'
-description: 'Polygon Tutorial'
+description: 'Hướng dẫn sử dụng Polygon'
 contributors:
   - "moon14888"
 ---
 
-Chào mấy fen! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Đừng lo, bọn mình sẽ giúp bạn vượt qua từng bước một!
+Chào mấy fen! Bạn đã nghe đến việc dịch chuyển đến Polygon (trước đây là Matic) đúng không, những bạn có biết rõ ràng nó là gì chưa nhỉ? Đừng lo, bọn mình sẽ giúp bạn vượt qua từng bước một!
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. Nó là một nền tảng phi tập trung giúp đảm bảo các giao dịch trở nên nhanh hơn và phí giao dịch sẽ cực kỳ rẻ với khả năng hoàn thành ngay trên chuỗi. Nếu bạn muốn có thêm nhiều thông tin, hãy xem qua [bài viết này](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
+Nói một cách ngắn gọn, Polygon là giải pháp mở rộng Layer 2 của những blockchain công khai trên Ethereum. Nó là một nền tảng phi tập trung giúp đảm bảo các giao dịch trở nên nhanh hơn và phí giao dịch sẽ cực kỳ rẻ với khả năng hoàn thành ngay trên chuỗi. Nếu bạn muốn có thêm nhiều thông tin, hãy xem qua [bài viết này](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
 Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Uniswap và cùng chào đón những tương tác (gần như miễn phí) trên ngôi nhà mới nhé!
 
@@ -18,23 +18,23 @@ Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Un
 **Nội dung**
 
 <ol>
-<li><a href=#why-polygon->Why Polygon?</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Adding Polygon to your Metamask</a></li>
-<li><a href=#bridging-assets-to-polygon>Bridging assets to Polygon</a></li>
+<li><a href=#why-polygon->Tại sao lại dùng Polygon?</a></li>
+<li><a href=#adding-polygon-to-your-metamask>Thêm Polygon vào Metamask</a></li>
+<li><a href=#bridging-assets-to-polygon>Kết nối tài sản đến Polygon</a></li>
 <li><a href=#bridging-assets-back-to-ethereum-mainnet>Chuyển tài sản về lại Ethereum Mainnet</a></li>
 </ol>
 
 </div>
 
-## Why Polygon?
+## Tại sao lại dùng Polygon?
 
 Aavegotchi Mainnet xém tí được triển khai vào ngày 4 tháng Giêng 2021 rồi đấy. Ngày hôm đó Bitcoin tăng gần 40%, khiến cho mấy con bot kiếm lợi nhuận chênh lệch bị loạn mạch chủ. Đều này khiến cho giá gas tăng phi mã lên 400 gwei, khiến phí giao dịch nhìn mà mắc hờn. Để mình lấy một ví dụ cho bạn dễ hiểu: Chi phí để mở và triệu hồi Gotchi từ duy nhất 1 [portal](/portals) sẽ ngốn của bạn ít nhất 300 đô la.
 
-Rõ ràng là game có thể được khởi chạy trên Mainnet của Ethereum. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+Rõ ràng là game có thể được khởi chạy trên Mainnet của Ethereum. Nhưng bởi Polygon đang làm việc cùng với những dự án NFT khác (ví dụ như Opensea) rồi nên lựa chọn này cũng dễ hiểu. Cộng đồng đã thể hiện quan điểm của mình và 76% trong số họ đã bỏ phiếu để game được triển khai trên Polygon.
 
-## Adding Polygon to your Metamask
+## Thêm Polygon vào Metamask
 
-Hãy cùng nhau bắt đầu cuộc vui nhé! To use Polygon, you first need to add it to your Metamask wallet.
+Hãy cùng nhau bắt đầu cuộc vui nhé! Để dùng Polygon, việc đầu tiên bạn cần làm là kết nối với ví Metamask.
 
 1). Mở Metamask ra rồi nhấp vào nút "Ethereum Mainnet" trên đỉnh.
 
@@ -58,10 +58,10 @@ Block Explorer URL (tuỳ chọn): https://explorer.matic.network/
 
 Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 
-4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! Giờ bạn có thể chuyển đổi qua lại giữa Ethereum Mainnet và Polygon bằng cách nhấp vào nút vừa nhắc trong bước 1.
 
-## Bridging assets to Polygon
-Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồi đấy. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. Nếu bạn chỉ muốn chuyển GHST, thì hãy bỏ qua những bước sau đây và chỉ nên dùng Aavegotchi Bridge[tại đây](https://aavegotchi.com/bridge).
+## Kết nối tài sản đến Polygon
+Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồi đấy. Nhưng trước tiên bạn cần có một ít tài sản trên Polygon. Bọn mình sẽ dùng Cổng Chuyển Đổi [Proof of Stake (PoS)](/glossary#proof-of-stake) của Polygon để chuyển tài sản từ Ethereum Mainnet sang Polygon. Nếu bạn chỉ muốn chuyển GHST, thì hãy bỏ qua những bước sau đây và chỉ nên dùng Aavegotchi Bridge[tại đây](https://aavegotchi.com/bridge).
 
 Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc USDC, đây là cách thực hiện nè:
 
@@ -85,7 +85,7 @@ Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc U
 
 <img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Gửi Token vào Matic Wallet" />
 
-Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. It can take up to 10 minutes for the tokens to arrive in your Polygon address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on Polygon. (That’s enough for 1000s of transactions, Polygon is aavesome!)
+Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Polygon của bạn. Bạn có thể được airdrop 0.1 MATIC nếu bạn chuyển một stablecoin vào tài khoản và yêu cầu [Quickswap](https://quickswap.exchange/), DEX lớn nhất trên MATIC, chuyển MATIC cho bạn. (Nhiêu đó thôi là đã đủ để chuyển hơn 1000 giao dịch rồi, Matic thật toẹt vời ông mặt trời mà!)
 
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
@@ -95,12 +95,12 @@ Vậy thì làm thế nào để chuyển tài sản về lại Ethereum Mainnet
 
 Có chứ, có một cách giúp bạn có thể chuyển tài sản trở lại Ethereum Mainnet!
 
-Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge)lại nhé.
+Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge) lại nhé.
 
 <img class = "bodyImage" src = "/polygon/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
 
 Ở bên tay phải của màn hình, có hình ảnh của một đồng token cũng như một ô để bạn có thể nhập số lượng vào đó. Nhấp vào ảnh của token và một bảng danh sách token sẽ xuất hiện. Hãy chọn [maToken](/matokens) mà bạn muốn chuyển lại Mainnet của Ethereum. Sau đó, hãy nhập vào lượng token mà bạn muốn chuyển vào đó và nhấp vào nút "Transfer to Ethereum.".
 
-Withdrawing from Polygon takes approximately 30 minutes. Có lúc sẽ lâu hơn. Sau khi rút tiền thành công, bạn vẫn sẽ phải nhấp vào nút "CLAIM ON ETHEREUM" để nhận lại token trên Ethereum Mainnet.
+Việc rút tiền từ Polygon sẽ mất khoảng 30 phút. Có lúc sẽ lâu hơn. Sau khi rút tiền thành công, bạn vẫn sẽ phải nhấp vào nút "CLAIM ON ETHEREUM" để nhận lại token trên Ethereum Mainnet.
 
-Currently, the Aavegotchi Bridge supports the transfer of maTokens from Polygon to Ethereum Mainnet. Trong tương lai, nó sẽ hỗ trợ chuyển các Aaevegotchi (ERC-721) và cũng như Trang phục (ERC-1155).
+Trong hiện tại, Aavegotchi Bridge hỗ trợ chuyển maToken từ Polygon về Ethereum Mainnet. Trong tương lai, nó sẽ hỗ trợ chuyển các Aaevegotchi (ERC-721) và cũng như Trang phục (ERC-1155).
