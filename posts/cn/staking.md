@@ -41,36 +41,36 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 首先，你需要拿到一些GHST令牌。 我们的 [GHST 令牌页面](/posts/ghst) 涵盖了您可以获得一些东西的各种方式。
 
 ## 如何质押
-Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
+首先，你需要一些GHST代币来质押。 在Polygon（前Matic网络）上进行押注。
 
-There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
+有两种方式进行质押。(1) 直接质押GHST代币，和/或 (2) 质押QuickSwap LP代币。
 
-**Important: Staking on Mainnet has been discontinued!**
+**重要事项：Mainnet上的质押已经停止了!**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*注意：预售的GHST代币在解锁前不能进行质押。*
 
-### Staking GHST tokens directly
+### 直接质押GHST代币
 
-First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+首先，你必须将你的GHST代币从Ethereum Mainnet转移到Polygon，这是一个二层解决方案。
 
-This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
+通过使用 [嫁接到Polygon界面](https://aavegotchi.com/bridge) 来完成的。 首先允许合约调用你的GHST 代币。 一旦该交易通过了，请输入您想要转账到Polygon的GHST金额。 一旦您的交易在Ethereum上确认，您的余额大约需要7-8分钟到账Polygon地址。 您的余额将自动更新。 请耐心等待
 
-Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
+接下来，您必须配置您的Metamask来显示您的钱包余额。 请参考这篇[Polygon指南](/polygon) ，了解如何将Metamask钱包配置到Polygon上的详细说明。
 
-Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. 恭喜你!  你现在完成了!
+将你的Metamask连接到Polygon，然后前往Aavegotchi DApp上的[Polygon 质押](https://aavegotchi.com/stake-polygon) 页面。 允许合约在Polygon上调用你的GHST代币。 一旦交易通过，输入你想存入的GHST金额。 恭喜你!  你现在完成了!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*以这种方式每存入1个GHST，您就会收到1个FRENS/天。*
 
-### Staking QuickSwap LP tokens
+### 质押QuickSwap LP代币
 
-Currently, there are only 2 QuickSwap LP tokens that could be staked for FRENS:
+目前，只有2个QuickSwap LP代币可以获得FRENS。
 
-* QuickSwap GHST-QUICK LP token
-* QuickSwap GHST-USDC LP token
+* QuickSwap GHST-QUICK LP代币。
+* QuickSwap GHST-USDC LP代币
 
-The first step involves transferring funds from Ethereum Mainnet to Polygon, a layer 2 solution.
+第一步涉及将资金从Ethereum Mainnet转移到Polygon，这是一个2层解决方案。
 
-Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+请参考这篇[Polygon指南](/polygon) ，了解如何将Metamask钱包配置到Polygon上的详细说明。 Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
 
 Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
