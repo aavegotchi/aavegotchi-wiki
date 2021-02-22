@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-Was bekommst du, wenn du diese verzinslichen aTokens nimmst und sie auf das Matic Network überträgst? Natürlich bekommst du maTokens!
+What do you get when you take those interest-bearing aTokens and put them on Polygon? Natürlich bekommst du maTokens!
 
 Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir uns einige aTokens besorgt. Jetzt sind wir daran interessiert, sie in maTokens umzuwandeln und sie als Sicherheit zu benutzen, um unsere Aavegotchis zu beschwören!
 
@@ -30,25 +30,25 @@ Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir
 
 ## Konvertieren von aTokens zu maTokens
 
-Gehe zuerst auf die [Brücke zu Matic](https://aavegotchi.com/bridge) in der Aavegotchi dApp.
+First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Als nächstes klickst du auf das Token-Bild (unten rot eingekreist), um ein Dropdown-Menü mit Tokens zu öffnen. Im Moment werden nur drei aTokens unterstützt: (1) aUSDC, (2) aDAI, und (3) aWETH.
+Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-Nachdem du den Token ausgewählt hast, gibst du den Betrag ein, den du auf Matic überweisen möchtest. Nehmen wir aUSDC als Beispiel: Gib in das rot markierte Feld den Betrag ein, den du auf das Matic Network übertragen möchtest.
+After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
 Sobald du den gewünschten Betrag eingegeben hast, klicke auf die Schaltfläche "Approve Transfer". Warte darauf, dass die Transaktion auf Ethereum durchgeführt wird.
 
-Nachdem die Transaktion genehmigt wurde, klicke auf die Schaltfläche "Transfer to Matic". Warte darauf, dass diese Transaktion auch auf Ethereum durchgeführt wird.
+After the Approve transaction goes through, click the "Transfer to Polygon" button. Warte darauf, dass diese Transaktion auch auf Ethereum durchgeführt wird.
 
 Nachdem du das getan hast, warte etwa 10 Minuten, bis deine maTokens in deiner Wallet erscheinen.
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
+If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Aavegotchis mit maTokens besichern
 
@@ -62,5 +62,5 @@ Für eine detailliertere Erklärung des Öffnungsprozesses eines Portals, besuch
 
 ## Weitere Informationen
 
-* [Twitter Thread](https://twitter.com/mudgen/status/1352399348219445250) von [Nick Mudge](/team#nick-mudge) über seine erfolgreiche Migration von aTokens auf Matic Network als maTokens
+* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
 * Nick Mudge taucht ein in die [Technischen Details des maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)

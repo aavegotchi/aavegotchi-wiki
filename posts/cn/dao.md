@@ -28,10 +28,10 @@ Aavegotchi效仿Compound和Synthetix等成功的DeFi协议，遵循 "逐步去�
 <li><a href=#metamorphosis>蜕变</a></li>
 <li><a href=#oasis>绿洲</a></li>
 <li><a href=#participating-in-governance>参与治理</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAO 论坛</a></li>
+<li><a href=#voting>投票</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi改进建议(AGIPs)</a></li>
+<li><a href=#treasury>国库</a></li>
 </ol>
 
 </div>
@@ -61,13 +61,13 @@ AavegotchiDAO 在这个阶段可以执行的全部操作列表，可在 Aavegotc
 ## 参与治理
 我激动了！ 那么我如何参加AavegotchiDAO？ 朋友，我们为你准备好了!！
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+首先，您可以参加 [AavegotchiDAO 论坛](https://dao.aavegotchi.com/) 的讨论。 我们欢迎大家！
 
 Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 More details will be fleshed out once the game releases!
 
-## AavegotchiDAO Forum
+## AavegotchiDAO 论坛
 
 The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
@@ -75,7 +75,7 @@ We hope that #GotchiGang can become a model for DAO-owned games in the future, s
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
 
-## Voting
+## 投票
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -133,7 +133,7 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Treasury
+## 国库
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
 

@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Matic Network? Tất nhiên là cùng lý do việc sở hữu maToken rổi!
+Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Polygon? Tất nhiên là cùng lý do việc sở hữu maToken rồi!
 
 Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
 
@@ -30,21 +30,21 @@ Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước �
 
 ## Chuyển đổi aToken thành maToken
 
-Đầu tiên, hãy truy cập vào [Bridge to Matic](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
+Đầu tiên, hãy truy cập vào [Bridge to Polygon](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token. Hiện tại mới chỉ có ba aToken được hỗ trợ bao gồm: (1) aUSDC, (2) aDAI, và (3) aWETH.
+Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-Sau khi chọn xong token, nhập vào lượng tài sản mà bạn muốn chuyển đến Matic. Hãy lấy aUSDC là ví dụ, nhập số lượng token mà bạn muốn chuyển sang Matic Network vào ô được đánh dấu màu đỏ.
+Sau khi chọn xong token, nhập vào lượng tài sản mà bạn muốn chuyển đến Polygon. Hãy lấy aUSDC là ví dụ, nhập số lượng token mà bạn muốn chuyển sang Polygon vào ô được đánh dấu màu đỏ.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
 Một khi bạn đã nhập số lượng token mà bạn muốn rồi thì hãy nhấn vào nút "Approve Transfer.". Đợi đến khi giao dịch được chấp thuận trên Ethereum.
 
-Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Matic". Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
+Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Polygon". Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
 
 Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
 
@@ -62,5 +62,5 @@ Bước tiếp theo là mua một [portal](/portals) bằng [GHST](/ghst). Porta
 
 ## Tìm hiểu thêm
 
-* [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên tren Matic Network và biến nó thành maToken
+* [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên trên Polygon và biến nó thành maToken
 * Nick Mudge giải thích sâu hơn về[đặc tính kỹ thuật của maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)

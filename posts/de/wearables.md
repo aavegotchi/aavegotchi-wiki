@@ -50,6 +50,7 @@ Für Informationen über **Kleidungsstück-Sets**, schau dir diese [Seite](/sets
 <li><a href=#vacation-wearables-set>Urlaubs Set</a></li>
 <li><a href=#independent-drink-items>Unabhängige Getränke-Items</a></li>
 <li><a href=#independent-head-items>Unabhängige Kopf-Items</a></li>
+<li><a href=#independent-body-items>Independent Body Items</a></li>
 </ol>
 
 </div>
@@ -174,3 +175,7 @@ table_independentDrinksTable
 ## Unabhängige Kopf-Items
 
 table_independentHeadTable
+
+## Independent Body Items
+
+table_independentBodyTable

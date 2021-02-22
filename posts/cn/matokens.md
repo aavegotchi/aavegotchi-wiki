@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-当你拿走那些本身享有利息的 aTokens 并将它们转移到Matic Network时，你会得到什么？ 为什么你会得到matoken，当然！
+What do you get when you take those interest-bearing aTokens and put them on Polygon? 为什么你会得到matoken，当然！
 
 此页面是 [aTokens](/atokens) 页面的延续。 之前，我们已经获得了一些aTokens。 现在，我们将会把他们转换成maTokens，然后用他们作为抵押品去召唤Aavegotchi frens！
 
@@ -30,25 +30,25 @@ contributors:
 
 ## 将aTokens转化成maTokens
 
-首先，前往在Aavegotchi DApp上点击  [嫁接到Matic](https://aavegotchi.com/bridge)。
+First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-接下来，点击代币图片（下方红色圆圈），打开代币的下拉菜单。 目前，暂且只支持三种aToken。(1) aUSDC、(2) aDAI和(3) aWETH。
+Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-选择代币后，输入您要转入Matic的金额。 以aUSDC为例，在高亮的红色框中输入您想转入Matic网络的金额。
+After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
 输入所需金额后，点击 "Approve Transfer批准转账 "按钮。 等待交易在以太坊通过。
 
-审批交易完成后，点击"传输到Matic"按钮。 等待交易在以太坊通过。
+After the Approve transaction goes through, click the "Transfer to Polygon" button. 等待交易在以太坊通过。
 
 上述操作之后，你的 matokens 将在10分钟左右之后出现在你的钱包。
 
-If you are using Metamask and would like to learn how to configure Matic Network on it, do check out the [Matic Guide](/polygon) for step-by-step instructions as to how to do so.
+If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## 将 maTokens 质押到Aavegotchis
 
@@ -62,5 +62,5 @@ If you are using Metamask and would like to learn how to configure Matic Network
 
 ## 了解更多资讯
 
-* [Nick Mudge](/team#nick-mudge) 在[Twitter ](https://twitter.com/mudgen/status/1352399348219445250)  上发表了关于他在Matic网络上成功部署aTokens作为maTokens的帖子。
+* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
 * Nick Mudge 深入探讨了 [maTokens 的技术细节](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
