@@ -86,6 +86,6 @@ aТокены классифицируются двумя категориями
 
 ## Конвертация аТокенов в маТокены
 
-Got your aTokens? Good!
+У вас уже есть аТокены? Отлично!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+Погнали на страницу [маТокены](/matokens) для шага 2!
