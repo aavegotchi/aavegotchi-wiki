@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+description: '关于Aavegotchi 可穿戴设备的一切信息'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -14,11 +14,11 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有农业](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
+可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有度挖矿](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
 
 此页包含了Aavegotchi游戏中已经确认的每个可穿戴衣服的详细信息。
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
+可穿戴设备的设计是由[Xibot](/team#xibot) 和我们的[社区美术师团队](/aartist)完成的。
 
 For information on **Wearable Sets**, check out this [page](/sets)!
 
