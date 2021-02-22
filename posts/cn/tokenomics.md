@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+description: 'Aavegotchi GHST 代币的经济模型'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">GHST 什么时候5美元???</p>
 </div>
 
-代币学？ 谁关心？ 什么时候到月球？？？
+代币经济？ 谁关心？ 什么时候起飞？？？
 
 我们是这样做的，你也应该如此。 如果您打算投资GHST之类的项目（或与此相关的任何项目），那么了解更广泛的生态系统的工作方式非常重要。 归根结底，我们大家都能以我们的狂热赢得胜利。
 
