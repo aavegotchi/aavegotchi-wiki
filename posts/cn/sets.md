@@ -27,10 +27,10 @@ Get ready a fat stack of GHST! You will need them!
 ## Key
 
 * BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = 侵略性
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG = 攻击值
+* NRG = 能量值
+* SPK = 活力值
+* BRN = 脑力值
 
 ## Wearable Sets
 
