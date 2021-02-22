@@ -16,7 +16,7 @@ contributors:
 
 Изогнутая кривая токенов (token bonding curve или TBC) — это математическая кривая, определяющая соотношение между ценой токенов и их предложением.
 
-В стандартной TBC цена токенов увеличивается по мере роста предложения. В стандартной TBC цена токенов увеличивается по мере роста предложения и снижается по мере уменьшения предложения. As the Aavegotchi Bonding Curve was launched through an  [Aragon](/glossary#aragon) [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico), this article discusses DAICOs as well.
+В стандартной TBC цена токенов увеличивается по мере роста предложения. В стандартной TBC цена токенов увеличивается по мере роста предложения и снижается по мере уменьшения предложения. Поскольку Изогнутая Кривая Aavegotchi была запущена через [децентрализованное автономное первоначальное предложение монет (DAICO)](/glossary#daico) на платформе [Aragon](/glossary#aragon), в этой статье также обсуждаются DAICO.
 
 <div class="contentsBox">
 
