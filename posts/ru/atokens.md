@@ -15,9 +15,9 @@ contributors:
 
 аТокен — приносящий процентный доход токен платформы [Aave Protocol](https://aave.com). При внесении депозита происходит эмиссия, а при снятии средств — его сжигание. Токены aTokens привязаны 1:1 к цене базового актива, депонированного в протоколе Aave Protocol. Ими можно распоряжаться по своему усмотрению — хранить, передавать и обменивать. Читайте [Aave FAQ](https://docs.aave.com/faq/), чтобы узнать больше об экосистеме Aave Protocol.
 
-Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [portal](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
+Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [Портал](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
 
-When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens.
+Когда Aavegotchi переместится из главной сети Ethereum в [Matic Network](/glossary#matic-network), аТокены также должны быть перемещены в эту сеть. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. аТокены в сети Matic Network называются маТокенами.
 
 From a gamer's standpoint, playing Aavegotchi involves:
 
