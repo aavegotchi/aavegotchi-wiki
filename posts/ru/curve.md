@@ -45,7 +45,7 @@ contributors:
 
 Изогнутые кривые бывают разных форм и размеров. Для проекта Aavegotchi команда приняла Формулу Bancor:
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "изогнутая кривая токена" width = "750" />
 
 ### ОБЪЯСНЕНИЕ ФОРМУЛЫ
 
@@ -92,14 +92,14 @@ contributors:
 Инфляция токенов GHST за счет чистых покупок на кривой связывания положительно коррелирует с ценой GHST. **Кривая связывания была математически запрограммирована для увеличения цены GHST по мере увеличения циркулирующего предложения GHST.**
 
 ## Арбитраж
-Пользователи, которые прошли KYC, смогут арбитражить разницу в цене GHST между кривой связывания токенов и другими DEX, такими как Uniswap и Balancer. Согласно [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Арбитраж — это покупка и продажа актива с целью получения прибыли от разницы в цене актива на разных рынках. Это сделка, которая приносит прибыль за счет использования разницы в цене идентичных или аналогичных финансовых инструментов на разных рынках или в иных формах. Арбитраж существует в результате неэффективности рынка, и поэтому не существовал бы, если бы все рынки были совершенно эффективными." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Пользователи, которые прошли KYC, смогут арбитражить разницу в цене GHST между кривой связывания токенов и другими DEX, такими как Uniswap и Balancer. Согласно [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Арбитраж — это покупка и продажа актива с целью получения прибыли от разницы в цене актива на разных рынках. Это сделка, которая приносит прибыль за счет использования разницы в цене идентичных или аналогичных финансовых инструментов на разных рынках или в иных формах. Арбитраж существует в результате неэффективности рынка, и поэтому не существовал бы, если бы все рынки были совершенно эффективными." Это возможно, поскольку DEX оснащены собственной формулой Automated Market Maker (AMM), и чистые действия по покупке/продаже токенов GHST на этих DEX приведут к ценам, отличным от кривой связывания токенов. Опытный инвестор может подумать об использовании такой неэффективности на рынке (*упс, спойлер*).
 
 ## Больше информации
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Про [Сбор средств через Арагон и изогнутые кривые!](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* Читайте больше [Объяснение Изогнутых кривых](https://yos.io/2018/11/10/bonding-curves/)
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* Статья [Объяснение кривых связывания](https://defiprime.com/bonding-curve-explained) от DeFi Prime.
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Статья Coin Telegraph о [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained).
