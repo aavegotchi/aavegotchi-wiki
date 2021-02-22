@@ -2,13 +2,13 @@
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+description: '关于Aavegotchi特征的一切！'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
 ---
 
-Aavegotchis是带着特征出生的。 就像你的特征如何定义你是什么人一样，Aavegotchi的特征对于确定他们作为幽灵的生计非常重要！ 这些他们拥有的多个特性影响他们的 [特性基础稀有](/rarity-farming#base-rarity-score)， 他们在小游戏中的性能， [穿戴着被允许穿戴的](/wearables) 从 [传送门传唤的 Aavegotchis](/portals) 是由随机生成的特性组合而生的。 然而，Aavegotchi的特性可以使用 <a href=#level>级别的</a>、设备的穿戴物件和消耗品而改变。 
+Aavegotchis是带着特征出生的。 就像你的特征如何定义你是什么人一样，Aavegotchi的特征对于确定他们作为幽灵的生计非常重要！ 这些他们拥有的多个特性影响他们的 [特征基础稀有度](/rarity-farming#base-rarity-score)， 他们在小游戏中的性能，以及 [可穿戴的设备](/wearables) 从 [传送门召唤的 Aavegotchis](/portals) 自出生，自带一系列随机生成的特性。 然而，Aavegotchi的特性可以根据 <a href=#level>等级</a>、可穿戴设备和消耗品而改变。 
 
 <div class="contentsBox">
 
@@ -27,14 +27,14 @@ Aavegotchis是带着特征出生的。 就像你的特征如何定义你是什�
 ## 随机生成的特征
 Aavegotchis有六个特征：
 
-* AGG = 侵略性
-* NRG = 能量
+* AGG = 攻击值
+* NRG = 能量值
 * SPK = 惊悚值
-* BRN = 大脑大小
+* BRN = 脑力值
 * EYS = 眼形状
 * EYC = 眼色
 
-使用 RPG (角色游戏) 术语， `AGG` 等于强度。 `NRG` 等于敏捷性 `BRN` 等于智能， `SPK` 是通配符。 请注意，这些特征与标准RPG并不完全相同。 Aavegotchi元节中的低特质值也非常强大！
+使用 RPG (角色游戏) 术语， `AGG` 等于强度。 `NRG` 等于敏捷性 `BRN` 等于智能， `SPK` 是通配符。 请注意，这些特征与标准RPG并不完全相同。其中一些低特质值在 Aavegotchi虚拟世界中也非常强大！
 
 特性是在打开 [传送门](/portals) 时确定的。 打开传送门时， [链路的 VRF 随机数字生成器函数](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 被调用来分配带有随机特性的Aavegotchis 。 这些特征值分布在钟形曲线上，并且根据其稀有性，为每个特征分配一个“共同”，“罕见”，“稀有”或“神话”值。 下表显示了获得每种性状稀有性的机会：
 
