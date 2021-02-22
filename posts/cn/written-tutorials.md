@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Written Tutorials'
-description: "Written Tutorials"
+description: "文字版教程"
 contributors:
   - "unintelligent-nerd"
 ---
@@ -30,4 +30,4 @@ contributors:
 需要帮助将您的aTokens转换为Polygon上的maTokens吗？ 请查看  [maTokens](/matokens)页面。
 
 ## Mumbai 测试网教程
-The Aavegotchi Baazaar is live on Mumbai Testnet. Wanna play with it but not sure how to connect to the Mumbai Testnet and where to go to get tokens? Check out our Mumbai Testnet Tutorial [here](/mumbai-testnet).
+Aavegotchi Baazaar已经在Mumbai Testnet上线了。 想玩，但不知道如何连接到Mumbai Testnet和去哪里获得代币？ 点击这里查看我们的 [Mumbai Testnet教程](/mumbai-testnet)。
