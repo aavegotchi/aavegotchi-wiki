@@ -35,7 +35,7 @@ contributors:
 
 ## Механика
 
-### Minting / Burning on demand
+### ВЫПУСК/СЖИГАНИЕ ПО ЗАПРОСУ
 
 Изогнутые кривые пользуются алгоритмом ценообразования, чтобы служить в качестве автоматического маркетмейкера и обеспечивать всегда доступный источник ликвидности. Пользователи могут взаимодействовать с кривой, размещая токены в ее резервном пуле. Когда они это делают, изогнутая кривая создает для пользователя соответствующие токены на основе алгоритма ценообразования. Только что выпущенные токены могут иметь определенную полезность и даже торговаться, но всегда могут быть обменены обратно через кривую на токены в ее резервном пуле.
 
@@ -78,21 +78,21 @@ contributors:
 Если вы не можете пройти KYC из-за своего гражданства, не волнуйтесь! **Вы по-прежнему сможете взаимодействовать с любой другой частью метавселенной Aavegotchi**.  Вам просто нужно приобрести GHST на DEX, например Uniswap или Balancer, или на CEX, например OKex. Узнайте, как получить токены GHST [здесь](/ghst#get-ghst).
 
 ## Aavegotchi DAICO
-Децентрализованное автономное первоначальное предложение монет (DAICO) — это новый метод сбора средств, который направлен на объединение лучших характеристик децентрализованной автономной организации (DAO) с функциями первоначального предложения монет (ICO). DAICO — это модель, согласно которой инвесторы имеют контроль над собранными средствами после завершения их сбора. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Децентрализованное автономное первоначальное предложение монет (DAICO) — это новый метод сбора средств, который направлен на объединение лучших характеристик децентрализованной автономной организации (DAO) с функциями первоначального предложения монет (ICO). DAICO — это модель, согласно которой инвесторы имеют контроль над собранными средствами после завершения их сбора. Инвесторы могут влиять на то, как разработчики получают доступ к фондам, с какой периодичностью. Кроме того, инвесторы могут проголосовать, чтобы отказаться от проекта и вернуть свои средства.
 
-The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
+Проект Aavegotchi запустил кривую связывания токенов через DAICO на платформе Aragon.
 
-**This is SAFU. Do. Not. Remove. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**ЭТО БЕЗОПАСНОСТЬ.   </0>Не. Убирайте.   Изогнутую. Кривую.** Это предостерегает инвесторов поскольку, в конечном итоге, они контролируют средства в рамках DAICO/кривой связывания!
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+Первая итерация [AavegotchiDAO](/dao) запущена в тандеме с распределением GHST на кривой связывания. Держатели GHST имели право голосовать за увеличение/поддержание средств, распределяемых с помощью механизма распределения резерва кривой связывания токенов (TBC) для Pixelcraft Studios (команда, стоящая за Aavegotchi) для поддержки разработки. Первое предложение AavegotchiDAO об увеличении вывода Aavegotchi DAICO с 50 000 DAI до 100 000 DAI в месяц было одобрено 99% 18 октября 2020 года.
 
 ## Динамика предложения токенов Aavegotchi
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors use their DAI to buy GHST from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. The reverse holds true as well. When users sell their GHST back into the bonding curve, they receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve.
+При обсуждении вышеупомянутой кривой связывания токенов/DAICO мы узнали, что общее предложение токенов GHST является динамическим. Когда инвесторы используют свой DAI для покупки GHST из кривой связывания, чеканятся новые токены GHST, и общее количество обращающихся GHST увеличивается. Верно и обратное. Когда пользователи продают свой GHST обратно в кривую связывания, они получают эквивалентную сумму в DAI на основе преобладающей цены GHST на кривой связывания.
 
-The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
+Инфляция токенов GHST за счет чистых покупок на кривой связывания положительно коррелирует с ценой GHST. **Кривая связывания была математически запрограммирована для увеличения цены GHST по мере увеличения циркулирующего предложения GHST.**
 
 ## Арбитраж
-For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Пользователи, которые прошли KYC, смогут арбитражить разницу в цене GHST между кривой связывания токенов и другими DEX, такими как Uniswap и Balancer. Согласно [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Арбитраж — это покупка и продажа актива с целью получения прибыли от разницы в цене актива на разных рынках. Это сделка, которая приносит прибыль за счет использования разницы в цене идентичных или аналогичных финансовых инструментов на разных рынках или в иных формах. Арбитраж существует в результате неэффективности рынка, и поэтому не существовал бы, если бы все рынки были совершенно эффективными." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
 
 ## Больше информации
 
