@@ -7,32 +7,32 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+嘿呀，朋友们！ 你知道如果某些可穿戴设备同时装备，你可以获得超越其单个可穿戴设备的套装奖励吗?  现在你知道了!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+可穿戴套装是一系列可穿戴设备的集合，可以赋予装备它们的Aavegotchi 额外的奖励。
 
-Get ready a fat stack of GHST! You will need them!
+准备好一塌子GHST吧!  你会需要它们的!
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#key>Key</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#key>关键值</a></li>
+<li><a href=#wearable-sets>可穿戴套装</a></li>
 </ol>
 
 </div>
 
-## Key
+## 关键值
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
+* BRS=[基本稀有度得分](/rarity-farming#base-rarity-score)
 * AGG = 攻击值
 * NRG = 能量值
 * SPK = 活力值
 * BRN = 脑力值
 
-## Wearable Sets
+## 可穿戴套装
 
 table_sets
 
