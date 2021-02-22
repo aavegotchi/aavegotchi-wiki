@@ -21,14 +21,14 @@ This page is a continuation of the [aTokens](/atokens) page. Previously, we have
 Содержание:
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#learn-more>Больше информации</a></li>
 </ol>
 
 </div>
 
-## Converting aTokens into maTokens
+## Конвертация аТокенов в маТокены
 
 First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 
