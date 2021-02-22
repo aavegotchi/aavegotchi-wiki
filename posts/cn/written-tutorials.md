@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Written Tutorials'
+title: '文字教程'
 description: "文字版教程"
 contributors:
   - "unintelligent-nerd"
