@@ -2,39 +2,39 @@
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
 title: 'Polygon'
-description: 'Polygon Tutorial'
+description: 'Руководство по Polygon'
 contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+Привет Френ! Выходит ты слышал про миграцию в Polygon (ранее Matic Network), но ни черта не знаешь, что это вообще такое? Не переживай, мы проведем тебя за руку шаг за шагом!
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+Если коротко, Polygon - это решение масштабируемости второго уровня для публичных блокчейнов, к примеру, Ethereum. Эта децентрализованная платформа обеспечивает быстрые и сверх дешевые транзакции с финалити в основной цепи. Если у вас есть желание разобраться в деталях, как это работает, читайте данную [статью](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
-So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
+Мы говорим пока транзакциям по $100 на Uniswap и приветствуем (почти) бесплатные взаимодействия с контрактом!
 
 <div class="contentsBox">
 
 Содержание:
 
 <ol>
-<li><a href=#why-polygon->Why Polygon?</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Adding Polygon to your Metamask</a></li>
-<li><a href=#bridging-assets-to-polygon>Bridging assets to Polygon</a></li>
-<li><a href=#bridging-assets-back-to-ethereum-mainnet>Bridging assets back to Ethereum Mainnet</a></li>
+<li><a href=#why-polygon->Почему Polygon?</a></li>
+<li><a href=#adding-polygon-to-your-metamask>Добавляем Polygon в Metamask</a></li>
+<li><a href=#bridging-assets-to-polygon>Перемещаем средства в Polygon</a></li>
+<li><a href=#bridging-assets-back-to-ethereum-mainnet>Перемещаем средства обратно в главную сеть Ethereum</a></li>
 </ol>
 
 </div>
 
-## Why Polygon?
+## Почему Polygon?
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+Вы наверняка знаете, а впрочем может и нет, мейннет Aavegotchi был запланирован на 4 января 2021 года. В этот день биткойн скакнул на 40%, что заставило арбитраж ботов сойти с ума. Цены на газ улетели к отметке 400 gwei, а стоимость транзакций стала безумно дорогой. Чтобы представить это в в ретроспективе: покупка и открытие [портала](/portals) вместе с призывом Готчи обошлась бы нам как минимум в $300.
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+Стало очевидно - запуск в главной сети Ethereum невозможен. Поскольку Polygon уже работал с различными NFT проектами (например, Opensea), то выбор был сравнительно легким. Сообщество разделяло наши настроения и проголосовало за запуск в Polygon 76% голосов.
 
-## Adding Polygon to your Metamask
+## Добавляем Polygon в Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+Приступим к интересному! To use Polygon, you first need to add it to your Metamask wallet.
 
 1). Open the extension and click the “Ethereum Mainnet” button on the top.
 
@@ -60,7 +60,7 @@ Once you’ve added everything, you can click on “Save”.
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
-## Bridging assets to Polygon
+## Перемещаем средства в Polygon
 Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
 
 So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
@@ -89,7 +89,7 @@ Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done
 
 If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
 
-## Bridging assets back to Ethereum Mainnet
+## Перемещаем средства обратно в главную сеть Ethereum
 
 What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
 
