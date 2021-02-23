@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+description: 'The Aavegotchi 路线图'
 contributors:
   - "hackingmoneyph"
 ---

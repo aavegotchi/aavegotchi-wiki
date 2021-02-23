@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Written Tutorials'
-description: "Written Tutorials"
+title: '文字教程'
+description: "文字版教程"
 contributors:
   - "unintelligent-nerd"
 ---
 
-Need step-by-step help with something? Check out the written tutorials page for more!
+需要保姆式的教程吗？ 请查看我们已经准备好的教程页面，以获取更多信息哦！
 
-If you have any other suggestions on new topics to be covered here, do approach our friendly aarchivers and let them know!
+如果您对这里的新主题有任何其他建议，请及时通知哦。
 
 <div class="contentsBox">
 
@@ -17,17 +17,17 @@ If you have any other suggestions on new topics to be covered here, do approach 
 
 <ol>
 <li><a href=#polygon-tutorial>Polygon 教程</a></li>
-<li><a href=#matokens-tutorial>maTokens Tutorial</a></li>
+<li><a href=#matokens-tutorial>maTokens教程</a></li>
 <li><a href=#mumbai-testnet-tutorial>Mumbai 测试网教程</a></li>
 </ol>
 
 </div>
 
 ## Polygon 教程
-Our Great Aassistant Moon has written an aavesome piece on setting up Polygon on your MetaMask. Check it out [here](/polygon)!
+我们的大助手Moon写了一篇关于在MetaMask上设置Polygon的文章。 请看[这里](/polygon)
 
-## maTokens Tutorial
-Need help with converting your aTokens into maTokens on the Polygon? Check out the [maTokens](/matokens) page.
+## maTokens教程
+需要帮助将您的aTokens转换为Polygon上的maTokens吗？ 请查看  [maTokens](/matokens)页面。
 
 ## Mumbai 测试网教程
-The Aavegotchi Baazaar is live on Mumbai Testnet. Wanna play with it but not sure how to connect to the Mumbai Testnet and where to go to get tokens? Check out our Mumbai Testnet Tutorial [here](/mumbai-testnet).
+Aavegotchi Baazaar已经在Mumbai Testnet上线了。 想玩，但不知道如何连接到Mumbai Testnet和去哪里获得代币？ 点击这里查看我们的 [Mumbai Testnet教程](/mumbai-testnet)。

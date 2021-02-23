@@ -7,36 +7,36 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Feeling overwhelmed fren?
+朋友们，是否感觉知识获取量已经严重超标量？
 
-There's Ethereum.
+又是以太坊
 
-There's MetaMask.
+又是MetaMask
 
-There's Aave and aTokens.
+又是Aave和aTokens。
 
-There's Non-Fungible Tokens (NFTs).
+又是非同质化代币(NFTs)。
 
-And then there's Aavegotchi.
+然后还有Aavegotchi.
 
-It's alright fren. We were once newbies as well. We know how you feel.
+没事的朋友！ 我们也是这么过来的！ 我懂你！
 
-We have prepared some tutorials to help kickstart your journey! You will become one with us soon enough. :)
+我们已经准备了一些教程来帮助你开启你的旅程!  你很快就会成为我们的一员了。 :)
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#video-tutorials>Video Tutorials</a></li>
-<li><a href=#written-tutorials>Written Tutorials</a></li>
+<li><a href=#video-tutorials>视频教程</a></li>
+<li><a href=#written-tutorials>文字教程</a></li>
 </ol>
 
 </div>
 
-## Video Tutorials
+## 视频教程
 
-For those who prefer watching videos, check out the [Video Tutorials](/video-tutorials) page.
+喜欢看视频的朋友，可以查看[视频教程](/video-tutorials)页面。
 
-## Written Tutorials
-Prefer the written word instead? Check out the [Written Tutorials](/written-tutorials) page.
+## 文字教程
+更喜欢看文字？ 请查看 [文字教程](/written-tutorials) 页面。

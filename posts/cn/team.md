@@ -2,7 +2,7 @@
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
 title: '团队'
-description: 'See who&#8217s building the Aavegotchi Game'
+description: 'Aavegotchi 背后的开发小可爱们'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
