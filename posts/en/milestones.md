@@ -31,25 +31,25 @@ contributors: ["unintelligent-nerd"]
 <p></p>
 
 ## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Matic and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+* Heya Frens! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
 <p></p>
 
 ## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
 * On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Matic to launch alongside the bridge from Mainnet to Matic
+* GHST Staking Contract on Polygon to launch alongside the bridge from Mainnet to Polygon
 * Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
 <p></p>
 
-## [aTokens live on Matic Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Matic Network on 20 January 2021!
+## [aTokens live on Polygon Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Polygon on 20 January 2021!
 <p></p>
 
 ## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
 * On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
 <p></p>
 
-## [GHST token live on Matic](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Matic network
+## [GHST token live on Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Polygon
 * There are Liquidity Migration Incentives up for grabs as well!
 <p></p>
 
@@ -59,7 +59,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
 * Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Matic Network at a later date
+* The community voted and made the decision to launch on Polygon at a later date
 * Aagent missions have finally concluded! 
 * Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
 * Aavegotchi looking for Aambassadors!
@@ -153,7 +153,7 @@ contributors: ["unintelligent-nerd"]
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * More details on the Haaaalloween Paaarty were announced on 28 October 2020
 * Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Matic Network. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty gonna get kicked off with Aave's own Stani Kulechov.
 <p></p>
 
 ## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
