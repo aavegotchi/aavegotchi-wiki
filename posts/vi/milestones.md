@@ -31,25 +31,25 @@ contributors:
 <p></p>
 
 ## [Công bố Bảng Niên Giám của Anh Nông Dân: Hướng Dẫn Cực Chi Tiết Về Cách Thu Hoạch Giải Thưởng GHST](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Chào mấy fen! Có phải bạn đang cần ai đó hỗ trợ để chuyển GHST sang Matic và gặt hái những giải thưởng ngọt ngào hay không nè? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được đăng vào ngày 25 Tháng Giêng 2020.
+* Chào mấy fen! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được đăng vào ngày 25 Tháng Giêng 2020.
 <p></p>
 
 ## [Aavegotchi Improvement Proposals 2 và 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
 * Vào ngày 21 tháng Giêng năm 2021, lượt vote Aavegotchi Improvement Proposals (AGIPs) 2 và 3 đã vượt quá số lượng tối thiểu để thực thi khi chỉ còn 8 tiếng là kết thúc!
-* Hợp đồng Staking GHST trên Matic được triển khai cùng lúc với cầu nối Mainnet đến Matic
+* GHST Staking Contract on Polygon to launch alongside the bridge from Mainnet to Polygon
 * Cộng Đồng tiếng Hàn, Pháp, và Tây Ban Nha của Aavegotchi! Woot woot!
 <p></p>
 
-## [aToken xuất hiện trên Polygon!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Diamond Boi của chúng tôi, [Nick Mudge](/team#nick-mudge), đã làm được điều này! Anh ấy đã bridge thành công aToken sang Polygon vào ngày 20 tháng Giêng năm 2021!
+## [aTokens live on Polygon Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Diamond Boi của chúng tôi, [Nick Mudge](/team#nick-mudge), đã làm được điều này! He has successfully bridged aTokens onto Polygon on 20 January 2021!
 <p></p>
 
 ## [Bỏ phiếu trên Aragon đã bắt đầu!](https://twitter.com/aavegotchi/status/1351159786109341698)
 * Vào ngày 18 tháng Giêng năm 2021, team đã thông báo về hai bản đề xuất AavegotchiDAO mới được đề xuất trên Aragon để người dùng có thể bỏ phiếu. Thời lượng bỏ phiếu kéo dài 72 tiếng.
 <p></p>
 
-## [Token GHST có mặt trên Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* Vào ngày 11 tháng Giêng năm 2021, team Aavegotchi công bố rằng token GHST đã xuất hiện trên Polygon
+## [GHST token live on Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Polygon
 * Có phần thưởng khuyến khích việc Dịch Chuyển Thanh Khoản đó nha!
 <p></p>
 
@@ -59,7 +59,7 @@ contributors:
 
 ## [Aavegotchi Hoãn Sự Kiện Triển Khai Mainnet](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
 * Sự kiện Triển Khai Mainnet vào ngày 4 Tháng Giêng 2021 đã hoãn lại do mạng lưới Ethereum đãng bị nghẽn một cách nghiêm trọng :(
-* Cộng đồng đã bầu chọn và quyết định triển khai trên Matic Network vào một ngày khác
+* The community voted and made the decision to launch on Polygon at a later date
 * Aavegotchi Mission cuối cùng đã kết thúc!
 * Aavegotchi Shop Wearables đã được công bố! Hãy vào [đây](/wearables) xem các trang bị này nhé
 * Aavegotchi đang tìm kiếm Aambassadors!
@@ -153,7 +153,7 @@ contributors:
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
 * Nhiều thông tin hơn về Haaaalloween Paaarty sẽ được công bố vào ngày 28 Tháng Mười năm 2020
 * Cuộc thi trang phục ảo!
-* Hoà trong những bản nhạc du dương của Harrison First và gặp gỡ trao đổi với Cherry, OpenSea, và Matic Network. Paartty sẽ bắt đầu với chủ tịch của Aave là ông Stani Kulechov.
+* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty sẽ bắt đầu với chủ tịch của Aave là ông Stani Kulechov.
 <p></p>
 
 ## [Vui hơn! Phấn khích hơn!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
