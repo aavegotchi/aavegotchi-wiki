@@ -7,6 +7,9 @@ contributors:
   - "chinyh"
 ---
 
+## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
+* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
+<p></p>
 
 ## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
 * The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
