@@ -94,11 +94,11 @@ You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.co
 
 ### When can I get an Aavegotchi?
 
-Aavegotchis will be available at mainnet launch. The [metaverse](/metaverse) will open shortly after (Q1 2021).
+2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
 
 ### When is mainnet launch?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The team will keep everyone updated on the new launch date when it is feasible.
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
 ### What can I do now?
