@@ -92,11 +92,11 @@ contributors:
 
 ### 什么时候我可以得到一个Aavegotchi？
 
-Aavegotchis将会在主网启动时使用。 [元](/metaverse) 将在 (Q1 2021) 后不久打开.
+2 March 2021 on Polygon! [元](/metaverse) 将在 (Q1 2021) 后不久打开.
 
 
 ### 主网何时启动？
-Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重拥挤，社区投票被付诸行动。 The community voted for the launch of Aavegotchi on Polygon at a later date. 小组将在可行的情况下随时向所有人通报新的发射日期。
+Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重拥挤，社区投票被付诸行动。 The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
 ### 现在你能做什么？
