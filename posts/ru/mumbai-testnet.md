@@ -29,11 +29,11 @@ To connect to the Mumbai Testnet, some configurations have to be made to your Me
 
 <img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). Выберите “Custom RPC”.
 
-<img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Метамаск пользовательский RPC" />
 
-3). Enter the following settings:
+3). Введите следующие настройки:
 
 Network Name: Mumbai Testnet
 
@@ -41,11 +41,11 @@ New RPC URL: https://rpc-mumbai.matic.today
 
 Chain ID: 80001
 
-Currency Symbol (optional): MATIC
+Currency Symbol: MATIC
 
 Block Explorer URL (optional): https://mumbai-explorer.matic.today
 
-Once you’ve added everything, you can click on “Save”. You are now on Mumbai Testnet!
+Как только заполните все поля, кликайте “Save”. You are now on Mumbai Testnet!
 
 ## Getting tokens from Mumbai Faucet
 
