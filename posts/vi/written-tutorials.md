@@ -19,6 +19,7 @@ Nếu bạn có bất kỳ đề nghị nào về chủ đề mới cần đư�
 <li><a href=#polygon-tutorial>Hướng dẫn sử dụng Polygon</a></li>
 <li><a href=#matokens-tutorial>Hướng dẫn về maToken</a></li>
 <li><a href=#mumbai-testnet-tutorial>Hướng dẫn sử dụng Testnet Mumbai</a></li>
+<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ol>
 
 </div>
@@ -31,3 +32,6 @@ Bạn cần được hỗ trợ để chuyển đổi aTokan thành maToken trê
 
 ## Hướng dẫn sử dụng Testnet Mumbai
 Aavegotchi Baazaar đã có mặt trên Testnet Mumbai. Bạn muốn chơi thử những không biết cách kết nối với Testnet Mumbai và vào đâu để lấy token? Hãy xem thử trang hướng dẫn sử dụng Testnet Mumbai này tại [đây](/mumbai-testnet) nhé.
+
+## Aavegotchi Pre-Launch Checklist
+Get your Aavegotchi Pre-Launch Checklist [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist). Prepared by our Aavegotchi Aambassador Buzz Lightyear.
