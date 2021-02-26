@@ -19,6 +19,7 @@ contributors:
 <li><a href=#polygon-tutorial>Polygon 教程</a></li>
 <li><a href=#matokens-tutorial>maTokens教程</a></li>
 <li><a href=#mumbai-testnet-tutorial>Mumbai 测试网教程</a></li>
+<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ol>
 
 </div>
@@ -31,3 +32,6 @@ contributors:
 
 ## Mumbai 测试网教程
 Aavegotchi Baazaar已经在Mumbai Testnet上线了。 想玩，但不知道如何连接到Mumbai Testnet和去哪里获得代币？ 点击这里查看我们的 [Mumbai Testnet教程](/mumbai-testnet)。
+
+## Aavegotchi Pre-Launch Checklist
+Get your Aavegotchi Pre-Launch Checklist [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist). Prepared by our Aavegotchi Aambassador Buzz Lightyear.
