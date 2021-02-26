@@ -93,11 +93,11 @@ Hier findest du eine detaillierte Übersicht zum <a href="https://wiki.aavegotch
 
 ### Wann kann ich ein Aavegotchi bekommen?
 
-Aavegotchis werden beim Mainnet-Launch verfügbar sein. Das [Metaverse](/metaverse) wird kurz danach zugänglich werden (Q1 2021).
+2 March 2021 on Polygon! Das [Metaverse](/metaverse) wird kurz danach zugänglich werden (Q1 2021).
 
 
 ### Wann wird das Mainnet lanciert?
-Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. The community voted for the launch of Aavegotchi on Polygon at a later date. Das Team wird alle über den neuen Launch-Termin auf dem Laufenden halten, sobald er feststeht.
+Der Mainnet Launch war ursprünglich für den 4. Januar 2021 geplant. Aufgrund der hohen Überlastung der Ethereum Blockchain zu diesem Zeitpunkt wurde eine Community-Abstimmung in die Wege geleitet. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
 ### Was kann ich aktuell tun?

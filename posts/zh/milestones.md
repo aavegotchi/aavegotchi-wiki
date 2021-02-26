@@ -7,6 +7,12 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
+* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT.
+* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public.
+* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
+<p></p>
+
 ## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
 * The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
 <p></p>

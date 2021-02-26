@@ -92,11 +92,11 @@ Bạn có thể tìm thêm thông tin về lối chơi tại <a href="https://wi
 
 ### Mình có thể nhận Aavegotchi ở đâu?
 
-Aavegotchi sẽ xuất hiện khi mainnet được triển khai. [Metaverse](/metaverse) sẽ mở sau Quý I 2021.
+2 March 2021 on Polygon! [Metaverse](/metaverse) sẽ mở sau Quý I 2021.
 
 
 ### Khi nào thì mainnet được triển khai?
-Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Polygon vào một ngày khác. Nhóm bọn mình sẽ cập nhật thông tin cho mọi người về ngày triển khai khi có thể.
+Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Polygon vào một ngày khác. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
 ### Giờ mình có thể làm gì?

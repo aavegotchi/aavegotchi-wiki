@@ -11,6 +11,8 @@ Hey Fam! Hast du schon mal einen Aavegotchi-Talk/Chat verpasst, weil du keine Ze
 
 Wir haben auch einen eigenen [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) :D
 
+### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Coderdan presents Aavegotchi on Odaily China Crypto News (3 February 2021)
 Link to video [here](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/)
 
@@ -32,6 +34,6 @@ Link to video [here](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3
 
 ### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/M_zreDIcjno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
 
