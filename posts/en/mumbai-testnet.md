@@ -30,7 +30,7 @@ To connect to the Mumbai Testnet, some configurations have to be made to your Me
 
 2). Select “Custom RPC”.
 
-<img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG">
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG">
 
 3). Enter the following settings:
 
