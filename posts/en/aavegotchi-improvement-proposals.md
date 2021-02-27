@@ -20,6 +20,7 @@ How far have we progressed as a community? Look at our archives of past votes he
 <li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -47,6 +48,8 @@ No: 601.83249 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
+<hr>
+
 ### Add fees to Bonding Curve
 **Aavegotchi Improvement Proposal #2**
 
@@ -70,6 +73,8 @@ No: 108143.33932 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
+<hr>
+
 ### Increase DAICO tap for GHST purchases
 **Aavegotchi Improvement Proposal #3**
 
@@ -90,6 +95,8 @@ Yes: 3836093.44669 GHST
 No: 33683.04753 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+
+<hr>
 
 ### Name of Aavegotchi Marketplace
 **Snapshot Voting**
@@ -122,6 +129,8 @@ Neither: 150380 GHST
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
+<hr>
+
 ### Eligibility of GHST-USDC LP tokens to earn FRENS
 
 **Snapshot Voting**
@@ -148,3 +157,45 @@ No: 354030
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
+<hr>
+
+### Portals purchased in one transaction
+
+**Snapshot Voting**
+
+**Proposal Summary:** How many Portals can be purchased in one transaction?
+
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+
+* 0-5: 100 GHST each
+
+* 6-15: 200 GHST each
+
+* 16-25: 300 GHST each
+
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+
+Let your $GHST token speak for you, and vote!
+
+Voting period: 72 hrs
+Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+
+AavegotchiDAO discussion topic 👇
+
+[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+
+**Voting Period:** 23 - 26 February 2021
+
+**Results:**
+
+25 per txn (w/ Ape Tax): 1500000
+
+5 per txn: 921830
+
+10 per txn: 201760
+
+1 per txn: 169000
+
+[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
