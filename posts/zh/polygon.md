@@ -32,6 +32,8 @@ As you might or might not know, Aavegotchi Mainnet launch was planned for Januar
 
 It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
+For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+
 ## Adding Polygon to your Metamask
 
 Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
