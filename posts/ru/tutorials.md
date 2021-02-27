@@ -27,7 +27,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 Содержание:
 
-<ol>
+<ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
 <li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
@@ -35,7 +35,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
-</ol>
+</ul>
 
 </div>
 
