@@ -369,6 +369,20 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "consumablesTable",
+            tableCaption: "Consumables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Stats", "Quantity"],
+                data: [
+				    [`<img src="/wearables/final wearables/126_KinshipPotion.svg" alt = "aavegotchi Kinship Potion"/>`, "126", "Kinship Potion", "+2 to Kinship", "TBC"],
+					[`<img src="/wearables/final wearables/127_GreaterKinshipPotion.svg" alt = "aavegotchi Greater Kinship Potion"/>`, "127", "Greater Kinship Potion", "+10 to Kinship", "TBC"],
+					[`<img src="/wearables/final wearables/128_XPPotion.svg" alt = "aavegotchi XP Potion"/>`, "128", "XP Potion", "+20 to XP", "TBC"],
+					[`<img src="/wearables/final wearables/129_GreaterXPPotion.svg" alt = "aavegotchi Greater XP Potion"/>`, "129", "Greater XP Potion", "+50 to XP", "TBC"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
