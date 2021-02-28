@@ -32,11 +32,13 @@ Wie du vielleicht weisst, war der Launch des Aavegotchi Mainnets für den 4. Jan
 
 Es war klar, dass ein Launch auf dem Ethereum Mainnet unmöglich war. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
+For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+
 ## Adding Polygon to your Metamask
 
-Fangen wir also an! To use Polygon, you first need to add it to your Metamask wallet.
+Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
 
-1). Öffne die Erweiterung und klicke oben auf den Button "Ethereum Mainnet".
+1). Open the extension and click the “Ethereum Mainnet” button on the top.
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
@@ -58,36 +60,36 @@ Block Explorer URL (optional): https://explorer.matic.network/
 
 Sobald du alles hinzugefügt hast, kannst du auf "Save" klicken.
 
-4). Es gibt keinen Schritt 4, du bist schon fertig! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
 ## Bridging assets to Polygon
-Nun hast du Metamask eingerichtet und bist bereit loszulegen. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. Wenn du nur GHST migrieren möchtest, ignoriere alle folgenden Schritte und benutze unsere einfache Aavegotchi Bridge [hier](https://aavegotchi.com/bridge).
+Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
 
-Also für alle, die verschiedene Assets wie ETH oder USDC übertragen wollen, hier ist die Vorgehensweise:
+So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
 
-1). Besuche die Seite [https://wallet.matic.network/](https://wallet.matic.network/) und logge dich mit Metamask ein. Vergewissere dich, dass du dich im "Wallet" Tab befindest, es sollte in etwa so aussehen:
+1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
 
 <img class = "bodyImage" src = "/polygon/matic-wallet.png" alt = "Matic Wallet" />
 
-2). **Klicke NICHT** auf die Schaltfläche "Switch to Plasma". Das ist die falsche Brücke und braucht 7 Tage um die Gelder zurückzuschicken. Füge stattdessen das Asset, das du migrieren möchtest, auf der rechten Seite hinzu. Ich habe bereits USDC hinzugefügt, daher kann man es in meiner Wallet sehen.
+2). **DO NOT** click the “Switch to Plasma” button. That’s the wrong bridge and needs 7 days to withdraw. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
 
 <img class = "bodyImage" src = "/polygon/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
 
-3). Klicke auf der linken Seite auf "Matic Wallet" und "Deposit".
+3). On the left side click “Matic Wallet” and “Deposit”.
 
 <img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
 
-4). Klicke auf "Continue to Deposit" und wähle hier dein Asset aus:
+4). Click “Continue to Deposit” and select your asset here:
 
 <img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
 
-5). Gib ein, wie viel davon du migrieren möchtest und klicke auf den grossen blauen Button.
+5). Enter how much of it you’d like to bridge and click the big blue button.
 
 <img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
 
-Uuuuund das war's! Bestätige einfach die Transaktion in Metamask und du bist fertig. It can take up to 10 minutes for the tokens to arrive in your Polygon address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on Polygon. (That’s enough for 1000s of transactions, Polygon is aavesome!)
+Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Polygon address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on Polygon. (That’s enough for 1000s of transactions, Polygon is aavesome!)
 
-Wenn du bei irgendetwas Hilfe brauchst, kannst du dem Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) beitreten und ein anderes Community-Mitglied fragen.
+If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
 
 ## Bridging assets back to Ethereum Mainnet
 

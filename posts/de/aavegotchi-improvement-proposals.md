@@ -21,6 +21,7 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#increase-daico-tap-for-ghst-purchases>Erhöhung des DAICO-Taps für GHST-Käufe</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -48,49 +49,55 @@ Nein: 601.83249 GHST
 
 [Link zur Abstimmung über das Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
+<hr />
+
 ### Hinzufügen von Gebühren zur Bonding Curve
 **Aavegotchi Improvement Proposal #2**
 
-**Zusammenfassung des Vorschlags:** Die Bonding Curve ist die Hauptquelle der Liquidität von GHST. Grosse Spieler im Markt können derzeit ohne Gebühren kaufen und verkaufen.
+**Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
 
-Unser Market Maker bietet die Möglichkeit, Gebühren für Kauf- und Verkaufsaufträge zu erheben.
+Our market maker offers the ability to add fees to buy and sell orders.
 
-Mehrere Community-Mitglieder haben vorgeschlagen, Gebühren von bis zu 0,3% für den Kauf und Verkauf durch die Curve zu erheben.
+Multiple community members have proposed adding fees up to 0.3% to buying and selling on the curve.
 
-Dies ist möglich, indem wir die `updateFees` Funktion auf unserer Bonding Curve aufrufen, aber sollten wir das tun? Es liegt an euch, dem AavegotchiDAO.
+This is possible to do by calling the `updateFees` function on our bonding curve, but should we? It’s up to you, AavegotchiDAO.
 
-Alle verdienten Gebühren würden automatisch an die DAO Treasury Adresse 0xffe6280ae4e864d9af836b562359fd828ece8020 überwiesen und als Vermögen des AavegotchiDAO betrachtet werden.
+Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
 
-**Abstimmungszeitraum:** 18. - 21. Januar 2021
+**Voting Period:** 18 - 21 January 2021
 
 **Ergebnis:**
 
-Ja: 3726567.25851 GHST
+Yes: 3726567.25851 GHST
 
-Nein: 108143.33932 GHST
+No: 108143.33932 GHST
 
 [Link zur Abstimmung über das Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
+
+<hr />
 
 ### Erhöhung des DAICO-Taps für GHST-Käufe
 **Aavegotchi Improvement Proposal #3**
 
-**Zusammenfassung des Vorschlags: ** Spielerbelohnungen und Liquiditätsanreize sind entscheidend, um das Aavegotchi Ökosystem auf ein Level zu heben, auf dem es sich durch Handelsvolumen und wirtschaftliche Aktivität selbst tragen kann.
+**Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
 
-Immer wenn GHST im Aavegotchi Ökosystem ausgegeben wird, werden 33% davon automatisch an eine Burn Adresse geschickt. Im Gegensatz zu den meisten Kryptowährungen senkt das Verbrennen von GHST (ausser über die Bonding Curve) nicht tatsächlich den Gesamtwert von GHST, da dieser Wert als DAI innerhalb der Bonding Curve gespeichert wird.
+Whenever GHST is spent in the Aavegotchi ecosystem, 33% of it is automatically sent to a burn address. Unlike most cryptocurrencies, burning GHST (except via the bonding curve) does not actually lower the total value of GHST, since that value is stored as DAI within the bonding curve.
 
-Durch das Verbrennen wird DAI in der Bonding Curve gefangen, wodurch sich der Reservesatz mit der Zeit erhöht, was den Preis von GHST stabilisiert.
+What burning does do is trap DAI within the bonding curve, essentially increasing the reserve ratio over time, which stabilizes the price of GHST.
 
-Um das Verbrennen zu kompensieren (was GHST letztendlich zu einem Stablecoin machen könnte), raten wir der Community, den Tap auf 150'000 DAI pro Monat zu erhöhen. Dies wird dazu beitragen, die Reserve der Bonding Curve auszugleichen und gleichzeitig zusätzliche 50'000 DAI pro Monat bereitzustellen, die in Spielerbelohnungen und Liquiditätsanreize fliessen werden.
+In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
 
-**Abstimmungszeitraum:** 18. - 21. Januar 2021
+**Voting Period:** 18 - 21 January 2021
 
 **Ergebnis:**
 
-Ja: 3836093.44669 GHST
+Yes: 3836093.44669 GHST
 
-Nein: 33683.04753 GHST
+No: 33683.04753 GHST
 
 [Link zur Abstimmung über das Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+
+<hr />
 
 ### Name of Aavegotchi Marketplace
 **Snapshot Abstimmungen**
@@ -123,6 +130,8 @@ Neither: 150380 GHST
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
+<hr />
+
 ### Eligibility of GHST-USDC LP tokens to earn FRENS
 
 **Snapshot Abstimmungen**
@@ -149,3 +158,44 @@ No: 354030
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
+<hr />
+
+### Portals purchased in one transaction
+
+**Snapshot Abstimmungen**
+
+**Proposal Summary:** How many Portals can be purchased in one transaction?
+
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+
+* 0-5: 100 GHST each
+
+* 6-15: 200 GHST each
+
+* 16-25: 300 GHST each
+
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+
+Let your $GHST token speak for you, and vote!
+
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+
+AavegotchiDAO discussion topic 👇
+
+[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+
+**Voting Period:** 23 - 26 February 2021
+
+**Ergebnis:**
+
+25 per txn (w/ Ape Tax): 1500000
+
+5 per txn: 921830
+
+10 per txn: 201760
+
+1 per txn: 169000
+
+[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)

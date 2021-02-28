@@ -31,7 +31,7 @@ Aavegotchi Baazaar现在已经在 Mumbai 测试网上上线了！ 你必须在Te
 
 2). 选择“自定义 RPC”。
 
-<img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
 
 3). 输入以下设置：
 

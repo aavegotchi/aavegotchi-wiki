@@ -31,7 +31,7 @@ Aavegotchi Baazaar đã có mặt trên Testnet Mumbai! Thử đi bạn, bạn c
 
 2). Chọn “Custom RPC”.
 
-<img class = "bodyImage" src = "/matic/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
 
 3). Nhập thông tin này vào:
 
