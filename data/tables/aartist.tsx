@@ -115,7 +115,9 @@ export const tables
                 headers: ["Name", "Image"],
                 data: [
 					["Coconut", `<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`],
-					["Milkshake", `<img src="/wearables/final wearables/122_Milkshake.svg" alt = "aavegotchi Milkshake"/>`]
+					["Milkshake", `<img src="/wearables/final wearables/122_Milkshake.svg" alt = "aavegotchi Milkshake"/>`],
+					["Kinship Potion", `<img src="/wearables/final wearables/126_KinshipPotion.svg" alt = "aavegotchi Kinship Potion"/>`],
+					["Greater Kinship Potion", `<img src="/wearables/final wearables/127_GreaterKinshipPotion.svg" alt = "aavegotchi Greater Kinship Potion"/>`],
                 ]
             }
         },
