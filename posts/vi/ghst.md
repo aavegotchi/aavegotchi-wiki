@@ -38,7 +38,7 @@ Các phần thưởng khuyến khích người dùng là rất quan trọng tron
 
 Người dùng cần phải mua GHST và dùng nó vào quá trình triệu hồi cũng như huấn luyện các Aavegotchi. Một phần số tiền thu được sẽ được chuyển lại cho DAO để có thêm ngân sách nhằm phát triển hệ sinh thái này. Đồng thời, một phần giá trị cũng sẽ được phân bố như một phần thưởng cho những quyết định quản trị thông thái từ DAO, và sẽ là phần thưởng cho những ai tham gia vào rarity farming.
 
-Để có thêm thông tin, hãy vào xem các trang bên dưới Sidebar của mục 'Tokenomics'.
+For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
 ## Dùng GHST
 Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏi xem khi nào thì đồng tiền này sẽ tăng vọt lên chín tầng mây? Nhiều lắm nha, và một khi bạn học được về hàng tá những cách để sử dụng GHST, bọn mình thấy rằng thế nào bạn cũng sẽ nghĩ lại về việc bán token đi.
@@ -51,20 +51,29 @@ Bao gồm:
 * [Stake GHST](/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
 ## Mua GHST
-Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua token GHST.
+Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
 
-Bạn có thể mua thẳng từ [bonding curve](/curve)(dù việc này sẽ yêu cầu thực hiện KYC, và không may người có quốc tịch Hoa Kỳ và Trung Quốc bị loại); hoặc mua từ một [sàn giao dịch](https://www.coingecko.com/en/coins/aavegotchi#markets)-một vài sàn giao dịch phi tập trung DEX ví dụ như [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550)và[Matcha](https://matcha.xyz/markets/GHST), cũng như các sàn giao dịch tập trung CEX như [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro) đang niêm yết token GHST.
+* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
+* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
+* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
-Hãy đảm bảo rằng bạn đang dùng đúng địa chỉ token nhé: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
+Make sure you get the correct token address as well.
+
+On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+
+On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+
+**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
 ## Kiếm GHST
-Không phải ai cũng là whale, và cũng không sao - vẫn còn nhiều điều bất ngờ trong vùng biến DeFi.
+Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
 
-Có nhiều cách để căng buồm và kiếm thêm GHST. Bao gồm:
+There are several ways to grind it out and earn GHST. Bao gồm:
 
-* Tham gia vào [rarity farming](/rarity-farming)
-* Tham gia và vote trong [AavegotchiDAO](/dao)
-* Chơi và chiến thằng trong các minigame (nhiều thông tin hơn sẽ được thông báo)
+* Engaging in [rarity farming](/rarity-farming)
+* Participate and vote in [AavegotchiDAO](/dao)
+* Playing and winning in minigames (more information TBC)
 
 
 
