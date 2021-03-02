@@ -27,6 +27,7 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 <ol>
 <li><a href=#purchasing-ghst>Purchasing GHST</a></li>
 <li><a href=#how-to-stake>How to Stake</a></li>
+<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
 <li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
 <li><a href=#entering-raffles>Entering Raffles</a></li>
 <li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
@@ -43,7 +44,7 @@ Once you have some GHST tokens, it is time to stake them! Staking takes place on
 
 There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
 
-**Important: Staking on Mainnet has been discontinued!**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
 *Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
@@ -72,7 +73,7 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
-Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stk receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
 For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
 
@@ -86,9 +87,15 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? An early depositor in
 
 ### Staking GHST on Polygon Cheetsheet!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet">
+
+## Staking Contract Addresses
+
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+
+table_stakingContractAddresses
 
 ## Purchasing Raffle Tickets
 
