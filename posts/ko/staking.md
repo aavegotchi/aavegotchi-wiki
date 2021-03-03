@@ -44,9 +44,9 @@ FRENS는 아베고치 스테이킹 컨트랙트 내에서 교환되는 자산이
 ## 스테이킹 방법
 GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
 
-There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
+스테이킹 방법엔 크게 2가지가 있습니다 : (1) GHST를 바로 스테이킹하기 또는 (2) [Quickswap](/glossary#quickswap)에서 GHST-QUICK pool에서의 LP 토큰 스테이킹하기
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! Please unstake and restake on Polygon.**
 
 *참고 : 특별 판매(Pre-sale)에서의 GHST 토큰들은 현재 락업 상태이기 때문에 락업이 풀리기 전까지 스테이킹이 불가능합니다.*
 
