@@ -29,10 +29,11 @@ Lies weiter, um zu erfahren, wie du GHST staken und mit deinen FRENS Preise verd
 <ol>
 <li><a href=#purchasing-ghst>GHST kaufen</a></li>
 <li><a href=#how-to-stake>Wie man staked</a></li>
-<li><a href=#purchasing-raffle-tickets>Lotterie-Tickets kaufen</a></li>
-<li><a href=#entering-raffles>An Lotterien teilnehmen</a></li>
-<li><a href=#past-raffles-statistics>Statistiken der letzten Lotterien</a></li>
-<li><a href=#more-resources>Weitere Ressourcen</a></li>
+<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
+<li><a href=#entering-raffles>Entering Raffles</a></li>
+<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
+<li><a href=#more-resources>More Resources</a></li>
 </ol>
 
 </div>
@@ -45,7 +46,7 @@ Once you have some GHST tokens, it is time to stake them! Staking takes place on
 
 There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
 
-**Important: Staking on Mainnet has been discontinued!**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
 *Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
@@ -74,7 +75,7 @@ Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one 
 
 Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
-Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stk receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
 For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
 
@@ -88,11 +89,17 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? An early depositor in
 
 ### Staking GHST on Polygon Cheetsheet!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-in-the-ghst-quick-pool-on-quickswap>Staking in the GHST-QUICK pool</a>).
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-## Lotterie-Tickets kaufen
+## Staking Contract Addresses
+
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+
+table_stakingContractAddresses
+
+## Purchasing Raffle Tickets
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
@@ -106,7 +113,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## An Lotterien teilnehmen
+## Entering Raffles
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
@@ -132,10 +139,10 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
-## Statistiken der letzten Lotterien
+## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## Weitere Ressourcen
+## More Resources
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)

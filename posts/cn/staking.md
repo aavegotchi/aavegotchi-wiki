@@ -29,10 +29,11 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 <ol>
 <li><a href=#purchasing-ghst>购买 GHST</a></li>
 <li><a href=#how-to-stake>如何质押 </a></li>
-<li><a href=#purchasing-raffle-tickets>购买抽奖券</a></li>
-<li><a href=#entering-raffles>进入抽奖</a></li>
-<li><a href=#past-raffles-statistics>过去Raffles 统计</a></li>
-<li><a href=#more-resources>更多资源</a></li>
+<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
+<li><a href=#entering-raffles>Entering Raffles</a></li>
+<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
+<li><a href=#more-resources>More Resources</a></li>
 </ol>
 
 </div>
@@ -45,7 +46,7 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 有两种方式进行质押。(1) 直接质押GHST代币，和/或 (2) 质押QuickSwap LP代币。
 
-**重要事项：Mainnet上的质押已经停止了!**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
 *注意：预售的GHST代币在解锁前不能进行质押。*
 
@@ -74,7 +75,7 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 接下来，在 [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) 和 [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) 池在 [QuickSwap](https://quickswap.exchange) 上成为流动资金提供者。 您将收到LP代币作为您提供流动资金的回报。 对于有兴趣在 GHST-QUICK 池做流动性的人来说，您可以先从 [QuickSwap](https://quickswap.exchange) 获取一些QUICK 代币。 当前流动性最高的交易对是QUICK-UNI，QUICK-WETH和QUICK-USDC。
 
-将这些LP代币质押进入 [Aavegotchi 质押界面](https://aavegotchi.com/stake-polygon) 以获取stkGHST 收据。 对于GHST-QUICK和GHST-USDC池，这些stk收据名分别为stkGHST-QUICK和stkGHST-USDC。
+将这些LP代币质押进入 [Aavegotchi 质押界面](https://aavegotchi.com/stake-polygon) 以获取stkGHST 收据。 For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
 针对stkGHST-QUICK质押对来说，你可以将其质押到Quickswap奖励池中，https://quickswap.exchange/#/quick，以获得额外的QUICK奖励。 Aavegotchi团队要求为stkGHST-USDC提供类似奖励。
 
@@ -88,11 +89,17 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 ### 在Polygon上质押GHST!
 
-下图显示了我们上面讨论过的两种不同的在Polygon上质押的方式（<a href=#staking-ghst-tokens-directly>押注GHST代币</a> ；</a> 在GHST-QUICK池中押注）</a>。
+The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-## 购买抽奖券
+## Staking Contract Addresses
+
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+
+table_stakingContractAddresses
+
+## Purchasing Raffle Tickets
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
@@ -106,7 +113,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## 进入抽奖
+## Entering Raffles
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
@@ -132,10 +139,10 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
-## 过去Raffles 统计
+## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## 更多资源
+## More Resources
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)

@@ -12,6 +12,8 @@ Einige gewünschte oder benötigte Features:
 * 🌃 Daark Mode
 * 📱 Besser anpassen für Mobile
 
+For developers, the Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+
 <div style="margin-top:50px;"></div>
 
 <a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Los geht's</a>
