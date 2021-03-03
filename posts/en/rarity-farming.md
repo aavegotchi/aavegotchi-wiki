@@ -58,9 +58,14 @@ Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotch
 
 BRS of the Aavegotchi's traits is derived using the following formula:
 
-<p style="margin-left: 4.8em"><b>Trait BRS = traitValue >= 50 ? traitValue : 100-traitValue </b> (coding language)</p> 
-<p style="margin-left: 4.8em"><i>If trait value is more than or equal to 50, BRS = trait value. </i></p> 
-<p style="margin-left: 4.8em"><i>If trait value is less than 50, BRS = 100 - trait value. </i></p>
+```
+if (number < 50) return 100 - number;
+	else return number + 1;
+```
+
+*If trait value is **less than** 50, BRS = 100 - trait value*
+
+*If trait value is **equal to or greater than** 50, BRS = trait value + 1*
 
 #### Wearables BRS
 
