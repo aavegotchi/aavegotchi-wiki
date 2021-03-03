@@ -12,6 +12,8 @@ Some requested or needed features:
 * 🌃 Daark Mode
 * 📱 Make it more Mobile frenly
 
+For developers, the Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+
 <div style="margin-top:50px;"></div>
 
 <a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
