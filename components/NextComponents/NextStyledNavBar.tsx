@@ -1,9 +1,10 @@
-import React, { useState } from 'react'
-import { themeColor, themeSecondary } from '../../theme'
+import React, { useState,useEffect } from 'react'
+import { themeColor, themeHotPink, themeSecondary } from '../../theme'
 import Link from 'next/link'
 import { Container, Button } from 'react-bootstrap'
 import SubscribeModal from '../SignupModal'
 import { useStateValue } from '../../State/globalState'
+import generateGlobalDarkModeStyles from "../../css/darkModeStyles";
 
 interface Props {
     logo?: JSX.Element
@@ -16,6 +17,10 @@ const NextStyledNavBar = (props: Props) => {
 
     const [{ sideMenuOpen }, dispatch] = useStateValue()
     const [showSubscribe, setShowSubscribe] = useState(false)
+    const [isDarkMode, setIsDarkMode] = useState(false);
+
+    const GlobalStyles = generateGlobalDarkModeStyles(isDarkMode);
+
 
     var rightLinks = [
 
@@ -27,6 +32,10 @@ const NextStyledNavBar = (props: Props) => {
              </Button>
          },
          */
+        {
+            name: "darkMode",
+            component: <div className="darkModeButton" onClick={()=>setIsDarkMode(!isDarkMode)}>{isDarkMode ? "☀" : "🌙"}</div>
+        },
 
         {
             name: "projects",
@@ -106,6 +115,8 @@ const NextStyledNavBar = (props: Props) => {
 
         <div className="navBar">
 
+            <GlobalStyles />
+
             <Container fluid>
 
                 <style global jsx>
@@ -121,7 +132,7 @@ const NextStyledNavBar = (props: Props) => {
                     height:65px;
                     width:100%;
                     flex-direction: row;
-                    background:white;
+                    background: var(--navbar-background-color);
                    
                     align-content: center;
                     justify-content: center;
@@ -184,7 +195,7 @@ const NextStyledNavBar = (props: Props) => {
                 font-weight: 500;
                 margin-right:15px;
                 margin-left:3px;
-                    color: black;
+                    color: var(--text-color);
                    
                 }
 
@@ -232,6 +243,14 @@ const NextStyledNavBar = (props: Props) => {
                     flex-direction: row;
                     justify-content: flex-end;
                     align-items: center;
+                }
+                
+                .rightSide > div,link {
+                    padding-left: 10px;
+                }
+                
+                .darkModeButton {
+                    cursor: pointer;
                 }
 
                 .navMenuHamburger {
@@ -303,7 +322,7 @@ const NextStyledNavBar = (props: Props) => {
 
 
                     {/*Right */}
-                    <div className="navMenu">
+                    <div className="navMenu rightSide">
 
                         {rightLinks !== undefined &&
                             _renderLinks("right")
