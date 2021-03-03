@@ -5,6 +5,11 @@ title: 'Develop this Wiki'
 description: 'Jump in and help develop this Wiki!'
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/developers/codergotchi.png">
+<p class="headerImageText">CoderDan welcomes you!</p>
+</div>
+
 想展示你的厉害的编码技术吗？帮助开发这个Wiki!  帮助开发这个Wiki!
 
 一些要求或需要的功能。
