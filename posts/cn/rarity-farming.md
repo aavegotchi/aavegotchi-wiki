@@ -60,26 +60,31 @@ contributors:
 
 Aavegotchi特征的BRS采用以下公式：
 
-<p style="margin-left: 4.8em"><b>特性BRS = 特性值 >= 50 ? 特性值: 100-traitValue </b> (编码语言)</p> 
-<p style="margin-left: 4.8em"><i>如果特性值大于或等于 50，BRS = 特性值。 </i></p> 
-<p style="margin-left: 4.8em"><i>如果特性值小于50，BRS = 100 - 特性值。 </i></p>
+```
+if (number < 50) return 100 - number;
+    else return number + 1;
+```
+
+*If trait value is **less than** 50, BRS = 100 - trait value*
+
+*If trait value is **equal to or greater than** 50, BRS = trait value + 1*
 
 #### 可穿戴装备 BRS
 
-另一方面，可穿戴装备的BRS取决于其稀少。 例如，稀有的 [可穿戴装备](https://wiki.aavegotchi.com/en/wearables) 产生5 BRS 和类似神的可磨损50 BRS。
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
 
 ### 绝对稀有分
 
-绝对稀有度分数（ARS）来自整个Aavegotchi生态系统中Aavegotchi特征的特殊稀有性。 例如，如果许多玩家将他们的Aavegotchis训练为具有最高能量水平，那么高能量水平-TURNT的ARS将低于最低能量水平-WASTED的ARS。 ARS是按照Aavegotchi特征每个特征100个百分点计算的。 因此，例如，如果所有Aavegotchi的5％具有WASTED特质，则WASTED特质将使Aavegotchi的能量特质ARS达到95分。
+Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
 ### 最终得分
 
 <b>最终稀有分 = Traits BRS + Wearables BRS + Traits ARS</b>
 
-最后分数计算的示例如下：
+Example of the Final Rarity Score calculation is as shown below:
 
-表_稀有计分表
-<p style="margin-left: 2.8em"><i>BRS 表示基础稀有分数；ARS 表示绝对稀有分数</i></p>
+table_RarityScoreCalculationTable
+<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
 ## 奖励
 
