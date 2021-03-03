@@ -5,6 +5,11 @@ title: 'Dieses Wiki weiterentwickeln'
 description: 'Mach mit und hilf bei der Entwicklung dieses Wikis!'
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/developers/codergotchi.png">
+<p class="headerImageText">CoderDan welcomes you!</p>
+</div>
+
 Willst du deine tollen Programmierfähigkeiten zeigen? Hilf mit, dieses Wiki zu entwickeln!
 
 Einige gewünschte oder benötigte Features:

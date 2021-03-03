@@ -29,11 +29,11 @@ FRENS는 아베고치 스테이킹 컨트랙트 내에서 교환되는 자산이
 <ol>
 <li><a href=#purchasing-ghst>GHST 구매하기</a></li>
 <li><a href=#how-to-stake>스테이킹 방법</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#staking-contract-addresses>스테이킹 컨트랙트 주소</a></li>
+<li><a href=#purchasing-raffle-tickets>래플 티켓 구매하기</a></li>
+<li><a href=#entering-raffles>래플 참여하기</a></li>
+<li><a href=#past-raffles-statistics>지난 래플 행사에 관한 통계치</a></li>
+<li><a href=#more-resources>더 많은 자료들!</a></li>
 </ol>
 
 </div>
@@ -46,7 +46,7 @@ GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스�
 
 스테이킹 방법엔 크게 2가지가 있습니다 : (1) GHST를 바로 스테이킹하기 또는 (2) [Quickswap](/glossary#quickswap)에서 GHST-QUICK pool에서의 LP 토큰 스테이킹하기
 
-**중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! Please unstake and restake on Polygon.**
+**중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! 스테이킹을 해제하고 폴리곤에서 다시 스테이킹 해주세요.**
 
 *참고 : 특별 판매(Pre-sale)에서의 GHST 토큰들은 현재 락업 상태이기 때문에 락업이 풀리기 전까지 스테이킹이 불가능합니다.*
 
@@ -62,44 +62,44 @@ GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스�
 
 *이런 방식으로 1 GHST를 스테이킹할 때마다 하루에 1FRENS를 받게 됩니다.*
 
-### Staking QuickSwap LP tokens
+### Quickswap LP 토큰 스테이킹하기
 
-Currently, there are only 2 QuickSwap LP tokens that could be staked for FRENS:
+현재 2개의 Quickswap LP 토큰 스테이킹을 통해 FRENS를 모을 수 있습니다.
 
 * QuickSwap GHST-QUICK LP token
 * QuickSwap GHST-USDC LP token
 
-The first step involves transferring funds from Ethereum Mainnet to Polygon, a layer 2 solution.
+우선 이더리움에서 layer2 솔루션인 폴리곤으로 여러분의 자금을 이전하셔야 합니다.
 
-메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다. Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다. 그런 다음, [Aavegotchi Bridge](https://aavegotchi.com/bridge)를 이용하여 GHST와 다른 자산들을 폴리곤으로 이동시켜야 합니다. [maTokens Guide](/matokens)를 통해 참여 방법을 확인할 수 있습니다.
 
-Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
+이제 [Quickswap](https://quickswap.exchange)에서 [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) 또는 [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4)풀에 유동성 공급자가 되어야 합니다. 유동성을 공급하신 후에 보상으로 LP 토큰을 수령하게 됩니다. GHST-QUICK 풀에 스테이킹하는 것에 관심있는 분들은 [QuickSwap](https://quickswap.exchange)에서 QUICK 토큰도 함께 보상으로 받을 수 있습니다. 가장 유동성 공급이 활발한 페어는 현재 QUICK-UNI, QUICK-WETH, QUICK-USDC, 그리고 GHST-QUICK입니다.(quickswap의 유동성 상황에 따라 달라질 수 있는 지표입니다)
 
-Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+LP 토큰을 이용해 [ Aavegotchi Staking 페이지](https://aavegotchi.com/stake-polygon)에서 LP 토큰을 스테이킹하면 stkGHST 토큰을 수령하게 됩니다. 이처럼 GHST-QUICK 풀과 GHST-USDC 풀에선 각각 stkGHST-QUICK, stkGHST-USDC라는 stkGHST 토큰을 받게 됩니다.
 
-For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
+stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 보상 풀에 스테이킹을 하는 용도로만 사용이 됩니다. 현재 Aavegotchi 팀에서는 stkGHST-USDC 토큰을 추가적인 QUICK 보상 수령에도 이용할 수 있도록 Quickswap 측에 요청하고 있습니다.
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day.*
+*이렇게 스테이킹된 GHST-QUICK LP토큰  1개로 하루에 23FRENS를 수령할 수 있습니다.*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day.*
+*이렇게 스테이킹된 GHST-USDC LP토큰  1개로 하루에 7,400만개의 FRENS를 수령할 수 있습니다.*
 
-Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+그렇다면 GHST 토큰을 바로 스테이킹하는 것과 LP 토큰을 통해 FRENS를 얻는 방식에는 어떠한 큰 차이가 있을까요?<br> (상당히 이상하지 않으신가요? 아래에 그에 대한 이유가 나와있으니 계속 읽어주세요!)<br> LP토큰을 스테이킹하는 것은 [비영구적손실](/glossary#impermanent-loss)의 위험이 있습니다. 따라서 리스크에 대한 보상이 QUICK으로 주어지는 것입니다.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+그렇다면! 왜 GHST-USDC 풀은 하루에 7,400만개의 FRENS를 만들어내는 것일까요? Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. 이에 대해 궁금하시다면 다음의 [트윗](https://twitter.com/coderdannn/status/1362423402871447554)을 참고해주세요 :)
 
 ### 폴리곤에 GHST를 스테이킹 하는 방법!
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
+아래의 그림을 통해 이전까지 함께 알아보았던 <a href=#staking-ghst-tokens-directly>GHST 토큰 스테이킹 방법</a>과 <a href=#staking-quickswap-lp-tokens>GHST-QUICK 풀 스테이킹</a>, 이렇게 2가지의 스테이킹 방법을 한눈에 확인할 수 있습니다! (한국으로 번역된 그림을 확인하고 싶으시다면 [ 농사꾼의 연감](https://aavegotchikr.medium.com/%EB%86%8D%EC%82%AC%EA%BE%BC%EC%9D%98-%EC%97%B0%EA%B0%90-ghst-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B0%80%EC%9D%B4%EB%93%9C-c28b64c8ad8d) 을 확인해 주세요
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-## Staking Contract Addresses
+## 스테이킹 컨트랙트 주소
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
-## Purchasing Raffle Tickets
+## 래플 티켓 구매하기
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
@@ -113,7 +113,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## 래플 참여하기
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
@@ -139,10 +139,10 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
 
-## Past Raffles Statistics
+## 지난 래플 행사에 관한 통계치
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## 더 많은 자료들!
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)

@@ -5,6 +5,11 @@ title: 'Phát triển Wiki này'
 description: 'Tham gia giúp phát triển Wiki này!'
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/developers/codergotchi.png">
+<p class="headerImageText">CoderDan welcomes you!</p>
+</div>
+
 Bạn muốn thể hiện khả năng lập trình siêu đỉnh của mình không? Giúp chúng tôi phát triển trang Wiki này nhé!
 
 Một số tính năng được yêu cầu hoặc đang cần:
