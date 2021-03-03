@@ -5,6 +5,11 @@ title: 'Develop this Wiki'
 description: 'Jump in and help develop this Wiki!'
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/developers/codergotchi.png">
+<p class="headerImageText">CoderDan welcomes you!</p>
+</div>
+
 Wanna show off your hotshot coding skills? Help develop this Wiki!
 
 Some requested or needed features:
