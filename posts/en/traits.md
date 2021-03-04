@@ -13,6 +13,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
+<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
 <li><a href=#kinship>Kinship</a></li>
 <li><a href=#experience>Experience</a></li>
 <li><a href=#level>Level</a></li>
@@ -51,6 +52,12 @@ table_TraitsByRarity1
 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDAI, sky blue for aAAVE, purple for aETH etc. </i></p>
+
+## Spirit Force Trait Modifiers
+
+The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
+
+table_spiritForceModifiers
 
 ## Kinship
 Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.

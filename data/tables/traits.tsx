@@ -26,6 +26,25 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "spiritForceModifiers",
+            tableCaption: "",
+            tableData: {
+                headers: ["Spirit Force", "Modifier"],
+                data: [
+                    [`<img class="atoken" src="/atokens/aDAI.svg" alt = "aDAI token">`, "NRG +1"],
+                    [`<img class="atoken" src="/atokens/aETH.svg" alt = "aETH token">`, "AGG +1"],
+                    [`<img class="atoken" src="/atokens/aAAVE.svg" alt = "aAAVE token">`, "SPK +1"],
+                    [`<img class="atoken" src="/atokens/aLINK.svg" alt = "aLINK token">`, "BRN +1"],
+					[`<img class="atoken" src="/atokens/aUSDT.svg" alt = "aUSDT token">`, "AGG -1"],
+					[`<img class="atoken" src="/atokens/aUSDC.svg" alt = "aUSDC token">`, "SPK -1"],
+					[`<img class="atoken" src="/atokens/aTUSD.svg" alt = "aTUSD token">`, "SPK -1"],
+					[`<img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token">`, "SPK -1"],
+					[`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "BRN +1"]
+                ]
+            }
+        },
 
         {
             tableName: "TraitsByRarity1",
