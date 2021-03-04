@@ -65,7 +65,7 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*If trait value is **less than** 50, BRS = 100 - trait value*
+*Nếu giá trị đặc tính **thấp hơn**50, thì BRS = 100 - giá trị đặc tính*
 
 *If trait value is **equal to or greater than** 50, BRS = trait value + 1*
 
