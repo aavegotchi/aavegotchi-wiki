@@ -16,8 +16,9 @@ Aavegotchis werden mit (Charakter-)Eigenschaften geboren. Genauso wie deine Eige
 
 <ol>
 <li><a href=#randomly-generated-traits>Zufällig generierte Eigenschaften </a></li>
-<li><a href=#kinship>Freundschaft</a></li>
-<li><a href=#experience>Erfahrung</a></li>
+<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
+<li><a href=#kinship>Kinship</a></li>
+<li><a href=#experience>Experience</a></li>
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
 </ol>
@@ -54,18 +55,24 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) steht für "Low" / Niedrig; (H) steht für "High" / Hoch </i></p>
 <p style="margin-left: 3.0em"><i> *Gewöhnliche Augenfarben nehmen die Farben der hinterlegten Sicherheiten in deinem Aavegotchi an. z.B. orange für aDAI, himmelblau für aAAVE, lila für aETH etc. </i></p>
 
-## Freundschaft
-Freundschaft ist das Gefühl der Loyalität deines Aavegotchis dir gegenüber. Freundschaft wird nicht zufällig zugewiesen, sondern beginnt mit einem festen Wert (50) bei der Beschwörung und erhöht oder verringert sich basierend auf verschiedenen Faktoren, wie z.B. wie lange das Aavegotchi bei demselben Besitzer ist und wie oft der Besitzer mit ihm interagiert. Der Mindestwert für die Freundschaft ist 0. Es gibt keinen maximalen Wert für die Freundschaft.
+## Spirit Force Trait Modifiers
 
-Normalerweise bedeutet längerer Besitz eine höhere Freundschaft, aber wenn du dein Aavegotchi über einen längeren Zeitraum vernachlässigst, sinkt sein Level der Freundschaft. Aavegotchis sind nicht nur Gefässe zur Aufbewahrung deiner Krypto-Bags. Sie sind lebendige, atmende Geister und sie brauchen deine Zuneigung!
+The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
 
-Für jede 12-Stunden-Periode, in der du mit deinem Aavegotchi interagierst, erhältst du maximal 1 Freundschaftspunkt. Umgekehrt gibt es einen Abzug von -1 Freundschaftspunkt, wenn dein Aavegotchi 24 Stunden lang vernachlässigt wird.
+table_spiritForceModifiers
 
-Tränke können auch verwendet werden, um Freundschaftspunkte zu verbessern. Allerdings handelt es sich dabei um limitierte Consumables, die nicht immer im Aavegotchi-Store erhältlich sind. Mehr Details zu Tränken werden bald verfügbar sein.
+## Kinship
+Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
 
-Hohe Level an Freundschaft können die Leistung deines Aavegotchis in Minispielen erhöhen und können auch als Multiplikator für GHST-Belohnungen bei Governance und [Rarity Farming](/rarity-farming) dienen. Ein niedriges Level an Freundschaft wird den gegenteiligen Effekt haben.
+Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
 
-Einige Möglichkeiten, den Freundschaftswert deines Aavegotchis zu erhöhen:
+A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+
+Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+
+High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+
+Some ways to boost your Aavegotchi’s kinship level:
 
 * Aavegotchis werden mit einem Sinn für staatsbürgerliche Pflichten geboren. Bring dein Aavegotchi zum Rathaus und lass es im AavegotchiDAO abstimmen;
 * Aavegotchis mögen Geister sein, aber sie haben einen unersättlichen Appetit! Füttere dein Aavegotchi mit Consumables, um sein gespenstisches Lächeln zu sehen;
@@ -73,13 +80,13 @@ Einige Möglichkeiten, den Freundschaftswert deines Aavegotchis zu erhöhen:
 * Aavegotchis lieben es zu spielen! Nimm dein Aavegotchi mit in den Aavegotchi Realm und level es in Minispielen auf.
 
 
-## Erfahrung
-Aavegotchis erhalten Erfahrung (EXP) für das Abstimmen im AavegotchiDAO und das Spielen von Minispielen. Aavegotchis können auch geopfert werden, um ihre [Sicherheiten](/atokens) zu entfernen und auf ein anderes Aavegotchi übertragen zu lassen. Das Empfänger-Aavegotchi erhält 100% der gesammelten EXP des geopferten Aavegotchis.
+## Experience
+Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 ## Level
-Aavegotchis leveln auf, wenn sie mehr EXP erhalten. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Einige Kleidungsstücke können nur von Aavegotchis eines bestimmten Levels getragen werden.
+Aavegotchis level up as they gain more XP. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Some wearables can only be worn by Aavegotchis of a certain level.
 
-Für detaillierte Informationen zu wie viel EXP für jedes Level benötigt werden, klicke [hier](/xp).
+For detailed information on the XP required for each level, click [here](/xp).
 
 ## Haunt
-Wie Pioniere in der Neuen Welt reisen die Aavegotchis in Gruppen, die als Haunts bekannt sind, vom Nether Realm zum Ether Realm. Der erste Haunt enthält 10'000 Aavegotchis. Danach müssen neue Haunts vom AavegotchiDAO genehmigt werden. Einige Kleidungsstücke können nur von Aavegotchis getragen werden, die zu einem bestimmten Haunt gehören.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
