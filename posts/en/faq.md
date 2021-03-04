@@ -48,6 +48,7 @@ contributors: ["eris771"]
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
 <li><a href=#wearable-faq>Wearable FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
+<p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
@@ -188,6 +189,11 @@ Yes, there will be additional raffles after Mainnet launches. However, they will
 
 ### Do I need to transfer my wearable vouchers to Polygon?
 No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+
+### Are there limited quantities for each wearable?
+Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+
+For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
 ## Portal FAQ
 
