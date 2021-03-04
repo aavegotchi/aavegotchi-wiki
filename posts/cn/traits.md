@@ -16,9 +16,10 @@ Aavegotchis是带着特征出生的。 就像你的特征如何定义你是什�
 
 <ol>
 <li><a href=#randomly-generated-traits>随机生成的特征 </a></li>
-<li><a href=#kinship>亲属关系</a></li>
-<li><a href=#experience>经验</a></li>
-<li><a href=#level>等级</a></li>
+<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
+<li><a href=#kinship>Kinship</a></li>
+<li><a href=#experience>Experience</a></li>
+<li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
 </ol>
 
@@ -54,18 +55,24 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) 表示“低”；(H) 表示“高” </i></p>
 <p style="margin-left: 3.0em"><i> *眼睛颜色与你的Aavegotchi上的押注抵押品颜色相同， 即橙色代表aDAI，天蓝色代表aAAVE，紫色代表aETH等。 </i></p>
 
-## 亲属关系
-亲属关系是您Aavegotchi对您的忠诚度。 亲属关系不是随机分配的，而是在召唤时以一个固定的值（50）开始，并根据各种因素增加或减少，如Aavegotchi与同一主人相处的时间，以及主人与它互动的频率。 最小亲属关系值为 0。 没有最大亲属关系值。
+## Spirit Force Trait Modifiers
 
-通常，较长的所有权等于较高的亲属关系，但长时间忽略您的Aavegotchi会降低亲属关系。 Aavegotchis不仅仅是储存你的加密货币的容器。 它们是活生生的灵魂，它们需要你的关爱!
+The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
 
-每12小时与您的 Aavegotchi 交互时，最多可以累计1个亲属点。 相反，如果你的Aavegotchi没有工作24小时，将处以-1亲属点的惩罚。
+table_spiritForceModifiers
 
-药水也可以用来提高血缘关系分数。 然而，它们只是有限提供的消费品，Aavegotchi商店可能并不总是能够买到。 提供关于药剂的更多详情将在后续公布。
+## Kinship
+Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
 
-高亲属等级可以提升您的 Aavegotchi 在小游戏中的性能， 并且也可以作为GHST治理奖励和 [稀有度挖矿](/rarity-farming)的倍数。 低亲属关系水平将产生相反的效果。
+Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
 
-提升您的 Aavegotchi 亲属等级的一些方法：
+A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+
+Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+
+High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+
+Some ways to boost your Aavegotchi’s kinship level:
 
 * Aavegotchis是带着公民责任感出生的。 将你的Aavegotchi带到市政厅，让它在AavegotchiDAO投票；
 * Aavegotchis可能是小鬼，但他们有着贪婪的欲望！ 给他们喂食Aavegotchi消费品，让他们展开笑颜；
@@ -73,13 +80,13 @@ table_TraitsByRarity1 table_TraitsByRarity2
 * Aavegotchis喜欢玩！ 带着你的Aavegotchi在Aavegotchi领域里溜一溜，玩玩小游戏从而提升它的等级。
 
 
-## 经验
-Aavegotchis获得了参加AavegotchiDAO投票和玩小型游戏的经验(XP)。 Aavegotchis如果光荣牺牲了，他们的 [抵押代币](/atokens) 就会被转移到另一个Aavegotchi（胜利的）身上。 胜利的Aavegotchi将获得牺牲的 Aavegotchi 累计的所有XP。
+## Experience
+Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
-## 等级
-Aavegotchis级别提高，因为他们获得了更多的 XP。 每升三级，Aavegotchis 就会获得一个 [灵魂点](/glossary#spirit-point) ，可以用于增加或减少某个特性。 有些穿戴物品只能由一定级别的Aavegotchis穿戴。
+## Level
+Aavegotchis level up as they gain more XP. 每升三级，Aavegotchis 就会获得一个灵魂点，可以用于增加或减少某个特性。 Some wearables can only be worn by Aavegotchis of a certain level.
 
-若要获取每个级别所需的 XP 详细信息，请点击 [这里](/xp)。
+For detailed information on the XP required for each level, click [here](/xp).
 
 ## Haunt
-就像新世界的先驱者一样，Aavegotchis从冥界来到以太世界，团体称为Haunts。 最初的开荒者包括10,000个Aavegotchis。 此后，AavegotchiDAO必须批准新的Haunts出世。 某些可穿戴设备只能由特定的Haunt批次的Aavegotchis穿戴。
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the AavegotchiDAO. Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
