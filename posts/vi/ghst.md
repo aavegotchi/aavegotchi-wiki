@@ -38,7 +38,7 @@ Các phần thưởng khuyến khích người dùng là rất quan trọng tron
 
 Người dùng cần phải mua GHST và dùng nó vào quá trình triệu hồi cũng như huấn luyện các Aavegotchi. Một phần số tiền thu được sẽ được chuyển lại cho DAO để có thêm ngân sách nhằm phát triển hệ sinh thái này. Đồng thời, một phần giá trị cũng sẽ được phân bố như một phần thưởng cho những quyết định quản trị thông thái từ DAO, và sẽ là phần thưởng cho những ai tham gia vào rarity farming.
 
-For more information, make sure to check out the [Tokenomics page](/tokenomics).
+Để xem thêm thông tin chi tiết, hãy xem qua [trang Tokenomics](/tokenomics)nhé.
 
 ## Dùng GHST
 Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏi xem khi nào thì đồng tiền này sẽ tăng vọt lên chín tầng mây? Nhiều lắm nha, và một khi bạn học được về hàng tá những cách để sử dụng GHST, bọn mình thấy rằng thế nào bạn cũng sẽ nghĩ lại về việc bán token đi.
@@ -51,7 +51,7 @@ Bao gồm:
 * [Stake GHST](/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
 ## Mua GHST
-Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
+Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua token GHST:
 
 * Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
 * Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
