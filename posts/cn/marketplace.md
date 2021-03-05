@@ -46,7 +46,7 @@ contributors:
 
 ## Aavegotchi Baazaar
 
-Aavegotchi Baazaar 是 Aavegotchi 的官方交易市场。 它是所有 Aavegotchi 商业活动的重要枢纽，业务包含一级市场和二级市场。 参观 Aavegotchi 商店了解更多可穿戴设备、魔药装备等最新发售情况。 There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
 <img class = "bodyImage" src = "/marketplace/avegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
