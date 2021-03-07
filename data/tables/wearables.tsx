@@ -122,7 +122,7 @@ export const tables
 				    [`<img src="/wearables/final wearables/60_WizardHat.svg" alt = "aavegotchi Common Wizard Hat"/>`, "60", "Common Wizard Hat", "Common", "BRN +1", "1000", "head"],
 				    [`<img src="/wearables/final wearables/61_WizardHatLegendary.svg" alt = "aavegotchi Legendary Wizard Hat"/>`, "61", "Legendary Wizard Hat", "Legendary", "SPK +2, BRN +2", "125", "head"],
 				    [`<img src="/wearables/final wearables/62_WizardHatMythical.svg" alt = "aavegotchi Mythical Wizard Hat"/>`, "62", "Mythical Wizard Hat", "Mythical", "SPK +2, BRN +3", "50", "head"],
-				    [`<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, "63", "Godlike Wizard Hat", "Godlike", "SPK +2, BRN +4", "3", "head"],
+				    [`<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, "63", "Godlike Wizard Hat", "Godlike", "SPK +2, BRN +4", "5", "head"],
 				    [`<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, "64", "Common Wizard Staff", "Common", "NRG +1", "1000", "hands"],
 					[`<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, "65", "Legendary Wizard Staff", "Legendary", "NRG +2, BRN +2", "125", "hands"],
 					[`<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "66", "Wizard Visor", "Common", "NRG +1", "1000", "eyes"]
@@ -312,7 +312,7 @@ export const tables
                 data: [
 				    [`<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`, "111", "Hazmat Hood", "Legendary", "NRG +1, AGG -1, SPK +2", "125", "head"],
 					[`<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`, "112", "Hazmat Suit", "Legendary", "NRG +2, AGG -1, SPK +1", "125", "body"],
-					[`<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`, "113", "Uranium Rod", "Godlike", "NRG +6", "3", "hands"]
+					[`<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`, "113", "Uranium Rod", "Godlike", "NRG +6", "5", "hands"]
 				]
 			}
 		},
