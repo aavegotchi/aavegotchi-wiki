@@ -7,7 +7,7 @@ description: 'Jump in and help develop this Wiki!'
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">CoderDan 欢迎您！</p>
 </div>
 
 想展示你的厉害的编码技术吗？帮助开发这个Wiki!  帮助开发这个Wiki!
@@ -17,7 +17,7 @@ description: 'Jump in and help develop this Wiki!'
 * 🌃 深色模式
 * 📱 让它移动端更加友好化
 
-For developers, the Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+对于开发者来说，Aavegotchi 文档可以在这里找到 [](https://docs.aavegotchi.com/)。
 
 <div style="margin-top:50px;"></div>
 
