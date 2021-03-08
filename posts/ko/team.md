@@ -46,7 +46,7 @@ Dan이라고 불리는 Coder Dan은 사용자들이 희망하는 주소에 Aave�
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldxnXross</a></p>
 </div>
-GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에서 작동하는 최초의 NFT 민팅 플랫폼 Mintable과 같은 널리 알려진 NFT 플랫폼들의 개발에서 주도적인 역할을 맡아온 product centric founder입니다. 그는 gold 스테이블 코인 스테이킹을 통해 얻는 3D, 고해상도 디지털 수집품을 최초로 선보인 Bullionix.io의 크리에이터로써 Value-Staked NFT의 개념을 만든 크리에이터이기도 합니다. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에서 작동하는 최초의 NFT 민팅 플랫폼 Mintable과 같은 널리 알려진 NFT 플랫폼들의 개발에서 주도적인 역할을 맡아온 product centric founder입니다. 그는 gold 스테이블 코인 스테이킹을 통해 얻는 3D, 고해상도 디지털 수집품을 최초로 선보인 Bullionix.io의 크리에이터로써 Value-Staked NFT의 개념을 만든 크리에이터이기도 합니다. 이더리움 Dapp에서의 성과에 이전에는 ZB 그룹의 국제 개발 수장으로 디지털 자산 거래소 분야에 깊게 관여했었습니다. 그리고 중국에서 Lenovo Mobile Unit의 Motorola 제품 개선과 합병 전문가로 활동했었습니다.
 
 ## Xibot
 
