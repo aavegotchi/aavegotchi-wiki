@@ -103,11 +103,11 @@ stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [http
 
 FRENS가 충분히 준비되셨다면, [Shop Bulk Buy user interface](https://aavegotchi.com/tickets)로 이동하셔서 FRENS로 래플 티켓을 구하시면 됩니다.
 
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
+FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니다. 즉 [marketplace](/marketplace)에서 구매/판매 등의 거래가 가능하다는 것입니다.
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
+래플 티켓에는 제일 낮은 등급인 Common에서부터 제일 높은 등급인 Godlike까지 총 6개의 등급이 있습니다.
 
-table_RaffleTickets
+표_ 래플 티켓
 
 Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
