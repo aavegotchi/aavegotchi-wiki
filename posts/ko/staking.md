@@ -109,31 +109,31 @@ FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니�
 
 표_ 래플 티켓
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+미디엄 포스트: [ [Stake GHST, Make FRENS Live on Ethereum Mainnet!]](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+사용자들은 한번의 트랜잭션에서 여러 등급의 티켓에 대한 거래가 가능합니다. 그렇기 때문에 각 등급의 래플 티켓을 구매할 때 **각각의 트랜잭션을 만드실 필요는 없습니다.**
 
 ## 래플 참여하기
 
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
+래플은 일정 기간동안 이루어집니다. 이 기간에 여러분은 래플 티켓을 제출하여 상품을 노릴 수 있습니다. 래플 티켓을 추첨함에 넣는 것은 이더리움 상에서 일어나는 트랙잭션이기 때문에 자동적으로 이루어지지 않습니다. 만약 다양한 등급의 래플 티켓을 한번에 추첨함에 넣고 싶으시다면, 걱정하실 필요가 없습니다. 이것 역시 가능합니다. 각각의 래플 티켓에 대해 일일이 서로 다른 트랜잭션을 생성할 필요가 **전혀** 없습니다.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+래플이 종료된 후 당첨된 상품을 확인할 수 있고 수령에 대한 최종 승인도 가능합니다.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
+만약 래플에 참여하지 않기로 했다면 래플 티켓으로 뭔가를 하실 필요가 전혀 없습니다. 그저 추후에 있을 래플에 대비해 티켓을 모을 수 있습니다.
 
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
+예를 들어 체인링크를 주제로한 첫번째 래플을 살펴보겠습니다. 아래는 당시 래플에서의 상품들에 대한 내용입니다.
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+총 6010개의 상품들이 래플에서 제공되었습니다.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+[Opensea에서 거래중인 상품들을 확인할 수 있습니다 :)](https://opensea.io/activity/aavegotchi-wearable-vouchers)
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+각 상품들은 무작위로 뽑힌 래플 티켓의 소유자에게 주어지게 되며, 같은 등급 티켓들의 당첨확률은 모두 동일합니다.
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+그렇기 때문에 다음과 같은 방법을 통해 수상 확률을 높일 수 있습니다.
+* 여러 티켓을 제출하기
+* Common 등급과 같은 보다 많은 상품들이 준비된 등급의 티켓을 준비하기
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
