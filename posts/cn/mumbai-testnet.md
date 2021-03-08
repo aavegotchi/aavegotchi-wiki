@@ -35,9 +35,9 @@ Aavegotchi Baazaar现在已经在 Mumbai 测试网上上线了！ 你必须在Te
 
 3). 输入以下设置：
 
-Network Name: Mumbai Testnet
+网络名称: Mumbai Testnet
 
-New RPC URL: https://rpc-mumbai.matic.today
+新 RPC URL： https://rpc-mumbai.matic.today
 
 Chain ID: 80001
 
