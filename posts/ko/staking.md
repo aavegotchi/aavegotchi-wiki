@@ -95,13 +95,13 @@ stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [http
 
 ## 스테이킹 컨트랙트 주소
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+다음의 표를 통해 Polygon에서의 여러 스테이킹 컨트랙트를 확인할 수 있습니다. 이때, ghstStaking, stkGHSTQUICK 컨트랙트는 같은 컨트랙트 주소를 공유합니다. 트랜잭션을 완료하기 전에 먼저 컨트랙트 주소를 꼭 확인해주세요!
 
-table_stakingContractAddresses
+표_staking 컨트랙트 주소
 
 ## 래플 티켓 구매하기
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
+FRENS가 충분히 준비되셨다면, [Shop Bulk Buy user interface](https://aavegotchi.com/tickets)로 이동하셔서 FRENS로 래플 티켓을 구하시면 됩니다.
 
 Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on [marketplaces](/marketplace).
 
