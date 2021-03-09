@@ -41,24 +41,24 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 ### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to purchase Raffle tickets
-* Learn how to enter Raffle tickets into Raffles
+* Học cách mua vé Raffle
+* Học cách dùng vé để tham dự Raffle
 
 <hr />
 
-### Process of getting Aavegotchi on Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Cách mua Aavegotchi trên Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to purchase GHST tokens from UniSwap
-* Learn how to purchase Portals on Kovan Testnet
-* Learn how to open Portals on Kovan Testnet
-* Learn how to select an Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to summon the selected Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to get aTokens
-* Learn how to play with your Aavegotchi on Kovan Testnet
+* Học cách mua token GHST từ Uniswap
+* Học cách mua Portal trên Kovan Testnet
+* Học cách mở Portal trên Kovan Testnet
+* Học cách chọn một Aavegotchi từ những Portal đã mở trên Kovan Testnet
+* Học cách triệu hồi Aavegotchi từ Portal đã mở trên Kovan Testnet
+* Học cách lấy aToken
+* Học cách chơi Aavegotchi trên Kovan Testnet
 
 <hr />
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
 * Learn how to configure MetaMask to display Polygon
