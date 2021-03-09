@@ -7,23 +7,23 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Aavegotchi Launch: Success!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
-* The first 10,000 Portals sold out in less than one minute!
-* Our secondary marketplace, the Baazaar, saw massive activity at launch
-* Post published on 3 March 2021
+## [Aavegotchi Triển Khai Mainnet thành công!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
+* 10.000 portal đầu tiên đã được bán hết sạch chỉ trong vòng 1 phút!
+* Chợ thứ cấp của bọn mình là the Baazaar đã nhận được lượng truy cập cao chóng mặt khi game được triển khai
+* Bài viết được đăng tải vào ngày 3 tháng Ba năm 2021
 
-## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
-* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT.
-* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public.
-* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
+## [Ngày Tháng Giêng được xác định là ngày khởi chạy trò chơi!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
+* Vào ngày 24 tháng Giêng 2021, team Aavegotchi đã xác nhận rằng Aavegotchi sẽ triển khai Mainnet vào thứ Ba, ngày 2 tháng Ba lúc 10am EST/ 11 giờ đêm SGT.
+* Sự kiện Mainnet sẽ diễn ra tại Aavegotchi.com và kèm theo đó là đợt mở bán NFT (non fungible token) với tổng cộng 10.000 Aavegotchi Portal được mở bán ra cộng đồng.
+* Được đặt tên là "Haunt One", sự kiện này đánh dấu lần đầu tiên những người yêu thích trò chơi có thể triệu hồi các Aavegotchi.
 <p></p>
 
-## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
-* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
+## [Chainlink VRF có mặt trên Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
+* Không cần phải chờ đợi lâu nữa! Chainlink VRF đã có mặt trên Polygon vào ngày 23 tháng Hai năm 2021!
 <p></p>
 
-## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
+## [Quỹ Thanh Khoản GHST-USDC đã lên sóng!](https://twitter.com/aavegotchi/status/1362423023656001537)
+* Quỹ thanh khoản GHST-USDC được triển khai vào ngày 18 tháng Hai năm 2021. Giờ bạn đã có thể kiếm FRENs từ quỹ mới này!
 <p></p>
 
 ## [Quỹ AavegotchiDAO đã chạm mốc 100k!](https://twitter.com/aavegotchi/status/1361690024958300170)
@@ -224,45 +224,45 @@ contributors:
 <p></p>
 
 ## [Aavegotchi và Chainlink là đôi bạn thân!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* LÀM BẠN VỚI CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+* LÀM BẠN VỚI CHAINLINK! Vào ngày 24 Tháng Chín năm 2020, Coderdan giải thích về Chainlink's Verifiable Random Function (VRF) và cách mà Aavegotchi sử dụng nó
+* Đọc [bài viết hữu ích về Chainlink](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) này để có thêm lời giải thích chuyên sâu về Chainlink VRF
 <p></p>
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [Presale được bán sạch trong vòng một phút!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST đã được triển khai trên Mainnet vào ngày 14 Tháng Chín năm 2020! Presale được bán sạch trong vòng một phút! :O
+* Token GHSST được nắm giữ bởi hơn 2000 tài khoản khác nhau! Quá đjnkkkkkkkkkk
 <p></p>
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+## [Thông tin về Presale! Báo chí đăng tin!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* Vào ngày 10 Tháng Chín năm 2020, thông tin cực sốc liên quan đến sự kiện Pre-Sale đã được công bố rộng rãi!
 <p></p>
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
+## [Bonding Cruve được thử nghiệm trên testnet Rinkeby](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* Vào ngày 3 Tháng Chín năm 2020, Token Bonding Curve (TBC) của Aavegotchi đã được triển khai trên testnet
 <p></p>
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+## [Ask Me Anything (AMA) đầu tiên của Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Ask Me Anything (AMA) đầu tiên của Aavegotchi đã được công bố vào ngày 1 Tháng Chín năm 2020
 <p></p>
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+## [Private sale được bánnnnnnn sạchhhhhhh!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Private sale được bán sạch vào ngày 20 Tháng Tám năm 2020
+* [Telegram chat!](https://t.me/aavegotchi) của Aavegotchi được triển khai
+* [Whitepaper Chính Thức](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view) được công bố
 <p></p>
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Các Aapprentices tham gia vào cuộc chơi!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* Vào ngày 13 Tháng Tám năm 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph và Unintelligent_nerd đã tham gia đội Aavegotchi Aapprentices!
+* Aavegotchi Aagents hùng mạnh với 120 thành viên!
 <p></p>
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crown tham gia vào team vào Aavegotchi Mission được triển khai](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Vào ngày 29 Tháng Bảy năm 2020, JC Crown đã tham gia vào team Aavegotchi!
+* Aavegotchi Mission được triển khai cùng ngày!
 <p></p>
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge tham gia vào team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge tham gia vào ngày 22 Tháng Bảy năm 2020
 <p></p>
 
 ## [Bài đăng đầu tiên của Aavegotchi trên Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
