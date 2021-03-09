@@ -55,25 +55,25 @@ Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua
 
 * Mua GHST ngay trên [curve](/curve) ở Ethereum Mainnet (yêu cầu KYC, không may là người có quốc tịch Mỹ và Trung Quốc không thể tham gia)
 * Mua từ những sàn giao dịch phi tập trung trên Ethereum Mainnet như [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) và [ Matcha](https://matcha.xyz/markets/GHST)
-* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
-* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+* Mua từ những Sàn giao dịch Phi tập trung trên Polygon như [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Mua từ những Sàn giao dịch Tập trung như [Okex](https://www.okex.com/spot/trade/ghst-eth#type=1) và [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
-Make sure you get the correct token address as well.
+Hãy nhớ kiểm tra kỹ địa chỉ của token nữa nhé.
 
-On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+Trên Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 
-On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+Trên Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
 
-**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
+**Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
 
 ## Kiếm GHST
-Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+Không phải ai cũng là whale, và cũng không sao - vẫn còn nhiều điều bất ngờ trong vùng biến DeFi.
 
-There are several ways to grind it out and earn GHST. Bao gồm:
+Có nhiều cách để căng buồm và kiếm thêm GHST. Bao gồm:
 
-* Engaging in [rarity farming](/rarity-farming)
-* Participate and vote in [AavegotchiDAO](/dao)
-* Playing and winning in minigames (more information TBC)
+* Tham gia vào [rarity farming](/rarity-farming)
+* Tham gia và vote trong [AavegotchiDAO](/dao)
+* Chơi và chiến thằng trong các minigame (nhiều thông tin hơn sẽ được thông báo)
 
 
 

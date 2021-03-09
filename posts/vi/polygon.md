@@ -32,13 +32,13 @@ Aavegotchi Mainnet xém tí được triển khai vào ngày 4 tháng Giêng 202
 
 Rõ ràng là game có thể được khởi chạy trên Mainnet của Ethereum. Nhưng bởi Polygon đang làm việc cùng với những dự án NFT khác (ví dụ như Opensea) rồi nên lựa chọn này cũng dễ hiểu. Cộng đồng đã thể hiện quan điểm của mình và 76% trong số họ đã bỏ phiếu để game được triển khai trên Polygon.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Để thao luận nhiều hơn về vấn đề này, mời bạn tìm hiểu thêm tại [bài viết ](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) trên Medium này nhé.
 
 ## Thêm Polygon vào Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+Hãy cùng nhau bắt đầu cuộc vui nhé! Để dùng Polygon, việc đầu tiên bạn cần làm là kết nối với ví Metamask.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Mở Metamask ra rồi nhấp vào nút "Ethereum Mainnet" trên đỉnh.
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
@@ -56,53 +56,53 @@ Chain ID: 137
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Block Explorer URL (tuỳ chọn): https://explorer.matic.network/
 
 Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! Giờ bạn có thể chuyển đổi qua lại giữa Ethereum Mainnet và Polygon bằng cách nhấp vào nút vừa nhắc trong bước 1.
 
 ## Kết nối tài sản đến Polygon
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồi đấy. Nhưng trước tiên bạn cần có một ít tài sản trên Polygon. Bọn mình sẽ dùng Cổng Chuyển Đổi [Proof of Stake (PoS)](/glossary#proof-of-stake) của Polygon để chuyển tài sản từ Ethereum Mainnet sang Polygon. Nếu bạn chỉ muốn chuyển GHST, thì hãy bỏ qua những bước sau đây và chỉ nên dùng Aavegotchi Bridge[tại đây](https://aavegotchi.com/bridge).
 
-So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
+Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc USDC, đây là cách thực hiện nè:
 
-1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
+1). Hãy vào [https://wallet.matic.network/](https://wallet.matic.network/) và đăng nhập bằng Metamask. Hãy đảm bảo rằng bạn đang ở bên tab "Wallet" nhé, nhìn giống như thế này này:
 
 <img class = "bodyImage" src = "/polygon/matic-wallet.png" alt = "Matic Wallet" />
 
-2). **DO NOT** click the “Switch to Plasma” button. That’s the wrong bridge and needs 7 days to withdraw. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
+2). **ĐỪNG** nhấp vào nút "Switch to Plasma”. Đó không phải cầu kết nối mà bạn cần và phải mất 7 ngày để rút tiền đấy. Thay vào đó hãy thêm tài sản mà bạn muốn chuyển đi vào bên phải. Mình đã thêm sẵn USDC rồi nên các bạn có thể thấy nó trong ví của mình.
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-add-token.png" alt = "Thêm Token trên Matic Wallet" />
 
-3). On the left side click “Matic Wallet” and “Deposit”.
+3). Ở phía bên trái, hãy nhấp vào "Matic Wallet" và "Deposit".
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Thêm Token trên Matic Wallet" />
 
-4). Click “Continue to Deposit” and select your asset here:
+4). Hãy nhấp vào "Tiếp tục Gửi tiền" và chọn tài sản của bạn ở đây:
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Thêm Token trên Matic Wallet" />
 
-5). Enter how much of it you’d like to bridge and click the big blue button.
+5). Nhập vào số lượng mà bạn muốn dùng qua cầu kết nối và nhấn vào cái nút màu xanh to to nhé.
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Thêm Token trên Matic Wallet" />
 
-Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Polygon address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on Polygon. (That’s enough for 1000s of transactions, Polygon is aavesome!)
+Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Polygon của bạn. Bạn có thể được airdrop 0.1 MATIC nếu bạn chuyển một stablecoin vào tài khoản và yêu cầu [Quickswap](https://quickswap.exchange/), DEX lớn nhất trên MATIC, chuyển MATIC cho bạn. (Nhiêu đó thôi là đã đủ để chuyển hơn 1000 giao dịch rồi, Matic thật toẹt vời ông mặt trời mà!)
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
 ## Chuyển tài sản về lại Ethereum Mainnet
 
-What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
+Vậy thì làm thế nào để chuyển tài sản về lại Ethereum Mainnet? Có thể làm vậy được hay không?
 
-Yes, there is a way to transfer your assets back to Ethereum Mainnet!
+Có chứ, có một cách giúp bạn có thể chuyển tài sản trở lại Ethereum Mainnet!
 
-Head over to the [Aavegotchi Bridge](https://aavegotchi.com/bridge) again.
+Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge) lại nhé.
 
 <img class = "bodyImage" src = "/polygon/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
 
-At the right hand side of the screen, there is an image of a token as well as a box where you can input an amount in. Click on the image of the token and a display of available tokens will appear. Select the [maToken](/matokens) which you want to bridge back to Ethereum Mainnet. After that, key in the desired amount in the box and hit the "Transfer to Ethereum" button.
+Ở bên tay phải của màn hình, có hình ảnh của một đồng token cũng như một ô để bạn có thể nhập số lượng vào đó. Nhấp vào ảnh của token và một bảng danh sách token sẽ xuất hiện. Hãy chọn [maToken](/matokens) mà bạn muốn chuyển lại Mainnet của Ethereum. Sau đó, hãy nhập vào lượng token mà bạn muốn chuyển vào đó và nhấp vào nút "Transfer to Ethereum.".
 
-Withdrawing from Polygon takes approximately 30 minutes. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
+Việc rút tiền từ Polygon sẽ mất khoảng 30 phút. Có lúc sẽ lâu hơn. Sau khi rút tiền thành công, bạn vẫn sẽ phải nhấp vào nút "CLAIM ON ETHEREUM" để nhận lại token trên Ethereum Mainnet.
 
-Currently, the Aavegotchi Bridge supports the transfer of maTokens from Polygon to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.
+Trong hiện tại, Aavegotchi Bridge hỗ trợ chuyển maToken từ Polygon về Ethereum Mainnet. Trong tương lai, nó sẽ hỗ trợ chuyển các Aaevegotchi (ERC-721) và cũng như Trang phục (ERC-1155).

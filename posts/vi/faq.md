@@ -55,6 +55,7 @@ contributors:
 <p><a href=#when-will-portals-be-released->Khi nào thì Portal sẽ được mở bán?</a></p>
 <li><a href=#aavegotchidao-faq>Những câu hỏi về AavegotchiDAO</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Làm cách nào để có thể Vote trên Aragon bằng Trust Wallet?</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Tại sao khi vote trên Snapshot thì nó lại hiện lên lỗi 'wrong timestamp'?</a></p>
 <li><a href=#gameplay-faq>Những câu hỏi về Lối chơi</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
@@ -64,11 +65,11 @@ contributors:
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->Mình có thể chuyển sang Polygon bằng cách nào?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->Mình có thể chuyển sang Matic bằng cách nào?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->Mình có ví ledger / trezor, mình cần phải làm gì</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Mình tìm không thấy token GHST trên Polygon trong ví MetaMask, tại sao vậy?</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Mình có thể trực tiếp chuyển token từ Polygon lên các sàn giao dịch như Binance, Kucoin,... hay không?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
 </ol>
@@ -205,20 +206,22 @@ Hiện tại, Aragon vẫn chưa được tích hợp với Trust Wallet. Giải
 
 Xem[bài viết này](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) để có thêm thông tin về cách làm này.
 
+### Tại sao khi vote trên Snapshot thì nó lại hiện lên lỗi 'wrong timestamp'?
+Bạn sẽ gặp phải lỗi này khi thiết bị/máy tính của bạn không trùng thời gian với thời gian của Snapshot. Chỉnh thời gian trên máy tính sang chế độ tự động và nó sẽ thự điều chỉnh để trùng với mốc thời gian trên Snapshot.
 
 ## Những câu hỏi về Lối chơi
 
 
 ### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
-Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm mong muốn có thể sẽ cực kỳ cao mà cũng cực kỳ thấp**. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 0-100 thường sẽ dễ gặp hơn.
+Độ hiếm của Aavegotchi được dựa trên bell curve - nghĩa là ** điểm độ hiếm cực kỳ cao hoặc cũng cực kỳ thấp** cũng đều có sẽ được săn đón. <a href="https://wiki.aavegotchi.com/traits">Điểm đặc điểm </a> rơi vào tầm khoảng 0-100 thường sẽ dễ gặp hơn.
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 
 Portal có thể sẽ có giá 100 GHST trong đợt triệu hồi đầu tiên. Giá trị của những vật phẩm khác như trang bị, vật phẩm tiêu hao, và đất đai sẽ được công bố - dù sau khi trò chơi được triển khai [DAO](/dao) sẽ có quyền **điều chỉnh giá tài sản thông qua những cuộc bỏ phiếu quản trị**. Hiện tại, bạn có thể xem qua giá hiện tại trên thị trường mở dành cho một số loại phụ kiện trên [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
 
 ### Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?
-Không đâu bạn ơi, tăng hoặc giảm lượng collateral/maToken được stake vào Aavegotchi sẽ không làm ảnh hưởng đến cấp độ kinship.
+Không đâu bạn ơi, tăng hoặc giảm lượng collateral/aToken được stake vào Aavegotchi sẽ không làm ảnh hưởng đến cấp độ kinship.
 
 ## Những câu hỏi về Kỹ thuật
 
@@ -239,13 +242,13 @@ Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên 
 
 Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
 
-### Mình có thể chuyển sang Polygon bằng cách nào?
+### Mình có thể chuyển sang Matic bằng cách nào?
 Xem thêm tại [Matic Migration Guide](/polygon).
 
 ### Mình có ví ledger / trezor, mình cần phải làm gì?
 Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
 
-### Mình tìm không thấy token GHST trên Polygon trong ví MetaMask, tại sao vậy?
+### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
 
 Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
@@ -253,7 +256,7 @@ Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch 
 
 Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
 
-### Mình có thể trực tiếp chuyển token từ Polygon lên các sàn giao dịch như Binance, Kucoin,... hay không?
+### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
 **Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?

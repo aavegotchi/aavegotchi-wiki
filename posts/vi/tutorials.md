@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi 101'
-description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
+description: "Aavegotchi 101. Những bài hướng dẫn giúp bạn bắt đầu tiên giúp bạn tìm hiểu tất tần tật về blockchain, DeFi, và Aavegotchi!"
 contributors:
   - "unintelligent-nerd"
 ---
@@ -21,7 +21,7 @@ Rồi đâu ra Aavegotchi nữa.
 
 Không sao đâu fen. Lúc đầu ai cũng gà mờ cả. Bọn mình hiểu mà.
 
-We have prepared some tutorials (articles and videos) to help kickstart your journey! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
+Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn bắt đầu cuộc hành trình nè! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
 
 <div class="contentsBox">
 
@@ -29,11 +29,11 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Cách mua Aavegotchi trên Kovan Testnet</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ul>
 
@@ -41,62 +41,62 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 ### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to purchase Raffle tickets
-* Learn how to enter Raffle tickets into Raffles
+* Học cách mua vé Raffle
+* Học cách dùng vé để tham dự Raffle
 
 <hr />
 
-### Process of getting Aavegotchi on Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Cách mua Aavegotchi trên Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to purchase GHST tokens from UniSwap
-* Learn how to purchase Portals on Kovan Testnet
-* Learn how to open Portals on Kovan Testnet
-* Learn how to select an Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to summon the selected Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to get aTokens
-* Learn how to play with your Aavegotchi on Kovan Testnet
-
-<hr />
-
-### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
-
-* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
-* Learn how to configure MetaMask to display Polygon
-* Learn how to add tokens from Polygon to your MetaMask
-* Learn how to stake GHST tokens on Polygon
+* Học cách mua token GHST từ Uniswap
+* Học cách mua Portal trên Kovan Testnet
+* Học cách mở Portal trên Kovan Testnet
+* Học cách chọn một Aavegotchi từ những Portal đã mở trên Kovan Testnet
+* Học cách triệu hồi Aavegotchi từ Portal đã mở trên Kovan Testnet
+* Học cách lấy aToken
+* Học cách chơi Aavegotchi trên Kovan Testnet
 
 <hr />
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
-Click [here](/polygon) for the article
+### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
-* Learn how to configure MetaMask to display Polygon
-* Learn how to bridge assets using the Polygon wallet interface
-* Learn how to bridge assets back to Ethereum Mainnet from Polygon
+* Học cách chuyển token GHST từ Ethereum Mainnet sang Polygon (trước đây là Matic Network)
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Học cách thêm token trên Polygon vào MetaMask
+* Học cách stake token GHST trên Polygon
+
+<hr />
+
+### Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)
+Xem bài viết tại [đây](/polygon)
+
+* Tìm hiểu nguyên nhân tại sao Aavegotchi lại chọn Polygon (tên trước đó là Matic) làm giải pháp Layer 2.
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Tìm hiểu cách chuyển tài sản giữa 2 mạng bằng giao diện ví Polygon
+* Tìm hiểu cách chuyển tài sản về Ethereum Mainnet từ mạng Polygon
 
 <hr />
 
 ### maTokens
-Click [here](/matokens) for the article
+Xem bài viết tại [đây](/matokens)
 
-* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
-* Learn how to stake maTokens into Aavegotchis
+* Tìm hiểu cách chuyển đổi aToken thành maToken thông qua Aavegotchi Bridge
+* Tìm hiểu cách stake maToken vào Aavegotchi
 
 <hr />
 
-### Aavegotchi Baazaar on Mumbai Testnet
-Click [here](/mumbai-testnet) for the article
+### Aavegotchi Baazaar đã có mặt trên Testnet Mumbai
+Xem bài viết tại [đây](/mumbai-testnet)
 
-* Learn how to configure MetaMask to display Mumbai Testnet
-* Learn how to get tokens from the Mumbai Faucet
-* Learn how to get Mumbai GHST tokens
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Tìm hiểu cách nhận token từ Faucet của Mumbai
+* Học cách nhận token GHST trên Mumbai
 
 <hr />
 
 ### Aavegotchi Pre-Launch Checklist
-Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
+Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist)
 
-* Learn how to get ETH
-* Learn how to migrate ETH to Polygon
-* Learn how to buy GHST tokens using QuickSwap
+* Tìm hiểm cách kiếm ETH
+* Tìm hiểu cách chuyển ETH sang Polygon
+* Tìm hiểu cách mua ETH bằng Quickswap
