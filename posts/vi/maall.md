@@ -12,15 +12,15 @@ contributors:
 <p class="headerImageText">The Maall</p>
 </div>
 
-"Hey Aamy. Sorry I'm late."
+"Chào Aamy. Xin lỗi tớ đến trễ."
 
-"Nevermind that. What are you getting later? The Praada Parasol looks cuuuute!"
+"Đừng lo. Sau cậu đến trễ vậy? Cái Praada Parasol nhìn ngầu thật sự ấy!"
 
-"The Kaate Spaade clutch will match my latest outfit! *twirls*"
+"Cái túi Kaate Spaade này sẽ cực kỳ hợp với bộ cánh mà tớ mới mua! *Dìa día*"
 
-The doors to the Maall creaks open.
+Cánh cửa của the Maall cót két mở ra.
 
-"Yippie! It's time to shop!"
+"Tuyệt quá! Đến giờ mua sắp rồi!"
 
 <div class="contentsBox">
 
@@ -34,10 +34,10 @@ The doors to the Maall creaks open.
 
 ## Aavegotchi Maall
 
-The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+Aavegotchi Maall là shop đồ chính chủ của Aavegotchi. Trung tâm thương mại này chuyên kinh doanh [wearables và consumables](/wearables), được định giá bằng token GHST</a>.
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+Nó sẽ nhập hàng từng lần và mỗi lần sẽ bán những vật phẩm hoàn toàn mới.
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/marketplace) and other online marketplaces.
+Một khi những vật phẩm này hết hàng, chúng chỉ có thể được mua từ những người dùng khác thông qua những chợ thứ cấp như [Baazaar](/marketplace) và những chợ online khác.
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+Các bạn có thể truy cập vào the Maall tại [đây](https://aavegotchi.com/shop).
