@@ -60,37 +60,37 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 ### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
-* Learn how to configure MetaMask to display Polygon
-* Learn how to add tokens from Polygon to your MetaMask
-* Learn how to stake GHST tokens on Polygon
+* Học cách chuyển token GHST từ Ethereum Mainnet sang Polygon (trước đây là Matic Network)
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Học cách thêm token trên Polygon vào MetaMask
+* Học cách stake token GHST trên Polygon
 
 <hr />
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
-Click [here](/polygon) for the article
+### Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)
+Xem bài viết tại [đây](/polygon)
 
-* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
-* Learn how to configure MetaMask to display Polygon
-* Learn how to bridge assets using the Polygon wallet interface
-* Learn how to bridge assets back to Ethereum Mainnet from Polygon
+* Tìm hiểu nguyên nhân tại sao Aavegotchi lại chọn Polygon (tên trước đó là Matic) làm giải pháp Layer 2.
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Tìm hiểu cách chuyển tài sản giữa 2 mạng bằng giao diện ví Polygon
+* Tìm hiểu cách chuyển tài sản về Ethereum Mainnet từ mạng Polygon
 
 <hr />
 
 ### maTokens
-Click [here](/matokens) for the article
+Xem bài viết tại [đây](/matokens)
 
-* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
-* Learn how to stake maTokens into Aavegotchis
+* Tìm hiểu cách chuyển đổi aToken thành maToken thông qua Aavegotchi Bridge
+* Tìm hiểu cách stake maToken vào Aavegotchi
 
 <hr />
 
-### Aavegotchi Baazaar on Mumbai Testnet
-Click [here](/mumbai-testnet) for the article
+### Aavegotchi Baazaar đã có mặt trên Testnet Mumbai
+Xem bài viết tại [đây](/mumbai-testnet)
 
-* Learn how to configure MetaMask to display Mumbai Testnet
-* Learn how to get tokens from the Mumbai Faucet
-* Learn how to get Mumbai GHST tokens
+* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
+* Tìm hiểu cách nhận token từ Faucet của Mumbai
+* Học cách nhận token GHST trên Mumbai
 
 <hr />
 
