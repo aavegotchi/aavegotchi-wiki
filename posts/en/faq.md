@@ -55,6 +55,7 @@ contributors: ["eris771"]
 <p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
 <li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
@@ -213,6 +214,8 @@ As at this point, Aragon has not integrated Trust Wallet yet. An alternative sol
 
 See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
+### Why does it say wrong timestamp in Snapshot Voting?
+This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
 ## Gameplay FAQ
 
