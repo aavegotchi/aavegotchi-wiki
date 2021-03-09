@@ -86,6 +86,8 @@ Example of the Final Rarity Score calculation is as shown below:
 table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
+*The formula for ARS is not finalized yet. As a result, the values in the ARS column in the above table are arbitrary.*
+
 ## Belohnungen
 
 In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the **highest Final Rarity Scores** will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
