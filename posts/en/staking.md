@@ -79,7 +79,7 @@ For the stkGHST-QUICK receipt token **only**, you can stake them into the Quicks
 
 *For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day (33% more than just staking GHST).*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day.*
+*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
 Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
