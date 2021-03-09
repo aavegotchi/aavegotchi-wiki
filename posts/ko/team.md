@@ -54,7 +54,7 @@ GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에�
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
-Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 예술가이자 기업가들 중 한 명입니다. 그의 차별화된 픽셀 아트는 Opensea와 Rarible의 NFT 트레이더들의 주의를 끌었으며 여러 실적도 안겨다 주었습니다. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 예술가이자 기업가들 중 한 명입니다. 그의 차별화된 픽셀 아트는 Opensea와 Rarible의 NFT 트레이더들의 주의를 끌었으며 여러 실적도 안겨다 주었습니다. 그의 혁신적인 $PIXEL 토큰은 소셜토큰과 연동된 NFT들이 급격한 상승을 보여줌으로써 가치를 인정받은 최초의 소셜 토큰들 중 하나였습니다. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
 
 ## Nick Mudge
 
