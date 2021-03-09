@@ -51,7 +51,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#independent-drink-items>Vật Phẩm Đồ Uống Độc Lập</a></li>
 <li><a href=#independent-head-items>Vật Phẩm Dành Cho Phần Đầu Độc Lập</a></li>
 <li><a href=#independent-body-items>Vật Phẩm Độc Lập Cho Phần Thân</a></li>
-<li><a href=#consumables>Consumables</a></li>
+<li><a href=#consumables>Vật phẩm tiêu hao</a></li>
 </ol>
 
 </div>
