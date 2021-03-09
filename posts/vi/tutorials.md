@@ -95,8 +95,8 @@ Xem bài viết tại [đây](/mumbai-testnet)
 <hr />
 
 ### Aavegotchi Pre-Launch Checklist
-Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
+Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist)
 
-* Learn how to get ETH
-* Learn how to migrate ETH to Polygon
-* Learn how to buy GHST tokens using QuickSwap
+* Tìm hiểm cách kiếm ETH
+* Tìm hiểu cách chuyển ETH sang Polygon
+* Tìm hiểu cách mua ETH bằng Quickswap
