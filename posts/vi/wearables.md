@@ -181,6 +181,6 @@ table_independentHeadTable
 
 table_independentBodyTable
 
-## Consumables
+## Vật phẩm tiêu hao
 
 table_consumablesTable
