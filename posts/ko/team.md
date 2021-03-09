@@ -11,10 +11,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/aavegotchi-team-photo.png">
-<p class="headerImageText">Non edited photo</p>
+<p class="headerImageText">아베고치 독수리 오형제!😁</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+귀여운 고치들의 배후엔 과연 누가 있을까요? 저희가 취재했습니다. 아베고치의 숨은 주역들을 소개합니다!!!
 
 <div class="contentsBox">
 
@@ -26,7 +26,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>이들의 첫만남</a></li>
 </ol>
 
 </div>
@@ -37,16 +37,16 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
-Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Dan이라고 불리는 Coder Dan은 사용자들이 희망하는 주소에 Aave에서 수확한 yield를 전송해는 Yield Hero라는 DeFi Dap을 개발한 풀스택 개발자이자 크리에이터입니다. 또한 ERC20 스테이킹을 통해 ERC721을 얻을 수 있는 최초의 플랫폼, Bullionix에서 개발분야에서 주도적인 역할을 맡은 것으로도 알려져 있습니다.  Daniel은 현재 중국 푸졘에 있으며, 중국어가 굉장히 유창합니다. 기술적인 성과뿐만 아니라 Dan은 아베고치의 트위터 팔로워 수 10K 달성과 6000명의 디스코드 유저 달성에 있어 1등 공신입니다. 그리고 그의 이전 활동과 경력으로 웨이보, 비리비리, 위챗 오피셜 계정은 150만은 150만 명이 넘는 팔로워를 보유하게 되었습니다.
 
 ## Jesse
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
-<p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
+<p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldxnXross</a></p>
 </div>
-Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에서 작동하는 최초의 NFT 민팅 플랫폼 Mintable과 같은 널리 알려진 NFT 플랫폼들의 개발에서 주도적인 역할을 맡아온 product centric founder입니다. 그는 gold 스테이블 코인 스테이킹을 통해 얻는 3D, 고해상도 디지털 수집품을 최초로 선보인 Bullionix.io의 크리에이터로써 Value-Staked NFT의 개념을 만든 크리에이터이기도 합니다. 이더리움 Dapp에서의 성과에 이전에는 ZB 그룹의 국제 개발 수장으로 디지털 자산 거래소 분야에 깊게 관여했었습니다. 그리고 중국에서 Lenovo Mobile Unit의 Motorola 제품 개선과 합병 전문가로 활동했었습니다.
 
 ## Xibot
 
@@ -72,7 +72,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 </div>
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-## Origins
+## 이들의 첫만남
 ### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
