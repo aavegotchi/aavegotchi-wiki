@@ -79,9 +79,9 @@ LP 토큰을 이용해 [ Aavegotchi Staking 페이지](https://aavegotchi.com/st
 
 stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 보상 풀에 스테이킹을 하는 용도로만 사용이 됩니다. 현재 Aavegotchi 팀에서는 stkGHST-USDC 토큰을 추가적인 QUICK 보상 수령에도 이용할 수 있도록 Quickswap 측에 요청하고 있습니다.
 
-*이렇게 스테이킹된 GHST-QUICK LP토큰  1개로 하루에 23FRENS를 수령할 수 있습니다.*
+*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day (33% more than just staking GHST).*
 
-*이렇게 스테이킹된 GHST-USDC LP토큰  1개로 하루에 7,400만개의 FRENS를 수령할 수 있습니다.*
+*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
 그렇다면 GHST 토큰을 바로 스테이킹하는 것과 LP 토큰을 통해 FRENS를 얻는 방식에는 어떠한 큰 차이가 있을까요?<br> (상당히 이상하지 않으신가요? 아래에 그에 대한 이유가 나와있으니 계속 읽어주세요!)<br> LP토큰을 스테이킹하는 것은 [비영구적손실](/glossary#impermanent-loss)의 위험이 있습니다. 따라서 리스크에 대한 보상이 QUICK으로 주어지는 것입니다.
 
