@@ -15,7 +15,7 @@ Aavegotchi được sinh ra với các trait. Giống như các đặc điểm �
 **Nội dung**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
+<li><a href=#randomly-generated-traits>Chỉ Số Đặc Tính Ngẫu Nhiên </a></li>
 <li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
 <li><a href=#kinship>Kinship</a></li>
 <li><a href=#experience>Experience</a></li>
@@ -25,7 +25,7 @@ Aavegotchi được sinh ra với các trait. Giống như các đặc điểm �
 
 </div>
 
-## Randomly Generated Traits
+## Chỉ Số Đặc Tính Ngẫu Nhiên
 Aavegotchi có sáu đặc điểm:
 
 * AGG = Aggressiveness (Hiếu Chiến)
@@ -55,7 +55,7 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) là viết tắt của "Low"; (H) là viết tắt của "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Những màu mắt phổ biến mang màu sắc của những tài sản ký gửi trên Aavegotchi của bạn. ví dụ màu cam dành cho aDAI, màu xanh da trời cho aAAVE, màu tím cho aETH, v.v. </i></p>
 
-## Spirit Force Trait Modifiers
+## Yếu Tố Điều Chỉnh Chỉ Số Spirit Forces
 
 The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
 
