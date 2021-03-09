@@ -79,9 +79,9 @@ Hãy lấy những token LP này và stake vào [Aavegotchi Staking Interface](h
 
 **Chỉ riêng** token stkGHST-QUICK thì bạn mới phải stake vào quỹ Phần thưởng của Quickswap tại [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) để nhận thêm Quick. Team Aavegotchi đang nhờ đội ngũ Quickswap thêm phần thưởng tương tự cho token stkGHST-USDC.
 
-*Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 23 FRENS/Ngày.*
+*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day (33% more than just staking GHST).*
 
-*Với mỗi 1 GHST-USDC mà bạn muốn stake bằng cách này, bạn sẽ nhận được 74 triệu FRENS/Ngày.*
+*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
 Tại sao lại có sự khác biệt lớn về lượng FRENS nhận được thông qua việc stake token LP so với khi stake GHST? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
 
