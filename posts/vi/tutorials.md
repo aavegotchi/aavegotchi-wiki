@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi 101'
-description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
+description: "Aavegotchi 101. Những bài hướng dẫn giúp bạn bắt đầu tiên giúp bạn tìm hiểu tất tần tật về blockchain, DeFi, và Aavegotchi!"
 contributors:
   - "unintelligent-nerd"
 ---
@@ -21,7 +21,7 @@ Rồi đâu ra Aavegotchi nữa.
 
 Không sao đâu fen. Lúc đầu ai cũng gà mờ cả. Bọn mình hiểu mà.
 
-We have prepared some tutorials (articles and videos) to help kickstart your journey! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
+Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn bắt đầu cuộc hành trình nè! Bạn sẽ sớm hoà nhận với bọn mình thôi. :)
 
 <div class="contentsBox">
 
@@ -29,11 +29,11 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Cách mua Aavegotchi trên Kovan Testnet</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ul>
 
