@@ -69,7 +69,7 @@ The funds raised here were used to bootstrap liquidity in the Token Bonding Curv
 
 Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451). 
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4). 
 
 
 **Public Bonding Curve Sale**
