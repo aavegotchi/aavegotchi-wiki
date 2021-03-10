@@ -72,9 +72,9 @@ Nick Mudge는 굉장히 기량이 뛰어난 솔리디티 개발자들 중 한 �
 </div>
 JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 암호화폐 분야에서 가장 뛰어난 두뇌들과의 풍부한 경험, 네트워킹을 가지고 있습니다. 기업가적인 마인드와 자기동기부여가 강한 그는 관계 구축, 전략적 파트너쉽, 새로운 판매 경로 개발, 소셜 미디어 및 바이럴 마케팅 등에 대해 괄목한 효율성을 보여주면서 자신의 능력을 입증해왔습니다. 그의 가장 큰 열정을 갖고 있는 것 중 하나는 새로운 회사를 소개, 홍보하며 그들의 시작을 지원해주는 것입니다. 이러한 열의는 바로 기술이 가진 혁신적인 힘에 대한 강력한 믿음에 있습니다.
 
-## 이들의 첫만남
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+## 아베고치의 서막
+### 드림팀 어셈블!
+일종의 밈처럼 들릴 수 있겠지만 저희는 '팀'입니다.  어떤 기준으로 보아도, 바로 세상을 뒤흔들 준비가 된 드림팀입니다. '어떻게 팀이 결성이 되었는지'에 대해 꽤나 정확한 스토리를 소개해드리려고 합니다.  Vanilladelphia.eth Aapprentice가 정리한 스토리를 같이 살펴 볼까요?
 
 The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
