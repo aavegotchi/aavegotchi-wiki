@@ -54,7 +54,7 @@ GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에�
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
-Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 예술가이자 기업가들 중 한 명입니다. 그의 차별화된 픽셀 아트는 Opensea와 Rarible의 NFT 트레이더들의 주의를 끌었으며 여러 실적도 안겨다 주었습니다. 그의 혁신적인 $PIXEL 토큰은 소셜토큰과 연동된 NFT들이 급격한 상승을 보여줌으로써 가치를 인정받은 최초의 소셜 토큰들 중 하나였습니다. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 예술가이자 기업가들 중 한 명입니다. 그의 차별화된 픽셀 아트는 Opensea와 Rarible의 NFT 트레이더들의 주의를 끌었으며 여러 실적도 안겨다 주었습니다. 그의 혁신적인 $PIXEL 토큰은 소셜토큰과 연동된 NFT들이 급격한 상승을 보여줌으로써 가치를 인정받은 최초의 소셜 토큰들 중 하나였습니다. 그렇기에 그의 열정적인 팬들은 아베고치 올스타 팀에 대한 FOMO의 또다른 이유가 되기도 하였습니다.
 
 ## Nick Mudge
 
@@ -62,7 +62,7 @@ Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick Mudge는 굉장히 기량이 뛰어난 솔리디티 개발자들 중 한 명입니다. ERC-998 표준은 Mudge에 의해 입안 및 작성되었으며, 아베고치에서 가장 중요한 기반이 되어 부모 NFT가 자식 NFT의 장착과 소지를 가능케 합니다. 더욱 최근에 Mudge는 Diamond Standard라고 불려온 이더리움 관련 연구과 개발을 맡고 있습니다. 이러한 표준은 컨트랙트들의 업그레이드에 있어 주된 돌파구의 역할을 할 수 있으며 DAO들을 중심으로 한 거버넌스에 의해 빠르게 채택되고 있는 중입니다.
 
 ## JC
 
@@ -70,7 +70,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
 </div>
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 암호화폐 분야에서 가장 뛰어난 두뇌들과의 풍부한 경험, 네트워킹을 가지고 있습니다. 기업가적인 마인드와 자기동기부여가 강한 그는 관계 구축, 전략적 파트너쉽, 새로운 판매 경로 개발, 소셜 미디어 및 바이럴 마케팅 등에 대해 괄목한 효율성을 보여주면서 자신의 능력을 입증해왔습니다. 그의 가장 큰 열정을 갖고 있는 것 중 하나는 새로운 회사를 소개, 홍보하며 그들의 시작을 지원해주는 것입니다. 이러한 열의는 바로 기술이 가진 혁신적인 힘에 대한 강력한 믿음에 있습니다.
 
 ## 이들의 첫만남
 ### The Dream Team Assembles
