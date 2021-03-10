@@ -76,7 +76,7 @@ JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 �
 ### 드림팀 어셈블!
 일종의 밈처럼 들릴 수 있겠지만 저희는 '팀'입니다.  어떤 기준으로 보아도, 바로 세상을 뒤흔들 준비가 된 드림팀입니다. '어떻게 팀이 결성이 되었는지'에 대해 꽤나 정확한 스토리를 소개해드리려고 합니다.  Vanilladelphia.eth Aapprentice가 정리한 스토리를 같이 살펴 볼까요?
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+때는 2011년... 아니 2012년이였겠네요.  Coder Dan은 막 대학을 졸업하였으며 이제는 그가 진실로 하고자 하는 것을 추구하기로 결심했습니다.  중국의 해변가에서 사탕을 팔고 있을 때였습니다.  Dan은 사람들은 결코 구시대적인 얼간이들, 특히 그와 같은 외국인에겐 명망있는직업을 제안하지 않을 것이란 걸 알게 되었습니다.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
 "It's time to sell some candy" Said Dan.
 
