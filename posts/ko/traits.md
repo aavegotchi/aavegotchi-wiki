@@ -37,19 +37,19 @@ contributors:
 
 RPG(롤플레잉 게임) 용어를 이용하자면, `AGG`는 힘과 동일하고, `NRG`는 민첩함, `BRN`은 지능, 그리고 `SPK` 는 일종의 와일드카드 특성과 같습니다. 그렇지만 이러한 특성들이 표준 RPG 특성과 정확하게 일치하지는 않다는 것을 명심하셔야 합니다! 아베고치의 메타버스에서는 낮은 수치의 특성 역시 강력합니다!
 
-Traits are determined at the point of opening a [Portal](/portals). Upon opening of a Portal, [Chainlink’s VRF random number generator function](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+특성들은 포탈이 개방되는 시점에서 결정됩니다. 포탈을 개방한 후엔, [체인링크의 VRF, 일종의 난수 생성 함수](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)가 아베고치의 랜덤 특성을 지정하기 위해 실행됩니다. 6가지의 특성들은 종 모양의 곡선에 나눠 퍼져 있고, 각각의 특성은 희귀도에 따라 Common, Uncommon, Rare, 또는 Mythical 등급을 부여받게 됩니다. 각각의 특성에 대한 확률은 아래의 표에서 확인할 수 있습니다.
 
-table_TraitsProbabilities
+표_ 특성별 확률
 
-The bell curve for trait value distribution would look something like the following:
+특성들이 분배된 종 모양 곡선은 다음과 같습니다.
 
 <img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
 
-Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
+현재는 아베고치가 6가지의 특성만을 가지고 있지만, 미래에 [아베고치DAO](/dao)에서의 투표를 통해 보다 확장이 될 수 있습니다. (밋밋한 흰색을 제외한) 아베고치의 몸 색깔과 같은 몇가지 특성들이 새로운 Haunt가 있을 때마다 추가될 수 있습니다.
 
-Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game.
+다른 게임들과는 달리, 아베고치에서는 "최적"의 특성이 없습니다. 눈 모양이나 색깔을 제외한 각각의 소것ㅇ들은 다양한 미니게임에서 다른 효과를 냅니다. 예를 들어, NRG가 높은 아베고치는 레이스를 굉장히 잘 할 수 있지만, 명상 게임에서는 플레이가 좋지 않을 것입니다.
 
-The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
+아래의 표에서 희귀도에 따른 각 특성을 상세히 확인할 수 있습니다. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
 
 table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
