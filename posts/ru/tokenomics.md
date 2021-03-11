@@ -66,7 +66,7 @@ GHST токен распределялся в три стадии. Это час
 
 Участники частной продажи и пресейла получили токены GHST с вестингом на 1 год, начиная с момента закрытия раунда пресейла. Спустя 180 дней состоится релиз 50% оставшихся токенов, а эмиссия остатка произойдет в течение последующих 185 дней.
 
-Подробнее об этом читайте в [Aavegotchi Вайтпейпер](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) и [Комьюнити обновления #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **Публичная продажа через Изогнутую Кривую**

@@ -66,7 +66,7 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 私募和预售的参与者将从预售轮结束后开始，一年释放获得GHST代币。 180天后，初次释放的金额大约相当于总金额的50%。 随后在今后185天内陆续释放剩余的代币。
 
-关于这个问题的更多详细信息，请参阅 [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451)。
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **公开联合曲线销售**

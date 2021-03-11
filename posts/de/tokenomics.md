@@ -66,7 +66,7 @@ Die hier gesammelten Gelder wurden verwendet, um die Liquidität im Token Bondin
 
 Teilnehmer des Private Sale und Pre Sale erhalten ihre GHST Token über einen Zeitraum von einem Jahr, der mit dem Abschluss der Pre Sale Runde beginnt. Nach 180 Tagen wird eine erste Freigabe in Höhe von etwa 50% des Gesamtbetrags erfolgen, bevor die restlichen Token in den nächsten 185 Tagen nach und nach freigegeben werden.
 
-Für mehr Details dazu, lies dir das [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) und [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) durch.
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **Public Bonding Curve Sale**
