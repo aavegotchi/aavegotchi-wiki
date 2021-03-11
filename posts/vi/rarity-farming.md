@@ -86,22 +86,22 @@ Ví dụ về cách tính Final Rarity Score được thể hiện phía dưới
 table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRS là viết tắt của Base Rarity Score; ARS là viết tắt của Absolute Rarity Score</i></p>
 
-*The formula for ARS is not finalized yet. As a result, the values in the ARS column in the above table are arbitrary.*
+*Công thức tính ARS vẫn chưa hoàn chỉnh. Do đó, giá trị trên cột ARS sẽ thay đổi.*
 
 ## Phần thưởng
 
-In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the **highest Final Rarity Scores** will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hiếm nhất với **Final Rarity Score cao nhất** sẽ được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
 
-Initially, there will be three categories of rewards:
+Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 * Top 100 Aavegotchi hiếm nhất (theo BRS, ARS, sắp tiến hành)
 * Top 100 Aavegotchi Có Điểm [Kinship](/traits#kinship) Cao Nhất
 * Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
 
-The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
+Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quyết định bởi AavegotchiDAO.
 
-More categories will be added later as the Aavegotchi game continues to develop.
+Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
 
-Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
+Phần thưởng sẽ được phân phát mỗi hai tuần thông qua snapshot trên snapshot. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 
 How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from wearables, consumables, and other game items are redirected into the Rarity Farming rewards pool](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
