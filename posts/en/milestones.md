@@ -6,10 +6,17 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+* COCOON, the V1.5 stage in the evolution of AavegotchiDAO
+* Common questions and answers regarding the AavegotchiDAO
+* Post published on 12 March 2021
+<p></p>
+
 ## [Aavegotchi Launch: Success!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
 * The first 10,000 Portals sold out in less than one minute!
 * Our secondary marketplace, the Baazaar, saw massive activity at launch
 * Post published on 3 March 2021
+<p></p>
 
 ## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
 * On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT. 
