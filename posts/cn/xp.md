@@ -14,8 +14,8 @@ Aavegotchis 可以通过获得更多的经验 (XP) 来提升级别。 但到底�
 **内容**
 
 <ol>
-<li><a href=#formula>公式</a></li>
-<li><a href=#experience-table>经验值表</a></li>
+<li><a href=#公式>公式</a></li>
+<li><a href=#经验值表>经验值表</a></li>
 </ol>
 
 </div>
@@ -37,7 +37,7 @@ Aavegotchis 可以通过获得更多的经验 (XP) 来提升级别。 但到底�
 
 Aavegotchi 所能达到的最高级别是 99。 对最高级别的任何更改都可以通过 [AavegotchiDAO](/dao) 提案来完成。
 
-*注：Aavegotchis 从第一级开始。 “0级”包括在表中，针对那些有兴趣应用公式并观察XP计算如何运作的个人。*
+*注：Aavegotchis 从第一级开始。 “0级”也包括在表中，有兴趣的朋友可以参考公式进行计算。*
 
-table_XP
+XP 表格
 
