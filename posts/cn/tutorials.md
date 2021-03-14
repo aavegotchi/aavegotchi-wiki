@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi 101'
-description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
+description: "Aavegotchi 101. 所有 blockchain, DeFi 和 Aavegotchi 的教程都在这里！"
 contributors:
   - "unintelligent-nerd"
 ---
@@ -11,35 +11,35 @@ contributors:
 
 又是以太坊
 
-又是MetaMask
+又是 MetaMask
 
-又是Aave和aTokens。
+又是 Aave 和 aTokens。
 
-又是非同质化代币(NFTs)。
+又是非同质化代币 (NFTs)。
 
-然后还有Aavegotchi.
+然后还有 Aavegotchi.
 
 没事的朋友！ 我们也是这么过来的！ 我懂你！
 
-We have prepared some tutorials (articles and videos) to help kickstart your journey! 你很快就会成为我们的一员了。 :)
+我们准备了一系列的教程（文章和视频）来帮助你开始旅程！ 你很快就会成为我们的一员了。 :)
 
 <div class="contentsBox">
 
 **内容**
 
 <ul>
-<li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#aavegotchi-raffles>Aavegotchi 抽奖券</a></li>
+<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>在 Kovan Testnet 上获取 Aavegotchi </a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->将 GHST 代币从 Etherum 主网 迁移到 Polygon 网络 (视频)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->将 GHST 代币从 Etherum 主网 迁移到 Polygon 网络 (文章)</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar 已经在 Mumbai Testnet 上线了。</a></li>
+<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi 预启动检查表</a></li>
 </ul>
 
 </div>
 
-### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi 抽奖券 <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Learn how to purchase Raffle tickets
 * Learn how to enter Raffle tickets into Raffles
