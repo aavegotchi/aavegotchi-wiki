@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Aavegotchi 经验值 (XP)'
+description: '在这里学习 Aavegotchi 经验值 (XP) ！'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis级别提高，因为他们获得了更多的经验(XP)。 但它们在每一级需要多少XP？ 数据分析师，我们有一些数字可供您处理！
+Aavegotchis 可以通过获得更多的经验 (XP) 来提升级别。 但到底每一个级别需要多少 XP 呢？ 我们提供以下数据供您参考！
 
 <div class="contentsBox">
 
@@ -15,19 +15,19 @@ Aavegotchis级别提高，因为他们获得了更多的经验(XP)。 但它们�
 
 <ol>
 <li><a href=#formula>公式</a></li>
-<li><a href=#experience-table>经验表</a></li>
+<li><a href=#experience-table>经验值表</a></li>
 </ol>
 
 </div>
 
 ## 公式
-以下公式用于确定下一级所需的 XP：
+以下公式为计算升级到下一个级别所需的 XP：
 
-（当前等级^ 2）÷常数，其中常数= 0.02
+（当前等级 ^ 2）÷ 常数，其中常数 = 0.02
 
-## 经验表
+## 经验值表
 
-下表显示每一级所需的 XP。 在深入了解数据之前，这里是所用关键术语的一些有用的定义：
+下表显示每一级所需的 XP。 在理解数据之前，先要熟悉一些关键术语的定义：
 
 * 当前级别：您的 Gotchi 当前级别
 * 下一级别：您的Gotchi的下一级别
