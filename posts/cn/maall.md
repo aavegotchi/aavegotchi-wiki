@@ -2,42 +2,42 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Maall'
-description: 'Aavegotchi Maall'
+description: 'Aavegotchi 商城'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/maall/maall.png">
-<p class="headerImageText">The Maall</p>
+<p class="headerImageText">商城</p>
 </div>
 
-"Hey Aamy. Sorry I'm late."
+“嘿 Aamy。 对不起我来晚了。"
 
-"Nevermind that. What are you getting later? The Praada Parasol looks cuuuute!"
+“没关系。 等下做什么？ Praada Parasol 看起来真不错！”
 
-"The Kaate Spaade clutch will match my latest outfit! *twirls*"
+“Kaate Spaade 控制器和我最新的设备看起来真配！ *翻转*"
 
-The doors to the Maall creaks open.
+通往商城的大门是敞开的。
 
-"Yippie! It's time to shop!"
+“是的！ 是血拼的时间了！”
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-maall>Aavegotchi Maall</a></li>
+<li><a href=#aavegotchi-maall>Aavegotchi 商城</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Maall
+## Aavegotchi 商城
 
-The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+Aavegotchi Maall Aavegotchi 官方商城。 商城售卖 [可穿戴设备和消耗品](/wearables), 价格以 [GHST 代币](/ghst)标记。
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+商城将不定期更新，每次都会有全新的可穿戴设备。
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/marketplace) and other online marketplaces.
+一旦这些商品售罄， 小伙伴们只能从二级市场进行购买，如 [Baazaar](/marketplace) 和其他在线市场寻找卖家。
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+可以点击 [这里](https://aavegotchi.com/shop) 访问商城。
