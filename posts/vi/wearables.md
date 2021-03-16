@@ -52,6 +52,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#independent-head-items>Vật Phẩm Dành Cho Phần Đầu Độc Lập</a></li>
 <li><a href=#independent-body-items>Vật Phẩm Độc Lập Cho Phần Thân</a></li>
 <li><a href=#consumables>Vật phẩm tiêu hao</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
 </ol>
 
 </div>
@@ -184,3 +185,9 @@ table_independentBodyTable
 ## Vật phẩm tiêu hao
 
 table_consumablesTable
+
+## Layer 2 Themed Set
+
+The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+
+table_layer2WearablesTable
