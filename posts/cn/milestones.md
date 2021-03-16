@@ -7,6 +7,12 @@ contributors:
   - "007"
 ---
 
+## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
+* On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
+* Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
+* On April 1, 2021, we’ll be engaging the Chainlink VRF on Polygon to spin the wheel and determine the winners!
+<p></p>
+
 ## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
 * COCOON, the V1.5 stage in the evolution of AavegotchiDAO
 * Common questions and answers regarding the AavegotchiDAO
