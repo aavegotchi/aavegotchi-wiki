@@ -383,6 +383,43 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "layer2WearablesTable",
+            tableCaption: "Layer 2-Themed Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Stats", "Quantity"],
+                data: [
+				    [, "130", "Fireball", "AGG +1", "1000"],
+					[, "131", "Dragon Horns", "AGG +1, SPK +1", "500"],
+					[, "132", "Dragon Wings", "AGG +2, SPK +1", "250"],
+					[, "133", "Pointy Horns", "AGG +2, SPK +2", "100"],
+					[, "134", "L2 Sign", "BRN +1", "1000"],
+					[, "135", "Polygon Shirt", "BRN +2", "500"],
+					[, "136", "Polygon Cap", "AGG -1, BRN +2", "250"],
+					[, "137", "Vote Sign", "AGG -1", "1000"],
+					[, "138", "Snapshot Shirt", "AGG -2", "500"],
+					[, "139", "Snapshot Cap", "AGG -3", "250"],
+					[, "140", "Elf Ears", "SPK -1", "1000"],
+					[, "141", "Gemstone Ring", "SPK -1, BRN +1", "500"],
+					[, "142", "Princess Tiara", "SPK -2, BRN +1", "250"],
+					[, "143", "Gold Necklace", "NRG +2, AGG +2", "100"],
+					[, "144", "Princess Hair", "SPK -3, BRN +2", "50"],
+					[, "145", "Goldi Locks", "SPK -4, BRN +2", "5"],
+					[, "146", "Imperial Moustache", "NRG -1", "1000"],
+					[, "147", "Tiny Crown", "NRG -1, BRN -1", "500"],
+					[, "148", "Royal Scepter", "NRG -2, BRN -1", "250"],
+					[, "149", "Royal Crown", "NRG -2, BRN -2", "100"],
+					[, "150", "Royal Robes", "NRG -3, BRN -2", "50"],
+					[, "151", "Common Rofl", "BRN -1", "1000"],
+					[, "152", "Uncommon Rofl", "NRG -1, BRN -1", "500"],
+					[, "153", "Rare Rofl", "NRG -1, BRN -2", "250"],
+					[, "154", "Legendary Rofl", "NRG -2, BRN -2", "100"],
+					[, "155", "Mythical Rofl", "NRG -2, BRN -3", "50"],
+					[, "156", "Royal Rofl", "NRG -3, BRN -3", "5"]
+				]
+			}
+		},
+		
 
         {
             tableName: "wearablesBRStable",
