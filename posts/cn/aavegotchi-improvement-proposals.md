@@ -19,6 +19,8 @@ How far have we progressed as a community? Look at our archives of past votes he
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
 <li><a href=#add-fees-to-bonding-curve>Add fees to Bonding Curve</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
+<li><a href=#proposal-for-haunt-2>Proposal for Haunt 2</a></li>
+<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Give unique non-transferable Background to Haunt 1 Aavegotchis</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -96,6 +98,46 @@ Yes: 3836093.44669 GHST
 No: 33683.04753 GHST
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+
+<hr />
+
+### Proposal for Haunt 2
+**Aavegotchi Improvement Proposal #4**
+
+**Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
+
+Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+
+Option 1: No new haunt, Revisit in a month
+
+Option 2: 10K Portals, 100 GHST each, 1 per txn
+
+Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
+
+Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange for 100 GHST. When the pre-sale period closes, all Portals are minted and transferred to their owners.
+
+**Voting Period:** 17 - 24 March 2021
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
+
+<hr />
+
+### Give unique non-transferable Background to Haunt 1 Aavegotchis
+**Aavegotchi Improvement Proposal #5**
+
+**Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created Haunts will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
+
+Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+
+Option 1: Only Haunt 1 should get a special background
+
+Option 2: Each Haunts should have it’s own unique background
+
+Option 3: Neither, leave it as is
+
+**Voting Period:** 17 - 24 March 2021
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
 <hr />
 

@@ -7,6 +7,12 @@ contributors:
   - "chinyh"
 ---
 
+## [Vote in Aavegotchi Improvement Proposals 4 and 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
+* Frens, we need your vote! Aavegotchi Improvement Proposals (AGIPs) 4 and 5 are open for voting!
+* Should there be more haunts? Should Haunt 1 be unique? Vote nao!
+* Post published on 17 March 2021
+<p></p>
+
 ## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
 * On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
 * Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
