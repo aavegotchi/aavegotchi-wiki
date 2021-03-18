@@ -93,9 +93,9 @@ table_RarityScoreCalculationTable
 Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hiếm nhất với **Final Rarity Score cao nhất** sẽ được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
 
 Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
-* Top 2000 Rarest Aavegotchis (by BRS, ARS coming later)
-* Top 2000 Highest [Kinship](/traits#kinship) Score
-* Top 2000 Highest [Experience](/traits#experience)
+* Top 2000 Aavegotchi hiếm nhất (theo BRS, ARS sẽ thêm vào sau)
+* Top 2000 Aavegotchi Có Điểm [Kinship](/traits#kinship) Cao Nhất
+* Top 2000 [Nhiều Experience (Xp)](/traits#experience) Nhất
 
 Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quyết định bởi AavegotchiDAO.
 
