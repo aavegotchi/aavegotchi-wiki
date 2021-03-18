@@ -91,9 +91,9 @@ table_RarityScoreCalculationTable
 In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the **highest Final Rarity Scores** will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners. 
 
 Initially, there will be three categories of rewards:
-* Top 100 Rarest Aavegotchis (by BRS, ARS coming later)
-* Top 100 Highest [Kinship](/traits#kinship) Score
-* Top 100 Highest [Experience](/traits#experience)
+* Top 2000 Rarest Aavegotchis (by BRS, ARS coming later)
+* Top 2000 Highest [Kinship](/traits#kinship) Score
+* Top 2000 Highest [Experience](/traits#experience)
 
 The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
 
