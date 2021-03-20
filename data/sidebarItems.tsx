@@ -13,6 +13,10 @@ export const items: Category[] = [
 				name: "Tutorials",
 				href: "tutorials"
 			},
+			{
+				name: "Contracts",
+				href: "contracts"
+			},			
             {
                 name: "FAQ",
                 href: "faq"
