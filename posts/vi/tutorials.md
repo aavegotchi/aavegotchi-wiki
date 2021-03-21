@@ -32,8 +32,9 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Cách mua Aavegotchi trên Kovan Testnet</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video)</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ul>
 
@@ -77,26 +78,33 @@ Xem bài viết tại [đây](/polygon)
 
 <hr />
 
-### maTokens
-Xem bài viết tại [đây](/matokens)
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
 
-* Tìm hiểu cách chuyển đổi aToken thành maToken thông qua Aavegotchi Bridge
-* Tìm hiểu cách stake maToken vào Aavegotchi
+* Learn how to use fiat currency to buy tokens directly to Polygon
 
 <hr />
 
-### Aavegotchi Baazaar đã có mặt trên Testnet Mumbai
-Xem bài viết tại [đây](/mumbai-testnet)
+### maTokens
+Click [here](/matokens) for the article
 
-* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
-* Tìm hiểu cách nhận token từ Faucet của Mumbai
-* Học cách nhận token GHST trên Mumbai
+* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to stake maTokens into Aavegotchis
+
+<hr />
+
+### Aavegotchi Baazaar on Mumbai Testnet
+Click [here](/mumbai-testnet) for the article
+
+* Learn how to configure MetaMask to display Mumbai Testnet
+* Learn how to get tokens from the Mumbai Faucet
+* Learn how to get Mumbai GHST tokens
 
 <hr />
 
 ### Aavegotchi Pre-Launch Checklist
-Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist)
+Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
 
-* Tìm hiểm cách kiếm ETH
-* Tìm hiểu cách chuyển ETH sang Polygon
-* Tìm hiểu cách mua ETH bằng Quickswap
+* Learn how to get ETH
+* Learn how to migrate ETH to Polygon
+* Learn how to buy GHST tokens using QuickSwap

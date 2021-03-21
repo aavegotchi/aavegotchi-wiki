@@ -32,6 +32,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
@@ -74,6 +75,13 @@ Click [here](/polygon) for the article
 * Learn how to configure MetaMask to display Polygon
 * Learn how to bridge assets using the Polygon wallet interface
 * Learn how to bridge assets back to Ethereum Mainnet from Polygon
+
+<hr />
+
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
+
+* Learn how to use fiat currency to buy tokens directly to Polygon
 
 <hr />
 

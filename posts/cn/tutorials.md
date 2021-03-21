@@ -32,9 +32,10 @@ contributors:
 <li><a href=#getting-avegotchi-on-kovan-testnet>在 Kovan 测试网上获取 Aavegotchi </a></li>
 <li><a href=#migrate-ghst-token-from e-there-mainnet-to-polygon-video->将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (视频)</a></li>
 <li><a href=#migrate-ghst-token-from e-there-mainnet-to polygon-article->将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (文章）</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazar-on-mumbai-testnet>Aavegotchi Baazaar 已经在 Mumbai 测试网上线了</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi 预启动检查表</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 </ul>
 
 </div>
@@ -77,26 +78,33 @@ contributors:
 
 <hr />
 
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
+
+* Learn how to use fiat currency to buy tokens directly to Polygon
+
+<hr />
+
 ### maTokens
-点击 [这里](/matokens) 阅读文章
+Click [here](/matokens) for the article
 
-* 学习如何通过 Aavegotchi 桥将 aTokens 转换为 maTokens
-* 学习如何将 maTokens 质押到 Aavegotchis
-
-<hr />
-
-### Aavegotchi Baazaar 已经在 Mumbai 测试网上线了
-点击 [这里](/mumbai-testnet) 阅读文章
-
-* 学习如何配置 MetaMask 显示 Mumbai 测试网
-* 学习如何从 Mumbai 接口获取代币
-* 学习如何获取 Mumbai GHST 代币
+* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to stake maTokens into Aavegotchis
 
 <hr />
 
-### Aavegotchi 预启动检查表
-点击 [这里](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) 阅读文章
+### Aavegotchi Baazaar on Mumbai Testnet
+Click [here](/mumbai-testnet) for the article
 
-* 学习如何获取 ETH
-* 了解如何将 ETH 迁移到 Polygon
-* 学习如何使用 QuickSwap 购买GHST 代币
+* Learn how to configure MetaMask to display Mumbai Testnet
+* Learn how to get tokens from the Mumbai Faucet
+* Learn how to get Mumbai GHST tokens
+
+<hr />
+
+### Aavegotchi Pre-Launch Checklist
+Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
+
+* Learn how to get ETH
+* Learn how to migrate ETH to Polygon
+* Learn how to buy GHST tokens using QuickSwap
