@@ -415,7 +415,12 @@ export const tables
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Rare.svg" alt = "aavegotchi Rare Rofl"/>`, "153", "Rare Rofl", "NRG -1, BRN -2", "250"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Legendary.svg" alt = "aavegotchi Legendary Rofl"/>`, "154", "Legendary Rofl", "NRG -2, BRN -2", "100"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Mythical.svg" alt = "aavegotchi Mythical Rofl"/>`, "155", "Mythical Rofl", "NRG -2, BRN -3", "50"],
-					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Godlike.svg" alt = "aavegotchi Royal Rofl"/>`, "156", "Royal Rofl", "NRG -3, BRN -3", "5"]
+					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Godlike.svg" alt = "aavegotchi Royal Rofl"/>`, "156", "Royal Rofl", "NRG -3, BRN -3", "5"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Goatee.svg" alt = "aavegotchi Lil Pump Goatee"/>`, "157", "Lil Pump Goatee", "BRS +2, NRG +1, AGG +1", "500"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Drank.svg" alt = "aavegotchi Lil Pump Drank"/>`, "158", "Lil Pump Drank", "BRS +5, NRG +1, AGG +2", "250"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Shades.svg" alt = "aavegotchi Lil Pump Shades"/>`, "159", "Lil Pump Shades", "BRS +10, AGG +3, SPK +1", "100"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-threads.svg" alt = "aavegotchi Lil Pump Threads"/>`, "160", "Lil Pump Threads", "BRS +20, NRG +5", "50"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Dreads.svg" alt = "aavegotchi Lil Pump Dreads"/>`, "161", "Lil Pump Dreads", "BRS +50, NRG +4, AGG +2", "5"]
 				]
 			}
 		},
