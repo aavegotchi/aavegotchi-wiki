@@ -112,10 +112,10 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Tham gia Raffle <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* Học cách dùng [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) để tính ra cơ hội thắng giải của bạn
 * Học cách stake token GHST trên Polygon
-* Learn how to buy Raffle tickets with FRENS
-* Learn how to access the Aavegotchi Baazaar
-* Learn how to list your Raffle tickets at the Baazaar
+* Học cách dùng FRENS để mua vé Raffle
+* Học cách truy cập vào Aavegotchi Baazaar
+* Học cách đăng bán vé Raffle trên Baazaar
