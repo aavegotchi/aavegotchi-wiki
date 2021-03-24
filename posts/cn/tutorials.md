@@ -36,6 +36,7 @@ contributors:
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
+<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
 </ul>
 
 </div>
@@ -108,3 +109,13 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 * Learn how to get ETH
 * Learn how to migrate ETH to Polygon
 * Learn how to buy GHST tokens using QuickSwap
+
+<hr />
+
+### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
+* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* 学习如何在 Polygon 上质押 GHST 代币
+* Learn how to buy Raffle tickets with FRENS
+* Learn how to access the Aavegotchi Baazaar
+* Learn how to list your Raffle tickets at the Baazaar

@@ -118,6 +118,18 @@ Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange 
 
 **Voting Period:** 17 - 24 March 2021
 
+**Ergebnis:**
+
+25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax): 3540000 GHST (54.25%)
+
+No new haunt, Revisit in a month: 2510000 GHST (38.46%)
+
+10K Portals, 100 GHST each, 1 per txn: 377550 GHST (5.78%)
+
+Pre-sale option: 98410 GHST (1.51%)
+
+**Vote Differential not met. No Haunt 2 for now!**
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
 
 <hr />
@@ -136,6 +148,14 @@ Option 2: Each Haunts should have it’s own unique background
 Option 3: Neither, leave it as is
 
 **Voting Period:** 17 - 24 March 2021
+
+**Ergebnis:**
+
+Only Haunt 1 should get a special background: 3670000 GHST (63.09%)
+
+Each Haunts should have it’s own unique background: 2010000 GHST (34.53%)
+
+Neither, leave it as is: 138240 GHST (2.37%)
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
