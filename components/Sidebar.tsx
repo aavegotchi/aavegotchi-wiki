@@ -31,7 +31,7 @@ const Sidebar = (props: SidebarProps) => {
                         min-height:600px;
                         height:auto;
                         height:100%;
-                        background:${themeHotPink};
+                        background: var(--sidebar-background);
                         border:solid 5px #FFF971;
                         border-left:5px white;
                         border-style:none dashed none none;

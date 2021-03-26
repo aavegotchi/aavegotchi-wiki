@@ -5,3 +5,6 @@ out/
 cache
 
 .now
+
+# IntelliJ
+.idea
