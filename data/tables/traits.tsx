@@ -86,15 +86,15 @@ export const tables
             tableData: {
                 headers: ["Kinship Level", "Range"],
                 data: [
-                    ["Inseparable", "500"],
-                    ["Devoted", "100-499"],
-                    ["Cozy", "90-99"],
-                    ["Chummy", "75-89"],
-                    ["Frenly", "50-74"],
-                    ["Neutral", "40-49"],
-					["Angry", "25-39"],
-					["Resentful", "10-24"],
-					["Scorned", "0-9"]
+                    ["Inseparable", ">500"],
+                    ["Devoted", "101-500"],
+                    ["Cozy", "91-100"],
+                    ["Chummy", "76-90"],
+                    ["Frenly", "51-75"],
+                    ["Neutral", "41-50"],
+					["Angry", "26-40"],
+					["Resentful", "11-25"],
+					["Scorned", "0-10"]
                 ]
             }
         }
