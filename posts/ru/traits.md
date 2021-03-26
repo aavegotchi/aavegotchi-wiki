@@ -62,7 +62,7 @@ The type of [spirit force](/atokens) that your Aavegotchi has also influences th
 table_spiritForceModifiers
 
 ## Kinship
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. The maximum kinship value is 500.
 
 Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
 
@@ -78,6 +78,10 @@ Some ways to boost your Aavegotchi’s kinship level:
 * Aavegotchis may be ghosts, but they have voracious appetites! Feed your Aavegotchi consumables to see its spooky smile;
 * Aavegotchis love trying on new clothes. Equip your Aavegotchi with new wearables to forge a lasting bond;
 * Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi Realm and level it up playing mini-games.
+
+The table below shows the kinship level and their value range.
+
+table_kinship
 
 
 ## Experience
