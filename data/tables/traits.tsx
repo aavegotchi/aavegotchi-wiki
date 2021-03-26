@@ -63,7 +63,7 @@ export const tables
             }
         },
 		
-		        {
+		{
             tableName: "TraitsByRarity2",
             tableCaption: "Aavegotchi Personal Traits by Rarity (Continued)",
             tableData: {
@@ -79,6 +79,25 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "kinship",
+            tableCaption: "",
+            tableData: {
+                headers: ["Kinship Level", "Range"],
+                data: [
+                    ["Inseparable", "500"],
+                    ["Devoted", "100-499"],
+                    ["Cozy", "90-99"],
+                    ["Chummy", "75-89"],
+                    ["Frenly", "50-74"],
+                    ["Neutral", "40-49"],
+					["Angry", "25-39"],
+					["Resentful", "10-24"],
+					["Scorned", "0-9"]
+                ]
+            }
+        }
 
 
     ]
