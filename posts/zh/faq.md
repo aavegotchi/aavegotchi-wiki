@@ -235,6 +235,8 @@ All elements of the Aavegotchi game are [stored on the Ethereum blockchain](http
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
+For android devices, using the Metamask app with the in-built browser is a good choice.
+
 ### Will Aavegotchi run on Layer 2?
 
 Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
