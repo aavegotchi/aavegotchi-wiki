@@ -79,6 +79,10 @@ Some ways to boost your Aavegotchi’s kinship level:
 * Aavegotchis lieben es, neue Kleidung anzuprobieren. Statte dein Aavegotchi mit neuen Kleidungsstücken aus, um eine dauerhafte Bindung zu schaffen;
 * Aavegotchis lieben es zu spielen! Nimm dein Aavegotchi mit in den Aavegotchi Realm und level es in Minispielen auf.
 
+The table below shows the kinship level and their value range.
+
+table_kinship
+
 
 ## Experience
 Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
