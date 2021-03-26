@@ -404,7 +404,7 @@ export const tables
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Tiara.svg" alt = "aavegotchi Princess Tiara"/>`, "142", "Princess Tiara", "SPK -2, BRN +1", "250"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gold-Necklace.svg" alt = "aavegotchi Gold Necklace"/>`, "143", "Gold Necklace", "NRG +2, AGG +2", "100"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Locks.svg" alt = "aavegotchi Princess Hair"/>`, "144", "Princess Hair", "SPK -3, BRN +2", "50"],
-					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-goldi-locks.svg" alt = "aavegotchi Goldi Locks"/>`, "145", "Goldi Locks", "SPK -4, BRN +2", "5"],
+					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-godli-locks.svg" alt = "aavegotchi Godli Locks"/>`, "145", "Godli Locks", "SPK -4, BRN +2", "5"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt = "aavegotchi Imperial Moustache"/>`, "146", "Imperial Moustache", "NRG -1", "1000"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Tiny-Crown.svg" alt = "aavegotchi Tiny Crown"/>`, "147", "Tiny Crown", "NRG -1, BRN -1", "500"],
 					[`<img src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt = "aavegotchi Royal Scepter"/>`, "148", "Royal Scepter", "NRG -2, BRN -1", "250"],
