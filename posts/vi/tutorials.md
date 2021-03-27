@@ -36,7 +36,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
-<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#entering-raffle-4>Tham gia Raffle 4</a></li>
 </ul>
 
 </div>
