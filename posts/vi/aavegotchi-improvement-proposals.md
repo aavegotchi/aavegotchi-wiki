@@ -120,11 +120,11 @@ Phương án 4: Pre-sale, mỗi ví sẽ có quyền đăng ký mua 1 Portal v�
 
 **Kết quả:**
 
-25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax): 3540000 GHST (54.25%)
+25k portal, mỗi cái giá 100 GHST, mỗi giao dịch mua được 5 cái (với thuế ape tax rất gắt): 3540000 GHST (54,25%)
 
-No new haunt, Revisit in a month: 2510000 GHST (38.46%)
+Không tổ chức thêm, sẽ bình chọn lại trong vòng 1 tháng nữa: 2510000 GHST (38,46%)
 
-10K Portals, 100 GHST each, 1 per txn: 377550 GHST (5.78%)
+10k Portal, mỗi cái giá 100 GHST, mỗi giao dịch được quyền mua 1 cái: 377550 GHST (5,78%)
 
 Pre-sale option: 98410 GHST (1.51%)
 

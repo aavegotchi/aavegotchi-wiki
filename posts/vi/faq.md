@@ -232,59 +232,59 @@ Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên 
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
-<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và [Arkane wallet](https://arkane.network/apps) - sẽ sớm được tích hợp với Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Với các thiết bị Android, bạn có thể dùng trình duyệt của ứng dụng MetaMask.
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Đúng vậy! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
 
 ### Mình có thể chuyển sang Matic bằng cách nào?
-Check out our [Polygon Migration Guide](/polygon).
+Xem thêm tại [Matic Migration Guide](/polygon).
 
 ### Mình có ví ledger / trezor, mình cần phải làm gì?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
 
 ### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
 
 ### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 ký tự. Bạn có thể đổi ký hiệu lại ngắn hơn một chút là được. Thay đổi ký hiệu sẽ không ảnh hưởng đến token của bạn, nó chỉ ảnh hưởng đến dữ liệu hiển thị trên ví MetaMask.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
 ### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+Mình đã rút token GHST (hoặc bất kỳ tài sản nào khác có cùng vấn đề) từ Polygon về lại Ethereum Mainnet bằng [Aavegotchi Bridge](https://aavegotchi.com/bridge). Đã vài tiếng trôi qua mà mình vẫn chưa nhận được tài sản trên Ethereum Mainnet nữa. Giờ mình phải làm sao đây?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấp Block Number của giao dịch.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Sau đó, thay thế phần [blockNumber] trong đường link đưới đây bằng số Block Number của bạn rồi truy cập vào đó:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Đường link để cho cho bạn biết trạng thái của giao dịch rút tiền mà bạn đang chờ.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì hãy kiên nhẫn chờ đợi nhé. Nhiều bạn phải đợi đến 6 tiếng tiền mới về tài khoản.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
