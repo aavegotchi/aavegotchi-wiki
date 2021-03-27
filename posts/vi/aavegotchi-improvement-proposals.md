@@ -256,8 +256,8 @@ Chủ đề thảo luận của AavegotchiDAO 👇
 
 5 portal mỗi giao dịch: 921830
 
-10 per txn: 201760
+10 portal mỗi giao dịch: 201760
 
-1 per txn: 169000
+1 portal mỗi giao dịch: 169000
 
 [Đường link vote trên Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
