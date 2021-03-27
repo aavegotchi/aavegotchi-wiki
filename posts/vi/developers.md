@@ -23,15 +23,15 @@ Với những lập trình viên, các bạn có thể xem Aavegotchi Docs tại
 
 <a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
 
-Aarchitects, our community developers, have come up with web applications.
+Các kỹ sư, những lập trình viên trong cộng đồng của bọn mình, đã viết nên những ứng dụng web.
 
-* [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
+* [Aavegotchistats](https://aavegotchistats.com/) - Công cụ Khuyến Nghị Trang Phục / Bảng Xếp Hạng / Phân Phối Điểm
 
-* [Aavegotchi.land](https://aavegotchi.land/) - API for Aavegotchi / Open Portals / Raffle Tickets listing
+* [Aavegotchi.land](https://aavegotchi.land/) - API dành cho Aavegotchi / Open Portals / Niêm yết Raffle Tickets
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Market Explorer / Raffle Calculator
+* [GHST_GG](https://ghst.gg/) - Gotchi Market Explorer / Công Cụ Tính Toán Dành cho Raffle
 
-* [Haaunt.com](https://haaunt.com/) - Aavegotchi Leaderboard / Wearable Prices
+* [Haaunt.com](https://haaunt.com/) - Bảng xếp hạng Aavegotchi / Giá trang phục
 
-* [Haunt.gg](https://haunt.gg/) - Listing Organizer
+* [Haunt.gg](https://haunt.gg/) - Công cụ quản lý bán hàng
 
