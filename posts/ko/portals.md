@@ -43,7 +43,7 @@ image: "portals/portal.gif"
 
 와우! 이제 곧 포탈을 장만할 생각이신가 보네요. 이제 여기서 ~ 포탈 소환 의식 ~ 이 시작됩니다! 의식을 거쳐 여러분의 아베고치를 소환할 수 있게 됩니다.
 
-포탈을 구매한 다음 해야할 일은 포탈을 개방하는 것입니다. 포탈 개방은 게이머들이 거래에 서명을 해야하는 [Matic Network](/glossary#matic-network)에서 이루어집니다. 거래가 서명되고 나면, 체인링크의 검증가능한 랜덤함수가 자연스럽게 호출이 됩니다. 함수가 실행되면, 포탈은 무작위의 숫자를 지정받게 되며, 이것이 아베고치의 특성을 무작위적으로 지정해줍니다.
+포탈을 구매한 다음 해야할 일은 포탈을 개방하는 것입니다. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. 함수가 실행되면, 포탈은 무작위의 숫자를 지정받게 되며, 이것이 아베고치의 특성을 무작위적으로 지정해줍니다.
 
 아래의 포탈 개방 과정을 요약한 순서도를 참고하시길 바랍니다 :)
 
