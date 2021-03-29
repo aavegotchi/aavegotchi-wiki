@@ -191,7 +191,7 @@ Xem thêm [website của họ](https://aragon.org/) tại đây.
 Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### Chainlink VRF
-Verifiable Randomness Function (VRF) được vận hành bởi ChainLink nhằm tạo ra những kết quả ngẫu nhiên có thể được kiểm chứng ngay trên blockchain. Nó được dùng để cung cấp bằng chứng cho việc các hợp hợp đồng thông minh thực ra đang sử dụng một công cụ xác thực tạo ra sự ngẫu nhiên mà họ không thể điều khiển. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+Verifiable Randomness Function (VRF) được vận hành bởi ChainLink nhằm tạo ra những kết quả ngẫu nhiên có thể được kiểm chứng ngay trên blockchain. Nó được dùng để cung cấp bằng chứng cho việc các hợp hợp đồng thông minh thực ra đang sử dụng một công cụ xác thực tạo ra sự ngẫu nhiên mà họ không thể điều khiển. Trong dự án Aavegotchi, Chainlink VRF được dùng để tạo ra ngẫu nhiên [các đặc tính ](/traits) vào thời điểm mở [portal](/portals) và giải thưởng xổ số.
 
 Đọc thêm về Chainlink VRF tại [đây](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
@@ -252,6 +252,6 @@ Validator là những người tham gia vào mạng lưới những người ch�
 
 ### QuickSwap
 
-Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#polygon). By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#polygon). Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
 
 Truy cập vào Quickswap tại [đây](https://quickswap.exchange).
