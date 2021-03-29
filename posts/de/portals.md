@@ -43,7 +43,7 @@ Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 G
 
 Super! Du bist gerade dabei, dein Portal zu kaufen. Hier kommt das ~ Portal Beschwörungsritual ~ ins Spiel. Dies ist der Mechanismus, durch den du dein Aavegotchi beschwören kannst.
 
-Nachdem du das Portal gekauft hast, ist der nächste Schritt, es zu öffnen. Das Öffnen des Portals erfolgt auf dem [Matic Netzwerk](/glossary#matic-network), wo die Spieler eine Transaktion signieren müssen. Nachdem die Transaktion signiert wurde, wird die [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) im Hintergrund aufgerufen. Wenn die Funktion ausgeführt wird, wird dem Portal eine Zufallszahl zugewiesen, wodurch sichergestellt wird, dass die Eigenschaften des Aavegotchi nachweislich zufällig sind.
+Nachdem du das Portal gekauft hast, ist der nächste Schritt, es zu öffnen. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. Wenn die Funktion ausgeführt wird, wird dem Portal eine Zufallszahl zugewiesen, wodurch sichergestellt wird, dass die Eigenschaften des Aavegotchi nachweislich zufällig sind.
 
 Hier ist ein praktisches Flowchart, das den Prozess zusammenfasst:
 
