@@ -37,7 +37,7 @@ contributors:
 
 RPG(롤플레잉 게임) 용어를 이용하자면, `AGG`는 힘과 동일하고, `NRG`는 민첩함, `BRN`은 지능, 그리고 `SPK` 는 일종의 와일드카드 특성과 같습니다. 그렇지만 이러한 특성들이 표준 RPG 특성과 정확하게 일치하지는 않다는 것을 명심하셔야 합니다! 아베고치의 메타버스에서는 낮은 수치의 특성 역시 강력합니다!
 
-특성들은 포탈이 개방되는 시점에서 결정됩니다. 포탈을 개방한 후엔, [체인링크의 VRF, 일종의 난수 생성 함수](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)가 아베고치의 랜덤 특성을 지정하기 위해 실행됩니다. 6가지의 특성들은 종 모양의 곡선에 나눠 퍼져 있고, 각각의 특성은 희귀도에 따라 Common, Uncommon, Rare, 또는 Mythical 등급을 부여받게 됩니다. 각각의 특성에 대한 확률은 아래의 표에서 확인할 수 있습니다.
+특성들은 포탈이 개방되는 시점에서 결정됩니다. Upon opening of a Portal, [Chainlink’s VRF random number generator function](/glossary#chainlink-vrf) is called to assign Aavegotchis with random trait values. 6가지의 특성들은 종 모양의 곡선에 나눠 퍼져 있고, 각각의 특성은 희귀도에 따라 Common, Uncommon, Rare, 또는 Mythical 등급을 부여받게 됩니다. 각각의 특성에 대한 확률은 아래의 표에서 확인할 수 있습니다.
 
 표_ 특성별 확률
 
