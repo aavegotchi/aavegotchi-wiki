@@ -191,7 +191,7 @@ Schau dir ihre [Seite](https://aragon.org/) hier an.
 Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening.
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
 
 Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
