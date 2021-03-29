@@ -37,7 +37,7 @@ Aavegotchis有六个特征：
 
 使用 RPG (角色游戏) 术语， `AGG` 等于强度。 `NRG` 等于敏捷性 `BRN` 等于智能， `SPK` 是通配符。 请注意，这些特征与标准RPG并不完全相同。其中一些低特质值在 Aavegotchi虚拟世界中也非常强大！
 
-特性是在打开 [传送门](/portals) 时确定的。 打开传送门时， [Chainlink的 VRF 随机数字生成器函数](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 将会倍调用从而随机生成Aavegotchis 的随机特性。 这些特征值分布在钟形曲线上，并且根据其稀有性，为每个特征分配一个“共同”，“罕见”，“稀有”或“神话”值。 下表显示了获得每种性状稀有性的机会：
+特性是在打开 [传送门](/portals) 时确定的。 Upon opening of a Portal, [Chainlink’s VRF random number generator function](/glossary#chainlink-vrf) is called to assign Aavegotchis with random trait values. 这些特征值分布在钟形曲线上，并且根据其稀有性，为每个特征分配一个“共同”，“罕见”，“稀有”或“神话”值。 下表显示了获得每种性状稀有性的机会：
 
 特征概率
 

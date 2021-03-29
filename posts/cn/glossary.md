@@ -48,14 +48,15 @@ contributors:
 <li><a href=#general-terms>通用术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>钟形曲线</a></p>
-<p><a href=#diamond-standard>钻石标准</a></p>
+<p><a href=#chainlink-vrf>Chainlink VRF</a></p>
+<p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
-<p><a href=#proof-of-stake>权益证明机制（PoS）</a></p>
+<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
 
@@ -189,7 +190,12 @@ Check out their [site](https://aragon.org/) here.
 ### 钟形曲线
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
-### 钻石标准
+### Chainlink VRF
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening.
+
+Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+
+### Diamond Standard
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
 Diamonds can be upgraded on the fly without having to redeploy existing functionality.

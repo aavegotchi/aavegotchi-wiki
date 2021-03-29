@@ -37,7 +37,7 @@ Aavegotchis haben sechs Eigenschaften:
 
 In der RPG (Role-playing Game) Terminologie entspricht `AGG` der Stärke, `NRG` der Agilität, `BRN` der Intelligenz und `SPK` ist eine Wildcard Eigenschaft. Beachte bitte, dass diese Eigenschaften nicht genau den Standard-RPGs entsprechen; niedrigere Eigenschaftswerte im Aavegotchi-Metaverse sind ebenfalls sehr mächtig!
 
-Eigenschaften werden beim Öffnen eines [Portals](/portals) festgelegt. Beim Öffnen eines Portals wird [Chainlink's VRF Zufallszahlengenerator Funktion](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) aufgerufen, um Aavegotchis mit zufälligen Eigenschaftswerten zu versehen. Diese Eigenschaftswerte sind auf einer Glockenkurve verteilt und jeder Eigenschaft wird ein Wert von Gewöhnlich, Ungewöhnlich, Selten oder Mythisch zugewiesen, abhängig von ihrer Seltenheit. Die Chancen, jede Seltenheitswerte zu erhalten, sind in der folgenden Tabelle aufgeführt:
+Eigenschaften werden beim Öffnen eines [Portals](/portals) festgelegt. Upon opening of a Portal, [Chainlink’s VRF random number generator function](/glossary#chainlink-vrf) is called to assign Aavegotchis with random trait values. Diese Eigenschaftswerte sind auf einer Glockenkurve verteilt und jeder Eigenschaft wird ein Wert von Gewöhnlich, Ungewöhnlich, Selten oder Mythisch zugewiesen, abhängig von ihrer Seltenheit. Die Chancen, jede Seltenheitswerte zu erhalten, sind in der folgenden Tabelle aufgeführt:
 
 table_TraitsProbabilities
 

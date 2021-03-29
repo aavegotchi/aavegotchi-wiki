@@ -43,7 +43,7 @@ image: "portals/portal.gif"
 
 好极了！ 您即将打开您的传送门。 这个地方正是~ 传送门召唤仪式的场所。 这是你能够召集你的Aavegotchi的机制。
 
-在购买传送门后，下一步是打开传送门。 打开门户网站时发生在 [Matic Network](/glossary#matic-network) 上，那里的玩家必须签署交易。 在交易签名后， [链路可验证随机函数](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) 被调用。 当函数执行时，门户网站将被指定一个随机号码，确保Aavegotchi的特性将被证明是随机的。
+在购买传送门后，下一步是打开传送门。 Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. 当函数执行时，门户网站将被指定一个随机号码，确保Aavegotchi的特性将被证明是随机的。
 
 下面是一个简易流程图，它概括了流程：
 
