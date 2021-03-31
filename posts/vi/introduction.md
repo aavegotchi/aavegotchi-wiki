@@ -21,7 +21,7 @@ ERC-721**. Giá trị của chúng được định hình bởi độ hiếm, đ
 
 Để nâng cấp các Aavegotchi, người chơi cần tham gia vào hàng loạt các hoạt động bao gồm các mini-games, quản trị, và các buổi meetups. Aavegotchis cũng có thể tăng độ hiếm bằng cách trang bị những phụ kiện trong game và lên cấp. 
 
-Những Aavegotchi hiếm không chỉ có giá trị cao trên những [thị trường](/marketplace) thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất. 
+Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens. 
 
 Aavegotchi được quản trị bởi[AavegotchiDAO](/dao), có quyền quyết định với tất cả ngân quỹ được sinh ra thông qua quá trình phân bổ [GHST token](/ghst).
 
