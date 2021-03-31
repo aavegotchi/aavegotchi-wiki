@@ -21,7 +21,7 @@ ERC-721** 标准。 它的价值由其稀有度决定。很多种因素会影响
 
 玩家可以参与如小型游戏，治理和集会等活动来提升 Aavegotchis 的等级。 Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
 
-稀有的 Aavegotchis 不仅在二级市场价值更高，他们还能让 Aavegotchi 在 [稀有度挖矿](/marketplace)中表现得更好----一个用 GHST 代币奖励最稀有的 Aavegotchis 的小游戏。 
+Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens. 
 
 Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发对应的投票权管理资金。
 
