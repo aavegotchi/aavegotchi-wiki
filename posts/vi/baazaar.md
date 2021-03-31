@@ -38,8 +38,7 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
-<li><a href=#precautions>Khuyến Cáo</a></li>
+<li><a href=#features>Features</a></li>
 </ol>
 
 </div>
@@ -48,21 +47,27 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. Với mỗi đơn hàng mới được đăng bán, người dùng sẽ trả phí là 0.1 GHST để bán trên Aavegotchi Baazaar. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. 0.1 GHST này sẽ không về tay Pixelcraft Studios hay AavegotchiDAO. Thay vào đó, nó sẽ được gửi thẳng đến [địa chỉ đốt token](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) trên Polygon khi một đơn hàng được tạo ra hoặc cập nhật.
 
-<img class = "bodyImage" src = "/baazaar/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Baazaar" />
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
 Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
 
-## Địa Chỉ Của Các Vật Phẩm
+## Features
+There are a variety of products listed on the Baazaar:
 
-Bảng phía dưới đây cho thấy địa chỉ hợp đồng thông minh chính thức của nhiều loại tài sản trong Aavegotchi. Trước khi mua hàng trên bất kỳ marketplace nào, hãy xác thực lại hợp đồng của món hàng mà bạn định mua thông qua những hợp đồng được liệt kê trong bảng dưới đây (ví dụ, nếu bạn định mua vế Raffle, hãy xem lại contract address của Raffle Tickets trước khi tiến hành mua).
+* Closed Portals
+* Opened Portals
+* Aavegotchis
+* Wearables
+* Vật phẩm tiêu hao
+* Raffle Tickets
 
-table_smartcontracts
+The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
 
-## Khuyến Cáo
+Other features included in the Baazaar are:
 
-Tiền kiếm rất khó khăn nên bạn nhớ đừng mua phải những tài sản giả mạo, vậy nên khi bạn mua hàng trên OpenSea hoặc những thị trường thứ cấp, hãy nhớ luôn kiểm tra thật cẩn thận. Lưu ý rằng, nếu thấy món hàng nhìn thấy nó pha ke kiểu gì thì có thể là nó pha ke thật đấy!
-
-* Hãy luôn kiểm tra lại contract address nhiều lần bởi những món vật phẩm được sinh ra từ những contract address thật.
-* Nếu bạn thấy không chắc chắn, hãy tham gia vào [kênh Discord chính thức của Aavegotchi](https://discord.com/invite/NPwnWB6), để hỏi các bạn Aaprentice thân thiện luôn sẵn sàng giúp đỡ nhé!
+* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
+* My Listings - View what you have put up for sale!
+* My Sales - Historical record of your sales on the Baazaar
+* My Purchases - Historical record of your purchases on the Baazaar
