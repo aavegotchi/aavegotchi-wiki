@@ -38,8 +38,7 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>收藏品地址</a></li>
-<li><a href=#precautions>注意事项</a></li>
+<li><a href=#features>Features</a></li>
 </ol>
 
 </div>
@@ -48,21 +47,27 @@ contributors:
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/baazaar/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Baazaar" />
 
 更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## 收藏品地址
+## Features
+There are a variety of products listed on the Baazaar:
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+* Closed Portals
+* Opened Portals
+* Aavegotchis
+* Wearables
+* Consumables
+* Raffle Tickets
 
-table_smartcontracts
+The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
 
-## 注意事项
+Other features included in the Baazaar are:
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
-
-* 多次检查以确保合约地址的正确性
-* 如果有其他疑问，可以到 [ Aavegotchi Discord](https://discord.com/invite/NPwnWB6) 官方平台寻求帮助哦，热情的 Aapprentices 等待你的到来。
+* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
+* My Listings - View what you have put up for sale!
+* My Sales - Historical record of your sales on the Baazaar
+* My Purchases - Historical record of your purchases on the Baazaar
