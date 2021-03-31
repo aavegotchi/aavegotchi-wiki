@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+title: 'Baazaar'
+description: 'Aavegotchi Baazaar'
 contributors: ["unintelligent-nerd"]
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/marketplace/baazaar.gif">
+<img class="headerImage" src="/baazaar/baazaar.gif">
 <p class="headerImageText">The Baazaar</p>
 </div>
 
@@ -47,7 +47,7 @@ Come and test your mettle! Buyers and sellers alike!
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar">
+<img class = "bodyImage" src = "/baazaar/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar">
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 

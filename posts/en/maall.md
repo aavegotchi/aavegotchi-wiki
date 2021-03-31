@@ -37,6 +37,6 @@ The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables
 
 The Maall will be restocked from time to time, each time with totally new wearables. 
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/marketplace) and other online marketplaces.
+Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
 
 The Maall can be accessed [here](https://aavegotchi.com/shop).
