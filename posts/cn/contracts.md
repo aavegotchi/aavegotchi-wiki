@@ -42,3 +42,5 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 * Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
 
+* Opensea (for Aavegotchis and Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+
