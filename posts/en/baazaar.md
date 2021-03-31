@@ -37,8 +37,7 @@ Come and test your mettle! Buyers and sellers alike!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#features>Features</a></li>
 </ol>
 
 </div>
@@ -47,21 +46,27 @@ Come and test your mettle! Buyers and sellers alike!
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/baazaar/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar">
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar">
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Collection Addresses
+## Features
+There are a variety of products listed on the Baazaar:
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+* Closed Portals
+* Opened Portals
+* Aavegotchis
+* Wearables
+* Consumables
+* Raffle Tickets
 
-table_smartcontracts
+The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
 
-## Precautions
+Other features included in the Baazaar are:
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
-
-* Always double-check that the contract address for the items are coming from the correct contract addresses.
-* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
+* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
+* My Listings - View what you have put up for sale!
+* My Sales - Historical record of your sales on the Baazaar
+* My Purchases - Historical record of your purchases on the Baazaar
