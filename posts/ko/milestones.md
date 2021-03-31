@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
+* Post published on 30 March 2021
+<p></p>
+
 ## [Lil Pump x Aavegotchi Collaboration](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
 * On 22 March 2021, the Aavegotchi team reveals their collaboration with multi-platinum music artist Lil Pump.
 * The mystery wearables for Raffle 4 are revealed to be Lil Pump wearables!
