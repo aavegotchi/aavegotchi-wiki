@@ -20,7 +20,7 @@ Aavegotchis sind pixelförmige Geister, die auf der Ethereum-Blockchain leben - 
 
 Um ihre Aavegotchis hochzuleveln, können Spieler an einer Vielzahl von Aktivitäten teilnehmen, darunter Minispiele, Governance und Meetups. Aavegotchis können ihre Seltenheitsstufe auch verbessern, indem sie Kleidungsstücke ausrüsten oder auf ein höheres Level aufsteigen.
 
-Seltene Aavegotchis haben nicht nur einen höheren Wert auf sekundären [Marktplätzen](/marketplace), es ermöglicht ihnen auch eine bessere Leistung im [Rarity Farming](/rarity-farming) – ein Minispiel, das die seltensten Aavegotchis mit GHST Tokens belohnt.
+Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi wird vom [AavegotchiDAO](/dao) geleitet, das auch alle finanziellen Mittel verwaltet, die durch die Distribution von [GHST Tokens](/ghst) generiert werden.
 
