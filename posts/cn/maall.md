@@ -38,6 +38,6 @@ Aavegotchi Maall Aavegotchi 官方商城。 商城售卖 [可穿戴设备和消�
 
 商城将不定期更新，每次都会有全新的可穿戴设备。
 
-一旦这些商品售罄， 小伙伴们只能从二级市场进行购买，如 [Baazaar](/marketplace) 和其他在线市场寻找卖家。
+Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
 
 可以点击 [这里](https://aavegotchi.com/shop) 访问商城。

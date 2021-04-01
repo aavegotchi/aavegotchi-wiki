@@ -103,7 +103,7 @@ stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [http
 
 FRENS가 충분히 준비되셨다면, [Shop Bulk Buy user interface](https://aavegotchi.com/tickets)로 이동하셔서 FRENS로 래플 티켓을 구하시면 됩니다.
 
-FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니다. 즉 [marketplace](/marketplace)에서 구매/판매 등의 거래가 가능하다는 것입니다.
+FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니다. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
 래플 티켓에는 제일 낮은 등급인 Common에서부터 제일 높은 등급인 Godlike까지 총 6개의 등급이 있습니다.
 

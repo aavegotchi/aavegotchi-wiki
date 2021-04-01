@@ -103,7 +103,7 @@ table_stakingContractAddresses
 
 Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
 
-Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Chúng có thể được mua/bán trên [marketplaces](/marketplace).
+Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
 Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất):
 
