@@ -68,6 +68,8 @@ Typically, longer ownership equals higher kinship, but neglecting your Aavegotch
 
 A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
 
+Kinship exists as an internal balance on the Aavegotchi smart contract.
+
 Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
 
 High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
@@ -86,6 +88,8 @@ table_kinship
 
 ## Experience
 Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+
+XP exists as an internal balance on the Aavegotchi smart contract.
 
 ## Level
 Aavegotchis level up as they gain more XP. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Some wearables can only be worn by Aavegotchis of a certain level.
