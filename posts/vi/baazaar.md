@@ -65,9 +65,9 @@ Có rất nhiều sản phẩm được bán trên Baazaar:
 
 Baazaar đã được thêm tính năng Sort để giúp người mua thu hẹp lựa chọn lại.
 
-Other features included in the Baazaar are:
+Những tính năng khác trong Baazaar bao gồm:
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Activity - Xem những giao dịch đã thực hiện trên Baazzar (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) tại đây!
+* My Listings - Xem bạn đang bán những vật phẩm nào!
+* My Sales - Xem những đơn hàng mà bạn đã bán thành công trên Baazaar
+* My Sales - Xem những đơn hàng mà bạn đã mua thành công trên Baazaar
