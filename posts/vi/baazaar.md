@@ -38,7 +38,7 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#features>Các tính năng</a></li>
 </ol>
 
 </div>
@@ -53,17 +53,17 @@ Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an
 
 Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
 
-## Features
-There are a variety of products listed on the Baazaar:
+## Các tính năng
+Có rất nhiều sản phẩm được bán trên Baazaar:
 
-* Closed Portals
-* Opened Portals
-* Aavegotchis
+* Portal Chưa mở
+* Portal đã mở
+* Aavegotchi
 * Wearables
 * Vật phẩm tiêu hao
-* Raffle Tickets
+* Vé Raffle
 
-The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
+Baazaar đã được thêm tính năng Sort để giúp người mua thu hẹp lựa chọn lại.
 
 Other features included in the Baazaar are:
 
