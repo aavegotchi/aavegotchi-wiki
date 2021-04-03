@@ -38,6 +38,6 @@ Aavegotchi Maall là shop đồ chính chủ của Aavegotchi. Trung tâm thươ
 
 Nó sẽ nhập hàng từng lần và mỗi lần sẽ bán những vật phẩm hoàn toàn mới.
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
+Một khi những vật phẩm này hết hàng, chúng chỉ có thể được mua từ những người dùng khác thông qua những chợ thứ cấp như [Baazaar](/baazaar) và những chợ online khác.
 
 Các bạn có thể truy cập vào the Maall tại [đây](https://aavegotchi.com/shop).
