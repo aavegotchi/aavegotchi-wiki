@@ -21,6 +21,7 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 <li><a href=#raffle-1>Raffle 1</a></li>
 <li><a href=#raffle-2>Raffle 2</a></li>
 <li><a href=#raffle-3>Raffle 3</a></li>
+<li><a href=#raffle-4>Raffle 4</a></li>
 </ol>
 
 </div>
@@ -33,3 +34,6 @@ table_raffle2
 
 ## Raffle 3
 table_raffle3
+
+## Raffle 4
+table_raffle4
