@@ -90,12 +90,14 @@ table_RarityScoreCalculationTable
 
 ## Rewards
 
-In each period (length determined by AavegotchiDAO), the few rarest Aavegotchis with the **highest Final Rarity Scores** will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+In each period (length determined by AavegotchiDAO), the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
-Initially, there will be three categories of rewards:
-* Top 2000 Rarest Aavegotchis (by BRS, ARS coming later)
-* Top 2000 Highest [Kinship](/traits#kinship) Score
-* Top 2000 Highest [Experience](/traits#experience)
+Initially, there will be three categories of rarity farming rewards:
+* Aavegotchi Rarity Scores (by BRS, ARS coming later)
+* [Kinship](/traits#kinship) Scores
+* [경험치](/traits#experience)
+
+For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
 
 The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
 
@@ -108,6 +110,3 @@ How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from 
 The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
-
-
-
