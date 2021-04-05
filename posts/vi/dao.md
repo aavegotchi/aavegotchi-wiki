@@ -25,13 +25,15 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 
 <ol>
 <li><a href=#genesis>Genesis</a></li>
+<li><a href=#cocoon>Cocoon</a></li>
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
-<li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
-<li><a href=#voting>Bỏ phiếu</a></li>
+<li><a href=#participating-in-governance>Participating in Governance</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
+<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
+<li><a href=#voting>Voting</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Ngân Quỹ</a></li>
+<li><a href=#treasury>Treasury</a></li>
 </ol>
 
 </div>
@@ -44,99 +46,166 @@ Vòng lặp đầu tiên của AavegotchiDAO đã được triển khai cùng l�
 
 Người nắm giữ token sẽ không nhận được phần thưởng ở dạng GHST vì đã chủ động tham gia vào vòng lặp này của AavegotchiDAO.
 
+Features for Genesis include:
+
+* No smart contract calls
+* No contract upgrades
+* GHST token based governance
+* Platform: Aragon
+* Rewards: None
+* Layer: Ethereum Mainnet
+
+## Cocoon
+
+V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+
+Its features include:
+
+* Contract calls called by Pixelcraft
+* No contract upgrades
+* GHST token based governance
+* Platform: Snapshot/Discourse
+* Rewards: [XP](/traits#experience) for Core Votes
+* Layer: Polygon
+
+There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+
+A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+
+The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+
+A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+
+If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+
+*May increase or decrease throughout COCOON period
+
 ## Metamorphosis
 
-Metamorphosis là vòng lặp thứ 2 của AavegotchiDAO, và giữ vai trò quản trị những cơ chế game đơn giản của Aavegotchi, ví dụ như tổng cung của Aavegotchis, bổ sung những loại tài sản ký quỹ mới, quyết định đối với những tính năng, và thêm vào những trang bị được tạo ra bởi cộng đồng. Khi đến lúc phải chuyển sang AavegotchiDAO Oasis, AavegotchiDAO sẽ vote lần nữa để việc chuyển đổi được tiến hành.
+Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
 
-Xem danh sách đầy đủ của các hành động có thể được tiến hành bởi AavegotchiDAO trong giai đoạn này tại mục [Governance](https://docs.aavegotchi.com/overview/governance) trong tài liệu hợp đồng thông minh của Aavegotchi.
+A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
 
-Người nắm giữ token sẽ nhận được phần thưởng khi chủ động tham gia vào giai đoạn này của AavegotchiDAO.
+Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+
+Its features include:
+
+* Can execute smart contract calls
+* Can upgrade certain mechanics
+* Aavegotchi + GHST governance
+* Platform: Custom dapp front-end
+* Rewards: [XP](/traits#experience) + badges for voting
+* Layer: Polygon
 
 ## Oasis
 
-Dù AavegotchiDAO OASIS là vòng lặp cuối cùng trong quá trình tiến hoá của AavegotchiDAO, nhưng đây mới chính là thời điểm mà Aavegotchi được công nhận là một trò chơi được quản trị bởi DAO. Tất cả những quyết định liên quan đến những chế của game, những cơ chế của REALM, việc chi tiêu của hệ sinh thái, và thậm chí là những nâng cấp trong hợp đồng thông minh sẽ được tiến hành vote thông qua AavegotchiDAO.
+Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
 
-Người nắm giữ token sẽ nhận được phần thưởng ở dạng GHST khi chủ động tham gia vào vòng lặp này của AavegotchiDAO.
+Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-## Tham Gia Quản Trị
-Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? Bạn êi, bọn mình lo hết!
+Its features include:
 
-Trước tiên, bạn phải tham gia vào những cuộc thảo luận trên [AavegotchiDAO forum](https://dao.aavegotchi.com/). Bọn mình hân hạnh được đón tiếp tất cả các bạn!
+* Can execute smart contract calls
+* Can upgrade certain mechanics
+* Aavegotchi + GHST governance
+* Platform: Aavegotchi Realm
+* Rewards: [XP](/traits#experience) + badges for voting
+* Layer: Polygon
 
-[Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) liệt kê chi tiết danh sách các hàm liên quan đến DAO mà thành viên có thể gọi/dùng để thực hiện những thay đổi đã được vote. Giả dụ như asUSD được vote để trở thành một [loại tài sản ký gửi ](/posts/atokens)đi. Aavegotchi sẽ có thể triển khai thay đổi này bằng cách sử dụng hàm `addCollateralTypes()` và chỉ định asUSD sẽ nằm trong hàm đó.
+## Participating in Governance
+I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
 
-Nhiều thông tin chi tiết sẽ được công bố một khi trò chơi được triển khai!
+First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
 
-## Diễn đàn AavegotchiDAO
+Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
-Diễn Đàn Quản Trị AavegotchiDAO được vận hành trên Discourse. Sự có mặt của diễn đàn này sẽ giúp cộng đồng tập trung thảo luận những chủ đề liên quan đến cơ chế game Aavegotchi, yêu cầu ngân sách, và những đề xuất khác.
+More details will be fleshed out once the game releases!
 
-Bọn mình hy vọng rằng #GotchiGang sẽ trở thành một mô hình cho những game được sở hữu bởi DAO trong tương lai, vậy nên hãy tham gia và nhớ lịch sự với những người anh em trong cộng đồng nhé.
+## AavegotchiDAO Forum
 
-Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/).
+The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
-## Bỏ phiếu
+We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
 
-Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (2) Argagon.
+The Forum can be found [here](https://dao.aavegotchi.com/).
+
+## Creating Signal Proposals
+
+To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+
+* Author + GotchiID
+* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
+* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
+* Effect
+* Highlight end goal and benefits
+* Acknowledge potential risks or unintended consequences
+* Any alternative paths (Plan B, Plan C, etc)
+* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+
+More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+
+## Voting
+
+There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
 
 ### Vote bằng Snapshot
 
-Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
 
-Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
+To vote on Snapshot, follow the steps below:
 
-1). Vào một bản đề xuất đang được mở.
+1). Go to an open proposal.
 
-2). Kết nối ví.
+2). Connect your wallet.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Bỏ phiếu cho một phương án, và nhấp "Vote" Một pop-up sẽ hiện lên để bạn có thể xác nhận lựa chọn của mình.
+3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
+4). Your Metamask will pop up. Sign the transaction, and you're done!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
 ### Vote bằng Aragon
 
-Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
+Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
 
-Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
+To vote on Aragon, follow the steps below:
 
-1). Vào một bản đề xuất đang được mở.
+1). Go to an open proposal.
 
-2). Kết nối ví.
+2). Connect your wallet.
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Bình chọn "Yes" hoặc "No."
+3). Choose to vote "Yes" or "No."
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
+4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
 
-5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
+5). Once your transaction is mined, your vote will be reflected accordingly.
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
+See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
-Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Ngân Quỹ
+## Treasury
 
-AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
-Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-The AavegotchiDAO Treasury có thể truy cập vào tại [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
