@@ -7,8 +7,8 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Lil Pump Wearables to drop this Friday, April 9
+## [Maall Drop và một số sự kiện khác!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Trang phục chủ đề Lil Pump được mở bán vào ngày 9 tháng Tư
 * Hottest Signal Proposals on AavegotchiDAO
 * Pixelcraft Studios is expanding
 * Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
