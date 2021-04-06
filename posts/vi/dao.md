@@ -28,12 +28,12 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#cocoon>Cocoon</a></li>
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
+<li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
+<li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
+<li><a href=#creating-signal-proposals>Tạo ra Đề xuất Hội ý</a></li>
+<li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#treasury>Ngân Quỹ</a></li>
 </ol>
 
 </div>
@@ -46,31 +46,31 @@ Vòng lặp đầu tiên của AavegotchiDAO đã được triển khai cùng l�
 
 Người nắm giữ token sẽ không nhận được phần thưởng ở dạng GHST vì đã chủ động tham gia vào vòng lặp này của AavegotchiDAO.
 
-Features for Genesis include:
+Các tính năng của Genesis bao gồm:
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* Không cần sử dụng hợp đồng thông minh
+* Nâng cấp hợp đồng
+* Quản trị dựa trên token GHST
+* Nền tảng: Aragon
+* Phần thưởng: không có
+* Nền tảng: Ethereum Mainnet
 
 ## Cocoon
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+Phiên bản 1.5 của AavegotchiDAO. Điểm trung gian giữa [Genesis](/dao#genesis) và [Metamorphosis](/dao#metamorphosis). Giai đoạn Cocoon sẽ ưu tiên mang đến những thay đổi ảnh hưởng đến cơ chế của game.
 
-Its features include:
+Những tính năng của giai đoạn này gồm có:
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Quyền kích hoạt hợp đồng của Pixelcraft
+* Nâng cấp hợp đồng
+* Quản trị dựa trên token GHST
+* Nền tảng: Snapshot/Discourse
+* Phần thưởng: [XP](/traits#experience) dành cho Những Bình Chọn Chủ Chốt
+* Nền tảng: Polygon
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+Có 2 loại bầu cử trong giai đoạn Cocoon: (1) Bỏ Phiếu Hội Ý (Signal Proposal), và (2) Bỏ Phiếu Chủ Chốt (Core Proposal).
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Signal Proposal có thể được đăng tải lên từ bất kỳ ai trong tab Community trên [Snapshot](https://snapshot.page/#/aavegotchi.eth). Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Trước khi viết ra Bản Đề Xuất Hội Ý, bạn bắt buộc phải thảo luận với cộng đồng tren Discord và/hoặc [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
 
 The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
 
@@ -88,14 +88,14 @@ A full list of actions available to perform by the AavegotchiDAO in this phase i
 
 Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
 
-Its features include:
+Những tính năng của giai đoạn này gồm có:
 
 * Can execute smart contract calls
 * Can upgrade certain mechanics
 * Aavegotchi + GHST governance
 * Platform: Custom dapp front-end
 * Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Nền tảng: Polygon
 
 ## Oasis
 
@@ -103,16 +103,16 @@ Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evoluti
 
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-Its features include:
+Những tính năng của giai đoạn này gồm có:
 
 * Can execute smart contract calls
 * Can upgrade certain mechanics
 * Aavegotchi + GHST governance
 * Platform: Aavegotchi Realm
 * Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Nền tảng: Polygon
 
-## Participating in Governance
+## Tham Gia Quản Trị
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
 
 First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
@@ -121,7 +121,7 @@ Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) d
 
 More details will be fleshed out once the game releases!
 
-## AavegotchiDAO Forum
+## Diễn đàn AavegotchiDAO
 
 The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
@@ -129,7 +129,7 @@ We hope that #GotchiGang can become a model for DAO-owned games in the future, s
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
 
-## Creating Signal Proposals
+## Tạo ra Đề xuất Hội ý
 
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
@@ -144,7 +144,7 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 
 More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Voting
+## Bỏ phiếu
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -202,7 +202,7 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Treasury
+## Ngân Quỹ
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
