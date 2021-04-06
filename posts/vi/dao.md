@@ -135,77 +135,77 @@ Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/
 
 * Tác giả + Id của Gotchi
 * Đường link dẫn đến chủ đề thảo luận trên Discourse (Những bản đề xuất mà không được thảo luận nhiều trong diễn đàn sẽ tự động bị xoá khỏi Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* Tóm tắt (bao gồm ý nghĩa, thời gian, mục đích và bất kỳ chỉ số đánh giá Kpi nào). Những bản đề xuất được copy paste từ những bản đề xuất đã tồn tại sẽ bị xoá những những bản đề xuất tương tự với những biến thể khác biệt sẽ được cho phép tồn tại song song.
+* Ảnh hưởng
+* Những mục đích cuối cùng và lợi ích đáng chú ý
+* Nói lên những rủi ro tìm ẩn hoặc hậu quả không lường trước
+* Kế hoạch dự phòng (Kế hoạch B, kế hoạch C, v. v.)
+* Thời lượng của bản đề xuất không nên dài quá 30 ngày kể từ khi bắt đầu, vậy nên hãy đảm bảo rằng chỉ có những bản đề xuất đang cho phép bỏ phiếu mới được nằm trên bảng Snapshot cộng đồng.
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+Xem thêm chi tiết tại [bài viết Medium](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)này.
 
 ## Bỏ phiếu
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (2) Argagon.
 
 
 ### Vote bằng Snapshot
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
 
-To vote on Snapshot, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Bỏ phiếu cho một phương án, và nhấp "Vote" Một pop-up sẽ hiện lên để bạn có thể xác nhận lựa chọn của mình.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
 ### Vote bằng Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Bình chọn "Yes" hoặc "No."
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Snapshot Voting Ethereum" />
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
 
 ## Ngân Quỹ
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO Treasury có thể truy cập vào tại [here](https://aavegotchi.com/treasury).
