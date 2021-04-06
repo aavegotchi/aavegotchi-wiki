@@ -70,71 +70,71 @@ Những tính năng của giai đoạn này gồm có:
 
 Có 2 loại bầu cử trong giai đoạn Cocoon: (1) Bỏ Phiếu Hội Ý (Signal Proposal), và (2) Bỏ Phiếu Chủ Chốt (Core Proposal).
 
-Signal Proposal có thể được đăng tải lên từ bất kỳ ai trong tab Community trên [Snapshot](https://snapshot.page/#/aavegotchi.eth). Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Trước khi viết ra Bản Đề Xuất Hội Ý, bạn bắt buộc phải thảo luận với cộng đồng tren Discord và/hoặc [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Signal Proposal có thể được đăng tải lên từ bất kỳ ai trong tab Community trên [Snapshot](https://snapshot.page/#/aavegotchi.eth). Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Trước khi viết ra Bản Đề Xuất Hội Ý, bạn bắt buộc phải thảo luận với cộng đồng tren Discord và/hoặc [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/). Mục đích của việc này là để ý tưởng trở nên lý tưởng hơn và cũng là để xem liệu nó có nhận được sự hỗ trợ hết mình từ phía cộng đồng để có thể chuyển nó thành Bản Đề Xuất Hội Ý hay không. Vui lòng tham khảo bản mẫu trong [mục Creating Signal Proposals](/dao#creating-signal-proposals).
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+Bản Đề Xuất Hội Ý sẽ được nâng cấp lên thành Bản Đề Xuất Chủ Chốt một khi trước đó nó đã được thông qua với mức thi hành tối thiểu cao hơn 20% lượng GHST có thể dùng để bỏ phiếu trên Polygon vào thời điểm bản đề xuất được tạo ra.
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+Một bản đề xuất chủ chốt là bản đề xuất mà Pixelcraft đã đẩy mạnh, với những phương án dựa trên Bản Đề Xuất Hội Ý đã đạt hoặc gần đạt được mức thi hành tối thiểu. Những lá phiếu này sẽ được hiện thực hoá và những ai tham gia sẽ nhận được phần thưởng XP.
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+Nếu Bản Đề Xuất Hội Ý của các bạn được nâng cấp thành công thành Bản Đề Xuất Chủ Chốt thì 150 [XP](/traits#experience)* sẽ được tặng cho Aavegotchi mà bạn đã ghi chú trong Bản Đề Xuất Hội Ý.
 
-*May increase or decrease throughout COCOON period
+*Có thể tăng hoặc giảm thông qua giai đoạn COCOON
 
 ## Metamorphosis
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+Metamorphosis là vòng lặp thứ 2 của AavegotchiDAO, và giữ vai trò quản trị những cơ chế game đơn giản của Aavegotchi, ví dụ như tổng cung của Aavegotchis, bổ sung những loại tài sản ký quỹ mới, quyết định đối với những tính năng, và thêm vào những trang bị được tạo ra bởi cộng đồng. Khi đến lúc phải chuyển sang AavegotchiDAO Oasis, AavegotchiDAO sẽ vote lần nữa để việc chuyển đổi được tiến hành.
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+Xem danh sách đầy đủ của các hành động có thể được tiến hành bởi AavegotchiDAO trong giai đoạn này tại mục [Governance](https://docs.aavegotchi.com/overview/governance) trong tài liệu hợp đồng thông minh của Aavegotchi.
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+Người nắm giữ token sẽ nhận được phần thưởng khi chủ động tham gia vào giai đoạn này của AavegotchiDAO.
 
 Những tính năng của giai đoạn này gồm có:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
+* Có thể thực thi hợp đồng thông minh
+* Có thể nâng cấp những cơ chế nhất định
+* Quản trị Aavegotchi + GHST
+* Nền tảng: dapp front-end tuỳ chỉnh
+* Phần thưởng: [XP](/traits#experience)+huy hiệu cho việc bỏ phiếu
 * Nền tảng: Polygon
 
 ## Oasis
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+Dù AavegotchiDAO OASIS là vòng lặp cuối cùng trong quá trình tiến hoá của AavegotchiDAO, nhưng đây mới chính là thời điểm mà Aavegotchi được công nhận là một trò chơi được quản trị bởi DAO. Tất cả những quyết định liên quan đến những chế của game, những cơ chế của REALM, việc chi tiêu của hệ sinh thái, và thậm chí là những nâng cấp trong hợp đồng thông minh sẽ được tiến hành vote thông qua AavegotchiDAO.
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Người nắm giữ token sẽ nhận được phần thưởng ở dạng GHST khi chủ động tham gia vào vòng lặp này của AavegotchiDAO.
 
 Những tính năng của giai đoạn này gồm có:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
+* Có thể thực thi hợp đồng thông minh
+* Có thể nâng cấp những cơ chế nhất định
+* Quản trị Aavegotchi + GHST
+* Nền tảng: Aavegotchi Realm
+* Phần thưởng: [XP](/traits#experience)+huy hiệu cho việc bỏ phiếu
 * Nền tảng: Polygon
 
 ## Tham Gia Quản Trị
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? Bạn êi, bọn mình lo hết!
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+Trước tiên, bạn phải tham gia vào những cuộc thảo luận trên [AavegotchiDAO forum](https://dao.aavegotchi.com/). Bọn mình hân hạnh được đón tiếp tất cả các bạn!
 
-Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+[Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) liệt kê chi tiết danh sách các hàm liên quan đến DAO mà thành viên có thể gọi/dùng để thực hiện những thay đổi đã được vote. Giả dụ như asUSD được vote để trở thành một [loại tài sản ký gửi ](/posts/atokens)đi. Aavegotchi sẽ có thể triển khai thay đổi này bằng cách sử dụng hàm `addCollateralTypes()` và chỉ định asUSD sẽ nằm trong hàm đó.
 
-More details will be fleshed out once the game releases!
+Nhiều thông tin chi tiết sẽ được công bố một khi trò chơi được triển khai!
 
 ## Diễn đàn AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Diễn Đàn Quản Trị AavegotchiDAO được vận hành trên Discourse. Sự có mặt của diễn đàn này sẽ giúp cộng đồng tập trung thảo luận những chủ đề liên quan đến cơ chế game Aavegotchi, yêu cầu ngân sách, và những đề xuất khác.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Bọn mình hy vọng rằng #GotchiGang sẽ trở thành một mô hình cho những game được sở hữu bởi DAO trong tương lai, vậy nên hãy tham gia và nhớ lịch sự với những người anh em trong cộng đồng nhé.
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/).
 
 ## Tạo ra Đề xuất Hội ý
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+Để tạo bản đề xuất hội ý để #Gotchigang có thể bỏ phiếu, hãy làm theo format dưới đây:
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
+* Tác giả + Id của Gotchi
+* Đường link dẫn đến chủ đề thảo luận trên Discourse (Những bản đề xuất mà không được thảo luận nhiều trong diễn đàn sẽ tự động bị xoá khỏi Snapshot)
 * Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
 * Effect
 * Highlight end goal and benefits
