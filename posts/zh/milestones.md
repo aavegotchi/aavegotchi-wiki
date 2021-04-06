@@ -7,6 +7,14 @@ contributors:
   - "chinyh"
 ---
 
+## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Lil Pump Wearables to drop this Friday, April 9
+* Hottest Signal Proposals on AavegotchiDAO
+* Pixelcraft Studios is expanding
+* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
+* Post published on 5 April 2021
+<p></p>
+
 ## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 * Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
 * Post published on 30 March 2021

@@ -35,3 +35,4 @@ Các kỹ sư, những lập trình viên trong cộng đồng của bọn mình
 
 * [Haunt.gg](https://haunt.gg/) - Công cụ quản lý bán hàng
 
+* [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi

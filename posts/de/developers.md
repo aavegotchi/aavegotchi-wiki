@@ -35,3 +35,4 @@ Aarchitects, our community developers, have come up with web applications.
 
 * [Haunt.gg](https://haunt.gg/) - Listing Organizer
 
+* [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension to pet Aavegotchis

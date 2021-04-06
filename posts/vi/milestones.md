@@ -7,6 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Maall Drop và một số sự kiện khác!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Trang phục chủ đề Lil Pump được mở bán vào ngày 9 tháng Tư
+* Những bản đề xuất hot nhất trên AavegotchiDAO
+* Pixelcraft Studios đang mở rộng hoạt động
+* Gần đây, Baazaar đã vượt qua cột mốc khối lượng giao dịch hơn 10 triệu GHST!
+* Bài viết được đăng tải vào ngày 5 tháng Ba năm 2021
+<p></p>
+
 ## [Giải thưởng Rarity Farming Mùa 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 * Rarity Farming Mùa 1 - Hãy cố cày game để chia cùng chia sẻ phần thưởng token GHST trị giá 2 triệu USD trong vòng 8 tuần
 * Bài viết được đăng tải vào ngày 30 tháng Ba năm 2021
@@ -75,7 +83,7 @@ contributors:
 <p></p>
 
 ## [Công bố Bảng Niên Giám của Anh Nông Dân: Hướng Dẫn Cực Chi Tiết Về Cách Thu Hoạch Giải Thưởng GHST](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Chào mấy fen! Có phải bạn đang cần ai đó hỗ trợ để chuyển GHST sang Matic và gặt hái những giải thưởng ngọt ngào hay không nè? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được thông báo vào ngày 25 Tháng Giêng 2020.
+* Chào mấy fen! Có phải bạn đang cần ai đó hỗ trợ để chuyển GHST sang Matic và gặt hái những giải thưởng ngọt ngào hay không nè? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được đăng vào ngày 25 Tháng Giêng 2020.
 <p></p>
 
 ## [Aavegotchi Improvement Proposals 2 và 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
@@ -128,7 +136,7 @@ contributors:
 * On 27 December 2020, we tabulated the amount collected for santagotchi.eth. Chúng tôi đã quyên góp được hơn 10k đô la để giúp anh bạn bị mất tiền.
 <p></p>
 
-## [Vote cho aToken tiếp theo!](https://twitter.com/aavegotchi/status/1341054376132034564)
+## [Bỏ phiếu cho aToken tiếp theo!](https://twitter.com/aavegotchi/status/1341054376132034564)
 * Kể từ ngày 22 Tháng Mười Hai năm 2020, vote cho hai aToken tiếp theo để tích hợp vào Aavegotchi trên Twitter và Snapshot.
 * Với các ứng cử viên aBUSD, aSUSD, aYFI, và aUNI!
 <p></p>
