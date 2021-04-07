@@ -71,7 +71,7 @@ Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồ
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) được khoá trong gotchi của bạn. Người chơi có thể nạp thêm hoặc lấy đi lượng Spirit Force này từ Aavegotchi. Tuy nhiên, có mức Spirit Force tối thiểu mà Aavegotchi yêu cầu, điều đó phụ thuộc vào Base Rarity Score của chúng.
 
 ### Spirit Point
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
