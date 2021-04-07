@@ -71,7 +71,7 @@ Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标
 积分被奖励给已质押GHST的用户。 FRENS 不是一个令牌。 从技术上讲，这是放样合同中的余额。 FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
 ### 灵魂力
-灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
+Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### 精神点
 灵魂点指的是等级上升时得到的点。 Kinda就像RPG游戏中的统计点。 你每3级获得1个精神点。
