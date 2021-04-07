@@ -27,6 +27,7 @@ When you're done reading this and hopefully have a better understanding of these
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
 <p><a href=#aavegotchi>아베고치</a></p>
 <p><a href=#frens>FRENS</a></p>
+<p><a href=#haunts>Haunts</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>Wearables</a></p>
@@ -66,6 +67,9 @@ When you're done reading this and hopefully have a better understanding of these
 
 ### 아베고치
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+
+### Haunts
+Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### FRENS
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
