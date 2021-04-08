@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
+* Head over to Snapshot and vote now!
+<p></p>
+
 ## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
 * Lil Pump Wearables to drop this Friday, April 9
 * Hottest Signal Proposals on AavegotchiDAO
