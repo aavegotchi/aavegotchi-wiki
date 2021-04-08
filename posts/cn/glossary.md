@@ -27,27 +27,28 @@ contributors:
 <li><a href=#aavegotchi-related>Aavegotchi 相关内容</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#frens>FRENS</a></p>
-<p><a href=#spirit-force>灵魂力</a></p>
-<p><a href=#spirit-point>灵魂点</a></p>
-<p><a href=#wearables>可穿戴装备</a></p>
+<p><a href=#haunts>Haunts</a></p>
+<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#collateral>抵押品</a></p>
+<p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>闪电贷</a></p>
-<p><a href=#impermanent-loss>无常损失</a></p>
-<p><a href=#liquidity-pools>流动性矿池</a></p>
+<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#impermanent-loss>Impermanent Loss</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
-<p><a href=#oracles>预言机</a></p>
-<p><a href=#smart-contracts>智能合约</a></p>
-<p><a href=#staking>质押</a></p>
-<p><a href=#yield-farming>挖矿</a></p>
+<p><a href=#oracles>Oracles</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#staking>Staking</a></p>
+<p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>通用术语</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>钟形曲线</a></p>
+<p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#chainlink-vrf>Chainlink VRF</a></p>
 <p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
@@ -67,37 +68,40 @@ contributors:
 ### Aavegotchi
 Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/rarity-farming)。
 
+### Haunts
+Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+
 ### FRENS
-积分被奖励给已质押GHST的用户。 FRENS 不是一个令牌。 从技术上讲，这是放样合同中的余额。 FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
+Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
-### 灵魂力
-灵魂力是指锁定在gotchi中的抵押品（aToken）的数量。
+### Spirit Force
+Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
-### 精神点
-灵魂点指的是等级上升时得到的点。 Kinda就像RPG游戏中的统计点。 你每3级获得1个精神点。
+### Spirit Point
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
-### 可穿戴装备
-Aavegotchi穿的衣服/设备。 它们符合ERC-1155标准。
+### Wearables
+Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
 
 ## DeFi 101
 
-"DeFi" 是指 **去**中心化**金融**nance. 可以认为它是为传统金融机构提供类似服务的应用程序和协议的生态系统（例如，借贷，借贷以及从储蓄中产生的利息等）。 但是，有一个主要区别-DeFi的目标是在没有中间人的情况下以分散的方式进行。
+"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
 
-这意味着没有银行削减您的潜在收益或为您提供负利率。 这也意味着不会出现整个系统可能崩溃的中心故障点，也不会受到由集中力量的小组决定和实施的一组规则的影响。
+That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
 
 
-在撰写本文时（2020年12月5日），锁定Defi的总价值为14.24B USD。
+At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
 
 ## 用户条款
 
 ### APY
-APY代表年收益率。 这是您存入协议的储蓄所赚取的实际收益率，同时考虑了加息的影响。
+APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### 抵押品
+### Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -130,7 +134,7 @@ Some examples of DEXs include UniSwap, Mesa and Balancer.
 Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### 闪电贷
+### Flash Loans
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -139,12 +143,12 @@ If this doesn't happen, the whole transaction is reversed to effectively undo th
 
 
 
-### 无常损失
+### Impermanent Loss
 Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
 
 
 
-### 流动性矿池
+### Liquidity Pools
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
@@ -155,12 +159,12 @@ maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They 
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
 
-### 预言机
+### Oracles
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 
 
-### 智能合约
+### Smart Contracts
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
@@ -170,7 +174,7 @@ Staking a cryptocurrency essentially means to hold that currency, to help verify
 
 
 
-### 挖矿
+### Yield Farming
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
@@ -187,7 +191,7 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### 钟形曲线
+### Bell Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Chainlink VRF
