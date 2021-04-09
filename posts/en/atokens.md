@@ -12,19 +12,17 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
 
-So how are aTokens relevant to Aavegotchi? Every Aavegotchi has to be summoned through a [portal](/pages/portals), and have to be collateralized by an aToken before they are brought to life! No exceptions! That's why you need aTokens and this page will provide you with some helpful information on what are the available aTokens and how do you get them.
+So what exactly is Spirit Force? 
 
-When Aavegotchi shifted from Ethereum Mainnet to the [Matic Network](/glossary#matic-network), these aTokens need to be available on the Matic Network as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to the Matic Network. aTokens on the Matic Network are known as maTokens. 
+Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
-From a gamer's standpoint, playing Aavegotchi involves:
+Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on the Polygon are known as maTokens. 
 
-1. Getting some aTokens 
-2. Converting aTokens to maTokens 
-3. After opening a Portal, using maTokens as collateral to summon an Aavegotchi
+This page will provide you with some helpful information on what are the available aTokens and how do you get them. 
 
-In this page, we will instruct you in the ways of the aTokens.
+Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
 
 In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
@@ -47,7 +45,6 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens"
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
 aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile. 
-
 
 The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand. 
 
