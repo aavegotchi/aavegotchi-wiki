@@ -18,7 +18,7 @@ So what exactly is Spirit Force?
 
 Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
-Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on the Polygon are known as maTokens. 
+Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on Polygon are known as **maTokens**. 
 
 This page will provide you with some helpful information on what are the available aTokens and how do you get them. 
 
