@@ -21,10 +21,10 @@ Cộng đồng của chúng ta đã phát triển đến mức nào rồi? Hãy 
 <li><a href=#increase-daico-tap-for-ghst-purchases>Tăng lượng tap từ DAICO để mua lại GHST</a></li>
 <li><a href=#proposal-for-haunt-2>Đề Xuất Về Haunt 2</a></li>
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Tặng background độc quyền cho những Aavegotchi từ Haunt 1 (không chuyển sang ví khác được)</a></li>
-<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Add Fee on Baazaar to Support Rarity Farming</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Tăng Phí Baazaar Để Hỗ Trợ Cho Rarity Farming</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -162,7 +162,7 @@ Giữ nguyên như cũ: 138240 GHST (2,37%)
 
 <hr />
 
-### Add Fee on Baazaar to Support Rarity Farming
+### Tăng Phí Baazaar Để Hỗ Trợ Cho Rarity Farming
 **Aavegotchi Improvement Proposal #6**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
@@ -181,7 +181,7 @@ Option 2: No, leave the fees as they are
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -214,7 +214,7 @@ Neither: 150380 GHST
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
@@ -242,7 +242,7 @@ No: 354030
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
