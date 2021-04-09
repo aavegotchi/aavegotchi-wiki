@@ -11,7 +11,9 @@ Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Netwo
 
 In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
 
-So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
+So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+
+Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 

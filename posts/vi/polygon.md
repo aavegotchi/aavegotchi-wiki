@@ -13,6 +13,8 @@ Nói một cách ngắn gọn, Polygon là giải pháp mở rộng Layer 2 củ
 
 Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Uniswap và cùng chào đón những tương tác (gần như miễn phí) trên ngôi nhà mới nhé!
 
+Chuyển nhà đến Polygon là một lựa chọn đúng đắn. [Nick](/team#nick-mudge) đã cho bọn mình thấy rằng bọn mình đã giúp người chơi [tiết kiệm hơn 14 triệu đô la tiền phí bằng cách này](https://twitter.com/mudgen/status/1372245486535639040).
+
 <div class="contentsBox">
 
 **Nội dung**
@@ -77,15 +79,15 @@ Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc U
 
 3). Ở phía bên trái, hãy nhấp vào "Matic Wallet" và "Deposit".
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Thêm Token trên Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Gửi Token vào Matic Wallet" />
 
 4). Hãy nhấp vào "Tiếp tục Gửi tiền" và chọn tài sản của bạn ở đây:
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Thêm Token trên Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Gửi Token vào Matic Wallet" />
 
 5). Nhập vào số lượng mà bạn muốn dùng qua cầu kết nối và nhấn vào cái nút màu xanh to to nhé.
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Thêm Token trên Matic Wallet" />
+<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Gửi Token vào Matic Wallet" />
 
 Bùmmmmmmm! Chỉ cần xác nhận giao dịch trên Metamask thôi là xong. Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Polygon của bạn. Bạn có thể được airdrop 0.1 MATIC nếu bạn chuyển một stablecoin vào tài khoản và yêu cầu [Quickswap](https://quickswap.exchange/), DEX lớn nhất trên MATIC, chuyển MATIC cho bạn. (Nhiêu đó thôi là đã đủ để chuyển hơn 1000 giao dịch rồi, Matic thật toẹt vời ông mặt trời mà!)
 

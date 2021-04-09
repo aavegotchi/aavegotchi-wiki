@@ -11,7 +11,9 @@ contributors:
 
 Если коротко, Polygon - это решение масштабируемости второго уровня для публичных блокчейнов, к примеру, Ethereum. Эта децентрализованная платформа обеспечивает быстрые и сверх дешевые транзакции с финалити в основной цепи. Если у вас есть желание разобраться в деталях, как это работает, читайте данную [статью](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
-Мы говорим пока транзакциям по $100 на Uniswap и приветствуем (почти) бесплатные взаимодействия с контрактом!
+So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+
+Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
@@ -28,9 +30,9 @@ contributors:
 
 ## Почему Polygon?
 
-Вы наверняка знаете, а впрочем может и нет, мейннет Aavegotchi был запланирован на 4 января 2021 года. В этот день биткойн скакнул на 40%, что заставило арбитраж ботов сойти с ума. Цены на газ улетели к отметке 400 gwei, а стоимость транзакций стала безумно дорогой. Чтобы представить это в в ретроспективе: покупка и открытие [портала](/portals) вместе с призывом Готчи обошлась бы нам как минимум в $300.
+As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
 
-Стало очевидно - запуск в главной сети Ethereum невозможен. Поскольку Polygon уже работал с различными NFT проектами (например, Opensea), то выбор был сравнительно легким. Сообщество разделяло наши настроения и проголосовало за запуск в Polygon 76% голосов.
+It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
 For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 

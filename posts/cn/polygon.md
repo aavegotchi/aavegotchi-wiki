@@ -11,7 +11,9 @@ contributors:
 
 In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
 
-因此，告别Uniswap上的100美元交易，并向（几乎）免费互动打招呼！
+So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+
+Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
@@ -28,9 +30,9 @@ In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethe
 
 ## Why Polygon?
 
-你们可能知道，也可能不知道，Aavegotchi Mainnet计划在2021年1月4日上线。 那天，比特币上涨了近40％，这导致套利机器人发疯。 这使天然气费飙升至超过400 gwei，从而导致可笑的交易费。 只是为了说明一下：购买单个[传送门](/portals)，将其打开并召唤Gotchi至少需要花费300美元。
+As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
 
-很明显，在Ethereum Mainnet上进行上线是不可能的。 Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
 For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
