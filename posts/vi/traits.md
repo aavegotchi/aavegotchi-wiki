@@ -97,6 +97,6 @@ Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi 
 Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
 
 ## Haunt
-Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts. The team is exploring `bodyColor` on Aavegotchis to differentiate between Haunts.
+Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt. Đội ngũ phát triển đang tìm hiểu thêm về phương án điều chỉnh `màu sắc cơ thể ` của những Gotchi thuộc các sự kiện Haunt khác nhau.
