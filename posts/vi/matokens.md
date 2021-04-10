@@ -12,55 +12,71 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Polygon? Tất nhiên là cùng lý do việc sở hữu maToken rồi!
+What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Tất nhiên là cùng lý do việc sở hữu maToken rồi!
 
-Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
+There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Chuyển đổi aToken thành maToken</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Stake maToken vào Aavegotchi</a></li>
+<li><a href=#using-the-aavegotchi-bridge>Using the Aavegotchi Bridge</a></li>
+<li><a href=#bridging-through-ascendex>Bridging through AscendEX</a></li>
+<li><a href=#fiat-to-polygon-using-transak>Fiat to Polygon using Transak</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#learn-more>Tìm hiểu thêm</a></li>
 </ol>
 
 </div>
 
-## Chuyển đổi aToken thành maToken
+## Using the Aavegotchi Bridge
 
-Đầu tiên, hãy truy cập vào [Bridge to Polygon](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
+This method is used when you have some aTokens on Ethereum Mainnet and want to bridge them to Polygon as maTokens. This method involves paying ETH gas fees (which may be costly).
+
+First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token.
+Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-Sau khi chọn xong token, nhập vào lượng tài sản mà bạn muốn chuyển đến Polygon. Hãy lấy aUSDC là ví dụ, nhập số lượng token mà bạn muốn chuyển sang Polygon vào ô được đánh dấu màu đỏ.
+After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Một khi bạn đã nhập số lượng token mà bạn muốn rồi thì hãy nhấn vào nút "Approve Transfer.". Đợi đến khi giao dịch được chấp thuận trên Ethereum.
+Once you have keyed in the desired amount, click the "Approve Transfer" button. Wait for the transaction to go through on Ethereum.
 
-Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Polygon". Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
+After the Approve transaction goes through, click the "Transfer to Polygon" button. Wait for this transaction to go through on Ethereum as well.
 
-Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
+After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
 
-Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Polygon trên ví đó, hãy xem qua [Bài hướng dẫn về Polygon](/polygon) và thực hiện theo từng bước từng bước một.
+If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
 
-## Stake maToken vào Aavegotchi
+## Bridging through AscendEX
 
-Okie, giờ mình đã có một ít maToken rồi. Nên làm gì tiếp theo nhỉ?
+A second (and less costly) method is to transfer funds from CEXes (such as Binance) to AscendEX. From AscendEX, funds could be transferred directly to Polygon. Take a look at the infographic below to see how this could be done!
 
-Tốt lắm bạn hiền.
+<img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
-Bước tiếp theo là mua một [portal](/portals) bằng [GHST](/ghst). Portal có thể được mua thông qua DApp Aavegotchi (đường link sẽ được cung cấp khi game được khởi chạy) và trên [Thị Trường Thứ Cấp](/marketplace) như Opensea. Một khi bạn đã có trong portal xịn xò trong tay, hãy bắt đầu quá trình triệu hồi. Trước khi mở portal, bạn sẽ được qua 10 bé Gotchi, và mỗi bé sẽ cần một lượng aToken/collateral được yêu cầu ngẫu nhiên. Đây là lúc bạn cần aToken để có thể bắt đầu chơi game. Hãy stake tài sản cùng loại được yêu cầu vào trong Gotchi và mang sức sống đến cho chúng!
+## Fiat to Polygon using Transak
 
-Để có được những lời giải thích chi tiết về quá trình mở portal, hãy xem qua trang [portals](/portals) của chúng tôi.
+A third way is to use a fiat-to-Polygon on-ramp.
 
-## Tìm hiểu thêm
+See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
+
+## Staking maTokens into Aavegotchis
+
+Okay, I've gotten myself some maTokens. What now?
+
+Good work fren.
+
+The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+
+For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+
+## Learn more
 
 * [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên trên Polygon và biến nó thành maToken
 * Nick Mudge giải thích sâu hơn về[đặc tính kỹ thuật của maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
