@@ -11,23 +11,27 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on Polygon? Why you get maTokens, of course!
+What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
 
-This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
+There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#using-the-aavegotchi-bridge>Using the Aavegotchi Bridge</a></li>
+<li><a href=#bridging-through-ascendex>Bridging through AscendEX</a></li>
+<li><a href=#fiat-to-polygon-using-transak>Fiat to Polygon using Transak</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
 
-## Converting aTokens into maTokens
+## Using the Aavegotchi Bridge
+
+This method is used when you have some aTokens on Ethereum Mainnet and want to bridge them to Polygon as maTokens. This method involves paying ETH gas fees (which may be costly).
 
 First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
 
@@ -48,6 +52,18 @@ After the Approve transaction goes through, click the "Transfer to Polygon" butt
 After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
 
 If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
+
+## Bridging through AscendEX
+
+A second (and less costly) method is to transfer funds from CEXes (such as Binance) to AscendEX. From AscendEX, funds could be transferred directly to Polygon. Take a look at the infographic below to see how this could be done!
+
+<img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi">
+
+## Fiat to Polygon using Transak
+
+A third way is to use a fiat-to-Polygon on-ramp.
+
+See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
 
 ## Staking maTokens into Aavegotchis
 
