@@ -310,5 +310,5 @@ contributors:
 
 ## [Bài đăng đầu tiên của Aavegotchi trên Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
 * Vào ngày 14 Tháng Bảy năm 2020, sự kiện Aavegotchi đầu tiên đã được đăng tải trên Medium!
-* Xibot joins the team!
+* Xibot đã tham gia vào team!
 <p></p>
