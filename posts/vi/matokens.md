@@ -14,21 +14,25 @@ contributors:
 
 Bạn sẽ nhận được gì khi sở hữu những đồng aToken sinh lợi nhuận này và đặt chúng vào Polygon? Tất nhiên là cùng lý do việc sở hữu maToken rồi!
 
-Trang này sẽ là trang nối tiếp của trang [aToken](/atokens) Trước đây, chúng ta nhận về cho mình những đồng aToken. Giờ đây, ta sẽ thích thú khi chuyển đổi chúng thành những đồng maToken và biến chúng thành tài sản thế chấp để có thể triệu hồi những người bạn Aavegotchi!
+Có nhiều cách để sở hữu maToken. Ở trang này, bạn sẽ biết thêm được nhiều cách.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Chuyển đổi aToken thành maToken</a></li>
+<li><a href=#using-the-aavegotchi-bridge>Dùng Aavegotchi Bridge</a></li>
+<li><a href=#bridging-through-ascendex>Chuyển tiền thông qua AscendEX</a></li>
+<li><a href=#fiat-to-polygon-using-transak>Chuyển từ tiền pháp định sang Polygon bằng Transak</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Stake maToken vào Aavegotchi</a></li>
 <li><a href=#learn-more>Tìm hiểu thêm</a></li>
 </ol>
 
 </div>
 
-## Chuyển đổi aToken thành maToken
+## Dùng Aavegotchi Bridge
+
+Bạn có thể dùng phương pháp này khi đang có aToken trên mạng Ethereum Mainnet và muốn chuyển sang Polygon để nhận maToken. Cách này sẽ tiêu hao ETH làm phí gas (có thể rất tốn kém).
 
 Đầu tiên, hãy truy cập vào [Bridge to Polygon](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
 
@@ -49,6 +53,18 @@ Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Pol
 Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
 
 Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Polygon trên ví đó, hãy xem qua [Bài hướng dẫn về Polygon](/polygon) và thực hiện theo từng bước từng bước một.
+
+## Chuyển tiền thông qua AscendEX
+
+Cách thứ hai (và cũng ít tốn kém hơn) là chuyển tiền từ CEX (ví dụ như Binance) sang AscendEX. Từ AscendEX, tiền có thể được chuyển trực tiếp lên Polygon. Hãy xem bản inforgraphic dưới đây để biết cách làm nhé!
+
+<img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Dùng AscendEX để chơi Aavegotchi" />
+
+## Chuyển từ tiền pháp định sang Polygon bằng Transak
+
+Cách thứ ba là dùng tiền pháp định để mua tiền điển tử trên Polygon.
+
+Hãy xem qua [bài viết này](https://trasher.substack.com/p/buying-your-tokens-straight-into) từ thành viên trong cộng đồng bọn mình để biết thêm chi tiết.
 
 ## Stake maToken vào Aavegotchi
 

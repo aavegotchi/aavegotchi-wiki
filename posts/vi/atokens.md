@@ -13,19 +13,19 @@ contributors:
 <p class="headerImageText">The aETH aToken / Đồng aETH (aToken của Ethereum)</p>
 </div>
 
-Mỗi Gotchi đều tồn tại nhờ vào Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Mỗi Gotchi đều tồn tại nhờ vào Spirit Force. Khi mở [portal](/portals), người triệu hồi (bạn chứ ai nữa!) sẽ có thể ấn định Spirit Force vào Gotchi của mình để có thể triệu hồi người bạn mới chào đời!
 
-So what exactly is Spirit Force?
+Vậy thì Spirit Force chính xác là gì?
 
-Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+Ban đầu, game Aavegotchi được thiết kế để chơi trên Ethereum Mainnet. Trong suốt thời gian ấy, Spirit Force chính là aToken. AToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com). Chúng được đúc thông qua hoạt động gửi tiền vào giao thức và sẽ bị đốt khi rút tiền. Những đồng aToken được gắn với giá trị của những tài sản được gửi vào Aave Protocol theo tỷ lệ 1:1. những đồng aToken này có thể được tự do lưu giữ, chuyển khoản, và giao dịch. Xem phần [FAQ ](https://docs.aave.com/faq/)của Aave để có thêm nhiều thông tin về Aave Protocol.
 
-Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on Polygon are known as **maTokens**.
+Do phí gas trên Ethereum Mainnet cực cao nên việc triển khai Aavegotchi đã được chuyển sang [Polygon](/glossary#polygon), một giải pháp Layer 2. Việc chuyển đổi sang Polygon giúp các giao dịch được hoàn thành một cách nhanh chóng với phí giao dịch gần như bằng không. Điều này dễ đến việc chúng mình cần phải mang aToken lên Polygon. Thiên tài gõ code gà nhà và cũng là boi kim cương của chúng tôi, anh [Nick Mudge](/team#nick-mudge) đã thành công trong việc kết nối chúng với Matic Network. aToken trên Polygon được biết đến với cái tên **maTokens**.
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
 
-Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotchi trên Polygon. Có rất nhiều cách để nhận maToken mà không cần phải thông qua aToken. Tuy nhiên, để mang tính đại diện, bọn mình sẽ giới thiệu cách để sở hữu aToken tại đây.
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
+Trong Aavegotchi, thuật ngữ "Spirit Force", "Collateral", và "aToken" có chung ý nghĩa.
 
 <div class="contentsBox">
 
@@ -43,15 +43,15 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens"
 
 ## Sơ lược
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Khi những tài sản có giá trị được mang đi cho vay, những đồng aToken sẽ trực tiếp mang lợi nhuận theo thời gian thực vào ví của bạn! Thật đấy, bạn có thể xem số dư của mình tăng trưởng mỗi phút.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aToken có thể được chia ra thành một trong hai loại: (1) tiền điện tử, hoặc (2) stablecoin. Tiền điện tử là những loại tiền tệ kỹ thuật số hoặc mã hoá được bảo mật bằng thuật toán. Nhiều loại tiền điện tử là những mạng lưới phân tán được dựa trên công nghệ blockchain - một loại sổ cái phân tán vận hành bởi những mạng lưới máy tính khác nhau. Những đồng stablecoin là một loại tiền điện tử được thiết kế để giữ giá ổn định bằng cách gán chúng với một tài sản bên ngoài ví dụ như đồng đô la Mỹ (USD). Cơ chế gán giá trị phía sau của những stablecoin sẽ khác nhau, và mỗi cách gán sẽ có những rủi ro nhất định.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Những đồng [aToken (tiền điện tử và stablecoin) ](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)sau đây hiện đang có mặt trên Aave Protocol. Cột *Được hỗ trợ bở Aavegotchi *cho biết những đồng aToken sẽ được dùng trong trò chơi Aavegotchi hay không. Danh sách những đồng aToken dùng trong trò Aavegotchi được dựa trên nhu cầu của người chơi.
 
 ## Stablecoin
 
-table_stablecoins
+table_stablecoins (https://docs. google. com/document/d/11HwrEYrrt5jAjssTGzTa0yqgFJKeGx-Oi-Co5btQXbE/edit? usp=sharing)
 
 ## Tiền mã hoá
 
@@ -59,30 +59,30 @@ table_cryptocurrencies
 
 ## Sở hữu aToken
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Những bước sau đây được lấy ra từ [Bài hướng dẫn Zero to Hero 2.0 ](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834)từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Đây là một trong những tuỳ chọn được liên kết với ví tiền điện tử của bạn, tuỳ thuộc vào loại ví mà bạn sở hữu:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Trước khi sử dụng Aave Protocol, bạn sẽ phải có một số ít tiền điện tử. Danh sách những loại tiền mã hoá được thể hiện trong mục <a href=#stablecoins> Stablecoin</a> và<a href=#cryptocurrencies> Tiền mã hoá </a>phía trên.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Nếu bạn không có tiền điện tử những muốn tham gia vào cuộc vui này, bạn sẽ cần phải chuyển đổi tiền pháp định (tiền bình thường, như đô la, ơ rô, v. v.) thành tài sản mã hoá (giống như phía trên).
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+May thay, gần đây Aave đã giới thiệu một cổng tắt để chuyển đổi từ tiền pháp định sang tiền điện tử nơi bạn có thể mua tài sản mã hoá trực tiếp từ ứng dụng Aave Protocol! Giờ đây bạn có thể dùng Transak và Ramp Instant để mua tài sản theo ít mình một cách trực tiếp thông qua thẻ tín dụng, thẻ ghi nợ hoặc chuyển khoản điện tín chỉ trong một vài phút (xem bên dưới).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Khi bạn sẽ kết nối ví với nền tảng, bạn có thể gửi một tài sản vào Aave Protocol. Khi bạn nhấp vào “deposit”, giao diện sẽ cho bạn thấy lượng tài sản có sẽ để bạn có thể ký gửi. Sau đó, bạn hãy chọn loại tài sản mà bạn muốn gửi, chọn số lượng tiền và sau đó voliá, bạn đã thành công! Chú ý: Sẽ có một giao dịch “approve” trước khi giao dịch gửi tiền diễn ra. Việc này sẽ cho phép hợp đồng ký gửi sử dụng số tiền mà bạn đang ký gửi
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được hưởng tiền lợi nhuận. Giờ bạn đã có thể xem phiên bản aToken của tài sản của bạn ngay trong ví.
 
 ## Chuyển đổi aToken thành maToken
 
-Got your aTokens? Good!
+Có aToken rồi đúng hem? Hay lắm!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+Giờ chuyển sang trang [maTokens](/matokens) page để đi đến Bước 2 nhé!
