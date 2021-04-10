@@ -13,17 +13,17 @@ contributors:
 <p class="headerImageText">The aETH aToken / Đồng aETH (aToken của Ethereum)</p>
 </div>
 
-Mỗi Gotchi đều tồn tại nhờ vào Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Mỗi Gotchi đều tồn tại nhờ vào Spirit Force. Khi mở [portal](/portals), người triệu hồi (bạn chứ ai nữa!) sẽ có thể ấn định Spirit Force vào Gotchi của mình để có thể triệu hồi người bạn mới chào đời!
 
-So what exactly is Spirit Force?
+Vậy thì Spirit Force chính xác là gì?
 
-Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+Ban đầu, game Aavegotchi được thiết kế để chơi trên Ethereum Mainnet. Trong suốt thời gian ấy, Spirit Force chính là aToken. AToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com). Chúng được đúc thông qua hoạt động gửi tiền vào giao thức và sẽ bị đốt khi rút tiền. Những đồng aToken được gắn với giá trị của những tài sản được gửi vào Aave Protocol theo tỷ lệ 1:1. những đồng aToken này có thể được tự do lưu giữ, chuyển khoản, và giao dịch. Xem phần [FAQ ](https://docs.aave.com/faq/)của Aave để có thêm nhiều thông tin về Aave Protocol.
 
-Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on Polygon are known as **maTokens**.
+Do phí gas trên Ethereum Mainnet cực cao nên việc triển khai Aavegotchi đã được chuyển sang [Polygon](/glossary#polygon), một giải pháp Layer 2. Việc chuyển đổi sang Polygon giúp các giao dịch được hoàn thành một cách nhanh chóng với phí giao dịch gần như bằng không. Điều này dễ đến việc chúng mình cần phải mang aToken lên Polygon. Thiên tài gõ code gà nhà và cũng là boi kim cương của chúng tôi, anh [Nick Mudge](/team#nick-mudge) đã thành công trong việc kết nối chúng với Matic Network. aToken trên Polygon được biết đến với cái tên **maTokens**.
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
 
-Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotchi trên Polygon. Có rất nhiều cách để nhận maToken mà không cần phải thông qua aToken. However, for the sake of representativeness, we explain how to get aTokens here.
 
 In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
