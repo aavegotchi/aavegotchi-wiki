@@ -49,6 +49,7 @@ contributors:
 <li><a href=#wearable-faq>Kleidungsstück FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
+<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
 <li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
@@ -187,6 +188,13 @@ No. Both claimed and unclaimed wearable vouchers will be automatically transferr
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
 
 For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+
+### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
+Each Aavegotchi has its own inventory. When you unequip a wearable from the Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's inventory.
+
+You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+
+At each Aavegotchi's page, there will be an "Items" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's inventory to your personal inventory.
 
 ## Portal FAQ
 
