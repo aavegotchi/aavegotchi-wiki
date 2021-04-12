@@ -281,18 +281,18 @@ Một số người dùng đã gặp phải vấn đề này bởi token stkGHST
 
 Mình đã rút token GHST (hoặc bất kỳ tài sản nào khác có cùng vấn đề) từ Polygon về lại Ethereum Mainnet bằng [Aavegotchi Bridge](https://aavegotchi.com/bridge). Đã vài tiếng trôi qua mà mình vẫn chưa nhận được tài sản trên Ethereum Mainnet nữa. Giờ mình phải làm sao đây?
 
-Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấp Block Number của giao dịch.
+Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấy Block Number của giao dịch.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Sau đó, thay thế phần [blockNumber] trong đường link đưới đây bằng số Block Number của bạn rồi truy cập vào đó:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Đường link để cho cho bạn biết trạng thái của giao dịch rút tiền mà bạn đang chờ.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì hãy kiên nhẫn chờ đợi nhé. Nhiều bạn phải đợi đến 6 tiếng tiền mới về tài khoản.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
