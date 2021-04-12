@@ -49,10 +49,10 @@ contributors:
 <li><a href=#wearable-faq>Những câu hỏi về Wearables</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Mình có cần chuyển voucher của wearable sang Matic hay không?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Các trang phục có bị giới hạn về số lượng hay không?</a></p>
-<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
+<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>Mình đã tháo trang bị khỏi Aavegotchi và không thể tìm lại chúng trong túi đồ</a></p>
 <li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Có thể mua được bao nhiêu portal chỉ trong một giao dịch?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?</a></p>
 <p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
 <li><a href=#aavegotchidao-faq>Những câu hỏi về AavegotchiDAO</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
@@ -189,7 +189,7 @@ Không nha. Voucher wearables dù đã nhận hay không nhận đều sẽ đư
 
 Với những trang phục được mua từ Maall, một khi chúng đã được bán hết rồi thì sẽ không xuất hiện trong Maall lần nữa. Bạn chỉ có thể mua từ những người sỡ hữu những món wearable ấy.
 
-### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
+### Mình đã tháo trang bị khỏi Aavegotchi và không thể tìm lại chúng trong túi đồ
 Each Aavegotchi has its own inventory. When you unequip a wearable from the Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's inventory.
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
@@ -198,10 +198,10 @@ At each Aavegotchi's page, there will be an "Items" button at the bottom-right c
 
 ## Những câu hỏi về Portal
 
-### How many portals can you buy in 1 transaction?
+### Có thể mua được bao nhiêu portal chỉ trong một giao dịch?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ### When will portals be released?
