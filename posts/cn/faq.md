@@ -33,6 +33,7 @@ contributors:
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
+<p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
 <li><a href=#bonding-curve-faq>联合曲线</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -132,6 +133,17 @@ maTokens are aTokens which have been transferred to Polygon. Like aTokens, they 
 No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
 This is a feature of permissionless blockchains. It cannot be stopped.
+
+### Are amTokens the same as maTokens?
+No. amTokens are **not** the same as maTokens.
+
+maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+
+amTokens come from the Aave money market pools that is native to Polygon.
+
+Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
+
+In the Aavegotchi game, the Spirit Force/Collateral used is **maTokens**, and not amTokens.
 
 ## 联合曲线
 
