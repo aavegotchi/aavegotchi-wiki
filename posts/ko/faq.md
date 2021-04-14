@@ -32,6 +32,7 @@ contributors:
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -128,6 +129,11 @@ No. The aTokens staked inside an Aavegotchi cannot be used as collateral for bor
 ### What are maTokens?
 maTokens are aTokens which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
+### Could CAPTCHA be used to prevent bots?
+No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+
+This is a feature of permissionless blockchains. It cannot be stopped.
+
 ## Bonding Curve FAQ
 
 ### I bought GHST but I can't see it in my wallet
@@ -151,7 +157,7 @@ No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ### Why is the GHST-USDC LP yielding 74M FRENS per day?
-An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Raffle FAQ
 

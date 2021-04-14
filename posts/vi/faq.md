@@ -32,23 +32,24 @@ contributors:
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->Aave có liên quan gì đến Aavegotchi vậy?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Atoken stake vào một Aavegotchi có thể bị thanh lý hay không?</a></p>
 <p><a href=#what-are-matokens->MaToken là gì?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
 <li><a href=#bonding-curve-faq>Những câu hỏi về Bonding Curve</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy</a></p>
-<p><a href=#can-people-frontrun-the-bonding-curve->Ai đó có thể vượt mặt bonding curve hay không?</a></p>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
+<p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
 <li><a href=#frens-faq>Những Câu Hỏi Về FRENS</a></li>
-<p><a href=#can-i-buy-frens->Mình có thể mua FRENS được không?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->FRENS có được dùng để mua gì khác ngoài raffle hay không?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?</a></p>
-<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày?</a></p>
+<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
+<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Why is the GHST-USDC LP yielding 74M FRENS per day?</a></p>
 <li><a href=#raffle-faq>Những câu hỏi về Raffle (Xổ số)</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?</a></p>
-<p><a href=#are-raffle-wearables-special->Có loại trang bị khủng nào trong raffle hay không?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?</a></p>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
+<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
 <li><a href=#wearable-faq>Những câu hỏi về Wearables</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Mình có cần chuyển voucher của wearable sang Matic hay không?</a></p>
-<p><a href=#are-there-limited-quantities-for-each-wearable->Các trang phục có bị giới hạn về số lượng hay không?</a></p>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
+<p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
 <li><a href=#portal-faq>Những câu hỏi về Portal</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
@@ -127,67 +128,72 @@ Không nha. Atoken được stake trong Aavegotchi không thể được dùng n
 ### MaToken là gì?
 maToken là aToken được chuyển đến Polygon. Tương tự như aToken, chúng tự sinh ra lợi nhuận theo thời gian!
 
+### Could CAPTCHA be used to prevent bots?
+Không nha. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+
+This is a feature of permissionless blockchains. It cannot be stopped.
+
 ## Những câu hỏi về Bonding Curve
 
-### Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy
-Sau khi mua GHST trên bonding curve, bạn cần phải thực hiện thêm một giao dịch nữa đển nhận GHST về ví. Vui lòng xem ảnh chụp màn hình phía dưới để lấy ví dụ. Người dùng cần phải nhấp vào nút "CLAIM ORDER" để token GHST có thể hiện lên trong ví của mình.
+### I bought GHST but I can't see it in my wallet
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Ai đó có thể vượt mặt bonding curve hay không?
-Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dịch được gộp lại với những giao dịch khác trước khi được gửi đi đến hợp đồng thông minh. Họ không thể mau được giá thấp hơn với phí gas cao hơn nhằm vượt mặt đợt mua hàng của bạn được.
+### Can people frontrun the Bonding Curve?
+Không nha. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## Những Câu Hỏi Về FRENS
 
-### Mình có thể mua FRENS được không?
-Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
+### Can I buy FRENS?
+Không nha. FRENS are a way to reward our community members who staked GHST.
 
-### FRENS có được dùng để mua gì khác ngoài raffle hay không?
+### Are FRENS used for anything besides raffles?
 
-Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. Phần còn lại của hệ sinh thái Aavegotchi sẽ được vận hành bởi GHST.
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
-### Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?
-Số dư FRENS của bạn sẽ được tự động chuyển lên Matic. FRENS trên Mainnet sẽ không có giá trị.
+### What happens to the FRENS on Mainnet after the game launches on Polygon?
+Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
-### Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày?
-Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
+### Why is the GHST-USDC LP yielding 74M FRENS per day?
+Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Những câu hỏi về Raffle (Xổ số)
 
-Xem <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> để biết thêm thông tin chi tiết về raffles.
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
-### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
+### Does buying a ticket mean I'm entered into the raffle?
 
-Không nha! Xin lưu ý rằng việc chỉ mua vé bằng FRENS **sẽ không tự động giúp bạn chơi xổ số.** Bạn cần phải STAKE vé của mình trong vòng 72 giờ để mở raffle. Việc này sẽ cần đến hai giao dịch trên trang Raffle - **approve** vé của bạn, **và tham gia** vào xổ số. Nếu bạn đã yêu cầu thành công, bạn sẽ nhận được số trên vé để có thể tham gia vào xổ số ở trang Stats.
-
-
-### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
-
-Không nha. Những phụ kiện này sẽ chỉ được xuất hiện trong sự kiện xổ số trước khi game khởi chạy.
+Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### Có loại trang bị khủng nào trong raffle hay không?
+### Will raffle wearables be available in the Aavegotchi store?
 
-Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v.).  Trong những <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">thị trường mở </a>, việc chúng có giá trị chuyển nhượng cao hơn bởi **trạng thái trước khi khởi chạy ** hoặc ** liên kết với các dự án lớn ** hay không sẽ được định hình bởi nhu cầu của thị trường.
+Không nha. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
-### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
-Vé Raffle được dự trên tiêu chuẩn ERC-1155. Hiện tại, các token dựa trên tiêu chuẩn này có thể được chuyển đi bằng cách sử dụng giao diện của [Opensea](https://opensea.io/). Khi đã truy cập vào Opensea, hãy kết nối ví Metamask và nhập địa chỉ người nhận vào để chuyển vé raffle đến cho họ.
+### Are raffle wearables special?
 
-### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
-Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+
+
+### How do you transfer raffle tickets?
+Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+
+### Will there be Raffles after Mainnet launches?
+Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
 ## Những câu hỏi về Wearables
 
-### Mình có cần chuyển voucher của wearable sang Matic hay không?
-Không nha. Voucher wearables dù đã nhận hay không nhận đều sẽ được tự động chuyển sang Matic Network khi Aavegotchi triển khai.
+### Do I need to transfer my wearable vouchers to Polygon?
+Không nha. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
-### Các trang phục có bị giới hạn về số lượng hay không?
-Đúng vậy. Mỗi món trang phục đều có số lượng giới hạn. Bạn có thể xem qua số lượng của chúng tại [trang Wearables](/wearables).
+### Are there limited quantities for each wearable?
+Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
 
-Với những trang phục được mua từ Maall, một khi chúng đã được bán hết rồi thì sẽ không xuất hiện trong Maall lần nữa. Bạn chỉ có thể mua từ những người sỡ hữu những món wearable ấy.
+For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
 ### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
 Each Aavegotchi has its own inventory. When you unequip a wearable from the Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's inventory.

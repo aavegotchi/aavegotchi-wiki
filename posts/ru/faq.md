@@ -32,6 +32,7 @@ contributors:
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -127,6 +128,11 @@ No. The aTokens staked inside an Aavegotchi cannot be used as collateral for bor
 
 ### What are maTokens?
 maTokens are aTokens which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+
+### Could CAPTCHA be used to prevent bots?
+No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+
+This is a feature of permissionless blockchains. It cannot be stopped.
 
 ## Bonding Curve FAQ
 
