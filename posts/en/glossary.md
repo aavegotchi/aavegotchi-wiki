@@ -34,6 +34,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
 <p><a href=#collateral>Collateral</a></p>
@@ -97,6 +98,9 @@ At the time of writing (December 5 2020), the Total Value Locked in Defi stands 
 
 ## Key Terms
 
+### amTokens
+amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+
 ### APY
 APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
@@ -157,9 +161,13 @@ The term is somewhat self-explanatory. These are pools of tokens that are locked
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+
+maTokens are **not the same** as [amTokens](/glossary#amtokens).
+
+In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
