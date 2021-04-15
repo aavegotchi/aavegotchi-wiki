@@ -153,15 +153,15 @@ Impermanent loss xảy ra khi bạn cung cấp thanh khoản cho một quỹ (xe
 
 
 ### Quỹ thanh khoản
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+Thuật ngữ đọc vào có thể hiểu ngay. Những quỹ token này được khoá trong một hợp đồng thông minh. Chúng thay phiên nhau được dùng đễ hõ trợ giao dịch bằng cách cung cấp thanh khoản.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Để có nhiều thông tin định nghĩa hơn dành cho thuật ngữ này, hãy xem qua [hướng dẫn từ](https://finematics.com/liquidity-pools-explained/) Finematic.
 
 ### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens đại diện cho [aTokens](/glossary#atokens) của Aave V2 trên [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Để xem bài hướng dẫn từng bước về cách chuyển đổi aToken từ Ethereum Mainnet thành maToken trên Polygon, hãy xem qua bài hướng dẫn về maToken này nhé.
 
 maTokens are **not the same** as [amTokens](/glossary#amtokens).
 
