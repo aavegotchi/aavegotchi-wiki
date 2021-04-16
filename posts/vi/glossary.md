@@ -163,35 +163,35 @@ maTokens đại diện cho [aTokens](/glossary#atokens) của Aave V2 trên [Pol
 
 Để xem bài hướng dẫn từng bước về cách chuyển đổi aToken từ Ethereum Mainnet thành maToken trên Polygon, hãy xem qua bài hướng dẫn về maToken này nhé.
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+chúng **KHÔNG GIỐNG** như [maTokens](/glossary#amtokens).
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+Trong game Aavegotchi, **maTokens** được chính là [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
 
 
 
 ### Hợp đồng thông minh
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Nói chung, một hợp đồng thông minh là một hợp đồng mà những "điều khoản" giữa những người dùng của hợp đồng, được được viết vào trong bộ code của hợp đồng có thể vận hành một cách tự động. Khi những điều khoản và dịch vụ được đặt trước này thoả mãn các điều kiện thì hợp đồng sẽ được thi hành.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon là một dự án được định hướng bởi cộng đồng và có mã nguồn mở với sứ mệnh tăng cường sự tự do bằng cách tạo ra những công cụ mà các tổ chức phi tập trung có thể sử dụng.
 
 Sản phẩm fligship của dự án là Aragon client, một công cụ để tạo và tham gia vào những tổ chức phân tán trên Ethereum. Dự án cũng đang xây dựng Aragon Network, quyền lực pháp lý kỹ thuật số đầu tiên trên thế giới.
 
