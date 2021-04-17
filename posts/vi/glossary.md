@@ -32,6 +32,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
 <p><a href=#collateral>Tài Sản Thế Chấp</a></p>
@@ -40,7 +41,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#dex>DEX</a></p>
 <p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
+<p><a href=#liquidity-pools>Quỹ thanh khoản</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Hợp đồng thông minh</a></p>
@@ -95,6 +96,9 @@ Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locke
 
 ## Những Thuật Ngữ Quan Trọng
 
+### amTokens
+amToken là những token LP từ quỹ thị trường tiền tệ của Aave trên **Polygon**. Chúng **KHÔNG GIỐNG** như [maTokens](/glossary#matokens).
+
 ### APY
 APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
@@ -125,39 +129,43 @@ Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [t
 
 
 ### DEX
-Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
+Cũng được gọi là Decentralized Exchange. Những nền tảng này cho phép người dùng quản lý các giao dịch ngang hàng, để nhận token từ ví một người dùng với sự giúp đỡ của hợp đồng thông minh. Điều này trái ngược lại với cách hoạt động của CEXs (Centralied Exchanges), vốn hoạt động thông qua trung gian (bản thân sàn CEX).
 
 
-Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
+Một vài ví dụ về DEX là Uniswap, Mesa, và Balancer.
 
 
-Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
+Một số ví dụ về CEX là Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
-Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. Tuy nhiên, có một chỗ khá thú vị.
+Bạn có nhớ những gì được đề cập về những khoảng vay và tài sản thế chấp ở trên không? À ờm, flash loan là một dạng cho vay để giải quyết nhu cầu đặt cọc tài sản thế chấp. Tuy nhiên, có một điểm khác biệt.
 
-Flash loan phải được trả trong cùng một block giao dịch.
+Flash loan phải được trả lại trong cùng một block giao dịch.
 
-Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có thể huỷ các thao tác diễn ra vào thời điểm trước đó một cách hiệu quả. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
+Nếu điều đó không xảy ra thì cả giao dịch sẽ bị đảo ngược để hoàn tác một cách hiệu quả những hàng động đã được thực hiện cho đến thời điểm đó. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-Impermanent loss (tổn thất tạm thời) xảy ra khi bạn cung cấp thanh khoản cho một quỹ (xem [Liquidity Pools](/glossary#liquidity-pools)), and và giá của tài sản mà bạn ký gởi thao đổi khác đi so với lúc bạn ký gửi. Điều này sẽ khiến bạn mất tiền nếu, tại thời điểm bạn muốn rút tiền, giá tiền bị giảm đi so với hồi đầu bạn nạp vào. Điều này dẫn đến việc giá trị quy đổi lúc bạn rút ra tiền thật sẽ bị thấp đi.
+Impermanent loss xảy ra khi bạn cung cấp thanh khoản cho một quỹ (xem [Liquidity Pools](/glossary#liquidity-pools)), và giá của những tài sản được gửi vào sẽ thay đổi so với khi bạn gửi lúc đầu. Việc này sẽ khiến bạn chịu tổn thấy nếu lúc bạn muốn lấy lại tài sản, giá đã giảm đi so với khi bạn nạp vào. Điều này dẫn đến việc giá trị của tài sản theo đồng đô la lúc bạn rút sẽ bị giảm.
 
 
 
 ### Quỹ thanh khoản
-Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ) của token này được khoá trong hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
+Thuật ngữ đọc vào có thể hiểu ngay. Những quỹ token này được khoá trong một hợp đồng thông minh. Chúng thay phiên nhau được dùng đễ hõ trợ giao dịch bằng cách cung cấp thanh khoản.
 
 
-Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
+Để có nhiều thông tin định nghĩa hơn dành cho thuật ngữ này, hãy xem qua [hướng dẫn từ](https://finematics.com/liquidity-pools-explained/) Finematic.
 
 ### maTokens
-maToken là [aTokens](/glossary#atokens) trên mạng [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
+maTokens đại diện cho [aTokens](/glossary#atokens) của Aave V2 trên [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-Để xem qua bài hướng dẫn về cách chuyển đổi từ token aToken trên Mainnet của Ethereum sang maToken trên trên, vui lòng xem qua bài hướng dẫn về [maTokens](/matokens) này.
+Để xem bài hướng dẫn từng bước về cách chuyển đổi aToken từ Ethereum Mainnet thành maToken trên Polygon, hãy xem qua bài hướng dẫn về maToken này nhé.
+
+chúng **KHÔNG GIỐNG** như [maTokens](/glossary#amtokens).
+
+Trong game Aavegotchi, **maTokens** được chính là [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
 Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
@@ -244,7 +252,7 @@ Polygon là một giải pháp mở rộng cho các blockchain công khai. Dựa
 
 Để chuyển token từ Mainnet của Ethereum sang Matic Network, vui lòng xem qua [bày hướng dẫn](/polygon)này.
 
-Đọc thêm về Matic Network tại [đây](https://matic.network/).
+Đọc thêm về Polygon tại [đây](https://matic.network/).
 
 ### Proof of Stake
 
