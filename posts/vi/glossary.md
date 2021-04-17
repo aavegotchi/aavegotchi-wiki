@@ -56,6 +56,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
+<p><a href=#erc-1155>ERC-1155</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
@@ -83,28 +84,30 @@ Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) đư�
 Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
 
 ### Wearables
-Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng đạt tiêu chuẩn ERC-1155.
+Quần áo/trang bị mà Aavegotchi của bạn đang mặc. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+
+Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
 
 ## DeFi 101
 
-"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
+"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
 
-Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
+That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
 
 
-Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
+At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
 
 ## Những Thuật Ngữ Quan Trọng
 
 ### amTokens
-amToken là những token LP từ quỹ thị trường tiền tệ của Aave trên **Polygon**. Chúng **KHÔNG GIỐNG** như [maTokens](/glossary#matokens).
+amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
 
 ### APY
-APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
+APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
 ### aTokens
-aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com/). Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [aTokens](/atokens).
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
 ### Automated Market Maker
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
@@ -242,6 +245,11 @@ ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds t
 Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+
+### ERC-1155
+A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+
+Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### Metaverse
 
