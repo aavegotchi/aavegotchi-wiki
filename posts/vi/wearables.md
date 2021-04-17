@@ -16,7 +16,7 @@ contributors:
 
 Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
 
-Wearables conform to the ERC-1155 standard.
+Trang phục là những vật phẩm theo chuẩn ECR-1155.
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
 
