@@ -35,8 +35,8 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Trình tạo thị trường tự động (Amm)</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#automated-market-maker>Trình tạo thị trường tự động (AMM)</a></p>
+<p><a href=#collateral>Tài Sản Thế Chấp</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
@@ -45,7 +45,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#smart-contracts>Hợp đồng thông minh</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
@@ -84,153 +84,153 @@ Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) đư�
 Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
 
 ### Wearables
-Quần áo/trang bị mà Aavegotchi của bạn đang mặc. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên [tiêu chuẩn ERC-1155](/glossary#erc-1155). Mỗi trang phục có độ hiếm riêng, những chỉ số mà chúng có thể tăng hoặc giảm, số lượng tối đa, và một ô trang bị mà chúng có thể được mặc lên.
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
 
 ## Những Thuật Ngữ Quan Trọng
 
 ### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+amToken là những token LP từ quỹ thị trường tiền tệ của Aave trên **Polygon**. Chúng **KHÔNG GIỐNG** như [maTokens](/glossary#matokens).
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com/). Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [aTokens](/atokens).
 
-### Trình tạo thị trường tự động (Amm)
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+### Trình tạo thị trường tự động (AMM)
+Một dạng thị giao thức sàn giao dịch phi tập trung (DEX) dựa trên công thức toán học để định giá tài sản. Thay vì dùng sổ lệnh như những sàn giao dịch truyền thống, tài sản được định giá dựa trên thuật toán định giá.
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+Mỗi giao thức sẽ có một công thức khác nhau. Ví dụ, Uniswap dùng x * y = k, trong đó x là số lượng của một token trong quỹ thanh khoản, và y là số lượng của token còn lại. Trong công thức này, k là một hằng số cố định, nghĩa à tổng số thanh khoản trong quỹ luôn giữ nguyên. Những AMM khác sẽ dùng công thức khác cho những trường hợp đặc thù mà họ hướng tới. Tuy nhiên, điểm tương đồng của chúng là chúng đều dựa trên thuật toán để định giá.
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+AMM hoạt động tương tự như sàn giao dịch sổ lệnh ở chỗ chúng có các cặp giao dịch - ví dụ như ETH/DAI. Tuy nhiên, người dùng sẽ không cần đối tác (một người dùng khác) ở phía bên kia thì mới có thể giao dịch được. Thay vào đó, họ tương tác với hợp đồng thông minh giúp "tạo" thị trường cho bạn.
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
-
-
-In the context of DeFi, this is how things might look:
+### Tài Sản Thế Chấp
+Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. For this to happen, you will need to set down a portion of your other assets as collateral. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
+
+Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
+Viết tắt của cụm từ Decentralized Autonomous Initial Coin Offering. Decentralized Autonomous Initial Coin Offering (DAICO) là một hình thức gây quỹ mới với mong muốn kết hợp những đặc tính nổi trội nhất của Decentralized Autonomous Organization (DAO) với Initial Coin Offering (ICO) để tạo ra một cấu trúc để có thể mang đến một mô hình mở bán token gây vốn với độ hiệu quả cao hơn. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Hoặc cũng có thể gọi là Decentralized Autonomous Organization. Đây là những tổ được quản trị bởi những quy luật đã được code trong hợp đồng thông minh và được điều khiển bởi các thành viên tham gia. Điều này trái với những mô hình tổ chức truyền thống, thường hướng về việc quản trị thông qua một nhóm nhỏ gồm những nhân vật có thẩm quyền.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Trong ngữ cảnh của AavegotchiDAO, điều này có nghĩa là các thành viên trong hệ sinh thái sẽ có thể bắt đầu và vote cho các đề xuất có ảnh hưởng đến cách mà những hệ sinh thái lớn hơn sẽ vận hành. Ví dụ, các thành viên có thể đề xuất tăng số lượng Portal được bán theo thời gian, hoặc những tính năng mà họ nghĩ là sẽ giúp cộng đồng được cải thiện.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [trang này](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. Tuy nhiên, có một chỗ khá thú vị.
 
-The flash loan has to be repaid within the same transaction block.
+Flash loan phải được trả trong cùng một block giao dịch.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có thể huỷ các thao tác diễn ra vào thời điểm trước đó một cách hiệu quả. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+Điểm khác nhau giữa việc giữ token trong [trình tạo thị trường tự động (AMM) ](/glossary#automated-market-maker) và giữ trong ví của bạn. Việc này xảy ra khi giá của các token trong AMM đi ngược nhau theo bất kỳ hướng nào. Chúng càng lệch nhau thì tổn thất tạm thời càng lớn. Tổn thất được gọi là "tạm thời" do khi các token được giữ trong AMM trở lại trạng thái ban đầu lúc bạn vừa gửi chúng vào aMM thì tổn thất ấy sẽ biến mất và bạn sẽ kiếm được 100% phí giao dịch. Tuy nhiên, đây là một trường hợp hiếm thấy. Trong hầu hết mọi trường hợp, tổn thất tạm thời trở thành mãi mãi, khiến cho lợi nhuận của bạn suy giảm và khiến bạn âm vốn. Cùng thường được gọi là Tổn thất Phân kỳ.
 
 
 
 ### Liquidity Pools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+Thuật ngữ này đọc vào có thể tự suy ra được. Những quỹ token này được khoá trong một hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens đại diện cho [aTokens](/glossary#atokens) của Aave V2 trên [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Để xem qua bài hướng dẫn về cách chuyển đổi từ token aToken trên Mainnet của Ethereum sang maToken trên trên, vui lòng xem qua bài hướng dẫn về [maTokens](/matokens) này.
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+chúng **Không Giiống/strong> như [maTokens](/glossary#amtokens).</p>
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+Trong game Aavegotchi, **maTokens** được chính là [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
 
 
 
-### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+### Hợp đồng thông minh
+Nói chung, một hợp đồng thông minh là một hợp đồng mà những "điều khoản" giữa những người dùng của hợp đồng, được được viết vào trong bộ code của hợp đồng có thể vận hành một cách tự động. Khi những điều khoản và dịch vụ được đặt trước này thoả mãn các điều kiện thì hợp đồng sẽ được thi hành.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon là một dự án được định hướng bởi cộng đồng và có mã nguồn mở với sứ mệnh tăng cường sự tự do bằng cách tạo ra những công cụ mà các tổ chức phi tập trung có thể sử dụng.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Sản phẩm fligship của dự án là Aragon client, một công cụ để tạo và tham gia vào những tổ chức phân tán trên Ethereum. Dự án cũng đang xây dựng Aragon Network, quyền lực pháp lý kỹ thuật số đầu tiên trên thế giới.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Dự án Aragon được quản lý bởi Tổ chức Aragon, một tổ chức phi lợi nhuận có trụ sở tại Zug, Thuỵ Sĩ, và được quản trị bởi những người nắm giữ token Aragon Network.
 
-Check out their [site](https://aragon.org/) here.
+Xem thêm [website của họ](https://aragon.org/) tại đây.
 
 ### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+Verifiable Randomness Function (VRF) được vận hành bởi ChainLink nhằm tạo ra những kết quả ngẫu nhiên có thể được kiểm chứng ngay trên blockchain. Nó được dùng để cung cấp bằng chứng cho việc các hợp hợp đồng thông minh thực ra đang sử dụng một công cụ xác thực tạo ra sự ngẫu nhiên mà họ không thể điều khiển. Trong dự án Aavegotchi, Chainlink VRF được dùng để tạo ra ngẫu nhiên [các đặc tính ](/traits) vào thời điểm mở [portal](/portals) và giải thưởng xổ số.
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Đọc thêm về Chainlink VRF tại [đây](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 ### Diamond Standard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+The Diamond Standard được tạo ra bởi người anh em [Nick Mudge](/team#nick-mudge) của chúng tôi. Diamond Standard cho phép người dùng viết những bản hợp đồng theo một mô đun mà trong đó không hề có giới hạn về kích thước và tiết kiệm gas.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Diamond có thể được nâng cấp lên nhanh chóng mà không cần phải tái vận hành những chức năng đã tồn tại.
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+Nó giúp chuẩn hoá giao diện của hợp đồng và thao tác trang bị những chi tiết của diamond, cho phép việc cài đặt phần mềm và hoạt động liên chuỗi.
 
-A diamond is a contract that implements the Specification in this standard.
+Diamond là một loại hợp đồng được trang bị những Đặc điểm kỹ thuật trong tiêu chuẩn này.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Hãy nhấp vào [đây](https://eips.ethereum.org/EIPS/eip-2535) để xem thông tin chi tiết.
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Một tiêu chuẩn token dành cho token có thể thay thế được, hay nói cách khác, chúng có một chức năng giúp mỗi Token sẽ giống hệt (về loại và giá trị) với một Token khác. Chúng có những chức năng ví dụ như chuyển khoản từ tài khoản này sang tài khoản khác, biết được số dư của token đó trong một tài khoản riêng lẻ cũng như tổng lượng cung của token tồn tại trên mạng lưới. Bên cạnh đó, nó cũng cung cấp những chức năng ví dụ như cho phép một tài khoản chứa token có thể tiêu xài token đó thông qua một tài khoản của bên thứ ba. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
 
 ### ERC-721
 A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
