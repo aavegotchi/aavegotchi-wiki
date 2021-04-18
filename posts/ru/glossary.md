@@ -35,6 +35,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
+<p><a href=#automated-market-maker>Automated Market Maker</a></p>
 <p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
@@ -55,6 +56,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
+<p><a href=#erc-1155>ERC-1155</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
@@ -82,7 +84,9 @@ Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked w
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the ERC-1155 standard.
+Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+
+Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
 
 ## DeFi 101
 
@@ -104,6 +108,13 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+
+### Automated Market Maker
+A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+
+This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+
+An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
 ### Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
@@ -148,7 +159,7 @@ If this doesn't happen, the whole transaction is reversed to effectively undo th
 
 
 ### Impermanent Loss
-Impermanent loss occurs when you provide liquidity to a pool (see [Liquidity Pools](/glossary#liquidity-pools)), and the price of your deposited assets changes compared to when you deposited them. This would result in a loss if, at the point in time you wish to withdraw your assets, the price has decreased from when you first deposited them. This leads to a lower dollar value at the time of your withdrawal.
+The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
 
 
 
@@ -234,6 +245,11 @@ ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds t
 Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
 For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+
+### ERC-1155
+A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+
+Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### Metaverse
 
