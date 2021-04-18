@@ -26,6 +26,7 @@ contributors:
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
+<li><a href=#coyote>Coyote</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -72,16 +73,24 @@ Nick Mudge是以太坊最有成就的核心开发者之一。 ERC998合成标准
 </div>
 JC是一名业务发展战略家和区块链爱好者，在与加密货币领域一些最聪明的人联系和交流方面有着丰富的经验。 作为一名创业者和自我激励的团队成员，他在建立关系、影响战略合作伙伴关系、开发新的销售渠道以及使用社交媒体和病毒式营销方面表现出了卓越的天赋。 他最大的热情之一是介绍和推广新公司，协助他们创业。 他对这个领域的热情是基于对区块链技术颠覆性力量的坚定信念。
 
-## 起源
+## Coyote
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
+</div>
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+
+## Origins
 ### 梦之队组合
-看，这就是我们的团队！  无论从任何标准来看，这都是一支梦之队，他们准备征服全世界！ 下面的故事相当准确地说明了团队是如何走到一起的。  由Vanilladelphia.eth Aapprentice等人巧妙地编辑而成。
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-年份是2011年……也许是2012年。  Coder Dan刚刚结束其学院生涯，当时他决定继续保持他的真正热情。  在中国海滩出售糖果。  Dan知道，他们不会把这份艰巨的工作交给任何旧的学校，尤其是像他这样的外国人。  那时候我们的英雄决定他最好做一份真正的工作，并成为YouTube上的名人...这就是他所做的。  几年后快进，年轻的Coderdan准备回到海滩。
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-“现在是出售一些糖果的时候了”。
+"It's time to sell some candy" Said Dan.
 
-他是一个销售者！  尽管不幸的是，他还不够能在沙滩上卖糖果，但这位年轻人却如此振作，他的铃铛让另一位年轻的旁观者GldnXross眼前一亮。  两人成为了快节奏的朋友，嬉戏嬉闹，并创作了美妙的音乐。  对我们来说幸运的是，二人组继续从事更大的工作...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-当我们的梦想家们决定，他们将创建90年代经典玩具的完全链式版本时，每个人都称他们为疯子。  但Coder Dan以前听到过这种情况，但他知道他们是正确的。  他们不能做到这一点，至少只靠他们自己不行。  他们需要最好的夜晚、最好的……但谁？  "Xibot!" Dan马上说。  “如果有人能够抓住我们心中如此附近和亲爱的经典的精髓，就必须是他！”  “Hmm，但智能合约是什么？”GldnXross说。  肯定没有人能够将这些东西保存在链上！ Dan说，“有一个人”。 “这个家伙非常喜欢聪明的合约，他为智能合约写了智能合约。”  “等等，我听说过这个家伙...” Said GldnXross说 "Nick Mudge!"  “以及社区？ 当然，我们将需要一个令人难以置信的人来消除垃圾邮件发送者，并帮助菜鸟！”  Dan抬起头……“有一个男人，他可以做到。” 那个人的名字？ JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-因此，这是我们的英雄集合的方式，一些细节已经编辑了一段时间。
+So this is how our heroes assembled, some details have been edited for time.
