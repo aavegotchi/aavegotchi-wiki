@@ -35,7 +35,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Automated Market Maker</a></p>
+<p><a href=#automated-market-maker>Trình tạo thị trường tự động (Amm)</a></p>
 <p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
@@ -109,7 +109,7 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Automated Market Maker
+### Trình tạo thị trường tự động (Amm)
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
 This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
