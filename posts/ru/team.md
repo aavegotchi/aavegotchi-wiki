@@ -26,6 +26,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
+<li><a href=#coyote>Coyote</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -71,6 +72,14 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
 </div>
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+
+## Coyote
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
+</div>
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
 ## Origins
 ### The Dream Team Assembles

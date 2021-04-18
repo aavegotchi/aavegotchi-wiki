@@ -26,7 +26,8 @@ contributors:
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
-<li><a href=#origins>이들의 첫만남</a></li>
+<li><a href=#coyote>Coyote</a></li>
+<li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
@@ -72,16 +73,24 @@ Nick Mudge는 굉장히 기량이 뛰어난 솔리디티 개발자들 중 한 �
 </div>
 JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 암호화폐 분야에서 가장 뛰어난 두뇌들과의 풍부한 경험, 네트워킹을 가지고 있습니다. 기업가적인 마인드와 자기동기부여가 강한 그는 관계 구축, 전략적 파트너쉽, 새로운 판매 경로 개발, 소셜 미디어 및 바이럴 마케팅 등에 대해 괄목한 효율성을 보여주면서 자신의 능력을 입증해왔습니다. 그의 가장 큰 열정을 갖고 있는 것 중 하나는 새로운 회사를 소개, 홍보하며 그들의 시작을 지원해주는 것입니다. 이러한 열의는 바로 기술이 가진 혁신적인 힘에 대한 강력한 믿음에 있습니다.
 
-## 아베고치의 서막
+## Coyote
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
+</div>
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+
+## Origins
 ### 드림팀 어셈블!
-일종의 밈처럼 들릴 수 있겠지만 저희는 '팀'입니다.  어떤 기준으로 보아도, 바로 세상을 뒤흔들 준비가 된 드림팀입니다. '어떻게 팀이 결성이 되었는지'에 대해 꽤나 정확한 스토리를 소개해드리려고 합니다.  Vanilladelphia.eth Aapprentice가 정리한 스토리를 같이 살펴 볼까요?
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-때는 2011년... 아니 2012년이였겠네요.  Coder Dan은 막 대학을 졸업하였으며 이제는 그가 진실로 하고자 하는 것을 추구하기로 결심했습니다.  중국의 해변가에서 사탕을 팔고 있을 때였습니다.  Dan은 사람들은 결코 구시대적인 얼간이들, 특히 그와 같은 외국인에겐 명망있는 직업을 제안하지 않을 것이란 걸 알게 되었습니다.  그때가 Dan이 진짜 직업을 갖는 것이 좋겠다고 결심한 때였고, 유튜버 가 되었습니다... 실제로 그는 하고 말았습니다.  그리고 몇년이 흘러 젊은 Coderdan은 다시 해변으로 돌아갈 준비가 되었습니다.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"이제 사탕을 팔아볼까?"
+"It's time to sell some candy" Said Dan.
 
-그러고는 그는 정말 판매원이 되고 말았습니다!  불행히도 그는 사탕을 파는데는 소질이 있지는 않았지만, 힘차게 호객행위를 하곤 했습니다. 그리고 이것이 한 행인의 눈길을 사로잡았으니, 바로 Jesse(AKA GldnXross) 입니다.  두 사람은 빠르게 친구가 되어 함께 놀러다니기도 하였고 아름다운 음악을 만들기도 했습니다.  우리에겐 운좋게도, 그가 팔던 마이야탕(중국 전통 사탕)이 그렇게 잘 팔리지는 않았기에 이 듀오가 더 훌륭한 것을 향해 갈 수 있지 않았을까요?
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-이 두명의 친구들이 처음에 90년대의 고전적인 장난감을 온전히 체인 상에서 다시 창조하겠다고 결정했을 때 사람들은 그들이 미쳤다고 했습니다.  하지만 Coder Dan은 이를 예전부터 들어왔었으며, 그리고 그는 그들이 맞다는 것을 알고 있었습니다.  적어도 그들 스스로였다면, 할 수 없었을 것입니다.  그들에겐 최고의, 최고중의 최고들이 필요했습니다... 하지만 과연 누가...?<br>  <br>"Xibot!"<br> Dan이 곧장 말했습니다.  <br>"클래식한 본질을 거의 완전하면서도 온전히 포착할 사람을 꼽자면, 그밖에 없어!"<br>  "음... 그럼 스마트 컨트랙트는 어떻게 할건데?"<br> GldnXross가 말했습니다.<br>  <br>확실히 누구도 이러한 것들을 체인상에 온전히 담기에 충분한 실력을 갖고 있지는 않았습니다.<br> <br>"한명이 있네."<br> "이 사람이야말로 스마트 컨트랙트를 사랑하고 스마트 컨트랙트를 위한 스마트 컨트랙트를 코딩하는 사람이야."  <br>"잠시만, 나 이 사람 들어본 거 같은데?"<br> GldnXross가 말했습니다. "Nick Mudge!"<br>  <br>"그럼 커뮤니티는 어떻게 하지? 우리에겐 사기꾼들을 쳐내고 초보들을 도와줄 사람이 필요할 거야."<br>  Dan은 고개를 들었습니다... "있지, 한 사람. 성자의 인내와 토르의 망치와 같은 사람 말이야."<br> 그 사람의 이름? 바로 JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-지금까지 아베고치의 영웅(?)들에 대한 이야기였습니다 :) <br> <br> (팀원들에 관한 세부적인 사항들 추후에 더 업로드될 것입니다!)
+So this is how our heroes assembled, some details have been edited for time.
