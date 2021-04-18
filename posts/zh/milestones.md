@@ -7,6 +7,14 @@ contributors:
   - "chinyh"
 ---
 
+## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Missed the 1st Community Call? Fren, we got you covered!
+* The Aavegotchi team expands!
+* More collaborations announced!
+* More discussions on AavegotchiDAO
+* Post published on 18 April 2021
+<p></p>
+
 ## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
 * Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
 * Published on 16 April 2021
