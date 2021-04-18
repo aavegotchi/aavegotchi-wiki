@@ -7,97 +7,97 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
-* Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
-* Published on 16 April 2021
+## [Phân Tách Aavegotchi trên Mạng Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
+* Unicly — giao thức kết hợp, phân mảnh, và giao dịch NFT — đã phân mảnh những Aavegotchi đầu tiên trên Ethereum Mainnet!
+* Bài viết được đăng tải vào ngày 16 tháng Ba năm 2021
 <p></p>
 
-## [Lil Pump drop incoming!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
-* The Aavegotchi team reminds everyone that the Lil Pump drop will occur tomorrow, 9 April 2021, at the Maall.
+## [Sự kiện mở bán vật phẩm Lil Pump sắp có mặt!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
+* Đội ngũ Aavegotchi nhắc nhỡ mọi người về sự kiện mở bán vật phẩm chủ đề Lil Pmup được tiến hành vào ngày mai, tại Aavegotchi Maall
 <p></p>
 
-## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
-* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
-* Head over to Snapshot and vote now!
+## [Bỏ phiếu cho AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+* Vào ngày 7 tháng Tư năm 2021, đội ngũ Aavegotchi đã thông báo về AGIP6, đề xuất tăng phí giao dịch trên Baazaar thêm 0,5% để hỗ trợ cho Rarity Farming.
+* Hãy chuyển đến Snapshot để bỏ phiếu ngay từ bây giờ nhé!
 <p></p>
 
-## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Lil Pump Wearables to drop this Friday, April 9
-* Hottest Signal Proposals on AavegotchiDAO
-* Pixelcraft Studios is expanding
-* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
-* Post published on 5 April 2021
+## [Maall Drop và một số sự kiện khác!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Trang phục chủ đề Lil Pump được mở bán vào ngày 9 tháng Tư
+* Những bản đề xuất hot nhất trên AavegotchiDAO
+* Pixelcraft Studios đang mở rộng hoạt động
+* Gần đây, Baazaar đã vượt qua cột mốc khối lượng giao dịch hơn 10 triệu GHST!
+* Bài viết được đăng tải vào ngày 5 tháng Ba năm 2021
 <p></p>
 
-## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
-* Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
-* Post published on 30 March 2021
+## [Giải thưởng Rarity Farming Mùa 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Rarity Farming Mùa 1 - Hãy cố cày game để chia cùng chia sẻ phần thưởng token GHST trị giá 2 triệu USD trong vòng 8 tuần
+* Bài viết được đăng tải vào ngày 30 tháng Ba năm 2021
 <p></p>
 
-## [Lil Pump x Aavegotchi Collaboration](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
-* On 22 March 2021, the Aavegotchi team reveals their collaboration with multi-platinum music artist Lil Pump.
-* The mystery wearables for Raffle 4 are revealed to be Lil Pump wearables!
+## [Lil Pump x Aavegotchi Hợp Tác Cùng Nhau](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
+* Vào ngày 22 tháng Ba năm 2021, nhóm Aavegotchi đã tiết lộ mối quan hệ hợp tác với một nghệ sĩ âm nhạc đã nhận được hàng loạt đĩa bạch kim là Lil Pump.
+* Trang phục bí ẩn trong Raffle 4 được xác nhận là trang phục thiết kế tương tự như Lil Pump!
 <p></p>
 
-## [Vote in Aavegotchi Improvement Proposals 4 and 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
-* Frens, we need your vote! Aavegotchi Improvement Proposals (AGIPs) 4 and 5 are open for voting!
-* Should there be more haunts? Should Haunt 1 be unique? Vote nao!
-* Post published on 17 March 2021
+## [Bỏ phiếu cho Aavegotchi Improvement Proposals 4 và 5 đi nào!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
+* Các bạn ơi, bọn mình cần lá phiếu của các bạn! Người dùng đã có thể bỏ phiếu choAavegotchi Improvement Proposals (AGIPs) 4 và 5!
+* Có nên tổ chức thêm sự kiện Haunt không? Sự kiện Haunt 1 có nên được trở nên đặc biệt hơn những Haunt khác hay không? Bỏ phiếu nào!
+* Bài viết được đăng tải vào ngày 17 tháng Ba năm 2021
 <p></p>
 
-## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
-* On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
-* Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
-* On April 1, 2021, we’ll be engaging the Chainlink VRF on Polygon to spin the wheel and determine the winners!
+## [Sự kiện Raffle 4 được công bố! Trang Phục Chủ Đề Layer 2!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
+* Vào ngày 15 tháng Ba năm 2021, đội ngũ Aavegotchi đã công bố thông tin về sự kiện Raffle 4: Layer 2 Raffle
+* Raffle 4 sẽ được mở từ ngày 29 tháng Ba năm 2021 vào lúc 10 giờ đêm SGT (10 giờ sáng EST) và, cũng như những sự kiện trước, người chơi sẽ có 72 tiếng để dùng vé tham gia vào hợp đồng Raffle.
+* Vào ngày 1 tháng Tư năm 2021, bọn mình sẽ tương tác tới Chainlink VRF trên Polygon để quay số và tìm ra người thắng giải!
 <p></p>
 
-## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
-* COCOON, the V1.5 stage in the evolution of AavegotchiDAO
-* Common questions and answers regarding the AavegotchiDAO
-* Post published on 12 March 2021
+## [Sự tiến hoá của AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+* COCOON, giao đoạn V1.5 trong giai đoạn tiến hoá của AavegotchiDAO
+* Đáp án cho những câu hỏi thường gặp về vấn đề AavegotchiDAO
+* Bài viết được đăng tải vào ngày 12 tháng Ba năm 2021
 <p></p>
 
-## [Aavegotchi Launch: Success!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
-* The first 10,000 Portals sold out in less than one minute!
-* Our secondary marketplace, the Baazaar, saw massive activity at launch
-* Post published on 3 March 2021
+## [Aavegotchi Triển Khai Mainnet thành công!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
+* 10.000 portal đầu tiên đã được bán hết sạch chỉ trong vòng 1 phút!
+* Chợ thứ cấp của bọn mình là the Baazaar đã nhận được lượng truy cập cao chóng mặt khi game được triển khai
+* Bài viết được đăng tải vào ngày 3 tháng Ba năm 2021
 <p></p>
 
-## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
-* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT.
-* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public.
-* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
+## [Ngày Tháng Giêng được xác định là ngày khởi chạy trò chơi!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
+* Vào ngày 24 tháng Giêng 2021, team Aavegotchi đã xác nhận rằng Aavegotchi sẽ triển khai Mainnet vào thứ Ba, ngày 2 tháng Ba lúc 10am EST/ 11 giờ đêm SGT.
+* Sự kiện Mainnet sẽ diễn ra tại Aavegotchi.com và kèm theo đó là đợt mở bán NFT (non fungible token) với tổng cộng 10.000 Aavegotchi Portal được mở bán ra cộng đồng.
+* Được đặt tên là "Haunt One", sự kiện này đánh dấu lần đầu tiên những người yêu thích trò chơi có thể triệu hồi các Aavegotchi.
 <p></p>
 
-## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
-* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
+## [Chainlink VRF có mặt trên Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
+* Không cần phải chờ đợi lâu nữa! Chainlink VRF đã có mặt trên Polygon vào ngày 23 tháng Hai năm 2021!
 <p></p>
 
-## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
+## [Quỹ Thanh Khoản GHST-USDC đã lên sóng!](https://twitter.com/aavegotchi/status/1362423023656001537)
+* Quỹ thanh khoản GHST-USDC được triển khai vào ngày 18 tháng Hai năm 2021. Giờ bạn đã có thể kiếm FRENs từ quỹ mới này!
 <p></p>
 
-## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+## [Quỹ AavegotchiDAO đã chạm mốc 100k!](https://twitter.com/aavegotchi/status/1361690024958300170)
+* Vào ngày 16 tháng Hai năm 2021, Ngân Quỹ AavegotchiDAO đã chạm mốc 100k DAI. AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi Bonding Curve ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 <p></p>
 
-## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Why did Aavegotchi chose Polygon as a Layer 2 solution? Get the scoop here! Article posted on 16 February 2021.
+## [Lý do Aavegotchi chọn Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
+* Aavegotchi dùng Matic làm giải pháp Layer 2? Vào đây để tìm hiểu sâu hơn nhé! Bài viết được đăng vào ngày 16 tháng Hai năm 2021.
 <p></p>
 
-## [Monthly GHST purchase program & new LP token vote](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
-* Last month, the AavegotchiDAO concluded a successful proposal to increase the tap emission from 100,000 DAI per month to 150,000 DAI per month, with the understanding that the extra 50,000 DAI would be used by Pixelcraft Studios (the lead developers of Aavegotchi) to purchase GHST from the curve.
-* Starting this month, Pixelcraft Studios will begin purchasing GHST from the Ethereum mainnet bonding curve!
-* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Come and cast your votes fam!
-* Article published on 8 February 2021.
+## [Chưa trình mua lại GHST& vote cho token LP mới](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
+* Vào tháng trước, AavegotchiDAO đã tổng kết thành công một bản kiến nghị về việc tăng lượng tiền nhã ra từ 100k DAI mỗi tháng lên 150k DAI mỗi tháng, 50k DAI cộng thêm được Pixelcraft Studios (những người phát triển Aavegotchi) dùng để mua lại GHST từ trong curve.
+* Bắt đầu từ tháng này, Pixelcraft Studios sẽ bắt đầu mua lại GHST từ bonding curve trên Ethereum Mainnet!
+* Vote trên Snapshot để token LP GHST-USDC có thể dùng để kiếm FRENS! Hãy cùng đến vote nhé cả nhà!
+* Bài viết được đăng vào ngày 8 tháng Hai năm 2021.
 <p></p>
 
-## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February! 
+## [Đợi đã! Cái gì cơ?! Các marketplace (thị trường trao đổi) dành cho Aavegotchi sao](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
+* Vào ngày 2 Tháng Hai 2021, team đã thông báo về việc Aavegotchi Marketplace chính chủ (Aavegotchi Baazaar) sẽ được triển khai chung với Portals và Wearables khi game khởi chạy chính thức vào tháng Hai!
 <p></p>
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+## [Công bố Bảng Niên Giám của Anh Nông Dân: Hướng Dẫn Cực Chi Tiết Về Cách Thu Hoạch Giải Thưởng GHST](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* Chào mấy fen! Có phải bạn đang cần ai đó hỗ trợ để chuyển GHST sang Matic và gặt hái những giải thưởng ngọt ngào hay không nè? Bọn mình có một bài hướng dẫn dành cho bạn đây! Được đăng vào ngày 25 Tháng Giêng 2020.
 <p></p>
 
 ## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
