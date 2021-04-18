@@ -26,7 +26,8 @@ Willst du wissen, wer hinter den süssen Gotchis steckt? Dann bist du hier genau
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
-<li><a href=#origins>Ursprung</a></li>
+<li><a href=#coyote>Coyote</a></li>
+<li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
@@ -72,16 +73,24 @@ Nick Mudge ist einer der versiertesten Solidity-Entwickler von Ethereum. Der ERC
 </div>
 Jc ist ein Geschäftsentwicklungsstratege und Blockchain-Enthusiast, mit viel Erfahrung in der Verbindung und Vernetzung mit einigen der hellsten Köpfe im Krypto-Bereich. Als unternehmerischer und selbstmotivierter Teamplayer hat er sein Talent für den Aufbau von Beziehungen, die Beeinflussung strategischer Partnerschaften, die Entwicklung neuer Vertriebskanäle und den Einsatz von Social Media und viralem Marketing mit bemerkenswerter Effektivität bewiesen. Eine seiner grössten Leidenschaften ist es, neue Unternehmen vorzustellen und zu fördern, sowie sie bei ihren Start-ups zu unterstützen. Seine Begeisterung für diesen Bereich basiert auf einem unerschütterlichen Glauben an die disruptive Kraft der Blockchain-Technologie.
 
-## Ursprung
+## Coyote
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
+</div>
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+
+## Origins
 ### Das Dream Team kommt zusammen
-Dies ist das Team hinter dem Meme.  Ein Dream Team nach allen Regeln der Kunst, das die Welt erobern wird. Die folgende Geschichte ist ein ziemlich genauer Bericht darüber, wie das Team zusammenkam.  Kunstvoll gestaltet von Vanilladelphia.eth Aapprentice et al.
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Es war das Jahr 2011... oder vielleicht 2012.  Coder Dan hatte gerade seine College-Karriere beendet, als er beschloss, seiner wahren Leidenschaft nachzugehen.  Süssigkeiten verkaufen, an einem Strand in China.  Dan wusste, dass sie diesen prestigeträchtigen Job nicht einfach an irgendeinen alten Trottel vergeben würden, besonders nicht an einen Ausländer wie ihn.  Da beschloss unser Held, sich einen richtigen Job zu suchen und ein Youtube-Star zu werden... und genau das hat er getan.  Nach ein paar Jahren war der junge Coderdan bereit, wieder an den Strand zu gehen.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"Es ist Zeit, ein paar Süssigkeiten zu verkaufen", sagte Dan.
+"It's time to sell some candy" Said Dan.
 
-Und was für ein Verkäufer er war!  Da er leider doch nicht gut genug war, um am Strand Süssigkeiten zu verkaufen, klingelte der junge Mann seine Glocke mit so viel Elan, dass er die Aufmerksamkeit eines anderen jungen Schaulustigen auf sich zog: Jesse, AKA GldnXross  Die beiden wurden schnell Freunde, tobten zusammen und machten wunderbare Musik.  Zu unserem Glück hat es mit dem Maiyatang nicht geklappt und das Duo ist zu viel grösseren Dingen übergegangen...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-Als unsere Träumer beschlossen, eine Blockchain-basierende Version des klassischen Spielzeugs aus den 90er Jahren zu entwickeln, wurden sie von allen als verrückt bezeichnet.  Aber Coder Dan hatte das schon einmal gehört und er wusste, dass sie Recht hatten.  Sie konnten es zuerst nicht schaffen, zumindest nicht alleine.  Sie brauchten den Besten, nein, den Besten der Besten... aber wen?  "Xibot!" sagte Dan sofort.  "Wenn es jemanden gibt, der die Essenz eines Klassikers, der uns so sehr am Herzen liegt, einfangen kann, dann muss er es sein!".  "Hmm, aber was ist mit den Smart Contracts?", sagte GldnXross.  Sicherlich gibt es niemanden, der gut genug ist, diese Dinge GANZ auf der Blockchain zu lagern! "Es gibt eine Person", sagte Dan. "Dieser Typ liebt Smart Contracts so sehr, dass er Smart Contracts für Smart Contracts schreibt."  "Warte, ich habe von diesem Typen gehört..." sagte GldnXross, "Nick Mudge!"  "Und Community? Sicherlich brauchen wir jemand unglaubliches, um die Spammer zu bändigen und den Noobs zu helfen!"  Dan schaute auf... "Es wird von einem Mann erzählt, der die Geduld eines Heiligen und den Hammer von Thor hat." Der Name dieses Mannes? JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-So haben sich also unsere Helden zusammengefunden, einige Details wurden aus Zeitgründen weggelassen.
+So this is how our heroes assembled, some details have been edited for time.
