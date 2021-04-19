@@ -90,6 +90,8 @@ Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) fo
 Click [here](/matokens) for the article
 
 * Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to transfer funds through AscendEX to Polygon
+* Learn how to use Transak as a fiat-to-Polygon on-ramp
 * Learn how to stake maTokens into Aavegotchis
 
 <hr />
