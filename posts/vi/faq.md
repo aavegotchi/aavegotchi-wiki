@@ -75,7 +75,7 @@ contributors:
 <p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Mình có thể trực tiếp chuyển token từ Polygon lên các sàn giao dịch như Binance, Kucoin,... hay không?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
 </ol>
 
 </div>
@@ -312,11 +312,11 @@ Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì
 
 Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
 
-### Why am I experiencing lag on Polygon?
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+### Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?
+Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
