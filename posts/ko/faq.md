@@ -75,6 +75,7 @@ contributors:
 <p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
 </ol>
 
 </div>
@@ -311,6 +312,11 @@ That URL will indicate the status of your withdrawal transaction.
 If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
 
 If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+
+### Why am I experiencing lag on Polygon?
+You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+
+For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
