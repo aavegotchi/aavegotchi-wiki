@@ -27,7 +27,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
 <li><a href=#coyote>Coyote</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>Team Gốc</a></li>
 </ol>
 
 </div>
@@ -79,9 +79,9 @@ Jc là một chiến lược gia phát triển kinh doanh và và người đam 
 <img class="leftImage" src="/team/coyote.png" alt = "Coyote">
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
 </div>
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã tham gia vào team hồi đầu năm 2021. Anh bắt đầu sự nghiệp với vai trò nhà thiết kế UI/UX trong các startup rồi cuối cùng chuyển sang chuyên về lập trình front end. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
-## Origins
+## Team Gốc
 ### Đội Nhóm Không Tưởng Tập Hợp
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
