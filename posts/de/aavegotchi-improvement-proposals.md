@@ -177,6 +177,12 @@ Option 2: No, leave the fees as they are
 
 **Voting Period:** 7 - 13 April 2021
 
+**Ergebnis:**
+
+Yes, increase fees from 3 to 3.5: 4570000 GHST (93.69%)
+
+No, leave the fees as they are: 307890 GHST (6.31%)
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
 
 <hr />
