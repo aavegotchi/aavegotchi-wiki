@@ -90,9 +90,9 @@ Xem bài viết tại [đây](https://trasher.substack.com/p/buying-your-tokens-
 Xem bài viết tại [đây](/matokens)
 
 * Tìm hiểu cách chuyển đổi aToken thành maToken thông qua Aavegotchi Bridge
-* Learn how to transfer funds through AscendEX to Polygon
-* Learn how to use Transak as a fiat-to-Polygon on-ramp
-* Learn how to stake maTokens into Aavegotchis
+* Cách chuyển tiền từ AscendEX to Polygon
+* Cách dùng Transak để chuyển tiền pháp định thành tiền mã hoá trên Polygon.
+* Tìm hiểu cách stake maToken vào Aavegotchi
 
 <hr />
 

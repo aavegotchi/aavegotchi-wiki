@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* Baazaar fees are now increased by 0.5% to 3.5%
+* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
+<p></p>
+
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
 * Missed the 1st Community Call? Bạn êi, bọn mình lo hết!
 * The Aavegotchi team expands!
