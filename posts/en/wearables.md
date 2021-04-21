@@ -13,7 +13,7 @@ contributors: ["cinnabarhorse","unintelligent-nerd"]
 </div>
 
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming). 
+Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming). 
 
 Wearables conform to the ERC-1155 standard.
 

@@ -42,7 +42,6 @@ be able to interact with all aspects of Aavegotchi life - and even build some of
 
 The Aavegotchi Realm is expanding as we speak. Here are just a few of the activities you'll be able to find in the metaverse so far:
 
-
 <ul><p style="margin-left: 2.4em"><b><li>Interact with other Gotchis</li></b></p></ul>
 
 <p style="margin-left: 4.8em">Say hello! Visit your Aavegotchi frens and make new ones.</p>
