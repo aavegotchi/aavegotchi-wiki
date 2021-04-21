@@ -19,7 +19,7 @@ contributors:
 Aavegotchis 是生活在以太坊区块链上的像素幽灵，使用
 ERC-721** 标准。 它的价值由其稀有度决定。很多种因素会影响稀有度，例如特质，质押品/aTokens 的数量，以及其 [可穿戴设备](/traits)的配置等等。</p> 
 
-玩家可以参与如小型游戏，治理和集会等活动来提升 Aavegotchis 的等级。 Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
+To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
 
 Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens. 
 
