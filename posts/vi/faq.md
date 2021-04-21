@@ -113,8 +113,7 @@ Hiện tại, bạn có thể:
 
 ### Mình có cần KYC trước khi chơi Aavegotchi hoặc nắm giữ token GHST hay không?
 
-Không nha! Bạn chỉ cần KYC nếu bạn muốn mua GHST trực tiếp từ <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> Bạn có thể mua GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">trên Uniswap</a> mà không cần KYC, cũng như <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">trên một số sàn giao dịch.</a> Ngoài ra, ** KYC** là không cần thiết khi mua Portal, <a href="https://wiki.aavegotchi.com/en/minigames">để chơi game,</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> hoặc bất kỳ khía cạnh nào của dự án Aavegotchi này cả.
+Không nha! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
 Bảng dưới đây sẽ tóm tắt lại thông tin:
 
