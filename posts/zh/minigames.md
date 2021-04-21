@@ -1,14 +1,48 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: 'Minigames'
+title: 'Mini-games'
 description: 'All about Aavegotchi minigames'
+contributors:
+  - "chinyh"
 ---
 
-*Aavegotchi's don't spend their time just twiddling their ghostly thumbs, y'know...*
+What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
 
-The [metaverse](/metaverse) is chock-full of things for Aavegotchis and their masters to do. Explore the realm with your friends and pit your 'Gotchi against theirs to win their ever-precious spirit force (not including their initial balance, of course) and valuable XP!
+Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
 
-There are a wide variety of mini-games to suit all players' (and Aavegotchis') tastes. If your adorably ethereal companion's *hyper-aggressive,* they'd surely appreciate a good battle here and there. On the flip side, they might not be quite right for a baking competition.
+Each mini-game will use different Aavegotchi traits to enable fair gameplay for a wide variety of trait distributions. For example, a HYPER-AGGRESSIVE Aavegotchi may perform well in an Aavegotchi Fight Club, but may not be well-suited to a cake-baking mini-game.
 
-As the [AavegotchiDAO](/dao) evolves, there are incentives coming for anyone and everyone to jump in and develop their very own mini-games! As long as they conform to the trait distribution standards, the games will reward winners with XP.
+Have an Aavegotchi that isn’t suited well to any mini-game currently offered? Jump in and develop one! To help support developers building Aavegotchi mini-games, [AavegotchiDAO](/dao) V2.0 will manage a Development Fund that has been set up for supporting development work carried out within the Aavegotchi ecosystem. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+
+<div class="contentsBox">
+
+**内容**
+
+<ol>
+<li><a href=#official-mini-games>Official Mini-Games</a></li>
+<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+</ol>
+
+</div>
+
+## Official Mini-Games
+Soon! The Devs are hard at work. More information will be released here once it is available!
+
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+
+## Community-created Mini-Games
+
+Some of our frens have created some mini-games of their own!
+
+### Reverse Pacman by Paltox
+
+Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
+
+### Portal Rider by BitFlicker
+
+Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
