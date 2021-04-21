@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有度挖矿](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
+可穿戴装备是Aavegotchi游戏的一个重要组成部分。 Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
 
 Wearables conform to the ERC-1155 standard.
 
