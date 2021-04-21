@@ -8,7 +8,7 @@ contributors:
   - "wagyuchicken"
 ---
 
-아베고치는 자신만의 특성이 있습니다. 마치 여러분이 가진 특성이 여러분이 누구인지를 정의하는 것과 같이, 아베고치의 특성들은 유령으로서의 활기를 결정해주는 것에 있어 중요합니다. 그들이 가지고 있는 여러 특성들은 그들의 ['특성을 기반으로한 희귀도(Trait Base Rarity)'](/rarity-farming#base-rarity-score)와 미니게임에서의 퍼포먼스, 그리고 그들이 착용할 수 있는 wearables에 영향을 줍니다. 포탈에서 소환된 아베고치는 무작위로 생성된 특성의 조합을 가지고 태어나게 됩니다. 그러나 아베고치의 특성은 <a href=#level>레벨</a>과 착용하고 있는 wearalbes, 그리고 사용된 consumables에 따라 바뀔 수 있습니다. 
+아베고치는 자신만의 특성이 있습니다. 마치 여러분이 가진 특성이 여러분이 누구인지를 정의하는 것과 같이, 아베고치의 특성들은 유령으로서의 활기를 결정해주는 것에 있어 중요합니다. These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. 포탈에서 소환된 아베고치는 무작위로 생성된 특성의 조합을 가지고 태어나게 됩니다. 그러나 아베고치의 특성은 <a href=#level>레벨</a>과 착용하고 있는 wearalbes, 그리고 사용된 consumables에 따라 바뀔 수 있습니다. 
 
 <div class="contentsBox">
 
