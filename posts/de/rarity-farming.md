@@ -40,9 +40,9 @@ Es gibt mehrere Möglichkeiten, Rarity Farming zu betreiben. Dazu gehören:
 
 * **Sorgfältige Auswahl eines Aavegotchi mit seltenen Eingenschaften während des [Beschwörungsprozesses](/portals)**
 
-* **Das Ausrüsten von [Kleidungsstücken](/posts/wearables), um die Eigenschaften deines Aavegotchi zu verändern**
+* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **Mitmachen in Minispielen**
+* **Engaging in [mini-games](/minigames)**
 
 Für weitere Informationen zu den einzelnen Prozessen, folge einfach den Links zu den jeweiligen Seiten in der Sidebar.
 
