@@ -70,6 +70,10 @@ export const items: Category[] = [
                 name: "Wearables",
                 href: "wearables"
             },
+			{
+				name: "Sets",
+				href: "sets"
+			},
             {
                 name: "Rarity Farming",
                 href: "rarity-farming"
