@@ -1,14 +1,48 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: '迷你小游戏'
+title: 'Mini-games'
 description: '关于Aavegotchi迷你小游戏，你所需要知道的一切！'
+contributors:
+  - "unintelligent-nerd"
 ---
 
-*你知道，我们不会把Aavegotchi设计成用户们只能整日玩玩小鬼们的大拇指的......*
+What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
 
-[虚拟世界](/metaverse) 中充满了Aavegotchis和他们的主人要做的事情。 与你的朋友们一起探索这个世界，并让你的 "Gotchi "与他们的 "Gotchi "对战，以赢得他们珍贵的 spirit force 精神力（当然不包括他们的初始余额）和宝贵的XP!
+Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
 
-有各种各样的小游戏来满足所有玩家（和Aavegotchis）的口味。 如果你可爱的小鬼具有 *超强攻击性* ，他们肯定会享受各地的一场场战役。 反过来说，他们可能不太适合参加烘焙比赛。
+Each mini-game will use different Aavegotchi traits to enable fair gameplay for a wide variety of trait distributions. For example, a HYPER-AGGRESSIVE Aavegotchi may perform well in an Aavegotchi Fight Club, but may not be well-suited to a cake-baking mini-game.
 
-随着[AavegotchiDAO](/dao) 的发展，所有愿意来参与并开发自己迷你小游戏的用户都将会受到相应的激励!  只要符合特质分配标准，游戏将通过XP奖励优胜者。
+Have an Aavegotchi that isn’t suited well to any mini-game currently offered? Jump in and develop one! To help support developers building Aavegotchi mini-games, [AavegotchiDAO](/dao) V2.0 will manage a Development Fund that has been set up for supporting development work carried out within the Aavegotchi ecosystem. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+
+<div class="contentsBox">
+
+**内容**
+
+<ol>
+<li><a href=#official-mini-games>Official Mini-Games</a></li>
+<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+</ol>
+
+</div>
+
+## Official Mini-Games
+Soon! The Devs are hard at work. More information will be released here once it is available!
+
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>正在工作的AARCHIVERS</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+
+## Community-created Mini-Games
+
+Some of our frens have created some mini-games of their own!
+
+### Reverse Pacman by Paltox
+
+Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
+
+### Portal Rider by BitFlicker
+
+Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
