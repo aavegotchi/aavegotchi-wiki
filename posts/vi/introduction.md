@@ -19,7 +19,7 @@ contributors:
 Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn
 ERC-721**. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những [traits (đặc tính)](/traits) ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/wearables) được trang bị.</p> 
 
-Để nâng cấp các Aavegotchi, người chơi cần tham gia vào hàng loạt các hoạt động bao gồm các mini-games, quản trị, và các buổi meetups. Aavegotchis cũng có thể tăng độ hiếm bằng cách trang bị những phụ kiện trong game và lên cấp. 
+To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis cũng có thể tăng độ hiếm bằng cách trang bị những phụ kiện trong game và lên cấp. 
 
 Những Aavegotchi hiếm không chỉ có giá trị cao trên những [thị trường](/baazaar) thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất. 
 
