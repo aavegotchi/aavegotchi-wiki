@@ -45,9 +45,7 @@ The budget going forward deploys the additional 50k DAI into 4 distinct categori
 
 **Results:**
 
-Yes: 2540143.23957 GHST
-
-No: 601.83249 GHST
+table_agip1
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
@@ -70,9 +68,7 @@ Any fees earned would automatically be transferred to the DAO Treasury address a
 
 **Results:**
 
-Yes: 3726567.25851 GHST
-
-No: 108143.33932 GHST
+table_agip2
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
@@ -93,9 +89,7 @@ In order to offset the burning (which could ultimately turn GHST into a stableco
 
 **Results:**
 
-Yes: 3836093.44669 GHST
-
-No: 33683.04753 GHST
+table_agip3
 
 [Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
 
@@ -120,13 +114,7 @@ Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange 
 
 **Results:**
 
-25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax): 3540000 GHST (54.25%)
-
-No new haunt, Revisit in a month: 2510000 GHST (38.46%)
-
-10K Portals, 100 GHST each, 1 per txn: 377550 GHST (5.78%)
-
-Pre-sale option: 98410 GHST (1.51%)
+table_agip4
 
 **Vote Differential not met. No Haunt 2 for now!**
 
@@ -151,11 +139,7 @@ Option 3: Neither, leave it as is
 
 **Results:**
 
-Only Haunt 1 should get a special background: 3670000 GHST (63.09%)
-
-Each Haunts should have it’s own unique background: 2010000 GHST (34.53%)
-
-Neither, leave it as is: 138240 GHST (2.37%)
+table_agip5
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
@@ -178,9 +162,7 @@ Option 2: No, leave the fees as they are
 
 **Results:**
 
-Yes, increase fees from 3 to 3.5: 4570000 GHST (93.69%)
-
-No, leave the fees as they are: 307890 GHST (6.31%)
+table_agip6
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
 
@@ -209,11 +191,7 @@ If "Neither" wins...you guys better start coming up with some good alternatives!
 
 **Results:**
 
-Aavegotchi Baazaar: 973380 GHST
-
-Aavegotchi Maarket: 683420 GHST
-
-Neither: 150380 GHST
+table_marketplaceName
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
@@ -239,9 +217,7 @@ The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, si
 
 **Results:**
 
-Yes: 2560000
-
-No: 354030
+table_ghstUsdcLp
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
@@ -278,12 +254,6 @@ AavegotchiDAO discussion topic 👇
 
 **Results:**
 
-25 per txn (w/ Ape Tax): 1500000
-
-5 per txn: 921830
-
-10 per txn: 201760
-
-1 per txn: 169000
+table_portalsPurchased
 
 [Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
