@@ -73,7 +73,7 @@ There are several ways to grind it out and earn GHST. 这些包括：
 
 * Engaging in [rarity farming](/rarity-farming)
 * Participate and vote in [AavegotchiDAO](/dao)
-* Playing and winning in minigames (more information TBC)
+* Playing and winning in [mini-games](/minigames) (more information TBC)
 
 
 

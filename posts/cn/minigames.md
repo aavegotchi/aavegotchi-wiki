@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/minigames/gotchi_btc_gamer.png">
+<p class="headerImageText">Let's Game!</p>
+</div>
+
 What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
 
 Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.

@@ -73,7 +73,7 @@ Whale(대주주, 일명 고래)이 아니여도 상관없습니다 - 디파이 �
 
 * [희귀도 파밍](/rarity-farming)에 참여하기
 * [AavegotchiDAO](/dao)에 참여하여 투표하기
-* 미니게임에 참여하고 우승하기(상세한 내용은 추후에 공개 됩니다.)
+* Playing and winning in [mini-games](/minigames) (more information TBC)
 
 
 

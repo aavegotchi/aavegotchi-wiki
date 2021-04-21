@@ -8,7 +8,7 @@ contributors:
   - "wagyuchicken"
 ---
 
-Aavegotchis werden mit (Charakter-)Eigenschaften geboren. Genauso wie deine Eigenschaften bestimmen, wer du als Person bist, sind auch die Eigenschaften eines Aavegotchis wichtig, um sein Leben als Geist zu bestimmen! Diese vielfältigen Eigenschaften, die sie besitzen, beeinflussen ihre [Eigenschafts Base Rarity](/rarity-farming#base-rarity-score), ihre Leistung in Minispielen und die [Kleidungsstücke](/wearables), die sie tragen dürfen. Aavegotchis, die von [Portalen](/portale) beschwört werden, kommen mit einer Kombination von zufällig generierten Eigenschaften auf die Welt. Die Eigenschaften des Aavegotchi können sich jedoch mit dem <a href=#level>Level</a>, den ausgerüsteten Kleidungsstücken und den verwendeten Consumables verändern. 
+Aavegotchis werden mit (Charakter-)Eigenschaften geboren. Genauso wie deine Eigenschaften bestimmen, wer du als Person bist, sind auch die Eigenschaften eines Aavegotchis wichtig, um sein Leben als Geist zu bestimmen! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Aavegotchis, die von [Portalen](/portale) beschwört werden, kommen mit einer Kombination von zufällig generierten Eigenschaften auf die Welt. Die Eigenschaften des Aavegotchi können sich jedoch mit dem <a href=#level>Level</a>, den ausgerüsteten Kleidungsstücken und den verwendeten Consumables verändern. 
 
 <div class="contentsBox">
 

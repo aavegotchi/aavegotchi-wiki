@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">Das Sergey Blue Plaid</p>
 </div>
 
-Kleidungsstücke sind ein wichtiger Bestandteil des Aavegotchi-Spiels. Kleidungsstücke verleihen deinem Aavegotchi nicht nur einen Sinn für Mode, sondern verbessern auch die Eigenschaften und den Rarity Score des Aavegotchis, so dass es in [Minispielen](https://wiki.aavegotchi.com/minigames) und beim [Rarity Farming](https://wiki.aavegotchi.com/rarity-farming) besser abschneiden kann.
+Kleidungsstücke sind ein wichtiger Bestandteil des Aavegotchi-Spiels. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
 
 Wearables conform to the ERC-1155 standard.
 

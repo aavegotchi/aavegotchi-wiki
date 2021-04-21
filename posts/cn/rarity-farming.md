@@ -40,9 +40,9 @@ contributors:
 
 * **在 [召唤过程中，仔细选择一个稀有特性的 Aavegotchi](/portals)**
 
-* **装备 [可穿戴装备](/posts/wearables) 来修改你的 Aavegotchi 的特性**
+* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **进行迷你游戏**
+* **Engaging in [mini-games](/minigames)**
 
 关于每个进程的更多信息，请点击侧边栏上相应页面的链接。
 

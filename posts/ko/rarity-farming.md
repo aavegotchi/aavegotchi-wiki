@@ -40,9 +40,9 @@ There are several ways you can engage in the rarity farming exercise. These incl
 
 * **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
 
-* **Equipping [wearables](/posts/wearables) to modify the traits of your Aavegotchi**
+* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **Engaging in minigames**
+* **Engaging in [mini-games](/minigames)**
 
 For more information on each process, just follow the links to the respective pages on the sidebar.
 

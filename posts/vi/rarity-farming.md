@@ -40,9 +40,9 @@ Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farm
 
 * **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
 
-* **Trang bị [wearables](/posts/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
+* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **Tương tác với minigame**
+* **Engaging in [mini-games](/minigames)**
 
 Để có nhiều thông tin hơn, hãy theo dõi đường link dẫn ở phần sidebar.
 
