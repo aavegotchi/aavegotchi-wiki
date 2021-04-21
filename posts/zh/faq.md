@@ -114,8 +114,7 @@ any of the remaining raffles for a chance to win unique wearables for your Aaveg
 
 ### Do I need KYC to play Aavegotchi or own GHST token?
 
-No! You only need to do KYC if you want to buy GHST directly from the <a href="https://wiki.aavegotchi.com/en/curve">bonding curve.</a> You can purchase GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH">on Uniswap</a> without KYC, as well as <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">on certain exchanges.</a> Meanwhile, **no KYC** is required to buy portals, <a href="https://wiki.aavegotchi.com/en/minigames">play games,</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">stake GHST,</a> or for any other aspect of the Aavegotchi project itself.
+No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
 The table below summarizes the information:
 
