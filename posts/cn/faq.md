@@ -113,8 +113,7 @@ Mainnet原定于2021年1月4日发射。 由于Ethereum 区块链当时的严重
 
 ### 我需要 KYC 来玩Aavegotchi 或拥有GHST 令牌吗？
 
-不！ 如果您想直接从 <a href="https://wiki.aavegotchi.com/en/curve">绑定曲线购买GHST，您只需要做KYC。</a> 您可以在 Uniswap上购买 GHST <a href="https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH"></a> 无需了解KYC, 以及 <a href="https://www.coingecko.com/en/coins/aavegotchi#markets">在某些交易所。</a> 同时， **无需购买门户网站** <a href="https://wiki.aavegotchi.com/en/minigames">游戏，</a> 
-<a href="https://wiki.aavegotchi.com/en/staking">涉及GHST,</a> 或 Aavegotchi 项目本身的任何其他方面。
+不！ You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
 The table below summarizes the information:
 
