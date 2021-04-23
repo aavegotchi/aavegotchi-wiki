@@ -40,7 +40,7 @@ Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công b�
 
 Một số người bạn của bọn mình đã tự tạo ra mini-games!
 
-### Reverse Pacman by aaron555
+### Reverse Pacman của Paltox
 
 Chơi tại [đây](https://cryptolve.com/aavegotchi_pacman/)
 
