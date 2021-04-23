@@ -40,7 +40,7 @@ Soon! The Devs are hard at work. More information will be released here once it 
 
 Some of our frens have created some mini-games of their own!
 
-### Reverse Pacman by Paltox
+### Reverse Pacman by aaron555
 
 Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 
