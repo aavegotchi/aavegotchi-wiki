@@ -73,7 +73,7 @@ Có nhiều cách để căng buồm và kiếm thêm GHST. Bao gồm:
 
 * Tham gia vào [rarity farming](/rarity-farming)
 * Tham gia và vote trong [AavegotchiDAO](/dao)
-* Playing and winning in [mini-games](/minigames) (more information TBC)
+* Chơi và chiến thắng trong các [mini-games](/minigames) (sẽ công bố thêm trong tương lai)
 
 
 
