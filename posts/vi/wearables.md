@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Trang phục là yếu tố quan trọng trong game Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](/minigames), cũng như trong [rarity farming](/rarity-farming).
 
 Trang phục là những vật phẩm theo chuẩn ECR-1155.
 

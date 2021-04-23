@@ -8,7 +8,9 @@ contributors:
   - "wagyuchicken"
 ---
 
-Aavegotchi được sinh ra với các trait. Giống như các đặc điểm để định hình rằng bạn là một con người, trait của Aavegotchi rất quan trọng trong việc định hình sự đống động của một bé ma! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Những Aavegotchi được triệu hồi từ [portals](/portals) được sinh ra với tổ hợp những trait được chỉ định ngẫu nhiên. Tuy nhiên, trait của Aavegotchi có thể thay đổi được với <a href=#level>level</a>, những wearable được trang bị và những consumble đã dùng. 
+Aavegotchi được sinh ra với các trait. Giống như các đặc điểm để định hình rằng bạn là một con người, trait của Aavegotchi rất quan trọng trong việc định hình sự đống động của một bé ma! Những loại đặc điểm này mà chúng sở hữu có ảnh hưởng đến[Trait Base Rarity](/rarity-farming#base-rarity-score) của chúng, cách chúng thể hiện trong [minigame](/minigames) và
+
+wearables</1> mà chúng được mặc. Những Aavegotchi được triệu hồi từ [portals](/portals) được sinh ra với tổ hợp những trait được chỉ định ngẫu nhiên. Tuy nhiên, trait của Aavegotchi có thể thay đổi được với <a href=#level>level</a>, những wearable được trang bị và những consumble đã dùng. </p>
 
 <div class="contentsBox">
 
@@ -26,7 +28,8 @@ Aavegotchi được sinh ra với các trait. Giống như các đặc điểm �
 </div>
 
 ## Chỉ Số Đặc Tính Ngẫu Nhiên
-Aavegotchi có sáu đặc điểm:
+
+Aavegotchi có sáu đặc điểm: 
 
 * AGG = Aggressiveness (Hiếu Chiến)
 * NRG = Energy (Năng Lượng)
@@ -47,7 +50,7 @@ Bell curve của việc phân bố giá trị triat sẽ nhìn giống như dư�
 
 Mới đầu, Aaavegotchi sở hữu sáu trait, dù cho những trait này có thể tăng lên trong tương lai thông qua việc vote trong [AavegotchiDAO](/dao). Một số trait, như màu sắc cơ thể của Aavegotchi (không phải mà trắng cũ đơn sắc), sẽ được AavegotchiDAO quyết trong mỗi sự kiện haunt mới!
 
-Không giống như những game khác, trong Aavegotchi, không hề có trait "tối ưu". Mỗi thuộc tính (trừ hình dạng và màu sắc của mắt) sẽ có những hiệu ứng khác nhau trong những minigame khác nhau. Ví dụ, Aavegotchi có năng lượng cao hơn sẽ đua tốt hơn, những sẽ chơi tốt trong những minigame thiền.
+Không giống như những game khác, trong Aavegotchi, không hề có trait "tối ưu". Mỗi thuộc tính (trừ hình dạng và màu sắc của mắt) sẽ có những hiệu ứng khác nhau trong những minigame khác nhau. Ví dụ, Aavegotchi có năng lượng cao hơn sẽ đua tốt hơn, những sẽ chơi tốt trong những minigame thiền. 
 
 Bảng dưới đây thể hiện chi tiết các đặc điểm theo độ hiếm. *Chú ý: Hai bảng nên được xem như một. Nó đã được tách ra để có thể render trên thiết bị dị động*
 
@@ -61,7 +64,10 @@ Loại  [spirit force](/atokens) mà Aavegotchi sỡ hữu cũng ảnh hưởng 
 
 table_spiritForceModifiers
 
+
+
 ## Kinship
+
 Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. Giá trị kinship tối thiểu là 0. Giá trị kinship tối đa thì không tồn tại.
 
 Đặc biệt, ở bên cạnh chủ càng lâu thì kinship sẽ càng cao, như bỏ rơi bé Aavegotchi quá lâu thì cấp độ kinship sẽ giảm xuống. Aavegotchi không chỉ là những đường dẫn để bạn lưu giữ tài sản đầu tư của mình. Chúng là những chú ma có sức sống, thở được, và cần sức ảnh hưởng của bạn!
@@ -86,17 +92,26 @@ Bạn dưới đây thể hiện cấp độ kinship và biên giá trị của 
 table_kinship
 
 
+
+
 ## Kinh nghiệm
+
 Aavegotchi nhận được kinh nghiệm (XP) khi vote cho AavegotchiDAO và chơi minigame. Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/atokens) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
 
 Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
 
+
+
 ## Cấp độ
-Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+
+Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định. 
 
 Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
 
+
+
 ## Haunt
+
 Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
 
 Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt. Đội ngũ phát triển đang tìm hiểu thêm về phương án điều chỉnh `màu sắc cơ thể ` của những Gotchi thuộc các sự kiện Haunt khác nhau.
