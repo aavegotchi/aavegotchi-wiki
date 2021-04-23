@@ -12,42 +12,42 @@ contributors:
 <p class="headerImageText">Cùng Chơi Game nào!</p>
 </div>
 
-What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
+Đâu có gì vui nếu sở hữu Aavegotchi nhưng không thể chơi với nó đúng không? Một trong những trải nghiệm chính của trò chơi Aavegotchi sẽ là khám phá <a cõi âm href="/metaverse">Realm</a> của Aavegotchi với bạn bè và đấu nhau với Aavegotchi của họ.
 
-Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
+Một số minigame sẽ chơi bằng các chương trình tạo số ngẫu nhiên (RNG), trong khi những game khác mang đến những trải nghiệm nhập vai và tự chủ từ người chơi hơn.
 
-Each mini-game will use different Aavegotchi traits to enable fair gameplay for a wide variety of trait distributions. For example, a HYPER-AGGRESSIVE Aavegotchi may perform well in an Aavegotchi Fight Club, but may not be well-suited to a cake-baking mini-game.
+Mỗi mini game sẽ dùng những chỉ số khác nhau để gameplay được công bằng hơn cho sự phân bổ đa dạng của chỉ số trait. Ví dụ, một Aavegotchi HYPER-AGGRESSIVE sẽ chơi tốt hơn trong Câu Lạc Bộ Đấu Sĩ Aavegotchi, nhưng sẽ không phù hợp với game làm bánh.
 
-Have an Aavegotchi that isn’t suited well to any mini-game currently offered? Jump in and develop one! To help support developers building Aavegotchi mini-games, [AavegotchiDAO](/dao) V2.0 will manage a Development Fund that has been set up for supporting development work carried out within the Aavegotchi ecosystem. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+Bạn có Aavegotchi nhưng nó lại không phù hợp với mini game hiện có hả? Vậy thì tham gia vào phát triển luôn nhé! Để hỗ trợ những lập trình viên xây dựng minigame trong Aavegotchi. [AavegotchiDAO](/dao) V2.0 sẽ quản lý một Quỹ Phát Triển, được cài đặt để hỗ trợ công việc phát triển diễn ra trong hệ sinh thái Aavegotchi. Một khi chúng đã tuân theo những tiêu chuẩn phân phối đặc điểm thì những người chơi sẽ nhận được XP làm phần thưởng sau khi chơi.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#official-mini-games>Official Mini-Games</a></li>
-<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+<li><a href=#official-mini-games>Mini-games Chính Thức</a></li>
+<li><a href=#community-created-mini-games>Mini-games Được Cộng Đồng Tạo Ra</a></li>
 </ol>
 
 </div>
 
-## Official Mini-Games
-Soon! The Devs are hard at work. More information will be released here once it is available!
+## Mini-games Chính Thức
+Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công bố thêm nhiều thông tin một khi trò chơi đã sẵn sàng!
 
 <p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
 
-## Community-created Mini-Games
+## Mini-games Được Cộng Đồng Tạo Ra
 
-Some of our frens have created some mini-games of their own!
+Một số người bạn của bọn mình đã tự tạo ra mini-games!
 
-### Reverse Pacman by Paltox
+### Reverse Pacman của Paltox
 
-Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+Chơi tại [đây](https://cryptolve.com/aavegotchi_pacman/)
 
 <img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
 
-### Portal Rider by BitFlicker
+### Portal Rider của BitFlicker
 
-Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
 
 <img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
