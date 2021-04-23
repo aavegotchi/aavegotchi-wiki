@@ -9,7 +9,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigames/gotchi_btc_gamer.png">
-<p class="headerImageText">Let's Game!</p>
+<p class="headerImageText">Cùng Chơi Game nào!</p>
 </div>
 
 What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
