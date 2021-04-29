@@ -5,7 +5,13 @@ title: 'Roadmap'
 description: 'Die Aavegotchi Roadmap'
 contributors:
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/roadmap/roadmap.png">
+<p class="headerImageText"></p>
+</div>
 
 Bist du neugierig, was für Aavegotchi geplant ist? Hier ist die Roadmap!
 
