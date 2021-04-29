@@ -5,7 +5,13 @@ title: 'Roadmap'
 description: 'Roadmap của Aavegotchi'
 contributors:
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/roadmap/roadmap.png">
+<p class="headerImageText"></p>
+</div>
 
 Bạn có thắng mắc nào về những thông tin được Aavegotchi công bố hay không? Đây là con đường đến mainnet của chúng tôi!
 
