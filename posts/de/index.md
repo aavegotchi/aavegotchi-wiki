@@ -28,8 +28,8 @@ Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Ü
 
 ## Andere nützliche Seiten
 
-* [Team](https://wiki.aavegotchi.com/team) -- Erfahren, wer Aavegotchi entwickelt
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- Die aktuelle Roadmap von Aavegotchi
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
 
 
