@@ -5,7 +5,13 @@ title: 'Roadmap'
 description: 'The Aavegotchi Roadmap'
 contributors:
   - "hackingmoneyph"
+  - "chinyh"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/roadmap/roadmap.png">
+<p class="headerImageText"></p>
+</div>
 
 Curious about what's in store for Aavegotchi? Here is the road(map) to mainnet!
 
