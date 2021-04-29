@@ -7,9 +7,17 @@ contributors:
   - "007"
 ---
 
+## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
+* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
+* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
+* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
+<p></p>
+
 ## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
 * Baazaar fees are now increased by 0.5% to 3.5%
 * Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
+* Post published on 19 April 2021
 <p></p>
 
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
