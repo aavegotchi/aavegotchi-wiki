@@ -5,7 +5,13 @@ title: 'Roadmap'
 description: 'The Aavegotchi 路线图'
 contributors:
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/roadmap/roadmap.png">
+<p class="headerImageText"></p>
+</div>
 
 对Aavegotchi的商店有什么好奇？ 这里是主网路线图！
 
