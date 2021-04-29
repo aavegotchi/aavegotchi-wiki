@@ -28,8 +28,8 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团
 
 ## 相关链接
 
-* [团队](https://wiki.aavegotchi.com/team) -- Aavegotchi 核心成员
-* [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi 最新版路线图
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
 
 
