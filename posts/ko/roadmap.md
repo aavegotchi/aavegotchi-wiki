@@ -5,7 +5,13 @@ title: '로드맵'
 description: '아베고치 로드맵'
 contributors:
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
+
+<div class="headerImageContainer">
+<img class="headerImage" src="/roadmap/roadmap.png">
+<p class="headerImageText"></p>
+</div>
 
 아베고치가 어떻게 나아가실 것인지 궁금하신가요? 이곳에서 메인넷을 향한 로드맵을 확인할 수 있습니다!
 
