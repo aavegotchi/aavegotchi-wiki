@@ -28,8 +28,8 @@ Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-leve
 
 ## Other Useful Pages
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
 
 
