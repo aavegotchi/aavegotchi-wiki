@@ -28,8 +28,8 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## 其它有用連結
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
-* [路線圖](https://wiki.aavegotchi.com/roadmap)- Aavegotchi的最新路線圖。
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
 
 
