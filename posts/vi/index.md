@@ -28,8 +28,8 @@ Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một
 
 ## Những Trang Hữu Ích Khác
 
-* [Team](/team) -- See who's building Aavegotchi
-* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Team](/team) -- Xem những ai đang xây dựng Aavegotchi
+* [Roadmap](/roadmap) -- Roadmap vừa được cập nhật của Aavegotchi
 
 
 
