@@ -10,10 +10,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">Hãy cùng nhau tận hưởng cuộc hành trình!</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+Chào mấy fen, hãy thắt dây an toàn và tham gia vào chuyến hành trình trải qua nhiều năm cùng bọn mình để biến Aavegotchi trở thành một cái tên quen thuộc với mọi gia đình nhé! Roadmap của bọn mình bao gồm 3 phần chính. Cùng đọc để tìm hiểu thêm nhé!
 
 <div class="contentsBox">
 
