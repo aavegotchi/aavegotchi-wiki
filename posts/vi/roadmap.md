@@ -20,14 +20,14 @@ Chào mấy fen, hãy thắt dây an toàn và tham gia vào chuyến hành trì
 **Nội dung**
 
 <ol>
-<li><a href=#incubation>Incubation</a></li>
-<li><a href=#breakout>Breakout</a></li>
+<li><a href=#incubation>Ươm Mầm</a></li>
+<li><a href=#breakout>Bứt Phá</a></li>
 <li><a href=#ubiquitous>Ubiquitous</a></li>
 </ol>
 
 </div>
 
-## Incubation
+## Ươm Mầm
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
@@ -62,7 +62,7 @@ Milestones: 25K MAU / 5K DAU
 * Creator Economy Wearables Dapp Launch
 * AavegotchiDAO V2 (Metamorphosis)
 
-## Breakout
+## Bứt Phá
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
