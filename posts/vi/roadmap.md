@@ -22,7 +22,7 @@ Chào mấy fen, hãy thắt dây an toàn và tham gia vào chuyến hành trì
 <ol>
 <li><a href=#incubation>Ươm Mầm</a></li>
 <li><a href=#breakout>Bứt Phá</a></li>
-<li><a href=#ubiquitous>Ubiquitous</a></li>
+<li><a href=#ubiquitous>Bứt phá</a></li>
 </ol>
 
 </div>
@@ -31,56 +31,56 @@ Chào mấy fen, hãy thắt dây an toàn và tham gia vào chuyến hành trì
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
-Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.
+Ươm mầm là giai đoạn đầu tiên trong cuộc hành trình nhiều năm của Aavegotchi. Nó kéo dài từ Quý 2 2021 đến Quý 4 2021.
 
-Strategy for this phase: *Establish Aavegotchi as a popular game for crypto natives*
+Chiến lược trong giai đoạn này:*Xây Dựng Aavegotchi trở thành một trò chơi nổi tiếng trong cộng đồng những người yêu thích blockchain*
 
-Milestones: 25K MAU / 5K DAU
+Cột mốc: 25k người dùng hoạt động mỗi tháng / 5k người dùng hoạt động mỗi ngày
 
-### Q2 2021
+### Quý 2 2021
 
-* Polygon to Ethereum NFT Bridges
-* Aavegotchi Onchain Sideviews
-* GHST Token listed on Aave
-* Social media integrations (Link Aavegotchi via Discord/Twitter)
-* NFT Aauctions
-* REALM Gotchiverse Litepaper Release
-* Haunt 2 (planned)
-* REALM Gotchiverse Presale
+* Cầu NFT từ Polygon sang Ethereum
+* Xem Aavegotchi Onchain từ nhiều phía
+* Token GHST được niêm yết trên Aave
+* Tích hợp với mạng xã hội (Liên kết Aavegotchi với Discord/Twitter)
+* Đấu Giá NFT
+* Công Bố Litepaper của REALM Gotchiverse
+* Haunt 2 (dự kiến)
+* Sự kiện Presale dành cho REALM Gotchiverse
 
 ### Q3 2021
 
 * Raffle 5
-* REALM Gotchiverse Whitepaper Release
-* REALM Presale #2
-* Aavegotchi Aarcade Mini-game hub
+* Công Bố Whitepaper của REALM Gotchiverse
+* Mở bán REALM #2
+* Trạm minigame Aavegotchi Aarcade
 
 ### Q4 2021
 
-* REALM Public Land Sale #1
-* REALM Gotchiverse Alpha Launch
-* Creator Economy Wearables Dapp Launch
-* AavegotchiDAO V2 (Metamorphosis)
+* Mở bán Public Sale Dành cho REALM Giai Đoạn #1
+* Triển Khai REALM Gotchiverse Giai Đoạn Alpha
+* Triển Khai Dapp Tạo Nền Kinh Tế Dành Cho Trang Phục
+* AavegotchiDAO Giai Đoạn 2 (Giai Đoạn Metamorphosis)
 
 ## Bứt Phá
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
-Breakout is the second phase of our multi-year journey. It spans from Q1 2022 to Q4 2023.
+Bứt phá là giai đoạn thứ hai trong hành trình nhiều năm của Aavegotchi. Nó kéo dài từ Quý 1 2022 đến Quý 4 2023.
 
-Strategy for this phase: *Establish Aavegotchi as a community-owned gaming platform with mainstream appeal*
+Chiến lược trong giai đoạn này: *Xây dựng Aavegotchi trở thành một nền tảng gaming được sở hữu bởi cộng đồng, mang sức hấp dẫn với thị trường chính thống*
 
-Milestones: 1M MAU / 25K DAU
+Cột mốc: 1 triệu người dùng hoạt động mỗi tháng / 25k người dùng hoạt động mỗi ngày
 
-* Aavegotchi Builder SDK
-* REALM Public Land Sales
-* REALM third-party Dapp Integration
-* GotchiGang Referral Program
-* Aavegotchi Mobile App alpha launch
-* More Haunts (planned)
+* SDK dành cho Builder của Aavegotchi
+* Mở bán Public Sale Dành cho REALM
+* Thích hợp Dapp của bên thứ ba vào REALM
+* Chương Trình Giới Thiệu GotchiGang
+* Triển khi Mobile App của Aavegotchi giai đoạn alpha
+* Tổ chức nhiều sự kiện Haunt hơn (dự kiến)
 * AavegotchiDAO V3 (Oasis)
 
-## Ubiquitous
+## Bứt phá
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
@@ -90,7 +90,7 @@ Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game 
 
 Milestones: 10M MAU / 50K DAU
 
-* More Haunts (planned)
-* REALM Public Land Sales
+* Tổ chức nhiều sự kiện Haunt hơn (dự kiến)
+* Mở bán Public Sale Dành cho REALM
 * Aavegotchi Minigame Builder
 * Aavegotchi Hardware Wallet
