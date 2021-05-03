@@ -22,14 +22,14 @@ Chào mấy fen, hãy thắt dây an toàn và tham gia vào chuyến hành trì
 <ol>
 <li><a href=#incubation>Ươm Mầm</a></li>
 <li><a href=#breakout>Bứt Phá</a></li>
-<li><a href=#ubiquitous>Bứt phá</a></li>
+<li><a href=#ubiquitous>Lan Toả</a></li>
 </ol>
 
 </div>
 
 ## Ươm Mầm
 
-<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
+<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Lộ trình Aavegotchi Giai Đoạn 1: Ươm Mầm" />
 
 Ươm mầm là giai đoạn đầu tiên trong cuộc hành trình nhiều năm của Aavegotchi. Nó kéo dài từ Quý 2 2021 đến Quý 4 2021.
 
@@ -64,7 +64,7 @@ Cột mốc: 25k người dùng hoạt động mỗi tháng / 5k người dùng 
 
 ## Bứt Phá
 
-<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
+<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Lộ trình Aavegotchi Giai Đoạn 2: Bứt Phá" />
 
 Bứt phá là giai đoạn thứ hai trong hành trình nhiều năm của Aavegotchi. Nó kéo dài từ Quý 1 2022 đến Quý 4 2023.
 
@@ -78,19 +78,19 @@ Cột mốc: 1 triệu người dùng hoạt động mỗi tháng / 25k người
 * Chương Trình Giới Thiệu GotchiGang
 * Triển khi Mobile App của Aavegotchi giai đoạn alpha
 * Tổ chức nhiều sự kiện Haunt hơn (dự kiến)
-* AavegotchiDAO V3 (Oasis)
+* AavegotchiDAO V3 (Giai Đoạn Oasis)
 
-## Bứt phá
+## Lan Toả
 
-<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
+<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Lộ trình Aavegotchi Giai Đoạn 3: Lan Toả" />
 
-Ubiquitous is the final phase of our multi-year journey. It spans from Q1 2024 to beyond!
+Lan toả là giai đoạn cuối trong chuyến hành trình nhiều năm của Aavegotchi. Nó kéo dài từ Quý 1 2024 đến tương lai!
 
-Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal*
+Chiến lược cho giai đoạn này:* Hoàn thành sứ mệnh của Aavegotchi trong việc kiếm trò chơi trở nên hấp dẫn với thị trường chính thống*
 
-Milestones: 10M MAU / 50K DAU
+Cột mốc: 10 triệu người dùng hoạt động mỗi tháng / 50k người dùng hoạt động mỗi ngày
 
 * Tổ chức nhiều sự kiện Haunt hơn (dự kiến)
 * Mở bán Public Sale Dành cho REALM
-* Aavegotchi Minigame Builder
-* Aavegotchi Hardware Wallet
+* Công Cụ Xây Dựng Minigame trong Aavegotchi
+* Ví Cứng Aavegotchi
