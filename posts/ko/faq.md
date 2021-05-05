@@ -76,6 +76,7 @@ contributors:
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
 </ol>
 
 </div>
@@ -313,9 +314,24 @@ If your transaction has not been processed by Polygon, please continue to wait p
 If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
 ### Why am I experiencing lag on Polygon?
+
 You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+
+### Where do I find my Gotchi Token ID?
+
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+
+https://aavegotchi.com/gotchi/(Gotchi Token ID)
+
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+
+```
+!gotchi link <tokenID>
+```
+
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
