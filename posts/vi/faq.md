@@ -76,6 +76,7 @@ contributors:
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
 </ol>
 
 </div>
@@ -312,10 +313,25 @@ Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì
 Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
 
 ### Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?
+
 Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: https://rpc-mainnet.maticvigil.com/
 
 Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
 
-<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
+### Where do I find my Gotchi Token ID?
+
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+
+https://aavegotchi.com/gotchi/(Gotchi Token ID)
+
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+
+```
+!gotchi link <tokenID>
+```
+
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
