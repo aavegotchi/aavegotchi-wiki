@@ -7,18 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+"Eyeing some eyes?"
 
+"Aye!"
+
+Check out the full list of Aavegotchi Eye Shapes here!
 
 <div class="contentsBox">
 
 ** 목차 **
 
 <ol>
-<li><a href=#about>aToken이란</a></li>
+<li><a href=#list-of-eye-shapes>List of Eye Shapes</a></li>
 </ol>
 
 </div>
 
-## aToken이란
+## List of Eye Shapes
+
+*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
 
 table_eyeShape
+
