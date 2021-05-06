@@ -7,18 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+"Eyeing some eyes?"
 
+"Aye!"
+
+Check out the full list of Aavegotchi Eye Shapes here!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#about>Sơ lược</a></li>
+<li><a href=#list-of-eye-shapes>List of Eye Shapes</a></li>
 </ol>
 
 </div>
 
-## Sơ lược
+## List of Eye Shapes
+
+*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
 
 table_eyeShape
+
