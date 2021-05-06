@@ -26,6 +26,7 @@ contributors:
 <li><a href=#xibot>Xibot</a></li>
 <li><a href=#nick-mudge>Nick Mudge</a></li>
 <li><a href=#jc>JC</a></li>
+<li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
@@ -38,7 +39,8 @@ contributors:
 <img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
-Dan이라고 불리는 Coder Dan은 사용자들이 희망하는 주소에 Aave에서 수확한 yield를 전송해는 Yield Hero라는 DeFi Dap을 개발한 풀스택 개발자이자 크리에이터입니다. 또한 ERC20 스테이킹을 통해 ERC721을 얻을 수 있는 최초의 플랫폼, Bullionix에서 개발분야에서 주도적인 역할을 맡은 것으로도 알려져 있습니다.  Daniel은 현재 중국 푸졘에 있으며, 중국어가 굉장히 유창합니다. 기술적인 성과뿐만 아니라 Dan은 아베고치의 트위터 팔로워 수 10K 달성과 6000명의 디스코드 유저 달성에 있어 1등 공신입니다. 그리고 그의 이전 활동과 경력으로 웨이보, 비리비리, 위챗 오피셜 계정은 150만은 150만 명이 넘는 팔로워를 보유하게 되었습니다.
+
+Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
 
 ## Jesse
 
@@ -47,7 +49,8 @@ Dan이라고 불리는 Coder Dan은 사용자들이 희망하는 주소에 Aave�
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldxnXross</a></p>
 </div>
-GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에서 작동하는 최초의 NFT 민팅 플랫폼 Mintable과 같은 널리 알려진 NFT 플랫폼들의 개발에서 주도적인 역할을 맡아온 product centric founder입니다. 그는 gold 스테이블 코인 스테이킹을 통해 얻는 3D, 고해상도 디지털 수집품을 최초로 선보인 Bullionix.io의 크리에이터로써 Value-Staked NFT의 개념을 만든 크리에이터이기도 합니다. 이더리움 Dapp에서의 성과에 이전에는 ZB 그룹의 국제 개발 수장으로 디지털 자산 거래소 분야에 깊게 관여했었습니다. 그리고 중국에서 Lenovo Mobile Unit의 Motorola 제품 개선과 합병 전문가로 활동했었습니다.
+
+Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
 
 ## Xibot
 
@@ -55,7 +58,8 @@ GldnXross로 불리는 Jesse는 현재 이더리움과 질리카 체인 위에�
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
-Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 예술가이자 기업가들 중 한 명입니다. 그의 차별화된 픽셀 아트는 Opensea와 Rarible의 NFT 트레이더들의 주의를 끌었으며 여러 실적도 안겨다 주었습니다. 그의 혁신적인 $PIXEL 토큰은 소셜토큰과 연동된 NFT들이 급격한 상승을 보여줌으로써 가치를 인정받은 최초의 소셜 토큰들 중 하나였습니다. 그렇기에 그의 열정적인 팬들은 아베고치 올스타 팀에 대한 FOMO의 또다른 이유가 되기도 하였습니다.
+
+Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
 
 ## Nick Mudge
 
@@ -63,7 +67,8 @@ Xavier Iturralde(a.k.a Xibot)은 크립토 아트 분야에서 가장 뛰어난 
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
-Nick Mudge는 굉장히 기량이 뛰어난 솔리디티 개발자들 중 한 명입니다. ERC-998 표준은 Mudge에 의해 입안 및 작성되었으며, 아베고치에서 가장 중요한 기반이 되어 부모 NFT가 자식 NFT의 장착과 소지를 가능케 합니다. 더욱 최근에 Mudge는 Diamond Standard라고 불려온 이더리움 관련 연구과 개발을 맡고 있습니다. 이러한 표준은 컨트랙트들의 업그레이드에 있어 주된 돌파구의 역할을 할 수 있으며 DAO들을 중심으로 한 거버넌스에 의해 빠르게 채택되고 있는 중입니다.
+
+Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
 
 ## JC
 
@@ -71,7 +76,19 @@ Nick Mudge는 굉장히 기량이 뛰어난 솔리디티 개발자들 중 한 �
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
 </div>
-JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 암호화폐 분야에서 가장 뛰어난 두뇌들과의 풍부한 경험, 네트워킹을 가지고 있습니다. 기업가적인 마인드와 자기동기부여가 강한 그는 관계 구축, 전략적 파트너쉽, 새로운 판매 경로 개발, 소셜 미디어 및 바이럴 마케팅 등에 대해 괄목한 효율성을 보여주면서 자신의 능력을 입증해왔습니다. 그의 가장 큰 열정을 갖고 있는 것 중 하나는 새로운 회사를 소개, 홍보하며 그들의 시작을 지원해주는 것입니다. 이러한 열의는 바로 기술이 가진 혁신적인 힘에 대한 강력한 믿음에 있습니다.
+
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+
+## Candoizo
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
+<p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo</a></p>
+</div>
+
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
 ## Coyote
 
@@ -82,6 +99,7 @@ JC는 사업 개발 전략가이자 블록체인의 열렬한 지지자로서 �
 Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
 ## Origins
+
 ### 드림팀 어셈블!
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
