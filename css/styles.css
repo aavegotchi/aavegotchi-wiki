@@ -238,6 +238,11 @@ a:hover {
     margin-bottom: 20px;
 }
 
+SVG {
+    display: block;
+    max-height: 100%;
+}
+
 table {
     width: 100%;
     border-top: solid 3px whitesmoke;
