@@ -7,6 +7,13 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* You can now collect Aavegotchi Baadges for your performance in rarity farming!
+* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
+* Look out for more Baadges to collect in the future ;)
+* Post published on 4 May 2021
+<p></p>
+
 ## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
 * Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
 * Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
