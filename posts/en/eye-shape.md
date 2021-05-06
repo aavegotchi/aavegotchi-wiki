@@ -6,18 +6,25 @@ description: 'Aavegotchi Eye Shape'
 contributors: ["unintelligent-nerd"]
 ---
 
+"Eyeing some eyes?"
 
+"Aye!"
+
+Check out the full list of Aavegotchi Eye Shapes here!
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#about>About</a></li>
+<li><a href=#list-of-eye-shapes>List of Eye Shapes</a></li>
 </ol>
 
 </div>
 
-## About
+## List of Eye Shapes
+
+*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
 
 table_eyeShape
+
