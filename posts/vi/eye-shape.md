@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Eye Shape'
-description: 'Aavegotchi Eye Shape'
+title: 'Hình Dạng Mắt Của Aavegotchi'
+description: 'Hình Dạng Mắt Của Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-"Eyeing some eyes?"
+"Bạn đang liếc mắt để tìm mắt hử?"
 
-"Aye!"
+"Á deee!"
 
-Check out the full list of Aavegotchi Eye Shapes (EYS) here!
+Vậy vào xem qua danh sách chi tiết Hình Dạng Mắt Của Aavegotchi (EYS) tại đây nhé!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#list-of-eye-shapes>List of Eye Shapes</a></li>
+<li><a href=#list-of-eye-shapes>Danh Sách Hình Dạng Mắt</a></li>
 </ol>
 
 </div>
 
-## List of Eye Shapes
+## Danh Sách Hình Dạng Mắt
 
-*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
+*Chú ý: Hình Dạng Mắt không bao gồm màu mắt vì Màu Mắt biến đổi dựa trên độ hiếm và loại Tài Sản Thế Chấp.*
 
 table_eyeShape
 
