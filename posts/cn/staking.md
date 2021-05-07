@@ -79,7 +79,7 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 针对stkGHST-QUICK质押对来说，你可以将其质押到Quickswap奖励池中，https://quickswap.exchange/#/quick，以获得额外的QUICK奖励。 Aavegotchi团队要求为stkGHST-USDC提供类似奖励。
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day (33% more than just staking GHST).*
+*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
 *For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
