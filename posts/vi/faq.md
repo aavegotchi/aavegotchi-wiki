@@ -76,7 +76,7 @@ contributors:
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Mình phải làm sao để tìm được Token ID của Gotchi?</a></p>
 </ol>
 
 </div>
@@ -318,20 +318,20 @@ Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: htt
 
 Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
 
-### Where do I find my Gotchi Token ID?
+### Mình phải làm sao để tìm được Token ID của Gotchi?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Một khi bạn đã có được Gotchi ID, bạn có thể liên kết Gotchi với tên người dùng của Discord bằng cách dùng dòng lên sau:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Hãy nhớ chú ý rằng nếu bạn có từ 1 Gotchi trở lên thì bạn sẽ phải lập lại quá trình này nhiều lần.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 

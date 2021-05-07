@@ -58,9 +58,13 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) là viết tắt của "Low"; (H) là viết tắt của "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Những màu mắt phổ biến mang màu sắc của những tài sản ký gửi trên Aavegotchi của bạn. ví dụ màu cam dành cho aDAI, màu xanh da trời cho aAAVE, màu tím cho aETH, v.v. </i></p>
 
+Để xem thông tin chi tiết về từng Hình Dạng Mắt, hãy xem qua [trang Hình Dạng Mắt](/eye-shape) nhé.
+
+
+
 ## Yếu Tố Điều Chỉnh Chỉ Số Spirit Forces
 
-Loại  [spirit force](/atokens) mà Aavegotchi sỡ hữu cũng ảnh hưởng đến giá trị đặc tính của chúng:
+Loại [spirit force](/atokens) mà Aavegotchi sỡ hữu cũng ảnh hưởng đến giá trị đặc tính của chúng:
 
 table_spiritForceModifiers
 
@@ -70,7 +74,7 @@ table_spiritForceModifiers
 
 Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. Giá trị kinship tối thiểu là 0. Giá trị kinship tối đa thì không tồn tại.
 
-Đặc biệt, ở bên cạnh chủ càng lâu thì kinship sẽ càng cao, như bỏ rơi bé Aavegotchi quá lâu thì cấp độ kinship sẽ giảm xuống. Aavegotchi không chỉ là những đường dẫn để bạn lưu giữ tài sản đầu tư của mình. Chúng là những chú ma có sức sống, thở được, và cần sức ảnh hưởng của bạn!
+Đặc biệt, ở bên cạnh chủ càng lâu thì kinship sẽ càng cao, như bỏ roi bé Aavegotchi quá lâu thì cấp độ kinship sẽ giảm xuống. Aavegotchi không chỉ là những đường dẫn để bạn lưu giữ tài sản đầu tư của mình. Chúng là những chú ma có sức sống, thở được, và cần sức ảnh hưởng của bạn!
 
 Cứ mỗi 12 giờ, người dùng sẽ nhận được tối đa 1 điểm Kinship khi tương tác với Aavegotchi. Ngược lại, nếu Aavegotchi bị bỏ rơi trong vòng 24 giờ thì Kinship sẽ bị trừ đi 1 điểm.
 
