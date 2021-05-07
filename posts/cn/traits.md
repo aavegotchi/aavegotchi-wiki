@@ -55,6 +55,8 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) 表示“低”；(H) 表示“高” </i></p>
 <p style="margin-left: 3.0em"><i> *眼睛颜色与你的Aavegotchi上的押注抵押品颜色相同， 即橙色代表aDAI，天蓝色代表aAAVE，紫色代表aETH等。 </i></p>
 
+For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+
 ## Spirit Force Trait Modifiers
 
 The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
