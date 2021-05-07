@@ -77,6 +77,7 @@ contributors:
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
 <p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
 </ol>
 
 </div>
@@ -332,6 +333,12 @@ Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord h
 ```
 
 Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+
+### Where do I find my Gotchi Address?
+
+First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+
+Do note that each Gotchi will have its own Smart Contract Address.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
