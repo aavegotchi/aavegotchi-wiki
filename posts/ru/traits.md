@@ -55,6 +55,8 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDAI, sky blue for aAAVE, purple for aETH etc. </i></p>
 
+For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+
 ## Spirit Force Trait Modifiers
 
 The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
