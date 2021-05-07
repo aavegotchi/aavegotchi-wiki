@@ -50,7 +50,7 @@ Dan hay còn gọi là Coder Dan, là một lập trình viên full stack và l�
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
 </div>
 
-Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, đã có vai trò dẫn dắt việc phát triển một vài nền tảng NFT nổi tiếng đến ngày nay, ví dụ như nền mint ra NFT đầu tiên là Mintable, hiện đang hoạt động trên cả Ethereum và Zilliqua. Anh cũng là người sáng lập ra ý tưởng Value-Staked NFTs được nhắc đến phía trên, với vai trò là người sáng lập ra Bullionix.io, công ty đầu tiên chào bán những vật sưu tầm kỹ thuật số 3D có độ phân giải cao, được stake với những đồng stablecoin vàng. Trước khi làm việc với các dapp trên Ethereum, Jesse đã hoạt động mạnh mẽ trong lĩnh vực sàn giao dịch tài sản kỹ thuật số với vai trò head of international development cho ZB Group và trước đó làm việc ở vị trí chuyên viên sát nhập và phát triển sản phẩn Motorola cho Đợn vị Điện Thoại Di Động của Lenovo tại Trung Quốc.
 
 ## Xibot
 
@@ -59,7 +59,7 @@ Jesse, AKA GldnXross is a product centric founder who has had a leadership role 
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
 
-Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Xavier Iturralde aka xibot, là một trong những nghệ sĩ và doanh nhân thành công nhất của lĩnh vực Crypto Art. Những tác phẩm pixel độc đáo của anh đã lấy được sự chú ý cũng những trader NFT trên OpenSea và Rarible. Token $PIXEL đột phá của anh cũng là một trong những token xã hội đầu tiên vẫn giữ vững và thể hiện rằng NFT được gán với token xã hội là những hình mẫu có chân. Những người được truyền cảm hứng từ anh ta cũng là một lý do cho sự fomo mà đội nhóm toàn sao sáng của Aavegotchi nhận được.
 
 ## Nick Mudge
 
@@ -68,7 +68,7 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
 
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick Mudge là một trong những lập trình viên solidity thành công nhất trên Etherum. Mudge chính là tác giả của tiêu chuẩn kết hợp ERC998, một trong những khía cạnh quan trọng nhất của game Aavegotchi, cho phép một NFT "bố mẹ" có thể trang bị và mang NFT "con cháu" đi theo chung với mình. Gần đây nhất, Mudge đã điều hành một công cuộc nghiên cứu về Ethereum và phát triển một thứ gọi là Diamond Standard. Tiêu chuẩn này cho phép những đột phá lớn dành cho những hợp đồng có thể nâng cấp được và nhanh chóng được sử dụng bởi những DAO tập trung vào quyền quản trị.
 
 ## JC
 
@@ -77,7 +77,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+Jc là một chiến lược gia phát triển kinh doanh và và người đam mê blokchain, với một kho tàn kinh nghiệm trong việc kết nối và networking với những bộ óc thông suốt nhất trong lĩnh vực tiền mã hoá. Là một hành viên có đầu óc kinh doanh và biết tự tạo động lực cho bản thân, anh đã thể hiện tài năng của mình trong việc xây dựng nên những mối quan hệ, anh hưởng đến những mối hợp tác chiến lược, phát triển những kênh bán hàng mới, và sử sự social media và viral marketing với độ hiệu quả đáng kinh ngạc. Một trong những niềm đam mê lớn của ông ông là giới thiệu và quản bá những công ty mới và hỗ trợ họ khởi nghiệp. Sự hăng hái của anh dành cho ngành này dựa trên một niềm tin không đổi dời về sức mạnh to lớn cả công nghệ blockchain.
 
 ## Candoizo
 
@@ -86,7 +86,7 @@ Jc is a business development strategist and blockchain enthusiast, with a wealth
 <p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+Candoizo, còn gọi là candoizo, là một lập trình viên phần mềm đang cống hiến để giúp cộng đồng dễ dàng xây dựng ứng dụng trên Aavegotchi! Kinh nghiệm của anh khá đa dạng với các vị trí như tester và xây dựng các dự án được định hướng bởi cộng đồng, tất cả bắt nguồn từ mong muốn mở ra những chân trời mới cho cộng đồng.
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
