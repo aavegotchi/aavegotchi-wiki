@@ -28,7 +28,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#jc>JC</a></li>
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>Team Gốc</a></li>
 </ol>
 
 </div>
@@ -40,7 +40,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
 
-Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Dan hay còn gọi là Coder Dan, là một lập trình viên full stack và là người sáng lập ra Yield Hero, một dapp DeFi cho phép người dùng chuyển lợi nhuận từ AAVE sang bất kỳ địa chỉ nào mà họ muốn. Anh cũng duodjc biết đến với vai trò chủ đạo trong việc phát triển nền tảng NFT đầu tiên cho phép stake ERC721 được stake với ERC20, Bullionix. Daniel sống tại Fujian, China và thành thạo tiếng Trung Quốc. Ngoài làm việc trong ngành công nghệ, Dan còn là một grow hacker đã giúp cho Aavegotchi có được khởi đầu tốt đẹp với hơn 10 nghìn lượt theo dõi trên Twitter và 6000 cư dân Discord năng động. Trong quá khứ, thương hiệu của anh trên Weibo, Bilibili, và WeChat Official đã bùng nổ với hơn 1,5 triệu lượt follow.
 
 ## Jesse
 
@@ -98,7 +98,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 </div>
 Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
-## Origins
+## Team Gốc
 
 ### Đội Nhóm Không Tưởng Tập Hợp
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
