@@ -58,13 +58,13 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) là viết tắt của "Low"; (H) là viết tắt của "High" </i></p>
 <p style="margin-left: 3.0em"><i> *Những màu mắt phổ biến mang màu sắc của những tài sản ký gửi trên Aavegotchi của bạn. ví dụ màu cam dành cho aDAI, màu xanh da trời cho aAAVE, màu tím cho aETH, v.v. </i></p>
 
-For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+Để xem thông tin chi tiết về từng Hình Dạng Mắt, hãy xem qua [trang Hình Dạng Mắt](/eye-shape) nhé.
 
 
 
 ## Yếu Tố Điều Chỉnh Chỉ Số Spirit Forces
 
-The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
+Loại [spirit force](/atokens) mà Aavegotchi sỡ hữu cũng ảnh hưởng đến giá trị đặc tính của chúng:
 
 table_spiritForceModifiers
 
@@ -72,26 +72,26 @@ table_spiritForceModifiers
 
 ## Kinship
 
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. Giá trị kinship tối thiểu là 0. Giá trị kinship tối đa thì không tồn tại.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Đặc biệt, ở bên cạnh chủ càng lâu thì kinship sẽ càng cao, như bỏ roi bé Aavegotchi quá lâu thì cấp độ kinship sẽ giảm xuống. Aavegotchi không chỉ là những đường dẫn để bạn lưu giữ tài sản đầu tư của mình. Chúng là những chú ma có sức sống, thở được, và cần sức ảnh hưởng của bạn!
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Cứ mỗi 12 giờ, người dùng sẽ nhận được tối đa 1 điểm Kinship khi tương tác với Aavegotchi. Ngược lại, nếu Aavegotchi bị bỏ rơi trong vòng 24 giờ thì Kinship sẽ bị trừ đi 1 điểm.
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+Các lọ thuốc có thể được dùng để tăng điểm kinship. Tuy nhiên, chúng là những consumables phiên bản giới hạn và không phải lúc nào cũng có trong cửa hàng của Aavegotchi. Chi tiết về những lọ thuốc này sẽ sớm được cập nhật.
 
-High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+Cấp độ kinship cao có thể tăng cường sự thể hiện của Aavegotchi trong minigame, và cũng có thể giúp bạn nhân lên số phần thưởng trong GHST khi tham gia quản trị và [rarity farming](/rarity-farming). Kinship cấp độ thấp có thể có hiệu ứng ngược lại.
 
-Some ways to boost your Aavegotchi’s kinship level:
+Một số cách để tăng cấp độ kinship cho Aavegotchi của bạn:
 
 * Aavegotchi được sinh ra với ý thức về sứ mệnh của một người công dân. Hãy mang Aavegotchi của bạn đến City Hall và cho nó vote trong AavegotchiDAO;
 * Tuy Aavegotchi là ma những chúng có những cơn đói cồn cào! Hãy cho Aavegotchi dùng những vật phẩm tiêu hao để chúng có thể cười rùng rợn;
 * Aavegotchi thích thử đồ mới. Hãy trang bị wearable mới cho Aavegotchi để thiết lập nên mối quan hệ gắn kết;
 * Aavegotchi cũng thích chơi! Hãy dẫn Aavegotchi đi ra ngoài nhảy múa ở Aavegotchi Realm và tăng cấp cho nó khi chơi minigame.
 
-The table below shows the kinship level and their value range.
+Bạn dưới đây thể hiện cấp độ kinship và biên giá trị của chúng.
 
 table_kinship
 
@@ -100,22 +100,22 @@ table_kinship
 
 ## Kinh nghiệm
 
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+Aavegotchi nhận được kinh nghiệm (XP) khi vote cho AavegotchiDAO và chơi minigame. Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/atokens) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
 
-XP exists as an internal balance on the Aavegotchi smart contract.
+Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
 
 
 
 ## Cấp độ
 
-Aavegotchis level up as they gain more XP. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Some wearables can only be worn by Aavegotchis of a certain level. 
+Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định. 
 
-For detailed information on the XP required for each level, click [here](/xp).
+Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
 
 
 
 ## Haunt
 
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts. The team is exploring `bodyColor` on Aavegotchis to differentiate between Haunts.
+Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt. Đội ngũ phát triển đang tìm hiểu thêm về phương án điều chỉnh `màu sắc cơ thể ` của những Gotchi thuộc các sự kiện Haunt khác nhau.
