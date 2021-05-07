@@ -77,7 +77,7 @@ Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https:
 
 For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 23 FRENS / Day (33% more than just staking GHST).*
+*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
 *For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
