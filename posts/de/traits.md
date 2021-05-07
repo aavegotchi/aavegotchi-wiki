@@ -55,6 +55,8 @@ table_TraitsByRarity1 table_TraitsByRarity2
 <p style="margin-left: 3.0em"><i> (L) steht für "Low" / Niedrig; (H) steht für "High" / Hoch </i></p>
 <p style="margin-left: 3.0em"><i> *Gewöhnliche Augenfarben nehmen die Farben der hinterlegten Sicherheiten in deinem Aavegotchi an. z.B. orange für aDAI, himmelblau für aAAVE, lila für aETH etc. </i></p>
 
+For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+
 ## Spirit Force Trait Modifiers
 
 The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
