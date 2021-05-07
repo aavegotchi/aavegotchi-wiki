@@ -88,7 +88,7 @@ Jc là một chiến lược gia phát triển kinh doanh và và người đam 
 
 Candoizo, còn gọi là candoizo, là một lập trình viên phần mềm đang cống hiến để giúp cộng đồng dễ dàng xây dựng ứng dụng trên Aavegotchi! Kinh nghiệm của anh khá đa dạng với các vị trí như tester và xây dựng các dự án được định hướng bởi cộng đồng, tất cả bắt nguồn từ mong muốn mở ra những chân trời mới cho cộng đồng.
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+Lý lịch của anh cho thấy lớn lên tại khu vực hoang dại của các trò chơi mang tính cạnh tranh ở Canada và cống hiến cho việc xây dựng nên những công cụ huyền thoại. Với các dự án trong quá khứ như Hauntgg, CoinVanity, và trên iOS, sẽ không thiếu những người bạn mong muốn chứng thực cho câu chuyện này. Trong tập tiếp theo, người huấn luyện huyền thoại - Coder Dan đã nắm bắt được tâm can và những kỹ năng mà anh ấy cống hiến cho đội ngũ Pixelcraft bằng cách sử dụng ý tưởng game chấn động và cộng đồng người chơi nổi bật!
 
 ## Coyote
 
@@ -96,14 +96,14 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 <img class="leftImage" src="/team/coyote.png" alt = "Coyote">
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
 </div>
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã tham gia vào team hồi đầu năm 2021. Anh bắt đầu sự nghiệp với vai trò nhà thiết kế UI/UX trong các startup rồi cuối cùng chuyển sang chuyên về lập trình front end. Coyote đã tìm ra lỗi trên blockchain trong quá trình phát triển ứng dụng bên thứ ba cho Aavegotchi. Mục tiêu của anh là chia sẽ nguồn cảm hứng này với các lập trình viên đẻ tạo ra thế hệ kỹ sư web mới!
 
 ## Team Gốc
 
 ### Đội Nhóm Không Tưởng Tập Hợp
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
 "It's time to sell some candy" Said Dan.
 
