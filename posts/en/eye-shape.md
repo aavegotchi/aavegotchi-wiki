@@ -10,7 +10,7 @@ contributors: ["unintelligent-nerd"]
 
 "Aye!"
 
-Check out the full list of Aavegotchi Eye Shapes here!
+Check out the full list of Aavegotchi Eye Shapes (EYS) here!
 
 <div class="contentsBox">
 
