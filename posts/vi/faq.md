@@ -77,7 +77,7 @@ contributors:
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
 <p><a href=#where-do-i-find-my-gotchi-token-id->Mình phải làm sao để tìm được Token ID của Gotchi?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?</a></p>
 </ol>
 
 </div>
@@ -333,12 +333,12 @@ Một khi bạn đã có được Gotchi ID, bạn có thể liên kết Gotchi 
 
 Hãy nhớ chú ý rằng nếu bạn có từ 1 Gotchi trở lên thì bạn sẽ phải lập lại quá trình này nhiều lần.
 
-### Where do I find my Gotchi Address?
+### Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào nút Pocket và Gotchi Pocket sẽ xuất hiện. Sẽ có một nút "View.". Nhấp vào đó và bạn sẽ được dẫn đến một Địa Chỉ Hợp Đồng Thông Minh riêng của Gotchi. Đâu là một hợp đồng lưu trữ mà chủ nhân của Gotchi có thể tương tác với nó.
 
-Do note that each Gotchi will have its own Smart Contract Address.
+Hãy lưu ý rằng mỗi Gotchi sẽ có riêng cho mình một Địa Chỉ Hợp Đồng Thông Minh.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 
