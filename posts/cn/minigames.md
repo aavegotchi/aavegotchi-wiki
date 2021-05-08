@@ -51,3 +51,9 @@ Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
 
 <img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
+
+### Gotchi Tower Defense by jarrod | aavegotchistats.com
+
+Link to game [here](https://aavegotchistats.com/td)
+
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
