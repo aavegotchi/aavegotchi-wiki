@@ -52,8 +52,8 @@ Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
 
 <img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
-### Gotchi Tower Defense by jarrod | aavegotchistats.com
+### Gotchi Tower Defense của tác giả jarrod | aavegotchistats.com
 
-Link to game [here](https://aavegotchistats.com/td)
+Chơi tại [đây](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
