@@ -20,7 +20,7 @@ contributors:
 
 <div class="contentsBox">
 
-Содержание:
+**Contents**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
