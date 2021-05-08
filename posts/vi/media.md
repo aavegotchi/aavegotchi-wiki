@@ -11,9 +11,11 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
-### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Jesse chia sẻ về AavegotchiDAO trong Blockchain Gaming Alliance Panel (ngày 7 tháng Năm 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/vWvaTXa54FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Coderdan presents Aavegotchi on Odaily China Crypto News (3 February 2021)
+### Coderdan và Jesse bàn về Chainlink VRF trên Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
+### Coderdan mô tả về Aavegotchi trên Odaily China Crypto News (3 February 2021)
 Xem video tại [đây](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/)
 
 ### Jesse chia sẻ về Aavegotchi trên Blockchain Game Alliance Demo Day (29 tháng Giêng 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
@@ -28,12 +30,12 @@ Xem video tại [đây](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c4
 
 ### Aave * Aavegotchi Fireside Chat (8 Tháng Mười Hai 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/cbUO9yb2bjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 Tháng Chín 2020) <iframe src="https://anchor.fm/andrew-steinwold/embed/episodes/Jesse--Dan-from-Aavegotchi---Challenging-The-NFT-Status-Quo---Zima-Red-ep-41-en5go5/a-a404hd4" height="102px" width="400px" frameborder="0" scrolling="no" mark="crwd-mark"></iframe>
+### Jesse & Dan - Thử thách NFT Status Quo trên Zima Red (30 Tháng Chín 2020) <iframe src="https://anchor.fm/andrew-steinwold/embed/episodes/Jesse--Dan-from-Aavegotchi---Challenging-The-NFT-Status-Quo---Zima-Red-ep-41-en5go5/a-a404hd4" height="102px" width="400px" frameborder="0" scrolling="no" mark="crwd-mark"></iframe>
 
 ### Phỏng Vấn Người Sáng Lập Aavegotchi. Cagyjan phỏng vấn Jesse / GldnXross (16 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/g6EJPkRlX7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/M_zreDIcjno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/ZzFnUFwAY00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
+### Aavegotchi và Chainlink Live Q&A: DeFi-staked Crypto Collectibles với Chainlink VRF (1 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
 
 

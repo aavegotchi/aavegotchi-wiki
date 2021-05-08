@@ -51,3 +51,9 @@ Chơi tại [đây](https://cryptolve.com/aavegotchi_pacman/)
 Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
 
 <img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
+
+### Gotchi Tower Defense của tác giả jarrod | aavegotchistats.com
+
+Chơi tại [đây](https://aavegotchistats.com/td)
+
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
