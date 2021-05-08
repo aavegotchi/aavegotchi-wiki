@@ -10,6 +10,10 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Jesse shares about AavegotchiDAO in the Blockchain Gaming Alliance Panel (7 May 2021)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWvaTXa54FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
