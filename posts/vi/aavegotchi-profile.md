@@ -52,35 +52,35 @@ Trang thông tin của Gotchi sẽ nhìn giống như hình screenshot dưới �
 
 Ở bên cạnh điểm BRS chính là nút "View Curve." Nút này so sánh 6 điểm trait (Năng Lượng, Độ Hung Hãn, Độ Đáng Sợ, Kích Thước Não, Màu Mắt, và Hình Dạng Mắt) với mỗi Gotchi khác đang tồn tại.
 
-Nhìn xuống dưới, giá trị 6 trait của Gotchi bạn sỡ hữu (Năng Lượng, Độ Hung Hãn, Độ Đáng Sợ, Kích Thước Não, Màu Mắt, và Hình Dạng Mắt) sẽ được hiển thị. Trừ Hình Dạng Mắt và Màu Mắt, tất cả những giá trị trait còn lại có thể được điều chỉnh bằng các trang bị được mặc vào. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+Nhìn xuống dưới, giá trị 6 trait của Gotchi bạn sỡ hữu (Năng Lượng, Độ Hung Hãn, Độ Đáng Sợ, Kích Thước Não, Màu Mắt, và Hình Dạng Mắt) sẽ được hiển thị. Trừ Hình Dạng Mắt và Màu Mắt, tất cả những giá trị trait còn lại có thể được điều chỉnh bằng các trang bị được mặc vào. Nếu bạn trang bị ít nhất một trang phục, bạn sẽ thấy giá trị +/- được thêm vào giá trị trait. Đây là điểm cộng thêm của trang phục vào giá trị trait của bạn.
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+Cũng nhìn xuống dưới, cấp độ, XP, và số điểm XP cần thiết để lên cấp sẽ được hiển thị. Hơn nữa, XP sẽ có thể kiếm được thông qua các sự kiện cộng đồng. Vậy nên hãy hóng những sự kiện này nhé!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+Cứ mỗi 3 cấp, Gotchi của bạn sẽ kiếm được 1 điểm Spirit Point để tăng giảm bất kỳ điểm trait nào.
 
 ### Tương tác với các Gotchi
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+Ở góc phải của màn hình, bạn có thể tương tác với Gotchi bằng nhiều cách: (1) Pet (Nựng), (2) Equip (Mặc trang phục), (3) Feed (Cho ăn), và (4) Rename (Đổi tên).
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+Nựng Gotchi mỗi 12 giờ một lần sẽ giúp tăng [điểm kinship](/traits#kinship) lên 1.
 
-The Equip button allows you to equip/unequip any wearables.
+Nút Equip cho phép bạn trang bị/tháo trang bị.
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+Nút Feed cho phép bạn cho Gotchi ăn [vật phẩm tiêu thụ](/wearables#consumables) như Bình Kinship và Bình XP. Những bình thuốc này có thể được mua từ [Maall](/maall) (khi chúng được mở bán) hoặc trên thị trường thứ cấp như [Baazaar](/baazaar).
 
-Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+Cuối cùng, Nút Rename cho phép bạn đổi tên Gotchi. Điểm bất lợi duy nhất chính là việc bạn không thể đặt tên cho Gotchi khi cái tên ấy đã có người sở hữu và tên sẽ bị giới hạn ở mức 25 ký tự.
 
-Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+Nhìn xuống dưới, **loại** và **số lượng** của [Spirit Force](/glossary#spirit-force) của Gotchi sẽ được hiển thị. Có một nút Add/Remove giúp chủ của Gotchi có thể để thêm Spirit Force vào Gotchi. Việc thêm Spirit Force sẽ không mang đến thêm lợi ích nào cho Gotchi của bạn. Mỗi Gotchi sẽ cần phải sở hữu một lượng Spirit Force để tồn tại, vậy nên không.. bạn không thể rút hết lượng Spirit Force ấy được. Lượng Spirit Force tối thiểu phụ thuộc vào BRS của Aavegotchi và công thức tính có thể được xem thêm tại đây.
 
 ### Gotchi Pocket
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Hãy nhấp vào đấy để mở Gotchi Pocket của bạn ra, nó sẽ là túi trang bị của Gotchi.
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+Chú ý: túi trang bị **CỦA BẠN (người chủ)** sẽ tách biệt với **Gotchi's Pocket**.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains the wearables that are currently equipped by your Gotchi as well as the GHST tokens your Gotchi has won from [rarity farming](/rarity-farming). To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Gotchi Pocket của bạn sẽ chứa các trang phục mà gần đây bạn đã mặc cho Gotchi cũng như token GHST mà Gotchi đã giành được từ [rarity farming](/rarity-farming). Để gửi trang phục trở lại túi trang bị **của bạn**, bạn sẽ phải trang bị những trang phục này trước tiên (thông qua nút Equip). Kế đến, hãy vào Gotchi Pocket và nhấp vào nút Transfer to Me.
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+Tương tự, token GHST kiếm được từ rarity farming trong ví của Gotchi và sẽ không nằm trong túi trang bị của bạn. Để rút trang bị về túi trang bị của bạn, hãy chọn nút Withdraw trong cửa sổ Gotchi Pocket. Nút view sẽ cho bạn thấy địa chỉ chứa đồ của Gotchi.
 
