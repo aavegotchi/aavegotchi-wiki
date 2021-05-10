@@ -9,56 +9,56 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">Xin chào!</p>
 </div>
 
-You have a Gotchi fren now eh?
+Bạn đang có một người bạn Gotchi đúng hem?
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+Mỗi gotchi có một trang profile của riêng mình, nơi mà bạn có thể xem Gotchi của mình và chơi với bé.
 
-This page will tell you what you can do with your new Gotchi frens! :D
+Trang này sẽ cho bạn biết thứ bạn có thể làm với những người bạn Gotchi mới toanh! :D
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
+<li><a href=#accessing-your-gotchi-profile>Truy cập vào Profile của Gotchi</a></li>
+<li><a href=#gotchi-profile>Aavegotchi Profile</a></li>
+<p><a href=#stats-xp>Chỉ số/XP</a></p>
+<p><a href=#interact-with-your-gotchi>Tương tác với các Gotchi</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 </ol>
 
 </div>
 
-## Accessing your Gotchi Profile
+## Truy cập vào Profile của Gotchi
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Gotchi bất kỳ của bạn và nó sẽ giúp bạn truy cập vào trang thông tin của gotchi đó.
 
-## Gotchi Profile
+## Aavegotchi Profile
 
-Your Gotchi Profile would look something like the following screenshot.
+Trang thông tin của Gotchi sẽ nhìn giống như hình screenshot dưới đây.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+Ở giữa chính là Gotchi của bạn (có thể trần như nhộng hoặc được mặc lên người những bộ [trang phục](/wearables) kiêu sa). Trang bị/tháo bất kỳ trang phục nào và ngoại hình của Gotchi sẽ được cập nhật.
 
-### Stats/XP
+### Chỉ số/XP
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+Ở góc trái của màn hình chính là Chỉ Số/XP của Gotchi.
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score). If you have equipped your Gotchi with wearables, there will be two BRS values: (1) one in parentheses, and (2) the other not in parentheses. The former refers to your Gotchi's BRS without any wearables equipped while the latter takes into account both your Gotchi's BRS as well as the BRS contributed by any equipped wearable. If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+Ở góc trên là [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score) của Gotchi. Nếu bạn mặc trang phục cho Gotchi, chúng sẽ có hai giá trị BRS (1) một ở trong ngoặc, và (2) chỉ số khác ở ngoài. Chỉ số đầu tiền cho biết điểm BRS của Gotchi khi không mặc bất kỳ trang phục nào, trong khi đó, chỉ số sau cho thấy điểm BRS của Gotchi và BRS có được từ các trang phục được mặc vào. Nếu Gotchi của bạn được trang bị một [bộ trang phục](/sets), tên của bộ trang phục sẽ được hiển thị dưới điểm BRS.
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+Ở bên cạnh điểm BRS chính là nút "View Curve." Nút này so sánh 6 điểm trait (Năng Lượng, Độ Hung Hãn, Độ Đáng Sợ, Kích Thước Não, Màu Mắt, và Hình Dạng Mắt) với mỗi Gotchi khác đang tồn tại.
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+Nhìn xuống dưới, giá trị 6 trait của Gotchi bạn sỡ hữu (Năng Lượng, Độ Hung Hãn, Độ Đáng Sợ, Kích Thước Não, Màu Mắt, và Hình Dạng Mắt) sẽ được hiển thị. Trừ Hình Dạng Mắt và Màu Mắt, tất cả những giá trị trait còn lại có thể được điều chỉnh bằng các trang bị được mặc vào. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
 
 Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
 
 For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
 
-### Interact with your Gotchi
+### Tương tác với các Gotchi
 
 At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
 
