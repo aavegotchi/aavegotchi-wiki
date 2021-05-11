@@ -5,6 +5,7 @@ title: '포털'
 description: '아베고치 포탈에 대한 모든 것'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,7 +28,8 @@ image: "portals/portal.gif"
 <li><a href=#buying-a-portal>포탈 구매</a></li>
 <li><a href=#opening-your-portal>포탈 개방</a></li>
 <li><a href=#claiming-an-aavegotchi>아베고치 신청</a></li>
-<li><a href=#transferring-your-aavegotchi>아베고치 이전하기!</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
@@ -96,18 +98,23 @@ A < 300 : B = 10DAI 가치
 
 고치를 신청하기 위해서 2번의 거래를 수행해야 합니다. 우선, 스마트컨트랙트가 여러분의 wallet에 있는 aToken을 쓸 수 있도록 승인해주어야 합니다. 이어지는 거래에서 여러분은 아베고치를 신청할 수 있게 됩니다 :)
 
+## Interacting with your Aavegotchi
 
-## 아베고치 이전하기!
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
-만약 거래를 하면서 아베고치를 새로운 주인에게 주는 것은 아베고치의 인벤토리에 있는 아이템과 wearables 뿐만 아니라 아베고치에 스테이킹된 담보물도 이전하는 것입니다. Opensea와 같은 온라인 마켓플레이스에서 아베고치를 거래할 때 발생하게 됩니다.
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
-만약 아베고치에 스테이킹된 담보물을 돌려받고 싶다면, 두가지 옵션이 있습니다.
+## Transferring your Aavegotchi
+
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. 아베고치에 스테이킹된 담보물을 감소시키는 것입니다.(하지만 이때 최소한의 양은 남겨두셔야 합니다.)
 
 2. 아베고치를 소각시키는 것입니다. 아베고치를 저승으로 돌려보내고,  모든 담보물을 돌려받는 것입니다.
 
-**Opensea와 같은 다른 마켓에서 아베고치를 판매하시기 전에,  구매자가아베고치가 가진 아이팀이나 wearables까지 함께 이전될 거라는 것을 확신할 수 있도록 댑(Dapp) UI를 통해 아베고치를 부디 락(lock)해주시길 바랍니다 :)**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
 
 
 
