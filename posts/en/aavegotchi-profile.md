@@ -79,7 +79,17 @@ Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket">
 
-Your Gotchi Pocket contains the wearables that are currently equipped by your Gotchi as well as the GHST tokens your Gotchi has won from [rarity farming](/rarity-farming). To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Your Gotchi Pocket contains:
+
+* The wearables currently equipped by your Gotchi
+* GHST tokens won from [rarity farming](/rarity-farming)
+* Baadges
+
+Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+
+In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+
+To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
