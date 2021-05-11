@@ -5,6 +5,7 @@ title: 'Portale'
 description: 'Alles über Aavegotchi Portale'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,7 +28,8 @@ Setz also deinen Zauberhut auf - es ist Zeit, mehr über Portale und den Aavegot
 <li><a href=#buying-a-portal>Ein Portal kaufen</a></li>
 <li><a href=#opening-your-portal>Dein Portal öffnen</a></li>
 <li><a href=#claiming-an-aavegotchi>Ein Aavegotchi beschwören</a></li>
-<li><a href=#transferring-your-aavegotchi>Dein Aavegotchi transferieren</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
@@ -89,18 +91,23 @@ Du kannst die Spirit Force (hinterlegte Menge an aTokens) deines Aavegotchis sp�
 
 Um dein Gotchi zu beschwören, musst du 2 Transaktionen durchführen. Zuerst musst du dem Smart Contract die Genehmigung erteilen, um den aToken in deinem Wallet auszugeben. Die anschliessende Transaktion ermöglicht es dir, das Aavegotchi zu beschwören.
 
+## Interacting with your Aavegotchi
 
-## Dein Aavegotchi transferieren
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
-Wenn du ein Aavegotchi auf einen neuen Besitzer überträgst (wenn du es tauschst), werden auch die hinterlegten Sicherheiten übertragen, ebenso wie alle Gegenstände und Kleidungsstücke im Inventar des Aavegotchis. Das passiert, wenn du dein Aavegotchi auf einem Online-Marktplatz wie OpenSea handelst.
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
-Wenn du die hinterlegten Sicherheiten, die dein Aavegotchi sichern, zurückholen möchtest, hast du zwei Möglichkeiten:
+## Transferring your Aavegotchi
+
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **Reduziere die Menge der Sicherheiten** in deinem Aavegotchi (aber nicht unter seinen Mindesteinsatz).
 
 2. **Verbrenn dein Aavegotchi**, lass es zurück in den Nether Realm und bekomm alle deine Sicherheiten zurück.
 
-**Bevor du dein Aavegotchi auf Sekundärmärkten wie OpenSea zum Verkauf anbietest, solltest du dein Aavegotchi über die dApp UI "sperren", damit der Käufer sicher sein kann, dass alle Besitztümer des Aavegotchis mit übertragen werden.**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
 
 
 
