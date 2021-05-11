@@ -94,7 +94,7 @@ Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini
 XP exists as an internal balance on the Aavegotchi smart contract.
 
 ## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. Kada tatlong level, nakatatanggap ang Aavegotchis ng isang [Spirit Point](/glossary#spirit-point) na puwedeng gamitin sa pagpapataas o pagpapababa ng isang trait. Some wearables can only be worn by Aavegotchis of a certain level.
 
 For detailed information on the XP required for each level, click [here](/xp).
 

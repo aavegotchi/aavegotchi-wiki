@@ -2,7 +2,7 @@
 author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Baazaar'
-description: 'Aavegotchi Baazaar'
+description: '鬼馬哥池街檔'
 contributors:
   - "chinyh"
 ---
@@ -12,23 +12,23 @@ contributors:
 <p class="headerImageText">街檔攤</p>
 </div>
 
-「喂.....這里的帥哥美女過一過來。」
+「喂.....那里的帥哥美女過一過來。」
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+那個哥池商人秘密地邀請你去他的街檔。他眼中露出了一發閃光✨。
 
-"I have something aamazing for you."
+「我有個好好棒的東西送給你。」
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+那個哥池商人將一個用布包住的包裹交給你。 他緩慢地解開包裹。 那件東西在午後的陽光下閃爍閃爍。
 
-".....A Mudgen Diamond" you whisper to yourself.
+你心中暗語：「一顆麥根鑽石⋯⋯」
 
-The marvellous shine catches the attention of countless bystanders.
+那耀眼的閃爍吸引住無數旁人的眼目。
 
-Another Gotchi shoves in. "I'll have it!"
+又來了另一隻哥池。 「我要了它。」
 
-"NO! I'LL HAVE IT!"
+「𣎴！」 「我實要左佢！！！」
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+這就是 鬼馬歌池 街檔市場 啦， 我友啊！ Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
 
 Come and test your mettle! Buyers and sellers alike!
 
