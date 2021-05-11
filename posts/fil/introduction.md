@@ -39,12 +39,12 @@ Ang Aavegotchi ay pinamumunuan ng [AavegotchiDAO](/dao) na siyang namamahala sa 
 ## Tungkol sa Aavegotchis
 Ang Aavegotchis ay rare crypto-collectibles na nasa Ethereum blockchain, ginawa base sa ERC-721 standard na ginamit din sa iba pang sikat na blockchain games tulad ng CryptoKitties, Axie Infinity, at Cryptovoxels. May tatlong attributes ang Aavegotchis na nagde-determine sa kabuuang value at rarity nila sa Aavegotchi universe: **collateral stake, traits, at wearables.**
 
-*  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](/atokens) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+*  **Collateral stake:** Ang bawat Aavegotchi ERC721 NFT ay may isang escrow contract address o wallet kung saan naka-deposit ang Aave-backed na ERC20 collateral nito. Kumikita ang collateral na ito—na kilala rin bilang "[aTokens](/atokens)"—sa tulong ng LendingPool ng Aave, na siyang nagpaparami sa dami ng aTokens na hawak ng Aavegotchi. Sa madaling salita, lumalaki ang nai-deposit na aTokens sa wallet ng Aavegotchi habang tumatagal.
 
 
-*  **Traits:** Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. **See [Traits](/traits).**
+*  **Traits:** May taglay na iba't-ibang katangian o traits ang Aavegotchis na nakaaapekto sa kanilang rarity, sa galing nila sa mini-games, at sa wearables na puwede nilang isuot. Ang ilan sa traits na ito ay suwertihang nakukuha o randomly generated, habang nakadepende naman sa pakikisalamuha ng player sa Aavegotchi niya ang iba pang traits. **Tingnan ang [Traits](/traits).**
 
-    * **Random Traits**: Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical depending on its rarity.
+    * **Random Traits**: Pagkasilang nila, ang bawat Aavegotchi ay binibigyan ng ilang random trait values gamit ang ChainLink VRF na isang random number generator. Naka-distribute ang trait values sa isang bell curve, at ang bawat trait ay nagiging Common, Uncommon, Rare, o Mythical depende sa rarity nito.
 
     *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
 
