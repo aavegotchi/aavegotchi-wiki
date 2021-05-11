@@ -5,6 +5,7 @@ title: '传送门'
 description: '关于Aavegotchi 传送门的一切！'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,7 +28,8 @@ image: "portals/portal.gif"
 <li><a href=#buying-a-portal>购买一个传送门</a></li>
 <li><a href=#opening-your-portal>打开您的传送门</a></li>
 <li><a href=#claiming-an-aavegotchi>获取Aavegotchi</a></li>
-<li><a href=#transferring-your-aavegotchi>转移你的Aavegotchi</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
@@ -89,18 +91,23 @@ image: "portals/portal.gif"
 
 要认领你的 Gotchi, 你需要执行2个交易。 首先，您需要批准智能合同以便在您的钱包中使用 aToken 。 随后的交易允许您认领Aavegotchi。
 
+## Interacting with your Aavegotchi
 
-## 转移你的Aavegotchi
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
-将Aavegotchi转让给一个新的所有者(当你进行贸易时)也转让了它背后的有利害关系的抵押品。 以及Aavegotchi库存中的任何物品和穿戴品。 这种情况发生在您在 OpenSea 等在线市场上交易您的 Aavegotchi 时。
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
-如果您想要检索您的 Aavegotchi 背后的被收藏的抵押品，您有两个选项：
+## Transferring your Aavegotchi
+
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **在你的 Aavegotchi 中减少担保品数量** (但不低于最低限度的临界值)。
 
 2. **烧毁你的 Aavegotchi**, 释放它回到地狱领域并归还你所有的抵押品。
 
-**在将您的Aavegotchi出售到诸如OpenSea等二级市场之前，请通过Dapp UI“锁定”您的Aavegotchi 帮助买方确保Aavegotchi的所有财物将与买方一起转让。**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
 
 
 
