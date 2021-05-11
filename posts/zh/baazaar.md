@@ -9,10 +9,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">街檔攤</p>
 </div>
 
-"Psst.....you there"
+「喂.....這里的帥哥美女過一過來。」
 
 The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
 
