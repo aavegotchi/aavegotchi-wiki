@@ -5,6 +5,7 @@ title: 'Portals'
 description: 'All about Aavegotchi Portals'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,6 +28,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
 <li><a href=#opening-your-portal>Opening your Portal</a></li>
 <li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
 <li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
@@ -89,6 +91,11 @@ You can increase or decrease the Spirit Force (staked aToken amount) of your Aav
 
 To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
+## Interacting with your Aavegotchi
+
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
+
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
 ## Transferring your Aavegotchi
 
