@@ -2,7 +2,7 @@
 author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Baazaar'
-description: 'Aavegotchi Baazaar'
+description: '鬼馬哥池街檔'
 contributors:
   - "chinyh"
 ---
@@ -12,11 +12,11 @@ contributors:
 <p class="headerImageText">街檔攤</p>
 </div>
 
-「喂.....這里的帥哥美女過一過來。」
+「喂.....那里的帥哥美女過一過來。」
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+那個哥池商人秘密地邀請你去他的街檔。他眼中露出了一發閃光✨。
 
-"I have something aamazing for you."
+「我有個好好棒的東西送給你。」
 
 The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
 
