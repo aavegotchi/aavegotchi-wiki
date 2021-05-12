@@ -7,58 +7,58 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
-* On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
+## [Xuất hiện thêm một Huy Hiệu mới để sưu tập!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
+* Vào ngày 10 tháng Năm 2021, Pixelcraft đã công bố về việc huy hiệu NFT vinh danh sẽ được trao cho những ai đang cung cấp thanh khoản trước khi cho phép đào UNIC!
 <p></p>
 
-## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
-* You can now collect Aavegotchi Baadges for your performance in rarity farming!
-* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
-* Look out for more Baadges to collect in the future ;)
-* Post published on 4 May 2021
+## [Uuuuuuu Huy Hiệu Gotchi Lấp Lanh Mới Toanh!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* Bạn có thể thu thập Huy Hiệu Aavegotchi khi có thành tích tốt trong Rarity Farming!
+* Huy Hiệu Gotchi là những token NFT ERC-1155 không thể chuyển đi được và nó sẽ mãi mãi nằm trong ví Aavegotchi của bạn!
+* Hãy săn lùng nhiều Huy Hiệu hơn trong tương lai ;)
+* Bài viết được đăng tải vào ngày 4 tháng Ba năm 2021
 <p></p>
 
-## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
-* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
-* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
-* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
-* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
+## [Pixelcraft ra mắt Lộ Trình Phát Triển Aavegotchi V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Chào mấy fen! Vào ngày 28 tháng Tư 2021, Pixelcraft công bố Lộ Trình Phát Triển V2 dành cho Aavegotchi trong một vài năm tới!
+* Giai Đoạn 1: Ươm Mầm (Quý 2 2021— Quý 4 2021) - Xây dựng Aavegotchi trở thành một game phổ biến trong cộng đồng những người yêu thích blockchain
+* Giai Đoạn 2: Bứt Phá (Quý 1 2022 — Quý 4 2023) - Xây dựng Aavegotchi trở thành nền tảng game được sở hữu với cộng đồng, thu hút được thị trường chính thống
+* Giai Đoạn 3: Lan Toả (Quý 1 2021 — tương lai) - Hoàn thành sứ mệnh biến Aavegotchi trở thành game crypto có sức hút mạnh mẽ đối với thịt trường chính thống
 <p></p>
 
-## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
-* Baazaar fees are now increased by 0.5% to 3.5%
-* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
-* Post published on 19 April 2021
+## [AGIP #6 ĐÃ ĐƯỢC THÔNG QUA!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* Phí Baazaar giờ đã tăng từ 0,5% lên 3,5%
+* Một Bản Đề Xuất Chủ Chốt Khác sẽ được tiến hành! (Quyền bỏ phiếu của Gotchi!)
+* Bài viết được đăng tải vào ngày 19 tháng Ba năm 2021
 <p></p>
 
-## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Bạn êi, bọn mình lo hết!
-* The Aavegotchi team expands!
-* More collaborations announced!
-* More discussions on AavegotchiDAO
-* Post published on 18 April 2021
+## [Lộ Tin Hot! Cuộc Gọi Đầu Tiên Với Cộng Đồng Aavegotchi](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Bạn đã bỏ lỡ Cuộc Gọi Cộng Đồng đầu tiên ư? Bạn êi, bọn mình lo hết!
+* Aavegotchi đang mở rộng đội ngũ!
+* Tuyên bố mở rộng thêm nhiều quan hệ hợp tác!
+* Thảo luận nhiều hơn về AavegotchiDAO
+* Bài viết được đăng tải vào ngày 18 tháng Tư năm 2021
 <p></p>
 
-## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
-* Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
-* Published on 16 April 2021
+## [Phân Tách Aavegotchi trên Mạng Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
+* Unicly — giao thức kết hợp, phân mảnh, và giao dịch NFT — đã phân mảnh những Aavegotchi đầu tiên trên Ethereum Mainnet!
+* Bài viết được đăng tải vào ngày 16 tháng Ba năm 2021
 <p></p>
 
-## [Lil Pump drop incoming!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
-* The Aavegotchi team reminds everyone that the Lil Pump drop will occur tomorrow, 9 April 2021, at the Maall.
+## [Sự kiện mở bán vật phẩm Lil Pump sắp có mặt!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
+* Đội ngũ Aavegotchi nhắc nhỡ mọi người về sự kiện mở bán vật phẩm chủ đề Lil Pmup được tiến hành vào ngày mai, tại Aavegotchi Maall.
 <p></p>
 
-## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
-* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
-* Head over to Snapshot and vote now!
+## [Bỏ phiếu cho AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+* Vào ngày 7 tháng Tư năm 2021, đội ngũ Aavegotchi đã thông báo về AGIP6, đề xuất tăng phí giao dịch trên Baazaar thêm 0,5% để hỗ trợ cho Rarity Farming.
+* Hãy chuyển đến Snapshot để bỏ phiếu ngay từ bây giờ nhé!
 <p></p>
 
-## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Lil Pump Wearables to drop this Friday, April 9
-* Hottest Signal Proposals on AavegotchiDAO
-* Pixelcraft Studios is expanding
-* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
-* Post published on 5 April 2021
+## [Maall Drop và một số sự kiện khác!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Trang phục chủ đề Lil Pump được mở bán vào ngày 9 tháng Tư
+* Những bản đề xuất hot nhất trên AavegotchiDAO
+* Pixelcraft Studios đang mở rộng hoạt động
+* Gần đây, Baazaar đã vượt qua cột mốc khối lượng giao dịch hơn 10 triệu GHST!
+* Bài viết được đăng tải vào ngày 5 tháng Ba năm 2021
 <p></p>
 
 ## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
