@@ -26,7 +26,9 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <ol>
 <li><a href=#aavegotchi-related>Liên Quan Đến Aavegotchi</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
+<p><a href=#baadge>Huy Hiệu</a></p>
 <p><a href=#frens>FRENS</a></p>
+<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -71,11 +73,29 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 ### Aavegotchi
 Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
 
+### Huy Hiệu
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Một khi Huy Hiệu đã được gửi cho Gotchi của bạn, nó sẽ nằm trong Gotchi Pocket mãi mãi.
+
+Có thể kiếm được Huy Hiệu bằng nhiều cách:
+
+* Nhảy lên Top 10/100 của [Rarity Farming](/rarity-farming)
+* Tham Gia Quản Trị
+* Bỏ phiếu cho những đề xuất quan trọng trong [AavegotchiDAO](/dao)
+* Phí kỷ lục [mini-game's](/minigames)
+* .....Và nhiều hơn thế nữa!
+
+Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mình sẽ thông báo khi Huy Hiệu được ra mắt.
+
 ### Haunts
 Haunt là các phiên bản của Aavegotchi. Số hiệu của Haunt sẽ tăng dần (ví dụ Haunt 1 rồi sẽ đến Haunt 2) và những số liệu này có thể thấy được trên Aavegotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
 
 ### FRENS
-Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không phải là token. Về mặt kỹ thuật, nó chỉ là một tài khoản nằm trong Hợp Đồng Thông Minh. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
+Là số điểm được dùng để thưởng cho những người stake GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
+
+### Gotchi Pocket
+Mỗi Aavegotchi có một Gotchi Pocket riêng. Chiếc ví này cũng giống như một túi hành trang của Gotchi, cho phép chúng lưu giữ các trang phục được mặc lên người, token GHST nhận được từ [rarity farming](/rarity-farming), và [Huy Hiệu](/glossary#baadge).
+
+Về mặt kỹ thuật, Gotchi Pocket là một hợp đồng lưu giữ.
 
 ### Spirit Force
 Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) được khoá trong gotchi của bạn. Người chơi có thể nạp thêm hoặc lấy đi lượng Spirit Force này từ Aavegotchi. Tuy nhiên, có mức Spirit Force tối thiểu mà Aavegotchi yêu cầu, điều đó phụ thuộc vào Base Rarity Score của chúng.
@@ -123,7 +143,7 @@ Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng đ�
 Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
 
-Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. For this to happen, you will need to set down a portion of your other assets as collateral. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. Để làm được điều này, bạn cần phải đưa ra một phần nào đó tài sản của mình để thế chấp. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
 
 Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
 
@@ -159,12 +179,12 @@ Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có
 
 
 ### Impermanent Loss
-Điểm khác nhau giữa việc giữ token trong [trình tạo thị trường tự động (AMM) ](/glossary#automated-market-maker) và giữ trong ví của bạn. Việc này xảy ra khi giá của các token trong AMM đi ngược nhau theo bất kỳ hướng nào. Chúng càng lệch nhau thì tổn thất tạm thời càng lớn. Tổn thất được gọi là "tạm thời" do khi các token được giữ trong AMM trở lại trạng thái ban đầu lúc bạn vừa gửi chúng vào aMM thì tổn thất ấy sẽ biến mất và bạn sẽ kiếm được 100% phí giao dịch. Tuy nhiên, đây là một trường hợp hiếm thấy. Trong hầu hết mọi trường hợp, tổn thất tạm thời trở thành mãi mãi, khiến cho lợi nhuận của bạn suy giảm và khiến bạn âm vốn. Cùng thường được gọi là Tổn thất Phân kỳ.
+Điểm khác nhau giữa việc giữ token trong [trình tạo thị trường tự động (AMM) ](/glossary#automated-market-maker) và giữ trong ví của bạn. Việc này xảy ra khi giá của các token trong AMM đi ngược nhau theo bất kỳ hướng nào. Chúng càng lệch nhau thì tổn thất tạm thời càng lớn. Tổn thất được gọi là "tạm thời" do khi các token được giữ trong AMM trở lại trạng thái ban đầu lúc bạn vừa gửi chúng vào aMM thì tổn thất ấy sẽ biến mất và bạn sẽ kiếm được 100% phí giao dịch. Tuy nhiên, điều này không phải lúc nào cũng đúng. Trong hầu hết mọi trường hợp, tổn thất tạm thời trở thành mãi mãi, khiến cho lợi nhuận của bạn suy giảm và khiến bạn âm vốn. Cũng thường được gọi là Tổn thất Phân kỳ.
 
 
 
 ### Liquidity Pools
-Thuật ngữ này đọc vào có thể tự suy ra được. Những quỹ token này được khoá trong một hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
+Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ) của token này được khoá trong hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
 
 
 Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
