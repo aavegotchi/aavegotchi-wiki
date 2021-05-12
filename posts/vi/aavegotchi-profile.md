@@ -80,13 +80,13 @@ Chú ý: túi trang bị **CỦA BẠN (người chủ)** sẽ tách biệt vớ
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains:
+Gotchi Poket của bạn sẽ bao gồm:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
-* Baadges
+* Nhưng trang phục mà Gotchi đang được mặc
+* Phần thưởng token GHST từ [rarity farming](/rarity-farming)
+* Huy Hiệu
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Ví dụ, trong Rarity Farming Mùa 1, Huy Hiệu sẽ được tặng cho Top 10 và Top 100 Gotchi của mỗi hạng mục trong Rarity Farming. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
 
 In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
 
