@@ -86,11 +86,11 @@ Gotchi Poket của bạn sẽ bao gồm:
 * Phần thưởng token GHST từ [rarity farming](/rarity-farming)
 * Huy Hiệu
 
-Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Ví dụ, trong Rarity Farming Mùa 1, Huy Hiệu sẽ được tặng cho Top 10 và Top 100 Gotchi của mỗi hạng mục trong Rarity Farming. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Ví dụ, trong Rarity Farming Mùa 1, Huy Hiệu sẽ được tặng cho Top 10 và Top 100 Gotchi của mỗi hạng mục trong Rarity Farming. Những Huy Hiệu này sẽ được phân phối vào ví của Aavegotchi đủ điều kiện và tồn tại ở đó **mãi mãi**. Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé! owo
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+Ngược lại, các vật phẩm và token GHST của bạn có thể được rút ra từ Gotchi Pocket.
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Để gửi trang phục trở lại túi trang bị **của bạn**, bạn sẽ phải trang bị những trang phục này trước tiên (thông qua nút Equip). Kế đến, hãy vào Gotchi Pocket và nhấp vào nút Transfer to Me.
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+Tương tự, token GHST kiếm được từ rarity farming trong ví của Gotchi và sẽ không nằm trong túi trang bị của bạn. Để rút trang bị về túi trang bị của bạn, hãy chọn nút Withdraw trong cửa sổ Gotchi Pocket. Nút view sẽ cho bạn thấy địa chỉ chứa đồ của Gotchi.
 
