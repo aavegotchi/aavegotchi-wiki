@@ -26,7 +26,9 @@ When you're done reading this and hopefully have a better understanding of these
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
+<p><a href=#baadge>Baadge</a></p>
 <p><a href=#frens>FRENS</a></p>
+<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -71,11 +73,29 @@ When you're done reading this and hopefully have a better understanding of these
 ### Aavegotchi
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
+### Baadge
+Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+
+Baadges could be earned in a variety of ways:
+
+* Getting into the Top 10/100 for [Rarity Farming](/rarity-farming)
+* Participating in an event
+* Voting in a major [AavegotchiDAO](/dao) vote
+* Breaking a [mini-game's](/minigames) high score
+* .....And many more!
+
+Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+
 ### Haunts
 Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### FRENS
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+
+### Gotchi Pocket
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/glossary#baadge).
+
+Technically, a Gotchi Pocket is an escrow address.
 
 ### Spirit Force
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
