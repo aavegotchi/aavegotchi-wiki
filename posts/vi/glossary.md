@@ -284,22 +284,22 @@ Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại di
 **Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
 
 ### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Polygon là một giải pháp mở rộng cho các blockchain công khai. Dựa trên công nghệ framework Plasma (Plasma MoreVP), với phương thức triển khai dựa trên tài khoản, Polygon hỗ trợ tất cả các công cụ dành cho Ethereum đang tồn tại với những giao dịch nhanh và rẻ hơn.
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+Để chuyển token từ Mainnet của Ethereum sang Matic Network, vui lòng xem qua [bày hướng dẫn](/polygon)này.
 
-Read more about Polygon [here](https://matic.network/).
+Đọc thêm về Polygon tại [đây](https://matic.network/).
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) là một loại cơ chế đồng thuận mà các blockchain có thể dùng để cùng nhau chập thuận duy nhất một bản gi dữ liệu lịch sử đúng sự thật. Trong một blockchain PoS, validator thực hiện stake tài sản để chứng thực (hay xác thực) sự tồn tại của những block (khối giao dịch).
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validator là những người tham gia vào mạng lưới những người chạy các node (được gọi là validators nodes) để đề nghị và chứng thực những khối giao dịch nằm trên mọt blockchain PoS. Họ thực hiện công việc này bằng các stake tiền điện tử (trong trường hợp của Ethereum 2.0, ETH) trên mạng lưới và khiến chúng có thể được ngẫu nhiên nhằm đề xuất một khối giao dịch. Những validator khác sau đó sẽ "chứng thực" rằng họ đã thấy khối giao dịch đó. Khi một số lượng lớn hoạt động chứng thực các khối giao dịch đã được ghi nhận, khối giao dịch đó sẽ được thêm vào blockchain. Validator nhận được phần thưởng khi đề xuất các khối giao dịch thành công (giống như cách hoạt động trong PoW) và khi chứng thực cho những khối giao dịch mà họ đã thấy.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Đọc thêm về cơ chế đồng thuận Proof of Stake tại [đây](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#polygon). Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+Truy cập vào Quickswap tại [đây](https://quickswap.exchange).
