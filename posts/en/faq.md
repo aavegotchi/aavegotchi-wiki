@@ -91,12 +91,19 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 ### I'm new to Aavegotchi. After launch, how do I play?
 
+* **STEP 1:** Buy [GHST](/ghst)
 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 1:</b> Buy <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 2:</b> Use your GHST to buy a <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 3:</b> Deposit collateral into Aave to get <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> for the Aavegotchi you choose</li></p></ul> 
-<ul><p style="margin-left: 2.4em"><li><b>STEP 4:</b> Stake your aTokens to claim your Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>STEP 5:</b> Visit the <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
+* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+
+* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+
+* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+
+* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+
+* **STEP 6:** Play some [Mini-Games](/minigames)
+
+* **STEP 7:** Wait for the [Metaverse](/metaverse) to roll out!
 
 You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
@@ -114,8 +121,12 @@ Mainnet was originally scheduled for launch on 4 January 2021. Due to high conge
 
 Right now, you can:
 
-<ul><p style="margin-left: 2.4em"><li><b>Enter Raffles to Win Wearables:</b> Until mainnet launches, the community is holding a series of <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles</a> where you can stake your GHST to earn FRENS. With FRENS, you can enter 
-any of the remaining raffles for a chance to win unique wearables for your Aavegotchi.</li></p></ul>
+* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+
+* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+
+* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+
 
 ### Do I need KYC to play Aavegotchi or own GHST token?
 
@@ -133,7 +144,7 @@ Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use 
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### What are maTokens?
-maTokens are aTokens which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
 ### Could CAPTCHA be used to prevent bots?
 No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
@@ -204,8 +215,7 @@ No. The only time these wearables will ever be released is during the pre-launch
 ### Are raffle wearables special?
 
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity 
-class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, 
-whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
 ### How do you transfer raffle tickets?
@@ -225,11 +235,11 @@ Yes. Each wearable has a limited quantity. You can check out the quantity at the
 For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
 ### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
-Each Aavegotchi has its own inventory. When you unequip a wearable from the Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's inventory. 
+Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket. 
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
-At each Aavegotchi's page, there will be an "Items" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's inventory to your personal inventory.
+At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
 ## Portal FAQ
 
@@ -264,7 +274,7 @@ Aavegotchi rarity is based on a bell curve - meaning **both extremely high and e
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after 
 game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the 
-open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
