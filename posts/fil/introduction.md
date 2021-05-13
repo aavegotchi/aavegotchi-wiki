@@ -57,9 +57,9 @@ Ang relasyon sa pagitan ng Collateral Stake, Traits, Wearables, at Kinship ay ma
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
 ## Halaga ng Aavegotchi
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+Nanggagaling ang halaga ng isang Aavegotchi sa intrinsic na value nito at sa kung gaano ito ka-rare.
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **Intrinsic value** Ang intrinsic value ng Aavegotchi ay nagmumula sa halaga ng collateral na nasa loob nito. Kung may naka-deposit na 10 aDAI sa Aavegotchi, ang intrinsic na value nito ay 10 aDAI, plus kung anong dagdag na aDAI na makukuha mula sa Lending Pool. Sa simula, [ERC20](/glossary#erc-20) tokens na nakalista sa Aave platform (aTokens) lang ang pwedeng maging collaterals. Pero sa oras na mai-launch ang AavegotchiDAO, puwedeng pagbotohan ng community ang bagong collaterals na gusto nilang idagdag.
 
 * **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
 
