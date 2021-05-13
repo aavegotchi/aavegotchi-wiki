@@ -9,7 +9,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">街檔攤</p>
+<p class="headerImageText">哥池檔攤</p>
 </div>
 
 「喂.....那里的帥哥美女過一過來。」
@@ -28,24 +28,24 @@ contributors:
 
 「𣎴！」 「我實要左佢！！！」
 
-這就是 鬼馬歌池 街檔市場 啦， 我友啊！ Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+這就是 鬼馬歌池 街檔市場 啦， 我友啊！ 究竟夠唔夠睇光找到及搶個好價格回來呢？ 究竟你受唔受從住爬上嗰條有錢人的階梯呢？
 
-Come and test your mettle! Buyers and sellers alike!
+過去睇吓你武功有多高強！！ 買家賣家一起來吧！！
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#aavegotchi-baazaar>鬼馬哥池街檔</a></li>
+<li><a href=#features>特色</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## 鬼馬哥池街檔
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+鬼馬歌池街檔是官方通用的二手市場。 賣家可以擺上自己的物品轉售獲利。 每件新貨品都有0.1GHST的擺架費。 此費用是用來防止Polygon 上的濫用貨品擺架情況。 此0.1GHST的攞架費不會去到Pixelcraft 工作室或鬼馬哥池DAO 相反，每逢有新貨品創立或更新時，此費用會被銷毀- 送去burn address
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
@@ -53,7 +53,7 @@ Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aaveg
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Features
+## 特色
 There are a variety of products listed on the Baazaar:
 
 * Closed Portals

@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
+* On 12 May 2021, Pixelcraft introduces AGIP7 - Earn XP for Successful Signal Proposals
+* The AGIP was proposed by our Aassistant Moon!
+<p></p>
+
 ## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
 * On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
 <p></p>
