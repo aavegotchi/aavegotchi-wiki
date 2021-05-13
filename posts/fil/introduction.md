@@ -61,10 +61,10 @@ Nanggagaling ang halaga ng isang Aavegotchi sa intrinsic na value nito at sa kun
 
 * **Intrinsic value** Ang intrinsic value ng Aavegotchi ay nagmumula sa halaga ng collateral na nasa loob nito. Kung may naka-deposit na 10 aDAI sa Aavegotchi, ang intrinsic na value nito ay 10 aDAI, plus kung anong dagdag na aDAI na makukuha mula sa Lending Pool. Sa simula, [ERC20](/glossary#erc-20) tokens na nakalista sa Aave platform (aTokens) lang ang pwedeng maging collaterals. Pero sa oras na mai-launch ang AavegotchiDAO, puwedeng pagbotohan ng community ang bagong collaterals na gusto nilang idagdag.
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **Rarity value** Nakukuha ang rarity value sa pamamagitan ng pag-calculate sa rarity ng bawat trait at bawat wearable ng lahat ng Aavegotchi sa in-game universe. Kumpara sa ibang NFT games, hindi naka-fix ang value ng rarity sa Aavegotchi. Puwedeng magbago ang rarity sa paglipas ng panahon habang tumataas ang level ng Aavegotchis at nagsusuot sila ng iba't-ibang wearables. Kaya, ang Aavegotchi na maituturing na bihira ngayong linggo ay puwedeng maging pangkaraniwan sa susunod, at vice versa, depende sa pangkalahatang distribution ng traits at wearables sa loob ng Aavegotchi universe. Dito pumpapasok ang tinatawag na “rarity farming”, na maipapaliwanag sa [page na ito](/rarity-farming).
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
+## Ang Aavegotchi Universe
+Binubuo ang Aavegotchi Universe ng lahat ng mga bagay na nagpapagalaw sa Aavegotchis:
 * [Portals](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
