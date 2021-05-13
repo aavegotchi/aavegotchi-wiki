@@ -34,6 +34,7 @@ contributors: ["eris771"]
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -149,6 +150,13 @@ amTokens come from the Aave money market pools that is native to Polygon.
 Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
 In the Aavegotchi game, the Spirit Force/Collateral used is **maTokens**, and not amTokens.
+
+### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
+QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+
+**Doesn't work**: ETH/USDC -> maUNI/maLINK
+
+**Works**: maUSDC -> maUNI/maLINK
 
 ## Bonding Curve FAQ
 
