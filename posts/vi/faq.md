@@ -91,62 +91,75 @@ Mục FAQ được thiết kế để làm một bài hướng dẫn nhanh với
 
 ### Mình mới chơi Aavegotchi. Làm sao để bắt đầu chơi nhỉ?
 
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 1:</b> Mua <a href="https://wiki.aavegotchi.com/en/ghst" target = "_blank">GHST</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 2:</b> Dùng GHST để mua một <a href="https://wiki.aavegotchi.com/en/portals" target = "_blank">Portal</a></li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 3:</b> Gửi tiền ký quỹ vào Aave để nhận <a href="https://wiki.aavegotchi.com/en/atokens" target = "_blank">aTokens</a> dành cho Aavegotchi mà bạn đã chọn</li></p></ul> 
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 4:</b> Stake aTokens của bạn để nhận nuôi Gotchi</li></p></ul>
-<ul><p style="margin-left: 2.4em"><li><b>BƯỚC 5:</b> Ghé qua trang <a href="https://wiki.aavegotchi.com/en/metaverse" target = "_blank">metaverse!</a></li></p></ul>
+* **STEP 1:** Buy [GHST](/ghst)
 
-Bạn có thể tìm thêm thông tin về lối chơi tại <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">đây.</a>
+* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+
+* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+
+* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+
+* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+
+* **STEP 6:** Play some [Mini-Games](/minigames)
+
+* **STEP 7:** Wait for the [Metaverse](/metaverse) to roll out!
+
+You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
 ### Mình có thể nhận Aavegotchi ở đâu?
 
-Ngày 2 tháng Ba năm 2021 trên Polygon nhé! [Metaverse](/metaverse) sẽ mở sau Quý I 2021.
+2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
 
 ### Khi nào thì mainnet được triển khai?
-Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Polygon vào một ngày khác. Team Aavegotchi đã xác nhận rằng game sẽ được khởi chạy trên Polygon vào ngày 2 tháng Ba năm 2021.
+Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
 ### Giờ mình có thể làm gì?
 
-Hiện tại, bạn có thể:
+Right now, you can:
 
-<ul><p style="margin-left: 2.4em"><li><b>Tham gia vào Rafle để Sở hữu Phụ kiện</b> Cho đến khi mainnet được triển khai, cộng đồng sẽ tổ chức một chuỗi <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffles</a> để bạn có thể stake GHST để lấy FRENS. Với FRENS, bạn có thể tham gia vào bất kì sự kiện raffle nào để có cơ hội giành lấy những phụ kiện cho Aavegotchi của mình.</li></p></ul>
+* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+
+* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+
+* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+
 
 ### Mình có cần KYC trước khi chơi Aavegotchi hoặc nắm giữ token GHST hay không?
 
-Không nha! Bạn chỉ cần hoàn thành KYC để mua GHST trực tiếp từ [bonding curve](/curve). Bạn có thể mua GHST từ [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) mà không cần phải KYC, cũng có thể mua từ [một số sàn giao dịch nhất định](https://www.coingecko.com/en/coins/aavegotchi#markets). Trong khi đó, bạn **không cần phải KYC** để mua [portal](/portals), [chơi minigame](/minigames), [stake GHST](/staking), hoặc bất kỳ khía cạnh nào khác của dự án Aavegotchi.
+No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
-Bảng dưới đây sẽ tóm tắt lại thông tin:
+The table below summarizes the information:
 
 table_kyc
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng [aTokens](/atokens) như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một [nhà đầu tư chính thức](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
+Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Atoken stake vào một Aavegotchi có thể bị thanh lý hay không?
-Không nha. Atoken được stake trong Aavegotchi không thể được dùng như một tài sản thế chấp để vay tiền từ nền tảng Aave. Thật ra, những aToken này không thể bị thanh lý.
+Không nha. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### MaToken là gì?
-maToken là aToken được chuyển đến Polygon. Tương tự như aToken, chúng tự sinh ra lợi nhuận theo thời gian!
+maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
 ### CAPTCHA có thể được dùng để ngăn chặn bot hay không?
-Không nha. Trang web [Aaavegotchi.com](https://aavegotchi.com/) chỉ là một giao diện. Bot vẫn sẽ dễ dàng vượt qua được giao diện này và tương tác trực tiếp với hợp đồng thông minh.
+Không nha. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
-Đây là một tính năng của hợp đồng thông minh. Không có cách nào để khắc phục.
+This is a feature of permissionless blockchains. It cannot be stopped.
 
 ### amToken có giống maToken hay không?
-Không nha. amToken **không** giống maToken.
+Không nha. amTokens are **not** the same as maTokens.
 
-maToken là aToken từ Aave V2 trên Ethereum Mainnet, hiện tại đã có mặt trên Polygon. Chúng được tạo ra bởi [Nick](/team#nick-mudge) để theo kịp tiến độ triển khai của Aavegotchi trên Polygon.
+maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
 
-maToken đến từ các quỹ thị trường tiền tệ của Aave, tồn tại trên Polygon.
+amTokens come from the Aave money market pools that is native to Polygon.
 
-Hai loại token này sẽ có mức sinh lời khác nhau. Với maToken, tỷ lệ sinh lời có thể xem được trên thị trường Aave V2. Với amToken, tỷ lệ sinh lời có thể xem qua thị trường của Aave trên Polygon.
+Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
-Trong trò chơi Aavegotchi, Spirit Force/Collateral chính là **maToken**, không phải amToken.
+In the Aavegotchi game, the Spirit Force/Collateral used is **maTokens**, and not amTokens.
 
 ### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
@@ -188,7 +201,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Does buying a ticket mean I'm entered into the raffle?
 
-Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Will raffle wearables be available in the Aavegotchi store?
@@ -198,7 +211,7 @@ Không nha. The only time these wearables will ever be released is during the pr
 
 ### Are raffle wearables special?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the <a href="https://opensea.io/collection/aavegotchi-wearable-vouchers?referrer=%252Fassets%252F0xe54891774eed9277236bac10d82788aee0aed313%252F13%252Fbid">open market</a>, whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
 ### How do you transfer raffle tickets?
@@ -218,11 +231,11 @@ Yes. Each wearable has a limited quantity. You can check out the quantity at the
 For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
 ### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
-Each Aavegotchi has its own inventory. When you unequip a wearable from the Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's inventory.
+Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
-At each Aavegotchi's page, there will be an "Items" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's inventory to your personal inventory.
+At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
 ## Những câu hỏi về Portal
 
@@ -254,7 +267,7 @@ Aavegotchi rarity is based on a bell curve - meaning **both extremely high and e
 
 ### How much does it cost to play?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables on [OpenSea](https://opensea.io/collection/aavegotchi-wearable-vouchers).
+Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
