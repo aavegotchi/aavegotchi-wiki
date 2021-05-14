@@ -57,3 +57,9 @@ Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
 Link to game [here](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
+
+### Gotchi the Gaatherer
+
+Link to game [here](https://gotchigaatherer.gg/)
+
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
