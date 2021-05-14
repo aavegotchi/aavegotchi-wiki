@@ -38,7 +38,7 @@ Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công b�
 
 ## Mini-games Được Cộng Đồng Tạo Ra
 
-Một số người bạn của bọn mình đã tự tạo ra mini-games!
+Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
 
 ### Reverse Pacman của Paltox
 
