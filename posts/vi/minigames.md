@@ -60,6 +60,6 @@ Chơi tại [đây](https://aavegotchistats.com/td)
 
 ### Gotchi the Gaatherer
 
-Link to game [here](https://gotchigaatherer.gg/)
+Chơi tại [đây](https://gotchigaatherer.gg/)
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
