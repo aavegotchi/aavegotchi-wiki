@@ -259,7 +259,7 @@ export const tables
 				    [`<img src="/wearables/final wearables/97_PillboxHat.svg" alt = "aavegotchi Pillbox Hat"/>`, "97", "Pillbox Hat", "Legendary", "NRG +1, AGG -1, SPK -2", "125", "head"],
 					[`<img src="/wearables/final wearables/98_LadySkirt.svg" alt = "aavegotchi Day Dress"/>`, "98", "Day Dress", "Legendary", "NRG +1, AGG -1, SPK -2", "125", "body"],
 					[`<img src="/wearables/final wearables/99_LadyParasol.svg" alt = "aavegotchi Parasol"/>`, "99", "Parasol", "Mythical", "NRG +1, AGG -1, SPK -3", "50", "hands"],
-					[`<img src="/wearables/final wearables/100_LadyClutch.svg" alt = "aavegotchi Clutch"/>`, "100", "Clutch", "Legendary", "NRG +1, AGG -1, SPK -2", "125", "hands"]
+					[`<img src="/wearables/final wearables/100_LadyClutch.svg" alt = "aavegotchi Clutch"/>`, "100", "Clutch", "Legendary", "NRG +1, AGG -2, SPK -2", "125", "hands"]
 				]
 			}
 		},
