@@ -23,7 +23,7 @@ Với những lập trình viên, các bạn có thể xem Aavegotchi Docs tại
 
 <a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
 
-[Aarchitects](/aarchitect), our community developers, have come up with web applications.
+[Aarchitects](/aarchitect), các lập trình viên cộng đồng của chúng tôi đã sáng tạo ra các ứng dụng web.
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Công cụ Khuyến Nghị Trang Phục / Bảng Xếp Hạng / Phân Phối Điểm
 
