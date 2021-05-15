@@ -1,24 +1,22 @@
 ---
-author: Unintelligent Nerd
+author: 傻子
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aarchitect'
-description: 'Get to know our Aavegotchi Aarchitect here!'
+title: 'Aavegotchi 建筑师'
+description: '在这里了解我们的 Aarchitect 建筑师！'
 contributors:
-  - "unintelligent-nerd"
+  - "傻子"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+迷你工具和分析工具玩的开心吗？ 在这里了解他们的愿望！</p>
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aarchitects>Aarchitects</a></li>
+<li><a href=#aarchitects>建筑师</a></li>
 </ol>
 
 </div>
 
-## Aarchitects
-
-table_aarchitect
+## 建筑师平面设计师
