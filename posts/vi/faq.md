@@ -34,7 +34,7 @@ contributors:
 <p><a href=#what-are-matokens->MaToken là gì?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->CAPTCHA có thể được dùng để ngăn chặn bot hay không?</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->amToken có giống maToken hay không?</a></p>
-<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Tại sao mình không thể swap cặp maLINK/maUNI trên Quickswap được?</a></p>
 <li><a href=#bonding-curve-faq>Những câu hỏi về Bonding Curve</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
