@@ -1,6 +1,6 @@
 ---
-author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+author: 傻子
+date: '2020年4月23日07点00分'
 title: 'Aavegotchi 艺术家'
 description: '在这里了解我们的 Aavegotchi 艺术家！'
 ---
