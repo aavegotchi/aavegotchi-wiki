@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Bạn thấy thích thú với [Mini-Games](/minigames) và các công cụ phân tích đúng hem? Come and get to know the Aarchitects behind them!
+Bạn thấy thích thú với [Mini-Games](/minigames) và các công cụ phân tích đúng hem? Hãy cùng đến và làm quen với các Aarchitect đứng sau nó nhé!
 
 <div class="contentsBox">
 
