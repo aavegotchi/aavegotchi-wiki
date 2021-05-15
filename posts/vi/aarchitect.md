@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aarchitect'
-description: 'Get to know our Aavegotchi Aarchitect here!'
+title: 'Nghệ Sĩ Aavegotchi'
+description: 'Hiểu thêm về Aavegotchi Aartist tại đây!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+Bạn thấy thích thú với [Mini-Games](/minigames) và các công cụ phân tích đúng hem? Come and get to know the Aarchitects behind them!
 
 <div class="contentsBox">
 
