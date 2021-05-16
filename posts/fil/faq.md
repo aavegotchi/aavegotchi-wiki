@@ -215,7 +215,13 @@ As far as gameplay, raffle wearables will offer the same <a href="https://wiki.a
 
 
 ### How do you transfer raffle tickets?
-Raffle Tickets are based on the ERC-1155 standard. Currently, tokens based on this standard can be transferred using the [Opensea](https://opensea.io/) interface. Once at Opensea, connect your metamask and key in the wallet address of the recipient to transfer your raffle tickets to them.
+Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+
+You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.

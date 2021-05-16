@@ -38,7 +38,7 @@ Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công b�
 
 ## Mini-games Được Cộng Đồng Tạo Ra
 
-Một số người bạn của bọn mình đã tự tạo ra mini-games!
+Một vài [aarchitect](/aarchitect) đã tự tạo ra các trò mini game! Hãy chơi thử nhé!
 
 ### Reverse Pacman của Paltox
 
@@ -57,3 +57,9 @@ Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
 Chơi tại [đây](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
+
+### Gotchi the Gaatherer
+
+Chơi tại [đây](https://gotchigaatherer.gg/)
+
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />

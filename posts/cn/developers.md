@@ -23,7 +23,7 @@ description: 'Jump in and help develop this Wiki!'
 
 <a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
 
-Aarchitects, our community developers, have come up with web applications.
+[Aarchitects](/aarchitect), our community developers, have come up with web applications.
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
 
