@@ -2,14 +2,14 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+description: 'Ang Introduction sa Gameplay ng Aavegotchi'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Ang Aavegotchi ay may tunay na kakaibang gameplay na binubuo ng iba't-ibang mga bagay, na pinagsasama ang NFTs at DeFi.
 
 <div class="contentsBox">
 
-**Contents**
+**Nilalaman**
 
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
@@ -23,26 +23,26 @@ Aavegotchi has a truly unique gameplay that consists of multiple elements, blend
 
 ## GHST token
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+Ang [GHST](https://wiki.aavegotchi.com/en/ghst) ay ang governance token at nagsisilbing pera sa ecosystem ng Aavegotchi na siyang pundasyon sa pinaka-aawesome na features ng laro. Puwede mong i-stake ang GHST para makakuha ng FRENS na siyang mako-convert mo bilang Raffle tickets, at magagamit mo ang GHST para bumili ng Portals at wearables, kumita ng dagdag na GHST (abangan!) at iba pa.
 
-You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
+Makabibili ka ng GHST sa Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) o sa paborito mong exchange.
 
 ## Portals
 
-A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+Ang [Portal](https://wiki.aavegotchi.com/en/portals) ay ang device na kailangan mo para ma-summon mo ang iyong Aavegotchi mula sa Nether realm at magsimula sa paglalaro. Sa isang Portal, makakapili ka mula sa 10 iba't-ibang Aavegotchis na may randomly generated traits at mabibigyan mo ng intrinsic value ang iyong pinili sa pamamagitan ng pag-deposit ng Aave-backed ERC20 tokens, o [aTokens](https://wiki.aavegotchi.com/en/atokens) sa pinili mo.
 
-You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
+Makabibili ka ng isang Portal sa Aavegotchi dApp o sa isang external na NFT marketplace tulad ng OpenSea sa halagang humigit-kumulang 100 GHST.
 
 ## Wearables
 
-[Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+Ang [Wearables](https://wiki.aavegotchi.com/en/wearables) ay mahalagang parte ng gameplay ng Aavegotchi. Sa pagsusuot mo ng Wearables sa iyong Aavegotchi, puwede mong mapataas ang rarity score at traits ng iyong cute na alaga nang sa gayon ay gumaling ito sa rarity farming at minigames.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+Puwede ka nang makakuha ng isang Wearable Voucher sa limited edition [Raffles](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) at i-redeem ito para sa katumbas na Wearable kapag nag-launch ang Aavegotchi sa Mainnet.
 
 ## Rarity farming
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+Ang [Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) ay isang minigame kung saan may makukuhang GHST tokens ang mga may-ari ng pinaka-rare na Aavegotchis. Ang layunin ay buuin ang Aavegotchi na may pinakamataas na Final Rarity Score, na nakabase sa kung gaano bihira ang traits at wearables nito.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+Sa bawat pagtatapos ng isang period, na siyang pagdedesisyunan ng AavegotchiDAO, ang mga may-ari ng pinakapambihirang Aavegotchis ay makatatanggap ng hati nila sa GHST rewards.
 
 ## Minigames
