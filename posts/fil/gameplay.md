@@ -35,14 +35,14 @@ Makabibili ka ng isang Portal sa Aavegotchi dApp o sa isang external na NFT mark
 
 ## Wearables
 
-Ang [Wearables](https://wiki.aavegotchi.com/en/wearables) ay mahalagang parte ng gameplay ng Aavegotchi. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+Ang [Wearables](https://wiki.aavegotchi.com/en/wearables) ay mahalagang parte ng gameplay ng Aavegotchi. Sa pagsusuot mo ng Wearables sa iyong Aavegotchi, puwede mong mapataas ang rarity score at traits ng iyong cute na alaga nang sa gayon ay gumaling ito sa rarity farming at minigames.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+Puwede ka nang makakuha ng isang Wearable Voucher sa limited edition [Raffles](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) at i-redeem ito para sa katumbas na Wearable kapag nag-launch ang Aavegotchi sa Mainnet.
 
 ## Rarity farming
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+Ang [Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) ay isang minigame kung saan may makukuhang GHST tokens ang mga may-ari ng pinaka-rare na Aavegotchis. Ang layunin ay buuin ang Aavegotchi na may pinakamataas na Final Rarity Score, na nakabase sa kung gaano bihira ang traits at wearables nito.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+Sa bawat pagtatapos ng isang period, na siyang pagdedesisyunan ng AavegotchiDAO, ang mga may-ari ng pinakapambihirang Aavegotchis ay makatatanggap ng hati nila sa GHST rewards.
 
 ## Minigames
