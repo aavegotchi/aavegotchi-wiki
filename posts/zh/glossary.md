@@ -33,6 +33,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>可穿戴裝備</a></p>
+<p><a href=#ugotchi-token>uGOTCHI Token</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -107,6 +108,15 @@ Spirit Point refers to the point a gotchi gets when it levels up. Kinda like sta
 Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+
+### uGOTCHI Token
+uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of “The Aastronauts”, the first five Aavegotchis to exist on Ethereum.
+
+The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+
+The Collection's Aavegotchis are still able to participate in Rarity Farming.
+
+On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
 
 ## DeFi 101
 
