@@ -112,7 +112,7 @@ Trang phục có thể được nhận thông qua chương trình xổ số Aave
 ### token uGOTCHI
 uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. Vào lúc triển khai, bộ sưu tập này có chứa gotchi được mệnh danh là "The Aastronaunts", năm Aavegotchi đầu tiên xuất hiện trên Ethereum.
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+Bộ sưu tập này bao gồm một vài Aavegotchi hiếm và đắt đỏ nhất hiện nay. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
 
 The Collection's Aavegotchis are still able to participate in Rarity Farming.
 
