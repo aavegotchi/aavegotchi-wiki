@@ -33,13 +33,13 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>Wearables</a></p>
-<p><a href=#ugotchi-token>uGOTCHI Token</a></p>
+<p><a href=#ugotchi-token>token uGOTCHI</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Automated Market Maker</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#automated-market-maker>Trình tạo thị trường tự động (Amm)</a></p>
+<p><a href=#collateral>Tài Sản Thế Chấp</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
@@ -48,7 +48,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#smart-contracts>Hợp đồng thông minh</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
@@ -109,7 +109,7 @@ Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên
 
 Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
 
-### uGOTCHI Token
+### token uGOTCHI
 uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of “The Aastronauts”, the first five Aavegotchis to exist on Ethereum.
 
 The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
@@ -139,14 +139,14 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Automated Market Maker
+### Trình tạo thị trường tự động (Amm)
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
 This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
 
 An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
-### Collateral
+### Tài Sản Thế Chấp
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -213,7 +213,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 
 
 
-### Smart Contracts
+### Hợp đồng thông minh
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
