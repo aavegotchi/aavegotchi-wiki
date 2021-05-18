@@ -110,7 +110,7 @@ Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên
 Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
 
 ### token uGOTCHI
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of “The Aastronauts”, the first five Aavegotchis to exist on Ethereum.
+uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. Vào lúc triển khai, bộ sưu tập này có chứa gotchi được mệnh danh là "The Aastronaunts", năm Aavegotchi đầu tiên xuất hiện trên Ethereum.
 
 The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
 
