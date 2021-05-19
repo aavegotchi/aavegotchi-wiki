@@ -191,6 +191,10 @@ Phương án 2: Không, SigProp sẽ không nhận được XP
 
 **Thời gian vote:**12 - 18 tháng Năm 2021
 
+**Kết quả:**
+
+table_agip7
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
 
 <hr />

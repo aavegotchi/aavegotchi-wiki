@@ -7,6 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -25,6 +26,8 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi 相关内容</a></li>
+<p><a href=#aarchitect>Aarchitect</a></p>
+<p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#frens>FRENS</a></p>
@@ -71,8 +74,14 @@ contributors:
 
 ## Aavegotchi 相关内容
 
+### Aarchitect
+Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+
+### Aartist
+Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+
 ### Aavegotchi
-Aavegotchis是生活在以太坊区块链上的像素幽灵，使用 ERC-721 标准。 它的属性由稀有度决定, 通过多重因素计算, 例如基础特性、 收藏品数量、 以及穿戴 [可穿戴的装备](/rarity-farming)。
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
 ### Baadge
 Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.

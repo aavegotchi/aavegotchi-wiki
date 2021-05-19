@@ -7,6 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
+  - "chinyh"
 ---
 
 <div class="headerImageContainer">
@@ -25,6 +26,8 @@ When you're done reading this and hopefully have a better understanding of these
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
+<p><a href=#aarchitect>Aarchitect</a></p>
+<p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#frens>FRENS</a></p>
@@ -70,6 +73,12 @@ When you're done reading this and hopefully have a better understanding of these
 </div>
 
 ## Aavegotchi-related
+
+### Aarchitect
+Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+
+### Aartist
+Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
 
 ### Aavegotchi
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
