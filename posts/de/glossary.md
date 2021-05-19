@@ -7,6 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -25,6 +26,8 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-verwandt</a></li>
+<p><a href=#aarchitect>Aarchitect</a></p>
+<p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#frens>FRENS</a></p>
@@ -71,8 +74,14 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 
 ## Aavegotchi-verwandt
 
+### Aarchitect
+Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+
+### Aartist
+Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+
 ### Aavegotchi
-Aavegotchis sind pixelförmige Geister, die auf der Ethereum Blockchain leben und durch den ERC-721 Standard unterstützt werden. Ihr Wert wird durch die [Seltenheitsstufe](/rarity-farming) bestimmt, die über mehrere Faktoren berechnet wird, wie z.B. Basis-Eigenschaften, Menge an [hinterlegten Sicherheiten](atokens) und ausgerüstete [Kleidungsstücke](/wearables).
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
 ### Baadge
 Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
