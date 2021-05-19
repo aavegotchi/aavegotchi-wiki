@@ -7,6 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -25,21 +26,23 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 
 <ol>
 <li><a href=#aavegotchi-related>Liên Quan Đến Aavegotchi</a></li>
+<p><a href=#aarchitect>Aarchitect</a></p>
+<p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#baadge>Huy Hiệu</a></p>
+<p><a href=#baadge>Baadge</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#wearables>Wearables</a></p>
-<p><a href=#ugotchi-token>token uGOTCHI</a></p>
+<p><a href=#ugotchi-token>uGOTCHI Token</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Trình tạo thị trường tự động (Amm)</a></p>
-<p><a href=#collateral>Tài Sản Thế Chấp</a></p>
+<p><a href=#automated-market-maker>Automated Market Maker</a></p>
+<p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
@@ -48,7 +51,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Hợp đồng thông minh</a></p>
+<p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Những Thuật Ngữ Chung</a></li>
@@ -71,13 +74,19 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 
 ## Liên Quan Đến Aavegotchi
 
+### Aarchitect
+Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+
+### Aartist
+Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+
 ### Aavegotchi
-Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
 
-### Huy Hiệu
-Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Một khi Huy Hiệu đã được gửi cho Gotchi của bạn, nó sẽ nằm trong Gotchi Pocket mãi mãi.
+### Baadge
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
 
-Có thể kiếm được Huy Hiệu bằng nhiều cách:
+Baadges could be earned in a variety of ways:
 
 * Nhảy lên Top 10/100 của [Rarity Farming](/rarity-farming)
 * Tham Gia Quản Trị
@@ -85,34 +94,34 @@ Có thể kiếm được Huy Hiệu bằng nhiều cách:
 * Phí kỷ lục [mini-game's](/minigames)
 * .....Và nhiều hơn thế nữa!
 
-Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mình sẽ thông báo khi Huy Hiệu được ra mắt.
+Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
 
 ### Haunts
-Haunt là các phiên bản của Aavegotchi. Số hiệu của Haunt sẽ tăng dần (ví dụ Haunt 1 rồi sẽ đến Haunt 2) và những số liệu này có thể thấy được trên Aavegotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
+Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### FRENS
-Là số điểm được dùng để thưởng cho những người stake GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
+Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
 ### Gotchi Pocket
-Mỗi Aavegotchi có một Gotchi Pocket riêng. Chiếc ví này cũng giống như một túi hành trang của Gotchi, cho phép chúng lưu giữ các trang phục được mặc lên người, token GHST nhận được từ [rarity farming](/rarity-farming), và [Huy Hiệu](/glossary#baadge).
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/glossary#baadge).
 
-Về mặt kỹ thuật, Gotchi Pocket là một hợp đồng lưu giữ.
+Technically, a Gotchi Pocket is an escrow address.
 
 ### Spirit Force
-Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) được khoá trong gotchi của bạn. Người chơi có thể nạp thêm hoặc lấy đi lượng Spirit Force này từ Aavegotchi. Tuy nhiên, có mức Spirit Force tối thiểu mà Aavegotchi yêu cầu, điều đó phụ thuộc vào Base Rarity Score của chúng.
+Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### Spirit Point
-Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Wearables
-Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên [tiêu chuẩn ERC-1155](/glossary#erc-1155). Mỗi trang phục có độ hiếm riêng, những chỉ số mà chúng có thể tăng hoặc giảm, số lượng tối đa, và một ô trang bị mà chúng có thể được mặc lên.
+Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
 
-Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
+Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
 
-### token uGOTCHI
-uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. Vào lúc triển khai, bộ sưu tập này có chứa gotchi được mệnh danh là "The Aastronaunts", năm Aavegotchi đầu tiên xuất hiện trên Ethereum.
+### uGOTCHI Token
+uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of “The Aastronauts”, the first five Aavegotchis to exist on Ethereum.
 
-Bộ sưu tập này bao gồm một vài Aavegotchi hiếm và đắt đỏ nhất hiện nay. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
 
 The Collection's Aavegotchis are still able to participate in Rarity Farming.
 
@@ -139,14 +148,14 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Trình tạo thị trường tự động (Amm)
+### Automated Market Maker
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
 This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
 
 An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
-### Tài Sản Thế Chấp
+### Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -213,7 +222,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 
 
 
-### Hợp đồng thông minh
+### Smart Contracts
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
