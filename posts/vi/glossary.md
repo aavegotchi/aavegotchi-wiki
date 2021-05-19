@@ -78,7 +78,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 Các lập trình viên cộng đồng của chúng ta! Hãy xem qua một vài [công cụ](/developers) và [mini-games](/minigames#community-created-mini-games) mà họ đã sáng tạo ra nhé. Xem qua thông tin của các Aarchitects tại [đây](/aarchitect).
 
 ### Aartists
-Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+Những người bạn nghệ sĩ đa tài từ cộng đồng Gotchi. Các Aartists của bon mình đang thiết kế các trang phục Gotchi cực đẹp cho bé ma của bạn. Xem thêm tại [đây](/aartist).
 
 ### Aavegotchi
 Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
@@ -100,81 +100,81 @@ Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mì
 Haunt là các phiên bản của Aavegotchi. Số hiệu của Haunt sẽ tăng dần (ví dụ Haunt 1 rồi sẽ đến Haunt 2) và những số liệu này có thể thấy được trên Aavegotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
 
 ### FRENS
-Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không phải là token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không phải là token. It is technically a balance within the Staking Contract. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
 
 ### Gotchi Pocket
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/glossary#baadge).
+Mỗi Aavegotchi có một Gotchi Pocket riêng. Chiếc ví này cũng giống như một túi hành trang của Gotchi, cho phép chúng lưu giữ các trang phục được mặc lên người, token GHST nhận được từ [rarity farming](/rarity-farming), và [Huy Hiệu](/glossary#baadge).
 
-Technically, a Gotchi Pocket is an escrow address.
+Về mặt kỹ thuật, Gotchi Pocket là một hợp đồng lưu giữ.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+Spirit Force là lượng tài sản thế chấp ([maTokens](/matokens)) được khoá trong gotchi của bạn. Người chơi có thể nạp thêm hoặc lấy đi lượng Spirit Force này từ Aavegotchi. Tuy nhiên, có mức Spirit Force tối thiểu mà Aavegotchi yêu cầu, điều đó phụ thuộc vào Base Rarity Score của chúng.
 
 ### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+Spirit Point được dùng để chỉ điểm số mà gochi có khi nó lên cấp. Khá giống với điểm chỉ số trong game RPG. Bạn có được 1 spirit points cứ mỗi 3 cấp.
 
 ### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên [tiêu chuẩn ERC-1155](/glossary#erc-1155). Mỗi trang phục có độ hiếm riêng, những chỉ số mà chúng có thể tăng hoặc giảm, số lượng tối đa, và một ô trang bị mà chúng có thể được mặc lên.
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
 
 ### token uGOTCHI
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of “The Aastronauts”, the first five Aavegotchis to exist on Ethereum.
+uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. Vào lúc triển khai, bộ sưu tập này có chứa gotchi được mệnh danh là "The Aastronaunts", năm Aavegotchi đầu tiên xuất hiện trên Ethereum.
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+Bộ sưu tập này bao gồm một vài Aavegotchi hiếm và đắt đỏ nhất hiện nay. Thậm chí khi không mặc trang phục, các Aavegotchi này cũng có điểm độ hiếm rất cao và mắt cực hiếm (những chỉ số duy nhất mà trang phục không thể tác động được). Nhưng những Aavegotchi ERC-721 này không phải là những NFT duy nhất trong bộ sưu tập. Mỗi trang phục mà chúng mặc vào cũng là một NFT ERC-1155, và nhiều trong số đó là những vật phẩm cực hiếm và đầy sức mạnh.
 
-The Collection's Aavegotchis are still able to participate in Rarity Farming.
+Bộ Sưu Tập Aavegotchi vẫn có thể tham gia vào Rarity Farming.
 
-On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+Vào ngày 16 tháng Năm, Pixelcraft đã mang Unopened Portal 2, portal có tokenID thấp nhất của Haunt 1, vào bộ sưu tập uGOTCHI.
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
 
 ## Những Thuật Ngữ Quan Trọng
 
 ### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+amToken là những token LP từ quỹ thị trường tiền tệ của Aave trên **Polygon**. chúng **KHÔNG GIỐNG** như [maTokens](/glossary#matokens).
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com/). Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [aTokens](/atokens).
 
 ### Trình tạo thị trường tự động (AMM)
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+Một dạng thị giao thức sàn giao dịch phi tập trung (DEX) dựa trên công thức toán học để định giá tài sản. Thay vì dùng sổ lệnh như những sàn giao dịch truyền thống, tài sản được định giá dựa trên thuật toán định giá.
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+Mỗi giao thức sẽ có một công thức khác nhau. Ví dụ, Uniswap dùng x * y = k, trong đó x là số lượng của một token trong quỹ thanh khoản, và y là số lượng của token còn lại. Trong công thức này, k là một hằng số cố định, nghĩa à tổng số thanh khoản trong quỹ luôn giữ nguyên. Những AMM khác sẽ dùng công thức khác cho những trường hợp đặc thù mà họ hướng tới. Tuy nhiên, điểm tương đồng của chúng là chúng đều dựa trên thuật toán để định giá.
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+AMM hoạt động tương tự như sàn giao dịch sổ lệnh ở chỗ chúng có các cặp giao dịch - ví dụ như ETH/DAI. Tuy nhiên, người dùng sẽ không cần đối tác (một người dùng khác) ở phía bên kia thì mới có thể giao dịch được. Thay vào đó, họ tương tác với hợp đồng thông minh giúp "tạo" thị trường cho bạn.
 
 ### Tài Sản Thế Chấp
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
 
 
-In the context of DeFi, this is how things might look:
+Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. Để làm được điều này, bạn cần phải đưa ra một phần nào đó tài sản của mình để thế chấp. Nếu bạn không trả được khoản vay, giao thức sẽ không trả tài sản thế chấp lại cho bạn.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Trong metaverse của Aavegotchi, tài sản thế chấp còn được gọi là [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
+Viết tắt của cụm từ Decentralized Autonomous Initial Coin Offering. Decentralized Autonomous Initial Coin Offering (DAICO) là một hình thức gây quỹ mới với mong muốn kết hợp những đặc tính nổi trội nhất của Decentralized Autonomous Organization (DAO) với Initial Coin Offering (ICO) để tạo ra một cấu trúc để có thể mang đến một mô hình mở bán token gây vốn với độ hiệu quả cao hơn. DAICO là một mô hình mà trong đó các nhà đầu tư có quyền quyết định đối với ngân quỹ đã nhận được khi quá trình gọi vốn kết thúc. Các nhà đầu tư có sức ảnh hưởng đối với cách thức và mức độ mà những nhà phát triển dự án sử dụng ngân quỹ, thông qua cơ chế "tap". Thêm vào đó, các nhà đầu tư cũng có thể vote cho dự án biến mất và lấy lại tiền của mình.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Hoặc cũng có thể gọi là Decentralized Autonomous Organization. Đây là những tổ được quản trị bởi những quy luật đã được code trong hợp đồng thông minh và được điều khiển bởi các thành viên tham gia. Điều này trái với những mô hình tổ chức truyền thống, thường hướng về việc quản trị thông qua một nhóm nhỏ gồm những nhân vật có thẩm quyền.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+Trong ngữ cảnh của AavegotchiDAO, điều này có nghĩa là các thành viên trong hệ sinh thái sẽ có thể bắt đầu và vote cho các đề xuất có ảnh hưởng đến cách mà những hệ sinh thái lớn hơn sẽ vận hành. Ví dụ, các thành viên có thể đề xuất tăng số lượng Portal được bán theo thời gian, hoặc những tính năng mà họ nghĩ là sẽ giúp cộng đồng được cải thiện.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Nếu muốn tìm hiểu nhiều thông tin hơn về DAOs, vui lòng xem qua [trang này](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 
 
