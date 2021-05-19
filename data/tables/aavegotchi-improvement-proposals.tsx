@@ -88,6 +88,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip7",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, successful SigProps give XP", "4,190,000 GHST (97.81%)"],
+					["No, SigProps should not give XP", "93,780 GHST (2.19%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

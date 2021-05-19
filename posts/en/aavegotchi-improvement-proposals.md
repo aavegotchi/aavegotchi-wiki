@@ -190,6 +190,10 @@ Option 2: No, SigProps should not give XP
 
 **Voting Period:** 12 - 18 May 2021
 
+**Results:**
+
+table_agip7
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
 
 <hr>
