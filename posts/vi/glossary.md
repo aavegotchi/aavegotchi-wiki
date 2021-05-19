@@ -75,18 +75,18 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 ## Liên Quan Đến Aavegotchi
 
 ### Aarchitect
-Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+Các lập trình viên cộng đồng của chúng ta! Hãy xem qua một vài [công cụ](/developers) và [mini-games](/minigames#community-created-mini-games) mà họ đã sáng tạo ra nhé. Xem qua thông tin của các Aarchitects tại [đây](/aarchitect).
 
 ### Aartists
 Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
 
 ### Huy Hiệu
-Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Một khi Huy Hiệu đã được gửi cho Gotchi của bạn, nó sẽ nằm trong Gotchi Pocket mãi mãi.
 
-Baadges could be earned in a variety of ways:
+Có thể kiếm được Huy Hiệu bằng nhiều cách:
 
 * Nhảy lên Top 10/100 của [Rarity Farming](/rarity-farming)
 * Tham Gia Quản Trị
@@ -94,13 +94,13 @@ Baadges could be earned in a variety of ways:
 * Phí kỷ lục [mini-game's](/minigames)
 * .....Và nhiều hơn thế nữa!
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mình sẽ thông báo khi Huy Hiệu được ra mắt.
 
 ### Haunts
-Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+Haunt là các phiên bản của Aavegotchi. Số hiệu của Haunt sẽ tăng dần (ví dụ Haunt 1 rồi sẽ đến Haunt 2) và những số liệu này có thể thấy được trên Aavegotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không phải là token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
 ### Gotchi Pocket
 Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/glossary#baadge).
@@ -179,146 +179,146 @@ For more a more detailed explainer on DAOs, check out [this page](https://blockc
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Cũng được gọi là Decentralized Exchange. Các nền tảng này cho phép người dùng thực hiện các giao dịch trên một mạng lưới ngang hàng, để có thể nhận được token từ ví của chính người dùng, với sự giúp đỡ của hợp đồng thông minh. Khái niệm này trái nghĩa với CEXs (Centralized Exchanges), những sàn giao dịch hoạt động thông qua một người trung gian (chính là các CEX).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Một số ví dụ về DEX bao gồm: Uniswap, Mesa, và Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Một số ví dụ về CEX bao gồm: Binance, Coinbase, và OKex.
 
 
 ### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Bạn có nhớ những điều mà chúng tôi nói về các khoản vay và tài sản thế chấp hay không? Ừ thì, flash loan là một dạng của khoản vay, cũng lòng vòng khái niệm thế chấp tài sản. Tuy nhiên, có một chỗ khá thú vị.
 
-The flash loan has to be repaid within the same transaction block.
+Flash loan phải được trả trong cùng một block giao dịch.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Nếu không trả được, cả giao dịch sẽ bị đảo chiều để có thể huỷ các thao tác diễn ra vào thời điểm trước đó một cách hiệu quả. Bạn có thể đọc thêm về Flash Loans [tại đây](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+Điểm khác nhau giữa việc giữ token trong [trình tạo thị trường tự động (AMM) ](/glossary#automated-market-maker) và giữ trong ví của bạn. Việc này xảy ra khi giá của các token trong AMM đi ngược nhau theo bất kỳ hướng nào. Chúng càng lệch nhau thì tổn thất tạm thời càng lớn. Tổn thất được gọi là "tạm thời" do khi các token được giữ trong AMM trở lại trạng thái ban đầu lúc bạn vừa gửi chúng vào aMM thì tổn thất ấy sẽ biến mất và bạn sẽ kiếm được 100% phí giao dịch. Tuy nhiên, đây là một trường hợp hiếm thấy. Trong hầu hết mọi trường hợp, tổn thất tạm thời trở thành mãi mãi, khiến cho lợi nhuận của bạn suy giảm và khiến bạn âm vốn. Cùng thường được gọi là Tổn thất Phân kỳ.
 
 
 
 ### Quỹ thanh khoản
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+Thuật ngữ này đọc vào có thể tự suy ra được. Các pool (quỹ) của token này được khoá trong hợp đồng thông minh. Chúng lần lượt được dùng để hỗ trợ cho hoạt động giao dịch bằng cách cung cấp thanh khoản.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Để hiểu chi tiết hơn về những thuật ngữ này, vui lòng xem qua [bài hướng dẫn](https://finematics.com/liquidity-pools-explained/) của Finematic.
 
 ### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens đại diện cho [aTokens](/glossary#atokens) của Aave V2 trên [Polygon](/glossary#polygon). Chúng được phát triển bởi [Nick Mudge](/team#nick-mudge) của team chúng tôi.
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Để xem qua bài hướng dẫn về cách chuyển đổi từ token aToken trên Mainnet của Ethereum sang maToken trên trên, vui lòng xem qua bài hướng dẫn về [maTokens](/matokens) này.
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+chúng **Không Giiống/strong> như [maTokens](/glossary#amtokens).</p>
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+Trong game Aavegotchi, **maTokens** được chính là [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Để các Hợp Đồng Thông Minh vận hành, một số điều kiện cần được thoả mãn. Thông tin về sự hiện diện của những điều kiện này cần được đưa vào blockchain thì hợp đồng mới chạy được. Đó là do đặc thù của blockchain không thể truy cập vào những thông tin nằm ngoài chuỗi. Đây là lúc oralce được dùng này. Dữ liệu cần thiết sẽ được cung cấp để có thể kích hoạt hợp đồng thông minh.
 
 
 
 ### Hợp đồng thông minh
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Nói chung, một hợp đồng thông minh là một hợp đồng mà những "điều khoản" giữa những người dùng của hợp đồng, được được viết vào trong bộ code của hợp đồng có thể vận hành một cách tự động. Khi những điều khoản và dịch vụ được đặt trước này thoả mãn các điều kiện thì hợp đồng sẽ được thi hành.
 
 
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking một loại tiền mã hoá có nghĩa là nắm giữ đồng tiền đó để có thể xác thực các giao dịch và hỗ trợ mạng lưới. Đổi lại, các staker sẽ nhận được một vài phần thưởng nào đấy. Ví dụ như trong thới giới của Aavegotchi, những người stake $GHST sẽ được tặng FRENS (điểm) để họ có thể dùng nó mà mua vé và thắng giải trong những sự kiện xổ số định kỳ.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Nói một cách rất dễ hiểu thì yield farming là việc người dùng kiếm tiền thưởng thông qua việc ký gửi và cho vay tài sản trong một giao thức nhất định.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Việc này có thể làm được bằng nhiều cách khác nhau, những cơ chế thường phổ biến nhất là khi người ký gửi/người mượn kiếm coin từ một giao thức, chỉ đơn giản bằng cách stake token ERC-20 và/hoặc stablecoin vào trong nền tảng của họ. Thường thì những phần thưởng này được dùng để khuyến khách những người ký gửi và người mượn để họ có thể thêm thanh khoản vào một nền tảng nhất định.
 
 
 ## Những Thuật Ngữ Chung
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon là một dự án được định hướng bởi cộng đồng và có mã nguồn mở với sứ mệnh tăng cường sự tự do bằng cách tạo ra những công cụ mà các tổ chức phi tập trung có thể sử dụng.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Sản phẩm fligship của dự án là Aragon client, một công cụ để tạo và tham gia vào những tổ chức phân tán trên Ethereum. Dự án cũng đang xây dựng Aragon Network, quyền lực pháp lý kỹ thuật số đầu tiên trên thế giới.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Dự án Aragon được quản lý bởi Tổ chức Aragon, một tổ chức phi lợi nhuận có trụ sở tại Zug, Thuỵ Sĩ, và được quản trị bởi những người nắm giữ token Aragon Network.
 
-Check out their [site](https://aragon.org/) here.
+Xem thêm [website của họ](https://aragon.org/) tại đây.
 
 ### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Bell Curve là một loại hình thức phân bổ phổ biến cho một biến và cũng được xem là một hình thức phân bổ bình thường. Thuật ngữ "bell curve" bắt nguồn từ việc biểu đồ được dùng để miêu tả một sự phân bổ bình thường hàm chứa một đường cong đối xứng hình quả chuông. Xem thêm [trang này](https://www.investopedia.com/terms/b/bell-curve.asp) để có thêm thông tin.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+Verifiable Randomness Function (VRF) được vận hành bởi ChainLink nhằm tạo ra những kết quả ngẫu nhiên có thể được kiểm chứng ngay trên blockchain. Nó được dùng để cung cấp bằng chứng cho việc các hợp hợp đồng thông minh thực ra đang sử dụng một công cụ xác thực tạo ra sự ngẫu nhiên mà họ không thể điều khiển. Trong dự án Aavegotchi, Chainlink VRF được dùng để tạo ra ngẫu nhiên [các đặc tính ](/traits) vào thời điểm mở [portal](/portals) và giải thưởng xổ số.
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Đọc thêm về Chainlink VRF tại [đây](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 ### Diamond Standard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+The Diamond Standard được tạo ra bởi người anh em [Nick Mudge](/team#nick-mudge) của chúng tôi. Diamond Standard cho phép người dùng viết những bản hợp đồng theo một mô đun mà trong đó không hề có giới hạn về kích thước và tiết kiệm gas.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Diamond có thể được nâng cấp lên nhanh chóng mà không cần phải tái vận hành những chức năng đã tồn tại.
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+Nó giúp chuẩn hoá giao diện của hợp đồng và thao tác trang bị những chi tiết của diamond, cho phép việc cài đặt phần mềm và hoạt động liên chuỗi.
 
-A diamond is a contract that implements the Specification in this standard.
+Diamond là một loại hợp đồng được trang bị những Đặc điểm kỹ thuật trong tiêu chuẩn này.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Hãy nhấp vào [đây](https://eips.ethereum.org/EIPS/eip-2535) để xem thông tin chi tiết.
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Một tiêu chuẩn token dành cho token có thể thay thế được, hay nói cách khác, chúng có một chức năng giúp mỗi Token sẽ giống hệt (về loại và giá trị) với một Token khác. Chúng có những chức năng ví dụ như chuyển khoản từ tài khoản này sang tài khoản khác, biết được số dư của token đó trong một tài khoản riêng lẻ cũng như tổng lượng cung của token tồn tại trên mạng lưới. Bên cạnh đó, nó cũng cung cấp những chức năng ví dụ như cho phép một tài khoản chứa token có thể tiêu xài token đó thông qua một tài khoản của bên thứ ba. Xem thêm tại [đây](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Một tiểu chuẩn mở, miễn phí miêu tả cách mà những token không thể thay thế hoặc độc nhất trên blockchain của Ethereum. Trong khi đã số các token đề có nhiều phiên bản khác nhau (mỗi token đề tương tự như những token khác) thì các ERC-721 đều là độc nhất.
 
-Think of them like rare, one-of-a-kind collectables.
+Hãy xem chúng như những món đồ sưu tập hiếm có, và độc nhất.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-721, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 là một bản mở rộng của tiêu chuẩn [ERC-721](/glossary#erc-721) và nó cho [token non-fungible](/glossary#nft) khả năng để có thể sở hữu những token non-fungible và token ERC-20 khác.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Token Non-fungible theo chuẩn ERC998 cũng được trang bị chuẩn ERC-721.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Nếu muốn xem một bài giải thích chi tiết về tiêu chuẩn ERC-998, hãy xem qua [here](https://eips.ethereum.org/EIPS/eip-998).
 
 ### ERC-1155
-A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+Một tiêu chuẩn token tuyệt vời hướng đến việc thường hưởng những tính năng tuyệt vời nhất của những tiêu chuẩn trước nhằm tạo ra một hợp đồng token đa năng về mặt phân kỳ và tiết kiệm phí gas. Chỉ cần một hợp đồng được triển khai thôi cũng có thể kết hợp được token đa bản, token độc bản hoặc những tuỳ chỉnh khác (như bán độc bản).
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+Có thể đọc thêm tại [đây](https://eips.ethereum.org/EIPS/eip-1155) và [đây](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Metaverse là một thế giới ảo, nơi mà bạn có thể tương tác với nhiều khía cạnh khác nhau của thế giới (như game và shop) cũng như với những người chơi khác.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Một vài ví dụ về metaverse là <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> cùng với những dự án như Second Life và Decentraland.
 
-### Non-Fungible Token
+### Non-Fungible Token (NFT)
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Non-fungible token (NFT) là một loại token mã hoá đặc biệt đại diện cho một thứ gì đó **độc đáo**, nghĩa là nó không thể được dùng để swap sang bất kỳ loại token nào. Non-fungible tokens đại diện cho quyền sở hữu các vật phẩm như phụ kiện, tranh ảnh nghệ thuật, hoặc bất kỳ loại tài sản nào khác.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+**Trái nghĩa** với non-fungible token là những token có thể dùng để trao đổi với những token cùng loại như USDC hoặc Bitcoin. Token có thể được swap theo tỷ lệ 1:1 thành một coin cùng loại được gọi là fungible token.
 
 ### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Polygon là một giải pháp mở rộng cho các blockchain công khai. Dựa trên công nghệ framework Plasma (Plasma MoreVP), với phương thức triển khai dựa trên tài khoản, Polygon hỗ trợ tất cả các công cụ dành cho Ethereum đang tồn tại với những giao dịch nhanh và rẻ hơn.
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+Để chuyển token từ Mainnet của Ethereum sang Matic Network, vui lòng xem qua [bày hướng dẫn](/polygon)này.
 
-Read more about Polygon [here](https://matic.network/).
+Đọc thêm về Polygon tại [đây](https://matic.network/).
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) là một loại cơ chế đồng thuận mà các blockchain có thể dùng để cùng nhau chập thuận duy nhất một bản gi dữ liệu lịch sử đúng sự thật. Trong một blockchain PoS, validator thực hiện stake tài sản để chứng thực (hay xác thực) sự tồn tại của những block (khối giao dịch).
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validator là những người tham gia vào mạng lưới những người chạy các node (được gọi là validators nodes) để đề nghị và chứng thực những khối giao dịch nằm trên mọt blockchain PoS. Họ thực hiện công việc này bằng các stake tiền điện tử (trong trường hợp của Ethereum 2.0, ETH) trên mạng lưới và khiến chúng có thể được ngẫu nhiên nhằm đề xuất một khối giao dịch. Những validator khác sau đó sẽ "chứng thực" rằng họ đã thấy khối giao dịch đó. Khi một số lượng lớn hoạt động chứng thực các khối giao dịch đã được ghi nhận, khối giao dịch đó sẽ được thêm vào blockchain. Validator nhận được phần thưởng khi đề xuất các khối giao dịch thành công (giống như cách hoạt động trong PoW) và khi chứng thực cho những khối giao dịch mà họ đã thấy.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Đọc thêm về cơ chế đồng thuận Proof of Stake tại [đây](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+Quickswap là một sàn giao dịch phi tập trung (DEX) không đồng thuận chạy trên Ethereum, vận hành thông qua kiến trúc L2 với khả năng mở rộng của [Matic Network](/glossary#polygon). Bằng cách sử dụng L2 để thực hiện giao dịch, người dùng Quickswap sẽ có thể giao dịch bất kỳ tài sản ERC20 nào với tốc độ nhanh như sấm mà phí gas giao dịch thì gần như bằng không.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+Truy cập vào Quickswap tại [đây](https://quickswap.exchange).
