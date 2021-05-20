@@ -9,7 +9,7 @@ contributors:
 
 ## [Mở rộng Bộ Sưu Tập uGOTCHI!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
 * Vào ngày 16 tháng Năm, Pixelcraft đã mang Unopened Portal 2, portal có tokenID thấp nhất của Haunt 1, vào bộ sưu tập uGOTCHI
-* Baadge Snapshot diễn ra vào thứ Hai, ngày 17 tháng Năm lúc 10 giờ đêm UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
+* Baadge Snapshot diễn ra vào thứ Hai, ngày 17 tháng Năm lúc 10 giờ đêm UTC. Những ai muốn kiếm Huy hiệu cho Aavegotchi nên cung cấp thanh khoản trước khi snapshot!
 <p></p>
 
 ## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
