@@ -8,8 +8,8 @@ contributors:
 ---
 
 ## [Mở rộng Bộ Sưu Tập uGOTCHI!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
-* On 16 May 2021, Pixelcraft announces that they have added Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI Collection on Unic.ly
-* The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
+* Vào ngày 16 tháng Năm, Pixelcraft đã mang Unopened Portal 2, portal có tokenID thấp nhất của Haunt 1, vào bộ sưu tập uGOTCHI
+* Baadge Snapshot diễn ra vào thứ Hai, ngày 17 tháng Năm lúc 10 giờ đêm UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
 <p></p>
 
 ## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
