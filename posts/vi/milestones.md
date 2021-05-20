@@ -204,25 +204,25 @@ contributors:
 ## [Kết Thúc Sự Kiện Raffle Với Chủ Đề Aave!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
 * Thông báo cập nhật cho cộng đồng được đăng vào ngày 12 Tháng Mười Hai năm 2020!
 * Ngày 4 Tháng Giêng 2021 được xác định là ngày khởi chạy trò chơi!
-* Sự kiện Raffle chủ đề Aavegotchi là một thành công vang dội! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+* Sự kiện Raffle chủ đề Aavegotchi là một thành công vang dội! số lượng vé tăng lên đến 66% so với sự kiện Raffle chủ đề Chainlink
+* Binance niêm yết token GHST
+* Giúp một bồ tèo! Một ồ tèo đã gửi toàn bộ LINK mà anh ta đang có vào hợp đồng staking của GHST :(
+* Buổi Tiệc Kỷ Niệm 3 Tháng Của GHST vào ngày 14 Tháng Mười Hai năm 2020!
+* Jesse thuyết trình với CGC về "INTEROPERABLE AVATARS ĐỂ XÂY DỰNG MỘT GAME WEB3 MMORPG VĨ ĐẠI" (Xem thêm nếu bạn muốn tại [media ](/posts/media) của chúng tôi nhé!)
 <p></p>
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [Aavegotchi dự kiến được triển khai vào ngày 4 Tháng Giêng năm 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* Vào ngày 12 Tháng Mười Hai năm 2020, Coindesk đăng tải một bài báo để công bố ngày triển khai trò chơi Aavegotchi vào ngày 4 Tháng Giêng năm 2021. Bạn có háo hứng không? Tôi thì có đấy!
 <p></p>
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [Aave thông báo sẽ có thêm những NFT chủ đề Aave được thêm vào sự kiện Raffle Aavegotchi sắp tới](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* Vào ngày 6 Tháng Mười Hai năm 2020, Aave thông báo rằng Aave * Aavegotchi Fireside Chat vào ngày 8 Tháng Mười Hai năm 2020 để triển khai sự kiện Raffle với chủ đề Aave
+* Sự kiện Raffle chủ đề Aave sẽ có thêm NFT Frens4Ever! Hãy săn tìm CoderDangotchi và Jessegotchi nếu bạn muốn!
 <p></p>
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
+## [Học Giả Aavegotchi! Wiki của Aavegotchi Đây Rồi!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Wiki của Aavegotchi được triển khai vào ngày 27 Tháng Mười Hai năm 2020. Aagents ơi, chúng tôi cần các bạn quảng bá trang wiki!
+* Aavegotchi được đề cử tận 2 lần tại Giải thưởng NFT của năm 2020. Woohoo!
 * Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
 <p></p>
 
