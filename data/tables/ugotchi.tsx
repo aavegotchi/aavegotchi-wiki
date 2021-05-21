@@ -66,4 +66,20 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "valuation",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Token ID", "Appraised Value (ETH)", "Appraised Value (USD)"],
+                data: [
+					["Terence Mckenna", "1549", "90", "$319,500.00"],
+					["Machine Elf", "8062", "11.27", "$40,008.50"],
+					["Stoned Ape", "4479", "7", "$24,850.00"],
+					["Ayahuasca", "9106", "15.77", "$55,983.50"],
+					["Clockwork Elf", "1306", "57", "$202,350.00"],
+					["Unopened Portal 2", "2", "77", "$273,350.00"]
+                ]
+            }
+        },
     ]
