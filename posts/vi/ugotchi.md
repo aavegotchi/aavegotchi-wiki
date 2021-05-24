@@ -102,16 +102,16 @@ Các luận điểm dưới đây đã được Bên Thẩm Định xem xét:
 
 1. Mỗi Aavegotchi là một token ERC-721. Mỗi trang phục được mặc vào cho Aavegotchi cũng là những vật sưu tập ERC-1155.
 
-2. Tất cả những NFT này được giao dịch tại [Baazaar](/baazaar) và được định giá bằng GHST (giá mỗi đồng hiện tại là 1,34 usd). Mình thực sự khuyên các bạn nên dùng các bộ lọc và tìm hiểu giá cả. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. Tất cả những NFT này được giao dịch tại [Baazaar](/baazaar) và được định giá bằng GHST (giá mỗi đồng hiện tại là 1,34 usd). Mình thực sự khuyên các bạn nên dùng các bộ lọc và tìm hiểu giá cả. Bạn có thể tìm thấy một trong số những thương vụ lớn nhất tại trang thông tin [Aavegotchistats](https://twitter.com/GotchiStats)  được fan vận hành trên Twitter.
 
-3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
+3. Các trang phục Godlike là các trang phục hiếm nhất, với chỉ tổng cộng 5 phiên bản tồn tại. Tiếp theo đó là trang phục Mythical. Các Gotchi trong bộ sưu tập Unicly đều mặc nhiều đồ Godlike và Mythical.
 
-4. These 5 Aavegotchis are called the Aastronauts because they are the first gotchis to be bridged to Ethereum.
+4. 5 Aavegotchgi này được gọi là Aastronaut bởi chúng là những gotchi đầu tiên được bridge sang Ethereum.
 
-5. The Unopened Portal is the first portal to be bridged to Ethereum. It also has an extremely low ID (#2).
+5. Unopened Portal cũng là chiếc portal đầu tiên được bridge sang Ethereum. Nó có số ID vô cùng thấp (#2).
 
-6. The Aavegotchi ecosystem is large and growing with over 30 million DAI deposited in the GHST [token bonding curve](/curve). The [AavegotchiDAO](/dao) has accumulated 1 million+ in the DAO treasury so far. There are more than 30k followers on Twitter and 10k active members in Discord. In addition, the Baazaar NFT market has significant and consistent volume. Aavegotchi typically ranks in the Top 10 on Analytics sites such as [DappRadar](https://dappradar.com/).
+6. Hệ sinh thái của Aavegotchi rất rộng lớn và đang được mở rộng với hơn 30 triệu DAI được gửi vào [bonding curve ](/curve) của token GHST. [AavegotchiDAO](/dao) đã góp nhặt được hơn 1 triệu GHST vào quỹ DAO cho đến hiện tại. Có hơn 30k người theo dõi trên Twitter và 10k thành viên hoạt động tích cực trên Discord. Thêm vào đó, chợ NFT Baazaar có khối lượng giao dịch lớn và bền vững. Aavegotchi được xếp hạng vào Top 10 tại các trang phân tích như [DappRadar](https://dappradar.com/).
 
-7. When Aavegotchi first launched their 10,000 Portals in March 2021, they were sold out in less than a minute.
+7. Khi Aavegotchi lần đầu tiên phát hành 10k Portal vào tháng Ba năm 2021, chúng đã được bán hết sạch chỉ trong vòng một phút.
 
-8. The Aastronauts are continually farming GHST tokens directly into their "NFT wallet" feature by winning Rarity Farming rewards every two weeks. (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
+8. The Aastronauts đang liên tục farm token GHST trực tiếp vào "ví NFT" của chúng, đây là phần thưởng nhận được từ Rarity Farming cứ mỗi 2 tuần. (Một mình Terence McKenna kiếm được 40.000 GHST trước thời điểm giữa tháng Sáu). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
