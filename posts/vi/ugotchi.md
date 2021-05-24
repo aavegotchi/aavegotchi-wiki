@@ -94,15 +94,15 @@ Hãy nhấp [vào đây](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6
 
 ## Định giá
 
-On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+Vào ngày 18 tháng Năm 2021, Pixelcraft đã thông báo rằng bên thẩm định giá đã có kết luận về giá thẩm định của các Aastronaunt trong bộ sưu tập uGOTCHI. Ở mức giá của ETH là 3550 đô la, các nhà thẩm định đã nhận định rằng bộ sưu tập này sẽ trị giá 258.04 ETH hoặc 916.042 đô la Mỹ. Việc đánh giá từng cá nhân trong bộ sưu tập này được phản ánh trong bảng dưới đây.
 
 table_valuation
 
-The following points of consideration were made to the Appraisers:
+Các luận điểm dưới đây đã được Bên Thẩm Định xem xét:
 
-1. Each Aavegotchi is an ERC-721. Each wearable that is equipped is also a collectible ERC-1155.
+1. Mỗi Aavegotchi là một token ERC-721. Mỗi trang phục được mặc vào cho Aavegotchi cũng là những vật sưu tập ERC-1155.
 
-2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (currently going for 1.34 each). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. Tất cả những NFT này được giao dịch tại [Baazaar](/baazaar) và được định giá bằng GHST (giá mỗi đồng hiện tại là 1,34 usd). Mình thực sự khuyên các bạn nên dùng các bộ lọc và tìm hiểu giá cả. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
 
 3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
 
