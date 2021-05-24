@@ -127,44 +127,44 @@ Bộ Sưu Tập Aavegotchi vẫn có thể tham gia vào Rarity Farming.
 
 Vào ngày 16 tháng Năm, Pixelcraft đã mang Unopened Portal 2, portal có tokenID thấp nhất của Haunt 1, vào bộ sưu tập uGOTCHI.
 
-For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
+Để xem thêm về The Aastronaunt và token uGOTCHI, hãy xem qua [trang uGOTCHI](/ugotchi).
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" là viết tắt của cụm từ **De**centralized **Fi**nance. Khái niệm này có thể xem là một hệ sinh thái của các ứng dụng và giao thức có khả năng cung cấp những dịch vụ tương tự như các tổ chức tài chính truyền thống (ví dụ như vay tiền, và nhận lợi nhuận từ tiền tiết kiệm, v. v.). Tuy nhiên, có một điểm khác nhau cực kì quan trọng - DeFi hướng đến việc cung cấp dịch vụ phân tán mà không cần có trung gian.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Điều này có nghĩa là sẽ không có ngân hàng này có thể ăn chia lợi nhuận mà bạn có thể nhận về hoặc làm cho lãi suất tiền gửi của bạn bị âm được. Điều này cũng có nghĩa là không hề có một trung điểm nào mà khi sập có thể làm toàn bộ hệ thống toang theo, hoặc không bị bắt buộc phải tuân theo quyết định đã được chỉ đích hoặc cài cắm bởi một nhóm nhỏ những người nắm trong tay quyền lực tập trung.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Khi trang này đang được viết ra (Tháng 12 năm 2020), Total Value Locked (Tổng Giá Trị Được Ký Gửi) trong DeFi đã đạt con số 14.24 tỷ USD.
 
 ## Những Thuật Ngữ Quan Trọng
 
 ### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+amToken là những token LP từ quỹ thị trường tiền tệ của Aave trên **Polygon**. Chúng **KHÔNG GIỐNG** như [maTokens](/glossary#matokens).
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY là viết tắt của Annual Percentage Yield (Phần Trăm Lãi Mỗi Năm). Đây là một tỷ lệ nhận về thật, có được từ số tiền gửi tiết kiệm mà bạn đã gửi vào một giao thức, cộng theo hiệu ứng lãi kép từ tiền lãi của bạn.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com/). Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [aTokens](/atokens).
 
 ### Trình tạo thị trường tự động (AMM)
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+Một dạng thị giao thức sàn giao dịch phi tập trung (DEX) dựa trên công thức toán học để định giá tài sản. Thay vì dùng sổ lệnh như những sàn giao dịch truyền thống, tài sản được định giá dựa trên thuật toán định giá.
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+Mỗi giao thức sẽ có một công thức khác nhau. Ví dụ, Uniswap dùng x * y = k, trong đó x là số lượng của một token trong quỹ thanh khoản, và y là số lượng của token còn lại. Trong công thức này, k là một hằng số cố định, nghĩa à tổng số thanh khoản trong quỹ luôn giữ nguyên. Những AMM khác sẽ dùng công thức khác cho những trường hợp đặc thù mà họ hướng tới. Tuy nhiên, điểm tương đồng của chúng là chúng đều dựa trên thuật toán để định giá.
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+AMM hoạt động tương tự như sàn giao dịch sổ lệnh ở chỗ chúng có các cặp giao dịch - ví dụ như ETH/DAI. Tuy nhiên, người dùng sẽ không cần đối tác (một người dùng khác) ở phía bên kia thì mới có thể giao dịch được. Thay vào đó, họ tương tác với hợp đồng thông minh giúp "tạo" thị trường cho bạn.
 
 ### Tài Sản Thế Chấp
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+Tài Sản Ký Gửi là một khái niệm khá thẳng thừng. Nó dùng để chỉ những tài sản mà bạn có thể đưa cho người chủ cho vay để đảm bảo, khi bạn mượn tiền từ họ. Nếu bạn không trả lại khoản vay, tài sản thế chấp của bạn sẽ được dùng để trả nợ.
 
 
-In the context of DeFi, this is how things might look:
+Trong ngữ cảnh của ngành DeFi, mọi thứ nó như thế này:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Giả dụ như bạn muốn mượn tài sản nào đó từ một giao thức. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
