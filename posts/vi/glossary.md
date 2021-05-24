@@ -119,7 +119,7 @@ Quần áo/trang bị mà Aavegotchi của bạn đang mặc. Chúng dựa trên
 Trang phục có thể được nhận thông qua chương trình xổ số Aavegotchi hoặc mua trong [Aavegotchi Maall](/maall) bằng [token GHST](/ghst).
 
 ### token uGOTCHI
-uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+uGOTCHI được đúc ra từ [Unicly](https://www.unic.ly/) và đại diện cho quyền sở hữu trực tiếp đối với bố sưu tập uGOTCHI. Vào lúc được ra mắt, bộ sưu tập này có chứa gotchi được mệnh danh là "The Aastronaunts", năm Aavegotchi đầu tiên xuất hiện trên Ethereum.
 
 Bộ sưu tập này bao gồm một vài Aavegotchi hiếm và đắt đỏ nhất hiện nay. Thậm chí khi không mặc trang phục, các Aavegotchi này cũng có điểm độ hiếm rất cao và mắt cực hiếm (những chỉ số duy nhất mà trang phục không thể tác động được). Nhưng những Aavegotchi ERC-721 này không phải là những NFT duy nhất trong bộ sưu tập. Mỗi trang phục mà chúng mặc vào cũng là một NFT ERC-1155, và nhiều trong số đó là những vật phẩm cực hiếm và đầy sức mạnh.
 
