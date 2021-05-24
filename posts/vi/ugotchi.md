@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'uGOTCHI Collection'
-description: 'uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly'
+description: 'uGOTCHI - Một bộ sưu tập các Aavegotchi hiếm được phân mảnh thông qua Unicly'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -12,9 +12,9 @@ contributors:
 <p class="headerImageText">Terence McKenna</p>
 </div>
 
-"Sir. It has been a pleasure to get to know you."
+"Thưa sếp. Rất vinh dự được quen biết sếp."
 
-The Gotchi Minister salutes Terence McKenna and his team.
+Bộ Trưởng Gotchi vẫy chào Terence McKenna và đồng đội của anh ta.
 
 The team took one last look at the beautiful world of Polygon before stepping into the spacecraft.
 
