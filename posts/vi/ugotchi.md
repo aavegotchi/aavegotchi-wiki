@@ -16,9 +16,9 @@ contributors:
 
 Bộ Trưởng Gotchi vẫy chào Terence McKenna và đồng đội của anh ta.
 
-The team took one last look at the beautiful world of Polygon before stepping into the spacecraft.
+Cả đội ngoài nhìn hành tinh Polygon xinh đẹp một lần cuối trước khi bước vào phi thuyền.
 
-On 15 April 2021, history was made. Captain Terence McKenna and his team successfully crossed Polygon into the New World of Ethereum.
+Vào ngày 15 tháng Tư 2021, lịch sử đã sang trang mới. Đội Trưởng Terence McKenna và đồng đội của mình đã thực hiện thành công chuyến hành trình vượt Polygon để đến Thế Giới Mới của Ethereum.
 
 <div class="contentsBox">
 
@@ -32,19 +32,19 @@ On 15 April 2021, history was made. Captain Terence McKenna and his team success
 <p><a href=#ayahuasca>Ayahuasca</a></p>
 <p><a href=#clockwork-elf>Clockwork Elf</a></p>
 <p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
-<li><a href=#ugotchi-token>token uGOTCHI</a></li>
-<li><a href=#valuation>Valuation</a></li>
+<li><a href=#ugotchi-token>Token uGOTCHI</a></li>
+<li><a href=#valuation>Định giá</a></li>
 </ol>
 
 </div>
 
 ## The Aastronauts
 
-The Aastronauts are a collection of **5 rare Aavegotchis** and **1 rare Unopened [Portal](/portals)** that have been fractionalized/sharded through [Unicly](https://www.unic.ly/). The team is led by Terence McKenna.
+The Aastronauts là bộ sưu tập gồm  **5 Aavegotchis hiếm ** và **1 Unopened [Portal hiếm](/portals)** được phân mảnh thông qua [Unicly](https://www.unic.ly/). Terence McKenna chính là đội trưởng của team.
 
-The Aastronauts are participants in [Rarity Farming](/rarity-farming) and would receive rarity farming rewards as well. Unfortunately, as no one is petting these Gotchis, their [Kinship](/traits#kinship) level is dropping. In the future, a pet operator can be assigned to pet these Gotchis.
+The Aastronauts chũng tham gia vào [Rarity Farming](/rarity-farming) và nhận được phần thưởng từ rarity farming. Thật không may, do không ai pet những Gotchi này nên [điểm Kinship](/traits#kinship) của chúng thấp dần đi. Trong tương lai, một người chăm sóc hộ nào đó sẽ có thể pet những Gotchi này.
 
-Clicking on the image of an Aastronaut will bring you to its [profile page](/aavegotchi-profile).
+Khi nhấp vào bức ảnh của một Aastronaunt, bạn sẽ được chuyển sang [trang thông tin](/aavegotchi-profile).
 
 ### Terence McKenna
 
@@ -92,7 +92,7 @@ The uGOTCHI Token is a good way for people who are interested to get exposure to
 
 Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
 
-## Valuation
+## Định giá
 
 On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
 
