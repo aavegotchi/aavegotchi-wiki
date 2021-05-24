@@ -78,7 +78,7 @@ table_clockworkElf
 
 ### Unopened Portal 2
 
-On 16 May 2021, Pixelcraft announces that they are adding a final member to the Aastronauts Collection. Unopened Portal 2 is the third lowest tokenID of Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
+Vào ngày 16 tháng Năm 2021, Pixelcraft công bố về việc bổ sung thành viên cuối cùng vào Bộ Sưu Tập Aastronaunts. Unopened Portal 2 là token có tokenID thấp thứ 3 của Haunt 1. Pixelcraft Studios đã mua lại nó trên Baazaar với giá 60.000 GHST và nó đã được chuyển sang Ethereum và gửi vào bộ sưu tập Aastronaunts.
 
 <a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
 
@@ -86,11 +86,11 @@ On 16 May 2021, Pixelcraft announces that they are adding a final member to the 
 
 <img src = "/ugotchi/ugotchi-token.svg" alt = "token uGOTCHI" />
 
-The uGOTCHI Token allows token holders to have direct ownership of the Aastronauts. The total supply of the uGOTCHI token is fixed at 1,000,000. Hence, the amount of uGOTCHI tokens that you have represents the percentage of ownership over the entire Aastronauts collection.
+Token uGOTCHI cho phép người nắm giữ chúng sở hữu trực tiếp bộ sưu tập Aastronaunt. Tổng số lượng uGOTCHI hiện tại đang cố định ở mức 1 triệu. Do đó, lượng token uGOTCHI mà bạn có thể hiện tỷ lệ nắm giữ của bạn đối với cả bộ sưu tập Aastronaunt.
 
-The uGOTCHI Token is a good way for people who are interested to get exposure to a collection of rare Gotchis. For those who do not have the time to own and care for a Gotchi, the uGOTCHI token is a passive way to invest in a very good set of Aavegotchis for price appreciation. Of course, with every investment, this comes with risk of loss as well.
+Token uGOTCHI là rất thích hợp với những ai mong muốn được tiếp cận với bộ sưu tập các Gotchi hiếm. Với những ai không có thời gian sở hữu và chăm sóc cho Gotchi, token uGOTCHI là cách thức bị động để đầu tư vào một bộ sưu tập Aavegotchi tốt về giá thành. Tất nhiên, trong mọi hình thức đầu tư, các rủi ro mất mát luôn tìm ẩn.
 
-Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
+Hãy nhấp [vào đây](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)để xem bộ sưu tập uGOTCHI trên Unicly.
 
 ## Định giá
 
