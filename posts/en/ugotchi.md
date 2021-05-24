@@ -81,7 +81,9 @@ On 16 May 2021, Pixelcraft announces that they are adding a final member to the 
 
 <a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
 
-## uGOTCHI Token <img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI Token">
+## uGOTCHI Token
+
+<img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI Token">
 
 The uGOTCHI Token allows token holders to have direct ownership of the Aastronauts. The total supply of the uGOTCHI token is fixed at 1,000,000. Hence, the amount of uGOTCHI tokens that you have represents the percentage of ownership over the entire Aastronauts collection.
 
