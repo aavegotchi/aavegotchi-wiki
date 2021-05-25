@@ -58,14 +58,14 @@ Chơi tại [đây](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
-### Gotchi the Gaatherer by BitFlicker
+### Gotchi the Gaatherer của BitFlicker
 
 Chơi tại [đây](https://gotchigaatherer.gg/)
 
 <img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
-### Sushi Vader by ricJones | Grizzy
+### Sushi Vader của ricJones | Grizzy
 
-Link to game [here](https://gregwoodsfrontier.github.io/)
+Chơi tại [đây](https://gregwoodsfrontier.github.io/)
 
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Portal Rider Aavegotchi Mini-Game" />
