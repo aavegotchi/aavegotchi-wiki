@@ -68,3 +68,9 @@ Link to game [here](https://gotchigaatherer.gg/)
 Link to game [here](https://gregwoodsfrontier.github.io/)
 
 <img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game">
+
+### Snaake by SpyceBringer
+
+Link to game [here](https://snaake.gg/)
+
+<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game">
