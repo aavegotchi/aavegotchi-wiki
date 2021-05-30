@@ -97,6 +97,8 @@ Baadges could be earned in a variety of ways:
 
 Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
 
+Check out the [Baadge](/baadge) page for the complete list of Baadges.
+
 ### Haunts
 Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
@@ -104,7 +106,7 @@ Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
 ### Gotchi Pocket
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/glossary#baadge).
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
 Technically, a Gotchi Pocket is an escrow address.
 
