@@ -1,25 +1,25 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baard'
-description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
+title: 'Aavegotchi Baazaar'
+description: 'Aavegotchi Baards - Những Gotchi phúc hậu, yêu thích những niềm vui'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Twas the night before Haalloween,
+Hôm ấy là đêm trước ngày Haalloween
 
-when all thru the Tavern,
+khi mọi thứ đã lướt qua Tavern
 
-every Gotchi was singing,
+mọi Gotchi đều hát vang,
 
-every Rofl is rollin' on the floor laughin' (rofl-ing);
+mọi Rofl đều cừ ẻ trên sàn (cừ ereeee);
 
-The Baards were plucking their haarps,
+Uyển chuyển đôi tay The Baards gãy đàn,
 
 the baagpipes were creating a merry tune.
 
-Twas the night before Haalloween,
+Hôm ấy là đêm trước ngày Haalloween
 
 where Gotchis come out to play!
 
