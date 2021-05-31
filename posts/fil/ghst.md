@@ -18,16 +18,16 @@ Ayos ang paggalaw ng price at pagte-trade, pero ano nga ba ang iba pang magagawa
 
 Ang token ay dinisenyo na maging salapi ng Aavegotchi ecosystem para sa pagbili ng iba't-ibang on-chain assets sa laro. Kasama sa assets na ito ang Portals, wearables, consumables, collectibles, at iba pa. Bukod rito, may iba pang mga gamit ang GHST, tulad ng staking at voting power para sa DAO.
 
-Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
+Lagyan mo ng laman ang bags mo, fren – sa parte ng Wiki na 'to, susuriin natin nang malapitan ang makinang at purple na tokens ng laro.
 
 <div class="contentsBox">
 
-**Contents**
+**Nilalaman**
 
 <ol>
-<li><a href=#why-ghst>Why GHST?</a></li>
-<li><a href=#using-ghst>Using GHST</a></li>
-<li><a href=#buying-ghst>Buying GHST</a></li>
+<li><a href=#why-ghst>Bakit GHST?</a></li>
+<li><a href=#using-ghst>Paggamit sa GHST</a></li>
+<li><a href=#buying-ghst>Pagbili ng GHST</a></li>
 <li><a href=#earning-ghst>Earning GHST</a></li>
 </ol>
 
@@ -40,7 +40,7 @@ Players have to buy GHST and spend it in the process of summoning and training A
 
 For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
-## Using GHST
+## Paggamit sa GHST
 What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
 
 These include:
@@ -50,7 +50,7 @@ These include:
 * Buying [REALM parcels](/metaverse) (more information TBC)
 * [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
 
-## Buying GHST
+## Pagbili ng GHST
 Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
 
 * Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
