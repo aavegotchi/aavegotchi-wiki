@@ -2,7 +2,7 @@
 author: letsgobankless
 date: '2020-11-28T07:00:00.000Z'
 title: 'GHST Token'
-description: 'The eco-governance token of Aavegotchi'
+description: 'Ang eco-governance token ng Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">GHST Token</p>
 </div>
 
-Price action and trading is cool, but what else can you do with Aavegotchi’s native token, GHST?
+Ayos ang paggalaw ng price at pagte-trade, pero ano nga ba ang iba pang magagawa sa GHST, ang native token ng Aavegotchi?
 
-The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Aavegotchi assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, GHST also has several other functions, such as staking and enabling players to vote in the DAO.
+Ang token ay dinisenyo na maging salapi ng Aavegotchi ecosystem para sa pagbili ng iba't-ibang on-chain assets sa laro. Kasama sa assets na ito ang Portals, wearables, consumables, collectibles, at iba pa. Bukod rito, may iba pang mga gamit ang GHST, tulad ng staking at voting power para sa DAO.
 
 Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
 
