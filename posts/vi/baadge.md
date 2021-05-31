@@ -7,14 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Một khi Huy Hiệu được gửi cho Gotchi, nó sẽ tồn tại trong [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) mãi mãi.
 
 Có thể kiếm được Huy Hiệu bằng nhiều cách:
 
-* Getting into the Top 10/100 for Rarity Farming
+* Đạt Top 10/100 của Rarity Farming
 * Tham Gia Quản Trị
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
+* Bỏ phiếu cho những quyết định lớn trong AavegotchiDAO
+* Phá kỹ lục mini-game
 * .....Và nhiều hơn thế nữa!
 
 Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mình sẽ thông báo khi Huy Hiệu được ra mắt.
@@ -24,12 +24,12 @@ Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mì
 **Nội dung**
 
 <ol>
-<li><a href=#list-of-baadges>List of Baadges</a></li>
+<li><a href=#list-of-baadges>Danh sách Huy Hiệu</a></li>
 </ol>
 
 </div>
 
-## List of Baadges
+## Danh sách Huy Hiệu
 
 table_baadge
 
