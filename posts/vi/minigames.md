@@ -70,8 +70,8 @@ Chơi tại [đây](https://gregwoodsfrontier.github.io/)
 
 <img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
-### Snaake by SpyceBringer
+### Snaake của SpyceBringer
 
-Link to game [here](https://snaake.gg/)
+Chơi tại [đây](https://snaake.gg/)
 
 <img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />

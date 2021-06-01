@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baard'
-description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
+title: 'Aavegotchi Baazaar'
+description: 'Aavegotchi Baards - Những Gotchi phúc hậu, yêu thích những niềm vui'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Twas the night before Haalloween,
+Hôm ấy là đêm trước ngày Haalloween
 
-when all thru the Tavern,
+khi mọi thứ đã lướt qua Tavern
 
-every Gotchi was singing,
+mọi Gotchi đều hát vang,
 
-every Rofl is rollin' on the floor laughin' (rofl-ing);
+mọi Rofl đều cừ ẻ trên sàn (cừ ereeee);
 
-The Baards were plucking their haarps,
+Uyển chuyển đôi tay The Baards gãy đàn,
 
-the baagpipes were creating a merry tune.
+chiếc kèn túi vang những giai điệu nồng nàn.
 
-Twas the night before Haalloween,
+Hôm ấy là đêm trước ngày Haalloween
 
-where Gotchis come out to play!
+nơi Gotchi tới cùng chơi!
 
 <div class="contentsBox">
 
@@ -29,19 +29,19 @@ where Gotchis come out to play!
 
 <ol>
 <li><a href=#baards>Baards</a></li>
-<li><a href=#music>Music</a></li>
+<li><a href=#music>Âm nhạc</a></li>
 </ol>
 
 </div>
 
 ## Baards
 
-Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
+Baards là những nhạc sĩ cũng chúng ta trong cộng đồng Aavegotchi. Hãy xem qua [bài viết trên AavegotchiDAO ](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) để biết về nguồn cảm hứng phía sau vào trò the Baards nhé.
 
 table_baard
 
-## Music
+## Âm nhạc
 
-Our Baards have created some very aavesome soundtracks. Check them out here!
+Baards của bọn mình đã tạo ra những bản nhạc rất tuyệt vời. Hãy xem qua nhé!
 
-* [Aavegotchi.com Minigame Chiptunes created by jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
+* [Aavegotchi.com Minigame Chiptunes sáng tác bởi jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
