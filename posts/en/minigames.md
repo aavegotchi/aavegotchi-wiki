@@ -65,7 +65,7 @@ Link to game [here](https://gotchigaatherer.gg/)
 
 ### Sushi Vader by ricJones | Grizzy
 
-Link to game [here](https://gregwoodsfrontier.github.io/)
+Link to game [here](https://sushivader.com/)
 
 <img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game">
 
