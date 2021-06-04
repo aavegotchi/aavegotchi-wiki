@@ -66,7 +66,7 @@ Chơi tại [đây](https://gotchigaatherer.gg/)
 
 ### Sushi Vader của ricJones | Grizzy
 
-Chơi tại [đây](https://gregwoodsfrontier.github.io/)
+Chơi tại [đây](https://sushivader.com/)
 
 <img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
