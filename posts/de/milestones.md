@@ -7,6 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
+<p></p>
+
+## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
+* On 9 June 2021, Pixelcraft announces that the Aavegotchi GHST token is now listed on Crypto.com's app!
+<p></p>
+
 ## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
 * On 25 May 2021, Pixelcraft introduces the V2 of the Aavegotchi Aambassadors Program!
 * An Aavegotchi Aambassador is responsible for spreading the Gospel of Gotchi to those who haven’t discovered us yet.
