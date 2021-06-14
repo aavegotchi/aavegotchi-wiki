@@ -23,9 +23,11 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Einzigartiger, nicht-transferierbarer Hintergrund für Haunt 1 Gotchis</a></li>
 <li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Hinzufügen einer Baazaar-Gebühr für Rarity Farming</a></li>
 <li><a href=#earn-xp-for-successful-signal-proposals>XP für erfolgreiche Signal Proposals verdienen</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name des Aavegotchi Marktplatzes</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENS verdienen mit GHST-USDC LP Tokens</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Anzahl Portale in einer Transaktion</a></li>
+<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -199,7 +201,41 @@ table_agip7
 
 <hr />
 
-### Name des Aavegotchi Marktplatzes
+### Voting power based on BRS
+**Aavegotchi Improvement Proposal #8**
+
+**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+
+Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+
+Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+
+Option 2: No, Aavegotchis shouldn’t have Voting Power
+
+**Voting Period:** 11 - 17 June 2021
+
+[Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
+
+<hr />
+
+### Voting power based on Wearables' Maall Price
+**Aavegotchi Improvement Proposal #9**
+
+**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+
+Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+
+Option 1: Yes, give Voting Power to Wearables based on Maall Price
+
+Option 2: No, Wearables shouldn’t have Voting Power
+
+**Voting Period:** 11 - 17 June 2021
+
+[Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
+
+<hr />
+
+### Name of Aavegotchi Marketplace
 **Snapshot Abstimmungen**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -228,7 +264,7 @@ table_marketplaceName
 
 <hr />
 
-### FRENS verdienen mit GHST-USDC LP Tokens
+### Eligibility of GHST-USDC LP tokens to earn FRENS
 
 **Snapshot Abstimmungen**
 
@@ -254,7 +290,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Anzahl Portale in einer Transaktion
+### Portals purchased in one transaction
 
 **Snapshot Abstimmungen**
 
