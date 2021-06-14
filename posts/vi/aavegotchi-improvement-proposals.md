@@ -222,13 +222,13 @@ Phương án 2: Không, Aavegotchi không nên có quyền bỏ phiếu
 ### Quyền bỏ phiếu dựa trên Giá Trang Phục trong Maall
 **Aavegotchi Improvement Proposal #9**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**Tóm tắt đề xuất:** Trao quyền bỏ phiếu của trang phục cho Aavegotchi ở trong tài khoản bỏ phiếu.
 
 Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+Phương án 1: Vâng, trao quyền bỏ phiếu cho trang phục dựa trên giá ở Maall
 
-Option 2: No, Wearables shouldn’t have Voting Power
+Phương án 2: Không, trang phục không nên có quyền bỏ phiếu
 
 **Thời gian vote:**11 - 17 tháng Năm 2021
 
@@ -239,15 +239,15 @@ Option 2: No, Wearables shouldn’t have Voting Power
 ### Quan hệ đối tác giữa AavegotchiDAO, Pixelcraft, và DinoSwap
 **Aavegotchi Improvement Proposal #10**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**Tóm tắt Đề Xuất:** Một vài thành viên trong cộng đồng khá lo lắng về vấn đề thanh khoản của GHST trên Quickswap đang vơi đi và phần thưởng LP đang sụt giảm. Thay vì chỉ tăng thêm thanh khoản cho quỹ, bọn mình đang xem xem xét hợp tác với dự án một dự án tăng thanh khoản sớm được triển khai có tên gọi là DinoSwap. Điều khoản bao gồm việc cung cấp lượng token GHST trị giá 200k USD vào extinction pool có phần thưởng khuyến khích của họ và chi tiết đã được liệt kê phía dưới đây.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Option 1: Yes, let's partner with DinoSwap
+Phương án 1: Đồng ý, chúng ta sẽ hợp tác với DinoSwap
 
-Option 2: No, don't partner with Dinoswap
+Phương án 2: Không, không nên hợp tác với Dinoswap
 
-**Voting Period:** 13 - 20 June 2021
+**Thời gian vote:**13 - 20 tháng Năm 2021
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
