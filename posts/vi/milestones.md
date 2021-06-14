@@ -7,8 +7,8 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
-* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
+## [Bỏ Phiếu Cho AGIP8 và AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIP 8 và chính đã lên sóng vào ngày 11 tháng Sáu 2021! Read the details here and go vote!
 <p></p>
 
 ## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
