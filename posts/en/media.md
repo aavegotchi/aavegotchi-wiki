@@ -14,6 +14,10 @@ Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7aKRn0Avyxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Jesse shares about AavegotchiDAO in the Blockchain Gaming Alliance Panel (7 May 2021)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWvaTXa54FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
