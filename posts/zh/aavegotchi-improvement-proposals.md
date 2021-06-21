@@ -215,6 +215,10 @@ Option 2: No, Aavegotchis shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
+**Results:**
+
+table_agip8
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
 
 <hr />
@@ -232,6 +236,10 @@ Option 2: No, Wearables shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
+**Results:**
+
+table_agip9
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
 
 <hr />
@@ -248,6 +256,10 @@ Option 1: Yes, let's partner with DinoSwap
 Option 2: No, don't partner with Dinoswap
 
 **Voting Period:** 13 - 20 June 2021
+
+**Results:**
+
+table_agip10
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
