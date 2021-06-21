@@ -100,6 +100,42 @@ export const tables
         },
 		
 		{
+            tableName: "agip8",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, give Gotchis voting power", "4,020,000 GHST (96.09%)"],
+					["No voting power for Gotchis", "146,760 GHST (3.51%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip9",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, give Wearables voting power", "3,230,000 GHST (79.83%)"],
+					["No voting power for Wearables", "799,900 GHST (19.75%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip10",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, let's partner with DinoSwap", "3,360,000 GHST (98.08%)"],
+					["No, don't partner with DinoSwap", "65,950 GHST (1.92%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
