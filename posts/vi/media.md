@@ -11,7 +11,7 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
-### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Tường Thuật Buổi AMA Cùng DinoSwap từ No Futuristic (ngày 18 tháng Sáu 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/7aKRn0Avyxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
