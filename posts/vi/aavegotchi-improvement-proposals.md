@@ -215,6 +215,10 @@ Phương án 2: Không, Aavegotchi không nên có quyền bỏ phiếu
 
 **Thời gian vote:**11 - 17 tháng Năm 2021
 
+**Kết quả:**
+
+table_agip8
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
 
 <hr />
@@ -222,15 +226,19 @@ Phương án 2: Không, Aavegotchi không nên có quyền bỏ phiếu
 ### Quyền bỏ phiếu dựa trên Giá Trang Phục trong Maall
 **Aavegotchi Improvement Proposal #9**
 
-**Tóm tắt đề xuất:** Trao quyền bỏ phiếu của trang phục cho Aavegotchi ở trong tài khoản bỏ phiếu.
+**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
 
 Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Phương án 1: Vâng, trao quyền bỏ phiếu cho trang phục dựa trên giá ở Maall
+Option 1: Yes, give Voting Power to Wearables based on Maall Price
 
-Phương án 2: Không, trang phục không nên có quyền bỏ phiếu
+Option 2: No, Wearables shouldn’t have Voting Power
 
 **Thời gian vote:**11 - 17 tháng Năm 2021
+
+**Kết quả:**
+
+table_agip9
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
 
@@ -239,15 +247,19 @@ Phương án 2: Không, trang phục không nên có quyền bỏ phiếu
 ### Quan hệ đối tác giữa AavegotchiDAO, Pixelcraft, và DinoSwap
 **Aavegotchi Improvement Proposal #10**
 
-**Tóm tắt Đề Xuất:** Một vài thành viên trong cộng đồng khá lo lắng về vấn đề thanh khoản của GHST trên Quickswap đang vơi đi và phần thưởng LP đang sụt giảm. Thay vì chỉ tăng thêm thanh khoản cho quỹ, bọn mình đang xem xem xét hợp tác với dự án một dự án tăng thanh khoản sớm được triển khai có tên gọi là DinoSwap. Điều khoản bao gồm việc cung cấp lượng token GHST trị giá 200k USD vào extinction pool có phần thưởng khuyến khích của họ và chi tiết đã được liệt kê phía dưới đây.
+**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Phương án 1: Đồng ý, chúng ta sẽ hợp tác với DinoSwap
+Option 1: Yes, let's partner with DinoSwap
 
-Phương án 2: Không, không nên hợp tác với Dinoswap
+Option 2: No, don't partner with Dinoswap
 
-**Thời gian vote:**13 - 20 tháng Năm 2021
+**Voting Period:** 13 - 20 June 2021
+
+**Kết quả:**
+
+table_agip10
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
@@ -256,23 +268,23 @@ Phương án 2: Không, không nên hợp tác với Dinoswap
 ### Các marketplace (thị trường trao đổi) dành cho Aavegotchi
 **Vote bằng Snapshot**
 
-**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
-Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
-Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
+What should we call the official Aavegotchi Marketplace?
 
-Lựa chọn A: Aavegotchi Baazaar
+Choice A: Aavegotchi Baazaar
 
-Lựa chọn B: Aavegotchi Maarket
+Choice B: Aavegotchi Maarket
 
-Lựa chọn C: Không chọn 2 đáp án trên
+Choice C: Neither
 
-Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
 
-Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
+If "Neither" wins...you guys better start coming up with some good alternatives!
 
-**Thời gian vote:**8 - 11 tháng Hai 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Kết quả:**
 
@@ -286,19 +298,19 @@ table_marketplaceName
 
 **Vote bằng Snapshot**
 
-**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
-Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
-Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 
-Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
+We are setting a 500,000 GHST quorum for this vote to be enacted.
 
-Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Thời gian vote:**8 - 11 tháng Hai 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Kết quả:**
 
@@ -312,11 +324,11 @@ table_ghstUsdcLp
 
 **Vote bằng Snapshot**
 
-**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
-Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
-Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
 
 * Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
 
@@ -324,17 +336,17 @@ Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra m�
 
 * Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
 
-Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 
-Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
+Let your $GHST token speak for you, and vote!
 
-Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-Chủ đề thảo luận của AavegotchiDAO 👇
+AavegotchiDAO discussion topic 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Thời gian vote:**23 - 26 tháng Hai 2021
+**Voting Period:** 23 - 26 February 2021
 
 **Kết quả:**
 
