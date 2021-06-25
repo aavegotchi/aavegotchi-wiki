@@ -27,6 +27,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#jc>JC</a></li>
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
+<li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -95,7 +96,18 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 <img class="leftImage" src="/team/coyote.png" alt = "Coyote">
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Coyote</a></p>
 </div>
+
 Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+
+## Jason Chew
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/jason-chew.jpg" alt = "Jason Chew">
+<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Jason Chew</a></p>
+</div>
+
+Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
+
 
 ## Origins
 
