@@ -46,6 +46,8 @@ Come and test your mettle! Buyers and sellers alike!
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
+There is a minimum price of 1 GHST. This is for the total listing, so you can list multiple items for 1 GHST (e.g. common raffle tickets) and they'll show up as fractions of GHST each.
+
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar">
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
