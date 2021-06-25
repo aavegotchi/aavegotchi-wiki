@@ -6,19 +6,17 @@ description: 'Aavegotchi Metaverse에 대한 모든 것 :)'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
-<img src="/metaverse/metaverse.png" class="headerImage">
+<img src="/metaverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
 <p class="headerImageText">Aavegotchi 왕국</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>고치들은 오늘도 열일중입니다!</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">Aavegotchi 왕국은 현재 건설 중입니다. metaverse가 점점 성장할수록, 여기 metaverse page도 점점 커져갈 것입니다. 다가올 업데이트를 첫번째로 알고 싶거나 예정된 개발에 관해 토론을 하고 싶다면 <a href="https://discord.com/invite/3fkAkdS"> 디스코드로 넘어오세요 </a></p>
+Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
 
-환영합니다, 친구들! 여러분은 Aavegotchi 왕국을 돌아다니고 있는 중입니다 - 이곳은 Aavegotchi들이 생활하고 일하며, 뛰어노는, 고전적이면서도, 이차원적이며, 픽셀로 이루어진 아주 멋진 곳입니다. 이곳은 Aavegotchi의 모든 일생에 함께 소통할 수 있으며 심지어 스스로 무언가를 만들어 갈 수 있습니다! 
-
-<p style="font-size:13px;">여기서 잠시! 용어가 헷갈리시다면... : <a href="https://wiki.aavegotchi.com/glossary#metaverse"> Metaverse가 뭔가요? </a> 를 참고해주세요!</p>
+The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the Liquidators, their creators.
 
 <a name="Realm"></a>
 
@@ -27,40 +25,125 @@ contributors:
 ** 목차 **
 
 <ol>
-<li><a href=#Realm>왕국에서의 활동</a></li>
-<li><a href=#Land>토지 소유</a></li>
+<li><a href=#zones>Zones</a></li>
+<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
+<li><a href=#realm-gameplay>REALM Gameplay</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
+<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
+<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 </ol>
 
 </div>
 
-&nbsp;
+## Zones
 
-<p style="font-size:25px;"><b>왕국에서의 삶</b></p>
+The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
 
-Aavegotchi 왕국은 우리가 말하고 상상하는 만큼 커져갑니다. 이 곳에서 지금까지 metaverse에서 할 수 있는 몇가지 활동들에 대해 알아봅시다.
+* The Citaadel
+* The Grid
+* The Beyond
 
-<ul><p style="margin-left: 2.4em"><b><li>다른 고치(Gotchis)들과 소통하기</li></b></p></ul>
+### The Citaadel
 
-<p style="margin-left: 4.8em">안녕! 인사하면서 안부를 전하는 건 어떨까요? 고치의 친구들을 방문하고 새로운 친구들을 만들어가봐요</p>
+Protected by a Force Field that keeps out Liquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Towers cannot be built in the Citaadel, except for in special areas around the Great Portal.
 
-<ul><p style="margin-left: 2.4em"><b><li>미니게임</li></b></p></ul>
+#### The Great Portal
 
-<p style="margin-left: 4.8em">여러분의 고치를 경쟁에 참여시키세요! Metaverse에 있는 모든 게임에서 승리할 때 여러분의 Aavegotchi를 레벨업시키세요!</p>
+A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/metaverse#gotchus-alchemica) harvested from the Gotchiverse.
 
-<ul><p style="margin-left: 2.4em"><b><li>DAO에서 투표하기</li></b></p></ul>
+### The Grid
 
-<p style="margin-left: 4.8em">Aavegotchi 왕국에서 여러분의 목소리를 내세요! Aavegotchi의 미래를 위한 투표를 하기 위해 metaverse의 거버넌스 건물로 향하세요!</p>
+The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- Liquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
 
-<ul><p style="margin-left: 2.4em"><b><li>Babysitter을 찾을 수도 있습니다!</li></b></p></ul>
+#### The Aarena
+A key landmark in the Grid is the Aarena.
 
-<p style="margin-left: 4.8em">생태계가 점점 성장하게 되면, 여러분이 자리를 비울 때 Aavegotchi를 돌봐줄 누군가를 찾을 수 있게 됩니다! <a href="https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/edit#heading=h.2g1uoi1shr1d">친밀도</a>는 아베고치를 돌볼 때 굉장히 중요한 요소기 때문에, 아베고치 metaverse에서 이러한 종류의 서비스를 더 많이 찾을 수 있게 될 것입니다.</p>
-<a name="Land"></a>
-<p style="font-size:25px;"><b>나만의 땅은 어떻게 가질 수 있을까요?</b></p>
+Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
 
-Gotchiverse에서 여러분의 창조물로도 Aavegotchi 경험을 도울 수 있습니다. 왕국의 구역은 Aavegotchi의 상점에서 구매할 수 있을 것입니다. 여러분의 구획은 Aavegotchi scene builder을 통해 꾸밀 수 있으며, 다른 스마트 컨트랙트와 상호작용이 가능하도록 여러분의 땅에 dApps를 추가할 수도 있을 것입니다. 만약 이것으로 충분하지 않다면, 왕국의 영역들은 ** GHST를 스테이킹함으로써 새로운 특성들을 이용할 수 있도록 개선, 강화될 것입니다 :)**
+Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/atokens) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
 
-정말 너무나도 기대가 되지 않나요?!<img src="/metaverse/aavegotchiwave.png" alt = "aavegotchi" width="70" height="60" />
+Liquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows Liquidators to enter.
 
-<p style="font-size:13px; font-style:italic;">* Aavegotchi metaverse 또는 Gotchiverse는 둘다 공식적으로 명명된 "Aavegotchi Realm(왕국)"을 지칭합니다.</a></p>
+### The Beyond
 
-<p style="font-size:13px; font-style:italic;">우리의 Aavgotchi 왕국은 현재 빠르게 개발중이며 이 페이지 역시 우리가 성장함에 따라 지속적으로 개선될 것입니다. 여전히 의문점이 남으셨나요? 그렇다면 <a href="https://wiki.aavegotchi.com/socialmedia" target = "_blank">우리의 커뮤니티 채널</a>에서 우리와 함께 얘기합시다! :)</p>
+Locked Parcels that will not be unlocked until the beginning of Act 2.
+
+## REALM Parcel Sizes
+
+Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+
+* Humble: Contain smol deposits of Alchemica and building space
+* Reasonably Sized: Contain reasonable deposits of Alchemica and building space
+* Spacious: Contain huge deposits of Alchemica and building space
+
+*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+
+<img class="bodyImage" src="/metaverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+
+## REALM Gameplay
+
+Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
+
+The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+
+Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great Liquidator invasion.
+
+Players that possess Liquidator Credits can opt to play as Liquidators. Liquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+
+The main goal of a Liquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+
+Liquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+
+## Socializing in the Gotchiverse
+
+Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+
+By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+
+Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting Liquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [stats](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+
+<img class="bodyImage" src="/metaverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+
+## Gotchus Alchemica
+
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
+
+<img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
+
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
+
+* **Alchemical Channeling**: Aavegotchis can channel their energy directly into the REALM Parcel, exchanging their [Kinship](/traits#kinship) for a helping of Alchemica.
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
+* **Harvesting**: Aavegotchis and Liquidators can roam the map, collecting loose Alchemica spilled from mining.
+
+## Building on REALM parcels
+
+**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+
+Confirmed Installations include:
+
+table_installations
+
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+
+**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+
+## REALM Tokenomics
+
+### Total Supply
+
+The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+
+### Distribution
+
+REALM Parcels will be distributed in two main ways:
+
+Method 1: Incentivized GBM Auctions (80%)
+
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. If a bidder is outbid, their bid will be refunded, alongside an “incentive” reward in GHST.
+
+Method 2: Raffle (20%)
+
+The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other Raffle tickets at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
