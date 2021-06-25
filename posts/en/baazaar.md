@@ -48,6 +48,15 @@ The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sel
 
 There is a minimum price of 1 GHST. This is for the total listing, so you can list multiple items for 1 GHST (e.g. common raffle tickets) and they'll show up as fractions of GHST each.
 
+When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
+* 2% to Pixelcraft Studios
+* 1% to AavegotchiDAO
+* 0.5% to Rarity Farming reward pool
+
+All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+
+Buyers may buy 1, some, or all of a multiple item listing.
+
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar">
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
@@ -64,7 +73,7 @@ There are a variety of products listed on the Baazaar:
 * Consumables
 * Raffle Tickets
 
-The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
+The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 
 Other features included in the Baazaar are:
 
