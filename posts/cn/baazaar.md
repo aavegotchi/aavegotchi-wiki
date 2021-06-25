@@ -47,9 +47,18 @@ contributors:
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Baazaar" />
+When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
+* 2% to Pixelcraft Studios
+* 1% to AavegotchiDAO
+* 0.5% to Rarity Farming reward pool
 
-更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
+All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+
+Buyers may buy 1, some, or all of a multiple item listing.
+
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
+
+Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
@@ -63,7 +72,7 @@ There are a variety of products listed on the Baazaar:
 * Consumables
 * Raffle Tickets
 
-The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
+The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 
 Other features included in the Baazaar are:
 
