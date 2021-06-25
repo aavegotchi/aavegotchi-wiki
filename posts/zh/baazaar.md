@@ -47,6 +47,15 @@ contributors:
 
 鬼馬歌池街檔是官方通用的二手市場。 賣家可以擺上自己的物品轉售獲利。 每件新貨品都有0.1GHST的擺架費。 此費用是用來防止Polygon 上的濫用貨品擺架情況。 此0.1GHST的攞架費不會去到Pixelcraft 工作室或鬼馬哥池DAO 相反，每逢有新貨品創立或更新時，此費用會被銷毀- 送去burn address
 
+When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
+* 2% to Pixelcraft Studios
+* 1% to AavegotchiDAO
+* 0.5% to Rarity Farming reward pool
+
+All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+
+Buyers may buy 1, some, or all of a multiple item listing.
+
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
@@ -63,7 +72,7 @@ There are a variety of products listed on the Baazaar:
 * Consumables
 * Raffle Tickets
 
-The Baazaar comes equipped with a Sort function to help buyers narrow down their choices.
+The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 
 Other features included in the Baazaar are:
 
