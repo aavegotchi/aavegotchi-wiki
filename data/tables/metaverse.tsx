@@ -26,8 +26,8 @@ export const tables
 					["Towers", "Towers are offensive structures that can be built to protect against Liquidator raids. They can be upgraded to improve their traits. Towers cannot be built inside the Citaadel premises, except in certain special regions."],
 					["Black Hole", "Black Holes are powerful, mystical objects that exert a gravitational pull on all nearby Liquidators, slowly draining their health and bringing them closer towards the Parcel."],
 					["NPC as Dapps", "Dapps will be playable directly within the Gotchiverse. An early example of this will be the GotchiDEX dapp, a DEX specially created for providing liquidity for the Gotchus Alchemica. A developer SDK will be created to allow other developers to re-skin their smart contract frontends to work as NPCs within the Gotchiverse."],
-					["Antennas", ""],
-					["Display Cases", ""]
+					["Antennas", "Antennas are used for in-parcel voice chat among Gotchis. We are frenly and sociable!"],
+					["Display Cases", "Inviting a Gotchi fren over to your parcel? Show off your Art, Baadge, and Trophy NFTs in Display Cases."]
 				]
             }
         }		
