@@ -226,13 +226,13 @@ table_agip8
 ### Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken
 **Aavegotchi Improvement Proposal #9**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**Zusammenfassung des Vorschlags:** Hinzufügen von Stimmgewicht für Kleidungsstücke in der abstimmenden Adresse.
 
 Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+Option 1: Ja, Kleidungsstücke erhalten Stimmrecht basierend auf dem Maall-Preis
 
-Option 2: No, Wearables shouldn’t have Voting Power
+Option 2: Nein, Kleidungsstücke sollten kein Stimmgewicht geben
 
 **Abstimmungszeitraum:** 11. - 17. Juni 2021
 
@@ -247,15 +247,15 @@ table_agip9
 ### Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap
 **Aavegotchi Improvement Proposal #10**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**Zusammenfassung des Vorschlags: ** Einige Community-Mitglieder sind besorgt über die schwindende Liquidität von GHST auf Quickswap und ihre allmählich abnehmenden LP-Belohnungen. Anstatt dem Pool einfach mehr Liquidität zuzuweisen, erwägen wir eine Partnerschaft mit einem bald startenden Liquiditätsaggregator namens DinoSwap. Die Bedingungen beinhalten insgesamt 200k USD an GHST Token, die den "Extinction Pools" zugeteilt werden, deren Details weiter unten beschrieben werden.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Details zum AGIP gibt es [hier](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Option 1: Yes, let's partner with DinoSwap
+Option 1: Ja, gehen wir eine Partnerschaft mit DinoSwap ein
 
-Option 2: No, don't partner with Dinoswap
+Option 2: Nein, keine Partnerschaft mit DinoSwap
 
-**Voting Period:** 13 - 20 June 2021
+**Abstimmungszeitraum:** 13. - 20. Juni 2021
 
 **Ergebnis:**
 
@@ -268,23 +268,23 @@ table_agip10
 ### Name des Aavegotchi Marktplatzes
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Zusammenfassung des Vorschlags:** Wie soll der Aavegotchi NFT-Marktplatz genannt werden?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanciert seinen eigenen NFT-Marktplatz auf Polygon zeitgleich mit dem Spiel!
 
-What should we call the official Aavegotchi Marketplace?
+Wie sollen wir den offiziellen Aavegotchi-Marktplatz nennen?
 
-Choice A: Aavegotchi Baazaar
+Wahl A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Wahl B: Aavegotchi Maarket
 
-Choice C: Neither
+Wahl C: Weder noch
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Das Quorum für diese Abstimmung liegt bei 500'000 GHST. Sollte das Quorum nicht erreicht werden, wird Pixelcraft Strohhalme ziehen.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Wenn "Keiner von beiden" gewinnt... dann solltet ihr euch lieber ein paar gute Alternativen einfallen lassen!
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -298,19 +298,19 @@ table_marketplaceName
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Zusammenfassung des Vorschlags:** Sollten GHST-USDC LP Tokens auch FRENS verdienen können?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Unser Liquiditätsmigrationsprogramm war ein grosser Erfolg, mit bereits über 8 Mio. GHST, die auf Polygon migriert wurden. Wie viele Community-Mitglieder jedoch festgestellt haben, ist die Liquidität für das GHST-USDC Paar noch nicht ausreichend, um den Handel grosser Mengen an USDC für GHST auf Quickswap zu unterstützen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Wir glauben, dass die Aufnahme von GHST-USDC als ein Paar, das für FRENS auf [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) zugelassen ist, eine Möglichkeit zur Abhilfe darstellt. Genauso wie GHST-QUICK einen "Quittungstoken" stkGHST-QUICK hat, kann auch der gestakete GHST-USDC einen stkGHST-USDC Token ausgeben. Dieser kann für Belohnungen auf Quickswap in Frage kommen, wenn ihr Team es für nötig hält.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Da diese Entscheidung direkten Einfluss auf das Gameplay hat, glauben wir, dass sie ein reifer Kandidat für unsere erste Snapshot-Abstimmung auf Polygon ist.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Wir setzen ein Quorum von 500'000 GHST fest, damit diese Abstimmung in Kraft treten kann.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Mit dem GHST-USDC LP Token werden gleich viele FRENS wie mit dem normalen Staking von GHST verdient, da der Impermanent Loss minimal ist und die Gebühren erheblich sind.
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -324,29 +324,29 @@ table_ghstUsdcLp
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Zusammenfassung des Vorschlags:** Wie viele Portale können in einer Transaktion gekauft werden?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Die Diskussionsphase für dieses Thema ist beendet und nun ist es an der Zeit abzustimmen! Die beliebtesten Optionen waren: 1, 5, und 10 Portale pro Transaktion.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Unser Fren [@coderdannn](/team#coder-dan) warf auch eine interessante Idee in den Mix: Eine "Ape Tax", bei der eine höhere Anzahl von Portalen in einer einzigen Transaktion gekauft werden könnte, aber zu einem höheren Preis. Die Portale würden so gestaffelt sein:
 
-* 0-5: 100 GHST each
+* 0-5: je 100 GHST
 
-* 6-15: 200 GHST each
+* 6-15: je 200 GHST
 
-* 16-25: 300 GHST each
+* 16-25: je 300 GHST
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Damit bleiben uns vier Optionen: 1, 5, 10, und 25 (mit Ape Tax).
 
-Let your $GHST token speak for you, and vote!
+Lasst eure $GHST Tokens für euch sprechen und stimmt ab!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Abstimmungszeitraum: 72 Std. Mindestquorum: 10% aller GHST auf Matic (~1.1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO Diskussion 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Abstimmungszeitraum:** 23. - 26. Februar 2021
 
 **Ergebnis:**
 
