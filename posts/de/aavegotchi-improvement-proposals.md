@@ -23,10 +23,10 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Einzigartiger, nicht-transferierbarer Hintergrund für Haunt 1 Gotchis</a></li>
 <li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Hinzufügen einer Baazaar-Gebühr für Rarity Farming</a></li>
 <li><a href=#earn-xp-for-successful-signal-proposals>XP für erfolgreiche Signal Proposals verdienen</a></li>
-<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
-<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
-<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#voting-power-based-on-brs>Stimmgewicht basierend auf BRS</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken</a></li>
+<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name des Aavegotchi-Marktplatzes</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
@@ -202,7 +202,7 @@ table_agip7
 
 <hr />
 
-### Voting power based on BRS
+### Stimmgewicht basierend auf BRS
 **Aavegotchi Improvement Proposal #8**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
@@ -223,7 +223,7 @@ table_agip8
 
 <hr />
 
-### Voting power based on Wearables' Maall Price
+### Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken
 **Aavegotchi Improvement Proposal #9**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
@@ -244,7 +244,7 @@ table_agip9
 
 <hr />
 
-### Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap
+### Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap
 **Aavegotchi Improvement Proposal #10**
 
 **Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
@@ -265,7 +265,7 @@ table_agip10
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Name des Aavegotchi-Marktplatzes
 **Snapshot Abstimmungen**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
