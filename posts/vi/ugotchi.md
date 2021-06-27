@@ -82,9 +82,9 @@ Vào ngày 16 tháng Năm 2021, Pixelcraft công bố về việc bổ sung thà
 
 <a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
 
-## token uGOTCHI
+## Token uGOTCHI
 
-<img src = "/ugotchi/ugotchi-token.svg" alt = "token uGOTCHI" />
+<img src = "/ugotchi/ugotchi-token.svg" alt = "Token uGOTCHI" />
 
 Token uGOTCHI cho phép người nắm giữ chúng sở hữu trực tiếp bộ sưu tập Aastronaunt. Tổng số lượng uGOTCHI hiện tại đang cố định ở mức 1 triệu. Do đó, lượng token uGOTCHI mà bạn có thể hiện tỷ lệ nắm giữ của bạn đối với cả bộ sưu tập Aastronaunt.
 
