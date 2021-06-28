@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
+* On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
+* Read the REALM Litepaper and participate!
+<p></p>
+
 ## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
 * AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
 <p></p>
