@@ -47,36 +47,36 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. Với mỗi đơn hàng mới được đăng bán, người dùng sẽ trả phí là 0.1 GHST để bán trên Aavegotchi Baazaar. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. 0.1 GHST này sẽ không về tay Pixelcraft Studios hay AavegotchiDAO. Thay vào đó, nó sẽ được gửi thẳng đến [địa chỉ đốt token](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) trên Polygon khi một đơn hàng được tạo ra hoặc cập nhật.
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
-* 2% to Pixelcraft Studios
-* 1% to AavegotchiDAO
-* 0.5% to Rarity Farming reward pool
+Khi một vật phẩm được bán thành công, người bán sẽ nhận được 96,5% giá bán được gửi vào ví của họ. 3,5% còn lại sẽ được phân bổ như sau:
+* 2% gửi cho Pixelcraft Studios
+* 1% gửi cho AavegotchiDAO
+* 0,5% gửi vào quỹ phần thưởng Rarity Farming
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+Tất cả những bài đăng bán đều phải có giá tối thiểu là 1 GHST. Nếu người bán muốn bán vật phảm với giá dưới 1 GHST, họ phải bán nhiều vật phẩm cùng loại một lúc sao cho giá bán của chúng từ 1 GHST trở lên.
 
-Buyers may buy 1, some, or all of a multiple item listing.
+Người mua có thể mua 1, một vài hoặc tất cả vật phẩm trong cùng một bài đăng.
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
 
 ## Các tính năng
-There are a variety of products listed on the Baazaar:
+Có rất nhiều sản phẩm được bán trên Baazaar:
 
-* Closed Portals
-* Opened Portals
-* Aavegotchis
+* Portal Chưa mở
+* Portal Đã Mở
+* Aavegotchi
 * Wearables
 * Vật phẩm tiêu hao
-* Raffle Tickets
+* Vé Raffle
 
-The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
+Baazaar có các mục Sắp xếp (theo giá), Lọc (độ hiếm), & Tìm kiếm (theo tên) để giúp người mua thu hẹp lựa chọn của mình.
 
-Other features included in the Baazaar are:
+Những tính năng khác trong Baazaar bao gồm:
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Activity - Xem những giao dịch đã thực hiện trên Baazzar (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) tại đây!
+* My Listings - Xem bạn đang bán những vật phẩm nào!
+* My Sales - Xem những đơn hàng mà bạn đã bán thành công trên Baazaar
+* My Sales - Xem những đơn hàng mà bạn đã mua thành công trên Baazaar
