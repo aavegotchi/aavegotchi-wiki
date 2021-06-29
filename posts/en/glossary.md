@@ -34,6 +34,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
+<p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#installations>Installations</a></p>
 <p><a href=#realm>REALM</a></p>
@@ -116,6 +117,10 @@ Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, an
 Technically, each element exists as an ERC-20 token.
 
 Check the [Metaverse page](/metaverse) for more information.
+
+### Gotchus Alchemica Exchange
+
+The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
 
 ### Haunts
 Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
