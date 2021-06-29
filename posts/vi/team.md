@@ -107,7 +107,7 @@ Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã 
 <p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Jason Chew</a></p>
 </div>
 
-Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và không bao giờ nhìn lại. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
+Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và không bao giờ nhìn lại. Từ DAOstack, BrightID đến Gitcoin, Jason là một người đã quá quen thuộc với DeFi và luôn không ngừng thử nghiệm, giáo dục mọi người để giúp họ sớm tiếp cận. Jason cũng đang quản lý BitcoinMalaysia, cộng đồng tiền mã hoá online lớn nhất tại Đông Nam Á, và kể từ đợt đại dịch, đã có hơn 8000 người tham gia vào những buổi chia sẻ về tiền mã hoá cho người mới bắt đầu của anh.
 
 
 ## Team Gốc
