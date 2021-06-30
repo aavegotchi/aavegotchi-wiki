@@ -47,7 +47,16 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. Với mỗi đơn hàng mới được đăng bán, người dùng sẽ trả phí là 0.1 GHST để bán trên Aavegotchi Baazaar. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. 0.1 GHST này sẽ không về tay Pixelcraft Studios hay AavegotchiDAO. Thay vào đó, nó sẽ được gửi thẳng đến [địa chỉ đốt token](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) trên Polygon khi một đơn hàng được tạo ra hoặc cập nhật.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Baazaar" />
+Khi một vật phẩm được bán thành công, người bán sẽ nhận được 96,5% giá bán được gửi vào ví của họ. 3,5% còn lại sẽ được phân bổ như sau:
+* 2% gửi cho Pixelcraft Studios
+* 1% gửi cho AavegotchiDAO
+* 0,5% gửi vào quỹ phần thưởng Rarity Farming
+
+Tất cả những bài đăng bán đều phải có giá tối thiểu là 1 GHST. Nếu người bán muốn bán vật phảm với giá dưới 1 GHST, họ phải bán nhiều vật phẩm cùng loại một lúc sao cho giá bán của chúng từ 1 GHST trở lên.
+
+Người mua có thể mua 1, một vài hoặc tất cả vật phẩm trong cùng một bài đăng.
+
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
@@ -57,13 +66,13 @@ Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https:
 Có rất nhiều sản phẩm được bán trên Baazaar:
 
 * Portal Chưa mở
-* Portal đã mở
+* Portal Đã Mở
 * Aavegotchi
 * Wearables
 * Vật phẩm tiêu hao
 * Vé Raffle
 
-Baazaar đã được thêm tính năng Sort để giúp người mua thu hẹp lựa chọn lại.
+Baazaar có các mục Sắp xếp (theo giá), Lọc (độ hiếm), & Tìm kiếm (theo tên) để giúp người mua thu hẹp lựa chọn của mình.
 
 Những tính năng khác trong Baazaar bao gồm:
 

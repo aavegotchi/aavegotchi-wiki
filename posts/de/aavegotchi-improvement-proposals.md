@@ -23,12 +23,12 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Einzigartiger, nicht-transferierbarer Hintergrund für Haunt 1 Gotchis</a></li>
 <li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Hinzufügen einer Baazaar-Gebühr für Rarity Farming</a></li>
 <li><a href=#earn-xp-for-successful-signal-proposals>XP für erfolgreiche Signal Proposals verdienen</a></li>
-<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
-<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
-<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#voting-power-based-on-brs>Stimmgewicht basierend auf BRS</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken</a></li>
+<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name des Aavegotchi Marktplatzes</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENS verdienen mit GHST-USDC LP Tokens</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Anzahl Portale in einer Transaktion</a></li>
 </ol>
 
 </div>
@@ -130,15 +130,15 @@ table_agip4
 ### Einzigartiger, nicht-transferierbarer Hintergrund für Haunt 1 Gotchis
 **Aavegotchi Improvement Proposal #5**
 
-**Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created Haunts will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
+**Zusammenfassung des Vorschlags:** Viele Spieler sind besorgt, dass Haunt 2 dem Haunt 1 zu ähnlich sein wird und die neu geschaffenen Portale den "Genesis" Haunt abwerten werden. Einer der Vorschläge ist, jedem Haunt spezielle Hintergründe zu geben, um sie leicht identifizierbar zu machen. Dieser Vorschlag wurde hervorragend diskutiert und fand im zugehörigen Snapshot grosse Unterstützung. Beachte, dass unabhängig von der Entscheidung des DAOs in dieser Angelegenheit alle Aavegotchis spezielle, nicht übertragbare "Haunt" Badges erhalten werden. Dieser Vorschlag konzentriert sich speziell auf die Idee eines nicht übertragbaren Hintergrunds, der in den BG (Background) Kleidungsstück-Slot des Aavegotchi eingebaut werden kann.
 
 Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
-Option 1: Only Haunt 1 should get a special background
+Option 1: Nur Haunt 1 sollte einen speziellen Hintergrund bekommen
 
-Option 2: Each Haunts should have it’s own unique background
+Option 2: Jeder Haunt sollte seinen eigenen einzigartigen Hintergrund haben
 
-Option 3: Neither, leave it as is
+Option 3: Weder noch, so belassen wie es ist
 
 **Abstimmungszeitraum:** 17. - 24. März 2021
 
@@ -153,17 +153,17 @@ table_agip5
 ### Hinzufügen einer Baazaar-Gebühr für Rarity Farming
 **Aavegotchi Improvement Proposal #6**
 
-**Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
+**Zusammenfassung des Vorschlags: ** Mit der offiziellen Ankündigung der SZN1-Belohnungen untersuchen wir, wie die Interessen der Community und die Belohnungsstrukturen in Bezug auf die Baazaar-Gebühren in Einklang gebracht werden können.
 
-Currently, 2% is allocated to Pixelcraft and 1% to DAO treasury. While not exclusive of providing for RF rewards, the treasury funds are currently in no obligation to be allocated in any form of ratio towards the RF pool each season. The proposal aims to increase the Baazaar fees from 3% to 3.5%, with the additional 0.5% going directly to the Rarity Farming rewards pool.
+Derzeit gehen 2% an Pixelcraft und 1% an das DAO Treasury. Obwohl ein Teil der Treasury-Gelder aktuell für Rarity Farming (RF) Belohnungen zur Verfügung stehen, muss dies nicht jede Saison in einem bestimmten Verhältnis erfolgen. Dieser Vorschlag zielt darauf ab, die Baazaar-Gebühren von 3% auf 3.5% zu erhöhen, wobei die zusätzlichen 0.5% direkt in den Rarity Farming Belohnungspool fliessen.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
 
-Option 1: Yes, increase fees from 3 to 3.5
+Option 1: Ja, Erhöhung der Gebühren von 3% auf 3.5%
 
-Option 2: No, leave the fees as they are
+Option 2: Nein, die Gebühren bleiben wie sie sind
 
-**Voting Period:** 7 - 13 April 2021
+**Abstimmungszeitraum:** 7. - 13. April 2021
 
 **Ergebnis:**
 
@@ -176,23 +176,23 @@ table_agip6
 ### XP für erfolgreiche Signal Proposals verdienen
 **Aavegotchi Improvement Proposal #7**
 
-**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+**Zusammenfassung des Vorschlags:** Wir haben derzeit eine Menge Signal-/Community-Vorschläge auf Snapshot und täglich neue Beiträge in unserem Forum. Bisher konnte keiner dieser Vorschläge auch nur in die Nähe des Quorums von 20% kommen. Der beliebteste Vorschlag von @JG, zusätzliche Gebühren für Rarity Farming zu erheben, erhielt nur etwa 2 Millionen GHST an Stimmen (~11%) - und das, obwohl das Team beschlossen hat, ihn als Kernvorschlag aufzunehmen. Nachdem der Vorschlag zu einem "Core Proposal" geändert wurde, haben wir das Quorum in weniger als 24 Stunden durchbrochen.
 
-I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+Ich denke, es gibt zwei ziemlich offensichtliche Gründe dafür. Auf der einen Seite ist unser Snapshot im Moment etwas chaotisch, da einige Signalvorschläge überhaupt nicht der Vorlage folgen. Auf der anderen Seite - und ich denke, das ist der wichtigere Punkt - bekommt man 20 Erfahrungspunkte (EXP) für sein Aavegotchi, wenn man für einen Kernvorschlag (Core Proposal) stimmt.
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
+Ich schlage vor, einen kleinen Erfahrungsbonus (10 EXP) für Leute einzuführen, die über erfolgreiche Community-Vorschläge (Signal Proposals) abgestimmt haben, d.h. Vorschläge, die das Quorum erreichen und zu Kernvorschlägen aufgewertet werden. Einfach EXP für alle Community-Vorschläge zu verschenken, könnte zu mehr qualitativ schlechten Vorschlägen führen, was nicht das Ziel dieses Vorschlags sein sollte.
 
-Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
+Auch wenn 10 EXP vielleicht nicht viel sind, gibt es Leuten einen Anreiz, die Signal Proposals tatsächlich durchzusehen und über hochwertige Vorschläge abzustimmen, die eine höhere Chance auf das Erreichen des Quorums haben. Als DAO ist das Engagement der Community extrem wichtig und ich glaube, dass dies ein kleiner, aber wichtiger Schritt in die richtige Richtung ist.
 
-If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
+Wenn dieser Vorschlag das Quorum erreicht und angenommen wird, erhalten alle Aavegotchis im Besitz von Leuten, die abgestimmt haben, 10 EXP!
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
-Option 1: Yes, successful SigProps give XP
+Option 1: Ja, erfolgreiche SigProps geben EXP
 
-Option 2: No, SigProps should not give XP
+Option 2: Nein, SigProps sollten kein EXP geben
 
-**Voting Period:** 12 - 18 May 2021
+**Abstimmungszeitraum:** 12. - 18. Mai 2021
 
 **Ergebnis:**
 
@@ -202,18 +202,18 @@ table_agip7
 
 <hr />
 
-### Voting power based on BRS
+### Stimmgewicht basierend auf BRS
 **Aavegotchi Improvement Proposal #8**
 
-**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+**Zusammenfassung des Vorschlags:** Hinzufügen von Stimmgewicht für Aavegotchis, die in der Adresse eines Wählers gehalten werden - mit einer Rate von 1 GHST pro BRS (Base Rarity Score, ohne ausgerüstete Kleidungsstücke).
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+Option 1: Ja, Aavegotchis erhalten Stimmrecht basierend auf BRS
 
-Option 2: No, Aavegotchis shouldn’t have Voting Power
+Option 2: Nein, Aavegotchis sollten kein Stimmrecht haben
 
-**Voting Period:** 11 - 17 June 2021
+**Abstimmungszeitraum:** 11. - 17. Juni 2021
 
 **Ergebnis:**
 
@@ -223,18 +223,18 @@ table_agip8
 
 <hr />
 
-### Voting power based on Wearables' Maall Price
+### Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken
 **Aavegotchi Improvement Proposal #9**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**Zusammenfassung des Vorschlags:** Hinzufügen von Stimmgewicht für Kleidungsstücke in der abstimmenden Adresse.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+Option 1: Ja, Kleidungsstücke erhalten Stimmrecht basierend auf dem Maall-Preis
 
-Option 2: No, Wearables shouldn’t have Voting Power
+Option 2: Nein, Kleidungsstücke sollten kein Stimmgewicht geben
 
-**Voting Period:** 11 - 17 June 2021
+**Abstimmungszeitraum:** 11. - 17. Juni 2021
 
 **Ergebnis:**
 
@@ -244,18 +244,18 @@ table_agip9
 
 <hr />
 
-### Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap
+### Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap
 **Aavegotchi Improvement Proposal #10**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**Zusammenfassung des Vorschlags: ** Einige Community-Mitglieder sind besorgt über die schwindende Liquidität von GHST auf Quickswap und ihre allmählich abnehmenden LP-Belohnungen. Anstatt dem Pool einfach mehr Liquidität zuzuweisen, erwägen wir eine Partnerschaft mit einem bald startenden Liquiditätsaggregator namens DinoSwap. Die Bedingungen beinhalten insgesamt 200k USD an GHST Token, die den "Extinction Pools" zugeteilt werden, deren Details weiter unten beschrieben werden.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Details zum AGIP gibt es [hier](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Option 1: Yes, let's partner with DinoSwap
+Option 1: Ja, gehen wir eine Partnerschaft mit DinoSwap ein
 
-Option 2: No, don't partner with Dinoswap
+Option 2: Nein, keine Partnerschaft mit DinoSwap
 
-**Voting Period:** 13 - 20 June 2021
+**Abstimmungszeitraum:** 13. - 20. Juni 2021
 
 **Ergebnis:**
 
@@ -265,26 +265,26 @@ table_agip10
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Name des Aavegotchi Marktplatzes
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Zusammenfassung des Vorschlags:** Wie soll der Aavegotchi NFT-Marktplatz genannt werden?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanciert seinen eigenen NFT-Marktplatz auf Polygon zeitgleich mit dem Spiel!
 
-What should we call the official Aavegotchi Marketplace?
+Wie sollen wir den offiziellen Aavegotchi-Marktplatz nennen?
 
-Choice A: Aavegotchi Baazaar
+Wahl A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Wahl B: Aavegotchi Maarket
 
-Choice C: Neither
+Wahl C: Weder noch
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Das Quorum für diese Abstimmung liegt bei 500'000 GHST. Sollte das Quorum nicht erreicht werden, wird Pixelcraft Strohhalme ziehen.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Wenn "Keiner von beiden" gewinnt... dann solltet ihr euch lieber ein paar gute Alternativen einfallen lassen!
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -294,23 +294,23 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Anspruch von GHST-USDC LP Token auf FRENS
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Zusammenfassung des Vorschlags:** Sollten GHST-USDC LP Tokens auch FRENS verdienen können?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Unser Liquiditätsmigrationsprogramm war ein grosser Erfolg, mit bereits über 8 Mio. GHST, die auf Polygon migriert wurden. Wie viele Community-Mitglieder jedoch festgestellt haben, ist die Liquidität für das GHST-USDC Paar noch nicht ausreichend, um den Handel grosser Mengen an USDC für GHST auf Quickswap zu unterstützen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Wir glauben, dass die Aufnahme von GHST-USDC als ein Paar, das für FRENS auf [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) zugelassen ist, eine Möglichkeit zur Abhilfe darstellt. Genauso wie GHST-QUICK einen "Quittungstoken" stkGHST-QUICK hat, kann auch der gestakete GHST-USDC einen stkGHST-USDC Token ausgeben. Dieser kann für Belohnungen auf Quickswap in Frage kommen, wenn ihr Team es für nötig hält.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Da diese Entscheidung direkten Einfluss auf das Gameplay hat, glauben wir, dass sie ein reifer Kandidat für unsere erste Snapshot-Abstimmung auf Polygon ist.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Wir setzen ein Quorum von 500'000 GHST fest, damit diese Abstimmung in Kraft treten kann.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Mit dem GHST-USDC LP Token werden gleich viele FRENS wie mit dem normalen Staking von GHST verdient, da der Impermanent Loss minimal ist und die Gebühren erheblich sind.
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -320,33 +320,33 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Anzahl Portale in einer Transaktion
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Zusammenfassung des Vorschlags:** Wie viele Portale können in einer Transaktion gekauft werden?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Die Diskussionsphase für dieses Thema ist beendet und nun ist es an der Zeit abzustimmen! Die beliebtesten Optionen waren: 1, 5, und 10 Portale pro Transaktion.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Unser Fren [@coderdannn](/team#coder-dan) warf auch eine interessante Idee in den Mix: Eine "Ape Tax", bei der eine höhere Anzahl von Portalen in einer einzigen Transaktion gekauft werden könnte, aber zu einem höheren Preis. Die Portale würden so gestaffelt sein:
 
-* 0-5: 100 GHST each
+* 0-5: je 100 GHST
 
-* 6-15: 200 GHST each
+* 6-15: je 200 GHST
 
-* 16-25: 300 GHST each
+* 16-25: je 300 GHST
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Damit bleiben uns vier Optionen: 1, 5, 10, und 25 (mit Ape Tax).
 
-Let your $GHST token speak for you, and vote!
+Lasst eure $GHST Tokens für euch sprechen und stimmt ab!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Abstimmungszeitraum: 72 Std. Mindestquorum: 10% aller GHST auf Matic (~1.1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO Diskussion 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Abstimmungszeitraum:** 23. - 26. Februar 2021
 
 **Ergebnis:**
 
