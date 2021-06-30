@@ -1,18 +1,18 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica Exchange (GAX)'
-description: 'Gotchus Alchemica Exchange (GAX)'
+title: 'Sàn Giao Dịch Gotchus Alchemica (GAX)'
+description: 'Sàn Giao Dịch Gotchus Alchemica (GAX)'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<p class="headerImageText">Sàn Giao Dịch Gotchus Alchemica</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+Chàng Gotchi trẻ tuổi leo qua cánh cổng của toà tháp cấm. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
 
 The door creaked open, inviting him in.
 
@@ -35,12 +35,12 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 **Nội dung**
 
 <ol>
-<li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
+<li><a href=#gotchus-alchemica-exchange>Sàn Giao Dịch Gotchus Alchemica</a></li>
 </ol>
 
 </div>
 
-## Gotchus Alchemica Exchange
+## Sàn Giao Dịch Gotchus Alchemica
 
 The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/metaverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
 
