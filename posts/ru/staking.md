@@ -18,7 +18,11 @@ Staking refers to the process of locking up your cryptocurrency in return for re
 
 FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
 
-FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 
