@@ -18,7 +18,11 @@ contributors:
 
 FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FRENS FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
-然后自由可转换成Raffle Tickets，这些Tickets可以定期输入Raffles以赢得奖品。
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 继续阅读以学习如何使用GHST并获得您的免费奖励。
 
@@ -66,8 +70,8 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 目前，只有2个QuickSwap LP代币可以获得FRENS。
 
-* QuickSwap GHST-QUICK LP代币。
-* QuickSwap GHST-USDC LP代币
+* QuickSwap GHST-QUICK LP token
+* QuickSwap GHST-USDC LP token
 
 第一步涉及将资金从Ethereum Mainnet转移到Polygon，这是一个2层解决方案。
 
