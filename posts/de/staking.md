@@ -127,8 +127,6 @@ As an example, the first raffle had a Chainlink Theme. Here were the prizes for 
 
 A total of 6010 prizes.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
-
 Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
 You can improve your probability of winning by:
@@ -137,7 +135,7 @@ You can improve your probability of winning by:
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
