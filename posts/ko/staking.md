@@ -127,20 +127,18 @@ FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니�
 
 총 6010개의 상품들이 래플에서 제공되었습니다.
 
-[Opensea에서 거래중인 상품들을 확인할 수 있습니다 :)](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-각 상품들은 무작위로 뽑힌 래플 티켓의 소유자에게 주어지게 되며, 같은 등급 티켓들의 당첨확률은 모두 동일합니다.
-
-그렇기 때문에 다음과 같은 방법을 통해 수상 확률을 높일 수 있습니다.
+You can improve your probability of winning by:
 * 여러 티켓을 제출하기
 * Common 등급과 같은 보다 많은 상품들이 준비된 등급의 티켓을 준비하기
 
-래플에서의 수상자 추첨과 관련된 수치들은 온체인 상에서 [체인링크의 랜덤 생성기(VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)를 통해 생성됩니다.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-그리고 게임이 출시되면 상품들, 즉 wearable 상품권은 아베고치의 wearalbe과 1:1로 교환될 것입니다. 관련 활동들은 [아베고치 샵](https://aavegotchi.com/shop)에서 이루어질 예정입니다.
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## 지난 래플 행사에 관한 통계치
-FRENS를 모으고 래플에 참여하는 방법에 함께 알아보았습니다. 하지만 이에 대한 실질적인 통계치는 어떨까요? 과거의 래플 행사들을 미루어 볼 때 래플에서 wearable을 받을 수 있는 확률은 얼마나 될까요? 궁금하신 분들은 [래플 통계](/raffles-stats)를 통해 과거의 데이터를 확인해보세요!
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## 더 많은 자료들!
 
