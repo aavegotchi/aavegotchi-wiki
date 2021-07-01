@@ -18,7 +18,11 @@ Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổ
 
 FRENS là một một tài khoản không thể chuyển đi được nằm trong Hợp đồng Staking của Aavegotchi. FRENS không thể mua được. Chúng được tạo ra nhằm vinh danh những stakers, những người đã cống hiến cho dự án Aavegotchi.
 
-FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia và những sự kiện Raffle định kỳ để có thể thắng giải.
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 Đọc tiếp để hiểu thêm về cách stake GHST và kiếm thêm giải thưởng với FRENS.
 
@@ -130,8 +134,8 @@ Tổng cộng 6010 giải.
 Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
 You can improve your probability of winning by:
-* Tham gia với nhiều vé
-* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
+* Submitting multiple tickets
+* Enter raffle ticket categories with more prizes (e.g. Common)
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
@@ -142,6 +146,6 @@ Knowing how to stake FRENS and participate in Raffles is good, you say. But what
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
