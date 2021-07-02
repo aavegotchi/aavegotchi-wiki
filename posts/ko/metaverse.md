@@ -32,6 +32,9 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
+<p><a href=#total-supply>Total Supply</a></p>
+<p><a href=#distribution>Distribution</a></p>
+<p><a href=#drop-tickets>Drop Tickets</a></p>
 </ol>
 
 </div>
@@ -148,4 +151,16 @@ The primary distribution method for REALM Parcels will be the incentivized GBM a
 
 Method 2: Raffle (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other Raffle tickets at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+
+### Drop Tickets
+
+Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+
+<img class="bodyImage" src="/metaverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+
+There are three ways to get Drop Tickets:
+
+* Convert 10,000 FRENS into one Drop Ticket
+* Convert other Raffle Tickets into a Drop Ticket
+* Refer your friends to earn Drop Tickets 🔥

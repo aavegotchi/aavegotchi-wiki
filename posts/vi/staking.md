@@ -18,7 +18,11 @@ Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổ
 
 FRENS là một một tài khoản không thể chuyển đi được nằm trong Hợp đồng Staking của Aavegotchi. FRENS không thể mua được. Chúng được tạo ra nhằm vinh danh những stakers, những người đã cống hiến cho dự án Aavegotchi.
 
-FRENS có thể được chuyển đổi thành Vé Raffle, có thể tham gia và những sự kiện Raffle định kỳ để có thể thắng giải.
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 Đọc tiếp để hiểu thêm về cách stake GHST và kiếm thêm giải thưởng với FRENS.
 
@@ -127,23 +131,21 @@ Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ.
 
 Tổng cộng 6010 giải.
 
-[Giải thưởng trên OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
+You can improve your probability of winning by:
+* Submitting multiple tickets
+* Enter raffle ticket categories with more prizes (e.g. Common)
 
-Bạn có thể cải thiện khả năng thắng giải bằng cách:
-* Tham gia với nhiều vé
-* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
-
-Giải thưởng, bao gồm những Wearable Vouchers, có thể được đổi thành những phụ kiện Aavegotchi thật với tỷ lệ 1:1 khi trò chơi được triển khai. Việc này sẽ diễn ra trong [Aavegotchi Shop](https://aavegotchi.com/shop).
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

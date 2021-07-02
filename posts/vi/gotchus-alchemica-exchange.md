@@ -1,18 +1,18 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica Exchange (GAX)'
-description: 'Gotchus Alchemica Exchange (GAX)'
+title: 'Sàn Giao Dịch Gotchus Alchemica (GAX)'
+description: 'Sàn Giao Dịch Gotchus Alchemica (GAX)'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Baazaar">
+<p class="headerImageText">Sàn Giao Dịch Gotchus Alchemica</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+Chàng Gotchi trẻ tuổi leo qua cánh cổng của toà tháp cấm. Lờ mờ trước mặt anh là một cánh cửa gỗ lớn, với những đường điêu khắc rùng rợn, và những ký tự nham nhỡ.
 
 The door creaked open, inviting him in.
 
@@ -24,9 +24,9 @@ Each were bubbling and boiling, hissing and churning, glowing with unearthly pow
 
 Inside, Gotchis were busy haggling with one another.
 
-"How much for a unit of KEK?"
+"Mỗi viên KEK bao nhiêu tiền thế?"
 
-"WTT FOMO for ALPHA"
+"Tôi muốn trade FOMO với ALPHA"
 
 This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
@@ -35,17 +35,17 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 **Nội dung**
 
 <ol>
-<li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
+<li><a href=#gotchus-alchemica-exchange>Sàn Giao Dịch Gotchus Alchemica</a></li>
 </ol>
 
 </div>
 
-## Gotchus Alchemica Exchange
+## Sàn Giao Dịch Gotchus Alchemica
 
-The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/metaverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
+Gotchus Alchemica Exchange (GAX) là sàn giao dịch phi tập trung (DEX) của Aavegotchi. Nó được tạo ra để hỗ trợ việc giao dịch các [Gotchus Alchemica](/metaverse#gotchus-alchemica) giữa người chơi. Ban đầu GAX sẽ hỗ trợ việc giao dịch tất cả các cặp GHST-Alchemica.
 
-<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
+<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Các cặp Giao Dịch của Gotchus Alchemica" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR can be spent to reduce the building time of [Installations](/metaverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+Để khuyến khích thanh khoản trên GAX, một loại token ERC20 mang tên GLMR sẽ được phát cho những người cung cấp thanh khoản. GLMR có thể được dùng để giảm thời gian xây dựng [các Công Trình ](/metaverse#building-on-realm-parcels) trong Gotchiverse. Thông tin chi tiết sẽ sớm được công bố.
 
-GAX may support non GHST-Alchemica pairs in the future.
+GAX có thể sẽ hỗ trợ giao dịch các cặp token khác ngoài GHST-Alchemica trong tương lai.

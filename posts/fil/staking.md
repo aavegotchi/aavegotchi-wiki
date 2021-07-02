@@ -18,7 +18,11 @@ Staking refers to the process of locking up your cryptocurrency in return for re
 
 FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
 
-FRENS can then be converted into Raffle Tickets, which can be entered into periodic Raffles to win prizes.
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 
@@ -127,8 +131,6 @@ As an example, the first raffle had a Chainlink Theme. Here were the prizes for 
 
 A total of 6010 prizes.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
-
 Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
 You can improve your probability of winning by:
@@ -137,7 +139,7 @@ You can improve your probability of winning by:
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.

@@ -13,9 +13,6 @@ contributors:
 <p class="headerImageText">Aavegotchi macht Brrrr</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS BEI DER ARBEIT</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built continuously.</a></p>
-
 <a name="FAQ"></a>
 
 <div class="contentsBox">
@@ -26,10 +23,11 @@ contributors:
 <li><a href=#general-faq>Allgemeines FAQ</a></li>
 <p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Ich bin neu bei Aavegotchi. Wie kann ich nach dem Start spielen?</a></p>
 <p><a href=#when-can-i-get-an-aavegotchi->Wann kann ich ein Aavegotchi bekommen?</a></p>
-<p><a href=#when-is-mainnet-launch->Wann wird das Mainnet lanciert?</a></p>
-<p><a href=#what-can-i-do-now->Was kann ich aktuell tun?</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Brauche ich KYC, um Aavegotchi zu spielen oder GHST Tokens zu kaufen?</a></p>
-<p><a href=#what-does-aave-have-to-do-with-aavegotchi->Was hat Aave mit Aavegotchi zu tun?</a></p>
+<p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
+<p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
+<p><a href=#what-can-i-do-now->What can I do now?</a></p>
+<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
+<p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
@@ -85,7 +83,7 @@ contributors:
 
 &nbsp;
 
-Die FAQ ist als Schnellübersicht für kurze Antworten auf einfache Fragen gedacht. Für ausführlichere Informationen, schau dir die eingebauten Links oder unsere Seitenleiste für generelle Themen an.
+The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
 ## Allgemeines FAQ
 
 
@@ -111,12 +109,30 @@ You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.co
 
 2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
+### How much does it cost to play Aavegotchi?
+There are a couple of ways to get an Aavegotchi:
 
-### Wann wird das Mainnet lanciert?
+* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+
+Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+
+* Buy an Unopened Portal at the [Baazaar](/baazaar).
+
+Cost: Variable.
+
+* Buy an Opened Portal at the [Baazaar](/baazaar).
+
+Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+
+* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+
+Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+
+### When is mainnet launch?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
-### Was kann ich aktuell tun?
+### What can I do now?
 
 Right now, you can:
 
@@ -127,7 +143,7 @@ Right now, you can:
 * **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
 
 
-### Brauche ich KYC, um Aavegotchi zu spielen oder GHST Tokens zu kaufen?
+### Do I need KYC to play Aavegotchi or own GHST token?
 
 No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
@@ -135,7 +151,7 @@ The table below summarizes the information:
 
 table_kyc
 
-### Was hat Aave mit Aavegotchi zu tun?
+### What does Aave have to do with Aavegotchi?
 
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 

@@ -18,7 +18,11 @@ contributors:
 
 FRENS는 아베고치 스테이킹 컨트랙트 내에서 교환되는 자산이 아닙니다. FRENS는 달리 구매할 방도조차 없습니다. 오직 아베고치 프로젝트에 대한 기여로 스테이커(staker)에게 돌아가는 보상입니다.
 
-스테이커들은 자신의 FRENS를 래플 티켓으로 전환할 수 있게 되는데, 래플 티켓을 이용해 주기적인 래플(일종의 복권)에 참여하여 당첨에 도전할 수 있습니다.
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 그렇다면 이제 GHST를 어떻게 스테이킹하고 FRENS로 어떻게 당첨이 될 수 있는지 함께 알아봅시다.
 
@@ -127,23 +131,21 @@ FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니�
 
 총 6010개의 상품들이 래플에서 제공되었습니다.
 
-[Opensea에서 거래중인 상품들을 확인할 수 있습니다 :)](https://opensea.io/activity/aavegotchi-wearable-vouchers)
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-각 상품들은 무작위로 뽑힌 래플 티켓의 소유자에게 주어지게 되며, 같은 등급 티켓들의 당첨확률은 모두 동일합니다.
+You can improve your probability of winning by:
+* Submitting multiple tickets
+* Enter raffle ticket categories with more prizes (e.g. Common)
 
-그렇기 때문에 다음과 같은 방법을 통해 수상 확률을 높일 수 있습니다.
-* 여러 티켓을 제출하기
-* Common 등급과 같은 보다 많은 상품들이 준비된 등급의 티켓을 준비하기
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-래플에서의 수상자 추첨과 관련된 수치들은 온체인 상에서 [체인링크의 랜덤 생성기(VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)를 통해 생성됩니다.
-
-그리고 게임이 출시되면 상품들, 즉 wearable 상품권은 아베고치의 wearalbe과 1:1로 교환될 것입니다. 관련 활동들은 [아베고치 샵](https://aavegotchi.com/shop)에서 이루어질 예정입니다.
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## 지난 래플 행사에 관한 통계치
-FRENS를 모으고 래플에 참여하는 방법에 함께 알아보았습니다. 하지만 이에 대한 실질적인 통계치는 어떨까요? 과거의 래플 행사들을 미루어 볼 때 래플에서 wearable을 받을 수 있는 확률은 얼마나 될까요? 궁금하신 분들은 [래플 통계](/raffles-stats)를 통해 과거의 데이터를 확인해보세요!
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## 더 많은 자료들!
 
-- [아베고치 래플에 대한 가이드](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [아베고치 X 체인링크 래플 - 여러분도 참여하셨죠?!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon! 그리고 Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

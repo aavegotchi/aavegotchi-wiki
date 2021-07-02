@@ -18,7 +18,11 @@ contributors:
 
 FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FRENS FRENS不可转让，旨在奖励利益相关者对Aavegotchi项目的贡献。
 
-然后自由可转换成Raffle Tickets，这些Tickets可以定期输入Raffles以赢得奖品。
+FRENS can be converted into Raffle Tickets or Drop Tickets:
+
+* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+
+* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
 
 继续阅读以学习如何使用GHST并获得您的免费奖励。
 
@@ -66,8 +70,8 @@ FRENS是Aavegotchi Staking Contract内不可转让的余额。 无法购买 FREN
 
 目前，只有2个QuickSwap LP代币可以获得FRENS。
 
-* QuickSwap GHST-QUICK LP代币。
-* QuickSwap GHST-USDC LP代币
+* QuickSwap GHST-QUICK LP token
+* QuickSwap GHST-USDC LP token
 
 第一步涉及将资金从Ethereum Mainnet转移到Polygon，这是一个2层解决方案。
 
@@ -127,8 +131,6 @@ As an example, the first raffle had a Chainlink Theme. Here were the prizes for 
 
 A total of 6010 prizes.
 
-[Prizes on OpenSea](https://opensea.io/activity/aavegotchi-wearable-vouchers)
-
 Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
 You can improve your probability of winning by:
@@ -137,7 +139,7 @@ You can improve your probability of winning by:
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-The prizes, which are Wearable Vouchers, could be exchanged 1:1 for the actual Aavegotchi wearable once the game launches. This will take place at the [Aavegotchi Shop](https://aavegotchi.com/shop).
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
