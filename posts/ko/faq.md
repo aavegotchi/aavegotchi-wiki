@@ -13,9 +13,6 @@ contributors:
 <p class="headerImageText">Aavegotchi Goes Brrrrr</p>
 </div>
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>AARCHIVERS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-<p style="font-style:italic; font-size:13px;">This page is being built continuously.</a></p>
-
 <a name="FAQ"></a>
 
 <div class="contentsBox">
@@ -26,6 +23,7 @@ contributors:
 <li><a href=#general-faq>General FAQ</a></li>
 <p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
 <p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
+<p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
 <p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
 <p><a href=#what-can-i-do-now->What can I do now?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
@@ -111,6 +109,24 @@ You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.co
 
 2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
+### How much does it cost to play Aavegotchi?
+There are a couple of ways to get an Aavegotchi:
+
+* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+
+Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+
+* Buy an Unopened Portal at the [Baazaar](/baazaar).
+
+Cost: Variable.
+
+* Buy an Opened Portal at the [Baazaar](/baazaar).
+
+Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+
+* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+
+Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
 ### When is mainnet launch?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
