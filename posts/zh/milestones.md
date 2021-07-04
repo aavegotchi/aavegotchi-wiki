@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
+* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
+<p></p>
+
 ## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
 * On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
 * Read the REALM Litepaper and participate!
