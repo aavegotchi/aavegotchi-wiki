@@ -30,7 +30,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#aartist>Aartists</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#baadge>Huy Hiệu</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
+<p><a href=#drop-tickets>Vé Drop</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
