@@ -92,4 +92,6 @@ The focus of this campaign will be on spreading awareness about the Aavegotchi R
 
 3. Now the fun begins! Keep inviting frens to start earning Drop Tickets! You’ll earn more tickets every time you reach a Milestone.
 
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers">
+
 **UPDATE: This program has temporarily closed due to large volume of suspected bot activity. Stay tuned in the Aavegotchi Discord for announcements about re-opening.**
