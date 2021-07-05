@@ -14,21 +14,21 @@ contributors:
 
 Chàng Gotchi trẻ tuổi leo qua cánh cổng của toà tháp cấm. Lờ mờ trước mặt anh là một cánh cửa gỗ lớn, với những đường điêu khắc rùng rợn, và những ký tự nham nhỡ.
 
-The door creaked open, inviting him in.
+Cánh cửa hé mở, mời anh bước vào.
 
-What he saw spooked him.
+Những điều trước mắt, khiến anh thét gào.
 
-Vials. Test Tubes. Flasks.
+Lọ. Ống nghiệm. Bình thí nghiệm.
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+Mỗi thứ đều sủi bọt và sôi, rít lên và khuấy động, phát sáng với sức mạnh phi thường.
 
-Inside, Gotchis were busy haggling with one another.
+Bên trong, các Gotchi đang bận mặc cả với nhau.
 
 "Mỗi viên KEK bao nhiêu tiền thế?"
 
 "Tôi muốn trade FOMO với ALPHA"
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+Đây, bạn tôi ơi, chính là Sàn Giao Dịch Gotchus Alchemica (GAX).
 
 <div class="contentsBox">
 
