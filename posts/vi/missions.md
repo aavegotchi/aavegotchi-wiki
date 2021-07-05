@@ -89,6 +89,6 @@ Chiến dịch này tập trung vào việc giới thiệu rộng rãi Litepaper
 
 3. Khi đó, chuyện vui mới bắt đầu! Hãy tiếp tục mời bạn bè tham gia kiếm vé Drop! Bạn sẽ kiếm được nhiều vé hơn mỗi khi bạn đạt được một Cột Mốc.
 
-<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers" />
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Các Cột Mốc Giải Thưởng Của Chiến Dịch Aavegotchi Share2Earn" />
 
-**UPDATE: This program has temporarily closed due to large volume of suspected bot activity. Stay tuned in the Aavegotchi Discord for announcements about re-opening.**
+**CẬP NHẬT: Chương trình đã bị tạm hoãn do có bọn mình phát hiện rất nhiều hoạt động đáng ngờ của bot. Hãy theo dõi kênh Discord của bọn mình để nhận thông báo về thời gian mở lại nhé.**
