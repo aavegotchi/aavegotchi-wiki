@@ -112,21 +112,21 @@ Ngày 2 tháng Ba năm 2021 trên Polygon nhé! [Metaverse](/metaverse) sẽ m�
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 Có một vài cách để bạn sở hữu Aavegotchi:
 
-* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+* Mua một [portal](/portals)trong thời gian mở bán portal, mở ra, và [nhận](/portals#claiming-an-aavegotchi) Gotchi bằng cách stake lượng Linh Lực tối thiểu vào Gotchi.
 
-Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+Chi phí: 100 GHST + lượng tài sản thế chấp trị giá ít nhất 10 DAI (có thể bạn sẽ cần nhiều hơn nếu bạn chọn được một Gotchi hiếm từ portal). Phương án này sẽ chỉ khả thi trong thời gian mở bán portal bởi chúng sẽ hết rất nhanh.
 
-* Buy an Unopened Portal at the [Baazaar](/baazaar).
+* Mua Portal chưa mở từ [Baazaar](/baazaar).
 
-Cost: Variable.
+Chi phí: Không cố định.
 
-* Buy an Opened Portal at the [Baazaar](/baazaar).
+* Mua Portal Mở từ [Baazaar](/baazaar).
 
-Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+Chi phí: Không cố định, nhưng giá rẻ hơn Portal Chưa Mở mua ở Baazaar vì đã biết bên trong có 10 Gotchi nào.
 
-* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+* Mua Aavegotchi từ chợ [Baazaar](/baazaar).
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+Chi phí: Không cố định. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
 ### Khi nào thì mainnet được triển khai?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
