@@ -18,11 +18,11 @@ Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổ
 
 FRENS là một một tài khoản không thể chuyển đi được nằm trong Hợp đồng Staking của Aavegotchi. FRENS không thể mua được. Chúng được tạo ra nhằm vinh danh những stakers, những người đã cống hiến cho dự án Aavegotchi.
 
-FRENS can be converted into Raffle Tickets or Drop Tickets:
+FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 
-* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+* Vé Raffle có thể được dùng trong sự kiện Raffle định kỳ để trúng được [Trang Phục](/wearables).
 
-* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
+* Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse). Đọc thêm về Vé Drop tại [trang Metaverse](/metaverse).
 
 Đọc tiếp để hiểu thêm về cách stake GHST và kiếm thêm giải thưởng với FRENS.
 
