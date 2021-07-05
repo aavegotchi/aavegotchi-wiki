@@ -19,13 +19,13 @@ contributors:
 **Nội dung**
 
 <ol>
-<li><a href=#the-aagent-missions>The Aagent Missions</a></li>
+<li><a href=#the-aagent-missions>Nhiệm Vụ Aagent</a></li>
 <li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
 </ol>
 
 </div>
 
-## The Aagent Missions
+## Nhiệm Vụ Aagent
 
 **CHƯƠNG TRÌNH NHIỆM VỤ AAVEGOTCHI HIỆN TẠI ĐÃ KẾT THÚC!**
 
@@ -75,19 +75,19 @@ Chúc mừng các bạn nha, giờ đây bạn đã là một Aagent Aavegotchi 
 
 &nbsp; &nbsp;
 
-## Share2Earn Litepaper Campaign
+## Chiến Dịch Share2Earn
 
-We’re partnering with Viral Loops, an industry leader in referral programs, to create a limited-time campaign where you can earn real rewards for referring your frens to learn about Aavegotchi.
+Bọn mình đang hợp tác với Viral Loops, một công ty hàng đầu về hệ thống giới thiệu, để tạo ra chiến dịch ngắn hạn để các bạn có thể kiếm giải thưởng thật bằng cách mời bạn bè của mình tìm hiểu về Aavegotchi.
 
-The focus of this campaign will be on spreading awareness about the Aavegotchi Realm Litepaper, and the primary rewards will be [Drop Tickets](/metaverse#drop-tickets), a new special type Raffle Ticket that we’ve created for NFT drops.
+Chiến dịch này tập trung vào việc giới thiệu rộng rãi Litepaper của Aavegotchi Realm, và giải thưởng chính sẽ là [Drop Ticket"](/metaverse#drop-tickets), một loại vé Raffle mà bọn mình đã tạo ra cho các đợt mở bán NFT.
 
-**Here’s how to participate**:
+**Đây là cách tham gia**:
 
-1. Take the Aavegotchi Realm Litepaper quiz [here](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Just for passing this short quiz and verifying your email, you’ll earn 1 Rare Ticket NFT. Rare Tickets can be entered into future Wearable Raffles (but not Portal and REALM Raffles).
+1. Trả lời câu hỏi về Aavegotchi Realm Litepaper [tại đây](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Chỉ cần bạn trả lời được các câu hỏi ngắn và xác minh email, bạn sẽ nhận được 1 vé Rare. Vé Rare có thể được dùng để tham gia vào các sự kiện Xổ Số Trúng Trang Phục (nhưng không thêm tham gia vào sự kiện xổ số trúng Portal và REALM).
 
-2. Join the #Share2Earn Program. After completing the quiz, you’ll receive an email that lets you opt into the Referral Program, so you can start inviting your frens. You’ll earn another Rare Ticket by inviting the first fren.
+2. Tham gia Chương Trình #Share2Earn. Sau khi hoàn thành câu hỏi, bạn sẽ nhận được email cho bạn biết rằng bạn đã tham gia vào Chương Trình Mời Bạn Bè, để bạn có thể bắt đầu thực hiện. Bạn sẽ kiếm được thêm một chiếc vé Rare bằng cách mời người bạn đầu tiên.
 
-3. Now the fun begins! Keep inviting frens to start earning Drop Tickets! You’ll earn more tickets every time you reach a Milestone.
+3. Khi đó, chuyện vui mới bắt đầu! Hãy tiếp tục mời bạn bè tham gia kiếm vé Drop! Bạn sẽ kiếm được nhiều vé hơn mỗi khi bạn đạt được một Cột Mốc.
 
 <img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers" />
 
