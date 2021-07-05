@@ -126,45 +126,45 @@ Chi phí: Không cố định, nhưng giá rẻ hơn Portal Chưa Mở mua ở B
 
 * Mua Aavegotchi từ chợ [Baazaar](/baazaar).
 
-Chi phí: Không cố định. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+Chi phí: Không cố định. Dựa vào độ hiếm của Gotchi, trang phục chúng mặc, Huy Hiệu, v. v.
 
 ### Khi nào thì mainnet được triển khai?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
+Ban đầu, Mainnet đã được dự định sẽ ra mắt vào ngày 4 tháng Giêng năm 2021. Do tình trạng nghẽn mạng gay gắt của blockchain Ethereum, bọn mình đã để cho cộng đồng bầu chọn. Cộng đồng đã chọn triển khai Aavegotchi trên Polygon vào một ngày khác. Team Aavegotchi đã xác nhận rằng game sẽ được khởi chạy trên Polygon vào ngày 2 tháng Ba năm 2021.
 
 
 ### Giờ mình có thể làm gì?
 
-Right now, you can:
+Hiện tại, bạn có thể:
 
-* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+* **Stake GHST để kiếm FRENS:** FRENS có thể được dùng để mua vé raffle và dùng trong sự kiện Raffle. Hãy xem qua [trang Staking](/staking) để biết thêm thông tin!
 
-* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+* **Pet gotchi mỗi 12 tiếng:** Đúng vậy! Bạn cần phải xây dựng [Kinship](/traits#kinship) cho Gotchi của mình! Kinship càng cao thì bạn thể hiện trong [Rarity Farming](/rarity-farming) càng tốt!
 
-* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+* **Hãy chơi Mini-Games:**Một vài [Mini-Games](/minigames) hiện đã có thể chơi được. Hãy xem qua nhé!
 
 
 ### Mình có cần KYC trước khi chơi Aavegotchi hoặc nắm giữ token GHST hay không?
 
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+Không nha! Bạn chỉ cần hoàn thành KYC để mua GHST trực tiếp từ [bonding curve](/curve). Bạn có thể mua GHST từ [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) mà không cần phải KYC, cũng có thể mua từ [một số sàn giao dịch nhất định](https://www.coingecko.com/en/coins/aavegotchi#markets). Trong khi đó, bạn **không cần phải KYC** để mua [portal](/portals), [chơi minigame](/minigames), [stake GHST](/staking), hoặc bất kỳ khía cạnh nào khác của dự án Aavegotchi.
 
-The table below summarizes the information:
+Bảng dưới đây sẽ tóm tắt lại thông tin:
 
 table_kyc
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng [aTokens](/atokens) như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một [nhà đầu tư chính thức](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
 
 ### Atoken stake vào một Aavegotchi có thể bị thanh lý hay không?
-Không nha. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+Không nha. Atoken được stake trong Aavegotchi không thể được dùng như một tài sản thế chấp để vay tiền từ nền tảng Aave. Thật ra, những aToken này không thể bị thanh lý.
 
 ### MaToken là gì?
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+maToken là aToken được chuyển đến Polygon. Tương tự như aToken, chúng tự sinh ra lợi nhuận theo thời gian!
 
 ### CAPTCHA có thể được dùng để ngăn chặn bot hay không?
-Không nha. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+Không nha. Trang web [Aaavegotchi.com](https://aavegotchi.com/) chỉ là một giao diện. Bot vẫn sẽ dễ dàng vượt qua được giao diện này và tương tác trực tiếp với hợp đồng thông minh.
 
-This is a feature of permissionless blockchains. It cannot be stopped.
+Đây là một tính năng của hợp đồng thông minh. It cannot be stopped.
 
 ### AmToken có giống maToken hay không?
 Không nha. amTokens are **not** the same as maTokens.
@@ -217,7 +217,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
@@ -330,7 +330,7 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
 ### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?
 
