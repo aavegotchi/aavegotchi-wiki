@@ -85,7 +85,7 @@ Example of the Final Rarity Score calculation is as shown below:
 table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
-**The formula for ARS is not finalized yet. As a result, the values in the ARS column in the above table are arbitrary.**
+**The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
 ## Rewards
 
