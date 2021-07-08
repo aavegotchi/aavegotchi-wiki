@@ -36,10 +36,10 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
 <p><a href=#gotchus-alchemica-exchange>Sàn Giao Dịch Gotchus Alchemica</a></p>
 <p><a href=#haunts>Haunts</a></p>
-<p><a href=#installations>Installations</a></p>
+<p><a href=#installations>Các Công Trình</a></p>
 <p><a href=#raffle-tickets>Vé Raffle</a></p>
 <p><a href=#realm>REALM</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
+<p><a href=#spirit-force>Linh Lực</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#ugotchi-token>Token uGOTCHI</a></p>
 <p><a href=#wearables>Wearables</a></p>
@@ -47,7 +47,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Automated Market Maker</a></p>
+<p><a href=#automated-market-maker>Trình tạo thị trường tự động (Amm)</a></p>
 <p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
@@ -136,7 +136,7 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 ### Haunts
 Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
-### Installations
+### Các Công Trình
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
 
 Check out the [Metaverse page](/metaverse#building-on-realm-parcels) for a list of Installations that you can build.
@@ -151,7 +151,7 @@ Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-ticket
 ### REALM
 Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
 
-### Spirit Force
+### Linh Lực
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### Spirit Point
@@ -194,7 +194,7 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
 
-### Automated Market Maker
+### Trình tạo thị trường tự động (Amm)
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
 This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
