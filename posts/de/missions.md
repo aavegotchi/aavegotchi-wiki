@@ -6,12 +6,26 @@ description: 'Alles über die Aavegotchi Missionen'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
 <p class="headerImageText">Aagents bei der Arbeit</p>
 </div>
+
+<div class="contentsBox">
+
+**Inhalte**
+
+<ol>
+<li><a href=#the-aagent-missions>The Aagent Missions</a></li>
+<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
+</ol>
+
+</div>
+
+## The Aagent Missions
 
 **DAS AAVEGOTCHI MISSIONS-PROGRAMM IST NUN ABGESCHLOSSEN!**
 
@@ -60,3 +74,21 @@ Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt ke
 Herzlichen Glückwunsch, du bist nun ein offizieller Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Schliess dich uns an, solange du noch kannst - [Tritt unserem Discord bei um loszulegen!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
+
+## Share2Earn Litepaper Campaign
+
+We’re partnering with Viral Loops, an industry leader in referral programs, to create a limited-time campaign where you can earn real rewards for referring your frens to learn about Aavegotchi.
+
+The focus of this campaign will be on spreading awareness about the Aavegotchi Realm Litepaper, and the primary rewards will be [Drop Tickets](/metaverse#drop-tickets), a new special type Raffle Ticket that we’ve created for NFT drops.
+
+**Here’s how to participate**:
+
+1. Take the Aavegotchi Realm Litepaper quiz [here](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Just for passing this short quiz and verifying your email, you’ll earn 1 Rare Ticket NFT. Rare Tickets can be entered into future Wearable Raffles (but not Portal and REALM Raffles).
+
+2. Join the #Share2Earn Program. After completing the quiz, you’ll receive an email that lets you opt into the Referral Program, so you can start inviting your frens. You’ll earn another Rare Ticket by inviting the first fren.
+
+3. Now the fun begins! Keep inviting frens to start earning Drop Tickets! You’ll earn more tickets every time you reach a Milestone.
+
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers" />
+
+**UPDATE: This program has temporarily closed due to large volume of suspected bot activity. Stay tuned in the Aavegotchi Discord for announcements about re-opening.**

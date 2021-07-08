@@ -87,7 +87,7 @@ Ví dụ về cách tính Final Rarity Score được thể hiện phía dưới
 table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRS là viết tắt của Base Rarity Score; ARS là viết tắt của Absolute Rarity Score</i></p>
 
-*Công thức tính ARS vẫn chưa hoàn chỉnh. Do đó, giá trị trên cột ARS sẽ thay đổi.*
+**The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
 ## Phần thưởng
 
