@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
-* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
+## [Drop Ticket Đã Xuất Hiện!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* Vào ngày 2 tháng Bảy 2021, Pixelcraft đã công bố về việc Drop Ticket có mặt tại Aavegotchi.com
+* Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được Portal và Các Mẫu Đất REALM
 <p></p>
 
 ## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
