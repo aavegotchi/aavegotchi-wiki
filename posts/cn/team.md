@@ -31,6 +31,7 @@ contributors:
 <li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#bingehd>BinGeHD</a></li>
+<li><a href=#shohan>Shohan</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -128,6 +129,15 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 </div>
 
 Twitch partner, previously a professional gaming evangelist, shoutcaster, and member of the team Flash Wolves.
+
+## Shohan
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
+</div>
+
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ## Origins
 
