@@ -32,6 +32,7 @@ contributors: ["eris771"]
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
 <p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
 <li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
@@ -183,6 +184,11 @@ QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You 
 **Doesn't work**: ETH/USDC -> maUNI/maLINK
 
 **Works**: maUSDC -> maUNI/maLINK
+
+### Will Aavegotchi be integrated with OpenSea?
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+
+Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
 ## Bonding Curve FAQ
 
