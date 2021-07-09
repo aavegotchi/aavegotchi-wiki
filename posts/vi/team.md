@@ -32,7 +32,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#bingehd>BinGeHD</a></li>
 <li><a href=#shohan>Shohan</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>Team Gốc</a></li>
 </ol>
 
 </div>
@@ -119,7 +119,7 @@ Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và 
 <p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
 </div>
 
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 năm hỗ trợ trong việc tạo ra game bằng cách sử dụng thiết kế game, âm nhạc, và hoạt ảnh cho máy điện tử cầm tay, PC, máy điện tử thùng, điện thoại, mán tính bàn, và VR. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ## BinGeHD
 
@@ -139,7 +139,7 @@ Twitch partner, previously a professional gaming evangelist, shoutcaster, and me
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
-## Origins
+## Team Gốc
 
 ### Đội Nhóm Không Tưởng Tập Hợp
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
