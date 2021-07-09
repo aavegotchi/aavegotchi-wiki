@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+## [Aavegotchi Haunt 2 Signal Proposal đã có mặt!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
 * On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
 * After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
 * If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
