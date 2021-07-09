@@ -132,7 +132,7 @@ Twitch partner, previously a professional gaming evangelist, shoutcaster, and me
 ## Shohan
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.jpg" alt = "Shohan">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
 </div>
 
