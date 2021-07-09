@@ -29,6 +29,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
 <li><a href=#jason-chew>Jason Chew</a></li>
+<li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -109,6 +110,14 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 
 Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
 
+## NyanKong
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
+</div>
+
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ## Origins
 
