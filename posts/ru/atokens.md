@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.png">
-<p class="headerImageText">Токен aETH</p>
+<p class="headerImageText">Про аТокены</p>
 </div>
 
 Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
