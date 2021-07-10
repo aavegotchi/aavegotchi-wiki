@@ -11,6 +11,8 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
@@ -38,12 +40,12 @@ Link to video [here](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
 ### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/cbUO9yb2bjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe src="https://anchor.fm/andrew-steinwold/embed/episodes/Jesse--Dan-from-Aavegotchi---Challenging-The-NFT-Status-Quo---Zima-Red-ep-41-en5go5/a-a404hd4" height="102px" width="400px" frameborder="0" scrolling="no" mark="crwd-mark"></iframe>
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
-### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
+### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>3
 
 

@@ -33,6 +33,7 @@ contributors:
 <p><a href=#could-captcha-be-used-to-prevent-bots->CAPTCHA có thể được dùng để ngăn chặn bot hay không?</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->AmToken có giống maToken hay không?</a></p>
 <p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Tại sao mình không thể swap cặp maLINK/maUNI trên Quickswap được?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Aavegotchi sẽ được tích hợp trên OpenSea hay không?</a></p>
 <li><a href=#bonding-curve-faq>Những câu hỏi về Bonding Curve</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Ai đó có thể vượt mặt bonding curve hay không?</a></p>
@@ -75,7 +76,7 @@ contributors:
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Mình phải làm sao để tìm được Token ID của Gotchi?</a></p>
 <p><a href=#where-do-i-find-my-gotchi-address->Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?</a></p>
 </ol>
 
@@ -183,6 +184,11 @@ QuickSwap đang có lỗi trong quá trình định tuyến đối với một s
 **Không hoạt động**: ETH/USDC -> maUNI/maLINK
 
 **Vẫn hoạt động bình thường**: maUSDC -> maUNI/maLINK
+
+### Aavegotchi sẽ được tích hợp trên OpenSea hay không?
+Aavegotchi tương thích hoàn toàn với OpenSea (và những chợ thứ cấp khác) trên Ethereum Mainnet. Việc khó khăn ở đây chính là OpenSea trên Polygon. Khi ai đó đăng bán Gotchi trên Baazaar, trang phụ của chúng cũng sẽ được niêm yết chung với chúng. OpenSea Polygon không hỗ trợ cơ chế này. Do đó, người bán Gotchi trên OpenSea Polygon có thể rút trang phục của Gotchi khi đến tay người mua. Để bảo vệ người mua, Pixelcraft đã cho OpenSea biết rằng họ sẽ không đăng bán dự án của mình trên Polygon.
+
+Tương tự như vậy, có một vài bất cập trong việc đăng bán trang phục trên OpenSea Polygon. Do cách viết hợp đồng thông minh của OpenSea Polygon, họ gặp phải nhiều khó khăn trong việc hỗ trợ các trang phục chuẩn ERC-1155. Vấn đề nằm ở địa chỉ ví lưu giữ cả ERC-721 (Gotchi) và ERC-1155 (trang phục). Nền tảng của họ không được cài đặt để lưu giữ cả hai trên cùng một hợp đồng.
 
 ## Những câu hỏi về Bonding Curve
 
@@ -309,7 +315,7 @@ Với các thiết bị Android, bạn có thể dùng trình duyệt của ứn
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Đúng vậy! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
+Yes! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
@@ -338,7 +344,7 @@ MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 
 
 Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Giới hạn ký tự của token trên MetaMask" />
 
 ### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
 
@@ -362,7 +368,7 @@ Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: htt
 
 Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
 
-### Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?
+### Mình phải làm sao để tìm được Token ID của Gotchi?
 
 Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
 
@@ -382,6 +388,6 @@ Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.c
 
 Hãy lưu ý rằng mỗi Gotchi sẽ có riêng cho mình một Địa Chỉ Hợp Đồng Thông Minh.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
 
 

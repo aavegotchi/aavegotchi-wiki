@@ -29,6 +29,9 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
 <li><a href=#jason-chew>Jason Chew</a></li>
+<li><a href=#nyankong>NyanKong</a></li>
+<li><a href=#bingehd>BinGeHD</a></li>
+<li><a href=#shohan>Shohan</a></li>
 <li><a href=#origins>Team Gốc</a></li>
 </ol>
 
@@ -109,6 +112,32 @@ Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã 
 
 Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và không bao giờ nhìn lại. Từ DAOstack, BrightID đến Gitcoin, Jason là một người đã quá quen thuộc với DeFi và luôn không ngừng thử nghiệm, giáo dục mọi người để giúp họ sớm tiếp cận. Jason cũng đang quản lý BitcoinMalaysia, cộng đồng tiền mã hoá online lớn nhất tại Đông Nam Á, và kể từ đợt đại dịch, đã có hơn 8000 người tham gia vào những buổi chia sẻ về tiền mã hoá cho người mới bắt đầu của anh.
 
+## NyanKong
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
+</div>
+
+Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 năm hỗ trợ trong việc tạo ra game bằng cách sử dụng thiết kế game, âm nhạc, và hoạt ảnh cho máy điện tử cầm tay, PC, máy điện tử thùng, điện thoại, mán tính bàn, và VR. Tình yêu của anh dành cho việc tạo ra các hình thức giải trí giúp anh luôn bận rộn với trí tưởng tượng quá đổi tích cực, song song đó nhu cầu kết nối tích cực với đội ngũ và khán giả giữ cho trái tim hướng về xã hội của anh luôn được vui vẻ. Trách nhiệm chính của Christian trong đội ngũ Pixelcraft là thiết kế và tạo ra hình ảnh cho Realm để cộng đồng có thể khám phá và tận hưởng trong nhiều năm tới.
+
+## BinGeHD
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/bingehd.png" alt = "BinGeHD">
+<p class="leftImageText"><a href="https://facebook.com/bingehd">BinGeHD</a></p>
+</div>
+
+Đối tác của Twitch, trước đây anh là một người đầu tư mạo hiểm vào game, caster, và là thành viên của nhóm Flash Wolves.
+
+## Shohan
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
+</div>
+
+Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
 
 ## Team Gốc
 
@@ -117,7 +146,7 @@ Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và 
 
 Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
 
-"Đến lúc bán kẹo rồi" Dan nói.
+"Đến lúc bán kéo rồi" Dan nói.
 
 Và anh ta là một người bán hàng tuyệt vời!  Dù không may là anh ta đã không đủ giỏi giang để bán kẹo trên bãi biển, thế những chàng trai đã va phải vào ánh mắt của một người trẻ tuổi cũng đứng gần đó là Jesse, AKA GldnXross.  Hai người nhanh chóng trở thành bồ tèo của nhau, nô đùa cùng nhau, và nên những bản nhạc tuyệt vời.  May mắn thay, con đường là ăn không mấy khả quan nên cặp đôi đã cùng nhau làm những điều vĩ đại hơn...
 

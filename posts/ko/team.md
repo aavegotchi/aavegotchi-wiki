@@ -29,6 +29,9 @@ contributors:
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
 <li><a href=#jason-chew>Jason Chew</a></li>
+<li><a href=#nyankong>NyanKong</a></li>
+<li><a href=#bingehd>BinGeHD</a></li>
+<li><a href=#shohan>Shohan</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -109,6 +112,32 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 
 Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
 
+## NyanKong
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
+</div>
+
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+
+## BinGeHD
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/bingehd.png" alt = "BinGeHD">
+<p class="leftImageText"><a href="https://facebook.com/bingehd">BinGeHD</a></p>
+</div>
+
+Twitch partner, previously a professional gaming evangelist, shoutcaster, and member of the team Flash Wolves.
+
+## Shohan
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
+</div>
+
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ## Origins
 
