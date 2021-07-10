@@ -56,7 +56,7 @@ Tất cả những bài đăng bán đều phải có giá tối thiểu là 1 G
 
 Người mua có thể mua 1, một vài hoặc tất cả vật phẩm trong cùng một bài đăng.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Baazaar" />
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
