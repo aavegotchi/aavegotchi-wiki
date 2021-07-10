@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
-Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
+Bên ngoài Vương Quốc của loài người có tồn tại nơi khác gọi là Vương Quốc Ether, nơi có những hợp đồng thông minh lấp lánh và những khu rừng tăm tối ẩn nấp. Đi xa hơn nữa xuống chiếc hang thỏ, cuối cùng ta sẽ tìm được Vương Quốc Gotchiverse. Mỗi khi một người nông dân cày lãi ở Vương Quốc Ether bị cháy tài khoản, linh hồn của người đó sẽ du hành đến Gotchiverse, và đầu thai thành một Aavegotchi. Aavegotchi là những sinh vật tâm linh cực kỳ yêu thích việc [cày cuốc](/rarity-farming), [bỏ phiếu](/dao), và đăng bài nhảm nhí.
 
-The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the Liquidators, their creators.
+Ban đầu chỉ có một vài Aavegotchi sống ở Gotchiverse, nhưng khi số vụ cháy tài khoản diễn ra ngày càng nhiều ở Vương Quốc Ether, dân số của Gotchiverse đã tăng đột biến lên đến hàng nghìn Aavegotchi. Chúng khám phá, xây dựng, mở rộng nơi sinh sống, và thậm chí là xây dựng nên những cấu trúc cực lớn để thờ phụng các Liquidator, những người tạo ra chúng.
 
 <a name="Realm"></a>
 
@@ -25,72 +25,72 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 **Nội dung**
 
 <ol>
-<li><a href=#zones>Zones</a></li>
-<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
-<li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#zones>Các Khu Vực</a></li>
+<li><a href=#realm-parcel-sizes>Kích Thước Đất REALM</a></li>
+<li><a href=#realm-gameplay>Lối Chơi Trong REALM</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Giao Tiếp Xã Hội Trong Gotchiverse</a></li>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
-<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
-<p><a href=#total-supply>Total Supply</a></p>
-<p><a href=#distribution>Distribution</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
+<li><a href=#building-on-realm-parcels>Xây Dựng Mẫu Đất REALM</a></li>
+<li><a href=#realm-tokenomics>Tokenomics của REALM</a></li>
+<p><a href=#total-supply>Tổng Lượng Cung</a></p>
+<p><a href=#distribution>Phân Phối</a></p>
+<p><a href=#drop-tickets>Vé Drop</a></p>
 </ol>
 
 </div>
 
-## Zones
+## Các Khu Vực
 
-The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
+Gotchiverse bao gồm một vùng đất rộng lớn, với những địa danh chủ đạo trải dài xuyên suốt các vùng địa lý của nó. Nó có ba khu vực riêng biệt:
 
-* The Citaadel
+* The Citaadel (Kinh Đô)
 * The Grid
 * The Beyond
 
-### The Citaadel
+### The Citaadel (Kinh Đô)
 
-Protected by a Force Field that keeps out Liquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Towers cannot be built in the Citaadel, except for in special areas around the Great Portal.
+Được bảo vệ bởi Trường Lực có khả năng xua đuổi Người Thanh Khoản, Citaadel là ngôi nhà chính của Aavegotchi trong Gotchiverse. Các tòa tháp không được xây dựng tại Citaadel, trừ những khu vực xung quanh Cánh Cổng Lớn.
 
-#### The Great Portal
+#### The Great Portal (Cánh Cổng Lớn)
 
-A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/metaverse#gotchus-alchemica) harvested from the Gotchiverse.
+Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu trúc với bản chất ma thuật đáng kinh ngạc, có thể làm cầu nối vực thẳm giữa Gotchiverse và Vương Quốc Loài Người. Great Portal chứa đựng linh hồn của tất cả những Aavegotchi đã từng tồn tại. Nó bảo vệ Gotchiverse Citaadel, nhưng cần phải đổi lại vào đó một lượng nhỏ tài nguyên [Gotchus Alchemica](/metaverse#gotchus-alchemica) thu hoạch từ Gotchiverse.
 
 ### The Grid
 
-The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- Liquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
+The Grid bao gồm tất cả mọi nơi bên ngoài Citaadel. Số lượng đất có ở Grid nhiều hơn, nhưng chủ sở hữu cần lưu ý - Người Thanh Khoản đang lùng sụt khắp mọi ngõ ngách. Những mẫu đất bên ngoài Grid có thể xây nên được Những Bức Tường và Tòa Tháp.
 
-#### The Aarena
-A key landmark in the Grid is the Aarena.
+#### The Aarena (Đấu Trường)
+Là khu vực chủ chốt ở Grid.
 
-Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
+Dù Aavegotchi rất thân thiện, nhưng chúng nhận ra rằng việc những cơn thịnh nộ của mình cần được giải tỏa, đó là lý do tại sao chúng tạo ra Aarena.
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/atokens) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+Trong Aarena, Aavegotchi với [Linh Lực](/atokens) đủ cao (aToken tự động sinh lời của Aave) sẽ chiến đấu với nhau trong một trận chiến khủng khác theo phong cách Battle Royales (chỉ một nhà vô địch), đấu nhau để giành lấy Linh Lực của đối phương.
 
-Liquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows Liquidators to enter.
+Người Thanh Khoản không dám bước chân vào Aarena, thay vì vậy, chúng thường lui tới một nơi gọi là Phantastic Grounds, một khu vực để đấu cùng đồng loại, cũng cho phép Người Thanh Khoản bước vào.
 
 ### The Beyond
 
-Locked Parcels that will not be unlocked until the beginning of Act 2.
+Hững Mẫu Đất bị khóa sẽ không thể mở được cho đến khi Act 2 bắt đầu.
 
-## REALM Parcel Sizes
+## Kích Thước Đất REALM
 
-Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+Parcel có 3 kích thước, kích thước càng lớn thì cần có nhiều Alchemica* và khoảng trống để xây dựng
 
-* Humble: Contain smol deposits of Alchemica and building space
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space
-* Spacious: Contain huge deposits of Alchemica and building space
+* Kích Thước Khiêm Tốn: có một lượng Alchemica gửi vào và khoảng trống để xây dựng nhỏ
+* Kích Thước Vừa: có một lượng Alchemica gửi vào và khoảng trống xây dựng vừa phải
+* Kích Thước Lớn: có một lượng Alchemica gửi vào và khoảng trống xây dựng lớn
 
-*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+*Số lượng Tài Nguyên có thể được tính toán chính xác bằng [Chainlink VRF](/glossary#chainlink-vrf) lúc mua.
 
 <img class="bodyImage" src="/metaverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
-## REALM Gameplay
+## Lối Chơi Trong REALM
 
-Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
+Những ai sở hữu những mẫu đất REALM có thể dùng Aavegotchi của mình (và của người khác) để có thể cày lãi trên những mẫu đất REALM, giúp tạo ra lượng lớn tài nguyên được gọi là Gotchus Alchemica. Những tài nguyên này có thể kết hợp để tạo ra những cấu trúc được gọi là [Installation](/metaverse#building-on-realm-parcels).
 
-The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+Gotchiverse là một không gian xã hội kết thúc mở, nơi người chơi có thể tham gia vào vô số hoạt động chẳng hạn như nông nghiệp, chế tạo, giao dịch, và chiến đấu.
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great Liquidator invasion.
+Dù không hề có điều kiện thắng hoặc viễn cảnh “hết game”, nhưng mục tiêu tổng quát của Gotchiverse là thu thập Alchemica để củng cố mẫu đất, giúp tạo ra nhiều lãi hơn, và xây dựng những cấu trúc phòng thủ giúp chuẩn bị cho Lời tiên tri, và cuộc xâm lược lớn của Người Thanh Khoản.
 
 Players that possess Liquidator Credits can opt to play as Liquidators. Liquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
 
@@ -98,7 +98,7 @@ The main goal of a Liquidator is to collect loose Alchemica that has been spille
 
 Liquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
-## Socializing in the Gotchiverse
+## Giao Tiếp Xã Hội Trong Gotchiverse
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
@@ -123,7 +123,7 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-## Building on REALM parcels
+## Xây Dựng Mẫu Đất REALM
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
@@ -135,7 +135,7 @@ Installations take a certain number of blockchain blocks to finish constructing,
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
-## REALM Tokenomics
+## Tokenomics của REALM
 
 ### Total Supply
 
@@ -157,14 +157,14 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Drop Tickets
+### Vé Drop
 
-Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Mỗi Vé Drop đại diện cho **một** cơ hội tham gia vào sự kiện Xổ Số Raffle, ở đó bạn có thể giành được Portal Aavegotchi và Mẫu Đất REALM.
 
 <img class="bodyImage" src="/metaverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-There are three ways to get Drop Tickets:
+Có 3 cách để nhận Vé Drop:
 
-* Convert 10,000 FRENS into one Drop Ticket
+* Chuyển đổi 10k FRENS thành một Vé Drop
 * Convert other Raffle Tickets into a Drop Ticket
 * Refer your friends to earn Drop Tickets 🔥
