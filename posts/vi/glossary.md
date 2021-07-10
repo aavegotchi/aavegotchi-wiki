@@ -69,7 +69,7 @@ Khi bạn đã đọc xong trang này và hi vọng là đã hiểu hơn về nh
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
+<p><a href=#gbm-auction>Đấu Giá GBM</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
@@ -105,51 +105,51 @@ Hãy cùng hóng nhiều Huy Hiệu hơn trong tương lai nhé. Team chúng mì
 
 Xem qua trang [Baadge](/baadge) để thấy được toàn bộ các Baadges đã được trình làng.
 
-### Drop Tickets
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/metaverse).
+### Vé Drop
+Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse).
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10,000 [FRENS](/glossary#frens) có thể đổi lấy một Drop Ticket.
 
-Raffle Tickets could also be converted into Drop Tickets.
+Vé Raffle cũng có thể được dùng để đổi lấy Drop Ticket.
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Là số điểm được dùng để thưởng cho những người stake GHST. FRENS không phải là token. Về mặt kỹ thuật, nó chỉ là một tài khoản nằm trong Hợp Đồng Thông Minh. FRENS không thể chuyển đi được và được dùng để thưởng cho những staker vì họ đã cống hiến cho dự án Aavegotchi.
 
-Read more about FRENS in the [Staking page](/staking).
+Đọc thêm về FRENS tại [trang Staking](/staking).
 
 ### Gotchi Pocket
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+Mỗi Aavegotchi có một Gotchi Pocket riêng. Chiếc ví này cũng giống như một túi hành trang của Gotchi, cho phép chúng lưu giữ các trang phục được mặc lên người, token GHST nhận được từ [rarity farming](/rarity-farming), và [Huy Hiệu](/baadge).
 
-Technically, a Gotchi Pocket is an escrow address.
+Về mặt kỹ thuật, Gotchi Pocket là một hợp đồng lưu giữ.
 
 ### Gotchus Alchemica
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
+Gotchus Alchemica là bốn nguyên tố của Gotchiverse: Fud, Fomo, Alpha, và Kek. Chúng có thể được kết hợp lại để tạo thành [Các Công Trình](/glossary#installations) và Aesthetica, bên cạnh những công dụng khác.
 
-Technically, each element exists as an ERC-20 token.
+Về mặt kỹ thuật, mỗi nguyên tố là một token ERC20.
 
-Check the [Metaverse page](/metaverse) for more information.
+Bạn có thể xem thêm thông tin tại [trang Metaverse](/metaverse).
 
 ### Sàn Giao Dịch Gotchus Alchemica
 
-The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+Sàn DEX chính chủ của Aavegotchi. Nó hỗ trợ việc giao dịch các cặp GHST-Gotchus Alchemica. Hãy xem qua [trang Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange) để biết thêm thông tin.
 
 ### Haunts
-Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+Haunt là các phiên bản của Aavegotchi. Số hiệu của Haunt sẽ tăng dần (ví dụ Haunt 1 rồi sẽ đến Haunt 2) và những số liệu này có thể thấy được trên Aavegotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
 
 ### Các Công Trình
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
+Công trình là những cấu trúc mạnh mẽ có thể được xây dựng trên các mẫu đất REALM bằng cách sử dụng các nguồn tài nguyên mang tên [Gotchus Alchemica](/glossary#gotchus-alchemica).
 
-Check out the [Metaverse page](/metaverse#building-on-realm-parcels) for a list of Installations that you can build.
+Hãy xem qua tại [trang Metaverse](/metaverse#building-on-realm-parcels) để biết hết danh sách các công trình mà bạn có thể xây dựng nhé.
 
 ### Vé Raffle
-Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+Raffle Tickets là những chiếc vé được dùng để tham gia vào Raffle để có thể giành được [trang phục](/wearables) với số lượng có hạn. Vé Raffle được dùng trong sự kiện này.
 
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
+Vé Raffle có thể được mua bằng [FRENS](/glossary#frens) kiếm được thông qua [Staking](/staking).
 
-Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
+Vé Raffle cũng có thể được đổi thành [Drop Tickets](/glossary#drop-tickets) để mua các mẫu đất REALM.
 
 ### REALM
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
+Các mẫu đất trong Gotchiverse là nơi mà Gotchi sinh sống. A place for socializing, going on aadventures, and fighting baaddies!
 
 ### Linh Lực
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
@@ -336,7 +336,7 @@ A novel token standard that aims to take the best from previous standards to cre
 
 Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
-### GBM Auction
+### Đấu Giá GBM
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
 
 GBM stands for Gonnaud-Bessire-McDonaugh.
