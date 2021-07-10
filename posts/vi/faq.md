@@ -370,21 +370,21 @@ Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: htt
 
 ### Mình phải làm sao để tìm được Token ID của Gotchi?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Một khi bạn đã có được Gotchi ID, bạn có thể liên kết Gotchi với tên người dùng của Discord bằng cách dùng dòng lên sau:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Hãy nhớ chú ý rằng nếu bạn có từ 1 Gotchi trở lên thì bạn sẽ phải lập lại quá trình này nhiều lần.
 
 ### Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
 Do note that each Gotchi will have its own Smart Contract Address.
 
