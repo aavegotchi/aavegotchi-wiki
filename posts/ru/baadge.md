@@ -7,29 +7,29 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Бааджи — это NFT стандарта ERC-1155, получаемые игроком за участие Готчи в определенном мероприятии. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Бааджи — это NFT стандарта ERC-1155, получаемые игроком за участие Готчи в определенном мероприятии. По его завершении награды передаются в инвентарь Готчи ( [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket)) и остаются там навсегда.
 
-Baadges could be earned in a variety of ways:
+Заработать их можно следующим образом:
 
-* Getting into the Top 10/100 for Rarity Farming
-* Participating in an event
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
-* .....And many more!
+* Если ваш Готчи войдет в ТОП 10/100 по уровню редкости.
+* Станет участником мероприятия.
+* Проголосует за будущее проекта в AavegotchiDAO.
+* Получит высокий балл за прохождение мини-игры.
+* И еще много других способов!
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Следите за обновлениями! Новые награды будут анонсироваться командой по мере их запуска.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#list-of-baadges>List of Baadges</a></li>
+<li><a href=#list-of-baadges>Список Бааджей</a></li>
 </ol>
 
 </div>
 
-## List of Baadges
+## Список Бааджей
 
 table_baadge
 
