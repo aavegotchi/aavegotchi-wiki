@@ -29,25 +29,25 @@ contributors:
 
 <div class="contentsBox">
 
-Содержание
+**Содержание**
 
 <ol>
 <li><a href=#about>Об аТокене.</a></li>
-<li><a href=#stablecoins>Стейблкоины</a></li>
-<li><a href=#cryptocurrencies>Криптовалюты</a></li>
+<li><a href=#stablecoins>Стейблкоины.</a></li>
+<li><a href=#cryptocurrencies>Криптовалюты.</a></li>
 <li><a href=#getting-atokens>Получение аТокенов</a></li>
-<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены</a></li>
+<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены.</a></li>
 </ol>
 
 </div>
 
-## Об аТокене.
+## Про аТокен
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+При внесении депозита на счет в кошельке начисляются токены, и пока депозит остается в системе, на них капают проценты.  Проследить этот процесс можно в режиме реального времени, наблюдая, как каждую минуту увеличивается ваш баланс.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+аТокены делятся на две категории: криптовалюты или стейблкоины. Криптовалюты — это защищенные криптографически цифровые виртуальные валюты.  В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью PC. Стейблкоины — класс криптовалют, привязанных к базовому активу — доллару США (USD), и имеющих стабильную цену. Они подвержены меньшей волатильности, чем криптовалюты, и у каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+В таблице ниже вы можете увидеть, какие токены [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (криптовалюты и стейблкоины) доступны в рамках протокола Aave. В столбце “Поддерживается Aavegotchi” вы можете увидеть, станет ли данный токен доступным для геймплея. Список поддерживаемых токенов обновляется. По запросу игроков проводится голосование в Twitter/DAO, и больше токенов добавляется в геймплей.
 
 ## Стейблкоины
 
@@ -59,15 +59,15 @@ table_cryptocurrencies
 
 ## Получение аТокенов
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Следующие шаги взяты из руководства [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) от Aave Medium. Он воспроизведен здесь для удобства читателя.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Перейдите к протоколу <a href = "https://app.aave.com/">Aave Protocol</a>, чтобы начать!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Здесь у вас есть несколько вариантов привязки вашего криптокошелька в зависимости от того, какой у вас тип кошелька:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Прежде чем вы сможете использовать протокол Aave, вам нужно иметь некоторые криптоактивы. Список доступных криптоактивов показан в разделах <a href=#stablecoins>стейблкоины</a> и <a href=#cryptocurrencies>криптовалюты</a> выше.
 
 If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
