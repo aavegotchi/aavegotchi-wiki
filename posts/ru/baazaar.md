@@ -18,34 +18,34 @@ contributors:
 
 “У меня есть для тебя нечто удивительное!”
 
-Он достает небольшой предмет, завернутый в ткань. Аккуратно разворачивает ее, и, попав под яркие полуденные лучи, у него в руках переливается всеми цветами радуги огромный драгоценный камень. “Вот этот алмаз” — восторгаешься ты, протягивая руки к чуду.
+Он достает небольшой предмет, завернутый в ткань. Аккуратно разворачивает ее. И, попав под яркие полуденные лучи, у него в руках переливается всеми цветами радуги огромный драгоценный камень.
 
-".....A Mudgen Diamond" you whisper to yourself.
+“Вот этот алмаз” — восторгаешься ты, протягивая руки к чуду.
 
-The marvellous shine catches the attention of countless bystanders.
+Чудесное сияние не осталось незамеченным. Вокруг собирается толпа.
 
-Another Gotchi shoves in. "I'll have it!"
+Вот уже другой Готчи тянет свои загребущие руки… Хочу, хочу!!!
 
-"NO! I'LL HAVE IT!"
+Но ты проворней. С воплем “Моя Прелесть!” ты прячешь сокровище, заплатив за него звонкой монетой…
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Ну как, представил? Интересно, хватит ли у тебя смекалки среди десятков других распознать выгодную сделку. И хватит ли терпения выдержать жаркую торговлю на пути к богатству?
 
-Come and test your mettle! Buyers and sellers alike!
+Заходи и проверь! Ты можешь быть как продавцом, так и покупателем.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#aavegotchi-baazaar>Аавеготчи Базар.</a></li>
+<li><a href=#features>Фичи.</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Аавеготчи Базар
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+Baazaar — вторичный рынок на Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
 When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
 * 2% to Pixelcraft Studios
@@ -62,7 +62,7 @@ Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aaveg
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Features
+## Фичи.
 There are a variety of products listed on the Baazaar:
 
 * Closed Portals
