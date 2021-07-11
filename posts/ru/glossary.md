@@ -22,7 +22,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
@@ -37,7 +37,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#installations>Installations</a></p>
-<p><a href=#raffle-tickets>Raffle Tickets</a></p>
+<p><a href=#raffle-tickets>Лотерейные билеты.</a></p>
 <p><a href=#realm>REALM</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
@@ -141,7 +141,7 @@ Installations are powerful structures that can be created on REALM parcels using
 
 Check out the [Metaverse page](/metaverse#building-on-realm-parcels) for a list of Installations that you can build.
 
-### Raffle Tickets
+### Лотерейные билеты.
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
 
 Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
