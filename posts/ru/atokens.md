@@ -19,7 +19,7 @@ contributors:
 
 Так что собой представляет Духовная сила? 
 
-Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. Это были процентные токены [Aave Protocol](https://aave.com). Они чеканились при внесении депозита и сжигались после возврата средств. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
 Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on Polygon are known as **maTokens**. 
 
