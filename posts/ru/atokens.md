@@ -13,28 +13,26 @@ contributors:
 <p class="headerImageText">Про аТокены (aTokens)</p>
 </div>
 
-Для каждого Готчи важна Духовная сила (Spirit Force). Открывая
+Для каждого Готчи важна Духовная сила (Spirit Force). Открывая [portal](/portals), игрок наполняет своего призрака Духовной силой, буквально вдыхая в него жизнь, чтобы Готчи появился в игре.
 
-, игрок наполняет своего призрака Духовной силой, буквально вдыхая в него жизнь, чтобы Готчи появился в игре.</p> 
+Так что собой представляет Духовная сила?
 
-Так что собой представляет Духовная сила? 
+Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. Это были процентные токены [Aave Protocol](https://aave.com). Они чеканились при внесении депозита и сжигались после возврата средств. аТокены в соотношении 1:1 привязывались к цене базового актива, внесенного в качестве депозита в протокол Aave. Токены данного типа свободно хранились, обменивались, передавались. Хотите узнать подробнее, — смотрите [FAQ Aave](https://docs.aave.com/faq/), чтобы получить больше информации по данной теме.
 
-Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. Это были процентные токены [Aave Protocol](https://aave.com). Они чеканились при внесении депозита и сжигались после возврата средств. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
+Впоследствии, из-за повышения платы за газ в основной сети, было принято решение запускать игру на [Polygon](/glossary#polygon) — сети решений второго уровня (L2) блокчейна Ethereum. От этого игра только выиграла, ведь на Polygon практически нулевая комиссия и быстрые транзакции. Правда, теперь игрокам нужны токены Polygon.  Обеспечить преемственность взялся гений программирования Ник Мадж ([Nick Mudge](/team#nick-mudge)), связавший аТокены с сетью Polygon.  Они получили название маТокены (**maTokens**).
 
-Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we need aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge them over to Polygon. aTokens on Polygon are known as **maTokens**. 
+Мы подготовили для вас информацию, какие аТокены доступны, и о том, как их получить.
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them. 
+Главное, помните, что для вызова призраков из портала вам обязательно понадобятся маТокены. Есть множество способов получить их помимо конвертации аТокенов. На этой странице вы можете узнать, как получить токены.
 
-Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
-
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
+Учтите, термины “Духовная сила”, “Залог”, “аТокены” и “маТокены” в игре Аавеготчи имеют примерно идентичное значение.
 
 <div class="contentsBox">
 
-Содержание:
+Содержание
 
 <ol>
-<li><a href=#about>О токене</a></li>
+<li><a href=#about>Об аТокене.</a></li>
 <li><a href=#stablecoins>Стейблкоины</a></li>
 <li><a href=#cryptocurrencies>Криптовалюты</a></li>
 <li><a href=#getting-atokens>Получение аТокенов</a></li>
@@ -43,27 +41,21 @@ In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens"
 
 </div>
 
-## О токене
+## Об аТокене.
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile. 
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand. 
-
-
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Стейблкоины
 
 table_stablecoins
 
-
-
 ## Криптовалюты
 
 table_cryptocurrencies
-
-
 
 ## Получение аТокенов
 
@@ -88,8 +80,6 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
-
-
 
 ## Конвертация аТокенов в маТокены
 
