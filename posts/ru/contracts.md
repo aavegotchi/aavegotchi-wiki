@@ -1,46 +1,46 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Contracts Addresses'
-description: 'Aavegotchi Contracts Addresses'
+title: 'Адреса контрактов в Аавеготчи'
+description: 'Адреса контрактов в Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Before interacting with any contracts, do check against these addresses to ensure that it is the right one!
+Всем привет. На этой странице вы найдете адреса смарт-контрактов игрового проекта Аавеготчи. Перед тем, как взаимодействовать с любым нашим смарт-контрактом, проверьте эти адреса, чтобы убедиться в их соответствии!
 
-**Do NOT send funds to these addresses!**
+**ВНИМАНИЕ! НЕ НУЖНО отправлять средства на эти адреса!**
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
-<li><a href=#contract-addresses-on-polygon>Contract Addresses on Polygon</a></li>
+<li><a href=#contract-addresses-on-mainnet>Адреса смарт-контрактов в основной сети.</a></li>
+<li><a href=#contract-addresses-on-polygon>Адреса контрактов на Polygon.</a></li>
 </ol>
 
 </div>
 
-## Contract Addresses on Mainnet
+## Адреса смарт-контрактов в основной сети
 
-* GHST Token Address: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
+* Адрес токенов GHST: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
 
-* DAO Address: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
+* Адрес DAO: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
 
-## Contract Addresses on Polygon
+## Адреса контрактов на Polygon
 
-* GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
+* Адрес токенов GHST: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
 
-* stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+* Адрес stkGHST-QUICK: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
 
-* stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
+* Адрес stkGHST-USDC: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
-* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+* Адрес DAO: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
-* Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
+* Адрес сжигания (для порталов и базара): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
-* Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+* Адрес для наград за фарминг: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
 
-* Opensea (for Aavegotchis and Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* Адрес Opensea (для Готчи и экипировки): [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
