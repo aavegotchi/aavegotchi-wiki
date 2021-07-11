@@ -1,15 +1,15 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: 'Геймплей'
+description: 'Введение в игру Аавеготчи'
 ---
 
 Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#ghst-token>GHST Token</a></li>
