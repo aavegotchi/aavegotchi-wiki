@@ -1,38 +1,38 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Develop this Wiki'
-description: 'Jump in and help develop this Wiki!'
+title: 'Помогите в разработке этой ВИКИ'
+description: 'Присоединяйтесь и помогите разрабатывать эту ВИКИ!'
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">CoderDan приветствует вас!</p>
 </div>
 
-Wanna show off your hotshot coding skills? Help develop this Wiki!
+Хотите принять участие в разработке этой ВИКИ, — работайте с нами! Помогите создавать страницы в этой ВИКИ!
 
-Some requested or needed features:
+Вот то, что нам сейчас нужно:
 
-* 🌃 Daark Mode
-* 📱 Make it more Mobile frenly
+* Темная тема.
+* Удобство для мобильных устройств.
 
-For developers, the Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+Все необходимые документы Аавеготчи можно найти [ здесь](https://docs.aavegotchi.com/).
 
 <div style="margin-top:50px;"></div>
 
-<a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
+<a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">GIT ЗАПУЩЕН</a>
 
-[Aarchitects](/aarchitect), our community developers, have come up with web applications.
+Ребята из Aarchitects, разрабатывающие наше сообщество, создали веб-приложение.
 
-* [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
+* [Aavegotchistats](https://aavegotchistats.com/) — механизм рекомендаций для носимых устройств/доску почета/распределение характеристик.
 
-* [Aavegotchi.land](https://aavegotchi.land/) - API for Aavegotchi / Open Portals / Raffle Tickets listing
+* [Aavegotchi.land](https://aavegotchi.land/) — API для Аавеготчи/Открытые порталы/листинг лотерейных билетов.
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Market Explorer / Raffle Calculator
+* [GHST_GG](https://ghst.gg/) — базу для рынка Готчи/Калькулятор лотереи.
 
-* [Haaunt.com](https://haaunt.com/) - Aavegotchi Leaderboard / Wearable Prices
+* [Haaunt.com](https://haaunt.com/) — таблицу лидеров Аавеготчи/цены на носимые устройства.
 
-* [Haunt.gg](https://haunt.gg/) - Listing Organizer
+* [Haunt.gg](https://haunt.gg/) — организация листинга.
 
-* [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension to pet Aavegotchis
+* [Расширение Aavegotchi](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) — Расширение для браузера Chrome для домашних животных Аавеготчи.
