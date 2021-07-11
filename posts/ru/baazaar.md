@@ -45,7 +45,7 @@ contributors:
 
 ## Аавеготчи Базар
 
-Baazaar — вторичный рынок на Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+Baazaar — вторичный рынок на Aavegotchi. Здесь можно продать все лишнее. Но помни, выставляя на продажу товар, нужно заплатить 0,1 GHST. Комиссия введена для предотвращения заспамливания Polygon. Заплаченный вами 0,1 GHST не попадает ни к Pixelcraft Studios, ни в AavegotchiDAO. Он попадет на адрес сжигания ([burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)) в Polygon.
 
 When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
 * 2% to Pixelcraft Studios
