@@ -43,9 +43,9 @@ contributors:
 
 ## Про аТокен
 
-При внесении депозита на счет в кошельке начисляются токены, и пока депозит остается в системе, на них капают проценты.  Проследить этот процесс можно в режиме реального времени, наблюдая, как каждую минуту увеличивается ваш баланс.
+При внесении депозита на счет в кошельке начисляются токены. Пока депозит остается в системе, на них капают проценты. Проследить этот процесс можно в режиме реального времени, наблюдая, как каждую минуту увеличивается ваш баланс.
 
-аТокены делятся на две категории: криптовалюты или стейблкоины. Криптовалюты — это защищенные криптографически цифровые виртуальные валюты.  В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью PC. Стейблкоины — класс криптовалют, привязанных к базовому активу — доллару США (USD), и имеющих стабильную цену. Они подвержены меньшей волатильности, чем криптовалюты, и у каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
+аТокены делятся на две категории: криптовалюты или стейблкоины. Криптовалюты — это защищенные криптографически цифровые виртуальные валюты. В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью PC. Стейблкоины — класс криптовалют, привязанных к базовому активу — доллару США (USD), и имеющих стабильную цену. Они подвержены меньшей волатильности, чем криптовалюты. И у каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
 
 В таблице ниже вы можете увидеть, какие токены [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (криптовалюты и стейблкоины) доступны в рамках протокола Aave. В столбце “Поддерживается Aavegotchi” вы можете увидеть, станет ли данный токен доступным для геймплея. Список поддерживаемых токенов обновляется. По запросу игроков проводится голосование в Twitter/DAO, и больше токенов добавляется в геймплей.
 
@@ -63,26 +63,26 @@ table_cryptocurrencies
 
 1). Перейдите к протоколу <a href = "https://app.aave.com/">Aave Protocol</a>, чтобы начать!
 
-2). Здесь у вас есть несколько вариантов привязки вашего криптокошелька в зависимости от того, какой у вас тип кошелька:
+2). Привяжите свой кошелек, выбрав один из нижеуказанных способов:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Прежде чем вы сможете использовать протокол Aave, вам нужно иметь некоторые криптоактивы. Список доступных криптоактивов показан в разделах <a href=#stablecoins>стейблкоины</a> и <a href=#cryptocurrencies>криптовалюты</a> выше.
+3). Чтобы пользоваться всеми преимуществами протокола Aave, нужно иметь несколько цифровых валют. Они подробно описаны в таблице <a href=#stablecoins>стейблкоинов</a> и <a href=#cryptocurrencies>криптовалют</a>, размещенной выше.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Если у вас нет криптоактивов, можно обменять свою фиатную валюту (доллар, евро — то есть обычные деньги) на цифровой актив.
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+Сейчас это сделать очень просто. Криптовалюта покупается прямо в приложении Aave Protocol! Или можно использовать криптообменник. Например, Transak или Ramp Instant, где можно купить криптовалюту, заплатив со счета кредитной или дебетовой карты или сделав банковский перевод.
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Далее нужно подключить кошелек к платформе и сделать депозит в Aave. При нажатии специальной кнопки, в интерфейсе можно увидеть, какие криптовалюты есть в кошельке, и выбрать подходящую для внесения депозита. Когда вы определились, выставляете количество монет и делаете перевод. *При этом транзакция пройдет в два этапа. Сначала проводится предварительная транзакция, с помощью которой депозитному контракту предоставляется разрешение использовать именно этот выбранный вами актив. А затем проводится основная транзакция, и цифровая валюта списывается со счетов.</p>
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Как только будет сделан депозит, по нему вам будет начислена процентная ставка. А в кошельке сможете увидеть монеты aToken.
 
 ## Конвертация аТокенов в маТокены
 
-Got your aTokens? Good!
+Получили свои аТокены? Супер!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+Переходим на страницу [maTokens](/matokens) и выполняем второй шаг! Дерзайте!
