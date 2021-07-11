@@ -45,38 +45,38 @@ contributors:
 
 ## Аавеготчи Базар
 
-Baazaar — вторичный рынок на Aavegotchi. Здесь можно продать все лишнее. Но помни, выставляя на продажу товар, нужно заплатить 0,1 GHST. Комиссия введена для предотвращения заспамливания Polygon. Заплаченный вами 0,1 GHST не попадает ни к Pixelcraft Studios, ни в AavegotchiDAO. Он попадет на адрес сжигания ([burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)) в Polygon.
+Baazaar — вторичный рынок на Aavegotchi. Здесь можно продать все лишнее. Но помни, выставляя на продажу товар, нужно заплатить 0,1 GHST. Комиссия введена для предотвращения заспамливания Polygon. Заплаченный вами 0,1 GHST не попадает ни к Pixelcraft Studios, ни в AavegotchiDAO. Он попадет на ([адрес сжигания](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)) в Polygon.
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
-* 2% to Pixelcraft Studios
-* 1% to AavegotchiDAO
-* 0.5% to Rarity Farming reward pool
+После продажи товара вы получите на свой кошелек 96,5%.  Оставшиеся токены в количестве 3,5% попадают:
+* Команде Pixelcraft Studios — 2%.
+* Аавеготчи DAO — 1%.
+* Пулу наград за фарминг — 0,5%.
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+Продажа товара производится минимум за 1 GHST. Если вы хотите поставить цену ниже, укажите несколько товаров общей ценой в 1 GHST или выше.
 
-Buyers may buy 1, some, or all of a multiple item listing.
+При этом покупатель может купить как весь лот, так и несколько позиций в списке.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Аавеготчи Базар" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Дополнительную информацию ищите [тут](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f).
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+На Базар Аавеготчи — [сюда](https://aavegotchi.com/baazaar)!
 
-## Фичи.
-There are a variety of products listed on the Baazaar:
+## Фичи
+На рынке можно найти все, что душе угодно:
 
-* Closed Portals
-* Opened Portals
-* Aavegotchis
-* Wearables
-* Consumables
-* Raffle Tickets
+* Закрытые порталы.
+* Открытые порталы.
+* Лотерейные билеты.
+* NFT-амуницию.
+* Расходники.
+* Лотерейные билеты.
 
-The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
+Все товары можно сортировать, что облегчает выбор.
 
-Other features included in the Baazaar are:
+Вот все, что вам нужно знать о покупках на местном рынке:
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Активность (Activity). Тут находятся все покупки.
+* Мои объявления (My Listings). Тут отображаются продаваемые вами товары.
+* Мои продажи (My Sales). История успешных продаж.
+* Мои покупки (My Purchases). История успешных покупок.
