@@ -1,24 +1,24 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Baazaar'
-description: 'Aavegotchi Baazaar'
+title: 'Баазаар'
+description: 'Аавеготчи Базар'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">Базар</p>
 </div>
 
-"Psst.....you there"
+“Любезный, не проходи мимо. Есть все, чего душа желает”.
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Торговец Gotchi размахивает руками и манит тебя к своему прилавку. С задорным блеском в глазах говорит:
 
-"I have something aamazing for you."
+“У меня есть для тебя нечто удивительное!”
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Он достает небольшой предмет, завернутый в ткань. Аккуратно разворачивает ее, и, попав под яркие полуденные лучи, у него в руках переливается всеми цветами радуги огромный драгоценный камень. “Вот этот алмаз” — восторгаешься ты, протягивая руки к чуду.
 
 ".....A Mudgen Diamond" you whisper to yourself.
 
@@ -34,7 +34,7 @@ Come and test your mettle! Buyers and sellers alike!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
