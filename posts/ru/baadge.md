@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baadges'
-description: 'Aavegotchi Baadges'
+title: 'Бааджи в Аавеготчи'
+description: 'Бааджи в Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Бааджи — это NFT стандарта ERC-1155, получаемые игроком за участие Готчи в определенном мероприятии. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
 
 Baadges could be earned in a variety of ways:
 
@@ -21,7 +21,7 @@ Keep your eyes out for more Baadges. They will be announced by the team as and w
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#list-of-baadges>List of Baadges</a></li>
