@@ -31,9 +31,12 @@ Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một
 * [Team](/team) -- Xem những ai đang xây dựng Aavegotchi
 * [Roadmap](/roadmap) -- Roadmap vừa được cập nhật của Aavegotchi
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
 
-## Đóng Góp
+## Contribute
 
 Bất kì ai muốn đóng góp cho trang Wiki, chỉ cần viết cho bọn mình một lời đề nghị trên [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
