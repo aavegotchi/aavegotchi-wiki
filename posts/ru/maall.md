@@ -1,43 +1,43 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Maall'
-description: 'Aavegotchi Maall'
+title: 'Аавеготчи Молл'
+description: 'Аавеготчи Молл'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/maall/maall.png">
-<p class="headerImageText">The Maall</p>
+<p class="headerImageText">Молл</p>
 </div>
 
-"Hey Aamy. Sorry I'm late."
+«Привет, Эми. Сори, я чуть позже, чем договаривались».
 
-"Nevermind that. What are you getting later? The Praada Parasol looks cuuuute!"
+«Не думай об этом. Давай пробежимся по магазинам. Мне как раз нужен зонтик Prada!» Он выглядит так мииилооо!
 
-"The Kaate Spaade clutch will match my latest outfit! *twirls*"
+«А я думаю, что стоит прикупить что-то от Кейт Спейд. Например, клатч, который идеально подойдет к моему аутфиту».
 
-The doors to the Maall creaks open.
+Двери Молла со скрипом открываются...
 
-"Yippie! It's time to shop!"
+«Ура! Пора делать покупки!»
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#aavegotchi-maall>Aavegotchi Maall</a></li>
+<li><a href=#aavegotchi-maall>Аавеготчи Молл</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Maall
+## Аавеготчи Молл
 
-The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+Аавеготчи Молл — это официальный магазин игрового проекта Аавеготчи. В нем можно приобрести понравившиеся [носимые предметы и расходные материалы](/wearables) за [токены GHST](/ghst).
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+Коллекции в торговом центре будут постоянно пополняться уникальными носимыми предметами.
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
+По мере распродажи товаров, в дальнейшем их можно будет приобрести только на вторичном рынке ([Baazaar](/baazaar)) или другой онлайн-площадке.
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+Попасть в Аавеготчи Молл можно [здесь](https://aavegotchi.com/shop).
