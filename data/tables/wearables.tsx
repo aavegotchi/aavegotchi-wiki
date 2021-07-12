@@ -442,4 +442,21 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "wearablesVotingPower",
+            tableCaption: "Wearables Voting Power",
+            tableData: {
+                headers: ["Rarity Type", "Voting Power"],
+                data: [
+                    ["Common", "5 GHST"],
+                    ["Uncommon", "10 GHST"],
+                    ["Rare", "100 GHST"],
+                    ["Legendary", "300 GHST"],
+                    ["Mythical", "2000 GHST"],
+                    ["Godlike", "10000 GHST"],
+
+                ]
+            }
+        }
     ]
