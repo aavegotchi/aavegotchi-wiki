@@ -31,9 +31,12 @@ Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Ü
 * [Team](/team) -- See who's building Aavegotchi
 * [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
 
-## Mitwirken
+## Contribute
 
 Jeder kann zum Wiki beitragen, du benötigst nur Schreibrechte für unser [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
