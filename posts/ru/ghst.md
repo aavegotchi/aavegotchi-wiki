@@ -45,34 +45,34 @@ contributors:
 
 За GHST можно купить:
 
-* Buying [portals](/portals) to summon Aavegotchis
-* Buying [wearables](/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](/metaverse) (more information TBC)
-* [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
+* [Порталы](/portals) для вызова Готчи.
+* [Экипировку](/wearables) для Готчи.
+* [Участки земли](/metaverse) в Аавеготчи.
+* Лотерейные билеты (требуется [стейкинг GHST](/staking), за который игрок заработает FRENS и купит за них билеты для участия в розыгрышах).
 
-## Как купить GHST.
-Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
+## Как купить GHST
+Обладатели криптовалютных кошельков (желательно Метамаска) могут приобрести токены GHST несколькими способами:
 
-* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
-* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
-* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
-* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+* Приобретение из  [кривой](/curve) в основной сети Ethereum. Требует KYC, недоступно для жителей Соединенных Штатов и Китая.
+* Покупка на DEX (децентрализованных биржах) в сети Ethereum. Это могут быть такие обменники, как [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) или [Matcha](https://matcha.xyz/markets/GHST)
+* Приобретение токенов на DEX на Polygon, таких как [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7).
+* Покупка на криптовалютных биржах, например — на [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) или [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro).
 
-Make sure you get the correct token address as well.
+Перед покупкой убедитесь, что вы получили правильный адрес токена.
 
-On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+Основная сеть Ethereum: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 
-On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+Сеть Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
 
-**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
+**Сверьтесь с другими источниками, где также опубликованы эти адреса. Осторожность никогда не бывает лишней.**
 
-## Как заработать GHST.
-Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+## Как заработать GHST
+Учитывая, что в криптосфере далеко не все — киты и финансовые воротилы, и на покупку нужного количества токенов просто может не быть денег, разработчики предусмотрели несколько способов заработка GHST.
 
-There are several ways to grind it out and earn GHST. These include:
+Вот они. Смело используйте:
 
-* Engaging in [rarity farming](/rarity-farming)
-* Participate and vote in [AavegotchiDAO](/dao)
+* Фармингом.
+* Голосование за предложения [Аавеготчи DAO](/dao).
 * Playing and winning in [mini-games](/minigames) (more information TBC)
 
 
