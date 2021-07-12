@@ -12,7 +12,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
@@ -94,7 +94,7 @@ Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini
 XP exists as an internal balance on the Aavegotchi smart contract.
 
 ## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Some wearables can only be worn by Aavegotchis of a certain level.
 
 For detailed information on the XP required for each level, click [here](/xp).
 
