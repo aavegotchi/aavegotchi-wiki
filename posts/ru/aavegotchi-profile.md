@@ -8,7 +8,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
+<img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="Аавеготчи" />
 <p class="headerImageText">Hello!</p>
 </div>
 
@@ -20,7 +20,7 @@ This page will tell you what you can do with your new Gotchi frens! :D
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
