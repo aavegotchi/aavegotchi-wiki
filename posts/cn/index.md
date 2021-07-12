@@ -31,9 +31,12 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团
 * [Team](/team) -- See who's building Aavegotchi
 * [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
 
-## 为社区做出更多贡献
+## Contribute
 
 欢迎社区小伙伴们为 Aavegotchi 百科添砖加瓦，点击 [Github](https://github.com/aavegotchi/aavegotchi-wiki) 链接获取写入权限。
 
