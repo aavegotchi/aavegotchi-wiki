@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Eye Shape'
-description: 'Aavegotchi Eye Shape'
+title: 'Форма глаз Готчи'
+description: 'Форма глаз Готчи'
 contributors:
   - "unintelligent-nerd"
 ---
 
-"Eyeing some eyes?"
+Интересуешься формой глаз Готчи?
 
-"Aye!"
+Ага!
 
-Check out the full list of Aavegotchi Eye Shapes (EYS) here!
+Смотри полный лист Форм глаз Готчи тут!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#list-of-eye-shapes>List of Eye Shapes</a></li>
+<li><a href=#list-of-eye-shapes>Список Форм глаз Готчи.</a></li>
 </ol>
 
 </div>
 
-## List of Eye Shapes
+## Список Форм глаз Готчи
 
-*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
+*Учти: От Формы глаза не зависит Цвет глаз, так как этот параметр зависит лишь от показателя редкости Готчи и типа залога.*
 
 table_eyeShape
 

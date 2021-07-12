@@ -1,22 +1,22 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: 'Геймплей'
+description: 'Введение в игру Аавеготчи'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Игровой проект Аавеготчи умело комбинирует элементы DeFi и NFT, обеспечивая интересный и нетривиальный геймплей.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#ghst-token>GHST Token</a></li>
-<li><a href=#portals>Portals</a></li>
-<li><a href=#wearables>Wearables</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#ghst-token>Токен GHST</a></li>
+<li><a href=#portals>Порталы</a></li>
+<li><a href=#wearables>Экипировка.</a></li>
+<li><a href=#rarity-farming>Фарминг.</a></li>
+<li><a href=#minigames>Мини-игры.</a></li>
 </ol>
 
 </div>
@@ -45,4 +45,4 @@ You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavego
 
 After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
 
-## Minigames
+## Мини-игры.

@@ -1,80 +1,80 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Contests'
-description: 'Our Winners!'
+title: 'Конкурсы'
+description: 'Наши победители!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
+Приветствуем всех любителей Аавеготчи! Время от времени мы будем запускать крутые конкурсы, чтобы порадовать членов сообщества и привлечь новых участников Это будет веселый и ценный опыт, и вы сможете получить отличные призы. На этой странице хранится история прошедших конкурсов, и вы сможете увидеть контент, который завоевал призовые места для своих авторов!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>
-<li><a href=#halloween-costume-contest>Halloween Costume Contest</a></li>
-<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Contest</a></li>
+<li><a href=#aavegotchi-mission-8-meme-contest-winners>Лучшие мемы 8-й Миссии Аавеготчи.</a></li>
+<li><a href=#halloween-costume-contest>Хэллоуинский конкурс костюмов.</a></li>
+<li><a href=#aavegotchi-mission-9-content-contest>9-я Миссия Аавеготчи.</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Лучшие мемы 8-й Миссии Аавеготчи
 
-In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+Так кто же стал победителем [Восьмой Миссии Аавеготчи](/missions)? В этом мероприятии авторам было поручено создать крутейший мем об Aavegotchi или токене GHST и разместить его в [сабреддите](https://www.reddit.com/r/Aavegotchi/) Аавеготчи.  Подарки были вручены 9 октября 2020 года, в 15:00 Мск. После голосования 3 мема, получившие подавляющее число голосов, стали обладателями ценных призов: 300, 200 и 100 GHST.
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1 МЕСТО: Аавегочи Пакмен от ZEMUS</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2 МЕСТО. “Один за всех и все за одного!” от RASTER EYES</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3 МЕСТО: Сибаритский GHST от MOON</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Costume Contest
+## Хэллоуинский конкурс костюмов
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+Кто получил призы в конкурсе костюмов на Хэллоуин? 30 октября 2021 года в 19:00 Мск состоялся парад призраков в хэллоуинских костюмах. Призовые места заняли такие забавные Готчи:
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">1 МЕСТО: ОНО от ESVEEBEE</span>
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">2 МЕСТО: Готчи-Зомби от FLAMEE</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">3 МЕСТО: ТрампиГотчи от POW MINER</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
-## Aavegotchi Mission 9 Content Contest
+## 9 Миссия игры Аавеготчи
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Количество Агентов Аавеготчи выросло свыше 1000! Это уже не сборище Агентов, а настоящая ГотчиБанда! Новая миссия под номером девять закрепила достигнутый успех. В ее рамках нужно было создать контент об Аавеготчи в виде статей или видео. Команда решила премировать три лучших материала в каждой категории, выделив по 300/100/50 токенов GHST победителям за первые три места.
 
-### Video Category
+### Победители конкурса видео
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1-е место: Esveebee "Как начать работу с Аавеготчи". </span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2-е место: 2-минутный гид по Аавеготчи от DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3-е место: “Анон находит Аавеготчи” от Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### Победители конкурса статей
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">1-е место: Дружелюбный фарминг от Appellants</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">2-е место: “Разбогатей или умри, играя!” от Letsgobankless</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">3-е место: “Аавеготчи уже на Kovan Testnet!” Пошаговое руководство [Step-by-Step-guide] от Buzzlightyear.</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>

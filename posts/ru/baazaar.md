@@ -1,82 +1,82 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Baazaar'
-description: 'Aavegotchi Baazaar'
+title: 'Баазаар'
+description: 'Аавеготчи Базар'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">Базар</p>
 </div>
 
-"Psst.....you there"
+“Любезный, не проходи мимо. Есть все, чего душа желает”.
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Торговец Gotchi размахивает руками и манит тебя к своему прилавку. С задорным блеском в глазах говорит:
 
-"I have something aamazing for you."
+“У меня есть для тебя нечто удивительное!”
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Он достает небольшой предмет, завернутый в ткань. Аккуратно разворачивает ее. И, попав под яркие полуденные лучи, у него в руках переливается всеми цветами радуги огромный драгоценный камень.
 
-".....A Mudgen Diamond" you whisper to yourself.
+“Вот этот алмаз” — восторгаешься ты, протягивая руки к чуду.
 
-The marvellous shine catches the attention of countless bystanders.
+Чудесное сияние не осталось незамеченным. Вокруг собирается толпа.
 
-Another Gotchi shoves in. "I'll have it!"
+Вот уже другой Готчи тянет свои загребущие руки… Хочу, хочу!!!
 
-"NO! I'LL HAVE IT!"
+Но ты проворней. С воплем “Моя Прелесть!” ты прячешь сокровище, заплатив за него звонкой монетой…
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Ну как, представил? Интересно, хватит ли у тебя смекалки среди десятков других распознать выгодную сделку. И хватит ли терпения выдержать жаркую торговлю на пути к богатству?
 
-Come and test your mettle! Buyers and sellers alike!
+Заходи и проверь! Ты можешь быть как продавцом, так и покупателем.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#aavegotchi-baazaar>Аавеготчи Базар.</a></li>
+<li><a href=#features>Фичи.</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Аавеготчи Базар
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+Baazaar — вторичный рынок на Aavegotchi. Здесь можно продать все лишнее. Но помни, выставляя на продажу товар, нужно заплатить 0,1 GHST. Комиссия введена для предотвращения заспамливания Polygon. Заплаченный вами 0,1 GHST не попадает ни к Pixelcraft Studios, ни в AavegotchiDAO. Он попадет на ([адрес сжигания](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)) в Polygon.
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
-* 2% to Pixelcraft Studios
-* 1% to AavegotchiDAO
-* 0.5% to Rarity Farming reward pool
+После продажи товара вы получите на свой кошелек 96,5%.  Оставшиеся токены в количестве 3,5% попадают:
+* Команде Pixelcraft Studios — 2%.
+* Аавеготчи DAO — 1%.
+* Пулу наград за фарминг — 0,5%.
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+Продажа товара производится минимум за 1 GHST. Если вы хотите поставить цену ниже, укажите несколько товаров общей ценой в 1 GHST или выше.
 
-Buyers may buy 1, some, or all of a multiple item listing.
+При этом покупатель может купить как весь лот, так и несколько позиций в списке.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Аавеготчи Базар" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Дополнительную информацию ищите [тут](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f).
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+На Базар Аавеготчи — [сюда](https://aavegotchi.com/baazaar)!
 
-## Features
-There are a variety of products listed on the Baazaar:
+## Фичи
+На рынке можно найти все, что душе угодно:
 
-* Closed Portals
-* Opened Portals
-* Aavegotchis
-* Wearables
-* Consumables
-* Raffle Tickets
+* Закрытые порталы.
+* Открытые порталы.
+* Лотерейные билеты.
+* NFT-амуницию.
+* Расходники.
+* Лотерейные билеты.
 
-The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
+Все товары можно сортировать, что облегчает выбор.
 
-Other features included in the Baazaar are:
+Вот все, что вам нужно знать о покупках на местном рынке:
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Активность (Activity). Тут находятся все покупки.
+* Мои объявления (My Listings). Тут отображаются продаваемые вами товары.
+* Мои продажи (My Sales). История успешных продаж.
+* Мои покупки (My Purchases). История успешных покупок.

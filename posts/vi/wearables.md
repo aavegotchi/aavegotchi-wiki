@@ -30,31 +30,32 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 
 <ol>
 <li><a href=#key>Then Chốt</a></li>
-<li><a href=#link-themed-set>Trang Phục Chủ Đề Link</a></li>
-<li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
-<li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
-<li><a href=#aagent-wearables-set>Bộ Trang Phục Chủ Đề Aagent</a></li>
-<li><a href=#wizard-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
-<li><a href=#farmer-wearables-set>Farmer Wearables Nông Dân</a></li>
-<li><a href=#santa-wearables-set>Bộ Trang Phục Chủ Đề Santa</a></li>
-<li><a href=#okex-wearables>Trang Phục Chủ Đề OKex</a></li>
-<li><a href=#skater-wearables-set>Bộ Trang Phục Chủ Đề Skater</a></li>
-<li><a href=#sushi-wearables-set>Bộ Trang Phục Chủ Đề Sushi</a></li>
-<li><a href=#gentleman-wearables-set>Bộ Trang Phục Chủ Đề Gentleman</a></li>
-<li><a href=#miner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
-<li><a href=#pajamas-wearables-set>Bộ Trang Phục Chủ Đề Jajamas</a></li>
-<li><a href=#runner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
-<li><a href=#lady-wearables-set>Bộ Trang Phục Chủ Đề Lady</a></li>
-<li><a href=#witchy-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
-<li><a href=#portal-wearables-set>Bộ Trang Phục Chủ Đề Portal</a></li>
-<li><a href=#rasta-wearables-set>Bộ Trang Phục Chủ Đề Rasta</a></li>
-<li><a href=#hazmat-wearables-set>Bộ Trang Phục Chủ Đề Hazma</a></li>
-<li><a href=#vacation-wearables-set>Bộ Trang Phục Chủ Đề Vacation</a></li>
-<li><a href=#independent-drink-items>Vật Phẩm Đồ Uống Độc Lập</a></li>
-<li><a href=#independent-head-items>Vật Phẩm Dành Cho Phần Đầu Độc Lập</a></li>
-<li><a href=#independent-body-items>Vật Phẩm Độc Lập Cho Phần Thân</a></li>
+<li><a href=#voting-power>Voting Power</a></li>
+<li><a href=#link-themed-set>LINK Themed Set</a></li>
+<li><a href=#aave-themed-set>Aave Themed Set</a></li>
+<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
+<li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
+<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
+<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
+<li><a href=#okex-wearables>OKex Wearables</a></li>
+<li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
+<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
+<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
+<li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
+<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
+<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
+<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
+<li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
+<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
+<li><a href=#independent-drink-items>Independent Drink Items</a></li>
+<li><a href=#independent-head-items>Independent Head Items</a></li>
+<li><a href=#independent-body-items>Independent Body Items</a></li>
 <li><a href=#consumables>Vật phẩm tiêu hao</a></li>
-<li><a href=#layer-2-themed-set>Trang Phục Chủ Đề Layer 2</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
 </ol>
 
 </div>
@@ -80,107 +81,113 @@ Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ l�
 
 table_wearablesBRStable
 
-## Trang Phục Chủ Đề Link
+## Voting Power
 
-Được phân phát thông qua một sự kiện Raffle độc nhất với phiên bản giới hạn vào Tháng Mười Một năm 2020, những wearables có có chủ đề LINK được ra mắt để chào mừng sự hợp tác của Aavegotchi và Chainlink, đặc biệt là việc bọn mình sử dụng Chainlink VRF để đảm bảo rằng các Aavegotchi có những đặc điểm thực sự ngẫu nhiên.
+With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+
+table_wearablesVotingPower
+
+## LINK Themed Set
+
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
-## Trang Phục Chủ Đề Aave
+## Aave Themed Set
 
-Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. Bộ sưu tập tuyệt vời này là để chào mừng sự kết hợp giữa Aavegotchi với cộng đồng cùng những người đứng đầu team Aave.
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
-## Trang Phục Chủ Đề Ethereum
+## Ethereum Themed Set
 
-Bộ trang phục chủ đề Ethereum là bộ cuối cùng trong ba bộ trang phục pre-Mainnet.
+The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
-## Bộ Trang Phục Chủ Đề Aagent
+## Aagent Wearables Set
 
-Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được trao tặng cho tất cả những [Aagent có cấp độ 12](/missions), những người đã hoàn thành hết 12 Aagent Missions trước khi Mainnet của Aavegotchi khởi chạy. Hình ảnh và Số lượng sẽ sớm được tiết lộ!
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
-## Bộ Trang Phục Chủ Đề Phù Thuỷ
+## Wizard Wearables Set
 
 table_wizardWearablesTable
 
-## Farmer Wearables Nông Dân
+## Farmer Wearables Set
 
 table_farmerWearablesTable
 
-## Bộ Trang Phục Chủ Đề Santa
+## Santa Wearables Set
 
-Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
-## Trang Phục Chủ Đề OKex
+## OKex Wearables
 
-Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
-## Bộ Trang Phục Chủ Đề Skater
+## Skater Wearables Set
 
 table_skaterWearablesTable
 
-## Bộ Trang Phục Chủ Đề Sushi
+## Sushi Wearables Set
 
 table_sushiWearablesTable
 
-## Bộ Trang Phục Chủ Đề Gentleman
+## Gentleman Wearables Set
 
 table_gentlemanWearablesTable
 
-## Bộ Trang Phục Chủ Đề Miner
+## Miner Wearables Set
 
 table_minerWearablesTable
 
-## Bộ Trang Phục Chủ Đề Jajamas
+## Pajamas Wearables Set
 
 table_pajamasWearablesTable
 
-## Bộ Trang Phục Chủ Đề Miner
+## Runner Wearables Set
 
 table_runnerWearablesTable
 
-## Bộ Trang Phục Chủ Đề Lady
+## Lady Wearables Set
 
 table_ladyWearablesTable
 
-## Bộ Trang Phục Chủ Đề Phù Thuỷ
+## Witchy Wearables Set
 
 table_witchyWearablesTable
 
-## Bộ Trang Phục Chủ Đề Portal
+## Portal Wearables Set
 
 table_portalWearablesTable
 
-## Bộ Trang Phục Chủ Đề Rasta
+## Rasta Wearables Set
 
 table_rastaWearablesTable
 
-## Bộ Trang Phục Chủ Đề Hazma
+## Hazmat Wearables Set
 
 table_hazmatWearablesTable
 
-## Bộ Trang Phục Chủ Đề Vacation
+## Vacation Wearables Set
 
 table_vacationWearablesTable
 
-## Vật Phẩm Đồ Uống Độc Lập
+## Independent Drink Items
 
 table_independentDrinksTable
 
-## Vật Phẩm Dành Cho Phần Đầu Độc Lập
+## Independent Head Items
 
 table_independentHeadTable
 
-## Vật Phẩm Độc Lập Cho Phần Thân
+## Independent Body Items
 
 table_independentBodyTable
 
@@ -188,8 +195,8 @@ table_independentBodyTable
 
 table_consumablesTable
 
-## Trang Phục Chủ Đề Layer 2
+## Layer 2 Themed Set
 
-Sự Kiện Raffle Lần 4, được tổ chức để kỷ niệm việc Aavegotchi được khởi chạy trên [Polygon](/polygon).
+The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
 
 table_layer2WearablesTable

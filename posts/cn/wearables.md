@@ -30,6 +30,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 <ol>
 <li><a href=#key>Key</a></li>
+<li><a href=#voting-power>Voting Power</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
@@ -79,6 +80,12 @@ See [Traits](/traits) for more about this topic.
 Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
+
+## Voting Power
+
+With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+
+table_wearablesVotingPower
 
 ## LINK Themed Set
 
