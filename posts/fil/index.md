@@ -31,9 +31,12 @@ Pumunta sa [Introduction](https://wiki.aavegotchi.com/introduction) para sa isan
 * [Team](/team) -- Alamin kung sinu-sino'ng bumubuo sa Aavegotchi
 * [Roadmap](/roadmap) -- Ang up-to-date na roadmap ng Aavegotchi
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
 
-## Mag-Contribute
+## Contribute
 
 Puwedeng mag-contribute ang kahit sino sa Wiki. Kailangan mo lang ng write permissions sa aming [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
