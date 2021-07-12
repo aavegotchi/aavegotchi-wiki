@@ -1,25 +1,25 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+title: 'Аавеготчи ВИКИ'
+description: 'Информация об Аавеготчи ВИКИ'
 image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Аавеготчи ВИКИ</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Добро пожаловать на ВИКИ проекта Аавеготчи, дружище!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+Эта ВИКИ ответит на все ваши вопросы относительно проекта Aavegotchi. Его поддержкой занимается команда разработчиков, называющихся Aarchivers.
 
-## New to Aavegotchi?
+## Впервые на Аавеготчи?
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game.
+Общую информацию о проекте и обзор игры вы найдете во  [Введении](https://wiki.aavegotchi.com/introduction).
 
-## Popular Pages
+## На что обратить внимание:
 * [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
 * [Staking](/staking) -- Learn how to stake GHST to make FRENS
