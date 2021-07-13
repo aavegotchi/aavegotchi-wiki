@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">Вселенная Aavegotchi</p>
 </div>
 
-Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
+Далеко, далеко, где не ступала нога человека, расположено царство Эфира, где загадочно мерцают смарт контракты и таятся непроходимые лесные чащи. Смело прыгайте в кроличью нору за неизведанным, и в конце путешествия вы обнаружите Царство Готчи — Готчиверсию. Когда вы делаете залог токенами, их дух отправляется в Готчиверсию, где становится вашим верным Готчи. Этот призрак не намерен греметь цепями и распугивать собратьев, ведь он просто обожает [фарминг](/rarity-farming), [голосования](/dao) и общение с друзьями.
 
-The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the Liquidators, their creators.
+Готчиверсая началась с маленькой компании бесстрашных Готчи, но по мере того, как в царстве Эфира было депонировано все больше токенов, население Готчиверсии постепенно росло. Тысячи Готчи учились, строились и селились на ее огромных просторах, отдавая дань геймерам — своим создателям.
 
 <a name="Realm"></a>
 
@@ -25,21 +25,21 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 **Содержание**
 
 <ol>
-<li><a href=#zones>Zones</a></li>
-<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
-<li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
-<li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
-<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
-<p><a href=#total-supply>Total Supply</a></p>
-<p><a href=#distribution>Distribution</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
+<li><a href=#zones>Зонирование.</a></li>
+<li><a href=#realm-parcel-sizes>Размеры участков во вселенной.</a></li>
+<li><a href=#realm-gameplay>Геймплей игрового проекта.</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Социализация в Готчиверсии.</a></li>
+<li><a href=#gotchus-alchemica>Алхимия Готчи.</a></li>
+<li><a href=#building-on-realm-parcels>Строительство на участках во вселенной.</a></li>
+<li><a href=#realm-tokenomics>Готчи Токеномика.</a></li>
+<p><a href=#total-supply>Общее предложение.</a></p>
+<p><a href=#distribution>Распространение.</a></p>
+<p><a href=#drop-tickets>Дроп билетов.</a></p>
 </ol>
 
 </div>
 
-## Zones
+## Зонирование
 
 The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
 
@@ -72,7 +72,7 @@ Liquidators dare not enter into the Aarena, instead opting to frequent the Phant
 
 Locked Parcels that will not be unlocked until the beginning of Act 2.
 
-## REALM Parcel Sizes
+## Размеры участков во вселенной.
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
@@ -84,7 +84,7 @@ Parcels come in three sizes, with each size providing greater deposits of Alchem
 
 <img class="bodyImage" src="/metaverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
-## REALM Gameplay
+## Геймплей игрового проекта.
 
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
 
@@ -98,7 +98,7 @@ The main goal of a Liquidator is to collect loose Alchemica that has been spille
 
 Liquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
-## Socializing in the Gotchiverse
+## Социализация в Готчиверсии.
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
@@ -108,11 +108,11 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/metaverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
-## Gotchus Alchemica
+## Алхимия Готчи.
 
 **Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
 
-<img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
+<img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Алхимия Готчи." />
 
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
@@ -123,7 +123,7 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-## Building on REALM parcels
+## Строительство на участках во вселенной.
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
@@ -135,7 +135,7 @@ Installations take a certain number of blockchain blocks to finish constructing,
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
-## REALM Tokenomics
+## Готчи Токеномика.
 
 ### Total Supply
 
@@ -157,7 +157,7 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Drop Tickets
+### Дроп билетов.
 
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
 
