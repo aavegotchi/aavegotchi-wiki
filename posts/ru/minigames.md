@@ -18,60 +18,60 @@ contributors:
 
 Играя в игры, ваш Готчи будет демонстрировать те или иные свои черты. Для справедливости игрового процесса в каждой мини-игре требования к ним будут разными. Например, ваш гипер-агрессивный Готчи-Халк может запросто раскидать всех на бойцовской арене, но он проиграет в конкурсе по выпечке кексиков.
 
-Если ваш Готчи в настоящее время по параметрам не подходит ни для одной существующей мини-игры, присоединяйтесь к нам. Развивайте проект Аавеготчи, и уже скоро игр станет больше. На их разработку выделяются средства из фонда [Аавеготчи DAO](/dao) V2.0. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+Если ваш Готчи в настоящее время по параметрам не подходит ни для одной существующей мини-игры, присоединяйтесь к нам. Развивайте проект Аавеготчи, и уже скоро игр станет больше. На их разработку выделяются средства из фонда [Аавеготчи DAO](/dao) V2.0. Игры, соответствующие стандартам, будут вознаграждать победителей очками опыта.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#official-mini-games>Official Mini-Games</a></li>
-<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+<li><a href=#official-mini-games>Официальные мини-игры.</a></li>
+<li><a href=#community-created-mini-games>Мини-игры, созданные сообществом.</a></li>
 </ol>
 
 </div>
 
-## Official Mini-Games
-Soon! The Devs are hard at work. More information will be released here once it is available!
+## Официальные мини-игры
+Совсем скоро! Команда усердно трудится над созданием мини-игр. Как только появится дополнительная информация, она будет опубликована на этой странице.
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS AT WORK</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
+<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>Готчи за работой!</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
 
-## Community-created Mini-Games
+## Перечень мини-игр, созданных сообществом
 
-Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+Некоторые наши друзья, знатоки Аавеготчи, создали уникальные мини-игры. Поиграй, ведь это отличное развлечение!
 
-### Reverse Pacman by aaron555
+### Реверсивный Пакмэн от AARON555
 
-Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+Ссылка на игру [здесь](https://cryptolve.com/aavegotchi_pacman/).
 
-<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Реверсивный Пакмэн от AARON555" />
 
-### Portal Rider by BitFlicker
+### Расхититель Порталов от BITFLICKER
 
-Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+Ссылка на игру [здесь](https://bitflicker.tech/aavegotchi/rider/).
 
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Расхититель Порталов от BITFLICKER" />
 
-### Gotchi Tower Defense by jarrod | aavegotchistats.com
+### Готчи — Защитник Башни, автор JARROD/AAVEGOTCHISTATS.COM
 
-Link to game [here](https://aavegotchistats.com/td)
+Ссылка на игру [здесь](https://aavegotchistats.com/td).
 
-<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Готчи — Защитник Башни, автор JARROD/AAVEGOTCHISTATS.COM" />
 
-### Gotchi the Gaatherer by BitFlicker
+### Готчи-Коллекционер от BITFLICKER
 
-Link to game [here](https://gotchigaatherer.gg/)
+Ссылка на игру [здесь](https://gotchigaatherer.gg/).
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Готчи-Коллекционер от BITFLICKER" />
 
-### Sushi Vader by ricJones | Grizzy
+### Суши-Вейдер от RICJONES/GRIZZY
 
-Link to game [here](https://sushivader.com/)
+Ссылка на игру [здесь](https://sushivader.com/).
 
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Суши-Вейдер от RICJONES/GRIZZY" />
 
-### Snaake by SpyceBringer
+### Змеюка от SPYCEBRINGER
 
-Link to game [here](https://snaake.gg/)
+Ссылка на игру [здесь](https://snaake.gg/).
 
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Змеюка от SPYCEBRINGER" />
