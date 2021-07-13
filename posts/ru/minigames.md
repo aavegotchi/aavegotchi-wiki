@@ -1,28 +1,28 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-games'
-description: 'All about Aavegotchi minigames'
+title: 'Мини-игры'
+description: 'Все про мини-игры в Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigames/gotchi_btc_gamer.png">
-<p class="headerImageText">Let's Game!</p>
+<p class="headerImageText">Го, поиграем!</p>
 </div>
 
-What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
+Владеете Готчи, помните — вы можете с ним поиграть в одну из мини-игр. Весло провести время и заработать очки опыта. Путешествуйте по [Вселенной](/metaverse) Аавеготчи, исследуйте мир с друзьями и проходите многочисленные испытания на своем пути.
 
-Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
+Некоторые игры будут совсем простыми, базируясь на генераторе случайных чисел. В другие играть будет сложнее. Потребуется опыт и игровые навыки. Зато, будет намного интересней!
 
-Each mini-game will use different Aavegotchi traits to enable fair gameplay for a wide variety of trait distributions. For example, a HYPER-AGGRESSIVE Aavegotchi may perform well in an Aavegotchi Fight Club, but may not be well-suited to a cake-baking mini-game.
+Играя в игры, ваш Готчи будет демонстрировать те или иные свои черты. Для справедливости игрового процесса в каждой мини-игре требования к ним будут разными. Например, ваш гипер-агрессивный Готчи-Халк может запросто раскидать всех на бойцовской арене, но он проиграет в конкурсе по выпечке кексиков.
 
-Have an Aavegotchi that isn’t suited well to any mini-game currently offered? Jump in and develop one! To help support developers building Aavegotchi mini-games, [AavegotchiDAO](/dao) V2.0 will manage a Development Fund that has been set up for supporting development work carried out within the Aavegotchi ecosystem. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+Если ваш Готчи в настоящее время по параметрам не подходит ни для одной существующей мини-игры, присоединяйтесь к нам. Развивайте проект Аавеготчи, и уже скоро игр станет больше. На их разработку выделяются средства из фонда [Аавеготчи DAO](/dao) V2.0. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#official-mini-games>Official Mini-Games</a></li>
