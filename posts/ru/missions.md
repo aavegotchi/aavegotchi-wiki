@@ -36,28 +36,28 @@ contributors:
 
 Читайте ниже, какие интересные миссии нужно было выполнить, чтобы стать Агентом.
 
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
+<p style="font-size:25px; font-style: italic;"><b>Что же приготовили геймерам разработчики...</b></p>
 
-Каждая миссия в игре — это способ лучше понять игровой проект. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Каждая миссия в игре — это способ лучше понять игровой проект. В большинстве своем, это простые задачи, за исключением одной, которая требует больше внимания. Выполнять задачи можно в любом порядке, чтобы заработать статус Агента!  Задание на скорость! Все, кто успел **выполнить все задания** из миссий до запуска основной игры, смогли получить **наборы носимых устройств**, предназначенные исключительно для Агентов Аавеготчи.
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
+**Официально, все миссии завершились к четвертому января 2021 года. Вот какими были задания:**
 
 &nbsp;
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+[**МИССИЯ 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Прокомментировать в Aavegotchi Litepaper.
 
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
+[**МИССИЯ 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Пригласить одного друга в Дискорд.
 
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
+[**МИССИЯ 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Добавить пару актуальных предложений для развития проекта в презентацию.
 
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
+[**МИССИЯ 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Рассказать в Твиттере, за что вы любите Аавеготчи, и тегнуть двух друзей.
 
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
+[**МИССИЯ 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Спросить о чем-угодно в нашем Телеграме.
 
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
+[**МИССИЯ 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Приобрести GHST в тестовой сети. **Проходить KYC-проверку не нужно**. Приобретенные в ходе этого навыки помогут вам в дальнейшем стать экспертами в Аавеготчи и помогать всем, кто нуждается в помощи и поддержке. Если понадобится помощь, спроси нас, мы будем рады помочь!
 
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
+[**МИССИЯ 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Проголосовать за предложения по управлению Аавеготчи.
 
 [**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
 
@@ -65,9 +65,9 @@ contributors:
 
 [**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
 
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
+[**МИССИЯ 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Почитать нашу ВИКИ! Подготовить две рекомендации по ее улучшению, чтобы сделать лучшим ресурсом!
 
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+[**МИССИЯ 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Зажги звезду! Отметить двух самых любимых своих крипто ютуберов и сообщить им о приближении ГотчиБанды с помощью хэштега #GotchiGang!
 
 &nbsp;
 
