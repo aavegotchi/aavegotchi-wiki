@@ -18,7 +18,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#coder-dan>Coder Dan</a></li>
@@ -40,7 +40,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 ## Coder Dan
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
+<img class="leftImage" src="/coderdan.jpg" alt = "Дэниел Метью">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
 
