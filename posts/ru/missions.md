@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: 'Миссии'
+description: 'Все о миссиях в Аавеготчи'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -11,34 +11,34 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">Агенты за работой!</p>
 </div>
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#the-aagent-missions>The Aagent Missions</a></li>
-<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
+<li><a href=#the-aagent-missions>Миссии Агентов.</a></li>
+<li><a href=#share2earn-litepaper-campaign>Кампания Share2Earn Litepaper.</a></li>
 </ol>
 
 </div>
 
-## The Aagent Missions
+## Миссии Агентов
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+**Миссии Аавеготчи на сегодняшний день завершены!**
 
-Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
+В проекте Аавеготчи есть игроки со статусом Агент. Его можно было получить, выполняя определенные миссии. По завершении всех миссий около 280 человек получили статус Аагентов. Им достался эксклюзивный [набор носимых устройств](/wearables#aagent-wearables-set), который есть только у Агентов Аавеготчи.
 
-**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
+Поздравляем всех Аагентов! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 
 
-From the aarchives:
+Читайте ниже, какие интересные миссии нужно было выполнить, чтобы стать Агентом.
 
 <p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
 
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Каждая миссия в игре — это способ лучше понять игровой проект. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
 
 **ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
 
@@ -75,7 +75,7 @@ Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/mission
 
 &nbsp; &nbsp;
 
-## Share2Earn Litepaper Campaign
+## Кампания Share2Earn Litepaper.
 
 We’re partnering with Viral Loops, an industry leader in referral programs, to create a limited-time campaign where you can earn real rewards for referring your frens to learn about Aavegotchi.
 
