@@ -1,8 +1,8 @@
 ---
-author: eris
+author: Метавселенная
 date: '2020-04-23T07:00:00.000Z'
 title: 'Metaverse'
-description: 'All about the Aavegotchi Metaverse'
+description: 'Все о Метавселенной Аавеготчи'
 image: "metaverse/metaverse.png"
 contributors:
   - "eris771"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/metaverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
-<p class="headerImageText">Aavegotchi Realm</p>
+<p class="headerImageText">Вселенная Aavegotchi</p>
 </div>
 
 Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
@@ -22,7 +22,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#zones>Zones</a></li>
