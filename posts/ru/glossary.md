@@ -30,10 +30,10 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Аавеготчи</a></p>
 <p><a href=#baadge>Baadge</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
+<p><a href=#drop-tickets>Дроп билетов.</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
+<p><a href=#gotchus-alchemica>Алхимия Готчи.</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#installations>Installations</a></p>
@@ -105,7 +105,7 @@ Keep your eyes out for more Baadges. They will be announced by the team as and w
 
 Check out the [Baadge](/baadge) page for the complete list of Baadges.
 
-### Drop Tickets
+### Дроп билетов.
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/metaverse).
 
 10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
@@ -122,7 +122,7 @@ Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allow
 
 Technically, a Gotchi Pocket is an escrow address.
 
-### Gotchus Alchemica
+### Алхимия Готчи.
 Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
 
 Technically, each element exists as an ERC-20 token.
