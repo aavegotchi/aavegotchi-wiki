@@ -213,7 +213,7 @@ No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ### Why is the GHST-USDC LP yielding 74M FRENS per day?
-An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+При добавлении ликвидности пулу GHST-USDC на QuickSwap, между двумя активами наблюдается другое соотношение. Добавляя свои токены, взамен пользователи получают не целый токен, а лишь части LP, например 0,00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Raffle FAQ
 
