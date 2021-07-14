@@ -17,7 +17,7 @@ contributors:
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
@@ -384,7 +384,7 @@ Do note that if you have more than 1 Gotchi, you need to repeat the same process
 
 ### Where do I find my Gotchi Address?
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchis. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
 Do note that each Gotchi will have its own Smart Contract Address.
 
