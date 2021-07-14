@@ -17,7 +17,7 @@ contributors:
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
@@ -213,7 +213,7 @@ No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ### Why is the GHST-USDC LP yielding 74M FRENS per day?
-An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+При добавлении ликвидности пулу GHST-USDC на QuickSwap, между двумя активами наблюдается другое соотношение. Добавляя свои токены, взамен пользователи получают не целый токен, а лишь части LP, например 0,00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Raffle FAQ
 
@@ -384,7 +384,7 @@ Do note that if you have more than 1 Gotchi, you need to repeat the same process
 
 ### Where do I find my Gotchi Address?
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchis. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
 Do note that each Gotchi will have its own Smart Contract Address.
 

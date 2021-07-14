@@ -42,7 +42,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#ugotchi-token>uGOTCHI Token</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#wearables>Элементы экипировки</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -58,7 +58,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
-<p><a href=#staking>Staking</a></p>
+<p><a href=#staking>Стейкинг</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>General Terms</a></li>
 <p><a href=#aragon>Aragon</a></p>
@@ -168,7 +168,7 @@ On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenI
 
 For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
 
-### Wearables
+### Элементы экипировки
 Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
@@ -273,7 +273,7 @@ Generally speaking, a smart contract is a self-executing contract with the "term
 
 
 
-### Staking
+### Стейкинг
 Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
 
 

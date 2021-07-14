@@ -1,104 +1,104 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+title: 'Характеристики'
+description: 'Все о характеристиках и чертах Готчи!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
 ---
 
-Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+Аавеготчи с рождения наделены чертами. В точности, как ваши черты характера определяют то, кем вы есть, работают и черты Аавеготчи. Они определяют их свойства, характеристики и жизненный цикл. Многочисленные черты оказывают прямое влияние на [базовую редкость](/rarity-farming#base-rarity-score) персонажа, эффективность в [мини-играх](/minigames), а также перечень подходящего для них [игрового шмота](/wearables). При рождении, появляющиеся из [порталов](/portals) Аавеготчи имеют сгенерированный автоматически набор черт. Но вы сможете управлять характером своего персонажа, развивая его до более высоких <a href=#level>уровней</a>, используя дополнительный игровой шмот и расходники. 
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
-<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
-<li><a href=#kinship>Kinship</a></li>
-<li><a href=#experience>Experience</a></li>
-<li><a href=#level>Level</a></li>
-<li><a href=#haunt>Haunt</a></li>
+<li><a href=#randomly-generated-traits>Рандомно сгенерированные черты. </a></li>
+<li><a href=#spirit-force-trait-modifiers>Модификаторы силы Духа.</a></li>
+<li><a href=#kinship>Сродство (лояльность).</a></li>
+<li><a href=#experience>Опыт.</a></li>
+<li><a href=#level>Уровень.</a></li>
+<li><a href=#haunt>Поколение.</a></li>
 </ol>
 
 </div>
 
-## Randomly Generated Traits
-Aavegotchis have six traits:
+## Рандомно сгенерированные черты
+У любого персонажа в игре есть шесть основных черт. Среди них:
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
-* EYS = Eye Shape
-* EYC = Eye Color
+* AGG = Уровень агрессии.
+* NRG = Показатель энергии.
+* SPK = Насколько жуткий Готчи.
+* BRN = Показатель интеллекта.
+* EYS = Форма глаз.
+* EYC = Цвет глаз.
 
-Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
+Если сравнивать с RPG-играми, то `AGG` - это, как сила в ролевых играх, `NRG` - эквивалентно ловкости, а `BRN` - интеллекту. `SPK` в данном случае выбирается рандомно. Отличием от RPG в Aavegotchi вселенной является тот факт, что низкие значения основных черт не означают, что персонаж безнадежно слабый.
 
-Traits are determined at the point of opening a [Portal](/portals). Upon opening of a Portal, [Chainlink’s VRF random number generator function](/glossary#chainlink-vrf) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+Все черты задаются при открытии [портала](/portals). Как только он открывается, рандомно генерируются черты с помощью генератора случайных чисел [Chainlink’s VRF](/glossary#chainlink-vrf). Персонажи получают рандомные черты, распределяющиеся по колоколообразной кривой. У каждой черты на старте появляется значение, соответствующее ее уровню редкости: Обычное, Необычное, Редкое или Мифическое. Диапазон черт и вероятность редкости Вот как выглядят шансы на получение той или иной черты:
 
 table_TraitsProbabilities
 
-The bell curve for trait value distribution would look something like the following:
+Процесс распределения характеристик на колоколообразной кривой выглядит так:
 
-<img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
+<img class="bodyImage" src="/traits/bell_curve.png" alt = "колоколообразная кривая" />
 
-Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
+В момент запуска игры в Aavegotchis заложено наличие шести характеристик. Однако в будущем их число может быть существенно расширено путем голосования сообщества в AavegotchiDAO. В процессе эволюции игры будет возможность проголосовать за цвет тела каждого нового призрака.
 
-Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game.
+Говоря о характеристиках, нужно еще раз подчеркнуть, что “слабые” характеристики не означают, что играть за такого персонажа будет невыгодно. Наоборот, сочетание разных настроек характеристик способствует специализации призраков. Дает им преимущество перед другими в мини-играх. Например, при высоких показателях энергии персонаж сможет отлично выступать в гонках, но там, где скорость не имеет значения, он не будет иметь решающего преимущества. Среди остальных качеств только форма и цвет глаз не оказывают влияния на игровые показатели. Остальные все имеют значение для геймплея.
 
-The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
+Все особенности характеристик по степени их редкости изложены в ниже приведенной таблице. *Примечание: две таблицы следует рассматривать как одну. Они были разделены на две части для лучшего отображения на мобильных устройствах*.
 
 table_TraitsByRarity1 table_TraitsByRarity2
-<p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
-<p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDAI, sky blue for aAAVE, purple for aETH etc. </i></p>
+<p style="margin-left: 3.0em"><i> (Н) означает "Низкий"; (В) означает "Высокий" </i></p>
+<p style="margin-left: 3.0em"><i> Ps. Цвет глаз обычно связан с тем, какие токены лежат на депозите. Для aDAI дан оранжевый, для aAAVE - голубой, для aETH - фиолетовый, и т.д. </i></p>
 
-For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+См. [эту](/eye-shape) информацию.
 
-## Spirit Force Trait Modifiers
+## Модификаторы силы Духа
 
-The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
+Тип силы Духа, которой обладает ваш Готчи, оказывает непосредственное влияние на значения черт:
 
 table_spiritForceModifiers
 
-## Kinship
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+## Сродство (лояльность)
+Это чувство, которое Аавеготчи чувствует к игроку. Его не назначают рандомно. На старте у каждого призрака лояльность стоит на уровне 50, а затем растет или уменьшается в зависимости от различных факторов. Например, длительности нахождения у одного владельца, частоты взаимодействия с ним. По факту, минимум лояльности - 0, а максимум не установлен. Так что есть куда развиваться.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Обычно, чем дольше у вас призрак, тем выше его уровень лояльности. Но если вы забросили игру, на дружеские объятия при следующем заходе можете не рассчитывать. Лояльность снизится. Аавеготчи - это не просто кошелек для хранения токенов. Это живой тамагочи, который хочет внимания. Ему нужна твоя привязанность.
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+За каждые 12 часов взаимодействия вам начисляется 1 очко лояльности. Сутки не играете - 1 очко лояльности долой. Это штраф.
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+Лояльность насчитывается на внутренний баланс вашего Готчи в смарт-контракте.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+Повышать лояльность можно с помощью зелий. Правда, все зелья - это товары ограниченного выпуска, и их не всегда можно купить в Молле. Больше информации о зельях появится в скором времени.
 
-High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+Зачем прокачивать лояльность? Высокие показатели повышают производительность призрака в мини-играх, а также дают коэффициент к награде за добычу редкостей и другие ништяки. При низком уровне лояльности эффект противоположный.
 
-Some ways to boost your Aavegotchi’s kinship level:
+Как повысить уровень лояльности:
 
-* Aavegotchis are born with a sense of civic duty. Bring your Aavegotchi to City Hall and let it vote in AavegotchiDAO;
-* Aavegotchis may be ghosts, but they have voracious appetites! Feed your Aavegotchi consumables to see its spooky smile;
-* Aavegotchis love trying on new clothes. Equip your Aavegotchi with new wearables to forge a lasting bond;
-* Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi Realm and level it up playing mini-games.
+* У Аавеготчи с рождения есть чувство гражданского долга. Отправьте своего персонажа в City Hall, чтобы проголосовать в AavegotchiDAO.
+* Аавеготчи хоть и призрак, но имеет хороший аппетит. Накорми его вкусняшками и увидишь довольную ухмылку.
+* Обновка для Аавеготчи повышает привязанность персонажа. Экипируй своего Готчи почаще!
+* Поиграйте с Аавеготчи, ведь эти маленькие шалуны просто обожают играть! Повышайте уровень своего персонажа, накапливая опыт, когда играете в мини-игры.
 
-The table below shows the kinship level and their value range.
+В ниже приведенной таблице указаны уровни лояльности и диапазон их значений.
 
 table_kinship
 
 
-## Experience
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+## Опыт
+Очки опыта тот или иной Aavegotchis получает путем голосования в AavegotchiDAO. Также их приобретают за участие в мини-играх. Есть еще один вариант получения опыта. Можно принести одного призрака в жертву, чтобы передать его [характеристики опыта](/atokens) другому персонажу. Во время этого процесса второй персонаж получает 100% накопленного опыта от другого Аавеготчи.
 
-XP exists as an internal balance on the Aavegotchi smart contract.
+Опыт является внутренним балансом смарт-контракта вашего Готчи.
 
-## Level
-Aavegotchis level up as they gain more XP. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Some wearables can only be worn by Aavegotchis of a certain level.
+## Уровень
+Этот показатель напрямую коррелирует с опытом. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Уровень таже влияет на то, какой шмот доступен для Аавеготчи. Вы не сможете экипировать своего призрака, если шмот предназначен для более высокоуровневого персонажа.
 
-For detailed information on the XP required for each level, click [here](/xp).
+Получите подробную информацию об [опыте](/xp), который нужен для каждого уровня, тут.
 
-## Haunt
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+## Поколение
+У призраков есть поколения. Каждое состоит из 10 000 Готчи. Призраки первого поколения проходят через портал в самом начале игры. После запуска мейннет появление новых категорий призраков должно быть одобрено [AavegotchiDAO](/dao). От поколения, к которой принадлежит призрак, будут зависеть показатели и возможности экипировки.
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts. The team is exploring `bodyColor` on Aavegotchis to differentiate between Haunts.
+Готчи одного поколения имеют сходные черты. Между ними не будет различий в статистике. Возможно, с помощью цвета Готчи в дальнейшем можно будет различать поколения. Пока что команда размышляет над этим.

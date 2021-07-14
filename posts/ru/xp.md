@@ -1,43 +1,43 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Опыт Готчи (XP)'
+description: 'Узнайте все об опыте своего Готчи на этой странице!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+Уровень вашего Готчи неуклонно растет по мере того, как они получают очки опыта (XP). Сколько опыта нужно для перехода на следующий уровень? Мы подготовили для вас детальную статистику.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#formula>ФОРМУЛА</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#formula>Формула.</a></li>
+<li><a href=#experience-table>Таблица очков опыта.</a></li>
 </ol>
 
 </div>
 
 ## ФОРМУЛА
-The following formula is used to determine the XP required for the next level:
+Опыт призрака рассчитывается по формуле:
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+(Текущий уровень ^ 2) ÷ Константа, где Константа = 0,02
 
-## Experience Table
+## Таблица очков опыта
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+В нижеприведенной таблице вы можете проследить зависимость между уровнями Готчи и количеством очков опыта.  В ней используются такие термины:
 
-* Current Level: Current Level of your Gotchi
-* Next Level: Next Level of your Gotchi
-* XP: Experience required to reach the next level that is specified in the **Next Level** column
-* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
-* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
+* Текущий уровень: тот уровень, на котором находится ваш Готчи.
+* Следующий уровень: переход на этот уровень будет осуществлен после набора должного числа очков.
+* XP: количество очков опыта для перехода на следующий уровень.
+* Разница: на сколько очков опыта отличаются предыдущий и **следующий** уровни в игре.
+* Константа: фиксированное значение, необходимое для нахождения искомого числа очков опыта, которых не хватает до перехода на следующий уровень формулы.
 
-The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+Максимально возможный для Готчи на данный момент уровень - 99-й. Если поступит предложение на голосование в [Аавеготчи DAO](/dao), этот показатель может быть пересмотрен.
 
-*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
+*Примечание. Все Готчи стартуют с первого уровня. Нулевой уровень введен в формулу, чтобы все желающие могли использовать формулу и самостоятельно просчитать XP.*
 
 table_XP
 
