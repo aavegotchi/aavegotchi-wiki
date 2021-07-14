@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+title: 'История прошлых розыгрышей лотерей Аавеготчи'
+description: 'Статистика розыгрышей лотерей Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -15,7 +15,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#raffle-1>Raffle 1</a></li>
