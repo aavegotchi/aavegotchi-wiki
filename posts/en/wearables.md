@@ -55,6 +55,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#independent-body-items>Independent Body Items</a></li>
 <li><a href=#consumables>Consumables</a></li>
 <li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
+<li><a href=#auction-wearables>Auction Wearables</a></li>
 </ol>
 
 </div>
@@ -199,3 +200,7 @@ table_consumablesTable
 The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon). 
 
 table_layer2WearablesTable
+
+## Auction Wearables
+
+table_auctionWearablesTable

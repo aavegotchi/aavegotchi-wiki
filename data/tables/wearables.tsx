@@ -425,6 +425,22 @@ export const tables
 			}
 		},
 		
+		{
+            tableName: "auctionWearablesTable",
+            tableCaption: "Auction Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/auction/steampunk_mask.svg" alt = "aavegotchi Steampunk Goggles"/>`, "199", "Steampunk Goggles", "Rare", "SPK +3", "250", "eyes"],
+					[`<img src="/wearables/auction/steampunk_trousers.svg" alt = "aavegotchi Steampunk Trousers"/>`, "200", "Steampunk Trousers", "Uncommon", "SPK +2", "500", "body"],
+					[`<img src="/wearables/auction/mechanical_arm.svg" alt = "aavegotchi Mechanical Claw"/>`, "201", "Mechanical Claw", "Legendary", "AGG +2, SPK +2", "100", "hands"],
+					[`<img src="/wearables/auction/vrgoggles.svg" alt = "aavegotchi VR Headset"/>`, "202", "VR Headset", "Mythical", "NRG +2, AGG +3", "50", "eyes"],
+					[`<img src="/wearables/auction/gamer_jacket.svg" alt = "aavegotchi Gamer Jacket"/>`, "203", "Gamer Jacket", "Rare", "NRG +1, AGG +2", "250", "body"],
+					[`<img src="/wearables/auction/game_controller.svg" alt = "aavegotchi Game Controller"/>`, "204", "Game Controller", "Uncommon", "NRG +1, AGG +1", "500", "hands"],
+					[`<img src="/wearables/auction/coffee_cup.svg" alt = "aavegotchi Gotchi Mug"/>`, "205", "Gotchi Mug", "Common", "NRG +1", "1000", "hands"]
+                ]
+            }
+        },		
 
         {
             tableName: "wearablesBRStable",
