@@ -1,8 +1,8 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming'
-description: 'Everything you need to know about Rarity Farming!'
+title: 'Фарминг редкости Готчи'
+description: 'Все что Вам нужно знать о Фарминге редкости Готчи'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
@@ -11,55 +11,56 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/rarity-farming/rarity-farming.png">
-<p class="headerImageText">A Rarity Farmer</p>
+<p class="headerImageText">Фарминг раритетных Готчи</p>
 </div>
 
-**Introduction**
+**Вступление**
 
-Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
+Фарминг редкости — это уникальный игровой механизм, внедренный командой Аавеготчи. С его помощью разработчики планируют вознаграждать игроков, которые проявляют активность и энтузиазм при взаимодействии с игровой экосистемой. Как понятно по названию, это соревнование по выращиванию самых необычных и редких Готчи, за которые вас ожидает приятных бонус в токенах GHST.
 
-This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
+На этой вики-странице вы узнаете, как можно заниматься разведением раритетов и как определяются самые редкие авегочи. Читайте дальше, чтобы узнать больше!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
-<li><a href=#calculating-rarity>Calculating Rarity</a></li>
-<p><a href=#base-rarity-score>Base Rarity Score</a></p>
-<p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p><a href=#final-rarity-score>Final Rarity Score</a></p>
-<li><a href=#rewards>Rewards</a></li>
-<p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
+<li><a href=#how-do-i-rarity-farm->Как заниматься фармингом раритетов (Rarity Farming)?</a>
+</p>
+<li><a href=#calculating-rarity>Как рассчитывается степень редкости?</a></li>
+<p><a href=#base-rarity-score>Базовый показатель редкости.</a></p>
+<p><a href=#absolute-rarity-score>Абсолютный показатель редкости.</a></p>
+<p><a href=#final-rarity-score>Окончательный подсчет редкости.</a></p>
+<li><a href=#rewards>Вознаграждение.</a></li>
+<p><a href=#collecting-rarity-farming-rewards>Получение наград за фарминг.</a></p>
 </ol>
 
 </div>
 
-## **How Do I Rarity Farm?**
-There are several ways you can engage in the rarity farming exercise. These include:
+## **Как я могу заниматься Фармингом Раритетов?**
+Существует несколько способов, с помощью которых вы можете заняться фармингом раритетов. К ним относятся:
 
-* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
+* **Призывать Гочти с самыми редкими чертами во время [вызова](/portals) его из портала.**
 
-* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
+* **Экипировать Готчи за счет покупки [носимых предметов](/wearables).**
 
-* **Engaging in [mini-games](/minigames)**
+* **Участвовать в [мини-играх](/minigames).**
 
-For more information on each process, just follow the links to the respective pages on the sidebar.
+Подробную информацию об этом вы можете получить, перейдя по вышеуказанным страницам.
 
-That said, the rarity level of a single Aavegotchi is dynamic and will change over time, as the distribution of traits and wearables in the Aavegotchi universe changes. In other words, it isn't enough to simply max out a particular trait in your Aavegotchi. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a war-like gotchi with high aggression scores, this trait becomes less rare, and your Aavegotchi's rarity level goes down.
+Однако, стоит учитывать, что уровень редкости — величина непостоянная. С течением времени показатель редкости будет меняться в соответствии с тем, как распределяются те или иные характеристики во вселенной Аавеготчи. Так что просто максимизировать уровень характеристик вашего Готчи — недостаточно. Нужно постоянно заниматься повышением его характеристик, чтобы удерживать пальму первенства и получать награды за фарминг. Есть еще один фактор, о котором не стоит забывать. Речь об усилиях игроков по созданию уникальных Готчи с определенными характеристиками. Например, если в какой-то период времени во вселенной игры станут популярными боевые Готчи с высокими показателями агрессии, то эта черта станет не такой редкой, и общий уровень редкости вашего Готчи снизится.
 
-## **Calculating Rarity**
+## **Как рассчитывается степень редкости?**
 
-There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
+Расчет редкости ведется двумя показателями — базовым и абсолютным. От их суммы зависит окончательная оценка степени редкости вашего игрового персонажа.
 
-### Base Rarity Score
+### Базовый показатель редкости
 
-Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits and equipped wearables.
+Данный показатель именуется английской аббревиатурой BRS и рассчитывается суммарно по редкости характеристик и экипировки Готчи.
 
-#### Trait BRS
+#### Как рассчитывается BRS?
 
-BRS of the Aavegotchi's traits is derived using the following formula:
+Данный показатель рассчитывают по формуле:
 
 ```
 if (number < 50) return 100 - number;
@@ -74,11 +75,11 @@ if (number < 50) return 100 - number;
 
 Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
 
-### Absolute Rarity Score
+### Абсолютный показатель редкости.
 
 Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
-### Final Rarity Score
+### Окончательный подсчет редкости.
 
 <b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
 
@@ -89,7 +90,7 @@ table_RarityScoreCalculationTable
 
 **The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
-## Rewards
+## Вознаграждение.
 
 In each period (length determined by AavegotchiDAO), the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
@@ -112,7 +113,7 @@ The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is co
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
-### Collecting Rarity Farming Rewards
+### Получение наград за фарминг.
 
 Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
 
