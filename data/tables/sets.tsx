@@ -103,7 +103,9 @@ export const tables
 					["Lil Pump Set", `<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Goatee.svg" alt = "aavegotchi Lil Pump Goatee" title = "Lil Pump Goatee" />`, `<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Drank.svg" alt = "aavegotchi Lil Pump Drank" title = "Lil Pump Drank" />`, `<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Shades.svg" alt = "aavegotchi Lil Pump Shades" title = "Lil Pump Shades" />`, `<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-threads.svg" alt = "aavegotchi Lil Pump Threads" title = "Lil Pump Threads" />`, `<img src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Dreads.svg" alt = "aavegotchi Lil Pump Dreads" title = "Lil Pump Dreads" />`, "BRS +6, NRG +2, AGG +2"],
 					["Soundcloud Rapper", "???", "???", "???", "???", "???", "BRS +5, NRG +1, AGG +2"],
 					["REALM Tycoon", "???", "???", "???", "???", "???", "BRS +4, NRG -1, AGG -1"],
-					["Yegres the Dragon", "???", "???", "???", "???", "???", "BRS +5, SPK +1, BRN +2"]
+					["Yegres the Dragon", "???", "???", "???", "???", "???", "BRS +5, SPK +1, BRN +2"],
+					["VR Gamer", `<img src="/wearables/auction/vrgoggles.svg" alt = "aavegotchi VR Headset" title = "VR Headset" />`, `<img src="/wearables/auction/gamer_jacket.svg" alt = "aavegotchi Gamer Jacket" title = "Gamer Jacket" />`, `<img src="/wearables/auction/game_controller.svg" alt = "aavegotchi Game Controller" title = "Game Controller"/>`, "-", "-", "BRS +5, NRG +2, AGG +1"],
+					["Steampunk", `<img src="/wearables/auction/steampunk_mask.svg" alt = "aavegotchi Steampunk Goggles" title = "Steampunk Goggles" />`, `<img src="/wearables/auction/steampunk_trousers.svg" alt = "aavegotchi Steampunk Trousers" title = "Steampunk Trousers" />`, `<img src="/wearables/auction/mechanical_arm.svg" alt = "aavegotchi Mechanical Claw" title = "Mechanical Claw" />`, "-", "-", "BRS +4, SPK +2"]
                 ]
             }
         }
