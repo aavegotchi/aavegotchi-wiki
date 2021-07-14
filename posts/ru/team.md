@@ -72,38 +72,38 @@ contributors:
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
 
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Ник Мадж известен в качестве опытного и технически подкованного разработчика Ethereum. Им был разработан стандарт ERC-998, без которого бы не была возможна работа игры. Данный стандарт является важнейшим аспектом игрового процесса в Аавеготчи, позволяя родительским NFT использовать дочерние (Готчи + экипировка). До игрового проекта Мадж руководил разработкой Diamond Standard в Ethereum. Данный стандарт предназначен для DAO и функционирует в области обновляемых контрактов.
 
-## JC.
+## JC
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+Jc является энтузиастом блокчейн-технологии, стратегом по бизнес-развитию, имеет огромный опыт общения и взаимодействия с самыми яркими представителями криптосферы. Он — отличный командный игрок, способствующий построению стратегических партнерств, развитию каналов продаж и аккаунтов в социальных медиа. Свято верит в блокчейн-технологии и обладает навыками вирусного маркетинга, что позволяет Аавеготчи наращивать темпы. Одним из его увлечений является промоутерство новых компаний и способствование их развитию. Его энтузиазм в отношении метавселенной Готчи основан на вере в великую силу блокчейн-технологий.
 
-## Candoizo.
+## Candoizo
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/candoizo.png" alt = "Candoizo.">
 <p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo.</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+Candoizo является успешным разработчиком программного обеспечения, благодаря которому Аавеготчи стал удобным, интересным и функциональным проектом. Способствует построению сообщества, благодаря наличию большого опыта работы и геймерства.
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+По легенде, он вырос в глуши в Канаде, и единственной его страстью была и остается гейм-индустрия. В прошлом занимался развитием таких проектов, как Hauntgg, CoinVanity. Передал навыки и стал вдохновителем всей команды  Pixelcraft.
 
-## Койот (Coyote).
+## Койот (Coyote)
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/coyote.png" alt = "Койот (Coyote).">
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Койот (Coyote).</a></p>
 </div>
 
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Калеб с оригинальным ником Coyote, полученным им в качестве второго имени от родителей, присоединился к проекту в начале 2021 года. Он начал свой путь в стартапах в качестве UI/UX дизайнера, а затем решил перейти на фронтенд-разработку. В процессе работы над приложениями для Аавеготчи он обнаружил ошибку в блокчейне, которая была успешно устранена. Сейчас он хочет передать свои знания следующему поколению веб-инженеров!
 
-## Джейсон Чу (Jason Chew).
+## Джейсон Чу (Jason Chew)
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jason-chew.jpg" alt = "Джейсон Чу (Jason Chew).">
