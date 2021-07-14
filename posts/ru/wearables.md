@@ -93,110 +93,110 @@ table_wearablesVotingPower
 
 table_linkWearablesTable
 
-## Тематический набор Aave.
+## Тематический набор Aave
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Экипировку из набора Aave можно было выиграть 8 декабря 2020 года, когда проводился второй из трех предварительных розыгрышей лотереи. Коллекция носимых устройств приурочена к партнерству сообщества Aave и проекта Аавеготчи.
 
 table_aaveWearablesTable
 
-## Тематический набор Ethereum.
+## Тематический набор Ethereum
 
-The Ethereum-themed set is the last of three pre-Mainnet sets.
+Данный набор экипировки был посвящен блокчейну Ethereum. Это был третий и последний набор носимых устройств, вышедший перед запуском игры в основной сети Ethereum.
 
 table_ethereumWearablesTable
 
-## Набор экипировки Агента.
+## Набор экипировки Агента
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+Набор экипировки Агента — уникальная коллекция носимых устройств, которыми поощрили всех агентов, достигших [12 уровня](/missions). Они должны были выполнить условия конкурса — успешно пройти 12 миссий до того, как игра Аавеготчи будет официально запущена в основной сети. Подробности появятся в ближайшее время!
 
 table_aagentWearablesTable
 
-## Набор экипировки Волшебника.
+## Набор экипировки Волшебника
 
 table_wizardWearablesTable
 
-## Набор экипировки Фермера.
+## Набор экипировки Фермера
 
 table_farmerWearablesTable
 
-## Набор экипировки Санты.
+## Набор экипировки Санты
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+Один из друзей проекта Аавеготчи случайно отправил 4 тыс. токенов LINK (приблизительно 50 000 долларов) на неправильный адрес. Чтобы помочь ему, сообщество игрового проекта собрало средства, а разработчики премировали всех участников акции. Каждый игрок, пожертвовавший любые токены стандарта ERC-20 не меньше, чем на $20, и осуществивший перевод для SantaGotchi.eth, получил уникальную шляпу Санты ограниченного выпуска. См. больше информации [тут](https://twitter.com/aavegotchi/status/1339738554906243072). Фото шляпы скоро появится. Также в скором времени будут доступны и другие предметы этой коллекции.
 
 table_santaWearablesTable
 
-## Набор экипировки OKex.
+## Набор экипировки OKex
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+С легкой подачи Джея Хао, генерального директора биржи OKex, была разработана уникальная коллекция экипировки. Она была выпущена 7 октября 2020 года. Получить носимые устройства из этой коллекции могли те, кто имел депозит токенов GHST на платформе OKex. В общей сложности было выпущено 150 элементов. 5 владельцев крупнейших депозитов автоматически получили полный набор из 5 предметов. Остальные 125 носимых устройств из коллекции были разыграны между всеми, кто внес депозит выше 10 GHST. Больше информации смотрите [тут](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2).
 
 table_okexWearablesTable
 
-## Набор экипировки Скейтера.
+## Набор экипировки Скейтера
 
 table_skaterWearablesTable
 
-## Набор экипировки Суши.
+## Набор экипировки Суши
 
 table_sushiWearablesTable
 
-## Набор экипировки Джентльмена.
+## Набор экипировки Джентльмена
 
 table_gentlemanWearablesTable
 
-## Набор экипировки Майнера.
+## Набор экипировки Майнера
 
 table_minerWearablesTable
 
-## Набор экипировки Пижама.
+## Набор экипировки Пижама
 
 table_pajamasWearablesTable
 
-## Набор экипировки Бегуна.
+## Набор экипировки Бегуна
 
 table_runnerWearablesTable
 
-## Набор экипировки Леди.
+## Набор экипировки Леди
 
 table_ladyWearablesTable
 
-## Набор экипировки Колдуньи.
+## Набор экипировки Колдуньи
 
 table_witchyWearablesTable
 
-## Набор экипировки Портал.
+## Набор экипировки Портал
 
 table_portalWearablesTable
 
-## Набор экипировки Растамана.
+## Набор экипировки Растамана
 
 table_rastaWearablesTable
 
-## Набор экипировки Химзащиты.
+## Набор экипировки Химзащиты
 
 table_hazmatWearablesTable
 
-## Набор экипировки Отпускника.
+## Набор экипировки Отпускника
 
 table_vacationWearablesTable
 
-## Напитки.
+## Напитки
 
 table_independentDrinksTable
 
-## Головные уборы.
+## Головные уборы
 
 table_independentHeadTable
 
-## Одежда.
+## Одежда
 
 table_independentBodyTable
 
-## Расходники.
+## Расходники
 
 table_consumablesTable
 
-## Тематический набор 2 уровня Polygon.
+## Тематический набор 2 уровня Polygon
 
-The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+В данный набор входят носимые устройства, выпущенные в рамках розыгрыша четвертой лотереи, посвященной запуску Аавеготчи на [Polygon](/polygon).
 
 table_layer2WearablesTable
