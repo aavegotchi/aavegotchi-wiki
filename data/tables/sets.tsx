@@ -105,7 +105,11 @@ export const tables
 					["REALM Tycoon", "???", "???", "???", "???", "???", "BRS +4, NRG -1, AGG -1"],
 					["Yegres the Dragon", "???", "???", "???", "???", "???", "BRS +5, SPK +1, BRN +2"],
 					["VR Gamer", `<img src="/wearables/auction/vrgoggles.svg" alt = "aavegotchi VR Headset" title = "VR Headset" />`, `<img src="/wearables/auction/gamer_jacket.svg" alt = "aavegotchi Gamer Jacket" title = "Gamer Jacket" />`, `<img src="/wearables/auction/game_controller.svg" alt = "aavegotchi Game Controller" title = "Game Controller"/>`, "-", "-", "BRS +5, NRG +2, AGG +1"],
-					["Steampunk", `<img src="/wearables/auction/steampunk_mask.svg" alt = "aavegotchi Steampunk Goggles" title = "Steampunk Goggles" />`, `<img src="/wearables/auction/steampunk_trousers.svg" alt = "aavegotchi Steampunk Trousers" title = "Steampunk Trousers" />`, `<img src="/wearables/auction/mechanical_arm.svg" alt = "aavegotchi Mechanical Claw" title = "Mechanical Claw" />`, "-", "-", "BRS +4, SPK +2"]
+					["Steampunk", `<img src="/wearables/auction/steampunk_mask.svg" alt = "aavegotchi Steampunk Goggles" title = "Steampunk Goggles" />`, `<img src="/wearables/auction/steampunk_trousers.svg" alt = "aavegotchi Steampunk Trousers" title = "Steampunk Trousers" />`, `<img src="/wearables/auction/mechanical_arm.svg" alt = "aavegotchi Mechanical Claw" title = "Mechanical Claw" />`, "-", "-", "BRS +4, SPK +2"],
+					["Casual Gamer", "???", "???", "???", "???", "???", "BRS +3, NRG +1, AGG +1"],
+					["Gentleman Farmer", "???", "???", "???", "???", "???", "BRS +2, SPK +1"],
+					["Cyberpunk", "???", "???", "???", "???", "???", "BRS +5, NRG +2, AGG +1"],
+					["Steampunk Granadier", "???", "???", "???", "???", "???", "BRS +3, SPK +2"]
                 ]
             }
         }
