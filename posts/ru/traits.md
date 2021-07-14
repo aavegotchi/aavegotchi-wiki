@@ -28,10 +28,10 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 ## Randomly Generated Traits
 Aavegotchis have six traits:
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG = Уровень агрессии.
+* NRG = Показатель энергии.
+* SPK = Насколько жуткий Готчи.
+* BRN = Показатель интеллекта.
 * EYS = Eye Shape
 * EYC = Eye Color
 
