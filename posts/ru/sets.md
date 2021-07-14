@@ -1,38 +1,38 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+title: 'Наборы экипировки'
+description: 'Все про наборы экипировки Готчи'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+Привет, друг! Знаешь ли ты, что если *определенные предметы* экипированы вместе, то ты можешь получить сет-бонус поверх бонусов от самих предметов? Теперь знаешь!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**Наборы экипировки** или сеты — это наборы вещей, которые дают дополнительный бонус Готчи, у которого есть все вещи из набора.
 
-Get ready a fat stack of GHST! You will need them!
+Готовьте толстую пачку GHST! Они Вам понадобятся!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#key>Key</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#key>Расшифровка.</a></li>
+<li><a href=#wearable-sets>Наборы экипировки.</a></li>
 </ol>
 
 </div>
 
-## Key
+## Расшифровка
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* BRS = [Базовый показатель редкости](/rarity-farming#base-rarity-score).
+* AGG = Уровень агрессии.
+* NRG = Показатель энергии.
+* SPK = Насколько жуткий Готчи.
+* BRN = Показатель интеллекта.
 
-## Wearable Sets
+## Наборы экипировки
 
 table_sets
 
