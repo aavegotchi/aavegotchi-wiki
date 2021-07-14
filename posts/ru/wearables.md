@@ -56,6 +56,7 @@ contributors:
 <li><a href=#independent-body-items>Одежда.</a></li>
 <li><a href=#consumables>Расходники.</a></li>
 <li><a href=#layer-2-themed-set>Тематический набор 2 уровня Polygon.</a></li>
+<li><a href=#auction-wearables>Auction Wearables</a></li>
 </ol>
 
 </div>
@@ -200,3 +201,7 @@ table_consumablesTable
 В данный набор входят носимые устройства, выпущенные в рамках розыгрыша четвертой лотереи, посвященной запуску Аавеготчи на [Polygon](/polygon).
 
 table_layer2WearablesTable
+
+## Auction Wearables
+
+table_auctionWearablesTable
