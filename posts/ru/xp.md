@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Опыт Готчи (XP)'
+description: 'Узнайте все об опыте своего Готчи на этой странице!'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -11,7 +11,7 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#formula>ФОРМУЛА</a></li>
