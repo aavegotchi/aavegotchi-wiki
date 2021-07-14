@@ -44,9 +44,9 @@ contributors:
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
 
-Дэн, он же Coder Dan, — один из основных разработчиков игры Аавеготчи. Он создал DeFi-приложение Yield Hero, а в Аавеготчи выступает в роли разработчика полного стека (full stack developer). Его вклад в проект очень важен. Yield Hero помогает перенаправлять AAVE на любой адрес по желанию. Дэн также принял участие в разработке стандарта ERC-721 на NFT-платформе Bullionix (стандарт ERC20). Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Дэн, он же Coder Dan, — один из основных разработчиков игры Аавеготчи. Он создал DeFi-приложение Yield Hero, а в Аавеготчи выступает в роли разработчика полного стека (full stack developer). Его вклад в проект очень важен. Yield Hero помогает перенаправлять AAVE на любой адрес по желанию. Дэн также принял участие в разработке стандарта ERC-721 на NFT-платформе Bullionix (стандарт ERC20). Проживает Дэн в китайской провинции Фуцзянь, отлично знает и без труда разговаривает на китайском. Благодаря ему проект Аавеготчи привлек внимание в соцсетях. В Твиттере у проекта быстро набралось более 10 тыс подписчиков, а также 6 тысяч активных пользователей в Дискорде. Он также продвигает игру в Китае, благодаря чему официальные аккаунты Аавеготчи в Weibo, Bilibili и WeChat собрали свыше 1,5 млн фолловеров.
 
-## Джесси (Jesse).
+## Джесси (Jesse)
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
@@ -54,16 +54,16 @@ contributors:
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
 </div>
 
-Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+Джесси, более известный под ником GldnXross, является основателем, занимающимся продвижением проекта. До Аавеготчи он руководил созданием популярных NFT-платформ, среди которых проект по минтингу токенов под названием Mintable, работающий на Ethereum и Zilliqa. Он также является создателем вышеупомянутой концепции Value-Staked NFTs и создателем Bullionix.io, который первым предложил 3D цифровые коллекционные предметы высокого разрешения, обеспеченные стейблкоинами. До блокчейн-карьеры Джесси руководил продвижением ZB Group на международном рынке, а ранее был частью китайского офиса Lenovo Mobile Unit, работал в роли спеца по усовершенствованию продуктов и проведению слияния с компанией Моторола.
 
-## Xibot.
+## Xibot
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot.">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
 
-Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Ксавье Итурральде, именующий себя xibot, является на данный момент опытнейшим криптохудожником и специалистом в сфере криптоискусства. Его пиксельные арт-объекты отлично продавались на OpenSea и Rarible. А инновационный токен PIXEL стал одним из популярных социальных токенов, отлично прижился и принес дополнительную известность. Многие любители искусства Xibot стали первыми ироками Аавеготчи. Это еще один повод для фомо в звездной команде игры.
 
 ## Nick Mudge
 
