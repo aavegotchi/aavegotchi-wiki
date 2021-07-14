@@ -50,7 +50,7 @@ contributors:
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
+<img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Джесси Джонсон">
 <p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
 </div>
 
@@ -59,7 +59,7 @@ contributors:
 ## Xibot
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot.">
+<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
 </div>
 
@@ -68,7 +68,7 @@ contributors:
 ## Ник Мадж
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
+<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Ник Мадж">
 <p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
 </div>
 
@@ -86,8 +86,8 @@ Jc является энтузиастом блокчейн-технологии
 ## Candoizo
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo.">
-<p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo.</a></p>
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
+<p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo</a></p>
 </div>
 
 Candoizo является успешным разработчиком программного обеспечения, благодаря которому Аавеготчи стал удобным, интересным и функциональным проектом. Способствует построению сообщества, благодаря наличию большого опыта работы и геймерства.
@@ -97,8 +97,8 @@ Candoizo является успешным разработчиком прогр
 ## Койот (Coyote)
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Койот (Coyote).">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Койот (Coyote).</a></p>
+<img class="leftImage" src="/team/coyote.png" alt = "Койот (Coyote)">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Койот (Coyote)</a></p>
 </div>
 
 Калеб с оригинальным ником Coyote, полученным им в качестве второго имени от родителей, присоединился к проекту в начале 2021 года. Он начал свой путь в стартапах в качестве UI/UX дизайнера, а затем решил перейти на фронтенд-разработку. В процессе работы над приложениями для Аавеготчи он обнаружил ошибку в блокчейне, которая была успешно устранена. Сейчас он хочет передать свои знания следующему поколению веб-инженеров!
@@ -106,25 +106,25 @@ Candoizo является успешным разработчиком прогр
 ## Джейсон Чу (Jason Chew)
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jason-chew.jpg" alt = "Джейсон Чу (Jason Chew).">
-<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Джейсон Чу (Jason Chew).</a></p>
+<img class="leftImage" src="/team/jason-chew.jpg" alt = "Джейсон Чу (Jason Chew)">
+<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Джейсон Чу (Jason Chew)</a></p>
 </div>
 
-Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
+Джейсон познакомился с блокчейном Ethereum еще в Devcon V Osaka, и с тех пор активно работает с подобными проектами. От DAOstack, BrightID до Gitcoin, Джейсон - отличный специалист по DeFi, который никогда не прекращает экспериментировать и продвигать технологию. Он также управляет BitcoinMalaysia, которое является самым большим онлайн криптосообществом в Юго-Восточной Азии, а также читает лекции для начинающих, которые с начала пандемии прослушало более 8000 человек.
 
 ## NyanKong.
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong.">
-<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong.</a></p>
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
 </div>
 
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+Кристиан Сенн (ник NyanKong или kurisu) имеет 30-летний опыт в создании игровых проектов (разработка игрового дизайна, графики и анимации) для консолей, ПК, мобильных устройств, настольных компьютеров. Его интерес к виртуальной реальности и игровым проектам постоянно подпитывается живым воображением, а активное взаимодействие с командами и аудиторией позволяет делать проекты лучше и интересней. В команде Pixelcraft Кристиан занимается разработкой арт-объектов, которые можно исследовать, наслаждаясь процессом.
 
-## BinGeHD.
+## BinGeHD
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/bingehd.png" alt = "BinGeHD.">
+<img class="leftImage" src="/team/bingehd.png" alt = "BinGeHD">
 <p class="leftImageText"><a href="https://facebook.com/bingehd">BinGeHD</a></p>
 </div>
 
@@ -133,7 +133,7 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 ## Shohan
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.png" alt = "Shohan.">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
 </div>
 
@@ -150,6 +150,6 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 
 К счастью для всех поклонников Аавеготчи, и в этот раз его мечта о солнечном пляже оказалась несбыточной.  Он познакомился с Джесси, известным также как GldnXross.  Ребята быстро подружились.  Сочиняли музыку и отлично проводили время.
 
-В один прекрасный день они задумались о создании блокчейн-версии классической игрушки из 90-х.  Однако вдвоем такая задача им была не под силу.  Нужны были лучшие из лучших...  Но кто это может быть?  "Xibot!" Немедленно сказал Дэн.  Только он мог бы понять идею до конца, уловить все тональности и помочь в создании игры.  “Так, а что насчет смарт-контрактов” — сказал GldnXross.  Кто бы мог ими заняться? “Есть один человек”, — сказал Дэн. Он без ума от смарт-контрактов настолько, что пишет смарт-контракты для смарт-контрактов.  Это Ник Мадж! Сказал GldnXross.  “А что насчет Сообщества?” Нужен кто-то невероятный, кто сможет подавить спамеров и помочь новичкам.  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+В один прекрасный день они задумались о создании блокчейн-версии классической игрушки из 90-х.  Однако вдвоем такая задача им была не под силу.  Нужны были лучшие из лучших...  Но кто это может быть?  "Xibot!" Немедленно сказал Дэн.  Только он мог бы понять идею до конца, уловить все тональности и помочь в создании игры.  “Так, а что насчет смарт-контрактов” — сказал GldnXross.  Кто бы мог ими заняться? “Есть один человек”, — сказал Дэн. Он без ума от смарт-контрактов настолько, что пишет смарт-контракты для смарт-контрактов.  Это Ник Мадж! Сказал GldnXross.  “А что насчет Сообщества?” Нужен кто-то невероятный, кто сможет подавить спамеров и помочь новичкам.  У него должно быть золотое сердце и ангельское терпение. Есть такой! Это JC Crown!
 
-So this is how our heroes assembled, some details have been edited for time.
+Вот так и собрались наши герои. Некоторые детали этого рассказа приведены с поправкой на время.
