@@ -1,8 +1,8 @@
 ---
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
-title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+title: 'Стейкинг'
+description: 'Стейкай GHST, делай FRENS'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">Стейкай GHST, делай FRENS</p>
 </div>
 
 Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
