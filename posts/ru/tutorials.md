@@ -91,33 +91,33 @@ Aave и аТокены.
 
 * Конвертацию aToken в maToken, используя мост Аавеготчи.
 * Перевод средств из AscendEX на Polygon.
-* Learn how to use Transak as a fiat-to-Polygon on-ramp
-* Learn how to stake maTokens into Aavegotchis
+* Применение Transak для перевода средств с фиата на Polygon.
+* Стейкинг maTokens в игре.
 
 <hr />
 
-### Игровой Базар в тестовой сети Мумбаи.
-Click [here](/mumbai-testnet) for the article
+### ВНУТРЕННИЙ РЫНОК ААВЕГОТЧИ (БАЗАР) В ТЕСТОВОЙ СЕТИ МУМБАИ
+Чтобы ознакомиться с полной информацией, читайте [этот](/mumbai-testnet) материал. Также узнайте:
 
-* Learn how to configure MetaMask to display Mumbai Testnet
-* Learn how to get tokens from the Mumbai Faucet
-* Learn how to get Mumbai GHST tokens
-
-<hr />
-
-### Чеклист перед запуском Аавеготчи.
-Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
-
-* Learn how to get ETH
-* Learn how to migrate ETH to Polygon
-* Learn how to buy GHST tokens using QuickSwap
+* Принцип настройки MetaMask, чтобы кошелек отображал тестовую сеть Мумбаи (Mumbai).
+* Способ получения токенов через Мумбаи.
+* Получение токенов GHST через Мумбаи.
 
 <hr />
 
-### Как принять участие в четвертой лотерее. <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### ЧЕКЛИСТ ПЕРЕД ЗАПУСКОМ ААВЕГОТЧИ
+Вы можете прочитать полную информацию [здесь](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist). Вам нужно узнать:
 
-* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* Где взять ETH.
+* Как перевести токены ETH на Polygon.
+* Каким образом можно приобрести токены GHST через QuickSwap.
+
+<hr />
+
+### УЧАСТИЕ В 4 ЛОТЕРЕЕ <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
+* Как пользоваться [GHST_GG калькулятором](https://ghst.gg/raffle-calculator) лотереи.
 * Стейкинг GHST на Polygon.
-* Learn how to buy Raffle tickets with FRENS
-* Learn how to access the Aavegotchi Baazaar
-* Learn how to list your Raffle tickets at the Baazaar
+* Покупка лотерейных билетов за FRENS.
+* Как попасть на внутриигровой вторичный рынок — Базар.
+* Как разместить свои лотерейные билеты на Базаре.
