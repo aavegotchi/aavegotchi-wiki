@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'FAQ'
-description: 'Short Answers to Quick Questions'
+title: 'Часто задаваемые вопросы'
+description: 'Краткие ответы на быстрые вопросы'
 image: "faq/faq.png"
 contributors:
   - "eris771"
@@ -20,64 +20,67 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#general-faq>General FAQ</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
-<p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
-<p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
-<p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
-<p><a href=#what-can-i-do-now->What can I do now?</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
-<p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
-<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
-<p><a href=#what-are-matokens->What are maTokens?</a></p>
-<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
-<p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
-<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
-<p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
-<li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
-<p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
-<li><a href=#frens-faq>FRENS FAQ</a></li>
-<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
-<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Why is the GHST-USDC LP yielding 74M FRENS per day?</a></p>
-<li><a href=#raffle-faq>Raffle FAQ</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
-<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#wearable-faq>Wearable FAQ</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
-<p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
-<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
-<p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
-<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
-<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
-<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
+<li><a href=#general-faq>Общие вопросы</a></li>
+<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Я новенький в Aavegotchi.
+ Как я могу играть после запуска?</a></p>
+<p><a href=#when-can-i-get-an-aavegotchi->Когда я смогу получить Аавеготчи?</a></p>
+<p><a href=#how-much-does-it-cost-to-play-aavegotchi->Насколько дорого играть в Аавеготчи?</a></p>
+<p><a href=#when-is-mainnet-launch->Каковы сроки запуска основной сети?</a></p>
+<p><a href=#what-can-i-do-now->С чего можно начать?</a></p>
+<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?</a></p>
+<p><a href=#what-does-aave-have-to-do-with-aavegotchi->Что общего между Aave и Аавеготчи?</a></p>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?</a></p>
+<p><a href=#what-are-matokens->Что собой представляют  maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Будет ли использоваться Капча для борьбы с ботами?</a></p>
+<p><a href=#are-amtokens-the-same-as-matokens->Есть ли разница между amTokens и maTokens?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Почему нельзя просто поменять свои токены на maLINK/maUNI на Quickswap?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Может ли Аавеготчи быть интегрирован с OpenSea?</a></p>
+<li><a href=#bonding-curve-faq>Вопросы по Кривой Связывания:</a></li>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>Я купил токены GHST, но не вижу их в своем кошельке</a></p>
+<p><a href=#can-people-frontrun-the-bonding-curve->Могут ли участники “зафронтранить” кривую связывания?</a></p>
+<li><a href=#frens-faq>Вопросы про FRENS</a></li>
+<p><a href=#can-i-buy-frens->Можно ли приобрести FRENS?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->FRENS может пригодиться для чего-нибудь, кроме лотерей?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->Какова судьба FRENS в основной сети после запуска игры на Polygon?</a></p>
+<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Почему пул ликвидности GHST-USDC платит 74 млн FRENS за стейкинг ежедневно?</a></p>
+<li><a href=#raffle-faq>Вопросы о розыгрыше в лотерее:</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Если я купил билет, то участвую в розыгрыше?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Появятся ли предметы экипировки, разыгрываемые в лотереях, на полках Аавеготчи Молла?</a></p>
+<p><a href=#are-raffle-wearables-special->Разыгрываемые в лотерее предметы особенные??</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->Как переводить лотерейные билеты?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Предвидится ли проведение лотерей после запуска игры в основной сети?</a></p>
+<li><a href=#wearable-faq>Вопросы по экипировке:
+</a></li>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Нужно ли передавать билеты на экипировку в Polygon?</a></p>
+<p><a href=#are-there-limited-quantities-for-each-wearable->Есть ли лимит у каждого носимого предметы?</a></p>
+<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>После снятия экипировки с Готчи, не могу найти ее в инвентаре. Что делать?</a></p>
+<li><a href=#portal-faq>Вопросы по порталам:
+</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->За одну транзакцию какое количество порталов можно купить?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Если открыть портал, когда нет токенов для вызова Готчи, можно ли позже продолжить?</a></p>
+<p><a href=#when-will-portals-be-released->Подскажите дату, когда станут доступны порталы.</a></p>
+<li><a href=#aavegotchidao-faq>Вопросы по Аавеготчи DAO:</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Каким образом строится голосование через Trust Wallet на Aragon?</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Почему при голосовании на снимке экрана неправильно указано время?</a></p>
+<li><a href=#gameplay-faq>Вопросы по геймплею:</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Правильно ли, что чем больше уровень характеристики черты, тем она реже встречается?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Во сколько обойдется игровой процесс?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Повышается ли сродство с Готчи, если увеличить сумму залога?</a></p>
+<li><a href=#technical-faq>Вопросы по технической части:</a></li>
+<p><a href=#is-aavegotchi-on-chain->Игра находится в блокчейне?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Какой кошелек лучше выбрать для игры в Аавеготчи?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Аавеготчи будет масштабироваться через решения 2 уровня?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Придется ли переносить свои Aave версии 1.0?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->Как перейти на Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->У меня Ledger/Trezor, что делать?</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Почему не видно полигонных токенов GHST в Метамаске?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Почему не видно токенов, застейканных в пуле ликвидности, на QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Могу ли я переводить токены с Polygon на централизованные биржи?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Почему Метамаск отверг мои токены?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Отозвал токены GHST из Polygon, но даже спустя долгое время так и не получил их. Что делать?</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Как бороться с задержками на Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Где найти Token ID своего Готчи?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Где можно узнать адрес своего Готчи?</a></p>
 </ol>
 
 </div>
@@ -85,10 +88,10 @@ contributors:
 &nbsp;
 
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
-## General FAQ
+## Общие вопросы
 
 
-### I'm new to Aavegotchi. After launch, how do I play?
+### Я новенький в Aavegotchi. Как я могу играть после запуска?
 
 * **STEP 1:** Buy [GHST](/ghst)
 
@@ -106,11 +109,11 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
-### When can I get an Aavegotchi?
+### Когда я смогу получить Аавеготчи?
 
 2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
 
-### How much does it cost to play Aavegotchi?
+### Насколько дорого играть в Аавеготчи?
 There are a couple of ways to get an Aavegotchi:
 
 * Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
@@ -129,11 +132,11 @@ Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since th
 
 Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
-### When is mainnet launch?
+### Каковы сроки запуска основной сети?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
-### What can I do now?
+### С чего можно начать?
 
 Right now, you can:
 
@@ -144,7 +147,7 @@ Right now, you can:
 * **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
 
 
-### Do I need KYC to play Aavegotchi or own GHST token?
+### Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?
 
 No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
@@ -152,22 +155,22 @@ The table below summarizes the information:
 
 table_kyc
 
-### What does Aave have to do with Aavegotchi?
+### Что общего между Aave и Аавеготчи?
 
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
-### Can aTokens staked inside an Aavegotchi get liquidated?
+### Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
-### What are maTokens?
+### Что собой представляют  maTokens?
 maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
-### Could CAPTCHA be used to prevent bots?
+### Будет ли использоваться Капча для борьбы с ботами?
 No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
 This is a feature of permissionless blockchains. It cannot be stopped.
 
-### Are amTokens the same as maTokens?
+### Есть ли разница между amTokens и maTokens?
 No. amTokens are **not** the same as maTokens.
 
 maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
@@ -185,14 +188,14 @@ QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You 
 
 **Works**: maUSDC -> maUNI/maLINK
 
-### Will Aavegotchi be integrated with OpenSea?
+### Может ли Аавеготчи быть интегрирован с OpenSea?
 Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
-## Bonding Curve FAQ
+## Вопросы по Кривой Связывания:
 
-### I bought GHST but I can't see it in my wallet
+### Я купил токены GHST, но не вижу их в своем кошельке
 After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
@@ -200,43 +203,43 @@ After making a purchase on the bonding curve, you need to make another transacti
 ### Can people frontrun the Bonding Curve?
 No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
-## FRENS FAQ
+## Вопросы про FRENS
 
-### Can I buy FRENS?
+### Можно ли приобрести FRENS?
 No. FRENS are a way to reward our community members who staked GHST.
 
-### Are FRENS used for anything besides raffles?
+### FRENS может пригодиться для чего-нибудь, кроме лотерей?
 
 No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 ### What happens to the FRENS on Mainnet after the game launches on Polygon?
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
-### Why is the GHST-USDC LP yielding 74M FRENS per day?
+### Почему пул ликвидности GHST-USDC платит 74 млн FRENS за стейкинг ежедневно?
 При добавлении ликвидности пулу GHST-USDC на QuickSwap, между двумя активами наблюдается другое соотношение. Добавляя свои токены, взамен пользователи получают не целый токен, а лишь части LP, например 0,00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
-## Raffle FAQ
+## Вопросы о розыгрыше в лотерее:
 
 See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
-### Does buying a ticket mean I'm entered into the raffle?
+### Если я купил билет, то участвую в розыгрыше?
 
 No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### Will raffle wearables be available in the Aavegotchi store?
+### Появятся ли предметы экипировки, разыгрываемые в лотереях, на полках Аавеготчи Молла?
 
 No. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
-### Are raffle wearables special?
+### Разыгрываемые в лотерее предметы особенные??
 
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
-### How do you transfer raffle tickets?
+### Как переводить лотерейные билеты?
 Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
@@ -245,100 +248,100 @@ You will then be brought to another page where you can specify the recipient's a
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-### Will there be Raffles after Mainnet launches?
+### Предвидится ли проведение лотерей после запуска игры в основной сети?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-## Wearable FAQ
+## Вопросы по экипировке:
 
-### Do I need to transfer my wearable vouchers to Polygon?
+### Нужно ли передавать билеты на экипировку в Polygon?
 No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
-### Are there limited quantities for each wearable?
+### Есть ли лимит у каждого носимого предметы?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
 
 For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
-### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
+### После снятия экипировки с Готчи, не могу найти ее в инвентаре. Что делать?
 Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
 At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
-## Portal FAQ
+## Вопросы по порталам:
 
-### How many portals can you buy in 1 transaction?
+### За одну транзакцию какое количество порталов можно купить?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Если открыть портал, когда нет токенов для вызова Готчи, можно ли позже продолжить?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
-### When will portals be released?
+### Подскажите дату, когда станут доступны порталы.
 Portals will be released on Polygon at February.
 
-## AavegotchiDAO FAQ
+## Вопросы по Аавеготчи DAO:
 
-### How do I vote using Trust Wallet on Aragon?
+### Каким образом строится голосование через Trust Wallet на Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
 
 See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
-### Why does it say wrong timestamp in Snapshot Voting?
+### Почему при голосовании на снимке экрана неправильно указано время?
 This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
-## Gameplay FAQ
+## Вопросы по геймплею:
 
 
-### Do higher trait scores always mean higher rarity?
+### Правильно ли, что чем больше уровень характеристики черты, тем она реже встречается?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Во сколько обойдется игровой процесс?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
-### Does changing the collateral staked affect kinship level?
+### Повышается ли сродство с Готчи, если увеличить сумму залога?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Technical FAQ
+## Вопросы по технической части:
 
 
-### Is Aavegotchi on-chain?
+### Игра находится в блокчейне?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Какой кошелек лучше выбрать для игры в Аавеготчи?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Will Aavegotchi run on Layer 2?
+### Аавеготчи будет масштабироваться через решения 2 уровня?
 
 Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Придется ли переносить свои Aave версии 1.0?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-### How do I migrate to Polygon?
+### Как перейти на Polygon?
 Check out our [Polygon Migration Guide](/polygon).
 
 ### I have a ledger / trezor, what do I do?
 You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### Why can't I see my Polygon GHST on Metamask?
+### Почему не видно полигонных токенов GHST в Метамаске?
 
 Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### Why can't I see my LP Tokens on QuickSwap?
+### Почему не видно токенов, застейканных в пуле ликвидности, на QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Can I send Polygon-side tokens to Centralized Exchanges directly?
+### Могу ли я переводить токены с Polygon на централизованные биржи?
 **No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
-### Why is Metamask rejecting my token symbol?
+### Почему Метамаск отверг мои токены?
 
 Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
@@ -346,7 +349,7 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
-### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+### Отозвал токены GHST из Polygon, но даже спустя долгое время так и не получил их. Что делать?
 
 I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
@@ -362,13 +365,13 @@ If your transaction has not been processed by Polygon, please continue to wait p
 
 If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Why am I experiencing lag on Polygon?
+### Как бороться с задержками на Polygon?
 
 You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### Where do I find my Gotchi Token ID?
+### Где найти Token ID своего Готчи?
 
 To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
@@ -382,7 +385,7 @@ Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord h
 
 Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Where do I find my Gotchi Address?
+### Где можно узнать адрес своего Готчи?
 
 Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchis. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
