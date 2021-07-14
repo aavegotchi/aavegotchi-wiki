@@ -1,102 +1,102 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi 101'
-description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
+title: 'Аавеготчи 101'
+description: "Аавеготчи 101. Важная информация для быстрого старта в блокчейн и DeFi-сфере, а также понимания Аавеготчи!"
 contributors:
   - "unintelligent-nerd"
 ---
 
-Feeling overwhelmed fren?
+Чувствуешь себя перегруженным информацией, друг?
 
-There's Ethereum.
+Что такое сеть Ethereum?
 
-There's MetaMask.
+А еще ведь есть MetaMask.
 
-There's Aave and aTokens.
+Aave и аТокены.
 
-There's Non-Fungible Tokens (NFTs).
+Невзаимозаменяемые токены (NFT).
 
-And then there's Aavegotchi.
+И наконец сами Аавеготчи.
 
-It's alright fren. We were once newbies as well. We know how you feel.
+Все в порядке, друг. We were once newbies as well. Все мы когда-то начинали с самых азов. Мы прекрасно понимаем ваши чувства и опасения.
 
-We have prepared some tutorials (articles and videos) to help kickstart your journey! You will become one with us soon enough. :)
+На этой странице вы найдете несколько полезных видео и ссылок на статьи, которые помогут вам погрузиться во Вселенную Аавеготчи. Так что вы скоро будете с нами на одной волне! :)
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ul>
-<li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
-<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
-<li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
-<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#aavegotchi-raffles>Лотереи в Аавеготчи.</a></li>
+<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Как получить Аавеготчи в тестовой сети Kovan.</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Перенос токенов GHST с блокчейна Ethereum в Polygon (видео).</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Перенос токенов GHST с блокчейна Ethereum в Polygon (статья).</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Процесс покупки токенов в Polygon.</a></li>
+<li><a href=#matokens>маТокены.</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Игровой Базар в тестовой сети Мумбаи.</a></li>
+<li><a href=#aavegotchi-pre-launch-checklist>Чеклист перед запуском Аавеготчи.</a></li>
+<li><a href=#entering-raffle-4>Как принять участие в четвертой лотерее.</a></li>
 </ul>
 
 </div>
 
-### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### ЛОТЕРЕИ В ААВЕГОТЧИ <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to purchase Raffle tickets
-* Learn how to enter Raffle tickets into Raffles
-
-<hr />
-
-### Process of getting Aavegotchi on Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
-
-* Learn how to purchase GHST tokens from UniSwap
-* Learn how to purchase Portals on Kovan Testnet
-* Learn how to open Portals on Kovan Testnet
-* Learn how to select an Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to summon the selected Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to get aTokens
-* Learn how to play with your Aavegotchi on Kovan Testnet
+* Читайте, как получить билеты для участия в лотереях.
+* Изучите, как добавить лотерейные билеты в адрес контракта перед розыгрышем.
 
 <hr />
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### КАК ПОЛУЧИТЬ ААВЕГОТЧИ В ТЕСТОВОЙ СЕТИ KOVAN <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
-* Learn how to configure MetaMask to display Polygon
-* Learn how to add tokens from Polygon to your MetaMask
-* Learn how to stake GHST tokens on Polygon
-
-<hr />
-
-### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
-Click [here](/polygon) for the article
-
-* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
-* Learn how to configure MetaMask to display Polygon
-* Learn how to bridge assets using the Polygon wallet interface
-* Learn how to bridge assets back to Ethereum Mainnet from Polygon
+* Читайте про принцип покупки токенов GHST в UniSwap.
+* Изучите принцип покупки порталов в тестовой сети Kovan.
+* Вот информация о том, как открывать порталы в Kovan.
+* Читайте, как выбрать Готчи из открытого портала в Kovan.
+* Изучите информацию о том, как вызывать выбранного Готчи из открытого портала.
+* Узнайте, как получить aTokens.
+* Вот как нужно играть с Готчи в тестовой сети Kovan.
 
 <hr />
 
-### Buying tokens straight into Polygon
-Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
+### ПЕРЕНОС GHST ИЗ ETHEREUM В POLYGON (ВИДЕО) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn how to use fiat currency to buy tokens directly to Polygon
+* Особенности переноса GHST из основной сети ETH в Polygon, ранее называвшийся Matic Network.
+* Способ настройки MetaMask для отображения сети Polygon.
+* Добавление токенов из Polygon в кошелек MetaMask.
+* Стейкинг GHST на Polygon.
 
 <hr />
 
-### maTokens
-Click [here](/matokens) for the article
+### ПЕРЕНОС GHST ИЗ ETHEREUM В POLYGON (СТАТЬЯ)
+Полная информация об этом [здесь](/polygon). Из нее вы узнаете:
 
-* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
-* Learn how to transfer funds through AscendEX to Polygon
+* Почему разработчики выбрали Polygon для масштабирования проекта.
+* Способ настройки кошелька MetaMask для отображения сети Polygon.
+* Как перебросить средства, используя интерфейс кошелька Polygon.
+* Как перевести средства назад в основную сеть Ethereum из Polygon.
+
+<hr />
+
+### ПОКУПКА ТОКЕНОВ ПРЯМО В POLYGON
+Полная информация доступна [здесь](https://trasher.substack.com/p/buying-your-tokens-straight-into). Узнайте:
+
+* Как покупать токены в Polygon напрямую, используя фиатную валюту.
+
+<hr />
+
+### маТОКЕНЫ
+Полезная информация доступна [здесь](/matokens). Из нее вы узнаете про:
+
+* Конвертацию aToken в maToken, используя мост Аавеготчи.
+* Перевод средств из AscendEX на Polygon.
 * Learn how to use Transak as a fiat-to-Polygon on-ramp
 * Learn how to stake maTokens into Aavegotchis
 
 <hr />
 
-### Aavegotchi Baazaar on Mumbai Testnet
+### Игровой Базар в тестовой сети Мумбаи.
 Click [here](/mumbai-testnet) for the article
 
 * Learn how to configure MetaMask to display Mumbai Testnet
@@ -105,7 +105,7 @@ Click [here](/mumbai-testnet) for the article
 
 <hr />
 
-### Aavegotchi Pre-Launch Checklist
+### Чеклист перед запуском Аавеготчи.
 Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
 
 * Learn how to get ETH
@@ -114,10 +114,10 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Как принять участие в четвертой лотерее. <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
-* Learn how to stake GHST tokens on Polygon
+* Стейкинг GHST на Polygon.
 * Learn how to buy Raffle tickets with FRENS
 * Learn how to access the Aavegotchi Baazaar
 * Learn how to list your Raffle tickets at the Baazaar
