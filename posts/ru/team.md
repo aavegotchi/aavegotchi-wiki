@@ -37,14 +37,14 @@ contributors:
 
 </div>
 
-## Coder Dan
+## Кодер Дэн (Coder Dan)
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/coderdan.jpg" alt = "Дэниел Метью">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
 </div>
 
-Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Дэн, он же Coder Dan, — один из основных разработчиков игры Аавеготчи. Он создал DeFi-приложение Yield Hero, а в Аавеготчи выступает в роли разработчика полного стека (full stack developer). Его вклад в проект очень важен. Yield Hero помогает перенаправлять AAVE на любой адрес по желанию. Дэн также принял участие в разработке стандарта ERC-721 на NFT-платформе Bullionix (стандарт ERC20). Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
 
 ## Джесси (Jesse).
 
