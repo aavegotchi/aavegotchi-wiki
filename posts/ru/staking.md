@@ -66,18 +66,18 @@ FRENS — это замороженный и не подлежащий тран�
 
 *Каждый поставленный токен GHST ежедневно приносит вам по одному токену FRENS.*
 
-### Staking QuickSwap LP tokens
+### Стейкинг токенов через QUICKSWAP LP
 
-Currently, there are only 2 QuickSwap LP tokens that could be staked for FRENS:
+В настоящее время для получения FRENS используются только два токена:
 
-* QuickSwap GHST-QUICK LP token
-* QuickSwap GHST-USDC LP token
+* GHST-QUICK LP.
+* GHST-USDC LP.
 
-The first step involves transferring funds from Ethereum Mainnet to Polygon, a layer 2 solution.
+Сначала нужно перенести средства из блокчейна Ethereum в Polygon.
 
-Используйте для этой цели [гайд по Polygon](/polygon). Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+Чтобы ваш кошелек Metamask отображал Polygon, используйте для этой цели [гайд](/polygon). Далее используйте [мост Aavegotchi](https://aavegotchi.com/bridge), чтобы передать GHST или другие токены в Polygon. Подробности по осуществлению операции смотрите [тут](/matokens).
 
-Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
+Внесите токены на [QuickSwap](https://quickswap.exchange) и станьте поставщиком ликвидности в одном или обеих пулах [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) и [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4). После этого вы получите токены LP. Если вы планируете замораживать токены в пуле GHST-QUICK, сможете получить токены QUICK от [QuickSwap](https://quickswap.exchange). Наибольшую ликвидность сейчас имеют пары QUICK-UNI, QUICK-WETH, QUICK-USDC и GHST-QUICK.
 
 Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
