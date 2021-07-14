@@ -30,7 +30,7 @@ contributors:
 
 <ol>
 <li><a href=#key>Расшифровка.</a></li>
-<li><a href=#voting-power>Голосование Готчи.</a></li>
+<li><a href=#voting-power>Право голоса экипировки.</a></li>
 <li><a href=#link-themed-set>Тематический набор LINK.</a></li>
 <li><a href=#aave-themed-set>Тематический набор Aave.</a></li>
 <li><a href=#ethereum-themed-set>Тематический набор Ethereum.</a></li>
@@ -81,15 +81,15 @@ contributors:
 
 table_wearablesBRStable
 
-## Голосование Готчи.
+## Право голоса экипировки
 
-With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+В соответствии с предложением [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price) носимые устройства получили право голоса в [Аавеготчи DAO](/dao). Право голоса (измеряемое в GHST) рассчитывается по его редкости/цене в [Молле](/maall).
 
 table_wearablesVotingPower
 
-## Тематический набор LINK.
+## Тематический набор LINK
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Экипировка с эксклюзивной тематикой LINK была распространена в ходе лотереи, состоявшейся в ноябре 2020 года. Запуск набора носимых устройств ознаменовал собой партнерство Аавеготчи с Chainlink, заключающееся в использовании генератора случайных чисел Chainlink VRF. Это гарантия правдивости распределения характеристик между Готчи, которые на старте получают случайные черты.
 
 table_linkWearablesTable
 
