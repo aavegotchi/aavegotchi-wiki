@@ -14,57 +14,57 @@ contributors:
 <p class="headerImageText">Стейкай GHST, делай FRENS</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+Стейкинг в криптовалютном проекте — это блокировка части токенов в обмен на вознаграждение. В Aavegotchi стейкинг работает в точности, как в других проектах. Токен проекта [GHST](/posts/ghst) может быть заблокирован в контракте для получения [FRENS](/posts/glossary#frens).
 
-FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
+FRENS — это замороженный и не подлежащий транзакциям баланс в рамках стейкингового контракта. FRENS нельзя купить. Их выдают в качестве поощрения комьюнити за вклад в общее развитие Aavegotchi.
 
-FRENS can be converted into Raffle Tickets or Drop Tickets:
+При желании, FRENS можно поменять на лотерейные билеты, которые затем можно активировать во время проведения лотерей для получения призов.
 
-* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+* Лотерейные билеты могут быть использованы для участия в периодических лотереях и выигрыша [экипировки](/wearables).
 
-* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
+* Дроп билетов может быть использован для участия в розыгрыше других NFT — [порталов](/portals) и [участков земли](/metaverse). Читайте больше про Дроп билетов на [этой](/metaverse) странице.
 
-Continue reading to learn how to stake GHST and earn prizes with your FRENS.
+Читайте дальше, чтобы узнать, как заниматься стейкингом GHST и получать призы с помощью FRENS.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#purchasing-ghst>Purchasing GHST</a></li>
-<li><a href=#how-to-stake>How to Stake</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#purchasing-ghst>Покупка GHST.</a></li>
+<li><a href=#how-to-stake>Процесс стейкинга.</a></li>
+<li><a href=#staking-contract-addresses>Адрес стейкингового контракта.</a></li>
+<li><a href=#purchasing-raffle-tickets>Покупка лотерейных билетов.</a></li>
+<li><a href=#entering-raffles>Розыгрыш лотерейных билетов.</a></li>
+<li><a href=#past-raffles-statistics>Статистика прошедших лотерей.</a></li>
+<li><a href=#more-resources>Больше информации.</a></li>
 </ol>
 
 </div>
 
-## Purchasing GHST
-First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
+## Покупка GHST
+Чтобы заняться стейкингом, нужно иметь в наличии токены GHST. Как их получить, мы подробно описали на странице о токенах [GHST](/posts/ghst).
 
-## How to Stake
-Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
+## Процесс стейкинга
+Если вы купили токены, можно заняться стейкингом. Стейкинг осуществляется в Polygon (предыдущее название — Matic Network).
 
-There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
+Это можно сделать двумя способами: (1) прямой стейкинг токенов GHST и (2) стейкинг токенов поставщика ликвидности (LP) на децентрализованной бирже [QuickSwap](/glossary#quickswap).
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**Важно: стейкинг в основной сети больше не поддерживается! Пожалуйста, разморозьте и поставьте заново на Polygon.**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Внимание. Токены GHST, приобретенные во время Pre-sale, нельзя заморозить до тех пор, пока их не разблокируют.*
 
-### Staking GHST tokens directly
+### Прямой стейкинг токенов
 
-First, you have to transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution.
+Переносим GHST из Ethereum в Polygon (решение 2 уровня для масштабирования сети).
 
-This is done by using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge). Approve the contract to use your GHST tokens. Once that transaction goes through, input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
+Для этой цели используется [мост в Polygon](https://aavegotchi.com/bridge) в интерфейсе Аавегочи. Чтобы контракт получил доступ к вашим токенам, нажмите на кнопку и подтвердите транзакцию. Затем нужно ввести желаемое количество токенов GHST, которое вы хотите перебросить в Polygon. Когда транзакция пройдет подтверждение в сети (на это уходит 7-8 минут), вы сможете увидеть свой баланс на Polygon. Операция протекает автоматически. Просто подождите.
 
-Next, you have to configure your Metamask to display your wallet balance. Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon.
+Дальше вам нужно настроить ваш Metamask для отображения баланса Polygon. Используйте для этой цели [гайд по Polygon](/polygon).
 
-Connect your Metamask to Polygon and head over to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp. Approve the contract to use your GHST tokens on Polygon. Once the transaction goes through, input the amount of GHST you would like to deposit. Presto! You are done!
+Подключите Metamask к Polygon. Перейдите на [страницу для стейкинга](https://aavegotchi.com/stake-polygon) в Aavegotchi DApp. Одобрите контракт на стейкинг ваших токинов GHST на Polygon. Введите сумму замораживаемых токенов. Подтвердите. Все, вы это сделали!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Каждый поставленный токен GHST ежедневно приносит вам по одному токену FRENS.*
 
 ### Staking QuickSwap LP tokens
 
@@ -75,7 +75,7 @@ Currently, there are only 2 QuickSwap LP tokens that could be staked for FRENS:
 
 The first step involves transferring funds from Ethereum Mainnet to Polygon, a layer 2 solution.
 
-Do refer to this [Polygon Guide](/polygon) for detailed instructions on how one can configure their Metamask wallet to include Polygon. Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+Используйте для этой цели [гайд по Polygon](/polygon). Next, use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
 
 Next, become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
@@ -97,13 +97,13 @@ The following diagram shows the two different routes to staking on Polygon that 
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-## Staking Contract Addresses
+## Адрес стейкингового контракта.
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
-## Purchasing Raffle Tickets
+## Покупка лотерейных билетов.
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
 
@@ -117,7 +117,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## Розыгрыш лотерейных билетов.
 
 A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
@@ -141,10 +141,10 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
-## Past Raffles Statistics
+## Статистика прошедших лотерей.
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## Больше информации.
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
