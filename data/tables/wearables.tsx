@@ -326,7 +326,7 @@ export const tables
 				    [`<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`, "114", "Red Hawaiian Shirt", "Mythical", "NRG -3, AGG -2", "50", "body"],
 					[`<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`, "115", "Blue Hawaiian Shirt", "Legendary", "NRG -2, AGG -2", "125", "body"],
 					[`<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`, "116", "Coconut", "Rare", "SPK -3", "250", "hands"],
-					[`<img src="/wearables/final wearables/117_DealWithItShades.svg" alt = "aavegotchi Cool shades"/>`, "117", "Cool shades", "Common", "BRN -1", "1000", "eyes"]
+					[`<img src="/wearables/final wearables/117_DealWithItShades.svg" alt = "aavegotchi Cool shades"/>`, "117", "Cool Shades", "Common", "BRN -1", "1000", "eyes"]
 				]
 			}
 		},
