@@ -169,28 +169,28 @@ No. Токены aTokens, которые игроки размещают в Аа
 ### Будет ли использоваться Капча для борьбы с ботами?
 Нет. Капча в игре не может быть введена. Сайт [Aaavegotchi.com](https://aavegotchi.com/) представляет собой простой интерфейс.  Боты смогут получать к нему доступ и взаимодействовать с основным смарт-контрактом.
 
-Это особенность, характерная для инклюзивных блокчейн-проектов. It cannot be stopped.
+Это особенность, характерная для инклюзивных блокчейн-проектов. Ее нельзя исключить.
 
 ### Есть ли разница между amTokens и maTokens?
-No. amTokens are **not** the same as maTokens.
+No. Эти два типа токенов имеют **кардинальное отличие**!
 
-maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+maTokens являются токенами из Aave V2, которые позже появились на Polygon. Их создателем является разработчик Аавеготчи [Ник Мадж](/team#nick-mudge). maToken понадобились, чтобы игровой проект Аавеготчи скорей запустился на Polygon.
 
-amTokens come from the Aave money market pools that is native to Polygon.
+amToken — это “родные” для Polygon токены. Их источником является денежный рынок Aave.
 
-Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
+Токены, принадлежащие к разным категориям, приносят своим владельцам разную прибыль из-за различия процентных ставок. Процентные ставки для maToken можно увидеть на рынке Aave V2.  Ставки для amTokens можно посмотреть на Polygon.
 
-In the Aavegotchi game, the Spirit Force/Collateral used is **maTokens**, and not amTokens.
+В игровом проекте Аавеготчи один из вышеперечисленных типов токенов имеет важное значение. В частности, **maToken** в качестве залога дает вашему Готчи Духовную силу. А к amToken это не относится.
 
-### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
-QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+### Почему нельзя просто поменять свои токены на maLINK/maUNI на Quickswap?
+На DEX QuickSwap обнаружилась проблема с маршрутизацией нескольких типов токенов. Например, maUNI и maLINK. Чтобы провести сделку, вам необходимо вручную перейти на maUSDC, чтобы впоследствии получить токен нужного типа.
 
-**Doesn't work**: ETH/USDC -> maUNI/maLINK
+**Запомните!** Не получится поменять: ETH/USDC -> maUNI/maLINK.
 
-**Works**: maUSDC -> maUNI/maLINK
+**Нужно менять** maUSDC -> maUNI/maLINK.
 
 ### Может ли Аавеготчи быть интегрирован с OpenSea?
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Игра Аавеготчи полностью совместима с OpenSea и другими вторичными рынками в основной сети Ethereum. Однако существует проблема с OpenSea на Полигоне. Выставляя Готчи на продажу на базаре, автоматически продаешь и экипировку. Нет возможности заблокировать продажу носимых устройств. Из-за этого для потенциальных покупателей экипировки создаются неудобные условия. Чтобы защитить покупателей, Pixelcraft проинформировал OpenSea о том, что не будет проводить листинг на Полигоне.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
