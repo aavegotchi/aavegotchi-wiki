@@ -158,18 +158,18 @@ table_kyc
 
 ### Что общего между Aave и Аавеготчи?
 
-Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. Собственно, именно поэтому персонажи игры так похожи на логотип Aave. Центральным элементом игрового процесса является использование [аТокенов](/atokens). Также не стоит забывать, что с ноября 2020 года именно Aave является [официальным инвестором](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) разработчика игрового проекта — команды Pixelcraft Studios.
 
 ### Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?
-No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+No. Токены aTokens, которые игроки размещают в Аавеготчи, не могут быть использованы для кредитования на платформе Aave, так как не могут стать залогом. Поэтому не могут быть ликвидированы.
 
 ### Что собой представляют  maTokens?
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+Это токены, находившиеся в Aave V2, и перенесенные пользователями в Polygon. Как и другие aTokens, они со временем приносят прибыль!
 
 ### Будет ли использоваться Капча для борьбы с ботами?
-No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+Нет. Капча в игре не может быть введена. Сайт [Aaavegotchi.com](https://aavegotchi.com/) представляет собой простой интерфейс.  Боты смогут получать к нему доступ и взаимодействовать с основным смарт-контрактом.
 
-This is a feature of permissionless blockchains. It cannot be stopped.
+Это особенность, характерная для инклюзивных блокчейн-проектов. It cannot be stopped.
 
 ### Есть ли разница между amTokens и maTokens?
 No. amTokens are **not** the same as maTokens.
