@@ -1,8 +1,8 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Portals'
-description: 'All about Aavegotchi Portals'
+title: 'Порталы'
+description: 'Все о порталах в Аавеготчи'
 contributors:
   - "appellants"
   - "unintelligent-nerd"
@@ -11,7 +11,7 @@ image: "portals/portal.gif"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">An Aavegotchi Portal</p>
+<p class="headerImageText">Порталы в игре Аавеготчи</p>
 </div>
 
 How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
@@ -22,7 +22,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
