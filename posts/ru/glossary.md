@@ -244,99 +244,99 @@ amTokens — это токены ликвидности из пулов Aave, и
 
 
 ### Временная потеря (Impermanent Loss)
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+Разберем, какая существует разница между хранением токенов в обычном кошельке и в AMM ([автоматическом маркет-мейкере](/glossary#automated-market-maker)). При хранении средств в автоматических маркет-мейкерах нередко происходит потеря средств. Это случается из-за изменения цены токенов внутри AMM. Чем больше меняется цена, тем больше становится показатель временной потери. Убыток, несмотря на название, может быть как временным, так и постоянным. В первом случае он сохраняется до тех пор, пока цены токенов не вернутся к тому уровню, который был, когда вы воспользовались AMM. Однако это случается редко. Более реалистичным является второй сценарий. Временные потери становятся постоянными, сокращая доходы, а иногда — даже выводя в минус. Такой эффект принято именовать потерей дивергенции.
 
 
 
-### Пулы ликвидности (Liquidity Pools).
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+### Пулы ликвидности (Liquidity Pools)
+Большинству значение этого термина объяснять не нужно. Пулы ликвидности — это хранилища токенов, заблокированных в смарт-контрактах. Они нужны для обеспечения автоматического обмена токенов — для облегчения торговли и поддержки постоянной ликвидности.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Подробнее о пулах ликвидности можно почерпнуть информацию в [руководстве](https://finematics.com/liquidity-pools-explained/) Finematics.
 
 ### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+maTokens являются аналогом Aave V2 aTokens на Polygon. Их разработкой занимался представитель команды Аавеготчи [Ник Мадж](/team#nick-mudge).
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Чтобы понять, как обменять токены из основной сети Ethereum в maTokens в Polygon, изучите [эту](/matokens) страницу нашей ВИКИ.
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+Стоит отметить, что некоторые часто путают maTokens и [amTokens](/glossary#amtokens). Это **не одно и то же**.
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+В игровом проекте Аавеготчи **maTokens** нужны для [залога/Духовной силы](/glossary#spirit-force).
 
-### Оракулы (Oracles).
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
-
-
-
-### Смарт-контракты (Smart Contracts).
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+### Оракулы (Oracles)
+Работа смарт-контрактов требует выполнения определенных условий. Их необходимо передать в блокчейн, на котором создан смарт-контракт. В противном случае смарт-контракт не будет выполнен, так как блокчейны редко имеют доступ к информации вне цепочки блоков. Оракулы помогают наладить связь. Они предоставляют необходимые данные для запуска смарт-контрактов.
 
 
 
-### Стейкинг
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+### Смарт-контракты (Smart Contracts)
+Умный или самоисполняющийся контракт представляет собой соглашение между пользователями, условия и сроки исполнения которого записаны в коде самого контракта. Когда условия и сроки будут соблюдены, контракт считается выполненным.
 
 
 
-### Фарминг (Yield Farming).
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+### Стейкинг (STAKING)
+Криптовалютный стейкинг — это процесс, во время которого часть токенов замораживается для осуществления функций управления блокчейном — проверки транзакций и поддержки работоспособности сети. Стейкинг является частью экологичного POS-майнинга. Участники, являющиеся стейкерами, получают вознаграждение за свою работу. Например, во вселенной Аавеготчи за стейкинг GHST стейкерам начисляются специальные токены FRENS, которые можно тратить на покупку лотерейных билетов и участие в розыгрыше экипировки и других приятных призов.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+
+
+### Фарминг (Yield Farming)
+Благодаря фармингу владельцы Готчи получают вознаграждения, размещая или давая займы в токенах по определенному протоколу.
+
+Есть немало способов заработка на этом. Самый распространенный - получение награды за размещение токенов стандарта ERC-20 и/или стейблкоинов на платформе. Также пользуется спросом заработок монет на поставках ликвидности для пулов токенов.
 
 
 ## Общие термины:
 
-### Арагон (Aragon).
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+### Арагон (Aragon)
+Aragon — уникальный в своем роде проект. Его цель — создание инструментов для успешного функционирования DAO. Имеет открытый исходный код и управляется сообществом.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Данный проект имеет флагманский продукт, использующийся для создания и участия в DAO. Речь о Aragon-клиенте, построенном на базе Ethereum. Попутно, в рамках данного проекта также создается сеть Aragon, и это, по сути, первая в мире цифровая юрисдикция.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Управляет проектом некоммерческая организация Aragon Association, базирующаяся в швейцарском городе Цуг. Также управление сосредоточено в руках держателей токенов Aragon.
 
-Check out their [site](https://aragon.org/) here.
+Вот [сайт](https://aragon.org/) проекта.
 
-### Колоколообразная кривая (Bell Curve).
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+### Колоколообразная кривая (Bell Curve)
+Представляет собой тип распределения характеристик по случайному типу, также именуемый “нормальным распределением”. Термин своим появлением обязан форме графика, образующегося при нормальном распределении по симметричной колоколообразной кривой. Дополнительную информацию можно почерпнуть [тут](https://www.investopedia.com/terms/b/bell-curve.asp).
 
-### Chainlink VRF.
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+### Генератор случайных чисел (CHAINLINK VRF)
+Функция рандомной вариабельности (VRF), созданная разработчиками из Chainlink для своего генератора случайных чисел. Его используют, чтобы гарантировать действительно случайный принцип распределения характеристик. VRF заслуживает доверия. Это значит, что на работу смарт-контрактов не оказывается постороннего влияния. Выпадение тех или иных [характеристик](/traits)/объектов происходит случайным образом. В Аавеготчи генератор случайных чисел используется при вызове Готчи из [портала](/portals), когда призрак получает рандомный набор базовых характеристик, а также розыгрыша призов во многочисленных лотереях.
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Информация о работе VRF Chainlink доступна [здесь](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-### Бриллиантовый Стандарт (Diamond Standard).
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+### Бриллиантовый Стандарт (Diamond Standard)
+Это детище одного из разработчиков Аавеготчи — [Ника Маджа](/team#nick-mudge). С помощью данного стандарта игроки могут заключать контракты без лимитов по модульным показателям и газу.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Этот стандарт позволяет улучшать контракты без повторного развертывания существующих функций.
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+Он стандартизирует интерфейсы смарт-контактов и имплементирует детали, обеспечивая интеграцию и взаимодействие ПО.
 
-A diamond is a contract that implements the Specification in this standard.
+По сути, EIP-2535 — это контракт, реализующий спецификацию в данном стандарте.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Больше информации найдете [здесь](https://eips.ethereum.org/EIPS/eip-2535).
 
-### ERC-20.
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+### ERC-20
+Токен стандарта ERC-20 в точности соответствует по типу и значению другому такому же токену. Поэтому, вы всегда можете узнать, сколько всего тех или иных токенов стандарта ERC-20 доступно в сети, сможете перевести токены с одного кошелька на другой, просмотреть баланс вашей учетной записи. В числе дополнительных функций — ограничение на число токенов, которое может быть потрачено другой учетной записью. [Тут](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) об этом сказано подробней.
 
-### ERC-721.
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+### ERC-721
+Открытый стандарт токенов ERC-721 описывает процесс создания невзаимозаменяемых или уникальных токенов на блокчейне Ethereum. Основным отличием от большинства взаимозаменяемых токенов, каждый из которых идентичен другим, является уникальность токенов данного стандарта.
 
-Think of them like rare, one-of-a-kind collectables.
+По сути, они являются редкими и уникальными предметами коллекционирования, со временем становящимися настоящими раритетами.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Подробное объяснение особенностей стандарта ERC-721 можно найти [тут](https://eips.ethereum.org/EIPS/eip-721).
 
-### ERC-998.
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+### ERC-998
+Это расширение стандарта [ERC-721](/glossary#erc-721), позволяющее [NFT](/glossary#nft) владеть другими NFT и токенами ERC-20.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+NFT, поддерживающие стандарт ERC-998, также поддерживают и ERC-721.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Подробное объяснение особенностей стандарта ERC-998 можно найти [тут](https://eips.ethereum.org/EIPS/eip-998).
 
-### ERC-1155.
-A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+### ERC-1155
+Уникальный в своем роде стандарт токенов ERC-1155 вобрал в себя лучшее, что было в предыдущих стандартах. Он позволяет создавать контракты, не зависящие от взаимозаменяемости и газоэффективности токена. В одном контракте может быть комбинация из токенов разного типа — взаимозаменяемых, NFT или любых других конфигураций (полузаменяемые токены).
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+Подробную информацию о стандарте ERC-1155 можно почерпнуть [здесь](https://eips.ethereum.org/EIPS/eip-1155) и [здесь](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
-### GBM Аукцион (GBM Auction).
+### GBM Аукцион (GBM Auction)
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
 
 GBM stands for Gonnaud-Bessire-McDonaugh.
