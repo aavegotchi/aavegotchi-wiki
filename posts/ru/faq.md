@@ -87,7 +87,7 @@ contributors:
 
 &nbsp;
 
-The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
+Данный сборник вопросов/ответов является справочным руководством для геймеров. На этой странице вы можете посмотреть краткие ответы на самые распространенные вопросы. Чтобы получить более подробную и фундаментальную информацию — переходите по ссылкам или смотрите боковую панель нашей ВИКИ, чтобы получить полную информацию о проекте.
 ## Общие вопросы
 
 
