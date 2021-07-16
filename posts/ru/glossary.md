@@ -103,46 +103,46 @@ contributors:
 
 Следите за новостями проекта. Новые награды будут анонсироваться командой по мере их запуска.
 
-Check out the [Baadge](/baadge) page for the complete list of Baadges.
+Заходите на [страницу Баджей](/baadge).
 
-### Дроп билетов.
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/metaverse).
+### Дроп-билет
+Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Каждый билет дает возможность участия в лотерее, где можно выиграть [порталы](/portals) и [земельные участки](/metaverse).
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10 000 токенов FRENS можно обменять на один дроп-билет.
 
-Raffle Tickets could also be converted into Drop Tickets.
+Лотерейные билеты также могут быть конвертированы в дроп-билеты.
 
-### Токены FRENS (FRENS).
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+### FRENS (FRENS)
+Это баллы, которые положены в награду игрокам, участвующим в стейкинге GHST. Это не токен, — их нельзя передать другим лицам. FRENS дается в качестве поощрения игрокам за ощутимый вклад в будущее проекта Аавеготчи.  Их можно использовать, чтобы покупать лотерейные билеты и участвовать в розыгрышах.
 
-Read more about FRENS in the [Staking page](/staking).
+Читайте больше на странице о [стейкинге](/staking).
 
-### Gotchi Pocket
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+### Инвентарь Готчи (GOTCHI POCKET)
+Имеется у каждого Готчи. В нем хранятся имеющиеся у призрака носимые устройства, токены GHST, полученные за выход в ТОП [фарминга](/rarity-farming) по уровню редкости, и награды ([баджи](/baadge)).
 
-Technically, a Gotchi Pocket is an escrow address.
+Технически, инвентарь представляет собой адрес условного депонирования.
 
-### Алхимия Готчи.
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
+### Алхимия Готчей (GOTCHUS ALCHEMICA)
+Это четыре элемента метавселенной Готчи: Fud, Fomo, Alpha и Kek. Эти элементы можно использовать в эстетических целях — для создания [инсталляций](/glossary#installations) и арт-объектов.
 
-Technically, each element exists as an ERC-20 token.
+Технически, каждый такой элемент является токеном стандарта ERC-20.
 
-Check the [Metaverse page](/metaverse) for more information.
+Дополнительную информацию можно почерпнуть на странице [Метавселенной](/metaverse) в нашей ВИКИ.
 
-### Gotchus Alchemica Exchange
+### Обменник Алхимии Готчей (GOTCHUS ALCHEMICA)
 
-The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+Обменивать элементы можно на DEX Аавеготчи, называющейся Gotchus Alchemica Exchange (GAX). Децентрализованная биржа поддерживает торговлю в парах между GHST и Gotchus Alchemica. Подробнее читайте [тут](/gotchus-alchemica-exchange).
 
-### Поколение Готчи (Haunts).
-Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+### Поколение Готчи (Haunts)
+Поколение Готчи генерируется последовательно. Номер указывается на Готчи. В пределах серии у призраков нет разницы в статистических показателях.
 
-### Инсталляция (Installations).
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
+### Инсталляция (Installations)
+Конструкции, которые можно создавать на земельных участках, используя для этой цели [Алхимию Готчей](/glossary#gotchus-alchemica).
 
-Check out the [Metaverse page](/metaverse#building-on-realm-parcels) for a list of Installations that you can build.
+Список инсталляций можно найти на странице ВИКИ, посвященной[ Метавселенной](/metaverse#building-on-realm-parcels) Аавеготчи.
 
-### Лотерейные билеты.
-Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+### Лотерейные билеты (Raffle Tickets)
+Билеты, которые используются для участия в лотереях, где разыгрывается [экипировка](/wearables). Raffle tickets are consumed upon use.
 
 Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
