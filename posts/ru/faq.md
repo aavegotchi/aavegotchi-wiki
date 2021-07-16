@@ -93,30 +93,31 @@ contributors:
 
 ### Я новенький в Aavegotchi. Как я могу играть после запуска?
 
-* **STEP 1:** Buy [GHST](/ghst)
+* **Шаг 1.** Купите токены **GHST**.
 
-* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+* **Шаг 2**. Приобретите [портал](/portals) или Готчи на вторичном рынке — [Базаре](/baazaar).
 
-* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+* **Шаг 3**. Приобретите экипировку, чтобы улучшить показатели Готчи. Можно на Базаре.
 
-* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+* **Шаг 4**. Возвращайтесь к своему Готчи каждые 12 часов, чтобы рос показатель [лояльности](/traits#kinship).
 
-* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+* **Шаг 5**. Участвуйте в [фарминге](/rarity-farming).
 
-* **STEP 6:** Play some [Mini-Games](/minigames)
+* **Шаг 6.** Играйте в [мини-игры](/minigames).
 
-* **STEP 7:** Wait for the [Metaverse](/metaverse) to roll out!
+* **Шаг 7.** И, главное, ждите и смотрите, как разворачивается [Метавселенная](/metaverse) Аавеготчи!
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+Подробную информацию об игровом проекте вы сможете найти на странице о <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">Геймплее</a>.
+
 
 ### Когда я смогу получить Аавеготчи?
 
-2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
+Готчи появятся 02.03.2021 на Polygon! [Вселенная](/metaverse) Аавеготчи стартует в I квартале 2021 года.
 
 ### Насколько дорого играть в Аавеготчи?
-There are a couple of ways to get an Aavegotchi:
+Готчи можно получить двумя способами:
 
-* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+* Приобрести [портал](/portals) во время проводящегося дропа, открыть и [вызвать](/portals#claiming-an-aavegotchi) Готчи, поставив минимум очков силы Духа.
 
 Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
 
