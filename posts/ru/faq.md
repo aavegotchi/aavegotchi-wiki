@@ -192,7 +192,7 @@ amToken — это “родные” для Polygon токены. Их исто
 ### Может ли Аавеготчи быть интегрирован с OpenSea?
 Игра Аавеготчи полностью совместима с OpenSea и другими вторичными рынками в основной сети Ethereum. Однако существует проблема с OpenSea на Полигоне. Выставляя Готчи на продажу на базаре, автоматически продаешь и экипировку. Нет возможности заблокировать продажу носимых устройств. Из-за этого для потенциальных покупателей экипировки создаются неудобные условия. Чтобы защитить покупателей, Pixelcraft проинформировал OpenSea о том, что не будет проводить листинг на Полигоне.
 
-Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
+На данный момент имеются некоторые ограничения на включение экипировки в список OpenSea Polygon. Проводя анализ смарт-контрактов, инфраструктура рынка OpenSea на Полигоне не может дифференцировать Готчи и экипировку. Дело в том, что объекты стандарта ERC-721 (Готчи) и ERC-1155 (экипировка) содержатся на едином адресе. И это представляет собой проблему.
 
 ## Вопросы по Кривой Связывания:
 
