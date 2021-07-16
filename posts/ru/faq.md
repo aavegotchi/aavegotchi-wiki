@@ -211,95 +211,95 @@ amToken — это “родные” для Polygon токены. Их исто
 
 ### FRENS может пригодиться для чего-нибудь, кроме лотерей?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+FRENS нужны ТОЛЬКО для участия в лотереях, проводимых Аавеготчи. Основная часть экосистемы игры работает на токенах GHST.
 
-### What happens to the FRENS on Mainnet after the game launches on Polygon?
-Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+### Какова судьба FRENS в основной сети после запуска игры на Polygon?
+Ваши честно заработанные баллы FRENS никуда не денутся. Весь баланс будет клонирован на Polygon и дальше будет пополняться только там. А те FRENS, что останутся в основной сети Ethereum, станут бесполезными.
 
 ### Почему пул ликвидности GHST-USDC платит 74 млн FRENS за стейкинг ежедневно?
-При добавлении ликвидности пулу GHST-USDC на QuickSwap, между двумя активами наблюдается другое соотношение. Добавляя свои токены, взамен пользователи получают не целый токен, а лишь части LP, например 0,00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+Это случилось из-за проблемы, возникшей на раннем этапе создания пула ликвидности. Ранний инвестор с QuickSwap, отправивший свои токены в пул GHST-USDC, нарушил соотношение между активами. Поэтому теперь, когда вы добавляете ликвидность в пул, то получаете крошечные доли токенов. Например, 0,00006. Аавеготчи просто устраняет возникший перекос. Подробней о проблеме можно почитать [тут](https://twitter.com/coderdannn/status/1362423402871447554).
 
 ## Вопросы о розыгрыше в лотерее:
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+Чтобы получить подробную информацию, смотрите соответствующий <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">раздел</a> нашей ВИКИ.
 
 
 
 ### Если я купил билет, то участвую в розыгрыше?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+No! Если вы просто купили билет лотереи за FRENS, то это **не значит**, что вы автоматом участвуете в розыгрыше.  Вы должны перевести свои билеты в смарт-контракт лотереи в течение 72 часов, когда проводится розыгрыш. Вам нужно будет выполнить две простые транзакции на странице лотереи. **Подтвердить** свои билеты и **добавить** их в смарт-контракт. Если ваши билеты будут успешно отправлены, на странице статистики вы сможете увидеть общее число добавленных на розыгрыш лотерейных билетов.
 
 
 ### Появятся ли предметы экипировки, разыгрываемые в лотереях, на полках Аавеготчи Молла?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+Нет. Разыгрываемая экипировка не будет продаваться в Молле. Она будет доступна только во время розыгрыша и на вторичном рынке.
 
 
 ### Разыгрываемые в лотерее предметы особенные??
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Что касается игрового процесса, лотерейные предметы будут давать такие же <a href="https://wiki.aavegotchi.com/wearables">преимущества</a> вашим Готчи, как и любые другие носимые предметы их класса редкости (редкий, мифический и т.д.).  Будут ли они стоить дороже на [Базаре](/baazaar) из-за их **уникального статуса** или ассоциации с определенным **брендом/партнером**, это будет определяться наличием рыночного спроса.
 
 
 ### Как переводить лотерейные билеты?
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+Проведение лотерейного розыгрыша в игре Аавеготчи предусматривает передачу билетов в смарт-контракт. При этом лотерейные билеты — это NFT, основанные на стандарте ERC-1155. Поэтому, используя Аавеготчи DApp, их очень легко перевести на [соответствующей странице](https://aavegotchi.com/tickets). Под каждой категорией билетов вы можете заметить кнопку “Transfer” (смотрите на скрине ниже). Выберите нужную категорию билетов и нажмите кнопку, чтобы отправить билеты в смарт-контракт для участия в розыгрыше.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+Следующий шаг. Вы будете переведены на другую страницу, где нужно будет указать адрес получателя и число переводимых билетов (смотрите ниже на скрине).  В завершении нажмите кнопку “Transfer”.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Предвидится ли проведение лотерей после запуска игры в основной сети?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+Когда будет запущена игра, дополнительные лотереи обязательно будут проводиться. Это запланировано, чтобы поддержать и премировать тех игроков, которые заняты стейкингом GHST и получают баллы [FRENS](/glossary#frens) и покупают лотерейные билеты. Правда, после запуска основной сети розыгрыши будут проводиться реже, чем на начальном этапе.
 
 ## Вопросы по экипировке:
 
 ### Нужно ли передавать билеты на экипировку в Polygon?
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+Не придется этого делать вручную. Все будет сделано автоматически. Как востребованные, так и невостребованные билеты на экипировку автоматически клонируются на Polygon при запуске игрового проекта.
 
 ### Есть ли лимит у каждого носимого предметы?
-Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+Да. У каждого предмета экипировки существует свой лимит. Число выпущенных носимых устройств в той или иной категории можно посмотреть на [странице](/wearables) нашей ВИКИ.
 
-For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+Степень уникальности носимых устройств объясняется многими факторами — разработкой в партнерстве с нашими друзьями, выпуском для лотереи или продажи в Молле. Например, те, что продаются в Молле, больше никогда там не появятся в продаже. Однако их можно будет приобрести с рук (на вторичном рынке) — у тех людей, у которых этот предмет есть в наличии. То же самое и с экипировкой, выпущенной для лотерей.
 
 ### После снятия экипировки с Готчи, не могу найти ее в инвентаре. Что делать?
-Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
+Все предметы, которые есть у вашего Готчи, надежно хранятся в его [кармашках](/aavegotchi-profile#gotchi-pocket). Снимая предмет экипировки, вы можете обнаружить его в инвентаре данного Готчи.
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+У игрока, владельца Гочти, также есть собственный инвентарь. Так что, вероятней всего, вы просто смотрели не в том инвентаре.
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+Зайдите на свою [страницу профиля](/aavegotchi-profile) и в правом нижнем углу найдите интересующую вас кнопку “Pocket”. Нажмите и перейдите на страницу инвентаря. Здесь вы можете перенести свободный предмет экипировки из инвентаря Готчи в ваш собственный.
 
 ## Вопросы по порталам:
 
 ### За одну транзакцию какое количество порталов можно купить?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+В пределах одной транзакции каждый игрок может приобрести 50 порталов. Это ограничение введено для того, чтобы монополисты-киты не скупили все порталы за один раз.
 
 ### Если открыть портал, когда нет токенов для вызова Готчи, можно ли позже продолжить?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+Да, без проблем. Оставляйте портал открытым (с ним ничего не случится). Вы можете выбрать и взять нужный вам aToken и вернуться позже, чтобы вызвать Готчи из портала. Так что заранее готовить токены вам не придется.
 
 ### Подскажите дату, когда станут доступны порталы.
-Portals will be released on Polygon at February.
+Порталы уже доступны на Polygon. Это случилось в феврале 2021 года.
 
 ## Вопросы по Аавеготчи DAO:
 
 ### Каким образом строится голосование через Trust Wallet на Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+Пока что напрямую проголосовать вы не сможете. Сеть Aragon не интегрировала Trust Wallet. Однако это не станет помехой. Вы можете импортировать закрытые ключи из Trust Wallet в Metamask. После этого вы можете голосовать.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Подробнее о переводе закрытых ключей вы можете узнать из [этой](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) информации.
 
 ### Почему при голосовании на снимке экрана неправильно указано время?
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+Все очень просто. Время на вашем устройстве, с которого вы заходите в игру, отличается от отметки времени на снимке в одном случае — ваши часы на устройстве спешат/опаздывают. Если вы установите автоматическое обновление времени, то расхождений с временем на снимке и вашем ПК/смартфоне больше не будет. Все будет отображаться корректно.
 
 ## Вопросы по геймплею:
 
 
 ### Правильно ли, что чем больше уровень характеристики черты, тем она реже встречается?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Уровень редкости характеристик в игровом проекте Аавеготчи базируется на колоколообразной кривой. Это означает, что у вашего персонажа (Готчи) в идеале должны быть как можно большие и как можно меньшие <a href="https://wiki.aavegotchi.com/traits">показатели</a>. Середина — хуже! Однако именно такие усредненные показатели черт встречаются чаще всего.
 
 ### Во сколько обойдется игровой процесс?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+За первое привидение из портала нужно будет заплатить ориентировочно 100 GHST. Цена предметов экипировки, расходников и земельных участков будет объявлена перед их официальным выпуском. Причем на ценообразование могут влиять члены Аавеготчи DAO. Путем голосования они могут устанавливать иные цены на активы. Стоимость на запущенные предметы экипировки, наборы и остальные товары вы можете проверить на первичном рынке — в Молле, и на вторичном рынке — игровом [Базаре](/baazaar).
 
 ### Повышается ли сродство с Готчи, если увеличить сумму залога?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
