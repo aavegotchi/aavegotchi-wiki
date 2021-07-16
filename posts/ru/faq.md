@@ -299,99 +299,99 @@ No! Если вы просто купили билет лотереи за FRENS
 
 ### Во сколько обойдется игровой процесс?
 
-За первое привидение из портала нужно будет заплатить ориентировочно 100 GHST. Цена предметов экипировки, расходников и земельных участков будет объявлена перед их официальным выпуском. Причем на ценообразование могут влиять члены Аавеготчи DAO. Путем голосования они могут устанавливать иные цены на активы. Стоимость на запущенные предметы экипировки, наборы и остальные товары вы можете проверить на первичном рынке — в Молле, и на вторичном рынке — игровом [Базаре](/baazaar).
+За привидение первого поколения из портала нужно будет заплатить ориентировочно 100 GHST. Цена предметов экипировки, расходников и земельных участков будет объявлена перед их официальным выпуском. Причем на ценообразование могут влиять члены Аавеготчи DAO. Путем голосования они могут устанавливать иные цены на активы. Стоимость на запущенные предметы экипировки, наборы и остальные товары вы можете проверить на первичном рынке — в Молле, и на вторичном рынке — игровом [Базаре](/baazaar).
 
-### Повышается ли сродство с Готчи, если увеличить сумму залога?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+### Повышается ли сродство (лояльность) Готчи, если увеличить сумму залога?
+Нет. От того, больше или меньше вы внесли токенов в залог в игре Аавеготчи, не будет зависеть уровень сродства с вашим Готчи. Больше играйте с ним, заходите в игру каждые 12 часов, и сродство будет расти.
 
 ## Вопросы по технической части:
 
 
 ### Игра находится в блокчейне?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Да, все внутриигровые объекты проекта Аавеготчи находятся в [блокчейне Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Читайте [эту](/glossary#diamond-standard) информацию, чтобы узнать больше о нашем уникальном Diamond Standard.
 
 ### Какой кошелек лучше выбрать для игры в Аавеготчи?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+Поверьте опыту членов нашего сообщества! Оптимально для игры подходит <a href="https://metamask.io/">Метамаск</a>. Это наилучший вариант для использования во время игрового процесса. Этот кошелек, как и Arkane, интегрирован в Аавеготчи и поддерживает токены стандарта ERC-1155. Это означает, что вы без труда сможете просматривать все имеющиеся у вас активы — токены, баллы, награды, носимые предметы в дополнение к своим GHST в кошельке.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Для гаджетов с операционной системой Андроид хорошо подходит приложение Метамаск со встроенным браузером.
 
 ### Аавеготчи будет масштабироваться через решения 2 уровня?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Безусловно. Для масштабирования проекта разработчики Аавеготчи перевели игру на [Polygon](https://matic.network/). Выбор в пользу этого проекта, обеспечивающего доступ к решениям второго уровня Ethereum, сделан из-за сильной команды, высокого прогресса в децентрализации, а также легкой интеграции с другими NFT-платформами, как OpenSea.
 
 ### Придется ли переносить свои Aave версии 1.0?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Нужно перенести токены, так как Аавеготчи будет работать с токенами [Aave версии 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a). Поэтому все токены из первой версии, которые имеются у игрока, нужно перенести до вызова Готчи. По информации создателя и гендиректора Aave Стани Кулечова, до запуска в игре [появится](https://twitter.com/StaniKulechov/status/1334546997827809285) удобный инструмент миграции :)
 
 ### Как перейти на Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+На самом деле все очень просто. Следуйте пошаговым советам из [этого](/polygon) руководства.
 
-### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### У меня Ledger/Trezor, что делать?
+Доступ к Polygon без проблем осуществляется лишь у владельцев Trezor One. Остальные кошельки не поддерживаются.  Поэтому лучше всего создать новый аккаунт на Metamask. Помощь в этом вопросе вы можете получить у @Jesse/gldnXross#6482.
 
-### Почему не видно полигонных токенов GHST в Метамаске?
+### Почему в Полигоне не видно токенов GHST в Метамаске?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Внимательно посмотрите и убедитесь, что вами были выполнены два условия. Первое. Вы должны были одобрить транзакцию. Второе. Вы должны были одобрить миграцию из основной сети в Polygon. Также проверьте адрес GHST на Polygon: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7.
 
 ### Почему не видно токенов, застейканных в пуле ликвидности, на QuickSwap?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+При размещении токенов в пуле ликвидности на QuickSwap, вы уже не сможете увидеть их в своем Метамаске или другом кошельке. Выведите их из пула, если хотите, чтобы они снова отображались.
 
 ### Могу ли я переводить токены с Polygon на централизованные биржи?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+Категорически нет! Переводить токены с Polygon на централизованные биржи, такие как Binance, Coinbase, OKEx, нельзя. Вы должны сначала вернуть токены обратно в основную сеть Ethereum, чтобы проводить транзакции.
 
 ### Почему Метамаск отверг мои токены?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+В кошельке Метамаск установлен лимит на длину названия токенов. Он составляет 11 символов. Вы можете поменять название токена на более короткое, и все будет корректно работать. При этом коррекция не влияет на сами токены. Она меняет только отображение названия. Эта проблема известна многим.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Например, взять хотя бы название токена stkGHST-QUICK — здесь 13 символов, а не 11. И возникает проблема с отображением в Метамаске. Зато теперь вы знаете, как ее решить.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
 ### Отозвал токены GHST из Polygon, но даже спустя долгое время так и не получил их. Что делать?
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+Вывод любых цифровых активов из Polygon в основную сеть Ethereum осуществляется через [Мост Аавеготчи](https://aavegotchi.com/bridge). Если прошло довольно много времени (пара часов), а токенов в основной сети Ethereum нет, нужно сделать пару действий. Вот они...
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Перейдите в [Проводник Polygon](https://explorer.matic.network/) и введите ID вашей транзакции. Найдите в выведенной информации, в какой под номером блок она была добавлена.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+После этого вставьте соответствующий номер блока вместо [blockNumber] в данном урле и перейдите по ссылке:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Здесь вы сможете узнать статус вашей транзакции.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+В случае, если на Polygon она не был обработана, ожидайте. В ряде случаев обработка задерживается и может занимать свыше шести часов.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Если на Polygon транзакция обработана, а в интерфейсе пользователя нашего Моста Аавеготчи информации о ней нет, вы можете получить поддержку у Coderdan или других разработчиков.
 
 ### Как бороться с задержками на Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+Чтобы избежать задержек, в случае, если таковые имеют место, можно переподключиться к Polygon по другому RPC: https://rpc-mainnet.maticvigil.com/.
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Подробно о том, как это сделать, можно посмотреть в [этом](/polygon) руководстве.
 
 ### Где найти Token ID своего Готчи?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+У каждого Готчи есть свой уникальный ID. Выяснить его очень просто. Зайдите на страницу [My Aavegotchis](https://aavegotchi.com/aavegotchis). Нажмите на любого призрака, найдите число в конце ссылки. Приведем пример, где ХХХ — ID вашего Готчи:
 
-https://aavegotchi.com/gotchi/(Gotchi Token ID)
+https://aavegotchi.com/gotchi/XXX
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Зная идентификатор Готчи, можно связать его с дескриптором на Дискорд с помощью простой команды:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Это нужно сделать для каждого Готчи из вашего арсенала в отдельности.
 
 ### Где можно узнать адрес своего Готчи?
 
-Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchis. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Кликните по любому из ваших призраков. Нажмите на кнопку “Pocket” в правом нижнем углу. Нажмите на кнопку "View", чтобы просмотреть инвентарь Готчи. Вы перейдете по адресу смарт-контракта, уникальному для этого конкретного призрака. Этот адрес выступает в роли контракта условного депонирования. И вы, как владелец Готчи, можете с ним взаимодействовать.
 
-Do note that each Gotchi will have its own Smart Contract Address.
+Внимание! У каждого вашего призрака из коллекции есть свой уникальный адрес смарт-контракта!
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">... продолжение следует!</p>
 
 
