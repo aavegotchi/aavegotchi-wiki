@@ -142,108 +142,108 @@ contributors:
 Список инсталляций можно найти на странице ВИКИ, посвященной[ Метавселенной](/metaverse#building-on-realm-parcels) Аавеготчи.
 
 ### Лотерейные билеты (Raffle Tickets)
-Билеты, которые используются для участия в лотереях, где разыгрывается [экипировка](/wearables). Raffle tickets are consumed upon use.
+Билеты, которые используются для участия в лотереях, где разыгрывается [экипировка](/wearables). Расходуются они по мере использования.
 
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
+Приобрести билеты для участия в лотерее можно за токены [FRENS](/glossary#frens). Их, в свою очередь, получают за [стейкинг](/staking) токенов.
 
-Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
+Лотерейные билеты могут конвертироваться в [Дроп-билеты](/glossary#drop-tickets) для участия в розыгрыше земельных участков.
 
-### Участок (REALM).
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
+### Участок (REALM)
+Зона во Вселенной Аавеготчи, где обитает ваш Готчи. Это место для приключений и борьбы со злодеями!
 
-### Духовная сила (Spirit Force).
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+### Духовная сила (Spirit Force)
+Это залог за Готчи. То есть количество [maTokens](/matokens), находящихся в заблокированном состоянии внутри призрака. По своему желанию геймеры могут наращивать или снижать очки Духовной силы в своих Готчи. Однако снижать меньше минимального уровня этот показатель нельзя. Минимум генерируется базовым показателем редкости игрового Готчи.
 
-### Очки Духовной силы (Spirit Point).
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+### Очки Духовной силы (Spirit Point)
+Это очки, которые получает призрак при повышении его уровня Духовной силы. Эти очки похожи на очки статистики из ролевых игр. За три пройденных уровня можно получить одно очко Духовной силы.
 
 ### uGOTCHI Token
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+Это токены, которые созданы через [Unicly](https://www.unic.ly/). Они предоставляют права на владение коллекцией uGOTCHI. В момент запуска проекта данная коллекция состоит из пяти Астронавтов — первых Готчи, созданных на Ethereum.
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+Все пять Готчи из данной коллекции являются уникальными и обладают самой большой ценностью. Даже без снаряжения у них высокие показатели редкости основных характеристик, а также супер-редкие скины глаз (а ведь эту характеристику нельзя прокачать, так как на нее не влияют носимые устройства). Каждый из пяти астронавтов является NFT стандарта ERC-721. Носимые устройства, которыми они экипированы, также являются NFT, но уже стандарта ERC-1155. Это чрезвычайно редкие и мощные предметы экипировки.
 
-The Collection's Aavegotchis are still able to participate in Rarity Farming.
+Астронавты — завсегдатаи ТОПов фарминга.
 
-On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+16.05.2021 команда Pixelcraft добавила в коллекцию uGOTCHI уникальный Unopened Portal 2. Это третий наименьший токенID в Серии №1.
 
-For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
+Узнайте больше про Астронавтов и токен [uGOTCHI](/ugotchi) в нашей ВИКИ.
 
-### Элементы экипировки
-Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+### Экипировка/Носимые устройства (WEARABLES)
+Это все снаряжение, которое есть у вашего Готчи. Носимые устройства — это NFT стандарта ERC-1155. Поэтому они отличаются друг от друга. Каждый элемент экипировки обладает своей редкостью, влияет на характеристики Готчи, как улучшая, так и ухудшая. Также у NFT есть лимит и слот снаряжения, который они занимают.
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+Например, одежду для своего Готчи вы можете выиграть в лотерее или приобрести в [Аавеготчи Молле](/maall) за токены [GHST](/ghst).
 
 ## Термины DeFi 101:
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+“DeFi” расшифровывается как **“децентрализованные финансы”**. Вкратце, это обширная экосистема блокчейн-протоколов и приложений, предоставляющих те же услуги, что и традиционные финансовые учреждения. Это такие услуги, как кредитование, займы, депозиты. Ключевым отличием услуг на блокчейне является тот факт, что получение ссуд через DeFi-приложения и проекты происходит децентрализованно, без посредников.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+При пользовании услугами DeFi-проектов пользователь не теряет потенциальную прибыль и не получает отрицательные процентные ставки, как в банке. Также децентрализация обеспечивает необходимую стабильность всей системы. Ее деятельность не рухнет и на нее не оказывают влияния решения властей.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+По состоянию на 05.12.2020 (на момент написания) общая сумма средств, заблокированных в тех или иных DeFi-проектах, составляла $14,24 млрд.
 
-## Key Terms
+## Ключевые термины
 
-### amTokens.
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+### amTokens
+amTokens — это токены ликвидности из пулов Aave, используемых на **Polygon**. Это **не то же самое**, что [maTokens](/glossary#matokens).
 
-### APY.
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+### Годовой процентный доход (APY)
+Рассчитать годовой доход очень просто. Это сума, состоящая из ваших сбережений, внесенных в качестве депозита в протокол, и полученных за год процентов.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+Это процентные токены, получаемые пользователем из [протокола Aave](https://aave.com/). Как их получить и что с ними делать, можно узнать на соответствующей [странице](/atokens) нашей ВИКИ.
 
-### Автоматизированный маркет-мейкер (Automated Market Maker).
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+### Автоматизированный маркет-мейкер (Automated Market Maker)
+Тип протокола децентрализованных обменников DEX, рассчитывающий по математической формуле цену активов. Вместо традиционной книги заказов, как у большинства классических криптовалютных бирж, обмен активов осуществляется автоматически, а токены оцениваются по утвержденному алгоритму ценообразования.
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+Формула, на которой базируется алгоритм, может отличаться в разных протоколах. Например, на Uniswap активно задействована формула x * y = k, где x — объем одних токенов в пуле ликвидности, а y — объем других токенов. Из данной формулы следует, что k — это фиксированный показатель. Он демонстрирует основное правило — ликвидность пула, невзирая ни на что, должна оставаться неизменной. Остальные автоматизированные маркет-мейкеры используют другие формулы, сообразно с тем, для чего они предназначены. Основное сходство между ними — в том, что цены токенов рассчитываются по алгоритмам.
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+В сущности, автоматизированные маркет-мейкеры, несмотря на более сложную схему функционирования, работают в точности как книги заказов бирж. Точно так же, как на популярных биржах, имеются торговые пары, например — ETH/DAI. Но трейдеру не нужно искать другого контрагента (трейдера), чтобы осуществить обмен. В DEX все сделки пользователи осуществляют путем взаимодействия со смарт-контрактами, создаваемыми автоматическими маркет-мейкерами.
 
-### Залог (Collateral).
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
-
-
-In the context of DeFi, this is how things might look:
+### Залог (Collateral)
+Это простая и понятная концепция. Вы предоставляете выбранный актив в качестве гарантии кредитору, получая займ. В случае, если вы не вернете ссуду, залоговые токены будут использованы для выплаты долга.
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
-
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
-
-### DAICO.
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICO — это модель, согласно которой инвесторы имеют контроль над собранными средствами после завершения их сбора. Инвесторы могут влиять на то, как разработчики получают доступ к фондам, с какой периодичностью. Кроме того, инвесторы могут проголосовать, чтобы отказаться от проекта и вернуть свои средства.
-
-### DAO.
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
-
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
-
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+В DeFi-сфере этот процесс устроен таким образом:
 
 
+К примеру, вы хотите взять какие-либо токены из протокола. Для этого вам просто нужно перечислить взамен эквивалентное число других активов в виде залога. В случае невозврата протокол DEX не вернет вам заложенные токены.
 
-### DEX.
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Во Вселенной Аавеготчи залог токенов также известен в качестве источника [Духовной силы](/glossary#spirit-force) Готчей.
 
+### DAICO
+Этот термин расшифровывается как “децентрализованное автономное первичное размещение монет”. Метод используется для сбора средств на нужды проекта и представляет собой нечто среднее между ICO и DAO (децентрализованной автономной организацией). Использование DAICO позволяет достичь более высокой эффективности сбора средств при продаже токенов.  Метод также позволяет наладить контроль над последующим распределением средств после их сбора. Все, кто инвестировал в проект, могут путем голосования принимать решения и влиять на то, как часто разработчики смогут получать средства из фонда, и на какие нужды они их могут тратить. Также инвесторы могут проголосовать за возврат средств.
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+### DAO
+Децентрализованная автономная организация является проектом, который регулируется правилами, прописанными в смарт-контрактах. Функционирование DAO контролируется членами организации. Этот метод существования проектов кардинально отличается от традиционных, где всеми средствами и будущим проекта управляет небольшая группа людей.
 
+Аавеготчи DAO — это экосистема, все члены которой могут выдвигать предложения о будущем проекта и принимать или не принимать их путем голосования. Например, члены DAO могут увеличить число доступных порталов, а также внедрить другие функции, способные дать больше плюшек сообществу.
 
-Some examples of CEXs include Binance, Coinbase and OKex.
-
-
-### Мгновенные займы (Flash Loans).
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
-
-The flash loan has to be repaid within the same transaction block.
-
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Более подробно об Аавеготчи DAO можно почерпнуть на соответствующей [странице](https://blockchainhub.net/dao-decentralized-autonomous-organization/) нашей ВИКИ.
 
 
 
-### Временная потеря (Impermanent Loss).
+### DEX
+Децентрализованная биржа, обрабатывающая транзакции в одноранговой сети. Обмен идет не между пользователем и пользователем, а пользователем и DEX путем перечисления одних токенов на адрес смарт-контракта и получения других токенов на свой кошелек. В числе примеров популярнейших DEX можно привести UniSwap, Mesa и Balancer.
+
+
+Децентрализованные биржи работают не так, как централизованные (CEX). Последние организуют обмен средств между двумя пользователями через посредника.
+
+
+В числе примеров популярнейших централизованных бирж — Binance, Coinbase и OKex.
+
+
+### Мгновенные займы (Flash Loans)
+Поговорим о займах и залогах. Мгновенные займы — это форма займа, при котором не нужно вносить залог. Правда, есть требование.
+
+Мгновенный займ должен погашаться в рамках одного блока транзакций.
+
+В случае, если это не происходит, такая транзакция отменяется. Узнайте больше о мгновенных займах [тут](https://aave.com/flash-loans/).
+
+
+
+### Временная потеря (Impermanent Loss)
 The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
 
 
