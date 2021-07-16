@@ -143,22 +143,22 @@ contributors:
 
 * **Заниматься стейкингом GHST, чтобы зарабатывать баллы FRENS.**  Это как мили на заправке — чем больше FRENS, тем больше за них можно купить лотерейных билетов и участвовать в розыгрыше экипировки. Подробную информацию о стейкинге можно почерпнуть на соответствующей [странице](/staking) нашей ВИКИ.
 
-* Не забывайте про Готчи! Возвращайтесь к нему каждые 12 часов. Чем чаще вы вместе, тем выше уровень сродства и лучше показатели в [фарминге](/rarity-farming).
+* **Не забывайте про Готчи!** Возвращайтесь к нему каждые 12 часов. Чем чаще вы вместе, тем выше уровень сродства и лучше показатели в [фарминге](/rarity-farming).
 
 * **Займитесь прохождением мини-игр**. Некоторые из [игр](/minigames) уже доступны. Вперед!
 
 
 ### Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?
 
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+No! Вносить свои данные и проходить KYC-проверку нужно лишь в том случае, если планируете покупать токены GHST из [кривой связывания](/curve). Также их можно свободно купить на децентрализованной бирже [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH), где KYC-проверка не требуется, и ряде [централизованных бирж](https://www.coingecko.com/en/coins/aavegotchi#markets). Приобретение внутриигровых объектов, например, как [порталы](/portals), прохождение [мини-игр](/minigames), [стейкинг GHST](/staking) или любой другой игровой аспект Аавеготчи **не требует KYC**!
 
-The table below summarizes the information:
+Подробнее о том, как все устроено, можете почитать в этой таблице:
 
 table_kyc
 
 ### Что общего между Aave и Аавеготчи?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
