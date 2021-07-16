@@ -197,17 +197,17 @@ amToken — это “родные” для Polygon токены. Их исто
 ## Вопросы по Кривой Связывания:
 
 ### Я купил токены GHST, но не вижу их в своем кошельке
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+Если вы приобрели токены из кривой связывания, вам понадобится еще один шаг для их получения на указанный адрес. Речь об еще одной транзакции. Рассмотрим на примере нижеприведенного скрина. Вы должны нажать на кнопку "CLAIM ORDER", чтобы ваши купленные токены появились в кошельке.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### Можно ли демпинговать и обгонять других на кривой связывания?
+Демпинг на кривой связывания невозможен. При совершении покупки или продажи GHST, ваша транзакция объединяется с транзакциями других пользователей и только потом отправляется в смарт-контракт. Поэтому другие люди не смогут покупать GHST по более низкой цене с повышенной ценой комиссии (платой за газ), чтобы купить токены быстрее вас.
 
 ## Вопросы про FRENS
 
 ### Можно ли приобрести FRENS?
-No. FRENS are a way to reward our community members who staked GHST.
+Приобрести FRENS нельзя. Их можно только заработать во время стейкинга GHST. Это своеобразная награда для тех, кто поддерживает экосистему Аавеготчи.
 
 ### FRENS может пригодиться для чего-нибудь, кроме лотерей?
 
