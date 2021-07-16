@@ -119,33 +119,33 @@ contributors:
 
 * Приобрести [портал](/portals) во время проводящегося дропа, открыть и [вызвать](/portals#claiming-an-aavegotchi) Готчи, поставив минимум очков силы Духа.
 
-Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+Это обойдется вам в 100 GHST + минимум 10 DAI, которые будут поставлены в качестве залога. Причем DAI может понадобиться больше, если вам выпадет более редкий Готчи. Увы, этот вариант работает только во время дропов, а они проходят очень быстро.
 
-* Buy an Unopened Portal at the [Baazaar](/baazaar).
+* Купить неоткрытый портал на вторичном рынке ([Базаре](/baazaar)).
 
-Cost: Variable.
+Цена варьирует.
 
-* Buy an Opened Portal at the [Baazaar](/baazaar).
+* Приобрести открытый портал на вторичном рынке ([Базаре](/baazaar)).
 
-Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+Цена варьирует, но обычно Готчи обходятся дешевле, чем при покупке неоткрытых порталов, так как там уже есть до десятка Готчи.
 
-* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+* Приобрести Готчи на вторичном рынке ([Базаре](/baazaar)).
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+Цена варьирует. Находится в зависимости от нескольких моментов — редкости Готчи, наличия экипировки, баджей.
 
 ### Каковы сроки запуска основной сети?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
+Сроки запуска игры в основной сети несколько раз переносились. Изначально запуск планировалось провести 04.01.2021 года. Однако так как блокчейн Ethereum был перегружен, голосованием участников DAO (децентрализованной автономной организации) было решено, что Аавеготчи стартует на Polygon позднее. Подтвержденная разработчиками игры дата запуска — 02.03.2021 года.
 
 
 ### С чего можно начать?
 
-Right now, you can:
+До запуска основной сети можно:
 
-* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+* **Заниматься стейкингом GHST, чтобы зарабатывать баллы FRENS.**  Это как мили на заправке — чем больше FRENS, тем больше за них можно купить лотерейных билетов и участвовать в розыгрыше экипировки. Подробную информацию о стейкинге можно почерпнуть на соответствующей [странице](/staking) нашей ВИКИ.
 
-* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+* Не забывайте про Готчи! Возвращайтесь к нему каждые 12 часов. Чем чаще вы вместе, тем выше уровень сродства и лучше показатели в [фарминге](/rarity-farming).
 
-* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+* **Займитесь прохождением мини-игр**. Некоторые из [игр](/minigames) уже доступны. Вперед!
 
 
 ### Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?
