@@ -337,43 +337,43 @@ NFT, поддерживающие стандарт ERC-998, также подд�
 Подробную информацию о стандарте ERC-1155 можно почерпнуть [здесь](https://eips.ethereum.org/EIPS/eip-1155) и [здесь](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### GBM Аукцион (GBM Auction)
-A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
+Это проведение аукциона нового типа. Во время мероприятия в режиме реального времени участники должны перебивать ставки других игроков, получая за это награду. На практике это выглядит таким образом — игрок либо выигрывает аукцион, либо получает больше денег, чем у него было до старта.
 
-GBM stands for Gonnaud-Bessire-McDonaugh.
+Расшифровка данного термина — Gonnaud-Bessire-McDonaugh (фамилии со-основателей платформы Cryptograph).
 
-First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Проект, разработчики которого придумали революционный тип аукционов, был представлен в 2019. Аукцион по такому типу был запатентован, и у Pixelcraft Studios есть официальная лицензия на его использование для всех дропов NFT Аавеготчи, включая землю, экипировку и даже второе поколение Готчи.
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+Подробнее об этом типе аукциона читайте в блоге [Cryptograph GBM Auction](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
-### Metaverse
+### Метавселенная (METAVERSE)
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Метавселенная (METAVERSE) Это виртуальный мир, находясь в котором игрок может взаимодействовать с разными аспектами метавселенной (играть в мини-игры, посещать магазины), а также с другими игроками.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Метавселенную можно увидеть в таких проектах, как <a href="https://wiki.aavegotchi.com/metaverse">Аавеготчи</a>, Second Life и Decentraland.
 
-### Non-Fungible Token
+### Невзаимозаменяемые токены (NON-FUNGIBLE TOKEN)
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Кратко именуются аббревиатурой NFT. Являются разновидностью уникального токена. Как понятно из названия, его нельзя заменить другим, так как он — **единственный в своем роде**.  Такие токены используются, чтобы продемонстрировать право собственности на различные игровые предметы — экипировку, арт-объекты, а также любую другую собственность.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+Все **остальные** токены, не относящиеся к NFT, свободно меняются на такие же. Они носят название взаимозаменяемых. К ним относятся BTC, USDC и другие монеты.
 
-### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+### Полигон (POLYGON)
+Ранее проект носил название Matic Network. Он предназначен для масштабирования блокчейнов — ускорения транзакций, уменьшения комиссий. Полигон базируется на адаптированной версии платформы Plasma (Plasma MoreVP). Второй уровень масштабирования поддерживает все существующие инструменты Ethereum, обеспечивая вышеперечисленные преимущества.
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+Перевод токенов из основной сети Ethereum в Polygon проще всего сделать, следуя советам из этого [руководства](/polygon).
 
-Read more about Polygon [here](https://matic.network/).
+Дополнительная информация о Polygon доступна [здесь](https://matic.network/).
 
-### Proof of Stake
+### Доказательство ставки (PROOF OF STAKE)
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Механизм майнинга (достижения консенсуса), позволяющий блокчейнам согласовывать единство и неизменность их цепочки блоков. Обеспечивается за счет стейкинга. В блокчейне с PoS-типом майнинга подтверждение блоков осуществляется путем участия валидаторов. Они являются участниками блокчейна, запустившими узлы валидатора в сети.
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Эти узлы формируют и подтверждают блоки в цепочках с PoS-типом майнинга. Ставки криптовалюты делаются путем стейкинга — размещения определенного числа токенов. В блокчейне Ethereum 2.0, к примеру, ставка делается в ETH. Валидатор очередного блока определяется случайным образом. Он создает блок. Затем остальные узлы подтверждают, что “видели” этот блок. Как только набирается нужное число подтверждений, блок добавляется в блокчейн. В PoS-механизме валидации награда валидаторам начисляется как за создание, так и подтверждение блоков.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Подробности о PoS-майнинге можно почерпнуть [здесь](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
-### QuickSwap.
+### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwap — это DEX, работающая на блокчейне Ethereum. Она поддерживает второй уровень масштабирования Polygon. Эта децентрализованная биржа позволяет пользователям торговать любыми токенами стандарта ERC20, обеспечивает моментальный обмен и нулевые затраты на газ.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+Доступ к децентрализованной бирже можно найти [здесь](https://quickswap.exchange).
