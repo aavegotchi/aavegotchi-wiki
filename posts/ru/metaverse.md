@@ -41,38 +41,38 @@ contributors:
 
 ## Зонирование
 
-The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
+Готчиверсия вольготно раскинулась на бескрайних просторах блокчейна. На всей ее территории расположено огромное количество достопримечательностей, а территория разделена на три отдельные зоны:
 
-* The Citaadel
-* The Grid
-* The Beyond
+* Цитадель.
+* Сетка.
+* Пригород.
 
-### The Citaadel
+### Цитадель
 
-Protected by a Force Field that keeps out Liquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Towers cannot be built in the Citaadel, except for in special areas around the Great Portal.
+Территория, защищенная силовым полем от ликвидаторов. Это домашняя база Готчи в Готчиверсии. Здесь нельзя строить башни, кроме как в районе Великого портала (по диаметру).
 
-#### The Great Portal
+#### Великий портал
 
-A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/metaverse#gotchus-alchemica) harvested from the Gotchiverse.
+Это ключевая достопримечательность Цитадели. Сооружение впечатляющих размеров и магического характера. Соединяет Готчиверсию и мир людей. Внутри портала в магической пляске сошлись духи всех Готчи, когда либо существовавших в Готчиверсии. Одной из задач Великого портала является защита Цитадели Готчи за небольшую плату (10%) от [Алхимии Готчей](/metaverse#gotchus-alchemica), собранную в Готчиверсии.
 
-### The Grid
+### Сетка
 
-The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- Liquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
+Сетка охватывает все за пределами Цитадели. Здесь живет намного больше Готчи, однако нужно соблюдать осторожность, ведь ликвидаторы прячутся за каждым углом. На территории Сетки можно строить как стены, так и башни.
 
-#### The Aarena
-A key landmark in the Grid is the Aarena.
+#### Арена
+Это ключевая достопримечательность Сетки.
 
-Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
+Зачем она нужна, - да все просто, так как Готчи время от времени нужно выпустить пар.
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/atokens) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+Призраки с высокой [Духовной силой](/atokens) (токенами залога, приносящими процент на Aave) могут сражаться с другими персами в Королевском Батле, получая в случае выигрыша очки Духовной силы противников.
 
-Liquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows Liquidators to enter.
+Ликвидаторы на Арену не суются, зато их полным полно на Фантастических землях.
 
-### The Beyond
+### Пригород
 
-Locked Parcels that will not be unlocked until the beginning of Act 2.
+Заблокированные участки, которые будут разблокированы во время 2 этапа.
 
-## Размеры участков во вселенной.
+## Размеры участков во вселенной
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
