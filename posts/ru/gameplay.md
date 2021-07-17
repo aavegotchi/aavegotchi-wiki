@@ -27,7 +27,7 @@ description: 'Введение в игру Аавеготчи'
 
 You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
 
-## Portals
+## Порталы
 
 A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
 

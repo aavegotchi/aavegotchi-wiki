@@ -159,7 +159,7 @@ The secondary distribution method for REALM Parcels will be Chainlink VRF-powere
 
 ### Дроп билетов.
 
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
 
 <img class="bodyImage" src="/metaverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
