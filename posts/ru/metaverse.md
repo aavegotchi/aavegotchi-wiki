@@ -86,29 +86,29 @@ contributors:
 
 ## Геймплей игрового проекта
 
-Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
+Владельцы земельных участков в Метавселенной могут использовать своих и чужих Готчи для добычи полезных ископаемых, называемых Алхимией Готчи. Они нужны для создания наступательных [установок](/metaverse#building-on-realm-parcels).
 
-The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+Готчиверсия является открытой социальной системой, жители которой могут заниматься бесчисленным числом действий — фармить, крафтить, торговать и даже сражаться.
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great Liquidator invasion.
+В игре отсутствует сценарий завершения, — она бесконечна. И это круто, ведь можно не переживать и заниматься вновь и вновь любимым делом — собирать алхимию, укреплять участок земли, чтобы повысить сборы полезных ископаемых, строить защитные укрепления в рамках подготовки ко вторжению Великого ликвидатора, приход которого предсказан древним Пророчеством!
 
-Players that possess Liquidator Credits can opt to play as Liquidators. Liquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+Персы, у которых есть кредиты ликвидатора, могут играть за них. Необходимые баллы можно заработать, участвуя в розыгрышах, выполняя задания и приглашая друзей. Кредиты также есть в продаже за [GHST](/ghst).
 
-The main goal of a Liquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+Предназначение ликвидатора — собрать всю доступную алхимию, находящуюся на просторах Готчиверсии, а это подразумевает постоянные стычки с Готчи и военные действия против наступательных установок, чтобы заработать алхимию.
 
-Liquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+Ликвидаторы — это персы, которые могут бесплатно попадать в Готчиверсию, попутно не имеющие лимитов на сбор алхимии.
 
-## Социализация в Готчиверсии.
+## Социализация в Готчиверсии
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+Готчи обожают коллективную работу и общение, и с удовольствием проводят время в Готчиверсии!
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Текстовый чат для общения активирован у всех персов по умолчанию, и появляется как только кто-то появится поблизости. Владельцы участков могут также создавать установки для активации голосовых чатов на участке, а также способствовать поддержке глобального голосового чата.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting Liquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [stats](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+В игре также можно объединяться, чтобы вместе фармить, крафтить, сражаться и добывать алхимию, что позволяет быстрей и проще исследовать подземелья, участвовать в приключениях, сражаться с ликвидаторами и получать награды. При желании, всегда можно выйти в Эдвенчер (Aadventures) — регионы за пределами сетки Готчиверсии, где Готчи, используя свои [статы](/traits) и [экипировку](/wearables), могут исследовать мир, сражаться с NPC, получая ресурсы и очки опыта. Однако эти зоны нестабильны и постоянно меняются.
 
 <img class="bodyImage" src="/metaverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
-## Алхимия Готчи.
+## Алхимия Готчи
 
 **Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
 
@@ -157,14 +157,14 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Дроп билетов.
+### Дроп билетов
 
-Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). 1 Дроп-билет дает **одну** возможность поучаствовать в розыгрыше NFT, и при наличии удачи выиграть порталы и земельные участки.
 
 <img class="bodyImage" src="/metaverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-There are three ways to get Drop Tickets:
+Билеты доступны в трех случаях:
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* Обмен 10 000 FRENS на один Дроп-билет.
+* Конвертация других билетов в Дроп-билеты.
+* Рефералка (приглашение друзей) для получения Дроп-билетов. 🔥
