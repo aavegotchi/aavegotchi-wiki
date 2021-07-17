@@ -157,7 +157,7 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Дроп билетов
+### Дроп-билеты
 
 Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). 1 Дроп-билет дает **одну** возможность поучаствовать в розыгрыше NFT, и при наличии удачи выиграть порталы и земельные участки.
 
