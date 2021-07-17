@@ -16,49 +16,43 @@ contributors:
 * На голосование вынесено предложение по запуску второго поколения Готчи.
 * После бурного обсуждения, если предложение будет принято, будет проведен еще один раунд голосования на AavegotchiDAO.<p></p>
 
-## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
-* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
-<p></p>
+## [Дроп-билеты уже в продаже!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* 02.07.2021 команда Pixelcraft запустила продажу Дроп-билетов на Aavegotchi.com.
+* Они подходят для участия в розыгрыше. Можно выиграть земельные участки и порталы для вызова призраков второго поколения.<p></p>
 
-## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
-* On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
-* Read the REALM Litepaper and participate!
-<p></p>
+## [Готчи-мисии снова запущены!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
+* Миссии для Агентов Готчи были перезапущены 26.07.2021 года.
+* Чтобы принять участие, прочитайте Litepaper и участвуйте!<p></p>
 
 ## [Открыто голосование за AGIP8 и AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
 * AGIPs 8 и 9 теперь живут 11 июня 2021! Изучите подробности и отдайте свой голос за будущее проекта.
 <p></p>
 
-## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
-* On 9 June 2021, Pixelcraft announces that the Aavegotchi GHST token is now listed on Crypto.com's app!
-<p></p>
+## [Crypto.com добавил в листинг GHST](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
+* 09.06.2021 компания Pixelcraft сообщила, что токен игры Аавеготчи (GHST) торгуется на Crypto.com!<p></p>
 
-## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
-* On 25 May 2021, Pixelcraft introduces the V2 of the Aavegotchi Aambassadors Program!
-* An Aavegotchi Aambassador is responsible for spreading the Gospel of Gotchi to those who haven’t discovered us yet.
-* Join us as an Aambassador, grow your own community, and be rewarded for it!
-<p></p>
+## [Новая программа от разработчиков из Pixelcraft — Амбасадоры Аавеготчи: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
+* 25.05.2021 разработчики из Pixelcraft анонсировали V2 программу Амбасадоров Аавеготчи!
+* Амбасадор Аавеготчи способствует распространению и популяризации игры.
+* Вы можете стать послом Аавеготчи — развивайте собственное игровое сообщество и получайте приличное вознаграждение!<p></p>
 
-## [Expansion of the uGOTCHI Collection!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
-* On 16 May 2021, Pixelcraft announces that they have added Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI Collection on Unic.ly
-* The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
+## [Коллекция uGOTCHI стала еще шире!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
+* 16.05.2021, по словам представителей Pixelcraft, в коллекцию uGOTCHI на Unic.ly был добавлен Unopened Portal 2. Это 3-й наименьший идентификатор токена (ID) первого поколения.
+* Снимок (snapshot) для получения Бааджей сделан 17 мая, в 01:00 Мск.  Заинтересованные в получении баджей для Готчи должны были предоставить ликвидность в пуле unic.ly!
 <p></p>
 
 ## [Голосование за пакет предложений AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
 * 12.05.2021 года от Pixelcraft поступил запрос на голосование по предложению AGIP7. Можно заработать очки опыта за успешные предложения.
 * AGIP был предложен нашим помощником с ником Moon!<p></p>
 
-## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
-* On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
-<p></p>
+## [Новые Бааджи  для сбора!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
+* 10.05.2021 разработчики Pixelcraft вручили почетные NFT занимавшимся pre-UNIC  фармингом!<p></p>
 
-## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
-* You can now collect Aavegotchi Baadges for your performance in rarity farming!
-* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
-* Look out for more Baadges to collect in the future ;)
-* Post published on 4 May 2021
-<p></p>
+## [Блестящие новые Бааджи  на подходе!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* Успехи в фарминге могут принести вам Бааджи Аавеготчи!
+* Кристаллы в Аавеготчи — это непередаваемые NFT ERC-1155, находящиеся у вашего Готчи!
+* Ищите больше Бааджей для сбора в будущем:)
+* Информация поступила 04.05.2021 г.<p></p>
 
 ## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
 * Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
