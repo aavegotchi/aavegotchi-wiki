@@ -14,44 +14,44 @@ image: "portals/portal.gif"
 <p class="headerImageText">Порталы в игре Аавеготчи</p>
 </div>
 
-How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
+Как призвать Готчи и перенести его из Nether realm на свой экран? Через портал, конечно же!
 
-Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.
+Всмотритесь в его бесконечно-фиолетовые глубины и увидите, что скрыто за ними — Вы найдете друга. А точнее 10 друзей.
 
-So put on your wizard cap – it’s time to learn more about Portals and the Aavegotchi summoning process. 
+Так что надевайте свою Шляпу Волшебника — время узнать больше о Порталах и процессе призыва Готчи. 
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#buying-a-portal>Buying a Portal</a></li>
-<li><a href=#opening-your-portal>Opening your Portal</a></li>
-<li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
-<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
+<li><a href=#buying-a-portal>Покупка портала.</a></li>
+<li><a href=#opening-your-portal>Открытие портала.</a></li>
+<li><a href=#claiming-an-aavegotchi>Вызов Готчи.</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Передача Готчи.</a></li>
 <li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## Buying a Portal
+## Покупка портала
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
+Перед тем, как Вы сможете вырастить своего пиксельного малыша-призрака, Вы должны будете призвать его через Портал. Вы можете приобрести их как в [официальном приложении](https://aavegotchi.com/buy-portal), так и на сторонних площадках, таких как [OpenSea](https://opensea.io/) (пока недоступно, есть beta версия площадки OpenSea в сети Polygon).
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+Если Вы покупаете Портал в официальном приложении, то каждый портал обойдется вам примерно в 100 GHST. Эти устройства (порталы) будут выпущены в рамках поколения (“Haunts”) (тоже самое, что, например Edition — издание). Первое поколение Готчи появится из 10 000 распроданных порталов. После этого [AavegotchiDAO](/dao) продолжит голосовать по вопросам появления дальнейших поколений. Например, цена портала или количество могут измениться в будущем, как результат решения и голосования ДАО.
 
 
-## Opening your Portal
+## Открытие портала
 
-Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
+Аатлично! Вы купили свой портал. Именно здесь вступает в игру Ритуал Призыва. Это механизм, который позволит Вам призвать своего Готчи.
 
-After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
+Так что после покупки портала следующий логичный шаг — его открытие. Открытие портала происходит в сети [Полигон](/glossary#polygon) (ранее Matic), где геймерам необходимо [так же, как в сети Ethereum] подписывать транзакции. После того, как транзакция [открытия портала] подписана, [Chainlink VRF](/glossary#chainlink-vrf) (генератор случайных чисел) делает свои закулисные делишки.  Когда функция выполнена, порталу будет присвоен случайный номер (но не порядковый номер!), гарантирующий, что черты каждого аваготчи будут доказуемо случайны!
 
-Here's a handy flow chart that summarizes the process:
+Ниже вы найдете схему всего процесса:
 
 <img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
+После открытия портала Вы увидите 10 разных призраков, одного из которых Вы сможете призвать из Подземного Царства! You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
 These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
 
@@ -63,7 +63,7 @@ table_PortalTraitTable
 More information on rarity farming can be found [here](/rarity-farming).
 
 
-## Claiming an Aavegotchi
+## Вызов Готчи.
 
 To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
@@ -91,7 +91,7 @@ You can increase or decrease the Spirit Force (staked aToken amount) of your Aav
 
 To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
-## Interacting with your Aavegotchi
+## Передача Готчи.
 
 Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
