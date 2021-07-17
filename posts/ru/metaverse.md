@@ -110,32 +110,32 @@ contributors:
 
 ## Алхимия Готчи
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
+Полезные ископаемые (**Gotchus Alchemica**) — это токены стандарта ERC20, которых в игре четыре: Фуд, Фомо, Альфа и Кек. Они комбинируются между собой для создания установок и арт-объектов.
 
 <img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Алхимия Готчи." />
 
-Gotchus Alchemica can be extracted from REALM in four distinct ways:
+Добыча ресурсов ведется на участках в Готчиверсии четырьмя различными способами:
 
-* **Alchemical Channeling**: Aavegotchis can channel their energy directly into the REALM Parcel, exchanging their [Kinship](/traits#kinship) for a helping of Alchemica.
-* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
-* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
-* **Harvesting**: Aavegotchis and Liquidators can roam the map, collecting loose Alchemica spilled from mining.
+* **Алхимический ченнелинг:** Готчи в одиночку могут направлять свою энергию на добычу алхимии, используя очки [лояльности](/traits#kinship) (сродства) к геймеру.
+* **Коллективный ченнелинг:** Метод добычи ресурсов, когда Готчи объединяют свои усилия, а на участке имеется соответствующая установка (комбайн). Участие в коллективном ченнелинге допускается для Готчи, состоящих в Гильдии, имеющих соответствующий знак, и присутствующих на участке во время коллективной добычи ископаемых. Чем больше Готчи, тем быстрей идет добыча ресурсов.
+* **Фарминг**. Как только на участке появится Комбайн, ресурсы алхимии начнут накапливаться, и постоянно определенное их количество (**Х**) будет поступать в хранилище, (**Y**) количество будет перетекать на соседние участки, а (<0>Z</0>) попадать в Великий портал.
+* **Сбор урожая**: Как Готчи, так и Ликвидаторы могут бродить по Готчиверсии, собирая алхимику, потерянную при добыче полезных ископаемых.
 
-Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+Торговля ресурсами будет проходить на бирже [Gotchus Alchemica (GAX)](/gotchus-alchemica-exchange).
 
-## Строительство на участках во вселенной.
+## Строительство на участках во вселенной
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+**Установки** — это конструкции, которые строят на земельных участках для разных целей. Их создают путем комбинации разных видов ресурсов, а при желании их всегда можно продать за GHST на [Базаре](/baazaar).
 
-Confirmed Installations include:
+Вот примерный список установок:
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Установка строится не за один блок блокчейна, а за несколько, но этот процесс можно ускорить, заплатив внутриигровой валютой GLMR (вознаграждение за майнинг ликвидности GAX), которая зарабатывается при предоставлении ликвидности на бирже Gotchus Alchemica Exchange (GAX).
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+Арт-объекты — это эстетические NFT, которыми можно украшать свой участок, однако они не влияют на статы. Просто выглядят круто.
 
-## Готчи Токеномика.
+## Токеномика Готчи
 
 ### Total Supply
 
