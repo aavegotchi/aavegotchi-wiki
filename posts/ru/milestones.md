@@ -7,16 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
-* On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
-* The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.
-<p></p>
+## [На Полигоне запущены аукционы "Ставь, чтобы заработать" (Bid-to-Earn)!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* Разработчики из Pixelcraft сообщили 14.07.2021, что первый аукцион нового типа стартует 15.07.2021 в 17:00 МСК.
+* Аукцион рассчитан на 72 часа. Завершение его ожидается в воскресенье в 17:00 МСК.<p></p>
 
-## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
-* On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
-* After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
-* If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
-<p></p>
+## [Голосование за 2 поколение Готчи стартовало!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+* Предложение по сигналу Aavegotchi Haunt 2 уже доступно! Анонсировали его 08.07.2021.
+* На голосование вынесено предложение по запуску второго поколения Готчи.
+* После бурного обсуждения, если предложение будет принято, будет проведен еще один раунд голосования на AavegotchiDAO.<p></p>
 
 ## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
 * On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
@@ -28,8 +26,8 @@ contributors:
 * Read the REALM Litepaper and participate!
 <p></p>
 
-## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
-* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
+## [Открыто голосование за AGIP8 и AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIPs 8 и 9 теперь живут 11 июня 2021! Изучите подробности и отдайте свой голос за будущее проекта.
 <p></p>
 
 ## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
@@ -47,10 +45,9 @@ contributors:
 * The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
 <p></p>
 
-## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
-* On 12 May 2021, Pixelcraft introduces AGIP7 - Earn XP for Successful Signal Proposals
-* The AGIP was proposed by our Aassistant Moon!
-<p></p>
+## [Голосование за пакет предложений AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
+* 12.05.2021 года от Pixelcraft поступил запрос на голосование по предложению AGIP7. Можно заработать очки опыта за успешные предложения.
+* AGIP был предложен нашим помощником с ником Moon!<p></p>
 
 ## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
 * On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
