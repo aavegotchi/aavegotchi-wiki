@@ -137,25 +137,25 @@ table_installations
 
 ## Токеномика Готчи
 
-### Total Supply
+### Эмиссия (общее предложение) земель
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+Число участков составляет 420 069 штук. Во время первого этапа было разблокировано 155 069 участков, распределение которых будет идти 2 года. Вместе они составили Цитадель и Сетку. Остальные земельные участки сейчас находятся в неактивном состоянии в Пригороде (The Beyond). Спустя два года они будут разблокированы, чтобы у игроков появились новые возможности (Этап 2-3).
 
-### Distribution
+### Распределение
 
-REALM Parcels will be distributed in two main ways:
+Земли распределяются двумя путями:
 
-Method 1: Incentivized GBM Auctions (80%)
+Метод 1: GBM Аукционы (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Это необычные аукционы по запатентованной технологии с элементом стимулирования. Участники аукционов могут делать ставки на участки на карте Готчиверсии. Проигравшие в этом своеобразном соревновании также являются и победителями. Вместо участка они неплохо заработают за время аукциона, пополнив запасы GHST. Эта система аукционов существует с 2019 года, будучи разработанной и запатентованной создателями проекта Cryptographs. Они предоставили Pixelcraft Studios официальную лицензию на все NFT-дропы, включая второе поколение Готчи, земли и даже экипировку.
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Стимулирующий аукцион является уникальным в своем роде и решает проблемы, присущие FCFS-аукционам, однако победителем в нем по-прежнему становится тот, кто больше всего инвестирует в игру.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Чтобы у тех, кто не победил в аукционе, была возможность обзавестись землей, оставшиеся 20 процентов участков были переданы в фонд лотереи и будут разыграны посредством генератора случайных чисел Chainlink VRF.
 
-Method 2: Raffle (20%)
+Метод 2: Лотерея (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+Участие в лотерее дает шанс получить земельный участок. Для этого необходимо иметь хотя бы один Дроп-билет, который предоставляет вход в лотерею, разыгрывающую порталы и земли. Чем больше билетов, тем выше шансы. Заработать Дроп-билеты можно путем участия в миссиях, меняя баллы FRENS или [другие лотерейные билеты](/staking#purchasing-raffle-tickets). За 10 000 FRENS дают один Дроп-билет. Так что [стейкайте GHST](/staking) и накапливайте баллы FRENS.
 
 ### Дроп-билеты
 
