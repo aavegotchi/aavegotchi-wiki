@@ -1,7 +1,7 @@
 ---
 author: Метавселенная
 date: '2020-04-23T07:00:00.000Z'
-title: 'Metaverse'
+title: 'Метавселенная'
 description: 'Все о Метавселенной Аавеготчи'
 image: "metaverse/metaverse.png"
 contributors:
@@ -62,7 +62,7 @@ contributors:
 #### Арена
 Это ключевая достопримечательность Сетки.
 
-Зачем она нужна, - да все просто, так как Готчи время от времени нужно выпустить пар.
+Зачем она нужна, — да все просто, так как Готчи время от времени нужно выпустить пар.
 
 Призраки с высокой [Духовной силой](/atokens) (токенами залога, приносящими процент на Aave) могут сражаться с другими персами в Королевском Батле, получая в случае выигрыша очки Духовной силы противников.
 
@@ -74,17 +74,17 @@ contributors:
 
 ## Размеры участков во вселенной
 
-Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+В игре присутствуют земельные участки трех размеров. По мере их возрастания увеличивается место для строительства и добычи Алхимии Готчей:
 
-* Humble: Contain smol deposits of Alchemica and building space
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space
-* Spacious: Contain huge deposits of Alchemica and building space
+* Маленький: небольшой запас алхимических ингредиентов и пространства для застройки.
+* Средний: больше ископаемых и места для ваших задумок.
+* Большой: огромные запасы алхимии и много места для строительства.
 
-*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+* Показатели алхимии и места выбираются рандомно генератором случайных чисел [Chainlink VRF](/glossary#chainlink-vrf) при покупке.
 
 <img class="bodyImage" src="/metaverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
-## Геймплей игрового проекта.
+## Геймплей игрового проекта
 
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
 
