@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: 'Основные вехи в развитии игры'
+description: 'Основные вехи в развитии проекта'
 contributors:
   - "unintelligent-nerd"
 ---
