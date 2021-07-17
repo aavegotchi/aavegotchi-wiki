@@ -54,26 +54,24 @@ contributors:
 * Ищите больше Бааджей для сбора в будущем:)
 * Информация поступила 04.05.2021 г.<p></p>
 
-## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
-* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
-* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
-* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
-* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
-<p></p>
+## [Команда Pixelcraft показала Дорожную карту развития Aavegotchi V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Привет, друзья! 28.04.2021 команда Pixelcraft анонсировала дорожную карту проекта V2 на следующие пару лет!
+* Этап 1: Инкубационный период (II-IV квартал 2021) — повысить популярность Аавеготчи, сделать ее мегапопулярной игрой среди знатоков криптовалюты.
+* Этап 2: Прорыв (I квартал 2022 - IV квартал 2023) — превратить игру Аавеготчи в настоящий мейнстрим.
+* Этап 3: Повсеместное распространение (I квартал 2024 г. - и дальше) — повысить узнаваемость Аавеготчи и превратить ее в криптоигру, пользующуюся всеобщей популярностью.<p></p>
 
-## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
-* Baazaar fees are now increased by 0.5% to 3.5%
-* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
+## [Голосование за AGIP №6 ПРОХОДИТ!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* Комиссия на Базаре будет увеличена на 0,5% — до 3,5%.
+* Вскоре запланировано еще одно голосование для владельцев Готчи. Информация была опубликована 19.04.2021 г.
 * Post published on 19 April 2021
 <p></p>
 
-## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Fren, we got you covered!
-* The Aavegotchi team expands!
-* More collaborations announced!
-* More discussions on AavegotchiDAO
-* Post published on 18 April 2021
-<p></p>
+## [Внимание!  Первый призыв сообщества Аавеготчи](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Пропустили первый сбор комьюнити? Читайте новости, чтобы быть в курсе всего важного.
+* Команда Аавеготчи расширяется!
+* Новые совместные проекты будут вскоре запущены!
+* Участникам Аавеготчи DAO предстоит больше обсуждений.
+* Информация обнародована 18.04.2021.<p></p>
 
 ## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
 * Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
