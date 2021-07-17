@@ -324,39 +324,32 @@ contributors:
 * GHST содержатся на более чем двух тысячах уникальных адресов! Это крутотень!
 <p></p>
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+## [Свежие, как горячие пирожки, новости о пресейле! Обязательно к прочтению!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* Новости о предпродаже токенов были опубликованы 10.09.2020!<p></p>
+
+## [Кривая связывания запущена в тестовой сети Rinkeby ](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* Запуск кривой связывания токенов в тестовой сети Rinkeby состоялся 03.09.2020.<p></p>
+
+## [Поговорим об Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Самое первое заседание Aavegotchi's Ask Me Anything (AMA) состоялось 1 сентября 2020 года<p></p>
+
+## [Состоялась частная распродажа!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Частная продажа прошла 20.08.2020.
+* Команда Аавеготчии запустила [Телеграм-чат](https://t.me/aavegotchi)!
+* Выпуск [Вайтпейпер](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view).
 <p></p>
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
-<p></p>
+## [Учимся на Агента Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* 13.08.2020 к учебе в академии Агентов Аавеготчи присоединились Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph и Unintelligent_nerd!
+* Сейчас в Аавеготчи более 120 будущих Агентов!<p></p>
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
-<p></p>
+## [JC Crown стал частью команды и работает над запуском миссий в Аавеготчи](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Это знаменательное событие состоялось 29.07.2020.
+* Миссии Аавеготчи были запущены в тот же день!<p></p>
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
-<p></p>
+## [Ник Мадж стал частью Аавеготчи](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Ник Мадж стал частью нашей команды 22.07.2020.<p></p>
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
-<p></p>
-
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
-<p></p>
-
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
-<p></p>
-
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
-<p></p>
+## [Первый пост Аавготчи на Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Первый пост появился в блоге Аавеготчи на Medium 14.07.2020!
+* Xibot стал частью команды разработчиков игрового проекта!<p></p>
