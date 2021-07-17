@@ -211,48 +211,46 @@ contributors:
 ## [Результаты лотереи на тему Aave!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
 * Информация для нашего сообщества опубликована 12.12.2020!
 * Доводим до вашего сведения, что определена дата запуска Аавеготчи. Это 04.01.2021!
-* Результаты розыгрыша лотереи на тему Aave просто поразительны. a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+* Результаты розыгрыша лотереи на тему Aave просто поразительны. Интерес к лотерее зашкаливал. Было поставлено на 66% больше лотерейных билетов, чем в розыгрыше экипировки на тему Chainlink.
+* Binance добавила в листинг GHST.
+* Помогите Другу! Один игрок отправил все свои токены LINK на стейкинг GHST :(
+* Отмечаем именины нашего токена — GHST уже 3 месяца. Вечеринка по этому случаю состоится 14.12.2020!
+* Презентация Джесси с CGC на тему “Взаимодействие аватаров для построения отличной WEB3 MMORPG” (ищите [материал](/posts/media) в СМИ)!
 <p></p>
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [Игровой процесс в Аавеготчи стартует 04.01.2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* 12.12.2020 на Coindesk появился материал о запуске геймплея Аавеготчи, назначенного на 04.12.2021. Отличная новость. Ждем с нетерпением!
 <p></p>
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [Лотерея с экипировкой на тему Aave объявляет о бонусных NFT](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* 06.12.2020 стало известно, что Aave и Аавеготчи проведут мероприятие 08.12.2020, чтобы запустить розыгрыш экипировки на тему Aave.
+* Во время тематического розыгрыша вы можете получит бонусные NFT от Frens4Ever! Поймай CoderDangotchi и Jessegotchi, если сможешь!
 <p></p>
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+## [ВИКИ Аавеготчи уже запущена. Ученье — свет!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* 27.12.2020 была запущена наша ВИКИ. Агенты, требуется помощь, чтобы заполнить ее!
+* У Аавеготчи сразу две номинации на премию NFT 2020. Юху!
+* Вау! Аавеготчи нужен разработчик! Заинтересованы? Присоединяйтесь к нашей дружной семье!
 <p></p>
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
-<p></p>
+## [Ку-Ку! Вот что будет разыгрываться во время лотереи на тему Aave](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* Обзор экипировки на тему Aave Супергеройских Мстителей от 25.12.2020.
+* В комплекте наборы экипировки Марка, Джордана, Стани-Готчи!<p></p>
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi 
-<p></p>
+## [Aave инвестирует в Аавеготчи!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Компания Aave инвестировала в развитие Pixelcraft Studios! Информация от 23.12.2020.
+* FYI Pixelcraft Studios теперь вплотную занимается Аавеготчи. Это основная команда разработчиков.<p></p>
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+## [Фанфики об Аавеготчи Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
 * An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
 <p></p>
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [Победила дружба!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* Все ждали 13.11.2020, когда пройдет розыгрыш с помощью Chainlink VRF. Результаты ошеломили! Все — победители!
 <p></p>
 
-## [Информация опубликована 29.01.2020 г.](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+## [А-ю-реди?](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* Надеемся, вы готовы! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
 <p></p>
 
 ## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
@@ -272,7 +270,7 @@ contributors:
 <p></p>
 
 ## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
+* Вау! Вау! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
 * Announcing the Mission 9 Contest Winners
 <p></p>
 
