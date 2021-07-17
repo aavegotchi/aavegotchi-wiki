@@ -241,8 +241,8 @@ contributors:
 * Компания Aave инвестировала в развитие Pixelcraft Studios! Информация от 23.12.2020.
 * FYI Pixelcraft Studios теперь вплотную занимается Аавеготчи. Это основная команда разработчиков.<p></p>
 
-## [Фанфики об Аавеготчи Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+## [Эммм! Фанфики об Аавеготчи](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* Фанфики про Готчи и Аавеготчи ❤ Chainlink, которые подготовили на конкурс наши [соискатели](https://twitter.com/sinkielinkie)! Информация опубликована 20.11.2020.
 <p></p>
 
 ## [Победила дружба!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
@@ -250,86 +250,78 @@ contributors:
 <p></p>
 
 ## [А-ю-реди?](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Надеемся, вы готовы! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+* Надеемся, вы готовы! Ловите пошаговое руководство по запланированным в будущем лотереям и розыгрышам. Информация появилась 09.11.2020!
 <p></p>
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [Чумовая Хэллоуинская вечеринка!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* Мы отчитались 04.11.2020 о проведении потрясающей вечеринки в канун Хэллоуина!
+* Определены победители конкурса костюмов!
+* Проведен тестовый розыгрыш призов в прямом эфире в тестовой сети Kovan.<p></p>
+
+## [Создайте своего собственного Готчи!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* 29.11.2020 было запущено интерактивное мини-приложение Aavegotchi Builder. В нем вы можете менять черты Готчи и смоделировать его уникальный внешний вид с помощью доступной экипировки!<p></p>
+
+## [Хэллоуин не за горами! А вот и вечеринка](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+* Информация о том, как пройдет вечеринка в канун Хэллоуина, была опубликована ​​28.10.2020.
+* Проведем конкурс на лучшие костюмы для Готчи!
+* Под музыкальное сопровождение от Харрисона Феста (Harrison First) мы поприветствуем Cherry, OpenSea и Polygon. Вечеринка начнется с выступления Стани Кулечова из Aave. Ждем с нетерпением!
 <p></p>
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [Бип! Бип!  Уходим в отрыв!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* Вау! Вау! По информации от команды, поступившей 25.10.2020, хэллоуинская вечеринка пройдет в пятницу, 30.10.2020 года.  Будьте там!
+* Вот кто победил в конкурсе 9 Миссии.<p></p>
+
+## [Что-то назревает...](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+* Разработчики объявили 23.10.2020, что 10.11.2020 пройдет розыгрыш первой из 3-х лотерей, проведение которых намечено до запуска игры в основной сети!
+* Тема розыгрыша экипировки и других бонусов — LINK. Лотерея проводится, чтобы отпраздновать партнерство с Chainlink и использование генератора случайных чисел Chainlink VRF.
 <p></p>
 
-## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+## [Полный вперед!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* Стейкинг GHST теперь доступен в основной сети с 20.10.2020.<p></p>
+
+## [Тест за тестом! Аудиты перед запуском стейкинга токенов пройдены](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* Важная информация от 18.10.2020 года! Стейкинг GHST прошел [проверку](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) — ошибок и сбоев нет!
+* Стейкинг GHST в основной сети будет запущен в течение 72 часов
+* Результаты первого голосования Аавеготчи DAO —  99% сказали ДА!
+* Аавеготчи победил в конкурсе OKex “DeFi+NFT”!<p></p>
+
+## [Первое голосование Аавеготчи DAO](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
+* Внимание! Внимание! Внимание! Первое GHST-голосование пройдет 14.10.2020 года! Первое предложение Аавеготчи DAO — голосуйте за масштабирование!
 <p></p>
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Вау! Вау! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
+## [Надвигается ураган призрачной жути! Приветствуем наших друзей с их порталов ](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 13.10.2020! В этот день мы поприветствуем наших друзей  с порталов в тестовой сети Kovan. Юху!
 <p></p>
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+## [Результаты конкурса мемов Аавеготчи! Скоро будем чествовать победителей!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* Восьмая Миссия Аавеготчи заключалась в конкурсе мемов. Победители будут объявлены 10.10.2020 года!
+* Конкурс открыт для всех желающих создателей креатива из Аавеготчи!<p></p>
+
+## [Специальная экипировка OKex-тематики](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* Информация от 07.10.2020 года! Хотите стать обладателями уникальных NFT, созданных в сотрудничестве Аавеготчи и биржи OKex? Сделайте депозит токенов GHST на OKex!
 <p></p>
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+## [Стейкинг Uniswap GHST-ETH в тестовой сети Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* Был запущен пул ликвидности на Uniswap для пары GHST-ETH. Запуск состоялся в тестовой сети Kovan 02.10.2020.
+* Мемы про Готчи и Аавеготчи наводняют наш сабреддит!<p></p>
+
+## [Стейкинг GHST уже доступен в тестовой сети Kovan!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* Стейкайте GHST и заводите друзей! Стейкинг GHST в тестовой сети Kovan доступен с 29.10.2020!
 <p></p>
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [Порталы Аавеготчи уже в тестовой сети Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* На 25.09.2020 Аавеготчи сообщает, что порталы доступны в тестовой сети Kovan!
+* Голосование Аавеготчи DAO за добавление ликвидности GHST на Uniswap.
+* Вот кто победил в седьмой Миссии "Just DAO it!"<p></p>
+
+## [Отпразднуем сотрудничество Аавготчи и Chainlink!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* Задружбанили с CHAINLINK! Coderdan сообщает 24.09.2020, что теперь в Аавеготчи работает генератор случайных чисел VRF от Chainlink.
+* Читайте [полезную статью](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) о Chainlink, чтобы понять, как работает VRF Chainlink.
 <p></p>
 
-## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
-<p></p>
-
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
-<p></p>
-
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
-<p></p>
-
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
-<p></p>
-
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* Gotchi memes flooooding Aavegooootchi Reddit!
-<p></p>
-
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
-<p></p>
-
-## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
-<p></p>
-
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
-<p></p>
-
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [Пресейл: токены GHST разошлися менее чем за минуту!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* 14.09.2020 токен GHST запущен в основной сети! Пресейл занял меньше минуты! :))
+* GHST содержатся на более чем двух тысячах уникальных адресов! Это крутотень!
 <p></p>
 
 ## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
