@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+title: 'Дорожная карта'
+description: 'Дорожная карта Аавеготчи'
 contributors:
   - "hackingmoneyph"
   - "unintelligent-nerd"
@@ -10,24 +10,24 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">Пора приключений настала!</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+Всем привет. Присоединяйтесь к нам в нашем путешествии, чтобы сделать Аавеготчи — самой лучшей игрой. Наша дорожная карта включает в себя три раздела. Читайте подробнее.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#incubation>Incubation</a></li>
-<li><a href=#breakout>Breakout</a></li>
-<li><a href=#ubiquitous>Ubiquitous</a></li>
+<li><a href=#incubation>Инкубация.</a></li>
+<li><a href=#breakout>Прорыв.</a></li>
+<li><a href=#ubiquitous>Известность.</a></li>
 </ol>
 
 </div>
 
-## Incubation
+## Инкубация
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
@@ -62,7 +62,7 @@ Milestones: 25K MAU / 5K DAU
 * Creator Economy Wearables Dapp Launch
 * AavegotchiDAO V2 (Metamorphosis)
 
-## Breakout
+## Прорыв.
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
@@ -80,7 +80,7 @@ Milestones: 1M MAU / 25K DAU
 * More Haunts (planned)
 * AavegotchiDAO V3 (Oasis)
 
-## Ubiquitous
+## Известность.
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
