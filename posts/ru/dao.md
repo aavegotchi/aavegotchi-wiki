@@ -113,13 +113,13 @@ AavegotchiDAO появился на свет одновременно в ден�
 * Уровень: Polygon.
 
 ## Участие в управлении
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+Интригует... Как принять участие в AavegotchiDAO? Друг, мы уверены, что ты разберешься!
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+Во-первых, можно обсуждать будущее проекта на [форуме AavegotchiDAO](https://dao.aavegotchi.com/). Приветствуем всех!
 
-Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+Во-вторых, в документах [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) подробно обозначены те функции, которые члены AavegotchiDAO могут использовать для осуществления важных изменений, и за которые может быть проведено голосование. Например, если выбрать asUSD в качестве [дополнительного залога](/posts/atokens). Изменение игровой механики может быть проведено путем внедрения функции `addCollateralTypes` с указанием asUSD внутри.
 
-More details will be fleshed out once the game releases!
+Больше деталей будет доступно позже!
 
 ## Форум AavegotchiDAO
 
@@ -131,81 +131,81 @@ More details will be fleshed out once the game releases!
 
 ## Создание Сигнальных предложений
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+Процесс создания Сигнальных предложений для #GotchiGang осуществляется следующим образом:
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* Указывается Автор + GotchiID.
+* Ставится ссылка на ветку обсуждений в Discourse. Предложения без обсуждения на форуме будут удаляться из Snapshot.
+* Определяется итоговый результат обсуждения (обоснование, график реализации, цели, ключевые показатели полезности для DAO. Дублирование уже существующих предложений будет запрещено.
+* Какой ожидается эффект.
+* Конечная цель и преимущества.
+* Потенциальные риски и непредвиденные последствия внедрения.
+* Возможное внедрение альтернативных планов (План B, План C и т.д.).
+* Время существования Сигнального предложения не должно превышать 30 дней. Это позволит отображать на доске Snapshot Community только активные предложения.
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+Подробнее о процессе подачи сигнальных предложений читайте в [Medium](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Голосование за предложение.
+## Голосование за предложение
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+Голосование в проекте реализовано двумя способами — по модели DApp Snapshot (1) и/или голосование в Aragon (2).
 
 
-### Snapshot Voting
+### Модель DApp Snapshot
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Это децентрализованное приложение на Ethereum. Не требуется газ, так как проводится не в on-chain. Адрес приложения [тут](https://snapshot.page/#/aavegotchi.eth).
 
-To vote on Snapshot, follow the steps below:
+Голосование проводится так:
 
-1). Go to an open proposal.
+1). Найдите открытое предложение.
 
-2). Connect your wallet.
+2). Подключите свой кошелек.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Выберите интересующий вас опрос, нажмите на него. Во всплывающем окне выберите вариант ответа и нажмите "Vote".
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Ваш Metamask высветится на всплывающем окне. Проверьте данные. Подпишите транзакцию. Все готово!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
-### Aragon Voting
+### Голосование в Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon — это специальный инструмент для создания и управления DAO на Ethereum. Голосование в Aragon проводится on-chain. Требуется газ!
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Страница Aavegotchi на Aragon находится [тут](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Голосование осуществляется в такой последовательности:
 
-1). Go to an open proposal.
+1). Находите открытое предложение.
 
-2). Connect your wallet.
+2). Подключаете свой кошелек.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Выбираете “Да” или “Нет.
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Во всплывающем окне появится транзакция Metamask. Выберите актуальную цену за газ, например на сайте [gasnow](https://gasnow.org/). Так как транзакция обязательно должна пройти, чтобы был засчитан ваш голос.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Как только транзакция будет добавлена в блок, ваш голос будет учтен.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
 ## Предложения по улучшению игры (AGIP)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Знаете, что можно голосовать на Aragon? В Aragon может быть несколько текущих и множество уже решенных предложений по улучшению Aavegotchi (AGIP)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Зайдите на [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals), чтобы посмотреть историю предыдущих голосований. Чтобы оставаться в курсе будущих голосований, подпишитесь на [соцсети](/socialmedia) проекта.
 
-## Сокровищница.
+## Сокровищница
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAO будет получать комиссию в виде 0,3% ото всех сделок на кривой связывания Aavegotchi в мейннет Ethereum. В настоящее время это основной источник средств DAO.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Распорядителями денег будут члены AavegotchiDAO. Они будут решать, как будут тратиться денежные средства.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+Вы всегда можете посмотреть, сколько денег в [сокровищнице](https://aavegotchi.com/treasury) AavegotchiDAO.
