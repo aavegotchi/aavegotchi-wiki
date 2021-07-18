@@ -40,11 +40,11 @@ contributors:
 
 ## Генезис (Genesis)
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*См.* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+AavegotchiDAO появился на свет одновременно в день распределения токенов GHST. Владельцы токенов GHST могли проводить голосование за количество средств, выделяемых команде Pixelcraft Studios на поддержание проекта. Средства выделялись через [кривую привязки токенов (TBC)](/curve). Одним из первых решений стало увеличение количества токенов в обращении с 50 000 DAI до 100 000 DAI в месяц. Его одобрили 99% держателей токена 18.10.2020 года. Следующим крупным решением будет переход на AavegotchiDAO Metamorphosis.
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+На этом этапе держатели токенов GHST не получают награды за активное участие в управлении AavegotchiDAO.
 
 Фичи Genesis:
 
@@ -55,64 +55,64 @@ Token holders will not receive rewards in GHST for active participation in this 
 * Наград нет.
 * Уровень: Мейннет Ethereum.
 
-## Кокон (Cocoon).
+## Кокон (Cocoon)
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+Версия 1.5 AavegotchiDAO. Это промежуточная станция между [Генезисом](/dao#genesis) и [Метаморфозой](/dao#metamorphosis). Основная задача этого этапа децентрализации — изменение игровой механики.
 
-Its features include:
+Фичи Cocoon:
 
-* Contract calls called by Pixelcraft
-* Без апгрейдов смарт-контрактов.
+* Вызов смарт-контакта с помощью Pixelcraft.
+* Без апгрейдов смарт-контракта.
 * Управление держателями токенов GHST.
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Платформа: Snapshot/Discourse.
+* Награда — приобретение [опыта](/traits#experience) за голосование.
+* Уровень: Polygon.
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+На данной стадии пользователи могут воспользоваться двумя видами голосований: Сигнальное(1) и Основное(2) предложение.
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Сигнальное предложение — это аналог петиции. Его по специальному шаблону может опубликовать любой желающий на вкладке «Community» на странице [Snapshot](https://snapshot.page/#/aavegotchi.eth). Голосовать за будущее проекта вовсе не обязательно. Однако если предложение наберет необходимое для кворума число голосов, оно автоматически становится Основным предложением. Напоминаем, что перед тем, как сделать Сигнальное предложение, обсудите его с остальными членами комьюнити в Дискорде или на [Discourse/Форуме AavegotchiDAO](https://dao.aavegotchi.com/). Сделать это нужно, чтобы понимать, найдет ли ваше Сигнальное предложение поддержку, и есть ли смысл заморачиваться с его созданием. [Сигнальное предложение](/dao#creating-signal-proposals) сможет стать основным, если наберется кворум.
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+Это значит, что за данное конкретное предложение должно проголосовать 20% держателей циркулирующих токенов GHST, имеющих право голоса на Polygon.
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+Основное предложение — это идея, которую выдвигают разработчики Pixelcraft. Основное предложение может быть основано на Сигнальных предложениях, достигших или почти достигших кворума. Голосовать за Основное приложение нужно обязательно. За это положены очки опыта.
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+Тому Aavegotchi, которого вы отметили при создании Сигнального предложения, будет положено 150 [XP](/traits#experience)*, если предложение наберет кворум и будет повышено до Основного.
 
-*May increase or decrease throughout COCOON period
+*Награда в виде очков опыта может увеличиваться или уменьшаться в течение всего периода Cocoon.
 
-## Преображение (Metamorphosis).
+## Преображение (Metamorphosis)
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+Вторая фаза AavegotchiDAO нацелена на модификацию игровой механики. Она влияет на число Aavegotchis, добавление новых внутриигровых объектов, снабжение их определенными функциями. По мере приближения миграции в AavegotchiDAO Oasis, будет проведено голосование.
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+Если вас интересует полный список фич данного этапа AavegotchiDAO, его можно найти в разделе [Governance](https://docs.aavegotchi.com/overview/governance) смарт-контрактной документации Aavegotchi.
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+За участие в голосовании каждый держатель токенов получит дополнительные GHST.
 
-Its features include:
+Частичные фичи Метаморфозиса:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Вызов смарт-контракта.
+* Улучшение механики проекта.
+* Управление владельцами Aavegotchi и держателями GHST.
+* Платформа: пользовательский dapp-интерфейс.
+* Награды: [XP](/traits#experience) + баджи за голосование.
+* Уровень: Polygon.
 
-## Оазис (Oasis).
+## Оазис (Oasis)
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+Это последний этап на пути к децентрализации AavegotchiDAO. Однако не последний в модернизации проекта под управлением DAO. На этом этапе решения, связанные с Game и REALM механикой, расходами на развитие экосистемы, обновлением смарт-контрактов и т.д., будут приниматься членами AavegotchiDAO.
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Держателям токенов будет положено вознаграждение за голосование в виде токенов GHST.
 
-Its features include:
+Фичи Oasis:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Вызов смарт-контрактов.
+* Апгрейд определенных игровых механик.
+* Управление владельцами Aavegotchi и держателями GHST.
+* Платформа: Aavegotchi Realm.
+* Награды: [XP](/traits#experience) + баджи за голосование.
+* Уровень: Polygon.
 
-## Участие в управлении.
+## Участие в управлении
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
 
 First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
@@ -121,15 +121,15 @@ Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) d
 
 More details will be fleshed out once the game releases!
 
-## Форум AavegotchiDAO.
+## Форум AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Управление AavegotchiDAO осуществляется путем обсуждений в Discourse. На форуме можно централизованно обсуждать важные темы, касающиеся игровой механики проекта, подавать запросы на финансирование и другие предложения и рекомендации.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Команда разработчиков надеется, что #GotchiGang в будущем может стать моделью для игр DAO. Так что принимайте участие в обсуждениях и не подводите товарищей!
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Форум доступен по [ссылке](https://dao.aavegotchi.com/).
 
-## Создание Сигнальных предложений.
+## Создание Сигнальных предложений
 
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
