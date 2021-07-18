@@ -266,7 +266,7 @@ table_agip10
 <hr />
 
 ### Name of Aavegotchi Marketplace
-**Snapshot Voting**
+**Модель DApp Snapshot**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
@@ -296,7 +296,7 @@ table_marketplaceName
 
 ### Eligibility of GHST-USDC LP tokens to earn FRENS
 
-**Snapshot Voting**
+**Модель DApp Snapshot**
 
 **Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
@@ -322,7 +322,7 @@ table_ghstUsdcLp
 
 ### Portals purchased in one transaction
 
-**Snapshot Voting**
+**Модель DApp Snapshot**
 
 **Proposal Summary:** How many Portals can be purchased in one transaction?
 
