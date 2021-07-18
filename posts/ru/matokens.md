@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+title: 'маТокены'
+description: 'Все о маТокенах в Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -18,7 +18,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#using-the-aavegotchi-bridge>Using the Aavegotchi Bridge</a></li>
