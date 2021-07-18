@@ -84,13 +84,13 @@ Milestones: 1M MAU / 25K DAU
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
-Ubiquitous is the final phase of our multi-year journey. It spans from Q1 2024 to beyond!
+Заключительный этап нашего многолетнего плана. It spans from Q1 2024 to beyond!
 
 Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal*
 
-Milestones: 10M MAU / 50K DAU
+Вехи: 10M MAU/50K DAU
 
-* More Haunts (planned)
-* REALM Public Land Sales
-* Aavegotchi Minigame Builder
-* Aavegotchi Hardware Wallet
+* Больше поколений призраков (планируется).
+* Публичная продажа земель.
+* Конструктор мини-игр Аавеготчи.
+* Аппаратный кошелек Аавеготчи.
