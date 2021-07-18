@@ -254,7 +254,7 @@ amTokens — это токены ликвидности из пулов Aave, и
 
 Подробнее о пулах ликвидности можно почерпнуть информацию в [руководстве](https://finematics.com/liquidity-pools-explained/) Finematics.
 
-### maTokens
+### маТокены
 maTokens являются аналогом Aave V2 aTokens на Polygon. Их разработкой занимался представитель команды Аавеготчи [Ник Мадж](/team#nick-mudge).
 
 Чтобы понять, как обменять токены из основной сети Ethereum в maTokens в Polygon, изучите [эту](/matokens) страницу нашей ВИКИ.
