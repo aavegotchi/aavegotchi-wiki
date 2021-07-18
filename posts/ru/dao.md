@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'Все про Аавеготчи DAO'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
@@ -12,200 +12,200 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">Руководство по Аавеготчи DAO</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+[DAO](glossary#dao) — децентрализованная форма управления, позволяющая держателям токенов голосовать за изменения, оптимизацию и модернизацию.
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Сообщество инвесторов DAO получает возможность управлять будущим проекта, принимая коллективные решения. Aavegotchi, как и многие другие успешные DeFi-проекты, например — Compound и Synthetix, следует по пути постепенной децентрализации. Pixelcraft Studios организовали мероприятие по распределению (продаже) токенов управления — DAICO (DAO+ICO), в результате которого управление Aavegotchi, включая всю игровую механику, смарт-контракты и финансирование, перейдет под эгиду Аавеготчи DAO, но с учетом преобладающей нормативной среды. Это будет осуществлено в три этапа.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#cocoon>Cocoon</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
-<li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Предложения по улучшению игры (AGIP)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#genesis>Генезис (Genesis).</a></li>
+<li><a href=#cocoon>Кокон (Cocoon).</a></li>
+<li><a href=#metamorphosis>Преображение (Metamorphosis).</a></li>
+<li><a href=#oasis>Оазис (Oasis).</a></li>
+<li><a href=#participating-in-governance>Участие в управлении.</a></li>
+<li><a href=#aavegotchidao-forum>Форум AavegotchiDAO.</a></li>
+<li><a href=#creating-signal-proposals>Создание Сигнальных предложений.</a></li>
+<li><a href=#voting>Голосование за предложение.</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Предложения по улучшению игры (AGIP).</a></li>
+<li><a href=#treasury>Сокровищница.</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## Генезис (Genesis)
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*См.* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+AavegotchiDAO появился на свет одновременно в день распределения токенов GHST. Владельцы токенов GHST могли проводить голосование за количество средств, выделяемых команде Pixelcraft Studios на поддержание проекта. Средства выделялись через [кривую привязки токенов (TBC)](/curve). Одним из первых решений стало увеличение количества токенов в обращении с 50 000 DAI до 100 000 DAI в месяц. Его одобрили 99% держателей токена 18.10.2020 года. Следующим крупным решением будет переход на AavegotchiDAO Metamorphosis.
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+На этом этапе держатели токенов GHST не получают награды за активное участие в управлении AavegotchiDAO.
 
-Features for Genesis include:
+Фичи Genesis:
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* Без смарт-контрактов.
+* Без апгрейдов смарт-контрактов.
+* Управление держателями токенов GHST.
+* Платформа: Aragon.
+* Наград нет.
+* Уровень: Мейннет Ethereum.
 
-## Cocoon
+## Кокон (Cocoon)
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+Версия 1.5 AavegotchiDAO. Это промежуточная станция между [Генезисом](/dao#genesis) и [Метаморфозой](/dao#metamorphosis). Основная задача этого этапа децентрализации — изменение игровой механики.
 
-Its features include:
+Фичи Cocoon:
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Вызов смарт-контакта с помощью Pixelcraft.
+* Без апгрейдов смарт-контракта.
+* Управление держателями токенов GHST.
+* Платформа: Snapshot/Discourse.
+* Награда — приобретение [опыта](/traits#experience) за голосование.
+* Уровень: Polygon.
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+На данной стадии пользователи могут воспользоваться двумя видами голосований: Сигнальное(1) и Основное(2) предложение.
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Сигнальное предложение — это аналог петиции. Его по специальному шаблону может опубликовать любой желающий на вкладке «Community» на странице [Snapshot](https://snapshot.page/#/aavegotchi.eth). Голосовать за будущее проекта вовсе не обязательно. Однако если предложение наберет необходимое для кворума число голосов, оно автоматически становится Основным предложением. Напоминаем, что перед тем, как сделать Сигнальное предложение, обсудите его с остальными членами комьюнити в Дискорде или на [Discourse/Форуме AavegotchiDAO](https://dao.aavegotchi.com/). Сделать это нужно, чтобы понимать, найдет ли ваше Сигнальное предложение поддержку, и есть ли смысл заморачиваться с его созданием. [Сигнальное предложение](/dao#creating-signal-proposals) сможет стать основным, если наберется кворум.
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+Это значит, что за данное конкретное предложение должно проголосовать 20% держателей циркулирующих токенов GHST, имеющих право голоса на Polygon.
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+Основное предложение — это идея, которую выдвигают разработчики Pixelcraft. Основное предложение может быть основано на Сигнальных предложениях, достигших или почти достигших кворума. Голосовать за Основное приложение нужно обязательно. За это положены очки опыта.
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+Тому Aavegotchi, которого вы отметили при создании Сигнального предложения, будет положено 150 [XP](/traits#experience)*, если предложение наберет кворум и будет повышено до Основного.
 
-*May increase or decrease throughout COCOON period
+*Награда в виде очков опыта может увеличиваться или уменьшаться в течение всего периода Cocoon.
 
-## Metamorphosis
+## Преображение (Metamorphosis)
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+Вторая фаза AavegotchiDAO нацелена на модификацию игровой механики. Она влияет на число Aavegotchis, добавление новых внутриигровых объектов, снабжение их определенными функциями. По мере приближения миграции в AavegotchiDAO Oasis, будет проведено голосование.
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+Если вас интересует полный список фич данного этапа AavegotchiDAO, его можно найти в разделе [Governance](https://docs.aavegotchi.com/overview/governance) смарт-контрактной документации Aavegotchi.
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+За участие в голосовании каждый держатель токенов получит дополнительные GHST.
 
-Its features include:
+Частичные фичи Метаморфозиса:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Вызов смарт-контракта.
+* Улучшение механики проекта.
+* Управление владельцами Aavegotchi и держателями GHST.
+* Платформа: пользовательский dapp-интерфейс.
+* Награды: [XP](/traits#experience) + баджи за голосование.
+* Уровень: Polygon.
 
-## Oasis
+## Оазис (Oasis)
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+Это последний этап на пути к децентрализации AavegotchiDAO. Однако не последний в модернизации проекта под управлением DAO. На этом этапе решения, связанные с Game и REALM механикой, расходами на развитие экосистемы, обновлением смарт-контрактов и т.д., будут приниматься членами AavegotchiDAO.
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Держателям токенов будет положено вознаграждение за голосование в виде токенов GHST.
 
-Its features include:
+Фичи Oasis:
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Вызов смарт-контрактов.
+* Апгрейд определенных игровых механик.
+* Управление владельцами Aavegotchi и держателями GHST.
+* Платформа: Aavegotchi Realm.
+* Награды: [XP](/traits#experience) + баджи за голосование.
+* Уровень: Polygon.
 
-## Participating in Governance
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+## Участие в управлении
+Интригует... Как принять участие в AavegotchiDAO? Друг, мы уверены, что ты разберешься!
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+Во-первых, можно обсуждать будущее проекта на [форуме AavegotchiDAO](https://dao.aavegotchi.com/). Приветствуем всех!
 
-Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+Во-вторых, в документах [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) подробно обозначены те функции, которые члены AavegotchiDAO могут использовать для осуществления важных изменений, и за которые может быть проведено голосование. Например, если выбрать asUSD в качестве [дополнительного залога](/posts/atokens). Изменение игровой механики может быть проведено путем внедрения функции `addCollateralTypes` с указанием asUSD внутри.
 
-More details will be fleshed out once the game releases!
+Больше деталей будет доступно позже!
 
-## AavegotchiDAO Forum
+## Форум AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Управление AavegotchiDAO осуществляется путем обсуждений в Discourse. На форуме можно централизованно обсуждать важные темы, касающиеся игровой механики проекта, подавать запросы на финансирование и другие предложения и рекомендации.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Команда разработчиков надеется, что #GotchiGang в будущем может стать моделью для игр DAO. Так что принимайте участие в обсуждениях и не подводите товарищей!
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Форум доступен по [ссылке](https://dao.aavegotchi.com/).
 
-## Creating Signal Proposals
+## Создание Сигнальных предложений
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+Процесс создания Сигнальных предложений для #GotchiGang осуществляется следующим образом:
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* Указывается Автор + GotchiID.
+* Ставится ссылка на ветку обсуждений в Discourse. Предложения без обсуждения на форуме будут удаляться из Snapshot.
+* Определяется итоговый результат обсуждения (обоснование, график реализации, цели, ключевые показатели полезности для DAO. Дублирование уже существующих предложений будет запрещено.
+* Какой ожидается эффект.
+* Конечная цель и преимущества.
+* Потенциальные риски и непредвиденные последствия внедрения.
+* Возможное внедрение альтернативных планов (План B, План C и т.д.).
+* Время существования Сигнального предложения не должно превышать 30 дней. Это позволит отображать на доске Snapshot Community только активные предложения.
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+Подробнее о процессе подачи сигнальных предложений читайте в [Medium](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Voting
+## Голосование за предложение
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+Голосование в проекте реализовано двумя способами — по модели DApp Snapshot (1) и/или голосование в Aragon (2).
 
 
-### Snapshot Voting
+### Модель DApp Snapshot
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Это децентрализованное приложение на Ethereum. Не требуется газ, так как проводится не в on-chain. Адрес приложения [тут](https://snapshot.page/#/aavegotchi.eth).
 
-To vote on Snapshot, follow the steps below:
+Голосование проводится так:
 
-1). Go to an open proposal.
+1). Найдите открытое предложение.
 
-2). Connect your wallet.
+2). Подключите свой кошелек.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Выберите интересующий вас опрос, нажмите на него. Во всплывающем окне выберите вариант ответа и нажмите "Vote".
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Ваш Metamask высветится на всплывающем окне. Проверьте данные. Подпишите транзакцию. Все готово!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
-### Aragon Voting
+### Голосование в Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon — это специальный инструмент для создания и управления DAO на Ethereum. Голосование в Aragon проводится on-chain. Требуется газ!
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Страница Aavegotchi на Aragon находится [тут](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Голосование осуществляется в такой последовательности:
 
-1). Go to an open proposal.
+1). Находите открытое предложение.
 
-2). Connect your wallet.
+2). Подключаете свой кошелек.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Выбираете “Да” или “Нет.
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Во всплывающем окне появится транзакция Metamask. Выберите актуальную цену за газ, например на сайте [gasnow](https://gasnow.org/). Так как транзакция обязательно должна пройти, чтобы был засчитан ваш голос.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Как только транзакция будет добавлена в блок, ваш голос будет учтен.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
 ## Предложения по улучшению игры (AGIP)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Знаете, что можно голосовать на Aragon? В Aragon может быть несколько текущих и множество уже решенных предложений по улучшению Aavegotchi (AGIP)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Зайдите на [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals), чтобы посмотреть историю предыдущих голосований. Чтобы оставаться в курсе будущих голосований, подпишитесь на [соцсети](/socialmedia) проекта.
 
-## Treasury
+## Сокровищница
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAO будет получать комиссию в виде 0,3% ото всех сделок на кривой связывания Aavegotchi в мейннет Ethereum. В настоящее время это основной источник средств DAO.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Распорядителями денег будут члены AavegotchiDAO. Они будут решать, как будут тратиться денежные средства.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+Вы всегда можете посмотреть, сколько денег в [сокровищнице](https://aavegotchi.com/treasury) AavegotchiDAO.
