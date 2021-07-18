@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
+Базар (вторичный рынок) в Аавеготчи теперь доступен и в тестовой сети Мумбаи! Настройте свой кошелек Метамаск и попробуйте добыть несколько токенов из тестовой сети. Воспользуйтесь этим руководством.
 
 <div class="contentsBox">
 
@@ -47,22 +47,22 @@ Block Explorer URL (optional): https://mumbai-explorer.matic.today
 
 Как только заполните все поля, кликайте “Save”. You are now on Mumbai Testnet!
 
-## Getting tokens from Mumbai Faucet
+## Как получать токены из Mumbai Faucet
 
-1). Head over to the Mumbai Faucet at [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Зайдите в Mumbai Faucet (урл: [https://faucet.matic.network/](https://faucet.matic.network/)).
 
-2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
+2). Выберите токены для получения (например, MATIC), выставьте сеть по умолчанию (Мумбаи) и добавьте адрес своего кошелька Metamask в нужное поле.
 
-3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
+3). Жмакните «Отправить» и ловите токены в своем Метамаске.
 
-## Getting Mumbai GHST
+## Как получать токен GHST в Мумбаи
 
-Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
+После того, как вы получили MATIC на Метамаск и убедились, что Мумбаи работает корректно, попробуйте купить токен GHST.
 
-1). Head over to [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
+1). Перейдите на [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
 
-2). Connect to the Mumbai Testnet.
+2). Подключитесь к тестнет Мумбаи.
 
-3). Use the Mumbai MATIC tokens you have received to purchase Mumbai GHST by clicking the "Click to get MUMBAI GHST" button. Presto! You are done!
+3). Используйте токены MATIC для покупки GHST, нажав соответствующую кнопку "Click to get MUMBAI GHST". Получилось? Отлично!
 
-Have fun at the [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) fren!
+Теперь у вас есть возможность без труда шопиться на [Базаре](https://testnet.aavegotchi.com/baazaar/portals)!
