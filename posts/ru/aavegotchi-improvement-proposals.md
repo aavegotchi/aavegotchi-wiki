@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Предложения по улучшению игры (AGIP)'
-description: 'Подробно по улучшению игры (AGIP)'
+description: 'Предложения по улучшению игры (AGIP)'
 contributors:
   - "unintelligent-nerd"
 ---
