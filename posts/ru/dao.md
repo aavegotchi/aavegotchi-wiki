@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'Все про Аавеготчи DAO'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
@@ -12,33 +12,33 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">Руководство по Аавеготчи DAO</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+[DAO](glossary#dao) — децентрализованная форма управления, позволяющая держателям токенов голосовать за изменения, оптимизацию и модернизацию.
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Сообщество инвесторов DAO получает возможность управлять будущим проекта, принимая коллективные решения. Aavegotchi, как и многие другие успешные DeFi-проекты, например — Compound и Synthetix, следует по пути постепенной децентрализации. Pixelcraft Studios организовали мероприятие по распределению (продаже) токенов управления — DAICO (DAO+ICO), в результате которого управление Aavegotchi, включая всю игровую механику, смарт-контракты и финансирование, перейдет под эгиду Аавеготчи DAO, но с учетом преобладающей нормативной среды. Это будет осуществлено в три этапа.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#cocoon>Cocoon</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
-<li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Предложения по улучшению игры (AGIP)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#genesis>Генезис (Genesis).</a></li>
+<li><a href=#cocoon>Кокон (Cocoon).</a></li>
+<li><a href=#metamorphosis>Преображение (Metamorphosis).</a></li>
+<li><a href=#oasis>Оазис (Oasis).</a></li>
+<li><a href=#participating-in-governance>Участие в управлении.</a></li>
+<li><a href=#aavegotchidao-forum>Форум AavegotchiDAO.</a></li>
+<li><a href=#creating-signal-proposals>Создание Сигнальных предложений.</a></li>
+<li><a href=#voting>Голосование за предложение.</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Предложения по улучшению игры (AGIP).</a></li>
+<li><a href=#treasury>Сокровищница.</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## Генезис (Genesis)
 
 *See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
@@ -46,24 +46,24 @@ The first iteration of AavegotchiDAO was launched in tandem with the GHST token 
 
 Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-Features for Genesis include:
+Фичи Genesis:
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* Без смарт-контрактов.
+* Без апгрейдов смарт-контрактов.
+* Управление держателями токенов GHST.
+* Платформа: Aragon.
+* Наград нет.
+* Уровень: Мейннет Ethereum.
 
-## Cocoon
+## Кокон (Cocoon).
 
 V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
 
 Its features include:
 
 * Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
+* Без апгрейдов смарт-контрактов.
+* Управление держателями токенов GHST.
 * Platform: Snapshot/Discourse
 * Rewards: [XP](/traits#experience) for Core Votes
 * Layer: Polygon
@@ -80,7 +80,7 @@ If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/t
 
 *May increase or decrease throughout COCOON period
 
-## Metamorphosis
+## Преображение (Metamorphosis).
 
 Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
 
@@ -97,7 +97,7 @@ Its features include:
 * Rewards: [XP](/traits#experience) + badges for voting
 * Layer: Polygon
 
-## Oasis
+## Оазис (Oasis).
 
 Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
 
@@ -112,7 +112,7 @@ Its features include:
 * Rewards: [XP](/traits#experience) + badges for voting
 * Layer: Polygon
 
-## Participating in Governance
+## Участие в управлении.
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
 
 First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
@@ -121,7 +121,7 @@ Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) d
 
 More details will be fleshed out once the game releases!
 
-## AavegotchiDAO Forum
+## Форум AavegotchiDAO.
 
 The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
 
@@ -129,7 +129,7 @@ We hope that #GotchiGang can become a model for DAO-owned games in the future, s
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
 
-## Creating Signal Proposals
+## Создание Сигнальных предложений.
 
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
@@ -144,7 +144,7 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 
 More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Voting
+## Голосование за предложение.
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -202,7 +202,7 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Treasury
+## Сокровищница.
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
 
