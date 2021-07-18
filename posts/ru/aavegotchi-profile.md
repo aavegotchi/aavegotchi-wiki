@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+title: 'Профиль Аавеготчи'
+description: 'Профиль Аавеготчи'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -40,7 +40,7 @@ First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aav
 
 Your Gotchi Profile would look something like the following screenshot.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Профиль Аавеготчи" />
 
 At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
 

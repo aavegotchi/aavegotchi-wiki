@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Improvement Proposals (AGIPs)'
-description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
+title: 'Предложения по улучшению игры (AGIP)'
+description: 'Подробно по улучшению игры (AGIP)'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -13,7 +13,7 @@ How far have we progressed as a community? Look at our archives of past votes he
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>

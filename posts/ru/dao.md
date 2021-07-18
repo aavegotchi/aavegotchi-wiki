@@ -32,7 +32,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
 <li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
 <li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Предложения по улучшению игры (AGIP)</a></li>
 <li><a href=#treasury>Treasury</a></li>
 </ol>
 
@@ -196,7 +196,7 @@ To vote on Aragon, follow the steps below:
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
-## Aavegotchi Improvement Proposals (AGIPs)
+## Предложения по улучшению игры (AGIP)
 
 See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
