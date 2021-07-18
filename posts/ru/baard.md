@@ -7,41 +7,41 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Twas the night before Haalloween,
+Праздник приближается, праздник приближается.
 
-when all thru the Tavern,
+Темной стылой ночью Хэллоуин начинается.
 
-every Gotchi was singing,
+Собираемся гурьбой и друзей берем с собой.
 
-every Rofl is rollin' on the floor laughin' (rofl-ing);
+До утра мы зажигаем, — пляшем, рофлим и играем.
 
-The Baards were plucking their haarps,
+Бардам дрыхнуть не даем, во все глотки мы поем.
 
-the baagpipes were creating a merry tune.
+Эй, артист, порадуй Готчи. Песню сочини ты к ночи.
 
-Twas the night before Haalloween,
+Про Хэллоуин и жуть, и про призраков чуть-чуть.
 
-where Gotchis come out to play!
+На волынке нам сыграй и награду получай! Бррр!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#baards>Baards</a></li>
-<li><a href=#music>Music</a></li>
+<li><a href=#baards>Барды.</a></li>
+<li><a href=#music>Музыка.</a></li>
 </ol>
 
 </div>
 
-## Baards
+## Барды
 
-Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
+Бардами в игре называют талантливых музыкантов из сообщества Аавеготчи. Чтобы узнать подробнее о роли барда, присоединяйтесь к обсуждению на [AavegotchiDAO](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637).
 
 table_baard
 
-## Music
+## Музыка
 
-Our Baards have created some very aavesome soundtracks. Check them out here!
+Наши барды — самые талантливые. Они создают саундтреки к мини-играм, разрабатывают основную музыкальную тему Готчиверсии, а также другой контент, используя свои знания и различные инструменты. Кстати, а вот и пример:
 
-* [Aavegotchi.com Minigame Chiptunes created by jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
+* [Мини-игры Chiptunes, созданные jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
