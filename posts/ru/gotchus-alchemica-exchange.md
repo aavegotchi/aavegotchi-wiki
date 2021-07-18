@@ -1,51 +1,51 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica Exchange (GAX)'
-description: 'Gotchus Alchemica Exchange (GAX)'
+title: 'Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange'
+description: 'Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<p class="headerImageText">Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+Юный призрак прокрался к замшелой двери, служащей входом в запретную башню. На ней изображены жуткие иероглифы и зловещие символы, да такие, что Готчи стало не по себе.
 
-The door creaked open, inviting him in.
+Дверь скрипнула и отворилась, приглашая внутрь.
 
-What he saw spooked him.
+Зайдя в дверь, ваш Каспер подумал: “Да и тут не лучше!” Окружающие предметы напугали его до дрожи в коленках.
 
-Vials. Test Tubes. Flasks.
+Многочисленные пробирки. Фляги. Флаконы...
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+В каждом пузырьке кипит и пенится какое то жуткое варево, шипя, перемешиваясь и светясь в темноте каким-то потусторонним светом.
 
-Inside, Gotchis were busy haggling with one another.
+А вокруг давно идет бойкая торговля.
 
-"How much for a unit of KEK?"
+Осмотревшись, ваш Готчи замечает, что рядом призраки торгуются друг с другом. Почем КЕК?
 
-"WTT FOMO for ALPHA"
+Нужен ФОМО для АЛЬФЫ!
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+Вот так, друг, выглядит децентрализованная биржа алхимии Gotchus Alchemica Exchange (GAX).
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
+<li><a href=#gotchus-alchemica-exchange>Обменник Gotchus Alchemica</a></li>
 </ol>
 
 </div>
 
-## Gotchus Alchemica Exchange
+## Обменник Gotchus Alchemica
 
-The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/metaverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
+Gotchus Alchemica Exchange (GAX) является вариантом децентрализованной биржи (DEX), реализованной в проекте Аавеготчи. Обменник используется, чтобы облегчить торговлю [ископаемыми ресурсами](/metaverse#gotchus-alchemica) для участников рынка. Биржа автоматически поддерживает торговлю всеми возможными валютными парами GHST-Алхимия.
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR can be spent to reduce the building time of [Installations](/metaverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+Для стимуляции ликвидности на бирже между пулами будет распространяться свой токен GLMR стандарта ERC-20. Его можно потратить для сокращения времени на строительство [установок](/metaverse#building-on-realm-parcels) в Готчиверсии. Узнать подробнее об этом можно будет позже, когда появится новая информация.
 
-GAX may support non GHST-Alchemica pairs in the future.
+Вероятно, что в будущем на GAX будут торговаться пары, отличные от GHST-Алхимия.
