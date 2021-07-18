@@ -14,38 +14,38 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
-<li><a href=#getting-tokens-from-mumbai-faucet>Getting tokens from Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#adding-mumbai-testnet-to-your-metamask>Как добавить тестнет Мумбаи в Метамаск.</a></li>
+<li><a href=#getting-tokens-from-mumbai-faucet>Как получать токены из Mumbai Faucet.</a></li>
+<li><a href=#getting-mumbai-ghst>Как получать токен GHST в Мумбаи. </a></li>
 </ol>
 
 </div>
 
-## Adding Mumbai Testnet to your Metamask
+## Как добавить тестнет Мумбаи в Метамаск
 
-To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
+Подключение к тестовой сети Мумбаи требует некоторой настройки вашего кошелька Metamask.
 
-1). First, open the extension and click the “Ethereum Mainnet” button on the top.
+1). Откройте расширение и нажмите кнопку основной сети “Ethereum Mainnet”, расположенную вверху.
 
 <img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask" />
 
-2). Выберите “Custom RPC”.
+2). Выберите «Пользовательский RPC».
 
 <img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Метамаск пользовательский RPC" />
 
-3). Введите следующие настройки:
+3). Введите такие настройки для корректной работы Мумбаи:
 
-Network Name: Mumbai Testnet
+Имя сети: Mumbai Testnet.
 
-New RPC URL: https://rpc-mumbai.matic.today
+URL-адрес RPC: https://rpc-mumbai.matic.today.
 
-Chain ID: 80001
+ID цепочки: 80001.
 
-Currency Symbol: MATIC
+Символ валюты: MATIC.
 
-Block Explorer URL (optional): https://mumbai-explorer.matic.today
+Блокировать Explorer URL (необязательно): https://mumbai-explorer.matic.today.
 
-Как только заполните все поля, кликайте “Save”. You are now on Mumbai Testnet!
+Нажимайте «Сохранить», как только заполните все поля. И все! Вы уже в тестовой сети Мумбаи!
 
 ## Как получать токены из Mumbai Faucet
 
