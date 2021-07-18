@@ -9,88 +9,88 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="Аавеготчи" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">Хай!</p>
 </div>
 
-You have a Gotchi fren now eh?
+Ты — счастливый обладатель Готчи? Кулл!
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+Напоминаем, что призраки очень любят играть. У каждого Готчи есть страница профиля, где ты можешь подробнее узнать о нем и поиграть вместе, чтобы повысить лояльность.
 
-This page will tell you what you can do with your new Gotchi frens! :D
+Читай эту страницу ВИКИ, чтобы узнать, что же ты можешь делать со своим новым питомцем Готчи.  :)
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<li><a href=#accessing-your-gotchi-profile>Доступ к профилю Готчи.</a></li>
+<li><a href=#gotchi-profile>Профиль перса.</a></li>
+<p><a href=#stats-xp>Статистика/опыт.</a></p>
+<p><a href=#interact-with-your-gotchi>Взаимодействие с Готчи.</a></p>
+<p><a href=#gotchi-pocket>Инвентарь призрака.</a></p>
 </ol>
 
 </div>
 
-## Accessing your Gotchi Profile
+## Доступ к профилю Готчи
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+Заходи на страницу [My Aavegotchis](https://aavegotchi.com/aavegotchis). Жми на любого из своих жутких малышей и переходи на страницу профиля.
 
-## Gotchi Profile
+## Профиль перса
 
-Your Gotchi Profile would look something like the following screenshot.
+Он выглядит очень похоже на то, что можно увидеть на ниже расположенном скрине.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Профиль Аавеготчи" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+В его центре — твой Готчи (нюдовый или экипированный). Ты можешь снимать и навешивать различные [носимые устройства](/wearables), чтобы посмотреть, как в них будет выглядеть Готчи. И, главное, как изменятся его базовые характеристики.
 
-### Stats/XP
+### Статистика/опыт
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+В левом углу экрана можно увидеть показатели статистики и опыта.
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score). If you have equipped your Gotchi with wearables, there will be two BRS values: (1) one in parentheses, and (2) the other not in parentheses. The former refers to your Gotchi's BRS without any wearables equipped while the latter takes into account both your Gotchi's BRS as well as the BRS contributed by any equipped wearable. If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+Сверху расположен показатель [BRS — базовая редкость](/rarity-farming#base-rarity-score) призрака. Для Готчи с экипировкой на экране отображается сразу два показателя BRS — в скобках и без. Первый — это базовый показатель черт, второй — после экипировки носимыми устройствами (он суммирует BRS каждого NFT экипировки). Если Готчи носит [набор предметов](/sets), его название можно увидеть под показателями BRS.
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+Тут же расположена кнопка “Просмотр кривой” (View Curve). С ее помощью можно оценить Готчи по шести характеристикам (энергия, агрессия, жуткость, интеллект, форма и цвет глаз) и узнать, какую позицию в рейтинге он занимает по отношению к любым другим существующим Готчи.
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+Значения характеристик нужно просматривать сверху вниз. Исключая форму и цвет глаз, все остальные характеристики можно менять (улучшать и ухудшать), экипируя призрака различными носимыми устройствами. Если у вашего Готчи есть хоть одна обновка, можно увидеть +/- значения, добавленные к показателю BRS самого Готчи. Так что экипировка имеет немалое значение в общем рейтинге перса.
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+Чуть ниже на странице профиля вы увидите уровень Готчи, его очки опыта и число очков опыта, которые нужно набрать для перехода на следующий уровень. В настоящее время XP можно заработать, участвуя в различных мероприятиях комьюнити. Следите за новостями!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+Преодолевая три уровня, призрак получает одно очко Духовной силы. Его можно направить на изменение любой характеристики — как усиление, так и ослабление.
 
-### Interact with your Gotchi
+### Взаимодействие с Готчи
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+В правом углу на странице профиля можно взаимодействовать со своим призраком (1) Погладить, (2) Экипировать, (3) Накормить и (4) Переименовать.
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+Смело жмакайте “Погладить” каждые 12 часов, чтобы [лояльность](/traits#kinship) Готчи выросла на 1 балл.
 
-The Equip button allows you to equip/unequip any wearables.
+Вы можете экипировать и снимать любые носимые устройства, работая в интерфейсе экипировки.
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+Кормежка — тоже важный процесс в Готчиверсии. Вы можете добавлять опыт и лояльность призраков с помощью [зелий](/wearables#consumables). Покупать их можно на первичном рынке ([Молле](/maall)) или вторичном — [Базаре](/baazaar).
 
-Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+Также у вас есть возможность переименовывать перса. Однако есть ограничения — имя не должно быть более 25 символов и обязано быть уникальным, еще не использованным во Вселенной Аавеготчи.
 
-Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+Еще ниже этого отображается **тип** и **количество** очков [Духовной силы](/glossary#spirit-force). Вы можете добавить или снять очки с помощью специальной кнопки. Однако перебарщивать не стоит, так как от этого нет никакой пользы. Также вы не сможете снять больше очков, чем установлен минимум для этого призрака. Минимальный уровень зависит от базового показателя редкости, и вы можете рассчитать его по [данной](/portals#claiming-an-aavegotchi) формуле.
 
-### Gotchi Pocket
+### Инвентарь призрака
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+Перейти в него можно, нажав на кнопку Pocket в правом нижнем углу экрана. Это откроет карман приведения.
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+Внимание. У **вас** есть отдельный инвентарь от **инвентаря Готчи**.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains:
+В нем вы найдете:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
-* Baadges
+* Экипировку, которой сейчас пользуется ваш призрак.
+* Токены GHST, полученные за [фарминг](/rarity-farming).
+* Баджи!
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Баджи — награды (непередаваемые NFT-токены стандарта ERC-1155), выдаваемые за участие в мероприятиях. Например, в I сезоне фарминга баджи получили Готчи из ТОП-10 и ТОП-100. По завершении сезона награды были автоматически добавлены в инвентарь и останутся там **навечно**. Следите за мероприятиями. Получайте баджи! Удачи!
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+В отличие от баджей, которые нельзя передавать, токены GHST и экипировку можно выводить из инвентаря Готчи.
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Чтобы отправить экипировку из кармана Готчи в свой карман, нужно разэкипировать призрака с помощью кнопки экипировки. Затем в кармане Готчи жмакнуть кнопку “Передать мне”.
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+По такому же принципу можно выводить токены GHST. Нажимая на кнопку вывода. Также есть возможность просмотреть адрес условного депонирования Готчи, нажав на кнопку “Просмотр” в инвентаре.
 

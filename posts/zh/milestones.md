@@ -7,6 +7,12 @@ contributors:
   - "chinyh"
 ---
 
+## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
+* On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
+* Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
+* In return, DinoSwap is incentivizing QuickSwap.exchange’s GHST-ETH liquidity with 2 million USD worth of DINO tokens over the coming 90 days.
+<p></p>
+
 ## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 * On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
 * The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.

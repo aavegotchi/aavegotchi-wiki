@@ -7,349 +7,400 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [На Полигоне запущены аукционы "Ставь, чтобы заработать" (Bid-to-Earn)!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
-* Разработчики из Pixelcraft сообщили 14.07.2021, что первый аукцион нового типа стартует 15.07.2021 в 17:00 МСК.
-* Аукцион рассчитан на 72 часа. Завершение его ожидается в воскресенье в 17:00 МСК.<p></p>
-
-## [Голосование за 2 поколение Готчи стартовало!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
-* Предложение по сигналу Aavegotchi Haunt 2 уже доступно! Анонсировали его 08.07.2021.
-* На голосование вынесено предложение по запуску второго поколения Готчи.
-* После бурного обсуждения, если предложение будет принято, будет проведен еще один раунд голосования на AavegotchiDAO.<p></p>
-
-## [Дроп-билеты уже в продаже!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* 02.07.2021 команда Pixelcraft запустила продажу Дроп-билетов на Aavegotchi.com.
-* Они подходят для участия в розыгрыше. Можно выиграть земельные участки и порталы для вызова призраков второго поколения.<p></p>
-
-## [Готчи-мисии снова запущены!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
-* Миссии для Агентов Готчи были перезапущены 26.07.2021 года.
-* Чтобы принять участие, прочитайте Litepaper и участвуйте!<p></p>
-
-## [Открыто голосование за AGIP8 и AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
-* AGIPs 8 и 9 теперь живут 11 июня 2021! Изучите подробности и отдайте свой голос за будущее проекта.
+## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
+* On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
+* Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
+* In return, DinoSwap is incentivizing QuickSwap.exchange’s GHST-ETH liquidity with 2 million USD worth of DINO tokens over the coming 90 days.
 <p></p>
 
-## [Crypto.com добавил в листинг GHST](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
-* 09.06.2021 компания Pixelcraft сообщила, что токен игры Аавеготчи (GHST) торгуется на Crypto.com!<p></p>
-
-## [Новая программа от разработчиков из Pixelcraft — Амбасадоры Аавеготчи: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
-* 25.05.2021 разработчики из Pixelcraft анонсировали V2 программу Амбасадоров Аавеготчи!
-* Амбасадор Аавеготчи способствует распространению и популяризации игры.
-* Вы можете стать послом Аавеготчи — развивайте собственное игровое сообщество и получайте приличное вознаграждение!<p></p>
-
-## [Коллекция uGOTCHI стала еще шире!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
-* 16.05.2021, по словам представителей Pixelcraft, в коллекцию uGOTCHI на Unic.ly был добавлен Unopened Portal 2. Это 3-й наименьший идентификатор токена (ID) первого поколения.
-* Снимок (snapshot) для получения Бааджей сделан 17 мая, в 01:00 Мск.  Заинтересованные в получении баджей для Готчи должны были предоставить ликвидность в пуле unic.ly!
+## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
+* The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.
 <p></p>
 
-## [Голосование за пакет предложений AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
-* 12.05.2021 года от Pixelcraft поступил запрос на голосование по предложению AGIP7. Можно заработать очки опыта за успешные предложения.
-* AGIP был предложен нашим помощником с ником Moon!<p></p>
-
-## [Новые Бааджи  для сбора!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
-* 10.05.2021 разработчики Pixelcraft вручили почетные NFT занимавшимся pre-UNIC  фармингом!<p></p>
-
-## [Блестящие новые Бааджи  на подходе!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
-* Успехи в фарминге могут принести вам Бааджи Аавеготчи!
-* Кристаллы в Аавеготчи — это непередаваемые NFT ERC-1155, находящиеся у вашего Готчи!
-* Ищите больше Бааджей для сбора в будущем:)
-* Информация поступила 04.05.2021 г.<p></p>
-
-## [Команда Pixelcraft показала Дорожную карту развития Aavegotchi V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
-* Привет, друзья! 28.04.2021 команда Pixelcraft анонсировала дорожную карту проекта V2 на следующие пару лет!
-* Этап 1: Инкубационный период (II-IV квартал 2021) — повысить популярность Аавеготчи, сделать ее мегапопулярной игрой среди знатоков криптовалюты.
-* Этап 2: Прорыв (I квартал 2022 - IV квартал 2023) — превратить игру Аавеготчи в настоящий мейнстрим.
-* Этап 3: Повсеместное распространение (I квартал 2024 г. - и дальше) — повысить узнаваемость Аавеготчи и превратить ее в криптоигру, пользующуюся всеобщей популярностью.<p></p>
-
-## [Голосование за AGIP №6 ПРОХОДИТ!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
-* Комиссия на Базаре будет увеличена на 0,5% — до 3,5%.
-* Вскоре запланировано еще одно голосование для владельцев Готчи. Относительно прав Готчи при голосовании.
-* Информация была опубликована 19.04.2021 г.<p></p>
-
-## [Внимание!  Первый призыв сообщества Аавеготчи](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Пропустили первый сбор комьюнити? Читайте новости, чтобы быть в курсе всего важного.
-* Команда Аавеготчи расширяется!
-* Новые совместные проекты будут вскоре запущены!
-* Участникам Аавеготчи DAO предстоит больше обсуждений.
-* Информация обнародована 18.04.2021.<p></p>
-
-## [Аавеготчи уже в основной сети Ethereum!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
-* Протокол для объединения, дробления и обмена NFT (Unicly) позволил появиться первому Готчи в основной сети Ethereum!
-* Информация обнародована 16.04.2021.<p></p>
-
-## [Дроп Lil Pump на подходе!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
-* Разработчики Аавеготчи напоминают, что дроп экипировки, созданной совместно с рэпером Lil Pump, состоится 09.04.2021 года в Молле.<p></p>
-
-## [Открывается голосование за AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
-* 07.04.2021 состоится голосование за предложение AGIP6. Его суть в добавлении 0,5% комиссии на Базаре для поддержки фарминга.
-* До моментального снимка нужно проголосовать всем желающим !<p></p>
-
-## [Очередной дроп в Молле и многое другое!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Если вы интересуетесь экипировкой, то обмундирование от рэпера Lil Pump поступит в продажу 9 апреля.
-* Новые голосования в AavegotchiDAO.
-* Расширение Pixelcraft Studios.
-* На Базаре активность торгов столь высока, что недавно объем торгов перевалил за 10 млн GHST!
-* Информация обнародована 05.04.2021.<p></p>
-
-## [Призы за 1-й сезон Фарминга](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
-* Первый сезон Фарминга — получите свою долю GHST от суммы в $2 млн в течение 8 недель.
-* Информация обнародована 30.03.2021.<p></p>
-
-## [Аавеготчи будет сотрудничать с Lil Pump](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
-* 22.03.2021 разработчики игры рады объявить о своем сотрудничестве с популярным рэп-исполнителем Газзи Гарсия, работающим под псевдонимом Lil Pump.
-* Оказалось, что экипировка для 4-й лотереи была создана с участием Lil Pump!<p></p>
-
-## [Голосование за пакеты AGIP 4 и 5 стартовало!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
-* Друг, Аавеготчи нужен твой голос. AGIP 4 и 5 открыты для голосования! Должно ли быть больше поколений?
-* Должно ли поколение 1 быть уникальным? Приступайте к голосованию! Не стоит мешкать!
-* Информация обнародована 17.03.2021.<p></p>
-
-## [Анонс Лотереи №4! Тематика - сеть Polygon 2 уровня!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
-* 15.03.2021 разработчики Аавеготчи анонсировали четвертую лотерею, приуроченную к решению второго уровня от Polygon.
-* Лотерея стартовала 29.03.2021 года в 17:00 Мск. У участников было 72-часовое окно для регистрации лотерейных билетов в контракте лотереи.
-* Розыгрыш состоялся 01.04.2021 с помощью генератора случайных чисел VRF Chainlink на Polygon.<p></p>
-
-## [Эволюция AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
-* Этап V1.5 в развитии Аавеготчи DAO.
-* Можно задать вопросы, касающиеся DAO, и получить на них ответы.
-* Информация опубликована 12.03.2021.<p></p>
-
-## [Запуск Аавеготчи успешен!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
-* Первые 10 тысяч порталов раскупили менее чем за одну минуту!
-* На вторичном рынке — Базаре — во время запуска отмечена максимальная активность игроков.
-* Информация опубликована 03.03.2021.<p></p>
-
-## [Разработчики подтвердили дату запуска игры!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
-* 24.02.2021 стало известно, что запуск Аавеготчи запланирован на 02.03.2021 в 18:00 Мск.
-* Мероприятие стартует на Aavegotchi.com. В его рамках будут выпущены NFT для 10 тысяч порталов Аавеготчи.
-* Теперь игроки впервые смогут призывать своего Готчи.<p></p>
-
-## [На Polygon появился генератор случайных чисел Chainlink VRF!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
-* Ждать больше не нужно. Час настал! Генератор случайных чисел на Полигоне заработает 23.02.2021 года!
+## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+* On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
+* After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
+* If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
 <p></p>
 
-## [Появился новый пул ликвидности GHST-USDC!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* Новый пул для токенов GHST-USDC начал свою работу 18.02.2021. Зарабатывать FRENS в этом пуле смогут те, кто предоставит ликвидность.
+## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
+* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
 <p></p>
 
-## [Казначейство Аавеготчи DAO достигло 100-тысячного рубежа!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* 16.02.2021 состоялось знаменательное событие. Казначейство AavegotchiDAO перешло рубеж в 100 тысяч DAI. Игровая DAO получает 0,3% от всех сделок на кривой связывания Аавеготчи в основной сети Ethereum. Это пока единственный источник средств DAO.
+## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
+* On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
+* Read the REALM Litepaper and participate!
 <p></p>
 
-## [Почему Аавеготчи мигрировал на Полигон?](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Для улучшения игрового процесса и доступа к надстройке (второму уровню) Ethereum был выбран Полигон. О том, почему был сделан такой выбор, можно прочитать в социальных медиа. Материал появился 16.02.2021.
+## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
 <p></p>
 
-## [Ежемесячное приобретение токенов GHST и голосование за новый токен LP](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
-* Аавеготчи DAO приняла решение об увеличении выделяемых средств на выкуп токенов GHST из кривой связывания с 100 000 до 150 000 DAI ежемесячно.
-* Дополнительные 50 000 DAI пойдут на нужды команды Pixelcraft Studios, занимающейся разработкой игрового проекта Аавеготчи.
-* С февраля 2021 года команда Pixelcraft Studios начала выкупать токены GHST из кривой связывания в основной сети Ethereum! Спешите проголосовать за то, чтобы токен GHST-USDC LP мог приносить своим владельцам бонусы в виде FRENS!
-* Не забудь проголосовать, дружище! Информация опубликована 08.02.2021.<p></p>
-
-## [Сколько можно ждать?! Когда появится рынок Аавеготчи NFT? Кажется, время тянется так медленно!](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* Разработчики игрового проекта объявили 02.02.2021, что в феврале будет запущен Базар — вторичный рынок на просторах Аавеготчи. Параллельно будут запущены порталы и экипировка! <p></p>
-
-## [Альманах старого фермера: полное руководство по получению GHST](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Привет, дружище! Тебе требуется помощь с переносом GHST на Polygon? И как получить обещанную награду? Воспользуйся нашим руководством! Материал подготовлен 25.01.2021.
+## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
+* On 9 June 2021, Pixelcraft announces that the Aavegotchi GHST token is now listed on Crypto.com's app!
 <p></p>
 
-## [Голосование по пакетам предложений 2 и 3 по улучшению Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* Голосование по второму и третьему пакетам улучшений игрового процесса, состоявшееся 21 января 2021, быстро набрало необходимое число голосов.
-* Расскажем подробней о контракте на размещение GHST на Polygon, запущенном для миграции из основной сети Ethereum на Polygon.
-* Наши сообщества в Корее, Франции и Испании растут. Тьфу-тьфу!
+## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
+* On 25 May 2021, Pixelcraft introduces the V2 of the Aavegotchi Aambassadors Program!
+* An Aavegotchi Aambassador is responsible for spreading the Gospel of Gotchi to those who haven’t discovered us yet.
+* Join us as an Aambassador, grow your own community, and be rewarded for it!
 <p></p>
 
-## [Наши токены уже действуют в сети Polygon!](https://twitter.com/coderdannn/status/1351902787919986693)
-* [Ник Мадж](/team#nick-mudge) — молодец. Он сделал это! Токены игрового проекта успешно подключены к Polygon 20.01.2021!
+## [Expansion of the uGOTCHI Collection!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
+* On 16 May 2021, Pixelcraft announces that they have added Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI Collection on Unic.ly
+* The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
 <p></p>
 
-## [Стартовало голосование на Арагоне!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* За очередные два пакета предложений с 18.01.2021 можно проголосовать на Арагоне. Свой голос можно отдать в течение 72 часов.
+## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
+* On 12 May 2021, Pixelcraft introduces AGIP7 - Earn XP for Successful Signal Proposals
+* The AGIP was proposed by our Aassistant Moon!
 <p></p>
 
-## [GHST успешно заработал на Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* 11.01.2021 разработчики проекта Аавеготчи сообщили, что ими были запущены токены GHST на Polygon.
-* За миграцию ликвидности можно будет получить приятные бонусы!<p></p>
-
-## [Внимание, разработчики!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
-* Аавеготчи проспонсирует глобальный ETH-хакатон под названием MarketMake. За участие будут выделяться призы из призового фонда в 4000 GHST. Также участники смогут претендовать на получение бонусов — очков опыта для своих будущих Готчи.<p></p>
-
-## [Запуск основной сети проекта отложен](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Чрезмерная перегрузка в сети повлияла на планы разработчиков, и 04.01.2021 не состоялся запуск основной сети игры. Увы!
-* Миграция на Polygon была отложена на более поздний срок.
-* Такое решение приняло сообщество путем голосования.
-* Все миссии, которые нужно было пройти для получения статуса Агента, наконец-то закончились! Анонсирована [экипировка](/wearables) для Готчи! Ищи ее в соответствующем разделе нашей ВИКИ.
-* Ау, Аавеготчи нуждается в амбассадорах!<p></p>
-
-## [Запуск фарминга не за горами!](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* Команда проекта анонсировала  принципы будущего отбора победителей и получения наград за фарминг. Информация поступила 02.01.2021 года.
+## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
+* On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
 <p></p>
 
-## [Токены aUNI и aYFI стали очередным залогом за Готчи](https://twitter.com/aavegotchi/status/1345026523263238145)
-* Комьюнити приняло решение! В первый день 2021 года стало известно, что следующими токенами, которые могут использоваться в качестве залога за Готчи, станут UNI и aYFI.
+## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* You can now collect Aavegotchi Baadges for your performance in rarity farming!
+* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
+* Look out for more Baadges to collect in the future ;)
+* Post published on 4 May 2021
 <p></p>
 
-## [Финальная миссия Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Информация опубликована 29.01.2020 г. Командой анонсированы предметы экипировки (тема —  Ethereum), которые можно будет получить во время третьего розыгрыша лотереи.
-* Они будут разыгрываться в канун Нового года. Аккурат 31.12.2020.
-* Еще одно отличное мероприятие в канун Нового года!
-* Последняя миссия завершилась. Теперь, друзья, вы — настоящие звезды!
+## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
+* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
+* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
+* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
 <p></p>
 
-## [Помощь другу: обновление](https://twitter.com/aavegotchi/status/1343184902083121157)
-* Команда игрового проекта 27.12.2020 провела подсчет средств, собранных во время благотворительной акции “Помоги другу”. Напомним, что один из наших друзей перевел более 50 тыс долларов в токенах на неправильный адрес. Наше сообщество собрало более $10 000, чтобы ему помочь. Средства перечислялись для santagotchi.eth.
-
+## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* Baazaar fees are now increased by 0.5% to 3.5%
+* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
+* Post published on 19 April 2021
 <p></p>
 
-## [Отдайте свой голос за aToken, который может быть добавлен следующим!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* С 22.12.2020 отдавайте свои голоса за aToken, которые мы будем добавлять в Аавеготчи.
-* Проголосовать можно в Твиттере и Snapshot. В этот раз голосуем за aBUSD, aSUSD, aYFI и aUNI!<p></p>
-
-## [Помощь другу](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Ребята, помогите нашему другу выйти из сложной ситуации. Он случайно перевел средства не на тот адрес и потерял 50 000 долларов. В рамках акции пожертвуйте любые токены стандарта ERC20 и получите уникальную шляпу Санты (при пожертвовании от 20 долларов). Информация опубликована 18.12.2020.
+## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Missed the 1st Community Call? Fren, we got you covered!
+* The Aavegotchi team expands!
+* More collaborations announced!
+* More discussions on AavegotchiDAO
+* Post published on 18 April 2021
 <p></p>
 
-## [Результаты лотереи на тему Aave!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Информация для нашего сообщества опубликована 12.12.2020!
-* Доводим до вашего сведения, что определена дата запуска Аавеготчи. Это 04.01.2021!
-* Результаты розыгрыша лотереи на тему Aave просто поразительны. Интерес к лотерее зашкаливал. Было поставлено на 66% больше лотерейных билетов, чем в розыгрыше экипировки на тему Chainlink.
-* Binance добавила в листинг GHST.
-* Помогите Другу! Один игрок отправил все свои токены LINK на стейкинг GHST :(
-* Отмечаем именины нашего токена — GHST уже 3 месяца. Вечеринка по этому случаю состоится 14.12.2020!
-* Презентация Джесси с CGC на тему “Взаимодействие аватаров для построения отличной WEB3 MMORPG” (ищите [материал](/posts/media) в СМИ)!
+## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
+* Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
+* Published on 16 April 2021
 <p></p>
 
-## [Игровой процесс в Аавеготчи стартует 04.01.2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* 12.12.2020 на Coindesk появился материал о запуске геймплея Аавеготчи, назначенного на 04.12.2021. Отличная новость. Ждем с нетерпением!
+## [Lil Pump drop incoming!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
+* The Aavegotchi team reminds everyone that the Lil Pump drop will occur tomorrow, 9 April 2021, at the Maall.
 <p></p>
 
-## [Лотерея с экипировкой на тему Aave объявляет о бонусных NFT](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* 06.12.2020 стало известно, что Aave и Аавеготчи проведут мероприятие 08.12.2020, чтобы запустить розыгрыш экипировки на тему Aave.
-* Во время тематического розыгрыша вы можете получит бонусные NFT от Frens4Ever! Поймай CoderDangotchi и Jessegotchi, если сможешь!
+## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
+* Head over to Snapshot and vote now!
 <p></p>
 
-## [ВИКИ Аавеготчи уже запущена. Ученье — свет!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* 27.12.2020 была запущена наша ВИКИ. Агенты, требуется помощь, чтобы заполнить ее!
-* У Аавеготчи сразу две номинации на премию NFT 2020. Юху!
-* Вау! Аавеготчи нужен разработчик! Заинтересованы? Присоединяйтесь к нашей дружной семье!
+## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Lil Pump Wearables to drop this Friday, April 9
+* Hottest Signal Proposals on AavegotchiDAO
+* Pixelcraft Studios is expanding
+* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
+* Post published on 5 April 2021
 <p></p>
 
-## [Ку-Ку! Вот что будет разыгрываться во время лотереи на тему Aave](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* Обзор экипировки на тему Aave Супергеройских Мстителей от 25.12.2020.
-* В комплекте наборы экипировки Марка, Джордана, Стани-Готчи!<p></p>
-
-## [Aave инвестирует в Аавеготчи!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Компания Aave инвестировала в развитие Pixelcraft Studios! Информация от 23.12.2020.
-* FYI Pixelcraft Studios теперь вплотную занимается Аавеготчи. Это основная команда разработчиков.<p></p>
-
-## [Эммм! Фанфики об Аавеготчи](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* Фанфики про Готчи и Аавеготчи ❤ Chainlink, которые подготовили на конкурс наши [соискатели](https://twitter.com/sinkielinkie)! Информация опубликована 20.11.2020.
+## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
+* Post published on 30 March 2021
 <p></p>
 
-## [Победила дружба!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* Все ждали 13.11.2020, когда пройдет розыгрыш с помощью Chainlink VRF. Результаты ошеломили! Все — победители!
+## [Lil Pump x Aavegotchi Collaboration](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
+* On 22 March 2021, the Aavegotchi team reveals their collaboration with multi-platinum music artist Lil Pump.
+* The mystery wearables for Raffle 4 are revealed to be Lil Pump wearables!
 <p></p>
 
-## [А-ю-реди?](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Надеемся, вы готовы! Ловите пошаговое руководство по запланированным в будущем лотереям и розыгрышам. Информация появилась 09.11.2020!
+## [Vote in Aavegotchi Improvement Proposals 4 and 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
+* Frens, we need your vote! Aavegotchi Improvement Proposals (AGIPs) 4 and 5 are open for voting!
+* Should there be more haunts? Should Haunt 1 be unique? Vote nao!
+* Post published on 17 March 2021
 <p></p>
 
-## [Чумовая Хэллоуинская вечеринка!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* Мы отчитались 04.11.2020 о проведении потрясающей вечеринки в канун Хэллоуина!
-* Определены победители конкурса костюмов!
-* Проведен тестовый розыгрыш призов в прямом эфире в тестовой сети Kovan.<p></p>
-
-## [Создайте своего собственного Готчи!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* 29.11.2020 было запущено интерактивное мини-приложение Aavegotchi Builder. В нем вы можете менять черты Готчи и смоделировать его уникальный внешний вид с помощью доступной экипировки!<p></p>
-
-## [Хэллоуин не за горами! А вот и вечеринка](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* Информация о том, как пройдет вечеринка в канун Хэллоуина, была опубликована ​​28.10.2020.
-* Проведем конкурс на лучшие костюмы для Готчи!
-* Под музыкальное сопровождение от Харрисона Феста (Harrison First) мы поприветствуем Cherry, OpenSea и Polygon. Вечеринка начнется с выступления Стани Кулечова из Aave. Ждем с нетерпением!
+## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
+* On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
+* Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
+* On April 1, 2021, we’ll be engaging the Chainlink VRF on Polygon to spin the wheel and determine the winners!
 <p></p>
 
-## [Бип! Бип!  Уходим в отрыв!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Вау! Вау! По информации от команды, поступившей 25.10.2020, хэллоуинская вечеринка пройдет в пятницу, 30.10.2020 года.  Будьте там!
-* Вот кто победил в конкурсе 9 Миссии.<p></p>
-
-## [Что-то назревает...](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* Разработчики объявили 23.10.2020, что 10.11.2020 пройдет розыгрыш первой из 3-х лотерей, проведение которых намечено до запуска игры в основной сети!
-* Тема розыгрыша экипировки и других бонусов — LINK. Лотерея проводится, чтобы отпраздновать партнерство с Chainlink и использование генератора случайных чисел Chainlink VRF.
+## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+* COCOON, the V1.5 stage in the evolution of AavegotchiDAO
+* Common questions and answers regarding the AavegotchiDAO
+* Post published on 12 March 2021
 <p></p>
 
-## [Полный вперед!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* Стейкинг GHST теперь доступен в основной сети с 20.10.2020.<p></p>
-
-## [Тест за тестом! Аудиты перед запуском стейкинга токенов пройдены](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Важная информация от 18.10.2020 года! Стейкинг GHST прошел [проверку](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) — ошибок и сбоев нет!
-* Стейкинг GHST в основной сети будет запущен в течение 72 часов
-* Результаты первого голосования Аавеготчи DAO —  99% сказали ДА!
-* Аавеготчи победил в конкурсе OKex “DeFi+NFT”!<p></p>
-
-## [Первое голосование Аавеготчи DAO](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Внимание! Внимание! Внимание! Первое GHST-голосование пройдет 14.10.2020 года! Первое предложение Аавеготчи DAO — голосуйте за масштабирование!
+## [Aavegotchi Launch: Success!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
+* The first 10,000 Portals sold out in less than one minute!
+* Our secondary marketplace, the Baazaar, saw massive activity at launch
+* Post published on 3 March 2021
 <p></p>
 
-## [Надвигается ураган призрачной жути! Приветствуем наших друзей с их порталов ](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13.10.2020! В этот день мы поприветствуем наших друзей  с порталов в тестовой сети Kovan. Юху!
+## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
+* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT.
+* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public.
+* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
 <p></p>
 
-## [Результаты конкурса мемов Аавеготчи! Скоро будем чествовать победителей!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Восьмая Миссия Аавеготчи заключалась в конкурсе мемов. Победители будут объявлены 10.10.2020 года!
-* Конкурс открыт для всех желающих создателей креатива из Аавеготчи!<p></p>
-
-## [Специальная экипировка OKex-тематики](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Информация от 07.10.2020 года! Хотите стать обладателями уникальных NFT, созданных в сотрудничестве Аавеготчи и биржи OKex? Сделайте депозит токенов GHST на OKex!
+## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
+* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
 <p></p>
 
-## [Стейкинг Uniswap GHST-ETH в тестовой сети Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Был запущен пул ликвидности на Uniswap для пары GHST-ETH. Запуск состоялся в тестовой сети Kovan 02.10.2020.
-* Мемы про Готчи и Аавеготчи наводняют наш сабреддит!<p></p>
-
-## [Стейкинг GHST уже доступен в тестовой сети Kovan!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* Стейкайте GHST и заводите друзей! Стейкинг GHST в тестовой сети Kovan доступен с 29.10.2020!
+## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
+* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
 <p></p>
 
-## [Порталы Аавеготчи уже в тестовой сети Kovan!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* На 25.09.2020 Аавеготчи сообщает, что порталы доступны в тестовой сети Kovan!
-* Голосование Аавеготчи DAO за добавление ликвидности GHST на Uniswap.
-* Вот кто победил в седьмой Миссии "Just DAO it!"<p></p>
-
-## [Отпразднуем сотрудничество Аавготчи и Chainlink!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* Задружбанили с CHAINLINK! Coderdan сообщает 24.09.2020, что теперь в Аавеготчи работает генератор случайных чисел VRF от Chainlink.
-* Читайте [полезную статью](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) о Chainlink, чтобы понять, как работает VRF Chainlink.
+## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
+* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. This is the current source of all DAO funds.
 <p></p>
 
-## [Пресейл: токены GHST разошлися менее чем за минуту!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* 14.09.2020 токен GHST запущен в основной сети! Пресейл занял меньше минуты! :))
-* GHST содержатся на более чем двух тысячах уникальных адресов! Это крутотень!
+## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
+* Why did Aavegotchi chose Polygon as a Layer 2 solution? Get the scoop here! Article posted on 16 February 2021.
 <p></p>
 
-## [Свежие, как горячие пирожки, новости о пресейле! Обязательно к прочтению!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* Новости о предпродаже токенов были опубликованы 10.09.2020!<p></p>
-
-## [Кривая связывания запущена в тестовой сети Rinkeby ](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* Запуск кривой связывания токенов в тестовой сети Rinkeby состоялся 03.09.2020.<p></p>
-
-## [Поговорим об Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Самое первое заседание Aavegotchi's Ask Me Anything (AMA) состоялось 1 сентября 2020 года<p></p>
-
-## [Состоялась частная распродажа!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Частная продажа прошла 20.08.2020.
-* Команда Аавеготчии запустила [Телеграм-чат](https://t.me/aavegotchi)!
-* Выпуск [Вайтпейпер](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view).
+## [Monthly GHST purchase program & new LP token vote](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
+* Last month, the AavegotchiDAO concluded a successful proposal to increase the tap emission from 100,000 DAI per month to 150,000 DAI per month, with the understanding that the extra 50,000 DAI would be used by Pixelcraft Studios (the lead developers of Aavegotchi) to purchase GHST from the curve.
+* Starting this month, Pixelcraft Studios will begin purchasing GHST from the Ethereum mainnet bonding curve!
+* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Come and cast your votes fam!
+* Article published on 8 February 2021.
 <p></p>
 
-## [Учимся на Агента Аавеготчи!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* 13.08.2020 к учебе в академии Агентов Аавеготчи присоединились Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph и Unintelligent_nerd!
-* Сейчас в Аавеготчи более 120 будущих Агентов!<p></p>
+## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
+* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February! 
+<p></p>
 
-## [JC Crown стал частью команды и работает над запуском миссий в Аавеготчи](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* Это знаменательное событие состоялось 29.07.2020.
-* Миссии Аавеготчи были запущены в тот же день!<p></p>
+## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* Heya Frens! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+<p></p>
 
-## [Ник Мадж стал частью Аавеготчи](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Ник Мадж стал частью нашей команды 22.07.2020.<p></p>
+## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
+* GHST Staking Contract on Polygon to launch alongside the bridge from Mainnet to Polygon
+* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+<p></p>
 
-## [Первый пост Аавготчи на Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* Первый пост появился в блоге Аавеготчи на Medium 14.07.2020!
-* Xibot стал частью команды разработчиков игрового проекта!<p></p>
+## [aTokens live on Polygon Network!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Polygon on 20 January 2021!
+<p></p>
+
+## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+<p></p>
+
+## [GHST token live on Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Polygon
+* There are Liquidity Migration Incentives up for grabs as well!
+<p></p>
+
+## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
+* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
+<p></p>
+
+## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
+* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
+* The community voted and made the decision to launch on Polygon at a later date
+* Aagent missions have finally concluded!
+* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
+* Aavegotchi looking for Aambassadors!
+<p></p>
+
+## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
+* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
+<p></p>
+
+## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
+* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
+<p></p>
+
+## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+* Ready up frens! This 29 December 2020 announcement is biiigg!
+* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
+* Yessss, there's another party on New Year's Eve!
+* The Final Mission is released! You are now Moovie Staars frens!
+<p></p>
+
+## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
+* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
+<p></p>
+
+## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
+* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
+* Featuring aBUSD, aSUSD, aYFI, and aUNI!
+<p></p>
+
+## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
+* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
+<p></p>
+
+## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
+* Community update published on 12 December 2020!
+* 4 January 2021 Aavegotchi launch date confirmed!
+* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
+* Binance lists GHST token
+* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
+* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
+* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+<p></p>
+
+## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+<p></p>
+
+## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
+* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+<p></p>
+
+## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
+* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
+* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+<p></p>
+
+## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
+* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+<p></p>
+
+## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
+* FYI Pixelcraft Studios is the main development team for Aavegotchi 
+<p></p>
+
+## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+<p></p>
+
+## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+<p></p>
+
+## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+<p></p>
+
+## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
+* Announcement of the costume contest winners!
+* Test raffle live on Kovan testnet
+<p></p>
+
+## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+<p></p>
+
+## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
+* More details on the Haaaalloween Paaarty were announced on 28 October 2020
+* Virtual Costume Contest!
+* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+<p></p>
+
+## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
+* Announcing the Mission 9 Contest Winners
+<p></p>
+
+## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
+* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+<p></p>
+
+## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* GHST staking is now live on Mainnet on 20 October 2020
+<p></p>
+
+## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
+* GHST Staking launching on Mainnet within 72 hours
+* AavegotchiDAO’s first onchain vote passes with 99% YES!
+* Aavegotchi wins the OKex DeFi + NFT listing contest
+<p></p>
+
+## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
+* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+<p></p>
+
+## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
+<p></p>
+
+## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
+* Open call for Aavegotchi Aartists
+<p></p>
+
+## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+<p></p>
+
+## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
+* Gotchi memes flooooding Aavegooootchi Reddit!
+<p></p>
+
+## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
+<p></p>
+
+## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
+* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
+* Winners announced for Mission 7 "Just DAO it!"
+<p></p>
+
+## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
+* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+<p></p>
+
+## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
+* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+<p></p>
+
+## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+<p></p>
+
+## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
+<p></p>
+
+## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+<p></p>
+
+## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Private sale sold out on 20 August 2020
+* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
+* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+<p></p>
+
+## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
+* Aavegotchi Aagents is over 120 members strong!
+<p></p>
+
+## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* On 29 July 2020, JC Crown joins the Aavegotchi team!
+* Launch of Aavegotchi Missions on the same date!
+<p></p>
+
+## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge joins the team on 22 July 2020
+<p></p>
+
+## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* On 14 July 2020, the first Aavegotchi post was published on Medium!
+* Xibot joins the team!
+<p></p>
