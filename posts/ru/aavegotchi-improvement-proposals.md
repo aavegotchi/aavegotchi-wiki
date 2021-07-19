@@ -33,18 +33,18 @@ contributors:
 
 </div>
 
-### Увеличение касания для лучшего масштабирования
+### Увеличение числа выделяемых DAI на нужды проекта
 **Предложение № 1 по улучшению Аавеготчи**
 
-**Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
+**О чем предложение:** Кривая связывания токенов GHST работает почти месяц. Это дает обладателям GHST возможность отрегулировать tap-механизм DAICO. Аавеготчи DAO 1.0 базируется на платформе Aragon и работает как простой DAICO, чьи участники (держатели токенов GHST) имеют право голосовать 1 раз в месяц, чтобы изменить (увеличить/уменьшить) поток средств, выделяемых команде через tap-механизм. Напомним, что DAI берутся непосредственно из кривой связывания, где в настоящее время находится свыше 7,5 млн DAI.
 
-We request the Aavegotchi community vote to increase the tap from 50K DAI / 30 days to 100K DAI / 30 days. 50k DAI was not enough to cover all of the milestones achieved (community growth, GHST token, game development) and the next sprint is even more ambitious. The hard coded constraints of AavegotchiDAO 1.0 limit this proposal to only a 50K DAI increase for this month’s voting period and thus we have budgeted our strategy with a total 100k DAI tap in mind.
+Предложение AGIP состоит в увеличении количества выделяемых средств с 50 000 DAI до 100 000 в месяц. Причина в том, что такого количества DAI не было достаточно, чтобы обеспечить охват всех достигнутых вех (роста сообщества, токена GHST, нужд на разработку игрового проекта). А ведь следующий период развития еще более амбициозен. Ограничения, заложенные в AavegotchiDAO 1.0, предусматривают выдачу только 50 000 DAI, а в первом предложении закладывается необходимость увеличения этой суммы до 100 000 DAI.
 
-The budget going forward deploys the additional 50k DAI into 4 distinct categories:
-* A game maker’s fund so we can solidify terms with key game developers.
-* Additional contracts for key positions in marketing, design, and development.
-* A marketing boost to make sure Aavegotchi’s presence is expanded.
-* Community rewards so we can continue to develop programs (like the Aartists and Aapprentices teams) that incentivize the most inspired in our community.
+Дополнительные 50 тыс. DAI будут распределены по таким четырем категориям:
+* Фонд разработчиков для привлечения новых разрабов.
+* Средства на маркетинг, дизайн и разработку.
+* Расширение экспансии Аавеготчи.
+* Вознаграждения сообществу (для артистов, бардов) за вовлеченность в проект.
 
 **Период голосования:** 15 - 19 октября 2020
 
@@ -59,15 +59,15 @@ table_agip1
 ### Добавление комиссионных в кривую связывания
 **Предложение № 2 по улучшению Аавеготчи**
 
-**Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
+О чем предложение: Кривая связывания выступает в роли основного источника ликвидности GHST. В настоящее время как покупатели, так и продавцы, могут совершать сделки без комиссий.
 
-Our market maker offers the ability to add fees to buy and sell orders.
+Даже в особо крупных размерах.
 
-Multiple community members have proposed adding fees up to 0.3% to buying and selling on the curve.
+Идея данного предложения состоит в том, чтобы добавить комиссию до 0,3%.
 
-This is possible to do by calling the `updateFees` function on our bonding curve, but should we? It’s up to you, AavegotchiDAO.
+Внести изменения можно, подправив функцию `updateFees` на кривой связывания. Но нужно ли это? Выбор за членами Аавеготчи DAO.
 
-Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
+Средства, полученные от комиссий, будут перечислены в сокровищницу DAO по адресу 0xffe6280ae4e864d9af836b562359fd828ece8020 и пойдут на нужды DAO.
 
 **Период голосования:** 18 - 21 января 2021
 
