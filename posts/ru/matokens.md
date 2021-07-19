@@ -9,28 +9,30 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/matokens/matoken.png">
-<p class="headerImageText">maTokens!</p>
+<p class="headerImageText">маТокены!
+
+</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
+На что можно рассчитывать, если взять и поместить их в [Полигон](/glossary#polygon)? Как получить эти токены?
 
-There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
+Есть пара способов. Читайте на этой странице нашей ВИКИ.
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#using-the-aavegotchi-bridge>Using the Aavegotchi Bridge</a></li>
-<li><a href=#bridging-through-ascendex>Bridging through AscendEX</a></li>
-<li><a href=#fiat-to-polygon-using-transak>Fiat to Polygon using Transak</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
-<li><a href=#learn-more>Больше информации</a></li>
+<li><a href=#using-the-aavegotchi-bridge>Использование моста Аавеготчи.</a></li>
+<li><a href=#bridging-through-ascendex>Перенос через AscendEX.</a></li>
+<li><a href=#fiat-to-polygon-using-transak>Перемещение в Polygon с помощью Transak.</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Стейкинг маТокенов в Аавеготчи.</a></li>
+<li><a href=#learn-more>Дополнительная информация.</a></li>
 </ol>
 
 </div>
 
-## Using the Aavegotchi Bridge
+## Использование моста Аавеготчи
 
 This method is used when you have some aTokens on Ethereum Mainnet and want to bridge them to Polygon as maTokens. This method involves paying ETH gas fees (which may be costly).
 
@@ -54,19 +56,19 @@ After you have done that, give it 10 minutes or so for your maTokens to appear i
 
 If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
 
-## Bridging through AscendEX
+## Перенос через AscendEX
 
 A second (and less costly) method is to transfer funds from CEXes (such as Binance) to AscendEX. From AscendEX, funds could be transferred directly to Polygon. Take a look at the infographic below to see how this could be done!
 
 <img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
-## Fiat to Polygon using Transak
+## Перемещение в Polygon с помощью Transak
 
 A third way is to use a fiat-to-Polygon on-ramp.
 
 See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
 
-## Staking maTokens into Aavegotchis
+## Стейкинг маТокенов в Аавеготчи
 
 Okay, I've gotten myself some maTokens. What now?
 
@@ -76,7 +78,7 @@ The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals c
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
-## Learn more
+## Дополнительная информация
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* Ветка в [Твиттере](https://twitter.com/mudgen/status/1352399348219445250) с информацией [Ника Маджа](/team#nick-mudge) об успешном развертывании аТокенов на Полигоне в качестве маТокенов.
+* [Технические детали маТокенов](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on) от Ника Маджа.
