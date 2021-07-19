@@ -16,25 +16,25 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
-<li><a href=#add-fees-to-bonding-curve>Add fees to Bonding Curve</a></li>
-<li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
-<li><a href=#proposal-for-haunt-2>Proposal for Haunt 2</a></li>
-<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Give unique non-transferable Background to Haunt 1 Aavegotchis</a></li>
-<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Add Fee on Baazaar to Support Rarity Farming</a></li>
-<li><a href=#earn-xp-for-successful-signal-proposals>Earn XP for Successful Signal Proposals</a></li>
-<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
-<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
-<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>Увеличение касания для лучшего масштабирования.</a></li>
+<li><a href=#add-fees-to-bonding-curve>Добавление комиссионных в кривую связывания.</a></li>
+<li><a href=#increase-daico-tap-for-ghst-purchases>Увеличить количество тапов DAICO для покупки GHST.</a></li>
+<li><a href=#proposal-for-haunt-2>Предложение по второму поколению призраков.</a></li>
+<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Сделать уникальную расцветку для всех Готчи первого поколения.</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Повысить комиссию на Базаре для поддержки фарминга.</a></li>
+<li><a href=#earn-xp-for-successful-signal-proposals>Добавлять очки опыта (XP) за принятые предложения по улучшению проекта.</a></li>
+<li><a href=#voting-power-based-on-brs>Право голоса в зависимости от базовой характеристики черт (BRS).</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Право голоса в зависимости от цены носимых устройств в Молле.</a></li>
+<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Партнерство между AavegotchiDAO, Pixelcraft и DinoSwap.</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Название для торговой площадки Аавготчи.</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Право токенов GHST-USDC LP на получение FRENS.</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Число порталов, приобретенных за одну транзакцию.</a></li>
 </ol>
 
 </div>
 
-### Tap increase for Scaling Sprint
-**Aavegotchi Improvement Proposal #1**
+### Увеличение касания для лучшего масштабирования
+**Предложение № 1 по улучшению Аавеготчи**
 
 **Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
 
@@ -46,18 +46,18 @@ The budget going forward deploys the additional 50k DAI into 4 distinct categori
 * A marketing boost to make sure Aavegotchi’s presence is expanded.
 * Community rewards so we can continue to develop programs (like the Aartists and Aapprentices teams) that incentivize the most inspired in our community.
 
-**Voting Period:** 15 - 19 October 2020
+**Период голосования:** 15 - 19 октября 2020
 
-**Results:**
+**Результаты:**
 
 table_agip1
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
+[Ссылка для голосования на Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
 <hr />
 
-### Add fees to Bonding Curve
-**Aavegotchi Improvement Proposal #2**
+### Добавление комиссионных в кривую связывания
+**Предложение № 2 по улучшению Аавеготчи**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
 
@@ -69,18 +69,18 @@ This is possible to do by calling the `updateFees` function on our bonding curve
 
 Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
 
-**Voting Period:** 18 - 21 January 2021
+**Период голосования:** 18 - 21 января 2021
 
-**Results:**
+**Результаты:**
 
 table_agip2
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
+[Ссылка для голосования на Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
 <hr />
 
-### Increase DAICO tap for GHST purchases
-**Aavegotchi Improvement Proposal #3**
+### Увеличить количество тапов DAICO для покупки GHST
+**Предложение № 3 по улучшению Аавеготчи**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
 
@@ -90,22 +90,22 @@ What burning does do is trap DAI within the bonding curve, essentially increasin
 
 In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
 
-**Voting Period:** 18 - 21 January 2021
+**Период голосования:** 18 - 21 января 2021
 
-**Results:**
+**Результаты:**
 
 table_agip3
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+[Ссылка для голосования на Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
 
 <hr />
 
-### Proposal for Haunt 2
-**Aavegotchi Improvement Proposal #4**
+### Предложение по второму поколению призраков
+**Предложение № 4 по улучшению Аавеготчи**
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Детали по AGIP доступны [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Option 1: No new haunt, Revisit in a month
 
@@ -115,24 +115,24 @@ Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
 
 Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange for 100 GHST. When the pre-sale period closes, all Portals are minted and transferred to their owners.
 
-**Voting Period:** 17 - 24 March 2021
+**Период голосования:** 17 - 24 марта 2021
 
-**Results:**
+**Результаты:**
 
 table_agip4
 
-**Vote Differential not met. No Haunt 2 for now!**
+**Предложение не принято. Выпуск второго поколения призраков пока откладывается.**
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
 
 <hr />
 
-### Give unique non-transferable Background to Haunt 1 Aavegotchis
-**Aavegotchi Improvement Proposal #5**
+### Сделать уникальную расцветку для всех Готчи первого поколения
+**Предложение № 5 по улучшению Аавеготчи**
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created Haunts will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Детали по AGIP доступны [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Option 1: Only Haunt 1 should get a special background
 
@@ -140,18 +140,18 @@ Option 2: Each Haunts should have it’s own unique background
 
 Option 3: Neither, leave it as is
 
-**Voting Period:** 17 - 24 March 2021
+**Период голосования:** 17 - 24 марта 2021
 
-**Results:**
+**Результаты:**
 
 table_agip5
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
 <hr />
 
-### Add Fee on Baazaar to Support Rarity Farming
-**Aavegotchi Improvement Proposal #6**
+### Повысить комиссию на Базаре для поддержки фарминга
+**Предложение № 6 по улучшению Аавеготчи**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
 
@@ -163,18 +163,18 @@ Option 1: Yes, increase fees from 3 to 3.5
 
 Option 2: No, leave the fees as they are
 
-**Voting Period:** 7 - 13 April 2021
+**Период голосования:** 7 - 13 апреля 2021
 
-**Results:**
+**Результаты:**
 
 table_agip6
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
 
 <hr />
 
-### Earn XP for Successful Signal Proposals
-**Aavegotchi Improvement Proposal #7**
+### Добавлять очки опыта (XP) за принятые предложения по улучшению проекта
+**Предложение № 7 по улучшению Аавеготчи**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
 
@@ -192,18 +192,18 @@ Option 1: Yes, successful SigProps give XP
 
 Option 2: No, SigProps should not give XP
 
-**Voting Period:** 12 - 18 May 2021
+**Период голосования:** 12 - 18 мая 2021
 
-**Results:**
+**Результаты:**
 
 table_agip7
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
 
 <hr />
 
-### Voting power based on BRS
-**Aavegotchi Improvement Proposal #8**
+### Право голоса в зависимости от базовой характеристики черт (BRS)
+**Предложение № 8 по улучшению Аавеготчи**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
 
@@ -213,18 +213,18 @@ Option 1: Yes, give Voting Power to Aavegotchi based on BRS
 
 Option 2: No, Aavegotchis shouldn’t have Voting Power
 
-**Voting Period:** 11 - 17 June 2021
+**Период голосования:** 11 - 17 июня 2021
 
-**Results:**
+**Результаты:**
 
 table_agip8
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
 
 <hr />
 
-### Voting power based on Wearables' Maall Price
-**Aavegotchi Improvement Proposal #9**
+### Право голоса в зависимости от цены носимых устройств в Молле
+**Предложение № 9 по улучшению Аавеготчи**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
 
@@ -234,18 +234,18 @@ Option 1: Yes, give Voting Power to Wearables based on Maall Price
 
 Option 2: No, Wearables shouldn’t have Voting Power
 
-**Voting Period:** 11 - 17 June 2021
+**Период голосования:** 11 - 17 июня 2021
 
-**Results:**
+**Результаты:**
 
 table_agip9
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
 
 <hr />
 
-### Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap
-**Aavegotchi Improvement Proposal #10**
+### Партнерство между AavegotchiDAO, Pixelcraft и DinoSwap
+**Предложение № 10 по улучшению Аавеготчи**
 
 **Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
 
@@ -265,7 +265,7 @@ table_agip10
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Название для торговой площадки Аавготчи
 **Модель DApp Snapshot**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -294,7 +294,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Право токенов GHST-USDC LP на получение FRENS
 
 **Модель DApp Snapshot**
 
@@ -320,7 +320,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Число порталов, приобретенных за одну транзакцию
 
 **Модель DApp Snapshot**
 
