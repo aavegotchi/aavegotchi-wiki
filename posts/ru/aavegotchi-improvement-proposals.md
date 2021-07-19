@@ -247,13 +247,13 @@ table_agip9
 ### Партнерство между AavegotchiDAO, Pixelcraft и DinoSwap
 **Предложение № 10 по улучшению Аавеготчи**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**О чем предложение:** снижающаяся ликвидность токенов GHST на Quickswap пугает многих игроков, так как они меньше зарабатывают за предоставление ликвидности пулам. Чтобы не выделять больше ликвидности, разработчики Аавеготчи решили наладить партнерство с агрегатором ликвидности DinoSwap. На поощрение будет выделено GHST на сумму в 200 тыс. долларов.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Подробности по предложению смотрите [тут](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Option 1: Yes, let's partner with DinoSwap
+Вариант 1: Да, голосуем за сотрудничество с DinoSwap.
 
-Option 2: No, don't partner with Dinoswap
+Вариант 2: Нет, голосуем против сотрудничества с Dinoswap.
 
 **Период голосования:** 13 - 20 июня 2021
 
@@ -268,21 +268,21 @@ table_agip10
 ### Название для торговой площадки Аавготчи
 **Модель DApp Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**О чем предложение:** Как должна называться площадка для купли/продажи NFT на Polygon?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Решение нужно принять в ближайшее время, так как запуск не за горами!
 
-What should we call the official Aavegotchi Marketplace?
+Итак, как же мы будем именовать вторичный рынок на Полигоне?
 
-Choice A: Aavegotchi Baazaar
+Выбор A: Баазар.
 
-Choice B: Aavegotchi Maarket
+Выбор B: Мааркет.
 
-Choice C: Neither
+Вариант C: Не нравится ни один вариант.
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Кворум для этого предложения составляет 500 тыс. GHST. В случае, если проголосует меньше игроков, Pixelcraft назовет торговую площадку методом случайного выбора, как в случае с короткой спичкой или соломинкой!
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Начинайте придумывать альтернативы!
 
 **Период голосования:** 8 - 11 февраля
 
@@ -298,17 +298,17 @@ table_marketplaceName
 
 **Модель DApp Snapshot**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**О чем предложение:** Должны ли поставщики ликвидности для пула GHST-USDC LP получать награду в FRENS?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Миграция ликвидности на Polygon прошла успешно. Уже переведено свыше 8 миллионов GHST. Однако, как ни прискорбно, ликвидность GHST-USDC пока еще мала и не дает совершать большие объемы сделок в валютной паре USDC/GHST на Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Как в случае с GHST-QUICK и их токеном stkGHST-QUICK, можно выпустить специальный токен stkGHST-USDC, на который будет начисляться награда на Quickswap, если команда биржи одобрит этот процесс.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Так как это решение имеет большое значение для экосистемы, то оно идеально подошло для первого голосования по Snapshot на Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Кворум для этого предложения составляет 500 тыс. GHST.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Отметим, что условия начисления наград за стейкинг GHST и GHST-USDC будут идентичными, так как временные потери минимальны, а комиссии значительные.
 
 **Период голосования:** 8 - 11 февраля 2021
 
