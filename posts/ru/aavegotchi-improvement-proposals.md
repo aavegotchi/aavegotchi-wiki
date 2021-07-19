@@ -103,7 +103,7 @@ table_agip3
 ### Предложение по второму поколению призраков
 **Предложение № 4 по улучшению Аавеготчи**
 
-**Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
+О чем предложение: 10 000 порталов, вполне вероятно, очень мало для удовлетворения спроса, имеющегося на Готчи. Потому в ближайшее время может понадобится запуск Готчи второго поколения, чтобы все желающие смогли получить призраков. В данном AGIP есть четыре разных варианта, которые могут выбрать голосующие. Среди них также есть отказ от создания очередного поколения призраков.
 
 Подробности читайте [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
@@ -121,7 +121,7 @@ table_agip3
 
 table_agip4
 
-**Предложение не принято. Выпуск второго поколения призраков пока откладывается.**
+**Предложение по запуску не принято. Выпуск второго поколения призраков пока откладывается.**
 
 [Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
 
@@ -130,15 +130,15 @@ table_agip4
 ### Сделать уникальную расцветку для всех Готчи первого поколения
 **Предложение № 5 по улучшению Аавеготчи**
 
-**Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created Haunts will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
+О чем предложение: Если у вас есть желание, чтобы Готчи второго поколения отличались от первого, и новые призраки не обесценили уже существующих, нужно разграничить Готчи разных поколений.  Это поможет идентифицировать призраков и наделить представителей одного поколения сходными чертами. Отметим, что данное предложение было тепло встречено сообществом и получило поддержку.  Также, как отметили разработчики, независимо от вердикта членов DAO по этому вопросу, все призраки будут пронумерованы номером поколения для быстрой идентификации. Суть данного предложения в том, чтобы у призраков разных поколений появился неизменный фон, который бы помещался в слот для экипировки.
 
-Подробности читайте [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Подробнее о предложении читайте [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
-Option 1: Only Haunt 1 should get a special background
+Вариант 1: Только первое поколение призраков должно иметь отдельный фон.
 
-Option 2: Each Haunts should have it’s own unique background
+Вариант 2. Каждое поколение призраков должно отличаться расцветкой.
 
-Option 3: Neither, leave it as is
+Вариант 3. Ни то, ни другое, оставьте как есть.
 
 **Период голосования:** 17 - 24 марта 2021
 
