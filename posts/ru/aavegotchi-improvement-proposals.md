@@ -82,13 +82,13 @@ table_agip2
 ### Увеличить количество тапов DAICO для покупки GHST
 **Предложение № 3 по улучшению Аавеготчи**
 
-**Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
+**О чем предложение:** В развитии экосистемы Аавеготчи решающую роль играют вознаграждения игроков и поставщиков ликвидности. Благодаря выделяемым средствам игровой проект становится самодостаточным за счет высокого объема торгов и экономической активности.
 
-Whenever GHST is spent in the Aavegotchi ecosystem, 33% of it is automatically sent to a burn address. Unlike most cryptocurrencies, burning GHST (except via the bonding curve) does not actually lower the total value of GHST, since that value is stored as DAI within the bonding curve.
+Регулярно, когда токены GHST тратятся в экосистеме Aavegotchi, 33% их автоматом передаются на сжигание. Важно то, что, в отличие от большинства криптовалют, сжигание токенов GHST (за исключением кривой связывания) не влияет на общее предложение GHST, так как токены сохраняются в качестве DAI внутри кривой связывания.
 
-What burning does do is trap DAI within the bonding curve, essentially increasing the reserve ratio over time, which stabilizes the price of GHST.
+Сжигание позволяет фиксировать DAI внутри кривой связывания, создавая большой резерв и, попутно, стабилизируя стоимость GHST.
 
-In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
+Компенсацией сжигания, из-за которого GHST может постепенно превратиться в стейблкоин, будет увеличение ежемесячного трансфера GHST в DAI до 150 000 токенов. Это положительно повлияет на резерв кривой связывания, а также предоставит дополнительные 50 000 DAI в месяц на нужды проекта. Их можно будет тратить на вознаграждения игроков и стимулы поставщикам ликвидности.
 
 **Период голосования:** 18 - 21 января 2021
 
@@ -105,15 +105,15 @@ table_agip3
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
 
-Детали по AGIP доступны [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Подробности читайте [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
-Option 1: No new haunt, Revisit in a month
+Вариант 1: На 1 месяц запрет на ввод второго поколения призраков. Далее, предложение может быть пересмотрено.
 
-Option 2: 10K Portals, 100 GHST each, 1 per txn
+Вариант 2: 10K порталов, ценой по 100 GHST каждый, 1 на txn.
 
-Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
+Вариант 3: 25K порталов, ценой по 100 GHST каждый, 5 за txn (с более крупным налогом).
 
-Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange for 100 GHST. When the pre-sale period closes, all Portals are minted and transferred to their owners.
+Вариант 4: Пресейл, в рамках которого каждый зарегистрировавшийся кошелек может получить 1 портал в обмен на 100 GHST. После завершения периода регистрации порталы будут созданы и переданы владельцам.
 
 **Период голосования:** 17 - 24 марта 2021
 
@@ -132,7 +132,7 @@ table_agip4
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created Haunts will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
-Детали по AGIP доступны [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Подробности читайте [тут](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Option 1: Only Haunt 1 should get a special background
 
