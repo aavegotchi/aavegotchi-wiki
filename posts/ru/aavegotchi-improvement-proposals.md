@@ -153,15 +153,15 @@ table_agip5
 ### Повысить комиссию на Базаре для поддержки фарминга
 **Предложение № 6 по улучшению Аавеготчи**
 
-**Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
+**О чем предложение:** Награды SZN1 для игроков делают необходимым введение дополнительной комиссии для сделок на Базаре.
 
-Currently, 2% is allocated to Pixelcraft and 1% to DAO treasury. While not exclusive of providing for RF rewards, the treasury funds are currently in no obligation to be allocated in any form of ratio towards the RF pool each season. The proposal aims to increase the Baazaar fees from 3% to 3.5%, with the additional 0.5% going directly to the Rarity Farming rewards pool.
+Сейчас 2 процента взимаемых средств передается Pixelcraft, а один процент поступает в сокровищницу DAO. В пользу фармингового пула средства не предоставляются. Поэтому есть предложение увеличить сборы на Базаре на 0,5 процента и направить их на пополнение копилки Rarity Farming.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+Подробнее о предложении смотрите [тут](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
 
-Option 1: Yes, increase fees from 3 to 3.5
+Вариант 1. Да, увеличим комиссию на полпроцента (с 3 до 3,5%).
 
-Option 2: No, leave the fees as they are
+Вариант 2. Комиссия останется неизменной.
 
 **Период голосования:** 7 - 13 апреля 2021
 
