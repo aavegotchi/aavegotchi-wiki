@@ -21,9 +21,9 @@ Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that
 
 <ol>
 <li><a href=#why-polygon->Почему Polygon?</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Добавляем Polygon в Metamask</a></li>
-<li><a href=#bridging-assets-to-polygon>Перемещаем средства в Polygon</a></li>
-<li><a href=#bridging-assets-back-to-ethereum-mainnet>Перемещаем средства обратно в главную сеть Ethereum</a></li>
+<li><a href=#adding-polygon-to-your-metamask>Добавляем Polygon в Метамаск.</a></li>
+<li><a href=#bridging-assets-to-polygon>Перемещаем средства в Polygon.</a></li>
+<li><a href=#bridging-assets-back-to-ethereum-mainnet>Перемещаем средства обратно в главную сеть Ethereum.</a></li>
 </ol>
 
 </div>
