@@ -1,100 +1,100 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'uGOTCHI Collection'
-description: 'uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly'
+title: 'Коллекция uGOTCHI'
+description: 'Коллекция uGOTCHI — набор редких призраков, сегментированных через Unicly'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ugotchi/terence-mckenna.svg">
-<p class="headerImageText">Terence McKenna</p>
+<p class="headerImageText">Теренс МакКенна</p>
 </div>
 
-"Sir. It has been a pleasure to get to know you."
+“Сэр. Очень рады знакомству!”
 
-The Gotchi Minister salutes Terence McKenna and his team.
+Готчи радушно приветствуют Теренса МакКенну и его команду.
 
-The team took one last look at the beautiful world of Polygon before stepping into the spacecraft.
+Перед погрузкой в космический шаттл команда МакКенны бросила прощальный взгляд на прекрасный мир Полигона.
 
-On 15 April 2021, history was made. Captain Terence McKenna and his team successfully crossed Polygon into the New World of Ethereum.
+Это случилось 15 апреля 2021 года. Капитан Теренс МакКенна и его команда успешно пересекли Полигон и попали в Новый Мир Ethereum.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#the-aastronauts>The Aastronauts</a></li>
-<p><a href=#terence-mckenna>Terence McKenna</a></p>
-<p><a href=#machine-elf>Machine Elf</a></p>
-<p><a href=#stoned-ape>Stoned Ape</a></p>
-<p><a href=#ayahuasca>Ayahuasca</a></p>
-<p><a href=#clockwork-elf>Clockwork Elf</a></p>
-<p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
-<li><a href=#ugotchi-token>uGOTCHI Token</a></li>
-<li><a href=#valuation>Valuation</a></li>
+<li><a href=#the-aastronauts>Аастронавты</a></li>
+<p><a href=#terence-mckenna>Теренс МакКенна (Terence McKenna).</a></p>
+<p><a href=#machine-elf>Эльф-машина (Machine Elf).</a></p>
+<p><a href=#stoned-ape>Каменная обезьяна (Stoned Ape).</a></p>
+<p><a href=#ayahuasca>Аяуаска (Ayahuasca). </a></p>
+<p><a href=#clockwork-elf>Заводной эльф (Clockwork Elf).</a></p>
+<p><a href=#unopened-portal-2>Неоткрытый портал 2 (Unopened Portal 2).</a></p>
+<li><a href=#ugotchi-token>Токен uGOTCHI.</a></li>
+<li><a href=#valuation>Ценность.</a></li>
 </ol>
 
 </div>
 
-## The Aastronauts
+## Аастронавты
 
-The Aastronauts are a collection of **5 rare Aavegotchis** and **1 rare Unopened [Portal](/portals)** that have been fractionalized/sharded through [Unicly](https://www.unic.ly/). The team is led by Terence McKenna.
+Аастронавты — это набор из **пяти редких Готчи** и **одного уникального неоткрытого [портала](/portals)**, сегментированных через [Unicly](https://www.unic.ly/). Во главе команды — Теренс МакКенна.
 
-The Aastronauts are participants in [Rarity Farming](/rarity-farming) and would receive rarity farming rewards as well. Unfortunately, as no one is petting these Gotchis, their [Kinship](/traits#kinship) level is dropping. In the future, a pet operator can be assigned to pet these Gotchis.
+Готчи-астронавты также участвуют в [фарминге](/rarity-farming) и получают награды. Однако поскольку с ними никто не взаимодействует, их уровень [лояльности](/traits#kinship) падает. В дальнейшем, вполне вероятно, будет назначено ответственное лицо, которое возьмет на себя эту функцию.
 
-Clicking on the image of an Aastronaut will bring you to its [profile page](/aavegotchi-profile).
+Нажав на иконку астронавта, вы сможете перейти на [страницу его профиля](/aavegotchi-profile).
 
-### Terence McKenna
+### Теренс МакКенна (Terence McKenna)
 
 <a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "Terence McKenna Aavegotchi"></a>
 
 table_terenceMckenna
 
-### Machine Elf
+### Эльф-машина (Machine Elf)
 
 <a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "Machine Elf Aavegotchi"></a>
 
 table_machineElf
 
-### Stoned Ape
+### Каменная обезьяна (Stoned Ape)
 
 <a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stoned Ape Aavegotchi"></a>
 
 table_stonedApe
 
-### Ayahuasca
+### Аяуаска (Ayahuasca)
 
 <a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "Ayahuasca Aavegotchi"></a>
 
 table_ayahuasca
 
-### Clockwork Elf
+### Заводной эльф (Clockwork Elf)
 
 <a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Clockwork Elf Aavegotchi"></a>
 
 table_clockworkElf
 
-### Unopened Portal 2
+### Неоткрытый портал 2 (Unopened Portal 2)
 
-On 16 May 2021, Pixelcraft announces that they are adding a final member to the Aastronauts Collection. Unopened Portal 2 is the third lowest tokenID of Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
+16.05.21 года разрабы из Pixelcraft официально объявили о том, что команда Аастронавтов пополнилась шестым (последним) членом. Неоткрытый портал 2 является третьим наименьшим tokenID первого поколения. Он был приобретен на вторичном рынке (базаре) за 60 000 GHST, а затем его перекинули по мосту в Ethereum и добавили в коллекцию к остальным.
 
 <a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
 
-## uGOTCHI Token
+## Токен uGOTCHI
 
-<img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI Token" />
+<img src = "/ugotchi/ugotchi-token.svg" alt = "Токен uGOTCHI." />
 
-The uGOTCHI Token allows token holders to have direct ownership of the Aastronauts. The total supply of the uGOTCHI token is fixed at 1,000,000. Hence, the amount of uGOTCHI tokens that you have represents the percentage of ownership over the entire Aastronauts collection.
+Этот токен дает своим держателям возможность владеть Готчи-астронавтами. Общее число токенов (эмиссия) составит 1 000 000. Так что то количество uGOTCHI, которое есть у игрока, позволяет вычислить процент владения всеми предметами коллекции Аастронавтов.
 
-The uGOTCHI Token is a good way for people who are interested to get exposure to a collection of rare Gotchis. For those who do not have the time to own and care for a Gotchi, the uGOTCHI token is a passive way to invest in a very good set of Aavegotchis for price appreciation. Of course, with every investment, this comes with risk of loss as well.
+Имея токены uGOTCHI, можно стать владельцами сверхредких Готчи. За ними не нужен уход, и это, по сути, пассивный способ инвестировать в хороший набор Готчи, чья цена со временем будет только расти. Безусловно, как и любая другая инвестиция, вложение в uGOTCHI также связано с риском.
 
-Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
+Подробнее о коллекции uGOTCHI можно посмотреть на [Unicly](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068).
 
-## Valuation
+## Ценность
 
-On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+18.05.21 команда Pixelcraft сообщила, что была проведена оценка всей коллекции Готчи-астронавтов. Опираясь на цену ETH в $3550, которая была на тот момент, было решено, что коллекция оценивается в $916 042. Цена каждого члена команды указана в нижерасположенной табличке.
 
 table_valuation
 
