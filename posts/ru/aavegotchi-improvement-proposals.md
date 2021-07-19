@@ -176,21 +176,21 @@ table_agip6
 ### Добавлять очки опыта (XP) за принятые предложения по улучшению проекта
 **Предложение № 7 по улучшению Аавеготчи**
 
-**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+О чем предложение: До нынешнего времени, несмотря на большое количество сигнальных предложений, ни одно не смогло преодолеть планку кворума в 20%. So far none of those proposals were able to even get close to the quorum of 20%. Популярнейшее предложение от @JG по поводу фарминга собрало чуть более 11 процентов (2 млн GHST). Хотя команда решила воплотить это предложение в жизнь, сделав его основным предложением. После обновления до Core кворум был преодолен за сутки.
 
 I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
+I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Даже если учесть, что 10 XP — это мало, все же многие согласятся регулярней просматривать сигнальные предложения и голосовать за качественные, имеющие высокие шансы на достижение кворума.
 
 Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
 
 If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Смотрите подробности по AGIP [тут](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
-Option 1: Yes, successful SigProps give XP
+Вариант 1: Да, если сигналки превратятся в основные, Готчи получат XP.
 
-Option 2: No, SigProps should not give XP
+Вариант 2: Нет, не нужно добавлять очки опыта (XP) в качестве награды за голосование.
 
 **Период голосования:** 12 - 18 мая 2021
 
@@ -324,23 +324,23 @@ table_ghstUsdcLp
 
 **Модель DApp Snapshot**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**О чем предложение:** Какое количество порталов можно приобрести за одну транзакцию?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Обсуждение этого вопроса было жарким. Пора голосовать! Популярнейшими предложениями стали 1, 5 и 10 порталов на одну транзакцию.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Наш друг [@coderdannn](/team#coder-dan) также добавил возможность введения налога для тех, кто хочет купить большое количество порталов за одну транзакцию. Им придется заплатить более высокую цену. Все порталы предлагается разделить на такие уровни:
 
-* 0-5: 100 GHST each
+* 0–5: 100 GHST каждый.
 
-* 6-15: 200 GHST each
+* 6-15: 200 GHST каждый.
 
-* 16-25: 300 GHST each
+* 16-25: 300 GHST каждый.
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+По числу порталов на одну транзакцию голосуем за такие варианты — 1, 5, 10 и 25 (без налога).
 
-Let your $GHST token speak for you, and vote!
+Заставь работать свой токен GHST. Проголосуй!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+На голосование отводится 72 часа. Минимальный кворум: 10% от GHST на Matic (~ 1,1M GHST).
 
 Ветка обсуждения на AavegotchiDAO 👇
 
