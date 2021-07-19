@@ -34,49 +34,49 @@ contributors:
 
 ## Использование моста Аавеготчи
 
-This method is used when you have some aTokens on Ethereum Mainnet and want to bridge them to Polygon as maTokens. This method involves paying ETH gas fees (which may be costly).
+Данный метод работает, если у вас есть некоторое число аТокенов в основной сети Ethereum, а вы хотите переместить их в Полигон в качестве маТокенов. Из-за платы за газ в сети Ethereum данный метод может быть дорогостоящим и не всем подходит.
 
-First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
+Перейдите к [мосту в Полигон](https://aavegotchi.com/bridge) на Aavegotchi DApp.
 
 <img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
+Нажмите на иконку токена (обведено красным в качестве примера на нижерасположенной картинке), и вы увидите раскрывающееся меню токенов. Выберите тот, что вам нужен.
 
 <img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
+Введите сумму токенов, которые планируете перевести в Полигон. На примере USDDC, как на скрине, нужно ввести цифры в поле, отмеченное красным.
 
 <img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-Once you have keyed in the desired amount, click the "Approve Transfer" button. Wait for the transaction to go through on Ethereum.
+Подтвердите перевод нажатием кнопки "Approve Transfer". Дождитесь, пока транзакция будет добавлена в блок блокчейна Ethereum.
 
-After the Approve transaction goes through, click the "Transfer to Polygon" button. Wait for this transaction to go through on Ethereum as well.
+Как только транзакция будет подтверждена, нажмите кнопку переноса токенов в Полигон. Далее ожидайте, когда маТокены окажутся на кошельке.
 
-After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
+Может понадобиться до 10 минут. Подождите, пока пройдет и эта транзакция.
 
-If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
+Используя Метамаск, настройте интеграцию с Полигоном, опираясь на [это руководство](/polygon). Пошаговые инструкции помогут избежать ошибок.
 
 ## Перенос через AscendEX
 
-A second (and less costly) method is to transfer funds from CEXes (such as Binance) to AscendEX. From AscendEX, funds could be transferred directly to Polygon. Take a look at the infographic below to see how this could be done!
+Менее дорогостоящий способ обзавестись маТокенами состоит в том, чтобы перевести их с централизованных бирж (CEX) на AscendEX. Для этой цели подходит Binance или любая другая торговая площадка. С AscendEX токены можно свободно перемещать напрямую в Полигон. На нижерасположенной инфографике видно, как это можно сделать без особого труда!
 
 <img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
 ## Перемещение в Polygon с помощью Transak
 
-A third way is to use a fiat-to-Polygon on-ramp.
+Этот метод является третьим в нашем списке. Он позволяет перевести токены в Полигон.
 
-See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
+Как это сделать, читайте в [этом материале](https://trasher.substack.com/p/buying-your-tokens-straight-into), подготовленном одним из членов нашего сообщества.
 
 ## Стейкинг маТокенов в Аавеготчи
 
-Okay, I've gotten myself some maTokens. What now?
+Так, теперь у вас есть маТокены. Что делать?
 
-Good work fren.
+Отличная работа, друг!
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+Покупай портал за [GHST](/ghst). Их можно купить в Aavegotchi DApp или на внешнем [вторичном рынке](/marketplace), например — на Opensea. После того, как вы обзавелись порталом, призовите Готчи. Выберите одного из десятка сгенерированных с наилучшими на ваш взгляд базовыми характеристиками. Далее вам понадобятся маТокены в качестве залога. Стейкайте их и играйте в Аавеготчи с удовольствием!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Подробнее о том, как открыть [портал](/portals), читайте на соответствующей странице нашей ВИКИ.
 
 ## Дополнительная информация
 
