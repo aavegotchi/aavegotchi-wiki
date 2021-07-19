@@ -14,20 +14,17 @@ contributors:
 <p></p>
 
 ## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
-* On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
-* The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.
-<p></p>
+* Разработчики из Pixelcraft сообщили 14.07.2021, что первый аукцион нового типа стартует 15.07.2021 в 17:00 МСК.
+* Аукцион рассчитан на 72 часа. Завершение его ожидается в воскресенье в 17:00 МСК.<p></p>
 
-## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
-* On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
-* After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
-* If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
-<p></p>
+## [Голосование за 2 поколение Готчи стартовало!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+* Предложение по сигналу Aavegotchi Haunt 2 уже доступно! Анонсировали его 08.07.2021.
+* На голосование вынесено предложение по запуску второго поколения Готчи.
+* После бурного обсуждения, если предложение будет принято, будет проведен еще один раунд голосования на AavegotchiDAO.<p></p>
 
-## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
-* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
-<p></p>
+## [Дроп-билеты уже в продаже!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* 02.07.2021 команда Pixelcraft запустила продажу Дроп-билетов на Aavegotchi.com.
+* Они подходят для участия в розыгрыше. Можно выиграть земельные участки и порталы для вызова призраков второго поколения.<p></p>
 
 ## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
 * On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
