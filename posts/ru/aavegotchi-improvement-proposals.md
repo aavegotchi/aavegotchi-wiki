@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard.
+Привет, друг! Готчи активно голосуют за предложения по улучшению игрового проекта (AGIP)! Тебе тоже нужно голосовать, чтобы было учтено твое мнение.
 
-How far have we progressed as a community? Look at our archives of past votes here!
+Сколько уже было голосований? Смотрите архивы уже проведенных обсуждений AGIP на этой странице нашей ВИКИ.
 
 <div class="contentsBox">
 
@@ -255,13 +255,13 @@ Option 1: Yes, let's partner with DinoSwap
 
 Option 2: No, don't partner with Dinoswap
 
-**Voting Period:** 13 - 20 June 2021
+**Период голосования:** 13 - 20 июня 2021
 
-**Results:**
+**Результаты:**
 
 table_agip10
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
+[Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
 <hr />
 
@@ -284,13 +284,13 @@ The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixel
 
 If "Neither" wins...you guys better start coming up with some good alternatives!
 
-**Voting Period:** 8 - 11 February 2021
+**Период голосования:** 8 - 11 февраля
 
-**Results:**
+**Результаты:**
 
 table_marketplaceName
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
+[Ссылка для голосования на Snapshot.](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
 <hr />
 
@@ -310,13 +310,13 @@ We are setting a 500,000 GHST quorum for this vote to be enacted.
 
 The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Voting Period:** 8 - 11 February 2021
+**Период голосования:** 8 - 11 февраля 2021
 
-**Results:**
+**Результаты:**
 
 table_ghstUsdcLp
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
+[Ссылка для голосования на Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
 <hr />
 
@@ -342,14 +342,14 @@ Let your $GHST token speak for you, and vote!
 
 Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-AavegotchiDAO discussion topic 👇
+Ветка обсуждения на AavegotchiDAO 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Период голосования:** 23 - 26 февраля 2021
 
-**Results:**
+**Результаты:**
 
 table_portalsPurchased
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
+[Ссылка для голосования на Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
