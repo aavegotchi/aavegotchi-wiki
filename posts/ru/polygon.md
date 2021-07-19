@@ -11,9 +11,9 @@ contributors:
 
 Если коротко, Polygon — это решение масштабируемости второго уровня для публичных блокчейнов, к примеру, Ethereum. Эта децентрализованная платформа обеспечивает быстрые и сверх дешевые транзакции с финалити в основной цепи. Если у вас есть желание разобраться в деталях, как это работает, читайте данную [статью](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
-So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+Так что скажите “прощай” транзакциям на сотню долларов в Uniswap и получите возможность работать без лишних комиссий.
 
-Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
+Переход на Полигон открыл новые возможности для игры Аавеготчи. [Ник Мадж](/team#nick-mudge) был абсолютно прав, предложив эту идею. Геймеры уже [сэкономили более $14,4 млн на газе](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
@@ -30,42 +30,42 @@ Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that
 
 ## Почему Polygon?
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+Знаете ли вы, что игра Аавеготчи в основной сети Ethereum должна была запуститься 04.01.2021. Однако в этот день цена биткоина подскочила почти на 40%, и арбитражные боты сошли с ума. Плата за газ подскочила почти до 400 gwei, и комиссия за проведение транзакции стала нереально высокой. Например, купить 1 портал, открыть и вызвать Готчи обошлось бы в 300 долларов, как минимум.
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+В связи с этим стало ясно, что запускать игру в основной сети Ethereum — плохая идея. В качестве решения масштабирования второго уровня был выбран Полигон, который к тому моменту уже был известен и имел множество приверженцев. Сеть активно работала с разными NFT-проектами, как OpenSea. Поэтому разработчики предложили перенести запуск на Полигон. Сообщество путем голосования поддержало эту идею. “За” ответило 76%.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Подробней об этом можно почитать [тут](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
 ## Добавляем Polygon в Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+Итак, как начать работать с Полигон? По мнению большинства игроков, наиболее удобным кошельком для игры является Метамаск. Рассмотрим, как его использовать для работы с Полигоном.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Откройте расширение и нажмите кнопку основной сети “Ethereum Mainnet”, расположенную вверху.
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
-2). Выберите «Пользовательский RPC».
+2). Выберите “Пользовательский RPC”.
 
 <img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Метамаск пользовательский RPC" />
 
 3). Введите такие настройки для корректной работы Мумбаи:
 
-Network Name: Matic Mainnet
+Имя сети: Matic Mainnet.
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+Новый URL-адрес RPC: https://rpc-mainnet.maticvigil.com/.
 
-Chain ID: 137
+ID цепочки: 137.
 
 Символ валюты: MATIC.
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Блокировать Explorer URL (необязательно): https://explorer.matic.network/.
 
 Нажимайте «Сохранить», как только заполните все поля.
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4).  И все! Вы уже в тестовой сети Мумбаи! Далее можно переключаться в Метамаске между Полигоном и основной сетью Ethereum, нажимая соответствующую кнопку.
 
 ## Перемещаем средства в Polygon
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+Что делать после настройки Метамаска? Нужно иметь средства на счету в Polygon. Используйте мост Polygon ([PoS](/glossary#proof-of-stake)) для переброски токенов из основной сети Ethereum. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
 
 So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
 
