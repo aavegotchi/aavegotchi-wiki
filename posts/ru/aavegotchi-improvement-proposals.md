@@ -176,15 +176,15 @@ table_agip6
 ### Добавлять очки опыта (XP) за принятые предложения по улучшению проекта
 **Предложение № 7 по улучшению Аавеготчи**
 
-О чем предложение: До нынешнего времени, несмотря на большое количество сигнальных предложений, ни одно не смогло преодолеть планку кворума в 20%. So far none of those proposals were able to even get close to the quorum of 20%. Популярнейшее предложение от @JG по поводу фарминга собрало чуть более 11 процентов (2 млн GHST). Хотя команда решила воплотить это предложение в жизнь, сделав его основным предложением. После обновления до Core кворум был преодолен за сутки.
+**О чем предложение:** До нынешнего времени, несмотря на большое количество сигнальных предложений, ни одно не смогло преодолеть планку кворума. Напомним, что кворум — 20%. Популярнейшее предложение от @JG по поводу фарминга собрало чуть более 11 процентов (2 млн GHST). Хотя команда решила воплотить это предложение в жизнь, сделав его основным предложением. После обновления до Core кворум был преодолен за сутки.
 
-I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+Это объясняется вполне очевидными причинами. Дело в том, что слепки блокчейна сейчас немного хаотичны, а некоторые предложения не в полной мере соответствуют предложенному шаблону. Однако, если ввести награду за голосование (20 очков опыта/XP) для вашего Готчи, — это может исправить ситуацию.
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Даже если учесть, что 10 XP — это мало, все же многие согласятся регулярней просматривать сигнальные предложения и голосовать за качественные, имеющие высокие шансы на достижение кворума.
+Также предлагаем добавить награду в 10 XP тем, кто проголосовал за успешные сигнальные предложения, в дальнейшем ставшие основными предложениями.  Если у игроков не будет награды, может появиться большое число предложений низкого качества, что ничего не даст игре и геймерам.
 
-Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
+Даже если учесть, что 10 XP — это мало, все же многие согласятся регулярней просматривать сигнальные предложения и голосовать за качественные, имеющие высокие шансы на достижение кворума. Активность сообщества — отличный показатель для экосистемы и DAO, и если пойти людям навстречу и назначить награду, то это положительно повлияет на игровой процесс.
 
-If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
+Если данное предложение достигнет кворума, то Готчи, проголосовавшие “За”, сразу получат по 10 XP!
 
 Смотрите подробности по AGIP [тут](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
@@ -205,13 +205,13 @@ table_agip7
 ### Право голоса в зависимости от базовой характеристики черт (BRS)
 **Предложение № 8 по улучшению Аавеготчи**
 
-**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+**О чем предложение:** Добавить Готчи право голоса в зависимости от показателя базовой редкости черт из расчета 1 GHST за BRS. Без учета BRS экипировки.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Подробнее о предложении можно узнать [тут](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+Вариант 1: Да, предоставить право голоса.
 
-Option 2: No, Aavegotchis shouldn’t have Voting Power
+Вариант 2. Нет, Готчи не должны иметь право голоса в зависимости от уровня BRS.
 
 **Период голосования:** 11 - 17 июня 2021
 
@@ -226,13 +226,13 @@ table_agip8
 ### Право голоса в зависимости от цены носимых устройств в Молле
 **Предложение № 9 по улучшению Аавеготчи**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**О чем предложение:** Готчи должны получать дополнительное право голоса, зависящее от имеющейся в их арсенале экипировки.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Подробнее о предложении можно узнать [тут](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+Вариант 1. Да, Готчи должны иметь право голоса, зависящее от объема средств, потраченных на экипировку в Молле.
 
-Option 2: No, Wearables shouldn’t have Voting Power
+Вариант 2. Нет, право голоса для экипировки не требуется.
 
 **Период голосования:** 11 - 17 июня 2021
 
