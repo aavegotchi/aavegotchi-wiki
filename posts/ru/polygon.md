@@ -9,7 +9,7 @@ contributors:
 
 Привет Френ! Выходит ты слышал про миграцию в Polygon (ранее Matic Network), но ни черта не знаешь, что это вообще такое? Не переживай, мы проведем тебя за руку шаг за шагом!
 
-Если коротко, Polygon - это решение масштабируемости второго уровня для публичных блокчейнов, к примеру, Ethereum. Эта децентрализованная платформа обеспечивает быстрые и сверх дешевые транзакции с финалити в основной цепи. Если у вас есть желание разобраться в деталях, как это работает, читайте данную [статью](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
+Если коротко, Polygon — это решение масштабируемости второго уровня для публичных блокчейнов, к примеру, Ethereum. Эта децентрализованная платформа обеспечивает быстрые и сверх дешевые транзакции с финалити в основной цепи. Если у вас есть желание разобраться в деталях, как это работает, читайте данную [статью](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
 So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
 
@@ -44,11 +44,11 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
-2). Выберите “Custom RPC”.
+2). Выберите «Пользовательский RPC».
 
 <img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Метамаск пользовательский RPC" />
 
-3). Введите следующие настройки:
+3). Введите такие настройки для корректной работы Мумбаи:
 
 Network Name: Matic Mainnet
 
@@ -56,11 +56,11 @@ New RPC URL: https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 
-Currency Symbol: MATIC
+Символ валюты: MATIC.
 
 Block Explorer URL (optional): https://explorer.matic.network/
 
-Как только заполните все поля, кликайте “Save”.
+Нажимайте «Сохранить», как только заполните все поля.
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
