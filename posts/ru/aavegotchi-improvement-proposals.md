@@ -16,7 +16,7 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>Увеличение касания для лучшего масштабирования.</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>Увеличение числа выделяемых DAI на нужды проекта.</a></li>
 <li><a href=#add-fees-to-bonding-curve>Добавление комиссионных в кривую связывания.</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Увеличить количество тапов DAICO для покупки GHST.</a></li>
 <li><a href=#proposal-for-haunt-2>Предложение по второму поколению призраков.</a></li>
