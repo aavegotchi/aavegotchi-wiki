@@ -6,6 +6,15 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
+* The recently concluded Aavegotchi #Bid2Earn Auction was a success!
+* View the Aauction aanalytics in this latest post!
+<p></p>
+
+## [Aavegotchi Haunt 2 CoreProp is live!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
+* The SigProp for Aavegotchi Haunt 2 was a resounding success! It has now been upgraded to a CoreProp! Go vote now!
+<p></p>
+
 ## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
 * On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
 * Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
