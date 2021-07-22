@@ -238,6 +238,11 @@ a:hover {
     margin-bottom: 20px;
 }
 
+hr {
+	background: linear-gradient(to bottom right, #FA34F3, #8F17F9);
+	height: 5px;
+}
+
 SVG {
     display: block;
     max-height: 100%;
