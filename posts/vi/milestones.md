@@ -7,17 +7,17 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
-* The recently concluded Aavegotchi #Bid2Earn Auction was a success!
-* View the Aauction aanalytics in this latest post!
+## [Nhìn Lại sự kiện Đấu Giá #Bid2Earn đầu tiên của Aavegotchi](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
+* Sự kiện #Bid2Earn kết thúc gần đây của Aavegotchi đã là một thắng lợi lớn!
+* Xem qua các phân tích Đấu Giá trong bài viết mới nhất!
 <p></p>
 
-## [Aavegotchi Haunt 2 CoreProp is live!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
-* The SigProp for Aavegotchi Haunt 2 was a resounding success! It has now been upgraded to a CoreProp! Go vote now!
+## [Aavegotchi Haunt 2 Signal Proposal đã có mặt!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
+* Bản SigProp cho Aavegotchi Haunt 2 là một thành công lớn! Giờ đây nó đã được nâng cấp lên thành CoreProp! Hãy bỏ phiếu ngay nhé!
 <p></p>
 
-## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
-* On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
+## [DinoSwap đã hoạt động! Phần Thưởng Thanh Khoản GHST-ETH đã có mặt!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
+* Vào ngày 17 tháng 7 năm 2021, Pixelcraft đã công bố về việc DinoSwap triển khai và phần thưởng GHST-ETH đã có mặt!
 * Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
 * In return, DinoSwap is incentivizing QuickSwap.exchange’s GHST-ETH liquidity with 2 million USD worth of DINO tokens over the coming 90 days.
 <p></p>
