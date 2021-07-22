@@ -34,11 +34,11 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 ## Official Mini-Games
 Soon! The Devs are hard at work. More information will be released here once it is available!
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS BEI DER ARBEIT</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-
 ## Community-created Mini-Games
 
 Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+
+The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
 
 ### Reverse Pacman by aaron555
 
