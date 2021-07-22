@@ -26,9 +26,10 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#voting-power-based-on-brs>Stimmgewicht basierend auf BRS</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name des Aavegotchi Marktplatzes</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENS verdienen mit GHST-USDC LP Tokens</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Anzahl Portale in einer Transaktion</a></li>
+<li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -265,26 +266,45 @@ table_agip10
 
 <hr />
 
-### Name des Aavegotchi Marktplatzes
+### Launch Haunt 2
+**Core Prop**
+
+**Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
+
+Our vision is for far wider adoption of playable NFTs, and the first step to achieving that means leaving the scarcity memes behind and focusing on being able to offer meaningfully unique experiences to more people.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/coreprop-launch-haunt-2/2034)
+
+Option 1: Yes, launch Haunt 2
+
+Option 2: No, do not launch Haunt 2 now
+
+**Voting Period:** 19 - 26 July 2021
+
+[Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmTuVnGnZSUC4uWRVQrd3HwmJATtvJVpjNikCkifChyJwY)
+
+<hr />
+
+### Name of Aavegotchi Marketplace
 **Snapshot Abstimmungen**
 
-**Zusammenfassung des Vorschlags:** Wie soll der Aavegotchi NFT-Marktplatz genannt werden?
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
-Aavegotchi lanciert seinen eigenen NFT-Marktplatz auf Polygon zeitgleich mit dem Spiel!
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
-Wie sollen wir den offiziellen Aavegotchi-Marktplatz nennen?
+What should we call the official Aavegotchi Marketplace?
 
-Wahl A: Aavegotchi Baazaar
+Choice A: Aavegotchi Baazaar
 
-Wahl B: Aavegotchi Maarket
+Choice B: Aavegotchi Maarket
 
-Wahl C: Weder noch
+Choice C: Neither
 
-Das Quorum für diese Abstimmung liegt bei 500'000 GHST. Sollte das Quorum nicht erreicht werden, wird Pixelcraft Strohhalme ziehen.
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
 
-Wenn "Keiner von beiden" gewinnt... dann solltet ihr euch lieber ein paar gute Alternativen einfallen lassen!
+If "Neither" wins...you guys better start coming up with some good alternatives!
 
-**Abstimmungszeitraum:** 8. - 11. Februar 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Ergebnis:**
 
@@ -294,23 +314,23 @@ table_marketplaceName
 
 <hr />
 
-### Anspruch von GHST-USDC LP Token auf FRENS
+### Eligibility of GHST-USDC LP tokens to earn FRENS
 
 **Snapshot Abstimmungen**
 
-**Zusammenfassung des Vorschlags:** Sollten GHST-USDC LP Tokens auch FRENS verdienen können?
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
-Unser Liquiditätsmigrationsprogramm war ein grosser Erfolg, mit bereits über 8 Mio. GHST, die auf Polygon migriert wurden. Wie viele Community-Mitglieder jedoch festgestellt haben, ist die Liquidität für das GHST-USDC Paar noch nicht ausreichend, um den Handel grosser Mengen an USDC für GHST auf Quickswap zu unterstützen.
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-Wir glauben, dass die Aufnahme von GHST-USDC als ein Paar, das für FRENS auf [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) zugelassen ist, eine Möglichkeit zur Abhilfe darstellt. Genauso wie GHST-QUICK einen "Quittungstoken" stkGHST-QUICK hat, kann auch der gestakete GHST-USDC einen stkGHST-USDC Token ausgeben. Dieser kann für Belohnungen auf Quickswap in Frage kommen, wenn ihr Team es für nötig hält.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
-Da diese Entscheidung direkten Einfluss auf das Gameplay hat, glauben wir, dass sie ein reifer Kandidat für unsere erste Snapshot-Abstimmung auf Polygon ist.
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 
-Wir setzen ein Quorum von 500'000 GHST fest, damit diese Abstimmung in Kraft treten kann.
+We are setting a 500,000 GHST quorum for this vote to be enacted.
 
-Mit dem GHST-USDC LP Token werden gleich viele FRENS wie mit dem normalen Staking von GHST verdient, da der Impermanent Loss minimal ist und die Gebühren erheblich sind.
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Abstimmungszeitraum:** 8. - 11. Februar 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Ergebnis:**
 
@@ -320,15 +340,15 @@ table_ghstUsdcLp
 
 <hr />
 
-### Anzahl Portale in einer Transaktion
+### Portals purchased in one transaction
 
 **Snapshot Abstimmungen**
 
-**Zusammenfassung des Vorschlags:** Wie viele Portale können in einer Transaktion gekauft werden?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
-Die Diskussionsphase für dieses Thema ist beendet und nun ist es an der Zeit abzustimmen! Die beliebtesten Optionen waren: 1, 5, und 10 Portale pro Transaktion.
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
-Unser Fren [@coderdannn](/team#coder-dan) warf auch eine interessante Idee in den Mix: Eine "Ape Tax", bei der eine höhere Anzahl von Portalen in einer einzigen Transaktion gekauft werden könnte, aber zu einem höheren Preis. Die Portale würden so gestaffelt sein:
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
 
 * 0-5: je 100 GHST
 
@@ -336,17 +356,17 @@ Unser Fren [@coderdannn](/team#coder-dan) warf auch eine interessante Idee in de
 
 * 16-25: je 300 GHST
 
-Damit bleiben uns vier Optionen: 1, 5, 10, und 25 (mit Ape Tax).
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 
-Lasst eure $GHST Tokens für euch sprechen und stimmt ab!
+Let your $GHST token speak for you, and vote!
 
-Abstimmungszeitraum: 72 Std. Mindestquorum: 10% aller GHST auf Matic (~1.1M GHST)
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-AavegotchiDAO Diskussion 👇
+AavegotchiDAO discussion topic 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Abstimmungszeitraum:** 23. - 26. Februar 2021
+**Voting Period:** 23 - 26 February 2021
 
 **Ergebnis:**
 
