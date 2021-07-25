@@ -34,11 +34,11 @@ contributors:
 ## Официальные мини-игры
 Совсем скоро! Команда усердно трудится над созданием мини-игр. Как только появится дополнительная информация, она будет опубликована на этой странице.
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>Готчи за работой!</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-
 ## Перечень мини-игр, созданных сообществом
 
-Некоторые наши друзья, знатоки Аавеготчи, создали уникальные мини-игры. Поиграй, ведь это отличное развлечение!
+Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+
+The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
 
 ### Реверсивный Пакмэн от AARON555
 

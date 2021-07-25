@@ -34,11 +34,11 @@ Bạn có Aavegotchi nhưng nó lại không phù hợp với mini game hiện c
 ## Mini-games Chính Thức
 Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công bố thêm nhiều thông tin một khi trò chơi đã sẵn sàng!
 
-<p style="font-size:15px;"><img src="/metaverse/construction.png" width="80" height="35" hspace="10"><b>GOTCHIS ĐI LÀM</b><img src="/metaverse/construction2.png" width="80" height="35" hspace="10"></p>
-
 ## Mini-games Được Cộng Đồng Tạo Ra
 
-Một vài [aarchitect](/aarchitect) đã tự tạo ra các trò mini game! Hãy chơi thử nhé!
+Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+
+The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
 
 ### Reverse Pacman của Paltox
 
