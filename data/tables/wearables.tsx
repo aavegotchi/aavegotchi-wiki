@@ -440,6 +440,20 @@ export const tables
 					[`<img src="/wearables/auction/coffee_cup.svg" alt = "aavegotchi Gotchi Mug"/>`, "205", "Gotchi Mug", "Common", "NRG +1", "1000", "hands"]
                 ]
             }
+        },
+		
+		{
+            tableName: "venlyWearablesTable",
+            tableCaption: "Aavegotchi x Venly Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/venly/biker_helmet.svg" alt = "aavegotchi Biker Helmet"/>`, "", "Biker Helmet", "", "", "", ""],
+					[`<img src="/wearables/venly/biker_jacket.svg" alt = "aavegotchi Biker Jacket"/>`, "", "Biker Jacket", "", "", "", ""],
+					[`<img src="/wearables/venly/aaviators.svg" alt = "aavegotchi Aviators"/>`, "", "Aviators", "", "", "", ""],
+					[`<img src="/wearables/venly/horseshoe_mustache.svg" alt = "aavegotchi Moustache"/>`, "", "Moustache", "", "", "", ""]
+                ]
+            }
         },		
 
         {
