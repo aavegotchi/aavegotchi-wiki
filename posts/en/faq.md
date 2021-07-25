@@ -48,6 +48,14 @@ contributors: ["eris771"]
 <p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
+<li><a href=#aauction-faq>Aauction FAQ</a></li>
+<p><a href=#how-much-can-i-earn->How much can I earn?</a></p>
+<p><a href=#can-i-outbid-myself->Can I outbid myself?</a></p>
+<p><a href=#why-is-the-minimum-increase-10-->Why is the minimum increase 10%?</a></p>
+<p><a href=#is-there-a-minimum-bid->Is there a minimum bid?</a></p>
+<p><a href=#what-prevents-bots-from-swiping-up-all-the-items->What prevents bots from swiping up all the items?</a></p>
+<p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->What prevents bots from being able to snipe the end of an auction?</a></p>
+<p><a href=#how-do-i-claim-my-nft->How do I claim my NFT?</a></p>
 <li><a href=#wearable-faq>Wearable FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
@@ -260,6 +268,33 @@ You will then be brought to another page where you can specify the recipient's a
 
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+
+## Aauction FAQ
+
+### How much can I earn?
+Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+
+For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+
+### Can I outbid myself?
+Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+
+### Why is the minimum increase 10%?
+This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+
+### Is there a minimum bid?
+There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+
+### What prevents bots from swiping up all the items?
+In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+
+This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+
+### What prevents bots from being able to snipe the end of an auction?
+If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+
+### How do I claim my NFT?
+If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
 
 ## Wearable FAQ
 
