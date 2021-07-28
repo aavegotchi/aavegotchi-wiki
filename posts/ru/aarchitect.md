@@ -11,7 +11,7 @@ contributors:
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
 <li><a href=#aarchitects>Создатели (Aarchitects)</a></li>

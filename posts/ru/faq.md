@@ -50,24 +50,30 @@ contributors:
 <p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#wearable-faq>Вопросы по экипировке:
-</a></li>
+<li><a href=#aauction-faq>Aauction FAQ</a></li>
+<p><a href=#how-much-can-i-earn->How much can I earn?</a></p>
+<p><a href=#can-i-outbid-myself->Can I outbid myself?</a></p>
+<p><a href=#why-is-the-minimum-increase-10-->Why is the minimum increase 10%?</a></p>
+<p><a href=#is-there-a-minimum-bid->Is there a minimum bid?</a></p>
+<p><a href=#what-prevents-bots-from-swiping-up-all-the-items->What prevents bots from swiping up all the items?</a></p>
+<p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->What prevents bots from being able to snipe the end of an auction?</a></p>
+<p><a href=#how-do-i-claim-my-nft->How do I claim my NFT?</a></p>
+<li><a href=#wearable-faq>Wearable FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
-<li><a href=#portal-faq>Вопросы по порталам:
-</a></li>
+<li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
 <p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
-<li><a href=#aavegotchidao-faq>Вопросы по Аавеготчи DAO:</a></li>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
-<li><a href=#gameplay-faq>Вопросы по геймплею:</a></li>
+<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Вопросы по технической части:</a></li>
+<li><a href=#technical-faq>Technical FAQ</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
@@ -262,7 +268,34 @@ You will then be brought to another page where you can specify the recipient's a
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-## Вопросы по экипировке:
+## Aauction FAQ
+
+### How much can I earn?
+Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+
+For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+
+### Can I outbid myself?
+Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+
+### Why is the minimum increase 10%?
+This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+
+### Is there a minimum bid?
+There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+
+### What prevents bots from swiping up all the items?
+In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+
+This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+
+### What prevents bots from being able to snipe the end of an auction?
+If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+
+### How do I claim my NFT?
+If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+
+## Wearable FAQ
 
 ### Do I need to transfer my wearable vouchers to Polygon?
 No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
@@ -279,7 +312,7 @@ You (the owner) have your own separate inventory as well. Most likely, you are r
 
 At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
-## Вопросы по порталам:
+## Portal FAQ
 
 ### How many portals can you buy in 1 transaction?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
@@ -290,7 +323,7 @@ Yes, you can leave the portal opened, go acquire the specific aToken, and come b
 ### When will portals be released?
 Portals will be released on Polygon at February.
 
-## Вопросы по Аавеготчи DAO:
+## AavegotchiDAO FAQ
 
 ### How do I vote using Trust Wallet on Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
@@ -300,7 +333,7 @@ See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-
 ### Why does it say wrong timestamp in Snapshot Voting?
 This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
-## Вопросы по геймплею:
+## Gameplay FAQ
 
 
 ### Do higher trait scores always mean higher rarity?
@@ -314,7 +347,7 @@ Portals are expected to cost 100 GHST for the first haunt. Costs for other items
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Вопросы по технической части:
+## Technical FAQ
 
 
 ### Is Aavegotchi on-chain?

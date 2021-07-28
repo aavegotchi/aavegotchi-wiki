@@ -149,21 +149,23 @@ table_installations
 
 Это необычные аукционы по запатентованной технологии с элементом стимулирования. Участники аукционов могут делать ставки на участки на карте Готчиверсии. Проигравшие в этом своеобразном соревновании также являются и победителями. Вместо участка они неплохо заработают за время аукциона, пополнив запасы GHST. Эта система аукционов существует с 2019 года, будучи разработанной и запатентованной создателями проекта Cryptographs. Они предоставили Pixelcraft Studios официальную лицензию на все NFT-дропы, включая второе поколение Готчи, земли и даже экипировку.
 
-Стимулирующий аукцион является уникальным в своем роде и решает проблемы, присущие FCFS-аукционам, однако победителем в нем по-прежнему становится тот, кто больше всего инвестирует в игру.
+Check out our [Aauction page](/aauction) for more information.
 
-Чтобы у тех, кто не победил в аукционе, была возможность обзавестись землей, оставшиеся 20 процентов участков были переданы в фонд лотереи и будут разыграны посредством генератора случайных чисел Chainlink VRF.
+This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
 
-Метод 2: Лотерея (20%)
+To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
 
-Участие в лотерее дает шанс получить земельный участок. Для этого необходимо иметь хотя бы один Дроп-билет, который предоставляет вход в лотерею, разыгрывающую порталы и земли. Чем больше билетов, тем выше шансы. Заработать Дроп-билеты можно путем участия в миссиях, меняя баллы FRENS или [другие лотерейные билеты](/staking#purchasing-raffle-tickets). За 10 000 FRENS дают один Дроп-билет. Так что [стейкайте GHST](/staking) и накапливайте баллы FRENS.
+Method 2: Raffle (20%)
+
+The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
 ### Дроп-билеты
 
-Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). 1 Дроп-билет дает **одну** возможность поучаствовать в розыгрыше NFT, и при наличии удачи выиграть порталы и земельные участки.
+Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
 
 <img class="bodyImage" src="/metaverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-Билеты доступны в трех случаях:
+There are three ways to get Drop Tickets:
 
 * Обмен 10 000 FRENS на один Дроп-билет.
 * Конвертация других билетов в Дроп-билеты.
