@@ -7,8 +7,8 @@ contributors:
   - "chinyh"
 ---
 
-## [Exclusive Aavegotchi * Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
-* Hear ye! Hear ye! There will be an exclusive Aavegotchi * Venly Wearables Drop coming up soon!
+## [Exclusive Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
+* Hear ye! Hear ye! There will be an exclusive Aavegotchi x Venly Wearables Drop coming up soon!
 * Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
 <p></p>
 
