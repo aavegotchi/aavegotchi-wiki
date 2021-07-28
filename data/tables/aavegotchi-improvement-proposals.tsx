@@ -136,6 +136,18 @@ export const tables
         },
 		
 		{
+            tableName: "launchHaunt2",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, launch Haunt 2", "7,110,000 GHST (94%)"],
+					["No, do not launch Haunt 2 now", "453,850 GHST (6%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
