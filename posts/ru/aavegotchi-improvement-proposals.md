@@ -281,6 +281,10 @@ Option 2: No, do not launch Haunt 2 now
 
 **Voting Period:** 19 - 26 July 2021
 
+**Результаты:**
+
+table_launchHaunt2
+
 [Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmTuVnGnZSUC4uWRVQrd3HwmJATtvJVpjNikCkifChyJwY)
 
 <hr />

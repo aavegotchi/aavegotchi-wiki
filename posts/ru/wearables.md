@@ -57,6 +57,7 @@ contributors:
 <li><a href=#consumables>Расходники.</a></li>
 <li><a href=#layer-2-themed-set>Тематический набор 2 уровня Polygon.</a></li>
 <li><a href=#auction-wearables>Auction Wearables</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
 </ol>
 
 </div>
@@ -209,3 +210,9 @@ The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 Ju
 This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
 
 table_auctionWearablesTable
+
+## Aavegotchi x Venly Wearables
+
+A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+
+table_venlyWearablesTable
