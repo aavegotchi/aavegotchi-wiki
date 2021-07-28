@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Exclusive Aavegotchi * Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
+* Hear ye! Hear ye! There will be an exclusive Aavegotchi * Venly Wearables Drop coming up soon!
+* Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
+<p></p>
+
 ## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
 * The recently concluded Aavegotchi #Bid2Earn Auction was a success!
 * View the Aauction aanalytics in this latest post!
