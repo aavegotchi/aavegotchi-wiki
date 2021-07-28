@@ -57,6 +57,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#consumables>Vật phẩm tiêu hao</a></li>
 <li><a href=#layer-2-themed-set>Trang Phục Chủ Đề Layer 2</a></li>
 <li><a href=#auction-wearables>Trang Phục Đấu Giá</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
 </ol>
 
 </div>
@@ -209,3 +210,9 @@ Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức v
 Chương trình đấu giá đầu tiên có sự xuất hiện của hai bộ trang phục mới cũng như một vật phẩm có độ hiếm common. Hãy sẵn sàng cho các gamer, steampunk và thậm chí là một cốc cà phê!
 
 table_auctionWearablesTable
+
+## Aavegotchi x Venly Wearables
+
+A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+
+table_venlyWearablesTable
