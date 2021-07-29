@@ -448,10 +448,10 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
                 data: [
-                    [`<img src="/wearables/venly/biker_helmet.svg" alt = "aavegotchi Biker Helmet"/>`, "207", "Biker Helmet", "Rare", "AGG +2, BRN +1", "250", "head"],
-					[`<img src="/wearables/venly/biker_jacket.svg" alt = "aavegotchi Biker Jacket"/>`, "208", "Biker Jacket", "Uncommon", "AGG +2", "500", "body"],
-					[`<img src="/wearables/venly/aaviators.svg" alt = "aavegotchi Aviators"/>`, "209", "Aviators", "Uncommon", "SPK +2", "500", "eyes"],
-					[`<img src="/wearables/venly/horseshoe_mustache.svg" alt = "aavegotchi Horseshoe Mustache"/>`, "210", "Horseshoe Mustache", "Legendary", "NRG -2, SPK +2", "100", "face"]
+                    [`<img src="/wearables/venly/biker_helmet.svg" alt = "aavegotchi Biker Helmet"/>`, "206", "Biker Helmet", "Rare", "AGG +2, BRN +1", "250", "head"],
+					[`<img src="/wearables/venly/biker_jacket.svg" alt = "aavegotchi Biker Jacket"/>`, "207", "Biker Jacket", "Uncommon", "AGG +2", "500", "body"],
+					[`<img src="/wearables/venly/aaviators.svg" alt = "aavegotchi Aviators"/>`, "208", "Aviators", "Uncommon", "SPK +2", "500", "eyes"],
+					[`<img src="/wearables/venly/horseshoe_mustache.svg" alt = "aavegotchi Horseshoe Mustache"/>`, "209", "Horseshoe Mustache", "Legendary", "NRG -2, SPK +2", "100", "face"]
                 ]
             }
         },		
