@@ -1,7 +1,7 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Dieses Wiki weiterentwickeln'
+title: 'Developing Aavegotchi'
 description: 'Mach mit und hilf bei der Entwicklung dieses Wikis!'
 ---
 
@@ -10,20 +10,48 @@ description: 'Mach mit und hilf bei der Entwicklung dieses Wikis!'
 <p class="headerImageText">CoderDan welcomes you!</p>
 </div>
 
-Willst du deine tollen Programmierfähigkeiten zeigen? Hilf mit, dieses Wiki zu entwickeln!
+Willst du deine tollen Programmierfähigkeiten zeigen? We welcome you fren!
 
-Einige gewünschte oder benötigte Features:
+The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
-* 🌃 Daark Mode
-* 📱 Besser anpassen für Mobile
+<div class="contentsBox">
 
-For developers, the Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+**Inhalte**
 
-<div style="margin-top:50px;"></div>
+<ol>
+<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+</ol>
 
-<a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Los geht's</a>
+</div>
 
-[Aarchitects](/aarchitect), our community developers, have come up with web applications.
+## Building Aavegotchi.com
+
+Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
+
+Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
+
+## Building the Wiki
+
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
+
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
+
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
+
+* [Building a full-stack Aavegotchi minigame - Part 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
+
+* [Building a full-stack Aavegotchi minigame - Part 2: Server + Leaderboard](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
+
+## Aarchitect Creations
+
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
 
