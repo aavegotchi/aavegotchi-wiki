@@ -29,6 +29,7 @@ contributors:
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
 <li><a href=#jason-chew>Jason Chew</a></li>
+<li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#bingehd>BinGeHD</a></li>
 <li><a href=#shohan>Shohan</a></li>
@@ -111,6 +112,15 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 </div>
 
 Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
+
+## Gravy
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
+<p class="leftImageText"><a href="https://twitter.com/0xGravy">Gravy</a></p>
+</div>
+
+Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
 ## NyanKong
 
