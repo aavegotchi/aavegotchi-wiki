@@ -1,7 +1,7 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Develop this Wiki'
+title: 'Developing Aavegotchi'
 description: 'Jump in and help develop this Wiki!'
 ---
 
@@ -10,20 +10,48 @@ description: 'Jump in and help develop this Wiki!'
 <p class="headerImageText">CoderDan 欢迎您！</p>
 </div>
 
-想展示你的厉害的编码技术吗？帮助开发这个Wiki!  帮助开发这个Wiki!
+想展示你的厉害的编码技术吗？帮助开发这个Wiki!  We welcome you fren!
 
-一些要求或需要的功能。
+The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
-* 🌃 深色模式
-* 📱 让它移动端更加友好化
+<div class="contentsBox">
 
-对于开发者来说，Aavegotchi 文档可以在这里找到 [](https://docs.aavegotchi.com/)。
+**内容**
 
-<div style="margin-top:50px;"></div>
+<ol>
+<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+</ol>
 
-<a class="button-default" href="https://github.com/aavegotchi/aavegotchi-wiki" target="_blank">Git Started</a>
+</div>
 
-[Aarchitects](/aarchitect), our community developers, have come up with web applications.
+## Building Aavegotchi.com
+
+Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
+
+Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
+
+## Building the Wiki
+
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
+
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
+
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
+
+* [Building a full-stack Aavegotchi minigame - Part 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
+
+* [Building a full-stack Aavegotchi minigame - Part 2: Server + Leaderboard](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
+
+## Aarchitect Creations
+
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
 
