@@ -29,10 +29,11 @@ contributors:
 <li><a href=#candoizo>Candoizo.</a></li>
 <li><a href=#coyote>Койот (Coyote).</a></li>
 <li><a href=#jason-chew>Джейсон Чу (Jason Chew).</a></li>
-<li><a href=#nyankong>NyanKong.</a></li>
-<li><a href=#bingehd>BinGeHD.</a></li>
-<li><a href=#shohan>Shohan.</a></li>
-<li><a href=#origins>Как все начиналось.</a></li>
+<li><a href=#gravy>Gravy</a></li>
+<li><a href=#nyankong>NyanKong</a></li>
+<li><a href=#bingehd>BinGeHD</a></li>
+<li><a href=#shohan>Shohan</a></li>
+<li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
@@ -112,14 +113,23 @@ Candoizo является успешным разработчиком прогр
 
 Джейсон познакомился с блокчейном Ethereum еще в Devcon V Osaka, и с тех пор активно работает с подобными проектами. От DAOstack, BrightID до Gitcoin, Джейсон - отличный специалист по DeFi, который никогда не прекращает экспериментировать и продвигать технологию. Он также управляет BitcoinMalaysia, которое является самым большим онлайн криптосообществом в Юго-Восточной Азии, а также читает лекции для начинающих, которые с начала пандемии прослушало более 8000 человек.
 
-## NyanKong.
+## Gravy
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
+<p class="leftImageText"><a href="https://twitter.com/0xGravy">Gravy</a></p>
+</div>
+
+Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+
+## NyanKong
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
 <p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
 </div>
 
-Кристиан Сенн (ник NyanKong или kurisu) имеет 30-летний опыт в создании игровых проектов (разработка игрового дизайна, графики и анимации) для консолей, ПК, мобильных устройств, настольных компьютеров. Его интерес к виртуальной реальности и игровым проектам постоянно подпитывается живым воображением, а активное взаимодействие с командами и аудиторией позволяет делать проекты лучше и интересней. В команде Pixelcraft Кристиан занимается разработкой арт-объектов, которые можно исследовать, наслаждаясь процессом.
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ## BinGeHD
 
@@ -128,7 +138,7 @@ Candoizo является успешным разработчиком прогр
 <p class="leftImageText"><a href="https://facebook.com/bingehd">BinGeHD</a></p>
 </div>
 
-Партнер Twitch, ранее являвшийся профессиональным игровым евангелистом. Член команды Flash Wolves, комментатор.
+Twitch partner, previously a professional gaming evangelist, shoutcaster, and member of the team Flash Wolves.
 
 ## Shohan
 
@@ -137,19 +147,19 @@ Candoizo является успешным разработчиком прогр
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
 </div>
 
-Профессиональный разработчик игр с 5-летним опытом. Занимался программированием игрового процесса, бэкэнд-программированием и работой над другими аспектами разработки игр. Работал в таких известных игровых студиях, например — Stillfront (Moonfrog Labs). Является магистром компьютерных наук. В Аавеготчи занимается разработкой Вселенной, где призраки могут бродить, исследовать мир и развлекаться.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
-## Как все начиналось
+## Origins
 
 ### СБОРНАЯ КОМАНДА МЕЧТЫ
-Теперь вы знаете, кто занимается разработкой игры Аавеготчи.  Это команда мечты, готовая захватить целый мир. Вот как все начиналось... В 2011 или 2012 году, когда Дэн только что закончил колледж, впереди было туманное будущее.  Однако он точно знал, чем бы хотел заниматься — продавать конфеты на пляже в Китае))
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Правда, эта мечта так и осталась недостижимой, так как следующим увлечением Дэна стало блогерство.  Он решил стать знаменитостью на Ютубе.  И успешно достиг желаемого.  На это ушло пару лет.  По их прошествии, довольно потирая руки, Дэн решил — раз эта цель достигнута, пора вернутся к мечтам о пляже.  Одна мысль не давала покоя...
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-“Пора продавать конфеты”, — подумал Дэн.
+"It's time to sell some candy" Said Dan.
 
-К счастью для всех поклонников Аавеготчи, и в этот раз его мечта о солнечном пляже оказалась несбыточной.  Он познакомился с Джесси, известным также как GldnXross.  Ребята быстро подружились.  Сочиняли музыку и отлично проводили время.
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-В один прекрасный день они задумались о создании блокчейн-версии классической игрушки из 90-х.  Однако вдвоем такая задача им была не под силу.  Нужны были лучшие из лучших...  Но кто это может быть?  "Xibot!" Немедленно сказал Дэн.  Только он мог бы понять идею до конца, уловить все тональности и помочь в создании игры.  “Так, а что насчет смарт-контрактов” — сказал GldnXross.  Кто бы мог ими заняться? “Есть один человек”, — сказал Дэн. Он без ума от смарт-контрактов настолько, что пишет смарт-контракты для смарт-контрактов.  Это Ник Мадж! Сказал GldnXross.  “А что насчет Сообщества?” Нужен кто-то невероятный, кто сможет подавить спамеров и помочь новичкам.  У него должно быть золотое сердце и ангельское терпение. Есть такой! Это JC Crown!
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Вот так и собрались наши герои. Некоторые детали этого рассказа приведены с поправкой на время.
+So this is how our heroes assembled, some details have been edited for time.
