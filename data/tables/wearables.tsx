@@ -462,12 +462,12 @@ export const tables
             tableData: {
                 headers: ["Rarity Type", "Quantity", "BRS Bonus"],
                 data: [
-                    ["Common", "1000+", "+1"],
-                    ["Uncommon", "500-999", "+2"],
-                    ["Rare", "250-499", "+5"],
-                    ["Legendary", "100-249", "+10"],
-                    ["Mythical", "10-99", "+20"],
-                    ["Godlike", "1-9", "+50"],
+                    ["Common", "1000", "+1"],
+                    ["Uncommon", "500", "+2"],
+                    ["Rare", "250-300", "+5"],
+                    ["Legendary", "100-150", "+10"],
+                    ["Mythical", "10-50", "+20"],
+                    ["Godlike", "5", "+50"],
 
                 ]
             }
