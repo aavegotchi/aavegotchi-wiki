@@ -39,6 +39,7 @@ export const tables
 					[`Legendary`, `2500 FRENS`, `<img src = "/staking/ticket-legendary.svg" alt = "Aavegotchi Legendary Raffle Ticket">`],
 					[`Mythical`, `10000 FRENS`, `<img src = "/staking/ticket-mythical.svg" alt = "Aavegotchi Mythical Raffle Ticket">`],
 					[`Godlike`, `50000 FRENS`, `<img src = "/staking/ticket-godlike.svg" alt = "Aavegotchi Godlike Raffle Ticket">`],
+					[`Drop Ticket`, `10000 FRENS`, `<img src = "/staking/ticket-drop.svg" alt = "Aavegotchi Drop Ticket">`]
                 ]
             }
         }
