@@ -28,13 +28,13 @@ Một gotchi khác giơ tay lên.
 
 Căn phòng trở nên yên lặng.
 
-"Going once"
+"10k lần thứ nhất"
 
-"Going twice"
+"10k lần thứ hai"
 
-"Gone!"
+"Chốt!"
 
-"VR Headset sold for 10000 GHST!"
+"VR Headset đã được bán với giá 10k GHST!"
 
 <div class="contentsBox">
 
@@ -42,23 +42,23 @@ Căn phòng trở nên yên lặng.
 
 <ol>
 <li><a href=#aauction-house>Nhà Đấu Giá</a></li>
-<li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
+<li><a href=#aauction-mechanisms>Cơ Chế Đấu Giá</a></li>
 </ol>
 
 </div>
 
 ## Nhà Đấu Giá
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
+Nhà Đấu Giá là nơi mà mà các buổi đấu giá diễn ra. Bạn có thể tìm truy cập tại [here](https://aavegotchi.com/auction).
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+Nhà Đấu Giá có 4 tab để người dùng tương tác. Bạn có thể tìm chúng ở góc trái của trang:
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
+* **Hướng Dẫn**: Miêu tả ngắn về cách hoạt động của mô hình đấu giá
+* **Đấu Giá Hiện Có**: Danh sách các vật phẩm mà bạn có thể tham gia đấu giá
+* **Các Lệnh Đặt Giá Của Tôi**: Danh sách các vật phẩm mà bạn đã đặt giá. Tại đây các lệnh trong quá khứ của sẽ được hiển thị. Khi các sự kiện đấu giá vật phẩm kết thúc và bạn giành được một vật nào đó, bạn có thể vào trang của món vật phẩm đó để claim
 * **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
 
-## Aauction Mechanisms
+## Cơ Chế Đấu Giá
 
 Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
