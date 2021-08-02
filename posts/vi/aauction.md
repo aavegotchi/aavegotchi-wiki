@@ -1,71 +1,71 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+title: 'Nhà Đấu Giá'
+description: 'Nhà Đấu Giá Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">Nhà Đấu Giá</p>
 </div>
 
-"VR Headset going for 3000 GHST"
+"VR Headset giá 3000 GHST"
 
-A gotchi raises his hand.
+Một gotchi giơ cánh tay lên.
 
 "5000 GHST"
 
-"VR Headset going for 5000 GHST!"
+"VR Headset giá 5000 GHST!"
 
-Another gotchi raises her hand.
+Một gotchi khác giơ tay lên.
 
 "10000 GHST"
 
-"VR Headset going for 10000 GHST"
+"VR Headset giá 10000 GHST"
 
-The room went quiet.
+Căn phòng trở nên yên lặng.
 
-"Going once"
+"10k lần thứ nhất"
 
-"Going twice"
+"10k lần thứ hai"
 
-"Gone!"
+"Chốt!"
 
-"VR Headset sold for 10000 GHST!"
+"VR Headset đã được bán với giá 10k GHST!"
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#aauction-house>Aauction House</a></li>
-<li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
+<li><a href=#aauction-house>Nhà Đấu Giá</a></li>
+<li><a href=#aauction-mechanisms>Cơ Chế Đấu Giá</a></li>
 </ol>
 
 </div>
 
-## Aauction House
+## Nhà Đấu Giá
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
+Nhà Đấu Giá là nơi mà mà các buổi đấu giá diễn ra. Bạn có thể tìm truy cập tại [here](https://aavegotchi.com/auction).
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+Nhà Đấu Giá có 4 tab để người dùng tương tác. Bạn có thể tìm chúng ở góc trái của trang:
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Hướng Dẫn**: Miêu tả ngắn về cách hoạt động của mô hình đấu giá
+* **Đấu Giá Hiện Có**: Danh sách các vật phẩm mà bạn có thể tham gia đấu giá
+* **Các Lệnh Đặt Giá Của Tôi**: Danh sách các vật phẩm mà bạn đã đặt giá. Tại đây các lệnh trong quá khứ của sẽ được hiển thị. Khi các sự kiện đấu giá vật phẩm kết thúc và bạn giành được một vật nào đó, bạn có thể vào trang của món vật phẩm đó để claim
+* **Tiền Thưởng**: danh sách các vật phẩm mà bạn đã đặt giá nhưng bị người khác vượt mặt và phần thưởng bạn giành được. Phần thưởng sẽ được gửi thẳng về ví của bạn mà không cần phải tự tay claim
 
-## Aauction Mechanisms
+## Cơ Chế Đấu Giá
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
+Các buổi đấu giá Aavegotchi được vận hành theo mô hình đấu giá Gonnaud-Bessire-McDonaugh (GBM). Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+Trong một sự kiện đấu giá thông thường, chỉ có một người chiến thắng và tất cả những người còn lại đều thua. Nhiều sự kiện đấu giá không đủ hấp dẫn và một só người ra về tay không. GBM™ biến bất kỳ sự kiện đấu giá nào cũng trở thành một trải nghiệm tuyệt vời mà bạn có thể thắng hoặc có thể kiếm ra tiền.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Bạn đặt lệnh, và nếu ai đó vượt mặt bạn, bạn sẽ lấy lại tiền cược và số tiền cộng thêm xem như phần thưởng.
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số tiền mà mà người đặt lệnh kiếm được khi họ bị vượt mặt. Những con số này có thể được tuỳ chỉnh dựa trên khoản tiền mà bạn muốn người đặt giá có thể kiếm được. Bất kỳ ai đặt lệnh mà bị vượt mặt đều sẽ kiếm được phần thưởng, và người đặt giá cao nhất ở cuối buổi đấu giá sẽ nhận được phần thưởng, số tiền còn lại sẽ được trả cho người bán.
