@@ -56,16 +56,16 @@ Nhà Đấu Giá có 4 tab để người dùng tương tác. Bạn có thể t�
 * **Hướng Dẫn**: Miêu tả ngắn về cách hoạt động của mô hình đấu giá
 * **Đấu Giá Hiện Có**: Danh sách các vật phẩm mà bạn có thể tham gia đấu giá
 * **Các Lệnh Đặt Giá Của Tôi**: Danh sách các vật phẩm mà bạn đã đặt giá. Tại đây các lệnh trong quá khứ của sẽ được hiển thị. Khi các sự kiện đấu giá vật phẩm kết thúc và bạn giành được một vật nào đó, bạn có thể vào trang của món vật phẩm đó để claim
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Tiền Thưởng**: danh sách các vật phẩm mà bạn đã đặt giá nhưng bị người khác vượt mặt và phần thưởng bạn giành được. Phần thưởng sẽ được gửi thẳng về ví của bạn mà không cần phải tự tay claim
 
 ## Cơ Chế Đấu Giá
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
+Các buổi đấu giá Aavegotchi được vận hành theo mô hình đấu giá Gonnaud-Bessire-McDonaugh (GBM). Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+Trong một sự kiện đấu giá thông thường, chỉ có một người chiến thắng và tất cả những người còn lại đều thua. Nhiều sự kiện đấu giá không đủ hấp dẫn và một só người ra về tay không. GBM™ biến bất kỳ sự kiện đấu giá nào cũng trở thành một trải nghiệm tuyệt vời mà bạn có thể thắng hoặc có thể kiếm ra tiền.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Bạn đặt lệnh, và nếu ai đó vượt mặt bạn, bạn sẽ lấy lại tiền cược và số tiền cộng thêm xem như phần thưởng.
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số tiền mà mà người đặt lệnh kiếm được khi họ bị vượt mặt. Những con số này có thể được tuỳ chỉnh dựa trên khoản tiền mà bạn muốn người đặt giá có thể kiếm được. Bất kỳ ai đặt lệnh mà bị vượt mặt đều sẽ kiếm được phần thưởng, và người đặt giá cao nhất ở cuối buổi đấu giá sẽ nhận được phần thưởng, số tiền còn lại sẽ được trả cho người bán.
