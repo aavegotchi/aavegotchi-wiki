@@ -1,32 +1,32 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+title: 'Nhà Đấu Giá'
+description: 'Nhà Đấu Giá Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">Nhà Đấu Giá</p>
 </div>
 
-"VR Headset going for 3000 GHST"
+"VR Headset giá 3000 GHST"
 
-A gotchi raises his hand.
+Một gotchi giơ cánh tay lên.
 
 "5000 GHST"
 
-"VR Headset going for 5000 GHST!"
+"VR Headset giá 5000 GHST!"
 
-Another gotchi raises her hand.
+Một gotchi khác giơ tay lên.
 
 "10000 GHST"
 
-"VR Headset going for 10000 GHST"
+"VR Headset giá 10000 GHST"
 
-The room went quiet.
+Căn phòng trở nên yên lặng.
 
 "Going once"
 
@@ -41,13 +41,13 @@ The room went quiet.
 **Nội dung**
 
 <ol>
-<li><a href=#aauction-house>Aauction House</a></li>
+<li><a href=#aauction-house>Nhà Đấu Giá</a></li>
 <li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
 </ol>
 
 </div>
 
-## Aauction House
+## Nhà Đấu Giá
 
 The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
 
