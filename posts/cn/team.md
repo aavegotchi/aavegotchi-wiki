@@ -31,7 +31,6 @@ contributors:
 <li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
-<li><a href=#bingehd>BinGeHD</a></li>
 <li><a href=#shohan>Shohan</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
@@ -130,15 +129,6 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 </div>
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
-
-## BinGeHD
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/bingehd.png" alt = "BinGeHD">
-<p class="leftImageText"><a href="https://facebook.com/bingehd">BinGeHD</a></p>
-</div>
-
-Twitch partner, previously a professional gaming evangelist, shoutcaster, and member of the team Flash Wolves.
 
 ## Shohan
 
