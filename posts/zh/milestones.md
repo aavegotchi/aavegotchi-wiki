@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [CoinMarketCap former CTO joins Aavegotchi as Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
+* On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor.
+* Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
+<p></p>
+
 ## [Exclusive Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
 * Hear ye! Hear ye! There will be an exclusive Aavegotchi x Venly Wearables Drop coming up soon!
 * Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
