@@ -11,6 +11,8 @@ contributors:
 
 Друзья, у нас также есть [канал на Ютубе](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) :)
 
+### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
+
 ### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
@@ -19,7 +21,7 @@ contributors:
 
 ### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/7aKRn0Avyxs" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/7aKRn0Avyxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Jesse shares about AavegotchiDAO in the Blockchain Gaming Alliance Panel (7 May 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/vWvaTXa54FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
@@ -38,16 +40,16 @@ contributors:
 
 ### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/RbVr_we7cgE?start=35946" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/2GY5wKa_4d4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
-### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
+### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
 
-### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
+### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>3
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>3
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>4
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>4
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="Видеоплеер Ютуба" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>5
 
 
