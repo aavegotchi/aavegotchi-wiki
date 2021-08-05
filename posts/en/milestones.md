@@ -6,6 +6,12 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Haunt 1 Aavegotchi NFT Backgrounds are live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
+* On 5 August 2021, Pixelcraft announces that the Haunt 1 Aavegotchi NFT Backgrounds are now live!
+* This was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchi) and has finally been implemented
+* Head over to the Airdrops page and claim it!
+<p></p>
+
 ## [CoinMarketCap former CTO joins Aavegotchi as Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
 * On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor. 
 * Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
