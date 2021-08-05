@@ -26,10 +26,10 @@ Wie weit sind wir als Community schon gekommen? Schau dir hier unser Archiv der 
 <li><a href=#voting-power-based-on-brs>Stimmgewicht basierend auf BRS</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Stimmgewicht basierend auf den Maall-Preisen von Kleidungsstücken</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschaft zwischen AavegotchiDAO, Pixelcraft, und DinoSwap</a></li>
-<li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#launch-haunt-2>Haunt 2 lancieren</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name des Aavegotchi Marktplatzes</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENS verdienen mit GHST-USDC LP Tokens</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Anzahl Portale in einer Transaktion</a></li>
 </ol>
 
 </div>
@@ -266,20 +266,20 @@ table_agip10
 
 <hr />
 
-### Launch Haunt 2
+### Haunt 2 lancieren
 **Core Prop**
 
-**Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
+**Zusammenfassung des Vorschlags:** Derzeit sind Aavegotchis auf maximal 10'000 begrenzt, da nur so viele Haunt 1 Portale existieren. Das macht die Anschaffung eines ersten Aavegotchis kostspielig. Mit einem zweiten Haunt mit 15'000 weiteren Portalen wollen wir dieses Problem angehen und gleichzeitig die einzigartigen, sammelbaren Aspekte der Haunt 1 Aavegotchis respektieren.
 
-Our vision is for far wider adoption of playable NFTs, and the first step to achieving that means leaving the scarcity memes behind and focusing on being able to offer meaningfully unique experiences to more people.
+Unsere Vision ist eine weitaus breitere Akzeptanz von spielbaren NFTs. Um das zu erreichen, müssen wir als ersten Schritt das "Knappheits-Meme" hinter uns lassen und uns darauf konzentrieren, mehr Menschen sinnvolle und einzigartige Erfahrungen zu bieten.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/coreprop-launch-haunt-2/2034)
+Details zum AGIP gibt es [hier](https://dao.aavegotchi.com/t/coreprop-launch-haunt-2/2034)
 
-Option 1: Yes, launch Haunt 2
+Option 1: Ja, Haunt 2 starten
 
-Option 2: No, do not launch Haunt 2 now
+Option 2: Nein, Haunt 2 jetzt nicht starten
 
-**Voting Period:** 19 - 26 July 2021
+**Abstimmungszeitraum:** 19. - 26. Juli 2021
 
 **Ergebnis:**
 
@@ -289,16 +289,16 @@ table_launchHaunt2
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Name des Aavegotchi Marktplatzes
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Zusammenfassung des Vorschlags:** Wie soll der Aavegotchi NFT-Marktplatz genannt werden?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanciert seinen eigenen NFT-Marktplatz auf Polygon zeitgleich mit dem Spiel!
 
-What should we call the official Aavegotchi Marketplace?
+Wie sollen wir den offiziellen Aavegotchi-Marktplatz nennen?
 
-Choice A: Aavegotchi Baazaar
+Wahl A: Aavegotchi Baazaar
 
 Choice B: Aavegotchi Maarket
 
@@ -318,7 +318,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### FRENS verdienen mit GHST-USDC LP Tokens
 
 **Snapshot Abstimmungen**
 
@@ -344,7 +344,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Anzahl Portale in einer Transaktion
 
 **Snapshot Abstimmungen**
 
