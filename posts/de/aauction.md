@@ -60,7 +60,7 @@ Das Aauktionshaus hat 4 Tabs, mit denen Nutzer interagieren können. Sie sind in
 
 ## Aauktionsmechanismus
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Die Aavegotchi-Aauktionen basieren auf dem Gonnaud-Bessire-McDonaugh (GBM) Auktionsformat. Die GBM-Auktion wurde erstmals 2019 von Cryptographs entwickelt und ist ein zum Patent angemeldetes System, das Pixelcraft Studios offiziell für alle Aavegotchi NFT Drops, einschliesslich Haunt 2, REALM und sogar Kleidungsstücke, verwenden darf.
 
 In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
 
