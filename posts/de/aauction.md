@@ -60,12 +60,12 @@ Das Aauktionshaus hat 4 Tabs, mit denen Nutzer interagieren können. Sie sind in
 
 ## Aauktionsmechanismus
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Die Aavegotchi-Aauktionen basieren auf dem Gonnaud-Bessire-McDonaugh (GBM) Auktionsformat. Die GBM-Auktion wurde erstmals 2019 von Cryptographs entwickelt und ist ein zum Patent angemeldetes System, das Pixelcraft Studios offiziell für alle Aavegotchi NFT Drops, einschliesslich Haunt 2, REALM und sogar Kleidungsstücke, verwenden darf.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+Bei einer typischen Auktion gibt es nur einen Gewinner und alle anderen verlieren. Viele Auktionen ziehen nicht genug Interessenten an und manche bekommen gar keine Gebote. GBM™ verwandelt jede Auktion in ein tolles Erlebnis, bei dem du entweder einen NFT gewinnst oder Geld verdienst.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Du gibst ein Gebot ab und wenn dich jemand überbietet, bekommst du dein Gebot zurück, plus einen Anteil aus dem Topf, der als Anreiz fungiert.
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Wenn ein neues Gebot platziert wird, berechnet eine Formel, wie viel Geld der Bieter als Anreiz verdient, wenn er überboten wird. Dies ist anpassbar, je nachdem wie viel du den Bietern einbringen willst. Jeder Bieter, der überboten wird, verdient einen Anreiz und der Höchstbietende am Ende der Auktion gewinnt, wobei der Verkäufer den Rest des Topfes erhält.
