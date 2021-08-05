@@ -20,7 +20,7 @@ contributors:
 
 <ol>
 <li><a href=#the-aagent-missions>Nhiệm Vụ Aagent</a></li>
-<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
+<li><a href=#share2earn-litepaper-campaign>Chiến Dịch Share2Earn</a></li>
 </ol>
 
 </div>

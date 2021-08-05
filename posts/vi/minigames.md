@@ -36,9 +36,9 @@ Sắp có! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công b�
 
 ## Mini-games Được Cộng Đồng Tạo Ra
 
-Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+Một vài [aarchitect](/aarchitect) đã tự tạo ra các trò mini game! Hãy chơi thử nhé!
 
-The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
+Bạn có thể xem phần Mini-Game của DApp Aavegotchi.com tại [đây](https://aavegotchi.com/minigames)
 
 ### Reverse Pacman của Paltox
 

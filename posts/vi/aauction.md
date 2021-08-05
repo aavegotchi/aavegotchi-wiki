@@ -66,6 +66,6 @@ Trong một sự kiện đấu giá thông thường, chỉ có một người c
 
 Bạn đặt lệnh, và nếu ai đó vượt mặt bạn, bạn sẽ lấy lại tiền cược và số tiền cộng thêm xem như phần thưởng.
 
-<img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
+<img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Đấu Giá Aavegotchi GBM" />
 
 Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số tiền mà mà người đặt lệnh kiếm được khi họ bị vượt mặt. Những con số này có thể được tuỳ chỉnh dựa trên khoản tiền mà bạn muốn người đặt giá có thể kiếm được. Bất kỳ ai đặt lệnh mà bị vượt mặt đều sẽ kiếm được phần thưởng, và người đặt giá cao nhất ở cuối buổi đấu giá sẽ nhận được phần thưởng, số tiền còn lại sẽ được trả cho người bán.

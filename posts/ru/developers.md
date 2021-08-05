@@ -49,6 +49,8 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Building a full-stack Aavegotchi minigame - Part 2: Server + Leaderboard](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
 
+* [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
+
 ## Aarchitect Creations
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Вперед!
