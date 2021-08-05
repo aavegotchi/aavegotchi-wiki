@@ -49,14 +49,14 @@ Der Raum wird still.
 
 ## Aauktionshaus
 
-Das Auktionshaus ist der Ort, an dem Auktionen stattfinden. Es kann [hier](https://aavegotchi.com/auction) gefunden werden.
+Das Auktionshaus ist der Ort, an dem Aauktionen stattfinden. Es kann [hier](https://aavegotchi.com/auction) gefunden werden.
 
 Das Aauktionshaus hat 4 Tabs, mit denen Nutzer interagieren können. Sie sind in der linken Ecke der Seite zu finden:
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Anleitung**: Eine kurze Beschreibung, wie Aavegotchi-Aauktionen funktionieren
+* **Offene Auktionen**: Eine Liste der offenen Auktionen, an denen du teilnehmen kannst
+* **Meine Gebote**: Eine Liste der offenen Auktionen, bei denen du mitgeboten hast. Es werden auch historische Gebote angezeigt. Wenn eine Auktion zu Ende ist und du diese Auktion gewonnen hast, kannst du hierher kommen und deinen Gewinn abholen
+* **Meine Auszahlungen**: Eine Liste, bei welchen Auktionen du von anderen überboten wurdest und welche Gewinne du daraus erhalten hast. Die Gewinne werden direkt an deine Wallet-Adresse geschickt, ohne dass du sie manuell einfordern musst
 
 ## Aauktionsmechanismus
 
