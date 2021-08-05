@@ -300,15 +300,15 @@ Wie sollen wir den offiziellen Aavegotchi-Marktplatz nennen?
 
 Wahl A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Wahl B: Aavegotchi Maarket
 
-Choice C: Neither
+Wahl C: Weder noch
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Das Quorum für diese Abstimmung liegt bei 500'000 GHST. Sollte das Quorum nicht erreicht werden, wird Pixelcraft Strohhalme ziehen.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Wenn "Keiner von beiden" gewinnt... dann solltet ihr euch lieber ein paar gute Alternativen einfallen lassen!
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -322,19 +322,19 @@ table_marketplaceName
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Zusammenfassung des Vorschlags:** Sollten GHST-USDC LP Tokens auch FRENS verdienen können?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Unser Liquiditätsmigrationsprogramm war ein grosser Erfolg, mit bereits über 8 Mio. GHST, die auf Polygon migriert wurden. Wie viele Community-Mitglieder jedoch festgestellt haben, ist die Liquidität für das GHST-USDC Paar noch nicht ausreichend, um den Handel grosser Mengen an USDC für GHST auf Quickswap zu unterstützen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Wir glauben, dass die Aufnahme von GHST-USDC als ein Paar, das für FRENS auf [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) zugelassen ist, eine Möglichkeit zur Abhilfe darstellt. Genauso wie GHST-QUICK einen "Quittungstoken" stkGHST-QUICK hat, kann auch der gestakete GHST-USDC einen stkGHST-USDC Token ausgeben. Dieser kann für Belohnungen auf Quickswap in Frage kommen, wenn ihr Team es für nötig hält.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Da diese Entscheidung direkten Einfluss auf das Gameplay hat, glauben wir, dass sie ein reifer Kandidat für unsere erste Snapshot-Abstimmung auf Polygon ist.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Wir setzen ein Quorum von 500'000 GHST fest, damit diese Abstimmung in Kraft treten kann.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Mit dem GHST-USDC LP Token werden gleich viele FRENS wie mit dem normalen Staking von GHST verdient, da der Impermanent Loss minimal ist und die Gebühren erheblich sind.
 
-**Voting Period:** 8 - 11 February 2021
+**Abstimmungszeitraum:** 8. - 11. Februar 2021
 
 **Ergebnis:**
 
@@ -348,11 +348,11 @@ table_ghstUsdcLp
 
 **Snapshot Abstimmungen**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Zusammenfassung des Vorschlags:** Wie viele Portale können in einer Transaktion gekauft werden?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Die Diskussionsphase für dieses Thema ist beendet und nun ist es an der Zeit abzustimmen! Die beliebtesten Optionen waren: 1, 5, und 10 Portale pro Transaktion.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Unser Fren [@coderdannn](/team#coder-dan) warf auch eine interessante Idee in den Mix: Eine "Ape Tax", bei der eine höhere Anzahl von Portalen in einer einzigen Transaktion gekauft werden könnte, aber zu einem höheren Preis. Die Portale würden so gestaffelt sein:
 
 * 0-5: je 100 GHST
 
@@ -360,17 +360,17 @@ Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an
 
 * 16-25: je 300 GHST
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Damit bleiben uns vier Optionen: 1, 5, 10, und 25 (mit Ape Tax).
 
-Let your $GHST token speak for you, and vote!
+Lasst eure $GHST Tokens für euch sprechen und stimmt ab!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Abstimmungszeitraum: 72 Std. Mindestquorum: 10% aller GHST auf Matic (~1.1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO Diskussion 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Abstimmungszeitraum:** 23. - 26. Februar 2021
 
 **Ergebnis:**
 
