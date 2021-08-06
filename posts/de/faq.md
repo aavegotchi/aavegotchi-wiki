@@ -181,11 +181,13 @@ No. amTokens are **not** the same as maTokens.
 
 maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
 
-amTokens come from the Aave money market pools that is native to Polygon.
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
 Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
-In the Aavegotchi game, the Spirit Force/Collateral used is **maTokens**, and not amTokens.
+Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+
+From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
 ### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
