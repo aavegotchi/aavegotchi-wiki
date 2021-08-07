@@ -28,11 +28,12 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#jc>JC</a></li>
 <li><a href=#candoizo>Candoizo</a></li>
 <li><a href=#coyote>Coyote</a></li>
+<li><a href=#les>Les</a></li>
 <li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#shohan>Shohan</a></li>
-<li><a href=#origins>Team Gốc</a></li>
+<li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
@@ -103,6 +104,17 @@ Lý lịch của anh cho thấy lớn lên tại khu vực hoang dại của cá
 
 Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã tham gia vào team hồi đầu năm 2021. Anh bắt đầu sự nghiệp với vai trò nhà thiết kế UI/UX trong các startup rồi cuối cùng chuyển sang chuyên về lập trình front end. Coyote đã tìm ra lỗi trên blockchain trong quá trình phát triển ứng dụng bên thứ ba cho Aavegotchi. Mục tiêu của anh là chia sẽ nguồn cảm hứng này với các lập trình viên đẻ tạo ra thế hệ kỹ sư web mới!
 
+## Les
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/les.jpg" alt = "Les">
+<p class="leftImageText"><a href="https://twitter.com/lesborsai">Les</a></p>
+</div>
+
+Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
+
+In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
+
 ## Jason Chew
 
 <div class="leftImageContainer">
@@ -110,7 +122,7 @@ Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã 
 <p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Jason Chew</a></p>
 </div>
 
-Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và không bao giờ nhìn lại. Từ DAOstack, BrightID đến Gitcoin, Jason là một người đã quá quen thuộc với DeFi và luôn không ngừng thử nghiệm, giáo dục mọi người để giúp họ sớm tiếp cận. Jason cũng đang quản lý BitcoinMalaysia, cộng đồng tiền mã hoá online lớn nhất tại Đông Nam Á, và kể từ đợt đại dịch, đã có hơn 8000 người tham gia vào những buổi chia sẻ về tiền mã hoá cho người mới bắt đầu của anh.
+Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
 
 ## Gravy
 
@@ -119,7 +131,7 @@ Jason đã băng qua chiếc hang thỏ của Ethereum tại Devcon V Osaka và 
 <p class="leftImageText"><a href="https://twitter.com/0xGravy">Gravy</a></p>
 </div>
 
-Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh nghiệm gần một thập kỷ làm việc ở ngành B2B và B2C. Sau nhiều năm chinh chiến trong các tập đoàn theo khuôn mẫu, anh đã giống buồm và cống hiến 100% sự nghiệp của mình cho thế giới blockchain. Dù anh đang gây dựng các mối quan hệ chiến lược, cân đo KPI gắt gao và tạo nên các chiến lượng marketing đầy kỹ xảo, Gravy đang cống hiến để giúp mang Aavegotchi đến một tầm cao mới và tự hào gọi mình là thành viên của GotchiGang.
+Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
 ## NyanKong
 
@@ -128,7 +140,7 @@ Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh n
 <p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
 </div>
 
-Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 năm hỗ trợ trong việc tạo ra game bằng cách sử dụng thiết kế game, âm nhạc, và hoạt ảnh cho máy điện tử cầm tay, PC, máy điện tử thùng, điện thoại, mán tính bàn, và VR. Tình yêu của anh dành cho việc tạo ra các hình thức giải trí giúp anh luôn bận rộn với trí tưởng tượng quá đổi tích cực, song song đó nhu cầu kết nối tích cực với đội ngũ và khán giả giữ cho trái tim hướng về xã hội của anh luôn được vui vẻ. Trách nhiệm chính của Christian trong đội ngũ Pixelcraft là thiết kế và tạo ra hình ảnh cho Realm để cộng đồng có thể khám phá và tận hưởng trong nhiều năm tới.
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ## Shohan
 
@@ -137,19 +149,19 @@ Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 nă
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
 </div>
 
-Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
-## Team Gốc
+## Origins
 
 ### Đội Nhóm Không Tưởng Tập Hợp
-Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"Đến lúc bán kéo rồi" Dan nói.
+"It's time to sell some candy" Said Dan.
 
-Và anh ta là một người bán hàng tuyệt vời!  Dù không may là anh ta đã không đủ giỏi giang để bán kẹo trên bãi biển, thế những chàng trai đã va phải vào ánh mắt của một người trẻ tuổi cũng đứng gần đó là Jesse, AKA GldnXross.  Hai người nhanh chóng trở thành bồ tèo của nhau, nô đùa cùng nhau, và nên những bản nhạc tuyệt vời.  May mắn thay, con đường là ăn không mấy khả quan nên cặp đôi đã cùng nhau làm những điều vĩ đại hơn...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-Khi những gã hay mơ này quyết định rằng họ sẽ tạo ra một phiên bản on chain cho một thứ đồ chơi kinh điển từ thập niên 90 thì ai cũng bảo là họ bị điên.  Nhưng Coder Dan đã nghe được điều này trước đây, và họ ĐÃ đúng.  họ không thế làm được điều này, chỉ với hai người.  Họ cần những gì tốt nhất, xịn nhất, đỉnh của đỉnh... nhưng mà ai mới được?  "Xibot!" Dan nói ngay.  "Nếu có ai đó có thể bắt được những tinh tuý trong một trò chơi kinh điển đáng yêu nằm trong trái tim chúng ta thì chỉ có anh chàng này mà thôi!".  "Hmm, nhưng mà hợp đồng thông minh thì sao?" GldnXross nói.  Tất nhiên sẽ không ai có thể đủ giỏi để mang TOÀN BỘ những thứ này lên chuỗi được! "Có một người như thế đấy" Dan nói. "người này yêu thích hợp đồng thông minh vô cùng, anh ta viết hợp đồng thông minh cho các hợp đồng thông minh."  "Đợi đã, tôi nghe tên người này rồi..." GldnXross bảo "Nick Mudge!"  "Còn về cộng đồng thì sao? Chắc chắn chúng ta sẽ cần ai đó tuyệt vời để có thể đánh bay bọn lừa đảo và giúp đỡ những ai thiếu hiểu biết!"  Dan nhìn lên... "Tôi từng nghe về một người, với sự điềm tĩnh của một vị thánh, và chiếc búa của Thor." Tên của anh ta hả? JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Và đây là cách mà các người hùng tập hợp, một số chi tiết đã được điều chỉnh theo thời gian.
+So this is how our heroes assembled, some details have been edited for time.
