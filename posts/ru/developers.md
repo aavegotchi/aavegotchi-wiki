@@ -66,3 +66,5 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 * [Haunt.gg](https://haunt.gg/) — организация листинга.
 
 * [Расширение Aavegotchi](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) — Расширение для браузера Chrome для домашних животных Аавеготчи.
+
+* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service

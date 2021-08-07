@@ -181,29 +181,31 @@ Không nha. amToken **không** giống maToken.
 
 maToken là aToken từ Aave V2 trên Ethereum Mainnet, hiện tại đã có mặt trên Polygon. Chúng được tạo ra bởi [Nick](/team#nick-mudge) để theo kịp tiến độ triển khai của Aavegotchi trên Polygon.
 
-maToken đến từ các quỹ thị trường tiền tệ của Aave, tồn tại trên Polygon.
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
 Hai loại token này sẽ có mức sinh lời khác nhau. Với maToken, tỷ lệ sinh lời có thể xem được trên thị trường Aave V2. Với amToken, tỷ lệ sinh lời có thể xem qua thị trường của Aave trên Polygon.
 
-Trong trò chơi Aavegotchi, Spirit Force/Collateral chính là **maToken**, không phải amToken.
+Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+
+From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
 ### Tại sao mình không thể swap cặp maLINK/maUNI trên Quickswap được?
-QuickSwap đang có lỗi trong quá trình định tuyến đối với một số maToken ví dụ như maUNI và maLINK. Bạn cần phải tự swap sang maUSDC trước và sau đó swap tiếp thành những maToken mà bạn cần.
+QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
-**Không hoạt động**: ETH/USDC -> maUNI/maLINK
+**Doesn't work**: ETH/USDC -> maUNI/maLINK
 
-**Vẫn hoạt động bình thường**: maUSDC -> maUNI/maLINK
+**Works**: maUSDC -> maUNI/maLINK
 
 ### Aavegotchi sẽ được tích hợp trên OpenSea hay không?
-Aavegotchi tương thích hoàn toàn với OpenSea (và những chợ thứ cấp khác) trên Ethereum Mainnet. Việc khó khăn ở đây chính là OpenSea trên Polygon. Khi ai đó đăng bán Gotchi trên Baazaar, trang phụ của chúng cũng sẽ được niêm yết chung với chúng. OpenSea Polygon không hỗ trợ cơ chế này. Do đó, người bán Gotchi trên OpenSea Polygon có thể rút trang phục của Gotchi khi đến tay người mua. Để bảo vệ người mua, Pixelcraft đã cho OpenSea biết rằng họ sẽ không đăng bán dự án của mình trên Polygon.
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
-Tương tự như vậy, có một vài bất cập trong việc đăng bán trang phục trên OpenSea Polygon. Do cách viết hợp đồng thông minh của OpenSea Polygon, họ gặp phải nhiều khó khăn trong việc hỗ trợ các trang phục chuẩn ERC-1155. Vấn đề nằm ở địa chỉ ví lưu giữ cả ERC-721 (Gotchi) và ERC-1155 (trang phục). Nền tảng của họ không được cài đặt để lưu giữ cả hai trên cùng một hợp đồng.
+Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
 ### Mình có thể xem Aavegotchi Litepaper ở đâu?
 
-Có 2 Aavegotchi Litepaper: (1) Litepaper Gốc tóm tắt lại những ý chính trong dự án Aavegotchi, và (2) Litepaper mới nhất giới thiệu về Gotchiverse và REALM, những mẫu đất trong Gotchiverse.
+There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
 
-Bạn cso thể xem ở đây:
+They can be found here:
 
 * [Litepaper gốc](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
@@ -211,60 +213,60 @@ Bạn cso thể xem ở đây:
 ## Những câu hỏi về Bonding Curve
 
 ### Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy
-Sau khi mua GHST trên bonding curve, bạn cần phải thực hiện thêm một giao dịch nữa đển nhận GHST về ví. Vui lòng xem ảnh chụp màn hình phía dưới để lấy ví dụ. Người dùng cần phải nhấp vào nút "CLAIM ORDER" để token GHST có thể hiện lên trong ví của mình.
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Ai đó có thể vượt mặt bonding curve hay không?
-Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dịch được gộp lại với những giao dịch khác trước khi được gửi đi đến hợp đồng thông minh. Họ không thể mau được giá thấp hơn với phí gas cao hơn nhằm vượt mặt đợt mua hàng của bạn được.
+Không nha. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## Những Câu Hỏi Về FRENS
 
 ### Mình có thể mua FRENS được không?
-Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
+Không nha. FRENS are a way to reward our community members who staked GHST.
 
 ### FRENS có được dùng để mua gì khác ngoài raffle hay không?
 
-Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. Phần còn lại của hệ sinh thái Aavegotchi sẽ được vận hành bởi GHST.
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 ### Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?
-Số dư FRENS của bạn sẽ được tự động chuyển lên Matic. FRENS trên Mainnet sẽ không có giá trị.
+Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ### Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày?
-Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
+Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Những câu hỏi về Raffle (Xổ số)
 
-Xem <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> để biết thêm thông tin chi tiết về raffles.
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
 ### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
 
-Không nha! Xin lưu ý rằng việc chỉ mua vé bằng FRENS **sẽ không tự động giúp bạn chơi xổ số.** Bạn cần phải STAKE vé của mình trong vòng 72 giờ để mở raffle. Việc này sẽ cần đến hai giao dịch trên trang Raffle - **approve** vé của bạn, **và tham gia** vào xổ số. Nếu bạn đã yêu cầu thành công, bạn sẽ nhận được số trên vé để có thể tham gia vào xổ số ở trang Stats.
+Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
 
-Không nha. Những phụ kiện này sẽ chỉ được xuất hiện trong sự kiện xổ số trước khi game khởi chạy.
+Không nha. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Có loại trang bị khủng nào trong raffle hay không?
 
-Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v.).  Trên [Baazaar](/baazaar), dù chúng có giá bán lại cao hơn bởi **trạng thái trước khi bán** hoặc **liên kết với sư kiện hoặc cá nhân nào đó ** thì chúng sẽ được định giá theo nhu cầu thị trường.
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
 ### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
-Vé Raffle được dự trên tiêu chuẩn ERC-1155. Chúng có thể được chuyển thông qua trang [Tickets](https://aavegotchi.com/tickets) trên Aavegotchi DApp. Dưới bộ sưu tập vé mà bạn có sẽ có nút Transfer (xem ảnh chụp màn hình phía dưới). Nhấp vào nút đó để chuyển những vé thuộc loại vé nào đó.
+Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-Sau đó bạn sẽ được chuyển đến một trang đặc thù và bạn sẽ có thể thêm địa chỉ người nhận của như số vé mà bạn cần chuyển (Xem ảnh chụp màn hình phía dưới). Một khi bạn đã nhập thông tin và và xác nhận đúng thông tin, hãy nhấp vào nút Transer.
+You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
-Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
+Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
 ## Aauction FAQ
 

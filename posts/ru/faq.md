@@ -183,23 +183,25 @@ No. Эти два типа токенов имеют **кардинальное 
 
 maTokens являются токенами из Aave V2, которые позже появились на Polygon. Их создателем является разработчик Аавеготчи [Ник Мадж](/team#nick-mudge). maToken понадобились, чтобы игровой проект Аавеготчи скорей запустился на Polygon.
 
-amToken — это “родные” для Polygon токены. Их источником является денежный рынок Aave.
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
 Токены, принадлежащие к разным категориям, приносят своим владельцам разную прибыль из-за различия процентных ставок. Процентные ставки для maToken можно увидеть на рынке Aave V2.  Ставки для amTokens можно посмотреть на Polygon.
 
-В игровом проекте Аавеготчи один из вышеперечисленных типов токенов имеет важное значение. В частности, **maToken** в качестве залога дает вашему Готчи Духовную силу. А к amToken это не относится.
+Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+
+From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
 ### Почему нельзя просто поменять свои токены на maLINK/maUNI на Quickswap?
-На DEX QuickSwap обнаружилась проблема с маршрутизацией нескольких типов токенов. Например, maUNI и maLINK. Чтобы провести сделку, вам необходимо вручную перейти на maUSDC, чтобы впоследствии получить токен нужного типа.
+QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
-**Запомните!** Не получится поменять: ETH/USDC -> maUNI/maLINK.
+**Doesn't work**: ETH/USDC -> maUNI/maLINK
 
-**Нужно менять** maUSDC -> maUNI/maLINK.
+**Works**: maUSDC -> maUNI/maLINK
 
 ### Может ли Аавеготчи быть интегрирован с OpenSea?
-Игра Аавеготчи полностью совместима с OpenSea и другими вторичными рынками в основной сети Ethereum. Однако существует проблема с OpenSea на Полигоне. Выставляя Готчи на продажу на базаре, автоматически продаешь и экипировку. Нет возможности заблокировать продажу носимых устройств. Из-за этого для потенциальных покупателей экипировки создаются неудобные условия. Чтобы защитить покупателей, Pixelcraft проинформировал OpenSea о том, что не будет проводить листинг на Полигоне.
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
-На данный момент имеются некоторые ограничения на включение экипировки в список OpenSea Polygon. Проводя анализ смарт-контрактов, инфраструктура рынка OpenSea на Полигоне не может дифференцировать Готчи и экипировку. Дело в том, что объекты стандарта ERC-721 (Готчи) и ERC-1155 (экипировка) содержатся на едином адресе. И это представляет собой проблему.
+Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
 ### Where can I find the Aavegotchi Litepaper?
 

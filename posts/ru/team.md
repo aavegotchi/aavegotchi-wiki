@@ -28,7 +28,8 @@ contributors:
 <li><a href=#jc>JC.</a></li>
 <li><a href=#candoizo>Candoizo.</a></li>
 <li><a href=#coyote>Койот (Coyote).</a></li>
-<li><a href=#jason-chew>Джейсон Чу (Jason Chew).</a></li>
+<li><a href=#les>Les</a></li>
+<li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#shohan>Shohan</a></li>
@@ -103,14 +104,25 @@ Candoizo является успешным разработчиком прогр
 
 Калеб с оригинальным ником Coyote, полученным им в качестве второго имени от родителей, присоединился к проекту в начале 2021 года. Он начал свой путь в стартапах в качестве UI/UX дизайнера, а затем решил перейти на фронтенд-разработку. В процессе работы над приложениями для Аавеготчи он обнаружил ошибку в блокчейне, которая была успешно устранена. Сейчас он хочет передать свои знания следующему поколению веб-инженеров!
 
-## Джейсон Чу (Jason Chew)
+## Les
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jason-chew.jpg" alt = "Джейсон Чу (Jason Chew)">
-<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Джейсон Чу (Jason Chew)</a></p>
+<img class="leftImage" src="/team/les.jpg" alt = "Les">
+<p class="leftImageText"><a href="https://twitter.com/lesborsai">Les</a></p>
 </div>
 
-Джейсон познакомился с блокчейном Ethereum еще в Devcon V Osaka, и с тех пор активно работает с подобными проектами. От DAOstack, BrightID до Gitcoin, Джейсон - отличный специалист по DeFi, который никогда не прекращает экспериментировать и продвигать технологию. Он также управляет BitcoinMalaysia, которое является самым большим онлайн криптосообществом в Юго-Восточной Азии, а также читает лекции для начинающих, которые с начала пандемии прослушало более 8000 человек.
+Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
+
+In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
+
+## Jason Chew
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/jason-chew.jpg" alt = "Jason Chew">
+<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Jason Chew</a></p>
+</div>
+
+Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
 
 ## Gravy
 
