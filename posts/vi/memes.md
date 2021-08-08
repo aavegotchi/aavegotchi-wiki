@@ -49,38 +49,38 @@ Hướng dẫn:
 Ghi chú:
 * Cuộc thi sẽ kết thúc vào Thứ Bảy, ngày 31 tháng Bảy, lúc 8 giờ sáng Việt Nam.
 * Mỗi Redditor, một meme.
-* All memes must be safe for work.
-* Memes will be judged by the [Aavegotchi team](/team) and the winners will be announced on Tuesday, August 3rd.
+* Tất cả meme đều phải trong sáng.
+* Meme sẽ được chấm bởi [team Aavegotchi](/team) và người thắng cuộc sẽ được công bố vào thứ Ba, ngày 3 tháng Tám.
 
-Prize Pool Distribution:
+Phân Phối Giải Thưởng:
 
-* 1st place: 100 GHST
-* 2nd place: 50 GHST
-* 3rd place: 30 GHST
-* 4-10 place: 10 GHST
+* Giải 1: 100 GHST
+* Giải 2: 50 GHST
+* Giải 3: 30 GHST
+* Giải 4-10: 10 GHST
 
-Let's see what facet of Aavegotchi you're most excited about! Happy memeing frens!
+Hãy xem qua những khía cạnh về Aavegotchi mà bạn thích nhất nhé! Chúc các bạn vui vẻ với meme!
 
-### <span style="color:gold">1st place: You said it would be stable by Ok_Average_4947</span>
+### <span style="color:gold">Giải nhất: Ụa cậu nói nó sẽ stable mà, tác giả Ok_Average_4947</span>
 
 <img class="bodyImage" src="/memes/you-said-it-would-be-stable.jpg" alt = "aavegotchi Memes" />
 
-### <span style="color:silver">2nd place: I'm about to hit the bed by TheVTD</span>
+### <span style="color:silver">Giải nhì: Xém đi ngủ mất. Tác giả: TheVTD</span>
 
 <img class="bodyImage" src="/memes/im-about-to-hit-the-bed.jpg" alt = "aavegotchi Memes" />
 
-### <span style="color:#cd7f32">3rd place: Pet your Gotchi once every 12 hours by GotchiMan777</span>
+### <span style="color:#cd7f32">Giải ba: Chăm sóc Gotchi mỗi 12 tiếng 1 lần. Tác giả: GotchiMan777</span>
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi Memes" />
 
-For the full list of winners, check out the thread [here](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+Bạn có thể xem qua danh sách người trúng giải ở [đây](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Một Số Meme Khác
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+Nick Mudge hướng dẫn Vanilladelphia cách "mặc quần."
 
-<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
+<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge và vanilladelphia" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+CoderDan trong khoảng thời gian khiêm tốn bán keo mạnh nha trên bải biển. Tác giả Zer0dot.
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />
