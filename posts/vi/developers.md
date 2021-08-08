@@ -1,7 +1,7 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Developing Aavegotchi'
+title: 'Phát Triển Aavegotchi'
 description: 'Tham gia giúp phát triển Wiki này!'
 ---
 
@@ -10,30 +10,30 @@ description: 'Tham gia giúp phát triển Wiki này!'
 <p class="headerImageText">CoderDan rất vui được chào đón các bạn!</p>
 </div>
 
-Bạn muốn thể hiện khả năng lập trình siêu đỉnh của mình không? We welcome you fren!
+Bạn muốn thể hiện khả năng lập trình siêu đỉnh của mình không? Bọn mình chào đón tất cả mọi người!
 
-The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Building the Wiki</a></li>
-<li><a href=#building-mini-games>Building Mini-Games</a></li>
-<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#building-aavegotchi-com>Xây dựng Aavegotchi.com</a></li>
+<li><a href=#building-the-wiki>Xây dựng trang Wiki</a></li>
+<li><a href=#building-mini-games>Xây dựng Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Sản Phẩm Của Các Kỹ Sư</a></li>
 </ol>
 
 </div>
 
-## Building Aavegotchi.com
+## Xây dựng Aavegotchi.com
 
 Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
 
 Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
 
-## Building the Wiki
+## Xây dựng trang Wiki
 
 Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
@@ -41,7 +41,7 @@ Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
 The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
 
-## Building Mini-Games
+## Xây dựng Mini-Games
 
 Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
@@ -51,7 +51,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Aarchitect Creations
+## Sản Phẩm Của Các Kỹ Sư
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Hãy xem qua nhé!
 
