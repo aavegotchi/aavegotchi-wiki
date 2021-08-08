@@ -73,14 +73,14 @@ Hãy xem qua những khía cạnh về Aavegotchi mà bạn thích nhất nhé! 
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi Memes" />
 
-For the full list of winners, check out the thread [here](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+Bạn có thể xem qua danh sách người trúng giải ở [đây](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Một Số Meme Khác
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+Nick Mudge hướng dẫn Vanilladelphia cách "mặc quần."
 
-<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge and vanilladelphia" />
+<img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "nick mudge và vanilladelphia" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+CoderDan trong khoảng thời gian khiêm tốn bán keo mạnh nha trên bải biển. Tác giả Zer0dot.
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "Daniel Mathieu" />
