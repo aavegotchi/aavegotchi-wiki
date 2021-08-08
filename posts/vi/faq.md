@@ -181,7 +181,7 @@ Không nha. amToken **không** giống maToken.
 
 maToken là aToken từ Aave V2 trên Ethereum Mainnet, hiện tại đã có mặt trên Polygon. Chúng được tạo ra bởi [Nick](/team#nick-mudge) để theo kịp tiến độ triển khai của Aavegotchi trên Polygon.
 
-Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
+Sau đó, Aave đã tự chuyển chúng sang Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
 Hai loại token này sẽ có mức sinh lời khác nhau. Với maToken, tỷ lệ sinh lời có thể xem được trên thị trường Aave V2. Với amToken, tỷ lệ sinh lời có thể xem qua thị trường của Aave trên Polygon.
 
