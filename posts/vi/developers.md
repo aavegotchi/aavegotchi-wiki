@@ -29,31 +29,31 @@ Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 
 ## Xây dựng Aavegotchi.com
 
-Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
+Bạn có đề xuất về DApp trên Aavegotchi.com? Bạn muốn hỗ trợ dịch thuật?
 
-Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
+Hãy liên hệ với CoderDan trên [Discord](https://discord.com/invite/NPwnWB6) nhé
 
 ## Xây dựng trang Wiki
 
-Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
+Bạn muốn xây dựng trang wiki? Bạn tìm thấy lỗi trên wiki? Bạn muốn đề xuất về nội dung?
 
-Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
+Hãy liên hệ với BowtiedNerd#6509 trên[Discord](https://discord.com/invite/NPwnWB6)
 
-The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+Tất cả nội dung của wiki đầu có trên Github. Bạn có thể xem tại [đây](https://github.com/aavegotchi/aavegotchi-wiki)
 
 ## Xây dựng Mini-Games
 
-Coyote, our devangelist, has created 2 tutorials on mini-game creation.
+Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn chơi game.
 
-* [Building a full-stack Aavegotchi minigame - Part 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
+* [Xây dựng một mimni-game full-stack trên Aavegotchi - Phần 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
-* [Building a full-stack Aavegotchi minigame - Part 2: Server + Leaderboard](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
+* [Xây dựng một mimni-game full-stack trên Aavegotchi - Phần 2: Server + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
 
-* [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
+* [Xây dựng một mimni-game full-stack trên Aavegotchi - Phần 3: Triển khai game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
 ## Sản Phẩm Của Các Kỹ Sư
 
-[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Hãy xem qua nhé!
+[Aarchitects](/aarchitect), các lập trình viên của cộng đồng bọn mình, đã sáng tạo ra một số ứng dụng rất tuyệt. Hãy xem qua nhé!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Công cụ Khuyến Nghị Trang Phục / Bảng Xếp Hạng / Phân Phối Điểm
 
@@ -67,4 +67,4 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
-* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service
+* [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
