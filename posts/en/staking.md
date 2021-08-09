@@ -107,6 +107,8 @@ Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://a
 
 Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
+The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
+
 There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
 table_RaffleTickets
