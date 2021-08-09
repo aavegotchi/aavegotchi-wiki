@@ -105,4 +105,4 @@ Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi
 ## Haunt
 Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts. The team is exploring `bodyColor` on Aavegotchis to differentiate between Haunts.
+Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
