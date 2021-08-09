@@ -87,16 +87,22 @@ The table below shows the kinship level and their value range.
 
 table_kinship
 
+Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+
 
 ## Experience
 Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 XP exists as an internal balance on the Aavegotchi smart contract.
 
+XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+
 ## Level
 Aavegotchis level up as they gain more XP. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Some wearables can only be worn by Aavegotchis of a certain level.
 
 For detailed information on the XP required for each level, click [here](/xp).
+
+Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Haunt
 Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
