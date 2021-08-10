@@ -87,18 +87,24 @@ table_spiritForceModifiers
 
 table_kinship
 
+Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+
 
 ## Опыт
-Очки опыта тот или иной Aavegotchis получает путем голосования в AavegotchiDAO. Также их приобретают за участие в мини-играх. Есть еще один вариант получения опыта. Можно принести одного призрака в жертву, чтобы передать его [характеристики опыта](/atokens) другому персонажу. Во время этого процесса второй персонаж получает 100% накопленного опыта от другого Аавеготчи.
+Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
-Опыт является внутренним балансом смарт-контракта вашего Готчи.
+XP exists as an internal balance on the Aavegotchi smart contract.
+
+XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Уровень
-Этот показатель напрямую коррелирует с опытом. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Уровень таже влияет на то, какой шмот доступен для Аавеготчи. Вы не сможете экипировать своего призрака, если шмот предназначен для более высокоуровневого персонажа.
+Aavegotchis level up as they gain more XP. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Some wearables can only be worn by Aavegotchis of a certain level.
 
-Получите подробную информацию об [опыте](/xp), который нужен для каждого уровня, тут.
+For detailed information on the XP required for each level, click [here](/xp).
+
+Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Поколение
-У призраков есть поколения. Каждое состоит из 10 000 Готчи. Призраки первого поколения проходят через портал в самом начале игры. После запуска мейннет появление новых категорий призраков должно быть одобрено [AavegotchiDAO](/dao). От поколения, к которой принадлежит призрак, будут зависеть показатели и возможности экипировки.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
-Готчи одного поколения имеют сходные черты. Между ними не будет различий в статистике. Возможно, с помощью цвета Готчи в дальнейшем можно будет различать поколения. Пока что команда размышляет над этим.
+Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.

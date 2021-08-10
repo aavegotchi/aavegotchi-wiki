@@ -109,40 +109,42 @@ Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bu
 
 Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Vé cũng có thể được mua/bán trên thị trường thứ cấp như [Baazaar](/baazaar).
 
-Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất):
+The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
+
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
 table_RaffleTickets
 
-Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Tham gia Raffle
 
-Raffle sẽ diễn ra trong một giai đoạn thời gian. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
-Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Giải thưởng trong sự kiện Aavegotchi Raffle chủ đề ChainLink" />
+<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-Tổng cộng 6010 giải.
+A total of 6010 prizes.
 
-Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Bạn có thể cải thiện khả năng thắng giải bằng cách:
+You can improve your probability of winning by:
 * Tham gia với nhiều vé
 * Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Sau khi sự kiện quay số kết thúc, người chiến thắng có thể nhận giải trên Polygon Network và trang bị đồ cho Gotchi của mình.
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Thêm nguồn
 

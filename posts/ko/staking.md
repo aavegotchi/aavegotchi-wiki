@@ -109,27 +109,29 @@ FRENS가 충분히 준비되셨다면, [Shop Bulk Buy user interface](https://aa
 
 FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니다. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
-래플 티켓에는 제일 낮은 등급인 Common에서부터 제일 높은 등급인 Godlike까지 총 6개의 등급이 있습니다.
+The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
 
-표_ 래플 티켓
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
-미디엄 포스트: [ [Stake GHST, Make FRENS Live on Ethereum Mainnet!]](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+table_RaffleTickets
 
-사용자들은 한번의 트랜잭션에서 여러 등급의 티켓에 대한 거래가 가능합니다. 그렇기 때문에 각 등급의 래플 티켓을 구매할 때 **각각의 트랜잭션을 만드실 필요는 없습니다.**
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## 래플 참여하기
 
-래플은 일정 기간동안 이루어집니다. 이 기간에 여러분은 래플 티켓을 제출하여 상품을 노릴 수 있습니다. 래플 티켓을 추첨함에 넣는 것은 이더리움 상에서 일어나는 트랙잭션이기 때문에 자동적으로 이루어지지 않습니다. 만약 다양한 등급의 래플 티켓을 한번에 추첨함에 넣고 싶으시다면, 걱정하실 필요가 없습니다. 이것 역시 가능합니다. 각각의 래플 티켓에 대해 일일이 서로 다른 트랜잭션을 생성할 필요가 **전혀** 없습니다.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-래플이 종료된 후 당첨된 상품을 확인할 수 있고 수령에 대한 최종 승인도 가능합니다.
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-만약 래플에 참여하지 않기로 했다면 래플 티켓으로 뭔가를 하실 필요가 전혀 없습니다. 그저 추후에 있을 래플에 대비해 티켓을 모을 수 있습니다.
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
-예를 들어 체인링크를 주제로한 첫번째 래플을 살펴보겠습니다. 아래는 당시 래플에서의 상품들에 대한 내용입니다.
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-총 6010개의 상품들이 래플에서 제공되었습니다.
+A total of 6010 prizes.
 
 Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 

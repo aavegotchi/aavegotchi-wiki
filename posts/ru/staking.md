@@ -109,40 +109,42 @@ table_stakingContractAddresses
 
 Помните, что их можно перебрасывать между разными кошельками, чего нельзя сделать с FRENS. Поэтому билеты лотерей можно продавать и покупать на [Baazaar](/baazaar).
 
-Приводим для ознакомления категории ценности лотерейных билетов. Всего их шесть — от обычных до божественных.
+The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
+
+There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
 
 table_RaffleTickets
 
 Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-За одну транзакцию допустимо приобретать несколько билетов разных категорий ценности. Это удобно, ведь не придется делать покупки за несколько транзакций и платить несколько комиссий.
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Участие в лотерее
 
-Каждый розыгрыш проводится в течение определенного срока. В это время можно взять свои лотерейные билеты и отправить их для участия в розыгрыше. Это делается вручную. Нужно провести транзакцию в Ethereum. Причем не нужно создавать несколько транзакций для билетов разных категорий. Нужно собрать их вместе и отправить в одной и той же транзакции, а не в **разных**.
+A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
 
-По завершении розыгрыша пользователь узнает, какие призы выиграл, и получает возможность их забрать.
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-Напоминаем, что участие в лотерее — дело добровольное. Накапливайте билеты для последующих розыгрышей, если хотите.
+If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
 
-К примеру, в первом розыгрыше была тема Chainlink. Вот такие призы выпали счастливчикам-победителям:
+As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-Всего 6010 призов.
+A total of 6010 prizes.
 
-Призы распределяются в случайном порядке по лотерейным билетам, участвующим в розыгрыше. Шансы выиграть что-либо у всех билетов одинаковые.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Чтобы повысить шанс на получение приза, можно выполнить несколько несложных действий:
+You can improve your probability of winning by:
 * Использовать несколько лотерейных билетов.
 * Выбрать категорию приза во время розыгрыша. Например, призы обычной категории выпадают чаще, чем более ценных категорий.
 
-На какой лотерейный билет выпадет приз, решает [генератор случайных чисел](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/). Все прозрачно и честно.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Призы категории Wearable пригодны к обмену 1:1 на настоящие внутриигровые объекты после запуска игры. Отовариться можно будет в магазине Aavegotchi.
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
 
 ## Статистика прошлых розыгрышей
-Если хотите знать, насколько выгодно участвовать в лотереях, посетите страницу статистики розыгрышей. Там собраны исторические данные обо всех проведенных лотереях.  Смотрите и вдохновляйтесь. Заходите [сюда](/raffles-stats), смотрите статистику, участвуйте в лотерее. Вам обязательно повезет!
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Подробности
 
