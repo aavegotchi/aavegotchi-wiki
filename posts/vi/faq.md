@@ -272,12 +272,12 @@ Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy 
 ## Hỏi Đáp về Đấu Giá
 
 ### Mình có thể kiếm khoảng bao nhiêu?
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+Mỗi phiên đấu giá GBM có thể được cấu hình thu nhập tối đa trước. Với phiên đấu giá Trang phục này, bọn mình đã chọn lại cài đặt của Cryptographs - tối thiểu 1% và tối đa 10%. Điều này có nghĩa là số lượng tối đa mà bạn có thể kiếm được khi bị vượt mặt là 10% số tiền đã bỏ ra!
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+Ví dụ, nếu bạn đặt giá là 2k GHST, số tiền tối đa mà bạn kiếm được khi bị vượt mặt trong phiên đấu giá là 200 GHST. Các phiên đấu giá sẽ này sẽ thử nghiệm những cấu hình khác nhau để giữ cho nó luôn thú vị!
 
 ### Mình có thể tự vượt mặt mình hay không?
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+Vâng, không có gì sai nếu bạn tự vượt mặt chính mình. Chỉ cần không trả giá quá cao là được!
 
 ### Liệu con số tối thiểu 10% có tăng lên không?
 This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
