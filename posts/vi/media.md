@@ -11,7 +11,7 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
-### Biến DeFi Thành Game, với Jesse Johnson từ PixelCraft Studios bởi The Metaverse Podcast (ngày 26 tháng Bảy 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
+### Biến DeFi Thành Game, với Jesse Johnson từ PixelCraft Studios bởi The Metaverse Podcast (ngày 26 tháng Bảy 2021) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
 
 ### Lập Trình trên Aavegotchi! Ivan on Tech Phỏng Vấn CoderDan (ngày 22 tháng Bảy 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
