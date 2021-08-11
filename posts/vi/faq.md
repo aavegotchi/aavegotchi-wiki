@@ -280,7 +280,7 @@ Ví dụ, nếu bạn đặt giá là 2k GHST, số tiền tối đa mà bạn k
 Vâng, không có gì sai nếu bạn tự vượt mặt chính mình. Chỉ cần không trả giá quá cao là được!
 
 ### Liệu con số tối thiểu 10% có tăng lên không?
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+"Bước giá" tối thiểu được tính toán cẩn thận bởi các chuyên gia lý thuyết về game tại GBM để đảm bảo phiêu đấu giá sẽ được trả đủ tiền dù cho nhận được bao nhiêu lượt đặt giá. Without a minimum increase, the auction would be at risk of becoming underfunded.
 
 ### Có mức đặt giá tối thiểu không?
 There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
