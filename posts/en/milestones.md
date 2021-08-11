@@ -6,6 +6,12 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
+* July has been jam-packed with Aavegotchi updates!
+* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquidity rewards and more!
+* Read all about it here!
+<p></p>
+
 ## [Haunt 1 Aavegotchi NFT Backgrounds are live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
 * On 5 August 2021, Pixelcraft announces that the Haunt 1 Aavegotchi NFT Backgrounds are now live!
 * This was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) and has finally been implemented
