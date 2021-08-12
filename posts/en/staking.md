@@ -18,11 +18,11 @@ FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRE
 
 FRENS can be converted into Raffle Tickets or Drop Tickets:
 
-* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
 
-* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
+* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
-Continue reading to learn how to stake GHST and earn prizes with your FRENS.
+Continue reading to learn how to stake GHST.
 
 <div class="contentsBox">
 
@@ -32,10 +32,7 @@ Continue reading to learn how to stake GHST and earn prizes with your FRENS.
 <li><a href=#purchasing-ghst>Purchasing GHST</a></li>
 <li><a href=#how-to-stake>How to Stake</a></li>
 <li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -46,7 +43,15 @@ First, you need to get your hands on some GHST tokens to stake. Our [GHST token 
 ## How to Stake
 Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
 
-There are two ways to stake: (1) staking GHST tokens directly, and/or (2) staking [QuickSwap](/glossary#quickswap) LP tokens.
+There are four ways to stake:
+
+1. GHST
+
+2. GHST-QUICK
+
+3. GHST-USDC
+
+4. GHST-ETH
 
 **Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
@@ -64,12 +69,9 @@ Connect your Metamask to Polygon and head over to the [Polygon Staking Page](htt
 
 *For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
-### Staking QuickSwap LP tokens
+### Staking GHST-QUICK and GHST-USDC
 
-Currently, there are only 2 QuickSwap LP tokens that could be staked for FRENS:
-
-* QuickSwap GHST-QUICK LP token
-* QuickSwap GHST-USDC LP token
+Staking GHST-QUICK and GHST-USDC follows the same steps.
 
 The first step involves transferring funds from Ethereum Mainnet to Polygon, a layer 2 solution.
 
@@ -89,11 +91,35 @@ Why is there a huge difference in the number of FRENS earned through LP staking 
 
 Why is the GHST-USDC pool yielding 74 million FRENS a day? An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
-### Staking GHST on Polygon Cheetsheet!
+### Staking GHST-ETH
 
-The following diagram shows the two different routes to staking on Polygon that we have discussed above (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
+* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+
+* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+
+* Step 3: In return, you receive GHST-WETH LP tokens.
+
+* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+
+* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+
+* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+
+* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+
+For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking Cheatsheets!
+
+If you prefer something more visual, check out our Staking Cheatsheets!
+
+* GHST Staking and GHST-QUICK/GHST-USDC Staking
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet">
+
+* GHST-ETH Staking
+
+<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet">
 
 ## Staking Contract Addresses
 
@@ -101,52 +127,6 @@ The following table shows the various staking contract addresses on Polygon. The
 
 table_stakingContractAddresses
 
-## Purchasing Raffle Tickets
+## What's next?
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase raffle tickets with FRENS.
-
-Unlike FRENS, Raffle Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
-
-The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
-
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
-
-table_RaffleTickets
-
-Blog post: [Stake GHST, Make FRENS Live on Ethereum Mainnet!](
-https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
-
-## Entering Raffles
-
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
-
-When the raffle is over, you can find out what prizes you have won and can claim them. 
-
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
-
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
-
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes">
-
-A total of 6010 prizes.
-
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning. 
-
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
-
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
-
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
-
-## Past Raffles Statistics
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
-
-## More Resources
-
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
