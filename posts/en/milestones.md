@@ -6,6 +6,12 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Haunt 2 Dates Confirmed!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
+* Haunt 2 Dates confirmed on August 26, 2pm UTC — August 29, 2pm UTC
+* Format: GBM Auction
+* New Mythical Eye Shapes!
+<p></p>
+
 ## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
 * July has been jam-packed with Aavegotchi updates!
 * Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquidity rewards and more!
