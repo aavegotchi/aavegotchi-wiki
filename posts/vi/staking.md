@@ -20,11 +20,11 @@ FRENS là một một tài khoản không thể chuyển đi được nằm tron
 
 FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 
-* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
+* Vé Raffle có thể được dùng trong sự kiện Raffle định kỳ để trúng được [Trang Phục](/wearables).
 
-* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
+* Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse).
 
-Continue reading to learn how to stake GHST.
+Hãy đọc thêm để học các stake GHST nhé.
 
 <div class="contentsBox">
 
@@ -34,7 +34,7 @@ Continue reading to learn how to stake GHST.
 <li><a href=#purchasing-ghst>Mua GHST</a></li>
 <li><a href=#how-to-stake>Cách Stake</a></li>
 <li><a href=#staking-contract-addresses>Địa Chỉ Hợp Đồng Staking</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#what-s-next->Bước tiếp theo?</a></li>
 </ol>
 
 </div>
@@ -45,7 +45,7 @@ Continue reading to learn how to stake GHST.
 ## Cách Stake
 Một khi đã có token GHST, đã đến lúc để stake chúng! Staking diễn ra trên Polygon (trước đây là Matic Network).
 
-There are four ways to stake:
+Có 4 cách stake:
 
 1. GHST
 
@@ -71,9 +71,9 @@ Kết nối ví MetaMask với Polygon và chuyển đến trang [Polygon Stakin
 
 *Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
-### Staking GHST-QUICK and GHST-USDC
+### Stake GHST-QUICK và GHST-USDC
 
-Staking GHST-QUICK and GHST-USDC follows the same steps.
+Stake GHST-QUICK và GHST-USDC theo những bước sau.
 
 Bước đầu tiên là phải chuyển tiền từ Ethereum Mainnet sang Polygon, một giải pháp L2.
 
@@ -129,6 +129,6 @@ The following table shows the various staking contract addresses on Polygon. The
 
 table_stakingContractAddresses
 
-## What's next?
+## Bước tiếp theo?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
