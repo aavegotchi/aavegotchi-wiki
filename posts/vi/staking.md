@@ -123,6 +123,14 @@ If you prefer something more visual, check out our Staking Cheatsheets!
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
+### Staking Returns Table
+
+The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+
+Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+
+table_stakingReturns
+
 ## Địa Chỉ Hợp Đồng Staking
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
