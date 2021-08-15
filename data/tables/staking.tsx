@@ -25,5 +25,19 @@ export const tables
 					["ghstUsdcLP", "0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4"]
                 ]
             }
-        }
+        },
+		
+		{
+            tableName: "stakingReturns",
+            tableCaption: "",
+            tableData: {
+                headers: ["Type", "% more"],
+                data: [
+                    ["GHST", "Baseline"],
+                    ["GHST-USDC", "10%"],
+                    ["GHST-ETH", "20%"],
+					["GHST-QUICK", "35%"]
+                ]
+            }
+        },
     ]
