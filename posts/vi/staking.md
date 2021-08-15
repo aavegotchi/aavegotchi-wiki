@@ -123,20 +123,20 @@ Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nh�
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
-### Staking Returns Table
+### Bảng Lợi Nhuận
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+Bảng dưới đây tóm tắt lại lợi nhuận khi stake (dựa trên số FRENS) theo tỷ lệ phần trăm so với đường cơ bản là stake GHST đơn thuần.
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+Hãy chú ý là team Pixelcraft sẽ cập nhật lượng FRENS này liên tục để cân bằng hệ thống.
 
 table_stakingReturns
 
 ## Địa Chỉ Hợp Đồng Staking
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+Bạn dưới đây tổng hợp nhiều địa chỉ hợp đồng staking khác nhau trên Polygon. Hợp đồng ghstStaking và stkGHSTQUICK dùng chung một địa chỉ. Hãy xem kỹ địa chỉ hợp đồng trước khi hoàn thành bất kỳ giao dịch nào nhé.
 
 table_stakingContractAddresses
 
 ## Bước tiếp theo?
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+Vậy bạn đã có một ít FRENS rồi đúng không? Hãy vào [Tickets page](/tickets) để học cách mua vé bằng FRENS và tham gia vào Raffle!
