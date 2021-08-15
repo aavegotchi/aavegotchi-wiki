@@ -75,3 +75,9 @@ The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aa
 Ссылка на игру [здесь](https://snaake.gg/).
 
 <img class = "bodyImage" src = "/minigames/snaake.png" alt = "Змеюка от SPYCEBRINGER" />
+
+### Whac-a-Rofl by Gotchinomics
+
+Link to game [here](https://whacarofl.com/)
+
+<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />

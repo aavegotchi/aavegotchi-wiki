@@ -16,7 +16,7 @@ contributors:
 
 Bên ngoài Vương Quốc của loài người có tồn tại nơi khác gọi là Vương Quốc Ether, nơi có những hợp đồng thông minh lấp lánh và những khu rừng tăm tối ẩn nấp. Đi xa hơn nữa xuống chiếc hang thỏ, cuối cùng ta sẽ tìm được Vương Quốc Gotchiverse. Mỗi khi một người nông dân cày lãi ở Vương Quốc Ether bị cháy tài khoản, linh hồn của người đó sẽ du hành đến Gotchiverse, và đầu thai thành một Aavegotchi. Aavegotchi là những sinh vật tâm linh cực kỳ yêu thích việc [cày cuốc](/rarity-farming), [bỏ phiếu](/dao), và đăng bài nhảm nhí.
 
-The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
+Ban đầu chỉ có một vài Aavegotchi sống ở Gotchiverse, nhưng khi số vụ cháy tài khoản diễn ra ngày càng nhiều ở Vương Quốc Ether, dân số của Gotchiverse đã tăng đột biến lên đến hàng nghìn Aavegotchi. Chúng khám phá, xây dựng, mở rộng nơi sinh sống, và thậm chí là xây dựng nên những cấu trúc cực lớn để thờ phụng các Liquidator, những người tạo ra chúng.
 
 <a name="Realm"></a>
 
@@ -49,7 +49,7 @@ Gotchiverse bao gồm một vùng đất rộng lớn, với những địa danh
 
 ### The Citaadel (Kinh Đô)
 
-Protected by a Force Field that keeps out lickquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Các tòa tháp không được xây dựng tại Citaadel, trừ những khu vực xung quanh Cánh Cổng Lớn.
+Được bảo vệ bởi Trường Lực có khả năng xua đuổi Người Thanh Khoản, Citaadel là ngôi nhà chính của Aavegotchi trong Gotchiverse. Các tòa tháp không được xây dựng tại Citaadel, trừ những khu vực xung quanh Cánh Cổng Lớn.
 
 #### The Great Portal (Cánh Cổng Lớn)
 
@@ -57,7 +57,7 @@ Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu
 
 ### The Grid
 
-The Grid bao gồm tất cả mọi nơi bên ngoài Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Những mẫu đất bên ngoài Grid có thể xây nên được Những Bức Tường và Tòa Tháp.
+The Grid bao gồm tất cả mọi nơi bên ngoài Citaadel. Số lượng đất có ở Grid nhiều hơn, nhưng chủ sở hữu cần lưu ý - Người Thanh Khoản đang lùng sụt khắp mọi ngõ ngách. Những mẫu đất bên ngoài Grid có thể xây nên được Những Bức Tường và Tòa Tháp.
 
 #### The Aarena (Đấu Trường)
 Là khu vực chủ chốt ở Grid.
@@ -66,7 +66,7 @@ Dù Aavegotchi rất thân thiện, nhưng chúng nhận ra rằng việc nhữn
 
 Trong Aarena, Aavegotchi với [Linh Lực](/atokens) đủ cao (aToken tự động sinh lời của Aave) sẽ chiến đấu với nhau trong một trận chiến khủng khác theo phong cách Battle Royales (chỉ một nhà vô địch), đấu nhau để giành lấy Linh Lực của đối phương.
 
-Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
+Người Thanh Khoản không dám bước chân vào Aarena, thay vì vậy, chúng thường lui tới một nơi gọi là Phantastic Grounds, một khu vực để đấu cùng đồng loại, cũng cho phép Người Thanh Khoản bước vào.
 
 ### The Beyond
 
@@ -90,13 +90,13 @@ Những ai sở hữu những mẫu đất REALM có thể dùng Aavegotchi củ
 
 Gotchiverse là một không gian xã hội kết thúc mở, nơi người chơi có thể tham gia vào vô số hoạt động chẳng hạn như nông nghiệp, chế tạo, giao dịch, và chiến đấu.
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
+Dù không hề có điều kiện thắng hoặc viễn cảnh “hết game”, nhưng mục tiêu tổng quát của Gotchiverse là thu thập Alchemica để củng cố mẫu đất, giúp tạo ra nhiều lãi hơn, và xây dựng những cấu trúc phòng thủ giúp chuẩn bị cho Lời tiên tri, và cuộc xâm lược lớn của Người Thanh Khoản.
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. Người chơi có thể dùng [GHST](/ghst) để mua.
+Người chơi có Điểm Tín Dụng Người Thanh Khoản có thể chơi với vai trò Liquidator. Điểm Tín Dụng Liquidator có thể kiếm được bằng cách hoàn thành nhiệm vụ, mời bạn, tham gia airdrop, và một số cách khác. Người chơi có thể dùng [GHST](/ghst) để mua.
 
-The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+Mục tiêu chính của Liquidator là thu thập Alchemica rơi vãi khắp nơi tại Gotchiverse, nhưng chúng cũng có thể đánh nhau với Aavegotchi và những Công Trình tấn công để kiếm Alchemica.
 
-Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+Người Thanh Khoản được định hình là cách để có thể chơi game miễn phí trong Gotchiverse Realm, không có lượng cung tối đa và khả năng thu thập bị giới hạn.
 
 ## Giao Tiếp Xã Hội Trong Gotchiverse
 
@@ -104,7 +104,7 @@ Aavegotchi thích giao tiếp xã hội với bạn của mình, và nơi mà ch
 
 Theo mặc định, tất cả các Gotchi sẽ có thể chat chữ khi ở gần nhau. Người sở hữu Mẫu Đất REALM cũng có thể xây dựng nên những công trình đặc biệt trên mẫu đất của mình để bật tính năng voice chat cho Gotchi trong một Mẫu Đất, và nâng cấp Công Trình để hỗ trợ tính năng voice chat toàn cầu.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Vùng Đất Phiêu Lưu là những vùng đặc biệt nằm bên ngoài phần chính của thế giới Gotchiverse, nơi Aavegotchi có thể tận dụng [chỉ số](/traits) và [trang phục](/wearables) của mình để đánh bại những kẻ thù NPC, và kiếm kinh nghiệm cũng như tài nguyên. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định!
+Gotchi cũng có thể hợp mặt với nhau để cùng đi chế độ Aadventures (Phiêu Lưu), khám phá các hầm ngục, chiến đấu với Người Thanh Khoản, các nhân vật phản diện khác để kiếm phần thưởng. Vùng Đất Phiêu Lưu là những vùng đặc biệt nằm bên ngoài phần chính của thế giới Gotchiverse, nơi Aavegotchi có thể tận dụng [chỉ số](/traits) và [trang phục](/wearables) của mình để đánh bại những kẻ thù NPC, và kiếm kinh nghiệm cũng như tài nguyên. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định!
 
 <img class="bodyImage" src="/metaverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
@@ -119,7 +119,7 @@ Gotchus Alchemica có thể được chiết xuất ra từ REALM theo 4 cách k
 * **Alchemical Channeling (Truyền Giả Kim)**: Aavegotchi có thể truyền năng lượng trực tiếp vào Mẫu Đất REALM, đổi [Kinship](/traits#kinship) để hỗ trợ cho các hoạt động Alchemica.
 * **Communal Channeling (Đồng Truyền)**: Aavegotchi cũng có thể cùng nhau truyền Alchemica công trình Gotchi Lodge đã được dựng lên trên đất REALM. Để tham gia Đồng Truyền, Aavegotchi phải mặc chung đồng phục Guild Insignia và có mặt tại Mẫu Đất REALM trong buổi lễ. Càng có nhiều Aavegotchi tham gia vào lễ Đồng Truyền, Alchemica sẽ được farm càng nhanh.
 * **Farming (Cày)**: Một khi công trình Harvester (tạm dịch: Máy Thu Hoạch) đã được hoàn thành, Alchemica sẽ bắt đầu được tích lũy một cách thụ động. Với mỗi một lượng x đi vào công trình Reservoir (Hồ Chứa), một lượng **y** sẽ tràn ra bản đồ gần đó, và một lượng **z** sẽ đi vào Cánh Cổng Lớn
-* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+* **Harvesting (Thu Hoạch)**: Aavegotchi và Người Thanh Khoản có thể lượn quanh bản đồ để thu thập Alchemica rơi ra từ quá trình khai thác.
 
 Các giao dịch với Gotchus Alchemica sẽ diễn ra tại [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 

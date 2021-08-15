@@ -272,29 +272,29 @@ Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy 
 ## Hỏi Đáp về Đấu Giá
 
 ### Mình có thể kiếm khoảng bao nhiêu?
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+Mỗi phiên đấu giá GBM có thể được cấu hình thu nhập tối đa trước. Với phiên đấu giá Trang phục này, bọn mình đã chọn lại cài đặt của Cryptographs - tối thiểu 1% và tối đa 10%. Điều này có nghĩa là số lượng tối đa mà bạn có thể kiếm được khi bị vượt mặt là 10% số tiền đã bỏ ra!
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+Ví dụ, nếu bạn đặt giá là 2k GHST, số tiền tối đa mà bạn kiếm được khi bị vượt mặt trong phiên đấu giá là 200 GHST. Các phiên đấu giá sẽ này sẽ thử nghiệm những cấu hình khác nhau để giữ cho nó luôn thú vị!
 
 ### Mình có thể tự vượt mặt mình hay không?
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+Vâng, không có gì sai nếu bạn tự vượt mặt chính mình. Chỉ cần không trả giá quá cao là được!
 
 ### Liệu con số tối thiểu 10% có tăng lên không?
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+"Bước giá" tối thiểu được tính toán cẩn thận bởi các chuyên gia lý thuyết về game tại GBM để đảm bảo phiêu đấu giá sẽ được trả đủ tiền dù cho nhận được bao nhiêu lượt đặt giá. Nếu không có lượng tăng tối thiểu, các vật phẩm đấu giá có nguy cơ trở nên thấp giá trị.
 
 ### Có mức đặt giá tối thiểu không?
-There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+Không có lệnh đặt giá tối thiểu cho buổi đấu giá. Bạn có thể đặt giá 1 GHST nếu bạn muốn! Nhưng hãy nhớ rằng, bạn đặt giá càng cao thì sẽ càng kiếm được nhiều nếu bị vượt mặt.
 
 ### Điều gì giúp ngăn bot mua hết vật phẩm?
-In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+Trong một sự kiện mở bán NFT phục vụ theo thứ tự, một đoạn mã thư động có thể lắng nghe các sự kiện trên blockchain và trở thành nhân tố đầu tiên mua một vật phẩm khi nó xuất hiện trên blockchain.
 
-This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+Lợi thế về tốc độ sẽ được giải quyết bằng hệ thống đấu giá - bot sẽ KHÔNG thể có được NFT với Đấu Giá Aavegotchi!
 
 ### Điều gì giúp năng bot giành suất mua khi sự kiện đấu giá sắp kết thúc?
-If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+Nếu một lệnh được đặt ra trong vòng năm phút kể từ phiên đấu giá, "thời gian gõ búa" sẽ được tăng lên năm phút. Điều này giúp ngăn bot ks phút chót một cách hiệu quản bởi chúng sẽ bị vượt mặt.
 
 ### Tôi có thể nhận giải bằng cách nào?  How do I claim my prize?
-If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+Nếu bạn là người đặt giá cao nhất trong buổi đấu giá, bạn sẽ thấy nút "Claim NFT" xuất hiện trong trang My Bids, cho phép bạn nhận NFT trực tiếp tới ví của mình!
 
 ## Hỏi Đáp Về Trang Phục
 
@@ -367,58 +367,58 @@ Với các thiết bị Android, bạn có thể dùng trình duyệt của ứn
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
 
 ### Mình có thể chuyển sang Matic bằng cách nào?
-Check out our [Polygon Migration Guide](/polygon).
+Xem thêm tại [Matic Migration Guide](/polygon).
 
-### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### Mình có ví ledger / trezor, mình cần phải làm gì?
+Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
 
 ### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
 
 ### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 ký tự. Bạn có thể đổi ký hiệu lại ngắn hơn một chút là được. Thay đổi ký hiệu sẽ không ảnh hưởng đến token của bạn, nó chỉ ảnh hưởng đến dữ liệu hiển thị trên ví MetaMask.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Giới hạn ký tự của token trên MetaMask" />
 
 ### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+Mình đã rút token GHST (hoặc bất kỳ tài sản nào khác có cùng vấn đề) từ Polygon về lại Ethereum Mainnet bằng [Aavegotchi Bridge](https://aavegotchi.com/bridge). Đã vài tiếng trôi qua mà mình vẫn chưa nhận được tài sản trên Ethereum Mainnet nữa. Giờ mình phải làm sao đây?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấp Block Number của giao dịch.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Sau đó, thay thế phần [blockNumber] trong đường link đưới đây bằng số Block Number của bạn rồi truy cập vào đó:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Đường link để cho cho bạn biết trạng thái của giao dịch rút tiền mà bạn đang chờ.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì hãy kiên nhẫn chờ đợi nhé. Nhiều bạn phải đợi đến 6 tiếng tiền mới về tài khoản.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
 
 ### Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
 
 ### Mình phải làm sao để tìm được Token ID của Gotchi?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 

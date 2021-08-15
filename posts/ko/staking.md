@@ -20,11 +20,11 @@ FRENS는 아베고치 스테이킹 컨트랙트 내에서 교환되는 자산이
 
 FRENS can be converted into Raffle Tickets or Drop Tickets:
 
-* Raffle Tickets can be entered into periodic Raffles to win [Wearables](/wearables).
+* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
 
-* Drop Tickets can be entered into NFT Raffles to win [Portals](/portals) and [REALM Parcels](/metaverse). Read more about Drop Tickets in the [Metaverse page](/metaverse).
+* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
-그렇다면 이제 GHST를 어떻게 스테이킹하고 FRENS로 어떻게 당첨이 될 수 있는지 함께 알아봅시다.
+Continue reading to learn how to stake GHST.
 
 <div class="contentsBox">
 
@@ -34,10 +34,7 @@ FRENS can be converted into Raffle Tickets or Drop Tickets:
 <li><a href=#purchasing-ghst>GHST 구매하기</a></li>
 <li><a href=#how-to-stake>스테이킹 방법</a></li>
 <li><a href=#staking-contract-addresses>스테이킹 컨트랙트 주소</a></li>
-<li><a href=#purchasing-raffle-tickets>래플 티켓 구매하기</a></li>
-<li><a href=#entering-raffles>래플 참여하기</a></li>
-<li><a href=#past-raffles-statistics>지난 래플 행사에 관한 통계치</a></li>
-<li><a href=#more-resources>더 많은 자료들!</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -48,7 +45,15 @@ FRENS can be converted into Raffle Tickets or Drop Tickets:
 ## 스테이킹 방법
 GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
 
-스테이킹 방법엔 크게 2가지가 있습니다 : (1) GHST를 바로 스테이킹하기 또는 (2) [Quickswap](/glossary#quickswap)에서 GHST-QUICK pool에서의 LP 토큰 스테이킹하기
+There are four ways to stake:
+
+1. GHST
+
+2. GHST-QUICK
+
+3. GHST-USDC
+
+4. GHST-ETH
 
 **중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! 스테이킹을 해제하고 폴리곤에서 다시 스테이킹 해주세요.**
 
@@ -66,12 +71,9 @@ GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스�
 
 *이런 방식으로 1 GHST를 스테이킹할 때마다 하루에 1FRENS를 받게 됩니다.*
 
-### Quickswap LP 토큰 스테이킹하기
+### Staking GHST-QUICK and GHST-USDC
 
-현재 2개의 Quickswap LP 토큰 스테이킹을 통해 FRENS를 모을 수 있습니다.
-
-* QuickSwap GHST-QUICK LP token
-* QuickSwap GHST-USDC LP token
+Staking GHST-QUICK and GHST-USDC follows the same steps.
 
 우선 이더리움에서 layer2 솔루션인 폴리곤으로 여러분의 자금을 이전하셔야 합니다.
 
@@ -91,63 +93,42 @@ stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [http
 
 그렇다면! 왜 GHST-USDC 풀은 하루에 7,400만개의 FRENS를 만들어내는 것일까요? Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. 이에 대해 궁금하시다면 다음의 [트윗](https://twitter.com/coderdannn/status/1362423402871447554)을 참고해주세요 :)
 
-### 폴리곤에 GHST를 스테이킹 하는 방법!
+### Staking GHST-ETH
 
-아래의 그림을 통해 이전까지 함께 알아보았던 <a href=#staking-ghst-tokens-directly>GHST 토큰 스테이킹 방법</a>과 <a href=#staking-quickswap-lp-tokens>GHST-QUICK 풀 스테이킹</a>, 이렇게 2가지의 스테이킹 방법을 한눈에 확인할 수 있습니다! (한국으로 번역된 그림을 확인하고 싶으시다면 [ 농사꾼의 연감](https://aavegotchikr.medium.com/%EB%86%8D%EC%82%AC%EA%BE%BC%EC%9D%98-%EC%97%B0%EA%B0%90-ghst-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B0%80%EC%9D%B4%EB%93%9C-c28b64c8ad8d) 을 확인해 주세요
+* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+
+* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+
+* Step 3: In return, you receive GHST-WETH LP tokens.
+
+* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+
+* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+
+* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+
+* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+
+For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking Cheatsheets!
+
+If you prefer something more visual, check out our Staking Cheatsheets!
+
+* GHST Staking and GHST-QUICK/GHST-USDC Staking
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
+* GHST-ETH Staking
+
+<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
+
 ## 스테이킹 컨트랙트 주소
 
-다음의 표를 통해 Polygon에서의 여러 스테이킹 컨트랙트를 확인할 수 있습니다. 이때, ghstStaking, stkGHSTQUICK 컨트랙트는 같은 컨트랙트 주소를 공유합니다. 트랜잭션을 완료하기 전에 먼저 컨트랙트 주소를 꼭 확인해주세요!
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
-표_staking 컨트랙트 주소
+table_stakingContractAddresses
 
-## 래플 티켓 구매하기
+## What's next?
 
-FRENS가 충분히 준비되셨다면, [Shop Bulk Buy user interface](https://aavegotchi.com/tickets)로 이동하셔서 FRENS로 래플 티켓을 구하시면 됩니다.
-
-FRENS와 달리, 래플 티켓은 다른 지갑으로의 이동이 가능합니다. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
-
-The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
-
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
-
-table_RaffleTickets
-
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
-
-## 래플 참여하기
-
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
-
-When the raffle is over, you can find out what prizes you have won and can claim them.
-
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
-
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
-
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
-
-A total of 6010 prizes.
-
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
-
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
-
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
-
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
-
-## 지난 래플 행사에 관한 통계치
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
-
-## 더 많은 자료들!
-
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!

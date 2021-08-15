@@ -20,11 +20,11 @@ FRENS — это замороженный и не подлежащий тран�
 
 При желании, FRENS можно поменять на лотерейные билеты, которые затем можно активировать во время проведения лотерей для получения призов.
 
-* Лотерейные билеты могут быть использованы для участия в периодических лотереях и выигрыша [экипировки](/wearables).
+* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
 
-* Дроп билетов может быть использован для участия в розыгрыше других NFT — [порталов](/portals) и [участков земли](/metaverse). Читайте больше про Дроп билетов на [этой](/metaverse) странице.
+* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
-Читайте дальше, чтобы узнать, как заниматься стейкингом GHST и получать призы с помощью FRENS.
+Continue reading to learn how to stake GHST.
 
 <div class="contentsBox">
 
@@ -34,10 +34,7 @@ FRENS — это замороженный и не подлежащий тран�
 <li><a href=#purchasing-ghst>Покупка GHST.</a></li>
 <li><a href=#how-to-stake>Процесс стейкинга.</a></li>
 <li><a href=#staking-contract-addresses>Адрес стейкингового контракта.</a></li>
-<li><a href=#purchasing-raffle-tickets>Покупка лотерейных билетов.</a></li>
-<li><a href=#entering-raffles>Розыгрыш лотерейных билетов.</a></li>
-<li><a href=#past-raffles-statistics>Статистика прошедших лотерей.</a></li>
-<li><a href=#more-resources>Больше информации.</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -48,7 +45,15 @@ FRENS — это замороженный и не подлежащий тран�
 ## Процесс стейкинга
 Если вы купили токены, можно заняться стейкингом. Стейкинг осуществляется в Polygon (предыдущее название — Matic Network).
 
-Это можно сделать двумя способами: (1) прямой стейкинг токенов GHST и (2) стейкинг токенов поставщика ликвидности (LP) на децентрализованной бирже [QuickSwap](/glossary#quickswap).
+There are four ways to stake:
+
+1. GHST
+
+2. GHST-QUICK
+
+3. GHST-USDC
+
+4. GHST-ETH
 
 **Важно: стейкинг в основной сети больше не поддерживается! Пожалуйста, разморозьте и поставьте заново на Polygon.**
 
@@ -66,12 +71,9 @@ FRENS — это замороженный и не подлежащий тран�
 
 *Каждый поставленный токен GHST ежедневно приносит вам по одному токену FRENS.*
 
-### Стейкинг токенов через QUICKSWAP LP
+### Staking GHST-QUICK and GHST-USDC
 
-В настоящее время для получения FRENS используются только два токена:
-
-* GHST-QUICK LP.
-* GHST-USDC LP.
+Staking GHST-QUICK and GHST-USDC follows the same steps.
 
 Сначала нужно перенести средства из блокчейна Ethereum в Polygon.
 
@@ -91,63 +93,42 @@ FRENS — это замороженный и не подлежащий тран�
 
 Почему доход от пула GHST-USDC составляет 74 млн FRENS ежедневно? При добавлении ликвидности пулу GHST-USDC на QuickSwap, между двумя активами наблюдается другое соотношение. Добавляя свои токены, взамен пользователи получают не целый токен, а лишь части LP, например 0,00006. Соответственно, для поддержания одинакового вознаграждения вырастает число получаемых ежедневно токенов. Причина этого кроется в ранее допущенной досадной [ошибке](https://twitter.com/coderdannn/status/1362423402871447554).
 
-### Шпаргалка по стейкингу GHST на Polygon!
+### Staking GHST-ETH
 
-На данном скриншоте вы можете посмотреть практический пример размещения ставок на Polygon двумя разными способами — <a href=#staking-ghst-tokens-directly>ставки GHST</a> напрямую или размещение ставок в пуле <a href=#staking-quickswap-lp-tokens>GHST-QUICK</a>.
+* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+
+* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+
+* Step 3: In return, you receive GHST-WETH LP tokens.
+
+* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+
+* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+
+* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+
+* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+
+For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking Cheatsheets!
+
+If you prefer something more visual, check out our Staking Cheatsheets!
+
+* GHST Staking and GHST-QUICK/GHST-USDC Staking
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
+* GHST-ETH Staking
+
+<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
+
 ## Адреса контрактов для стейкинга
 
-В нижеприведенной таблице представлены разные адреса смарт-контактов для размещения на Polygon. Обратите внимание, что адреса контрактов ghstStaking и stkGHSTQUICK имеют одинаковый адрес контракта. Прежде чем отправлять куда-либо свои токены, проверьте адрес контракта.
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
-## Приобретение лотерейных билетов
+## What's next?
 
-Если вы хотите получить дополнительный бонус и имеете достаточно FRENS, купите лотерею. Перейдите в интерфейс [Shop Bulk Buy](https://aavegotchi.com/tickets) и сделайте покупку, оплатив лотерейные билеты с помощью FRENS.
-
-Помните, что их можно перебрасывать между разными кошельками, чего нельзя сделать с FRENS. Поэтому билеты лотерей можно продавать и покупать на [Baazaar](/baazaar).
-
-The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
-
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
-
-table_RaffleTickets
-
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
-
-## Участие в лотерее
-
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
-
-When the raffle is over, you can find out what prizes you have won and can claim them.
-
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
-
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
-
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
-
-A total of 6010 prizes.
-
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
-
-You can improve your probability of winning by:
-* Использовать несколько лотерейных билетов.
-* Выбрать категорию приза во время розыгрыша. Например, призы обычной категории выпадают чаще, чем более ценных категорий.
-
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
-
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
-
-## Статистика прошлых розыгрышей
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
-
-## Подробности
-
-- [Гид по лотереям Аавеготчи.](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Лотерея Chainlink - кто в выигрыше?](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon и Зеленый билет.](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!

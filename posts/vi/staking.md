@@ -22,9 +22,9 @@ FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 
 * Vé Raffle có thể được dùng trong sự kiện Raffle định kỳ để trúng được [Trang Phục](/wearables).
 
-* Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse). Đọc thêm về Vé Drop tại [trang Metaverse](/metaverse).
+* Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse).
 
-Đọc tiếp để hiểu thêm về cách stake GHST và kiếm thêm giải thưởng với FRENS.
+Hãy đọc thêm để học các stake GHST nhé.
 
 <div class="contentsBox">
 
@@ -34,10 +34,7 @@ FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 <li><a href=#purchasing-ghst>Mua GHST</a></li>
 <li><a href=#how-to-stake>Cách Stake</a></li>
 <li><a href=#staking-contract-addresses>Địa Chỉ Hợp Đồng Staking</a></li>
-<li><a href=#purchasing-raffle-tickets>Mua vé Raffle</a></li>
-<li><a href=#entering-raffles>Tham gia Raffle</a></li>
-<li><a href=#past-raffles-statistics>Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ</a></li>
-<li><a href=#more-resources>Thêm nguồn</a></li>
+<li><a href=#what-s-next->Bước tiếp theo?</a></li>
 </ol>
 
 </div>
@@ -48,7 +45,15 @@ FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 ## Cách Stake
 Một khi đã có token GHST, đã đến lúc để stake chúng! Staking diễn ra trên Polygon (trước đây là Matic Network).
 
-Có hai cách để stake: (1) stake GHST trực tiếp, và/hoặc (2) stake trong pool GHST-QUICK trên [QuickSwap](/glossary#quickswap).
+Có 4 cách stake:
+
+1. GHST
+
+2. GHST-QUICK
+
+3. GHST-USDC
+
+4. GHST-ETH
 
 **Chú ý quan trọng: Không thể stake trên Mainnet được nữa! Mọi người vui lòng unstake và restake trên Polygon nhé.**
 
@@ -66,12 +71,9 @@ Kết nối ví MetaMask với Polygon và chuyển đến trang [Polygon Stakin
 
 *Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
-### Stake token LP Quickswap
+### Stake GHST-QUICK và GHST-USDC
 
-Hiện tại chỉ có 2 token LP có thể đem stake để nhận FRENS:
-
-* QuickSwap GHST-QUICK LP token
-* QuickSwap GHST-USDC LP token
+Stake GHST-QUICK và GHST-USDC theo những bước sau.
 
 Bước đầu tiên là phải chuyển tiền từ Ethereum Mainnet sang Polygon, một giải pháp L2.
 
@@ -91,63 +93,42 @@ Tại sao lại có sự khác biệt lớn về lượng FRENS nhận được 
 
 Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
 
-### Lật Bùa Cách Stake GHST trên Polygon nào!
+### Staking GHST-ETH
 
-Hình dưới đây giúp bạn hiểu về 2 cách tham gia vào staking trên Polygon mà chúng ta đã thảo luận phía trên (<a href=#staking-ghst-tokens-directly>Staking GHST tokens</a> ; <a href=#staking-quickswap-lp-tokens>Staking in the GHST-QUICK pool</a>).
+* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "Hướng dẫn chuyển GHST sang Matic" />
+* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+
+* Step 3: In return, you receive GHST-WETH LP tokens.
+
+* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+
+* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+
+* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+
+* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+
+For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking Cheatsheets!
+
+If you prefer something more visual, check out our Staking Cheatsheets!
+
+* GHST Staking and GHST-QUICK/GHST-USDC Staking
+
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+
+* GHST-ETH Staking
+
+<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
 ## Địa Chỉ Hợp Đồng Staking
 
-Bạn dưới đây tổng hợp nhiều địa chỉ hợp đồng staking khác nhau trên Polygon. Hợp đồng ghstStaking và stkGHSTQUICK dùng chung một địa chỉ. Hãy xem kỹ địa chỉ hợp đồng trước khi hoàn thành bất kỳ giao dịch nào nhé.
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
-## Mua vé Raffle
+## Bước tiếp theo?
 
-Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
-
-Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Vé cũng có thể được mua/bán trên thị trường thứ cấp như [Baazaar](/baazaar).
-
-The Raffle Tickets are also now available on OpenSea Polygon [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon). You will be able to see the number of tickets minted for each category of tickets on OpenSea.
-
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable):
-
-table_RaffleTickets
-
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
-
-## Tham gia Raffle
-
-A raffle runs for a period of time. During this period, you can submit your raffle tickets for a chance to win prizes. Submitting raffle tickets into the draw involves an Ethereum transaction; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of raffle tickets into the raffle.
-
-When the raffle is over, you can find out what prizes you have won and can claim them.
-
-If you choose not to participate in a given Raffle, you do not need to do anything with your raffle tickets. You can also accumulate raffle tickets for subsequent raffles if you like to do so.
-
-As an example, the first raffle had a Chainlink Theme. Here were the prizes for the raffle:
-
-<img class = "bodyImage" src = "/staking/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
-
-A total of 6010 prizes.
-
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
-
-You can improve your probability of winning by:
-* Tham gia với nhiều vé
-* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
-
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
-
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
-
-## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
-
-## Thêm nguồn
-
-- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
