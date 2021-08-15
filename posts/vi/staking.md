@@ -93,33 +93,33 @@ Tại sao lại có sự khác biệt lớn về lượng FRENS nhận được 
 
 Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
 
-### Staking GHST-ETH
+### Stake GHST-ETH
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* Bước 1: Đi đến [quickswap.exchange](https://quickswap.exchange/) và chọn>Pools > Add Liquidity.
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* Bước 2: Gửi lượng GHST và ETH tương đương vào quỹ thanh khoản GHST-ETH.
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* Bước 3: Quay lại, bạn sẽ nhận được token GHST-ETH LP.
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* Bước 4: Nhận token LP và stake tại [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* Bước 5: Quay lại, kiếm FRENS và bạn nhận được token stkGHST-WETH
 
-* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+* Bước 6: Gửi chúng vào [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farm để farm DINO
 
-* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+* BONUS: Gửi DINO vào Extinction Pool để kiếm nhiều GHST hơn!
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 12.08 triệu FRENS/Ngày).
 
 ### Staking Cheatsheets!
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nhé!
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* Stake GHST và Stake GHST-QUICK/GHST-USDC
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-* GHST-ETH Staking
+* Stake GHST-ETH
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
