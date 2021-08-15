@@ -84,13 +84,18 @@ Parcels come in three sizes, with each size providing greater deposits of Alchem
 
 ## REALM Gameplay
 
+<div class="headerImageContainer">
+<img src="/metaverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
+<p class="headerImageText">Lickquidator</p>
+</div>
+
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels). 
 
 The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
 
 Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst). 
 
 The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
 
