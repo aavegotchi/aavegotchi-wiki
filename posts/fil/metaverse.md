@@ -86,6 +86,11 @@ Parcels come in three sizes, with each size providing greater deposits of Alchem
 
 ## REALM Gameplay
 
+<div class="headerImageContainer">
+<img src="/metaverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
+<p class="headerImageText">Lickquidator</p>
+</div>
+
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
 
 The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.

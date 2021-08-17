@@ -76,8 +76,8 @@ Chơi tại [đây](https://snaake.gg/)
 
 <img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
 
-### Whac-a-Rofl by Gotchinomics
+### Whac-a-Rofl của Gotchinomics
 
-Link to game [here](https://whacarofl.com/)
+Chơi tại [đây](https://whacarofl.com/)
 
 <img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />

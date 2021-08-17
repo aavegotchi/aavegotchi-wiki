@@ -86,6 +86,11 @@ Parcel có 3 kích thước, kích thước càng lớn thì cần có nhiều A
 
 ## Lối Chơi Trong REALM
 
+<div class="headerImageContainer">
+<img src="/metaverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
+<p class="headerImageText">Lickquidator</p>
+</div>
+
 Những ai sở hữu những mẫu đất REALM có thể dùng Aavegotchi của mình (và của người khác) để có thể cày lãi trên những mẫu đất REALM, giúp tạo ra lượng lớn tài nguyên được gọi là Gotchus Alchemica. Những tài nguyên này có thể kết hợp để tạo ra những cấu trúc được gọi là [Installation](/metaverse#building-on-realm-parcels).
 
 Gotchiverse là một không gian xã hội kết thúc mở, nơi người chơi có thể tham gia vào vô số hoạt động chẳng hạn như nông nghiệp, chế tạo, giao dịch, và chiến đấu.

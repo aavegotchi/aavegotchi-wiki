@@ -93,42 +93,50 @@ Tại sao lại có sự khác biệt lớn về lượng FRENS nhận được 
 
 Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
 
-### Staking GHST-ETH
+### Stake GHST-ETH
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* Bước 1: Đi đến [quickswap.exchange](https://quickswap.exchange/) và chọn>Pools > Add Liquidity.
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* Bước 2: Gửi lượng GHST và ETH tương đương vào quỹ thanh khoản GHST-ETH.
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* Bước 3: Quay lại, bạn sẽ nhận được token GHST-ETH LP.
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* Bước 4: Nhận token LP và stake tại [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* Bước 5: Quay lại, kiếm FRENS và bạn nhận được token stkGHST-WETH
 
-* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+* Bước 6: Gửi chúng vào [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farm để farm DINO
 
-* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+* BONUS: Gửi DINO vào Extinction Pool để kiếm nhiều GHST hơn!
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 12.08 triệu FRENS/Ngày).
 
 ### Staking Cheatsheets!
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nhé!
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* Stake GHST và Stake GHST-QUICK/GHST-USDC
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
-* GHST-ETH Staking
+* Stake GHST-ETH
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
+### Bảng Lợi Nhuận
+
+Bảng dưới đây tóm tắt lại lợi nhuận khi stake (dựa trên số FRENS) theo tỷ lệ phần trăm so với đường cơ bản là stake GHST đơn thuần.
+
+Hãy chú ý là team Pixelcraft sẽ cập nhật lượng FRENS này liên tục để cân bằng hệ thống.
+
+table_stakingReturns
+
 ## Địa Chỉ Hợp Đồng Staking
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+Bạn dưới đây tổng hợp nhiều địa chỉ hợp đồng staking khác nhau trên Polygon. Hợp đồng ghstStaking và stkGHSTQUICK dùng chung một địa chỉ. Hãy xem kỹ địa chỉ hợp đồng trước khi hoàn thành bất kỳ giao dịch nào nhé.
 
 table_stakingContractAddresses
 
 ## Bước tiếp theo?
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+Vậy bạn đã có một ít FRENS rồi đúng không? Hãy vào [Tickets page](/tickets) để học cách mua vé bằng FRENS và tham gia vào Raffle!

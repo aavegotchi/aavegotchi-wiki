@@ -86,6 +86,11 @@ Lickquidators dare not enter into the Aarena, instead opting to frequent the Pha
 
 ## Геймплей игрового проекта
 
+<div class="headerImageContainer">
+<img src="/metaverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
+<p class="headerImageText">Lickquidator</p>
+</div>
+
 Владельцы земельных участков в Метавселенной могут использовать своих и чужих Готчи для добычи полезных ископаемых, называемых Алхимией Готчи. Они нужны для создания наступательных [установок](/metaverse#building-on-realm-parcels).
 
 Готчиверсия является открытой социальной системой, жители которой могут заниматься бесчисленным числом действий — фармить, крафтить, торговать и даже сражаться.
