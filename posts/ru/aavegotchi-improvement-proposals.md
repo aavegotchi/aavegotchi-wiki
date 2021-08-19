@@ -26,6 +26,7 @@ contributors:
 <li><a href=#voting-power-based-on-brs>Право голоса в зависимости от базовой характеристики черт (BRS).</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Право голоса в зависимости от цены носимых устройств в Молле.</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Партнерство между AavegotchiDAO, Pixelcraft и DinoSwap.</a></li>
+<li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS Committee</a></li>
 <li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
@@ -263,6 +264,43 @@ table_agip9
 table_agip10
 
 [Ссылка для голосования на Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
+
+<hr />
+
+### Liquidity Manager / FRENS Committee
+**Aavegotchi Improvement Proposal #11**
+
+**Proposal Summary:**
+
+*Problem*
+
+To incentivize liquidity on QuickSwap, you can earn additional FRENS rewards for staking Liquidity Pool (LP) tokens on the Aavegotchi website. Depending on the risk of Impermanent Loss (IL) these numbers can vary, originally it was +35% for GHST-QUICK, +20% for GHST-ETH and +10% for GHST-USDC. Because the rates have to be manually adjusted and prices have moved quite a bit since this was introduced, the FRENS rewards are off by quite a lot; GHST-QUICK is at around +90%, while GHST-USDC earns -10%.
+
+*Solution*
+
+Quoted from [coderdan](/team#coder-dan): "There has been talk of setting up committees for managing certain parts of Aavegotchi, and I believe this could be an interesting candidate for such a committee. Right now we only have two [now three] pairs incentivized by FRENS, but this could change in the future.”
+
+The “committee” could be a multisig of at least nine (maybe up to fifteen) members with strong reputation in the community and high Gotchi dependability counters. At its core, this Liquidity Committee would monitor and adjust FRENS rates to keep in check with the pre-determined rate, by performing contract calls to the GHST Staking contracts only available to a new “rateManager” role created for the committee."
+
+For now the committee should just have one job - keeping the FRENS rates up-to-date. In the future this could be extended to partnerships, monitoring of FRENS inflation, etc.
+
+*Candidates*
+
+Two weeks ago we created a Discourse thread (linked above) for interested parties to apply as candidates. Since then 11 people have applied. All candidates have been members of the community for a while and put forward good reasons as to why they should be chosen. As this is still within the range of 9-15, the easiest way would be to form the committee with all applicants.
+
+So now it's up to you, AavegotchiDAO. Should we take this step in further decentralizing Aavegotchi and put the FRENS rate into the hands of:
+
+Angst, Jarrod, Kenymccornick, UnfitStone, Notorious_BTC, Doxy, Kokusho, Grip, Almond-Stew, Shanekoy and Moon
+
+[Discourse Thread (Idea/Proposal)](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905)
+
+[Discourse Thread (Candidates)](https://dao.aavegotchi.com/t/frens-committee-applications/1944)
+
+Option 1: Yes, create the FRENS Committee
+
+Option 2: No, keep everything as it is
+
+**Voting Period:** 17 - 25 August 2021
 
 <hr />
 
