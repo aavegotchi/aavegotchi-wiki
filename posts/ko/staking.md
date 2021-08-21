@@ -61,37 +61,43 @@ There are four ways to stake:
 
 ### GHST 토큰을 직접 스테이킹하기
 
-먼저 GHST토큰을 이더리움 메인넷에서 layer2 솔루션인 폴리곤으로 옮겨야 합니다.
+* Step 1: Transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
 
-이는 [Bridge to Polygon Interface](https://aavegotchi.com/bridge)를 통해 이루어집니다. 그리고 GHST토큰을 사용할 컨트랙트에 승인을 해야합니다.(일종의 승인 과정입니다.) 승인이 완료되면, 폴리곤으로 옮기길 원하는 GHST의 양을 input으로 설정해 트랜잭션을 진행합니다. 이더리움 상에서 GHST 거래가 확인이 되면 폴리곤에서 GHST 수량이 반영되기 까지는 대략 7 ~ 8분이 걸립니다. 입금된 GHST는 자동적으로 업데이트가 됩니다. 그러니 인내심을 갖고 기다려주시길 바랍니다!
+* Step 2: Approve the contract to use your GHST tokens.
 
-그런 다음 메타마스크 상에서 wallet 잔액들이 보이도록 설정해줘야 합니다. 메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다.
+* Step 3: Input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
 
-여러분의 메타마스크를 폴리곤에 연결하고 아베고치 댑에 있는 [폴리곤 스테이킹 페이지](https://aavegotchi.com/stake-polygon)로 이동하시길 바랍니다. 그런 다음 폴리곤에 있는 GHST를 사용할 수 있도록 계약(트랜잭션)을 승인해주시길 바랍니다. 거래가 성사되면 원하는 양만큼의 GHST를 설정하여 스테이킹하시길 바랍니다! 굉장히 빠르죠! 스테이킹이 완료되었습니다!
+* Step 4: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
 
-*이런 방식으로 1 GHST를 스테이킹할 때마다 하루에 1FRENS를 받게 됩니다.*
+* Step 5: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+
+* Step 6: Approve the contract to use your GHST tokens on Polygon.
+
+* Step 7: Input the amount of GHST you would like to deposit. Presto! You are done!
+
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
 ### Staking GHST-QUICK and GHST-USDC
 
 Staking GHST-QUICK and GHST-USDC follows the same steps.
 
-우선 이더리움에서 layer2 솔루션인 폴리곤으로 여러분의 자금을 이전하셔야 합니다.
+* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
 
-메타마스크에서의 폴리곤 네트워크 설정에 대한 상세한 안내를 원하시면 [Polygon Guide](/polygon)를 참고해주시길 바랍니다. 그런 다음, [Aavegotchi Bridge](https://aavegotchi.com/bridge)를 이용하여 GHST와 다른 자산들을 폴리곤으로 이동시켜야 합니다. [maTokens Guide](/matokens)를 통해 참여 방법을 확인할 수 있습니다.
+* Step 2: Use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
 
-이제 [Quickswap](https://quickswap.exchange)에서 [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) 또는 [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4)풀에 유동성 공급자가 되어야 합니다. 유동성을 공급하신 후에 보상으로 LP 토큰을 수령하게 됩니다. GHST-QUICK 풀에 스테이킹하는 것에 관심있는 분들은 [QuickSwap](https://quickswap.exchange)에서 QUICK 토큰도 함께 보상으로 받을 수 있습니다. 가장 유동성 공급이 활발한 페어는 현재 QUICK-UNI, QUICK-WETH, QUICK-USDC, 그리고 GHST-QUICK입니다.(quickswap의 유동성 상황에 따라 달라질 수 있는 지표입니다)
+* Step 3: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
-LP 토큰을 이용해 [ Aavegotchi Staking 페이지](https://aavegotchi.com/stake-polygon)에서 LP 토큰을 스테이킹하면 stkGHST 토큰을 수령하게 됩니다. 이처럼 GHST-QUICK 풀과 GHST-USDC 풀에선 각각 stkGHST-QUICK, stkGHST-USDC라는 stkGHST 토큰을 받게 됩니다.
+* Step 4: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
-stkGHST-QUICK 토큰은 오직 추가적인 QUICK 보상을 받기 위해  [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick)의 Quickswap 보상 풀에 스테이킹을 하는 용도로만 사용이 됩니다. 현재 Aavegotchi 팀에서는 stkGHST-USDC 토큰을 추가적인 QUICK 보상 수령에도 이용할 수 있도록 Quickswap 측에 요청하고 있습니다.
+For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
 
 *For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
 *For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
-그렇다면 GHST 토큰을 바로 스테이킹하는 것과 LP 토큰을 통해 FRENS를 얻는 방식에는 어떠한 큰 차이가 있을까요?<br> (상당히 이상하지 않으신가요? 아래에 그에 대한 이유가 나와있으니 계속 읽어주세요!)<br> LP토큰을 스테이킹하는 것은 [비영구적손실](/glossary#impermanent-loss)의 위험이 있습니다. 따라서 리스크에 대한 보상이 QUICK으로 주어지는 것입니다.
+Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-그렇다면! 왜 GHST-USDC 풀은 하루에 7,400만개의 FRENS를 만들어내는 것일까요? Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. 이에 대해 궁금하시다면 다음의 [트윗](https://twitter.com/coderdannn/status/1362423402871447554)을 참고해주세요 :)
+Why is the GHST-USDC pool yielding 74 million FRENS a day? Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
 ### Staking GHST-ETH
 
