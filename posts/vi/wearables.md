@@ -58,6 +58,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#layer-2-themed-set>Trang Phục Chủ Đề Layer 2</a></li>
 <li><a href=#auction-wearables>Trang Phục Đấu Giá</a></li>
 <li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
+<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 </ol>
 
 </div>
@@ -216,3 +217,7 @@ table_auctionWearablesTable
 Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
 
 table_venlyWearablesTable
+
+## Haunt 2 Wearables
+
+table_haunt2Table
