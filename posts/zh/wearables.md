@@ -58,6 +58,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
 <li><a href=#auction-wearables>Auction Wearables</a></li>
 <li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
+<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 </ol>
 
 </div>
@@ -216,3 +217,7 @@ table_auctionWearablesTable
 A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
 
 table_venlyWearablesTable
+
+## Haunt 2 Wearables
+
+table_haunt2Table
