@@ -454,7 +454,51 @@ export const tables
 					[`<img src="/wearables/venly/horseshoe_mustache.svg" alt = "aavegotchi Horseshoe Mustache"/>`, "209", "Horseshoe Mustache", "Legendary", "NRG -2, SPK +2", "100", "face"]
                 ]
             }
-        },		
+        },
+		
+		{
+            tableName: "haunt2Table",
+            tableCaption: "Haunt 2 Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/haunt2/211_GuyFauwkesMask.svg" alt = "aavegotchi Guy Fawkes Mask"/>`, "211", "Guy Fawkes Mask", "Common", "SPK +1", "1000", "head"],
+					[`<img src="/wearables/haunt2/212_1337Laptop.svg" alt = "aavegotchi 1337 Laptop"/>`, "212", "1337 Laptop", "Mythical", "NRG -2, BRN +3", "50", "hands"],
+					[`<img src="/wearables/haunt2/213_H4xx0rShirt.svg" alt = "aavegotchi H4xx0r Shirt"/>`, "213", "H4xx0r Shirt", "Legendary", "NRG -4", "100", "body"],
+					[`<img src="/wearables/haunt2/214_MatrixEyes.svg" alt = "aavegotchi Matrix Eyes"/>`, "214", "Matrix Eyes", "Godlike", "NRG -3, AGG -3", "5", "eyes"],
+					[`<img src="/wearables/haunt2/215_CyborgEye.svg" alt = "aavegotchi Cyborg Eye"/>`, "215", "Cyborg Eye", "Legendary", "NRG +2, AGG +2", "100", "eyes"],
+					[`<img src="/wearables/haunt2/216_RainbowVomit.svg" alt = "aavegotchi Rainbow Vomit"/>`, "216", "Rainbow Vomit", "Mythical", "SPK -5", "50", "face"],
+					[`<img src="/wearables/haunt2/217_CyborgGun.svg" alt = "aavegotchi Energy Gun"/>`, "217", "Energy Gun", "Mythical", "NRG +2, AGG +3", "50", "hands"],
+					[`<img src="/wearables/haunt2/218_Mohawk.svg" alt = "aavegotchi Mohawk"/>`, "218", "Mohawk", "Uncommon", "NRG +1, AGG +1", "500", "head"],
+					[`<img src="/wearables/haunt2/219_MuttonChops.svg" alt = "aavegotchi Mutton Chops"/>`, "219", "Mutton Chops", "Rare", "SPK +2, BRN -1", "250", "face"],
+					[`<img src="/wearables/haunt2/220_PunkShirt.svg" alt = "aavegotchi Punk Shirt"/>`, "220", "Punk Shirt", "Legendary", "NRG +1, AGG +3", "100", "body"],
+					[`<img src="/wearables/haunt2/221_PirateHat.svg" alt = "aavegotchi Pirate Hat"/>`, "221", "Pirate Hat", "Common", "BRN -1", "1000", "head"],
+					[`<img src="/wearables/haunt2/222_PirateCoat.svg" alt = "aavegotchi Pirate Coat"/>`, "222", "Pirate Coat", "Uncommon", "SPK +1, BRN -1", "500", "body"],
+					[`<img src="/wearables/haunt2/223_Hook Hand.svg" alt = "aavegotchi Hook Hand"/>`, "223", "Hook Hand", "Uncommon", "SPK +1, BRN -1", "500", "hands"],
+					[`<img src="/wearables/haunt2/224_PiratePatch.svg" alt = "aavegotchi Pirate Patch"/>`, "224", "Pirate Patch", "Rare", "SPK +2, BRN -1", "250", "eyes"],
+					[`<img src="/wearables/haunt2/225_Basketball.svg" alt = "aavegotchi Basketball"/>`, "225", "Basketball", "Common", "NRG +1", "1000", "hands"],
+					[`<img src="/wearables/haunt2/226_RedHeadband.svg" alt = "aavegotchi Red Headband"/>`, "226", "Red Headband", "Rare", "NRG +2, AGG -1", "250", "head"],
+					[`<img src="/wearables/haunt2/227_MJJersey.svg" alt = "aavegotchi 23 Jersey"/>`, "227", "23 Jersey", "Rare", "NRG +1, AGG -2", "250", "body"],
+					[`<img src="/wearables/haunt2/228_10GallonHat.svg" alt = "aavegotchi 10 Gallon Hat"/>`, "228", "10 Gallon Hat", "Common", "BRN +1", "1000", "head"],
+					[`<img src="/wearables/haunt2/229_Lasso.svg" alt = "aavegotchi Lasso"/>`, "229", "Lasso", "Uncommon", "AGG +1, BRN +1", "500", "hands"],
+					[`<img src="/wearables/haunt2/230_WraanglerJeans.svg" alt = "aavegotchi Wraangler Jeans"/>`, "230", "Wraangler Jeans", "Common", "AGG +1", "1000", "body"],
+					[`<img src="/wearables/haunt2/231_ComfyPoncho.svg" alt = "aavegotchi Comfy Poncho"/>`, "231", "Comfy Poncho", "Uncommon", "NRG -2", "500", "body"],
+					[`<img src="/wearables/haunt2/232_PonchoHoodie.svg" alt = "aavegotchi Poncho Hoodie"/>`, "232", "Poncho Hoodie", "Common", "NRG -1", "1000", "head"],
+					[`<img src="/wearables/haunt2/233_UncommonCacti.svg" alt = "aavegotchi Uncommon Cacti"/>`, "233", "Uncommon Cacti", "Uncommon", "SPK -1, BRN +1", "500", "pet"],
+					[`<img src="/wearables/haunt2/234_ShaamanPoncho.svg" alt = "aavegotchi Shaaman Poncho"/>`, "234", "Shaaman Poncho", "Mythical", "NRG -5", "50", "body"],
+					[`<img src="/wearables/haunt2/235_ShaamanHoodie.svg" alt = "aavegotchi Shaaman Hoodie"/>`, "235", "Shaaman Hoodie", "Legendary", "NRG -4", "100", "head"],
+					[`<img src="/wearables/haunt2/236_BlueCacti.svg" alt = "aavegotchi Blue Cacti"/>`, "236", "Blue Cacti", "Rare", "SPK -1, BRN +2", "250", "pet"],
+					[`<img src="/wearables/haunt2/237_MythicalCacti.svg" alt = "aavegotchi Mythical Cacti"/>`, "237", "Mythical Cacti", "Mythical", "SPK -2, BRN +3", "50", "pet"],
+					[`<img src="/wearables/haunt2/238_GodlikeCacti.svg" alt = "aavegotchi Godlike Cacti"/>`, "238", "Godlike Cacti", "Godlike", "SPK -3, BRN +3", "5", "pet"],
+					[`<img src="/wearables/haunt2/239_WagieCap.svg" alt = "aavegotchi Wagie Cap"/>`, "239", "Wagie Cap", "Uncommon", "AGG -2", "500", "head"],
+					[`<img src="/wearables/haunt2/240_Headphones.svg" alt = "aavegotchi Headphones"/>`, "240", "Headphones", "Uncommon", "AGG -2", "500", "face"],
+					[`<img src="/wearables/haunt2/241_WGMIShirt.svg" alt = "aavegotchi WGMI Shirt"/>`, "241", "WGMI Shirt", "Rare", "AGG -3", "250", "body"],
+					[`<img src="/wearables/haunt2/242_YellowManbun.svg" alt = "aavegotchi Yellow Manbun"/>`, "242", "Yellow Manbun", "Legendary", "NRG -2, AGG -2", "100", "head"],
+					[`<img src="/wearables/haunt2/243_TintedShades.svg" alt = "aavegotchi Tinted Shades"/>`, "243", "Tinted Shades", "Rare", "AGG -3", "250", "eyes"],
+					[`<img src="/wearables/haunt2/244_VNeckShirt_Thumb.svg" alt = "aavegotchi V-Neck Shirt"/>`, "244", "V-Neck Shirt", "Rare", "AGG -3", "250", "body"],
+                ]
+            }
+        },
 
         {
             tableName: "wearablesBRStable",
