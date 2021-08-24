@@ -55,7 +55,10 @@ export const tables
 				    ["Portal Mage Helmet", `<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`],
 					["Portal Mage Armor", `<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`],
 					["Portal Mage Axe", `<img src="/wearables/final wearables/106_PortalMageAxe.svg" alt = "aavegotchi Portal Mage Axe"/>`],
-					["Portal Mage Black Axe", `<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`]
+					["Portal Mage Black Axe", `<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`],
+					["Yellow Manbun", `<img src="/wearables/haunt2/242_YellowManbun.svg" alt = "aavegotchi Yellow Manbun"/>`],
+					["Tinted Shades", `<img src="/wearables/haunt2/243_TintedShades.svg" alt = "aavegotchi Tinted Shades"/>`],
+					["V-Neck Shirt", `<img src="/wearables/haunt2/244_VNeckShirt_Thumb.svg" alt = "aavegotchi V-Neck Shirt"/>`]
                 ]
             }
         },
@@ -90,7 +93,9 @@ export const tables
                 headers: ["Name", "Image"],
                 data: [
 				    ["Red Hawaiian Shirt", `<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`],
-					["Blue Hawaiian Shirt", `<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`]
+					["Blue Hawaiian Shirt", `<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`],
+					["Comfy Poncho", `<img src="/wearables/haunt2/231_ComfyPoncho.svg" alt = "aavegotchi Comfy Poncho"/>`],
+					["Poncho Hoodie", `<img src="/wearables/haunt2/232_PonchoHoodie.svg" alt = "aavegotchi Poncho Hoodie"/>`]
                 ]
             }
         },
