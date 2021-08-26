@@ -32,11 +32,12 @@ Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token G
 
 <ol>
 <li><a href=#token-distribution>Phân Phối Token</a></li>
-<li><a href=#revenue-sharing-overview>Tổng Quan Về Phân Chia Doanh Thu</a></li></p>
-<p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO Governance</a></p>
-<p><a href=#burn-baby-burn>BURN BABY BURN</a></p>
-<p><a href=#development-team>Đội Ngũ Phát Triển</a></p>
+<li><a href=#revenue-sharing-overview>Tổng Quan Về Phân Chia Doanh Thu</a></li>
+<p><a href=#earn-it>EARN IT</a></p>
+<p><a href=#dao-it>DAO IT</a></p>
+<p><a href=#burn-it>BURN IT</a></p>
+<p><a href=#buidl-it>BUIDL IT</a></p>
+<li><a href=#historical-changes>Historical Changes</a></li>
 </ol>
 
 </div>
@@ -95,56 +96,55 @@ Quỹ của team được sử dụng chủ yếu để khuyến khích những 
 
 Điều gì sẽ xảy ra khi tất cả GHST được đổ vào portal và wearable?
 
-Chúng tôi đang vẽ ra một biểu đồ để có thể giải thích cho bạn một cách ngắn gọn:
+We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Tokenomics của Aavegotchi">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Tokenomics của Aavegotchi">
 </div>
 
-Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
+Read on to learn about the various categories in more detail.
 
+## EARN IT
 
-## Rarity Farming
-
-Một phần cốt lõi trong việc trải nghiệm Aavegotchi chính là dành thời gian để chơi với các bé Gotchis và trang bị phụ kiện cho chúng. Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
+A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
 
 Nói vậy có nghĩa là **40%**của lượng GHST kiếm được sẽ được phân bố lại cho người chơi thông qua các phần thưởng.
 
 Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 
 * Top 100 Aavegotchis Hiếm Nhất (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Điểm Kinship](/traits#kinship) Cao Nhất
+* Top 100 [Kinship](/kinship) Scores
 * Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
 
-Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Số phần trăm chính xác của mỗi hạng mục chưa được xác nhận và sẽ được bàn luận thêm tại AavegotchiDAO.
+Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
 Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
 
-Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snapshot trên snapshot.
+When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO Governance
+## DAO IT
 
-Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Một phần trong những trách nhiệm của DAO bao gồm có việc quản lý ngân quỹ cho bất kỳ mục đích nào miễn là nó xứng đáng. (Hình Waifu, chẳng hạn?)
+Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Hình Waifu, chẳng hạn?)
 
-Ban đầu, **10%** doanh thu sẽ được phân phát cho ngân quỹ của DAO. Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
 
 
-## BURN BABY BURN
+## BURN IT
 
 Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách nó vận hành là cực kỳ tốt. Khi đó, chuyện vui mới bắt đầu.
 
-**33%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
+**5%** of all GHST earned via portal and item sales will be burned. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
-Con số cao chót vót này bắt nguồn từ việc GHST là một token với lượng cung có động lực. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. Đó là vấn đề của những token có lượng cung giới hạn.
+GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. Đó là vấn đề của những token có lượng cung giới hạn.
 
 Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
 Việc trực tiếp gửi GHST đến địa chỉ đốt cũng sẽ khoá DAI có trong bonding curve, tạo ra một sàn tăng giá cho GHST. Đây là một điều hoàn toàn tích cực cho nhiều phía, khi mà nó cho mang đến thanh khoản tốt hơn cho người mua kẻ bán trên đường cong (hay nói cách khác là trượt giá), giảm lượng cung, và mang đến tính ổn định cho [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
-## Đội Ngũ Phát Triển
+## BUIDL IT
 
-Cuối bài nhưng chắc chắn là chưa hết đâu đấy, **17%**doanh thu sẽ được trả cho đội ngũ phát triển. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
+Last, but most definitely not least, **40%** of revenue goes to the development team. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
 
 Ý là, chúng ta đều là con người mà ha. Khi mà những lập trình viên của giao thức không nhận được những phần thưởng khích lệ xứng đang thì đó sẽ là lý do lớn nhất khiến cho giao thức thất bại, và đó là vấn đề mà Aavegotchi muốn ngăn chặn.
 
@@ -154,13 +154,18 @@ Tuy nhiên, nếu những lập trình viên không được trả BẤT KỲ to
 
 Bonding curve của Aavegotchi giải quyết vấn đề thông qua phương thức chia tách vấn đề - Tam mechainism dựa trên quyền quyết định của cộng đồng chúng tôi sẽ phân phát DAI từ quỹ dự trữ của Pixelcraft Studios (công ty đứng sau Aavegotchi) mỗi tháng và chúng tôi sẽ có ngân quỹ để tích cực phát triển dự án.
 
-Thêm vào đó, Pixelcraft cũng sẽ nhận 17% tổng doanh thu của GHST, chủ yếu được dùng để khuyến khích thanh khoản, giveaway, và những hoạt động quảng cáo khác yêu cầu GHST.
-
-
+Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
 
 **Lời cuối**
 
 Một trong những điều hay ho nhất trong thới tới tiền mã hoá và lý do tại sao bạn luôn thấy nhưng tay chơi mới thay gia vào ngành này chính là do dây - nó là một trò chơi zero sum. Có thể tất cả chúng ta sẽ kiếm được lợi nhuận cùng nhau, đặc biệt là trong một DAO. Nhưng câu hỏi là, sản phẩm của chúng ta tốt đến đâu. Hãy cố để hiểu rõ về tokenomics mà một dự án cung cấp cho chúng ta, với một điểm bắt đầu đúng.
 
-Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, các Aagent. 
+Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, các Aagent.
 
+## Historical Changes
+
+The following table details the percentage changes in each category across Revenue Sharing versions:
+
+table_revenueSharing
+
+The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
