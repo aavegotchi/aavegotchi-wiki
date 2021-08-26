@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
+* Read this guide for more information!
+<p></p>
+
 ## [Aavegotchi Game Jaam coming soooon!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
 * The 1st Aavegotchi Game Jaam will be held on 1 - 5 September 2021!
 * Win aavesome prizes denominated in GHST!
