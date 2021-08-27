@@ -7,13 +7,12 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
 <p class="headerImageText">Oiiii chiếc Vé Vàng Lấp Lánh kia!</p>
 </div>
 
-Vậy là bạn có được một ít FRENS từ staking?
+Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
 
 Ở trang này, bạn sẽ học được cách mua vé bằng FRENS và tham gia vào xổ số với những chiếc vé này!
 
@@ -22,7 +21,7 @@ Vậy là bạn có được một ít FRENS từ staking?
 **Nội dung**
 
 <ol>
-<li><a href=#purchasing-raffle-tickets>Mua vé Raffle</a></li>
+<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
 <li><a href=#entering-raffles>Tham gia Raffle</a></li>
 <li><a href=#past-raffles-statistics>Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ</a></li>
 <li><a href=#more-resources>Thêm nguồn</a></li>
@@ -30,7 +29,7 @@ Vậy là bạn có được một ít FRENS từ staking?
 
 </div>
 
-## Mua vé Raffle
+## Purchasing Tickets
 
 Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
 
@@ -38,45 +37,60 @@ Không giống như FRENS, vé Raffle có thể được chuyển từ ví này 
 
 Bạn có thể tra lượng cung của Vé bằng cách sử dụng OpenSea Polygon tại [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
 
-Có sáu loại vé raffle khách nhau, từ Common (ít hiếm nhất) đến Godlike (giá trị nhất). Chúng được dùng để tham gia vào **Wearable Raffles**.
+There are two main categories of tickets:
 
-Cũng có một loại Vé Drop riêng được dùng để tham gia vào  **NFT Raffles** để giành  [Portals](/portals) và [REALM Parcels](/metaverse).
+* Vé Raffle
+* Drop Ticket
+
+Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+
+On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
 table_RaffleTickets
 
-Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Tham gia Raffle
 
-Sự kiện raffle (dành cho trang phục và NFT) sẽ diễn ra trong một khoảng thời gian nhất định. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
-Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
+When the raffle is over, you can find out what prizes you have won and can claim them.
 
-Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
+If you choose not to participate in a given Raffle, you do not need to do anything with your tickets. You can also accumulate tickets for subsequent raffles if you like to do so.
 
-Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
+As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
 <img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-Tổng cộng 6010 giải.
+A total of 6010 prizes.
 
-Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
+Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
 
-Bạn có thể cải thiện khả năng thắng giải bằng cách:
-* Tham gia với nhiều vé
-* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
+You can improve your probability of winning by:
+* Submitting multiple tickets
+* Enter raffle ticket categories with more prizes (e.g. Common)
 
-Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
+Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Sau khi sự kiện quay số kết thúc, người chiến thắng có thể nhận giải trên Polygon Network và trang bị đồ cho Gotchi của mình.
+After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+
+The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+
+* Process of staking GHST to winning wearables in Wearable Raffles
+
+<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
+
+* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+
+<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
+Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
