@@ -35,6 +35,8 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 * stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
+* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+
 * DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
 * Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
