@@ -24,6 +24,8 @@ contributors:
 
 Вы также можете найти информацию о **наборах экипировки** на [этой](/sets) странице нашей ВИКИ.
 
+*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+
 <div class="contentsBox">
 
 **Содержание**
@@ -65,52 +67,52 @@ contributors:
 
 ## Расшифровка
 
-У каждого Готчи есть четыре класса характеристик, которые можно менять, экипируя своего персонажа тем или иным носимым устройством.
+Aavegotchis have four traits that can be modified by wearables.
 
 * AGG = Уровень агрессии.
 * NRG = Показатель энергии.
 * SPK = Насколько жуткий Готчи.
 * BRN = Показатель интеллекта.
 
-Это правило не относится к таким характеристикам Готчи, как цвет глаз и их форма. Эти характеристики не меняются при экипировке носимых предметов.
+The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-*Внимание. Если в колонке записано отрицательное число, это не значит, что Готчи от этого слабеет. Его характеристики распределены по кривой. Это значит, что крайние значения, такие как 0 и 1, 99 и 100 - являются наилучшими.*
+*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
-Дополнительную информацию можно посмотреть на странице ВИКИ, касающейся [характеристик](/traits) игрового персонажа.
+See [Traits](/traits) for more about this topic.
 
 ## Предметы экипировки и [базовый показатель редкости (BRS)](/rarity-farming#base-rarity-score)
 
-Экипировку можно снять и одеть в любой момент. Использование носимых устройств напрямую влияет на [общую редкость](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) Готчи.
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
 
 ## Право голоса экипировки
 
-В соответствии с предложением [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price) носимые устройства получили право голоса в [Аавеготчи DAO](/dao). Право голоса (измеряемое в GHST) рассчитывается по его редкости/цене в [Молле](/maall).
+With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
 
 table_wearablesVotingPower
 
 ## Тематический набор LINK
 
-Экипировка с эксклюзивной тематикой LINK была распространена в ходе лотереи, состоявшейся в ноябре 2020 года. Запуск набора носимых устройств ознаменовал собой партнерство Аавеготчи с Chainlink, заключающееся в использовании генератора случайных чисел Chainlink VRF. Это гарантия правдивости распределения характеристик между Готчи, которые на старте получают случайные черты.
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
 ## Тематический набор Aave
 
-Экипировку из набора Aave можно было выиграть 8 декабря 2020 года, когда проводился второй из трех предварительных розыгрышей лотереи. Коллекция носимых устройств приурочена к партнерству сообщества Aave и проекта Аавеготчи.
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
 ## Тематический набор Ethereum
 
-Данный набор экипировки был посвящен блокчейну Ethereum. Это был третий и последний набор носимых устройств, вышедший перед запуском игры в основной сети Ethereum.
+The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
 ## Набор экипировки Агента
 
-Набор экипировки Агента — уникальная коллекция носимых устройств, которыми поощрили всех агентов, достигших [12 уровня](/missions). Они должны были выполнить условия конкурса — успешно пройти 12 миссий до того, как игра Аавеготчи будет официально запущена в основной сети. Подробности появятся в ближайшее время!
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
@@ -124,13 +126,13 @@ table_farmerWearablesTable
 
 ## Набор экипировки Санты
 
-Один из друзей проекта Аавеготчи случайно отправил 4 тыс. токенов LINK (приблизительно 50 000 долларов) на неправильный адрес. Чтобы помочь ему, сообщество игрового проекта собрало средства, а разработчики премировали всех участников акции. Каждый игрок, пожертвовавший любые токены стандарта ERC-20 не меньше, чем на $20, и осуществивший перевод для SantaGotchi.eth, получил уникальную шляпу Санты ограниченного выпуска. См. больше информации [тут](https://twitter.com/aavegotchi/status/1339738554906243072). Фото шляпы скоро появится. Также в скором времени будут доступны и другие предметы этой коллекции.
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
 ## Набор экипировки OKex
 
-С легкой подачи Джея Хао, генерального директора биржи OKex, была разработана уникальная коллекция экипировки. Она была выпущена 7 октября 2020 года. Получить носимые устройства из этой коллекции могли те, кто имел депозит токенов GHST на платформе OKex. В общей сложности было выпущено 150 элементов. 5 владельцев крупнейших депозитов автоматически получили полный набор из 5 предметов. Остальные 125 носимых устройств из коллекции были разыграны между всеми, кто внес депозит выше 10 GHST. Больше информации смотрите [тут](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2).
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
@@ -200,7 +202,7 @@ table_consumablesTable
 
 ## Тематический набор 2 уровня Polygon
 
-В данный набор входят носимые устройства, выпущенные в рамках розыгрыша четвертой лотереи, посвященной запуску Аавеготчи на [Polygon](/polygon).
+The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
 
 table_layer2WearablesTable
 
