@@ -7,13 +7,12 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
 <p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
 </div>
 
-So you have gotten some FRENS from staking?
+Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
 
 In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
 
@@ -22,7 +21,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 **内容**
 
 <ol>
-<li><a href=#purchasing-raffle-tickets>Purchasing Raffle Tickets</a></li>
+<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
 <li><a href=#entering-raffles>Entering Raffles</a></li>
 <li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
 <li><a href=#more-resources>More Resources</a></li>
@@ -30,7 +29,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 </div>
 
-## Purchasing Raffle Tickets
+## Purchasing Tickets
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
 
@@ -38,9 +37,14 @@ Unlike FRENS, Tickets can be transferred from one wallet to another. They can al
 
 The current supply of Tickets can be determined using the OpenSea Polygon interface [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
 
-There are six different categories of raffle tickets, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+There are two main categories of tickets:
 
-There is also a separate Drop Ticket which is used to participate in  **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
+* Raffle Tickets
+* Drop Ticket
+
+Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+
+On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
 table_RaffleTickets
 
@@ -71,6 +75,16 @@ You can improve your probability of winning by:
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+
+The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+
+* Process of staking GHST to winning wearables in Wearable Raffles
+
+<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
+
+* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+
+<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
 
 ## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.

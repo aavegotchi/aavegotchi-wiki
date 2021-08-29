@@ -61,37 +61,43 @@ There are four ways to stake:
 
 ### 直接质押GHST代币
 
-首先，你必须将你的GHST代币从Ethereum Mainnet转移到Polygon，这是一个二层解决方案。
+* Step 1: Transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
 
-通过使用 [嫁接到Polygon界面](https://aavegotchi.com/bridge) 来完成的。 首先允许合约调用你的GHST 代币。 一旦该交易通过了，请输入您想要转账到Polygon的GHST金额。 一旦您的交易在Ethereum上确认，您的余额大约需要7-8分钟到账Polygon地址。 您的余额将自动更新。 请耐心等待
+* Step 2: Approve the contract to use your GHST tokens.
 
-接下来，您必须配置您的Metamask来显示您的钱包余额。 请参考这篇[Polygon指南](/polygon) ，了解如何将Metamask钱包配置到Polygon上的详细说明。
+* Step 3: Input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
 
-将你的Metamask连接到Polygon，然后前往Aavegotchi DApp上的[Polygon 质押](https://aavegotchi.com/stake-polygon) 页面。 允许合约在Polygon上调用你的GHST代币。 一旦交易通过，输入你想存入的GHST金额。 恭喜你!  你现在完成了!
+* Step 4: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
 
-*以这种方式每存入1个GHST，您就会收到1个FRENS/天。*
+* Step 5: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+
+* Step 6: Approve the contract to use your GHST tokens on Polygon.
+
+* Step 7: Input the amount of GHST you would like to deposit. 恭喜你!  你现在完成了!
+
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
 ### Staking GHST-QUICK and GHST-USDC
 
 Staking GHST-QUICK and GHST-USDC follows the same steps.
 
-第一步涉及将资金从Ethereum Mainnet转移到Polygon，这是一个2层解决方案。
+* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
 
-请参考这篇[Polygon指南](/polygon) ，了解如何将Metamask钱包配置到Polygon上的详细说明。 接下来，使用[Aavegotchi Bridge](https://aavegotchi.com/bridge) 将GHST和/或其他资产转移到Polygon。 maTokens指南将教你如何做到这一点。
+* Step 2: Use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
 
-接下来，在 [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) 和 [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) 池在 [QuickSwap](https://quickswap.exchange) 上成为流动资金提供者。 您将收到LP代币作为您提供流动资金的回报。 对于有兴趣在 GHST-QUICK 池做流动性的人来说，您可以先从 [QuickSwap](https://quickswap.exchange) 获取一些QUICK 代币。 当前流动性最高的交易对是QUICK-UNI，QUICK-WETH和QUICK-USDC。
+* Step 3: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
-将这些LP代币质押进入 [Aavegotchi 质押界面](https://aavegotchi.com/stake-polygon) 以获取stkGHST 收据。 For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+* Step 4: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
-针对stkGHST-QUICK质押对来说，你可以将其质押到Quickswap奖励池中，https://quickswap.exchange/#/quick，以获得额外的QUICK奖励。 Aavegotchi团队要求为stkGHST-USDC提供类似奖励。
+For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
 
 *For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
 *For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
-为什么通过LP代币质押赚取的FRENS数量与直接质押GHST代币有很大的区别？ 质押 GHST-ETH LP token 有可能造成 [无常损失](/glossary#impermanent-loss)。 您所承担的风险增加了，所以你得到的激励会更多。
+Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-为什么GHST-USDC池每天有7400万FRENS的收益？ 早期在QuickSwap上的GHST-USDC池中的一个储户搞错了资产之间的比例。 因此，当储户向池子里添加时，他们会收到极少量的LP代币，比如0.00006。 请看这篇[推文](https://twitter.com/coderdannn/status/1362423402871447554)，让人啼笑皆非。
+Why is the GHST-USDC pool yielding 74 million FRENS a day? 早期在QuickSwap上的GHST-USDC池中的一个储户搞错了资产之间的比例。 因此，当储户向池子里添加时，他们会收到极少量的LP代币，比如0.00006。 See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
 ### Staking GHST-ETH
 

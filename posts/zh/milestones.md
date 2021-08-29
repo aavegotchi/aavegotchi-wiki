@@ -7,6 +7,23 @@ contributors:
   - "chinyh"
 ---
 
+## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
+* Read this guide for more information!
+<p></p>
+
+## [Aavegotchi Game Jaam coming soooon!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
+* The 1st Aavegotchi Game Jaam will be held on 1 - 5 September 2021!
+* Win aavesome prizes denominated in GHST!
+* The Gaame Jaam is organized by Aavegotchi's own Pixelcraft Studios who are providing custom tailored resources and hands-on workshops throughout the week
+<p></p>
+
+## [The DeFi Case for GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
+* Coderdan has initiated a proposal to list GHST on the Aave Polygon market
+* Learn why GHST makes a good DeFi collateral in this post
+* Go delegate your proposition power to him to make this a reality!
+<p></p>
+
 ## [Haunt 2 Dates Confirmed!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
 * Haunt 2 Dates confirmed on August 26, 2pm UTC — August 29, 2pm UTC
 * Format: GBM Auction

@@ -36,11 +36,13 @@ contributors:
 
 * Адрес stkGHST-USDC: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
-* Адрес DAO: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
 
-* Адрес сжигания (для порталов и базара): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
+* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
-* Адрес для наград за фарминг: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+* Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
-* Адрес Opensea (для Готчи и экипировки): [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+
+* Opensea (for Aavegotchis and Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
