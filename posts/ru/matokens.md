@@ -27,7 +27,8 @@ contributors:
 <li><a href=#bridging-through-ascendex>Перенос через AscendEX.</a></li>
 <li><a href=#fiat-to-polygon-using-transak>Перемещение в Polygon с помощью Transak.</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Стейкинг маТокенов в Аавеготчи.</a></li>
-<li><a href=#learn-more>Дополнительная информация.</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#learn-more>Больше информации</a></li>
 </ol>
 
 </div>
@@ -78,7 +79,14 @@ contributors:
 
 Подробнее о том, как открыть [портал](/portals), читайте на соответствующей странице нашей ВИКИ.
 
-## Дополнительная информация
+## Problems while staking Spirit Force
 
-* Ветка в [Твиттере](https://twitter.com/mudgen/status/1352399348219445250) с информацией [Ника Маджа](/team#nick-mudge) об успешном развертывании аТокенов на Полигоне в качестве маТокенов.
-* [Технические детали маТокенов](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on) от Ника Маджа.
+There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+
+* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
+* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
+
+## Learn more
+
+* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
+* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
