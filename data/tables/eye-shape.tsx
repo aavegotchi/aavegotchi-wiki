@@ -63,7 +63,7 @@ export const tables
                 headers: ["Name", "Range", "Image"],
                 data: [
 				    [`Mythical Low 1`, `0`, `<img src="/eye-shape/Aavegotchi-H2-EyesShape-Mythical-Low-1.svg" alt = "Aavegotchi Haunt 2 Mythical Low 1 Eye Shape">`],
-					[`Mythical Low 2`, `1`, `<img src="/eye-shape/Aavegotchi-H2-EyesShape-Mythical-Low-2.svg" alt = "Aavegotchi Haunt 2Mythical Low 1 Eye Shape">`],
+					[`Mythical Low 2`, `1`, `<img src="/eye-shape/Aavegotchi-H2-EyesShape-Mythical-Low-2.svg" alt = "Aavegotchi Haunt 2 Mythical Low 1 Eye Shape">`],
                     [`GHST Collateral`, `98-99`, `<img src="/eye-shape/Aavegotchi-H2-Collaterals-GHST-Eyes.svg" alt = "Aavegotchi GHST Collateral Eye Shape">`],
 					[`Polygon/MATIC Collateral`, `98-99`, `<img src="/eye-shape/Aavegotchi-H2-Collaterals-Polygon-Eyes.svg" alt = "Aavegotchi Polygon/MATIC Collateral Eye Shape">`],
 					[`WBTC Collateral`, `98-99`, `<img src="/eye-shape/Aavegotchi-H2-Collaterals-wBTC-Eyes.svg" alt = "Aavegotchi WBTC Collateral Eye Shape">`],
