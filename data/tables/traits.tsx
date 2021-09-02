@@ -41,7 +41,9 @@ export const tables
 					[`<img class="atoken" src="/atokens/aUSDC.svg" alt = "aUSDC token">`, "SPK -1"],
 					[`<img class="atoken" src="/atokens/aTUSD.svg" alt = "aTUSD token">`, "SPK -1"],
 					[`<img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token">`, "SPK -1"],
-					[`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "BRN +1"]
+					[`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "BRN +1"],
+					[`<img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token">`, "AGG +1"],
+					[`amWMATIC (Pending Image from Polygon)`, "BRN +1"]
                 ]
             }
         },
