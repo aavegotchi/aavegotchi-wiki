@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-Ang **Aavegotchi** ay isang DeFi-enabled crypto collectibles game na ginawa ng Pixelcraft Studios na nakabase sa Singapore. Sa Aavegotchi, puwedeng mag-deposit ang players ng [aTokens](/atokens), na kumikita ng interes, sa [non-fungible token (NFT)](/glossary#non-fungible-token) avatars nila. Puwede ring makilahok ang players sa Aavegotchi [metaverse](/metaverse). Ang Aavegotchi ay isang unique na combination ng [Decentralized Finance (DeFi)](/glossary#defi-101) at NFTs.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/metaverse). Ang Aavegotchi ay isang unique na combination ng [Decentralized Finance (DeFi)](/glossary#defi-101) at NFTs.
 
 Ang Aavegotchis ay mga pixelated na multo na nasa Ethereum blockchain, at ginawa sila ayon sa [**ERC-721**](/glossary#erc-721) standard. Nakabase ang kanilang value sa rarity level, na nakabase sa iba't ibang factors tulad ng base [traits](/traits), halaga ng naka-deposit na collateral/aTokens, at suot na [wearables](/wearables).
 
@@ -39,7 +39,7 @@ Ang Aavegotchi ay pinamumunuan ng [AavegotchiDAO](/dao) na siyang namamahala sa 
 ## Tungkol sa Aavegotchis
 Ang Aavegotchis ay rare crypto-collectibles na nasa Ethereum blockchain, ginawa base sa ERC-721 standard na ginamit din sa iba pang sikat na blockchain games tulad ng CryptoKitties, Axie Infinity, at Cryptovoxels. May tatlong attributes ang Aavegotchis na nagde-determine sa kabuuang value at rarity nila sa Aavegotchi universe: **collateral stake, traits, at wearables.**
 
-*  **Collateral stake:** Ang bawat Aavegotchi ERC721 NFT ay may isang escrow contract address o wallet kung saan naka-deposit ang Aave-backed na ERC20 collateral nito. Kumikita ang collateral na ito—na kilala rin bilang "[aTokens](/atokens)"—sa tulong ng LendingPool ng Aave, na siyang nagpaparami sa dami ng aTokens na hawak ng Aavegotchi. Sa madaling salita, lumalaki ang nai-deposit na aTokens sa wallet ng Aavegotchi habang tumatagal.
+*  **Collateral stake:** Ang bawat Aavegotchi ERC721 NFT ay may isang escrow contract address o wallet kung saan naka-deposit ang Aave-backed na ERC20 collateral nito. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Sa madaling salita, lumalaki ang nai-deposit na aTokens sa wallet ng Aavegotchi habang tumatagal.
 
 
 *  **Traits:** May taglay na iba't-ibang katangian o traits ang Aavegotchis na nakaaapekto sa kanilang rarity, sa galing nila sa mini-games, at sa wearables na puwede nilang isuot. Ang ilan sa traits na ito ay suwertihang nakukuha o randomly generated, habang nakadepende naman sa pakikisalamuha ng player sa Aavegotchi niya ang iba pang traits. **Tingnan ang [Traits](/traits).**
