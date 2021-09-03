@@ -166,7 +166,7 @@ table_kyc
 
 ### Что общего между Aave и Аавеготчи?
 
-Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. Собственно, именно поэтому персонажи игры так похожи на логотип Aave. Центральным элементом игрового процесса является использование [аТокенов](/atokens). Также не стоит забывать, что с ноября 2020 года именно Aave является [официальным инвестором](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) разработчика игрового проекта — команды Pixelcraft Studios.
+Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?
 No. Токены aTokens, которые игроки размещают в Аавеготчи, не могут быть использованы для кредитования на платформе Aave, так как не могут стать залогом. Поэтому не могут быть ликвидированы.
