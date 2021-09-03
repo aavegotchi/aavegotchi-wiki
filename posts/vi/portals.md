@@ -65,11 +65,11 @@ Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
 
 ## Nhận Aavegotchi
 
-Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng Spirit Force được yêu cầu ([ các aToken](/atokens)) vào trong Portal. AToken có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
 
-**Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
 
@@ -108,7 +108,3 @@ Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong A
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
 **Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
-
-
-
-
