@@ -17,17 +17,13 @@ contributors:
 
 Так что собой представляет Духовная сила?
 
-Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. Это были процентные токены [Aave Protocol](https://aave.com). Они чеканились при внесении депозита и сжигались после возврата средств. аТокены в соотношении 1:1 привязывались к цене базового актива, внесенного в качестве депозита в протокол Aave. Токены данного типа свободно хранились, обменивались, передавались. Хотите узнать подробнее, — смотрите [FAQ Aave](https://docs.aave.com/faq/), чтобы получить больше информации по данной теме.
+Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
 
-Впоследствии, из-за повышения платы за газ в основной сети, было принято решение запускать игру на [Polygon](/glossary#polygon) — сети решений второго уровня (L2) блокчейна Ethereum. От этого игра только выиграла, ведь на Polygon практически нулевая комиссия и быстрые транзакции. As a result of this move, we needed aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
-
-Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
 
 This page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
-Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
-
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
+Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
 
 <div class="contentsBox">
 
