@@ -25,6 +25,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 <li><a href=#bridging-through-ascendex>Bridging through AscendEX</a></li>
 <li><a href=#fiat-to-polygon-using-transak>Fiat to Polygon using Transak</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
 <li><a href=#learn-more>Weitere Infos</a></li>
 </ol>
 
@@ -76,7 +77,14 @@ The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals c
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
+## Problems while staking Spirit Force
+
+There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+
+* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
+* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
+
 ## Learn more
 
 * [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge taucht ein in die [Technischen Details des maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
