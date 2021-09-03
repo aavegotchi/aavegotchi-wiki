@@ -64,7 +64,7 @@ Protected by a Force Field that keeps out lickquidators, the Citaadel is the hom
 
 Зачем она нужна, — да все просто, так как Готчи время от времени нужно выпустить пар.
 
-Призраки с высокой [Духовной силой](/atokens) (токенами залога, приносящими процент на Aave) могут сражаться с другими персами в Королевском Батле, получая в случае выигрыша очки Духовной силы противников.
+Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/spirit-force) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
 
 Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
 
