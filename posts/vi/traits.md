@@ -64,7 +64,7 @@ table_TraitsByRarity1 table_TraitsByRarity2
 
 ## Yếu Tố Điều Chỉnh Chỉ Số Spirit Forces
 
-Loại [spirit force](/atokens) mà Aavegotchi sỡ hữu cũng ảnh hưởng đến giá trị đặc tính của chúng:
+The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
 
 table_spiritForceModifiers
 
