@@ -44,8 +44,8 @@ export const items: Category[] = [
                 href: "curve"
             },
             {
-                name: "aTokens",
-                href: "atokens"
+                name: "Spirit Force",
+                href: "spirit-force"
             },
             {
                 name: "Staking",

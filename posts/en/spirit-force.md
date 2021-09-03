@@ -1,14 +1,14 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'aTokens'
-description: 'All about Aavegotchi aTokens'
-image: "atokens/aETH.svg"
+title: 'Spirit Force'
+description: 'All about Aavegotchi Spirit Force'
+image: "spirit-force/aETH.svg"
 contributors: ["unintelligent-nerd"]
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/atokens/aETH.png">
+<img class="headerImage" src="/spirit-force/aETH.png">
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
@@ -66,7 +66,7 @@ table_cryptocurrencies
 
 2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
-<img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage">
+<img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage">
 
 3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
@@ -74,11 +74,11 @@ If you don’t own any crypto but you want to join the fun, you’ll need to con
 
 Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
-<img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage">
+<img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage">
 
 4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
-<img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage">
+<img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage">
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
