@@ -48,17 +48,23 @@ Milestones: 25K MAU / 5K DAU
 
 ### Q3 2021
 
-* Raffle 5
+* Haunt 2 Raffle: 5 - 8 September 2021
+* Raffle #5: 24 - 28 September 2021
 * REALM Gotchiverse Whitepaper Release
 * REALM Presale #2
 * Aavegotchi Aarcade Mini-game hub
 
 ### Q4 2021
 
-* REALM Public Land Sale #1
+* REALM Public Land Sale #1, #2, and #3
 * REALM Gotchiverse Alpha Launch
 * Creator Economy Wearables Dapp Launch
-* AavegotchiDAO V2 (Metamorphosis)
+* [AavegotchiDAO](/dao) V2 (Metamorphosis)
+* [Baazaar](/baazaar) NFT offers feature
+* [Rarity Farming](/rarity-farming) Season 2
+* Gotchi renting/lending
+* The Aarcade
+* Gotchiverse Citaadel Launch
 
 ## Breakout
 
