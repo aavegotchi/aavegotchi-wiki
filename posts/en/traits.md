@@ -57,7 +57,7 @@ For more detailed information on every single Eye Shape, check out the [Eye Shap
 
 ## Spirit Force Trait Modifiers
 
-The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
+The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
 
 table_spiritForceModifiers
 

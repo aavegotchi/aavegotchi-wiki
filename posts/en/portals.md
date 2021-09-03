@@ -66,11 +66,11 @@ More information on rarity farming can be found [here](/rarity-farming).
 
 ## Claiming an Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. 
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
@@ -109,7 +109,3 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral. 
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
-
-
-
-

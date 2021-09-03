@@ -33,16 +33,16 @@ export const tables
             tableData: {
                 headers: ["Spirit Force", "Modifier"],
                 data: [
-                    [`<img class="atoken" src="/atokens/aDAI.svg" alt = "aDAI token">`, "NRG +1"],
-                    [`<img class="atoken" src="/atokens/aETH.svg" alt = "aETH token">`, "AGG +1"],
-                    [`<img class="atoken" src="/atokens/aAAVE.svg" alt = "aAAVE token">`, "SPK +1"],
-                    [`<img class="atoken" src="/atokens/aLINK.svg" alt = "aLINK token">`, "BRN +1"],
-					[`<img class="atoken" src="/atokens/aUSDT.svg" alt = "aUSDT token">`, "AGG -1"],
-					[`<img class="atoken" src="/atokens/aUSDC.svg" alt = "aUSDC token">`, "SPK -1"],
-					[`<img class="atoken" src="/atokens/aTUSD.svg" alt = "aTUSD token">`, "SPK -1"],
-					[`<img class="atoken" src="/atokens/aUNI.svg" alt = "aUNI token">`, "SPK -1"],
-					[`<img class="atoken" src="/atokens/aYFI.svg" alt = "aYFI token">`, "BRN +1"],
-					[`<img class="atoken" src="/atokens/aWBTC.svg" alt = "aWBTC token">`, "AGG +1"],
+                    [`<img class="atoken" src="/spirit-force/aDAI.svg" alt = "aDAI token">`, "NRG +1"],
+                    [`<img class="atoken" src="/spirit-force/aETH.svg" alt = "aETH token">`, "AGG +1"],
+                    [`<img class="atoken" src="/spirit-force/aAAVE.svg" alt = "aAAVE token">`, "SPK +1"],
+                    [`<img class="atoken" src="/spirit-force/aLINK.svg" alt = "aLINK token">`, "BRN +1"],
+					[`<img class="atoken" src="/spirit-force/aUSDT.svg" alt = "aUSDT token">`, "AGG -1"],
+					[`<img class="atoken" src="/spirit-force/aUSDC.svg" alt = "aUSDC token">`, "SPK -1"],
+					[`<img class="atoken" src="/spirit-force/aTUSD.svg" alt = "aTUSD token">`, "SPK -1"],
+					[`<img class="atoken" src="/spirit-force/aUNI.svg" alt = "aUNI token">`, "SPK -1"],
+					[`<img class="atoken" src="/spirit-force/aYFI.svg" alt = "aYFI token">`, "BRN +1"],
+					[`<img class="atoken" src="/spirit-force/aWBTC.svg" alt = "aWBTC token">`, "AGG +1"],
 					[`amWMATIC (Pending Image from Polygon)`, "BRN +1"]
                 ]
             }
