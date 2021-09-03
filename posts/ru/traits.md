@@ -59,7 +59,7 @@ table_TraitsByRarity1 table_TraitsByRarity2
 
 ## Модификаторы силы Духа
 
-Тип силы Духа, которой обладает ваш Готчи, оказывает непосредственное влияние на значения черт:
+The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
 
 table_spiritForceModifiers
 
