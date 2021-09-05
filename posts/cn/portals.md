@@ -38,7 +38,7 @@ image: "portals/portal.gif"
 
 在你可以拥有你像素化的幽灵精灵之前，你需要通过传送门进行召唤。 您可以从 [官方的 Aavegotchi Dapp](https://aavegotchi.com/buy-portal)获取，也可以从 [OpenSea](https://opensea.io/) 等外部市场。
 
-如果您从 Aavegotchi Dapp购买，每个门户网站将花费大约100 GHST。 这些设备也将放在“Haunts”(版本)中发布。 第一个版本将提供10000个传送门供大家召唤精灵。 在此之后，AavegotchiDAO将投票决定之后的召唤情况。 例如，由于DAO的决定和表决结果，门的价格和数量今后可能会发生变化。
+如果您从 Aavegotchi Dapp购买，每个门户网站将花费大约100 GHST。 These devices will also be released in ["Haunts" (editions)](/haunt). 第一个版本将提供10000个传送门供大家召唤精灵。 在此之后，AavegotchiDAO将投票决定之后的召唤情况。 例如，由于DAO的决定和表决结果，门的价格和数量今后可能会发生变化。
 
 
 ## 打开您的传送门
