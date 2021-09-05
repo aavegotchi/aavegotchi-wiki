@@ -38,7 +38,7 @@ Setz also deinen Zauberhut auf - es ist Zeit, mehr über Portale und den Aavegot
 
 Bevor du dein pixeliges Geisterbaby aufziehen kannst, musst du es über ein Portal herbeirufen. Diese kannst du entweder über die [offizielle Aavegotchi dApp](https://aavegotchi.com/buy-portal), oder einen externen Marktplatz wie [OpenSea](https://opensea.io/) erwerben.
 
-Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 GHST. Diese werden ausserdem in "Haunts" (Editionen) veröffentlicht. Der erste Haunt wird 10'000 Portale zur Verfügung stellen. Danach wird der [AavegotchiDAO](/dao) über Entscheidungen zu den einzelnen Haunts abstimmen. Zum Beispiel können sich Portalpreise und -mengen als Ergebnis von Entscheidungen und Abstimmungen des DAO in Zukunft ändern.
+Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 GHST. These devices will also be released in ["Haunts" (editions)](/haunt). Der erste Haunt wird 10'000 Portale zur Verfügung stellen. Danach wird der [AavegotchiDAO](/dao) über Entscheidungen zu den einzelnen Haunts abstimmen. Zum Beispiel können sich Portalpreise und -mengen als Ergebnis von Entscheidungen und Abstimmungen des DAO in Zukunft ändern.
 
 
 ## Dein Portal öffnen
