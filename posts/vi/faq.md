@@ -187,7 +187,7 @@ Sau đó, Aave đã tự chuyển chúng sang Polygon. Token trên thị trườ
 
 Hai loại token này sẽ có mức sinh lời khác nhau. Với maToken, tỷ lệ sinh lời có thể xem được trên thị trường Aave V2. Với amToken, tỷ lệ sinh lời có thể xem qua thị trường của Aave trên Polygon.
 
-Aavegotchi Haunt 1 sử dụng maToken làm Linh Lực.
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 Từ Haunt 2 trở đi, amToken là Linh Lực của Aavegotchi.
 
