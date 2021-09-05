@@ -138,7 +138,7 @@ Check the [Metaverse page](/metaverse) for more information.
 The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
 
 ### Haunts
-Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### Installations
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
