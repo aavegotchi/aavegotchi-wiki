@@ -186,7 +186,7 @@ Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (P
 
 Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
-Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
