@@ -188,7 +188,7 @@ Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (P
 
 Токены, принадлежащие к разным категориям, приносят своим владельцам разную прибыль из-за различия процентных ставок. Процентные ставки для maToken можно увидеть на рынке Aave V2.  Ставки для amTokens можно посмотреть на Polygon.
 
-Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
