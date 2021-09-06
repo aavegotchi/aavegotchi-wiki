@@ -37,7 +37,7 @@ Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token G
 <p><a href=#dao-it>DAO IT</a></p>
 <p><a href=#burn-it>BURN IT</a></p>
 <p><a href=#buidl-it>BUIDL IT</a></p>
-<li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#historical-changes>Lịch sử thay đổi</a></li>
 </ol>
 
 </div>
@@ -162,7 +162,7 @@ Một trong những điều hay ho nhất trong thới tới tiền mã hoá và
 
 Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, các Aagent.
 
-## Historical Changes
+## Lịch sử thay đổi
 
 The following table details the percentage changes in each category across Revenue Sharing versions:
 
