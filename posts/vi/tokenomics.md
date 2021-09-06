@@ -154,7 +154,7 @@ Tuy nhiên, nếu những lập trình viên không được trả BẤT KỲ to
 
 Bonding curve của Aavegotchi giải quyết vấn đề thông qua phương thức chia tách vấn đề - Tam mechainism dựa trên quyền quyết định của cộng đồng chúng tôi sẽ phân phát DAI từ quỹ dự trữ của Pixelcraft Studios (công ty đứng sau Aavegotchi) mỗi tháng và chúng tôi sẽ có ngân quỹ để tích cực phát triển dự án.
 
-Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Thêm vào đó, Pixelcraft cũng sẽ nhận 40% tổng doanh thu của GHST, chủ yếu được dùng để khuyến khích thanh khoản, giveaway, và những hoạt động quảng cáo khác yêu cầu GHST.
 
 **Lời cuối**
 
@@ -164,8 +164,8 @@ Hãy đọc tiếp, và chơi tiếp. Hẹn các bạn trên mặt trăng nhé, 
 
 ## Lịch sử thay đổi
 
-The following table details the percentage changes in each category across Revenue Sharing versions:
+Bảng sau đây cho thấy phần trăm thay đổi của mỗi hạng mục qua các phiên bản Chia Sẻ Lợi Nhuận khác nhau:
 
 table_revenueSharing
 
-The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
