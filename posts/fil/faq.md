@@ -164,7 +164,7 @@ table_kyc
 
 ### What does Aave have to do with Aavegotchi?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/atokens) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Can aTokens staked inside an Aavegotchi get liquidated?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
@@ -186,7 +186,7 @@ Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (P
 
 Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
-Aavegotchis belonging to Haunt 1 use maTokens as their Spirit Force.
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 From Haunt 2 onwards, amTokens will be used as Spirit Force.
 

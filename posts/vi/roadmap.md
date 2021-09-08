@@ -50,17 +50,23 @@ Cột mốc: 25k người dùng hoạt động mỗi tháng / 5k người dùng 
 
 ### Q3 2021
 
-* Raffle 5
-* Công Bố Whitepaper của REALM Gotchiverse
-* Mở bán REALM #2
-* Trạm minigame Aavegotchi Aarcade
+* Haunt 2 Raffle: 5 - 8 September 2021
+* Raffle #5: 24 - 28 September 2021
+* REALM Gotchiverse Whitepaper Release
+* REALM Presale #2
+* Aavegotchi Aarcade Mini-game hub
 
 ### Q4 2021
 
-* Mở bán Public Sale Dành cho REALM Giai Đoạn #1
+* REALM Public Land Sale #1, #2, and #3
 * Triển Khai REALM Gotchiverse Giai Đoạn Alpha
 * Triển Khai Dapp Tạo Nền Kinh Tế Dành Cho Trang Phục
-* AavegotchiDAO Giai Đoạn 2 (Giai Đoạn Metamorphosis)
+* [AavegotchiDAO](/dao) V2 (Metamorphosis)
+* [Baazaar](/baazaar) NFT offers feature
+* [Rarity Farming](/rarity-farming) Season 2
+* Gotchi renting/lending
+* The Aarcade
+* Gotchiverse Citaadel Launch
 
 ## Bứt Phá
 

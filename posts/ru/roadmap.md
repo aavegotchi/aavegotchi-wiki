@@ -50,17 +50,23 @@ contributors:
 
 ### III квартал 2021 г.
 
-* 5 лотерея NFT-экипировки.
-* Релиз технической документации Готчиверсии.
-* Второй пресейл участков земли.
-* Центр мини-игр (аркад) Аавеготчи.
+* Haunt 2 Raffle: 5 - 8 September 2021
+* Raffle #5: 24 - 28 September 2021
+* REALM Gotchiverse Whitepaper Release
+* REALM Presale #2
+* Aavegotchi Aarcade Mini-game hub
 
 ### IV квартал 2021 г.
 
-* Первая публичная продажа земли.
+* REALM Public Land Sale #1, #2, and #3
 * Альфа-запуск Готчиверсии.
 * Запуск Creator Economy для моделирования экипировки.
-* AavegotchiDAO V2 (Метаморфоза).
+* [AavegotchiDAO](/dao) V2 (Metamorphosis)
+* [Baazaar](/baazaar) NFT offers feature
+* [Rarity Farming](/rarity-farming) Season 2
+* Gotchi renting/lending
+* The Aarcade
+* Gotchiverse Citaadel Launch
 
 ## Прорыв
 

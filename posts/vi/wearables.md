@@ -24,7 +24,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 
 Để có thêm thông tin về **Set Đồ Wearable**, hãy xem qua [trang này nhé](/sets)!
 
-*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+*Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1.*
 
 <div class="contentsBox">
 
@@ -59,60 +59,60 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#consumables>Vật phẩm tiêu hao</a></li>
 <li><a href=#layer-2-themed-set>Trang Phục Chủ Đề Layer 2</a></li>
 <li><a href=#auction-wearables>Trang Phục Đấu Giá</a></li>
-<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
-<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Trang Phục Aavegotchi x Venly</a></li>
+<li><a href=#haunt-2-wearables>Trang Phục Haunt 2</a></li>
 </ol>
 
 </div>
 
 ## Then Chốt
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằng wearables.
 
 * AGG = Aggressiveness (Hiếu Chiến)
 * NRG = Energy (Năng Lượng)
 * SPK = Spookiness (Đáng Sợ)
 * BRN = Brain Size (Kích Thước Não)
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+Đặc điểm của "Màu Mắt" và "Hình Dạng Mắt" không thể nào điều chỉnh bằng wearables được.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!*
 
-See [Traits](/traits) for more about this topic.
+Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
 ## [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) Từ Wearables
 
-Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Trang bị/Tháo trang bị phụ kiện có thể ảnh hưởng đến [độ hiếm chung](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) của một Aavegotchi:
 
 table_wearablesBRStable
 
 ## Quyền bỏ phiếu
 
-With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+Với việc [GIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price) được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong [AavegotchiDAO](/dao). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong [Maall](/maall).
 
 table_wearablesVotingPower
 
 ## Trang Phục Chủ Đề Link
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Được phân phát thông qua một sự kiện Raffle độc nhất với phiên bản giới hạn vào Tháng Mười Một năm 2020, những wearables có có chủ đề LINK được ra mắt để chào mừng sự hợp tác của Aavegotchi và Chainlink, đặc biệt là việc bọn mình sử dụng Chainlink VRF để đảm bảo rằng các Aavegotchi có những đặc điểm thực sự ngẫu nhiên.
 
 table_linkWearablesTable
 
 ## Trang Phục Chủ Đề Aave
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+Bộ trang phục theo chủ đề Aave được phân phối trong sự kiến Raffle thứ hai, và được tổ chức vào ngày 8 Tháng Mười Hai năm 2020. Bộ sưu tập tuyệt vời này là để chào mừng sự kết hợp giữa Aavegotchi với cộng đồng cùng những người đứng đầu team Aave.
 
 table_aaveWearablesTable
 
 ## Trang Phục Chủ Đề Ethereum
 
-The Ethereum-themed set is the last of three pre-Mainnet sets.
+Bộ trang phục chủ đề Ethereum là bộ cuối cùng trong ba bộ trang phục pre-Mainnet.
 
 table_ethereumWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Aagent
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+Bộ Trang Phục Aagent là set đồ với phiên bản giới hạn được trao tặng cho tất cả những [Aagent có cấp độ 12](/missions), những người đã hoàn thành hết 12 Aagent Missions trước khi Mainnet của Aavegotchi khởi chạy. Hình ảnh và Số lượng sẽ sớm được tiết lộ!
 
 table_aagentWearablesTable
 
@@ -126,13 +126,13 @@ table_farmerWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Santa
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
 
 table_santaWearablesTable
 
 ## OKex Wearables
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
 
 table_okexWearablesTable
 
@@ -202,24 +202,24 @@ table_consumablesTable
 
 ## Trang Phục Chủ Đề Layer 2
 
-The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+Sự Kiện Raffle Lần 4, được tổ chức để kỷ niệm việc Aavegotchi được khởi chạy trên [Polygon](/polygon).
 
 table_layer2WearablesTable
 
 ## Trang Phục Đấu Giá
 
-The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức vào hôm thứ Năm, ngày 15 tháng 7 năm 2021. Đấu Giá Kiếm tiền được vận hành theo mô hình đấu giá của GBM. Hãy xem thêm những ưu điểm to lớn trong việc phân phối NFT từ mô hình này so với các mô hình cũ bằng cách truy cập vào trang wen và đọc [bài viết Medium](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29) của chúng tôi.
 
-This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+Chương trình đấu giá đầu tiên có sự xuất hiện của hai bộ trang phục mới cũng như một vật phẩm có độ hiếm common. Hãy sẵn sàng cho các gamer, steampunk và thậm chí là một cốc cà phê!
 
 table_auctionWearablesTable
 
 ## Trang Phục Aavegotchi x Venly
 
-A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
 
 table_venlyWearablesTable
 
-## Haunt 2 Wearables
+## Trang Phục Haunt 2
 
 table_haunt2Table

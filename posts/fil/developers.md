@@ -23,6 +23,7 @@ The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 <li><a href=#building-the-wiki>Building the Wiki</a></li>
 <li><a href=#building-mini-games>Building Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
 </div>
@@ -68,3 +69,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension to pet Aavegotchis
 
 * [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service
+
+## Gaame Jaam
+
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).

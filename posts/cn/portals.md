@@ -38,7 +38,7 @@ image: "portals/portal.gif"
 
 在你可以拥有你像素化的幽灵精灵之前，你需要通过传送门进行召唤。 您可以从 [官方的 Aavegotchi Dapp](https://aavegotchi.com/buy-portal)获取，也可以从 [OpenSea](https://opensea.io/) 等外部市场。
 
-如果您从 Aavegotchi Dapp购买，每个门户网站将花费大约100 GHST。 这些设备也将放在“Haunts”(版本)中发布。 第一个版本将提供10000个传送门供大家召唤精灵。 在此之后，AavegotchiDAO将投票决定之后的召唤情况。 例如，由于DAO的决定和表决结果，门的价格和数量今后可能会发生变化。
+如果您从 Aavegotchi Dapp购买，每个门户网站将花费大约100 GHST。 These devices will also be released in ["Haunts" (editions)](/haunt). 第一个版本将提供10000个传送门供大家召唤精灵。 在此之后，AavegotchiDAO将投票决定之后的召唤情况。 例如，由于DAO的决定和表决结果，门的价格和数量今后可能会发生变化。
 
 
 ## 打开您的传送门
@@ -65,11 +65,11 @@ image: "portals/portal.gif"
 
 ## 获取Aavegotchi
 
-若要从传送门上认出Aavegotchi，您需要把所需的 精神力([aTokens](/atokens)) 与Portal 联系起来。 这些令牌可以直接通过 [Aave](https://aave.com/) 或 DEXes 获取 Uniswap。
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 除了由稀缺性和市场力量决定的货币价值外，每个Aavegotchi还具有内在价值。 你所质押的atokens代表了它的内在价值。
 
-**关于 aTokens 的更多信息，请参阅 [aTokens](/atokens)。**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 一般来说，精神力(抵押物)的最低数量取决于你要召唤的aavegotchi的基础稀有度分数。 得分越高，所需的抵押物就越多。
 
@@ -108,7 +108,3 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. **烧毁你的 Aavegotchi**, 释放它回到地狱领域并归还你所有的抵押品。
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
-
-
-
-

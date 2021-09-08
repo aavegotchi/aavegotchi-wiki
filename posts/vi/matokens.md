@@ -25,7 +25,7 @@ Có nhiều cách để sở hữu maToken. Ở trang này, bạn sẽ biết th
 <li><a href=#bridging-through-ascendex>Chuyển tiền thông qua AscendEX</a></li>
 <li><a href=#fiat-to-polygon-using-transak>Chuyển từ tiền pháp định sang Polygon bằng Transak</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Stake maToken vào Aavegotchi</a></li>
-<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#problems-while-staking-spirit-force>Vấn đề liên quan đến việc stake Spirit Force</a></li>
 <li><a href=#learn-more>Tìm hiểu thêm</a></li>
 </ol>
 
@@ -77,14 +77,14 @@ Bước tiếp theo là mua một [portal](/portals) bằng [GHST](/ghst). Porta
 
 Để có được những lời giải thích chi tiết về quá trình mở portal, hãy xem qua trang [portals](/portals) của chúng tôi.
 
-## Problems while staking Spirit Force
+## Vấn đề liên quan đến việc stake Spirit Force
 
-There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+Có 2 giải pháp khi người dùng không stake được tài sản thế chấp vào trong Gotchi:
 
-* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
-* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
+* Bạn cần phải làm một lệnh approve trước khi hợp đồng thông minh được cho phép sử dụng token ERC-20 của bạn. Hầu như mọi người dùng đều set giới hạn cho phép quá thấp. Để tránh tình trạng này, hãy nâng giới hạn cho phép lên cao
+* Người dùng đang dùng tài sản thế chấp trên Aave để vay và stake sẽ làm cho Health Factor giảm đi và có thể khiến tài sản của họ bị thanh lý. Để giải quyết tình trạng này, hãy giảm/đóng vị thế cho vay hoặc nạp thêm tài sản thế chấp.
 
-## Learn more
+## Tìm hiểu thêm
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên trên Polygon và biến nó thành maToken
+* Nick Mudge giải thích sâu hơn về[đặc tính kỹ thuật của maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)

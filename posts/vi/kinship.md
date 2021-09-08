@@ -2,14 +2,14 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Kinship'
-description: 'Everything you need to know about Kinship and petting your Gotchi!'
+description: 'Tất tần tật về Kinship và chăm sóc Gotchi!'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/kinship/petgotchi.gif">
-<p class="headerImageText">Petting your gotchi!</p>
+<p class="headerImageText">Chăm sóc gotchi!</p>
 </div>
 
 Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. Giá trị kinship tối thiểu là 0. Giá trị kinship tối đa thì không tồn tại.

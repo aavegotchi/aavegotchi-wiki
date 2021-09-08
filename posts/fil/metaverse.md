@@ -64,7 +64,7 @@ A key landmark in the Grid is the Aarena.
 
 Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/atokens) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/spirit-force) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
 
 Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
 

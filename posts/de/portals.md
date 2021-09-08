@@ -38,7 +38,7 @@ Setz also deinen Zauberhut auf - es ist Zeit, mehr über Portale und den Aavegot
 
 Bevor du dein pixeliges Geisterbaby aufziehen kannst, musst du es über ein Portal herbeirufen. Diese kannst du entweder über die [offizielle Aavegotchi dApp](https://aavegotchi.com/buy-portal), oder einen externen Marktplatz wie [OpenSea](https://opensea.io/) erwerben.
 
-Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 GHST. Diese werden ausserdem in "Haunts" (Editionen) veröffentlicht. Der erste Haunt wird 10'000 Portale zur Verfügung stellen. Danach wird der [AavegotchiDAO](/dao) über Entscheidungen zu den einzelnen Haunts abstimmen. Zum Beispiel können sich Portalpreise und -mengen als Ergebnis von Entscheidungen und Abstimmungen des DAO in Zukunft ändern.
+Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 GHST. These devices will also be released in ["Haunts" (editions)](/haunt). Der erste Haunt wird 10'000 Portale zur Verfügung stellen. Danach wird der [AavegotchiDAO](/dao) über Entscheidungen zu den einzelnen Haunts abstimmen. Zum Beispiel können sich Portalpreise und -mengen als Ergebnis von Entscheidungen und Abstimmungen des DAO in Zukunft ändern.
 
 
 ## Dein Portal öffnen
@@ -65,11 +65,11 @@ Mehr Informationen zum Rarity Farming findest du [hier](/rarity-farming).
 
 ## Ein Aavegotchi beschwören
 
-Um ein Aavegotchi aus dem Portal zu beschwören, musst du die erforderliche Menge an Spirit Force ([aTokens](/atokens)) in das Portal geben. Diese aTokens können direkt über [Aave](https://aave.com/) oder DEXe wie Uniswap erworben werden.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 Zusätzlich zu ihrem monetären Wert, der durch Knappheit und den Markt bestimmt wird, hat jedes Aavegotchi auch einen inneren Wert. Die aTokens, die du dafür hinterlegst, liefern diesen inneren Wert.
 
-**Für weitere Informationen über aTokens, siehe [aTokens](/atokens).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 Im Allgemeinen hängt die minimale Menge an Spirit Force (Sicherheiten) vom Base Rarity Scores des Aavegotchi ab, das du beschwören willst. Je höher die Punktzahl, desto mehr Sicherheiten werden benötigt.
 
@@ -108,7 +108,3 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. **Verbrenn dein Aavegotchi**, lass es zurück in den Nether Realm und bekomm alle deine Sicherheiten zurück.
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
-
-
-
-

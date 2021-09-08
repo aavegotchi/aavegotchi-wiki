@@ -7,6 +7,19 @@ contributors:
   - "007"
 ---
 
+## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
+* Gotchigang, boy do we have tons of exciting events for you!
+* Haunt 2 Raffle: 5 - 8 September 2021
+* AavegotchiDAO Frens Committee: 16 September 2021
+* FRENS Wearables Raffle #5: 24 - 28 September 2021
+* Baazaar NFT offers feature: Early October
+* Rarity Farming Season 2: October
+* REALM land sale #1: October
+* Gotchi renting/lending: November
+* The Aarcade: November
+* .....and many more! Check out the Medium post for all the hot hot alpha!
+<p></p>
+
 ## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 * The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
 * Read this guide for more information!

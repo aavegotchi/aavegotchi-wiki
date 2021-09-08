@@ -138,7 +138,7 @@ Check the [Metaverse page](/metaverse) for more information.
 The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
 
 ### Haunts
-Haunts are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### Installations
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
@@ -196,7 +196,7 @@ amTokens are LP tokens from Aave's money market pools that is native to **Polygo
 APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [aTokens](/atokens) page.
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
 
 ### Automated Market Maker
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.

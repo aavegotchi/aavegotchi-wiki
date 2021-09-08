@@ -59,7 +59,7 @@ For more detailed information on every single Eye Shape, check out the [Eye Shap
 
 ## Spirit Force Trait Modifiers
 
-The type of [spirit force](/atokens) that your Aavegotchi has also influences their trait values:
+The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
 
 table_spiritForceModifiers
 
@@ -81,6 +81,6 @@ For detailed information on the XP required for each level, click [here](/xp).
 Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Haunt
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as Haunts. The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.

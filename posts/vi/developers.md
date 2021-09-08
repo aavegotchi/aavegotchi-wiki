@@ -23,6 +23,7 @@ Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 <li><a href=#building-the-wiki>Xây dựng trang Wiki</a></li>
 <li><a href=#building-mini-games>Xây dựng Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Sản Phẩm Của Các Kỹ Sư</a></li>
+<li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
 </div>
@@ -68,3 +69,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
 * [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
+
+## Gaame Jaam
+
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).

@@ -66,9 +66,9 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*Nếu giá trị đặc tính **thấp hơn**50, thì BRS = 100 - giá trị đặc tính*
+*Nếu giá trị đặc tính **thấp hơn** 50, thì BRS = 100 - giá trị đặc tính*
 
-*Nếu giá trị đặc tính **thấp hơn**50, thì BRS = giá trị đặc tính + 1*
+*Nếu giá trị đặc tính **cao hơn** 50, thì BRS = giá trị đặc tính + 1*
 
 #### Wearables BRS
 

@@ -132,7 +132,7 @@ table_agip4
 ### Einzigartiger, nicht-transferierbarer Hintergrund für Haunt 1 Gotchis
 **Aavegotchi Improvement Proposal #5**
 
-**Zusammenfassung des Vorschlags:** Viele Spieler sind besorgt, dass Haunt 2 dem Haunt 1 zu ähnlich sein wird und die neu geschaffenen Portale den "Genesis" Haunt abwerten werden. Einer der Vorschläge ist, jedem Haunt spezielle Hintergründe zu geben, um sie leicht identifizierbar zu machen. Dieser Vorschlag wurde hervorragend diskutiert und fand im zugehörigen Snapshot grosse Unterstützung. Beachte, dass unabhängig von der Entscheidung des DAOs in dieser Angelegenheit alle Aavegotchis spezielle, nicht übertragbare "Haunt" Badges erhalten werden. Dieser Vorschlag konzentriert sich speziell auf die Idee eines nicht übertragbaren Hintergrunds, der in den BG (Background) Kleidungsstück-Slot des Aavegotchi eingebaut werden kann.
+**Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. Einer der Vorschläge ist, jedem Haunt spezielle Hintergründe zu geben, um sie leicht identifizierbar zu machen. Dieser Vorschlag wurde hervorragend diskutiert und fand im zugehörigen Snapshot grosse Unterstützung. Beachte, dass unabhängig von der Entscheidung des DAOs in dieser Angelegenheit alle Aavegotchis spezielle, nicht übertragbare "Haunt" Badges erhalten werden. Dieser Vorschlag konzentriert sich speziell auf die Idee eines nicht übertragbaren Hintergrunds, der in den BG (Background) Kleidungsstück-Slot des Aavegotchi eingebaut werden kann.
 
 Details zum AGIP gibt es [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 

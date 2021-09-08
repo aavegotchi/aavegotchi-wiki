@@ -20,22 +20,22 @@ Vậy vào xem qua danh sách chi tiết Hình Dạng Mắt Của Aavegotchi (EY
 **Nội dung**
 
 <ol>
-<li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
-<li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specific Eye Shapes</a></li>
-<li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specific Eye Shapes</a></li>
+<li><a href=#non-haunt-specific-eye-shapes>Hình Dạng Mắt Không-Phải-Đặc-Trưng-Của-Haunt</a></li>
+<li><a href=#haunt-1-specific-eye-shapes>Hình Dạng Mắt Đặc-Trưng-Của-Haunt-1</a></li>
+<li><a href=#haunt-2-specific-eye-shapes>Hình Dạng Mắt Đặc-Trưng-Của-Haunt-2</a></li>
 </ol>
 
 </div>
 
-## Non-Haunt-specific Eye Shapes
+## Hình Dạng Mắt Không-Phải-Đặc-Trưng-Của-Haunt
 
 table_eyeShape
 
-## Haunt 1-specific Eye Shapes
+## Hình Dạng Mắt Đặc-Trưng-Của-Haunt-1
 
 table_haunt1EyeShape
 
 
-## Haunt 2-specific Eye Shapes
+## Hình Dạng Mắt Đặc-Trưng-Của-Haunt-2
 
 table_haunt2EyeShape

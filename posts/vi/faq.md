@@ -165,7 +165,7 @@ table_kyc
 
 ### Aave có liên quan gì đến Aavegotchi vậy?
 
-Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. Game Aavegotchi tính hợp việc sử dụng [aTokens](/atokens) như một yếu tố chính trong lối chơi, và vào Tháng Mười Một năm 2020, Aave cũng là một [nhà đầu tư chính thức](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) của Pixelcraft Studios, đội nhóm đằng sau Aavegotchi.
+Aavegotchi được triển khai nhờ vào quỹ đầu tư của hệ sinh thái Aave, được công ty này tin tưởng để trao quyền sử dụng logo bóng ma của Aave. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Atoken stake vào một Aavegotchi có thể bị thanh lý hay không?
 Không nha. Atoken được stake trong Aavegotchi không thể được dùng như một tài sản thế chấp để vay tiền từ nền tảng Aave. Thật ra, những aToken này không thể bị thanh lý.
@@ -187,7 +187,7 @@ Sau đó, Aave đã tự chuyển chúng sang Polygon. Token trên thị trườ
 
 Hai loại token này sẽ có mức sinh lời khác nhau. Với maToken, tỷ lệ sinh lời có thể xem được trên thị trường Aave V2. Với amToken, tỷ lệ sinh lời có thể xem qua thị trường của Aave trên Polygon.
 
-Aavegotchi Haunt 1 sử dụng maToken làm Linh Lực.
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 Từ Haunt 2 trở đi, amToken là Linh Lực của Aavegotchi.
 

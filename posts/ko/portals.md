@@ -38,7 +38,7 @@ image: "portals/portal.gif"
 
 여러분의 픽셀로된 아기 아베고치를 키우기 전에 포털을 통해 아베고치를 소환시켜야 합니다. 아베고치 공식 Dapp이나 OpenSea와 같은 외부 마켓플레이스에서 포털을 구매할 수 있습니다.
 
-만약 아베고치 Dapp에서 구매를 하신다면 각각의 포털은 약 100GHST입니다. 또한 포탈들은 'Haunt'로 나올 수 있습니다. 첫번째 Haunt는 10,000개의 포탈들을 묶어서 제공할 것입니다. 이후에는 [아베고치 DAO](/dao)가 Haunt의 구성에 관한 결정을 위해 투표를 지속할 것입니다. 이를테면 DAO에서의 투표에 따른 결저으로 미래에는 포탈의 가격과 수량이 바뀔 수 있습니다.
+만약 아베고치 Dapp에서 구매를 하신다면 각각의 포털은 약 100GHST입니다. These devices will also be released in ["Haunts" (editions)](/haunt). 첫번째 Haunt는 10,000개의 포탈들을 묶어서 제공할 것입니다. 이후에는 [아베고치 DAO](/dao)가 Haunt의 구성에 관한 결정을 위해 투표를 지속할 것입니다. 이를테면 DAO에서의 투표에 따른 결저으로 미래에는 포탈의 가격과 수량이 바뀔 수 있습니다.
 
 
 ## 포탈 개방
@@ -65,11 +65,11 @@ table_PortalTraitTable
 
 ## 아베고치 신청하기
 
-포탈에서 나온 아베고치를 신청하여 갖기 위해선 포탈에 Spirit Force([aToken](/atokens)) 를 요구되는 양만큼 스테이킹해야 합니다. aToken은 [Aave](https://aave.com/)나 유니스왑과 같은 탈중앙화 거래소(DEX)들에서 바로 얻을 수 있습니다.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
 희소성과 시장 원리에 따라 결정되는 통화적인 가치뿐만 아니라, 각각의 아베고치는 각각의 고유한 가치를 지니고 있습니다. 바로 스테이킹한 aToken이 고유한 가치를 제공해줍니다.
 
-**aToken에 대해 자세히 알고 싶으시다면 [aTokens](/atokens) 페이지에서 확인해보세요 :)**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 일반적으로 담보로서의 Spirit Force의 최소량은 여러분이 소환하길 원하는 아베고치의 BRS에 달려 있습니다. 점수가 높으면 높을수록, 더 많은 담보물을 스테이킹해야합니다.
 
@@ -115,7 +115,3 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. 아베고치를 소각시키는 것입니다. 아베고치를 저승으로 돌려보내고,  모든 담보물을 돌려받는 것입니다.
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
-
-
-
-
