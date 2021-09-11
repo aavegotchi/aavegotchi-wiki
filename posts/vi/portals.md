@@ -38,7 +38,7 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 
 Trước khi nuôi nấng những bé ma pixel, bạn sẽ phải triệu hồi chúng thông qua một cách cổng. Bạn có thể mua được nó thông qua [Dapp chính thức của Aavegtochi](https://aavegotchi.com/buy-portal), hoặc thị trường bên ngoài ví dụ như [OpenSea](https://opensea.io/).
 
-Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá gần 100 GHST. These devices will also be released in ["Haunts" (editions)](/haunt). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
+Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá gần 100 GHST. Các thiết bị này cũng sẽ được công bố trong ["Haunts" (editions)](/haunt). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
 
 
 ## Mở Portal
@@ -65,11 +65,11 @@ Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
 
 ## Nhận Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng [Spirit Force](/spirit-force) được yêu cầu vào trong Portal. Linh Lực có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
 
 Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
 
-**For more information on Spirit Force, see [here](/spirit-force).**
+**Để có thêm nhiều thông tin về Spirit Force, hãy xem qua [tại đây](/spirit-force).**
 
 Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
 
