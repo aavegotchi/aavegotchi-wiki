@@ -96,12 +96,12 @@ Quỹ của team được sử dụng chủ yếu để khuyến khích những 
 
 Điều gì sẽ xảy ra khi tất cả GHST được đổ vào portal và wearable?
 
-We've made a handy diagram explaining Revenue Sharing V2:
+Bọn mình đã thiết kế một bản tổng kết bỏ túi để giải thích về mô hình chia sẻ doanh thu V2:
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Tokenomics của Aavegotchi">
 </div>
 
-Read on to learn about the various categories in more detail.
+Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
 
 ## EARN IT
 
