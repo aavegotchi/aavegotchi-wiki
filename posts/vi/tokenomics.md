@@ -105,37 +105,37 @@ Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi
 
 ## EARN IT
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
+Một phần chính yếu trong trải nghiệm với Aavegotchi chính là dành thời gian với Gotchi và trang bị trang phục trong [rarity farming](/rarity-farming). Để khuyến khích người chơi tương tác liên tục và tích cự với hệ sinh thái của game, một phần doanh thu kiếm được khi mở bán portal và wearable sẽ đi thẳng đến túi của những nông dân cày độ hiếm đỉnh cao nhất.
 
 Nói vậy có nghĩa là **40%**của lượng GHST kiếm được sẽ được phân bố lại cho người chơi thông qua các phần thưởng.
 
 Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 
 * Top 100 Aavegotchis Hiếm Nhất (by [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/kinship) Scores
+* Top 100 [Điểm Kinship](/kinship) Cao Nhất
 * Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
 
-Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
+Cả ba hạng mục sẽ nhận được đến **40%** của tổng lượng GHST bọn mình kiếm được. Tỷ lệ chính xác của mỗi hạng mục sẽ được xác nhận trước khi các mùa giải bắt đầu.
 
 Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
 
-When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
+Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snapshot trên snapshot.
 
 
 ## DAO IT
 
-Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Hình Waifu, chẳng hạn?)
+Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Một phần trong những trách nhiệm của Dao bao gồm có việc quản lý ngân quỹ cho bất kỳ mục đích nào miễn là nó xứng đáng. (Hình Waifu, chẳng hạn?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
+**15%** doanh thu ban đầu sẽ được phân phối cho [DAO treasury](https://aavegotchi.com/treasury). Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
 
 
 ## BURN IT
 
 Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách nó vận hành là cực kỳ tốt. Khi đó, chuyện vui mới bắt đầu.
 
-**5%** of all GHST earned via portal and item sales will be burned. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
+**5%** của tất cả GHST kiếm được thông qua việc bán portal cùng các vật dụng sẽ được burn. Mãi mãi. Vâng, bạn đọc đúng rồi đấy.
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. Đó là vấn đề của những token có lượng cung giới hạn.
+GHST là một token có lượng cung động. Lượng cung của nó tăng lên theo nhu cầu, nghĩa là tỷ lệ đốt khá cao này sẽ không kéo theo hiện tương giảm phát nhanh chóng của token này. Đó là vấn đề của những token có lượng cung giới hạn.
 
 Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
@@ -144,7 +144,7 @@ Việc trực tiếp gửi GHST đến địa chỉ đốt cũng sẽ khoá DAI 
 
 ## BUIDL IT
 
-Last, but most definitely not least, **40%** of revenue goes to the development team. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
+Cuối bài nhưng chắc chắn là chưa hết đâu đấy, **40%**doanh thu sẽ được trả cho đội ngũ phát triển. Nói cho cùng thì dev cần phải được bồi bổ để có thể tập trung mang đến những trải nghiệm chân hoàn hảo nhất về DeFi x NFT.
 
 Ý là, chúng ta đều là con người mà ha. Khi mà những lập trình viên của giao thức không nhận được những phần thưởng khích lệ xứng đang thì đó sẽ là lý do lớn nhất khiến cho giao thức thất bại, và đó là vấn đề mà Aavegotchi muốn ngăn chặn.
 
