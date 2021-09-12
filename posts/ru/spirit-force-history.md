@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
 description: 'History about Aavegotchi Spirit Force'
 contributors:
