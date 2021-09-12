@@ -72,4 +72,4 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 ## Gaame Jaam
 
-The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
+The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín 2021. Xem qua những mini-game thật vui tại [đây](/gaame-jaam).

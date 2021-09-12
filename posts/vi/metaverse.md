@@ -64,7 +64,7 @@ Là khu vực chủ chốt ở Grid.
 
 Dù Aavegotchi rất thân thiện, nhưng chúng nhận ra rằng việc những cơn thịnh nộ của mình cần được giải tỏa, đó là lý do tại sao chúng tạo ra Aarena.
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/spirit-force) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+Trong Aarena, Aavegotchi với [Linh Lực](/spirit-force) đủ cao (aToken tự động sinh lời của Aave) sẽ chiến đấu với nhau trong một trận chiến khủng khác theo phong cách Battle Royales (chỉ một nhà vô địch), đấu nhau để giành lấy Linh Lực của đối phương.
 
 Người Thanh Khoản không dám bước chân vào Aarena, thay vì vậy, chúng thường lui tới một nơi gọi là Phantastic Grounds, một khu vực để đấu cùng đồng loại, cũng cho phép Người Thanh Khoản bước vào.
 
