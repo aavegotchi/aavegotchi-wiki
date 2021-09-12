@@ -25,6 +25,10 @@ export const items: Category[] = [
                 name: "Glossary",
                 href: "glossary"
             },
+			{
+				name: "Directory",
+				href: "directory"
+			}
         ]
     },
 
