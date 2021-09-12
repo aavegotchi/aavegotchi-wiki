@@ -23,6 +23,7 @@ The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 <li><a href=#building-the-wiki>Building the Wiki</a></li>
 <li><a href=#building-mini-games>Building Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
@@ -69,6 +70,14 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 * [Расширение Aavegotchi](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) — Расширение для браузера Chrome для домашних животных Аавеготчи.
 
 * [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service
+
+## Subgraphs
+
+* Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
+
+* Aavegotchi SVGs: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg)
+
+* Aavegotchi Raffles (Polygon): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
 
 ## Gaame Jaam
 
