@@ -1,6 +1,6 @@
 ---
 author: Zer0dot
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'Мини-игры'
 description: 'Все про мини-игры в Аавеготчи'
 contributors:
