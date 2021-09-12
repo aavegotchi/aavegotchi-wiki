@@ -1,6 +1,6 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'Характеристики'
 description: 'Все о характеристиках и чертах Готчи!'
 contributors:
