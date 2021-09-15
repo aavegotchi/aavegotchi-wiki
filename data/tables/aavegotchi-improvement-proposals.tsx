@@ -136,6 +136,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip11",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, create the FRENS Committee", "8,820,000 GHST (97.51%)"],
+					["No, keep everything as it is", "225,160 GHST (2.49%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "launchHaunt2",
             tableCaption: "",
             tableData: {
