@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'AavegotchiDAO'
 description: 'Все про Аавеготчи DAO'
 image: "icons/dao.svg"

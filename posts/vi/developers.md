@@ -23,6 +23,7 @@ Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 <li><a href=#building-the-wiki>Xây dựng trang Wiki</a></li>
 <li><a href=#building-mini-games>Xây dựng Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Sản Phẩm Của Các Kỹ Sư</a></li>
+<li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
@@ -69,6 +70,14 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
 * [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
+
+## Subgraphs
+
+* Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
+
+* Aavegotchi SVGs: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg)
+
+* Aavegotchi Raffles (Polygon): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
 
 ## Gaame Jaam
 

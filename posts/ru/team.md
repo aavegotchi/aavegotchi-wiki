@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd & Vanilladelphia.eth
-date: '2020-04-23T07:00:00.000Z'
+date: '2014-04-26T22:00:00.000Z'
 title: 'Команда Аавеготчи'
 description: 'Смотри, кто создает игру Аавеготчи'
 image: "team/aavegotchi-team-photo.png"
