@@ -499,6 +499,35 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "partnershipsTable",
+            tableCaption: "Partnerships Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/partnerships/245_GeckoHat.svg" alt = "aavegotchi Gecko Hat"/>`, "245", "Gecko Hat", "Rare", "SPK -3", "250", "head"],
+					[`<img src="/wearables/partnerships/246_APYShades.svg" alt = "aavegotchi APY Shades"/>`, "246", "APY Shades", "Uncommon", "NRG +1, BRN +1", "500", "eyes"],
+					[`<img src="/wearables/partnerships/247_UpArrow.svg" alt = "aavegotchi Up Arrow"/>`, "247", "Up Arrow", "Uncommon", "NRG +1, BRN +1", "500", "hands"],
+					[`<img src="/wearables/partnerships/248_UpOnlyShirt.svg" alt = "aavegotchi Up Only Shirt"/>`, "248", "Up Only Shirt", "Uncommon", "NRG +1, BRN +1", "500", "body"],
+					[`<img src="/wearables/partnerships/249_CoinGeckoEyes.svg" alt = "aavegotchi Gecko Eyes"/>`, "249", "Gecko Eyes", "Rare", "SPK -2, BRN -1", "250", "eyes"],
+					[`<img src="/wearables/partnerships/250_CoinGeckoTee.svg" alt = "aavegotchi CoinGecko Tee"/>`, "250", "CoinGecko Tee", "Rare", "SPK -2, BRN -1", "250", "body"],
+					[`<img src="/wearables/partnerships/251_CoinGeckoCandies.svg" alt = "aavegotchi Candy Jaar"/>`, "251", "Candy Jaar", "Rare", "SPK -1, BRN -2", "250", "hands"],
+					[`<img src="/wearables/partnerships/252_AastronautHelmet.svg" alt = "aavegotchi Aastronaut Helmet"/>`, "252", "Aastronaut Helmet", "Common", "SPK +1", "1000", "head"],
+					[`<img src="/wearables/partnerships/253_AastronautSuit.svg" alt = "aavegotchi Aastronaut Suit"/>`, "253", "Aastronaut Suit", "Common", "SPK +1", "1000", "body"],
+					[`<img src="/wearables/partnerships/254_uGOTCHIToken.svg" alt = "aavegotchi uGOTCHI Token"/>`, "254", "uGOTCHI Token", "Common", "SPK +1", "1000", "hands"],
+					[`<img src="/wearables/partnerships/255_LilBubbleHelmet.svg" alt = "aavegotchi Space Helmet"/>`, "255", "Space Helmet", "Legendary", "NRG +2, AGG -2", "100", "head"],
+					[`<img src="/wearables/partnerships/256_LilBubbleSpaceSuit.svg" alt = "aavegotchi Lil Bubble Space Suit"/>`, "256", "Lil Bubble Space Suit", "Legendary", "NRG +2, AGG -2", "100", "body"],
+					[`<img src="/wearables/partnerships/257_BitcoinGuitar.svg" alt = "aavegotchi Bitcoin Guitar"/>`, "257", "Bitcoin Guitar", "Legendary", "NRG +4", "100", "hands"],
+					[`<img src="/wearables/partnerships/258_Hanfu.svg" alt = "aavegotchi Taoist Robe"/>`, "258", "Taoist Robe", "Godlike", "NRG -3, BRN +3", "5", "body"],
+					[`<img src="/wearables/partnerships/259_BushyEyebrows.svg" alt = "aavegotchi Bushy Eyebrows"/>`, "259", "Bushy Eyebrows", "Godlike", "NRG -3, BRN +3", "5", "eyes"],
+					[`<img src="/wearables/partnerships/260_AncientBeard.svg" alt = "aavegotchi Beard of Wisdom"/>`, "260", "Beard of Wisdom", "Godlike", "NRG -2, BRN +4", "5", "face"],
+					[`<img src="/wearables/partnerships/261_AantenaBot.svg" alt = "aavegotchi Aantenna Bot"/>`, "261", "Aantenna Bot", "Mythical", "AGG -2, BRN +3", "50", "pet"],
+					[`<img src="/wearables/partnerships/262_RadarEyes.svg" alt = "aavegotchi Radar Eyes"/>`, "262", "Radar Eyes", "Mythical", "AGG -2, BRN +3", "50", "eyes"],
+					[`<img src="/wearables/partnerships/263_SignalHeadset.svg" alt = "aavegotchi Signal Headset"/>`, "263", "Signal Headset", "Mythical", "AGG -2, BRN +3", "50", "head"]
+                ]
+            }
+        },
 
         {
             tableName: "wearablesBRStable",
