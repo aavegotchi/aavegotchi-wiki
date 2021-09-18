@@ -61,6 +61,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#auction-wearables>Trang Phục Đấu Giá</a></li>
 <li><a href=#aavegotchi-x-venly-wearables>Trang Phục Aavegotchi x Venly</a></li>
 <li><a href=#haunt-2-wearables>Trang Phục Haunt 2</a></li>
+<li><a href=#partnerships-set>Partnerships Set</a></li>
 </ol>
 
 </div>
@@ -223,3 +224,9 @@ table_venlyWearablesTable
 ## Trang Phục Haunt 2
 
 table_haunt2Table
+
+## Partnerships Set
+
+The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+
+table_partnershipsTable
