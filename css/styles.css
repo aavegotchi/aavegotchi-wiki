@@ -9,7 +9,7 @@
 }
 
 .common {
-    color: var(--rarity-common);
+  color: var(--rarity-common);
 }
 .uncommon {
   color: var(--rarity-uncommon);
@@ -27,6 +27,24 @@
   color: var(--rarity-godlike);
 }
 
+img.common {
+    border: 4px solid var(--rarity-common);
+}
+img.uncommon {
+  border: 4px solid var(--rarity-uncommon);
+}
+img.rare {
+  border: 4px solid var(--rarity-rare);
+}
+img.legendary {
+  border: 4px solid var(--rarity-legendary);
+}
+img.mythical {
+  border: 4px solid var(--rarity-mythical);
+}
+img.godlike {
+  border: 4px solid var(--rarity-godlike);
+}
 
 body {
    background-color: white;
