@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi Side Views are now live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
+* Aavegotchi Side Views are now live!
+* They are viewable on the Aavegotchi UI and smart contract
+<p></p>
+
 ## [Aavegotchi Raffle 5 Wearables revealed!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
 * The wearables for Raffle 5 are revealed!
 * The theme is Aavegotchi's frenliest partnerships! :D :D :D
