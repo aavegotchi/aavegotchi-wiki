@@ -34,7 +34,7 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 * Được xây dựng trên framework (tương tự như Phaser) để mang để có thể tích hợp MetaMask một cách hoàn hảo.
 * Một đội tối đa 4 người
 * Không cần phải sở hữu Aavegotchi để xây dựng trò chơi
-* Moralis prize pool requires the use of a Moralis tool
+* Phần thưởng Moralis sẽ yêu cầu người dùng phải sử dụng công cụ Moralis
 
 ## Các nhà tài trợ
 
