@@ -12,36 +12,36 @@ contributors:
 <p class="headerImageText">Gaame Jaam</p>
 </div>
 
-The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
+The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín 2021. Những nhà lập trình game được truyền cảm hứng đã tham gia vào hackathon để tạo ra [mini-game](/minigames). của riêng mình. Hãy xe qua thông tin về Gaame Jaam ngay tại đây!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#rules>Rules</a></li>
-<li><a href=#sponsors>Sponsors</a></li>
-<li><a href=#prizes>Prizes</a></li>
-<li><a href=#judges>Judges</a></li>
-<li><a href=#participants>Participants</a></li>
+<li><a href=#rules>Thể lệ</a></li>
+<li><a href=#sponsors>Các nhà tài trợ</a></li>
+<li><a href=#prizes>Phần thưởng</a></li>
+<li><a href=#judges>Ban giám khảo</a></li>
+<li><a href=#participants>Thí sinh</a></li>
 </ol>
 
 </div>
 
-## Rules
+## Thể lệ
 
-* Game must use Web3 to be able to fetch and play as their Aavegotchis.
-* Be built in a web based framework (like Phaser) to allow for seamless Metamask integration
-* Max team size of 4
-* Owning an Aavegotchi isn’t necessary for building the games
+* Trò chơi cần phải sử dụng Web3 để có thể tải và chơi game bằng Aavegotchi.
+* Được xây dựng trên framework (tương tự như Phaser) để mang để có thể tích hợp MetaMask một cách hoàn hảo.
+* Một đội tối đa 4 người
+* Không cần phải sở hữu Aavegotchi để xây dựng trò chơi
 * Moralis prize pool requires the use of a Moralis tool
 
-## Sponsors
+## Các nhà tài trợ
 
 * [Moralis](https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
-## Prizes
+## Phần thưởng
 
 * 10k USD worth of prizes, all paid in [GHST](/ghst)
 * $5000 is set aside for the top three general winners and $5000 more rewards are allocated to builders who build making use of Moralis tools
@@ -49,7 +49,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 <img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Rewards" />
 
-## Judges
+## Ban giám khảo
 
 * The one and only Ivan on Tech
 * The “No NFT, no play” gaming revolutionary Cagyjan
@@ -57,7 +57,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 * Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
 * Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
 
-## Participants
+## Thí sinh
 
 ### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
