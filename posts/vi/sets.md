@@ -13,13 +13,13 @@ Chào mấy fen! Bạn có biết rằng nếu *những món wearable nhất đ�
 
 Hãy gom thật nhiều GHST đi nhé! Bạn sẽ cần dùng đến đấy!
 
-The colour of the border surrounding the wearables indicates its rarity:
-* <p style="color:#806AFB">Common: Cornflower Blue</p>
-* <p style="color:#98DBE5">Uncommon: Water Leaf</p>
-* <p style="color:#59BCFF">Rare: Malibu</p>
-* <p style="color:#FFC36B">Legendary: Koromiko</p>
-* <p style="color:#FF96FF">Mythical: Lavender Rose</p>
-* <p style="color:#51FFA8">Godlike: Aquamarine</p>
+Màu viền xung quan trang phục cho biết độ hiếm của chúng:
+* <p style="color:#806AFB">Thường: Xanh Hoa Ngô</p>
+* <p style="color:#98DBE5">Phi thường: Màu Lá Nước</p>
+* <p style="color:#59BCFF">Hiếm: Xanh Malibu</p>
+* <p style="color:#FFC36B">Huyền Thoại: Koromiko</p>
+* <p style="color:#FF96FF">Thần Thoại: Lavender Rose</p>
+* <p style="color:#51FFA8">Thần Thánh: Aquamarine</p>
 
 <div class="contentsBox">
 
