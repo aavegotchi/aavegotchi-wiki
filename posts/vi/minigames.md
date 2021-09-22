@@ -82,21 +82,21 @@ Chơi tại [đây](https://whacarofl.com/)
 
 <img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
 
-### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GotchiMiner của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Link to game [here](https://gotchiminer.rocks/)
+Chơi tại [đây](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
-### Aadventure by MetaGuild @metaguildcom & @HotspurSC2
+### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
 
-Link to game [here](https://hotspurhn.github.io/)
+Chơi tại [đây](https://hotspurhn.github.io/)
 
 <img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
 
-### 1 Arm Baandit by @mdurkin92
+### 1 Arm Baandit của @mdurkin92
 
-Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Chơi tại [đây](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
