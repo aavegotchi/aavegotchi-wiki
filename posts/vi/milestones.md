@@ -7,9 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi Raffle 5 Wearables revealed!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
+* The wearables for Raffle 5 are revealed!
+* The theme is Aavegotchi's frenliest partnerships! :D :D :D
+<p></p>
+
 ## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
 * Gotchigang, boy do we have tons of exciting events for you!
-* Haunt 2 Raffle: 5 - 8 September 2021
+* Haunt 2 Raffle: 5 - 8 tháng Chín 2021
 * AavegotchiDAO Frens Committee: 16 September 2021
 * FRENS Wearables Raffle #5: 24 - 28 September 2021
 * Baazaar NFT offers feature: Early October

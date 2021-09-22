@@ -302,6 +302,12 @@ Option 2: No, keep everything as it is
 
 **Voting Period:** 17 - 25 August 2021
 
+**Kết quả:**
+
+table_agip11
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmdLouPY9ipn2ezC2RR5Fjcz8auhX1uLajk9QS8nrctfsY)
+
 <hr />
 
 ### Triển Khai Haunt 2
