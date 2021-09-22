@@ -524,7 +524,7 @@ export const tables
 					[`<img src="/wearables/partnerships/260_AncientBeard.svg" alt = "aavegotchi Beard of Wisdom"/>`, "260", "Beard of Wisdom", "Godlike", "NRG -2, BRN +4", "5", "face"],
 					[`<img src="/wearables/partnerships/261_AantenaBot.svg" alt = "aavegotchi Aantenna Bot"/>`, "261", "Aantenna Bot", "Mythical", "AGG -2, BRN +3", "50", "pet"],
 					[`<img src="/wearables/partnerships/262_RadarEyes.svg" alt = "aavegotchi Radar Eyes"/>`, "262", "Radar Eyes", "Mythical", "AGG -2, BRN +3", "50", "eyes"],
-					[`<img src="/wearables/partnerships/263_SignalHeadset.svg" alt = "aavegotchi Signal Headset"/>`, "263", "Signal Headset", "Mythical", "AGG -2, BRN +3", "50", "head"]
+					[`<img src="/wearables/partnerships/263_SignalHeadset.svg" alt = "aavegotchi Signal Headset"/>`, "263", "Signal Headset", "Mythical", "AGG -2, BRN +3", "50", "face"]
                 ]
             }
         },
