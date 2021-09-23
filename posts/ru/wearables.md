@@ -20,9 +20,11 @@ contributors:
 
 На данной странице нашей ВИКИ вы можете увидеть информацию обо всех элементах экипировки, имеющихся в игровом проекте.
 
-Дизайн экипировки разработан [Xibot](/team#xibot) и [представителями сообщества](/aartist).
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
 
-Вы также можете найти информацию о **наборах экипировки** на [этой](/sets) странице нашей ВИКИ.
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
+
+For information on **Wearable Sets**, check out this [page](/sets)!
 
 *Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
 
