@@ -27,6 +27,7 @@ This page will tell you what you can do with your new Gotchi frens! :D
 <p><a href=#stats-xp>Stats/XP</a></p>
 <p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<p><a href=#more-actions>More Actions</a></p>
 </ol>
 
 </div>
@@ -47,7 +48,15 @@ At the centre is your Gotchi (either naked or decked out in the splendour of his
 
 At the left corner of the screen is the Stats/XP of your Gotchi. 
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score). If you have equipped your Gotchi with wearables, there will be two BRS values: (1) one in parentheses, and (2) the other not in parentheses. The former refers to your Gotchi's BRS without any wearables equipped while the latter takes into account both your Gotchi's BRS as well as the BRS contributed by any equipped wearable. If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score). 
+
+If you have equipped your Gotchi with wearables, there will be two BRS values: 
+
+* one in parentheses (BRS **without** any wearables equipped)
+
+* the other not in parentheses (BRS **with** wearables equipped)
+
+If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
 
 Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
 
@@ -83,7 +92,7 @@ Your Gotchi Pocket contains:
 
 * The wearables currently equipped by your Gotchi
 * GHST tokens won from [rarity farming](/rarity-farming)
-* Baadges
+* [Baadges](/baadge)
 
 Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
 
@@ -93,3 +102,21 @@ To send the wearables back to **your** inventory, you would first have to unequi
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
+### More Actions
+
+There is a "More" Button at the bottom-right corner of the screen.
+
+It opens up another menu with the following 3 options:
+
+* Gift
+* Sacrifice
+* List in Bazaar
+* Save
+
+**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+
+**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+
+**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+
+**Save** allows you to download a png or gif image of your Aavegotchi.
