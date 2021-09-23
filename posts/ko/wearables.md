@@ -20,7 +20,9 @@ Wearables conform to the ERC-1155 standard.
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
 For information on **Wearable Sets**, check out this [page](/sets)!
 
