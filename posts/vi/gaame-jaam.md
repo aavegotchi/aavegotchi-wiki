@@ -53,41 +53,41 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 
 * Ivan on Tech độc nhất vô nhị
 * Nhà cách mạng Cagyjan "Không NFT thì không chơi"
-* Polygon Network’s head of NFTs and Gaming Shreyansh Singh
-* Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
-* Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
+* Trưởng bộ phận NFT và gaming của Polygon Network là anh Shreyansh Singh
+* Trưởng triệu hồi sư của Aavegotchi là anh [Coder Dan](/team#coder-dan)
+* Dev Evangelist của Pixelcraft Studio là [Coyote](/team#coyote)
 
 ## Thí sinh
 
-### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GOTCHIMINER của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, và @gotchinomics
 
-The goal of this game is to dig underground for Crypto Crystals. GOTCHIMINER placed first in both the General and Moralis competitions! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Mục tiêu của trò chơi này là đào đường hầm để kiếm Crypto Crystal. GOTCHIMINER đứng đầu trong cả hạng mục General và Moralis! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AADVENTURE by MetaGuild @metaguildcom & @HotspurSC2
+### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
 
-Choose three Gotchis to form a team. The first task is to find @coderdannn who hasn’t been seen in two days! Flushed face AADVENTURE placed second in the general competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Hãy chọn 3 Gotchi để tạo thành một đội. Nhiệm vụ đầu tiên là truy tìm @coderdannn, người đã mất tích hai ngày nay! AADVENTURE đã đạt giải nhìn trong hạng mục general! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### PORTAL DEFENDERS by @oh_no_bruno
+### PORTAL DEFENDERS của @oh_no_bruno
 
-This multi-player game involves exactly what the title implies, defending portals from the Lickquidators! PORTAL DEFENDERS placed third in the general competition and second in the Moralis competition!
+Trò chơi multi-player này đúng như tên gọi của nó, người chơi cân phải bảo vệ portal khỏi Lickquidator! PORTAL DEFENDERS đạt giải ba trong hạng mục general và giải nhì trong hạng mục Moralis!
 
 [Github link](https://github.com/bmateus/PortalDefenders)
 
-### SOUTH BEACH ROFL BALL by @adamn_eth
+### SOUTH BEACH ROFL BALL của @adamn_eth
 
-Keep your Gotchi & Rofl Ball away from crabs! The closer they get, the more irritated your Gotchi becomes.
+Hãy bảo vệ Gotchi của bạn & quả bóng Rofl khỏi lũ cua! Chúng đến càng gần thì Gotchi của bạn càng lo sợ.
 
-[Link to Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
-### 1 ARM BAANDIT by @mdurkin92
+### 1 Arm Baandit của @mdurkin92
 
-This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Trò chơi quay số cực khủng này (với sức mạnh của #Chainlink VRF!) có sự góp mặt của nhiều loại trang phụ Aavegotchi và bạn phải tìm được những hình ảnh giống nhau để nhận được phần thưởng. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEGOTCHI DUNGEON by scranley#3257
+### AAVEGOTCHI DUNGEON của scranley#3257
 
-The player’s task for this game is to destroy towers and collect treasure! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Nhiệm vụ của người dùng trong trò chơi này là phá trụ và thu thập phần thưởng! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEZON by @space_asylum
+### Aavezon của @space_asylum
 
 A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
 
