@@ -47,7 +47,7 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 * $5000 được dành cho top 3 người thắng cuộc trong giải chung và $5000 được trao tặng cho những ai sử dụng công cụ Moralis
 * Bất kỳ ứng viên nào sở hữu Aavegotchi cũng sẽ nhận được 25 XP
 
-<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Rewards" />
+<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Giả thưởng Aavegotchi Gaame Jaam" />
 
 ## Ban giám khảo
 
@@ -89,18 +89,18 @@ Nhiệm vụ của người dùng trong trò chơi này là phá trụ và thu t
 
 ### Aavezon của @space_asylum
 
-A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
+Một cú twist về việc Gotchi làm việc ở Amazon! Mục tiêu của trò chơi là dùng Gotchi đẩy số lượng hộp được yêu cầu vào portal trước khi hết thời gian.
 
-AAVEZON placed third Third place medal in the Moralis competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON đã thắng giải ba trong hạng mục Moralis! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SAMUGOTCHI SHOWDOWN by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### Samugotchi Shodown của Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Trò chơi mà trong đó bạn phải đấu với Lickquidator. Gotchi của bạn sẽ sử dụng Guard, Throw, và Slash để tấn công. Hãy để ý tới thời gian nhé! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SUSHIBAGOTCHI by @sushibatoken
+### SUSHIBAGOTCHI của @sushibatoken
 
-An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Một trò chơi khá hay mà trong đó, Aavegotchi @MoralisWeb3, và  Sushiba còn tồn tại trên thế giới. Mục tiêu là để tập hợp Gotchi cùng Moralis và Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### CONGOTCHI by SlickBB#5737
+### CONGOTCHI của SlickBB#5737
 
-Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi đề ra nhiệm vụ để người chơi tìm kiếm những Gotchi thất lại và trả chúng lại trong vùng an toàn của Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
