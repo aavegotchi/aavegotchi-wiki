@@ -20,11 +20,12 @@ image: "icons/introduction.svg"
 Общую информацию о проекте и обзор игры вы найдете во  [Введении](https://wiki.aavegotchi.com/introduction).
 
 ## На что обратить внимание:
-* [Геймплей](/gameplay) — познакомьтесь с проектом и узнайте, какие игровые возможности вам предлагаются.
-* [GHST](/ghst) — читайте о токене — основе экономики проекта.
-* [Стейкинг](/staking) — зарабатывайте награду (FRENS) за стейкинг GHST.
-* [DAO](/dao) — полная информация о AavegotchiDAO.
-* Программа фарминга ([Rarity Farming](/rarity-farming)) — собирайте награды, играя в Аавеготчи!
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## Другие полезные страницы
 
