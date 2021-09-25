@@ -43,7 +43,7 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 
 ## Phần thưởng
 
-* 10k USD worth of prizes, all paid in [GHST](/ghst)
+* Phần thưởng trị giá 10k USD, tất cả đều được chi trả bằng [GHST](/ghst)
 * $5000 is set aside for the top three general winners and $5000 more rewards are allocated to builders who build making use of Moralis tools
 * Any participant who owns any Aavegotchi will also see 25 XP rewarded
 
