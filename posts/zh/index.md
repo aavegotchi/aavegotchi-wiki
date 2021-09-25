@@ -20,10 +20,11 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 這裡介紹用於 [Introduction](https://wiki.aavegotchi.com/introduction)遊戲的詳细概述。
 
 ## 熱門連結
-* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
 * [Staking](/staking) -- Learn how to stake GHST to make FRENS
 * [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## 其它有用連結
