@@ -51,8 +51,8 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 
 ## Ban giám khảo
 
-* The one and only Ivan on Tech
-* The “No NFT, no play” gaming revolutionary Cagyjan
+* Ivan on Tech độc nhất vô nhị
+* Nhà cách mạng Cagyjan "Không NFT thì không chơi"
 * Polygon Network’s head of NFTs and Gaming Shreyansh Singh
 * Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
 * Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
