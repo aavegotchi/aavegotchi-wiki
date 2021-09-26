@@ -71,6 +71,8 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service
 
+* [GotchiWorld](https://linktr.ee/gotchiworld) - Community made free petting service
+
 ## Subgraphs
 
 * Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
