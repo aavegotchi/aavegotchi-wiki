@@ -165,7 +165,7 @@ export const tables
 					[`<img src="/wearables/final wearables/73_JaayGlasses.svg" alt = "aavegotchi Jaay Glasses"/>`, "73", "Jaay Glasses", "Mythical", "NRG -2, AGG -2, BRN -1", "10", "eyes"],
 					[`<img src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt = "aavegotchi Jaay Suit"/>`, "74", "Jaay Suit", "Mythical", "NRG -2, BRN -3", "20", "body"],
 					[`<img src="/wearables/final wearables/75_OKexSign.svg" alt = "aavegotchi OKex Sign"/>`, "75", "OKex Sign", "Mythical", "NRG -5", "40", "hands"],
-					[`<img src="/wearables/final wearables/76_BigGHSTToken.svg" alt = "aavegotchi Big GHST Token"/>`, "76", "Big GHST Token", "Common", "BRN +1", "1000", "hands"],
+					[`<img src="/wearables/final wearables/76_BigGHSTToken.svg" alt = "aavegotchi Big GHST Token"/>`, "76", "Big GHST Token", "Common", "BRN +1", "1000", "right hand"],
 				]
 			}
 		},
