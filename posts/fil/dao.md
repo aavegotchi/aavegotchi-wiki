@@ -30,6 +30,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
 <li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
+<li><a href=#type-of-proposals>Type of Proposals</a></li>
 <li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
 <li><a href=#voting>Voting</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
@@ -115,11 +116,11 @@ Its features include:
 ## Participating in Governance
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
 
-First, you can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/). We welcome everyone!
+* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
 
-Second, the [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* Taking part in AavegotchiDAO votes (when they are available!)
 
-More details will be fleshed out once the game releases!
+* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 ## AavegotchiDAO Forum
 
@@ -128,6 +129,26 @@ The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum wi
 We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
 
 The Forum can be found [here](https://dao.aavegotchi.com/).
+
+## Type of Proposals
+
+There are 2 types of proposals in the *Cocoon* stage:
+
+* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+
+* **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
+
+<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
+
+**Core Proposals** are further subdivided into 3 types:
+
+*Reminder: Quorum percentages are calculated from the amount of circulating GHST eligible to vote on Polygon, not the total supply!*
+
+* **Smol votes:** Quorum of 5%. These votes are intended for small decisions that do not affect the overall meta or value of existing Aavegotchis in any significant way (e.g. introduction of a cosmetic feature, proposal for a marketing strategy).
+
+* **Medium votes:** Quorum of 10%. These votes are intended for decisions that may have some notable effect on the meta (e.g. introducing a new game item, allocating XP to some item or event, changing something about an Aavegotchi that does not affect its rarity score).
+
+* **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
 
 ## Creating Signal Proposals
 
@@ -147,7 +168,6 @@ More details can be found in this [Medium post](https://aavegotchi.medium.com/sc
 ## Voting
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
-
 
 ### Snapshot Voting
 
