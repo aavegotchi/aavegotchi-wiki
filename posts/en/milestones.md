@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Launch of Aavegotchi Ecosystem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
+* Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
+* There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
+<p></p>
+
 ## [Aavegotchi Side Views are now live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
 * Aavegotchi Side Views are now live!
 * They are viewable on the Aavegotchi UI and smart contract
