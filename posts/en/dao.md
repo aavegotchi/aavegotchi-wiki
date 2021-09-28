@@ -30,6 +30,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
 <li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
 <li><a href=#type-of-proposals>Type of Proposals</a></li>
+<li><a href=#vote-differentials>Vote Differentials</a></li>
 <li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
 <li><a href=#voting>Voting</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
@@ -148,6 +149,30 @@ There are 2 types of proposals in the *Cocoon* stage:
 * **Medium votes:** Quorum of 10%. These votes are intended for decisions that may have some notable effect on the meta (e.g. introducing a new game item, allocating XP to some item or event, changing something about an Aavegotchi that does not affect its rarity score).
 
 * **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
+
+## Vote Differentials
+
+Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
+
+Here is an example Core Proposal with 3 options:
+
+* Option A receives 25%
+* Option B receives 35%
+* Option C receives 40%. 
+
+The required Vote Differential is 5% (the difference between Option C [40%] and Option B [35%]).
+
+This would not be enough to achieve consensus, thus the Proposal is not implemented.
+
+Typically, the more options a vote has, the higher Vote Differential it requires to demonstrate that true consensus has been reached.
+
+For COCOON, we will begin with the following Vote Differential parameters, and course correct if necessary:
+
+2 Options — 10% VD
+
+3 Options — 15% VD
+
+4 Options — 20% VD
 
 ## Creating Signal Proposals
 
