@@ -74,5 +74,21 @@ export const tables
 					["Godlike", "7348", "0.001769189"]
                 ]
             }
+        },
+		
+				{
+            tableName: "raffle5",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Tickets submitted", "Probability"],
+                data: [
+                    ["Common", "416438", "0.007203954"],
+                    ["Uncommon", "116174", "0.01291167"],
+                    ["Rare", "138678", "0.005408212"],
+					["Legendary", "56839", "0.005278066"],
+					["Mythical", "50221", "0.002986798"],
+					["Godlike", "10636", "0.001410305"]
+                ]
+            }
         }
     ]
