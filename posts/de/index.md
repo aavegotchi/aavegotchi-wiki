@@ -20,11 +20,12 @@ Dieses bescheidene Wiki ist der zentrale Wissenspunkt für alles, was mit Aavego
 Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Übersicht über das Aavegotchi-Spiel.
 
 ## Beliebte Seiten
-* [Gameplay](/gameplay) -- Einführung in das eigentliche Aavegotchi-Spiel
-* [GHST](/ghst) -- Mehr über den Öko-Governance Token von Aavegotchi erfahren
-* [Staking](/staking) -- Informationen zum Staking von GHST, das FRENS generiert
-* [DAO](/dao) -- Alles, was es über den AavegotchiDAO zu wissen gibt
-* [Rarity Farming](/rarity-farming) -- Spiel Aavegotchi und verdiene Belohnungen!
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## Andere nützliche Seiten
 

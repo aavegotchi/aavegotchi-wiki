@@ -1,41 +1,41 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+title: 'Đường Dẫn Aavegotchi Wiki'
+description: 'Đường Dẫn Aavegotchi Wiki'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Here is the list of pages in the Aavegotchi Wiki:
+Đây là danh sách những trang có trong Aavegotchi Wiki:
 
-* [Aarchitect](/aarchitect)
+* [Kỹ Sư](/aarchitect)
 
-* [Aartists](/aartist)
+* [Nghệ Sĩ](/aartist)
 
-* [Aauction](/aauction)
+* [Đấu Giá](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+* [Đề Xuất Cải Tiến Aavegotchi](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+* [Trang Profile Aavegotchi](/aavegotchi-profile)
 
 * [Huy Hiệu](/baadge)
 
-* [Baard](/baard)
+* [Baards](/baard)
 
 * [Baazaar](/baazaar)
 
 * [Cuộc thi](/contests)
 
-* [Contracts](/contracts)
+* [Hợp đồng](/contracts)
 
 * [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers](/developers)
+* [Nhà phát triển](/developers)
 
-* [Eye Shape](/eye-shape)
+* [Hình Dạng Mắt](/eye-shape)
 
 * [FAQ](/faq)
 
@@ -49,7 +49,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Haunt](/haunt)
 
-* [Home](/index)
+* [Trang chủ](/index)
 
 * [Giới thiệu](/introduction)
 
@@ -67,7 +67,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Lịch sử phát triển](/milestones)
 
-* [Mini-Games](/minigames)
+* [Mini-games](/minigames)
 
 * [Nhiệm vụ](/missions)
 
@@ -77,19 +77,19 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Portals](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
 * [Roadmap](/roadmap)
 
-* [Sets](/sets)
+* [Bộ Trang Phục](/sets)
 
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Linh Lực](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Lịch Sử Linh Lực](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -101,10 +101,10 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Traits](/traits)
 
-* [Tutorials](/tutorials)
+* [Hướng dẫn](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
 * [Wearables](/wearables)
 
-* [XP](/xp)
+* [Kinh nghiệm](/xp)

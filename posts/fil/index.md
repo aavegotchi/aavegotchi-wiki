@@ -20,11 +20,12 @@ Ang hamak na Wiking ito ay ang pangunahing reference para sa lahat ng tungkol sa
 Pumunta sa [Introduction](https://wiki.aavegotchi.com/introduction) para sa isang high-level na overview ng Aavegotchi.
 
 ## Popular Pages
-* [Gameplay](/gameplay) -- Paano ang laro sa Aavegotchi
-* [GHST](/ghst) -- Alamin kung ano ang eco-governance token ng Aavegotchi
-* [Staking](/staking) -- Alamin kung paano mag-stake ng GHST para magka-FRENS
-* [DAO](/dao) -- Lahat ng dapat mong malaman tungkol sa AavegotchiDAO
-* [Rarity Farming](/rarity-farming) -- Maglaro ng Aavegotchi and kumita!
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 
 ## Iba Pang Pages
 

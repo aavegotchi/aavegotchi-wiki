@@ -22,6 +22,7 @@ contributors:
 <li><a href=#raffle-2>Вторая лотерея.</a></li>
 <li><a href=#raffle-3>Третья лотерея.</a></li>
 <li><a href=#raffle-4>Четвертая лотерея.</a></li>
+<li><a href=#raffle-5>Raffle 5</a></li>
 </ol>
 
 </div>
@@ -37,3 +38,6 @@ table_raffle3
 
 ## Четвертая лотерея
 table_raffle4
+
+## Raffle 5
+table_raffle5

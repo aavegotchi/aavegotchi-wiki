@@ -82,44 +82,44 @@ Chơi tại [đây](https://whacarofl.com/)
 
 <img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
 
-### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GotchiMiner của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Link to game [here](https://gotchiminer.rocks/)
+Chơi tại [đây](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
-### Aadventure by MetaGuild @metaguildcom & @HotspurSC2
+### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
 
-Link to game [here](https://hotspurhn.github.io/)
+Chơi tại [đây](https://hotspurhn.github.io/)
 
 <img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
 
-### 1 Arm Baandit by @mdurkin92
+### 1 Arm Baandit của @mdurkin92
 
-Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Chơi tại [đây](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
-### Aavezon by @space_asylum
+### Aavezon của @space_asylum
 
-Link to game [here](https://mikekrow.com/games/aavezon/index.html)
+Chơi tại [đây](https://mikekrow.com/games/aavezon/index.html)
 
 <img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
 
-### Portal Ddefenders by @oh_no_bruno
+### Portal Ddefenders của @oh_no_bruno
 
-Link to game [here](https://square-wildflower-4590.on.fleek.co/)
+Chơi tại [đây](https://square-wildflower-4590.on.fleek.co/)
 
 <img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
 
-### Sushibagotchi by @sushibatoken
+### Sushibagotchi của @sushibatoken
 
-Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
+Chơi tại [đây](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
 
 <img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
 
-### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### Samugotchi Shodown của Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-Link to game [here](https://samugotchi-shodown.vercel.app/)
+Chơi tại [đây](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
