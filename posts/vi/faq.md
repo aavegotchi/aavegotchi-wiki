@@ -79,7 +79,17 @@ How do I claim my prize?</a></p>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
+<li><a href=#bridging-faq>Bridging FAQ</a></li>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
+<li><a href=#technical-faq>Technical FAQ</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
@@ -377,8 +387,43 @@ Portals are expected to cost 100 GHST for the first haunt. Costs for other items
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Những câu hỏi về Kỹ thuật
+## Bridging FAQ
 
+### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
+
+**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+
+### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
+
+**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+
+### Can my Gotchi be bridged over with wearables equipped?
+
+**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+
+### Can my Gotchi equip or unequip wearables while on Ethereum?
+
+**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+
+### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
+
+**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+
+### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
+
+**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+
+### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
+
+Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+
+### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+
+### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+
+## Technical FAQ
 
 ### Is Aavegotchi on-chain?
 
