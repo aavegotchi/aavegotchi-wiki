@@ -7,6 +7,12 @@ contributors:
   - "chinyh"
 ---
 
+## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
+* Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
+* NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
+* Get 3x as many RARI trading rewards for trading Aavegotchis for the next 2 weeks!!!
+<p></p>
+
 ## [Launch of Aavegotchi Ecosystem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
 * Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
 * There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
