@@ -23,6 +23,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 <li><a href=#raffle-3>Lotterie 3</a></li>
 <li><a href=#raffle-4>Raffle 4</a></li>
 <li><a href=#raffle-5>Raffle 5</a></li>
+<li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
@@ -41,3 +42,9 @@ table_raffle4
 
 ## Raffle 5
 table_raffle5
+
+## Chart
+
+What are your chances (in percentage) to win a wearable using 1 ticket in past raffles? Check out the chart below.
+
+<img src="/raffles-stats/raffle-stats-chart.png" />
