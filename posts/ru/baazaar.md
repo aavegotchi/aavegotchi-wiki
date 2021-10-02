@@ -39,6 +39,7 @@ contributors:
 <ol>
 <li><a href=#aavegotchi-baazaar>Аавеготчи Базар.</a></li>
 <li><a href=#features>Фичи.</a></li>
+<li><a href=#rarible>Rarible</a></li>
 </ol>
 
 </div>
@@ -80,3 +81,9 @@ Baazaar — вторичный рынок на Aavegotchi. Здесь можно
 * Мои объявления (My Listings). Тут отображаются продаваемые вами товары.
 * Мои продажи (My Sales). История успешных продаж.
 * Мои покупки (My Purchases). История успешных покупок.
+
+## Rarible
+
+Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+
+As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
