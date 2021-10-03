@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+* AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
+* Fulfil your Gotchi civic duty and vote!
+<p></p>
+
 ## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
 * Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
 * NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
