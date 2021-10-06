@@ -47,6 +47,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
+* [Guild](/guild)
+
 * [Поколение.](/haunt)
 
 * [Home](/index)
