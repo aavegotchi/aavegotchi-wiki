@@ -47,6 +47,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
+* [Guild](/guild)
+
 * [Haunt](/haunt)
 
 * [Home](/index)
