@@ -32,7 +32,8 @@ contributors:
 <p><a href=#absolute-rarity-score>Абсолютный показатель редкости.</a></p>
 <p><a href=#final-rarity-score>Окончательный подсчет редкости.</a></p>
 <li><a href=#rewards>Вознаграждение.</a></li>
-<p><a href=#collecting-rarity-farming-rewards>Получение наград за фарминг.</a></p>
+<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
+<p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
 </div>
@@ -93,9 +94,10 @@ table_RarityScoreCalculationTable
 
 ## Вознаграждение
 
-ВОЗНАГРАЖДЕНИЕ Через определенные промежутки времени, продолжительность которых определяется AavegotchiDAO, между владельцами самых редких и выдающихся Готчи распределяется награда в GHST. Призовой фонд формируется из комиссии ото всех продаж за токены GHST.
+In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
-Первоначально будут награждаться владельцы Готчи с выдающимися показателями в трех категориях:
+Initially, there were 3 categories of rarity farming rewards:
+
 * BRS Готчи, а награда за ARS появится позже.
 * [Очки родства](/traits#kinship) (Kinship) с игроком.
 * [Очки опыта.](/traits#experience)
@@ -114,8 +116,14 @@ table_RarityScoreCalculationTable
 
 В настоящее время особых ограничений на внесение изменений в параметры Готчи нет. Однако если будет замечена высокая активность ботов, члены AavegotchiDAO смогут проголосовать за их фильтрацию.
 
-### Получение наград за фарминг
+### Rarity Farming Seasons
 
-Награды за фарминг попадают в личный инвентарь вашего Готчи. (Да! Да! Вы можете убедиться, что у вашего игрового персонажа он присутствует!).
+Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 
-Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Нажмите на своего Готчи. Справа, в самом низу экрана, вы заметите “Кармашек”. Нажмите на него и просмотрите содержимое инвентаря вашего Готчи. Так вы сможете увидеть количество GHST, которое персонаж получил за фарминг.
+For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
+
+### Collecting Rarity Farming Rewards
+
+Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
+
+Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchi. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).
