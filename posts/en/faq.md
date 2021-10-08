@@ -76,6 +76,12 @@ contributors: ["eris771", "unintelligent-nerd"]
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
+<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
 <li><a href=#bridging-faq>Bridging FAQ</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
@@ -390,6 +396,30 @@ open market prices currently are for certain wearables at the [Baazaar](/baazaar
 
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+
+## Aambassador FAQ
+
+### Do I need to fill out monthly reports as an Aambassador?
+
+No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+
+### How big should I grow my #GotchiGang?
+
+Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+
+Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+
+### What if the #GotchiGang name I want has already been taken by someone else?
+
+We will inform you if the name has already been taken after you have filled up your application on the typeform.
+
+### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
+
+Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+
+### I have a question that isn’t answered here. Where should I ask it?
+
+All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
 
 ## Bridging FAQ
 
