@@ -83,6 +83,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Фарминг редкости Готчи](/rarity-farming)
 
+* [Rarity Farming Seasons](/rarity-farming-seasons)
+
 * [Дорожная карта](/roadmap)
 
 * [Sets](/sets)
