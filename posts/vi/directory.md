@@ -83,6 +83,8 @@ contributors:
 
 * [Rarity Farming](/rarity-farming)
 
+* [Rarity Farming Seasons](/rarity-farming-seasons)
+
 * [Roadmap](/roadmap)
 
 * [Sets](/sets)
