@@ -34,6 +34,7 @@ Vào ngày 15 tháng Tư 2021, lịch sử đã sang trang mới. Đội Trưở
 <p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
 <li><a href=#ugotchi-token>Token uGOTCHI</a></li>
 <li><a href=#valuation>Định giá</a></li>
+<li><a href=#buyout-of-the-ugotchi-collection>Buyout of the uGOTCHI Collection</a></li>
 </ol>
 
 </div>
@@ -115,3 +116,9 @@ Các luận điểm dưới đây đã được Bên Thẩm Định xem xét:
 7. Khi Aavegotchi lần đầu tiên phát hành 10k Portal vào tháng Ba năm 2021, chúng đã được bán hết sạch chỉ trong vòng một phút.
 
 8. The Aastronauts đang liên tục farm token GHST trực tiếp vào "ví NFT" của chúng, đây là phần thưởng nhận được từ Rarity Farming cứ mỗi 2 tuần. (Một mình Terence McKenna kiếm được 40.000 GHST trước thời điểm giữa tháng Sáu). Việc này rất quan trọng bởi giải thưởng sẽ không được gửi vào ví chứa gotchi mà được gửi trực tiếp cho các gotchi dựa theo điểm độ hiếm của chúng. Terence McKenna chính là người dẫn dắt bộ sưu tập này và hiện nay đang là Aavegotchi có độ hiếm cao thứ 4 đang tồn tại trong thế giới Aavegotchi.
+
+## Buyout of the uGOTCHI Collection
+
+On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+
+For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
