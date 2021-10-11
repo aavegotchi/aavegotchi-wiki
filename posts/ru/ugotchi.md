@@ -34,6 +34,7 @@ contributors:
 <p><a href=#unopened-portal-2>Неоткрытый портал 2 (Unopened Portal 2).</a></p>
 <li><a href=#ugotchi-token>Токен uGOTCHI.</a></li>
 <li><a href=#valuation>Ценность.</a></li>
+<li><a href=#buyout-of-the-ugotchi-collection>Buyout of the uGOTCHI Collection</a></li>
 </ol>
 
 </div>
@@ -115,3 +116,9 @@ table_valuation
 7. Первая продажа 10 тыс порталов в марте 2021 года прошла более чем успешно.
 
 8. Они были распроданы менее чем за минуту. Поэтому инвестировать в игру выгодно. Готчи-астронавты постоянно фармят GHST, получая награды за фарминг каждые 14 дней. Причем, что немаловажно, все награды каждого астронавта начисляются на его адрес смарт-контракта, а не внешний кошелек. Например, на счету Теренса МакКенны до середины июня оказалось более 40 000 GHST. Он является лидером данной коллекции и четвертым по значимости среди всех существующих Готчи.
+
+## Buyout of the uGOTCHI Collection
+
+On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+
+For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
