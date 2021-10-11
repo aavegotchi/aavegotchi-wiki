@@ -47,6 +47,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
+* [Guild](/guild)
+
 * [Haunt!](/haunt)
 
 * [Home](/index)
@@ -80,6 +82,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
+
+* [Rarity Farming Seasons](/rarity-farming-seasons)
 
 * [로드맵](/roadmap)
 

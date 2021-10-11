@@ -7,6 +7,20 @@ contributors:
   - "007"
 ---
 
+## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
+* Season 2 begins Tuesday, 12 October 2021
+* Get the details in this post!
+<p></p>
+
+## [Aavegotchi September Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
+* September was another Aamazing month for the #GotchiGang!
+* Gotchiverse REALM Reveal
+* Haunt 2 Portal Raffle Completed
+* Wearables Raffle #5 Completed
+* And many more!
+<p></p>
+
 ## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 * AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
 * Fulfil your Gotchi civic duty and vote!

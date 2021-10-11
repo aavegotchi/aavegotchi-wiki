@@ -31,6 +31,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
 <p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Rewards</a></li>
+<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
 <p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
@@ -91,9 +92,10 @@ table_RarityScoreCalculationTable
 
 ## Rewards
 
-In each period (length determined by AavegotchiDAO), the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
-Initially, there will be three categories of rarity farming rewards:
+Initially, there were 3 categories of rarity farming rewards:
+
 * Aavegotchi Rarity Scores (by BRS, ARS coming later)
 * [Kinship](/traits#kinship) Scores
 * [경험치](/traits#experience)
@@ -111,6 +113,12 @@ How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from 
 The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
+
+### Rarity Farming Seasons
+
+Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
+
+For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
 
 ### Collecting Rarity Farming Rewards
 

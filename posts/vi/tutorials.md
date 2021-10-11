@@ -37,6 +37,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Tham gia Raffle 4</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 </ul>
 
 </div>
@@ -121,3 +122,10 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Học cách dùng FRENS để mua vé Raffle
 * Học cách truy cập vào Aavegotchi Baazaar
 * Học cách đăng bán vé Raffle trên Baazaar
+
+### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction

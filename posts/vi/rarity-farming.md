@@ -31,7 +31,8 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
 <p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Phần thưởng</a></li>
-<p><a href=#collecting-rarity-farming-rewards>Thu Thập Phần Thưởng Từ Rarity Farming</a></p>
+<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
+<p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
 </div>
@@ -91,9 +92,10 @@ table_RarityScoreCalculationTable
 
 ## Phần thưởng
 
-Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với <b>Final Rarity Score cao nhất</b> sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
+In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
-Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
+Initially, there were 3 categories of rarity farming rewards:
+
 * Aavegotchi Rarity Scores (tính bằng BRS, ARS sẽ được thêm trong mùa sau)
 * Top [Điểm Kinship](/traits#kinship) Cao Nhất
 * [Kinh nghiệm](/traits#experience)
@@ -112,8 +114,14 @@ Giải thưởng GHST dành cho Rarity Farming được tài trợ bằng cách 
 
 Hiện tại thì không có giới hạn đối với số lần tương tác mà một Aavegotchi có thể thực hiện trong mỗi giai đoạn, những nếu một hoạt động nào đó của bot trở thành vấn đề thì AavegotchiDAO có thể vote để thêm biện pháp ngăn chặn chúng.
 
-### Thu Thập Phần Thưởng Từ Rarity Farming
+### Rarity Farming Seasons
 
-Phần Thưởng Dành cho Rarity Farming đã được trả về ví của Aavegotchi (Đúng vậy! Mỗi Gotchi có riêng cho mình một túi hành trang cá nhân!).
+Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào đó để xem túi đồ của Aavegotchi. Bạn có thể xem được lượng GHST mà Gotchi nhận được từ Rarity Farming (cũng như những món vật phẩm đã được trang bị).
+For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
+
+### Collecting Rarity Farming Rewards
+
+Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
+
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchi. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).

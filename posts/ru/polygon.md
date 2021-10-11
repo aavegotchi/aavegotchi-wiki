@@ -22,8 +22,7 @@ contributors:
 <ol>
 <li><a href=#why-polygon->Почему Polygon?</a></li>
 <li><a href=#adding-polygon-to-your-metamask>Добавляем Polygon в Метамаск.</a></li>
-<li><a href=#bridging-assets-to-polygon>Перемещаем средства в Polygon.</a></li>
-<li><a href=#bridging-assets-back-to-ethereum-mainnet>Перемещаем средства обратно в главную сеть Ethereum.</a></li>
+<li><a href=#matic-faucet>Matic Faucet</a></li>
 </ol>
 
 </div>
@@ -64,47 +63,14 @@ ID цепочки: 137.
 
 4).  И все! Вы уже в тестовой сети Мумбаи! Далее можно переключаться в Метамаске между Полигоном и основной сетью Ethereum, нажимая соответствующую кнопку.
 
-## Перемещаем средства в Polygon
-Что делать после настройки Метамаска? Нужно иметь средства на счету в Polygon. Используйте мост Polygon ([PoS](/glossary#proof-of-stake)) для переброски токенов из основной сети Ethereum.  Если вам нужно перевести только GHST, вам не нужно делать последующие шаги, а просто использовать этот мост Аавеготчи.
+## Matic Faucet
 
-Чтобы перевести разные токены, например ETH или USDC, нужно предпринять несколько шагов:
+You need MATIC tokens to transact on Polygon.
 
-1). Заходите на https://wallet.matic.network/ и зайдите в Метамаск. Вы должны быть на вкладке “Кошелек”, которая выглядит как на скрине ниже.
+Here are some MATIC faucets that will give you some free MATIC to do transactions:
 
-<img class = "bodyImage" src = "/polygon/matic-wallet.png" alt = "Matic Wallet" />
+* [Matic Supply](https://matic.supply/)
 
-2). **Не кликайте** “Switch to Plasma” . Этот мост не подходит, так как снятие средств проходит 7 дней. Вместо этого добавьте токены, которые планируете к переводу на Полигон, справа. На скрине ниже уже добавлены токены USDC, и вы можете увидеть их в кошельке.
+* [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
-
-3). Слева жмакайте “Matic Wallet” и “Депозит”.
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
-
-4). Далее вам потребуется кнопка “Продолжить внесение депозита”, и нужно выбрать требующийся вам актив. .
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
-
-5). Введите количество токенов к переводу и жмакайте безотлагательно большую синюю кнопку.
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
-
-Почти готово! Подтвердите транзакцию в Метамаске, и все будет готово. В среднем, перевод в Полигон занимает до 10 минут. Благодаря дропу вам будет начислен 0,1 MATIC, если вы перевели стейблкоины и открыли [Quickswap](https://quickswap.exchange/) — крупнейшую DEX на Polygon. Такого количества MATIC хватит примерно на 1000 транзакций!
-
-Если вы хотите получить помощь, заходите в наш [Дискорд](https://discord.com/invite/rttCTkZ) и задавайте вопросы членам сообщества.
-
-## Перемещаем средства обратно в главную сеть Ethereum
-
-Как вернуть токены в мейннет Ethereum? Есть ли способ?
-
-Да, безусловно.
-
-Нужно снова использовать [мост Аавеготчи](https://aavegotchi.com/bridge).
-
-<img class = "bodyImage" src = "/polygon/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
-
-При использовании моста вы можете найти изображение токена в правой части экрана, а далее ввести сумму переводящихся средств в предназначенное для этого поле. Нажмите на изображение токена, и вы сможете выбрать тот, что вас интересует, из доступных к трансферу с помощью этого моста. Выберите [маТокены](/matokens), которые нужно вернуть в основную сеть, заполните поле с суммой. Нажмите кнопку перевода средств.
-
-Вывод из Полигон обычно занимает больше времени, чем депозит. Около 30 минут, а иногда — больше. По завершении вывода нужно нажать кнопку "CLAIM ON ETHEREUM", чтобы токены попали в основную сеть.
-
-Напомним, что с помощью моста Аавеготчи пока что можно переводить маТокены из Полигона в основную сеть Ethereum. В будущем мост будет поддерживать токены стандарта ERC-721 (Готчи) и ERC-1155 (экипировку).
+If the faucets do not work, drop in to the Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6) and head over to the #matic-requests channel and some of our frenly frens will provide you with some MATIC.
