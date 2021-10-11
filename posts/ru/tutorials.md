@@ -37,6 +37,7 @@ Aave и аТокены.
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Игровой Базар в тестовой сети Мумбаи.</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Чеклист перед запуском Аавеготчи.</a></li>
 <li><a href=#entering-raffle-4>Как принять участие в четвертой лотерее.</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 </ul>
 
 </div>
@@ -121,3 +122,10 @@ Aave и аТокены.
 * Покупка лотерейных билетов за FRENS.
 * Как попасть на внутриигровой вторичный рынок — Базар.
 * Как разместить свои лотерейные билеты на Базаре.
+
+### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction
