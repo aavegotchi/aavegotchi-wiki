@@ -36,6 +36,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 </ul>
 
 </div>
@@ -125,3 +126,12 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 * Learn how to buy Raffle tickets with FRENS
 * Learn how to access the Aavegotchi Baazaar
 * Learn how to list your Raffle tickets at the Baazaar
+
+### Participating in GBM Auctions
+
+<iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
+ 
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction
