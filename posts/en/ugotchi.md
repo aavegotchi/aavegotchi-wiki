@@ -33,6 +33,7 @@ On 15 April 2021, history was made. Captain Terence McKenna and his team success
 <p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
 <li><a href=#ugotchi-token>uGOTCHI Token</a></li>
 <li><a href=#valuation>Valuation</a></li>
+<li><a href=#buyout-of-the-ugotchi-collection>Buyout of the uGOTCHI Collection</a></li>
 </ol>
 
 </div>
@@ -114,3 +115,9 @@ The following points of consideration were made to the Appraisers:
 7. When Aavegotchi first launched their 10,000 Portals in March 2021, they were sold out in less than a minute.
 
 8. The Aastronauts are continually farming GHST tokens directly into their "NFT wallet" feature by winning Rarity Farming rewards every two weeks. (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
+
+## Buyout of the uGOTCHI Collection
+
+On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+
+For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
