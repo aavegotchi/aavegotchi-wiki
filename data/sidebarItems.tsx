@@ -118,6 +118,10 @@ export const items: Category[] = [
                 href: "socialmedia"
             },
             {
+                name: "Bridges",
+                href: "bridges"
+            },            
+            {
                 name: "Missions",
                 href: "missions"
             },
