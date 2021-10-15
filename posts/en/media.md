@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Cryptocurrency Subreddit AMA (13 October 2021)
+Link to AMA [here](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
+
 ### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
