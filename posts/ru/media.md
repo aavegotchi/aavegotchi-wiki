@@ -11,6 +11,9 @@ contributors:
 
 Друзья, у нас также есть [канал на Ютубе](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) :)
 
+### Cryptocurrency Subreddit AMA (13 October 2021)
+Link to AMA [here](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
+
 ### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
@@ -30,13 +33,13 @@ contributors:
 ### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/DBYmV_nvcWY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Coderdan presents Aavegotchi on Odaily China Crypto News (3 February 2021)
-Смотрите видео по [ссылке](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/).
+Link to video [here](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/)
 
 ### Coderdan shares about Aavegotchi in the Blockchain Game Alliance Demo Day (29 January 2021)
-Смотрите видео по [ссылке](https://www.youtube.com/watch?v=ZzFnUFwAY00).
+Link to video [here](https://www.youtube.com/watch?v=ZzFnUFwAY00)
 
 ### Our Malaysian Aambassador Buzz Lightyear / Jason Chew shares with DeFi Singapore about Aavegotchi Farming and NFTs! (27 January 2021)
-Смотрите видео по [ссылке](https://www.youtube.com/watch?v=oJ8XH5sldhc).
+Link to video [here](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
 ### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6--GY-5yWy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
