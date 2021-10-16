@@ -113,7 +113,7 @@ If you have any questions about the Umbria Narni Bridge, or would like to chat w
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the (now outdated) infographic below for more details.
+AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi">
 
