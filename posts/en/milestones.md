@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Are you ready? Aavegotchi Land Sale #1 coming up this Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* The very first Aavegotchi Land Sale is starting on Thursday, October 28 using the GBM Auction format
+* Get your GHST ready to bid bid bid!
+<p></p>
+
 ## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 * Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
 * Season 2 begins Tuesday, 12 October 2021
