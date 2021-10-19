@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Oiiii chiếc Vé Vàng Lấp Lánh kia!</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+Vé là những NFT cho phép bạn tham gia vào Xổ Số Aavegotchi để có thể giành được giải thưởng. Chúng có thể được mua bằng FRENS có được từ staking hoặc trên chợ [Baazaar](/baazaar) bằng cách dùng [GHST tokens](/ghst).
 
 Ở trang này, bạn sẽ học được cách mua vé bằng FRENS và tham gia vào xổ số với những chiếc vé này!
 
@@ -21,7 +21,7 @@ Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win priz
 **Nội dung**
 
 <ol>
-<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
+<li><a href=#purchasing-tickets>Mua vé Raffle</a></li>
 <li><a href=#entering-raffles>Tham gia Raffle</a></li>
 <li><a href=#past-raffles-statistics>Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ</a></li>
 <li><a href=#more-resources>Thêm nguồn</a></li>
@@ -29,7 +29,7 @@ Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win priz
 
 </div>
 
-## Purchasing Tickets
+## Mua vé Raffle
 
 Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
 
@@ -37,28 +37,28 @@ Không giống như FRENS, vé Raffle có thể được chuyển từ ví này 
 
 Bạn có thể tra lượng cung của Vé bằng cách sử dụng OpenSea Polygon tại [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
 
-There are two main categories of tickets:
+Có 2 loại vé:
 
 * Vé Raffle
-* Drop Ticket
+* Vé Drop
 
-Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+Vé raffle có thể chi làm 6 loại nhỏ, từ Common (giá trị thấp nhất) đến Godlike (giá trị cao nhất). Chúng được dùng để tham gia vào **Wearable Raffles**.
 
-On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
+Cũng có một loại Vé Drop riêng được dùng để tham gia vào **NFT Raffles** để giành [Portals](/portals) và [REALM Parcels](/metaverse).
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
 ## Tham gia Raffle
 
-A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+Sự kiện raffle (dành cho trang phục và NFT) sẽ diễn ra trong một khoảng thời gian nhất định. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your tickets. You can also accumulate tickets for subsequent raffles if you like to do so.
+Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
 
 As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
 
