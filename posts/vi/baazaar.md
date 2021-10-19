@@ -84,6 +84,6 @@ Những tính năng khác trong Baazaar bao gồm:
 
 ## Rarible
 
-Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+Ngoài Baazaar, một thị trường thứ cấp khác hỗ trợ việc mua bán Aavegotchi là nền tảng [Rarible](https://rarible.com/) trên Ethereum Mainnet.
 
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+Do Aavegotchi tồn tại trên Polygon, chúng cần phải được chuyển tới Ethereum Mainnet trước có thể mua/bán chúng trên Rarible. Tham khảo [bài hướng dẫn này](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) để biết cách chuyển mạng cho Aavegotchi. Hãy xem qua trang FAQ để có thể biết trả lời cho những câu hỏi thường được hỏi nhé.
