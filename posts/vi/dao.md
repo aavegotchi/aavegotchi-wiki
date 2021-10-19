@@ -30,12 +30,12 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
 <li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
-<li><a href=#type-of-proposals>Type of Proposals</a></li>
-<li><a href=#vote-differentials>Vote Differentials</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
+<li><a href=#type-of-proposals>Các loại Đề Xuất</a></li>
+<li><a href=#vote-differentials>Khác Biệt Số Phiếu</a></li>
+<li><a href=#creating-signal-proposals>Tạo ra Đề xuất Hội ý</a></li>
+<li><a href=#voting>Bỏ phiếu</a></li>
 <li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#treasury>Ngân Quỹ</a></li>
 </ol>
 
 </div>
@@ -117,25 +117,25 @@ Những tính năng của giai đoạn này gồm có:
 ## Tham Gia Quản Trị
 Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? Bạn êi, bọn mình lo hết!
 
-* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
+* Bạn có thể tham gia tranh luận tại [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/)hoặc #🌱dao-discussion trong Discord. Bọn mình hân hạnh được đón tiếp tất cả các bạn!
 
-* Taking part in AavegotchiDAO votes (when they are available!)
+* Tham gia bỏ phiếu tại AavegotchiDAO (khi có thể!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) liệt kê chi tiết danh sách các hàm liên quan đến DAO mà thành viên có thể gọi/dùng để thực hiện những thay đổi đã được vote. Giả dụ như asUSD được vote để trở thành một [loại tài sản ký gửi ](/posts/atokens)đi. Aavegotchi sẽ có thể triển khai thay đổi này bằng cách sử dụng hàm `addCollateralTypes()` và chỉ định asUSD sẽ nằm trong hàm đó.
 
 ## Diễn đàn AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Diễn Đàn Quản Trị AavegotchiDAO được vận hành trên Discourse. Sự có mặt của diễn đàn này sẽ giúp cộng đồng tập trung thảo luận những chủ đề liên quan đến cơ chế game Aavegotchi, yêu cầu ngân sách, và những đề xuất khác.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Bọn mình hy vọng rằng #GotchiGang sẽ trở thành một mô hình cho những game được sở hữu bởi DAO trong tương lai, vậy nên hãy tham gia và nhớ lịch sự với những người anh em trong cộng đồng nhé.
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/).
 
-## Type of Proposals
+## Các loại Đề Xuất
 
-There are 2 types of proposals in the *Cocoon* stage:
+Có 2 lại đề xuất trong giai đoạn *Cocoon*:
 
-* **Signal Proposal** — A proposal that can be posted by anyone. Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Signal Proposal** — Một bản đề xuất có thể được đăng bởi bất kỳ ai. Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
 
 * **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
 
@@ -151,7 +151,7 @@ There are 2 types of proposals in the *Cocoon* stage:
 
 * **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
 
-## Vote Differentials
+## Khác Biệt Số Phiếu
 
 Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
 
@@ -175,7 +175,7 @@ For COCOON, we will begin with the following Vote Differential parameters, and c
 
 4 Options — 20% VD
 
-## Creating Signal Proposals
+## Tạo ra Đề xuất Hội ý
 
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
@@ -190,7 +190,7 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 
 More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Voting
+## Bỏ phiếu
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -247,7 +247,7 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
-## Treasury
+## Ngân Quỹ
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
