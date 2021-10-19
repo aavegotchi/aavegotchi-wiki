@@ -60,37 +60,37 @@ Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải th�
 
 Nếu bạn quyết định không tham gia vào sự kiện raffle, bạn không cần phải làm gì với những tấm vé raffle của mình cả. Bạn cũng có thể thu gom vé raffle cho những sự kiện raffle sau này nếu muốn.
 
-As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Lấy sự kiện raffle đầu tiên với chủ đề Chainlink làm ví dụ. Đây là giải thưởng thông trong sự kiện raffle đó:
 
 <img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Tổng cộng 6010 giải.
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Mỗi giải thưởng sẽ được phân phát cho một vé raffle được bốc ngẫu nhiên, trong đó mỗi vé có một cơ hội thắng giải như nhau.
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+Bạn có thể cải thiện khả năng thắng giải bằng cách:
+* Tham gia với nhiều vé
+* Tham gia vào những loại vé raffle có tỷ lệ thắng giải cao (ví dụ như Common)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
 
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+Sau khi sự kiện quay số kết thúc, người chiến thắng có thể nhận giải trên Polygon Network và trang bị đồ cho Gotchi của mình.
 
-The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+Cả quá trình stake GHST và thắng giải có thể dược mô tả bằng cách sử dụng infographic sau đây:
 
-* Process of staking GHST to winning wearables in Wearable Raffles
+* Quá trình stake GHST để giành lấy trang phục từ Wearable Raffle
 
-<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi raffle tickets" />
 
-* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+* Quá trình stake GHST để giành lấy Portals/REALM trong xổ số NFT
 
-<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
+<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Vé Drop Trong Aavegotchi" />
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
