@@ -28,10 +28,10 @@ Cộng đồng của chúng ta đã phát triển đến mức nào rồi? Hãy 
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Quan hệ đối tác giữa AavegotchiDAO, Pixelcraft, và DinoSwap</a></li>
 <li><a href=#liquidity-manager---frens-committee>Ban Quản Lý Thanh Khoản / Hội Đồng FRENS</a></li>
 <li><a href=#launch-haunt-2>Triển Khai Haunt 2</a></li>
-<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Add an Aging Mechanic to affect Aavegotchi rarity scores</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Thêm Cơ Chế Trưởng Thành để ảnh hưởng đến điểm độ hiếm của Aavegotchi</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -334,14 +334,14 @@ table_launchHaunt2
 
 <hr />
 
-### Add an Aging Mechanic to affect Aavegotchi rarity scores
+### Thêm Cơ Chế Trưởng Thành để ảnh hưởng đến điểm độ hiếm của Aavegotchi
 **Aavegotchi Improvement Proposal #13**
 
 **Tóm Tắt Đề Xuất:**
 
 *Vấn đề*
 
-As new haunts are released, whether or not they include a bug fix that impacts gotchi trait generation, a strong dilution of existing high BRS gotchis occurs. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
+Khi các thế hệ haunt mới được hình thành, dù chúng có được sửa lại các yếu tố ảnh hưởng đến việc sinh ra các chỉ số cho gotchi hay không thì số lượng gotchi có BRS cao được sinh ra sẽ rất nhiều. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
 
 *Giải pháp*
 
@@ -371,7 +371,7 @@ Option 2: No, do not implement right now
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -400,7 +400,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
@@ -426,7 +426,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
