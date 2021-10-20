@@ -137,120 +137,120 @@ Có 2 lại đề xuất trong giai đoạn *Cocoon*:
 
 * **Signal Proposal** — Một bản đề xuất có thể được đăng bởi bất kỳ ai. Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Hãy chia sẻ ý tưởng đề xuất và thảo luận với những thành viên khác trong cọng đồng trên kênh #🌱dao-discussion hoặc [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Một khi bạn đã hoàn thành chi tiết bài đề xuất, hãy tạo một bài viết trên diễn đàn AavegotchiDAO bằng cách sử dụng dàn bài được viết ra sẵn trong mục [Creating Signal Proposals](/dao#creating-signal-proposals) bên dưới. Sau đó, hãy tạo ra một bài bỏ phiếu tại [Snapshot](https://snapshot.page/#/aavegotchi.eth).
 
-* **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
+* **Core Proposal** — Nếu Signal Proposal đạt được 20% túc số hoặc hơn (lượng GHST được phép sử dụng để vote, có trên Polygon), Pixelcraft sẽ thông báo bản đề xuất trở thành Core Proposal. Những lượt vote này sẽ tích hợp và đủ điều kiện để mang đến [XP](/traits#experience) cho người tham gia.
 
 <img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
 
-**Core Proposals** are further subdivided into 3 types:
+**Core Proposals** sẽ chia thành 3 loại:
 
-*Reminder: Quorum percentages are calculated from the amount of circulating GHST eligible to vote on Polygon, not the total supply!*
+*Lưu ý: Phần trăm túc số được tính bằng lượng GHST lưu thông hợp lệ trên Polygon, không phải tổng tổng số lượng!*
 
-* **Smol votes:** Quorum of 5%. These votes are intended for small decisions that do not affect the overall meta or value of existing Aavegotchis in any significant way (e.g. introduction of a cosmetic feature, proposal for a marketing strategy).
+* **Smol votes:** Túc số đạt 5%. Loại này được dành cho những quyết định nhỏ, không ảnh hưởng đến meta hoặc giá trị hiện tại của Aavegotchi trong bất kỳ tình huống nào. (ví dụ như giới thiệu về các tính năng quần áo, bản đề xuất dành cho chiến lược marketing.
 
-* **Medium votes:** Quorum of 10%. These votes are intended for decisions that may have some notable effect on the meta (e.g. introducing a new game item, allocating XP to some item or event, changing something about an Aavegotchi that does not affect its rarity score).
+* **Medium votes:** Túc số đạt 10%. Những bản đề xuất này dành cho những quyết định sẽ ảnh hưởng kha khá đến meta (ví dụ nhưng mang đến những item mới, phân phối XP cho vật phẩm hoặc event, thay đổi một số thứ về Aavegotchi mà không làm ảnh hưởng đến điểm độ hiếm).
 
-* **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
+* **Galaxy votes:** Túc số đạt 20%. Những bản đề xuất này dành cho những quyết định lớn có ảnh hưởng mạnh đến meta và hệ sinh thái rộng lớn của Aavegotchi (ví dụ như thế hệ Haunt mới, thay đổi thứ gì đó về Aavegotchi mà ảnh hưởng đến điểm độ hiếm).
 
 ## Khác Biệt Số Phiếu
 
-Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
+Cách biệt số phiếu là sự khác nhau giữa hai lựa chọn, và cho thấy liệu có đạt được sự đồng thuận hay chưa.
 
-Here is an example Core Proposal with 3 options:
+Đây là ví dụ về Core Proposal với 3 phương án:
 
-* Option A receives 25%
-* Option B receives 35%
-* Option C receives 40%.
+* Phương án A đạt được 25%
+* Phương án B đạt được 35%
+* Phương án C đạt được 40%.
 
-The required Vote Differential is 5% (the difference between Option C [40%] and Option B [35%]).
+Cách biệt cần có là 5% (sự khác gia giữa phương án C [40%] và phương án B [35%]).
 
-This would not be enough to achieve consensus, thus the Proposal is not implemented.
+Việc này sẽ không đủ để đạt được đồng thuận, do đó bản Đề Xuất này sẽ không được thi hành.
 
-Typically, the more options a vote has, the higher Vote Differential it requires to demonstrate that true consensus has been reached.
+Đặt biệt, bản đề xuất càng có nhiều phương án thì càng cần có nhiều Cách Biệt về Số phiếu để thể hiện sự đồng thuận.
 
-For COCOON, we will begin with the following Vote Differential parameters, and course correct if necessary:
+Với COCOON, bọn mình sẽ bắt đầu đi theo những thước đo Cách Biệt sau, và sẽ điều chỉnh nếu cần thiết:
 
-2 Options — 10% VD
+2 Phương án — 10% VD
 
-3 Options — 15% VD
+3 Phương án — 15% VD
 
-4 Options — 20% VD
+4 Phương án — 20% VD
 
 ## Tạo ra Đề xuất Hội ý
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+Để tạo bản đề xuất hội ý để #Gotchigang có thể bỏ phiếu, hãy làm theo format dưới đây:
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* Tác giả + Id của Gotchi
+* Đường link dẫn đến chủ đề thảo luận trên Discourse (Những bản đề xuất mà không được thảo luận nhiều trong diễn đàn sẽ tự động bị xoá khỏi Snapshot)
+* Tóm tắt (bao gồm ý nghĩa, thời gian, mục đích và bất kỳ chỉ số đánh giá Kpi nào). Những bản đề xuất được copy paste từ những bản đề xuất đã tồn tại sẽ bị xoá những những bản đề xuất tương tự với những biến thể khác biệt sẽ được cho phép tồn tại song song.
+* Ảnh hưởng
+* Những mục đích cuối cùng và lợi ích đáng chú ý
+* Nói lên những rủi ro tìm ẩn hoặc hậu quả không lường trước
+* Kế hoạch dự phòng (Kế hoạch B, kế hoạch C, v. v.)
+* Thời lượng của bản đề xuất không nên dài quá 30 ngày kể từ khi bắt đầu, vậy nên hãy đảm bảo rằng chỉ có những bản đề xuất đang cho phép bỏ phiếu mới được nằm trên bảng Snapshot cộng đồng.
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+Xem thêm chi tiết tại [bài viết Medium](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)này.
 
 ## Bỏ phiếu
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (2) Argagon.
 
 ### Vote bằng Snapshot
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
 
-To vote on Snapshot, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). Bỏ phiếu cho một phương án, và nhấp "Vote" Một pop-up sẽ hiện lên để bạn có thể xác nhận lựa chọn của mình.
 
 <img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
 <img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
 ### Vote bằng Aragon
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
 
-To vote on Aragon, follow the steps below:
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
-1). Go to an open proposal.
+1). Vào một bản đề xuất đang được mở.
 
-2). Connect your wallet.
+2). Kết nối ví.
 
 <img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Bình chọn "Yes" hoặc "No."
 
 <img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
 
 
 <img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
 
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
 
 ## Ngân Quỹ
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO Treasury có thể truy cập vào tại [here](https://aavegotchi.com/treasury).
