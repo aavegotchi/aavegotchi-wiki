@@ -109,15 +109,15 @@ Có một nút "More" ở góc dưới bên phải màn hình.
 
 Khi nhấp vào bạn sẽ được truy cập vào 3 tuỳ chọn:
 
-* Gift
-* Sacrifice
-* List in Bazaar
-* Save
+* Gửi
+* Hiến Tế
+* Treo Bán Trên Baazaar
+* Lưu
 
-**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+**Gửi (Gift)** cho phép bạn đưa cho gotchi một địa chỉ (Hãy nhớ rằng việc này sẽ không thể hoàn tác được!)
 
-**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+**Hiến tế (Sacrifice)** cho phép bạn **hy sinh mãi mãi ** Gotchi hiện tại, mang [XP](/traits#experience) của nó cho một Gotchi khác.
 
-**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+**Treo Bán Trên Baazaar (List in Bazaar)** cho phép bạn đăng bán Aavegotchi trên Baazaar.
 
-**Save** allows you to download a png or gif image of your Aavegotchi.
+**Lưu (Save)** cho phép bạn tải ảnh png hoặc gif cho Aavegotchi của mình.
