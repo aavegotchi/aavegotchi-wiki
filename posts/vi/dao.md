@@ -139,7 +139,7 @@ Có 2 lại đề xuất trong giai đoạn *Cocoon*:
 
 * **Core Proposal** — Nếu Signal Proposal đạt được 20% túc số hoặc hơn (lượng GHST được phép sử dụng để vote, có trên Polygon), Pixelcraft sẽ thông báo bản đề xuất trở thành Core Proposal. Những lượt vote này sẽ tích hợp và đủ điều kiện để mang đến [XP](/traits#experience) cho người tham gia.
 
-<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
+<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "Những loại đề xuất AavegotchiDAO" />
 
 **Core Proposals** sẽ chia thành 3 loại:
 
@@ -214,7 +214,7 @@ Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu �
 
 4). Metmask của bạn sẽ hiện pop-up lên. Ký vào giao dịch, và bạn đã hoàn tất!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
 ### Vote bằng Aragon
 
