@@ -67,13 +67,13 @@ Có 4 cách stake:
 
 * Bước 3: Nhập số lượng GHST mà bạn muốn chuyển sang Polygon. Một khi giao dịch được xác nhận trên Ethereum, sẽ mất khoảng 7 đến 8 phút để số dư của bạn được hiện lên trên Polygon. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
 
-* Step 4: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Bước 4: Hãy cấu hình ví MetaMask thành Polygon bằng [bài hướng dẫn](/polygon) này.
 
 * Kết nối ví MetaMask với Polygon và chuyển đến trang [Polygon Staking Page](https://aavegotchi.com/stake-polygon) trên DApp của Aavegotchi.
 
 * Approve để hợp đồng sử dụng token của bạn.
 
-* Step 7: Input the amount of GHST you would like to deposit. Presto! Xong rồi bạn êi!
+* Bước 7: Nhập số lượng GHST mà bạn muốn chuyển sang Polygon. Presto! Xong rồi bạn êi!
 
 *Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
@@ -81,7 +81,7 @@ Có 4 cách stake:
 
 Stake GHST-QUICK và GHST-USDC theo những bước sau.
 
-* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Bước 1: Hãy cấu hình ví MetaMask thành Polygon bằng [bài hướng dẫn](/polygon) này.
 
 * Tiếp theo, hãy dùng [Aavegotchi Bridge](https://aavegotchi.com/bridge) để chuyển GHST và/hoặc tài sản khác đến Polygon. [Hướng dẫn về maToken](/matokens) sẽ giúp bạn biết cách thực hiện.
 
@@ -123,7 +123,7 @@ Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nh�
 
 * Stake GHST và Stake GHST-QUICK/GHST-USDC
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "Hướng dẫn chuyển GHST sang Matic" />
 
 * Stake GHST-ETH
 
