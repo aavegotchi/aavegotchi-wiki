@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+Lối chơi trong REALM sẽ sớm được trình làng! Sẽ có nhiều hoạt động trong Gotchiverse - từ xả hội hoá đến đồng truyền trong Gotchi Lodge. Hãy làm quen thật nhiều người bạn và tham gia vào các hoạt động chỉ thuộc về Guild nhé!
 
 <div class="contentsBox">
 
