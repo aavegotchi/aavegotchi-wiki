@@ -71,9 +71,9 @@ How do I claim my prize?</a></p>
 <li><a href=#aavegotchidao-faq>Hỏi Đáp về AavegotchiDAO</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Làm cách nào để có thể Vote trên Aragon bằng Trust Wallet?</a></p>
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Tại sao khi vote trên Snapshot thì nó lại hiện lên lỗi 'wrong timestamp'?</a></p>
-<p><a href=#why-20--quorum-for-signal-proposals->Why 20% Quorum for Signal Proposals?</a></p>
-<p><a href=#why-two-votes->Why Two Votes?</a></p>
-<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
+<p><a href=#why-20--quorum-for-signal-proposals->Tại sao lại chọn túc số 20% cho bản đề xuất?</a></p>
+<p><a href=#why-two-votes->Tại sao lại có 2 lần bỏ phiếu?</a></p>
+<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?</a></p>
 <p><a href=#what-about-funding-proposals->What about Funding Proposals?</a></p>
 <li><a href=#gameplay-faq>Hỏi Đáp về Lối Chơi</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
@@ -359,17 +359,17 @@ Xem[bài viết này](https://community.trustwallet.com/t/i-need-to-export-my-tr
 ### Tại sao khi vote trên Snapshot thì nó lại hiện lên lỗi 'wrong timestamp'?
 Bạn sẽ gặp phải lỗi này khi thiết bị/máy tính của bạn không trùng thời gian với thời gian của Snapshot. Chỉnh thời gian trên máy tính sang chế độ tự động và nó sẽ thự điều chỉnh để trùng với mốc thời gian trên Snapshot.
 
-### Why 20% Quorum for Signal Proposals?
+### Tại sao lại chọn túc số 20% cho bản đề xuất?
 A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
 
-### Why Two Votes?
+### Tại sao lại có 2 lần bỏ phiếu?
 There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
 
 Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
 
 **If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
 
-### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
+### Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?
 You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
 
 ### What about Funding Proposals?
