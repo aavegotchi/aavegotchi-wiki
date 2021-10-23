@@ -74,18 +74,18 @@ How do I claim my prize?</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->Tại sao lại chọn túc số 20% cho bản đề xuất?</a></p>
 <p><a href=#why-two-votes->Tại sao lại có 2 lần bỏ phiếu?</a></p>
 <p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?</a></p>
-<p><a href=#what-about-funding-proposals->What about Funding Proposals?</a></p>
+<p><a href=#what-about-funding-proposals->Vậy còn Đề Xuất Vốn thì sao?</a></p>
 <li><a href=#gameplay-faq>Hỏi Đáp về Lối Chơi</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
-<li><a href=#bridging-faq>Bridging FAQ</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Vậy thì mình phải trả bao nhiêu để chơi?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?</a></p>
+<li><a href=#aambassador-faq>Câu hỏi về Aambassador</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Mình có cần phải điền báo cáo hàng tháng về Aambassador hay không?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->Mình nên xây dựng #Gotchigang lớn đến mức nào?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->Mình đã có một group với chủ đề Aavegotchi rồi. Mình có nên ứng tuyển làm Aambassador hay không?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->Mình có một câu hỏi chưa được giải đáp. Mình nên hỏi ai nhỉ?</a></p>
+<li><a href=#bridging-faq>Câu hỏi về việc chuyển mạng</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
 <p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
@@ -372,7 +372,7 @@ Secondly, it is entirely possible, even likely, that some Signal Proposals will 
 ### Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?
 You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
 
-### What about Funding Proposals?
+### Vậy còn Đề Xuất Vốn thì sao?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
 
 **Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
@@ -382,42 +382,42 @@ That said, *Cocoon* is an experimental governance phase and it wouldn’t be out
 ## Hỏi Đáp về Lối Chơi
 
 
-### Do higher trait scores always mean higher rarity?
+### Vậy là chỉ số đặc điểm cao hơn thì độ hiếm cao hơn đúng không?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Vậy thì mình phải trả bao nhiêu để chơi?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
-### Does changing the collateral staked affect kinship level?
+### Thay đổi số lượng collecteral được stake liệu có ảnh hưởng đến kinship hay không?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Aambassador FAQ
+## Câu hỏi về Aambassador
 
-### Do I need to fill out monthly reports as an Aambassador?
+### Mình có cần phải điền báo cáo hàng tháng về Aambassador hay không?
 
 No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### How big should I grow my #GotchiGang?
+### Mình nên xây dựng #Gotchigang lớn đến mức nào?
 
 Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
 Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-### What if the #GotchiGang name I want has already been taken by someone else?
+### Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?
 
 We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
+### Mình đã có một group với chủ đề Aavegotchi rồi. Mình có nên ứng tuyển làm Aambassador hay không?
 
 Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### I have a question that isn’t answered here. Where should I ask it?
+### Mình có một câu hỏi chưa được giải đáp. Mình nên hỏi ai nhỉ?
 
 All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
 
-## Bridging FAQ
+## Câu hỏi về việc chuyển mạng
 
 ### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
