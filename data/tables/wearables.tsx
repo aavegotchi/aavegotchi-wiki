@@ -77,7 +77,7 @@ export const tables
                 data: [
                     [`<img src="/wearables/ethereum/ETH LOGO GLASSES.svg" alt = "aavegotchi ETH Logo Glasses" />`, "36", "ETH Logo Glasses", "Common", "BRN -1", "1000", "eyes"],
 					[`<img src="/wearables/ethereum/ETH TSHIRT.svg" alt = "aavegotchi ETH T-Shirt" />`, "37", "ETH TShirt", "Common", "BRN -1", "1000", "body"],
-					[`<img src="/wearables/ethereum/32 ETH COIN.svg" alt = "aavegotchi 32 ETH Coin" />`, "38", "32 ETH Coin", "Common", "BRN -1", "1000", "handLeft"],
+					[`<img src="/wearables/ethereum/32 ETH COIN.svg" alt = "aavegotchi 32 ETH Coin" />`, "38", "32 ETH Coin", "Common", "BRN -1", "1000", "right hand"],
 					[`<img src="/wearables/ethereum/FOXY MASK.svg" alt = "aavegotchi Foxy Mask" />`, "39", "Foxy Mask", "Uncommon", "AGG -2", "500", "head"],
 					[`<img src="/wearables/ethereum/FOXY TAIL.svg" alt = "aavegotchi Foxy Tail" />`, "40", "Foxy Tail", "Uncommon", "AGG -1, SPK -1", "500", "petBack"],
 					[`<img src="/wearables/ethereum/TREZOR WALLET.svg" alt = "aavegotchi Trezor Wallet" />`, "41", "Trezor Wallet", "Uncommon", "NRG -1, AGG -1", "500", "hands"],
@@ -515,7 +515,7 @@ export const tables
 					[`<img src="/wearables/partnerships/251_CoinGeckoCandies.svg" alt = "aavegotchi Candy Jaar"/>`, "251", "Candy Jaar", "Rare", "SPK -1, BRN -2", "250", "hands"],
 					[`<img src="/wearables/partnerships/252_AastronautHelmet.svg" alt = "aavegotchi Aastronaut Helmet"/>`, "252", "Aastronaut Helmet", "Common", "SPK +1", "1000", "head"],
 					[`<img src="/wearables/partnerships/253_AastronautSuit.svg" alt = "aavegotchi Aastronaut Suit"/>`, "253", "Aastronaut Suit", "Common", "SPK +1", "1000", "body"],
-					[`<img src="/wearables/partnerships/254_uGOTCHIToken.svg" alt = "aavegotchi uGOTCHI Token"/>`, "254", "uGOTCHI Token", "Common", "SPK +1", "1000", "hands"],
+					[`<img src="/wearables/partnerships/254_uGOTCHIToken.svg" alt = "aavegotchi uGOTCHI Token"/>`, "254", "uGOTCHI Token", "Common", "SPK +1", "1000", "right hand"],
 					[`<img src="/wearables/partnerships/255_LilBubbleHelmet.svg" alt = "aavegotchi Space Helmet"/>`, "255", "Space Helmet", "Legendary", "NRG +2, AGG -2", "100", "head"],
 					[`<img src="/wearables/partnerships/256_LilBubbleSpaceSuit.svg" alt = "aavegotchi Lil Bubble Space Suit"/>`, "256", "Lil Bubble Space Suit", "Legendary", "NRG +2, AGG -2", "100", "body"],
 					[`<img src="/wearables/partnerships/257_BitcoinGuitar.svg" alt = "aavegotchi Bitcoin Guitar"/>`, "257", "Bitcoin Guitar", "Legendary", "NRG +4", "100", "hands"],
