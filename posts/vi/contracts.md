@@ -28,7 +28,7 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 
 * Địa chỉ DAO: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
 
-* Aavegotchi Address: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
+* Địa chỉ Aavegotchi: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
 
 ## Địa chỉ hợp đồng trên Polygon
 
