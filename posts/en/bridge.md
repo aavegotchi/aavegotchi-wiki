@@ -30,6 +30,7 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
+<p><a href=#binance>Binance</a></p>
 </ol>
 
 </div>
@@ -134,3 +135,11 @@ Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to 
 3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
 
 <img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon">
+
+### Binance
+
+Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+
+At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+
+<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon">
