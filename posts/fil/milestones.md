@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
+* FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
+* Read all about their tokenomics here!
+<p></p>
+
 ## [Ex-World of Warcraft Game Designer joins Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
 * David Fried, a senior game industry veteran who previously worked on World of Warcraft, Diablo II, and Warcraft 3, has joined Pixelcraft Studios as Senior Engineer Game Advisor (SEGA!)!
 <p></p>
