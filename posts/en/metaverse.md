@@ -117,6 +117,10 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Gotchus Alchemica">
 
+The table below shows their total supply:
+
+table_gotchusAlchemicaSupply
+
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Alchemical Channeling**: Aavegotchis can channel their energy directly into the REALM Parcel, exchanging their [Kinship](/traits#kinship) for a helping of Alchemica.
@@ -125,6 +129,24 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+
+The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
+
+<img class="bodyImage" src="/metaverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel">
+
+25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
+
+Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
+
+During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
+
+* 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
+
+* 40% to the Summoners, who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+
+* 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+
+<img class="bodyImage" src="/metaverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to">
 
 ## Building on REALM parcels
 

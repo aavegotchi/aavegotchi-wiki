@@ -12,6 +12,20 @@ interface TableData {
 
 export const tables
     = [
+	    {
+            tableName: "gotchusAlchemicaSupply",
+            tableCaption: "",
+            tableData: {
+                headers: ["Token", "Total Supply"],
+                data: [
+                    [`FUD`, `100,000,000,000`],
+					[`FOMO`, `50,000,000,000`],
+					[`ALPHA`, `25,000,000,000`],
+					[`KEK`, `10,000,000,000`]
+				]
+            }
+        },
+		
         {
             tableName: "installations",
             tableCaption: "",
