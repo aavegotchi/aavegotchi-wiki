@@ -26,6 +26,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#rarible>Rarible</a></p>
+<p><a href=#yield-guild-games>Yield Guild Games</a></p>
 </ol>
 
 </div>
@@ -138,3 +139,12 @@ GBM™ is a proprietary auction system where bidders make money when they are ou
 </div>
 
 The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
+
+### Yield Guild Games
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/yield-guild-games.jpg" alt = "Yield Guild Games">
+<p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
+</div>
+
+Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse. 
