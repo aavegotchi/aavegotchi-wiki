@@ -212,152 +212,158 @@ Aavegotchi Haunt 1 sử dụng maToken làm Linh Lực.
 
 Từ Haunt 2 trở đi, amToken là Linh Lực của Aavegotchi.
 
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+
+* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+
+* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+
 ### Tại sao mình không thể swap cặp maLINK/maUNI trên Quickswap được?
-QuickSwap đang có lỗi trong quá trình định tuyến đối với một số maToken ví dụ như maUNI và maLINK. Bạn cần phải tự swap sang maUSDC trước và sau đó swap tiếp thành những maToken mà bạn cần.
+QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
-**Không hoạt động**: ETH/USDC -> maUNI/maLINK
+**Doesn't work**: ETH/USDC -> maUNI/maLINK
 
-**Vẫn hoạt động bình thường**: maUSDC -> maUNI/maLINK
+**Works**: maUSDC -> maUNI/maLINK
 
 ### Aavegotchi sẽ được tích hợp trên OpenSea hay không?
-Aavegotchi tương thích hoàn toàn với OpenSea (và những chợ thứ cấp khác) trên Ethereum Mainnet. Việc khó khăn ở đây chính là OpenSea trên Polygon. Khi ai đó đăng bán Gotchi trên Baazaar, trang phụ của chúng cũng sẽ được niêm yết chung với chúng. OpenSea Polygon không hỗ trợ cơ chế này. Do đó, người bán Gotchi trên OpenSea Polygon có thể rút trang phục của Gotchi khi đến tay người mua. Để bảo vệ người mua, Pixelcraft đã cho OpenSea biết rằng họ sẽ không đăng bán dự án của mình trên Polygon.
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
-Tương tự như vậy, có một vài bất cập trong việc đăng bán trang phục trên OpenSea Polygon. Do cách viết hợp đồng thông minh của OpenSea Polygon, họ gặp phải nhiều khó khăn trong việc hỗ trợ các trang phục chuẩn ERC-1155. Vấn đề nằm ở địa chỉ ví lưu giữ cả ERC-721 (Gotchi) và ERC-1155 (trang phục). Nền tảng của họ không được cài đặt để lưu giữ cả hai trên cùng một hợp đồng.
+Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
 ### Mình có thể xem Aavegotchi Litepaper ở đâu?
 
-Có 2 Aavegotchi Litepaper: (1) Litepaper Gốc tóm tắt lại những ý chính trong dự án Aavegotchi, và (2) Litepaper mới nhất giới thiệu về Gotchiverse và REALM, những mẫu đất trong Gotchiverse.
+There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
 
-Bạn cso thể xem ở đây:
+They can be found here:
 
-* [Litepaper gốc](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
+* [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
 ## Những câu hỏi về Bonding Curve
 
 ### Mình đã mua GHST rồi nhưng mà tìm trong ví không thấy
-Sau khi mua GHST trên bonding curve, bạn cần phải thực hiện thêm một giao dịch nữa đển nhận GHST về ví. Vui lòng xem ảnh chụp màn hình phía dưới để lấy ví dụ. Người dùng cần phải nhấp vào nút "CLAIM ORDER" để token GHST có thể hiện lên trong ví của mình.
+After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Ai đó có thể vượt mặt bonding curve hay không?
-Không nha. Khi bạn mua/bán token GHST trên bonding curve, những giao dịch được gộp lại với những giao dịch khác trước khi được gửi đi đến hợp đồng thông minh. Họ không thể mau được giá thấp hơn với phí gas cao hơn nhằm vượt mặt đợt mua hàng của bạn được.
+Không nha. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## Những Câu Hỏi Về FRENS
 
 ### Mình có thể mua FRENS được không?
-Không nha. FRENS là cách mà chúng tôi tặng thưởng cho những thành viên đã stake GHST.
+Không nha. FRENS are a way to reward our community members who staked GHST.
 
 ### FRENS có được dùng để mua gì khác ngoài raffle hay không?
 
-Không được, cách duy nhất để có FRENS chính là tham gia vào sự kiện raffle của Aavegotchi. Phần còn lại của hệ sinh thái Aavegotchi sẽ được vận hành bởi GHST.
+No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 ### Sau khi game được ra mắt trên Mainnet thì team sẽ xử lý như thế nào?
-Số dư FRENS của bạn sẽ được tự động chuyển lên Matic. FRENS trên Mainnet sẽ không có giá trị.
+Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
 ### Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày?
-Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter. com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
+Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
 ## Những câu hỏi về Raffle (Xổ số)
 
-Xem <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> để biết thêm thông tin chi tiết về raffles.
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
 ### Khi tôi mua ticket thì có nghĩa là tôi đang chơi sổ xố đúng không?
 
-Không nha! Xin lưu ý rằng việc chỉ mua vé bằng FRENS **sẽ không tự động giúp bạn chơi xổ số.** Bạn cần phải STAKE vé của mình trong vòng 72 giờ để mở raffle. Việc này sẽ cần đến hai giao dịch trên trang Raffle - **approve** vé của bạn, **và tham gia** vào xổ số. Nếu bạn đã yêu cầu thành công, bạn sẽ nhận được số trên vé để có thể tham gia vào xổ số ở trang Stats.
+Không nha! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Những phụ kiện có được từ việc chơi raffle sẽ được bán trong cửa hàng Aavegotchi chứ?
 
-Không nha. Những phụ kiện này sẽ chỉ được xuất hiện trong sự kiện xổ số trước khi game khởi chạy.
+Không nha. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Có loại trang bị khủng nào trong raffle hay không?
 
-Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https://wiki.aavegotchi.com/wearables"> sức mạnh </a> cho các Aavegotchi giống như bất kỳ loại trang bị cùng độ hiếm nào khác (ví dụ như rare, mythical, v.v.).  Trên [Baazaar](/baazaar), dù chúng có giá bán lại cao hơn bởi **trạng thái trước khi bán** hoặc **liên kết với sư kiện hoặc cá nhân nào đó ** thì chúng sẽ được định giá theo nhu cầu thị trường.
+As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
 ### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
-Vé Raffle được dự trên tiêu chuẩn ERC-1155. Chúng có thể được chuyển thông qua trang [Tickets](https://aavegotchi.com/tickets) trên Aavegotchi DApp. Dưới bộ sưu tập vé mà bạn có sẽ có nút Transfer (xem ảnh chụp màn hình phía dưới). Nhấp vào nút đó để chuyển những vé thuộc loại vé nào đó.
+Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-Sau đó bạn sẽ được chuyển đến một trang đặc thù và bạn sẽ có thể thêm địa chỉ người nhận của như số vé mà bạn cần chuyển (Xem ảnh chụp màn hình phía dưới). Một khi bạn đã nhập thông tin và và xác nhận đúng thông tin, hãy nhấp vào nút Transer.
+You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
-Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
+Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
 ## Hỏi Đáp về Đấu Giá
 
 ### Mình có thể kiếm khoảng bao nhiêu?
-Mỗi phiên đấu giá GBM có thể được cấu hình thu nhập tối đa trước. Với phiên đấu giá Trang phục này, bọn mình đã chọn lại cài đặt của Cryptographs - tối thiểu 1% và tối đa 10%. Điều này có nghĩa là số lượng tối đa mà bạn có thể kiếm được khi bị vượt mặt là 10% số tiền đã bỏ ra!
+Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
 
-Ví dụ, nếu bạn đặt giá là 2k GHST, số tiền tối đa mà bạn kiếm được khi bị vượt mặt trong phiên đấu giá là 200 GHST. Các phiên đấu giá sẽ này sẽ thử nghiệm những cấu hình khác nhau để giữ cho nó luôn thú vị!
+For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
 
 ### Mình có thể tự vượt mặt mình hay không?
-Vâng, không có gì sai nếu bạn tự vượt mặt chính mình. Chỉ cần không trả giá quá cao là được!
+Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
 
 ### Liệu con số tối thiểu 10% có tăng lên không?
-"Bước giá" tối thiểu được tính toán cẩn thận bởi các chuyên gia lý thuyết về game tại GBM để đảm bảo phiêu đấu giá sẽ được trả đủ tiền dù cho nhận được bao nhiêu lượt đặt giá. Nếu không có lượng tăng tối thiểu, các vật phẩm đấu giá có nguy cơ trở nên thấp giá trị.
+This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
 
 ### Có mức đặt giá tối thiểu không?
-Không có lệnh đặt giá tối thiểu cho buổi đấu giá. Bạn có thể đặt giá 1 GHST nếu bạn muốn! Nhưng hãy nhớ rằng, bạn đặt giá càng cao thì sẽ càng kiếm được nhiều nếu bị vượt mặt.
+There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
 
 ### Điều gì giúp ngăn bot mua hết vật phẩm?
-Trong một sự kiện mở bán NFT phục vụ theo thứ tự, một đoạn mã thư động có thể lắng nghe các sự kiện trên blockchain và trở thành nhân tố đầu tiên mua một vật phẩm khi nó xuất hiện trên blockchain.
+In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
 
-Lợi thế về tốc độ sẽ được giải quyết bằng hệ thống đấu giá - bot sẽ KHÔNG thể có được NFT với Đấu Giá Aavegotchi!
+This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
 
 ### Điều gì giúp năng bot giành suất mua khi sự kiện đấu giá sắp kết thúc?
-Nếu một lệnh được đặt ra trong vòng năm phút kể từ phiên đấu giá, "thời gian gõ búa" sẽ được tăng lên năm phút. Điều này giúp ngăn bot ks phút chót một cách hiệu quản bởi chúng sẽ bị vượt mặt.
+If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
 
 ### Tôi có thể nhận giải bằng cách nào?  How do I claim my prize?
-Nếu bạn là người đặt giá cao nhất trong buổi đấu giá, bạn sẽ thấy nút "Claim NFT" xuất hiện trong trang My Bids, cho phép bạn nhận NFT trực tiếp tới ví của mình!
+If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
 
 ## Hỏi Đáp Về Trang Phục
 
 ### Mình có cần chuyển voucher của trang phục sang Polygon hay không?
-Không nha. Voucher wearables dù đã nhận hay không nhận đều sẽ được tự động chuyển sang Matic Network khi Aavegotchi triển khai.
+Không nha. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ### Các trang phục có bị giới hạn về số lượng hay không?
-Đúng vậy. Mỗi món trang phục đều có số lượng giới hạn. Bạn có thể xem qua số lượng của chúng tại [trang Wearables](/wearables).
+Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
 
-Với những trang phục được mua từ Maall, một khi chúng đã được bán hết rồi thì sẽ không xuất hiện trong Maall lần nữa. Bạn chỉ có thể mua từ những người sỡ hữu những món wearable ấy.
+For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
 ### Mình đã tháo trang bị khỏi Aavegotchi và không thể tìm lại chúng trong túi đồ
-Mỗi Aavegotchi sẽ có túi đồ riêng được gọi là [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). Khi bạn tháo trang bị từ Aavegotchi, những trang bị này sẽ được gửi đến túi đồ riêng của Aavegotchi đó.
+Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
 
-Bạn (người chủ) cũng sẽ có túi đồ cho riêng mình. Nhiều lúc, bạn sẽ không tìm thấy được những trang bị đã được tháo ra trong túi đồ của mình.
+You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
-Tại mỗi [trang Aavegotchi's Profile](/aavegotchi-profile), sẽ có nút "Pocket" ở phía góc phải của màn hình. Nhấp vào đó và sau đó chuyển trang phục tháo ra từ túi đồ của Aavegotchi về túi đồ của bạn.
+At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
 ### Tại sao trang Trang Phục lại mất đi số ID?
-Chúng không phải là trang phục (IDs 162-198, 210). Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1.
+These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
 
 ## Hỏi Đáp về Portal
 
 ### Có thể mua được bao nhiêu portal chỉ trong một giao dịch?
-Mỗi người chơi mua được tổng cộng 50 portal trong 1 giao dịch. Điều này giúp ngăn chặn việc cá voi độc quyền sở hữu một số lượng portal lớn.
+Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
 ### Nếu mình mở một portal nhưng không có aToken mà bạn cần để nhận gotchi thì mình có thể nhận lại sau đó hay không?
-Có chứ, bạn có thể rồi giao diện portal, gom góp aToken, và trở lại để triệu hồi bé Gotchi. Bạn không cần phải chuẩn bị aToken trước.
+Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ### Khi nào thì Portal sẽ được mở bán?
-Portal sẽ được mở bán trên Matic vào đầu tháng Hai.
+Portals will be released on Polygon at February.
 
 ## Hỏi Đáp về AavegotchiDAO
 
 ### Làm cách nào để có thể Vote trên Aragon bằng Trust Wallet?
-Hiện tại, Aragon vẫn chưa được tích hợp với Trust Wallet. Giải pháp thay thế trong thời điểm hiện tại là xuất private key từ ví Trust của bạn vào MetaMask. Một khi đã cài xong tài khoản trên MetaMask, bạn sẽ có thể vote trên Aragon.
+As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
 
-Xem[bài viết này](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) để có thêm thông tin về cách làm này.
+See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
 ### Tại sao khi vote trên Snapshot thì nó lại hiện lên lỗi 'wrong timestamp'?
-Bạn sẽ gặp phải lỗi này khi thiết bị/máy tính của bạn không trùng thời gian với thời gian của Snapshot. Chỉnh thời gian trên máy tính sang chế độ tự động và nó sẽ thự điều chỉnh để trùng với mốc thời gian trên Snapshot.
+This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
 ### Tại sao lại chọn túc số 20% cho bản đề xuất?
 A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
@@ -397,11 +403,11 @@ No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does
 
 ### Mình có cần phải điền báo cáo hàng tháng về Aambassador hay không?
 
-Bạn không cần. Chương trình này được thiết kế để bạn có thể bớt tập trung vào công việc admin và tập trung nhiều hơn vào việc xây dựng **#GotchiGang** của mình.
+No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
 ### Mình nên xây dựng #Gotchigang lớn đến mức nào?
 
-Việc giữ cho **#GotchiGang** ở quy mô nhỏ và cụ thể thật ra sẽ tốt hơn. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
 Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
@@ -457,89 +463,89 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bri
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên blockchain của Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard[ tại đây](/glossary#diamond-standard).
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
-<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và [Arkane wallet](https://arkane.network/apps) - sẽ sớm được tích hợp với Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-Với các thiết bị Android, bạn có thể dùng trình duyệt của ứng dụng MetaMask.
+For android devices, using the Metamask app with the in-built browser is a good choice.
 
 ### Aavegotchi sẽ chạy trên Layer 2 chứ?
 
-Yes! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
+Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Mình có cần di chuyển token Aave hay không?
 
-Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
+Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
 ### Mình có thể chuyển sang Matic bằng cách nào?
-Xem thêm tại [Matic Migration Guide](/polygon).
+Check out our [Polygon Migration Guide](/polygon).
 
 ### Mình có ví ledger / trezor, mình cần phải làm gì?
-Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
+You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
 ### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
 
-Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
 
-Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
+After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
 ### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 ### Tại sao MetaMask lại không để mình thêm ký hiệu token?
 
-MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 ký tự. Bạn có thể đổi ký hiệu lại ngắn hơn một chút là được. Thay đổi ký hiệu sẽ không ảnh hưởng đến token của bạn, nó chỉ ảnh hưởng đến dữ liệu hiển thị trên ví MetaMask.
+Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
-Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
+Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Giới hạn ký tự của token trên MetaMask" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
 ### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
 
-Mình đã rút token GHST (hoặc bất kỳ tài sản nào khác có cùng vấn đề) từ Polygon về lại Ethereum Mainnet bằng [Aavegotchi Bridge](https://aavegotchi.com/bridge). Đã vài tiếng trôi qua mà mình vẫn chưa nhận được tài sản trên Ethereum Mainnet nữa. Giờ mình phải làm sao đây?
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
-Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấy Block Number của giao dịch.
+First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
 
-Sau đó, thay thế phần [blockNumber] trong đường link đưới đây bằng số Block Number của bạn rồi truy cập vào đó:
+Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-Đường link để cho cho bạn biết trạng thái của giao dịch rút tiền mà bạn đang chờ.
+That URL will indicate the status of your withdrawal transaction.
 
-Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì hãy kiên nhẫn chờ đợi nhé. Nhiều bạn phải đợi đến 6 tiếng tiền mới về tài khoản.
+If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
 
-Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
+If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
 ### Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?
 
-Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
+For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
 ### Mình phải làm sao để tìm được Token ID của Gotchi?
 
-Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Một khi bạn đã có được Gotchi ID, bạn có thể liên kết Gotchi với tên người dùng của Discord bằng cách dùng dòng lên sau:
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Hãy nhớ chú ý rằng nếu bạn có từ 1 Gotchi trở lên thì bạn sẽ phải lập lại quá trình này nhiều lần.
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
 ### Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào nút Pocket và Gotchi Pocket sẽ xuất hiện. Sẽ có một nút "View.". Nhấp vào đó và bạn sẽ được dẫn đến một Địa Chỉ Hợp Đồng Thông Minh riêng của Gotchi. Đâu là một hợp đồng lưu trữ mà chủ nhân của Gotchi có thể tương tác với nó.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
-Hãy lưu ý rằng mỗi Gotchi sẽ có riêng cho mình một Địa Chỉ Hợp Đồng Thông Minh.
+Do note that each Gotchi will have its own Smart Contract Address.
 
-<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
