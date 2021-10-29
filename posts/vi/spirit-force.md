@@ -35,6 +35,7 @@ Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotc
 <li><a href=#cryptocurrencies>Tiền mã hoá</a></li>
 <li><a href=#getting-atokens>Sở hữu aToken</a></li>
 <li><a href=#converting-atokens-into-matokens>Chuyển đổi aToken thành maToken</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 </ol>
 
 </div>
@@ -84,3 +85,11 @@ Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được 
 Có aToken rồi đúng hem? Hay lắm!
 
 Giờ chuyển sang trang[maTokens](/matokens) page để đi đến Bước 2 nhé!
+
+## Differences between maTokens and amTokens
+
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+
+* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+
+* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
