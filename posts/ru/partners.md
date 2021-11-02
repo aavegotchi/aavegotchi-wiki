@@ -25,9 +25,11 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#cometh>Cometh</a></p>
 <p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
+<p><a href=#venly>Venly</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
+<p><a href=#blackpool>BlackPool</a></p>
 </ol>
 
 </div>
@@ -123,6 +125,15 @@ DinoSwap benefits from velociraptor fast and prehistorically cheap transaction c
 
 Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
 
+### Venly
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/venly.jpg" alt = "Venly">
+<p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
+</div>
+
+Wallet & NFT products that seamlessly integrate with your blockchain project.
+
 ### GBM Auction
 
 <div class="leftImageContainer">
@@ -148,4 +159,19 @@ The first community-owned NFT marketplace. Create, sell or collect digital items
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse. 
+Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
+
+### BlackPool
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/blackpool.jpg" alt = "BlackPool">
+<p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
+</div>
+
+BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+
+BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
+
+We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
+
+BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
