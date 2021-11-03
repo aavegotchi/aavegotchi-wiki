@@ -15,8 +15,9 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi 任务8表情包大赛获奖名单</a></li>
-<li><a href=#halloween-costume-contest>万圣节装扮竞赛</a></li>
+<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi 任务9原创内容大赛</a></li>
+<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
 </ol>
 
 </div>
@@ -37,7 +38,7 @@ contributors:
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## 万圣节装扮竞赛
+## Halloween Costume Contest 2020
 
 10月30日星期五 (UTC 下午四点 / EST 中午12点 / SGT 晚12点)，鬼怪们 *（字面意思奥）* 纷纷出动啦～～ 小伙伴们穿成 Aavegotchi 的样子 <s>步行</s> 漂浮。 社区小伙伴们给他们最喜欢的作品投票，哈哈，一起来看看
 
@@ -78,3 +79,23 @@ Aavegotchi 成员突破了1000这个历史新高！ 你不再是普通的小伙�
 #### <span style="color:#cd7f32">第三名：Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide]，作者Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
+
+## Halloween Costume Contest 2021
+
+On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+
+The competition was fierce, with nearly 100 unique costumes submitted!
+
+The top 3 costumes won 100, 50, and 25 GHST, respectively.
+
+### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+
+<img class="bodyImage" src="/contests/lickweendator.jpg" />
+
+### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+
+<img class="bodyImage" src="/contests/jason-boorhees.png" />
+
+### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+
+<img class="bodyImage" src="/contests/genie-gotchi.png" />
