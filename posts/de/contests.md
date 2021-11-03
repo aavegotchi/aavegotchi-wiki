@@ -15,8 +15,9 @@ Hey Aavegotchi Fam! Von Zeit zu Zeit werden wir verschiedene Aavegotchi-Wettbewe
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Sieger des Aavegotchi Meme Wettbewerbs für Mission 8</a></li>
-<li><a href=#halloween-costume-contest>Halloween Kostümwettbewerb</a></li>
+<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content-Wettbewerb</a></li>
+<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
 </ol>
 
 </div>
@@ -37,7 +38,7 @@ In der [Aavegotchi Mission 8](/missions) haben die Aagenten die Aufgabe, das bes
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Kostümwettbewerb
+## Halloween Costume Contest 2020
 
 Am Freitag, dem 30. Oktober (16:00 UTC / 12:00 EST / 00:00 SGT), versammelten sich die Geister *wortwörtlich* zu einem Umzug (Wortspiel beabsichtigt :P). Die Agenten konnten ein Aavegotchi verkleiden, das sich später auf der Bühne mit den anderen abwechselte. Die Community hat ihre Favoriten mit Upvotes gewählt.
 
@@ -78,3 +79,23 @@ Aavegotchi-Aagenten haben das Allzeithoch von 1'000 geknackt! Ihr seid nicht lä
 #### <span style="color:#cd7f32">3. Platz: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] von Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
+
+## Halloween Costume Contest 2021
+
+On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+
+The competition was fierce, with nearly 100 unique costumes submitted!
+
+The top 3 costumes won 100, 50, and 25 GHST, respectively.
+
+### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+
+<img class="bodyImage" src="/contests/lickweendator.jpg" />
+
+### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+
+<img class="bodyImage" src="/contests/jason-boorhees.png" />
+
+### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+
+<img class="bodyImage" src="/contests/genie-gotchi.png" />
