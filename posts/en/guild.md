@@ -27,4 +27,4 @@ table_guild
 
 Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333
 
-<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guild Map">
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map">
