@@ -15,6 +15,7 @@ Lối chơi trong REALM sẽ sớm được trình làng! Sẽ có nhiều hoạ
 
 <ol>
 <li><a href=#guilds>Guilds</a></li>
+<li><a href=#guild-map>Guild Map</a></li>
 </ol>
 
 </div>
@@ -22,3 +23,9 @@ Lối chơi trong REALM sẽ sớm được trình làng! Sẽ có nhiều hoạ
 ## Guilds
 
 table_guild
+
+## Guild Map
+
+Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333
+
+<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guild Map" />
