@@ -160,6 +160,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip13",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, implement aging incentives", "12,890,000 GHST (94.25%)"],
+					["No, do not implement right now", "786,940 GHST (5.75%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
