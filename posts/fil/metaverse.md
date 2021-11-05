@@ -26,6 +26,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 <ol>
 <li><a href=#zones>Zones</a></li>
+<li><a href=#districts>Districts</a></li>
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
@@ -71,6 +72,14 @@ Lickquidators dare not enter into the Aarena, instead opting to frequent the Pha
 ### The Beyond
 
 Locked Parcels that will not be unlocked until the beginning of Act 2.
+
+## Districts
+
+Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+
+Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
+
+<img src="/metaverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
 
 ## REALM Parcel Sizes
 
