@@ -26,12 +26,13 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 <ol>
 <li><a href=#zones>Зонирование.</a></li>
-<li><a href=#realm-parcel-sizes>Размеры участков во вселенной.</a></li>
-<li><a href=#realm-gameplay>Геймплей игрового проекта.</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Социализация в Готчиверсии.</a></li>
+<li><a href=#districts>Districts</a></li>
+<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
+<li><a href=#realm-gameplay>REALM Gameplay</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
 <li><a href=#gotchus-alchemica>Алхимия Готчи.</a></li>
-<li><a href=#building-on-realm-parcels>Строительство на участках во вселенной.</a></li>
-<li><a href=#realm-tokenomics>Готчи Токеномика.</a></li>
+<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
+<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Общее предложение.</a></p>
 <p><a href=#distribution>Распространение.</a></p>
 <p><a href=#drop-tickets>Дроп билетов.</a></p>
@@ -72,50 +73,58 @@ Lickquidators dare not enter into the Aarena, instead opting to frequent the Pha
 
 Заблокированные участки, которые будут разблокированы во время 2 этапа.
 
-## Размеры участков во вселенной
+## Districts
 
-В игре присутствуют земельные участки трех размеров. По мере их возрастания увеличивается место для строительства и добычи Алхимии Готчей:
+Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+
+Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
+
+<img src="/metaverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
+
+## REALM Parcel Sizes
+
+Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
 * Маленький: небольшой запас алхимических ингредиентов и пространства для застройки.
 * Средний: больше ископаемых и места для ваших задумок.
 * Большой: огромные запасы алхимии и много места для строительства.
 
-* Показатели алхимии и места выбираются рандомно генератором случайных чисел [Chainlink VRF](/glossary#chainlink-vrf) при покупке.
+*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
 
 <img class="bodyImage" src="/metaverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
-## Геймплей игрового проекта
+## REALM Gameplay
 
 <div class="headerImageContainer">
 <img src="/metaverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
 <p class="headerImageText">Lickquidator</p>
 </div>
 
-Владельцы земельных участков в Метавселенной могут использовать своих и чужих Готчи для добычи полезных ископаемых, называемых Алхимией Готчи. Они нужны для создания наступательных [установок](/metaverse#building-on-realm-parcels).
+Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/metaverse#building-on-realm-parcels).
 
-Готчиверсия является открытой социальной системой, жители которой могут заниматься бесчисленным числом действий — фармить, крафтить, торговать и даже сражаться.
+The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
 
 Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. Кредиты также есть в продаже за [GHST](/ghst).
+Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
 
 The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
 
 Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
-## Социализация в Готчиверсии
+## Socializing in the Gotchiverse
 
-Готчи обожают коллективную работу и общение, и с удовольствием проводят время в Готчиверсии!
+Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
-Текстовый чат для общения активирован у всех персов по умолчанию, и появляется как только кто-то появится поблизости. Владельцы участков могут также создавать установки для активации голосовых чатов на участке, а также способствовать поддержке глобального голосового чата.
+By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. При желании, всегда можно выйти в Эдвенчер (Aadventures) — регионы за пределами сетки Готчиверсии, где Готчи, используя свои [статы](/traits) и [экипировку](/wearables), могут исследовать мир, сражаться с NPC, получая ресурсы и очки опыта. Однако эти зоны нестабильны и постоянно меняются.
+Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [stats](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
 
 <img class="bodyImage" src="/metaverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
-## Алхимия Готчи
+## Алхимия Готчи.
 
-Полезные ископаемые (**Gotchus Alchemica**) — это токены стандарта ERC20, которых в игре четыре: Фуд, Фомо, Альфа и Кек. Они комбинируются между собой для создания установок и арт-объектов.
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
 
 <img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Алхимия Готчи." />
 
@@ -150,7 +159,7 @@ During the crafting process, a small portion of Alchemica (5%) is burned forever
 
 <img class="bodyImage" src="/metaverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
 
-## Строительство на участках во вселенной
+## Building on REALM parcels
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
@@ -162,7 +171,7 @@ Installations take a certain number of blockchain blocks to finish constructing,
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
-## Токеномика Готчи
+## REALM Tokenomics
 
 ### Эмиссия (общее предложение) земель
 
