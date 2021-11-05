@@ -23,7 +23,7 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 <li><a href=#raffle-3>Raffle 3</a></li>
 <li><a href=#raffle-4>Raffle 4</a></li>
 <li><a href=#raffle-5>Raffle 5</a></li>
-<li><a href=#chart>Chart</a></li>
+<li><a href=#chart>Biểu đồ</a></li>
 </ol>
 
 </div>
@@ -43,8 +43,8 @@ table_raffle4
 ## Raffle 5
 table_raffle5
 
-## Chart
+## Biểu đồ
 
-What are your chances (in percentage) to win a wearable using 1 ticket in past raffles? Check out the chart below.
+Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />

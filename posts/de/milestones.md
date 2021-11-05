@@ -7,6 +7,20 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
+* FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
+* Read all about their tokenomics here!
+<p></p>
+
+## [Ex-World of Warcraft Game Designer joins Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
+* David Fried, a senior game industry veteran who previously worked on World of Warcraft, Diablo II, and Warcraft 3, has joined Pixelcraft Studios as Senior Engineer Game Advisor (SEGA!)!
+<p></p>
+
+## [Are you ready? Aavegotchi Land Sale #1 coming up this Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* The very first Aavegotchi Land Sale is starting on Thursday, October 28 using the GBM Auction format
+* Get your GHST ready to bid bid bid!
+<p></p>
+
 ## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 * Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
 * Season 2 begins Tuesday, 12 October 2021

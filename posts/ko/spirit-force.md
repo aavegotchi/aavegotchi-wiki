@@ -35,6 +35,7 @@ Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on
 <li><a href=#cryptocurrencies>암호화폐</a></li>
 <li><a href=#getting-atokens>aToken 획득하기</a></li>
 <li><a href=#converting-atokens-into-matokens>aToken을 maToken으로 전환하기</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 </ol>
 
 </div>
@@ -84,3 +85,11 @@ As soon as your deposit transaction goes through, you benefit from the deposit i
 Got your aTokens? Good!
 
 Let's head over to the [maTokens](/matokens) page for Step 2!
+
+## Differences between maTokens and amTokens
+
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+
+* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+
+* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.

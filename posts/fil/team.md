@@ -33,6 +33,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#shohan>Shohan</a></li>
+<li><a href=#designerdave>DesignerDave</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -150,6 +151,15 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 </div>
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+
+## DesignerDave
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
+<p class="leftImageText"><a href="https://twitter.com/davidkfried">DesignerDave</a></p>
+</div>
+
+“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
 
 ## Origins
 

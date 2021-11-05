@@ -86,6 +86,10 @@ The entire process of staking GHST and winning prizes can be illustrated using t
 
 <img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
 
+* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+
+<img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
+
 ## Past Raffles Statistics
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
