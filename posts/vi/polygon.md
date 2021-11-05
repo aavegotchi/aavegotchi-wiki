@@ -22,7 +22,7 @@ Chuyển nhà đến Polygon là một lựa chọn đúng đắn. [Nick](/team#
 <ol>
 <li><a href=#why-polygon->Tại sao lại dùng Polygon?</a></li>
 <li><a href=#adding-polygon-to-your-metamask>Thêm Polygon vào Metamask</a></li>
-<li><a href=#matic-faucet>Matic Faucet</a></li>
+<li><a href=#matic-faucet>Matic Wallet</a></li>
 </ol>
 
 </div>
@@ -63,14 +63,14 @@ Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 
 4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! Giờ bạn có thể chuyển đổi qua lại giữa Ethereum Mainnet và Polygon bằng cách nhấp vào nút vừa nhắc trong bước 1.
 
-## Matic Faucet
+## Matic Wallet
 
-You need MATIC tokens to transact on Polygon.
+Bạn cần có token MATIC để giao dịch trên Polygon.
 
-Here are some MATIC faucets that will give you some free MATIC to do transactions:
+Đây là danh sách một số faucet MATIC giúp bạn nhận MATIC miễn phí để giao dịch:
 
 * [Matic Supply](https://matic.supply/)
 
 * [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-If the faucets do not work, drop in to the Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6) and head over to the #matic-requests channel and some of our frenly frens will provide you with some MATIC.
+Nếu faucet không hoạt động, hãy vào Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6)và đi vào kênh #matic-requests để nhận được MATIC từ những người bạn khác nhé.

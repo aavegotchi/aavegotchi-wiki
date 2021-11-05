@@ -119,40 +119,62 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Алхимия Готчи." />
 
-Добыча ресурсов ведется на участках в Готчиверсии четырьмя различными способами:
+The table below shows their total supply:
+
+table_gotchusAlchemicaSupply
+
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Алхимический ченнелинг:** Готчи в одиночку могут направлять свою энергию на добычу алхимии, используя очки [лояльности](/traits#kinship) (сродства) к геймеру.
 * **Коллективный ченнелинг:** Метод добычи ресурсов, когда Готчи объединяют свои усилия, а на участке имеется соответствующая установка (комбайн). Участие в коллективном ченнелинге допускается для Готчи, состоящих в Гильдии, имеющих соответствующий знак, и присутствующих на участке во время коллективной добычи ископаемых. Чем больше Готчи, тем быстрей идет добыча ресурсов.
 * **Фарминг**. Как только на участке появится Комбайн, ресурсы алхимии начнут накапливаться, и постоянно определенное их количество (**Х**) будет поступать в хранилище, (**Y**) количество будет перетекать на соседние участки, а (<0>Z</0>) попадать в Великий портал.
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
-Торговля ресурсами будет проходить на бирже [Gotchus Alchemica (GAX)](/gotchus-alchemica-exchange).
+Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+
+The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
+
+<img class="bodyImage" src="/metaverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
+
+25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
+
+Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
+
+During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
+
+* 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
+
+* 40% to the Summoners, who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+
+* 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+
+<img class="bodyImage" src="/metaverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
 
 ## Строительство на участках во вселенной
 
-**Установки** — это конструкции, которые строят на земельных участках для разных целей. Их создают путем комбинации разных видов ресурсов, а при желании их всегда можно продать за GHST на [Базаре](/baazaar).
+**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
-Вот примерный список установок:
+Confirmed Installations include:
 
 table_installations
 
-Установка строится не за один блок блокчейна, а за несколько, но этот процесс можно ускорить, заплатив внутриигровой валютой GLMR (вознаграждение за майнинг ликвидности GAX), которая зарабатывается при предоставлении ликвидности на бирже Gotchus Alchemica Exchange (GAX).
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
-Арт-объекты — это эстетические NFT, которыми можно украшать свой участок, однако они не влияют на статы. Просто выглядят круто.
+**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
 ## Токеномика Готчи
 
 ### Эмиссия (общее предложение) земель
 
-Число участков составляет 420 069 штук. Во время первого этапа было разблокировано 155 069 участков, распределение которых будет идти 2 года. Вместе они составили Цитадель и Сетку. Остальные земельные участки сейчас находятся в неактивном состоянии в Пригороде (The Beyond). Спустя два года они будут разблокированы, чтобы у игроков появились новые возможности (Этап 2-3).
+The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
 
 ### Распределение
 
-Земли распределяются двумя путями:
+REALM Parcels will be distributed in two main ways:
 
-Метод 1: GBM Аукционы (80%)
+Method 1: Incentivized GBM Auctions (80%)
 
-Это необычные аукционы по запатентованной технологии с элементом стимулирования. Участники аукционов могут делать ставки на участки на карте Готчиверсии. Проигравшие в этом своеобразном соревновании также являются и победителями. Вместо участка они неплохо заработают за время аукциона, пополнив запасы GHST. Эта система аукционов существует с 2019 года, будучи разработанной и запатентованной создателями проекта Cryptographs. Они предоставили Pixelcraft Studios официальную лицензию на все NFT-дропы, включая второе поколение Готчи, земли и даже экипировку.
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Вместо участка они неплохо заработают за время аукциона, пополнив запасы GHST. Эта система аукционов существует с 2019 года, будучи разработанной и запатентованной создателями проекта Cryptographs. Они предоставили Pixelcraft Studios официальную лицензию на все NFT-дропы, включая второе поколение Готчи, земли и даже экипировку.
 
 Check out our [Aauction page](/aauction) for more information.
 
@@ -172,6 +194,6 @@ The secondary distribution method for REALM Parcels will be Chainlink VRF-powere
 
 There are three ways to get Drop Tickets:
 
-* Обмен 10 000 FRENS на один Дроп-билет.
-* Конвертация других билетов в Дроп-билеты.
-* Рефералка (приглашение друзей) для получения Дроп-билетов. 🔥
+* Convert 10,000 FRENS into one Drop Ticket
+* Convert other Raffle Tickets into a Drop Ticket
+* Refer your friends to earn Drop Tickets 🔥

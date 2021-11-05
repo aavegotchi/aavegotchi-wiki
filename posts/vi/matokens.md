@@ -21,51 +21,12 @@ Có nhiều cách để sở hữu maToken. Ở trang này, bạn sẽ biết th
 **Nội dung**
 
 <ol>
-<li><a href=#using-the-aavegotchi-bridge>Dùng Aavegotchi Bridge</a></li>
-<li><a href=#bridging-through-ascendex>Chuyển tiền thông qua AscendEX</a></li>
-<li><a href=#fiat-to-polygon-using-transak>Chuyển từ tiền pháp định sang Polygon bằng Transak</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Stake maToken vào Aavegotchi</a></li>
 <li><a href=#problems-while-staking-spirit-force>Vấn đề liên quan đến việc stake Spirit Force</a></li>
 <li><a href=#learn-more>Tìm hiểu thêm</a></li>
 </ol>
 
 </div>
-
-## Dùng Aavegotchi Bridge
-
-Bạn có thể dùng phương pháp này khi đang có aToken trên mạng Ethereum Mainnet và muốn chuyển sang Polygon để nhận maToken. Cách này sẽ tiêu hao ETH làm phí gas (có thể rất tốn kém).
-
-Đầu tiên, hãy truy cập vào [Bridge to Polygon](https://aavegotchi.com/bridge)trên Aavegotchi DApp.
-
-<img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
-
-Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token.
-
-<img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
-
-Sau khi chọn xong token, nhập vào lượng tài sản mà bạn muốn chuyển đến Polygon. Hãy lấy aUSDC là ví dụ, nhập số lượng token mà bạn muốn chuyển sang Polygon vào ô được đánh dấu màu đỏ.
-
-<img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
-
-Một khi bạn đã nhập số lượng token mà bạn muốn rồi thì hãy nhấn vào nút "Approve Transfer.". Đợi đến khi giao dịch được chấp thuận trên Ethereum.
-
-Sau khi hoàn thành giao dịch Approve, hãy nhấp vào nút "Transfer to Polygon". Đợi giao dịch hoàn thành trên Ethereum một lần nữa.
-
-Khi đã hoàn tất, hãy đợi khoảng chừng 10 phút, sau đó maToken sẽ hiện lên trong ví của bạn.
-
-Nếu bạn đang dùng MetaMask và muốn học cách cấu hình Polygon trên ví đó, hãy xem qua [Bài hướng dẫn về Polygon](/polygon) và thực hiện theo từng bước từng bước một.
-
-## Chuyển tiền thông qua AscendEX
-
-Cách thứ hai (và cũng ít tốn kém hơn) là chuyển tiền từ CEX (ví dụ như Binance) sang AscendEX. Từ AscendEX, tiền có thể được chuyển trực tiếp lên Polygon. Hãy xem bản inforgraphic dưới đây để biết cách làm nhé!
-
-<img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Dùng AscendEX để chơi Aavegotchi" />
-
-## Chuyển từ tiền pháp định sang Polygon bằng Transak
-
-Cách thứ ba là dùng tiền pháp định để mua tiền điển tử trên Polygon.
-
-Hãy xem qua [bài viết này](https://trasher.substack.com/p/buying-your-tokens-straight-into) từ thành viên trong cộng đồng bọn mình để biết thêm chi tiết.
 
 ## Stake maToken vào Aavegotchi
 

@@ -119,6 +119,10 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/metaverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
+The table below shows their total supply:
+
+table_gotchusAlchemicaSupply
+
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Alchemical Channeling**: Aavegotchis can channel their energy directly into the REALM Parcel, exchanging their [Kinship](/traits#kinship) for a helping of Alchemica.
@@ -127,6 +131,24 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+
+The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
+
+<img class="bodyImage" src="/metaverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
+
+25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
+
+Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
+
+During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
+
+* 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
+
+* 40% to the Summoners, who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+
+* 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+
+<img class="bodyImage" src="/metaverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
 
 ## Building on REALM parcels
 
@@ -152,7 +174,7 @@ REALM Parcels will be distributed in two main ways:
 
 Method 1: Incentivized GBM Auctions (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Die GBM-Auktion wurde erstmals 2019 von Cryptographs entwickelt und ist ein zum Patent angemeldetes System, das Pixelcraft Studios offiziell für alle Aavegotchi NFT Drops, einschliesslich Haunt 2, REALM und sogar Kleidungsstücke, verwenden darf.
 
 Check out our [Aauction page](/aauction) for more information.
 

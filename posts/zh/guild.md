@@ -15,6 +15,7 @@ REALM gameplay is coming soon! There will be plenty of activities in the Gotchiv
 
 <ol>
 <li><a href=#guilds>Guilds</a></li>
+<li><a href=#guild-map>Guild Map</a></li>
 </ol>
 
 </div>
@@ -22,3 +23,9 @@ REALM gameplay is coming soon! There will be plenty of activities in the Gotchiv
 ## Guilds
 
 table_guild
+
+## Guild Map
+
+Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333
+
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />

@@ -367,6 +367,10 @@ Option 2: No, do not implement right now
 
 **Voting Period:** 2 - 9 October 2021
 
+**Ergebnis:**
+
+table_agip13
+
 [Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmcAQLdAyS9n7LWDu9qvRtdNqJa7FBStadrHq3xqjW9kCT)
 
 <hr />

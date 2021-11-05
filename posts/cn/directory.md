@@ -75,6 +75,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Mumbai Testnet](/mumbai-testnet)
 
+* [Partners](/partners)
+
 * [Polygon](/polygon)
 
 * [传送门](/portals)

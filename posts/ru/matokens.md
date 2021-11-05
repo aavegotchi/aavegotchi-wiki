@@ -23,61 +23,22 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#using-the-aavegotchi-bridge>Использование моста Аавеготчи.</a></li>
-<li><a href=#bridging-through-ascendex>Перенос через AscendEX.</a></li>
-<li><a href=#fiat-to-polygon-using-transak>Перемещение в Polygon с помощью Transak.</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Стейкинг маТокенов в Аавеготчи.</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
 <li><a href=#learn-more>Больше информации</a></li>
 </ol>
 
 </div>
 
-## Использование моста Аавеготчи
+## Staking maTokens into Aavegotchis
 
-Данный метод работает, если у вас есть некоторое число аТокенов в основной сети Ethereum, а вы хотите переместить их в Полигон в качестве маТокенов. Из-за платы за газ в сети Ethereum данный метод может быть дорогостоящим и не всем подходит.
+Okay, I've gotten myself some maTokens. What now?
 
-Перейдите к [мосту в Полигон](https://aavegotchi.com/bridge) на Aavegotchi DApp.
+Good work fren.
 
-<img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
+The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
 
-Нажмите на иконку токена (обведено красным в качестве примера на нижерасположенной картинке), и вы увидите раскрывающееся меню токенов. Выберите тот, что вам нужен.
-
-<img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
-
-Введите сумму токенов, которые планируете перевести в Полигон. На примере USDDC, как на скрине, нужно ввести цифры в поле, отмеченное красным.
-
-<img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
-
-Подтвердите перевод нажатием кнопки "Approve Transfer". Дождитесь, пока транзакция будет добавлена в блок блокчейна Ethereum.
-
-Как только транзакция будет подтверждена, нажмите кнопку переноса токенов в Полигон. Далее ожидайте, когда маТокены окажутся на кошельке.
-
-Может понадобиться до 10 минут. Подождите, пока пройдет и эта транзакция.
-
-Используя Метамаск, настройте интеграцию с Полигоном, опираясь на [это руководство](/polygon). Пошаговые инструкции помогут избежать ошибок.
-
-## Перенос через AscendEX
-
-Менее дорогостоящий способ обзавестись маТокенами состоит в том, чтобы перевести их с централизованных бирж (CEX) на AscendEX. Для этой цели подходит Binance или любая другая торговая площадка. С AscendEX токены можно свободно перемещать напрямую в Полигон. На нижерасположенной инфографике видно, как это можно сделать без особого труда!
-
-<img class = "bodyImage" src = "/matokens/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
-
-## Перемещение в Polygon с помощью Transak
-
-Этот метод является третьим в нашем списке. Он позволяет перевести токены в Полигон.
-
-Как это сделать, читайте в [этом материале](https://trasher.substack.com/p/buying-your-tokens-straight-into), подготовленном одним из членов нашего сообщества.
-
-## Стейкинг маТокенов в Аавеготчи
-
-Так, теперь у вас есть маТокены. Что делать?
-
-Отличная работа, друг!
-
-Покупай портал за [GHST](/ghst). Их можно купить в Aavegotchi DApp или на внешнем [вторичном рынке](/marketplace), например — на Opensea. После того, как вы обзавелись порталом, призовите Готчи. Выберите одного из десятка сгенерированных с наилучшими на ваш взгляд базовыми характеристиками. Далее вам понадобятся маТокены в качестве залога. Стейкайте их и играйте в Аавеготчи с удовольствием!
-
-Подробнее о том, как открыть [портал](/portals), читайте на соответствующей странице нашей ВИКИ.
+For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
 ## Problems while staking Spirit Force
 

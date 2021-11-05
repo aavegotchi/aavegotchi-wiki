@@ -15,8 +15,9 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Лучшие мемы 8-й Миссии Аавеготчи.</a></li>
-<li><a href=#halloween-costume-contest>Хэллоуинский конкурс костюмов.</a></li>
+<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>9-я Миссия Аавеготчи.</a></li>
+<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
 </ol>
 
 </div>
@@ -37,7 +38,7 @@ contributors:
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Хэллоуинский конкурс костюмов
+## Halloween Costume Contest 2020
 
 Кто получил призы в конкурсе костюмов на Хэллоуин? 30 октября 2021 года в 19:00 Мск состоялся парад призраков в хэллоуинских костюмах. Призовые места заняли такие забавные Готчи:
 
@@ -78,3 +79,23 @@ contributors:
 #### <span style="color:#cd7f32">3-е место: “Аавеготчи уже на Kovan Testnet!” Пошаговое руководство [Step-by-Step-guide] от Buzzlightyear.</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
+
+## Halloween Costume Contest 2021
+
+On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+
+The competition was fierce, with nearly 100 unique costumes submitted!
+
+The top 3 costumes won 100, 50, and 25 GHST, respectively.
+
+### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+
+<img class="bodyImage" src="/contests/lickweendator.jpg" />
+
+### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+
+<img class="bodyImage" src="/contests/jason-boorhees.png" />
+
+### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+
+<img class="bodyImage" src="/contests/genie-gotchi.png" />

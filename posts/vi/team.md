@@ -33,6 +33,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#shohan>Shohan</a></li>
+<li><a href=#designerdave>DesignerDave</a></li>
 <li><a href=#origins>Team Gốc</a></li>
 </ol>
 
@@ -150,6 +151,15 @@ Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 nă
 </div>
 
 Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
+
+## Coder Dan
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
+<p class="leftImageText"><a href="https://twitter.com/davidkfried">DesignerDave</a></p>
+</div>
+
+“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
 
 ## Team Gốc
 

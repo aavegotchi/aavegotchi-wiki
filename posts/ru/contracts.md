@@ -28,6 +28,8 @@ contributors:
 
 * Адрес DAO: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
 
+* Aavegotchi Address: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
+
 ## Адреса контрактов на Polygon
 
 * Адрес токенов GHST: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)

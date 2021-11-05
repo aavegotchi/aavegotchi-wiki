@@ -71,7 +71,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
 
-* [GotchiWorld](https://linktr.ee/gotchiworld) - Community made free petting service
+* [GotchiWorld](https://linktr.ee/gotchiworld) - Dịch vụ autopet miễn phí dành cho cộng đồng
 
 ## Subgraphs
 
