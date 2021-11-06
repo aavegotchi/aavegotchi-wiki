@@ -81,6 +81,8 @@ Guilds generally organize themselves in districts. Check out the [Guild page](/g
 
 <img src="/metaverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
 
+Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+
 ## REALM Parcel Sizes
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
