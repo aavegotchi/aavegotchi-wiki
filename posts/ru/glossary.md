@@ -110,7 +110,7 @@ contributors:
 Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
 
 ### Дроп билетов.
-Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/metaverse).
+Продажа NFT стандарта ERC-1155 осуществляется на [Базаре](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
 
 10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
 
@@ -131,7 +131,7 @@ Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, an
 
 Technically, each element exists as an ERC-20 token.
 
-Check the [Metaverse page](/metaverse) for more information.
+Check the [Gotchiverse page](/gotchiverse) for more information.
 
 ### Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange
 
@@ -143,7 +143,7 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 ### Installations
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
 
-Check out the [Metaverse page](/metaverse#building-on-realm-parcels) for a list of Installations that you can build.
+Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
 
 ### Лотерейные билеты.
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
@@ -353,7 +353,7 @@ For more information on the GBM Auction, check out the [Cryptograph GBM Auction 
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
 
 ### Non-Fungible Token
 
