@@ -91,8 +91,8 @@ export const items: Category[] = [
 				href: "minigames"
 			},
             {
-                name: "Metaverse",
-                href: "metaverse"
+                name: "Gotchiverse",
+                href: "gotchiverse"
             },			
 			{
                  name: "Maall",

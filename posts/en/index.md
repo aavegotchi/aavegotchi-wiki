@@ -18,7 +18,7 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## New to Aavegotchi?
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game. 
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game. 
 
 ## Popular Pages
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
