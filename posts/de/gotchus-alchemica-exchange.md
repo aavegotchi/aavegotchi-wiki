@@ -42,10 +42,10 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 ## Gotchus Alchemica Exchange
 
-The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/metaverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
+The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR can be spent to reduce the building time of [Installations](/metaverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR can be spent to reduce the building time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
 
 GAX may support non GHST-Alchemica pairs in the future.
