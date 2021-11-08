@@ -113,6 +113,10 @@ export const items: Category[] = [
                 name: "AavegotchiDAO",
                 href: "dao"
             },
+			{
+				name: "Guilds",
+				href: "guild"
+			},
             {
                 name: "Social Media",
                 href: "socialmedia"
@@ -121,10 +125,6 @@ export const items: Category[] = [
                 name: "Bridge",
                 href: "bridge"
             },            
-            {
-                name: "Missions",
-                href: "missions"
-            },
             {
                 name: "Contests",
                 href: "contests"
