@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
+* Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
+<p></p>
+
 ## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
 * FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
 * Read all about their tokenomics here!
