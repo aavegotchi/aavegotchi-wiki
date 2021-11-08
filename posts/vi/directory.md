@@ -45,13 +45,15 @@ contributors:
 
 * [Thuật Ngữ](/glossary)
 
+* [Gotchiverse](/gotchiverse)
+
 * [Sàn Giao Dịch Gotchus Alchemica](/gotchus-alchemica-exchange)
 
 * [Guild](/guild)
 
 * [Haunt](/haunt)
 
-* [Trang chủ](/index)
+* [Home](/index)
 
 * [Giới thiệu](/introduction)
 
@@ -64,8 +66,6 @@ contributors:
 * [Media](/media)
 
 * [Memes](/memes)
-
-* [Metaverse](/metaverse)
 
 * [Lịch sử phát triển](/milestones)
 
