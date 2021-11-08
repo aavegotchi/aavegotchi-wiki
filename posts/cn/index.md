@@ -17,7 +17,7 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团
 
 ## 初来乍到？
 
-点击 [简介](https://wiki.aavegotchi.com/introduction) 快速了解 Aavegotchi 游戏。
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## 热门链接
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
