@@ -17,7 +17,7 @@ Chiếc Wiki be bé này chính là tâm điểm kiến thức về tất tần 
 
 ## Mới biết tới Aavegotchi hử?
 
-Xem ngay phần [Giới thiệu](https://wiki.aavegotchi.com/introduction) một bài tổng quan cấp cao về trò chơi Aavegotchi nhé.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## Trang Được Xem Nhiều
 * [GHST](/ghst) -- Học thêm về token sinh thái quản trị của Aavegotchi
