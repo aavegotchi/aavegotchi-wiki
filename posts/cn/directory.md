@@ -45,6 +45,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [词汇表](/glossary)
 
+* [Gotchiverse](/gotchiverse)
+
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
 * [Guild](/guild)
@@ -64,8 +66,6 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [媒体](/media)
 
 * [Memes](/memes)
-
-* [Metaverse](/metaverse)
 
 * [里程碑](/milestones)
 
