@@ -134,13 +134,13 @@ Mục FAQ được thiết kế để làm một bài hướng dẫn nhanh với
 
 * **BƯỚC 6:** Chơi một vài [Mini-Games](/minigames)
 
-* **BƯỚC 7:** Đợi đến khi [Metaverse](/metaverse) được ra mắt!
+* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
 
 Bạn có thể tìm thêm thông tin về lối chơi tại <a href="https://wiki. aavegotchi. com/en/gameplay" target = "_blank">đây.</a>
 
 ### Mình có thể nhận Aavegotchi ở đâu?
 
-Ngày 2 tháng Ba năm 2021 trên Polygon nhé! [Metaverse](/metaverse) sẽ mở sau Quý I 2021.
+Ngày 2 tháng Ba năm 2021 trên Polygon nhé! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
 
 ### Vậy thì mình phải trả bao nhiêu để chơi?
 Có một vài cách để bạn sở hữu Aavegotchi:
