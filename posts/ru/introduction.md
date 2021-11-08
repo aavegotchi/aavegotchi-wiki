@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">Аавеготчи</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/metaverse). Это уникальное сочетание двух технологий — DeFi и NFT.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). Это уникальное сочетание двух технологий — DeFi и NFT.
 
 Аавеготчи (сокращенно — Готчи) — это пиксельные призраки, населяющие игру. Так как проект построен на блокчене Ethereum, каждый Готчи соответствует стандарту [**ERC-721**](/glossary#erc-721). Его ценность определяется уровнем редкости. Он рассчитывается при помощи нескольких факторов. В их числе — базовые [характеристики](/traits), количество залогов/аТокенов, находящихся в пуле, а также имеющаяся [экипировка](/wearables).
 
