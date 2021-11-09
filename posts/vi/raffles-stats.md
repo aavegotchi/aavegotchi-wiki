@@ -22,8 +22,10 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 <li><a href=#raffle-2>Raffle 2</a></li>
 <li><a href=#raffle-3>Raffle 3</a></li>
 <li><a href=#raffle-4>Raffle 4</a></li>
-<li><a href=#raffle-5>Raffle 5</a></li>
-<li><a href=#chart>Biểu đồ</a></li>
+<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Haunt 2 Portal Drop)</a></li>
+<li><a href=#raffle-6>Raffle 6</a></li>
+<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (1st Land Raffle)</a></li>
+<li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
@@ -40,11 +42,17 @@ table_raffle3
 ## Raffle 4
 table_raffle4
 
-## Raffle 5
+## Raffle 5 (Haunt 2 Portal Drop)
 table_raffle5
 
-## Biểu đồ
+## Raffle 6
+table_raffle6
 
-Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
+## Raffle 7 (1st Land Raffle)
+table_raffle7
+
+## Chart
+
+What are your chances (in percentage) to win a wearable using 1 ticket in past raffles? Check out the chart below.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
