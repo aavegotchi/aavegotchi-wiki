@@ -22,7 +22,9 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 <li><a href=#raffle-2>Raffle 2</a></li>
 <li><a href=#raffle-3>Raffle 3</a></li>
 <li><a href=#raffle-4>Raffle 4</a></li>
-<li><a href=#raffle-5>Raffle 5</a></li>
+<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Haunt 2 Portal Drop)</a></li>
+<li><a href=#raffle-6>Raffle 6</a></li>
+<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (1st Land Raffle)</a></li>
 <li><a href=#chart>Chart</a></li>
 </ol>
 
@@ -40,8 +42,14 @@ table_raffle3
 ## Raffle 4
 table_raffle4
 
-## Raffle 5
+## Raffle 5 (Haunt 2 Portal Drop)
 table_raffle5
+
+## Raffle 6
+table_raffle6
+
+## Raffle 7 (1st Land Raffle)
+table_raffle7
 
 ## Chart
 
