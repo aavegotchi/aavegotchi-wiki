@@ -76,8 +76,19 @@ export const tables
             }
         },
 		
-				{
+		{
             tableName: "raffle5",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Tickets submitted", "Probability"],
+                data: [
+                    ["Drop Ticket", "77086", "0.03891757"]
+				]
+            }
+        },
+		
+		{
+            tableName: "raffle6",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Tickets submitted", "Probability"],
@@ -90,5 +101,16 @@ export const tables
 					["Godlike", "10636", "0.001410305"]
                 ]
             }
-        }
+        },
+		
+		{
+            tableName: "raffle7",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Tickets submitted", "Probability"],
+                data: [
+                    ["Drop Ticket", "151997", "0.02631631"]
+				]
+            }
+        },
     ]
