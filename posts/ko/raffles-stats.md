@@ -20,34 +20,34 @@ contributors:
 ** 목차 **
 
 <ol>
-<li><a href=#raffle-1>첫번째 래플</a></li>
-<li><a href=#raffle-2>두번째 래플</a></li>
-<li><a href=#raffle-3>세번째 래플</a></li>
-<li><a href=#raffle-4>Raffle 4</a></li>
+<li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></li>
+<li><a href=#raffle-2--aave-theme->Raffle 2 (Aave Theme)</a></li>
+<li><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></li>
+<li><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></li>
 <li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Haunt 2 Portal Drop)</a></li>
-<li><a href=#raffle-6>Raffle 6</a></li>
+<li><a href=#raffle-6--partnerships-theme->Raffle 6 (Partnerships Theme)</a></li>
 <li><a href=#raffle-7--1st-land-raffle->Raffle 7 (1st Land Raffle)</a></li>
 <li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
 
-## 첫번째 래플
+## Raffle 1 (Chainlink Theme)
 표_ 첫번재 래플
 
-## 두번째 래플
+## Raffle 2 (Aave Theme)
 표_ 두번째 래플
 
-## 세번째 래플
+## Raffle 3 (Ethereum Theme)
 표_ 세번째 래플
 
-## Raffle 4
+## Raffle 4 (Layer 2 Theme)
 table_raffle4
 
 ## Raffle 5 (Haunt 2 Portal Drop)
 table_raffle5
 
-## Raffle 6
+## Raffle 6 (Partnerships Theme)
 table_raffle6
 
 ## Raffle 7 (1st Land Raffle)
@@ -55,6 +55,6 @@ table_raffle7
 
 ## Chart
 
-What are your chances (in percentage) to win a wearable using 1 ticket in past raffles? Check out the chart below.
+What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
