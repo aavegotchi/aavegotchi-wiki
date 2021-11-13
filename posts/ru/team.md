@@ -29,11 +29,11 @@ contributors:
 <li><a href=#candoizo>Candoizo.</a></li>
 <li><a href=#coyote>Койот (Coyote).</a></li>
 <li><a href=#les>Les</a></li>
-<li><a href=#jason-chew>Jason Chew</a></li>
 <li><a href=#gravy>Gravy</a></li>
 <li><a href=#nyankong>NyanKong</a></li>
 <li><a href=#shohan>Shohan</a></li>
 <li><a href=#designerdave>DesignerDave</a></li>
+<li><a href=#webb>Webb</a></li>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -43,7 +43,7 @@ contributors:
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/coderdan.jpg" alt = "Дэниел Метью">
-<p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
+<p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
 
 Дэн, он же Coder Dan, — один из основных разработчиков игры Аавеготчи. Он создал DeFi-приложение Yield Hero, а в Аавеготчи выступает в роли разработчика полного стека (full stack developer). Его вклад в проект очень важен. Yield Hero помогает перенаправлять AAVE на любой адрес по желанию. Дэн также принял участие в разработке стандарта ERC-721 на NFT-платформе Bullionix (стандарт ERC20). Проживает Дэн в китайской провинции Фуцзянь, отлично знает и без труда разговаривает на китайском. Благодаря ему проект Аавеготчи привлек внимание в соцсетях. В Твиттере у проекта быстро набралось более 10 тыс подписчиков, а также 6 тысяч активных пользователей в Дискорде. Он также продвигает игру в Китае, благодаря чему официальные аккаунты Аавеготчи в Weibo, Bilibili и WeChat собрали свыше 1,5 млн фолловеров.
@@ -53,7 +53,7 @@ contributors:
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Джесси Джонсон">
-<p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
+<p class="leftImageText"><a href="https://twitter.com/gldnXross" target="_blank">@GldnXross</a></p>
 </div>
 
 Джесси, более известный под ником GldnXross, является основателем, занимающимся продвижением проекта. До Аавеготчи он руководил созданием популярных NFT-платформ, среди которых проект по минтингу токенов под названием Mintable, работающий на Ethereum и Zilliqa. Он также является создателем вышеупомянутой концепции Value-Staked NFTs и создателем Bullionix.io, который первым предложил 3D цифровые коллекционные предметы высокого разрешения, обеспеченные стейблкоинами. До блокчейн-карьеры Джесси руководил продвижением ZB Group на международном рынке, а ранее был частью китайского офиса Lenovo Mobile Unit, работал в роли спеца по усовершенствованию продуктов и проведению слияния с компанией Моторола.
@@ -62,7 +62,7 @@ contributors:
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
-<p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
+<p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
 
 Ксавье Итурральде, именующий себя xibot, является на данный момент опытнейшим криптохудожником и специалистом в сфере криптоискусства. Его пиксельные арт-объекты отлично продавались на OpenSea и Rarible. А инновационный токен PIXEL стал одним из популярных социальных токенов, отлично прижился и принес дополнительную известность. Многие любители искусства Xibot стали первыми ироками Аавеготчи. Это еще один повод для фомо в звездной команде игры.
@@ -71,7 +71,7 @@ contributors:
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Ник Мадж">
-<p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
+<p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
 Ник Мадж известен в качестве опытного и технически подкованного разработчика Ethereum. Им был разработан стандарт ERC-998, без которого бы не была возможна работа игры. Данный стандарт является важнейшим аспектом игрового процесса в Аавеготчи, позволяя родительским NFT использовать дочерние (Готчи + экипировка). До игрового проекта Мадж руководил разработкой Diamond Standard в Ethereum. Данный стандарт предназначен для DAO и функционирует в области обновляемых контрактов.
@@ -80,7 +80,7 @@ contributors:
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
+<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
 Jc является энтузиастом блокчейн-технологии, стратегом по бизнес-развитию, имеет огромный опыт общения и взаимодействия с самыми яркими представителями криптосферы. Он — отличный командный игрок, способствующий построению стратегических партнерств, развитию каналов продаж и аккаунтов в социальных медиа. Свято верит в блокчейн-технологии и обладает навыками вирусного маркетинга, что позволяет Аавеготчи наращивать темпы. Одним из его увлечений является промоутерство новых компаний и способствование их развитию. Его энтузиазм в отношении метавселенной Готчи основан на вере в великую силу блокчейн-технологий.
@@ -89,7 +89,7 @@ Jc является энтузиастом блокчейн-технологии
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
-<p class="leftImageText"><a href="https://twitter.com/candoizo">Candoizo</a></p>
+<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
 Candoizo является успешным разработчиком программного обеспечения, благодаря которому Аавеготчи стал удобным, интересным и функциональным проектом. Способствует построению сообщества, благодаря наличию большого опыта работы и геймерства.
@@ -100,7 +100,7 @@ Candoizo является успешным разработчиком прогр
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/coyote.png" alt = "Койот (Coyote)">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev">Койот (Coyote)</a></p>
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Койот (Coyote)</a></p>
 </div>
 
 Калеб с оригинальным ником Coyote, полученным им в качестве второго имени от родителей, присоединился к проекту в начале 2021 года. Он начал свой путь в стартапах в качестве UI/UX дизайнера, а затем решил перейти на фронтенд-разработку. В процессе работы над приложениями для Аавеготчи он обнаружил ошибку в блокчейне, которая была успешно устранена. Сейчас он хочет передать свои знания следующему поколению веб-инженеров!
@@ -109,27 +109,18 @@ Candoizo является успешным разработчиком прогр
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/les.jpg" alt = "Les">
-<p class="leftImageText"><a href="https://twitter.com/lesborsai">Les</a></p>
+<p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les</a></p>
 </div>
 
 Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
 
 In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
 
-## Jason Chew
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/jason-chew.jpg" alt = "Jason Chew">
-<p class="leftImageText"><a href="https://twitter.com/jasonchewyl">Jason Chew</a></p>
-</div>
-
-Jason traversed the Ethereum rabbit hole in Devcon V Osaka and never looked back since. From DAOstack, BrightID to Gitcoin, Jason is a DeFi native that never stops experimenting and educating to spur early adoption. Jason also manages BitcoinMalaysia, the largest online cryptocurrency community in Southeast Asia, and since the pandemic over 8,000 people have attended his cryptocurrency talks for beginners.
-
 ## Gravy
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy">Gravy</a></p>
+<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
 Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
@@ -138,7 +129,7 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
-<p class="leftImageText"><a href="https://twitter.com/senntertain">NyanKong</a></p>
+<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
 </div>
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
@@ -147,7 +138,7 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/shohan.png" alt = "Shohan">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/">Shohan</a></p>
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
@@ -156,10 +147,26 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
-<p class="leftImageText"><a href="https://twitter.com/davidkfried">DesignerDave</a></p>
+<p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
 </div>
 
 “DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
+
+## Webb
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/webb.png" alt = "Webb">
+<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
+</div>
+
+Things Webb loves:
+* daos and defi
+* videogames, favorite game is dota, most nostalgic game is World of Warcraft
+* long walks on the beach
+* his waifu
+* rofls and pepes
+* making frens
+* loving my new bank and breaking up with my old one
 
 ## Origins
 
