@@ -7,6 +7,28 @@ contributors:
   - "chinyh"
 ---
 
+## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
+* AGIP14: Earn FRENS with GHST-MATIC LP Tokens
+* AGIP15: Create a Wearables Taask Force
+<p></p>
+
+## [Coderdan the shippoorrrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
+* Coderdan and his army of shippporrrrs continue to deliver:
+1. First Gotchiverse Land Auction
+2. Rarity Farming SZN 2 Kickoff
+3. Former World of Warcraft Game Designer Joins Team
+4. Gotchus Alchemica Tokenomics Report
+5. YGG Becomes First Official Gotchiverse Partner
+6. Blackpool Becomes Second Official Gotchiverse Partner
+7. Onchain Aging Boost for Aavegotchis Implemented
+8. 3-Word Addresses
+9. 1M USD + Aavegotchi Aastronauts Auction on Unicly
+10. Aavegotchi to Ethereum Bridge Opens
+11. r/CryptoCurrency Reddit AMA
+12. GHST Added to Umbria Narni Bridge
+13. Pixelcraft Studios Dev Highlights
+<p></p>
+
 ## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
 * Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
 <p></p>
