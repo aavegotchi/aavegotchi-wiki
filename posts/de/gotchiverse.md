@@ -92,6 +92,10 @@ Parcels come in three sizes, with each size providing greater deposits of Alchem
 
 *Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
 
+Some parcels will be next to or adjacent to Alchemica deposits. These parcels will see farming boosters indicated on the gotchiverse dashboard and when they are listed on the Baazaar.
+
+To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
+
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
 ## REALM Gameplay
