@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 7000 parcels will be distributed through a Bid-to-Earn Auction from 2 - 5 December 2021
+* 3000 parcels will be distributed through a Drop Ticket Raffle from 10 - 13 December 2021
+<p></p>
+
 ## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
 * AGIP14: Earn FRENS with GHST-MATIC LP Tokens
 * AGIP15: Create a Wearables Taask Force
