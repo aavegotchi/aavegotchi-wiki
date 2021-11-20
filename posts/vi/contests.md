@@ -15,9 +15,9 @@ Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi</a></li>
-<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
+<li><a href=#halloween-costume-contest-2020>Cuộc Thi Trang Phục Halloween 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi</a></li>
-<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
+<li><a href=#halloween-costume-contest-2021>Cuộc Thi Trang Phục Halloween 2021</a></li>
 </ol>
 
 </div>
@@ -38,7 +38,7 @@ Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu c�
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Costume Contest 2020
+## Cuộc Thi Trang Phục Halloween 2020
 
 Vào Thứ Sáu, ngày 30 tháng Mười (16 giờ UTC / 12 giờ trưa EST / 12 giờ đêm SGT), các bé ma * thực sự theo nghĩa đen* đã xuất hiện để diễu hành (bản gốc chơi chữ ý :P). Các Aagent đã vui vẻ khoác mặc trang phục lên cho Aavegotchi của mình và mỗi gotchi đã <s>sải bước</s>lướt xuống sàn <s>cat</s>ghost walk. Cộng đồng cũng đã bầu chọn cho tác phẩm mà mình yêu thích.
 
@@ -80,7 +80,7 @@ Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Th�
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
 
-## Halloween Costume Contest 2021
+## Cuộc Thi Trang Phục Halloween 2021
 
 On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
 
