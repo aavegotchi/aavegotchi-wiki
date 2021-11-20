@@ -67,8 +67,8 @@ Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https:
 Có rất nhiều sản phẩm được bán trên Baazaar:
 
 * Aavegotchis
-* Portals — Closed
-* Portals — Open
+* Portals - Chưa Mở
+* Portals - Mở
 * Gotchiverse REALM
 * Wearables
 * Vật phẩm tiêu hao
