@@ -82,20 +82,20 @@ Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Th�
 
 ## Cuộc Thi Trang Phục Halloween 2021
 
-On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+Vào ngày 1 tháng Mười Một 2021, bọn mình đã có Cuộc Thi #GotchiGang Halloween lần thứ hai! 👹👻🎃
 
-The competition was fierce, with nearly 100 unique costumes submitted!
+Cuộc thi đáng sợ lắm, đã có gần 100 trang phục độc đáo tham dự!
 
-The top 3 costumes won 100, 50, and 25 GHST, respectively.
+Top 3 trang phục chiến thắng lần lượt 100, 50, và 25 GHST.
 
-### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+### <span style="color:gold">Vị trí thứ nhất: LickWeenDator của Bezigner</span>
 
 <img class="bodyImage" src="/contests/lickweendator.jpg" />
 
-### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+### <span style="color:silver">Vị trí thứ hai: Jason Boorhees của Kimikuno</span>
 
 <img class="bodyImage" src="/contests/jason-boorhees.png" />
 
-### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+### <span style="color:#cd7f32">Vị trí thứ ba: Genie Gotchi của Ape | Dratini | Bear X</span>
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
