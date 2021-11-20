@@ -73,7 +73,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Dịch vụ autopet miễn phí dành cho cộng đồng
 
-* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - A data visualization tool that features districts, floor prices, price estimators, etc.
+* [Ứng Dụng Hiển Thị Gotchiverse](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - Một công cụ hiển thị dữ liệu cho thấy được quận, giá sàn, ước lượng giá, v. v.
 
 ## Subgraphs
 
