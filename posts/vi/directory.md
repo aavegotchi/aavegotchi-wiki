@@ -53,7 +53,7 @@ contributors:
 
 * [Haunt](/haunt)
 
-* [Home](/index)
+* [Trang chủ](/index)
 
 * [Giới thiệu](/introduction)
 
