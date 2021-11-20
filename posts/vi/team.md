@@ -123,7 +123,7 @@ Vào cuối những năm 2000, Borsai đã tham gia vào những ngành công ng
 <p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh nghiệm gần một thập kỷ làm việc ở ngành B2B và B2C. Sau nhiều năm chinh chiến trong các tập đoàn theo khuôn mẫu, anh đã giống buồm và cống hiến 100% sự nghiệp của mình cho thế giới blockchain. Dù anh đang gây dựng các mối quan hệ chiến lược, cân đo KPI gắt gao và tạo nên các chiến lượng marketing đầy kỹ xảo, Gravy đang cống hiến để giúp mang Aavegotchi đến một tầm cao mới và tự hào gọi mình là thành viên của GotchiGang.
 
 ## NyanKong
 
@@ -132,7 +132,7 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 <p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
 </div>
 
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 năm hỗ trợ trong việc tạo ra game bằng cách sử dụng thiết kế game, âm nhạc, và hoạt ảnh cho máy điện tử cầm tay, PC, máy điện tử thùng, điện thoại, mán tính bàn, và VR. Tình yêu của anh dành cho việc tạo ra các hình thức giải trí giúp anh luôn bận rộn với trí tưởng tượng quá đổi tích cực, song song đó nhu cầu kết nối tích cực với đội ngũ và khán giả giữ cho trái tim hướng về xã hội của anh luôn được vui vẻ. Trách nhiệm chính của Christian trong đội ngũ Pixelcraft là thiết kế và tạo ra hình ảnh cho Realm để cộng đồng có thể khám phá và tận hưởng trong nhiều năm tới.
 
 ## Shohan
 
@@ -141,7 +141,7 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
 
 ## DesignerDave
 
@@ -150,7 +150,7 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 <p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
 </div>
 
-“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
+“DesignerDave” là một người thiết kế game & và cốt truyện, người làm việc với những studios như Blizzard Entertainment, Ubisoft, Wooga, và inXile, với những cái tên nổi tiếng như Wasteland, Warcraft, Silent Hill, và nhiều hơn nữa. Anh đã bắt đầu sự nghiệp game PC, tạo nên những hit AAA như Warcraft III và WoW, rồi chuyển game di động vào năm 2019, lĩnh vực mà ông đã khiến những game như Penny Dell Crosswords kiếm được từ 1000 usd mỗi tháng thành vài ngàn usd mỗi ngày trong vòng một năm. DesignerDave chuyên về trải nghiệm người dùng, thiết kế tường thuật và xác định cách tốt nhất để đáp ứng kỳ vọng của người dùng mới để nâng cao chỉ số giữ chân và tăng chi tiêu thông qua kể chuyện. Gần đây nhất, anh ấy đang lãnh đạo phụ trách thiết kế trò chơi NFT, tạo ra các câu chuyện metaverse đa thế giới trải dài để cho phép tương lai tất yếu, nơi người chơi có thể mang theo hàng loạt vật phẩm và trải nghiệm từ trò chơi này sang trò chơi khác. Ông đang phân tích và thích nghi nhanh chóng với mô hình play-to-earn, sẽ dần vượt mặt thị trường free to play.
 
 ## Webb
 
@@ -159,9 +159,9 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
+Những thứ Webb yêu thích:
+* daos và defi
+* videogames, thích nhất là dota, hoài niệm nhất là World of Warcraft
 * long walks on the beach
 * his waifu
 * rofls and pepes
