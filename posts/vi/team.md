@@ -162,11 +162,11 @@ Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kin
 Những thứ Webb yêu thích:
 * daos và defi
 * videogames, thích nhất là dota, hoài niệm nhất là World of Warcraft
-* long walks on the beach
-* his waifu
-* rofls and pepes
-* making frens
-* loving my new bank and breaking up with my old one
+* đi bộ thật lâu trên bãi biển
+* waifu
+* ếch this ếch that
+* kết bạn
+* yêu ngân hàng mới và bái bai ngân hàng cũ
 
 ## Team Gốc
 
