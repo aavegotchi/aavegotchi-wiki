@@ -46,6 +46,8 @@ The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) 
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR can be spent to reduce the building time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR stands for Gotchi Liquidity Mining Rewards. The team has yet to decide whether the GLMR supply should be capped or not.
+
+GLMR can be spent to reduce the crafting/upgrading time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
 
 GAX may support non GHST-Alchemica pairs in the future.
