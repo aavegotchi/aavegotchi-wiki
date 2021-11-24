@@ -123,3 +123,10 @@ Chơi tại [đây](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/
 Chơi tại [đây](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
+
+### Astegotchi by Alvi
+
+Link to game [here](https://astegotchi.aavegames.com/)
+
+<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
+
