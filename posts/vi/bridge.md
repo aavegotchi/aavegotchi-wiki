@@ -103,44 +103,44 @@ Narni bridge là một giải pháp cầu nối tân tiến được tạo ra b�
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). Sau khi gửi đi một giao dịch, một modal sẽ hiện lên. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). Sau khi gửi đi một giao dịch, một modal sẽ hiện lên. Phần thứ nhất cho thấy giao dịch của bạn đang được xử lý để đến được cầu. Một khi giao dịch của bạn đã đến cầu, bạn sẽ nhận được dấu tick đầu tiên. Có thể sẽ mất vài phút để nhân được cả hai tick, nhưng nếu mất hơn 10 phút thì hãy liên hệ với team Umbria trên Discord để giúp bạn giải quyết vấn đề.
 
-Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
+Cuối cùng, bạn sẽ nhận được hai dấu tick hồng, nghĩa là giao dịch của bạn đã được bridge thành công, và bạn có thể thấy được tài sản của mình trong ví trên blockchain đích. Bạn sẽ có thể thấy giao dịch trên trình khám phá block của điểm đến bằng cách nhấp vào nút trên màn hình trong giai đoạn này.
 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
-If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
+Nếu bạn có bất kỳ câu hỏi nào về Umbria Narni Bridge, hoặc muốn chát với một thành viên để được sự hỗ trợ từ đội ngũ phát triển, hãy tìm đến [kênh Discord của Umbria](https://discord.gg/8Ms7Cr4)
 
 ## Cầu tập trung
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
+AscendEX (trước đây là BitMax) là một nền tảng giao dịch tiền điện tử cho phép rút tiền sang mạng Polygon. Hãy xem qua infographic dưới đây để biết thêm chi tiết.
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Dùng AscendEX để chơi Aavegotchi" />
 
 ### Transak
 
-Transak is a fiat-to-crypto payment gateway. Users pay using their credit card and receive the tokens on the wallet address they specified.
+Transak là một cổng thanh toán tiền-pháp-định-tiền-mã-hoá. Người dùng thanh toán bằng cách sử dụng thẻ credit của họ và nhận lại token trong ví mà họ chỉ định.
 
 Hãy xem qua [bài viết này](https://trasher.substack.com/p/buying-your-tokens-straight-into) từ thành viên trong cộng đồng bọn mình để biết thêm chi tiết.
 
 ### Crypto.com
 
-Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to Polygon Network.
+Crypto.com là một ứng dụng ví trên điện thoại. Họ cho phép rút MATIC và USDC sang Polygon.
 
-1). Select Transfer --> Withdraw --> Crypto --> External Wallet
+1). Chọn Transfer --> Withdraw --> Crypto --> External Wallet
 
-2). Click the + sign at the top right corner
+2). Nhấp vào dấu + ở góc trên cùng bên phải
 
-3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
+3). Chọn loại token mà bạn muốn rút. Nếu có thể rút token đó, bạn sẽ thấy một Tuỳ Chọn dành cho "Polygon" trong mục "Select Network" (xem ảnh screenshot bên dưới).
 
-<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon" />
+<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com rút sang Polygon" />
 
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+Binance là một trong những sàn giao dịch lớn nhất thế giới. Họ cũng cho phép rút sang Polygon.
 
-At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+Tại trang rút tiền, hãy chọn Network là **MATIC** Polygon (xem ảnh chụp màn hình bên dưới).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
+<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Rút từ Binance sang Polygon" />
