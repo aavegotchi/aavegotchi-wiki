@@ -17,7 +17,7 @@ Cầu nối là một loại phần mềm cho phép người dùng chuyển tài
 
 Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào ngày 4 tháng Giêng 2021. Do phí gas quá cao, cộng đồng đã bỏ phiếu để triển khai dự án trên [Polygon Network](/glossary#polygon). Kết quả của quyết định này là tài sản cần phải được chuyển từ một mạng lưới này sang một mạng lưới khác.
 
-Để hỗ trợ việc chuyển tài sản, Pixelcraft Studios đã tạo ra Aavegotchi Bridge, cho phép người dùng gửi tài sản đi và về giữa cả 2 mạng lưới. Kể từ đó, đã xuất hiện nhiều giải phải dịch chuyển khác nhau. This page will cover some of the most common bridges.
+Để hỗ trợ việc chuyển tài sản, Pixelcraft Studios đã tạo ra Aavegotchi Bridge, cho phép người dùng gửi tài sản đi và về giữa cả 2 mạng lưới. Kể từ đó, đã xuất hiện nhiều giải phải dịch chuyển khác nhau. Phần này sẽ thể hiện một số chiếc cầu thông dụng.
 
 <div class="contentsBox">
 
@@ -25,10 +25,10 @@ Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào
 
 <ol>
 <li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
+<li><a href=#decentralized-bridges>Cầu phi tập trung</a></li>
 <p><a href=#polygon-bridge>Polygon Bridge</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#centralized-bridges>Cầu tập trung</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -39,23 +39,23 @@ Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào
 
 ## Aavegotchi Bridge
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+Aavegotchi Bridge là chiếc cầu chính chủ được tạo ra bởi Pixelcraft Studios. Gần đây, nó cho phép người dùng chuyển token ERC20 và ERC721 (Aavegotchi) qua lại giữa Ethereum Mainnet và Polygon Network. Việc chuyển token ERC-1155 ([Trang Phục](/wearables)) sẽ sớm có thể thực hiện.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/bridge).
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+Dưới đây là hướng dẫn chi tiết việc chuyển token ERC20 từ Ethereum Mainnet sang Polygon:
 
-1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
+1). Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token. Chọn token mà bạn muốn chuyển sang Polygon.
 
 <img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-2). Key in the amount that is to be transferred.
+2). Nhập số lượng mà bạn muốn chuyển.
 
 <img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-3). Click the "Approve Transfer" button.
+3). Nhấp vào nút "Approve Transfer".
 
 4). Click the "Transfer to Polygon" button.
 
@@ -63,7 +63,7 @@ The following is a step-by-step example of bridging ERC-20 tokens from Ethereum 
 
 The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
 
-## Decentralized Bridges
+## Cầu phi tập trung
 
 ### Polygon Bridge
 The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
@@ -111,7 +111,7 @@ Finally, you will receive two pink ticks, which means that your transaction has 
 
 If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
 
-## Centralized Bridges
+## Cầu tập trung
 
 ### AscendEX
 
