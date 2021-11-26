@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+date: '2020-10-23T07:00:00.000Z'
+title: 'Cầu Nối'
+description: 'Cầu Aavegotchi (và những cầu khác, dùng để chuyển tài sản đi và về Polygon)'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -10,14 +10,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">Cầu Aavegotchi</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+Cầu nối là một loại phần mềm cho phép người dùng chuyển tài sản từ một blockchain này sang một blockchain khác.
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào ngày 4 tháng Giêng 2021. Do phí gas quá cao, cộng đồng đã bỏ phiếu để triển khai dự án trên [Polygon Network](/glossary#polygon). Kết quả của quyết định này là tài sản cần phải được chuyển từ một mạng lưới này sang một mạng lưới khác.
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+Để hỗ trợ việc chuyển tài sản, Pixelcraft Studios đã tạo ra Aavegotchi Bridge, cho phép người dùng gửi tài sản đi và về giữa cả 2 mạng lưới. Kể từ đó, đã xuất hiện nhiều giải phải dịch chuyển khác nhau. This page will cover some of the most common bridges.
 
 <div class="contentsBox">
 
