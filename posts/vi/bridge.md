@@ -83,27 +83,27 @@ Có thể sẽ phải mất đến 10 phút thì token mới đến được đ�
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
 ### Umbria Narni Bridge
-Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. Narni bridge giải quyết giao dịch chỉ trong khoảng 5 phút, và chi phí vào khoảng $40 (100 GWEI) để chuyển token GHST giữa Ethereum và Polygon. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. Narni bridge giải quyết giao dịch chỉ trong khoảng 5 phút, và chi phí vào khoảng $40 (100 GWEI) để chuyển token GHST giữa Ethereum và Polygon. Hiện tại, chỉ có những token ERC20 mới tương thích với cầu Narni Bridge, NFT không thể chuyển bằng cầu này được.
 
-To use the Umbria Narni Bridge, please refer to the following steps:
+Để sử dụng cầu Narni Bridge, vui lòng xem qua những bước sau đây:
 
-1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
+1). Vào trang [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Chọn mạng gốc và mạng đích.
 
 <img class="bodyImage" src='/bridge/umbria-network-selection.png' />
 
-2). From the dropdown menu, select the token to be bridged.
+2). Từ menu thả, hãy chọn token cần phải bridge.
 
 <img class="bodyImage" src='/bridge/umbria-token-selection.png' />
 
-3). Key in the amount of token to be bridged. The Narni bridge will provide an estimation of the amount of tokens you will receive post-bridging. The bridge takes a 0.5% fee for bridging assets between chains. The fees go to the liquidity providers that are providing assets on the Narni bridge.
+3). Nhập vào lượng token muốn bridge. Narni bridge sẽ dự tính số lượng token mà sẽ nhận được sau khi bridge xong. Chiếc cầu này lấy 0,5% phí khi chuyển tài sản giữa các chain. Phí sẽ được trả cho những ai cung cấp thanh khoản cho tài sản trên Narni bridge.
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). At the point of bridging, you will be provided with 2 options (QR code or MetaMask). Bridging using MetaMask is the recommended approach. It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). Tại thời điểm bridge, bạn sẽ có 2 lựa chọn (QR code và MetaMask). Bridge bằng MetaMask là giải pháp được khuyên dùng. Bạn cũng nên chọn lựa tốc độ giao dịch nhanh nhất mà bạn có thể chi trả để tối thiểu nguy cơ bị nghẽn lệnh giao dịch tạm thời.
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). After sending the transaction, a modal will be displayed. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). Sau khi gửi đi một giao dịch, một modal sẽ hiện lên. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
 
 Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
 
