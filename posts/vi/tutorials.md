@@ -38,7 +38,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Tham gia Raffle 4</a></li>
 <li><a href=#participating-in-gbm-auctions>Tham gia đấu giá GBM</a></li>
-<li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
+<li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
 </ul>
 
 </div>
@@ -135,10 +135,10 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Hướng dẫn toàn tập các mua land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-* Learn about Aavegotchis and Lickquidators
-* Learn about REALM parcels
-* Learn about Gotchus Alchemica and their tokenomics
-* Learn what you can do with your REALM parcels
-* Learn how to buy a REALM parcel
+* Học về Aavegotchi và Lickquidator
+* Học về gói đất REALM
+* Học về Gotchus Alchemica và tokenomics của chúng
+* Học về các hoạt động có thể thực hiện đối với những gói đất REALM
+* Học cách mua gói đất REALM
