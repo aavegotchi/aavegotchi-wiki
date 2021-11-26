@@ -57,33 +57,33 @@ Dưới đây là hướng dẫn chi tiết việc chuyển token ERC20 từ Eth
 
 3). Nhấp vào nút "Approve Transfer".
 
-4). Click the "Transfer to Polygon" button.
+4). Nhấp vào nút "Transfer to Polygon".
 
-5). Wait for ~10 minutes for your asset to appear on Polygon network.
+5). Đợi khoảng 10 phút để tài sản của bạn xuất hiện trên Polygon network.
 
-The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
+Thao tác này có thể áp dụng tương tự cho việc chuyển tài sản trở lại Ethereum Mainnet từ Polygon Network.
 
 ## Cầu phi tập trung
 
 ### Polygon Bridge
-The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
+Polygon Bridge là chiến cầu crosschain đầu tiên kết nối Ethereum với Polygon. Đây là chiếc cầu chính chủ của team Polygon, và nó vận hành theo mô hình validator để chuyển tài sản giữa Ethereum và Polygon. Chiếc cầu này có thể chuyển token $GHST, nhưng không thể chuyển tài sản NFT.
 
-For those who want to use the Polygon Bridge, here are the steps to take:
+Với những ai muốn sử dụng Polygon Bridge, đây là một số bước cần thực hiện:
 
-1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
+1). Truy cập vào Polygon Web Wallet v2 tại[https://wallet.polygon.technology](https://wallet.polygon.technology). Nhấp vào Polygon Bridge (khoanh tròn đỏ bên dưới).
 
 <img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
 
-2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
+2). Chọn token từ menu thả, nhập số lượng vào ô, và nhấp vào nút Transfer
 
 <img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
 
-It can take up to 10 minutes for the tokens to arrive in your Polygon address.
+Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Polygon của bạn.
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
 ### Umbria Narni Bridge
-The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. Narni bridge giải quyết giao dịch chỉ trong khoảng 5 phút, và chi phí vào khoảng $40 (100 GWEI) để chuyển token GHST giữa Ethereum và Polygon. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
 
 To use the Umbria Narni Bridge, please refer to the following steps:
 
