@@ -404,6 +404,10 @@ Option 2: No, don't give FRENS
 
 **Voting Period:** 12 - 19 November 2021
 
+**Ergebnis:**
+
+table_agip14
+
 [Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x42914b268d255efe0eea943d052e5dc7eab0cbbcde9d3cb809f027e3ea1f611f)
 
 <hr />
@@ -434,6 +438,10 @@ Option 1: Yes, establish the WTF
 Option 2: No, don't establish the WTF
 
 **Voting Period:** 12 - 19 November 2021
+
+**Ergebnis:**
+
+table_agip15
 
 [Link zur Abstimmung auf Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xa1f06ffcdd5f5d51c5f82022e8a25ecc7672252f8a47d9ee484b9fe3b6cd5b3a)
 
