@@ -172,6 +172,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip14",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, give FRENS to GHST-MATIC", "11,880,000 GHST (87.25%)"],
+					["No, don't give FRENS", "1,740,000 GHST (12.75%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip15",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, establish the WTF", "12,910,000 GHST (95.65%)"],
+					["No, don't establish the WTF", "586,910 GHST (4.35%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
