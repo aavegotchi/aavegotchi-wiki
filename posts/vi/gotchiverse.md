@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchiverse'
-description: 'All about the Gotchiverse'
+description: 'Tất tần tật về Aavegotchi Metaverse'
 contributors:
   - "eris771"
   - "unintelligent-nerd"
@@ -25,13 +25,13 @@ Ban đầu chỉ có một vài Aavegotchi sống ở Gotchiverse, nhưng khi s�
 
 <ol>
 <li><a href=#zones>Các Khu Vực</a></li>
-<li><a href=#districts>Districts</a></li>
-<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
-<li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#districts>Quận</a></li>
+<li><a href=#realm-parcel-sizes>Kích Thước Đất REALM</a></li>
+<li><a href=#realm-gameplay>Lối Chơi Trong REALM</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Giao Tiếp Xã Hội Trong Gotchiverse</a></li>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
-<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
+<li><a href=#building-on-realm-parcels>Xây Dựng Mẫu Đất REALM</a></li>
+<li><a href=#realm-tokenomics>Tokenomics của REALM</a></li>
 <p><a href=#total-supply>Tổng Lượng Cung</a></p>
 <p><a href=#distribution>Phân Phối</a></p>
 <p><a href=#drop-tickets>Vé Drop</a></p>
@@ -53,7 +53,7 @@ Gotchiverse bao gồm một vùng đất rộng lớn, với những địa danh
 
 #### The Great Portal (Cánh Cổng Lớn)
 
-Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu trúc với bản chất ma thuật đáng kinh ngạc, có thể làm cầu nối vực thẳm giữa Gotchiverse và Vương Quốc Loài Người. Great Portal chứa đựng linh hồn của tất cả những Aavegotchi đã từng tồn tại. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) harvested from the Gotchiverse.
+Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu trúc với bản chất ma thuật đáng kinh ngạc, có thể làm cầu nối vực thẳm giữa Gotchiverse và Vương Quốc Loài Người. Great Portal chứa đựng linh hồn của tất cả những Aavegotchi đã từng tồn tại. Nó bảo vệ Gotchiverse Citaadel, nhưng cần phải đổi lại vào đó một lượng nhỏ tài nguyên [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) thu hoạch từ Gotchiverse.
 
 ### The Grid
 
@@ -72,7 +72,7 @@ Người Thanh Khoản không dám bước chân vào Aarena, thay vì vậy, ch
 
 Hững Mẫu Đất bị khóa sẽ không thể mở được cho đến khi Act 2 bắt đầu.
 
-## Districts
+## Quận
 
 Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
 
@@ -82,7 +82,7 @@ Guilds generally organize themselves in districts. Check out the [Guild page](/g
 
 Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
 
-## REALM Parcel Sizes
+## Kích Thước Đất REALM
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
@@ -98,7 +98,7 @@ To make it more human frenly, each parcel will be assigned with a unique three w
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
-## REALM Gameplay
+## Lối Chơi Trong REALM
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
@@ -117,7 +117,7 @@ The main goal of a lickquidator is to collect loose Alchemica that has been spil
 
 Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
-## Socializing in the Gotchiverse
+## Giao Tiếp Xã Hội Trong Gotchiverse
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
@@ -164,7 +164,7 @@ During the crafting process, a small portion of Alchemica (5%) is burned forever
 
 <img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
 
-## Building on REALM parcels
+## Xây Dựng Mẫu Đất REALM
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
@@ -176,7 +176,7 @@ Installations take a certain number of blockchain blocks to finish constructing,
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
-## REALM Tokenomics
+## Tokenomics của REALM
 
 ### Tổng Lượng Cung
 
