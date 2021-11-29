@@ -42,12 +42,12 @@ Bên trong, các Gotchi đang bận mặc cả với nhau.
 
 ## Sàn Giao Dịch Gotchus Alchemica
 
-Gotchus Alchemica Exchange (GAX) là sàn giao dịch phi tập trung (DEX) của Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) among market participants. Ban đầu GAX sẽ hỗ trợ việc giao dịch tất cả các cặp GHST-Alchemica.
+Gotchus Alchemica Exchange (GAX) là sàn giao dịch phi tập trung (DEX) của Aavegotchi. Nó được tạo ra để hỗ trợ việc giao dịch các [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) giữa người chơi. Ban đầu GAX sẽ hỗ trợ việc giao dịch tất cả các cặp GHST-Alchemica.
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Các cặp Giao Dịch của Gotchus Alchemica" />
 
-Để khuyến khích thanh khoản trên GAX, một loại token ERC20 mang tên GLMR sẽ được phát cho những người cung cấp thanh khoản. GLMR stands for Gotchi Liquidity Mining Rewards. The team has yet to decide whether the GLMR supply should be capped or not.
+Để khuyến khích thanh khoản trên GAX, một loại token ERC20 mang tên GLMR sẽ được phát cho những người cung cấp thanh khoản. GLMR là viết tắt của Gotchi Liquidity Mining Rewards. Đội ngũ vẫn chưa quyết định được liệu nguồn cung của GLMR có hạn hay không.
 
-GLMR can be spent to reduce the crafting/upgrading time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+GLMR có thể được dùng để giảm thời gian xây dựng [các Công Trình ](/gotchiverse#building-on-realm-parcels) trong Gotchiverse. Thông tin chi tiết sẽ sớm được công bố.
 
-GAX may support non GHST-Alchemica pairs in the future.
+GAX có thể sẽ hỗ trợ giao dịch các cặp token khác ngoài GHST-Alchemica trong tương lai.
