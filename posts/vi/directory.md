@@ -77,27 +77,27 @@ contributors:
 
 * [Mumbai Testnet](/mumbai-testnet)
 
-* [Partners](/partners)
+* [Đối tác](/partners)
 
 * [Polygon](/polygon)
 
 * [Portals](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [Rarity farming bắt đầu](/rarity-farming-seasons)
 
 * [Roadmap](/roadmap)
 
-* [Sets](/sets)
+* [Bộ Trang Phục](/sets)
 
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Linh Lực](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Lịch Sử Linh Lực](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -109,7 +109,7 @@ contributors:
 
 * [Traits](/traits)
 
-* [Tutorials](/tutorials)
+* [Hướng Dẫn](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
