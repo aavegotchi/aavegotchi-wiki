@@ -204,7 +204,7 @@ Cách phân phối thứ 2 dành cho Các Mẫu Đất REALM sẽ được tiế
 
 Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Mỗi Vé Drop đại diện cho **một** cơ hội tham gia vào sự kiện Xổ Số Raffle, ở đó bạn có thể giành được Portal Aavegotchi và Mẫu Đất REALM.
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Vé Drop Aavegotchi và Mẫu Đất REALM" />
 
 Có 3 cách để nhận Vé Drop:
 
