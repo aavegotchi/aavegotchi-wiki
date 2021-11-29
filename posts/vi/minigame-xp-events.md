@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/minigame-xp-events/Aarcade_Machine.png">
+<p class="headerImageText">Ready Player One!</p>
+</div>
+
 Theo thời gian, sự kiện XP sẽ được tổ chức cho các [mini-games](/minigames) Aavegotchi được chọn lọc. Gotchi phải tranh đấu cùng nhau để leo bảng xếp hạng và giành lấy giải thưởng [XP](/xp).
 
 Trang này sẽ liệt kê chi tiết những sự kiện XP minigame trong quá khứ.
