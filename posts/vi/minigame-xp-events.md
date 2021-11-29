@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
+Theo thời gian, sự kiện XP sẽ được tổ chức cho các [mini-games](/minigames) Aavegotchi được chọn lọc. Gotchi phải tranh đấu cùng nhau để leo bảng xếp hạng và giành lấy giải thưởng [XP](/xp).
 
-This page details the past mini-game XP events.
+Trang này sẽ liệt kê chi tiết những sự kiện XP minigame trong quá khứ.
 
 <div class="contentsBox">
 
@@ -27,30 +27,30 @@ This page details the past mini-game XP events.
 
 ## Gotchi the Gaatherer
 
-Event Duration: 13 - 19 May 2021
+Thời gian: 13 - 19 Tháng Năm 2021
 
 table_gotchiTheGaatherer
 
 ## Snaake
 
-Event Duration: 26 - 30 May 2021
+Thời gian: 26 - 30 tháng Năm 2021
 
 table_snaake
 
 ## Sushi Vader
 
-Event Duration: 2 - 6 June 2021
+Thời gian: 2 - 6 tháng Sáu 2021
 
 table_sushiVader
 
 ## Whac-a-Rofl
 
-Event Duration: 12 - 19 August 2021
+Thời gian: 12 - 19 tháng Tám 2021
 
 table_whacARofl
 
 ## Astegotchi
 
-Event Duration: 23 - 26 November 2021
+Thời gian: 23 - 26 tháng Mười Một 2021
 
 table_astegotchi
