@@ -78,7 +78,7 @@ Districts comprise of groups of REALM parcels that are situated close to each ot
 
 Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
+<img src="/gotchiverse/aavegotchi-districts.png" alt="Các Quận Trong Aavegotchi" />
 
 Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
 
@@ -96,7 +96,7 @@ Some parcels will be next to or adjacent to Alchemica deposits. These parcels wi
 
 To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Kích Thước Đất Aavegotchi REALM" />
 
 ## Lối Chơi Trong REALM
 
@@ -148,7 +148,7 @@ Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange 
 
 The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
 
-<img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
+<img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Số Lượng Aavegotchi Gốc trong mỗi Gói Đất" />
 
 25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
 
@@ -162,7 +162,7 @@ During the crafting process, a small portion of Alchemica (5%) is burned forever
 
 * 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
 
-<img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
+<img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Lượng Gotchus Alchemica đã sử dụng và điểm đến của chúng" />
 
 ## Xây Dựng Mẫu Đất REALM
 
@@ -190,24 +190,24 @@ Method 1: Incentivized GBM Auctions (80%)
 
 The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
-Check out our [Aauction page](/aauction) for more information.
+Bạn có thể xem thêm thông tin tại [trang Đấu Giá](/aauction).
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Mô hình đấu giá mang tính cách mạng này đã giải quyết được nhiều vấn đề liên qua đến những đợt mở bán phục vụ theo thứ tự First Come First Serve, nhưng về bản chất, ai trả tiền nhiều vẫn sẽ thắng.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Để cân bằng việc này, đội ngũ phát triển đã quyết định xổ số 20% đất REALM còn lại bằng cách sử dụng Mô hình Xổ số dựa trên ChainLink VRF.
 
-Method 2: Raffle (20%)
+Cách 2: Xổ Số (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+Cách phân phối thứ 2 dành cho Các Mẫu Đất REALM sẽ được tiến hành thông qua hình thức xổ số dưới sự hỗ trợ của ChainLink. Những ai tham gia sẽ đăng ký bằng Drop Ticket, loại vé được dùng cho Xổ số Mua Portal và REALM. Drop Ticket có thể kiếm được bằng cách giữ Aavegotchi đã được triệu hồi, tham gia làm Nhiệm Vụ, hoặc bằng cách đổi điểm FRENS hoặc những loại [vé Raffle](/staking#purchasing-raffle-tickets) khác với tỷ lệ 10k FRENS mỗi Drop Ticket. Hãy bắt đầu tích trữ điểm FRENS ngay bằng cách [stake GHST](/staking).
 
 ### Vé Drop
 
-Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Mỗi Vé Drop đại diện cho **một** cơ hội tham gia vào sự kiện Xổ Số Raffle, ở đó bạn có thể giành được Portal Aavegotchi và Mẫu Đất REALM.
 
 <img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-There are three ways to get Drop Tickets:
+Có 3 cách để nhận Vé Drop:
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* Chuyển đổi 10k FRENS thành một Vé Drop
+* Chuyển đổi những Vé Raffle khác thành Vé Drop
+* Mời bạn bè để nhận vé Drop 🔥
