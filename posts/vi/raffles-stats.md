@@ -18,41 +18,41 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 **Nội dung**
 
 <ol>
-<li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></li>
-<li><a href=#raffle-2--aave-theme->Raffle 2 (Aave Theme)</a></li>
-<li><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></li>
-<li><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></li>
-<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Haunt 2 Portal Drop)</a></li>
-<li><a href=#raffle-6--partnerships-theme->Raffle 6 (Partnerships Theme)</a></li>
-<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (1st Land Raffle)</a></li>
-<li><a href=#chart>Chart</a></li>
+<li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chủ Đề Chainlink)</a></li>
+<li><a href=#raffle-2--aave-theme->Raffle 2 (Chủ Đề Aave)</a></li>
+<li><a href=#raffle-3--ethereum-theme->Raffle 3 (Chủ Đề Ethereum)</a></li>
+<li><a href=#raffle-4--layer-2-theme->Raffle 4 (Chủ Đề Layer 2)</a></li>
+<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Mở bán Portal Haunt 2)</a></li>
+<li><a href=#raffle-6--partnerships-theme->Raffle 6 (Chủ Đề Các Đối Tác)</a></li>
+<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (Raffle Land Đầu Tiên)</a></li>
+<li><a href=#chart>Biểu Đồ</a></li>
 </ol>
 
 </div>
 
-## Raffle 1 (Chainlink Theme)
+## Raffle 1 (Chủ Đề Chainlink)
 table_raffle1
 
-## Raffle 2 (Aave Theme)
+## Raffle 2 (Chủ Đề Aave)
 table_raffle2
 
-## Raffle 3 (Ethereum Theme)
+## Raffle 3 (Chủ Đề Ethereum)
 table_raffle3
 
-## Raffle 4 (Layer 2 Theme)
+## Raffle 4 (Chủ Đề Layer 2)
 table_raffle4
 
-## Raffle 5 (Haunt 2 Portal Drop)
+## Raffle 5 (Mở bán Portal Haunt 2)
 table_raffle5
 
-## Raffle 6 (Partnerships Theme)
+## Raffle 6 (Chủ Đề Các Đối Tác)
 table_raffle6
 
-## Raffle 7 (1st Land Raffle)
+## Raffle 7 (Raffle Land Đầu Tiên)
 table_raffle7
 
-## Chart
+## Biểu Đồ
 
-What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
+Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
