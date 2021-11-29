@@ -32,7 +32,9 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 </div>
 
 ## XP Rewards for Mini-Games
-From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
+From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
+
+For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
 
 XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
 
