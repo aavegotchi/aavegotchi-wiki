@@ -6,6 +6,11 @@ description: 'Mini-Game XP Events'
 contributors: ["unintelligent-nerd"]
 ---
 
+<div class="headerImageContainer">
+<img class="headerImage" src="/minigame-xp-events/Aarcade_Machine.png">
+<p class="headerImageText">Ready Player One!</p>
+</div>
+
 From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
 
 This page details the past mini-game XP events.

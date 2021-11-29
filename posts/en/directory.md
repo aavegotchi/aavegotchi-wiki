@@ -70,6 +70,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Mini-Games](/minigames)
 
+* [Mini-Game XP Events](/minigame-xp-events)
+
 * [Missions](/missions)
 
 * [Mumbai Testnet](/mumbai-testnet)
