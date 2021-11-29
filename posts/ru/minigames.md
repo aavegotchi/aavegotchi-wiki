@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Го, поиграем!</p>
 </div>
 
-Владеете Готчи, помните — вы можете с ним поиграть в одну из мини-игр. Весло провести время и заработать очки опыта. Путешествуйте по [Вселенной](/metaverse) Аавеготчи, исследуйте мир с друзьями и проходите многочисленные испытания на своем пути.
+Владеете Готчи, помните — вы можете с ним поиграть в одну из мини-игр. Весло провести время и заработать очки опыта. One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
 
 Некоторые игры будут совсем простыми, базируясь на генераторе случайных чисел. В другие играть будет сложнее. Потребуется опыт и игровые навыки. Зато, будет намного интересней!
 
@@ -25,16 +25,24 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#official-mini-games>Официальные мини-игры.</a></li>
-<li><a href=#community-created-mini-games>Мини-игры, созданные сообществом.</a></li>
+<li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
+<li><a href=#official-mini-games>Official Mini-Games</a></li>
+<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
 </ol>
 
 </div>
 
-## Официальные мини-игры
-Совсем скоро! Команда усердно трудится над созданием мини-игр. Как только появится дополнительная информация, она будет опубликована на этой странице.
+## XP Rewards for Mini-Games
+From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
 
-## Перечень мини-игр, созданных сообществом
+For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
+
+XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
+
+## Official Mini-Games
+Soon! The Devs are hard at work. More information will be released here once it is available!
+
+## Community-created Mini-Games
 
 Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
 
@@ -42,39 +50,39 @@ The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aa
 
 ### Реверсивный Пакмэн от AARON555
 
-Ссылка на игру [здесь](https://cryptolve.com/aavegotchi_pacman/).
+Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 
-<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Реверсивный Пакмэн от AARON555" />
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
 
 ### Расхититель Порталов от BITFLICKER
 
-Ссылка на игру [здесь](https://bitflicker.tech/aavegotchi/rider/).
+Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
 
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Расхититель Порталов от BITFLICKER" />
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
 ### Готчи — Защитник Башни, автор JARROD/AAVEGOTCHISTATS.COM
 
-Ссылка на игру [здесь](https://aavegotchistats.com/td).
+Link to game [here](https://aavegotchistats.com/td)
 
-<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Готчи — Защитник Башни, автор JARROD/AAVEGOTCHISTATS.COM" />
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
 ### Готчи-Коллекционер от BITFLICKER
 
-Ссылка на игру [здесь](https://gotchigaatherer.gg/).
+Link to game [here](https://gotchigaatherer.gg/)
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Готчи-Коллекционер от BITFLICKER" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
 
 ### Суши-Вейдер от RICJONES/GRIZZY
 
-Ссылка на игру [здесь](https://sushivader.com/).
+Link to game [here](https://sushivader.com/)
 
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Суши-Вейдер от RICJONES/GRIZZY" />
+<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
 
 ### Змеюка от SPYCEBRINGER
 
-Ссылка на игру [здесь](https://snaake.gg/).
+Link to game [here](https://snaake.gg/)
 
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Змеюка от SPYCEBRINGER" />
+<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
 
 ### Whac-a-Rofl by Gotchinomics
 
