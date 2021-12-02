@@ -30,6 +30,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
+<p><a href=#flamingo-dao>Flamingo DAO</a></p>
 </ol>
 
 </div>
@@ -175,3 +176,12 @@ BlackPool is the first decentralised autonomous organisation (DAO) built solely 
 We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
 
 BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
+
+### Flamingo DAO
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/flamingodao.jpg" alt = "Flamingo DAO">
+<p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
+</div>
+
+An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
