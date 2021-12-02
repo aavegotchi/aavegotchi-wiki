@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
+* There are 3 ways to earn Alchemica
+* Check it out here!
+<p></p>
+
 ## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
 * Pixelcraft announces the upcoming Gotchi Lending feature!  :)
 <p></p>
