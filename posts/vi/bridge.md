@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+date: '2020-10-23T07:00:00.000Z'
+title: 'Cầu Nối'
+description: 'Cầu Aavegotchi (và những cầu khác, dùng để chuyển tài sản đi và về Polygon)'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -10,14 +10,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">Cầu Aavegotchi</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+Cầu nối là một loại phần mềm cho phép người dùng chuyển tài sản từ một blockchain này sang một blockchain khác.
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào ngày 4 tháng Giêng 2021. Do phí gas quá cao, cộng đồng đã bỏ phiếu để triển khai dự án trên [Polygon Network](/glossary#polygon). Kết quả của quyết định này là tài sản cần phải được chuyển từ một mạng lưới này sang một mạng lưới khác.
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+Để hỗ trợ việc chuyển tài sản, Pixelcraft Studios đã tạo ra Aavegotchi Bridge, cho phép người dùng gửi tài sản đi và về giữa cả 2 mạng lưới. Kể từ đó, đã xuất hiện nhiều giải phải dịch chuyển khác nhau. Phần này sẽ thể hiện một số chiếc cầu thông dụng.
 
 <div class="contentsBox">
 
@@ -25,10 +25,10 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 <ol>
 <li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
+<li><a href=#decentralized-bridges>Cầu phi tập trung</a></li>
 <p><a href=#polygon-bridge>Polygon Bridge</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#centralized-bridges>Cầu tập trung</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -39,108 +39,108 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 ## Aavegotchi Bridge
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+Aavegotchi Bridge là chiếc cầu chính chủ được tạo ra bởi Pixelcraft Studios. Gần đây, nó cho phép người dùng chuyển token ERC20 và ERC721 (Aavegotchi) qua lại giữa Ethereum Mainnet và Polygon Network. Việc chuyển token ERC-1155 ([Trang Phục](/wearables)) sẽ sớm có thể thực hiện.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/bridge).
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+Dưới đây là hướng dẫn chi tiết việc chuyển token ERC20 từ Ethereum Mainnet sang Polygon:
 
-1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
+1). Tiếp theo, click vào hình đại diện của token (vùng khoang tròn màu đỏ bên dưới) để mở ra bảng danh sách token. Chọn token mà bạn muốn chuyển sang Polygon.
 
 <img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-2). Key in the amount that is to be transferred.
+2). Nhập số lượng mà bạn muốn chuyển.
 
 <img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-3). Click the "Approve Transfer" button.
+3). Nhấp vào nút "Approve Transfer".
 
-4). Click the "Transfer to Polygon" button.
+4). Nhấp vào nút "Transfer to Polygon".
 
-5). Wait for ~10 minutes for your asset to appear on Polygon network.
+5). Đợi khoảng 10 phút để tài sản của bạn xuất hiện trên Polygon network.
 
-The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
+Thao tác này có thể áp dụng tương tự cho việc chuyển tài sản trở lại Ethereum Mainnet từ Polygon Network.
 
-## Decentralized Bridges
+## Cầu phi tập trung
 
 ### Polygon Bridge
-The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
+Polygon Bridge là chiến cầu crosschain đầu tiên kết nối Ethereum với Polygon. Đây là chiếc cầu chính chủ của team Polygon, và nó vận hành theo mô hình validator để chuyển tài sản giữa Ethereum và Polygon. Chiếc cầu này có thể chuyển token $GHST, nhưng không thể chuyển tài sản NFT.
 
-For those who want to use the Polygon Bridge, here are the steps to take:
+Với những ai muốn sử dụng Polygon Bridge, đây là một số bước cần thực hiện:
 
-1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
+1). Truy cập vào Polygon Web Wallet v2 tại[https://wallet.polygon.technology](https://wallet.polygon.technology). Nhấp vào Polygon Bridge (khoanh tròn đỏ bên dưới).
 
 <img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
 
-2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
+2). Chọn token từ menu thả, nhập số lượng vào ô, và nhấp vào nút Transfer
 
 <img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
 
-It can take up to 10 minutes for the tokens to arrive in your Polygon address.
+Có thể sẽ phải mất đến 10 phút thì token mới đến được địa chỉ Polygon của bạn.
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
 ### Umbria Narni Bridge
-The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. Narni bridge giải quyết giao dịch chỉ trong khoảng 5 phút, và chi phí vào khoảng $40 (100 GWEI) để chuyển token GHST giữa Ethereum và Polygon. Hiện tại, chỉ có những token ERC20 mới tương thích với cầu Narni Bridge, NFT không thể chuyển bằng cầu này được.
 
-To use the Umbria Narni Bridge, please refer to the following steps:
+Để sử dụng cầu Narni Bridge, vui lòng xem qua những bước sau đây:
 
-1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
+1). Vào trang [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Chọn mạng gốc và mạng đích.
 
 <img class="bodyImage" src='/bridge/umbria-network-selection.png' />
 
-2). From the dropdown menu, select the token to be bridged.
+2). Từ menu thả, hãy chọn token cần phải bridge.
 
 <img class="bodyImage" src='/bridge/umbria-token-selection.png' />
 
-3). Key in the amount of token to be bridged. The Narni bridge will provide an estimation of the amount of tokens you will receive post-bridging. The bridge takes a 0.5% fee for bridging assets between chains. The fees go to the liquidity providers that are providing assets on the Narni bridge.
+3). Nhập vào lượng token muốn bridge. Narni bridge sẽ dự tính số lượng token mà sẽ nhận được sau khi bridge xong. Chiếc cầu này lấy 0,5% phí khi chuyển tài sản giữa các chain. Phí sẽ được trả cho những ai cung cấp thanh khoản cho tài sản trên Narni bridge.
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). At the point of bridging, you will be provided with 2 options (QR code or MetaMask). Bridging using MetaMask is the recommended approach. It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). Tại thời điểm bridge, bạn sẽ có 2 lựa chọn (QR code và MetaMask). Bridge bằng MetaMask là giải pháp được khuyên dùng. Bạn cũng nên chọn lựa tốc độ giao dịch nhanh nhất mà bạn có thể chi trả để tối thiểu nguy cơ bị nghẽn lệnh giao dịch tạm thời.
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). After sending the transaction, a modal will be displayed. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). Sau khi gửi đi một giao dịch, một modal sẽ hiện lên. Phần thứ nhất cho thấy giao dịch của bạn đang được xử lý để đến được cầu. Một khi giao dịch của bạn đã đến cầu, bạn sẽ nhận được dấu tick đầu tiên. Có thể sẽ mất vài phút để nhân được cả hai tick, nhưng nếu mất hơn 10 phút thì hãy liên hệ với team Umbria trên Discord để giúp bạn giải quyết vấn đề.
 
-Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
+Cuối cùng, bạn sẽ nhận được hai dấu tick hồng, nghĩa là giao dịch của bạn đã được bridge thành công, và bạn có thể thấy được tài sản của mình trong ví trên blockchain đích. Bạn sẽ có thể thấy giao dịch trên trình khám phá block của điểm đến bằng cách nhấp vào nút trên màn hình trong giai đoạn này.
 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
-If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
+Nếu bạn có bất kỳ câu hỏi nào về Umbria Narni Bridge, hoặc muốn chát với một thành viên để được sự hỗ trợ từ đội ngũ phát triển, hãy tìm đến [kênh Discord của Umbria](https://discord.gg/8Ms7Cr4)
 
-## Centralized Bridges
+## Cầu tập trung
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
+AscendEX (trước đây là BitMax) là một nền tảng giao dịch tiền điện tử cho phép rút tiền sang mạng Polygon. Hãy xem qua infographic dưới đây để biết thêm chi tiết.
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Dùng AscendEX để chơi Aavegotchi" />
 
 ### Transak
 
-Transak is a fiat-to-crypto payment gateway. Users pay using their credit card and receive the tokens on the wallet address they specified.
+Transak là một cổng thanh toán tiền-pháp-định-tiền-mã-hoá. Người dùng thanh toán bằng cách sử dụng thẻ credit của họ và nhận lại token trong ví mà họ chỉ định.
 
 Hãy xem qua [bài viết này](https://trasher.substack.com/p/buying-your-tokens-straight-into) từ thành viên trong cộng đồng bọn mình để biết thêm chi tiết.
 
 ### Crypto.com
 
-Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to Polygon Network.
+Crypto.com là một ứng dụng ví trên điện thoại. Họ cho phép rút MATIC và USDC sang Polygon.
 
-1). Select Transfer --> Withdraw --> Crypto --> External Wallet
+1). Chọn Transfer --> Withdraw --> Crypto --> External Wallet
 
-2). Click the + sign at the top right corner
+2). Nhấp vào dấu + ở góc trên cùng bên phải
 
-3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
+3). Chọn loại token mà bạn muốn rút. Nếu có thể rút token đó, bạn sẽ thấy một Tuỳ Chọn dành cho "Polygon" trong mục "Select Network" (xem ảnh screenshot bên dưới).
 
-<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon" />
+<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com rút sang Polygon" />
 
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+Binance là một trong những sàn giao dịch lớn nhất thế giới. Họ cũng cho phép rút sang Polygon.
 
-At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+Tại trang rút tiền, hãy chọn Network là **MATIC** Polygon (xem ảnh chụp màn hình bên dưới).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
+<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Rút từ Binance sang Polygon" />

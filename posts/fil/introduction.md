@@ -14,7 +14,7 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/metaverse). Ang Aavegotchi ay isang unique na combination ng [Decentralized Finance (DeFi)](/glossary#defi-101) at NFTs.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). Ang Aavegotchi ay isang unique na combination ng [Decentralized Finance (DeFi)](/glossary#defi-101) at NFTs.
 
 Ang Aavegotchis ay mga pixelated na multo na nasa Ethereum blockchain, at ginawa sila ayon sa [**ERC-721**](/glossary#erc-721) standard. Nakabase ang kanilang value sa rarity level, na nakabase sa iba't ibang factors tulad ng base [traits](/traits), halaga ng naka-deposit na collateral/aTokens, at suot na [wearables](/wearables).
 

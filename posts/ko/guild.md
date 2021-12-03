@@ -26,6 +26,6 @@ table_guild
 
 ## Guild Map
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333
+Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
 
 <img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />

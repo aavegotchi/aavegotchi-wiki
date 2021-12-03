@@ -17,7 +17,7 @@ Ang hamak na Wiking ito ay ang pangunahing reference para sa lahat ng tungkol sa
 
 ## Bago sa Aavegotchi?
 
-Pumunta sa [Introduction](https://wiki.aavegotchi.com/introduction) para sa isang high-level na overview ng Aavegotchi.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## Popular Pages
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi

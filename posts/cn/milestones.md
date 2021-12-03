@@ -7,6 +7,46 @@ contributors:
   - "007"
 ---
 
+## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
+* There are 3 ways to earn Alchemica
+* Check it out here!
+<p></p>
+
+## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
+* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+<p></p>
+
+## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 7000 parcels will be distributed through a Bid-to-Earn Auction from 2 - 5 December 2021
+* 3000 parcels will be distributed through a Drop Ticket Raffle from 10 - 13 December 2021
+<p></p>
+
+## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
+* AGIP14: Earn FRENS with GHST-MATIC LP Tokens
+* AGIP15: Create a Wearables Taask Force
+<p></p>
+
+## [Coderdan the shippoorrrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
+* Coderdan and his army of shippporrrrs continue to deliver:
+1. First Gotchiverse Land Auction
+2. Rarity Farming SZN 2 Kickoff
+3. Former World of Warcraft Game Designer Joins Team
+4. Gotchus Alchemica Tokenomics Report
+5. YGG Becomes First Official Gotchiverse Partner
+6. Blackpool Becomes Second Official Gotchiverse Partner
+7. Onchain Aging Boost for Aavegotchis Implemented
+8. 3-Word Addresses
+9. 1M USD + Aavegotchi Aastronauts Auction on Unicly
+10. Aavegotchi to Ethereum Bridge Opens
+11. r/CryptoCurrency Reddit AMA
+12. GHST Added to Umbria Narni Bridge
+13. Pixelcraft Studios Dev Highlights
+<p></p>
+
+## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
+* Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
+<p></p>
+
 ## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
 * FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
 * Read all about their tokenomics here!

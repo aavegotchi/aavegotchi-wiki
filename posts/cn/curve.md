@@ -87,7 +87,7 @@ Aavegotchi项目通过Aragon上的DAICO启动了代币联合曲线。
 [AavegotchiDAO](/dao) 的第一次迭代与GHST在联合曲线上的发售同步推出。 GHST代币持有者有权投票决定增加/维持， [联合曲线 bonding curve (TBC)](/curve) 中给Pixelcraft工作室（Aavegotchi背后的团队）预留支持开发的资金。 将资金水龙头从每月5万DAI提高到10万DAI的首个提议，在2020年10月18日以99%的支持率通过。
 
 ## Aavegotchi 代币供应动态机制
-在我们讨论上述联合曲线/DAICO时，我们了解到，GHST 代币的总供应是动态的。 当投资者使用 DAI 从关联曲线购买GHST时， 新的GHST 代币被发行，流通GHST 的总供应量将会增加。 反过来也是如此。 当用户将他们的GHST卖回联合曲线时，他们会根据联合曲线上当时的GHST价格收到等额的DAI。
+在我们讨论上述联合曲线/DAICO时，我们了解到，GHST 代币的总供应是动态的。 When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
 
 通过联合曲线上的净购买，GHST代币的通货膨胀与GHST价格呈正相关。 **根据联合曲线的数学编码，GHST的价格会随着供应量的增加而上涨。**
 

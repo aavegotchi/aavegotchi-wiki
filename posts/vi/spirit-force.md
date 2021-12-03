@@ -35,7 +35,7 @@ Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotc
 <li><a href=#cryptocurrencies>Tiền mã hoá</a></li>
 <li><a href=#getting-atokens>Sở hữu aToken</a></li>
 <li><a href=#converting-atokens-into-matokens>Chuyển đổi aToken thành maToken</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Sự khác nhau giữa maToken và amToken</a></li>
 </ol>
 
 </div>
@@ -58,7 +58,7 @@ table_cryptocurrencies
 
 ## Sở hữu aToken
 
-*Những bước sau đây được lấy ra từ [Bài hướng dẫn Zero to Hero 2.0 ](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834)từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
+*Những bước sau đây được lấy ra từ [Bài hướng dẫn Zero to Hero 2.0 ](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45)từ Medium của Aave. Nó đã được viết lại tại đây để người đọc dễ tham khảo.*
 
 1). Truy cập vào <a href = "https://app.aave.com/">Aave Protocol </a>để bắt đầu!
 
@@ -86,10 +86,10 @@ Có aToken rồi đúng hem? Hay lắm!
 
 Giờ chuyển sang trang[maTokens](/matokens) page để đi đến Bước 2 nhé!
 
-## Differences between maTokens and amTokens
+## Sự khác nhau giữa maToken và amToken
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+Cả maToken và amToken đều sinh lãi. Tuy nhiên, *các thức* sinh lãi của chúng khác nhau:
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maTokens tăng **giá trị** theo thời gian. Điều này đúng với Aavegotchi trong Haunt 1, với việc chúng sử dụng maToken. Giá trị của maToken tăng lên, nhưng số lượng không đổi, không thể rút maToken từ Gotchi, trừ khi bạn hiến tế Gotchi để lấy tài sản thế chấp.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* maTokens tăng **giá trị** theo thời gian. Điều này đúng với những Aavegotchi trong Haunt 2 và những thế hệ sau. Lợi nhuận sinh ra được phản ảnh qua số lượng. Do đó, có thể ruát amToken khi đã đủ số lượng nhất định.
