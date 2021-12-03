@@ -17,7 +17,7 @@ image: "icons/introduction.svg"
 
 ## 아베고치가 처음이신가요?
 
-아베고치 게임에 대한 전체적인 개요는 [인트로](https://wiki.aavegotchi.com/introduction)페이지에서 찾아보실 수 있습니다.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## 인기 페이지들
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi

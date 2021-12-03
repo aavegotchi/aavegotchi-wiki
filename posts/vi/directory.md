@@ -45,6 +45,8 @@ contributors:
 
 * [Thuật Ngữ](/glossary)
 
+* [Gotchiverse](/gotchiverse)
+
 * [Sàn Giao Dịch Gotchus Alchemica](/gotchus-alchemica-exchange)
 
 * [Guild](/guild)
@@ -65,11 +67,11 @@ contributors:
 
 * [Memes](/memes)
 
-* [Metaverse](/metaverse)
-
 * [Lịch sử phát triển](/milestones)
 
 * [Mini-games](/minigames)
+
+* [Sự Kiện XP Minigame](/minigame-xp-events)
 
 * [Nhiệm vụ](/missions)
 
@@ -85,7 +87,7 @@ contributors:
 
 * [Rarity Farming](/rarity-farming)
 
-* [Các Mùa Rarity Farming](/rarity-farming-seasons)
+* [Rarity farming bắt đầu](/rarity-farming-seasons)
 
 * [Roadmap](/roadmap)
 
@@ -107,10 +109,10 @@ contributors:
 
 * [Traits](/traits)
 
-* [Hướng dẫn](/tutorials)
+* [Hướng Dẫn](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
 * [Wearables](/wearables)
 
-* [Kinh nghiệm](/xp)
+* [XP](/xp)

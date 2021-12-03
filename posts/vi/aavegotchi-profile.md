@@ -28,7 +28,7 @@ Trang này sẽ cho bạn biết thứ bạn có thể làm với những ngư�
 <p><a href=#stats-xp>Chỉ số/XP</a></p>
 <p><a href=#interact-with-your-gotchi>Tương tác với các Gotchi</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#more-actions>More Actions</a></p>
+<p><a href=#more-actions>Tác vụ khác</a></p>
 </ol>
 
 </div>

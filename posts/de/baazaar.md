@@ -66,9 +66,10 @@ The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 ## Features
 There are a variety of products listed on the Baazaar:
 
-* Closed Portals
-* Opened Portals
 * Aavegotchis
+* Portals — Closed
+* Portals — Open
+* Gotchiverse REALM
 * Kleidungsstücke
 * Consumables
 * Raffle Tickets

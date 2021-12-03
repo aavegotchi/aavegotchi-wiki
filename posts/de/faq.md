@@ -133,13 +133,13 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 * **STEP 6:** Play some [Mini-Games](/minigames)
 
-* **STEP 7:** Wait for the [Metaverse](/metaverse) to roll out!
+* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
 
 You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
 ### Wann kann ich ein Aavegotchi bekommen?
 
-2 March 2021 on Polygon! The [metaverse](/metaverse) will open shortly after (Q1 2021).
+2 March 2021 on Polygon! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
 
 ### How much does it cost to play Aavegotchi?
 There are a couple of ways to get an Aavegotchi:

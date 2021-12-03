@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Let's Game!</p>
 </div>
 
-What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/metaverse) overworld with friends and pitting your Aavegotchis against theirs.
+What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
 
 Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
 
@@ -25,11 +25,19 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 ** 목차 **
 
 <ol>
+<li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
 <li><a href=#official-mini-games>Official Mini-Games</a></li>
 <li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
 </ol>
 
 </div>
+
+## XP Rewards for Mini-Games
+From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
+
+For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
+
+XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
 
 ## Official Mini-Games
 Soon! The Devs are hard at work. More information will be released here once it is available!
@@ -123,3 +131,10 @@ Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/
 Link to game [here](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
+
+### Astegotchi by Alvi
+
+Link to game [here](https://astegotchi.aavegames.com/)
+
+<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
+

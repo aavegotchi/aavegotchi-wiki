@@ -73,6 +73,8 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Community made free petting service
 
+* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - A data visualization tool that features districts, floor prices, price estimators, etc.
+
 ## Subgraphs
 
 * Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)

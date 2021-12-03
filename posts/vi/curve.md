@@ -102,7 +102,7 @@ Vòng lặp đầu tiên của [AavegotchiDAO](/dao) đã được triển khai 
 
 ## Những Động Lực Trong Lượng Cung Token của Aavegotchi
 
-Sau khi đã bàn luận về bonding curve/DAICO ở phía trên, chúng ta đã học được rằng tổng lượng cung của token GHST là một động lực. Khi các nhà đầu tư dùng DAI để mua GHST từ bonding curve, những token GHST được đúc và tổng lượng cung được phát hành của GHST sẽ tăng lên. Tình huống ngược lại vẫn đúng. Khi người dùng bán GHST lại cho bonding curve, họ sẽ nhận được một lượng DAI tương ứng dựa vào giá GHST thích hợp được thể hiện trên bonding curve.
+Sau khi đã bàn luận về bonding curve/DAICO ở phía trên, chúng ta đã học được rằng tổng lượng cung của token GHST là một động lực. Khi các nhà đầu tư dùng DAI để mua GHST từ bonding curve, những token GHST được đúc và tổng lượng cung được phát hành của GHST sẽ tăng lên. Khi token GHST được bán lại vào trong bonding curve, token GHST sẽ bị đốt, người bán sẽ nhận lại được lượng DAI tương ứng dựa trên giá GHST thể hiện trên bonding curve, và nguồn cung của token GHST sẽ giảm xuống.
 
 Tình trạng lạm phát của token GHST những lệnh mua hàng tịnh trên bonding curve tương quan tích cực với giá của GHST. **Bonding curve đang được lập trình toán học để khiến giá của GHST tăng lên khi lượng cung của GHST tăng lên.**
 

@@ -17,7 +17,7 @@ image: "icons/introduction.svg"
 
 ## Впервые на Аавеготчи?
 
-Общую информацию о проекте и обзор игры вы найдете во  [Введении](https://wiki.aavegotchi.com/introduction).
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## На что обратить внимание:
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi

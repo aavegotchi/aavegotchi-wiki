@@ -17,7 +17,7 @@ Dieses bescheidene Wiki ist der zentrale Wissenspunkt für alles, was mit Aavego
 
 ## Neu bei Aavegotchi?
 
-Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Übersicht über das Aavegotchi-Spiel.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## Beliebte Seiten
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi

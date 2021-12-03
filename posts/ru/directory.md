@@ -45,6 +45,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Глоссарий](/glossary)
 
+* [Gotchiverse](/gotchiverse)
+
 * [Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
 * [Guild](/guild)
@@ -65,11 +67,11 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Memes](/memes)
 
-* [Метавселенная](/metaverse)
-
 * [Основные вехи в развитии игры](/milestones)
 
 * [Mini-Games](/minigames)
+
+* [Mini-Game XP Events](/minigame-xp-events)
 
 * [Миссии](/missions)
 

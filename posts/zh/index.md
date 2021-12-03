@@ -17,7 +17,7 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## Aavegotchi相關
 
-這裡介紹用於 [Introduction](https://wiki.aavegotchi.com/introduction)遊戲的詳细概述。
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## 熱門連結
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi

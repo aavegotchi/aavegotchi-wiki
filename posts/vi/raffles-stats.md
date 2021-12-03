@@ -18,32 +18,40 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 **Nội dung**
 
 <ol>
-<li><a href=#raffle-1>Raffle 1</a></li>
-<li><a href=#raffle-2>Raffle 2</a></li>
-<li><a href=#raffle-3>Raffle 3</a></li>
-<li><a href=#raffle-4>Raffle 4</a></li>
-<li><a href=#raffle-5>Raffle 5</a></li>
-<li><a href=#chart>Biểu đồ</a></li>
+<li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chủ Đề Chainlink)</a></li>
+<li><a href=#raffle-2--aave-theme->Raffle 2 (Chủ Đề Aave)</a></li>
+<li><a href=#raffle-3--ethereum-theme->Raffle 3 (Chủ Đề Ethereum)</a></li>
+<li><a href=#raffle-4--layer-2-theme->Raffle 4 (Chủ Đề Layer 2)</a></li>
+<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Mở bán Portal Haunt 2)</a></li>
+<li><a href=#raffle-6--partnerships-theme->Raffle 6 (Chủ Đề Các Đối Tác)</a></li>
+<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (Raffle Land Đầu Tiên)</a></li>
+<li><a href=#chart>Biểu Đồ</a></li>
 </ol>
 
 </div>
 
-## Raffle 1
+## Raffle 1 (Chủ Đề Chainlink)
 table_raffle1
 
-## Raffle 2
+## Raffle 2 (Chủ Đề Aave)
 table_raffle2
 
-## Raffle 3
+## Raffle 3 (Chủ Đề Ethereum)
 table_raffle3
 
-## Raffle 4
+## Raffle 4 (Chủ Đề Layer 2)
 table_raffle4
 
-## Raffle 5
+## Raffle 5 (Mở bán Portal Haunt 2)
 table_raffle5
 
-## Biểu đồ
+## Raffle 6 (Chủ Đề Các Đối Tác)
+table_raffle6
+
+## Raffle 7 (Raffle Land Đầu Tiên)
+table_raffle7
+
+## Biểu Đồ
 
 Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
 

@@ -86,15 +86,15 @@ Cả quá trình stake GHST và thắng giải có thể dược mô tả bằng
 
 <img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Vé Drop Trong Aavegotchi" />
 
-* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+* Quá trình stake GHST để giành lấy [gói đất REALM](/metaverse#realm-parcel-sizes)
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Vé Drop Trong Aavegotchi" />
 
 ## Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng không. Nhưng mà những con số chính xác thì sao? Tỷ lệ để giành được wearable là bao nhiêu nếu dựa vào những đợt raffle vừa qua? Ghé xem [trang Raffles Statistics ](/raffles-stats) để xem thêm dữ liệu trong quá khứ.
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
