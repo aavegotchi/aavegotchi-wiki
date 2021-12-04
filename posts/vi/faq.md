@@ -447,14 +447,14 @@ Tất cả mọi câu hỏi liên quan, bạn có thể hỏi jason@aavegotchi.c
 
 ### Liệu những món trang phục, portal, hoặc vật phẩm tiêu thụ có thể được chuyển sang Ethereum và đăng bán trên Rarible hay không?
 
-**ĐƯỢC** nhưng **CHƯA ĐƯỢC**. Portal có thể chuyển được liền do chuyến cũng là token ERC-721. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**ĐƯỢC** nhưng **CHƯA ĐƯỢC**. Portal có thể chuyển được liền do chuyến cũng là token ERC-721. Trang phục và vật phẩm tiêu thụ là token ERC-1155 và chúng sẽ có chiếc cầu riêng được mở trong vài tuần tới.
 
 ### Nếu mình mua Aavegotchi trên Ethereum thông qua Rarible, làm sao mình có thể chuyển nó về lại Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Chỉ cần truy cập vào[aavegotchi.com/bridge](https://aavegotchi.com/bridge). Bạn sẽ có thể chuyển bất kỳ lúc nào bạn muốn!
 
 ### Liệu mình có thể bán Aavegotchi trên Baazaar khi chuyển nó sang Ethereum hay không?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**KHÔNG**, bạn chỉ có thể giao dịch trên chợ Ethereum như Rarible, một khi Aavegotchi được chuyển mạng.
 
 ### Mình có thể giao dịch Aavegotchi trên Opensea khi chúng đang ở trên Ethereum hay không?
 **CÓ**, bạn có thể trade Gotchi trên bất kỳ chợ NFT Ethereum nào, nhưng bạn sẽ chỉ nhận được RARI khi bạn trade trên Rarible.
