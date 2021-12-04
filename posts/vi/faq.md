@@ -431,23 +431,23 @@ Tất cả mọi câu hỏi liên quan, bạn có thể hỏi jason@aavegotchi.c
 
 ### Aavegotchi của mình vẫn có thể nhận phần thưởng Rarity Farming khi chúng ở trên Ethereum phải không?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**YES**, Gotchi của bạn vẫn sẽ được tham dự Rarity Farming ở tất cả hạng mục dù nó đã được chuyển mạng. Tất cả phần thưởng sẽ được gửi vào ví của Gotchi.
 
 ### Gotchi của mình có thể được chuyển sang bên kia khi đang mặc trang phục hay không?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**CÓ**, bạn có thể mặc bao nhiêu trang phục cho gotchi tuỳ thích trước khi bạn chuyển mạng, NHƯNG hãy nhớ là Aavegotchi sẽ không thể thay đồ khi đang ở trên mạng Ethereum.
 
 ### Mình có thể mặc hoặc tháo trang bị khi Gotchi đang ở trên Ethereum không?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**KHÔNG**, Gotchi của bạn về cơ bản sẽ bị đóng băng dựa trên snapshot tại thời điểm nó được chuyển mạng. Tuy nhiên, bạn có thể chuyển nó về Polygon bất kỳ lúc nào mà bạn muốn (phí chuyển bình thường sẽ được tính).
 
 ### Mình vẫn có thể dùng Aavegotchi để chơi trong Gotchiverse sắp tới khi Gotchi đang ở trên Ethereum chứ?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**KHÔNG**, do Gotchiverse vận hành trên Polygon, bất kỳ Gotchi nào trên Ethereum Mainnet cũng sẽ không thể tham gia vào Gotchiverse. Bạn có thể chơi nếu bạn chuyển Gotchi về lại Polygon!
 
 ### Liệu những món trang phục, portal, hoặc vật phẩm tiêu thụ có thể được chuyển sang Ethereum và đăng bán trên Rarible hay không?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**ĐƯỢC** nhưng **CHƯA ĐƯỢC**. Portal có thể chuyển được liền do chuyến cũng là token ERC-721. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
 ### Nếu mình mua Aavegotchi trên Ethereum thông qua Rarible, làm sao mình có thể chuyển nó về lại Polygon?
 
