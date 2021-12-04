@@ -407,9 +407,9 @@ Bạn không cần. Chương trình này được thiết kế để bạn có t
 
 ### Mình nên xây dựng #Gotchigang lớn đến mức nào?
 
-Việc giữ cho **#GotchiGang** ở quy mô nhỏ và cụ thể thật ra sẽ tốt hơn. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Việc giữ cho **#GotchiGang** ở quy mô nhỏ và cụ thể thật ra sẽ tốt hơn. Bạn có thể tạo một **#GotchiGang** cho thị trấn, thành phố, trường đại học của bạn... sự sáng tạo nằm ở chính bạn.
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Một khi nhóm của bạn đã có đủ 100 thành viên hợp lệ thì bạn sẽ chính thức được công nhận là Aavegotchi Aambassador.
 
 ### Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?
 
@@ -457,13 +457,13 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bri
 **NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
 ### Mình có thể giao dịch Aavegotchi trên Opensea khi chúng đang ở trên Ethereum hay không?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**CÓ**, bạn có thể trade Gotchi trên bất kỳ chợ NFT Ethereum nào, nhưng bạn sẽ chỉ nhận được RARI khi bạn trade trên Rarible.
 
 ## Những câu hỏi về Kỹ thuật
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên blockchain của Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard[ tại đây](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
