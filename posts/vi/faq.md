@@ -413,21 +413,21 @@ Một khi nhóm của bạn đã có đủ 100 thành viên hợp lệ thì bạ
 
 ### Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+Bạn sẽ được thông báo khi tên mà bạn mong muốn đã được đặt, sau khi bạn điền form đăng ký.
 
 ### Mình đã có một group với chủ đề Aavegotchi rồi. Mình có nên ứng tuyển làm Aambassador hay không?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Tất nhiên rồi! Một khi bọn mình có thể theo dõi sự phát triển trong mạng lưới của bạn, bạn sẽ đủ điều kiện để trở thành Aambassador.
 
 ### Mình có một câu hỏi chưa được giải đáp. Mình nên hỏi ai nhỉ?
 
-All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
+Tất cả mọi câu hỏi liên quan, bạn có thể hỏi jason@aavegotchi.com, (hoặc buzz.lightyear tại Discord).
 
 ## Câu hỏi về việc chuyển mạng
 
 ### Mình vẫn có thể pet Aavegotchi khi chúng được chuyển sang Ethereum phải không?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**ĐƯỢC CHỨ**, các lập trình viên tại Gotchi World và Gotchi Care (dịch vụ pet Gotchi) mang đến dịch vụ auto pet cực kỳ xịn xò cho những Aavegotchi được chuyển mạng sang, để đảm bảo bạn sẽ kiếm được điểm kinship khi Gotchi đang ở trên mạng Ethereum! Trong khi đang đi nghỉ dưỡng trên Ethereum, Aavegotchi của bạn sẽ tiếp tục được tăng điểm kinship thêm 2 điểm mỗi ngày, những chắc chắn nó sẽ thấy vui khi chủ nhân của mình có thể cho phép trở về nhà một hai lần! Nơi ấy lạaanh lẽo lắm…
 
 ### Aavegotchi của mình vẫn có thể nhận phần thưởng Rarity Farming khi chúng ở trên Ethereum phải không?
 
