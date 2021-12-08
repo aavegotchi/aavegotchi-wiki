@@ -376,10 +376,10 @@ Thứ hai, điều này hoàn toàn có thể xảy ra, là một số Signal Pr
 **Nếu một bản Signal Proposal không đạt được túc số 20% thì những ý tưởng cốt lõi của nó vẫn sẽ không mất đi, điều này chỉ đơn giản có nghĩa là nó sẽ không tự động được nâng cấp để triển khai thành một bản đề xuất lớn hơn.** Bất kỳ bản đều xuất nào được viết một cách hợp lệ cũng như có ý tưởng tốt đề sẽ cống hiến một phần lớn vào cho DAO và có thể sẽ rất ảnh hưởng đến Pixelcraft và những bản đề xuất cộng đồng trong tương lai. Có thể đôi lúc Pixelcraft sẽ chọn những bản Signal Proposal không đủ túc số và vẫn tạo thành Core Proposal dựa trên những bản đề xuất đó.
 
 ### Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?
-Bạn may mắn rồi đấy! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. Với việc [GIP 9 được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong AavegotchiDAO](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong Maall. Hãy nhấp vào [đây](/wearables#voting-power) để xem thông tin chi tiết.
+Bạn may mắn rồi đấy! Ngoài việc chỉ giữ GHST, trò chơi Aavegotchi luôn hướng tới việc chia sẻ sức mạnh bỏ phiếu dựa trên quyền sở hữu Aavegotchi. Với việc [GIP 9 được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong AavegotchiDAO](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong Maall. Hãy nhấp vào [đây](/wearables#voting-power) để xem thông tin chi tiết.
 
 ### Vậy còn Đề Xuất Vốn thì sao?
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+Yêu cầu ngân sách không có trong biểu mẫu đề xuất *Cocoon*, chủ yếu bở vì quy luật "đi trước chạy" khiến cho chúng ta tập trung vào việc thành lập một khuôn khổ bên vững trước khi mang đến những cơ chế tài chính phức hợp.
 
 **Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
 
