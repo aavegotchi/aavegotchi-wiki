@@ -39,7 +39,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#entering-raffle-4>Tham gia Raffle 4</a></li>
 <li><a href=#participating-in-gbm-auctions>Tham gia đấu giá GBM</a></li>
 <li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
-<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
+<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
 </ul>
 
 </div>
@@ -144,7 +144,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Học về các hoạt động có thể thực hiện đối với những gói đất REALM
 * Học cách mua gói đất REALM
 
-### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Học về gói đất REALM
 * Learn about Gotchus Alchemica
