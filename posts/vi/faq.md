@@ -381,9 +381,9 @@ Bạn may mắn rồi đấy! Ngoài việc chỉ giữ GHST, trò chơi Aavegot
 ### Vậy còn Đề Xuất Vốn thì sao?
 Yêu cầu ngân sách không có trong biểu mẫu đề xuất *Cocoon*, chủ yếu bở vì quy luật "đi trước chạy" khiến cho chúng ta tập trung vào việc thành lập một khuôn khổ bên vững trước khi mang đến những cơ chế tài chính phức hợp.
 
-**Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
+**Đề Xuất Gọi Gốn chắc chắn sẽ là trọng tâm trong giai đoạn Metamorphosis nhưng yếu tố đang được Cocoon tập trung vào chính là quyết định về cơ chế game.**
 
-That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+Nói vậy có nghĩa là *Cocon* là một giai đoạn quản trị thử nghiệm và nó sẽ không rời khỏi khả năng để thấy được sự hỗ trợ cần có cho những ngân sách của DAO. Những tình huống như vậy không nghi ngờ gì khi chúng cần phải có cấp độ bỏ phiếu Galaxy và túc số 20%. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
 ## Hỏi Đáp về Lối Chơi
 
