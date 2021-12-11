@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Cùng Chơi Game nào!</p>
 </div>
 
-Đâu có gì vui nếu sở hữu Aavegotchi nhưng không thể chơi với nó đúng không? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
+Đâu có gì vui nếu sở hữu Aavegotchi nhưng không thể chơi với nó đúng không? Một trong những trải nghiệm chính của trò chơi Aavegotchi sẽ là khám phá <a cõi âm href="/metaverse">Realm</a> của Aavegotchi với bạn bè và đấu nhau với Aavegotchi của họ.
 
 Một số minigame sẽ chơi bằng các chương trình tạo số ngẫu nhiên (RNG), trong khi những game khác mang đến những trải nghiệm nhập vai và tự chủ từ người chơi hơn.
 
@@ -25,24 +25,24 @@ Bạn có Aavegotchi nhưng nó lại không phù hợp với mini game hiện c
 **Nội dung**
 
 <ol>
-<li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
-<li><a href=#official-mini-games>Official Mini-Games</a></li>
-<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+<li><a href=#xp-rewards-for-mini-games>Phần thưởng XP cho Mini Games</a></li>
+<li><a href=#official-mini-games>Mini-games Chính Thức</a></li>
+<li><a href=#community-created-mini-games>Mini-games Được Cộng Đồng Tạo Ra</a></li>
 </ol>
 
 </div>
 
-## XP Rewards for Mini-Games
+## Phần thưởng XP cho Mini Games
 From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
 
 For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
 
 XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
 
-## Official Mini-Games
+## Mini-games Chính Thức
 Soon! The Devs are hard at work. More information will be released here once it is available!
 
-## Community-created Mini-Games
+## Mini-games Được Cộng Đồng Tạo Ra
 
 Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
 
