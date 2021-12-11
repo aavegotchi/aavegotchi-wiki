@@ -383,7 +383,7 @@ Yêu cầu ngân sách không có trong biểu mẫu đề xuất *Cocoon*, ch�
 
 **Đề Xuất Gọi Gốn chắc chắn sẽ là trọng tâm trong giai đoạn Metamorphosis nhưng yếu tố đang được Cocoon tập trung vào chính là quyết định về cơ chế game.**
 
-Nói vậy có nghĩa là *Cocon* là một giai đoạn quản trị thử nghiệm và nó sẽ không rời khỏi khả năng để thấy được sự hỗ trợ cần có cho những ngân sách của DAO. Những tình huống như vậy không nghi ngờ gì khi chúng cần phải có cấp độ bỏ phiếu Galaxy và túc số 20%. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+Nói vậy có nghĩa là *Cocon* là một giai đoạn quản trị thử nghiệm và nó sẽ không rời khỏi khả năng để thấy được sự hỗ trợ cần có cho những ngân sách của DAO. Những tình huống như vậy không nghi ngờ gì khi chúng cần phải có cấp độ bỏ phiếu Galaxy và túc số 20%. Vậy cơ bản là, bọn mình không cố khuyến khích việc này, song song đó bọn mình cũng không bao giờ nói là sẽ không xảy ra.
 
 ## Hỏi Đáp về Lối Chơi
 
