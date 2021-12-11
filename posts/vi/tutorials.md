@@ -147,7 +147,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 ### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Học về gói đất REALM
-* Learn about Gotchus Alchemica
-* Learn about what features make REALM parcels desirable
-* Learn how to navigate the Auction map
-* Learn about Auction strategies
+* Tìm hiểu về Gotchus Alchemica
+* Tìm hiểu về các tính năng khiến mọi người săn lùng gói đất REALM
+* Tìm hiểu cách định vị bản đồ Đấu Giá
+* Tìm hiểu các chiến thuật Đấu Giá
