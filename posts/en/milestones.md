@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
+* 2 new Core Props and 6 new SigProps to vote for!
+* Vote now and get a deluge of XP!
+<p></p>
+
 ## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
 * There are 3 ways to earn Alchemica
 * Check it out here!
