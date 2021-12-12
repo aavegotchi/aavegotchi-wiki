@@ -33,7 +33,7 @@ Bạn có Aavegotchi nhưng nó lại không phù hợp với mini game hiện c
 </div>
 
 ## Phần thưởng XP cho Mini Games
-Lần lượt các mini game sẽ mang đến phần thưởng [XP](/xp) cho những ai đạt điểm cao trên bảng xếp hạng mini game. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
+Lần lượt các mini game sẽ mang đến phần thưởng [XP](/xp) cho những ai đạt điểm cao trên bảng xếp hạng mini game. Những sự kiện XP mini game này sẽ được team Pixelcraft thông báo trên Discord khi chúng có mặt.
 
 For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
 
