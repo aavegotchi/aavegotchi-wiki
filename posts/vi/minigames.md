@@ -37,16 +37,16 @@ Lần lượt các mini game sẽ mang đến phần thưởng [XP](/xp) cho nh�
 
 Để xem danh sách các sự kiện XP mini-game, hãy vào trang [này](/minigame-xp-events).
 
-XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
+XP là điều kiện cần để có thể cạnh tranh trong bảng xếp hạng XP của [Rarity Farming](/rarity-farming) để giành được phần thưởng [GHST](/ghst).
 
 ## Mini-games Chính Thức
-Soon! The Devs are hard at work. More information will be released here once it is available!
+Sớm thôi! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công bố thêm nhiều thông tin một khi trò chơi đã sẵn sàng!
 
 ## Mini-games Được Cộng Đồng Tạo Ra
 
-Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+Một vài [aarchitect](/aarchitect) đã tự tạo ra các trò mini game! Hãy chơi thử nhé!
 
-The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
+Bạn có thể xem phần Mini-Game của DApp Aavegotchi.com tại [đây](https://aavegotchi.com/minigames)
 
 ### Reverse Pacman của Paltox
 
@@ -56,85 +56,85 @@ Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 
 ### Portal Rider của BitFlicker
 
-Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
 
 <img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
 ### Gotchi Tower Defense của tác giả jarrod | aavegotchistats.com
 
-Link to game [here](https://aavegotchistats.com/td)
+Chơi tại [đây](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
 ### Gotchi the Gaatherer của BitFlicker
 
-Link to game [here](https://gotchigaatherer.gg/)
+Chơi tại [đây](https://gotchigaatherer.gg/)
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
 ### Sushi Vader của ricJones | Grizzy
 
-Link to game [here](https://sushivader.com/)
+Chơi tại [đây](https://sushivader.com/)
 
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Portal Rider Aavegotchi Mini-Game" />
 
 ### Snaake của SpyceBringer
 
-Link to game [here](https://snaake.gg/)
+Chơi tại [đây](https://snaake.gg/)
 
 <img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
 
 ### Whac-a-Rofl của Gotchinomics
 
-Link to game [here](https://whacarofl.com/)
+Chơi tại [đây](https://whacarofl.com/)
 
 <img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
 
 ### GotchiMiner của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Link to game [here](https://gotchiminer.rocks/)
+Chơi tại [đây](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
 ### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
 
-Link to game [here](https://hotspurhn.github.io/)
+Chơi tại [đây](https://hotspurhn.github.io/)
 
 <img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
 
 ### 1 Arm Baandit của @mdurkin92
 
-Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Chơi tại [đây](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
 ### Aavezon của @space_asylum
 
-Link to game [here](https://mikekrow.com/games/aavezon/index.html)
+Chơi tại [đây](https://mikekrow.com/games/aavezon/index.html)
 
 <img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
 
 ### Portal Ddefenders của @oh_no_bruno
 
-Link to game [here](https://square-wildflower-4590.on.fleek.co/)
+Chơi tại [đây](https://square-wildflower-4590.on.fleek.co/)
 
 <img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
 
 ### Sushibagotchi của @sushibatoken
 
-Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
+Chơi tại [đây](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
 
 <img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
 
 ### Samugotchi Shodown của Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-Link to game [here](https://samugotchi-shodown.vercel.app/)
+Chơi tại [đây](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
 
 ### Astegotchi của Alvi
 
-Link to game [here](https://astegotchi.aavegames.com/)
+Chơi tại [đây](https://astegotchi.aavegames.com/)
 
-<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
 
