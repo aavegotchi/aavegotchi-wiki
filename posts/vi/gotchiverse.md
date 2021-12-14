@@ -74,13 +74,13 @@ Hững Mẫu Đất bị khóa sẽ không thể mở được cho đến khi Ac
 
 ## Quận
 
-Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+Các quận bao gồm những nhóm đất REALM được đặt gần nhau. Hình ảnh dưới đây cho thấy phần đất REALM của Citaadel đã được mở bán và các quận có trong đó.
 
-Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
+Guild tự sắp xếp vị trí của mình tại các quận. Hãy xem qua [trang Guild](/guild) để thấy danh sách các Guild và xem chúng được đặt ở những quận nào.
 
 <img src="/gotchiverse/aavegotchi-districts.png" alt="Các Quận Trong Aavegotchi" />
 
-Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+Hãy lướt xem REALM tại [gotchiverse.io](https://gotchiverse.io/).
 
 ## Kích Thước Đất REALM
 
