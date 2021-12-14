@@ -152,7 +152,7 @@ Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói �
 
 25% tổng lượng Alchemica sẽ được phân phối trong Act I (Citaadel và Grid) thông qua việc thu hoạch gói đất REALM.
 
-Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
+Mỗi loại Alchemica có những công dụng riêng trong Gotchiverse, và có thể dùng riêng lẻ hoặc kết hợp với những loại Alchemica khác trong suốt quá trình lắp ráp các Công Trình.
 
 During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
 
@@ -166,29 +166,29 @@ During the crafting process, a small portion of Alchemica (5%) is burned forever
 
 ## Xây Dựng Mẫu Đất REALM
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+**Installations (Các Công Trình)** là những cấu trúc đặc biệt được xây dựng trên Mẫu Đất REALM. Các công trình được lắp đặt qua hàng loạt các công thức khác nhau của các Alchemica, và có thể được giao dịch thoải mái theo cặp với GHST trong [Aavegotchi Baazaar](/baazaar).
 
-Confirmed Installations include:
+Các công trình chắc chắn sẽ xuất hiện:
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Các Công Trình được xây trong một khoảng thời gian nhất định rồi mới hoàn thành, nhưng thời gian sẽ giảm dần bằng cách chi tiêu GLMR (viết tắt của GAX Liquidity Mining Rewards, tạm dịch: Phần Thưởng Đào Thanh Khoản Trên Sàn GAX), một loại tiền tệ trong game có thể kiếm được bằng cách cung cấp thanh khoản trên sàn Gotchus Alchemica Exchange (GAX).
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+**Aesthetica** là những token NFT để trang trí cho Parcel nhưng không làm ảnh hưởng đến Alchemica hoặc những chỉ số khác. Được cái nhìn ngầu khỏi nói.
 
 ## Tokenomics của REALM
 
 ### Tổng Lượng Cung
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+Tổng cung của REALM sẽ là 420.069 mảnh. Ban đầu, 155.069 mảnh sẽ được mở khóa và phân phối trong khoảng thời gian 2 năm (Act 1). Chúng sẽ tạo nên phần Citaadel và Grid. Phần còn lại của REALM hiện tại sẽ được che khuất đi đối với khu vực The Beyond. Hi một cột mốc nhất định được mở ra, các REALM này sẽ được mở khóa để mang đến những trải nghiệm game mới (Acts 2-3).
 
 ### Phân Phối
 
-REALM Parcels will be distributed in two main ways:
+Các Mẫu Đất REALM đang được phân bố theo 2 cách:
 
-Method 1: Incentivized GBM Auctions (80%)
+Cách 1: Đấu Giá Nhận Thưởng Kiểu GBM (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
+Cách phân phối chủ yếu của những Mẫu Đất REALM sẽ là hình thức đấu giá nhận thưởng theo phong cách của GBM. Những ai tham gia sẽ có thể chọn và đấu giá cho những mẫu đất cụ thể trong bản đồ thế giới của Gotchiverse. Nếu người tham gia đấu giá bị người khác đưa ra giá cao hơn, số tiền họ đặt giá sẽ được trả lại, bên cạnh đó họ sẽ được phần thưởng token GHST cộng thêm. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
 Bạn có thể xem thêm thông tin tại [trang Đấu Giá](/aauction).
 
