@@ -84,17 +84,17 @@ Hãy lướt xem REALM tại [gotchiverse.io](https://gotchiverse.io/).
 
 ## Kích Thước Đất REALM
 
-Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+Parcel có 3 kích thước, kích thước càng lớn thì cần có nhiều Alchemica* và khoảng trống để xây dựng
 
 * Kích Thước Khiêm Tốn: có một lượng Alchemica gửi vào và khoảng trống để xây dựng nhỏ
 * Kích Thước Vừa: có một lượng Alchemica gửi vào và khoảng trống xây dựng vừa phải
 * Kích Thước Lớn: có một lượng Alchemica gửi vào và khoảng trống xây dựng lớn
 
-*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+*Số lượng Tài Nguyên có thể được tính toán chính xác bằng [Chainlink VRF](/glossary#chainlink-vrf) lúc mua.
 
-Some parcels will be next to or adjacent to Alchemica deposits. These parcels will see farming boosters indicated on the gotchiverse dashboard and when they are listed on the Baazaar.
+Một số gói đất sẽ nằm cạnh hoặc gần mỏ Alchemica. Những gói đất này sẽ thể hiện lượng boost khi chúng được đăng bán trên Baazaar.
 
-To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
+Để khiến cho thông tin dễ hiểu hơn, mỗi gói đất sẽ được chỉnh định bằng một dãy gồm 3 từ. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Kích Thước Đất Aavegotchi REALM" />
 
