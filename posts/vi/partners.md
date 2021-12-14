@@ -101,11 +101,11 @@ DEX thế hệ mới. Giao dịch với tốc độ thần sầu, còn phí giao
 <p class="leftImageText"><a href="https://twitter.com/MUSTCometh" target="_blank">Cometh</a></p>
 </div>
 
-Cometh is a groundbreaking and evolving strategy game set in a persistent and sustainable space-inspired metaverse powered by Ethereum's blockchain.
+Cometh là một trò chơi chiến thuật đột phá và phát triển mạng mẽ, bên trong một metaverse nhất quán và tồn tại lâu dài, lấy cảm hứng từ không gian, vận hành bởi blockchain của Ethereum.
 
-The Cometh game consists in players mining asteroids to get tokens as rewards.
+Cometh là một trò chơi mà trong đó người chơi tiến hành đào những hòn thiên thạch để nhận token làm phần thưởng.
 
-Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.
+Hệ sinh thái của Cometh tận dụng DeFi trên Ethereum theo một cách thú vị và truyền thống để cho phép người chơi thu thập, giao dịch, và kiếm token từ các giao thức ERC-20, và cũng như những NFT độc quyền trong Metaverse của Cometh.
 
 ### DinoSwap
 
