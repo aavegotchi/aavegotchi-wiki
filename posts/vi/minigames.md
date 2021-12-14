@@ -50,7 +50,7 @@ Bạn có thể xem phần Mini-Game của DApp Aavegotchi.com tại [đây](htt
 
 ### Reverse Pacman của Paltox
 
-Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+Chơi tại [đây](https://cryptolve.com/aavegotchi_pacman/)
 
 <img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
 
