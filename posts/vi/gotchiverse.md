@@ -94,7 +94,7 @@ Parcel có 3 kích thước, kích thước càng lớn thì cần có nhiều A
 
 Một số gói đất sẽ nằm cạnh hoặc gần mỏ Alchemica. Những gói đất này sẽ thể hiện lượng boost khi chúng được đăng bán trên Baazaar.
 
-Để khiến cho thông tin dễ hiểu hơn, mỗi gói đất sẽ được chỉnh định bằng một dãy gồm 3 từ. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
+Để khiến cho thông tin dễ hiểu hơn, mỗi gói đất sẽ được chỉnh định bằng một dãy gồm 3 từ. Địa chỉ này sẽ được kết hợp với TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Kích Thước Đất Aavegotchi REALM" />
 
