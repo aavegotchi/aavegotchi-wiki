@@ -11,18 +11,18 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
-### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### FutureX Meet-Up #4 - Liệu DeFi đã hết thuốc hay đây chỉ là sự bắt đầu? (29 Tháng 11 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Cryptocurrency Subreddit AMA (13 October 2021)
+### Cryptocurrency Subreddit AMA (13 tháng Mười 2021)
 Xem tại [đây](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
-### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Chainlink SmartCon Live Stream | Aavegotchi (10 tháng Tám 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
+### Biến DeFi Thành Game, với Jesse Johnson từ PixelCraft Studios bởi The Metaverse Podcast (ngày 26 tháng Bảy 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>
 
-### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Lập Trình trên Aavegotchi! Ivan on Tech Phỏng Vấn CoderDan (ngày 22 tháng Bảy 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Bản Ghi Hình Buổi Tiệc Sinh Nhật Đầu Tiên Của Aavegotchi và Trò Chuyện Cùng Cộng Đồng từ No Futuristic (8 tháng 7 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 ### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
