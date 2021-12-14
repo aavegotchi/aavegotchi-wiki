@@ -150,7 +150,7 @@ Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói �
 
 <img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Số Lượng Aavegotchi Gốc trong mỗi Gói Đất" />
 
-25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
+25% tổng lượng Alchemica sẽ được phân phối trong Act I (Citaadel và Grid) thông qua việc thu hoạch gói đất REALM.
 
 Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
 
