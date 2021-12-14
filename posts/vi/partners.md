@@ -1,22 +1,22 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Partners'
-description: 'Aavegotchi Partners'
+title: 'Đối Tác Của Aavegotchi'
+description: 'Đối Tác Của Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi is a frenly project. Get to know our frenly frens here!
+Aavegotchi là một dự án thân thiện. Hãy cùng làm quen những người bạn thân thiện tại đây nhé!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#investors>Investors</a></li>
+<li><a href=#investors>Nhà đầu tư</a></li>
 <p><a href=#aave>Aave</a></p>
-<li><a href=#partners>Partners</a></li>
+<li><a href=#partners>Đối tác</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#opensea>OpenSea</a></p>
 <p><a href=#snapshot>Snapshot</a></p>
@@ -36,7 +36,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 </div>
 
-## Investors
+## Nhà đầu tư
 
 ### Aave
 
@@ -45,9 +45,9 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p class="leftImageText"><a href="https://twitter.com/AaveAave" target="_blank">Aave</a></p>
 </div>
 
-Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
+Aave là một giao thức cung cấp thanh khoản không ký gửi phi tập trung, ở đó người dùng có thể tham gia với vai trò người gửi tiền hoặc người cho vay. Người gửi tiền cung cấp thanh khoản cho thị trường để kiếm thu nhập thụ động, trong khi người vay tiền có thể mượn trong điền kiện vượt quá hoặc thấp hơn tài sản ký gửi.
 
-## Partners
+## Đối tác
 
 ### Aragon
 
@@ -56,7 +56,7 @@ Aave is a decentralised non-custodial liquidity market protocol where users can 
 <p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">Aragon</a></p>
 </div>
 
-Aragon is the leading platform for decentralized governance and DAOs.
+Aragon là một nền tảng hàng đầu về vấn đề quản trị phi tập trung và DAO.
 
 ### OpenSea
 
@@ -65,7 +65,7 @@ Aragon is the leading platform for decentralized governance and DAOs.
 <p class="leftImageText"><a href="https://twitter.com/opensea" target="_blank">OpenSea</a></p>
 </div>
 
-The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets.
+Chợ đầu tiên và lớn nhất dành các vật sưu tập crypto và NFT. Mua, bán, và tìm hiểu những tài sản kỹ thuật số cực độc.
 
 ### Snapshot
 
@@ -74,7 +74,7 @@ The world’s first and largest digital marketplace for crypto collectibles and 
 <p class="leftImageText"><a href="https://twitter.com/SnapshotLabs" target="_blank">Snapshot</a></p>
 </div>
 
-Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain.
+Snapshot là một hệ thống bỏ phiếu phi tập trung. Nó mang đến sự linh hoạt trong cách tính sức mạnh bỏ phiếu. Snapshot hỗ trợ nhiều loại bỏ phiếu khác nhau để đáp ứng nhu cầu của các tổ chức khác nhau. Tạo đề xuất và bỏ phiếu trên Snapshot tại đây trở nên rất thân thiện với người dùng và không hề tốn phí gas do quá trình này diễn ra bên ngoài blockchain.
 
 ### Polygon
 
@@ -83,7 +83,7 @@ Snapshot is a decentralized voting system. It provides flexibility on how voting
 <p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
 </div>
 
-Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
+Polygon là một giao thức và một khuôn làm việc dành cho quá trình xây dựng và kết nối các mạng lưới blockchain tương thích với Ethereum. Tăng cường khả năng mở rộng trên Ethereum, hỗ trợ một hệ sinh thái Ethereum đa blockchain.
 
 ### QuickSwap
 
@@ -92,7 +92,7 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 <p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">QuickSwap</a></p>
 </div>
 
-Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
+DEX thế hệ mới. Giao dịch với tốc độ thần sầu, còn phí giao dịch gần bằng không. Vận hành trên Polygon.
 
 ### Cometh
 
