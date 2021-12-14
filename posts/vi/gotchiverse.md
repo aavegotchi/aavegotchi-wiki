@@ -154,13 +154,13 @@ Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói �
 
 Mỗi loại Alchemica có những công dụng riêng trong Gotchiverse, và có thể dùng riêng lẻ hoặc kết hợp với những loại Alchemica khác trong suốt quá trình lắp ráp các Công Trình.
 
-During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
+Trong suốt quá trình lắp ráp, một lượng Alchemica nhỏ (5%) sẽ bị đốt mãi mãi, trong khi đó, phần còn lại sẽ được chia nhỏ thành ba phần:
 
-* 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
+* 40% sẽ được đưa vào Cánh Cổng Lớn, nguồn gốc của tất cả năng lượng trong Gotchiverse. Đại Môn sẽ thu thập nguồn Alchemica theo thời gian, và bất kỳ lượng nào vượt quá mức này sẽ được tái tạo trong cõi Gotchiverse thông qua quá trình truyền giả kim và những hoạt động tặng thưởng khác.
 
-* 40% to the Summoners, who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+* 40$ sẽ được đưa cho Summoners, người đã mang Gotchiverse vào thực tại. Summoners là những người khiêm tốn và thông thái và sẽ làm tất cả mọi thứ trong quyền hạn của mình để quảng bá cuộc sống trong Gotchiverse.
 
-* 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+* 10% sẽ được mang cho AavegotchiDAO, những người quản lý và chăm sóc cho Gotchiverse. Họ khiến cho Gotchiverse trở thành một nơi đáng sống hơn!
 
 <img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Lượng Gotchus Alchemica đã sử dụng và điểm đến của chúng" />
 
