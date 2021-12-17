@@ -16,6 +16,7 @@ contributors:
 <ol>
 <li><a href=#formula>Формула.</a></li>
 <li><a href=#experience-table>Таблица очков опыта.</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -41,3 +42,8 @@ contributors:
 
 table_XP
 
+## Tracking XP received
+
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
