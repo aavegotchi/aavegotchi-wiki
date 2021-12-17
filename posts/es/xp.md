@@ -16,6 +16,7 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 <ol>
 <li><a href=#formula>Formula</a></li>
 <li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -41,3 +42,8 @@ The maximum level that an aavegotchi could attain is 99. Any changes to the maxi
 
 table_XP
 
+## Tracking XP received
+
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
