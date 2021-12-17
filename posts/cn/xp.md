@@ -16,6 +16,7 @@ Aavegotchis 可以通过获得更多的经验 (XP) 来提升级别。 但到底�
 <ol>
 <li><a href=#公式>公式</a></li>
 <li><a href=#经验值表>经验值表</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -41,3 +42,8 @@ Aavegotchi 所能达到的最高级别是 99。 对最高级别的任何更改�
 
 XP 表格
 
+## Tracking XP received
+
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
