@@ -6,6 +6,7 @@ description: '关于Aavegotchi特征的一切！'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "unintelligent-nerd"
 ---
 
 Aavegotchis是带着特征出生的。 就像你的特征如何定义你是什么人一样，Aavegotchi的特征对于确定他们作为幽灵的生计非常重要！ These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. 从 [传送门召唤的 Aavegotchis](/portals) 自出生，自带一系列随机生成的特性。 然而，Aavegotchi的特性可以根据 <a href=#level>等级</a>、可穿戴设备和消耗品而改变。 
@@ -67,7 +68,12 @@ table_spiritForceModifiers
 Kinship is your Aavegotchi’s feeling of loyalty towards you. More information can be found on the [Kinship page](/kinship).
 
 ## Experience
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+
+Aavegotchis can also be sacrificed to remove their [spirit force](/spirit-force) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 XP exists as an internal balance on the Aavegotchi smart contract.
 
