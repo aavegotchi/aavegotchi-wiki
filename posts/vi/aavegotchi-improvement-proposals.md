@@ -464,19 +464,19 @@ Trước khi tạo ra một DAO dành riêng cho Aarcade, bước đầu tiên c
 
 *Các nguy cơ hiện hữu*
 
-Stake GHST sẽ làm hòa tan một cách gián tiếp tỷ lệ giữa FRENS và vé. However, since they would be distributed via mini-game rewards, the impact should be minimal compared to the boost on engagement and appeal to new people.
+Stake GHST sẽ làm hòa tan một cách gián tiếp tỷ lệ giữa FRENS và vé. Tuy nhiên, do chúng được phân bổ thông qua phần thưởng mini game nên ảnh hưởng của nó sẽ tối thiểu so với khả năng tăng tương tác và thu hút người chơi mới.
 
-*Alternatives*
+*Lựa chọn thay thế*
 
-Wait for the Aarcade DAO to launch and let the new committee decide how to designate funds. However, this alternative option would mean losing precious time to generate more attractive rewards.
+Đợi đến khi Aarcade DAO triển khai và để cho ủy ban mới quyết định cách phân bố ngân quỹ. Tuy nhiên, phương án thay thế này có thể sẽ làm mất đi khoản thời gian quý báu mà trong đó chúng ta có thể tạo ra nhiều phần thưởng hấp dẫn hơn.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
 
-Option 1: Yes, stake 100k GHST
+Phương án 1: Đồng ý, stake 100k GHST
 
-Option 2: No, wait for Aarcade DAO
+Phương án 2: Không, hãy đợi Aarcade DAO
 
-**Voting Period:** 10 - 17 December 2021
+**Thời gian vote:**10 - 17 tháng Mười Hai 2021
 
 **Kết quả:**
 
@@ -491,15 +491,15 @@ table_agip16
 
 **Tóm Tắt Đề Xuất:**
 
-*Problem:*
+*Vấn đề:*
 
-With a new asset class added to the Aavegotchi family in the form of realm plots comes a new sink of GHST. This currently leaves those who have heavily invested into the new plots with much lesser voting power in the Aavegotchi DAO.
+Với một dạng tài sản mới được thêm vào gia đình Aavegotchi dưới dạng các ô đất realm, một số lượng GHST mới được sinh ra. Việc này hiện tại khiến cho những ai đầu tư thật nhiều vào những ô đất mới sở hữu ít sức mạnh bỏ phiếu hơn nhiều trong Aavegotchi DAO.
 
-*Solution:*
+*Giải pháp:*
 
-Since realm plots and the Gotchiverse are such an integral part of the Aavegotchi ecosystem, I believe it’s only right that realm owners get an amount of voting power that is proportional to the size of their realm plots. This ensures that their vote can be heard, which is of particular importance when future governance proposals will concern the Gotchiverse.
+Do những ô đất realm và Gotchiverse là những phần không thể thiếu của hệ sinh thái Aavegotchi nên mình tin rằng chỉ khi nào những người sở hữu realm có được một lượng sức mạnh tương ứng với số lượng ô đất mà họ sở hữu thì mới hợp lý. Điều này đảm bảo rằng ý kiến của tất cả mọi người đều sẽ được lắng nghe, và đó là một phần đặc biệt quan trọng trong những bản đề xuất tương lai, liên quan đến Gotchiverse.
 
-Since every plot has a set size in pixels which is also a scaling factor for the amount of alchemica within the plot, the suggestion brought forward is:
+Do mỗi ô đất đều có một kích thước pixel và cũng là thước đo cho số lượng khoáng sản bên trong mỗi ô đất, bản đề xuất mang đến những phương án sau đây:
 
 1 pixel = 1 GHST worth of voting power (64, 256, 2056) OR 1 pixel = 0.5 GHST worth of voting power (32, 128, 1028)
 
@@ -521,7 +521,7 @@ Option 3: Voting power from auction floor
 
 Option 4: No voting power for REALM
 
-**Voting Period:** 10 - 17 December 2021
+**Thời gian vote:**10 - 17 tháng Mười Hai 2021
 
 **Kết quả:**
 
