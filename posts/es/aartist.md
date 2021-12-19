@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+title: 'Artistas Aavegotchi'
+description: 'Conoce a nuestros Aartistas Aavegotchi aqui!'
 ---
 
 You know what's groovy? Our community aartists! Get to know them (and their creations) here!
