@@ -196,6 +196,32 @@ export const tables
         },
 		
 		{
+            tableName: "agip16",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, stake 100k GHST", "10,970,000 GHST (79.78%)"],
+					["No, wait for Aarcade DAO", "2,780,000 GHST (20.22%)"]
+				]
+            }
+        },
+		
+				{
+            tableName: "agip17",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Voting power of 0.5 GHST/pixel", "8,550,000 GHST (61.69%)"],
+					["Voting power of 1 GHST/pixel", "4,350,000 GHST (31.34%)"],
+					["Voting power from auction floor", "709,270 GHST (5.11%)"],
+					["No voting power for REALM", "258,090 GHST (1.86%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

@@ -481,6 +481,8 @@ Option 2: No, wait for Aarcade DAO
 
 **Results:**
 
+table_agip16
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd654255f22e694369686e9791ff663f38a9f586bd4126831fc9d8ce384208964)
 
 <hr>
@@ -525,6 +527,8 @@ Option 4: No voting power for REALM
 **Voting Period:** 10 - 17 December 2021
 
 **Results:**
+
+table_agip17
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x28b630e088240ee4bb4e680b071767b98b962a4006c71e71f00c782b86adfbab)
 
