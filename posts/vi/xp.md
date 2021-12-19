@@ -44,6 +44,6 @@ table_XP
 
 ## Theo dõi lượng kinh nghiệm đã nhận được
 
-Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+[aarchitect](/aarchitect) thân thiện của bọn mình là Frank Pfeift đã tạo ra một ứng dựng để theo dõi lượng XP mà Gotchi đã nhậnd được trong trọn đời.
 
-His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
+Các bạn có thể truy cập vào ứng dụng này tại [đây](https://aavegotchi-xp-dashboard.vercel.app). Gotchi ID của bạn là những chữ số nằm ở cuối URL của trang [Gotchi Profile Page](/aavegotchi-profile).
