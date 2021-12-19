@@ -16,7 +16,7 @@ Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm (XP). Nhưng
 <ol>
 <li><a href=#formula>Công thức</a></li>
 <li><a href=#experience-table>Bản Kinh Nghiệm</a></li>
-<li><a href=#tracking-xp-received>Tracking XP received</a></li>
+<li><a href=#tracking-xp-received>Theo dõi lượng kinh nghiệm đã nhận được</a></li>
 </ol>
 
 </div>
@@ -42,7 +42,7 @@ Cấp độ cao nhất mà một aavegotchi có thể đạt được là 99. B�
 
 table_XP
 
-## Tracking XP received
+## Theo dõi lượng kinh nghiệm đã nhận được
 
 Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
