@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aarchitect'
-description: 'Get to know our Aavegotchi Aarchitect here!'
+title: 'Aarquitectos Aavegotchi'
+description: 'Conoce a nuestros Aarquitectos Aavegotchi aqui!'
 contributors:
   - "unintelligent-nerd"
 ---
