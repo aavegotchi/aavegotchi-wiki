@@ -6,6 +6,7 @@ description: 'Mọi thứ bạn cần biết về trait của Aavegotchi!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "unintelligent-nerd"
 ---
 
 Aavegotchi được sinh ra với các trait. Giống như các đặc điểm để định hình rằng bạn là một con người, trait của Aavegotchi rất quan trọng trong việc định hình sự đống động của một bé ma! Những loại đặc điểm này mà chúng sở hữu có ảnh hưởng đến[Trait Base Rarity](/rarity-farming#base-rarity-score) của chúng, cách chúng thể hiện trong [minigame](/minigames) và
@@ -78,26 +79,32 @@ Kinship là độ trung thành mà Aavegotchi dành cho bạn. Xem thêm thông 
 
 ## Kinh nghiệm
 
-Aavegotchi nhận được kinh nghiệm (XP) khi vote cho AavegotchiDAO và chơi minigame. Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/atokens) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
+Aavegotchis receive experience (XP) for:
 
-Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
 
-Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavegotchi-profile).
+Aavegotchis can also be sacrificed to remove their [spirit force](/spirit-force) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+
+XP exists as an internal balance on the Aavegotchi smart contract.
+
+XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 
 
 ## Cấp độ
 
-Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định. 
+Aavegotchis level up as they gain more XP. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Some wearables can only be worn by Aavegotchis of a certain level. 
 
-Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
+For detailed information on the XP required for each level, click [here](/xp).
 
-Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavegotchi-profile).
+Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 
 
 ## Haunt
 
-Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
-Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
+Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
