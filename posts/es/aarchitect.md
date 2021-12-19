@@ -7,18 +7,18 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+Te estas divirtiendo con los [Mini-Games](/minigames) y las herramientas analiticas? Ven y conoce a los aarquitectos detras de ellas!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
-<li><a href=#aarchitects>Aarchitects</a></li>
+<li><a href=#aarchitects>Aarquitectos</a></li>
 </ol>
 
 </div>
 
-## Aarchitects
+## Aarquitectos
 
 table_aarchitect
