@@ -172,11 +172,11 @@ Yield Guild Games (YGG) là một guild Play-To-Earn mang người chơi đến 
 
 Blackpool là một quỹ mới được vận hành trong ngành công nghiệp NFT: quản lý hàng loạt tài sản từ thẻ bài thể thao đến những vật phẩm nghệ thuật kỹ thuật số.
 
-BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
+Blackpool là DAO đầu tiên được xây dựng riêng cho NFT gaming và trading. Chiến thuật của chúng tôi sẽ dựa trên nguồn cảm hứng lâu dài cho gaming và art, do chúng tôi kết hợp những hoạt động phân tích tính dữ liệu chuyên nghiệp và máy học để có thể cung cấp kết quả tốt nhất cho người dùng.
 
-We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
+Chúng tôi sẽ dẫn đầu trong việc cung cấp các công cụ phái sinh tài chính cho các thị trường kỹ thuật số, bằng cách cung cấp các dịch vụ như chỉ số định giá tài sản, cho thuê, cơ chế bảo hiểm, v. v.
 
-BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
+BlockPool có niềm tin vững chắc vào giá trị lâu dài của những tài sản kỹ thuật số quý hiếm, và hiểu được cấp độ cao trong sự đặc thù của mỗi nền tảng NFT cần có, để có thể tối ưu hóa việc tạo ra giá trị. Do đó, chúng tôi luôn tìm kiếm những chuyên gia để có thể cải thiện hiệu suất của mỗi nền tảng.
 
 ### Flamingo DAO
 
@@ -185,7 +185,7 @@ BlackPool firmly believes in the long term value of scarce digital assets, and u
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
+Một DAO tập trung vào NFT, mong muốn khám phá những cơ hội đầu tư vào những tài sản có thể sở hữu được trên blockchain. NFT không chỉ là những bức tranh mèo. Chúng truyền cảm hứng cho nghệ thuật kỹ thuật số, vật sưu tập, và những tài sản trong game, cũng như những tài sản hữu hình khác. Những dạng tài sản kỹ thuật số mới này sẽ đóng vai trò quan trọng trong việc tạo, kiếm tiền và khuyến khích các nội dung số.
 
 ### Mao DAO
 
@@ -194,4 +194,4 @@ An NFT-focused DAO that aims to explore emerging investment opportunities for ow
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
+MAO DAO là một dạng DAO gaming mới, hướng tới việc dẫn đầu trong quá trình hình thành nên giới p2e tại Châu Á. Họ đã tiếp nhận hàng trăm người chơi cho những trò chơi khác nhau, đầu tiên là Axie Infinity. Hiện tại, họ đã quyết định triển khai NFT Ready Player Cat, đại diện cho tư cách thành viên của DAO, một phần của quyền quản trị.
