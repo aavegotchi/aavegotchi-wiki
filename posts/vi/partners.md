@@ -114,9 +114,9 @@ Hệ sinh thái của Cometh tận dụng DeFi trên Ethereum theo một cách t
 <p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
 </div>
 
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
+DinoSwap là một dự án nền tảng crosschain, xây dựng thanh khoản cho những blockchain layer 1, AMM và các dự án đối tác. Được triển khai trên Polygon, các farmer sẽ có cơ hội để kiếm DINO và token của các dự án khác.
 
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
+DinoSwap mang đến những giao dịch tốc độ và phí giao dịch cực thấp nhờ có Polygon.
 
 ### Unicly
 
@@ -125,7 +125,7 @@ DinoSwap benefits from velociraptor fast and prehistorically cheap transaction c
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
+Unicly là một giao thức mở, được quản trị bởi cộng đồng để kết hợp, phân mảnh, và giao dịch NFT. Được xây dựng bởi những người đam mê sưu tập NFT và DeFi, giao thức này khuyến khích thanh khoản NFT và mang đến trải nghiệm giao dịch tài sản NFT cực thỏa mãn bằng cách kết nối AMM và yield farm đến cho thế giới NFT.
 
 ### Venly
 
@@ -134,7 +134,7 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Wallet & NFT products that seamlessly integrate with your blockchain project.
+Các sản phẩm ví & NFT giúp tích hợp hoàn hảo với các dự án blockchain của bạn.
 
 ### Đấu Giá GBM
 
@@ -143,7 +143,7 @@ Wallet & NFT products that seamlessly integrate with your blockchain project.
 <p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">Đấu Giá GBM</a></p>
 </div>
 
-GBM™ is a proprietary auction system where bidders make money when they are outbid.
+GBM™ là hệ thống đấu giá mà trong đó người đấu giá sẽ kiếm tiền khi bị người khác đặt giá cao hơn.
 
 ### Rarible
 
@@ -152,7 +152,7 @@ GBM™ is a proprietary auction system where bidders make money when they are ou
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
+Sàn giao dịch NFT đầu tiên được quản trị bởi cộng đồng. Tạo, bán và sưu tập vật phẩm an toàn với công nghệ blockchain.
 
 ### Yield Guild Games
 
@@ -161,7 +161,7 @@ The first community-owned NFT marketplace. Create, sell or collect digital items
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
+Yield Guild Games (YGG) là một guild Play-To-Earn mang người chơi đến cùng nhau để kiếm tiền thông qua các game NFT. Chúng tôi là những cư dân của Metaverse.
 
 ### BlackPool
 
@@ -170,7 +170,7 @@ Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+Blackpool là một quỹ mới được vận hành trong ngành công nghiệp NFT: quản lý hàng loạt tài sản từ thẻ bài thể thao đến những vật phẩm nghệ thuật kỹ thuật số.
 
 BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
 
