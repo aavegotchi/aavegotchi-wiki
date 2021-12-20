@@ -9,7 +9,7 @@ You know what's groovy? Our community aartists! Get to know them (and their crea
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#aartists>Aartists</a></li>
