@@ -25,7 +25,7 @@ where Gotchis come out to play!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#baards>Baards</a></li>
