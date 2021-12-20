@@ -30,7 +30,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#key>Key</a></li>
