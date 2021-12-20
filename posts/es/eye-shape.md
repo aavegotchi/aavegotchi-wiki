@@ -17,7 +17,7 @@ Check out the full list of Aavegotchi Eye Shapes (EYS) here!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
