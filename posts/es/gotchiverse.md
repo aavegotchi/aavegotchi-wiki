@@ -21,7 +21,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#zones>Zones</a></li>
