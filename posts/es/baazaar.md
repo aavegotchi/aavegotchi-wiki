@@ -34,7 +34,7 @@ Come and test your mettle! Buyers and sellers alike!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
