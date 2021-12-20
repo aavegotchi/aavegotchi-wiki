@@ -21,7 +21,7 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
