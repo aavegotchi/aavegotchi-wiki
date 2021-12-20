@@ -15,7 +15,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></li>
