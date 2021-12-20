@@ -11,7 +11,7 @@ REALM gameplay is coming soon! There will be plenty of activities in the Gotchiv
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#guilds>Guilds</a></li>
