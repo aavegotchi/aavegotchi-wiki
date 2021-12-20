@@ -16,7 +16,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#the-aagent-missions>The Aagent Missions</a></li>
