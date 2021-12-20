@@ -84,9 +84,9 @@ Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
-* Humble: Contain smol deposits of Alchemica and building space
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space
-* Spacious: Contain huge deposits of Alchemica and building space
+* Humble: Contain smol deposits of Alchemica and building space (8 x 8 pixels)
+* Reasonably Sized: Contain reasonable deposits of Alchemica and building space (16 x 16 pixels)
+* Spacious: Contain huge deposits of Alchemica and building space (32 x 64 pixels)
 
 *Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
 
