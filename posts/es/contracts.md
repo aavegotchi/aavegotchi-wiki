@@ -13,7 +13,7 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
