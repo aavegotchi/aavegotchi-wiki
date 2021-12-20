@@ -21,7 +21,7 @@ Keep your eyes out for more Baadges. They will be announced by the team as and w
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#list-of-baadges>List of Baadges</a></li>
