@@ -32,7 +32,7 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
