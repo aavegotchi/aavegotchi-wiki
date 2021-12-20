@@ -18,7 +18,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
