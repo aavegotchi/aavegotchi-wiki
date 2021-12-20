@@ -20,7 +20,7 @@ This page will tell you what you can do with your new Gotchi frens! :D
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
