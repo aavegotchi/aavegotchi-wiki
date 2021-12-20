@@ -38,7 +38,7 @@ The room went quiet.
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#aauction-house>Aauction House</a></li>
