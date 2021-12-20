@@ -13,56 +13,56 @@ contributors:
 <p class="headerImageText">El aETH aToken</p>
 </div>
 
-Cada Aavegotchi es incorporado por su Fuerza Espiritual. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Cada Aavegotchi es incorporado por su Fuerza Espiritual. Al abrir un [portal](/portals), ¡el invocador (¡tú!) tiene que infundir un Gotchi con Fuerza Espiritual para invocarlo a la vida!
 
-So what exactly is Spirit Force?
+Entonces, ¿qué es exactamente la Fuerza Espiritual?
 
-Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
+¡Fuerza espiritual son fichas de interés integradas en tu Aavegotchi! ¡Esto hace que tu Aavegotchi sea cada vez más valioso a lo largo del tiempo!
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
+En Aavegotchi, los términos "Fuerza del Espíritu", "Collateral", "aTokens", "maTokens", y "amTokens" significa lo mismo. ¿Confundido? Revisa esta [página de historial](/spirit-force-history) para más información.
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Esta página te proporcionará información útil sobre cuáles son los tokens disponibles y cómo conseguirlos.
 
-Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+Ten en cuenta que eventualmente **necesitas maTokens/amTokens** para invocar tu Gotchis en Polygon Network. Hay varias maneras de obtener maTokens sin necesidad de pasar por aTokens. Sin embargo, por precaución, explicamos cómo conseguir aTokens aquí.
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
-<li><a href=#about>About</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
+<li><a href=#about>Información</a></li>
+<li><a href=#stablecoins>Monedas estables</a></li>
+<li><a href=#cryptocurrencies>Criptomonedas</a></li>
+<li><a href=#getting-atokens>Obteniendo aTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Convirtiendo aTokens en maTokens</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Diferencias entre maTokens y amTokens</a></li>
 </ol>
 
 </div>
 
-## About
+## Información
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Mientras que el activo subyacente se presta a los prestatarios, aTokens ganará interés en tiempo real, ¡directamente en su cartera! Realmente, puedes ver tu balance incrementar minuto a minuto.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokens se puede clasificar en una de dos categorías: (1) criptomonedas, o (2) monedas estables. Las criptomonedas son monedas digitales o virtuales que están protegidas por criptografía. Muchas criptomonedas son redes descentralizadas basadas en la tecnología blockchain—un libro de contabilidad distribuido administrado por una red de computadoras. Las monedas estables son una clase de criptomonedas que intenta ofrecer estabilidad de precios al estar vinculado a una referencia externa como el Dólar de Estados Unidos (USD). El mecanismo subyacente de pegging difiere entre monedas estables, y cada una de ellas tiene su propio perfil de riesgo.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Los siguientes [tokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (criptomonedas y monedas estables) están disponibles en el Protocolo de Aave. La columna *soportada por Aavegotchi* indica si un token dado estará disponible para el juego de Aavegotchi. La lista de tokens soportados no están finalizados; habrá votos de twitter/DAO para añadir más aTokens para el juego de Aavegotchi basado en la demanda del jugador.
 
-## Stablecoins
+## Monedas estables
 
 table_stablecoins
 
-## Cryptocurrencies
+## Criptomonedas
 
 table_cryptocurrencies
 
-## Getting aTokens
+## Obteniendo aTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
+*Los siguientes pasos se toman desde la [Guía Cero a la Guía del Héroe 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) de Aave Medium. Se ha replicado aquí para la comodidad del lector.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). ¡Dirígete al <a href = "https://app.aave.com/">Protocolo de Aave</a> para empezar!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Aquí tienes algunas opciones para vincular tu criptocartera, dependiendo del tipo de cartera que tienes:
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
@@ -80,13 +80,13 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Converting aTokens into maTokens
+## Convirtiendo aTokens en maTokens
 
 Got your aTokens? Good!
 
 Let's head over to the [maTokens](/matokens) page for Step 2!
 
-## Differences between maTokens and amTokens
+## Diferencias entre maTokens y amTokens
 
 Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
