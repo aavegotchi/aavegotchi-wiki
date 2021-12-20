@@ -18,7 +18,7 @@ This page details the past mini-game XP events.
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>
