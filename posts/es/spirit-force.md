@@ -1,19 +1,19 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Spirit Force'
-description: 'All about Aavegotchi Spirit Force'
-image: "spirit-force/aETH.svg"
+title: 'Fuerza Espiritual'
+description: 'Todo sobre la Fuerza Espiritual de Aavegotchi'
+image: "spirit force/aETH.svg"
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/spirit-force/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">El aETH aToken</p>
 </div>
 
-Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Cada Aavegotchi es incorporado por su Fuerza Espiritual. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
 
 So what exactly is Spirit Force?
 
