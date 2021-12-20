@@ -26,7 +26,7 @@ Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated
 
 <div class="contentsBox">
 
-**Contents**
+**Contenidos**
 
 <ol>
 <li><a href=#about-aavegotchis>About Aavegotchis</a></li>
