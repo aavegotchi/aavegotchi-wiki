@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+title: 'アイテムセット'
+description: 'Aavegotchiアイテムセットについて'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+こんにちはフレン! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
 
 **Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
 
@@ -27,7 +27,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 <ol>
 <li><a href=#key>Key</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#wearable-sets>アイテムセット</a></li>
 </ol>
 
 </div>
@@ -40,7 +40,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 * SPK = Spookiness
 * BRN = Brain Size
 
-## Wearable Sets
+## アイテムセット
 
 table_sets
 
