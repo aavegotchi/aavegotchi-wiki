@@ -25,6 +25,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Баазаар](/baazaar)
 
+* [Bridge](/bridge)
+
 * [Конкурсы](/contests)
 
 * [Contracts](/contracts)

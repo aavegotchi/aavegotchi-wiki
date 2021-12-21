@@ -6,6 +6,7 @@ description: 'Все о характеристиках и чертах Готч�
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "unintelligent-nerd"
 ---
 
 Аавеготчи с рождения наделены чертами. В точности, как ваши черты характера определяют то, кем вы есть, работают и черты Аавеготчи. Они определяют их свойства, характеристики и жизненный цикл. Многочисленные черты оказывают прямое влияние на [базовую редкость](/rarity-farming#base-rarity-score) персонажа, эффективность в [мини-играх](/minigames), а также перечень подходящего для них [игрового шмота](/wearables). При рождении, появляющиеся из [порталов](/portals) Аавеготчи имеют сгенерированный автоматически набор черт. Но вы сможете управлять характером своего персонажа, развивая его до более высоких <a href=#level>уровней</a>, используя дополнительный игровой шмот и расходники. 
@@ -67,7 +68,12 @@ table_spiritForceModifiers
 Это чувство, которое Аавеготчи чувствует к игроку. More information can be found on the [Kinship page](/kinship).
 
 ## Опыт
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+
+Aavegotchis can also be sacrificed to remove their [spirit force](/spirit-force) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 XP exists as an internal balance on the Aavegotchi smart contract.
 

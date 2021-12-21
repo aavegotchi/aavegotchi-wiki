@@ -6,6 +6,7 @@ description: 'Everything you need to know about Aavegotchi traits!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "unintelligent-nerd"
 ---
 
 아베고치는 자신만의 특성이 있습니다. 마치 여러분이 가진 특성이 여러분이 누구인지를 정의하는 것과 같이, 아베고치의 특성들은 유령으로서의 활기를 결정해주는 것에 있어 중요합니다. These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. 포탈에서 소환된 아베고치는 무작위로 생성된 특성의 조합을 가지고 태어나게 됩니다. 그러나 아베고치의 특성은 <a href=#level>레벨</a>과 착용하고 있는 wearalbes, 그리고 사용된 consumables에 따라 바뀔 수 있습니다. 
@@ -67,7 +68,12 @@ table_spiritForceModifiers
 Kinship is your Aavegotchi’s feeling of loyalty towards you. More information can be found on the [Kinship page](/kinship).
 
 ## 경험치
-Aavegotchis receive experience (XP) for voting in AavegotchiDAO and playing mini-games. Aavegotchis can also be sacrificed to remove their [collateral stake](/atokens) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+
+Aavegotchis can also be sacrificed to remove their [spirit force](/spirit-force) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
 
 XP exists as an internal balance on the Aavegotchi smart contract.
 

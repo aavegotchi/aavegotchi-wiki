@@ -288,11 +288,11 @@ Trong trò chơi, những phụ kiện raffle sẽ cho ra cùng <a href="https:/
 ### Làm thế nào để mình có thể chuyển raffle đi sang địa chỉ khác?
 Vé Raffle được dự trên tiêu chuẩn ERC-1155. Chúng có thể được chuyển thông qua trang [Tickets](https://aavegotchi.com/tickets) trên Aavegotchi DApp. Dưới bộ sưu tập vé mà bạn có sẽ có nút Transfer (xem ảnh chụp màn hình phía dưới). Nhấp vào nút đó để chuyển những vé thuộc loại vé nào đó.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
 
 Sau đó bạn sẽ được chuyển đến một trang đặc thù và bạn sẽ có thể thêm địa chỉ người nhận của như số vé mà bạn cần chuyển (Xem ảnh chụp màn hình phía dưới). Một khi bạn đã nhập thông tin và và xác nhận đúng thông tin, hãy nhấp vào nút Transer.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Chuyển Vé Raffle Cho tài khoản khác" />
 
 ### Các cậu còn tổ chức sự kiện Raffle sau khi Mainnet khởi chạy hay không?
 Có á, sẽ có thêm nhiều sự kiện raffle sau khi Mainnet khởi chạy nha. Tuy nhiên, những sự kiện này sẽ không xảy ra liên tục và bọn tớ sẽ không báo trước. Đây là cách để bọn tớ thưởng cho những ai đang stake và thu gom [FRENS](/glossary#frens) và/hoặc là vé raffle.
@@ -373,17 +373,17 @@ Có hai lý do chính để Signal Proposal đạt 20% túc số (và được s
 
 Thứ hai, điều này hoàn toàn có thể xảy ra, là một số Signal Proposal sẽ đạt được túc số trong khi không tuân thủ đầy đủ mẫu quy định cho Signal Proposal (xem [tại đây](/dao#creating-signal-proposals)). Có thể sẽ cần phải điều đỉnh bản đề xuất để đáp ứng tất cả các khía cạnh của bản mẫu này.
 
-**Nếu một bản Signal Proposal không đạt được túc số 20% thì những ý tưởng cốt lõi của nó vẫn sẽ không mất đi, điều này chỉ đơn giản có nghĩa là nó sẽ không tự động được nâng cấp để triển khai thành một bản đề xuất lớn hơn.** Bất kỳ bản đều xuất nào được viết một cách hợp lệ cũng như có ý tưởng tốt đề sẽ cống hiến một phần lớn vào cho DAO và có thể sẽ rất ảnh hưởng đến Pixelcraft và những bản đề xuất cộng đồng trong tương lai. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**Nếu một bản Signal Proposal không đạt được túc số 20% thì những ý tưởng cốt lõi của nó vẫn sẽ không mất đi, điều này chỉ đơn giản có nghĩa là nó sẽ không tự động được nâng cấp để triển khai thành một bản đề xuất lớn hơn.** Bất kỳ bản đều xuất nào được viết một cách hợp lệ cũng như có ý tưởng tốt đề sẽ cống hiến một phần lớn vào cho DAO và có thể sẽ rất ảnh hưởng đến Pixelcraft và những bản đề xuất cộng đồng trong tương lai. Có thể đôi lúc Pixelcraft sẽ chọn những bản Signal Proposal không đủ túc số và vẫn tạo thành Core Proposal dựa trên những bản đề xuất đó.
 
 ### Mình đã chi tiêu hết GHST để mua Portal và Trang phục - Liệu mình có tiếng nói hay không?
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. Với việc [GIP 9 được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong AavegotchiDAO](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong Maall. Hãy nhấp vào [đây](/wearables#voting-power) để xem thông tin chi tiết.
+Bạn may mắn rồi đấy! Ngoài việc chỉ giữ GHST, trò chơi Aavegotchi luôn hướng tới việc chia sẻ sức mạnh bỏ phiếu dựa trên quyền sở hữu Aavegotchi. Với việc [GIP 9 được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong AavegotchiDAO](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong Maall. Hãy nhấp vào [đây](/wearables#voting-power) để xem thông tin chi tiết.
 
 ### Vậy còn Đề Xuất Vốn thì sao?
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+Yêu cầu ngân sách không có trong biểu mẫu đề xuất *Cocoon*, chủ yếu bở vì quy luật "đi trước chạy" khiến cho chúng ta tập trung vào việc thành lập một khuôn khổ bên vững trước khi mang đến những cơ chế tài chính phức hợp.
 
-**Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
+**Đề Xuất Gọi Gốn chắc chắn sẽ là trọng tâm trong giai đoạn Metamorphosis nhưng yếu tố đang được Cocoon tập trung vào chính là quyết định về cơ chế game.**
 
-That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+Nói vậy có nghĩa là *Cocon* là một giai đoạn quản trị thử nghiệm và nó sẽ không rời khỏi khả năng để thấy được sự hỗ trợ cần có cho những ngân sách của DAO. Những tình huống như vậy không nghi ngờ gì khi chúng cần phải có cấp độ bỏ phiếu Galaxy và túc số 20%. Vậy cơ bản là, bọn mình không cố khuyến khích việc này, song song đó bọn mình cũng không bao giờ nói là sẽ không xảy ra.
 
 ## Hỏi Đáp về Lối Chơi
 
@@ -407,63 +407,63 @@ Bạn không cần. Chương trình này được thiết kế để bạn có t
 
 ### Mình nên xây dựng #Gotchigang lớn đến mức nào?
 
-Việc giữ cho **#GotchiGang** ở quy mô nhỏ và cụ thể thật ra sẽ tốt hơn. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Việc giữ cho **#GotchiGang** ở quy mô nhỏ và cụ thể thật ra sẽ tốt hơn. Bạn có thể tạo một **#GotchiGang** cho thị trấn, thành phố, trường đại học của bạn... sự sáng tạo nằm ở chính bạn.
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Một khi nhóm của bạn đã có đủ 100 thành viên hợp lệ thì bạn sẽ chính thức được công nhận là Aavegotchi Aambassador.
 
 ### Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+Bạn sẽ được thông báo khi tên mà bạn mong muốn đã được đặt, sau khi bạn điền form đăng ký.
 
 ### Mình đã có một group với chủ đề Aavegotchi rồi. Mình có nên ứng tuyển làm Aambassador hay không?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Tất nhiên rồi! Một khi bọn mình có thể theo dõi sự phát triển trong mạng lưới của bạn, bạn sẽ đủ điều kiện để trở thành Aambassador.
 
 ### Mình có một câu hỏi chưa được giải đáp. Mình nên hỏi ai nhỉ?
 
-All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
+Tất cả mọi câu hỏi liên quan, bạn có thể hỏi jason@aavegotchi.com, (hoặc buzz.lightyear tại Discord).
 
 ## Câu hỏi về việc chuyển mạng
 
 ### Mình vẫn có thể pet Aavegotchi khi chúng được chuyển sang Ethereum phải không?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**ĐƯỢC CHỨ**, các lập trình viên tại Gotchi World và Gotchi Care (dịch vụ pet Gotchi) mang đến dịch vụ auto pet cực kỳ xịn xò cho những Aavegotchi được chuyển mạng sang, để đảm bảo bạn sẽ kiếm được điểm kinship khi Gotchi đang ở trên mạng Ethereum! Trong khi đang đi nghỉ dưỡng trên Ethereum, Aavegotchi của bạn sẽ tiếp tục được tăng điểm kinship thêm 2 điểm mỗi ngày, những chắc chắn nó sẽ thấy vui khi chủ nhân của mình có thể cho phép trở về nhà một hai lần! Nơi ấy lạaanh lẽo lắm…
 
 ### Aavegotchi của mình vẫn có thể nhận phần thưởng Rarity Farming khi chúng ở trên Ethereum phải không?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**YES**, Gotchi của bạn vẫn sẽ được tham dự Rarity Farming ở tất cả hạng mục dù nó đã được chuyển mạng. Tất cả phần thưởng sẽ được gửi vào ví của Gotchi.
 
 ### Gotchi của mình có thể được chuyển sang bên kia khi đang mặc trang phục hay không?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**CÓ**, bạn có thể mặc bao nhiêu trang phục cho gotchi tuỳ thích trước khi bạn chuyển mạng, NHƯNG hãy nhớ là Aavegotchi sẽ không thể thay đồ khi đang ở trên mạng Ethereum.
 
 ### Mình có thể mặc hoặc tháo trang bị khi Gotchi đang ở trên Ethereum không?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**KHÔNG**, Gotchi của bạn về cơ bản sẽ bị đóng băng dựa trên snapshot tại thời điểm nó được chuyển mạng. Tuy nhiên, bạn có thể chuyển nó về Polygon bất kỳ lúc nào mà bạn muốn (phí chuyển bình thường sẽ được tính).
 
 ### Mình vẫn có thể dùng Aavegotchi để chơi trong Gotchiverse sắp tới khi Gotchi đang ở trên Ethereum chứ?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**KHÔNG**, do Gotchiverse vận hành trên Polygon, bất kỳ Gotchi nào trên Ethereum Mainnet cũng sẽ không thể tham gia vào Gotchiverse. Bạn có thể chơi nếu bạn chuyển Gotchi về lại Polygon!
 
 ### Liệu những món trang phục, portal, hoặc vật phẩm tiêu thụ có thể được chuyển sang Ethereum và đăng bán trên Rarible hay không?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**ĐƯỢC** nhưng **CHƯA ĐƯỢC**. Portal có thể chuyển được liền do chuyến cũng là token ERC-721. Trang phục và vật phẩm tiêu thụ là token ERC-1155 và chúng sẽ có chiếc cầu riêng được mở trong vài tuần tới.
 
 ### Nếu mình mua Aavegotchi trên Ethereum thông qua Rarible, làm sao mình có thể chuyển nó về lại Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Chỉ cần truy cập vào[aavegotchi.com/bridge](https://aavegotchi.com/bridge). Bạn sẽ có thể chuyển bất kỳ lúc nào bạn muốn!
 
 ### Liệu mình có thể bán Aavegotchi trên Baazaar khi chuyển nó sang Ethereum hay không?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**KHÔNG**, bạn chỉ có thể giao dịch trên chợ Ethereum như Rarible, một khi Aavegotchi được chuyển mạng.
 
 ### Mình có thể giao dịch Aavegotchi trên Opensea khi chúng đang ở trên Ethereum hay không?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**CÓ**, bạn có thể trade Gotchi trên bất kỳ chợ NFT Ethereum nào, nhưng bạn sẽ chỉ nhận được RARI khi bạn trade trên Rarible.
 
 ## Những câu hỏi về Kỹ thuật
 
 ### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên blockchain của Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard[ tại đây](/glossary#diamond-standard).
 
 ### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
@@ -502,7 +502,7 @@ MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 
 
 Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Giới hạn ký tự của token trên MetaMask" />
 
 ### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
 

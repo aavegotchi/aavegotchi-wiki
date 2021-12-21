@@ -6,6 +6,7 @@ description: 'Mọi thứ bạn cần biết về trait của Aavegotchi!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
+  - "unintelligent-nerd"
 ---
 
 Aavegotchi được sinh ra với các trait. Giống như các đặc điểm để định hình rằng bạn là một con người, trait của Aavegotchi rất quan trọng trong việc định hình sự đống động của một bé ma! Những loại đặc điểm này mà chúng sở hữu có ảnh hưởng đến[Trait Base Rarity](/rarity-farming#base-rarity-score) của chúng, cách chúng thể hiện trong [minigame](/minigames) và
@@ -78,7 +79,13 @@ Kinship là độ trung thành mà Aavegotchi dành cho bạn. Xem thêm thông 
 
 ## Kinh nghiệm
 
-Aavegotchi nhận được kinh nghiệm (XP) khi vote cho AavegotchiDAO và chơi minigame. Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/atokens) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
+Aavegotchi có thể nhận được kinh nghiệm (XP) khi:
+
+* Bỏ phiếu cho những đề xuất quan trọng trong [AavegotchiDAO](/dao)
+* Tham gia vào các sự kiện được tổ chức trong Aavegotchi Discord (một bản Typeform sẽ được công bố trong sự kiện để mọi người có thể hoàn thành và nhận được XP cho Gotchi)
+* Chơi [mini-games](/minigames) (trong một thời gian nhất định, được công bố trên Discord)
+
+Aavegotchi có thể được hi sinh để loại bỏ[tiền ký gửi được stake](/spirit-force) và chuyển tài sản đó sang cho một Aavegotchi khác. Aavegotchi đích sẽ nhận được 100% số kinh nghiệm mà Aavegotchi hi sinh sở hữu.
 
 Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
 

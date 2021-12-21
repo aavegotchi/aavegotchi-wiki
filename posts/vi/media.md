@@ -11,6 +11,8 @@ Chào cả nhà iu! Có khi nào bạn bỏ lỡ những buổi trò chuyện tr
 
 Cơ mà bạn êi, bọn mình cũng có kênh [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) riêng đó nha :D
 
+### FutureX Meet-Up #4 - Liệu DeFi đã hết thuốc hay đây chỉ là sự bắt đầu? (29 Tháng 11 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Cryptocurrency Subreddit AMA (13 tháng Mười 2021)
 Xem tại [đây](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
@@ -41,20 +43,20 @@ Xem video tại [đây](https://www.youtube.com/watch?v=ZzFnUFwAY00)
 ### Đại Sứ người Malaysia của chúng tôi là Buzz Lightyear / Jason Chew chia sẻ với DeFi Singapore về Aavegotchi Farming và NFT! (27 tháng Giêng 2021)
 Xem video tại [đây](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
-### Cách tích hợp Aavegotchi để phục vụ cho hackathon, với Coderdan và Nick (19 tháng Giêng 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6--GY-5yWy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Cách tích hợp Aavegotchi để phục vụ cho hackathon, với Coderdan và Nick (19 tháng Giêng 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
-### Coderdan thuyết trình về Bonding Curve (20 Tháng Mười Hai 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>0
+### Coderdan thuyết trình về Bonding Curve (20 Tháng Mười Hai 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
 
-### Hội Nghị Cutting-edge Game: Interoperable Avatars For The Great Web3 MMORPG (12 Tháng Mười Hai 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>1
+### Hội Nghị Cutting-edge Game: Interoperable Avatars For The Great Web3 MMORPG (12 Tháng Mười Hai 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
 
-### Aave * Aavegotchi Fireside Chat (8 Tháng Mười Hai 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>2
+### Aave * Aavegotchi Fireside Chat (8 Tháng Mười Hai 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>3
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 Tháng Chín 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>3
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 Tháng Chín 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>4
 
-### Phỏng Vấn Người Sáng Lập Aavegotchi. Cagyjan phỏng vấn Jesse / GldnXross (16 Tháng Mười 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>4
+### Phỏng Vấn Người Sáng Lập Aavegotchi. Cagyjan phỏng vấn Jesse / GldnXross (16 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>5
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 Tháng Mười 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>5
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>6
 
-### Aavegotchi và Chainlink Live Q&A: DeFi-staked Crypto Collectibles với Chainlink VRF (1 Tháng Mười 2020) <iframe title="Game Hoá DeFi, với Jesse Johnson từ PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>6
+### Aavegotchi và Chainlink Live Q&A: DeFi-staked Crypto Collectibles với Chainlink VRF (1 Tháng Mười 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>7
 
 

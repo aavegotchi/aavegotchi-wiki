@@ -39,6 +39,7 @@ Aave и аТокены.
 <li><a href=#entering-raffle-4>Как принять участие в четвертой лотерее.</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
+<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
 </ul>
 
 </div>
@@ -142,3 +143,11 @@ Aave и аТокены.
 * Learn about Gotchus Alchemica and their tokenomics
 * Learn what you can do with your REALM parcels
 * Learn how to buy a REALM parcel
+
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica
+* Learn about what features make REALM parcels desirable
+* Learn how to navigate the Auction map
+* Learn about Auction strategies

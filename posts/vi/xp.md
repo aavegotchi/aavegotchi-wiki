@@ -16,6 +16,7 @@ Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm (XP). Nhưng
 <ol>
 <li><a href=#formula>Công thức</a></li>
 <li><a href=#experience-table>Bản Kinh Nghiệm</a></li>
+<li><a href=#tracking-xp-received>Theo dõi lượng kinh nghiệm đã nhận được</a></li>
 </ol>
 
 </div>
@@ -41,3 +42,8 @@ Cấp độ cao nhất mà một aavegotchi có thể đạt được là 99. B�
 
 table_XP
 
+## Theo dõi lượng kinh nghiệm đã nhận được
+
+[aarchitect](/aarchitect) thân thiện của bọn mình là Frank Pfeift đã tạo ra một ứng dựng để theo dõi lượng XP mà Gotchi đã nhậnd được trong trọn đời.
+
+Các bạn có thể truy cập vào ứng dụng này tại [đây](https://aavegotchi-xp-dashboard.vercel.app). Gotchi ID của bạn là những chữ số nằm ở cuối URL của trang [Gotchi Profile Page](/aavegotchi-profile).

@@ -11,6 +11,8 @@ contributors:
 
 快来看看我们自己的 [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)，嘻嘻。
 
+### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
 ### Cryptocurrency Subreddit AMA (13 October 2021)
 Link to AMA [here](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
@@ -41,20 +43,20 @@ Link to video [here](https://www.youtube.com/watch?v=ZzFnUFwAY00)
 ### Our Malaysian Aambassador Buzz Lightyear / Jason Chew shares with DeFi Singapore about Aavegotchi Farming and NFTs! (27 January 2021)
 Link to video [here](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
-### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6--GY-5yWy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>0
 
-### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>0
+### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>1
 
-### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>1
+### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>2
 
-### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>2
+### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>3
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>3
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>4
 
-### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>4
+### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>5
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>5
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>6
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150" mark="crwd-mark"></iframe>6
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>7
 
 

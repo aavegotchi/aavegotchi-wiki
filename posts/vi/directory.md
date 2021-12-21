@@ -25,6 +25,8 @@ contributors:
 
 * [Baazaar](/baazaar)
 
+* [Cầu nối](/bridge)
+
 * [Cuộc thi](/contests)
 
 * [Hợp đồng](/contracts)
@@ -87,7 +89,7 @@ contributors:
 
 * [Rarity Farming](/rarity-farming)
 
-* [Rarity farming bắt đầu](/rarity-farming-seasons)
+* [Các Mùa Rarity Farming](/rarity-farming-seasons)
 
 * [Roadmap](/roadmap)
 
@@ -109,10 +111,10 @@ contributors:
 
 * [Traits](/traits)
 
-* [Hướng Dẫn](/tutorials)
+* [Hướng dẫn](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
 * [Wearables](/wearables)
 
-* [XP](/xp)
+* [Kinh nghiệm](/xp)
