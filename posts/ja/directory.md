@@ -95,7 +95,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Sets](/sets)
 
-* [Social Media](/socialmedia)
+* [ソーシャルメディア](/socialmedia)
 
 * [Spirit Force](/spirit-force)
 
