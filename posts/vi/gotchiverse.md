@@ -86,9 +86,9 @@ Hãy lướt xem REALM tại [gotchiverse.io](https://gotchiverse.io/).
 
 Parcel có 3 kích thước, kích thước càng lớn thì cần có nhiều Alchemica* và khoảng trống để xây dựng
 
-* Humble: Contain smol deposits of Alchemica and building space (8 x 8 pixels)
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space (16 x 16 pixels)
-* Spacious: Contain huge deposits of Alchemica and building space (32 x 64 pixels)
+* Kích Thước Khiêm Tốn: có một lượng Alchemica gửi vào và khoảng trống để xây dựng nhỏ (8 x 8 pixels)
+* Kích Thước Khiêm Tốn: có một lượng Alchemica gửi vào và khoảng trống để xây dựng vừa phải (16 x 16 pixels)
+* Kích Thước Khiêm Tốn: có một lượng Alchemica gửi vào và khoảng trống để xây dựng lớn (32 x 64 pixels)
 
 *Số lượng Tài Nguyên có thể được tính toán chính xác bằng [Chainlink VRF](/glossary#chainlink-vrf) lúc mua.
 
