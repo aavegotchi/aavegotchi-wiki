@@ -5,6 +5,10 @@ export const items: Category[] = [
     {
         name: "Start Here Fren",
         items: [
+			{
+				name: "Home",
+				href: "index"
+			},
             {
                 name: "Introduction",
                 href: "introduction"
