@@ -7,26 +7,26 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
-* 2 new Core Props and 6 new SigProps to vote for!
-* Vote now and get a deluge of XP!
+## [Không chỉ 1 mà có đến 8 bảng đề xuất!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
+* 2 bản Đề Xuất Core và 6 bảng Đề Xuất Sig mới!
+* Bỏ phiếu ngay và nhận hàng tấn XP!
 <p></p>
 
-## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
-* There are 3 ways to earn Alchemica
-* Check it out here!
+## [Giao Tiếp Xã Hội Trong Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
+* Có 3 cách để kiếm Alchemica
+* Hãy xem qua nhé!
 <p></p>
 
-## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
-* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+## [Gotchi Lending sắp có mặt!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
+* Pixelcraft công bố các tính năng sắp ra mắt của Gotchi Lending! :D
 <p></p>
 
-## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
-* 7000 parcels will be distributed through a Bid-to-Earn Auction from 2 - 5 December 2021
-* 3000 parcels will be distributed through a Drop Ticket Raffle from 10 - 13 December 2021
+## [Gotchiverse Land Sale 2 đã được xác nhận!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 7000 mẫu đất sẽ được phân bố trong Đấu Giá Kiếm Tiền từ ngày 2 - 5 tháng Mười Hai 2021
+* 3000 mẫu đất sẽ được phân bố trong Đấu Giá Kiếm Tiền từ ngày 10 - 13 tháng Mười Hai 2021
 <p></p>
 
-## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
+## [DAOist, hãy sẵn sàng bỏ phiếu cho AGIP14 và 15 nhé!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
 * AGIP14: Earn FRENS with GHST-MATIC LP Tokens
 * AGIP15: Create a Wearables Taask Force
 <p></p>
