@@ -73,11 +73,11 @@ contributors:
 <p></p>
 
 ## [Cập nhật tháng Chín Aavegotchi](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
-* September was another Aamazing month for the #GotchiGang!
-* Gotchiverse REALM Reveal
-* Haunt 2 Portal Raffle Completed
-* Wearables Raffle #5 Completed
-* And many more!
+* Tháng 9 lại là một tháng Tuyệt vời dành cho #Gotchigang!
+* Công bố Gotchiverse REALM
+* Hoàn thành xổ số Haunt 2
+* Hoàn thành xổ số trang phục #5
+* Và nhiều hơn nữa!
 <p></p>
 
 ## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
