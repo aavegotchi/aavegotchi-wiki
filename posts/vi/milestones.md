@@ -27,52 +27,52 @@ contributors:
 <p></p>
 
 ## [DAOist, hãy sẵn sàng bỏ phiếu cho AGIP14 và 15 nhé!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
-* AGIP14: Earn FRENS with GHST-MATIC LP Tokens
-* AGIP15: Create a Wearables Taask Force
+* AGIP14: Kiếm FRENS với token LP GHST-MATIC
+* AGIP15: Thành Lập Biệt Đội Trang Phục
 <p></p>
 
-## [Coderdan the shippoorrrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
-* Coderdan and his army of shippporrrrs continue to deliver:
-1. First Gotchiverse Land Auction
-2. Rarity Farming SZN 2 Kickoff
-3. Former World of Warcraft Game Designer Joins Team
-4. Gotchus Alchemica Tokenomics Report
-5. YGG Becomes First Official Gotchiverse Partner
-6. Blackpool Becomes Second Official Gotchiverse Partner
-7. Onchain Aging Boost for Aavegotchis Implemented
-8. 3-Word Addresses
-9. 1M USD + Aavegotchi Aastronauts Auction on Unicly
-10. Aavegotchi to Ethereum Bridge Opens
-11. r/CryptoCurrency Reddit AMA
-12. GHST Added to Umbria Narni Bridge
-13. Pixelcraft Studios Dev Highlights
+## [Coderdan người vận chuyểnnnnn](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
+* Coderdan và đội quân shipper của mình tiếp tục vận chuyển:
+1. Sự kiện Đấu Giá Gotchiverse
+2. Khai mạc Rarity Farming SZN 2
+3. Cựu Game Designer World of Warcraft gia nhập đội ngũ
+4. Báo Cáo về Tokenomics của Gotchus Alchemica
+5. YGG trở thành đối tác chính thức đầu tiên của Gotchiverse
+6. Blackpool trở thành đối tác chính thức thứ hai của Gotchiverse
+7. Tích hợp tăng sức mạnh cho Aavegotchi dựa trên cơ chế trưởng thành
+8. Địa chỉ 3 từ
+9. 1M USD + đấu giá Aavegotchi Aastronauts trên Unicly
+10. Khai trương chiếc cầu nối giữa Aavegotchi và Ethereum
+11. aMA cùng Reddit r/CryptoCurrency
+12. GHST được thêm vào cầu Umbria Narni
+13. Cập nhật phát triển Pixelcraft Studios
 <p></p>
 
-## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
-* Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
+## [Xổ Số Land #1 - 5-8 tháng Mười Một](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
+* Tham gia vào sự kiện xổ số land đầu tiên của Aavegotchi từ ngày 5 - 8 tháng Mười Một!
 <p></p>
 
-## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
-* FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
-* Read all about their tokenomics here!
+## [Báo Cáo về Tokenomics của Gotchus Alchemica](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
+* FUD, FOMO, ALPHA, KEK — Bốn nguyên tố của Gotchiverse
+* Đọc hết thông tin về tokenomics tại đây nhé!
 <p></p>
 
-## [Ex-World of Warcraft Game Designer joins Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
-* David Fried, a senior game industry veteran who previously worked on World of Warcraft, Diablo II, and Warcraft 3, has joined Pixelcraft Studios as Senior Engineer Game Advisor (SEGA!)!
+## [Cựu Game Designer của WoW tham gia vào Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
+* David Fried, một tinh binh của ngành công nghiệp game, người đã từng làm việc cho các game như World of Warcraft, Diablo II, và Warcraft 3, đã tham gia vào Pixelcraft Studios với vai trò Senior Engineer Game Advisor (SEGA!)!
 <p></p>
 
-## [Are you ready? Aavegotchi Land Sale #1 coming up this Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
-* The very first Aavegotchi Land Sale is starting on Thursday, October 28 using the GBM Auction format
-* Get your GHST ready to bid bid bid!
+## [Bạn đã sẵn sàng chưa? Aavegotchi Land Sale #1 sẽ diễn ra trong dịp Halloween này!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* Sự kiện Land sale đầu tiên của Aavegotchi sẽ bắt đầu vào thứ Năm, 28 tháng Mười, với format Đấu Giá GBM
+* Hãy giữ sẵn GHST để sẵn sàng đặt giá nhé!
 <p></p>
 
-## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
-* Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
-* Season 2 begins Tuesday, 12 October 2021
-* Get the details in this post!
+## [Rarity Farming Season 2 đã đếnn!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* Hãy sẵn sàng farm lượng GHST trị giá 3 triệu USD cho #Gotchigang của mình
+* Mùa 2 sẽ bắt đầu từ thứ Ba, ngày 12 tháng Mười 2021
+* Hãy xem chi tiết trong bài viết này!
 <p></p>
 
-## [Aavegotchi September Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
+## [Cập nhật tháng Chín Aavegotchi](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
 * September was another Aamazing month for the #GotchiGang!
 * Gotchiverse REALM Reveal
 * Haunt 2 Portal Raffle Completed
