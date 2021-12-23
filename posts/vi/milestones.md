@@ -155,21 +155,21 @@ contributors:
 <p></p>
 
 ## [Cựu CTO của CoinMarketCap đã tham gia vào Aavegotchi với vai trò Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
-* On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor.
-* Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
+* Vào ngày 29 tháng 7 2021, Pixelcraft thông báo rằng Mauvis Ledford, cực CTO tại CoinmarketCap (CMC), đã tham gia vào Aavegotchi với vai trò Cố Vấn Kỹ Thuật.
+* Mauvis sẽ đóng một vai trò quan trọng trong việc mở rộng sức chứa cho The Gotchiverse Realm để hàng vạn người chơi có thể chơi cùng lúc trong thế giới ảo này, khi nó được lên sóng vào cuối năm nay!
 <p></p>
 
-## [Exclusive Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
-* Hear ye! Hear ye! There will be an exclusive Aavegotchi x Venly Wearables Drop coming up soon!
-* Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
+## [Sự kiện mở bán độc quyền Aavegotchi x Venly Wearables](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
+* Hear ye! Hear ye! Sẽ sớm diễn ra sự kiện mở bán độc quyền trang phục Aavegotchi x Venly!
+* Hãy đọc qua bài viết này để xem thêm về AMA sắp tới cũng như sự kiện mở bán trang phục nhé!
 <p></p>
 
 ## [Nhìn Lại sự kiện Đấu Giá #Bid2Earn đầu tiên của Aavegotchi](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
 * Sự kiện #Bid2Earn kết thúc gần đây của Aavegotchi đã là một thắng lợi lớn!
-* View the Aauction aanalytics in this latest post!
+* Xem qua các phân tích Đấu Giá trong bài viết mới nhất!
 <p></p>
 
-## [Aavegotchi Haunt 2 CoreProp is live!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
+## [Aavegotchi Haunt 2 Signal Proposal đã có mặt!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
 * The SigProp for Aavegotchi Haunt 2 was a resounding success! It has now been upgraded to a CoreProp! Go vote now!
 <p></p>
 
