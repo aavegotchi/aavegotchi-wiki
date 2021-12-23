@@ -14,33 +14,40 @@ Aavegotchis 可以通过获得更多的经验 (XP) 来提升级别。 但到底�
 **内容**
 
 <ol>
-<li><a href=#公式>公式</a></li>
-<li><a href=#经验值表>经验值表</a></li>
+<li><a href=#gaining-xp>Gaining XP</a></li>
+<li><a href=#formula>公式</a></li>
+<li><a href=#experience-table>Experience Table</a></li>
 <li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
 
+## Gaining XP
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+
 ## 公式
-以下公式为计算升级到下一个级别所需的 XP：
+The following formula is used to determine the XP required for the next level:
 
-（当前等级 ^ 2）÷ 常数，其中常数 = 0.02
+(Current Level ^ 2) ÷ Constant, where Constant = 0.02
 
-## 经验值表
+## Experience Table
 
-下表显示每一级所需的 XP。 在理解数据之前，先要熟悉一些关键术语的定义：
+The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
 
-* 当前级别：您的 Gotchi 的当前级别
-* 下一个级别：您的 Gotchi 的下一个级别
-* XP: 达到 **下一个级别** 列表中某个指定的下一个级别所需的经验值
-* 差异：要达到 **下一个级别** 列表中某一的级别，需要的 XP 与上一行中的同一列的差异值
-* 常数：计算下一个级别公式所需的 XP 时使用的固定值
+* Current Level: Current Level of your Gotchi
+* Next Level: Next Level of your Gotchi
+* XP: Experience required to reach the next level that is specified in the **Next Level** column
+* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
+* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
 
-Aavegotchi 所能达到的最高级别是 99。 对最高级别的任何更改都可以通过 [AavegotchiDAO](/dao) 提案来完成。
+The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
 
-*注：Aavegotchis 从第一级开始。 “0级”也包括在表中，有兴趣的朋友可以参考公式进行计算。*
+*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
 
-XP 表格
+table_XP
 
 ## Tracking XP received
 
