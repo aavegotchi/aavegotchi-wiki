@@ -80,7 +80,7 @@ contributors:
 * Và nhiều hơn nữa!
 <p></p>
 
-## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+## [[AGIP13] Aavegotchi có nên trình làng cơ chế Trưởng Thành hay không?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 * AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
 * Fulfil your Gotchi civic duty and vote!
 <p></p>
