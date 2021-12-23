@@ -115,24 +115,24 @@ contributors:
 * Giải thưởng Rarity Farming Mùa 2
 * Mở bán đất REALM #1: tháng Mười
 * Cho thuê/vay Gotchi: tháng Mười Một
-* The Aarcade: November
-* .....and many more! Check out the Medium post for all the hot hot alpha!
+* Trung tâm trò chơi Aarcade: tháng Mười Một
+* .....và nhiều hơn thế nữa! Hãy xem qua bài đăng Medium để xem thêm tất cả tin hot nhé!
 <p></p>
 
-## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
-* The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
-* Read this guide for more information!
+## [Bài Hướng Dẫn Tối Hậu dành cho Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* Sự kiện đấu giá kiếm tiền lớn nhất sẽ diễn ra vào ngày 26-29 tháng Tám với những Aavegotchi và trang phục mới!
+* Hãy đọc thêm bài hướng dẫn để có thêm thông tin nhé!
 <p></p>
 
-## [Aavegotchi Game Jaam coming soooon!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
-* The 1st Aavegotchi Game Jaam will be held on 1 - 5 September 2021!
-* Win aavesome prizes denominated in GHST!
-* The Gaame Jaam is organized by Aavegotchi's own Pixelcraft Studios who are providing custom tailored resources and hands-on workshops throughout the week
+## [Aavegotchi Game Jaam sẽ sớm xuất hiện!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
+* The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín 2021!
+* Thắng nhiều giải thưởng tuyệt vời tính bằng GHST!
+* Gaame Jaam được tổ chức bởi công ty đứng sau Aavegotchi's là Pixelcraft Studios những người mang đến tài nguyên chính chủ cũng như những buổi luyện tập trong suốt tuần thi đấu
 <p></p>
 
-## [The DeFi Case for GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
-* Coderdan has initiated a proposal to list GHST on the Aave Polygon market
-* Learn why GHST makes a good DeFi collateral in this post
+## [Vài Trò của GHST trong DeFi](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
+* Coderdan đã bắt đầu một bản đề xuất để niêm yết GHST trên thị trường Aave Polygon
+* Tìm hiểu lý do GHST sẽ là một tài sản thế chấp DeFi tốt trong bài viết này
 * Go delegate your proposition power to him to make this a reality!
 <p></p>
 
