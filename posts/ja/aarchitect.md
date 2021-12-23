@@ -1,5 +1,5 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi建築家'
 description: 'ここでAavegotchi建築家に会いましょう!'
@@ -21,4 +21,4 @@ contributors:
 
 ## 建築家
 
-table_aarchitect
+table_aarchitecture
