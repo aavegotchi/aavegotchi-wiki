@@ -98,15 +98,15 @@ contributors:
 
 ## [Aavegotchi Đa Góc Nhìn đã lên sóng!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
 * Aavegotchi Đa Góc Nhìn đã lên sóng!
-* They are viewable on the Aavegotchi UI and smart contract
+* Chúng có thể xem được trên Aavegotchi UI và hợp đồng thông minh
 <p></p>
 
-## [Aavegotchi Raffle 5 Wearables revealed!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
-* The wearables for Raffle 5 are revealed!
-* The theme is Aavegotchi's frenliest partnerships! :D :D :D
+## [Aavegotchi Shop Wearables đã được công bố!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
+* Trang phục dành cho Raffle 5 được công bố!
+* Sự kiện đấu giá Thứ Năm được truyền cảm hứng bởi những đối tác thân thiện nhất của Aavegotchi! :D :D :D
 <p></p>
 
-## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
+## [120 Ngày của Gotchi! - Một cái nhìn về những gì sắp được công bố trong khoảng thời gian từ đây đến 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
 * Gotchigang, boy do we have tons of exciting events for you!
 * Haunt 2 Raffle: 5 - 8 tháng Chín 2021
 * AavegotchiDAO Frens Committee: 16 September 2021
