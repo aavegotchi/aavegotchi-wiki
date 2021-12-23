@@ -1,31 +1,31 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Guilds'
-description: 'Aavegotchi Guilds'
+title: 'Aavegotchiギルド'
+description: 'Aavegotchiギルド'
 contributors:
   - "unintelligent-nerd"
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+Aavegotchiメタバースゲームプレイは近日公開予定です! Aavegotchiメタバースでは、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフランズを作りましょう！
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#guilds>Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#guilds>ギルド</a></li>
+<li><a href=#guild-map>ギルドの地図</a></li>
 </ol>
 
 </div>
 
-## Guilds
+## ギルド
 
 table_guild
 
-## Guild Map
+## ギルドの地図
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+ギルドは地区で自分たちを組織します。 次のギルド地図はAvid AavegotchisのMonsterRNG#333333によって編集されました。
 
-<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchiギルド地図" />
