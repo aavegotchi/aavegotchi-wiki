@@ -93,11 +93,11 @@ contributors:
 
 ## [Triển Khai Chương Trình Tài Trợ Hệ Sinh Thái Aavegotchi!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
 * Theo chân thành công lớn của Aavegotchi Gaame Jaam, Pixelcraft Studios rất vui khi được công bố việc triển khai chương trình Tài Trợ Hệ Sinh Thái Aavegotchi!
-* There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
+* Có hai con đường khác nhau: (1) Game Track - Dành cho bất kỳ ai tạo ra mini game; và (2) Ecosystem Track - Dành cho bất kỳ DApp, nền tảng phân tích dữ liệu, hoặc bất kỳ trải nghiệm gotchi nổi tiếng nào mà bạn muốn xây dựng.
 <p></p>
 
-## [Aavegotchi Side Views are now live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
-* Aavegotchi Side Views are now live!
+## [Aavegotchi Đa Góc Nhìn đã lên sóng!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
+* Aavegotchi Đa Góc Nhìn đã lên sóng!
 * They are viewable on the Aavegotchi UI and smart contract
 <p></p>
 
