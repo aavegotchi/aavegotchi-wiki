@@ -107,14 +107,14 @@ contributors:
 <p></p>
 
 ## [120 Ngày của Gotchi! - Một cái nhìn về những gì sắp được công bố trong khoảng thời gian từ đây đến 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
-* Gotchigang, boy do we have tons of exciting events for you!
+* Gotchigang ơiiii, bọn mình có hàng tá những sự kiện thú vị dành cho bạn đây!
 * Haunt 2 Raffle: 5 - 8 tháng Chín 2021
-* AavegotchiDAO Frens Committee: 16 September 2021
-* FRENS Wearables Raffle #5: 24 - 28 September 2021
-* Baazaar NFT offers feature: Early October
-* Rarity Farming Season 2: October
-* REALM land sale #1: October
-* Gotchi renting/lending: November
+* Ủy ban AavegotchiDAO Frens: 16 tháng Chín 2021
+* Xổ số Trang Phục FRENS #5: 24 - 28 tháng Chín 2021
+* Thêm tính năng ra giá cho Baazaar NFT: Đầu tháng Mười
+* Giải thưởng Rarity Farming Mùa 2
+* Mở bán đất REALM #1: tháng Mười
+* Cho thuê/vay Gotchi: tháng Mười Một
 * The Aarcade: November
 * .....and many more! Check out the Medium post for all the hot hot alpha!
 <p></p>
