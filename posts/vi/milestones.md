@@ -81,18 +81,18 @@ contributors:
 <p></p>
 
 ## [[AGIP13] Aavegotchi có nên trình làng cơ chế Trưởng Thành hay không?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
-* AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
-* Fulfil your Gotchi civic duty and vote!
+* AGIP13 giúp tăng một số nhỏ BRS cho Gotchi khi chúng lớn lên, để chống lại các biến số giữa các thế hệ haunt và thưởng cho sự tương tác lâu dài
+* Hãy giúp Gotchi làm tròn nghĩa vụ công dân và bỏ phiếu đi nhé!
 <p></p>
 
-## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
-* Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
-* NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
-* Get 3x as many RARI trading rewards for trading Aavegotchis for the next 2 weeks!!!
+## [Chuyển Aavegotchi về trở lại Mainnet? Sắp Có!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
+* Bắt đầu từ thứ Hai, ngày 4 tháng Mười 2021, Aavegotchi có thể được chuyển trở lại Ethereum Mainnet bằng cách sử dụng cầu Aavegotchi Bridge
+* Chợ NFT Rarible mang đến phần thưởng cho những Aavegotchi được giao dịch trên chợ của họ
+* Nhận 3x phần thưởng giao dịch RARI khi giao dịch Aavegotchi trong hai tuần tới!!!
 <p></p>
 
-## [Launch of Aavegotchi Ecosystem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
-* Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
+## [Triển Khai Chương Trình Tài Trợ Hệ Sinh Thái Aavegotchi!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
+* Theo chân thành công lớn của Aavegotchi Gaame Jaam, Pixelcraft Studios rất vui khi được công bố việc triển khai chương trình Tài Trợ Hệ Sinh Thái Aavegotchi!
 * There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
 <p></p>
 
