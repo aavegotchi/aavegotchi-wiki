@@ -1,7 +1,7 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Social Media'
+title: 'ソーシャルメディア'
 description: 'All about the Aavegotchi Community'
 contributors:
   - "eris771"
@@ -9,7 +9,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/socialmedia/alfredgotchiwelcome.png" class="headerImage">
-<p class="headerImageText">Hello, fren!</p>
+<p class="headerImageText">こんにちはフレン！</p>
 </div>
 
 Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s crazy about Aavegotchi. We’re on several different channels, so you can find us wherever suits you best - but be sure not to miss our Discord if you want to level up to Aavegotch Aagent status! Our Aavegotchi Aagents are a central part of our community, with in-depth Aavegotchi knowledge and special Aagent wearables. Read on for more info on how to become an Aagent, as well as each of the many ways you can connect with our frenly GotchiGang.

@@ -1,24 +1,24 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aarchitect'
-description: 'Get to know our Aavegotchi Aarchitect here!'
+title: 'Aavegotchi建築家'
+description: 'ここでAavegotchi建築家に会いましょう!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+[Mini-Games](/minigames) を楽しんでみませんか? 彼らの建築家に会いましょう!
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aarchitects>Aarchitects</a></li>
+<li><a href=#aarchitects>建築家</a></li>
 </ol>
 
 </div>
 
-## Aarchitects
+## 建築家
 
-table_aarchitect
+table_aarchitecture

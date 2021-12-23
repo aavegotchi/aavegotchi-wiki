@@ -14,12 +14,19 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 **Contents**
 
 <ol>
+<li><a href=#gaining-xp>Gaining XP</a></li>
 <li><a href=#formula>Formula</a></li>
 <li><a href=#experience-table>Experience Table</a></li>
 <li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
+
+## Gaining XP
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
 
 ## Formula
 The following formula is used to determine the XP required for the next level:
