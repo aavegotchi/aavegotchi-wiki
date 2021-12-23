@@ -133,28 +133,28 @@ contributors:
 ## [Vài Trò của GHST trong DeFi](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
 * Coderdan đã bắt đầu một bản đề xuất để niêm yết GHST trên thị trường Aave Polygon
 * Tìm hiểu lý do GHST sẽ là một tài sản thế chấp DeFi tốt trong bài viết này
-* Go delegate your proposition power to him to make this a reality!
+* Hãy ủy quyền sức mạnh cho anh ấy để biến nó thành hiện thực nhé!
 <p></p>
 
-## [Haunt 2 Dates Confirmed!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
-* Haunt 2 Dates confirmed on August 26, 2pm UTC — August 29, 2pm UTC
-* Format: GBM Auction
-* New Mythical Eye Shapes!
+## [Ngày ra mắt Haunt 2 được xác nhận!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
+* Ngày ra mắt Haunt 2 được xác nhận là vào ngày 26 tháng Tám, 2pm UTC đến 29 tháng Tám, 2pm UTC
+* Dạng: Đấu giá GBM
+* Hình dạng mắt Thần Thoại mới!
 <p></p>
 
-## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
-* July has been jam-packed with Aavegotchi updates!
-* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquidity rewards and more!
-* Read all about it here!
+## [Cập nhật Aavegotchi tháng Bảy](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
+* Tháng Bảy là tháng có hàng loạt các bản cập nhật dành cho Aavegotchi!
+* Đấu Giá Kiếm Tiền, Tiệc sinh nhật đầu tiên của aavegotchi, quỹ thanh khoản DinoSwap GHST-ETH và nhiều hơn thế nữa!
+* Đọc thêm về nó ở đây!
 <p></p>
 
-## [Haunt 1 Aavegotchi NFT Backgrounds are live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
-* On 5 August 2021, Pixelcraft announces that the Haunt 1 Aavegotchi NFT Backgrounds are now live!
-* This was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) and has finally been implemented
-* Head over to the Airdrops page and claim it!
+## [Ảnh nền dành cho Aavegotchi Haunt 1 sẽ xuất hiện!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
+* Vào ngày 5 tháng Tám 2021, Pixelcraft công bố NFT Aavegotchi Haunt 1 đã chính thức nhận được ảnh nền!
+* Bản đề xuất này đã được bỏ phiếu tại [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) và cuối cùng đã được thông qua
+* Hãy đi đến mục Airdrops và nhận nhé!
 <p></p>
 
-## [CoinMarketCap former CTO joins Aavegotchi as Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
+## [Cựu CTO của CoinMarketCap đã tham gia vào Aavegotchi với vai trò Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
 * On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor.
 * Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
 <p></p>
@@ -164,8 +164,8 @@ contributors:
 * Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
 <p></p>
 
-## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
-* The recently concluded Aavegotchi #Bid2Earn Auction was a success!
+## [Nhìn Lại sự kiện Đấu Giá #Bid2Earn đầu tiên của Aavegotchi](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
+* Sự kiện #Bid2Earn kết thúc gần đây của Aavegotchi đã là một thắng lợi lớn!
 * View the Aauction aanalytics in this latest post!
 <p></p>
 
