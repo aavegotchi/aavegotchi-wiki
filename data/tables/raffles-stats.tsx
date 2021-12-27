@@ -13,7 +13,7 @@ interface TableData {
 export const tables
     = [
         {
-            tableName: "raffle1",
+            tableName: "wearableRaffle1",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -29,7 +29,7 @@ export const tables
         },
 		
 		{
-            tableName: "raffle2",
+            tableName: "wearableRaffle2",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -45,7 +45,7 @@ export const tables
         },
 		
         {
-            tableName: "raffle3",
+            tableName: "wearableRaffle3",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -61,7 +61,7 @@ export const tables
         },
 		
 		{
-            tableName: "raffle4",
+            tableName: "wearableRaffle4",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -77,7 +77,7 @@ export const tables
         },
 		
 		{
-            tableName: "raffle5",
+            tableName: "portalRaffle1",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -88,7 +88,7 @@ export const tables
         },
 		
 		{
-            tableName: "raffle6",
+            tableName: "wearableRaffle5",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
@@ -104,12 +104,23 @@ export const tables
         },
 		
 		{
-            tableName: "raffle7",
+            tableName: "landRaffle1",
             tableCaption: "",
             tableData: {
                 headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
                 data: [
                     ["Drop Ticket", "4000", "151997", "0.02631631"]
+				]
+            }
+        },
+		
+		{
+            tableName: "landRaffle2",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
+                data: [
+                    ["Drop Ticket", "3000", "83996", "0.03571599"]
 				]
             }
         },

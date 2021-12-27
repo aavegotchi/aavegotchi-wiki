@@ -17,38 +17,51 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 **Contents**
 
 <ol>
-<li><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></li>
-<li><a href=#raffle-2--aave-theme->Raffle 2 (Aave Theme)</a></li>
-<li><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></li>
-<li><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></li>
-<li><a href=#raffle-5--haunt-2-portal-drop->Raffle 5 (Haunt 2 Portal Drop)</a></li>
-<li><a href=#raffle-6--partnerships-theme->Raffle 6 (Partnerships Theme)</a></li>
-<li><a href=#raffle-7--1st-land-raffle->Raffle 7 (1st Land Raffle)</a></li>
+<li><a href=#wearable-raffles>Wearable Raffles</a></li>
+<p><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></p>
+<p><a href=#raffle-2--aave-theme->Raffle 2 (Aave Theme)</a></p>
+<p><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></p>
+<p><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></p>
+<p><a href=#raffle-5--partnerships-theme->Raffle 5 (Partnerships Theme)</a></p>
+<li><a href=#portal-raffles>Portal Raffles</a></li>
+<p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
+<li><a href=#land-raffles>Land Raffles</a></li>
+<p><a href=#raffle-1>Raffle 1</a></p>
+<p><a href=#raffle-2>Raffle 2</a></p>
 <li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
 
-## Raffle 1 (Chainlink Theme)
-table_raffle1
+## Wearable Raffles
 
-## Raffle 2 (Aave Theme)
-table_raffle2
+### Raffle 1 (Chainlink Theme)
+table_wearableRaffle1
 
-## Raffle 3 (Ethereum Theme)
-table_raffle3
+### Raffle 2 (Aave Theme)
+table_wearableRaffle2
 
-## Raffle 4 (Layer 2 Theme)
-table_raffle4
+### Raffle 3 (Ethereum Theme)
+table_wearableRaffle3
 
-## Raffle 5 (Haunt 2 Portal Drop)
-table_raffle5
+### Raffle 4 (Layer 2 Theme)
+table_wearableRaffle4
 
-## Raffle 6 (Partnerships Theme)
-table_raffle6
+### Raffle 5 (Partnerships Theme)
+table_wearableRaffle5
 
-## Raffle 7 (1st Land Raffle)
-table_raffle7
+## Portal Raffles
+
+### Raffle 1 (Haunt 2 Portal Drop)
+table_portalRaffle1
+
+## Land Raffles
+
+### Raffle 1
+table_landRaffle1
+
+### Raffle 2
+table_landRaffle2
 
 ## Chart
 
