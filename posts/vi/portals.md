@@ -36,46 +36,54 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 
 ## Mua Portal
 
-Trước khi nuôi nấng những bé ma pixel, bạn sẽ phải triệu hồi chúng thông qua một cách cổng. Bạn có thể mua được nó thông qua [Dapp chính thức của Aavegtochi](https://aavegotchi.com/buy-portal), hoặc thị trường bên ngoài ví dụ như [OpenSea](https://opensea.io/).
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
-Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá gần 100 GHST. Các thiết bị này cũng sẽ được công bố trong ["Haunts" (editions)](/haunt). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
+You can acquire portals in one of the following ways:
+
+* In an [Aauction](/aauction)
+* In a [Drop Ticket Raffle](/tickets)
+* At the [Baazaar](/baazaar)
+
+Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+
+Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Mở Portal
 
-Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal Summoning Ritual ~ (Nghi Lễ Triệu Hồi Qua Cánh Cổng) được triển khai. Cơ chế này giúp bạn có thể triệu hồi Aavegotchi cho mình.
+Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-Sau khi mua portal, bước kế tiếp là mở nó ra. Portal sẽ được mở ra trên [Matic Network](/glossary#polygon) khi người chơi ký vào một giao dịch. Sau khi giao dịch được kí, [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) sẽ được thực thi "phía sau cánh gà.". Sau khi hoàn thành, portal sẽ được chỉ định một số ngẫu nhiên để đảm bảo các chỉ số của Aavegotchi được ngẫu nhiên một cách công khai.
+After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
 
-Đây là một biểu đồ tóm tắt quá trình:
+Here's a handy flow chart that summarizes the process:
 
-<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Quá trình mở Portal trong Aavegotchi" />
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-Mỗi cánh cổng có chứa 10 Aavegotchi khác nhau để bạn chọn, kêu gọi nó từ Nether realm. Bạn sẽ cần chọn 1 trong số 10 bé ma để triệu hồi. Số còn lại, tiếc thay, sẽ tan biến mãi mãi.
+After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
-Những Aavegotchi này đều có những đặc điểm khác nhau được sinh ra một cách ngẫu nhiên. Khi chuyển đổi giữa các option, bạn có thể xem những đặc điểm này và [Base Rarity Score](/rarity-farming#base-rarity-score) thuộc về Aavegotchi của bạn. Đây là rarity score mà Aavegotchi có được lúc ban đầu, dựa trên những đặc điểm khởi đầu mà có sỡ hữu khi được triệu hồi. Rarity score này sau đó có thể được điều chỉnh thông qua một loạt các hoạt động, ví dụ như trang bị wearables cho Aavegotchi của bạn.
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
 
-Bạn có thể xem nhóm đặc điểm và tỷ lệ hiếm trong bản ở đây:
+You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
 
-Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
+More information on rarity farming can be found [here](/rarity-farming).
 
 
 ## Nhận Aavegotchi
 
-Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng [Spirit Force](/spirit-force) được yêu cầu vào trong Portal. Linh Lực có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
-Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
-**Để có thêm nhiều thông tin về Spirit Force, hãy xem qua [tại đây](/spirit-force).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
-Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
+Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
-Lượng tiền ký gửi thấp nhất được yêu cầu là 10 DAI, trong khi lớn nhất là 1000 DAI.
+The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
 
-Công thức sau dùng để suy ra lượng Spirit Force (collateral) cần có như sau:
+The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
 
 ```
 if (rarityScore < 300) return 10;
@@ -85,26 +93,26 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-Ví dụ, nếu Base Rarity Score thấp hơn, 300 thì bạn cần phải stake một lượng token có giá trị ít nhất 10 DAI để triệu hồi Gotchi.
+For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
 
-Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
+You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. Đầu tiên, bạn cần phải cho phép hợp đồng thông minh dùng aToken trong ví bạn. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
 ## Tương tác với các Gotchi
 
-Một khi bạn đã nhận được Gotchi, việc kế tiếp bạn cần làm là........*tèn ten*..........chơi với Aavegotchi của bạn!
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
-Hãy xem qua[Trang Thông Tin của Aavegotchi](/aavegotchi-profile) để biết cách làm nhé!
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
-Chuyển Aavegotchi cho một người chủ mới (khi bạn trao đổi nó) cũng có nghĩa là bạn phải chuyển luôn số tiền ký gửi mà bạn stake cho nó, cũng như bất kỳ món trang bị nào có trong túi đồ của Aavegotchi. Điều này xảy ra khi bạn trade Aavegotchi trên một thị trường trực tuyến ví dụ như OpenSea.
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
-Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong Aavegotchi, thì có hai cách:
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **Giảm lượng tài sản ký gửi** trong Aavegotchi (nhưng không được dưới mức stake tối thiểu).
 
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
-**Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
