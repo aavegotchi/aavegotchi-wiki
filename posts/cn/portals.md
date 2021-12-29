@@ -36,46 +36,54 @@ image: "portals/portal.gif"
 
 ## 购买一个传送门
 
-在你可以拥有你像素化的幽灵精灵之前，你需要通过传送门进行召唤。 您可以从 [官方的 Aavegotchi Dapp](https://aavegotchi.com/buy-portal)获取，也可以从 [OpenSea](https://opensea.io/) 等外部市场。
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
-如果您从 Aavegotchi Dapp购买，每个门户网站将花费大约100 GHST。 These devices will also be released in ["Haunts" (editions)](/haunt). 第一个版本将提供10000个传送门供大家召唤精灵。 在此之后，AavegotchiDAO将投票决定之后的召唤情况。 例如，由于DAO的决定和表决结果，门的价格和数量今后可能会发生变化。
+You can acquire portals in one of the following ways:
+
+* In an [Aauction](/aauction)
+* In a [Drop Ticket Raffle](/tickets)
+* At the [Baazaar](/baazaar)
+
+Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+
+Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## 打开您的传送门
 
-好极了！ 您即将打开您的传送门。 这个地方正是~ 传送门召唤仪式的场所。 这是你能够召集你的Aavegotchi的机制。
+Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-在购买传送门后，下一步是打开传送门。 Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. 当函数执行时，门户网站将被指定一个随机号码，确保Aavegotchi的特性将被证明是随机的。
+After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
 
-下面是一个简易流程图，它概括了流程：
+Here's a handy flow chart that summarizes the process:
 
 <img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-打开门户网站后，您将会看到10种不同的 Aavegotchis 供您选择从下界召唤。 你必须从其中的10个中选择一个召唤。 不幸的是，其余的将会消失。
+After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
-这些Aavegotchis都有不同的随机生成的特性。 在您切换选项时，您可以查看这些特性以及您的 Aavegotchi 的 [基础稀有分](/rarity-farming#base-rarity-score)。 这个得分最初根据您的Aavegotchi传唤时的最初特征给它是罕见的。 这种稀缺的分数以后可以通过一系列活动进行修改，如为你的Aavegotchi配备穿戴衣服。
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
 
-您可以在此查看此表中的特性范围和稀有概率：
+You can check out the trait range and rarity probabilities in this table here:
 
-表格_
+table_PortalTraitTable
 
 
-更多关于稀有耕作的信息可以在这里找到 [](/rarity-farming)。
+More information on rarity farming can be found [here](/rarity-farming).
 
 
 ## 获取Aavegotchi
 
 To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
-除了由稀缺性和市场力量决定的货币价值外，每个Aavegotchi还具有内在价值。 你所质押的atokens代表了它的内在价值。
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
 **For more information on Spirit Force, see [here](/spirit-force).**
 
-一般来说，精神力(抵押物)的最低数量取决于你要召唤的aavegotchi的基础稀有度分数。 得分越高，所需的抵押物就越多。
+Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
-所需担保品的最低金额是10 DAI 值，而最高金额是1 000 DAI 值的担保品。
+The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
 
-用于确定所需精神力（担保品）数量的公式如下：
+The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
 
 ```
 如果(rarityScore < 300) 返回 10;
@@ -85,11 +93,11 @@ To claim an Aavegotchi from the portal, you need to stake the required amount of
         其他 (rarityScore >= 581) 返回 1000；
 ```
 
-例如，如果基础稀有分数小于300。 你需要至少10个DAI值的担保品来召唤Gotchi。
+For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
 
-稍后您可以通过 Aavegotchi Dapp UI 增加或减少Aavegotchi 的 Spirit Force (staked aToken 金额)。
+You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-要认领你的 Gotchi, 你需要执行2个交易。 首先，您需要批准智能合同以便在您的钱包中使用 aToken 。 随后的交易允许您认领Aavegotchi。
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
 ## Interacting with your Aavegotchi
 
