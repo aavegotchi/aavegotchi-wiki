@@ -66,30 +66,30 @@ table_cryptocurrencies
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Antes de poder usar Aave Protocol, querrás tener algunos activos criptográficos (tokens). La lista de activos de criptomonedas disponibles se muestra en las secciones de <a href=#stablecoins>Stablecoins</a> y <a href=#cryptocurrencies>Cryptocoins</a> de arriba.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Si no tienes criptomonedas pero quieres unirte a la diversión, necesitarás convertir tu moneda fiduciaria (dinero normal, como dólares, euros, etc.). en un recurso criptográfico (como uno de los anteriores).
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+¡Suerte para ti, Aave recientemente introdujo un "fiat onramp" donde puedes comprar activos criptográficos directamente desde la aplicación del Protocolo Aave! Ahora puede utilizar Transak o Ramp Instant para comprar el activo de su elección directamente con una tarjeta de crédito o débito o transferencia bancaria en tan solo unos minutos (ver abajo).
 
 <img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Una vez que hayas conectado tu cartera a la plataforma, puedes depositar un activo en Aave Protocol. Al hacer clic en “depósito”, la interfaz mostrará lo que tienes disponible en cartera para depositar. A continuación, selecciona el activo que deseas depositar, elije cuánto depositar y, a continuación, voilá, ¡lo has hecho! *Nota: habrá una transacción de "aprobación" antes de que se realice la transacción de depósito real. Esto es para conceder permiso al contrato de depósito para utilizar ese activo particular que estás depositando.*
 
 <img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Tan pronto como la transacción de su depósito se aplique, te beneficiarás de la tasa de interés del depósito. La versión aToken del activo ahora puede verse en tu cartera.
 
 ## Convirtiendo aTokens en maTokens
 
-Got your aTokens? Good!
+¿Tienes tus aTokens? ¡Bien!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+¡Vamos a la página de [maTokens](/matokens) para el paso 2!
 
 ## Diferencias entre maTokens y amTokens
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+Tanto maTokens como amTokens acumulan interés. Sin embargo, *la forma en la que* adjuntan el interés es diferente:
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maTokens aumentan en **valor** a lo largo del tiempo. Esto se aplica a Haunt 1 Aavegotchis que utilizan maTokens. El valor de los maTokens está aumentando, pero como la cantidad no cambia, no es posible retirar maTokens de los Gotchis a menos que sacrifiques tu Gotchi para conseguir la garantía subyacente.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amTokens aumentan en **cantidad** con el tiempo. Esto se aplica a Aavegotchis de Haunt 2 y en adelante. El interés acumulado se refleja como cantidad. Por lo tanto, es posible retirar amTokens una vez que se haya generado suficiente interés.

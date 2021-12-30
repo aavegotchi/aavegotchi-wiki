@@ -36,9 +36,17 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 ## Buying a Portal
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/).
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+You can acquire portals in one of the following ways:
+
+* In an [Aauction](/aauction)
+* In a [Drop Ticket Raffle](/tickets)
+* At the [Baazaar](/baazaar)
+
+Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+
+Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Opening your Portal

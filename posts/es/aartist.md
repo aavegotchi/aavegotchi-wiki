@@ -5,14 +5,14 @@ title: 'Artistas Aavegotchi'
 description: 'Conoce a nuestros Aartistas Aavegotchi aqui!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+¿Sabes que es bárbaro? Nuestros aartistas de la comunidad! ¡Conocelos (y a sus creaciones) aquí!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#aartists>Aartists</a></li>
+<li><a href=#aartists>Artistas</a></li>
 <li><a href=#cawito>Cawito</a></li>
 <li><a href=#esveebee>Esveebee</a></li>
 <li><a href=#ka-wai-leong>Ka Wai Leong</a></li>
@@ -25,54 +25,54 @@ You know what's groovy? Our community aartists! Get to know them (and their crea
 
 </div>
 
-## Aartists
+## Artistas
 
 table_aartist
 
 ## Cawito
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_cawito
 
 ## Esveebee
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_esveebee
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_kawaileong
 
 ## Qurka
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_qurka
 
 ## Rod
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_rod
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_shadowlordobeeus
 
 ## SnottySnake
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_snottysnake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+Ha diseñado las siguientes prendas:
 
 table_vanilladelphia
