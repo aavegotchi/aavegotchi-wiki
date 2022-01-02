@@ -85,31 +85,34 @@ How do I claim my prize?</a></p>
 <p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Phải làm sao nếu tên #Gotchigang mà mình muốn đặt đã bị người khác lấy mất?</a></p>
 <p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->Mình đã có một group với chủ đề Aavegotchi rồi. Mình có nên ứng tuyển làm Aambassador hay không?</a></p>
 <p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->Mình có một câu hỏi chưa được giải đáp. Mình nên hỏi ai nhỉ?</a></p>
-<li><a href=#bridging-faq>Câu hỏi về việc chuyển mạng</a></li>
-<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Mình vẫn có thể pet Aavegotchi khi chúng được chuyển sang Ethereum phải không?</a></p>
-<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Aavegotchi của mình vẫn có thể nhận phần thưởng Rarity Farming khi chúng ở trên Ethereum phải không?</a></p>
-<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Gotchi của mình có thể được chuyển sang bên kia khi đang mặc trang phục hay không?</a></p>
-<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Mình có thể mặc hoặc tháo trang bị khi Gotchi đang ở trên Ethereum không?</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Mình vẫn có thể dùng Aavegotchi để chơi trong Gotchiverse sắp tới khi Gotchi đang ở trên Ethereum chứ?</a></p>
-<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Liệu những món trang phục, portal, hoặc vật phẩm tiêu thụ có thể được chuyển sang Ethereum và đăng bán trên Rarible hay không?</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->Nếu mình mua Aavegotchi trên Ethereum thông qua Rarible, làm sao mình có thể chuyển nó về lại Polygon?</a></p>
-<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Liệu mình có thể bán Aavegotchi trên Baazaar khi chuyển nó sang Ethereum hay không?</a></p>
-<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Mình có thể giao dịch Aavegotchi trên Opensea khi chúng đang ở trên Ethereum hay không?</a></p>
-<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
-<p><a href=#is-aavegotchi-on-chain->Aavegotchi là game chơi ngay trên blockchain đúng không?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi sẽ chạy trên Layer 2 chứ?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Mình có cần di chuyển token Aave hay không?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->Mình có thể chuyển sang Matic bằng cách nào?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Mình có ví ledger / trezor, mình cần phải làm gì</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Tại sao MetaMask lại không để mình thêm ký hiệu token?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Mình phải làm sao để tìm được Token ID của Gotchi?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?</a></p>
+<li><a href=#guild-faq>Guild FAQ</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
+<li><a href=#bridging-faq>Bridging FAQ</a></li>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
+<li><a href=#technical-faq>Technical FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
 </ol>
 
 </div>
@@ -423,129 +426,139 @@ Tất nhiên rồi! Một khi bọn mình có thể theo dõi sự phát triển
 
 Tất cả mọi câu hỏi liên quan, bạn có thể hỏi jason@aavegotchi.com, (hoặc buzz.lightyear tại Discord).
 
-## Câu hỏi về việc chuyển mạng
+## Guild FAQ
 
-### Mình vẫn có thể pet Aavegotchi khi chúng được chuyển sang Ethereum phải không?
+### What are the differences between Aambassador groups and Guilds?
 
-**ĐƯỢC CHỨ**, các lập trình viên tại Gotchi World và Gotchi Care (dịch vụ pet Gotchi) mang đến dịch vụ auto pet cực kỳ xịn xò cho những Aavegotchi được chuyển mạng sang, để đảm bảo bạn sẽ kiếm được điểm kinship khi Gotchi đang ở trên mạng Ethereum! Trong khi đang đi nghỉ dưỡng trên Ethereum, Aavegotchi của bạn sẽ tiếp tục được tăng điểm kinship thêm 2 điểm mỗi ngày, những chắc chắn nó sẽ thấy vui khi chủ nhân của mình có thể cho phép trở về nhà một hai lần! Nơi ấy lạaanh lẽo lắm…
+Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-### Aavegotchi của mình vẫn có thể nhận phần thưởng Rarity Farming khi chúng ở trên Ethereum phải không?
+### How do I submit my Guild to the Guild wiki page?
 
-**YES**, Gotchi của bạn vẫn sẽ được tham dự Rarity Farming ở tất cả hạng mục dù nó đã được chuyển mạng. Tất cả phần thưởng sẽ được gửi vào ví của Gotchi.
+DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
-### Gotchi của mình có thể được chuyển sang bên kia khi đang mặc trang phục hay không?
+## Bridging FAQ
 
-**CÓ**, bạn có thể mặc bao nhiêu trang phục cho gotchi tuỳ thích trước khi bạn chuyển mạng, NHƯNG hãy nhớ là Aavegotchi sẽ không thể thay đồ khi đang ở trên mạng Ethereum.
+### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
-### Mình có thể mặc hoặc tháo trang bị khi Gotchi đang ở trên Ethereum không?
+**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
-**KHÔNG**, Gotchi của bạn về cơ bản sẽ bị đóng băng dựa trên snapshot tại thời điểm nó được chuyển mạng. Tuy nhiên, bạn có thể chuyển nó về Polygon bất kỳ lúc nào mà bạn muốn (phí chuyển bình thường sẽ được tính).
+### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
 
-### Mình vẫn có thể dùng Aavegotchi để chơi trong Gotchiverse sắp tới khi Gotchi đang ở trên Ethereum chứ?
+**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
 
-**KHÔNG**, do Gotchiverse vận hành trên Polygon, bất kỳ Gotchi nào trên Ethereum Mainnet cũng sẽ không thể tham gia vào Gotchiverse. Bạn có thể chơi nếu bạn chuyển Gotchi về lại Polygon!
+### Can my Gotchi be bridged over with wearables equipped?
 
-### Liệu những món trang phục, portal, hoặc vật phẩm tiêu thụ có thể được chuyển sang Ethereum và đăng bán trên Rarible hay không?
+**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
 
-**ĐƯỢC** nhưng **CHƯA ĐƯỢC**. Portal có thể chuyển được liền do chuyến cũng là token ERC-721. Trang phục và vật phẩm tiêu thụ là token ERC-1155 và chúng sẽ có chiếc cầu riêng được mở trong vài tuần tới.
+### Can my Gotchi equip or unequip wearables while on Ethereum?
 
-### Nếu mình mua Aavegotchi trên Ethereum thông qua Rarible, làm sao mình có thể chuyển nó về lại Polygon?
+**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
 
-Chỉ cần truy cập vào[aavegotchi.com/bridge](https://aavegotchi.com/bridge). Bạn sẽ có thể chuyển bất kỳ lúc nào bạn muốn!
+### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
 
-### Liệu mình có thể bán Aavegotchi trên Baazaar khi chuyển nó sang Ethereum hay không?
-**KHÔNG**, bạn chỉ có thể giao dịch trên chợ Ethereum như Rarible, một khi Aavegotchi được chuyển mạng.
+**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
 
-### Mình có thể giao dịch Aavegotchi trên Opensea khi chúng đang ở trên Ethereum hay không?
-**CÓ**, bạn có thể trade Gotchi trên bất kỳ chợ NFT Ethereum nào, nhưng bạn sẽ chỉ nhận được RARI khi bạn trade trên Rarible.
+### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
 
-## Những câu hỏi về Kỹ thuật
+**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### Aavegotchi là game chơi ngay trên blockchain đúng không?
+### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
-Tất cả những yếu tố trong game Aavegotchi được [ lưu trữ trên blockchain của Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Bạn có thể đọc thêm về thiết kế độc đáo sử dụng Diamond Standard[ tại đây](/glossary#diamond-standard).
+Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
-### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
+### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
-<a href="https://metamask.io/">Metamask</a> hiện tại là lựa chọn tốt nhất đế truy cập vào Aavegotchi, dựa theo những trải nghiệm từ cộng đồng. Metamask và [Arkane wallet](https://arkane.network/apps) - sẽ sớm được tích hợp với Aavegotchi - cũng được hỗ trợ bởi token ERC1155, nghĩa là ngoài token GHST thì bạn sẽ có thể thấy tất cả những tài sản (ví dụ như phụ kiện) trong ví của mình.
+### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-Với các thiết bị Android, bạn có thể dùng trình duyệt của ứng dụng MetaMask.
+## Technical FAQ
 
-### Aavegotchi sẽ chạy trên Layer 2 chứ?
+### Is Aavegotchi on-chain?
 
-Đúng vậy! Aavegotchi dùng [Matic](https://matic.network/) làm giải pháp Layer 2. Team phát triển sẽ chọn Matic bởi họ có một team mạnh, đã đạt được nhiều thành tựu trong việc phân tán hoá, và có một hiệu ứng mạng lưới mạnh mẽ với những nền tảng khác như Opensea.
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Mình có cần di chuyển token Aave hay không?
+### Which wallet should I use with Aavegotchi?
 
-Aavegotchi sẽ hoạt động tốt với aToken từ [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - vây nên các bạn hãy nhớ dịch chuyển bất kỳ token nào bạn có từ version 1 sang version 2 trước khi nhận Aavegotchi nhé. Theo lời Stani, chúng ta [ sẽ sớm có một công cụ hỗ trợ việc dịch chuyển](https://twitter.com/StaniKulechov/status/1334546997827809285) (trước khi game được triển khai) :)
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-### Mình có thể chuyển sang Matic bằng cách nào?
-Xem thêm tại [Matic Migration Guide](/polygon).
+For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Mình có ví ledger / trezor, mình cần phải làm gì?
-Bạn vẫn có thể vào Matic Network bằng Trezor One. Với những ví khác thì hiện tại không được. Bạn có thể tạo ví MetaMask mới và nhắn cho @Jesse | gldnXross#6482 để được hỗ trợ.
+### Will Aavegotchi run on Layer 2?
 
-### Mình tìm không thấy token GHST trên Matic trong ví MetaMask, tại sao vậy?
+Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-Hãy đảm bảo rằng bạn đã hoàn thành 2 giao dịch: (1) giao dịch approve, và (2) giao dịch chuyển từ Mainnet sang Matic. Địa chỉ token GHST trên Matic là 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+### Do I need to migrate my Aave tokens?
 
-### Sao mình không tìm thấy token LP của mình trên QuickSwap nhỉ?
+Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-Sau khi đã stake token LP trên QuickSwap, bạn sẽ không nhìn thấy chúng trong ví. Hãy unstake nếu bạn muốn thấy chúng hiện lên trong ví của mình.
+### How do I migrate to Polygon?
+Check out our [Polygon Migration Guide](/polygon).
 
-### Mình có thể trực tiếp chuyển token từ Matic lên các sàn giao dịch như Binance, Kucoin,... hay không?
-**Không phải đâu!** Bạn không nên trực tiếp chuyển token từ Polygon sang những Sàn Giao dịch Tập trung (như Binance, Coinbase,v.v.). Bạn cần phải chuyển lại về Ethereum Mainnet trước khi làm như vậy.
+### I have a ledger / trezor, what do I do?
+You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### Tại sao MetaMask lại không để mình thêm ký hiệu token?
+### Why can't I see my Polygon GHST on Metamask?
 
-MetaMask chỉ cho phép ký hiệu của token có độ dài tối đa là 11 ký tự. Bạn có thể đổi ký hiệu lại ngắn hơn một chút là được. Thay đổi ký hiệu sẽ không ảnh hưởng đến token của bạn, nó chỉ ảnh hưởng đến dữ liệu hiển thị trên ví MetaMask.
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-Một số người dùng đã gặp phải vấn đề này bởi token stkGHST-QUICK có độ dài nhiều hơn 11 ký tự.
+### Why can't I see my LP Tokens on QuickSwap?
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Giới hạn ký tự của token trên MetaMask" />
+After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Mình đã rút GHST từ Polygon ra những sao lâu quá vẫn chưa nhận được
+### Can I send Polygon-side tokens to Centralized Exchanges directly?
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
-Mình đã rút token GHST (hoặc bất kỳ tài sản nào khác có cùng vấn đề) từ Polygon về lại Ethereum Mainnet bằng [Aavegotchi Bridge](https://aavegotchi.com/bridge). Đã vài tiếng trôi qua mà mình vẫn chưa nhận được tài sản trên Ethereum Mainnet nữa. Giờ mình phải làm sao đây?
+### Why is Metamask rejecting my token symbol?
 
-Đầu tiên các bạn hãy vào [Polygon Block Explorer](https://explorer.matic.network/) và nhập ID giao dịch của mình vào. Hãy lấp Block Number của giao dịch.
+Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
-Sau đó, thay thế phần [blockNumber] trong đường link đưới đây bằng số Block Number của bạn rồi truy cập vào đó:
+Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+
+### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+
+First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+
+Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-Đường link để cho cho bạn biết trạng thái của giao dịch rút tiền mà bạn đang chờ.
+That URL will indicate the status of your withdrawal transaction.
 
-Nếu giao dịch của các bạn chưa được hoàn tất trên Polygon thì hãy kiên nhẫn chờ đợi nhé. Nhiều bạn phải đợi đến 6 tiếng tiền mới về tài khoản.
+If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
 
-Nếu giao dịch của bạn đã được hoàn tất trên Polygon những tài sản vẫn chưa hiện ra trên giao diện người dùng của Aavegotchi Bridge thì hãy liên hệ Coderdan (hoặc bất kỳ nhân viên tập sự aapprentices nào) để được hỗ trợ nhé.
+If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Tại sao tôi lại chơi game Aavegotchi trên Polygon lại bị lag?
+### Why am I experiencing lag on Polygon?
 
-Có thể bạn sẽ phải kết nối với một RPC khác của Polygon: https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-Để xem bài hướng dẫn chi tiết về cách sở hữu aToken, mời bạn xem qua trang [Hướng Dẫn Về Polygon](/polygon).
+For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### Mình phải làm sao để tìm được Token ID của Gotchi?
+### Where do I find my Gotchi Token ID?
 
-Để lấy được Token ID của Aavegotchi (mỗi Aavegotchi có một ID riêng), hãy vào [trang My Aavegotchi](https://aavegotchi.com/aavegotchis). Nhấp vào một trong số những bé Gotchi và tìm những số ở cuối của URL. Nó sẽ trông như phía bên dưới:
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Một khi bạn đã có được Gotchi ID, bạn có thể liên kết Gotchi với tên người dùng của Discord bằng cách dùng dòng lên sau:
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Hãy nhớ chú ý rằng nếu bạn có từ 1 Gotchi trở lên thì bạn sẽ phải lập lại quá trình này nhiều lần.
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Mình có thể xem địa chỉ Gotchi của mình ở đâu nhỉ?
+### Where do I find my Gotchi Address?
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào nút Pocket và Gotchi Pocket sẽ xuất hiện. Sẽ có một nút "View.". Nhấp vào đó và bạn sẽ được dẫn đến một Địa Chỉ Hợp Đồng Thông Minh riêng của Gotchi. Đâu là một hợp đồng lưu trữ mà chủ nhân của Gotchi có thể tương tác với nó.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
-Hãy lưu ý rằng mỗi Gotchi sẽ có riêng cho mình một Địa Chỉ Hợp Đồng Thông Minh.
+Do note that each Gotchi will have its own Smart Contract Address.
 
-<p style="font-style:italic; font-size:13px;">... còn tiếp!</p>
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
