@@ -43,6 +43,7 @@ Der Raum wird still.
 <ol>
 <li><a href=#aauction-house>Aauktionshaus</a></li>
 <li><a href=#aauction-mechanisms>Aauktionsmechanismus</a></li>
+<li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
 </div>
@@ -69,3 +70,13 @@ Du gibst ein Gebot ab und wenn dich jemand überbietet, bekommst du dein Gebot z
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
 Wenn ein neues Gebot platziert wird, berechnet eine Formel, wie viel Geld der Bieter als Anreiz verdient, wenn er überboten wird. Dies ist anpassbar, je nachdem wie viel du den Bietern einbringen willst. Jeder Bieter, der überboten wird, verdient einen Anreiz und der Höchstbietende am Ende der Auktion gewinnt, wobei der Verkäufer den Rest des Topfes erhält.
+
+## Past Aauctions
+
+* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+
+* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+
+* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+
+* 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
