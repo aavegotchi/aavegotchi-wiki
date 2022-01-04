@@ -1,11 +1,11 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+title: 'Aavegotchiアーティスト'
+description: 'ここでAavegotchiアーティストに会いましょう!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+何がカッコいいかしら？ Our community aartists! Get to know them (and their creations) here!
 
 <div class="contentsBox">
 
