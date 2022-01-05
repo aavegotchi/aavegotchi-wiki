@@ -43,7 +43,9 @@ Continue reading to learn how to stake GHST.
 首先，你需要拿到一些GHST令牌。 我们的 [GHST 令牌页面](/posts/ghst) 涵盖了您可以获得一些东西的各种方式。
 
 ## 如何质押
-首先，你需要一些GHST代币来质押。 在Polygon（前Matic网络）上进行押注。
+Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! 在Polygon（前Matic网络）上进行押注。
+
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
 There are four ways to stake:
 
@@ -57,7 +59,7 @@ There are four ways to stake:
 
 **Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
-*注意：预售的GHST代币在解锁前不能进行质押。*
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
 ### 直接质押GHST代币
 
