@@ -7,7 +7,7 @@ contributors: ["unintelligent-nerd"]
 ---
 
 ## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
-* Why has our shippooooorrr been up to in December 2021?
+* What has our shippooooorrr been up to in December 2021?
 * A lot!
 * Check out the Medium post for more
 <p></p>
