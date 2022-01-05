@@ -41,7 +41,9 @@ Continue reading to learn how to stake GHST.
 First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
 
 ## How to Stake
-Once you have some GHST tokens, it is time to stake them! Staking takes place on Polygon (formerly Matic Network).
+Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! Staking takes place on Polygon (formerly Matic Network).
+
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI">
 
 There are four ways to stake:
 
