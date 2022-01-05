@@ -43,7 +43,9 @@ Continue reading to learn how to stake GHST.
 Чтобы заняться стейкингом, нужно иметь в наличии токены GHST. Как их получить, мы подробно описали на странице о токенах [GHST](/posts/ghst).
 
 ## Процесс стейкинга
-Если вы купили токены, можно заняться стейкингом. Стейкинг осуществляется в Polygon (предыдущее название — Matic Network).
+Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! Стейкинг осуществляется в Polygon (предыдущее название — Matic Network).
+
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
 There are four ways to stake:
 
@@ -55,9 +57,9 @@ There are four ways to stake:
 
 4. GHST-ETH
 
-**Важно: стейкинг в основной сети больше не поддерживается! Пожалуйста, разморозьте и поставьте заново на Polygon.**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
-*Внимание. Токены GHST, приобретенные во время Pre-sale, нельзя заморозить до тех пор, пока их не разблокируют.*
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
 ### Прямой стейкинг токенов
 
