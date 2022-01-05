@@ -7,6 +7,12 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
+* What has our shippooooorrr been up to in December 2021?
+* A lot!
+* Check out the Medium post for more
+<p></p>
+
 ## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
 * 2 new Core Props and 6 new SigProps to vote for!
 * Vote now and get a deluge of XP!
