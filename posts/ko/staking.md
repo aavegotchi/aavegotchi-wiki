@@ -43,7 +43,9 @@ Continue reading to learn how to stake GHST.
 스테이킹을 하기 전엔 당연하게도 여러분의 손에 스테이킹할 GHST가 쥐어져 있어야 합니다. [GHST 토큰 페이지](/posts/ghst)에 관련 내용이 안내되어 있으니 선호하는 방식을 택하시길 바랍니다 :)
 
 ## 스테이킹 방법
-GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
+Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
+
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
 There are four ways to stake:
 
@@ -55,9 +57,9 @@ There are four ways to stake:
 
 4. GHST-ETH
 
-**중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! 스테이킹을 해제하고 폴리곤에서 다시 스테이킹 해주세요.**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
-*참고 : 특별 판매(Pre-sale)에서의 GHST 토큰들은 현재 락업 상태이기 때문에 락업이 풀리기 전까지 스테이킹이 불가능합니다.*
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
 ### GHST 토큰을 직접 스테이킹하기
 
