@@ -43,6 +43,7 @@ Căn phòng trở nên yên lặng.
 <ol>
 <li><a href=#aauction-house>Nhà Đấu Giá</a></li>
 <li><a href=#aauction-mechanisms>Cơ Chế Đấu Giá</a></li>
+<li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
 </div>
@@ -69,3 +70,13 @@ Bạn đặt lệnh, và nếu ai đó vượt mặt bạn, bạn sẽ lấy l�
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Đấu Giá Aavegotchi GBM" />
 
 Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số tiền mà mà người đặt lệnh kiếm được khi họ bị vượt mặt. Những con số này có thể được tuỳ chỉnh dựa trên khoản tiền mà bạn muốn người đặt giá có thể kiếm được. Bất kỳ ai đặt lệnh mà bị vượt mặt đều sẽ kiếm được phần thưởng, và người đặt giá cao nhất ở cuối buổi đấu giá sẽ nhận được phần thưởng, số tiền còn lại sẽ được trả cho người bán.
+
+## Past Aauctions
+
+* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+
+* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+
+* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+
+* 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)

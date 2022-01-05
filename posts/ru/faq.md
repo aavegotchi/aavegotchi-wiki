@@ -85,6 +85,9 @@ contributors:
 <p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
 <p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
 <p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
+<li><a href=#guild-faq>Guild FAQ</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
 <li><a href=#bridging-faq>Bridging FAQ</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
@@ -423,6 +426,16 @@ Absolutely! As long as we can easily track the growth of your network, you are e
 ### I have a question that isn’t answered here. Where should I ask it?
 
 All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
+
+## Guild FAQ
+
+### What are the differences between Aambassador groups and Guilds?
+
+Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+
+### How do I submit my Guild to the Guild wiki page?
+
+DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
 ## Bridging FAQ
 

@@ -1,18 +1,18 @@
 ---
-author: Unintelligent Nerd
+author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+title: 'Aavegotchiアーティスト'
+description: 'ここでAavegotchiアーティストに会いましょう!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+何がカッコいいかしら？ 私たちのコミュニティアーストです！ ここで彼らの作品を知ることが出来ます!
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aartists>Aartists</a></li>
+<li><a href=#aartists>アアーティスト</a></li>
 <li><a href=#cawito>Cawito</a></li>
 <li><a href=#esveebee>Esveebee</a></li>
 <li><a href=#ka-wai-leong>Ka Wai Leong</a></li>
@@ -25,54 +25,54 @@ You know what's groovy? Our community aartists! Get to know them (and their crea
 
 </div>
 
-## Aartists
+## アアーティスト
 
 table_aartist
 
 ## Cawito
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_cawito
 
 ## Esveebee
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_esveebee
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_kawaileong
 
 ## Qurka
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_qurka
 
 ## Rod
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_rod
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_shadowlordobeeus
 
 ## SnottySnake
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_snottysnake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+設計したアイテムは:
 
 table_vanilladelphia

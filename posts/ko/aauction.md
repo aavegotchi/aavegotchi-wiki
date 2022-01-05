@@ -43,6 +43,7 @@ The room went quiet.
 <ol>
 <li><a href=#aauction-house>Aauction House</a></li>
 <li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
+<li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
 </div>
@@ -69,3 +70,13 @@ You place a bid, and if someone outbids you, you get your bid back, plus a share
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
 When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+
+## Past Aauctions
+
+* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+
+* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+
+* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+
+* 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
