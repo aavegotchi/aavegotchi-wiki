@@ -6,6 +6,7 @@ description: 'Смотри, кто создает игру Аавеготчи'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
+  - "unintelligent-nerd"
 ---
 
 
@@ -21,25 +22,32 @@ contributors:
 **Содержание**
 
 <ol>
-<li><a href=#coder-dan>Кодер Дэн (Coder Dan).</a></li>
-<li><a href=#jesse>Джесси (Jesse).</a></li>
-<li><a href=#xibot>Xibot.</a></li>
-<li><a href=#nick-mudge>Ник Мадж (Nick Mudge).</a></li>
-<li><a href=#jc>JC.</a></li>
-<li><a href=#candoizo>Candoizo.</a></li>
-<li><a href=#coyote>Койот (Coyote).</a></li>
-<li><a href=#les>Les</a></li>
-<li><a href=#gravy>Gravy</a></li>
-<li><a href=#nyankong>NyanKong</a></li>
-<li><a href=#shohan>Shohan</a></li>
-<li><a href=#designerdave>DesignerDave</a></li>
-<li><a href=#webb>Webb</a></li>
+<li><a href=#summoners>Summoners</a></li>
+<p><a href=#coder-dan>Coder Dan</a></p>
+<p><a href=#jesse>Jesse</a></p>
+<p><a href=#xibot>Xibot</a></p>
+<p><a href=#nick-mudge>Nick Mudge</a></p>
+<li><a href=#aadvisors>Aadvisors</a></li>
+<p><a href=#stani>Stani</a></p>
+<p><a href=#les>Les</a></p>
+<li><a href=#team>Команда Аавеготчи</a></li>
+<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
+<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
+<p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
+<p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
+<p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
+<p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
+<p><a href=#jc---business-development>JC - Business Development</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
 
-## Кодер Дэн (Coder Dan)
+## Summoners
+
+### Coder Dan
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/coderdan.jpg" alt = "Дэниел Метью">
@@ -48,7 +56,7 @@ contributors:
 
 Дэн, он же Coder Dan, — один из основных разработчиков игры Аавеготчи. Он создал DeFi-приложение Yield Hero, а в Аавеготчи выступает в роли разработчика полного стека (full stack developer). Его вклад в проект очень важен. Yield Hero помогает перенаправлять AAVE на любой адрес по желанию. Дэн также принял участие в разработке стандарта ERC-721 на NFT-платформе Bullionix (стандарт ERC20). Проживает Дэн в китайской провинции Фуцзянь, отлично знает и без труда разговаривает на китайском. Благодаря ему проект Аавеготчи привлек внимание в соцсетях. В Твиттере у проекта быстро набралось более 10 тыс подписчиков, а также 6 тысяч активных пользователей в Дискорде. Он также продвигает игру в Китае, благодаря чему официальные аккаунты Аавеготчи в Weibo, Bilibili и WeChat собрали свыше 1,5 млн фолловеров.
 
-## Джесси (Jesse)
+### Jesse
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
@@ -58,7 +66,7 @@ contributors:
 
 Джесси, более известный под ником GldnXross, является основателем, занимающимся продвижением проекта. До Аавеготчи он руководил созданием популярных NFT-платформ, среди которых проект по минтингу токенов под названием Mintable, работающий на Ethereum и Zilliqa. Он также является создателем вышеупомянутой концепции Value-Staked NFTs и создателем Bullionix.io, который первым предложил 3D цифровые коллекционные предметы высокого разрешения, обеспеченные стейблкоинами. До блокчейн-карьеры Джесси руководил продвижением ZB Group на международном рынке, а ранее был частью китайского офиса Lenovo Mobile Unit, работал в роли спеца по усовершенствованию продуктов и проведению слияния с компанией Моторола.
 
-## Xibot
+### Xibot
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
@@ -67,7 +75,7 @@ contributors:
 
 Ксавье Итурральде, именующий себя xibot, является на данный момент опытнейшим криптохудожником и специалистом в сфере криптоискусства. Его пиксельные арт-объекты отлично продавались на OpenSea и Rarible. А инновационный токен PIXEL стал одним из популярных социальных токенов, отлично прижился и принес дополнительную известность. Многие любители искусства Xibot стали первыми ироками Аавеготчи. Это еще один повод для фомо в звездной команде игры.
 
-## Ник Мадж
+### Nick Mudge
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Ник Мадж">
@@ -76,36 +84,18 @@ contributors:
 
 Ник Мадж известен в качестве опытного и технически подкованного разработчика Ethereum. Им был разработан стандарт ERC-998, без которого бы не была возможна работа игры. Данный стандарт является важнейшим аспектом игрового процесса в Аавеготчи, позволяя родительским NFT использовать дочерние (Готчи + экипировка). До игрового проекта Мадж руководил разработкой Diamond Standard в Ethereum. Данный стандарт предназначен для DAO и функционирует в области обновляемых контрактов.
 
-## JC
+## Aadvisors
+
+### Stani
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
+<img class="leftImage" src="/team/stani-kulechov.png" alt = "Stani Kulechov">
+<p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
 </div>
 
-Jc является энтузиастом блокчейн-технологии, стратегом по бизнес-развитию, имеет огромный опыт общения и взаимодействия с самыми яркими представителями криптосферы. Он — отличный командный игрок, способствующий построению стратегических партнерств, развитию каналов продаж и аккаунтов в социальных медиа. Свято верит в блокчейн-технологии и обладает навыками вирусного маркетинга, что позволяет Аавеготчи наращивать темпы. Одним из его увлечений является промоутерство новых компаний и способствование их развитию. Его энтузиазм в отношении метавселенной Готчи основан на вере в великую силу блокчейн-технологий.
+Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
 
-## Candoizo
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
-<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
-</div>
-
-Candoizo является успешным разработчиком программного обеспечения, благодаря которому Аавеготчи стал удобным, интересным и функциональным проектом. Способствует построению сообщества, благодаря наличию большого опыта работы и геймерства.
-
-По легенде, он вырос в глуши в Канаде, и единственной его страстью была и остается гейм-индустрия. В прошлом занимался развитием таких проектов, как Hauntgg, CoinVanity. Передал навыки и стал вдохновителем всей команды  Pixelcraft.
-
-## Койот (Coyote)
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Койот (Coyote)">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Койот (Coyote)</a></p>
-</div>
-
-Калеб с оригинальным ником Coyote, полученным им в качестве второго имени от родителей, присоединился к проекту в начале 2021 года. Он начал свой путь в стартапах в качестве UI/UX дизайнера, а затем решил перейти на фронтенд-разработку. В процессе работы над приложениями для Аавеготчи он обнаружил ошибку в блокчейне, которая была успешно устранена. Сейчас он хочет передать свои знания следующему поколению веб-инженеров!
-
-## Les
+### Les
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/les.jpg" alt = "Les">
@@ -116,16 +106,9 @@ Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music pro
 
 In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
 
-## Gravy
+## Команда Аавеготчи
 
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
-</div>
-
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
-
-## NyanKong
+### NyanKong - Game Director
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
@@ -134,16 +117,25 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
-## Shohan
+### Gravy - Marketing Director
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
+<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
-## DesignerDave
+### Moon - Head of Paartnerships
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/moon.png" alt = "Moon">
+<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
+</div>
+
+Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+
+### DesignerDave - Game Design
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
@@ -152,7 +144,45 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 
 “DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
 
-## Webb
+### Shohan - Gotchiverse Frontend
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
+</div>
+
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+
+### Coyote - Dev evangelist / UI
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
+</div>
+
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+
+### Candoizo - Frontend
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
+<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
+</div>
+
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+
+### JC - Business Development
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
+</div>
+
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
@@ -170,7 +200,7 @@ Things Webb loves:
 
 ## Origins
 
-### СБОРНАЯ КОМАНДА МЕЧТЫ
+### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
 The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
