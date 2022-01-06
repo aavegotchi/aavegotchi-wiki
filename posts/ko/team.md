@@ -30,6 +30,7 @@ contributors:
 <li><a href=#aadvisors>Aadvisors</a></li>
 <p><a href=#stani>Stani</a></p>
 <p><a href=#les>Les</a></p>
+<p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
@@ -105,6 +106,15 @@ Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensi
 Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
 
 In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
+
+### Mauvis
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/mauvis.jpg" alt = "Mauvis">
+<p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis</a></p>
+</div>
+
+Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
 ## Team
 
