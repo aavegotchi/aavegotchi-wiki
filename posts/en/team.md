@@ -31,6 +31,8 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
+<p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
 <p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
@@ -123,6 +125,26 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 </div>
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+
+### Favabeans - Senior Cloud Architect
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
+<p class="leftImageText">Favabeans</p>
+</div>
+
+Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
+
+### Aris - Gotchiverse Frontend Lead
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/aris.png" alt = "Aris">
+<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
+</div>
+
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ).
+Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. 
+I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
 ### Gravy - Marketing Director
 
