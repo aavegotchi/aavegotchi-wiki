@@ -1,5 +1,5 @@
 ---
-author: Niet-intelligente Nerd
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Aartiesten'
 description: 'Leer hier onze Aavegotchi Aartiesten kennen!'
@@ -31,48 +31,48 @@ tabel_aartiesten
 
 ## Cawito
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_cawito
+tabel_cawito
 
 ## Esveebee
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_esveebee
+tabel_esveebee
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_kawaileong
+tabel_kawaileong
 
 ## Qurka
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_qurka
+tabel_qurka
 
 ## Rod
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
 table_rod
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_shadowlordobeeus
+tabel_shadowlordobeeus
 
 ## SnottySnake
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_snottysnake
+tabel_snottysnake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+Heeft de volgende wearables ontworpen:
 
-table_vanilladelphia
+tabel_vanilladelphia
