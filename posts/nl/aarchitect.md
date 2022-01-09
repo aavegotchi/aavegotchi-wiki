@@ -1,5 +1,5 @@
 ---
-author: Niet-intelligente Nerd
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Aarchitect'
 description: 'Leer hier onze Aavegotchi Aarchitect kennen!'
