@@ -21,4 +21,4 @@ Vermaak je je met de [Mini-Games](/minigames) en de analytische hulpmiddelen? Ko
 
 ## Aarchitecten
 
-table_aarchitect
+tabel_aarchitect
