@@ -43,9 +43,11 @@ Continue reading to learn how to stake GHST.
 스테이킹을 하기 전엔 당연하게도 여러분의 손에 스테이킹할 GHST가 쥐어져 있어야 합니다. [GHST 토큰 페이지](/posts/ghst)에 관련 내용이 안내되어 있으니 선호하는 방식을 택하시길 바랍니다 :)
 
 ## 스테이킹 방법
-GHST 토큰이 준비되셨다면, 이제 스테이킹할 시간입니다! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
+Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! 스테이킹은 현재 폴리곤(구 메틱 네트워크)에서 이루어지고 있습니다.
 
-There are four ways to stake:
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
+
+There are five ways to stake:
 
 1. GHST
 
@@ -55,9 +57,11 @@ There are four ways to stake:
 
 4. GHST-ETH
 
-**중요 : 현재 이더리움에서의 스테이킹은 현재 중단되었습니다! 스테이킹을 해제하고 폴리곤에서 다시 스테이킹 해주세요.**
+5. GHST-MATIC
 
-*참고 : 특별 판매(Pre-sale)에서의 GHST 토큰들은 현재 락업 상태이기 때문에 락업이 풀리기 전까지 스테이킹이 불가능합니다.*
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
 ### GHST 토큰을 직접 스테이킹하기
 
@@ -99,7 +103,7 @@ Why is there a huge difference in the number of FRENS earned through LP staking 
 
 Why is the GHST-USDC pool yielding 74 million FRENS a day? Quickswap의 GHST-USDC 풀의 초기 스테이킹 참여자들이 자산 간의 비율을 엉망으로 만들었기 때문입니다. 따라서, 스테이커(depostiors)들은 풀에 유동성을 공급할 때, 0.00006 정도되는 양의 LP 토큰을 수령합니다. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
-### Staking GHST-ETH
+### Staking GHST-WETH
 
 * Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
 
@@ -116,6 +120,14 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? Quickswap의 GHST-USD
 * BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
 
 For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking GHST-MATIC
+
+* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+
+* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+
+* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
 
 ### Staking Cheatsheets!
 
