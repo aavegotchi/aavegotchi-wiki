@@ -1,24 +1,24 @@
 ---
-author: Unintelligent Nerd
+author: Niet-intelligente Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Aarchitect'
-description: 'Get to know our Aavegotchi Aarchitect here!'
+description: 'Leer hier onze Aavegotchi Aarchitect kennen!'
 contributors:
-  - "unintelligent-nerd"
+  - "niet-intelligente Nerd"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+Vermaak je je met de [Mini-Games](/minigames) en de analytische hulpmiddelen? Kom en leer de Aarchitecten kennen die hierachter zitten!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#aarchitects>Aarchitects</a></li>
+<li><a href=#aarchitects>Aarchitecten</a></li>
 </ol>
 
 </div>
 
-## Aarchitects
+## Aarchitecten
 
 table_aarchitect
