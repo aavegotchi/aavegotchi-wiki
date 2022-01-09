@@ -47,7 +47,7 @@ Once you have some GHST tokens, they can be staked on the [Staking page](https:/
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
-There are four ways to stake:
+There are five ways to stake:
 
 1. GHST
 
@@ -56,6 +56,8 @@ There are four ways to stake:
 3. GHST-USDC
 
 4. GHST-ETH
+
+5. GHST-MATIC
 
 **Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
@@ -101,7 +103,7 @@ Why is there a huge difference in the number of FRENS earned through LP staking 
 
 Why is the GHST-USDC pool yielding 74 million FRENS a day? 早期在QuickSwap上的GHST-USDC池中的一个储户搞错了资产之间的比例。 因此，当储户向池子里添加时，他们会收到极少量的LP代币，比如0.00006。 See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
-### Staking GHST-ETH
+### Staking GHST-WETH
 
 * Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
 
@@ -118,6 +120,14 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? 早期在QuickSwap上
 * BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
 
 For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+
+### Staking GHST-MATIC
+
+* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+
+* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+
+* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
 
 ### Staking Cheatsheets!
 
