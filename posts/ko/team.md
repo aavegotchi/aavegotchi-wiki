@@ -33,6 +33,7 @@ contributors:
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
@@ -128,6 +129,15 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 </div>
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+
+### Mark - Gotchiverse Backend Lead
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/mark.jpg" alt = "Mark">
+<p class="leftImageText">Mark</p>
+</div>
+
+Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
 
 ### Favabeans - Senior Cloud Architect
 
