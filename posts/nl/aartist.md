@@ -1,18 +1,18 @@
 ---
-author: Unintelligent Nerd
+author: Niet-intelligente Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+title: 'Aavegotchi Aartiesten'
+description: 'Leer hier onze Aavegotchi Aartiesten kennen!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+Weet je wat hip is? Onze aartisten in de gemeenschap! Leer hen (en hun creaties) hier kennen!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#aartists>Aartists</a></li>
+<li><a href=#aartists>Aartiesten</a></li>
 <li><a href=#cawito>Cawito</a></li>
 <li><a href=#esveebee>Esveebee</a></li>
 <li><a href=#ka-wai-leong>Ka Wai Leong</a></li>
@@ -25,9 +25,9 @@ You know what's groovy? Our community aartists! Get to know them (and their crea
 
 </div>
 
-## Aartists
+## Aartiesten
 
-table_aartist
+tabel_aartiesten
 
 ## Cawito
 
