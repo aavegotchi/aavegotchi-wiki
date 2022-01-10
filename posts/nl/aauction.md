@@ -1,54 +1,54 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+title: 'Veilinghuis'
+description: 'Aavegotchi Veilinghuis'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">Het Veilinghuis</p>
 </div>
 
-"VR Headset going for 3000 GHST"
+"VR Headset gaat voor 3000 GHST"
 
-A gotchi raises his hand.
+Een gotchi steekt zijn hand op.
 
 "5000 GHST"
 
-"VR Headset going for 5000 GHST!"
+"VR Headset gaat voor 5000 GHST!"
 
-Another gotchi raises her hand.
+Een andere gotchi steekt zijn hand op.
 
 "10000 GHST"
 
-"VR Headset going for 10000 GHST"
+"VR Headset gaat voor 10000 GHST"
 
-The room went quiet.
+Het werd stil in de kamer.
 
-"Going once"
+"Eenmaal"
 
-"Going twice"
+"Andermaal"
 
-"Gone!"
+"Verkocht!"
 
-"VR Headset sold for 10000 GHST!"
+"VR Headset verkocht voor 10000 GHST!"
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#aauction-house>Aauction House</a></li>
-<li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
+<li><a href=#aauction-house>Veilinghuis</a></li>
+<li><a href=#aauction-mechanisms>Veilingmechanismen</a></li>
 <li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
 </div>
 
-## Aauction House
+## Veilinghuis
 
 The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
 
@@ -59,7 +59,7 @@ The Aauction House has 4 tabs for users to interact with. They can be found in t
 * **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
 * **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
 
-## Aauction Mechanisms
+## Veilingmechanismen
 
 Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
