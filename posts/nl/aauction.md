@@ -61,7 +61,7 @@ Het Veilinghuis heeft 4 tabbladen voor gebruikers om mee te communiceren. Ze zij
 
 ## Veilingmechanismen
 
-Aavegotchi veilingen gebruiken het Gonnaud-Bessire-McDonaugh (GBM) veilingsformaat. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Aavegotchi veilingen gebruiken het Gonnaud-Bessire-McDonaugh (GBM) veilingsformaat. Voor het eerst gepionierd door Cryptographs in 2019, GBM-veiling is een systeem waarvoor patent is aangevraagd, en Pixelcraft Studios heeft officieel een licentie gekregen om het te gebruiken voor alle Aavegotchi NFT Drops, inclusief Haunt 2, REALM en zelfs Wearables.
 
 In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
 
