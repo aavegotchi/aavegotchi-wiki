@@ -43,20 +43,20 @@ Het werd stil in de kamer.
 <ol>
 <li><a href=#aauction-house>Veilinghuis</a></li>
 <li><a href=#aauction-mechanisms>Veilingmechanismen</a></li>
-<li><a href=#past-aauctions>Past Aauctions</a></li>
+<li><a href=#past-aauctions>Vorige Veilingen</a></li>
 </ol>
 
 </div>
 
 ## Veilinghuis
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
+Het Veilinghuis is de plaats waar de veilingen plaatsvinden. Het is te vinden [hier](https://aavegotchi.com/auction).
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+Het Veilinghuis heeft 4 tabbladen voor gebruikers om mee te communiceren. Ze zijn te vinden in de linkerhoek van de pagina:
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
+* **Instructies**: Een korte beschrijving van hoe Aavegotchi veilingen werken
+* **Open Veilingen**: Een lijst met open veilingen waaraan je kunt deelnemen
+* **Mijn biedingen**: Een lijst met open veilingen waarop je een bod hebt geplaatst. Er zullen ook historische biedingen worden getoond. Wanneer een veiling sluit en je die specifieke veiling gewonnen hebt, kun je hierheen komen om je winst te claimen
 * **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
 
 ## Veilingmechanismen
@@ -71,7 +71,7 @@ You place a bid, and if someone outbids you, you get your bid back, plus a share
 
 When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
 
-## Past Aauctions
+## Vorige Veilingen
 
 * 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
