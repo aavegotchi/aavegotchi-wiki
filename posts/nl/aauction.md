@@ -57,11 +57,11 @@ Het Veilinghuis heeft 4 tabbladen voor gebruikers om mee te communiceren. Ze zij
 * **Instructies**: Een korte beschrijving van hoe Aavegotchi veilingen werken
 * **Open Veilingen**: Een lijst met open veilingen waaraan je kunt deelnemen
 * **Mijn biedingen**: Een lijst met open veilingen waarop je een bod hebt geplaatst. Er zullen ook historische biedingen worden getoond. Wanneer een veiling sluit en je die specifieke veiling gewonnen hebt, kun je hierheen komen om je winst te claimen
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Mijn Uitbetalingen**: Een lijst van veilingen waarbij je overboden bent door anderen en de winsten die je van hen hebt ontvangen. De winsten gaan direct naar uw portemonnee adres, zonder dat u het handmatig hoeft te claimen
 
 ## Veilingmechanismen
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Aavegotchi veilingen gebruiken het Gonnaud-Bessire-McDonaugh (GBM) veilingsformaat. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
 In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
 
