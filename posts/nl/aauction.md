@@ -63,20 +63,20 @@ Het Veilinghuis heeft 4 tabbladen voor gebruikers om mee te communiceren. Ze zij
 
 Aavegotchi veilingen gebruiken het Gonnaud-Bessire-McDonaugh (GBM) veilingsformaat. Voor het eerst gepionierd door Cryptographs in 2019, GBM-veiling is een systeem waarvoor patent is aangevraagd, en Pixelcraft Studios heeft officieel een licentie gekregen om het te gebruiken voor alle Aavegotchi NFT Drops, inclusief Haunt 2, REALM en zelfs Wearables.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+Bij een typische veiling is er maar één winnaar en alle anderen verliezen. Veel veilingen trekken niet genoeg bieders aan en sommige krijgen helemaal geen bieders. GBM™ maakt van elke veiling een geweldige ervaring waarbij je of de veiling wint of geld verdient.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Je plaatst een bod, en als iemand jouw bod overbiedt, krijg je je bod terug, plus een deel van de pot genaamd een stimulans of uitbetaling.
 
-<img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
+<img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Veiling" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Wanneer een nieuw bod wordt gedaan, berekent een formule hoeveel geld de bieder zal verdienen als uitbetaling indien ze overboden worden. Dit is aan te passeren, afhankelijk van hoeveel je wilt dat bieders verdienen. Elke bieder die overboden wordt verdient een stimulans en de hoogste bieder aan het einde wint de veiling, waarbij de verkoper ontvangt wat er nog in de pot zit.
 
 ## Vorige Veilingen
 
-* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 15 - 18 juli 2021: [Eerste Veiling met de Gamer en Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
-* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* 26 - 29 augustus 2021: [12.000 Haunt 2 Poorten, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 28 - 31 oktober 2021: [Eerste Land Veiling met 16.000 parcelen binnen de Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
-* 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 2 - 5 december 2021: [Tweede Land Veiling met 7.000 parcelen in de Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
