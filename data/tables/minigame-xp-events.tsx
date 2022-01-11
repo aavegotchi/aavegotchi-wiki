@@ -38,7 +38,7 @@ export const tables
         },
 	
         {
-            tableName: "sushiVader",
+            tableName: "sushiVader1",
             tableCaption: "",
             tableData: {
                 headers: ["Score Tiers", "XP earned"],
@@ -76,5 +76,18 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "sushiVader2",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    [">12,000 points", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"]
+                ]
+            }
+        },	
 
     ]

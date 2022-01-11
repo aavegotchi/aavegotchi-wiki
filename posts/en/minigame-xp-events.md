@@ -22,9 +22,10 @@ This page details the past mini-game XP events.
 <ol>
 <li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>
 <li><a href=#snaake>Snaake</a></li>
-<li><a href=#sushi-vader>Sushi Vader</a></li>
+<li><a href=#sushi-vader--1->Sushi Vader (1)</a></li>
 <li><a href=#whac-a-rofl>Whac-a-Rofl</a></li>
 <li><a href=#astegotchi>Astegotchi</a></li>
+<li><a href=#sushi-vader--2->Sushi Vader (2)</a></li>
 </ol>
 
 </div>
@@ -42,11 +43,11 @@ Event Duration: 26 - 30 May 2021
 
 table_snaake
 
-## Sushi Vader
+## Sushi Vader (1)
 
 Event Duration: 2 - 6 June 2021
 
-table_sushiVader
+table_sushiVader1
 
 ## Whac-a-Rofl
 
@@ -59,3 +60,10 @@ table_whacARofl
 Event Duration: 23 - 26 November 2021
 
 table_astegotchi
+
+## Sushi Vader (2)
+
+Event Duration: 4 - 11 January 2022
+
+table_sushiVader2
+
