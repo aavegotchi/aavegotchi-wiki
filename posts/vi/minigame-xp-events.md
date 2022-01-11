@@ -23,9 +23,10 @@ Trang này sẽ liệt kê chi tiết những sự kiện XP minigame trong quá
 <ol>
 <li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>
 <li><a href=#snaake>Snaake</a></li>
-<li><a href=#sushi-vader>Sushi Vader</a></li>
+<li><a href=#sushi-vader--1->Sushi Vader (1)</a></li>
 <li><a href=#whac-a-rofl>Whac-a-Rofl</a></li>
 <li><a href=#astegotchi>Astegotchi</a></li>
+<li><a href=#sushi-vader--2->Sushi Vader (2)</a></li>
 </ol>
 
 </div>
@@ -42,11 +43,11 @@ Thời gian: 26 - 30 tháng Năm 2021
 
 table_snaake
 
-## Sushi Vader
+## Sushi Vader (1)
 
 Thời gian: 2 - 6 tháng Sáu 2021
 
-table_sushiVader
+table_sushiVader1
 
 ## Whac-a-Rofl
 
@@ -59,3 +60,10 @@ table_whacARofl
 Thời gian: 23 - 26 tháng Mười Một 2021
 
 table_astegotchi
+
+## Sushi Vader (2)
+
+Event Duration: 4 - 11 January 2022
+
+table_sushiVader2
+
