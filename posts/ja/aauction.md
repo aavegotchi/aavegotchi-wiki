@@ -56,12 +56,12 @@ contributors:
 
 * **説明**: オークションがどのように動作するかの簡単な説明
 * **オープンオークション**: 参加できるオープンオークションのリスト
-* **私の入札**: 入札したオープンオークションの一覧。 全ての入札の履歴を表示出来ます。 When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **私の入札**: 入札したオープンオークションの一覧。 全ての入札の履歴を表示出来ます。  オークションで落札してから、ここで主張する事が出来ます。
+* **私のペイアウト**: あなたが他の人に高値された履歴のリストです。 ペイアウトは直接ウォレットアドレス送られます。手動で請求する必要はありません。
 
 ## オークションの仕組み
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+AavegotchiオークションはGonnaud-Bessire-McDonaugh(GBM)オークション形式です。 First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
 In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
 
