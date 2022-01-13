@@ -16,17 +16,17 @@ contributors:
 
 ゴットチは手を挙げる。
 
-"5000 GHST"
+"5千GHST"
 
-"VR Headset going for 5000 GHST!"
+「VRヘッドセット5千GHSTで！」
 
-Another gotchi raises her hand.
+別のゴットチは彼女の手を上げます。
 
-"10000 GHST"
+"1万GHST"
 
-"VR Headset going for 10000 GHST"
+「VRヘッドセットを1万GHSTの入札が入りました！」
 
-The room went quiet.
+部屋は静かになりました。
 
 "Going once"
 
