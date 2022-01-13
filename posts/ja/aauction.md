@@ -69,14 +69,14 @@ AavegotchiオークションはGonnaud-Bessire-McDonaugh(GBM)オークション�
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-新しい入札が行われると、入札者が高値された場合、インセンティブとしてどのくらいの金額を得るかを計算します。 これは、入札者がどれだけ稼ぐかによってカスタマイズ出来ます。 Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+新しい入札が行われると、入札者が高値された場合、インセンティブとしてどのくらいの金額を得るかを計算します。 これは、入札者がどれだけ稼ぐかによってカスタマイズ出来ます。 入札額を上回ったすべての入札者はインセンティブを獲得します。 オークション終了時の最高入札者が勝ち、売り手はポットに残っているものを受け取ります。
 
 ## オークション（過去）
 
-* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 2021年7月15日-18日: [ゲーマーとスチームパンクのセットウェアラブルをフィーチャーした史上初のオークション](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
-* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* 2021年8月26 - 29: [12,000のH2ポータル, 13,944アイテム](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 2021年10月28日 - 31日: [Citaadel内の16,000小包をフィーチャーしたファースト・ランド・オークション](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
 * 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
