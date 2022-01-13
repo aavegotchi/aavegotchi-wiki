@@ -12,45 +12,45 @@ contributors:
 <p class="headerImageText">オークションハウス</p>
 </div>
 
-"VRヘッドセットを3000GHST良いですか？"
+「VRヘッドセットを3000GHST良いですか？」
 
 ゴットチは手を挙げる。
 
-"5千GHST"
+「5千GHST」
 
 「VRヘッドセット5千GHSTで！」
 
 別のゴットチは彼女の手を上げます。
 
-"1万GHST"
+「1万GHST」
 
 「VRヘッドセットを1万GHSTの入札が入りました！」
 
 部屋は静かになりました。
 
-"Going once"
+「これ以上の方良いかがでしょうか？」
 
-"Going twice"
+「他の方ございませんか？」
 
-"Gone!"
+「3...2...1...」
 
-"VR Headset sold for 10000 GHST!"
+「1万GHSTで落札になります」
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#aauction-house>オークションハウス</a></li>
-<li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
-<li><a href=#past-aauctions>Past Aauctions</a></li>
+<li><a href=#aauction-mechanisms>オークションの仕組み</a></li>
+<li><a href=#past-aauctions>オークション（過去）</a></li>
 </ol>
 
 </div>
 
 ## オークションハウス
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
+オークションハウスはオークションが行われる場所です。 [こちら](https://aavegotchi.com/auction)で見れます。
 
 The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
 
@@ -59,7 +59,7 @@ The Aauction House has 4 tabs for users to interact with. They can be found in t
 * **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
 * **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
 
-## Aauction Mechanisms
+## オークションの仕組み
 
 Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
@@ -71,7 +71,7 @@ You place a bid, and if someone outbids you, you get your bid back, plus a share
 
 When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
 
-## Past Aauctions
+## オークション（過去）
 
 * 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
