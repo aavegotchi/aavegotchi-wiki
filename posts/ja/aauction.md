@@ -52,11 +52,11 @@ contributors:
 
 オークションハウスはオークションが行われる場所です。 [こちら](https://aavegotchi.com/auction)で見れます。
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+オークションハウスには4つの使えるタブがあります。 それらはページの左隅にあります:
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
+* **説明**: オークションがどのように動作するかの簡単な説明
+* **オープンオークション**: 参加できるオープンオークションのリスト
+* **私の入札**: 入札したオープンオークションの一覧。 全ての入札の履歴を表示出来ます。 When an aauction closes and you won that particular aauction, you can come here to claim your winnings
 * **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
 
 ## オークションの仕組み
