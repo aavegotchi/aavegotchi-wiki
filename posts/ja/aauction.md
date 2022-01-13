@@ -1,20 +1,20 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+title: 'オークションハウス'
+description: 'Aavegotchiオークションハウス'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">オークションハウス</p>
 </div>
 
-"VR Headset going for 3000 GHST"
+"VRヘッドセットを3000GHST良いですか？"
 
-A gotchi raises his hand.
+ゴットチは手を挙げる。
 
 "5000 GHST"
 
@@ -41,14 +41,14 @@ The room went quiet.
 **Contents**
 
 <ol>
-<li><a href=#aauction-house>Aauction House</a></li>
+<li><a href=#aauction-house>オークションハウス</a></li>
 <li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
 <li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
 </div>
 
-## Aauction House
+## オークションハウス
 
 The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
 
