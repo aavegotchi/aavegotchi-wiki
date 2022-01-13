@@ -61,15 +61,15 @@ contributors:
 
 ## オークションの仕組み
 
-AavegotchiオークションはGonnaud-Bessire-McDonaugh(GBM)オークション形式です。 First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+AavegotchiオークションはGonnaud-Bessire-McDonaugh(GBM)オークション形式です。 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft StudiosはHaunt2, パーセル, さらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用するために正式にライセンスされています
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+典型的なオークションでは、勝者は1人だけで、他の誰もが負けます。 多くのオークションは十分な入札者を引き付けず、一部は全く得られません。 GBMでは勝つかお金を稼ぐかどちらかの偉大な経験にオークションを回します。
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+あなたは入札を配置し、誰かがあなたを超えた場合は、あなたの入札に加えて、元の入札とインセンティブを貰えます。
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+新しい入札が行われると、入札者が高値された場合、インセンティブとしてどのくらいの金額を得るかを計算します。 これは、入札者がどれだけ稼ぐかによってカスタマイズ出来ます。 Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
 
 ## オークション（過去）
 
