@@ -9,12 +9,12 @@ contributors:
 
 Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
 
-Baadges could be earned in a variety of ways:
+バッジを獲得する方法色々あります:
 
-* Getting into the Top 10/100 for Rarity Farming
-* Participating in an event
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
+* トップ10/100位以上に入る事
+* イベントに参加する事です
+* 主要なAavegotchiDAOの投票に投票
+* ミニゲームのハイスコアを倒す事
 * .....And many more!
 
 Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
