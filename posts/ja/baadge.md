@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baadges'
-description: 'Aavegotchi Baadges'
+title: 'Aavegotchiバッジ'
+description: 'Aavegotchiバッジ'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchiバッジは、ゴッチが特別なイベントに参加した事を記念する譲渡不可のERC-1155 NFTです。 Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Aavegotchiバッジは、ゴッチが特別なイベントに参加した事を記念する譲渡不可のERC-1155 NFTです。 Baadgeがゴッチに送信されると、永遠に [ゴッチポケット](/aavegotchi-profile#gotchi-pocket) に永久に残ります。
 
 バッジを獲得する方法色々あります:
 
