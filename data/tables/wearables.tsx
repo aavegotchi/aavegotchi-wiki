@@ -528,6 +528,39 @@ export const tables
                 ]
             }
         },
+		{
+            tableName: "DeFiRPGTable",
+            tableCaption: "DeFi RPG Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Brunette-Ponytail.svg" alt = "aavegotchi Brunette Ponytail"/>`, "265", "Brunette Ponytail", "Common", "AGG -1", "1000", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt = "aavegotchi Leather Tunic"/>`, "266", "Leather Tunic", "Common", "NRG -1", "1000", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Bow-Arrow.svg" alt = "aavegotchi Bow and Arrow"/>`, "267", "Bow and Arrow", "Common", "AGG -1", "1000", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Forked-Beard.svg" alt = "aavegotchi Forked Beard"/>`, "268", "Forked Beard", "Common", "AGG +1", "1000", "face"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Double-sided-Axe.svg" alt = "aavegotchi Double-sided Axe"/>`, "269", "Double-sided Axe", "Uncommon", "AGG +1, BRN -1", "500", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Animal-Skins.svg" alt = "aavegotchi Animal Skins"/>`, "270", "Animal Skins", "Uncommon", "AGG +2", "500", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Horned-Helmet.svg" alt = "aavegotchi Horned Helmet"/>`, "271", "Horned Helmet", "Common", "BRN -1", "1000", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Longbow.svg" alt = "aavegotchi Longbow"/>`, "272", "Longbow", "Uncommon", "AGG -1, BRN +1", "500", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Feathered-Cap.svg" alt = "aavegotchi Feathered Cap"/>`, "273", "Feathered Cap", "Uncommon", "NRG -1, SPK -1", "500", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Alluring-Eyes.svg" alt = "aavegotchi Alluring Eyes"/>`, "274", "Alluring Eyes", "Rare", "AGG -2, BRN +1", "250", "eyes"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Head-Piece.svg" alt = "aavegotchi Geisha Headpiece"/>`, "275", "Geisha Headpiece", "Rare", "NRG -2, AGG -1", "250", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Kimono.svg" alt = "aavegotchi Kimono"/>`, "276", "Kimono", "Rare", "NRG -1, AGG -2", "250", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Paper-Fan.svg" alt = "aavegotchi Paper Fan"/>`, "277", "Paper Fan", "Rare", "AGG -3", "250", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Sus-Butterfly.svg" alt = "aavegotchi Sus Butterfly"/>`, "278", "Sus Butterfly", "Legendary", "AGG +4", "100", "pet"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Flower-Studs.svg" alt = "aavegotchi Flower Studs"/>`, "279", "Flower Studs", "Legendary", "NRG -2, SPK -2", "100", "face"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt = "aavegotchi Fairy Wings"/>`, "280", "Fairy Wings", "Legendary", "NRG -2, SPK -2", "100", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Red-Hair.svg" alt = "aavegotchi Red Hair"/>`, "281", "Red Hair", "Legendary", "NRG -2, SPK -2", "100", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Citaadel-Helm.svg" alt = "aavegotchi Citaadel Helm"/>`, "282", "Citaadel Helm", "Mythical", "NRG +3, AGG -2", "50", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Armor.svg" alt = "aavegotchi Plate Armor"/>`, "283", "Plate Armor", "Mythical", "NRG +3, AGG -2", "50", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Spirit-Sword.svg" alt = "aavegotchi Spirit Sword"/>`, "284", "Spirit Sword", "Mythical", "NRG +2, AGG -3", "50", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Shield.svg" alt = "aavegotchi Plate Shield"/>`, "285", "Plate Shield", "Mythical", "AGG -5", "50", "hands"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Kabuto-Helmet.svg" alt = "aavegotchi Kabuto Helmet"/>`, "286", "Kabuto Helmet", "Godlike", "AGG +3, SPK +3", "5", "head"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Yoroi-Armor.svg" alt = "aavegotchi Yoroi Armor"/>`, "287", "Yoroi Armor", "Godlike", "AGG +3, SPK +3", "5", "body"],
+					[`<img src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Haanzo-Katana.svg" alt = "aavegotchi Haanzo Katana"/>`, "288", "Haanzo Katana", "Godlike", "AGG +2, SPK +4", "5", "hands"]
+                ]
+            }
+        },
 
         {
             tableName: "wearablesBRStable",
