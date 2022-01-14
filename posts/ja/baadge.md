@@ -15,7 +15,7 @@ Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotc
 * イベントに参加する事です
 * 主要なAavegotchiDAOの投票に投票
 * ミニゲームのハイスコアを倒す事
-* .....And many more!
+* および他にもあります！
 
 Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
 
