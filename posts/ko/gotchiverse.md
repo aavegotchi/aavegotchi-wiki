@@ -146,7 +146,7 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
+The following table shows the estimation for Alchemica concentration per REALM parcel.
 
 <img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
 
