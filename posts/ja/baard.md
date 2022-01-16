@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi ミュージシャン'
-description: 'Aavegotchi ミュージシャン - 私たちの楽しい陽気なゴッチ'
+title: 'Aavegotchi Baard'
+description: 'Aavegotchi Baard(ミュージシャン) - 私たちの楽しい陽気なゴッチ'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -17,7 +17,7 @@ contributors:
 
 ミュージシャンはハープを奏でいた,
 
-the baagpipes were creating a merry tune.
+バクパイプが陽気な曲を作っていた。
 
 ハロウィンの前の夜,
 
@@ -28,20 +28,20 @@ the baagpipes were creating a merry tune.
 **内容**
 
 <ol>
-<li><a href=#baards>ミュージシャン</a></li>
+<li><a href=#baards>Baard (ミュージシャン)</a></li>
 <li><a href=#music>音楽</a></li>
 </ol>
 
 </div>
 
-## ミュージシャン
+## Baard (ミュージシャン)
 
-Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
+Aavegotchiミュージシャンはコミュニティのアーティストです。 Baard(ミュージシャン)のロールのインスピレーションについては,この[AavegotchiDAOスレッド](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637)を参照してください。
 
 table_baard
 
 ## 音楽
 
-Our Baards have created some very aavesome soundtracks. Check them out here!
+私たちのBaardsは非常に独特のサウンドトラックを作成してくれました。 是非こちらでチェックしてください！
 
-* [Aavegotchi.com Minigame Chiptunes created by jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
+* [Aavegotchi.com jo0wzが作成したミニゲームChiptunes](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
