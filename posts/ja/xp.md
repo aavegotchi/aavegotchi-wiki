@@ -51,6 +51,6 @@ table_XP
 
 ## 受信されたXPを追跡する方法
 
-Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+我々のフレンリーな [aarchitect](/aarchitect) フランクは、Gotchiが受け取ったXPを追跡するためのアプリケーションを作成してくれました。
 
-His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
+彼が作成したアプリはこちらから [](https://aavegotchi-xp-dashboard.vercel.app) にアクセスできます。 Gotchi IDは、 [Gotchi Profile Page](/aavegotchi-profile)のURLの末尾にある数字です。
