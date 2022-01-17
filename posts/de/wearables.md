@@ -64,6 +64,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerships Set</a></li>
+<li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 </ol>
 
 </div>
@@ -232,3 +233,7 @@ table_haunt2Table
 The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
 
 table_partnershipsTable
+
+## DeFi RPG Wearables
+
+table_DeFiRPGTable

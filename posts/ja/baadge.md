@@ -1,35 +1,35 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baadges'
-description: 'Aavegotchi Baadges'
+title: 'Aavegotchiバッジ'
+description: 'Aavegotchiバッジ'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Aavegotchiバッジは、ゴッチが特別なイベントに参加した事を記念する譲渡不可のERC-1155 NFTです。 Baadgeがゴッチに送信されると、永遠に [ゴッチポケット](/aavegotchi-profile#gotchi-pocket) に永久に残ります。
 
-Baadges could be earned in a variety of ways:
+バッジを獲得する方法色々あります:
 
-* Getting into the Top 10/100 for Rarity Farming
-* Participating in an event
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
-* .....And many more!
+* トップ10/100位以上に入る事
+* イベントに参加する事です
+* 主要なAavegotchiDAOの投票に投票
+* ミニゲームのハイスコアを倒す事
+* および他にもあります！
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+より多くのバッジの為に目を離したらだめだよ。 ゲット可能になった時に、チームに発表されます。
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#list-of-baadges>List of Baadges</a></li>
+<li><a href=#list-of-baadges>バッジの一覧</a></li>
 </ol>
 
 </div>
 
-## List of Baadges
+## バッジの一覧
 
 table_baadge
 

@@ -2,46 +2,46 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Baard'
-description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
+description: 'Aavegotchi Baard(ミュージシャン) - 私たちの楽しい陽気なゴッチ'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Twas the night before Haalloween,
+ハロウィンの前の夜,
 
-when all thru the Tavern,
+エールハウス中　どこにも,
 
-every Gotchi was singing,
+全てのゴチ　歌っていた,
 
-every Rofl is rollin' on the floor laughin' (rofl-ing);
+すべてのROLFが床に笑い転んでいる;
 
-The Baards were plucking their haarps,
+ミュージシャンはハープを奏でいた,
 
-the baagpipes were creating a merry tune.
+バクパイプが陽気な曲を作っていた。
 
-Twas the night before Haalloween,
+ハロウィンの前の夜,
 
-where Gotchis come out to play!
+ゴッチが遊びに来る場所!
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#baards>Baards</a></li>
-<li><a href=#music>Music</a></li>
+<li><a href=#baards>Baard (ミュージシャン)</a></li>
+<li><a href=#music>音楽</a></li>
 </ol>
 
 </div>
 
-## Baards
+## Baard (ミュージシャン)
 
-Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
+Aavegotchiミュージシャンはコミュニティのアーティストです。 Baard(ミュージシャン)のロールのインスピレーションについては,この[AavegotchiDAOスレッド](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637)を参照してください。
 
 table_baard
 
-## Music
+## 音楽
 
-Our Baards have created some very aavesome soundtracks. Check them out here!
+私たちのBaardsは非常に独特のサウンドトラックを作成してくれました。 是非こちらでチェックしてください！
 
-* [Aavegotchi.com Minigame Chiptunes created by jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
+* [Aavegotchi.com jo0wzが作成したミニゲームChiptunes](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)

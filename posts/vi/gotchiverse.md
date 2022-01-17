@@ -146,7 +146,7 @@ Gotchus Alchemica có thể được chiết xuất ra từ REALM theo 4 cách k
 
 Các giao dịch với Gotchus Alchemica sẽ diễn ra tại [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói đất REALM trong **Act I**.
+The following table shows the estimation for Alchemica concentration per REALM parcel.
 
 <img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Số Lượng Aavegotchi Gốc trong mỗi Gói Đất" />
 

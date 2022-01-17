@@ -146,7 +146,7 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-The following table shows the estimation for Alchemica concentration per REALM parcel for **Act I**.
+The following table shows the estimation for Alchemica concentration per REALM parcel.
 
 <img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
 
@@ -188,7 +188,7 @@ REALM Parcels will be distributed in two main ways:
 
 Method 1: Incentivized GBM Auctions (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft StudiosはHaunt2, パーセル, さらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用するために正式にライセンスされています
 
 Check out our [Aauction page](/aauction) for more information.
 

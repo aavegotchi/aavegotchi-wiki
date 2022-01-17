@@ -7,6 +7,12 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi Raffle #6: DeFi RPG Theme](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
+* The 6th Aavegotchi Raffle has a DeFi RPG Theme
+* The Raffle will be held from 26 - 29 Jan!
+* Don't miss out on it!
+<p></p>
+
 ## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
 * What has our shippooooorrr been up to in December 2021?
 * A lot!
