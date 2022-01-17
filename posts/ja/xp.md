@@ -35,10 +35,10 @@ XPをレベルアップを決定するに、次の式を使用しています。
 
 ## XPテーブル
 
-以下の表は、各レベルに必要なXPを示しています。 Before delving into the data, here are some helpful definitions of the key terms used:
+以下の表は、各レベルに必要なXPを示しています。 データを調べる前に、以下に使用されるキーワードの用な定義を示します。
 
-* Current Level: Current Level of your Gotchi
-* Next Level: Next Level of your Gotchi
+* 現在のレベル：あなたのゴッチの現在のレベル
+* 次のレベル：ゴッチの次のレベル
 * XP: Experience required to reach the next level that is specified in the **Next Level** column
 * Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
 * Constant: A fixed value that is used in the computation of the XP required for the next level Formula
