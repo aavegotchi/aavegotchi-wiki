@@ -2,29 +2,29 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi XP'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+description: 'Aavegotchi XPについてはここで学びます。'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+ゴッチがXPを稼ぐとレベルアップします。 しかし、レベルアップをするにはどれだけのXPが必要ですか? データアナリスト、私たちはあなたが計算するためのいくつかの数字を持っています!
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#gaining-xp>Gaining XP</a></li>
-<li><a href=#formula>Formula</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
-<li><a href=#tracking-xp-received>Tracking XP received</a></li>
+<li><a href=#gaining-xp>XPを獲得</a></li>
+<li><a href=#formula>数式</a></li>
+<li><a href=#experience-table>XPテーブル</a></li>
+<li><a href=#tracking-xp-received>受信されたXPを追跡する</a></li>
 </ol>
 
 </div>
 
-## Gaining XP
-Aavegotchis receive experience (XP) for:
-* Voting in [AavegotchiDAO](/dao)
+## XPを獲得する方法
+AavegotchisはXPを獲得する方法いくつかあります：
+* [AavegotchiDAO](/dao)で投票
 * Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
 * Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
 
@@ -33,7 +33,7 @@ The following formula is used to determine the XP required for the next level:
 
 (Current Level ^ 2) ÷ Constant, where Constant = 0.02
 
-## Experience Table
+## XPテーブル
 
 The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
 
@@ -49,7 +49,7 @@ The maximum level that an aavegotchi could attain is 99. Any changes to the maxi
 
 table_XP
 
-## Tracking XP received
+## 受信されたXPを追跡する
 
 Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
