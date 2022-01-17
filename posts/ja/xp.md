@@ -25,17 +25,17 @@ contributors:
 ## XPを獲得する方法
 AavegotchisはXPを獲得する方法いくつかあります：
 * [AavegotchiDAO](/dao)で投票
-* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
-* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+* Aavegotchi Discordでイベントを参加する。(GotchiでXPを受け取るため、イベント中に入力するタイプフォームをリリースします)
+* [ミニゲーム](/minigames) をプレイする (Discordで発表された一定期間のみ)
 
-## Formula
-The following formula is used to determine the XP required for the next level:
+## 数式
+XPをレベルアップを決定するに、次の式を使用しています。
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+(現在のレベル^2)÷定数, ここで定数=0.02
 
 ## XPテーブル
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+以下の表は、各レベルに必要なXPを示しています。 Before delving into the data, here are some helpful definitions of the key terms used:
 
 * Current Level: Current Level of your Gotchi
 * Next Level: Next Level of your Gotchi
