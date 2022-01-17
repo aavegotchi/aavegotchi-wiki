@@ -39,17 +39,17 @@ XPをレベルアップを決定するに、次の式を使用しています。
 
 * 現在のレベル：あなたのゴッチの現在のレベル
 * 次のレベル：ゴッチの次のレベル
-* XP: Experience required to reach the next level that is specified in the **Next Level** column
-* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
-* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
+* XP: **次のレベル** の列で指定されている到達するためのXPの数
+* 違い：前の行の同じ列と比較した, **次のレベル** 列のレベルに到達するために必要なXPの違い
+* 定数：次のレベルの数式に必要なXPの計算に使用される固定値
 
-The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+Aavegotchiが最大達成出来るレベルは99です。 最大レベルへの変更は, [AavegotchiDAO](/dao) の投票で出来ます。
 
-*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
+*注意: ゴッチはレベル1から始まります。 XPの計算がどのように機能するかを観察するために、「レベル0」がテーブルに含まれています。*
 
 table_XP
 
-## 受信されたXPを追跡する
+## 受信されたXPを追跡する方法
 
 Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
