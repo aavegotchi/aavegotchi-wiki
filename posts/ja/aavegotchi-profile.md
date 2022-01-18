@@ -23,33 +23,33 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>ゴッチプロフィールへのアクセス</a></li>
+<li><a href=#accessing-your-gotchi-profile>ゴッチプロフィールのアクセス方法</a></li>
 <li><a href=#gotchi-profile>ゴッチプロフィール</a></li>
 <p><a href=#stats-xp>統計/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#more-actions>More Actions</a></p>
+<p><a href=#interact-with-your-gotchi>Gotchiと交流する</a></p>
+<p><a href=#gotchi-pocket>ゴッチポケット</a></p>
+<p><a href=#more-actions>その他の行動</a></p>
 </ol>
 
 </div>
 
-## ゴッチプロフィールへのアクセス
+## ゴッチプロフィールのアクセス方法
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+まず、[マイゴッチページ](https://aavegotchi.com/aavegotchis) に接続します。 いずれかのゴッチをクリックすると、プロフィールページに移動します。
 
 ## ゴッチプロフィール
 
-Your Gotchi Profile would look something like the following screenshot.
+ゴッチのプロフィールは以下のスクリーンショットのようになります。
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchiのプロフィール" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+中央にはあなたのGotchiがあります(裸か素晴らし[ウェアラブル](/wearables)を着られています)。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
 
 ### 統計/XP
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+画面の左端には、Gotchiの統計/XPが表示されてます。
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score).
+一番上には、ゴッチの [ベースレア度(BRS)](/rarity-farming#base-rarity-score)があります。
 
 If you have equipped your Gotchi with wearables, there will be two BRS values:
 
@@ -67,7 +67,7 @@ Moving downwards still, your Gotchi's level, XP, and XP required to reach the ne
 
 For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
 
-### Interact with your Gotchi
+### Gotchiと交流する
 
 At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
 
@@ -81,7 +81,7 @@ Finally, the Rename button allows you to rename your Gotchi. The only constraint
 
 Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
 
-### Gotchi Pocket
+### ゴッチポケット
 
 At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
 
@@ -103,7 +103,7 @@ To send the wearables back to **your** inventory, you would first have to unequi
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
-### More Actions
+### その他の行動
 
 There is a "More" Button at the bottom-right corner of the screen.
 
