@@ -30,7 +30,7 @@ contributors:
 <p></p>
 
 ## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
-* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+* Pixelcraft announces the upcoming Gotchi Lending feature! (￢‿￢ )
 <p></p>
 
 ## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
