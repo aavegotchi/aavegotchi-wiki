@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+title: 'Aavegotchiのプロフィール'
+description: 'Aavegotchiのプロフィール'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">ハロー!</p>
 </div>
 
-You have a Gotchi fren now eh?
+今ゴッチを持っていますか？
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+全てのゴッチにプロフィールページがあり、ゴッチを表示したり遊ぶ事が出来ます。
 
-This page will tell you what you can do with your new Gotchi frens! :D
+このページでは、あなたの新しいGotchiフレンで何が出来るかを教えてくれます! (￢‿￢ )
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
+<li><a href=#accessing-your-gotchi-profile>ゴッチプロフィールへのアクセス</a></li>
+<li><a href=#gotchi-profile>ゴッチプロフィール</a></li>
+<p><a href=#stats-xp>統計/XP</a></p>
 <p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#more-actions>More Actions</a></p>
@@ -33,19 +33,19 @@ This page will tell you what you can do with your new Gotchi frens! :D
 
 </div>
 
-## Accessing your Gotchi Profile
+## ゴッチプロフィールへのアクセス
 
 First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
 
-## Gotchi Profile
+## ゴッチプロフィール
 
 Your Gotchi Profile would look something like the following screenshot.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchiのプロフィール" />
 
 At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
 
-### Stats/XP
+### 統計/XP
 
 At the left corner of the screen is the Stats/XP of your Gotchi.
 
