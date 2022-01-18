@@ -51,17 +51,17 @@ contributors:
 
 一番上には、ゴッチの [ベースレア度(BRS)](/rarity-farming#base-rarity-score)があります。
 
-If you have equipped your Gotchi with wearables, there will be two BRS values:
+ゴッチにウェアラブルを装備した場合、2つのレア度があります。
 
-* one in parentheses (BRS **without** any wearables equipped)
+* 括弧内の1つ**ウェアラブル**が装備されていない
 
-* the other not in parentheses (BRS **with** wearables equipped)
+* 括弧に入ってないのは**ウェアラブル**が装備されていない
 
-If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+[ウェアラブルセット](/sets)を装備している場合は、レア度の下にセットの名が表示されます。
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+レア度のすぐ隣には「カーブを表示」ボタンがあります。 このボタンは、他のすべてのゴッチに対する6つの特性（エネルギー、攻撃性、おどろしさ、知力、目の形、目の色）のすべてに対するゴッチの位置を示します。
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+下のカーブを見ると、6つの特性(エネルギー、攻撃性、おどろしさ、知力、目の形、目の色)の数値が表示されます。 目の形と色以外はウェアラブルを装備する事で変更出来ます。 少なくとも1つのウェアラブルを装備すると特性値に+/-が追加されます。 This is the contribution of the wearable/wearables to your trait values.
 
 Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
 
