@@ -65,11 +65,11 @@ contributors:
 
 その下を見ると、ゴッチの次のレベルを到達するにはどれぐらいのXPかかるか示されます。 今まではコミュニティイベントに参加してXPを獲得しています。 だから、Discordをしっかり見張ってください!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+3つのレベルごとに、ゴッチは1つのスピリットポイントを獲得します。これで、任意の特性値を増減する事が出来ます。
 
 ### Gotchiと交流する
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+画面の右側には、(1)ペット、(2)装備、(3)ポーションをあげる、(4)名前変更、様々な方法でゴッチと交流する事が出来ます。
 
 Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
 
