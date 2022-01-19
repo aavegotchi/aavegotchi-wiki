@@ -63,7 +63,7 @@ contributors:
 
 下のカーブを見ると、6つの特性(エネルギー、攻撃性、おどろしさ、知力、目の形、目の色)の数値が表示されます。 目の形と色以外はウェアラブルを装備する事で変更出来ます。 少なくとも1つのウェアラブルを装備すると特性値に+/-が追加されます。 これは、ウェアラブル特性値への貢献です。
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+その下を見ると、ゴッチの次のレベルを到達するにはどれぐらいのXPかかるか示されます。 今まではコミュニティイベントに参加してXPを獲得しています。 だから、Discordをしっかり見張ってください!
 
 For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
 
