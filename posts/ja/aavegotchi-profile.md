@@ -71,11 +71,11 @@ contributors:
 
 画面の右側には、(1)ペット、(2)装備、(3)ポーションをあげる、(4)名前変更、様々な方法でゴッチと交流する事が出来ます。
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+ゴッチを12時間に1回ペットすると、[キンシップ](/traits#kinship) スコアが1点上がります。
 
-The Equip button allows you to equip/unequip any wearables.
+装備ボタンを使用すると、ウェアラブルを装備/装備解除出来ます。
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+ポーションをあげるボタンを使用すると、キンシップポーションやXPポーションなどの[消耗品](/ウエラブル#消耗品)を与えることが出来ます。 These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
 
 Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
 
