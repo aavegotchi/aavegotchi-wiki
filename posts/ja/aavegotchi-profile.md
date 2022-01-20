@@ -95,11 +95,11 @@ contributors:
 * [ファーミング](/rarity-farming)で獲得したGHSTトークン
 * [バッジ](/baadge)
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+バッジは、ゴッチが特別なイベントに参加した事を記念して、譲渡不可のERC-1155 NFTです。 たとえば、レアリティファーミングシーズン1では、バッジはファーミングカテゴリのトップ１０位およびトップ１００位のゴッチに授与されました。 これらのバッジは特定のゴッチポケットに配送され、<strongx-id = "1">永久</ strong>に存在します。 将来、より多くのバッジのため,目を離さないで下さい! (^.~)☆
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+対照的に、装備されたウェアラブルとGHSTトークンはゴッチポケットから引き出す事が出来ます。
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+ウェアラブルを**自分イのンベントリ**に戻すには、まずウェアラブル装備解除する必要があります。 Next, head over to your Gotchi Pocket and click the Transfer to Me button.
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
