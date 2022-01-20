@@ -85,15 +85,15 @@ contributors:
 
 画面の右下隅にポケットボタンがあります。 クリックすると、ゴッチポケットが表示されます。あなたのゴッチのインベントリとして機能します。
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+注意: **あなたの(所有者)**インベントリは**ゴッチポケット**とは別のものです。
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains:
+ゴッチポケットは以下を保持することができます:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
-* [Baadges](/baadge)
+* ゴッチが現在装備しているウェアラブル
+* [ファーミング](/rarity-farming)で獲得したGHSTトークン
+* [バッジ](/baadge)
 
 Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
 
@@ -114,10 +114,10 @@ It opens up another menu with the following 3 options:
 * List in Bazaar
 * Save
 
-**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+**ギフト</ 0>を使用すると、ゴッチを別のアドレスに渡す事が出来ます（元に戻せない事に注意してください）。</p>
 
-**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+**ゴッチを生贄にする** を使用すると, 現在のゴッチを****殺す事が出来ます。 [XP/キンシップ](/traits#experience)を別のゴッチに与えます。
 
-**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+**マーケットに出品する**では、マーケットにあなたのゴッチを販売する事が出来ます。
 
-**Save** allows you to download a png or gif image of your Aavegotchi.
+**セーブ**では,ゴッチのpngまたはgif画像をダウンロード出来ます。
