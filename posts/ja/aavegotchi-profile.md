@@ -79,15 +79,11 @@ contributors:
 
 最後に、名前変更ボタンをクリックすると、ゴッチの名前を変更出来ます。 唯一の制約は、使われている名前を取ることが出来ず、25文字未満でなければならないという事です。
 
-下に移動すると,ゴッチが持っている
-
-霊力の<strongx-id = "1">タイプ</ strong>と<strongx-id = "1">量</ strong>が表示されます。 所有者であるあなたが、ゴッチに霊力を追加/霊力を取るボタンがあります。 ゴチに必要以上に霊力を加えるメリットはありません。 There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).</p> 
-
-
+下に移動すると,ゴッチが持っている[霊力の<strongx-id = "1">タイプ</ strong>と<strongx-id = "1">量</ strong>が表示されます。 所有者であるあなたが、ゴッチに霊力を追加/霊力を取るボタンがあります。 ゴチに必要以上に霊力を加えるメリットはありません。 ゴッチには最低限必要な霊力もあり、その量を超えて撤退する事は出来ません。 必要な最小霊力はゴッチのレア度によって異なり、その計算に使用される式は<ahref = "/ portals＃claiming-an-aavegotchi">ここ](/glossary#霊力)にあります。
 
 ### ゴッチポケット
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+画面の右下隅にポケットボタンがあります。 クリックすると、ゴッチポケットが表示されます。あなたのゴッチのインベントリとして機能します。
 
 Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
 
@@ -106,8 +102,6 @@ In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi
 To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
-
-
 
 ### その他の行動
 
