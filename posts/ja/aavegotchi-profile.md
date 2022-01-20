@@ -41,7 +41,7 @@ contributors:
 
 ゴッチのプロフィールは以下のスクリーンショットのようになります。
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchiのプロフィール" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
 中央にはあなたのGotchiがあります(裸か素晴らし[ウェアラブル](/wearables)を着られています)。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
 
@@ -99,20 +99,20 @@ contributors:
 
 対照的に、装備されたウェアラブルとGHSTトークンはゴッチポケットから引き出す事が出来ます。
 
-ウェアラブルを**自分イのンベントリ**に戻すには、まずウェアラブル装備解除する必要があります。 Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+ウェアラブルを**自分イのンベントリ**に戻すには、まずウェアラブル装備解除する必要があります。 次に、あなたのゴッチポケットに行き「自分に転送」ボタンをクリックします。
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+同様に, ファーミングで獲得したGHSTトークンは, ゴッチポケットにあり, 自分のアイテムインベントリにはありません。 自分のインベントリに引き出すには、ゴッチポケットで「出金」ボタンを選択します。 「表示」ボタンには、ゴッチのエスクローアドレスが表示されます。
 
 ### その他の行動
 
-There is a "More" Button at the bottom-right corner of the screen.
+画面の右下隅に「もっと見る」ボタンがあります。
 
-It opens up another menu with the following 3 options:
+以下の3つのオプションを別のメニューで開きます。
 
-* Gift
-* Sacrifice
-* List in Bazaar
-* Save
+* ギフト
+* ゴッチを生贄にする
+* マーケットに出品する
+* セーブ
 
 **ギフト</ 0>を使用すると、ゴッチを別のアドレスに渡す事が出来ます（元に戻せない事に注意してください）。</p>
 
