@@ -10,6 +10,8 @@ Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what r
 
 How far have we progressed as a community? Look at our archives of past votes here!
 
+Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
+
 <div class="contentsBox">
 
 **Contents**
