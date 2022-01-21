@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchiのプロフィール'
-description: 'Aavegotchiのプロフィール'
+description: 'Aavegotchi Profile'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -35,7 +35,7 @@ contributors:
 
 ## ゴッチプロフィールのアクセス方法
 
-まず、[マイゴッチページ](https://aavegotchi.com/aavegotchis) に接続します。 いずれかのゴッチをクリックすると、プロフィールページに移動します。
+まずマイゴッチページに接続します。 いずれかのゴッチをクリックすると、プロフィールページに移動します。
 
 ## ゴッチプロフィール
 
@@ -43,7 +43,7 @@ contributors:
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
-中央にはあなたのGotchiがあります(裸か素晴らし[ウェアラブル](/wearables)を着られています)。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
+中央にはあなたのゴッチがあります。。。裸か素晴らしウェアラブル着られています。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
 
 ### 統計/XP
 
