@@ -81,6 +81,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Partners](/partners)
 
+* [POAP](/poap)
+
 * [Polygon](/polygon)
 
 * [Portals](/portals)
