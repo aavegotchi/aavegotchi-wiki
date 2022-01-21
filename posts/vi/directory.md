@@ -81,11 +81,13 @@ contributors:
 
 * [Đối tác](/partners)
 
+* [POAP](/poap)
+
 * [Polygon](/polygon)
 
 * [Portals](/portals)
 
-* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -93,13 +95,13 @@ contributors:
 
 * [Roadmap](/roadmap)
 
-* [Bộ Trang Phục](/sets)
+* [Sets](/sets)
 
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
 * [Linh Lực](/spirit-force)
 
-* [Lịch Sử Linh Lực](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -111,10 +113,10 @@ contributors:
 
 * [Traits](/traits)
 
-* [Hướng dẫn](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
 * [Wearables](/wearables)
 
-* [Kinh nghiệm](/xp)
+* [XP](/xp)
