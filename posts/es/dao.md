@@ -247,6 +247,8 @@ See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
 
 Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
 
+Vote on AGIPs and get [POAP badges](/poap) for it!
+
 ## Treasury
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
