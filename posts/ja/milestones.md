@@ -7,6 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
+* Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
+<p></p>
+
+## [The Gotchiverse Bible](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
+* The Gotchiverse Bible has been released!
+* It is a public-facing document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
+<p></p>
+
 ## [Aavegotchi Raffle #6: DeFi RPG Theme](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
 * The 6th Aavegotchi Raffle has a DeFi RPG Theme
 * The Raffle will be held from 26 - 29 Jan!
@@ -30,7 +39,7 @@ contributors:
 <p></p>
 
 ## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
-* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+* Pixelcraft announces the upcoming Gotchi Lending feature! (￢‿￢ )
 <p></p>
 
 ## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)

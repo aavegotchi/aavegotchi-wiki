@@ -1,123 +1,123 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+title: 'Aavegotchiのプロフィール'
+description: 'Aavegotchiのプロフィール'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">ハロー!</p>
 </div>
 
-You have a Gotchi fren now eh?
+今ゴッチを持っていますか？
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+全てのゴッチにプロフィールページがあり、ゴッチを表示したり遊ぶ事が出来ます。
 
-This page will tell you what you can do with your new Gotchi frens! :D
+このページでは、あなたの新しいGotchiフレンで何が出来るかを教えてくれます! (￢‿￢ )
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#more-actions>More Actions</a></p>
+<li><a href=#accessing-your-gotchi-profile>ゴッチプロフィールのアクセス方法</a></li>
+<li><a href=#gotchi-profile>ゴッチプロフィール</a></li>
+<p><a href=#stats-xp>統計/XP</a></p>
+<p><a href=#interact-with-your-gotchi>Gotchiと交流する</a></p>
+<p><a href=#gotchi-pocket>ゴッチポケット</a></p>
+<p><a href=#more-actions>その他の行動</a></p>
 </ol>
 
 </div>
 
-## Accessing your Gotchi Profile
+## ゴッチプロフィールのアクセス方法
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+まず、[マイゴッチページ](https://aavegotchi.com/aavegotchis) に接続します。 いずれかのゴッチをクリックすると、プロフィールページに移動します。
 
-## Gotchi Profile
+## ゴッチプロフィール
 
-Your Gotchi Profile would look something like the following screenshot.
+ゴッチのプロフィールは以下のスクリーンショットのようになります。
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+中央にはあなたのGotchiがあります(裸か素晴らし[ウェアラブル](/wearables)を着られています)。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
 
-### Stats/XP
+### 統計/XP
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+画面の左端には、Gotchiの統計/XPが表示されてます。
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score).
+一番上には、ゴッチの [ベースレア度(BRS)](/rarity-farming#base-rarity-score)があります。
 
-If you have equipped your Gotchi with wearables, there will be two BRS values:
+ゴッチにウェアラブルを装備した場合、2つのレア度があります。
 
-* one in parentheses (BRS **without** any wearables equipped)
+* 括弧内の1つ**ウェアラブル**が装備されていない
 
-* the other not in parentheses (BRS **with** wearables equipped)
+* 括弧に入ってないのは**ウェアラブル**が装備されていない
 
-If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+[ウェアラブルセット](/sets)を装備している場合は、レア度の下にセットの名が表示されます。
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+レア度のすぐ隣には「カーブを表示」ボタンがあります。 このボタンは、他のすべてのゴッチに対する6つの特性（エネルギー、攻撃性、おどろしさ、知力、目の形、目の色）のすべてに対するゴッチの位置を示します。
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+下のカーブを見ると、6つの特性(エネルギー、攻撃性、おどろしさ、知力、目の形、目の色)の数値が表示されます。 目の形と色以外はウェアラブルを装備する事で変更出来ます。 少なくとも1つのウェアラブルを装備すると特性値に+/-が追加されます。 これは、ウェアラブル特性値への貢献です。
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+その下を見ると、ゴッチの次のレベルを到達するにはどれぐらいのXPかかるか示されます。 今まではコミュニティイベントに参加してXPを獲得しています。 だから、Discordをしっかり見張ってください!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+3つのレベルごとに、ゴッチは1つのスピリットポイントを獲得します。これで、任意の特性値を増減する事が出来ます。
 
-### Interact with your Gotchi
+### Gotchiと交流する
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+画面の右側には、(1)ペット、(2)装備、(3)ポーションをあげる、(4)名前変更、様々な方法でゴッチと交流する事が出来ます。
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+ゴッチを12時間に1回ペットすると、[キンシップ](/traits#kinship) スコアが1点上がります。
 
-The Equip button allows you to equip/unequip any wearables.
+装備ボタンを使用すると、ウェアラブルを装備/装備解除出来ます。
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+ポーションをあげるボタンを使用すると、キンシップポーションやXPポーションなどの[消耗品](/ウエラブル#消耗品)を与えることが出来ます。 これらのポーションは,[モール](/モール)(リリース時)や,[マーケット](/マーケット)で購入出来ます。
 
-Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+最後に、名前変更ボタンをクリックすると、ゴッチの名前を変更出来ます。 唯一の制約は、使われている名前を取ることが出来ず、25文字未満でなければならないという事です。
 
-Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+下に移動すると,ゴッチが持っている[霊力の<strongx-id = "1">タイプ</ strong>と<strongx-id = "1">量</ strong>が表示されます。 所有者であるあなたが、ゴッチに霊力を追加/霊力を取るボタンがあります。 ゴチに必要以上に霊力を加えるメリットはありません。 ゴッチには最低限必要な霊力もあり、その量を超えて撤退する事は出来ません。 必要な最小霊力はゴッチのレア度によって異なり、その計算に使用される式は<ahref = "/ portals＃claiming-an-aavegotchi">ここ](/glossary#霊力)にあります。
 
-### Gotchi Pocket
+### ゴッチポケット
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+画面の右下隅にポケットボタンがあります。 クリックすると、ゴッチポケットが表示されます。あなたのゴッチのインベントリとして機能します。
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+注意: **あなたの(所有者)**インベントリは**ゴッチポケット**とは別のものです。
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains:
+ゴッチポケットは以下を保持することができます:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
-* [Baadges](/baadge)
+* ゴッチが現在装備しているウェアラブル
+* [ファーミング](/rarity-farming)で獲得したGHSTトークン
+* [バッジ](/baadge)
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+バッジは、ゴッチが特別なイベントに参加した事を記念して、譲渡不可のERC-1155 NFTです。 たとえば、レアリティファーミングシーズン1では、バッジはファーミングカテゴリのトップ１０位およびトップ１００位のゴッチに授与されました。 これらのバッジは特定のゴッチポケットに配送され、<strongx-id = "1">永久</ strong>に存在します。 将来、より多くのバッジのため,目を離さないで下さい! (^.~)☆
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+対照的に、装備されたウェアラブルとGHSTトークンはゴッチポケットから引き出す事が出来ます。
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+ウェアラブルを**自分イのンベントリ**に戻すには、まずウェアラブル装備解除する必要があります。 次に、あなたのゴッチポケットに行き「自分に転送」ボタンをクリックします。
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+同様に, ファーミングで獲得したGHSTトークンは, ゴッチポケットにあり, 自分のアイテムインベントリにはありません。 自分のインベントリに引き出すには、ゴッチポケットで「出金」ボタンを選択します。 「表示」ボタンには、ゴッチのエスクローアドレスが表示されます。
 
-### More Actions
+### その他の行動
 
-There is a "More" Button at the bottom-right corner of the screen.
+画面の右下隅に「もっと見る」ボタンがあります。
 
-It opens up another menu with the following 3 options:
+以下の3つのオプションを別のメニューで開きます。
 
-* Gift
-* Sacrifice
-* List in Bazaar
-* Save
+* ギフト
+* ゴッチを生贄にする
+* マーケットに出品する
+* セーブ
 
-**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+**ギフト</ 0>を使用すると、ゴッチを別のアドレスに渡す事が出来ます（元に戻せない事に注意してください）。</p>
 
-**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+**ゴッチを生贄にする** を使用すると, 現在のゴッチを****殺す事が出来ます。 [XP/キンシップ](/traits#experience)を別のゴッチに与えます。
 
-**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+**マーケットに出品する**では、マーケットにあなたのゴッチを販売する事が出来ます。
 
-**Save** allows you to download a png or gif image of your Aavegotchi.
+**セーブ**では,ゴッチのpngまたはgif画像をダウンロード出来ます。
