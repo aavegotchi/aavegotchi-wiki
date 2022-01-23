@@ -43,7 +43,7 @@ contributors:
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
-中央にはあなたのゴッチがあります。。。裸か素晴らしウェアラブル（アイテム）着られています。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
+中央には裸かウエラブルを装着しているゴッチがいます。 装備/装備解除を行うと、ゴッチのディスプレイが更新されます。
 
 ### 統計/XP
 
