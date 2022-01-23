@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-[Mini-Games](/minigames) を楽しんでみませんか? 彼らの建築家に会いましょう!
+ミニゲームを楽しんでみませんか? 建築家の彼等に会いましょう!
 
 <div class="contentsBox">
 
