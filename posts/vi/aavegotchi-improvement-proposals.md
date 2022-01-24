@@ -330,7 +330,7 @@ Phương án 1: Có, hãy triển khai Haunt 2
 
 Phương án 2: Không, đừng triển khai Haunt 2
 
-**Voting Period:** 19 - 26 July 2021
+**Thời gian vote:**19 - 26 tháng 7 Năm 2021
 
 **Kết quả:**
 
@@ -347,17 +347,17 @@ table_launchHaunt2
 
 *Vấn đề*
 
-As new haunts are released, whether or not they include a bug fix that impacts gotchi trait generation, a strong dilution of existing high BRS gotchis occurs. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
+Khi các thế hệ haunt mới được hình thành, dù chúng có được sửa lại các yếu tố ảnh hưởng đến việc sinh ra các chỉ số cho gotchi hay không thì số lượng gotchi có BRS cao được sinh ra sẽ rất nhiều. Do bản chất của rarity farming và phần thưởng của nó, sự xuất hiện đó ảnh hưởng cực lớn đến những ai đầu tư nhiều vào những thế hệ gotchi cũ, và những người không muốn bán đi gotchi do đã có sự gắn kết về mặt cảm xúc, hay ý định đầu tư nhiều hơn, hoặc khả năng "flip" sang những gotchi có BRS cao hơn, thuộc những thế hệ haunt sau này (do luật thuế). Hơn nữa, phương sai về chỉ số có thể xảy ra trong những thế hệ haunt mới, khiến cho nó gần như không thể tạo ra những quyết định tài chính lâu dài, do phương sai có thể khiến cho những thế hệ haunt trước đó lỗi thời. Điều này khiến cho mọi thứ phụ thuộc vào "may mắn".
 
 *Giải pháp*
 
-The Aging Mechanic is a proposal, initially introduced by Tistou on discord, that is designed to address all of the above mentioned issues, as well as create an interesting new dynamic of Aavegotchis that can be built upon in the future (age limits for activities, wearables, new appearance qualities, etc). It provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
+Cơ Chế Trưởng Thành là một bản đề xuất được trình bày lần đầu bởi thành viên Tistou trên Discord, được thiết kế để chỉ ra tất cả những vấn đề đã được đề cập, cũng như tại ra một cơ chế biến đổi mới thú vụ cho những Aavegotchi mà có thể được xây dựng trong tương lai (độ tuổi giới hạn dành cho các hoạt động, trang bị, phẩm chất của ngoại hình, v. v.). Nó tạo ra bước đệm khoảng 6 tháng trong suốt khoảng thời gian mà những gotchi lớn tuổi có được sự tặng trưởng BRS so với những gotchi vừa mới được triệu hồi. Khi những gotchi vừa mới được triệu hồi lớn dần, chúng sẽ nhanh chóng bắt kịp với những đối thủ già cõi hơn.
 
-In the spirit of using numbers occurring in nature, the formula is modeled after the Fibonacci numbers x 1 million, but replacing the first 0 with a 1 to better fit the use case. Specifically, the first 10 Fibonacci numbers (replacing the first 0) are 1, 1, 1, 2, 3, 5, 8, 13, 21, 34, the sum of which is 89. Following this formula would mean +1 BRS after 1 million blocks, then another +1 BRS after 2 million blocks, another +1 BRS after 3 million blocks, another +1 BRS after 5 million blocks, …, up to a final sum of +10 BRS after 89 million blocks (approx 6.5 years using average block time of 2.3 seconds — the average since May 1st).
+Trên tinh thần sử dụng những con số xảy ra trong tự nhiên, công thức này được đinh hình sau những số Fibonacci được nhân lên với 1 triệu, nhưng việc loại bỏ đi số 0 và 1 đầu tiên có vẻ hợp lý hơn cho trường hợp này. Đặc biệt, 10 số Fibonacci đầu tiên (thay thế cho số 0 đầu tiên) là 1, 1, 1, 2, 3, 5, 8, 13, 21, 34, có tổng là 89. Dựa theo công thức này thì cứ sau 1 triệu block sẽ được +1 BRS, rồi sau +1 BRS nữa sau 2 triệu block, +1 BRS nữa sau 3 triệu block, +1 BRS nữa sau 5 triệu block,..., đến khi đạt tổng +10 BRS sau 89 triệu block (khoảng 6.5 năm nếu sử dụng thời gian tạo block cơ bản là 2,3 giây -- mức trung bình kể từ ngày 1 tháng Năm).
 
-This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to eventually catch up to within a 1 BRS boost of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
+Giải pháp này giúp tăng chỉ số một cách nhanh chóng chỉ trong một vài epoch, và san phẳng rõ rệt theo thời gian để tránh tình trạng các gotchi trở nên quá mạnh và cho phép những gotchi được triệu hồi gần đây có thể theo kịp chỉ trong 1 lần cộng thêm BRS cho gotchi lớn tuổi và từng trải hơn. Nó mang đến phần thưởng khuyến khích cho việc mở và triệu hồi gotchi từ cổng thay vì cứ khăng khăng giữ chúng, cả hai việc đều giúp tăng trưởng nền kinh tế trong game cũng như độ hiếm cũng chiếc cổng vẫn được giữ nguyên không mở. Hơn hết, đây là một hệ thống công bằng, không mang đến lợi ích cho riêng thế hệ haunt nào cả, và đơn giản là tưởng thưởng cho sự tương tác lâu dài, cũng như chống lại hiệu ứng của việc thay đổi mạnh mẽ và bất thình lình mà chúng ta đang thấy gần đây.
 
-*Modifications made to Solution*
+*Điều chỉnh Giải pháp*
 
 * **Việc tích hợp sẽ được điều chỉnh nhẹ nhàng để có thể sử dụng những dữ liệu thời gian sinh ra on-chian thay vì block number, ** với thời gian epoch được định sẵn bằng cách sử dụng những con số fibonacci được đề xuất trong sigprop và thời gian tạo block trung bình trong hiện tại. Điều này khiến cho việc tích hợp trở nên đơn đơn giản hơn, cho phép tạo ra những dòng thời gian dễ dự đoán (do mẫu số block time là một hằng số, ngược lại với biến số dựa trên hoạt động on chain), cũng như để đảm bảo chức năng của cơ chế nếu bất kỳ vấn đề cấu trúc hoặc mạng lưới blockchain nào thay đổi trong tương lai. Những khoảng nghỉ trong thời gian pet sử dụng thời gian thực, vậy nên một tiền lệ cho việc này đã tồn tại.
 
@@ -365,13 +365,13 @@ This solution provides for a quicker boost in the first few epochs of age, and g
 
 * **Sự tích hợp này sẽ diễn ra vào lúc Rarity Farming Mùa 2 bắt đầu.** Một trong những mục đích của cơ chế trưởng thành là mang đến một bước đệm cho hiệu ứng của phương sai số liệu một khi thế hệ haunt mới được công bố. Để Haunt 1 có thể trải nghiệm xem việc này có mang lại tác dụng gì không thì nó cần phải được triển khai càng sớm càng tốt, bởi vào giữa màu 2, các gotchi H2 đều gần như sẽ đuổi kịp chỉ số cộng thêm của H1, và cách biệt chỉ 1 2 điểm BRS mà thôi.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi. medium. com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
-Option 1: Yes, implement aging incentives
+Phương án 1: Vâng, tích hợp cơ chế trưởng thành
 
-Option 2: No, do not implement right now
+Phương án 2: Không, đừng tích hợp lúc này
 
-**Voting Period:** 2 - 9 October 2021
+**Thời gian vote:**2 - 9 tháng Mười 2021
 
 **Kết quả:**
 
@@ -384,29 +384,29 @@ table_agip13
 ### Kiếm FRENS với token LP GHST-MATIC
 **Aavegotchi Improvement Proposal #14**
 
-**Proposal Summary:** Polygon has been a huge reason behind the success of Aavegotchi. Super low transaction fees paid in MATIC have enabled the team to build a game where there is lots of activity happening on-chain such as petting, bid to earn auctions, Baazaar sales, and storage of the Aavegotchi game art.
+**Tóm tắt Đề Xuất:** Polygon là một trong những lý do chính đứng sau thành công của Aavegotchi. Phí giao dịch cực thấp được thanh toán bằng MATIC đã cho phép đội ngũ phát triển một trò chơi với rất nhiều hoạt động diễn ra trên blockchain ví dụ như pet, đấu giá kiếm tiền, giao dịch trên Baazaar, và lưu trữ đồ hoạ của game Aavegotchi.
 
-As of early September, Sushiswap started offering 2x SUSHI rewards for farming the GHST-MATIC LP pair on Sushiswap.
+Vào đầu tháng Chín, Sushiswap đã bắt đầu phần thưởng 2x SUSHI để người dùng có thể farm từ cặp token LP GHST-MATIC trên Sushiswap.
 
-The FRENS Taask Force recommends enabling a FRENS incentive to be paid for the GHST-MATIC LP pair on their AMM.
+Biệt Đội FRENS khuyến nghị về việc cho mang đến phần thưởng FRENS cho cặp LP GSHT-MATIC trên AMM.
 
-We recommend that the target rate of FRENS paid to the GHST-MATIC LP pair is greater than the target incentive for the GHST-ETH LP pair (120%) but lower than the target incentive for the GHST-QUICK pair (135%).
+Bọn mình khuyến nghị rằng tỷ lệ FRENS xác định được trả cho cặp LP GHST-MATIC lớn hơn so với phần thưởng đã xác định dành cho cặp LP GHST-ETH (120%) nhưng sẽ thấp hơn phần thưởng xác định dành cho cặp GHST-QUICK (135%).
 
-This is because the Impermanent Loss (IL) risk for GHST-MATIC is higher compared to GHST-ETH but lower compared to GHST-QUICK. We would recommend a target rate of 130% for the GHST-MATIC LP pair.
+Điều này là do nguy cơ Impermanent Loss (IL) dành cho GHST-MATIC cao hơn so với GHST-ETH nhưng thấp hơn so với GHST-QUICK. Bọn mình khuyến nghị mức xác định dành cho cặp LP GHST-MATIC là 130%.
 
-Currently, the majority of the liquidity for GHST resides on Quickswap.
+Gần đây, phần lớn thành khoản dành cho GHST đều nằm ở Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+Hãy xem qua [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
 
-This offers a great opportunity to move some of the liquidity over to the widely adopted Sushiswap AMM and reduce our dependence on Quickswap.
+Điều này mang đến một cơ hội lớn để di chuyển một lượng thanh khoản đến cho AMM Sushiswap được sử dụng rộng rãi và giảm đi sự phụ thuộc vào Quickswap.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/frens-incentive-for-matic-ghst-lp-pair-on-sushiswap/2336)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/frens-incentive-for-matic-ghst-lp-pair-on-sushiswap/2336)
 
-Option 1: Yes, give FRENS to GHST-MATIC
+Phương án 1: Đúng, tặng FRENS cho GHST-MATIC
 
-Option 2: No, don't give FRENS
+Phương án 2: Không, đừng đưa FRENS
 
-**Voting Period:** 12 - 19 November 2021
+**Thời gian vote:**12 - 19 tháng Mười 2021
 
 **Kết quả:**
 
@@ -421,27 +421,27 @@ table_agip14
 
 **Tóm Tắt Đề Xuất:**
 
-*Motivation*
+*Động Lực*
 
-Within the Aavegotchi ecosystem wearables play a vital role, whether it be boosting BRS for rarity farming, improving traits for minigames, utility in the upcoming metaverse, or just showing off. Due to the complexity of the different possible trait ranges of gotchis, and the variety of possible wearable stats, it is not an easy task to arrive at a balanced distribution of equippable items. Releasing new wearables without proper analysis can lead to duplication (and dilution) of existing items and further skew of practical applicable sets for gotchis with trait ranges in certain directions.
+Trong hệ sinh thái của Aavegotchi, trang phục đóng một vài trò quan trọng, vừa có khả năng tăng BRS trong rarity farming, tăng chỉ số trong minigame, khả năng đa dụng trong metaverse sắp tới, hoặc chỉ trang trí cho đẹp. Do sự phức tạp trong loạt chỉ số khả dĩ khác nhau của gotchi, và những chỉ số trang phục khác nhau, việc phân phối cân bằng các trang bị mặc được không phải là dễ dàng. Việc mang đến những trang bị mới mà không phân tích kỹ lưỡng có thể dễ dẫn đến việc trùng lặp (và bị loãng) các trang phục đang tồn tại và pha loãng thêm các tập hợp có thể áp dụng thực tế cho gotchis có phạm vi tính trạng theo những hướng nhất định.
 
-*Specification*
+*Chi Tiết*
 
-This proposal aims to introduce a Wearables Taask Force (WTF), the idea of which arose from discussions regarding the above concerns. Akin to the FRENS Taask Force, the goal of the WTF would be to assist Pixelcraft in the analysis of the current distribution of items within the ecosystem from a slot, rarity, and trait modifiers perspective, and in how this analysis can best be applied to future items. This Taask Force would NOT have the unilateral ability to determine what and how new items are released, but would function entirely in an advisory capacity.
+Bản đề xuất này đề nghị tạo ra một Biệt Đội Trang Phục (WTF), ý tưởng này khởi nguồn từ những cuộc thảo luận liên quan đến những vấn đề trên. Tương tự Bội Đội FRENS, mục tiêu của WTF là hỗ trợ Pixelcraft trong việc phân tích sự phân bố hiện tại của bác vật phẩm nằm trong hệ sinh thái, từ ô đồ, độ hiếm, điểm điều chỉnh, và cách phân tích tốt nhất có thể áp dụng cho những vật phẩm trong tương lai. Biệt Đội này sẽ KHÔNG có khả năng định hướng vật phẩm sắp tới sẽ dược bán bằng cách nào và đó là gì, nhưng sẽ hoạt động hoàn toàn theo hướng cố vấn.
 
-*Nominees*
+*Ứng cử viên*
 
-The nominees for the Taask Force include long term community members who have a wide range of applicable skills, including statistical analysis, programming ability, strong experience in baazaar activity, and prior DAO experience. This Taask Force would greatly benefit from as many voices and perspectives as possible, so all nominations are included. Establishing this Taask Force would be a major step forward in creating a more balanced ecosystem and helping the AavegotchiDAO mature.
+Các ứng cử viên cho Biệt Đội này bao gồm những thành viên kỳ cực trong cộng đồng với nhiều kỹ năng có thể ứng dụng được, bao gồm kỹ năng phân tích số liệu, lập trình và kinh nghiệm lăn lộn trong hoạt động của baazaar, và kinh nghiệm từng làm việc với DAO. Biệt Đội này sẽ hưởng nhiều quyền lợi khi có càng nhiều tiếng nói và góc nhìn, vậy nên tất cả các ứng viên đều được tham gia. Việc thành lập Biệt Đội này sẽ là một bước tiến lớn đến việc tạo ra một hệ sinh thái cân bằng và giúp cho AavegotchiDAO trưởng thành.
 
-**Full list of nominees:** Kuwlness, JG1 (Fantasma#1777), Bearded, Actaeon, Thunderfish, Letsgobankless, Kokusho, Ader1990.eth, Machete, Aimo217 (AL#4105), Notorious_BTC, MonsterRNG, Goobz, Diddlypoo
+**Danh sách tất cả ứng cử viên:** Kuwlness, JG1 (Fantasma#1777), Bearded, Actaeon, Thunderfish, Letsgobankless, Kokusho, Ader1990.eth, Machete, Aimo217 (AL#4105), Notorious_BTC, MonsterRNG, Goobz, Diddlypoo
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/wearables-taask-force/2350)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/wearables-taask-force/2350)
 
-Option 1: Yes, establish the WTF
+Phương án 1: Vâng, hãy thành lập WTF
 
-Option 2: No, don't establish the WTF
+Phương án 2: Không, đừng thành lập WTF
 
-**Voting Period:** 12 - 19 November 2021
+**Thời gian vote:**12 - 19 tháng Mười 2021
 
 **Kết quả:**
 
@@ -454,31 +454,31 @@ table_agip15
 ### Stake 100k GHST để tạo ra phần thưởng cho Minigame
 **Aavegotchi Improvement Proposal #16**
 
-**Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
+**Tóm Tắt Đề Xuất:** Một vài người bạn đã cho thấy sự quan ngại về việc thiếu đi phần thưởng khi tham gia vào các sự kiện Minigame. Do hiện tại không có Biệt Đội Aarcade với ngân sách được chỉ định nên Gotchinomics đã nghĩ về việc stake 100k GHST vào Ngân Quỹ để hỗ trợ cho các phần thưởng trong tương lai.
 
 *Vấn đề*
 
-Aavegotchi aims to be one of the top Play2Earn projects in the crypto gaming space, the launch of the Gotchiverse Realm being the cornerstone to achieving this long-term goal. However, there is room for improving the short-term possibilities through seasonal gaming events. The main problem is the lack of structure and funds.
+Aavegotchi mong muốn trở thành một trong những dự án PlaytoEarn trong giới gaming, và việc triển khai Gotchiverse Realm chính là nền tảng để đạt được mục tiêu dài hạn này. Tuy nhiên, vẫn có thể cải thiện những khả năng trong ngắn hạn thông qua những sự kiện gaming theo mùa. Vấn đề chủ yếu ở đây là thiếu ngân sách.
 
 *Giải pháp*
 
-Before creating a dedicated Aarcade DAO, the first step to enable play2earn rewards is to create a sustainable stream of funds. A simple and low-risk solution would be to stake a portion of the main DAO treasury, such as 100k GHST, to generate FRENS. Those could be then transformed into raffle tickets and given away to mini-game players through periodic events.
+Trước khi tạo ra một DAO dành riêng cho Aarcade, bước đầu tiên cho mang đến phần thưởng play2earn để tạo ra một nguồn tiền bền vững. Một phương pháp đơn giản và ít rủi ro là stake một phần ngân quỹ DAO, khoảng tầm 100k GHST, để tạo ra FRENS. Số tiền ấy có thể chuyển thành vé xổ số và mang tặng cho những người tham gia chơi mini game thông qua những sự kiện theo từng thời điểm.
 
-*Potential risks*
+*Các nguy cơ hiện hữu*
 
-Staking GHST will indirectly imply a dilution of FRENS/tickets. However, since they would be distributed via mini-game rewards, the impact should be minimal compared to the boost on engagement and appeal to new people.
+Stake GHST sẽ làm hòa tan một cách gián tiếp tỷ lệ giữa FRENS và vé. Tuy nhiên, do chúng được phân bổ thông qua phần thưởng mini game nên ảnh hưởng của nó sẽ tối thiểu so với khả năng tăng tương tác và thu hút người chơi mới.
 
-*Alternatives*
+*Lựa chọn thay thế*
 
-Wait for the Aarcade DAO to launch and let the new committee decide how to designate funds. However, this alternative option would mean losing precious time to generate more attractive rewards.
+Đợi đến khi Aarcade DAO triển khai và để cho ủy ban mới quyết định cách phân bố ngân quỹ. Tuy nhiên, phương án thay thế này có thể sẽ làm mất đi khoản thời gian quý báu mà trong đó chúng ta có thể tạo ra nhiều phần thưởng hấp dẫn hơn.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
 
-Option 1: Yes, stake 100k GHST
+Phương án 1: Đồng ý, stake 100k GHST
 
-Option 2: No, wait for Aarcade DAO
+Phương án 2: Không, hãy đợi Aarcade DAO
 
-**Voting Period:** 10 - 17 December 2021
+**Thời gian vote:**10 - 17 tháng Mười Hai 2021
 
 **Kết quả:**
 
@@ -493,37 +493,37 @@ table_agip16
 
 **Tóm Tắt Đề Xuất:**
 
-*Problem:*
+*Vấn đề:*
 
-With a new asset class added to the Aavegotchi family in the form of realm plots comes a new sink of GHST. This currently leaves those who have heavily invested into the new plots with much lesser voting power in the Aavegotchi DAO.
+Với một dạng tài sản mới được thêm vào gia đình Aavegotchi dưới dạng các ô đất realm, một số lượng GHST mới được sinh ra. Việc này hiện tại khiến cho những ai đầu tư thật nhiều vào những ô đất mới sở hữu ít sức mạnh bỏ phiếu hơn nhiều trong Aavegotchi DAO.
 
-*Solution:*
+*Giải pháp:*
 
-Since realm plots and the Gotchiverse are such an integral part of the Aavegotchi ecosystem, I believe it’s only right that realm owners get an amount of voting power that is proportional to the size of their realm plots. This ensures that their vote can be heard, which is of particular importance when future governance proposals will concern the Gotchiverse.
+Do những ô đất realm và Gotchiverse là những phần không thể thiếu của hệ sinh thái Aavegotchi nên mình tin rằng chỉ khi nào những người sở hữu realm có được một lượng sức mạnh tương ứng với số lượng ô đất mà họ sở hữu thì mới hợp lý. Điều này đảm bảo rằng ý kiến của tất cả mọi người đều sẽ được lắng nghe, và đó là một phần đặc biệt quan trọng trong những bản đề xuất tương lai, liên quan đến Gotchiverse.
 
-Since every plot has a set size in pixels which is also a scaling factor for the amount of alchemica within the plot, the suggestion brought forward is:
+Do mỗi ô đất đều có một kích thước pixel và cũng là thước đo cho số lượng khoáng sản bên trong mỗi ô đất, bản đề xuất mang đến những phương án sau đây:
 
-1 pixel = 1 GHST worth of voting power (64, 256, 2056) OR 1 pixel = 0.5 GHST worth of voting power (32, 128, 1028)
+1 pixel = 1 GHST sức mạnh bỏ phiếu (64, 256, 2056) HOẶC 1 pixel = 0,5 sức mạnh bỏ phiếu (32, 128, 1028)
 
-An alternative would be to give every plot flat voting power based on the auction floor, with a vote afterward allowing for fine-tuning of final voting power amounts while ensuring that all land owners will have a say.
+Một phương pháp thay thế ở đây là mang cho mỗi ô đất một sức mạnh bỏ phiếu ngang bằng, dựa trên giá sàn đấu giá, người sở hữu vừa có một lượng sức mạnh vừ phải, vừa đảm bảo rằng tất cả đều có tiếng nói cho mình.
 
-This would give 100, 200, and 1300 GHST worth of voting power to humbles, reasonables, and spacious parcels, respectively.
+Phương án này sẽ mang đến lần lượt 100, 200, và 1300 GHST cho gói đất humble, reasonable, và spacious.
 
-*CoreProp Edits*
+*Chỉnh sửa cho CoreProp*
 
-An option for “Auction floor” has also been added. This brings the Vote Differential up to 20%, meaning that any option must have 20% higher than the next option to pass.
+Phương án "giá sàn Đấu Giá" đã được thêm vào. Điều này mang đến cách biệt số phiếu lên đến 20%, nghĩa là bất kỳ phương án nào cũng phải cao hơn 20% so với phương án cao thứ hai để được thông qua.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/voting-power-for-land-plots/2508)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/voting-power-for-land-plots/2508)
 
-Option 1: Voting power of 0.5 GHST/pixel
+Phương án 1: 0,5 GHST sức mạnh vote cho mỗi pixel
 
-Option 2: Voting power of 1 GHST/pixel
+Phương án 2: 1 GHST sức mạnh vote cho mỗi pixel
 
-Option 3: Voting power from auction floor
+Phương án 3: Sức mạnh vote dựa trên giá sàn đấu giá
 
-Option 4: No voting power for REALM
+Phương án 4: Không trao sức mạnh bỏ phiếu cho REALM
 
-**Voting Period:** 10 - 17 December 2021
+**Thời gian vote:**10 - 17 tháng Mười Hai 2021
 
 **Kết quả:**
 
@@ -536,23 +536,23 @@ table_agip17
 ### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Lựa chọn A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Lựa chọn B: Aavegotchi Maarket
 
-Choice C: Neither
+Lựa chọn C: Không chọn 2 đáp án trên
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -566,19 +566,19 @@ table_marketplaceName
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -592,11 +592,11 @@ table_ghstUsdcLp
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
 
 * Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
 
@@ -604,17 +604,17 @@ Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an
 
 * Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
 
-Let your $GHST token speak for you, and vote!
+Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
 
-AavegotchiDAO discussion topic 👇
+Chủ đề thảo luận của AavegotchiDAO 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Thời gian vote:**23 - 26 tháng Hai 2021
 
 **Kết quả:**
 
