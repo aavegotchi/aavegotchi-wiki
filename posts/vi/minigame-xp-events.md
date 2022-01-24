@@ -63,7 +63,7 @@ table_astegotchi
 
 ## Sushi Vader (2)
 
-Event Duration: 4 - 11 January 2022
+Thời gian: 4 - 11 tháng Sáu 2022
 
 table_sushiVader2
 
