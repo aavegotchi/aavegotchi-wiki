@@ -128,7 +128,7 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 <p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
 </div>
 
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 năm hỗ trợ trong việc tạo ra game bằng cách sử dụng thiết kế game, âm nhạc, và hoạt ảnh cho máy điện tử cầm tay, PC, máy điện tử thùng, điện thoại, mán tính bàn, và VR. Tình yêu của anh dành cho việc tạo ra các hình thức giải trí giúp anh luôn bận rộn với trí tưởng tượng quá đổi tích cực, song song đó nhu cầu kết nối tích cực với đội ngũ và khán giả giữ cho trái tim hướng về xã hội của anh luôn được vui vẻ. Trách nhiệm chính của Christian trong đội ngũ Pixelcraft là thiết kế và tạo ra hình ảnh cho Realm để cộng đồng có thể khám phá và tận hưởng trong nhiều năm tới.
 
 ### Mark - Gotchiverse Backend Lead
 
@@ -164,7 +164,7 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the hea
 <p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh nghiệm gần một thập kỷ làm việc ở ngành B2B và B2C. Sau nhiều năm chinh chiến trong các tập đoàn theo khuôn mẫu, anh đã giống buồm và cống hiến 100% sự nghiệp của mình cho thế giới blockchain. Dù anh đang gây dựng các mối quan hệ chiến lược, cân đo KPI gắt gao và tạo nên các chiến lượng marketing đầy kỹ xảo, Gravy đang cống hiến để giúp mang Aavegotchi đến một tầm cao mới và tự hào gọi mình là thành viên của GotchiGang.
 
 ### Moon - Head of Paartnerships
 
@@ -182,7 +182,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 <p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
 </div>
 
-“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
+“DesignerDave” là một người thiết kế game & và cốt truyện, người làm việc với những studios như Blizzard Entertainment, Ubisoft, Wooga, và inXile, với những cái tên nổi tiếng như Wasteland, Warcraft, Silent Hill, và nhiều hơn nữa. Anh đã bắt đầu sự nghiệp game PC, tạo nên những hit AAA như Warcraft III và WoW, rồi chuyển game di động vào năm 2019, lĩnh vực mà ông đã khiến những game như Penny Dell Crosswords kiếm được từ 1000 usd mỗi tháng thành vài ngàn usd mỗi ngày trong vòng một năm. DesignerDave chuyên về trải nghiệm người dùng, thiết kế tường thuật và xác định cách tốt nhất để đáp ứng kỳ vọng của người dùng mới để nâng cao chỉ số giữ chân và tăng chi tiêu thông qua kể chuyện. Gần đây nhất, anh ấy đang lãnh đạo phụ trách thiết kế trò chơi NFT, tạo ra các câu chuyện metaverse đa thế giới trải dài để cho phép tương lai tất yếu, nơi người chơi có thể mang theo hàng loạt vật phẩm và trải nghiệm từ trò chơi này sang trò chơi khác. Ông đang phân tích và thích nghi nhanh chóng với mô hình play-to-earn, sẽ dần vượt mặt thị trường free to play.
 
 ### Shohan - Gotchiverse Frontend
 
@@ -191,7 +191,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
 
 ### Coyote - Dev evangelist / UI
 
@@ -200,7 +200,7 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
 </div>
 
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã tham gia vào team hồi đầu năm 2021. Anh bắt đầu sự nghiệp với vai trò nhà thiết kế UI/UX trong các startup rồi cuối cùng chuyển sang chuyên về lập trình front end. Coyote đã tìm ra lỗi trên blockchain trong quá trình phát triển ứng dụng bên thứ ba cho Aavegotchi. Mục tiêu của anh là chia sẽ nguồn cảm hứng này với các lập trình viên đẻ tạo ra thế hệ kỹ sư web mới!
 
 ### Candoizo - Frontend
 
@@ -209,9 +209,9 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+Candoizo, còn gọi là candoizo, là một lập trình viên phần mềm đang cống hiến để giúp cộng đồng dễ dàng xây dựng ứng dụng trên Aavegotchi! Kinh nghiệm của anh khá đa dạng với các vị trí như tester và xây dựng các dự án được định hướng bởi cộng đồng, tất cả bắt nguồn từ mong muốn mở ra những chân trời mới cho cộng đồng.
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+Lý lịch của anh cho thấy lớn lên tại khu vực hoang dại của các trò chơi mang tính cạnh tranh ở Canada và cống hiến cho việc xây dựng nên những công cụ huyền thoại. Với các dự án trong quá khứ như Hauntgg, CoinVanity, và trên iOS, sẽ không thiếu những người bạn mong muốn chứng thực cho câu chuyện này. Trong tập tiếp theo, người huấn luyện huyền thoại - Coder Dan đã nắm bắt được tâm can và những kỹ năng mà anh ấy cống hiến cho đội ngũ Pixelcraft bằng cách sử dụng ý tưởng game chấn động và cộng đồng người chơi nổi bật!
 
 ### JC - Business Development
 
@@ -220,7 +220,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+Jc là một chiến lược gia phát triển kinh doanh và và người đam mê blokchain, với một kho tàn kinh nghiệm trong việc kết nối và networking với những bộ óc thông suốt nhất trong lĩnh vực tiền mã hoá. Là một hành viên có đầu óc kinh doanh và biết tự tạo động lực cho bản thân, anh đã thể hiện tài năng của mình trong việc xây dựng nên những mối quan hệ, anh hưởng đến những mối hợp tác chiến lược, phát triển những kênh bán hàng mới, và sử sự social media và viral marketing với độ hiệu quả đáng kinh ngạc. Một trong những niềm đam mê lớn của ông ông là giới thiệu và quản bá những công ty mới và hỗ trợ họ khởi nghiệp. Sự hăng hái của anh dành cho ngành này dựa trên một niềm tin không đổi dời về sức mạnh to lớn cả công nghệ blockchain.
 
 ### Webb - Aambassador Lead
 
@@ -229,7 +229,7 @@ Jc is a business development strategist and blockchain enthusiast, with a wealth
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Things Webb loves:
+Những thứ Webb yêu thích:
 * daos và defi
 * videogames, thích nhất là dota, hoài niệm nhất là World of Warcraft
 * đi bộ thật lâu trên bãi biển
@@ -240,15 +240,15 @@ Things Webb loves:
 
 ## Team Gốc
 
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+### Đội Nhóm Không Tưởng Tập Hợp
+Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
 
-"It's time to sell some candy" Said Dan.
+"Đến lúc bán kéo rồi" Dan nói.
 
-And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
+Và anh ta là một người bán hàng tuyệt vời!  Dù không may là anh ta đã không đủ giỏi giang để bán kẹo trên bãi biển, thế những chàng trai đã va phải vào ánh mắt của một người trẻ tuổi cũng đứng gần đó là Jesse, AKA GldnXross.  Hai người nhanh chóng trở thành bồ tèo của nhau, nô đùa cùng nhau, và nên những bản nhạc tuyệt vời.  May mắn thay, con đường là ăn không mấy khả quan nên cặp đôi đã cùng nhau làm những điều vĩ đại hơn...
 
-When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+Khi những gã hay mơ này quyết định rằng họ sẽ tạo ra một phiên bản on chain cho một thứ đồ chơi kinh điển từ thập niên 90 thì ai cũng bảo là họ bị điên.  Nhưng Coder Dan đã nghe được điều này trước đây, và họ ĐÃ đúng.  họ không thế làm được điều này, chỉ với hai người.  Họ cần những gì tốt nhất, xịn nhất, đỉnh của đỉnh... nhưng mà ai mới được?  "Xibot!" Dan nói ngay.  "Nếu có ai đó có thể bắt được những tinh tuý trong một trò chơi kinh điển đáng yêu nằm trong trái tim chúng ta thì chỉ có anh chàng này mà thôi!".  "Hmm, nhưng mà hợp đồng thông minh thì sao?" GldnXross nói.  Tất nhiên sẽ không ai có thể đủ giỏi để mang TOÀN BỘ những thứ này lên chuỗi được! "Có một người như thế đấy" Dan nói. "người này yêu thích hợp đồng thông minh vô cùng, anh ta viết hợp đồng thông minh cho các hợp đồng thông minh."  "Đợi đã, tôi nghe tên người này rồi..." GldnXross bảo "Nick Mudge!"  "Còn về cộng đồng thì sao? Chắc chắn chúng ta sẽ cần ai đó tuyệt vời để có thể đánh bay bọn lừa đảo và giúp đỡ những ai thiếu hiểu biết!"  Dan nhìn lên... "Tôi từng nghe về một người, với sự điềm tĩnh của một vị thánh, và chiếc búa của Thor." Tên của anh ta hả? JC Crown.
 
-So this is how our heroes assembled, some details have been edited for time.
+Và đây là cách mà các người hùng tập hợp, một số chi tiết đã được điều chỉnh theo thời gian.
