@@ -97,7 +97,7 @@ Nick Mudge là một trong những lập trình viên solidity thành công nh�
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
 </div>
 
-Stani là nhà sáng lập và CEO của Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
+Stani là nhà sáng lập và CEO của Aave. Ông là một thương nhân với nhiều kinh nghiệm trong việc phát triển công nghệ crypto, blockchain, và trong giới fintech. Stani cũng là một người mentor của nhiều nhà sáng lập và cố vấn của các ICO và dự án blockchain và đã phát biểu tại nhiều sự kiện FinTech, Blockchain, và tiền mã hóa, đặc biệt là những chủ đề liên quan đến Ethereum Smart Contracts.
 
 ### Les
 
@@ -173,7 +173,7 @@ Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh n
 <p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
 </div>
 
-Moon là Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+Moon là Head of Paartnerships. Não Vũ Trụ. Bot tốt nhất trong aavegotchi. Game thủ. Chồng của wagyuchicken.
 
 ### DesignerDave - Game Design
 
