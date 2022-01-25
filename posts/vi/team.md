@@ -22,7 +22,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 **Nội dung**
 
 <ol>
-<li><a href=#summoners>Summoners</a></li>
+<li><a href=#summoners>Triệu hồi sư</a></li>
 <p><a href=#coder-dan>Coder Dan</a></p>
 <p><a href=#jesse>Jesse</a></p>
 <p><a href=#xibot>Xibot</a></p>
@@ -49,7 +49,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 
 </div>
 
-## Summoners
+## Triệu hồi sư
 
 ### Coder Dan
 
