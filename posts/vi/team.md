@@ -44,7 +44,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>Team Gốc</a></li>
 </ol>
 
 </div>
@@ -97,7 +97,7 @@ Nick Mudge là một trong những lập trình viên solidity thành công nh�
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
 </div>
 
-Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
+Stani là nhà sáng lập và CEO của Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
 
 ### Les
 
@@ -238,7 +238,7 @@ Things Webb loves:
 * kết bạn
 * yêu ngân hàng mới và bái bai ngân hàng cũ
 
-## Origins
+## Team Gốc
 
 ### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
