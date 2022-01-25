@@ -173,7 +173,7 @@ Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh n
 <p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
 </div>
 
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+Moon là Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
 
 ### DesignerDave - Game Design
 
