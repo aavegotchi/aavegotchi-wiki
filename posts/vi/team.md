@@ -117,7 +117,7 @@ Vào cuối những năm 2000, Borsai đã tham gia vào những ngành công ng
 <p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis</a></p>
 </div>
 
-Mauvis là một Người Xây Dựng & Học hỏi suốt đời, đã làm việc và khởi xướng các công ty khởi nghiệp công nghệ trong 15 năm qua. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
+Mauvis là một Người Xây Dựng & Học hỏi suốt đời, đã làm việc và khởi xướng các công ty khởi nghiệp công nghệ trong 15 năm qua. Anh ấy chuyên về kiến trúc các hệ thống có khả năng mở rộng cao và được biết đến với vai trò là cựu CTO của CoinMarketCap, nơi anh ấy đã mở rộng nền tảng lên 100 trang Alexa hàng đầu. Hiện anh ấy đang cư trú tại Singapore với vợ và chú cho Pháp mang tên là Loofy.
 
 ## Team
 
@@ -137,7 +137,7 @@ Christian Senn, hay còn gọi là NyanKong hoặc kurisu, đã có gần 30 nă
 <p class="leftImageText">Mark</p>
 </div>
 
-Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
+Mark đã xây dựng nền tảng khởi nghiệp thành công với các đội nhóm thân thiết trong hơn 15 năm. Chuyên môn full stack engineering của Mark và khả năng chuyển dịch tầm nhìn của công ty thành các sản phẩm và dịch vụ web được thực thi chu đáo đã góp phần vào nhiều vụ mua lại và ra mắt sản phẩm thành công, bao gồm cả với tư cách là cựu CIO của CoinMarketCap.
 
 ### Favabeans - Senior Cloud Architect
 
@@ -146,7 +146,7 @@ Mark has been building out successful startup platforms with intimate teams for 
 <p class="leftImageText">Favabeans</p>
 </div>
 
-Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
+Pete Clark, hay còn gọi là favabeans hoặc haussenfeffer, đã dành gần hết 26 năm trong ngành công nghiệp công nghệ để đồng sáng lập các công ty khởi nghiệp và xây dựng phần mềm của họ từ số 0.  Anh ấy yêu thích các dịch vụ kiến trúc, code và lập hồ sơ backend để có hiệu suất cao nhất, cũng như thiết kế và mở rộng cơ sở hạ tầng mà các dịch vụ đó chạy trên đó.  Khi làm việc tại CoinMarketCap, anh ấy đã xây dựng hệ thống và cơ sở hạ tầng nhập và phân tích dữ liệu theo thời gian thực của công ty, cũng như các API websocket của họ, trên trang tiền điện tử do Yahoo cung cấp.  Anh ấy là một người cha của hai cậu con trai tuyệt vời, một người yêu động vật, chèo thuyền và đại dương nói chung.  Anh ấy cũng là một người chơi game cổ điển cuồng nhiệt, cũng như một người chơi bài và board game, và ... một vài trò chơi lịch sử! (Bạn có thể kể tên trò chơi điện tử duy nhất trong lịch sử, trong đó Mario của Nintendo là kẻ xấu không?) Trọng tâm chính của anh ấy trong nhóm Pixelcraft là kiến trúc và code phần backend của Realm và đảm bảo nó có thể mở rộng quy mô cho số đông.
 
 ### Aris - Gotchiverse Frontend Lead
 
@@ -155,7 +155,7 @@ Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in th
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
+Aris aka PixellLab, fullstack dev &  kiến trúc sư của Gotchiverse. Người du hành từ sâu trong trái tim trái tim nhưng hiện đang sống ở Romania, giữa Transilvania (boo). Đã tham gia công nghệ blockchain với Aavegotchi vào đầu năm 2021 trước Hount 1, nhà phát triển FE đầu tiên được Pixelcraft Studios tuyển dụng. Tôi đã bắt đầu dự án gotchiverse từ thuở sơ khai và tôi biết những điều trong và ngoài dự án như bàn tay của tôi, hàng ngày làm việc trên tất cả các khía cạnh của realm. Hiện đang quản lý đội phát triển realm.
 
 ### Gravy - Marketing Director
 
