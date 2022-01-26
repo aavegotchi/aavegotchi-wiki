@@ -7,15 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-こんにちは〜フレンズ！ Aavegotchi Improvement Proposal(AGIPs) 改善提案に参加する事はステーブルマスターの責任です! You need to vote and get your voices heard.
+こんにちは〜フレンズ！ Aavegotchi Improvement Proposal(AGIPs) 改善提案に参加する事はステーブルマスターの責任です! 投票して声を聞かせるのが必要です。
 
-How far have we progressed as a community? Look at our archives of past votes here!
+コミュニティとしてどれぐらい進歩してきたのでしょうか。 過去の投票のアーカイブをご覧ください！
 
-Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
+さあ！ 今までAGIPに投票した場合は、POAPバッジをsnapshot.org/#/aavegotchi.ethで入手してください！
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
