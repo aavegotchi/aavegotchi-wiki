@@ -29,7 +29,7 @@ Giờ đây bạn đã có bằng chứng cho thấy bạn đã bỏ phiếu!
 
 POAP (Proof of Attendance Protocol) là một hệ thống mà những người tổ chức sự kiện có thể sử dụng để phân phối huy hiệu crypto (token ERC-721) cho những người đã tham gia sự kiện của họ. Nó cũng mang đế một tiêu chuẩn mở cho các nhà phát triển xây dựng.
 
-POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.
+POAP không chỉ có thiết kế hay ho và cho phép bạn khoe huy hiệu với tất cả mọi người, bộ sưu tập của bạn có vai trò như bằng chứng đại diện kỹ thuật số mà không cần phải cung cấp dữ liệu cá nhân chi tiết.
 
 ## Team Gốc
 
