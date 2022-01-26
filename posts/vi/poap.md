@@ -19,15 +19,15 @@ Giờ đây bạn đã có bằng chứng cho thấy bạn đã bỏ phiếu!
 <li><a href=#what-are-poaps->POAP là gì?</a></li>
 <li><a href=#origins>Nguồn gốc</a></li>
 <li><a href=#aavegotchi-poaps>Aavegotchi POAP</a></li>
-<li><a href=#claiming-the-poaps>Claiming the POAPs</a></li>
-<li><a href=#viewing-your-poap-collection>Viewing your POAP Collection</a></li>
+<li><a href=#claiming-the-poaps>Cách nhận POAP</a></li>
+<li><a href=#viewing-your-poap-collection>Xem Bộ sưu tập POAP</a></li>
 </ol>
 
 </div>
 
 ## POAP là gì?
 
-The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
+POAP (Proof of Attendance Protocol) là một hệ thống mà những người tổ chức sự kiện có thể sử dụng để phân phối huy hiệu crypto (token ERC-721) cho những người đã tham gia sự kiện của họ. Nó cũng mang đế một tiêu chuẩn mở cho các nhà phát triển xây dựng.
 
 POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.
 
@@ -45,12 +45,12 @@ The following POAPs are available for claiming:
 
 table_poaps
 
-## Claiming the POAPs
+## Cách nhận POAP
 
 To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
 
 <img src="/poap/claiming-poap.png" />
 
-## Viewing your POAP Collection
+## Xem Bộ sưu tập POAP
 
 To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
