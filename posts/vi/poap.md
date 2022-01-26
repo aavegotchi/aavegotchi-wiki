@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi POAPs'
-description: 'Aavegotchi POAPs'
+title: 'Aavegotchi POAP'
+description: 'Aavegotchi POAP'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hey fren, have you been actively voting in [AavegotchiDAO](/dao)?
+Chào bạn, bạn có đang bỏ phiếu quyết liệt trong [AavegotchiDAO](/dao) không?
 
-You now have proof that you voted!
+Giờ đây bạn đã có bằng chứng cho thấy bạn đã bỏ phiếu!
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#what-are-poaps->What are POAPs?</a></li>
-<li><a href=#origins>Team Gốc</a></li>
-<li><a href=#aavegotchi-poaps>Aavegotchi POAPs</a></li>
+<li><a href=#what-are-poaps->POAP là gì?</a></li>
+<li><a href=#origins>Nguồn gốc</a></li>
+<li><a href=#aavegotchi-poaps>Aavegotchi POAP</a></li>
 <li><a href=#claiming-the-poaps>Claiming the POAPs</a></li>
 <li><a href=#viewing-your-poap-collection>Viewing your POAP Collection</a></li>
 </ol>
 
 </div>
 
-## What are POAPs?
+## POAP là gì?
 
 The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
 
@@ -39,7 +39,7 @@ A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe
 
 Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
 
-## Aavegotchi POAPs
+## Aavegotchi POAP
 
 The following POAPs are available for claiming:
 
