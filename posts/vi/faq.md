@@ -98,9 +98,9 @@ How do I claim my prize?</a></p>
 <p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
 <p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
 <p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<li><a href=#technical-faq>Những câu hỏi về Kỹ thuật</a></li>
+<p><a href=#is-aavegotchi-on-chain->Aavegotchi là game chơi ngay trên blockchain đúng không?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Mình nên dùng ví nào để chơi Aavegotchi nhỉ?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
 <p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
@@ -472,13 +472,13 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bri
 ### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
 **YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-## Technical FAQ
+## Những câu hỏi về Kỹ thuật
 
-### Is Aavegotchi on-chain?
+### Aavegotchi là game chơi ngay trên blockchain đúng không?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Mình nên dùng ví nào để chơi Aavegotchi nhỉ?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
