@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard.
+こんにちは〜フレンズ！ Aavegotchi Improvement Proposal(AGIPs) 改善提案に参加する事はステーブルマスターの責任です! You need to vote and get your voices heard.
 
 How far have we progressed as a community? Look at our archives of past votes here!
 
