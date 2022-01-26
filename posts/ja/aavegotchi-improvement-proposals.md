@@ -18,13 +18,13 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
-<li><a href=#add-fees-to-bonding-curve>Add fees to Bonding Curve</a></li>
-<li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
-<li><a href=#proposal-for-haunt-2>Proposal for Haunt 2</a></li>
-<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Give unique non-transferable Background to Haunt 1 Aavegotchis</a></li>
-<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Add Fee on Baazaar to Support Rarity Farming</a></li>
-<li><a href=#earn-xp-for-successful-signal-proposals>Earn XP for Successful Signal Proposals</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>スケールアップする為にボンディングカーブのタップを増やします</a></li>
+<li><a href=#add-fees-to-bonding-curve>ボンディングカーブに手数料を加算します</a></li>
+<li><a href=#increase-daico-tap-for-ghst-purchases>GHST購入のDAICOタップを増やします</a></li>
+<li><a href=#proposal-for-haunt-2>召喚第二(H2)の提案</a></li>
+<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>召喚第一(H1) のゴッチに転送できないユニークなバックグラウンドを与えます</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>マーケットに手数料を追加します</a></li>
+<li><a href=#earn-xp-for-successful-signal-proposals>合格したプロポーザルを作成するためのXPを獲得する</a></li>
 <li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
@@ -42,7 +42,7 @@ contributors:
 
 </div>
 
-### Tap increase for Scaling Sprint
+### スケールアップする為にボンディングカーブのタップを増やします
 **Aavegotchi Improvement Proposal #1**
 
 **Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
@@ -65,7 +65,7 @@ table_agip1
 
 <hr />
 
-### Add fees to Bonding Curve
+### ボンディングカーブに手数料を加算します
 **Aavegotchi Improvement Proposal #2**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
@@ -88,7 +88,7 @@ table_agip2
 
 <hr />
 
-### Increase DAICO tap for GHST purchases
+### GHST購入のDAICOタップを増やします
 **Aavegotchi Improvement Proposal #3**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
@@ -109,7 +109,7 @@ table_agip3
 
 <hr />
 
-### Proposal for Haunt 2
+### 召喚第二(H2)の提案
 **Aavegotchi Improvement Proposal #4**
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
@@ -136,7 +136,7 @@ table_agip4
 
 <hr />
 
-### Give unique non-transferable Background to Haunt 1 Aavegotchis
+### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンドを与えます
 **Aavegotchi Improvement Proposal #5**
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
@@ -159,7 +159,7 @@ table_agip5
 
 <hr />
 
-### Add Fee on Baazaar to Support Rarity Farming
+### マーケットに手数料を追加します
 **Aavegotchi Improvement Proposal #6**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
@@ -182,7 +182,7 @@ table_agip6
 
 <hr />
 
-### Earn XP for Successful Signal Proposals
+### 合格したプロポーザルを作成するためのXPを獲得する
 **Aavegotchi Improvement Proposal #7**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
