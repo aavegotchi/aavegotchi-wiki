@@ -67,15 +67,15 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 &nbsp;<a name="Blog"></a>
 
-<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
+<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Hãy kết nối với blog của bọn mình nhé!**</a>
 
-<p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+<p style="margin-left: 4.8em">Kết nối với tin tức Gotchi mới nhất tại blog của chúng tôi!</p>
 
-We look forward to welcoming you, fren! Head over to any of our channels to learn more.
+Bọn mình đang trông các bạn quá đây này! Hãy vào bất kỳ kênh nào của bọn mình để tìm hiểu thêm nhé.
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
+Aavegotchi Malaysia là nơi tụ họp dành cho cả Gia Đình Aavegotchi ở đất nước Malaysia tuyệt vời! Hãy xem qua [Nhóm Facebook](https://www.facebook.com/groups/aavegotchimalaysia) của bọn mình nhé! Aambassador của Malaysia, Buzz Lightyear / Jason Chew rất vui được đón tiếp các bạn!
 
 
 
