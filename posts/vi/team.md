@@ -117,7 +117,7 @@ Vào cuối những năm 2000, Borsai đã tham gia vào những ngành công ng
 <p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis</a></p>
 </div>
 
-Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
+Mauvis là một Người Xây Dựng & Học hỏi suốt đời, đã làm việc và khởi xướng các công ty khởi nghiệp công nghệ trong 15 năm qua. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
 ## Team
 
