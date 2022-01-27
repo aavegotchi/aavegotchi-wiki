@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
+## [Người Tạo Ra PhaserQuest Tham Gia Vào Aavegotchi Với Vai Trò Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
 * Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
 <p></p>
 
