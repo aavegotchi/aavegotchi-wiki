@@ -35,9 +35,9 @@ POAP không chỉ có thiết kế hay ho và cho phép bạn khoe huy hiệu v�
 
 Vào tháng Sáu 2021, người bạn GotchiLove của chúng ta đã thông báo về việc [ đội ngũ phát triển tại POAP đã tạo plugin Snapshot cho phép người bỏ phiếu được thưởng Huy hiệu POAP](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
 
-A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) was made to introduce POAP badges for Snapshot voting and it passed.
+Một [bản đề xuất](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) đã được tạo ra để mang đến huy hiệu POAP cho việc vote Snapshot và nó đã được thông qua.
 
-Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
+Các thành viên có hứng thú với việc cống hiến cho quá trình thiết kết POAP có thể xem qua tại [ trang Discourse](https://dao.aavegotchi.com/t/poap-design-process/2854).
 
 ## Aavegotchi POAP
 
