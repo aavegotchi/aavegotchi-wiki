@@ -47,10 +47,10 @@ table_poaps
 
 ## Cách nhận POAP
 
-Để nhận POAP, hãy click vào những dường link ở bảng trên cho những bản đề xuất Snapshot mà bạn đã tham gia. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
+Để nhận POAP, hãy click vào những dường link ở bảng trên cho những bản đề xuất Snapshot mà bạn đã tham gia. Hãy cuộn xuống phía dưới và bạn sẽ thấy nút claim (xem ảnh bên dưới). Nhận/Tạo huy hiệu POAP không mất phí.
 
 <img src="/poap/claiming-poap.png" />
 
 ## Xem Bộ sưu tập POAP
 
-To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
+Để xem bộ sưu tập POAP của bạn, hãy truy cập vào[https://app.poap.xyz/](https://app.poap.xyz/) và kết nối với MetaMask.
