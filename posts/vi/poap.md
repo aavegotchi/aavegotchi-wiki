@@ -41,13 +41,13 @@ Các thành viên có hứng thú với việc cống hiến cho quá trình thi
 
 ## Aavegotchi POAP
 
-The following POAPs are available for claiming:
+Các POAP sau đây sẽ có thể claim được:
 
 table_poaps
 
 ## Cách nhận POAP
 
-To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
+Để nhận POAP, hãy click vào những dường link ở bảng trên cho những bản đề xuất Snapshot mà bạn đã tham gia. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
 
 <img src="/poap/claiming-poap.png" />
 
