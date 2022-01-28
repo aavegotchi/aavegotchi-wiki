@@ -419,7 +419,7 @@ table_agip14
 ### ウェアラブルタスクフォースを作成
 **Aavegotchi改善提案15番**
 
-**Proposal Summary:**
+**提案概要:**
 
 *Motivation*
 
@@ -456,19 +456,19 @@ table_agip15
 
 **Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
 
-*Problem*
+*問題*
 
 Aavegotchi aims to be one of the top Play2Earn projects in the crypto gaming space, the launch of the Gotchiverse Realm being the cornerstone to achieving this long-term goal. However, there is room for improving the short-term possibilities through seasonal gaming events. The main problem is the lack of structure and funds.
 
-*Solution*
+*ソリューション*
 
 Before creating a dedicated Aarcade DAO, the first step to enable play2earn rewards is to create a sustainable stream of funds. A simple and low-risk solution would be to stake a portion of the main DAO treasury, such as 100k GHST, to generate FRENS. Those could be then transformed into raffle tickets and given away to mini-game players through periodic events.
 
-*Potential risks*
+*潜在的なリスク*
 
 Staking GHST will indirectly imply a dilution of FRENS/tickets. However, since they would be distributed via mini-game rewards, the impact should be minimal compared to the boost on engagement and appeal to new people.
 
-*Alternatives*
+*代替ソリューション*
 
 Wait for the Aarcade DAO to launch and let the new committee decide how to designate funds. However, this alternative option would mean losing precious time to generate more attractive rewards.
 
@@ -491,13 +491,13 @@ table_agip16
 ### 区画に投票力を追加
 **Aavegotchi改善提案17番**
 
-**Proposal Summary:**
+**提案概要:**
 
-*Problem:*
+*問題*
 
 With a new asset class added to the Aavegotchi family in the form of realm plots comes a new sink of GHST. This currently leaves those who have heavily invested into the new plots with much lesser voting power in the Aavegotchi DAO.
 
-*Solution:*
+*ソリューション*
 
 Since realm plots and the Gotchiverse are such an integral part of the Aavegotchi ecosystem, I believe it’s only right that realm owners get an amount of voting power that is proportional to the size of their realm plots. This ensures that their vote can be heard, which is of particular importance when future governance proposals will concern the Gotchiverse.
 
@@ -509,7 +509,7 @@ An alternative would be to give every plot flat voting power based on the auctio
 
 This would give 100, 200, and 1300 GHST worth of voting power to humbles, reasonables, and spacious parcels, respectively.
 
-*CoreProp Edits*
+*提案の編集*
 
 An option for “Auction floor” has also been added. This brings the Vote Differential up to 20%, meaning that any option must have 20% higher than the next option to pass.
 
@@ -536,7 +536,7 @@ table_agip17
 ### Aavegotchiマーケットの名称
 **スナップショット投票**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**提案概要:** What should the Aavegotchi NFT Marketplace be called?
 
 Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
@@ -592,7 +592,7 @@ table_ghstUsdcLp
 
 **スナップショット投票**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**提案概要:** How many Portals can be purchased in one transaction?
 
 Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
