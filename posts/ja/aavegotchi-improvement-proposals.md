@@ -33,17 +33,17 @@ contributors:
 <li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>エイジングメカニックを導入</a></li>
 <li><a href=#earn-frens-with-ghst-matic-lp-tokens>GHST-MATIC LPトークンでFRENSを獲得</a></li>
 <li><a href=#create-a-wearables-taask-force>ウェアラブルタスクフォースを作成</a></li>
-<li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST to generate Minigame Rewards</a></li>
-<li><a href=#adding-voting-power-to-realm-parcels>Adding Voting Power to REALM Parcels</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#stake-100k-ghst-to-generate-minigame-rewards>ミニゲームリワードを生成するために100kGHSTをステーク</a></li>
+<li><a href=#adding-voting-power-to-realm-parcels>区画に投票力を追加</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Aavegotchiマーケットの名称</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENSを獲得するGHST-USDC LPトークンの資格</a></li>
+<li><a href=#portals-purchased-in-one-transaction>1つのトランザクションで購入出来るポータル量</a></li>
 </ol>
 
 </div>
 
 ### スケールアップする為にボンディングカーブのタップを増やす
-**Aavegotchi Improvement Proposal #1**
+**Aavegotchi改善提案1番**
 
 **Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
 
@@ -66,7 +66,7 @@ table_agip1
 <hr />
 
 ### ボンディングカーブに手数料を加算
-**Aavegotchi Improvement Proposal #2**
+**Aavegotchi善提案2番**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
 
@@ -89,7 +89,7 @@ table_agip2
 <hr />
 
 ### GHST購入のDAICOタップを増やす
-**Aavegotchi Improvement Proposal #3**
+**Aavegotchi善提案3番**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
 
@@ -110,7 +110,7 @@ table_agip3
 <hr />
 
 ### 召喚第二(H2)の提案
-**Aavegotchi Improvement Proposal #4**
+**Aavegotchi善提案4番**
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
 
@@ -137,7 +137,7 @@ table_agip4
 <hr />
 
 ### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド
-**Aavegotchi Improvement Proposal #5**
+**Aavegotchi善提案5番**
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
@@ -160,7 +160,7 @@ table_agip5
 <hr />
 
 ### マーケットに手数料を追加
-**Aavegotchi Improvement Proposal #6**
+**Aavegotchi善提案6番**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
 
@@ -183,7 +183,7 @@ table_agip6
 <hr />
 
 ### 合格したプロポーザルを作成するためのXPを獲得
-**Aavegotchi Improvement Proposal #7**
+**Aavegotchi善提案7番**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
 
@@ -212,7 +212,7 @@ table_agip7
 <hr />
 
 ### BRS(レア度)に基づいて投票力
-**Aavegotchi Improvement Proposal #8**
+**Aavegotchi善提案8番**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
 
@@ -233,7 +233,7 @@ table_agip8
 <hr />
 
 ### ウェアラブルのモール値段に基づいた投票力
-**Aavegotchi Improvement Proposal #9**
+**Aavegotchi善提案9番**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
 
@@ -254,7 +254,7 @@ table_agip9
 <hr />
 
 ### AavegotchiDAOやPixelcraftとDinoSwapの連携
-**Aavegotchi Improvement Proposal #10**
+**Aavegotchi善提案10番**
 
 **Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
 
@@ -275,7 +275,7 @@ table_agip10
 <hr />
 
 ### 流動性マネージャーとFRENS委員会
-**Aavegotchi Improvement Proposal #11**
+**Aavegotchi善提案11番**
 
 **Proposal Summary:**
 
@@ -451,7 +451,7 @@ table_agip15
 
 <hr />
 
-### Stake 100k GHST to generate Minigame Rewards
+### ミニゲームリワードを生成するために100kGHSTをステーク
 **Aavegotchi Improvement Proposal #16**
 
 **Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
@@ -488,7 +488,7 @@ table_agip16
 
 <hr />
 
-### Adding Voting Power to REALM Parcels
+### 区画に投票力を追加
 **Aavegotchi Improvement Proposal #17**
 
 **Proposal Summary:**
@@ -533,7 +533,7 @@ table_agip17
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Aavegotchiマーケットの名称
 **Snapshot Voting**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -562,7 +562,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### FRENSを獲得するGHST-USDC LPトークンの資格
 
 **Snapshot Voting**
 
@@ -588,7 +588,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### 1つのトランザクションで購入出来るポータル量
 
 **Snapshot Voting**
 
