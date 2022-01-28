@@ -57,7 +57,7 @@ The budget going forward deploys the additional 50k DAI into 4 distinct categori
 
 **Voting Period:** 15 - 19 October 2020
 
-**Results:**
+**結果:**
 
 table_agip1
 
@@ -66,7 +66,7 @@ table_agip1
 <hr />
 
 ### ボンディングカーブに手数料を加算
-**Aavegotchi善提案2番**
+**Aavegotchi改善提案2番**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
 
@@ -80,7 +80,7 @@ Any fees earned would automatically be transferred to the DAO Treasury address a
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**結果:**
 
 table_agip2
 
@@ -89,7 +89,7 @@ table_agip2
 <hr />
 
 ### GHST購入のDAICOタップを増やす
-**Aavegotchi善提案3番**
+**Aavegotchi改善提案3番**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
 
@@ -101,7 +101,7 @@ In order to offset the burning (which could ultimately turn GHST into a stableco
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**結果:**
 
 table_agip3
 
@@ -110,7 +110,7 @@ table_agip3
 <hr />
 
 ### 召喚第二(H2)の提案
-**Aavegotchi善提案4番**
+**Aavegotchi改善提案4番**
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
 
@@ -126,7 +126,7 @@ Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange 
 
 **Voting Period:** 17 - 24 March 2021
 
-**Results:**
+**結果:**
 
 table_agip4
 
@@ -137,7 +137,7 @@ table_agip4
 <hr />
 
 ### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド
-**Aavegotchi善提案5番**
+**Aavegotchi改善提案5番**
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
@@ -151,7 +151,7 @@ Option 3: Neither, leave it as is
 
 **Voting Period:** 17 - 24 March 2021
 
-**Results:**
+**結果:**
 
 table_agip5
 
@@ -160,7 +160,7 @@ table_agip5
 <hr />
 
 ### マーケットに手数料を追加
-**Aavegotchi善提案6番**
+**Aavegotchi改善提案6番**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
 
@@ -174,7 +174,7 @@ Option 2: No, leave the fees as they are
 
 **Voting Period:** 7 - 13 April 2021
 
-**Results:**
+**結果:**
 
 table_agip6
 
@@ -183,7 +183,7 @@ table_agip6
 <hr />
 
 ### 合格したプロポーザルを作成するためのXPを獲得
-**Aavegotchi善提案7番**
+**Aavegotchi改善提案7番**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
 
@@ -203,7 +203,7 @@ Option 2: No, SigProps should not give XP
 
 **Voting Period:** 12 - 18 May 2021
 
-**Results:**
+**結果:**
 
 table_agip7
 
@@ -212,7 +212,7 @@ table_agip7
 <hr />
 
 ### BRS(レア度)に基づいて投票力
-**Aavegotchi善提案8番**
+**Aavegotchi改善提案8番**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
 
@@ -224,7 +224,7 @@ Option 2: No, Aavegotchis shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
-**Results:**
+**結果:**
 
 table_agip8
 
@@ -233,7 +233,7 @@ table_agip8
 <hr />
 
 ### ウェアラブルのモール値段に基づいた投票力
-**Aavegotchi善提案9番**
+**Aavegotchi改善提案9番**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
 
@@ -245,7 +245,7 @@ Option 2: No, Wearables shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
-**Results:**
+**結果:**
 
 table_agip9
 
@@ -254,7 +254,7 @@ table_agip9
 <hr />
 
 ### AavegotchiDAOやPixelcraftとDinoSwapの連携
-**Aavegotchi善提案10番**
+**Aavegotchi改善提案10番**
 
 **Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
 
@@ -266,7 +266,7 @@ Option 2: No, don't partner with Dinoswap
 
 **Voting Period:** 13 - 20 June 2021
 
-**Results:**
+**結果:**
 
 table_agip10
 
@@ -275,7 +275,7 @@ table_agip10
 <hr />
 
 ### 流動性マネージャーとFRENS委員会
-**Aavegotchi善提案11番**
+**Aavegotchi改善提案11番**
 
 **Proposal Summary:**
 
@@ -309,7 +309,7 @@ Option 2: No, keep everything as it is
 
 **Voting Period:** 17 - 25 August 2021
 
-**Results:**
+**結果:**
 
 table_agip11
 
@@ -318,7 +318,7 @@ table_agip11
 <hr />
 
 ### 召喚第二を起動
-**Core Prop**
+**コア改善提案**
 
 **Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
 
@@ -332,7 +332,7 @@ Option 2: No, do not launch Haunt 2 now
 
 **Voting Period:** 19 - 26 July 2021
 
-**Results:**
+**結果:**
 
 table_launchHaunt2
 
@@ -341,7 +341,7 @@ table_launchHaunt2
 <hr />
 
 ### エイジングメカニックを導入
-**Aavegotchi Improvement Proposal #13**
+**Aavegotchi改善提案13番**
 
 **Proposal Summary:**
 
@@ -373,7 +373,7 @@ Option 2: No, do not implement right now
 
 **Voting Period:** 2 - 9 October 2021
 
-**Results:**
+**結果:**
 
 table_agip13
 
@@ -382,7 +382,7 @@ table_agip13
 <hr />
 
 ### GHST-MATIC LPトークンでFRENSを獲得
-**Aavegotchi Improvement Proposal #14**
+**Aavegotchi改善提案14番**
 
 **Proposal Summary:** Polygon has been a huge reason behind the success of Aavegotchi. Super low transaction fees paid in MATIC have enabled the team to build a game where there is lots of activity happening on-chain such as petting, bid to earn auctions, Baazaar sales, and storage of the Aavegotchi game art.
 
@@ -396,7 +396,7 @@ This is because the Impermanent Loss (IL) risk for GHST-MATIC is higher compared
 
 Currently, the majority of the liquidity for GHST resides on Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+参照: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
 
 This offers a great opportunity to move some of the liquidity over to the widely adopted Sushiswap AMM and reduce our dependence on Quickswap.
 
@@ -408,7 +408,7 @@ Option 2: No, don't give FRENS
 
 **Voting Period:** 12 - 19 November 2021
 
-**Results:**
+**結果:**
 
 table_agip14
 
@@ -417,7 +417,7 @@ table_agip14
 <hr />
 
 ### ウェアラブルタスクフォースを作成
-**Aavegotchi Improvement Proposal #15**
+**Aavegotchi改善提案15番**
 
 **Proposal Summary:**
 
@@ -443,7 +443,7 @@ Option 2: No, don't establish the WTF
 
 **Voting Period:** 12 - 19 November 2021
 
-**Results:**
+**結果:**
 
 table_agip15
 
@@ -452,7 +452,7 @@ table_agip15
 <hr />
 
 ### ミニゲームリワードを生成するために100kGHSTをステーク
-**Aavegotchi Improvement Proposal #16**
+**Aavegotchi改善提案16番**
 
 **Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
 
@@ -480,7 +480,7 @@ Option 2: No, wait for Aarcade DAO
 
 **Voting Period:** 10 - 17 December 2021
 
-**Results:**
+**結果:**
 
 table_agip16
 
@@ -489,7 +489,7 @@ table_agip16
 <hr />
 
 ### 区画に投票力を追加
-**Aavegotchi Improvement Proposal #17**
+**Aavegotchi改善提案17番**
 
 **Proposal Summary:**
 
@@ -525,7 +525,7 @@ Option 4: No voting power for REALM
 
 **Voting Period:** 10 - 17 December 2021
 
-**Results:**
+**結果:**
 
 table_agip17
 
@@ -534,7 +534,7 @@ table_agip17
 <hr />
 
 ### Aavegotchiマーケットの名称
-**Snapshot Voting**
+**スナップショット投票**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
@@ -554,7 +554,7 @@ If "Neither" wins...you guys better start coming up with some good alternatives!
 
 **Voting Period:** 8 - 11 February 2021
 
-**Results:**
+**結果:**
 
 table_marketplaceName
 
@@ -564,7 +564,7 @@ table_marketplaceName
 
 ### FRENSを獲得するGHST-USDC LPトークンの資格
 
-**Snapshot Voting**
+**スナップショット投票**
 
 **Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
@@ -580,7 +580,7 @@ The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, si
 
 **Voting Period:** 8 - 11 February 2021
 
-**Results:**
+**結果:**
 
 table_ghstUsdcLp
 
@@ -590,7 +590,7 @@ table_ghstUsdcLp
 
 ### 1つのトランザクションで購入出来るポータル量
 
-**Snapshot Voting**
+**スナップショット投票**
 
 **Proposal Summary:** How many Portals can be purchased in one transaction?
 
@@ -616,7 +616,7 @@ AavegotchiDAO discussion topic 👇
 
 **Voting Period:** 23 - 26 February 2021
 
-**Results:**
+**結果:**
 
 table_portalsPurchased
 
