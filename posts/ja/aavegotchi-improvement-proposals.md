@@ -18,21 +18,21 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>スケールアップする為にボンディングカーブのタップを増やします</a></li>
-<li><a href=#add-fees-to-bonding-curve>ボンディングカーブに手数料を加算します</a></li>
-<li><a href=#increase-daico-tap-for-ghst-purchases>GHST購入のDAICOタップを増やします</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>スケールアップする為にボンディングカーブのタップを増やす</a></li>
+<li><a href=#add-fees-to-bonding-curve>ボンディングカーブに手数料を加算</a></li>
+<li><a href=#increase-daico-tap-for-ghst-purchases>GHST購入のDAICOタップを増やす</a></li>
 <li><a href=#proposal-for-haunt-2>召喚第二(H2)の提案</a></li>
-<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>召喚第一(H1) のゴッチに転送できないユニークなバックグラウンドを与えます</a></li>
-<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>マーケットに手数料を追加します</a></li>
-<li><a href=#earn-xp-for-successful-signal-proposals>合格したプロポーザルを作成するためのXPを獲得する</a></li>
+<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>マーケットに手数料を追加</a></li>
+<li><a href=#earn-xp-for-successful-signal-proposals>合格したプロポーザルを作成するためのXPを獲得</a></li>
 <li><a href=#voting-power-based-on-brs>BRS(レア度)に基づいて投票力</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>ウェアラブルのモール値段に基づいた投票力</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>AavegotchiDAOやPixelcraftとDinoSwapの連携</a></li>
 <li><a href=#liquidity-manager---frens-committee>流動性マネージャーとFRENS委員会</a></li>
 <li><a href=#launch-haunt-2>召喚第二を起動</a></li>
-<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Add an Aging Mechanic to affect Aavegotchi rarity scores</a></li>
-<li><a href=#earn-frens-with-ghst-matic-lp-tokens>Earn FRENS with GHST-MATIC LP Tokens</a></li>
-<li><a href=#create-a-wearables-taask-force>Create a Wearables Taask Force</a></li>
+<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>エイジングメカニックを導入</a></li>
+<li><a href=#earn-frens-with-ghst-matic-lp-tokens>GHST-MATIC LPトークンでFRENSを獲得</a></li>
+<li><a href=#create-a-wearables-taask-force>ウェアラブルタスクフォースを作成</a></li>
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST to generate Minigame Rewards</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>Adding Voting Power to REALM Parcels</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
@@ -42,7 +42,7 @@ contributors:
 
 </div>
 
-### スケールアップする為にボンディングカーブのタップを増やします
+### スケールアップする為にボンディングカーブのタップを増やす
 **Aavegotchi Improvement Proposal #1**
 
 **Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
@@ -65,7 +65,7 @@ table_agip1
 
 <hr />
 
-### ボンディングカーブに手数料を加算します
+### ボンディングカーブに手数料を加算
 **Aavegotchi Improvement Proposal #2**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
@@ -88,7 +88,7 @@ table_agip2
 
 <hr />
 
-### GHST購入のDAICOタップを増やします
+### GHST購入のDAICOタップを増やす
 **Aavegotchi Improvement Proposal #3**
 
 **Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
@@ -136,7 +136,7 @@ table_agip4
 
 <hr />
 
-### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンドを与えます
+### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド
 **Aavegotchi Improvement Proposal #5**
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
@@ -159,7 +159,7 @@ table_agip5
 
 <hr />
 
-### マーケットに手数料を追加します
+### マーケットに手数料を追加
 **Aavegotchi Improvement Proposal #6**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
@@ -182,7 +182,7 @@ table_agip6
 
 <hr />
 
-### 合格したプロポーザルを作成するためのXPを獲得する
+### 合格したプロポーザルを作成するためのXPを獲得
 **Aavegotchi Improvement Proposal #7**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
@@ -340,7 +340,7 @@ table_launchHaunt2
 
 <hr />
 
-### Add an Aging Mechanic to affect Aavegotchi rarity scores
+### エイジングメカニックを導入
 **Aavegotchi Improvement Proposal #13**
 
 **Proposal Summary:**
@@ -381,7 +381,7 @@ table_agip13
 
 <hr />
 
-### Earn FRENS with GHST-MATIC LP Tokens
+### GHST-MATIC LPトークンでFRENSを獲得
 **Aavegotchi Improvement Proposal #14**
 
 **Proposal Summary:** Polygon has been a huge reason behind the success of Aavegotchi. Super low transaction fees paid in MATIC have enabled the team to build a game where there is lots of activity happening on-chain such as petting, bid to earn auctions, Baazaar sales, and storage of the Aavegotchi game art.
@@ -416,7 +416,7 @@ table_agip14
 
 <hr />
 
-### Create a Wearables Taask Force
+### ウェアラブルタスクフォースを作成
 **Aavegotchi Improvement Proposal #15**
 
 **Proposal Summary:**
