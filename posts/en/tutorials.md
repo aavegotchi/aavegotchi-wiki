@@ -39,6 +39,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
+<li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
 </ul>
 
 </div>
@@ -159,3 +160,11 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 * Learn about what features make REALM parcels desirable
 * Learn how to navigate the Auction map
 * Learn about Auction strategies
+
+### Traits & Bell Curve Explained
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Traits
+* Learn about the Bell Curve
+* Learn about how Wearables affect Traits
+* Learn about what community resources are available
