@@ -25,11 +25,11 @@ contributors:
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>召喚第一(H1) のゴッチに転送できないユニークなバックグラウンドを与えます</a></li>
 <li><a href=#add-fee-on-baazaar-to-support-rarity-farming>マーケットに手数料を追加します</a></li>
 <li><a href=#earn-xp-for-successful-signal-proposals>合格したプロポーザルを作成するためのXPを獲得する</a></li>
-<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
-<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
-<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
-<li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS Committee</a></li>
-<li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
+<li><a href=#voting-power-based-on-brs>BRS(レア度)に基づいて投票力</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>ウェアラブルのモール値段に基づいた投票力</a></li>
+<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>AavegotchiDAOやPixelcraftとDinoSwapの連携</a></li>
+<li><a href=#liquidity-manager---frens-committee>流動性マネージャーとFRENS委員会</a></li>
+<li><a href=#launch-haunt-2>召喚第二を起動</a></li>
 <li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Add an Aging Mechanic to affect Aavegotchi rarity scores</a></li>
 <li><a href=#earn-frens-with-ghst-matic-lp-tokens>Earn FRENS with GHST-MATIC LP Tokens</a></li>
 <li><a href=#create-a-wearables-taask-force>Create a Wearables Taask Force</a></li>
@@ -211,7 +211,7 @@ table_agip7
 
 <hr />
 
-### Voting power based on BRS
+### BRS(レア度)に基づいて投票力
 **Aavegotchi Improvement Proposal #8**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
@@ -232,7 +232,7 @@ table_agip8
 
 <hr />
 
-### Voting power based on Wearables' Maall Price
+### ウェアラブルのモール値段に基づいた投票力
 **Aavegotchi Improvement Proposal #9**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
@@ -253,7 +253,7 @@ table_agip9
 
 <hr />
 
-### Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap
+### AavegotchiDAOやPixelcraftとDinoSwapの連携
 **Aavegotchi Improvement Proposal #10**
 
 **Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
@@ -274,7 +274,7 @@ table_agip10
 
 <hr />
 
-### Liquidity Manager / FRENS Committee
+### 流動性マネージャーとFRENS委員会
 **Aavegotchi Improvement Proposal #11**
 
 **Proposal Summary:**
@@ -317,7 +317,7 @@ table_agip11
 
 <hr />
 
-### Launch Haunt 2
+### 召喚第二を起動
 **Core Prop**
 
 **Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
