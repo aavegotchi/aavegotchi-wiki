@@ -121,6 +121,10 @@ export const items: Category[] = [
 				name: "Guilds",
 				href: "guild"
 			},
+			{
+				name: "Blog",
+				href: "https://blog.aavegotchi.com"
+			},
             {
                 name: "Social Media",
                 href: "socialmedia"
