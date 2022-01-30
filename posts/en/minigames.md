@@ -137,3 +137,8 @@ Link to game [here](https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game">
 
+### Pinbaal by SpyceBringer and Dennis Gedai Eichert
+
+Link to game [here](https://pinbaal.com)
+
+<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game">
