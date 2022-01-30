@@ -24,8 +24,9 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 <p><a href=#raffle-3--ethereum-theme->Raffle 3 (Chủ Đề Ethereum)</a></p>
 <p><a href=#raffle-4--layer-2-theme->Raffle 4 (Chủ Đề Layer 2)</a></p>
 <p><a href=#raffle-5--partnerships-theme->Raffle 5 (Chủ Đề Các Đối Tác)</a></p>
+<p><a href=#raffle-6--defi-rpg-theme->Raffle 6 (DeFi RPG Theme)</a></p>
 <li><a href=#portal-raffles>Xổ Số Portal</a></li>
-<p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Mở bán Portal Haunt 2)</a></p>
+<p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
 <li><a href=#land-raffles>Xổ Số Land</a></li>
 <p><a href=#raffle-1>Raffle 1</a></p>
 <p><a href=#raffle-2>Raffle 2</a></p>
@@ -51,9 +52,12 @@ table_wearableRaffle4
 ### Raffle 5 (Chủ Đề Các Đối Tác)
 table_wearableRaffle5
 
+### Raffle 6 (DeFi RPG Theme)
+table_wearableRaffle6
+
 ## Xổ Số Portal
 
-### Raffle 1 (Mở bán Portal Haunt 2)
+### Raffle 1 (Haunt 2 Portal Drop)
 table_portalRaffle1
 
 ## Xổ Số Land
@@ -66,6 +70,6 @@ table_landRaffle2
 
 ## Biểu đồ
 
-Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
+What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
