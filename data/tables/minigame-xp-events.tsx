@@ -88,6 +88,19 @@ export const tables
 					["Top 100", "15 XP"]
                 ]
             }
-        },	
+        },
+		
+		{
+            tableName: "pinbaal",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    [">125,000 points", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"]
+                ]
+            }
+        },
 
     ]
