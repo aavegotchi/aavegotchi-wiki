@@ -27,6 +27,7 @@ Trang này sẽ liệt kê chi tiết những sự kiện XP minigame trong quá
 <li><a href=#whac-a-rofl>Whac-a-Rofl</a></li>
 <li><a href=#astegotchi>Astegotchi</a></li>
 <li><a href=#sushi-vader--2->Sushi Vader (2)</a></li>
+<li><a href=#pinbaal>Pinbaal</a></li>
 </ol>
 
 </div>
@@ -66,4 +67,10 @@ table_astegotchi
 Thời gian: 4 - 11 tháng Sáu 2022
 
 table_sushiVader2
+
+## Pinbaal
+
+Event Duration: 29 January - 5 February 2022
+
+table_pinbaal
 
