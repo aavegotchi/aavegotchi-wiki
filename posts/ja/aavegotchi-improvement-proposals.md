@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-こんにちは〜フレンズ！ Aavegotchi Improvement Proposal(AGIPs) 改善提案に参加する事はステーブルマスターの責任です! 投票して声を聞かせるのが必要です。
+こんにちは〜フレンズ！ Aavegotchi Improvement Proposal(AGIPs) 改善提案に参加する事はステーブルマスターの責任です!    みんなの声を投票することはとても大切なことです。
 
 コミュニティとしてどれぐらい進歩してきたのでしょうか。 過去の投票のアーカイブをご覧ください！
 
