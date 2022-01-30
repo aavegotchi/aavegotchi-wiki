@@ -124,4 +124,20 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "wearableRaffle6",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
+                data: [
+                    ["Common", "5000", "1526284", "0.00327593"],
+                    ["Uncommon", "2000", "303086", "0.006598787"],
+                    ["Rare", "1000", "211757", "0.004722394"],
+					["Legendary", "400", "78507", "0.005095087"],
+					["Mythical", "200", "50014", "0.00399888"],
+					["Godlike", "15", "6171", "0.002430724"]
+                ]
+            }
+        },
     ]
