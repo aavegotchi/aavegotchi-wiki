@@ -20,14 +20,14 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
+<li><a href=#non-haunt-specific-eye-shapes>非特異的な目の形</a></li>
 <li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specific Eye Shapes</a></li>
 <li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specific Eye Shapes</a></li>
 </ol>
 
 </div>
 
-## Non-Haunt-specific Eye Shapes
+## 非特異的な目の形
 
 table_eyeShape
 
