@@ -7,40 +7,40 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Before interacting with any contracts, do check against these addresses to ensure that it is the right one!
+こんにちは〜フレンズ！ Aavegotchiコントラクトアドレスのリポジトリへようこそ。 コントラクターを利用する前に、アドレスをチェックして、正しいアドレスかどうかを確認してください！
 
-**Do NOT send funds to these addresses!**
+**このページにあるアドレスに資金を送らない事にご注意ください！**
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
-<li><a href=#contract-addresses-on-polygon>Contract Addresses on Polygon</a></li>
+<li><a href=#contract-addresses-on-mainnet>メインネットのアドレス</a></li>
+<li><a href=#contract-addresses-on-polygon>ポリゴンのアドレス</a></li>
 </ol>
 
 </div>
 
-## Contract Addresses on Mainnet
+## メインネットのアドレス
 
-* GHST Token Address: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
+* GHST トークン アドレス: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
 
-* DAO Address: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
+* DAOアドレス: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
 
-* Aavegotchi Address: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
+* Aavegotchi アドレス: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
 
-## Contract Addresses on Polygon
+## ポリゴンのアドレス
 
-* GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
+* GHSTトークンアドレス: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
 
-* stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+* stkGHST-QUICK アドレス: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
 
-* stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
+* stkGHST-USDC ステーキングプール: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
-* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+* GHST-WETH ステキングプール: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
 
-* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+* DAO アドレス: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
 * Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
