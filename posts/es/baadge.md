@@ -1,35 +1,35 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baadges'
-description: 'Aavegotchi Baadges'
+title: 'Insignias Aavegotchi'
+description: 'Qué son y como conseguir Insignias Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Las insignias de Aavegotchi son NFT ERC-1155 no transferibles que conmemoran la participación de tu Gotchi en un evento especial. Una vez que se envía una insignia a tu Gotchi, permanece para siempre en su [Bolsillo](/aavegotchi-profile#gotchi-pocket).
 
-Baadges could be earned in a variety of ways:
+Las insignias se pueden ganar de diversas maneras:
 
-* Getting into the Top 10/100 for Rarity Farming
-* Participating in an event
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
-* .....And many more!
+* Entrando en el Top 10/100 del Rarity Farming
+* Participando en un evento
+* Participando en una votación importante del AavegotchiDAO
+* Rompiendo la puntuación más alta de un minijuego
+* .....Y mucho más!
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Mantén los ojos abiertos para más insignias. Serán anunciadas por el equipo cuando estén disponibles.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#list-of-baadges>List of Baadges</a></li>
+<li><a href=#list-of-baadges>Lista de Insignias</a></li>
 </ol>
 
 </div>
 
-## List of Baadges
+## Lista de Insignias
 
-table_baadge
+tabla_insignias
 
