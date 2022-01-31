@@ -10,4 +10,4 @@ tags:
   - "Blocknative"
 ---
 
-Page not found, fren!
+申し訳ございませんフレン、ページが見つかりません！
