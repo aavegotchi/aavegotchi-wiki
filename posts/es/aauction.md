@@ -9,7 +9,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">Casa de Subaastas</p>
 </div>
 
 "VR Headset going for 3000 GHST"
