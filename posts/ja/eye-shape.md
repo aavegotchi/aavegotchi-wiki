@@ -7,17 +7,17 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-"Eyeing some eyes?"
+「目を探してますか？」
 
-"Aye!"
+「アイ、そうです」
 
-Check out the full list of Aavegotchi Eye Shapes (EYS) here!
+ここでAavegotchiアイシェイプ「目の形」(EYS)のリストをチェックしましょう!
 
-*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
+*注意: 目の形には色は含まれていません。 希少性と担保の種類によって異なります。*
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
