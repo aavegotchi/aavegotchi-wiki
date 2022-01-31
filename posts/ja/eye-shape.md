@@ -21,8 +21,8 @@ contributors:
 
 <ol>
 <li><a href=#non-haunt-specific-eye-shapes>非特異的な目の形</a></li>
-<li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specific Eye Shapes</a></li>
-<li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specific Eye Shapes</a></li>
+<li><a href=#haunt-1-specific-eye-shapes>(H1)召喚第一の目の形</a></li>
+<li><a href=#haunt-2-specific-eye-shapes>(H2)召喚第二の目の形</a></li>
 </ol>
 
 </div>
@@ -31,11 +31,11 @@ contributors:
 
 table_eyeShape
 
-## Haunt 1-specific Eye Shapes
+## (H1)召喚第一の目の形
 
 table_haunt1EyeShape
 
 
-## Haunt 2-specific Eye Shapes
+## (H2)召喚第二の目の形
 
 table_haunt2EyeShape
