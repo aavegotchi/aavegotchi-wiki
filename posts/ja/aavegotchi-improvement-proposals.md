@@ -51,9 +51,9 @@ Aavegotchiコミュニティの投票で、タップを月に5万DAI/月から10
 
 今後の予算では、追加の5万DAIを4つの異なるカテゴリに展開します。
 * 主要なゲーム開発者との条件を統合できるようにするための資金提供を行うゲームクリエイター。
-* Additional contracts for key positions in marketing, design, and development.
-* A marketing boost to make sure Aavegotchi’s presence is expanded.
-* Community rewards so we can continue to develop programs (like the Aartists and Aapprentices teams) that incentivize the most inspired in our community.
+* マーケティング、デザイン、ゲーム開発における追加の採用。
+* Aavegotchiのプレゼンスを確実に拡大するためのマーケティングブースト。
+* コミュニティで最も刺激を受けたプログラム（アーティストチームやAaprentice(見習い) チームなど）を開発するための報酬を提供します。
 
 **Voting Period:** 15 - 19 October 2020
 
@@ -78,7 +78,7 @@ This is possible to do by calling the `updateFees` function on our bonding curve
 
 Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
 
-**Voting Period:** 18 - 21 January 2021
+**投票期間：** 2020年1月18日〜21日
 
 **結果:**
 
@@ -99,7 +99,7 @@ What burning does do is trap DAI within the bonding curve, essentially increasin
 
 In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
 
-**Voting Period:** 18 - 21 January 2021
+**投票期間：** 2020年10月18日〜21日
 
 **結果:**
 
@@ -124,7 +124,7 @@ Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
 
 Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange for 100 GHST. When the pre-sale period closes, all Portals are minted and transferred to their owners.
 
-**Voting Period:** 17 - 24 March 2021
+**投票期間：** 2020年3月17日〜24日
 
 **結果:**
 
@@ -149,7 +149,7 @@ Option 2: Each Haunts should have it’s own unique background
 
 Option 3: Neither, leave it as is
 
-**Voting Period:** 17 - 24 March 2021
+**投票期間：** 2020年3月17日〜24日
 
 **結果:**
 
@@ -172,7 +172,7 @@ Option 1: Yes, increase fees from 3 to 3.5
 
 Option 2: No, leave the fees as they are
 
-**Voting Period:** 7 - 13 April 2021
+**投票期間：** 2021年4月7日〜13日
 
 **結果:**
 
@@ -201,7 +201,7 @@ Option 1: Yes, successful SigProps give XP
 
 Option 2: No, SigProps should not give XP
 
-**Voting Period:** 12 - 18 May 2021
+**投票期間：** 2020年5月12日〜18日
 
 **結果:**
 
@@ -222,7 +222,7 @@ Option 1: Yes, give Voting Power to Aavegotchi based on BRS
 
 Option 2: No, Aavegotchis shouldn’t have Voting Power
 
-**Voting Period:** 11 - 17 June 2021
+**投票期間：** 2021年6月11日〜17日
 
 **結果:**
 
@@ -243,7 +243,7 @@ Option 1: Yes, give Voting Power to Wearables based on Maall Price
 
 Option 2: No, Wearables shouldn’t have Voting Power
 
-**Voting Period:** 11 - 17 June 2021
+**投票期間：** 2021年6月11日〜17日
 
 **結果:**
 
@@ -264,7 +264,7 @@ Option 1: Yes, let's partner with DinoSwap
 
 Option 2: No, don't partner with Dinoswap
 
-**Voting Period:** 13 - 20 June 2021
+**投票期間：** 2021年6月13日〜20日
 
 **結果:**
 
@@ -307,7 +307,7 @@ Option 1: Yes, create the FRENS Committee
 
 Option 2: No, keep everything as it is
 
-**Voting Period:** 17 - 25 August 2021
+**投票期間：** 2021年8月17日〜25日
 
 **結果:**
 
@@ -330,7 +330,7 @@ Option 1: Yes, launch Haunt 2
 
 Option 2: No, do not launch Haunt 2 now
 
-**Voting Period:** 19 - 26 July 2021
+**投票期間：** 2021年7月19日〜26日
 
 **結果:**
 
@@ -371,7 +371,7 @@ Option 1: Yes, implement aging incentives
 
 Option 2: No, do not implement right now
 
-**Voting Period:** 2 - 9 October 2021
+**投票期間：** 2021年10月2日〜9日
 
 **結果:**
 
@@ -406,7 +406,7 @@ Option 1: Yes, give FRENS to GHST-MATIC
 
 Option 2: No, don't give FRENS
 
-**Voting Period:** 12 - 19 November 2021
+**投票期間：** 2021年11月12日〜19日
 
 **結果:**
 
@@ -441,7 +441,7 @@ Option 1: Yes, establish the WTF
 
 Option 2: No, don't establish the WTF
 
-**Voting Period:** 12 - 19 November 2021
+**投票期間：** 2021年11月12日〜19日
 
 **結果:**
 
@@ -478,7 +478,7 @@ Option 1: Yes, stake 100k GHST
 
 Option 2: No, wait for Aarcade DAO
 
-**Voting Period:** 10 - 17 December 2021
+**投票期間：** 2021年12月10日〜17日
 
 **結果:**
 
@@ -523,7 +523,7 @@ Option 3: Voting power from auction floor
 
 Option 4: No voting power for REALM
 
-**Voting Period:** 10 - 17 December 2021
+**投票期間：** 2021年12月10日〜17日
 
 **結果:**
 
@@ -578,7 +578,7 @@ We are setting a 500,000 GHST quorum for this vote to be enacted.
 
 The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Voting Period:** 8 - 11 February 2021
+**投票期間：** 2021年2月8日〜11日
 
 **結果:**
 
@@ -614,7 +614,7 @@ AavegotchiDAO discussion topic 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**投票期間：** 2021年2月23日〜26日
 
 **結果:**
 
