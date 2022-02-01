@@ -45,12 +45,12 @@ contributors:
 ### スケールアップする為にボンディングカーブのタップを増やす
 **Aavegotchi改善提案1番**
 
-**提案の概要:** GHSTボンディングカーブは1か月間有効です。 GHSTホルダーはDAICOのタップメカニズムを調整する事が出来ます。 AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
+**提案の概要:** GHSTボンディングカーブは1か月間有効です。 GHSTホルダーはDAICOのタップメカニズムを調整する事が出来ます。 AavegotchiDAO 1.0は、Aragonプラットフォーム上に構築されており、GHST保有者が月に1回投票して、コアチームへの資金の流れを調整できる簡単なDAICOとして機能します。 このタップは、現在750万DAI以上が確保されているGHSTボンディングカーブから直接提供出来ます。
 
-We request the Aavegotchi community vote to increase the tap from 50K DAI / 30 days to 100K DAI / 30 days. 50k DAI was not enough to cover all of the milestones achieved (community growth, GHST token, game development) and the next sprint is even more ambitious. The hard coded constraints of AavegotchiDAO 1.0 limit this proposal to only a 50K DAI increase for this month’s voting period and thus we have budgeted our strategy with a total 100k DAI tap in mind.
+Aavegotchiコミュニティの投票で、タップを月に5万DAI/月から10万DAI/月に増やすようにお願いします。 50万DAIは、達成されたのマイルストーン（コミュニティの成長、GHSTトークン、ゲーム開発）をカバーするのに十分ではなく、次のスプリントはさらに野心的です。 AavegotchiDAO 1.0のハードコードされた制約により、この提案は今月のDAIの増加が5万DAIに制限されているため、合計10万の予算を立てました。
 
-The budget going forward deploys the additional 50k DAI into 4 distinct categories:
-* A game maker’s fund so we can solidify terms with key game developers.
+今後の予算では、追加の5万DAIを4つの異なるカテゴリに展開します。
+* 主要なゲーム開発者との条件を統合できるようにするための資金提供を行うゲームクリエイター。
 * Additional contracts for key positions in marketing, design, and development.
 * A marketing boost to make sure Aavegotchi’s presence is expanded.
 * Community rewards so we can continue to develop programs (like the Aartists and Aapprentices teams) that incentivize the most inspired in our community.
