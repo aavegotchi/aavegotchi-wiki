@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+title: 'Casa de Subaastas'
+description: 'Casa de Subaastas Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -56,14 +56,14 @@ La Casa de Subastas tiene 4 pestañas con las que interactuar los usuarios. Se p
 
 * **Instrucciones**: Una breve descripción de cómo funcionan las subastas de Aavegotchi
 * **Subastas abiertas**: Una lista de subastas abiertas en las que puedes participar
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Mis Pujas**: Una lista de subastas abiertas donde has pujado. También mostrará las ofertas históricas. Cuando una subasta se cierra y ganaste esa puja en particular, puedes venir aquí para reclamar tus ganancias
+* **Mis pagos**: Una lista de las subastas en las que has sido superado por otros y las ganancias que recibiste de ellos. Las ganancias irán directamente a tu dirección de billetera, sin necesidad de que lo reclames manualmente
 
 ## Mecanismos de subasta
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Las subastas Aavegotchi son alimentadas por el formato de subastas Gonnaud-Bessire-McDonaugh (GBM). First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+En una subasta estandar, sólo hay un ganador y todos los demás pierden. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
 
 You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
 
