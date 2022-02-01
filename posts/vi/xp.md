@@ -14,43 +14,43 @@ Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm (XP). Nhưng
 **Nội dung**
 
 <ol>
-<li><a href=#gaining-xp>Gaining XP</a></li>
+<li><a href=#gaining-xp>Kiếm XP</a></li>
 <li><a href=#formula>Công thức</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
-<li><a href=#tracking-xp-received>Tracking XP received</a></li>
+<li><a href=#experience-table>Bản Kinh Nghiệm</a></li>
+<li><a href=#tracking-xp-received>Theo dõi lượng kinh nghiệm đã nhận được</a></li>
 </ol>
 
 </div>
 
-## Gaining XP
+## Kiếm XP
 Aavegotchi có thể nhận được kinh nghiệm (XP) khi:
 * Bỏ phiếu cho những đề xuất quan trọng trong [AavegotchiDAO](/dao)
 * Tham gia vào các sự kiện được tổ chức trong Aavegotchi Discord (một bản Typeform sẽ được công bố trong sự kiện để mọi người có thể hoàn thành và nhận được XP cho Gotchi)
 * Chơi [mini-games](/minigames) (trong một thời gian nhất định, được công bố trên Discord)
 
 ## Công thức
-The following formula is used to determine the XP required for the next level:
+Công thức sau được dùng để xác định lượng XP cần có để lên cấp tiếp theo:
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+(Cấp độ hiện tại ^ 2) ÷ Hằng số, với hằng số = 0.02
 
-## Experience Table
+## Bản Kinh Nghiệm
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+Bản dưới đây cho thấy lượng XP cần có cho mỗi cấp. Trướng khi đào sâu vào dữ liệu, ở đây có một vài định nghĩa hữu ích cũng những thuật ngữ then chốt sẽ được dùng:
 
-* Current Level: Current Level of your Gotchi
-* Next Level: Next Level of your Gotchi
-* XP: Experience required to reach the next level that is specified in the **Next Level** column
-* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
-* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
+* Cấp Hiện Tại: Cấp Hiện Tại của Gotchi
+* Cấp Tiếp Theo: Cấp Tiếp Theo của Gotchi
+* XP: Kinh nghiệm nhận được khi đạt đến cấp độ tiếp theo, được chỉ ra trong cột **Next Level**
+* Khác biệt: Khác biệt trong XP được yêu cầu để có thể đạt được cấp độ trong cột **Next Level** khi so sánh với cột tương tự trong hàng trước
+* Hằng số: Một gái trị cố định được dùng trong việc tính toán lượng XP cần để dùng Công Thức Tính Cấp Tiếp Theo
 
-The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+Cấp độ cao nhất mà một aavegotchi có thể đạt được là 99. Bất kỳ sự thay đổi nào về cấp độ tối đã có thể được chấp thuận thông qua những đề nghị của [AavegotchiDAO](/dao).
 
-*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
+*Chú ý: Aavegotchi bắt đầu với Cấp Độ 1. "Level 0" bao gồm trong bảng dành cho những ai muốn áp dụng công thức và xem XP được tính như thế nào.*
 
 table_XP
 
-## Tracking XP received
+## Theo dõi lượng kinh nghiệm đã nhận được
 
-Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+[aarchitect](/aarchitect) thân thiện của bọn mình là Frank Pfeift đã tạo ra một ứng dựng để theo dõi lượng XP mà Gotchi đã nhậnd được trong trọn đời.
 
-His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
+Các bạn có thể truy cập vào ứng dụng này tại [đây](https://aavegotchi-xp-dashboard.vercel.app). Gotchi ID của bạn là những chữ số nằm ở cuối URL của trang [Gotchi Profile Page](/aavegotchi-profile).

@@ -40,6 +40,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#participating-in-gbm-auctions>Tham gia đấu giá GBM</a></li>
 <li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
+<li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
 </ul>
 
 </div>
@@ -151,3 +152,10 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Tìm hiểu về các tính năng khiến mọi người săn lùng gói đất REALM
 * Tìm hiểu cách định vị bản đồ Đấu Giá
 * Tìm hiểu các chiến thuật Đấu Giá
+
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+
+* Learn about Traits
+* Learn about the Bell Curve
+* Learn about how Wearables affect Traits
+* Learn about what community resources are available

@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [Rarity Farming Season 2 Baadges are out!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
+* Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
+<p></p>
+
 ## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
 * Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
 <p></p>

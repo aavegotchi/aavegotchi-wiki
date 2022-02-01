@@ -247,10 +247,12 @@ Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Impro
 
 Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
 
+Hãy bỏ phiếu cho các bản đề xuất để nhận [huy hiệu POAP](/poap) cho việc đó nhé!
+
 ## Ngân Quỹ
 
 AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
 Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-The AavegotchiDAO Treasury có thể truy cập vào tại [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO Treasury có thể truy cập vào tại [đây](https://aavegotchi.com/treasury).

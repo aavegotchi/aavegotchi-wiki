@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchiメタバースゲームプレイは近日公開予定です! Aavegotchiメタバースでは、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフランズを作りましょう！
+Aavegotchiメタバースゲームプレイは近日公開予定です! Aavegotchiメタバースでは、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフレンズを作りましょう！
 
 <div class="contentsBox">
 
@@ -26,6 +26,6 @@ table_guild
 
 ## ギルドの地図
 
-ギルドは地区で自分たちを組織します。 次のギルド地図はAvid AavegotchisのMonsterRNG#333333によって編集されました。
+ギルドで地区を組織します。 次のギルド地図はAvid AavegotchisのMonsterRNG#333333によって編集されました。
 
 <img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />

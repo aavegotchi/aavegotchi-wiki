@@ -26,7 +26,8 @@ contributors:
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
-<li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
+<li><a href=#Blog>Blog</a></li>
+<li><a href=#aavegotchi-malaysia>Аавеготчи Малайзия</a></li>
 </ol>
 
 </div>
@@ -65,13 +66,17 @@ contributors:
 
 <p style="margin-left: 4.8em">Хотите увидеть прикольные мемы о Готчи и игре в целом, или желаете поделиться своим творением — приглашаем в Реддит. Общайтесь, делитесь информацией, становитесь частью сообщества! Мы уверены, что вы отлично проведете время в нашем сабреддите Аавеготчи. Смейтесь, расслабляйтесь и заряжайтесь позитивом на целый день!</p>
 
-&nbsp;
+&nbsp;<a name="Blog"></a>
 
-Будем рады познакомиться с тобой, дружище! Переходи в любой канал, чтобы получить дополнительную информацию.
+<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
+
+<p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+
+We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 
 ## Аавеготчи Малайзия
 
-Малазийская группа Аавеготчи — это место, где можно найти единомышленников и пообщаться с представителями фан-клуба из Малайзии. Посетите [группу](https://www.facebook.com/groups/aavegotchimalaysia) в Фейсбуке! Вас приглашает официальный амбассадор из Малайзии Базз Лайтер/Джейсон Чу!
+Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
 
 
 

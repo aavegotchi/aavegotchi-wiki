@@ -26,6 +26,7 @@ contributors:
 <p><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></p>
 <p><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></p>
 <p><a href=#raffle-5--partnerships-theme->Raffle 5 (Partnerships Theme)</a></p>
+<p><a href=#raffle-6--defi-rpg-theme->Raffle 6 (DeFi RPG Theme)</a></p>
 <li><a href=#portal-raffles>Portal Raffles</a></li>
 <p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
 <li><a href=#land-raffles>Land Raffles</a></li>
@@ -52,6 +53,9 @@ table_wearableRaffle4
 
 ### Raffle 5 (Partnerships Theme)
 table_wearableRaffle5
+
+### Raffle 6 (DeFi RPG Theme)
+table_wearableRaffle6
 
 ## Portal Raffles
 

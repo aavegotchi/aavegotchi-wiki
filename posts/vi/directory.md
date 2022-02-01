@@ -81,11 +81,13 @@ contributors:
 
 * [Đối tác](/partners)
 
+* [POAP](/poap)
+
 * [Polygon](/polygon)
 
 * [Portals](/portals)
 
-* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
+* [Dự Liệu Về Sự Kiện Rafle Trong Quá Khứ](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 

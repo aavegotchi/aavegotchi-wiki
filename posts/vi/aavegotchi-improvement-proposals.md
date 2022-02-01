@@ -11,6 +11,8 @@ Chào mấy fen. Tham dự vào Aavegotchi Improvement Proposals (AGIPs) là đi
 
 Cộng đồng của chúng ta đã phát triển đến mức nào rồi? Hãy xem qua thông tin lưu trữ về những lần bầu chọn đã qua tại đây nhé!
 
+Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP trước đây!
+
 <div class="contentsBox">
 
 **Nội dung**
@@ -220,7 +222,7 @@ Phương án 1: Vâng, trao quyền bỏ phiếu cho Aavegotchi dựa trên BRS
 
 Phương án 2: Không, Aavegotchi không nên có quyền bỏ phiếu
 
-**Thời gian vote:**11 - 17 tháng Năm 2021
+**Thời gian vote:**11 - 17 tháng 7 Năm 2021
 
 **Kết quả:**
 
@@ -241,7 +243,7 @@ Phương án 1: Vâng, trao quyền bỏ phiếu cho trang phục dựa trên gi
 
 Phương án 2: Không, trang phục không nên có quyền bỏ phiếu
 
-**Thời gian vote:**11 - 17 tháng Năm 2021
+**Thời gian vote:**11 - 17 tháng 7 Năm 2021
 
 **Kết quả:**
 
@@ -363,7 +365,7 @@ Giải pháp này giúp tăng chỉ số một cách nhanh chóng chỉ trong m�
 
 * **Sự tích hợp này sẽ diễn ra vào lúc Rarity Farming Mùa 2 bắt đầu.** Một trong những mục đích của cơ chế trưởng thành là mang đến một bước đệm cho hiệu ứng của phương sai số liệu một khi thế hệ haunt mới được công bố. Để Haunt 1 có thể trải nghiệm xem việc này có mang lại tác dụng gì không thì nó cần phải được triển khai càng sớm càng tốt, bởi vào giữa màu 2, các gotchi H2 đều gần như sẽ đuổi kịp chỉ số cộng thêm của H1, và cách biệt chỉ 1 2 điểm BRS mà thôi.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi. medium. com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
 Phương án 1: Vâng, tích hợp cơ chế trưởng thành
 

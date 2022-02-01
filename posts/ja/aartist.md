@@ -5,14 +5,14 @@ title: 'Aavegotchiアーティスト'
 description: 'ここでAavegotchiアーティストに会いましょう!'
 ---
 
-何がカッコいいかしら？ 私たちのコミュニティアーストです！ ここで彼らの作品を知ることが出来ます!
+何がいいかしら？ 私たちのコミュニティアーストです！ ここで彼らの作品を知ることが出来ます!
 
 <div class="contentsBox">
 
 **内容**
 
 <ol>
-<li><a href=#aartists>アアーティスト</a></li>
+<li><a href=#aartists>アーティスト</a></li>
 <li><a href=#cawito>Cawito</a></li>
 <li><a href=#esveebee>Esveebee</a></li>
 <li><a href=#ka-wai-leong>Ka Wai Leong</a></li>
@@ -25,7 +25,7 @@ description: 'ここでAavegotchiアーティストに会いましょう!'
 
 </div>
 
-## アアーティスト
+## アーティスト
 
 table_aartist
 
