@@ -63,17 +63,17 @@ La Casa de Subastas tiene 4 pestañas con las que interactuar los usuarios. Se p
 
 Las subastas Aavegotchi son alimentadas por el formato de subastas Gonnaud-Bessire-McDonaugh (GBM). First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
-En una subasta estandar, sólo hay un ganador y todos los demás pierden. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+En una subasta estandar, sólo hay un ganador y todos los demás pierden. Muchas subastas no atraen suficientes pujadores y algunos no tienen ninguna. GBM™ convierte cualquier subasta en una gran experiencia en la que o ganas o ganas dinero.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Haces una puja, y si alguien te supera,obtienes tu puja de vuelta, más una parte del bote llamado un incentivo.
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Subasta GBM Aavegotchi" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Cuando se hace una nueva oferta, una fórmula calcula cuánto dinero ganará el pujador como incentivo si la oferta es superada. Esto es personalizable dependiendo de cuánto quiera que ganen los pujadores. Cada pujador que es sobrepujado gana un incentivo, y  la oferta más alta al final de la subasta gana, con el vendedor recibiendo lo que queda en el pote.
 
 ## Subastas anteriores
 
-* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 15 - 18 de julio de 2021: [Primera subasta con el Set de Gamer y de Steampunk ](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
 * 26 - 29 de agosto de 2021: [12.000 portales del ritual 2, 13,944 artículos de ropa](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
