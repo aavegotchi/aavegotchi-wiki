@@ -61,7 +61,7 @@ La Casa de Subastas tiene 4 pestañas con las que interactuar los usuarios. Se p
 
 ## Mecanismos de subasta
 
-Las subastas Aavegotchi son alimentadas por el formato de subastas Gonnaud-Bessire-McDonaugh (GBM). First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Las subastas Aavegotchi son alimentadas por el formato de subastas Gonnaud-Bessire-McDonaugh (GBM). Los pioneros fueron Cryptographs en 2019, la subasta GBM es un sistema pendiente de patente, y Pixelcraft Studios ha sido oficialmente licenciado para utilizarlo en todos los Aavegotchi NFT Drops, incluyendo Ritual 2, parcelas, e incluso Ropa.
 
 En una subasta estandar, sólo hay un ganador y todos los demás pierden. Muchas subastas no atraen suficientes pujadores y algunos no tienen ninguna. GBM™ convierte cualquier subasta en una gran experiencia en la que o ganas o ganas dinero.
 
