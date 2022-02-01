@@ -76,7 +76,7 @@ Aavegotchiのマーケットメーカーは、注文を売買するための手�
 
 ボンディングカーブの `updateFees` ファンクションを呼び出すことで可能ですが、そうすべきでしょうか? それは、AavegotchiDAOコミュニティ次第です。
 
-Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
+獲得した手数料は、自動的にDAOトレジャリーアドレス0xffe6280ae4e864d9af836b562359fd828ece8020に送金され、AavegotchiDAOの資産と見なされます。
 
 **投票期間：** 2020年1月18日〜21日
 
@@ -91,9 +91,9 @@ table_agip2
 ### GHST購入のDAICOタップを増やす
 **Aavegotchi改善提案3番**
 
-**Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
+**改善提案:**プレーヤーの報酬と流動性インセンティブは、取引量と経済活動で自立するためにAavegotchiエコシステムをブートストラップするために重要です。
 
-Whenever GHST is spent in the Aavegotchi ecosystem, 33% of it is automatically sent to a burn address. Unlike most cryptocurrencies, burning GHST (except via the bonding curve) does not actually lower the total value of GHST, since that value is stored as DAI within the bonding curve.
+GHSTトークンがAavegotchiエコシステムで使用されるたびに、33％が自動的にバーンアドレスに送信されます。 ほとんどの暗号通貨とは異なり、GHSTバーン（ボンディングカーブを除く）は、実際にはGHSTの合計値を下げません。これは、その値がボンディングカーブにDAIとして保存されるためです。
 
 What burning does do is trap DAI within the bonding curve, essentially increasing the reserve ratio over time, which stabilizes the price of GHST.
 
