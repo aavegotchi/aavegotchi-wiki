@@ -26,6 +26,24 @@ export const tables
             }
         },
 		
+	    {
+            tableName: "chatCommands",
+            tableCaption: "",
+            tableData: {
+                headers: ["Hotkey", "Animation"],
+                data: [
+                    [`H`, `<b>H</b>eart`],
+					[`N`, `Spi<b>N</b>`],
+					[`E`, `<b>E</b>xclamation point`],
+					[`F`, `Happy <b>F</b>ace`],
+					[`U`, `<b>U</b>nhappy Face`],
+					[`O`, `<b>O</b>MG`],
+					[`B`, `<b>B</b>urning Fire`],
+					[`L`, `<b>L</b>ightning`]
+				]
+            }
+        },
+		
         {
             tableName: "installations",
             tableCaption: "",
