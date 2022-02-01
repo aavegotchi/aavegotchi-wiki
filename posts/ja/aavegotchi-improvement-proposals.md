@@ -55,26 +55,26 @@ Aavegotchiコミュニティの投票で、タップを月に5万DAI/月から10
 * Aavegotchiのプレゼンスを確実に拡大するためのマーケティングブースト。
 * コミュニティで最も刺激を受けたプログラム（アーティストチームやAaprentice(見習い) チームなど）を開発するための報酬を提供します。
 
-**Voting Period:** 15 - 19 October 2020
+**投票期間：** 2020年10月15日〜19日
 
 **結果:**
 
 table_agip1
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
+[Aragonへのリンク](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
 <hr />
 
 ### ボンディングカーブに手数料を加算
 **Aavegotchi改善提案2番**
 
-**Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
+**提案の概要：** ボンディングカーブはGHSTの流動性の主な源です。 大規模な買い手と売り手は現在、手数料なしでやり取りできます。
 
-Our market maker offers the ability to add fees to buy and sell orders.
+Aavegotchiのマーケットメーカーは、注文を売買するための手数料を追加する機能を提供しています。
 
-Multiple community members have proposed adding fees up to 0.3% to buying and selling on the curve.
+複数のコミュニティメンバーが、カーブでの売買に最大0.3％の手数料を追加することを提案しています。
 
-This is possible to do by calling the `updateFees` function on our bonding curve, but should we? It’s up to you, AavegotchiDAO.
+ボンディングカーブの `updateFees` ファンクションを呼び出すことで可能ですが、そうすべきでしょうか? それは、AavegotchiDAOコミュニティ次第です。
 
 Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
 
@@ -84,7 +84,7 @@ Any fees earned would automatically be transferred to the DAO Treasury address a
 
 table_agip2
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
+[Aragonへのリンク](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
 <hr />
 
@@ -105,7 +105,7 @@ In order to offset the burning (which could ultimately turn GHST into a stableco
 
 table_agip3
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+[Aragonへのリンク](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
 
 <hr />
 
