@@ -29,6 +29,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
@@ -126,6 +127,12 @@ By default, text chat will be enabled for all Gotchis in proximity to each other
 Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [stats](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+
+## Chat Commands
+
+The following table shows the chat commands in the Gotchiverse.
+
+table_chatCommands
 
 ## Gotchus Alchemica
 
