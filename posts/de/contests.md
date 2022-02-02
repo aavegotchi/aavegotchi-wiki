@@ -18,6 +18,7 @@ Hey Aavegotchi Fam! Von Zeit zu Zeit werden wir verschiedene Aavegotchi-Wettbewe
 <li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content-Wettbewerb</a></li>
 <li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
+<li><a href=#defi-rpg-wearables-meme-contest>DeFi RPG Wearables Meme Contest</a></li>
 </ol>
 
 </div>
@@ -99,3 +100,16 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 ### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
+
+## DeFi RPG Wearables Meme Contest
+
+### <span style="color:gold">1st place: Thrax</span>
+
+<img class="bodyImage" src="/contests/thrax.jpg" />
+
+### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
+
+### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
+
+<img class="bodyImage" src="/contests/occams_schick.png" />
