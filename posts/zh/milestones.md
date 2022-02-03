@@ -7,6 +7,20 @@ contributors:
   - "chinyh"
 ---
 
+## [Vote on AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
+* AGIP 19: Providing GHST Liquidity on SynFutures
+* AGIP 20: Creating the DAO Treasury Taask Force
+<p></p>
+
+## [GHST Token is now list on Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
+* GHST Token is now live on the Aave Polygon Market!
+<p></p>
+
+## [Gotchiverse Game Bible: Chapter 2 is out!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
+* The Gotchiverse Game Bible: Chapter 2 is out!
+* Topics covered: Alchemica Tokenomics, Installation Traits and Recipes, and Aavegotchi Trait Mappings!
+<p></p>
+
 ## [Rarity Farming Season 2 Baadges are out!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
 * Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
 <p></p>

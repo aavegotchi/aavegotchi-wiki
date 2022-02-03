@@ -29,6 +29,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
@@ -127,6 +128,12 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
+## Chat Commands
+
+The following table shows the chat commands in the Gotchiverse.
+
+table_chatCommands
+
 ## Gotchus Alchemica
 
 **Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
@@ -188,7 +195,7 @@ REALM Parcels will be distributed in two main ways:
 
 Method 1: Incentivized GBM Auctions (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft StudiosはHaunt2, パーセル, さらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用するために正式にライセンスされています
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft Studios（ピクんセルクラフトスタジオ）は召喚第２, ランドセールさらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用する正式なライセンスとされています
 
 Check out our [Aauction page](/aauction) for more information.
 
