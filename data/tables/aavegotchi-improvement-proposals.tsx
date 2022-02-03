@@ -207,7 +207,7 @@ export const tables
             }
         },
 		
-				{
+		{
             tableName: "agip17",
             tableCaption: "",
             tableData: {
@@ -217,6 +217,18 @@ export const tables
 					["Voting power of 1 GHST/pixel", "4,350,000 GHST (31.34%)"],
 					["Voting power from auction floor", "709,270 GHST (5.11%)"],
 					["No voting power for REALM", "258,090 GHST (1.86%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip18",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, implement Patch v0.1", "14,000,000 GHST (99.99%)"],
+					["No, do not implement Patch v0.1", "1800 GHST (0.01%)"]
 				]
             }
         },
