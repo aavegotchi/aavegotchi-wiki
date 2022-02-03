@@ -7,6 +7,15 @@ contributors:
   - "007"
 ---
 
+## [Vote on AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
+* AGIP 19: Providing GHST Liquidity on SynFutures
+* AGIP 20: Creating the DAO Treasury Taask Force
+<p></p>
+
+## [GHST Token is now list on Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
+* GHST Token is now live on the Aave Polygon Market!
+<p></p>
+
 ## [Gotchiverse Game Bible: Chapter 2 is out!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
 * The Gotchiverse Game Bible: Chapter 2 is out!
 * Topics covered: Alchemica Tokenomics, Installation Traits and Recipes, and Aavegotchi Trait Mappings!
