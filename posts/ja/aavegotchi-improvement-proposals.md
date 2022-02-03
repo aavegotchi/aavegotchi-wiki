@@ -35,9 +35,12 @@ contributors:
 <li><a href=#create-a-wearables-taask-force>ウェアラブルタスクフォースを作成</a></li>
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>ミニゲームリワードを生成するために100kGHSTをステーク</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>区画に投票力を追加</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Aavegotchiマーケットの名称</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENSを獲得するGHST-USDC LPトークンの資格</a></li>
-<li><a href=#portals-purchased-in-one-transaction>1つのトランザクションで購入出来るポータル量</a></li>
+<li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -533,10 +536,191 @@ table_agip17
 
 <hr />
 
-### Aavegotchiマーケットの名称
-**スナップショット投票**
+### Gotchiverse Patch v0.1
+**Aavegotchi Improvement Proposal #18**
 
-**提案概要:** What should the Aavegotchi NFT Marketplace be called?
+**Proposal Summary:**
+
+*問題*
+
+Although the Gotchiverse is not yet live, we have identified a few areas that we believe should be adjusted before the game is released, and would like to bring these items to the community’s attention for discussion and a decision on whether or not to enact.
+
+To ensure no single proposed change can revert the entire batch, we originally created six separate snapshot SigProp Proposals. This CoreProp combines the successful SigProps into the first Gotchiverse Patch v0.1!
+
+*ソリューション*
+
+Patch 0.1a
+
+As we were finalizing key details such as build costs and harvesting rates for the upcoming Whitepaper, we discovered that one of our key assumptions had undervalued the amount of Alchemica in each parcel relative to total supply. The patch will increase the amount of Alchemica under each parcel to match our initial Alchemica tokens’ supplies, allocations, and emissions rates.
+
+The SigProp for Patch 0.1a passed with the following numbers:
+
+Yes: 13.14M GHST
+
+No: 41.85k GHST
+
+Patch 0.1b
+
+Although our original intention was to make boosts one-time only, it is clear that many in the community interpreted the GEO paper to mean that boosts would be replenished. This patch allows boosts to also replenish together with the parcel itself after each Great Battle.
+
+However, unlike parcels, the replenish rate is a fixed amount that is the same per round. For example, a parcel with a “5” FUD boost receives 5 servings of FUD per boost round.
+
+The SigProp for Patch 0.1b also passed pretty convincingly:
+
+Yes: 10.36M GHST
+
+No: 2.37M GHST
+
+Patch 0.1c
+
+Even with Patch 0.1b passed, boosts will still be undervalued compared to the value the market has assigned to them, relative to a similar parcel with no boosts. Patch 0.1c proposed increasing boosts by 5x to bring the value of a boost closer to what the market is currently valuing it at.
+
+The SigProp for Patch 0.1c did not pass and WILL NOT BE INCLUDED in Patch v0.1:
+
+Yes: 5.85M GHST
+
+No: 8.04M GHST
+
+Future SigProps may be created to address this issue separately.
+
+Patch 0.1d
+
+The Gotchiverse Litepaper mentions that Kinship will be exchanged for a serving of Alchemica, essentially “burning” kinship. We certainly want to maintain the idea of a “kinship boost” for channeling but after thinking more deeply, we now believe there is a better way to achieve this.
+
+An “achievements” approach does not require depleting an Aavegotchi’s kinship. Instead, high kinship Aavegotchis will channel Alchemica at a slightly higher rate, depending on their achievement level.
+
+The SigProp for Patch 0.1d also passed:
+
+Yes: 12.64M GHST
+
+No: 431.93k GHST
+
+Patch 0.1e & 0.1f
+
+Districts did not exist as a Citaadel concept when the Litepaper was first published. That said, we have always envisioned an area or areas for Pixelcraft to develop in-depth experiences that add value to the overall game. Likewise, one of our earliest ideas, (predating the Citaadel itself!) was to reserve a town square for real time DAO voting. The idea of having a gamified governance experience was one of the very earliest ideas seeding Aavegotchi’s need for its own virtual world.
+
+Patch 0.1e & 0.1f proposed allocating 1000 parcels each to Pixelcraft and the AavegotchiDAO in D27/D30. Both Patches passed convincingly:
+
+Yes: 11.94M GHST / 12.14M GHST
+
+No: 615.78k GHST / 734.92k GHST
+
+Conclusion
+
+And that’s it for the first Gotchiverse Patch! Now it is up to you, the AavegotchiDAO, to decide if Patch v0.1 should be implemented or not.
+
+Option 1: Yes, implement Patch v0.1
+
+Option 2: No, do not implement Patch v0.1
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
+
+Option 1: Yes, implement Patch v0.1
+
+Option 2: No, do not implement Patch v0.1
+
+**Voting Period:** 5 - 12 January 2022
+
+**結果:**
+
+table_agip18
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x396844d504394f7f335f070d443c33455300ee21d90db6c4b089760a3e0469bf)
+
+<hr />
+
+### Providing GHST Liquidity on SynFutures
+**Aavegotchi Improvement Proposal #19**
+
+**Proposal Summary:**
+
+Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
+
+Great investors and team background SynFutures is backed by Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, and more. The team’s background is a great combination of traditional finance and DeFi. SynFutures is the only project of its kind which can support the listing of any assets by anyone in a permissionless manner (in less than 30s).
+
+Security Backed by solid experience from the TradFi financial engineering and DeFi protocol safety, SynFutures has many risk management features (e.g. anti-flashloan attack, EMA smoothing method, etc.) and has gone through external code audits.
+
+Easy to manage and start SynFutures supports a single token model to add liquidity which means the Aavegotchi Treasury would only have to deposit GHST instead of offering two tokens with the risk of impermanent loss. We are asking for 200k worth of GHST tokens to kickstart the pool. The liquidity could be withdrawn anytime.
+
+Growth Potential Trading volume and users are growing fast on SynFutures. For the past 3 months since the SynFutures Alpha launched, we reached 47k users of and $1bn+ in trading volume. All this happened without a native SynFutures token, which could attract even more users.
+
+Volume analysis Quickswap vs. SynFutures: Total LPs: 150k / 40K Total traders: 100k / 20k Daily trading volume: $100M / $29M
+
+SynFutures trading volume makes up ~1/3rd of QuickSwap, and the amount of traders is 1/5th as big as on QuickSwap, however, the trading volume for different pairs is more concentrated. SynFutures has 108 trading pairs while QuickSwap has more than 22k pairs. For example, the daily trading volume of MATIC-USDC on SynFutures closes in on around $9M, while Quickswap reaches $14M.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
+
+Option 1: Yes, add $200k in GHST
+
+Option 2: No, do not add $200k in GHST
+
+**Voting Period:** 2 - 9 February 2022
+
+**結果:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
+
+<hr />
+
+### Creating the DAO Treasury Taask Force
+**Aavegotchi Improvement Proposal #20**
+
+**Proposal Summary:**
+
+We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
+
+As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+
+Proposed Mission Statement
+
+The Aavegotchi DAO Treasury Taask Force is a dynamic committee assigned with making DAO treasury management proposals to the community and DAO for consideration. The initial mission and goals of the committee will be: 1) Grow and optimize the DAO treasury with an emphasis on safety, security and transparency; 2) Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management; and 3) foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+
+Initial Funding
+
+After lengthy discussions with the task force, the community, and with coderdan, the DTF would like to request an initial 50,000 GHST budget. The 50,000 GHST budget would be transferred from the DAO Treasury to the 8 multi-signature Gnosis Safe. This budget will greatly expand the flexibility of the DAO in incentivizing and rewarding engaged community members, developers, creatives, and overall contributors. This budget will never be used to reward members of the DTF. The DTF’s core main initiative will be to form a proposal for overall use of the DAO Treasury by investing some of the $10 million DAI/GHST in yield bearing opportunities. With effective deployment of the DAO Treasury, even modest returns would more than pay for the DTF budget request. The DTF will ensure comprehensive accounting and provide community facing documentation to ensure transparency. Some potential uses for the budget include the following:
+
+* Reward community engagement and aarcade play
+* Reward game developers and designers
+* Reward community application developers
+* Reward and acknowledge community art contributions
+* Reward, acknowledge and grow content creators and general marketing efforts
+* Expand Aavegotchi and GHST’s opportunities for decentralized financial applications
+
+The DTF is developing a structured plan and multiple potential pilot projects to best utilize these funds. We will work to develop tools to allow maximum transparency into the budget use. Expenses within this 50,000 GHST budget would not require a DAO approval in order to maximize nimble use of the funds. Any further budget requests beyond the initial 50,000 GHST would require a DAO vote.
+
+The initial 8 members of the DTF
+
+* BowtiedNerd
+* Mori
+* letsgobankless
+* Addison
+* Deucehearts
+* BackfireCapital
+* Swappi
+* Dr Wagmi
+
+We appreciate the Aavegotchi community’s support and look forward to our first proposal.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+
+Option 1: Yes, with 50k GHST budget
+
+Option 2: Yes, without 50k GHST budget
+
+Option 3: No, do not create the DTF
+
+**Voting Period:** 2 - 9 February 2022
+
+**結果:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
+
+<hr />
+
+### Name of Aavegotchi Marketplace
+**Snapshot Voting**
+
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
 Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
@@ -562,9 +746,9 @@ table_marketplaceName
 
 <hr />
 
-### FRENSを獲得するGHST-USDC LPトークンの資格
+### Eligibility of GHST-USDC LP tokens to earn FRENS
 
-**スナップショット投票**
+**Snapshot Voting**
 
 **Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
@@ -578,7 +762,7 @@ We are setting a 500,000 GHST quorum for this vote to be enacted.
 
 The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**投票期間：** 2021年2月8日〜11日
+**Voting Period:** 8 - 11 February 2021
 
 **結果:**
 
@@ -588,11 +772,11 @@ table_ghstUsdcLp
 
 <hr />
 
-### 1つのトランザクションで購入出来るポータル量
+### Portals purchased in one transaction
 
-**スナップショット投票**
+**Snapshot Voting**
 
-**提案概要:** How many Portals can be purchased in one transaction?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
 Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
@@ -614,7 +798,7 @@ AavegotchiDAO discussion topic 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**投票期間：** 2021年2月23日〜26日
+**Voting Period:** 23 - 26 February 2021
 
 **結果:**
 
