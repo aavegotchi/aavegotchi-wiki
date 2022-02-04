@@ -40,6 +40,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
 <li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
+<li><a href=#buying-an-aavegotchi>Buying an Aavegotchi</a></li>
 </ul>
 
 </div>
@@ -168,3 +169,10 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 * Learn about the Bell Curve
 * Learn about how Wearables affect Traits
 * Learn about what community resources are available
+
+### Buying an Aavegotchi
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn how to buy an Aavegotchi on the Baazaar
+* Learn how to buy an opened or a closed portal on the Baazaar
+* Learn how to summon your Aavegotchi from an opened portal
