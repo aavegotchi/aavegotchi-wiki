@@ -117,11 +117,11 @@ table_agip3
 
 **提案の概要:**10,000ポータルは、Aavegotchiの現在の需要レベルを満たすに十分ではありません。 したがって、参加したいプレイヤーがAavegotchiを所有できるようにするために、新しい召喚を展開する必要があるでしょうか。 この改善提案は、新しい召喚を作成しない1つのオプションを含んで、コミュニティメンバーによって提案された4つの異なるオプションを提供します。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+改善提案の詳細は [こちら](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
 
-Option 1: No new haunt, Revisit in a month
+オプション1：新しい召喚なし、1ヶ月後で再度見直します。
 
-Option 2: 10K Portals, 100 GHST each, 1 per txn
+オプション2：1万ポータル、それぞれ100 GHST、1txn当たり
 
 Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
 
@@ -144,7 +144,7 @@ table_agip4
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+改善提案の詳細は [こちら](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
 
 Option 1: Only Haunt 1 should get a special background
 
