@@ -142,15 +142,15 @@ table_agip4
 ### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド
 **Aavegotchi改善提案5番**
 
-**提案の要約:** 多くのプレイヤーは、召喚2が召喚1の「ジェネシス」に似すぎて値下げすることを心配してます。 一つの提案は、それぞれのハントに特別なバクグラウンドを与えて、それらを容易に識別できるようにすることです。 この提案は、関連するスナップショットに関する活発な議論と重要なサポートを見てきました。 この問題に関するDAOの決定にもかかわらず、すべてのAavegotchiには、Hauntを識別する特別な譲渡不可の「召喚」バッジが与えられます。 This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
+**提案の要約:** 多くのプレイヤーは、召喚2が召喚1の「ジェネシス」に似すぎて値下げすることを心配してます。 一つの提案は、それぞれのハントに特別なバクグラウンドを与えて、それらを容易に識別できるようにすることです。 この提案は、関連するスナップショットに関する活発な議論と重要なサポートを見てきました。 この問題に関するDAOの決定にもかかわらず、すべてのAavegotchiには、Hauntを識別する特別な譲渡不可の「召喚」バッジが与えられます。 この提案は、AavegotchiのBGウェアラブルスロットに装備できる譲渡不可能なバクグラウンドのアイデアに焦点を当てています。
 
 改善提案の詳細は [こちら](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
 
-Option 1: Only Haunt 1 should get a special background
+オプション1：召喚1のみ特別なバクグラウンドを取得する必要があります
 
-Option 2: Each Haunts should have it’s own unique background
+オプション2：それぞれの召喚には独自のバクグラウンドが必要です
 
-Option 3: Neither, leave it as is
+オプション3：そのままにしておきましょう
 
 **投票期間：** 2020年3月17日〜24日
 
