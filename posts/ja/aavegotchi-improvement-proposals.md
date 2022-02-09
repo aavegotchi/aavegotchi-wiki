@@ -36,11 +36,11 @@ contributors:
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>ミニゲームリワードを生成するために100kGHSTをステーク</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>区画に投票力を追加</a></li>
 <li><a href=#gotchiverse-patch-v0-1>ゴッチバースのパッチ v0.1</a></li>
-<li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
-<li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>SynFuturesでGHST流動性の提供</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>DAOトレジャリータスクフォースの作成</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Aavegotchiマーケットの名称</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENSを獲得するGHST-USDC LPトークンの資格</a></li>
+<li><a href=#portals-purchased-in-one-transaction>1つのトランザクションで購入出来るポータル量</a></li>
 </ol>
 
 </div>
@@ -142,7 +142,7 @@ table_agip4
 ### 召喚第一(H1) のゴッチに転送できないユニークなバックグラウンド
 **Aavegotchi改善提案5番**
 
-**Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. One of the suggestions is to give special backgrounds to each Haunt to make them easily identifiable. This proposal has seen excellent discussion and significant support on the associated Snapshot. Note that irrespective of the DAO’s decision on this issue, all Aavegotchis will be getting special non-transferable "Haunt" badges that identify their Haunt. This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
+**提案の要約:** 多くのプレイヤーは、召喚2が召喚1の「ジェネシス」に似すぎて値下げすることを心配してます。 一つの提案は、それぞれのハントに特別なバクグラウンドを与えて、それらを容易に識別できるようにすることです。 この提案は、関連するスナップショットに関する活発な議論と重要なサポートを見てきました。 この問題に関するDAOの決定にもかかわらず、すべてのAavegotchiには、Hauntを識別する特別な譲渡不可の「召喚」バッジが与えられます。 This proposal focuses specifically on the idea of a non-transferable background that can be equipped in the Aavegotchi’s BG wearable slot.
 
 改善提案の詳細は [こちら](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
 
@@ -629,7 +629,7 @@ table_agip18
 
 <hr />
 
-### Providing GHST Liquidity on SynFutures
+### SynFuturesでGHST流動性の提供
 **Aavegotchi Improvement Proposal #19**
 
 **Proposal Summary:**
@@ -662,7 +662,7 @@ Option 2: No, do not add $200k in GHST
 
 <hr />
 
-### Creating the DAO Treasury Taask Force
+### DAOトレジャリータスクフォースの作成
 **Aavegotchi Improvement Proposal #20**
 
 **Proposal Summary:**
@@ -717,7 +717,7 @@ Option 3: No, do not create the DTF
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Aavegotchiマーケットの名称
 **Snapshot Voting**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -746,7 +746,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### FRENSを獲得するGHST-USDC LPトークンの資格
 
 **Snapshot Voting**
 
@@ -772,7 +772,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### 1つのトランザクションで購入出来るポータル量
 
 **Snapshot Voting**
 
