@@ -35,7 +35,7 @@ contributors:
 <li><a href=#create-a-wearables-taask-force>ウェアラブルタスクフォースを作成</a></li>
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>ミニゲームリワードを生成するために100kGHSTをステーク</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>区画に投票力を追加</a></li>
-<li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
+<li><a href=#gotchiverse-patch-v0-1>ゴッチバースのパッチ v0.1</a></li>
 <li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
@@ -121,11 +121,11 @@ table_agip3
 
 オプション1：新しい召喚なし、1ヶ月後で再度見直します。
 
-オプション2：1万ポータル、それぞれ100 GHST、1txn当たり
+オプション2：1万ポータル、100 GHSTそれぞれ、txn当たり1個。
 
-Option 3: 25K portals, 100 GHST each, 5 per txn (w/ stricter ape tax)
+オプション3:　25,000ポータル、100GHSTそれぞれ、txnあたり5個(厳格な税)
 
-Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange for 100 GHST. When the pre-sale period closes, all Portals are minted and transferred to their owners.
+オプション4: プレセール。各ウォレットは、100GHSTと引き換えに1つのポータルをサブスクライブできます。 プレセールの期間が終了すると、すべてのポータルがミントされ、所有者に譲渡されます。
 
 **投票期間：** 2020年3月17日〜24日
 
@@ -133,9 +133,9 @@ Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange 
 
 table_agip4
 
-**Vote Differential not met. No Haunt 2 for now!**
+**投票差分が満たされていません。 今のところ召喚2はありません。**
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
 
 <hr />
 
@@ -158,7 +158,7 @@ Option 3: Neither, leave it as is
 
 table_agip5
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
 <hr />
 
@@ -181,7 +181,7 @@ Option 2: No, leave the fees as they are
 
 table_agip6
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
 
 <hr />
 
@@ -210,7 +210,7 @@ Option 2: No, SigProps should not give XP
 
 table_agip7
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
 
 <hr />
 
@@ -231,7 +231,7 @@ Option 2: No, Aavegotchis shouldn’t have Voting Power
 
 table_agip8
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
 
 <hr />
 
@@ -252,7 +252,7 @@ Option 2: No, Wearables shouldn’t have Voting Power
 
 table_agip9
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
 
 <hr />
 
@@ -273,7 +273,7 @@ Option 2: No, don't partner with Dinoswap
 
 table_agip10
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
 <hr />
 
@@ -316,7 +316,7 @@ Option 2: No, keep everything as it is
 
 table_agip11
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmdLouPY9ipn2ezC2RR5Fjcz8auhX1uLajk9QS8nrctfsY)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmdLouPY9ipn2ezC2RR5Fjcz8auhX1uLajk9QS8nrctfsY)
 
 <hr />
 
@@ -339,7 +339,7 @@ Option 2: No, do not launch Haunt 2 now
 
 table_launchHaunt2
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmTuVnGnZSUC4uWRVQrd3HwmJATtvJVpjNikCkifChyJwY)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmTuVnGnZSUC4uWRVQrd3HwmJATtvJVpjNikCkifChyJwY)
 
 <hr />
 
@@ -380,7 +380,7 @@ Option 2: No, do not implement right now
 
 table_agip13
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmcAQLdAyS9n7LWDu9qvRtdNqJa7FBStadrHq3xqjW9kCT)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/QmcAQLdAyS9n7LWDu9qvRtdNqJa7FBStadrHq3xqjW9kCT)
 
 <hr />
 
@@ -415,7 +415,7 @@ Option 2: No, don't give FRENS
 
 table_agip14
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x42914b268d255efe0eea943d052e5dc7eab0cbbcde9d3cb809f027e3ea1f611f)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x42914b268d255efe0eea943d052e5dc7eab0cbbcde9d3cb809f027e3ea1f611f)
 
 <hr />
 
@@ -450,7 +450,7 @@ Option 2: No, don't establish the WTF
 
 table_agip15
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xa1f06ffcdd5f5d51c5f82022e8a25ecc7672252f8a47d9ee484b9fe3b6cd5b3a)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xa1f06ffcdd5f5d51c5f82022e8a25ecc7672252f8a47d9ee484b9fe3b6cd5b3a)
 
 <hr />
 
@@ -487,7 +487,7 @@ Option 2: No, wait for Aarcade DAO
 
 table_agip16
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd654255f22e694369686e9791ff663f38a9f586bd4126831fc9d8ce384208964)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xd654255f22e694369686e9791ff663f38a9f586bd4126831fc9d8ce384208964)
 
 <hr />
 
@@ -532,11 +532,11 @@ Option 4: No voting power for REALM
 
 table_agip17
 
-[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x28b630e088240ee4bb4e680b071767b98b962a4006c71e71f00c782b86adfbab)
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x28b630e088240ee4bb4e680b071767b98b962a4006c71e71f00c782b86adfbab)
 
 <hr />
 
-### Gotchiverse Patch v0.1
+### ゴッチバースのパッチ v0.1
 **Aavegotchi Improvement Proposal #18**
 
 **Proposal Summary:**
@@ -625,7 +625,7 @@ Option 2: No, do not implement Patch v0.1
 
 table_agip18
 
-[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x396844d504394f7f335f070d443c33455300ee21d90db6c4b089760a3e0469bf)
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x396844d504394f7f335f070d443c33455300ee21d90db6c4b089760a3e0469bf)
 
 <hr />
 
@@ -658,7 +658,7 @@ Option 2: No, do not add $200k in GHST
 
 **結果:**
 
-[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
 
 <hr />
 
@@ -713,7 +713,7 @@ Option 3: No, do not create the DTF
 
 **結果:**
 
-[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
 
 <hr />
 
@@ -742,7 +742,7 @@ If "Neither" wins...you guys better start coming up with some good alternatives!
 
 table_marketplaceName
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
+[スナップショットの投票にのリンク](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
 <hr />
 
@@ -768,7 +768,7 @@ The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, si
 
 table_ghstUsdcLp
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
+[スナップショットの投票にのリンク](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
 <hr />
 
@@ -804,4 +804,4 @@ AavegotchiDAO discussion topic 👇
 
 table_portalsPurchased
 
-[Link to vote on Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
+[スナップショットの投票にのリンク](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
