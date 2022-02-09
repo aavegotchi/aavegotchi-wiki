@@ -98,9 +98,9 @@ table_agip2
 
 GHSTトークンがAavegotchiエコシステムで使用されるたびに、33％が自動的にバーンアドレスに送信されます。 ほとんどの暗号通貨とは異なり、GHSTバーン（ボンディングカーブを除く）は、実際にはGHSTの合計値を下げません。これは、その値がボンディングカーブにDAIとして保存されるためです。
 
-What burning does do is trap DAI within the bonding curve, essentially increasing the reserve ratio over time, which stabilizes the price of GHST.
+バーンが行うこと、ボンディングかーぶでDAIをトラップし、本質的に時間の経過とともに準備率を増加させ、GHSTの価格を安定させます。
 
-In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
+バーンを相殺するために（最終的にGHSTをステーブルコインに変える可能性があります）、コミュニティに月額15万DAIにタップを増やすことをお勧めします。 これは、ボンディングカーブのリザーブのバランスを助けると、プレーヤーの報酬と流動性インセンティブに向けて追加の月額５万DAIを提供します。
 
 **投票期間：** 2020年10月18日〜21日
 
@@ -115,7 +115,7 @@ table_agip3
 ### 召喚第二(H2)の提案
 **Aavegotchi改善提案4番**
 
-**Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
+**提案の概要:**10,000ポータルは、Aavegotchiの現在の需要レベルを満たすに十分ではありません。 したがって、参加したいプレイヤーがAavegotchiを所有できるようにするために、新しい召喚を展開する必要があるでしょうか。 この改善提案は、新しい召喚を作成しない1つのオプションを含んで、コミュニティメンバーによって提案された4つの異なるオプションを提供します。
 
 Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
