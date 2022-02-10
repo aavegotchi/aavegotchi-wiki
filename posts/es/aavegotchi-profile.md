@@ -1,10 +1,10 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+title: 'Perfil de Aavegotchi'
+description: 'Perfil de Aavegotchi'
 contributors:
-  - "unintelligent-nerd"
+  - "unintelligent Nerd"
 ---
 
 <div class="headerImageContainer">
@@ -79,29 +79,29 @@ El botón de alimentación te permite alimentar a tus [Gotchis](/wearables#consu
 
 Finalmente, el botón Renombrar te permite cambiar el nombre de tu Gotchi. Las únicas restricciones son que no puedes nombrar a tu Gotchi con una palabra que ya ha sido utilizada y el límite de 25 caracteres para el nombre de tu Gotchi.
 
-Mover hacia abajo, **tipo** y **cantidad** de [Fuerza espiritual](/glossary#spirit-force) que tu Gotchi tiene añadida. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+Mover hacia abajo, **tipo** y **cantidad** de [Fuerza espiritual](/glossary#spirit-force) que tu Gotchi tiene añadida. Hay un botón de Agregar / quitar donde tú, el propietario, puede añadir más fuerza de Espíritu a su Gotchi. No hay ningún beneficio extra por añadir más Fuerza de Espíritu de lo necesario a tu Gotchi. También hay una Fuerza de Espíritu mínima requerida para que tu Gotchi sobreviva, así que no......no puedes retirar más allá de esa cantidad. La Fuerza Espiritual mínima requerida depende del BRS de los Aavegotchi y la fórmula utilizada para calcularlo puede encontrarse [aquí](/portals#claiming-an-aavegotchi).
 
 ### Bolsillo Gotchi
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+En la esquina inferior derecha de la pantalla hay un botón de bolsillo. Haz clic en él para revelar el bolsillo de tu Gotchi, que sirve como inventario para tu Gotchi.
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+Nota: **TÚ (propietario)** inventario está separado del **bolsillo de tu Gotchi**.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Bolsillo de Aavegotchi" />
 
-Your Gotchi Pocket contains:
+El bolsillo de tu Gotchi contiene:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
-* [Baadges](/baadge)
+* Los complementos actualmente equipados a tu Gotchi
+* Tokens GHST ganados del [rarity farming](/rarity-farming)
+* [Insignias](/baadge)
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Las insignias de Aavegotchi son NFT ERC-1155 no transferibles que conmemoran la participación de tu Gotchi en un evento especial. Por ejemplo, en la temporada 1 de Rarity Farming, las insignias se otorgan a los Top 10 y Top 100 Gotchis en cada una de las categorías. Estas insignias se entregarán al bolsillo de un Aavegotchi particular y luego residirán allí **para siempre**. ¡Mantén tus ojos abiertos para conseguir más Insignias en el futuro! owo
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+Por el contrario, los complementos equipados y los tokens GHST pueden ser retirados del bolsillo de tu Gotchi.
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Para enviar los complementos de vuelta a **tu** inventario, primero tendrás que desequiparlos (a través del botón Equipal). A continuación, ve a tu bolsillo de tu Gotchi y haz clic en el botón Transferir a Mí.
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+Del mismo modo, los tokens de GHST ganados por Rarity Farming están en el bolsillo de tu Gotchi y no en tu inventario. Para retirarlos a tu inventario, selecciona el botón Retiro en la ventana de bolsillo de Gotchi. El botón Ver te muestra la dirección de depósito de tu Gotchi.
 
 ### Más acciones
 
