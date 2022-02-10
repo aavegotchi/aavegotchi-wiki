@@ -63,21 +63,21 @@ Justo al lado de la puntuación BRS hay un botón "Ver curva". Este botón sitú
 
 Al bajar, se muestran los valores de tu Gotchi en todos los 6 rasgos (Energía, Agresión, Espanto, Inteligencia, Forma de Ojo y Color Ojo). Con la excepción del color de la forma y color de ojos, todos los demás valores de rasgos pueden ser modificados equipando complementos. Si has equipado al menos un complemento, verás los valores +/- añadidos a tus valores de tus caracteríaticas. Esta es la contribución del/los complementos a tus valores de características.
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+Siguiendo hacia abajo, tu nivel de Gotchi, XP y XP requeridos para alcanzar el siguiente nivel. Hasta ahora, XP se gana participando en eventos comunitarios. Así que ¡vigila estos!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+Por cada tres niveles, tu Gotchi ganará 1 Punto de Espíritu que se puede asignar para aumentar o disminuir cualquier valor de las habilidades.
 
 ### Interactúa con tu Gotchi
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+En la esquina derecha de la pantalla, puedes interactuar con su Gotchi de varias maneras: (1) Acariciar, (2) Equipar, (3) Alimentar, y (4) Renombrar.
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+Darle cariños a tu Gotchi una vez cada 12 horas, aumentará su puntuación [pariente](/traits#fidelidad) en 1.
 
-The Equip button allows you to equip/unequip any wearables.
+El botón Equipar te permite equipar/desequipar cualquier complemento.
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+El botón de alimentación te permite alimentar a tus [Gotchis](/wearables#consumables) con pociones de fidelidad y de experiencia. Estas pociones se pueden comprar en la [Maal](/maall) (cuando son liberadas) o en mercados secundarios como el [Baazaar](/baazaar).
 
-Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+Finalmente, el botón Renombrar te permite cambiar el nombre de tu Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
 
 Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
 
@@ -109,10 +109,10 @@ There is a "More" Button at the bottom-right corner of the screen.
 
 It opens up another menu with the following 3 options:
 
-* Gift
-* Sacrifice
-* List in Bazaar
-* Save
+* Regalar
+* Sacrificar
+* Añadir al Baazaar
+* Guardar
 
 **Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
 
