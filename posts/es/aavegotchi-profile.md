@@ -8,7 +8,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
+<img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchis" />
 <p class="headerImageText">¡Hola!</p>
 </div>
 
@@ -41,7 +41,7 @@ Primero, necesita ir a [Mi página Aavegotchis](https://aavegotchi.com/aavegotch
 
 Tu perfil de Gotchi se vería algo como la siguiente captura de pantalla.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Perfil de Gotchi" />
 
 En el centro están tus Gotchi (desnudos o adornados en el esplendor de sus [prendedoras](/complentos)). Equipal/desequipa cualquier ropa y se actualizará la pantalla de tu Gotchi.
 
@@ -77,9 +77,9 @@ El botón Equipar te permite equipar/desequipar cualquier complemento.
 
 El botón de alimentación te permite alimentar a tus [Gotchis](/wearables#consumables) con pociones de fidelidad y de experiencia. Estas pociones se pueden comprar en la [Maal](/maall) (cuando son liberadas) o en mercados secundarios como el [Baazaar](/baazaar).
 
-Finalmente, el botón Renombrar te permite cambiar el nombre de tu Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+Finalmente, el botón Renombrar te permite cambiar el nombre de tu Gotchi. Las únicas restricciones son que no puedes nombrar a tu Gotchi con una palabra que ya ha sido utilizada y el límite de 25 caracteres para el nombre de tu Gotchi.
 
-Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+Mover hacia abajo, **tipo** y **cantidad** de [Fuerza espiritual](/glossary#spirit-force) que tu Gotchi tiene añadida. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
 
 ### Bolsillo Gotchi
 
@@ -87,7 +87,7 @@ At the bottom right corner of the screen, there is a Pocket button. Click on it 
 
 Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Bolsillo de Aavegotchi" />
 
 Your Gotchi Pocket contains:
 
@@ -105,19 +105,19 @@ Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket
 
 ### Más acciones
 
-There is a "More" Button at the bottom-right corner of the screen.
+En la esquina inferior derecha de la pantalla hay un botón "Más".
 
-It opens up another menu with the following 3 options:
+Abre otro menú con las siguientes 3 opciones:
 
 * Regalar
 * Sacrificar
 * Añadir al Baazaar
 * Guardar
 
-**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+**Regalar** te permite dar tu Aavegotchi a otra dirección (¡Tenga en cuenta que esto es irreversible!)
 
-**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+**Sacrificar** te permite **matar permanentemente** a tu Gotchi actual, dando su [XP](/traits#experiencia) a otro Gotchi.
 
-**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+**Lista en Bazar** te permite poner tus Aavegotchi a la venta en el Baazar.
 
-**Save** allows you to download a png or gif image of your Aavegotchi.
+**Guardar** te permite descargar una imagen png o gif de su Aavegotchi.
