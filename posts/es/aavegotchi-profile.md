@@ -57,11 +57,11 @@ Si has equipado tu Gotchi con complementos, habrá dos valores BRS:
 
 * el otro no está entre paréntesis (BRS **con** complementos equipados)
 
-If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+Si tu Gotchi tiene equipado un [set de complementos](/sets), el nombre del conjunto se mostrará debajo de los puntajes BRS.
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+Justo al lado de la puntuación BRS hay un botón "Ver curva". Este botón sitúa la posición de tu gotchi en todos los 6 rasgos (Energía, Agresión, Espanto, Inteligencia, forma ocular y color de ojo) contra todos los otros Aavegotchi que existen.
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+Al bajar, se muestran los valores de tu Gotchi en todos los 6 rasgos (Energía, Agresión, Espanto, Inteligencia, Forma de Ojo y Color Ojo). Con la excepción del color de la forma y color de ojos, todos los demás valores de rasgos pueden ser modificados equipando complementos. Si has equipado al menos un complemento, verás los valores +/- añadidos a tus valores de tus caracteríaticas. Esta es la contribución del/los complementos a tus valores de características.
 
 Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
 
