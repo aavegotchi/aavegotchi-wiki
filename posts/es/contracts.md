@@ -38,13 +38,13 @@ Hola amigos. Bienvenido a nuestro repositorio de direcciones de contrato intelig
 
 * stkGHST-USDC Dirección: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
-* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+* Piscina de liquidez GHST-WETH: [0xccb9d2100037f1253e6c1682adf7dc9944498ATIS](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
 
-* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+* Dirección DAO: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
-* Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
+* Dirección de Quemado (para portales & baazaar): [0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
-* Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+* Dirección de Recompensas del Rarity Farming: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
 
-* Opensea (for Aavegotchis and Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* Dirección Opensea (para Aavegotchis y Complementos) [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
