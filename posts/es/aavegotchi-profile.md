@@ -9,53 +9,53 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">¡Hola!</p>
 </div>
 
-You have a Gotchi fren now eh?
+¿Ya ienes un amigo Gotchi, Eh?
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+Cada Gotchi tiene su propia página de perfil donde puedes ver tu Gotchi y jugar con él o ella.
 
-This page will tell you what you can do with your new Gotchi frens! :D
+¡Esta página te dirá lo que puedes hacer con tus nuevos amigos Gotchi! :D
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#more-actions>More Actions</a></p>
+<li><a href=#accessing-your-gotchi-profile>Acceder a tu perfil de Gotchi</a></li>
+<li><a href=#gotchi-profile>Perfil de Gotchi</a></li>
+<p><a href=#stats-xp>Estadísticas/XP</a></p>
+<p><a href=#interact-with-your-gotchi>Interactúa con tu Gotchi</a></p>
+<p><a href=#gotchi-pocket>Bolsillo Gotchi</a></p>
+<p><a href=#more-actions>Más acciones</a></p>
 </ol>
 
 </div>
 
-## Accessing your Gotchi Profile
+## Acceder a tu perfil de Gotchi
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+Primero, necesita ir a [Mi página Aavegotchis](https://aavegotchi.com/aavegotchis). Haz clic en cualquiera de tus Gotchis y te llevará a su página de perfil.
 
-## Gotchi Profile
+## Perfil de Gotchi
 
-Your Gotchi Profile would look something like the following screenshot.
+Tu perfil de Gotchi se vería algo como la siguiente captura de pantalla.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+En el centro están tus Gotchi (desnudos o adornados en el esplendor de sus [prendedoras](/complentos)). Equipal/desequipa cualquier ropa y se actualizará la pantalla de tu Gotchi.
 
-### Stats/XP
+### Estadísticas/XP
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+En la esquina izquierda de la pantalla está las Estadísticas/XP de tu Gotchi.
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score).
+En la parte superior de tu Gotchi está el [puntaje base de rareza (BRS)](/rarity-farming#base-rarity-score).
 
-If you have equipped your Gotchi with wearables, there will be two BRS values:
+Si has equipado tu Gotchi con complementos, habrá dos valores BRS:
 
-* one in parentheses (BRS **without** any wearables equipped)
+* uno en paréntesis (BRS **sin** ropa equipada)
 
-* the other not in parentheses (BRS **with** wearables equipped)
+* el otro no está entre paréntesis (BRS **con** complementos equipados)
 
 If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
 
@@ -67,7 +67,7 @@ Moving downwards still, your Gotchi's level, XP, and XP required to reach the ne
 
 For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
 
-### Interact with your Gotchi
+### Interactúa con tu Gotchi
 
 At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
 
@@ -81,7 +81,7 @@ Finally, the Rename button allows you to rename your Gotchi. The only constraint
 
 Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
 
-### Gotchi Pocket
+### Bolsillo Gotchi
 
 At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
 
@@ -103,7 +103,7 @@ To send the wearables back to **your** inventory, you would first have to unequi
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
-### More Actions
+### Más acciones
 
 There is a "More" Button at the bottom-right corner of the screen.
 
