@@ -33,7 +33,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#baard>Baard</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
 <p><a href=#frens>FRENS</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<p><a href=#gotchi-pocket>Bolsillo Gotchi</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
@@ -121,7 +121,7 @@ Points that are rewarded to users who have staked GHST. FRENS is not a token. It
 
 Read more about FRENS in the [Staking page](/staking).
 
-### Gotchi Pocket
+### Bolsillo Gotchi
 Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
 Technically, a Gotchi Pocket is an escrow address.
