@@ -1,7 +1,7 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Improvement Proposals (AGIPs)'
+title: 'Aavegotchi Verbetervoorstellen (AGIP''s)'
 description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
 contributors:
   - "unintelligent-nerd"
