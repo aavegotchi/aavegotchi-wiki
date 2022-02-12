@@ -62,53 +62,53 @@ In de begroting wordt de extra 50k DAI ingezet in vier verschillende categorieë
 
 **Resultaten:**
 
-table_agip1
+tabel_agip1
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
 <hr />
 
 ### Kosten toevoegen aan de Bonding Curve
-**Aavegotchi Improvement Proposal #2**
+**Aavegotchi Voorstel Verbetering #2**
 
-**Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
+**Voorstel Samenvatting:** De band curve is de belangrijkste bron van liquiditeit voor GHST. Grote kopers en verkopers kunnen momenteel zonder kosten in- en uitkopen.
 
-Our market maker offers the ability to add fees to buy and sell orders.
+Onze marktmaker biedt de mogelijkheid om kosten toe te voegen aan koop- en verkooporders.
 
-Multiple community members have proposed adding fees up to 0.3% to buying and selling on the curve.
+Meerdere leden van de gemeenschap hebben voorgesteld om kosten toe te voegen tot 0,3% om op de curve te kopen en te verkopen.
 
-This is possible to do by calling the `updateFees` function on our bonding curve, but should we? It’s up to you, AavegotchiDAO.
+Dit is mogelijk door de `updateFees` functie aan onze bindingcurve aan te roepen, maar moeten we dat doen? Het is aan jullie, AavegotchiDAO.
 
-Any fees earned would automatically be transferred to the DAO Treasury address at 0xffe6280ae4e864d9af836b562359fd828ece8020 and would be considered as assets of AavegotchiDAO.
+Alle kosten die worden verdiend worden automatisch overgebracht naar het Schatkist adres van de DAO op 0xffe6280ae4e864d9af836b562359fd828ece8020 en wordt beschouwd als activa van AavegotchiDAO.
 
-**Voting Period:** 18 - 21 January 2021
+**Stemperiode:** van 18 tot 21 oktober 2021
 
 **Resultaten:**
 
-table_agip2
+tabel_agip2
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
 <hr />
 
 ### Verhoog DAICO tik voor GHST aankopen
-**Aavegotchi Improvement Proposal #3**
+**Aavegotchi Voorstel Verbetering #3**
 
-**Proposal Summary:** Player rewards and liquidity incentives are crucial to bootstrapping the Aavegotchi ecosystem to a level where it becomes self-sustained on trading volume and economic activity.
+**Voorstel samenvatting:** Speler beloningen en liquiditeitsprikkels zijn cruciaal om het Aavegotchi ecosysteem op te starten naar een niveau waar het duurzaam wordt op handelsvolume en economische activiteit.
 
-Whenever GHST is spent in the Aavegotchi ecosystem, 33% of it is automatically sent to a burn address. Unlike most cryptocurrencies, burning GHST (except via the bonding curve) does not actually lower the total value of GHST, since that value is stored as DAI within the bonding curve.
+Wanneer GHST wordt uitgegeven in het Aavegotchi ecosysteem, wordt 33% automatisch verzonden naar een verbrand adres. In tegenstelling tot de meeste cryptocurrencies, verlaagt het verbranden van GHST (behalve via de bonding curve) de totale waarde van GHST, niet. omdat die waarde wordt opgeslagen als DAI in de verbindingscurve.
 
 What burning does do is trap DAI within the bonding curve, essentially increasing the reserve ratio over time, which stabilizes the price of GHST.
 
 In order to offset the burning (which could ultimately turn GHST into a stablecoin), we advise the community to increase the tap to 150,000 DAI per month. This will help balance the reserve of the bonding curve, while also providing an extra 50,000 DAI per month that will be put towards player rewards and liquidity incentives.
 
-**Voting Period:** 18 - 21 January 2021
+**Stemperiode:** van 18 tot 21 oktober 2021
 
 **Resultaten:**
 
 table_agip3
 
-[Link to vote on Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
 
 <hr />
 
