@@ -18,7 +18,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 **Inhoud**
 
 <ol>
-<li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>Kraan verhoging voor Scaling Sprint</a></li>
 <li><a href=#add-fees-to-bonding-curve>Kosten toevoegen aan de Bonding Curve</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Verhoog DAICO tik voor GHST aankopen</a></li>
 <li><a href=#proposal-for-haunt-2>Voorstel voor Haunt 2</a></li>
@@ -45,7 +45,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 
 </div>
 
-### Tap increase for Scaling Sprint
+### Kraan verhoging voor Scaling Sprint
 **Aavegotchi Voorstel Verbetering #1**
 
 **Voorstel samenvatting:** De GHST Bonding Curve bestaat al bijna een maand en dat biedt de eerste gelegenheid voor GHST houders om het kraanmechanisme van DAICO aan te passen. AavegotchiDAO 1. is gebouwd op het Aragonplatform en functioneert als een eenvoudige DAICO waar GHST-houders één keer per maand kunnen stemmen om via de kraan de geldstroom naar het kernteam te verhogen of te verminderen. De kraan verschaft DAI rechtstreeks vanuit de GHST Bonding Curve waar momenteel meer dan 7,5 miljoen DAI is verzekerd.
@@ -175,7 +175,7 @@ Optie 1: Ja, verhoog kosten van 3 tot 3.5
 
 Optie 2: Nee, de kosten laten zoals ze zijn
 
-**Stemperiode:** van 7 tot 13 oktober 2021
+**Stemperiode:** van 7 tot 13 april 2021
 
 **Resultaten:**
 
@@ -204,7 +204,7 @@ Optie 1: Ja, succesvolle SigProps geven XP
 
 Optie 2: Nee, SigProps mag geen XP geven
 
-**Stemperiode:** van 12 tot 18 oktober 2021
+**Stemperiode:** van 12 tot 18 mei 2021
 
 **Resultaten:**
 
@@ -225,7 +225,7 @@ Optie 1: Ja, geef Stemvermogen aan Aavegotchi gebaseerd op BRS
 
 Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
 
-**Stemperiode:** van 11 tot 17 oktober 2021
+**Stemperiode:** van 11 tot 17 juni 2021
 
 **Resultaten:**
 
@@ -246,7 +246,7 @@ Optie 1: Ja, geef Stemkracht aan Wearables op basis van de maximale prijs
 
 Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
 
-**Stemperiode:** van 11 tot 17 oktober 2021
+**Stemperiode:** van 11 tot 17 juni 2021
 
 **Resultaten:**
 
@@ -267,7 +267,7 @@ Optie 1: Ja, laten we samenwerken met DinoSwap
 
 Optie 2: Nee, geen partner met Dinoswap
 
-**Stemperiode:** van 13 tot 20 oktober 2021
+**Stemperiode:** van 13 tot 20 juni 2021
 
 **Resultaten:**
 
@@ -310,7 +310,7 @@ Optie 1: Ja, creëer de FRENS commissie
 
 Optie 2: Nee, houd alles zoals het is
 
-**Stemperiode:** van 17 tot 25 oktober 2021
+**Stemperiode:** van 17 tot 25 augustus 2021
 
 **Resultaten:**
 
@@ -333,7 +333,7 @@ Optie 1: Ja, start Haunt 2
 
 Optie 2: Nee, start nu geen Haunt 2
 
-**Stemperiode:** van 19 tot 26 oktober 2021
+**Stemperiode:** van 19 tot 26 juli 2021
 
 **Resultaten:**
 
@@ -481,7 +481,7 @@ Optie 1: Ja, stake 100k GHST
 
 Optie 2: Nee, wacht op Aarcade DAO
 
-**Stemperiode:** van 10 tot 17 oktober 2021
+**Stemperiode:** van 10 tot 17 december 2021
 
 **Resultaten:**
 
@@ -526,7 +526,7 @@ Optie 3: Stemvermogen van veilingsvloer
 
 Optie 4: geen stemrecht voor REALM
 
-**Stemperiode:** van 10 tot 17 oktober 2021
+**Stemperiode:** van 10 tot 17 december 2021
 
 **Resultaten:**
 
@@ -619,7 +619,7 @@ Optie 1: Ja, implementeer Patch v0.1
 
 Optie 2: Nee, voer nu niet uit
 
-**Stemperiode:** van 5 tot 12 oktober 2022
+**Stemperiode:** van 5 tot 12 januari 2022
 
 **Resultaten:**
 
@@ -709,7 +709,7 @@ Optie 2: Ja, zonder 50k GHST budget
 
 Optie 3: Nee, maak geen DTF aan
 
-**Stemperiode:** van 2 tot 9 oktober 2022
+**Stemperiode:** van 2 tot 9 februari 2022
 
 **Resultaten:**
 
@@ -736,7 +736,7 @@ Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum nie
 
 Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
 
-**Stemperiode:** van 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
@@ -762,7 +762,7 @@ We stellen een GHST quorum van 500.000 vast voor deze stemming.
 
 Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
 
-**Stemperiode:** van 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
@@ -774,34 +774,34 @@ tabel_ghstUsdcLp
 
 ### Aantal portalen gekocht in één transactie
 
-**Snapshot Voting**
+**Snapshot Stemming**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Voorstel Samenvatting:** Hoeveel portalen kunnen gekocht worden in één transactie?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+De discussieduur is afgelopen voor dit onderwerp en nu is het tijd om te stemmen! De meest populaire opties waren: 1, 5 en 10 Portals per transactie.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: een "Ape Tax" waardoor meer portalen in één transactie konden worden gekocht, maar tegen een hogere prijs. De portalen zouden op deze manier verlopen:
 
-* 0-5: 100 GHST each
+* 0-5: 100 GHST elk
 
-* 6-15: 200 GHST each
+* 6-15: 200 GHST elk
 
-* 16-25: 300 GHST each
+* 16-25: 300 GHST elk
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Dit laat ons dus vier opties over: 1, 5, 10 en 25 (v/ape tax).
 
-Let your $GHST token speak for you, and vote!
+Laat je $GHST token voor je spreken en stem!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Stemperiode: 72 uur Minimum quorum: 10% van het GHST op Matic (~1,1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO discussieonderwerp 👇
 
-[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+[https://dao.aavegotchi.com/nl/how-many-portals-should-be-be--in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Stemperiode:** van 23 tot 26 februari 2021
 
 **Resultaten:**
 
-table_portalsPurchased
+tabel_portalen gekocht
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
