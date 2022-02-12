@@ -654,7 +654,7 @@ Optie 1: Ja, stake 100k GHST
 
 Optie 2: Nee, voeg geen $200k aan GHST toe
 
-**Stemperiode:** van 2 tot 9 oktober 2022
+**Stemperiode:** van 2 - 9 February 2022
 
 **Resultaten:**
 
@@ -718,61 +718,61 @@ Optie 3: Nee, maak geen DTF aan
 <hr />
 
 ### Naam van Aavegotchi Marketplace
-**Snapshot Voting**
+**Momentopname Testen**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Voorstel samenvatting:** Hoe moet de Aavegotchi NFT Marktplaats worden genoemd?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanceert zijn eigen NFT-marktplaats op Polygon in combinatie met het spel!
 
-What should we call the official Aavegotchi Marketplace?
+Hoe moeten we de officiële Aavegotchi Marketplace noemen?
 
-Choice A: Aavegotchi Baazaar
+Keuze A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Keuze B: Aavegotchi Maarket
 
-Choice C: Neither
+Keuze C: Geen
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum niet is bereikt, kiest Pixelcraft een willekeurige winnaar.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 - 11 February 2021
 
 **Resultaten:**
 
-table_marketplaceName
+table_marketplacenaam
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
 <hr />
 
-### Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen
+### Mogelijkheid voor GHST-USDC LP tokens om FRENS te verdienen
 
-**Snapshot Voting**
+**Momentopname Testen**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Voorstel samenvatting:** Moet GHST-USDC LP token in aanmerking komen om FRENS te verdienen?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Ons liquiditeitsmigratieprogramma is een groot succes geweest, waarbij al meer dan 8 miljoen GHST naar Polygon is gemigreerd. Echter, zoals veel leden van de gemeenschap hebben opgemerkt, liquiditeit voor het GHST-USDC paar is nog steeds niet diep genoeg om het handelen van grote hoeveelheden USDC voor GHST op Quickswap te ondersteunen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Een manier om dit te verhelpen is door GHST-USDC toe te voegen als een paar in aanmerking voor FRENS op [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Net zoals GHST-QUICK een ontvangst token stkGHST-QUICK heeft, kan GHST-USDC ook een stkGHST-USDC token hebben, die in aanmerking kan komen voor beloningen op Quickswap, als hun team dat nodig acht.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Aangezien dit besluit rechtstreeks van invloed is op gameplay, zijn wij van mening dat het een rijpe kandidaat is voor onze eerste Snapshot stemming op Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+We stellen een GHST quorum van 500.000 vast voor deze stemming.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 - 11 February 2021
 
 **Resultaten:**
 
-table_ghstUsdcLp
+tabel_ghstUsdcLp
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
 <hr />
 
-### Portalen gekocht in één transactie
+### Aantal portalen gekocht in één transactie
 
 **Snapshot Voting**
 
