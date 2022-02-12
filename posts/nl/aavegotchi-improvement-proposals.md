@@ -387,167 +387,167 @@ tabel_agip13
 ### Verdien FRENS met GHST-MATIC LP Tokens
 **Aavegotchi Voorstel Verbetering #14**
 
-**Voorstel samenvatting:** Polygon is een enorme reden voor het succes van Aavegotchi. Super low transaction fees paid in MATIC have enabled the team to build a game where there is lots of activity happening on-chain such as petting, bid to earn auctions, Baazaar sales, and storage of the Aavegotchi game art.
+**Voorstel samenvatting:** Polygon is een enorme reden voor het succes van Aavegotchi. Super lage transactiekosten betaald in MATIC hebben het team in staat gesteld een spel te bouwen waar veel activiteit plaatsvindt in de on-chain zoals petting, bid to earn veilingen, Baazaar verkopen en opslag van de Aavegotchi spelkunst.
 
-As of early September, Sushiswap started offering 2x SUSHI rewards for farming the GHST-MATIC LP pair on Sushiswap.
+Vanaf begin september begon Sushiswap met het bieden van 2x SUSHI beloningen voor het farmen van het GHST-MATIC LP paar op Sushiswap.
 
-The FRENS Taask Force recommends enabling a FRENS incentive to be paid for the GHST-MATIC LP pair on their AMM.
+De FRENS Taask Force raadt aan om een FRENS incentive te betalen voor het GHST-MATIC LP pair op hun AMM.
 
-We recommend that the target rate of FRENS paid to the GHST-MATIC LP pair is greater than the target incentive for the GHST-ETH LP pair (120%) but lower than the target incentive for the GHST-QUICK pair (135%).
+We raden aan dat het doelpercentage van FRENS dat aan het GHST-MATIC LATIC LP paar wordt betaald hoger is dan de doelstimulans voor het GHST-ETH LP paar (120%) maar lager dan de doelstimulans voor het GHST-QUICK paar (135%).
 
-This is because the Impermanent Loss (IL) risk for GHST-MATIC is higher compared to GHST-ETH but lower compared to GHST-QUICK. We would recommend a target rate of 130% for the GHST-MATIC LP pair.
+Dit komt omdat het inpermanente verlies (IL) voor GHST-MATIC hoger is dan GHST-ETH maar lager dan GHST-QUICK. We raden een streefpercentage aan van 130 procent voor het GHST-MATIC LP-paar.
 
-Currently, the majority of the liquidity for GHST resides on Quickswap.
+Momenteel bevindt het grootste deel van de liquiditeit van GHST zich op Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+Zie: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
 
-This offers a great opportunity to move some of the liquidity over to the widely adopted Sushiswap AMM and reduce our dependence on Quickswap.
+Dit biedt een geweldige kans om een deel van de liquiditeit over te hevelen naar de algemeen aangenomen Sushiswap AMM en onze afhankelijkheid van Quickswap te verminderen.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/frens-incentive-for-matic-ghst-lp-pair-on-sushiswap/2336)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/frens-incentive-for-matic-ghst-lp-pair-on-sushiswap/2336)
 
-Option 1: Yes, give FRENS to GHST-MATIC
+Optie 1: Ja, geef GRATIS aan GHHST-MATIC
 
-Option 2: No, don't give FRENS
+Optie 2: Nee, geef geen GRATIS niet
 
-**Voting Period:** 12 - 19 November 2021
+**Stemperiode:** van 12 tot 19 oktober 2021
 
 **Resultaten:**
 
-table_agip14
+tabel_agip14
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x42914b268d255efe0eea943d052e5dc7eab0cbbcde9d3cb809f027e3ea1f611f)
 
 <hr />
 
 ### Maak een Wearables Taask Force
-**Aavegotchi Improvement Proposal #15**
+**Aavegotchi Voorstel Verbetering #15**
 
 **Voorstel Samenvatting:**
 
-*Motivation*
+*Motivatie*
 
-Within the Aavegotchi ecosystem wearables play a vital role, whether it be boosting BRS for rarity farming, improving traits for minigames, utility in the upcoming metaverse, or just showing off. Due to the complexity of the different possible trait ranges of gotchis, and the variety of possible wearable stats, it is not an easy task to arrive at a balanced distribution of equippable items. Releasing new wearables without proper analysis can lead to duplication (and dilution) of existing items and further skew of practical applicable sets for gotchis with trait ranges in certain directions.
+Binnen het Aavegotchi ecosysteem spelen de wearables een vitale rol, of het nu BRS stimuleert voor rarity farming, het verbeteren van eigenschappen voor minigames, nut in de aankomende metaverse, of om ze gewoon te laten zien. Vanwege de complexiteit van de verschillende mogelijke assortimenten van gotchis, en de variëteit van mogelijke wearable statistieken, is het geen eenvoudige taak om tot een evenwichtige verdeling van de aan te dragen artikelen te komen. Het vrijgeven van nieuwe wearables zonder goede analyse kan leiden tot duplicatie (en verdunning) van bestaande items en een verdere scheuring van praktische sets voor gotchis met traits in een bepaalde richting.
 
-*Specification*
+*Specificatie*
 
-This proposal aims to introduce a Wearables Taask Force (WTF), the idea of which arose from discussions regarding the above concerns. Akin to the FRENS Taask Force, the goal of the WTF would be to assist Pixelcraft in the analysis of the current distribution of items within the ecosystem from a slot, rarity, and trait modifiers perspective, and in how this analysis can best be applied to future items. This Taask Force would NOT have the unilateral ability to determine what and how new items are released, but would function entirely in an advisory capacity.
+Dit voorstel is gericht op de invoering van een Wearables Taask (WTF), waarvan het idee is voortgekomen uit discussies over bovengenoemde kwesties. Akin in the FRENS Taask Force, het doel van de WTO zou zijn om Pixelcraft te helpen bij het analyseren van de huidige verdeling van items binnen het ecosysteem vanvanuit een zeldzaamheid, en eigenaarschap modifiers perspectief, en in hoe deze analyse het best kan worden toegepast op toekomstige items. Deze Taask Force zou NIET de unilaterale mogelijkheid hebben om te bepalen wat en hoe nieuwe items worden vrijgegeven, maar zou volledig functioneren in een adviserende rol.
 
-*Nominees*
+*Genomineerde*
 
-The nominees for the Taask Force include long term community members who have a wide range of applicable skills, including statistical analysis, programming ability, strong experience in baazaar activity, and prior DAO experience. This Taask Force would greatly benefit from as many voices and perspectives as possible, so all nominations are included. Establishing this Taask Force would be a major step forward in creating a more balanced ecosystem and helping the AavegotchiDAO mature.
+Onder de genomineerden voor de Taask Force bevinden zich lange termijn gemeenschapsleden met een breed scala aan toepasselijke vaardigheden, inclusief statistische analyse, programmeer kennis, sterke ervaring in baazaar activiteit en voorafgaande DAO ervaring. Deze Taask Force zou veel baat hebben bij zoveel mogelijk stemmen en perspectieven, dus alle nominaties zijn opgenomen. De oprichting van deze Taask Force zou een grote stap voorwaarts zijn bij het creëren van een evenwichtiger ecosysteem en het helpen van de AavegotchiDAO.
 
-**Full list of nominees:** Kuwlness, JG1 (Fantasma#1777), Bearded, Actaeon, Thunderfish, Letsgobankless, Kokusho, Ader1990.eth, Machete, Aimo217 (AL#4105), Notorious_BTC, MonsterRNG, Goobz, Diddlypoo
+**Volledige lijst met genomineerders:** Kuwlness, JG1 (Fantasma#1777), Beared, Actaeon, Thunderfish, Letsgobankless Kokusho, Ader1990.eth, Machete, Aimo217 (AL#4105), Notorious_BTC, MonsterRNG, Goobz, Diddlypoo
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/wearables-taask-force/2350)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/wearables-taask-force/2350)
 
-Option 1: Yes, establish the WTF
+Optie 1: Ja, creëer de WTF
 
-Option 2: No, don't establish the WTF
+Optie 2: Nee, de WTF niet opzetten
 
-**Voting Period:** 12 - 19 November 2021
+**Stemperiode:** van 12 tot 19 oktober 2021
 
 **Resultaten:**
 
-table_agip15
+tabel_agip15
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xa1f06ffcdd5f5d51c5f82022e8a25ecc7672252f8a47d9ee484b9fe3b6cd5b3a)
 
 <hr />
 
 ### Stake 100k GHST om Minigame Beloningen te genereren
-**Aavegotchi Improvement Proposal #16**
+**Aavegotchi Voorstel Verbetering #16**
 
-**Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
+**Voorstel samenvatting:** Sommige frens hebben hun bezorgdheid geuit over het gebrek aan beloningen voor deelname aan Minigame evenementen. Aangezien er momenteel geen Aarcade Taask Force bestaat met een aangewezen budget Gotchinomics hebben het idee geopperd om 100k GHST in de schatkist te steken om toekomstige initiatieven te ondersteunen.
 
 *Probleem*
 
-Aavegotchi aims to be one of the top Play2Earn projects in the crypto gaming space, the launch of the Gotchiverse Realm being the cornerstone to achieving this long-term goal. However, there is room for improving the short-term possibilities through seasonal gaming events. The main problem is the lack of structure and funds.
+Aavegotchi streeft ernaar een van de top Play2Earn projecten in de crypto gaming ruimte te zijn de lancering van het Gotchiverse Rijk is de hoeksteen voor het bereiken van dit langetermijndoel. Er is echter ruimte voor het verbeteren van de mogelijkheden op korte termijn door middel van seizoens evenementen. Het grootste probleem is het gebrek aan structuur en middelen.
 
 *Oplossing*
 
-Before creating a dedicated Aarcade DAO, the first step to enable play2earn rewards is to create a sustainable stream of funds. A simple and low-risk solution would be to stake a portion of the main DAO treasury, such as 100k GHST, to generate FRENS. Those could be then transformed into raffle tickets and given away to mini-game players through periodic events.
+Voordat u een speciale DAO van Aarcade creëert, is de eerste stap om play2earn beloningen in te schakelen en het creëren van een duurzame stroom van fondsen. Een eenvoudige oplossing zou zijn om een deel van de belangrijkste DAO schatkist te staken, zoals 100k GHST, om FRENS te genereren. Die kunnen dan worden getransformeerd in raffle tickets en worden weggegeven aan minispelers, door periodieke gebeurtenissen.
 
-*Potential risks*
+*Potentieel Risico*
 
-Staking GHST will indirectly imply a dilution of FRENS/tickets. However, since they would be distributed via mini-game rewards, the impact should be minimal compared to the boost on engagement and appeal to new people.
+Het uitzetten van GHST zal indirect een verwatering van FRENS/tickets betekenen. Omdat ze echter zouden worden verdeeld via mini-games, zou het effect minimaal moeten zijn in vergelijking met de verhoging van het engagement en het beroep op nieuwe mensen.
 
-*Alternatives*
+*Alternatieven*
 
-Wait for the Aarcade DAO to launch and let the new committee decide how to designate funds. However, this alternative option would mean losing precious time to generate more attractive rewards.
+Wacht tot de Aarcade DAO van start is gegaan en laat het nieuwe comité beslissen hoe middelen moeten worden aangewezen. Deze alternatieve optie zou echter betekenen dat kostbare tijd verloren gaat om aantrekkelijkere beloningen te genereren.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
 
-Option 1: Yes, stake 100k GHST
+Optie 1: Ja, stake 100k GHST
 
-Option 2: No, wait for Aarcade DAO
+Optie 2: Nee, wacht op Aarcade DAO
 
-**Voting Period:** 10 - 17 December 2021
+**Stemperiode:** van 10 tot 17 oktober 2021
 
 **Resultaten:**
 
-table_agip16
+tabel_agip16
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd654255f22e694369686e9791ff663f38a9f586bd4126831fc9d8ce384208964)
 
 <hr />
 
 ### Toevoegen van Stemkracht aan REALM parcelen
-**Aavegotchi Improvement Proposal #17**
+**Aavegotchi Voorstel Verbetering #17**
 
 **Voorstel Samenvatting:**
 
-*Problem:*
+*Probleem:*
 
-With a new asset class added to the Aavegotchi family in the form of realm plots comes a new sink of GHST. This currently leaves those who have heavily invested into the new plots with much lesser voting power in the Aavegotchi DAO.
+Met een nieuwe asset klasse toegevoegd aan de Aavegotchi familie in de vorm van realm percelen komt een nieuwe bron van GHST. Dit laat momenteel degenen die zwaar hebben geïnvesteerd in de nieuwe percelen met veel minder stemkracht in de Aavegotchi DAO.
 
-*Solution:*
+*Oplossing:*
 
-Since realm plots and the Gotchiverse are such an integral part of the Aavegotchi ecosystem, I believe it’s only right that realm owners get an amount of voting power that is proportional to the size of their realm plots. This ensures that their vote can be heard, which is of particular importance when future governance proposals will concern the Gotchiverse.
+Omdat realmpercelen en de Gotchiverse zo'n integraal onderdeel zijn van het Aavegotchi ecosysteem, denk ik dat het alleen goed is dat realm-eigenaren een hoeveelheid stemrecht krijgen die evenredig is aan de grootte van hun Realm-plots. Dit zorgt ervoor dat hun stem kan worden gehoord, wat van bijzonder belang is wanneer toekomstige bestuursvoorstellen betrekking zullen hebben op de Gotchiverse.
 
-Since every plot has a set size in pixels which is also a scaling factor for the amount of alchemica within the plot, the suggestion brought forward is:
+Omdat elke plot een ingestelde grootte in pixels heeft, wat ook een schaalfactor is voor de hoeveelheid alchemica binnen het plot, het gedane voorstel is:
 
-1 pixel = 1 GHST worth of voting power (64, 256, 2056) OR 1 pixel = 0.5 GHST worth of voting power (32, 128, 1028)
+1 pixel = 1 GHST ter waarde van stemmen (64, 256, 2056) OF 1 pixel = 0.5 GHST waard van stemrecht (32, 128, 1028)
 
-An alternative would be to give every plot flat voting power based on the auction floor, with a vote afterward allowing for fine-tuning of final voting power amounts while ensuring that all land owners will have a say.
+Een alternatief zou zijn om alle plot platte stemkracht te geven op basis van de veilingsverdieping. met een stem daarna, die het mogelijk maakt om de uiteindelijke stemverhoudingen te verfijnen, terwijl alle grondbezitters inspraak hebben.
 
-This would give 100, 200, and 1300 GHST worth of voting power to humbles, reasonables, and spacious parcels, respectively.
+Dit zou respectievelijk 100, 200 en 1300 GHST stemrecht geven aan humble, reasonable en spacious parcelen.
 
-*CoreProp Edits*
+*CoreProp bewerkingen*
 
-An option for “Auction floor” has also been added. This brings the Vote Differential up to 20%, meaning that any option must have 20% higher than the next option to pass.
+Een optie voor "Veiling verdieping" is ook toegevoegd. Dit brengt het stemverschil tot 20%, wat betekent dat elke optie 20% hoger moet zijn dan de volgende optie.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/voting-power-for-land-plots/2508)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/voting-power-for-land-plots/2508)
 
-Option 1: Voting power of 0.5 GHST/pixel
+Optie 1: Stemkracht van 0.5 GHST/pixel
 
-Option 2: Voting power of 1 GHST/pixel
+Optie 2: Stemkracht van 1 GHST/pixel
 
-Option 3: Voting power from auction floor
+Optie 3: Stemvermogen van veilingsvloer
 
-Option 4: No voting power for REALM
+Optie 4: geen stemrecht voor REALM
 
-**Voting Period:** 10 - 17 December 2021
+**Stemperiode:** van 10 tot 17 oktober 2021
 
 **Resultaten:**
 
-table_agip17
+tabel_agip17
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x28b630e088240ee4bb4e680b071767b98b962a4006c71e71f00c782b86adfbab)
 
 <hr />
 
 ### Gotchiverse Patch v0.1
-**Aavegotchi Improvement Proposal #18**
+**Aavegotchi Voorstel Verbetering #18**
 
 **Voorstel Samenvatting:**
 
-*Problem:*
+*Probleem:*
 
-Although the Gotchiverse is not yet live, we have identified a few areas that we believe should be adjusted before the game is released, and would like to bring these items to the community’s attention for discussion and a decision on whether or not to enact.
+Hoewel de Gotchiverse nog niet live is, hebben we enkele gebieden geïdentificeerd die naar onze mening moeten worden aangepast voordat het spel wordt vrijgelaten. en wil deze zaken graag onder de aandacht van de gemeenschap brengen voor discussie en een besluit over het al dan niet uitvaardigen.
 
-To ensure no single proposed change can revert the entire batch, we originally created six separate snapshot SigProp Proposals. This CoreProp combines the successful SigProps into the first Gotchiverse Patch v0.1!
+Om ervoor te zorgen dat geen enkele voorgestelde wijziging de hele partij kan terugdraaien, hebben we oorspronkelijk zes afzonderlijke momentopnames gemaakt. Deze CoreProp combineert de succesvolle SigProps met de eerste Gotchiverse Patch v0.1!
 
-*Solution:*
+*Oplossing:*
 
 Patch 0.1a
 
