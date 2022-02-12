@@ -551,90 +551,90 @@ Om ervoor te zorgen dat geen enkele voorgestelde wijziging de hele partij kan te
 
 Patch 0.1a
 
-As we were finalizing key details such as build costs and harvesting rates for the upcoming Whitepaper, we discovered that one of our key assumptions had undervalued the amount of Alchemica in each parcel relative to total supply. The patch will increase the amount of Alchemica under each parcel to match our initial Alchemica tokens’ supplies, allocations, and emissions rates.
+Op dit moment leggen we de belangrijkste details zoals bouwkosten en oogsttarieven voor de aanstaande Whitepaper, definitief vast. we ontdekten dat een van onze belangrijkste veronderstellingen de hoeveelheid Alchemica in elk pakje onderschat had ten opzichte van het totale aanbod. De patch zal de hoeveelheid Alchemica onder elk pakje verhogen zodat deze overeenkomt met de aanvankelijke voorraden en toewijzingen en emissietarieven.
 
-The SigProp for Patch 0.1a passed with the following numbers:
+De SigProp voor Patch 0.1a is doorgegeven aan de volgende nummers:
 
-Yes: 13.14M GHST
+Ja: 13.14M GHST
 
-No: 41.85k GHST
+Nee: 41.85k GHST
 
-Patch 0.1b
+Patch 0.1a
 
-Although our original intention was to make boosts one-time only, it is clear that many in the community interpreted the GEO paper to mean that boosts would be replenished. This patch allows boosts to also replenish together with the parcel itself after each Great Battle.
+Het was oorspronkelijk onze bedoeling om alleen een eenmalige boost te maken. het is duidelijk dat velen in de gemeenschap het GEO-document hebben geïnterpreteerd als een opleving van de middelen. Deze patch maakt het mogelijk om ook het parceel aan te vullen na elke Grote Strijd.
 
-However, unlike parcels, the replenish rate is a fixed amount that is the same per round. For example, a parcel with a “5” FUD boost receives 5 servings of FUD per boost round.
+In tegenstelling tot parcelen is het aanvulleningspercentage echter een vast bedrag dat hetzelfde is per ronde. Bijvoorbeeld, een pakketje met "5" FUD boost ontvangt 5 porties FUD per boost ronde.
 
-The SigProp for Patch 0.1b also passed pretty convincingly:
+De SigProp voor Patch 0.1b is ook redelijk overtuigend gegaan:
 
-Yes: 10.36M GHST
+Ja: 10.14M GHST
 
-No: 2.37M GHST
+Nee: 2.85k GHST
 
 Patch 0.1c
 
-Even with Patch 0.1b passed, boosts will still be undervalued compared to the value the market has assigned to them, relative to a similar parcel with no boosts. Patch 0.1c proposed increasing boosts by 5x to bring the value of a boost closer to what the market is currently valuing it at.
+Zelfs met patch 0.1b geslaagd, boosts zullen nog steeds ondergewaardeerd worden vergeleken met de waarde die de markt ze heeft toegewezen, in relatie tot een vergelijkbaar parceel zonder boosten. Patch 0.1c stelt een verhogende boost voor met 5x om de waarde van een verhoging dichter bij de koers te brengen waar de markt op dit moment op waardeert.
 
-The SigProp for Patch 0.1c did not pass and WILL NOT BE INCLUDED in Patch v0.1:
+De SigProp voor Patch 0.1c is niet geslaagd en ZAL NIET aanvaard worfden in Patch v0.1:
 
-Yes: 5.85M GHST
+Ja: 5.14M GHST
 
-No: 8.04M GHST
+Nee: 8.85k GHST
 
-Future SigProps may be created to address this issue separately.
+Toekomstige SigProps kunnen worden gemaakt om dit probleem afzonderlijk aan te pakken.
 
-Patch 0.1d
+Patch 0.1a
 
-The Gotchiverse Litepaper mentions that Kinship will be exchanged for a serving of Alchemica, essentially “burning” kinship. We certainly want to maintain the idea of a “kinship boost” for channeling but after thinking more deeply, we now believe there is a better way to achieve this.
+De Gotchiverse Litepaper vermeldt dat Kinship zal worden ingeruild voor een dienst van Alchemica, in wezen een ‘verbranding’ kinship. We willen zeker het idee behouden van een ‘kinship boost’ voor channeling, maar na een diepgaandere bezinning zijn wij van mening dat er nu een betere manier is om dit te bereiken.
 
-An “achievements” approach does not require depleting an Aavegotchi’s kinship. Instead, high kinship Aavegotchis will channel Alchemica at a slightly higher rate, depending on their achievement level.
+Een aanpak van “prestaties” vereist geen uitputting van de kinship van een Aavegotchi. In plaats daarvan zal hoge kinship Aavegotchis Alchemica Channelen tegen een iets hogere snelheid, afhankelijk van hun prestatieniveau.
 
-The SigProp for Patch 0.1d also passed:
+De SigProp voor Patch 0.1d is ook doorgegeven:
 
-Yes: 12.64M GHST
+Ja: 12.14M GHST
 
-No: 431.93k GHST
+Nee: 431.85k GHST
 
 Patch 0.1e & 0.1f
 
-Districts did not exist as a Citaadel concept when the Litepaper was first published. That said, we have always envisioned an area or areas for Pixelcraft to develop in-depth experiences that add value to the overall game. Likewise, one of our earliest ideas, (predating the Citaadel itself!) was to reserve a town square for real time DAO voting. The idea of having a gamified governance experience was one of the very earliest ideas seeding Aavegotchi’s need for its own virtual world.
+Districten bestonden niet als Citaadel concept toen de Litepaper voor het eerst werd gepubliceerd. Dat gezegd hebbende, hebben we altijd een gebied of gebieden voor Pixelcraft bedacht om diepgaande ervaringen te ontwikkelen die waarde toevoegen aan het hele spel. Een van onze vroegste ideeën, (voorafgegaan aan de Citaadel zelf!) was het reserveren van een plein in de stad voor realtime voor het stemmen met de DAO. Het idee van een spelende governance ervaring was een van de allereerste ideeën die de behoefte van Aavegotchi aan zijn eigen virtuele wereld zaaiden.
 
-Patch 0.1e & 0.1f proposed allocating 1000 parcels each to Pixelcraft and the AavegotchiDAO in D27/D30. Both Patches passed convincingly:
+Patch 0.1e & 0.1f stelt voor om 1000 parcelen toe te wijzen aan Pixelcraft en de AavegotchiDAO in D27/D30. Beide patches kwamen overtuigend voorbij:
 
-Yes: 11.94M GHST / 12.14M GHST
+Ja: 11.94M GHST / 12.14M GHST
 
-No: 615.78k GHST / 734.92k GHST
+Nee: 615.78k GHST / 734.92K GHST
 
-Conclusion
+Besluit
 
-And that’s it for the first Gotchiverse Patch! Now it is up to you, the AavegotchiDAO, to decide if Patch v0.1 should be implemented or not.
+En dat is het voor de eerste Gotchiverse Patch! Nu is het aan jullie, de AavegotchiDAO, om te beslissen of Patch v0.1 al dan niet moet worden toegepast.
 
-Option 1: Yes, implement Patch v0.1
+Optie 1: Ja, implementeer Patch v0.1
 
-Option 2: No, do not implement Patch v0.1
+Optie 2: Nee, voer nu niet uit
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
 
-Option 1: Yes, implement Patch v0.1
+Optie 1: Ja, implementeer Patch v0.1
 
-Option 2: No, do not implement Patch v0.1
+Optie 2: Nee, voer nu niet uit
 
-**Voting Period:** 5 - 12 January 2022
+**Stemperiode:** van 5 tot 12 oktober 2022
 
 **Resultaten:**
 
-table_agip18
+tabel_agip18
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x396844d504394f7f335f070d443c33455300ee21d90db6c4b089760a3e0469bf)
 
 <hr />
 
 ### GST Liquidity aanbieden op SynFutures
-**Aavegotchi Improvement Proposal #19**
+**Aavegotchi Voorstel Verbetering #19**
 
 **Voorstel Samenvatting:**
 
-Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
+Omdat Aavegotchi veel liquiditeit heeft verzameld op Spot DEXes, is het hoog tijd voor Aavegotchi om zijn Futures markt te creëren en te stimuleren. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
 
 Great investors and team background SynFutures is backed by Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, and more. The team’s background is a great combination of traditional finance and DeFi. SynFutures is the only project of its kind which can support the listing of any assets by anyone in a permissionless manner (in less than 30s).
 
