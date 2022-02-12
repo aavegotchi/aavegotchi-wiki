@@ -634,27 +634,27 @@ tabel_agip18
 
 **Voorstel Samenvatting:**
 
-Omdat Aavegotchi veel liquiditeit heeft verzameld op Spot DEXes, is het hoog tijd voor Aavegotchi om zijn Futures markt te creëren en te stimuleren. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
+Omdat Aavegotchi veel liquiditeit heeft verzameld op Spot DEXes, is het hoog tijd voor Aavegotchi om zijn Futures markt te creëren en te stimuleren. Derivatives markten vormen het grootste deel van de mondiale handelsactiviteit en geven gebruikers de mogelijkheid om hun investeringen te verhogen. Het toevoegen van GHST liquiditeit aan SynFutures zou mensen in staat stellen om longs (of shorts) te nemen op de toekomst van Aavegotchi. Maar waarom SynFutures?
 
-Great investors and team background SynFutures is backed by Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, and more. The team’s background is a great combination of traditional finance and DeFi. SynFutures is the only project of its kind which can support the listing of any assets by anyone in a permissionless manner (in less than 30s).
+Geweldige investeerders en teamachtergrond SynFutures worden ondersteund door Polychain, Pantera, Dragonfly, Framework, Standaard Crypto, Woo, en meer. De achtergrond van het team is een geweldige combinatie van traditionele financiën en DeFi. SynFutures is het enige project van zijn soort dat de lijst van assets door iedereen op een toelatige manier (in minder dan 30s) kan ondersteunen.
 
-Security Backed by solid experience from the TradFi financial engineering and DeFi protocol safety, SynFutures has many risk management features (e.g. anti-flashloan attack, EMA smoothing method, etc.) and has gone through external code audits.
+Beveiliging Ondersteunt door de solide ervaring in TradFi financial engineering and DeFi protocol security, heeft SynFutures veel risk management features (bijv.. anti-flashlening aanval, EMA vloeiende methode, enz.) en heeft externe codeaudits doorlopen.
 
-Easy to manage and start SynFutures supports a single token model to add liquidity which means the Aavegotchi Treasury would only have to deposit GHST instead of offering two tokens with the risk of impermanent loss. We are asking for 200k worth of GHST tokens to kickstart the pool. The liquidity could be withdrawn anytime.
+Eenvoudig te beheren en te starten SynFutures ondersteunt een enkel token model om liquiditeit toe te voegen, wat betekent dat de Aavegotchi Schat alleen GHST hoeft te storten in plaats van twee tokens aan te bieden met het risico van impermanent verlies. We vragen om 200K GHST-tokens om de pool te starten. De liquiditeit kan op elk moment worden ingetrokken.
 
-Growth Potential Trading volume and users are growing fast on SynFutures. For the past 3 months since the SynFutures Alpha launched, we reached 47k users of and $1bn+ in trading volume. All this happened without a native SynFutures token, which could attract even more users.
+Groeipotentieel Handelsvolume en gebruikers groeien snel op SynFutures. De afgelopen 3 maanden sinds de SynFutures Alpha werd opgestart, bereikten we 47k-gebruikers van en $1bn+ in handelsvolume. Dit alles gebeurde zonder een autochtone SynFutures token, die nog meer gebruikers zou kunnen aantrekken.
 
-Volume analysis Quickswap vs. SynFutures: Total LPs: 150k / 40K Total traders: 100k / 20k Daily trading volume: $100M / $29M
+Volumeanalyse Quickswap vs. SynFutures: Totale LPs: 150k / 40K Totale Handelsvolume: 100k / 20k Dagelijks handelsvolume: $100M / $29M
 
-SynFutures trading volume makes up ~1/3rd of QuickSwap, and the amount of traders is 1/5th as big as on QuickSwap, however, the trading volume for different pairs is more concentrated. SynFutures has 108 trading pairs while QuickSwap has more than 22k pairs. For example, the daily trading volume of MATIC-USDC on SynFutures closes in on around $9M, while Quickswap reaches $14M.
+Het handelsvolume van de SynFutures bedraagt ~1/3e van QuickSwap, en de hoeveelheid handelaren is 1/5e zo groot als bij QuickSwap, Het handelsvolume van verschillende paren is echter meer geconcentreerd. SynFutures heeft 108 trading paren terwijl QuickSwap meer dan 22k paren heeft. Het dagelijkse handelsvolume van MATIC-USDC bij SynFutures sluit bijvoorbeeld op ongeveer $9 terwijl Quickswap $14 bereikt.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
 
-Option 1: Yes, add $200k in GHST
+Optie 1: Ja, stake 100k GHST
 
-Option 2: No, do not add $200k in GHST
+Optie 2: Nee, voeg geen $200k aan GHST toe
 
-**Voting Period:** 2 - 9 February 2022
+**Stemperiode:** van 2 tot 9 oktober 2022
 
 **Resultaten:**
 
@@ -662,54 +662,54 @@ Option 2: No, do not add $200k in GHST
 
 <hr />
 
-### Het creëren van de DAO schatkist Taask Force
-**Aavegotchi Improvement Proposal #20**
+### Het creëren van de DAO Schatkist Taask Force
+**Aavegotchi Voorstel Verbetering #20**
 
 **Voorstel Samenvatting:**
 
-We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
+We stellen voor om de DAO Schatkist Taask Force (DTF) op te richten. Dit comité zal in eerste instantie bestaan uit acht leden die het lidmaatschap binnen zes maanden opnieuw zullen beoordelen door de DAO.
 
-As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/treasury) bijna ~$11,408,400 ter waarde van DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
 
-Proposed Mission Statement
+Voorgestelde missie verklaring
 
-The Aavegotchi DAO Treasury Taask Force is a dynamic committee assigned with making DAO treasury management proposals to the community and DAO for consideration. The initial mission and goals of the committee will be: 1) Grow and optimize the DAO treasury with an emphasis on safety, security and transparency; 2) Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management; and 3) foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+De Aavegotchi DAO Schatkist Taask Force is een dynamisch comité dat is toegewezen aan DAO schatkistmanagementvoorstellen ter overweging aan de gemeenschap en DAO heeft voorgelegd. De eerste missie en doelstellingen van de commissie zullen zijn: 1) de schatkist van de DAO ontwikkelen en optimaliseren met de nadruk op veiligheid, veiligheid en transparantie; 2) Partner met Pixelcraft om te helpen bij het ontwikkelen en identificeren van tools en infrastructuur voor lopende Schatbeheer; en 3) bevorderen en aanmoedigen van de groei van de Aavegotchi gemeenschap door het vergroten van het bewustzijn, het actief bevorderen van adoptie en het behouden van huidige gebruikersbetrokkenheid.
 
-Initial Funding
+Initiële financiering
 
-After lengthy discussions with the task force, the community, and with coderdan, the DTF would like to request an initial 50,000 GHST budget. The 50,000 GHST budget would be transferred from the DAO Treasury to the 8 multi-signature Gnosis Safe. This budget will greatly expand the flexibility of the DAO in incentivizing and rewarding engaged community members, developers, creatives, and overall contributors. This budget will never be used to reward members of the DTF. The DTF’s core main initiative will be to form a proposal for overall use of the DAO Treasury by investing some of the $10 million DAI/GHST in yield bearing opportunities. With effective deployment of the DAO Treasury, even modest returns would more than pay for the DTF budget request. The DTF will ensure comprehensive accounting and provide community facing documentation to ensure transparency. Some potential uses for the budget include the following:
+Na langdurige discussies met de taskforce, de gemeenschap en met coderdaan zou de DTF een eerste 50.000 GHST-begroting willen vragen. De 50.000 GHST budget zal worden overgeheveld van het Schat van de DAO naar de 8 handtekeningen Gnosis Safe. Deze begroting zal de flexibiliteit van de DAO enorm vergroten bij het stimuleren en belonen van betrokken gemeenschapsleden, ontwikkelaars, creatieven en algehele bijdragers. Dit budget zal nooit worden gebruikt om leden van het DTF te belonen. Het belangrijkste initiatief van de DTF zal zijn om een voorstel op te stellen voor het totale gebruik van de DAO-schatkist door een deel van de 10 miljoen dollar DAI/GHST te investeren in de rendementsopbrengst. Door het effectief inzetten van de DAO-schatkist, zouden zelfs bescheiden rendementen meer dan betalen voor het DTF-begrotingsverzoek. De DTF zal zorg dragen voor een uitgebreide boekhouding en de gemeenschap documenten verschaffen die met de nodige transparantie te maken hebben. Enkele potentiële toepassingen voor de begroting zijn het volgende:
 
-* Reward community engagement and aarcade play
-* Reward game developers and designers
-* Reward community application developers
-* Reward and acknowledge community art contributions
-* Reward, acknowledge and grow content creators and general marketing efforts
-* Expand Aavegotchi and GHST’s opportunities for decentralized financial applications
+* Beloon gemeenschap betrokkenheid en aarcade spelen
+* Beloon spel ontwikkelaars en ontwerpers
+* Beloon community applicatieontwikkelaars
+* Beloon en erken de community artistieke bijdragen
+* Beloon, erken en groei content makers en algemene marketinginspanningen
+* Breid Aavegotchi en GHST's kansen uit voor gedecentraliseerde financiële toepassingen
 
-The DTF is developing a structured plan and multiple potential pilot projects to best utilize these funds. We will work to develop tools to allow maximum transparency into the budget use. Expenses within this 50,000 GHST budget would not require a DAO approval in order to maximize nimble use of the funds. Any further budget requests beyond the initial 50,000 GHST would require a DAO vote.
+De DTF ontwikkelt een gestructureerd plan en meerdere potentiële proefprojecten om deze fondsen zo goed mogelijk te benutten. We zullen werken aan de ontwikkeling van instrumenten om maximale transparantie bij het gebruik van de begroting mogelijk te maken. Voor uitgaven binnen deze 50.000 GHST begroting is geen goedkeuring van DAO nodig om een nuchter gebruik van de fondsen te maximaliseren. Voor verdere begrotingsverzoeken na de aanvankelijke 50.000 GHST zou een DAO-stemming nodig zijn.
 
-The initial 8 members of the DTF
+De eerste 8 leden van de DTF
 
 * BowtiedNerd
 * Mori
-* letsgobankless
+* letsgobankloos
 * Addison
 * Deucehearts
 * BackfireCapital
 * Swappi
 * Dr Wagmi
 
-We appreciate the Aavegotchi community’s support and look forward to our first proposal.
+We waarderen de steun van de Aavegotchi gemeenschap en kijken uit naar ons eerste voorstel.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
 
-Option 1: Yes, with 50k GHST budget
+Optie 1: Ja, met 50k GHST budget
 
-Option 2: Yes, without 50k GHST budget
+Optie 2: Ja, zonder 50k GHST budget
 
-Option 3: No, do not create the DTF
+Optie 3: Nee, maak geen DTF aan
 
-**Voting Period:** 2 - 9 February 2022
+**Stemperiode:** van 2 tot 9 oktober 2022
 
 **Resultaten:**
 
