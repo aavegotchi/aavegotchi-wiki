@@ -28,39 +28,39 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#voting-power-based-on-brs>Stemkracht gebaseerd op BRS</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Stemkracht op basis van de Wearables' Maall Price</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschap tussen AavegotchiDAO, Pixelcraft, en DinoSwap</a></li>
-<li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS Committee</a></li>
-<li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
-<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Add an Aging Mechanic to affect Aavegotchi rarity scores</a></li>
-<li><a href=#earn-frens-with-ghst-matic-lp-tokens>Earn FRENS with GHST-MATIC LP Tokens</a></li>
-<li><a href=#create-a-wearables-taask-force>Create a Wearables Taask Force</a></li>
-<li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST to generate Minigame Rewards</a></li>
-<li><a href=#adding-voting-power-to-realm-parcels>Adding Voting Power to REALM Parcels</a></li>
+<li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS commissie</a></li>
+<li><a href=#launch-haunt-2>Start Haunt 2</a></li>
+<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden</a></li>
+<li><a href=#earn-frens-with-ghst-matic-lp-tokens>Verdien FRENS met GHST-MATIC LP Tokens</a></li>
+<li><a href=#create-a-wearables-taask-force>Maak een Wearables Taask Force</a></li>
+<li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST om Minigame Beloningen te genereren</a></li>
+<li><a href=#adding-voting-power-to-realm-parcels>Toevoegen van Stemkracht aan REALM parcelen</a></li>
 <li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
-<li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
-<li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>GST Liquidity aanbieden op SynFutures</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>Het creëren van de DAO schatkist Taask Force</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Naam van Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portalen gekocht in één transactie</a></li>
 </ol>
 
 </div>
 
 ### Tap increase for Scaling Sprint
-**Aavegotchi Improvement Proposal #1**
+**Aavegotchi Voorstel Verbetering #1**
 
-**Proposal Summary:** The GHST Bonding Curve has been live for nearly one month and with that comes the first opportunity for GHST holders to adjust the DAICO’s tap mechanism. AavegotchiDAO 1.0 is built on the Aragon platform and functions as a straightforward DAICO where GHST holders are able to vote once per month to increase or decrease the flow of funds to the core team via the tap. The tap provides DAI directly from the GHST Bonding Curve where over 7.5 million DAI are currently secured.
+**Voorstel samenvatting:** De GHST Bonding Curve bestaat al bijna een maand en dat biedt de eerste gelegenheid voor GHST houders om het kraanmechanisme van DAICO aan te passen. AavegotchiDAO 1. is gebouwd op het Aragonplatform en functioneert als een eenvoudige DAICO waar GHST-houders één keer per maand kunnen stemmen om via de kraan de geldstroom naar het kernteam te verhogen of te verminderen. De kraan verschaft DAI rechtstreeks vanuit de GHST Bonding Curve waar momenteel meer dan 7,5 miljoen DAI is verzekerd.
 
-We request the Aavegotchi community vote to increase the tap from 50K DAI / 30 days to 100K DAI / 30 days. 50k DAI was not enough to cover all of the milestones achieved (community growth, GHST token, game development) and the next sprint is even more ambitious. The hard coded constraints of AavegotchiDAO 1.0 limit this proposal to only a 50K DAI increase for this month’s voting period and thus we have budgeted our strategy with a total 100k DAI tap in mind.
+We verzoeken de Aavegotchi gemeenschap om de kraan van 50K DAI / 30 dagen naar 100K DAI / 30 dagen te verhogen. 50k DAI was niet genoeg om alle bereikte mijlpalen (communautaire groei, GHST token, spelontwikkeling) te beslaan, en de volgende sprint is nog ambitieuzer. De harde gecodeerde kaders van AavegotchiDAO 1. dit voorstel beperken tot een verhoging van 50K DAI voor de stemperiode van deze maand, en daarom hebben we onze strategie begroot met een totaal van 100K DAI in gedachten.
 
-The budget going forward deploys the additional 50k DAI into 4 distinct categories:
-* A game maker’s fund so we can solidify terms with key game developers.
-* Additional contracts for key positions in marketing, design, and development.
-* A marketing boost to make sure Aavegotchi’s presence is expanded.
-* Community rewards so we can continue to develop programs (like the Aartists and Aapprentices teams) that incentivize the most inspired in our community.
+In de begroting wordt de extra 50k DAI ingezet in vier verschillende categorieën:
+* Een fonds voor game makers zodat we de voorwaarden kunnen versterken met de belangrijkste spelontwikkelaars.
+* Extra contracten voor sleutelposities in marketing, ontwerp en ontwikkeling.
+* Een marketingboost om ervoor te zorgen dat de aanwezigheid van Aavegotchi wordt uitgebreid.
+* Community beloningen zodat we programma's kunnen blijven ontwikkelen (zoals de Aartiesten en Aapprentices teams) die de meest geïnspireerde in onze gemeenschap stimuleren.
 
-**Voting Period:** 15 - 19 October 2020
+**Stemperiode:** van 15 tot 19 oktober 2020
 
-**Results:**
+**Resultaten:**
 
 table_agip1
 
@@ -83,7 +83,7 @@ Any fees earned would automatically be transferred to the DAO Treasury address a
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip2
 
@@ -104,7 +104,7 @@ In order to offset the burning (which could ultimately turn GHST into a stableco
 
 **Voting Period:** 18 - 21 January 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip3
 
@@ -129,7 +129,7 @@ Option 4: Pre-sale, in which each wallet can subscribe for 1 Portal in exchange 
 
 **Voting Period:** 17 - 24 March 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip4
 
@@ -154,7 +154,7 @@ Option 3: Neither, leave it as is
 
 **Voting Period:** 17 - 24 March 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip5
 
@@ -177,7 +177,7 @@ Option 2: No, leave the fees as they are
 
 **Voting Period:** 7 - 13 April 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip6
 
@@ -206,7 +206,7 @@ Option 2: No, SigProps should not give XP
 
 **Voting Period:** 12 - 18 May 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip7
 
@@ -227,7 +227,7 @@ Option 2: No, Aavegotchis shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip8
 
@@ -248,7 +248,7 @@ Option 2: No, Wearables shouldn’t have Voting Power
 
 **Voting Period:** 11 - 17 June 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip9
 
@@ -269,7 +269,7 @@ Option 2: No, don't partner with Dinoswap
 
 **Voting Period:** 13 - 20 June 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip10
 
@@ -277,7 +277,7 @@ table_agip10
 
 <hr />
 
-### Liquidity Manager / FRENS Committee
+### Liquidity Manager / FRENS commissie
 **Aavegotchi Improvement Proposal #11**
 
 **Proposal Summary:**
@@ -312,7 +312,7 @@ Option 2: No, keep everything as it is
 
 **Voting Period:** 17 - 25 August 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip11
 
@@ -320,7 +320,7 @@ table_agip11
 
 <hr />
 
-### Launch Haunt 2
+### Start Haunt 2
 **Core Prop**
 
 **Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
@@ -335,7 +335,7 @@ Option 2: No, do not launch Haunt 2 now
 
 **Voting Period:** 19 - 26 July 2021
 
-**Results:**
+**Resultaten:**
 
 table_launchHaunt2
 
@@ -343,7 +343,7 @@ table_launchHaunt2
 
 <hr />
 
-### Add an Aging Mechanic to affect Aavegotchi rarity scores
+### Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden
 **Aavegotchi Improvement Proposal #13**
 
 **Proposal Summary:**
@@ -376,7 +376,7 @@ Option 2: No, do not implement right now
 
 **Voting Period:** 2 - 9 October 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip13
 
@@ -384,7 +384,7 @@ table_agip13
 
 <hr />
 
-### Earn FRENS with GHST-MATIC LP Tokens
+### Verdien FRENS met GHST-MATIC LP Tokens
 **Aavegotchi Improvement Proposal #14**
 
 **Proposal Summary:** Polygon has been a huge reason behind the success of Aavegotchi. Super low transaction fees paid in MATIC have enabled the team to build a game where there is lots of activity happening on-chain such as petting, bid to earn auctions, Baazaar sales, and storage of the Aavegotchi game art.
@@ -411,7 +411,7 @@ Option 2: No, don't give FRENS
 
 **Voting Period:** 12 - 19 November 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip14
 
@@ -419,7 +419,7 @@ table_agip14
 
 <hr />
 
-### Create a Wearables Taask Force
+### Maak een Wearables Taask Force
 **Aavegotchi Improvement Proposal #15**
 
 **Proposal Summary:**
@@ -446,7 +446,7 @@ Option 2: No, don't establish the WTF
 
 **Voting Period:** 12 - 19 November 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip15
 
@@ -454,7 +454,7 @@ table_agip15
 
 <hr />
 
-### Stake 100k GHST to generate Minigame Rewards
+### Stake 100k GHST om Minigame Beloningen te genereren
 **Aavegotchi Improvement Proposal #16**
 
 **Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
@@ -483,7 +483,7 @@ Option 2: No, wait for Aarcade DAO
 
 **Voting Period:** 10 - 17 December 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip16
 
@@ -491,7 +491,7 @@ table_agip16
 
 <hr />
 
-### Adding Voting Power to REALM Parcels
+### Toevoegen van Stemkracht aan REALM parcelen
 **Aavegotchi Improvement Proposal #17**
 
 **Proposal Summary:**
@@ -528,7 +528,7 @@ Option 4: No voting power for REALM
 
 **Voting Period:** 10 - 17 December 2021
 
-**Results:**
+**Resultaten:**
 
 table_agip17
 
@@ -621,7 +621,7 @@ Option 2: No, do not implement Patch v0.1
 
 **Voting Period:** 5 - 12 January 2022
 
-**Results:**
+**Resultaten:**
 
 table_agip18
 
@@ -629,7 +629,7 @@ table_agip18
 
 <hr />
 
-### Providing GHST Liquidity on SynFutures
+### GST Liquidity aanbieden op SynFutures
 **Aavegotchi Improvement Proposal #19**
 
 **Proposal Summary:**
@@ -656,13 +656,13 @@ Option 2: No, do not add $200k in GHST
 
 **Voting Period:** 2 - 9 February 2022
 
-**Results:**
+**Resultaten:**
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
 
 <hr />
 
-### Creating the DAO Treasury Taask Force
+### Het creëren van de DAO schatkist Taask Force
 **Aavegotchi Improvement Proposal #20**
 
 **Proposal Summary:**
@@ -711,13 +711,13 @@ Option 3: No, do not create the DTF
 
 **Voting Period:** 2 - 9 February 2022
 
-**Results:**
+**Resultaten:**
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Naam van Aavegotchi Marketplace
 **Snapshot Voting**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -738,7 +738,7 @@ If "Neither" wins...you guys better start coming up with some good alternatives!
 
 **Voting Period:** 8 - 11 February 2021
 
-**Results:**
+**Resultaten:**
 
 table_marketplaceName
 
@@ -746,7 +746,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen
 
 **Snapshot Voting**
 
@@ -764,7 +764,7 @@ The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, si
 
 **Voting Period:** 8 - 11 February 2021
 
-**Results:**
+**Resultaten:**
 
 table_ghstUsdcLp
 
@@ -772,7 +772,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Portalen gekocht in één transactie
 
 **Snapshot Voting**
 
@@ -800,7 +800,7 @@ AavegotchiDAO discussion topic 👇
 
 **Voting Period:** 23 - 26 February 2021
 
-**Results:**
+**Resultaten:**
 
 table_portalsPurchased
 
