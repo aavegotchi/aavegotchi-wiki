@@ -190,138 +190,138 @@ tabel_agip6
 
 **Voorstel samenvatting:** We hebben momenteel veel Signapshot / Gemeenschapsvoorstellen op Snapshot en dagelijks nieuwe berichten op ons forum. Tot nu toe kon geen van deze voorstellen zelfs maar het quorum van 20 procent bereiken. De populairste bij @JG over het toevoegen van extra kosten voor RF kreeg slechts 2 miljoen GHST in stemmen (~11%)-hoewel het team besloot om het als een kernvoorstel te beschouwen. Na een upgrade naar Core hebben we recht door het quorum gebroken in minder dan 24 uur.
 
-I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+Ik denk dat daar twee voor de hand liggende redenen voor zijn. Aan de ene kant is onze Snapshot op dit moment een beetje chaotisch, waarbij sommige Signal Proposals het sjabloon helemaal niet volgen. Aan de andere hand denk ik aan het feit dat stemmen op een kernvoorstel nu 20 ervaring (XP) voor uw Gotchi geeft.
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
+Ik stel voor om een kleine afname van de ervaring (10 XP) toe te voegen voor mensen die op succesvolle Signal Voorstellen hebben gestemd, diegene die het quorum bereiken en worden opgewaardeerd tot Core Voorstellen. Het simpelweg laten vallen van XP voor alle Gemeenschapsvoorstellen kan leiden tot slechtere kwaliteitsinstellingen, wat niet het doel van dit voorstel zou moeten zijn.
 
-Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
+Zelfs als 10 XP misschien niet veel is, het geeft mensen stimulansen om daadwerkelijk door de Signalen te kijken en te stemmen op kwalitatieve voorstellen, met een grotere kans op het bereiken van het quorum. Als DAO is betrokkenheid van de gemeenschap buitengewoon belangrijk en ik denk dat dit een kleine, maar fatsoenlijke stap in de goede richting is.
 
-If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
+Als dit voorstel het quorum bereikt en doorgaat, zullen alle Aavegotchis die hun eigenaren aan het einde van de stemming 10 XP ontvangen!
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
-Option 1: Yes, successful SigProps give XP
+Optie 1: Ja, succesvolle SigProps geven XP
 
-Option 2: No, SigProps should not give XP
+Optie 2: Nee, SigProps mag geen XP geven
 
-**Voting Period:** 12 - 18 May 2021
+**Stemperiode:** van 12 tot 18 oktober 2021
 
 **Resultaten:**
 
-table_agip7
+tabel_agip7
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
 
 <hr />
 
 ### Stemkracht gebaseerd op BRS
-**Aavegotchi Improvement Proposal #8**
+**Aavegotchi Voorstel Verbetering #8**
 
-**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+**Voorstel samenvatting:**Stemkracht voor Aavegotchis in het adres van een kiezer toevoegen met een waarde van 1 GHST per BRS (basislaagscore, niet inclusief uitgeruste wearables).
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+Optie 1: Ja, geef Stemvermogen aan Aavegotchi gebaseerd op BRS
 
-Option 2: No, Aavegotchis shouldn’t have Voting Power
+Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
 
-**Voting Period:** 11 - 17 June 2021
+**Stemperiode:** van 11 tot 17 oktober 2021
 
 **Resultaten:**
 
-table_agip8
+tabel_agip8
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
 
 <hr />
 
 ### Stemkracht op basis van de Wearables' Maall Price
-**Aavegotchi Improvement Proposal #9**
+**Aavegotchi Voorstel Verbetering #9**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**Voorstel Samenvatting:** Voeg Stemkracht toe voor Wearables welke beheerd worden door Aavegotchis en in het stemadres.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+Optie 1: Ja, geef Stemkracht aan Wearables op basis van de maximale prijs
 
-Option 2: No, Wearables shouldn’t have Voting Power
+Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
 
-**Voting Period:** 11 - 17 June 2021
+**Stemperiode:** van 11 tot 17 oktober 2021
 
 **Resultaten:**
 
-table_agip9
+tabel_agip9
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
 
 <hr />
 
 ### Partnerschap tussen AavegotchiDAO, Pixelcraft, en DinoSwap
-**Aavegotchi Improvement Proposal #10**
+**Aavegotchi Voorstel Verbetering #10**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**Voorstel Samenvatting:** Sommige leden van de gemeenschap maken zich zorgen over de afnemende liquiditeit van GHST op Quickswap en hun geleidelijk dalende LP beloningen. In plaats van simpelweg meer liquiditeit toe te wijzen aan de pool, overwegen we om samen te werken met een snelle liquiditeitsaggregator genaamd DinoSwap. De voorwaarden omvatten een totaal van 200k USD ter waarde van GHST tokens die moeten worden toegewezen aan hun aanmoedigde ‘extinction pools’, waarvan de details hieronder zijn uitgewerkt.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
-Option 1: Yes, let's partner with DinoSwap
+Optie 1: Ja, laten we samenwerken met DinoSwap
 
-Option 2: No, don't partner with Dinoswap
+Optie 2: Nee, geen partner met Dinoswap
 
-**Voting Period:** 13 - 20 June 2021
+**Stemperiode:** van 13 tot 20 oktober 2021
 
 **Resultaten:**
 
-table_agip10
+tabel_agip10
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
 
 <hr />
 
-### Liquidity Manager / FRENS commissie
-**Aavegotchi Improvement Proposal #11**
+### Liquidity Manager / FRENS Commissie
+**Aavegotchi Voorstel Verbetering #11**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
-*Problem*
+*Probleem*
 
-To incentivize liquidity on QuickSwap, you can earn additional FRENS rewards for staking Liquidity Pool (LP) tokens on the Aavegotchi website. Depending on the risk of Impermanent Loss (IL) these numbers can vary, originally it was +35% for GHST-QUICK, +20% for GHST-ETH and +10% for GHST-USDC. Because the rates have to be manually adjusted and prices have moved quite a bit since this was introduced, the FRENS rewards are off by quite a lot; GHST-QUICK is at around +90%, while GHST-USDC earns -10%.
+Om liquiditeit in QuickSwap te stimuleren, kunt u extra GRATIS beloningen ontvangen voor het staken van de Liquidity Pool (LP) tokens op de Aavegotchi website. Afhankelijk van het risico op onpermanente verliezen (IL) kunnen deze getallen verschillen, oorspronkelijk was het +35% voor GHST-QUICK, +20% voor GHST-ETH en +10% voor GHST-USDC. Omdat de tarieven manueel moeten worden aangepast en de prijzen sinds de invoering nogal wat zijn veranderd. zijn de FRENS beloningen heel veel uitgezet; GHST-QUICK is ongeveer +90%, terwijl GHST-USDC -10% verdient.
 
-*Solution*
+*Oplossing*
 
-Quoted from [coderdan](/team#coder-dan): "There has been talk of setting up committees for managing certain parts of Aavegotchi, and I believe this could be an interesting candidate for such a committee. Right now we only have two [now three] pairs incentivized by FRENS, but this could change in the future.”
+Geciteerd door [coderdan](/team#coder-dan): "Er is gesproken over het instellen van comités voor het beheer van bepaalde delen van Aavegotchi, Ik denk dat dit een interessante kandidaat zou kunnen zijn voor een dergelijke commissie. Op dit moment hebben we slechts twee [nu drie] paren die worden gestimuleerd door FRENS, maar dit kan in de toekomst veranderen.”
 
-The “committee” could be a multisig of at least nine (maybe up to fifteen) members with strong reputation in the community and high Gotchi dependability counters. At its core, this Liquidity Committee would monitor and adjust FRENS rates to keep in check with the pre-determined rate, by performing contract calls to the GHST Staking contracts only available to a new “rateManager” role created for the committee."
+Het "comité" zou een multisig kunnen zijn van ten minste negen (misschien wel vijftien leden) leden met een sterke reputatie in de gemeenschap en hoge betrouwbaarheidstegenhangers van Gotchi. In de kern zou deze Liquidity-commissie de FRENS-tarieven controleren en aanpassen om de vooraf vastgestelde tarief in te kunnen spelen door het uitvoeren van contractuele aanroepen naar de GHST Staking contracten alleen beschikbaar voor een nieuwe "rateManager" rol die voor de commissie is gecreëerd
 
-For now the committee should just have one job - keeping the FRENS rates up-to-date. In the future this could be extended to partnerships, monitoring of FRENS inflation, etc.
+Voorlopig zou de commissie slechts één taak moeten hebben, namelijk het up-to-date houden van de FRENS-tarieven. In de toekomst zou dit kunnen worden uitgebreid tot partnerschappen, toezicht op de inflatie van de FRENS enz.
 
-*Candidates*
+*Kandidaten*
 
-Two weeks ago we created a Discourse thread (linked above) for interested parties to apply as candidates. Since then 11 people have applied. All candidates have been members of the community for a while and put forward good reasons as to why they should be chosen. As this is still within the range of 9-15, the easiest way would be to form the committee with all applicants.
+Twee weken geleden hebben we een Discourse thread gemaakt (gekoppeld hierboven) voor belanghebbende partijen om zich kandidaat te stellen. Sindsdien hebben elf mensen zich aangemeld. Alle kandidaten zijn al een tijdje lid van de gemeenschap en hebben goede redenen om voor te kiezen. Aangezien dit nog steeds binnen het bereik van 9-15 ligt, is het het gemakkelijkst om de commissie samen te stellen met alle kandidaten.
 
-So now it's up to you, AavegotchiDAO. Should we take this step in further decentralizing Aavegotchi and put the FRENS rate into the hands of:
+Het is aan jullie, AavegotchiDAO. Moeten we deze stap zetten door Aavegotchi verder te decentraliseren en de FRENS in handen te geven van:
 
-Angst, Jarrod, Kenymccornick, UnfitStone, Notorious_BTC, Doxy, Kokusho, Grip, Almond-Stew, Shanekoy and Moon
+Angst, Jarrod, Kenymccornick, UnfitStone, Notorious_BTC, Doxy, Kokusho, Grip, Almond-Stew, Shanekoy en Moon
 
-[Discourse Thread (Idea/Proposal)](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905)
+[Conversatie (Ide/voorstel)](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905)
 
-[Discourse Thread (Candidates)](https://dao.aavegotchi.com/t/frens-committee-applications/1944)
+[Discourse Thread (Kandidaten)](https://dao.aavegotchi.com/t/frens-committee-applications/1944)
 
-Option 1: Yes, create the FRENS Committee
+Optie 1: Ja, creëer de FRENS commissie
 
-Option 2: No, keep everything as it is
+Optie 2: Nee, houd alles zoals het is
 
-**Voting Period:** 17 - 25 August 2021
+**Stemperiode:** van 17 tot 25 oktober 2021
 
 **Resultaten:**
 
-table_agip11
+tabel_agip11
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmdLouPY9ipn2ezC2RR5Fjcz8auhX1uLajk9QS8nrctfsY)
 
 <hr />
 
 ### Start Haunt 2
-**Core Prop**
+**Kern Prop**
 
 **Proposal Summary:** Currently Aavegotchis are limited by a maximum possible 10,000 because only that many Haunt 1 Portals exist. This makes acquiring a first Aavegotchi cost prohibitive. With a second Haunt of 15,000 more Portals, we aim to address this problem while respecting unique, collectible aspects of Haunt 1 Aavegotchis.
 
@@ -346,13 +346,13 @@ table_launchHaunt2
 ### Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden
 **Aavegotchi Improvement Proposal #13**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
-*Problem*
+*Probleem*
 
 As new haunts are released, whether or not they include a bug fix that impacts gotchi trait generation, a strong dilution of existing high BRS gotchis occurs. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
 
-*Solution*
+*Oplossing*
 
 The Aging Mechanic is a proposal, initially introduced by Tistou on discord, that is designed to address all of the above mentioned issues, as well as create an interesting new dynamic of Aavegotchis that can be built upon in the future (age limits for activities, wearables, new appearance qualities, etc). It provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
 
@@ -422,7 +422,7 @@ table_agip14
 ### Maak een Wearables Taask Force
 **Aavegotchi Improvement Proposal #15**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
 *Motivation*
 
@@ -459,11 +459,11 @@ table_agip15
 
 **Proposal Summary:** Some frens have expressed concern over the lack of rewards for participating in Minigame events. Since there currently exists no Aarcade Taask Force with a designated budget, Gotchinomics has come up with the idea of staking 100k GHST in Treasury funds to support future initiatives.
 
-*Problem*
+*Probleem*
 
 Aavegotchi aims to be one of the top Play2Earn projects in the crypto gaming space, the launch of the Gotchiverse Realm being the cornerstone to achieving this long-term goal. However, there is room for improving the short-term possibilities through seasonal gaming events. The main problem is the lack of structure and funds.
 
-*Solution*
+*Oplossing*
 
 Before creating a dedicated Aarcade DAO, the first step to enable play2earn rewards is to create a sustainable stream of funds. A simple and low-risk solution would be to stake a portion of the main DAO treasury, such as 100k GHST, to generate FRENS. Those could be then transformed into raffle tickets and given away to mini-game players through periodic events.
 
@@ -494,7 +494,7 @@ table_agip16
 ### Toevoegen van Stemkracht aan REALM parcelen
 **Aavegotchi Improvement Proposal #17**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
 *Problem:*
 
@@ -539,7 +539,7 @@ table_agip17
 ### Gotchiverse Patch v0.1
 **Aavegotchi Improvement Proposal #18**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
 *Problem:*
 
@@ -632,7 +632,7 @@ table_agip18
 ### GST Liquidity aanbieden op SynFutures
 **Aavegotchi Improvement Proposal #19**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
 Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
 
@@ -665,7 +665,7 @@ Option 2: No, do not add $200k in GHST
 ### Het creëren van de DAO schatkist Taask Force
 **Aavegotchi Improvement Proposal #20**
 
-**Proposal Summary:**
+**Voorstel Samenvatting:**
 
 We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
 
