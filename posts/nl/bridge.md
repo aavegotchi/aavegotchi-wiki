@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+date: '2020-10-23T07:00:00.000Z'
+title: 'Brug'
+description: 'De Aavegotchi brug (en andere bruggen om Assets van en naar Polygon te verplaatsen)'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -10,21 +10,21 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">De Aavegotchi Brug</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+Een brug is een stukje software waarmee je activa van de ene blockchain naar de andere kunt overdragen.
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+Het oorspronkelijke plan was om Aavegotchi op Ethereum Mainnet op 4 januari 2021 te lanceren. Vanwege hoge gaskosten heeft de gemeenschap gestemd voor het starten van het project op [Polygon-netwerk](/glossary#polygon) in plaats daarvan. Als gevolg van dit besluit moeten activa worden overbrugd van het ene netwerk naar het andere.
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+Om de overdracht van activa te vergemakkelijken, heeft Pixelcraft studios de Aavegotchi Bridge gemaakt waarmee gebruikers assets heen en weer kunnen verzenden over beide netwerken. Sindsdien zijn ook andere brugoplossingen ter plaatse gearriveerd. Deze pagina zal enkele van de meest voorkomende bruggenbedekken.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
+<li><a href=#aavegotchi-bridge>De Aavegotchi Brug</a></li>
 <li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
 <p><a href=#polygon-bridge>Polygon Bridge</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
@@ -37,11 +37,11 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 </div>
 
-## Aavegotchi Bridge
+## De Aavegotchi Brug
 
 The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
 
-<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
+<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="De Aavegotchi Brug" />
 
 The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
 
