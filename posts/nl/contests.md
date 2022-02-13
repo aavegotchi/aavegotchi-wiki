@@ -25,91 +25,91 @@ Hey Aavegotchi Fam! Van tijd tot tijd zullen we verschillende Aavegotchi wedstri
 
 ## Aavegotchi Mission 8 Meme Contest Winnaars
 
-In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+In [Aavegotchi missie 8](/missions), aagents worden belast met het maken van de dankbaarste meme met een paar aspecten van Aavegotchi of de GHST token op de [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Stem op je favorieten! De top 3 van de geupvote memes op 9 oktober zullen respectievelijk 300, 200 en 100 GHST winnen.
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1e plaats: Aavegotchi PAC MAN by Zemus</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2de plaats: By Your Powers Combined door Raster Eyes</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3e plaats: Cozy GHST by Moon</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
 ## Halloween Kostuum Wedstrijd 2020
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+Op vrijdag Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), de spoken *letterlijk* kwamen paraderen (pun was bedoeld: P). Aagenten hadden wat leuke gekleed aan een Aavegotchi en elke 'gotchi nam om <s>te lopen</s>naar beneden de <s>kat</s>spookwandeling. De gemeenschap heeft met een positieve stem vóór gestemd.
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">1e plaats: IT by Esveebee</span>
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">2de plaats: Zombie by Flamee</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">3de plaats Trumpigotchi by PoW Miner</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
 ## Aavegotchi Mission 9 Content Wedstrijd
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchi aagents sloeg voorbij de All-Time High van 1000! Niet langer ben je aagents, maar leden van de snelgroeiende Gotchi Gang! Voor de missie van deze week, shill Aavegotchi verder! Creëer een stuk inhoud over Aavegotchi (in geschreven of video formulier). De top 3 stukken in elke categorie (geschreven en video) zoals gekozen door het core team, zal elk van hen een paar zoete GHST verdienen die respectievelijk 300/100/50 bedragen, evenals een kans om meer inhoud met ons te creëren.
 
-### Video Category
+### Video Categorieën
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1e plaats: Hoe te beginnen met Aavegotchi door Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2e plaats: Aavegotchi 2 Minuten Gids door DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3de plaats: Anon vind Aavegotchi door Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### Geschreven Categorie
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">1e plaats: Aavegotchi: Frenly Farming in the Fall door Appellants</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">2de plaats: Get rich or die playing door Letsgobankless</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">3de plaats: Aavegotchi op Kovan Testnet is hier! [Step-by-Step-guide] door Buzzlightyear</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
 
 ## Halloween Kostuum wedstrijd 2021
 
-On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+Op 1 november 2021 hadden we onze tweede jaarlijkse ##GotchiGang Halloween Wedstrijd! 👹👻🎃
 
-The competition was fierce, with nearly 100 unique costumes submitted!
+De wedstrijd was hevig, en bijna 100 unieke kostuums werden ingediend!
 
-The top 3 costumes won 100, 50, and 25 GHST, respectively.
+De top 3 kostuums wonnen respectievelijk 100, 50, en 25 GHST.
 
-### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+### <span style="color:gold">1e plaats: LickWeenDator door Bezigner</span>
 
 <img class="bodyImage" src="/contests/lickweendator.jpg" />
 
-### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+### <span style="color:silver">2de plaats: Jason Boorhees door Kimikuno</span>
 
 <img class="bodyImage" src="/contests/jason-boorhees.png" />
 
-### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+### <span style="color:#cd7f32">3de plaats: Genie Gotchi door Ape | Dratini | Bear X</span>
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
 
 ## DeFi RPG Wearables Meme Wedstrijd
 
-### <span style="color:gold">1st place: Thrax</span>
+### <span style="color:gold">1e plaats: Thrax</span>
 
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
-### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
+### <span style="color:silver">2e plaats: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
 
-### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
+### <span style="color:#cd7f32">3e plaats: Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
