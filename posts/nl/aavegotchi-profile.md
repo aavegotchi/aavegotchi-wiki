@@ -87,7 +87,7 @@ Aan de rechteronderhoek van het scherm is er een Pocket knop. Klik erop om je Go
 
 Opmerking: **UW (de eigenaar)** inventaris staat los van je **zak van Gotchi.**.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Broekzak" />
 
 Je Gotchi Broekzak bevat:
 
@@ -95,29 +95,29 @@ Je Gotchi Broekzak bevat:
 * GHST tokens gewonnen van [rariteitsverbouw](/rarity-farming)
 * [Baadges](/baadge)
 
-Baadges zijn niet-overdraagbare ERC-1155 NFT's die de deelname van Gotchi aan een speciaal evenement gedenken. In Rarity Frming Seizoen 1 wordt bijvoorbeeld een baadge toegekend aan de Top 10 en de Top 100 Gotchis in elk van de Rarity Farming categorieën. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Baadges zijn niet-overdraagbare ERC-1155 NFT's die de deelname van Gotchi aan een speciaal evenement gedenken. In Rarity Frming Seizoen 1 wordt bijvoorbeeld een baadge toegekend aan de Top 10 en de Top 100 Gotchis in elk van de Rarity Farming categorieën. Deze baadges worden geleverd in een bepaalde Aavegotchi's Broekzak en blijven er **voor altijd**. Houd je ogen voor meer baadges in de toekomst! owo
 
-In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
+In contrast, kunnen wearables en GHST tokens wel uit het broekzakje van Gotchi worden gehaald.
 
-To send the wearables back to **your** inventory, you would first have to unequip these wearables (through the Equip button). Next, head over to your Gotchi Pocket and click the Transfer to Me button.
+Om de wearables terug te sturen naar **uw** inventaris, moet u eerst deze wearables uitdoen (via de Equip knop). Ga vervolgens naar je Gotchi Pocket en klik op de Transfer naar Mij knop.
 
-Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
+Ook de GHST-tokens die zijn verdiend door Rarity Farming komen in uw zak en niet in uw inventaris. Selecteer de Withdraw knop in het Broekzak venster van de Gotchi om deze op te nemen in je inventaris. De weergaveknop toont je het escrow adres van je Gotchi.
 
 ### Meer acties
 
-There is a "More" Button at the bottom-right corner of the screen.
+Er is een "Meer" knop in de rechterbenedenhoek van het scherm.
 
-It opens up another menu with the following 3 options:
+Het opent een ander menu met de volgende 3 opties:
 
-* Gift
-* Sacrifice
-* List in Bazaar
-* Save
+* Schenken
+* Opofferen
+* Lijst in Bazaar
+* Opslaan
 
-**Gift** enables you to give your Aavegotchi to another address (Do note that this is irreversible!)
+**Geschenk** stelt u in staat om uw Aavegotchi aan een ander adres te geven (Let op dat dit onomkeerbaar is!)
 
-**Sacrifice** enables you to **permanently** kill your current Gotchi, giving its [XP](/traits#experience) to another Gotchi.
+**Offer** stelt je in staat **permanent** je huidige Gotchi te doden, door de [XP](/traits#experience) aan een andere Gotchi te geven.
 
-**List in Bazaar** enables you to put your Aavegotchi for sale on the Baazaar.
+**Lijst in Bazaar** stelt je in staat je Aavegotchi te verkopen op de Baazaar.
 
-**Save** allows you to download a png or gif image of your Aavegotchi.
+**Save** staat je toe om een png of gif afbeelding van je Aavegotchi te downloaden.
