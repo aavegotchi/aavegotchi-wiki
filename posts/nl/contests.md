@@ -1,29 +1,29 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Contests'
-description: 'Our Winners!'
+title: 'Wedstrijden'
+description: 'Onze winnaars!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
+Hey Aavegotchi Fam! Van tijd tot tijd zullen we verschillende Aavegotchi wedstrijden organiseren om de gemeenschap te betrekken. Het zal leuk zijn en er zullen prijzen zijn om te winnen! Hier kun je kijken naar onze vroegere wedstrijden en de uitlatingen die we van de winnaars hebben gekregen!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>
-<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
-<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Contest</a></li>
-<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
-<li><a href=#defi-rpg-wearables-meme-contest>DeFi RPG Wearables Meme Contest</a></li>
+<li><a href=#halloween-costume-contest-2020>Halloween Kostuum Wedstrijd 2020</a></li>
+<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Wedstrijd</a></li>
+<li><a href=#halloween-costume-contest-2021>Halloween Kostuum wedstrijd 2021</a></li>
+<li><a href=#defi-rpg-wearables-meme-contest>DeFi RPG Wearables Meme Wedstrijd</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Aavegotchi Mission 8 Meme Contest Winnaars
 
 In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
 
@@ -39,7 +39,7 @@ In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest m
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Costume Contest 2020
+## Halloween Kostuum Wedstrijd 2020
 
 On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
 
@@ -55,7 +55,7 @@ On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literall
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
-## Aavegotchi Mission 9 Content Contest
+## Aavegotchi Mission 9 Content Wedstrijd
 
 Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
 
@@ -81,7 +81,7 @@ Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aag
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
 
-## Halloween Costume Contest 2021
+## Halloween Kostuum wedstrijd 2021
 
 On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
 
@@ -101,7 +101,7 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
 
-## DeFi RPG Wearables Meme Contest
+## DeFi RPG Wearables Meme Wedstrijd
 
 ### <span style="color:gold">1st place: Thrax</span>
 
