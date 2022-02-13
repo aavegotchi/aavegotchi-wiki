@@ -46,45 +46,45 @@ Kom en test je mettle! Kopers en verkopers gelijk!
 
 ## Aavegotchi Baazaar
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+De Aavegotchi Baazaar is de officiële secundaire markt voor Aavegotchi. Verkopers kunnen hun producten te koop aanbieden. Voor elke nieuwe aanbieding op de Aavegotchi Baazaar zal er een vergoeding van 0.1 GHST zijn. Dit om spamlijsten op Polygon te voorkomen. Deze 0.1 GHST gaat noch naar Pixelcraft Studios noch naar AavegotchiDAO. In plaats daarvan wordt het direct naar het [brandadres](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) op Polygon gestuurd wanneer een aanbieding wordt aangemaakt of bijgewerkt.
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
-* 2% to Pixelcraft Studios
-* 1% to AavegotchiDAO
-* 0.5% to Rarity Farming reward pool
+Wanneer een artikel wordt verkocht, krijgt de verkoper 96,5% van de verkoopprijs naar zijn portemonnee gedeponeerd. De overige 3,5 procent is als volgt toegewezen:
+* 2% naar Pixelcraft Studios
+* 1% naar AavegotchiDAO
+* 0,5% tot Rarity Farming Beloningspool
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+Alle aanbiedingen hebben een minimum van 1 GHST. Indien een verkoper een item minder dan 1 GHST wil prijsgeven, moeten meerdere items worden vermeld zodat de totale prijsprijs bij of boven 1 GHST ligt.
 
-Buyers may buy 1, some, or all of a multiple item listing.
+Kopers kunnen er 1 kopen, een deel of een lijst met meerdere artikelen.
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Check dit [bericht](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) voor meer informatie.
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+De Aavegotchi Baazaar kan je [hier](https://aavegotchi.com/baazaar) vinden.
 
 ## Functies
-There are a variety of products listed on the Baazaar:
+Er staan een aantal producten te koop op de Baazaar:
 
 * Aavegotchis
-* Portals — Closed
-* Portals — Open
+* Portalen – Gesloten
+* Portalen – Open
 * Gotchiverse REALM
 * Wearables
-* Consumables
-* Raffle Tickets
+* Verbruiksartikelen
+* Lotterij tickets
 
-The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
+De Baazaar beschikt over de functies Sorteren (prijs), Filter (zeldzaamheid), & Zoeken (naam) om kopers te helpen hun keuzes te beperken.
 
-Other features included in the Baazaar are:
+Andere functies van de Baazaar zijn:
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Activiteit - Bekijk de Baazaar verkoop (Closed Portalen, Geopende Portalen, Aavegotchis, Wearables, Verbruiksartikelen & Afkooptickets) hier!
+* Mijn listings - Bekijk wat u voor verkoop hebt ingesteld!
+* Mijn verkopen - Historisch dossier van uw verkoop op de Baazaar
+* Mijn Aankopen - Historisch dossier van uw aankopen op de Baazaar
 
 ## Rarible
 
-Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+Naast de Baazaar, is er nog een secundaire marktplaats die het kopen en verkopen van Aavegotchis ondersteunt, het NFT-platform [Rarible](https://rarible.com/) op Ethereum Mainnet.
 
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+Omdat Aavegotchis native op Polygon woont, moeten ze worden overbrugd naar Ethereum Mainnet voordat ze op Rarible kunnen worden gekocht/verkocht. Raadpleeg deze [handleiding](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) over hoe je Aavegotchis kunt overbrugen. Kijk eens naar de FAQ in die gids voor algemeen gestelde vragen.
