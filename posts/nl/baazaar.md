@@ -9,36 +9,36 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">De Baazaar</p>
 </div>
 
-"Psst.....you there"
+"Psst.....jij daar"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+De Koopman Gotchi smeekt u heimelijk naar zijn stal, met een glint in zijn oog.
 
-"I have something aamazing for you."
+"Ik heb iets aamazing voor jou."
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+De koopman Gotchi brengt een met doek bedekte object uit. Langzaam, hij trekt de doek weg. Het object vangt de stralen en glanzen van de zon in de heldere namiddagzon.
 
-".....A Mudgen Diamond" you whisper to yourself.
+".....Een mudgen Diamond" fluister je naar jezelf.
 
-The marvellous shine catches the attention of countless bystanders.
+De prachtige glans vangt de aandacht van talloze toeschouwers.
 
-Another Gotchi shoves in. "I'll have it!"
+Een andere Gotchi komt dichterbij. "Ik zal het hebben!"
 
-"NO! I'LL HAVE IT!"
+"NEE! Ik zal HET HEBBEN
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Dit mijn frens, is de Aavegotchi Baazaar. Ben je zo leep genoeg om snel een goede deal te ontdekken? Kun je de hitte weerstaan van het handelen naar rijkdom?
 
-Come and test your mettle! Buyers and sellers alike!
+Kom en test je mettle! Kopers en verkopers gelijk!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#features>Functies</a></li>
 <li><a href=#rarible>Rarible</a></li>
 </ol>
 
@@ -63,7 +63,7 @@ Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aaveg
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Features
+## Functies
 There are a variety of products listed on the Baazaar:
 
 * Aavegotchis
