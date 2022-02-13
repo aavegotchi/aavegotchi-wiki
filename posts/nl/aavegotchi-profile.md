@@ -1,101 +1,101 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+title: 'Aavegotchi Profiel'
+description: 'Aavegotchi Profiel'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi-profile/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Hello!</p>
+<p class="headerImageText">Hallo!</p>
 </div>
 
-You have a Gotchi fren now eh?
+Heb je een Gotchi fren?
 
-Each Gotchi has their own profile page where you can view your Gotchi and play with him or her.
+Elke Gotchi heeft een eigen profielpagina waar u uw Gotchi kunt bekijken en met hem of haar kunt spelen.
 
-This page will tell you what you can do with your new Gotchi frens! :D
+Deze pagina zal je vertellen wat je kunt doen met je nieuwe Gotchi frens! :D
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
-<li><a href=#gotchi-profile>Gotchi Profile</a></li>
-<p><a href=#stats-xp>Stats/XP</a></p>
-<p><a href=#interact-with-your-gotchi>Interact with your Gotchi</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
-<p><a href=#more-actions>More Actions</a></p>
+<li><a href=#accessing-your-gotchi-profile>Toegang tot je Gotchi Profiel</a></li>
+<li><a href=#gotchi-profile>Aavegotchi Profiel</a></li>
+<p><a href=#stats-xp>Statistieken/XP</a></p>
+<p><a href=#interact-with-your-gotchi>Interactie met je Gotchi</a></p>
+<p><a href=#gotchi-pocket>Gotchi Broekzak</a></p>
+<p><a href=#more-actions>Meer acties</a></p>
 </ol>
 
 </div>
 
-## Accessing your Gotchi Profile
+## Toegang tot je Gotchi Profiel
 
-First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Klik op een van uw Gotchis en het brengt u naar zijn/haar profielpagina.
 
-## Gotchi Profile
+## Aavegotchi Profiel
 
-Your Gotchi Profile would look something like the following screenshot.
+Uw Gotchi profiel zou er ongeveer als de volgende schermafbeelding uitzien.
 
-<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profile" />
+<img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Aavegotchi Profiel" />
 
-At the centre is your Gotchi (either naked or decked out in the splendour of his/her [wearables](/wearables)). Equip/unequip any wearables and your Gotchi's display will be updated.
+In het midden is je Gotchi (hetzij naakt of uitgezet in de splendour van zijn/haar [wearables](/wearables)). Wissel van wearables en uw Gotchi's display zal worden bijgewerkt.
 
-### Stats/XP
+### Statistieken/XP
 
-At the left corner of the screen is the Stats/XP of your Gotchi.
+Aan de linkerkant van het scherm staan de Statistieken/XP van je Gotchi.
 
-At the very top is your Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score).
+Bovenaan staat je Gotchi's [Base Rarity Score (BRS)](/rarity-farming#base-rarity-score).
 
-If you have equipped your Gotchi with wearables, there will be two BRS values:
+Als u uw Gotchi hebt uitgerust met wearables, zullen er twee BRS waarden zijn:
 
-* one in parentheses (BRS **without** any wearables equipped)
+* één tussen haakjes (BRS **zonder** wearables uitgerust)
 
-* the other not in parentheses (BRS **with** wearables equipped)
+* de andere niet tussen haakjes (BRS **met** wearables uitgerust)
 
-If your Gotchi has equipped a [wearable set](/sets), the name of the set will be displayed below the BRS scores.
+Als uw Gotchi een [wearableset](/sets)heeft uitgerust zal de naam van de set worden weergegeven onder de BRS scores.
 
-Just next to the BRS score is a "View Curve" button. This button situates your gotchi's position on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) against every other single Aavegotchi in existence.
+Net naast de BRS score is een "Bekijk Curve" knop. Deze knop situeert uw positie op alle 6 eigenschappen (Energy, Agressie, Spookiness, Hersengrootte, Oogvorm en Oog Kleur) tegen elke Aavegotchi in bestaan.
 
-Moving downwards, your Gotchi's values on all 6 traits (Energy, Aggression, Spookiness, Brain Size, Eye Shape, and Eye Color) are displayed. With the exception of Eye Shape and Eye Color, all other trait values can be modified by equipping wearables. If you have equipped at least one wearable, you will see +/- values added to your trait values. This is the contribution of the wearable/wearables to your trait values.
+Als je naar beneden beweegt, worden de waarden van Gotchi op alle 6 eigenschappen (nergy, Agressie, Spookiness, Brain Grootte, Oogvorm en Oogkleur) weergegeven. Met uitzondering van Oog orm en Oogkleur, kunnen alle andere trait waarden worden gewijzigd door wearables aan te passen. Als u tenminste één draagbare heeft uitgerust, ziet u +/- waarden toegevoegd aan uw eigenschappen. Dit is de bijdrage van de wearable/wearables aan jouw eigenaarlijke waarden.
 
-Moving downwards still, your Gotchi's level, XP, and XP required to reach the next level are stated. Thus far, XP is earned by participating in community events. So keep a lookout for these!
+Bewegend naar beneden, worden uw Gotchi's niveau, XP en XP die nodig zijn om het volgende niveau te bereiken vermeld. Tot nu toe wordt XP verdiend door deel te nemen aan evenementen van de gemeenschap. Houdt u daar dus rekening mee!
 
-For every three levels, your Gotchi will gain 1 Spirit Point that can be allocated to increase/decrease any trait value.
+Voor elke drie levels, zal uw Gotchi 1 Spirit Punt krijgen die kan worden toegewezen om elke eigenschap te verhogen/te verlagen.
 
-### Interact with your Gotchi
+### Interactie met je Gotchi
 
-At the right corner of the screen, you can interact with your Gotchi in various ways: (1) Pet, (2) Equip, (3) Feed, and (4) Rename.
+Aan de rechterkant van het scherm kunt u op verschillende manieren met uw Gotchi communiceren: (1) Pet, (2) Equip, (3) Feed, en (4) Rename.
 
-Petting your Gotchi once every 12 hours will raise his/her [kinship](/traits#kinship) score by 1.
+Als je je Gotchi eenmaal per 12 uur pet, zal de [kinship](/traits#kinship) score met 1 stijgen.
 
-The Equip button allows you to equip/unequip any wearables.
+Met de knop Equip kun je wearables aan/uit doen.
 
-The Feed button allows you to feed your Gotchi [consumables](/wearables#consumables) such as Kinship Potions and XP Potions. These potions can be bought from the [Maall](/maall) (when they are released) or on secondary marketplaces such as the [Baazaar](/baazaar).
+Met de feed-knop kun je je Gotchi [verbruiksartikelen](/wearables#consumables) zoals Kinship Toverdranken en XP Drankjes voeren. Deze toverdranken kunnen worden gekocht uit het [Wel,](/maall) (wanneer ze worden vrijgegeven) of op secundaire marktplaatsen zoals de [Baazaar](/baazaar).
 
-Finally, the Rename button allows you to rename your Gotchi. The only constraints are that you cannot name your Gotchi after a name that already has been taken and the limit of 25 characters for your Gotchi's name.
+Ten slotte kunt u met de Rename knop uw Gotchi hernoemen. De enige beperkingen zijn dat u uw Gotchi niet kunt noemen na een naam die al gebruikt is en de limiet van 25 tekens voor uw naam van Gotchi.
 
-Moving downwards, the **type** and **amount** of [Spirit Force](/glossary#spirit-force) that your Gotchi has is displayed. There is an Add / Remove button where you, the owner, can add more Spirit Force to your Gotchi. There is no added benefit of adding more Spirit Force than necessary to your Gotchi. There is also a minimum Spirit Force required for your Gotchi to survive, so no......you cannot withdraw beyond that amount. The minimum Spirit Force required is dependent on the BRS of the Aavegotchi and the formula used to calculate it can be found [here](/portals#claiming-an-aavegotchi).
+Naar beneden bewegen, het **type** en **aantal** van [Spirit Kracht](/glossary#spirit-force) dat je Gotchi heeft weergegeven wordt. Er is een knop Toevoegen / Verwijderen waar u, de eigenaar, meer Spirit Force aan uw Gotchi kunt toevoegen. Er is geen voordeel voor het toevoegen van meer Spirit Force dan nodig is aan uw Gotchi. Er is ook een minimale Spirit Force nodig voor je Gotchi om te overleven, dus nee......je kan niet meer opnemen dan dat bedrag. De minimale Spirit Force welke nodig is is afhankelijk van de BRS van de Aavegotchi en de formule die gebruikt wordt om deze te berekenen kan [hier](/portals#claiming-an-aavegotchi) gevonden worden.
 
-### Gotchi Pocket
+### Gotchi Broekzak
 
-At the bottom right corner of the screen, there is a Pocket button. Click on it to reveal your Gotchi Pocket, which serves as an inventory for your Gotchi fren.
+Aan de rechteronderhoek van het scherm is er een Pocket knop. Klik erop om je Gotchi Broekzak te onthullen, dat dient als een inventaris voor je Gotchi fren.
 
-Note: **YOUR (the owner)** inventory is separate from your **Gotchi's Pocket**.
+Opmerking: **UW (de eigenaar)** inventaris staat los van je **zak van Gotchi.**.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-gotchi-pocket.png" alt = "Aavegotchi Gotchi Pocket" />
 
-Your Gotchi Pocket contains:
+Je Gotchi Broekzak bevat:
 
-* The wearables currently equipped by your Gotchi
-* GHST tokens won from [rarity farming](/rarity-farming)
+* De wearables die momenteel zijn uitgerust door jouw Gotchi
+* GHST tokens gewonnen van [rariteitsverbouw](/rarity-farming)
 * [Baadges](/baadge)
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Baadges zijn niet-overdraagbare ERC-1155 NFT's die de deelname van Gotchi aan een speciaal evenement gedenken. In Rarity Frming Seizoen 1 wordt bijvoorbeeld een baadge toegekend aan de Top 10 en de Top 100 Gotchis in elk van de Rarity Farming categorieën. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
 
 In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
 
@@ -103,7 +103,7 @@ To send the wearables back to **your** inventory, you would first have to unequi
 
 Similarly, the GHST tokens earned from rarity farming is in your Gotchi's pocket and not in your inventory. To withdraw it to your inventory, select the Withdraw button in the Gotchi Pocket window. The View button shows you the escrow address of your Gotchi.
 
-### More Actions
+### Meer acties
 
 There is a "More" Button at the bottom-right corner of the screen.
 
