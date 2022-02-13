@@ -25,10 +25,10 @@ Om de overdracht van activa te vergemakkelijken, heeft Pixelcraft studios de Aav
 
 <ol>
 <li><a href=#aavegotchi-bridge>De Aavegotchi Brug</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
-<p><a href=#polygon-bridge>Polygon Bridge</a></p>
+<li><a href=#decentralized-bridges>Gedecentraliseerde Bruggen</a></li>
+<p><a href=#polygon-bridge>Polygon Brug</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#centralized-bridges>Gecentraliseerde Bruggen</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -39,108 +39,108 @@ Om de overdracht van activa te vergemakkelijken, heeft Pixelcraft studios de Aav
 
 ## De Aavegotchi Brug
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+De Aavegotchi Brug is de officiële brug gemaakt door Pixelcraft Studios. Momenteel staat het de overdracht van ERC-20 tokens en ERC-721 assets (Aavegotchis) van Ethereum Mainnet naar Polygon Network toe en vice versa. Overdragen van ERC-1155 s ([Wearables](/wearables)) komt binnenkort.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="De Aavegotchi Brug" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+De Aavegotchi Brug kan [hier](https://aavegotchi.com/bridge) benaderd worden.
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+Het volgende is een stapsgewijze voorbeeld van het overbrugen van ERC-20 tokens van Ethereum Mainnet naar Polygon:
 
-1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
+1). Klik op de tokenafbeelding (cirkeld in rood hieronder) om een dropdown menu van tokens te openen. Selecteer het token dat naar Polygon moet worden overgedragen.
 
-<img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
+<img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Brug naar Matic" />
 
-2). Key in the amount that is to be transferred.
+2). Bepaal het bedrag dat moet worden overgedragen.
 
-<img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
+<img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Brug naar Matic" />
 
-3). Click the "Approve Transfer" button.
+3). Klik op de "Overdracht goedkeuren".
 
-4). Click the "Transfer to Polygon" button.
+4). Klik op de knop "Transfer to Polygon".
 
-5). Wait for ~10 minutes for your asset to appear on Polygon network.
+5). Wacht ~10 minuten tot je asset op het Polygon-netwerk verschijnt.
 
-The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
+Hetzelfde concept is van toepassing voor het terugsturen van activa naar Ethereum Mainnet vanuit het Polygon Network.
 
-## Decentralized Bridges
+## Gedecentraliseerde Bruggen
 
-### Polygon Bridge
-The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
+### Polygon Brug
+De Polygon-brug was de eerste brug tussen Ethereum en Polygon. Het is de officiële brug van het Polygon-team, en gebruikt een door validator gedreven model om activa tussen Ethereum en Polygon over te dragen. Deze bridge kan $GHST tokens overdragen, maar kan geen NFT activa overkoppelen.
 
-For those who want to use the Polygon Bridge, here are the steps to take:
+Voor degenen die de Polygon-brug willen gebruiken, zijn hier de stappen die moeten worden gezet:
 
-1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
+1). Toegang tot de Polygon Web Wallet v2 op [https://wallet.polygon.technology](https://wallet.polygon.technology). Klik op de Polygon Brug (omsingeld in het rood hieronder).
 
-<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Brug" />
 
-2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
+2). Selecteer de token uit het dropdown menu, geef in het bedrag in het tekstvak en klik op de Overdracht knop
 
-<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Brug" />
 
-It can take up to 10 minutes for the tokens to arrive in your Polygon address.
+Het kan tot 10 minuten duren voordat de tokens in uw Polygoon-adres aankomen.
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+Als je hulp nodig hebt met iets dat je kan toetreden tot de Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) en vraag een medelid van de gemeenschap aan.
 
 ### Umbria Narni Bridge
-The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+De Narni brug is een nieuwe brugoplossing gemaakt door Umbria Network, die gebruik maakt van een liquide brug model om de overbruggingskosten met 90 procent te verlagen. De Narni bridge lost transacties op in ongeveer 5 minuten en kost ongeveer $40 (100 GWEI) om GHST tokens tussen de Ethereum en Polygon blockchains over te dragen. Momenteel zijn alleen ERC-20 tokens compatibel met de Narni bridge; NFT's kunnen niet worden overbrugd.
 
-To use the Umbria Narni Bridge, please refer to the following steps:
+Raadpleeg de volgende stappen om Umbria Narni Bridge te gebruiken:
 
-1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
+1). Bezoek de [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Selecteer de vertrek en bestemming netwerken.
 
 <img class="bodyImage" src='/bridge/umbria-network-selection.png' />
 
-2). From the dropdown menu, select the token to be bridged.
+2). Selecteer in het dropdown menu het token dat moet worden overbrugd.
 
 <img class="bodyImage" src='/bridge/umbria-token-selection.png' />
 
-3). Key in the amount of token to be bridged. The Narni bridge will provide an estimation of the amount of tokens you will receive post-bridging. The bridge takes a 0.5% fee for bridging assets between chains. The fees go to the liquidity providers that are providing assets on the Narni bridge.
+3). Geef in de hoeveelheid te overbruggen token. De Narni bridge geeft een schatting van het aantal tokens dat u na de brug ontvangt. De brug kost 0,5% om activa tussen chains te overbruggen. De vergoedingen gaan naar de liquiditeitsaanbieders die activa op de brug van Narni leveren.
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). At the point of bridging, you will be provided with 2 options (QR code or MetaMask). Bridging using MetaMask is the recommended approach. It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). Op het punt van de bridge krijg je 2 opties (QR-code of MetaMask). Bridging met MetaMask is de aanbevolen aanpak. Het wordt ook aanbevolen om de snelste snelheid te selecteren die u zich kunt veroorloven om het risico te minimaliseren dat de transactie tijdelijk vastloopt.
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). After sending the transaction, a modal will be displayed. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). Na het verzenden van de transactie, zal een modal worden weergegeven. De 1ste sectie toont je transactieproces om de bridge te bereiken. Zodra uw transactie de bridge heeft bereikt, ontvangt u de eerste tik. Het kan een paar minuten duren voordat je beide ticks ontvangt, maar als het langer dan 10 minuten duurt, Neem contact op met het Umbria-team op Discord en ze helpen je het probleem op te lossen.
 
-Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
+Tot slot ontvang je twee roze ticks, wat betekent dat je transactie succesvol is overbrugd, en je kunt de assets in je portemonnee zien op de bestemming van de blockchain. Je kunt de transactie op de doelblok verkenner ook zien door op de relevante knop op het scherm te klikken.
 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
-If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
+Als je vragen hebt over de Umbria Narni Bridge, of wil je graag chatten met een lid van de supportafdeling van het ontwikkelingsteam. neem contact op met het [Umbria Discord kanaal](https://discord.gg/8Ms7Cr4)
 
-## Centralized Bridges
+## Gecentraliseerde Bruggen
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
+AscendEX (voorheen BitMax) is een cryptocurrency platform waarmee opnames naar het Polygon Netwerk mogelijk zijn. Bekijk de infographic hieronder voor meer details.
 
-<img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
+<img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "AscendEX gebruiken om Aavegotchi te spelen" />
 
 ### Transak
 
-Transak is a fiat-to-crypto payment gateway. Users pay using their credit card and receive the tokens on the wallet address they specified.
+Transak is een fiat-to-crypto betalingsgateway. Gebruikers betalen met hun creditcard en ontvangen de tokens op het wallet adres dat ze hebben opgegeven.
 
-See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
+Zie dit [bericht](https://trasher.substack.com/p/buying-your-tokens-straight-into) van ons community lid voor een stap-voor-stap handleiding.
 
 ### Crypto.com
 
-Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to Polygon Network.
+Crypto.com is een mobiele app portemonnee. Ze maken opname van MATIC en USDC in het Polygon-netwerk mogelijk.
 
-1). Select Transfer --> Withdraw --> Crypto --> External Wallet
+1). Selecteer overdracht --> Opnemen --> Crypto --> Externe Wallet
 
-2). Click the + sign at the top right corner
+2). Klik op het + teken aan de rechterbovenhoek
 
-3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
+3). Selecteer de token dat moet worden ingetrokken. Als er een opname beschikbaar is voor dat specifieke token, zie je een optie voor "Polygon" in het veld "Netwerk selecteren" (zie de schermafbeelding hieronder).
 
-<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon" />
+<img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Uitnemen van Crypto.com naar Polygon" />
 
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+Binance is een van de grootste cryptovalutabeurzen ter wereld. Ze bieden ook intrekkingen op het Polygonnetwerk.
 
-At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+Stel het netwerk in op **MATIC** Polygon (zie screenshot hieronder).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
+<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Uitnemen van Binance naar Polygon" />
