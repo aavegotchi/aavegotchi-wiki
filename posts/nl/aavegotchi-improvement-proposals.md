@@ -38,7 +38,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
 <li><a href=#providing-ghst-liquidity-on-synfutures>GST Liquidity aanbieden op SynFutures</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>Het creëren van de DAO schatkist Taask Force</a></li>
-<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>GHST toevoegen aan de Umbria Narni Bridge</a></li>
 <li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
 <li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
@@ -724,7 +724,7 @@ table_agip20
 
 <hr />
 
-### Adding GHST to the Umbria Narni Bridge
+### GHST toevoegen aan de Umbria Narni Bridge
 **Aavegotchi Improvement Proposal #21**
 
 **Voorstel Samenvatting:**
