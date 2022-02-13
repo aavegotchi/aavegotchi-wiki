@@ -234,6 +234,31 @@ export const tables
         },
 		
 		{
+            tableName: "agip19",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, add $200k in GHST", "13,000,000 GHST (67.81%)"],
+					["No, do not add $200k in GHST", "6,000,000 GHST (32.19%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip20",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, with 50k GHST budget", "18,000,000 GHST (93.5%)"],
+					["Yes, without 50k GHST budget", "836,000 GHST (4.4%)"],
+					["No, do not create the DTF", "399,000 GHST (2.1%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
