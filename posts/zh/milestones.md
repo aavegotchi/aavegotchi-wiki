@@ -7,6 +7,13 @@ contributors:
   - "chinyh"
 ---
 
+## [AGIPs 21, 22, and 23 are up for voting!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
+* AGIP 21: Adding GHST to Umbria Narni Bridge
+* AGIP 22: Starting Rarity Farming Season 3
+* AGIP 23: Co-sponsoring the GoodGhosting Pool
+* Vote now!
+<p></p>
+
 ## [Vote on AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
 * AGIP 19: Providing GHST Liquidity on SynFutures
 * AGIP 20: Creating the DAO Treasury Taask Force
