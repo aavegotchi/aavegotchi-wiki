@@ -38,12 +38,12 @@ contributors:
 <li><a href=#gotchiverse-patch-v0-1>ゴッチバースのパッチ v0.1</a></li>
 <li><a href=#providing-ghst-liquidity-on-synfutures>SynFuturesでGHST流動性の提供</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>DAOトレジャリータスクフォースの作成</a></li>
-<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
-<li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
-<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Umbria NarniブリッジにGHSTを追加</a></li>
+<li><a href=#launch-rarity-farming-szn-3>レアリティファーミングSZN 3を開始</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>GoodGhostingセービングゲームをスポンサー</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Aavegotchiマーケットの名称</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>GHST-USDC LPトークンをFRENSを獲得する資格を得る</a></li>
+<li><a href=#portals-purchased-in-one-transaction>1つのトランザクションで購入出来るポータル量</a></li>
 </ol>
 
 </div>
@@ -724,7 +724,7 @@ table_agip20
 
 <hr />
 
-### Adding GHST to the Umbria Narni Bridge
+### Umbria NarniブリッジにGHSTを追加
 **Aavegotchi Improvement Proposal #21**
 
 **Proposal Summary:**
@@ -755,7 +755,7 @@ Option 2: No, do not add any GHST
 
 <hr />
 
-### Launch Rarity Farming SZN 3
+### レアリティファーミングSZN 3を開始
 **Aavegotchi Improvement Proposal #22**
 
 **Proposal Summary:**
@@ -805,7 +805,7 @@ Option 3: No, don't launch RF SZN 3
 
 <hr />
 
-### Co-Sponsoring the GoodGhosting Pool
+### GoodGhostingセービングゲームをスポンサー
 **Aavegotchi Improvement Proposal #23**
 
 **Proposal Summary:**
@@ -857,7 +857,7 @@ Option 3: No, do not support GG
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Aavegotchiマーケットの名称
 **Snapshot Voting**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -886,7 +886,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### GHST-USDC LPトークンをFRENSを獲得する資格を得る
 
 **Snapshot Voting**
 
@@ -912,7 +912,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### 1つのトランザクションで購入出来るポータル量
 
 **Snapshot Voting**
 
