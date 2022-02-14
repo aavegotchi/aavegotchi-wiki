@@ -168,15 +168,15 @@ table_agip5
 ### マーケットに手数料を追加
 **Aavegotchi改善提案6番**
 
-**Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
+**提案の要約:**SZN1の公式発表以来、マーケットの手数料に関連して、コミュニティの利益と報酬の構造を調整する方法を模索していました。
 
-Currently, 2% is allocated to Pixelcraft and 1% to DAO treasury. While not exclusive of providing for RF rewards, the treasury funds are currently in no obligation to be allocated in any form of ratio towards the RF pool each season. The proposal aims to increase the Baazaar fees from 3% to 3.5%, with the additional 0.5% going directly to the Rarity Farming rewards pool.
+現在、2％がPixelcraftに割り当てられ、1％がDAOトレジャリーに割り当てられています。 ゲーム報酬だけでなく、現在、トレジャリー資金はゲームシーズンごとに報酬プールに割り当てられる義務はありません。 この提案は、マーケットの料金を3％から3.5％に増やし、さらに0.5％をレアリティファーミングの報酬プールに直接送ることを目的としています。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+改善提案を詳細は [こちら](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
 
-Option 1: Yes, increase fees from 3 to 3.5
+オプション1：はい、手数料を3％から3.5％に増やします。
 
-Option 2: No, leave the fees as they are
+オプション2：いいえ、手数料はそのままにしておきましょう。
 
 **投票期間：** 2021年4月7日〜13日
 
