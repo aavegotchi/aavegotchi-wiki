@@ -82,7 +82,7 @@ Een gedecentraliseerde autonome initiële Coin Offering (DAICO) is een nieuwe fu
 
 Het Aavegotchi project lanceerde de Token Bonding Curve via een DAICO op Aragon.
 
-**Dit is SAFU. Doe. Niet. Weg. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**Dit is SAFU. Verwijder. De. Bonding. Curve. Niet. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
 
 The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
 
