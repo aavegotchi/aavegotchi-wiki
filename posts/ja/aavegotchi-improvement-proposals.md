@@ -191,7 +191,7 @@ table_agip6
 ### 合格したプロポーザルを作成するためのXPを獲得
 **Aavegotchi改善提案7番**
 
-**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+**提案の要約:** 現在、スナップショットに関するシグナル/コミュニティの提案がたくさんあり、フォーラムには毎日新しい投稿があります。 これまでのところ、これらの提案はいずれも20％のクォーラムに近づくことさえできませんでした。 The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
 
 I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
 
