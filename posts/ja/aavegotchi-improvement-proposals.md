@@ -191,9 +191,9 @@ table_agip6
 ### 合格したプロポーザルを作成するためのXPを獲得
 **Aavegotchi改善提案7番**
 
-**提案の要約:** 現在、スナップショットに関するシグナル/コミュニティの提案がたくさんあり、フォーラムには毎日新しい投稿があります。 これまでのところ、これらの提案はいずれも20％のクォーラムに近づくことさえできませんでした。 The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+**提案の要約:** 現在、スナップショットに関するシグナル/コミュニティの提案がたくさんあり、フォーラムには毎日新しい投稿があります。 これまでのところ、これらの提案はいずれも20％のクォーラムに近づくことさえできませんでした。 レアリティファーミングに料金を追加することについての@JGによる最も人気のある提案の1つでさえ、チームがそれをコア提案に移したにもかかわらず、投票で最大200万（約11％）GHSTしか得られませんでした。 コアプロポーザルにアップグレードした後、24時間以内にクォーラムを突破しました。
 
-I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+これには2つの明らかな理由があるでしょうか。 一方では、スナップショットは現在少し混沌としており、一部のシグナルプロポーザルはテンプレートにまったく従いません。 On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
 
 I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
 
