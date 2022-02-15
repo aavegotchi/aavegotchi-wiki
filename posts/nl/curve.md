@@ -45,7 +45,7 @@ Wanneer een token wordt gekocht via een TBC, zal elke volgende koper een iets ho
 
 Boning curves komen in verschillende vormen en groottes. Voor het Aavegotchi project heeft het team de Bancor Formule aangenomen:
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "bonding curve token" width = "750" />
 
 ### Formule Uitleg
 
@@ -82,24 +82,24 @@ Een gedecentraliseerde autonome initiële Coin Offering (DAICO) is een nieuwe fu
 
 Het Aavegotchi project lanceerde de Token Bonding Curve via een DAICO op Aragon.
 
-**Dit is SAFU. Verwijder. De. Bonding. Curve. Niet. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**Dit is SAFU. Verwijder. De. Bonding. Curve. Niet. ** Het voorkomt dat beleggers bestolen worden omdat ze uiteindelijk zeggenschap hebben over de fondsen binnen de DAICO/bonding curve!
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+De eerste versie van [AavegotchiDAO](/dao) lanceerde in combinatie met de GHST distributie op de bindingscurve. GHST-houders hebben de macht gehad om te stemmen over het verhogen / onderhouden van de fondsen verdeeld door het kraanmechanisme van de token bonding curve (TBC) reserve aan Pixelcraft Studios (het team achter Aavegotchi) ter ondersteuning van de ontwikkeling. Het eerste voorstel van AavegotchiDAO om de Aavegotchi DAICO-kraan te verhogen met 50, 00 DAI tot 100.000 DAI per maand werd op 18 oktober 2020 met 99 procent goedgekeurd.
 
 ## Aavegotchi Token Aanbod Dinamiek
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
+In onze discussie over de token bonding curve/DAICO hierboven hebben we geleerd dat de totale toevoer van het GHST-token dynamisch is. Wanneer beleggers GHST kopen met DAI uit de bonding curve, worden nieuwe GHST-tokens gemint en zou het totale aanbod van circulerende GHST toenemen. Wanneer GHST tokens weer in de bonding curve worden verkocht, worden de GHST tokens verbrand, de verkoper zou een gelijkwaardig bedrag in DAI ontvangen op basis van de heersende GHST-prijs op de bonding curve, en het circulerende aanbod van GHST tokens zal afnemen.
 
-The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
+De inflatie van GHST tokens door middel van netto-aankopen op de bonding curve is positief gekoppeld aan de GHST-prijs. **De bonding curve is wiskundig geprogrammeerd om de prijs van GHST te verhogen naarmate het circulerende aanbod van GHST stijgt.**
 
 ## Arbitrage
-For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Voor gebruikers die KYC hebben voltooid kunnen de prijsverschillen tussen de token binding curve en andere DEXes zoals Uniswap en Balancer scheiden. Volgens [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is de aankoop en verkoop van activa om te profiteren van een verschil in de prijs van het activum tussen de markten. Het is een handel die winst maakt door de prijsverschillen van identieke of vergelijkbare financiële instrumenten op verschillende markten of in verschillende vormen te exploiteren. Arbitrage bestaat als gevolg van inefficiënties van de markt en zou dus niet bestaan als alle markten perfect efficiënt zouden zijn." Dit is mogelijk omdat DEXes worden uitgerust met hun eigen Automated Market Maker (AMM) formule en de netto aankoop/verkoop acties van GHST tokens op deze DEXes zouden resulteren in prijzen die verschillen van de token bonding curve. Een meedogenloze belegger zou kunnen overwegen dergelijke inefficiënties op de markt te exploiteren (*alfa leak hier*).
 
 ## Lees meer
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Voor meer op [Aragon Fundraising en binding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* Lees meer op [Bonding Curves uitgelegd](https://yos.io/2018/11/10/bonding-curves/)
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* Artikel over [Bonding Curves](https://defiprime.com/bonding-curve-explained) door DeFi Prime.
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Artikel over [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) van de Coin Telegraph.
