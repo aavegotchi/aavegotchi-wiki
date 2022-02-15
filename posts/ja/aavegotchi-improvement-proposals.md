@@ -197,15 +197,15 @@ table_agip6
 
 クォーラムに到達してコアプロポーザルにアップグレードされる成功したシグナルプロポーザルへの投票にドロップ（10 XP）を追加することをお勧めします。 XPをすべてのコミュニティ提案にドロップすると、提案の品質が低下する可能性がありますが、これはこの提案の目標ではありません。
 
-Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
+10 XPはそれほど多くないかもしれませんが、それは人々が実際にシグナル提案を調べて、クォーラムに到達する可能性が高い質の高い提案に投票するように促します。 DAOとして、コミュニティの関与は非常に重要であり、これは小さな、しかしまともな、正しい方向への一歩です。
 
-If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
+この提案が定足数に達し、投票が通過した場合、投票の最後に所有者が保持しているすべてのゴッチは10XPを受け取ります。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+改善提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
 
-Option 1: Yes, successful SigProps give XP
+オプション1：はい、シグナルプロポーザルが投票が通過したらはXPを与える
 
-Option 2: No, SigProps should not give XP
+オプション2：いいえ、シグナルプロポーザルはXPを与えてはいけません。
 
 **投票期間：** 2020年5月12日〜18日
 
