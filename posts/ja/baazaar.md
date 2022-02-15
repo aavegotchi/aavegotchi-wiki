@@ -28,16 +28,16 @@ contributors:
 
 「ダメだ! 「私はそれを買います！」
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+ではフレンズ、これはAavegotchiのマーケットです。 あなたはかなり速く拾うのに十分な知識がありますか？ あなたは富への道を切り開く熱に耐えることができますか？
 
-Come and test your mettle! Buyers and sellers alike!
+あなたの気力を試して来ませんか？ 買い手と売り手も同様です！
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
+<li><a href=#aavegotchi-baazaar>Aavegotchiマーケット</a></li>
 <li><a href=#features>Features</a></li>
 <li><a href=#rarible>Rarible</a></li>
 </ol>
