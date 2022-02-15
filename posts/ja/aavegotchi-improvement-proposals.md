@@ -220,13 +220,13 @@ table_agip7
 ### BRS(レア度)に基づいて投票力
 **Aavegotchi改善提案8番**
 
-**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+**提案の要約:**投票者のアドレスで開催されたゴッチの投票力を、BRSごとに1 GHSTの割合で追加します（ベースレアリティスコア、装備されたウェアラブルは含まれません）。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+改造提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+オプション1：はい、ベースレアリティ度に基づいてゴッチに投票権を付与します
 
-Option 2: No, Aavegotchis shouldn’t have Voting Power
+オプション2：いいえ、ゴッチは投票権を持つべきではありません
 
 **投票期間：** 2021年6月11日〜17日
 
@@ -241,13 +241,13 @@ table_agip8
 ### ウェアラブルのモール値段に基づいた投票力
 **Aavegotchi改善提案9番**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**提案の要約:**ウォレットアドレスとゴッチに装備されているウェアラブルに投票権を追加します。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+改造提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+オプション1：はい、マール価格に基づいてウェアラブルに投票権を与えます
 
-Option 2: No, Wearables shouldn’t have Voting Power
+オプション2：いいえ、ウェアラブルには投票権を持たせるべきではありません
 
 **投票期間：** 2021年6月11日〜17日
 
@@ -262,7 +262,7 @@ table_agip9
 ### AavegotchiDAOやPixelcraftとDinoSwapの連携
 **Aavegotchi改善提案10番**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**提案の要約:**一部のコミュニティメンバーは、QuickswapでのGHSTの流動性の報酬の減少について心配しています。 Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
 
