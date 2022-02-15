@@ -262,13 +262,13 @@ table_agip9
 ### AavegotchiDAOやPixelcraftとDinoSwapの連携
 **Aavegotchi改善提案10番**
 
-**提案の要約:**一部のコミュニティメンバーは、QuickswapでのGHSTの流動性の報酬の減少について心配しています。 Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**提案の要約:**一部のコミュニティメンバーは、QuickswapでのGHSTの流動性の報酬の減少について心配しています。 Quickswapプールにより多くの流動性を割り当てる代わりに、まもなくオープンするDinoSwapと呼ばれる流動性アグリゲーターとの提携を検討しています。 コラボレーションの条件には、インセンティブを与えられたプールに割り当てられる合計20万ドル相当のGHSTトークンが含まれます。詳細は以下のとおりです。
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+改善提案を詳細は[こちら](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804)
 
-Option 1: Yes, let's partner with DinoSwap
+オプション1：はい、DinoSwapとパートナーシップしましょう
 
-Option 2: No, don't partner with Dinoswap
+オプション2：いいえ、Dinoswapとパートナーシップをやめましょう
 
 **投票期間：** 2021年6月13日〜20日
 
@@ -283,9 +283,9 @@ table_agip10
 ### 流動性マネージャーとFRENS委員会
 **Aavegotchi改善提案11番**
 
-**Proposal Summary:**
+**提案の要約**
 
-*Problem*
+*問題*
 
 To incentivize liquidity on QuickSwap, you can earn additional FRENS rewards for staking Liquidity Pool (LP) tokens on the Aavegotchi website. Depending on the risk of Impermanent Loss (IL) these numbers can vary, originally it was +35% for GHST-QUICK, +20% for GHST-ETH and +10% for GHST-USDC. Because the rates have to be manually adjusted and prices have moved quite a bit since this was introduced, the FRENS rewards are off by quite a lot; GHST-QUICK is at around +90%, while GHST-USDC earns -10%.
 
@@ -349,9 +349,9 @@ table_launchHaunt2
 ### エイジングメカニックを導入
 **Aavegotchi改善提案13番**
 
-**Proposal Summary:**
+**提案の要約**
 
-*Problem*
+*問題*
 
 As new haunts are released, whether or not they include a bug fix that impacts gotchi trait generation, a strong dilution of existing high BRS gotchis occurs. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
 
@@ -542,7 +542,7 @@ table_agip17
 ### ゴッチバースのパッチ v0.1
 **Aavegotchi Improvement Proposal #18**
 
-**Proposal Summary:**
+**提案の要約**
 
 *問題*
 
@@ -635,7 +635,7 @@ table_agip18
 ### SynFuturesでGHST流動性の提供
 **Aavegotchi Improvement Proposal #19**
 
-**Proposal Summary:**
+**提案の要約**
 
 Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
 
@@ -670,7 +670,7 @@ table_agip19
 ### DAOトレジャリータスクフォースの作成
 **Aavegotchi Improvement Proposal #20**
 
-**Proposal Summary:**
+**提案の要約**
 
 We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
 
@@ -727,7 +727,7 @@ table_agip20
 ### Umbria NarniブリッジにGHSTを追加
 **Aavegotchi Improvement Proposal #21**
 
-**Proposal Summary:**
+**提案の要約**
 
 The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
 
@@ -758,9 +758,9 @@ Option 2: No, do not add any GHST
 ### レアリティファーミングSZN 3を開始
 **Aavegotchi Improvement Proposal #22**
 
-**Proposal Summary:**
+**提案の要約**
 
-*Problem*
+*問題*
 
 Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
 
@@ -808,7 +808,7 @@ Option 3: No, don't launch RF SZN 3
 ### GoodGhostingセービングゲームをスポンサー
 **Aavegotchi Improvement Proposal #23**
 
-**Proposal Summary:**
+**提案の要約**
 
 *What is GoodGhosting?*
 
