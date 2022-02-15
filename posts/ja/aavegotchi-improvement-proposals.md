@@ -193,9 +193,9 @@ table_agip6
 
 **提案の要約:** 現在、スナップショットに関するシグナル/コミュニティの提案がたくさんあり、フォーラムには毎日新しい投稿があります。 これまでのところ、これらの提案はいずれも20％のクォーラムに近づくことさえできませんでした。 レアリティファーミングに料金を追加することについての@JGによる最も人気のある提案の1つでさえ、チームがそれをコア提案に移したにもかかわらず、投票で最大200万（約11％）GHSTしか得られませんでした。 コアプロポーザルにアップグレードした後、24時間以内にクォーラムを突破しました。
 
-これには2つの明らかな理由があるでしょうか。 一方では、スナップショットは現在少し混沌としており、一部のシグナルプロポーザルはテンプレートにまったく従いません。 On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+これには2つの明らかな理由があるでしょうか。 一方では、スナップショットは現在少し混沌としており、一部のシグナルプロポーザルはテンプレートにまったく従いません。 もう一方は、これがより重要だと思います。コアプロポーザルに投票すると、ゴッチは２０XPポイント獲得出来ます。
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
+クォーラムに到達してコアプロポーザルにアップグレードされる成功したシグナルプロポーザルへの投票にドロップ（10 XP）を追加することをお勧めします。 XPをすべてのコミュニティ提案にドロップすると、提案の品質が低下する可能性がありますが、これはこの提案の目標ではありません。
 
 Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
 
