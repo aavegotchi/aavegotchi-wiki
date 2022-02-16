@@ -27,7 +27,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Bridge](/bridge)
 
-* [Contests](/contests)
+* [Wedstrijden](/contests)
 
 * [Contracts](/contracts)
 

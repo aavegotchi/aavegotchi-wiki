@@ -38,6 +38,9 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
 <li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
+<li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -658,6 +661,8 @@ Option 2: No, do not add $200k in GHST
 
 **Kết quả:**
 
+table_agip19
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
 
 <hr />
@@ -713,7 +718,142 @@ Option 3: No, do not create the DTF
 
 **Kết quả:**
 
+table_agip20
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
+
+<hr />
+
+### Adding GHST to the Umbria Narni Bridge
+**Aavegotchi Improvement Proposal #21**
+
+**Tóm Tắt Đề Xuất:**
+
+The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
+
+The Umbria Narni bridge protocol can bridge a maximum of 20% of its total GHST liquidity, per bridging event. For example, with $100k of GHST tokens in one side of the pool, the bridge can migrate a maximum of $20k of GHST per single transaction.
+
+Currently there is approximately $14,000 of GHST tokens on each side of the bridge. This is mostly funded by the Umbria team. This enables the bridge to be able to bridge a maximum of $700 of GHST tokens per transaction - which is pretty good, but we are aware that some users want to bridge much more in a single transaction.
+
+We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
+
+The Aavegotchi DAO will earn a 0.2% bridging fee whenever anyone uses the bridge to migrate GHST tokens between Ethereum <--> Polygon. So across time, the Aavegotchi DAO will make money. If the Narni bridge ever becomes an unnecessary solution, the Aavegotchi DAO can easily remove their liquidity and enjoy their profit.
+
+Transactions up to approximately $21,000 of GHST will now be possible.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+
+Option 1: Yes, add $200k GHST
+
+Option 2: No, do not add any GHST
+
+**Voting Period:** 8 - 15 February 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xeaac981066e143c46c7a616d2e6ff004d7d4d354005e077f01e3698041e4780a)
+
+<hr />
+
+### Launch Rarity Farming SZN 3
+**Aavegotchi Improvement Proposal #22**
+
+**Tóm Tắt Đề Xuất:**
+
+*Vấn đề*
+
+Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
+
+*Giải pháp*
+
+If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+
+*Phân Phối*
+
+For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
+
+Based on Forum discussions this would be the final model for SZN3:
+
+* 4 Rounds (2 weeks each)
+* 1.5 Million GHST Rewards Pool (1.4m GHST funded already)
+* 70% BRS
+* 20% Kinship
+* 10% XP
+* Top 5k Gotchis (20%) → Top 7.5k Gotchis (30%)
+* 3 Seasons per Year (approx. schedule below)
+* SZN 3: February - March
+* SZN 4: June - July
+* SZN 5: October - November
+
+Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+
+Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+
+Option 1: Yes, launch RF SZN 3
+
+Option 2: Yes, but different params
+
+Option 3: No, don't launch RF SZN 3
+
+**Voting Period:** 8 - 15 February 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5ffa4d3b8f4c1d744424af5c0f079ebfa286c9aec9c35e898c2c02bee87a0b60)
+
+<hr />
+
+### Co-Sponsoring the GoodGhosting Pool
+**Aavegotchi Improvement Proposal #23**
+
+**Tóm Tắt Đề Xuất:**
+
+*What is GoodGhosting?*
+
+GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
+
+The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
+
+*Potential collaboration*
+
+We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
+
+Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+
+Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
+
+*Our Request*
+
+* A total of 7000 GHST in sponsorship for this savings pool. To be shared between all winning players.
+* The ability to reward successful savers with Gotchi XP, or alternatively FRENS. Considering GoodGhosting an extensive mini-game that encourages people to stack more GHST.
+* An allocation of Aavegotchi NFTs (worth up to 3000 GHST) to be raffled to random participants and/or to all winners. These could be Wearables, Gotchi’s, Raffle tickets or Realm parcels.
+
+These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
+
+*What can GoodGhosting bring to the table?*
+
+* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). To be shared between all winning players.
+* An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
+* We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
+* We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
+* Some very special NFTs by our in-house artist Mali3D
+* An increased GG score for all successful savers
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+
+Option 1: Yes, 10k GHST for rewards + XP
+
+Option 2: Yes, but under different terms
+
+Option 3: No, do not support GG
+
+**Voting Period:** 9 - 15 February 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
 
 <hr />
 

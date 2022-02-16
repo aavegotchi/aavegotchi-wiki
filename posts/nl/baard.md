@@ -2,46 +2,46 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Baard'
-description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
+description: 'Aavegotchi Baards - onze leuke vrolijke Gotchis'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Twas the night before Haalloween,
+Het was de nacht voor Haalloween,
 
-when all thru the Tavern,
+wanneer door de Herberg
 
-every Gotchi was singing,
+elke Gotchi zingde,
 
-every Rofl is rollin' on the floor laughin' (rofl-ing);
+elke Rofl rolt van het lachen op de vloer' (roflen);
 
-The Baards were plucking their haarps,
+De Baards streepte hun harpen,
 
-the baagpipes were creating a merry tune.
+de baagpips maakten een vrolijke melodie.
 
-Twas the night before Haalloween,
+Het was de nacht voor Haalloween,
 
-where Gotchis come out to play!
+waar Gotchis naar buitenkomen om te spelen!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#baards>Baards</a></li>
-<li><a href=#music>Music</a></li>
+<li><a href=#music>Muziek</a></li>
 </ol>
 
 </div>
 
 ## Baards
 
-Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
+Baards zijn onze musici uit de Aavegotchi gemeenschap. Bekijk deze [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) voor de inspiratie achter de Baard rol.
 
-table_baard
+tabel_baard
 
-## Music
+## Muziek
 
-Our Baards have created some very aavesome soundtracks. Check them out here!
+Onze Baards hebben een aantal zeer aavesome soundtracks gecreëerd. Bekijk ze hier!
 
-* [Aavegotchi.com Minigame Chiptunes created by jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)
+* [Aavegotchi.com Minigame Chiptunes gemaakt door jo0wz](https://soundcloud.com/jowijames/sets/aavegotchicom-minigame-chiptunes)

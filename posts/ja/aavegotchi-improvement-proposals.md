@@ -38,8 +38,11 @@ contributors:
 <li><a href=#gotchiverse-patch-v0-1>ゴッチバースのパッチ v0.1</a></li>
 <li><a href=#providing-ghst-liquidity-on-synfutures>SynFuturesでGHST流動性の提供</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>DAOトレジャリータスクフォースの作成</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Umbria NarniブリッジにGHSTを追加</a></li>
+<li><a href=#launch-rarity-farming-szn-3>レアリティファーミングSZN 3を開始</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>GoodGhostingセービングゲームをスポンサー</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Aavegotchiマーケットの名称</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>FRENSを獲得するGHST-USDC LPトークンの資格</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>GHST-USDC LPトークンをFRENSを獲得する資格を得る</a></li>
 <li><a href=#portals-purchased-in-one-transaction>1つのトランザクションで購入出来るポータル量</a></li>
 </ol>
 
@@ -165,15 +168,15 @@ table_agip5
 ### マーケットに手数料を追加
 **Aavegotchi改善提案6番**
 
-**Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
+**提案の要約:**SZN1の公式発表以来、マーケットの手数料に関連して、コミュニティの利益と報酬の構造を調整する方法を模索していました。
 
-Currently, 2% is allocated to Pixelcraft and 1% to DAO treasury. While not exclusive of providing for RF rewards, the treasury funds are currently in no obligation to be allocated in any form of ratio towards the RF pool each season. The proposal aims to increase the Baazaar fees from 3% to 3.5%, with the additional 0.5% going directly to the Rarity Farming rewards pool.
+現在、2％がPixelcraftに割り当てられ、1％がDAOトレジャリーに割り当てられています。 ゲーム報酬だけでなく、現在、トレジャリー資金はゲームシーズンごとに報酬プールに割り当てられる義務はありません。 この提案は、マーケットの料金を3％から3.5％に増やし、さらに0.5％をレアリティファーミングの報酬プールに直接送ることを目的としています。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+改善提案を詳細は [こちら](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
 
-Option 1: Yes, increase fees from 3 to 3.5
+オプション1：はい、手数料を3％から3.5％に増やします。
 
-Option 2: No, leave the fees as they are
+オプション2：いいえ、手数料はそのままにしておきましょう。
 
 **投票期間：** 2021年4月7日〜13日
 
@@ -188,21 +191,21 @@ table_agip6
 ### 合格したプロポーザルを作成するためのXPを獲得
 **Aavegotchi改善提案7番**
 
-**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+**提案の要約:** 現在、スナップショットに関するシグナル/コミュニティの提案がたくさんあり、フォーラムには毎日新しい投稿があります。 これまでのところ、これらの提案はいずれも20％のクォーラムに近づくことさえできませんでした。 レアリティファーミングに料金を追加することについての@JGによる最も人気のある提案の1つでさえ、チームがそれをコア提案に移したにもかかわらず、投票で最大200万（約11％）GHSTしか得られませんでした。 コアプロポーザルにアップグレードした後、24時間以内にクォーラムを突破しました。
 
-I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
+これには2つの明らかな理由があるでしょうか。 一方では、スナップショットは現在少し混沌としており、一部のシグナルプロポーザルはテンプレートにまったく従いません。 もう一方は、これがより重要だと思います。コアプロポーザルに投票すると、ゴッチは２０XPポイント獲得出来ます。
 
-I propose adding a small Experience drop (10 XP) for people who voted on successful Signal Proposals, meaning ones that reach quorum and get upgraded to Core Proposals. Simply dropping XP for all Community Proposals could result in more low quality suggestions, which shouldn't be the goal of this proposal.
+クォーラムに到達してコアプロポーザルにアップグレードされる成功したシグナルプロポーザルへの投票にドロップ（10 XP）を追加することをお勧めします。 XPをすべてのコミュニティ提案にドロップすると、提案の品質が低下する可能性がありますが、これはこの提案の目標ではありません。
 
-Even if 10 XP might not be much, it gives people incentives to actually look through the Signal Proposals and vote on quality proposals with a higher chance of reaching quorum. As a DAO, community involvement is extremely important and I believe this is a small, but decent, step in the right direction.
+10 XPはそれほど多くないかもしれませんが、それは人々が実際にシグナル提案を調べて、クォーラムに到達する可能性が高い質の高い提案に投票するように促します。 DAOとして、コミュニティの関与は非常に重要であり、これは小さな、しかしまともな、正しい方向への一歩です。
 
-If this Proposal reaches quorum and passes, all Aavegotchis held by their owners at the end of the vote will receive 10 XP!
+この提案が定足数に達し、投票が通過した場合、投票の最後に所有者が保持しているすべてのゴッチは10XPを受け取ります。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+改善提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
 
-Option 1: Yes, successful SigProps give XP
+オプション1：はい、シグナルプロポーザルが投票が通過したらはXPを与える
 
-Option 2: No, SigProps should not give XP
+オプション2：いいえ、シグナルプロポーザルはXPを与えてはいけません。
 
 **投票期間：** 2020年5月12日〜18日
 
@@ -217,13 +220,13 @@ table_agip7
 ### BRS(レア度)に基づいて投票力
 **Aavegotchi改善提案8番**
 
-**Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
+**提案の要約:**投票者のアドレスで開催されたゴッチの投票力を、BRSごとに1 GHSTの割合で追加します（ベースレアリティスコア、装備されたウェアラブルは含まれません）。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+改造提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Aavegotchi based on BRS
+オプション1：はい、ベースレアリティ度に基づいてゴッチに投票権を付与します
 
-Option 2: No, Aavegotchis shouldn’t have Voting Power
+オプション2：いいえ、ゴッチは投票権を持つべきではありません
 
 **投票期間：** 2021年6月11日〜17日
 
@@ -238,13 +241,13 @@ table_agip8
 ### ウェアラブルのモール値段に基づいた投票力
 **Aavegotchi改善提案9番**
 
-**Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
+**提案の要約:**ウォレットアドレスとゴッチに装備されているウェアラブルに投票権を追加します。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+改造提案を詳細は[こちら](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
-Option 1: Yes, give Voting Power to Wearables based on Maall Price
+オプション1：はい、マール価格に基づいてウェアラブルに投票権を与えます
 
-Option 2: No, Wearables shouldn’t have Voting Power
+オプション2：いいえ、ウェアラブルには投票権を持たせるべきではありません
 
 **投票期間：** 2021年6月11日〜17日
 
@@ -259,13 +262,13 @@ table_agip9
 ### AavegotchiDAOやPixelcraftとDinoSwapの連携
 **Aavegotchi改善提案10番**
 
-**Proposal Summary:** Some community members are worried about the waning liquidity of GHST on Quickswap and their gradually decreasing LP rewards. Rather than simply allocating more liquidity to the pool, we are considering partnering with a soon to launch liquidity aggregator called DinoSwap. The terms include a total of 200k USD worth of GHST tokens to be allocated to their incentivized “extinction pools”, the details of which are fleshed out below.
+**提案の要約:**一部のコミュニティメンバーは、QuickswapでのGHSTの流動性の報酬の減少について心配しています。 Quickswapプールにより多くの流動性を割り当てる代わりに、まもなくオープンするDinoSwapと呼ばれる流動性アグリゲーターとの提携を検討しています。 コラボレーションの条件には、インセンティブを与えられたプールに割り当てられる合計20万ドル相当のGHSTトークンが含まれます。詳細は以下のとおりです。
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+改善提案を詳細は[こちら](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804)
 
-Option 1: Yes, let's partner with DinoSwap
+オプション1：はい、DinoSwapとパートナーシップしましょう
 
-Option 2: No, don't partner with Dinoswap
+オプション2：いいえ、Dinoswapとパートナーシップをやめましょう
 
 **投票期間：** 2021年6月13日〜20日
 
@@ -280,9 +283,9 @@ table_agip10
 ### 流動性マネージャーとFRENS委員会
 **Aavegotchi改善提案11番**
 
-**Proposal Summary:**
+**提案の要約**
 
-*Problem*
+*問題*
 
 To incentivize liquidity on QuickSwap, you can earn additional FRENS rewards for staking Liquidity Pool (LP) tokens on the Aavegotchi website. Depending on the risk of Impermanent Loss (IL) these numbers can vary, originally it was +35% for GHST-QUICK, +20% for GHST-ETH and +10% for GHST-USDC. Because the rates have to be manually adjusted and prices have moved quite a bit since this was introduced, the FRENS rewards are off by quite a lot; GHST-QUICK is at around +90%, while GHST-USDC earns -10%.
 
@@ -346,9 +349,9 @@ table_launchHaunt2
 ### エイジングメカニックを導入
 **Aavegotchi改善提案13番**
 
-**Proposal Summary:**
+**提案の要約**
 
-*Problem*
+*問題*
 
 As new haunts are released, whether or not they include a bug fix that impacts gotchi trait generation, a strong dilution of existing high BRS gotchis occurs. Due to the nature of rarity farming and its rewards, this dilution is exclusively felt by those who invested heavily into older haunts, and who may not have the desire to sell due to emotional attachment, the means to invest more, or the ability to “flip” their way (due to local tax laws) into higher BRS gotchis from the newer haunts. Furthermore, very significant statistical variance can occur in new haunts, making it near impossible to make long term financial decisions, as the variance can render previous haunt gotchis all but obsolete. This leaves far too much entirely up to “luck”.
 
@@ -539,7 +542,7 @@ table_agip17
 ### ゴッチバースのパッチ v0.1
 **Aavegotchi Improvement Proposal #18**
 
-**Proposal Summary:**
+**提案の要約**
 
 *問題*
 
@@ -632,7 +635,7 @@ table_agip18
 ### SynFuturesでGHST流動性の提供
 **Aavegotchi Improvement Proposal #19**
 
-**Proposal Summary:**
+**提案の要約**
 
 Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
 
@@ -658,6 +661,8 @@ Option 2: No, do not add $200k in GHST
 
 **結果:**
 
+table_agip19
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
 
 <hr />
@@ -665,7 +670,7 @@ Option 2: No, do not add $200k in GHST
 ### DAOトレジャリータスクフォースの作成
 **Aavegotchi Improvement Proposal #20**
 
-**Proposal Summary:**
+**提案の要約**
 
 We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
 
@@ -713,7 +718,142 @@ Option 3: No, do not create the DTF
 
 **結果:**
 
+table_agip20
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
+
+<hr />
+
+### Umbria NarniブリッジにGHSTを追加
+**Aavegotchi Improvement Proposal #21**
+
+**提案の要約**
+
+The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
+
+The Umbria Narni bridge protocol can bridge a maximum of 20% of its total GHST liquidity, per bridging event. For example, with $100k of GHST tokens in one side of the pool, the bridge can migrate a maximum of $20k of GHST per single transaction.
+
+Currently there is approximately $14,000 of GHST tokens on each side of the bridge. This is mostly funded by the Umbria team. This enables the bridge to be able to bridge a maximum of $700 of GHST tokens per transaction - which is pretty good, but we are aware that some users want to bridge much more in a single transaction.
+
+We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
+
+The Aavegotchi DAO will earn a 0.2% bridging fee whenever anyone uses the bridge to migrate GHST tokens between Ethereum <--> Polygon. So across time, the Aavegotchi DAO will make money. If the Narni bridge ever becomes an unnecessary solution, the Aavegotchi DAO can easily remove their liquidity and enjoy their profit.
+
+Transactions up to approximately $21,000 of GHST will now be possible.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+
+Option 1: Yes, add $200k GHST
+
+Option 2: No, do not add any GHST
+
+**Voting Period:** 8 - 15 February 2022
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xeaac981066e143c46c7a616d2e6ff004d7d4d354005e077f01e3698041e4780a)
+
+<hr />
+
+### レアリティファーミングSZN 3を開始
+**Aavegotchi Improvement Proposal #22**
+
+**提案の要約**
+
+*問題*
+
+Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
+
+*Solution*
+
+If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+
+*Distribution*
+
+For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
+
+Based on Forum discussions this would be the final model for SZN3:
+
+* 4 Rounds (2 weeks each)
+* 1.5 Million GHST Rewards Pool (1.4m GHST funded already)
+* 70% BRS
+* 20% Kinship
+* 10% XP
+* Top 5k Gotchis (20%) → Top 7.5k Gotchis (30%)
+* 3 Seasons per Year (approx. schedule below)
+* SZN 3: February - March
+* SZN 4: June - July
+* SZN 5: October - November
+
+Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+
+Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+
+Option 1: Yes, launch RF SZN 3
+
+Option 2: Yes, but different params
+
+Option 3: No, don't launch RF SZN 3
+
+**Voting Period:** 8 - 15 February 2022
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x5ffa4d3b8f4c1d744424af5c0f079ebfa286c9aec9c35e898c2c02bee87a0b60)
+
+<hr />
+
+### GoodGhostingセービングゲームをスポンサー
+**Aavegotchi Improvement Proposal #23**
+
+**提案の要約**
+
+*What is GoodGhosting?*
+
+GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
+
+The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
+
+*Potential collaboration*
+
+We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
+
+Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+
+Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
+
+*Our Request*
+
+* A total of 7000 GHST in sponsorship for this savings pool. To be shared between all winning players.
+* The ability to reward successful savers with Gotchi XP, or alternatively FRENS. Considering GoodGhosting an extensive mini-game that encourages people to stack more GHST.
+* An allocation of Aavegotchi NFTs (worth up to 3000 GHST) to be raffled to random participants and/or to all winners. These could be Wearables, Gotchi’s, Raffle tickets or Realm parcels.
+
+These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
+
+*What can GoodGhosting bring to the table?*
+
+* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). To be shared between all winning players.
+* An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
+* We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
+* We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
+* Some very special NFTs by our in-house artist Mali3D
+* An increased GG score for all successful savers
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+
+Option 1: Yes, 10k GHST for rewards + XP
+
+Option 2: Yes, but under different terms
+
+Option 3: No, do not support GG
+
+**Voting Period:** 9 - 15 February 2022
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
 
 <hr />
 
@@ -746,7 +886,7 @@ table_marketplaceName
 
 <hr />
 
-### FRENSを獲得するGHST-USDC LPトークンの資格
+### GHST-USDC LPトークンをFRENSを獲得する資格を得る
 
 **Snapshot Voting**
 

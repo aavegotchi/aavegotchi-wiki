@@ -7,29 +7,29 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket) forever.
+Baadges zijn niet-overdraagbare ERC-1155 NFT's die de deelname van Gotchi aan een speciaal evenement gedenken. Zodra een Baadge naar je Gotchi wordt gestuurd, bevindt het zich voor altijd in hun [Gotchi Broekzak](/aavegotchi-profile#gotchi-pocket).
 
-Baadges could be earned in a variety of ways:
+Baadges kunnen op verschillende manieren verdiend worden:
 
-* Getting into the Top 10/100 for Rarity Farming
-* Participating in an event
-* Voting in a major AavegotchiDAO vote
-* Breaking a mini-game's high score
-* .....And many more!
+* In de Top 10/100 van Rarity Farming komen
+* Deelnemen aan een evenement
+* Stemmen bij een belangrijke stemming in AavegotchiDAO
+* Breken van een mini-spel topscore
+* .....En nog veel meer!
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Houd je ogen voor meer baadges in de toekomst. Ze zullen door het team worden aangekondigd zodra ze beschikbaar zijn.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#list-of-baadges>List of Baadges</a></li>
+<li><a href=#list-of-baadges>Lijst van Baadges</a></li>
 </ol>
 
 </div>
 
-## List of Baadges
+## Lijst van Baadges
 
-table_baadge
+tabel_baadge
 

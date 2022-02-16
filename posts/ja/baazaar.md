@@ -9,35 +9,35 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">マーケット</p>
 </div>
 
-"Psst.....you there"
+「おい.....そこのひと、こっちにおいでなさいまっせ」
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+目をキラキラと輝かせたゴッチ商人は、あなたを屋台に招きます。
 
-"I have something aamazing for you."
+「私はあなたに素晴らしい物を持っています。」
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+ゴッチ商人は布で覆われた物を引き出します。 ゆっくりと、彼は布を引き剥がします。 その物は太陽光線を捉え、明るい午後の太陽に輝いています。
 
-".....A Mudgen Diamond" you whisper to yourself.
+「.....Mudgenダイヤモンド」あなたは自分自身にささやきます。
 
-The marvellous shine catches the attention of countless bystanders.
+素晴らしい輝きは、数え切れないほどの傍観者の注目を集めています。
 
-Another Gotchi shoves in. "I'll have it!"
+別のゴッチが押し込まれる。 "買います！"
 
-"NO! I'LL HAVE IT!"
+「ダメだ! 「私はそれを買います！」
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+ではフレンズ、これはAavegotchiのマーケットです。 あなたはかなり速く拾うのに十分な知識がありますか？ あなたは富への道を切り開く熱に耐えることができますか？
 
-Come and test your mettle! Buyers and sellers alike!
+あなたの気力を試して来ませんか？ 買い手と売り手も同様です！
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
+<li><a href=#aavegotchi-baazaar>Aavegotchiマーケット</a></li>
 <li><a href=#features>Features</a></li>
 <li><a href=#rarible>Rarible</a></li>
 </ol>

@@ -33,7 +33,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#baard>Baard</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
 <p><a href=#frens>FRENS</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<p><a href=#gotchi-pocket>Gotchi Broekzak</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
@@ -121,7 +121,7 @@ Points that are rewarded to users who have staked GHST. FRENS is not a token. It
 
 Read more about FRENS in the [Staking page](/staking).
 
-### Gotchi Pocket
+### Gotchi Broekzak
 Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
 Technically, a Gotchi Pocket is an escrow address.
@@ -217,7 +217,7 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Een DAICO is een model waarbij beleggers zeggenschap hebben over de fondsen die zijn ingezameld zodra de financiering voorbij is. De investeerders kunnen invloed uitoefenen op de manier waarop ontwikkelaars toegang hebben tot de fondsen en op de frequentie van een "tap"-mechanisme. Bovendien kunnen investeerders ook stemmen om het project af te schaffen en hun geld terug te krijgen.
 
 ### DAO
 Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
