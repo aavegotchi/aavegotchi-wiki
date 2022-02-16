@@ -48,33 +48,33 @@ contributors:
 
 AavegotchiマーケットはAavegotchiの公式セカンダリーマーケットプレイスです。 販売者は項目をリストすることができます。 市場に新規上場するたびに、0.1GHSTの上場手数料がかかります。 これは、Polygonでのスパムリストを防ぐためです。 この0.1GHSTは、PixelcraftStudiosにもAavegotchiDAOにも適用されません。 その代わりに、リストが作成または更新されるときに、Polygonの[バーンアドレス](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) に直接送信されます。
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
-* 2% to Pixelcraft Studios
-* 1% to AavegotchiDAO
-* 0.5% to Rarity Farming reward pool
+アイテムが販売されるとき、売り手はウオレットに販売価格の96.5％を受け取ります。 他の3.5％は次のように割り当てられます：
+* Pixelcraft Studiosへ2%
+* 1％→AavegotchiDAO
+* 5％→レアリティファーミング報酬プール
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+すべての市場リストの最低価格は1GHSTです。 販売者が1GHST未満の商品の価格を設定する場合は、合計価格が1 GHSTを超えるように、複数の商品をバンドルする必要があります。
 
-Buyers may buy 1, some, or all of a multiple item listing.
+購入者は1つ、一部、またはすべてを購入できます。
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+詳細については[こちら](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+Aavegotchiマーケットは [こちら](https://aavegotchi.com/baazaar).
 
 ## 機能
-There are a variety of products listed on the Baazaar:
+マーケットには、さまざまな商品がリストされています。
 
-* Aavegotchis
-* Portals — Closed
-* Portals — Open
-* Gotchiverse REALM
-* Wearables
-* Consumables
-* Raffle Tickets
+* ゴッチ
+* ポータル (閉)
+* ポータル (開)
+* ゴッチバースレルム（区画）
+* ウェアラブル
+* 消費アイテム
+* ラッフルチケット
 
-The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
+マーケットでは、価格、レアリティ、と名前で並べ替えて、オプションを絞り込むのに役立ちます。
 
 Other features included in the Baazaar are:
 
