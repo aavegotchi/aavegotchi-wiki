@@ -139,7 +139,7 @@ Er zijn 2 soorten voorstellen in de *Cocoon* fase:
 
 * **Kernvoorstel** - Als een signaalvoorstel 20% of groter quorum bereikt (hoeveelheid circulerende GHST in aanmerking om te stemmen op Polygon), Pixelcraf introduceert het voorstel opnieuw als een kernvoorstel. Deze stemmen zijn bindend en komen in aanmerking voor [XP](/traits#experience) beloningen voor deelnemers.
 
-<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
+<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Voorstel Type" />
 
 **Kernvoorstellen** zijn verder onderverdeeld in 3 types:
 
@@ -204,17 +204,17 @@ Om te stemmen op Snapshot, volg de onderstaande stappen:
 
 2). Verbind uw Wallet.
 
-<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Stemming Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Stemming Ethereum" />
 
 3). Selecteer een poll optie en klik op "Stemmen." Er verschijnt een pop-up om je keuze te bevestigen.
 
-<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Stemming Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Stemming Ethereum" />
 
 4). Uw Metamask zal verschijnen. Onderteken de transactie, en je bent klaar!
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "onderteken Snapshot Stemming transactie" />
 
 ### Aragon stemmen
 
@@ -228,31 +228,31 @@ Om via Aragon te stemmen, volg de onderstaande stappen:
 
 2). Verbind uw Wallet.
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Stemming Ethereum" />
 
-3). Choose to vote "Yes" or "No."
+3). Kies om "Ja" of "Nee" te stemmen
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Stemming Ethereum" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). Uw Metamask zal verschijnen. Houd er rekening mee dat uw transactie gemind moet worden om te worden bevestigd, dus raadpleeg een site als [gas](https://gasnow.org/) over de nieuwste gasprijs.
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). Zodra uw transactie is gemined, zal uw stem overeenkomstig worden weergegeven.
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Stemming Ethereum" />
 
 ## Aavegotchi Verbetervoorstellen (AGIP's)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+Zie je die stemmen op Aragon? Dat zijn Aavegotchi verbetervoorstellen (AGIP's)!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Bezoek de [Aavegotchi verbeteringsvoorstellen](/aavegotchi-improvement-proposals) pagina voor een lijst met historische stemmen. Als je op de hoogte wilt worden gebracht van toekomstige voorstellen, volg dan [Aavegotchi op social media](/socialmedia).
 
-Vote on AGIPs and get [POAP badges](/poap) for it!
+Stem op AGIPs en krijg er[POAP badges](/poap) voor!
 
 ## Schatkist
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAO verdient 0.3% van alle transacties op de Aavegotchi [Bonding Curve](/curve) op Ethereum Mainnet. Dit is de huidige bron van alle DAO-fondsen.
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+Als verantwoordelijke rentmeesters zullen de leden van AavegotchiDAO een rol spelen bij het bepalen van de wijze waarop deze fondsen worden toegewezen.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+De AavegotchiDAO schatkist is [hier](https://aavegotchi.com/treasury).
