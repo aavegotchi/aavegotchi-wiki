@@ -44,35 +44,35 @@ Aavegotchi volgt in de voetstappen van succesvolle DeFi protocollen zoals Compou
 
 *Zie* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-De eerste versie van AavegotchiDAO lanceerde in combinatie met de GHST token distributie. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+De eerste versie van AavegotchiDAO lanceerde in combinatie met de GHST token distributie. GHST token houders hebben de macht gehad om te stemmen over het verhogen / onderhouden van de fondsen verdeeld door het kraanmechanisme van de [token bonding curve (TBC)](/curve) reserve aan Pixelcraft Studios (het team achter Aavegotchi) ter ondersteuning van de ontwikkeling. Dit oorspronkelijke voorstel om de kraan te verhogen van 50.000 DAI naar 100.000 DAI per maand werd op 18 oktober 2020 met 99 procent goedgekeurd. Wanneer het tijd is om te migreren naar AavegotchiDAO Metamorphose, zullen tokenhouders ook stemmen om de migratie uit te voeren.
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Token houders zullen geen beloningen ontvangen in GHST voor actieve deelname aan deze herhaling van AavegotchiDAO.
 
-Features for Genesis include:
+Mogelijkheden voor Genesis omvatten:
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
+* Geen smart contract oproepen
+* Geen contract upgrades
+* Op GHST token gebaseerd bestuur
 * Platform: Aragon
-* Rewards: None
+* Beloningen: Geen
 * Layer: Ethereum Mainnet
 
 ## Cocon
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+V1.5 van AavegotchiDAO. Het tussenpunt tussen [Genesis](/dao#genesis) en [Metamorphose](/dao#metamorphosis). De prioriteit van het Cocoon-stadium is om invloed uit te oefenen op spelmechanismen.
 
-Its features include:
+Kenmerken houden in:
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
+* Contractoproepen opgeroepen door Pixelcraft
+* Geen contract upgrades
+* Op GHST token gebaseerd bestuur
+* Platform: Snapshot/Discord
+* Beloningen: [XP](/traits#experience) voor Core Votes
 * Layer: Polygon
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+Er zijn twee soorten stemmen in de Cocoon-fase: (1) Signaal-voorstel en (2) Core-voorstel.
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Een signaalvoorstel kan door iedereen op het tabblad [Snapshot](https://snapshot.page/#/aavegotchi.eth) worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Voordat je met een Signal Voorstel komt, is het verplicht om het te bespreken met de gemeenschap op Discord en/of [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). De redenering is om verder te gaan en te ontdekken of er de nodige steun is om verder te gaan met het Signaal-voorstel. Volg het sjabloon gevonden in de [Signaal Voorstellen sectie](/dao#creating-signal-proposals).
 
 The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
 
@@ -90,7 +90,7 @@ A full list of actions available to perform by the AavegotchiDAO in this phase i
 
 Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
 
-Its features include:
+Kenmerken houden in:
 
 * Can execute smart contract calls
 * Can upgrade certain mechanics
@@ -105,7 +105,7 @@ Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evoluti
 
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-Its features include:
+Kenmerken houden in:
 
 * Can execute smart contract calls
 * Can upgrade certain mechanics
@@ -135,7 +135,7 @@ The Forum can be found [here](https://dao.aavegotchi.com/).
 
 There are 2 types of proposals in the *Cocoon* stage:
 
-* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Signal Proposal** — A proposal that can be posted by anyone. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
 
 * **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
 
