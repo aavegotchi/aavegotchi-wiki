@@ -38,15 +38,15 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchiマーケット</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#features>機能</a></li>
 <li><a href=#rarible>Rarible</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Aavegotchiマーケット
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+AavegotchiマーケットはAavegotchiの公式セカンダリーマーケットプレイスです。 販売者は項目をリストすることができます。 市場に新規上場するたびに、0.1GHSTの上場手数料がかかります。 これは、Polygonでのスパムリストを防ぐためです。 この0.1GHSTは、PixelcraftStudiosにもAavegotchiDAOにも適用されません。 その代わりに、リストが作成または更新されるときに、Polygonの[バーンアドレス](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) に直接送信されます。
 
 When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
 * 2% to Pixelcraft Studios
@@ -63,7 +63,7 @@ Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aaveg
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Features
+## 機能
 There are a variety of products listed on the Baazaar:
 
 * Aavegotchis
