@@ -81,10 +81,10 @@ Aavegotchiマーケットは [こちら](https://aavegotchi.com/baazaar).
 * アクティビティ-（閉じたポータル、開いたポータル、ゴッチ、ウェアラブル、消耗品、ラッフルチケット）の売れた物をここで表示します！
 * 出品一覧 - 売りに出した物をここで見る！
 * 販売履歴 - マーケットでの自分の販売の履歴
-* My Purchases - Historical record of your purchases on the Baazaar
+* 購入履歴 - 自分が買ったアイテムの履歴をここで投票出来ます
 
 ## Rarible
 
-Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+公式のAavegotchiマーケットに加えて、Ethereumメインネットの<ahref = "https://rarible.com/"> Rarible </a>でゴッチを購入することもできます。
 
 As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
