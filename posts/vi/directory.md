@@ -109,6 +109,8 @@ contributors:
 
 * [Team](/team)
 
+* [The Nine Aadepts](/the-nine-aadepts)
+
 * [Vé](/tickets)
 
 * [Tokenomics](/tokenomics)
