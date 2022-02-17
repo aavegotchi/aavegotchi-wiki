@@ -96,6 +96,6 @@ Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. T
 
 [Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
 
-Gotchis would receive a small [BRS](/rarity-farming#base-rarity-score) boost to gotchis as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
 
-Het biedt een buffer van ongeveer zes maanden waarin oudere gotchis een BRS-boost hebben ten opzichte van nieuw opgewekte gotchis. Naarmate ze net naar gotchis kwamen, beginnen ze snel hun oudere tegenhangers in te halen.
+For more information, check out the [Aging Mechanic](/aging-mechanic) page.
