@@ -56,7 +56,7 @@ contributors:
 
 ### 基础稀有分
 
-基础稀有分数（BRS）来自Aavegotchi的特征和装备的磨损的总体稀有程度。
+Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
 
 #### 特性 BRS
 
@@ -73,7 +73,11 @@ if (number < 50) return 100 - number;
 
 #### 可穿戴装备 BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](/wearables) yield 5 BRS and godlike wearables 50 BRS.
+
+#### Age
+
+As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
 ### 绝对稀有分
 
