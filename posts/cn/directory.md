@@ -109,6 +109,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [团队](/team)
 
+* [The Nine Aadepts](/the-nine-aadepts)
+
 * [Tickets](/tickets)
 
 * [Tokenomics](/tokenomics)
