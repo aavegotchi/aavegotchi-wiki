@@ -24,6 +24,7 @@ wearables</1> mà chúng được mặc. Những Aavegotchi được triệu h�
 <li><a href=#experience>Kinh nghiệm</a></li>
 <li><a href=#level>Cấp độ</a></li>
 <li><a href=#haunt>Haunt</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 </ol>
 
 </div>
@@ -108,3 +109,13 @@ Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavego
 Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
 
 Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
+
+
+
+## Aging Mechanic
+
+[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+
+Gotchis would receive a small [BRS](/rarity-farming#base-rarity-score) boost to gotchis as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+
+Nó tạo ra bước đệm khoảng 6 tháng trong suốt khoảng thời gian mà những gotchi lớn tuổi có được sự tặng trưởng BRS so với những gotchi vừa mới được triệu hồi. Khi những gotchi vừa mới được triệu hồi lớn dần, chúng sẽ nhanh chóng bắt kịp với những đối thủ già cõi hơn.
