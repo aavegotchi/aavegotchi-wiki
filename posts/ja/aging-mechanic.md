@@ -35,9 +35,9 @@ Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを�
 
 これにより、約6か月のバッファーが提供され、その間に古いゴッチは、新しく召喚されたゴッチよりもレア度が高くなります。 新しく召喚されたゴッチが年をとるにつれて、すぐに古い相手に追いつき始めます
 
-The formula that is used to calculate the BRS boost is modeled after the Fibonacci numbers x 1 million, but replacing the first 0 with a 1 to better fit the use case.
+BRSブーストの計算に使用される式は、フィボナッチ数x 100万をモデルにしていますが、ユースケースに合わせて最初の0を1に置き換えています。
 
-This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to **eventually** catch up to **within a 1 BRS boost** of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
+このソリューションは、老化の最初の数エポックでより迅速なブーストを提供し、時間の経過とともに平坦化して、過度に強力なものを回避し、最近召喚されたゴッチが年配の賢い兄弟の1BRSブースト以内に追いつくことを可能にします。 ポータルを保存するのではなく、開くことを奨励すると同時に、ゲーム内の経済性と閉じたままのポータルの不足を後押しします。 何よりも、それは、他の召喚に利益をもたらさず、突然の積極的な希薄化の影響を打ち消しながら、長期的な関与に報いる公正なシステムです。
 
 ## 基本レア度のブースト
 
