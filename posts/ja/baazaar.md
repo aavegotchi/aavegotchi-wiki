@@ -76,11 +76,11 @@ Aavegotchiマーケットは [こちら](https://aavegotchi.com/baazaar).
 
 マーケットでは、価格、レアリティ、と名前で並べ替えて、オプションを絞り込むのに役立ちます。
 
-Other features included in the Baazaar are:
+マーケッの他の機能は次のとおりです。
 
-* Activity - View Baazaar sales (Closed Portals, Opened Portals, Aavegotchis, Wearables, Consumables & Raffle Tickets) here!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
+* アクティビティ-（閉じたポータル、開いたポータル、ゴッチ、ウェアラブル、消耗品、ラッフルチケット）の売れた物をここで表示します！
+* 出品一覧 - 売りに出した物をここで見る！
+* 販売履歴 - マーケットでの自分の販売の履歴
 * My Purchases - Historical record of your purchases on the Baazaar
 
 ## Rarible
