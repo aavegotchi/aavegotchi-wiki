@@ -87,4 +87,4 @@ Aavegotchiマーケットは [こちら](https://aavegotchi.com/baazaar).
 
 公式のAavegotchiマーケットに加えて、Ethereumメインネットの<ahref = "https://rarible.com/"> Rarible </a>でゴッチを購入することもできます。
 
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+ゴッチはPolygonにネイティブに存在するため、Raribleで売買する前に、Ethereumメインネットにブリッジする必要があります。 ブリッジする方法については、この<ahref = "https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f">ガイド</a>を参照してください。 よくある質問については、そのガイドのFAQを確認してください。
