@@ -7,18 +7,18 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Your gotchi friends are alive! Like you, too, they age — growing from infancy to adulthood.
+あなたのゴッチフレンズは生きています！ あなたと同じ用に年をとって乳児期から成人期に成長します。
 
-Remember to celebrate your lil fren's birthday! They have one as well!
+あなたのフレンの誕生日を祝うことを忘れないでください！ ゴッチも同じ用に持っています!
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
-<p class="headerImageText">Deckaard Caain: Stay awhile and listen</p>
+<p class="headerImageText">しばらく滞在して聞いてください。。。</p>
 </div>
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
 <li><a href=#rationale>Rationale</a></li>
