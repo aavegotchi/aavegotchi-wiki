@@ -1,41 +1,41 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+title: 'Ontwikkelen van Aavegotchi'
+description: 'Spring in en help met het ontwikkelen van deze wiki!'
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">CoderDan heet je welkom!</p>
 </div>
 
-Wanna show off your hotshot coding skills? We welcome you fren!
+Wil je je hotshot programmeer vaardigheden laten zien? Wij heten u van harte welkom!
 
-The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+De Aavegotchi Docs kunnen [hier](https://docs.aavegotchi.com/) gevonden worden.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Building the Wiki</a></li>
-<li><a href=#building-mini-games>Building Mini-Games</a></li>
-<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
-<li><a href=#subgraphs>Subgraphs</a></li>
+<li><a href=#building-aavegotchi-com>Aavegotchi.com bouwen</a></li>
+<li><a href=#building-the-wiki>De Wiki bouwen</a></li>
+<li><a href=#building-mini-games>Mini-Games bouwen</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creaties</a></li>
+<li><a href=#subgraphs>Subgrafieken</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
 </div>
 
-## Building Aavegotchi.com
+## Aavegotchi.com bouwen
 
 Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
 
 Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
 
-## Building the Wiki
+## De Wiki bouwen
 
 Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
@@ -43,7 +43,7 @@ Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
 The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
 
-## Building Mini-Games
+## Mini-Games bouwen
 
 Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
@@ -53,7 +53,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Aarchitect Creations
+## Aarchitect Creaties
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
@@ -75,7 +75,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - A data visualization tool that features districts, floor prices, price estimators, etc.
 
-## Subgraphs
+## Subgrafieken
 
 * Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
 
