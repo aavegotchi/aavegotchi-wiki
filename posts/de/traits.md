@@ -22,6 +22,7 @@ Aavegotchis werden mit (Charakter-)Eigenschaften geboren. Genauso wie deine Eige
 <li><a href=#experience>Experience</a></li>
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 </ol>
 
 </div>
@@ -90,3 +91,11 @@ Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi
 Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
+
+## Aging Mechanic
+
+[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+
+Gotchis would receive a small [BRS](/rarity-farming#base-rarity-score) boost to gotchis as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+
+It provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
