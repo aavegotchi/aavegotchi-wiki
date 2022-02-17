@@ -116,6 +116,6 @@ Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Hau
 
 [Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
 
-Gotchis would receive a small [BRS](/rarity-farming#base-rarity-score) boost to gotchis as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
 
-Nó tạo ra bước đệm khoảng 6 tháng trong suốt khoảng thời gian mà những gotchi lớn tuổi có được sự tặng trưởng BRS so với những gotchi vừa mới được triệu hồi. Khi những gotchi vừa mới được triệu hồi lớn dần, chúng sẽ nhanh chóng bắt kịp với những đối thủ già cõi hơn.
+For more information, check out the [Aging Mechanic](/aging-mechanic) page.
