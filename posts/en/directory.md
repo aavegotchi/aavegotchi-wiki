@@ -18,6 +18,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
+* [Aging Mechanic](/aging-mechanic)
+
 * [Baadge](/baadge)
 
 * [Baard](/baard)

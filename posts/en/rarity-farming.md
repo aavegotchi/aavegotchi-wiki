@@ -54,7 +54,7 @@ There are 2 types of rarity scores in play here - Base Rarity Score (for traits 
 
 ### Base Rarity Score
 
-Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits and equipped wearables.
+Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
 
 #### Trait BRS
 
@@ -71,7 +71,11 @@ if (number < 50) return 100 - number;
 
 #### Wearables BRS
 
-Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](https://wiki.aavegotchi.com/en/wearables) yield 5 BRS and godlike wearables 50 BRS.
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](/wearables) yield 5 BRS and godlike wearables 50 BRS.
+
+#### Age
+
+As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
 ### Absolute Rarity Score
 
