@@ -57,7 +57,7 @@ contributors:
 
 ### Базовый показатель редкости
 
-Данный показатель именуется английской аббревиатурой BRS и рассчитывается суммарно по редкости характеристик и экипировки Готчи.
+Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
 
 #### Как рассчитывается BRS?
 
@@ -74,23 +74,27 @@ contributors:
 
 #### Расчет экипировки BRS
 
-Расчет BRS экипировки зависит от редкости носимого предмета. Например, [редкая экипировка](https://wiki.aavegotchi.com/en/wearables) приносит по 5 очков BRS, а богоподобная — 50 BRS.
+Расчет BRS экипировки зависит от редкости носимого предмета. For example, rare [wearables](/wearables) yield 5 BRS and godlike wearables 50 BRS.
+
+#### Age
+
+As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
 ### Абсолютный показатель редкости
 
-Его именуют английской аббревиатурой ARS. Он рассчитывается по соотношению редкости характеристик в режиме реального времени в экосистеме Аавеготчи. Например, если игроки массово наращивали уровень энергии у своих Готчи, тогда показатель ARS для высокого уровня энергии — TURNT будет иметь более низкое значение, чем у низкого уровня энергии — WASTED. Показатель ARS рассчитывается в процентах от ста для каждой из характеристик Готчи. Это легко проследить на примере. Если только 5% Готчи обладают характеристикой WASTED, то показатель ARS по уровню энергии у Готчи будет на уровне 95 баллов.
+Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
 ### Окончательный подсчет редкости
 
 <b>Этот показатель рассчитывается по формуле, где итоговые баллы начисляются путем суммирования показателей BRS за характеристики, BRS за экипировку и ARS.
 </b>
 
-Примерный расчет итогового значения уровня редкости представлен в этой таблице:
+Example of the Final Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRS — базовый уровень редкости; ARS — абсолютный уровень редкости.</i></p>
+<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
 
-**В данный момент принцип расчета показателя ARS еще не доработан. Поэтому значения ARS в данной таблице являются произвольными.**
+**The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
 ## Вознаграждение
 
@@ -102,19 +106,19 @@ Initially, there were 3 categories of rarity farming rewards:
 * [Очки родства](/traits#kinship) (Kinship) с игроком.
 * [Очки опыта.](/traits#experience)
 
-Вознаграждения за фарм Готчи в каждой категории будут распределяться по нисходящей кривой. То есть, Готчи с высокими показателями, расположенные на кривой выше других, получат больше токенов GHST в награду, чем находящиеся ниже. Также будет определена точка входа в данный конкурс, ниже которой все Готчи не будут получать вознаграждений. Поэтому рекомендуем не забрасывать своих Готчи и активно их развивать. Так, помимо гордости за своего питомца, вы получите неплохое вознаграждение! (Например, в [I сезоне](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8) лучшие 5 тысяч Готчи в каждой категории смогут получить награду за фарминг.
+For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
 
-Количество наград, выделенных на каждую из категорий, будет определяться AavegotchiDAO.
+The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
 
-По мере развития игрового проекта в список будут добавлены и другие категории для получения наград.
+More categories will be added later as the Aavegotchi game continues to develop.
 
-Награды за фарминг будут распределяться через каждые 2 недели. Будет делаться моментальный снимок блокчейна. Изначально это будет выполняться вручную сотрудниками Pixelcraft, но впоследствии этот процесс может быть автоматизирован DAO. По завершении распределения наград все награжденные могут получить полагающиеся им токены GHST, после чего сразу же стартует следующий раунд фарминга.
+Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 
-Откуда поступает финансирование фарминга? [40 процентов токенов GHST, потраченных игроками на покупку экипировки, расходников и других внутриигровых предметов, передаются в пул наград за фарминг](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
+How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from wearables, consumables, and other game items are redirected into the Rarity Farming rewards pool](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
-Напомним, что окончательный уровень редкости Готчи постоянно меняется. Игроки вызывают новых Готчи через порталы, а также прокачивают своих Готчи. Поэтому, если вы заинтересованы постоянно получать награду за фарминг, нужно планировать развитие и новую экипировку своего игрового персонажа. Со своей стороны, команда Аавеготчи всегда готова поддержать и премировать пользователей, активно развивающих своих питомцев и участвующих в жизни игрового сообщества.
+The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
 
-В настоящее время особых ограничений на внесение изменений в параметры Готчи нет. Однако если будет замечена высокая активность ботов, члены AavegotchiDAO смогут проголосовать за их фильтрацию.
+There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
 ### Rarity Farming Seasons
 

@@ -19,6 +19,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
+* [Aging Mechanic](/aging-mechanic)
+
 * [Baadge](/baadge)
 
 * [Baard](/baard)
@@ -106,6 +108,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [스테이킹](/staking)
 
 * [Team](/team)
+
+* [The Nine Aadepts](/the-nine-aadepts)
 
 * [Tickets](/tickets)
 

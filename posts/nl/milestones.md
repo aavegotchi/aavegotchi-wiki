@@ -295,7 +295,7 @@ contributors:
 <p></p>
 
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Fren, we got you covered!
+* Missed the 1st Community Call? Wij staan voor je klaar, Fren!
 * The Aavegotchi team expands!
 * More collaborations announced!
 * More discussions on AavegotchiDAO
@@ -373,7 +373,7 @@ contributors:
 <p></p>
 
 ## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. This is the current source of all DAO funds.
+* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. Dit is de huidige bron van alle DAO-fondsen.
 <p></p>
 
 ## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
