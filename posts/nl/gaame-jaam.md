@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Gaame Jaam</p>
 </div>
 
-The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
+De Aavegotchi Gaame Jaam/Hackathon werd gehouden van 1 tot 5 september 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
 
 <div class="contentsBox">
 
