@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+title: 'Aavegotchi Wiki Folder'
+description: 'Aavegotchi Wiki Folder'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Here is the list of pages in the Aavegotchi Wiki:
+Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
-* [Aarchitect](/aarchitect)
+* [Aarchitecten](/aarchitect)
 
-* [Aartist](/aartist)
+* [Aartiesten](/aartist)
 
-* [Aauction](/aauction)
+* [Veiling](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+* [Aavegotchi Verbetervoorstellen](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+* [Aavegotchi Profielpagina](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [Aging Mechanisme](/aging-mechanic)
 
-* [Baadge](/baadge)
+* [Baadges](/baadge)
 
 * [Baard](/baard)
 
