@@ -2,7 +2,7 @@
 author: letsgobankless
 date: '2020-11-28T07:00:00.000Z'
 title: 'GHST Token'
-description: 'The eco-governance token of Aavegotchi'
+description: 'De eco-governance-token van Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
@@ -14,66 +14,66 @@ contributors:
 <p class="headerImageText">GHST Token</p>
 </div>
 
-Price action and trading is cool, but what else can you do with Aavegotchi’s native token, GHST?
+Prijsactie en handel is cool, maar wat kunt u doen met Aavegotch’s native token, GHST?
 
-The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Aavegotchi assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, GHST also has several other functions, such as staking and enabling players to vote in the DAO.
+De token is bedoeld om te worden gebruikt als basis ecosysteem valuta voor de aankoop van verschillende on-chain Aavegotchi activa. Het gaat onder andere om Portalen, wearables, verbruiksgoederen en verzamel items. Daarnaast heeft GHST nog een aantal andere functies, zoals staking en de mogelijkheid voor spelers om in de DAO te stemmen.
 
-Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
+Laad je tassen op, fren, – in dit deel van onze Wiki kijken we nog eens goed naar deze glanzend ronde paarse jongens.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#why-ghst>Why GHST?</a></li>
-<li><a href=#using-ghst>Using GHST</a></li>
-<li><a href=#buying-ghst>Buying GHST</a></li>
-<li><a href=#earning-ghst>Earning GHST</a></li>
+<li><a href=#why-ghst>Waarom GHST?</a></li>
+<li><a href=#using-ghst>GHST Gebruiken</a></li>
+<li><a href=#buying-ghst>GHST Kopen</a></li>
+<li><a href=#earning-ghst>GHST Verdienen</a></li>
 </ol>
 
 </div>
 
-## Why GHST
-User incentives play a huge part in any project. In this case, GHST provides the economic incentives to encourage greater participation in the Aavegotchi ecosystem. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
+## Waarom GHST
+Gebruikersbeloningen spelen een grote rol in elk project. In dit geval biedt GHST economische stimulansen om een grotere deelname aan het ecosysteem van Aavegotchi te stimuleren. De token helpt in het bijzonder om de doelen van de AavegotchiDAO, GHST houders en Aavegotchi houders op één lijn te brengen.
 
-Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+Spelers moeten GHST kopen en het uitgeven bij het oproepen en opleiden van Aavegotchis. Een deel hiervan wordt rechtstreeks terugverwezen naar de DAO om de ontwikkeling van het ecosysteem te blijven financieren. Tegelijkertijd wordt een deel van de waarde ook verdeeld als beloning voor wijze governance in de DAO, en als beloning voor het deelnemen aan het kweken van zeldzaamheid.
 
-For more information, make sure to check out the [Tokenomics page](/tokenomics).
+Kijk voor meer informatie op de [Tokenomics pagina](/tokenomics).
 
-## Using GHST
-What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
+## GHST Gebruiken
+Wat kun je doen met GHST, anders dan het kopen en verwonderen? Als je eenmaal kennis hebt genomen van de verschillende manieren om GHST te gebruiken, dan denken wij dat je de verkoop van je GHST zou kunnen heroverwegen.
 
-These include:
+Het gaat daarbij om:
 
-* Buying [portals](/portals) to summon Aavegotchis
-* Buying [wearables](/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](/metaverse) (more information TBC)
-* [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
+* Kopen van [portalen](/portals) om Aavegotchis op te roepen
+* Het kopen van [wearables](/wearables) om uw Aavegotchis mee uit te rusten
+* [REALM parcelen](/metaverse) kopen (meer informatie TBC)
+* [Stake GHST](/staking), krijg FRENS, koop tickets en win lotterij prijzen
 
-## Buying GHST
-Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
+## GHST Kopen
+Maak uw portemonnees (bij voorkeur Metamask) klaar - er zijn een aantal manieren om GHST tokens te kopen:
 
-* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
-* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
-* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
-* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+* Om het rechtstreeks te kopen van de [curve](/curve) op Ethereum Mainnet (dit vereist echter KYC, wat burgers van de Verenigde Staten en China helaas uitsluit)
+* Koop het van Decentralized Exchanges on Ethereum Mainnet zoals [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) en [Matcha](https://matcha.xyz/markets/GHST)
+* Koop het van Decentralized Exchanges op Polygon zoals [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Koop het van Centralized Exchanges zoals [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) en [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
-Make sure you get the correct token address as well.
+Zorg ervoor dat je ook het juiste token adres hebt.
 
-On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+Op Ethereum Mainnet: [0x3F382Db960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 
-On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+Op Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
 
-**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
+**Controleer deze links met andere officieel gepubliceerde Aavegotchi bronnen - het doet nooit pijn om extra voorzichtig te zijn.**
 
-## Earning GHST
-Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+## GHST Verdienen
+Niet iedereen is een whale en dat is prima - er is veel in de DeFi zee om rond te gaan.
 
-There are several ways to grind it out and earn GHST. These include:
+Er zijn verschillende manieren om hard te werken en GHST te verdienen. Het gaat daarbij om:
 
-* Engaging in [rarity farming](/rarity-farming)
-* Participate and vote in [AavegotchiDAO](/dao)
-* Playing and winning in [mini-games](/minigames) (more information TBC)
+* Deelnemen in [rariteits landbouw](/rarity-farming)
+* Neem deel en stem in [AavegotchiDAO](/dao)
+* Speel en win in [min-games](/minigames) (meer informatie TBC)
 
 
 
