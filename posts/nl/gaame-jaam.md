@@ -69,38 +69,38 @@ Kies drie Gotchis om een team te vormen. De eerste taak is om @coderdannn te vin
 
 ### PORTAL DEFENDERS door @oh_no_bruno
 
-This multi-player game involves exactly what the title implies, defending portals from the Lickquidators! PORTAL DEFENDERS placed third in the general competition and second in the Moralis competition!
+Dit multiplayerspel gaat precies over wat de titel inhoudt, het verdedigen van portalen tegen de Lickquidators! PORTAL DEFENDERS plaatste de derde in de algemene competitie en de tweede in de Moralis competitie!
 
 [Github link](https://github.com/bmateus/PortalDefenders)
 
-### SOUTH BEACH ROFL BALL by @adamn_eth
+### SOUTH BEACH ROFL BALL door @adamn_eth
 
-Keep your Gotchi & Rofl Ball away from crabs! The closer they get, the more irritated your Gotchi becomes.
+Houd je Gotchi & Rofl Bal weg van de krabben! Hoe dichter ze komen, hoe meer ergernissen uw Gotchi heeft.
 
-[Link to Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Link naar Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
-### 1 ARM BAANDIT by @mdurkin92
+### 1 ARM BAANDIT door @mdurkin92
 
-This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Dit episch slot machine spel (aangedreven door #Chainlink VRF!) bevat verschillende Aavegotchi Wearables die je moet matchen tussen lijnen om uitbetalingen te ontvangen. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEGOTCHI DUNGEON by scranley#3257
+### AAVEGOTCHI DUNGEON van scranley#3257
 
-The player’s task for this game is to destroy towers and collect treasure! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+De taak van de speler voor dit spel is om torens te vernietigen en schatten te verzamelen! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEZON by @space_asylum
+### AAVEZON door @space_asylum
 
-A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
+Een Gotchified twist aan het werken bij Amazon! Het doel van dit spel is dat je Gotchi het vereiste aantal dozen naar een portaal duwt voordat de tijd op is.
 
-AAVEZON placed third Third place medal in the Moralis competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON plaatste derde plaats in de Moralis wedstrijd! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SAMUGOTCHI SHOWDOWN by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### SAMUGOTCHI SHOWN van Rainbow Hallow (@GrizzyJones, @vrycmfy, en @lahcen_kha)
 
-The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Het spel plaatst uw Gotchi tegen de gevreesde Lickquidator. Je Gotchi gebruikt Verdedig, Gooi en Slash om aan te vallen. Zorg ervoor dat je timing juist is! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SUSHIBAGOTCHI by @sushibatoken
+### SUSHIBAGOTCHI van @sushibatoken
 
-An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Een episch spel waar Aavegotchis, @MoralisWeb3, en Sushiba de enige drie entiteiten ter wereld zijn. Het doel is om uw Gotchis te verenigen met Moralis en Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### CONGOTCHI by SlickBB#5737
+### CONGTCHI van SlickBB#5737
 
-Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi verwacht van de speler met het vinden van verloren Gotchis en om deze terug te sturen naar de comforten van de Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
