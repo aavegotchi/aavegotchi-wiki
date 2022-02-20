@@ -12,27 +12,27 @@ contributors:
 <p class="headerImageText">Gotchus Alchemica Exchange</p>
 </div>
 
-De jonge Gotchi is opgeklommen tot de ingang van de verboden toren. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+De jonge Gotchi is opgeklommen tot de ingang van de verboden toren. Voor hem een grote houten deur, vol oude karavaten en sinistere symbolen.
 
-The door creaked open, inviting him in.
+De deur werd geopend en nodigde hem uit.
 
-What he saw spooked him.
+Wat hij zag schrok hem.
 
-Vials. Test Tubes. Flasks.
+Vialen. Reageerbuisjes. Heupflessen.
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+Elk van hen koken, histen en barsten, en gloeien vol van onaardse machten.
 
-Inside, Gotchis were busy haggling with one another.
+Binnen werd er door Gotchis over elkaar gekibbeld.
 
-"How much for a unit of KEK?"
+"Hoeveel voor een eenheid van KEK?"
 
-"WTT FOMO for ALPHA"
+"WTT FOMO voor ALPHA"
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+Dit, vrienden, is de Gotchus Alchema Exchange (GAX).
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
@@ -42,12 +42,12 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 ## Gotchus Alchemica Exchange
 
-The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
+De Gotchus Alchema Exchange (GAX) is de oorspronkelijke Decentralized Exchange (DEX) voor Aavegotchi. Het is bedoeld om de handel in [Gotchus Alchema](/gotchiverse#gotchus-alchemica) tussen marktdeelnemers te vergemakkelijken. GAX ondersteunt in eerste instantie de handel in alle GHST-Alchemica paren.
 
-<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
+<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Paren" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR stands for Gotchi Liquidity Mining Rewards. The team has yet to decide whether the GLMR supply should be capped or not.
+Om de liquiditeit op GAX te stimuleren, wordt een ERC-20 token genaamd GLMR verdeeld onder LPs. GLMR staat voor Gotchi Liquidity Mining Rewards. Het team moet nog beslissen of het GLMR-aanbod moet worden gemaximaliseerd of niet.
 
-GLMR can be spent to reduce the crafting/upgrading time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+GLMR kan gebruikt worden om de vervaardiging/upgrade tijd van [installaties](/gotchiverse#building-on-realm-parcels) in de Gotchivers te verminderen. Er zullen meer details volgen zodra ze beschikbaar zijn.
 
-GAX may support non GHST-Alchemica pairs in the future.
+GAX kan in de toekomst niet-GHST-Alchemica paren ondersteunen.
