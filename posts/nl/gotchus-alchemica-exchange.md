@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Gotchus Alchemica Exchange</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+De jonge Gotchi is opgeklommen tot de ingang van de verboden toren. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
 
 The door creaked open, inviting him in.
 
