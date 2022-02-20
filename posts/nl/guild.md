@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+REALM gameplay komt er binnenkort aan! Er zullen tal van activiteiten in de Gotchiverse zijn — van socialiseren tot communal channeling op een Gotchi Lodge. Leer hier meer frens kennen enom deel te nemen aan Guild-only activiteiten!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#guilds>Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#guild-map>Guild Kaart</a></li>
 </ol>
 
 </div>
 
 ## Guilds
 
-table_guild
+tabel_guild
 
-## Guild Map
+## Guild Kaart
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+Gilden organiseren zichzelf in districten. De volgende guild kaart is gecompileerd door MonsterRNG#3333 van Avid Aavegotchis
 
-<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Kaart" />
