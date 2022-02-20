@@ -9,7 +9,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
+<img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi Realm">
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
@@ -97,7 +97,7 @@ Sommige parcelen zullen naast Alchemica voorraden liggen. Deze parcelen zullen b
 
 Om het menselijker te maken, wordt elk pakketje toegewezen met een unieke combinatie van drie woorden. Dit is een aanvulling op het TokenID. Gebruikers kunnen het zoekvak op de Gotchiverse gebruiken om specifiek te filteren op pakketten met het woord of de woorden die ze zoeken.
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="REALM Parceelgrootte" />
 
 ## REALM Gameplay
 
@@ -155,7 +155,7 @@ Handel in Gotchus Alchema vindt plaats op de [Gotchus Alchemica Exchange (GAX)](
 
 De volgende tabel toont de schatting voor Alchemie concentratie per REALM pakket.
 
-<img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
+<img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Gemiddeld Basis Alchemica per Parceel" />
 
 25 procent van het totale aanbod aan Alchemicaliën zal worden verspreid tijdens Act I (Citaadel en Grid) via REALM parceel harvesting.
 
@@ -169,7 +169,7 @@ Tijdens het fabricageproces wordt een klein deel van de Alchemie (5 procent) voo
 
 * 15 procent van de AavegotchiDAO, de stewards en verzorgers van de Gotchiverse. Ze maken van de Gotchiverse een plek om te leven!
 
-<img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
+<img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Verbruikte Gotchus Alchemica en waar ze naar toe gaan" />
 
 ## Bouwen op REALM Parcelen
 
@@ -201,20 +201,20 @@ Bekijk onze [Aauction page](/aauction) voor meer informatie.
 
 Dit revolutionaire veilingsmodel lost veel problemen op die inherent zijn aan de populaire eerste First Come First Serve (FCFS) model, maar natuurlijk nog met een voorkeur op voor frens met het meeste kapitaal om te investeren.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Om dit in evenwicht te brengen, heeft het team besloten om de resterende 20% van de resterende REALM parcelen met behulp van Chainlink VRF-aangedreven Lotterijen te verdelen.
 
-Method 2: Raffle (20%)
+Methode 2: Lotterij (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+De secundaire distributiemethode voor REALM Parcels is de Chainlink VRF-aangedreven Lotterij. Deelnemers zullen deelnemen via Drop Tickets die worden gebruikt voor de Portaal en REALM Lotterijen. Je kan Drop Tickets verdienen door een Aavegotchi te bezitten, deel te nemen aan missies of door FRENS om te ruilen voor Drop tickets of andere [Lotterij tickets](/staking#purchasing-raffle-tickets) tegen 10,000 FRENS points per Drop Ticket. Begin nu met het genereren van FRENS punten door het [staken van GHST](/staking).
 
 ### Drop Tickets
 
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert **één** kans in de NFT Lotterij, waar u Aavegotchi portalen en REALM Parcelen kunt winnen.
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets en REALM Parcelen" />
 
-There are three ways to get Drop Tickets:
+Er zijn drie manieren om tickets te verkrijgen:
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* Ruil 10.000 FRENS om voor één Drop Ticket
+* Ruil andere Lotterij Tickets om voor een Drop Ticket
+* Refereer je vrienden om drop-Tickets te verdienen 🔥
