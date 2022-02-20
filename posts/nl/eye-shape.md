@@ -1,41 +1,41 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Eye Shape'
-description: 'Aavegotchi Eye Shape'
+title: 'Aavegotchi Oog Vorm'
+description: 'Aavegotchi Oog Vorm'
 contributors:
   - "unintelligent-nerd"
 ---
 
-"Eyeing some eyes?"
+"Zie je wat ogen?"
 
 "Aye!"
 
-Check out the full list of Aavegotchi Eye Shapes (EYS) here!
+Bekijk hier de volledige lijst van Aavegotchi Oog Vormen (EYS)!
 
-*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
+*Opmerking: de Oog Vormen bevatten geen kleuren omdat Oog Kleur afhankelijk is van Rarity /Collateral type.*
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
-<li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specific Eye Shapes</a></li>
-<li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specific Eye Shapes</a></li>
+<li><a href=#non-haunt-specific-eye-shapes>Niet-Haunt-specifieke Oog Vormen</a></li>
+<li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specifieke Oog Vormen</a></li>
+<li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specifieke Oog Vormen</a></li>
 </ol>
 
 </div>
 
-## Non-Haunt-specific Eye Shapes
+## Niet-Haunt-specifieke Oog Vormen
 
-table_eyeShape
+tabel_oogVorm
 
-## Haunt 1-specific Eye Shapes
+## Haunt 1-specifieke Oog Vormen
 
-table_haunt1EyeShape
+tabel_haunt1OogVorm
 
 
-## Haunt 2-specific Eye Shapes
+## Haunt 2-specifieke Oog Vormen
 
-table_haunt2EyeShape
+tabel_haunt2OogVorm

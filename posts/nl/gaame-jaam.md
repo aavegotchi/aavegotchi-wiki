@@ -12,95 +12,95 @@ contributors:
 <p class="headerImageText">Gaame Jaam</p>
 </div>
 
-The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
+De Aavegotchi Gaame Jaam/Hackathon werd gehouden van 1 tot 5 september 2021. Aspirerende spelontwikkelaars namen deel aan de hackathon om hun eigen [mini-game](/minigames) te maken. Krijg een overzicht van de Gaame Jaam hier!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#rules>Rules</a></li>
+<li><a href=#rules>Regels</a></li>
 <li><a href=#sponsors>Sponsors</a></li>
-<li><a href=#prizes>Prizes</a></li>
-<li><a href=#judges>Judges</a></li>
-<li><a href=#participants>Participants</a></li>
+<li><a href=#prizes>Prijzen</a></li>
+<li><a href=#judges>Jury</a></li>
+<li><a href=#participants>Deelnemers</a></li>
 </ol>
 
 </div>
 
-## Rules
+## Regels
 
-* Game must use Web3 to be able to fetch and play as their Aavegotchis.
-* Be built in a web based framework (like Phaser) to allow for seamless Metamask integration
-* Max team size of 4
-* Owning an Aavegotchi isn’t necessary for building the games
-* Moralis prize pool requires the use of a Moralis tool
+* Spel moet Web3 gebruiken om hun Aavegotchis te kunnen ophalen en spelen.
+* Moet gebouwd zijn in een web gebaseerd framework (zoals Phaser) om naadloze Metamask integratie mogelijk te maken
+* Maximale teamgrootte van 4
+* Het bezit van een Aavegotchi is niet nodig voor het bouwen van de spellen
+* Moralis prijs pool vereist het gebruik van een Moralis tool
 
 ## Sponsors
 
 * [Moralis](https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
-## Prizes
+## Prijzen
 
-* 10k USD worth of prizes, all paid in [GHST](/ghst)
-* $5000 is set aside for the top three general winners and $5000 more rewards are allocated to builders who build making use of Moralis tools
-* Any participant who owns any Aavegotchi will also see 25 XP rewarded
+* 10k USD waard in prijzen, allemaal betaald in [GHST](/ghst)
+* $5000 is gereserveerd voor de top drie algemene winnaars en $5000 meer beloningen zijn toegewezen aan bouwers die gebruik maken van Moralis tools
+* Elke deelnemer die eigenaar is van Aavegotchi zal ook 25 XP beloond zien
 
-<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Rewards" />
+<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Beloningen" />
 
-## Judges
+## Jury
 
-* The one and only Ivan on Tech
-* The “No NFT, no play” gaming revolutionary Cagyjan
-* Polygon Network’s head of NFTs and Gaming Shreyansh Singh
-* Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
-* Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
+* De enige en echte Ivan on Tech
+* De "Geen NFT, geen spel" revolutionaire Cagyjan
+* Polygon Network's NFT en Gaming hoofd, Shreyansh Singh
+* Aavegotchi's lead summoner [Coder Dan](/team#coder-dan)
+* Pixelcraf Studios Dev Evangelist, [Coyote](/team#coyote)
 
-## Participants
+## Deelnemers
 
-### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GOTCHIMINER door @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, en @gotchinomics
 
-The goal of this game is to dig underground for Crypto Crystals. GOTCHIMINER placed first in both the General and Moralis competitions! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Het doel van dit spel is om ondergronds te graven voor Crypto Crystals. GOTCHIMINER plaatste eerst in zowel de Algemene als de Moralis-wedstrijden! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AADVENTURE by MetaGuild @metaguildcom & @HotspurSC2
+### AADVENTURE van MetaGuild @metaguildcom & @HotspurSC2
 
-Choose three Gotchis to form a team. The first task is to find @coderdannn who hasn’t been seen in two days! Flushed face AADVENTURE placed second in the general competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Kies drie Gotchis om een team te vormen. De eerste taak is om @coderdannn te vinden die al twee dagen niet meer te zien was! AADVENTURE plaatste op de tweede plaats in de algemene competitie! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### PORTAL DEFENDERS by @oh_no_bruno
+### PORTAL DEFENDERS door @oh_no_bruno
 
-This multi-player game involves exactly what the title implies, defending portals from the Lickquidators! PORTAL DEFENDERS placed third in the general competition and second in the Moralis competition!
+Dit multiplayerspel gaat precies over wat de titel inhoudt, het verdedigen van portalen tegen de Lickquidators! PORTAL DEFENDERS plaatste de derde in de algemene competitie en de tweede in de Moralis competitie!
 
 [Github link](https://github.com/bmateus/PortalDefenders)
 
-### SOUTH BEACH ROFL BALL by @adamn_eth
+### SOUTH BEACH ROFL BALL door @adamn_eth
 
-Keep your Gotchi & Rofl Ball away from crabs! The closer they get, the more irritated your Gotchi becomes.
+Houd je Gotchi & Rofl Bal weg van de krabben! Hoe dichter ze komen, hoe meer ergernissen uw Gotchi heeft.
 
-[Link to Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Link naar Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
-### 1 ARM BAANDIT by @mdurkin92
+### 1 ARM BAANDIT door @mdurkin92
 
-This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Dit episch slot machine spel (aangedreven door #Chainlink VRF!) bevat verschillende Aavegotchi Wearables die je moet matchen tussen lijnen om uitbetalingen te ontvangen. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEGOTCHI DUNGEON by scranley#3257
+### AAVEGOTCHI DUNGEON van scranley#3257
 
-The player’s task for this game is to destroy towers and collect treasure! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+De taak van de speler voor dit spel is om torens te vernietigen en schatten te verzamelen! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### AAVEZON by @space_asylum
+### AAVEZON door @space_asylum
 
-A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
+Een Gotchified twist aan het werken bij Amazon! Het doel van dit spel is dat je Gotchi het vereiste aantal dozen naar een portaal duwt voordat de tijd op is.
 
-AAVEZON placed third Third place medal in the Moralis competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON plaatste derde plaats in de Moralis wedstrijd! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SAMUGOTCHI SHOWDOWN by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### SAMUGOTCHI SHOWN van Rainbow Hallow (@GrizzyJones, @vrycmfy, en @lahcen_kha)
 
-The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Het spel plaatst uw Gotchi tegen de gevreesde Lickquidator. Je Gotchi gebruikt Verdedig, Gooi en Slash om aan te vallen. Zorg ervoor dat je timing juist is! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### SUSHIBAGOTCHI by @sushibatoken
+### SUSHIBAGOTCHI van @sushibatoken
 
-An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Een episch spel waar Aavegotchis, @MoralisWeb3, en Sushiba de enige drie entiteiten ter wereld zijn. Het doel is om uw Gotchis te verenigen met Moralis en Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### CONGOTCHI by SlickBB#5737
+### CONGTCHI van SlickBB#5737
 
-Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi verwacht van de speler met het vinden van verloren Gotchis en om deze terug te sturen naar de comforten van de Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
