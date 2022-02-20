@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchiverse'
-description: 'All about the Gotchiverse'
+description: 'Alles over de Gotchiverse'
 contributors:
   - "eris771"
   - "unintelligent-nerd"
@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
-Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
+Naast het Human Realm is er het Ether Realm, waar smart contracts schitteren en donkere bossen zich verschuilen. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
 
 The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
 
