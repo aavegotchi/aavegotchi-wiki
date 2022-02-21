@@ -84,7 +84,7 @@ Dit is mogelijk door de `updateFees` functie aan onze bindingcurve aan te roepen
 
 Alle kosten die worden verdiend worden automatisch overgebracht naar het Schatkist adres van de DAO op 0xffe6280ae4e864d9af836b562359fd828ece8020 en wordt beschouwd als activa van AavegotchiDAO.
 
-**Stemperiode:** van 18 tot 21 oktober 2021
+**Stemperiode:** van 18 tot 21 januari 2021
 
 **Resultaten:**
 
@@ -105,7 +105,7 @@ Wat verbranden doet is DAI binnen de band vallen, door de reserveratio na verloo
 
 Om de verbranding te compenseren (die GHST uiteindelijk in een stabiele munt kan veranderen), raden we de gemeenschap aan de kraan te verhogen tot 150.000 DAI per maand. Dit zal helpen om de reserve van de bondingscurve in evenwicht te brengen, terwijl het ook 50K DAI extra oplevert per maand die aan spelers beloningen en liquiditeit stimulansen worden gegeven.
 
-**Stemperiode:** van 18 tot 21 oktober 2021
+**Stemperiode:** van 18 tot 21 januari 2021
 
 **Resultaten:**
 
@@ -130,7 +130,7 @@ Optie 3: 25K portalen, 100 GHST elk, 5 per txn (w/stricter ape belasting)
 
 Optie 4: Voorverkoop, waarin elke portemonnee kan abonneren voor 1 Portaal in ruil voor 100 GHST. Wanneer de periode voorafgaand aan de verkoop afloopt, worden alle portalen gemint en overgedragen aan hun eigenaars.
 
-**Stemperiode:** van 17 tot 24 oktober 2021
+**Stemperiode:** van 17 tot 24 maart 2021
 
 **Resultaten:**
 
@@ -155,7 +155,7 @@ Optie 2: Elke Haunt moet zijn eigen unieke achtergrond hebben
 
 Optie 3: Nee, laat het zoals het is
 
-**Stemperiode:** van 17 tot 24 oktober 2021
+**Stemperiode:** van 17 tot 24 maart 2021
 
 **Resultaten:**
 
@@ -412,7 +412,7 @@ Optie 1: Ja, geef GRATIS aan GHHST-MATIC
 
 Optie 2: Nee, geef geen GRATIS niet
 
-**Stemperiode:** van 12 tot 19 oktober 2021
+**Stemperiode:** van 12 tot 19 november 2021
 
 **Resultaten:**
 
@@ -447,7 +447,7 @@ Optie 1: Ja, creëer de WTF
 
 Optie 2: Nee, de WTF niet opzetten
 
-**Stemperiode:** van 12 tot 19 oktober 2021
+**Stemperiode:** van 12 tot 19 november 2021
 
 **Resultaten:**
 
@@ -657,11 +657,11 @@ Optie 1: Ja, stake 100k GHST
 
 Optie 2: Nee, voeg geen $200k aan GHST toe
 
-**Stemperiode:** van 2 - 9 February 2022
+**Stemperiode:** van 2 - 9 februari 2022
 
 **Resultaten:**
 
-table_agip19
+tabel_agip19
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
 
@@ -714,7 +714,7 @@ Optie 2: Ja, zonder 50k GHST budget
 
 Optie 3: Nee, maak geen DTF aan
 
-**Stemperiode:** van 2 - 9 February 2022
+**Stemperiode:** van 2 - 9 februari 2022
 
 **Resultaten:**
 
@@ -747,7 +747,7 @@ Optie 1: Ja, voeg $200k GHST toe
 
 Optie 2: Nee, voeg geen GHST toe
 
-**Stemperiode:** van 8 - 15 February 2022
+**Stemperiode:** van 8 - 15 februari 2022
 
 **Resultaten:**
 
@@ -797,7 +797,7 @@ Optie 2: Ja, maar andere parameters
 
 Optie 3: Nee, start geen RF SZN 3
 
-**Stemperiode:** van 8 - 15 February 2022
+**Stemperiode:** van 8 - 15 februari 2022
 
 **Resultaten:**
 
@@ -890,23 +890,23 @@ tabel_marketplaceName
 
 **Snapshot Stemming**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Voorstel samenvatting:** Moet GHST-USDC LP token in aanmerking komen om FRENS te verdienen?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Ons liquiditeitsmigratieprogramma is een groot succes geweest, waarbij al meer dan 8 miljoen GHST naar Polygon is gemigreerd. Echter, zoals veel leden van de gemeenschap hebben opgemerkt, liquiditeit voor het GHST-USDC paar is nog steeds niet diep genoeg om het handelen van grote hoeveelheden USDC voor GHST op Quickswap te ondersteunen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Een manier om dit te verhelpen is door GHST-USDC toe te voegen als een paar en dat deze in aanmerking komen voor FRENS op [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Net zoals GHST-QUICK een ontvangst token stkGHST-QUICK heeft, kan GHST-USDC ook een stkGHST-USDC token hebben, die in aanmerking kan komen voor beloningen op Quickswap, als hun team dat nodig acht.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Aangezien dit besluit rechtstreeks van invloed is op gameplay, zijn wij van mening dat het een rijpe kandidaat is voor onze eerste Snapshot stemming op Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+We stellen een GHST quorum van 500.000 vast voor deze stemming.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
 
 **Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
-table_ghstUsdcLp
+tabel_ghstUsdcLp
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
@@ -916,32 +916,32 @@ table_ghstUsdcLp
 
 **Snapshot Stemming**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Voorstel Samenvatting:** Hoeveel portalen kunnen gekocht worden in één transactie?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+De discussieduur is afgelopen voor dit onderwerp en nu is het tijd om te stemmen! De meest populaire opties waren: 1, 5 en 10 Portalen per transactie.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: een "Ape Tax" waardoor meer portalen in één transactie konden worden gekocht, maar tegen een hogere prijs. De portalen zouden op deze manier gerankschikt worden:
 
-* 0-5: 100 GHST each
+* 0-5: 100 GHST elk
 
-* 6-15: 200 GHST each
+* 6-15: 200 GHST elk
 
-* 16-25: 300 GHST each
+* 16-25: 300 GHST elk
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Dit laat ons dus vier opties over: 1, 5, 10 en 25 (v/ape tax).
 
-Let your $GHST token speak for you, and vote!
+Laat je $GHST token voor je spreken en stem!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Stemperiode: 72 uur Minimum quorum: 10% van het GHST op Matic (~1,1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO discussieonderwerp 👇
 
-[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+[https://dao.aavegotchi.com/nl/how-many-portals-should-be-be--in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Stemperiode:** van 23 tot 26 februari 2021
 
 **Resultaten:**
 
-table_portalsPurchased
+tabel_portalen gekocht
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
