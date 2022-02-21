@@ -739,15 +739,15 @@ We stellen voor dat de Aavegotchi DAO $100.000 in GHST toevoegt aan elke bridge 
 
 De Aavegotchi DAO verdient een 0.2% bridging kosten wanneer iemand de bridge gebruikt om GHST tokens te migreren tussen Ethereum en <--> Polygon. De Aavegotchi DAO zal dus in de loop der tijd geld verdienen. Als de Narni-brug ooit een onnodige oplossing wordt, kan de Aavegotchi DAO gemakkelijk hun liquiditeit verwijderen en van hun winst genieten.
 
-Transactions up to approximately $21,000 of GHST will now be possible.
+Transacties tot ongeveer $21,000 in GHST zullen nu mogelijk zijn.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
 
-Option 1: Yes, add $200k GHST
+Optie 1: Ja, voeg $200k GHST toe
 
-Option 2: No, do not add any GHST
+Optie 2: Nee, voeg geen GHST toe
 
-**Voting Period:** 8 - 15 February 2022
+**Stemperiode:** van 8 - 15 February 2022
 
 **Resultaten:**
 
@@ -756,48 +756,48 @@ Option 2: No, do not add any GHST
 <hr />
 
 ### Lancering Rarity Farming SZN 3
-**Aavegotchi Improvement Proposal #22**
+**Aavegotchi Voorstel Verbetering #22**
 
 **Voorstel Samenvatting:**
 
 *Probleem*
 
-Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
+Op dit moment gebeurende Rarity Farming Seizoenen sporadisch en zijn ze moeilijk te verantwoorden in de cadentie van Aavegotchi releases. Beleggers moeten zich afvragen of ze aan hun Gotchis en Wearables moeten vasthouden of dat ze misschien een betere ROI kunnen vinden door ze te flippen voor de volgende rondes. Het zou wenselijk zijn om een beetje zekerheid / voorspelbaarheid te hebben voor zowel het investeringssentiment als voor planningsdoeleinden.
 
 *Oplossing*
 
-If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+Rarity Farming moet, indien mogelijk, drie keer per jaar plaatsvinden. Het zou passen bij het seizoensgebonden karakter dat we nu al volgen, dit zou mogelijk moeten zijn op basis van GBM Sales in de tussenseizoenen. De schatkist komt door middel van staking en partnerschappen (zoals het voorstel voor Umbra Bridge), en andere geldstromen zoals DAO Garanten. De auteur van dit voorstel is van mening dat Rarity Farming een essentieel onderdeel is van het Gotchiverse ecosysteem. en iets om op te bouwen en te verbeteren in plaats van te schrappen.
 
 *Distributie*
 
-For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
+Voor Seizoen 3 stel ik voor dat we teruggaan naar de standaard beloningsverhouding, zoals geprobeerd en getest werd in Rarity Farming Seizoen 1. De nieuwelingen van de gelijknamige rankschikking zijn nu allemaal opgegroeid en klaar om te concurreren met de grote jongens. Dit zou betekenen dat 70 procent van de uitbetalingen naar het BRS-klassement gaat, 20% naar het Kinship klassement en 10% naar het XP Klassement.
 
-Based on Forum discussions this would be the final model for SZN3:
+Op basis van de forumdiscussies zou dit het uiteindelijke model voor SZN3 zijn:
 
-* 4 Rounds (2 weeks each)
-* 1.5 Million GHST Rewards Pool (1.4m GHST funded already)
+* 4 ronden (2 weken per stuk)
+* 1.5 Miljoen GHST Beloningen Pool (1.4m GHSTis reeds klaar)
 * 70% BRS
 * 20% Kinship
 * 10% XP
-* Top 5k Gotchis (20%) → Top 7.5k Gotchis (30%)
-* 3 Seasons per Year (approx. schedule below)
-* SZN 3: February - March
-* SZN 4: June - July
-* SZN 5: October - November
+* Top 5k Gotchis (20%) → Top 7,5k Gotchis (30%)
+* 3 seizoenen per jaar (voorlopige schema hieronder)
+* SZN 3: februari - maart
+* SZN 4: juni - juli
+* SZN 5: oktober - november
 
-Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+Bijgewerkte Beloningsblad: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
+Aangezien er een ~100k GHST verschil is tussen het voorgestelde bedrag dat zal worden verdeeld en GHST momenteel in de beloningen pool, bevat dit voorstel een financieringsverzoek om het resterende bedrag uit de schatkist van de AavegotchiDAO te halen.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
 
-Option 1: Yes, launch RF SZN 3
+Optie 1: Ja, start RF SZN 3
 
-Option 2: Yes, but different params
+Optie 2: Ja, maar andere parameters
 
-Option 3: No, don't launch RF SZN 3
+Optie 3: Nee, start geen RF SZN 3
 
-**Voting Period:** 8 - 15 February 2022
+**Stemperiode:** van 8 - 15 February 2022
 
 **Resultaten:**
 
@@ -806,21 +806,21 @@ Option 3: No, don't launch RF SZN 3
 <hr />
 
 ### Co-Sponsoring van de GoodGhosting Pool
-**Aavegotchi Improvement Proposal #23**
+**Aavegotchi Verbetering Voorstel #23**
 
 **Voorstel Samenvatting:**
 
-*What is GoodGhosting?*
+*Wat is GoodGhosting?*
 
-GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
+GoodGhosting is een spaarspel zonder verlies, gebouwd bovenop Aave. In de zomer van 2021 lanceerden we onze allereerste spaarpotjes op Polygon. Tot nu toe hebben we meer dan 7000 gebruikers geholpen om meer dan $600 k aan activa te besparen op Polygon. Alles terwijl je leuke NFT's verzamelt en ons leiderbord beklimt.
 
-The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
+Het GoodGhosting team gelooft in een wereld waar het sparen lonend is, gemakkelijk en plezierig. Bij traditioneel sparen is dat echter niet het geval. We bouwen gedecentraliseerde sociale save applicaties die speldesign elementen combineren met doelgerichte besparing. We willen onze gemeenschap helpen betere financiële gewoonten te ontwikkelen en tegelijkertijd plezier hebben.
 
-*Potential collaboration*
+*Potentiële samenwerking*
 
-We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
+We willen de GoodGhosting gemeenschap blootstellen aan Aavegotchi, door een Aavegotchi-gethematiseerde spaar pool te introduceren. Deze pool vereist spelers om te sparen in GHST tokens, en ze verdienen er meer GHST bovenop. We zien het als een leuke gelegenheid om de GoodGhosting en Aavegotchi gemeenschappen te kruisen.
 
-Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+Aavegotchi is een uniek project dat we vanaf het begin nauwlettend in de gaten hebben gehouden. Zowel als spelers als bewoners van ecosystemen. In our opinion, it envisions everything that DeFi and Web3 is about 👻
 
 Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
 
