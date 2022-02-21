@@ -8,20 +8,20 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img src="/haunt/haunt-1-aavegotchi.png" class="headerImage" alt="Haunt 1 Aavegotchi with Background">
-<p class="headerImageText">Haunt 1 Aavegotchi with Background</p>
+<img src="/haunt/haunt-1-aavegotchi.png" class="headerImage" alt="Haunt 1 Aavegotchi met Achtergrond">
+<p class="headerImageText">Haunt 1 Aavegotchi met Achtergrond</p>
 </div>
 
-Haunts are the different editions of Aavegotchis. Learn more about the different haunts here!
+Haunts zijn de verschillende edities van Aavegotchis. Leer meer over de verschillende haunts hier!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#haunt-1>Haunt 1</a></li>
 <li><a href=#haunt-2>Haunt 2</a></li>
-<li><a href=#exclusive-spirit-forces>Exclusive Spirit Forces</a></li>
+<li><a href=#exclusive-spirit-forces>Exclusieve Spirit Forces</a></li>
 </ol>
 
 </div>
@@ -30,25 +30,25 @@ Haunts are the different editions of Aavegotchis. Learn more about the different
 
 
 
-Haunt 1 was launched on 2 March 2021. 10,000 Aavegotchi [Portals](/portals) were released to the public on a first-come, first-serve basis.
+Hunt 1 werd gelanceerd op 2 maart 2021. 10.000 Aavegotchi [Portalen](/portals) werden op basis van het eerste komt eerste krijgt verdeeld.
 
-The first 10,000 portals were sold out in less than one minute. The launch was a huge success by all metrics except the fact that not everyone could have a Portal.
+De eerste 10.000 portalen werden in minder dan één minuut uitverkocht. De lancering was een enorm succes voor alle metrieken behalve het feit dat niet iedereen een Portaal kon hebben.
 
-Haunt 1 Aavegotchis also come with an exclusive Haunt 1 Background. Check out this [medium post](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) on how to claim it if you have a Haunt 1 Gotchi. The background is programmed to be non-transferable. This means from now till forever, only Haunt 1 Aavegotchis can equip this beautiful portal-themed background!
+Hunt 1 Aavegotchis komen ook met een exclusieve Haunt 1-Achtergrond. Bekijk dit [medium bericht](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) over hoe je het kan claimen als je een Haunt 1 Gotchi hebt. De achtergrond is geprogrammeerd om niet overdraagbaar te zijn. Dit betekent dat vanaf nu tot voor altijd alleen Haunt 1 Aavegotchis deze prachtige portal-thema achtergrond kunnen uitrusten!
 
-This exclusive background was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
+Deze exclusieve achtergrond werd gestemd op [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
 
 ## Haunt 2
 
-Haunt 2 consists of 15,000 Portals, with 12,000 (80%) being [auctioned off](/aauction) and the remaining 3,000 (20%) being [raffled off](/tickets) using Drop Tickets.
+Haunt 2 bevatte 15,000 Portalen, met 12,000 (80%) van de portalen [geveild](/aauction) en de overige 3,000 (20%) verdeeld in de [Lotterij](/tickets) met Drop Tickets.
 
-Unlike Haunt 1 which featured a “blinkandyoumissit” first-come, first serve drop, Haunt 2 promises much more sustained excitement, with a three-day #BidToEarn auction, followed by a Raffle for our loyal GHST stakers.
+In tegenstelling tot Haunt 1 die een ‘blinkandyoumissit’ eerste in eerste krijgt drop, belooft Haunt 2 veel duurzamere opwinding, met een drie-daagse #BidToEarn veiling, gevolgd door een Lotterij voor onze trouwe GHST-stakers.
 
-The Haunt 2 Auction runs from 26 - 29 August 2021.
+De Haunt 2-veiling loopt van 26 tot 29 augustus 2021.
 
-The Haunt 2 Raffle will be held from 5 - 8 September 2021.
+De Haunt 2 Lotterij wordt gehouden van 5 tot 8 september 2021.
 
-## Exclusive Spirit Forces
-Each Haunt has some Spirit Forces that are exclusive to it:
+## Exclusieve Spirit Forces
+Elke Haunt heeft een aantal Spirit Forces die exclusief voor die specifieke Haunt zijn:
 
-<img class = "bodyImage" src = "/haunt/exclusive-spirit-forces.png" alt = "Aavegotchi Haunt Exclusive Spirit Forces" />
+<img class = "bodyImage" src = "/haunt/exclusive-spirit-forces.png" alt = "Aavegotchi Haunt Exclusieve Spirit Forces" />
