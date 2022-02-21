@@ -820,36 +820,36 @@ Het GoodGhosting team gelooft in een wereld waar het sparen lonend is, gemakkeli
 
 We willen de GoodGhosting gemeenschap blootstellen aan Aavegotchi, door een Aavegotchi-gethematiseerde spaar pool te introduceren. Deze pool vereist spelers om te sparen in GHST tokens, en ze verdienen er meer GHST bovenop. We zien het als een leuke gelegenheid om de GoodGhosting en Aavegotchi gemeenschappen te kruisen.
 
-Aavegotchi is een uniek project dat we vanaf het begin nauwlettend in de gaten hebben gehouden. Zowel als spelers als bewoners van ecosystemen. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+Aavegotchi is een uniek project dat we vanaf het begin nauwlettend in de gaten hebben gehouden. Zowel als spelers als bewoners van ecosystemen. Naar onze mening bevat het alles wat DeFi en Web3 voorstelt 👻
 
-Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
+Naast het uitnodigen van alle Aavegotchi gebruikers en de DAO zelf om deel te nemen aan de aankomende GHST spaar pool, wil GoodGhosting de AavegotchiDAO verzoeken om deze pool te sponsoren.
 
-*Our Request*
+*Ons verzoek*
 
-* A total of 7000 GHST in sponsorship for this savings pool. To be shared between all winning players.
-* The ability to reward successful savers with Gotchi XP, or alternatively FRENS. Considering GoodGhosting an extensive mini-game that encourages people to stack more GHST.
-* An allocation of Aavegotchi NFTs (worth up to 3000 GHST) to be raffled to random participants and/or to all winners. These could be Wearables, Gotchi’s, Raffle tickets or Realm parcels.
+* Een totaal van 7000 GHST in sponsoring voor deze spaar pool. Om te worden gedeeld tussen alle winnende spelers.
+* De mogelijkheid om succesvolle spaarders te belonen met Gotchi XP, of alternatief FRENS. Overweeg GoodGhosting als een uitgebreid minispel dat mensen aanmoedigt om meer GHST te sparen.
+* Een toewijzing van Aavegotchi NFT's (ter waarde van 3000 GHST) om te verloten aan willekeurige deelnemers en/of aan alle winnaars. Dit zouden Wearables, Gotchi's, Lotterij tickets of Realm-parcelen kunnen zijn.
 
-These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
+Deze kunnen worden geleverd door de AavegotchiDAO, of op alternatieve wijze worden gekocht door het GoodGhosting team op de Bazaar. Voor deze extra stimulansen hopen we voordelen te bieden aan een handjevol gelukswinnaars (via een lotterij systeem), en/of een kleinere beloning die haalbaar is om aan alle winnaars te worden gegeven.
 
-*What can GoodGhosting bring to the table?*
+*Wat kan GoodGhosting naar de tafel brengen?*
 
-* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). To be shared between all winning players.
-* An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
-* We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
-* We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
-* Some very special NFTs by our in-house artist Mali3D
-* An increased GG score for all successful savers
+* Tot 4000 WMATIC tokens in sponsoring (van onze DeFiForAll subsidies). Om te worden gedeeld tussen alle winnende spelers.
+* Een instroom van nieuwe gebruikers in het Aavegotchi ecosysteem. Tot nu toe hebben meer dan 20500 gebruikers zich aangesloten bij onze Celo en Polygon spaar pools. De meeste zijn nog niet aan Aavegotchi of GHST blootgesteld en velen zullen waarschijnlijk de Gotchigang betreden.
+* We maken een YouTube-video die Aavegotchi uitlegt en hoe we het GHST token op Polygon kunnen bemachtigen. Georiënteerd op onze gemeenschapsleden.
+* We zullen gebruikers toestaan GoodGhosting te spelen met hun Aavegotchis als avatar. Dit zal verschijnen in het gedeelde 'Spelers' tab, evenals in de individuele spelers profielen op Goodghosting.com
+* Enkele zeer speciale NFT's door onze in-house artiest Mali3D
+* Een verhoogde GG-score voor alle succesvolle spaarders
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
 
-Option 1: Yes, 10k GHST for rewards + XP
+Optie 1: Ja, 10k GHST voor beloningen + XP
 
-Option 2: Yes, but under different terms
+Optie 2: Ja, maar onder andere voorwaarden
 
-Option 3: No, do not support GG
+Optie 3: Nee, GG niet ondersteunen
 
-**Voting Period:** 9 - 15 February 2022
+**Stemperiode:** van 9 tot 15 februari 2022
 
 **Resultaten:**
 
@@ -857,30 +857,30 @@ Option 3: No, do not support GG
 
 <hr />
 
-### Naam van de Aavegotchi Marketplace
+### Naam van de Aavegotchi Marktplaats
 **Snapshot Stemming**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Voorstel samenvatting:** Hoe moet de Aavegotchi NFT Marktplaats worden genoemd?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanceert zijn eigen NFT-marktplaats op Polygon in combinatie met het spel!
 
-What should we call the official Aavegotchi Marketplace?
+Hoe moeten we de officiële Aavegotchi Marketplace noemen?
 
-Choice A: Aavegotchi Baazaar
+Keuze A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Keuze B: Aavegotchi Maarket
 
-Choice C: Neither
+Keuze C: Geen
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum niet is bereikt, kiest Pixelcraft een willekeurige winnaar.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
-table_marketplaceName
+tabel_marketplaceName
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
@@ -902,7 +902,7 @@ We are setting a 500,000 GHST quorum for this vote to be enacted.
 
 The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
