@@ -39,17 +39,17 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#providing-ghst-liquidity-on-synfutures>GST Liquidity aanbieden op SynFutures</a></li>
 <li><a href=#creating-the-dao-treasury-taask-force>Het creëren van de DAO schatkist Taask Force</a></li>
 <li><a href=#adding-ghst-to-the-umbria-narni-bridge>GHST toevoegen aan de Umbria Narni Bridge</a></li>
-<li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
-<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#launch-rarity-farming-szn-3>Lancering Rarity Farming SZN 3</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring van de GoodGhosting Pool</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Naam van de Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Mogelijkheid voor GHST-USDC LP tokens om FRENS te verdienen</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Aantal portalen gekocht in één transactie</a></li>
 </ol>
 
 </div>
 
 ### Kraan verhoging voor Scaling Sprint
-**Aavegotchi Voorstel Verbetering #1**
+**Aavegotchi Verbetering Voorstel #1**
 
 **Voorstel samenvatting:** De GHST Bonding Curve bestaat al bijna een maand en dat biedt de eerste gelegenheid voor GHST houders om het kraanmechanisme van DAICO aan te passen. AavegotchiDAO 1. is gebouwd op het Aragonplatform en functioneert als een eenvoudige DAICO waar GHST-houders één keer per maand kunnen stemmen om via de kraan de geldstroom naar het kernteam te verhogen of te verminderen. De kraan verschaft DAI rechtstreeks vanuit de GHST Bonding Curve waar momenteel meer dan 7,5 miljoen DAI is verzekerd.
 
@@ -72,7 +72,7 @@ tabel_agip1
 <hr />
 
 ### Kosten toevoegen aan de Bonding Curve
-**Aavegotchi Voorstel Verbetering #2**
+**Aavegotchi Verbetering Voorstel #2**
 
 **Voorstel Samenvatting:** De band curve is de belangrijkste bron van liquiditeit voor GHST. Grote kopers en verkopers kunnen momenteel zonder kosten in- en uitkopen.
 
@@ -95,7 +95,7 @@ tabel_agip2
 <hr />
 
 ### Verhoog DAICO tik voor GHST aankopen
-**Aavegotchi Voorstel Verbetering #3**
+**Aavegotchi Verbetering Voorstel #3**
 
 **Voorstel samenvatting:** Speler beloningen en liquiditeitsprikkels zijn cruciaal om het Aavegotchi ecosysteem op te starten naar een niveau waar het duurzaam wordt op handelsvolume en economische activiteit.
 
@@ -116,7 +116,7 @@ tabel_agip3
 <hr />
 
 ### Voorstel voor Haunt 2
-**Aavegotchi Voorstel Verbetering #4**
+**Aavegotchi Verbetering Voorstel #4**
 
 **Voorstel samenvatting:** 10.000 Portals is aantoonbaar niet genoeg om te voldoen aan de huidige vraag naar Aavegotchis. Daarom kan het nodig zijn om een nieuwe Haunt in te zetten om ervoor te zorgen dat iedereen die wil deelnemen een Aavegotchi kan bezitten. Dit voorstel biedt vier verschillende opties die door leden van de gemeenschap zijn voorgesteld, waaronder één optie om geen nieuwe Haunt te maken.
 
@@ -143,7 +143,7 @@ tabel_agip4
 <hr />
 
 ### Geef unieke niet-overdraagbare achtergrond aan Haunt 1 Aavegotchis
-**Aavegotchi Voorstel Verbetering #5**
+**Aavegotchi Verbetering Voorstel #5**
 
 **Voorstel samenvatting:** Veel spelers zijn bang dat Haunt 2 te veel lijkt op Haunt 1 en dat de nieuw gecreëerde [Haunts](/haunt) de waarde van "Genesis" Haunt zal aantasten. Een van de suggesties is om elke Haunt speciale achtergronden te geven om ze gemakkelijk te identificeren. Dit voorstel heeft een uitstekende discussie en aanzienlijke steun voor de bijbehorende Snapshot gekend. Houd er rekening mee dat alle Aavegotchis, ongeacht het besluit van de DAO over deze kwestie, speciale niet-overdraagbare "Haunt" badges zullen krijgen die hun Haunt identificeren. Dit voorstel richt zich specifiek op het idee van een niet-overdraagbare achtergrond die kan worden uitgerust in de Aavegotchi's BG wearable slot.
 
@@ -166,7 +166,7 @@ tabel_agip5
 <hr />
 
 ### Vergoeding toevoegen op Baazaar om Rarity Farming te ondersteunen
-**Aavegotchi Voorstel Verbetering #6**
+**Aavegotchi Verbetering Voorstel #6**
 
 **Voorstel samenvatting:** Met de aankondiging van SZN1 beloningen nu officiëel, verkennen we hoe de interesses en beloningen van de gemeenschap op elkaar kunnen afstemmen, aangezien het betrekking heeft op de Baazaar-kosten.
 
@@ -189,7 +189,7 @@ tabel_agip6
 <hr />
 
 ### Verdien XP voor succesvolle Signaal Voorstellen
-**Aavegotchi Voorstel Verbetering #7**
+**Aavegotchi Verbetering Voorstel #7**
 
 **Voorstel samenvatting:** We hebben momenteel veel Signapshot / Gemeenschapsvoorstellen op Snapshot en dagelijks nieuwe berichten op ons forum. Tot nu toe kon geen van deze voorstellen zelfs maar het quorum van 20 procent bereiken. De populairste bij @JG over het toevoegen van extra kosten voor RF kreeg slechts 2 miljoen GHST in stemmen (~11%)-hoewel het team besloot om het als een kernvoorstel te beschouwen. Na een upgrade naar Core hebben we recht door het quorum gebroken in minder dan 24 uur.
 
@@ -218,7 +218,7 @@ tabel_agip7
 <hr />
 
 ### Stemkracht gebaseerd op BRS
-**Aavegotchi Voorstel Verbetering #8**
+**Aavegotchi Verbetering Voorstel #8**
 
 **Voorstel samenvatting:**Stemkracht voor Aavegotchis in het adres van een kiezer toevoegen met een waarde van 1 GHST per BRS (basislaagscore, niet inclusief uitgeruste wearables).
 
@@ -239,7 +239,7 @@ tabel_agip8
 <hr />
 
 ### Stemkracht op basis van de Wearables' Maall Price
-**Aavegotchi Voorstel Verbetering #9**
+**Aavegotchi Verbetering Voorstel #9**
 
 **Voorstel Samenvatting:** Voeg Stemkracht toe voor Wearables welke beheerd worden door Aavegotchis en in het stemadres.
 
@@ -260,7 +260,7 @@ tabel_agip9
 <hr />
 
 ### Partnerschap tussen AavegotchiDAO, Pixelcraft, en DinoSwap
-**Aavegotchi Voorstel Verbetering #10**
+**Aavegotchi Verbetering Voorstel #10**
 
 **Voorstel Samenvatting:** Sommige leden van de gemeenschap maken zich zorgen over de afnemende liquiditeit van GHST op Quickswap en hun geleidelijk dalende LP beloningen. In plaats van simpelweg meer liquiditeit toe te wijzen aan de pool, overwegen we om samen te werken met een snelle liquiditeitsaggregator genaamd DinoSwap. De voorwaarden omvatten een totaal van 200k USD ter waarde van GHST tokens die moeten worden toegewezen aan hun aanmoedigde ‘extinction pools’, waarvan de details hieronder zijn uitgewerkt.
 
@@ -281,7 +281,7 @@ tabel_agip10
 <hr />
 
 ### Liquidity Manager / FRENS Commissie
-**Aavegotchi Voorstel Verbetering #11**
+**Aavegotchi Verbetering Voorstel #11**
 
 **Voorstel Samenvatting:**
 
@@ -324,7 +324,7 @@ tabel_agip11
 <hr />
 
 ### Start Haunt 2
-**Core Prop**
+**Core Prop (Kernvoorstel)**
 
 **Voorstel Samenvatting:** Momenteel zijn Aavegotchis beperkt met een maximum van 10.000 omdat alleen Haunt 1 Portals bestaat. Dit maakt het verkrijgen van een eerste Aavegotchi onbetaalbaar. Met een tweede Haunt van nog 15.000 Portalen, willen we dit probleem aanpakken met inachtneming van unieke, verzamelbare aspecten van Haunt 1 Aavegotchis.
 
@@ -347,7 +347,7 @@ tabel_launchHaunt2
 <hr />
 
 ### Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden
-**Aavegotchi Voorstel Verbetering #13**
+**Aavegotchi Verbetering Voorstel #13**
 
 **Voorstel Samenvatting:**
 
@@ -388,7 +388,7 @@ tabel_agip13
 <hr />
 
 ### Verdien FRENS met GHST-MATIC LP Tokens
-**Aavegotchi Voorstel Verbetering #14**
+**Aavegotchi Verbetering Voorstel #14**
 
 **Voorstel samenvatting:** Polygon is een enorme reden voor het succes van Aavegotchi. Super lage transactiekosten betaald in MATIC hebben het team in staat gesteld een spel te bouwen waar veel activiteit plaatsvindt in de on-chain zoals petting, bid to earn veilingen, Baazaar verkopen en opslag van de Aavegotchi spelkunst.
 
@@ -458,7 +458,7 @@ tabel_agip15
 <hr />
 
 ### Stake 100k GHST om Minigame Beloningen te genereren
-**Aavegotchi Voorstel Verbetering #16**
+**Aavegotchi Verbetering Voorstel #16**
 
 **Voorstel samenvatting:** Sommige frens hebben hun bezorgdheid geuit over het gebrek aan beloningen voor deelname aan Minigame evenementen. Aangezien er momenteel geen Aarcade Taask Force bestaat met een aangewezen budget Gotchinomics hebben het idee geopperd om 100k GHST in de schatkist te steken om toekomstige initiatieven te ondersteunen.
 
@@ -495,7 +495,7 @@ tabel_agip16
 <hr />
 
 ### Toevoegen van Stemkracht aan REALM parcelen
-**Aavegotchi Voorstel Verbetering #17**
+**Aavegotchi Verbetering Voorstel #17**
 
 **Voorstel Samenvatting:**
 
@@ -540,7 +540,7 @@ tabel_agip17
 <hr />
 
 ### Gotchiverse Patch v0.1
-**Aavegotchi Voorstel Verbetering #18**
+**Aavegotchi Verbetering Voorstel #18**
 
 **Voorstel Samenvatting:**
 
@@ -633,7 +633,7 @@ tabel_agip18
 <hr />
 
 ### GST Liquidity aanbieden op SynFutures
-**Aavegotchi Voorstel Verbetering #19**
+**Aavegotchi Verbetering Voorstel #19**
 
 **Voorstel Samenvatting:**
 
@@ -668,7 +668,7 @@ table_agip19
 <hr />
 
 ### Het creëren van de DAO Schatkist Taask Force
-**Aavegotchi Improvement Proposal #20**
+**Aavegotchi Verbetering Voorstel #20**
 
 **Voorstel Samenvatting:**
 
@@ -755,7 +755,7 @@ Option 2: No, do not add any GHST
 
 <hr />
 
-### Launch Rarity Farming SZN 3
+### Lancering Rarity Farming SZN 3
 **Aavegotchi Improvement Proposal #22**
 
 **Voorstel Samenvatting:**
@@ -805,7 +805,7 @@ Option 3: No, don't launch RF SZN 3
 
 <hr />
 
-### Co-Sponsoring the GoodGhosting Pool
+### Co-Sponsoring van de GoodGhosting Pool
 **Aavegotchi Improvement Proposal #23**
 
 **Voorstel Samenvatting:**
@@ -857,7 +857,7 @@ Option 3: No, do not support GG
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Naam van de Aavegotchi Marketplace
 **Snapshot Stemming**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -886,7 +886,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Mogelijkheid voor GHST-USDC LP tokens om FRENS te verdienen
 
 **Snapshot Stemming**
 
@@ -912,7 +912,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Aantal portalen gekocht in één transactie
 
 **Snapshot Stemming**
 
