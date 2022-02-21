@@ -672,17 +672,17 @@ table_agip19
 
 **Voorstel Samenvatting:**
 
-We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
+We stellen voor om de DAO Schatkist Taask Force (DTF) op te richten. Dit comité zal in eerste instantie bestaan uit acht ledenwaarvan we het lidmaatschap binnen zes maanden opnieuw zullen laten beoordelen door de DAO.
 
-As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/treasury) over bijna ~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
 
-Proposed Mission Statement
+Voorgestelde Missie Verklaring
 
-The Aavegotchi DAO Treasury Taask Force is a dynamic committee assigned with making DAO treasury management proposals to the community and DAO for consideration. The initial mission and goals of the committee will be: 1) Grow and optimize the DAO treasury with an emphasis on safety, security and transparency; 2) Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management; and 3) foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+De Aavegotchi DAO Schatkist Taask Force is een dynamisch comité dat is toegewezen aan DAO schatkistmanagementvoorstellen om ter overweging aan de gemeenschap en DAO voor te leggen. De eerste missie en doelstellingen van de commissie zijn: 1) de schatkist van de DAO ontwikkelen en optimaliseren met de nadruk op veiligheid, zekerheid en transparantie; 2) Partner met Pixelcraft om te helpen bij het ontwikkelen en identificeren van tools en infrastructuur voor het lopende Schatbeheer; en 3) bevorderen en aanmoedigen van de groei van de Aavegotchi gemeenschap door het vergroten van het bewustzijn, het actief bevorderen van adoptie en het behouden van huidige gebruikersbetrokkenheid.
 
-Initial Funding
+Initiële Financiering
 
-After lengthy discussions with the task force, the community, and with coderdan, the DTF would like to request an initial 50,000 GHST budget. The 50,000 GHST budget would be transferred from the DAO Treasury to the 8 multi-signature Gnosis Safe. This budget will greatly expand the flexibility of the DAO in incentivizing and rewarding engaged community members, developers, creatives, and overall contributors. This budget will never be used to reward members of the DTF. The DTF’s core main initiative will be to form a proposal for overall use of the DAO Treasury by investing some of the $10 million DAI/GHST in yield bearing opportunities. With effective deployment of the DAO Treasury, even modest returns would more than pay for the DTF budget request. The DTF will ensure comprehensive accounting and provide community facing documentation to ensure transparency. Some potential uses for the budget include the following:
+Na langdurige discussies met de taskforce, de gemeenschap en met coderdan zou de DTF een eerste 50.000 GHST-begroting willen vragen. Het 50.000 GHST budget zal worden overgeheveld van het Schat van de DAO naar de 8 handtekeningen Gnosis Safe. Deze begroting zal de flexibiliteit van de DAO enorm vergroten bij het stimuleren en belonen van betrokken gemeenschapsleden, ontwikkelaars, creatieven en algehele bijdragers. Dit budget zal nooit worden gebruikt om leden van het DTF te belonen. Het belangrijkste initiatief van de DTF zal zijn om een voorstel op te stellen voor het totale gebruik van de DAO-schatkist door een deel van de 10 miljoen dollar DAI/GHST te investeren in de rendementsopbrengst. Door het effectief inzetten van de DAO-schatkist, zouden zelfs bescheiden rendementen meer dan betalen voor het DTF-begrotingsverzoek. De DTF zal zorg dragen voor een uitgebreide boekhouding en de gemeenschap documenten verschaffen die met de nodige transparantie te maken hebben. Enkele potentiële toepassingen voor de begroting zijn het volgende:
 
 * Beloon gemeenschap betrokkenheid en aarcade spelen
 * Beloon spel ontwikkelaars en ontwerpers
@@ -691,9 +691,9 @@ After lengthy discussions with the task force, the community, and with coderdan,
 * Beloon, erken en groei content makers en algemene marketinginspanningen
 * Breid Aavegotchi en GHST's kansen uit voor gedecentraliseerde financiële toepassingen
 
-The DTF is developing a structured plan and multiple potential pilot projects to best utilize these funds. We will work to develop tools to allow maximum transparency into the budget use. Expenses within this 50,000 GHST budget would not require a DAO approval in order to maximize nimble use of the funds. Any further budget requests beyond the initial 50,000 GHST would require a DAO vote.
+De DTF ontwikkelt een gestructureerd plan en meerdere potentiële proefprojecten om deze fondsen zo goed mogelijk te benutten. We zullen werken aan de ontwikkeling van instrumenten om maximale transparantie bij het gebruik van de begroting mogelijk te maken. Voor uitgaven binnen deze 50.000 GHST begroting is geen goedkeuring van DAO nodig om een nuchter gebruik van de fondsen te maximaliseren. Voor verdere begrotingsverzoeken na de aanvankelijke 50.000 GHST zou een DAO-stemming nodig zijn.
 
-The initial 8 members of the DTF
+De eerste 8 leden van de DTF
 
 * BowtiedNerd
 * Mori
@@ -704,40 +704,40 @@ The initial 8 members of the DTF
 * Swappi
 * Dr Wagmi
 
-We appreciate the Aavegotchi community’s support and look forward to our first proposal.
+We waarderen de steun van de Aavegotchi gemeenschap en kijken uit naar ons eerste voorstel.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
 
-Option 1: Yes, with 50k GHST budget
+Optie 1: Ja, met 50k GHST budget
 
-Option 2: Yes, without 50k GHST budget
+Optie 2: Ja, zonder 50k GHST budget
 
-Option 3: No, do not create the DTF
+Optie 3: Nee, maak geen DTF aan
 
 **Stemperiode:** van 2 - 9 February 2022
 
 **Resultaten:**
 
-table_agip20
+tabel_agip20
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
 
 <hr />
 
 ### GHST toevoegen aan de Umbria Narni Bridge
-**Aavegotchi Improvement Proposal #21**
+**Aavegotchi Verbetering Voorstel #21**
 
 **Voorstel Samenvatting:**
 
-The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
+De Umbria Narni Bridge heeft het GHST-token geïmplementeerd, en vergemakkelijkt een goedkopere migratie van GHST tussen de Ethereum en <--> Polygon-netwerken, vergeleken met de officiële Polygon Brug. De Umbria Narni bridging kosten bedraagt ongeveer 1/2 van de officiële Polygon Bridge kosten en is ook veel sneller (4 minuten, als tegenstelling tot > 1 uur).
 
-The Umbria Narni bridge protocol can bridge a maximum of 20% of its total GHST liquidity, per bridging event. For example, with $100k of GHST tokens in one side of the pool, the bridge can migrate a maximum of $20k of GHST per single transaction.
+Het Umbria Narni bridge protocol kan een maximum van 20 procent van de totale GHST liquiditeit overbrugen, per overbrugging. Bijvoorbeeld, met $100k GHST tokens aan één kant van de pool, kan de bridge maximaal $20 k GHST migreren per enkele transactie.
 
-Currently there is approximately $14,000 of GHST tokens on each side of the bridge. This is mostly funded by the Umbria team. This enables the bridge to be able to bridge a maximum of $700 of GHST tokens per transaction - which is pretty good, but we are aware that some users want to bridge much more in a single transaction.
+Er zijn momenteel ongeveer 14.000 GHST tokens aan beide zijden van de brug. Dit wordt voornamelijk gefinancierd door het Umbria-team. Hierdoor kan de brug maximaal $700 aan GHST tokens per transactie overbrugen - wat vrij goed is. maar we weten dat sommige gebruikers veel meer willen koppelen aan één enkele transactie.
 
-We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
+We stellen voor dat de Aavegotchi DAO $100.000 in GHST toevoegt aan elke bridge pool (1. Polygon en 2. Ethereum). Daar zijn een aantal voordelen aan gekoppeld:
 
-The Aavegotchi DAO will earn a 0.2% bridging fee whenever anyone uses the bridge to migrate GHST tokens between Ethereum <--> Polygon. So across time, the Aavegotchi DAO will make money. If the Narni bridge ever becomes an unnecessary solution, the Aavegotchi DAO can easily remove their liquidity and enjoy their profit.
+De Aavegotchi DAO verdient een 0.2% bridging kosten wanneer iemand de bridge gebruikt om GHST tokens te migreren tussen Ethereum en <--> Polygon. De Aavegotchi DAO zal dus in de loop der tijd geld verdienen. Als de Narni-brug ooit een onnodige oplossing wordt, kan de Aavegotchi DAO gemakkelijk hun liquiditeit verwijderen en van hun winst genieten.
 
 Transactions up to approximately $21,000 of GHST will now be possible.
 
