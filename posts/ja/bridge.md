@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
 date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+title: 'ブリッジ'
+description: 'Aavegotchiブリッジ（Polygonとの間でアセットを転送するため）'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
