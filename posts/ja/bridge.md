@@ -115,31 +115,37 @@ Umbria Narniブリッジについて質問がある場合、または開発者�
 
 ### AscendEX
 
-AscendEX（以前のBitMax）は、Polygonネットワークへの引き出しを可能にする暗号通貨プラットフォームです。 Check out the infographic below for more details.
+AscendEX（以前のBitMax）は、Polygonネットワークへの引き出しを可能にする暗号通貨プラットフォームです。 詳細については、以下のインフォグラフィックを確認してください。
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
 ### Transak
 
-Transak is a fiat-to-crypto payment gateway. Users pay using their credit card and receive the tokens on the wallet address they specified.
+Transakは、法定通貨から暗号通貨への支払いゲートウェイです。 ユーザーはクレジットカードを使用して支払い、指定したウォレットアドレスでトークンを受け取ります。
 
-See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
+ステップバイステップガイドについては、コミュニティメンバーによるこの
+
+投稿</ 0>を参照してください。</p> 
+
+
 
 ### Crypto.com
 
-Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to Polygon Network.
+Crypto.comはモバイルアプリウォレットです。 Crypto.comでPolygonネットワークへのMATICまたはUSDCの撤回を可能にします。
 
-1). Select Transfer --> Withdraw --> Crypto --> External Wallet
+1). [転送]を選択して--> 引き出す--> クリプト--> 外部ウォレット
 
-2). Click the + sign at the top right corner
+2). 右上隅にある「+」記号をクリックします
 
-3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
+3). 引き出すトークンを選択します。 その特定のトークンで引き出しが利用できる場合は、[ネットワークの選択]フィールドに[Polygon]のオプションが表示されます（下のスクリーンショットを参照）。
 
 <img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon" />
 
+
+
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+バイナンスは、世界最大の暗号通貨取引所の1つです。 Polygonネットワークへの引き出しも提供します。
 
 At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
 
