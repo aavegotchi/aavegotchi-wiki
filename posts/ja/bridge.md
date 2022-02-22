@@ -10,25 +10,25 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">Aavegotchiブリッジ</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+ブリッジは、あるブロックチェーンから別のブロックチェーンにアセットを転送できるようにするソフトウェアです。
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+当初の計画は、2021年1月4日にイーサリアムメインネットでAavegotchiを起動することでした。 ガスが高いため、コミュニティは代わりにPolygon Networkでプロジェクトを立ち上げることに投票しました。 この決定の結果として、資産はあるネットワークから別のネットワークにブリッジする必要があります。
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+アセットの転送を容易にするために、Pixelcraftスタジオはユーザーが両方のネットワーク間でアセットをやり取りできるようにするAavegotchiブリッジを作成しました。 それ以来、他の橋も現場に到着しました。 このページでは、最も一般的なブリッジのいくつかについて説明します。
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
-<p><a href=#polygon-bridge>Polygon Bridge</a></p>
-<p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#aavegotchi-bridge>Aavegotchiブリッジ</a></li>
+<li><a href=#decentralized-bridges>分散型ブリッジ</a></li>
+<p><a href=#polygon-bridge>Polygonブリッジ</a></p>
+<p><a href=#umbria-narni-bridge>Umbria Narniブリッジ（ウンブリア・ナルニ）</a></p>
+<li><a href=#centralized-bridges>中央集権化ブリッジ</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -37,52 +37,52 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 </div>
 
-## Aavegotchi Bridge
+## Aavegotchiブリッジ
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公式のブリッジです。 現在、ERC-20トークンとERC-721アセット（ゴッチ）をEthereumメインネットからPolygonネットワークに、またはその逆に転送できます。 ERC-1155ウェアラブルのブリッジングはまもなく登場します。
 
-<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
+<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchiブリッジ" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からアクセスできます。
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+以下は、ERC-20トークンをEthereumメインネットからPolygonにブリッジするステップバイステップの例です。
 
-1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
+1). トークンのイメージ（下の赤い丸で囲んだ部分）をクリックして、トークンのドロップダウンメニューを開きます。 Polygonに転送するトークンを選択します。
 
 <img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-2). Key in the amount that is to be transferred.
+2). 送金する金額を入力します。
 
 <img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-3). Click the "Approve Transfer" button.
+3). 「転送を承認」ボタンをクリックします。
 
-4). Click the "Transfer to Polygon" button.
+4). 「Polygonに転送」ボタンをクリックします。
 
-5). Wait for ~10 minutes for your asset to appear on Polygon network.
+5). アセットがPolygonネットワークに表示されるまで約10分待ちます。
 
 The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
 
-## Decentralized Bridges
+## 分散型ブリッジ
 
-### Polygon Bridge
+### Polygonブリッジ
 The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
 
 For those who want to use the Polygon Bridge, here are the steps to take:
 
 1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
 
-<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygonブリッジ" />
 
 2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
 
-<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygonブリッジ" />
 
 It can take up to 10 minutes for the tokens to arrive in your Polygon address.
 
 If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
 
-### Umbria Narni Bridge
+### Umbria Narniブリッジ（ウンブリア・ナルニ）
 The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
 
 To use the Umbria Narni Bridge, please refer to the following steps:
@@ -111,7 +111,7 @@ Finally, you will receive two pink ticks, which means that your transaction has 
 
 If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
 
-## Centralized Bridges
+## 中央集権化ブリッジ
 
 ### AscendEX
 
