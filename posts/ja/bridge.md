@@ -99,23 +99,23 @@ Umbria Narniブリッジを使用するには、次の手順を参照してく�
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). ブリッジするの時点で、2つのオプション（QRコードまたはMetaMask）が提供されます。 MetaMaskを使用したブリッジングが推奨されるアプローチです。 It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). ブリッジするの時点で、2つのオプション（QRコードまたはMetaMask）が提供されます。 MetaMaskを使用したブリッジングが推奨されるアプローチです。 また、トランザクションがスタックするリスクを最小限に抑えるために、余裕のある最速の速度を選択することをお勧めします。
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). After sending the transaction, a modal will be displayed. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). トランザクションを送信した後、モーダルが表示されます。 最初のセクションには、ブリッジに向かうトランザクションプロセスが表示されます。 トランザクションがブリッジに到達すると、最初のチェックマークを受け取ります。 両方のティックを受け取るまでに数分かかる場合がありますが、10分以上かかる場合は、DiscordのUmbriaチームに連絡してください。問題の解決に役立ちます。
 
-Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
+最後に、2つのピンクのチェックマークが表示されます。これは、トランザクションが正常にブリッジされたことを意味し、宛先ブロックチェーンのウォレット内のアセットを確認できるようになります。 この段階で画面上の関連するボタンをクリックすると、宛先ブロックエクスプローラーでトランザクションを確認することもできます。
 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
-If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
+Umbria Narniブリッジについて質問がある場合、または開発者チームのサポートメンバーとチャットしたい場合は、[Umbria Discordチャネル](https://discord.gg/8Ms7Cr4)に連絡してください。
 
 ## 中央集権化ブリッジ
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
+AscendEX（以前のBitMax）は、Polygonネットワークへの引き出しを可能にする暗号通貨プラットフォームです。 Check out the infographic below for more details.
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
