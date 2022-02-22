@@ -61,29 +61,29 @@ Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からア�
 
 5). アセットがPolygonネットワークに表示されるまで約10分待ちます。
 
-The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
+同じ概念が、PolygonネットワークからEthereumメインネットにアセットを送り返す場合にも同じです。
 
 ## 分散型ブリッジ
 
 ### Polygonブリッジ
-The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
+Polygonブリッジは、EthereumとPolygonの間に作成された最初のクロスチェーンブリッジでした。 これはPolygonチームの公式ブリッジであり、バリデーターモデルを使用して、EthereumとPolygonの間でアセットを転送します。 このブリッジは$GHSTトークンを転送できますが、NFTアセットをブリッジすることはできません。
 
-For those who want to use the Polygon Bridge, here are the steps to take:
+Polygonブリッジを使用したい場合は、次の手順を実行してください。
 
-1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
+1). [ https://wallet.polygon.technology ](https://wallet.polygon.technology)でPolygon Web Wallet v2をアクセスします。 Polygonブリッジ（下の赤い丸で囲んだ部分）をクリックします。
 
 <img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygonブリッジ" />
 
-2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
+2). ドロップダウンメニューからトークンを選択し、テキストボックスに金額を入力して、[Transfer]ボタンをクリックします
 
 <img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygonブリッジ" />
 
-It can take up to 10 minutes for the tokens to arrive in your Polygon address.
+トークンがPolygonアドレスに到着するまでに最大10分かかる場合があります。
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+何かサポートが必要な場合は、Aavegotchi [ Discord ](https://discord.com/invite/rttCTkZ)に参加して、フレンリーなコミュニティに聞いてください。
 
 ### Umbria Narniブリッジ（ウンブリア・ナルニ）
-The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
 
 To use the Umbria Narni Bridge, please refer to the following steps:
 
