@@ -83,23 +83,23 @@ Polygonブリッジを使用したい場合は、次の手順を実行してく�
 何かサポートが必要な場合は、Aavegotchi [ Discord ](https://discord.com/invite/rttCTkZ)に参加して、フレンリーなコミュニティに聞いてください。
 
 ### Umbria Narniブリッジ（ウンブリア・ナルニ）
-Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 Narniブリッジは約5分でトランザクションを解決し、EthereumとPolygonのブロックチェーン間でGHSTトークンを転送するのに約〜100 GWEIかかります。 現在、ERC-20トークンのみがNarniブリッジと互換性があります。 NFTはブリッジできません。
 
-To use the Umbria Narni Bridge, please refer to the following steps:
+Umbria Narniブリッジを使用するには、次の手順を参照してください。
 
-1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
+1). [Umbria Narniブリッジ](https://bridge.umbria.network/bridge)をご覧ください。 発信元ネットワークと宛先ネットワークを選択します。
 
 <img class="bodyImage" src='/bridge/umbria-network-selection.png' />
 
-2). From the dropdown menu, select the token to be bridged.
+2). ドロップダウンメニューから、ブリッジするトークンを選択します。
 
 <img class="bodyImage" src='/bridge/umbria-token-selection.png' />
 
-3). Key in the amount of token to be bridged. The Narni bridge will provide an estimation of the amount of tokens you will receive post-bridging. The bridge takes a 0.5% fee for bridging assets between chains. The fees go to the liquidity providers that are providing assets on the Narni bridge.
+3). ブリッジするトークンの金額を入力します。 Narniブリッジは、ブリッジした後に受け取るトークンの量の見積もりを提供します。 ブリッジは、チェーン間でアセットをブリッジするために0.5％の手数料がかかります。 料金はNarniブリッジをサポートする流動性プロバイダーに支払われます。
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). At the point of bridging, you will be provided with 2 options (QR code or MetaMask). Bridging using MetaMask is the recommended approach. It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). ブリッジするの時点で、2つのオプション（QRコードまたはMetaMask）が提供されます。 MetaMaskを使用したブリッジングが推奨されるアプローチです。 It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
