@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
 date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+title: 'ブリッジ'
+description: 'Aavegotchiブリッジ（Polygonとの間でアセットを転送するため）'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -10,25 +10,25 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">Aavegotchiブリッジ</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+ブリッジは、あるブロックチェーンから別のブロックチェーンにアセットを転送できるようにするソフトウェアです。
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+当初の計画は、2021年1月4日にイーサリアムメインネットでAavegotchiを起動することでした。 ガスが高いため、コミュニティは代わりにPolygon Networkでプロジェクトを立ち上げることに投票しました。 この決定の結果として、資産はあるネットワークから別のネットワークにブリッジする必要があります。
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+アセットの転送を容易にするために、Pixelcraftスタジオはユーザーが両方のネットワーク間でアセットをやり取りできるようにするAavegotchiブリッジを作成しました。 それ以来、他の橋も現場に到着しました。 このページでは、最も一般的なブリッジのいくつかについて説明します。
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
-<p><a href=#polygon-bridge>Polygon Bridge</a></p>
-<p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#aavegotchi-bridge>Aavegotchiブリッジ</a></li>
+<li><a href=#decentralized-bridges>分散型ブリッジ</a></li>
+<p><a href=#polygon-bridge>Polygonブリッジ</a></p>
+<p><a href=#umbria-narni-bridge>Umbria Narniブリッジ（ウンブリア・ナルニ）</a></p>
+<li><a href=#centralized-bridges>中央集権化ブリッジ</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -37,110 +37,116 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 </div>
 
-## Aavegotchi Bridge
+## Aavegotchiブリッジ
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公式のブリッジです。 現在、ERC-20トークンとERC-721アセット（ゴッチ）をEthereumメインネットからPolygonネットワークに、またはその逆に転送できます。 ERC-1155ウェアラブルのブリッジングはまもなく登場します。
 
-<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
+<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchiブリッジ" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からアクセスできます。
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+以下は、ERC-20トークンをEthereumメインネットからPolygonにブリッジするステップバイステップの例です。
 
-1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
+1). トークンのイメージ（下の赤い丸で囲んだ部分）をクリックして、トークンのドロップダウンメニューを開きます。 Polygonに転送するトークンを選択します。
 
 <img class = "bodyImage" src = "/bridge/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
 
-2). Key in the amount that is to be transferred.
+2). 送金する金額を入力します。
 
 <img class = "bodyImage" src = "/bridge/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
 
-3). Click the "Approve Transfer" button.
+3). 「転送を承認」ボタンをクリックします。
 
-4). Click the "Transfer to Polygon" button.
+4). 「Polygonに転送」ボタンをクリックします。
 
-5). Wait for ~10 minutes for your asset to appear on Polygon network.
+5). アセットがPolygonネットワークに表示されるまで約10分待ちます。
 
-The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
+同じ概念が、PolygonネットワークからEthereumメインネットにアセットを送り返す場合にも同じです。
 
-## Decentralized Bridges
+## 分散型ブリッジ
 
-### Polygon Bridge
-The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
+### Polygonブリッジ
+Polygonブリッジは、EthereumとPolygonの間に作成された最初のクロスチェーンブリッジでした。 これはPolygonチームの公式ブリッジであり、バリデーターモデルを使用して、EthereumとPolygonの間でアセットを転送します。 このブリッジは$GHSTトークンを転送できますが、NFTアセットをブリッジすることはできません。
 
-For those who want to use the Polygon Bridge, here are the steps to take:
+Polygonブリッジを使用したい場合は、次の手順を実行してください。
 
-1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
+1). [ https://wallet.polygon.technology ](https://wallet.polygon.technology)でPolygon Web Wallet v2をアクセスします。 Polygonブリッジ（下の赤い丸で囲んだ部分）をクリックします。
 
-<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygonブリッジ" />
 
-2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
+2). ドロップダウンメニューからトークンを選択し、テキストボックスに金額を入力して、[Transfer]ボタンをクリックします
 
-<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygonブリッジ" />
 
-It can take up to 10 minutes for the tokens to arrive in your Polygon address.
+トークンがPolygonアドレスに到着するまでに最大10分かかる場合があります。
 
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
+何かサポートが必要な場合は、Aavegotchi [ Discord ](https://discord.com/invite/rttCTkZ)に参加して、フレンリーなコミュニティに聞いてください。
 
-### Umbria Narni Bridge
-The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
+### Umbria Narniブリッジ（ウンブリア・ナルニ）
+Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 Narniブリッジは約5分でトランザクションを解決し、EthereumとPolygonのブロックチェーン間でGHSTトークンを転送するのに約〜100 GWEIかかります。 現在、ERC-20トークンのみがNarniブリッジと互換性があります。 NFTはブリッジできません。
 
-To use the Umbria Narni Bridge, please refer to the following steps:
+Umbria Narniブリッジを使用するには、次の手順を参照してください。
 
-1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
+1). [Umbria Narniブリッジ](https://bridge.umbria.network/bridge)をご覧ください。 発信元ネットワークと宛先ネットワークを選択します。
 
 <img class="bodyImage" src='/bridge/umbria-network-selection.png' />
 
-2). From the dropdown menu, select the token to be bridged.
+2). ドロップダウンメニューから、ブリッジするトークンを選択します。
 
 <img class="bodyImage" src='/bridge/umbria-token-selection.png' />
 
-3). Key in the amount of token to be bridged. The Narni bridge will provide an estimation of the amount of tokens you will receive post-bridging. The bridge takes a 0.5% fee for bridging assets between chains. The fees go to the liquidity providers that are providing assets on the Narni bridge.
+3). ブリッジするトークンの金額を入力します。 Narniブリッジは、ブリッジした後に受け取るトークンの量の見積もりを提供します。 ブリッジは、チェーン間でアセットをブリッジするために0.5％の手数料がかかります。 料金はNarniブリッジをサポートする流動性プロバイダーに支払われます。
 
 <img class="bodyImage" src='/bridge/umbria-fee-estimation.png' />
 
-4). At the point of bridging, you will be provided with 2 options (QR code or MetaMask). Bridging using MetaMask is the recommended approach. It is also recommended to select the fastest speed you can afford to minimize the risk of the transaction getting temporarily stuck.
+4). ブリッジするの時点で、2つのオプション（QRコードまたはMetaMask）が提供されます。 MetaMaskを使用したブリッジングが推奨されるアプローチです。 また、トランザクションがスタックするリスクを最小限に抑えるために、余裕のある最速の速度を選択することをお勧めします。
 
 <img class="bodyImage" src='/bridge/umbria-confirming-transaction.png' />
 
-5). After sending the transaction, a modal will be displayed. The 1st section displays your transaction process to reaching the bridge. Once your transaction has reached the bridge, you will receive the first tick. It can take a few minutes for you to receive both ticks, but if it takes longer than 10 minutes, please contact the Umbria team on Discord and they will help you solve the issue.
+5). トランザクションを送信した後、モーダルが表示されます。 最初のセクションには、ブリッジに向かうトランザクションプロセスが表示されます。 トランザクションがブリッジに到達すると、最初のチェックマークを受け取ります。 両方のティックを受け取るまでに数分かかる場合がありますが、10分以上かかる場合は、DiscordのUmbriaチームに連絡してください。問題の解決に役立ちます。
 
-Finally, you will receive two pink ticks, which means that your transaction has successfully bridged, and you will be able to see the assets in your wallet on the destination blockchain. You will also be able to see the transaction on the destination block explorer by clicking the relevant button on the screen at this stage.
+最後に、2つのピンクのチェックマークが表示されます。これは、トランザクションが正常にブリッジされたことを意味し、宛先ブロックチェーンのウォレット内のアセットを確認できるようになります。 この段階で画面上の関連するボタンをクリックすると、宛先ブロックエクスプローラーでトランザクションを確認することもできます。
 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
-If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
+Umbria Narniブリッジについて質問がある場合、または開発者チームのサポートメンバーとチャットしたい場合は、[Umbria Discordチャネル](https://discord.gg/8Ms7Cr4)に連絡してください。
 
-## Centralized Bridges
+## 中央集権化ブリッジ
 
 ### AscendEX
 
-AscendEX (formerly BitMax) is a cryptocurrency platform that allows withdrawals to Polygon Network. Check out the infographic below for more details.
+AscendEX（以前のBitMax）は、Polygonネットワークへの引き出しを可能にする暗号通貨プラットフォームです。 詳細については、以下のインフォグラフィックを確認してください。
 
 <img class = "bodyImage" src = "/bridge/Using_AscendEX_and_play_Aavegotchi.jpg" alt = "Using AscendEX to play Aavegotchi" />
 
 ### Transak
 
-Transak is a fiat-to-crypto payment gateway. Users pay using their credit card and receive the tokens on the wallet address they specified.
+Transakは、法定通貨から暗号通貨への支払いゲートウェイです。 ユーザーはクレジットカードを使用して支払い、指定したウォレットアドレスでトークンを受け取ります。
 
-See this [post](https://trasher.substack.com/p/buying-your-tokens-straight-into) by our community member for a step-by-step guide.
+ステップバイステップガイドについては、コミュニティメンバーによるこの
+
+投稿</ 0>を参照してください。</p> 
+
+
 
 ### Crypto.com
 
-Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to Polygon Network.
+Crypto.comはモバイルアプリウォレットです。 Crypto.comでPolygonネットワークへのMATICまたはUSDCの撤回を可能にします。
 
-1). Select Transfer --> Withdraw --> Crypto --> External Wallet
+1). [転送]を選択して--> 引き出す--> クリプト--> 外部ウォレット
 
-2). Click the + sign at the top right corner
+2). 右上隅にある「+」記号をクリックします
 
-3). Select the token to be withdrawed. If withdrawal is available for that particular token, you will see an Option for "Polygon" in the "Select Network" field (see screenshot below).
+3). 引き出すトークンを選択します。 その特定のトークンで引き出しが利用できる場合は、[ネットワークの選択]フィールドに[Polygon]のオプションが表示されます（下のスクリーンショットを参照）。
 
 <img class="bodyImage" src="/bridge/cryptocom-withdrawal.png" alt="Crypto.com withdrawal to Polygon" />
 
+
+
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+バイナンスは、世界最大の暗号通貨取引所の1つです。 Polygonネットワークへの引き出しも提供します。
 
-At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+引き出しページで、ネットワークを **MATIC** Polygonに設定します（下のスクリーンショットを参照）。
 
 <img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
