@@ -25,25 +25,25 @@ contributors:
 
 ## Aavegotchiミッション8のミームコンテスト勝者
 
-In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+Aavegotchiミッション8では、エージェントはAavegotchi subredditでゴッチまたはGHSTトークンを使用して最高のミームを作成するように任命されました。 あなたのお気に入りに「良いね」してください！ 10月9日の上位3つの賛成ミームは、それぞれ300、200、100GHSTを獲得出来ます。
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1位：Zemusの「Aavegotchiパックマン」</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2位：ラスターアイズによって「パワーコンバインド」</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3位：Moonの「居心地の良いghst」</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
 ## ハロウィンコスチュームコンテスト2020
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+10月30日金曜日、幽霊はほんとにパレードに出てきました　ꉂ (´∀｀)ʱªʱªʱª エージェントはゴッチをドレスアップするのを楽しんで、それぞれが交代でキャットウォークに浮かんでいました。 コミュニティは「良いね」でお気に入りを選びました。
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">1位：Esveebeeの「IT」</span>
 
 <img src = "/contests/it.png" width = "250" />
 
