@@ -15,9 +15,9 @@ contributors:
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchiミッション8のミームコンテスト勝者</a></li>
-<li><a href=#halloween-costume-contest-2020>ハロウィンコスチュームコンテスト2020</a></li>
+<li><a href=#halloween-costume-contest-2020>ハロウィンコスチュームコンテスト2020年</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchiミッション9のコンテンツコンテスト</a></li>
-<li><a href=#halloween-costume-contest-2021>ハロウィンコスチュームコンテスト2010</a></li>
+<li><a href=#halloween-costume-contest-2021>ハロウィンコスチュームコンテスト2010年</a></li>
 <li><a href=#defi-rpg-wearables-meme-contest>DeF RPGウェアラブルのミームコンテスト</a></li>
 </ol>
 
@@ -39,7 +39,7 @@ Aavegotchiミッション8では、エージェントはAavegotchi subredditで�
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## ハロウィンコスチュームコンテスト2020
+## ハロウィンコスチュームコンテスト2020年
 
 10月30日金曜日、幽霊はほんとにパレードに出てきました　ꉂ (´∀｀)ʱªʱªʱª エージェントはゴッチをドレスアップするのを楽しんで、それぞれが交代でキャットウォークに浮かんでいました。 コミュニティは「良いね」でお気に入りを選びました。
 
@@ -77,39 +77,39 @@ Aavegotchiのエージェントは、史上最高の1000を超えました！ �
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">3位：Kovan TestnetのAavegotchiが来ましたよ！ [ステップバイステップガイド] をBuzzlightyearによる</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
 
-## ハロウィンコスチュームコンテスト2010
+## ハロウィンコスチュームコンテスト2010年
 
-On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+2021年11月1日、2回目の #GotchiGangハロウィーンコンテストが開催されました。 👹👻🎃
 
-The competition was fierce, with nearly 100 unique costumes submitted!
+競争は激しく、100に近くのユニークなコスチュームが提出されました！
 
-The top 3 costumes won 100, 50, and 25 GHST, respectively.
+トップ3位のコスチュームは、それぞれ100、50、25GHSTを獲得しました。
 
-### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+### <span style="color:gold">1位：Bezignerの「LickWeenDator」</span>
 
 <img class="bodyImage" src="/contests/lickweendator.jpg" />
 
-### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+### <span style="color:silver">2位: KimikunoのJason Boorhees（ジェイソン）</span>
 
 <img class="bodyImage" src="/contests/jason-boorhees.png" />
 
-### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+### <span style="color:#cd7f32">3位：Ape | Dratini | Bear Xのジニーゴッチ </span>
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
 
 ## DeF RPGウェアラブルのミームコンテスト
 
-### <span style="color:gold">1st place: Thrax</span>
+### <span style="color:gold">1位：Thrax</span>
 
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
-### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
+### <span style="color:silver">2位：Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
 
-### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
+### <span style="color:#cd7f32">3位：Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
