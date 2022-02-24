@@ -57,23 +57,23 @@ Aavegotchiミッション8では、エージェントはAavegotchi subredditで�
 
 ## Aavegotchiミッション9のコンテンツコンテスト
 
-Aavegotchiのエージェントは、史上最高の1000を超えました！ もはやエージェントではなく、急成長しているゴッチギャングのメンバーです！ 今週のミッションではAavegotchiをさらに名前を広めましょう！ Aavegotchiに関するコンテンツを書面または動画形式で作成します。 The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchiのエージェントは、史上最高の1000を超えました！ もはやエージェントではなく、急成長しているゴッチギャングのメンバーです！ 今週のミッションではAavegotchiをさらに名前を広めましょう！ Aavegotchiに関するコンテンツを書面または動画形式で作成します。 コアチームによって選ばれた各カテゴリの上位3つの作品は、それぞれ300/100/50の甘いGHSTを獲得し、さらに多くのコンテンツを作成する機会を提供します。
 
-### Video Category
+### 動画カテゴリ
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1位：Esveebeeの「Aavegotchiの使用を開始する方法」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2位：DogGodFrogLogの「Aavegotchi2分ガイド」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3位：Moonの「アノンがアヴェゴッチを見つける」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### 書き込みカテゴリ
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">1位：Aavegotchi：Appellantsの「秋のフレンリーファーミング」</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">2位：Letsgobanklessの「金持ちになるか死ぬ」</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
