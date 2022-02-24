@@ -47,17 +47,17 @@ Aavegotchiミッション8では、エージェントはAavegotchi subredditで�
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">2位：Flameeのゾンビ</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">3位：PoW Minerのトランピゴッチ</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
 ## Aavegotchiミッション9のコンテンツコンテスト
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchiのエージェントは、史上最高の1000を超えました！ もはやエージェントではなく、急成長しているゴッチギャングのメンバーです！ 今週のミッションではAavegotchiをさらに名前を広めましょう！ Aavegotchiに関するコンテンツを書面または動画形式で作成します。 The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
 
 ### Video Category
 
