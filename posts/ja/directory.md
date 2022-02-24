@@ -29,7 +29,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Bridge](/bridge)
 
-* [Contests](/contests)
+* [コンテスト](/contests)
 
 * [Contracts](/contracts)
 
