@@ -41,7 +41,7 @@ contributors:
 
 Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公式のブリッジです。 現在、ERC-20トークンとERC-721アセット（ゴッチ）をEthereumメインネットからPolygonネットワークに、またはその逆に転送できます。 ERC-1155ウェアラブルのブリッジングはまもなく登場します。
 
-<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchiブリッジ" />
+<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
 Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からアクセスできます。
 
@@ -72,11 +72,11 @@ Polygonブリッジを使用したい場合は、次の手順を実行してく�
 
 1). [ https://wallet.polygon.technology ](https://wallet.polygon.technology)でPolygon Web Wallet v2をアクセスします。 Polygonブリッジ（下の赤い丸で囲んだ部分）をクリックします。
 
-<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygonブリッジ" />
+<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
 
 2). ドロップダウンメニューからトークンを選択し、テキストボックスに金額を入力して、[Transfer]ボタンをクリックします
 
-<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygonブリッジ" />
+<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
 
 トークンがPolygonアドレスに到着するまでに最大10分かかる場合があります。
 
