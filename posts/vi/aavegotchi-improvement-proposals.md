@@ -546,9 +546,9 @@ table_agip17
 
 *Vấn đề:*
 
-Although the Gotchiverse is not yet live, we have identified a few areas that we believe should be adjusted before the game is released, and would like to bring these items to the community’s attention for discussion and a decision on whether or not to enact.
+Dù Gotchiverse vẫn chưa lên sóng nhưng bọn mình đã xác định được một vài khu vực mà bọn mình tin rằng nên được điều chỉnh trước khi game ra mắt, và muốn những khía cạnh này nhận được sự chú ý của cộng đồng để thảo luận và quyết định xem có nên thực thi hay không.
 
-To ensure no single proposed change can revert the entire batch, we originally created six separate snapshot SigProp Proposals. This CoreProp combines the successful SigProps into the first Gotchiverse Patch v0.1!
+Để đảm bảo không có thay đổi nào khiến đảo lộn cả lô cập nhật, ban đầu chúng tôi đã tạo ra sáu bản đề xuất SigProp riêng. This CoreProp combines the successful SigProps into the first Gotchiverse Patch v0.1!
 
 *Giải pháp:*
 
