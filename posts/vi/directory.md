@@ -19,7 +19,7 @@ contributors:
 
 * [Trang Profile Aavegotchi](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [Cơ Chế Trưởng Thành](/aging-mechanic)
 
 * [Huy Hiệu](/baadge)
 
