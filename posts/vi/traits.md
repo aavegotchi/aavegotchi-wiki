@@ -24,7 +24,7 @@ wearables</1> mà chúng được mặc. Những Aavegotchi được triệu h�
 <li><a href=#experience>Kinh nghiệm</a></li>
 <li><a href=#level>Cấp độ</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Aging Mechanic</a></li>
+<li><a href=#aging-mechanic>Cơ Chế Trưởng Thành</a></li>
 </ol>
 
 </div>
@@ -112,10 +112,10 @@ Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Hau
 
 
 
-## Aging Mechanic
+## Cơ Chế Trưởng Thành
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) giới thiệu về cơ chế trưởng thành dành cho Aavegotchi.
 
-Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Gotchis sẽ nhận được một lượng [BRS](/rarity-farming#base-rarity-score) cộng thêm khi chúng lớn lên. Điều này giúp chống lại biến số giữa các Haunt và thưởng cho sự tương tác lâu dài.
 
-For more information, check out the [Aging Mechanic](/aging-mechanic) page.
+Để có thêm thông tin, hãy xem qua trang [Cơ chế trưởng thành](/aging-mechanic).
