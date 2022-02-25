@@ -7,14 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Rarity Farming Season 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
-* Rarity Farming Season 3 will commence on 24 February 2022
-* There will be 3 leaderboards this time round: Rarity (70%), Kinship (20%), and XP (10%)
+## [Rarity Farming Mùa 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* Rarity Farming Mùa 3 sẽ bắt đầu từ ngày 24 tháng Hai năm 2022
+* Sẽ có 3 bảng xếp hạng ở vòng này: Rarity (70%), Kinship (20%), và XP (10%)
 <p></p>
 
-## [Memers, you ready?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
-* Aavegotchi launches an ongoing meme bounty program!
-* If your meme gets selected, winners will get a **100 GHST** bounty for image memes, and **200 GHST** bounty for video memes directly to your address after the post is live.
+## [Memers, bạn đã sẵn sàng hay chưa?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
+* Aavegotchi triển khai chương trình bounty meme liên tục!
+* Nếu meme của bạn được chọn, người chiến thắng sẽ nhận được **100 GHST** tiền thưởng cho meme hình ảnh và **200 GHST** cho meme video, trực tiếp vào ví của bạn sau khi bài viết được lên sóng.
 <p></p>
 
 ## [AGIPs 21, 22, and 23 are up for voting!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
