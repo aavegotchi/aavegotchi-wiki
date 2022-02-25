@@ -56,7 +56,7 @@ Có hai loại điểm độ hiếm trong trò chơi - Base Rarity Score (dành 
 
 ### Base Rarity Score
 
-Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
+Base Rarity Score (BRS) có được từ tổng số điểm độ hiếm trait của Aavegotchi, các trang bị đã mặc lên và [tuổi](/aging-mechanic) của chúng.
 
 #### Trait BRS
 
