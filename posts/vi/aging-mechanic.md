@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aging Mechanic'
-description: 'Aging Mechanic'
+title: 'Cơ Chế Trưởng Thành'
+description: 'Cơ Chế Trưởng Thành'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -29,9 +29,9 @@ Remember to celebrate your lil fren's birthday! They have one as well!
 
 ## Rationale
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) giới thiệu về cơ chế trưởng thành dành cho Aavegotchi.
 
-Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. Điều này giúp chống lại biến số giữa các Haunt và thưởng cho sự tương tác lâu dài.
 
 This provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. Khi những gotchi vừa mới được triệu hồi lớn dần, chúng sẽ nhanh chóng bắt kịp với những đối thủ già cõi hơn.
 
