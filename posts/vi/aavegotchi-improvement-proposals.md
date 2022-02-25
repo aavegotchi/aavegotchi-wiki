@@ -36,9 +36,9 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST để tạo ra phần thưởng cho Minigame</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>Tăng Sức Mạnh Bỏ Phiếu Cho REALM Parcel</a></li>
 <li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
-<li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
-<li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
-<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>Cung cấp thanh khoản cho GHST trên SyncFutures</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>Thành lập Biệt Đội DAO Treasury</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Thêm GHST vào Cầu Umbria Narni</a></li>
 <li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
 <li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
@@ -632,7 +632,7 @@ table_agip18
 
 <hr />
 
-### Providing GHST Liquidity on SynFutures
+### Cung cấp thanh khoản cho GHST trên SyncFutures
 **Aavegotchi Improvement Proposal #19**
 
 **Tóm Tắt Đề Xuất:**
@@ -667,7 +667,7 @@ table_agip19
 
 <hr />
 
-### Creating the DAO Treasury Taask Force
+### Thành lập Biệt Đội DAO Treasury
 **Aavegotchi Improvement Proposal #20**
 
 **Tóm Tắt Đề Xuất:**
@@ -724,7 +724,7 @@ table_agip20
 
 <hr />
 
-### Adding GHST to the Umbria Narni Bridge
+### Thêm GHST vào Cầu Umbria Narni
 **Aavegotchi Improvement Proposal #21**
 
 **Tóm Tắt Đề Xuất:**
