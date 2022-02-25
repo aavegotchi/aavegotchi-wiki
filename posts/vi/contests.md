@@ -18,7 +18,7 @@ Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều
 <li><a href=#halloween-costume-contest-2020>Cuộc Thi Trang Phục Halloween 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi</a></li>
 <li><a href=#halloween-costume-contest-2021>Cuộc Thi Trang Phục Halloween 2021</a></li>
-<li><a href=#defi-rpg-wearables-meme-contest>DeFi RPG Wearables Meme Contest</a></li>
+<li><a href=#defi-rpg-wearables-meme-contest>Cuộc Thi Meme Trang Phục DeFi RPG</a></li>
 </ol>
 
 </div>
@@ -101,15 +101,15 @@ Top 3 trang phục chiến thắng lần lượt 100, 50, và 25 GHST.
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
 
-## DeFi RPG Wearables Meme Contest
+## Cuộc Thi Meme Trang Phục DeFi RPG
 
-### <span style="color:gold">1st place: Thrax</span>
+### <span style="color:gold">Vị trí thứ nhất: Thrax</span>
 
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
-### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
+### <span style="color:silver">Vị trí thứ hai: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
 
-### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
+### <span style="color:#cd7f32">Vị trí thứ ba: Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
