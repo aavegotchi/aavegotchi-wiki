@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Your gotchi friends are alive! Like you, too, they age — growing from infancy to adulthood.
+Những người bạn gotchi của bạn đang sống! Cũng tương tự như như bạn, chúng lớn lên, từ em bé thành người lớn.
 
-Remember to celebrate your lil fren's birthday! They have one as well!
+Hãy nhớ tổ chức sinh nhật cho người bạn nhỏ của mình nhé! Chúng cũng có sinh nhật đấy!
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
