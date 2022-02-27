@@ -645,19 +645,19 @@ An Ninh Được đỡ đầu bởi kinh nghiệm từ kỹ sư tài chính Trad
 
 Dễ dàng quản lý và bắt đầu sử dụng SynFutures hỗ trợ mô hình một token để thêm thanh khoản, nghĩa là Aavegotchi Treasury chỉ cần gửi GHST thay vì gửi hai loại token và gặp phải nguy cơ tổn thất tạm thời. Bọn mình xin một khoảng GHST trị giá 200k USD để bắt đầu pool. Thanh khoản có thể được rút bất kỳ lúc nào.
 
-Tiềm Năng Phát Triển Khối lượng giao dịch và người dùng đang tăng lên nhanh chóng trên SynFutures. Trong ba tháng qua kể từ khi SynFutures Alpha được triển khai, bọn mình đã đạt được 47k người dùng và 1 tỷ khối lượng giao dịch. All this happened without a native SynFutures token, which could attract even more users.
+Tiềm Năng Phát Triển Khối lượng giao dịch và người dùng đang tăng lên nhanh chóng trên SynFutures. Trong ba tháng qua kể từ khi SynFutures Alpha được triển khai, bọn mình đã đạt được 47k người dùng và 1 tỷ khối lượng giao dịch. Tất cả việc này xảy ra mà không cần có token SynFutures, vốn có thể thu hút nhiều người dùng hơn.
 
-Volume analysis Quickswap vs. SynFutures: Total LPs: 150k / 40K Total traders: 100k / 20k Daily trading volume: $100M / $29M
+Phân tích khối lượng Quickswap vs SynFutures: Tổng LP: 150k / 40k Tổng số trader: 100k / 20k Khối lượng giao dịch hàng ngày: $100M / $29M
 
-SynFutures trading volume makes up ~1/3rd of QuickSwap, and the amount of traders is 1/5th as big as on QuickSwap, however, the trading volume for different pairs is more concentrated. SynFutures has 108 trading pairs while QuickSwap has more than 22k pairs. For example, the daily trading volume of MATIC-USDC on SynFutures closes in on around $9M, while Quickswap reaches $14M.
+Khối lượng giao dịch của SynFutures bằng 1/3 giao dịch trên Quickswap, số lượng trader bằng 1/5, tuy nhiên khối lượng giao dịch cho mỗi cặp có phần tập trung hơn. SynFutures có 108 cặp giao dịch trong khi Quickswap có hơn 22k cặp. Ví dụ, khối lượng giao dịch hàng ngày của MATIC-USDC trên SynFutures đóng vào khoảng 9 triệu USD, trong khi đó Quickswap đạt 14 triệu USD.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
 
-Option 1: Yes, add $200k in GHST
+Phương án 1: Đồng ý, stake GHST trị giá 200k USD
 
-Option 2: No, do not add $200k in GHST
+Phương án 2: Không đồng ý stake GHST trị giá 200k USD
 
-**Voting Period:** 2 - 9 February 2022
+**Thời gian vote:**2 - 9 tháng Hai 2022
 
 **Kết quả:**
 
@@ -672,9 +672,9 @@ table_agip19
 
 **Tóm Tắt Đề Xuất:**
 
-We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
+Bọn mình đề xuất tạo ra Biệt Đội DAO Treasury (DTF). Hội đồng ban đầu sẽ bao gồm 8 thành viên với thâm niêm tham gia DAO trong vòng 6 tháng.
 
-As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
 
 Proposed Mission Statement
 
@@ -714,7 +714,7 @@ Option 2: Yes, without 50k GHST budget
 
 Option 3: No, do not create the DTF
 
-**Voting Period:** 2 - 9 February 2022
+**Thời gian vote:**2 - 9 tháng Hai 2022
 
 **Kết quả:**
 
