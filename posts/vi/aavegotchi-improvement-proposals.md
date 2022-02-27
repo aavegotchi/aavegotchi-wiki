@@ -766,7 +766,7 @@ Hiện tại, Rarity Farming diễn ra không theo chu kỳ và rất khó dự 
 
 *Giải pháp*
 
-If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+Nếu tài trợ một cách đúng đắn, Rarity Farming sẽ diễn ra 3 lần 1 năm. Việc này sẽ phù hợp với bản chất theo mùa mà chúng ta đang theo đuổi, và nếu được lên kế hoạch kỹ lưỡng thì sẽ bên vững dựa trên các sự kiện đấu giá kiếm tiền chen giữa, thu nhập ngân quỹ thông qua staking và các đối tác (ví dụ như bản đề xuất Umbria), và những nguồn thu nhập khác như DAO Grant. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
 
 *Phân Phối*
 
