@@ -602,27 +602,27 @@ Bản vá 0.1e & 0.1f
 
 Các quận không tồn tại khi Citaadel trong bản Litepaper được xuất bản lần đầu. Khi nói vậy, bọn mình luôn tìm một khu vực hoặc nhóm khu vực dành cho Pixelcraft để phát triển những trải nghiệm chuyên sâu có thể tăng giá trị tổng thể của game. Tương tự, một trong những ý tưởng ban đầu (Citaadel trước khi nó được như hiện tại) là giữ lại một quản trường để có thể bỏ phiếu DAO theo thời gian thực. Ý tưởng về việc có được những trải nghiệm quản trị được game hóa đã là một phần trong những ý tưởng đầu tiên, giúp ươm mầm cho chu cầu sở hữu một thế giới ảo dành riêng cho Aavegotchi.
 
-Patch 0.1e & 0.1f proposed allocating 1000 parcels each to Pixelcraft and the AavegotchiDAO in D27/D30. Both Patches passed convincingly:
+Bản Vá 0.1e & 0.1f đề xuất phân phối 1000 gói đất cho Pixelcraft và AavegotchiDAO tại quận 27/30. Cả hai Bản Vá đề đã được thông qua một cách thuyết phục:
 
 Yes: 11.94M GHST / 12.14M GHST
 
 No: 615.78k GHST / 734.92k GHST
 
-Conclusion
+Tổng kết
 
-And that’s it for the first Gotchiverse Patch! Now it is up to you, the AavegotchiDAO, to decide if Patch v0.1 should be implemented or not.
+Và đó là tất cả nội dung của Bản Vá Gotchiverse đầu tiên! Giờ đây sẽ tùy thuộc vào bạn, AavegotchiDAO, để quyết định xem Patch v0.1 sẽ được tiến hành hay không.
 
-Option 1: Yes, implement Patch v0.1
+Phương án 1: Vâng, tiến hành bản vá v0.1
 
-Option 2: No, do not implement Patch v0.1
+Phương án 2: Không, đừng tích hợp Bản vá v0.1
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
 
-Option 1: Yes, implement Patch v0.1
+Phương án 1: Vâng, tiến hành bản vá v0.1
 
-Option 2: No, do not implement Patch v0.1
+Phương án 2: Không, đừng tích hợp Bản vá v0.1
 
-**Voting Period:** 5 - 12 January 2022
+**Thời gian vote:**5 - 12 tháng Mười 2022
 
 **Kết quả:**
 
@@ -637,9 +637,9 @@ table_agip18
 
 **Tóm Tắt Đề Xuất:**
 
-Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
+Kể từ khi Aavegotchi thu thập được nhiều thanh khoản trên các sàn DEX dạng Spot thì giờ đã đến lúc để tạo và tăng cường cho thị trường giao dịch Tương Lai. Các thị trường phái sinh tạo nền khối lượng giao dịch toàn cầu cực lớn và cho phép người dùng tận dụng khoản đầu tư của mình. Việc thêm thanh khoản cho GHST trên SynFutures cho phép người chơi tận dụng longs (shorts) trên thị trường tương lai của Aavegotchi. Nhưng tại sao lại là SynFutures?
 
-Great investors and team background SynFutures is backed by Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, and more. The team’s background is a great combination of traditional finance and DeFi. SynFutures is the only project of its kind which can support the listing of any assets by anyone in a permissionless manner (in less than 30s).
+Với những nhà đầu tư và background khủng, SynFutures được đỡ đầu bởi Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, và nhiều hơn nữa. Background của team là sự kết hợp mạnh mẽ giữa tài chính truyền thống và DeFi. SynFutures là dự án duy nhất có thể hỗ trợ niêm yết bất kỳ tài sản nào, bởi bất kỳ ai, theo dạng mở (trong vòng 30 giây).
 
 Security Backed by solid experience from the TradFi financial engineering and DeFi protocol safety, SynFutures has many risk management features (e.g. anti-flashloan attack, EMA smoothing method, etc.) and has gone through external code audits.
 
