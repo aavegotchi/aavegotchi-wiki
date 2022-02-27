@@ -639,13 +639,13 @@ table_agip18
 
 Kể từ khi Aavegotchi thu thập được nhiều thanh khoản trên các sàn DEX dạng Spot thì giờ đã đến lúc để tạo và tăng cường cho thị trường giao dịch Tương Lai. Các thị trường phái sinh tạo nền khối lượng giao dịch toàn cầu cực lớn và cho phép người dùng tận dụng khoản đầu tư của mình. Việc thêm thanh khoản cho GHST trên SynFutures cho phép người chơi tận dụng longs (shorts) trên thị trường tương lai của Aavegotchi. Nhưng tại sao lại là SynFutures?
 
-Với những nhà đầu tư và background khủng, SynFutures được đỡ đầu bởi Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, và nhiều hơn nữa. Background của team là sự kết hợp mạnh mẽ giữa tài chính truyền thống và DeFi. SynFutures là dự án duy nhất có thể hỗ trợ niêm yết bất kỳ tài sản nào, bởi bất kỳ ai, theo dạng mở (trong vòng 30 giây).
+Những nhà đầu tư và background khủng SynFutures được đỡ đầu bởi Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, và nhiều hơn nữa. Background của team là sự kết hợp mạnh mẽ giữa tài chính truyền thống và DeFi. SynFutures là dự án duy nhất có thể hỗ trợ niêm yết bất kỳ tài sản nào, bởi bất kỳ ai, theo dạng mở (trong vòng 30 giây).
 
-Security Backed by solid experience from the TradFi financial engineering and DeFi protocol safety, SynFutures has many risk management features (e.g. anti-flashloan attack, EMA smoothing method, etc.) and has gone through external code audits.
+An Ninh Được đỡ đầu bởi kinh nghiệm từ kỹ sư tài chính TradFi và sự an ninh của giao thức DeFi, SynFutures có rất nhiều uếu tốt quản trị rủi ro (ví dụ như tất công flashloan, và phương thức EMA mượt mà, v.v.) và đã trải qua nhiều vòng kiểm định code từ bên ngoài.
 
-Easy to manage and start SynFutures supports a single token model to add liquidity which means the Aavegotchi Treasury would only have to deposit GHST instead of offering two tokens with the risk of impermanent loss. We are asking for 200k worth of GHST tokens to kickstart the pool. The liquidity could be withdrawn anytime.
+Dễ dàng quản lý và bắt đầu sử dụng SynFutures hỗ trợ mô hình một token để thêm thanh khoản, nghĩa là Aavegotchi Treasury chỉ cần gửi GHST thay vì gửi hai loại token và gặp phải nguy cơ tổn thất tạm thời. Bọn mình xin một khoảng GHST trị giá 200k USD để bắt đầu pool. Thanh khoản có thể được rút bất kỳ lúc nào.
 
-Growth Potential Trading volume and users are growing fast on SynFutures. For the past 3 months since the SynFutures Alpha launched, we reached 47k users of and $1bn+ in trading volume. All this happened without a native SynFutures token, which could attract even more users.
+Tiềm Năng Phát Triển Khối lượng giao dịch và người dùng đang tăng lên nhanh chóng trên SynFutures. Trong ba tháng qua kể từ khi SynFutures Alpha được triển khai, bọn mình đã đạt được 47k người dùng và 1 tỷ khối lượng giao dịch. All this happened without a native SynFutures token, which could attract even more users.
 
 Volume analysis Quickswap vs. SynFutures: Total LPs: 150k / 40K Total traders: 100k / 20k Daily trading volume: $100M / $29M
 
