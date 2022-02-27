@@ -674,26 +674,26 @@ table_agip19
 
 Bọn mình đề xuất tạo ra Biệt Đội DAO Treasury (DTF). Hội đồng ban đầu sẽ bao gồm 8 thành viên với thâm niêm tham gia DAO trong vòng 6 tháng.
 
-Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
 
-Proposed Mission Statement
+Tuyên bố Sứ mệnh
 
-The Aavegotchi DAO Treasury Taask Force is a dynamic committee assigned with making DAO treasury management proposals to the community and DAO for consideration. The initial mission and goals of the committee will be: 1) Grow and optimize the DAO treasury with an emphasis on safety, security and transparency; 2) Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management; and 3) foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+Biệt Đội Aavegotchi DAO là một hội đồng năng nổ được chỉ định để tạo ra các bản đề xuất quản lý ngân quỹ của DAO để cộng đồng và DAO có thể suy xét. Nhiệm vụ và mục tiêu ban đầu sẽ là: 1) Tăng và tối ưu ngân quỹ DAO với trọng tâm về an toàn, an ninh và minh bạch; 2) Hợp tác với Pixelcraft để hỗ trợ các công cụ phát triển và xác định và nền tảng cho việc quản lý DAO Treasury đang diễn ra, và 3) hỗ trợ và đảm bảo sự phát triển chung của cộng đồng Aavegotchi bằng cách tăng sự quan tâm, chủ động quản bá sự nhận biết, và duy trì sự tương tác của người dùng.
 
-Initial Funding
+Ngân sách ban đầu
 
-After lengthy discussions with the task force, the community, and with coderdan, the DTF would like to request an initial 50,000 GHST budget. The 50,000 GHST budget would be transferred from the DAO Treasury to the 8 multi-signature Gnosis Safe. This budget will greatly expand the flexibility of the DAO in incentivizing and rewarding engaged community members, developers, creatives, and overall contributors. This budget will never be used to reward members of the DTF. The DTF’s core main initiative will be to form a proposal for overall use of the DAO Treasury by investing some of the $10 million DAI/GHST in yield bearing opportunities. With effective deployment of the DAO Treasury, even modest returns would more than pay for the DTF budget request. The DTF will ensure comprehensive accounting and provide community facing documentation to ensure transparency. Some potential uses for the budget include the following:
+Sau cuộc thảo luận dài với biệt đội, cộng đồng, và cùng với coderdan, DTF muốn yêu cầu ngân sách 50k GHST. Ngân sách 50k GHST sẽ được chuyển từ Ngân Quỹ DAO sang chiếc ví Gnosis Safe với 8 chữ ký đồng thuận. Ngân sách này sẽ mở rộng sự linh hoạt của DAO một cách đáng kể trong việc khuyến khích và tặng thưởng cho cộng đồng, lập trình viên, nhà sáng tạo, và những người đóng góp chung. Ngân sách này sẽ không bao giờ được dùng để thưởng cho các thành viên trong DTF. Động lực chính của DTF sẽ là thành lập một bản đề xuất dành cho công dụng chung của DAO Treasury bằng cách đầu tư một ít trong số DAI/GHST trị giá 10 triệu USD trong các cơ hội sinh lãi suất. Với sự phát triển hiệu quả của Ngân Quỹ DAO, thậm chí những lợi nhuận khiêm tốn nhất cũng đủ để chi trả cho những yêu cầu ngân sách từ DTF. DTF sẽ đảm bảo việc kế toán dễ hiểu và cung cấp cho cộng đồng các tài liệu đối chứng để đảm bảo tính minh bạch. Một số công dụng tiềm năng từ ngân sách này bao gồm:
 
-* Reward community engagement and aarcade play
-* Reward game developers and designers
-* Reward community application developers
-* Reward and acknowledge community art contributions
-* Reward, acknowledge and grow content creators and general marketing efforts
-* Expand Aavegotchi and GHST’s opportunities for decentralized financial applications
+* Thưởng cho sự tương tác cộng đồng và trò chơi aaracde
+* Thưởng cho các lập trình viên và nhà phát triển
+* Thưởng cho các lập trình viên phát triển ứng dụng cộng đồng
+* Thưởng cho các cống hiện nghệ thuật được cộng đồng công nhận
+* Thưởng, công nhận, và phát triển mạng lưới content creater và những nỗ lực chung trong việc marketing
+* Mở rộng Aavegotchi và những cơ hợi của GHST trong các ứng dụng tài chính phi tập trung
 
-The DTF is developing a structured plan and multiple potential pilot projects to best utilize these funds. We will work to develop tools to allow maximum transparency into the budget use. Expenses within this 50,000 GHST budget would not require a DAO approval in order to maximize nimble use of the funds. Any further budget requests beyond the initial 50,000 GHST would require a DAO vote.
+DTF đang phát triển một kế hoạch chi tiết và nhiều dự án pilot tiềm năng để có thể tận dụng tốt nhất những quỹ này. Bọn mình sẽ làm việc để phát triển các công cụ nhằm tối ưu hóa sự minh bạch trong việc sử dụng ngân sách. Chi phí nằm trong khoảng 50k GHST sẽ không cần sự đồng ý từ DAI để sử dụng nhanh nhất khoảng tiền này. Bất kỳ khoảng tiền nào được yêu cầu mà lớn hơn 50k GHST sẽ cần phải có sự bỏ phiếu từ DAO.
 
-The initial 8 members of the DTF
+8 thành viên ban đầu của DTF
 
 * BowtiedNerd
 * Mori
@@ -704,15 +704,15 @@ The initial 8 members of the DTF
 * Swappi
 * Dr Wagmi
 
-We appreciate the Aavegotchi community’s support and look forward to our first proposal.
+Bọn mình rất biết yên sự hỗ trợ của cộng đồng Aavegotchi và mong chờ bản đề xuất đầu tiên của bọn mình.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
 
-Option 1: Yes, with 50k GHST budget
+Phương án 1: Vâng, với ngân sách 50k GHST
 
-Option 2: Yes, without 50k GHST budget
+Phương án 2: Vâng, nhưng không có ngân sách 50k GHST
 
-Option 3: No, do not create the DTF
+Phương án 3: Không, đừng tạo ra DTF
 
 **Thời gian vote:**2 - 9 tháng Hai 2022
 
