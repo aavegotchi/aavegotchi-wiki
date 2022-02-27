@@ -588,19 +588,19 @@ Những bản SigProp trong tương lai sẽ được tạo ra để giải quy�
 
 Bản vá 0.1d
 
-The Gotchiverse Litepaper mentions that Kinship will be exchanged for a serving of Alchemica, essentially “burning” kinship. We certainly want to maintain the idea of a “kinship boost” for channeling but after thinking more deeply, we now believe there is a better way to achieve this.
+Gotchiverse Litepaper đã đề cập rằng Kinship sẽ được trao đổi thành một lượng Alchemica, nghĩa là "đốt" kinship. Bọn mình chắc chắn muốn duy kỳ ý tương về việc dùng kinship để truyền nhưng sau khi suy nghĩ sâu hơn, giờ bọn mình tin rằng có cách tốt hơn để đạt được việc này.
 
-An “achievements” approach does not require depleting an Aavegotchi’s kinship. Instead, high kinship Aavegotchis will channel Alchemica at a slightly higher rate, depending on their achievement level.
+Một giải pháp "thành tựu" không yêu cầu phải xóa kinship của Aavegotchi đã được đề xuất. Thay vào đó, những Aavegotchi có kinship cao sẽ truyền Alchemica ở mức cao hơn một chút, tùy vào mức thành tựu.
 
-The SigProp for Patch 0.1d also passed:
+Bản SigProp dành cho Bản vá 0.1d cũng sẽ được thông qua:
 
 Yes: 12.64M GHST
 
 No: 431.93k GHST
 
-Patch 0.1e & 0.1f
+Bản vá 0.1e & 0.1f
 
-Districts did not exist as a Citaadel concept when the Litepaper was first published. That said, we have always envisioned an area or areas for Pixelcraft to develop in-depth experiences that add value to the overall game. Likewise, one of our earliest ideas, (predating the Citaadel itself!) was to reserve a town square for real time DAO voting. The idea of having a gamified governance experience was one of the very earliest ideas seeding Aavegotchi’s need for its own virtual world.
+Các quận không tồn tại khi Citaadel trong bản Litepaper được xuất bản lần đầu. Khi nói vậy, bọn mình luôn tìm một khu vực hoặc nhóm khu vực dành cho Pixelcraft để phát triển những trải nghiệm chuyên sâu có thể tăng giá trị tổng thể của game. Tương tự, một trong những ý tưởng ban đầu (Citaadel trước khi nó được như hiện tại) là giữ lại một quản trường để có thể bỏ phiếu DAO theo thời gian thực. Ý tưởng về việc có được những trải nghiệm quản trị được game hóa đã là một phần trong những ý tưởng đầu tiên, giúp ươm mầm cho chu cầu sở hữu một thế giới ảo dành riêng cho Aavegotchi.
 
 Patch 0.1e & 0.1f proposed allocating 1000 parcels each to Pixelcraft and the AavegotchiDAO in D27/D30. Both Patches passed convincingly:
 
