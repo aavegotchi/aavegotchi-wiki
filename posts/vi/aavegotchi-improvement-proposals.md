@@ -735,19 +735,19 @@ Umbria Narni có thể chuyển tối đa 20% tổng số GHST thanh khoản tro
 
 Hiện nay đang có lượng token GHST trị giá 14000 USD mỗi bên. Số tiền này chủ yếu được tài trợ bởi Umbria. Điều này đã cho phép chiếc cầu có thể chuyển tối đã lượng GHST 700 USD mỗi giao dịch - vốn rất tốt, nhưng bọn mình để ý rằng nhiều người muốn chuyển nhiều hơn trong mỗi giao dịch.
 
-We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
+Bọn mình đề xuất AavegotchiDAO thêm lượng token GHST trị giá 100k USD vào mỗi pool của cầu (1. Polygon và 2. Ethereum). Có một vài lợi ích khi làm vậy:
 
-The Aavegotchi DAO will earn a 0.2% bridging fee whenever anyone uses the bridge to migrate GHST tokens between Ethereum <--> Polygon. So across time, the Aavegotchi DAO will make money. If the Narni bridge ever becomes an unnecessary solution, the Aavegotchi DAO can easily remove their liquidity and enjoy their profit.
+AavegotchiDAO sẽ kiếm được 0,2% phí chuyển bất cứ khi nào có ai đó dùng cầu để chuyển token giữa Ethereum <--> Polygon. Vậy nên trong suốt quản thời gian stake, Aavegotchi sẽ kiếm được tiền. Nếu cầu Narni trở thành một giải pháp không cần thiết, AavegotchiDAO chỉ cần rút một cách đơn giản và tận hưởng lợi nhuận của mình.
 
-Transactions up to approximately $21,000 of GHST will now be possible.
+Giờ đây, người dùng sẽ có thể chuyển những giao dịch GHST trị giá 20k USD.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
 
-Option 1: Yes, add $200k GHST
+Phương án 1: Đồng ý, stake GHST trị giá 200k USD
 
-Option 2: No, do not add any GHST
+Phương án 2: Không đồng ý stake GHST
 
-**Voting Period:** 8 - 15 February 2022
+**Thời gian vote:**8 - 15 tháng Hai 2022
 
 **Kết quả:**
 
@@ -762,7 +762,7 @@ Option 2: No, do not add any GHST
 
 *Vấn đề*
 
-Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
+Hiện tại, Rarity Farming diễn ra không theo chu kỳ và rất khó dự đoán khi nào Aavegotchi sẽ ra mắt. Điều này khiến các nhà đầu tư tự hỏi rằng liệu họ có nên giữ Gotchi và Trang Phục, hay họ nên flip để tìm ROI tốt hơn trong những vòng kế tiếp hay không. Cộng đồng rất muốn có được sự chắc chắn / dự đoán cho cả về mặt đầu tư và mục đích lên kế hoạch.
 
 *Giải pháp*
 
@@ -797,7 +797,7 @@ Option 2: Yes, but different params
 
 Option 3: No, don't launch RF SZN 3
 
-**Voting Period:** 8 - 15 February 2022
+**Thời gian vote:**8 - 15 tháng Hai 2022
 
 **Kết quả:**
 
