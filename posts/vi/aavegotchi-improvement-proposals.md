@@ -766,36 +766,36 @@ Hiện tại, Rarity Farming diễn ra không theo chu kỳ và rất khó dự 
 
 *Giải pháp*
 
-Nếu tài trợ một cách đúng đắn, Rarity Farming sẽ diễn ra 3 lần 1 năm. Việc này sẽ phù hợp với bản chất theo mùa mà chúng ta đang theo đuổi, và nếu được lên kế hoạch kỹ lưỡng thì sẽ bên vững dựa trên các sự kiện đấu giá kiếm tiền chen giữa, thu nhập ngân quỹ thông qua staking và các đối tác (ví dụ như bản đề xuất Umbria), và những nguồn thu nhập khác như DAO Grant. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+Nếu tài trợ một cách đúng đắn, Rarity Farming sẽ diễn ra 3 lần 1 năm. Việc này sẽ phù hợp với bản chất theo mùa mà chúng ta đang theo đuổi, và nếu được lên kế hoạch kỹ lưỡng thì sẽ bên vững dựa trên các sự kiện đấu giá kiếm tiền chen giữa, thu nhập ngân quỹ thông qua staking và các đối tác (ví dụ như bản đề xuất Umbria), và những nguồn thu nhập khác như DAO Grant. Tác giả của bản đề xuất tin rằng Rarity Farming là một phần quan trọng của hệ sinh thái Gotchiverse, và thứ có thể xây dựng và cả thiện chứ không phải bỏ mặc.
 
 *Phân Phối*
 
-For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
+Với Mùa 3, mình đề xuất chúng ta sẽ trở lại mô tỷ lệ phần thưởng tiêu chuẩn, như đã được thử và trải nghiệm trong Rarity Farming Mùa 1. Các tân binh giờ đây đã trưởng thành và sẵn sàng thi đấu với những người anh cả. Điều này có nghĩa là 70% tiền thưởng sẽ được dành cho bản xếp hạng BRS, 20% dành cho bản xếp hạng kinship và 10% sẽ dành cho bản xếp hạng XP.
 
-Based on Forum discussions this would be the final model for SZN3:
+Dựa trên những cuộc thảo luận từ Forum thì đây sẽ là mô hình cuối cùng của SZN3:
 
-* 4 Rounds (2 weeks each)
-* 1.5 Million GHST Rewards Pool (1.4m GHST funded already)
+* 4 vòng (2 tuần mỗi vòng)
+* 1,5 triệu GHST cho quỹ phần thưởng GHST (1.4 triệu GHST đã được tài trợ sẵn)
 * 70% BRS
 * 20% Kinship
 * 10% XP
 * Top 5k Gotchis (20%) → Top 7.5k Gotchis (30%)
-* 3 Seasons per Year (approx. schedule below)
-* SZN 3: February - March
-* SZN 4: June - July
-* SZN 5: October - November
+* 3 Mùa mỗi năm (xem bảng bên dưới)
+* SZN 3: Tháng 2 - tháng 3
+* SZN 4: tháng 6 - tháng 7
+* SZN 5: tháng 10 - tháng 11
 
-Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+Cập nhật phần thưởng: [Mô hình phát thưởng Rarity Farming SZN 3](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
+Do thiếu đi 100k GHST so với con số đề xuất nên bản đề xuát này cũng sẽ bao gồm yêu cầu tài trợ số lượng token còn lại được lấy ra từ ngân quỹ AavegotchiDAO.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
 
-Option 1: Yes, launch RF SZN 3
+Phương án 1: Có, hãy triển khai Haunt 3
 
-Option 2: Yes, but different params
+Phương án 2: Có, nhưng với những con số khác
 
-Option 3: No, don't launch RF SZN 3
+Phương án 3: Không, đừng triển khai RF SZN 3
 
 **Thời gian vote:**8 - 15 tháng Hai 2022
 
@@ -810,31 +810,31 @@ Option 3: No, don't launch RF SZN 3
 
 **Tóm Tắt Đề Xuất:**
 
-*What is GoodGhosting?*
+*GoodGhosting là gì?*
 
-GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
+GoodGhosting là một trò chơi tiết kiệm không thiệt hại, được xây dựng dựa trên Aave. Bọn mình đã triển khai những pool tiết kiệm đầu tiên trên Polygon, trong suốt mùa hè năm 2021. Hiện tại, bọn mình đã giúp hơn 7k người dùng tiết hiện hơn 600k Usd tài sản trên Polygon. Tất cả khi thu thập một số NFT đẹp và leo bảng xếp hạng.
 
-The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
+Đội ngũ GoodGhosting tin vào một thế giới mà việc tiết kiệm đáng được thưởng, dễ dàng, và vui nhộn. Nhưng, việc tiết kiệm truyền thống không hề giống vậy. Bọn mình xây dựng các ứng dụng tiết kiệm xã hội phi tập trung kết hợp với các yếu tố thiết kế game nhằm mục đích tiết kiệm. Bọn mình muốn giúp cộng đồng phát triển thói quen tài chính tốt hơn và có được niềm vui song song đó.
 
-*Potential collaboration*
+*Quan Hệ Hợp Tác Tiềm Năng*
 
-We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
+Bọn mình muốn cộng đồng GoodGhosting biết đến Aaegotchi, bằng cách tạo ra một quỹ tiết kiệm theo chủ đề Aavegotchi. Quỹ này sẽ yêu cầu người chơi tiết kiệm token GHST, kiếm GHST từ đó. Bọn ình thấy rằng đây là một cơ hội “va chạm” rất tốt dành cho cả 2 cộng đồng.
 
-Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+Aavegotchi là một dự án độc đáo mà mình đã theo dõi từ lúc bắt đầu. Với cả vai trò người chơi cũng như cư dân của hệ sinh thái. Đúng vậy, cả người chơi và cư dân của hệ sinh thái. Bọn mình thấy rằng đây là một cơ hội “va chạm” rất tốt dành cho cả 2 cộng đồng
 
-Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
+Ngoài việc mời tất cả người chơi Aavegotchi và DAO cụ họ tham gia vào pool tiết kiệm GHST sắp tới, GoodGhosting cũng muốn yêu cầu AavegotchiDAO đồng tài trợ cho pool.
 
-*Our Request*
+*Yêu Cầu Của Bọn Mình*
 
-* A total of 7000 GHST in sponsorship for this savings pool. To be shared between all winning players.
-* The ability to reward successful savers with Gotchi XP, or alternatively FRENS. Considering GoodGhosting an extensive mini-game that encourages people to stack more GHST.
-* An allocation of Aavegotchi NFTs (worth up to 3000 GHST) to be raffled to random participants and/or to all winners. These could be Wearables, Gotchi’s, Raffle tickets or Realm parcels.
+* Một khoảng tài trợ trị giá 7k GHST cho pool tiết kiệm này. Chia cho tất cả người chơi chiến thắng.
+* Khả năng thưởng cho người tiết kiệm thành công với Gotchi XP, hoặc thay bằng FRENS. Hãy xem GoodGhosting là một trò minigame dài hạn, khuyến khích người chơi thu thập thêm nhiều GHST.
+* Phần thưởng Aavegotchi NFT (trị giá 3000 GHST) sẽ được xổ số cho những người tham gia/chiến thằng ngẫu nhiên. Đây có thể là Trang Phục, Gotchi, vé Số hoặc gói đất Realm.
 
-These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
+Phần thưởng này có thể do Aavegotchi hoặc GoodGhosting mua trên Baazaar. Với những phần thưởng cộng thêm này, bọn mình mong sẽ mang đến lợi ích cho một ít người chiến thắng thông qua hệ thống xổ số, hoặc /và một phần thưởng nhỏ hơn để phân phối dễ dàng cho tất cả người chiến thắng.
 
-*What can GoodGhosting bring to the table?*
+*GoodGhosting có thể mang đến những gì?*
 
-* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). To be shared between all winning players.
+* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). Chia cho tất cả người chơi chiến thắng.
 * An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
 * We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
 * We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
