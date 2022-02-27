@@ -1,56 +1,56 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+title: 'Experiencia del Aavegotchi (XP)'
+description: '¡Aprende sobre la experiencia del Aavegotchi (XP) aquí!'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+Aavegotchis sube de nivel a medida que ganan más experiencia (XP). Pero, ¿cuánta XP necesitan exactamente para cada nivel? Analistas de datos, ¡tenemos algunos números para que rompáis!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#gaining-xp>Gaining XP</a></li>
-<li><a href=#formula>Formula</a></li>
-<li><a href=#experience-table>Experience Table</a></li>
-<li><a href=#tracking-xp-received>Tracking XP received</a></li>
+<li><a href=#gaining-xp>Ganando XP</a></li>
+<li><a href=#formula>Fórmula</a></li>
+<li><a href=#experience-table>Tabla de experiencia</a></li>
+<li><a href=#tracking-xp-received>Seguimiento de XP recibida</a></li>
 </ol>
 
 </div>
 
-## Gaining XP
-Aavegotchis receive experience (XP) for:
-* Voting in [AavegotchiDAO](/dao)
-* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
-* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+## Ganando XP
+Los Aavegotchis reciben experiencia (XP) por:
+* Votar en [AavegotchiDAO](/dao)
+* Participación en eventos celebrados en Aavegotchi Discord (se publicará un Typeform durante el evento para que la gente complete y reciba XP por sus Gotchis)
+* Jugando [minijuegos](/minigames) (solo durante ciertos periodos según lo anunciado en Discord)
 
-## Formula
-The following formula is used to determine the XP required for the next level:
+## Fórmula
+La siguiente fórmula se utiliza para determinar el XP requerido para alcanzar el siguiente nivel:
 
-(Current Level ^ 2) ÷ Constant, where Constant = 0.02
+(Nivel actual ^ 2) Constante, donde Constante = 0.02
 
-## Experience Table
+## Tabla de experiencia
 
-The table below shows the XP required for each level. Before delving into the data, here are some helpful definitions of the key terms used:
+La siguiente tabla muestra el XP requerido para cada nivel. Antes de profundizar en los datos, aquí hay algunas definiciones útiles de los términos clave utilizados:
 
-* Current Level: Current Level of your Gotchi
-* Next Level: Next Level of your Gotchi
-* XP: Experience required to reach the next level that is specified in the **Next Level** column
-* Difference: Difference in the XP required to reach the level in the **Next Level** column compared to the same column in the previous row
-* Constant: A fixed value that is used in the computation of the XP required for the next level Formula
+* Nivel Actual: Nivel Actual de tu Gotchi
+* Siguiente nivel: Siguiente nivel de tu Gotchi
+* EXP: Se requiere experiencia para alcanzar el siguiente nivel que se especifica en la columna **de siguiente nivel**
+* Diferencia: Diferencia en la XP necesaria para alcanzar el nivel en la columna **Nivel siguiente** en comparación con la misma columna en la fila anterior
+* Constante: Un valor fijo que se utiliza en el cálculo de la XP requerido para el siguiente nivel de Fórmula
 
-The maximum level that an aavegotchi could attain is 99. Any changes to the maximum level could be done through [AavegotchiDAO](/dao) proposals.
+El nivel máximo que un aavegotchi podría alcanzar es 99. Cualquier cambio en el nivel máximo podría hacerse a través de propuestas en el [AavegotchiDAO](/dao).
 
-*Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
+*Nota: Los avegotchis comienza en el Nivel 1. El "nivel 0" está incluido en la tabla para las personas interesadas en aplicar la fórmula y observar cómo funciona el cálculo de XP.*
 
-table_XP
+tabla_XP
 
-## Tracking XP received
+## Seguimiento de XP recibida
 
-Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+Nuestro amigo el arquitecto [](/aarchitect) Frank Pfeift ha creado una aplicación para rastrear la XP que un Gotchi ha recibido a lo largo de su vida.
 
-His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
+Se puede acceder a su aplicación [aquí](https://aavegotchi-xp-dashboard.vercel.app). Tu Gotchi ID son los dígitos que se encuentran al final de la URL en tu página de perfil del [Gotchi](/aavegotchi-profile).
