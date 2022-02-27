@@ -554,39 +554,39 @@ Dù Gotchiverse vẫn chưa lên sóng nhưng bọn mình đã xác định đư
 
 Bản vá 0.1a
 
-Sau khi bọn mình đã hoàn tất các chi tiết then chốt ví dụ như giá xây dựng và mức độ xây dựng trong bản Whitepaper sắp tới, bọn mình đã khám phá ra một trong những dự đoán chủ yếu của bọn mình đã đánh giá thấp số lượng Alchemica trong mỗi gói đất về mặt tổng số lượng. The patch will increase the amount of Alchemica under each parcel to match our initial Alchemica tokens’ supplies, allocations, and emissions rates.
+Sau khi bọn mình đã hoàn tất các chi tiết then chốt ví dụ như giá xây dựng và mức độ xây dựng trong bản Whitepaper sắp tới, bọn mình đã khám phá ra một trong những dự đoán chủ yếu của bọn mình đã đánh giá thấp số lượng Alchemica trong mỗi gói đất về mặt tổng số lượng. Bản vá sẽ giúp tăng lượng Alchemica của mỗi gói đất để chúng phù hợp với lượng token Alchemica, sự phân bổ, và mức xuất ban đầu.
 
-The SigProp for Patch 0.1a passed with the following numbers:
+Bản SigProp dành cho Bản vá 0.1a được thông qua với các con số như sau:
 
-Yes: 13.14M GHST
+Yes: 13. GHST
 
 No: 41.85k GHST
 
-Patch 0.1b
+Bản vá 0.1b
 
-Although our original intention was to make boosts one-time only, it is clear that many in the community interpreted the GEO paper to mean that boosts would be replenished. This patch allows boosts to also replenish together with the parcel itself after each Great Battle.
+Dù ý định ban đầu của bọn mình là làm cho boost chỉ có giá trị sử dụng một lần, nhưng rõ ràng nhiều thành viên trong cộng đồng lại hiểu rằng boost có thể tái tạo. Bản vá này sẽ cho phép boost tự tái tạo sau mỗi trận Đại Chiến.
 
-However, unlike parcels, the replenish rate is a fixed amount that is the same per round. For example, a parcel with a “5” FUD boost receives 5 servings of FUD per boost round.
+Tuy nhiên, không giống như các gói đất, mức độ tái tạo là một số lượng cố định ở mỗi vòng. Ví dụ, một gói đất với "5" FUD tăng cường sẽ được tăng 5 FUD mỗi vòng.
 
-The SigProp for Patch 0.1b also passed pretty convincingly:
+Bản SigProp dành cho bản vá 0.1b cũng đã được thông qua một cách thuyết phục:
 
 Yes: 10.36M GHST
 
 No: 2.37M GHST
 
-Patch 0.1c
+Bản vá 0.1c
 
-Even with Patch 0.1b passed, boosts will still be undervalued compared to the value the market has assigned to them, relative to a similar parcel with no boosts. Patch 0.1c proposed increasing boosts by 5x to bring the value of a boost closer to what the market is currently valuing it at.
+Thậm chí khi Bản Vá 01. b đã được thông qua, boost vẫn sẽ có giá trị thấp nếu so với giá trị mà thị trường đã gán cho chúng, nếu so với một gói đất tương tự mà không có boost. Bản vé 0.1c đã đề xuất về việc tăng cường boost lên 5x để mang giá trị của boost đến gần hơn giá trị hiện tại trên thị trường.
 
-The SigProp for Patch 0.1c did not pass and WILL NOT BE INCLUDED in Patch v0.1:
+Bản SigProp dành cho Bản vá 0.1c đã không thông qua và SẼ KHÔNG NẰM TRONG Bản vá v0.1:
 
 Yes: 5.85M GHST
 
 No: 8.04M GHST
 
-Future SigProps may be created to address this issue separately.
+Những bản SigProp trong tương lai sẽ được tạo ra để giải quyết từng phần của vấn đề này.
 
-Patch 0.1d
+Bản vá 0.1d
 
 The Gotchiverse Litepaper mentions that Kinship will be exchanged for a serving of Alchemica, essentially “burning” kinship. We certainly want to maintain the idea of a “kinship boost” for channeling but after thinking more deeply, we now believe there is a better way to achieve this.
 
