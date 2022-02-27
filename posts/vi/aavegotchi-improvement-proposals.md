@@ -834,22 +834,22 @@ Phần thưởng này có thể do Aavegotchi hoặc GoodGhosting mua trên Baaz
 
 *GoodGhosting có thể mang đến những gì?*
 
-* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). Chia cho tất cả người chơi chiến thắng.
-* An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
-* We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
-* We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
-* Some very special NFTs by our in-house artist Mali3D
-* An increased GG score for all successful savers
+* Hơn 4000 WMATIC được tài trợ (từ quỹ phát triển DeFiForAll). Chia cho tất cả người chơi chiến thắng.
+* Nhiều người dùng mới cho hệ sinh thái Aavegotchi. Hiện tại đã có hơn 20500 người tham gia vào pool tiết kiệm Celo và Polygon của bọn mình. Đa số họ đều chưa biết đến Aavegotchi hoặc GHST, và nhiều người có ý định tham gia Gotchigang.
+* Bọn mình sẽ tạo một video Youtube để giới thiệu về Aavegotchi, và cách để sở hữu token GHST trên Polygon. Quảng bá đến cho người dùng của bọn mình.
+* Bọn mình sẽ cho phép người dùng chơi GoodGhosting với Aavegotchi làm hình đại diện. Cái này sẽ hiện lên trong tab Players, cũng như những trang hồ sơ người chơi cá nhân trên Goodghosting.com
+* Một số NFT rất đặt biệt được tạo ra từ Mali3D, họa sĩ của chính dự án
+* Điểm GG cộng thêm cho tất cả những người sử dụng thành công
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
 
-Option 1: Yes, 10k GHST for rewards + XP
+Phương án 1: Vâng, thưởng 10k GHST + XP
 
-Option 2: Yes, but under different terms
+Phương án 2: Vâng, nhưng điều kiện cần thay đổi
 
-Option 3: No, do not support GG
+Phương án 3: Không, không hỗ trợ GG
 
-**Voting Period:** 9 - 15 February 2022
+**Thời gian vote:**9 - 15 tháng Hai 2022
 
 **Kết quả:**
 
