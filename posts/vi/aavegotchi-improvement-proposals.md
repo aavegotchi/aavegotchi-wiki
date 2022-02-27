@@ -729,11 +729,11 @@ table_agip20
 
 **Tóm Tắt Đề Xuất:**
 
-The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
+Umbria Narni Bridge đã tích hợp GHST token, và đang giúp hỗ trợ quá trình chuyển dịch GHST cực rẻ giữa Ethereum <--> Polygon, nếu so sánh với cầu chính thức của Polygon. Umbria Narni tính phí chuyển mạng vòa khoảng 1/2 so với cầu chính thức của polygon và thâm chí là nhanh hơn rất nhiều (4 phút, so với > 1 giờ).
 
-The Umbria Narni bridge protocol can bridge a maximum of 20% of its total GHST liquidity, per bridging event. For example, with $100k of GHST tokens in one side of the pool, the bridge can migrate a maximum of $20k of GHST per single transaction.
+Umbria Narni có thể chuyển tối đa 20% tổng số GHST thanh khoản trong mỗi lần chuyển. Ví dụ, với lượng token GHST 100k có trong một bên của pool, cầu có thể chuyển tối đa lượng GHST trị giá 20k USD trong mỗi giao dịch.
 
-Currently there is approximately $14,000 of GHST tokens on each side of the bridge. This is mostly funded by the Umbria team. This enables the bridge to be able to bridge a maximum of $700 of GHST tokens per transaction - which is pretty good, but we are aware that some users want to bridge much more in a single transaction.
+Hiện nay đang có lượng token GHST trị giá 14000 USD mỗi bên. Số tiền này chủ yếu được tài trợ bởi Umbria. Điều này đã cho phép chiếc cầu có thể chuyển tối đã lượng GHST 700 USD mỗi giao dịch - vốn rất tốt, nhưng bọn mình để ý rằng nhiều người muốn chuyển nhiều hơn trong mỗi giao dịch.
 
 We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
 
