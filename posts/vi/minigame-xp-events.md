@@ -70,7 +70,7 @@ table_sushiVader2
 
 ## Pinbaal
 
-Event Duration: 29 January - 6 February 2022
+Thời gian: 29 tháng Giêng - 6 Hai 2022
 
 table_pinbaal
 

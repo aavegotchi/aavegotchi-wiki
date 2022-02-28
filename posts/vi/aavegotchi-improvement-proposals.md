@@ -36,14 +36,14 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST để tạo ra phần thưởng cho Minigame</a></li>
 <li><a href=#adding-voting-power-to-realm-parcels>Tăng Sức Mạnh Bỏ Phiếu Cho REALM Parcel</a></li>
 <li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
-<li><a href=#providing-ghst-liquidity-on-synfutures>Providing GHST Liquidity on SynFutures</a></li>
-<li><a href=#creating-the-dao-treasury-taask-force>Creating the DAO Treasury Taask Force</a></li>
-<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
-<li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
-<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>Cung cấp thanh khoản cho GHST trên SyncFutures</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>Thành lập Biệt Đội DAO Treasury</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>Thêm GHST vào Cầu Umbria Narni</a></li>
+<li><a href=#launch-rarity-farming-szn-3>Triển Khai Rarity Farming Mùa 3</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>Đồng Tài Trợ Cho Quỹ GoodGhosting</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -546,83 +546,83 @@ table_agip17
 
 *Vấn đề:*
 
-Although the Gotchiverse is not yet live, we have identified a few areas that we believe should be adjusted before the game is released, and would like to bring these items to the community’s attention for discussion and a decision on whether or not to enact.
+Dù Gotchiverse vẫn chưa lên sóng nhưng bọn mình đã xác định được một vài khu vực mà bọn mình tin rằng nên được điều chỉnh trước khi game ra mắt, và muốn những khía cạnh này nhận được sự chú ý của cộng đồng để thảo luận và quyết định xem có nên thực thi hay không.
 
-To ensure no single proposed change can revert the entire batch, we originally created six separate snapshot SigProp Proposals. This CoreProp combines the successful SigProps into the first Gotchiverse Patch v0.1!
+Để đảm bảo không có thay đổi nào khiến đảo lộn cả lô cập nhật, ban đầu chúng tôi đã tạo ra sáu bản đề xuất SigProp riêng. Bản CoreProp này kết hợp các bản SigProp đã thành công vào trong Bản vá Gotchiverse v0.1!
 
 *Giải pháp:*
 
-Patch 0.1a
+Bản vá 0.1a
 
-As we were finalizing key details such as build costs and harvesting rates for the upcoming Whitepaper, we discovered that one of our key assumptions had undervalued the amount of Alchemica in each parcel relative to total supply. The patch will increase the amount of Alchemica under each parcel to match our initial Alchemica tokens’ supplies, allocations, and emissions rates.
+Sau khi bọn mình đã hoàn tất các chi tiết then chốt ví dụ như giá xây dựng và mức độ xây dựng trong bản Whitepaper sắp tới, bọn mình đã khám phá ra một trong những dự đoán chủ yếu của bọn mình đã đánh giá thấp số lượng Alchemica trong mỗi gói đất về mặt tổng số lượng. Bản vá sẽ giúp tăng lượng Alchemica của mỗi gói đất để chúng phù hợp với lượng token Alchemica, sự phân bổ, và mức xuất ban đầu.
 
-The SigProp for Patch 0.1a passed with the following numbers:
+Bản SigProp dành cho Bản vá 0.1a được thông qua với các con số như sau:
 
-Yes: 13.14M GHST
+Yes: 13. GHST
 
 No: 41.85k GHST
 
-Patch 0.1b
+Bản vá 0.1b
 
-Although our original intention was to make boosts one-time only, it is clear that many in the community interpreted the GEO paper to mean that boosts would be replenished. This patch allows boosts to also replenish together with the parcel itself after each Great Battle.
+Dù ý định ban đầu của bọn mình là làm cho boost chỉ có giá trị sử dụng một lần, nhưng rõ ràng nhiều thành viên trong cộng đồng lại hiểu rằng boost có thể tái tạo. Bản vá này sẽ cho phép boost tự tái tạo sau mỗi trận Đại Chiến.
 
-However, unlike parcels, the replenish rate is a fixed amount that is the same per round. For example, a parcel with a “5” FUD boost receives 5 servings of FUD per boost round.
+Tuy nhiên, không giống như các gói đất, mức độ tái tạo là một số lượng cố định ở mỗi vòng. Ví dụ, một gói đất với "5" FUD tăng cường sẽ được tăng 5 FUD mỗi vòng.
 
-The SigProp for Patch 0.1b also passed pretty convincingly:
+Bản SigProp dành cho bản vá 0.1b cũng đã được thông qua một cách thuyết phục:
 
 Yes: 10.36M GHST
 
 No: 2.37M GHST
 
-Patch 0.1c
+Bản vá 0.1c
 
-Even with Patch 0.1b passed, boosts will still be undervalued compared to the value the market has assigned to them, relative to a similar parcel with no boosts. Patch 0.1c proposed increasing boosts by 5x to bring the value of a boost closer to what the market is currently valuing it at.
+Thậm chí khi Bản Vá 01. b đã được thông qua, boost vẫn sẽ có giá trị thấp nếu so với giá trị mà thị trường đã gán cho chúng, nếu so với một gói đất tương tự mà không có boost. Bản vé 0.1c đã đề xuất về việc tăng cường boost lên 5x để mang giá trị của boost đến gần hơn giá trị hiện tại trên thị trường.
 
-The SigProp for Patch 0.1c did not pass and WILL NOT BE INCLUDED in Patch v0.1:
+Bản SigProp dành cho Bản vá 0.1c đã không thông qua và SẼ KHÔNG NẰM TRONG Bản vá v0.1:
 
 Yes: 5.85M GHST
 
 No: 8.04M GHST
 
-Future SigProps may be created to address this issue separately.
+Những bản SigProp trong tương lai sẽ được tạo ra để giải quyết từng phần của vấn đề này.
 
-Patch 0.1d
+Bản vá 0.1d
 
-The Gotchiverse Litepaper mentions that Kinship will be exchanged for a serving of Alchemica, essentially “burning” kinship. We certainly want to maintain the idea of a “kinship boost” for channeling but after thinking more deeply, we now believe there is a better way to achieve this.
+Gotchiverse Litepaper đã đề cập rằng Kinship sẽ được trao đổi thành một lượng Alchemica, nghĩa là "đốt" kinship. Bọn mình chắc chắn muốn duy kỳ ý tương về việc dùng kinship để truyền nhưng sau khi suy nghĩ sâu hơn, giờ bọn mình tin rằng có cách tốt hơn để đạt được việc này.
 
-An “achievements” approach does not require depleting an Aavegotchi’s kinship. Instead, high kinship Aavegotchis will channel Alchemica at a slightly higher rate, depending on their achievement level.
+Một giải pháp "thành tựu" không yêu cầu phải xóa kinship của Aavegotchi đã được đề xuất. Thay vào đó, những Aavegotchi có kinship cao sẽ truyền Alchemica ở mức cao hơn một chút, tùy vào mức thành tựu.
 
-The SigProp for Patch 0.1d also passed:
+Bản SigProp dành cho Bản vá 0.1d cũng sẽ được thông qua:
 
 Yes: 12.64M GHST
 
 No: 431.93k GHST
 
-Patch 0.1e & 0.1f
+Bản vá 0.1e & 0.1f
 
-Districts did not exist as a Citaadel concept when the Litepaper was first published. That said, we have always envisioned an area or areas for Pixelcraft to develop in-depth experiences that add value to the overall game. Likewise, one of our earliest ideas, (predating the Citaadel itself!) was to reserve a town square for real time DAO voting. The idea of having a gamified governance experience was one of the very earliest ideas seeding Aavegotchi’s need for its own virtual world.
+Các quận không tồn tại khi Citaadel trong bản Litepaper được xuất bản lần đầu. Khi nói vậy, bọn mình luôn tìm một khu vực hoặc nhóm khu vực dành cho Pixelcraft để phát triển những trải nghiệm chuyên sâu có thể tăng giá trị tổng thể của game. Tương tự, một trong những ý tưởng ban đầu (Citaadel trước khi nó được như hiện tại) là giữ lại một quản trường để có thể bỏ phiếu DAO theo thời gian thực. Ý tưởng về việc có được những trải nghiệm quản trị được game hóa đã là một phần trong những ý tưởng đầu tiên, giúp ươm mầm cho chu cầu sở hữu một thế giới ảo dành riêng cho Aavegotchi.
 
-Patch 0.1e & 0.1f proposed allocating 1000 parcels each to Pixelcraft and the AavegotchiDAO in D27/D30. Both Patches passed convincingly:
+Bản Vá 0.1e & 0.1f đề xuất phân phối 1000 gói đất cho Pixelcraft và AavegotchiDAO tại quận 27/30. Cả hai Bản Vá đề đã được thông qua một cách thuyết phục:
 
 Yes: 11.94M GHST / 12.14M GHST
 
 No: 615.78k GHST / 734.92k GHST
 
-Conclusion
+Tổng kết
 
-And that’s it for the first Gotchiverse Patch! Now it is up to you, the AavegotchiDAO, to decide if Patch v0.1 should be implemented or not.
+Và đó là tất cả nội dung của Bản Vá Gotchiverse đầu tiên! Giờ đây sẽ tùy thuộc vào bạn, AavegotchiDAO, để quyết định xem Patch v0.1 sẽ được tiến hành hay không.
 
-Option 1: Yes, implement Patch v0.1
+Phương án 1: Vâng, tiến hành bản vá v0.1
 
-Option 2: No, do not implement Patch v0.1
+Phương án 2: Không, đừng tích hợp Bản vá v0.1
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
 
-Option 1: Yes, implement Patch v0.1
+Phương án 1: Vâng, tiến hành bản vá v0.1
 
-Option 2: No, do not implement Patch v0.1
+Phương án 2: Không, đừng tích hợp Bản vá v0.1
 
-**Voting Period:** 5 - 12 January 2022
+**Thời gian vote:**5 - 12 tháng Mười 2022
 
 **Kết quả:**
 
@@ -632,32 +632,32 @@ table_agip18
 
 <hr />
 
-### Providing GHST Liquidity on SynFutures
+### Cung cấp thanh khoản cho GHST trên SyncFutures
 **Aavegotchi Improvement Proposal #19**
 
 **Tóm Tắt Đề Xuất:**
 
-Since Aavegotchi has gathered a lot of liquidity on Spot DEXes, it is high time for Aavegotchi to create and boost its Futures market. Derivatives markets make up the majority of global trading activity and allow users to leverage their investments. Adding GHST liquidity on SynFutures would allow people to take on leverage longs (or shorts) on the future of Aavegotchi. But why SynFutures?
+Kể từ khi Aavegotchi thu thập được nhiều thanh khoản trên các sàn DEX dạng Spot thì giờ đã đến lúc để tạo và tăng cường cho thị trường giao dịch Tương Lai. Các thị trường phái sinh tạo nền khối lượng giao dịch toàn cầu cực lớn và cho phép người dùng tận dụng khoản đầu tư của mình. Việc thêm thanh khoản cho GHST trên SynFutures cho phép người chơi tận dụng longs (shorts) trên thị trường tương lai của Aavegotchi. Nhưng tại sao lại là SynFutures?
 
-Great investors and team background SynFutures is backed by Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, and more. The team’s background is a great combination of traditional finance and DeFi. SynFutures is the only project of its kind which can support the listing of any assets by anyone in a permissionless manner (in less than 30s).
+Những nhà đầu tư và background khủng SynFutures được đỡ đầu bởi Polychain, Pantera, Dragonfly, Framework, Standard Crypto, Woo, và nhiều hơn nữa. Background của team là sự kết hợp mạnh mẽ giữa tài chính truyền thống và DeFi. SynFutures là dự án duy nhất có thể hỗ trợ niêm yết bất kỳ tài sản nào, bởi bất kỳ ai, theo dạng mở (trong vòng 30 giây).
 
-Security Backed by solid experience from the TradFi financial engineering and DeFi protocol safety, SynFutures has many risk management features (e.g. anti-flashloan attack, EMA smoothing method, etc.) and has gone through external code audits.
+An Ninh Được đỡ đầu bởi kinh nghiệm từ kỹ sư tài chính TradFi và sự an ninh của giao thức DeFi, SynFutures có rất nhiều uếu tốt quản trị rủi ro (ví dụ như tất công flashloan, và phương thức EMA mượt mà, v.v.) và đã trải qua nhiều vòng kiểm định code từ bên ngoài.
 
-Easy to manage and start SynFutures supports a single token model to add liquidity which means the Aavegotchi Treasury would only have to deposit GHST instead of offering two tokens with the risk of impermanent loss. We are asking for 200k worth of GHST tokens to kickstart the pool. The liquidity could be withdrawn anytime.
+Dễ dàng quản lý và bắt đầu sử dụng SynFutures hỗ trợ mô hình một token để thêm thanh khoản, nghĩa là Aavegotchi Treasury chỉ cần gửi GHST thay vì gửi hai loại token và gặp phải nguy cơ tổn thất tạm thời. Bọn mình xin một khoảng GHST trị giá 200k USD để bắt đầu pool. Thanh khoản có thể được rút bất kỳ lúc nào.
 
-Growth Potential Trading volume and users are growing fast on SynFutures. For the past 3 months since the SynFutures Alpha launched, we reached 47k users of and $1bn+ in trading volume. All this happened without a native SynFutures token, which could attract even more users.
+Tiềm Năng Phát Triển Khối lượng giao dịch và người dùng đang tăng lên nhanh chóng trên SynFutures. Trong ba tháng qua kể từ khi SynFutures Alpha được triển khai, bọn mình đã đạt được 47k người dùng và 1 tỷ khối lượng giao dịch. Tất cả việc này xảy ra mà không cần có token SynFutures, vốn có thể thu hút nhiều người dùng hơn.
 
-Volume analysis Quickswap vs. SynFutures: Total LPs: 150k / 40K Total traders: 100k / 20k Daily trading volume: $100M / $29M
+Phân tích khối lượng Quickswap vs SynFutures: Tổng LP: 150k / 40k Tổng số trader: 100k / 20k Khối lượng giao dịch hàng ngày: $100M / $29M
 
-SynFutures trading volume makes up ~1/3rd of QuickSwap, and the amount of traders is 1/5th as big as on QuickSwap, however, the trading volume for different pairs is more concentrated. SynFutures has 108 trading pairs while QuickSwap has more than 22k pairs. For example, the daily trading volume of MATIC-USDC on SynFutures closes in on around $9M, while Quickswap reaches $14M.
+Khối lượng giao dịch của SynFutures bằng 1/3 giao dịch trên Quickswap, số lượng trader bằng 1/5, tuy nhiên khối lượng giao dịch cho mỗi cặp có phần tập trung hơn. SynFutures có 108 cặp giao dịch trong khi Quickswap có hơn 22k cặp. Ví dụ, khối lượng giao dịch hàng ngày của MATIC-USDC trên SynFutures đóng vào khoảng 9 triệu USD, trong khi đó Quickswap đạt 14 triệu USD.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
 
-Option 1: Yes, add $200k in GHST
+Phương án 1: Đồng ý, stake GHST trị giá 200k USD
 
-Option 2: No, do not add $200k in GHST
+Phương án 2: Không đồng ý stake GHST trị giá 200k USD
 
-**Voting Period:** 2 - 9 February 2022
+**Thời gian vote:**2 - 9 tháng Hai 2022
 
 **Kết quả:**
 
@@ -667,33 +667,33 @@ table_agip19
 
 <hr />
 
-### Creating the DAO Treasury Taask Force
+### Thành lập Biệt Đội DAO Treasury
 **Aavegotchi Improvement Proposal #20**
 
 **Tóm Tắt Đề Xuất:**
 
-We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
+Bọn mình đề xuất tạo ra Biệt Đội DAO Treasury (DTF). Hội đồng ban đầu sẽ bao gồm 8 thành viên với thâm niêm tham gia DAO trong vòng 6 tháng.
 
-As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
 
-Proposed Mission Statement
+Tuyên bố Sứ mệnh
 
-The Aavegotchi DAO Treasury Taask Force is a dynamic committee assigned with making DAO treasury management proposals to the community and DAO for consideration. The initial mission and goals of the committee will be: 1) Grow and optimize the DAO treasury with an emphasis on safety, security and transparency; 2) Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management; and 3) foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+Biệt Đội Aavegotchi DAO là một hội đồng năng nổ được chỉ định để tạo ra các bản đề xuất quản lý ngân quỹ của DAO để cộng đồng và DAO có thể suy xét. Nhiệm vụ và mục tiêu ban đầu sẽ là: 1) Tăng và tối ưu ngân quỹ DAO với trọng tâm về an toàn, an ninh và minh bạch; 2) Hợp tác với Pixelcraft để hỗ trợ các công cụ phát triển và xác định và nền tảng cho việc quản lý DAO Treasury đang diễn ra, và 3) hỗ trợ và đảm bảo sự phát triển chung của cộng đồng Aavegotchi bằng cách tăng sự quan tâm, chủ động quản bá sự nhận biết, và duy trì sự tương tác của người dùng.
 
-Initial Funding
+Ngân sách ban đầu
 
-After lengthy discussions with the task force, the community, and with coderdan, the DTF would like to request an initial 50,000 GHST budget. The 50,000 GHST budget would be transferred from the DAO Treasury to the 8 multi-signature Gnosis Safe. This budget will greatly expand the flexibility of the DAO in incentivizing and rewarding engaged community members, developers, creatives, and overall contributors. This budget will never be used to reward members of the DTF. The DTF’s core main initiative will be to form a proposal for overall use of the DAO Treasury by investing some of the $10 million DAI/GHST in yield bearing opportunities. With effective deployment of the DAO Treasury, even modest returns would more than pay for the DTF budget request. The DTF will ensure comprehensive accounting and provide community facing documentation to ensure transparency. Some potential uses for the budget include the following:
+Sau cuộc thảo luận dài với biệt đội, cộng đồng, và cùng với coderdan, DTF muốn yêu cầu ngân sách 50k GHST. Ngân sách 50k GHST sẽ được chuyển từ Ngân Quỹ DAO sang chiếc ví Gnosis Safe với 8 chữ ký đồng thuận. Ngân sách này sẽ mở rộng sự linh hoạt của DAO một cách đáng kể trong việc khuyến khích và tặng thưởng cho cộng đồng, lập trình viên, nhà sáng tạo, và những người đóng góp chung. Ngân sách này sẽ không bao giờ được dùng để thưởng cho các thành viên trong DTF. Động lực chính của DTF sẽ là thành lập một bản đề xuất dành cho công dụng chung của DAO Treasury bằng cách đầu tư một ít trong số DAI/GHST trị giá 10 triệu USD trong các cơ hội sinh lãi suất. Với sự phát triển hiệu quả của Ngân Quỹ DAO, thậm chí những lợi nhuận khiêm tốn nhất cũng đủ để chi trả cho những yêu cầu ngân sách từ DTF. DTF sẽ đảm bảo việc kế toán dễ hiểu và cung cấp cho cộng đồng các tài liệu đối chứng để đảm bảo tính minh bạch. Một số công dụng tiềm năng từ ngân sách này bao gồm:
 
-* Reward community engagement and aarcade play
-* Reward game developers and designers
-* Reward community application developers
-* Reward and acknowledge community art contributions
-* Reward, acknowledge and grow content creators and general marketing efforts
-* Expand Aavegotchi and GHST’s opportunities for decentralized financial applications
+* Thưởng cho sự tương tác cộng đồng và trò chơi aaracde
+* Thưởng cho các lập trình viên và nhà phát triển
+* Thưởng cho các lập trình viên phát triển ứng dụng cộng đồng
+* Thưởng cho các cống hiện nghệ thuật được cộng đồng công nhận
+* Thưởng, công nhận, và phát triển mạng lưới content creater và những nỗ lực chung trong việc marketing
+* Mở rộng Aavegotchi và những cơ hợi của GHST trong các ứng dụng tài chính phi tập trung
 
-The DTF is developing a structured plan and multiple potential pilot projects to best utilize these funds. We will work to develop tools to allow maximum transparency into the budget use. Expenses within this 50,000 GHST budget would not require a DAO approval in order to maximize nimble use of the funds. Any further budget requests beyond the initial 50,000 GHST would require a DAO vote.
+DTF đang phát triển một kế hoạch chi tiết và nhiều dự án pilot tiềm năng để có thể tận dụng tốt nhất những quỹ này. Bọn mình sẽ làm việc để phát triển các công cụ nhằm tối ưu hóa sự minh bạch trong việc sử dụng ngân sách. Chi phí nằm trong khoảng 50k GHST sẽ không cần sự đồng ý từ DAI để sử dụng nhanh nhất khoảng tiền này. Bất kỳ khoảng tiền nào được yêu cầu mà lớn hơn 50k GHST sẽ cần phải có sự bỏ phiếu từ DAO.
 
-The initial 8 members of the DTF
+8 thành viên ban đầu của DTF
 
 * BowtiedNerd
 * Mori
@@ -704,17 +704,17 @@ The initial 8 members of the DTF
 * Swappi
 * Dr Wagmi
 
-We appreciate the Aavegotchi community’s support and look forward to our first proposal.
+Bọn mình rất biết yên sự hỗ trợ của cộng đồng Aavegotchi và mong chờ bản đề xuất đầu tiên của bọn mình.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
 
-Option 1: Yes, with 50k GHST budget
+Phương án 1: Vâng, với ngân sách 50k GHST
 
-Option 2: Yes, without 50k GHST budget
+Phương án 2: Vâng, nhưng không có ngân sách 50k GHST
 
-Option 3: No, do not create the DTF
+Phương án 3: Không, đừng tạo ra DTF
 
-**Voting Period:** 2 - 9 February 2022
+**Thời gian vote:**2 - 9 tháng Hai 2022
 
 **Kết quả:**
 
@@ -724,30 +724,30 @@ table_agip20
 
 <hr />
 
-### Adding GHST to the Umbria Narni Bridge
+### Thêm GHST vào Cầu Umbria Narni
 **Aavegotchi Improvement Proposal #21**
 
 **Tóm Tắt Đề Xuất:**
 
-The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
+Umbria Narni Bridge đã tích hợp GHST token, và đang giúp hỗ trợ quá trình chuyển dịch GHST cực rẻ giữa Ethereum <--> Polygon, nếu so sánh với cầu chính thức của Polygon. Umbria Narni tính phí chuyển mạng vòa khoảng 1/2 so với cầu chính thức của polygon và thâm chí là nhanh hơn rất nhiều (4 phút, so với > 1 giờ).
 
-The Umbria Narni bridge protocol can bridge a maximum of 20% of its total GHST liquidity, per bridging event. For example, with $100k of GHST tokens in one side of the pool, the bridge can migrate a maximum of $20k of GHST per single transaction.
+Umbria Narni có thể chuyển tối đa 20% tổng số GHST thanh khoản trong mỗi lần chuyển. Ví dụ, với lượng token GHST 100k có trong một bên của pool, cầu có thể chuyển tối đa lượng GHST trị giá 20k USD trong mỗi giao dịch.
 
-Currently there is approximately $14,000 of GHST tokens on each side of the bridge. This is mostly funded by the Umbria team. This enables the bridge to be able to bridge a maximum of $700 of GHST tokens per transaction - which is pretty good, but we are aware that some users want to bridge much more in a single transaction.
+Hiện nay đang có lượng token GHST trị giá 14000 USD mỗi bên. Số tiền này chủ yếu được tài trợ bởi Umbria. Điều này đã cho phép chiếc cầu có thể chuyển tối đã lượng GHST 700 USD mỗi giao dịch - vốn rất tốt, nhưng bọn mình để ý rằng nhiều người muốn chuyển nhiều hơn trong mỗi giao dịch.
 
-We propose the Aavegotchi DAO add $100,000 of GHST to each bridge pool (1. Polygon and 2. Ethereum). There are a few advantages for doing so:
+Bọn mình đề xuất AavegotchiDAO thêm lượng token GHST trị giá 100k USD vào mỗi pool của cầu (1. Polygon và 2. Ethereum). Có một vài lợi ích khi làm vậy:
 
-The Aavegotchi DAO will earn a 0.2% bridging fee whenever anyone uses the bridge to migrate GHST tokens between Ethereum <--> Polygon. So across time, the Aavegotchi DAO will make money. If the Narni bridge ever becomes an unnecessary solution, the Aavegotchi DAO can easily remove their liquidity and enjoy their profit.
+AavegotchiDAO sẽ kiếm được 0,2% phí chuyển bất cứ khi nào có ai đó dùng cầu để chuyển token giữa Ethereum <--> Polygon. Vậy nên trong suốt quản thời gian stake, Aavegotchi sẽ kiếm được tiền. Nếu cầu Narni trở thành một giải pháp không cần thiết, AavegotchiDAO chỉ cần rút một cách đơn giản và tận hưởng lợi nhuận của mình.
 
-Transactions up to approximately $21,000 of GHST will now be possible.
+Giờ đây, người dùng sẽ có thể chuyển những giao dịch GHST trị giá 20k USD.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
 
-Option 1: Yes, add $200k GHST
+Phương án 1: Đồng ý, stake GHST trị giá 200k USD
 
-Option 2: No, do not add any GHST
+Phương án 2: Không đồng ý stake GHST
 
-**Voting Period:** 8 - 15 February 2022
+**Thời gian vote:**8 - 15 tháng Hai 2022
 
 **Kết quả:**
 
@@ -755,49 +755,49 @@ Option 2: No, do not add any GHST
 
 <hr />
 
-### Launch Rarity Farming SZN 3
+### Triển Khai Rarity Farming Mùa 3
 **Aavegotchi Improvement Proposal #22**
 
 **Tóm Tắt Đề Xuất:**
 
 *Vấn đề*
 
-Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
+Hiện tại, Rarity Farming diễn ra không theo chu kỳ và rất khó dự đoán khi nào Aavegotchi sẽ ra mắt. Điều này khiến các nhà đầu tư tự hỏi rằng liệu họ có nên giữ Gotchi và Trang Phục, hay họ nên flip để tìm ROI tốt hơn trong những vòng kế tiếp hay không. Cộng đồng rất muốn có được sự chắc chắn / dự đoán cho cả về mặt đầu tư và mục đích lên kế hoạch.
 
 *Giải pháp*
 
-If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
+Nếu tài trợ một cách đúng đắn, Rarity Farming sẽ diễn ra 3 lần 1 năm. Việc này sẽ phù hợp với bản chất theo mùa mà chúng ta đang theo đuổi, và nếu được lên kế hoạch kỹ lưỡng thì sẽ bên vững dựa trên các sự kiện đấu giá kiếm tiền chen giữa, thu nhập ngân quỹ thông qua staking và các đối tác (ví dụ như bản đề xuất Umbria), và những nguồn thu nhập khác như DAO Grant. Tác giả của bản đề xuất tin rằng Rarity Farming là một phần quan trọng của hệ sinh thái Gotchiverse, và thứ có thể xây dựng và cả thiện chứ không phải bỏ mặc.
 
 *Phân Phối*
 
-For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
+Với Mùa 3, mình đề xuất chúng ta sẽ trở lại mô tỷ lệ phần thưởng tiêu chuẩn, như đã được thử và trải nghiệm trong Rarity Farming Mùa 1. Các tân binh giờ đây đã trưởng thành và sẵn sàng thi đấu với những người anh cả. Điều này có nghĩa là 70% tiền thưởng sẽ được dành cho bản xếp hạng BRS, 20% dành cho bản xếp hạng kinship và 10% sẽ dành cho bản xếp hạng XP.
 
-Based on Forum discussions this would be the final model for SZN3:
+Dựa trên những cuộc thảo luận từ Forum thì đây sẽ là mô hình cuối cùng của SZN3:
 
-* 4 Rounds (2 weeks each)
-* 1.5 Million GHST Rewards Pool (1.4m GHST funded already)
+* 4 vòng (2 tuần mỗi vòng)
+* 1,5 triệu GHST cho quỹ phần thưởng GHST (1.4 triệu GHST đã được tài trợ sẵn)
 * 70% BRS
 * 20% Kinship
 * 10% XP
 * Top 5k Gotchis (20%) → Top 7.5k Gotchis (30%)
-* 3 Seasons per Year (approx. schedule below)
-* SZN 3: February - March
-* SZN 4: June - July
-* SZN 5: October - November
+* 3 Mùa mỗi năm (xem bảng bên dưới)
+* SZN 3: Tháng 2 - tháng 3
+* SZN 4: tháng 6 - tháng 7
+* SZN 5: tháng 10 - tháng 11
 
-Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+Cập nhật phần thưởng: [Mô hình phát thưởng Rarity Farming SZN 3](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
+Do thiếu đi 100k GHST so với con số đề xuất nên bản đề xuát này cũng sẽ bao gồm yêu cầu tài trợ số lượng token còn lại được lấy ra từ ngân quỹ AavegotchiDAO.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
 
-Option 1: Yes, launch RF SZN 3
+Phương án 1: Có, hãy triển khai Haunt 3
 
-Option 2: Yes, but different params
+Phương án 2: Có, nhưng với những con số khác
 
-Option 3: No, don't launch RF SZN 3
+Phương án 3: Không, đừng triển khai RF SZN 3
 
-**Voting Period:** 8 - 15 February 2022
+**Thời gian vote:**8 - 15 tháng Hai 2022
 
 **Kết quả:**
 
@@ -805,51 +805,51 @@ Option 3: No, don't launch RF SZN 3
 
 <hr />
 
-### Co-Sponsoring the GoodGhosting Pool
+### Đồng Tài Trợ Cho Quỹ GoodGhosting
 **Aavegotchi Improvement Proposal #23**
 
 **Tóm Tắt Đề Xuất:**
 
-*What is GoodGhosting?*
+*GoodGhosting là gì?*
 
-GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
+GoodGhosting là một trò chơi tiết kiệm không thiệt hại, được xây dựng dựa trên Aave. Bọn mình đã triển khai những pool tiết kiệm đầu tiên trên Polygon, trong suốt mùa hè năm 2021. Hiện tại, bọn mình đã giúp hơn 7k người dùng tiết hiện hơn 600k Usd tài sản trên Polygon. Tất cả khi thu thập một số NFT đẹp và leo bảng xếp hạng.
 
-The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
+Đội ngũ GoodGhosting tin vào một thế giới mà việc tiết kiệm đáng được thưởng, dễ dàng, và vui nhộn. Nhưng, việc tiết kiệm truyền thống không hề giống vậy. Bọn mình xây dựng các ứng dụng tiết kiệm xã hội phi tập trung kết hợp với các yếu tố thiết kế game nhằm mục đích tiết kiệm. Bọn mình muốn giúp cộng đồng phát triển thói quen tài chính tốt hơn và có được niềm vui song song đó.
 
-*Potential collaboration*
+*Quan Hệ Hợp Tác Tiềm Năng*
 
-We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
+Bọn mình muốn cộng đồng GoodGhosting biết đến Aaegotchi, bằng cách tạo ra một quỹ tiết kiệm theo chủ đề Aavegotchi. Quỹ này sẽ yêu cầu người chơi tiết kiệm token GHST, kiếm GHST từ đó. Bọn ình thấy rằng đây là một cơ hội “va chạm” rất tốt dành cho cả 2 cộng đồng.
 
-Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
+Aavegotchi là một dự án độc đáo mà mình đã theo dõi từ lúc bắt đầu. Với cả vai trò người chơi cũng như cư dân của hệ sinh thái. Đúng vậy, cả người chơi và cư dân của hệ sinh thái. Bọn mình thấy rằng đây là một cơ hội “va chạm” rất tốt dành cho cả 2 cộng đồng
 
-Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
+Ngoài việc mời tất cả người chơi Aavegotchi và DAO cụ họ tham gia vào pool tiết kiệm GHST sắp tới, GoodGhosting cũng muốn yêu cầu AavegotchiDAO đồng tài trợ cho pool.
 
-*Our Request*
+*Yêu Cầu Của Bọn Mình*
 
-* A total of 7000 GHST in sponsorship for this savings pool. To be shared between all winning players.
-* The ability to reward successful savers with Gotchi XP, or alternatively FRENS. Considering GoodGhosting an extensive mini-game that encourages people to stack more GHST.
-* An allocation of Aavegotchi NFTs (worth up to 3000 GHST) to be raffled to random participants and/or to all winners. These could be Wearables, Gotchi’s, Raffle tickets or Realm parcels.
+* Một khoảng tài trợ trị giá 7k GHST cho pool tiết kiệm này. Chia cho tất cả người chơi chiến thắng.
+* Khả năng thưởng cho người tiết kiệm thành công với Gotchi XP, hoặc thay bằng FRENS. Hãy xem GoodGhosting là một trò minigame dài hạn, khuyến khích người chơi thu thập thêm nhiều GHST.
+* Phần thưởng Aavegotchi NFT (trị giá 3000 GHST) sẽ được xổ số cho những người tham gia/chiến thằng ngẫu nhiên. Đây có thể là Trang Phục, Gotchi, vé Số hoặc gói đất Realm.
 
-These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
+Phần thưởng này có thể do Aavegotchi hoặc GoodGhosting mua trên Baazaar. Với những phần thưởng cộng thêm này, bọn mình mong sẽ mang đến lợi ích cho một ít người chiến thắng thông qua hệ thống xổ số, hoặc /và một phần thưởng nhỏ hơn để phân phối dễ dàng cho tất cả người chiến thắng.
 
-*What can GoodGhosting bring to the table?*
+*GoodGhosting có thể mang đến những gì?*
 
-* Up to 4000 WMATIC tokens in sponsorship (from our DeFiForAll grant). To be shared between all winning players.
-* An influx of new users into the Aavegotchi ecosystem. So far over 20500 users joined our Celo and Polygon savings pools. Most have not yet been exposed to Aavegotchi or GHST, and many are likely to join the Gotchigang.
-* We will create a YouTube video explaining Aavegotchi, and how to obtain the GHST token on Polygon. Directed at our community members.
-* We will allow users to play GoodGhosting using their Aavegotchis as avatar. This will show up in the shared ‘Players’ tab, as well as in the individual player profiles on Goodghosting.com
-* Some very special NFTs by our in-house artist Mali3D
-* An increased GG score for all successful savers
+* Hơn 4000 WMATIC được tài trợ (từ quỹ phát triển DeFiForAll). Chia cho tất cả người chơi chiến thắng.
+* Nhiều người dùng mới cho hệ sinh thái Aavegotchi. Hiện tại đã có hơn 20500 người tham gia vào pool tiết kiệm Celo và Polygon của bọn mình. Đa số họ đều chưa biết đến Aavegotchi hoặc GHST, và nhiều người có ý định tham gia Gotchigang.
+* Bọn mình sẽ tạo một video Youtube để giới thiệu về Aavegotchi, và cách để sở hữu token GHST trên Polygon. Quảng bá đến cho người dùng của bọn mình.
+* Bọn mình sẽ cho phép người dùng chơi GoodGhosting với Aavegotchi làm hình đại diện. Cái này sẽ hiện lên trong tab Players, cũng như những trang hồ sơ người chơi cá nhân trên Goodghosting.com
+* Một số NFT rất đặt biệt được tạo ra từ Mali3D, họa sĩ của chính dự án
+* Điểm GG cộng thêm cho tất cả những người sử dụng thành công
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
 
-Option 1: Yes, 10k GHST for rewards + XP
+Phương án 1: Vâng, thưởng 10k GHST + XP
 
-Option 2: Yes, but under different terms
+Phương án 2: Vâng, nhưng điều kiện cần thay đổi
 
-Option 3: No, do not support GG
+Phương án 3: Không, không hỗ trợ GG
 
-**Voting Period:** 9 - 15 February 2022
+**Thời gian vote:**9 - 15 tháng Hai 2022
 
 **Kết quả:**
 
@@ -857,26 +857,26 @@ Option 3: No, do not support GG
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Lựa chọn A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Lựa chọn B: Aavegotchi Maarket
 
-Choice C: Neither
+Lựa chọn C: Không chọn 2 đáp án trên
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -886,23 +886,23 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -912,33 +912,33 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
 
-* 0-5: 100 GHST each
+* Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
 
-* 6-15: 200 GHST each
+* Portal thứ 6 đến portal thứ 15 sẽ có giá là 200 GHST mỗi cái
 
-* 16-25: 300 GHST each
+* Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
 
-Let your $GHST token speak for you, and vote!
+Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
 
-AavegotchiDAO discussion topic 👇
+Chủ đề thảo luận của AavegotchiDAO 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Thời gian vote:**23 - 26 tháng Hai 2021
 
 **Kết quả:**
 

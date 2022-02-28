@@ -1,115 +1,115 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Contests'
-description: 'Our Winners!'
+title: 'コンテスト'
+description: '私たちのチャンピオン！'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
+やあAavegotchi達！ よくコミュニティを楽しませ続けるために、コンテストを開催しています。 いつも楽しさと賞品があります！ ここでは、過去のコンテストと受賞者から受け取った提出物を見ることができます！
 
 <div class="contentsBox">
 
-**Contents**
+**内容**
 
 <ol>
-<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>
-<li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
-<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Contest</a></li>
-<li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
-<li><a href=#defi-rpg-wearables-meme-contest>DeFi RPG Wearables Meme Contest</a></li>
+<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchiミッション8のミームコンテスト勝者</a></li>
+<li><a href=#halloween-costume-contest-2020>ハロウィンコスチュームコンテスト2020年</a></li>
+<li><a href=#aavegotchi-mission-9-content-contest>Aavegotchiミッション9のコンテンツコンテスト</a></li>
+<li><a href=#halloween-costume-contest-2021>ハロウィンコスチュームコンテスト2010年</a></li>
+<li><a href=#defi-rpg-wearables-meme-contest>DeF RPGウェアラブルのミームコンテスト</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Aavegotchiミッション8のミームコンテスト勝者
 
-In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
+Aavegotchiミッション8では、エージェントはAavegotchi subredditでゴッチまたはGHSTトークンを使用して最高のミームを作成するように任命されました。 あなたのお気に入りに「良いね」してください！ 10月9日の上位3つの賛成ミームは、それぞれ300、200、100GHSTを獲得出来ます。
 
-### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
+### <span style="color:gold">1位：Zemusの「Aavegotchiパックマン」</span>
 
 <img class="memes" src="/memes/AavegotchiPACMAN.jpg" width = "250" />
 
-### <span style="color:silver">2nd place: By Your Powers Combined by Raster Eyes</span>
+### <span style="color:silver">2位：ラスターアイズによって「パワーコンバインド」</span>
 
 <img class="memes" src="/memes/byyourpowerscombined.png" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Cozy GHST by Moon</span>
+### <span style="color:#cd7f32">3位：Moonの「居心地の良いghst」</span>
 
 <img class="memes" src="/memes/CozyGHST.jpg" width = "250" />
 
-## Halloween Costume Contest 2020
+## ハロウィンコスチュームコンテスト2020年
 
-On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literally* came out to parade (pun intended :P). Aagents had some fun dressing up an Aavegotchi and each 'gotchi took turns to <s>walk</s>float down the <s>cat</s>ghost walk. The community voted their favs with upvotes.
+10月30日金曜日、幽霊はほんとにパレードに出てきました　ꉂ (´∀｀)ʱªʱªʱª エージェントはゴッチをドレスアップするのを楽しんで、それぞれが交代でキャットウォークに浮かんでいました。 コミュニティは「良いね」でお気に入りを選びました。
 
-### <span style="color:gold">1st place: IT by Esveebee</span>
+### <span style="color:gold">1位：Esveebeeの「IT」</span>
 
 <img src = "/contests/it.png" width = "250" />
 
-### <span style="color:silver">2nd place: Zombie by Flamee</span>
+### <span style="color:silver">2位：Flameeのゾンビ</span>
 
 <img src = "/contests/zombie.gif" width = "250" />
 
-### <span style="color:#cd7f32">3rd place: Trumpigotchi by PoW Miner</span>
+### <span style="color:#cd7f32">3位：PoW Minerのトランピゴッチ</span>
 
 <img src = "/contests/trumpigotchi.jpg" width = "250" />
 
-## Aavegotchi Mission 9 Content Contest
+## Aavegotchiミッション9のコンテンツコンテスト
 
-Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
+Aavegotchiのエージェントは、史上最高の1000を超えました！ もはやエージェントではなく、急成長しているゴッチギャングのメンバーです！ 今週のミッションではAavegotchiをさらに名前を広めましょう！ Aavegotchiに関するコンテンツを書面または動画形式で作成します。 コアチームによって選ばれた各カテゴリの上位3つの作品は、それぞれ300/100/50の甘いGHSTを獲得し、さらに多くのコンテンツを作成する機会を提供します。
 
-### Video Category
+### 動画カテゴリ
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1位：Esveebeeの「Aavegotchiの使用を開始する方法」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2位：DogGodFrogLogの「Aavegotchi2分ガイド」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3位：Moonの「アノンがアヴェゴッチを見つける」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
-### Written Category
+### 書き込みカテゴリ
 
-#### <span style="color:gold">1st place: Aavegotchi: Frenly Farming in the Fall by Appellants</span>
+#### <span style="color:gold">1位：Aavegotchi：Appellantsの「秋のフレンリーファーミング」</span>
 
 <a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
-#### <span style="color:silver">2nd place: Get rich or die playing by Letsgobankless</span>
+#### <span style="color:silver">2位：Letsgobanklessの「金持ちになるか死ぬ」</span>
 
 <a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
-#### <span style="color:#cd7f32">3rd place: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] by Buzzlightyear</span>
+#### <span style="color:#cd7f32">3位：Kovan TestnetのAavegotchiが来ましたよ！ [ステップバイステップガイド] をBuzzlightyearによる</span>
 
 <a href = "https://peakd.com/teammalaysia/@buzz.lightyear/aavegotchi-on-kovan-testnet-is-here-step-by-step-guide" target = "_blank"><img src = "/contests/written_3.png"></a>
 
-## Halloween Costume Contest 2021
+## ハロウィンコスチュームコンテスト2010年
 
-On 1 November 2021, we had our second annual ##GotchiGang Halloween Contest! 👹👻🎃
+2021年11月1日、2回目の #GotchiGangハロウィーンコンテストが開催されました。 👹👻🎃
 
-The competition was fierce, with nearly 100 unique costumes submitted!
+競争は激しく、100に近くのユニークなコスチュームが提出されました！
 
-The top 3 costumes won 100, 50, and 25 GHST, respectively.
+トップ3位のコスチュームは、それぞれ100、50、25GHSTを獲得しました。
 
-### <span style="color:gold">1st place: LickWeenDator by Bezigner</span>
+### <span style="color:gold">1位：Bezignerの「LickWeenDator」</span>
 
 <img class="bodyImage" src="/contests/lickweendator.jpg" />
 
-### <span style="color:silver">2nd place: Jason Boorhees by Kimikuno</span>
+### <span style="color:silver">2位: KimikunoのJason Boorhees（ジェイソン）</span>
 
 <img class="bodyImage" src="/contests/jason-boorhees.png" />
 
-### <span style="color:#cd7f32">3rd place: Genie Gotchi by Ape | Dratini | Bear X</span>
+### <span style="color:#cd7f32">3位：Ape | Dratini | Bear Xのジニーゴッチ </span>
 
 <img class="bodyImage" src="/contests/genie-gotchi.png" />
 
-## DeFi RPG Wearables Meme Contest
+## DeF RPGウェアラブルのミームコンテスト
 
-### <span style="color:gold">1st place: Thrax</span>
+### <span style="color:gold">1位：Thrax</span>
 
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
-### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
+### <span style="color:silver">2位：Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
 
-### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
+### <span style="color:#cd7f32">3位：Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
