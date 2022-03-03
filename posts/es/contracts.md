@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Contracts Addresses'
-description: 'Aavegotchi Contracts Addresses'
+title: 'Direcciones de Contratos de Aavegotchi'
+description: 'Direcciones de Contratos de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
