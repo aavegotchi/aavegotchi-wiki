@@ -35,19 +35,68 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 **Contenidos**
 
 <ol>
-<li><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></li>
+<li><a href=#features>Features</a></li>
+<li><a href=#gltr-token>GLTR Token</a></li>
 </ol>
 
 </div>
 
-## Gotchus Alchemica Exchange
+## Features
 
-The Gotchus Alchemica Exchange (GAX) is the native Decentralized Exchange (DEX) for Aavegotchi. It is meant to facilitate the trading of [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) among market participants. GAX will initially support the trading of all GHST-Alchemica pairs.
+The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+
+* FUD
+* FOMO
+* ALPHA
+* KEK
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-To incentivize liquidity on GAX, an ERC-20 token called GLMR will be distributed to LPs. GLMR stands for Gotchi Liquidity Mining Rewards. The team has yet to decide whether the GLMR supply should be capped or not.
+It also provides a sustainable source of revenue for powering rewards of the in-game economy.
 
-GLMR can be spent to reduce the crafting/upgrading time of [Installations](/gotchiverse#building-on-realm-parcels) within the Gotchiverse. More details will follow as it becomes available.
+The GAX is a clone of SushiSwap V2, with the following differences:
 
-GAX may support non GHST-Alchemica pairs in the future.
+* **DAO-owned Liquidity**
+
+A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+
+Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+
+* **Low trading fees**
+
+Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+
+On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+
+This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+
+* **Trading Fees Power P2E**
+
+The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+
+This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+
+## GLTR Token
+
+**Utility**
+
+The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+
+GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+
+**Tokenomics**
+
+* Max supply: 1,000,000,000,000 (1 trillion)
+
+* Distribution: 100% to liquidity rewards over 30 years
+
+* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+
+**Earning GLTR**
+
+GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+
+**Burning**
+
+All GLTR spent in-game is burned from the supply (sent to burn address).
+
