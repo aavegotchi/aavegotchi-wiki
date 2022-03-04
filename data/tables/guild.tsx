@@ -49,5 +49,35 @@ export const tables
 					[`WAGMI Warriors`, `<img src="/guild/WAGMI-warriors.png" alt = "WAGMI Warriors Guild" />`, `We are a wearable based guild for the Gotchiverse`, `You must have an Aavegotchi equipped with any of the wagie wearables; a wagie cap, headphones, or WGMI shirt`, `jarrod | aavegotchistats.com#9686`, `<a href = "https://twitter.com/WagmiWarriors" target = "_blank">Twitter</a>`, `<a href = "https://discord.gg/TNneBnhrM2" target = "_blank">Link</a>`]
 				]
             }
+        },		
+		{
+            tableName: "gotchiPresenceBonus",
+            tableCaption: "",
+            tableData: {
+                headers: ["Wearable Rarity", "Bonus"],
+                data: [
+                    ["Common", "1.001X"],
+					["Uncommon", "1.0014X"],
+					["Rare", "1.0021X"],
+					["Legendary", "1.007X"],
+					["Mythical", "1.02X"],
+					["Godlike", "1.56X"]
+                ]
+            }
+        },
+		{
+            tableName: "wearableMultiplier",
+            tableCaption: "",
+            tableData: {
+                headers: ["Wearable Rarity", "Bonus"],
+                data: [
+                    ["Common", "1X"],
+					["Uncommon", "2X"],
+					["Rare", "4X"],
+					["Legendary", "8X"],
+					["Mythical", "20X"],
+					["Godlike", "200X"]
+                ]
+            }
         }
     ]
