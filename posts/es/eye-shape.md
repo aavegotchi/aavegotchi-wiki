@@ -1,41 +1,41 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Eye Shape'
-description: 'Aavegotchi Eye Shape'
+title: 'Forma de ojos de los Aavegotchis'
+description: 'Forma de ojos de los Aavegotchis'
 contributors:
   - "unintelligent-nerd"
 ---
 
-"Eyeing some eyes?"
+"¿Mirando algunos ojos?"
 
-"Aye!"
+"¡Ay!"
 
-Check out the full list of Aavegotchi Eye Shapes (EYS) here!
+Echa un vistazo a la lista completa de Formas de Ojo de Aavegotchi (EYS) aquí!
 
-*Note: the Eye Shapes do not include colors as Eye Color varies based on rarity/Collateral type.*
+*Nota: las formas de ojos no incluyen colores ya que el color de ojos varía en función del tipo rareza/tipo de colateral.*
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
-<li><a href=#haunt-1-specific-eye-shapes>Haunt 1-specific Eye Shapes</a></li>
-<li><a href=#haunt-2-specific-eye-shapes>Haunt 2-specific Eye Shapes</a></li>
+<li><a href=#non-haunt-specific-eye-shapes>Formas de Ojo no específicas de Ritual 1</a></li>
+<li><a href=#haunt-1-specific-eye-shapes>Formas de Ojo específicas de Ritual 1</a></li>
+<li><a href=#haunt-2-specific-eye-shapes>Formas de Ojo específicas de Ritual 2</a></li>
 </ol>
 
 </div>
 
-## Non-Haunt-specific Eye Shapes
+## Formas de Ojo no específicas de Ritual
 
-table_eyeShape
+tabla_eyeShape
 
-## Haunt 1-specific Eye Shapes
+## Formas de Ojo específicas de Ritual 1
 
 table_haunt1EyeShape
 
 
-## Haunt 2-specific Eye Shapes
+## Formas de Ojo específicas de Ritual 2
 
 table_haunt2EyeShape
