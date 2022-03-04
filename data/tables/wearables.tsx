@@ -104,11 +104,11 @@ export const tables
             tableData: {
                 headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
                 data: [
-				    [`<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, "55", "Aagent Headset", "Rare", "AGG +1, SPK +1, BRN +1", "", "face"],
-				    [`<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, "56", "Aagent Shirt", "Rare", "NRG -1, AGG +1, SPK +1", "", "body"],					
-				    [`<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, "57", "Aagent Shades", "Rare", "NRG -1, SPK +2", "", "eyes"],		
-				    [`<img src="/wearables/final wearables/58_AagentPistol.svg" alt = "aavegotchi Aagent Pistol"/>`, "58", "Aagent Pistol", "Rare", "AGG +3", "", "hands"],		
-				    [`<img src="/wearables/final wearables/59_AagentFedoraHat.svg" alt = "aavegotchi Aagent Fedora Hat"/>`, "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", "", "head"]
+				    [`<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, "55", "Aagent Headset", "Rare", "AGG +1, SPK +1, BRN +1", "308", "face"],
+				    [`<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, "56", "Aagent Shirt", "Rare", "NRG -1, AGG +1, SPK +1", "308", "body"],					
+				    [`<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, "57", "Aagent Shades", "Rare", "NRG -1, SPK +2", "308", "eyes"],		
+				    [`<img src="/wearables/final wearables/58_AagentPistol.svg" alt = "aavegotchi Aagent Pistol"/>`, "58", "Aagent Pistol", "Rare", "AGG +3", "308", "hands"],		
+				    [`<img src="/wearables/final wearables/59_AagentFedoraHat.svg" alt = "aavegotchi Aagent Fedora Hat"/>`, "59", "Aagent Fedora Hat", "Rare", "NRG -2, SPK +1", "308", "head"]
 				]
 			}
 		},
@@ -570,7 +570,7 @@ export const tables
                 data: [
                     ["Common", "1000", "+1"],
                     ["Uncommon", "500", "+2"],
-                    ["Rare", "250-300", "+5"],
+                    ["Rare", "250-308", "+5"],
                     ["Legendary", "100-150", "+10"],
                     ["Mythical", "10-50", "+20"],
                     ["Godlike", "5", "+50"],
