@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [The Gotchiverse Bible: Chapter 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
+* Chapter 3 is out!
+* It covers Alchemical Channeling, Wearable Traits Pool, Guilds and Gotchi Lodge, and GAX and GLTR!
+<p></p>
+
 ## [Rarity Farming Season 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
 * Rarity Farming Season 3 will commence on 24 February 2022
 * There will be 3 leaderboards this time round: Rarity (70%), Kinship (20%), and XP (10%)
