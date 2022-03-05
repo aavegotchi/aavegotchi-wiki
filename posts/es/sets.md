@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearable Sets'
+title: 'Sets de Ropa'
 description: 'All about Aavegotchi Wearable Sets'
 contributors:
   - "unintelligent-nerd"
@@ -27,7 +27,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 <ol>
 <li><a href=#key>Key</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#wearable-sets>Sets de Ropa</a></li>
 </ol>
 
 </div>
@@ -40,7 +40,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 * SPK = Spookiness
 * BRN = Brain Size
 
-## Wearable Sets
+## Sets de Ropa
 
 table_sets
 
