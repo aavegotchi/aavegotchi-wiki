@@ -26,11 +26,11 @@ Número total de premios en una categoría determinada / Número total de ticket
 <p><a href=#raffle-5--partnerships-theme->Sorteo 5 (Temática Colaboraciones)</a></p>
 <p><a href=#raffle-6--defi-rpg-theme->Sorteo 6 (Temática DeFi RPG)</a></p>
 <li><a href=#portal-raffles>Sorteo de Portales</a></li>
-<p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
-<li><a href=#land-raffles>Land Raffles</a></li>
-<p><a href=#raffle-1>Raffle 1</a></p>
-<p><a href=#raffle-2>Raffle 2</a></p>
-<li><a href=#chart>Chart</a></li>
+<p><a href=#raffle-1--haunt-2-portal-drop->Sorteo 1 (Portales Ritual 2)</a></p>
+<li><a href=#land-raffles>Sorteo de Parcelas</a></li>
+<p><a href=#raffle-1>Sorteo 1</a></p>
+<p><a href=#raffle-2>Sorteo 2</a></p>
+<li><a href=#chart>Gráfico</a></li>
 </ol>
 
 </div>
@@ -57,19 +57,19 @@ table_wearableRaffle6
 
 ## Sorteo de Portales
 
-### Raffle 1 (Haunt 2 Portal Drop)
+### Sorteo 1 (Portales Ritual 2)
 table_portalRaffle1
 
-## Land Raffles
+## Sorteo de Parcelas
 
-### Raffle 1
+### Sorteo 1
 table_landRaffle1
 
-### Raffle 2
+### Sorteo 2
 table_landRaffle2
 
-## Chart
+## Gráfico
 
-What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
+¿Cuáles son tus posibilidades (en porcentaje) de ganar un equipable usando 1 ticket en los sorteos pasados? Echa un vistazo al gráfico de abajo.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
