@@ -15,7 +15,7 @@ Heya Fren! ¿Sabías que si *ciertos complementos* están equipados juntos, pued
 
 El color del borde que rodea a los complementos indica su rareza:
 * <p style="color:#806AFB">Común: Azul Lavanda</p>
-* <p style="color:#98DBE5">Uncommon: Water Leaf</p>
+* <p style="color:#98DBE5">Poco común: Waterleaf </p>
 * <p style="color:#59BCFF">Raro: Malibú</p>
 * <p style="color:#FFC36B">Legendario: Koromiko</p>
 * <p style="color:#FF96FF">Mítico: Rosa Lavanda</p>
@@ -26,21 +26,21 @@ El color del borde que rodea a los complementos indica su rareza:
 **Contenidos**
 
 <ol>
-<li><a href=#key>Key</a></li>
+<li><a href=#key>Clave</a></li>
 <li><a href=#wearable-sets>Sets de Ropa</a></li>
 </ol>
 
 </div>
 
-## Key
+## Clave
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* BRS = [Puntuación base de rareza](/rarity-farming#base-rarity-score)
+* AGG = Agresividad
+* NRG = Energía
+* SPK = Espanto
+* BRN = Inteligencia
 
 ## Sets de Ropa
 
-table_sets
+tabla_sets
 
