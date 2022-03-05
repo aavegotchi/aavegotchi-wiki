@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Estadísticas de los pasados sorteos Aavegotchi'
-description: 'Statistics for Past Raffles'
+description: 'Estadísticas de los pasados sorteos de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
