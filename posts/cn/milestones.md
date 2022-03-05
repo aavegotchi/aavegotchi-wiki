@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Aavegotchi February Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
+* February was another action-packed month for #GotchiGang
+* GHST listing on Aave, Rarity Farming Season 3, Gotchiverse Stress Test #3, and moar!
+<p></p>
+
 ## [The Gotchiverse Bible: Chapter 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
 * Chapter 3 is out!
 * It covers Alchemical Channeling, Wearable Traits Pool, Guilds and Gotchi Lodge, and GAX and GLTR!
