@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'The Nine Aadepts'
-description: 'The Nine Aadepts'
+title: 'Los Nueve Adeptos'
+description: 'Los Nueve Adeptos'
 contributors:
   - "unintelligent-nerd"
 ---
 
-The legend foretells about the coming of The Nine Aadepts! — A blockbuster story of epic proportions by Frenless Summer
+La leyenda pronostica la llegada de Los Nueve Adeptos! — Un taquillazo de proporciones épicas por Frenless Summer
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/the-nine-aadepts/the-nine-aadepts.jpg">
@@ -19,24 +19,24 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 **Contenidos**
 
 <ol>
-<li><a href=#cast>Cast</a></li>
-<li><a href=#chapter-1>Chapter 1</a></li>
+<li><a href=#cast>Reparto</a></li>
+<li><a href=#chapter-1>Capítulo 1</a></li>
 </ol>
 
 </div>
 
-## Cast
+## Reparto
 
-* Narrator: Frenless Summer
-* First Aadept: Nofuturistic
-* Second Aadept: Hefe
-* Third Aadept: Webb
-* Sixth Aadept: Roxiano
-* Eighth Aadept: Dr. Wagmi
-* Ninth Aadept: RyderNasrin
-* The Great Liquidator: Coder Dan
+* Narrador: Frenless Summer
+* Primer adepto: Nofuturistic
+* Segundo Adepto: Hefe
+* Tercer Adepto: Webb
+* Sexto Adepto: Roxiano
+* Octavo Adepto: Dr. Wagmi
+* Noveno Adepto: RyderNasrin
+* El Gran Liquidator: Coder Dan
 
-## Chapter 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Capítulo 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 
 
