@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-Game XP Events'
-description: 'Mini-Game XP Events'
+title: 'Eventos de mini juego XP'
+description: 'Eventos de mini juego XP'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -12,9 +12,9 @@ contributors:
 <p class="headerImageText">Ready Player One!</p>
 </div>
 
-From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
+De vez en cuando, se celebrarán eventos de XP para los [minijuegos](/minigames) de Aavegotchi seleccionados. Los gotchis tienen que competir entre sí en una tabla de clasificación para obtener recompensas de [XP](/xp).
 
-This page details the past mini-game XP events.
+Esta página detalla los pasados eventos de XP para minijuegos.
 
 <div class="contentsBox">
 
@@ -34,43 +34,43 @@ This page details the past mini-game XP events.
 
 ## Gotchi the Gaatherer
 
-Event Duration: 13 - 19 May 2021
+Duración del evento: del 13 al 19 de mayo de 2021
 
 table_gotchiTheGaatherer
 
 ## Snaake
 
-Event Duration: 26 - 30 May 2021
+Duración del evento: del 26 al 30 de mayo de 2021
 
 table_snaake
 
 ## Sushi Vader (1)
 
-Event Duration: 2 - 6 June 2021
+Duración del evento: del 2 al 6 de mayo de 2021
 
-table_sushiVader1
+tabla_sushiVader1
 
 ## Whac-a-Rofl
 
-Event Duration: 12 - 19 August 2021
+Duración del evento: del 12 al 19 de mayo de 2021
 
-table_whacARofl
+tabla_whacarofl
 
 ## Astegotchi
 
-Event Duration: 23 - 26 November 2021
+Duración del evento: del 23 al 26 de mayo de 2021
 
-table_astegotchi
+tabla_astegotchi
 
 ## Sushi Vader (2)
 
-Event Duration: 4 - 11 January 2022
+Duración del evento: del 4 al 11 de mayo de 2022
 
-table_sushiVader2
+tabla_sushiVader2
 
 ## Pinbaal
 
-Event Duration: 29 January - 6 February 2022
+Duración del evento: 29 de enero - 6 de febrero de 2022
 
-table_pinbaal
+tabla_pinbaal
 
