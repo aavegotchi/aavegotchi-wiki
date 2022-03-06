@@ -762,6 +762,8 @@ Option 2: No, do not add any GHST
 
 **Results:**
 
+table_agip21
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xeaac981066e143c46c7a616d2e6ff004d7d4d354005e077f01e3698041e4780a)
 
 <hr>
@@ -811,6 +813,8 @@ Option 3: No, don't launch RF SZN 3
 **Voting Period:** 8 - 15 February 2022
 
 **Results:**
+
+table_agip22
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5ffa4d3b8f4c1d744424af5c0f079ebfa286c9aec9c35e898c2c02bee87a0b60)
 
@@ -863,6 +867,8 @@ Option 3: No, do not support GG
 **Voting Period:** 9 - 15 February 2022
 
 **Results:**
+
+table_agip23
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
 

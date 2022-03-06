@@ -259,6 +259,44 @@ export const tables
         },
 		
 		{
+            tableName: "agip21",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, add $200k GHST", "18,000,000 GHST (93.48%)"],
+					["No, do not add any GHST", "1,300,000 GHST (6.52%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip22",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, launch RF SZN 3", "18,000,000 GHST (89.28%)"],
+					["Yes, but different params", "1,500,000 GHST (7.42%)"],
+					["No, don't launch RF SZN 3", "663,000 GHST (3.3%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip23",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, 10k GHST for rewards + XP", "17,000,000 GHST (88.1%)"],
+					["Yes, but under different terms", "1,900,000 GHST (9.72%)"],
+					["No, do not support GG", "426,000 GHST (2.18%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
