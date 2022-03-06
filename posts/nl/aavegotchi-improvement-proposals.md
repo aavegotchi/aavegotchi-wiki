@@ -751,28 +751,30 @@ Optie 2: Nee, voeg geen GHST toe
 
 **Resultaten:**
 
+table_agip21
+
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xeaac981066e143c46c7a616d2e6ff004d7d4d354005e077f01e3698041e4780a)
 
 <hr />
 
 ### Lancering Rarity Farming SZN 3
-**Aavegotchi Voorstel Verbetering #22**
+**Aavegotchi Improvement Proposal #22**
 
 **Voorstel Samenvatting:**
 
 *Probleem*
 
-Op dit moment gebeurende Rarity Farming Seizoenen sporadisch en zijn ze moeilijk te verantwoorden in de cadentie van Aavegotchi releases. Beleggers moeten zich afvragen of ze aan hun Gotchis en Wearables moeten vasthouden of dat ze misschien een betere ROI kunnen vinden door ze te flippen voor de volgende rondes. Het zou wenselijk zijn om een beetje zekerheid / voorspelbaarheid te hebben voor zowel het investeringssentiment als voor planningsdoeleinden.
+Currently, Rarity Farming Seasons happen sporadically and are difficult to account for in the cadence of Aavegotchi releases. It leaves investors wondering if they should hold onto their Gotchis and Wearables, or if they might find better ROI flipping into the next rounds. It would be desirable to have a bit of certainty / predictability for both investor sentiment and for planning purposes.
 
 *Oplossing*
 
-Rarity Farming moet, indien mogelijk, drie keer per jaar plaatsvinden. Het zou passen bij het seizoensgebonden karakter dat we nu al volgen, dit zou mogelijk moeten zijn op basis van GBM Sales in de tussenseizoenen. De schatkist komt door middel van staking en partnerschappen (zoals het voorstel voor Umbra Bridge), en andere geldstromen zoals DAO Garanten. De auteur van dit voorstel is van mening dat Rarity Farming een essentieel onderdeel is van het Gotchiverse ecosysteem. en iets om op te bouwen en te verbeteren in plaats van te schrappen.
+If possible funding-wise, Rarity Farming should happen three times a year. It would fit in with the seasonal nature we are already following, and if properly planned could be sustainable based on GBM Sales in-between seasons, Treasury revenue via staking and partnerships (such as the Umbra Bridge proposal), and other streams of revenue such as DAO Grants. The author of this proposal believes Rarity Farming is an essential part of the Gotchiverse ecosystem, and something to build out and improve upon rather than scrap.
 
 *Distributie*
 
-Voor Seizoen 3 stel ik voor dat we teruggaan naar de standaard beloningsverhouding, zoals geprobeerd en getest werd in Rarity Farming Seizoen 1. De nieuwelingen van de gelijknamige rankschikking zijn nu allemaal opgegroeid en klaar om te concurreren met de grote jongens. Dit zou betekenen dat 70 procent van de uitbetalingen naar het BRS-klassement gaat, 20% naar het Kinship klassement en 10% naar het XP Klassement.
+For Season 3, I suggest we go back to the standard reward ratio, as was tried and tested in Rarity Farming Season 1. The rookies of the similarly named rookie board are now all grown up and ready to compete with the big boys. This would mean 70% of payouts go to the BRS leaderboard, 20% to the Kinship leaderboard and 10% to the XP leaderboard.
 
-Op basis van de forumdiscussies zou dit het uiteindelijke model voor SZN3 zijn:
+Based on Forum discussions this would be the final model for SZN3:
 
 * 4 ronden (2 weken per stuk)
 * 1.5 Miljoen GHST Beloningen Pool (1.4m GHSTis reeds klaar)
@@ -785,54 +787,56 @@ Op basis van de forumdiscussies zou dit het uiteindelijke model voor SZN3 zijn:
 * SZN 4: juni - juli
 * SZN 5: oktober - november
 
-Bijgewerkte Beloningsblad: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-Aangezien er een ~100k GHST verschil is tussen het voorgestelde bedrag dat zal worden verdeeld en GHST momenteel in de beloningen pool, bevat dit voorstel een financieringsverzoek om het resterende bedrag uit de schatkist van de AavegotchiDAO te halen.
+Since there is a ~100k GHST discrepancy between the proposed amount to be distributed and GHST currently in the rewards pool, this proposal includes a funding request for the remaining amount to be taken out of the AavegotchiDAO Treasury.
 
-Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
 
-Optie 1: Ja, start RF SZN 3
+Option 1: Yes, launch RF SZN 3
 
-Optie 2: Ja, maar andere parameters
+Option 2: Yes, but different params
 
-Optie 3: Nee, start geen RF SZN 3
+Option 3: No, don't launch RF SZN 3
 
 **Stemperiode:** van 8 - 15 februari 2022
 
 **Resultaten:**
+
+table_agip22
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5ffa4d3b8f4c1d744424af5c0f079ebfa286c9aec9c35e898c2c02bee87a0b60)
 
 <hr />
 
 ### Co-Sponsoring van de GoodGhosting Pool
-**Aavegotchi Verbetering Voorstel #23**
+**Aavegotchi Improvement Proposal #23**
 
 **Voorstel Samenvatting:**
 
-*Wat is GoodGhosting?*
+*What is GoodGhosting?*
 
-GoodGhosting is een spaarspel zonder verlies, gebouwd bovenop Aave. In de zomer van 2021 lanceerden we onze allereerste spaarpotjes op Polygon. Tot nu toe hebben we meer dan 7000 gebruikers geholpen om meer dan $600 k aan activa te besparen op Polygon. Alles terwijl je leuke NFT's verzamelt en ons leiderbord beklimt.
+GoodGhosting is a no-loss savings game, built on top of Aave. We launched our very first DeFi savings pools on Polygon, during the summer of 2021. So far, we have helped over 7000 users to save over $600k worth of assets on Polygon. All while collecting some nice NFTs and climbing our leaderboard.
 
-Het GoodGhosting team gelooft in een wereld waar het sparen lonend is, gemakkelijk en plezierig. Bij traditioneel sparen is dat echter niet het geval. We bouwen gedecentraliseerde sociale save applicaties die speldesign elementen combineren met doelgerichte besparing. We willen onze gemeenschap helpen betere financiële gewoonten te ontwikkelen en tegelijkertijd plezier hebben.
+The GoodGhosting team believes in a world where saving is rewarding, easy and fun. Yet, traditional saving is none of that. We build decentralized social saving applications that combine game design elements with goal-based saving. We want to help our community to develop better financial habits, and have fun at the same time.
 
-*Potentiële samenwerking*
+*Potential collaboration*
 
-We willen de GoodGhosting gemeenschap blootstellen aan Aavegotchi, door een Aavegotchi-gethematiseerde spaar pool te introduceren. Deze pool vereist spelers om te sparen in GHST tokens, en ze verdienen er meer GHST bovenop. We zien het als een leuke gelegenheid om de GoodGhosting en Aavegotchi gemeenschappen te kruisen.
+We want to expose the GoodGhosting community to Aavegotchi, by introducing an Aavegotchi-themed savings pool. This pool will require players to save in GHST tokens, and earn them more GHST on top. We see it as a fun opportunity to cross-pollinate the GoodGhosting and Aavegotchi communities.
 
-Aavegotchi is een uniek project dat we vanaf het begin nauwlettend in de gaten hebben gehouden. Zowel als spelers als bewoners van ecosystemen. Naar onze mening bevat het alles wat DeFi en Web3 voorstelt 👻
+Aavegotchi is a one-of-a-kind project we have been keeping a close eye on from the very start. Both as players and as ecosystem residents. In our opinion, it envisions everything that DeFi and Web3 is about 👻
 
-Naast het uitnodigen van alle Aavegotchi gebruikers en de DAO zelf om deel te nemen aan de aankomende GHST spaar pool, wil GoodGhosting de AavegotchiDAO verzoeken om deze pool te sponsoren.
+Besides inviting all Aavegotchi users and the DAO itself to participate in the upcoming GHST savings pool, GoodGhosting would like to request the AavegotchiDAO to consider co-sponsoring this pool.
 
-*Ons verzoek*
+*Our Request*
 
 * Een totaal van 7000 GHST in sponsoring voor deze spaar pool. Om te worden gedeeld tussen alle winnende spelers.
 * De mogelijkheid om succesvolle spaarders te belonen met Gotchi XP, of alternatief FRENS. Overweeg GoodGhosting als een uitgebreid minispel dat mensen aanmoedigt om meer GHST te sparen.
 * Een toewijzing van Aavegotchi NFT's (ter waarde van 3000 GHST) om te verloten aan willekeurige deelnemers en/of aan alle winnaars. Dit zouden Wearables, Gotchi's, Lotterij tickets of Realm-parcelen kunnen zijn.
 
-Deze kunnen worden geleverd door de AavegotchiDAO, of op alternatieve wijze worden gekocht door het GoodGhosting team op de Bazaar. Voor deze extra stimulansen hopen we voordelen te bieden aan een handjevol gelukswinnaars (via een lotterij systeem), en/of een kleinere beloning die haalbaar is om aan alle winnaars te worden gegeven.
+These could either be provided by the AavegotchiDAO, or alternatively purchased by the GoodGhosting team on the Bazaar. For these additional incentives, we hope to provide benefits to a small handful of lucky winners (via a raffle system), and/or a smaller reward that is feasible to be delivered to all winners.
 
-*Wat kan GoodGhosting naar de tafel brengen?*
+*What can GoodGhosting bring to the table?*
 
 * Tot 4000 WMATIC tokens in sponsoring (van onze DeFiForAll subsidies). Om te worden gedeeld tussen alle winnende spelers.
 * Een instroom van nieuwe gebruikers in het Aavegotchi ecosysteem. Tot nu toe hebben meer dan 20500 gebruikers zich aangesloten bij onze Celo en Polygon spaar pools. De meeste zijn nog niet aan Aavegotchi of GHST blootgesteld en velen zullen waarschijnlijk de Gotchigang betreden.
@@ -841,17 +845,19 @@ Deze kunnen worden geleverd door de AavegotchiDAO, of op alternatieve wijze word
 * Enkele zeer speciale NFT's door onze in-house artiest Mali3D
 * Een verhoogde GG-score voor alle succesvolle spaarders
 
-Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
 
-Optie 1: Ja, 10k GHST voor beloningen + XP
+Option 1: Yes, 10k GHST for rewards + XP
 
-Optie 2: Ja, maar onder andere voorwaarden
+Option 2: Yes, but under different terms
 
-Optie 3: Nee, GG niet ondersteunen
+Option 3: No, do not support GG
 
-**Stemperiode:** van 9 tot 15 februari 2022
+**Voting Period:** 9 - 15 February 2022
 
 **Resultaten:**
+
+table_agip23
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
 
@@ -860,27 +866,27 @@ Optie 3: Nee, GG niet ondersteunen
 ### Naam van de Aavegotchi Marktplaats
 **Snapshot Stemming**
 
-**Voorstel samenvatting:** Hoe moet de Aavegotchi NFT Marktplaats worden genoemd?
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
-Aavegotchi lanceert zijn eigen NFT-marktplaats op Polygon in combinatie met het spel!
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
-Hoe moeten we de officiële Aavegotchi Marketplace noemen?
+What should we call the official Aavegotchi Marketplace?
 
-Keuze A: Aavegotchi Baazaar
+Choice A: Aavegotchi Baazaar
 
-Keuze B: Aavegotchi Maarket
+Choice B: Aavegotchi Maarket
 
-Keuze C: Geen
+Choice C: Neither
 
-Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum niet is bereikt, kiest Pixelcraft een willekeurige winnaar.
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
 
-Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
+If "Neither" wins...you guys better start coming up with some good alternatives!
 
-**Stemperiode:** van 8 tot 11 februari 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Resultaten:**
 
-tabel_marketplaceName
+table_marketplaceName
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
@@ -890,23 +896,23 @@ tabel_marketplaceName
 
 **Snapshot Stemming**
 
-**Voorstel samenvatting:** Moet GHST-USDC LP token in aanmerking komen om FRENS te verdienen?
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
-Ons liquiditeitsmigratieprogramma is een groot succes geweest, waarbij al meer dan 8 miljoen GHST naar Polygon is gemigreerd. Echter, zoals veel leden van de gemeenschap hebben opgemerkt, liquiditeit voor het GHST-USDC paar is nog steeds niet diep genoeg om het handelen van grote hoeveelheden USDC voor GHST op Quickswap te ondersteunen.
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-Een manier om dit te verhelpen is door GHST-USDC toe te voegen als een paar en dat deze in aanmerking komen voor FRENS op [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Net zoals GHST-QUICK een ontvangst token stkGHST-QUICK heeft, kan GHST-USDC ook een stkGHST-USDC token hebben, die in aanmerking kan komen voor beloningen op Quickswap, als hun team dat nodig acht.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
-Aangezien dit besluit rechtstreeks van invloed is op gameplay, zijn wij van mening dat het een rijpe kandidaat is voor onze eerste Snapshot stemming op Polygon.
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 
-We stellen een GHST quorum van 500.000 vast voor deze stemming.
+We are setting a 500,000 GHST quorum for this vote to be enacted.
 
-Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Stemperiode:** van 8 tot 11 februari 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Resultaten:**
 
-tabel_ghstUsdcLp
+table_ghstUsdcLp
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
@@ -916,11 +922,11 @@ tabel_ghstUsdcLp
 
 **Snapshot Stemming**
 
-**Voorstel Samenvatting:** Hoeveel portalen kunnen gekocht worden in één transactie?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
-De discussieduur is afgelopen voor dit onderwerp en nu is het tijd om te stemmen! De meest populaire opties waren: 1, 5 en 10 Portalen per transactie.
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
-Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: een "Ape Tax" waardoor meer portalen in één transactie konden worden gekocht, maar tegen een hogere prijs. De portalen zouden op deze manier gerankschikt worden:
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
 
 * 0-5: 100 GHST elk
 
@@ -928,20 +934,20 @@ Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: e
 
 * 16-25: 300 GHST elk
 
-Dit laat ons dus vier opties over: 1, 5, 10 en 25 (v/ape tax).
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 
-Laat je $GHST token voor je spreken en stem!
+Let your $GHST token speak for you, and vote!
 
-Stemperiode: 72 uur Minimum quorum: 10% van het GHST op Matic (~1,1M GHST)
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-AavegotchiDAO discussieonderwerp 👇
+AavegotchiDAO discussion topic 👇
 
-[https://dao.aavegotchi.com/nl/how-many-portals-should-be-be--in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Stemperiode:** van 23 tot 26 februari 2021
+**Voting Period:** 23 - 26 February 2021
 
 **Resultaten:**
 
-tabel_portalen gekocht
+table_portalsPurchased
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
