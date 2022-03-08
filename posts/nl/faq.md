@@ -63,10 +63,10 @@ contributors:
 <p><a href=#are-there-limited-quantities-for-each-wearable->Zijn er beperkte hoeveelheden voor elke wearable?</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>Ik heb de wearables van mijn Aavegotchi uitgedaan en ik kan ze niet vinden in mijn inventaris</a></p>
 <p><a href=#why-are-there-missing-ids-in-the-wearables-page->Waarom ontbreken er ID's op de Wearables pagina?</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
-<p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
+<li><a href=#portal-faq>Portaal Veelgestelde Vragen</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Hoeveel portalen kan je kopen in 1 transactie?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Als ik een portaal open maar niet de atoken heb die nodig zijn om aanspraak te maken op de gotchi, kan ik dan later nog terugkomen om dat op te eisen?</a></p>
+<p><a href=#when-will-portals-be-released->Wanneer worden portalen vrijgegeven?</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
@@ -346,15 +346,15 @@ At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocke
 ### Waarom ontbreken er ID's op de Wearables pagina?
 These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
 
-## Portal FAQ
+## Portaal Veelgestelde Vragen
 
-### How many portals can you buy in 1 transaction?
+### Hoeveel portalen kan je kopen in 1 transactie?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Als ik een portaal open maar niet de atoken heb die nodig zijn om aanspraak te maken op de gotchi, kan ik dan later nog terugkomen om dat op te eisen?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
-### When will portals be released?
+### Wanneer worden portalen vrijgegeven?
 Portals will be released on Polygon at February.
 
 ## AavegotchiDAO FAQ
