@@ -61,7 +61,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi.land](https://aavegotchi.land/) — API для Аавеготчи/Открытые порталы/листинг лотерейных билетов.
 
-* [GHST_GG](https://ghst.gg/) — базу для рынка Готчи/Калькулятор лотереи.
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
 
 * [Haaunt.com](https://haaunt.com/) — таблицу лидеров Аавеготчи/цены на носимые устройства.
 
