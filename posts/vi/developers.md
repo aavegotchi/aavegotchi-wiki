@@ -61,7 +61,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Aavegotchi.land](https://aavegotchi.land/) - API dành cho Aavegotchi / Open Portals / Niêm yết Raffle Tickets
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Market Explorer / Công Cụ Tính Toán Dành cho Raffle
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
 
 * [Haaunt.com](https://haaunt.com/) - Bảng xếp hạng Aavegotchi / Giá trang phục
 
