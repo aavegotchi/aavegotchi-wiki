@@ -61,7 +61,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi.land](https://aavegotchi.land/) - API for Aavegotchi / Open Portals / Raffle Tickets listing
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Market Explorer / Raffle Calculator
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
 
 * [Haaunt.com](https://haaunt.com/) - Aavegotchi Leaderboard / Wearable Prices
 
