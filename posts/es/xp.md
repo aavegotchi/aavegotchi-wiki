@@ -18,6 +18,7 @@ Aavegotchis sube de nivel a medida que ganan más experiencia (XP). Pero, ¿cuá
 <li><a href=#formula>Fórmula</a></li>
 <li><a href=#experience-table>Tabla de experiencia</a></li>
 <li><a href=#tracking-xp-received>Seguimiento de XP recibida</a></li>
+<li><a href=#xp-requirements-for-joining-guilds>XP Requirements for joining Guilds</a></li>
 </ol>
 
 </div>
@@ -54,3 +55,13 @@ tabla_XP
 Nuestro amigo el arquitecto [](/aarchitect) Frank Pfeift ha creado una aplicación para rastrear la XP que un Gotchi ha recibido a lo largo de su vida.
 
 Se puede acceder a su aplicación [aquí](https://aavegotchi-xp-dashboard.vercel.app). Tu Gotchi ID son los dígitos que se encuentran al final de la URL en tu página de perfil del [Gotchi](/aavegotchi-profile).
+
+## XP Requirements for joining Guilds
+
+Gotchis are social creatures who love to hang with their frens, but much like starry-eyed college freshmen trying to attend every campus club activity, they get burned out with too much social activity.
+
+As they gain more experience and become more worldly, their work-life balance improves, allowing them to take on more [Guild](/guild) responsibilities.
+
+Thus, how many Guilds a Gotchi can join depends on its XP Level.
+
+table_xpRequirementForGuilds
