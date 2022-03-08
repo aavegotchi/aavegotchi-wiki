@@ -61,7 +61,7 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [Aavegotchi.land](https://aavegotchi.land/) - API voor Aavegotchi / Open Portals / Lotterij Tickets lijstingen
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Markt Verkenner / Lotterij Calculator
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
 
 * [Haaunt.com](https://haaunt.com/) - Aavegotchi Rankschikking / Wearable Prijzen
 
