@@ -67,18 +67,18 @@ contributors:
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->Hoeveel portalen kan je kopen in 1 transactie?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Als ik een portaal open maar niet de atoken heb die nodig zijn om aanspraak te maken op de gotchi, kan ik dan later nog terugkomen om dat op te eisen?</a></p>
 <p><a href=#when-will-portals-be-released->Wanneer worden portalen vrijgegeven?</a></p>
-<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
-<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
-<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
-<p><a href=#why-20--quorum-for-signal-proposals->Why 20% Quorum for Signal Proposals?</a></p>
-<p><a href=#why-two-votes->Why Two Votes?</a></p>
-<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
-<p><a href=#what-about-funding-proposals->What about Funding Proposals?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO Veelgestelde Vragen</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Hoe stem ik met Trust Wallet op Aragon?</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Waarom zegt het een verkeerde tijdstempel in Snapshot stemmen?</a></p>
+<p><a href=#why-20--quorum-for-signal-proposals->Waarom 20% quorum voor Signaal Voorstellen?</a></p>
+<p><a href=#why-two-votes->Waarom twee stemmen?</a></p>
+<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->Ik heb al mijn GHST budget gespendeerd aan portalen en Wearables - Wat is mijn stem?</a></p>
+<p><a href=#what-about-funding-proposals->Hoe zit het met de financieringsvoorstellen?</a></p>
+<li><a href=#gameplay-faq>Gameplay Veelgestelde Vragen</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Betekent hogere eigenschappen altijd een hogere zeldzaamheid?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Hoeveel kost het om te spelen?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Heeft het veranderen van de onderpand invloed op kinship level?</a></p>
+<li><a href=#aambassador-faq>Aambassador Veelgestelde Vragen</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
 <p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
@@ -357,51 +357,51 @@ Yes, you can leave the portal opened, go acquire the specific aToken, and come b
 ### Wanneer worden portalen vrijgegeven?
 Portals will be released on Polygon at February.
 
-## AavegotchiDAO FAQ
+## AavegotchiDAO Veelgestelde Vragen
 
-### How do I vote using Trust Wallet on Aragon?
+### Hoe stem ik met Trust Wallet op Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
 
 See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
-### Why does it say wrong timestamp in Snapshot Voting?
+### Waarom zegt het een verkeerde tijdstempel in Snapshot stemmen?
 This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
-### Why 20% Quorum for Signal Proposals?
+### Waarom 20% quorum voor Signaal Voorstellen?
 A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
 
-### Why Two Votes?
+### Waarom twee stemmen?
 There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
 
 Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
 
 **If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
 
-### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
+### Ik heb al mijn GHST budget gespendeerd aan portalen en Wearables - Wat is mijn stem?
 You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
 
-### What about Funding Proposals?
+### Hoe zit het met de financieringsvoorstellen?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
 
 **Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
 
 That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
-## Gameplay FAQ
+## Gameplay Veelgestelde Vragen
 
 
-### Do higher trait scores always mean higher rarity?
+### Betekent hogere eigenschappen altijd een hogere zeldzaamheid?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Hoeveel kost het om te spelen?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
-### Does changing the collateral staked affect kinship level?
+### Heeft het veranderen van de onderpand invloed op kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Aambassador FAQ
+## Aambassador Veelgestelde Vragen
 
 ### Do I need to fill out monthly reports as an Aambassador?
 
