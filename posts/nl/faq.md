@@ -313,49 +313,49 @@ Ja, er is niets mis met uzelf te uitbieden om de stimulans te verdienen. Niet te
 Deze minimale 'stap' is zorgvuldig berekend door de speltheorie van GBM om ervoor te zorgen dat de veiling volledig wordt gefinancierd, ongeacht hoeveel biedingen worden gedaan. Zonder een minimale verhoging dreigt de veiling ondergefinancierd te worden.
 
 ### Is er een minimum bod?
-Er is geen minimum bod voor de Veiling. Als u wilt, kunt u 1 GHST bieden! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+Er is geen minimum bod voor de Veiling. Als u wilt, kunt u 1 GHST bieden! Houd er rekening mee dat hoe hoger je aanbiedt, hoe meer je potentieel verdiend als je een bod doet.
 
 ### Wat voorkomt dat bots alle items opvegen?
-In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+In eennormale NFT-drop, kan een geautomatiseerd script luisteren naar blockchain-gebeurtenissen en het eerste kopen van een item wanneer het de blockchain raakt.
 
-This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+Dit snelheidsvoordeel wordt volledig ingeperkt door het veilingsysteem - bots zullen NIET weglopen met NFT's in een Aavegotchi Aauction!
 
 ### Wat voorkomt dat bots het einde van een veiling kunnen saboteren?
-If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+Als er in de laatste vijf minuten van de Veiling een bod is geplaatst, wordt de “hamertijd” met nog eens vijf minuten verlengd. Dit voorkomt in feite dat bots het einde nietig maken, omdat ze nog steeds uitgeboden kunnen worden.
 
 ### Hoe claim ik mijn NFT?
-If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+Als u aan het einde van de Auction de hoogste bieder bent, verschijnt er een "Claim NFT" knop op uw pagina Mijn biedingen. waarmee u het NFT direct in uw portemonnee kunt claimen!
 
 ## Wearable Veelgestelde Vragen
 
 ### Moet ik mijn wearable vouchers overzetten naar Polygon?
-Nee. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+Nee. Zowel geclaimde als niet-geclaimde wearable vouchers zullen automatisch worden overgedragen naar Polygon wanneer Aavegotchi lanceert.
 
 ### Zijn er beperkte hoeveelheden voor elke wearable?
-Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+Ja. Elke wearable heeft een beperkte hoeveelheid. U kunt de hoeveelheid bekijken op de [Wearables pagina](/wearables).
 
-For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+Voor maall-gekochte wearabels betekent dit dat als eenmaal een wearable is verkocht, deze nooit meer in Maall beschikbaar zal zijn. Je kunt het alleen kopen van andere mensen die dat wearable hebben.
 
 ### Ik heb de wearables van mijn Aavegotchi uitgedaan en ik kan ze niet vinden in mijn inventaris
-Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
+Elke Aavegotchi heeft zijn eigen inventaris, bekend als een [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). Wanneer u een wearable van uw Aavegotchi uitdoet, gaat de wearable naar dat specifieke Aavegotchi's Gotchi Pocket.
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+Jij (de eigenaar) heeft ook je eigen aparte inventaris. Zeer waarschijnlijk verwijst u naar het feit dat u niet in staat bent om het wearable in uw inventaris te vinden.
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+Op elke [Aavegotchi's profielpagina](/aavegotchi-profile)zal er een "Pocket" knop staan aan de rechterbenedenhoek van het scherm. Klik erop en verplaats vervolgens de wearable van de Aavegotchi Pocket naar je persoonlijke inventaris.
 
 ### Waarom ontbreken er ID's op de Wearables pagina?
-These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
+Dit zijn objecten (IDs 162-198, 210) die geen wearabels zijn. Ze vertegenwoordigen [Baadges](/baadge) en de Haunt 1 achtergrond.
 
 ## Portaal Veelgestelde Vragen
 
 ### Hoeveel portalen kan je kopen in 1 transactie?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+Elke gebruiker kan tot 50 portalen in 1 transactie kopen. Dit om te voorkomen dat walvissen een groot aantal portalen in één keer monopoliseren.
 
-### Als ik een portaal open maar niet de atoken heb die nodig zijn om aanspraak te maken op de gotchi, kan ik dan later nog terugkomen om dat op te eisen?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+### Als ik een portaal open maar niet de aToken heb die nodig zijn om aanspraak te maken op de gotchi, kan ik dan later nog terugkomen om dat op te eisen?
+Ja, je kunt het portaal openlaten, ga de specifieke aToken verwerven en kom later terug om je gotchi op te roepen. Je hoeft de aTokens niet van tevoren voor te bereiden.
 
 ### Wanneer worden portalen vrijgegeven?
-Portals will be released on Polygon at February.
+Poorten worden in februari vrijgelaten op Polygon.
 
 ## AavegotchiDAO Veelgestelde Vragen
 
