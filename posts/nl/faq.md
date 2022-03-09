@@ -385,7 +385,7 @@ Financieringsverzoeken worden niet gevonden in het *Cocoon* voorstel sjabloon, v
 
 **Financieringsvoorstellen zullen zeker een centraal onderdeel zijn van Metamorphose, maar Cocoon concentreert zich meer op het maken van gamemechanische beslissingen.**
 
-That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+Dat gezegd hebbende, *Cocoon* is een experimentele governance fase en het kan niet buiten de mogelijkheid vallen om een goed idee significante steun te zien waarvoor in feite schatkistfondsen van de DAO nodig zijn. Een dergelijke situatie vereist ongetwijfeld een stemming op het Galaxy-niveau en een quorum van 20 procent. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
 ## Gameplay Veelgestelde Vragen
 
