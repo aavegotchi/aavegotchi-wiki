@@ -40,6 +40,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
+<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins</a></li>
@@ -211,6 +212,15 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+
+### Mori - Solidity Developer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/mori.jpg" alt = "Mori">
+<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
+</div>
+
+Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
 ### JC - Business Development
 
