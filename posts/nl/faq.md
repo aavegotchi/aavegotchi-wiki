@@ -254,7 +254,7 @@ Nee. Wanneer u aankoop/verkoop van GHST token op de band curve maakt, worden tra
 ## FRENS Veelgestelde Vragen
 
 ### Kan ik FRENS kopen?
-Nee. GRATIS is een manier om onze communityleden die GHST hebben gestaked te belonen.
+Nee. FRENS is een manier om onze communityleden die GHST hebben gestaked te belonen.
 
 ### Worden FRENS voor iets anders gebruikt buiten lotterijen?
 
@@ -264,7 +264,7 @@ Nee, het enige wat FRENS doen is om in Aavegotchi lotterijen worden ingevoerd. D
 Uw FRENS saldo zal automatisch worden overgedragen naar Polygon. FRENS op Mainnet zullen dan waardeloos worden.
 
 ### Waarom levert de GHST-USDC LP 74M FRENS per dag op?
-Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aande pool toevoegen, zoals 0,00006. Bekijk de tweet [hier](https://twitter.com/coderdannn/status/1362423402871447554) voor lulz.
+Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. Bekijk de tweet [hier](https://twitter.com/coderdannn/status/1362423402871447554) voor lulz.
 
 ## Lotterij Veelgestelde Vragen
 
@@ -355,35 +355,35 @@ Elke gebruiker kan tot 50 portalen in 1 transactie kopen. Dit om te voorkomen da
 Ja, je kunt het portaal openlaten, ga de specifieke aToken verwerven en kom later terug om je gotchi op te roepen. Je hoeft de aTokens niet van tevoren voor te bereiden.
 
 ### Wanneer worden portalen vrijgegeven?
-Poorten worden in februari vrijgelaten op Polygon.
+Poorten worden in februari vrijgegeven op Polygon.
 
 ## AavegotchiDAO Veelgestelde Vragen
 
 ### Hoe stem ik met Trust Wallet op Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+Op dit moment heeft Aragon Trust Wallet nog niet geïntegreerd. Een alternatieve oplossing is om je private keys te importeren van je Trust Wallet naar Metamask. Eenmaal in Metamask, kunt u nu stemmen op Aragon.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Zie [hier](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) voor meer informatie over hoe je dit moet doen.
 
 ### Waarom zegt het een verkeerde tijdstempel in Snapshot stemmen?
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+Dit komt omdat de tijdstempel op je apparaat/computer verschilt van de tijdstempel op Snapshot. Stel uw computertijd in op automatische toepassing, zodat deze overeenkomt met de tijdstempel op Snapshot.
 
 ### Waarom 20% quorum voor Signaal Voorstellen?
-A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
+Een quorum van 20 procent zorgt ervoor dat signaalvoorstellen met een aanzienlijk communautair belang gegarandeerd worden dat er een kernstem wordt uitgebracht terwijl ideatie en meer niche-suggesties ook een platform hebben om hun populariteit te testen.
 
 ### Waarom twee stemmen?
-There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
+Er zijn twee belangrijke redenen waarom een signaalvoorstel dat het quorum van 20 procent bereikt (en de meerderheid steunt) nog steeds een tweede stemming als kernvoorstel nodig heeft. Ten eerste kijkt de bredere gemeenschap, en dat wordt ook niet verwacht, niet dagelijks of er te stemmen valt. Kernvoorstellen zijn zeldzamere voorvallen die worden uitgezonden over alle sociale medias, waardoor alle soorten gemeenschapsleden worden ingelicht.
 
-Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
+Ten tweede is het heel mogelijk, zelfs waarschijnlijk. dat sommige Signaal Voorstellen quorum bereiken terwijl ze onvoldoende voldoen aan het voorgeschreven sjabloon voor een Signaal Voorstel (zie [hier](/dao#creating-signal-proposals)). Het kan nodig zijn het voorstel aan te passen om aan alle aspecten van het sjabloon te voldoen.
 
-**If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**Als een Signaal voorstel het quorum van 20% niet bereikt, houdt dit geen rekening met de verdiensten van het voorstel, Het betekent gewoon dat het voorstel niet automatisch wordt opgewaardeerd tot een bindende communautaire stem.** Elk goed geschreven signaalvoorstel met goede ideeën moet nog steeds worden beschouwd als een gezonde bijdrage aan de DAO en kan heel goed Pixelcraft en toekomstige gemeenschapsvoorstellen beïnvloeden. Pixelcraf kan af en toe Signal Proposals kiezen die het quorum niet hebben bereikt, en op basis daarvan er nog een Kern Voorstel van maken.
 
-### Ik heb al mijn GHST budget gespendeerd aan portalen en Wearables - Wat is mijn stem?
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+### Ik heb al mijn GHST budget gespendeerd aan Portalen en Wearables - Wat is mijn stem?
+Je hebt geluk! Het Aavegotchi spel is altijd bedoeld om stemkracht toe te wijzen op basis van Aavegotchi eigendom, naast het vasthouden van alleen GHST. Met het passeren van [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price)hebben wearables nu stemrecht in AavegotchiDAO. Het stemvermogen (gemeten in GHST) van een bepaalde wearable is gebaseerd op de Rarity Type/Maall prijs. Zie [hier](/wearables#voting-power) voor meer informatie.
 
 ### Hoe zit het met de financieringsvoorstellen?
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+Financieringsverzoeken worden niet gevonden in het *Cocoon* voorstel sjabloon, voornamelijk omdat het beginsel 'lopen vóór uitvoeren' suggereert dat we ons richten op het vaststellen van een gezond kader voordat we financiële complexiteiten introduceren.
 
-**Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
+**Financieringsvoorstellen zullen zeker een centraal onderdeel zijn van Metamorphose, maar Cocoon concentreert zich meer op het maken van gamemechanische beslissingen.**
 
 That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
