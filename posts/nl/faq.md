@@ -180,57 +180,57 @@ Op dit moment kan je:
 
 ### Heb ik KYC nodig om Aavegotchi te spelen of om de GHST token te bezitten?
 
-Nee! Je hoeft alleen KYC te doen als je GHST direct van de [bonding curve](/curve) wilt kopen. U kunt GHST kopen op [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) zonder KYC, evenals op [bepaalde beurzen](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+Nee! Je hoeft alleen KYC te doen als je GHST direct van de [bonding curve](/curve) wilt kopen. U kunt GHST kopen op [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) zonder KYC, evenals op [bepaalde beurzen](https://www.coingecko.com/en/coins/aavegotchi#markets). Ondertussen is **geen KYC** vereist om [portalen](/portals) te kopen, [mini-games](/minigames), [staking GHST](/staking), of voor elk ander aspect van het Aavegotchi project zelf.
 
-The table below summarizes the information:
+De onderstaande tabel vat de informatie samen:
 
-table_kyc
+tabel_kyc
 
 ### Wat heeft Aave te maken met Aavegotchi?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi begon met een Aave ecosysteem grant, toevertrouwd met toestemming om het Aave spook logo te gebruiken. Het Aavegotchi spel bevat het gebruik van [aTokens](/spirit-force) als centraal element van gameplay, en vanaf november 2020, is ook Aave een [officiële investeerder](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, het team achter Aavegotchi.
 
 ### Kunnen de aTokens in een Aavegotchi worden geliquideerd?
-No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+Nee. De aTokens die binnen een Aavegotchi staken kunnen niet worden gebruikt als onderpand voor het lenen op het Aave platform. Dergelijke aTokens kunnen dus niet geliquideerd worden.
 
 ### Wat zijn maTokens?
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+makens zijn aTokens van Aave V2 die zijn overgedragen naar Polygon. Net als Atokens wint men na verloop van tijd interest!
 
 ### Kan CAPTCHA worden gebruikt om bots te voorkomen?
-No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+Nee. De [Aaavegotchi.com website](https://aavegotchi.com/) is slechts een interface. Bots omzeilen de interface en interactie met het onderliggende smart contract direct.
 
-This is a feature of permissionless blockchains. It cannot be stopped.
+Dit is een functie van permissieloze blockchains. Het kan niet worden gestopt.
 
 ### Zijn amTokens hetzelfde als maTokens?
-No. amTokens are **not** the same as maTokens.
+Nee. amTokens zijn **niet** hetzelfde als maTokens.
 
-maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+makens zijn aTokens van Aave V2 op Ethereum Mainnet die zijn vertegenwoordigd op Polygon. Ze worden gemaakt door [Nick](/team#nick-mudge) om de lancering van Aavegotchi op Polygon te versnellen.
 
-Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
+Daarnaast is ook Aave zelf verhuisd naar Polygon. Tokens van hun Aave (Polygon) markten zijn bekend als amTokens.
 
-Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
+Beide categorieën van tokens zullen een verschillend rentepercentage hebben. Voor de maTokens zijn de rentetarieven te zien op de Aave V2-markt. Voor amTokens kunnen hun rentetarieven in de Aave markt worden waargenomen (Polygon).
 
-Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
+Aavegotchis van [Haunt](/haunt) 1 gebruiken maTokens als hun Spirit Force.
 
-From Haunt 2 onwards, amTokens will be used as Spirit Force.
+Vanaf Haunt 2, zullen amTokens gebruikt worden als Spirit Force.
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+Zowel de maTokens als amTokens zijn genereren interest. Echter, *de manier* waarop ze rente opwekken verschilt:
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. De waarde van de maTokens neemt toe, maar omdat de hoeveelheid niet verandert, is het niet mogelijk om maTokens uit de Gotchis te halen, tenzij je je Gotchi opoffert om bij het onderliggende onderpand te komen.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amTokens nemen na verloop van tijd **hoeveelheid** toe. Dit geldt voor Aavegotchis uit Haunt 2 en daarna. De opgebouwde rente wordt weerspiegeld in hoeveelheid. Zo is het mogelijk om amTokens terug te trekken zodra er voldoende rente is gegenereerd.
 
-### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
-QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+### Waarom kan ik mijn activa niet wisselen voor maLINK/maUNI op Quickswap?
+QuickSwap heeft routing problemen voor een paar maTokens zoals maUNI en maLINK. U moet eerst handmatig wisselen naar maUSDC en daarna de respectievelijke maToken ontvangen.
 
-**Doesn't work**: ETH/USDC -> maUNI/maLINK
+**werkt niet**: ETH/USDC -> maUNI/maLINK
 
-**Works**: maUSDC -> maUNI/maLINK
+**Werkt**: maUSDC -> maUNI/maLINK
 
 ### Zal Aavegotchi worden geïntegreerd in OpenSea?
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Aavegotchi is volledig compatibel met OpenSea (en andere secundaire marktplaatsen) op Ethereum Mainnet. De uitdaging ligt bij OpenSea Polygon. Wanneer iemand een Gotchi te koop aanbiedt op de Baazaar, worden hun wearables samen met de Gotchi vermeld. OpenSea Polygoon heeft dit vergrendelingsmechanisme niet op zijn plaats. Vandaar dat Gotchi verkopers op OpenSea Polygon mogelijk potentiële kopers van de Gotchi's wearabels zouden kunnen bestelen. Om kopers te beschermen heeft Pixelcraft OpenSea laten weten dat ze geen lijsting op Polygon zullen ambitieren.
 
-Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
+Evenzo zijn er enkele beperkingen met het lijsten van wearables op OpenSea Polygon. Vanwege de manier waarop OpenSea Polygon parkeert, hebben ze enige moeite met het parsen van de ERC-1155 wearabels. Het probleem is dat dezelfde adres zowel ERC-721s (Gotchis) als ERC-1155s (wearables) bevat. Hun infrastructuur is niet opgezet om beide partijen in hetzelfde contract te behandelen.
 
 ### Waar kan ik de Aavegotchi Litepaper vinden?
 
@@ -249,12 +249,12 @@ After making a purchase on the bonding curve, you need to make another transacti
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+Nee. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## FRENS Veelgestelde Vragen
 
 ### Kan ik FRENS kopen?
-No. FRENS are a way to reward our community members who staked GHST.
+Nee. FRENS are a way to reward our community members who staked GHST.
 
 ### Worden FRENS voor iets anders gebruikt buiten lotterijen?
 
@@ -279,7 +279,7 @@ Nee! Please be aware simply buying tickets with FRENS **does not automatically e
 
 ### Zullen lotterij wearables beschikbaar zijn in de Aavegotchi winkel?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+Nee. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Zijn lotterij wearables speciaal?
@@ -329,7 +329,7 @@ If you’re the highest bidder at the end of the Auction, you’ll see a “Clai
 ## Wearable Veelgestelde Vragen
 
 ### Moet ik mijn wearable vouchers overzetten naar Polygon?
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+Nee. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ### Zijn er beperkte hoeveelheden voor elke wearable?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
