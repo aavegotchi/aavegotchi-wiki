@@ -103,65 +103,65 @@ contributors:
 <p><a href=#will-aavegotchi-run-on-layer-2->Worden Aavegotchi uitgevoerd op Layer 2?</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Moet ik mijn Aave tokens migreren?</a></p>
 <p><a href=#how-do-i-migrate-to-polygon->Hoe migreer ik naar Polygon?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Ik heb een ledger/ trezor, wat doe ik</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Waarom kan ik mijn Polygon GHST niet zien op Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Waarom kan ik mijn LP Tokens niet zien in QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Kan ik Polygon-side tokens direct naar gecentraliseerde Exchanges sturen?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Waarom verwerpt Metamask mijn token symbool?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Ik heb mijn GHST uit Polygon teruggetrokken, maar ik moet ze nog ontvangen zelfs na een lange wachttijd</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Waarom ervaart ik vertraging op Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Waar vind ik mijn Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Waar vind ik mijn Gotchi adres?</a></p>
 </ol>
 
 </div>
 
 &nbsp;
 
-The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
+De FAQ is ontworpen als een snelle-referentiegids voor korte antwoorden op snelle vragen. Voor meer diepgaande info, bekijk de ingesloten links of gebruik onze zijbalk voor algemene onderwerpen.
 ## Algemene Veelgestelde Vragen
 
 
 ### Ik ben nieuw in Aavegotchi. Hoe speel ik na de lancering?
 
-* **STEP 1:** Buy [GHST](/ghst)
+* **STAP 1:** Koop [GHST](/ghst)
 
-* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+* **STAP 2:** Gebruik GHST om een [portaal te kopen](/portals) of een Aavegotchi van de [Baazaar](/baazaar)
 
-* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+* **STAP 3:** Haal wat wearables voor je Gotchi van de Baazaar
 
-* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+* **STAP 4:** Pet elke 12 uur je Gotchi om zijn/haar [kinship](/traits#kinship) te verhogen
 
-* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+* **STAP 5:** Neem deel aan [Rarity Farming](/rarity-farming)
 
-* **STEP 6:** Play some [Mini-Games](/minigames)
+* **STAP 6:** Speel wat [Mini-Games](/minigames)
 
-* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
+* **STAP 7:** Wacht tot de [Gotchiverse](/gotchiverse) lanceert!
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+Hier kun je een diepgaand overzicht van het spel <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">vinden.</a>
 
 ### Wanneer kan ik een Aavegotchi krijgen?
 
-2 March 2021 on Polygon! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
+2 maart 2021 op Polygon! De [Gotchiverse](/gotchiverse) opent kort na (Q1 2021).
 
 ### Hoeveel kost het om Aavegotchi te spelen?
-There are a couple of ways to get an Aavegotchi:
+Er zijn een aantal manieren om een Aavegotchi te verkrijgen:
 
-* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+* Koop een [portaal](/portals) tijdens een portaldrop, open het, en [claim](/portals#claiming-an-aavegotchi) de Gotchi door het minimum vereiste aantal Spirit Forces uit te delen.
 
-Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+Kost: 100 GHST + 10 DAI in onderpand (u heeft misschien meer onderpand nodig als u een rarer Gotchi uit de portal kiest). Deze optie is alleen haalbaar tijdens portaldrops, wanneer ze heel snel worden weggevaagd.
 
-* Buy an Unopened Portal at the [Baazaar](/baazaar).
+* Koop een Niet-geopend Portaal in de [Baazaar](/baazaar).
 
-Cost: Variable.
+Kost: Variabel.
 
-* Buy an Opened Portal at the [Baazaar](/baazaar).
+* Koop een Geopende Portaal in de [Baazaar](/baazaar).
 
-Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+Kost: Variabel, maar goedkoper dan Ongeopende portalen die in de Baazaar worden gekocht omdat de 10 Gotchis erin zijn onthuld.
 
-* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+* Koop een Aavegotchi van iemand anders die hem verkoopt in de [Baazaar](/baazaar).
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+Kost: Variabel. Afhankelijk van de zeldzaamheid van de Gotchi, of het komt met wearables, Baadges, etc.
 
 ### Wanneer is de mainnet lancering?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
@@ -497,18 +497,18 @@ Check out our [Polygon Migration Guide](/polygon).
 ### I have a ledger / trezor, what do I do?
 You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### Why can't I see my Polygon GHST on Metamask?
+### Waarom kan ik mijn Polygon GHST niet zien op Metamask?
 
 Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### Why can't I see my LP Tokens on QuickSwap?
+### Waarom kan ik mijn LP Tokens niet zien in QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Can I send Polygon-side tokens to Centralized Exchanges directly?
+### Kan ik Polygon-side tokens direct naar gecentraliseerde Exchanges sturen?
 **No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
-### Why is Metamask rejecting my token symbol?
+### Waarom verwerpt Metamask mijn token symbool?
 
 Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
@@ -516,7 +516,7 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
-### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+### Ik heb mijn GHST uit Polygon teruggetrokken, maar ik moet ze nog ontvangen zelfs na een lange wachttijd
 
 I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
@@ -532,13 +532,13 @@ If your transaction has not been processed by Polygon, please continue to wait p
 
 If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Why am I experiencing lag on Polygon?
+### Waarom ervaart ik vertraging op Polygon?
 
 You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### Where do I find my Gotchi Token ID?
+### Waar vind ik mijn Gotchi Token ID?
 
 To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
@@ -552,7 +552,7 @@ Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord h
 
 Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Where do I find my Gotchi Address?
+### Waar vind ik mijn Gotchi adres?
 
 First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
