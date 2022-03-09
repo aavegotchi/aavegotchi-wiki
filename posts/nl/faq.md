@@ -234,86 +234,86 @@ Evenzo zijn er enkele beperkingen met het lijsten van wearables op OpenSea Polyg
 
 ### Waar kan ik de Aavegotchi Litepaper vinden?
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
+Er zijn 2 Aavegotchi Litepapers: (1) Het Originele Litepaper is een samenvatting van de belangrijkste punten van het Aavegotchi Project, en (2) Het nieuwste Litepaper introduceerde de aankomende Gotchiverse en REALM, de landpakjes in de Gotchiverse.
 
-They can be found here:
+Ze zijn hier te vinden:
 
-* [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
+* [Originele Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
 ## Bonding Curve Veelgestelde Vragen
 
 ### Ik heb GHST gekocht, maar ik kan het niet in mijn portefeuille zien
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+Na het doen van een aankoopvia de bonding curve, moet u een andere transactie maken om de GHST tokens te claimen. Zie de onderstaande schermafdruk voor een voorbeeld. De gebruiker moet op de "CLAIM ORDER" knop klikken om de GHST tokens in hun portemonnee te laten verschijnen.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-Nee. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### Kunnen mensen de bonding curve voorspelen?
+Nee. Wanneer u aankoop/verkoop van GHST token op de band curve maakt, worden transacties samen met de transacties van andere mensen samengevoegd voordat ze worden verzonden naar het smart contract. Ze zijn niet in staat om tegen een lagere GHST-prijs aan te bieden met hogere gaskosten om uw aankoop op te starten.
 
 ## FRENS Veelgestelde Vragen
 
 ### Kan ik FRENS kopen?
-Nee. FRENS are a way to reward our community members who staked GHST.
+Nee. GRATIS is een manier om onze communityleden die GHST hebben gestaked te belonen.
 
 ### Worden FRENS voor iets anders gebruikt buiten lotterijen?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+Nee, het enige wat FRENS doen is om in Aavegotchi lotterijen worden ingevoerd. De rest van het Aavegotchi ecosysteem zal worden aangedreven door GHST.
 
-### What happens to the FRENS on Mainnet after the game launches on Polygon?
-Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+### Wat gebeurt er met de FRENS op Mainnet nadat het spel is gestart op Polygon?
+Uw FRENS saldo zal automatisch worden overgedragen naar Polygon. FRENS op Mainnet zullen dan waardeloos worden.
 
 ### Waarom levert de GHST-USDC LP 74M FRENS per dag op?
-An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aande pool toevoegen, zoals 0,00006. Bekijk de tweet [hier](https://twitter.com/coderdannn/status/1362423402871447554) voor lulz.
 
 ## Lotterij Veelgestelde Vragen
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+Zie <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterijen</a> voor algemene informatie over lotterijen.
 
 
 
 ### Betekent het kopen van een ticket dat ik op de lotterij ben ingevoerd?
 
-Nee! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Nee! Wees ervan bewust dat het kopen van tickets met FRENS **niet automatisch in de loterij worden ingevoerd.** Je moet je tickets invoerem gedurende de 72 uur dat de lotterij open is. Dit omvat twee transacties op de Raffle pagina - **keurt** je tickets goed, **en voer** je tickets in. Als u uw tickets succesvol hebt ingediend, ziet u op de statistiekenpagina het aantal tickets dat u hebt ingevoerd.
 
 
 ### Zullen lotterij wearables beschikbaar zijn in de Aavegotchi winkel?
 
-Nee. The only time these wearables will ever be released is during the pre-launch raffles.
+Nee. De enige tijd dat deze wearables ooit zullen worden vrijgegeven is tijdens de pre-lancerende lotterijen.
 
 
 ### Zijn lotterij wearables speciaal?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+Voor gameplay, raffle wearables bieden dezelfde <a href="https://wiki.aavegotchi.com/wearables">boosts</a> aan je Aavegotchi als alle andere wearables in hun zeldzaamheid klasse (zoals rare, mythische, enz.).  Op de [Baazaar](/baazaar), of ze nu meer wederverkoopwaarde hebben vanwege hun **pre-lanceerstatus** of **merken associaties** zullen worden bepaald door de markt vraag.
 
 
 ### Hoe verplaats je lotterij tickets?
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+Rafle tickets zijn gebaseerd op de ERC-1155 standaard. Ze kunnen worden verplaatst via de [Tickets pagina](https://aavegotchi.com/tickets) op de Aavegotchi DApp. Onder elke Ticket categorie die u bezit, zal er een Transfer knop zijn (zie een screenshot hieronder). Klik op die knop om tickets van die categorie over te dragen.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+U wordt dan naar een andere pagina gebracht waar u het adres van de ontvanger kunt opgeven en het aantal te verplaatsen tickets (zie onderstaande schermafbeelding). Zodra u de informatie heeft ingevoerd en bevestigd dat deze correct is, druk op de Overdracht knop.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Zullen er Lotterijen zijn na Mainnet lancering?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+Ja, er zullen extra loterijen komen na Mainnet lanceringen. Ze zullen echter niet vaak genoeg zijn en niet van tevoren worden aangekondigd. Dit is om gebruikers te belonen die nog steeds staken en hun [FRENS](/glossary#frens) en/of raffle tickets verzamelen.
 
 ## Veiling Veelgestelde Vragen
 
 ### Hoeveel kan ik verdienen?
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+Elke GBM-veiling kan worden geconfigureerd met bepaalde voorinstellingen voor een maximale beloning. Voor deze Wearable veiling hebben we dezelfde presets gekozen die worden gebruikt in cryptografieën - minimum 1% - en maximaal 10%. Dit betekent dat het maximale bedrag dat u kunt verdienen met een uitbieding 10% van het bod is!
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+Als u bijvoorbeeld 2000 GHST biedt, kunt u maximaal 200 GHST verdienen als op de eerste GBM-veiling. Toekomstige veilingen zullen ook met verschillende voorinstellingen experimenteren om het interessant te houden!
 
 ### Kan ik mezelf overbieden?
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+Ja, er is niets mis met uzelf te uitbieden om de stimulans te verdienen. Niet teveel betalen!
 
 ### Waarom is de minimale stijging 10%?
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+Deze minimale 'stap' is zorgvuldig berekend door de speltheorie van GBM om ervoor te zorgen dat de veiling volledig wordt gefinancierd, ongeacht hoeveel biedingen worden gedaan. Zonder een minimale verhoging dreigt de veiling ondergefinancierd te worden.
 
 ### Is er een minimum bod?
-There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+Er is geen minimum bod voor de Veiling. Als u wilt, kunt u 1 GHST bieden! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
 
 ### Wat voorkomt dat bots alle items opvegen?
 In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
