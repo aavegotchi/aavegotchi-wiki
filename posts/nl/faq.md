@@ -164,23 +164,23 @@ Kost: Variabel, maar goedkoper dan Ongeopende portalen die in de Baazaar worden 
 Kost: Variabel. Afhankelijk van de zeldzaamheid van de Gotchi, of het komt met wearables, Baadges, etc.
 
 ### Wanneer is de mainnet lancering?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
+Mainnet was oorspronkelijk gepland voor lancering op 4 januari 2021. Als gevolg van de grote congestie op de Ethereum-blockchain op dat moment werd een stemming in de gemeenschap gehouden. De gemeenschap stemde op een later tijdstip voor de lancering van Aavegotchi op Polygon. Het Aavegotchi team heeft de lanceerdatum van 2 maart 2021 op Polygon bevestigd.
 
 
 ### Wat kan ik nu doen?
 
-Right now, you can:
+Op dit moment kan je:
 
-* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+* **Stake GHST om FRENS te verdienen:** FRENS kunnen gebruikt worden om lotterij tickets te kopen om te worden gebruikt in Lotterijen. Bekijk de [Staking pagina](/staking) voor meer info!
 
-* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+* **Pet je Gotchi elke 12 uur:** Ja! Je moet ook [Vriendschap](/traits#kinship) bouwen met je Gotchi fren ook! Hoe hoger het Kinship, hoe beter je doet in [Rarity Farming](/rarity-farming)!
 
-* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+* **Speel enkele mini-Games:** Sommige [Mini-Games](/minigames) zijn al beschikbaar. Bekijk ze nu!
 
 
 ### Heb ik KYC nodig om Aavegotchi te spelen of om de GHST token te bezitten?
 
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+Nee! Je hoeft alleen KYC te doen als je GHST direct van de [bonding curve](/curve) wilt kopen. U kunt GHST kopen op [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) zonder KYC, evenals op [bepaalde beurzen](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
 The table below summarizes the information:
 
@@ -274,7 +274,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Betekent het kopen van een ticket dat ik op de lotterij ben ingevoerd?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Nee! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Zullen lotterij wearables beschikbaar zijn in de Aavegotchi winkel?
