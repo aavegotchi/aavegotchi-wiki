@@ -79,30 +79,30 @@ contributors:
 <p><a href=#how-much-does-it-cost-to-play->Hoeveel kost het om te spelen?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Heeft het veranderen van de onderpand invloed op kinship level?</a></p>
 <li><a href=#aambassador-faq>Aambassador Veelgestelde Vragen</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
-<li><a href=#guild-faq>Guild FAQ</a></li>
-<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
-<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
-<li><a href=#bridging-faq>Bridging FAQ</a></li>
-<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
-<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
-<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
-<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
-<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
-<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
-<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Moet ik maandelijks rapporten invullen als ambassadeur?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->Hoe groot moet ik mijn #GotchiGang groeien?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Wat als de #GotchiGang naam die ik wil al door iemand anders is gekozen?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->Ik heb al een Aavegotchi gerelateerde groep. Moet ik een Aambassador worden?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->Ik heb een vraag die hier niet is beantwoord. Waar moet ik het vragen?</a></p>
+<li><a href=#guild-faq>Guild Veelgestelde Vragen</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->Wat zijn de verschillen tussen Ambassadeurs en Guilds?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->Hoe voeg ik mijn Guild toe aan de Guild Wikipagina?</a></p>
+<li><a href=#bridging-faq>Bridging Veelgestelde Vragen</a></li>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Kan ik nog steeds mijn Aavegotchi petten zodra het terug naar Ethereum is gebridged?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Kan mijn Aavegotchi nog Rarity Farming beloningen verdienen als deze op Ethereum bestaat?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Kan mijn Gotchi worden overbrugd met wearables uitgerust?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Kan mijn Gotchi wearables uitrusten of uitdoen terwijl hij op Ethereum zit?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Kan ik nog steeds mijn Aavegotchi gebruiken om te spelen in het aankomende Gotchiver-spel terwijl het op Ethereum staat?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Kunnen individuele Wearables, Portals en Verbruiksartikelen ook worden overbrugd naar Ethereum en op Rarible worden vermeld?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->Als ik een Aavegotchi op Ethereum koop door Rarible, hoe brug ik het dan terug naar Polygon?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Kan ik mijn Aavegotchi op de Baazaar verkopen terwijl hij is verhuisd naar Ethereum?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Kan ik mijn Aavegotchis op OpenSea verhandelen terwijl ze op Ethereum zitten?</a></p>
+<li><a href=#technical-faq>Technische Veelgestelde Vragen</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Welke portemonnee moet ik gebruiken met Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Worden Aavegotchi uitgevoerd op Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Moet ik mijn Aave tokens migreren?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->Hoe migreer ik naar Polygon?</a></p>
 <p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
 <p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
@@ -403,95 +403,95 @@ No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does
 
 ## Aambassador Veelgestelde Vragen
 
-### Do I need to fill out monthly reports as an Aambassador?
+### Moet ik maandelijks rapporten invullen als ambassadeur?
 
 No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### How big should I grow my #GotchiGang?
+### Hoe groot moet ik mijn #GotchiGang groeien?
 
 Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
 Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-### What if the #GotchiGang name I want has already been taken by someone else?
+### Wat als de #GotchiGang naam die ik wil al door iemand anders is gekozen?
 
 We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
+### Ik heb al een Aavegotchi gerelateerde groep. Moet ik een Aambassador worden?
 
 Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### I have a question that isn’t answered here. Where should I ask it?
+### Ik heb een vraag die hier niet is beantwoord. Waar moet ik het vragen?
 
 All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
 
-## Guild FAQ
+## Guild Veelgestelde Vragen
 
-### What are the differences between Aambassador groups and Guilds?
+### Wat zijn de verschillen tussen Ambassadeurs en Guilds?
 
 Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-### How do I submit my Guild to the Guild wiki page?
+### Hoe voeg ik mijn Guild toe aan de Guild Wikipagina?
 
 DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
-## Bridging FAQ
+## Bridging Veelgestelde Vragen
 
-### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
+### Kan ik nog steeds mijn Aavegotchi petten zodra het terug naar Ethereum is gebridged?
 
 **YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
-### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
+### Kan mijn Aavegotchi nog Rarity Farming beloningen verdienen als deze op Ethereum bestaat?
 
 **YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
 
-### Can my Gotchi be bridged over with wearables equipped?
+### Kan mijn Gotchi worden overbrugd met wearables uitgerust?
 
 **YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
 
-### Can my Gotchi equip or unequip wearables while on Ethereum?
+### Kan mijn Gotchi wearables uitrusten of uitdoen terwijl hij op Ethereum zit?
 
 **NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
 
-### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
+### Kan ik nog steeds mijn Aavegotchi gebruiken om te spelen in het aankomende Gotchiver-spel terwijl het op Ethereum staat?
 
 **NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
 
-### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
+### Kunnen individuele Wearables, Portals en Verbruiksartikelen ook worden overbrugd naar Ethereum en op Rarible worden vermeld?
 
 **YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
+### Als ik een Aavegotchi op Ethereum koop door Rarible, hoe brug ik het dan terug naar Polygon?
 
 Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
-### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+### Kan ik mijn Aavegotchi op de Baazaar verkopen terwijl hij is verhuisd naar Ethereum?
 **NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
-### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+### Kan ik mijn Aavegotchis op OpenSea verhandelen terwijl ze op Ethereum zitten?
 **YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-## Technical FAQ
+## Technische Veelgestelde Vragen
 
 ### Is Aavegotchi on-chain?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Welke portemonnee moet ik gebruiken met Aavegotchi?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Will Aavegotchi run on Layer 2?
+### Worden Aavegotchi uitgevoerd op Layer 2?
 
 Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Moet ik mijn Aave tokens migreren?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-### How do I migrate to Polygon?
+### Hoe migreer ik naar Polygon?
 Check out our [Polygon Migration Guide](/polygon).
 
 ### I have a ledger / trezor, what do I do?
