@@ -290,11 +290,11 @@ Voor gameplay, raffle wearables bieden dezelfde <a href="https://wiki.aavegotchi
 ### Hoe verplaats je lotterij tickets?
 Rafle tickets zijn gebaseerd op de ERC-1155 standaard. Ze kunnen worden verplaatst via de [Tickets pagina](https://aavegotchi.com/tickets) op de Aavegotchi DApp. Onder elke Ticket categorie die u bezit, zal er een Transfer knop zijn (zie een screenshot hieronder). Klik op die knop om tickets van die categorie over te dragen.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfereer Aavegotchi Lotterij Tickets" />
 
 U wordt dan naar een andere pagina gebracht waar u het adres van de ontvanger kunt opgeven en het aantal te verplaatsen tickets (zie onderstaande schermafbeelding). Zodra u de informatie heeft ingevoerd en bevestigd dat deze correct is, druk op de Overdracht knop.
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfereer Aavegotchi Lotterij Tickets" />
 
 ### Zullen er Lotterijen zijn na Mainnet lancering?
 Ja, er zullen extra loterijen komen na Mainnet lanceringen. Ze zullen echter niet vaak genoeg zijn en niet van tevoren worden aangekondigd. Dit is om gebruikers te belonen die nog steeds staken en hun [FRENS](/glossary#frens) en/of raffle tickets verzamelen.
@@ -489,75 +489,75 @@ Ja! Aavegotchi gebruikt [Polygon](https://matic.network/) als een Layer 2 oploss
 
 ### Moet ik mijn Aave tokens migreren?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi zal werken met aTokens van [Aave versie 2.](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - dus zorg ervoor dat je alle tokens die je op versie 1 hebt migreert voordat je probeert je Aavegotchi op te eisen. Volgens Stani zouden we [binnenkort een migratie-instrument moeten hebben](https://twitter.com/StaniKulechov/status/1334546997827809285) (voor lanceer) :)
 
 ### Hoe migreer ik naar Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+Bekijk onze [Polygon Migratie gids](/polygon).
 
-### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### Ik heb een ledger/ trezor, wat doe ik?
+U kan nog steeds toegang krijgen tot Polygon met de Trezor Ene. Voor alle anderen is dat nu niet mogelijk. U kunt een nieuwe Metamask portemonnee maken en DM @Jesse +unnamed@@0 gldnXross#6482 voor hulp.
 
 ### Waarom kan ik mijn Polygon GHST niet zien op Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Zorg ervoor dat u twee transacties hebt voltooid: (1) goedkeuring van transacties, en (2) migratie van Mainnet naar Polygon. Het token adres voor GHST op Polygon is als volgt: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Waarom kan ik mijn LP Tokens niet zien in QuickSwap?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Nadat u de LP tokens op QuickSwap heeft gezet, zult u ze niet kunnen zien in uw portemonnee. Unstake als je wilt dat ze in je portemonnee zichtbaar zijn.
 
 ### Kan ik Polygon-side tokens direct naar gecentraliseerde Exchanges sturen?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Nee!** Je moet Polygon-side tokens niet direct naar gecentraliseerde Exchanges (bijvoorbeeld Binance, Coinbase, enz.) sturen. Je moet ze terug bridgen naar Ethereum Mainnet voordat je dat doet.
 
 ### Waarom verwerpt Metamask mijn token symbool?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+Metamask heeft een maximum van 11 tekens voor hun token symbool. Je kunt het token symbool veranderen naar korter en het zal werken. Het wijzigen van het symbool naar iets korter heeft geen invloed op de token; het heeft alleen invloed op de weergave op uw metamask.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Een groot aantal mensen is op dit probleem gestuit omdat het stkGHST-QUICK token meer dan 11 tekens bevat.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbool Limiet" />
 
 ### Ik heb mijn GHST uit Polygon teruggetrokken, maar ik moet ze nog ontvangen zelfs na een lange wachttijd
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+Ik heb mijn GHST tokens (of andere activa voor die kwestie) van Polygon terug naar Ethereum Mainnet gehaald met de [Aavegotchi Bridge](https://aavegotchi.com/bridge). Na enkele uren moet ik nog steeds mijn activa op Ethereum Mainnet ontvangen. Wat kan ik doen?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Ga eerst naar de [Polygon Block Explorer](https://explorer.matic.network/) en geef je transactie-ID in. Verkrijg het Bloknummer van uw transactie.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Vervolgens, vervang het gedeelte [blockNumber] in de volgende URL met het werkelijke bloknummer en ga naar de URL:
 
-https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
+https://apis.matic.netwerk/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Deze URL geeft de status aan van uw opnametransactie.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Als uw transactie niet is verwerkt door Polygon, blijf geduldig wachten. Er zijn gevallen geweest waarbij het tot zes uur duurde.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Als uw transactie is verwerkt door Polygon en uw assets nog steeds niet verschijnen op de Aavegotchi Bridge UI, neem contact op met Coderdan (of andere aapprenties) voor ondersteuning.
 
 ### Waarom ervaart ik vertraging op Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+Misschien wilt u proberen om verbinding te maken met de andere Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Voor stap-voor-stap instructies over hoe dit te doen, Raadpleeg onze [Polygon Guide](/polygon).
 
 ### Waar vind ik mijn Gotchi Token ID?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Om je Aavegotchi Token ID te krijgen (elke Aavegotchi heeft een unieke ID), ga naar de [My Aavegotchis pagina](https://aavegotchi.com/aavegotchis). Klik op een van uw Gotchis en obteer het nummer achteraan de URL. Het ziet er als volgt uit:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Zodra je je Gotchi ID hebt gekregen, kun je je Gotchis koppelen met je Discord handvat met de volgende Discord opdracht:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Houd er rekening mee dat als u meer dan 1 Gotchi hebt, u hetzelfde proces meerdere keren moet herhalen.
 
 ### Waar vind ik mijn Gotchi adres?
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Klik op een van je Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Klik op de Pocket knop en de Gotchi Pocket box zal verschijnen. Er zal een "Bekijk" knop zijn. Klik erop en u zult naar dat specifieke Gotchi Smart Contract adres gebracht worden. Dit is een escrow contract waarmee de eigenaar van de Gotchi kan communiceren.
 
-Do note that each Gotchi will have its own Smart Contract Address.
+Houd er rekening mee dat elke Gotchi zijn eigen Smart Contract adres zal hebben.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">Wordt vervolgd!</p>
 
 
