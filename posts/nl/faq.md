@@ -385,107 +385,107 @@ Financieringsverzoeken worden niet gevonden in het *Cocoon* voorstel sjabloon, v
 
 **Financieringsvoorstellen zullen zeker een centraal onderdeel zijn van Metamorphose, maar Cocoon concentreert zich meer op het maken van gamemechanische beslissingen.**
 
-Dat gezegd hebbende, *Cocoon* is een experimentele governance fase en het kan niet buiten de mogelijkheid vallen om een goed idee significante steun te zien waarvoor in feite schatkistfondsen van de DAO nodig zijn. Een dergelijke situatie vereist ongetwijfeld een stemming op het Galaxy-niveau en een quorum van 20 procent. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+Dat gezegd hebbende, *Cocoon* is een experimentele governance fase en het kan niet buiten de mogelijkheid vallen om een goed idee significante steun te zien waarvoor in feite schatkistfondsen van de DAO nodig zijn. Een dergelijke situatie vereist ongetwijfeld een stemming op het Galaxy-niveau en een quorum van 20 procent. Dus in wezen moedigen we het niet aan, terwijl we er tegelijkertijd aan denken dat we nooit nooit mogen zeggen.
 
 ## Gameplay Veelgestelde Vragen
 
 
 ### Betekent hogere eigenschappen altijd een hogere zeldzaamheid?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Aavegotchi rarity is gebaseerd op een bell curve - wat betekent **zowel extreem hoog als extreem laag** trait scores zijn wenselijk. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> die in het midden van de 0-100 reeks vallen zijn meer gebruikelijk.
 
 ### Hoeveel kost het om te spelen?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+Naar verwachting kost een H1 portaal 100 GHST. Kosten voor andere items zoals wearables, verbruiksartikelen en land zullen worden aangekondigd als ze officieel worden vrijgegeven - maar na game launch. [de DAO](/dao) heeft de bevoegdheid om **de prijzen aan te passen via governance stem**. Intussen je kan zien wat sommige van de open marktprijzen momenteel zijn voor bepaalde wearables bij de [Baazaar](/baazaar).
 
 ### Heeft het veranderen van de onderpand invloed op kinship level?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+Nee, het onderpand of aToken dat in de Aavegotchi zit verhogen of verlagen heeft geen invloed op kinship niveau.
 
 ## Aambassador Veelgestelde Vragen
 
 ### Moet ik maandelijks rapporten invullen als ambassadeur?
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+Nee, dat doe je niet. Dit Aambassador-programma is zo ontworpen dat je je minder moet concentreren op beheerderstaken en meer op het bouwen van je **#GotchiGang.**
 
 ### Hoe groot moet ik mijn #GotchiGang groeien?
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Het is eigenlijk beter om je **#GotchiGang** kleiner en specifiek te houden. Je kunt een **#GotchiGang** maken voor je stad of dorp, je universiteit… creativiteit is van jou!
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Zodra uw groep 100 legitieme leden bereikt, wordt u officieel herkend als een Aavegotchi Aambassador.
 
 ### Wat als de #GotchiGang naam die ik wil al door iemand anders is gekozen?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+We zullen u informeren of de naam al is overgenomen nadat u uw aanvraag op het typeformulier heeft ingevuld.
 
 ### Ik heb al een Aavegotchi gerelateerde groep. Moet ik een Aambassador worden?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Absoluut! Zolang we eenvoudig de groei van je netwerk kunnen bijhouden, kun je in aanmerking komen voor een Aambassador.
 
 ### Ik heb een vraag die hier niet is beantwoord. Waar moet ik het vragen?
 
-All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
+Alle vragen over het Aambassadora-programma kunnen worden doorgestuurd naar jason@aavegotchi.com, (of buzz.lightyear in Discord).
 
 ## Guild Veelgestelde Vragen
 
 ### Wat zijn de verschillen tussen Ambassadeurs en Guilds?
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+Aambassadeurs groepen zijn bedoeld om nieuwe mensen in Aavegotchi te introduceren, terwijl Gilden voor bestaande spelers zijn om samen te spelen in de Gotchiverse.
 
 ### Hoe voeg ik mijn Guild toe aan de Guild Wikipagina?
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DM BowtiedNerd#6509 op Discord met alle vereiste informatie die in de [Guild wiki pagina](/guild) staat.
 
 ## Bridging Veelgestelde Vragen
 
 ### Kan ik nog steeds mijn Aavegotchi petten zodra het terug naar Ethereum is gebridged?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**JA**, de ontwikkelaars van Gotchi World en Gotchi Care (Gotchi petting services) hebben gracieus aangeboden om alle bridged Aavegotchis automatisch te petten, wat ervoor zorgt dat je nog steeds kinship verdient terwijl je Gotchi op Ethereum is! Terwijl u op Ethereum vakantie zal uw Aavegotchi elke dag zijn kinship score met twee punten laten toenemen, maar het zou zeker een bezoek of twee van zijn meesters waarderen! Het is eenzaam in spaace…
 
 ### Kan mijn Aavegotchi nog Rarity Farming beloningen verdienen als deze op Ethereum bestaat?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**Ja**, uw Gotchi zal nog steeds in aanmerking komen voor Rariteit Farming beloningen in alle drie categorieën wanneer overgebracht. Alle beloningen gaan direct naar zijn pocket.
 
 ### Kan mijn Gotchi worden overbrugd met wearables uitgerust?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**Ja**, je kunt zoveel wearables dragen als je wilt voordat je gaat overbruggen. BUT hou er rekening mee dat uw Aavegotchi niet geen wardrobe veranderingen kandoen terwijl u Ethereum gebruikt.
 
 ### Kan mijn Gotchi wearables uitrusten of uitdoen terwijl hij op Ethereum zit?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**Nee**, uw Gotchi is eigenlijk bevroren als momentopname op het moment dat het werd overbrugd. U kunt echter op elk gewenst moment terugkoppelen naar Polygon. (normale overbruggingskosten zijn van toepassing).
 
 ### Kan ik nog steeds mijn Aavegotchi gebruiken om te spelen in het aankomende Gotchiver-spel terwijl het op Ethereum staat?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**NEE**, aangezien de Gotchiverse op Polygon draait, zal elk Gotchis op Ethereum Mainnet niet kunnen deelnemen aan de Gotchiverse. Brug terug wanneer je wilt spelen!
 
 ### Kunnen individuele Wearables, Portals en Verbruiksartikelen ook worden overbrugd naar Ethereum en op Rarible worden vermeld?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**Ja** maar **NOG NIET**. Portalen zijn een onmiddellijk ja omdat ze ook ERC-721 tokens zijn. De wearables en verbruiksartikelen zijn ERC-1155 artikelen en zullen de komende weken hun eigen brugopening hebben.
 
 ### Als ik een Aavegotchi op Ethereum koop door Rarible, hoe brug ik het dan terug naar Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Bezoek gewoon [aavegotchi.com/bridge](https://aavegotchi.com/bridge). U kunt terug bridge op elk gewenst moment!
 
 ### Kan ik mijn Aavegotchi op de Baazaar verkopen terwijl hij is verhuisd naar Ethereum?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**Nee**, u kunt alleen handelen op Ethereum-marktplaatsen zoals Raribel terwijl de Aavegotchi wordt overbrugd.
 
 ### Kan ik mijn Aavegotchis op OpenSea verhandelen terwijl ze op Ethereum zitten?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**Ja**, u kunt in elke Ethereumgebaseerde NFT-markt handelen, maar u verdient alleen RARI wanneer u handelt op Rarible!
 
 ## Technische Veelgestelde Vragen
 
 ### Is Aavegotchi on-chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Alle elementen van het Aavegotchi spel zijn [opgeslagen op de Ethereum-blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). U kunt meer lezen over ons unieke ontwerp met behulp van de Diamond Standard [hier](/glossary#diamond-standard).
 
 ### Welke portemonnee moet ik gebruiken met Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> is veruit de beste optie om te gebruiken met Aavegotchi volgens de ervaring van onze gemeenschap. Metamask en [Arkane wallet](https://arkane.network/apps) - die binnenkort met Aavegotchi zal integreren - ondersteunen ook ERC1155 tokens, betekent dat u al uw activa (zoals wearables) naast uw GHST tokens in uw portemonnee kunt zien.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Voor android apparaten, is het gebruik van de Metamask app met de ingebouwde browser een goede keuze.
 
 ### Worden Aavegotchi uitgevoerd op Layer 2?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Ja! Aavegotchi gebruikt [Polygon](https://matic.network/) als een Layer 2 oplossing. Het team heeft Polygon geselecteerd omdat ze een sterk team hebben, vooruitgang geboekt heeft in decentralisatie, en wat een sterk netwerkeffect lijkt te hebben met andere NFT-platforms zoals OpenSea.
 
 ### Moet ik mijn Aave tokens migreren?
 
