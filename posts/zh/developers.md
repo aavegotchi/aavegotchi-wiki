@@ -69,11 +69,15 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension to pet Aavegotchis
 
-* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care/Petting Service
+* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care / Petting Service
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Community made free petting service
 
 * [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - A data visualization tool that features districts, floor prices, price estimators, etc.
+
+* [Aadventure.io](https://www.aadventure.io) - REALM pricing / Land Auctions Data / Wearable Sets / Gotchi Pockets data
+
+* [Gotchi Vault](https://www.gotchivault.com/) - Asset manager for the Aavegotchi ecosystem
 
 ## Subgraphs
 
