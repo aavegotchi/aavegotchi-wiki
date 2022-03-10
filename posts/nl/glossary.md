@@ -1,9 +1,9 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
-image: "IMAGE HERE"
+title: 'Woordenlijst'
+description: 'Woordenlijst met informatie over Aavegotchi, NFT en DeFi terminologie.'
+image: "AFBEELDING HIER"
 contributors:
   - "appellants"
   - "eris771"
@@ -12,10 +12,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">Aavegotchi na het lezen van GotchiGlossary</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+Als je net bent begonnen met het verkennen van de wereld van DeFi, welkom in deze hoek van het internet! Deze woordenlijst is bedoeld om je informatie te verstrekken die je hopelijk zal helpen om je hoofd rond de basislijnen van een DeFi te wikkelen. Als je helemaal nieuw bent in deze ruimte zal deze woordenlijst u ook een overzicht geven van sommige termen die u kunt verwachten te zien tijdens het navigeren van de Aavegotchi wereld, om je begrip verder te vergroten.
 
 
 When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
