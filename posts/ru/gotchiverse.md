@@ -146,7 +146,7 @@ table_gotchusAlchemicaSupply
 
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
-* **Алхимический ченнелинг:** Готчи в одиночку могут направлять свою энергию на добычу алхимии, используя очки [лояльности](/traits#kinship) (сродства) к геймеру.
+* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
 * **Коллективный ченнелинг:** Метод добычи ресурсов, когда Готчи объединяют свои усилия, а на участке имеется соответствующая установка (комбайн). Участие в коллективном ченнелинге допускается для Готчи, состоящих в Гильдии, имеющих соответствующий знак, и присутствующих на участке во время коллективной добычи ископаемых. Чем больше Готчи, тем быстрей идет добыча ресурсов.
 * **Фарминг**. Как только на участке появится Комбайн, ресурсы алхимии начнут накапливаться, и постоянно определенное их количество (**Х**) будет поступать в хранилище, (**Y**) количество будет перетекать на соседние участки, а (<0>Z</0>) попадать в Великий портал.
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.

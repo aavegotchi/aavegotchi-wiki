@@ -83,6 +83,8 @@ XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 ## Level
 Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
 
+The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+
 For detailed information on the XP required for each level, click [here](/xp).
 
 Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
@@ -94,8 +96,8 @@ Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. T
 
 ## Aging Mechanic
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを導入しました。
 
-ゴッチは、年をとる事につれてレア度が少しブーストされるはずです。 This is to counteract statistical variance between haunts and reward long term engagement.
+ゴッチは、年をとる事につれてレア度が少しブーストされるはずです。 それは、召喚の統計的差異を打ち消し、長期的な関与に報いるためです。
 
 For more information, check out the [Aging Mechanic](/aging-mechanic) page.

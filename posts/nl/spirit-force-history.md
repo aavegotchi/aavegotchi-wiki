@@ -27,4 +27,4 @@ Let's take a walk down memory lane:
 
 3. The shift to Polygon meant that we need aTokens on Polygon. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
 
-4. Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
+4. Daarnaast is ook Aave zelf verhuisd naar Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.

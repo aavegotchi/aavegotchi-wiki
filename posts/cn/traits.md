@@ -83,6 +83,8 @@ XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 ## Level
 Aavegotchis level up as they gain more XP. 每升三级，Aavegotchis 就会获得一个灵魂点，可以用于增加或减少某个特性。 Some wearables can only be worn by Aavegotchis of a certain level.
 
+The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+
 For detailed information on the XP required for each level, click [here](/xp).
 
 Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).

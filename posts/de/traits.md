@@ -83,6 +83,8 @@ XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 ## Level
 Aavegotchis level up as they gain more XP. Nach jeweils drei Levels erhalten Aavegotchis einen [Spirit Point](/glossary#spirit-point), der zur Erhöhung oder Verringerung einer bestimmten Eigenschaft eingesetzt werden kann. Some wearables can only be worn by Aavegotchis of a certain level.
 
+The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+
 For detailed information on the XP required for each level, click [here](/xp).
 
 Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).

@@ -61,7 +61,7 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [Aavegotchi.land](https://aavegotchi.land/) - API voor Aavegotchi / Open Portals / Lotterij Tickets lijstingen
 
-* [GHST_GG](https://ghst.gg/) - Gotchi Markt Verkenner / Lotterij Calculator
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
 
 * [Haaunt.com](https://haaunt.com/) - Aavegotchi Rankschikking / Wearable Prijzen
 
@@ -69,11 +69,15 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [Aavegotchi Extensie](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extensie om je Aavegotchis te petten
 
-* [GotchiCare](https://gotchicare.com/) - Een Aavegotchi Day Care/Petting Dienst
+* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care / Petting Service
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Gemeenschap gemaakte gratis petting dienst
 
 * [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - Een hulpmiddel voor gegevensvisualisatie dat zich uitstrekt over districten, vloerprijzen, prijsschattingen, etc.
+
+* [Aadventure.io](https://www.aadventure.io) - REALM pricing / Land Auctions Data / Wearable Sets / Gotchi Pockets data
+
+* [Gotchi Vault](https://www.gotchivault.com/) - Asset manager for the Aavegotchi ecosystem
 
 ## Subgrafieken
 

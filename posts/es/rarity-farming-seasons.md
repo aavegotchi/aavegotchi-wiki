@@ -1,82 +1,82 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming Seasons'
-description: 'Rarity Farming Seasons'
+title: 'Temporada Rarity Farming'
+description: 'Temporada Rarity Farming'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Rarity Farming is organized into different seasons. Here's the data for each season.
+La Rarity Farming se organiza en diferentes temporadas. Aquí están los datos de cada temporada.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#season-1>Season 1</a></p>
-<li><a href=#season-2>Season 2</a></p>
-<li><a href=#season-3>Season 3</a></p>
-<li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
-<li><a href=#references>References</a></p>
+<li><a href=#season-1>Temporada 1</a></p>
+<li><a href=#season-2>Temporada 2</a></p>
+<li><a href=#season-3>Temporada 3</a></p>
+<li><a href=#ghst-distribution-by-season>Distribución de GHST por Temporada</a></p>
+<li><a href=#references>Referencias</a></p>
 </ol>
 
 </div>
 
-## Season 1
+## Temporada 1
 
-The inaugural Rarity Farming Season was held from Tuesday, 20 April 2021 - Tuesday, 15 June 2021. A total of 1.4 Million GHST will be disbursed across all 4 rounds in Season 1.
+La Temporada inaugural de Rarity Farming se celebró desde el martes 20 de abril de 2021 hasta el martes 15 de junio de 2021. Un total de 1.4 millones de GHST se desembolsaros entre las 4 rondas de la Temporada 1.
 
-There were 3 categories to compete on:
+Había 3 categorías para competir:
 
-* Rarity (70% of the rewards pool / 980,000 GHST)
+* Rareza (70% de la piscina de recompensas / 980,000 GHST)
 
-* Kinship (20% of the rewards pool / 280,000 GHST)
+* Fidelidad (20% de la piscina de recompensas / 280,000 GHST)
 
-* XP (10% of the rewards pool / 140,000 GHST)
+* XP(10% de la piscina de recompensas / 140,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 1 Rewards](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[Hoja de cálculo de Recompensas de la Temporada 1 de Temporada Rarity Farming](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
 
-## Season 2
+## Temporada 2
 
-Rarity Farming Season 2 was held from Tuesday, 12 October 2021 - Tuesday, 7 December 2021. A total of 2 Million GHST will be disbursed across all 4 rounds in Season 2.
+La temporada 2 de Rarity Farming se celebró desde el martes, 12 de octubre de 2021 - Martes, 7 de diciembre de 2021. Un total de 2 millones de GHST se desembolsaros entre las 4 rondas de la Temporada 2.
 
-There were 5 categories to compete on:
+Había 5 categorías para competir:
 
-* Rarity (60% of the rewards pool / 1,200,000 GHST)
+* Rareza (60% de la piscina de recompensas / 1,200 GHST)
 
-* Kinship (10% of the rewards pool / 200,000 GHST)
+* Fidelidad (10% de la piscina de recompensas / 200,000 GHST)
 
-* XP (10% of the rewards pool / 200,000 GHST)
+* XP(10% de la piscina de recompensas / 200,000 GHST)
 
-* Rookie Kinship (10% of the rewards pool / 200,000 GHST)
+* Fidelidad Novatos (10% de la piscina de recompensas / 200,000 GHST)
 
-* Rookie XP (10% of the rewards pool / 200,000 GHST)
+* XP Novatos (10% de la piscina de recompensas / 200,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 2 Rewards](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
+[Hoja de cálculo de Recompensas de la Temporada 2 de Rarity Farming](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
 
-## Season 3
+## Temporada 3
 
-Rarity Farming Season 3 was held from Thursday, 24 February 2022 - Thursday, 21 April 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 3.
+La temporada 3 de Rarity Farming se celebró desde el martes, 24 de octubre de 2022 - Martes, 21 de diciembre de 2022. Un total de 1.5 millones de GHST se desembolsaron entre las 4 rondas de la Temporada 3.
 
-There were 3 categories to compete on:
+Había 3 categorías para competir:
 
-* Rarity (70% of the rewards pool / 1,050,000 GHST)
+* Rareza (70% de la piscina de recompensas / 1,050 GHST)
 
-* Kinship (20% of the rewards pool / 300,000 GHST)
+* Fidelidad (20% de la piscina de recompensas / 300,000 GHST)
 
-* XP (10% of the rewards pool / 150,000 GHST)
+* XP(10% de la piscina de recompensas / 150,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 3 Rewards](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
+[Hoja de cálculo de Recompensas de la Temporada 3 de Temporada Rarity Farming](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
 
-## GHST Distribution by Season
+## Distribución GHST por Temporada
 
 table_rarityFarmingSeasons
 
-## References
+## Referencias
 
-* [Rarity Farming Season 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* [Rarity Farming Temporada 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 
-* [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* [Rarity Farming Temporada 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
-* [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* [Rarity Farming Temporada 3 Medium post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)

@@ -96,19 +96,21 @@ Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavego
 
 ## Cấp độ
 
-Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định. 
+Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm. Cứ mỗi ba cấp, Aavegotchi lại nhận được một [Spirit Point](/glossary#spirit-point) có thể phân phối vào để giúp tăng hoặc giảm một trait nhất định. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
 
-Để xem thông tin chi tiết về Xp cần cho mỗi cấp độ, bạn lòng nhấp vào [đây](/xp).
+The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
 
-Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavegotchi-profile).
+For detailed information on the XP required for each level, click [here](/xp).
+
+Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 
 
 ## Haunt
 
-Giống như những người tiên phong trong Thế Giới Mới, Aavegotchi du hành từ Nether Realm đến Ether Realm theo nhóm được gọi là Haunts. Sự kiện Haunt đầu tiên bao gồm 10.000 Aavegotchi. Sau đó, những sự kiện Haunt mới phải được sự cho phép cả AavegotchiDAO thì mới được tiến hành. Một số wearable chỉ có thể được mặc lên bởi những Aavegotchi ở một cấp độ nhất định.
+Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
-Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Haunt sẽ có thể tìm thấy trên thông tin của Gotchi. Sẽ không có khác biệt về chỉ số giữa các Haunt.
+Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
 
 
 

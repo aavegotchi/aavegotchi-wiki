@@ -31,7 +31,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
 <p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Rewards</a></li>
-<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
+<p><a href=#rarity-farming-seasons>Temporada Rarity Farming</a></p>
 <p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
@@ -118,7 +118,7 @@ The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is co
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
-### Rarity Farming Seasons
+### Temporada Rarity Farming
 
 Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 

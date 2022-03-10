@@ -1,46 +1,46 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+title: 'Sets de Ropa'
+description: 'Todo sobre los sets de ropa de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Heya Fren! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+Heya Fren! ¿Sabías que si *ciertos complementos* están equipados juntos, puedes obtener puntos de set extra encima de sus puntos individuales? ¡Ahora sí!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**Los Sets**son colecciones de ropa que confieren un bonus adicional al Aavegotchi al equiparlos.
 
-Get ready a fat stack of GHST! You will need them!
+¡Prepára una pila grande de GHST! ¡Los vas a necesitar!
 
-The colour of the border surrounding the wearables indicates its rarity:
-* <p style="color:#806AFB">Common: Cornflower Blue</p>
-* <p style="color:#98DBE5">Uncommon: Water Leaf</p>
-* <p style="color:#59BCFF">Rare: Malibu</p>
-* <p style="color:#FFC36B">Legendary: Koromiko</p>
-* <p style="color:#FF96FF">Mythical: Lavender Rose</p>
-* <p style="color:#51FFA8">Godlike: Aquamarine</p>
+El color del borde que rodea a los complementos indica su rareza:
+* <p style="color:#806AFB">Común: Azul Lavanda</p>
+* <p style="color:#98DBE5">Poco común: Waterleaf </p>
+* <p style="color:#59BCFF">Raro: Malibú</p>
+* <p style="color:#FFC36B">Legendario: Koromiko</p>
+* <p style="color:#FF96FF">Mítico: Rosa Lavanda</p>
+* <p style="color:#51FFA8">Godlike: Aguamarina</p>
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#key>Key</a></li>
-<li><a href=#wearable-sets>Wearable Sets</a></li>
+<li><a href=#key>Clave</a></li>
+<li><a href=#wearable-sets>Sets de Ropa</a></li>
 </ol>
 
 </div>
 
-## Key
+## Clave
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* BRS = [Puntuación base de rareza](/rarity-farming#base-rarity-score)
+* AGG = Agresividad
+* NRG = Energía
+* SPK = Espanto
+* BRN = Inteligencia
 
-## Wearable Sets
+## Sets de Ropa
 
-table_sets
+tabla_sets
 

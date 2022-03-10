@@ -83,6 +83,8 @@ XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 ## Уровень
 Aavegotchis level up as they gain more XP. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику. Some wearables can only be worn by Aavegotchis of a certain level.
 
+The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+
 For detailed information on the XP required for each level, click [here](/xp).
 
 Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).

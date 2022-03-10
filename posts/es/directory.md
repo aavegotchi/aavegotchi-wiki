@@ -75,7 +75,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Mini-Games](/minigames)
 
-* [Mini-Game XP Events](/minigame-xp-events)
+* [Eventos de mini juego XP](/minigame-xp-events)
 
 * [Missions](/missions)
 
@@ -93,7 +93,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [Temporada Rarity Farming](/rarity-farming-seasons)
 
 * [Roadmap](/roadmap)
 
@@ -109,7 +109,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Team](/team)
 
-* [The Nine Aadepts](/the-nine-aadepts)
+* [Los Nueve Adeptos](/the-nine-aadepts)
 
 * [Tickets](/tickets)
 
