@@ -81,7 +81,7 @@ XP exists as an internal balance on the Aavegotchi smart contract.
 XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. Elke drie niveausontvangt je Aavegotchis één [Spirit Punt](/glossary#spirit-point) dat kan worden toegewezen aan het verhogen of verlagen van een bepaalde vaardigheid. Some wearables can only be worn by Aavegotchis of a certain level.
 
 The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
 
