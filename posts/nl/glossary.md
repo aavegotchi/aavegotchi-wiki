@@ -18,42 +18,42 @@ contributors:
 Als je net bent begonnen met het verkennen van de wereld van DeFi, welkom in deze hoek van het internet! Deze woordenlijst is bedoeld om je informatie te verstrekken die je hopelijk zal helpen om je hoofd rond de basislijnen van een DeFi te wikkelen. Als je helemaal nieuw bent in deze ruimte zal deze woordenlijst u ook een overzicht geven van sommige termen die u kunt verwachten te zien tijdens het navigeren van de Aavegotchi wereld, om je begrip verder te vergroten.
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+Als je klaar bent met dit lezen en hopelijk een beter begrip van deze termen hebt. voel je vrij om over te zweven naar de ONBOARDING SECTIE en duik helemaal in het ecosysteem.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
-<p><a href=#aarchitect>Aarchitect</a></p>
-<p><a href=#aartist>Aartist</a></p>
+<li><a href=#aavegotchi-related>Aavegotchi-gerelateerde</a></li>
+<p><a href=#aarchitect>Aarchitecten</a></p>
+<p><a href=#aartist>Aartiesten</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
 <p><a href=#baadge>Baadge</a></p>
-<p><a href=#baard>Baard</a></p>
+<p><a href=#baard>Baards</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Broekzak</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
-<p><a href=#installations>Installations</a></p>
-<p><a href=#raffle-tickets>Raffle Tickets</a></p>
+<p><a href=#installations>Installaties</a></p>
+<p><a href=#raffle-tickets>Lotterij Tickets</a></p>
 <p><a href=#realm>REALM</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#spirit-point>Spirit Punt</a></p>
 <p><a href=#ugotchi-token>uGOTCHI Token</a></p>
 <p><a href=#wearables>Wearables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Automated Market Maker</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#automated-market-maker>Geautomatiseerde Markt Maker</a></p>
+<p><a href=#collateral>Collateraal</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#flash-loans>Flash Leningen</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
@@ -61,18 +61,18 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<li><a href=#general-terms>Algemene Voorwaarden</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#bell-curve>Bel Curve</a></p>
 <p><a href=#chainlink-vrf>Chainlink VRF</a></p>
-<p><a href=#diamond-standard>Diamond Standard</a></p>
+<p><a href=#diamond-standard>Diamond Standaard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
+<p><a href=#gbm-auction>GBM Veilingen</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#non-fungible-token>Niet-vervangbare tokens (NFT's)</a></p>
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
@@ -80,12 +80,12 @@ When you're done reading this and hopefully have a better understanding of these
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi-gerelateerde
 
-### Aarchitect
+### Aarchitecten
 Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
 
-### Aartist
+### Aartiesten
 Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
 
 ### Aavegotchi
@@ -106,7 +106,7 @@ Keep your eyes out for more Baadges. They will be announced by the team as and w
 
 Check out the [Baadge](/baadge) page for the complete list of Baadges.
 
-### Baard
+### Baards
 Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
 
 ### Drop Tickets
@@ -140,12 +140,12 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 ### Haunts
 [Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
-### Installations
+### Installaties
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
 
 Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
 
-### Raffle Tickets
+### Lotterij Tickets
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
 
 Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
@@ -158,7 +158,7 @@ Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializ
 ### Spirit Force
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
-### Spirit Point
+### Spirit Punt
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### uGOTCHI Token
@@ -198,14 +198,14 @@ APY stands for Annual Percentage Yield. This is the real rate of return earned o
 ### aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
 
-### Automated Market Maker
+### Geautomatiseerde Markt Maker
 A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
 This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
 
 An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
-### Collateral
+### Collateraal
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -238,7 +238,7 @@ Some examples of DEXs include UniSwap, Mesa and Balancer.
 Some examples of CEXs include Binance, Coinbase and OKex.
 
 
-### Flash Loans
+### Flash Leningen
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -288,7 +288,7 @@ Very simply put, yield farming is a practice that allows users to earn rewards b
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## Algemene Voorwaarden
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -299,7 +299,7 @@ The Aragon project is stewarded by the Aragon Association, a non-profit entity b
 
 Check out their [site](https://aragon.org/) here.
 
-### Bell Curve
+### Bel Curve
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Chainlink VRF
@@ -307,7 +307,7 @@ A Verifiable Randomness Function (VRF) developed by Chainlink to generate random
 
 Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-### Diamond Standard
+### Diamond Standaard
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
 Diamonds can be upgraded on the fly without having to redeploy existing functionality.
@@ -340,7 +340,7 @@ A novel token standard that aims to take the best from previous standards to cre
 
 Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
-### GBM Auction
+### GBM Veilingen
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
 
 GBM stands for Gonnaud-Bessire-McDonaugh.
