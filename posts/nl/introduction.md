@@ -14,58 +14,58 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is een DeFi-enabled crypto collectibles spel ontwikkeld door Singapore-gebaseerde Pixelcraft Studios die spelers toestaat om met [niet-fungible tokens (NFT's)](/glossary#non-fungible-token) avatars te spelen [interessante tokens](/spirit-force) en interactie met de Aavegotchi [metaverse](/gotchiverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi** is een DeFi-enabled crypto collectibles spel ontwikkeld door Singapore-gebaseerde Pixelcraft Studios die spelers toestaat om met [niet-fungible tokens (NFT's)](/glossary#non-fungible-token) avatars te spelen [interessante tokens](/spirit-force) en interactie met de Aavegotchi [metaverse](/gotchiverse). Het is een unieke combinatie van [Decentralized Finance (DeFi)](/glossary#defi-101) en NFT's.
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Aavegotchis zijn gepixelde spoken die leven op de Ethereum-blockchain, ondersteund door de [**ERC-721**](/glossary#erc-721) standaard. Hun waarde wordt bepaald door zeldzaamheidsniveau, dat wordt berekend via meerdere factoren, zoals base [eigenschappen](/traits), hoeveelheid opgeslagen onderpand / aTokens en uitgeruste [wearables](/wearables).
 
-To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
+Om hun Aavegotchis te levelen, kunnen spelers deelnemen aan verschillende activiteiten, zoals [mini-games](/minigames), governance en meetups. Aavegotchis kan ook hun zeldzaamheidsniveau verhogen door in-game wearables en leveling te gebruiken.
 
-Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+Zeldzame Aavegotchis hebben niet alleen hogere secundaire [baazaar](/baazaar) waarde, ze laten de Aavegotchi ook toe om beter te presteren in [Rarity Farming](/rarity-farming)— een minigame die de zeldzaamste Aavegotchis beloont met GHST tokens.
 
-Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated through the [GHST token](/ghst) distribution.
+Aavegotchi wordt bestuurd door [AavegotchiDAO](/dao) die alle fondsen beheert die gegenereerd worden via de [GHST token](/ghst) distributie.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#about-aavegotchis>About Aavegotchis</a></li>
-<li><a href=#aavegotchi-value>Aavegotchi Value</a></li>
-<li><a href=#the-aavegotchi-universe>The Aavegotchi Universe</a></li>
+<li><a href=#about-aavegotchis>Over Aavegotchi</a></li>
+<li><a href=#aavegotchi-value>Aavegotchi Waarde</a></li>
+<li><a href=#the-aavegotchi-universe>Het Aavegotchi Universum</a></li>
 </ol>
 
 </div>
 
-## About Aavegotchis
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
+## Over Aavegotchi
+Aavegotchis zijn zeldzame crypto-collectio's die leven op de Ethereum-blockchain, ondersteund door de ERC-721 standaard die gebruikt wordt in populaire blockchain-spellen zoals CryptoKitties, Axie Infinity, en Cryptovoxels. Aavegotchis hebben drie kenmerken die hun totale waarde en zeldzaamheid binnen het universum van Aavegotchi bepalen: **onderpand op het spel, eigenschappen en wearabels.**
 
-*  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+*  **Collaterale stake:** Elke Aavegotchi ERC721 NFT beheert een escrow contract adres dat een Aave-backed ERC20 collateral of "aToken" bevat. [aTokens](/spirit-force) genereren opbrengst via Aave's LendingPool, wat de hoeveelheid aTokens die in de portemonnee gehouden worden vergroot. Zo groeit de hoeveelheid aTokens die in de Aavegotch's escrow wordt vastgehouden in de loop der tijd.
 
 
-*  **Traits:** Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. **See [Traits](/traits).**
+*  **Traits:** Aavegotchis heeft meerdere eigenschappen die hun rariteit, hun prestaties in mini-games beïnvloeden en de wearables die ze kunnen aandragen. Sommige worden willekeurig gegenereerd na de geboorte, en andere zijn afhankelijk van de interacties van de gebruiker met de Aavegotchi. **Zie [Eigenschappen](/traits).**
 
-    * **Random Traits**: Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical depending on its rarity.
+    * **Willekeurige Eigenschappen**: Bij geboorte wordt elke Aavegotchi een aantal willekeurige eigenschappen toegewezenmet behulp van de ChainLink VRF willekeurige getal-generator. Eigenschapwaarden worden verdeeld op een bell-curve, en elke eigenschap heeft een waarde van Common, Uncommon, Rare of Mythisch toegewezen afhankelijk van zijn zeldzaamheid.
 
-    *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
+    *  **Kinship**: "Kinship" is niet willekeurig toegewezen, maar begint op een vaste waarde (50) bij geboorte en stijgingen of dalingen op basis van verschillende factoren, zoals hoe lang de Aavegotchi met dezelfde eigenaar is geweest, en hoe vaak de eigenaar ermee interactie heeft.
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
+    *  **Ervaring:** Aavegotchis level up wanneer ze meer ervaring krijgen door in AavegotchiDAO te stemmen en deel te nemen aan mini-games. Elke drie niveausontvangt je Aavegotchis één [Spirit Punt](/glossary#spirit-point) dat kan worden toegewezen aan het verhogen of verlagen van een bepaalde vaardigheid.
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Wearables** Behalve het beheren van de aToken escrow, breidt Aavegotchis ook de [ERC998 Composables standaard uit](/glossary#erc-998), waarmee ze onderliggende NFT's kunnen beheren, bekend als wearables in het Aavegotchi ecosysteem. Niet elke wearable kan door elke Aavegoti worden uitgerust. Sommige wearables kunnen uitsluitend worden uitgerust door Aavegotchis met een bepaald collateraal, die van een bepaald niveau, en die met bepaalde eigenschappen. Sommige wearables kunnen bepaalde eigenschappen van een Aavegotchi vergroten of verminderen. Bijvoorbeeld, het uitrusten van een zwaard kan de agressiviteit van een Aavegotchi iets vergroten, terwijl het uitrusten van een Bob Marley hemd het energieniveau kan verlagen.
 
-The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
+De relatie tussen Collateraal, Eigenschappen, Wearables, en Kinship is het beste vertegenwoordigd door een Onion Diagram (zie hieronder). Elke laag bouwt op de vorige lagen, waarbij de som de Aavegotchi zelf is!
 
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
-## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+## Aavegotchi Waarde
+De waardering van een Aavegotchi is afkomstig van zowel zijn intrinsieke waarde als van zijn zeldzaamheidswaarde.
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **Intrinsieke waarde** Intrinc-waarde is de genoteerde waarde van de onderpand van de Aavegotchi. Als de Aavegotchi wordt ingezet met 10 aDAI, dan is de intrinsieke waarde 10 aDAI, plus de extra aDAI die uit de Lending Pools is voortgekomen. In eerste instantie zijn alleen [ERC20](/glossary#erc-20) tokens die worden weergegeven op het Aave platform (aTokens) beschikbaar als onderpand. Als AavegotchiDAO echter eenmaal is gelanceerd, zal de gemeenschap kunnen stemmen over welke nieuwe onderpanden ze kan toestaan.
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **Rarity value** Rarity value wordt bepaald door het berekenen van de zeldzaamheid van elke Aavegotchi eigenschappen en uitgeruste wearables binnen het Aavegotchi universum. In tegenstelling tot andere NFT spellen, is zeldzaamheid geen vaste waarde in Aavegotchi. Het kan in de loop der tijd veranderen als Aavegotchis hoger en verschillende wearabels uitrusten. Zo kan een zeldzame Aavegotchi een week lang gebruikelijk worden, en vice versa, afhankelijk van de algehele verdeling van eigenschappen en wearables binnen het Aavegotchi universum. Dit maakt een nieuw concept mogelijk, bekend als "raity farming", dat wordt uitgelegd in [deze pagina](/rarity-farming).
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
-* [GHST Utility Token](/ghst)
+## Het Aavegotchi Universum
+Het Aavegotchi Universe omvat alle elementen die Aavegotchis in staat stellen om te opereren in:
+* [Portalen](/portals)
+* [GHST Utiliteit Token](/ghst)
 * [AavegotchiDAO](/dao)
 * [Aavegotchi Realm](/metaverse)
