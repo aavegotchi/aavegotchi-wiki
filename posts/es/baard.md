@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Baard'
+title: 'El bardo de Aavegotchi'
 description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
 contributors:
   - "unintelligent-nerd"
