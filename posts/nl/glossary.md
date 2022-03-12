@@ -112,51 +112,51 @@ Geniet je van die mooie muziek in sommige van onze mini-games? Ze zijn gemaakt d
 ### Drop Tickets
 Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert een item in de NFT Lotterij, waar u Aavegotchi [Portalen](/portals) en [REALM Parcelen](/gotchiverse) kunt winnen.
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10.000 [FRENS](/glossary#frens) kunnen worden omgezet in één Drop Ticket.
 
-Raffle Tickets could also be converted into Drop Tickets.
+Lotterij tickets kunnen ook worden omgezet in 'Drop Tickets'.
 
 ### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+Punten die worden beloond aan gebruikers die GHST hebben gestaked. FRENS is geen token. Het is technisch gezien een saldo binnen het Staking Contract. FRENS zijn niet overdraagbaar en zijn bedoeld om stakers te belonen voor hun bijdragen aan het Aavegotchi project.
 
-Read more about FRENS in the [Staking page](/staking).
+Lees meer over FRENS in de [Stakingpagina](/staking).
 
 ### Gotchi Broekzak
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+Elke Aavegotchi heeft een Gotchi Pocket. Dit dient als een inventaris voor hen, waarin ze uitgeruste wearabels kunnen opslaan, GHST tokens ontvangen van [rarity farming](/rarity-farming), en [Baadges](/baadge).
 
-Technically, a Gotchi Pocket is an escrow address.
+Technisch gezien is een Gotchi Pocket een escrow adres.
 
 ### Gotchus Alchemica
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
+Gotchus Alchema zijn de vier elementen van de Gotchivere: Fud, Fomo, Alpha, en Kek. Ze kunnen onder andere worden gecombineerd om [installaties](/glossary#installations) en Aesthetica te maken.
 
-Technically, each element exists as an ERC-20 token.
+Technisch gezien bestaat elk element als een ERC-20-token.
 
-Check the [Gotchiverse page](/gotchiverse) for more information.
+Bekijk de [Gotchiverse pagina](/gotchiverse) voor meer informatie.
 
 ### Gotchus Alchemica Exchange
 
-The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+De native Decentralized Exchange (DEX) van Aavegotchi. Het zal de handel in GHST-Gotchus Alchemica ondersteunen. Bekijk de [Gotchus Alchema Exchange (GAX) pagina](/gotchus-alchemica-exchange) voor meer.
 
 ### Haunts
-[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+[Haunts](/haunt) zijn de edities van Aavegotchis. Haunt nummers worden sequentieel gegenereerd (bijvoorbeeld Haunt 2 komt na Haunt 1) en deze nummers worden aangegeven op de Aavegotchi. Er zijn geen statistiekverschillen tussen Haunts.
 
 ### Installaties
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
+Installaties zijn krachtige structuren die op REALM pakketten gebouwd kunnen worden met behulp van bepaalde hoeveelheden grondstoffen bekend als [Gotchus Alchema](/glossary#gotchus-alchemica).
 
-Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
+Bekijk de [Gotchiverse pagina](/gotchiverse#building-on-realm-parcels) voor een lijst van installaties die je kunt bouwen.
 
 ### Lotterij Tickets
-Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+Lotterij Tickets zijn tickets die worden gebruikt om in Lotterijen in te voeren om [wearables](/wearables) te winnen. Lotterij tickets worden geconsumeerd bij gebruik.
 
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
+Raffle tickets kunnen worden gekocht met [FRENS](/glossary#frens) die worden verdiend via [Staking](/staking).
 
-Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
+Lotterij tickets kunnen ook worden omgezet in [Tickets](/glossary#drop-tickets) voor de aankoop van REALM pakketten.
 
 ### REALM
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
+Plotten land in de Gotchiverse waar jouw Gotchi in leeft. Een plek voor socialiseren, desastreuze activiteiten en het vechten van baaddies!
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+Spirit Force verwijst naar de hoeveelheid onderpand ([maTokens](/matokens)) die binnen de gotchi zijn vergrendeld. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### Spirit Punt
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
