@@ -86,25 +86,25 @@ Als je klaar bent met dit lezen en hopelijk een beter begrip van deze termen heb
 Onze community ontwikkelaars! Bekijk enkele van de [tools](/developers) en [mini-games](/minigames#community-created-mini-games) die ze hebben gemaakt. Leer onze Aarchitects [hier](/aarchitect) kennen.
 
 ### Aartiesten
-Onze aartistisch-geleide frens van de Gotchi gemeenschap. Onze Aartiesten hebben een aantal van de geweldige wearables die uw Gotchis draagt ontworpen. Get to know them [here](/aartist).
+Onze aartistisch-geleide frens van de Gotchi gemeenschap. Onze Aartiesten hebben een aantal van de geweldige wearables die uw Gotchis draagt ontworpen. Leer ze [hier](/aartist) kennen.
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis zijn gepixelde spoken die op de Ethereum-blockchain leven, ondersteund door de ERC-721 standaard. Hun waarde wordt bepaald door [zeldzaamheidsniveau](/rarity-farming), die wordt berekend via meerdere factoren, zoals basisvaardigheden, hoeveelheid van [onderpand](atokens), en uitgeruste [wearables](/wearables).
 
 ### Baadge
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+Baadges zijn niet-overdraagbare ERC-1155 NFT's die de deelname van Gotchi aan een speciaal evenement gedenken. Zodra een Baadge naar je Gotchi is gestuurd, bevindt het zich voor altijd in hun Gotchi Pocket.
 
-Baadges could be earned in a variety of ways:
+Baadges kunnen op verschillende manieren verdiend worden:
 
-* Getting into the Top 10/100 for [Rarity Farming](/rarity-farming)
-* Participating in an event
-* Voting in a major [AavegotchiDAO](/dao) vote
-* Breaking a [mini-game's](/minigames) high score
-* .....And many more!
+* In de Top 10/100 voor [Rarity Farming](/rarity-farming)
+* Deelnemen aan een evenement
+* Stemmen in een belangrijke [AavegotchiDAO](/dao) stem
+* Breek een [mini-game's](/minigames) topscore
+* .....En nog veel meer!
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Houd je ogen voor meer baadges in de toekomst. Ze zullen door het team worden aangekondigd zodra ze beschikbaar zijn.
 
-Check out the [Baadge](/baadge) page for the complete list of Baadges.
+Bekijk de [Baadge](/baadge) pagina voor de volledige lijst van baadges.
 
 ### Baards
 Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
