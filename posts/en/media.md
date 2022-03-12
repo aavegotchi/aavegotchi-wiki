@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Crypto Sapiens — Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming (12 March 2022)
+<iframe title="Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=79ipq-11cae95-pb&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>
+
 ### Aavegotchi Gotchiverse Gameplay on LADZ City (22 December 2021)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
