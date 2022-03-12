@@ -156,24 +156,24 @@ Lotterij tickets kunnen ook worden omgezet in [Tickets](/glossary#drop-tickets) 
 Plotten land in de Gotchiverse waar jouw Gotchi in leeft. Een plek voor socialiseren, desastreuze activiteiten en het vechten van baaddies!
 
 ### Spirit Force
-Spirit Force verwijst naar de hoeveelheid onderpand ([maTokens](/matokens)) die binnen de gotchi zijn vergrendeld. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+Spirit Force verwijst naar de hoeveelheid onderpand ([maTokens](/matokens)) die binnen de gotchi zijn vergrendeld. Gamers kunnen de hoeveelheid Geest Kracht binnen de Aavegotchi vermeerderen of verminderen. Er is echter een minimum niveau van Spirit Force dat een Aavegotchi nodig heeft, wat afhankelijk is van hun Base Rarity Score.
 
 ### Spirit Punt
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+Geest punt verwijst naar het punt dat een gotchi krijgt wanneer het een level omhoog gaat. Een beetje zoals stat punten uit RPG spellen. U krijgt 1 spirit punt per 3 niveaus.
 
 ### uGOTCHI Token
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+uGOTCHI tokens worden gemunt via [Unicly](https://www. unic. ly/) en vertegenwoordigen direct eigendom van de uGOTCHI Collectie. Bij de lancering bestaat de collectie uit "The Aastronauts", de eerste vijf Aavegotchis die op Ethereum bestaat.
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+De collectie bevat enkele van de zeldzaamste en duurste Aavegotchis tot op heden. Zelfs naakt hebben deze Aavegotchis al hoge zeldzaamheidscijfers en superzeldzame ogen (de enige eigenschappen die wearables niet eens van invloed zijn). Maar deze ERC-721 Aavegotchis zijn niet de enige NFT's in de verzameling. Elke draarable die ze hebben uitgerust, is ook een ERC-1155 NFT, waarvan veel zeer zeldzame en krachtige voorwerpen zijn.
 
-The Collection's Aavegotchis are still able to participate in Rarity Farming.
+De Collection's Aavegotchis zijn nog steeds in staat om deel te nemen aan rarity farming.
 
-On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+Op 16 mei 2021 introduceerde Pixelcraft onopende Portaal 2, de derde laagste tokenID van Haunt 1, in de uGOTCHI collectie.
 
-For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
+Voor meer informatie over de Aastronauten en de uGOTCHI Token, bekijk de [uGOTCHI pagina](/ugotchi).
 
 ### Wearables
-Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+Kleding/uitrusting die je Aavegotchi draagt. Ze voldoen aan de [ERC-1155 standaard](/glossary#erc-1155). Elke draagbare heeft zijn eigen zeldzaamheid, statistieken die een maximale hoeveelheid verbeteren of verslechteren en een uitrustingsplaats die ze overnemen.
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
 
