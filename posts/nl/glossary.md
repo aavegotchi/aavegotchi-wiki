@@ -80,13 +80,13 @@ Als je klaar bent met dit lezen en hopelijk een beter begrip van deze termen heb
 
 </div>
 
-## Aavegotchi-gerelateerde
+## Aavegotchi-gerelateerd
 
 ### Aarchitecten
-Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+Onze community ontwikkelaars! Bekijk enkele van de [tools](/developers) en [mini-games](/minigames#community-created-mini-games) die ze hebben gemaakt. Leer onze Aarchitects [hier](/aarchitect) kennen.
 
 ### Aartiesten
-Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+Onze aartistisch-geleide frens van de Gotchi gemeenschap. Onze Aartiesten hebben een aantal van de geweldige wearables die uw Gotchis draagt ontworpen. Get to know them [here](/aartist).
 
 ### Aavegotchi
 Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
