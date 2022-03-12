@@ -107,10 +107,10 @@ Houd je ogen voor meer baadges in de toekomst. Ze zullen door het team worden aa
 Bekijk de [Baadge](/baadge) pagina voor de volledige lijst van baadges.
 
 ### Baards
-Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
+Geniet je van die mooie muziek in sommige van onze mini-games? Ze zijn gemaakt door onze [Baards](/baard), onze communitymuzikanten!
 
 ### Drop Tickets
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
+Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert een item in de NFT Lotterij, waar u Aavegotchi [Portalen](/portals) en [REALM Parcelen](/gotchiverse) kunt winnen.
 
 10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
 
