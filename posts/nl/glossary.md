@@ -175,88 +175,88 @@ Voor meer informatie over de Aastronauten en de uGOTCHI Token, bekijk de [uGOTCH
 ### Wearables
 Kleding/uitrusting die je Aavegotchi draagt. Ze voldoen aan de [ERC-1155 standaard](/glossary#erc-1155). Elke draagbare heeft zijn eigen zeldzaamheid, statistieken die een maximale hoeveelheid verbeteren of verslechteren en een uitrustingsplaats die ze overnemen.
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+Wearables kunnen gewonnen worden in Aavegotchi raffles of gekocht worden in de [Aavegotchi Maall](/maall) met [GHST tokens](/ghst).
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi" staat voor **De**gedecentraliseerde financien**Fi**nance. Het kan worden beschouwd als een ecosysteem van toepassingen en protocollen die soortgelijke diensten verlenen aan traditionele financiële instellingen (d. w. z. interesses te lenen, lenen en opbouwen om te sparen onder elkaar). Er is echter één belangrijk verschil: Defi probeert dit op een gedecentraliseerde manier te doen zonder tussenpersoon.
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+Dat betekent dat er geen banken zijn die uw potentiële rendementen verlagen of u een negatieve rente geven. Dat betekent ook geen centraal punt van mislukking waar het hele systeem zou kunnen instorten. of onderworpen worden aan een reeks regels die worden vastgelegd en uitgevoerd door een kleine groep met geconcentreerde macht.
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+Op het moment van schrijven (5 december 2020) staat de totale waarde vergrendeld in Defi op 14,24B USD.
 
-## Key Terms
+## Belangrijke voorwaarden
 
 ### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+amTokens zijn LP tokens van Aave's geldmarkt pools die geschikt zijn voor **Polygon**. Ze zijn **NIET heyzelfde** als [tokens](/glossary#matokens).
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APY staat voor Jaarlijkse Percentage Winst. Dit is het werkelijke rendement van de spaargelden die u in een protocol heeft gestort, rekening houdend met het effect van het vergroten van uw interest.
 
 ### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
+tokens zijn interest genererende tokens uit het [Aave Protocol](https://aave.com/). Voor stap-voor-stap instructies over het verkrijgen van aTokens, raadpleeg onze [Geest Kracht](/spirit-force) pagina.
 
 ### Geautomatiseerde Markt Maker
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+Een soort gedecentraliseerd uitwisselingsprotocol (DEX) dat vertrouwt op een wiskundige formule op prijsactiva. In plaats van een orderboek als een traditionele beurs te gebruiken, worden activa geprijsd volgens een prijsalgoritme.
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+Deze formule kan per protocol verschillen. Uniswap gebruikt bijvoorbeeld x * y = k, waarbij x de hoeveelheid van één token in de liquiditeitspool is, en y de hoeveelheid van de andere. In deze formule is k een vaste constante, wat betekent dat de totale liquiditeit van de pool altijd hetzelfde moet blijven. Andere AMM's zullen andere formules gebruiken voor de specifieke gevallen waarop zij doelen. De overeenkomst tussen hen is echter dat zij algorittisch de prijzen bepalen.
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+Een AMM werkt net zo goed als een orderuitwisseling in dat er handelsparirs zijn – bijvoorbeeld ETH/DAI. Handelaren hoeven echter geen tegenpartij (een andere handelaar) te hebben om een transactie te kunnen doen. In plaats daarvan communiceren ze met een smart contract dat de markt voor u ‘maakt’.
 
 ### Collateraal
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+Collateral is een vrij eenvoudig concept. Het verwijst naar een activum dat u als garantie voor een kredietverstrekker zou kunnen neerleggen, wanneer u geld van hen zou lenen. Als je je lening niet kunt terugbetalen, dan wordt je onderpand gebruikt om je schuld af te lossen.
 
 
-In the context of DeFi, this is how things might look:
+In de context van DeFi, kan het er zo uitzien:
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+Laten we zeggen dat je wat activa uit een protocol wilt lenen. Hiervoor moet je een deel van je andere activa als onderpand instellen. Als je je lening niet terugbetaalt, zal het protocol je onderpand niet teruggeven.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+In de Aavegotchi metaverse, staan onderpanden ook wel bekend als [Geest Kracht](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Een DAICO is een model waarbij beleggers zeggenschap hebben over de fondsen die zijn ingezameld zodra de financiering voorbij is. De investeerders kunnen invloed uitoefenen op de manier waarop ontwikkelaars toegang hebben tot de fondsen en op de frequentie van een "tap"-mechanisme. Bovendien kunnen investeerders ook stemmen om het project af te schaffen en hun geld terug te krijgen.
+Staat voor Gedecentraliseerde Autonomie Initiaal Coin Aanbod. Het is een nieuwe fundraising methode die de beste functies van een [Decentralized Autonomous Organization (DAO)](/glossary#dao) met die van een Initial Coin Offering (ICO) wil integreren om een structuur te creëren die een hogere effectiviteit biedt aan het model voor token sale fundrading. Een DAICO is een model waarbij beleggers zeggenschap hebben over de fondsen die zijn ingezameld zodra de financiering voorbij is. De investeerders kunnen invloed uitoefenen op de manier waarop ontwikkelaars toegang hebben tot de fondsen en op de frequentie van een "tap"-mechanisme. Bovendien kunnen investeerders ook stemmen om het project af te schaffen en hun geld terug te krijgen.
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+Anders bekend als een gedecentraliseerde autonome organisatie. Dit zijn organisaties die worden bestuurd door regels die zijn gecodeerd door smart contracts en worden beheerd door haar leden. Dit staat in schril contrast met de traditionele organisatiemodellen, die vaak worden bestuurd door een kleine groep van gezagsfiguren.
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+In de context van de AavegotchiDAO, betekent dit dat de leden van het ecosysteem voorstellen kunnen initiëren en in stemming kunnen brengen die van invloed zullen zijn op de werking van het grotere ecosysteem. Leden kunnen bijvoorbeeld voorstellen om het aantal beschikbare portalen na verloop van tijd te verhogen naast elke andere functie die volgens hen de gemeenschap zou helpen verbeteren.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Voor meer een meer gedetailleerde uitleg van DAO's, bekijk [deze pagina](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+Anders bekend als een Gedecentraliseerde Exchange. Zulke platformen stellen gebruikers in staat om transacties op een peer-to-peer manier te verwerken, om tokens te verkrijgen via een portemonnee van een gebruiker met behulp van smart contracten. Dit is in tegenstelling tot de manier waarop CEXs (Centralized Exchanges) werkt, die werkt via een tussenpersoon (de CEX zelf).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Enkele voorbeelden van DEX's zijn UniSwap, Mesa en Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Enkele voorbeelden van CEXs zijn Binance, Coinbase en OKex.
 
 
 ### Flash Leningen
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+Herinnert u zich wat we eerder hebben gezegd over leningen en zakelijke zekerheden? Flexileningen zijn een vorm van lening die ervoor zorgt dat ze niet onderpand worden. Er is echter een valkuil.
 
-The flash loan has to be repaid within the same transaction block.
+De Flash lening moet worden terugbetaald binnen dezelfde transactieblok.
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+Als dit niet gebeurt, wordt de hele transactie teruggedraaid om de tot dan toe uitgevoerde acties daadwerkelijk ongedaan te maken. U kunt meer lezen over Flash Leningen [hier](https://aave.com/flash-loans/).
 
 
 
 ### Impermanent Loss
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+Het verschil tussen het vasthouden van tokens in een [geautomatiseerde marktmaker (AMM)](/glossary#automated-market-maker) en het vasthouden van tokens in uw portemonnee. Het gebeurt wanneer de prijs van tokens binnen een AMM in elke richting verschilt. Hoe meer divergentie, des te groter het impermanent loss. Het verlies is "onpermanent" omdat zolang de relatieve prijzen van tokens in de AMM terugkeren naar hun oorspronkelijke staat bij het betreden van de AMM, het verlies verdwijnt en u verdient 100% van de handelskosten. Dit is echter zelden het geval. Meestal dan niet wordt ondoorlopende verliezen permanent, het eten van uw inkomsten of het achterlaten van u met negatieve rendementen. Ook vaak aangeduid als Divergence verlies.
 
 
 
 ### Liquidity Pools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+De term is enigszins vanzelfsprekend. Dit zijn pools van tokens die zijn vergrendeld in een smart contract. Ze worden op hun beurt gebruikt om de handel te vergemakkelijken door liquiditeit te bieden.
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+Voor een meer gedetailleerde specificatie van deze voorwaarden, bekijk de Finematici [gids](https://finematics.com/liquidity-pools-explained/).
 
 ### maTokens
 maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
