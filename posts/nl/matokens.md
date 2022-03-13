@@ -22,7 +22,7 @@ Er zijn meerdere manieren om je handen te leggen op wat maTokens. Op deze pagina
 
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staken van maTokens in Aavegotchis</a></li>
-<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problemen tijdens het staken van Spirit Force</a></li>
 <li><a href=#learn-more>Lees meer</a></li>
 </ol>
 
