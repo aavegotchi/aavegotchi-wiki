@@ -2,37 +2,37 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Kinship'
-description: 'Everything you need to know about Kinship and petting your Gotchi!'
+description: 'Alles wat je moet weten over Kinship en het petten van je Gotchi!'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/kinship/petgotchi.gif">
-<p class="headerImageText">Petting your gotchi!</p>
+<p class="headerImageText">Je Gotchi petten!</p>
 </div>
 
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+Kinship is het loyaliteitsgevoel van je Aavegotchi. Kinship: "Kinship" is niet willekeurig toegewezen, maar begint op een vaste waarde (50) bij geboorte en stijgen of dalen op basis van verschillende factoren, zoals hoe lang de Aavegotchi met dezelfde eigenaar is geweest, en hoe vaak de eigenaar ermee interactie heeft. De minimale kinship waarde is 0. Er is geen maximale kinship waarde.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Doorgaans is langer eigendom meer kinship, maar het verwaarlozen van je Aavegotchi voor lange periodes zal het kinship niveau verlagen. Aavegotchis zijn niet alleen vaartuigen om uw crypto-tassen op te slaan. Het zijn levende en ademende spoken, en ze hebben je genegenheid nodig!
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Maximaal 1 Kinship point wordt elke 12 uur per week verzameld waarin je interactie hebt met je Aavegotchi. Omgekeerd zal er een -1 Kinship point boete zijn als je Aavegotchi 24 uur niet actief is gebleven.
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+Kinship bestaat als een intern saldo op het Aavegotchi smart contract.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables and may not always be available in the Aavegotchi store. More details on potions will be available soon.
+Toverdranken kunnen ook worden gebruikt om de kinship scores te verbeteren. Het zijn echter beperkte editie verbruiksartikelen en is mogelijk niet altijd beschikbaar in de Aavegotchi-winkel. Binnenkort meer informatie over drankjes beschikbaar.
 
-High kinship levels can boost your Aavegotchi’s performance in mini-games, and may also act as a multiplier for GHST rewards on governance and [rarity farming](/rarity-farming). Low kinship levels will have the opposite effect.
+Hoge kinship levels kunnen je Aavegotchi prestaties in mini-spellen verhogen, en kan ook fungeren als een vermenigvuldiger voor GHST beloningen op governance en [rarity farming](/rarity-farming). Lage kinship-niveaus zullen het tegenovergestelde effect hebben.
 
-Some ways to boost your Aavegotchi’s kinship level:
+Enkele manieren om het kinship level van Aavegotchi te versterken:
 
-* Aavegotchis are born with a sense of civic duty. Bring your Aavegotchi to City Hall and let it vote in AavegotchiDAO;
-* Aavegotchis may be ghosts, but they have voracious appetites! Feed your Aavegotchi consumables to see its spooky smile;
-* Aavegotchis love trying on new clothes. Equip your Aavegotchi with new wearables to forge a lasting bond;
-* Aavegotchis love to play! Take your Aavegotchi out for a romp in the Aavegotchi Realm and level it up playing mini-games.
+* Aavegotchis wordt geboren met een gevoel van burgerlijke plicht. Breng je Aavegotchi naar het stadhuis en laat het stemmen in AavegotchiDAO;
+* Aavegotchis mogen dan wel spoken zijn, maar ze hebben ook eetlust! Voer je Aavegotchi verbruiksartikelen in om de spookachtige smileys te zien;
+* Aavegotchis houden van het proberen van nieuwe kleren. Rust je Aavegotchi uit met nieuwe wearables om een blijvende band te smeden;
+* Aavegotchis houden van spelen! Neem je Aavegotchi uit voor een romp in het Aavegotchi Rijk en level het meer tijdens het spelen van mini-games.
 
-The table below shows the kinship level and their value range.
+De onderstaande tabel toont het kinship level en hun waardebereik.
 
-table_kinship
+tabel_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+Kinship kan worden bekeken op de [Aavegotchi profielpagina](/aavegotchi-profile).
