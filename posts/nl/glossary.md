@@ -259,86 +259,86 @@ De term is enigszins vanzelfsprekend. Dit zijn pools van tokens die zijn vergren
 Voor een meer gedetailleerde specificatie van deze voorwaarden, bekijk de Finematici [gids](https://finematics.com/liquidity-pools-explained/).
 
 ### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+makens zijn representaties van Aave V2's [aTokens](/glossary#atokens) op [Polygon](/glossary#polygon). Ze worden ontwikkeld door onze eigen [Nick Mudge](/team#nick-mudge).
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Voor stap-voor-stap instructies over hoe je aTokens op Ethereum Mainnet kunt converteren naar maTokens in Polygon, ga naar deze [makens](/matokens) handleiding.
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+maTokens zijn **niet hetzelfde** als [amTokens](/glossary#amtokens).
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+In het Aavegotchi spel, worden **maTokens** gebruikt als [Spirit Force/Collateral](/glossary#spirit-force).
 
 ### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+Om Smart Contracts uit te voeren moet aan bepaalde voorwaarden worden voldaan. Informatie over de aanwezigheid van deze voorwaarden moet worden gevoed aan de blockchain waarop het contract actief is. Dit komt doordat blockchains meestal geen volledige toegang hebben tot informatie buiten de chain. Hier komen orakels in het beeld. Deze entiteiten bieden de benodigde gegevens om smart contracten op te starten.
 
 
 
 ### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+Over het algemeen is een smart contract een zelfuitvoerend contract met de "voorwaarden van overeenkomst" tussen de gebruikers van het contract dat rechtstreeks in de code van het contract wordt opgenomen. Wanneer aan deze vooraf bepaalde voorwaarden is voldaan, wordt het contract uitgevoerd.
 
 
 
-### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+### Staken
+Het staken van een cryptovaluta betekent in essentie dat je die valuta vasthoudt, om te helpen transacties te verifiëren en het netwerk te ondersteunen. In ruil daarvoor ontvangen stakers meestal een of andere beloning. In de Aavegotchi wereld bijvoorbeeld. $GHST stakers worden beloond met FRENS (punten) die ze kunnen gebruiken om tickets te kopen en prijzen te winnen in periodieke lotterijen.
 
 
 
 ### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+Heel simpel gezegd is yield farming een praktijk die gebruikers in staat stelt beloningen te verdienen door hun vermogen in een bepaald protocol te storten en uit te lenen.
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+Dit kan op verschillende manieren gebeuren, maar het meest voorkomende mechanisme is wanneer deposito/leners munten verdienen met een protocol, door simpelweg hun ERC-20 tokens en/of stabiele munten op zijn platform te zetten. Meestal worden deze beloningen gebruikt om potentiële deposito's en kredietnemers te stimuleren liquiditeit toe te voegen aan een specifiek platform.
 
 
 ## Algemene Voorwaarden
 
 ### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+Aragon is een open-source, door de gemeenschap gedreven project met de missie om vrijheid uit te roepen door hulpmiddelen te creëren voor gedecentraliseerde organisaties om te bloeien.
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+Het vlaggenschipproduct van het project is de Aragon-client, een hulpmiddel voor het creëren en deelnemen aan gedecentraliseerde organisaties op Ethereum. Het project bouwt ook het Aragon-netwerk, de eerste digitale jurisdictie ter wereld.
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+Het Aragon-project wordt geleid door de Aragon Association, een non-profitorganisatie die gevestigd is in Zug, Zwitserland, en geregeerd wordt door Aragon Network Token houders.
 
-Check out their [site](https://aragon.org/) here.
+Bekijk hun [site](https://aragon.org/) hier.
 
 ### Bel Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+Een bel curve is een algemeen type distributie voor een variabele, ook bekend als de normale distributie. De term "bell curve" komt voort uit het feit dat de grafiek die wordt gebruikt om een normale distributie af te beelden bestaat uit een symmetrische bel-vormige curve. Zie deze [pagina](https://www.investopedia.com/terms/b/bell-curve.asp) voor meer informatie.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+Een verifieerbare willekeurige functie (VRF) ontwikkeld door Chainlink om willekeurige gedragspatronen te genereren die controleerbaar is on-chain. Het wordt gebruikt om aan te tonen dat smart contracten inderdaad gebruik maken van een zelfbestendige bron van willekeurigheid die buiten hun bereik ligt. In het Aavegotchi project wordt de Chainlink VRF gebruikt om de generatie van [eigenschappen](/traits) op het punt van [portal](/portals) te openen en lotterij prijzen willekeurig te maken.
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Lees meer over de Chainlink VRF [hier](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 ### Diamond Standaard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+De Diamond Standard is gemaakt door onze eigen [Nick Mudge](/team#nick-mudge). De Diamond Standard stelt mensen in staat om contracten te schrijven met vrijwel geen maximumoppervlakte en gasefficiëntie.
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+Diamanten kunnen op de gulp worden verbeterd zonder dat bestaande functionaliteit opnieuw moet worden ingezet.
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+Standaardeert contractinterfaces en uitvoeringsdetails van diamanten, waardoor software-integratie en interoperabiliteit mogelijk zijn.
 
-A diamond is a contract that implements the Specification in this standard.
+Een diamant is een contract dat de specificatie volgens deze norm toepast.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Zie [hier](https://eips.ethereum.org/EIPS/eip-2535) voor meer informatie.
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+Een token standaard voor fungible token, met andere woorden, ze hebben een eigenschap die elke Token exact hetzelfde (in type en waarde) laat zijn van een andere token. Het biedt functies aan zoals het overdragen van tokens van de ene rekening naar de andere. het ontvangen van het huidige token saldo van een account en ook het totale aanbod van de beschikbare token op het netwerk. Naast deze functies heeft het ook enkele andere functies, zoals het goedkeuren van een hoeveelheid tokens die door een derde-partijaccount kunnen worden uitgegeven. Zie [hier](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) voor meer informatie.
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+Een gratis, open standaard die beschrijft hoe niet-fungibele of unieke tokens op de Ethereum-blockchain te bouwen. Terwijl de meeste tokens fungibel zijn (elke token is hetzelfde als elke andere token), zijn ERC-721 tokens allemaal uniek.
 
-Think of them like rare, one-of-a-kind collectables.
+Zie ze als zeldzame, unieke verzamelstukken.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Voor een volledige uitleg over wat de ERC-721 standaard betekent, bekijk het [hier](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998 is een uitbreiding naar de [ERC-721](/glossary#erc-721) standaard waarmee de mogelijkheid voor [niet-fungibele tokens](/glossary#nft) wordt toegevoegd om andere niet-fungibele tokens en ERC-20 tokens te bezitten.
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+Niet-fungibele tokens die ERC998 implementeren implementeren ook de ERC-721 norm.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Voor een volledige uitleg over wat de ERC-998 standaard betekent, bekijk het [hier](https://eips.ethereum.org/EIPS/eip-998).
 
 ### ERC-1155
-A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+Een nieuwe token standaard die tot doel heeft om het beste van eerdere standaarden te halen om een fungibilbility-agnostisch en gas-efficiënt token contract te creëren. Een enkel geïmplementeerde contract kan elke combinatie van fungibele tokens, niet-fungibele tokens of andere configuraties omvatten (bijv. semi-fungible tokens).
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+Lees meer [hier](https://eips.ethereum.org/EIPS/eip-1155) en [hier](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### GBM Veilingen
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
