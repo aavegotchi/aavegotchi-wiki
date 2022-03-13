@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: 'Alles over Aavegotchi maTokens'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -12,40 +12,40 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
+Wat krijg je wanneer je die rentedragende aTokens gebruikt en ze op [Polygon](/glossary#polygon) zet? Waarom je uiteraard maTokens krijgt!
 
-There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
+Er zijn meerdere manieren om je handen te leggen op wat maTokens. Op deze pagina zullen we de verschillende manieren introduceren.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Staken van maTokens in Aavegotchis</a></li>
 <li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
 <li><a href=#learn-more>Lees meer</a></li>
 </ol>
 
 </div>
 
-## Staking maTokens into Aavegotchis
+## Staken van maTokens in Aavegotchis
 
-Okay, I've gotten myself some maTokens. What now?
+Oké, ik heb zelf wat maTokens gekregen. Wat nu?
 
-Good work fren.
+Goed werk fren.
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+De volgende stap is het kopen van een [portaal](/portals) met [GHST](/ghst). Portalen kunnen worden gekocht in de Aavegotchi DApp (link zal worden verstrekt bij het starten) of op de [Secundaire markten](/marketplace) zoals OpenSea. Als je eenmaal op een kostbaar portaal in je handen hebt, is het tijd om de oproepingsprocedure te beginnen. Bij het openen van het portaal, wordt u 10 Gotchis gepresenteerd, elk met een willekeurig vereiste maToken/onderpand. Hier is waar de maToken die je hebt verworven binnenkomen. Pak het in de Gotchi die hetzelfde onderpand type heeft en je franje naar het leven brengt!
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+Voor een meer gedetailleerde uitleg van het portal-openingsproces, bekijk onze [portalen](/portals) pagina.
 
-## Problems while staking Spirit Force
+## Problemen tijdens het staken van Spirit Force
 
-There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+Er zijn 2 situaties waarin gebruikers hun onderpand niet mogen inzetten in een Gotchi:
 
-* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
-* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
+* Je moet een goedkeuringstransactie uitvoeren voordat een smart contract je ERC-20 token mag gebruiken. Zeer waarschijnlijk, heeft de gebruiker handmatig de emissielimiet te laag ingesteld. Om deze suage te corrigeren, verhoog de limiet van de vergoeding
+* De gebruiker gebruikt het onderpand op Aave om te lenen en stakent zou de gezondheidsfactor verlagen en mogelijk zorgen dat zijn positie wordt geliquideerd. Om deze situatie recht te zetten, zal je je geleende positie verminderen of sluiten of aanvullen met de vereiste onderpand
 
-## Learn more
+## Ontdek meer
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) door [Nick Mudge](/team#nick-mudge) op zijn succesvolle implementatie van aTokens op Polygon als makens
+* Nick Mudge duikt in de [technische eigenschappen van maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
