@@ -341,43 +341,43 @@ Een nieuwe token standaard die tot doel heeft om het beste van eerdere standaard
 Lees meer [hier](https://eips.ethereum.org/EIPS/eip-1155) en [hier](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
 ### GBM Veilingen
-A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
+Een nieuwe veilingsmethode waarbij inschrijvers worden gestimuleerd wanneer ze tijdens de veiling in real time worden uitboden. Kortom, wie meedoet aan een veiling van GBM, wint ofwel de veiling of gaat ofwel met meer geld naar huis dan hij is begonnen.
 
-GBM stands for Gonnaud-Bessire-McDonaugh.
+GBM staat voor Gonnaud-Bessire-McDonaugh.
 
-First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Voor het eerst gepionierd door Cryptographs in 2019, GBM-veiling is een systeem waarvoor patent is aangevraagd, en Pixelcraft Studios heeft officieel een licentie gekregen om het te gebruiken voor alle Aavegotchi NFT Drops, inclusief Haunt 2, REALM en zelfs Wearables.
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+Voor meer informatie over de GBM Auction, bekijk de [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
 ### Metaverse
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+Een metaverse is een virtuele wereld waar je interactie kunt hebben met aspecten van de wereld (zoals spelletjes of winkels) en met andere gebruikers.
 
-Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
+Enkele voorbeelden van metaverses zijn [Gotchiverse](/gotchiverse) naast projecten als Second Life en Decentraland.
 
-### Non-Fungible Token
+### Niet-vervangbare tokens
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+Een niet-fungible token (NFT) is een speciaal type cryptografische token dat iets **uniek**vertegenwoordigt, wil zeggen dat het niet kan worden verwisseld voor andere token. Niet-fungibele tokens vertegenwoordigen meestal de eigendom van items zoals wearables, kunstwerken of elk ander type eigendom.
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+Het **tegenovergestelde** van een niet-fungibele token is er een die kan worden ingeruild voor andere van zijn soort, zoals USDC of Bitcoin. Tokens die omgewisseld kunnen worden tot 1:1 voor een munt van dezelfde soort worden bekend als fungible tokens.
 
 ### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Polygon (Voorheen Matic Netwerk) is een schaalende oplossing voor openbare blockchains. Gebaseerd op een aangepaste implementatie van plasma framework (Plasma MoreVP) - met een op account gebaseerde implementatie Polygon ondersteunt alle bestaande Ethereum-tools, samen met snellere en goedkopere transacties.
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+Om tokens van Ethereum Mainnet naar Polygon over te dragen, raadpleeg deze [handleiding](/polygon).
 
-Read more about Polygon [here](https://matic.network/).
+Lees meer over Polygon [hier](https://matic.network/).
 
 ### Proof of Stake
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) is een soort consensusmechanisme dat blockchains kunnen gebruiken om het eens te worden over één echte gegevensgeschiedenis. In een PoS-blockchain leggen validators de inzet op om blokken te bevestigen (of 'valideren').
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+Validators zijn de deelnemers op het netwerk die knooppunten (zogenaamde validatorknooppunten) uitvoeren om PoS-blokken op een PoS-blockchain voor te stellen en te bevestigen. Ze doen dat door de staking van crypto (in het geval Ethereum 2., ETH) op het netwerk en maakt zichzelf beschikbaar om willekeurig te worden geselecteerd om een blok voor te stellen. Andere validatoren "bevestigen" dan dat ze het blok hebben gezien. Wanneer een voldoende aantal bevestigingen voor het blok is verzameld, wordt het blok aan de blockchain toegevoegd. Validatoren ontvangen beloningen voor zowel het succesvol voorstellen van blokken (zoals in PoW) als het bevestigen van blokken die ze gezien hebben.
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Lees meer over de Proof of Stake consensus mechanisme [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwap is een goedbedoelde gedecentraliseerde beurs (DEX) gebaseerd op Ethereum, aangedreven door [Polygon](/glossary#polygon)’s Layer 2 schaalbaarheid-infrastructuur. Door het gebruik van Layer 2 voor transacties, kunnen QuickSwap-gebruikers alle ERC20 activa verhandelen met bliksemsnelheden met bijna nul gaskosten.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+QuickSwap kan worden geopend [hier](https://quickswap.exchange).
