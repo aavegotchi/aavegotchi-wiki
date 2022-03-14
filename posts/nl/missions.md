@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: 'Missies'
+description: 'Alles over Aavegotchi Missies'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -11,84 +11,84 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">Aagenten op het werk</p>
 </div>
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#the-aagent-missions>The Aagent Missions</a></li>
-<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
+<li><a href=#the-aagent-missions>De Aagent Missies</a></li>
+<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campagne</a></li>
 </ol>
 
 </div>
 
-## The Aagent Missions
+## De Aagent Missies
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+**DE AAVEGOTCHI MISSIE PROGRAM IS NU VOLTOOID!**
 
-Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
+Een episch hoofdstuk sluiten in de Aavegotchi geschiedenis ongeveer 280 van onze toegewijde communityleden hebben zich van de rangen naar de officiële Aavegotchi agent status behaald! Deze agenten zullen de exclusieve eigenaren zijn van de [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), waarbij ze hun plaats in Aavegotchi geschiedenis zullen plakken.
 
-**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
-
-
-From the aarchives:
-
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
-
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
-
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
-
-&nbsp;
+**PROFICIAT AAGENTEN!** CONTEXTREQUEST <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 
 
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
+Van de aarchieven:
 
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
+<p style="font-size:25px; font-style: italic;"><b>"Uw missie, dient u te accepteren..."</b></p>
 
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
+Aavegotchi "missies" zijn een leuke manier om een goed inzicht te krijgen in het Aavegotchi project. De meeste zijn eenvoudige taken (met uitzondering van slechts één die een beetje meer reflectie vereist) en kunnen worden gedaan wanneer de tijdslimieten en in elke volgorde die u kiest. Als je elk voltooid hebt, wordt je geleveled door onze Aaprentica, totdat je de volledige Aagent status hebt bereikt! Zorg ervoor dat je in Mission Control gaat zitten voordat het mainnet opstart, want ons Aagent programma zal alleen lopen tot dan toe. Bij mainnet launch, zullen Aagents die **ALLE Aavegotchi missies** hebben voltooid, een **complete Aagent wearable krijgen die exclusief ingesteld is voor Aavegotchi Aagents.**
 
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
-
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
-
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
-
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
-
-[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
-
-[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
-
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
-
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
-
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+**ALLE 12 MISSIES MOET VOLTOOID TEGEN 4 JANUARY 2021!**
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+
+[**MISSIE 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Commentaar in de Aavegotchi Litepaper.
+
+[**MISSIE 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Nodig een fren uit voor Discord.
+
+[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Voeg een of twee van je gedachten over het project toe aan het Aavegotchi Community Pitch papier.
+
+[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet ons op Twitter met waarom je van Aavegotchi houdt en twee frenen tagt.
+
+[**MISSIE 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stel een vraag in onze Telegram.
+
+[**MISSIE 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Gebruik ons testnet om testnet te kopen (niet echte) GHST van de testnet band curve (dit vereist GEEN KYC - de echte band curve doet maar **u kunt alle missies uitvoeren zonder KYC).** Hier word je opeens een expert in het gebruik van testnetten, als je dat nog niet eerder hebt gedaan. en heeft een gevoel van superslim hulp aan iedereen die na jou komt. Als je vastzit in Mission 6, vraag het ons! We zijn blij onze agenten te aassiseren.
+
+[**MISSIE 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stem op een Aavegotchi governance-voorstel.
+
+[**KISSIE 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Maak een Aavegotchi-thema meme aan in elke taal die je wilt en plaats het op onze meme thread op Reddit.
+
+[**MISSIE 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Onze uitdagende mission) Schrijf een kort artikel of maak een korte video over Aavegotchi (300 woorden voor artikelen, of 30 seconden voor video's). Publiceer uw creatie op het gekozen platform (er zijn verschillende opties beschikbaar voor elk van deze), en stel ons nog een keer een keer op de hoogte van uw link naar uw aavesome Aavegotchi content.
+
+[**MISSIE 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) MAAK EEN AAVEGOTCHI (op testnet) met behulp van onze Aavegotchi builder, stem uw Gotchi als uw avatar (voor 72 uur) en deel uw creatie met de rest van de beroem van de Aavegotchi!
+
+[**MISSIE 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Bekijk onze nieuwe wiki! Kies twee dingen die nuttig kunnen zijn om te helpen om er de beste bron van te maken.
+
+[**MISSIE 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Wees een Moovie Star! Tag 2 van je favoriete Crypto Youtubers en laat ze weten dat de #GotchiGang komt!
+
+&nbsp;
+
+Gefeliciteerd, je bent een officiële Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Doe mee terwijl je erbij bent - [ga naar Discord om aan de slag te gaan!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
 
-## Share2Earn Litepaper Campaign
+## Share2Earn Litepaper Campagne
 
-We’re partnering with Viral Loops, an industry leader in referral programs, to create a limited-time campaign where you can earn real rewards for referring your frens to learn about Aavegotchi.
+We werken samen met Viral Loops, een industrieleider in verwijzingsprogramma's, om een beperkte campagne te maken waarbij je echte beloningen kunt verdienen voor het doorverwijzen van je franken om te leren over Aavegotchi.
 
-The focus of this campaign will be on spreading awareness about the Aavegotchi Realm Litepaper, and the primary rewards will be [Drop Tickets](/metaverse#drop-tickets), a new special type Raffle Ticket that we’ve created for NFT drops.
+Deze campagne zal zich concentreren op het verspreiden van bekendheid met de Aavegotchi Realm Litepaper, en de primaire beloningen zullen [Tickets](/metaverse#drop-tickets)zijn, een nieuw speciaal type Lotterij Ticket dat we hebben gemaakt voor NFT-drops.
 
-**Here’s how to participate**:
+**Hier is hoe je deelneemt**:
 
-1. Take the Aavegotchi Realm Litepaper quiz [here](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Just for passing this short quiz and verifying your email, you’ll earn 1 Rare Ticket NFT. Rare Tickets can be entered into future Wearable Raffles (but not Portal and REALM Raffles).
+1. Neem de Aavegotchi Realm Litepaper quiz [hier](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Net voor het passeren van deze korte quiz en het verifiëren van uw e-mail, verdient u 1 Zeldzame Ticket NFT. Zeldzame Tickets kunnen worden ingevoerd in toekomstige Wearable Lotterijen (maar niet Portaal en REALM Lotterijen).
 
-2. Join the #Share2Earn Program. After completing the quiz, you’ll receive an email that lets you opt into the Referral Program, so you can start inviting your frens. You’ll earn another Rare Ticket by inviting the first fren.
+2. Word lid van het #Share2Earn Programma. Na het voltooien van de quiz, ontvang je een e-mail die je laat kiezen voor het verwijzingsprogramma, zodat je kunt beginnen met het uitnodigen van je frens. Je verdient nog een Zeldzame Ticket door de eerste fren uit te nodigen.
 
-3. Now the fun begins! Keep inviting frens to start earning Drop Tickets! You’ll earn more tickets every time you reach a Milestone.
+3. Nu begint het plezier! Blijf frens uitnodigen om te beginnen met het verdienen van Ticketen! Elke keer dat je een Milestone bereikt, ontvang je meer tickets.
 
-<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers" />
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campagne Beloningsniveaus" />
 
-**UPDATE: This program has temporarily closed due to large volume of suspected bot activity. Stay tuned in the Aavegotchi Discord for announcements about re-opening.**
+**UPDATE: Dit programma is tijdelijk afgesloten vanwege een groot volume aan vermoedelijke bot activiteit. Blijf op de hoogte in de Aavegotchi Discord voor aankondigingen over heropenen.**
