@@ -158,54 +158,54 @@ contributors:
 <p></p>
 
 ## [Start Aavegotchi Ecosysteem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
-* Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
-* There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
+* Na het enorme succes van ons Aavegotchi Gaame Jaam, is Pixelcraft Studios opgewonden om de lancering van het Ecosysteem Grants programma van Aavegotchi bekend te maken!
+* Er zijn twee nummers: (1) Game Track - Open voor iedereen die mini-games creëert; en (2) Ecosysteem Track - Meant voor elke DApp, analytics platform, of virale gotchi ervaring die je in gedachten hebt om te bouwen.
 <p></p>
 
-## [Aavegotchi Side Views are now live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
-* Aavegotchi Side Views are now live!
-* They are viewable on the Aavegotchi UI and smart contract
+## [Aavegotchi Zijkant Weergaven zijn nu live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
+* Aavegotchi Zijkant Weergaven zijn nu live!
+* Ze zijn zichtbaar op de Aavegotchi UI en smart contract
 <p></p>
 
-## [Aavegotchi Raffle 5 Wearables revealed!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
-* The wearables for Raffle 5 are revealed!
-* The theme is Aavegotchi's frenliest partnerships! :D :D :D
+## [Aavegotchi Lotterij 5 Wearables onthuld!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
+* De wearables voor Raffle 5 worden onthuld!
+* Het thema is de frenliliste partnerschappen van Aavegotchi! :D :D
 <p></p>
 
-## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
-* Gotchigang, boy do we have tons of exciting events for you!
-* Haunt 2 Raffle: 5 - 8 September 2021
-* AavegotchiDAO Frens Committee: 16 September 2021
-* FRENS Wearables Raffle #5: 24 - 28 September 2021
-* Baazaar NFT offers feature: Early October
-* Rarity Farming Season 2: October
-* REALM land sale #1: October
-* Gotchi renting/lending: November
-* The Aarcade: November
-* .....and many more! Check out the Medium post for all the hot hot alpha!
+## [120 Dagen Gotchi! - Een kijkje naar wat je verwacht in Aavegotchi vanaf nu tot 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
+* Gotchigang, jongen we hebben vele opwindende evenementen voor jou!
+* Haunt 2 Lotterij: 5 - 8 september 2021
+* AavegotchiDAO Frens Commissie: 16 september 2021
+* FRENS Wearables Lotterij #5: 24 - 28 September 2021
+* Baazaar NFT aanbiedingen: Begin oktober
+* Rarity Farming Seizoen 2: oktober
+* REALM landverkoop #1: oktober
+* Gotchi huren/lenen: november
+* De Aarcade: november
+* .....en nog veel meer! Bekijk het Medium bericht voor alle hete alpha!
 <p></p>
 
-## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
-* The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
-* Read this guide for more information!
+## [De Ultieme Gids voor Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* De grootste veiling die ooit wordt aangeboden, komt voor Aug 26–29 met nieuwe Aavegotchis en wearables!
+* Lees deze handleiding voor meer informatie!
 <p></p>
 
-## [Aavegotchi Game Jaam coming soooon!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
-* The 1st Aavegotchi Game Jaam will be held on 1 - 5 September 2021!
-* Win aavesome prizes denominated in GHST!
-* The Gaame Jaam is organized by Aavegotchi's own Pixelcraft Studios who are providing custom tailored resources and hands-on workshops throughout the week
+## [Aavegotchi Game Jaam komt binnekort!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
+* De 1e Aavegotchi Game Jaam zal gehouden worden op 1 - 5 september 2021!
+* Win aavesome prijzen in GHST!
+* De Gaame Jaam is georganiseerd door Aavegotchi's eigen Pixelcraft Studios die door de week aangepaste hulpmiddelen en hand-on workshops leveren
 <p></p>
 
-## [The DeFi Case for GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
-* Coderdan has initiated a proposal to list GHST on the Aave Polygon market
-* Learn why GHST makes a good DeFi collateral in this post
-* Go delegate your proposition power to him to make this a reality!
+## [DeFi Geval voor GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
+* CoderDojo heeft het initiatief genomen om GHST aan te bieden op de Aave Polygon Markt
+* Leer waarom GHST een goed DeFi collateral is in dit bericht
+* Gedelegeer je propositiebevoegdheid aan hem om dit werkelijkheid te maken!
 <p></p>
 
-## [Haunt 2 Dates Confirmed!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
-* Haunt 2 Dates confirmed on August 26, 2pm UTC — August 29, 2pm UTC
-* Format: GBM Auction
-* New Mythical Eye Shapes!
+## [Haunt 2 datums bevestigd!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
+* Haunt 2 datums bevestigd op 26 augustus 2pm UTC - 29, 2pm UTC van 29 augustus
+* Formaat: GBM Veiling
+* Nieuwe Mythische Oog Vormen!
 <p></p>
 
 ## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
