@@ -49,115 +49,115 @@ contributors:
 <p></p>
 
 ## [Rarity Farming Seizoen 2 Baadges zijn uit!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
-* Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
+* Hier zijn de winnaars van elk van de Rarity Farming Seizoen 2 Scoreborden!
 <p></p>
 
-## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
-* Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
+## [Maker van PhaserQuest Joins Aavegotchi als Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
+* Phaser game engine expert Jerome Renaux voegt zich bij Pixelcraft Studios om de Gotchiverse te helpen bouwen!
 <p></p>
 
-## [The Gotchiverse Bible](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
-* The Gotchiverse Bible has been released!
-* It is a public-facing document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
+## [De Gotchiverse Bijbel](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
+* De Gotchiverse Bijbel is vrijgegeven!
+* Het is een publiek document dat gedetailleerde informatie geeft over gameplay, economie en opbouw in het Gotchiversspel.
 <p></p>
 
-## [Aavegotchi Raffle #6: DeFi RPG Theme](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
-* The 6th Aavegotchi Raffle has a DeFi RPG Theme
-* The Raffle will be held from 26 - 29 Jan!
-* Don't miss out on it!
+## [Aavegotchi Lotterij #6: Defi RPG Thema](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
+* De 6e Aavegotchi Lotterij heeft een DeFi RPG Thema
+* De Lotterij zal worden gehouden van 26 tot 29 Jan!
+* Mis het niet!
 <p></p>
 
 ## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
-* What has our shippooooorrr been up to in December 2021?
-* A lot!
-* Check out the Medium post for more
+* Wat heeft onze shippoooor in december 2021 bereikt?
+* Heel veel!
+* Bekijk de Medium Post voor meer
 <p></p>
 
-## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
-* 2 new Core Props and 6 new SigProps to vote for!
-* Vote now and get a deluge of XP!
+## [Niet 1, maar 8 voorstellen om voor te stemmen!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
+* 2 nieuwe Core Props en 6 nieuwe SigProps om op te stemmen!
+* Stem nu en krijg een golf van XP!
 <p></p>
 
-## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
-* There are 3 ways to earn Alchemica
-* Check it out here!
+## [Verdienen in het Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
+* Er zijn 3 manieren om Alchemica te verdienen
+* Bekijk ze hier!
 <p></p>
 
-## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
-* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+## [Gotchi Lending komt je weg uit!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
+* Pixelcraf kondigt de aankomende Gotchi Lending functie aan! :D
 <p></p>
 
-## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
-* 7000 parcels will be distributed through a Bid-to-Earn Auction from 2 - 5 December 2021
-* 3000 parcels will be distributed through a Drop Ticket Raffle from 10 - 13 December 2021
+## [2e Gotchiverse Land Verkoop bevestigd!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 7000 parcelen zullen worden geveild via een Bid-to-Earn Veiling van 2 tot 5 december 2021
+* 3000 parcelen worden van 10 tot 13 december 2021 via een drop-Ticket verloot
 <p></p>
 
-## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
-* AGIP14: Earn FRENS with GHST-MATIC LP Tokens
-* AGIP15: Create a Wearables Taask Force
+## [DAOist, maak je klaar om te stemmen in AGIP14 en 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
+* AGIP14: Verdien FRENS met GHST-MATIC LP Tokens
+* AGIP15: Maak een Wearables Taask Force
 <p></p>
 
-## [Coderdan the shippoorrrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
-* Coderdan and his army of shippporrrrs continue to deliver:
-1. First Gotchiverse Land Auction
+## [Coderdan de shippoorrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
+* Coderdan en zijn leger van shippoorrrs blijven leveren:
+1. Eerste Gotchiverse Land Veiling
 2. Rarity Farming SZN 2 Kickoff
-3. Former World of Warcraft Game Designer Joins Team
-4. Gotchus Alchemica Tokenomics Report
-5. YGG Becomes First Official Gotchiverse Partner
-6. Blackpool Becomes Second Official Gotchiverse Partner
-7. Onchain Aging Boost for Aavegotchis Implemented
-8. 3-Word Addresses
-9. 1M USD + Aavegotchi Aastronauts Auction on Unicly
-10. Aavegotchi to Ethereum Bridge Opens
+3. Voormalig World of Warcraft Game Designer vervoegt het Team
+4. Gotchus Alchema Tokenomics Rapport
+5. YGG Wordt De Eerste Officiële Gotchiverse Partner
+6. Blackpool Wordt De Tweede Officiële Gotchiverse Partner
+7. Onchain Aging Boost voor Aavegotchis geïmplementeerd
+8. 3-Woord Adressen
+9. 1M USD + Aavegotchi Aastronauts Veiling op Unicly
+10. Aavegotchi naar Ethereum brug opent
 11. r/CryptoCurrency Reddit AMA
-12. GHST Added to Umbria Narni Bridge
-13. Pixelcraft Studios Dev Highlights
+12. GHST toegevoegd aan Umbria Narni Bridge
+13. Pixelcraft Studios Dev Hoogtepunten
 <p></p>
 
-## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
-* Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
+## [Land Lotterij #1 - 5-8 november](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
+* Neem deel aan Aavegotch's allereerste Land Lotterij van 5 tot 8 november!
 <p></p>
 
 ## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
-* FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
-* Read all about their tokenomics here!
+* FUD, FOMO, ALPHA, KEK - De 4 elementen in de Gotchiverse
+* Lees alles over hun tokenomics hier!
 <p></p>
 
-## [Ex-World of Warcraft Game Designer joins Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
-* David Fried, a senior game industry veteran who previously worked on World of Warcraft, Diablo II, and Warcraft 3, has joined Pixelcraft Studios as Senior Engineer Game Advisor (SEGA!)!
+## [Ex-World of Warcraft Game Designer sluit zich aan bij Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
+* David Fried, een senior game-industrie veteraan die eerder werkte aan World of Warcraft, Diablo II en Warcraft 3 heeft zich aangesloten bij Pixelcraft Studios als senieur Game Adviseur (SEGA!)!
 <p></p>
 
-## [Are you ready? Aavegotchi Land Sale #1 coming up this Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
-* The very first Aavegotchi Land Sale is starting on Thursday, October 28 using the GBM Auction format
-* Get your GHST ready to bid bid bid!
+## [Ben je klaar? Aavegotchi Land Verkoop #1 komt deze Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* De allereerste Aavegotchi Land Sale begint op donderdag 28 oktober met behulp van het GBM veiling formaat
+* Maak je GHST klaar om een bod te doen!
 <p></p>
 
-## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
-* Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
-* Season 2 begins Tuesday, 12 October 2021
-* Get the details in this post!
+## [Rarity Farming Seizoen 2 staat om de hoek!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* Maak je klaar om 3 MILLIE USD aan GHST te verdienen voor je #GotchiGang
+* Seizoen 2 begint dinsdag 12 oktober 2021
+* Ontvang de details in dit bericht!
 <p></p>
 
-## [Aavegotchi September Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
-* September was another Aamazing month for the #GotchiGang!
-* Gotchiverse REALM Reveal
-* Haunt 2 Portal Raffle Completed
-* Wearables Raffle #5 Completed
-* And many more!
+## [Aavegotchi september Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
+* September was weer een verbazingwekkende maand voor de #GotchiGang!
+* Gotchiverse REALM Openbaring
+* Haunt 2 Portaal Lotterij voltooid
+* Wearable Lotterij #5 Voltooid
+* En nog veel meer!
 <p></p>
 
-## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
-* AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
-* Fulfil your Gotchi civic duty and vote!
+## [[AGIP13] Moet Aavegotchi een Aging Boost introduceren?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+* AGIP13 introduceert een kleine BRS-verhoging aan de leeftijd van gotchis om statistische verschillen tussen haunts tegen te gaan en betrokkenheid op de lange termijn te belonen
+* Fuliteer uw burgerlijke rechten en stem goed!
 <p></p>
 
-## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
-* Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
-* NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
-* Get 3x as many RARI trading rewards for trading Aavegotchis for the next 2 weeks!!!
+## [Aavegotchis terug naar Ethereum Mainnet Bruggen? Binnenkort beschikbaar!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
+* Beginnend op Maandag, 4 oktober 2021, kunnen Aavegotchis terug worden overgedragen naar Ethereum Mainnet met de Aavegotchi Bridge
+* NFT Marketplace Rarible biedt stimulansen voor de handel in Aavegotchis op hun marktplaats
+* Krijg 3 keer zoveel RARI trading beloningen voor het handelen in Aavegotchis voor de komende 2 weken!!!
 <p></p>
 
-## [Launch of Aavegotchi Ecosystem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
+## [Start Aavegotchi Ecosysteem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
 * Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
 * There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
 <p></p>
