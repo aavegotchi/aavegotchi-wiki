@@ -479,160 +479,160 @@ contributors:
 * 4 januari 2021 Aavegotchi lanceerdatum bevestigd!
 * Aave-themed Lotterij was een groot succes! een stijging van 66% in tickets ten opzichte van de Chainlink-thema Lotterij
 * Binance lijst GHST token
-* Help een Fren uit! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
+* Help een Fren uit! Een Fren stuurde zijn hele LINK investeringen naar het GHST staking contract :(
+* GHST 3 maanden Verjaardag Paarrttaaay op 14 december 2020!
+* Jesse presentatie met CGC op "INTEROPERABLE AVATARS VOOR DE GREAT WEB3 MMORPG" (Bekijk het op aanvraag op onze [media](/posts/media) pagina hier!)
 <p></p>
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
+## [Aavegotchi Gameplay zal op 4 januari 2021 worden gestart](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
+* Op 12 december 2020 publiceert Coindesk een artikel met de lancering van Aavegotchi Gameplay op 4 januari 2021. Ben je opgewonden? Ik ben opgewonden!
 <p></p>
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
+## [Aave kondigt bonus Aave NFT's aan in de aankomende Aavegotchi Lotterij](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
+* Op 6 december 2020 kondigt Aave een Aave * Aavegotchi Fireside Chat aan op 8 december 2020 om de Aave-themed Raffle af te trappen
+* De Aave-thema Lotterij zal bonus Frens-4Ever NFT's bevatten! Pak een CoderDangotchi en een Jessegotchi als je kunt!
 <p></p>
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
+## [Aavegotchi Scholars! Aavegotchi Wiki is hier!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
+* Start van Aavegotchi Wiki op 27 november 2020. Aagents, we hebben uw hulp nodig om de wiki te vullen!
+* Aavegotchi twee keer genomineerd bij 2020 NFT Awards. Whoohoo!
+* Beep! Aavegotchi huurt een game ontwikkelaar! Geïnteresseerde partijen sluiten zich aan bij de familie!
 <p></p>
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
+## [Peek a boo! Aave-Thema Lotterij Prijs Lijst](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
+* Een voorproefje van de Aavevengers Superhero wearables op 25 november 2020.
+* Met Marc, Jordani-en Stani-gotchi wearables ook!
 <p></p>
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi 
+## [Aave investeert in Aavegotch!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
+* Op 23 november 2020 hebben we officieel hun investering in Pixelcraft Studios aangekondigd
+* FYI Pixelcraft Studios is het belangrijkste ontwikkelingsteam voor Aavegotchi 
 <p></p>
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
+## [Awwww. Aavegotchi Fanfictie <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+* Een Aavegotchi ❤ Chainlink Fiction, geschreven door onze eigen aapprentice [appellants](https://twitter.com/sinkielinkie)! Op 20 november 2020 gepubliceerd.
 <p></p>
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
+## [Iedereen is winnaar!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+* In ademnood wachtte iedereen op de Chainlink-VRF om op 13 november 2020 zijn magie te laten werken. Toen kwamen de resultaten binnen......... iedereen is winnaar!
 <p></p>
 
 ## [Maak je klaar, frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
+* Bereid je voor frens! Een stapsgewijze handleiding voor de aankomende lotterijen- gepubliceerd op 9 november 2020!
 <p></p>
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
+## [De Haaaaallooweeeen Paartaay was een succues!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
+* Op 4 november 2020 is er een samenvatting van de Aawesome Haalloween Paartay gepubliceerd!
+* Mededeling van de winnaars van het kostuumspel!
+* Test lotterij live op Kovan testnet
 <p></p>
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
+## [Bouw je eigen Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
+* Start Aavegotchi Builder op 29 oktober 2020, een interactieve mini-app waar u kunt spelen met Aavegotchi eigenschappen en kunt simuleren wat uw Aavegotchi eruit zou kunnen zien met wearables.
 <p></p>
 
 ## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty gonna get kicked off with Aave's own Stani Kulechov.
+* Op 28 oktober 2020 werden meer details over de Haaaalloween Paaarty bekendgemaakt
+* Virtuele Kostuum Wedstrijd!
+* Met muziek van Harrison First en meet n greet met Cherry, OpenSea, en Polygon. Paartty gonna wordt van start gegaan met Aave's eigen Stani Kulechov.
 <p></p>
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
+## [Moar fun! Moar opwinding!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
+* Beep! Beep! Het team heeft op 25 oktober 2020 aangekondigd dat een Haalllooowwweeen party op vrijdag 30 oktober 2020 zal worden gehouden. Wees er of kom vierkant!
+* De winnaars van de Mission 9 Wedstrijden
 <p></p>
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
+## [Er brouwt iets.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
+* Op 23 oktober 2020 heeft het team aangekondigd dat de eerste van 3 pre-Mainnet GHST Staking Lotterijen zal plaatsvinden op 10 nov!
+* Deze Lotterij is LINK-themed, om ons partnerschap te vieren met Chainlink en gebruik van Chainlink VRF.
 <p></p>
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
+## [Strap en ga!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+* GHST staking is nu live op Mainnet op 20 oktober 2020
 <p></p>
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
+## [Ik test in test! Audits doorstaan](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
+* Belangrijke aankondiging op 18 oktober 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) compleet - geen exploitatie!
+* GHST Staking lancering op Mainnet binnen 72 uur
+* AavegotchiDAO zijn eerste stemronde loopt met 99% JA!
+* Aavegotchi wint de OKex DeFi + NFT lijst wedstrijd
 <p></p>
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hoor je! Hoor je! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+* Hoor je! Hoor je! Stem met ye GHST op 14 oktober 2020! AavegotchiDA's Inaugurale Voorstel: Tik op verhogen voor Geschaalde Sprint!
 <p></p>
 
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
+## [Spookachtig. Welkom onze frens uit hun portalen](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
+* 13 oktober 2020 is de dag. Welkom bij onze griezelige frens uit hun portalen op Kovan testnet. Whooooo!
 <p></p>
 
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
+## [Klaar ervoor? Aavegotchi Mission Meme Contest Winnaars!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
+* De winnaars van de missie 8 Aavegotchi Meme Contest op 10 oktober 2020 aankondigd! Stoke!
+* Open oproep voor Aavegotchi Aartiesten
 <p></p>
 
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
+## [Speciale editie OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
+* Belangrijke aankondiging op 7 oktober 2020! Krijg je handen op de speciale editie Aavegotchi x OKex draagbare NFT's door GHST op OKex te storten
 <p></p>
 
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
+## [Uniswap GHST-ETH pair live op Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
+* Lanceer van het Uniswap LP staking van het GHST-ETH paar op 2 oktober 2020 op Kovan testnet
 * Gotchi memes flooooding Aavegooootchi Reddit!
 <p></p>
 
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
+## [GHST Staking live op Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
+* STAKE GHST, VERDIEN FRENS!!!!! Op 29 september 2020 live op Kovan testnet!
 <p></p>
 
-## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
+## [Portalen live op Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
+* Aavegotchi portalen zijn live op Kovan testnet vanaf 25 september 2020!
+* AavegotchiDAOs eerste reis van de tap: GHST liquiditeit toevoegen op Uniswap
+* Winnaars aangekondigd voor Mission 7 "Just DAO it!"
 <p></p>
 
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
+## [Aavegotchi en Chainlink zijn frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
+* FRENS MET CHAINLINK! Op 24 september 2020 legt Coderdan uit wat Chainlink's verifieerbare willekeurige functie (VRF) is en hoe Aavegotchi het gebruikt
+* Zie dit [handige Chainlink-artikel](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) voor een grondigere uitleg van de Chainlink VRF
 <p></p>
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
+## [Presale is binnen een minuut uitverkocht!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
+* $GHST lanceerde op 14 september 2020 op Mainnet! Presale is binnen een minuut uitverkocht! :O
+* GHST token bijgehouden door ruim 2000 unieke adressen! Dit is yuuuuuuuggeeeee
 <p></p>
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
+## [Voorverkoop nieuws! Vers van de pers!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
+* Op 10 september 2020 werd het juicccyy nieuws over de aanstaande Pre-Sale vrijgegeven aan het publiek!
 <p></p>
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
+## [Start van de Bonding Curve op Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
+* Op 3 september 2020 werd de Aavegotchi Token Bonding Curve (TBC) gelanceerd op Rinkeby testnet
 <p></p>
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
+## [Vraag me alles (AMA) van Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
+* Aavegotchi's allereerste vraag mij alles (AMA) werd gehouden op 1 september 2020
 <p></p>
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
+## [Privé verkoop uuuiiitvverkocht!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
+* Privé verkoop uitverkocht op 20 augustus 2020
+* Start van Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
+* Lancering van [Officiële Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
 <p></p>
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
+## [Aapprentices betreden de fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
+* Op 13 augustus 2020 treedt Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph en Unintelligent_nerd toe aan de fray als Aavegotchi Aapprentices!
+* Aavegotchi Aagenten is meer dan 120 leden sterk!
 <p></p>
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
+## [JC Crowns neemt deel aan het team en lanceert Aavegotchi Missies](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
+* Op 29 juli 2020 sluit JC Crown zich aan bij het Aavegotchi team!
+* Start Aavegotchi Missies op dezelfde datum!
 <p></p>
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
+## [Nick Mudge treedt toe aan het team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
+* Nick Mudge sluit zich aan bij het team op 22 juli 2020
 <p></p>
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
+## [Eerste Aavegotchi post op Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
+* Op 14 juli 2020 werd het eerste Aavegotchi-bericht gepubliceerd op Medium!
+* Xibot treedt toe tot het team!
 <p></p>
