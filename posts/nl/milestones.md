@@ -340,96 +340,96 @@ contributors:
 * Lil Pump Wearables Drop vrijdag 9 april
 * Hottest Signal Voorstellen op AavegotchiDAO
 * Pixelcraft Studios is aan het uitbreiden
-* Baazaar heeft onlangs een belangrijke mijlpaal bereikt die meer dan 10 miljoen handelsvolume heeft bereikt!
-* Post published on 5 April 2021
+* Baazaar heeft onlangs een belangrijke mijlpaal van meer dan 10 miljoen in handelsvolume bereikt!
+* Post gepubliceerd op 5 april 2021
 <p></p>
 
-## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
-* Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
-* Post published on 30 March 2021
+## [Rarity Farming Seizoen 1 Beloningen](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Rarity Farming Seizoen 1 - Boek uw aandeel van meer dan 2 miljoen USD aan GHST beloningen in 8 weken
+* Bericht gepubliceerd op 30 maart 2021
 <p></p>
 
-## [Lil Pump x Aavegotchi Collaboration](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
-* On 22 March 2021, the Aavegotchi team reveals their collaboration with multi-platinum music artist Lil Pump.
-* The mystery wearables for Raffle 4 are revealed to be Lil Pump wearables!
+## [Lil Pump x Aavegotchi Samenwerking](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
+* Op 22 maart 2021 onthult het Aavegotchi team hun samenwerking met multi-platinum muziekartiest Lil Pump.
+* De mysterieuze wearables voor Lotterij 4 worden onthuld als Lil Pump wearables!
 <p></p>
 
-## [Vote in Aavegotchi Improvement Proposals 4 and 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
-* Frens, we need your vote! Aavegotchi Improvement Proposals (AGIPs) 4 and 5 are open for voting!
-* Should there be more haunts? Should Haunt 1 be unique? Vote nao!
-* Post published on 17 March 2021
+## [Stem in Aavegotchi verbetervoorstellen 4 en 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
+* Fransen, wij hebben uw stem nodig! Aavegotchi verbeteringsvoorstellen (AGIP's) 4 en 5 zijn open om te stemmen!
+* Moet er meer Haunts komen? Moet Haunt 1 uniek zijn? Stem nu!
+* Bericht gepubliceerd op 17 maart 2021
 <p></p>
 
-## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
-* On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
-* Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
-* On April 1, 2021, we’ll be engaging the Chainlink VRF on Polygon to spin the wheel and determine the winners!
+## [Lotterij 4 aangekondigd! Layer 2 Thema!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
+* Op 15 maart 2021 kondigde het Aavegotchi team Lotterij 4: Layer 2 Thema aan
+* Lotterij 4 opent op 29 maart 2021 om 10PM SGT (10 am EST) en net als vorige Lotterijen, er zal een pauze van 72 uur zijn om je tickets in te voeren in het Lotterij-contract.
+* Op 1 april 2021 nemen we de Chainlink VRF in op Polygon om het wiel te draaien en de winnaars te bepalen!
 <p></p>
 
-## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
-* COCOON, the V1.5 stage in the evolution of AavegotchiDAO
-* Common questions and answers regarding the AavegotchiDAO
-* Post published on 12 March 2021
+## [Evolutie van AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+* COCOON, de V1.5 fase van de evolutie van AavegotchiDAO
+* Veelgestelde vragen en antwoorden over de AavegotchiDAO
+* Bericht gepubliceerd op 12 maart 2021
 <p></p>
 
-## [Aavegotchi Launch: Success!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
-* The first 10,000 Portals sold out in less than one minute!
-* Our secondary marketplace, the Baazaar, saw massive activity at launch
-* Post published on 3 March 2021
+## [Aavegotchi Launch: Succes!](https://aavegotchi.medium.com/aavegotchis-have-arrived-e0ab203e68b1)
+* De eerste 10.000 portalen zijn in minder dan een minuut uitverkocht!
+* Onze secundaire marktplaats, de Baazaar, zag enorme activiteit bij lancering
+* Bericht gepubliceerd op 3 maart 2021
 <p></p>
 
-## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
-* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT.
-* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public.
-* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
+## [Aavegotchi lanceerdatum bevestigd!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
+* Op 24 februari 2021 bevestigde het Aavegotchi team dat Aavegotchi zal starten op dinsdag 2 maart om 10am EST / 11pm SGT.
+* Het lanceer-evenement zal plaatsvinden op Aavegotchi.com en een NFT (niet-fungible token) drop dat 10.000 Aavegotchi portalen laat zien aan het publiek.
+* “Haunt een,” deze lancering markeert de eerste keer dat fans van het spel Aavegotchis op kunnen roepen.
 <p></p>
 
-## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
-* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
+## [Chainlink VRF is live op Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
+* Het wachten is voorbij! Chainlink VRF is nu live op Polygon vanaf 23 februari 2021!
 <p></p>
 
-## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
+## [Nieuwe GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
+* De GHST-USDC-pool is op 18 februari 2021 gelanceerd. Nu kun je FRENS verdienen in deze nieuwe pool!
 <p></p>
 
-## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. Dit is de huidige bron van alle DAO-fondsen.
+## [AavegotchiDAO's schatkist raakt de 100k Mijlpaal!](https://twitter.com/aavegotchi/status/1361690024958300170)
+* Op 16 februari 2021 sloeg de schatkist van Aavegotchay de mijlpaal van 100k DAI. AavegotchiDAO verdient 0.3% van alle transacties op de Aavegotchi Bonding Curve op Ethereum Mainnet. Dit is de huidige bron van alle DAO-fondsen.
 <p></p>
 
-## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Why did Aavegotchi chose Polygon as a Layer 2 solution? Get the scoop here! Article posted on 16 February 2021.
+## [Waarom Aavegotchi voor Polygon heeft gekozen](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
+* Waarom heeft Aavegotchi Polygon als een oplossing voor Layer 2 gekozen? Haal de scoop hier! Artikel geplaatst op 16 februari 2021.
 <p></p>
 
-## [Monthly GHST purchase program & new LP token vote](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
-* Last month, the AavegotchiDAO concluded a successful proposal to increase the tap emission from 100,000 DAI per month to 150,000 DAI per month, with the understanding that the extra 50,000 DAI would be used by Pixelcraft Studios (the lead developers of Aavegotchi) to purchase GHST from the curve.
-* Starting this month, Pixelcraft Studios will begin purchasing GHST from the Ethereum mainnet bonding curve!
-* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Come and cast your votes fam!
-* Article published on 8 February 2021.
+## [Maandelijkse GHST aankoop programma & nieuwe LP token stem](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
+* Vorige maand heeft de AavegotchiDAO een succesvol voorstel gedaan om de kraanemissie van 100.000 DAI per maand te verhogen tot 150.000 DAI per maand. met de afspraak dat de extra 50.000 DAI door Pixelcraft Studios (de leidende ontwikkelaars van Aavegotchi) zal worden gebruikt om GHST van de curve te kopen.
+* Vanaf deze maand begint Pixelcraft Studios met het kopen van GHST van de Ethereum-mainnet bonding curve!
+* Een Snapshot stem om het GHST-USDC LP token in aanmerking te laten komen om FRENS te verdienen! Kom en doe je stem!
+* Artikel gepubliceerd op 8 februari 2021.
 <p></p>
 
-## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February! 
+## [Wacht! Wat?! Een Aavegotchi NFT Marktplaats](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
+* Op 2 februari 2021 heeft het team aangekondigd dat de officiële Aavegotchi Marketplace (Aavegotchi Baazaar) samen met Portals en Wearables zal starten wanneer het spel live gaat in februari! 
 <p></p>
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
+## [Release van de Farmer's Aalmanac: The Ultieme Gids voor GHST Beloningen](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
+* Heya frens! Hulp nodig bij het migreren van GHST naar Polygon om die zoete beloningen te beginnen oogsten? We hebben een gids voor jou! Op 25 januari 2021 gepubliceerd.
 <p></p>
 
-## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Polygon to launch alongside the bridge from Mainnet to Polygon
-* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
+## [Aavegotchi Verbetervoorstellen 2 en 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
+* Op 21 januari 2021, bereikten Aavegotchi verbeteringsvoorstellen (AGIP's) 2 en 3 een quorum van stemmen met acht uur over!
+* GHST Staking Contract op Polygon om te starten naast de brug van Mainnet tot Polygon
+* Groei van de Koreaanse, Franse, en Spaanse Aavegotchi Gemeenschappen! Woot woot!
 <p></p>
 
-## [aTokens live on Polygon Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Polygon on 20 January 2021!
+## [aTokens live op Polygon Netwerk!](https://twitter.com/coderdannn/status/1351902787919986693)
+* Onze Diamanten Boy, [Nick Mudge](/team#nick-mudge), heeft het gedaan! Hij heeft op 20 januari 2021 aTokens overbrugd naar Polygon!
 <p></p>
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
+## [Stemmen op Aragon is nu live!](https://twitter.com/aavegotchi/status/1351159786109341698)
+* Op 18 januari 2021 kondigde het team aan dat de twee nieuwe AavegotchiDAO-voorstellen nu op Aragon staan om te stemmen. De stemming duurt 72 uur.
 <p></p>
 
-## [GHST token live on Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
+## [GHST token live op Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
 * On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Polygon
 * There are Liquidity Migration Incentives up for grabs as well!
 <p></p>
