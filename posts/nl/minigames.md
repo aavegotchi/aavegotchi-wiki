@@ -1,145 +1,145 @@
 ---
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-games'
-description: 'All about Aavegotchi minigames'
+title: 'Mini-Games'
+description: 'Alles over Aavegotchi minigames'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigames/gotchi_btc_gamer.png">
-<p class="headerImageText">Let's Game!</p>
+<p class="headerImageText">Laten we spelen!</p>
 </div>
 
-What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
+Wat is het plezier om een Aavegotchi te bezitten als je er niet mee kunt spelen? Een van de belangrijkste ervaringen in het Aavegotchi spel zal het Aavegotchi [Realm](/gotchiverse) overwereld verkennen met vrienden en je Aavegotchis tegen hun vrienden zetten.
 
-Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
+Sommige mini-spelletjes zullen worden gespeeld met eenvoudige willekeurige getallen generatoren (RNGs), terwijl anderen meer meedogenloze ervaringen met spelers zullen aanbieden.
 
-Each mini-game will use different Aavegotchi traits to enable fair gameplay for a wide variety of trait distributions. For example, a HYPER-AGGRESSIVE Aavegotchi may perform well in an Aavegotchi Fight Club, but may not be well-suited to a cake-baking mini-game.
+Elk mini-spel zal verschillende Aavegotchi eigenschappen gebruiken om fair gameplay te activeren voor een grote verscheidenheid aan trait distributies. Bijvoorbeeld, een HYPER-AGGRESSIVE Aavegotchi kan goed presteren in een Aavegotchi Fight Club, maar kan niet geschikt zijn voor een cake-bakkend mini-spel.
 
-Have an Aavegotchi that isn’t suited well to any mini-game currently offered? Jump in and develop one! To help support developers building Aavegotchi mini-games, [AavegotchiDAO](/dao) V2.0 will manage a Development Fund that has been set up for supporting development work carried out within the Aavegotchi ecosystem. As long as mini-games conform to trait distribution standards, they can reward winners with XP.
+Heeft u een Aavegotchi die niet geschikt is voor enig mini-spel dat momenteel wordt aangeboden? Spring in en ontwikkel er een! Om ontwikkelaars te helpen Aavegotchi mini-games te bouwen, zal de [AavegotchiDAO](/dao) V2. een ontwikkelingsfonds beheren, dat is opgericht ter ondersteuning van ontwikkelingswerk binnen het ecosysteem van Aavegotchi. Zolang mini-games zich houden aan de distributienormen, kunnen ze winnaars belonen met XP.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
-<li><a href=#official-mini-games>Official Mini-Games</a></li>
-<li><a href=#community-created-mini-games>Community-created Mini-Games</a></li>
+<li><a href=#xp-rewards-for-mini-games>XP Beloningen voor Mini-Games</a></li>
+<li><a href=#official-mini-games>Officiële Mini-Games</a></li>
+<li><a href=#community-created-mini-games>Gemeenschapsgemaakte Mini-Games</a></li>
 </ol>
 
 </div>
 
-## XP Rewards for Mini-Games
-From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
+## XP Beloningen voor Mini-Games
+Van tijd tot tijd zullen geselecteerde mini-spellen [XP](/xp) beloningen bieden aan topscorers op het scorebord van het minispel. Deze Mini-Game XP evenementen zullen worden aangekondigd door het Pixelcraft team op Discord indien beschikbaar.
 
-For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
+Voor een lijst van vorige mini-game XP evenementen, bekijk deze pagina [hier](/minigame-xp-events).
 
-XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
+XP is nodig om te kunnen blijven concurreren op de [Rarity Farming](/rarity-farming) XP leaderboard om [GHST](/ghst) prijzen te winnen.
 
-## Official Mini-Games
-Soon! The Devs are hard at work. More information will be released here once it is available!
+## Officiële Mini-Games
+Binnenkort! De Devs zijn hard aan het werk. Meer informatie wordt hier vrijgegeven zodra het beschikbaar is!
 
-## Community-created Mini-Games
+## Gemeenschapsgemaakte Mini-Games
 
-Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
+Sommige van onze [aarchitect frens](/aarchitect) hebben zelf een paar mini-spellen gemaakt! Probeer ze uit!
 
-The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
+De Mini-Games sectie van de Aavegotchi.com DApp is te vinden [hier](https://aavegotchi.com/minigames)
 
-### Reverse Pacman by aaron555
+### Omgekeerde Pacman door aaron555
 
-Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
+Link naar video [hier](https://cryptolve.com/aavegotchi_pacman/)
 
-<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Omgekeerde Pacman Aavegotchi Mini-Game" />
 
-### Portal Rider by BitFlicker
+### Portal Rider door BitFlicker
 
-Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
+Link naar video [hier](https://bitflicker.tech/aavegotchi/rider/)
 
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Ruiter Aavegotchi Mini-Game" />
 
-### Gotchi Tower Defense by jarrod | aavegotchistats.com
+### Gotchi Toren Verdediging door jarrod | aavegotchistats.com
 
-Link to game [here](https://aavegotchistats.com/td)
+Link naar video [hier](https://aavegotchistats.com/td)
 
-<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Toren Verdediging Aavegotchi Mini-Game" />
 
-### Gotchi the Gaatherer by BitFlicker
+### Gotchi de Gaatherer door BitFlicker
 
-Link to game [here](https://gotchigaatherer.gg/)
+Link naar video [hier](https://gotchigaatherer.gg/)
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi het Gaatherer Aavegotchi Mini-Game" />
 
-### Sushi Vader by ricJones | Grizzy
+### Sushi Vader door ricJones. Grizzy
 
-Link to game [here](https://sushivader.com/)
+Link naar video [hier](https://sushivader.com/)
 
 <img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
 
-### Snaake by SpyceBringer
+### Snaake door SpyceBringer
 
-Link to game [here](https://snaake.gg/)
+Link naar video [hier](https://snaake.gg/)
 
 <img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
 
-### Whac-a-Rofl by Gotchinomics
+### Whac-a-Rofl door Gotchinomics
 
-Link to game [here](https://whacarofl.com/)
+Link naar video [hier](https://whacarofl.com/)
 
 <img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
 
-### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GotchiMiner door @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, en @gotchinomics
 
-Link to game [here](https://gotchiminer.rocks/)
+Link naar spel [hier](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
-### Aadventure by MetaGuild @metaguildcom & @HotspurSC2
+### Aadventure van MetaGuild @metaguildcom & @HotspurSC2
 
-Link to game [here](https://hotspurhn.github.io/)
+Link naar spel [hier](https://hotspurhn.github.io/)
 
 <img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
 
-### 1 Arm Baandit by @mdurkin92
+### 1 Arm Baandit door @mdurkin92
 
-Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Link naar video [hier](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
-### Aavezon by @space_asylum
+### Aavezon door @space_asylum
 
-Link to game [here](https://mikekrow.com/games/aavezon/index.html)
+Link naar spel [hier](https://mikekrow.com/games/aavezon/index.html)
 
 <img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
 
-### Portal Ddefenders by @oh_no_bruno
+### Portaal verdedigers door @oh_no_bruno
 
-Link to game [here](https://square-wildflower-4590.on.fleek.co/)
+Link naar spel [hier](https://square-wildflower-4590.on.fleek.co/)
 
-<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portaal Verdedigers Aavegotchi Mini-Game" />
 
-### Sushibagotchi by @sushibatoken
+### Sushibagotchi door @sushibatoken
 
-Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
+Link naar spel [hier](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
 
 <img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
 
-### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### Samugotchi Shodown door Rainbow Hallow (@GrizzyJones, @vrycmfy, en @lahcen_kha)
 
-Link to game [here](https://samugotchi-shodown.vercel.app/)
+Link naar spel [hier](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
 
-### Astegotchi by Alvi
+### Astegotchi door Alvi
 
-Link to game [here](https://astegotchi.aavegames.com/)
+Link naar spel [hier](https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
 
-### Pinbaal by SpyceBringer and Dennis Gedai Eichert
+### Pinbaal door SpyceBringer and Dennis Gedai Eichert
 
-Link to game [here](https://pinbaal.com)
+Link naar spel [hier](https://pinbaal.com)
 
 <img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game" />

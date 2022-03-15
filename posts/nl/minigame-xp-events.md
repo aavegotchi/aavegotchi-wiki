@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-Game XP Events'
-description: 'Mini-Game XP Events'
+title: 'Mini-Game XP Evenementen'
+description: 'Mini-Game XP Evenementen'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigame-xp-events/Aarcade_Machine.png">
-<p class="headerImageText">Ready Player One!</p>
+<p class="headerImageText">Klaar Speler Een!</p>
 </div>
 
-From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
+Van tijd tot tijd zullen XP events gehouden worden voor geselecteerde Aavegotchi [mini-games](/minigames). Gotchis moeten met elkaar concurreren op een leaderboard voor verschillende [XP](/xp) beloningen.
 
-This page details the past mini-game XP events.
+Deze pagina geeft informatie over eerdere mini-game XP evenementen.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>
+<li><a href=#gotchi-the-gaatherer>Gotchi de Gaatherer</a></li>
 <li><a href=#snaake>Snaake</a></li>
 <li><a href=#sushi-vader--1->Sushi Vader (1)</a></li>
 <li><a href=#whac-a-rofl>Whac-a-Rofl</a></li>
@@ -32,45 +32,45 @@ This page details the past mini-game XP events.
 
 </div>
 
-## Gotchi the Gaatherer
+## Gotchi de Gaatherer
 
-Event Duration: 13 - 19 May 2021
+Evenement Duur: 13 - 19 mei 2021
 
-table_gotchiTheGaatherer
+tabel_gotchiTheGaatherer
 
 ## Snaake
 
-Event Duration: 26 - 30 May 2021
+Evenement Duur: 26 - 30 mei 2021
 
-table_snaake
+tabel_snaake
 
 ## Sushi Vader (1)
 
-Event Duration: 2 - 6 June 2021
+Evenement Duur: 2 - 6 juni 2021
 
-table_sushiVader1
+tabel_sushiVader1
 
 ## Whac-a-Rofl
 
-Event Duration: 12 - 19 August 2021
+Evenement Duur: 12 - 19 augustus 2021
 
-table_whacARofl
+tabel_whacARofl
 
 ## Astegotchi
 
-Event Duration: 23 - 26 November 2021
+Evenement Duur: 23 - 26 november 2021
 
-table_astegotchi
+tabel_astegotchi
 
 ## Sushi Vader (2)
 
-Event Duration: 4 - 11 January 2022
+Evenement Duur: 4 - 11 januari 2022
 
-table_sushiVader2
+tabel_sushiVader2
 
 ## Pinbaal
 
-Event Duration: 29 January - 6 February 2022
+Evenement Duur: 29 januari - 6 februari 2022
 
-table_pinbaal
+tabel_pinbaal
 
