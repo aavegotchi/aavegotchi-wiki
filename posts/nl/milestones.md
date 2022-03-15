@@ -274,73 +274,73 @@ contributors:
 * Op 9 juni 2021 kondigt Pixelcraft aan dat de Aavegotchi GHST token nu is vermeld op Crypto.com's app!
 <p></p>
 
-## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
-* On 25 May 2021, Pixelcraft introduces the V2 of the Aavegotchi Aambassadors Program!
-* An Aavegotchi Aambassador is responsible for spreading the Gospel of Gotchi to those who haven’t discovered us yet.
-* Join us as an Aambassador, grow your own community, and be rewarded for it!
+## [Pixelcraft introduceert het Aavegotchi Aambassadors Programma: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
+* Op 25 mei 2021 introduceert Pixelcraft de V2 van het Aavegotchi Aambassadors-programma!
+* Een Aavegotchi Aambassadrice is verantwoordelijk voor het verspreiden van het Gospel van Gotchi naar degenen die ons nog niet hebben ontdekt.
+* Kom erbij als Ambassadeur, laat je je eigen gemeenschap groeien en word beloond ervoor!
 <p></p>
 
-## [Expansion of the uGOTCHI Collection!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
-* On 16 May 2021, Pixelcraft announces that they have added Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI Collection on Unic.ly
-* The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
+## [Uitbreiding van de uGOTCHI Collectie!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
+* Op 16 mei 2021 kondigt Pixelcraft aan dat ze niet-geopende Portaal 2 hebben toegevoegd het derde laagste tokenID van Haunt 1, in de uGOTCHI Collectie op Unic.ly
+* De Baadge Snapshot zal maandag worden gehouden, 17 mei om UTC van 10PM. Degenen die een Baadge willen verdienen voor hun Aavegotchis moeten liquiditeit bieden vóór de cutoff!
 <p></p>
 
-## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
-* On 12 May 2021, Pixelcraft introduces AGIP7 - Earn XP for Successful Signal Proposals
-* The AGIP was proposed by our Aassistant Moon!
+## [Stem op AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
+* Op 12 mei 2021, introduceert Pixelcraft AGIP7 - Verdien XP voor succesvolle Signaal Voorstellen
+* De AGIP werd voorgesteld door onze assistent Moon!
 <p></p>
 
-## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
-* On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
+## [Een nieuwe plaat om te verzamelen!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
+* Op 10 mei 2021 kondigt Pixelcraft aan dat NFT badges van eer worden uitgereikt aan die LPing op Uniceke pre-UNIC-productie!
 <p></p>
 
-## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
-* You can now collect Aavegotchi Baadges for your performance in rarity farming!
-* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
-* Look out for more Baadges to collect in the future ;)
-* Post published on 4 May 2021
+## [Ooooo Blinkende Nieuwe Gotchi Uitrustingen!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* U kunt nu Aavegotchi baadges verzamelen voor uw prestaties in Rarity farming!
+* Gotchi badges zijn niet overdraagbaar ERC-1155 NFT's die zich voor altijd in je Aavegotchi's Pocket bevinden!
+* Kijk uit voor meer badges om te verzamelen in de toekomst ;)
+* Post gepubliceerd op 4 mei 2021
 <p></p>
 
-## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
-* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
-* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
-* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
-* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
+## [Pixelcraft brengt de Aavegotchi Development Roadmap V2 uit!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Hallo frens! Op 28 april 2021 onthult Pixelcraft hun V2 routekaart voor de komende jaren!
+* Fase 1: Incubatie (Q2 2021 - Q4 2021) - Bouw Aavegotchi als een populair spel voor crypto inheemse volken
+* Fase 2: Breakout (Q1 2022 - Q4 2023) - Establish Aavegotchi als een community-eigendom gaming-platform met mainstream appeal
+* Full-Aavegotchi visie van het maken van een crypto-spel met massa mainstream aantrekkingskracht - Fulfill
 <p></p>
 
-## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
-* Baazaar fees are now increased by 0.5% to 3.5%
-* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
-* Post published on 19 April 2021
+## [AGIP #6 GOEDGEKEURD!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* De tarieven voor Baazaar zijn nu verhoogd met 0,5% tot 3,5%
+* Binnenkort komt er nog een stemming over het kernvoorstel! (Het Parlement heeft het recht om te stemmen!)
+* Post gepubliceerd op 19 april 2021
 <p></p>
 
-## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Wij staan voor je klaar, Fren!
-* The Aavegotchi team expands!
-* More collaborations announced!
-* More discussions on AavegotchiDAO
-* Post published on 18 April 2021
+## [Aalpha Leak! Aavegotchi 1e Gemeenschap Gesprek](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Heeft u de 1e communautaire oproep gemist? Wij staan voor je klaar, Fren!
+* Het Aavegotchi team breidt uit!
+* Meer samenwerkingen aangekondigd!
+* Meer discussies over AavegotchiDAO
+* Post gepubliceerd op 18 april 2021
 <p></p>
 
-## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
-* Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
-* Published on 16 April 2021
+## [Gebroken Aavegotchis op Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
+* Uniek - het protocol om NFT's te combineren, fractionaliseren en verhandelen - heeft de eerste Aavegotchis op Ethereum Mainnet gebroken!
+* Gepubliceerd op 16 april 2021
 <p></p>
 
-## [Lil Pump drop incoming!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
-* The Aavegotchi team reminds everyone that the Lil Pump drop will occur tomorrow, 9 April 2021, at the Maall.
+## [Lil Pump drop aanstaande!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
+* Het Aavegotchi team herinnert iedereen eraan dat de Lil Pump drop morgen op 9 april 2021 zal plaatsvinden, in het Maal.
 <p></p>
 
-## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
-* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
-* Head over to Snapshot and vote now!
+## [Stem op AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+* Op 7 april 2021 kondigt het Aavegotchi team AGIP6 aan, dat voorstelt om een vergoeding van 0,5% op Baazaar toe te voegen om Rarity Farming te ondersteunen.
+* Ga naar Snapshot en stem nu!
 <p></p>
 
-## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Lil Pump Wearables to drop this Friday, April 9
-* Hottest Signal Proposals on AavegotchiDAO
-* Pixelcraft Studios is expanding
-* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
+## [Maall Drop en meer!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Lil Pump Wearables Drop vrijdag 9 april
+* Hottest Signal Voorstellen op AavegotchiDAO
+* Pixelcraft Studios is aan het uitbreiden
+* Baazaar heeft onlangs een belangrijke mijlpaal bereikt die meer dan 10 miljoen handelsvolume heeft bereikt!
 * Post published on 5 April 2021
 <p></p>
 
