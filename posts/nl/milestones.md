@@ -208,70 +208,70 @@ contributors:
 * Nieuwe Mythische Oog Vormen!
 <p></p>
 
-## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
-* July has been jam-packed with Aavegotchi updates!
-* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquidity rewards and more!
-* Read all about it here!
+## [Aavegotchi juli update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
+* De maand juli is opgepakt met Aavegotchi updates!
+* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquiditeit beloningen en meer!
+* Lees er hier alles over!
 <p></p>
 
-## [Haunt 1 Aavegotchi NFT Backgrounds are live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
-* On 5 August 2021, Pixelcraft announces that the Haunt 1 Aavegotchi NFT Backgrounds are now live!
-* This was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) and has finally been implemented
-* Head over to the Airdrops page and claim it!
+## [Haunt 1 Aavegotchi NFT Achtergronden zijn live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
+* Op 5 augustus 2021 kondigt Pixelcraft aan dat de Haunt 1 Aavegotchi NFT Achtergronden nu live zijn!
+* Dit werd aangenomen in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) en is eindelijk geïmplementeerd
+* Ga naar de Airdrop-pagina en claim ze!
 <p></p>
 
-## [CoinMarketCap former CTO joins Aavegotchi as Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
-* On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor.
-* Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
+## [CoinMarketCap voormalige CTO toetreding tot Aavegotchi als Technisch Adviseur](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
+* Op 29 juli 2021 kondigt Pixelcraft aan dat Mauvis Ledford, voormalig CTO bij CoinMarketCap (CMC), zich als technisch adviseur bij Aavegotchi heeft aangesloten.
+* Mauvis zal een leidende rol spelen bij het schalen van The Gotchiverse Realm, zodat tienduizenden spelers tegelijkertijd kunnen genieten van de opwindende virtuele wereld wanneer deze later dit jaar live gaat!
 <p></p>
 
-## [Exclusive Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
-* Hear ye! Hear ye! There will be an exclusive Aavegotchi x Venly Wearables Drop coming up soon!
-* Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
+## [Exclusieve Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
+* Hoor je! Hoor je! Er komt een exclusieve Aavegotchi x Venly Wearables Drop binnenkort!
+* Lees dit bericht om meer te weten te komen over de aankomende AMA en de Wearables Drop!
 <p></p>
 
-## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
-* The recently concluded Aavegotchi #Bid2Earn Auction was a success!
-* View the Aauction aanalytics in this latest post!
+## [Een Review van Aavegotchi's eerste #Bid2Earn Veiling](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
+* De onlangs afgesloten Aavegotchi #Bid2Earn Auction was een succes!
+* Bekijk de Aauction aanalytics in dit laatste bericht!
 <p></p>
 
 ## [Aavegotchi Haunt 2 CoreProp is live!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
-* The SigProp for Aavegotchi Haunt 2 was a resounding success! It has now been upgraded to a CoreProp! Go vote now!
+* De SigProp voor Aavegotchi Haunt 2 was een klinkend succes! Het is nu opgewaardeerd naar een CoreProp! Stem nu!
 <p></p>
 
-## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
-* On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
-* Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
-* In return, DinoSwap is incentivizing QuickSwap.exchange’s GHST-ETH liquidity with 2 million USD worth of DINO tokens over the coming 90 days.
+## [DinoSwap is gelanceerd! GHST-ETH Liquidity Beloningen zijn Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
+* Op 17 juli 2021 kondigt Pixelcraft aan dat DinoSwap is gelanceerd en dat GHST-ETH Liquidity Beloningen nu live zijn!
+* Voorheen stemde AavegotchiDAO in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) om 100.000 GHST tokens toe te wijzen aan 'Extinction Pool' beloningen aan de dinoswap. xchange DEX aggregator, plus 100.000 GHST wordt geëvenaard door Pixelcraft Studios, de lead ontwikkelaars van Aavegotchi.
+* In ruil daarvoor is DinoSwap de aanmoediging van QuickSwap.exchange’s GHST-ETH liquiditeit met 2 miljoen USD aan DINO tokens in de komende 90 dagen.
 <p></p>
 
-## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
-* On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
-* The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.
+## [Aavegotchi Bid-to-Earn Veilingen komen naar Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* Op 14 juli 2021 kondigt Pixelcraft aan dat hun eerste Bid-to-Earn Auction morgen op donderdag 15 juli 2021 om 10 PM SGT zal beginnen.
+* De veiling zal 72 uur duren en zal op zondag afgerond zijn, 10 PM SGT.
 <p></p>
 
-## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
-* On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
-* After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
-* If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
+## [Aavegotchi Haunt 2 Signaal Voorstel is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+* Op 8 juli 2021 kondigt Pixelcraft aan dat het Aavegotchi Haunt 2 Signaal Voorstel Live is!
+* Na veel discussie in de AavegotchiDAO is het team enthousiast om door te gaan met een Signaal Voorstel op Haunt 2
+* Als het Signaal-voorstel wordt doorgegeven, wordt het opgewaardeerd naar een basisvoorstel voor nog één stemronde
 <p></p>
 
-## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
-* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
+## [Drop Tickets zijn nu live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* Op 2 juli 2021 kondigt Pixelcraft aan dat tickets nu live worden geplaatst op Aavegotchi.com
+* Drop tickets kunnen worden gebruikt om deel te nemen in lotterijen om H2 Portals en REALM pakketten te winnen
 <p></p>
 
-## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
-* On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
-* Read the REALM Litepaper and participate!
+## [Aavegotchi Missies zijn terug!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
+* Op 26 juni 2021 kondigt Pixelcraft aan dat Aavegotchi Missions terug zijn!
+* Lees de REALM Litepaper en neem deel!
 <p></p>
 
-## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
-* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
+## [Stem op AGIP8 en AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIPs 8 en 9 zijn vanaf 11 juni 2021 live! Lees de details hier en ga stemmen!
 <p></p>
 
-## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
-* On 9 June 2021, Pixelcraft announces that the Aavegotchi GHST token is now listed on Crypto.com's app!
+## [GHST staat nu vermeld op Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
+* Op 9 juni 2021 kondigt Pixelcraft aan dat de Aavegotchi GHST token nu is vermeld op Crypto.com's app!
 <p></p>
 
 ## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
@@ -559,7 +559,7 @@ contributors:
 <p></p>
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+* Hoor je! Hoor je! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
 <p></p>
 
 ## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
