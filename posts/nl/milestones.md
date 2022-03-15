@@ -1,54 +1,54 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: 'Mijlpalen'
+description: 'Mijlpalen van het Aaavegotchi Project'
 contributors:
   - "unintelligent-nerd"
 ---
 
-## [Aavegotchi February Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
-* February was another action-packed month for #GotchiGang
-* GHST listing on Aave, Rarity Farming Season 3, Gotchiverse Stress Test #3, and moar!
+## [Aavegotchi februari Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
+* Februari was opnieuw een vol met actie-packed maand voor onze #GotchiGang
+* GHST vermeld op Aave, Rarity Farming Seizoen 3, Gotchiverse Stress Test #3, en moar!
 <p></p>
 
-## [The Gotchiverse Bible: Chapter 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
-* Chapter 3 is out!
-* It covers Alchemical Channeling, Wearable Traits Pool, Guilds and Gotchi Lodge, and GAX and GLTR!
+## [De Gotchiverse Bijbel: Hoofdstuk 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
+* Hoofdstuk 3 is uit!
+* Het bestrijkt Alchemical Channeling, Wearable Traits Pool, Guilds en Gotchi Lodge, en GAX en GLTR!
 <p></p>
 
-## [Rarity Farming Season 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
-* Rarity Farming Season 3 will commence on 24 February 2022
-* There will be 3 leaderboards this time round: Rarity (70%), Kinship (20%), and XP (10%)
+## [Rarity Farming Seizoen 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* Rarity Farming Seizoen 3 zal beginnen op 24 februari 2022
+* Er zullen deze keer 3 leaderboards zijn: Zeldzaamheid (70%), Kinship (20%) en XP (10%)
 <p></p>
 
-## [Memers, you ready?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
-* Aavegotchi launches an ongoing meme bounty program!
-* If your meme gets selected, winners will get a **100 GHST** bounty for image memes, and **200 GHST** bounty for video memes directly to your address after the post is live.
+## [Memers, bent u klaar?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
+* Aavegotchi lanceert een lopend meme-premie programma!
+* Als je meme wordt geselecteerd, krijgen winnaars een **100 GHST** premie voor afbeeldingen, en **200 GHST** premie voor video-memes direct naar uw adres nadat het bericht live is.
 <p></p>
 
-## [AGIPs 21, 22, and 23 are up for voting!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
-* AGIP 21: Adding GHST to Umbria Narni Bridge
-* AGIP 22: Starting Rarity Farming Season 3
-* AGIP 23: Co-sponsoring the GoodGhosting Pool
-* Vote now!
+## [AGIPs 21, 22 en 23 staan op het punt te stemmen!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
+* AGIP 21: GHST toevoegen aan Umbria Narni Bridge
+* AGIP 22: Begin Rarity Farming Seizoen 3
+* Co-Sponsoring van de GoodGhosting Pool
+* Stem nu!
 <p></p>
 
-## [Vote on AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
-* AGIP 19: Providing GHST Liquidity on SynFutures
-* AGIP 20: Creating the DAO Treasury Taask Force
+## [Stem op AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
+* AGIP 19: GHST Liquidity op SynFutures aanbieden
+* AGIP 20: Het maken van de DAO Schatkist Taask Force
 <p></p>
 
-## [GHST Token is now list on Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
-* GHST Token is now live on the Aave Polygon Market!
+## [GHST Token staat nu op Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
+* GHST Token is nu live op de Aave Polygon Market!
 <p></p>
 
-## [Gotchiverse Game Bible: Chapter 2 is out!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
-* The Gotchiverse Game Bible: Chapter 2 is out!
-* Topics covered: Alchemica Tokenomics, Installation Traits and Recipes, and Aavegotchi Trait Mappings!
+## [Gotchiverse Game Bijbel: Hoofdstuk 2 is uit!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
+* Gotchiverse Game Bijbel: Hoofdstuk 2 is uit!
+* Onderwerpen behandeld: Alchema Tokenomics, Installatie Eigenschappen en Recepten, en Aavegotchi Trait Mappingen!
 <p></p>
 
-## [Rarity Farming Season 2 Baadges are out!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
+## [Rarity Farming Seizoen 2 Baadges zijn uit!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
 * Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
 <p></p>
 
