@@ -1,89 +1,89 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Portals'
-description: 'All about Aavegotchi Portals'
+title: 'Portalen'
+description: 'Alles over Aavegotchi Portalen'
 contributors:
   - "appellants"
   - "unintelligent-nerd"
-image: "portals/portal.gif"
+image: "portal/portal.gif"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">An Aavegotchi Portal</p>
+<p class="headerImageText">Een Aavegotchi Portaal</p>
 </div>
 
-How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
+Hoe roep je een Aavegotchi op en breng je het van de Nether realm naar je scherm? Via een Portaal natuurlijk!
 
-Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.
+Kijk diep in zijn paarse dieptes en zie wat er onder ligt - je vindt een vriend. Of specifieker, 10 vrienden.
 
-So put on your wizard cap – it’s time to learn more about Portals and the Aavegotchi summoning process. 
+Dus zet je tovenaarshoofd op - het is tijd om meer te leren over portalen en het Aavegotchi oproepproces. 
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#buying-a-portal>Buying a Portal</a></li>
-<li><a href=#opening-your-portal>Opening your Portal</a></li>
-<li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
-<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
-<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
+<li><a href=#buying-a-portal>Een Portaal kopen</a></li>
+<li><a href=#opening-your-portal>Openen van uw Portaal</a></li>
+<li><a href=#claiming-an-aavegotchi>Claim een Aavegotchi</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interactie met je Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Verplaats je Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## Buying a Portal
+## Een Portaal kopen
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
+Voordat u uw pixel spookkind kunt opvoeden, moet u het via een Portaal oproepen.
 
-You can acquire portals in one of the following ways:
+U kunt portalen verkrijgen op een van de volgende manieren:
 
-* In an [Aauction](/aauction)
-* In a [Drop Ticket Raffle](/tickets)
-* At the [Baazaar](/baazaar)
+* In [een Veiling](/aauction)
+* In een [Drop Ticket Lotterij](/tickets)
+* In de [Baazaar](/baazaar)
 
-Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+Veilingen en Lotterijen zijn tijdgebonden evenementen. Als u ze mist, is de enige andere manier om portalen te kopen via de Baazaar, onze secundaire marktplaats.
 
-Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
-
-
-## Opening your Portal
-
-Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
-
-After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
-
-Here's a handy flow chart that summarizes the process:
-
-<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
-
-After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
-
-These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
-
-You can check out the trait range and rarity probabilities in this table here:
-
-table_PortalTraitTable
+Portalen worden vrijgegeven in ["Haunts" (editions)](/haunt). De eerste haunt biedt 10.000 Portals aan om te grijpen. Hierna zal de [AavegotchiDAO](/dao) blijven stemmen over besluiten met betrekking tot afzonderlijke haunts. De portaalprijzen en -hoeveelheden kunnen in de toekomst bijvoorbeeld veranderen als gevolg van besluiten en stemmen van de DAO.
 
 
-More information on rarity farming can be found [here](/rarity-farming).
+## Openen van uw Portaal
+
+Zalig! U staat op het punt uw portaal te kopen. Dit is waar de ~ Portaal Oproept Ritueel ~ in het spel komt. Dit is het mechanisme waarmee u uw Aavegoti kunt oproepen.
+
+Na de aankoop van het portaal is de volgende stap om het te openen. Het openen van het portaal vindt plaats op [Polygon](/glossary#polygon) waar gamers een transactie moeten ondertekenen. Nadat de transactie is ondertekend, wordt de [Chainlink Verifiable Randomness functie (VRF)](/glossary#chainlink-vrf) achter de schermen aangeroepen. Wanneer de functie wordt uitgevoerd, zal het portaal een willekeurig nummer worden toegewezen, waardoor de kenmerken van de Aavegotchi zeer willekeurig zullen zijn.
+
+Hier is een handige flow grafiek die het proces samenvat:
+
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Proces om een Aavegotchi Portaal te openen" />
+
+Na het openen van een portaal, zie je 10 verschillende Aavegotchis waaruit je kunt kiezen, om vanuit het Nether Realm op te roepen. Je zult 1 van de 10 moeten kiezen om op te roepen. De rest zal helaas verdwijnen.
+
+Deze Aavegotchis dragen allemaal andere willekeurig gegenereerde eigenschappen. Als je door je opties heen wisselt, kun je deze eigenschappen en je Aavegotchi's [Basis Rarity Score](/rarity-farming#base-rarity-score) zien. Dit is een zeldzaamheidsscore die in eerste instantie aan uw Aavegotchi wordt gegeven, gebaseerd op de oorspronkelijke eigenschappen die het heeft na het oproepen. Deze zeldzaamheidsscore kan later worden gewijzigd door middel van een reeks activiteiten, zoals het toerusten van je Aavegotchi met wearabels.
+
+Je kunt hier de vaardigheid en waarschijnlijkheid van zeldzaamheid bekijken in deze tabel:
+
+tabel_PortalTraitTable
 
 
-## Claiming an Aavegotchi
+Meer informatie over rarity farming vindt u [hier](/rarity-farming).
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
+## Claim een Aavegotchi
 
-**For more information on Spirit Force, see [here](/spirit-force).**
+Om een Aavegotchi uit het portaal te claimen, moet u de vereiste hoeveelheid [Spirit Force](/spirit-force) in het Portaal zetten. Spirit Force kan direct verkregen worden via [Aave](https://aave.com/) of DEXes zoals Uniswap.
 
-Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
+Naast hun monetaire waarde zoals gedicteerd door schaarste en marktkrachten, heeft elke Aavegotchi ook een intrinsieke waarde. De aTokens die je erbij betrekt, bieden deze intrinsieke waarde.
 
-The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
+**Voor meer informatie over Spirit Force, zie [hier](/spirit-force).**
 
-The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
+Over het algemeen hangt de minimale hoeveelheid Spirit Force (onderpand) af van de Basis Rarity Score van de Aavegotchi die je wilt oproepen. Hoe hoger de score, hoe meer onderpand het vereist.
+
+De minimaal vereiste hoeveelheid onderpand is 10 DAI, terwijl het maximum 1000 DAI ter waarde van onderpand is.
+
+De formule die wordt gebruikt om de hoeveelheid Spirit Force (onderpand noodzakelijk) te bepalen, is als volgt:
 
 ```
 if (rarityScore < 300) return 10;
@@ -93,26 +93,26 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+Bijvoorbeeld, als de Basis Rarity Score minder is dan 300, je moet minstens 10 DAI als onderpand halen om de Gotchi op te roepen.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+U kunt Spirit Force (gestakte aToken) van uw Aavegotchi later verhogen of verlagen via de Aavegotchi Dapp UI.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+Om Gotchi te claimen, moet je 2 transacties uitvoeren. Eerst moet u het smart contract goedkeuren om de aToken in uw portemonnee te kunnen besteden. Met de volgende transactie kunt u de Aavegotchi claimen.
 
-## Interacting with your Aavegotchi
+## Interactie met je Aavegotchi
 
-Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
+Zodra je Gotchi hebt opgeëist, is het volgende wat je moet doen naar........*drum rollt*..........play met je Aavegotchi!
 
-Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
+Bekijk de [Aavegotchi profielpagina](/aavegotchi-profile) voor hoe je dit kunt doen!
 
-## Transferring your Aavegotchi
+## Verplaats je Aavegotchi
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+Het overbrengen van een Aavegotchi naar een nieuwe eigenaar (wanneer je handelt) verplaatst ook de onderpand erachter, evenals alle voorwerpen en wearables in het Aavegotchi's inventaris. Dit gebeurt wanneer u uw Aavegotchi verhandelt op een online marktplaats zoals OpenSea.
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+Als je de uitgezette onderpand van je Aavegotchi wilt ophalen, heb je twee opties:
 
-1. **Reduce the amount of collateral** in your Aavegotchi (but not below it's minimum stake).
+1. **Verminder de hoeveelheid onderpand** in je Aavegotchi (maar niet onder de minimale stake).
 
-2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral.
+2. **Verbrand je Aavegotchi**, laat het terug naar het Nether Rijk en geef al je onderpanden terug.
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**Voordat u uw Aavegotchi kunt verkopen op secundaire markten zoals OpenSea, gelieve uw Aavegotchi te "vergrendelen" via het Dapp UI, om de koper te helpen ervoor te zorgen dat alle bezittingen van Aavegotchi er mee zullen worden overgedragen.**
