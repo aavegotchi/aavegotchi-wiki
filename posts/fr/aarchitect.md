@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and get to know the Aarchitects behind them!
+Vous vous amusez avec les [Mini-Jeux](/minigames) et les outils d'analyse ? Venez découvrir les Aarchitectes qui les ont créé !
 
 <div class="contentsBox">
 
