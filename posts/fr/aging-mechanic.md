@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Your gotchi friends are alive! Like you, too, they age — growing from infancy to adulthood.
+Vos amis gotchi sont en vie ! Comme vous, ils vieillissent — de l'enfance à l'âge adulte.
 
-Remember to celebrate your lil fren's birthday! They have one as well!
+N'oubliez pas de célébrer l'anniversaire de votre lil fren ! They have one as well!
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
