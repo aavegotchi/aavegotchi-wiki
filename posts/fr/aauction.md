@@ -61,22 +61,22 @@ La Aauction House possède 4 onglets avec lesquels les utilisateurs peuvent agir
 
 ## Méchanismes de l'Aauction
 
-Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+Les enchères Aavegotchi sont du format Gonnaud-Bessire-McDonaugh (GBM). Mis au point par les Cryptographes en 2019, le système d'enchères GBM est un système en attente de brevet, et Pixelcraft Studios a été officiellement autorisé à l'utiliser pour tous les drops de NFTs, dont la Haunt 2, les Parcelles et même les Pièces d'équipement.
 
-In a typical auction, there is only one winner and everyone else loses. Many auctions don’t attract enough bidders and some get none at all. GBM™ turns any auction into a great experience where you either win or you make money.
+Dans une vente aux enchères typique, il n'y a qu'un seul gagnant et tout le monde perd. Beaucoup de ventes aux enchères n’attirent pas assez d’enchères et certains n’en obtiennent aucune. Le GBM™ transforme n'importe quelle vente aux enchères en une expérience formidable où soit vous gagnez l'enchère ou soit vous gagnez de l'argent.
 
-You place a bid, and if someone outbids you, you get your bid back, plus a share from the pot called an incentive.
+Vous placez une enchère, et si quelqu'un surenchérit, vous obtenez votre enchère, plus une part du prix total de l'enchère appelé une 'incitation' (incentive).
 
 <img class = "bodyImage" src = "/aauction/gbm-auction.png" alt = "Aavegotchi GBM Auction" />
 
-When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
+Lorsqu'une nouvelle enchère est soumise, une formule calcule le montant que l'enchérisseur gagnera comme incitatif s'il est "outbid". Celle-ci est personnalisable en fonction du montant que vous voulez que les participants gagnent. Chaque enchérisseur qui obtient une surenchère gagne une incitation, et le plus offrant, à la fin de la vente aux enchères, gagne, avec le vendeur recevant ce qui reste dans la cagnotte.
 
 ## Denières Aauctions
 
-* 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 15 - 18 Juillet 2021 : [Première Aauction avec les sets d'équipement Gamer et Steampunk](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
 * 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 28 - 31 octobre 2021 : [Première vente aux enchères avec 16 000 parcelles au sein de la Citaadelle](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
-* 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 2 - 5 décembre 2021 : [Seconde vente aux enchères avec 7 000 parcelles dans la Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
