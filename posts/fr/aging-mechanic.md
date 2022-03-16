@@ -33,9 +33,9 @@ N'oubliez pas de célébrer l'anniversaire de votre lil fren ! Ils en ont égale
 
 Les Gotchis peuvent recevoir un petit coup de pouce à leur [BRS](/rarity-farming#base-rarity-score) au fur et à mesure qu'ils vieillissent. Il s'agit de doser plus justement la différence statistique entre les Haunts et la récompense de l'engagement sur le long terme.
 
-Cela fournit un tampon d'environ 6 mois au cours desquels les gotchis plus anciens ont un boost BRS par rapport aux gotchis nouvellement invoqués. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
+Cela fournit un tampon d'environ 6 mois au cours desquels les gotchis plus anciens ont un boost BRS par rapport aux gotchis nouvellement invoqués. À mesure qu'un gotchi qui vient d'être invoqué prend de l'âge, ils commence rapidement à rattraper ses homologues plus âgés.
 
-The formula that is used to calculate the BRS boost is modeled after the Fibonacci numbers x 1 million, but replacing the first 0 with a 1 to better fit the use case.
+La formule utilisée pour calculer le boost BRS est modélisée suivant les nombres de Fibonacci x 1 million mais en remplaçant le premier 0 par un 1 pour mieux s'adapter.
 
 This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to **eventually** catch up to **within a 1 BRS boost** of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
 
