@@ -5,7 +5,7 @@ title: 'Aavegotchi Aartists'
 description: 'Get to know our Aavegotchi Aartists here!'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+« Vous savez ce qui est groovy? » Notre communauté d'aartists! Apprenez à les connaître (et leurs créations) ici !
 
 <div class="contentsBox">
 
