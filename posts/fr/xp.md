@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis level up as they gain more Experience (XP). But exactly how much XP do they need at each level? Data analysts, we have some numbers for you to crunch here!
+Les Aavegotchis augmentent de niveau au fur et à mesure qu'ils gagnent de l'expérience (XP) Mais quelle est la quantité exacte d'xp nécessaire à chaque niveau ? Data analysts, we have some numbers for you to crunch here!
 
 <div class="contentsBox">
 
