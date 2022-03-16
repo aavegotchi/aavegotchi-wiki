@@ -30,7 +30,7 @@ Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on
 **Contents**
 
 <ol>
-<li><a href=#about>About</a></li>
+<li><a href=#about>À propos</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
@@ -40,7 +40,7 @@ Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on
 
 </div>
 
-## About
+## À propos
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
