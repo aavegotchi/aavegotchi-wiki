@@ -58,10 +58,10 @@ Son application est accessible [ici](https://aavegotchi-xp-dashboard.vercel.app)
 
 ## Prérequis XP pour rejoindre les guildes
 
-Gotchis are social creatures who love to hang with their frens, but much like starry-eyed college freshmen trying to attend every campus club activity, they get burned out with too much social activity.
+Les Gotchis sont des créatures sociales qui adorent trainer avec leurs "frens", mais comme les petits nouveaux du lycée qui essaient de participer à chacune des activités, ils s'épuisent avec trop d'activité sociale.
 
-As they gain more experience and become more worldly, their work-life balance improves, allowing them to take on more [Guild](/guild) responsibilities.
+Au fur et à mesure qu'ils aqcuièrent de l'XP et deviennent plus ambitieux, leur équilibre vie privée/vie professionnelle s'améliore, ce qui leur permet d'assurer plus de responsabilités dans la [Guilde](/guild).
 
-Thus, how many Guilds a Gotchi can join depends on its XP Level.
+Ainsi, le nombre de guildes qu'un Gotchi peut rejoindre dépend de son niveau XP.
 
 table_xpRequirementForGuilds
