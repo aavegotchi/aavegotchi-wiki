@@ -1,68 +1,68 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mumbai Testnet Tutorial'
-description: 'Mumbai Testnet Tutorial'
+title: 'Mumbai Testnet Handleiding'
+description: 'Mumbai Testnet Handleiding'
 contributors:
   - "unintelligent-nerd"
 ---
 
-The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
+De Aavegotchi Baazaar is nu live op het Mumbai Testnet! Om het uit te testen, moet u uw Metamask configureren en enkele tokens op het Testnet krijgen. Deze handleiding laat je zien hoe!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
-<li><a href=#getting-tokens-from-mumbai-faucet>Getting tokens from Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#adding-mumbai-testnet-to-your-metamask>Mumbai Testnet toevoegen aan uw Metamask</a></li>
+<li><a href=#getting-tokens-from-mumbai-faucet>Tokens van Mumbai Faucet verkrijgen</a></li>
+<li><a href=#getting-mumbai-ghst>Verkrijgen van Mumbai GHST</a></li>
 </ol>
 
 </div>
 
-## Adding Mumbai Testnet to your Metamask
+## Mumbai Testnet toevoegen aan uw Metamask
 
-To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
+Om verbinding te maken met de Mumbai Testnet, moeten enkele configuraties worden gemaakt met uw Metamask wallet.
 
-1). First, open the extension and click the “Ethereum Mainnet” button on the top.
+1). Open eerst de extensie en klik bovenaan op de knop "Ethereum Mainnet".
 
 <img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). Selecteer “Custom RPC”.
 
-<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPC" />
 
-3). Enter the following settings:
+3). Voer de volgende instellingen in:
 
-Network Name: Mumbai Testnet
+Netwerknaam: Mumbai Testnet
 
-New RPC URL: https://rpc-mumbai.matic.today
+Nieuwe RPC URL: https://rpc-mumbai.matic.vandaag
 
 Chain ID: 80001
 
-Currency Symbol (optional): MATIC
+Valutasymbool (optioneel): MATIC
 
-Block Explorer URL (optional): https://mumbai-explorer.matic.today
+Blok Explorer URL (optioneel): https://mumbai-explorer.matic.vandaag
 
-Once you’ve added everything, you can click on “Save”. You are now on Mumbai Testnet!
+Zodra u alles heeft toegevoegd, kunt u klikken op "Opslaan". Je bent nu op Mumbai Testnet!
 
-## Getting tokens from Mumbai Faucet
+## Tokens van Mumbai Faucet verkrijgen
 
-1). Head over to the Mumbai Faucet at [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Ga naar de Mumbai Faucet op [https://faucet.matic.network /](https://faucet.matic.network/).
 
-2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
+2). Selecteer de tokens die u van de faucet wilt halen (bijv. MATIC token), selecteer het standaard netwerk (Mumbai) en voer het adres van uw Metamask wallet in het tekstveld.
 
-3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
+3). Druk op de "Verzenden" knop en wacht tot de tokens in uw portemonnee worden gestort.
 
-## Getting Mumbai GHST
+## Verkrijgen van Mumbai GHST
 
-Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
+Zodra je enkele MATIC-tokens van de Mumbai Faucet in handen hebt gekregen, is het tijd om wat Mumbai GHST te kopen.
 
-1). Head over to [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
+1). Ga naar [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
 
-2). Connect to the Mumbai Testnet.
+2). Maak verbinding met het Mumbai Testnet.
 
-3). Use the Mumbai MATIC tokens you have received to purchase Mumbai GHST by clicking the "Click to get MUMBAI GHST" button. Presto! You are done!
+3). Gebruik de Mumbai MATIC tokens die je hebt ontvangen om Mumbai GHST te kopen door te klikken op de knop "Klik om MUMBAI GHST te krijgen". Presto! U bent klaar!
 
-Have fun at the [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) fren!
+Veel plezier met de [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) erg!
