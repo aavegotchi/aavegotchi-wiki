@@ -9,22 +9,22 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aauction/auctioneer-gotchi.png">
-<p class="headerImageText">The Aauction House</p>
+<p class="headerImageText">L'Aauction House</p>
 </div>
 
-"VR Headset going for 3000 GHST"
+"Casque VR pour 3000 GHST"
 
-A gotchi raises his hand.
+Un gotchi lève sa main.
 
 "5000 GHST"
 
-"VR Headset going for 5000 GHST!"
+"Casque VR pour 5000 GHST!"
 
-Another gotchi raises her hand.
+Un autre gotchi lève sa main.
 
 "10000 GHST"
 
-"VR Headset going for 10000 GHST"
+"Casque VR pour 10000 GHST"
 
 The room went quiet.
 
