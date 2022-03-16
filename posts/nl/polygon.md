@@ -43,11 +43,11 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). Selecteer “Custom RPC”.
 
-<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPC" />
 
-3). Enter the following settings:
+3). Voer de volgende instellingen in:
 
 Network Name: Matic Mainnet
 
@@ -55,11 +55,11 @@ New RPC URL: https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 
-Currency Symbol (optional): MATIC
+Valutasymbool (optioneel): MATIC
 
 Block Explorer URL (optional): https://explorer.matic.network/
 
-Once you’ve added everything, you can click on “Save”.
+Zodra u alles heeft toegevoegd, kunt u klikken op "Opslaan".
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
