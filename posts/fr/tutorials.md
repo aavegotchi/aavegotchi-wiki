@@ -75,7 +75,7 @@ Nous avons préparé des tutoriels (articles et vidéos) pour vous aider à dém
 <hr />
 
 ### Migrer ses GHSTs d'Ethereum (Mainnet) vers Polygon (Article)
-Click [here](/polygon) for the article
+Cliquez sur [ici](/polygon) pour lire l'article
 
 * Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
 * Apprenez à configurer MetaMask pour utiliser Polygon
