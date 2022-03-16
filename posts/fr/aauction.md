@@ -26,40 +26,40 @@ Un autre gotchi lève sa main.
 
 "Casque VR pour 10000 GHST"
 
-The room went quiet.
+La salle s'est calmée.
 
-"Going once"
+"Une fois"
 
-"Going twice"
+"Deux fois..."
 
-"Gone!"
+"C'est parti !"
 
-"VR Headset sold for 10000 GHST!"
+"Casque VR adjugé vendu pour 10000 GHST!"
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#aauction-house>Aauction House</a></li>
-<li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
-<li><a href=#past-aauctions>Past Aauctions</a></li>
+<li><a href=#aauction-mechanisms>Méchanismes de l'Aauction</a></li>
+<li><a href=#past-aauctions>Denières Aauctions</a></li>
 </ol>
 
 </div>
 
 ## Aauction House
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
+L'Aauction House (Maison des ventes aux enchères) est le lieu où les ventes aux enchères ont lieu. On peut la trouver [ici](https://aavegotchi.com/auction).
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+La Aauction House possède 4 onglets avec lesquels les utilisateurs peuvent agir. On peut les trouver dans le coin gauche de la page :
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+* **Instructions**: Une brève description du fonctionnement des enchères
+* **Open Aauctions**: Une liste des ventes aux enchères en cours auxquelles vous pouvez participer
+* **Mes enchères**: Une liste des enchères ouvertes dans lesquelles vous avez enchéri. Cela affiche également vos anciennes enchères. Quand une vente aux enchères se termine et que vous avez gagné cette vente aux enchères, vous pouvez venir ici pour réclamer vos gains
+* **Mes paiements**: Une liste dans laquelle apparaissent les enchères pour lesquelles vous avez été "outbid" par d'autres personnes et les gains que vous avez reçus. Les gains iront directement à l'adresse de votre portefeuille, sans que vous ayez besoin de les réclamer manuellement
 
-## Aauction Mechanisms
+## Méchanismes de l'Aauction
 
 Aavegotchi aauctions are powered by the Gonnaud-Bessire-McDonaugh (GBM) auction format. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
@@ -71,7 +71,7 @@ You place a bid, and if someone outbids you, you get your bid back, plus a share
 
 When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
 
-## Past Aauctions
+## Denières Aauctions
 
 * 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
