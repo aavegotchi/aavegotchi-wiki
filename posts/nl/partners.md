@@ -79,7 +79,7 @@ Snapshot is een gedecentraliseerd stemsysteem. Het biedt flexibiliteit voor de w
 ### Polygon
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Network">
+<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Netwerk">
 <p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
 </div>
 
@@ -185,7 +185,7 @@ BlackPool gelooft sterk in de langetermijnwaarde van schaarse digitale activa, e
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsmogelijkheden voor eigenlijke, op blockchain gebaseerde activa. NFT's zijn niet alleen kattenbeelden. Ze omvatten digitale kunst, collectibels, in-game activa en andere tastbare activa. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
+Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsmogelijkheden voor eigenlijke, op blockchain gebaseerde activa. NFT's zijn niet alleen kattenbeelden. Ze omvatten digitale kunst, collectibels, in-game activa en andere tastbare activa. Deze nieuwe vormen van digitaal eigendom zijn in toenemende mate bedoeld om te helpen online digitale inhoud te creëren, te verdienen en te stimuleren.
 
 ### Mao DAO
 
@@ -194,4 +194,4 @@ Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsm
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
+MAO DAO is een nieuw soort gaming DAO dat tot doel heeft het voortouw te nemen bij het vormgeven van de speeltongruimte in Azië. Zij hebben honderden spelers aan boord genomen in verschillende bestaande spelletjes, omdat zij de eerste zwaartepunt van de oneindigheid vormden. Voorlopig hebben ze besloten om onze gestage Player Cat NFT's te lanceren, die het lidmaatschap van DAO vertegenwoordigen, een deel van de bestuursrechten.
