@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hey fren, have you been actively voting in [AavegotchiDAO](/dao)?
+Hallo fren, heb je actief gestemd in [AavegotchiDAO](/dao)?
 
-You now have proof that you voted!
+Je hebt nu bewijzen dat je gestemt hebt!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#what-are-poaps->What are POAPs?</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#what-are-poaps->Wat zijn POAP's?</a></li>
+<li><a href=#origins>Oorsprong</a></li>
 <li><a href=#aavegotchi-poaps>Aavegotchi POAPs</a></li>
-<li><a href=#claiming-the-poaps>Claiming the POAPs</a></li>
-<li><a href=#viewing-your-poap-collection>Viewing your POAP Collection</a></li>
+<li><a href=#claiming-the-poaps>De POAP's opeisen</a></li>
+<li><a href=#viewing-your-poap-collection>Je POAP-collectie bekijken</a></li>
 </ol>
 
 </div>
 
-## What are POAPs?
+## Wat zijn POAP's?
 
 The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
 
@@ -45,12 +45,12 @@ The following POAPs are available for claiming:
 
 table_poaps
 
-## Claiming the POAPs
+## De POAP's opeisen
 
 To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
 
 <img src="/poap/claiming-poap.png" />
 
-## Viewing your POAP Collection
+## Je POAP-collectie bekijken
 
 To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
