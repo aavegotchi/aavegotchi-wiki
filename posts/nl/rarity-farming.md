@@ -2,7 +2,7 @@
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming'
-description: 'Everything you need to know about Rarity Farming!'
+description: 'Alles wat je moet weten over Rarity Farming!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
@@ -11,50 +11,50 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/rarity-farming/rarity-farming.png">
-<p class="headerImageText">A Rarity Farmer</p>
+<p class="headerImageText">Een Rarity Farmer</p>
 </div>
 
-**Introduction**
+**Introductie**
 
-Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
+Rarity Farming is een innovatief spelmechanisme dat door Aavegotchi is geïnitieerd. Het streeft ernaar de gebruikers die het meest bedachtzaam en enthousiast met het ecosysteem bezig zijn, te belonen. Zoals de naam al aangeeft, is dit een proces waarbij u probeert de zeldzaamste Aavegotchis op te voeden en hiervoor beloond wordt.
 
-This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
+Deze wikipagina legt uit hoe u kunt deelnemen aan Rarity Farming en hoe de zeldzaamste Aavegotchis bepaald worden. Blijf lezen om meer te leren!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
-<li><a href=#calculating-rarity>Calculating Rarity</a></li>
-<p><a href=#base-rarity-score>Base Rarity Score</a></p>
-<p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p><a href=#final-rarity-score>Final Rarity Score</a></p>
-<li><a href=#rewards>Rewards</a></li>
-<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
-<p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
+<li><a href=#how-do-i-rarity-farm->Hoe doe ik Rarity Farming?</a></p>
+<li><a href=#calculating-rarity>Zeldzaamheid berekenen</a></li>
+<p><a href=#base-rarity-score>Basis Zeldzaamheid Score</a></p>
+<p><a href=#absolute-rarity-score>Absolute Zeldzaamheid Score</a></p>
+<p><a href=#final-rarity-score>Totale Zeldzaamheid Score</a></p>
+<li><a href=#rewards>Beloningen</a></li>
+<p><a href=#rarity-farming-seasons>Rarity Farming Seizoen</a></p>
+<p><a href=#collecting-rarity-farming-rewards>Verzamel Rarity Farming Beloningen</a></p>
 </ol>
 
 </div>
 
-## **How Do I Rarity Farm?**
-There are several ways you can engage in the rarity farming exercise. These include:
+## **Hoe doe ik Rarity Farming?**
+Er zijn verschillende manieren waarop u zich kunt bezighouden met de Rarity Farming. Het gaat daarbij om:
 
-* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
+* **Selecteer voorzichtig een Aavegotchi met zeldzame eigenschappen tijdens het [oproepingsproces](/portals)**
 
-* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
+* **Uitrusten met [wearables](/wearables) om de eigenschappen van je Aavegotchi aan te passen**
 
-* **Engaging in [mini-games](/minigames)**
+* **Deelnemen aan [mini-games](/minigames)**
 
-For more information on each process, just follow the links to the respective pages on the sidebar.
+Voor meer informatie over elk proces, volg de links naar de respectievelijke pagina's op de zijbalk.
 
-That said, the rarity level of a single Aavegotchi is dynamic and will change over time, as the distribution of traits and wearables in the Aavegotchi universe changes. In other words, it isn't enough to simply max out a particular trait in your Aavegotchi. You also have to consider the actions of other players. For instance, if too many players try to grind it out for a war-like gotchi with high aggression scores, this trait becomes less rare, and your Aavegotchi's rarity level goes down.
+Dat gezegd hebbende, is het zeldzaamheidsniveau van een enkele Aavegotchi dynamisch en zal in de loop van de tijd veranderen. als de distributie van eigenschappen en wearables in het Aavegotchi universum verandert. Met andere woorden, het is niet genoeg om simpelweg een bepaalde eigenschap in je Aavegotchi uit te halen. Je moet ook kijken naar het optreden van andere spelers. Bijvoorbeeld, als te veel spelers proberen het uit te delen voor een oorlog zoals gotchi met hoge agressie scores, deze eigenschap wordt minder zeldzaam en je Aavegotchi is minder zeldzaam.
 
-## **Calculating Rarity**
+## **Zeldzaamheid berekenen**
 
 There are 2 types of rarity scores in play here - Base Rarity Score (for traits and wearables) & Absolute Rarity Score.
 
-### Base Rarity Score
+### Basis Zeldzaamheid Score
 
 Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
 
@@ -79,11 +79,11 @@ Wearables BRS on the other hand, is dependent on its rarity. For example, rare [
 
 As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
-### Absolute Rarity Score
+### Absolute Zeldzaamheid Score
 
 Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
-### Final Rarity Score
+### Totale Zeldzaamheid Score
 
 <b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
 
@@ -94,7 +94,7 @@ table_RarityScoreCalculationTable
 
 **The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
-## Rewards
+## Beloningen
 
 In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
@@ -118,13 +118,13 @@ The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is co
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
-### Rarity Farming Seasons
+### Rarity Farming Seizoen
 
 Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 
 For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
 
-### Collecting Rarity Farming Rewards
+### Verzamel Rarity Farming Beloningen
 
 Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
 
