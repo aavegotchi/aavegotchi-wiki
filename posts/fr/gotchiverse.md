@@ -195,7 +195,7 @@ REALM Parcels will be distributed in two main ways:
 
 Method 1: Incentivized GBM Auctions (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. First pioneered by Cryptographs back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Mis au point par les Cryptographes en 2019, le système d'enchères GBM est un système en attente de brevet, et Pixelcraft Studios a été officiellement autorisé à l'utiliser pour tous les drops de NFTs, dont la Haunt 2, les Parcelles et même les Pièces d'équipement.
 
 Check out our [Aauction page](/aauction) for more information.
 

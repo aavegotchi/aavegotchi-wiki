@@ -77,7 +77,7 @@ There are five ways to stake:
 
 * Step 6: Approve the contract to use your GHST tokens on Polygon.
 
-* Step 7: Input the amount of GHST you would like to deposit. Presto! You are done!
+* Step 7: Input the amount of GHST you would like to deposit. Presto! U bent klaar!
 
 *For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
@@ -101,7 +101,7 @@ For the stkGHST-QUICK receipt token **only**, you can stake them into the Quicks
 
 Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aande pool toevoegen, zoals 0,00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
 ### Staking GHST-WETH
 

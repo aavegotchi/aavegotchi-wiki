@@ -7,39 +7,39 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Your gotchi friends are alive! Like you, too, they age — growing from infancy to adulthood.
+Vos amis gotchi sont en vie ! Comme vous, ils vieillissent — de l'enfance à l'âge adulte.
 
-Remember to celebrate your lil fren's birthday! They have one as well!
+N'oubliez pas de célébrer l'anniversaire de votre lil fren ! Ils en ont également un !
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
-<p class="headerImageText">Deckaard Caain: Stay awhile and listen</p>
+<p class="headerImageText">Deckaard Caain: Restez un instant et écoutez</p>
 </div>
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
-<li><a href=#rationale>Rationale</a></li>
-<li><a href=#brs-boost>BRS Boost</a></li>
+<li><a href=#rationale>Raisonnement</a></li>
+<li><a href=#brs-boost>Boost de BRS</a></li>
 </ol>
 
 </div>
 
-## Rationale
+## Raisonnement
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+[La proposition d'amélioration Aavegotchi 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) a introduit un mécanisme de vieillissement pour les Aavegotchis.
 
-Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Les Gotchis peuvent recevoir un petit coup de pouce à leur [BRS](/rarity-farming#base-rarity-score) au fur et à mesure qu'ils vieillissent. Il s'agit de doser plus justement la différence statistique entre les Haunts et la récompense de l'engagement sur le long terme.
 
-This provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
+Cela fournit un tampon d'environ 6 mois au cours desquels les gotchis plus anciens ont un boost BRS par rapport aux gotchis nouvellement invoqués. À mesure qu'un gotchi qui vient d'être invoqué prend de l'âge, ils commence rapidement à rattraper ses homologues plus âgés.
 
-The formula that is used to calculate the BRS boost is modeled after the Fibonacci numbers x 1 million, but replacing the first 0 with a 1 to better fit the use case.
+La formule utilisée pour calculer le boost BRS est modélisée suivant les nombres de Fibonacci x 1 million mais en remplaçant le premier 0 par un 1 pour mieux s'adapter.
 
 This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to **eventually** catch up to **within a 1 BRS boost** of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
 
-## BRS Boost
+## Boost de BRS
 
 table_brsBoost
 

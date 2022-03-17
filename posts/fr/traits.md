@@ -96,8 +96,8 @@ Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. T
 
 ## Aging Mechanic
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+[La proposition d'amélioration Aavegotchi 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) a introduit un mécanisme de vieillissement pour les Aavegotchis.
 
-Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Les Gotchis peuvent recevoir un petit coup de pouce à leur [BRS](/rarity-farming#base-rarity-score) au fur et à mesure qu'ils vieillissent. Il s'agit de doser plus justement la différence statistique entre les Haunts et la récompense de l'engagement sur le long terme.
 
 For more information, check out the [Aging Mechanic](/aging-mechanic) page.

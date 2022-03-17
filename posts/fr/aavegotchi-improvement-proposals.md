@@ -7,15 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard.
+Heya frens. Participer à des propositions d'amélioration Aavegotchi (AGIPs) est ce que font les gotchis responsables ! Vous devez voter et faire entendre votre voix.
 
-How far have we progressed as a community? Look at our archives of past votes here!
+Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les archives des votes passés !
 
-Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
+« Psst! » Réclamez vos [Badges POAP](/poap) si vous avez déjà voté sur les AGIPs !
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>

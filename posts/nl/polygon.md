@@ -2,75 +2,75 @@
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
 title: 'Polygon'
-description: 'Polygon Tutorial'
+description: 'Polygon Handleiding'
 contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+Hey Frens! Dus u hebt gehoord over de migratie naar Polygon (voorheen Matic Network), maar u hebt geen idee wat de hel het zelfs is? Maak je geen zorgen, we zullen alles stap voor stap doornemen!
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+Kortom, Polygon is een Layer 2-oplossing voor publieke blockchains als Ethereum. Het is een gedecentraliseerd platform dat snellere en extreem goedkope transacties met finaliteit in de hoofdketen waarborgt. Als je wilt weten hoe het in meer detail werkt, bekijk dan dit [artikel](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
-So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+Dus zeg maar afscheid van $100 transacties bij Uniswap en hallo tegen (gratis) interacties!
 
-Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
+Het verhuizen naar Polygon was het juiste ding om te doen. [Nick](/team#nick-mudge) heeft aangetoond dat we [hebben bespaard op gasprijs voor $14,4 miljoen dollar, sinds dat we dit hebben gedaan](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#why-polygon->Why Polygon?</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Adding Polygon to your Metamask</a></li>
+<li><a href=#why-polygon->Waarom Polygon?</a></li>
+<li><a href=#adding-polygon-to-your-metamask>Voeg Polygon toe aan uw Metamask</a></li>
 <li><a href=#matic-faucet>Matic Faucet</a></li>
 </ol>
 
 </div>
 
-## Why Polygon?
+## Waarom Polygon?
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+Zoals u wellicht weet, was de lancering van Aavegotchi Mainnet gepland voor 4 januari 2021. Op die dag beweeg Bitcoin bijna 40%, waardoor arbitragebots gek werden. Hierdoor werden de gaskosten tot boven de 400 gwei gestegen, wat tot belachelijke transactiekosten leidde. Om het in perspectief te plaatsen: het kopen van een enkel [portaal](/portals), het openen en het oproepen van een Gotchi zou minstens 300$ kosten.
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+Het was duidelijk dat een lancering op Ethereum Mainnet onmogelijk was. Aangezien Polygon al heeft samengewerkt met verschillende NFT-projecten (zoals OpenSea) was de keuze relatief eenvoudig. De gemeenschap deelde dit gevoel en stemde voor een lancering op Polygon met 76 procent.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Zie dit medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) voor een uitgebreide discussie over dit onderwerp.
 
-## Adding Polygon to your Metamask
+## Voeg Polygon toe aan uw Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+Laten we beginnen met de leuke dingen! Om Polygon te gebruiken, moet u het eerst toevoegen aan uw Metamask portemonnee.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Open de extensie en klik bovenin op de knop "Ethereum Mainnet".
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
-2). Select “Custom RPC”.
+2). Selecteer “Custom RPC”.
 
-<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPC" />
 
-3). Enter the following settings:
+3). Voer de volgende instellingen in:
 
-Network Name: Matic Mainnet
+Netwerknaam: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+Nieuwe RPC URL: https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 
-Currency Symbol (optional): MATIC
+Valutasymbool (optioneel): MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Blok Explorer URL (optioneel): https://mumbai-explorer.matic.vandaag/
 
-Once you’ve added everything, you can click on “Save”.
+Zodra u alles heeft toegevoegd, kunt u klikken op "Opslaan".
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). Er is geen stap vier, je bent al klaar! U kunt nu schakelen tussen Ethereum Mainnet en Polygon door op stap 1 te klikken.
 
 ## Matic Faucet
 
-You need MATIC tokens to transact on Polygon.
+Je hebt MATIC tokens nodig om transacties uit te voeren op Polygon.
 
-Here are some MATIC faucets that will give you some free MATIC to do transactions:
+Hier zijn enkele MATIC faucets die je wat gratis MATIC geven om transacties uit te voeren:
 
 * [Matic Supply](https://matic.supply/)
 
 * [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-If the faucets do not work, drop in to the Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6) and head over to the #matic-requests channel and some of our frenly frens will provide you with some MATIC.
+Als de veilingen niet werken, Kom terug naar de Aavegotchi Discord [hier](https://discord.com/invite/NPwnWB6) en ga naar het #matic-verzoek-kanaal en sommige van onze griezelige vrienden geven je wat MATIC.

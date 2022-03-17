@@ -7,14 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi is a frenly project. Get to know our frenly frens here!
+Aavegotchi is een fraai project. Leer onze frens hier kennen!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#investors>Investors</a></li>
+<li><a href=#investors>Investeerders</a></li>
 <p><a href=#aave>Aave</a></p>
 <li><a href=#partners>Partners</a></li>
 <p><a href=#aragon>Aragon</a></p>
@@ -36,7 +36,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 </div>
 
-## Investors
+## Investeerders
 
 ### Aave
 
@@ -45,7 +45,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p class="leftImageText"><a href="https://twitter.com/AaveAave" target="_blank">Aave</a></p>
 </div>
 
-Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
+Aave is een decentraal liquide markt waar gebruikers kunnen deelnemen als deposanten of leners. Storters bieden liquiditeit aan de markt om een passief inkomen te verdienen terwijl leners kunnen lenen in een overonderpand (eindeloos) of onderonderonderpand (liquiditeit van één blok) mode.
 
 ## Partners
 
@@ -56,7 +56,7 @@ Aave is a decentralised non-custodial liquidity market protocol where users can 
 <p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">Aragon</a></p>
 </div>
 
-Aragon is the leading platform for decentralized governance and DAOs.
+Aragon is het toonaangevende platform voor gedecentraliseerd bestuur en DAO's.
 
 ### OpenSea
 
@@ -65,7 +65,7 @@ Aragon is the leading platform for decentralized governance and DAOs.
 <p class="leftImageText"><a href="https://twitter.com/opensea" target="_blank">OpenSea</a></p>
 </div>
 
-The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets.
+'s Werelds eerste en grootste digitale marktplaats voor crypto-collecties en niet-fungibele tokens (NFT's). Koop, verkoop en ontdek exclusieve digitale activa.
 
 ### Snapshot
 
@@ -74,16 +74,16 @@ The world’s first and largest digital marketplace for crypto collectibles and 
 <p class="leftImageText"><a href="https://twitter.com/SnapshotLabs" target="_blank">Snapshot</a></p>
 </div>
 
-Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain.
+Snapshot is een gedecentraliseerd stemsysteem. Het biedt flexibiliteit voor de wijze waarop het stemvermogen wordt berekend bij een stemming. Snapshot ondersteunt verschillende stemtypes om tegemoet te komen aan de behoeften van organisaties. Het opstellen van voorstellen en het stemmen over Snapshot is gebruiksvriendelijk en kost geen gas omdat het proces wordt uitgevoerd buiten de chain.
 
 ### Polygon
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Network">
+<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Netwerk">
 <p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
 </div>
 
-Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
+Polygon is een protocol en een kader voor het bouwen en verbinden van Ethereum-compatibele blockchain-netwerken. Schaalbare oplossingen aanwijzen op Ethereum dat een multi-chain Ethereum ecosysteem ondersteunt.
 
 ### QuickSwap
 
@@ -92,7 +92,7 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 <p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">QuickSwap</a></p>
 </div>
 
-Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
+Volgendegeneratie DEX. Handel met bliksemsnelle snelheden met bijna nul gaskosten. Mogelijk gemaakt door Polygon.
 
 ### Cometh
 
@@ -101,11 +101,11 @@ Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by
 <p class="leftImageText"><a href="https://twitter.com/MUSTCometh" target="_blank">Cometh</a></p>
 </div>
 
-Cometh is a groundbreaking and evolving strategy game set in a persistent and sustainable space-inspired metaverse powered by Ethereum's blockchain.
+Coneth is een baanbrekend en evoluerend strategisch spel ingesteld in een persistente en duurzame metaverse op de ruimte geïnspireerd door de blockchain van Ethereumm.
 
-The Cometh game consists in players mining asteroids to get tokens as rewards.
+Het Cometh spel bestaat uit spelers die asteroïden delven om tokens te krijgen als beloningen.
 
-Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.
+Het ecosysteem hefboomt Ethereumbased DeFi (Decentralized Finance) op een leuke en originele manier om spelers te laten verzamelen, en tokens te verdienen van ERC-20 protocollen, en ook NFT's uniek voor de Cometh Metaverse.
 
 ### DinoSwap
 
@@ -114,9 +114,9 @@ Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a 
 <p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
 </div>
 
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
+DinoSwap is een cross-chain infrastructuurproject dat liquiditeit opbouwt voor layer-one blockchains, AMM's en partnering projecten. Op Polygon, is er een spannende kans voor farmers om DINO en andere projecttokens te verdienen.
 
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
+DinoSwap profiteert van snelle en historisch gezien goedkope transactiemogelijkheden op Polygon.
 
 ### Unicly
 
@@ -125,7 +125,7 @@ DinoSwap benefits from velociraptor fast and prehistorically cheap transaction c
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
+Unicly is een protocol zonder toestemmingen en door de gemeenschap gecontroleerd om NFT's te combineren, fractionalize, en verhandelen. Gebouwd door NFT verzamelaars en DeFi enthousiastelingen, stimuleert het protocol de NFT-liquiditeit en biedt het een naadloze handelservaring voor NFT-activa door AMM's en opbrengst te brengen in de wereld van NFT's.
 
 ### Venly
 
@@ -134,7 +134,7 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Wallet & NFT products that seamlessly integrate with your blockchain project.
+Portemonnee & NFT producten die naadloos integreren met uw blockchainproject.
 
 ### GBM Veilingen
 
@@ -143,7 +143,7 @@ Wallet & NFT products that seamlessly integrate with your blockchain project.
 <p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Veilingen</a></p>
 </div>
 
-GBM™ is a proprietary auction system where bidders make money when they are outbid.
+GBM™ is een merkgebonden veilingsysteem waar inschrijvers geld verdienen wanneer ze buiten de boot vallen.
 
 ### Rarible
 
@@ -152,7 +152,7 @@ GBM™ is a proprietary auction system where bidders make money when they are ou
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
+De eerste NFT-marktplaats van de gemeenschap. Maak, verkoop of verzamel digitale items die beveiligd zijn met blockchain.
 
 ### Yield Guild Games
 
@@ -161,7 +161,7 @@ The first community-owned NFT marketplace. Create, sell or collect digital items
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
+Yield Guild Games (YGG) is een Play-To-Earn guild die spelers samenbrengt om te verdienen via NFT spellen. Wij zijn de kolonisten van de Metaverse.
 
 ### BlackPool
 
@@ -170,13 +170,13 @@ Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+BlackPool is een nieuw fonds dat binnen de NFT-industrie werkt: het beheren van een scala aan activa van sportkaarten tot spelvoorwerpen tot digitale kunst.
 
-BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
+BlackPool is de eerste gedecentraliseerde autonome organisatie (DAO) die uitsluitend is gebouwd voor NFT gaming en handel. Onze strategieën zullen gebaseerd zijn op onze langetermijnpassie voor kansspelen en kunst, als we professionele data analytics combineren met machine leren om onze gebruikers het beste rendement te bieden.
 
-We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
+We zullen het voortouw nemen bij het verstrekken van financiële derivaten aan digitale markten door diensten als aandelenwaarderingsindices, leasing, verzekeringsmechanismen en meer aan te bieden.
 
-BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
+BlackPool gelooft sterk in de langetermijnwaarde van schaarse digitale activa, en begrijpen dat een hoge mate van specialisatie in elk NFT-platform vereist is om het creëren van waarde te maximaliseren. Daarom zullen we altijd proberen expertise in te zetten om onze prestaties op elk platform te verbeteren.
 
 ### Flamingo DAO
 
@@ -185,7 +185,7 @@ BlackPool firmly believes in the long term value of scarce digital assets, and u
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
+Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsmogelijkheden voor eigenlijke, op blockchain gebaseerde activa. NFT's zijn niet alleen kattenbeelden. Ze omvatten digitale kunst, collectibels, in-game activa en andere tastbare activa. Deze nieuwe vormen van digitaal eigendom zijn in toenemende mate bedoeld om te helpen online digitale inhoud te creëren, te verdienen en te stimuleren.
 
 ### Mao DAO
 
@@ -194,4 +194,4 @@ An NFT-focused DAO that aims to explore emerging investment opportunities for ow
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
+MAO DAO is een nieuw soort gaming DAO dat tot doel heeft het voortouw te nemen bij het vormgeven van de speeltongruimte in Azië. Zij hebben honderden spelers aan boord genomen in verschillende bestaande spelletjes, omdat zij de eerste zwaartepunt van de oneindigheid vormden. Voorlopig hebben ze besloten om onze gestage Player Cat NFT's te lanceren, die het lidmaatschap van DAO vertegenwoordigen, een deel van de bestuursrechten.

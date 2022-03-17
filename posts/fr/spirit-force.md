@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Spirit Force'
+title: 'Force Spirituelle'
 description: 'All about Aavegotchi Spirit Force'
 image: "spirit-force/aETH.svg"
 contributors:
@@ -13,13 +13,13 @@ contributors:
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
-Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Chaque Aavegotchi prend vie grâce à la Force Spirituelle. Lors de l'ouverture d'un portail [](/portals), l'invocateur (vous !) doit insuffler de la Force spirituelle pour invoquer son nouveau Gotchi !
 
-So what exactly is Spirit Force?
+Alors, qu'est-ce que la Force spirituelle ?
 
-Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
+Spirit Force are interest-bearing tokens embedded within your Aavegotchi! Cela rend votre Aavegotchi de plus en plus précieux au fil du temps !
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
+Dans Aavegotchi, les termes "Force spirituelle", "Collateral", "aTokens", "maTokens", et "amTokens" signifient la même chose. Perdu ? Consultez cet [historique](/spirit-force-history) pour plus d'informations.
 
 This page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
@@ -30,7 +30,7 @@ Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on
 **Contents**
 
 <ol>
-<li><a href=#about>About</a></li>
+<li><a href=#about>À propos</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
 <li><a href=#getting-atokens>Getting aTokens</a></li>
@@ -40,7 +40,7 @@ Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on
 
 </div>
 
-## About
+## À propos
 
 While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
