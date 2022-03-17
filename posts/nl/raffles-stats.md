@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+title: 'Statistieken voor Aavegotchi Lotterijen'
+description: 'Statistieken van Afgelopen Lotterijen'
 contributors:
   - "unintelligent-nerd"
 ---
