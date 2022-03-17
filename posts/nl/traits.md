@@ -100,4 +100,4 @@ Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. T
 
 Gotchis zouden een kleine boost krijgen van hun [BRS](/rarity-farming#base-rarity-score) naarmate ze ouder worden. Dit is bedoeld om statistische verschillen tussen haunts tegen te gaan en betrokkenheid op lange termijn te belonen.
 
-For more information, check out the [Aging Mechanic](/aging-mechanic) page.
+Voor meer informatie, bekijk de [Aging Mechanic](/aging-mechanic) pagina.
