@@ -28,7 +28,7 @@ Continue reading to learn how to stake GHST.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#purchasing-ghst>Purchasing GHST</a></li>
