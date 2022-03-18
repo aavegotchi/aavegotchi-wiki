@@ -19,7 +19,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#summoners>Summoners</a></li>
