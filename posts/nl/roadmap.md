@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+description: 'De Aavegotchi Roadmap'
 contributors:
   - "hackingmoneyph"
   - "unintelligent-nerd"
@@ -10,36 +10,36 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">Laten we een reis starten!</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+Hey fransen, kom op en doe mee aan onze meerjarige reis om van Aavegotchi een huishoudelijke naam te maken! Onze roadmap bestaat uit drie belangrijke onderdelen. Lees verder voor meer!
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#incubation>Incubation</a></li>
+<li><a href=#incubation>Incubatie</a></li>
 <li><a href=#breakout>Breakout</a></li>
 <li><a href=#ubiquitous>Ubiquitous</a></li>
 </ol>
 
 </div>
 
-## Incubation
+## Incubatie
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
-Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.
+Incubatie is de eerste fase van onze meerjarige reis. Het overslaat van Q2 2021 tot Q4 2021.
 
-Strategy for this phase: *Establish Aavegotchi as a popular game for crypto natives*
+Strategie voor deze fase: *Maak van Aavegotchi een populair spel voor crypto bronnen*
 
 Milestones: 25K MAU / 5K DAU
 
 ### Q2 2021
 
-* Polygon to Ethereum NFT Bridges
+* Polygon naar Ethereum NFT-bruggen
 * Aavegotchi Onchain Sideviews
 * GHST Token listed on Aave
 * Social media integrations (Link Aavegotchi via Discord/Twitter)
