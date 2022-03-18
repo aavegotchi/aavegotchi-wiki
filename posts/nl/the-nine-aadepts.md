@@ -16,7 +16,7 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
 <li><a href=#cast>Cast</a></li>
