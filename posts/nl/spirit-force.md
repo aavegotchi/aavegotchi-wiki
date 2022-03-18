@@ -92,4 +92,4 @@ Zowel de maTokens als amTokens genereren interest. Echter, *de manier* waarop ze
 
 * maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. De waarde van de tokens neemt toe, maar omdat de hoeveelheid niet verandert, is het niet mogelijk om maTokens uit de Gotchis te halen, tenzij je je Gotchi opoffert om bij de onderliggende onderpand te komen.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amTokens nemen na verloop van tijd **hoeveelheid** toe. Dit geldt voor Aavegotchis uit Haunt 2 en daarna. De opgebouwde rente wordt weerspiegeld in hoeveelheid. Zo is het mogelijk om amTokens terug te trekken zodra er voldoende rente is gegenereerd.
