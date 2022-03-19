@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tokenomics'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+description: 'De Tokenomics van Aavegotchi GHST Token'
 image: "AFBEELDING HIER"
 contributors:
   - "appellants"
@@ -13,38 +13,38 @@ contributors:
 <p class="headerImageText">wEn GHST $5???</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+Tokenomics? Wie bekommert zich eigenlijk? WeN mOoN??
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+Dat doen we en u ook. Als je van plan bent te investeren in een project als GHST (of een project), is het belangrijk om te begrijpen hoe het bredere ecosysteem werkt. Uiteindelijk is dit de manier waarop we allemaal kunnen winnen met onze frens.
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchi's benadering van het delen van inkomsten en tokenomics is erop gericht vier doelstellingen in evenwicht te brengen:
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Het creëren van een gezond ecosysteem dat actieve spelers en DAO-deelnemers beloont</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>ervoor zorgen dat GHST token een sterke basis heeft voor lange-termijnwaardecapture</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Bouw een schatkist voor AavegotchiDAO om te gebruiken voor discretionaire uitgaven</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Voortdurende financiële beloningen verstrekken aan de ontwikkelaars van Aavegotchi</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+Dit deel van de wiki brengt je eerst door de token distributie van GHST, en vervolgens door hoe deze doelen zullen worden bereikt.
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li>
-<p><a href=#earn-it>EARN IT</a></p>
-<p><a href=#dao-it>DAO IT</a></p>
-<p><a href=#burn-it>BURN IT</a></p>
-<p><a href=#buidl-it>BUIDL IT</a></p>
-<li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#token-distribution>Token Verdeling</a></li>
+<li><a href=#revenue-sharing-overview>Overzicht gedeelde inkomsten</a></li>
+<p><a href=#earn-it>VERDIEN HET</a></p>
+<p><a href=#dao-it>DAO HET</a></p>
+<p><a href=#burn-it>VERBRAND HET</a></p>
+<p><a href=#buidl-it>BUIDL HET</a></p>
+<li><a href=#historical-changes>Historische wijzigingen</a></li>
 </ol>
 
 </div>
 
-## Token Distribution
+## Token Verdeling
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
+GHST werd in drie fasen verspreid. These were the private sale, pre-sale and public bonding curve sale.
 
 
 **The Private Sale**
@@ -103,7 +103,7 @@ We've made a handy diagram explaining Revenue Sharing V2:
 
 Read on to learn about the various categories in more detail.
 
-## EARN IT
+## VERDIEN HET
 
 A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
 
@@ -122,14 +122,14 @@ More categories will be added, as the game continues to develop.
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO IT
+## DAO HET
 
 Community governance is also a core tenet of the Aavegotchi experience. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
 
 
-## BURN IT
+## VERBRAND HET
 
 As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
 
@@ -142,7 +142,7 @@ Burning GHST is a deflationary counterbalance to the downward pressure on GHST's
 Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
-## BUIDL IT
+## BUIDL HET
 
 Last, but most definitely not least, **40%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
 
@@ -162,7 +162,7 @@ One of the best parts about the crypto-verse and why you constantly see the addi
 
 Keep reading, and keep playing. See you on the moon soon, Aagent.
 
-## Historical Changes
+## Historische wijzigingen
 
 The following table details the percentage changes in each category across Revenue Sharing versions:
 
