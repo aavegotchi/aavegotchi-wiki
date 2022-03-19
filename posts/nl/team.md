@@ -2,7 +2,7 @@
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
 title: 'Team'
-description: 'See who&#8217s building the Aavegotchi Game'
+description: 'Zie wie&#8217s het Aavegotchi Game bouwt'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
@@ -12,17 +12,17 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/aavegotchi-team-photo.png">
-<p class="headerImageText">Non edited photo</p>
+<p class="headerImageText">Niet bewerkte foto</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. Voorbeelden van de mensen achter Aavegotch!
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#summoners>Summoners</a></li>
+<li><a href=#summoners>Oproepers</a></li>
 <p><a href=#coder-dan>Coder Dan</a></p>
 <p><a href=#jesse>Jesse</a></p>
 <p><a href=#xibot>Xibot</a></p>
@@ -50,7 +50,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 </div>
 
-## Summoners
+## Oproepers
 
 ### Coder Dan
 
