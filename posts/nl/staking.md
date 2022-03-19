@@ -1,8 +1,8 @@
 ---
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
-title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+title: 'Staken'
+description: 'Stake GHST, Maak FRENS'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -11,14 +11,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">Stake GHST, Maak FRENS!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. Het oorspronkelijke token, [BESTE](/posts/ghst), kan worden ingezet in het Staking Contract om [FRENS](/posts/glossary#frens) te verdienen.
 
-FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
+FRENS is een niet-overdraagbaar saldo binnen het Aavegotchi Staking Contract. FRENS kan niet worden gekocht. Ze zijn bedoeld om stakers te belonen voor hun bijdragen aan het Aavegotchi project.
 
-FRENS can be converted into Raffle Tickets or Drop Tickets:
+FRENS kunnen worden omgezet in Lotterij Tickets of Drop Tickets:
 
 * Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
 
