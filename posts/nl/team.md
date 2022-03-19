@@ -161,7 +161,7 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart
 ### Gravy - Marketing Directeur
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Graven">
 <p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
@@ -174,7 +174,7 @@ Nick Graves, aka Gravy, is een creatieve directeur van alle zaken marketing met 
 <p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
 </div>
 
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+Moon is het Hoofd van Paartnerships. Galaxy hersenen. Beste bot in aavegotchi. Gamer. Husband van wagyukkip.
 
 ### DesignerDave - Game Design
 
@@ -183,7 +183,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 <p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
 </div>
 
-“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
+"DesignerDave" is een spel & narratieve ontwerper die met studio's werkt zoals Blizzard Entertainment, Ubisoft, Wooga, en inXile, op franchises als Wasteland, Warcraft, Silent Hill en vele anderen. Hij begon zijn carrière in PC games en maakte AAA hits zoals Warcraft III en WoW, verhuizen naar mobiele spelletjes in 2009, waar hij erin geslaagd is om in de loop van een jaar van duizend per maand naar enkele duizenden per dag te verdienen zoals Penny Dell Crosswords met succes. DesignerDave specialiseert in gebruikerservaring, verhaal ontwerp, en hoe te bepalen hoe het beste aan de verwachtingen van nieuwe gebruikers kan worden voldaan, teneinde de bewaarstatistieken te verhogen en de uitgaven te verhogen door middel van verhaal-tellingen. Hij is het meest recent leider op de NFT game design, creëren van multiworld spanning metaverse verhalingen om de onvermijdelijke toekomst toe te staan waar spelers hordes items en ervaringen van het ene spel naar het andere kunnen brengen. Hij analyseert en past zich snel aan aan het nieuwe paradigma dat zich geleidelijk aan het vrije spel zal toe-eigenen.
 
 ### Shohan - Gotchiverse Frontend
 
@@ -192,7 +192,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+Ik ben Shohan, professionele game-ontwikkelaar, met meer dan 5+ jaar ervaring. Ik heb werkervaring in gameplay programmering, backend programmeren naar verschillende aspecten van spelontwikkeling. Ik heb gewerkt voor enkele top game studio's zoals Stillfront (Moonfrog Labs). Ik heb een Meester graad in Informatica. Ik werk in REALM frontend gameplay voornamelijk waar frens rond kunnen lopen, verkennen en leuk kunnen maken.
 
 ### Coyote - Dev evangelist / UI
 
@@ -201,7 +201,7 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
 </div>
 
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Caleb, Coyote genoemd omdat dat zijn tweede naam was, voegde zich begin 2021 aan het team toe. Zijn carrière begon in startups als een UI/UX ontwerper dat uiteindelijk overging naar specialisatie in frontend ontwikkeling. Coyote heeft de blockchain bug gepakt door derde partijen apps te ontwikkelen voor Aavegotchi. Zijn doel is nu om dit ontwaken te delen met andere ontwikkelaars om de volgende generatie webingenieurs te creëren!
 
 ### Candoizo - Frontend
 
@@ -210,9 +210,9 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+Candoizo, aka candoizo, is een softwareontwikkelaar die het makkelijk maakt voor de community van bouwers om Aavegotchi door storm mee te nemen! Zijn ervaring varieert van tijd tot tijd als een penetratietester en het opbouwen van projecten die door de gemeenschap worden aangedreven en die allemaal voortkomen uit een drang naar openbrekende zaken voor de bevolking.
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+Uit de geschiedenis blijkt dat hij in de Canadese wilde natuur is opgegroeid. Hij heeft zich ingezet voor het bouwen van legendarische gereedschappen. Met projecten uit het verleden zoals Hauntgg, CoinVanity, en alle andere iOS, is er geen gebrek aan vrienden die zouden bevestigen aan dit feitelijke origine-verhaal. In de volgende aflevering was onze legendarische trainer Coder Dan in staat om zijn hart en vaardigheid te veroveren voor het team Pixelcraft met behulp van zijn grondbrekende spelconcept en standout gemeenschap!
 
 ### Mori - Solidity Ontwikkelaar
 
@@ -221,7 +221,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 <p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
+Patrick Kim, aka Mori is een baanbrekende defi degen en solidity ontwikkelaar van Los Angeles. Hij vond Aavegotchi nadat hij een hoop geld verloren had in poocoins, en werd geïnspireerd door de hoeveelheid inspanning die wordt besteed aan NFT's bestemd voor de liquiditeiten. In het verleden was hij een statisticus en eerder een vliegtuig mechanieker. Hij kijkt naar anime voor de plots en was een bereidwillige ondersteunende speler die niet onder druk stond toen hij DotA jaren geleden speelde. In zijn vrije tijd vraagt hij graag voortdurend naar coderdan over wanneer zijn favoriete functies te verzenden.
 
 ### JC - Business Development
 
@@ -230,7 +230,7 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+Jc is een business development strateeg en blockchainliefhebber, met een schat aan ervaring in het verbinden en netwerken met enkele van de slimste geesten in de cryptovaluta-ruimte. Hij heeft aangetoond talent te hebben voor het opbouwen van relaties, voor het beïnvloeden van strategische partnerschappen. het ontwikkelen van nieuwe verkoopkanalen, het gebruik van sociale media en virale marketing met opmerkelijke effectiviteit. Een van zijn grootste passies is het introduceren en bevorderen van nieuwe bedrijven en het ondersteunen van hun startende ondernemingen. Zijn enthousiasme voor de ruimte is gebaseerd op een onwrikbaar geloof in de verstorende kracht van blockchain-technologie.
 
 ### Webb - Ambassadeur Lead
 
@@ -239,26 +239,26 @@ Jc is a business development strategist and blockchain enthusiast, with a wealth
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
-* long walks on the beach
-* his waifu
+Dingen die Webb leuk vind:
+* dao's en defi
+* videogames, favoriet spel is dota, het nostalgische spel is World of Warcraft
+* lange wandelingen op het strand
+* zijn waifu
 * rofls and pepes
-* making frens
-* loving my new bank and breaking up with my old one
+* frens maken
+* houd van mijn nieuwe bank en breek op met mijn oude
 
 ## Oorsprong
 
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+### Het Droom Team Komt Samen
+Dit is het team, achter de meme.  Een droomteam volgens eender welke maatstaf staat op het punt de wereld over te nemen. Het volgende verhaal is een vrij nauwkeurig overzicht van de manier waarop het team samenkwam.  Artsen stilgeplakt door Vanilladelphia.eth Aapprentice et al.
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+Het jaar was 2011... of misschien 2012.  Coder Dan had net zijn studies voltooid, toen hij besloot zijn echte passie voort te zetten.  Verkopen van snoep op een strand in China.  Dan wist dat ze deze voorbarige baan niet zomaar aan een schlub zouden overhandigen, vooral aan een buitenlander zoals hij.  Dat is wanneer onze held beslist dat hij beter een echte baan kan krijgen, en een Youtube beroemdheid... en dat is precies wat hij deed.  Na een paar jaar snel vooruit en jonge Coderdan was het klaar om terug te gaan naar het strand.
 
-"It's time to sell some candy" Said Dan.
+"Het is tijd om wat snoep te verkopen" Zoet Dan.
 
-And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
+En wat een verkoper was hij!  Hoewel hij helaas niet goed genoeg was om snoep te verkopen op het strand, De jongeman stak zo energiek zijn bel vast met het oog van een andere jonge toeschouwer van Jesse, AKA GldnXross.  De twee werden snel frens, samen gekibbel en het maken van geweldige muziek.  Gelukkig slaagde de maiyatang er niet uit, en het duo ging door met veel grotere dingen...
 
-When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+Toen onze dromers besloten dat ze een volledig onchain versie van het klassieke speelgoed van de jaren negentig zouden maken, noemde iedereen ze waanzinnig.  Maar Coder Dan had dit al eerder gehoord, maar hij wist dat hij gelijk HAD.  ze konden dit niet doen, althans niet alleen.  Ze hadden de beste, nacht, het beste van de best... maar wie dan wel?  "Xibot!" Dan zei onmiddellijk.  Als er iemand is die de essentie van een klassieke zo nabij en ons hart dierbaar is, dan moet het hem zijn!”.  "Hmm, maar hoe zit het met smart contracten?" zei GldnXross.  Er is toch niemand die goed genoeg is om deze dingen VOLLEDIG onchain op te slaan! "Er is één persoon" zei Dan. "Deze man houdt zo veel van smart contracts, dat hij smart contracten schrijft voor smart contracten."  "Wacht even, ik heb van deze kerel..." gehoord GldnXross "Nick Mudge!"  "En Gemeenschap? We hebben toch iemand nodig die de spammers geweldig de kop opsteekt en de noobs helpt!"  Dan keek om... "Er is iets te zeggen over een man, met het geduld van een heilige en de banhamer van Thor." De naam van die man? JC Crown.
 
-So this is how our heroes assembled, some details have been edited for time.
+Dus dit is hoe onze helden bijeen zijn gekomen, enkele details zijn voor een bepaalde tijd gewijzigd.
