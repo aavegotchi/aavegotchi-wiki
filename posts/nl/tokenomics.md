@@ -67,104 +67,104 @@ De middelen die hier ter beschikking werden gesteld, werden gebruikt voor bootst
 
 Deelnemers van de Private Verkoop en Voorverkoop zullen hun GHST-tokens voor een jaar laten berusten beginnend bij het sluiten van de Voorverkoop ronde. Na 180 dagen wordt een eerste uitgave vrijgegeven die overeenkomt met ongeveer 50 procent van het totale bedrag, gevolgd door een drip release van de resterende tokens in de komende 185 dagen.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+Voor meer details hierover, lees dan de [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) en [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
-**Public Bonding Curve Sale**
+**Publieke Bonding Curve Verkoop**
 
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
+Zoals onze frens zouden zeggen: de curve houdt nooit op! Voor meer informatie over de mechanica van de curve, kijk op onze pagina op de [curve](/curve).
 
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
+Er is geen limiet aan het aanbod van GHST in deze ronde, en op dat moment geen limiet. De prijs geopend met 0,2 DAI/ GHST, en schommelt langs de curve. Er is ook geen slot in deze ronde – tokens kunnen meteen van de curve worden geclaimd.
 
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
+Iedereen die aan KYC heeft deelgenomen en door het Aavegotchi team zijn adres op de whitelist heeft staan, kan direct van de curve kopen.
 
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
-
-
-**Ecosystem Fund**
-
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+Saldo van de Curve zal beschikbaar zijn voor Pixelcraft Studios via een tap mechanisme dat wordt beheerd door GHST token houders. Meer informatie over het mechanisme kan [hier](https://fundrasing.aragon.black) gevonden worden.
 
 
-**Team Fund**
+**Ecosysteem Fonds**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+Het ecosysteemfonds bestaat uit 1.000.000 GHST vergrendeld volgens hetzelfde schema als de Private en Voorverkoop ronden. Ontgrendelde fondsen kunnen worden ingezet via voorstellen voor de [AavegotchiDAO](/dao) V2. en hoger, voor legitiem gebruik van zaken zoals het financieren van ontwikkeling door niet-Aavegotchi kernteamleden promotie en marketing van AavegotchiDao, evenals elk ander geval van gebruik de AavegotchiDAO acht nuttig.
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
-## Revenue Sharing Overview
+**Team Fonds**
 
-What happens to all the GHST spent on portals and wearables?
+Het Team Fund bestaat uit 1.000.000 GHST die volgens hetzelfde schema zijn vergrendeld als de Private Ronde. Zodra de middelen echter volledig zijn vrijgegeven, zullen ze volgens een drie-jarige vestigingsplanning worden verdeeld. en de overige fondsen zullen nog twee jaar worden geblokkeerd in een nieuw vesting contract en worden vrijgegeven aan het Aavegotchi kernteam.
 
-We've made a handy diagram explaining Revenue Sharing V2:
+Teamfondsen worden voornamelijk gebruikt om de core Aavegotchi teamleden te stimuleren om een bijdrage te leveren met hun volledige inzet voor het project, Daarnaast moeten externe adviseurs gecompenseerd worden.
+
+## Overzicht Gedeelde Inkomsten
+
+Wat gebeurt er met al het GHST dat aan portalen en wearabels wordt uitgegeven?
+
+We hebben een handig diagram gemaakt waarin de inkomsten worden uitgelegd V2:
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various categories in more detail.
+Lees verder voor meer gedetailleerde informatie over de verschillende categorieën.
 
 ## VERDIEN HET
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Een belangrijk deel van de Aavegotchi ervaring is tijd spenderen met je Gotchis en ze uitrusten met wearables in [rarity farming](/rarity-farming). Om continue en actieve betrokkenheid met het ecosysteem van het spel te stimuleren, zal een deel van de inkomsten uit portaalverkoop en wearables gaan naar het belonen van rarity Farmers.
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+Daartoe zal **40%** van alle verdiende BTW worden terugverdeeld aan spelers via spelers beloningen.
 
-Initially, there will be three categories of Player Rewards:
+In eerste instantie zullen er drie categorieën Spelers Beloningen zijn:
 
-* Top 100 Rarest Aavegotchis (by [BRS](/rarity-farming#base-rarity-score))
+* Top 100 Zeldzaamste Aavegotchis (door [BRS](/rarity-farming#base-rarity-score))
 * Top 100 [Kinship](/kinship) Scores
-* Top 100 [Experience (XP)](/traits#experience)
+* Top 100 [Ervaring (XP)](/traits#experience)
 
-The three categories will total up to the **40%** of all GHST earned. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
+De drie categorieën zullen oplopen tot **40%** van alle verdiende GHST. De precieze percentages voor elke categorie zullen worden bevestigd voor het begin van elk seizoen van rarity farming.
 
-More categories will be added, as the game continues to develop.
+Er zullen meer categorieën worden toegevoegd, aangezien het spel zich blijft ontwikkelen.
 
-When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
+Wanneer er een rarity farming seizoen is zullen deze beloningen elke twee weken worden verdeeld **per** via onchain snapshots.
 
 
 ## DAO HET
 
-Community governance is also a core tenet of the Aavegotchi experience. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
+Communautair bestuur is ook een kern van de Aavegotchi ervaring. Een van de verantwoordelijkheden van [AavegotchiDAO's](/dao) is het beheren van een schatkist, te worden gebruikt voor elk initiatief dat het waard acht. (Waifu pics, misschien?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+**15%** van de inkomsten zal in eerste instantie worden verdeeld onder de [schatkist DAO](https://aavegotchi.com/treasury). Aangezien de DAO nog steeds in groei is, kan dit percentage uiteindelijk stijgen. Het einddoel is natuurlijk dat de DAO uitgroeit tot een entiteit die volledig in staat is het protocol te beheren en zelfs op te waarderen. Hoewel dat misschien nog een paar jaar weg kan zijn (Aavegotchi nog maar Mid 2020 is gestart), is het nog steeds iets om naar uit te kijken.
 
 
 ## VERBRAND HET
 
-As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
+Als inleiding zou het goed zijn om jezelf vertrouwd te maken met GHST's [bonding curve](/curve) en hoe het werkt. Dan begint het plezier.
 
-**5%** of all GHST earned via portal and item sales will be burned. Forever. Yes, you read that right.
+**5%** van alle GHST verdiend via de portal en artikelverkoop zal worden verbrand. Voorgoed. Ja, dat hebt u goed gelezen.
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. That's a problem for tokens with a fixed supply.
+GHST is een token met een dynamisch aanbod. Het aanbod neemt toe met de vraag, wat betekent dat het verbrandingspercentage geen snelle deflatie van het token met zich meebrengt. Dat is een probleem voor tokens met een vast aanbod.
 
-Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
+GHST Verbranden is een deflatoir tegenwicht tegen de neerwaartse druk op de prijs van GHST. als potentieel veroorzaakt door het uitdelen van GHST gaming beloningen in de vorm van GHST.
 
-Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
+Het verzenden van GHST direct naar het brandadres blokkeert ook DAI binnen de bindcurve, waardoor een stijgende prijsvloer voor GHST wordt gecreëerd. Dit is netto positief voor alle partijen omdat het betere liquiditeit voor kopers en verkopers op de curve mogelijk maakt (minder slippage), verlaagt de circulerende aanbod, en biedt stabiliteit voor het [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
 ## BUIDL HET
 
-Last, but most definitely not least, **40%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
+Last but not least gaat **40%** van de inkomsten naar het ontwikkelingsteam toe. Per slot het is belangrijk om onze dev's te voeren om ervoor te zorgen dat ze zich kunnen richten op het bouwen van de beste DeFi x NFT ervaring voor iedereen hier.
 
-That said, we're all human here. Poorly-aligned incentives for protocol developers are a huge contributor to protocol failure, and is an issue Aavegotchi hopes to prevent.
+Dat gezegd hebbende, zijn we hier allemaal menselijk. Slecht afgestemde prikkels voor protocolontwikkelaars zijn een grote bijdrage aan het falen van het protocol, en is een probleem dat Aavegotchi hoopt te voorkomen.
 
-When protocol developers are paid for their work exclusively in the native token, they are forced to sell the token to pay for expenses, leading to selling pressure and a potential “spiral of death” scenario from which the token never recovers.
+Wanneer de ontwikkelaars van het protocol uitsluitend voor hun werk in het oorspronkelijke token worden betaald, worden ze gedwongen de token te verkopen om voor uitgaven te betalen, leidend tot de verkoop van druk en een potentieel ‘spiraal van de dood’ waarvan het token nooit meer terugkomt.
 
-However, if developers aren’t paid ANY native token, then incentives aren’t strongly aligned, leading to poor decisions being made.
+Echter, als ontwikkelaars in geen ENKELE eigen token worden betaald, dan worden prikkels niet sterk op elkaar afgestemd, wat leidt tot het nemen van slechte beslissingen.
 
-The Aavegotchi bonding curve solves this problem via a separation of concerns — our community-governed Tap mechanism distributes DAI from the reserve to Pixelcraft Studios (the lead developers of Aavegotchi) every month to ensure a working budget for active development.
+De Aavegotchi binding curve lost dit probleem op via een scheiding van zorgen - ons door de gemeenschap bestuurde Tap mechanisme distribueert DAI uit de reserve aan Pixelcraft Studios (de lead developers van Aavegotchi) om een werkend budget voor actieve ontwikkeling te waarborgen.
 
-Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
+Daarnaast ontvangt Pixelcraft ook 40% van alle GHST inkomsten, die voornamelijk worden gebruikt voor liquiditeitsstimulansen, cadeaus en andere promotionele activiteiten waarvoor GHST nodig is.
 
-**Final Words**
+**Laatste woorden**
 
-One of the best parts about the crypto-verse and why you constantly see the addition of new players is this – it’s not a zero sum game. There’s the chance for all of us to make gains together, especially in a DAO. The question is, how we can best bring that about. Understanding the tokenomics of a project provides us with a good starting point.
+Een van de beste onderdelen van het crypto-verse en waarom u voortdurend de toevoeging van nieuwe spelers ziet is dit - het is geen nulsomspel. Er is een kans voor ons allemaal om samen winst te maken, vooral in een DAO. De vraag is hoe we dat het beste kunnen realiseren. Het begrijpen van de tokenomics van een project geeft ons een goed uitgangspunt.
 
-Keep reading, and keep playing. See you on the moon soon, Aagent.
+Blijf lezen, en blijf spelen. Tot ziens binnenkort op de maan, Aagent.
 
 ## Historische wijzigingen
 
-The following table details the percentage changes in each category across Revenue Sharing versions:
+De volgende tabel geeft details over het percentage wijzigingen in elke categorie over de versies van Inkomstendeling:
 
 table_revenueSharing
 
