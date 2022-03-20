@@ -22,7 +22,7 @@ Deze pagina bevat gedetailleerde informatie over elke wearable die is bevestigd 
 
 Ontwerp van de wearables worden gedaan door [Xibot](/team#xibot) en ons team van [community aartists](/aartist). Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
 
-<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Weergaven" />
 
 Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
@@ -110,130 +110,130 @@ tabel_aaveWearablesTable
 
 ## Ethereum Thema Set
 
-The Ethereum-themed set is the last of three pre-Mainnet sets.
+De Ethereum Thema Set is de laatste van drie Mainnetsets.
 
-table_ethereumWearablesTable
+tafel_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+De Aagent Wearables Set is een beperkte editie set die wordt gegeven aan alle [Level 12 Aagenten](/missions) die alle 12 Aagent Missies hebben voltooid vóór de lancering van Aavegotchi op Mainnet. Foto's en hoeveelheid komen binnenkort!
 
-table_aagentWearablesTable
+tafel_aagentWearablesTable
 
 ## Wizard Wearables Set
 
-table_wizardWearablesTable
+tabel_wizardWearablesTable
 
 ## Boer Wearables Set
 
-table_farmerWearablesTable
+tabel_boer WearablesTable
 
 ## Kerstman Wearables Set
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+Een van onze vrienden stuurt per ongeluk 4000 LINK (~$50,000) naar het GHST Uitzet Contract. We hebben geld van onze gemeenschap bijeengebracht om hem te helpen. Iedereen die meer dan $20 aan ELKE ERC20 token aan SantaGotchi.eth heeft gedoneerd, zal een beperkte editie Santagotchi hoed uitgevouwen worden. Zie [hier](https://twitter.com/aavegotchi/status/1339738554906243072) voor meer informatie. Een foto voor de wearable zal binnenkort uit de lijst zijn! Andere voorwerpen van de Kerstman zullen ook binnenkort beschikbaar zijn.
 
-table_santaWearablesTable
+tafel_santaWearablesTable
 
 ## OKex Wearables
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+Op 7 oktober 2020 werkt Aavegotchi samen met OKex om een speciale set wearables te creëren geïnspireerd door Jay Hao, de CEO van OKex. Gelukkige deposanten die hun GHST tokens op het OKex platform storten, maakten kans om deze wearabels te winnen. 150 wearables zijn beschikbaar. De top 5 deposanten winnen automatisch de volledige 5 stuk. Maar de resterende 125 NFT's zullen willekeurig worden toegekend aan iedereen die meer dan 10 GHST deponeert. Zie [hier](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) voor meer informatie.
 
-table_okexWearablesTable
+tafel_okexWearablesTable
 
 ## Skater Wearables Set
 
-table_skaterWearablesTable
+tafel_skaterWearablesTable
 
 ## Sushi Wearables Set
 
-table_sushiWearablesTable
+tabel_sushiWearablesTable
 
 ## Gentleman Wearables Set
 
-table_gentlemanWearablesTable
+tafel_gentlemanWearablesTable
 
 ## Mijner Wearables Set
 
-table_minerWearablesTable
+tafel_minerWearablesTable
 
 ## Pajamas 's Wearables Set
 
-table_pajamasWearablesTable
+tafel_pajamasWearablesTable
 
 ## Runner Wearables Set
 
-table_runnerWearablesTable
+tafel_runnerWearablesTable
 
 ## Lady Wearables Set
 
-table_ladyWearablesTable
+tafel_ladyWearablesTable
 
 ## Hekselachtige Wearables Set
 
-table_witchyWearablesTable
+tafel_witchyWearablesTable
 
 ## Portal Wearables Set
 
-table_portalWearablesTable
+tafel_portalWearablesTable
 
 ## Rasta Wearables Set
 
-table_rastaWearablesTable
+tafel_rastaWearablesTable
 
 ## Hazmat Wearables Set
 
-table_hazmatWearablesTable
+tafel_hazmatWearablesTable
 
 ## Vakantie Wearables Set
 
-table_vacationWearablesTable
+tafel_vakantieWearablesTable
 
 ## Onafhankelijke Drink Items
 
-table_independentDrinksTable
+tafel_onafhankelijke DrinksTable
 
 ## Onafhankelijke Hoofd Items
 
-table_independentHeadTable
+tafel_onafhankelijke hoofdtafel
 
 ## Onafhankelijke Body Items
 
-table_independentBodyTable
+tafel_onafhankelijke BodyTable
 
 ## Verbruiksartikelen
 
-table_consumablesTable
+tafel_verbruiksartikelsTabel
 
 ## Layer 2 Thema Set
 
-The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+De Vierde Lotterij, vierde de lancering van Aavegotchi op [Polygon](/polygon).
 
-table_layer2WearablesTable
+tafel_layer2WearablesTable
 
 ## Veiling Wearables
 
-The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+De eerste "Bid-to-Earn Auction" werd gehouden van donderdag 15 juli tot zondag 18 juli 2021. Bid-to-earn veilingen worden aangedreven door de technologieën van onze rens bij GBM.auction. Leer waarom deze NFT distributiemethode enorme voordelen biedt ten opzichte van oudere modellen, door hun site te bezoeken en te lezen [ons gepubliceerde Medium stuk](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
 
-This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+Deze eerste Aauction bevat twee gloednieuwe sets wearables en een leuk nieuw common-rarity item. Bereid je voor op gamers, steampunks en zelfs een kopje koffie!
 
-table_auctionWearablesTable
+tafel_auctionWearablesTable
 
 ## Aavegotchi x Venly Wearables
 
-A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+Een samenwerking tussen Aavegotchi en Venly om Aavegotchi te introduceren aan een enorm NFT gaming publiek. Lees dit [bericht](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) voor meer informatie.
 
-table_venlyWearablesTable
+tafel_venlyWearablesTable
 
 ## Haunt 2 Wearables
 
-table_haunt2Table
+tafel_haunt2Tabel
 
 ## Partnerschappen Set
 
-The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+Het vijfde Lotterij is geïnspireerd op Aavegotchi's frenliliste partnerschappen.
 
-table_partnershipsTable
+tafel_partnershipsTable
 
 ## DeFi RPG Wearables
 
-table_DeFiRPGTable
+tafel_DeFiRPGTable
