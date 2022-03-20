@@ -166,6 +166,6 @@ Blijf lezen, en blijf spelen. Tot ziens binnenkort op de maan, Aagent.
 
 De volgende tabel geeft details over het percentage wijzigingen in elke categorie over de versies van Inkomstendeling:
 
-table_revenueSharing
+tabel_revenueDelen
 
-The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+De reden voor de wijzigingen van V1 naar V2 kan je vinden [hier](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
