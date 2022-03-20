@@ -61,7 +61,7 @@ tabel_machineElf
 
 ### Stonede Aap
 
-<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stoned Ape Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stonede Aap Aavegotchi"></a>
 
 tabel_stonedeAap
 
@@ -73,52 +73,52 @@ tabel_ayahuasca
 
 ### Klokwerk Elf
 
-<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Clockwork Elf Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Klokwerk Elf Aavegotchi"></a>
 
 tabel_clockworkElf
 
 ### Ongeopende Portaal 2
 
-Op 16 mei 2021 kondigt Pixelcraft aan dat ze een laatste lid toevoegen aan de Aastronauten Collectie. Ongeopend Portaal 2 is de derde laagste tokenID van Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
+Op 16 mei 2021 kondigt Pixelcraft aan dat ze een laatste lid toevoegen aan de Aastronauten Collectie. Ongeopend Portaal 2 is de derde laagste tokenID van Haunt 1. Pixelcraft Studios heeft het op de Baazaar voor 60.000 GHST aangeschaft, en het is al overgebracht naar Ethereum en gestort in de Aastronauten collectie.
 
-<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
+<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Ongeopend Portaal 2 Aavegotchi"></a>
 
 ## uGOTCHI Token
 
 <img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI Token" />
 
-The uGOTCHI Token allows token holders to have direct ownership of the Aastronauts. The total supply of the uGOTCHI token is fixed at 1,000,000. Hence, the amount of uGOTCHI tokens that you have represents the percentage of ownership over the entire Aastronauts collection.
+De uGOTCHI Token laat tokenhouders direct eigendom van de Aastronauten toe. Het totale aanbod van het uGOTCHI-token is vastgesteld op 1.000.000 euro. Vandaar het aantal uGOTCHI tokens dat je hebt vertegenwoordigt het percentage van eigendom over de hele Aastronauten collectie.
 
-The uGOTCHI Token is a good way for people who are interested to get exposure to a collection of rare Gotchis. For those who do not have the time to own and care for a Gotchi, the uGOTCHI token is a passive way to invest in a very good set of Aavegotchis for price appreciation. Of course, with every investment, this comes with risk of loss as well.
+De uGOTCHI Token is een goede manier voor mensen die graag worden blootgesteld aan een verzameling zeldzame Gotchis. Voor degenen die geen tijd hebben om een Gotchi te bezitten en te verzorgen is de uGOTCHI token een passieve manier om te investeren in een zeer goede set Aavegotchis voor prijswaardering. Natuurlijk brengt dat bij elke investering ook het risico van verlies met zich mee.
 
-Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
+Klik [hier](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) om de uGOTCHI collectie op Unicly te bekijken.
 
 ## Waardering
 
-On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+Op 18 mei 2021 kondigt Pixelcraft aan dat beoordelaars hun beoordeling van de Aastronauten in de uGOTCHI collectie hebben afgerond. Met behulp van een ETH-prijs van $3.550,00 gaven de beoordelaars de collectie aan voor 258,04 ETH of USD $916,042,00. De waarderingen van de individuele leden van de collectie zijn terug te vinden in de tabel hieronder.
 
-table_valuation
+tabel_waardering
 
-The following points of consideration were made to the Appraisers:
+De vraagstellers hebben de volgende punten in overweging genomen:
 
-1. Each Aavegotchi is an ERC-721. Each wearable that is equipped is also a collectible ERC-1155.
+1. Elke Aavegotchi is een ERC-721. Elke wearable die is uitgerust is ook een verzamelbare ERC-1155.
 
-2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (currently going for 1.34 each). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. Al deze NFT's worden verhandeld op de [Baazaar](/baazaar) en worden geprijsd in GHST (momenteel voor 1.34 per stuk). Ik adviseer ten zeerste om de filters te gebruiken en de prijzen te verkennen. Je kunt sommige van de meest spannende verkopen ook vinden door de fan-onderhouden [Aavegotchistats](https://twitter.com/GotchiStats) op Twitter te volgen.
 
-3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
+3. Godlike wearables zijn de zeldzaamste met slechts 5 in totaal. Hierna volgen Mythicals. De Gotchis in de Unieke collectie draagt allemaal meerdere Godlikes en Mythicals.
 
-4. These 5 Aavegotchis are called the Aastronauts because they are the first gotchis to be bridged to Ethereum.
+4. Deze 5 Aavegotchis worden Aastronauten genoemd omdat zij de eerste gotchis zijn die naar Ethereum werden gebracht.
 
-5. The Unopened Portal is the first portal to be bridged to Ethereum. It also has an extremely low ID (#2).
+5. Het ongeopende portaal is het eerste portaal dat naar Ethereum wordt overbrugd. Het heeft ook een extreem lage ID (#2).
 
-6. The Aavegotchi ecosystem is large and growing with over 30 million DAI deposited in the GHST [token bonding curve](/curve). The [AavegotchiDAO](/dao) has accumulated 1 million+ in the DAO treasury so far. There are more than 30k followers on Twitter and 10k active members in Discord. In addition, the Baazaar NFT market has significant and consistent volume. Aavegotchi typically ranks in the Top 10 on Analytics sites such as [DappRadar](https://dappradar.com/).
+6. Het Aavegotchi ecosysteem is groot en groeit met meer dan 30 miljoen DAI geplaatst in de GHST [token bonding curve](/curve). De [AavegotchiDAO](/dao) heeft tot nu toe 1 miljoen + verzameld in de schatkist van de DAO. Er zijn meer dan 30k volgers op Twitter en 10k actieve leden in Discord. Bovendien heeft de Baazaar NFT-markt een aanzienlijke en consistente omvang. Aavegotchi staat meestal op de Top 10 op Analytics-sites zoals [DappRadar](https://dappradar.com/).
 
-7. When Aavegotchi first launched their 10,000 Portals in March 2021, they were sold out in less than a minute.
+7. Toen Aavegotchi voor het eerst hun 10.000 Portals lanceerde in maart 2021, werden ze in minder dan een minuut verkocht.
 
-8. The Aastronauts are continually farming GHST tokens directly into their "NFT wallet" feature by winning Rarity Farming rewards every two weeks. (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
+8. De Aastronauten accumuleren voortdurend GHST tokens rechtstreeks in hun "NFT wallet" door het Rarity Farming beloningen om de twee weken te winnen. (Alleen Terence McKenna zit op schema om 40.000 GHST te verdienen voor midden juni). Dit is cruciaal omdat de beloningen niet naar een of andere externe portemonnee gaan, maar rechtstreeks in elke Aavegotchi worden gestort volgens hun zeldzaamheidsscores. Terence McKenna is de leider van deze collectie en is op dit moment de 4e zeldzaamste van alle Aavegotchis die bestaat.
 
 ## Uitbreiding van de uGOTCHI Collectie
 
-On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+Op 8 oktober 2021 hebben 2 van de grootste uGOTCHI-eigenaren voor de sluiting van de uGOTCHI-kluis gestemd en de Gotchis binnenin vrijgelaten. Een externe aanbieder kan een ETH-aanbod voor de gotchis doen. Op het moment dat de kluis wordt geliquideerd, zal de hoogste bieder voor elke andere gotchi in staat zijn om de NFT en uGOTCHI token eigenaren in aanmerking te laten komen om hun pro rata deel van de verkoopprocedures te claimen.
 
-For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+Voor meer informatie, bekijk dit [bericht](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
