@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'uGOTCHI Collection'
-description: 'uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly'
+title: 'uGOTCHI Collectie'
+description: 'uGOTCHI collectie - Een set zeldzame Aavegotchis die is gefragmenteerd/gedeeld door Unicly'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -12,74 +12,74 @@ contributors:
 <p class="headerImageText">Terence McKenna</p>
 </div>
 
-"Sir. It has been a pleasure to get to know you."
+"Heer. Het was een genoegen u te leren kennen."
 
-The Gotchi Minister salutes Terence McKenna and his team.
+De minister van Gotchi huldigt Terence McKenna en zijn team.
 
-The team took one last look at the beautiful world of Polygon before stepping into the spacecraft.
+Het team heeft een laatste blik op de mooie wereld van Polygon geworpen voordat het schip binnentreedt.
 
-On 15 April 2021, history was made. Captain Terence McKenna and his team successfully crossed Polygon into the New World of Ethereum.
+Op 15 april 2021 werd er geschiedenis geschreven. Kapitein Terence McKenna en zijn team zijn erin geslaagd om van Polygon in de Nieuwe Wereld van Ethereum te gaan.
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#the-aastronauts>The Aastronauts</a></li>
+<li><a href=#the-aastronauts>De Aastronauten</a></li>
 <p><a href=#terence-mckenna>Terence McKenna</a></p>
 <p><a href=#machine-elf>Machine Elf</a></p>
-<p><a href=#stoned-ape>Stoned Ape</a></p>
+<p><a href=#stoned-ape>Stonede Aap</a></p>
 <p><a href=#ayahuasca>Ayahuasca</a></p>
-<p><a href=#clockwork-elf>Clockwork Elf</a></p>
-<p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
+<p><a href=#clockwork-elf>Klokwerk Elf</a></p>
+<p><a href=#unopened-portal-2>Ongeopende Portaal 2</a></p>
 <li><a href=#ugotchi-token>uGOTCHI Token</a></li>
-<li><a href=#valuation>Valuation</a></li>
-<li><a href=#buyout-of-the-ugotchi-collection>Buyout of the uGOTCHI Collection</a></li>
+<li><a href=#valuation>Waardering</a></li>
+<li><a href=#buyout-of-the-ugotchi-collection>Uitbreiding van de uGOTCHI Collectie</a></li>
 </ol>
 
 </div>
 
-## The Aastronauts
+## De Aastronauten
 
-The Aastronauts are a collection of **5 rare Aavegotchis** and **1 rare Unopened [Portal](/portals)** that have been fractionalized/sharded through [Unicly](https://www.unic.ly/). The team is led by Terence McKenna.
+De Aastronauten zijn een collectie van **5 zeldzame Aavegotchis** en **1 zeldzame Ongeopende [Portalen](/portals)** die gesplitst zijn door [Unicly](https://www.unic.ly/). Het team wordt geleid door Terence McKenna.
 
-The Aastronauts are participants in [Rarity Farming](/rarity-farming) and would receive rarity farming rewards as well. Unfortunately, as no one is petting these Gotchis, their [Kinship](/traits#kinship) level is dropping. In the future, a pet operator can be assigned to pet these Gotchis.
+De Aastronauten zijn deelnemer in [Rarity Farming](/rarity-farming) en zouden ook rarity farming beloningen ontvangen. Helaas, omdat niemand deze Gotchis aan het petten is, daalt hun [Kinship](/traits#kinship) niveau. In de toekomst kan een huisdierenoperator deze Gotchis worden toegewezen.
 
-Clicking on the image of an Aastronaut will bring you to its [profile page](/aavegotchi-profile).
+Door te klikken op de afbeelding van een Aastronaut brengt u naar de [profielpagina](/aavegotchi-profile).
 
 ### Terence McKenna
 
 <a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "Terence McKenna Aavegotchi"></a>
 
-table_terenceMckenna
+tabel_terenceMckenna
 
 ### Machine Elf
 
 <a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "Machine Elf Aavegotchi"></a>
 
-table_machineElf
+tabel_machineElf
 
-### Stoned Ape
+### Stonede Aap
 
 <a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stoned Ape Aavegotchi"></a>
 
-table_stonedApe
+tabel_stonedeAap
 
 ### Ayahuasca
 
 <a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "Ayahuasca Aavegotchi"></a>
 
-table_ayahuasca
+tabel_ayahuasca
 
-### Clockwork Elf
+### Klokwerk Elf
 
 <a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Clockwork Elf Aavegotchi"></a>
 
-table_clockworkElf
+tabel_clockworkElf
 
-### Unopened Portal 2
+### Ongeopende Portaal 2
 
-On 16 May 2021, Pixelcraft announces that they are adding a final member to the Aastronauts Collection. Unopened Portal 2 is the third lowest tokenID of Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
+Op 16 mei 2021 kondigt Pixelcraft aan dat ze een laatste lid toevoegen aan de Aastronauten Collectie. Ongeopend Portaal 2 is de derde laagste tokenID van Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
 
 <a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
 
@@ -93,7 +93,7 @@ The uGOTCHI Token is a good way for people who are interested to get exposure to
 
 Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
 
-## Valuation
+## Waardering
 
 On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
 
@@ -117,7 +117,7 @@ The following points of consideration were made to the Appraisers:
 
 8. The Aastronauts are continually farming GHST tokens directly into their "NFT wallet" feature by winning Rarity Farming rewards every two weeks. (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
 
-## Buyout of the uGOTCHI Collection
+## Uitbreiding van de uGOTCHI Collectie
 
 On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
 
