@@ -44,28 +44,28 @@ Dit deel van de wiki brengt je eerst door de token distributie van GHST, en verv
 
 ## Token Verdeling
 
-GHST werd in drie fasen verspreid. These were the private sale, pre-sale and public bonding curve sale.
+GHST werd in drie fasen verspreid. Deze waren de private verkoop, de voorverkoop en de publieke verkoop via de bonding curve.
 
 
-**The Private Sale**
+**De Private Verkoop**
 
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
-
-
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+Grootte: 5,000,000 GHST Prijs: 0,05 DAI / GHST
 
 
-**The Pre-Sale**
+De private verkoop vond plaats in augustus 2020. Iedereen die KYC heeft uitgevoerd en een minimum van 20 k DAI heeft, kan lid worden. De middelen die tijdens deze ronde naar voren zijn gebracht zijn toegewezen aan Pixelcraft Studios, het bedrijf achter Aavegotchi, om te zorgen voor een succesvolle ontwikkeling van het Aavegotchi-spel.
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+**De Voorverkoop**
 
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+Grootte: 500.000 GHST Prijs: 0,1 DAI / GHST
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+De GHST Voorverkoop werd gehouden op 14 september 2020, met een tijdslimiet van veertien dagen of wanneer het aanbod werd verkocht, ongeacht het moment dat het op de eerste plaats kwam. Alle Niveau 6 Aagenten die op de genoemde datum KYC hadden uitgevoerd, kwamen in dit stadium in aanmerking om GHST te kopen.
 
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+Om de verkoop te doen werd destijds een momentopname van alle niveau 6 Aagenten gemaakt. Vervolgens werd dit gecontroleerd door degenen die de KYC hebben uitgevoerd. Vervolgens is een speciale badge “Geverifieerd niveau 6” toegewezen aan alle deelnemers die in aanmerking komen voor de Discord. Deze deelnemers werden vervolgens toegevoegd aan een speciaal discord kanaal, waar links naar de voorverkoop werden geplaatst.
+
+De middelen die hier ter beschikking werden gesteld, werden gebruikt voor bootstrap liquiditeit in de reserve Token Bonding Curve pool, tegen een reserveratio van 100 procent.
+
+Deelnemers van de Private Verkoop en Voorverkoop zullen hun GHST-tokens voor een jaar laten berusten beginnend bij het sluiten van de Voorverkoop ronde. Na 180 dagen wordt een eerste uitgave vrijgegeven die overeenkomt met ongeveer 50 procent van het totale bedrag, gevolgd door een drip release van de resterende tokens in de komende 185 dagen.
 
 For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
