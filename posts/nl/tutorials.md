@@ -119,7 +119,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Deeelnemen aan Lotterij 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Deeelnemen aan Lotterij 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer hoe je [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) gebruikt om je kansen te berekenen om te winnen
 * Leer hoe je GHST tokens op Polygon kunt staken
@@ -138,7 +138,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Volledige handleiding voor het kopen van Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Volledige handleiding voor het kopen van Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer meer over Aavegotchis en Lickquidators
 * Meer informatie over REALM parcelen
@@ -146,7 +146,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 * Leer wat u kunt doen met uw REALM parcelen
 * Leer hoe je een REALM parceel kunt kopen
 
-### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Meer informatie over REALM parcelen
 * Leer over Gotchus Alchemica
@@ -154,14 +154,14 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 * Leer hoe u de Veiling kaart kunt navigeren
 * Meer informatie over veiling strategieën
 
-### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer meer over Eigenschappen
 * Leer meer over de Bell Curve
 * Meer informatie over de invloed van Wearables op Eigenschappen
 * Meer informatie over welke gemeenschapsmiddelen beschikbaar zijn
 
-### Een Aavegotchi kopen <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Een Aavegotchi kopen <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer hoe je een Aavegotchi op de Baazaar kunt kopen
 * Leer hoe je een geopend of een gesloten portaal kunt kopen op de Baazaar
