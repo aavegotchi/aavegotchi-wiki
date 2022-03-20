@@ -2,8 +2,8 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
-image: "wearables/sergey-blue.png"
+description: 'Alles over Aavegotchi Wearables'
+image: "wearabelen/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
   - "unintelligent-nerd"
@@ -11,22 +11,22 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/wearables/sergey-blue.png">
-<p class="headerImageText">The Sergey Blue Plaid</p>
+<p class="headerImageText">Het Blauwe Sergey Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Wearables zijn een belangrijk onderdeel van het Aavegotchi spel. Naast het verstevigen van uw Aavegotchi met wat fashion, verhogen de wearables ook de eigenschappen en de zeldzaamheidsscore, zodat ze beter kunnen presteren in [mini-games](/minigames), evenals in [rarity farming](/rarity-farming).
 
-Wearables conform to the ERC-1155 standard.
+Wearables voldoen aan de ERC-1155 standaard.
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
+Deze pagina bevat gedetailleerde informatie over elke wearable die is bevestigd in het Aavegotchi spel.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+Ontwerp van de wearables worden gedaan door [Xibot](/team#xibot) en ons team van [community aartists](/aartist). Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
-For information on **Wearable Sets**, check out this [page](/sets)!
+Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
-*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+*Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Bandieten](/baadge) en de Haunt 1 achtergrond.*
 
 <div class="contentsBox">
 
