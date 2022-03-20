@@ -26,89 +26,89 @@ Ontwerp van de wearables worden gedaan door [Xibot](/team#xibot) en ons team van
 
 Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
-*Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Bandieten](/baadge) en de Haunt 1 achtergrond.*
+*Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Baadges](/baadge) en de Haunt 1 achtergrond.*
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#key>Key</a></li>
-<li><a href=#voting-power>Voting Power</a></li>
-<li><a href=#link-themed-set>LINK Themed Set</a></li>
-<li><a href=#aave-themed-set>Aave Themed Set</a></li>
-<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
+<li><a href=#key>Sleutel</a></li>
+<li><a href=#voting-power>Stemkracht</a></li>
+<li><a href=#link-themed-set>LINK Thema Set</a></li>
+<li><a href=#aave-themed-set>Aave Thema Set</a></li>
+<li><a href=#ethereum-themed-set>Ethereum Thema Set</a></li>
 <li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
 <li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
-<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
-<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
+<li><a href=#farmer-wearables-set>Boer Wearables Set</a></li>
+<li><a href=#santa-wearables-set>Kerstman Wearables Set</a></li>
 <li><a href=#okex-wearables>OKex Wearables</a></li>
 <li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
 <li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
 <li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
-<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
-<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Mijner Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas 's Wearables Set</a></li>
 <li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
 <li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
-<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#witchy-wearables-set>Hekselachtige Wearables Set</a></li>
 <li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
 <li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
 <li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
-<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
-<li><a href=#independent-drink-items>Independent Drink Items</a></li>
-<li><a href=#independent-head-items>Independent Head Items</a></li>
-<li><a href=#independent-body-items>Independent Body Items</a></li>
-<li><a href=#consumables>Consumables</a></li>
-<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
-<li><a href=#auction-wearables>Auction Wearables</a></li>
+<li><a href=#vacation-wearables-set>Vakantie Wearables Set</a></li>
+<li><a href=#independent-drink-items>Onafhankelijke Drink Items</a></li>
+<li><a href=#independent-head-items>Onafhankelijke Hoofd Items</a></li>
+<li><a href=#independent-body-items>Onafhankelijke Body Items</a></li>
+<li><a href=#consumables>Verbruiksartikelen</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Thema Set</a></li>
+<li><a href=#auction-wearables>Veiling Wearables</a></li>
 <li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
-<li><a href=#partnerships-set>Partnerships Set</a></li>
+<li><a href=#partnerships-set>Partnerschappen Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 </ol>
 
 </div>
 
-## Key
+## Sleutel
 
-Aavegotchis have four traits that can be modified by wearables.
+Aavegotchis hebben vier eigenschappen die door wearabels kunnen worden gewijzigd.
 
-* AGG = Aggressiveness
-* NRG = Energy
+* AGG = Agressiviteit
+* NRG = Energie
 * SPK = Spookiness
-* BRN = Brain Size
+* BRN = Hersengrootte
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+De eigenschappen van "Oog Kleur" en "Oog Shape" kunnen niet worden gewijzigd door wearables.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+*Opmerking: Negatieve waarden betekenen niet dat de eigenschap "zwakker" wordt. Aavegotchi eigenschappen worden verdeeld op een bell curve, dus de extremen (0,1) en (99,100) zijn eigenlijk de beste!*
 
-See [Traits](/traits) for more about this topic.
+Zie [Eigenschappen](/traits) voor meer over dit onderwerp.
 
 ## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
 
-Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
+Wearables kunnen op elk moment worden uitgerust of uitgedaan. Uitrustende wearables kunnen invloed hebben op de [algehele zeldzaamheid](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) van een Aavegotch:
 
-table_wearablesBRStable
+tabel_wearablesBRStabiel
 
-## Voting Power
+## Stemkracht
 
-With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+Met het passeren van [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price)hebben wearables nu stemrecht in AavegotchiDAO. Het stemvermogen (gemeten in GHST) van een bepaalde wearable is gebaseerd op het Rarity Type/[Maall](/maall) prijs.
 
-table_wearablesVotingPower
+tabel_wearablesVotingPower
 
-## LINK Themed Set
+## LINK Thema Set
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+Gedistribueerd via een exclusieve, beperkte editie Lotterij in november 2020, vierden we met de wearables van de LINK-themer Aavegotchi partnerschap met Chainlink, specifiek ons gebruik van Chainlink VRF om ervoor te zorgen dat Aavegotchis controleerbare, aantoonbaar willekeurige eigenschappen heeft.
 
-table_linkWearablesTable
+tabel_linkWearablesTable
 
-## Aave Themed Set
+## Aave Thema Set
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+De 'Aave-themed' wearables werden verdeeld in de tweede van drie eerdere Lotterijen die op 8 december 2020 werd gehouden. Deze aavesome bijeenkomst viert de band tussen Aavegotchi en het Aave community en het leiderschap team.
 
-table_aaveWearablesTable
+tabel_aaveWearablesTable
 
-## Ethereum Themed Set
+## Ethereum Thema Set
 
 The Ethereum-themed set is the last of three pre-Mainnet sets.
 
@@ -124,11 +124,11 @@ table_aagentWearablesTable
 
 table_wizardWearablesTable
 
-## Farmer Wearables Set
+## Boer Wearables Set
 
 table_farmerWearablesTable
 
-## Santa Wearables Set
+## Kerstman Wearables Set
 
 One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
@@ -152,11 +152,11 @@ table_sushiWearablesTable
 
 table_gentlemanWearablesTable
 
-## Miner Wearables Set
+## Mijner Wearables Set
 
 table_minerWearablesTable
 
-## Pajamas Wearables Set
+## Pajamas 's Wearables Set
 
 table_pajamasWearablesTable
 
@@ -168,7 +168,7 @@ table_runnerWearablesTable
 
 table_ladyWearablesTable
 
-## Witchy Wearables Set
+## Hekselachtige Wearables Set
 
 table_witchyWearablesTable
 
@@ -184,33 +184,33 @@ table_rastaWearablesTable
 
 table_hazmatWearablesTable
 
-## Vacation Wearables Set
+## Vakantie Wearables Set
 
 table_vacationWearablesTable
 
-## Independent Drink Items
+## Onafhankelijke Drink Items
 
 table_independentDrinksTable
 
-## Independent Head Items
+## Onafhankelijke Hoofd Items
 
 table_independentHeadTable
 
-## Independent Body Items
+## Onafhankelijke Body Items
 
 table_independentBodyTable
 
-## Consumables
+## Verbruiksartikelen
 
 table_consumablesTable
 
-## Layer 2 Themed Set
+## Layer 2 Thema Set
 
 The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
 
 table_layer2WearablesTable
 
-## Auction Wearables
+## Veiling Wearables
 
 The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
 
@@ -228,7 +228,7 @@ table_venlyWearablesTable
 
 table_haunt2Table
 
-## Partnerships Set
+## Partnerschappen Set
 
 The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
 
