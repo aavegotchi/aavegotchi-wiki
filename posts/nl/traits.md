@@ -1,41 +1,41 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+title: 'Eigenschappen'
+description: 'Alles wat je moet weten over Aavegotchi Eigenschappen!'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
   - "unintelligent-nerd"
 ---
 
-Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+Aavegotchis worden geboren met eigenschappen. Net als hoe je eigenschappen definieert wie je bent als persoon, zijn de eigenschappen van Aavegotchi ook belangrijk voor het bepalen van hun levensonderhoud als spook! Deze meerdere eigenschappen hebben invloed op hun [Trait Base Rarity](/rarity-farming#base-rarity-score), hun prestaties in [mini-games](/minigames), en de [wearables](/wearables) die ze mogen dragen. Aavegotchis opgeroepen door [portalen](/portals) worden geboren met een combinatie van willekeurig gegenereerde eigenschappen. De eigenschappen van de Aavegotchi kunnen echter veranderen met <a href=#level>niveau</a>, uitgeruste wearables en verbruiksartikelen gebruikt. 
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
-<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
+<li><a href=#randomly-generated-traits>Willekeurig Gegenereerde Eigenschappen </a></li>
+<li><a href=#spirit-force-trait-modifiers>Spirit Force Eigenschappen Modifiers</a></li>
 <li><a href=#kinship>Kinship</a></li>
-<li><a href=#experience>Experience</a></li>
+<li><a href=#experience>Ervaring</a></li>
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Aging Mechanic</a></li>
+<li><a href=#aging-mechanic>Aging Mechanisme</a></li>
 </ol>
 
 </div>
 
-## Randomly Generated Traits
-Aavegotchis have six traits:
+## Willekeurig Gegenereerde Eigenschappen
+Aavegotchis hebben zes eigenschappen:
 
-* AGG = Aggressiveness
-* NRG = Energy
+* AGG = Agressiviteit
+* NRG = Energie
 * SPK = Spookiness
-* BRN = Brain Size
-* EYS = Eye Shape
-* EYC = Eye Color
+* BRN = Hersengrootte
+* EYS = Oogvorm
+* EYC = Oogkleur
 
 Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
 
@@ -59,7 +59,7 @@ table_TraitsByRarity1 table_TraitsByRarity2
 
 For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
 
-## Spirit Force Trait Modifiers
+## Spirit Force Eigenschappen Modifiers
 
 The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
 
@@ -68,7 +68,7 @@ table_spiritForceModifiers
 ## Kinship
 Kinship is your Aavegotchi’s feeling of loyalty towards you. More information can be found on the [Kinship page](/kinship).
 
-## Experience
+## Ervaring
 Aavegotchis receive experience (XP) for:
 * Voting in [AavegotchiDAO](/dao)
 * Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
@@ -94,7 +94,7 @@ Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the 
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
 
-## Aging Mechanic
+## Aging Mechanisme
 
 [Aavegotchi verbeteringsvoorstel](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduceerde een aging mechanic voor Aavegotchis.
 
