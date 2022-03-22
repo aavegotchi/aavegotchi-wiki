@@ -41,7 +41,9 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 <li><a href=#full-guide-to-buying-land>Volledige handleiding voor het kopen van Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Veiling Gids</a></li>
 <li><a href=#traits---bell-curve-explained>Eigenschappen & Bell Curve uitgelegd</a></li>
-<li><a href=#buying-an-aavegotchi>Een Aavegotchi kopen</a></li>
+<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
+<li><a href=#buying-an-aavegotchi--article->Buying an Aavegotchi (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 </ul>
 
 </div>
@@ -146,6 +148,8 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 * Leer wat u kunt doen met uw REALM parcelen
 * Leer hoe je een REALM parceel kunt kopen
 
+<hr />
+
 ### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Meer informatie over REALM parcelen
@@ -154,6 +158,8 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 * Leer hoe u de Veiling kaart kunt navigeren
 * Meer informatie over veiling strategieën
 
+<hr />
+
 ### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer meer over Eigenschappen
@@ -161,8 +167,31 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 * Meer informatie over de invloed van Wearables op Eigenschappen
 * Meer informatie over welke gemeenschapsmiddelen beschikbaar zijn
 
-### Een Aavegotchi kopen <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+<hr />
+
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Leer hoe je een Aavegotchi op de Baazaar kunt kopen
 * Leer hoe je een geopend of een gesloten portaal kunt kopen op de Baazaar
 * Leer hoe je je Aavegotchi oproept van een geopend portaal
+
+<hr />
+
+### Buying an Aavegotchi (Article)
+Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+
+* Learn about the GHST token
+* Learn what the token could be used for
+* Learn where to buy GHST
+
+<hr />
+
+### Participating in AavegotchiDAO (Article)
+Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+
+* Learn about the AavegotchiDAO Forum
+* Learn how to create Signal Proposals
+* Learn how Signal Proposals Become Core Proposals
+* Learn about the different types of Core Proposals
+* Learn about Vote Differential
+* Learn how to Vote
