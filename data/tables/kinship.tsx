@@ -29,6 +29,24 @@ export const tables
 					["Scorned", "0-10"]
                 ]
             }
+        },
+		{
+            tableName: "alchemicaReceivedPerChanneling",
+            tableCaption: "",
+            tableData: {
+                headers: ["Kinship", "Modifier"],
+                data: [
+                    ["25", "0"],
+					["50", "1.00x"],
+					["100", "1.41x"],
+					["200", "2.00x"],
+					["500", "3.16x"],
+					["1,000", "4.47x"],
+					["2,000", "6.32x"],
+					["5,000", "10.00x"],
+					["10,000", "14.14x"]
+                ]
+            }
         }
     ]
 
