@@ -41,7 +41,9 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
 <li><a href=#traits---bell-curve-explained>Giải Thích về Trait và Bell Curve</a></li>
-<li><a href=#buying-an-aavegotchi>Mua Aavegotchi</a></li>
+<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
+<li><a href=#buying-an-aavegotchi--article->Buying an Aavegotchi (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 </ul>
 
 </div>
@@ -146,6 +148,8 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Học về các hoạt động có thể thực hiện đối với những gói đất REALM
 * Học cách mua gói đất REALM
 
+<hr />
+
 ### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Học về gói đất REALM
@@ -154,6 +158,8 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Tìm hiểu cách định vị bản đồ Đấu Giá
 * Tìm hiểu các chiến thuật Đấu Giá
 
+<hr />
+
 ### Giải Thích về Trait và Bell Curve <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Tìm hiểu về Trait
@@ -161,8 +167,31 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 * Tìm hiểu về Trang phục ảnh hướng đến Trait
 * Tìm hiểu về những nguồn tài nguyên cộng đồng đang có
 
-### Mua Aavegotchi <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+<hr />
+
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Tìm hiểu về cách mua Aavegotchi trên Baazaar
 * Tìm hiểu về cách mua cổng mở hoặc chưa mở trên Baazaar
 * Tìm hiểu về cách triệu hồi Aavegotchi từ portal đã mở
+
+<hr />
+
+### Buying an Aavegotchi (Article)
+Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+
+* Learn about the GHST token
+* Learn what the token could be used for
+* Learn where to buy GHST
+
+<hr />
+
+### Participating in AavegotchiDAO (Article)
+Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+
+* Learn about the AavegotchiDAO Forum
+* Learn how to create Signal Proposals
+* Learn how Signal Proposals Become Core Proposals
+* Learn about the different types of Core Proposals
+* Learn about Vote Differential
+* Learn how to Vote
