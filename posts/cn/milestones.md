@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Gotchi Lending is coming soon!](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
+* Gotchi Lending is coming out on 28 March!
+* Gotchi owners can now trustlessly lend out their Gotchis to other players for a set duration
+<p></p>
+
 ## [Aavegotchi February Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
 * February was another action-packed month for #GotchiGang
 * GHST listing on Aave, Rarity Farming Season 3, Gotchiverse Stress Test #3, and moar!
