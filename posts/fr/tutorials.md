@@ -42,7 +42,7 @@ Nous avons préparé des tutoriels (articles et vidéos) pour vous aider à dém
 <li><a href=#aavegotchi--land-auction-guide>Guide pour enchérir sur des parcelles</a></li>
 <li><a href=#traits---bell-curve-explained>Détail des caractéristiques (Bell Curve)</a></li>
 <li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
-<li><a href=#buying-an-aavegotchi--article->Buying an Aavegotchi (Article)</a></li>
+<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 </ul>
 
@@ -177,7 +177,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Buying an Aavegotchi (Article)
+### Buying GHST token (Article)
 Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
 
 * Learn about the GHST token
