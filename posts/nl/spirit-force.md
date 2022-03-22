@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Spirit Force'
-description: 'All about Aavegotchi Spirit Force'
+description: 'Alles over Aavegotchi Spirit Force'
 image: "spirit-force/aETH.svg"
 contributors:
   - "unintelligent-nerd"
@@ -10,86 +10,86 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/spirit-force/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">De aETH aToken</p>
 </div>
 
-Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+Elke Aavegotchi wordt aangedreven door Spirit Force. Bij het openen van een [portaal](/portals)moet de oproer (jij!) je Gotchi imponeren met Spirit Force om je nieuw gevonden vriend naar het leven te roepen!
 
-So what exactly is Spirit Force?
+Dus wat is Spirit Force?
 
-Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
+Spirit Force zijn interest genererende tokens die zijn ingebed in je Aavegotch! Dit maakt je Aavegotchi steeds waardevoller na verloop van tijd!
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
+In Aavegotchi, de termen "Spirit Force", "Collateral", "aTokens", "maTokens" en "amTokens" betekenen hetzelfde ding. Verwarrend? Bekijk deze [geschiedenispagina](/spirit-force-history) voor meer informatie.
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
+Deze pagina geeft u nuttige informatie over wat de beschikbare tokens zijn en hoe u ze ontvangt.
 
-Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+Houd er rekening mee dat je uiteindelijk **maTokens/amTokens** nodig hebt om je Gotchis op Polygon op te roepen. Er zijn verschillende manieren om tokens te krijgen zonder aTokens te hoeven doorlopen. Maar ter wille van de representativiteit leggen we uit hoe we hier aTokens kunnen krijgen.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#about>About</a></li>
+<li><a href=#about>Over</a></li>
 <li><a href=#stablecoins>Stablecoins</a></li>
 <li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
+<li><a href=#getting-atokens>Verkrijg aTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Converteren van aTokens naar maTokens</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Verschillen tussen maTokens en amTokens</a></li>
 </ol>
 
 </div>
 
-## About
+## Over
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+Terwijl het onderliggende activum wordt geleend aan leners wint aTokens rente in realtime in je portemonnee! Serieus, u kunt uw saldo elke minuut zien groeien.
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokens kunnen worden geclassificeerd in een van de twee categorieën: (1) cryptocurrencies, of (2) stablecoins. Cryptocurrencies zijn digitale of virtuele valuta die worden beveiligd door cryptografie. Veel cryptovaluta's zijn gedecentraliseerde netwerken gebaseerd op blockchain-technologie — een gedistribueerd grootboek dat wordt afgedwongen door een verschillend netwerk van computers. Stablecoins zijn een klasse cryptovaluta's die probeert prijsstabiliteit te bieden door te worden gekoppeld aan een externe referentie zoals de US Dollar (USD). Het onderliggende mechanisme van peggen verschilt van stablecoins, met elk een eigen risicoprofiel.
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+De volgende [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies en stablecoins) zijn beschikbaar op het Aave Protocol. De *Ondersteund door Aavegotchi* kolom geeft aan of een bepaalde aToken beschikbaar zal zijn voor Aavegotchi gameplay. Lijst met ondersteunde aTokens is niet voltooid; er zullen twitter stemmen/DAO stemmen zijn om meer aTokens aan Aavegotchi gameplay toe te voegen op basis van de vraag van de speler.
 
 ## Stablecoins
 
-table_stablecoins
+tabel_stablecoins
 
 ## Cryptocurrencies
 
 table_cryptocurrencies
 
-## Getting aTokens
+## Verkrijg aTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
+*De volgende stappen worden genomen van de [Zero to Held Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) van Aave Medium. Voor het gemak van de lezer is het hier gerepliceerd.*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1). Ga naar het <a href = "https://app.aave.com/">Aave Protocol</a> om te beginnen!
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2). Hier hebt u enkele opties om uw crypto-wallet te koppelen, afhankelijk van het type portemonnee dat u hebt:
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3). Voordat u het Aave Protocol kunt gebruiken, wilt u crypto activa hebben. De lijst met beschikbare crypto-activa wordt weergegeven in de <a href=#stablecoins>Stablecoins</a> en de <a href=#cryptocurrencies>Cryptocurrencies</a> secties hierboven.
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+Als u geen crypto bezit, maar u wilt meedoen aan het plezier, moet u uw fiat valuta (normaal geld, zoals dollars, euro's, enz.) omwisselen in een cryptografisch goed (zoals een van de hierboven).
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+Gelukkig voor u, Aave introduceerde onlangs een fiat voor crypto onramp waar u crypto activa rechtstreeks kunt kopen in de Aave Protocol applicatie! Nu kun je Transak of Ramp Instant gebruiken om direct de activa van je keuze te kopen met een creditcard of debitkaart of bankoverschrijving in slechts een paar minuten (zie hieronder).
 
 <img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4). Zodra u uw portemonnee hebt aangesloten op het platform, kunt u een asset storten in het Aave Protocol. Wanneer u klikt op "storting", toont de interface wat u beschikbaar hebt in uw portemonnee om te storten. Je selecteert vervolgens het activum dat je wilt storten, kies hoeveel je wilt storten, en daarna voila！! *Opmerking: er zal een "goedkeuring" transactie zijn voordat de feitelijke stortingstransactie plaatsvindt. Dit is om toestemming te verlenen aan het depositcontract om het specifieke activum dat u aan het storten bent te gebruiken.*
 
 <img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+Zodra uw stortingstransactie doorgaat, profiteert u van de stortingsrente. De aToken versie van het bestand kan nu in je portemonnee worden gezien.
 
-## Converting aTokens into maTokens
+## Converteren van aTokens naar maTokens
 
-Got your aTokens? Good!
+Heb je je aTokens? Goed!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+Laten we naar de [maTokens](/matokens) pagina gaan voor stap 2!
 
-## Differences between maTokens and amTokens
+## Verschillen tussen maTokens en amTokens
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+Zowel de maTokens als amTokens genereren interest. Echter, *de manier* waarop ze rente opwekken verschilt:
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. De waarde van de tokens neemt toe, maar omdat de hoeveelheid niet verandert, is het niet mogelijk om maTokens uit de Gotchis te halen, tenzij je je Gotchi opoffert om bij de onderliggende onderpand te komen.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amTokens nemen na verloop van tijd **hoeveelheid** toe. Dit geldt voor Aavegotchis uit Haunt 2 en daarna. De opgebouwde rente wordt weerspiegeld in hoeveelheid. Zo is het mogelijk om amTokens terug te trekken zodra er voldoende rente is gegenereerd.

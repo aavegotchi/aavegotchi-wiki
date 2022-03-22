@@ -1,8 +1,8 @@
 ---
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
-title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+title: 'Staken'
+description: 'Stake GHST, Maak FRENS'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -11,43 +11,43 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">Stake GHST, Maak FRENS!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. Het oorspronkelijke token, [BESTE](/posts/ghst), kan worden ingezet in het Staking Contract om [FRENS](/posts/glossary#frens) te verdienen.
 
-FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
+FRENS is een niet-overdraagbaar saldo binnen het Aavegotchi Staking Contract. FRENS kan niet worden gekocht. Ze zijn bedoeld om stakers te belonen voor hun bijdragen aan het Aavegotchi project.
 
-FRENS can be converted into Raffle Tickets or Drop Tickets:
+FRENS kunnen worden omgezet in Lotterij Tickets of Drop Tickets:
 
-* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
+* Lotterij tickets kunnen in een periodieke [wearables lotterij](/tickets) worden ingevoerd om [Wearables](/wearables) te winnen.
 
-* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
+* Drop tickets kunnen worden ingevoerd in [NFT Raffles](/tickets) om te winnen [portalen](/portals) en [REALM pakketten](/metaverse).
 
-Continue reading to learn how to stake GHST.
+Ga verder met lezen om te leren hoe je GHST staked.
 
 <div class="contentsBox">
 
-**Contents**
+**Inhoud**
 
 <ol>
-<li><a href=#purchasing-ghst>Purchasing GHST</a></li>
-<li><a href=#how-to-stake>How to Stake</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#purchasing-ghst>Aankopen van GHST</a></li>
+<li><a href=#how-to-stake>Hoe te staken</a></li>
+<li><a href=#staking-contract-addresses>Staking Contractadressen</a></li>
+<li><a href=#what-s-next->Wat nu?</a></li>
 </ol>
 
 </div>
 
-## Purchasing GHST
-First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
+## Aankopen van GHST
+Ten eerste moet u een aantal GHST-tokens in bezit krijgen. Onze [GHST token pagina](/posts/ghst) bestrijkt de verschillende manieren waarop je zelf iets kunt krijgen.
 
-## How to Stake
-Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! Staking takes place on Polygon (formerly Matic Network).
+## Hoe te staken
+Zodra je wat GHST tokens hebt, kunnen ze worden ingezet op de [Stakingpagina](https://aavegotchi.com/stake-polygon)! Staking vindt plaats op Polygon (voorheen Matic Network).
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
-There are five ways to stake:
+Er zijn vijf manieren waarop je kunt staken:
 
 1. GHST
 
@@ -59,102 +59,102 @@ There are five ways to stake:
 
 5. GHST-MATIC
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**Belangrijk: Staken op Mainnet is gestopt! Gelievete unstaken en opnieuw te staken op Polygon.**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Opmerking: GHST tokens kunnen niet verkocht worden totdat ze ontgrendeld zijn.*
 
-### Staking GHST tokens directly
+### GHST tokens direct staken
 
-* Step 1: Transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
+* Stap 1: Verplaats je GHST tokens van Ethereum Mainnet naar Polygon, een oplossing van layer 2 met behulp van de [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
 
-* Step 2: Approve the contract to use your GHST tokens.
+* Stap 2: Bevestig het contract om uw GHST tokens te gebruiken.
 
-* Step 3: Input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
+* Stap 3: voer de hoeveelheid GHST in die u wilt overbrengen naar Polygon. Zodra uw transactie op Ethereum is bevestigd, duurt het ongeveer 7-8 minuten voordat uw saldo op Polygon verschijnt. Uw saldo wordt automatisch bijgewerkt. Wees alsjeblieft geduldig!
 
-* Step 4: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Stap 4: Configureer uw Metamask portemonnee om Polygon op te nemen door deze [Polygon Guide](/polygon) te volgen.
 
-* Step 5: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+* Stap 5: Verbind je Metamask met Polygon en ga naar de [Polygon Staking Page](https://aavegotchi.com/stake-polygon) in de Aavegotchi DApp.
 
-* Step 6: Approve the contract to use your GHST tokens on Polygon.
+* Stap 6: Bevestig het contract om uw GHST tokens op Polygon te gebruiken.
 
-* Step 7: Input the amount of GHST you would like to deposit. Presto! U bent klaar!
+* Stap 7: voer de hoeveelheid GHST in die u wilt overbrengen naar Polygon. Presto! U bent klaar!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Voor elke 1 GHST gestaked op deze manier ontvang je 1 FRENS/ Dag.*
 
-### Staking GHST-QUICK and GHST-USDC
+### Stake GHST-QUICK en GHST-USDC
 
-Staking GHST-QUICK and GHST-USDC follows the same steps.
+Staken van GHST-QUICK en GHST-USDC volgt dezelfde stappen.
 
-* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Stap 1: Configureer uw Metamask portemonnee om Polygon op te nemen door deze [Polygon Guide](/polygon) te volgen.
 
-* Step 2: Use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+* Stap 2: Gebruik de [Aavegotchi brug](https://aavegotchi.com/bridge) om GHST en/of andere assets naar Polygon te verplaatsen. De [Tokens Guide](/matokens) laat je zien hoe dit gebeurt.
 
-* Step 3: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
+* Stap 3: Word een liquiditeitsprovider op hetzij de [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) en [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools op [QuickSwap](https://quickswap.exchange). Je ontvangt LP tokens in ruil voor je liquiditeitsvoorziening. Voor mensen die geïnteresseerd zijn in staking te gaan in de GHST-QUICK pool, kunt u wat QUICK token krijgen van [QuickSwap](https://quickswap.exchange). De meest liquide paren zijn momenteel QUICK-UNI, QUICK-WETH, QUICK-USDC en GHST-QUICK.
 
-* Step 4: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+* Stap 4: Neem deze LP tokens en zet ze in de [Aavegotchi staking interface](https://aavegotchi.com/stake-polygon) om stkGHST ontvangstbewijs tokens te krijgen. Voor de GHST-QUICK en GHST-USDC pools, worden deze stkGHST ontvangsttokens respectievelijk stkGHST-QUICK en stkGHST-USDC genoemd.
 
-For the stkGHST-QUICK receipt token **only**, you can stake them into the Quickswap Rewards pool at [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) to earn additional QUICK rewards. The Aavegotchi team is requesting for a similar incentive to be offered for the stkGHST-USDC receipt token.
+Voor de stkGHST-QUICK ontvangstbewijs **alleen**, kunt u ze in de Quickswap Beloningen pool zetten op [https://quickswap. xchange/#/snel](https://quickswap.exchange/#/quick) om extra QUICK beloningen te verdienen. Het Aavegotchi team vraagt om een soortgelijke stimulans om de stkGHST-USDC ontvangst token aan te bieden.
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
+*Voor elke 1 GHST-QUICK LP token is op deze manier gestaked ontvangt je 83 FRENS / Dag (het team probeert de koers ongeveer 30-40% hoger te houden dan wanneer alleen GHST wordt gestaked. Dit tarief wordt periodiek omhoog/omlaag aangepast om de juiste evenredigheid te behouden.*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
+*Voor elke 1 GHST-USDC LP token is op deze manier gebruikt, u ontvangt 74 miljoen FRENS / Dag (10% meer dan alleen maar GHST).*
 
-Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+Waarom is er een enorm verschil in het aantal FRENS dat door LP staking verdiend wordt vergeleken met de directe staking van GHST tokens? Het uitzetten van LP tokens heeft het risico van [impermenent loss](/glossary#impermanent-loss). U wordt gecompenseerd voor het verhoogde risico dat u neemt.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+Waarom levert de GHST-USDC LP 74M FRENS per dag op? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. Zie deze [tweet](https://twitter.com/coderdannn/status/1362423402871447554) voor de lulz.
 
-### Staking GHST-WETH
+### Stake GHST-WETH
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* Stap 1: Ga naar [quickswap.exchange](https://quickswap.exchange/) en kies > Pools > Liquiditeit toevoegen.
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* Stap 2: Stort GHST en ETH evenredig in de GHST-ETH liquiditeitspool.
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* Stap 3: In ruil daarvoor ontvang je GHST-WETH LP tokens.
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* Stap 4: Neem die LP tokens en zet ze op [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* Stap 5: Als tegenprestatie verdien je FRENS punten en krijg je stkGHST-WETH tokens
 
-* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+* Stap 6: Stort die op [dinoswap.exchange](https://dinoswap.exchange/) > Fossiele Farms op DINO
 
-* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+* BONUS: Stuur uw DINO naar de GHST Extinction Pool om nog meer GHST te verdienen!
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+Voor elke 1 GHST-ETH LP token op deze manier gestaked, ontvang je 12,08 miljoen FRENS / Dag (20% meer dan alleen maar GHST).
 
-### Staking GHST-MATIC
+### Stake GHST-MATIC
 
-* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+* Stap 1: Ga naar [sushi.com](https://sushi.com/) en ga de app in
 
-* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+* Stap 2: Voeg liquiditeit toe aan de GHST-MATIC pool. Op zijn beurt ontvangt u GHST-MATIC LP Tokens
 
-* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
+* Stap 3: Neem de GHST-MATIC LP Tokens en stort ze in de [Aavegotchi Stake Interface](https://aavegotchi.com/stake-polygon). U ontvangt stkGHST-MATIC ontvangsttokens na het staking van uw LP tokens.
 
 ### Staking Cheatsheets!
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+Als je iets meer visueel wilt, bekijk dan onze Stake Cheatsheets!
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* GHST staking en GHST-QUICK/GHST-USDC staking
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST naar Matic Cheatsheet" />
 
-* GHST-ETH Staking
+* GHST-ETH staken
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
-### Staking Returns Table
+### Staking Opbrengsten Tabel
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+De tabel hieronder vat de staking opbrengsten (in termen van FRENS) in percentage samen met de basislijn van staking GHST direct.
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+Houd er rekening mee dat het Pixelcraft team de FRENS hoeveelheid van tijd tot tijd kan updaten om het systeem in balans te houden.
 
-table_stakingReturns
+tabel_stakingReturns
 
-## Staking Contract Addresses
+## Staking Contractadressen
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+De volgende tabel toont de verschillende staking contract adressen op Polygon. De ghstStaking en stkGHHSTQUICK contracten hebben hetzelfde contractadres. Controleer het contractadres eerst voordat je transacties afsluit.
 
-table_stakingContractAddresses
+tabel_stakingContractAdressen
 
-## What's next?
+## Wat nu?
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+Dus heb je nu wat FRENS? Ga naar de [Tickets pagina](/tickets) om te leren hoe je tickets met FRENS kan kopen en om deel te nemen aan Lotterijen!
