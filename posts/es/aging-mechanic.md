@@ -13,7 +13,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
-<p class="headerImageText">Deckaard Caain: Stay awhile and listen</p>
+<p class="headerImageText">Deckaard Caain: Manténgase un rato y escuche</p>
 </div>
 
 <div class="contentsBox">
@@ -21,25 +21,25 @@ contributors:
 **Contenidos**
 
 <ol>
-<li><a href=#rationale>Rationale</a></li>
-<li><a href=#brs-boost>BRS Boost</a></li>
+<li><a href=#rationale>Razonamiento</a></li>
+<li><a href=#brs-boost>Potenciar BRS</a></li>
 </ol>
 
 </div>
 
-## Rationale
+## Razonamiento
 
-[Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
+[La Propuesta de Mejora 13 de Aavegotchi](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introdujo un mecanismo de envejecimiento para los Aavegotchis.
 
-Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.
+Los Gotchis recibiría un pequeño impulso a su [BRS](/rarity-farming#base-rarity-score) a medida que envejecen. Esto es para contrarrestar la diferencia estadística entre los rituales y recompensar el compromiso a largo plazo.
 
-This provides a buffer of approximately 6 months during which older gotchis have a BRS boost over newly summoned gotchis. As newly summoned gotchis age, they quickly begin to catch up to their older counterparts.
+Esto proporciona una defensa de aproximadamente 6 meses durante los cuales gotchis antiguos tienen un impulso BRS sobre los gotchis recién invocados. A medida que envejecen los gotchis recién invocados, rápidamente comienzan a ponerse a la altura de sus homólogos más antiguos.
 
-The formula that is used to calculate the BRS boost is modeled after the Fibonacci numbers x 1 million, but replacing the first 0 with a 1 to better fit the use case.
+La fórmula que se utiliza para calcular el impulso de BRS se basa en los números de Fibonacci x 1 millón, pero reemplazando el primer 0 con un 1 para que se ajuste mejor al caso.
 
-This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to **eventually** catch up to **within a 1 BRS boost** of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
+Esta solución proporciona un impulso más rápido en los primeros fases de la edad, y se aplana mucho con el tiempo para evitar cualquier cosa demasiado OP y permitir a los gotchis invocados más recientemente**eventualmente** alcanzar**con 1 impulso de BRS** a sus hermanos más viejos y sabios. Esto incentiva a abrir e invocar portales, en vez de dejarlos cerrados, ambas propuestas impulsan la economía en el juego, así como la escasez de los que siguen siendo elegidos para permanecer cerrados. Sobre todo, se trata de un sistema justo que no beneficia a nadie por encima de los demás y simplemente recompensa el compromiso a largo plazo. al contrarrestar los efectos de una dilución repentina y agresiva, como estamos presenciando actualmente.
 
-## BRS Boost
+## Potenciar BRS
 
-table_brsBoost
+tabla_brsBoost
 
