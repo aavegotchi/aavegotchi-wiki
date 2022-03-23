@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aging Mechanic'
-description: 'Aging Mechanic'
+title: 'Mecánica de envejecimiento'
+description: 'Mecánica de envejecimiento'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Your gotchi friends are alive! Like you, too, they age — growing from infancy to adulthood.
+¡Tus amigos gotchi están vivos! Al igual que usted, también envejecen, desde la infancia hasta la adultez.
 
-Remember to celebrate your lil fren's birthday! They have one as well!
+¡Recuerda celebrar el cumpleaños de tu pequeño amigo! ¡También lo tienen!
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aging-mechanic/aging-mechanic.png">
