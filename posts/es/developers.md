@@ -1,41 +1,41 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+title: 'Desarrollando Aavegotchi'
+description: '¡Salta y ayuda a desarrollar esta Wiki!'
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">¡CoderDan te da la bienvenida!</p>
 </div>
 
-Wanna show off your hotshot coding skills? We welcome you fren!
+¿Quieres mostrar tus habilidades de codificación de hotshots? ¡Le damos la bienvenida amigo!
 
-The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+Los documentos de Aavegotchi pueden encontrarse [aquí](https://docs.aavegotchi.com/).
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Building the Wiki</a></li>
-<li><a href=#building-mini-games>Building Mini-Games</a></li>
-<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#building-aavegotchi-com>Construyendo Aavegotchi.com</a></li>
+<li><a href=#building-the-wiki>Construyendo la Wiki</a></li>
+<li><a href=#building-mini-games>Construyendo Minijuegos</a></li>
+<li><a href=#aarchitect-creations>Creaciones de los arquitectos</a></li>
 <li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
 </div>
 
-## Building Aavegotchi.com
+## Construyendo Aavegotchi.com
 
-Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
+¿Tiene alguna sugerencia para el DApp de Aavegotchi.com? ¿Quieres ayudarnos con la traducción?
 
-Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
+Póngase en contacto con el coderdan#8904 en [Discord](https://discord.com/invite/NPwnWB6)
 
-## Building the Wiki
+## Construyendo la Wiki
 
 Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
@@ -43,7 +43,7 @@ Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
 The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
 
-## Building Mini-Games
+## Construyendo Minijuegos
 
 Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
@@ -53,7 +53,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Aarchitect Creations
+## Creaciones de los arquitectos
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
