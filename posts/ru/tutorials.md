@@ -42,7 +42,7 @@ Aave и аТокены.
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
 <li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
 <li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
-<li><a href=#buying-an-aavegotchi--article->Buying an Aavegotchi (Article)</a></li>
+<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 </ul>
 
@@ -177,7 +177,7 @@ Aave и аТокены.
 
 <hr />
 
-### Buying an Aavegotchi (Article)
+### Buying GHST token (Article)
 Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
 
 * Learn about the GHST token

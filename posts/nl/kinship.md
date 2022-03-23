@@ -12,6 +12,20 @@ contributors:
 <p class="headerImageText">Je Gotchi petten!</p>
 </div>
 
+<div class="contentsBox">
+
+**Inhoud**
+
+<ol>
+<li><a href=#what-is-kinship>What is Kinship</a></li>
+<li><a href=#kinship-levels>Kinship Levels</a></li>
+<li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+</ol>
+
+</div>
+
+## What is Kinship
+
 Kinship is het loyaliteitsgevoel van je Aavegotchi. Kinship: "Kinship" is niet willekeurig toegewezen, maar begint op een vaste waarde (50) bij geboorte en stijgen of dalen op basis van verschillende factoren, zoals hoe lang de Aavegotchi met dezelfde eigenaar is geweest, en hoe vaak de eigenaar ermee interactie heeft. De minimale kinship waarde is 0. Er is geen maximale kinship waarde.
 
 Doorgaans is langer eigendom meer kinship, maar het verwaarlozen van je Aavegotchi voor lange periodes zal het kinship niveau verlagen. Aavegotchis zijn niet alleen vaartuigen om uw crypto-tassen op te slaan. Het zijn levende en ademende spoken, en ze hebben je genegenheid nodig!
@@ -20,19 +34,29 @@ Maximaal 1 Kinship point wordt elke 12 uur per week verzameld waarin je interact
 
 Kinship bestaat als een intern saldo op het Aavegotchi smart contract.
 
-Toverdranken kunnen ook worden gebruikt om de kinship scores te verbeteren. Het zijn echter beperkte editie verbruiksartikelen en is mogelijk niet altijd beschikbaar in de Aavegotchi-winkel. Binnenkort meer informatie over drankjes beschikbaar.
+Toverdranken kunnen ook worden gebruikt om de kinship scores te verbeteren. However, they are limited edition consumables.
 
-Hoge kinship levels kunnen je Aavegotchi prestaties in mini-spellen verhogen, en kan ook fungeren als een vermenigvuldiger voor GHST beloningen op governance en [rarity farming](/rarity-farming). Lage kinship-niveaus zullen het tegenovergestelde effect hebben.
+## Kinship Levels
 
-Enkele manieren om het kinship level van Aavegotchi te versterken:
+The table below shows the kinship level and their value range.
 
-* Aavegotchis wordt geboren met een gevoel van burgerlijke plicht. Breng je Aavegotchi naar het stadhuis en laat het stemmen in AavegotchiDAO;
-* Aavegotchis mogen dan wel spoken zijn, maar ze hebben ook eetlust! Voer je Aavegotchi verbruiksartikelen in om de spookachtige smileys te zien;
-* Aavegotchis houden van het proberen van nieuwe kleren. Rust je Aavegotchi uit met nieuwe wearables om een blijvende band te smeden;
-* Aavegotchis houden van spelen! Neem je Aavegotchi uit voor een romp in het Aavegotchi Rijk en level het meer tijdens het spelen van mini-games.
+table_kinship
 
-De onderstaande tabel toont het kinship level en hun waardebereik.
+Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
-tabel_kinship
+## Kinship and Alchemical Channeling
 
-Kinship kan worden bekeken op de [Aavegotchi profielpagina](/aavegotchi-profile).
+Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+
+How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+
+The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+
+table_alchemicaReceivedPerChanneling
+
+Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+
+<img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
+
+Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+

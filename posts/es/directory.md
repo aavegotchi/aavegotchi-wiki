@@ -1,67 +1,67 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+title: 'Directorio Aavegotchi Wiki'
+description: 'Directorio Aavegotchi Wiki'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Here is the list of pages in the Aavegotchi Wiki:
+Aquí está la lista de páginas en la Aavegotchi Wiki:
 
-* [Aarchitect](/aarchitect)
+* [Aarquitectos](/aarchitect)
 
-* [Aartist](/aartist)
+* [Artistas](/aartist)
 
-* [Aauction](/aauction)
+* [Subastas](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+* [Propuestas de Mejora de Aavegotchi](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+* [Página de Perfil de Aavegotchi](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [Mecánica de envejecimiento](/aging-mechanic)
 
-* [Baadge](/baadge)
+* [Insignias](/baadge)
 
-* [Baard](/baard)
+* [Bardos](/baard)
 
-* [Baazaar](/baazaar)
+* [Bazar](/baazaar)
 
-* [Bridge](/bridge)
+* [Puente](/bridge)
 
-* [Contests](/contests)
+* [Competiciones](/contests)
 
-* [Contracts](/contracts)
+* [Contratos](/contracts)
 
-* [Bonding Curve](/curve)
+* [Curva de Emisión](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers](/developers)
+* [Desarrolladores](/developers)
 
-* [Eye Shape](/eye-shape)
+* [Forma de Ojos](/eye-shape)
 
 * [FAQ](/faq)
 
 * [Gaame Jaam](/gaame-jaam)
 
-* [GHST Token](/ghst)
+* [Token GHST](/ghst)
 
-* [Glossary](/glossary)
+* [Glosario](/glossary)
 
-* [Gotchiverse](/gotchiverse)
+* [Gotchiverso](/gotchiverse)
 
-* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
+* [Intercambio de Gotchus Alchemica](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [Clan](/guild)
 
-* [Haunt](/haunt)
+* [Ritual](/haunt)
 
-* [Home](/index)
+* [Inicio](/index)
 
-* [Introduction](/introduction)
+* [Introducción](/introduction)
 
-* [Kinship](/kinship)
+* [Fidelidad](/kinship)
 
 * [Maall](/maall)
 
@@ -71,43 +71,43 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Memes](/memes)
 
-* [Milestones](/milestones)
+* [Hitos](/milestones)
 
-* [Mini-Games](/minigames)
+* [Minijuegos](/minigames)
 
-* [Eventos de mini juego XP](/minigame-xp-events)
+* [Eventos de mini juego EXP](/minigame-xp-events)
 
-* [Missions](/missions)
+* [Misiones](/missions)
 
 * [Mumbai Testnet](/mumbai-testnet)
 
-* [Partners](/partners)
+* [Socios](/partners)
 
 * [POAP](/poap)
 
 * [Polygon](/polygon)
 
-* [Portals](/portals)
+* [Portales](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Estadísticas de los sorteos](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
 * [Temporada Rarity Farming](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [Hoja de ruta](/roadmap)
 
 * [Sets](/sets)
 
-* [Social Media](/socialmedia)
+* [Redes Sociales](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Fuerza Espiritual](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Historial de Fuerza Espiral](/spirit-force-history)
 
 * [Staking](/staking)
 
-* [Team](/team)
+* [Equipo](/team)
 
 * [Los Nueve Adeptos](/the-nine-aadepts)
 
@@ -115,12 +115,12 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Traits](/traits)
+* [Rasgos](/traits)
 
-* [Tutorials](/tutorials)
+* [Tutoriales](/tutorials)
 
-* [uGOTCHI Collection](/ugotchi)
+* [colección uGOTCHI](/ugotchi)
 
-* [Wearables](/wearables)
+* [Equipables](/wearables)
 
-* [XP](/xp)
+* [EXP](/xp)
