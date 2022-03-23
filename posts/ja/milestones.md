@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Celebrate the Alpha launch of the Gotchiverse by minting a limited edition Golden Aaltar NFT!](https://blog.aavegotchi.com/le-golden-aaltar/)
+* The Gotchiverse alpha is launching on 31st March and will feature **real** Gotchus Alchemica
+* Collect as much Alchemica as possible to craft a limited edition Golden Aaltar NFT!
+<p></p>
+
 ## [Gotchi Lending is coming soon!](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
 * Gotchi Lending is coming out on 28 March!
 * Gotchi owners can now trustlessly lend out their Gotchis to other players for a set duration
