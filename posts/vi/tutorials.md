@@ -43,7 +43,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#traits---bell-curve-explained>Giải Thích về Trait và Bell Curve</a></li>
 <li><a href=#buying-an-aavegotchi--video->Mua Aavegotchi (Video)</a></li>
 <li><a href=#buying-ghst-token--article->Mua Token GHST (Bài viết)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Tham gia AavegotchiDAO (Bài Viết)</a></li>
 <li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
 </ul>
 
@@ -187,7 +187,7 @@ Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the 
 
 <hr />
 
-### Participating in AavegotchiDAO (Article)
+### Tham gia AavegotchiDAO (Bài Viết)
 Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
 
 * Learn about the AavegotchiDAO Forum
