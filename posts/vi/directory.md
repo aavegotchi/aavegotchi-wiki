@@ -59,7 +59,7 @@ contributors:
 
 * [Haunt](/haunt)
 
-* [Home](/index)
+* [Trang chủ](/index)
 
 * [Giới thiệu](/introduction)
 
@@ -75,7 +75,7 @@ contributors:
 
 * [Lịch sử phát triển](/milestones)
 
-* [Mini-Games](/minigames)
+* [Mini-games](/minigames)
 
 * [Sự Kiện XP Minigame](/minigame-xp-events)
 
@@ -91,7 +91,7 @@ contributors:
 
 * [Portals](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -99,13 +99,13 @@ contributors:
 
 * [Roadmap](/roadmap)
 
-* [Sets](/sets)
+* [Bộ Trang Phục](/sets)
 
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
 * [Linh Lực](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Lịch Sử Linh Lực](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -119,10 +119,10 @@ contributors:
 
 * [Traits](/traits)
 
-* [Tutorials](/tutorials)
+* [Hướng dẫn](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
 * [Wearables](/wearables)
 
-* [XP](/xp)
+* [Kinh nghiệm](/xp)
