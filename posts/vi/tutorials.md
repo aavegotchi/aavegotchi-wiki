@@ -41,8 +41,8 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
 <li><a href=#traits---bell-curve-explained>Giải Thích về Trait và Bell Curve</a></li>
-<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
-<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
+<li><a href=#buying-an-aavegotchi--video->Mua Aavegotchi (Video)</a></li>
+<li><a href=#buying-ghst-token--article->Mua Token GHST (Bài viết)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 <li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
 </ul>
@@ -170,7 +170,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Mua Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Tìm hiểu về cách mua Aavegotchi trên Baazaar
 * Tìm hiểu về cách mua cổng mở hoặc chưa mở trên Baazaar
@@ -178,7 +178,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Buying GHST token (Article)
+### Mua Token GHST (Bài viết)
 Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
 
 * Learn about the GHST token
