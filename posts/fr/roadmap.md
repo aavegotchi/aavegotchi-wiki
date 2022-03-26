@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">« Partons en voyage! »</p>
 </div>
 
 Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!

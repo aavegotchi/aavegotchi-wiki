@@ -78,6 +78,11 @@ contributors:
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
+<li><a href=#gotchiverse-faq>Gotchiverse FAQ</a></li>
+<p><a href=#what-is-the-gotchiverse->What is the Gotchiverse?</a></p>
+<p><a href=#what-is-gotchus-alchemica->What is Gotchus Alchemica?</a></p>
+<p><a href=#what-is-an-alchemical-aaltar->What is an Alchemical Aaltar?</a></p>
+<p><a href=#do-i-need-an-aavegotchi-to-play->Do I need an Aavegotchi to Play?</a></p>
 <li><a href=#aambassador-faq>Aambassador FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
@@ -401,6 +406,26 @@ Portals are expected to cost 100 GHST for the first haunt. Costs for other items
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
+## Gotchiverse FAQ
+
+### What is the Gotchiverse?
+
+The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+
+### What is Gotchus Alchemica?
+
+Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
+
+Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
+
+### What is an Alchemical Aaltar?
+
+The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
+
+### Do I need an Aavegotchi to Play?
+
+Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+
 ## Aambassador FAQ
 
 ### Do I need to fill out monthly reports as an Aambassador?
@@ -423,7 +448,7 @@ Absolutely! As long as we can easily track the growth of your network, you are e
 
 ### I have a question that isn’t answered here. Where should I ask it?
 
-All questions about the Aambassador program can be directed towards jason@aavegotchi.com, (or buzz.lightyear in Discord).
+All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
 ## Guild FAQ
 
