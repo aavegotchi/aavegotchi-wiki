@@ -68,4 +68,4 @@ Het Aavegotchi Universe omvat alle elementen die Aavegotchis in staat stellen om
 * [Portalen](/portals)
 * [GHST Utiliteit Token](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)
