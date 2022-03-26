@@ -116,13 +116,15 @@ The main goal of a lickquidator is to collect loose Alchemica that has been spil
 
 Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
+There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
+
 ## Socializing in the Gotchiverse
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
 By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [stats](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon">
 
@@ -163,9 +165,9 @@ During the crafting process, a small portion of Alchemica (5%) is burned forever
 
 * 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
 
-* 40% to the Summoners, who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+* 40% to the [Summoners](/team#summoners), who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
 
-* 15% to the AavegotchiDAO, the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+* 15% to the [AavegotchiDAO](/dao), the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
 
 <img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to">
 
