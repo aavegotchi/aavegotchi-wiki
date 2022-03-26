@@ -61,7 +61,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Aavegotchi.land](https://aavegotchi.land/) - API dành cho Aavegotchi / Open Portals / Niêm yết Raffle Tickets
 
-* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
+* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Công Cụ Tính Toán Dành cho Raffle
 
 * [Haaunt.com](https://haaunt.com/) - Bảng xếp hạng Aavegotchi / Giá trang phục
 
@@ -69,15 +69,15 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
-* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care / Petting Service
+* [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Dịch vụ autopet miễn phí dành cho cộng đồng
 
 * [Ứng Dụng Hiển Thị Gotchiverse](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - Một công cụ hiển thị dữ liệu cho thấy được quận, giá sàn, ước lượng giá, v. v.
 
-* [Aadventure.io](https://www.aadventure.io) - REALM pricing / Land Auctions Data / Wearable Sets / Gotchi Pockets data
+* [Aadventure.io](https://www.aadventure.io) - Xem giá REALM / Dữ liệu Đấu Giá Đất / Bộ Trang Bị / Dữ liệu Ví Gotchi
 
-* [Gotchi Vault](https://www.gotchivault.com/) - Asset manager for the Aavegotchi ecosystem
+* [Gotchi Vault](https://www.gotchivault.com/) - Quản lý tài sản cho hệ sinh thái Gotchiverse
 
 ## Subgraphs
 
