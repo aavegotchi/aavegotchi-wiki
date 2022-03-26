@@ -49,31 +49,31 @@ Alchemica kiếm được phụ thuộc vào 3 yếu tố:
 
 * **Wearable Crest Rarity** – độ hiếm của Trang phục được sử dụng trong hoạt động truyền
 
-The Base Channel Rate ban đầu sẽ ở mức 20 FUD, 10 FOMO, 5 ALPHA, và 2 KEK. This Rate may need to be adjusted by the community over time to prevent going over the Alchemica budget for Alchemical Channeling (25% of total supply over the lifetime of the game, 50% of which is allocated to Guild Channeling).
+The Base Channel Rate ban đầu sẽ ở mức 20 FUD, 10 FOMO, 5 ALPHA, và 2 KEK. Tỷ lệ này có thể sẽ được điều chỉnh bởi cộng đồng theo thời gian để ngăn không cho vượt quá nguồn cung Alchemica dành cho việc việc truyền Khoáng sản (25% tổng lượng cung theo thời gian của game, 50% được phân bổ cho việc Truyền Guild).
 
-Every extra Aavegotchi holding the designated Wearable that joins in the ritual increases the total by the Base Channel Rate **Gotchi Presence**, which results in exponentially more Alchemica being dropped:
+Với mỗi Aavegotchi đang nắm giữ Trang Phục được chỉ định tham gai vào nghi thức sẽ tăng Base Channel Rate **Gotchi Presence**, dẫn đến việc cực nhiều Alchemica được rơi ra:
 
 table_gotchiPresenceBonus
 
-**Wearable Crest Rarity Multiplier** designates the base rate at which Alchemica is dropped:
+**Wearable Crest Rarity Multiplier** chỉ định tỷ lệ Alchemica cơ bản rơi ra:
 
 table_wearableMultiplier
 
 ## Liên kết Guild với Crest
 
-*Wearable Crests*
+*Wearable Sets*
 
-A Gotchi Lodge has to link with a Wearable Crest on-chain before it can engage in Alchemical Channeling. Initially, only **one** Guild can use each Wearable.
+Gotchi Lodge cần phải được liên kết với Wearable Crest on-chain trước khi nó được liên kết với Alchemical Channeling. Ban đầu, chỉ **một** Guild có thể sử dụng mỗi lại Trang Phục.
 
-A Gotchi Lodge will be considered “linked” with its Wearable Crest if its [REALM parcel](/gotchiverse#realm-parcel-sizes) holds a special ERC-1155 Wearable Crest NFT onchain.
+Một Gotchi Lodge được xem là "đã liên kết" với Wearable Crest nếu [gói đất REALM](/gotchiverse#realm-parcel-sizes) nắm giữ một ERC-1155 Wearable Crest NFT onchain.
 
-This ERC-1155 Crest cannot be purchased off the open market, but must be won in a [Bid-to-earn Auction](/aauction) using GLTR. Auctions will be held every **three months** for all Wearable Crests, and the winners of those auctions will automatically be transferred the Wearable Crests on-chain, thus earning their Guild the privilege to engage in Guild Channeling.
+ERC-1155 Crest không thể được mua từ thị trường mở, nhưng có thể thắng được thông qua [Đấu Giá Kiếm Tiền](/aauction) bằng GLTR. Các sự kiện đấu giá được tổ chức cứ mỗi **ba tháng** đối với tất cả Wearable Crests, và người chiến thắng những sự kiện đấu giá này sẽ tự động được chuyển cho Wearable Crests on-chain, do đó Guild họ sẽ kiếm được đặc quyền tương tác với hoạt động Truyền theo Guild.
 
-This gives a strong incentive for Guilds to hold and LP their Alchemica, to continue earning GLTR, and providing Guild Channeling for their members.
+Điều này mang đến một phần thưởng khuyến khích mạnh mẽ để Guild nắm giữ và cung cấp thanh khoảng cho Alchemica, để tiếp tục kiếm GLTR, và cung cấp hoạt động truyền Guild cho mem.
 
 *Insignia Crests*
 
-Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
+Mỗi Gotchi Lodge có thể mint ra một Insignia Crest ERC-1155 onchain cho thành viên của mình, để họ truy cập vào Lodge mà không cần phải nắm giữ Wearable Crest. Chủ sỡ hữu Lodge có thể nâng cấp metadata của Crest để thay đổi tên và hình dạng của Crest, nhưng không thể thay đổi ID onchain của Crest.
 
 ## Danh sách Guild
 
@@ -81,6 +81,6 @@ table_guild
 
 ## Bản Đồ Guild
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+Guild tự sắp xếp vị trí của mình tại các quận. Bản đồ guild này đã được thực hiện bởi MonsterRNG#3333 của Guild Avid Aavegotchi
 
 <img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />
