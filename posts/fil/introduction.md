@@ -68,4 +68,4 @@ Binubuo ang Aavegotchi Universe ng lahat ng mga bagay na nagpapagalaw sa Aavegot
 * [Portals](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)
