@@ -207,6 +207,8 @@ Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-membe
 * Learn about Vote Differential
 * Learn how to Vote
 
+<hr>
+
 ### Accessing the Gotchiverse on Mumbai Testnet
 Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
 
