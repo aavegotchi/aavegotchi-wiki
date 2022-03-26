@@ -76,4 +76,4 @@ Vũ trụ Aavegotchi bao hàm tất cả những yếu tố cho phép các Aaveg
 * [Portals](/portals)
 * [Token Tiện ích GHST](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)
