@@ -93,15 +93,13 @@ Stake GHST-QUICK và GHST-USDC theo những bước sau.
 
 * Hãy lấy những token LP này và stake vào [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) để nhận lại token stkGHST. Đối với quỹ GHST-QUICK và GHST-USDC, những token stk này được đặt tên lần lượt là stkGHST-QUICK và stkGHST-USDC.
 
-**Chỉ riêng** token stkGHST-QUICK thì bạn mới phải stake vào quỹ Phần thưởng của Quickswap tại [https://quickswap.exchange/#/quick](https://quickswap.exchange/#/quick) để nhận thêm Quick. Team Aavegotchi đang nhờ đội ngũ Quickswap thêm phần thưởng tương tự cho token stkGHST-USDC.
+*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
-*Với mỗi token LP GHST-QUICK bạn stake theo cách này, bạn sẽ nhận được 83 FRENS mỗi ngày (bọn sẽ cố để duy trì tỷ lệ sao cho cao hơn 30-40% so với việc chỉ stake mỗi GHST. Tỷ lệ này điều chỉnh lên xuống theo thời gian mà không được báo trước để cho nó thật chính xác).*
+*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
 
-*Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 74 triệu FRENS/Ngày).*
+Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-Tại sao lại có sự khác biệt lớn về lượng FRENS nhận được thông qua việc stake token LP so với khi stake GHST? Việc stake token LP GHST-ETH có thể mang đến rủi ro [tổn thất tạm thời ](/glossary#impermanent-loss). Bạn được hỗ trợ cho những rủi ro mà bạn dám đảm nhận.
-
-Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. Xem qua tweet [này](https://twitter.com/coderdannn/status/1362423402871447554) để cùng cừ ẻ nhé.
+Why is the GHST-USDC pool yielding 74 million FRENS a day? Những người gửi thanh khoản đầu tiên trên pool GHST-USDC của Quickswap đã lộn xộn tỷ lệ của các tài sản này. Bởi vậy nên khi có người gửi tiền vào quỹ thì họ sẽ nhận được lượng token LP có tí ti, như 0,0006 chẳng hạn. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
 ### Stake GHST-ETH
 
@@ -119,7 +117,7 @@ Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Nh�
 
 * BONUS: Gửi DINO vào Extinction Pool để kiếm nhiều GHST hơn!
 
-Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 12.08 triệu FRENS/Ngày).
+For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
 
 ### Stake GHST-ETH
 
@@ -131,11 +129,11 @@ Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nh
 
 ### Staking Cheatsheets!
 
-Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nhé!
+If you prefer something more visual, check out our Staking Cheatsheets!
 
 * Stake GHST và Stake GHST-QUICK/GHST-USDC
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "Hướng dẫn chuyển GHST sang Matic" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
 
 * Stake GHST-ETH
 
@@ -143,18 +141,18 @@ Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nh�
 
 ### Bảng Lợi Nhuận
 
-Bảng dưới đây tóm tắt lại lợi nhuận khi stake (dựa trên số FRENS) theo tỷ lệ phần trăm so với đường cơ bản là stake GHST đơn thuần.
+The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
 
-Hãy chú ý là team Pixelcraft sẽ cập nhật lượng FRENS này liên tục để cân bằng hệ thống.
+Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
 
 table_stakingReturns
 
 ## Địa Chỉ Hợp Đồng Staking
 
-Bạn dưới đây tổng hợp nhiều địa chỉ hợp đồng staking khác nhau trên Polygon. Hợp đồng ghstStaking và stkGHSTQUICK dùng chung một địa chỉ. Hãy xem kỹ địa chỉ hợp đồng trước khi hoàn thành bất kỳ giao dịch nào nhé.
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
 ## Bước tiếp theo?
 
-Vậy bạn đã có một ít FRENS rồi đúng không? Hãy vào [Tickets page](/tickets) để học cách mua vé bằng FRENS và tham gia vào Raffle!
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
