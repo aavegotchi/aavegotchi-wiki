@@ -68,4 +68,4 @@ Das Aavegotchi-Universum umfasst alle Elemente, die das Funktionieren der Aavego
 * [Portale](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)

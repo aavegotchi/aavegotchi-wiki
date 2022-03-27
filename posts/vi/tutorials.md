@@ -41,9 +41,10 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
 <li><a href=#traits---bell-curve-explained>Giải Thích về Trait và Bell Curve</a></li>
-<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
-<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#buying-an-aavegotchi--video->Mua Aavegotchi (Video)</a></li>
+<li><a href=#buying-ghst-token--article->Mua Token GHST (Bài viết)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Tham gia AavegotchiDAO (Bài Viết)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Tham gia Gotchiverse trên Mumbai Testnet</a></li>
 </ul>
 
 </div>
@@ -169,7 +170,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Mua Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
 
 * Tìm hiểu về cách mua Aavegotchi trên Baazaar
 * Tìm hiểu về cách mua cổng mở hoặc chưa mở trên Baazaar
@@ -177,21 +178,30 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Buying GHST token (Article)
-Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+### Mua Token GHST (Bài viết)
+Xem bài viết tại [đây](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/)
 
-* Learn about the GHST token
-* Learn what the token could be used for
-* Learn where to buy GHST
+* Tìm hiểu về token GHST
+* Tìm hiểu cách sử dụng token
+* Tìm hiểu cách mua GHST
 
 <hr />
 
-### Participating in AavegotchiDAO (Article)
-Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+### Tham gia AavegotchiDAO (Bài Viết)
+Xem bài viết tại [đây](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/)
 
-* Learn about the AavegotchiDAO Forum
-* Learn how to create Signal Proposals
-* Learn how Signal Proposals Become Core Proposals
-* Learn about the different types of Core Proposals
-* Learn about Vote Differential
-* Learn how to Vote
+* Tìm hiểu về AavegotchiDAO Forum
+* Tìm hiểu cách tạo Signal Proposals
+* Tìm hiểu cách Signal Proposals trở thành Core Proposals
+* Tìm hiểu những loại Core Proposal khác nhau
+* Tìm hiểu cách biệt số phiếu
+* Tìm hiểm cách bỏ phiếu
+
+<hr />
+
+### Tham gia Gotchiverse trên Mumbai Testnet
+Xem bài viết tại [đây](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
+
+* Tìm hiểu những thứ cần có để trải nghiệm Gotchiverse
+* Tìm hiểu cách sử dụng Gotchiverse
+* Tìm hiểu cách thu thập Gotchus Alchemica và chế tạo công trình Aaltar

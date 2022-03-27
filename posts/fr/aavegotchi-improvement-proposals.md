@@ -41,6 +41,11 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#adding-ghst-to-the-umbria-narni-bridge>Adding GHST to the Umbria Narni Bridge</a></li>
 <li><a href=#launch-rarity-farming-szn-3>Launch Rarity Farming SZN 3</a></li>
 <li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring the GoodGhosting Pool</a></li>
+<li><a href=#deposit-3m-treasury-ghst-into-aave>Deposit 3M Treasury GHST into Aave</a></li>
+<li><a href=#delay-gotchiverse-land-auction---raffle-3>Delay Gotchiverse Land Auction & Raffle 3</a></li>
+<li><a href=#reducing-the-parcel-vrf-variance>Reducing the Parcel VRF Variance</a></li>
+<li><a href=#alternative-gotchiverse-trait-mapping>Alternative Gotchiverse Trait Mapping</a></li>
+<li><a href=#extending-the-dao-treasury-task-force-multisig>Extending the DAO Treasury Task Force Multisig</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -860,6 +865,203 @@ Option 3: No, do not support GG
 table_agip23
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
+
+<hr />
+
+### Deposit 3M Treasury GHST into Aave
+**Aavegotchi Improvement Proposal #24**
+
+**Proposal Summary:**
+
+Alongside the DAO Treasury Taask Force (DTF), Dr Wagmi proposes that we immediately take advantage of the Aave GHST listing by depositing ~80% of our DAO Treasury GHST (3,000,000 GHST) into Aave as collateral to earn passive yield. The current utilisation rate is at 45% with a deposit APR ~2.5%. Given the significant yield and quickly growing utility of the GHST token, we anticipate ongoing borrowing demand, and, thus, yield for GHST depositors and the DAO Treasury. The Aavegotchi DAO can demonstrate its dexterity, effectiveness, and impressive treasury by quickly capitalizing on this passive yield opportunity. This would speak volumes to the broader DeFi and crypto community and immediately provide additional value to GHST token holders through increased borrowing capacity in the Aave pool.
+
+An initial deposit of 3,000,000 GHST would represent approximately 80% of the DAO Treasury GHST. This deposit is completely liquid and could be withdrawn if the DAO designates other uses. A 3% APR is nearly $90,000 which can be used to further invest in the Aavegotchi ecosystem through DAO initiatives. A separate proposal can be considered for the additional 20% and for the 2.4M DAI in the treasury. We do not propose that the received amGHST from this proposed initial deposit be staked for FRENS. This proposal is not requesting DTF multi-sig control over this deposit or the ongoing management.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/deposit-3-000-000-ghst-from-the-dao-treasury-into-aave/3007)
+
+Option 1: Yes, deposit 3M GHST
+
+Option 2: No, keep GHST in the Treasury
+
+Option 3: Abstain
+
+**Voting Period:**  23 - 30 March 2022
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x2fd1336f439b29a7096478a1d9571acc83597b2b345103fdb35e02125f5a2dcd)
+
+<hr />
+
+### Delay Gotchiverse Land Auction & Raffle 3
+**Aavegotchi Improvement Proposal #25**
+
+**Proposal Summary:**
+
+Pixelcraft has provided a schedule in Chapter 1 in the Gotchiverse Game Bible with the Gotchiverse Land Auction / Raffle 3 scheduled to occur Late February: [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+
+This was scheduled to happen before the following Gotchiverse Game Bible Chapters were published according to that same post. 4 more Chapters were released in March and there are more planned to be released during the following weeks/months.
+
+I propose the Land Auction & Raffle is delayed until the full release of Book One of the Gotchiverse occurs or the community votes for an additional sale.
+
+This is primarily to ensure that the community can make fully informed bids/investments in Land and we reduce the risk of repeating what happened previously with people overbidding and getting rekt.
+
+[CoreProp Edit: Since Book One is going to be fully published soon but there still seems to be little appetite for a REALM Sale, we have added a voting option to only start the next Auction & Raffle if a SigProp reaches Quorum and the respective CoreProp passes. This adjustment has been discussed with Jarrod beforehand.]
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
+
+Option 1: Delay until full Book 1
+
+Option 2: Delay until Community Proposal
+
+Option 3: Start Auction 3 ASAP
+
+**Voting Period:** 23 - 30 March 2022
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xa8ae9fff29189ddf79845a7875ccfc696273aa2fca9fed42140a6bbe55f12b97)
+
+<hr />
+
+### Reducing the Parcel VRF Variance
+**Aavegotchi Improvement Proposal #26**
+
+**Proposal Summary:**
+
+*Problem:*
+
+The VRF variance for Alchemica under the ground of parcels (0.2 - 1.8 of average) seems very high to me and could lead to some people getting rekt - see the graphic posted on the Discourse Thread.
+
+A very unlucky spacious owner could get less alchemica than a lucky reasonable owner - which is in my opinion very bad UX, especially considering that it was communicated this wouldn’t be possible. Keep in mind that the first round (quarter) will distribute more Alchemica than the rest of them, so losing big in the first round could set someone back by a lot.
+
+*Solution*
+
+I want to propose lowering the variance to AT LEAST 0.5 - 1.5 if not even 0.75 - 1.25 for the first round (Voting Choice 1). My issue with this very high variance is that people made financial decisions based on the average numbers published before the first auction, making people lose 50-80% of Alchemica value underneath the parcel is terrible UX to me.
+
+Another option suggested by Mori would be to create a binomial distribution with the left tail cut off, so it's possible to win big but impossible to get rekt hard (Voting Choice 2). This results in an average pull of 100, a minimum pull of 60, and a maximum pull of ~800. There's a fairly reasonable chance of winning this top prize, with ~0.02% of parcels being able to achieve this. Important note: This option would reduce the previous Median of 100 to roughly 83.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+
+Option 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
+
+Option 2: Binomial Distribution
+
+Option 3: No, don't change the Variance
+
+**Voting Period:** 23 - 30 March 2022
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x09c3132896ba5c8e677e018a86ba1a74729955f64799dbfd4e422058f9198817)
+
+<hr />
+
+### Alternative Gotchiverse Trait Mapping
+**Aavegotchi Improvement Proposal #27**
+
+**Proposal Summary:**
+
+With the introduction of Gotchiverse trait maps in the Game Bible Chapter 2, a significant discussion kicked off analyzing potential imbalances, weaknesses and areas for innovation in the original proposed trait map for NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+
+NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
+
+AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
+
+SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
+
+BRN: Melee Power (0 BRN) <===> Ranged Power (100 BRN)
+
+EYS: To Be Confirmed
+
+EYC: To Be Confirmed
+
+Please refer to the DAO forum thread for a full rundown on what these changes mean (including an FAQ section).
+
+Core Effects of the New Trait Map
+
+* Movement speed removed from trait maps will now lead to an improved quality of life user experience (UX) for all players starting out in the Gotchiverse, both new and old,
+* Carrying capacity removed from trait maps corrects the imbalance of 1 farming trait vs. 7 combat traits on NRG, AGG, SPK and BRN,
+* There is now a clear distinction between physical and ability specialist (mage) gotchis,
+* There is now a clear distinction between melee and ranged gotchis,
+* Ethereality can now be thought of as “Luck” and influences evasion, critical strikes, slipping through walls and all sorts of other chance based actions in the Gotchiverse.
+
+*End Goal*
+
+For the community and Pixelcraft to build a trait map together that is balanced, has excellent UX, playability and longevity while simultaneously allowing the flexibility to implement wearable buffs and abilities that work with the traits in the future.
+
+*Risks*
+
+There is potential that some players and investors have already purchased gotchis based on the original trait mappings. It is important to note that these traits were always specified as non-immutable in the Game Bible HOWEVER, we strongly believe the new trait maps proposed here will create even moar diverse and entertaining play styles for OG investors and new players alike to experiment with and enjoy playing.
+
+*Final Important Notes*
+
+There are a number of ways these Traits can scale (Yin/Yang linear, asymmetric, buff only starting from 50 and diminishing returns to name a few). The Trait Scaling System is still under review by the community so look forward to further calls with Pixelcraft (to really get into the nitty gritty) and another SigProp! EYS and EYC are still under review by the community. A number of interesting ideas including farming/alchemica/HUD abilities have been proposed. Make sure you get involved and have your say on how you’d like to see these evolve too!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
+
+Option 1: Yes, use the new Trait Map
+
+Option 2: No, stick with the original
+
+**Voting Period:** 23 - 30 March 2022
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xbe4999b68f97f0e3406d65aff4e36a97768af72eb5cbd16c92641dcfdd6f35c9)
+
+<hr />
+
+### Extending the DAO Treasury Task Force Multisig
+**Aavegotchi Improvement Proposal #28**
+
+**Proposal Summary:**
+
+Hi frens, in Chapter 2 we proposed that 10% of the Gotchus Alchemica supply be vested over 30 years to be used for Ecosystem purposes. The primary goal of this allocation is to ensure excellent long-term liquidity across many platforms, including the GAX, various DEXes on Polygon, Mainnet, and even CEXes.
+
+Those who follow the project carefully know that we always try to do everything “by the book”, to make Aavegotchi a model case study for decentralization and legal compliance. We are currently in the final stages of setting up a new legal wrapper for AavegotchiDAO (more specifically, a Panama Foundation) and will soon be making an announcement for applications to serve.
+
+On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
+
+While all of this is happening in the background, we are also launching FIVE new ERC20 Alchemica tokens and locking a sizable amount of them into vesting contracts.
+
+For both legal and strategic reasons, we believe that the Ecosystem allocation should not be managed by Pixelcraft, but instead by AavegotchiDAO. The DAO Treasury Force has already been created to manage some of the DAO treasury, but the number of signers is quite few (six) and in my opinion insufficient to hold such a sum of funds.
+
+Therefore, I propose we create an additional multisig under the current DTF, with fifteen signers instead of the current six. **Eleven** out of fifteen signatures would be required to confirm transactions.
+
+This multisig would be the beneficiary of the Ecosystem Vesting Contract (which holds 10% of each Alchemica’s token supply, vested over 30 years), and could also inherit the 1M GHST originally allocated during the GHST creation for Ecosystem building, to help bootstrap Alchemica liquidity.
+
+On our side, we will deploy the Alchemica and create initial liquidity pools on Quickswap, after which we will transfer ownership of the vesting contract to the multisig. After that point, it will be up to the DTF to coordinate liquidity provision.
+
+Let’s goooo Gotchigang!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
+
+[Final note: You can vote for multiple members at once, the top 9 choices will then get elected! Short pitches for everyone can be found in the discussion thread]
+
+Option 1: Kokusho
+
+Option 2: MGG
+
+Option 3: Choyna
+
+Option 4: Pgendreau
+
+Option 5: Diddlypoo
+
+Option 6: Tburd.eth
+
+Option 7: Jarrod
+
+Option 8: MarvinP
+
+Option 9: Notorious_BTC
+
+Option 10: Hardkor
+
+Option 11: Yanik
+
+Option 12: Master_Yin
+
+Option 13: Nestor
+
+Option 14: Chichi
+
+**Voting Period:** 23 - 30 March 2022
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8b5862698c550b53e57f6ce4628a7a13ed5a4772e541c414e9a27fbcf95cf8c2)
 
 <hr />
 

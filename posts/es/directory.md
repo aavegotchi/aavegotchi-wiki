@@ -49,19 +49,21 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Glosario](/glossary)
 
-* [Gotchiverso](/gotchiverse)
+* [Gotchi Lending](/gotchi-lending)
 
-* [Intercambio de Gotchus Alchemica](/gotchus-alchemica-exchange)
+* [Gotchiverse](/gotchiverse)
 
-* [Clan](/guild)
+* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
-* [Ritual](/haunt)
+* [Guild](/guild)
 
-* [Inicio](/index)
+* [Haunt](/haunt)
 
-* [Introducción](/introduction)
+* [Home](/index)
 
-* [Fidelidad](/kinship)
+* [Introduction](/introduction)
+
+* [Kinship](/kinship)
 
 * [Maall](/maall)
 
@@ -71,43 +73,43 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Memes](/memes)
 
-* [Hitos](/milestones)
+* [Milestones](/milestones)
 
-* [Minijuegos](/minigames)
+* [Mini-Games](/minigames)
 
-* [Eventos de mini juego EXP](/minigame-xp-events)
+* [Eventos de mini juego XP](/minigame-xp-events)
 
-* [Misiones](/missions)
+* [Missions](/missions)
 
 * [Mumbai Testnet](/mumbai-testnet)
 
-* [Socios](/partners)
+* [Partners](/partners)
 
 * [POAP](/poap)
 
 * [Polygon](/polygon)
 
-* [Portales](/portals)
+* [Portals](/portals)
 
-* [Estadísticas de los sorteos](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
 * [Temporada Rarity Farming](/rarity-farming-seasons)
 
-* [Hoja de ruta](/roadmap)
+* [Roadmap](/roadmap)
 
 * [Sets](/sets)
 
-* [Redes Sociales](/socialmedia)
+* [Social Media](/socialmedia)
 
-* [Fuerza Espiritual](/spirit-force)
+* [Spirit Force](/spirit-force)
 
-* [Historial de Fuerza Espiral](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
 
-* [Equipo](/team)
+* [Team](/team)
 
 * [Los Nueve Adeptos](/the-nine-aadepts)
 
@@ -115,12 +117,12 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Rasgos](/traits)
+* [Traits](/traits)
 
-* [Tutoriales](/tutorials)
+* [Tutorials](/tutorials)
 
-* [colección uGOTCHI](/ugotchi)
+* [uGOTCHI Collection](/ugotchi)
 
-* [Equipables](/wearables)
+* [Wearables](/wearables)
 
-* [EXP](/xp)
+* [XP](/xp)
