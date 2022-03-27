@@ -49,6 +49,8 @@ contributors:
 
 * [Thuật Ngữ](/glossary)
 
+* [Gotchi Lending](/gotchi-lending)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Sàn Giao Dịch Gotchus Alchemica](/gotchus-alchemica-exchange)

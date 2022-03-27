@@ -118,6 +118,8 @@ Mục tiêu chính của Liquidator là thu thập Alchemica rơi vãi khắp n�
 
 Người Thanh Khoản được định hình là cách để có thể chơi game miễn phí trong Gotchiverse Realm, không có lượng cung tối đa và khả năng thu thập bị giới hạn.
 
+Cũng có một tính năng mang tên [<0>Gotchi Lending](/gotchi-lending) cho phép chủ Gotchi mang Gotchi cho người khác thuê trong một khoảng thời gian để trải nghiệm game.
+
 ## Giao Tiếp Xã Hội Trong Gotchiverse
 
 Aavegotchi thích giao tiếp xã hội với bạn của mình, và nơi mà chúng thích đến chơi nhất chính là bên trong Gotchiverse!
@@ -146,14 +148,14 @@ table_gotchusAlchemicaSupply
 
 Gotchus Alchemica có thể được chiết xuất ra từ REALM theo 4 cách khác nhau:
 
-* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
+* **Alchemical Channeling**: tiền lương cơ bản hàng ngày mà Aavegotchi kiếm được trực tiếp từ Gotchiverse, thay vì từ gói đất.
 * **Communal Channeling (Đồng Truyền)**: Aavegotchi cũng có thể cùng nhau truyền Alchemica công trình Gotchi Lodge đã được dựng lên trên đất REALM. Để tham gia Đồng Truyền, Aavegotchi phải mặc chung đồng phục Guild Insignia và có mặt tại Mẫu Đất REALM trong buổi lễ. Càng có nhiều Aavegotchi tham gia vào lễ Đồng Truyền, Alchemica sẽ được farm càng nhanh.
 * **Farming (Cày)**: Một khi công trình Harvester (tạm dịch: Máy Thu Hoạch) đã được hoàn thành, Alchemica sẽ bắt đầu được tích lũy một cách thụ động. Với mỗi một lượng x đi vào công trình Reservoir (Hồ Chứa), một lượng **y** sẽ tràn ra bản đồ gần đó, và một lượng **z** sẽ đi vào Cánh Cổng Lớn
 * **Harvesting (Thu Hoạch)**: Aavegotchi và Người Thanh Khoản có thể lượn quanh bản đồ để thu thập Alchemica rơi ra từ quá trình khai thác.
 
 Các giao dịch với Gotchus Alchemica sẽ diễn ra tại [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói đất REALM trong Act I.
+Bản sau đây sẽ cho bạn xem ướt tính Alchemica có trong mỗi gói đất REALM.
 
 <img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Số Lượng Aavegotchi Gốc trong mỗi Gói Đất" />
 
@@ -165,9 +167,9 @@ Trong suốt quá trình lắp ráp, một lượng Alchemica nhỏ (5%) sẽ b�
 
 * 40% sẽ được đưa vào Cánh Cổng Lớn, nguồn gốc của tất cả năng lượng trong Gotchiverse. Đại Môn sẽ thu thập nguồn Alchemica theo thời gian, và bất kỳ lượng nào vượt quá mức này sẽ được tái tạo trong cõi Gotchiverse thông qua quá trình truyền giả kim và những hoạt động tặng thưởng khác.
 
-* 40$ sẽ được đưa cho Summoners, người đã mang Gotchiverse vào thực tại. Summoners là những người khiêm tốn và thông thái và sẽ làm tất cả mọi thứ trong quyền hạn của mình để quảng bá cuộc sống trong Gotchiverse.
+* 40% dành cho [Summoners](/team#summoners), nhữn người đã biến Gotchiverse thành hiện thực. Summoners là những người khiêm tốn và thông thái và sẽ làm tất cả mọi thứ trong quyền hạn của mình để quảng bá cuộc sống trong Gotchiverse.
 
-* 10% sẽ được mang cho AavegotchiDAO, những người quản lý và chăm sóc cho Gotchiverse. Họ khiến cho Gotchiverse trở thành một nơi đáng sống hơn!
+* 15% sẽ được mang cho AavegotchiDAO, những người quản lý và chăm sóc cho Gotchiverse. Họ khiến cho Gotchiverse trở thành một nơi đáng sống hơn!
 
 <img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Lượng Gotchus Alchemica đã sử dụng và điểm đến của chúng" />
 

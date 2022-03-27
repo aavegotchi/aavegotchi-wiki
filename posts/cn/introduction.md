@@ -76,4 +76,4 @@ Aavegotchi 宇宙为 Aavegotchis 提供了想要的一切：
 * [传送门](/portals)
 * [GHST 实用代币](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi 领地](/metaverse)
+* [Aavegotchi 领地](/gotchiverse)

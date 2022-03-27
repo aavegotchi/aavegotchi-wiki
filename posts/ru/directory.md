@@ -49,6 +49,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Глоссарий](/glossary)
 
+* [Gotchi Lending](/gotchi-lending)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)

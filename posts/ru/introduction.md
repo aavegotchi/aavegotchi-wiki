@@ -68,4 +68,4 @@ contributors:
 * [Порталы.](/portals)
 * [Токен-утилита GHST.](/ghst)
 * [АавеготчиDAO.](/dao)
-* [Вселенная Аавеготчи.](/metaverse)
+* [Вселенная Аавеготчи.](/gotchiverse)

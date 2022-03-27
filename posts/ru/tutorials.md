@@ -44,6 +44,7 @@ Aave и аТокены.
 <li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
 </ul>
 
 </div>
@@ -195,3 +196,12 @@ Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-membe
 * Learn about the different types of Core Proposals
 * Learn about Vote Differential
 * Learn how to Vote
+
+<hr />
+
+### Accessing the Gotchiverse on Mumbai Testnet
+Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+
+* Learn about the required setup to try out the Gotchiverse
+* Learn about the control scheme in the Gotchiverse
+* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation

@@ -49,6 +49,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [词汇表](/glossary)
 
+* [Gotchi Lending](/gotchi-lending)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)

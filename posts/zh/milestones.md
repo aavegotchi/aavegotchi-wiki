@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [AGIPs 24 - 28 are open for voting!](https://blog.aavegotchi.com/vote-agip-24-25-26-27-28-treasury-staking-on-aave-realm-auction-raffle-delay-parcel-vrf-variance-reduction-alternative-trait-mapping-dao-treasury-task-force-multisig-extension/)
+* 5 new coreprops for #gotchigang to vote on
+* Read and vote now!
+<p></p>
+
 ## [Celebrate the Alpha launch of the Gotchiverse by minting a limited edition Golden Aaltar NFT!](https://blog.aavegotchi.com/le-golden-aaltar/)
 * The Gotchiverse alpha is launching on 31st March and will feature **real** Gotchus Alchemica
 * Collect as much Alchemica as possible to craft a limited edition Golden Aaltar NFT!
