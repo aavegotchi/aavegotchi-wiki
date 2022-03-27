@@ -44,7 +44,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 <li><a href=#buying-an-aavegotchi--video->Mua Aavegotchi (Video)</a></li>
 <li><a href=#buying-ghst-token--article->Mua Token GHST (Bài viết)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Tham gia AavegotchiDAO (Bài Viết)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Tham gia Gotchiverse trên Mumbai Testnet</a></li>
 </ul>
 
 </div>
@@ -179,29 +179,29 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 <hr />
 
 ### Mua Token GHST (Bài viết)
-Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+Xem bài viết tại [đây](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/)
 
-* Learn about the GHST token
-* Learn what the token could be used for
-* Learn where to buy GHST
+* Tìm hiểu về token GHST
+* Tìm hiểu cách sử dụng token
+* Tìm hiểu cách mua GHST
 
 <hr />
 
 ### Tham gia AavegotchiDAO (Bài Viết)
-Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+Xem bài viết tại [đây](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/)
 
-* Learn about the AavegotchiDAO Forum
-* Learn how to create Signal Proposals
-* Learn how Signal Proposals Become Core Proposals
-* Learn about the different types of Core Proposals
-* Learn about Vote Differential
-* Learn how to Vote
+* Tìm hiểu về AavegotchiDAO Forum
+* Tìm hiểu cách tạo Signal Proposals
+* Tìm hiểu cách Signal Proposals trở thành Core Proposals
+* Tìm hiểu những loại Core Proposal khác nhau
+* Tìm hiểu cách biệt số phiếu
+* Tìm hiểm cách bỏ phiếu
 
 <hr />
 
-### Accessing the Gotchiverse on Mumbai Testnet
-Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+### Tham gia Gotchiverse trên Mumbai Testnet
+Xem bài viết tại [đây](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
 
-* Learn about the required setup to try out the Gotchiverse
-* Learn about the control scheme in the Gotchiverse
-* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+* Tìm hiểu những thứ cần có để trải nghiệm Gotchiverse
+* Tìm hiểu cách sử dụng Gotchiverse
+* Tìm hiểu cách thu thập Gotchus Alchemica và chế tạo công trình Aaltar
