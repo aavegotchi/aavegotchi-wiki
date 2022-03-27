@@ -36,14 +36,14 @@ Bên trong, các Gotchi đang bận mặc cả với nhau.
 
 <ol>
 <li><a href=#features>Các tính năng</a></li>
-<li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#gltr-token>Token GLTR</a></li>
 </ol>
 
 </div>
 
 ## Các tính năng
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+Gotchus Alchemica Exchange (GAX) là một cơ sở hạ tầng chủ chốt của Aavegotchi protocol, cho phép các trò chơi xây dựng trên Aavegotchi có được thanh khoản ổn định và sâu với 4 token Gotchus Alchemica:
 
 * FUD
 * FOMO
@@ -52,31 +52,31 @@ The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aav
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Các cặp Giao Dịch của Gotchus Alchemica" />
 
-It also provides a sustainable source of revenue for powering rewards of the in-game economy.
+Nó mang đến một nguồn thu nhập bền vững để tài trợ phần thưởng cho nền kinh tế trong game.
 
-The GAX is a clone of SushiSwap V2, with the following differences:
+GAX là một bản sao của SushiSwap V2, với những điểm khác nhau sau đây:
 
-* **DAO-owned Liquidity**
+* **Thanh khoản được sở hữu bởi DAO**
 
-A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+Một điểm khác biệt cốt lõi giữa GAX và những sàn DEX khác chính là GAX được thiết kết để đáp ứng một như cầu thiết yếu trong giao thức Aavegotchi — sở hữu và kích thích thanh khoản cho nền kinh tế của token trong Gotchiverse (và những game khác).
 
-Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+Mỗi token này bao gồm 10% phân bố cho “Hệ Sinh Thái” được sở hữu bởi [AavegotchiDAO](/dao), có thể được ghép với GHST để cung cấp lớp cơ bản cho **thanh khoản trọn đời của giao thức**, được sở hữu bởi cộng đồng. Thanh khoản ổn định này đảm bảo một lớp thanh khoản cơ bản được sở hữu bởi Aavegotchi, vốn sẽ tăng lên theo thời gian mà không cần phải dựa vào thanh khoản phụ thuộc từ những bên thứ ba.
 
-* **Low trading fees**
+* **Phí giao dịch thấp**
 
-Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+Do GAX không phụ thuộc vào thanh khoản từ bên thứ ba, nên nó có khả năng đặt phí thấp hơn rất nhiều so với các DEX khác. Những loại phí đặc thù này trên các DEX dựa trên Uniswap là 0,3%, được gắn chặt vào hợp đồng và gắn liền với mỗi cặp giao dịch.
 
-On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+Trên GAX, mỗi cặp có một loại phí tùy chỉnh riêng, có thể được set bởi người tạo ra cặp giao dịch đó, và được cặp nhật bởi người sở hữu hợp đồng.
 
-This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+Điều này cho phép AavegotchiDAO có thể lên chiến lược về cặp nào có thể cung cấp thanh khoản, với tiềm năm thu hút khối lượng giao dịch từ các sàn DEX nổi tiếng.
 
-* **Trading Fees Power P2E**
+* **Phí giao dịch hỗ trợ cho phần thưởng Play to Earn**
 
-The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+Điểm khác biệt lớn khác giữa GAX và các sàn DEX truyền thống là việc sử dụng phí. Trên các sàn DEX truyền thống, phí giao dịch sẽ được chia cho người cung cấp thanh khoản, nhưng trên GAX, phí giao dịch sẽ được đưa vào Quỹ Phần Thưởng Cho Người Chơi — một quỹ đặc biệt để khuyến khích lối chơi trong Giao thức Gaming Aavegotchi NFT.
 
-This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+Điều này đảm bảo rằng Aavegotchi sẽ có nguồn phần thưởng người chơi bền vững để cùng nhau phát triển nền kinh tế của cả mạng lưới.
 
-## GLTR Token
+## Token GLTR
 
 **Utility**
 
