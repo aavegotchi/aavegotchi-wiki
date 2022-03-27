@@ -17,14 +17,14 @@ contributors:
 **Nội dung**
 
 <ol>
-<li><a href=#what-is-kinship>What is Kinship</a></li>
-<li><a href=#kinship-levels>Kinship Levels</a></li>
-<li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+<li><a href=#what-is-kinship>Kinship là gì</a></li>
+<li><a href=#kinship-levels>Cấp độ Kinship</a></li>
+<li><a href=#kinship-and-alchemical-channeling>Kinship và Truyền Khoáng Sản</a></li>
 </ol>
 
 </div>
 
-## What is Kinship
+## Kinship là gì
 
 Kinship là độ trung thành mà Aavegotchi dành cho bạn. Kinship không được chỉ định ngẫu nhiên mà nó bắt đầu với mộ giá trị cố định là 50 và được triệu hồi và tăng lên hoặc giảm xuống dựa trên nhiều yếu tốt, ví dụ như khoảng thời gian mà Aavegotchi được ở bên cùng một chủ, và bao lâu thì chủ tương tác với nó một lần. Giá trị kinship tối thiểu là 0. Giá trị kinship tối đa thì không tồn tại.
 
@@ -34,29 +34,29 @@ Cứ mỗi 12 giờ, người dùng sẽ nhận được tối đa 1 điểm Kin
 
 Kinship là tài khoản nội bộ nằm trong hợp đồng thông minh của Aavegotchi.
 
-Các lọ thuốc có thể được dùng để tăng điểm kinship. However, they are limited edition consumables.
+Các lọ thuốc có thể được dùng để tăng điểm kinship. Tuy nhiên, chúng có số lượng giới hạn.
 
-## Kinship Levels
+## Cấp độ Kinship
 
-The table below shows the kinship level and their value range.
+Bạn dưới đây thể hiện cấp độ kinship và biên giá trị của chúng.
 
 table_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavegotchi-profile).
 
-## Kinship and Alchemical Channeling
+## Kinship và Truyền Khoáng Sản
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+Kinship và Truyền Khoáng Sản. **Alchemical Channeling**: tiền lương cơ bản hàng ngày mà Aavegotchi kiếm được trực tiếp từ Gotchiverse, thay vì từ [gói đất](/gotchiverse).
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+Lượng Alchemica (FUD, FOMO, ALPHA, và KEK) mà Gotchi nhận được thông qua việc Truyền Khoáng Sản sẽ chủ yếu phụ thuộc vào cấp độ Kinship.
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+Tỷ lệ gốc cho việc truyền sẽ là **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** Tỷ lệ này sau đó sẽ được nhân lên theo cấp số, phụ thuộc vào cấp độ Kinship của Aavegotchi (xem bảng bên dưới).
 
 table_alchemicaReceivedPerChanneling
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+Mỗi điểm Kinship tăng lên sẽ tăng cấp số nhân Truyền Khoáng Sản, bằng công thức:
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+Mỗi Aaveogtchi có thể tương ttasctrong việc Truyền Khoáng Sản **cứ mỗi 24 giờ.**
 
