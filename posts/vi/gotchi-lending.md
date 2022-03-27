@@ -30,14 +30,14 @@ Gotchi Lending là nền kinh tế chia sẻ của Giao Thức Aavegotchi, cho p
 Chủ sở hữu Gotchi có thể đặt:
 * bất ký loại phí trả trước nào
 * thời lượng cho thuê
-* the earnings split
+* tỷ lệ phân chia
 
-Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
+Gotchi Lending nằm 100% trên blockchain, cho phép người dùng cho thuê NFT Aavegotchi một cách dễ dàng, không dựa trên niềm tin, và bảo mật.
 
-Gotchi Lending will go live on 28 March 2022
+Gotchi Lending sẽ lên sóng vào ngày 28 tháng Ba 2022
 
 ## Mình có thể làm gì với Gotchi Lending?
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+Gotchi Lending rất hữu ích với những ai sở hữu Aavegotchi. Nó cũng rất hữu ích cho những ai muốn chơi trong thế giới [Gotchiverse](/gotchiverse) sắp cập bến. Những [guild](/guild) lớn có thể tận dụng tính năng này để NFT có thể đến tay các thành viên, và thậm chí cho phép khả năng chia sẻ tiền vào ví ngân quỹ của guild.
 
-Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
+Các cá nhân có thể tận dụng Gotchi Lending bằng cách cho thuê Aavegotchi công khai để kiếm thu nhập thụ động, hoặc thậm chí là cho người thân và gia đình thuê với chi phí bằng 0.
