@@ -78,25 +78,25 @@ Trên GAX, mỗi cặp có một loại phí tùy chỉnh riêng, có thể đư
 
 ## Token GLTR
 
-**Utility**
+**Công dụng của Gltr**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+Thời gian là nguồn lực hiếm nhất trên giới, và trong cuộc đua thu thập các nguồn lực, nó là thức có giá trị nhất. Công dụng chính của GLTR là cho phép người chơi trong Gotchiverse có thể tăng tốc chế tạo và nâng cấp [Công trình](/gotchiverse#building-on-realm-parcels) của họ bằng cách đốt GLTR, cho phép chạm đến những cấp độ cao hơn của game. **Mỗi GLTR được đốt đi tương ứng với một block trong mạng lưới Polygon PoS.**
 
-GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+GLTR cũng có công dụng thứ hai, đó chính là token chính được dùng để đấu giá [Wearable Crest](/guild#accessing-a-guild). Các guild cũng sẽ được chọn trong việc chuyển đổi GLTR để tăng tốc trong việc Truyền theo Guild.
 
 **Tokenomics**
 
-* Max supply: 1,000,000,000,000 (1 trillion)
+* Tổng số lượng: 1,000,000,000,000 (1 nghìn tỷ)
 
-* Distribution: 100% to liquidity rewards over 30 years
+* Phân bố: 100% dành cho phần thưởng thanh khoản trong 30 năm
 
-* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+* Lịch trả dần: 10% trong năm đầu, phần còn lại sx được phân bố trong 30 năm (sẽ chia đôi cứ mỗi 4 năm)
 
-**Earning GLTR**
+**Kiếm GLTR**
 
-GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+Token LP GAX có thể được stake vào hợp đồng Master Chef để kiếm GLTR.
 
-**Burning**
+**Đốt token**
 
-All GLTR spent in-game is burned from the supply (sent to burn address).
+Tất cả GLTR được chi tiêu trong game đều sẽ được đốt khỏi nguồn cung (gửi đến địa chỉ đốt).
 
