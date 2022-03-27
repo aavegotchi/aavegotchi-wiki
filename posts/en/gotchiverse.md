@@ -179,7 +179,7 @@ Confirmed Installations include:
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
