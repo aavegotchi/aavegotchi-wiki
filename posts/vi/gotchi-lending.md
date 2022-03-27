@@ -17,26 +17,26 @@ contributors:
 **Nội dung**
 
 <ol>
-<li><a href=#what-is-gotchi-lending->What is Gotchi Lending?</a></li>
-<li><a href=#what-can-i-do-with-gotchi-lending->What can I do with Gotchi Lending?</a></li>
+<li><a href=#what-is-gotchi-lending->Gotchi Lending là gì?</a></li>
+<li><a href=#what-can-i-do-with-gotchi-lending->Mình có thể làm gì với Gotchi Lending?</a></li>
 </ol>
 
 </div>
 
-## What is Gotchi Lending?
+## Gotchi Lending là gì?
 
-Gotchi Lending is the Aavegotchi Protocol’s sharing economy, that allows users to lend their Aavegotchi NFTs out to other players for a set period of time.
+Gotchi Lending là nền kinh tế chia sẻ của Giao Thức Aavegotchi, cho phép người dùng mang NFT Aavegotchi cho những người khác thuê trong một khoảng thời gian.
 
-The owners of the Gotchi are able to set:
-* any up-front fees
-* the duration of the lending period
+Chủ sở hữu Gotchi có thể đặt:
+* bất ký loại phí trả trước nào
+* thời lượng cho thuê
 * the earnings split
 
 Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
 
 Gotchi Lending will go live on 28 March 2022
 
-## What can I do with Gotchi Lending?
+## Mình có thể làm gì với Gotchi Lending?
 
 Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
 
