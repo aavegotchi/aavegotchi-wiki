@@ -41,11 +41,11 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#adding-ghst-to-the-umbria-narni-bridge>Thêm GHST vào Cầu Umbria Narni</a></li>
 <li><a href=#launch-rarity-farming-szn-3>Triển Khai Rarity Farming Mùa 3</a></li>
 <li><a href=#co-sponsoring-the-goodghosting-pool>Đồng Tài Trợ Cho Quỹ GoodGhosting</a></li>
-<li><a href=#deposit-3m-treasury-ghst-into-aave>Deposit 3M Treasury GHST into Aave</a></li>
-<li><a href=#delay-gotchiverse-land-auction---raffle-3>Delay Gotchiverse Land Auction & Raffle 3</a></li>
-<li><a href=#reducing-the-parcel-vrf-variance>Reducing the Parcel VRF Variance</a></li>
-<li><a href=#alternative-gotchiverse-trait-mapping>Alternative Gotchiverse Trait Mapping</a></li>
-<li><a href=#extending-the-dao-treasury-task-force-multisig>Extending the DAO Treasury Task Force Multisig</a></li>
+<li><a href=#deposit-3m-treasury-ghst-into-aave>Gửi 3 triệu GHST Ngân Quỹ vào Aave</a></li>
+<li><a href=#delay-gotchiverse-land-auction---raffle-3>Hoãn Đấu Giá và Xổ Số Land Gotchiverse 3</a></li>
+<li><a href=#reducing-the-parcel-vrf-variance>Giảm Biến Số Parcel VRF</a></li>
+<li><a href=#alternative-gotchiverse-trait-mapping>Thay Thế Cách Quy Đổi Chỉ Số Trait Gotchiverse</a></li>
+<li><a href=#extending-the-dao-treasury-task-force-multisig>Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Các marketplace (thị trường trao đổi) dành cho Aavegotchi</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
@@ -891,12 +891,12 @@ Phương án 3: Phiếu Trắng
 
 <hr />
 
-### Delay Gotchiverse Land Auction & Raffle 3
+### Hoãn Đấu Giá và& Xổ Số Land Gotchiverse 3
 **Aavegotchi Improvement Proposal #25**
 
 **Tóm Tắt Đề Xuất:**
 
-Pixelcraft has provided a schedule in Chapter 1 in the Gotchiverse Game Bible with the Gotchiverse Land Auction / Raffle 3 scheduled to occur Late February: [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse Game Bible với sự kiện Đấu Giá / Xổ Số Land Gotchiverse được đặt lịch tổ chức vào cuối tháng Hai[https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 
 This was scheduled to happen before the following Gotchiverse Game Bible Chapters were published according to that same post. 4 more Chapters were released in March and there are more planned to be released during the following weeks/months.
 
@@ -920,7 +920,7 @@ Option 3: Start Auction 3 ASAP
 
 <hr />
 
-### Reducing the Parcel VRF Variance
+### Giảm Biến Số Parcel VRF
 **Aavegotchi Improvement Proposal #26**
 
 **Tóm Tắt Đề Xuất:**
@@ -951,7 +951,7 @@ Option 3: No, don't change the Variance
 
 <hr />
 
-### Alternative Gotchiverse Trait Mapping
+### Thay Thế Cách Quy Đổi Chỉ Số Trait Gotchiverse
 **Aavegotchi Improvement Proposal #27**
 
 **Tóm Tắt Đề Xuất:**
@@ -1004,7 +1004,7 @@ Option 2: No, stick with the original
 
 <hr />
 
-### Extending the DAO Treasury Task Force Multisig
+### Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO
 **Aavegotchi Improvement Proposal #28**
 
 **Tóm Tắt Đề Xuất:**
