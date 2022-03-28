@@ -927,23 +927,23 @@ Phương án 3: Bắt Đầu Đấu Giá 3 càng sớm càng tốt
 
 *Vấn đề:*
 
-The VRF variance for Alchemica under the ground of parcels (0.2 - 1.8 of average) seems very high to me and could lead to some people getting rekt - see the graphic posted on the Discourse Thread.
+Biến số VRF dành cho Alchemica bên dưới lòng đất (trung bình 0.2 - 1.8) vẫn có vẻ cao và có thể khiến nhiều người toang - hãy xem biểu đồ được đăng trong bài viết trên Discord.
 
-A very unlucky spacious owner could get less alchemica than a lucky reasonable owner - which is in my opinion very bad UX, especially considering that it was communicated this wouldn’t be possible. Keep in mind that the first round (quarter) will distribute more Alchemica than the rest of them, so losing big in the first round could set someone back by a lot.
+Chủ sở hữu của một mảnh đất spacious có thể nhận được ít alchemica hơn một người chủ của mảnh đất reasonable may mắn - đó là lý do tại sao mình nghĩ đây là một trải nghiệm người dùng rất tệ, đặc biệt là khi chúng mình đã được báo trước là việc này sẽ không xảy ra. Hãy nhớ rằng vòng đầu tiên (quý) thì Alchemica sẽ được phân bố nhiều hơn thời điểm khác, vậy nên sự hụt hẫn ở vòng đầu có thể khiến ai đó bị tuột lại khá xa.
 
 *Giải pháp*
 
-I want to propose lowering the variance to AT LEAST 0.5 - 1.5 if not even 0.75 - 1.25 for the first round (Voting Choice 1). My issue with this very high variance is that people made financial decisions based on the average numbers published before the first auction, making people lose 50-80% of Alchemica value underneath the parcel is terrible UX to me.
+Mình muốn đề xuất hạ thấp biến số xuống ÍT NHẤT 0.5 - 1.5 nếu thậm chí không phải là 0.75 - 1.25 ở vòng đầu (Lựa chọn 1). Vấn đề của mình với biến số cao là mọi người đã đưa ra quyết định tài chính dựa trên những con số trung bình được đăng tải trước buổi đấu giá đầu tiên, khiến mọi người mất 50-80% giá trị Alchemica nằm bên dưới gói đất là một trải nghiệm người dùng tệ hại đối với mình.
 
-Another option suggested by Mori would be to create a binomial distribution with the left tail cut off, so it's possible to win big but impossible to get rekt hard (Voting Choice 2). This results in an average pull of 100, a minimum pull of 60, and a maximum pull of ~800. There's a fairly reasonable chance of winning this top prize, with ~0.02% of parcels being able to achieve this. Important note: This option would reduce the previous Median of 100 to roughly 83.
+Một phương án khác được đề xuất bởi Mori là tạo ra hệ phân bố nhị thức với khả năng cắt bỏ phần đuôi, vậy nên sẽ có thể thắng lớn nhưng gần như không thể thua tan nát (Phương án 2). Việc này sẽ dẫn đến lượng trung bình 100, nhỏ nhất là 60, và nhiều nhất là 800. Đây là một thay đổi có lý để thắng giải top, với chỉ ~0,02% gói đất có thể đạt được điều này. Ghi chú quan trọng: Phương án này sẽ giảm số trung bình là 100 xuống còn khoảng 83.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
-Option 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
+Phương án 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
 
-Option 2: Binomial Distribution
+Phương án 2: Phân bố nhị thức
 
-Option 3: No, don't change the Variance
+Phương án 3: Không, đừng thay đổi biến số
 
 **Thời gian vote:**23 - 30 tháng Mười 2022
 
@@ -976,27 +976,27 @@ Xem qua chủ đề trên diễn đàn DAO để hiểu đầy đủ ý nghĩa c
 
 * Tốc độ di chuyển được xóa khỏi biểu đồ quy đổi sẽ giúp cả thiện trải nghiệm người dùng (UX) dành cho tất cả người chơi mới bắt đầu tham gai Gotchiverse, cả mới và cũ,
 * Sức chứa bị gỡ bỏ khỏi bản đồ sẽ sửa chữa lại sự mất cân bằng của 1 chỉ số farm vs 7 chỉ số combat gồm NRG, AGG, SPK và BRN,
-* There is now a clear distinction between physical and ability specialist (mage) gotchis,
-* There is now a clear distinction between melee and ranged gotchis,
-* Ethereality can now be thought of as “Luck” and influences evasion, critical strikes, slipping through walls and all sorts of other chance based actions in the Gotchiverse.
+* Giờ đây đã có sự khác biệt rõ ràng giữa những gotchi chuyên về sức mạnh vật lý và kỹ năng (pháp sư),
+* Hiện đã có sự khác nhau rõ ràng giữa tướng đánh gần và đánh xa,
+* Thần lực giờ đây có thể xem như "May mắn" và ảnh hưởng đến khả năng nó tránh, chí mạng, lướt qua tường và tất cả những hành động dựa trên cơ hội trong Gotchiverse.
 
-*End Goal*
+*Mục Đích Cuối Cùng*
 
-For the community and Pixelcraft to build a trait map together that is balanced, has excellent UX, playability and longevity while simultaneously allowing the flexibility to implement wearable buffs and abilities that work with the traits in the future.
+Để cộng đồng và Pixelcraft cùng nhau xây dựng một biểu đồ quy đổi thật là cân bằng, trải nghiệm người chơi tuyệt vời, và sự bền vững, đồng thời cho phép sự linh hoạt trong việc tích hợp buff trang bị và kỹ năng liên kết với chỉ số trait trong tương lai.
 
-*Risks*
+*Rủi ro*
 
-There is potential that some players and investors have already purchased gotchis based on the original trait mappings. It is important to note that these traits were always specified as non-immutable in the Game Bible HOWEVER, we strongly believe the new trait maps proposed here will create even moar diverse and entertaining play styles for OG investors and new players alike to experiment with and enjoy playing.
+Có nguy cơ một số người chơi và nhà đầu tư đã mua gotchi dựa trên những chỉ số quy đổi cũ. Một lưu ý quan trọng cần nhớ là những chỉ số trait này luôn được xem là không vĩnh viễn trong Game Bible. TUY NHIÊN, bọn mình tin chắc rằng bản đồ mới được đề xuất ở đây thậm chí sẽ đa dạng và giải trí hơn trong phong cách chơi dành cho những nhà đầu tư OG và người chơi mới để có thể trải nghiệm và chơi game.
 
-*Final Important Notes*
+*Ghi Chú Quan Trọng*
 
-There are a number of ways these Traits can scale (Yin/Yang linear, asymmetric, buff only starting from 50 and diminishing returns to name a few). The Trait Scaling System is still under review by the community so look forward to further calls with Pixelcraft (to really get into the nitty gritty) and another SigProp! EYS and EYC are still under review by the community. A number of interesting ideas including farming/alchemica/HUD abilities have been proposed. Make sure you get involved and have your say on how you’d like to see these evolve too!
+Có nhiều cách để chỉ số Trait ảnh hưởn gđến việc cân bằng (âm dương tuyến tính, không đối xứng, buff chỉ bắt đầu từ 50 và lợi nhuận giảm dần, v. v.). Hệ Thống Cân Bằng Trait vẫn đang được xem xét bởi cộng đồng nên hãy đón chờ những cuộc gọi kế tiếp từ Pixelcraft (để thực tham gia vào đó) và một bản SignProp khác nhé! EYS và EYC vẫn đang được cộng đồng xem xét. Một số ý tưởng thú vị bao gồm khả năng farm/alchemica/HUD đã được đề xuất. Hãy nhớ rằng nếu bạn nên tham gia và nói lên những suy nghĩ của mình nhé!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
 
-Option 1: Yes, use the new Trait Map
+Phương án 1: Vâng, hãy dùng bản quy đổi mới này
 
-Option 2: No, stick with the original
+Không, hãy sử dụng bản cũ
 
 **Thời gian vote:**23 - 30 tháng Mười 2022
 
