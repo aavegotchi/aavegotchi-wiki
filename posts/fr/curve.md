@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Bonding Curve'
 description: 'The Aavegotchi Bonding Curve'
 image: "curve/bonding-curve.png"
@@ -20,7 +20,7 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#mechanics>Mechanics</a></li>
