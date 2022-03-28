@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+title: 'Aavegotchis'
+description: 'Présentation du Wiki Aavegotchi'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -11,33 +11,33 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Aavegotchi</p>
+<p class="headerImageText">Aavegotchis</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi** est un jeu d'objets de collection crypto compatible DeFi développé par Pixelcraft Studios, basé à Singapour, qui permet aux joueurs d'invoquer des avatar [en jetons non-fongibles](/glossary#non-fungible-token) (NFTs) avec des [jetons générateurs d'intérêts](/spirit-force) et d'interagir avec le [métaverse Aavegotchi](/gotchiverse). Il s'agit d'une combinaison unique de [Finance décentralisée (DeFi)](/glossary#defi-101) et NFTs.
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Les Aavegotchis sont des fantômes pixélisés vivant sur la blockchain Ethereum, soutenus par le standard [**ERC-721**](/glossary#erc-721). Leur valeur est déterminée par le niveau de rareté, qui est calculé à l'aide de multiples facteurs, tels que les traits de base [](/traits), la quantité de collateral/aTokens, et [des objets portables équipés](/wearables).
 
-To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
+Pour améliorer le niveau de leurs Aavegotchis, les joueurs peuvent participer à une variété d'activités. Incluant [mini-jeux](/minigames), gouvernance et évènements. Les Aavegotchis peuvent également augmenter leur niveau de rareté en s'équipant d'objets dans le jeu et en augmentant de niveau.
 
-Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+Les Aavegotchis rares n'ont pas seulement une valeur sur le marché secondaire [(baazaar)](/baazaar) plus élevée. Mais ils permettent également aux Aavegotchi de mieux figurer dans l'[agriculture de rareté](/rarity-farming) (rarity farming). Il s'agit d'un mini-jeu qui récompense les Aavegotchis les plus rares avec des jetons GHST.
 
-Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated through the [GHST token](/ghst) distribution.
+Aavegotchi est gouverné par [AavegotchiDAO](/dao) qui gère tous les fonds générés par la distribution [GHST token](/ghst).
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
-<li><a href=#about-aavegotchis>About Aavegotchis</a></li>
-<li><a href=#aavegotchi-value>Aavegotchi Value</a></li>
-<li><a href=#the-aavegotchi-universe>The Aavegotchi Universe</a></li>
+<li><a href=#about-aavegotchis>A propos d’Aavegotchi</a></li>
+<li><a href=#aavegotchi-value>Valeur d'Aavegotchi</a></li>
+<li><a href=#the-aavegotchi-universe>L'Univers Aavegotchi</a></li>
 </ol>
 
 </div>
 
-## About Aavegotchis
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
+## A propos d’Aavegotchi
+Les Aavegotchis sont des objets de collection rare, du monde de la cryptomonnaies, vivant sur la blockchain d'Ethereum. Supporté par la norme ERC-721, qui est utilisée dans les jeux populaires de blockchain tels que CryptoKitties, Axie Infinity et Cryptovoxels. Les Aavegotchis possèdent trois attributs qui déterminent leur valeur globale et leur rareté dans l'univers Aavegotchi : **le collatéral, les traits et les objets portables.**
 
 *  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
 
