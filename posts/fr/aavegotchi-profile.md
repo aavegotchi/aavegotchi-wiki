@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Profile'
 description: 'Aavegotchi Profile'
 contributors:
@@ -20,7 +20,7 @@ This page will tell you what you can do with your new Gotchi frens! :D
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#accessing-your-gotchi-profile>Accessing your Gotchi Profile</a></li>
