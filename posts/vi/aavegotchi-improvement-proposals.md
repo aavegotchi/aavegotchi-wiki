@@ -956,26 +956,26 @@ Option 3: No, don't change the Variance
 
 **Tóm Tắt Đề Xuất:**
 
-With the introduction of Gotchiverse trait maps in the Game Bible Chapter 2, a significant discussion kicked off analyzing potential imbalances, weaknesses and areas for innovation in the original proposed trait map for NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+Với sự xuất hiện của hệ quy đổi chỉ số đặc tính Gotchiverse trong Game Bible Chương 2, một cuộc thảo luận đáng chú ý đã bắt đầu về những sự mất cân bằng tiềm ẩn, điểm yếu, và những lĩnh vực đột phát trong hệ quy đổi điểm đặc tính được đề ra ban đầu cho NRG, AGG, SPK & BRN. CoreProp đề xuất về việc thay đổi hệ quy chiếu trait cho 4 đặc tính này thành:
 
-NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
+NRG: Máu Tối Đa (0 NRG) <===> Thể Lực Tối Đa (100 NRG)
 
-AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
+AGG: Sức Phòng Thủ (0 AGG) <===> Tốc Độ Hành Động (100 AGG)
 
-SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
+SPK: Tối Độ Hồi Máu & Thể Lực (0 SPK) <===> Thần Lực (100 SPK)
 
-BRN: Melee Power (0 BRN) <===> Ranged Power (100 BRN)
+BRN: Sức Mạnh Đánh Gần (0 BRN) <===> Sức Mạnh Đánh Xa (100 BRN)
 
-EYS: To Be Confirmed
+EYS: Chờ Xác Nhận
 
-EYC: To Be Confirmed
+EYC: Chờ Xác Nhận
 
-Please refer to the DAO forum thread for a full rundown on what these changes mean (including an FAQ section).
+Xem qua chủ đề trên diễn đàn DAO để hiểu đầy đủ ý nghĩa của những thay đổi này (bao gôm cả phần FAQ).
 
-Core Effects of the New Trait Map
+Ảnh Hưởng Chính Đối Với Hệ Quy Đổi Mới
 
-* Movement speed removed from trait maps will now lead to an improved quality of life user experience (UX) for all players starting out in the Gotchiverse, both new and old,
-* Carrying capacity removed from trait maps corrects the imbalance of 1 farming trait vs. 7 combat traits on NRG, AGG, SPK and BRN,
+* Tốc độ di chuyển được xóa khỏi biểu đồ quy đổi sẽ giúp cả thiện trải nghiệm người dùng (UX) dành cho tất cả người chơi mới bắt đầu tham gai Gotchiverse, cả mới và cũ,
+* Sức chứa bị gỡ bỏ khỏi bản đồ sẽ sửa chữa lại sự mất cân bằng của 1 chỉ số farm vs 7 chỉ số combat gồm NRG, AGG, SPK và BRN,
 * There is now a clear distinction between physical and ability specialist (mage) gotchis,
 * There is now a clear distinction between melee and ranged gotchis,
 * Ethereality can now be thought of as “Luck” and influences evasion, critical strikes, slipping through walls and all sorts of other chance based actions in the Gotchiverse.
