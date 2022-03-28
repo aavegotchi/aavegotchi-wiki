@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Contracts Addresses'
 description: 'Aavegotchi Contracts Addresses'
 contributors:
@@ -13,7 +13,7 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
