@@ -1,6 +1,6 @@
 ---
 author: eris
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Social Media'
 description: 'All about the Aavegotchi Community'
 contributors:
@@ -18,7 +18,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
