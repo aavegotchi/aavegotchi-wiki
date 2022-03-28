@@ -1,6 +1,6 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Traits'
 description: 'Everything you need to know about Aavegotchi traits!'
 contributors:
@@ -13,7 +13,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
