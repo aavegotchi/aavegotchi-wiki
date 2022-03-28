@@ -1,6 +1,6 @@
 ---
 author: Nick Mudge
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 contributors:
@@ -28,7 +28,7 @@ Continue reading to learn how to stake GHST.
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#purchasing-ghst>Purchasing GHST</a></li>
