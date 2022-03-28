@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi POAPs'
 description: 'Aavegotchi POAPs'
 contributors:
@@ -13,7 +13,7 @@ You now have proof that you voted!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#what-are-poaps->What are POAPs?</a></li>
