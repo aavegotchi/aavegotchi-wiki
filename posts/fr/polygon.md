@@ -1,6 +1,6 @@
 ---
 author: Moon
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Polygon'
 description: 'Polygon Tutorial'
 contributors:
@@ -17,7 +17,7 @@ Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#why-polygon->Why Polygon?</a></li>
