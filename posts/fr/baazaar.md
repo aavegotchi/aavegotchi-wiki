@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Baazaar'
 description: 'Aavegotchi Baazaar'
 contributors:
@@ -34,7 +34,7 @@ Come and test your mettle! Buyers and sellers alike!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
