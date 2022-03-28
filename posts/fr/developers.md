@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Developing Aavegotchi'
 description: 'Jump in and help develop this Wiki!'
 ---
@@ -16,7 +16,7 @@ The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
