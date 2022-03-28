@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Kinship'
 description: 'Everything you need to know about Kinship and petting your Gotchi!'
 contributors:
@@ -14,7 +14,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#what-is-kinship>What is Kinship</a></li>
