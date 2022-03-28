@@ -17,7 +17,7 @@ You now have proof that you voted!
 
 <ol>
 <li><a href=#what-are-poaps->What are POAPs?</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#origins>Origine</a></li>
 <li><a href=#aavegotchi-poaps>Aavegotchi POAPs</a></li>
 <li><a href=#claiming-the-poaps>Claiming the POAPs</a></li>
 <li><a href=#viewing-your-poap-collection>Viewing your POAP Collection</a></li>
@@ -31,7 +31,7 @@ The POAP (Proof of Attendance Protocol) is a system that event organizers can us
 
 POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.
 
-## Origins
+## Origine
 
 In June 2021, our fren GotchiLove highlighted that the [dev team at POAP has created a Snapshot plugin allowing voters to be rewarded with POAP Badges](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
 
