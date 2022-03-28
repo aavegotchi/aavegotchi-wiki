@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Gaame Jaam'
 description: 'Aavegotchi Gaame Jaam'
 contributors:
@@ -16,7 +16,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#rules>Rules</a></li>
