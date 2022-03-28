@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Eye Shape'
 description: 'Aavegotchi Eye Shape'
 contributors:
@@ -17,7 +17,7 @@ Check out the full list of Aavegotchi Eye Shapes (EYS) here!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#non-haunt-specific-eye-shapes>Non-Haunt-specific Eye Shapes</a></li>
