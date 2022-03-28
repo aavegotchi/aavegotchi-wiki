@@ -37,15 +37,15 @@ Vous voulez savoir qui est derrière les mignons gotchis ? Nous allons vous mont
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Architecte Cloud senior</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Directeur du marketing</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
-<p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
+<p><a href=#moon---head-of-paartnerships>Moo - Responsable partenariat</a></p>
+<p><a href=#designerdave---game-design>DesignerDave - Design du jeu</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
-<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
-<li><a href=#origins>Origins</a></li>
+<p><a href=#mori---solidity-developer>Mori - Développeur Solidity</a></p>
+<p><a href=#jc---business-development>JC - Développement commercial</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Responsable d'Aambassadeur</a></p>
+<li><a href=#origins>Origine</a></li>
 </ol>
 
 </div>
@@ -98,7 +98,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
 </div>
 
-Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
+Stani est le fondateur et PDG d'Aave. Il est un entrepreneur chevronné avec une grande expérience dans le développement de la technologie de crypto-monnaie, de la blockchain et de l'espace fintech. Stani est également le mentor de nombreux fondateurs et conseillers d'ICO et de projets blockchain. Il est intervenu dans de nombreux Événements de la Blockchain, de FinTech et des crypto-monnaies, en particulier sur les sujets liés aux contrats intelligents Ethereum.
 
 ### Les
 
@@ -167,16 +167,16 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the hea
 
 Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
-### Moon - Head of Paartnerships
+### Moo - Responsable partenariat
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/moon.png" alt = "Moon">
 <p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
 </div>
 
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+Moon est responsable des Partenariats. Galaxy brain. Le meilleur bot d'Aavegotchi. Joueur. Mari de wagyuchicken.
 
-### DesignerDave - Game Design
+### DesignerDave - Design du jeu
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
@@ -214,7 +214,7 @@ Candoizo, aka candoizo, is a software developer dedicated to making it easy for 
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
-### Mori - Solidity Developer
+### Mori - Développeur Solidity
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
@@ -223,7 +223,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 
 Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### JC - Business Development
+### JC - Développement commercial
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
@@ -232,23 +232,23 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Aambassador Lead
+### Webb - Responsable d'Aambassadeur
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
-* long walks on the beach
-* his waifu
+Les choses que Webb adore :
+* DAOs et defi
+* jeux vidéo, le jeu préféré est dota, le jeux dont il est le plus nostalgique est World of Warcraft
+* longues promenades sur la plage
+* sa waifu
 * rofls and pepes
 * making frens
 * loving my new bank and breaking up with my old one
 
-## Origins
+## Origine
 
 ### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
@@ -261,4 +261,4 @@ And what a salesman he was!  Although unfortunately he wasn't good enough to sel
 
 When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-So this is how our heroes assembled, some details have been edited for time.
+Voici donc comment nos héros se sont unis, quelques détails ont été édités depuis longtemps.
