@@ -64,7 +64,7 @@ table_cryptocurrencies
 
 2). Ici, vous avez quelques options pour lier votre portefeuille de cryptomonnaies, selon le type de portefeuille que vous avez:
 
-<img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
+<img src = "/spirit-force/connect-your-wallet.png" alt = "Aave" class="bodyImage" />
 
 3). Avant de pouvoir commencer à utiliser Aave Protocol, vous allez vouloir besoin d'avoir des crypto-actifs. La liste des cryptomonnaies disponibles est affichée dans les sections <a href=#stablecoins>Stablecoins</a> et <a href=#cryptocurrencies>Cryptomonnaies</a> ci-dessus.
 
@@ -72,11 +72,11 @@ Si vous ne possédez aucune cryptomonnaie mais que vous voulez rejoindre l'avent
 
 Heureusement pour vous, Aave a récemment introduit un système pour convertir votre argent fiat à cryptomonnaie, ainsi vous pouvez acheter directement des crypto-actifs directement à partir de l'application Aave Protocol ! Maintenant vous pouvez utiliser Transak ou Ramp Instant pour acheter l'actif de votre choix directement avec une carte de crédit, une carte de débit ou un virement bancaire en quelques minutes seulement (voir ci-dessous).
 
-<img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
+<img src = "/spirit-force/buy-with-fiat.png" alt = "Aave" class="bodyImage" />
 
 4). Une fois que vous avez connecté votre portefeuille à la plateforme, vous pouvez déposer un actif dans Aave Protocol. Lorsque vous cliquez sur « déposer », l'interface vous montrera ce que vous avez de disponible dans votre portefeuille pour le dépôt. Vous sélectionnez ensuite l’actif que vous souhaitez déposer, choisissez le montant à déposer, puis voila, vous l’avez fait! *Remarque : il y aura une transaction « approbation » avant que la transaction de dépôt réelle ne soit effectuée. Il s'agit d'accorder la permission au contrat de dépôt pour utiliser cet actif particulier que vous déposez.*
 
-<img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
+<img src = "/spirit-force/deposit.gif" alt = "Aave" class="bodyImage" />
 
 Dès que votre transaction de dépôt aura lieu, vous bénéficierez du taux d'intérêt sur le dépôt. La version aToken du jeton est maintenant visible dans votre portefeuille.
 
@@ -84,12 +84,12 @@ Dès que votre transaction de dépôt aura lieu, vous bénéficierez du taux d'i
 
 Vous avez vos jetons aTokens ? Bien!
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+Allons à la page [jeton maTokens](/matokens) pour l'étape 2 !
 
 ## Différences entre les jetons maTokens et amTokens
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+Les jetons maTokens et amTokens vous donnes des intérêts. Cependant, *la façon dont* ils accumulent des intérêts diffère :
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* Les jetons maTokens augmente de **valeur** au fil du temps. Cela s'applique aux portails Haunt 1 d'Aavegotchis qui utilisent des jetons maTokens. La valeur des maTokens augmente, mais comme la quantité ne change pas, Il n'est pas possible de retirer des maTokens du Gotchis à moins que vous ne sacrifiez votre Gotchi pour obtenir la garantie sous-jacente.
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* Les jetons amTokens augmentent en **quantité** au fil du temps. Cela s'applique aux portails d'Aavegotchis à partir de la Haunt 2 et plus. Les intérêts accumulés sont reflétés en quantité. Il est donc possible de retirer amTokens une fois qu'un intérêt suffisant a été généré.
