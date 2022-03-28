@@ -900,11 +900,11 @@ Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse G
 
 Việc này đã được lên lịch để xảy ra trước khi các chương Gotchiverse Game Bible được đăng tải dựa theo bài viết nêu trên. 4 Chương nữa đã được công bố vào tháng Ba và sẽ nhiều bài viết hơn đã được công bố trong những tuần/tháng kế tiếp.
 
-I propose the Land Auction & Raffle is delayed until the full release of Book One of the Gotchiverse occurs or the community votes for an additional sale.
+Mình đề xuất dời sự kiện Đấu Giá & Xổ Số Land đến khi Quyển Một của Gotchiverse diễn ra hoặc khi cộng đồng đồng ý tổ chức thêm.
 
-This is primarily to ensure that the community can make fully informed bids/investments in Land and we reduce the risk of repeating what happened previously with people overbidding and getting rekt.
+Việc này chủ yếu là để đảm bảo cộng đồng có thể chuẩn bị trước cho số tiền đầu tư/lệnh đấu giá Land và chúng ta có thể giảm thiểu nguy cơ lập lại tình trạng đã xảy ra với những ai đặt giá quá tay và toang.
 
-[CoreProp Edit: Since Book One is going to be fully published soon but there still seems to be little appetite for a REALM Sale, we have added a voting option to only start the next Auction & Raffle if a SigProp reaches Quorum and the respective CoreProp passes. This adjustment has been discussed with Jarrod beforehand.]
+[Chỉnh Sửa CoreProp: Do Quyển Một sắp được đăng tải trong tương lai gần nhưng vẫn có nhu cầu dành cho sự kiện mở bán REALM, nên chúng mình đã thêm một phương án bỏ phiếu để sự kiện Đấu Giá & Xổ Số sẽ chỉ bắt đầu khi SigProp đặt Túc Số và từng bản CoreProp được thông qua. This adjustment has been discussed with Jarrod beforehand.]
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
 
