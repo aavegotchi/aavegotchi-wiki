@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Wearables'
 description: 'All about Aavegotchi Wearables'
 image: "wearables/sergey-blue.png"
@@ -30,7 +30,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#key>Key</a></li>
