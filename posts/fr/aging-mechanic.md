@@ -37,7 +37,7 @@ Cela fournit un tampon d'environ 6 mois au cours desquels les gotchis plus ancie
 
 La formule utilisée pour calculer le boost BRS est modélisée suivant les nombres de Fibonacci x 1 million mais en remplaçant le premier 0 par un 1 pour mieux s'adapter.
 
-This solution provides for a quicker boost in the first few epochs of age, and greatly flattens over time to avoid anything too OP and allow more recently summoned gotchis to **eventually** catch up to **within a 1 BRS boost** of their older and wiser brethren. It incentivizes opening and summoning portals as opposed to sitting on them, both boosting the in-game economy as well as the scarcity of those that are still chosen to remain closed. Most of all, it is a fair system that benefits no one haunt over any other, and simply rewards long term engagement, while counteracting the effects of sudden and aggressive dilution like we are currently witnessing.
+Cette solution assure un boost plus rapide dans les premiers instant de vie, et s'aplanit grandement au fil du temps pour éviter que ce soit trop OP et permettre aux gotchis plus récemment invoqués de **éventuellement** finir par rattraper **à moins de 1 boost de BRS** leurs frères plus âgés et plus sages. Il encourage l'ouverture de portail et l'invocation de gotchi plutôt que de les garder au chaud. Celà stimule l'économie du jeu ainsi que la rareté des portails restant fermés. Surtout, c'est un système juste qui ne profite à personne, qui ne hante personne et qui récompense simplement l'engagement à long terme, tout en luttant contre les effets d'une dilution soudaine et agressive comme nous en sommes actuellement témoins.
 
 ## Boost de BRS
 
