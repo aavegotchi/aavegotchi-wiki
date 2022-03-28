@@ -1,6 +1,6 @@
 ---
 author: eris
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'FAQ'
 description: 'Short Answers to Quick Questions'
 image: "faq/faq.png"
@@ -18,7 +18,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
