@@ -1,6 +1,6 @@
 ---
 author: eris
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Missions'
 description: 'All about Aavegotchi Missions'
 image: "missions/aagent.png"
@@ -16,7 +16,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#the-aagent-missions>The Aagent Missions</a></li>
