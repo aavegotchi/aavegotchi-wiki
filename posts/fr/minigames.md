@@ -1,6 +1,6 @@
 ---
 author: Zer0dot
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Mini-games'
 description: 'All about Aavegotchi minigames'
 contributors:
@@ -22,7 +22,7 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
