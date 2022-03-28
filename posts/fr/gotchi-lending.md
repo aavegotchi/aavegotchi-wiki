@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Gotchi Lending'
 description: 'Gotchi Lending'
 contributors:
@@ -14,7 +14,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#what-is-gotchi-lending->What is Gotchi Lending?</a></li>
