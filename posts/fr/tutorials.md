@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi 101'
 description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
 contributors:
@@ -25,7 +25,7 @@ Nous avons préparé des tutoriels (articles et vidéos) pour vous aider à dém
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ul>
 <li><a href=#aavegotchi-raffles>Tombola Aavegotchi</a></li>
