@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Wearable Sets'
 description: 'All about Aavegotchi Wearable Sets'
 contributors:
@@ -23,7 +23,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#key>Key</a></li>
