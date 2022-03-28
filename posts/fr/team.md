@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23'
-title: 'Team'
-description: 'See who&#8217s building the Aavegotchi Game'
+title: 'L''équipe'
+description: 'Voyez qui&#8217s construit le Jeu Aavegotchi'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
@@ -12,31 +12,31 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/aavegotchi-team-photo.png">
-<p class="headerImageText">Non edited photo</p>
+<p class="headerImageText">Photos non modifiées</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+Vous voulez savoir qui est derrière les mignons gotchis ? Nous allons vous montrer. Présentation des gens derrière Aavegotchi !
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#summoners>Summoners</a></li>
+<li><a href=#summoners>Invocateurs</a></li>
 <p><a href=#coder-dan>Coder Dan</a></p>
 <p><a href=#jesse>Jesse</a></p>
 <p><a href=#xibot>Xibot</a></p>
 <p><a href=#nick-mudge>Nick Mudge</a></p>
-<li><a href=#aadvisors>Aadvisors</a></li>
+<li><a href=#aadvisors>Conseillers</a></li>
 <p><a href=#stani>Stani</a></p>
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
-<li><a href=#team>Team</a></li>
-<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
-<p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
-<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
+<li><a href=#team>L'équipe</a></li>
+<p><a href=#nyankong---game-director>NyanKong - Directeur du jeu</a></p>
+<p><a href=#mark---gotchiverse-backend-lead>Mark - Responsable d'administration du Gotchiverse</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans - Architecte Cloud senior</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
+<p><a href=#gravy---marketing-director>Gravy - Directeur du marketing</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
 <p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
@@ -50,7 +50,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 </div>
 
-## Summoners
+## Invocateurs
 
 ### Coder Dan
 
@@ -89,7 +89,7 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
 
 Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
 
-## Aadvisors
+## Conseillers
 
 ### Stani
 
@@ -120,9 +120,9 @@ In the later 2000s, Borsai became involved in other industries, including digita
 
 Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
-## Team
+## L'équipe
 
-### NyanKong - Game Director
+### NyanKong - Directeur du jeu
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
@@ -131,7 +131,7 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
-### Mark - Gotchiverse Backend Lead
+### Mark - Responsable d'administration du Gotchiverse
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mark.jpg" alt = "Mark">
@@ -140,7 +140,7 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 
 Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
 
-### Favabeans - Senior Cloud Architect
+### Favabeans - Architecte Cloud senior
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
@@ -158,7 +158,7 @@ Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in th
 
 Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
-### Gravy - Marketing Director
+### Gravy - Directeur du marketing
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
