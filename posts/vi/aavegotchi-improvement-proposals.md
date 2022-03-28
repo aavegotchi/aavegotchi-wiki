@@ -1013,23 +1013,23 @@ Chào các bạn, trong Chương 2 chúng tôi đã đề xuất về việc 10%
 
 Những người theo dõi dự án kỹ lưỡng biết rằng bọn mình luôn cố làm mọi thứ "như trong sách", để giúp Aavegotchi trở thành một ví dụ điển hình cho tính phi tập trung và tuân thủ pháp lý. Chúng ta đang ở những giai đoạn cuối cùng để đặt ra một công ty pháp lý mới cho Aavegotchi (cụ thể là một Tổ Chức Panama) và sẽ sớm thông báo về các ứng dụng để phục vụ.
 
-On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
+Về mặt kỹ thuật, bọn mình cũng đang làm việc về vấn đề áp dụng quản trị on-chain cho giao thức Aavegotchi. Tuy nhiên, việc này sẽ tốt ít thời gian, do cần phải nâng cấp để triển khai token GHST trên Polygon.
 
-While all of this is happening in the background, we are also launching FIVE new ERC20 Alchemica tokens and locking a sizable amount of them into vesting contracts.
+Dù tất cả những việc này xảy ra ở phía sau cành gà, bọn mình cũng đang triển khai NĂM token Alchemica ERC20 mới và mở khóa một lượng lớn số token này để vào hợp đồng mở khóa chậm.
 
-For both legal and strategic reasons, we believe that the Ecosystem allocation should not be managed by Pixelcraft, but instead by AavegotchiDAO. The DAO Treasury Force has already been created to manage some of the DAO treasury, but the number of signers is quite few (six) and in my opinion insufficient to hold such a sum of funds.
+Vì lý do pháp lý và chiến lược, bọn mình tin rằng phần phân bố cho Hệ Sinh Thái không nên được quản lý bởi Pixelcraft mà nên được quản lý bởi AavegotchiDAO. Biệt Đội Ngân Quỹ DAO sẽ được tạo ra để quản trị một phần ngân quỹ DAO, nhưng số lượng người ký rất ít và theo ý kiến của mình thì điều này không đủ để giữ một số tiền lớn như vậy.
 
-Therefore, I propose we create an additional multisig under the current DTF, with fifteen signers instead of the current six. **Eleven** out of fifteen signatures would be required to confirm transactions.
+Do đó, mình đề xuất tạo ra một chiếc ví multisign dưới biệt đội DTF hiện tại, với 15 nguiowf ký tên thay vì 6 người. **Mười một** trong số 15 chữ ký sẽ cho phép xác nhận giao dịch.
 
-This multisig would be the beneficiary of the Ecosystem Vesting Contract (which holds 10% of each Alchemica’s token supply, vested over 30 years), and could also inherit the 1M GHST originally allocated during the GHST creation for Ecosystem building, to help bootstrap Alchemica liquidity.
+Ví multisign này sẽ có lợi cho Hợp Đồng Mở Khóa Chậm Hệ Sinh Thái (nắm giữ 10% nguồn cung của token Alchemica, trả chậm trong 30 năm), và cũng có thể kế thừa 1 triệu GHST được phân bổ ban đầu trong suốt quá trình tạo ra GHST cho việc xây dựng Hệ Sinh Thái, giúp giữ được thanh khoản Alchemica.
 
-On our side, we will deploy the Alchemica and create initial liquidity pools on Quickswap, after which we will transfer ownership of the vesting contract to the multisig. After that point, it will be up to the DTF to coordinate liquidity provision.
+Ở phía bọn mình, bọn mình sẽ triển khai Alchemica và tạo ra các quỹ thanh khoản ban đầu trên Quickswap, sau đó bọn mình sẽ chuyển quyền sở hữu của vesting contract sang cho ví multisign. Sau thời điểm đó, DTF sẽ quyết định việc cung cấp thanh khoản.
 
 Let’s goooo Gotchigang!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
 
-[Final note: You can vote for multiple members at once, the top 9 choices will then get elected! Short pitches for everyone can be found in the discussion thread]
+[Ghi chú cuối cùng: Bạn có thể bỏ phiếu cho nhiều thành viên cùng lúc, top 9 lựa chọn sẽ được bầu! Bài thuyết trình ngắn về các thành viên có thể được tìm htaays trong chủ đề thảo luận]
 
 Phương án 1: Kokusho
 
