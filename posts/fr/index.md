@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Wiki'
 description: 'All about the Aavegotchi Wiki'
 image: "icons/introduction.svg"
