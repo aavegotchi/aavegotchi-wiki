@@ -896,9 +896,9 @@ Phương án 3: Phiếu Trắng
 
 **Tóm Tắt Đề Xuất:**
 
-Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse Game Bible với sự kiện Đấu Giá / Xổ Số Land Gotchiverse được đặt lịch tổ chức vào cuối tháng Hai[https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse Game Bible với sự kiện Đấu Giá / Xổ Số Land Gotchiverse được đặt lịch tổ chức vào cuối tháng Hai [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 
-This was scheduled to happen before the following Gotchiverse Game Bible Chapters were published according to that same post. 4 more Chapters were released in March and there are more planned to be released during the following weeks/months.
+Việc này đã được lên lịch để xảy ra trước khi các chương Gotchiverse Game Bible được đăng tải dựa theo bài viết nêu trên. 4 Chương nữa đã được công bố vào tháng Ba và sẽ nhiều bài viết hơn đã được công bố trong những tuần/tháng kế tiếp.
 
 I propose the Land Auction & Raffle is delayed until the full release of Book One of the Gotchiverse occurs or the community votes for an additional sale.
 
