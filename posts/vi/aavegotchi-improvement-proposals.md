@@ -904,17 +904,17 @@ Mình đề xuất dời sự kiện Đấu Giá & Xổ Số Land đến khi Quy
 
 Việc này chủ yếu là để đảm bảo cộng đồng có thể chuẩn bị trước cho số tiền đầu tư/lệnh đấu giá Land và chúng ta có thể giảm thiểu nguy cơ lập lại tình trạng đã xảy ra với những ai đặt giá quá tay và toang.
 
-[Chỉnh Sửa CoreProp: Do Quyển Một sắp được đăng tải trong tương lai gần nhưng vẫn có nhu cầu dành cho sự kiện mở bán REALM, nên chúng mình đã thêm một phương án bỏ phiếu để sự kiện Đấu Giá & Xổ Số sẽ chỉ bắt đầu khi SigProp đặt Túc Số và từng bản CoreProp được thông qua. This adjustment has been discussed with Jarrod beforehand.]
+[Chỉnh Sửa CoreProp: Do Quyển Một sắp được đăng tải trong tương lai gần nhưng vẫn có nhu cầu dành cho sự kiện mở bán REALM, nên chúng mình đã thêm một phương án bỏ phiếu để sự kiện Đấu Giá & Xổ Số sẽ chỉ bắt đầu khi SigProp đặt Túc Số và từng bản CoreProp được thông qua. Việc điều chỉnh này đã được thảo luận trước cùng Jarrod.]
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
 
-Option 1: Delay until full Book 1
+Phương án 1: Dời đến khi Quyển 1 được ra mắt xong
 
-Option 2: Delay until Community Proposal
+Phương án 2: Dời đến khi có Bản Đề Xuất Cộng Đồng
 
-Option 3: Start Auction 3 ASAP
+Phương án 3: Bắt Đầu Đấu Giá 3 càng sớm càng tốt
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xa8ae9fff29189ddf79845a7875ccfc696273aa2fca9fed42140a6bbe55f12b97)
 
@@ -945,7 +945,7 @@ Option 2: Binomial Distribution
 
 Option 3: No, don't change the Variance
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x09c3132896ba5c8e677e018a86ba1a74729955f64799dbfd4e422058f9198817)
 
@@ -998,7 +998,7 @@ Option 1: Yes, use the new Trait Map
 
 Option 2: No, stick with the original
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xbe4999b68f97f0e3406d65aff4e36a97768af72eb5cbd16c92641dcfdd6f35c9)
 
@@ -1009,9 +1009,9 @@ Option 2: No, stick with the original
 
 **Tóm Tắt Đề Xuất:**
 
-Hi frens, in Chapter 2 we proposed that 10% of the Gotchus Alchemica supply be vested over 30 years to be used for Ecosystem purposes. The primary goal of this allocation is to ensure excellent long-term liquidity across many platforms, including the GAX, various DEXes on Polygon, Mainnet, and even CEXes.
+Chào các bạn, trong Chương 2 chúng tôi đã đề xuất về việc 10% Gotchus Alchemica nền được mở khóa dần trong 30 năm để sử dụng cho các mục đích trong Hệ Sinh Thái. Mục tiêu chính của việc này là để đảm bảo thanh khoản lâu dài giữa các nền tảng, bao gôm GAX, nhiều sàn DEX khác trên Polygon, Mainnet, và thậm chí là CEX.
 
-Those who follow the project carefully know that we always try to do everything “by the book”, to make Aavegotchi a model case study for decentralization and legal compliance. We are currently in the final stages of setting up a new legal wrapper for AavegotchiDAO (more specifically, a Panama Foundation) and will soon be making an announcement for applications to serve.
+Những người theo dõi dự án kỹ lưỡng biết rằng bọn mình luôn cố làm mọi thứ "như trong sách", để giúp Aavegotchi trở thành một ví dụ điển hình cho tính phi tập trung và tuân thủ pháp lý. Chúng ta đang ở những giai đoạn cuối cùng để đặt ra một công ty pháp lý mới cho Aavegotchi (cụ thể là một Tổ Chức Panama) và sẽ sớm thông báo về các ứng dụng để phục vụ.
 
 On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
 
