@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Force Spirituelle'
-description: 'All about Aavegotchi Spirit Force'
+description: 'Tout au sujet de la force spirituelle des Aavegotchis'
 image: "spirit-force/aETH.svg"
 contributors:
   - "unintelligent-nerd"
@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/spirit-force/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">Le jeton aETH</p>
 </div>
 
 Chaque Aavegotchi prend vie grâce à la Force Spirituelle. Lors de l'ouverture d'un portail [](/portals), l'invocateur (vous !) doit insuffler de la Force spirituelle pour invoquer son nouveau Gotchi !
