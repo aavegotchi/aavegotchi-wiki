@@ -1,6 +1,6 @@
 ---
 author: Nick Mudge
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Tickets'
 description: 'Aavegotchi Tickets and Raffle prizes!'
 contributors:
@@ -18,7 +18,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
