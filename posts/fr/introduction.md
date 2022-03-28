@@ -48,24 +48,24 @@ Les Aavegotchis sont des objets de collection rare, du monde de la cryptomonnaie
 
     *  **Parenté 'Kinship'**: "La parenté" n'est pas assigné aléatoirement, mais commence à une valeur fixe (50) à la naissance et augmente ou diminue en fonction de différents facteurs. Par exemple combien de temps l'Aavegotchi a été avec le même propriétaire ou combien de fois le propriétaire interagit avec lui.
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
+    *  **Expérience :** Le niveau des Aavegotchis augmente au fur et à mesure qu'ils gagnent de l'expérience en votant dans AavegotchiDAO et en participant à des mini-jeux. Tous les trois niveaux, les Aavegotchis reçoivent un [point d'esprit](/glossary#spirit-point) qui peut être alloué à l'augmentation ou à la diminution d'une certaine caractéristique (trait).
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Objets portables** En plus de la gestion du collateral aToken, Aavegotchis étend également le [standard ERC998 Composables](/glossary#erc-998), qui leur permet de gérer d'autres "NFT enfant" appelées objets portables dans l'écosystème Aavegotchi. Tous les objets portables ne peuvent pas être équipés par tous les Aavegotchis. Certains objets portables peuvent être exclusivement équipés par des Aavegotchis invoqués avec une certaine quantité de collatéral, d'un certain niveau, ou avec certaines caractéristiques. Les objets portables peuvent augmenter ou diminuer certains traits d'un Aavegotchi. Par exemple, équiper une épée peut légèrement augmenter l’agressivité d’un Aavegotchi, tandis que équiper une chemise Bob Marley peut réduire son niveau d’énergie.
 
-The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
+La relation entre le Collatéral, les Traits, les Objets Portables et la Parenté est mieux représentée par un diagramme d’Onion (voir ci-dessous). Chaque couche se base sur les couches précédentes, la somme étant l'Aavegotchi lui-même !
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Schéma d'oignon Aavegotchi" />
 
-## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+## Valeur d'Aavegotchi
+L'évaluation d'un Aavegotchi provient à la fois de sa valeur intrinsèque et de sa rareté.
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **Valeur intrinsèque** La valeur intrinsèque est la valeur utilisée pour le collatéral de l'Aavegotchi. Si l'Aavegotchi est invoqué avec 10 aDAI, alors la valeur intrinsèque serait 10 aDAI, en plus de tout autre aDAI supplémentaire provenant du Lending Pool. Initialement, seuls les [jetons ERC20](/glossary#erc-20) répertoriés sur la plateforme Aave (aTokens) seront disponibles en tant que collatéral. Cependant, une fois AavegotchiDAO lancé, la communauté sera en mesure de voter sur les nouveaux collatéral à autoriser.
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **La valeur de rareté** La valeur de rareté est déterminée en calculant la rareté des traits de chaque Aavegotchi et des objets portables équipés dans l'univers Aavegotchi. Contrairement aux autres jeux NFT, la rareté n'est pas une valeur fixe dans Aavegotchi. Elle peut changer au fil du temps lorsque l'Aavegotchis monte de niveau ou s'équipe de différents objets portables. Ainsi, un Aavegotchi rare une semaine pourrait devenir commun, et vice versa, en fonction de la répartition globale des caractéristiques et des usages dans l'univers Aavegotchi. Ceci active un nouveau concept connu sous le nom de « agriculture de rareté », qui est expliqué dans [cette page](/rarity-farming).
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
-* [GHST Utility Token](/ghst)
+## L'Univers Aavegotchi
+L'Univers Aavegotchi englobe tous les éléments qui permettent à Aavegotchis de fonctionner:
+* [Portails](/portals)
+* [Jeton Utilitaire GHST](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/gotchiverse)
+* [Le royaume Aavegotchi](/gotchiverse)
