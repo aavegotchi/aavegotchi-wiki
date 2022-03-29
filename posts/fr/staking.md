@@ -99,7 +99,7 @@ Le staking de GHST-QUICK et GHST-USDC suivent les mêmes étapes.
 
 Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+Why is the GHST-USDC pool yielding 74 million FRENS a day? Un déposant précoce dans la pool GHST-USDC sur QuickSwap a gâché le ratio entre les actifs. Ainsi, lorsque les déposants ajoutent de la réserve, ils reçoivent de minuscules quantités de jetons LP, comme 0.00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
 
 ### Staking GHST-WETH
 
