@@ -2,7 +2,7 @@
 author: wagyuchicken
 date: '2020-04-23'
 title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+description: 'Tout ce que vous devez savoir sur les traits Aavegotchi !'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
@@ -16,26 +16,26 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 **Contenu**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
+<li><a href=#randomly-generated-traits>Traits générées aléatoirement </a></li>
 <li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
-<li><a href=#kinship>Kinship</a></li>
-<li><a href=#experience>Experience</a></li>
-<li><a href=#level>Level</a></li>
+<li><a href=#kinship>Parenté</a></li>
+<li><a href=#experience>Expérience</a></li>
+<li><a href=#level>Niveau</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Aging Mechanic</a></li>
+<li><a href=#aging-mechanic>Mécanique du vieillissement</a></li>
 </ol>
 
 </div>
 
-## Randomly Generated Traits
-Aavegotchis have six traits:
+## Traits générées aléatoirement
+Les Aavegotchis ont six traits :
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
-* EYS = Eye Shape
-* EYC = Eye Color
+* AGG = Agressivité
+* NRG = Énergie
+* SPK = Effrayant
+* BRN = Taille du cerveau
+* EYS = Forme des yeux
+* EYC = Couleur des yeux
 
 Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
 
@@ -65,10 +65,10 @@ The type of [spirit force](/spirit-force) that your Aavegotchi has also influenc
 
 table_spiritForceModifiers
 
-## Kinship
-Kinship is your Aavegotchi’s feeling of loyalty towards you. More information can be found on the [Kinship page](/kinship).
+## Parenté
+La parenté est le sentiment de fidélité de votre Aavegotchi. Plus d'informations peuvent être trouvées sur la [page Parenté](/kinship).
 
-## Experience
+## Expérience
 Aavegotchis receive experience (XP) for:
 * Voting in [AavegotchiDAO](/dao)
 * Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
@@ -80,7 +80,7 @@ XP exists as an internal balance on the Aavegotchi smart contract.
 
 XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
-## Level
+## Niveau
 Aavegotchis level up as they gain more XP. Tous les trois niveaux, les Aavegotchis reçoivent un [point d'esprit](/glossary#spirit-point) qui peut être alloué à l'augmentation ou à la diminution d'une certaine caractéristique (trait). Some wearables can only be worn by Aavegotchis of a certain level.
 
 The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
@@ -94,7 +94,7 @@ Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the 
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
 
-## Aging Mechanic
+## Mécanique de vieillissement
 
 [La proposition d'amélioration Aavegotchi 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) a introduit un mécanisme de vieillissement pour les Aavegotchis.
 
