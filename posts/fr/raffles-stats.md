@@ -24,13 +24,13 @@ Nombre total de prix dans une catégorie donnée / Nombre total de billets soumi
 <p><a href=#raffle-3--ethereum-theme->Loterie 3 (Thème Ethereum)</a></p>
 <p><a href=#raffle-4--layer-2-theme->Loterie 4 (Thème de la couche 2)</a></p>
 <p><a href=#raffle-5--partnerships-theme->Loterie 5 (Thème Partenariats)</a></p>
-<p><a href=#raffle-6--defi-rpg-theme->Raffle 6 (DeFi RPG Theme)</a></p>
-<li><a href=#portal-raffles>Portal Raffles</a></li>
-<p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
-<li><a href=#land-raffles>Land Raffles</a></li>
-<p><a href=#raffle-1>Raffle 1</a></p>
-<p><a href=#raffle-2>Raffle 2</a></p>
-<li><a href=#chart>Chart</a></li>
+<p><a href=#raffle-6--defi-rpg-theme->Loterie 6 (Thème Defi RPG)</a></p>
+<li><a href=#portal-raffles>Loteries de portail</a></li>
+<p><a href=#raffle-1--haunt-2-portal-drop->Loterie 1 (Portails Haunt 2)</a></p>
+<li><a href=#land-raffles>Loteries des parcelles</a></li>
+<p><a href=#raffle-1>Loterie 1</a></p>
+<p><a href=#raffle-2>Loterie 2</a></p>
+<li><a href=#chart>Graphique</a></li>
 </ol>
 
 </div>
@@ -52,24 +52,24 @@ table_wearableRaffle4
 ### Loterie 5 (Thème Partenariats)
 table_wearableRaffle5
 
-### Raffle 6 (DeFi RPG Theme)
+### Loterie 6 (Thème Defi RPG)
 table_wearableRaffle6
 
-## Portal Raffles
+## Loteries de portail
 
-### Raffle 1 (Haunt 2 Portal Drop)
+### Loterie 1 (Portails Haunt 2)
 table_portalRaffle1
 
-## Land Raffles
+## Loteries des parcelles
 
-### Raffle 1
+### Loterie 1
 table_landRaffle1
 
-### Raffle 2
+### Loterie 2
 table_landRaffle2
 
-## Chart
+## Graphique
 
-What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
+Quelles étaient vos chances (en pourcentage) de gagner un objet portable en utilisant 1 ticket dans les loteries précédentes ? Consultez le graphique ci-dessous.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
