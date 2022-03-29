@@ -1,29 +1,29 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23'
-title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+title: 'Statistiques des précédentes loteries d''Aavegotchi'
+description: 'Statistiques des précédentes loteries d''Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-How many raffle tickets were submitted in past raffles? How many were there in each category? We have the historical data for past raffles for you here!
+Combien de tickets ont été soumis dans les précédentes loteries ? Combien y en avait-il dans chaque catégorie? Nous avons les données historiques des loteries passées pour vous ici!
 
-Probability is defined as:
+La probabilité est définie comme :
 
-Total Number of Prizes in a given category / Total Number of Tickets submitted for that same category
+Nombre total de prix dans une catégorie donnée / Nombre total de billets soumis pour cette même catégorie
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#wearable-raffles>Wearable Raffles</a></li>
-<p><a href=#raffle-1--chainlink-theme->Raffle 1 (Chainlink Theme)</a></p>
-<p><a href=#raffle-2--aave-theme->Raffle 2 (Aave Theme)</a></p>
-<p><a href=#raffle-3--ethereum-theme->Raffle 3 (Ethereum Theme)</a></p>
-<p><a href=#raffle-4--layer-2-theme->Raffle 4 (Layer 2 Theme)</a></p>
-<p><a href=#raffle-5--partnerships-theme->Raffle 5 (Partnerships Theme)</a></p>
+<li><a href=#wearable-raffles>Loteries d'équipement portables</a></li>
+<p><a href=#raffle-1--chainlink-theme->Loterie 1 (Thème Chainlink)</a></p>
+<p><a href=#raffle-2--aave-theme->Loterie 2 (Aave Theme)</a></p>
+<p><a href=#raffle-3--ethereum-theme->Loterie 3 (Thème Ethereum)</a></p>
+<p><a href=#raffle-4--layer-2-theme->Loterie 4 (Thème de la couche 2)</a></p>
+<p><a href=#raffle-5--partnerships-theme->Loterie 5 (Thème Partenariats)</a></p>
 <p><a href=#raffle-6--defi-rpg-theme->Raffle 6 (DeFi RPG Theme)</a></p>
 <li><a href=#portal-raffles>Portal Raffles</a></li>
 <p><a href=#raffle-1--haunt-2-portal-drop->Raffle 1 (Haunt 2 Portal Drop)</a></p>
@@ -35,21 +35,21 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 </div>
 
-## Wearable Raffles
+## Loteries d'équipement portables
 
-### Raffle 1 (Chainlink Theme)
+### Loterie 1 (Thème Chainlink)
 table_wearableRaffle1
 
-### Raffle 2 (Aave Theme)
+### Loterie 2 (Aave Theme)
 table_wearableRaffle2
 
-### Raffle 3 (Ethereum Theme)
+### Loterie 3 (Thème Ethereum)
 table_wearableRaffle3
 
-### Raffle 4 (Layer 2 Theme)
+### Loterie 4 (Thème de la couche 2)
 table_wearableRaffle4
 
-### Raffle 5 (Partnerships Theme)
+### Loterie 5 (Thème Partenariats)
 table_wearableRaffle5
 
 ### Raffle 6 (DeFi RPG Theme)
