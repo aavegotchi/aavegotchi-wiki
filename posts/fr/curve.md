@@ -102,24 +102,24 @@ La première itération du [AavegotchiDAO](/dao) a été lancée en tandem avec 
 
 ## Dynamique de l'offre du token d'Aavegotchi
 
-Lors de notre discussion sur DAICO/courbe de liaison de jetons ci-dessus, nous avons appris que la fourniture totale du jeton de la GHST est dynamique. Lorsque les investisseurs achètent du GHST en utilisant du DAI à partir de la courbe de liaison, de nouveaux jetons de GHST sont mint et la fourniture totale de GHST en circulation augmente. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
+Lors de notre discussion sur DAICO/courbe de liaison de jetons ci-dessus, nous avons appris que la fourniture totale du jeton de la GHST est dynamique. Lorsque les investisseurs achètent du GHST en utilisant du DAI à partir de la courbe de liaison, de nouveaux jetons de GHST sont mint et la fourniture totale de GHST en circulation augmente. Lorsque les jetons GHST sont revus dans la courbe de liaison, les jetons GHST seraient brûlés, le vendeur recevrait un montant équivalent en DAI en fonction du prix du GHST en vigueur sur la courbe de liaison, et la circulation des jetons de GHST diminueraient.
 
-The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
+L'inflation des jetons GHST par des achats nets sur la courbe de liaison est corrélée positivement au prix du GHST. **La courbe de liaison a été programmée mathématiquement pour augmenter le prix de GHST alors que l'offre circulante de GHST augmente.**
 
 
 
 ## Arbitrage
 
-For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+Pour les utilisateurs qui ont terminé KYC, ils seront en mesure d'arbitrer les différences de prix entre la courbe de liaison de jetons et d'autres DEXes comme Uniswap et Balancer. Selon [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "l'Arbitrage est l'achat et la vente d'un actif afin de profiter d'une différence de prix entre les marchés. C'est un commerce qui profite en exploitant les différences de prix d'instruments financiers identiques ou similaires sur différents marchés ou sous différentes formes. L'arbitrage existe à la suite d'inefficacités du marché et n'existerait donc pas si tous les marchés étaient parfaitement efficaces." Ceci est possible puisque les DEXes sont équipés de leur propre formule automatisée de marché (AMM) et que les actions d’achat/vente nets de jetons de GHST sur ces DEXes entraîneraient des prix différents de la courbe de liaison. Un investisseur avisé pourrait envisager d'exploiter de telles inefficacités sur le marché (*fuite alpha ici*).
 
 
 
 ## En savoir plus
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Pour en savoir plus sur [la collecte de fonds et la liaison avec Aragon !](https://fundraising.aragon.black/components/bonding-curve)
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* En savoir plus sur les [courbes de liaison expliquées](https://yos.io/2018/11/10/bonding-curves/)
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* Article sur les [Courbes de liaison](https://defiprime.com/bonding-curve-explained) par DeFi Prime.
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* Article sur [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) par the Coin Telegraph.
