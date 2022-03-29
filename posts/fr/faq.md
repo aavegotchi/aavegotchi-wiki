@@ -233,47 +233,47 @@ QuickSwap a des problèmes de routage pour quelques maTokens tels que maUNI et m
 **Fonctionne**: maUSDC -> maUNI/maLINK
 
 ### Aavegotchi sera-t-il intégré dans OpenSea?
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Aavegotchi est entièrement compatible avec OpenSea (et d'autres marchés secondaires) sur le réseau principal Ethereum. Le défi est celui de OpenSea Polygon. Quand quelqu'un met un Gotchi à la vente sur le Baazaar, ses objets portables sont également répertoriés avec lui. OpenSea Polygon n'a pas ce mécanisme de verrouillage en place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. Afin de protéger les acheteurs, Pixelcraft a informé OpenSea qu'il ne poursuivra pas une inscription sur Polygon.
 
-Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
+De même, il y a quelques contraintes avec la liste des objets portés sur le OpenSea Polygon. En raison de la façon dont OpenSea Polygon analyse les contrats, ils ont quelques difficultés à analyser les objets portables ERC-1155. Le problème est que la même adresse contient à la fois ERC-721s (Gotchis) et ERC-1155s (objets portables). Leur infrastructure n'est pas conçue pour gérer les deux dans le même contrat.
 
 ### Où puis-je trouver le Litepaper Aavegotchi ?
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
+Il y a 2 Litepaper Aavegotchi : (1) Le Litepaper original résumant les principaux points du projet Aavegotchi, et (2) Le plus récent Litepaper présentant les prochains Gotchiverse et REALM, les parcelles dans le Gotchiverse.
 
-They can be found here:
+On peut les trouver ici:
 
-* [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
+* [Litepapier original](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
+* [Litepaper Aavegotchi REALM](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
 ## FAQ Bonding Curve
 
 ### J'ai acheté du GHST mais je ne peux pas le voir dans mon portefeuille
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+Après avoir effectué un achat sur la bonding curve, vous devez effectuer une autre transaction pour réclamer les jetons GHST. Consultez la capture d'écran ci-dessous pour un exemple. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Can people frontrun the Bonding Curve?
-Non. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+Non. Lorsque vous effectuez des achats/ventes de jeton GHST sur la bonding curve, les transactions sont groupées avec les transactions d'autres personnes avant d'être envoyées au contrat intelligent. Ils ne sont pas en mesure d'enchérir sur un prix de GHST moins élevé avec des frais de gaz plus élevés pour récupérer votre achat.
 
 ## FAQ des FRENS
 
 ### Puis-je acheter des FRENS?
-Non. FRENS are a way to reward our community members who staked GHST.
+Non. Les FRENS sont un moyen de récompenser les membres de notre communauté qui ont misé sur le GHST.
 
 ### Les FRENS sont-ils utilisés pour autre chose que les loteries ?
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+Non, la seule utilité des FRENS est d'entrer dans les loteries Aavegotchi. Le reste de l'écosystème Aavegotchi sera alimenté par le GHST.
 
-### What happens to the FRENS on Mainnet after the game launches on Polygon?
-Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+### Qu'advient-il des FRENS sur le réseau principal après le lancement du jeu sur Polygon ?
+Votre solde FRENS sera automatiquement transféré vers Polygon. FRENS on Mainnet will then become worthless.
 
 ### Pourquoi le LP GHST-USDC produit-il 74 millions de FRENS par jour?
-An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+Un déposant précoce dans la pool GHST-USDC sur QuickSwap a gâché le ratio entre les actifs. Ainsi, lorsque les déposants ajoutent de la réserve, ils reçoivent de minuscules quantités de jetons LP, comme 0.00006. Voir le tweet [ici](https://twitter.com/coderdannn/status/1362423402871447554) pour lulz.
 
 ## FAQ des loteries
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+Voir <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">les loteries</a> pour des informations générales sur les loteries.
 
 
 
@@ -284,7 +284,7 @@ Non ! Please be aware simply buying tickets with FRENS **does not automatically 
 
 ### Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?
 
-Non. The only time these wearables will ever be released is during the pre-launch raffles.
+Non. La seule fois que ces objets seront mis en ligne c'est au moment de la loterie.
 
 
 ### Les objets des loteries sont-ils spéciaux ?
@@ -531,51 +531,51 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
 ### Puis-je envoyer des jetons du côté Polygon vers des échanges centralisés directement ?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Non !** Vous ne devriez pas envoyer de jetons de côté Polygon aux échanges centralisés (par exemple, Binance, Coinbase, etc) directement. Vous devez les transférer sur le réseau principal Ethereum avant de le faire.
 
 ### Pourquoi Metamask refuse-t-il mon symbole de jeton ?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+Metamask a une limite maximale de 11 caractères pour les symboles de jeton. Vous pouvez renommer le symbole de jeton en quelque chose de plus court et il fonctionnera. Le fait de changer le symbole en quelque chose de plus court n'affecte pas le jeton ; il affecte uniquement l'affichage sur votre Metamask.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Un bon nombre de personnes ont rencontré ce problème car le symbole stkGHST-QUICK a plus de 11 caractères.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
 ### J'ai retiré mes GHST de Polygon, mais je ne les ai pas encore reçu même après une longue attente
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+J'ai retiré mes jetons GHST (ou tout autre actif à cet égard) de Polygon vers le réseau principal Ethereum en utilisant le [pont Aavegotchi](https://aavegotchi.com/bridge). Après quelques heures, je n'ai pas encore reçu mes actifs sur Ethereum Mainnet. Que puis-je faire ?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Tout d'abord, rendez-vous sur le [Polygon Block Explorer](https://explorer.matic.network/) et insérer votre identifiant de transaction. Obtenez le numéro de bloc de votre transaction.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Ensuite, remplacez la portion [blockNumber] dans l'URL suivante par votre numéro de bloc actuel et accédez à cette URL :
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Cette URL indiquera le statut de votre transaction de retrait.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Si votre transaction n'a pas été traitée par Polygon, veuillez continuer à attendre patiemment. Il y a eu des cas où cela a pris jusqu'à 6 heures.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Si votre transaction a été traitée par Polygon et que vos actifs n'apparaissent toujours pas sur l'interface utilisateur du Pont Aavegotchi, veuillez contacter Coderdan (ou tout autre apprenti) pour obtenir de l'aide.
 
 ### Pourquoi j'ai de l'attente sur Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+Vous pouvez essayer de vous connecter à l'autre RPC Polygon : https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Pour des instructions étape par étape sur la façon de le faire, veuillez vous référer à notre [Guide Polygon](/polygon).
 
 ### Où puis-je trouver mon ID de Gotchi ?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Pour obtenir votre identifiant de NFT Aavegotchi (chaque Aavegotchi a un ID unique), allez sur la page [Ma page Aavegotchis](https://aavegotchi.com/aavegotchis). Cliquez sur l'un de vos Gotchis et observez le numéro à la fin de l'URL. Cela ressemble à ce qui suit:
 
-https://aavegotchi.com/gotchi/(Gotchi Token ID)
+https://aavegotchi.com/gotchi/(ID du NFT Gotchi)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Une fois que vous avez obtenu votre identifiant Gotchi, vous pouvez lier vos Gotchis à votre identifiant Discord en utilisant la commande Discord suivante :
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Notez que si vous avez plus de 1 Gotchi, vous devez répéter le même processus plusieurs fois.
 
 ### Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?
 
