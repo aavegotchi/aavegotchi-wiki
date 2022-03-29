@@ -1,35 +1,35 @@
 ---
 author: Nick Mudge
 date: '2020-04-23'
-title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+title: 'Les tickets'
+description: 'Tickets et récompenses des loterie d''Aavegotchi !'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
-<p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
+<p class="headerImageText">Ohhhh ces magnifiques tickets Divins !!</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+Les tickets sont des NFTs qui vous permettent de participer aux loteries d'Aavegotchi pour gagner des prix. Ils peuvent être achetés à l'aide de FRENS obtenus grace au dépot (stacking) de GHST dans Aavegotchi ou au [Marché (Baazaar)](/baazaar) en utilisant [des jetons GHST](/ghst).
 
-In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
+Dans cette page, vous apprendrez à acheter des tickets avec des FRENS et à participer à des loteries en utilisant ces billets!
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#purchasing-tickets>Achat de tickets</a></li>
+<li><a href=#entering-raffles>Participer à la Loterie</a></li>
+<li><a href=#past-raffles-statistics>Statistiques des loteries précédentes</a></li>
+<li><a href=#more-resources>Ressources complémentaires </a></li>
 </ol>
 
 </div>
 
-## Purchasing Tickets
+## Achat de tickets
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
 
@@ -52,7 +52,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## Participer à la Loterie
 
 A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
@@ -90,10 +90,10 @@ The entire process of staking GHST and winning prizes can be illustrated using t
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
 
-## Past Raffles Statistics
+## Statistiques des loteries précédentes
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## Ressources complémentaires
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
