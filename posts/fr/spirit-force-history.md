@@ -1,27 +1,27 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23'
-title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
-description: 'History about Aavegotchi Spirit Force'
+title: 'L''histoire du terme "Force spirituelle" dans le projet Aavegotchi'
+description: 'L''histoire au sujet de la force spirituelle d''Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Spirit Force?
+La Force Spirituelle?
 
-Collateral?
+Le Collateral?
 
-aTokens?
+Les jetons aTokens?
 
-maTokens?
+Les jetons maTokens?
 
-amTokens?
+Les jetons amTokens?
 
-Why are there so many different terms?!?!?!?
+Pourquoi y a-t-il autant de termes différents ?!?!?!?!?
 
-Let's take a walk down memory lane:
+Promenons-nous dans le passé :
 
-1. The Aavegotchi game was initially designed to be on Ethereum Mainnet. During that period, Spirit Force refers to aTokens, the interest-bearing tokens from the [Aave Protocol](https://aave.com).
+1. Le jeu Aavegotchi a été initialement conçu pour être sur le réseau principal Ethereum. During that period, Spirit Force refers to aTokens, the interest-bearing tokens from the [Aave Protocol](https://aave.com).
 
 2. Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions.
 
