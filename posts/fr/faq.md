@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23'
 title: 'FAQ'
-description: 'Short Answers to Quick Questions'
+description: 'Réponses courtes aux questions rapides'
 image: "faq/faq.png"
 contributors:
   - "eris771"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/faq/faq.png" class="headerImage">
-<p class="headerImageText">Aavegotchi Goes Brrrrr</p>
+<p class="headerImageText">Aavegotchi va Brrrrr</p>
 </div>
 
 <a name="FAQ"></a>
@@ -21,10 +21,10 @@ contributors:
 **Contenu**
 
 <ol>
-<li><a href=#general-faq>General FAQ</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
-<p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
-<p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
+<li><a href=#general-faq>Foire aux questions générale</a></li>
+<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Je suis nouveau dans Aavegotchi. Après le lancement, comment puis-je jouer ?</a></p>
+<p><a href=#when-can-i-get-an-aavegotchi->Quand puis-je obtenir un Aavegotchi?</a></p>
+<p><a href=#how-much-does-it-cost-to-play-aavegotchi->Combien ça coûte de jouer à Aavegotchi?</a></p>
 <p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
 <p><a href=#what-can-i-do-now->What can I do now?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
@@ -124,10 +124,10 @@ contributors:
 &nbsp;
 
 The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
-## General FAQ
+## Foire aux questions générale
 
 
-### I'm new to Aavegotchi. After launch, how do I play?
+### Je suis nouveau dans Aavegotchi. Après le lancement, comment puis-je jouer ?
 
 * **STEP 1:** Buy [GHST](/ghst)
 
@@ -145,11 +145,11 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
 
-### When can I get an Aavegotchi?
+### Quand puis-je obtenir un Aavegotchi?
 
 2 March 2021 on Polygon! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
 
-### How much does it cost to play Aavegotchi?
+### Combien ça coûte de jouer à Aavegotchi?
 There are a couple of ways to get an Aavegotchi:
 
 * Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
