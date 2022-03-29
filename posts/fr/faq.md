@@ -321,35 +321,35 @@ Cette « étape » minimale a été soigneusement calculée par les spécialiste
 Il n'y a pas d'offre minimale pour la vente aux enchères. Vous pouvez enchérir 1 GHST si vous le souhaitez! Gardez juste à l'esprit que plus votre offre d'enchère sera haute, plus vous gagnerez potentiellement si vous êtes surenchéri.
 
 ### Qu'est-ce qui empêche les bots de raffler tous les objets ?
-In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+Dans un drop de NFT 1er arrivé, 1er servi, un script automatisé peut surveiller les événements de la blockchain et être le premier à acheter un objet dès qu'il apparait sur la blockchain.
 
 Cet avantage de vitesse est totalement atténué par le système de vente aux enchères — les bots ne fonctionneront PAS avec des NFT dans une Enchère Aavegotchi !
 
 ### Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?
-If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+Si une enchère est placée dans les cinq dernières minutes suivant la vente aux enchères, le « temps de marteau » est prolongé de cinq minutes supplémentaires. Cela empêche efficacement les bots de sniper la fin parce qu'ils peuvent toujours être surenchéris.
 
 ### Comment puis-je réclamer mon NFT ?
-If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+Si vous avez l'enchère la plus haute à la fin de l'enchère, vous verrez apparaître un bouton « Réclamer NFT » sur votre page Mes enchères, qui vous permettra de réclamer le NFT directement sur votre portefeuille!
 
 ## FAQ des objets portables
 
 ### Dois-je transférer mes bons (vouchers) sur Polygon ?
-Non. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+Non. Les bons (vouchers) réclamés et non réclamés seront automatiquement transférés vers Polygon lors du lancement d'Aavegotchi.
 
 ### Y a-t-il des quantités limitées pour chaque objet portable ?
-Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+Oui. Chaque objet portable a une quantité limitée. Vous pouvez consulter la quantité sur la page [Objets portables](/wearables).
 
-For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+Pour les objets portables achetés dans le Maall, cela signifie qu'une fois vendus, ils ne seront plus jamais disponibles à la vente dans le Maall. Vous ne pouvez l'acheter qu'à d'autres personnes qui ont cet objet portable.
 
 ### J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire
-Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
+Chaque Aavegotchi a son propre inventaire, connu sous le nom de [Poche Gotchi](/aavegotchi-profile#gotchi-pocket). Quand vous retirer un objet portable de votre Aavegotchi, l'objet portable retiré va dans cette poche Aavegotchi.
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
 At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
 ### Pourquoi y a-t-il des IDs manquants sur la page des objets portables ?
-These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
+Ce sont des objets (IDs 162-198, 210) qui ne sont pas des objets portables. Ils représentent [les Baadges](/baadge) et l'arrière-plan Haunt 1.
 
 ## FAQ des portails
 
