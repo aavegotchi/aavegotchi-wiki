@@ -189,7 +189,7 @@ contributors:
 
 ## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
 * Gotchigang, boy do we have tons of exciting events for you!
-* Haunt 2 Raffle: 5 - 8 September 2021
+* Loterie Haunt 2 : du 5 au 8 septembre 2021
 * AavegotchiDAO Frens Committee: 16 September 2021
 * FRENS Wearables Raffle #5: 24 - 28 September 2021
 * Baazaar NFT offers feature: Early October
