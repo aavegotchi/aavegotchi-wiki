@@ -1,6 +1,6 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Portals'
 description: 'All about Aavegotchi Portals'
 contributors:
@@ -22,7 +22,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#buying-a-portal>Buying a Portal</a></li>

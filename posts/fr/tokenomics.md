@@ -1,6 +1,6 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Tokenomics'
 description: 'The Tokenomics of Aavegotchi GHST Token'
 image: "IMAGE HERE"
@@ -28,7 +28,7 @@ This part of the wiki will first take you through GHST's token distribution, the
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#token-distribution>Token Distribution</a></li>

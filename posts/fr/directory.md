@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Wiki Directory'
 description: 'Aavegotchi Wiki Directory'
 contributors:
@@ -109,7 +109,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Staking](/staking)
 
-* [Team](/team)
+* [L'équipe](/team)
 
 * [The Nine Aadepts](/the-nine-aadepts)
 

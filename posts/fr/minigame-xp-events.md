@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Mini-Game XP Events'
 description: 'Mini-Game XP Events'
 contributors:
@@ -18,7 +18,7 @@ This page details the past mini-game XP events.
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>

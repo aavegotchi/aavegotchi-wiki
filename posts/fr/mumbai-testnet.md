@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Mumbai Testnet Tutorial'
 description: 'Mumbai Testnet Tutorial'
 contributors:
@@ -11,7 +11,7 @@ The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you ha
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>

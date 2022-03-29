@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'maTokens'
 description: 'All about Aavegotchi maTokens'
 contributors:
@@ -18,7 +18,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>

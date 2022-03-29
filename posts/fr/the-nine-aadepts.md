@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'The Nine Aadepts'
 description: 'The Nine Aadepts'
 contributors:
@@ -16,7 +16,7 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#cast>Cast</a></li>

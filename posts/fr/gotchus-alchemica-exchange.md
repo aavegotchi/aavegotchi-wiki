@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Gotchus Alchemica Exchange (GAX)'
 description: 'Gotchus Alchemica Exchange (GAX)'
 contributors:
@@ -32,7 +32,7 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#features>Features</a></li>

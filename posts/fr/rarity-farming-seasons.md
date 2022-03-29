@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Rarity Farming Seasons'
 description: 'Rarity Farming Seasons'
 contributors:
@@ -11,7 +11,7 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#season-1>Season 1</a></p>

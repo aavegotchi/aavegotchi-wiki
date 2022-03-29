@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Baard'
 description: 'Aavegotchi Baards - our fun-loving merry Gotchis'
 contributors:
@@ -25,7 +25,7 @@ where Gotchis come out to play!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#baards>Baards</a></li>

@@ -1,6 +1,6 @@
 ---
 author: eris
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Gotchiverse'
 description: 'All about the Gotchiverse'
 contributors:
@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
-<p class="headerImageText">Aavegotchi Realm</p>
+<p class="headerImageText">Le royaume Aavegotchi</p>
 </div>
 
 Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
@@ -21,7 +21,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#zones>Zones</a></li>
@@ -181,7 +181,7 @@ Confirmed Installations include:
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLMR (GAX Liquidity Mining Rewards), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 

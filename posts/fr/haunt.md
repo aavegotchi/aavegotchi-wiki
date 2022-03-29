@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Haunts'
 description: 'Haunt'
 contributors:
@@ -16,7 +16,7 @@ Haunts are the different editions of Aavegotchis. Learn more about the different
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#haunt-1>Haunt 1</a></li>

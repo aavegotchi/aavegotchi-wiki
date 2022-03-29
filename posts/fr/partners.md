@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Partners'
 description: 'Aavegotchi Partners'
 contributors:
@@ -11,7 +11,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#investors>Investors</a></li>

@@ -1,6 +1,6 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Aavegotchi Baadges'
 description: 'Aavegotchi Baadges'
 contributors:
@@ -21,7 +21,7 @@ Keep your eyes out for more Baadges. They will be announced by the team as and w
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#list-of-baadges>List of Baadges</a></li>

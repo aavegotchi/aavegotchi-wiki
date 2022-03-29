@@ -1,6 +1,6 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'AavegotchiDAO'
 description: 'All about AavegotchiDAO'
 image: "icons/dao.svg"
@@ -21,7 +21,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#genesis>Genesis</a></li>

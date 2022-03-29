@@ -1,6 +1,6 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
+date: '2020-04-23'
 title: 'Traits'
 description: 'Everything you need to know about Aavegotchi traits!'
 contributors:
@@ -13,7 +13,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 
 <div class="contentsBox">
 
-**Contents**
+**Contenu**
 
 <ol>
 <li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
@@ -81,7 +81,7 @@ XP exists as an internal balance on the Aavegotchi smart contract.
 XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+Aavegotchis level up as they gain more XP. Tous les trois niveaux, les Aavegotchis reçoivent un [point d'esprit](/glossary#spirit-point) qui peut être alloué à l'augmentation ou à la diminution d'une certaine caractéristique (trait). Some wearables can only be worn by Aavegotchis of a certain level.
 
 The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
 
