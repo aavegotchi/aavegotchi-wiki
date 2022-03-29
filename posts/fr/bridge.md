@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
 date: '2020-10-13T07:00:00.000Z'
-title: 'Bridges'
-description: 'The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)'
+title: 'Ponts de connexion'
+description: 'Le pont Aavegotchi (et d''autres ponts pour transférer des actifs vers et depuis Polygon)'
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -10,25 +10,25 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
-<p class="headerImageText">The Aavegotchi Bridge</p>
+<p class="headerImageText">Le pont Aavegotchi</p>
 </div>
 
-A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
+Un pont est un logiciel qui vous permet de transférer des actifs d'une blockchain à une autre.
 
-The initial plan was to launch Aavegotchi on Ethereum Mainnet on 4 January 2021. Due to high gas fees, the community voted to launch the project on [Polygon Network](/glossary#polygon) instead. As a result of this decision, assets have to be bridged from one network to another.
+Le projet initial était de lancer Aavegotchi sur le réseau principal Ethereum le 4 janvier 2021. En raison de frais de gaz élevés, la communauté a voté pour le lancement du projet sur [Polygon Network](/glossary#polygon) à la place. À la suite de cette décision, les actifs doivent être reliés d'un réseau à l'autre.
 
-To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi Bridge that allows users to send assets back and forth across both networks. Since then, other bridging solutions have also arrived at the scene. This page will cover some of the most common bridges.
+Pour faciliter le transfert des actifs, Pixelcraft studios a créé le pont Aavegotchi qui permet aux utilisateurs de renvoyer des actifs entre les deux réseaux. Depuis, d'autres solutions passerelles sont également arrivées sur place. Cette page couvrira certains des ponts les plus courants.
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#aavegotchi-bridge>Aavegotchi Bridge</a></li>
-<li><a href=#decentralized-bridges>Decentralized Bridges</a></li>
-<p><a href=#polygon-bridge>Polygon Bridge</a></p>
-<p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
-<li><a href=#centralized-bridges>Centralized Bridges</a></li>
+<li><a href=#aavegotchi-bridge>Le pont Aavegotchi</a></li>
+<li><a href=#decentralized-bridges>Ponts décentralisés</a></li>
+<p><a href=#polygon-bridge>Pont Polygon</a></p>
+<p><a href=#umbria-narni-bridge>Pont Umbria Narni</a></p>
+<li><a href=#centralized-bridges>Ponts centralisés</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
 <p><a href=#crypto-com>Crypto.com</a></p>
@@ -37,13 +37,13 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 
 </div>
 
-## Aavegotchi Bridge
+## Le pont Aavegotchi
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Currently, it allows for the transfer of ERC-20 tokens and ERC-721 assets (Aavegotchis) from Ethereum Mainnet to Polygon Network and vice versa. Bridging for ERC-1155s ([Wearables](/wearables)) will be coming shortly.
+Le pont Aavegotchi est le pont officiel créé par Pixelcraft Studios. Actuellement, il permet le transfert des jetons ERC-20 et des actifs ERC-721 (Aavegotchis) du réseau principal Ethereum vers le réseau Polygon et vice versa. Le pont pour ERC-1155s ([Objets portables](/wearables)) arrivera sous peu.
 
-<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
+<img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Le pont Aavegotchi" />
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+Le pont Aavegotchi est accessible [ici](https://aavegotchi.com/bridge).
 
 The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
 
@@ -63,26 +63,26 @@ The following is a step-by-step example of bridging ERC-20 tokens from Ethereum 
 
 The same concept applies for sending assets back to Ethereum Mainnet from Polygon Network.
 
-## Decentralized Bridges
+## Ponts décentralisés
 
-### Polygon Bridge
+### Pont Polygon
 The Polygon bridge was the first cross-chain bridge created between Ethereum and Polygon. It is the official bridge of the Polygon team, and uses a validator driven model to transfer assets between Ethereum and Polygon. This bridge can transfer $GHST tokens, but cannot bridge NFT assets.
 
 For those who want to use the Polygon Bridge, here are the steps to take:
 
 1). Access the Polygon Web Wallet v2 at [https://wallet.polygon.technology](https://wallet.polygon.technology). Click on Polygon Bridge (circled in red below).
 
-<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge-frontpage.png" alt="Pont Polygon" />
 
 2). Select the token from the dropdown menu, key in the amount into the textbox, and click the Transfer button
 
-<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Polygon Bridge" />
+<img class="bodyImage" src="/bridge/polygon-bridge.png" alt="Pont Polygon" />
 
 It can take up to 10 minutes for the tokens to arrive in your Polygon address.
 
 If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
 
-### Umbria Narni Bridge
+### Pont Umbria Narni
 The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately $40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
 
 To use the Umbria Narni Bridge, please refer to the following steps:
@@ -111,7 +111,7 @@ Finally, you will receive two pink ticks, which means that your transaction has 
 
 If you have any questions about the Umbria Narni Bridge, or would like to chat with a member of the support of developer team, reach out on the [Umbria Discord channel](https://discord.gg/8Ms7Cr4)
 
-## Centralized Bridges
+## Ponts centralisés
 
 ### AscendEX
 
