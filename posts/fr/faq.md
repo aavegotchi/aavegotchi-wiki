@@ -55,7 +55,7 @@ contributors:
 <p><a href=#can-i-outbid-myself->Puis-je me surenchérir moi-même ?</a></p>
 <p><a href=#why-is-the-minimum-increase-10-->Pourquoi l'augmentation minimale est-elle de 10 %?</a></p>
 <p><a href=#is-there-a-minimum-bid->Y a-t-il une enchère minimale?</a></p>
-<p><a href=#what-prevents-bots-from-swiping-up-all-the-items->What prevents bots from swiping up all the items?</a></p>
+<p><a href=#what-prevents-bots-from-swiping-up-all-the-items->Qu'est-ce qui empêche les bots de raffler tous les objets ?</a></p>
 <p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?</a></p>
 <p><a href=#how-do-i-claim-my-nft->Comment puis-je réclamer mon NFT ?</a></p>
 <li><a href=#wearable-faq>FAQ des objets portables</a></li>
@@ -279,7 +279,7 @@ Voir <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66
 
 ### L'achat d'un ticket signifie-t-il que je suis entré dans la loterie ?
 
-Non ! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Non ! Veuillez noter que l'achat de tickets avec des FRENS **ne vous fera pas entrer automatiquement dans le tirage au sort.** Vous devez UTILISER vos billets pendant la période de 72 heures où la loterie est ouverte. Cela inclut deux transactions sur la page de la loterie- **approuver** vos billets, **et entrez** vos billets. Si vous avez soumis vos tickets avec succès, vous verrez le nombre de tickets que vous avez entrés dans le tirage au sort sur la page des statistiques.
 
 
 ### Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?
@@ -289,41 +289,41 @@ Non. La seule fois que ces objets seront mis en ligne c'est au moment de la lote
 
 ### Les objets des loteries sont-ils spéciaux ?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+En ce qui concerne le jeu, les objets portables des loteries offriront les mêmes <a href="https://wiki.aavegotchi.com/wearables">boosts</a> à vos Aavegotchi que tous les autres objets portables dans leur classe rareté (comme rare, mythique, etc).  Sur le [Baazaar](/baazaar), s'ils ont plus de valeur à la revente en raison de leur **statut de prélancement** ou **associations de marques** ce sera déterminé par la demande du marché.
 
 
 ### Comment transférer des tickets de loterie ?
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+Les tickets de loterie sont basés sur la norme ERC-1155. Ils peuvent être transférés via la page [Tickets](https://aavegotchi.com/tickets) sur le DApp Aavegotchi. Sous chaque catégorie de ticket que vous possédez, il y aura un bouton de transfert (voir capture d'écran ci-dessous). Cliquez sur ce bouton pour transférer les billets appartenant à cette catégorie.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+Vous serez ensuite amené sur une autre page où vous pourrez spécifier l'adresse du destinataire ainsi que le nombre de tickets à transférer (voir capture d'écran ci-dessous). Une fois que vous avez saisi les informations et confirmé qu'elles sont correctes, cliquez sur le bouton Transférer.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### Y aura-t-il des loteries après le lancement sur le réseau principal ?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+Oui, il y aura des loteries supplémentaires après le lancement du réseau principal. Cependant, elles ne seront pas fréquentes et ne seront pas annoncées au préalable. Ceci est pour récompenser les utilisateurs qui sont encore en train de jouer et d'accumuler leurs [FRENS](/glossary#frens) et/ou leurs tickets de loterie.
 
 ## FAQ des ventes aux enchères
 
 ### Combien puis-je gagner ?
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+Chaque vente aux enchères GBM peut être configurée avec certains préréglages pour un gain maximal. Pour cette vente aux enchères d'objets portables, nous avons choisi les mêmes presets que ceux utilisés dans les Cryptographies — minimum 1% , et maximum 10%. Cela signifie que le montant maximum que vous pouvez gagner en surenchérissant est de 10% du montant de l'enchère!
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+Par exemple, si vous soumettez 2000 GHST, le maximum que vous pouvez gagner si vous êtes surrenchéri sur la 1ere enchère est de 200 GHST. Les ventes aux enchères futures vont aussi expérimenter différents préréglages pour garder l'intérêt !
 
 ### Puis-je me surenchérir moi-même ?
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+Oui, il n'y a rien de mal à se surenchérir pour gagner les récompenses. Simplement ne voyez pas trop haut !
 
 ### Pourquoi l'augmentation minimale est-elle de 10 %?
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+Cette « étape » minimale a été soigneusement calculée par les spécialistes de la théorie du jeu au GBM pour s'assurer que la vente aux enchères reste entièrement financée, peu importe le nombre d'enchères qui lui sont lancées. Sans une augmentation minimale, la vente aux enchères risquerait d'être sous-financée.
 
 ### Y a-t-il une enchère minimale?
-There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+Il n'y a pas d'offre minimale pour la vente aux enchères. Vous pouvez enchérir 1 GHST si vous le souhaitez! Gardez juste à l'esprit que plus votre offre d'enchère sera haute, plus vous gagnerez potentiellement si vous êtes surenchéri.
 
-### What prevents bots from swiping up all the items?
+### Qu'est-ce qui empêche les bots de raffler tous les objets ?
 In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
 
-This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+Cet avantage de vitesse est totalement atténué par le système de vente aux enchères — les bots ne fonctionneront PAS avec des NFT dans une Enchère Aavegotchi !
 
 ### Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?
 If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
