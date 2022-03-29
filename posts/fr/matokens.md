@@ -23,7 +23,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
-<li><a href=#learn-more>Learn More</a></li>
+<li><a href=#learn-more>En savoir plus</a></li>
 </ol>
 
 </div>
