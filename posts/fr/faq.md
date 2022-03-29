@@ -150,11 +150,11 @@ Vous pouvez trouver ici plus de détails sur le jeu <a href="https://wiki.aavego
 2 mars 2021 sur Polygon ! Le [Gotchiverse](/gotchiverse) ouvrira peu après (Q1 2021).
 
 ### Combien ça coûte de jouer à Aavegotchi?
-There are a couple of ways to get an Aavegotchi:
+Il y a deux façons d'obtenir un Aavegotchi :
 
-* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+* Achetez un portail [](/portals) durant un drop de portail, ouvrez-le, et [invoquez](/portals#claiming-an-aavegotchi) un Gotchi en déposant le montant minimum requis de la Force spirituelle.
 
-Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+Coût: 100 GHST + 10 DAI de garantie minimum (vous pourriez avoir besoin de plus de collatéral si vous choisissez un Gotchi plus rare). Cette option n'est viable que pendant les drop de portails, car ils partent très rapidement.
 
 * Buy an Unopened Portal at the [Baazaar](/baazaar).
 
