@@ -150,42 +150,42 @@ Vous pouvez trouver ici plus de détails sur le jeu <a href="https://wiki.aavego
 2 mars 2021 sur Polygon ! Le [Gotchiverse](/gotchiverse) ouvrira peu après (Q1 2021).
 
 ### Combien ça coûte de jouer à Aavegotchi?
-Il y a deux façons d'obtenir un Aavegotchi :
+Il y a plusieurs façons d'obtenir un Aavegotchi :
 
 * Achetez un portail [](/portals) durant un drop de portail, ouvrez-le, et [invoquez](/portals#claiming-an-aavegotchi) un Gotchi en déposant le montant minimum requis de la Force spirituelle.
 
 Coût: 100 GHST + 10 DAI de garantie minimum (vous pourriez avoir besoin de plus de collatéral si vous choisissez un Gotchi plus rare). Cette option n'est viable que pendant les drop de portails, car ils partent très rapidement.
 
-* Buy an Unopened Portal at the [Baazaar](/baazaar).
+* Achetez un Portail Fermé dans le [Baazaar](/baazaar).
 
-Cost: Variable.
+Coût: Variable.
 
-* Buy an Opened Portal at the [Baazaar](/baazaar).
+* Achetez un Portail Ouvert dans le [Baazaar](/baazaar).
 
-Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+Coût: Variable, mais moins cher que les Portails fermés achetés dans le Baazaar puisque les 10 Gotchis à l'intérieur sont déjà révélés.
 
-* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+* Achetez un Aavegotchi de quelqu'un d'autre le vendant dans le [Baazaar](/baazaar).
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+Coût: Variable. Dépend de la rareté du Gotchi, des objets portables équipés, des Baadges, etc.
 
 ### Quand le réseau principal est-il lancé?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
+Le réseau principal devait initialement être lancé le 4 janvier 2021. En raison de la forte congestion de la blockchain Ethereum à ce moment-là, un vote de la communauté a été réalisé. La communauté a voté pour le lancement d'Aavegotchi sur Polygon à une date ultérieure. L'équipe Aavegotchi a confirmé la date de lancement du 2 Mars 2021 sur Polygon.
 
 
 ### Que puis-je faire maintenant?
 
-Right now, you can:
+Pour l'instant, vous pouvez:
 
-* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
+* **Déposer des GHST pour gagner des FRENS :** les FRENS peuvent être utilisés pour acheter des tickets de loterie à utiliser dans des loteries. Consultez la [page Staking](/staking) pour plus d'infos !
 
-* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
+* **Caresser votre Gotchi toutes les 12 heures :** Oui ! Vous devez améliorer votre [Parenté](/traits#kinship) avec votre Fren Gotchi ! Plus le Kinship est élevé, mieux vous serez classer dans l'[agriculture de rareté (Rarity Farming)](/rarity-farming)!
 
-* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
+* **Jouez à quelques mini-jeux :** Certains [mini-jeux](/minigames) sont déjà disponibles. Jetez-y un œil !
 
 
 ### Ai-je besoin du KYC pour jouer à Aavegotchi ou posséder des jetons GHST?
 
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+Non ! Vous n'avez besoin de faire le KYC que si vous voulez acheter du GHST directement à partir de la [bonding curve](/curve). Vous pouvez acheter du GHST sur [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) sans KYC, ainsi que sur [certains échanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Pendant ce temps, **aucun KYC** n'est requis pour acheter [des portails](/portals), [jouer à des mini-jeux](/minigames), [déposer des GHST](/staking), ou pour tout autre aspect du projet Aavegotchi lui-même.
 
 The table below summarizes the information:
 
@@ -279,7 +279,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### L'achat d'un ticket signifie-t-il que je suis entré dans la loterie ?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+Non ! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?
