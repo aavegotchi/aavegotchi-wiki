@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+title: 'Feuille de route'
+description: 'La Feuille de route Aavegotchi'
 contributors:
   - "hackingmoneyph"
   - "unintelligent-nerd"
@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">« Partons en voyage! »</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+Salut les Frens, bouclez vos ceintures préparez vous pour notre voyage de plusieurs années qui fera d'Aavegotchi une institution ! Notre feuille de route se compose de trois grandes sections. Lire la suite pour en savoir plus!
 
 <div class="contentsBox">
 
@@ -31,52 +31,52 @@ Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a 
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
-Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.
+L’incubation est la première phase de notre voyage pluriannuel. Elle s'étend du deuxième trimestre 2021 au quatrième trimestre 2021.
 
-Strategy for this phase: *Establish Aavegotchi as a popular game for crypto natives*
+Stratégie pour cette phase : *Établir Aavegotchi comme un jeu populaire pour les cryptomonnaies natives*
 
-Milestones: 25K MAU / 5K DAU
+Jalons: 25K MAU / 5K DAU
 
-### Q2 2021
+### T2 2021
 
-* Polygon to Ethereum NFT Bridges
-* Aavegotchi Onchain Sideviews
-* GHST Token listed on Aave
-* Social media integrations (Link Aavegotchi via Discord/Twitter)
-* NFT Aauctions
+* Ponts NFT de Polygon vers Ethereum
+* Vue latérale Aavegotchi sur la chaine
+* Jeton GHST listé sur Aave
+* Intégration des réseaux sociaux (Lier Aavegotchi via Discord/Twitter)
+* Ventes aux enchères de NFT
 * REALM Gotchiverse Litepaper Release
-* Haunt 2 (planned)
-* REALM Gotchiverse Presale
+* Haunt 2 (planifiée)
+* Prévente des parcelles du Gotchiverse
 
-### Q3 2021
+### T3 2021
 
-* Haunt 2 Raffle: 5 - 8 September 2021
-* Raffle #5: 24 - 28 September 2021
-* REALM Gotchiverse Whitepaper Release
-* REALM Presale #2
+* Loterie Haunt 2 : du 5 au 8 septembre 2021
+* Loterie #5: du 24 au 28 septembre 2021
+* Livre blanc du Royaume Gotchiverse
+* Prévente Parcelles #2
 * Aavegotchi Aarcade Mini-game hub
 
-### Q4 2021
+### T4 2021
 
-* REALM Public Land Sale #1, #2, and #3
-* REALM Gotchiverse Alpha Launch
+* Vente de parcelles REALM #1, #2 et #3
+* Lancement de l'Alpha Gotchiverse
 * Creator Economy Wearables Dapp Launch
-* [AavegotchiDAO](/dao) V2 (Metamorphosis)
+* [AavegotchiDAO](/dao) V2 (métamorphose)
 * [Baazaar](/baazaar) NFT offers feature
 * [Rarity Farming](/rarity-farming) Season 2
-* Gotchi renting/lending
-* The Aarcade
-* Gotchiverse Citaadel Launch
+* Location/Prêt Gotchi
+* Aarcade
+* Lancement de la Citaadel Gotchiverse
 
 ## Breakout
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
-Breakout is the second phase of our multi-year journey. It spans from Q1 2022 to Q4 2023.
+Breakout is the second phase of our multi-year journey. Il s'étend du premier trimestre 2022 au quatrième trimestre 2023.
 
 Strategy for this phase: *Establish Aavegotchi as a community-owned gaming platform with mainstream appeal*
 
-Milestones: 1M MAU / 25K DAU
+Jalons: 1M MAU / 25K DAU
 
 * Aavegotchi Builder SDK
 * REALM Public Land Sales
