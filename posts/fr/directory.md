@@ -95,7 +95,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [Les saisons d'agriculture de rareté (Rarity Farming)](/rarity-farming-seasons)
 
 * [Feuille de route](/roadmap)
 
