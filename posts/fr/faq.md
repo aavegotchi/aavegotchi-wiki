@@ -29,7 +29,7 @@ contributors:
 <p><a href=#what-can-i-do-now->Que puis-je faire maintenant?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Ai-je besoin du KYC pour jouer à Aavegotchi ou posséder des jetons GHST?</a></p>
 <p><a href=#what-does-aave-have-to-do-with-aavegotchi->Qu'est-ce qu'Aave a à voir avec Aavegotchi?</a></p>
-<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Les ATokens miss dans un Aavegotchi peuvent-ils être liquidés ?</a></p>
 <p><a href=#what-are-matokens->Que sont les maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Un CAPTCHA pourrait-il être utilisé pour empêcher les bots ?</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->Les amTokens sont-ils les mêmes que les maTokens ?</a></p>
@@ -187,37 +187,37 @@ Pour l'instant, vous pouvez:
 
 Non ! Vous n'avez besoin de faire le KYC que si vous voulez acheter du GHST directement à partir de la [bonding curve](/curve). Vous pouvez acheter du GHST sur [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) sans KYC, ainsi que sur [certains échanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Pendant ce temps, **aucun KYC** n'est requis pour acheter [des portails](/portals), [jouer à des mini-jeux](/minigames), [déposer des GHST](/staking), ou pour tout autre aspect du projet Aavegotchi lui-même.
 
-The table below summarizes the information:
+Le tableau ci-dessous résume les informations :
 
 table_kyc
 
 ### Qu'est-ce qu'Aave a à voir avec Aavegotchi?
 
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+Aavegotchi a commencé avec une subvention d'écosystème Aave, confiée avec la permission d'utiliser le logo du fantôme Aave. Le jeu Aavegotchi intègre l'utilisation de [aTokens](/spirit-force) comme élément central de gameplay, et depuis novembre 2020, Aave est également un [investisseur officiel](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) dans Pixelcraft Studios, l'équipe derrière Aavegotchi.
 
-### Can aTokens staked inside an Aavegotchi get liquidated?
-No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+### Les ATokens miss dans un Aavegotchi peuvent-ils être liquidés ?
+Non. Les aTokens mis à l'intérieur d'un Aavegotchi ne peuvent pas être utilisés comme collatéraux pour emprunter sur la plate-forme Aave. Ainsi, de tels aTokens ne peuvent pas être liquidés.
 
 ### Que sont les maTokens?
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+Les maTokens sont aTokens d'Aave V2 qui ont été transférés sur Polygon. Comme les aTokens, ils génèrent des intérêts au fil du temps !
 
 ### Un CAPTCHA pourrait-il être utilisé pour empêcher les bots ?
-No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+Non. Le site [Aaavegotchi.com](https://aavegotchi.com/) est juste une interface. Les robots contourneraient toujours facilement l’interface et interagiraient directement avec le contrat intelligent sous-jacent.
 
-This is a feature of permissionless blockchains. It cannot be stopped.
+Ceci est une fonctionnalité des blockchains sans permission. On ne peut pas y mettre fin.
 
 ### Les amTokens sont-ils les mêmes que les maTokens ?
-No. amTokens are **not** the same as maTokens.
+Non. Les amTokens ne sont **pas** les mêmes que maTokens.
 
-maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+Les maTokens sont aTokens d'Aave V2 sur le réseau principal Ethereum qui ont été représentés sur Polygon. Ils ont été créés par [Nick](/team#nick-mudge) pour accélérer le lancement d'Aavegotchi sur Polygon.
 
-Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
+Par la suite, Aave s'est déplacée vers Polygon. Les jetons de leurs marchés Aave (Polygon) sont connus sous le nom amTokens.
 
-Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
+Les deux catégories de jetons ont des profils de taux d'intérêt différents. Pour les maTokens, leurs taux d'intérêt peuvent être observés sur le marché Aave V2. Pour amTokens, leurs taux d'intérêt peuvent être observés sur le marché Aave (Polygon).
 
-Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
+Les Aavegotchis appartenant à [Haunt](/haunt) 1 utilisent les maTokens comme Force d'esprit.
 
-From Haunt 2 onwards, amTokens will be used as Spirit Force.
+À partir de Haunt 2, les amTokens seront utilisés comme Force spirituelle.
 
 Les jetons maTokens et amTokens vous donnes des intérêts. Cependant, *la façon dont* ils accumulent des intérêts diffère :
 
@@ -225,12 +225,12 @@ Les jetons maTokens et amTokens vous donnes des intérêts. Cependant, *la faço
 
 * Les jetons amTokens augmentent en **quantité** au fil du temps. Cela s'applique aux portails d'Aavegotchis à partir de la Haunt 2 et plus. Les intérêts accumulés sont reflétés en quantité. Il est donc possible de retirer amTokens une fois qu'un intérêt suffisant a été généré.
 
-### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
-QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+### Pourquoi ne puis-je pas échanger mes actifs contre maLINK/maUNI sur Quickswap ?
+QuickSwap a des problèmes de routage pour quelques maTokens tels que maUNI et maLINK. Vous devez d'abord changer manuellement des maUSDC et ensuite obtenir le maToken correspondant.
 
-**Doesn't work**: ETH/USDC -> maUNI/maLINK
+**Ne fonctionne pas**: ETH/USDC -> maUNI/maLINK
 
-**Works**: maUSDC -> maUNI/maLINK
+**Fonctionne**: maUSDC -> maUNI/maLINK
 
 ### Aavegotchi sera-t-il intégré dans OpenSea?
 Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
@@ -254,12 +254,12 @@ After making a purchase on the bonding curve, you need to make another transacti
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
 ### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+Non. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
 ## FAQ des FRENS
 
 ### Puis-je acheter des FRENS?
-No. FRENS are a way to reward our community members who staked GHST.
+Non. FRENS are a way to reward our community members who staked GHST.
 
 ### Les FRENS sont-ils utilisés pour autre chose que les loteries ?
 
@@ -284,7 +284,7 @@ Non ! Please be aware simply buying tickets with FRENS **does not automatically 
 
 ### Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+Non. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Les objets des loteries sont-ils spéciaux ?
@@ -334,7 +334,7 @@ If you’re the highest bidder at the end of the Auction, you’ll see a “Clai
 ## FAQ des objets portables
 
 ### Dois-je transférer mes bons (vouchers) sur Polygon ?
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+Non. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ### Y a-t-il des quantités limitées pour chaque objet portable ?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
@@ -579,10 +579,10 @@ Do note that if you have more than 1 Gotchi, you need to repeat the same process
 
 ### Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Tout d'abord, allez sur la page [Ma page Aavegotchis](https://aavegotchi.com/aavegotchis). Cliquez sur l'un de vos Aavegotchis. Dans le coin inférieur droit de l'écran, il y aura un bouton "Poche". Cliquez sur le bouton Poche et la fenêtre de poche de Gotchi apparaîtra. Il y aura un bouton "Affichage". Cliquez dessus et vous serez dirigé vers l'adresse de ce contrat intelligent de Gotchi. Il s'agit d'un contrat d'entiercement avec lequel le propriétaire du Gotchi peut interagir.
 
-Do note that each Gotchi will have its own Smart Contract Address.
+Notez que chaque Gotchi aura sa propre adresse de contrat intelligent.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">À suivre...</p>
 
 
