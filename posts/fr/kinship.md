@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23'
-title: 'Kinship'
+title: 'Parenté'
 description: 'Everything you need to know about Kinship and petting your Gotchi!'
 contributors:
   - "unintelligent-nerd"
@@ -26,7 +26,7 @@ contributors:
 
 ## What is Kinship
 
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+La parenté est le sentiment de fidélité de votre Aavegotchi. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
 
 Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
 
