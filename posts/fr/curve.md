@@ -62,47 +62,47 @@ Le **Jeton Continu** fait référence au jeton qui est reçu de la courbe de lia
 
 Dans le cas d'Aavegotchi, la réserve et les jetons continus sont respectivement DAI et GHST. 
 
-Le **Poids Connectant** (également connu sous le nom de Ratio de réserve ou Connecting Weight (CW)) représente un ratio fixe (entre 0 et 100%) entre la valeur totale du jeton continu (fourniture totale × prix unitaire) et la valeur de son solde de jeton de réserve.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+Le **Poids Connectant** (également connu sous le nom de Ratio de réserve ou Connecting Weight (CW)) représente un ratio fixe (entre 0 et 100%) entre la valeur totale du jeton continu (fourniture totale × prix unitaire) et la valeur de son solde de jeton de réserve.  Ce CW est constant par la formule Bancor tant que le solde du jeton de réserve et la valeur totale du jeton continu (c.-à-d. La "capitalisation du marché") fluctue avec les achats et les ventes.
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+Chaque achat ou vente du jeton continu (GHST) déclenche une augmentation ou une diminution des jetons de réserve (DAI). Le prix du jeton continu par rapport à ses jetons de réserve doit alors recalculer continuellement pour maintenir le poids de connexion (CW) configuré entre eux.
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity. 
+Le poids connectant (CW) détermine à quel point le prix d'un jeton continu doit être ajusté pour être maintenu à chaque transaction, ou, en d'autres termes, sa sensibilité aux prix. 
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+Un ratio de réserve plus élevé entre le solde du Jeton de Réserve et le Jeton Continu entraînera une baisse de la sensibilité au prix, ce qui signifie que chaque achat et vente aura un effet moindre que proportionné sur le mouvement de prix du Jeton Continu. Un ratio de réserve moins élevé entre le JEton de Réserve et le Jeton Continu entraînera une hausse de la sensibilité au prix, ce qui signifie que chaque achat et vente aura un effet plus important que proportionné sur le mouvement de prix du Jeton Continu.
 
-**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+**Le ratio de Réserve d'Aavegotchi est de 33% les ami(e)s!** Cela signifie que vous n'avez pas besoin de craindre les baleines. Ils ne peuvent pas faire de pump & dump sur le GHST car la courbe de liaison est durcie contre leurs transactions gigantesques !
 
-If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
+Si vous voulez le voir en action, consultez ce modèle interactif de la courbe de liaison fait par Coderdan [ici](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
 
-TEH CURVE IS FOREVER!
+LA COURSE POUR TOUJOURS !
 
 
 
 ## La Courbe de liaison d'Aavegotchi
 
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+La courbe de liaison Aavegotchi a été créée le 14 septembre 2020 grâce à un contrat intelligent propulsé par [la collecte de fonds Aragon](https://fundraising.aragon.black/). Après la conclusion d'une prévente de 500 000 GHST, la courbe de liaison a été immédiatement ouverte. La courbe de liaison est illimitée en taille, n'a pas de limite de temps, et offre un prix d'ouverture de 0,2 Dai par GHST. Il a un poids de liaison de 33%.
 
-You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
+Vous devrez compléter le KYC afin d’acheter/ vendre directement depuis la courbe. La conformité est importante les ami(e)s - nous vivons dans une société et nous ne voulons pas non plus que le projet soit accidenté par le gouvernement. Les achats effectués à partir de la courbe sont effectués en DAI. L'inverse s'applique aussi; vous pouvez revendre votre GHST à la courbe pour DAI, mais pourquoi voudriez-vous faire cela? :( :( :(
 
-If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
+Si vous ne parvenez pas à exécuter la KYC en raison de votre citoyenneté, ne vous inquiétez pas! **Vous pourrez toujours interagir avec toutes les autres parties de la métaverse Aavegotchi.** Vous devez simplement acheter votre GHST sur un DEX comme Uniswap ou Balancer, ou un CEX comme OKex à la place. Apprenez comment obtenir des jetons GHST [ici](/ghst#get-ghst).
 
 
 
 ## Aavegotchi DAICO
 
-A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Une Decentralized Autonomous Initial Coin Offering (DAICO) est une nouvelle méthode de collecte de fonds qui vise à incorporer les meilleures caractéristiques d'une organisation autonome décentralisée (DAO) avec celles d'une offre initiale de jetons (ICO) afin de créer une structure qui fournit un niveau d'efficacité plus élevé au modèle de collecte de fonds de vente de jetons. Un DAICO est un modèle par lequel les investisseurs ont le contrôle des fonds collectés une fois la collecte de fonds terminée. Les investisseurs pourraient influencer la façon dont les développeurs ont accès aux fonds et à quelle fréquence grâce à un mécanisme de "tapage". En outre, les investisseurs peuvent également voter pour supprimer le projet et faire rembourser leurs fonds.
 
-The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
+Le projet Aavegotchi a lancé la courbe de liaison de jetons à travers un DAICO sur Aragon.
 
-**This is SAFU. Do. Not. Remove. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**Ceci est SAFE. Ne. Pas. Supprimer. La. Courbe. De Liasion.** Cela empêche les investisseurs de subir les pump & dump car ils ont finalement le contrôle des fonds grâce à DAICO et courbe de liaison!
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+La première itération du [AavegotchiDAO](/dao) a été lancée en tandem avec la distribution GHST sur la courbe de liaison. Les détenteurs de GHST ont eu le pouvoir de voter pour augmenter / maintenir les fonds distribués par le mécanisme de la courbe de liaison de jetons (TBC) à Pixelcraft Studios (l'équipe derrière Aavegotchi) pour soutenir le développement. La première proposition AavegotchiDAO d'augmenter le "tapage" d'Aavegotchi DAICO à partir de 50, 00 DAI à 100 000 DAI par mois sont passés avec une approbation de 99 % le 18 octobre 2020.
 
 
 
 ## Dynamique de l'offre du token d'Aavegotchi
 
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
+Lors de notre discussion sur DAICO/courbe de liaison de jetons ci-dessus, nous avons appris que la fourniture totale du jeton de la GHST est dynamique. Lorsque les investisseurs achètent du GHST en utilisant du DAI à partir de la courbe de liaison, de nouveaux jetons de GHST sont mint et la fourniture totale de GHST en circulation augmente. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
 
 The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
 
