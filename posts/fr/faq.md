@@ -25,40 +25,40 @@ contributors:
 <p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Je suis nouveau dans Aavegotchi. Après le lancement, comment puis-je jouer ?</a></p>
 <p><a href=#when-can-i-get-an-aavegotchi->Quand puis-je obtenir un Aavegotchi?</a></p>
 <p><a href=#how-much-does-it-cost-to-play-aavegotchi->Combien ça coûte de jouer à Aavegotchi?</a></p>
-<p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
-<p><a href=#what-can-i-do-now->What can I do now?</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
-<p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
+<p><a href=#when-is-mainnet-launch->Quand le réseau principal est-il lancé?</a></p>
+<p><a href=#what-can-i-do-now->Que puis-je faire maintenant?</a></p>
+<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Ai-je besoin du KYC pour jouer à Aavegotchi ou posséder des jetons GHST?</a></p>
+<p><a href=#what-does-aave-have-to-do-with-aavegotchi->Qu'est-ce qu'Aave a à voir avec Aavegotchi?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
-<p><a href=#what-are-matokens->What are maTokens?</a></p>
-<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
-<p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
-<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
-<p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
-<p><a href=#where-can-i-find-the-aavegotchi-litepaper->Where can I find the Aavegotchi Litepaper?</a></p>
-<li><a href=#bonding-curve-faq>Bonding Curve FAQ</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
+<p><a href=#what-are-matokens->Que sont les maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Un CAPTCHA pourrait-il être utilisé pour empêcher les bots ?</a></p>
+<p><a href=#are-amtokens-the-same-as-matokens->Les amTokens sont-ils les mêmes que les maTokens ?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Pourquoi ne puis-je pas échanger mes actifs contre maLINK/maUNI sur Quickswap ?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Aavegotchi sera-t-il intégré dans OpenSea?</a></p>
+<p><a href=#where-can-i-find-the-aavegotchi-litepaper->Où puis-je trouver le Litepaper Aavegotchi ?</a></p>
+<li><a href=#bonding-curve-faq>FAQ Bonding Curve</a></li>
+<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>J'ai acheté du GHST mais je ne peux pas le voir dans mon portefeuille</a></p>
 <p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
-<li><a href=#frens-faq>FRENS FAQ</a></li>
-<p><a href=#can-i-buy-frens->Can I buy FRENS?</a></p>
-<p><a href=#are-frens-used-for-anything-besides-raffles->Are FRENS used for anything besides raffles?</a></p>
-<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->What happens to the FRENS on Mainnet after the game launches on polygon?</a></p>
-<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Why is the GHST-USDC LP yielding 74M FRENS per day?</a></p>
-<li><a href=#raffle-faq>Raffle FAQ</a></li>
-<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
-<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
-<p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
-<p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
-<p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#aauction-faq>Aauction FAQ</a></li>
-<p><a href=#how-much-can-i-earn->How much can I earn?</a></p>
-<p><a href=#can-i-outbid-myself->Can I outbid myself?</a></p>
-<p><a href=#why-is-the-minimum-increase-10-->Why is the minimum increase 10%?</a></p>
-<p><a href=#is-there-a-minimum-bid->Is there a minimum bid?</a></p>
+<li><a href=#frens-faq>FAQ des FRENS</a></li>
+<p><a href=#can-i-buy-frens->Puis-je acheter des FRENS?</a></p>
+<p><a href=#are-frens-used-for-anything-besides-raffles->Les FRENS sont-ils utilisés pour autre chose que les loteries ?</a></p>
+<p><a href=#what-happens-to-the-frens-on-mainnet-after-the-game-launches-on-polygon->Qu'advient-il des FRENS sur le réseau principal après le lancement du jeu sur Polygon ?</a></p>
+<p><a href=#why-is-the-ghst-usdc-lp-yielding-74m-frens-per-day->Pourquoi le LP GHST-USDC produit-il 74 millions de FRENS par jour?</a></p>
+<li><a href=#raffle-faq>FAQ des loteries</a></li>
+<p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->L'achat d'un ticket signifie-t-il que je suis entré dans la loterie ?</a></p>
+<p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?</a></p>
+<p><a href=#are-raffle-wearables-special->Les objets des loteries sont-ils spéciaux ?</a></p>
+<p><a href=#how-do-you-transfer-raffle-tickets->Comment transférer des tickets de loterie ?</a></p>
+<p><a href=#will-there-be-raffles-after-mainnet-launches->Y aura-t-il des loteries après le lancement sur le réseau principal ?</a></p>
+<li><a href=#aauction-faq>FAQ des ventes aux enchères</a></li>
+<p><a href=#how-much-can-i-earn->Combien puis-je gagner ?</a></p>
+<p><a href=#can-i-outbid-myself->Puis-je me surenchérir moi-même ?</a></p>
+<p><a href=#why-is-the-minimum-increase-10-->Pourquoi l'augmentation minimale est-elle de 10 %?</a></p>
+<p><a href=#is-there-a-minimum-bid->Y a-t-il une enchère minimale?</a></p>
 <p><a href=#what-prevents-bots-from-swiping-up-all-the-items->What prevents bots from swiping up all the items?</a></p>
-<p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->What prevents bots from being able to snipe the end of an auction?</a></p>
-<p><a href=#how-do-i-claim-my-nft->How do I claim my NFT?</a></p>
-<li><a href=#wearable-faq>Wearable FAQ</a></li>
+<p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?</a></p>
+<p><a href=#how-do-i-claim-my-nft->Comment puis-je réclamer mon NFT ?</a></p>
+<li><a href=#wearable-faq>FAQ des objets portables</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
@@ -129,21 +129,21 @@ The FAQ is designed as a quick-reference guide for short answers to quick questi
 
 ### Je suis nouveau dans Aavegotchi. Après le lancement, comment puis-je jouer ?
 
-* **STEP 1:** Buy [GHST](/ghst)
+* **ÉTAPE 1 :** Acheter des [GHST](/ghst)
 
-* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+* **ÉTAPE 2 :** Utilisez les GHST pour acheter un [portail](/portals) ou un Aavegotchi dans le [Baazaar](/baazaar)
 
-* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+* **ÉTAPE 3 :** Obtenez quelques objets portables pour votre Gotchi dans le Baazaar
 
-* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+* **ÉTAPE 4 :** Caressez votre Gotchi toutes les 12 heures pour augmenter sa [parenté](/traits#kinship)
 
-* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+* **ÉTAPE 5:** Participez à [l'agriculture de rareté (rarity farming)](/rarity-farming)
 
-* **STEP 6:** Play some [Mini-Games](/minigames)
+* **ÉTAPE 6 :** Jouez à des [Mini-jeu](/minigames)
 
-* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
+* **ÉTAPE 7 :** Attendez que le [Gotchiverse](/gotchiverse) soit lancé !
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+Vous pouvez trouver ici plus de détails sur le jeu <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">.</a>
 
 ### Quand puis-je obtenir un Aavegotchi?
 
@@ -168,11 +168,11 @@ Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since th
 
 Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
-### When is mainnet launch?
+### Quand le réseau principal est-il lancé?
 Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
 
 
-### What can I do now?
+### Que puis-je faire maintenant?
 
 Right now, you can:
 
@@ -183,7 +183,7 @@ Right now, you can:
 * **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
 
 
-### Do I need KYC to play Aavegotchi or own GHST token?
+### Ai-je besoin du KYC pour jouer à Aavegotchi ou posséder des jetons GHST?
 
 No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
@@ -191,22 +191,22 @@ The table below summarizes the information:
 
 table_kyc
 
-### What does Aave have to do with Aavegotchi?
+### Qu'est-ce qu'Aave a à voir avec Aavegotchi?
 
 Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Can aTokens staked inside an Aavegotchi get liquidated?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
-### What are maTokens?
+### Que sont les maTokens?
 maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
-### Could CAPTCHA be used to prevent bots?
+### Un CAPTCHA pourrait-il être utilisé pour empêcher les bots ?
 No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
 This is a feature of permissionless blockchains. It cannot be stopped.
 
-### Are amTokens the same as maTokens?
+### Les amTokens sont-ils les mêmes que les maTokens ?
 No. amTokens are **not** the same as maTokens.
 
 maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
@@ -232,12 +232,12 @@ QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You 
 
 **Works**: maUSDC -> maUNI/maLINK
 
-### Will Aavegotchi be integrated with OpenSea?
+### Aavegotchi sera-t-il intégré dans OpenSea?
 Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
-### Where can I find the Aavegotchi Litepaper?
+### Où puis-je trouver le Litepaper Aavegotchi ?
 
 There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
 
@@ -246,9 +246,9 @@ They can be found here:
 * [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
-## Bonding Curve FAQ
+## FAQ Bonding Curve
 
-### I bought GHST but I can't see it in my wallet
+### J'ai acheté du GHST mais je ne peux pas le voir dans mon portefeuille
 After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
@@ -256,43 +256,43 @@ After making a purchase on the bonding curve, you need to make another transacti
 ### Can people frontrun the Bonding Curve?
 No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
 
-## FRENS FAQ
+## FAQ des FRENS
 
-### Can I buy FRENS?
+### Puis-je acheter des FRENS?
 No. FRENS are a way to reward our community members who staked GHST.
 
-### Are FRENS used for anything besides raffles?
+### Les FRENS sont-ils utilisés pour autre chose que les loteries ?
 
 No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
 
 ### What happens to the FRENS on Mainnet after the game launches on Polygon?
 Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
 
-### Why is the GHST-USDC LP yielding 74M FRENS per day?
+### Pourquoi le LP GHST-USDC produit-il 74 millions de FRENS par jour?
 An early depositor in the GHST-USDC pool on QuickSwap messed up the ratio between the assets. Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
 
-## Raffle FAQ
+## FAQ des loteries
 
 See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
-### Does buying a ticket mean I'm entered into the raffle?
+### L'achat d'un ticket signifie-t-il que je suis entré dans la loterie ?
 
 No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
-### Will raffle wearables be available in the Aavegotchi store?
+### Les objets gagnés à la loterie seront-ils disponibles dans le magasin Aavegotchi ?
 
 No. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
-### Are raffle wearables special?
+### Les objets des loteries sont-ils spéciaux ?
 
 As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
-### How do you transfer raffle tickets?
+### Comment transférer des tickets de loterie ?
 Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
@@ -301,23 +301,23 @@ You will then be brought to another page where you can specify the recipient's a
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-### Will there be Raffles after Mainnet launches?
+### Y aura-t-il des loteries après le lancement sur le réseau principal ?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-## Aauction FAQ
+## FAQ des ventes aux enchères
 
-### How much can I earn?
+### Combien puis-je gagner ?
 Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
 
 For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
 
-### Can I outbid myself?
+### Puis-je me surenchérir moi-même ?
 Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
 
-### Why is the minimum increase 10%?
+### Pourquoi l'augmentation minimale est-elle de 10 %?
 This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
 
-### Is there a minimum bid?
+### Y a-t-il une enchère minimale?
 There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
 
 ### What prevents bots from swiping up all the items?
@@ -325,13 +325,13 @@ In a First Come First Serve NFT drop, an automated script can listen for blockch
 
 This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
 
-### What prevents bots from being able to snipe the end of an auction?
+### Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?
 If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
 
-### How do I claim my NFT?
+### Comment puis-je réclamer mon NFT ?
 If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
 
-## Wearable FAQ
+## FAQ des objets portables
 
 ### Do I need to transfer my wearable vouchers to Polygon?
 No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
