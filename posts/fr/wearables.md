@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23'
-title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+title: 'Objets portables'
+description: 'Tout sur les objets portables Aavegotchi'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/wearables/sergey-blue.png">
-<p class="headerImageText">The Sergey Blue Plaid</p>
+<p class="headerImageText">Le Plaid Bleu Sergey</p>
 </div>
 
 Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
