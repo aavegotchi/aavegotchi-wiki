@@ -97,7 +97,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming Seasons](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [Feuille de route](/roadmap)
 
 * [Sets](/sets)
 
@@ -111,7 +111,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [L'équipe](/team)
 
-* [The Nine Aadepts](/the-nine-aadepts)
+* [Les neuf adeptes](/the-nine-aadepts)
 
 * [Les tickets](/tickets)
 
