@@ -55,7 +55,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 ## Aarchitect Creations
 
-[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Jetez-y un œil !
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
 
