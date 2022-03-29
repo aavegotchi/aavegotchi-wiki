@@ -81,9 +81,9 @@ Il y a cinq façons de staker:
 
 *Pour chaque 1 GHST staké de cette façon, vous recevez 1 FRENS / jour.*
 
-### Staking GHST-QUICK and GHST-USDC
+### Staking de GHST-QUICK et GHST-USDC
 
-Staking GHST-QUICK and GHST-USDC follows the same steps.
+Le staking de GHST-QUICK et GHST-USDC suivent les mêmes étapes.
 
 * Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
 
