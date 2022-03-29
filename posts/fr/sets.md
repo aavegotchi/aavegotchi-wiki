@@ -7,38 +7,38 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Salut frens! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+Salut frens! Saviez-vous que si *certains objets portables* sont équipés ensemble, vous pouvez obtenir un bonus d'ensemble s'ajoutant en plus des bonus des objets portables ? Maintenant vous savez!
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**Les ensembles d'objets portables** sont des collections de portables qui confèrent un bonus supplémentaire aux Aavegotchi qui les équipent.
 
 Préparez-vous à déposer le maximum possible de GHST! Vous en aurez besoin !
 
 La couleur de la bordure entourant les objets portables indique la rareté:
-* <p style="color:#806AFB">Common: Cornflower Blue</p>
-* <p style="color:#98DBE5">Uncommon: Water Leaf</p>
-* <p style="color:#59BCFF">Rare: Malibu</p>
-* <p style="color:#FFC36B">Legendary: Koromiko</p>
-* <p style="color:#FF96FF">Mythical: Lavender Rose</p>
-* <p style="color:#51FFA8">Godlike: Aquamarine</p>
+* <p style="color:#806AFB">Commun: Violet</p>
+* <p style="color:#98DBE5">Inhabituel : Bleu vert</p>
+* <p style="color:#59BCFF">Rare : Bleu</p>
+* <p style="color:#FFC36B">Légendaire : Jaune orange</p>
+* <p style="color:#FF96FF">Mythique: Rose</p>
+* <p style="color:#51FFA8">Divin: Vert</p>
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#key>Key</a></li>
+<li><a href=#key>L'essentiel</a></li>
 <li><a href=#wearable-sets>Ensembles d'équipements portables</a></li>
 </ol>
 
 </div>
 
-## Key
+## L'essentiel
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* BRS = [Score de rareté de base](/rarity-farming#base-rarity-score)
+* AGG = Agressivité
+* NRG = Energie
+* SPK = Effrayant
+* BRN = Taille du cerveau
 
 ## Ensembles d'équipements portables
 
