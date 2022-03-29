@@ -58,11 +58,11 @@ Les courbes de liaison se présentent sous différentes formes et tailles. Pour 
 
 Le **Jeton de Réserve** fait référence au jeton que les utilisateurs stake dans la courbe de liaison.
 
-The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
+Le **Jeton Continu** fait référence au jeton qui est reçu de la courbe de liaison lors du staking u du jeton de réserve.
 
-In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively. 
+Dans le cas d'Aavegotchi, la réserve et les jetons continus sont respectivement DAI et GHST. 
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+Le **Poids Connectant** (également connu sous le nom de Ratio de réserve ou Connecting Weight (CW)) représente un ratio fixe (entre 0 et 100%) entre la valeur totale du jeton continu (fourniture totale × prix unitaire) et la valeur de son solde de jeton de réserve.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
 
 Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
 
