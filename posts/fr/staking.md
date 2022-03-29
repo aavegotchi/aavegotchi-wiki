@@ -65,21 +65,21 @@ Il y a cinq façons de staker:
 
 ### Staker vos jetons GHST directement
 
-* Step 1: Transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
+* Étape 1 : Transférez vos jetons GHST depuis le réseau principal Ethereum vers Polygon, une solution de couche 2 en utilisant le [Pont vers l'interface Polygon](https://aavegotchi.com/bridge).
 
-* Step 2: Approve the contract to use your GHST tokens.
+* Étape 2 : Approuver le contrat pour utiliser vos jetons GHST.
 
-* Step 3: Input the amount of GHST you would like to transfer to Polygon. Once your transaction has confirmed on Ethereum, it takes roughly 7-8 minutes for your balance to reflect on Polygon. Your balance will update automatically. Please be patient!
+* Étape 3 : Entrez le montant de GHST que vous souhaitez transférer à Polygon. Une fois votre transaction confirmé sur Ethereum, il faudra environ 7 à 8 minutes pour voir votre solde réfleté sur Polygon. Votre solde sera mis à jour automatiquement. Votre solde sera mis à jour automatiquement. Merci de patienter!
 
-* Step 4: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Étape 4 : Configurez votre portefeuille Metamask pour inclure Polygon en suivant ce [Guide Polygon](/polygon).
 
-* Step 5: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+* Étape 5 : Connectez votre Metamask à Polygon et allez à la [Page de staking de Polygon](https://aavegotchi.com/stake-polygon) sur la DApp Aavegotchi.
 
-* Step 6: Approve the contract to use your GHST tokens on Polygon.
+* Étape 6 : Approuver le contrat pour utiliser vos jetons GHST sur Polygon.
 
-* Step 7: Input the amount of GHST you would like to deposit. Presto! You are done!
+* Étape 7 : Entrez le montant de GHST que vous souhaitez déposer. Presto! Vous avez terminé !
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Pour chaque 1 GHST staké de cette façon, vous recevez 1 FRENS / jour.*
 
 ### Staking GHST-QUICK and GHST-USDC
 
