@@ -59,39 +59,39 @@ contributors:
 <p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->Qu'est-ce qui empêche les bots de pouvoir miser juste à la fin d'une vente aux enchères ?</a></p>
 <p><a href=#how-do-i-claim-my-nft->Comment puis-je réclamer mon NFT ?</a></p>
 <li><a href=#wearable-faq>FAQ des objets portables</a></li>
-<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
-<p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
-<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
-<p><a href=#why-are-there-missing-ids-in-the-wearables-page->Why are there missing IDs in the Wearables page?</a></p>
-<li><a href=#portal-faq>Portal FAQ</a></li>
-<p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
-<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
-<p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
-<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
-<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
-<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
-<p><a href=#why-20--quorum-for-signal-proposals->Why 20% Quorum for Signal Proposals?</a></p>
-<p><a href=#why-two-votes->Why Two Votes?</a></p>
+<p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Dois-je transférer mes bons (vouchers) sur Polygon ?</a></p>
+<p><a href=#are-there-limited-quantities-for-each-wearable->Y a-t-il des quantités limitées pour chaque objet portable ?</a></p>
+<p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire</a></p>
+<p><a href=#why-are-there-missing-ids-in-the-wearables-page->Pourquoi y a-t-il des IDs manquants sur la page des objets portables ?</a></p>
+<li><a href=#portal-faq>FAQ des portails</a></li>
+<p><a href=#how-many-portals-can-you-buy-in-1-transaction->Combien de portails puis-je acheter en 1 transaction?</a></p>
+<p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->Si j'ouvre un portail mais que je n'ai pas l'aToken nécessaire pour invoquer le gotchi, puis-je revenir plus tard pour l'invoquer ?</a></p>
+<p><a href=#when-will-portals-be-released->Quand les portails seront-ils disponibles ?</a></p>
+<li><a href=#aavegotchidao-faq>FAQ AavegotchiDAO</a></li>
+<p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->Comment voter en utilisant Trust Wallet sur Aragon?</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Pourquoi l'horodatage est-il incorrect dans le vote instantané ?</a></p>
+<p><a href=#why-20--quorum-for-signal-proposals->Pourquoi 20 % de Quorum pour les propositions Signal ?</a></p>
+<p><a href=#why-two-votes->Pourquoi deux votes ?</a></p>
 <p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
-<p><a href=#what-about-funding-proposals->What about Funding Proposals?</a></p>
-<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
-<p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
-<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#gotchiverse-faq>Gotchiverse FAQ</a></li>
-<p><a href=#what-is-the-gotchiverse->What is the Gotchiverse?</a></p>
-<p><a href=#what-is-gotchus-alchemica->What is Gotchus Alchemica?</a></p>
-<p><a href=#what-is-an-alchemical-aaltar->What is an Alchemical Aaltar?</a></p>
-<p><a href=#do-i-need-an-aavegotchi-to-play->Do I need an Aavegotchi to Play?</a></p>
-<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
-<li><a href=#guild-faq>Guild FAQ</a></li>
-<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
-<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
+<p><a href=#what-about-funding-proposals->Qu'en est-il des propositions de financement ?</a></p>
+<li><a href=#gameplay-faq>FAQ sur le jeu</a></li>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?</a></p>
+<p><a href=#how-much-does-it-cost-to-play->Combien ça coûte de jouer à Aavegotchi?</a></p>
+<p><a href=#does-changing-the-collateral-staked-affect-kinship-level->La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?</a></p>
+<li><a href=#gotchiverse-faq>FAQ du Gotchiverse</a></li>
+<p><a href=#what-is-the-gotchiverse->Qu'est-ce que le Gotchiverse?</a></p>
+<p><a href=#what-is-gotchus-alchemica->Qu'est-ce que le Gotchus Alchemica?</a></p>
+<p><a href=#what-is-an-alchemical-aaltar->Qu'est-ce qu'un autel alchimique ?</a></p>
+<p><a href=#do-i-need-an-aavegotchi-to-play->Ai-je besoin d'un Aavegotchi pour jouer ?</a></p>
+<li><a href=#aambassador-faq>FAQ de l'Aambassadeur</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->De quelle quantité dois-je faire grandir mon #GotchiGang?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?</a></p>
+<li><a href=#guild-faq>FAQ de guilde</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->Comment soumettre ma Guilde à la page wiki des Guildes ?</a></p>
 <li><a href=#bridging-faq>Bridging FAQ</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
@@ -333,49 +333,49 @@ If you’re the highest bidder at the end of the Auction, you’ll see a “Clai
 
 ## FAQ des objets portables
 
-### Do I need to transfer my wearable vouchers to Polygon?
+### Dois-je transférer mes bons (vouchers) sur Polygon ?
 No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
-### Are there limited quantities for each wearable?
+### Y a-t-il des quantités limitées pour chaque objet portable ?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
 
 For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
 
-### I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory
+### J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire
 Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
 
 You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
 At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
-### Why are there missing IDs in the Wearables page?
+### Pourquoi y a-t-il des IDs manquants sur la page des objets portables ?
 These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
 
-## Portal FAQ
+## FAQ des portails
 
-### How many portals can you buy in 1 transaction?
+### Combien de portails puis-je acheter en 1 transaction?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
 
-### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
+### Si j'ouvre un portail mais que je n'ai pas l'aToken nécessaire pour invoquer le gotchi, puis-je revenir plus tard pour l'invoquer ?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
-### When will portals be released?
+### Quand les portails seront-ils disponibles ?
 Portals will be released on Polygon at February.
 
-## AavegotchiDAO FAQ
+## FAQ AavegotchiDAO
 
-### How do I vote using Trust Wallet on Aragon?
+### Comment voter en utilisant Trust Wallet sur Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
 
 See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
-### Why does it say wrong timestamp in Snapshot Voting?
+### Pourquoi l'horodatage est-il incorrect dans le vote instantané ?
 This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
 
-### Why 20% Quorum for Signal Proposals?
+### Pourquoi 20 % de Quorum pour les propositions Signal ?
 A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
 
-### Why Two Votes?
+### Pourquoi deux votes ?
 There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
 
 Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
@@ -385,78 +385,78 @@ Secondly, it is entirely possible, even likely, that some Signal Proposals will 
 ### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
 You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
 
-### What about Funding Proposals?
+### Qu'en est-il des propositions de financement ?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
 
 **Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
 
 That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
-## Gameplay FAQ
+## FAQ sur le jeu
 
 
-### Do higher trait scores always mean higher rarity?
+### Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?
 
 Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
-### How much does it cost to play?
+### Combien ça coûte de jouer à Aavegotchi?
 
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
-### Does changing the collateral staked affect kinship level?
+### La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Gotchiverse FAQ
+## FAQ du Gotchiverse
 
-### What is the Gotchiverse?
+### Qu'est-ce que le Gotchiverse?
 
 The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
 
-### What is Gotchus Alchemica?
+### Qu'est-ce que le Gotchus Alchemica?
 
 Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
 
 Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
 
-### What is an Alchemical Aaltar?
+### Qu'est-ce qu'un autel alchimique ?
 
 The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
 
-### Do I need an Aavegotchi to Play?
+### Ai-je besoin d'un Aavegotchi pour jouer ?
 
 Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
 
-## Aambassador FAQ
+## FAQ de l'Aambassadeur
 
-### Do I need to fill out monthly reports as an Aambassador?
+### Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?
 
 No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### How big should I grow my #GotchiGang?
+### De quelle quantité dois-je faire grandir mon #GotchiGang?
 
 Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
 Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-### What if the #GotchiGang name I want has already been taken by someone else?
+### Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?
 
 We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
+### J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?
 
 Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### I have a question that isn’t answered here. Where should I ask it?
+### J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?
 
 All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
-## Guild FAQ
+## FAQ de guilde
 
-### What are the differences between Aambassador groups and Guilds?
+### Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?
 
 Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-### How do I submit my Guild to the Guild wiki page?
+### Comment soumettre ma Guilde à la page wiki des Guildes ?
 
 DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
