@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23'
 title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+description: 'Stake du GHST, gagne des FRENS'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -11,43 +11,43 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">Stake du GHST, gagne des FRENS!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+Le Staking se réfère au processus de verrouillage de votre cryptomonnaie en échange de récompenses. Il n'y a pas de différence dans le projet d'Aavegotchi. Le jeton natif, [GHST](/posts/ghst), peut être staké dans le Contrat de Staking pour gagner des [FRENS](/posts/glossary#frens).
 
-FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
+Les FRENS sont des jetons non transférable dans le contrat de staking d'Aavegotchi. Les FRENS ne peuvent pas être achetés. Ils sont destinés à récompenser les stakers pour leur contribution au projet d'Aavegotchi.
 
-FRENS can be converted into Raffle Tickets or Drop Tickets:
+Les FRENS peuvent être convertis en billets de loterie :
 
-* Raffle Tickets can be entered into periodic [Wearable Raffles](/tickets) to win [Wearables](/wearables).
+* Les Billets de Raffle peuvent être entrés dans des [loterie d'équipement](/tickets) périodiques pour gagner des [Équipements](/wearables).
 
-* Drop Tickets can be entered into [NFT Raffles](/tickets) to win [Portals](/portals) and [REALM Parcels](/metaverse).
+* Vous pouvez inscrire vos billets Drop dans les [loterie NFT](/tickets) pour gagner [des portails](/portals) et [des parcelles REALM](/metaverse).
 
-Continue reading to learn how to stake GHST.
+Continuez la lecture pour apprendre à staker vso GHST.
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#purchasing-ghst>Purchasing GHST</a></li>
-<li><a href=#how-to-stake>How to Stake</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#purchasing-ghst>Acheter du GHST</a></li>
+<li><a href=#how-to-stake>Comment Staker</a></li>
+<li><a href=#staking-contract-addresses>Les adresses du contrat de staking</a></li>
+<li><a href=#what-s-next->Et ensuite ?</a></li>
 </ol>
 
 </div>
 
-## Purchasing GHST
-First, you need to get your hands on some GHST tokens to stake. Our [GHST token page](/posts/ghst) covers the various ways in which you can get yourself some.
+## Acheter du GHST
+Tout d'abord, vous devez mettre la main sur des jetons GHST afin de pouvoir les staker. Notre page de jetons [GHST](/posts/ghst) couvre les différentes façons afin de pouvoir vous en procurer.
 
-## How to Stake
-Once you have some GHST tokens, they can be staked on the [Staking page](https://aavegotchi.com/stake-polygon)! Staking takes place on Polygon (formerly Matic Network).
+## Comment Staker
+Une fois que vous avez quelque jetons GHST, ils peuvent être staké sur la [page de staking](https://aavegotchi.com/stake-polygon)! Le Staking se déroule sur Polygon (anciennement Matic Network).
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
-There are five ways to stake:
+Il y a cinq façons de staker:
 
 1. GHST
 
@@ -59,11 +59,11 @@ There are five ways to stake:
 
 5. GHST-MATIC
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**Important : Le Staking sur le réseau principal a été interrompue ! S'il vous plaît, réclamez et re-staker vos jetons sur Polygon.**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Remarque : les jetons de GHST en prévente ne peuvent pas être staké tant qu'ils ne sont pas débloqués.*
 
-### Staking GHST tokens directly
+### Staker vos jetons GHST directement
 
 * Step 1: Transfer your GHST tokens from Ethereum Mainnet to Polygon, a layer 2 solution using the [Bridge to Polygon Interface](https://aavegotchi.com/bridge).
 
@@ -147,12 +147,12 @@ Do note that the Pixelcraft team may update the FRENS amount from time to time t
 
 table_stakingReturns
 
-## Staking Contract Addresses
+## Les adresses du contrat de staking
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
-## What's next?
+## Et ensuite ?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
