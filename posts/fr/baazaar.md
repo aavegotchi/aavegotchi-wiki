@@ -72,7 +72,7 @@ There are a variety of products listed on the Baazaar:
 * Gotchiverse REALM
 * Objets portables
 * Consumables
-* Raffle Tickets
+* Tickets de loterie
 
 The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 
