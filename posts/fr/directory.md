@@ -19,7 +19,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [Mécanique du vieillissement](/aging-mechanic)
 
 * [Baadge](/baadge)
 
@@ -63,7 +63,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Introduction](/introduction)
 
-* [Kinship](/kinship)
+* [Parenté](/kinship)
 
 * [Maall](/maall)
 
@@ -95,13 +95,13 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [Les saisons d'agriculture de rareté (Rarity Farming)](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [Feuille de route](/roadmap)
 
 * [Sets](/sets)
 
-* [Social Media](/socialmedia)
+* [Réseaux sociaux](/socialmedia)
 
 * [Spirit Force](/spirit-force)
 
@@ -111,9 +111,9 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [L'équipe](/team)
 
-* [The Nine Aadepts](/the-nine-aadepts)
+* [Les neuf adeptes](/the-nine-aadepts)
 
-* [Tickets](/tickets)
+* [Les tickets](/tickets)
 
 * [Tokenomics](/tokenomics)
 
@@ -123,6 +123,6 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [uGOTCHI Collection](/ugotchi)
 
-* [Wearables](/wearables)
+* [Objets portables](/wearables)
 
 * [XP](/xp)

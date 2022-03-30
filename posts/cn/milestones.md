@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Gotchi Lending is now live!](https://blog.aavegotchi.com/aavegotchi-brings-scalability-to-nft-gaming-gotchi-lending-now-live/)
+* Gotchi Lending is now live!
+* Borrow or lend out your Gotchis in a trustless manner over the blockchain
+<p></p>
+
 ## [AGIPs 24 - 28 are open for voting!](https://blog.aavegotchi.com/vote-agip-24-25-26-27-28-treasury-staking-on-aave-realm-auction-raffle-delay-parcel-vrf-variance-reduction-alternative-trait-mapping-dao-treasury-task-force-multisig-extension/)
 * 5 new coreprops for #gotchigang to vote on
 * Read and vote now!

@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'Tout sur la DAO d''Aavegotchi'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
@@ -12,138 +12,138 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">La crête AavegotchiDAO</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+Une [DAO](glossary#dao) est une forme décentralisée de gouvernance, qui permet aux détenteurs de jetons de voter afin de choisir la façon dont l'organisation prend des décisions.
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Aavegotchi suit les traces de protocoles DeFi réussis tels que Compound et Synthetix en suivant un processus de « décentralisation progressive », en commençant par l'équipe fondatrice, Pixelcraft Studios organisant un événement de distribution de jetons (DAICO) dirigé par la DAO et culminant en plaçant la gouvernance d'Aavegotchi, y compris tous les mécanismes de jeu, les contrats intelligents, et le financement, sous les auspices de l'AavegotchiDAO, mais toujours soumis à l'environnement réglementaire dominant. Cela se fera en trois phases.
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#cocoon>Cocoon</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
+<li><a href=#genesis>Genèse</a></li>
+<li><a href=#cocoon>Cocon</a></li>
+<li><a href=#metamorphosis>Métamorphose</a></li>
 <li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#type-of-proposals>Type of Proposals</a></li>
-<li><a href=#vote-differentials>Vote Differentials</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#participating-in-governance>Participer à la gouvernance</a></li>
+<li><a href=#aavegotchidao-forum>Forum AavegotchiDAO</a></li>
+<li><a href=#type-of-proposals>Type de propositions</a></li>
+<li><a href=#vote-differentials>Différences de vote</a></li>
+<li><a href=#creating-signal-proposals>Création de propositions Signal</a></li>
+<li><a href=#voting>Vote</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Proposition d'Amélioration d'Aavegotchi (AGIPs)</a></li>
+<li><a href=#treasury>Trésorerie</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## Genèse
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*Voir* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+La première itération du AavegotchiDAO a été lancée en tandem avec la distribution GHST sur la courbe de liaison. Les détenteurs de GHST ont eu le pouvoir de voter pour augmenter / maintenir les fonds distribués par le mécanisme de la [courbe de liaison de jetons (TBC)](/curve) réservé à Pixelcraft Studios (l'équipe derrière Aavegotchi) pour soutenir le développement. La première proposition AavegotchiDAO d'augmenter le "tapage" d'Aavegotchi DAICO à partir de 50, 00 DAI à 100 000 DAI par mois est passés avec une approbation de 99 % le 18 octobre 2020. Lorsque le moment sera venu de migrer vers AavegotchiDAO Metamorphose, les détenteurs de jetons voteront également pour effectuer la migration.
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Les détenteurs de jetons ne recevront pas de récompenses en GHST pour leur participation active à cette itération d'AavegotchiDAO.
 
-Features for Genesis include:
+Les caractéristiques de la Genèse comprennent :
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* Aucun appel de smart contract
+* Aucune amélioration du contrat
+* Gouvernance basée sur les jetons GHST
+* Plateforme: Aragon
+* Récompenses : Aucune
+* Couche : Réseau principal Ethereum
 
-## Cocoon
+## Cocon
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+V1.5 d'AavegotchiDAO. Le point intermédiaire entre [Genèse](/dao#genesis) et [Métamorphose](/dao#metamorphosis). La priorité l'étape Cocoon est d'influencer la mécanique du jeu.
 
-Its features include:
+Ses caractéristiques principales sont les suivantes :
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Appels de contrat éffectué par Pixelcraft
+* Aucune amélioration du contrat
+* Gouvernance basée sur les jetons GHST
+* Plateforme : Snapshot/Discours
+* Récompenses : [XP](/traits#experience) pour les votes de base (Core)
+* Couche : Polygon
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+Il y a deux types de votes à l'étape Cocoon: (1) Proposition de signal, et (2) Proposition fondamentale (Core).
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+Une proposition Signal peut être postée par n'importe qui dans l'onglet Communauté sur [Snapshot](https://snapshot.page/#/aavegotchi.eth). Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Avant de présenter une proposition Signal, il est obligatoire d'en discuter avec la communauté sur Discord et/ou [Discours/AavegotchiDAO Forum](https://dao.aavegotchi.com/). Le raisonnement est de continuer à s'organiser et de découvrir s'il y a un soutien digne à faire avancer la proposition de signal. Veuillez suivre le modèle trouvé dans la section [Créer des propositions de Signal](/dao#creating-signal-proposals).
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+La proposition Signal sera mise à niveau vers une proposition de base dès que la première aura atteint un quorum atteignant 20 % de la circulation de GHST pouvant voter sur Polygon au moment de la création de la proposition.
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+Une proposition de base est une proposition que Pixelcraft soumet, avec des options basées sur des propositions Signal qui ont atteint ou presque atteint le quorum. Ces votes sont liés et sont admissibles aux récompenses XP pour les participants.
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+Si votre proposition Signal est mise à jour avec succès vers une proposition de fondamentale, 150 [XP](/traits#experience)* sera donné aux Aavegotchi que vous avez notés dans votre proposition Signal.
 
-*May increase or decrease throughout COCOON period
+*Peut augmenter ou diminuer tout au long de la période COCOON
 
-## Metamorphosis
+## Métamorphose
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+La métamorphose est la deuxième itération d'AavegotchiDAO, et est chargée de gérer les mécanismes de jeu simples d'Aavegotchi, comme la fourniture totale d'Aavegotchis, l'ajout de nouvelles garanties, la décision de leurs fonctions, et l'ajout de nouveaux équipements créées par la communauté. Lorsque le moment sera venu de migrer vers AavegotchiDAO Metamorphose, les détenteurs de jetons voteront également pour effectuer la migration.
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+Une liste complète des actions disponibles à effectuer par l'AavegotchiDAO dans cette phase est disponible dans la section [Gouvernance](https://docs.aavegotchi.com/overview/governance) de la documentation sur le contrat intelligent d'Aavegotchi.
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+Les détenteurs de jetons ne recevront pas de récompenses en GHST pour leur participation active à cette itération d'AavegotchiDAO.
 
-Its features include:
+Ses caractéristiques principales sont les suivantes :
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Peut exécuter des appels intelligents de contrat
+* Peut améliorer certains mécanismes
+* Aavegotchi + GHST gouvernance
+* Plateforme : front-end dapp personnalisé
+* Récompenses : [XP](/traits#experience) + des badges pour les votants
+* Couche : Polygon
 
 ## Oasis
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+Bien que AavegotchiDAO Oasis soit l’itération finale de l’évolution d’AavegotchiDAO, ce n’est que le début de la réalisation d’un jeu gouverné par le DAO. Toutes les décisions relatives à la mécanique du jeu Aavegotchi, la mécanique du REALM, les dépenses écosystémiques, et même les mises à jour du contrat intelligentes seront votées par l'AavegotchiDAO.
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+Les détenteurs de jetons ne recevront pas de récompenses en GHST pour leur participation active à cette itération d'AavegotchiDAO.
 
-Its features include:
+Ses caractéristiques principales sont les suivantes :
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Peut exécuter des appels intelligents de contrat
+* Peut améliorer certains mécanismes
+* Aavegotchi + GHST gouvernance
+* Plateforme: Aavegotchi Realm
+* Récompenses : [XP](/traits#experience) + des badges pour les votants
+* Couche : Polygon
 
-## Participating in Governance
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+## Participer à la gouvernance
+Je suis excité ! Alors, comment puis-je participer à l'AavegotchiDAO? Nous sommes là pour vous guider !
 
-* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
+* Vous pouvez participer aux discussions sur le forum [AavegotchiDAO](https://dao.aavegotchi.com/) ou sur le canal #🌱dao-discussion sur Discord. Nous souhaitons la bienvenue à tout le monde!
 
-* Taking part in AavegotchiDAO votes (when they are available!)
+* Participer aux votes AavegotchiDAO (quand ils sont disponibles!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* Les [Docs Aavegotchi](https://docs.aavegotchi.com/overview/governance) détaillent la liste des fonctions DAO que les membres peuvent appeler/utiliser afin d'implémenter les changements qui ont été votés. Par exemple, disons que asUSD a été voté comme un [type de garantie](/posts/atokens). AavegotchiDAO pourrait implémenter le changement en utilisant la fonction `addCollateralTypes()` et en spécifiant asUSD dans la fonction.
 
-## AavegotchiDAO Forum
+## Forum AavegotchiDAO
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+Le Forum de Gouvernance AavegotchiDAO est alimenté par le Discours. Avoir ce forum aidera à centraliser la discussion sur des sujets importants liés aux mécanismes de jeu Aavegotchi, aux demandes de financement et à d'autres propositions.
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+Nous espérons que #GotchiGang pourra devenir un modèle pour les jeux DAO dans le futur, alors impliquez-vous et n'oubliez pas d'être aimable envers vos amis.
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+Vous pouvez trouver le Forum [ici](https://dao.aavegotchi.com/).
 
-## Type of Proposals
+## Type de propositions
 
-There are 2 types of proposals in the *Cocoon* stage:
+Il y a 2 types de propositions à l'étape *Cocoon*:
 
-* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Proposition Signal** - Une proposition qui peut être postée par n'importe qui. Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Partagez votre idée de proposition et discutez-la avec d'autres membres de la communauté sur le canal #🌱dao-discussion sur Discord ou sur le [Forum AavegotchiDAO](https://dao.aavegotchi.com/). Une fois que vous avez finalisé les détails de votre proposition, créer un fil de discussion officiel sur le forum AavegotchiDAO en utilisant le cadre décrit dans la section [Créer des propositions de signaux](/dao#creating-signal-proposals) ci-dessous. Après quoi, créez un vote pour cela sur [Snapshot](https://snapshot.page/#/aavegotchi.eth).
 
-* **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
+* **Proposition de base** – Si une proposition de signal atteint 20% ou plus de quorum (quantité de GHST circulante éligible au vote sur Polygon), Pixelcraft réintroduira la proposition en tant que proposition principale. Ces votes sont liés et sont éligibles aux récompenses [XP](/traits#experience) pour les participants.
 
 <img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
 
-**Core Proposals** are further subdivided into 3 types:
+**Les propositions de base** sont de plus subdivisées en 3 types :
 
-*Reminder: Quorum percentages are calculated from the amount of circulating GHST eligible to vote on Polygon, not the total supply!*
+*Rappel : Les pourcentages de quorum sont calculés à partir du montant de GHST circulante éligible au vote sur Polygon, pas la quantité totale!*
 
 * **Smol votes:** Quorum of 5%. These votes are intended for small decisions that do not affect the overall meta or value of existing Aavegotchis in any significant way (e.g. introduction of a cosmetic feature, proposal for a marketing strategy).
 
@@ -151,7 +151,7 @@ There are 2 types of proposals in the *Cocoon* stage:
 
 * **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
 
-## Vote Differentials
+## Différences de vote
 
 Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
 
@@ -175,7 +175,7 @@ For COCOON, we will begin with the following Vote Differential parameters, and c
 
 4 Options — 20% VD
 
-## Creating Signal Proposals
+## Création de propositions Signal
 
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
@@ -190,7 +190,7 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 
 More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
-## Voting
+## Vote
 
 There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
@@ -249,7 +249,7 @@ Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) 
 
 Vote on AGIPs and get [POAP badges](/poap) for it!
 
-## Treasury
+## Trésorerie
 
 AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
 

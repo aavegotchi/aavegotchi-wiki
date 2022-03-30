@@ -70,7 +70,7 @@ There are a variety of products listed on the Baazaar:
 * Portals — Closed
 * Portals — Open
 * Gotchiverse REALM
-* Wearables
+* Objets portables
 * Consumables
 * Raffle Tickets
 

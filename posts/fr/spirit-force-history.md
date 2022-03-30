@@ -1,30 +1,30 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23'
-title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
-description: 'History about Aavegotchi Spirit Force'
+title: 'L''histoire du terme "Force spirituelle" dans le projet Aavegotchi'
+description: 'L''histoire au sujet de la force spirituelle d''Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Spirit Force?
+La Force Spirituelle?
 
-Collateral?
+Le Collateral?
 
-aTokens?
+Les jetons aTokens?
 
-maTokens?
+Les jetons maTokens?
 
-amTokens?
+Les jetons amTokens?
 
-Why are there so many different terms?!?!?!?
+Pourquoi y a-t-il autant de termes différents ?!?!?!?!?
 
-Let's take a walk down memory lane:
+Promenons-nous dans le passé :
 
-1. The Aavegotchi game was initially designed to be on Ethereum Mainnet. During that period, Spirit Force refers to aTokens, the interest-bearing tokens from the [Aave Protocol](https://aave.com).
+1. Le jeu Aavegotchi a été initialement conçu pour être sur le réseau principal Ethereum. Pendant cette période, la Force spirituelle se réfère au jeton aTokens, les jetons donnat des intérêts à travers le [Protocole Aave](https://aave.com).
 
-2. Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions.
+2. En raison des frais de gaz élevés sur Ethereum Mainnet, le lancement du jeu Aavegotchi a été déplacé vers [Polygon](/glossary#polygon), une solution de couche 2. Les avantages du passage à Polygon comprennent des frais de transaction proches de zéro et des transactions quasi instantanées.
 
-3. The shift to Polygon meant that we need aTokens on Polygon. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
+3. Le passage à Polygon signifie que nous avions besoin de jetons aTokens sur Polygon. Notre génie de codage interne et notre diamondboi, [Nick Mudge](/team#nick-mudge) a réussi à relier les jetons **aTokens d'Aave V2 ** du réseau principal Ethereum à Polygon. Ils sont connus sous le nom de jetons **maTokens**. Les Aavegotchis appartenant à Haunt 1 utilisent les jetons **maTokens** comme Force spirituelle.
 
-4. Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
+4. Par la suite, Aave se dirige vers Polygon. Les jetons de leurs marchés Aave (Polygon) sont connus sous le nom de **amTokens.** À partir de la Haunt 2, la Force spirituelle pour les Aavegotchis utilisera **amTokens** à la place.

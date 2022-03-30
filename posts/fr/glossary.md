@@ -43,7 +43,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#ugotchi-token>uGOTCHI Token</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#wearables>Objets portables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -172,7 +172,7 @@ On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenI
 
 For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
 
-### Wearables
+### Objets portables
 Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
@@ -217,7 +217,7 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Un DAICO est un modèle par lequel les investisseurs ont le contrôle des fonds collectés une fois la collecte de fonds terminée. Les investisseurs pourraient influencer la façon dont les développeurs ont accès aux fonds et à quelle fréquence grâce à un mécanisme de "tapage". En outre, les investisseurs peuvent également voter pour supprimer le projet et faire rembourser leurs fonds.
 
 ### DAO
 Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.

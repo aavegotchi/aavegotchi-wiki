@@ -31,7 +31,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
 <p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Rewards</a></li>
-<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
+<p><a href=#rarity-farming-seasons>Les saisons d'agriculture de rareté (Rarity Farming)</a></p>
 <p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
@@ -102,7 +102,7 @@ Initially, there were 3 categories of rarity farming rewards:
 
 * Aavegotchi Rarity Scores (by BRS, ARS coming later)
 * [Kinship](/traits#kinship) Scores
-* [Experience](/traits#experience)
+* [Expérience](/traits#experience)
 
 For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
 
@@ -118,7 +118,7 @@ The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is co
 
 There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
-### Rarity Farming Seasons
+### Les saisons d'agriculture de rareté (Rarity Farming)
 
 Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 

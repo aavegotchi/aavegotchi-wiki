@@ -2,12 +2,12 @@
 author: Coder Dan
 date: '2020-04-23'
 hero_image: /blocknative.jpg
-title: 'Error'
-description: 'Page not found!'
+title: 'Erreur'
+description: 'Page non trouvée!'
 tags:
-  - "Dapp"
+  - "DApp"
   - "UX"
   - "Blocknative"
 ---
 
-Page not found, fren!
+Page non trouvée, fren !

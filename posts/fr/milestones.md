@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Gotchi Lending is now live!](https://blog.aavegotchi.com/aavegotchi-brings-scalability-to-nft-gaming-gotchi-lending-now-live/)
+* Gotchi Lending is now live!
+* Borrow or lend out your Gotchis in a trustless manner over the blockchain
+<p></p>
+
 ## [AGIPs 24 - 28 are open for voting!](https://blog.aavegotchi.com/vote-agip-24-25-26-27-28-treasury-staking-on-aave-realm-auction-raffle-delay-parcel-vrf-variance-reduction-alternative-trait-mapping-dao-treasury-task-force-multisig-extension/)
 * 5 new coreprops for #gotchigang to vote on
 * Read and vote now!
@@ -189,7 +194,7 @@ contributors:
 
 ## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
 * Gotchigang, boy do we have tons of exciting events for you!
-* Haunt 2 Raffle: 5 - 8 September 2021
+* Loterie Haunt 2 : du 5 au 8 septembre 2021
 * AavegotchiDAO Frens Committee: 16 September 2021
 * FRENS Wearables Raffle #5: 24 - 28 September 2021
 * Baazaar NFT offers feature: Early October
@@ -330,7 +335,7 @@ contributors:
 <p></p>
 
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Fren, we got you covered!
+* Missed the 1st Community Call? Nous sommes là pour vous guider !
 * The Aavegotchi team expands!
 * More collaborations announced!
 * More discussions on AavegotchiDAO
