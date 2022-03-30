@@ -397,11 +397,11 @@ That said, *Cocoon* is an experimental governance phase and it wouldn’t be out
 
 ### Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+La rareté d'Aavegotchi est basée sur une courbe en cloche, ce qui signifie que **des scores de traits extrêmement élevés et extrêmement bas** sont souhaitables. <a href="https://wiki. aavegotchi. com/traits">Les scores de traits</a> qui tombent au milieu de la plage 0-100 sont davantage communs.
 
 ### Combien ça coûte de jouer à Aavegotchi?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+Les portails devraient coûter 100 GHST pour la première fois. Les coûts des autres objets tels que les objets portables, les consommables et les parcelles seront annoncés dès leur sortie officielle. Mais après le lancement du jeu [le DAO](/dao) aura le pouvoir d'ajuster **les prix des actifs via le vote de gouvernance**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?
 Non, augmenter ou diminuer le collatéral/aToken mis dans les Aavegotchi n'affecte pas le niveau de parenté.
@@ -410,7 +410,7 @@ Non, augmenter ou diminuer le collatéral/aToken mis dans les Aavegotchi n'affec
 
 ### Qu'est-ce que le Gotchiverse?
 
-Le Gotchiverse est le jeu phare du protocole de jeu NFT d’Aavegotchi. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+Le Gotchiverse est le jeu phare du protocole de jeu NFT d’Aavegotchi. Nous aimons le considérer comme « Clash of Clans » rencontre la « Stardew Valley » et « Eve Online », un monde ouvert alliant des éléments d’agriculture, de socialisation, de batailles et d'exploration du monde. Le tout alimenté par la Blockchain et gouvernés par les joueurs.
 
 ### Qu'est-ce que le Gotchus Alchemica?
 
