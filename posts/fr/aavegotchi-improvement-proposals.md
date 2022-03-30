@@ -26,7 +26,7 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Ajouter des frais sur le Baazaar pour soutenir la Rarity Farming</a></li>
 <li><a href=#earn-xp-for-successful-signal-proposals>Gagner de l'XP pour les propositions retenues</a></li>
 <li><a href=#voting-power-based-on-brs>Pouvoir de vote basé sur BRS</a></li>
-<li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Pouvoir de vote basé sur le prix du magasin d'accessoires</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
 <li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS Committee</a></li>
 <li><a href=#launch-haunt-2>Launch Haunt 2</a></li>
@@ -243,7 +243,7 @@ table_agip8
 
 <hr />
 
-### Voting power based on Wearables' Maall Price
+### Pouvoir de vote basé sur le prix du magasin d'accessoires
 **Aavegotchi Improvement Proposal #9**
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
