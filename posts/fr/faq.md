@@ -458,7 +458,7 @@ Aambassador groups are meant to introduce new people to Aavegotchi while Guilds 
 
 ### Comment soumettre ma Guilde à la page wiki des Guildes ?
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DM BowtiedNerd#6509 sur Discord avec toutes les informations requises qui se trouvent sur la page [wiki de Guilde](/guild).
 
 ## FAQ des ponts
 
@@ -472,59 +472,59 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 ### Est-ce que mon Gotchi peut utiliser le pont avec des objets portables équipés?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**OUI**, vous pouvez équiper autant d'objets portables que vous le voulez avant de l'envoyer sur le pont, MAIS notez que votre Aavegotchi ne pourra pas faire de changement de garde-robe pendant que vous êtes sur Ethereum.
 
 ### Mon Gotchi peut-il équiper ou retirer des objets portables sur Ethereum ?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**NON**, votre Gotchi est comme "gelé" à l'instant où il est envoyé sur le pont. Cependant, vous pouvez le ramener sur Polygon à tout moment (des frais de passerelle normaux s'appliquent).
 
 ### Puis-je toujours utiliser mon Aavegotchi pour jouer dans le jeu Gotchiverse à venir alors qu'il est sur Ethereum ?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**NON**, puisque le Gotchiverse fonctionne sur Polygon, tout les Gotchis sur le réseau principal Ethereum ne pourront pas participer au Gotchiverse. Ramenez les par le pont quand vous voulez jouer !
 
 ### Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**OUI** mais **PAS ENCORE**. Pour les portails c'est un oui immédiat car ils sont également des jetons ERC-721. Les objets portables et les consommables sont des objets ERC-1155 et auront leur propre pont ouvert dans les semaines à venir.
 
 ### Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Visitez simplement [aavegotchi.com/bridge](https://aavegotchi.com/bridge). Vous pouvez le faire revenir quand vous le souhaitez.
 
 ### Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**NON**, vous ne pouvez trader que sur des places de marché Ethereum comme Rarible pendant que l'Aavegotchi est ponté.
 
 ### Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**OUI**, vous pouvez échanger vos Gotchis sur n'importe quel marché NFT basé sur Ethereum, mais vous ne gagnerez des RARI que lorsque vous échangerez sur Rarible !
 
 ## FAQ Technique
 
 ### Les Aavegotchi sont-ils sur la chaîne ?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Tous les éléments du jeu Aavegotchi sont [stockés sur la blockchain Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Vous pouvez en savoir plus sur notre design unique en utilisant la norme Diamant [ici](/glossary#diamond-standard).
 
 ### Quel portefeuille dois-je utiliser avec Aavegotchi ?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> a été de loin la meilleure option à utiliser avec Aavegotchi selon l'expérience de notre communauté. Metamask et [portefeuille Arkane](https://arkane.network/apps), qui vont bientôt s'intégrer avec Aavegotchi, supportent également les jetons ERC1155, ce qui signifie que vous serez en mesure de voir tous vos actifs (comme les objets portables) dans votre portefeuille en plus de vos jetons GHST.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Pour les appareils Android, utiliser l'application Metamask avec le navigateur intégré est une bonne option.
 
 ### Aavegotchi va-t-il fonctionner sur la couche 2 ?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Oui ! Aavegotchi utilise [Polygon](https://matic.network/) comme solution de couche 2. L'équipe a considéré Polygon comme une équipe forte, qui a fait des progrès sur la décentralisation, et ce qui semble être réseau fort et en lien avec d'autres plates-formes NFT comme OpenSea.
 
 ### Dois-je migrer mes jetons Aave ?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi fonctionnera avec les aTokens de [Aave version 2.](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a). Assurez-vous de migrer tous les jetons que vous avez sur la version 1 avant d'essayer de réclamer votre Aavegotchi. Selon Stani, nous [devrions avoir un outil de migration bientôt](https://twitter.com/StaniKulechov/status/1334546997827809285) (avant le lancement) :)
 
 ### Comment puis-je migrer vers Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+Consultez notre [Guide de migration Polygon](/polygon).
 
 ### J'ai une clée ledger / trezor, que faire ?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+Vous pouvez toujours accéder à Polygon en utilisant le Trezor One. Pour tous les autres, ce n'est pas possible pour l'instant. Vous pouvez créer un nouveau portefeuille Metamask et DM @Jesse | gldnXross#6482 pour obtenir de l'aide.
 
 ### Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Assurez-vous que vous avez effectué deux opérations : (1) approuver la transaction, et (2) la transaction pour la migration du réseau principal vers Polygon. L'adresse du jeton de GHST sur Polygon est la suivante: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?
 
