@@ -95,15 +95,15 @@ Cliquez [ici](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d
 
 ## Valorisation
 
-Le 18 mai 2021, Pixelcraft annonce que les experts ont terminé d'apprécier les astronautes de la collection uGOTCHI. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+Le 18 mai 2021, Pixelcraft annonce que les experts ont terminé d'apprécier les astronautes de la collection uGOTCHI. En prenant le prix de l’ETH à 3 550,00 $, les experts ont désigné une valeur de 258,04 ETH ou de 916 042,00 USD pour la collection. Les évaluations des membres individuels de la collection sont représentées dans le tableau ci-dessous.
 
 table_valuation
 
-The following points of consideration were made to the Appraisers:
+Les points suivants ont été pris en considération par les experts:
 
-1. Each Aavegotchi is an ERC-721. Each wearable that is equipped is also a collectible ERC-1155.
+1. Chaque Aavegotchi est un ERC-721. Chaque équipement est également un collectible ERC-1155.
 
-2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (currently going for 1.34 each). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. Tous ces NFTs négocient sur le [Baazaar](/baazaar) et sont vendus en GHST (actuellement pour 1,34 chacun). Il est fortement recommandé d'utiliser les filtres et d'explorer les prix. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
 
 3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
 
