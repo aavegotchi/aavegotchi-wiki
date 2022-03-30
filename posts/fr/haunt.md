@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23'
-title: 'Haunts'
+title: 'Haunt'
 description: 'Haunt'
 contributors:
   - "unintelligent-nerd"
