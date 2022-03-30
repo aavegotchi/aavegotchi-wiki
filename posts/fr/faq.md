@@ -72,7 +72,7 @@ contributors:
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Pourquoi l'horodatage est-il incorrect dans le vote instantané ?</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->Pourquoi 20 % de Quorum pour les propositions Signal ?</a></p>
 <p><a href=#why-two-votes->Pourquoi deux votes ?</a></p>
-<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
+<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->J’ai dépensé tout mon budget de GHST dans les portails et les objets portables — Quel est mon poids dans les votes ?</a></p>
 <p><a href=#what-about-funding-proposals->Qu'en est-il des propositions de financement ?</a></p>
 <li><a href=#gameplay-faq>FAQ sur le jeu</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?</a></p>
@@ -344,9 +344,9 @@ Pour les objets portables achetés dans le Maall, cela signifie qu'une fois vend
 ### J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire
 Chaque Aavegotchi a son propre inventaire, connu sous le nom de [Poche Gotchi](/aavegotchi-profile#gotchi-pocket). Quand vous retirer un objet portable de votre Aavegotchi, l'objet portable retiré va dans cette poche Aavegotchi.
 
-Vous (le propriétaire) avez également votre propre inventaire. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+Vous (le propriétaire) avez également votre propre inventaire. Vous faites très probablement référence au fait que vous n'êtes pas en mesure de trouver l'objet portable retiré dans votre inventaire.
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+À chaque [page de profil d'Aavegotchi](/aavegotchi-profile), il y a un bouton "Poche" en bas à droite de l'écran. Cliquez dessus puis transférez le vêtement retiré de la poche de votre Gotchi vers votre inventaire personnel.
 
 ### Pourquoi y a-t-il des IDs manquants sur la page des objets portables ?
 Ce sont des objets (IDs 162-198, 210) qui ne sont pas des objets portables. Ils représentent [les Baadges](/baadge) et l'arrière-plan Haunt 1.
@@ -354,36 +354,36 @@ Ce sont des objets (IDs 162-198, 210) qui ne sont pas des objets portables. Ils 
 ## FAQ des portails
 
 ### Combien de portails puis-je acheter en 1 transaction?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+Chaque utilisateur peut acheter jusqu'à 50 portails en 1 transaction. Cela avait pour but d'empêcher les baleines de monopoliser un grand nombre de portails il y a un an.
 
 ### Si j'ouvre un portail mais que je n'ai pas l'aToken nécessaire pour invoquer le gotchi, puis-je revenir plus tard pour l'invoquer ?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+Oui, vous pouvez laisser le portail ouvert, aller acquérir l'aToken spécifique, et revenir plus tard pour invoquer votre gotchi. Vous n'avez pas besoin de préparer les aTokens au préalable.
 
 ### Quand les portails seront-ils disponibles ?
-Portals will be released on Polygon at February.
+Les portails seront disponibles sur Polygon en février.
 
 ## FAQ AavegotchiDAO
 
 ### Comment voter en utilisant Trust Wallet sur Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+À ce stade, Aragon n'a pas encore intégré le portefeuille Trust Wallet. Une solution alternative est d'importer vos clés privées depuis votre portefeuille Trust Wallet dans Metamask. Une fois dans Metamask, vous pouvez maintenant voter sur Aragon.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Voir [ici](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) pour plus d'informations sur la façon de le faire.
 
 ### Pourquoi l'horodatage est-il incorrect dans le vote instantané ?
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+Ceci est dû au fait que l'horodatage de votre appareil/ordinateur est différent de l'horodatage sur Snapshot. Réglez l'heure de votre ordinateur sur automatique, et il s'adaptera en conséquence à l'horodatage de la "capture instantanée".
 
 ### Pourquoi 20 % de Quorum pour les propositions Signal ?
-A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
+Un quorum de 20 % garantit que les propositions Signal présentant un intérêt important pour la communauté sont garanties par un vote de base. Tandis que les idées et les suggestions de niche ont également une plate-forme pour tester leur popularité.
 
 ### Pourquoi deux votes ?
-There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
+Il y a deux raisons majeures pour qu'une proposition Signal atteignant 20 % de quorum (et le soutien de la majorité) a encore besoin d'un second vote en tant que proposition fondamentale. Premièrement, la communauté dans son ensemble ne regarde pas, ou ne devrait pas regarder, les votes contraignants chaque jour. Les propositions fondamentales (Core Prop) sont des événements plus rares qui sont diffusés sur tous les réseaux sociaux et qui notifient tous les membres de la communauté.
 
-Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
+Deuxièmement, il est tout à fait possible, voire probable, que certaines propositions Signal atteindront le quorum tout en ne respectant pas adéquatement le modèle prescrit pour une proposition de signal (voir [ici](/dao#creating-signal-proposals)). Il peut être nécessaire d'adapter la proposition pour satisfaire tous les aspects du modèle.
 
-**If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**Si une proposition Signal n'atteint pas le quorum de 20%, cela ne remet pas en cause les mérites de la proposition, cela signifie simplement que la proposition n'est pas automatiquement mise à niveau vers un vote contraignant au niveau communautaire.** Toute proposition de signal bien écrite avec de bonnes idées devrait toujours être considérée comme une contribution saine à la DAO, et pourrait très bien influencer Pixelcraft et les futures propositions de la communauté. Pixelcraft peut parfois choisir des propositions Signal qui n'ont pas atteint le quorum mais qui serviront de base aux propositions fondamentales.
 
-### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+### J’ai dépensé tout mon budget de GHST dans les portails et les objets portables — Quel est mon poids dans les votes ?
+Vous avez de la chance ! Le jeu Aavegotchi a toujours eu pour but d'allouer un pouvoir de vote basé sur la propriété Aavegotchi en plus de détenir simplement des GHST. Avec le passage de [l'AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), les objjets portables ont maintenant un pouvoir de vote dans AavegotchiDAO. Le pouvoir de vote (mesuré en GHST) d'un objet portable est basé sur son prix dans le Maall par rapport à sa rareté. Voir [ici](/wearables#voting-power) pour plus d'informations.
 
 ### Qu'en est-il des propositions de financement ?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
@@ -528,7 +528,7 @@ Make sure you have completed two transactions: (1) approve transaction, and (2) 
 
 ### Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Une fois que vous avez déposé vos jetons LP sur QuickSwap, vous ne pourrez plus les voir dans votre portefeuille. Retirer les si vous voulez les voir se refléter dans votre portefeuille.
 
 ### Puis-je envoyer des jetons du côté Polygon vers des échanges centralisés directement ?
 **Non !** Vous ne devriez pas envoyer de jetons de côté Polygon aux échanges centralisés (par exemple, Binance, Coinbase, etc) directement. Vous devez les transférer sur le réseau principal Ethereum avant de le faire.
