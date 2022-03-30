@@ -95,7 +95,7 @@ Cliquez [ici](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d
 
 ## Valorisation
 
-On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+Le 18 mai 2021, Pixelcraft annonce que les experts ont terminé d'apprécier les astronautes de la collection uGOTCHI. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
 
 table_valuation
 
