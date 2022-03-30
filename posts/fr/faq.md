@@ -404,57 +404,57 @@ Aavegotchi rarity is based on a bell curve - meaning **both extremely high and e
 Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+Non, augmenter ou diminuer le collatéral/aToken mis dans les Aavegotchi n'affecte pas le niveau de parenté.
 
 ## FAQ du Gotchiverse
 
 ### Qu'est-ce que le Gotchiverse?
 
-The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+Le Gotchiverse est le jeu phare du protocole de jeu NFT d’Aavegotchi. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
 
 ### Qu'est-ce que le Gotchus Alchemica?
 
-Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
+Les Gotchus Alchemica sont les quatre éléments de Gotchiverse–FUD, FOMO, ALPHA et KEK. Ce sont des jetons ERC20, au lancement équitable, qui sont utilisés pour fabriquer des NFT d'installation dans le Gotchiverse.
 
-Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
+Les joueurs peuvent gagner l'Alchemica de trois manières distinctes : l'agriculture à partir de leurs parcelle, la canalisation depuis le ciel, ou le ramassage à la surface. Le Gotchus Alchemica peut également être échangé contre des [GHST](/ghst) (notre jeton d'éco-gouvernance) en utilisant notre DEX natif, l'échange Gotchus Alchemica (GAX).
 
 ### Qu'est-ce qu'un autel alchimique ?
 
-The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
+L'Alchemical Aaltar est l'installation la plus importante que vous pouvez placer sur votre parcelle Gotchiverse REALM. Il est utilisé pour la canalisation alchimique avec Aavegotchi relié à votre parcelle. L'Alchemical Aaltar peut être amélioré, en utilisant du Gotchus Alchemica, pour faire avancer l'arbre technologique d'autres installations.
 
 ### Ai-je besoin d'un Aavegotchi pour jouer ?
 
-Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+Oui, vous avez besoin d'un Aavegotchi pour jouer dans le Gotchiverse. Si vous ne possédez pas d'Aavegotchi, vous pouvez accéder au Gotchiverse en empruntant un avec notre programme de prêt Gotchi.
 
 ## FAQ de l'Aambassadeur
 
 ### Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+Non, non. Ce programme Aambassador est conçu de manière à vous permettre de vous concentrer moins sur les tâches d'administration et plus sur la construction de votre **#GotchiGang.**
 
 ### De quelle quantité dois-je faire grandir mon #GotchiGang?
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Garder votre **#GotchiGang** plus petit et spécifique est vraiment meilleur. Vous pouvez créer un **#GotchiGang** pour votre village, votre ville, votre université… la créativité est à vous !
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Une fois que votre groupe atteint 100 membres légitimes, vous serez officiellement reconnu comme Aavegotchi Aambassador.
 
 ### Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+Nous vous informerons si le nom a déjà été pris après avoir rempli votre demande sur le formulaire de saisie.
 
 ### J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Absolument ! Tant que nous pouvons facilement suivre la croissance de votre réseau, vous êtes éligible à être un ambassadeur.
 
 ### J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?
 
-All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
+Toutes les questions sur le programme Aambassador peuvent être adressées à Webb#0001 dans Discord.
 
 ## FAQ de guilde
 
 ### Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+Les groupes Aambassador sont destinés à recruter de nouvelles personnes dans le projet Aavegotchi tandis que les guildes peremettent aux joueurs existants de se regrouper et de jouer ensemble dans le Gotchiverse.
 
 ### Comment soumettre ma Guilde à la page wiki des Guildes ?
 
@@ -464,11 +464,11 @@ DM BowtiedNerd#6509 sur Discord avec toutes les informations requises qui se tro
 
 ### Puis-je toujours utiliser mon Aavegotchi une fois qu'il a été relié à Ethereum?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**OUI**, les développeurs de Gotchi World et de Gotchi Care (services de compagnie pour Gotchi) ont gracieusement proposé de caresser automatiquement tous les Aavegotchis sur Ethereum, en vous assurant que vous avez toujours des liens personnels pendant que votre Gotchi est sur Ethereum! En vacances sur Ethereum, votre Aavegotchi continuera à augmenter son score de parenté de deux points par jour, mais il serait vraiment appréciable une visite ou deux de temps à autre de la part de son maître ! Il est isolé dans le spaace…
 
 ### Mon Aavegotchi peut-il toujours gagner des récompenses d'agriculture de rareté (Rarity Farming) tant qu'il est sur Ethereum?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**OUI**, votre Gotchi sera toujours éligible pour les récompenses de Rarity Farming dans les trois catégories pendant que votre gotchi est sur Ethereum. Toutes les récompenses vont directement dans sa poche.
 
 ### Est-ce que mon Gotchi peut utiliser le pont avec des objets portables équipés?
 
