@@ -335,7 +335,7 @@ contributors:
 <p></p>
 
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Fren, we got you covered!
+* Missed the 1st Community Call? Nous sommes là pour vous guider !
 * The Aavegotchi team expands!
 * More collaborations announced!
 * More discussions on AavegotchiDAO
