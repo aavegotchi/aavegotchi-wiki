@@ -9,9 +9,9 @@ contributors:
 
 Here is the list of pages in the Aavegotchi Wiki:
 
-* [Aarchitect](/aarchitect)
+* [Aarchitectes](/aarchitect)
 
-* [Aartist](/aartist)
+* [Aartists](/aartist)
 
 * [Aauction](/aauction)
 
@@ -47,7 +47,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [GHST Token](/ghst)
 
-* [Glossary](/glossary)
+* [Glossaire](/glossary)
 
 * [Gotchi Lending](/gotchi-lending)
 
@@ -103,7 +103,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Réseaux sociaux](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Force Spirituelle](/spirit-force)
 
 * [Spirit Force History](/spirit-force-history)
 
