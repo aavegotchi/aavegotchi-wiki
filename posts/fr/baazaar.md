@@ -9,24 +9,24 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">Le Baazaar</p>
 </div>
 
-"Psst.....you there"
+"Psst... Hey toi!"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Le Gotchi Marchand te fais un signe discret de son stand, avec une étincelle de son regard.
 
-"I have something aamazing for you."
+"J'ai quelque chose de géniale pour toi."
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Le Gotchi marchand sort un objet recouvert d'un tissu. Doucement, il enlève le tissu. L'objet attrape les rayons du soleil et brille sous le soleil brillant de l'après-midi.
 
-".....A Mudgen Diamond" you whisper to yourself.
+"...Un diamant Mudgen" vous murmurez à vous-même.
 
-The marvellous shine catches the attention of countless bystanders.
+L'éclatante brillance attire l'attention de nombreux spectateurs.
 
-Another Gotchi shoves in. "I'll have it!"
+Un autre Gotchi se précipite. " Je vais l'avoir !"
 
-"NO! I'LL HAVE IT!"
+"NON !" "JE VAIS L'AVOIR !"
 
 This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
 
