@@ -19,13 +19,13 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 
 <ol>
 <li><a href=#tap-increase-for-scaling-sprint>Tap increase for Scaling Sprint</a></li>
-<li><a href=#add-fees-to-bonding-curve>Add fees to Bonding Curve</a></li>
+<li><a href=#add-fees-to-bonding-curve>Ajouter des frais à la Bonding Curve</a></li>
 <li><a href=#increase-daico-tap-for-ghst-purchases>Increase DAICO tap for GHST purchases</a></li>
-<li><a href=#proposal-for-haunt-2>Proposal for Haunt 2</a></li>
+<li><a href=#proposal-for-haunt-2>Proposition pour la Haunt 2</a></li>
 <li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Give unique non-transferable Background to Haunt 1 Aavegotchis</a></li>
-<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Add Fee on Baazaar to Support Rarity Farming</a></li>
-<li><a href=#earn-xp-for-successful-signal-proposals>Earn XP for Successful Signal Proposals</a></li>
-<li><a href=#voting-power-based-on-brs>Voting power based on BRS</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Ajouter des frais sur le Baazaar pour soutenir la Rarity Farming</a></li>
+<li><a href=#earn-xp-for-successful-signal-proposals>Gagner de l'XP pour les propositions retenues</a></li>
+<li><a href=#voting-power-based-on-brs>Pouvoir de vote basé sur BRS</a></li>
 <li><a href=#voting-power-based-on-wearables--maall-price>Voting power based on Wearables' Maall Price</a></li>
 <li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnership between AavegotchiDAO, Pixelcraft, and DinoSwap</a></li>
 <li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS Committee</a></li>
@@ -76,7 +76,7 @@ table_agip1
 
 <hr />
 
-### Add fees to Bonding Curve
+### Ajouter des frais à la Bonding Curve
 **Aavegotchi Improvement Proposal #2**
 
 **Proposal Summary:** The bonding curve is the main source of liquidity of GHST. Large buyers and sellers can currently buy in and out without any fees.
@@ -120,7 +120,7 @@ table_agip3
 
 <hr />
 
-### Proposal for Haunt 2
+### Proposition pour la Haunt 2
 **Aavegotchi Improvement Proposal #4**
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. Therefore it may be necessary to deploy a new Haunt to ensure that all who want to participate can own an Aavegotchi. This Core Proposal provides four different options that have been suggested by community members, including one option not to create a new Haunt.
@@ -170,7 +170,7 @@ table_agip5
 
 <hr />
 
-### Add Fee on Baazaar to Support Rarity Farming
+### Ajouter des frais sur le Baazaar pour soutenir la Rarity Farming
 **Aavegotchi Improvement Proposal #6**
 
 **Proposal Summary:** With the announcement of SZN1 Rewards now official, we explore how to align the community's interests and rewards structures, as it pertains to Baazaar fees.
@@ -193,7 +193,7 @@ table_agip6
 
 <hr />
 
-### Earn XP for Successful Signal Proposals
+### Gagner de l'XP pour les propositions retenues
 **Aavegotchi Improvement Proposal #7**
 
 **Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
@@ -222,7 +222,7 @@ table_agip7
 
 <hr />
 
-### Voting power based on BRS
+### Pouvoir de vote basé sur BRS
 **Aavegotchi Improvement Proposal #8**
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
