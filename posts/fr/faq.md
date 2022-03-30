@@ -344,7 +344,7 @@ Pour les objets portables achetés dans le Maall, cela signifie qu'une fois vend
 ### J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire
 Chaque Aavegotchi a son propre inventaire, connu sous le nom de [Poche Gotchi](/aavegotchi-profile#gotchi-pocket). Quand vous retirer un objet portable de votre Aavegotchi, l'objet portable retiré va dans cette poche Aavegotchi.
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+Vous (le propriétaire) avez également votre propre inventaire. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
 
 At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
 
