@@ -95,7 +95,7 @@ Your Gotchi Pocket contains:
 * GHST tokens won from [rarity farming](/rarity-farming)
 * [Baadges](/baadge)
 
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
+Les Baadges sont des NFT ERC-1155 non transférables qui commémorent la participation de votre Gotchi à un événement spécial. For example, in Rarity Farming Season 1, Baadges are awarded to the Top 10 and Top 100 Gotchis in each of the Rarity Farming categories. These Baadges will be delivered to a particular Aavegotchi’s pocket and then reside there **forever**. Keep your eyes out for more Baadges in the future! owo
 
 In contrast, equipped wearables and GHST tokens can be withdrawn from the Gotchi Pocket.
 

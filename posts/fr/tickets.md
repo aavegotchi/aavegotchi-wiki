@@ -39,7 +39,7 @@ The current supply of Tickets can be determined using the OpenSea Polygon interf
 
 There are two main categories of tickets:
 
-* Raffle Tickets
+* Tickets de loterie
 * Drop Ticket
 
 Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.

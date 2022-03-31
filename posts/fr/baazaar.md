@@ -2,49 +2,49 @@
 author: Unintelligent Nerd
 date: '2020-04-23'
 title: 'Baazaar'
-description: 'Aavegotchi Baazaar'
+description: 'Baazaar Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">Le Baazaar</p>
 </div>
 
-"Psst.....you there"
+"Psst... Hey toi!"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Le Gotchi Marchand te fais un signe discret de son stand, avec une étincelle de son regard.
 
-"I have something aamazing for you."
+"J'ai quelque chose de géniale pour toi."
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Le Gotchi marchand sort un objet recouvert d'un tissu. Doucement, il enlève le tissu. L'objet attrape les rayons du soleil et brille sous le soleil brillant de l'après-midi.
 
-".....A Mudgen Diamond" you whisper to yourself.
+"...Un diamant Mudgen" vous murmurez à vous-même.
 
-The marvellous shine catches the attention of countless bystanders.
+L'éclatante brillance attire l'attention de nombreux spectateurs.
 
-Another Gotchi shoves in. "I'll have it!"
+Un autre Gotchi se précipite. " Je vais l'avoir !"
 
-"NO! I'LL HAVE IT!"
+"NON !" "JE VAIS L'AVOIR !"
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+Cela, mon ami, est le Baazaar de Aavegotchi. Êtes-vous suffisamment avisé pour repérer et rafler une bonne affaire rapidement ? Pouvez-vous résister à la chaleur du marchandage vers la richesse ?
 
-Come and test your mettle! Buyers and sellers alike!
+Venez et testez votre force de caractère ! Acheteurs comme vendeurs !
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#features>Features</a></li>
+<li><a href=#aavegotchi-baazaar>Baazaar Aavegotchi</a></li>
+<li><a href=#features>Caractéristiques</a></li>
 <li><a href=#rarible>Rarible</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Baazaar Aavegotchi
 
 The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
@@ -63,7 +63,7 @@ Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aaveg
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-## Features
+## Caractéristiques
 There are a variety of products listed on the Baazaar:
 
 * Aavegotchis
@@ -72,7 +72,7 @@ There are a variety of products listed on the Baazaar:
 * Gotchiverse REALM
 * Objets portables
 * Consumables
-* Raffle Tickets
+* Tickets de loterie
 
 The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 

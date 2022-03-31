@@ -26,7 +26,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
+<p><a href=#gbm-auction>Enchères GBM</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
@@ -136,11 +136,11 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 
 Wallet & NFT products that seamlessly integrate with your blockchain project.
 
-### GBM Auction
+### Enchères GBM
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Auction">
-<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
+<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "Enchères GBM">
+<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">Enchères GBM</a></p>
 </div>
 
 GBM™ is a proprietary auction system where bidders make money when they are outbid.

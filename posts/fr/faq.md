@@ -72,7 +72,7 @@ contributors:
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Pourquoi l'horodatage est-il incorrect dans le vote instantané ?</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->Pourquoi 20 % de Quorum pour les propositions Signal ?</a></p>
 <p><a href=#why-two-votes->Pourquoi deux votes ?</a></p>
-<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
+<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->J’ai dépensé tout mon budget de GHST dans les portails et les objets portables — Quel est mon poids dans les votes ?</a></p>
 <p><a href=#what-about-funding-proposals->Qu'en est-il des propositions de financement ?</a></p>
 <li><a href=#gameplay-faq>FAQ sur le jeu</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?</a></p>
@@ -344,9 +344,9 @@ Pour les objets portables achetés dans le Maall, cela signifie qu'une fois vend
 ### J'ai retirer les objets portables de mon Aavegotchi et je ne les trouve pas dans mon inventaire
 Chaque Aavegotchi a son propre inventaire, connu sous le nom de [Poche Gotchi](/aavegotchi-profile#gotchi-pocket). Quand vous retirer un objet portable de votre Aavegotchi, l'objet portable retiré va dans cette poche Aavegotchi.
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+Vous (le propriétaire) avez également votre propre inventaire. Vous faites très probablement référence au fait que vous n'êtes pas en mesure de trouver l'objet portable retiré dans votre inventaire.
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+À chaque [page de profil d'Aavegotchi](/aavegotchi-profile), il y a un bouton "Poche" en bas à droite de l'écran. Cliquez dessus puis transférez le vêtement retiré de la poche de votre Gotchi vers votre inventaire personnel.
 
 ### Pourquoi y a-t-il des IDs manquants sur la page des objets portables ?
 Ce sont des objets (IDs 162-198, 210) qui ne sont pas des objets portables. Ils représentent [les Baadges](/baadge) et l'arrière-plan Haunt 1.
@@ -354,36 +354,36 @@ Ce sont des objets (IDs 162-198, 210) qui ne sont pas des objets portables. Ils 
 ## FAQ des portails
 
 ### Combien de portails puis-je acheter en 1 transaction?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+Chaque utilisateur peut acheter jusqu'à 50 portails en 1 transaction. Cela avait pour but d'empêcher les baleines de monopoliser un grand nombre de portails il y a un an.
 
 ### Si j'ouvre un portail mais que je n'ai pas l'aToken nécessaire pour invoquer le gotchi, puis-je revenir plus tard pour l'invoquer ?
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+Oui, vous pouvez laisser le portail ouvert, aller acquérir l'aToken spécifique, et revenir plus tard pour invoquer votre gotchi. Vous n'avez pas besoin de préparer les aTokens au préalable.
 
 ### Quand les portails seront-ils disponibles ?
-Portals will be released on Polygon at February.
+Les portails seront disponibles sur Polygon en février.
 
 ## FAQ AavegotchiDAO
 
 ### Comment voter en utilisant Trust Wallet sur Aragon?
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+À ce stade, Aragon n'a pas encore intégré le portefeuille Trust Wallet. Une solution alternative est d'importer vos clés privées depuis votre portefeuille Trust Wallet dans Metamask. Une fois dans Metamask, vous pouvez maintenant voter sur Aragon.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+Voir [ici](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) pour plus d'informations sur la façon de le faire.
 
 ### Pourquoi l'horodatage est-il incorrect dans le vote instantané ?
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+Ceci est dû au fait que l'horodatage de votre appareil/ordinateur est différent de l'horodatage sur Snapshot. Réglez l'heure de votre ordinateur sur automatique, et il s'adaptera en conséquence à l'horodatage de la "capture instantanée".
 
 ### Pourquoi 20 % de Quorum pour les propositions Signal ?
-A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
+Un quorum de 20 % garantit que les propositions Signal présentant un intérêt important pour la communauté sont garanties par un vote de base. Tandis que les idées et les suggestions de niche ont également une plate-forme pour tester leur popularité.
 
 ### Pourquoi deux votes ?
-There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
+Il y a deux raisons majeures pour qu'une proposition Signal atteignant 20 % de quorum (et le soutien de la majorité) a encore besoin d'un second vote en tant que proposition fondamentale. Premièrement, la communauté dans son ensemble ne regarde pas, ou ne devrait pas regarder, les votes contraignants chaque jour. Les propositions fondamentales (Core Prop) sont des événements plus rares qui sont diffusés sur tous les réseaux sociaux et qui notifient tous les membres de la communauté.
 
-Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
+Deuxièmement, il est tout à fait possible, voire probable, que certaines propositions Signal atteindront le quorum tout en ne respectant pas adéquatement le modèle prescrit pour une proposition de signal (voir [ici](/dao#creating-signal-proposals)). Il peut être nécessaire d'adapter la proposition pour satisfaire tous les aspects du modèle.
 
-**If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**Si une proposition Signal n'atteint pas le quorum de 20%, cela ne remet pas en cause les mérites de la proposition, cela signifie simplement que la proposition n'est pas automatiquement mise à niveau vers un vote contraignant au niveau communautaire.** Toute proposition de signal bien écrite avec de bonnes idées devrait toujours être considérée comme une contribution saine à la DAO, et pourrait très bien influencer Pixelcraft et les futures propositions de la communauté. Pixelcraft peut parfois choisir des propositions Signal qui n'ont pas atteint le quorum mais qui serviront de base aux propositions fondamentales.
 
-### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+### J’ai dépensé tout mon budget de GHST dans les portails et les objets portables — Quel est mon poids dans les votes ?
+Vous avez de la chance ! Le jeu Aavegotchi a toujours eu pour but d'allouer un pouvoir de vote basé sur la propriété Aavegotchi en plus de détenir simplement des GHST. Avec le passage de [l'AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), les objjets portables ont maintenant un pouvoir de vote dans AavegotchiDAO. Le pouvoir de vote (mesuré en GHST) d'un objet portable est basé sur son prix dans le Maall par rapport à sa rareté. Voir [ici](/wearables#voting-power) pour plus d'informations.
 
 ### Qu'en est-il des propositions de financement ?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
@@ -397,138 +397,138 @@ That said, *Cocoon* is an experimental governance phase and it wouldn’t be out
 
 ### Les scores de traits plus élevés sont-ils toujours synonymes de rareté ?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+La rareté d'Aavegotchi est basée sur une courbe en cloche, ce qui signifie que **des scores de traits extrêmement élevés et extrêmement bas** sont souhaitables. <a href="https://wiki. aavegotchi. com/traits">Les scores de traits</a> qui tombent au milieu de la plage 0-100 sont davantage communs.
 
 ### Combien ça coûte de jouer à Aavegotchi?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+Les portails devraient coûter 100 GHST pour la première fois. Les coûts des autres objets tels que les objets portables, les consommables et les parcelles seront annoncés dès leur sortie officielle. Mais après le lancement du jeu [le DAO](/dao) aura le pouvoir d'ajuster **les prix des actifs via le vote de gouvernance**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+Non, augmenter ou diminuer le collatéral/aToken mis dans les Aavegotchi n'affecte pas le niveau de parenté.
 
 ## FAQ du Gotchiverse
 
 ### Qu'est-ce que le Gotchiverse?
 
-The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+Le Gotchiverse est le jeu phare du protocole de jeu NFT d’Aavegotchi. Nous aimons le considérer comme « Clash of Clans » rencontre la « Stardew Valley » et « Eve Online », un monde ouvert alliant des éléments d’agriculture, de socialisation, de batailles et d'exploration du monde. Le tout alimenté par la Blockchain et gouvernés par les joueurs.
 
 ### Qu'est-ce que le Gotchus Alchemica?
 
-Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
+Les Gotchus Alchemica sont les quatre éléments de Gotchiverse–FUD, FOMO, ALPHA et KEK. Ce sont des jetons ERC20, au lancement équitable, qui sont utilisés pour fabriquer des NFT d'installation dans le Gotchiverse.
 
-Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
+Les joueurs peuvent gagner l'Alchemica de trois manières distinctes : l'agriculture à partir de leurs parcelle, la canalisation depuis le ciel, ou le ramassage à la surface. Le Gotchus Alchemica peut également être échangé contre des [GHST](/ghst) (notre jeton d'éco-gouvernance) en utilisant notre DEX natif, l'échange Gotchus Alchemica (GAX).
 
 ### Qu'est-ce qu'un autel alchimique ?
 
-The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
+L'Alchemical Aaltar est l'installation la plus importante que vous pouvez placer sur votre parcelle Gotchiverse REALM. Il est utilisé pour la canalisation alchimique avec Aavegotchi relié à votre parcelle. L'Alchemical Aaltar peut être amélioré, en utilisant du Gotchus Alchemica, pour faire avancer l'arbre technologique d'autres installations.
 
 ### Ai-je besoin d'un Aavegotchi pour jouer ?
 
-Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+Oui, vous avez besoin d'un Aavegotchi pour jouer dans le Gotchiverse. Si vous ne possédez pas d'Aavegotchi, vous pouvez accéder au Gotchiverse en empruntant un avec notre programme de prêt Gotchi.
 
 ## FAQ de l'Aambassadeur
 
 ### Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+Non, non. Ce programme Aambassador est conçu de manière à vous permettre de vous concentrer moins sur les tâches d'administration et plus sur la construction de votre **#GotchiGang.**
 
 ### De quelle quantité dois-je faire grandir mon #GotchiGang?
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Garder votre **#GotchiGang** plus petit et spécifique est vraiment meilleur. Vous pouvez créer un **#GotchiGang** pour votre village, votre ville, votre université… la créativité est à vous !
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Une fois que votre groupe atteint 100 membres légitimes, vous serez officiellement reconnu comme Aavegotchi Aambassador.
 
 ### Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+Nous vous informerons si le nom a déjà été pris après avoir rempli votre demande sur le formulaire de saisie.
 
 ### J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Absolument ! Tant que nous pouvons facilement suivre la croissance de votre réseau, vous êtes éligible à être un ambassadeur.
 
 ### J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?
 
-All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
+Toutes les questions sur le programme Aambassador peuvent être adressées à Webb#0001 dans Discord.
 
 ## FAQ de guilde
 
 ### Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+Les groupes Aambassador sont destinés à recruter de nouvelles personnes dans le projet Aavegotchi tandis que les guildes peremettent aux joueurs existants de se regrouper et de jouer ensemble dans le Gotchiverse.
 
 ### Comment soumettre ma Guilde à la page wiki des Guildes ?
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DM BowtiedNerd#6509 sur Discord avec toutes les informations requises qui se trouvent sur la page [wiki de Guilde](/guild).
 
 ## FAQ des ponts
 
 ### Puis-je toujours utiliser mon Aavegotchi une fois qu'il a été relié à Ethereum?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**OUI**, les développeurs de Gotchi World et de Gotchi Care (services de compagnie pour Gotchi) ont gracieusement proposé de caresser automatiquement tous les Aavegotchis sur Ethereum, en vous assurant que vous avez toujours des liens personnels pendant que votre Gotchi est sur Ethereum! En vacances sur Ethereum, votre Aavegotchi continuera à augmenter son score de parenté de deux points par jour, mais il serait vraiment appréciable une visite ou deux de temps à autre de la part de son maître ! Il est isolé dans le spaace…
 
 ### Mon Aavegotchi peut-il toujours gagner des récompenses d'agriculture de rareté (Rarity Farming) tant qu'il est sur Ethereum?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**OUI**, votre Gotchi sera toujours éligible pour les récompenses de Rarity Farming dans les trois catégories pendant que votre gotchi est sur Ethereum. Toutes les récompenses vont directement dans sa poche.
 
 ### Est-ce que mon Gotchi peut utiliser le pont avec des objets portables équipés?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**OUI**, vous pouvez équiper autant d'objets portables que vous le voulez avant de l'envoyer sur le pont, MAIS notez que votre Aavegotchi ne pourra pas faire de changement de garde-robe pendant que vous êtes sur Ethereum.
 
 ### Mon Gotchi peut-il équiper ou retirer des objets portables sur Ethereum ?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**NON**, votre Gotchi est comme "gelé" à l'instant où il est envoyé sur le pont. Cependant, vous pouvez le ramener sur Polygon à tout moment (des frais de passerelle normaux s'appliquent).
 
 ### Puis-je toujours utiliser mon Aavegotchi pour jouer dans le jeu Gotchiverse à venir alors qu'il est sur Ethereum ?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**NON**, puisque le Gotchiverse fonctionne sur Polygon, tout les Gotchis sur le réseau principal Ethereum ne pourront pas participer au Gotchiverse. Ramenez les par le pont quand vous voulez jouer !
 
 ### Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**OUI** mais **PAS ENCORE**. Pour les portails c'est un oui immédiat car ils sont également des jetons ERC-721. Les objets portables et les consommables sont des objets ERC-1155 et auront leur propre pont ouvert dans les semaines à venir.
 
 ### Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Visitez simplement [aavegotchi.com/bridge](https://aavegotchi.com/bridge). Vous pouvez le faire revenir quand vous le souhaitez.
 
 ### Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**NON**, vous ne pouvez trader que sur des places de marché Ethereum comme Rarible pendant que l'Aavegotchi est ponté.
 
 ### Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**OUI**, vous pouvez échanger vos Gotchis sur n'importe quel marché NFT basé sur Ethereum, mais vous ne gagnerez des RARI que lorsque vous échangerez sur Rarible !
 
 ## FAQ Technique
 
 ### Les Aavegotchi sont-ils sur la chaîne ?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Tous les éléments du jeu Aavegotchi sont [stockés sur la blockchain Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Vous pouvez en savoir plus sur notre design unique en utilisant la norme Diamant [ici](/glossary#diamond-standard).
 
 ### Quel portefeuille dois-je utiliser avec Aavegotchi ?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> a été de loin la meilleure option à utiliser avec Aavegotchi selon l'expérience de notre communauté. Metamask et [portefeuille Arkane](https://arkane.network/apps), qui vont bientôt s'intégrer avec Aavegotchi, supportent également les jetons ERC1155, ce qui signifie que vous serez en mesure de voir tous vos actifs (comme les objets portables) dans votre portefeuille en plus de vos jetons GHST.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Pour les appareils Android, utiliser l'application Metamask avec le navigateur intégré est une bonne option.
 
 ### Aavegotchi va-t-il fonctionner sur la couche 2 ?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Oui ! Aavegotchi utilise [Polygon](https://matic.network/) comme solution de couche 2. L'équipe a considéré Polygon comme une équipe forte, qui a fait des progrès sur la décentralisation, et ce qui semble être réseau fort et en lien avec d'autres plates-formes NFT comme OpenSea.
 
 ### Dois-je migrer mes jetons Aave ?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi fonctionnera avec les aTokens de [Aave version 2.](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a). Assurez-vous de migrer tous les jetons que vous avez sur la version 1 avant d'essayer de réclamer votre Aavegotchi. Selon Stani, nous [devrions avoir un outil de migration bientôt](https://twitter.com/StaniKulechov/status/1334546997827809285) (avant le lancement) :)
 
 ### Comment puis-je migrer vers Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+Consultez notre [Guide de migration Polygon](/polygon).
 
 ### J'ai une clée ledger / trezor, que faire ?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+Vous pouvez toujours accéder à Polygon en utilisant le Trezor One. Pour tous les autres, ce n'est pas possible pour l'instant. Vous pouvez créer un nouveau portefeuille Metamask et DM @Jesse | gldnXross#6482 pour obtenir de l'aide.
 
 ### Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Assurez-vous que vous avez effectué deux opérations : (1) approuver la transaction, et (2) la transaction pour la migration du réseau principal vers Polygon. L'adresse du jeton de GHST sur Polygon est la suivante: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Une fois que vous avez déposé vos jetons LP sur QuickSwap, vous ne pourrez plus les voir dans votre portefeuille. Retirer les si vous voulez les voir se refléter dans votre portefeuille.
 
 ### Puis-je envoyer des jetons du côté Polygon vers des échanges centralisés directement ?
 **Non !** Vous ne devriez pas envoyer de jetons de côté Polygon aux échanges centralisés (par exemple, Binance, Coinbase, etc) directement. Vous devez les transférer sur le réseau principal Ethereum avant de le faire.

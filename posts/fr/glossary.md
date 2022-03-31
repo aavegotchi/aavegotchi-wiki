@@ -1,9 +1,9 @@
 ---
 author: appellants
 date: '2020-04-23'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
-image: "IMAGE HERE"
+title: 'Glossaire'
+description: 'Glossaire avec des informations sur Aavegotchi, NFT et DeFi.'
+image: "IMAGE ICI"
 contributors:
   - "appellants"
   - "eris771"
@@ -12,7 +12,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">Aavegotchi après avoir lu le Glossaire Gotchi</p>
 </div>
 
 If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
@@ -25,86 +25,86 @@ When you're done reading this and hopefully have a better understanding of these
 **Contenu**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
-<p><a href=#aarchitect>Aarchitect</a></p>
-<p><a href=#aartist>Aartist</a></p>
+<li><a href=#aavegotchi-related>Lié à Aavegotchi</a></li>
+<p><a href=#aarchitect>Aarchitectes</a></p>
+<p><a href=#aartist>Aartists</a></p>
 <p><a href=#aavegotchi>Aavegotchis</a></p>
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#baard>Baard</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
 <p><a href=#frens>FRENS</a></p>
-<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<p><a href=#gotchi-pocket>Poche de Gotchi</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
-<p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
-<p><a href=#haunts>Haunts</a></p>
+<p><a href=#gotchus-alchemica-exchange>Échange de Gotchus Alchemica</a></p>
+<p><a href=#haunts>Haunt</a></p>
 <p><a href=#installations>Installations</a></p>
-<p><a href=#raffle-tickets>Raffle Tickets</a></p>
-<p><a href=#realm>REALM</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#raffle-tickets>Tickets de loterie</a></p>
+<p><a href=#realm>PARCELLE</a></p>
+<p><a href=#spirit-force>Force Spirituelle</a></p>
+<p><a href=#spirit-point>Point d'Esprit</a></p>
 <p><a href=#ugotchi-token>uGOTCHI Token</a></p>
 <p><a href=#wearables>Objets portables</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
-<p><a href=#amtokens>amTokens</a></p>
+<p><a href=#amtokens>Les jetons amTokens</a></p>
 <p><a href=#apy>APY</a></p>
-<p><a href=#atokens>aTokens</a></p>
+<p><a href=#atokens>Les jetons aTokens</a></p>
 <p><a href=#automated-market-maker>Automated Market Maker</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#collateral>Le Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
+<p><a href=#flash-loans>Prêts Flash</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
-<p><a href=#matokens>maTokens</a></p>
+<p><a href=#liquidity-pools>Pool de Liquidité</a></p>
+<p><a href=#matokens>Les jetons maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#smart-contracts>Contrats intelligents</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
+<li><a href=#general-terms>Termes généraux</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#bell-curve>Courbe en cloche</a></p>
 <p><a href=#chainlink-vrf>Chainlink VRF</a></p>
 <p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
-<p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
+<p><a href=#gbm-auction>Enchères GBM</a></p>
+<p><a href=#metaverse>Métaverse</a></p>
+<p><a href=#non-fungible-token>Jeton non fongible (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
-<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
+<p><a href=#proof-of-stake>Preuve d'enjeu (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
 
 </div>
 
-## Aavegotchi-related
+## Lié à Aavegotchi
 
-### Aarchitect
-Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+### Aarchitectes
+Nos développeurs de la communauté ! Découvrez quelques-uns des outils [](/developers) et [mini-jeux qu'ils ont créés](/minigames#community-created-mini-games). Découvrez nos Aarchitectes [ici](/aarchitect).
 
-### Aartist
-Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+### Aartists
+Nos amis de la communauté de Gotchi qui ont une tendance artistique. Nos Aartists ont conçu certains des jolis objets portables que vos Gotchis portent. Apprenez à les connaître [ici](/aartist).
 
 ### Aavegotchis
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Les Aavegotchis sont des fantômes pixelisés vivant sur la blockchain Ethereum, soutenus par la norme ERC-721. Leur valeur est déterminée par [le niveau de rareté](/rarity-farming), qui est calculé à partir de facteurs multiples, comme les traits de base, la quantité de [collatéral déposée](atokens), et les [objets portables équipés](/wearables).
 
 ### Baadge
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+Les Baadges sont des NFT ERC-1155 non transférables qui commémorent la participation de votre Gotchi à un événement spécial. Une fois qu'un Baadge est envoyé à votre Gotchi, il réside dans sa Poche Gotchi pour toujours.
 
-Baadges could be earned in a variety of ways:
+Les Baadges peuvent être gagnés de différentes manières :
 
-* Getting into the Top 10/100 for [Rarity Farming](/rarity-farming)
-* Participating in an event
-* Voting in a major [AavegotchiDAO](/dao) vote
-* Breaking a [mini-game's](/minigames) high score
-* .....And many more!
+* Accéder au Top 10/100 de [l'Agriculture de rareté (Rarity Farming)](/rarity-farming)
+* Participer à un événement
+* Voter dans un vote majeur [AavegotchiDAO](/dao)
+* Atteindre un certain score dans un [mini-jeu](/minigames)
+* Et bien plus encore !
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+Gardez les yeux dehors pour plus de Baadges. Ils seront annoncés par l'équipe dès qu'ils seront disponibles.
 
-Check out the [Baadge](/baadge) page for the complete list of Baadges.
+Consultez la page [Baadge](/baadge) pour la liste complète des Baadges.
 
 ### Baard
 Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
@@ -112,16 +112,16 @@ Enjoying those lovely chiptunes in some of our mini-games? They are created by o
 ### Drop Tickets
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10 000 [FRENS](/glossary#frens) peuvent être convertis en un ticket Drop.
 
-Raffle Tickets could also be converted into Drop Tickets.
+Les tickets de loterie peuvent également être convertis en ticket Drop.
 
 ### FRENS
 Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
 
-Read more about FRENS in the [Staking page](/staking).
+En savoir plus sur les FRENS dans la [page Staking](/staking).
 
-### Gotchi Pocket
+### Poche de Gotchi
 Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
 Technically, a Gotchi Pocket is an escrow address.
@@ -131,34 +131,34 @@ Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, an
 
 Technically, each element exists as an ERC-20 token.
 
-Check the [Gotchiverse page](/gotchiverse) for more information.
+Consultez la page [Gotchiverse](/gotchiverse) pour plus d'informations.
 
-### Gotchus Alchemica Exchange
+### Échange de Gotchus Alchemica
 
 The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
 
-### Haunts
+### Haunt
 [Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
 ### Installations
 Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
 
-Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
+Consultez la [page Gotchiverse](/gotchiverse#building-on-realm-parcels) pour voir la liste des Installations que vous pouvez construire.
 
-### Raffle Tickets
+### Tickets de loterie
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
 
 Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
-### REALM
+### PARCELLE
 Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
 
-### Spirit Force
+### Force Spirituelle
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
-### Spirit Point
+### Point d'Esprit
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### uGOTCHI Token
@@ -187,15 +187,15 @@ That means no banks taking a cut of your potential returns or providing you with
 
 At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
 
-## Key Terms
+## Termes clés
 
-### amTokens
+### Les jetons amTokens
 amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
 
 ### APY
 APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
-### aTokens
+### Les jetons aTokens
 aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
 
 ### Automated Market Maker
@@ -205,7 +205,7 @@ This formula can vary with each protocol. For example, Uniswap uses x * y = k, w
 
 An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
-### Collateral
+### Le Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
 
@@ -214,7 +214,7 @@ In the context of DeFi, this is how things might look:
 
 Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Dans la métaverse Aavegotchi, le collatéral est également connu sous le nom de [Force spirituelle](/glossary#spirit-force).
 
 ### DAICO
 Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Un DAICO est un modèle par lequel les investisseurs ont le contrôle des fonds collectés une fois la collecte de fonds terminée. Les investisseurs pourraient influencer la façon dont les développeurs ont accès aux fonds et à quelle fréquence grâce à un mécanisme de "tapage". En outre, les investisseurs peuvent également voter pour supprimer le projet et faire rembourser leurs fonds.
@@ -224,7 +224,7 @@ Otherwise known as a Decentralized Autonomous Organization. These are organizati
 
 In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+Pour plus de détails sur les DAO, consultez [cette page](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
 
 
 
@@ -232,13 +232,13 @@ For more a more detailed explainer on DAOs, check out [this page](https://blockc
 Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+Quelques exemples de DEX : UniSwap, Mesa et Balancer.
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+Quelques exemples de CEX : Binance, Coinbase et OKex.
 
 
-### Flash Loans
+### Prêts Flash
 Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
 
 The flash loan has to be repaid within the same transaction block.
@@ -252,13 +252,13 @@ The difference between holding tokens in an [automated market maker (AMM)](/glos
 
 
 
-### Liquidity Pools
+### Pool de Liquidité
 The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
-### maTokens
+### Les jetons maTokens
 maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
@@ -272,7 +272,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 
 
 
-### Smart Contracts
+### Contrats intelligents
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 
@@ -288,7 +288,7 @@ Very simply put, yield farming is a practice that allows users to earn rewards b
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## General Terms
+## Termes généraux
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -297,15 +297,15 @@ The flagship product of the project is the Aragon client, a tool for creating an
 
 The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
 
-Check out their [site](https://aragon.org/) here.
+Consultez leur [site](https://aragon.org/) ici.
 
-### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+### Courbe en cloche
+A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. Voir cette page [](https://www.investopedia.com/terms/b/bell-curve.asp) pour plus d'informations.
 
 ### Chainlink VRF
 A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+En savoir plus sur la Chainlink VRF [ici](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 ### Diamond Standard
 The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
@@ -316,7 +316,7 @@ Standardizes contract interfaces and implementation details of diamonds, enablin
 
 A diamond is a contract that implements the Specification in this standard.
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+Voir [ici](https://eips.ethereum.org/EIPS/eip-2535) pour plus d'informations.
 
 ### ERC-20
 A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
@@ -326,36 +326,36 @@ A free, open standard that describes how to build non-fungible or unique tokens 
 
 Think of them like rare, one-of-a-kind collectables.
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+Pour une explication complète de ce que le standard ERC-721 implique, consultez [ici](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
 ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
 
 Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+Pour une explication complète de ce que le standard ERC-998 implique, consultez [ici](https://eips.ethereum.org/EIPS/eip-998).
 
 ### ERC-1155
 A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+En savoir plus [ici](https://eips.ethereum.org/EIPS/eip-1155) et [ici](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
-### GBM Auction
+### Enchères GBM
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
 
 GBM stands for Gonnaud-Bessire-McDonaugh.
 
 First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+Pour plus d'informations sur l'enchère GBM, consultez le blog [Cryptograph GBM Enchère](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
-### Metaverse
+### Métaverse
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
 Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
 
-### Non-Fungible Token
+### Jeton non fongible (NFT
 
 A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
 
@@ -366,9 +366,9 @@ Polygon (Formerly Matic Network) is a scaling solution for public blockchains. B
 
 To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
 
-Read more about Polygon [here](https://matic.network/).
+En savoir plus sur Polygon [ici](https://matic.network/).
 
-### Proof of Stake
+### Preuve d'enjeu (PoS)
 
 Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
 
@@ -380,4 +380,4 @@ Read more about the Proof of Stake consensus mechanism [here](https://consensys.
 
 QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+Vous pouvez accéder à QuickSwap [ici](https://quickswap.exchange).
