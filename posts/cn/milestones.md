@@ -7,6 +7,12 @@ contributors:
   - "007"
 ---
 
+## [The Gotchiverse has launched!](https://blog.aavegotchi.com/play-to-earn-guide-the-gotchiverse-alpha-launch/)
+* The Gotchiverse has launched!
+* During the alpha period (31st March - 30th April), collect Alchemica with your Gotchis!
+* Use your Alchemica to craft a limited edition Golden Aaltar that is only available during this period!
+<p></p>
+
 ## [Gotchi Lending is now live!](https://blog.aavegotchi.com/aavegotchi-brings-scalability-to-nft-gaming-gotchi-lending-now-live/)
 * Gotchi Lending is now live!
 * Borrow or lend out your Gotchis in a trustless manner over the blockchain
