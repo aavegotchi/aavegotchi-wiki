@@ -36,7 +36,9 @@ De legende vertelt over het ontstaan van The Nine Aadepts! — Een blokbusterver
 * Negende Aadept: RyderNasrin
 * De Grote Liquidator: Coder Dan
 
-## Hoofdstuk 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Hoofdstuk 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
