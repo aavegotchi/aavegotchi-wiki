@@ -61,11 +61,11 @@ Aavegotchiのエージェントは、史上最高の1000を超えました！ �
 
 ### 動画カテゴリ
 
-#### <span style="color:gold">1位：Esveebeeの「Aavegotchiの使用を開始する方法」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1位：Esveebeeの「Aavegotchiの使用を開始する方法」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:silver">2位：DogGodFrogLogの「Aavegotchi2分ガイド」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2位：DogGodFrogLogの「Aavegotchi2分ガイド」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:#cd7f32">3位：Moonの「アノンがアヴェゴッチを見つける」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3位：Moonの「アノンがアヴェゴッチを見つける」</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 書き込みカテゴリ
 
@@ -108,7 +108,7 @@ Aavegotchiのエージェントは、史上最高の1000を超えました！ �
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
 ### <span style="color:silver">2位：Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496"></iframe>
 
 ### <span style="color:#cd7f32">3位：Occams_Schick</span>
 
