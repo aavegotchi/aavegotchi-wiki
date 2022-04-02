@@ -61,11 +61,15 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 
 ### GOTCHIMINER của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, và @gotchinomics
 
-Mục tiêu của trò chơi này là đào đường hầm để kiếm Crypto Crystal. GOTCHIMINER đứng đầu trong cả hạng mục General và Moralis! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Mục tiêu của trò chơi này là đào đường hầm để kiếm Crypto Crystal. GOTCHIMINER đứng đầu trong cả hạng mục General và Moralis!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
 
-Hãy chọn 3 Gotchi để tạo thành một đội. Nhiệm vụ đầu tiên là truy tìm @coderdannn, người đã mất tích hai ngày nay! AADVENTURE đã đạt giải nhìn trong hạng mục general! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Hãy chọn 3 Gotchi để tạo thành một đội. Nhiệm vụ đầu tiên là truy tìm @coderdannn, người đã mất tích hai ngày nay! AADVENTURE đã đạt giải nhìn trong hạng mục general!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### PORTAL DEFENDERS của @oh_no_bruno
 
@@ -81,26 +85,38 @@ Hãy bảo vệ Gotchi của bạn & quả bóng Rofl khỏi lũ cua! Chúng đ�
 
 ### 1 Arm Baandit của @mdurkin92
 
-Trò chơi quay số cực khủng này (với sức mạnh của #Chainlink VRF!) có sự góp mặt của nhiều loại trang phụ Aavegotchi và bạn phải tìm được những hình ảnh giống nhau để nhận được phần thưởng. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Trò chơi quay số cực khủng này (với sức mạnh của #Chainlink VRF!) có sự góp mặt của nhiều loại trang phụ Aavegotchi và bạn phải tìm được những hình ảnh giống nhau để nhận được phần thưởng.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AAVEGOTCHI DUNGEON của scranley#3257
 
-Nhiệm vụ của người dùng trong trò chơi này là phá trụ và thu thập phần thưởng! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Nhiệm vụ của người dùng trong trò chơi này là phá trụ và thu thập phần thưởng!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Aavezon của @space_asylum
 
 Một cú twist về việc Gotchi làm việc ở Amazon! Mục tiêu của trò chơi là dùng Gotchi đẩy số lượng hộp được yêu cầu vào portal trước khi hết thời gian.
 
-AAVEZON đã thắng giải ba trong hạng mục Moralis! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON đã thắng giải ba trong hạng mục Moralis!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Samugotchi Shodown của Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-Trò chơi mà trong đó bạn phải đấu với Lickquidator. Gotchi của bạn sẽ sử dụng Guard, Throw, và Slash để tấn công. Hãy để ý tới thời gian nhé! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Trò chơi mà trong đó bạn phải đấu với Lickquidator. Gotchi của bạn sẽ sử dụng Guard, Throw, và Slash để tấn công. Hãy để ý tới thời gian nhé!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SUSHIBAGOTCHI của @sushibatoken
 
-Một trò chơi khá hay mà trong đó, Aavegotchi @MoralisWeb3, và  Sushiba còn tồn tại trên thế giới. Mục tiêu là để tập hợp Gotchi cùng Moralis và Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Một trò chơi khá hay mà trong đó, Aavegotchi @MoralisWeb3, và  Sushiba còn tồn tại trên thế giới. Mục tiêu là để tập hợp Gotchi cùng Moralis và Sushiba!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CONGOTCHI của SlickBB#5737
 
-Congotchi đề ra nhiệm vụ để người chơi tìm kiếm những Gotchi thất lại và trả chúng lại trong vùng an toàn của Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi đề ra nhiệm vụ để người chơi tìm kiếm những Gotchi thất lại và trả chúng lại trong vùng an toàn của Citaadel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
