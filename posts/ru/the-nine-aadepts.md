@@ -36,7 +36,9 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 * Ninth Aadept: RyderNasrin
 * The Great Liquidator: Coder Dan
 
-## Chapter 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Chapter 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
