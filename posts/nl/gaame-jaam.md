@@ -61,11 +61,15 @@ De Aavegotchi Gaame Jaam/Hackathon werd gehouden van 1 tot 5 september 2021. Asp
 
 ### GOTCHIMINER door @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, en @gotchinomics
 
-Het doel van dit spel is om ondergronds te graven voor Crypto Crystals. GOTCHIMINER plaatste eerst in zowel de Algemene als de Moralis-wedstrijden! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Het doel van dit spel is om ondergronds te graven voor Crypto Crystals. GOTCHIMINER plaatste eerst in zowel de Algemene als de Moralis-wedstrijden!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AADVENTURE van MetaGuild @metaguildcom & @HotspurSC2
 
-Kies drie Gotchis om een team te vormen. De eerste taak is om @coderdannn te vinden die al twee dagen niet meer te zien was! AADVENTURE plaatste op de tweede plaats in de algemene competitie! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Kies drie Gotchis om een team te vormen. De eerste taak is om @coderdannn te vinden die al twee dagen niet meer te zien was! AADVENTURE plaatste op de tweede plaats in de algemene competitie!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### PORTAL DEFENDERS door @oh_no_bruno
 
@@ -81,26 +85,38 @@ Houd je Gotchi & Rofl Bal weg van de krabben! Hoe dichter ze komen, hoe meer erg
 
 ### 1 ARM BAANDIT door @mdurkin92
 
-Dit episch slot machine spel (aangedreven door #Chainlink VRF!) bevat verschillende Aavegotchi Wearables die je moet matchen tussen lijnen om uitbetalingen te ontvangen. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Dit episch slot machine spel (aangedreven door #Chainlink VRF!) bevat verschillende Aavegotchi Wearables die je moet matchen tussen lijnen om uitbetalingen te ontvangen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AAVEGOTCHI DUNGEON van scranley#3257
 
-De taak van de speler voor dit spel is om torens te vernietigen en schatten te verzamelen! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+De taak van de speler voor dit spel is om torens te vernietigen en schatten te verzamelen!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AAVEZON door @space_asylum
 
 Een Gotchified twist aan het werken bij Amazon! Het doel van dit spel is dat je Gotchi het vereiste aantal dozen naar een portaal duwt voordat de tijd op is.
 
-AAVEZON plaatste derde plaats in de Moralis wedstrijd! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON plaatste derde plaats in de Moralis wedstrijd!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SAMUGOTCHI SHOWN van Rainbow Hallow (@GrizzyJones, @vrycmfy, en @lahcen_kha)
 
-Het spel plaatst uw Gotchi tegen de gevreesde Lickquidator. Je Gotchi gebruikt Verdedig, Gooi en Slash om aan te vallen. Zorg ervoor dat je timing juist is! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Het spel plaatst uw Gotchi tegen de gevreesde Lickquidator. Je Gotchi gebruikt Verdedig, Gooi en Slash om aan te vallen. Zorg ervoor dat je timing juist is!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SUSHIBAGOTCHI van @sushibatoken
 
-Een episch spel waar Aavegotchis, @MoralisWeb3, en Sushiba de enige drie entiteiten ter wereld zijn. Het doel is om uw Gotchis te verenigen met Moralis en Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Een episch spel waar Aavegotchis, @MoralisWeb3, en Sushiba de enige drie entiteiten ter wereld zijn. Het doel is om uw Gotchis te verenigen met Moralis en Sushiba!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CONGTCHI van SlickBB#5737
 
-Congotchi verwacht van de speler met het vinden van verloren Gotchis en om deze terug te sturen naar de comforten van de Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi verwacht van de speler met het vinden van verloren Gotchis en om deze terug te sturen naar de comforten van de Citaadel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
