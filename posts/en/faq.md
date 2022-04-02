@@ -81,6 +81,11 @@ contributors: ["eris771", "unintelligent-nerd"]
 <p><a href=#what-is-gotchus-alchemica->What is Gotchus Alchemica?</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->What is an Alchemical Aaltar?</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->Do I need an Aavegotchi to Play?</a></p>
+<li><a href=#gotchi-lending-faq>Gotchi Lending FAQ</a></li>
+<p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
+<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
+<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
+<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
 <li><a href=#aambassador-faq>Aambassador FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
@@ -430,6 +435,26 @@ The Alchemical Aaltar is the most important installation you can place on your G
 ### Do I need an Aavegotchi to Play?
 
 Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+
+## Gotchi Lending FAQ
+
+### Who pets a lent Aavegotchi?
+
+The owner is still able to pet their Aavegotchi while it is being borrowed.
+
+### Is there a way to recall an Aavegotchi early once it’s been lent?
+
+No, once created an agreement cannot be broken or recalled.
+
+### Can a borrower add or remove Wearables from an Aavegotchi?
+
+No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+
+### Do you need to relist an Aavegotchi once a rental period has concluded?
+
+Yes, you will need to relist once the agreement has been concluded.
+
+However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 
 ## Aambassador FAQ
 
