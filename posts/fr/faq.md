@@ -83,40 +83,45 @@ contributors:
 <p><a href=#what-is-gotchus-alchemica->Qu'est-ce que le Gotchus Alchemica?</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->Qu'est-ce qu'un autel alchimique ?</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->Ai-je besoin d'un Aavegotchi pour jouer ?</a></p>
-<li><a href=#aambassador-faq>FAQ de l'Aambassadeur</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->De quelle quantité dois-je faire grandir mon #GotchiGang?</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?</a></p>
-<li><a href=#guild-faq>FAQ de guilde</a></li>
-<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?</a></p>
-<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->Comment soumettre ma Guilde à la page wiki des Guildes ?</a></p>
-<li><a href=#bridging-faq>FAQ des ponts</a></li>
-<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Puis-je toujours utiliser mon Aavegotchi une fois qu'il a été relié à Ethereum?</a></p>
-<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Mon Aavegotchi peut-il toujours gagner des récompenses d'agriculture de rareté (Rarity Farming) tant qu'il est sur Ethereum?</a></p>
-<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Est-ce que mon Gotchi peut utiliser le pont avec des objets portables équipés?</a></p>
-<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Mon Gotchi peut-il équiper ou retirer des objets portables sur Ethereum ?</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Puis-je toujours utiliser mon Aavegotchi pour jouer dans le jeu Gotchiverse à venir alors qu'il est sur Ethereum ?</a></p>
-<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?</a></p>
-<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?</a></p>
-<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?</a></p>
-<li><a href=#technical-faq>FAQ Technique</a></li>
-<p><a href=#is-aavegotchi-on-chain->Les Aavegotchi sont-ils sur la chaîne ?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Quel portefeuille dois-je utiliser avec Aavegotchi ?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi va-t-il fonctionner sur la couche 2 ?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Dois-je migrer mes jetons Aave ?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->Comment puis-je migrer vers Polygon?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->J'ai une clée ledger / trezor, que faire ?</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Puis-je envoyer des jetons du côté Polygon vers des échanges centralisés directement ?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Pourquoi Metamask refuse-t-il mon symbole de jeton ?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>J'ai retiré mes GHST de Polygon, mais je ne les ai pas encore reçu même après une longue attente</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Pourquoi j'ai de l'attente sur Polygon?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Où puis-je trouver mon ID de Gotchi ?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?</a></p>
+<li><a href=#gotchi-lending-faq>Gotchi Lending FAQ</a></li>
+<p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
+<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
+<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
+<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
+<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
+<li><a href=#guild-faq>Guild FAQ</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
+<li><a href=#bridging-faq>Bridging FAQ</a></li>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
+<li><a href=#technical-faq>Technical FAQ</a></li>
+<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
 </ol>
 
 </div>
@@ -426,163 +431,183 @@ L'Alchemical Aaltar est l'installation la plus importante que vous pouvez placer
 
 Oui, vous avez besoin d'un Aavegotchi pour jouer dans le Gotchiverse. Si vous ne possédez pas d'Aavegotchi, vous pouvez accéder au Gotchiverse en empruntant un avec notre programme de prêt Gotchi.
 
-## FAQ de l'Aambassadeur
+## Gotchi Lending FAQ
 
-### Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?
+### Who pets a lent Aavegotchi?
 
-Non, non. Ce programme Aambassador est conçu de manière à vous permettre de vous concentrer moins sur les tâches d'administration et plus sur la construction de votre **#GotchiGang.**
+The owner is still able to pet their Aavegotchi while it is being borrowed.
 
-### De quelle quantité dois-je faire grandir mon #GotchiGang?
+### Is there a way to recall an Aavegotchi early once it’s been lent?
 
-Garder votre **#GotchiGang** plus petit et spécifique est vraiment meilleur. Vous pouvez créer un **#GotchiGang** pour votre village, votre ville, votre université… la créativité est à vous !
+No, once created an agreement cannot be broken or recalled.
 
-Une fois que votre groupe atteint 100 membres légitimes, vous serez officiellement reconnu comme Aavegotchi Aambassador.
+### Can a borrower add or remove Wearables from an Aavegotchi?
 
-### Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?
+No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
 
-Nous vous informerons si le nom a déjà été pris après avoir rempli votre demande sur le formulaire de saisie.
+### Do you need to relist an Aavegotchi once a rental period has concluded?
 
-### J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?
+Yes, you will need to relist once the agreement has been concluded.
 
-Absolument ! Tant que nous pouvons facilement suivre la croissance de votre réseau, vous êtes éligible à être un ambassadeur.
+However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 
-### J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je le demander?
+## Aambassador FAQ
 
-Toutes les questions sur le programme Aambassador peuvent être adressées à Webb#0001 dans Discord.
+### Do I need to fill out monthly reports as an Aambassador?
 
-## FAQ de guilde
+No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?
+### How big should I grow my #GotchiGang?
 
-Les groupes Aambassador sont destinés à recruter de nouvelles personnes dans le projet Aavegotchi tandis que les guildes peremettent aux joueurs existants de se regrouper et de jouer ensemble dans le Gotchiverse.
+Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
-### Comment soumettre ma Guilde à la page wiki des Guildes ?
+Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-DM BowtiedNerd#6509 sur Discord avec toutes les informations requises qui se trouvent sur la page [wiki de Guilde](/guild).
+### What if the #GotchiGang name I want has already been taken by someone else?
 
-## FAQ des ponts
+We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### Puis-je toujours utiliser mon Aavegotchi une fois qu'il a été relié à Ethereum?
+### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
 
-**OUI**, les développeurs de Gotchi World et de Gotchi Care (services de compagnie pour Gotchi) ont gracieusement proposé de caresser automatiquement tous les Aavegotchis sur Ethereum, en vous assurant que vous avez toujours des liens personnels pendant que votre Gotchi est sur Ethereum! En vacances sur Ethereum, votre Aavegotchi continuera à augmenter son score de parenté de deux points par jour, mais il serait vraiment appréciable une visite ou deux de temps à autre de la part de son maître ! Il est isolé dans le spaace…
+Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### Mon Aavegotchi peut-il toujours gagner des récompenses d'agriculture de rareté (Rarity Farming) tant qu'il est sur Ethereum?
+### I have a question that isn’t answered here. Where should I ask it?
 
-**OUI**, votre Gotchi sera toujours éligible pour les récompenses de Rarity Farming dans les trois catégories pendant que votre gotchi est sur Ethereum. Toutes les récompenses vont directement dans sa poche.
+All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
-### Est-ce que mon Gotchi peut utiliser le pont avec des objets portables équipés?
+## Guild FAQ
 
-**OUI**, vous pouvez équiper autant d'objets portables que vous le voulez avant de l'envoyer sur le pont, MAIS notez que votre Aavegotchi ne pourra pas faire de changement de garde-robe pendant que vous êtes sur Ethereum.
+### What are the differences between Aambassador groups and Guilds?
 
-### Mon Gotchi peut-il équiper ou retirer des objets portables sur Ethereum ?
+Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-**NON**, votre Gotchi est comme "gelé" à l'instant où il est envoyé sur le pont. Cependant, vous pouvez le ramener sur Polygon à tout moment (des frais de passerelle normaux s'appliquent).
+### How do I submit my Guild to the Guild wiki page?
 
-### Puis-je toujours utiliser mon Aavegotchi pour jouer dans le jeu Gotchiverse à venir alors qu'il est sur Ethereum ?
+DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
-**NON**, puisque le Gotchiverse fonctionne sur Polygon, tout les Gotchis sur le réseau principal Ethereum ne pourront pas participer au Gotchiverse. Ramenez les par le pont quand vous voulez jouer !
+## Bridging FAQ
 
-### Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?
+### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
-**OUI** mais **PAS ENCORE**. Pour les portails c'est un oui immédiat car ils sont également des jetons ERC-721. Les objets portables et les consommables sont des objets ERC-1155 et auront leur propre pont ouvert dans les semaines à venir.
+**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
-### Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?
+### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
 
-Visitez simplement [aavegotchi.com/bridge](https://aavegotchi.com/bridge). Vous pouvez le faire revenir quand vous le souhaitez.
+**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
 
-### Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?
-**NON**, vous ne pouvez trader que sur des places de marché Ethereum comme Rarible pendant que l'Aavegotchi est ponté.
+### Can my Gotchi be bridged over with wearables equipped?
 
-### Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?
-**OUI**, vous pouvez échanger vos Gotchis sur n'importe quel marché NFT basé sur Ethereum, mais vous ne gagnerez des RARI que lorsque vous échangerez sur Rarible !
+**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
 
-## FAQ Technique
+### Can my Gotchi equip or unequip wearables while on Ethereum?
 
-### Les Aavegotchi sont-ils sur la chaîne ?
+**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
 
-Tous les éléments du jeu Aavegotchi sont [stockés sur la blockchain Ethereum](https://twitter.com/aavegotchi/status/1328548543909351429). Vous pouvez en savoir plus sur notre design unique en utilisant la norme Diamant [ici](/glossary#diamond-standard).
+### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
 
-### Quel portefeuille dois-je utiliser avec Aavegotchi ?
+**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
 
-<a href="https://metamask.io/">Metamask</a> a été de loin la meilleure option à utiliser avec Aavegotchi selon l'expérience de notre communauté. Metamask et [portefeuille Arkane](https://arkane.network/apps), qui vont bientôt s'intégrer avec Aavegotchi, supportent également les jetons ERC1155, ce qui signifie que vous serez en mesure de voir tous vos actifs (comme les objets portables) dans votre portefeuille en plus de vos jetons GHST.
+### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
 
-Pour les appareils Android, utiliser l'application Metamask avec le navigateur intégré est une bonne option.
+**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### Aavegotchi va-t-il fonctionner sur la couche 2 ?
+### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
-Oui ! Aavegotchi utilise [Polygon](https://matic.network/) comme solution de couche 2. L'équipe a considéré Polygon comme une équipe forte, qui a fait des progrès sur la décentralisation, et ce qui semble être réseau fort et en lien avec d'autres plates-formes NFT comme OpenSea.
+Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
-### Dois-je migrer mes jetons Aave ?
+### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
-Aavegotchi fonctionnera avec les aTokens de [Aave version 2.](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a). Assurez-vous de migrer tous les jetons que vous avez sur la version 1 avant d'essayer de réclamer votre Aavegotchi. Selon Stani, nous [devrions avoir un outil de migration bientôt](https://twitter.com/StaniKulechov/status/1334546997827809285) (avant le lancement) :)
+### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-### Comment puis-je migrer vers Polygon?
-Consultez notre [Guide de migration Polygon](/polygon).
+## Technical FAQ
 
-### J'ai une clée ledger / trezor, que faire ?
-Vous pouvez toujours accéder à Polygon en utilisant le Trezor One. Pour tous les autres, ce n'est pas possible pour l'instant. Vous pouvez créer un nouveau portefeuille Metamask et DM @Jesse | gldnXross#6482 pour obtenir de l'aide.
+### Is Aavegotchi on-chain?
 
-### Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-Assurez-vous que vous avez effectué deux opérations : (1) approuver la transaction, et (2) la transaction pour la migration du réseau principal vers Polygon. L'adresse du jeton de GHST sur Polygon est la suivante: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+### Which wallet should I use with Aavegotchi?
 
-### Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-Une fois que vous avez déposé vos jetons LP sur QuickSwap, vous ne pourrez plus les voir dans votre portefeuille. Retirer les si vous voulez les voir se refléter dans votre portefeuille.
+For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Puis-je envoyer des jetons du côté Polygon vers des échanges centralisés directement ?
-**Non !** Vous ne devriez pas envoyer de jetons de côté Polygon aux échanges centralisés (par exemple, Binance, Coinbase, etc) directement. Vous devez les transférer sur le réseau principal Ethereum avant de le faire.
+### Will Aavegotchi run on Layer 2?
 
-### Pourquoi Metamask refuse-t-il mon symbole de jeton ?
+Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-Metamask a une limite maximale de 11 caractères pour les symboles de jeton. Vous pouvez renommer le symbole de jeton en quelque chose de plus court et il fonctionnera. Le fait de changer le symbole en quelque chose de plus court n'affecte pas le jeton ; il affecte uniquement l'affichage sur votre Metamask.
+### Do I need to migrate my Aave tokens?
 
-Un bon nombre de personnes ont rencontré ce problème car le symbole stkGHST-QUICK a plus de 11 caractères.
+Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+
+### How do I migrate to Polygon?
+Check out our [Polygon Migration Guide](/polygon).
+
+### I have a ledger / trezor, what do I do?
+You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+
+### Why can't I see my Polygon GHST on Metamask?
+
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+
+### Why can't I see my LP Tokens on QuickSwap?
+
+After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+
+### Can I send Polygon-side tokens to Centralized Exchanges directly?
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+
+### Why is Metamask rejecting my token symbol?
+
+Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+
+Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
-### J'ai retiré mes GHST de Polygon, mais je ne les ai pas encore reçu même après une longue attente
+### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
 
-J'ai retiré mes jetons GHST (ou tout autre actif à cet égard) de Polygon vers le réseau principal Ethereum en utilisant le [pont Aavegotchi](https://aavegotchi.com/bridge). Après quelques heures, je n'ai pas encore reçu mes actifs sur Ethereum Mainnet. Que puis-je faire ?
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
-Tout d'abord, rendez-vous sur le [Polygon Block Explorer](https://explorer.matic.network/) et insérer votre identifiant de transaction. Obtenez le numéro de bloc de votre transaction.
+First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
 
-Ensuite, remplacez la portion [blockNumber] dans l'URL suivante par votre numéro de bloc actuel et accédez à cette URL :
+Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-Cette URL indiquera le statut de votre transaction de retrait.
+That URL will indicate the status of your withdrawal transaction.
 
-Si votre transaction n'a pas été traitée par Polygon, veuillez continuer à attendre patiemment. Il y a eu des cas où cela a pris jusqu'à 6 heures.
+If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
 
-Si votre transaction a été traitée par Polygon et que vos actifs n'apparaissent toujours pas sur l'interface utilisateur du Pont Aavegotchi, veuillez contacter Coderdan (ou tout autre apprenti) pour obtenir de l'aide.
+If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Pourquoi j'ai de l'attente sur Polygon?
+### Why am I experiencing lag on Polygon?
 
-Vous pouvez essayer de vous connecter à l'autre RPC Polygon : https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-Pour des instructions étape par étape sur la façon de le faire, veuillez vous référer à notre [Guide Polygon](/polygon).
+For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### Où puis-je trouver mon ID de Gotchi ?
+### Where do I find my Gotchi Token ID?
 
-Pour obtenir votre identifiant de NFT Aavegotchi (chaque Aavegotchi a un ID unique), allez sur la page [Ma page Aavegotchis](https://aavegotchi.com/aavegotchis). Cliquez sur l'un de vos Gotchis et observez le numéro à la fin de l'URL. Cela ressemble à ce qui suit:
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
-https://aavegotchi.com/gotchi/(ID du NFT Gotchi)
+https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Une fois que vous avez obtenu votre identifiant Gotchi, vous pouvez lier vos Gotchis à votre identifiant Discord en utilisant la commande Discord suivante :
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Notez que si vous avez plus de 1 Gotchi, vous devez répéter le même processus plusieurs fois.
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?
+### Where do I find my Gotchi Address?
 
-Tout d'abord, allez sur la page [Ma page Aavegotchis](https://aavegotchi.com/aavegotchis). Cliquez sur l'un de vos Aavegotchis. Dans le coin inférieur droit de l'écran, il y aura un bouton "Poche". Cliquez sur le bouton Poche et la fenêtre de poche de Gotchi apparaîtra. Il y aura un bouton "Affichage". Cliquez dessus et vous serez dirigé vers l'adresse de ce contrat intelligent de Gotchi. Il s'agit d'un contrat d'entiercement avec lequel le propriétaire du Gotchi peut interagir.
+First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
-Notez que chaque Gotchi aura sa propre adresse de contrat intelligent.
+Do note that each Gotchi will have its own Smart Contract Address.
 
-<p style="font-style:italic; font-size:13px;">À suivre...</p>
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
