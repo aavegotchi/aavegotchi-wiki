@@ -61,11 +61,15 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 ### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-The goal of this game is to dig underground for Crypto Crystals. GOTCHIMINER placed first in both the General and Moralis competitions! <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+The goal of this game is to dig underground for Crypto Crystals. GOTCHIMINER placed first in both the General and Moralis competitions!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AADVENTURE by MetaGuild @metaguildcom & @HotspurSC2
 
-Choose three Gotchis to form a team. The first task is to find @coderdannn who hasn’t been seen in two days! Flushed face AADVENTURE placed second in the general competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Choose three Gotchis to form a team. The first task is to find @coderdannn who hasn’t been seen in two days! Flushed face AADVENTURE placed second in the general competition!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### PORTAL DEFENDERS by @oh_no_bruno
 
@@ -81,26 +85,38 @@ Keep your Gotchi & Rofl Ball away from crabs! The closer they get, the more irri
 
 ### 1 ARM BAANDIT by @mdurkin92
 
-This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts. <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AAVEGOTCHI DUNGEON by scranley#3257
 
-The player’s task for this game is to destroy towers and collect treasure! <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+The player’s task for this game is to destroy towers and collect treasure!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### AAVEZON by @space_asylum
 
 A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
 
-AAVEZON placed third Third place medal in the Moralis competition! <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+AAVEZON placed third Third place medal in the Moralis competition!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SAMUGOTCHI SHOWDOWN by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right! <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SUSHIBAGOTCHI by @sushibatoken
 
-An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba! <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### CONGOTCHI by SlickBB#5737
 
-Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel. <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
