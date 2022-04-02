@@ -61,11 +61,11 @@ Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Th�
 
 ### Hạng Mục Video
 
-#### <span style="color:gold">Giải 1: Cách Để Bắt Đầu Chơi Aavegotchi của Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">Giải 1: Cách Để Bắt Đầu Chơi Aavegotchi của Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:silver">Giải 2: Hiểu Aavegotchi trong 2 phút của DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">Giải 2: Hiểu Aavegotchi trong 2 phút của DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:#cd7f32">Giải 3: Thành Viên Vô Danh tìm Aavegotchi của Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">Giải 3: Thành Viên Vô Danh tìm Aavegotchi của Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Hạng Mục Viết
 
@@ -108,7 +108,7 @@ Top 3 trang phục chiến thắng lần lượt 100, 50, và 25 GHST.
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
 ### <span style="color:silver">Vị trí thứ hai: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496"></iframe>
 
 ### <span style="color:#cd7f32">Vị trí thứ ba: Occams_Schick</span>
 
