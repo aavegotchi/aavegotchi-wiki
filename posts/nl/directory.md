@@ -53,6 +53,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Gotchiverse](/gotchiverse)
 
+* [Gotchus Alchemica](/gotchus-alchemica)
+
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
 * [Guild](/guild)
