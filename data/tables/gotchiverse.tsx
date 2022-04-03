@@ -44,6 +44,33 @@ export const tables
             }
         },
 		
+		{
+            tableName: "avgBaseAlchemicaPerParcelAct1Total",
+            tableCaption: "Avg. Base Alchemica Per Parcel (Act I Total)",
+            tableData: {
+                headers: ["Land Size", "FUD", "FOMO", "ALPHA", "KEK"],
+                data: [
+                    ["Humble", "28,473", "14,237", "7,118", "2,847"],
+					["Reasonable", "113,893", "56,947", "28,473", "11,389"],
+					["Spacious", "911,145", "455,573", "227,786", "91,115"],
+					["Paartner", "1,822,290", "911,145", "455,573", "182,229"]
+				]
+            }
+        },
+		
+		{
+            tableName: "avgBaseAlchemicaPerParcelAct1FirstRound",
+            tableCaption: "Avg. Base Alchemica Per Parcel (Act I 1st Round)",
+            tableData: {
+                headers: ["Land Size", "Round %", "FUD", "FOMO", "ALPHA", "KEK"],
+                data: [
+                    ["Humble", "25%", "7,077", "3,539", "1,769", "708"],
+					["Reasonable", "25%", "28,308", "14,154", "7,077", "2,831"],
+					["Spacious", "25%", "226,465", "113,233", "56,616", "22,647"],
+				]
+            }
+        },
+		
         {
             tableName: "installations",
             tableCaption: "",
@@ -62,5 +89,19 @@ export const tables
 					["Display Cases", "Inviting a Gotchi fren over to your parcel? Show off your Art, Baadge, and Trophy NFTs in Display Cases."]
 				]
             }
-        }		
+        },
+		
+		{
+            tableName: "alchemicalBoostsAndAmountPerLocation",
+            tableCaption: "Alchemica Boosts and Amount per Location",
+            tableData: {
+                headers: ["Boosts", "Amount", "Citaadel", "Grid"],
+                data: [
+                    ["FUD", "1,000", "16,512", "TBD"],
+					["FOMO", "500", "14,063", "TBD"],
+					["ALPHA", "250", "16,933", "TBD"],
+					["KEK", "100", "5,255", "TBD"]
+				]
+            }
+        },
     ]
