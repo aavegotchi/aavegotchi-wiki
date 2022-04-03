@@ -32,10 +32,13 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
+<p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
+<p><a href=#crafting-revenue-distribution>Crafting Revenue Distribution</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Total Supply</a></p>
 <p><a href=#distribution>Distribution</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
+<p><a href=#parcel-boosts>Parcel Boosts</a></p>
 </ol>
 
 </div>
@@ -138,7 +141,7 @@ table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses.
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
@@ -155,23 +158,27 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
-The following table shows the estimation for Alchemica concentration per REALM parcel.
+### Average Alchemica Per Parcel
 
-<img class="bodyImage" src="/gotchiverse/average-base-alchemica-per-parcel.png" alt="Average Base Alchemica per Parcel" />
+Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
 
-25% of the total supply of Alchemica will be distributed during Act I (Citaadel and Grid) via REALM parcel harvesting.
+When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
 
-Each Alchemica has unique use cases within the Gotchiverse, and can be used alone or combined with other Alchemica during crafting to form Installations.
+The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 
-During the crafting process, a small portion of Alchemica (5%) is burned forever, whilst the remainder is split between three key sources:
+*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
 
-* 40% to The Great Portal, the source of all energy within the Gotchiverse. The Great Portal will accumulate a reserve of Alchemica over time, and any amount excess to this will be recycled back throughout the Gotchiverse via alchemical channeling and other rewarding activities.
+table_avgBaseAlchemicaPerParcelAct1Total
 
-* 40% to the [Summoners](/team#summoners), who willed the Gotchiverse into existence. The Summoners are humble and wise and will do everything in their power to promote life within the Gotchiverse.
+table_avgBaseAlchemicaPerParcelAct1FirstRound
 
-* 15% to the [AavegotchiDAO](/dao), the stewards and caretakers of the Gotchiverse. They make the Gotchiverse a place worth living in!
+### Surveying Alchemica Range
 
-<img class="bodyImage" src="/gotchiverse/consumed-gotchus-alchemica.png" alt="Consumed Gotchus Alchemica and where they go to" />
+The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
+
+For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
+
+We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
 
 ## Building on REALM parcels
 
@@ -184,6 +191,53 @@ table_installations
 Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+
+### Installation Traits and Recipes
+
+**Recipes**
+
+Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
+
+Installations and their upgrades also have a “Craft Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
+
+This crafting/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+
+**Harvest Rate, Capacity, and Spillover**
+
+Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+
+Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+
+**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+
+You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+
+**Removing Installations**
+
+Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
+
+### Crafting Revenue Distribution
+
+Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+
+* Great Portal (35%)
+* Pixelcraft (30%)
+* DAO (30%)
+* Burn (5%)
+
+**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+
+*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+
+Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+
+Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+
+**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+
+**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+
+**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
 ## REALM Tokenomics
 
@@ -220,3 +274,21 @@ There are three ways to get Drop Tickets:
 * Convert 10,000 FRENS into one Drop Ticket
 * Convert other Raffle Tickets into a Drop Ticket
 * Refer your friends to earn Drop Tickets 🔥
+
+### Parcel Boosts
+
+Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+
+Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+
+table_alchemicalBoostsAndAmountPerLocation
+
+**Replenishings**
+
+After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+
+**Alchemica Bubble Ups**
+
+The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+
+Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
