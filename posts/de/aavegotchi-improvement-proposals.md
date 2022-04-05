@@ -887,6 +887,10 @@ Option 3: Abstain
 
 **Voting Period:**  23 - 30 March 2022
 
+**Results:**
+
+table_agip24
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x2fd1336f439b29a7096478a1d9571acc83597b2b345103fdb35e02125f5a2dcd)
 
 <hr />
@@ -915,6 +919,10 @@ Option 2: Delay until Community Proposal
 Option 3: Start Auction 3 ASAP
 
 **Voting Period:** 23 - 30 March 2022
+
+**Results:**
+
+table_agip25
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xa8ae9fff29189ddf79845a7875ccfc696273aa2fca9fed42140a6bbe55f12b97)
 
@@ -946,6 +954,10 @@ Option 2: Binomial Distribution
 Option 3: No, don't change the Variance
 
 **Voting Period:** 23 - 30 March 2022
+
+**Results:**
+
+table_agip26
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x09c3132896ba5c8e677e018a86ba1a74729955f64799dbfd4e422058f9198817)
 
@@ -999,6 +1011,10 @@ Option 1: Yes, use the new Trait Map
 Option 2: No, stick with the original
 
 **Voting Period:** 23 - 30 March 2022
+
+**Results:**
+
+table_agip27
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xbe4999b68f97f0e3406d65aff4e36a97768af72eb5cbd16c92641dcfdd6f35c9)
 
@@ -1060,6 +1076,10 @@ Option 13: Nestor
 Option 14: Chichi
 
 **Voting Period:** 23 - 30 March 2022
+
+**Results:**
+
+table_agip28
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8b5862698c550b53e57f6ce4628a7a13ed5a4772e541c414e9a27fbcf95cf8c2)
 
