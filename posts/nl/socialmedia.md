@@ -27,6 +27,7 @@ Welkom bij de Aavegotchi familie, fren! Onze gemeenschap is een levendige groep 
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
 <li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
@@ -78,11 +79,17 @@ ongeveer 3.100 andere frens. Voltooid met Aavegotchi Telegram stickers, het Aave
 
 <p style="margin-left: 4.8em">Ga door met het laatste Gotchi-nieuws op onze blog!</p>
 
-Wij verheugen ons erop u welkom te heten! Ga naar een van onze kanalen om meer te leren.
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+
+<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
+
+We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Maleisië is de plek om te hangen voor de Maleisische Aavegotchiaanse familie! Bekijk onze [Facebook Groep](https://www.facebook.com/groups/aavegotchimalaysia)! De Maleisische Aambassadeur Buzz Lightyear / Jason Chew verwelkomt u!
+Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
 
 
 
