@@ -297,6 +297,81 @@ export const tables
         },
 		
 		{
+            tableName: "agip24",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, deposit 3M GHST", "18,000,000 GHST (89.15%)"],
+					["Abstain", "1,200,000 GHST (6.12%)"],
+					["No, keep GHST in the Treasury", "962,000 GHST (4.74%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip25",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Delay until Community Proposal", "14,000,000 GHST (68.24%)"],
+					["Delay until full Book 1", "4,100,000 GHST (20.49%)"],
+					["Start Auction 3 ASAP", "2,300,000 GHST (11.28%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip26",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Binomial Distribution", "17,000,000 GHST (84.8%)"],
+					["Round 1 0.75 - 1.25 & 0.5 - 1.5", "2,300,000 GHST (11.78%)"],
+					["No, don’t change the Variance", "673,000 GHST (3.42%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip27",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, use the new Trait Map", "20,000,000 GHST (96.81%)"],
+					["No, stick with the original", "643,000 GHST (3.19%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip28",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Notorious_BTC", "13,000,000 GHST (67.57%)"],
+					["Yanik", "12,000,000 GHST (59.58%)"],
+					["Jarrod", "11,000,000 GHST (53.69%)"],
+					["Diddlypoo", "9,600,000 GHST (49.15%)"],
+					["Kokusho", "9,200,000 GHST (46.94%)"],
+					["Choyna", "8,500,000 GHST (43.58%)"],
+					["Master_Yin", "7,800,000 GHST (39.78%)"],
+					["Pgendreau", "6,800,000 GHST (34.84%)"],
+					["MarvinP", "6,600,000 GHST (33.88%)"],
+					["Chichi", "3,200,000 GHST (16.17%)"],
+					["Tburd.eth", "2,500,000 GHST (12.61%)"],
+					["Nestor", "1,800,000 GHST (9.31%)"],
+					["MGG", "1,800,000 GHST (9.29%)"],
+					["Hardkor", "1,300,000 GHST (6.84%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
