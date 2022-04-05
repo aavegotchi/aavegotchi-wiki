@@ -89,6 +89,7 @@ contributors:
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
 <p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
 <p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
+<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Why doesn't the Whitelist field accept wallet addresses?</a></p>
 <li><a href=#aambassador-faq>Aambassador FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
@@ -452,6 +453,12 @@ No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The 
 Yes, you will need to relist once the agreement has been concluded.
 
 However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
+
+### Why doesn't the Whitelist field accept wallet addresses?
+
+For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
+
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
 ## Aambassador FAQ
 
