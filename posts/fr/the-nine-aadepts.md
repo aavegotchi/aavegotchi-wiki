@@ -36,7 +36,9 @@ La légende raconte la venue des neuf Aadeptes ! — A blockbuster story of epic
 * 9eme Aadept: RyderNasrin
 * Le Grand Liquidator : Coder Dan
 
-## Chapitre 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Chapitre 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

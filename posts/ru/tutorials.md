@@ -49,14 +49,14 @@ Aave и аТокены.
 
 </div>
 
-### ЛОТЕРЕИ В ААВЕГОТЧИ <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### ЛОТЕРЕИ В ААВЕГОТЧИ <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Читайте, как получить билеты для участия в лотереях.
 * Изучите, как добавить лотерейные билеты в адрес контракта перед розыгрышем.
 
 <hr />
 
-### КАК ПОЛУЧИТЬ ААВЕГОТЧИ В ТЕСТОВОЙ СЕТИ KOVAN <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### КАК ПОЛУЧИТЬ ААВЕГОТЧИ В ТЕСТОВОЙ СЕТИ KOVAN <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Читайте про принцип покупки токенов GHST в UniSwap.
 * Изучите принцип покупки порталов в тестовой сети Kovan.
@@ -68,7 +68,7 @@ Aave и аТокены.
 
 <hr />
 
-### ПЕРЕНОС GHST ИЗ ETHEREUM В POLYGON (ВИДЕО) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### ПЕРЕНОС GHST ИЗ ETHEREUM В POLYGON (ВИДЕО) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Особенности переноса GHST из основной сети ETH в Polygon, ранее называвшийся Matic Network.
 * Способ настройки MetaMask для отображения сети Polygon.
@@ -122,7 +122,7 @@ Aave и аТокены.
 
 <hr />
 
-### УЧАСТИЕ В 4 ЛОТЕРЕЕ <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### УЧАСТИЕ В 4 ЛОТЕРЕЕ <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Как пользоваться [GHST_GG калькулятором](https://ghst.gg/raffle-calculator) лотереи.
 * Стейкинг GHST на Polygon.
@@ -133,7 +133,7 @@ Aave и аТокены.
 <hr />
 
 ### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
 * Get to see how a live GBM Auction looks like
 * Learn how to bid in a GBM Auction
@@ -141,7 +141,7 @@ Aave и аТокены.
 
 <hr />
 
-### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about Aavegotchis and Lickquidators
 * Learn about REALM parcels
@@ -151,7 +151,7 @@ Aave и аТокены.
 
 <hr />
 
-### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about REALM parcels
 * Learn about Gotchus Alchemica
@@ -161,7 +161,7 @@ Aave и аТокены.
 
 <hr />
 
-### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about Traits
 * Learn about the Bell Curve
@@ -170,7 +170,7 @@ Aave и аТокены.
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn how to buy an Aavegotchi on the Baazaar
 * Learn how to buy an opened or a closed portal on the Baazaar

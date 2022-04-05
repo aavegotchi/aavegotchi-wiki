@@ -49,14 +49,14 @@ contributors:
 
 </div>
 
-### Aavegotchi 抽奖券 <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi 抽奖券 <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 学习如何购买抽奖券
 * 学习如何将抽奖票变成抽奖券
 
 <hr />
 
-### 在 Kovan 测试网上获取 Aavegotchi  <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### 在 Kovan 测试网上获取 Aavegotchi  <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 学习如何从 UniSwap 购买 GHST 代币
 * 学习如何在 Kovan 测试网购买传送门
@@ -68,7 +68,7 @@ contributors:
 
 <hr />
 
-### 将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (视频) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### 将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (视频) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 学习如何将你的 GHST 代币从 Ethereum 主网迁移到 Polygon（原 Matic 网络）
 * 学习如何配置 MetaMask 显示 Polygon 网络
@@ -122,7 +122,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
 * 学习如何在 Polygon 上质押 GHST 代币
@@ -133,7 +133,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 <hr />
 
 ### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
 * Get to see how a live GBM Auction looks like
 * Learn how to bid in a GBM Auction
@@ -141,7 +141,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about Aavegotchis and Lickquidators
 * Learn about REALM parcels
@@ -151,7 +151,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about REALM parcels
 * Learn about Gotchus Alchemica
@@ -161,7 +161,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about Traits
 * Learn about the Bell Curve
@@ -170,7 +170,7 @@ Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn how to buy an Aavegotchi on the Baazaar
 * Learn how to buy an opened or a closed portal on the Baazaar

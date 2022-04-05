@@ -36,7 +36,9 @@ Truyền thuyết kể lại về sự xuất hiện sắp tới của The Nine 
 * Ninth Aadept: RyderNasrin
 * The Great Liquidator: Coder Dan
 
-## Chương 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Chương 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -61,11 +61,11 @@ Aavegotchi 成员突破了1000这个历史新高！ 你不再是普通的小伙�
 
 ### 视频类获奖名单
 
-#### <span style="color:gold">第一名：How to Get Started with Aavegotchi，作者 Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">第一名：How to Get Started with Aavegotchi，作者 Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:silver">第二名：Aavegotchi 2 Minute Guide，作者 DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">第二名：Aavegotchi 2 Minute Guide，作者 DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:#cd7f32">第三名：Anon finds Aavegotchi，作者 Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">第三名：Anon finds Aavegotchi，作者 Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 文字类获奖名单
 
@@ -108,7 +108,7 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
 ### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496"></iframe>
 
 ### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
 

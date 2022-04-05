@@ -61,11 +61,11 @@ Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aag
 
 ### Video Category
 
-#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:gold">1st place: How to Get Started with Aavegotchi by Esveebee</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/YOHk0ddoV2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:silver">2nd place: Aavegotchi 2 Minute Guide by DogGodFrogLog</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/VEYopWwDOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+#### <span style="color:#cd7f32">3rd place: Anon finds Aavegotchi by Moon</span> <iframe width="560" height="315" src="https://www.youtube.com/embed/kW0tbHDrQ58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Written Category
 
@@ -108,7 +108,7 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 <img class="bodyImage" src="/contests/thrax.jpg" />
 
 ### <span style="color:silver">2nd place: Cheet0x</span> <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/cheet0x/status/1485677557479530496"></iframe>
 
 ### <span style="color:#cd7f32">3rd place: Occams_Schick</span>
 

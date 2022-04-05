@@ -49,14 +49,14 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 </div>
 
-### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi Raffles <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học cách mua vé Raffle
 * Học cách dùng vé để tham dự Raffle
 
 <hr />
 
-### Cách mua Aavegotchi trên Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Cách mua Aavegotchi trên Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học cách mua token GHST từ Uniswap
 * Học cách mua Portal trên Kovan Testnet
@@ -68,7 +68,7 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 <hr />
 
-### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học cách chuyển token GHST từ Ethereum Mainnet sang Polygon (trước đây là Matic Network)
 * Học cách cấu hình MetaMask để truy cập vào mạng Polygon
@@ -122,7 +122,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Tham gia Raffle <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Tham gia Raffle <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học cách dùng [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) để tính ra cơ hội thắng giải của bạn
 * Học cách stake token GHST trên Polygon
@@ -133,7 +133,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 <hr />
 
 ### Tham gia đấu giá GBM <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
 * Xem sự kiện GBM trực tiếp diễn ra như thế nào
 * Xem các đấu giá trong sự kiện Đấu Giá GBM
@@ -141,7 +141,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Hướng dẫn toàn tập các mua land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Hướng dẫn toàn tập các mua land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học về Aavegotchi và Lickquidator
 * Học về gói đất REALM
@@ -151,7 +151,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Học về gói đất REALM
 * Tìm hiểu về Gotchus Alchemica
@@ -161,7 +161,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Giải Thích về Trait và Bell Curve <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Giải Thích về Trait và Bell Curve <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Tìm hiểu về Trait
 * Tìm hiểu về Bell Curve
@@ -170,7 +170,7 @@ Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/you
 
 <hr />
 
-### Mua Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Mua Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Tìm hiểu về cách mua Aavegotchi trên Baazaar
 * Tìm hiểu về cách mua cổng mở hoặc chưa mở trên Baazaar

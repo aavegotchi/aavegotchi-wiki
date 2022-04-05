@@ -49,14 +49,14 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 
 </div>
 
-### Aavegotchi Lotterijen <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi Lotterijen <iframe width="560" height="315" src="https://www.youtube.com/embed/gRfdL_0_ArA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe je Lotterij tickets kunt kopen
 * Leer hoe je Lotterij tickets in kunt voeren in Lotterijen
 
 <hr />
 
-### Proces om Aavegotchi op Kovan Testnet te krijgen <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Proces om Aavegotchi op Kovan Testnet te krijgen <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe u GHST tokens kunt kopen van UniSwap
 * Leer hoe u Portals kunt kopen op Kovan Testnet
@@ -68,7 +68,7 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 
 <hr />
 
-### GHST token migreren van Ethereum Mainnet naar Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### GHST token migreren van Ethereum Mainnet naar Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe u uw GHST token kunt migreren van Ethereum Mainnet naar Polygon (voorheen Matic Network)
 * Leer hoe u MetaMask kunt configureren om Polygon weer te geven
@@ -122,7 +122,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Deeelnemen aan Lotterij 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Deeelnemen aan Lotterij 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe je [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) gebruikt om je kansen te berekenen om te winnen
 * Leer hoe je GHST tokens op Polygon kunt staken
@@ -133,7 +133,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 <hr />
 
 ### Deelnemen aan GBM veilingen <iframe border=0 frameborder=0 width="560" height="600"
- src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430" mark="crwd-mark"></iframe>
+ src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
 * Bekijk hoe een live GBM vesting eruit ziet
 * Leer hoe je in een GBM veiling kunt bieden
@@ -141,7 +141,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Volledige handleiding voor het kopen van Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Volledige handleiding voor het kopen van Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer meer over Aavegotchis en Lickquidators
 * Meer informatie over REALM parcelen
@@ -151,7 +151,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Meer informatie over REALM parcelen
 * Leer over Gotchus Alchemica
@@ -161,7 +161,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer meer over Eigenschappen
 * Leer meer over de Bell Curve
@@ -170,7 +170,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe je een Aavegotchi op de Baazaar kunt kopen
 * Leer hoe je een geopend of een gesloten portaal kunt kopen op de Baazaar

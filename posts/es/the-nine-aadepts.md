@@ -36,7 +36,9 @@ La leyenda pronostica la llegada de Los Nueve Adeptos! — Un taquillazo de prop
 * Noveno Adepto: RyderNasrin
 * El Gran Liquidator: Coder Dan
 
-## Capítulo 1 <iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen mark="crwd-mark"></iframe>
+## Capítulo 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
