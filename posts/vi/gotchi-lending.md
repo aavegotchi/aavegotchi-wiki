@@ -19,7 +19,7 @@ contributors:
 <ol>
 <li><a href=#what-is-gotchi-lending->Gotchi Lending là gì?</a></li>
 <li><a href=#what-can-i-do-with-gotchi-lending->Mình có thể làm gì với Gotchi Lending?</a></li>
-<li><a href=#instructions>Instructions</a></li>
+<li><a href=#instructions-for-lenders>Instructions for Lenders</a></li>
 </ol>
 
 </div>
@@ -30,7 +30,7 @@ Gotchi Lending là nền kinh tế chia sẻ của Giao Thức Aavegotchi, cho p
 
 Chủ sở hữu Gotchi có thể đặt:
 * bất ký loại phí trả trước nào
-* thời lượng cho thuê
+* the duration of the lending period (maximum of 30 days)
 * tỷ lệ phân chia
 
 Gotchi Lending nằm 100% trên blockchain, cho phép người dùng cho thuê NFT Aavegotchi một cách dễ dàng, không dựa trên niềm tin, và bảo mật.
@@ -41,7 +41,7 @@ Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful fo
 
 Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
 
-## Instructions
+## Instructions for Lenders
 
 **Step 1: Set the Duration and Upfront Cost**
 
