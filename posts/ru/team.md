@@ -43,6 +43,7 @@ contributors:
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins</a></li>
@@ -222,6 +223,15 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 </div>
 
 Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
+
+### Thrax - Media Production
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
+</div>
+
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
 ### JC - Business Development
 
