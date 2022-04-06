@@ -43,8 +43,9 @@ Vous voulez savoir qui est derrière les mignons gotchis ? Nous allons vous mont
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#mori---solidity-developer>Mori - Développeur Solidity</a></p>
-<p><a href=#jc---business-development>JC - Développement commercial</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Responsable d'Aambassadeur</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#jc---business-development>JC - Business Development</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origine</a></li>
 </ol>
 
@@ -223,7 +224,16 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 
 Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### JC - Développement commercial
+### Thrax - Media Production
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
+</div>
+
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+
+### JC - Business Development
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
@@ -232,14 +242,14 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Responsable d'Aambassadeur
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Les choses que Webb adore :
+Things Webb loves:
 * DAOs et defi
 * jeux vidéo, le jeu préféré est dota, le jeux dont il est le plus nostalgique est World of Warcraft
 * longues promenades sur la plage
@@ -261,4 +271,4 @@ And what a salesman he was!  Although unfortunately he wasn't good enough to sel
 
 When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Voici donc comment nos héros se sont unis, quelques détails ont été édités depuis longtemps.
+So this is how our heroes assembled, some details have been edited for time.
