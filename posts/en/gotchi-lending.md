@@ -18,7 +18,7 @@ contributors: ["unintelligent-nerd"]
 <ol>
 <li><a href=#what-is-gotchi-lending->What is Gotchi Lending?</a></li>
 <li><a href=#what-can-i-do-with-gotchi-lending->What can I do with Gotchi Lending?</a></li>
-<li><a href=#instructions>Instructions</a></li>
+<li><a href=#instructions-for-lenders>Instructions for Lenders</a></li>
 </ol>
 
 </div>
@@ -29,7 +29,7 @@ Gotchi Lending is the Aavegotchi Protocol’s sharing economy, that allows users
 
 The owners of the Gotchi are able to set:
 * any up-front fees
-* the duration of the lending period
+* the duration of the lending period (maximum of 30 days)
 * the earnings split
 
 Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
@@ -40,7 +40,7 @@ Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful fo
 
 Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
 
-## Instructions
+## Instructions for Lenders
 
 **Step 1: Set the Duration and Upfront Cost**
 
