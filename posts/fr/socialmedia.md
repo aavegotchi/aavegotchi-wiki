@@ -28,7 +28,7 @@ Bienvenue dans la famille d'Aavegotchi ! Notre communauté est un groupe passion
 <li><a href=#Reddit>Reddit</a></li>
 <li><a href=#Blog>Blog</a></li>
 <li><a href=#Twitch>Twitch</a></li>
-<li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
+<li><a href=#aavegotchi-malaysia>Aavegotchi Malaisie</a></li>
 </ol>
 
 </div>
@@ -79,15 +79,15 @@ environ 3.100 autres frens. Complet avec les autocollants Aavegotchi Telegram, l
 
 &nbsp;<a name="Twitch"></a>
 
-<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Regardez le Gotchiverse en direct sur notre Twitch!**</a>
 
-<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
+<p style="margin-left: 4.8em">Regardez des séquences de gameplay en direct sur notre Twitch!</p>
 
-We look forward to welcoming you, fren! Head over to any of our channels to learn more.
+Nous nous réjouissons de vous accueillir les frens! Rendez-vous sur l'une de nos chaînes pour en savoir plus.
 
-## Aavegotchi Malaysia
+## Aavegotchi Malaisie
 
-Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
+Aavegotchi Malaisie est l'endroit idéal pour se détendre dans la famille Aavegotchi malaisienne ! Découvrez notre [Groupe Facebook](https://www.facebook.com/groups/aavegotchimalaysia)! L'Aambassadeur malaisien Buzz Lightyear / Jason Chew vous souhaite la bienvenue!
 
 
 
