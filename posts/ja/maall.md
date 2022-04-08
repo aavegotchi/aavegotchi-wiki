@@ -24,7 +24,7 @@ The doors to the Maall creaks open.
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#aavegotchi-maall>Aavegotchi Maall</a></li>
