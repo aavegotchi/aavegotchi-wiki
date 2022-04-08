@@ -58,15 +58,15 @@ Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/d
 
 ## aTokenの取得
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
+*以下の手順は、AaveのMedium記事[「Zero to Hero Guide 2.0」](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45)から引用しています。 読者のため、ここに複製してあります。*
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+1).  <a href = "https://app.aave.com/">Aaveプロトコル</a>に向かい、始めましょう
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+2).  ここでは、あなたが持っている財布の種類に応じて、財布をリンクするためにいくつかのオプションがあります。
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3).  Aaveプロトコルを使用する前に、いくつかの暗号資産を持っているべきです。 The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
 If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
