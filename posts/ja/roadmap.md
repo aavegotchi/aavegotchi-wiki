@@ -17,7 +17,7 @@ Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a 
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#incubation>Incubation</a></li>
