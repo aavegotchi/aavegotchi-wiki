@@ -10,14 +10,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/spirit-force/aETH.png">
-<p class="headerImageText">The aETH aToken</p>
+<p class="headerImageText">aETH aトークンとは</p>
 </div>
 
-Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
+すべてのAavegotchiはスピリットフォースによって動きます。 [ポータル](/portals)を開くと、召喚者（あなた！）がゴッチにスピリットフォースを吹き込み、新しい友人を呼び出すことができます。
 
-So what exactly is Spirit Force?
+では、スピリットフォースとは一体何なのでしょうか？
 
-Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
+スピリットフォースとは、Aavegotchiの中に埋め込まれている利権トークンのことです。 時間が経つにつれて、Aavegotchi の価値がどんどん上がっていきます。
 
 In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
 
