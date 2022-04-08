@@ -16,7 +16,7 @@ Haunts are the different editions of Aavegotchis. Learn more about the different
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#haunt-1>Haunt 1</a></li>
