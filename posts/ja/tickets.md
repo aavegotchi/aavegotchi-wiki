@@ -18,7 +18,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
