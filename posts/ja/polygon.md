@@ -17,7 +17,7 @@ Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#why-polygon->Why Polygon?</a></li>
