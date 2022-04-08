@@ -11,7 +11,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#investors>Investors</a></li>
