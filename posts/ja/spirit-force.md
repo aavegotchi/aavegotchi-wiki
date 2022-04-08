@@ -1,11 +1,11 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
-title: 'Spirit Force'
-description: 'All about Aavegotchi Spirit Force'
+title: 'スピリットフォース'
+description: 'スピリットフォースについて'
 image: "spirit-force/aETH.svg"
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -19,11 +19,11 @@ contributors:
 
 スピリットフォースとは、Aavegotchiの中に埋め込まれている利権トークンのことです。 時間が経つにつれて、Aavegotchi の価値がどんどん上がっていきます。
 
-Aavegotchi では、「スピリットフォース」、「コラテラル」、「aTokens」、「maTokens」、「amTokens」という用語は同じものを意味します。 混乱しましたか？ 詳しくは、この[履歴のページ](/spirit-force-history)をご覧ください。
+Aavegotchi では、「スピリットフォース」、「コラテラル」、「aToken」、「maToken」、「amToken」という用語は同じものを意味します。 混乱しましたか？ 詳しくは、この[履歴のページ](/spirit-force-history)をご覧ください。
 
 このページでは、利用可能なaTokenとは何なのか、どのように入手するのかについて、役立つ情報が記されています。
 
-Polygonでゴッチを召喚するには、最終的に**maTokens/amTokensが必要になる**ことに注意してください。 aTokensを使わなくてもmaTokensを入手する方法はいろいろあります。 しかし、ここでは代表的な方法として、aTokensの入手方法を説明します。
+Polygonでゴッチを召喚するには、最終的に**maToken/amTokenが必要になる**ことに注意してください。 aTokenを使わなくてもmaTokenを入手する方法はいろいろあります。 しかし、ここでは代表的な方法として、aTokenの入手方法を説明します。
 
 <div class="contentsBox">
 
@@ -46,7 +46,7 @@ Polygonでゴッチを召喚するには、最終的に**maTokens/amTokensが必
 
 aTokenは2つのカテゴリーに分類されます：(1) 暗号通貨、(2) ステーブルコイン。 暗号通貨は、暗号技術によって保護されたデジタルまたは仮想の通貨です。 多くの暗号通貨は、ブロックチェーン技術（コンピュータの異種ネットワークによって実施される分散型台帳）に基づく分散型ネットワークです。 ステーブルコインは、米ドル（USD）などの外部参照通貨にペッグされることで価格の安定を図る暗号通貨の一種です。 ペッグの基本的な仕組みはステーブルコインによって異なり、それぞれ独自のリスクプロファイルを持っています。
 
-Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)（暗号通貨およびステーブルコイン）が利用可能です。 *Supported by Aavegotchi*の列は、特定の aToken が Aavegotchi ゲームプレイで利用可能かどうかを示しています。 サポートされるaTokensのリストは最終的なものではなく、プレイヤーの需要に応じてAavegotchiのゲームプレイに使用できるaTokensを追加するためにTwitter投票/DAO投票が行われる予定です。
+Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)（暗号通貨およびステーブルコイン）が利用可能です。 *Supported by Aavegotchi*の列は、特定の aToken が Aavegotchi ゲームプレイで利用可能かどうかを示しています。 サポートされるaTokenのリストは最終的なものではなく、プレイヤーの需要に応じてAavegotchiのゲームプレイに使用できるaTokenを追加するためにTwitter投票/DAO投票が行われる予定です。
 
 ## ステーブルコイン
 
@@ -70,26 +70,26 @@ Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/d
 
 暗号通貨を所有していないが、参加したい場合は、不換紙幣（ドル、ユーロなどの通常のお金）を暗号資産（上記のうちの1つなど）に変換する必要があります。
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+ラッキーなことに、Aaveは最近、Aaveプロトコルアプリケーションから直接暗号資産を購入できるフィアット通貨から暗号通貨へのオンランプを導入しました！ 今では、TransakまたはRamp Instantを使用して、わずか数分でクレジットカードまたはデビットカードまたはワイヤー送金で直接選択した資産を購入することができます（下記参照）。
 
 <img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
+4).  自分のウォレットをプラットフォームに接続したら、Aaveプロトコルにアセットを入金することができます。 「入金」をクリックすると、入金可能なウォレット内の資産がインターフェースに表示されます。 その後、入金したい資産を選択し、入金額を選択すると、入金完了です。 *注：実際の入金処理の前に、「承認」処理が行われます。 これは、預け入れようとしている特定の資産を使用する許可を預け入れ契約に与えるためのものです。*
 
 <img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
 
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
+預金取引が成立すると、すぐに預金金利の恩恵を受けることができます。 入金したアセットのaTokenバージョンがウォレットで確認できるようになります。
 
 ## aTokenをmaTokenに変換する
 
-Got your aTokens? Good!
+aTokenを手に入れましたか？ それはよかった！
 
-Let's head over to the [maTokens](/matokens) page for Step 2!
+ステップ2の[maToken](/matokens)のページに行きましょう!
 
 ## maTokenとamTokenの違いについて
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するHaunt 1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
