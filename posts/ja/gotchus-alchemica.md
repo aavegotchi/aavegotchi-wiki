@@ -18,7 +18,7 @@ They are on-chain, freely tradable ERC-20 tokens.
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#utility>Utility</a></li>
