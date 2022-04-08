@@ -23,7 +23,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#key>Key</a></li>
