@@ -16,7 +16,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#rules>Rules</a></li>
