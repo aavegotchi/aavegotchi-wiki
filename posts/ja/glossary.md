@@ -22,7 +22,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
