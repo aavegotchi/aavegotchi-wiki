@@ -13,7 +13,7 @@ You now have proof that you voted!
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#what-are-poaps->What are POAPs?</a></li>
