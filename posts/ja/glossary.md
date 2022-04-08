@@ -7,7 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
