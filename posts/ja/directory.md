@@ -91,7 +91,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Polygon](/polygon)
 
-* [Portals](/portals)
+* [ポータル](/portals)
 
 * [Raffles Statistics](/raffles-stats)
 
