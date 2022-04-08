@@ -5,7 +5,7 @@ title: 'Gotchiverse'
 description: 'All about the Gotchiverse'
 contributors:
   - "eris771"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
