@@ -20,7 +20,7 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#mechanics>Mechanics</a></li>
