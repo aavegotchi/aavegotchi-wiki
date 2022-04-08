@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Milestones'
 description: 'Milestones of the Aaavegotchi Project'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 ## [Limited Edition Golden Tile NFTs](https://blog.aavegotchi.com/aavegotchi-limited-edition-golden-tile-nfts-are-coming-to-the-gotchiverse/)
