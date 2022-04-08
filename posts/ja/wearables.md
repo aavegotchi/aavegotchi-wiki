@@ -6,7 +6,7 @@ description: 'All about Aavegotchi Wearables'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
