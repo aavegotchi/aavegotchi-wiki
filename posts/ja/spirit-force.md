@@ -66,9 +66,9 @@ Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/d
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3).  Aaveプロトコルを使用する前に、いくつかの暗号資産を持っているべきです。 The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+3).  Aaveプロトコルを使用する前に、いくつかの暗号資産を持っているべきです。 利用可能な暗号資産の一覧は、上記の<a href=#stablecoins>「ステーブルコイン」</a>と<a href=#cryptocurrencies>「暗号通貨」</a>のセクションに記載されています。
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+暗号通貨を所有していないが、参加したい場合は、不換紙幣（ドル、ユーロなどの通常のお金）を暗号資産（上記のうちの1つなど）に変換する必要があります。
 
 Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
