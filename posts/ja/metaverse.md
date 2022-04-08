@@ -5,7 +5,7 @@ title: 'Gotchiverse'
 description: 'All about the Gotchiverse'
 contributors:
   - "eris771"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <meta http-equiv="refresh" content="0; URL='https://wiki.aavegotchi.com/gotchiverse'" />
