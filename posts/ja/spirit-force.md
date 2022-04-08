@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/spirit-force/aETH.png">
-<p class="headerImageText">aETH aトークンとは</p>
+<p class="headerImageText">aETH aTokenとは</p>
 </div>
 
 すべてのAavegotchiはスピリットフォースによって動きます。 [ポータル](/portals)を開くと、召喚者（あなた！）がゴッチにスピリットフォースを吹き込み、新しい友人を呼び出すことができます。
@@ -19,44 +19,44 @@ contributors:
 
 スピリットフォースとは、Aavegotchiの中に埋め込まれている利権トークンのことです。 時間が経つにつれて、Aavegotchi の価値がどんどん上がっていきます。
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
+Aavegotchi では、「スピリットフォース」、「コラテラル」、「aTokens」、「maTokens」、「amTokens」という用語は同じものを意味します。 混乱しましたか？ 詳しくは、この[履歴のページ](/spirit-force-history)をご覧ください。
 
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
+このページでは、利用可能なaTokenとは何なのか、どのように入手するのかについて、役立つ情報が記されています。
 
-Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+Polygonでゴッチを召喚するには、最終的に**maTokens/amTokensが必要になる**ことに注意してください。 aTokensを使わなくてもmaTokensを入手する方法はいろいろあります。 しかし、ここでは代表的な方法として、aTokensの入手方法を説明します。
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#about>About</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
+<li><a href=#about>概要</a></li>
+<li><a href=#stablecoins>ステーブルコイン</a></li>
+<li><a href=#cryptocurrencies>暗号通貨</a></li>
+<li><a href=#getting-atokens>aTokenの取得</a></li>
+<li><a href=#converting-atokens-into-matokens>aTokenをmaTokenに変換する</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>maTokenとamTokenの違いについて</a></li>
 </ol>
 
 </div>
 
-## About
+## 概要
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+原資産は借り手に貸し出されますが、aTokenはあなたのウォレットに直接、リアルタイムで利子が発生します。 つまり、あなたの残高が1分ごとに増えていくのを見ることができるのです。
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
+aTokenは2つのカテゴリーに分類されます：(1) 暗号通貨、(2) ステーブルコイン。 暗号通貨は、暗号技術によって保護されたデジタルまたは仮想の通貨です。 多くの暗号通貨は、ブロックチェーン技術（コンピュータの異種ネットワークによって実施される分散型台帳）に基づく分散型ネットワークです。 ステーブルコインは、米ドル（USD）などの外部参照通貨にペッグされることで価格の安定を図る暗号通貨の一種です。 ペッグの基本的な仕組みはステーブルコインによって異なり、それぞれ独自のリスクプロファイルを持っています。
 
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
+Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)（暗号通貨およびステーブルコイン）が利用可能です。 *Supported by Aavegotchi*の列は、特定の aToken が Aavegotchi ゲームプレイで利用可能かどうかを示しています。 サポートされるaTokensのリストは最終的なものではなく、プレイヤーの需要に応じてAavegotchiのゲームプレイに使用できるaTokensを追加するためにTwitter投票/DAO投票が行われる予定です。
 
-## Stablecoins
+## ステーブルコイン
 
-table_stablecoins
+表_stablecoins
 
-## Cryptocurrencies
+## 暗号通貨
 
-table_cryptocurrencies
+表_cryptocurrencies
 
-## Getting aTokens
+## aTokenの取得
 
 *The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
 
@@ -80,13 +80,13 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Converting aTokens into maTokens
+## aTokenをmaTokenに変換する
 
 Got your aTokens? Good!
 
 Let's head over to the [maTokens](/matokens) page for Step 2!
 
-## Differences between maTokens and amTokens
+## maTokenとamTokenの違いについて
 
 Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
