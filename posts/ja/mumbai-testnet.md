@@ -11,7 +11,7 @@ The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you ha
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
