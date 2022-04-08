@@ -14,7 +14,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#what-is-gotchi-lending->What is Gotchi Lending?</a></li>
