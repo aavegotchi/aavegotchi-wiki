@@ -18,7 +18,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
