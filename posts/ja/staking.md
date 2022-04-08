@@ -5,7 +5,7 @@ title: 'Staking'
 description: 'Stake GHST, Make FRENS'
 contributors:
   - "mudgen"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 
