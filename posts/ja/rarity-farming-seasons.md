@@ -11,7 +11,7 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#season-1>Season 1</a></p>
