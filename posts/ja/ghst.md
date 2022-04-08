@@ -22,7 +22,7 @@ Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#why-ghst>Why GHST?</a></li>
