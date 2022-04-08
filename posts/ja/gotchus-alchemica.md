@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchus Alchemica'
 description: 'Gotchus Alchemica'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 Gotchus Alchemica are the 4 elements of the [Gotchiverse](/gotchiverse):
