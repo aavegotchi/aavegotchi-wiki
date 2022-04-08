@@ -22,7 +22,7 @@ On 15 April 2021, history was made. Captain Terence McKenna and his team success
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#the-aastronauts>The Aastronauts</a></li>
