@@ -5,7 +5,7 @@ title: 'Roadmap'
 description: 'The Aavegotchi Roadmap'
 contributors:
   - "hackingmoneyph"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
