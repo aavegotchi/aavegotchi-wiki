@@ -65,7 +65,7 @@ The valuation of an Aavegotchi comes from both from its intrinsic value and from
 
 ## The Aavegotchi Universe
 The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
+* [ポータル](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
 * [Aavegotchi Realm](/gotchiverse)
