@@ -11,30 +11,30 @@ image: "portals/portal.gif"
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/portals/portal.gif">
-<p class="headerImageText">An Aavegotchi Portal</p>
+<p class="headerImageText">Aavegotchiポータル</p>
 </div>
 
-How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course!
+Aavegotchiを召喚して、ネザーから画面に連れてくるにはどうしたらいいのでしょうか？ それはもちろん、ポータルで！
 
-Peer deep into its purple depths and see what lurks beneath – you’ll find a friend. Or more specifically, 10 friends.
+紫色の深淵を覗き込むと、そこには友達がいます。 仲間は10人。
 
-So put on your wizard cap – it’s time to learn more about Portals and the Aavegotchi summoning process. 
+さあ！魔法使いの帽子をかぶって、いざ、ポータルとAavegotchiの召喚方法についてもっと知ろう！ 
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#buying-a-portal>Buying a Portal</a></li>
-<li><a href=#opening-your-portal>Opening your Portal</a></li>
-<li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
-<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
-<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
+<li><a href=#buying-a-portal>ポータルを購入する</a></li>
+<li><a href=#opening-your-portal>購入したポータルを開ける</a></li>
+<li><a href=#claiming-an-aavegotchi>Aavegotchiをクレームする（受け取る）</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Aavegotchiと交流する</a></li>
+<li><a href=#transferring-your-aavegotchi>Aavegotchiを転送する</a></li>
 </ol>
 
 </div>
 
-## Buying a Portal
+## ポータルを購入する
 
 Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
@@ -49,7 +49,7 @@ Aauctions and Raffles are time-limited events. If you miss out on them, the only
 Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
-## Opening your Portal
+## 購入したポータルを開ける
 
 Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
@@ -71,7 +71,7 @@ table_PortalTraitTable
 More information on rarity farming can be found [here](/rarity-farming).
 
 
-## Claiming an Aavegotchi
+## Aavegotchiをクレームする（受け取る）
 
 To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
@@ -99,13 +99,13 @@ You can increase or decrease the Spirit Force (staked aToken amount) of your Aav
 
 To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
-## Interacting with your Aavegotchi
+## Aavegotchiと交流する
 
 Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
 Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
-## Transferring your Aavegotchi
+## Aavegotchiを転送する
 
 Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
 
