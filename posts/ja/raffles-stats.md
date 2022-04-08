@@ -15,7 +15,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#wearable-raffles>Wearable Raffles</a></li>
