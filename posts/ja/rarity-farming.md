@@ -22,7 +22,7 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#how-do-i-rarity-farm->How Do I Rarity Farm?</a></p>
