@@ -1,11 +1,11 @@
 ---
-author: appellants
+author: アペランツ
 date: '2020-04-23T07:00:00.000Z'
-title: 'Portals'
-description: 'All about Aavegotchi Portals'
+title: 'ポータル'
+description: 'Aavegotchiポータルの全て'
 contributors:
-  - "appellants"
-  - "unintelligent-nerd"
+  - "アペランツ"
+  - "アンインテリジェント・ナード"
 image: "portals/portal.gif"
 ---
 
@@ -57,7 +57,7 @@ Aavegotchiを召喚して、ネザーから画面に連れてくるにはどう�
 
 この処理をまとめた便利なフローチャートがこちらです。
 
-<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
+<img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Aavegotchiポータルを開ける手順" />
 
 ポータルを開くと、10種類のAavegotchiが表示され、その中から選んでネザーから呼び出すことができます。 10体の中から1体を選んで召喚してください。 残りは、残念ながら消えてしまいます。
 
@@ -93,26 +93,26 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
+例えば、Base Rarity Scoreが300未満の場合、ゴッチを召喚するためには最低でも10DAI分の担保を預ける必要があります。
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+Aavegotchiの霊力（預けられたaTokenの量）は後でAavegotchi Dapp UIから増減することができます。
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+Gotchiを請求するには、2つのトランザクションを実行する必要があります。 まず、スマートコントラクトを承認し、ウォレット内のaTokenを使用できるようにする必要があります。 その後のトランザクションで、Aavegotchiを受け取ることができます。
 
 ## Aavegotchiと交流する
 
-Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
+ゴッチの受け取りが完了したら、次は......*ドラムロール*......Aavegotchiと一緒に遊ぼう!
 
-Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
+Aavegotchiの[プロフィールページ](/aavegotchi-profile)をチェックしてみてください。
 
 ## Aavegotchiを転送する
 
-Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+Aavegotchi を新しい所有者に譲渡する（取引する）と、Aavegotchi の背後にある担保や、Aavegotchi のインベントリ内のアイテムやウェアラブルも譲渡されます。 これは、OpenSea などのオンラインマーケットプレイスで Aavegotchi を取引するときに起こります。
 
-If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
+Aavegotchi の裏付けとして預けた担保を回収したい場合は、2 つの方法があります。
 
-1. **Reduce the amount of collateral** in your Aavegotchi (but not below it's minimum stake).
+1. Aavegotchi の**担保の量を減らす** (ただし、最低必要額以下にはしない)。
 
-2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral.
+2. Aavegotchiを**燃やす**と、Aavegotchiはネザーに戻され、担保がすべて返却されます。
 
-**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+**OpenSeaなどの二次市場にAavegotchiを出品する前に、Dapp UIからAavegotchiを「ロック」して、買い手がAavegotchiの持ち物をすべて一緒に譲渡できるようにしてください。**
