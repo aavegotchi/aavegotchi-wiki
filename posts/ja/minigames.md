@@ -22,7 +22,7 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#xp-rewards-for-mini-games>XP Rewards for Mini-Games</a></li>
