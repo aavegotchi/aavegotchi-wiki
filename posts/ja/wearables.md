@@ -1,8 +1,8 @@
 ---
-author: Coder Dan
+author: コーダー・ダン
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+title: 'ウェアラブル'
+description: 'Aavegotchiウェアラブルについて'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
