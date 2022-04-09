@@ -11,14 +11,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/wearables/sergey-blue.png">
-<p class="headerImageText">The Sergey Blue Plaid</p>
+<p class="headerImageText">セルゲイの青いタータンチェック</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です。 Aavegotchiにファッションセンスを与えるだけでなく、Aavegotchiの特性やレアリティスコアを上げ、[ミニゲーム](/minigames)や[レアリティファーミング](/rarity-farming)をより有利に進めることができます。
 
-Wearables conform to the ERC-1155 standard.
+ウェアラブルはERC-1155規格に準拠しています。
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
+このページでは、Aavegotchiのゲーム内で確認されているすべてのウェアラブルについて、詳細な情報を掲載しています。
 
 Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
 
