@@ -109,7 +109,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Spirit Force History](/spirit-force-history)
 
-* [Staking](/staking)
+* [ステーキング](/staking)
 
 * [Team](/team)
 
