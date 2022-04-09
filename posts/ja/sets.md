@@ -26,19 +26,19 @@ The colour of the border surrounding the wearables indicates its rarity:
 **目次**
 
 <ol>
-<li><a href=#key>Key</a></li>
+<li><a href=#key>キー</a></li>
 <li><a href=#wearable-sets>アイテムセット</a></li>
 </ol>
 
 </div>
 
-## Key
+## キー
 
 * BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG＝攻撃性
+* NRG＝エネルギー
+* SPK = 不気味さ（おどろおどろしさ）
+* BRN = 脳の大きさ
 
 ## アイテムセット
 
