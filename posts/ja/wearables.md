@@ -22,7 +22,7 @@ Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です�
 
 ウェアラブルのデザインは、[Xibot](/team#xibot)と[コミュニティアーティスト](/aartist)が担当しています。 各ウェアラブルには4つのビュー（正面、右側、左側、背面）があります。
 
-<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi ウェアラブル - 4件のビュー" />
 
 **ウェアラブルセット**に関する情報は、[こちらのページ](/sets)をご覧ください。
 
@@ -236,4 +236,4 @@ AavegotchiとVenlyのコラボにより、Aavegotchiを大勢のNFTゲームフ�
 
 ## DeFi RPG・ウェアラブル
 
-table_DeFiRPGTable
+表＿DeFiRPG表
