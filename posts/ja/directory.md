@@ -33,7 +33,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Contracts](/contracts)
 
-* [Bonding Curve](/curve)
+* [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
