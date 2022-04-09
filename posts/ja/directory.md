@@ -19,7 +19,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [エージングメカニズム](/aging-mechanic)
 
 * [Baadge](/baadge)
 
@@ -59,13 +59,13 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Guild](/guild)
 
-* [Haunt](/haunt)
+* [ハウント](/haunt)
 
 * [Home](/index)
 
 * [Introduction](/introduction)
 
-* [Kinship](/kinship)
+* [キンシップ](/kinship)
 
 * [Maall](/maall)
 
