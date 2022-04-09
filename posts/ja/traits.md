@@ -45,7 +45,7 @@ RPG（ロールプレイングゲーム）用語で、`AGG`はStrength（強さ�
 
 特性値の分布のベルカーブは次のようなものです：
 
-<img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
+<img class="bodyImage" src="/traits/bell_curve.png" alt = "ベル曲線" />
 
 Avegotchiは当初6つの特性を持っていますが、将来的には[AvegotchiDAO](/dao)の投票によって拡張される可能性があります。 Aavegotchi の体の色（白以外）のようないくつかの特性は、新しいハウントごとに AavegotchiDAO によって定義されます。
 
@@ -85,14 +85,14 @@ AavegotchiはXPをより多く獲得することでレベルアップします�
 
 ゴッチレベルが高いほど、より多くの[ギルド](/guild)に参加することができます。
 
-For detailed information on the XP required for each level, click [here](/xp).
+各レベルに必要なXPの詳細については、[こちら](/xp)をご覧ください。
 
-Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+あなたのAavegotchiのレベルは[Aavegotchiプロフィールページ](/aavegotchi-profile)で確認することができます。
 
 ## ハウント
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Aavegotchiは新世界の開拓者のように、ネザー界からエーテル界へ、「[ハウント](/haunt)」と呼ばれる集団で移動します。 最初のハウントには10,000匹のAavegotchiがいます。 その後、新たなハウントは[AavegotchiDAO](/dao)の許可を得なければなりません。 一部のウェアラブルは、特定のハウントに所属するAavegotchiのみが着用できます。
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
+ハウントはエディションと考え、ハウント番号はゴッチに表示されます。 なお、各ハウントのステータスに違いはありません。
 
 ## エージングメカニズム
 
@@ -100,4 +100,4 @@ Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを�
 
 ゴッチは、年をとる事につれてレア度が少しブーストされるはずです。 それは、召喚の統計的差異を打ち消し、長期的な関与に報いるためです。
 
-For more information, check out the [Aging Mechanic](/aging-mechanic) page.
+詳しくは、[エイジングメカニズム](/aging-mechanic)のページをご覧ください。
