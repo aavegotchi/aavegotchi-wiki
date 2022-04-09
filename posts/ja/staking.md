@@ -1,10 +1,10 @@
 ---
-author: Nick Mudge
+author: ニック・マッジ
 date: '2020-04-23T07:00:00.000Z'
-title: 'Staking'
-description: 'Stake GHST, Make FRENS'
+title: 'ステーキング'
+description: 'GHSTを預けてFRENSを稼ごう'
 contributors:
-  - "mudgen"
+  - "マッドジェン"
   - "アンインテリジェント・ナード"
 ---
 
@@ -137,7 +137,7 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 * GHST-ETHステーキング
 
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
+<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi X DinoSwap LPチートシート" />
 
 ### ステーキング利益表
 
