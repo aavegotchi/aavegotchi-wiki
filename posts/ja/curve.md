@@ -45,7 +45,7 @@ contributors:
 
 ボンディングカーブには、さまざまな形や大きさがあります。 Aavegotchiプロジェクトでは、Bancor Formulaを採用しました：
 
-<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
+<img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "トークン・ボンディング・カーブ" width = "750" />
 
 ### 計算式の説明
 
@@ -78,28 +78,28 @@ Aavegotchi ボンディングカーブは、2020年9月14日に[Aragon Fundraisi
 もし、国籍の問題でKYCができない場合でも、ご安心ください。 **Aavegotchiメタバースの他のすべての部分と相互作用することができます。**UniswapやBalancerなどのDEX、またはOKexなどのCEXからGHSTを購入すればいいだけです。 GHSTトークンの入手方法については[こちら](/ghst#get-ghst)をご覧ください。
 
 ## Aavegotchi DAICO
-A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
+DAICO（Decentralized Autonomous Initial Coin Offering）は、DAO（Decentralized Autonomous Organization）とICO（Initial Coin Offering）の良いところを取り入れ、トークンセールの資金調達モデルをより効果的にする仕組みを目指す新しい資金調達方法である。 DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
 
-The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
+Aavegotchiプロジェクトは、AragonのDAICOを通じて、トークン・ボンディング・カーブを開始しました。
 
-**This is SAFU. Do. Not. Remove. The. Bonding. Curve.** It prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
+**これはSAFU（セーフ）。 ボンディング・ カーブ は 絶対 に 消すべからず！**最終的にDAICO/ボンディングカーブ内の資金をコントロールできるため、投資家がボロ負けするのを防ぐことができます!
 
-The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
+[AavegotchiDAO](/dao)の最初のイテレーションは、ボンディングカーブ上のGHSTの分配と連動してローンチされました。 GHSTホルダーは、トークン・ボンディング・カーブ（TBC）のタップ・メカニクスによってPixelcraft Studios（Aavegotchiの開発チーム）に分配される資金の増加/維持について投票する権限を持ち、開発をサポートしてきました。 Aavegotchi DAICOのタップを毎月5万DAIから10万DAIに増やすという最初のAavegotchiDAOの提案は、2020年10月18日に99％の賛成を得て可決されました。
 
 ## Aavegotchi トークン供給ダイナミクス
-In our discussion of the token bonding curve/DAICO above, we learned that the total supply of the GHST token is dynamic. When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
+上記のトークン・ボンディング・カーブ／DAICOの議論で、GHSTトークンの総供給量が動的であることを学びました。 投資家がボンディングカーブからDAIを使ってGHSTを購入すると、新しいGHSTトークンが鋳造され、流通するGHSTの総供給量は増加することになります。 GHSTトークンがボンディングカーブに戻って売られると、GHSTトークンは燃やされ、売り手はボンディングカーブの実勢GHST価格に基づいて相当額をDAIで受け取り、GHSTトークンの流通供給量は減ります。
 
-The inflation of GHST tokens through net purchases on the bonding curve is positively correlated to the GHST price. **The bonding curve has been mathematically programmed to increase the price of GHST as the circulating supply of GHST increases.**
+ボンディングカーブでの純購入によるGHSTトークンのインフレは、GHST価格と正相関があります。 **ボンディングカーブは、GHSTの流通供給が増加するとGHSTの価格が上昇するように数学的にプログラムされています。**
 
 ## アービトラージ
-For users who have completed KYC, they will be able to arbitrage the GHST price differences between the token bonding curve and other DEXes such as Uniswap and Balancer. According to [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is the purchase and sale of an asset in order to profit from a difference in the asset's price between markets. It is a trade that profits by exploiting the price differences of identical or similar financial instruments in different markets or in different forms. Arbitrage exists as a result of market inefficiencies and would therefore not exist if all markets were perfectly efficient." This is possible as DEXes come equipped with their own Automated Market Maker (AMM) formula and the net purchase/sale actions of GHST tokens on these DEXes would result in prices that are different from the token bonding curve. A savvy investor might consider exploiting such inefficiencies in the market (*alpha leak here*).
+KYCを完了したユーザーは、トークンのボンディングカーブとUniswapやBalancerといった他のDEXとのGHST価格差をアービトラージ（裁定）することができます。 [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp)によると、「アービトラージ取引とは、市場間の資産価格の差から利益を得るために資産を売買することである。 異なる市場、異なる形態の同一または類似の金融商品の価格差を利用して利益を得る取引である。 アービトラージ取引は市場の非効率性の結果として存在し、したがって、すべての市場が完全に効率的であれば存在しない。」 DEXは独自の自動マーケットメーカー（AMM）方式を備えており、これらのDEXでのGHSTトークンの純購入/売却行為は、トークン・ボンディング・カーブとは異なる価格になるため、これは可能である。 経験豊富な投資家は、市場のこのような非効率性を利用することを考えるかもしれません（*アルファリークはこちら*）。
 
 ## もっと詳しく
 
-* For more on [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Aragon Fundraisingとボンディングカーブについてもっと知りたい方は[こちら](https://fundraising.aragon.black/components/bonding-curve)!
 
-* Read more at [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
+* [ボンディングカーブの説明](https://yos.io/2018/11/10/bonding-curves/)で詳しく読む
 
-* Article on [Bonding Curves](https://defiprime.com/bonding-curve-explained) by DeFi Prime.
+* デフィプライムによるボンディングカーブに関する[記事](https://defiprime.com/bonding-curve-explained)。
 
-* Article on [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) by the Coin Telegraph.
+* コインテレグラフによるDAICOの[記事](https://cointelegraph.com/explained/what-is-a-daico-explained)。
