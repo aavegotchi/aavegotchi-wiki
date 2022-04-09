@@ -1,5 +1,5 @@
 ---
-author: Nick Mudge
+author: ニック・マッジ
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
 description: 'Aavegotchi Tickets and Raffle prizes!'
