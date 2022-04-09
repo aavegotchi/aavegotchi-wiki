@@ -34,7 +34,7 @@ GHSTのステーキングのやり方については、こちらをご覧くだ�
 <li><a href=#purchasing-ghst>GHSTの購入</a></li>
 <li><a href=#how-to-stake>ステーキングのやり方</a></li>
 <li><a href=#staking-contract-addresses>ステーキング・コントラクト・アドレス</a></li>
-<li><a href=#what-s-next->次は？</a></li>
+<li><a href=#what-s-next->次は何をする？</a></li>
 </ol>
 
 </div>
@@ -45,7 +45,7 @@ GHSTのステーキングのやり方については、こちらをご覧くだ�
 ## ステーキングのやり方
 GHSTトークンを手に入れたら、[ステーキングページ](https://aavegotchi.com/stake-polygon)でステークすることができます。 ステーキングはPolygon（旧Matic Network）上で行われます。
 
-<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
+<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST ステーキング UI" />
 
 ステーキングの方法は5つあります：
 
@@ -99,60 +99,60 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 なぜGHSTトークンを直接ステークするのとLPステークで得られるFRENSの数に大きな差があるのですか？ LPトークンのステーキングには、[インパーマネント・ロス](/glossary#impermanent-loss)のリスクがあります。 そのリスクの増加に対して補償されるのです。
 
-なぜGHST-USDCプールは1日に7400万FRENSの利回りがあるのですか？ QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 Hence, when depositors add to the pool, they receive tiny amounts of LP tokens, like 0.00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+なぜGHST-USDCプールは1日に7400万FRENSの利回りがあるのですか？ QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 この[ツイート](https://twitter.com/coderdannn/status/1362423402871447554)を見て、是非笑ってください。
 
-### Staking GHST-WETH
+### GHST-WETHのステーキング
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* ステップ1：[quickswap.exchange](https://quickswap.exchange/)にアクセスし、> プール > リキディティーを追加を選択します。
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* ステップ2：GHSTとETHをGHST-ETHリキディティープールに等しく入金します。
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* ステップ3：その見返りとして、GHST-WETH LPトークンを受け取ります。
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* ステップ4：そのLPトークンを受け取り、[aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)でステークする。
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* ステップ5：お返しにFRENSポイントを獲得し、stkGHST-WETHトークンを入手します。
 
-* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
+* ステップ6：[dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farmsに入金し、DINOをファームします。
 
-* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
+* ボーナス：DINOをGHST Extinction Poolに送ると、さらにGHSTを獲得できます。
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+この方法で1GHST-ETH LPトークンをステークするごとに、1,208万FRENS /日（GHSTをステークするよりも20％多く）を受け取ることができます。
 
-### Staking GHST-MATIC
+### GHST-MATICのステーキング
 
-* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+* ステップ1：[sushi.com](https://sushi.com/)にアクセスし、アプリに入る
 
-* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+* ステップ2：GHST-MATICのプールにリキディティーを追加します。 すると、GHST-MATIC LP トークンを受け取ることができます
 
-* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
+* ステップ3：GHST-MATIC LP トークンを取り、[Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) に預ける。 LPトークンをステーキングした後、stkGHST-MATICレシートトークンを受け取ります。
 
-### Staking Cheatsheets!
+### ステーキング・チートシート
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+より視覚的なものがお好みでしたら、ステーキング・チートシートをご覧ください！
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* GHSTステーキングとGHST-QUICK/GHST-USDCステーキング
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHSTからMaticへのチートシート" />
 
-* GHST-ETH Staking
+* GHST-ETHステーキング
 
 <img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
-### Staking Returns Table
+### ステーキング利益表
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+下の表は、GHSTを直接ステーキングした場合の基準に対して、ステーキングリターン（FRENS換算）をパーセンテージでまとめたものです。
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+なお、Pixelcraftチームは、システムのバランスを取るために、FRENSの金額を随時更新することがあります。
 
-table_stakingReturns
+表_ステーキングリターン
 
 ## ステーキング・コントラクト・アドレス
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+次の表は、Polygon上の様々なステーキングコントラクトのアドレスを示しています。 ghstStakingとstkGHSTQUICKの契約は同じ契約アドレスを共有しています。 取引を確定する前に、まず契約書のアドレスを確認してください。
 
-table_stakingContractAddresses
+表_ステーキング・コンタクト・アドレス
 
-## 次は？
+## 次は何をする？
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+さて、FRENSを手に入れましたか？ [チケットのページ](/tickets)に行き、FRENSでチケットを購入する方法とラッフルに参加する方法を学んでください。
