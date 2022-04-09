@@ -51,31 +51,31 @@ contributors:
 
 **リザーブ・トークン**とは、ユーザーがボンディング・カーブに投入するトークンのことです。
 
-The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
+**コンティニュアス・トークン**とは、リザーブ・トークンをステークした際にボンディング・カーブから受け取るトークンのことです。
 
-In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively.
+Aavegotchiの場合、リザーブ・トークンとコンティニュアス・トークンはそれぞれDAIとGHSTである。
 
-The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
+**コネクティング・ウェイト**（リザーブ比率ともいう）は、コンティニュアス・トークンの総価値（供給総量×単価）とリザーブ・トークン残高の価値との間の一定の比率（0～100%）を表します。  このCWは、リザーブ・トークンの残高とコンティニュアス・トークンの合計価値（別名 「時価総額」）が売買によって変動するため、Bancor Formulaによって一定に保たれる。
 
-Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
+コンティニュアス・トークン（GHST）を売買するたびにリザーブ・トークン（DAI）が増減するトリガーとなります。 そして、そのリザーブ・トークンに対するコンティニュアス・トークンの価格は、両者の間に設定されたコネクティング・ウェイトを維持するために継続的に再計算されなければなりません。
 
 
-The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
+コネクティング・ウェイトは、取引のたびに維持するためにコンティニュアス・トークンの価格をどれだけ急激に調整する必要があるか、言い換えれば、その価格感度を決定するものです。
 
-A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
+リザーブ・トークン残高とコンティニュアス・トークンの間の積立比率が高いほど、価格感応度は低くなり、各売買がコンティニュアス・トークンの値動きに与える影響は比例しないことを意味します。 逆に、リザーブ・トークンの残高とコンティニュアス・トークンの比率が低いと、価格感応度が高くなり、それぞれの売買がコンティニュアス・トークンの値動きに比例して大きく影響することになります。
 
-**Aavegotchi's Reserve Ratio is 33% frens!** This means you don't need to fear dem whales. They can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
+**Aavegotchiのリザーブ比率は33%だよ、フレン！**つまり、クジラを恐れる必要はないのです。 彼らの巨額の取引に対してボンディングカーブが硬化しているので、彼らはGHSTをパンプ & ダンプすることができません！
 
-If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
+実際に見てみたい方は、Coderdanが作成したボンディング・カーブの[インタラクティブ・モデル](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve)をご覧ください。
 
-TEH CURVE IS FOREVER!
+カーブは永遠に！
 
 ## Aavegotchi ボンディング・カーブ
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+Aavegotchi ボンディングカーブは、2020年9月14日に[Aragon Fundraising](https://fundraising.aragon.black/)が提供するボンディングカーブのスマートコントラクトによって作成されました。 50万GHSTでのプリセール終了後、すぐにボンディングカーブがオープンされました。 ボンディングカーブにはサイズ制限も時間制限もなく、1GHSTあたり0.2ダイの開始価格を提供します。 コネクティング・ウエイトは33％です。
 
-You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
+このカーブから直接購入/販売するためには、KYCを完了する必要があります。 コンプライアンスは重要だぞオマエラ - 私たちは社会に住んで、我々はまた、プロジェクトが政府によって険悪になることを望んでいない。 カーブからの購入はDAIで行われます。 逆もまた然りで、GHSTをカーブに売ってDAIに戻すこともできますが、なぜそんなことをしたいのでしょうか？ :( :( :(
 
-If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST off a DEX such as Uniswap or Balancer, or a CEX like OKex instead. Learn how to get GHST tokens [here](/ghst#get-ghst).
+もし、国籍の問題でKYCができない場合でも、ご安心ください。 **Aavegotchiメタバースの他のすべての部分と相互作用することができます。**UniswapやBalancerなどのDEX、またはOKexなどのCEXからGHSTを購入すればいいだけです。 GHSTトークンの入手方法については[こちら](/ghst#get-ghst)をご覧ください。
 
 ## Aavegotchi DAICO
 A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
