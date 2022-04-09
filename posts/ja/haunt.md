@@ -2,7 +2,7 @@
 author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Haunts'
-description: 'Haunt'
+description: 'ハウント'
 contributors:
   - "アンインテリジェント・ナード"
 ---
