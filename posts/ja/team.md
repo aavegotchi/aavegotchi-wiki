@@ -26,7 +26,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#coder-dan>Coder Dan</a></p>
 <p><a href=#jesse>Jesse</a></p>
 <p><a href=#xibot>Xibot</a></p>
-<p><a href=#nick-mudge>Nick Mudge</a></p>
+<p><a href=#nick-mudge>ニック・マッジ</a></p>
 <li><a href=#aadvisors>Aadvisors</a></li>
 <p><a href=#stani>Stani</a></p>
 <p><a href=#les>Les</a></p>
@@ -81,10 +81,10 @@ Jesse, AKA GldnXross is a product centric founder who has had a leadership role 
 
 Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
 
-### Nick Mudge
+### ニック・マッジ
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
+<img class="leftImage" src="/team/nick-mudge.jpg" alt = "ニック・マッジ">
 <p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
