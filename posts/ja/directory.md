@@ -119,7 +119,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Traits](/traits)
+* [特性](/traits)
 
 * [Tutorials](/tutorials)
 
