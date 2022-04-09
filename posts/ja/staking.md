@@ -11,10 +11,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
-<p class="headerImageText">Stake GHST, Make FRENS!</p>
+<p class="headerImageText">GHSTを預けてFRENSを稼ごう!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
+ステーキングとは、報酬と引き換えに暗号通貨をロックするプロセスを指します。 これはAavegotchiプロジェクトでも変わりません。 The native token, [GHST](/posts/ghst), can be staked in the Staking Contract to earn [FRENS](/posts/glossary#frens).
 
 FRENS are a non-transferable balance within the Aavegotchi Staking Contract. FRENS cannot be purchased. They are meant to reward stakers for their contributions to the Aavegotchi project.
 
