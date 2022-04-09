@@ -43,7 +43,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#ugotchi-token>uGOTCHI Token</a></p>
-<p><a href=#wearables>Wearables</a></p>
+<p><a href=#wearables>ウェアラブル</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -172,7 +172,7 @@ On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenI
 
 For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
 
-### Wearables
+### ウェアラブル
 Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
