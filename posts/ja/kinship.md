@@ -1,7 +1,7 @@
 ---
 author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
-title: 'Kinship'
+title: 'キンシップ'
 description: 'Everything you need to know about Kinship and petting your Gotchi!'
 contributors:
   - "アンインテリジェント・ナード"
