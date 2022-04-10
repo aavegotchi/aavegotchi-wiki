@@ -1,60 +1,60 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+title: 'ロードマップ'
+description: 'Aavegotchiロードマップ'
 contributors:
   - "hackingmoneyph"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">さあ、旅に出よう!</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+フレンよ、Avegotchiを有名にするため、数年にわたる旅に参加しないか？ ロードマップは大きく3つのセクションから構成されています。 詳しくは読み進めてください！
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#incubation>Incubation</a></li>
-<li><a href=#breakout>Breakout</a></li>
-<li><a href=#ubiquitous>Ubiquitous</a></li>
+<li><a href=#incubation>インキュベーション</a></li>
+<li><a href=#breakout>ブレイクアウト</a></li>
+<li><a href=#ubiquitous>ユビキタス</a></li>
 </ol>
 
 </div>
 
-## Incubation
+## インキュベーション
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
-Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.
+インキュベーションは、数年にわたる私たちの旅の第一段階の期間です。 2021年第2四半期から2021年第4四半期にわたります。
 
-Strategy for this phase: *Establish Aavegotchi as a popular game for crypto natives*
+このフェーズの戦略：Aavegotchiを*クリプトネイティブの人気ゲーム*として確立する。
 
-Milestones: 25K MAU / 5K DAU
+マイルストーン：25K MAU / 5K DAU
 
 ### Q2 2021
 
-* Polygon to Ethereum NFT Bridges
-* Aavegotchi Onchain Sideviews
-* GHST Token listed on Aave
-* Social media integrations (Link Aavegotchi via Discord/Twitter)
-* NFT Aauctions
-* REALM Gotchiverse Litepaper Release
-* Haunt 2 (planned)
-* REALM Gotchiverse Presale
+* ポリゴンからイーサリアムNFTブリッジ
+* Aavegotchiオンチェーンサイドビュー
+* GHSTトークンがAaveに上場
+* ソーシャルメディアとの連携（Discord/TwitterでAavegotchiをリンクする）
+* NFTオークション
+* REALM Gotchiverseライトペーパーのリリース
+* ハウント2(予定)
+* REALM Gotchiverseプリセール
 
 ### Q3 2021
 
-* Haunt 2 Raffle: 5 - 8 September 2021
-* Raffle #5: 24 - 28 September 2021
-* REALM Gotchiverse Whitepaper Release
-* REALM Presale #2
-* Aavegotchi Aarcade Mini-game hub
+* ハウント2抽選会：2021年9月5日～9月8日
+* 第5回ラッフル抽選会：2021年9月24日～28日
+* REALM Gotchiverseホワイトペーパーリリース
+* REALMプリセール第2弾
+* Aavegotchiアーケード・ミニゲームハブ
 
 ### Q4 2021
 
@@ -68,7 +68,7 @@ Milestones: 25K MAU / 5K DAU
 * The Aarcade
 * Gotchiverse Citaadel Launch
 
-## Breakout
+## ブレイクアウト
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
@@ -86,7 +86,7 @@ Milestones: 1M MAU / 25K DAU
 * More Haunts (planned)
 * AavegotchiDAO V3 (Oasis)
 
-## Ubiquitous
+## ユビキタス
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
