@@ -42,7 +42,7 @@ La siguiente tabla muestra el nivel de lealtad y su rango de valor.
 
 tabla_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+El Kinship puede verse en la página de perfil de [Aavegotchi](/aavegotchi-profile).
 
 ## Kinship y Canalización de Alquimia
 
@@ -50,13 +50,13 @@ El Kinship se utiliza para la canalización de Alquimia. La canalización alquí
 
 La cantidad de Alchemica (FUD, FOMO, ALPHA y KEK) que el Gotchi recibe a través de las canalización alquímica depende principalmente de su nivel de Kinship.
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+La tarifa base para canalizar es **20 FUD, 10 FOMO, 5 ALPHA y 2 KEK.** Esta tasa base se multiplica por un modificador, dependiendo del nivel de Kinship del Aavegotchi (ver tabla abajo).
 
-table_alchemicaReceivedPerChanneling
+table_alchemicaRecibido por Canalización
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+Cada punto de Kinship incrementa el modificador de canalización alquímica, por la fórmula:
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+Cada Aavegotchi es elegible para participar en la canaización alquímica **una vez cada 24 horas.**
 
