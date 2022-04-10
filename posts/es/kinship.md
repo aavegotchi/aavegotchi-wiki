@@ -34,13 +34,13 @@ Se acumulará un máximo de 1 Kinship por cada 12 horas en las que interactúe c
 
 Kinship existe como un equilibrio interno en el contrato inteligente de Aavegotchi.
 
-Las pociones también podrían utilizarse para mejorar las puntuaciones de lealtad. However, they are limited edition consumables.
+Las pociones también podrían utilizarse para mejorar las puntuaciones de lealtad. Sin embargo, son consumibles de edición limitada.
 
 ## Niveles de Kinship
 
-The table below shows the kinship level and their value range.
+La siguiente tabla muestra el nivel de lealtad y su rango de valor.
 
-table_kinship
+tabla_kinship
 
 Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
