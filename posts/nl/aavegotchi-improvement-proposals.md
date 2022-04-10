@@ -929,157 +929,157 @@ tabel_agip25
 <hr />
 
 ### Verminder de Parcel VRF variant
-**Aavegotchi Improvement Proposal #26**
+**Aavegotchi Verbetering Voorstel #26**
 
 **Voorstel Samenvatting:**
 
 *Probleem:*
 
-The VRF variance for Alchemica under the ground of parcels (0.2 - 1.8 of average) seems very high to me and could lead to some people getting rekt - see the graphic posted on the Discourse Thread.
+De VRF-variatie voor Alchemica onder de grond van pakketten (0,2 - 1) gemiddelde) lijkt me erg hoog en kan ertoe leiden dat sommige mensen gerkt raken - zie de grafische berichten op het Discord Thread.
 
-A very unlucky spacious owner could get less alchemica than a lucky reasonable owner - which is in my opinion very bad UX, especially considering that it was communicated this wouldn’t be possible. Keep in mind that the first round (quarter) will distribute more Alchemica than the rest of them, so losing big in the first round could set someone back by a lot.
+Een zeer ongelukkige ruime eigenaar kan minder alchemische stoffen krijgen dan een gelukkige redelijke eigenaar - wat naar mijn mening zeer slechte UX is, Vooral gezien het feit dat het werd gemeld, zou dit niet mogelijk zijn. Hou er rekening mee dat de eerste ronde (kwart) meer Alchemica zal verspreiden dan de rest ervan, dus het verliezen van groot in de eerste ronde kan iemand veel terugzetten.
 
 *Oplossing*
 
-I want to propose lowering the variance to AT LEAST 0.5 - 1.5 if not even 0.75 - 1.25 for the first round (Voting Choice 1). My issue with this very high variance is that people made financial decisions based on the average numbers published before the first auction, making people lose 50-80% of Alchemica value underneath the parcel is terrible UX to me.
+Ik wil voorstellen om de variatie te verlagen naar MINIMUM 0,5 tot 1. indien nog niet eens 0,75 - 1.25 voor de eerste ronde (Stemkeuze 1). Mijn probleem met dit zeer grote verschil is dat mensen financiële beslissingen nemen op basis van het gemiddelde aantal dat vóór de eerste veiling is gepubliceerd, mensen 50 tot 80 procent van de alchemische waarde onder het pakket laten verliezen, is verschrikkelijk voor mij.
 
-Another option suggested by Mori would be to create a binomial distribution with the left tail cut off, so it's possible to win big but impossible to get rekt hard (Voting Choice 2). This results in an average pull of 100, a minimum pull of 60, and a maximum pull of ~800. There's a fairly reasonable chance of winning this top prize, with ~0.02% of parcels being able to achieve this. Important note: This option would reduce the previous Median of 100 to roughly 83.
+Een andere optie van Mori is het creëren van een binomiale verdeling met de linker staart afgesneden. dus het is mogelijk om groot maar onmogelijk om hard te worden gerkt (Stem Keuze 2). Dit resulteert in een gemiddelde trek van 100, een minimale trek van 60 en een maximale trek van ~800. Er is een vrij redelijke kans om deze topprijs te winnen, met ~0,02% van de pakketjes om dit te bereiken. Belangrijke opmerking: deze optie zou de vorige Mediaan van 100 tot ongeveer 83 verminderen.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
-Option 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
+Optie 1: Ronde 1 0.75 - 1.25 & 0.5 - 1,5
 
-Option 2: Binomial Distribution
+Optie 2: Binomiale distributie
 
-Option 3: No, don't change the Variance
+Optie 3: Nee, wijzig de variant niet
 
 **Stemperiode:** van 23 tot 30 maart 2022
 
 **Resultaten:**
 
-table_agip26
+tabel_agip26
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x09c3132896ba5c8e677e018a86ba1a74729955f64799dbfd4e422058f9198817)
 
 <hr />
 
 ### Alternatieve Gotchiverse Trait Mapping
-**Aavegotchi Improvement Proposal #27**
+**Aavegotchi Verbetering Voorstel #27**
 
 **Voorstel Samenvatting:**
 
-With the introduction of Gotchiverse trait maps in the Game Bible Chapter 2, a significant discussion kicked off analyzing potential imbalances, weaknesses and areas for innovation in the original proposed trait map for NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+Met de introductie van Gotchiverse trait kaarten in de Game Bijbel hoofdstuk 2, ontstond een belangrijke discussie uit het analyseren van potentiële onevenwichtigheden, zwakke plekken en gebieden voor innovatie in de oorspronkelijke voorgestelde 'trait map' voor NRG, AGG, SPK & BRN. Dit CoreProp stelt voor de trait mapping voor deze 4 eigenschappen te veranderen naar:
 
-NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
+NRG: HP Capaciteit (0 NRG) <===> AP Capaciteit (100 NRG)
 
 AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
 
 SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
 
-BRN: Melee Power (0 BRN) <===> Ranged Power (100 BRN)
+BRN: Melee Power (0 BRN) <===> Afstandsvermogen (100 BRN)
 
-EYS: To Be Confirmed
+EYS: Worden Bevestigd
 
-EYC: To Be Confirmed
+EYC: Worden Bevestigd
 
-Please refer to the DAO forum thread for a full rundown on what these changes mean (including an FAQ section).
+Raadpleeg het DAO forum thread voor een volledige rundown op wat deze wijzigingen betekenen (inclusief een FAQ sectie).
 
-Core Effects of the New Trait Map
+Kerneffecten van de Nieuwe Eigenschap Kaart
 
-* Movement speed removed from trait maps will now lead to an improved quality of life user experience (UX) for all players starting out in the Gotchiverse, both new and old,
-* Carrying capacity removed from trait maps corrects the imbalance of 1 farming trait vs. 7 combat traits on NRG, AGG, SPK and BRN,
-* There is now a clear distinction between physical and ability specialist (mage) gotchis,
-* There is now a clear distinction between melee and ranged gotchis,
-* Ethereality can now be thought of as “Luck” and influences evasion, critical strikes, slipping through walls and all sorts of other chance based actions in the Gotchiverse.
+* Beweegsnelheid die verwijderd is van 'trait mappen' zal nu leiden tot een verbeterde kwaliteit van de levenservaring van de gebruiker (UX) voor alle spelers die beginnen met de Gotchiverse, zowel nieuw als oud,
+* Vervoeringscapaciteit verwijderd uit vaardigheid zorgt ervoor dat de onevenwichtigheid van 1 agrarische eigenschap wordt gecorrigeerd vs. 7 vecht eigenschappen op NRG, AGG, SPK en BRN,
+* Er is nu een duidelijk onderscheid gemaakt tussen fysiek en vermogensspecialist (mage) gotchis,
+* Er is nu een duidelijk onderscheid gemaakt tussen melee en gotchis, over lange afstanden
+* Etherealiteit kan nu worden beschouwd als ‘Geluk’ en beïnvloedt ontwijkende en kritische aanvallen, Door muren glippen en allerlei andere kansrijke acties in de Gotchiverse.
 
-*End Goal*
+*Eind Doel*
 
-For the community and Pixelcraft to build a trait map together that is balanced, has excellent UX, playability and longevity while simultaneously allowing the flexibility to implement wearable buffs and abilities that work with the traits in the future.
+Voor de gemeenschap en Pixelcraft om een 'trait map' te maken dat evenwichtig is, uitstekende UX heeft, speelbaarheid en levensduur, terwijl tegelijkertijd de flexibiliteit je toestaat om draagbare buffs en vaardigheden te implementeren die werken met de eigenschappen in de toekomst.
 
-*Risks*
+*Risico's*
 
-There is potential that some players and investors have already purchased gotchis based on the original trait mappings. It is important to note that these traits were always specified as non-immutable in the Game Bible HOWEVER, we strongly believe the new trait maps proposed here will create even moar diverse and entertaining play styles for OG investors and new players alike to experiment with and enjoy playing.
+Sommige spelers en investeerders hebben al een potentieel gekocht op basis van de oorspronkelijke trait mappings. Het is belangrijk om op te merken dat deze eigenschappen altijd als onveranderlijk zijn aangeduid in de Game Bijbel HOWEVER, We zijn er vast van overtuigd dat de nieuwe vaardighedenkaarten die hier worden voorgesteld, zullen leiden tot nog meer uiteenlopende en boeiende speelstijlen voor OG-investeerders en nieuwe spelers om te experimenteren en te genieten van spelen.
 
-*Final Important Notes*
+*Laatste Belangrijke Notities*
 
-There are a number of ways these Traits can scale (Yin/Yang linear, asymmetric, buff only starting from 50 and diminishing returns to name a few). The Trait Scaling System is still under review by the community so look forward to further calls with Pixelcraft (to really get into the nitty gritty) and another SigProp! EYS and EYC are still under review by the community. A number of interesting ideas including farming/alchemica/HUD abilities have been proposed. Make sure you get involved and have your say on how you’d like to see these evolve too!
+Er zijn een aantal manieren waarop deze eigenschappen kunnen schalen (Yin/Yang lineair, asymmetrisch, buff slechts begint vanaf 50 en afnemende rendementen om er een paar te noemen). Het Schalen Systeem van Eigendom is nog steeds in behandeling door de gemeenschap, dus kijk uit naar verdere oproepen met Pixelcraft (om echt in de nitty grootte) en een ander SigProp! EYS en EYC worden nog steeds beoordeeld door de gemeenschap. Er zijn een aantal interessante ideeën geopperd, waaronder farm/alchemica/HUD-vaardigheden. Zorg ervoor dat je betrokken raakt en je zegje doet over hoe je deze ontwikkelingen ook wilt zien!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
 
-Option 1: Yes, use the new Trait Map
+Optie 1: Ja, gebruik de nieuwe 'Trait Map'
 
-Option 2: No, stick with the original
+Optie 2: Nee, blijf bij het origineel
 
 **Stemperiode:** van 23 tot 30 maart 2022
 
 **Resultaten:**
 
-table_agip27
+tabel_agip27
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xbe4999b68f97f0e3406d65aff4e36a97768af72eb5cbd16c92641dcfdd6f35c9)
 
 <hr />
 
 ### Uitbreiden van de DAO Schat Task Force Multisig
-**Aavegotchi Improvement Proposal #28**
+**Aavegotchi Verbetering Voorstel #28**
 
 **Voorstel Samenvatting:**
 
-Hi frens, in Chapter 2 we proposed that 10% of the Gotchus Alchemica supply be vested over 30 years to be used for Ecosystem purposes. The primary goal of this allocation is to ensure excellent long-term liquidity across many platforms, including the GAX, various DEXes on Polygon, Mainnet, and even CEXes.
+Hallo frens, in hoofdstuk 2 hebben we voorgesteld om 10 procent van de voorraad aan Gotchus Alchemica langer dan 30 jaar te houden om te worden gebruikt in het ecosysteem. Het primaire doel van deze toewijzing is om te zorgen voor uitstekende liquiditeit op lange termijn op verschillende platforms, inclusief de GAX, verschillende DEXes over Polygon, Mainnet en zelfs CEXes.
 
-Those who follow the project carefully know that we always try to do everything “by the book”, to make Aavegotchi a model case study for decentralization and legal compliance. We are currently in the final stages of setting up a new legal wrapper for AavegotchiDAO (more specifically, a Panama Foundation) and will soon be making an announcement for applications to serve.
+Degenen die het project zorgvuldig volgen, weten dat we altijd proberen alles te doen “door het boek”, om van Aavegotchi een modelcase study te maken voor decentralisatie en juridische naleving. Op dit moment bevinden we ons in de laatste fase van het opzetten van een nieuwe juridische wrapper voor AavegotchiDAO (meer bepaald voor AavegotchiDAO). een Panama Foundation) en zal binnenkort een mededeling doen om toepassingen te dienen.
 
-On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
+Op technisch vlak werken we ook aan de tenuitvoerlegging van het onchain bestuur van het Aavegotchi-protocol. Dit zal echter enige tijd in beslag nemen, aangezien het een upgrade vereist naar het ingezette GHST-token op Polygon.
 
-While all of this is happening in the background, we are also launching FIVE new ERC20 Alchemica tokens and locking a sizable amount of them into vesting contracts.
+Terwijl dit alles op de achtergrond gebeurt, lanceren we ook VIJF nieuwe ERC20 Alchemica tokens en vergrendelen een grote hoeveelheid ervan in vesting contracten.
 
-For both legal and strategic reasons, we believe that the Ecosystem allocation should not be managed by Pixelcraft, but instead by AavegotchiDAO. The DAO Treasury Force has already been created to manage some of the DAO treasury, but the number of signers is quite few (six) and in my opinion insufficient to hold such a sum of funds.
+Om juridische en strategische redenen zijn wij van mening dat de toewijzing van het ecosysteem niet door Pixelcraft, maar door AavegotchiDAO moet worden beheerd. De DAO schatkracht is al aangemaakt om een deel van de DAO schatkist te beheren, maar het aantal ondertekenaars is vrij gering (zes) en naar mijn mening onvoldoende om een dergelijk bedrag aan middelen te reserveren.
 
-Therefore, I propose we create an additional multisig under the current DTF, with fifteen signers instead of the current six. **Eleven** out of fifteen signatures would be required to confirm transactions.
+Daarom stel ik voor dat we onder het huidige DTF een extra multisig creëren met vijftien ondertekenaars in plaats van de huidige zes. **11** van de 15 handtekeningen is vereist om transacties te bevestigen.
 
-This multisig would be the beneficiary of the Ecosystem Vesting Contract (which holds 10% of each Alchemica’s token supply, vested over 30 years), and could also inherit the 1M GHST originally allocated during the GHST creation for Ecosystem building, to help bootstrap Alchemica liquidity.
+Deze multisig zou voordelig zijn voor het Ecosystem Vesting Contract (dat 10% van de alchemische token toevoer bezit, gevestigd over meer dan 30 jaar) en kan ook de 1M GHST erven die oorspronkelijk was toegewezen tijdens de creatie van het ecosysteem gebouw, om bootstrap Alchemica liquiditeit te helpen.
 
-On our side, we will deploy the Alchemica and create initial liquidity pools on Quickswap, after which we will transfer ownership of the vesting contract to the multisig. After that point, it will be up to the DTF to coordinate liquidity provision.
+Aan onze kant zullen we de Alchemica staken en eerste liquiditeitspools creëren op Quickswap, daarna zullen we het eigendom van het vestingscontract overdragen aan de multisig. Daarna zal het DTF de liquiditeitsvoorziening moeten coördineren.
 
-Let’s goooo Gotchigang!
+Laten we goooo Gotchigang!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
 
-[Final note: You can vote for multiple members at once, the top 9 choices will then get elected! Short pitches for everyone can be found in the discussion thread]
+[Laatste opmerking: Je kunt op meerdere leden tegelijk stemmen, de top 9 keuzes worden dan gekozen! Korte toonvelden voor iedereen zijn te vinden in de discussie]
 
-Option 1: Kokusho
+Optie 1: Kokusho
 
-Option 2: MGG
+Optie 2: MGG
 
-Option 3: Choyna
+Optie 3: Choyna
 
-Option 4: Pgendreau
+Optie 4: Pgendreau
 
-Option 5: Diddlypoo
+Optie 5: Diddlypoo
 
-Option 6: Tburd.eth
+Optie 6: Tburd.eth
 
-Option 7: Jarrod
+Optie 7: Jarrod
 
-Option 8: MarvinP
+Optie 8: MarvinP
 
-Option 9: Notorious_BTC
+Optie 9: Notorious_BTC
 
-Option 10: Hardkor
+Optie 10: Hardkor
 
-Option 11: Yanik
+Optie 11: Yanik
 
-Option 12: Master_Yin
+Optie 12: Master_Yin
 
-Option 13: Nestor
+Optie 13: Nestor
 
-Option 14: Chichi
+Optie 14: Chichi
 
 **Stemperiode:** van 23 tot 30 maart 2022
 
 **Resultaten:**
 
-table_agip28
+tabel_agip28
 
 [Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x8b5862698c550b53e57f6ce4628a7a13ed5a4772e541c414e9a27fbcf95cf8c2)
 
@@ -1088,27 +1088,27 @@ table_agip28
 ### Naam van de Aavegotchi Marktplaats
 **Snapshot Stemming**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Voorstel samenvatting:** Hoe moet de Aavegotchi NFT Marktplaats worden genoemd?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi lanceert zijn eigen NFT-marktplaats op Polygon in combinatie met het spel!
 
-What should we call the official Aavegotchi Marketplace?
+Hoe moeten we de officiële Aavegotchi Marketplace noemen?
 
-Choice A: Aavegotchi Baazaar
+Keuze A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Keuze B: Aavegotchi Maarket
 
-Choice C: Neither
+Keuze C: Geen
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum niet is bereikt, kiest Pixelcraft een willekeurige winnaar.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
-table_marketplaceName
+tabel_marketplaceName
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
@@ -1118,23 +1118,23 @@ table_marketplaceName
 
 **Snapshot Stemming**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Voorstel samenvatting:** Moet GHST-USDC LP token in aanmerking komen om FRENS te verdienen?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Ons liquiditeitsmigratieprogramma is een groot succes geweest, waarbij al meer dan 8 miljoen GHST naar Polygon is gemigreerd. Echter, zoals veel leden van de gemeenschap hebben opgemerkt, liquiditeit voor het GHST-USDC paar is nog steeds niet diep genoeg om het handelen van grote hoeveelheden USDC voor GHST op Quickswap te ondersteunen.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Een manier om dit te verhelpen is door GHST-USDC toe te voegen als een paar en dat deze in aanmerking komen voor FRENS op [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Net zoals GHST-QUICK een ontvangst token stkGHST-QUICK heeft, kan GHST-USDC ook een stkGHST-USDC token hebben, die in aanmerking kan komen voor beloningen op Quickswap, als hun team dat nodig acht.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Aangezien dit besluit rechtstreeks van invloed is op gameplay, zijn wij van mening dat het een rijpe kandidaat is voor onze eerste Snapshot stemming op Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+We stellen een GHST quorum van 500.000 vast voor deze stemming.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
 
-**Voting Period:** 8 - 11 February 2021
+**Stemperiode:** van 8 tot 11 februari 2021
 
 **Resultaten:**
 
-table_ghstUsdcLp
+tabel_ghstUsdcLp
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
@@ -1144,32 +1144,32 @@ table_ghstUsdcLp
 
 **Snapshot Stemming**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Voorstel Samenvatting:** Hoeveel portalen kunnen gekocht worden in één transactie?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+De discussieduur is afgelopen voor dit onderwerp en nu is het tijd om te stemmen! De meest populaire opties waren: 1, 5 en 10 Portalen per transactie.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: een "Ape Tax" waardoor meer portalen in één transactie konden worden gekocht, maar tegen een hogere prijs. De portalen zouden op deze manier gerankschikt worden:
 
-* 0-5: 100 GHST each
+* 0-5: 100 GHST elk
 
-* 6-15: 200 GHST each
+* 6-15: 200 GHST elk
 
-* 16-25: 300 GHST each
+* 16-25: 300 GHST elk
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Dit laat ons dus vier opties over: 1, 5, 10 en 25 (v/ape tax).
 
-Let your $GHST token speak for you, and vote!
+Laat je $GHST token voor je spreken en stem!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Stemperiode: 72 uur Minimum quorum: 10% van het GHST op Matic (~1,1M GHST)
 
-AavegotchiDAO discussion topic 👇
+AavegotchiDAO discussieonderwerp 👇
 
-[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+[https://dao.aavegotchi.com/nl/how-many-portals-should-be-be--in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Stemperiode:** van 23 tot 26 februari 2021
 
 **Resultaten:**
 
-table_portalsPurchased
+tabel_portalenGekocht
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
