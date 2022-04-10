@@ -29,7 +29,7 @@ contributors:
 
 ## インキュベーション
 
-<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
+<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchiロードマップ・フェーズ1：インキュベーション" />
 
 インキュベーションは、数年にわたる私たちの旅の第一段階の期間です。 2021年第2四半期から2021年第4四半期にわたります。
 
@@ -58,45 +58,45 @@ contributors:
 
 ### Q4 2021
 
-* REALM Public Land Sale #1, #2, and #3
-* REALM Gotchiverse Alpha Launch
-* Creator Economy Wearables Dapp Launch
-* [AavegotchiDAO](/dao) V2 (Metamorphosis)
-* [Baazaar](/baazaar) NFT offers feature
-* [Rarity Farming](/rarity-farming) Season 2
-* Gotchi renting/lending
-* The Aarcade
-* Gotchiverse Citaadel Launch
+* REALM公有地販売第1弾、第2弾、第3弾
+* REALM Gotchiverseアルファ・ローンチ
+* クリエイター・エコノミー・ウェアラブルDappの立ち上げ
+* [AavegotchiDAO](/dao) V2(メタモルフォーゼ)
+* [バザール](/baazaar)NFTの提供機能
+* [レアリティ・ファーミング](/rarity-farming)・シーズン2
+* ゴッチレンタル/レンディング
+* アーケード
+* Gotchiverse Citaadel（城壁内）ローンチ
 
 ## ブレイクアウト
 
-<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
+<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchiロードマップ・フェーズ2：ブレイクアウト" />
 
-Breakout is the second phase of our multi-year journey. It spans from Q1 2022 to Q4 2023.
+ブレイクアウトは、数年にわたる私たちの旅の第2段階です。 2022年第1四半期から2023年第4四半期にわたります。
 
-Strategy for this phase: *Establish Aavegotchi as a community-owned gaming platform with mainstream appeal*
+このフェーズの戦略：*Aavegotchiをメインストリームにアピールするコミュニティ所有のゲーム・プラットフォーム*として確立する。
 
-Milestones: 1M MAU / 25K DAU
+マイルストーン：100万MAU / 2万5千MAU
 
-* Aavegotchi Builder SDK
-* REALM Public Land Sales
-* REALM third-party Dapp Integration
-* GotchiGang Referral Program
-* Aavegotchi Mobile App alpha launch
-* More Haunts (planned)
-* AavegotchiDAO V3 (Oasis)
+* Aavegotchi ビルダー SDK
+* REALM公有地販売
+* REALMサードパーティDapp統合
+* ゴッチギャング紹介プログラム
+* Aavegotchiモバイルアプリ・アルファ・ローンチ
+* その他のハウント（予定）
+* AavegotchiDAO V3(オアシス)
 
 ## ユビキタス
 
-<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
+<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchiロードマップ・フェーズ3：ユビキタス" />
 
-Ubiquitous is the final phase of our multi-year journey. It spans from Q1 2024 to beyond!
+ユビキタスは、私たちの数年にわたる旅の最終段階です。 2024年第1四半期からその先まで続きます！
 
-Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal*
+このフェーズの戦略：*Aavegotchiのビジョンである「メインストリームにアピールする暗号ゲーム」を実現する。*
 
-Milestones: 10M MAU / 50K DAU
+マイルストーン：1,000万MAU / 5万MAU
 
-* More Haunts (planned)
-* REALM Public Land Sales
-* Aavegotchi Minigame Builder
-* Aavegotchi Hardware Wallet
+* その他のハウント（予定）
+* REALM公有地販売
+* Aavegotchiミニゲームビルダー
+* Aavegotchi ハードウェアウォレット
