@@ -26,11 +26,11 @@ contributors:
 
 ## Qué es Kinship
 
-Kinship es el sentimiento de lealtad de tu Aavegotchi. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+Kinship es el sentimiento de lealtad de tu Aavegotchi. Kinship no se asigna aleatoriamente, sino que comienza en un valor fijo (50) al invocar y aumenta o disminuye basándose en varios factores, tal como cuánto tiempo ha estado el Aavegotchi con el mismo propietario, y con qué frecuencia el propietario interactúa con él. El valor mínimo es 0. No hay un valor máximo de lealtad.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Por lo general, una propiedad más larga equivale a una lealtad mayor, pero descuidar tu Aavegotchi durante largos períodos de tiempo reducirá su nivel de lealtad. Los Aavegotchis no son sólo recipientes para almacenar sus bolsas de crypto. Ellos están vivos, respirando fantasmas y necesitan tu cariño!
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Se acumulará un máximo de 1 Kinship por cada 12 horas en las que interactúe con su Aavegotchi. Por el contrario, habrá una penalización de puntos de -1 Kinship si no interactúas con tu Aavegotchi durante 24 horas.
 
 Kinship exists as an internal balance on the Aavegotchi smart contract.
 
