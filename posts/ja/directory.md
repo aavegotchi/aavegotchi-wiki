@@ -99,7 +99,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming Seasons](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [ロードマップ](/roadmap)
 
 * [Sets](/sets)
 
