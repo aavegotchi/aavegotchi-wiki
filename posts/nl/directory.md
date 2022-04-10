@@ -61,7 +61,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Haunt](/haunt)
 
-* [Home](/index)
+* [Startpagina](/index)
 
 * [Introductie](/introduction)
 
@@ -93,7 +93,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Portalen](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Lotterij Statistieken](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -107,7 +107,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Spirit Force](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Spirit Force Geschiedenis](/spirit-force-history)
 
 * [Staken](/staking)
 
@@ -121,7 +121,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Eigenschappen](/traits)
 
-* [Tutorials](/tutorials)
+* [Handleidingen](/tutorials)
 
 * [uGOTCHI Collectie](/ugotchi)
 
