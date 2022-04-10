@@ -32,9 +32,9 @@ Por lo general, una propiedad más larga equivale a una lealtad mayor, pero desc
 
 Se acumulará un máximo de 1 Kinship por cada 12 horas en las que interactúe con su Aavegotchi. Por el contrario, habrá una penalización de puntos de -1 Kinship si no interactúas con tu Aavegotchi durante 24 horas.
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+Kinship existe como un equilibrio interno en el contrato inteligente de Aavegotchi.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables.
+Las pociones también podrían utilizarse para mejorar las puntuaciones de lealtad. However, they are limited edition consumables.
 
 ## Niveles de Kinship
 
