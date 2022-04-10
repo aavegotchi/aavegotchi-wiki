@@ -48,7 +48,7 @@ Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 El Kinship se utiliza para la canalización de Alquimia. La canalización alquímica es un estipendio diario básico obtenido por Aavegotchis que viene directamente del éter de Gotchivero, en vez de ser recolectado desde la parcela [](/gotchiverse).
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+La cantidad de Alchemica (FUD, FOMO, ALPHA y KEK) que el Gotchi recibe a través de las canalización alquímica depende principalmente de su nivel de Kinship.
 
 The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
 
