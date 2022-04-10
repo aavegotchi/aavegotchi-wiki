@@ -46,7 +46,7 @@ Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
 
 ## Kinship y Canalización de Alquimia
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+El Kinship se utiliza para la canalización de Alquimia. La canalización alquímica es un estipendio diario básico obtenido por Aavegotchis que viene directamente del éter de Gotchivero, en vez de ser recolectado desde la parcela [](/gotchiverse).
 
 How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
 
