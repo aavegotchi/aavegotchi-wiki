@@ -80,23 +80,23 @@ Dit zorgt ervoor dat Aavegotchi een duurzame bron van spelers beloningen heeft d
 
 **Utility**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+Het primaire hulpmiddel van GAX Liquidity Token Reward (GLTR) laat spelers in de Gotchiverse toe om het maken en upgraden van hun [installaties](/gotchiverse#building-on-realm-parcels) door GLTR, te versnellen staat ze toe om hogere levels van het spel sneller te bereiken. **Elke verbrande GLTR is gelijk aan één blok op het Polygon PoS netwerk.**
 
-GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+GLTR heeft ook een secundair doel, omdat het hoofdtoken is vereist voor [Wearable Crest](/guild#accessing-a-guild) veilingen. Guilds hebben ook de mogelijkheid GLTR te verbranden, om de tijd voor hun volgende Guild Channeling te versnellen.
 
 **Tokenomics**
 
-* Max supply: 1,000,000,000,000 (1 trillion)
+* Max. levering: 1.000,000.000 (1 triljoen)
 
-* Distribution: 100% to liquidity rewards over 30 years
+* Distributie: 100% naar liquiditeitsbeloningen over 30 jaar
 
-* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+* Vestingsschema: 10% in het eerste jaar, resterende tijd over 30 jaar (met de helft per 4 jaar)
 
-**Earning GLTR**
+**GLTR verdienen**
 
-GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+GAX LP tokens kunnen worden ingezet in een Master Chef contract om GLTR te verdienen.
 
-**Burning**
+**Branden**
 
-All GLTR spent in-game is burned from the supply (sent to burn address).
+Alle GLTR in-game uitgaven worden verbrand van het leveringspunt (verzonden naar het brandend adres).
 
