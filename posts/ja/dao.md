@@ -103,98 +103,98 @@ AavegotchiDAOのV1.5。 [ジェネシス](/dao#genesis)と[メタモルフォー
 
 AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態でありますが、DAOが統治するゲームの実現の始まりに過ぎません。 Aavegotchiゲームの仕組み、REALMの仕組み、エコシステムの支出、さらにはスマートコントラクトのアップグレードに関するすべての決定は、AavegotchiDAOの投票によって決定されることになります。
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+トークン保有者は、このAavegotchiDAOのイテレーションに積極的に参加することで、GHSTで報酬を受け取ることができます。
 
 その特徴は以下の通り：
 
 * スマートコントラクトの呼び出しを実行できる
 * 特定のメカニックのアップグレードが可能
 * Aavegotchi + GHST ガバナンス
-* Platform: Aavegotchi Realm
+* プラットフォーム：Aavegotchi Realm
 * 報酬：[XP](/traits#experience)＋投票用バッジ
 * レイヤー：ポリゴン（Polygon）
 
 ## ガバナンスに参加する
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+気合い入ってます！ で、AavegotchiDAOに参加するにはどうしたらいいんだろう？ フレンよ、オレ達に任せな！
 
-* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
+* [AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)やDiscordの#🌱dao-discussionチャンネルで議論に参加することができるんだ。 誰でも大歓迎だよ！
 
-* Taking part in AavegotchiDAO votes (when they are available!)
+* AavegotchiDAOの投票に参加する(可能な場合!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance)には、投票された変更を実装するためにDAOメンバーが呼び出したり使ったりできるリストが詳細に記載されています。 例えば、asUSDが[コラテラル（担保）タイプ](/posts/atokens)として投票されたとしましょう。 AavegotchiDAOは `addCollateralTypes()` 関数を使用し、関数内で asUSD を指定することで変更を実装することができます。
 
 ## AavegotchiDAOフォーラム
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+AavegotchiDAOガバナンス・フォーラムは Discourse を使用しています。 このフォーラムを持つことで、Aavegotchi のゲームメカニック、資金調達の依頼、その他の提案に関する重要なトピックについて一元的に議論することが可能になります。
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+私たちは #GotchiGang が将来的に DAO 所有のゲームのモデルになることを望んでいます。
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+フォーラムは[こちら](https://dao.aavegotchi.com/)でご覧いただけます。
 
 ## 提案の種類
 
-There are 2 types of proposals in the *Cocoon* stage:
+*コクーン*ステージには2種類の企画案があります：
 
-* **Signal Proposal** — A proposal that can be posted by anyone. この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Discordの#🌱dao-discussionチャンネル、または[AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でアイデアを共有し、他のコミュニティメンバーと議論してください。 提案の詳細が決まったら、AavegotchiDAOフォーラムに公式スレッドを作成し、以下の[「シグナル提案の作成」](/dao#creating-signal-proposals)で説明されているフレームワークを使用してください。 その後、[スナップショット](https://snapshot.page/#/aavegotchi.eth)で投票を行ってください。
 
-* **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
+* **コア提案（Core Proposal）** - シグナル提案が20%以上の定足数（ポリゴン上で投票可能な流通GHSTの量）を達成した場合、Pixelcraftはこれらの提案をコア提案として再提案します。 これらの投票には拘束力があり、参加者への[XP](/traits#experience)報酬の対象となります。
 
 <img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
 
-**Core Proposals** are further subdivided into 3 types:
+**コア提案**は、さらに3つのタイプに分類されます：
 
-*Reminder: Quorum percentages are calculated from the amount of circulating GHST eligible to vote on Polygon, not the total supply!*
+*注意事項：定足数の割合は、Polygonで投票できるGHSTの流通量から計算され、総供給量からではありません！*
 
-* **Smol votes:** Quorum of 5%. These votes are intended for small decisions that do not affect the overall meta or value of existing Aavegotchis in any significant way (e.g. introduction of a cosmetic feature, proposal for a marketing strategy).
+* **スモール（Smol）投票：**定数5%。 これらの投票は、既存のAavegotchiの全体的なメタや価値に大きな影響を与えない小さな決定を目的としています（例：装飾品の機能の導入、マーケティング戦略の提案など）。
 
-* **Medium votes:** Quorum of 10%. These votes are intended for decisions that may have some notable effect on the meta (e.g. introducing a new game item, allocating XP to some item or event, changing something about an Aavegotchi that does not affect its rarity score).
+* **ミディアム（Medium）投票：**定数10％。 この投票は、メタに何らかの顕著な影響を与える可能性のある決定を対象としています（例：新しいゲームアイテムの導入、あるアイテムやイベントへのXP割り当て、レアリティスコアに影響しないAavegotchiの変更）。
 
-* **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
+* **ギャラクシー（Galaxy）投票：**定数20％。 メタやAavegotchiのエコシステムに大きな影響を与えるような重大な決定を行うための投票です（例：新しいハウント、レアリティスコアに影響するAavegotchiの何かを変更する場合など）。
 
 ## 得票差
 
-Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
+得票差とは、上位2つの選択肢の差であり、妥当なコンセンサスが得られたかどうかを示すものである。
 
-Here is an example Core Proposal with 3 options:
+以下は、3つの選択肢を持つコア提案の例です：
 
-* Option A receives 25%
-* Option B receives 35%
-* Option C receives 40%.
+* 選択肢Aの得票率は25%
+* 選択肢Bの得票率は35%
+* 選択肢Cの得票率は40%
 
-The required Vote Differential is 5% (the difference between Option C [40%] and Option B [35%]).
+必要な票差は5％（選択肢C [40%] と選択肢B [35%] の差）である。
 
-This would not be enough to achieve consensus, thus the Proposal is not implemented.
+これではコンセンサスが得られないため、本提案は実施されません。
 
-Typically, the more options a vote has, the higher Vote Differential it requires to demonstrate that true consensus has been reached.
+一般的に、選択肢の数が多い投票ほど、真のコンセンサスに達したことを示すために必要な票差は大きくなります。
 
-For COCOON, we will begin with the following Vote Differential parameters, and course correct if necessary:
+コクーンでは、まず次のような票差パラメータを設定し、必要に応じて軌道修正します：
 
-2 Options — 10% VD
+2つの選択肢 - 10% VD
 
-3 Options — 15% VD
+3つの選択肢 - 15% VD
 
-4 Options — 20% VD
+4つの選択肢 - 20% VD
 
 ## シグナルプロポーザルの作成
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+#GotchiGangが投票するためのシグナル提案を作成するには、以下の形式を守ってください：
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* 作者＋GotchiID
+* 一致するDiscourseスレッドへのリンク（フォーラムで重要な議論がない提案は、自動的にスナップショットから削除されます。）
+* 概要（根拠、スケジュール、目標、重要業績評価指標を含む） 既存の提案のコピペ提案は削除されますが、類似しているが異なるバリエーションの提案は並存が許可されます。
+* 効果
+* 最終ゴールと利益ハイライト
+* 潜在的なリスクや意図しない結果をちゃんと認識する
+* 代替案（プランB、プランCなど）がある場合
+* 提案の終了時期は、Snapshot Communityの掲示板にアクティブな提案のみが表示されるように、提案開始時期から30日以内としてください。
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+詳細は、この[Medium記事](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)をご覧ください。
 
 ## 議決権行使（投票）
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+投票方法は2つあります：(1) スナップショット（Snapshot）投票、(2) アラゴン（Aragon）投票。
 
-### Snapshot Voting
+### スナップショット投票
 
 Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
 
