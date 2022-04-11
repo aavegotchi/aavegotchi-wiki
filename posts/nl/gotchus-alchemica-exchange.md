@@ -43,7 +43,7 @@ Dit, vrienden, is de Gotchus Alchema Exchange (GAX).
 
 ## Functies
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+De Gotchus Alchema Exchange (GAX) is een sleutelstuk infrastructuur in het Aavegotchi protocol waarmee spellen gebouwd op Aavegotchi stabiel kunnen zijn, Diepe liquiditeit voor de 4 Gotchus Alchemica tokens:
 
 * FUD
 * FOMO
@@ -52,29 +52,29 @@ The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aav
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Paren" />
 
-It also provides a sustainable source of revenue for powering rewards of the in-game economy.
+Het biedt ook een duurzame bron van inkomsten voor het aandragen van beloningen van de in-game-economie.
 
-The GAX is a clone of SushiSwap V2, with the following differences:
+De GAX is een kloon van SushiSwap V2, met de volgende verschillen:
 
-* **DAO-owned Liquidity**
+* **DAO-bezitte Liquiditeit**
 
-A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+Een belangrijk verschil tussen de GAX en andere DEXes is dat de GAX is ontworpen om te voldoen aan een specifieke behoefte binnen het Aavegotchi protocol – in het bezit zijn en aanmoediging van liquiditeit voor de Gotchiverse (en andere games’) economie tokens.
 
-Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+Elk van deze tokens bevat een 10% "Ecosystem" toewijzing, eigendom van [AavegotchiDAO](/dao) die gekoppeld kan worden aan GHST om een basislaag van **permanente protocol liquiditeit**te bieden, eigendom van de gemeenschap. Deze stabiele liquiditeit zorgt voor een liquiditeitslaag die eigendom is van AavegotchiDAO, die in de loop der tijd zal toenemen, zonder te vertrouwen op de liquiditeit van huurlingen van derden.
 
-* **Low trading fees**
+* **Lage handelskosten**
 
-Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+Omdat de GAX minder afhankelijk is van bedrijfsliquiditeit, heeft het de mogelijkheid om kosten aanzienlijk lager in te stellen dan andere DEXes. Typische handelskosten op Uniswap-based DEXes zijn 0,3 procent, die voor elk paar hardcoded zijn in het contract en generiek zijn.
 
-On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+Op de GAX kan elk paar een eigen aangepaste handelsprijs hebben, welke ingesteld kunnen worden door de maker van het paar en bijgewerkt door de contracteigenaar.
 
-This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+Hierdoor kan AavegotchiDAO strategisch zijn over welke paren het liquiditeit verschaft, met het potentieel om handelsvolume van andere gevestigde DEXes aan te trekken.
 
-* **Trading Fees Power P2E**
+* **Handelskosten Power P2E**
 
-The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+Het laatste onderscheid tussen de GAX en traditionele DEXes is waar handelskosten ontstaan. In een traditionele DEX ontstaan handelskosten aan liquiditeitsaanbieders, maar in de GAX, komen handelskosten voort uit de Speler Beloningen pool - een speciale toewijzing van fondsen bestemd voor het stimuleren van gameplay in het Aavegotchi NFT Gaming Protocol.
 
-This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+Dit zorgt ervoor dat Aavegotchi een duurzame bron van spelers beloningen heeft die samen met economische activiteit van het netwerk groeit.
 
 ## GLTR Token
 
