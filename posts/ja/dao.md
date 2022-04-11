@@ -48,71 +48,71 @@ AavegotchiDAOの最初のイテレーションは、GHSTトークン配布イベ
 
 トークン保有者は、このAavegotchiDAOのイテレーションに積極的に参加しても、GHSTで報酬を受け取ることはありません。
 
-Features for Genesis include:
+ジェネシスの特徴は以下の通りです：
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* スマートコントラクトの呼び出しなし
+* コントラクトのアップグレードなし
+* GHSTトークンに基づくガバナンス
+* プラットフォーム：アラゴン（Aragon）
+* 報酬：なし
+* レイヤー：イーサリアムメインネット
 
 ## コクーン
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+AavegotchiDAOのV1.5。 [ジェネシス](/dao#genesis)と[メタモルフォーシス](/dao#metamorphosis)の中間的な位置づけ。 コクーンステージでは、ゲームメカニクスに影響を与えることが優先される。
 
-Its features include:
+その特徴は以下の通り：
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Pixelcraftによって呼び出されるコントラクトコール
+* コントラクトのアップグレードなし
+* GHSTトークンに基づくガバナンス
+* プラットフォーム：スナップショット（Snapshot）/ディスコース（Discourse）
+* 報酬：コア投票による[XP](/traits#experience)
+* レイヤー：ポリゴン（Polygon）
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+コクーンステージでは、2種類の投票を行うことができます：(1) シグナル提案（Signal Proposal）、(2) コア提案（Core Proposal）の2種類です。
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+シグナル提案は、[Snapshot](https://snapshot.page/#/aavegotchi.eth)のコミュニティー（Community）タブに誰でも投稿することができます。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 シグナル提案を思いつく前に、Discordや[Discourse/AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でコミュニティと議論することが必須となります。 その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+シグナル提案は、提案作成時にPolygonで投票できる流通GHSTの20%に達する定足数で前者が可決されると、コア提案に格上げされることになります。
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+コア提案は、定足数に達した、または達しそうになったシグナル提案をもとに、Pixelcraftが選択肢を提示する提案です。 これらの投票には拘束力があり、参加者へのXP報酬の対象となります。
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+シグナル提案がコア提案に昇格した場合、シグナル提案に記載したAavegotchiに150[XP](/traits#experience)*が付与されます。
 
-*May increase or decrease throughout COCOON period
+*COCOON期間中は増減する可能性があります。
 
 ## メタモルフォーシス
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+メタモルフォーシスはAavegotchiDAOの第二世代で、Aavegotchiの総供給量、新しいコラテラルの追加、機能の決定、コミュニティが作成した新しいウェアラブルの追加など、簡単なゲームメカニックを管理する役割を担っています。 AavegotchiDAOオアシスへの移行時期が来たら、再びAavegotchiDAOの投票で移行を実行します。
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+このフェーズでAavegotchiDAOが実行できるアクションの全リストは、Aavegotchiスマートコントラクトの説明書の[ガバナンス](https://docs.aavegotchi.com/overview/governance)のセクションで入手できます。
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+トークン保有者は、AavegotchiDAOのこのイテレーションに積極的に参加することで、GHSTの形で報酬を受け取ることができます。
 
-Its features include:
+その特徴は以下の通り：
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* スマートコントラクトの呼び出しを実行できる
+* 特定のメカニックのアップグレードが可能
+* Aavegotchi + GHST ガバナンス
+* プラットフォーム：カスタムdappフロントエンド
+* 報酬：[XP](/traits#experience)＋投票用バッジ
+* レイヤー：ポリゴン（Polygon）
 
 ## オアシス
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態でありますが、DAOが統治するゲームの実現の始まりに過ぎません。 Aavegotchiゲームの仕組み、REALMの仕組み、エコシステムの支出、さらにはスマートコントラクトのアップグレードに関するすべての決定は、AavegotchiDAOの投票によって決定されることになります。
 
 Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
 
-Its features include:
+その特徴は以下の通り：
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
+* スマートコントラクトの呼び出しを実行できる
+* 特定のメカニックのアップグレードが可能
+* Aavegotchi + GHST ガバナンス
 * Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* 報酬：[XP](/traits#experience)＋投票用バッジ
+* レイヤー：ポリゴン（Polygon）
 
 ## ガバナンスに参加する
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
@@ -135,7 +135,7 @@ The Forum can be found [here](https://dao.aavegotchi.com/).
 
 There are 2 types of proposals in the *Cocoon* stage:
 
-* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Signal Proposal** — A proposal that can be posted by anyone. この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
 
 * **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
 
