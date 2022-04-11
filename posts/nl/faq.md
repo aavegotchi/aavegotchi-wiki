@@ -110,19 +110,19 @@ contributors:
 <p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Kan ik mijn Aavegotchis op OpenSea verhandelen terwijl ze op Ethereum zitten?</a></p>
 <li><a href=#technical-faq>Technische Veelgestelde Vragen</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Welke portemonnee moet ik gebruiken met Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Zal Aavegotchi uitgevoerd worden op Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Moet ik mijn Aave tokens migreren?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->Hoe migreer ik naar Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Ik heb een ledger/ trezor, wat doe ik</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Waarom kan ik mijn Polygon GHST niet zien op Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Waarom kan ik mijn LP Tokens niet zien in QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Kan ik Polygon-side tokens direct naar gecentraliseerde Exchanges sturen?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Waarom verwerpt Metamask mijn token symbool?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>Ik heb mijn GHST uit Polygon teruggetrokken, maar ik moet ze nog ontvangen zelfs na een lange wachttijd</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Waarom ervaart ik vertraging op Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Waar vind ik mijn Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Waar vind ik mijn Gotchi adres?</a></p>
 </ol>
 
 </div>
@@ -416,205 +416,205 @@ Nee, het onderpand of aToken dat in de Aavegotchi zit verhogen of verlagen heeft
 
 ### Wat is de Gotchiverse?
 
-The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+De Gotchiverse is het vlaggenschipspel van het Aavegotchi NFT Gaming Protocol. We denken er graag aan als "Clash of Clans" tegen "Stardew Valley" tegen "Eve Online", een open wereld waarin elementen van farming worden gecombineerd met socialisering, gevechten en wereld exploratie, allemaal aangedreven door de Blockchain en geregeerd door de spelers.
 
 ### Wat is Gotchus Alchemica?
 
-Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
+Gotchus Alchema zijn de vier elementen van de Gotchivere: Fud, Fomo, Alpha, en Kek. Het zijn fair-lancerende ERC20-tokens die worden gebruikt om Installatie-NFT's binnen de Gotchivers te maken.
 
-Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
+Spelers kunnen Alchemica verdienen op drie verschillende manieren: het verbouwen van hun REALM pakketjes, het kanaliseren vanuit de lucht hierboven of het inzamelen op het oppervlak. Gotchus Alchema kan ook worden ingeruild voor [GHST](/ghst) (onze eco-governance token) met behulp van onze native DEX, de Gotchus Alchemica exchange (GAX).
 
 ### Wat is een Alchemisch Aaltar?
 
-The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
+De Alchemische Aaltar is de belangrijkste installatie die je op je Gotchiverse REALM pakket kunt plaatsen. Het wordt gebruikt voor Alchemisch Channeling met je Aavegotchi. De Alchemische Aaltar kan worden geüpgraded om met Gotchus Alchema de tech boom van andere installaties te bevorderen.
 
 ### Heb ik een Aavegotchi nodig om te spelen?
 
-Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+Ja, je hebt een Aavegotchi nodig om te spelen in de Gotchiverse. Als u geen Aavegotchi bezit, kunt u toegang krijgen tot de Gotchiverse door er een te lenen met ons Gotchi Lending programma.
 
 ## Gotchi Lending Veelgestelde Vragen
 
 ### Wie pet een geleende Aavegotchi?
 
-The owner is still able to pet their Aavegotchi while it is being borrowed.
+De eigenaar is nog steeds in staat om zijn Aavegotchi te petten terwijl hij wordt geleend.
 
-### Is there a way to recall an Aavegotchi early once it’s been lent?
+### Is er een manier om een Aavegotchi vroeg terug te roepen zodra hij geleend is?
 
-No, once created an agreement cannot be broken or recalled.
+Nee, wanneer een overeenkomst gecreëerd is, kan deze niet gebroken of teruggeroepen worden.
 
-### Can a borrower add or remove Wearables from an Aavegotchi?
+### Kan een lener wearabellen toevoegen of verwijderen van een Aavegotchi?
 
-No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+Nee, bij het lenen van een Aavegotchi kun je geen Wearables uitrusten. De lener zal kunnen zien hoeveel Wearables er zijn uitgerust voordat hij ervoor kiest om een Gotchi te lenen.
 
 ### Moet je een Aavegotchi opnieuw lijsten zodra een huurperiode is voltooid?
 
-Yes, you will need to relist once the agreement has been concluded.
+Ja, u zult moeten herlijsten zodra de overeenkomst is gesloten.
 
-However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
+U kunt de overeenkomst echter ook uitbreiden door ze eenvoudigweg niet af te sluiten. De overeenkomst blijft actief tot wanneer Lender of Borrower ze beindigd.
 
 ### Waarom accepteert het whitelist veld geen wallet adressen?
 
-For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
+Voor Gotchi Lending, accepteert het whitelist veld geen wallet adressen. Het accepteert de whitelist ID.
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+Nadat u een Whitelist heeft gemaakt, kan de whitelist ID gevonden worden op de [whitelisten pagina](https://app.aavegotchi.com/whitelists).
 
 ## Aambassador Veelgestelde Vragen
 
 ### Moet ik maandelijks rapporten invullen als ambassadeur?
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+Nee, dat doe je niet. Dit Aambassador-programma is zo ontworpen dat je je minder moet concentreren op beheerderstaken en meer op het bouwen van je **#GotchiGang.**
 
 ### Hoe groot moet ik mijn #GotchiGang groeien?
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+Het is eigenlijk beter om je **#GotchiGang** kleiner en specifiek te houden. Je kunt een **#GotchiGang** maken voor je stad of dorp, je universiteit… creativiteit is van jou!
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+Zodra uw groep 100 legitieme leden bereikt, wordt u officieel herkend als een Aavegotchi Aambassador.
 
 ### Wat als de #GotchiGang naam die ik wil al door iemand anders is gekozen?
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+We zullen u informeren of de naam al is overgenomen nadat u uw aanvraag op het typeformulier heeft ingevuld.
 
 ### Ik heb al een Aavegotchi gerelateerde groep. Moet ik een Aambassador worden?
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+Absoluut! Zolang we eenvoudig de groei van je netwerk kunnen bijhouden, kun je in aanmerking komen voor een Aambassador.
 
 ### Ik heb een vraag die hier niet is beantwoord. Waar moet ik het vragen?
 
-All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
+Alle vragen over het Aambassadora-programma kunnen worden doorgestuurd naar jason@, (of in Discord.
 
 ## Guild Veelgestelde Vragen
 
 ### Wat zijn de verschillen tussen Ambassadeurs en Guilds?
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+Aambassadeurs groepen zijn bedoeld om nieuwe mensen in Aavegotchi te introduceren, terwijl Gilden voor bestaande spelers zijn om samen te spelen in de Gotchiverse.
 
 ### Hoe voeg ik mijn Guild toe aan de Guild Wikipagina?
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DM BowtiedNerd#6509 op Discord met alle vereiste informatie die in de [Guild wiki pagina](/guild) staat.
 
 ## Bridging Veelgestelde Vragen
 
 ### Kan ik nog steeds mijn Aavegotchi petten zodra het terug naar Ethereum is gebridged?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**JA**, de ontwikkelaars van Gotchi World en Gotchi Care (Gotchi petting services) hebben gracieus aangeboden om alle bridged Aavegotchis automatisch te petten, wat ervoor zorgt dat je nog steeds kinship verdient terwijl je Gotchi op Ethereum is! Terwijl u op Ethereum vakantie zal uw Aavegotchi elke dag zijn kinship score met twee punten laten toenemen, maar het zou zeker een bezoek of twee van zijn meesters waarderen! Het is eenzaam in spaace…
 
 ### Kan mijn Aavegotchi nog Rarity Farming beloningen verdienen als deze op Ethereum bestaat?
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**Ja**, uw Gotchi zal nog steeds in aanmerking komen voor Rariteit Farming beloningen in alle drie categorieën wanneer overgebracht. Alle beloningen gaan direct naar zijn pocket.
 
 ### Kan mijn Gotchi worden overbrugd met wearables uitgerust?
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**Ja**, je kunt zoveel wearables dragen als je wilt voordat je gaat overbruggen. BUT hou er rekening mee dat uw Aavegotchi niet geen wardrobe veranderingen kandoen terwijl u Ethereum gebruikt.
 
 ### Kan mijn Gotchi wearables uitrusten of uitdoen terwijl hij op Ethereum zit?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**Nee**, uw Gotchi is eigenlijk bevroren als momentopname op het moment dat het werd overbrugd. U kunt echter op elk gewenst moment terugkoppelen naar Polygon. (normale overbruggingskosten zijn van toepassing).
 
 ### Kan ik nog steeds mijn Aavegotchi gebruiken om te spelen in het aankomende Gotchiver-spel terwijl het op Ethereum staat?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**NEE**, aangezien de Gotchiverse op Polygon draait, zal elk Gotchis op Ethereum Mainnet niet kunnen deelnemen aan de Gotchiverse. Brug terug wanneer je wilt spelen!
 
 ### Kunnen individuele Wearables, Portals en Verbruiksartikelen ook worden overbrugd naar Ethereum en op Rarible worden vermeld?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**Ja** maar **NOG NIET**. Portalen zijn een onmiddellijk ja omdat ze ook ERC-721 tokens zijn. De wearables en verbruiksartikelen zijn ERC-1155 artikelen en zullen de komende weken hun eigen brugopening hebben.
 
 ### Als ik een Aavegotchi op Ethereum koop door Rarible, hoe brug ik het dan terug naar Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Bezoek gewoon [aavegotchi.com/bridge](https://aavegotchi.com/bridge). U kunt terug bridge op elk gewenst moment!
 
 ### Kan ik mijn Aavegotchi op de Baazaar verkopen terwijl hij is verhuisd naar Ethereum?
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**Nee**, u kunt alleen handelen op Ethereum-marktplaatsen zoals Raribel terwijl de Aavegotchi wordt overbrugd.
 
 ### Kan ik mijn Aavegotchis op OpenSea verhandelen terwijl ze op Ethereum zitten?
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+**Ja**, u kunt in elke Ethereumgebaseerde NFT-markt handelen, maar u verdient alleen RARI wanneer u handelt op Rarible!
 
 ## Technische Veelgestelde Vragen
 
 ### Is Aavegotchi on-chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Alle elementen van het Aavegotchi spel zijn [opgeslagen op de Ethereum-blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). U kunt meer lezen over ons unieke ontwerp met behulp van de Diamond Standard [hier](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Welke portemonnee moet ik gebruiken met Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> is veruit de beste optie om te gebruiken met Aavegotchi volgens de ervaring van onze gemeenschap. Metamask en [Arkane wallet](https://arkane.network/apps) - die binnenkort met Aavegotchi zal integreren - ondersteunen ook ERC1155 tokens, betekent dat u al uw activa (zoals wearables) naast uw GHST tokens in uw portemonnee kunt zien.
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+Voor android apparaten, is het gebruik van de Metamask app met de ingebouwde browser een goede keuze.
 
-### Will Aavegotchi run on Layer 2?
+### Zal Aavegotchi uitgevoerd worden op Layer 2?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Ja! Aavegotchi gebruikt [Polygon](https://matic.network/) als een Layer 2 oplossing. Het team heeft Polygon geselecteerd omdat ze een sterk team hebben, vooruitgang geboekt heeft in decentralisatie, en wat een sterk netwerkeffect lijkt te hebben met andere NFT-platforms zoals OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Moet ik mijn Aave tokens migreren?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi zal werken met aTokens van [Aave versie 2.](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - dus zorg ervoor dat je alle tokens die je op versie 1 hebt migreert voordat je probeert je Aavegotchi op te eisen. Volgens Stani zouden we [binnenkort een migratie-instrument moeten hebben](https://twitter.com/StaniKulechov/status/1334546997827809285) (voor lanceer) :)
 
-### How do I migrate to Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+### Hoe migreer ik naar Polygon?
+Bekijk onze [Polygon Migratie gids](/polygon).
 
-### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### Ik heb een ledger/ trezor, wat doe ik?
+U kan nog steeds toegang krijgen tot Polygon met de Trezor One. Voor alle anderen is dat nu niet mogelijk. U kunt een nieuwe Metamask portemonnee maken en DM @Jesse +unnamed@@0 gldnXross#6482 voor hulp.
 
-### Why can't I see my Polygon GHST on Metamask?
+### Waarom kan ik mijn Polygon GHST niet zien op Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Zorg ervoor dat u twee transacties hebt voltooid: (1) goedkeuring van transacties, en (2) migratie van Mainnet naar Polygon. Het token adres voor GHST op Polygon is als volgt: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### Why can't I see my LP Tokens on QuickSwap?
+### Waarom kan ik mijn LP Tokens niet zien in QuickSwap?
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+Nadat u de LP tokens op QuickSwap heeft gezet, zult u ze niet kunnen zien in uw portemonnee. Unstake als je wilt dat ze in je portemonnee zichtbaar zijn.
 
-### Can I send Polygon-side tokens to Centralized Exchanges directly?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+### Kan ik Polygon-side tokens direct naar gecentraliseerde Exchanges sturen?
+**Nee!** Je moet Polygon-side tokens niet direct naar gecentraliseerde Exchanges (bijvoorbeeld Binance, Coinbase, enz.) sturen. Je moet ze terug bridgen naar Ethereum Mainnet voordat je dat doet.
 
-### Why is Metamask rejecting my token symbol?
+### Waarom verwerpt Metamask mijn token symbool?
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+Metamask heeft een maximum van 11 tekens voor hun token symbool. Je kunt het token symbool veranderen naar korter en het zal werken. Het wijzigen van het symbool naar iets korter heeft geen invloed op de token; het heeft alleen invloed op de weergave op uw metamask.
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+Een groot aantal mensen is op dit probleem gestuit omdat het stkGHST-QUICK token meer dan 11 tekens bevat.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbool Limiet" />
 
-### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+### Ik heb mijn GHST uit Polygon teruggetrokken, maar ik moet ze nog ontvangen zelfs na een lange wachttijd
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+Ik heb mijn GHST tokens (of andere activa voor die kwestie) van Polygon terug naar Ethereum Mainnet gehaald met de [Aavegotchi Bridge](https://aavegotchi.com/bridge). Na enkele uren moet ik nog steeds mijn activa op Ethereum Mainnet ontvangen. Wat kan ik doen?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+Ga eerst naar de [Polygon Block Explorer](https://explorer.matic.network/) en geef je transactie-ID in. Verkrijg het Bloknummer van uw transactie.
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+Vervolgens, vervang het gedeelte [blockNumber] in de volgende URL met het werkelijke bloknummer en ga naar de URL:
 
-https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
+https://apis.matic.netwerk/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+Deze URL geeft de status aan van uw opnametransactie.
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+Als uw transactie niet is verwerkt door Polygon, blijf geduldig wachten. Er zijn gevallen geweest waarbij het tot zes uur duurde.
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Als uw transactie is verwerkt door Polygon en uw assets nog steeds niet verschijnen op de Aavegotchi Bridge UI, neem contact op met Coderdan (of andere aapprenties) voor ondersteuning.
 
-### Why am I experiencing lag on Polygon?
+### Waarom ervaart ik vertraging op Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+Misschien wilt u proberen om verbinding te maken met de andere Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+Voor stap-voor-stap instructies over hoe dit te doen, Raadpleeg onze [Polygon Guide](/polygon).
 
-### Where do I find my Gotchi Token ID?
+### Waar vind ik mijn Gotchi Token ID?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+Om je Aavegotchi Token ID te krijgen (elke Aavegotchi heeft een unieke ID), ga naar de [My Aavegotchis pagina](https://aavegotchi.com/aavegotchis). Klik op een van uw Gotchis en obteer het nummer achteraan de URL. Het ziet er als volgt uit:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Zodra je je Gotchi ID hebt gekregen, kun je je Gotchis koppelen met je Discord handvat met de volgende Discord opdracht:
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+Houd er rekening mee dat als u meer dan 1 Gotchi hebt, u hetzelfde proces meerdere keren moet herhalen.
 
-### Where do I find my Gotchi Address?
+### Waar vind ik mijn Gotchi adres?
 
-Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Click on any one of your Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Klik op een van je Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Klik op de Pocket knop en de Gotchi Pocket box zal verschijnen. Er zal een "Bekijk" knop zijn. Klik erop en u zult naar dat specifieke Gotchi Smart Contract adres gebracht worden. Dit is een escrow contract waarmee de eigenaar van de Gotchi kan communiceren.
 
-Do note that each Gotchi will have its own Smart Contract Address.
+Houd er rekening mee dat elke Gotchi zijn eigen Smart Contract adres zal hebben.
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">Wordt vervolgd!</p>
 
 
