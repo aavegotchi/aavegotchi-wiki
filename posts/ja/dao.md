@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'AavegotchiDAOのすべて'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
