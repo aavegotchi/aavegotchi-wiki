@@ -139,7 +139,7 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 
 * **コア提案（Core Proposal）** - シグナル提案が20%以上の定足数（ポリゴン上で投票可能な流通GHSTの量）を達成した場合、Pixelcraftはこれらの提案をコア提案として再提案します。 これらの投票には拘束力があり、参加者への[XP](/traits#experience)報酬の対象となります。
 
-<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
+<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO 提案の種類" />
 
 **コア提案**は、さらに3つのタイプに分類されます：
 
@@ -196,63 +196,63 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 
 ### スナップショット投票
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.page/#/aavegotchi.eth)です。
 
-To vote on Snapshot, follow the steps below:
+スナップショットで投票を行うには、以下の手順で行います：
 
-1). Go to an open proposal.
+1). 開いてる提案にアクセスする。
 
-2). Connect your wallet.
+2). ウォレットを接続する。
 
-<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "スナップショット投票 イーサリアム" />
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "スナップショット投票 イーサリアム" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). 投票オプションを選択し、"Vote"（投票する）をクリックする。 選択を確認するためのポップアップが表示されます。
 
-<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "スナップショット投票 イーサリアム" />
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "スナップショット投票 イーサリアム" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). あなたのメタマスク（Metamask）がポップアップで表示されます。 トランザクションをサインをして完了です！
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "Snapshot Votingで取引の署名" />
 
-### Aragon Voting
+### アラゴン投票
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+アラゴン は、イーサリアム上の分散型組織を作成し、参加するためのツールです。 アラゴン上で行われる投票はガスを必要とし、オンチェーンに存在します。
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aavegotchiのアラゴンのページは[こちら](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/)でご覧になれます。
 
-To vote on Aragon, follow the steps below:
+アラゴンで投票するには、以下の手順で行ってください：
 
-1). Go to an open proposal.
+1). 開いてる提案にアクセスする。
 
-2). Connect your wallet.
+2). ウォレットを接続する。
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "アラゴン投票　イーサリアム" />
 
-3). Choose to vote "Yes" or "No."
+3). "はい "または "いいえ "の投票を選択する。
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "アラゴン投票　イーサリアム" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). メタマスク（Metamask）のトランザクションがポップアップします。 なお、取引は採掘（マイン）されないと確定しないので、最新のガス価格は[gasnow](https://gasnow.org/)などのサイトを参照してください。
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). 採掘が完了すると、投票内容が反映されます。
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "アラゴン投票　イーサリアム" />
 
-## Aavegotchi Improvement Proposals (AGIPs)
+## Aavegotchi Improvement Proposals (AGIPs)（Aavegotchi改善案）
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+アラゴンでの投票をご覧ください。 それはAavegotchi改善案（AGIPs）なんです!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+過去の投票一覧は、[Aavegotchi改善案のページ](/aavegotchi-improvement-proposals)をご覧ください。 今後の提案について情報を手に入れたい場合は、[ソーシャルメディアでAavegotchi](/socialmedia)をフォローしてください。
 
-Vote on AGIPs and get [POAP badges](/poap) for it!
+AGIPsに投票して、[POAPバッジ](/poap)をゲットしよう！
 
 ## 宝庫
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAOは、イーサリアムメインネット上のAavegotchi[Bonding Curve](/curve)の全取引の0.3%を獲得しています。 これが現在のDAOの全資金源です。
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+責任ある運営者として、AavegotchiDAOのメンバーはこれらの資金がどのように配分されるかを決定する役割を担います。
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/treasury)にあります。
