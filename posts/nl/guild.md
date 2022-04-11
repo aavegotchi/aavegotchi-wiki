@@ -14,73 +14,73 @@ REALM gameplay komt er binnenkort aan! Er zullen tal van activiteiten in de Gotc
 **Inhoud**
 
 <ol>
-<li><a href=#accessing-a-guild>Accessing a Guild</a></li>
+<li><a href=#accessing-a-guild>Toegang tot een Guild</a></li>
 <li><a href=#guild-channeling>Guild Channeling</a></li>
-<li><a href=#linking-your-guild-to-a-crest>Linking your Guild to a Crest</a></li>
-<li><a href=#list-of-guilds>List of Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#linking-your-guild-to-a-crest>Je Guild koppelen aan een Crest</a></li>
+<li><a href=#list-of-guilds>Lijst van Guilds</a></li>
+<li><a href=#guild-map>Guild Kaart</a></li>
 </ol>
 
 </div>
 
-## Accessing a Guild
+## Toegang tot een Guild
 
-Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
+Gotchi Lodges zullen toegankelijk zijn voor Gotchis met een "Guild Crest." Een Guild Crest is een specifiek NFT dat moet worden vastgehouden of uitgerust door een Aavegotchi.
 
-By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).
+Standaard zullen Gotchi Lodges toegankelijk zijn voor elke Gotchi met de juiste Guild Crest in zijn Pocket (open toegang), maar Guilds kunnen ook de toegang tot bepaalde Gotchi ID's beperken door Aavegotchis te vereisen om lidmaatschap aan te vragen (beperkte toegang) of zelfs om aan te geven welke Aavegotchis kan aanvragen voor lidmaatschap (whitelisting).
 
-There are 2 types of Guild Crests:
+Er zijn 2 soorten Guild Crests:
 
-* **Wearables Crests**: An established Aavegotchi protocol ERC-1155 [Wearables](/wearables) (such as Common Rofl, or Aave Hero Mask) with limited supply.
+* **Wearables Crests**: Een gevestigd Aavegotchi protocol ERC-1155 [Wearables](/wearables) (zoals Common Rofl, of Aave Hero Mask) met beperkte aanvoer.
 
-* **Insignia Crests**: Special ERC-1155 NFTs without a fixed quantity that can be minted by Guild Owners and held by Aavegotchi members to allow access into a Gotchi Lodge.
+* **Insignia Crests**: Speciale ERC-1155 NFTs zonder een vaste hoeveelheid die kan worden gemijnd door Guild Owners en vastgehouden door Aavegotchi leden om toegang tot een Gotchi Lodge.
 
-Each Gotchi Lodge can link one Insignia Crest and up to three Wearable Crests. The main difference between the two Crests is that **Wearable Crests** endow Guild Channeling privileges, whereas **Insignia Crests** only allow Guild access.
+Elke Gotchi Lodge kan een Insignia Crest koppelen en maximaal drie draagbare Crests. Het belangrijkste verschil tussen de twee Crests is dat **Wearable Crests** geeft Guild Channeling privileges, terwijl **Insignia Crests** alleen Guild toegang toestaat.
 
 ## Guild Channeling
 
-Guild Channeling (also known as Communal Channeling) is a ritual that Guild members can engage in every week to summon Alchemica to rain down nearby from the Gotchiverse.
+Guild Channeling (ook wel bekend als communaal channelen) is een ritueel waar de leden van de Guild elke week aan kunnen deelnemen om Alchemica op te roepen om te regenen uit de lucht van de Gotchiverse.
 
-Alchemica earned is dependent on the following 3 factors:
+Verdiende Alchemica is afhankelijk van de volgende drie factoren:
 
-* **Base Channel Rate** – how much Alchemica is allocated, before any modifications
+* **Base Channel Rate** – hoeveel Alchemica is toegewezen, vóór eventuele modificaties
 
-* **Gotchi Presence** – how many Guild members are present
+* **Gotchi Presence** - hoeveel Guild leden aanwezig zijn
 
-* **Wearable Crest Rarity** – the rarity of the Wearable used for channeling
+* **Wearable Crest Zeldzaamheid** - de zeldzaamheid van de wearable gebruikt om te channelen
 
-The Base Channel Rate will initially be set at 20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK. This Rate may need to be adjusted by the community over time to prevent going over the Alchemica budget for Alchemical Channeling (25% of total supply over the lifetime of the game, 50% of which is allocated to Guild Channeling).
+The Base Channel Rate zal in eerste instantie worden ingesteld op 20 FUD, 10 FOMO, 5 ALPHA en 2 KEK. Dit tarief kan in de loop van de tijd aangepast moeten worden door de gemeenschap om te voorkomen dat het budget voor Alchemica overschreden wordt (25 procent van de totale voorraad over de levensduur van het spel, 50% daarvan wordt toegewezen aan Guild Channeling).
 
-Every extra Aavegotchi holding the designated Wearable that joins in the ritual increases the total by the Base Channel Rate **Gotchi Presence**, which results in exponentially more Alchemica being dropped:
+Elke extra Aavegotchi die de aangewezen wearable heeft en die meedoet in het ritueel verhoogt het totaal door de basis channel rate **Gotchi Presence**, die ertoe leidt dat exponentieel meer Alchemica worden afgedankt:
 
-table_gotchiPresenceBonus
+tabel_gotchiPresenceBonus
 
-**Wearable Crest Rarity Multiplier** designates the base rate at which Alchemica is dropped:
+**Wearable Crest Rarity Multiplier** wijst de basissnelheid aan waarmee Alchemica wordt gechanneled:
 
-table_wearableMultiplier
+tafel_wearableVermenigvuldiger
 
-## Linking your Guild to a Crest
+## Je Guild koppelen aan een Crest
 
-*Wearable Crests*
+*Draagbare Crests*
 
-A Gotchi Lodge has to link with a Wearable Crest on-chain before it can engage in Alchemical Channeling. Initially, only **one** Guild can use each Wearable.
+Een Gotchi Lodge moet verbinden met een Wearable Crest on-chain voordat het kan deelnemen aan Alchemical Channeling. In eerste instantie kan slechts **één** Guild elke Wearable gebruiken.
 
-A Gotchi Lodge will be considered “linked” with its Wearable Crest if its [REALM parcel](/gotchiverse#realm-parcel-sizes) holds a special ERC-1155 Wearable Crest NFT onchain.
+Een Gotchi Lodge zal worden beschouwd als "gekoppeld" met haar Wearable Crest als het [REALM parceel](/gotchiverse#realm-parcel-sizes) een speciaal ERC-1155 Wearable NFT onchain bevat.
 
-This ERC-1155 Crest cannot be purchased off the open market, but must be won in a [Bid-to-earn Auction](/aauction) using GLTR. Auctions will be held every **three months** for all Wearable Crests, and the winners of those auctions will automatically be transferred the Wearable Crests on-chain, thus earning their Guild the privilege to engage in Guild Channeling.
+Deze ERC-1155 Crest kan niet uit de open markt worden gekocht, maar moet worden gewonnen in een [Bid-to-earn Veiling](/aauction) met behulp van GLTR. Veilingen zullen elke **drie maanden worden gehouden** voor alle Wearables Crests, en de winnaars van die veilingen zullen automatisch de Wearable Crests on-chain overdragen krijgen, zodat hun Guild het voorrecht heeft om aan Guild Channeling deel te nemen.
 
-This gives a strong incentive for Guilds to hold and LP their Alchemica, to continue earning GLTR, and providing Guild Channeling for their members.
+Dit geeft een sterke stimulans voor Guilds om vast te houden en hun Alchemica te LPen, om GLTR, te blijven verdienen en Guild Channeling aan te bieden voor hun leden.
 
 *Insignia Crests*
 
-Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
+Elke Gotchi Lodge kan een onchain ERC-1155 Insignia Crest voor zijn leden minten om toegang tot het Lodge te geven zonder het Wearable Crest te bezitten. De eigenaar van het Lodge kan de Crest metagegevens bijwerken om de naam en het uiterlijk van de Crest’s onchain ID te wijzigen.
 
-## List of Guilds
+## Lijst van Guilds
 
-table_guild
+tabel_guild
 
-## Guild Map
+## Guild Kaart
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+Gilden organiseren zichzelf in districten. De volgende guild kaart is gecompileerd door MonsterRNG#3333 van Avid Aavegotchis
 
-<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Map" />
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Kaart" />
