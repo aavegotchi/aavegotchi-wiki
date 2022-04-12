@@ -10,7 +10,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
-<p class="headerImageText">Aavegotchi Realm</p>
+<p class="headerImageText">Aavegotchi レルム（Realm）</p>
 </div>
 
 Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
