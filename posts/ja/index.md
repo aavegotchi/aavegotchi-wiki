@@ -1,46 +1,46 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+title: 'Aavegotchiウィキ'
+description: 'Aavegotchiウィキのすべて'
 image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Aavegotchiウィキ</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Aavegotchi公式ウィキへようこそ、フレンよ！
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+このウィキは、Aavegotchiに関するすべての知識を集約したもので、アーカイバー（Aarchiver）と呼ばれる素晴らしいチームの貢献によって維持・更新されています。
 
-## New to Aavegotchi?
+## Aavegotchiは初めてですか？
 
-Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
+Aavegotchiのゲームの概要については、「[はじめに](/introduction)」をご覧ください。
 
-## Popular Pages
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Wearables](/wearables) -- Fashion for your Aavegotchi
-* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+## 人気のページ
+* [GHST](/ghst) -- Aavegotchiのエコガバナンストークンについて学ぶ
+* [ステーキング](/staking) -- GHSTをステーキングしてFRENS（フレンズ）を作る方法を紹介します
+* [DAO](/dao) -- AavegotchiDAOのすべて
+* [ウェアラブル](/wearables) -- あなたのAavegotchiのためのファッション
+* [ミニゲーム](/minigames) -- Aavegotchiと一緒にミニゲームで遊ぼう
+* [レアリティ・ファーミング](/rarity-farming) -- Aavegotchiをプレイして報酬をゲットしよう!
 
-## Other Useful Pages
+## その他の便利なページ
 
-* [Team](/team) -- See who's building Aavegotchi
-* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [チーム](/team) -- 誰がAavegotchiを作っているのか見てみる
+* [ロードマップ](/roadmap) -- Aavegotchiの最新のロードマップです
 
-## Litepapers
+## ライトペーパーズ
 
-* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
+* [Aavegotchi ライトペーパー](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- Aavegotchiプロジェクトの要点をまとめたオリジナルライトペーパー
+* [Aavegotchi レアルム ライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- ゴッチたちが戯れ、冒険する、これからのゴッチバースを紹介する最新ライトペーパー
 
-## Contribute
+## 貢献する
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+[Github](https://github.com/aavegotchi/aavegotchi-wiki)への書き込み権限があれば、誰でもウィキに貢献することができます。
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+貢献したい場合は、Aavegotchi Discordの#wikiチャンネルに行き、アーカイバーの誰かに許可を求めてください。
 
-Then head to our Github Repo and dive right in with your first commit. 
+その後、Github Repoにアクセスし、最初のコミットを行うことができます。 
