@@ -54,18 +54,18 @@ Aavegotchiは、CryptoKitties、Axie Infinity、Cryptovoxelsなどの人気ブ�
 
 コラテラルステーク、特性、ウェアラブル、およびキンシップの関係は、オニオンダイアグラム（下図）で最もよく表現されています。 各レイヤーは前のレイヤーの上に築かれ、その総和がAavegotchiそのものなのです!
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchiオニオン図" />
 
 ## Aavegotchiの価値
 Aavegotchi の評価は、その本質的な価値と希少価値の両方から得られます。
 
-* **本源的価値：**本源的価値とは、Aavegotchiのステークされたコラテラル（賭けられた担保）の建値（たてね）のことです。 If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **本源的価値：**本源的価値とは、Aavegotchiのステークされたコラテラル（賭けられた担保）の建値（たてね）のことです。 Aavegotchiが10 aDAIでステークされている場合、本質的価値は10 aDAIと、レンディングプールから発生した余分なaDAIを加えたものになります。 当初は、Aaveプラットフォームに掲載されている[ERC20](/glossary#erc-20)トークン（aTokens）のみがコラテラル（担保）として利用可能です。 しかし、AavegotchiDAOがローンチされると、コミュニティはどの新しいコラテラルを許可するか投票できるようになる予定です。
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **レアリティ値** レアリティ値（またはレア度）は、各Aavegotchiの特徴や装備しているウェアラブルのレアリティをAavegotchiの世界の中で計算することで決定されます。 他の NFT ゲームとは異なり、Aavegotchi のレアリティは固定値ではありません。 Aavegotchi がレベルアップし、さまざまなウェアラブルを装備すると、レア度は時間の経過とともに変化していきます。 したがって、ある週にはレアなAavegotchiが、Aavegotchiワールド内の特性やウェアラブルの全体的な分布に応じて、一般的になることもありますし、その逆も起きます。 これは「レアリティ・ファーミング」と呼ばれる新しい概念で、[このページ](/rarity-farming)で説明されています。
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
+## Aavegotchiの世界
+Aavegotchiの世界には、Aavegotchiを動かすためのすべての要素が含まれています：
 * [ポータル](/portals)
-* [GHST Utility Token](/ghst)
+* [GHSTユーティリティトークン](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/gotchiverse)
+* [Aavegotchi レルム（Realm）](/gotchiverse)
