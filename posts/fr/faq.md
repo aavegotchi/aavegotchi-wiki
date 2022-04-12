@@ -100,24 +100,24 @@ contributors:
 <p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->Comment soumettre ma Guilde à la page wiki des Guildes ?</a></p>
 <li><a href=#bridging-faq>FAQ de Bridging</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Puis-je toujours caresser mon Aavegotchi une fois qu'il a été brigé sur Ethereum?</a></p>
-<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
-<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
-<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
-<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
-<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
-<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
-<li><a href=#technical-faq>Technical FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Mon Aavegotchi peut-il toujours gagner des récompenses (Rarity Farming) tant qu'il est sur Ethereum?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Est-ce que mon Gotchi peut être bridgé avec des items équipés?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Mon Gotchi peut-il équiper ou retirer équipements sur Ethereum ?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Puis-je toujours utiliser mon Aavegotchi pour jouer dans Gotchiverse alors qu'il est sur Ethereum ?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?</a></p>
+<li><a href=#technical-faq>FAQ Technique</a></li>
+<p><a href=#is-aavegotchi-on-chain->Les Aavegotchi sont-ils on-chain ?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Quel portefeuille dois-je utiliser avec Aavegotchi ?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchi va-t-il fonctionner sur layer 2 ?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Dois-je migrer mes jetons Aave ?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->Comment puis-je migrer vers Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->J'ai une clée ledger / trezor, que faire ?</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Puis-je envoyer des jetons Polygon vers des échanges centralisés directement ?</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
@@ -498,71 +498,71 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 **YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
-### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
+### Mon Aavegotchi peut-il toujours gagner des récompenses (Rarity Farming) tant qu'il est sur Ethereum?
 
 **YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
 
-### Can my Gotchi be bridged over with wearables equipped?
+### Est-ce que mon Gotchi peut être bridgé avec des items équipés?
 
 **YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
 
-### Can my Gotchi equip or unequip wearables while on Ethereum?
+### Mon Gotchi peut-il équiper ou retirer équipements sur Ethereum ?
 
 **NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
 
-### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
+### Puis-je toujours utiliser mon Aavegotchi pour jouer dans Gotchiverse alors qu'il est sur Ethereum ?
 
 **NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
 
-### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
+### Les objets portables, portails et cles onsommables individuels peuvent-ils également être reliés à Ethereum et répertoriés sur Rarible en même temps ?
 
 **YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
+### Si j'achète un Aavegotchi sur Ethereum via Rarible, comment puis-je le faire revenir sur Polygon ?
 
 Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
-### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+### Puis-je vendre mon Aavegotchi sur le Baazaar alors qu'il est relié à Ethereum ?
 **NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
-### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+### Puis-je échanger mes Aavegotchis sur OpenSea alors qu'ils sont sur Ethereum ?
 **YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-## Technical FAQ
+## FAQ Technique
 
-### Is Aavegotchi on-chain?
+### Les Aavegotchi sont-ils on-chain ?
 
 All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Which wallet should I use with Aavegotchi?
+### Quel portefeuille dois-je utiliser avec Aavegotchi ?
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Will Aavegotchi run on Layer 2?
+### Aavegotchi va-t-il fonctionner sur layer 2 ?
 
 Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Do I need to migrate my Aave tokens?
+### Dois-je migrer mes jetons Aave ?
 
 Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-### How do I migrate to Polygon?
+### Comment puis-je migrer vers Polygon?
 Check out our [Polygon Migration Guide](/polygon).
 
 ### I have a ledger / trezor, what do I do?
 You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### Why can't I see my Polygon GHST on Metamask?
+### Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?
 
 Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### Why can't I see my LP Tokens on QuickSwap?
+### Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Can I send Polygon-side tokens to Centralized Exchanges directly?
+### Puis-je envoyer des jetons Polygon vers des échanges centralisés directement ?
 **No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
 ### Why is Metamask rejecting my token symbol?
