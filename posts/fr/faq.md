@@ -118,11 +118,11 @@ contributors:
 <p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Pourquoi ne puis-je pas voir mes GHST Polygon sur Metamask ?</a></p>
 <p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Pourquoi ne puis-je pas voir mes jetons LP sur QuickSwap ?</a></p>
 <p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Puis-je envoyer des jetons Polygon vers des échanges centralisés directement ?</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Pourquoi Metamask refuse-t-il l'ajout de mon token ?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>J'ai retiré mes GHST de Polygon, mais je ne les ai pas encore reçu même après une longue attente</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Pourquoi j'ai de l'attente sur Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Où puis-je trouver mon ID de Gotchi ?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?</a></p>
 </ol>
 
 </div>
@@ -565,7 +565,7 @@ After you have staked your LP tokens on QuickSwap, you will not be able to see t
 ### Puis-je envoyer des jetons Polygon vers des échanges centralisés directement ?
 **No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
-### Why is Metamask rejecting my token symbol?
+### Pourquoi Metamask refuse-t-il l'ajout de mon token ?
 
 Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
@@ -573,7 +573,7 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 <img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
-### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
+### J'ai retiré mes GHST de Polygon, mais je ne les ai pas encore reçu même après une longue attente
 
 I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
@@ -589,13 +589,13 @@ If your transaction has not been processed by Polygon, please continue to wait p
 
 If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Why am I experiencing lag on Polygon?
+### Pourquoi j'ai de l'attente sur Polygon?
 
 You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### Where do I find my Gotchi Token ID?
+### Où puis-je trouver mon ID de Gotchi ?
 
 To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
@@ -609,7 +609,7 @@ Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord h
 
 Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Where do I find my Gotchi Address?
+### Où puis-je trouver l'adresse du portefeuille contenant mon Gotchi ?
 
 First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
