@@ -83,23 +83,23 @@ contributors:
 <p><a href=#what-is-gotchus-alchemica->Qu'est-ce que le Gotchus Alchemica?</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->Qu'est-ce qu'un autel alchimique ?</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->Ai-je besoin d'un Aavegotchi pour jouer ?</a></p>
-<li><a href=#gotchi-lending-faq>Gotchi Lending FAQ</a></li>
-<p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
-<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
-<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
-<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
-<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Why doesn't the Whitelist field accept wallet addresses?</a></p>
-<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
-<li><a href=#guild-faq>Guild FAQ</a></li>
-<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
-<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
-<li><a href=#bridging-faq>Bridging FAQ</a></li>
-<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
+<li><a href=#gotchi-lending-faq>Location de Gotchi</a></li>
+<p><a href=#who-pets-a-lent-aavegotchi->Qui caresse un Aavegotchi loué ?</a></p>
+<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Y a t'il une manière de récupérer un Gotchi qui a été loué ?</a></p>
+<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Un locataire peut il ajouter ou enlever des équipements à un Aavegotchi ?</a></p>
+<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Avez-vous besoin de réinscrire un Aavegotchi une fois la période de location terminée?</a></p>
+<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Pourquoi le champ Liste blanche n'accepte-t-il pas les adresses de portefeuille?</a></p>
+<li><a href=#aambassador-faq>FAQ AAmbassador</a></li>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->Quelle taille doit atteindre mon #GotchiGang ?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je la poser ?</a></p>
+<li><a href=#guild-faq>FAQ de guilde</a></li>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->Comment soumettre ma Guilde à la page wiki des Guildes ?</a></p>
+<li><a href=#bridging-faq>FAQ de Bridging</a></li>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Puis-je toujours caresser mon Aavegotchi une fois qu'il a été brigé sur Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
 <p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
 <p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
@@ -432,9 +432,9 @@ L'Alchemical Aaltar est l'installation la plus importante que vous pouvez placer
 
 Oui, vous avez besoin d'un Aavegotchi pour jouer dans le Gotchiverse. Si vous ne possédez pas d'Aavegotchi, vous pouvez accéder au Gotchiverse en empruntant un avec notre programme de prêt Gotchi.
 
-## Gotchi Lending FAQ
+## Location de Gotchi
 
-### Who pets a lent Aavegotchi?
+### Qui caresse un Aavegotchi loué ?
 
 The owner is still able to pet their Aavegotchi while it is being borrowed.
 
@@ -446,55 +446,55 @@ No, once created an agreement cannot be broken or recalled.
 
 No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
 
-### Do you need to relist an Aavegotchi once a rental period has concluded?
+### Avez-vous besoin de réinscrire un Aavegotchi une fois la période de location terminée?
 
 Yes, you will need to relist once the agreement has been concluded.
 
 However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 
-### Why doesn't the Whitelist field accept wallet addresses?
+### Pourquoi le champ Liste blanche n'accepte-t-il pas les adresses de portefeuille?
 
 For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
 After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
-## Aambassador FAQ
+## FAQ AAmbassador
 
-### Do I need to fill out monthly reports as an Aambassador?
+### Dois-je remplir des rapports mensuels en tant qu'ambassadeur ?
 
 No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### How big should I grow my #GotchiGang?
+### Quelle taille doit atteindre mon #GotchiGang ?
 
 Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
 Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-### What if the #GotchiGang name I want has already been taken by someone else?
+### Que se passe-t-il si le nom #GotchiGang que je veux a déjà été pris par quelqu'un d'autre ?
 
 We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
+### J'ai déjà un groupe sur le thème Aavegotchi. Dois-je postuler pour devenir ambassadeur?
 
 Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### I have a question that isn’t answered here. Where should I ask it?
+### J’ai une autre question à laquelle je n'ai pas trouvé de réponse ici. Où puis-je la poser ?
 
 All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
-## Guild FAQ
+## FAQ de guilde
 
-### What are the differences between Aambassador groups and Guilds?
+### Quelles sont les différences entre les groupes d'Aambassadeur et les guildes ?
 
 Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-### How do I submit my Guild to the Guild wiki page?
+### Comment soumettre ma Guilde à la page wiki des Guildes ?
 
 DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
-## Bridging FAQ
+## FAQ de Bridging
 
-### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
+### Puis-je toujours caresser mon Aavegotchi une fois qu'il a été brigé sur Ethereum?
 
 **YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
