@@ -2,11 +2,11 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+description: 'Aavegotchiウィキの紹介'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,9 +14,9 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi**は、シンガポールのPixelcraft Studiosが開発したDeFi対応のクリプト収集ゲームで、プレイヤーは[Non-fungible tokens（NFTs）](/glossary#non-fungible-token)アバターに[利子を生むトークン](/spirit-force)をステークし、Aavegotchi[メタバース](/gotchiverse)と対話することができます。 [Decentralized Finance（DeFi）](/glossary#defi-101)とNFTsを組み合わせたユニークなものです。
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Aavegotchiは、[**ERC-721**](/glossary#erc-721)標準に支えられたイーサリアム・ブロックチェーン上に生息するピクセル化されたゴーストです。 Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
 
 To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
 
