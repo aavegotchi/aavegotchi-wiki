@@ -111,48 +111,48 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 レルム区画の所有者は、自分のAavegotchi（または他の人のもの）を使ってレルム区画を耕し、ゴッチュスアルケミカとして知られている資源を大量に生産することができます。 これらの資源を組み合わせることで、「[インスタレーション（施設）](/gotchiverse#building-on-realm-parcels)」と呼ばれる強力な建造物を作ることができます。
 
-The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+ゴッチバースは、プレイヤーが農業、工芸、取引、戦闘などの様々な活動に従事できるオープンエンドの社会的空間です。
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
+勝利条件や「ゲーム終了」シナリオはありませんが、ゴッチバースの包括的な目標の1つは、アルケミカを集めて区画を強化し、より多くの収穫物を生産し、予言の到来と大きなリッキデーターの侵略に備えて防御体制を整えることです。
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+リッキデーター・クレジットを所持しているプレイヤーは、リッキデーターとしてプレイすることができます。 リッキデーター・クレジットは、タスクを完了する、友人を紹介する、エアドロップに参加する、その他の方法で獲得することができます。 また、[GHST](/ghst)で購入することもできます。
 
-The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+リッキデーターの主な目的は、ゴッチバースに散らばったアルケミカを集めることですが、アルケミカを獲得するためにAavegotchiや攻撃用のインスタレーションと戦うことも可能です。
 
-Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+リッキデーターは、ゴッチバース・レルムへの無料プレイの入口として想定されており、供給量に上限はなく、収集可能な量も制限されています。
 
-There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
+また、ゴッチの所有者は、ゲームを試すために一定期間、他のプレイヤーに自分のゴッチを貸し出せる[ゴッチ レンタル](/gotchi-lending)機能も用意されています。
 
 ## ゴッチバースでの交流
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+Aavegotchiは仲間との交流が大好きで、その中でもお気に入りの場所はゴッチバース内です。
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+初期設定では、近くにいるすべてのゴッチにテキストチャットが有効になっています。 レルム区画のオーナーは、区画内のゴッチにボイスチャットを有効にするための特別なインストールを構築し、グローバルボイスチャットをサポートするためにインストールをアップグレードすることも可能です。
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+ゴッチはまた、行動を共にアドベンチャーに行くことができ、ダンジョンを探索し、リッキデーターや他の悪い奴らと戦って報酬を得ることができます。 アドベンチャーはメインのゴッチバースの外にある特別な地域で、Aavegotchiは自分の[特性](/traits)や[ウェアラブル](/wearables)を使って探索し、NPC（ノンプレイヤブルキャラ）の敵と戦い、経験や資源を獲得することができます。 しかし、それらは永遠に続くわけではありません！
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
 ## チャットコマンド
 
-The following table shows the chat commands in the Gotchiverse.
+ゴッチバースのチャットコマンドは次の表のとおりです。
 
-table_chatCommands
+表_chatCommands
 
-## Gotchus Alchemica
+## ゴッチュスアルケミカ
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
+**ゴッチュスアルケミカ（Gotchus Alchemica）**（ERC20トークン）は、ゴッチバースの4つの資源です：Fud、Fomo、Alpha、およびKekです。 これらを組み合わせて、インスタレーション（Installation）やエステティカ（Aesthetica）を作るなど、様々な使い方ができます。 トークノミックスについて詳しくは[こちら](/gotchus-alchemica)。
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-The table below shows their total supply:
+以下の表は、それらの総供給量を示しています：
 
-table_gotchusAlchemicaSupply
+表_gotchusAlchemicaSupply
 
-Gotchus Alchemica can be extracted from REALM in four distinct ways:
+ゴッチュスアルケミカは、4つの方法でレルムから抽出することができます：
 
-* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **アルケミカルチャネリング**： Aavegotchiによって得られる基本的な毎日の支給は、区画から収穫されるのではなく、ゴッチバースイーサーから直接来ている。
+* **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
 * **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
