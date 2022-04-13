@@ -53,22 +53,22 @@ contributors:
 
 ### シタデル
 
-Protected by a Force Field that keeps out lickquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Towers cannot be built in the Citaadel, except for in special areas around the Great Portal.
+リッキデーターを排除するフォースフィールドに守られたシタデルは、ゴッチバースにおけるAavegotchiの本拠地である。 シタデルには、グレートポータル周辺の特別な場所を除いて、塔を建てることはできない。
 
-#### The Great Portal
+#### グレートポータル
 
-A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) harvested from the Gotchiverse.
+シタデルの重要なランドマークの一つ、グレートポータルである。 グレートポータルは、ゴッチバースと人間レルムを結ぶ架け橋となる、魔法のような建造物である。 グレートポータルの中には、これまでに存在したすべてのAavegotchiの魂が渦巻いている。 グレートポータルはゴッチバースのシタデルを保護し、その見返りとしてゴッチバースから収穫される[ゴッチュスアルケミカ](/gotchiverse#gotchus-alchemica)の一部を受け取っている。
 
 ### グリッド
 
-The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
+グリッドは、シタデルの外側のすべてのことを言います。 グリッド内の区画はより豊かなのですが、区画の所有者はいたるところにリッキデーターが潜んでいるので注意が必要です。 グリッドの区画は、ウォールとタワーの両方を建設することができます。
 
-#### The Aarena
-A key landmark in the Grid is the Aarena.
+#### アリーナ
+グリッドの重要なランドマークのひとつアリーナです。
 
-Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
+Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけないことがわかっており、そのためにアリーナを作りました。
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/spirit-force) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+アリーナ内では、十分な[スピリットフォース](/spirit-force)を持つAavegotchi（Aaveの力を持つ利子を得られるトークン）同士が、相手のスピリットフォースを奪い合う壮大なバトルロワイアルで戦える。
 
 Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
 
