@@ -156,30 +156,30 @@ Aavegotchiネイティヴの分散型取引所（DEX）。 GHST-Gotchus Alchemic
 あなたのゴッチが住むゴッチバース内の土地。 交流したり、冒険したり、悪い奴らと戦ったりする場所です。
 
 ### スピリットフォース
-スピリットフォースとは、ゴッチの中に閉じ込められている担保（[maToken](/matokens)）の量のことです。 Aavegotchi内のスピリットフォースの量を増やしたり減らしたりすることができます。 However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+スピリットフォースとは、ゴッチの中に閉じ込められている担保（[maToken](/matokens)）の量のことです。 Aavegotchi内のスピリットフォースの量を増やしたり減らしたりすることができます。 ただし、Aavegotchiが必要とするスピリットフォースの最低レベルは、ベースレアリティスコアによって異なります。
 
 ### スピリットポイント
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+スピリットポイントとは、ゴッチがレベルアップする際に得られるポイントのことです。 RPGゲームのステータスポイントのようなものです。 3レベルごとに1ポイントもらえます。
 
-### uGOTCHI Token
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+### uGOTCHIトークン
+uGOTCHIトークンは、[Unicly](https://www.unic.ly/)を通じてミントされ、uGOTCHIコレクションを直接所有することを意味します。 ローンチ時、コレクションはイーサリアム上に存在する最初の5つのAavegotchiである「The Aastronauts」で構成されています。
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+このコレクションには、これまでで最も希少かつ高価なAavegotchiが含まれています。 スッポンポンであっても、これらのAavegotchiはすでに非常に高いレアリティスコアと超レアな目（ウェアラブルが少しも影響を与えることができない唯一の特徴）を持っています。 しかし、このERC-721 AavegotchiだけがNFTなのではありません。 彼らが装備している各ウェアラブルもERC-1155 NFTで、その多くは非常に希少で強力なアイテムです。
 
-The Collection's Aavegotchis are still able to participate in Rarity Farming.
+コレクションのAavegotchiは、現在もレアリティファーミングに参加することができます。
 
-On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+2021年5月16日、ピクセルクラフトはハウント1の3番目に低いtokenIDである「閉じたポータル2（Unopened Portal 2）」をuGOTCHIコレクションに導入しました。
 
-For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
+The AastronautsとuGOTCHIトークンの詳細については、[uGOTCHI](/ugotchi)ページをご確認ください。
 
 ### ウェアラブル
-Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+Aavegotchiが身につける衣服・装備のこと。 [ERC-1155規格](/glossary#erc-1155)に準拠している。 各ウェアラブルには、レアリティ、向上・悪化するステータス、最大数量、装備枠があります。
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+ウェアラブルはAavegotchiくじで獲得するか、[Aavegotchi モール（Maall）](/maall)で[GHSTトークン](/ghst)を使って購入することができます。
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi "とは、**De**centralized **Fi**nance（非中央型＝分散型　金融）の略です。 It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
 
 That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
