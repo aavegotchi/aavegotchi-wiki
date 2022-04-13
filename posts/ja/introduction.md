@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+description: 'Aavegotchiウィキの紹介'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -14,58 +14,58 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi**は、シンガポールのPixelcraft Studiosが開発したDeFi対応のクリプト収集ゲームで、プレイヤーは[Non-fungible tokens（NFTs）](/glossary#non-fungible-token)アバターに[利子を生むトークン](/spirit-force)をステークし、Aavegotchi[メタバース](/gotchiverse)と対話することができます。 [Decentralized Finance（DeFi）](/glossary#defi-101)とNFTsを組み合わせたユニークなものです。
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Aavegotchiは、[**ERC-721**](/glossary#erc-721)標準に支えられたイーサリアム・ブロックチェーン上に生息するピクセル化されたゴーストです。 その価値は、ベース[特性](/traits)、ステークした担保/トークンの量、装備した[ウェアラブル](/wearables)などの複数の要素を介して計算されるレアリティレベルによって決まります。
 
-To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
+Aavegotchiをレベルアップさせるために、プレイヤーは[ミニゲーム](/minigames)、ガバナンス、ミートアップなどの様々な活動に参加することができます。 また、Aavegotchiは、ゲーム内のウェアラブルを装備することで、レアリティレベル（レア度）を上げることができます。
 
-Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+レアなAavegotchiは2次[バザー](/baazaar)の価値が高いだけでなく、[レアリティ・ファーミング](/rarity-farming)というミニゲームでより良いパフォーマンスを発揮し、レアなAavegotchiにGHSTトークンの報酬が与えられます。
 
-Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated through the [GHST token](/ghst) distribution.
+Aavegotchiは[AavegotchiDAO](/dao)によって管理され、[GHSTトークン](/ghst)の配布によって得られたすべての資金を管理しています。
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#about-aavegotchis>About Aavegotchis</a></li>
-<li><a href=#aavegotchi-value>Aavegotchi Value</a></li>
-<li><a href=#the-aavegotchi-universe>The Aavegotchi Universe</a></li>
+<li><a href=#about-aavegotchis>Aavegotchiについて</a></li>
+<li><a href=#aavegotchi-value>Aavegotchiの価値</a></li>
+<li><a href=#the-aavegotchi-universe>Aavegotchiの世界</a></li>
 </ol>
 
 </div>
 
-## About Aavegotchis
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
+## Aavegotchiについて
+Aavegotchiは、CryptoKitties、Axie Infinity、Cryptovoxelsなどの人気ブロックチェーンゲームで使用されているERC-721標準に支えられたイーサリアムブロックチェーン上で生きる希少な暗号収集物です。 Aavegotchiは、Aavegotchiの世界における全体的な価値と希少性を決定する3つの属性：**コラテラルステーク（collateral stake）、特性（traits）、ウェアラブル（wearables）**を持っています。
 
-*  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+*  **担保権**：各 Aavegotchi ERC721 NFT は、Aave に裏付けられた ERC20 担保、つまり「aToken」を保持するエスクロー契約アドレスを管理します。 [aToken](/spirit-force) は Aave の LendingPool を通じて収益を生み出し、ウォレットに保持される aToken の量を増加させます。 したがって、Aavegotchiのエスクローアドレスに保持されるaTokenの量は、時間の経過とともに増加します。
 
 
-*  **Traits:** Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. **See [Traits](/traits).**
+*  **特性：**Aavegotchiは複数の特徴を持ち、レアリティ、ミニゲームでのパフォーマンス、装備できるウェアラブルに影響します。 誕生時にランダムに生成されるものもあれば、ユーザーとAavegotchiの相互作用によって左右されるものもあります。 **[特徴](/traits)を参照してください。**
 
-    * **Random Traits**: Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical depending on its rarity.
+    * **ランダム特性：**出生時に ChainLink VRF 乱数生成関数を用いて、すべての Aavegotchi にいくつかのランダムな特性値が割り当てられます。 特性値はベル曲線上に分布し、各特性にはその希少性によってコモン（Common）、アンコモン（Uncommon）、レア（Rare）、またはミスィカル（Mythical）の値が割り当てられます。
 
-    *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
+    *  **キンシップ：**「親密度」はランダムではなく、誕生時に固定値（50）で始まり、同じ飼い主との付き合いの長さや、飼い主の交流の度合いなど、様々な要因で増減します。
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
+    *  **経験値：**AavegotchiDAOでの投票やミニゲームに参加することで経験値が増え、レベルアップします。 Aavegotchiは3レベルごとに1[スピリットポイント](/glossary#spirit-point)を受け取り、特定の特性の値の増減に使うことができます。
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **ウェアラブル** aToken エスクローの管理に加えて、Aavegotchi は [ERC998 Composables 標準](/glossary#erc-998)を拡張し、Aavegotchi エコシステムではウェアラブルとして知られているチャイルド NFT を管理できます。 すべてのウェアラブルをすべての Aavegotchi が装備できるわけではありません。 ウェアラブルの中には、特定のコラテラルでステーキングされたAavegotchi、特定のレベルのAavegotchi、特定の特性を持つAavegotchiだけが装備できるものがあります。 ウェアラブルの中には、Aavegotchiの特定の特性を増加または減少できるものがあります。 例えば、剣を装備するとAavegotchiの攻撃性が少し上がり、ボブ・マーレーのシャツを装備すると元気度が下がることがあります。
 
-The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
+コラテラルステーク、特性、ウェアラブル、およびキンシップの関係は、オニオンダイアグラム（下図）で最もよく表現されています。 各レイヤーは前のレイヤーの上に築かれ、その総和がAavegotchiそのものなのです!
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchiオニオン図" />
 
-## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+## Aavegotchiの価値
+Aavegotchi の評価は、その本質的な価値と希少価値の両方から得られます。
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **本源的価値：**本源的価値とは、Aavegotchiのステークされたコラテラル（賭けられた担保）の建値（たてね）のことです。 Aavegotchiが10 aDAIでステークされている場合、本質的価値は10 aDAIと、レンディングプールから発生した余分なaDAIを加えたものになります。 当初は、Aaveプラットフォームに掲載されている[ERC20](/glossary#erc-20)トークン（aTokens）のみがコラテラル（担保）として利用可能です。 しかし、AavegotchiDAOがローンチされると、コミュニティはどの新しいコラテラルを許可するか投票できるようになる予定です。
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **レアリティ値** レアリティ値（またはレア度）は、各Aavegotchiの特徴や装備しているウェアラブルのレアリティをAavegotchiの世界の中で計算することで決定されます。 他の NFT ゲームとは異なり、Aavegotchi のレアリティは固定値ではありません。 Aavegotchi がレベルアップし、さまざまなウェアラブルを装備すると、レア度は時間の経過とともに変化していきます。 したがって、ある週にはレアなAavegotchiが、Aavegotchiワールド内の特性やウェアラブルの全体的な分布に応じて、一般的になることもありますし、その逆も起きます。 これは「レアリティ・ファーミング」と呼ばれる新しい概念で、[このページ](/rarity-farming)で説明されています。
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
-* [GHST Utility Token](/ghst)
+## Aavegotchiの世界
+Aavegotchiの世界には、Aavegotchiを動かすためのすべての要素が含まれています：
+* [ポータル](/portals)
+* [GHSTユーティリティトークン](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/gotchiverse)
+* [Aavegotchi レルム（Realm）](/gotchiverse)

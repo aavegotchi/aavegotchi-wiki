@@ -1,103 +1,103 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+title: '特性'
+description: 'Aavegotchiの特性の全て！'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
   - "unintelligent-nerd"
 ---
 
-Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
+アベゴッチは生まれながらにして特徴を持っています。 ちょうどあなたの特徴が人としてのあなたを定義するように、Avegotchiの特徴もゴーストとしての生活を決定するのに重要です。 複数の特性を持つことで、[特性の基本レアリティ](/rarity-farming#base-rarity-score)、[ミニゲーム](/minigames)でのパフォーマンス、そして装備可能な[アイテム](/wearables)が変化します。 [ポータル](/portals)から召喚されたAavegotchiは、ランダムに生成された特性の組み合わせで生まれます。 ただし、Aavegotchiの特性は<a href=#level>レベル</a>や装備品、消耗品の使用によって変化します。 
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#randomly-generated-traits>Randomly Generated Traits </a></li>
-<li><a href=#spirit-force-trait-modifiers>Spirit Force Trait Modifiers</a></li>
-<li><a href=#kinship>Kinship</a></li>
-<li><a href=#experience>Experience</a></li>
-<li><a href=#level>Level</a></li>
-<li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Aging Mechanic</a></li>
+<li><a href=#randomly-generated-traits>ランダム生成された特性 </a></li>
+<li><a href=#spirit-force-trait-modifiers>スピリットフォース特性モディファイア</a></li>
+<li><a href=#kinship>キンシップ</a></li>
+<li><a href=#experience>経験値</a></li>
+<li><a href=#level>レベル</a></li>
+<li><a href=#haunt>ハウント</a></li>
+<li><a href=#aging-mechanic>エージングメカニズム</a></li>
 </ol>
 
 </div>
 
-## Randomly Generated Traits
-Aavegotchis have six traits:
+## ランダム生成された特性
+Avegotchiには6つの特性があります：
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
-* EYS = Eye Shape
-* EYC = Eye Color
+* AGG＝攻撃性
+* NRG＝エネルギー
+* SPK＝不気味さ（おどろおどろしさ）
+* BRN＝脳の大きさ
+* EYS＝アイ・シェイプ（目の形）
+* EYC＝アイ・カラー（目の色）
 
-Using RPG (Role-playing Game) terminology, `AGG` is equivalent to Strength, `NRG` is equivalent to Agility, `BRN` is equivalent to Intelligence, and `SPK` is a wildcard trait. Do note that these traits are not exactly the same as standard RPGs; lower trait values in the Aavegotchi metaverse are also very powerful!
+RPG（ロールプレイングゲーム）用語で、`AGG`はStrength（強さ）、`NRG`はAgility（機敏さ）、`BRN`はIntelligence（知能）に相当し、`SPK`はワイルドカードの特性である。 これらの特性は標準的なRPGと全く同じではないことに注意してください。Aavegotchiメタバースでは低い特性値も非常に強力です！
 
-Traits are determined at the point of opening a [Portal](/portals). Upon opening of a Portal, [Chainlink’s VRF random number generator function](/glossary#chainlink-vrf) is called to assign Aavegotchis with random trait values. These trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical, depending on its rarity. The chances of getting each trait rarity is shown in the table below:
+特性は、[ポータル](/portals)を開いた時点で決定されます。 ポータルを開くと、[ChainlinkのVRFランダム数生成関数](/glossary#chainlink-vrf)が呼び出され、アアベゴッチにランダムな特性値が割り当てられます。 特性値はベルカーブで分布しており、各特性にはそのレアリティに応じてCommon、Uncommon、Rare、Mythicalの値が割り当てられている。 各特性のレアリティが得られる確率は、以下の表のとおりです：
 
-table_TraitsProbabilities
+表_特性確率
 
-The bell curve for trait value distribution would look something like the following:
+特性値の分布のベルカーブは次のようなものです：
 
-<img class="bodyImage" src="/traits/bell_curve.png" alt = "bell curve" />
+<img class="bodyImage" src="/traits/bell_curve.png" alt = "ベル曲線" />
 
-Aavegotchis possess six traits initially, although these may be extended in the future via voting in [AavegotchiDAO](/dao). Some traits, like the Aavegotchi's body colour (other than plain old white), will be defined by the AavegotchiDAO for every new haunt!
+Avegotchiは当初6つの特性を持っていますが、将来的には[AvegotchiDAO](/dao)の投票によって拡張される可能性があります。 Aavegotchi の体の色（白以外）のようないくつかの特性は、新しいハウントごとに AavegotchiDAO によって定義されます。
 
-Unlike other games, in Aavegotchi, there is no “optimal” trait. Each attribute (except for eye shape and eye color) has different effects in different mini-games. For example, Aavegotchis with higher energy may perform well in races, but would not perform well in a meditation mini-game.
+他のゲームとは異なり、Aavegotchi には「最適」な特性はありません。 各属性（目の形と目の色を除く）は、異なるミニゲームで異なる効果を発揮します。 たとえば、エネルギーが高いAavegotchiはレースでは好成績を残すかもしれませんが、瞑想のミニゲームではうまくいかないかもしれません。
 
-The tables below detail each trait by rarity. *Note: The two tables should be seen as one. It has been split apart to render on mobile devices.*
+以下の表は、各特性のレアリティ別の詳細です。 *注：2つの表は1つのものとして見てください。 モバイル用に分割されています。*
 
-table_TraitsByRarity1 table_TraitsByRarity2
-<p style="margin-left: 3.0em"><i> (L) denotes "Low"; (H) denotes "High" </i></p>
-<p style="margin-left: 3.0em"><i> *Common eye colours take on the colours of the staked collateral on your Aavegotchi. i.e. orange for aDAI, sky blue for aAAVE, purple for aETH etc. </i></p>
+表_レアリティ別特性1 表_レアリティ別特性2
+<p style="margin-left: 3.0em"><i> (L)は "低"、(H)は "高 "を表す。 </i></p>
+<p style="margin-left: 3.0em"><i> *Aavegotchiにステークされるコラテラル・トークンの色がコモン・アイ・カラー（目の色）になります。 例えば、aDAIはオレンジ、aAAVEはスカイブルー、aETHはパープルなどといった感じです。 </i></p>
 
-For more detailed information on every single Eye Shape, check out the [Eye Shape page](/eye-shape).
+各アイシェイプの詳細については、[アイシェイプのページ](/eye-shape)を参照してください。
 
-## Spirit Force Trait Modifiers
+## スピリットフォース特性モディファイア
 
-The type of [spirit force](/spirit-force) that your Aavegotchi has also influences their trait values:
+あなたのAavegotchiが持っている[スピリットフォース](/spirit-force)の種類も、特性の値に影響を及ぼします。
 
-table_spiritForceModifiers
+表_スピリット・フォース・モディファイア
 
-## Kinship
-Kinship is your Aavegotchi’s feeling of loyalty towards you. More information can be found on the [Kinship page](/kinship).
+## キンシップ
+キンシップとは、あなたのAavegotchiがあなたに対して抱く忠誠心のことです。 詳しくは[キンシップ](/kinship)のページをご覧ください。
 
-## Experience
-Aavegotchis receive experience (XP) for:
-* Voting in [AavegotchiDAO](/dao)
-* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
-* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
+## 経験値
+Aavegotchiは以下のことで経験値（XP）を得ることができます：
+* [AvegotchiDAO](/dao)で投票する
+* Aavegotchi Discordで開催されるイベントに参加する（イベント中にタイプフォームが公開され、それに記入することでゴッチのXPがもらえます）。
+* [ミニゲーム](/minigames)で遊ぶ（Discordで告知された特定の期間のみ）
 
-Aavegotchis can also be sacrificed to remove their [spirit force](/spirit-force) and have it transferred to another Aavegotchi. The recipient Aavegotchi will receive 100% of the sacrificed Aavegotchi’s accrued XP.
+また、Aavegotchiを生け贄にして[スピリットフォース](/spirit-force)を取り除き、他のAavegotchiに移し替えることも可能です。 受け取ったAavegotchiは、生け贄にしたAavegotchiのXPの100%を受け取ります。
 
-XP exists as an internal balance on the Aavegotchi smart contract.
+XP は Aavegotchi スマートコントラクトの内部残高として存在します。
 
-XP can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+XP は Aavegotchi の[プロフィールページ](/aavegotchi-profile)で確認することができます。
 
-## Level
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+## レベル
+AavegotchiはXPをより多く獲得することでレベルアップします。 Aavegotchiは3レベルごとに1[スピリットポイント](/glossary#spirit-point)を受け取り、このポイントを特定の特性の増減に割り当てることができます。 一部のウェアラブルは、特定のレベルのAavegotchiだけが着用できます。
 
-The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+ゴッチレベルが高いほど、より多くの[ギルド](/guild)に参加することができます。
 
-For detailed information on the XP required for each level, click [here](/xp).
+各レベルに必要なXPの詳細については、[こちら](/xp)をご覧ください。
 
-Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+あなたのAavegotchiのレベルは[Aavegotchiプロフィールページ](/aavegotchi-profile)で確認することができます。
 
-## Haunt
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+## ハウント
+Aavegotchiは新世界の開拓者のように、ネザー界からエーテル界へ、「[ハウント](/haunt)」と呼ばれる集団で移動します。 最初のハウントには10,000匹のAavegotchiがいます。 その後、新たなハウントは[AavegotchiDAO](/dao)の許可を得なければなりません。 一部のウェアラブルは、特定のハウントに所属するAavegotchiのみが着用できます。
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
+ハウントはエディションと考え、ハウント番号はゴッチに表示されます。 なお、各ハウントのステータスに違いはありません。
 
-## Aging Mechanic
+## エージングメカニズム
 
 Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを導入しました。
 
 ゴッチは、年をとる事につれてレア度が少しブーストされるはずです。 それは、召喚の統計的差異を打ち消し、長期的な関与に報いるためです。
 
-For more information, check out the [Aging Mechanic](/aging-mechanic) page.
+詳しくは、[エイジングメカニズム](/aging-mechanic)のページをご覧ください。

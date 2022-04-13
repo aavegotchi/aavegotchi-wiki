@@ -16,7 +16,7 @@ The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>

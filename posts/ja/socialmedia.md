@@ -18,7 +18,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#Discord>Discord</a></li>
@@ -27,6 +27,7 @@ Welcome to the Aavegotchi fam, fren! Our community is a vibrant group that’s c
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
 <li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
@@ -77,6 +78,12 @@ around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavego
 <a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
 
 <p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+
+<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
 
 We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 

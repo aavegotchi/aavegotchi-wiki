@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Statistics for Past Aavegotchi Raffles'
 description: 'Statistics for Past Raffles'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 How many raffle tickets were submitted in past raffles? How many were there in each category? We have the historical data for past raffles for you here!
@@ -15,7 +15,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#wearable-raffles>Wearable Raffles</a></li>

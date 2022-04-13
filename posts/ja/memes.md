@@ -1,15 +1,15 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Memes'
 description: 'The meme game is stronk with this one'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>

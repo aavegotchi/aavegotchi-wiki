@@ -1,11 +1,23 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Milestones'
 description: 'Milestones of the Aaavegotchi Project'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
+
+## [Limited Edition Golden Tile NFTs](https://blog.aavegotchi.com/aavegotchi-limited-edition-golden-tile-nfts-are-coming-to-the-gotchiverse/)
+* Pixelcraft Studios introduces the limited edition Gold Tiles for the Gotchiverse
+* There are 3 designs
+* You have 2 weeks to craft each Golden Tile
+* Hurry up and continue collecting those Alchemica!
+<p></p>
+
+## [Aavegotchi March Update](https://blog.aavegotchi.com/aavegotchi-march-update/)
+* Our shippoooorrrr has been shipping
+* Gotchiverse Alpha Launch, Gotchi Lending, Gotchiverse Game Bible Chapter 3, and moar!
+<p></p>
 
 ## [The Gotchiverse has launched!](https://blog.aavegotchi.com/play-to-earn-guide-the-gotchiverse-alpha-launch/)
 * The Gotchiverse has launched!
@@ -200,7 +212,7 @@ contributors:
 
 ## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
 * Gotchigang, boy do we have tons of exciting events for you!
-* Haunt 2 Raffle: 5 - 8 September 2021
+* ハウント2抽選会：2021年9月5日～9月8日
 * AavegotchiDAO Frens Committee: 16 September 2021
 * FRENS Wearables Raffle #5: 24 - 28 September 2021
 * Baazaar NFT offers feature: Early October
@@ -341,7 +353,7 @@ contributors:
 <p></p>
 
 ## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Fren, we got you covered!
+* Missed the 1st Community Call? フレンよ、オレ達に任せな！
 * The Aavegotchi team expands!
 * More collaborations announced!
 * More discussions on AavegotchiDAO
@@ -419,7 +431,7 @@ contributors:
 <p></p>
 
 ## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. This is the current source of all DAO funds.
+* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. これが現在のDAOの全資金源です。
 <p></p>
 
 ## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)

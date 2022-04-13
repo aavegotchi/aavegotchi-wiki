@@ -1,5 +1,5 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'アイテムセット'
 description: 'Aavegotchiアイテムセットについて'
@@ -23,22 +23,22 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#key>Key</a></li>
+<li><a href=#key>キー</a></li>
 <li><a href=#wearable-sets>アイテムセット</a></li>
 </ol>
 
 </div>
 
-## Key
+## キー
 
 * BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG＝攻撃性
+* NRG＝エネルギー
+* SPK = 不気味さ（おどろおどろしさ）
+* BRN = 脳の大きさ
 
 ## アイテムセット
 

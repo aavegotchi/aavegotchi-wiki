@@ -27,6 +27,7 @@ contributors:
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
 <li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi 马来西亚</a></li>
 </ol>
 
@@ -70,6 +71,12 @@ Discord 对于有疑问的小伙伴来说也是一个很好的平台，加入其
 <a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
 
 <p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+
+<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
 
 We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 

@@ -6,7 +6,7 @@ description: 'Short Answers to Quick Questions'
 image: "faq/faq.png"
 contributors:
   - "eris771"
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -18,7 +18,7 @@ contributors:
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
@@ -88,6 +88,7 @@ contributors:
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
 <p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
 <p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
+<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Why doesn't the Whitelist field accept wallet addresses?</a></p>
 <li><a href=#aambassador-faq>Aambassador FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
@@ -224,11 +225,11 @@ Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
 From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
-Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
+maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
 
-* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するHaunt 1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
-* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
+* amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
 
 ### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
@@ -450,6 +451,12 @@ No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The 
 Yes, you will need to relist once the agreement has been concluded.
 
 However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
+
+### Why doesn't the Whitelist field accept wallet addresses?
+
+For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
+
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
 ## Aambassador FAQ
 

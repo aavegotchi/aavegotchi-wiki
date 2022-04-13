@@ -17,58 +17,60 @@ contributors:
 **Inhoud**
 
 <ol>
-<li><a href=#what-is-gotchi-lending->What is Gotchi Lending?</a></li>
-<li><a href=#what-can-i-do-with-gotchi-lending->What can I do with Gotchi Lending?</a></li>
-<li><a href=#instructions>Instructions</a></li>
+<li><a href=#what-is-gotchi-lending->Wat is Gotchi Lending?</a></li>
+<li><a href=#what-can-i-do-with-gotchi-lending->Wat kan ik doen met Gotchi Lending?</a></li>
+<li><a href=#instructions-for-lenders>Instructies voor Lenders</a></li>
 </ol>
 
 </div>
 
-## What is Gotchi Lending?
+## Wat is Gotchi Lending?
 
-Gotchi Lending is the Aavegotchi Protocol’s sharing economy, that allows users to lend their Aavegotchi NFTs out to other players for a set period of time.
+Gotchi Lending is de gedeelde economie van het Aavegotchi Protocol waarmee gebruikers hun Aavegotchi NFTs kunnen uitlenen aan andere spelers voor een bepaalde periode.
 
-The owners of the Gotchi are able to set:
-* any up-front fees
-* the duration of the lending period
-* the earnings split
+De eigenaren van de Gotchi zijn in staat om in te stellen:
+* kosten vooraf
+* de duur van de leningperiode (maximaal 30 dagen)
+* de winst splitsen
 
-Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
+Gotchi Lending is 100% op de blockchain, staat de naadloos, betrouwbaar en veilig delen van Aavegotchi NFT's toe.
 
-## What can I do with Gotchi Lending?
+## Wat kan ik doen met Gotchi Lending?
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+Gotchi Lending is nuttig voor iedereen die een Aavegotchi bezit. Het is ook handig voor iedereen die wil spelen in de soon-to-launch [Gotchiverse](/gotchiverse). Grote [guilds](/guild) kunnen de functie gebruiken om de NFT's in handen te krijgen van hun leden, en zal zelfs de mogelijkheid hebben om verdiende fondsen te delen aan de schatkist van de guild.
 
-Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
+Individuen zullen ook gebruik kunnen maken van Gotchi Lending door hun Aavegotchis publiekelijk beschikbaar te maken om passief inkomen te verdienen of zelfs vrienden en familie als hun Aavegotchi laten spelen zonder kosten.
 
-## Instructions
+## Instructies voor Lenders
 
-**Step 1: Set the Duration and Upfront Cost**
+**Stap 1: Stel de duur en de kosten bovenaan in**
 
-First the lender will set any upfront costs, the lending duration, and which tokens to share with the borrower. Whether to charge an upfront cost or not is up to the owner and the market. The majority of lenders will likely not charge an upfront cost, allowing anyone to use their Aavegotchis for free!
+Ten eerste stelt de kredietverstrekker alle vooraf gemaakte kosten, de duur van de leningen en welke tokens hij moet delen met de lener. Het is aan de eigenaar en de markt om de kosten vooraf te berekenen of niet. De meerderheid van de kredietverstrekkers zal waarschijnlijk geen kosten vooraf in rekening brengen, waardoor iedereen zijn Aavegotchis gratis kan gebruiken!
 
-Lenders will be able to select which tokens to share with borrowers. This means a lender can choose to offer a sharing rate on some tokens and not others. For example, a lender can choose to offer a 100% sharing rate on one token, but not share any others. Alternatively, they could elect to share 50% of each.
+Lenders kunnen selecteren welke tokens ze moeten delen met kredietnemers. Dit betekent dat een kredietgever kan kiezen om een deelkoers aan te bieden op sommige tokens en niet op andere. Een kredietgever kan er bijvoorbeeld voor kiezen om een deelkoers van 100% op één token aan te bieden, maar geen andere te delen. Als alternatief zouden ze kunnen kiezen voor 50 procent van elk stuk.
 
-Additionally, the token sharing options now include GHST in addition to the four types of Gotchus Alchemica. This is particularly important during Rarity Farming seasons, because lenders will get to determine what, if any, portion of an Aavegotchi’s GHST balance they wish to share.
+Daarnaast omvatten de opties voor token delen nu GHST naast de vier soorten Gotchus Alchemica. Dit is met name belangrijk in het seizoen van de Rarity Farming, omdat kredietverstrekkers zullen kunnen bepalen wat ze zullen krijgen, als die er zijn, deel van het GHST-saldo van een Aavegotchi willen ze delen.
+
+De lender zou ook een whitelist ID kunnen specificeren die de adressen bevat die in aanmerking komen om Gotchi te lenen. Je kunt je whitelist ID vinden op de [whitelist pagina](https://app.aavegotchi.com/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
-**Step 2: Choose your Profit Split**
+**Stap 2: Kies uw winstdeling**
 
-Next they will set the profit split, including the option to send earnings to a third-party address such as a guild wallet.
+Vervolgens zullen ze de winstsplitsing instellen, met inbegrip van de optie om inkomsten te sturen naar een adres van derden zoals een guild wallet.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-2.png" />
 
-**Step 3: Review and Finalize**
+**Stap 3: Herzien en afronden**
 
-Finally, the lender reviews the terms one more time and creates the lending listing.
+Tot slot beoordeelt de kredietgever de voorwaarden nog een keer en creëert hij een leenlijst.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-3.png" />
 
-**Bonus Step:**
+**Bonus stap:**
 
-Lenders will also have the ability to create whitelists, making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+Kredietgevers zullen ook de mogelijkheid hebben om [whitelisten](https://app.aavegotchi.com/whitelists)te creëren en hun Aavegotchis alleen beschikbaar te maken voor een exclusieve groep kredietnemers. Deze functie is perfect voor guilds die ervoor willen zorgen dat hun Aavegotchi NFT's in de handen van leden van hun guild komen.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
-On the other side of the coin, borrowers will have a number of filters at their disposal to allow them to find the Aavegotchi that best suits their needs. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+Aan de andere kant van de medaille, kredietnemers zullen over een aantal filters beschikken zodat ze de Aavegotchi kunnen vinden die het beste bij hun behoeften past. Aavegotchis beschikbaar om te lenen kunnen worden gefilterd op basis van winstverdeling, upfront kosten, duur en gedeelde tokens.

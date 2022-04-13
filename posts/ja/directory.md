@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki Directory'
 description: 'Aavegotchi Wiki Directory'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 Here is the list of pages in the Aavegotchi Wiki:
@@ -19,7 +19,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aging Mechanic](/aging-mechanic)
+* [エージングメカニズム](/aging-mechanic)
 
 * [Baadge](/baadge)
 
@@ -33,7 +33,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Contracts](/contracts)
 
-* [Bonding Curve](/curve)
+* [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
@@ -45,13 +45,13 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Gaame Jaam](/gaame-jaam)
 
-* [GHST Token](/ghst)
+* [GHSTトークン](/ghst)
 
 * [Glossary](/glossary)
 
 * [Gotchi Lending](/gotchi-lending)
 
-* [Gotchiverse](/gotchiverse)
+* [ゴッチバース](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
 
@@ -59,13 +59,13 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Guild](/guild)
 
-* [Haunt](/haunt)
+* [ハウント](/haunt)
 
 * [Home](/index)
 
 * [Introduction](/introduction)
 
-* [Kinship](/kinship)
+* [キンシップ](/kinship)
 
 * [Maall](/maall)
 
@@ -91,7 +91,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Polygon](/polygon)
 
-* [Portals](/portals)
+* [ポータル](/portals)
 
 * [Raffles Statistics](/raffles-stats)
 
@@ -99,7 +99,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Rarity Farming Seasons](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [ロードマップ](/roadmap)
 
 * [Sets](/sets)
 
@@ -109,7 +109,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Spirit Force History](/spirit-force-history)
 
-* [Staking](/staking)
+* [ステーキング](/staking)
 
 * [Team](/team)
 
@@ -119,12 +119,12 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Traits](/traits)
+* [特性](/traits)
 
 * [Tutorials](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
-* [Wearables](/wearables)
+* [ウェアラブル](/wearables)
 
 * [XP](/xp)

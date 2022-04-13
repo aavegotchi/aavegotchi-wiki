@@ -7,6 +7,18 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Limited Edition Golden Tile NFTs](https://blog.aavegotchi.com/aavegotchi-limited-edition-golden-tile-nfts-are-coming-to-the-gotchiverse/)
+* Pixelcraft Studios introduces the limited edition Gold Tiles for the Gotchiverse
+* There are 3 designs
+* You have 2 weeks to craft each Golden Tile
+* Hurry up and continue collecting those Alchemica!
+<p></p>
+
+## [Aavegotchi March Update](https://blog.aavegotchi.com/aavegotchi-march-update/)
+* Our shippoooorrrr has been shipping
+* Gotchiverse Alpha Launch, Gotchi Lending, Gotchiverse Game Bible Chapter 3, and moar!
+<p></p>
+
 ## [The Gotchiverse has launched!](https://blog.aavegotchi.com/play-to-earn-guide-the-gotchiverse-alpha-launch/)
 * The Gotchiverse has launched!
 * During the alpha period (31st March - 30th April), collect Alchemica with your Gotchis!

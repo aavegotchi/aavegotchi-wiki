@@ -43,8 +43,9 @@ Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. 
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Ontwikkelaar</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Ambassadeur Lead</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Oorsprong</a></li>
 </ol>
 
@@ -223,6 +224,15 @@ Uit de geschiedenis blijkt dat hij in de Canadese wilde natuur is opgegroeid. Hi
 
 Patrick Kim, aka Mori is een baanbrekende defi degen en solidity ontwikkelaar van Los Angeles. Hij vond Aavegotchi nadat hij een hoop geld verloren had in poocoins, en werd geïnspireerd door de hoeveelheid inspanning die wordt besteed aan NFT's bestemd voor de liquiditeiten. In het verleden was hij een statisticus en eerder een vliegtuig mechanieker. Hij kijkt naar anime voor de plots en was een bereidwillige ondersteunende speler die niet onder druk stond toen hij DotA jaren geleden speelde. In zijn vrije tijd vraagt hij graag voortdurend naar coderdan over wanneer zijn favoriete functies te verzenden.
 
+### Thrax - Media Production
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
+</div>
+
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+
 ### JC - Business Development
 
 <div class="leftImageContainer">
@@ -230,16 +240,16 @@ Patrick Kim, aka Mori is een baanbrekende defi degen en solidity ontwikkelaar va
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc is een business development strateeg en blockchainliefhebber, met een schat aan ervaring in het verbinden en netwerken met enkele van de slimste geesten in de cryptovaluta-ruimte. Hij heeft aangetoond talent te hebben voor het opbouwen van relaties, voor het beïnvloeden van strategische partnerschappen. het ontwikkelen van nieuwe verkoopkanalen, het gebruik van sociale media en virale marketing met opmerkelijke effectiviteit. Een van zijn grootste passies is het introduceren en bevorderen van nieuwe bedrijven en het ondersteunen van hun startende ondernemingen. Zijn enthousiasme voor de ruimte is gebaseerd op een onwrikbaar geloof in de verstorende kracht van blockchain-technologie.
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Ambassadeur Lead
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Dingen die Webb leuk vind:
+Things Webb loves:
 * dao's en defi
 * videogames, favoriet spel is dota, het nostalgische spel is World of Warcraft
 * lange wandelingen op het strand
@@ -250,15 +260,15 @@ Dingen die Webb leuk vind:
 
 ## Oorsprong
 
-### Het Droom Team Komt Samen
-Dit is het team, achter de meme.  Een droomteam volgens eender welke maatstaf staat op het punt de wereld over te nemen. Het volgende verhaal is een vrij nauwkeurig overzicht van de manier waarop het team samenkwam.  Artsen stilgeplakt door Vanilladelphia.eth Aapprentice et al.
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Het jaar was 2011... of misschien 2012.  Coder Dan had net zijn studies voltooid, toen hij besloot zijn echte passie voort te zetten.  Verkopen van snoep op een strand in China.  Dan wist dat ze deze voorbarige baan niet zomaar aan een schlub zouden overhandigen, vooral aan een buitenlander zoals hij.  Dat is wanneer onze held beslist dat hij beter een echte baan kan krijgen, en een Youtube beroemdheid... en dat is precies wat hij deed.  Na een paar jaar snel vooruit en jonge Coderdan was het klaar om terug te gaan naar het strand.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"Het is tijd om wat snoep te verkopen" Zoet Dan.
+"It's time to sell some candy" Said Dan.
 
-En wat een verkoper was hij!  Hoewel hij helaas niet goed genoeg was om snoep te verkopen op het strand, De jongeman stak zo energiek zijn bel vast met het oog van een andere jonge toeschouwer van Jesse, AKA GldnXross.  De twee werden snel frens, samen gekibbel en het maken van geweldige muziek.  Gelukkig slaagde de maiyatang er niet uit, en het duo ging door met veel grotere dingen...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-Toen onze dromers besloten dat ze een volledig onchain versie van het klassieke speelgoed van de jaren negentig zouden maken, noemde iedereen ze waanzinnig.  Maar Coder Dan had dit al eerder gehoord, maar hij wist dat hij gelijk HAD.  ze konden dit niet doen, althans niet alleen.  Ze hadden de beste, nacht, het beste van de best... maar wie dan wel?  "Xibot!" Dan zei onmiddellijk.  Als er iemand is die de essentie van een klassieke zo nabij en ons hart dierbaar is, dan moet het hem zijn!”.  "Hmm, maar hoe zit het met smart contracten?" zei GldnXross.  Er is toch niemand die goed genoeg is om deze dingen VOLLEDIG onchain op te slaan! "Er is één persoon" zei Dan. "Deze man houdt zo veel van smart contracts, dat hij smart contracten schrijft voor smart contracten."  "Wacht even, ik heb van deze kerel..." gehoord GldnXross "Nick Mudge!"  "En Gemeenschap? We hebben toch iemand nodig die de spammers geweldig de kop opsteekt en de noobs helpt!"  Dan keek om... "Er is iets te zeggen over een man, met het geduld van een heilige en de banhamer van Thor." De naam van die man? JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Dus dit is hoe onze helden bijeen zijn gekomen, enkele details zijn voor een bepaalde tijd gewijzigd.
+So this is how our heroes assembled, some details have been edited for time.

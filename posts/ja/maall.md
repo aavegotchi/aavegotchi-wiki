@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Maall'
 description: 'Aavegotchi Maall'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +24,7 @@ The doors to the Maall creaks open.
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#aavegotchi-maall>Aavegotchi Maall</a></li>

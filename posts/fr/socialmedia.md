@@ -27,7 +27,8 @@ Bienvenue dans la famille d'Aavegotchi ! Notre communauté est un groupe passion
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
 <li><a href=#Blog>Blog</a></li>
-<li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
+<li><a href=#Twitch>Twitch</a></li>
+<li><a href=#aavegotchi-malaysia>Aavegotchi Malaisie</a></li>
 </ol>
 
 </div>
@@ -76,11 +77,17 @@ environ 3.100 autres frens. Complet avec les autocollants Aavegotchi Telegram, l
 
 <p style="margin-left: 4.8em">Tenez-vous au courant des dernières nouvelles de Gotchi sur notre blog!</p>
 
-Nous nous réjouissons de vous accueillir à nouveau. Rendez-vous sur l'une de nos chaînes pour en savoir plus.
+&nbsp;<a name="Twitch"></a>
 
-## Aavegotchi Malaysia
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Regardez le Gotchiverse en direct sur notre Twitch!**</a>
 
-Aavegotchi Malaysia est l'endroit idéal pour se détendre dans la famille Aavegotchi malaisienne ! Découvrez notre [Groupe Facebook](https://www.facebook.com/groups/aavegotchimalaysia)! L'Aambassadeur malaisien Buzz Lightyear / Jason Chew vous souhaite la bienvenue!
+<p style="margin-left: 4.8em">Regardez des séquences de gameplay en direct sur notre Twitch!</p>
+
+Nous nous réjouissons de vous accueillir les frens! Rendez-vous sur l'une de nos chaînes pour en savoir plus.
+
+## Aavegotchi Malaisie
+
+Aavegotchi Malaisie est l'endroit idéal pour se détendre dans la famille Aavegotchi malaisienne ! Découvrez notre [Groupe Facebook](https://www.facebook.com/groups/aavegotchimalaysia)! L'Aambassadeur malaisien Buzz Lightyear / Jason Chew vous souhaite la bienvenue!
 
 
 

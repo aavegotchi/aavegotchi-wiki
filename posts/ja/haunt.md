@@ -1,54 +1,54 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Haunts'
-description: 'Haunt'
+title: 'ハウント'
+description: 'ハウント'
 contributors:
-  - "unintelligent-nerd"
+  - "Unintelligent Nerd"
 ---
 
 <div class="headerImageContainer">
-<img src="/haunt/haunt-1-aavegotchi.png" class="headerImage" alt="Haunt 1 Aavegotchi with Background">
-<p class="headerImageText">Haunt 1 Aavegotchi with Background</p>
+<img src="/haunt/haunt-1-aavegotchi.png" class="headerImage" alt="ハウント1 背景付きAavegotchi">
+<p class="headerImageText">ハウント1 背景付きAavegotchi</p>
 </div>
 
-Haunts are the different editions of Aavegotchis. Learn more about the different haunts here!
+ハウントはAavegotchiのさまざまなエディションです。 それぞれのハウントについて、詳しくはこちらをご覧ください。
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#haunt-1>Haunt 1</a></li>
-<li><a href=#haunt-2>Haunt 2</a></li>
-<li><a href=#exclusive-spirit-forces>Exclusive Spirit Forces</a></li>
+<li><a href=#haunt-1>ハウント1</a></li>
+<li><a href=#haunt-2>ハウント2</a></li>
+<li><a href=#exclusive-spirit-forces>限定スピリットフォース</a></li>
 </ol>
 
 </div>
 
-## Haunt 1
+## ハウント1
 
 
 
-Haunt 1 was launched on 2 March 2021. 10,000 Aavegotchi [Portals](/portals) were released to the public on a first-come, first-serve basis.
+ハウント1は2021年3月2日に発売されました。 先着順で1万個のAavegotchi[ポータル](/portals)が公開されました。
 
-The first 10,000 portals were sold out in less than one minute. The launch was a huge success by all metrics except the fact that not everyone could have a Portal.
+最初の１万個のポータルは1分足らずで完売しました。 誰もがポータルを持てるわけではないことを除けば、この発売はあらゆる指標で大成功でした。
 
-Haunt 1 Aavegotchis also come with an exclusive Haunt 1 Background. Check out this [medium post](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) on how to claim it if you have a Haunt 1 Gotchi. The background is programmed to be non-transferable. This means from now till forever, only Haunt 1 Aavegotchis can equip this beautiful portal-themed background!
+ハウント1 Aavegotchiには、ハウント1限定の背景も付いてきます。 ハウント1 ゴッチをお持ちの方は、この[Mediumの記事](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)でその請求（クレイム）方法をご確認ください。 この背景は、譲渡できないようにプログラムされています。 つまり、今から永遠に、ハウント1 Aavegotchiが唯一この美しいポータルをテーマにした背景を装備できるのです。
 
-This exclusive background was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
+この専用背景は[AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis)で投票されたものです。
 
-## Haunt 2
+## ハウント2
 
-Haunt 2 consists of 15,000 Portals, with 12,000 (80%) being [auctioned off](/aauction) and the remaining 3,000 (20%) being [raffled off](/tickets) using Drop Tickets.
+ハウント2は15,000個のポータルで構成され、12,000個（80％）が[オークション](/aauction)、残りの3,000個（20％）がドロップチケットによる[抽選（ラッフル）](/tickets)で提供されます。
 
-Unlike Haunt 1 which featured a “blinkandyoumissit” first-come, first serve drop, Haunt 2 promises much more sustained excitement, with a three-day #BidToEarn auction, followed by a Raffle for our loyal GHST stakers.
+ハウント2は、先着順のドロップを特徴とするハウント1とは異なり、3日間の#BidToEarnオークションと、GHSTの忠実なステイカーのためのラッフルで、より持続的な興奮を約束します。
 
-The Haunt 2 Auction runs from 26 - 29 August 2021.
+ハウント2オークションは、2021年8月26日から29日まで開催されます。
 
-The Haunt 2 Raffle will be held from 5 - 8 September 2021.
+ハウント2ラッフルは、2021年9月5日から8日まで開催されます。
 
-## Exclusive Spirit Forces
-Each Haunt has some Spirit Forces that are exclusive to it:
+## 限定スピリットフォース
+各ハウントには、そのハウント限定のスピリットフォースがあります。
 
-<img class = "bodyImage" src = "/haunt/exclusive-spirit-forces.png" alt = "Aavegotchi Haunt Exclusive Spirit Forces" />
+<img class = "bodyImage" src = "/haunt/exclusive-spirit-forces.png" alt = "Aavegotchi・ハウント限定スピリットフォース" />

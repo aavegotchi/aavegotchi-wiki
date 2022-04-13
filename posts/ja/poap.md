@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi POAPs'
 description: 'Aavegotchi POAPs'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 Hey fren, have you been actively voting in [AavegotchiDAO](/dao)?
@@ -13,7 +13,7 @@ You now have proof that you voted!
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#what-are-poaps->What are POAPs?</a></li>

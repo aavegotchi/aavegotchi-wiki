@@ -28,7 +28,7 @@ This part of the wiki will first take you through GHST's token distribution, the
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#token-distribution>Token Distribution</a></li>

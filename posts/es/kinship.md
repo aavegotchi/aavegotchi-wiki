@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Kinship'
-description: 'Everything you need to know about Kinship and petting your Gotchi!'
+title: 'Fidelidad'
+description: '¡Todo lo que necesitas saber acerca de fidelidad y acariciar a tu Gotchi!'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/kinship/petgotchi.gif">
-<p class="headerImageText">Petting your gotchi!</p>
+<p class="headerImageText">¡Acariciando tu gotchi!</p>
 </div>
 
 <div class="contentsBox">
@@ -17,46 +17,46 @@ contributors:
 **Contenidos**
 
 <ol>
-<li><a href=#what-is-kinship>What is Kinship</a></li>
-<li><a href=#kinship-levels>Kinship Levels</a></li>
-<li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+<li><a href=#what-is-kinship>Qué es Kinship</a></li>
+<li><a href=#kinship-levels>Niveles de Kinship</a></li>
+<li><a href=#kinship-and-alchemical-channeling>Kinship y Canalización de Alquimia</a></li>
 </ol>
 
 </div>
 
-## What is Kinship
+## Qué es Kinship
 
-Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+Kinship es el sentimiento de lealtad de tu Aavegotchi. Kinship no se asigna aleatoriamente, sino que comienza en un valor fijo (50) al invocar y aumenta o disminuye basándose en varios factores, tal como cuánto tiempo ha estado el Aavegotchi con el mismo propietario, y con qué frecuencia el propietario interactúa con él. El valor mínimo es 0. No hay un valor máximo de lealtad.
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+Por lo general, una propiedad más larga equivale a una lealtad mayor, pero descuidar tu Aavegotchi durante largos períodos de tiempo reducirá su nivel de lealtad. Los Aavegotchis no son sólo recipientes para almacenar sus bolsas de crypto. Ellos están vivos, respirando fantasmas y necesitan tu cariño!
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Se acumulará un máximo de 1 Kinship por cada 12 horas en las que interactúe con su Aavegotchi. Por el contrario, habrá una penalización de puntos de -1 Kinship si no interactúas con tu Aavegotchi durante 24 horas.
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+Kinship existe como un equilibrio interno en el contrato inteligente de Aavegotchi.
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables.
+Las pociones también podrían utilizarse para mejorar las puntuaciones de lealtad. Sin embargo, son consumibles de edición limitada.
 
-## Kinship Levels
+## Niveles de Kinship
 
-The table below shows the kinship level and their value range.
+La siguiente tabla muestra el nivel de lealtad y su rango de valor.
 
-table_kinship
+tabla_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+El Kinship puede verse en la página de perfil de [Aavegotchi](/aavegotchi-profile).
 
-## Kinship and Alchemical Channeling
+## Kinship y Canalización de Alquimia
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+El Kinship se utiliza para la canalización de Alquimia. La canalización alquímica es un estipendio diario básico obtenido por Aavegotchis que viene directamente del éter de Gotchivero, en vez de ser recolectado desde la parcela [](/gotchiverse).
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+La cantidad de Alchemica (FUD, FOMO, ALPHA y KEK) que el Gotchi recibe a través de las canalización alquímica depende principalmente de su nivel de Kinship.
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+La tarifa base para canalizar es **20 FUD, 10 FOMO, 5 ALPHA y 2 KEK.** Esta tasa base se multiplica por un modificador, dependiendo del nivel de Kinship del Aavegotchi (ver tabla abajo).
 
-table_alchemicaReceivedPerChanneling
+table_alchemicaRecibido por Canalización
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+Cada punto de Kinship incrementa el modificador de canalización alquímica, por la fórmula:
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+Cada Aavegotchi es elegible para participar en la canaización alquímica **una vez cada 24 horas.**
 

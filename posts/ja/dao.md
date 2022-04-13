@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: 'AavegotchiDAOのすべて'
 image: "icons/dao.svg"
 contributors:
   - "vanilladelphia"
@@ -12,247 +12,247 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/dao/dao.png">
-<p class="headerImageText">The AavegotchiDAO Crest</p>
+<p class="headerImageText">AavegotchiDAOの紋章</p>
 </div>
 
-A [DAO](glossary#dao) is a decentralized form of governance, which allows token holders to vote in order to shape the way the organization makes decisions.
+[DAO](glossary#dao)とは、分散型ガバナンスの一種で、トークン保有者が組織の意思決定方法を形成するために投票することを認めるものです。
 
-Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
+Aavegotchiは、CompoundやSynthetixといった成功したDeFiプロトコルの足跡をたどり、「段階的な分散化」のプロセスを踏みます。創設チームのPixelcraft StudiosがDAOが管理するトークン配布イベント（DAICO）を企画することから始まり、AavegotchiDAOの支援のもと、ゲームのすべての仕組み（ゲームメカニック）、スマートコントラクト、資金調達をも含む、しかし常に現行の規制環境に従いながら、Aavegotchiの管理を行うまでに至るプロセスで最高潮に達することになります。 これは3つのフェーズで達成される予定です。
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
-<li><a href=#genesis>Genesis</a></li>
-<li><a href=#cocoon>Cocoon</a></li>
-<li><a href=#metamorphosis>Metamorphosis</a></li>
-<li><a href=#oasis>Oasis</a></li>
-<li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
-<li><a href=#type-of-proposals>Type of Proposals</a></li>
-<li><a href=#vote-differentials>Vote Differentials</a></li>
-<li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
-<li><a href=#voting>Voting</a></li>
-<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs)</a></li>
-<li><a href=#treasury>Treasury</a></li>
+<li><a href=#genesis>ジェネシス</a></li>
+<li><a href=#cocoon>コクーン</a></li>
+<li><a href=#metamorphosis>メタモルフォーシス</a></li>
+<li><a href=#oasis>オアシス</a></li>
+<li><a href=#participating-in-governance>ガバナンスに参加する</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAOフォーラム</a></li>
+<li><a href=#type-of-proposals>提案の種類</a></li>
+<li><a href=#vote-differentials>得票差</a></li>
+<li><a href=#creating-signal-proposals>シグナルプロポーザルの作成</a></li>
+<li><a href=#voting>議決権行使（投票）</a></li>
+<li><a href=#aavegotchi-improvement-proposals--agips->Aavegotchi Improvement Proposals (AGIPs＝Aavegotchi改善案）</a></li>
+<li><a href=#treasury>宝庫</a></li>
 </ol>
 
 </div>
 
-## Genesis
+## ジェネシス
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+[DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico)を*参照*。
 
-The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
+AavegotchiDAOの最初のイテレーションは、GHSTトークン配布イベントと同時に開始されました。 GHSTトークン保有者は、開発をサポートするためにピクセルクラフト・スタジオ（Pixelcraft Studios）（Aavegotchiの開発チーム）に[トークン・ボンディング・カーブ（TBC）](/curve)準備金のタップメカニズムによって分配される資金の増加/維持について投票する権限を持っていました。 このタップを毎月5万DAIから10万DAIに引き上げるという最初の提案は、2020年10月18日に99％の賛成を得て可決されました。 AavegotchiDAOメタモルフォーシスに移行する時期が来たら、トークン保有者は移行を行うかどうかの投票も行う予定です。
 
-Token holders will not receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+トークン保有者は、このAavegotchiDAOのイテレーションに積極的に参加しても、GHSTで報酬を受け取ることはありません。
 
-Features for Genesis include:
+ジェネシスの特徴は以下の通りです：
 
-* No smart contract calls
-* No contract upgrades
-* GHST token based governance
-* Platform: Aragon
-* Rewards: None
-* Layer: Ethereum Mainnet
+* スマートコントラクトの呼び出しなし
+* コントラクトのアップグレードなし
+* GHSTトークンに基づくガバナンス
+* プラットフォーム：アラゴン（Aragon）
+* 報酬：なし
+* レイヤー：イーサリアムメインネット
 
-## Cocoon
+## コクーン
 
-V1.5 of AavegotchiDAO. The intermediate point between [Genesis](/dao#genesis) and [Metamorphosis](/dao#metamorphosis). The priority for the Cocoon stage is to influence game mechanics.
+AavegotchiDAOのV1.5。 [ジェネシス](/dao#genesis)と[メタモルフォーシス](/dao#metamorphosis)の中間的な位置づけ。 コクーンステージでは、ゲームメカニクスに影響を与えることが優先される。
 
-Its features include:
+その特徴は以下の通り：
 
-* Contract calls called by Pixelcraft
-* No contract upgrades
-* GHST token based governance
-* Platform: Snapshot/Discourse
-* Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Pixelcraftによって呼び出されるコントラクトコール
+* コントラクトのアップグレードなし
+* GHSTトークンに基づくガバナンス
+* プラットフォーム：スナップショット（Snapshot）/ディスコース（Discourse）
+* 報酬：コア投票による[XP](/traits#experience)
+* レイヤー：ポリゴン（Polygon）
 
-There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
+コクーンステージでは、2種類の投票を行うことができます：(1) シグナル提案（Signal Proposal）、(2) コア提案（Core Proposal）の2種類です。
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+シグナル提案は、[Snapshot](https://snapshot.page/#/aavegotchi.eth)のコミュニティー（Community）タブに誰でも投稿することができます。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 シグナル提案を思いつく前に、Discordや[Discourse/AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でコミュニティと議論することが必須となります。 その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
 
-The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
+シグナル提案は、提案作成時にPolygonで投票できる流通GHSTの20%に達する定足数で前者が可決されると、コア提案に格上げされることになります。
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+コア提案は、定足数に達した、または達しそうになったシグナル提案をもとに、Pixelcraftが選択肢を提示する提案です。 これらの投票には拘束力があり、参加者へのXP報酬の対象となります。
 
-If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
+シグナル提案がコア提案に昇格した場合、シグナル提案に記載したAavegotchiに150[XP](/traits#experience)*が付与されます。
 
-*May increase or decrease throughout COCOON period
+*COCOON期間中は増減する可能性があります。
 
-## Metamorphosis
+## メタモルフォーシス
 
-Metamorphosis is the second iteration of AavegotchiDAO, and is charged with managing simple game mechanics of Aavegotchi, such as the total supply of Aavegotchis, adding new collaterals, deciding on their functions, and adding new wearables created by the community. When the time comes to migrate to AavegotchiDAO Oasis, the AavegotchiDAO will again vote to perform the migration.
+メタモルフォーシスはAavegotchiDAOの第二世代で、Aavegotchiの総供給量、新しいコラテラルの追加、機能の決定、コミュニティが作成した新しいウェアラブルの追加など、簡単なゲームメカニックを管理する役割を担っています。 AavegotchiDAOオアシスへの移行時期が来たら、再びAavegotchiDAOの投票で移行を実行します。
 
-A full list of actions available to perform by the AavegotchiDAO in this phase is available in the [Governance](https://docs.aavegotchi.com/overview/governance) section of the Aavegotchi smart contract documentation.
+このフェーズでAavegotchiDAOが実行できるアクションの全リストは、Aavegotchiスマートコントラクトの説明書の[ガバナンス](https://docs.aavegotchi.com/overview/governance)のセクションで入手できます。
 
-Token holders will receive rewards in the form of GHST for active participation in this iteration of AavegotchiDAO.
+トークン保有者は、AavegotchiDAOのこのイテレーションに積極的に参加することで、GHSTの形で報酬を受け取ることができます。
 
-Its features include:
+その特徴は以下の通り：
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Custom dapp front-end
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* スマートコントラクトの呼び出しを実行できる
+* 特定のメカニックのアップグレードが可能
+* Aavegotchi + GHST ガバナンス
+* プラットフォーム：カスタムdappフロントエンド
+* 報酬：[XP](/traits#experience)＋投票用バッジ
+* レイヤー：ポリゴン（Polygon）
 
-## Oasis
+## オアシス
 
-Although AavegotchiDAO Oasis is the final iteration of AavegotchiDAO’s evolution, it is only the beginning of the realization of a DAO-governed game. All decisions related to Aavegotchi game mechanics, REALM mechanics, ecosystem spending, and even smart contract upgrades will be voted on by the AavegotchiDAO.
+AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態でありますが、DAOが統治するゲームの実現の始まりに過ぎません。 Aavegotchiゲームの仕組み、REALMの仕組み、エコシステムの支出、さらにはスマートコントラクトのアップグレードに関するすべての決定は、AavegotchiDAOの投票によって決定されることになります。
 
-Token holders will receive rewards in GHST for active participation in this iteration of AavegotchiDAO.
+トークン保有者は、このAavegotchiDAOのイテレーションに積極的に参加することで、GHSTで報酬を受け取ることができます。
 
-Its features include:
+その特徴は以下の通り：
 
-* Can execute smart contract calls
-* Can upgrade certain mechanics
-* Aavegotchi + GHST governance
-* Platform: Aavegotchi Realm
-* Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* スマートコントラクトの呼び出しを実行できる
+* 特定のメカニックのアップグレードが可能
+* Aavegotchi + GHST ガバナンス
+* プラットフォーム：Aavegotchi Realm
+* 報酬：[XP](/traits#experience)＋投票用バッジ
+* レイヤー：ポリゴン（Polygon）
 
-## Participating in Governance
-I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered!
+## ガバナンスに参加する
+気合い入ってます！ で、AavegotchiDAOに参加するにはどうしたらいいんだろう？ フレンよ、オレ達に任せな！
 
-* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
+* [AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)やDiscordの#🌱dao-discussionチャンネルで議論に参加することができるんだ。 誰でも大歓迎だよ！
 
-* Taking part in AavegotchiDAO votes (when they are available!)
+* AavegotchiDAOの投票に参加する(可能な場合!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance)には、投票された変更を実装するためにDAOメンバーが呼び出したり使ったりできるリストが詳細に記載されています。 例えば、asUSDが[コラテラル（担保）タイプ](/posts/atokens)として投票されたとしましょう。 AavegotchiDAOは `addCollateralTypes()` 関数を使用し、関数内で asUSD を指定することで変更を実装することができます。
 
-## AavegotchiDAO Forum
+## AavegotchiDAOフォーラム
 
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
+AavegotchiDAOガバナンス・フォーラムは Discourse を使用しています。 このフォーラムを持つことで、Aavegotchi のゲームメカニック、資金調達の依頼、その他の提案に関する重要なトピックについて一元的に議論することが可能になります。
 
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
+私たちは #GotchiGang が将来的に DAO 所有のゲームのモデルになることを望んでいます。
 
-The Forum can be found [here](https://dao.aavegotchi.com/).
+フォーラムは[こちら](https://dao.aavegotchi.com/)でご覧いただけます。
 
-## Type of Proposals
+## 提案の種類
 
-There are 2 types of proposals in the *Cocoon* stage:
+*コクーン*ステージには2種類の企画案があります：
 
-* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Discordの#🌱dao-discussionチャンネル、または[AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でアイデアを共有し、他のコミュニティメンバーと議論してください。 提案の詳細が決まったら、AavegotchiDAOフォーラムに公式スレッドを作成し、以下の[「シグナル提案の作成」](/dao#creating-signal-proposals)で説明されているフレームワークを使用してください。 その後、[スナップショット](https://snapshot.page/#/aavegotchi.eth)で投票を行ってください。
 
-* **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
+* **コア提案（Core Proposal）** - シグナル提案が20%以上の定足数（ポリゴン上で投票可能な流通GHSTの量）を達成した場合、Pixelcraftはこれらの提案をコア提案として再提案します。 これらの投票には拘束力があり、参加者への[XP](/traits#experience)報酬の対象となります。
 
-<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO Proposal Type" />
+<img class = "bodyImage" src = "/dao/proposal-type.png" alt = "AavegotchiDAO 提案の種類" />
 
-**Core Proposals** are further subdivided into 3 types:
+**コア提案**は、さらに3つのタイプに分類されます：
 
-*Reminder: Quorum percentages are calculated from the amount of circulating GHST eligible to vote on Polygon, not the total supply!*
+*注意事項：定足数の割合は、Polygonで投票できるGHSTの流通量から計算され、総供給量からではありません！*
 
-* **Smol votes:** Quorum of 5%. These votes are intended for small decisions that do not affect the overall meta or value of existing Aavegotchis in any significant way (e.g. introduction of a cosmetic feature, proposal for a marketing strategy).
+* **スモール（Smol）投票：**定数5%。 これらの投票は、既存のAavegotchiの全体的なメタや価値に大きな影響を与えない小さな決定を目的としています（例：装飾品の機能の導入、マーケティング戦略の提案など）。
 
-* **Medium votes:** Quorum of 10%. These votes are intended for decisions that may have some notable effect on the meta (e.g. introducing a new game item, allocating XP to some item or event, changing something about an Aavegotchi that does not affect its rarity score).
+* **ミディアム（Medium）投票：**定数10％。 この投票は、メタに何らかの顕著な影響を与える可能性のある決定を対象としています（例：新しいゲームアイテムの導入、あるアイテムやイベントへのXP割り当て、レアリティスコアに影響しないAavegotchiの変更）。
 
-* **Galaxy votes:** Quorum of 20%. These votes are intended for major decisions that have significant effects on the meta and wider Aavegotchi ecosystem (e.g. a new Haunt, changing something about an Aavegotchi that affects its rarity score).
+* **ギャラクシー（Galaxy）投票：**定数20％。 メタやAavegotchiのエコシステムに大きな影響を与えるような重大な決定を行うための投票です（例：新しいハウント、レアリティスコアに影響するAavegotchiの何かを変更する場合など）。
 
-## Vote Differentials
+## 得票差
 
-Vote differentials are the difference between the top two options, and are indicative of whether or not a reasonable consensus has been achieved.
+得票差とは、上位2つの選択肢の差であり、妥当なコンセンサスが得られたかどうかを示すものである。
 
-Here is an example Core Proposal with 3 options:
+以下は、3つの選択肢を持つコア提案の例です：
 
-* Option A receives 25%
-* Option B receives 35%
-* Option C receives 40%.
+* 選択肢Aの得票率は25%
+* 選択肢Bの得票率は35%
+* 選択肢Cの得票率は40%
 
-The required Vote Differential is 5% (the difference between Option C [40%] and Option B [35%]).
+必要な票差は5％（選択肢C [40%] と選択肢B [35%] の差）である。
 
-This would not be enough to achieve consensus, thus the Proposal is not implemented.
+これではコンセンサスが得られないため、本提案は実施されません。
 
-Typically, the more options a vote has, the higher Vote Differential it requires to demonstrate that true consensus has been reached.
+一般的に、選択肢の数が多い投票ほど、真のコンセンサスに達したことを示すために必要な票差は大きくなります。
 
-For COCOON, we will begin with the following Vote Differential parameters, and course correct if necessary:
+コクーンでは、まず次のような票差パラメータを設定し、必要に応じて軌道修正します：
 
-2 Options — 10% VD
+2つの選択肢 - 10% VD
 
-3 Options — 15% VD
+3つの選択肢 - 15% VD
 
-4 Options — 20% VD
+4つの選択肢 - 20% VD
 
-## Creating Signal Proposals
+## シグナルプロポーザルの作成
 
-To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
+#GotchiGangが投票するためのシグナル提案を作成するには、以下の形式を守ってください：
 
-* Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
-* Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
-* Effect
-* Highlight end goal and benefits
-* Acknowledge potential risks or unintended consequences
-* Any alternative paths (Plan B, Plan C, etc)
-* The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
+* 作者＋GotchiID
+* 一致するDiscourseスレッドへのリンク（フォーラムで重要な議論がない提案は、自動的にスナップショットから削除されます。）
+* 概要（根拠、スケジュール、目標、重要業績評価指標を含む） 既存の提案のコピペ提案は削除されますが、類似しているが異なるバリエーションの提案は並存が許可されます。
+* 効果
+* 最終ゴールと利益ハイライト
+* 潜在的なリスクや意図しない結果をちゃんと認識する
+* 代替案（プランB、プランCなど）がある場合
+* 提案の終了時期は、Snapshot Communityの掲示板にアクティブな提案のみが表示されるように、提案開始時期から30日以内としてください。
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+詳細は、この[Medium記事](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)をご覧ください。
 
-## Voting
+## 議決権行使（投票）
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
+投票方法は2つあります：(1) スナップショット（Snapshot）投票、(2) アラゴン（Aragon）投票。
 
-### Snapshot Voting
+### スナップショット投票
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.page/#/aavegotchi.eth)です。
 
-To vote on Snapshot, follow the steps below:
+スナップショットで投票を行うには、以下の手順で行います：
 
-1). Go to an open proposal.
+1). 開いてる提案にアクセスする。
 
-2). Connect your wallet.
+2). ウォレットを接続する。
 
-<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot1.jpg" alt = "スナップショット投票 イーサリアム" />
+<img class = "bodyImage" src = "/dao/snapshot2.jpg" alt = "スナップショット投票 イーサリアム" />
 
-3). Select a poll option, and click "Vote." A pop-up will appear to confirm your choice.
+3). 投票オプションを選択し、"Vote"（投票する）をクリックする。 選択を確認するためのポップアップが表示されます。
 
-<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "Snapshot Voting Ethereum" />
-<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "Snapshot Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/snapshot3.jpg" alt = "スナップショット投票 イーサリアム" />
+<img class = "bodyImage" src = "/dao/snapshot4.jpg" alt = "スナップショット投票 イーサリアム" />
 
-4). Your Metamask will pop up. Sign the transaction, and you're done!
+4). あなたのメタマスク（Metamask）がポップアップで表示されます。 トランザクションをサインをして完了です！
 
-<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
+<img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "Snapshot Votingで取引の署名" />
 
-### Aragon Voting
+### アラゴン投票
 
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
+アラゴン は、イーサリアム上の分散型組織を作成し、参加するためのツールです。 アラゴン上で行われる投票はガスを必要とし、オンチェーンに存在します。
 
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+Aavegotchiのアラゴンのページは[こちら](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/)でご覧になれます。
 
-To vote on Aragon, follow the steps below:
+アラゴンで投票するには、以下の手順で行ってください：
 
-1). Go to an open proposal.
+1). 開いてる提案にアクセスする。
 
-2). Connect your wallet.
+2). ウォレットを接続する。
 
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "アラゴン投票　イーサリアム" />
 
-3). Choose to vote "Yes" or "No."
+3). "はい "または "いいえ "の投票を選択する。
 
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "アラゴン投票　イーサリアム" />
 
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
+4). メタマスク（Metamask）のトランザクションがポップアップします。 なお、取引は採掘（マイン）されないと確定しないので、最新のガス価格は[gasnow](https://gasnow.org/)などのサイトを参照してください。
 
-5). Once your transaction is mined, your vote will be reflected accordingly.
+5). 採掘が完了すると、投票内容が反映されます。
 
 
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "アラゴン投票　イーサリアム" />
 
-## Aavegotchi Improvement Proposals (AGIPs)
+## Aavegotchi Improvement Proposals (AGIPs)（Aavegotchi改善案）
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
+アラゴンでの投票をご覧ください。 それはAavegotchi改善案（AGIPs）なんです!
 
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+過去の投票一覧は、[Aavegotchi改善案のページ](/aavegotchi-improvement-proposals)をご覧ください。 今後の提案について情報を手に入れたい場合は、[ソーシャルメディアでAavegotchi](/socialmedia)をフォローしてください。
 
-Vote on AGIPs and get [POAP badges](/poap) for it!
+AGIPsに投票して、[POAPバッジ](/poap)をゲットしよう！
 
-## Treasury
+## 宝庫
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
+AavegotchiDAOは、イーサリアムメインネット上のAavegotchi[Bonding Curve](/curve)の全取引の0.3%を獲得しています。 これが現在のDAOの全資金源です。
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+責任ある運営者として、AavegotchiDAOのメンバーはこれらの資金がどのように配分されるかを決定する役割を担います。
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/treasury)にあります。

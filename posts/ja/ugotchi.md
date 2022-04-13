@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'uGOTCHI Collection'
 description: 'uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -22,7 +22,7 @@ On 15 April 2021, history was made. Captain Terence McKenna and his team success
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#the-aastronauts>The Aastronauts</a></li>

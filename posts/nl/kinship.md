@@ -17,14 +17,14 @@ contributors:
 **Inhoud**
 
 <ol>
-<li><a href=#what-is-kinship>What is Kinship</a></li>
-<li><a href=#kinship-levels>Kinship Levels</a></li>
-<li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+<li><a href=#what-is-kinship>Wat is Kinship</a></li>
+<li><a href=#kinship-levels>Kinship Niveaus</a></li>
+<li><a href=#kinship-and-alchemical-channeling>Kinship en Alchemical Channeling</a></li>
 </ol>
 
 </div>
 
-## What is Kinship
+## Wat is Kinship
 
 Kinship is het loyaliteitsgevoel van je Aavegotchi. Kinship: "Kinship" is niet willekeurig toegewezen, maar begint op een vaste waarde (50) bij geboorte en stijgen of dalen op basis van verschillende factoren, zoals hoe lang de Aavegotchi met dezelfde eigenaar is geweest, en hoe vaak de eigenaar ermee interactie heeft. De minimale kinship waarde is 0. Er is geen maximale kinship waarde.
 
@@ -34,29 +34,29 @@ Maximaal 1 Kinship point wordt elke 12 uur per week verzameld waarin je interact
 
 Kinship bestaat als een intern saldo op het Aavegotchi smart contract.
 
-Toverdranken kunnen ook worden gebruikt om de kinship scores te verbeteren. However, they are limited edition consumables.
+Toverdranken kunnen ook worden gebruikt om de kinship scores te verbeteren. Ze zijn echter slechts een beperkt in aanbod.
 
-## Kinship Levels
+## Kinship Niveaus
 
-The table below shows the kinship level and their value range.
+De onderstaande tabel toont het kinship level en hun waardebereik.
 
-table_kinship
+tabel_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+Kinship kan worden bekeken op de [Aavegotchi profielpagina](/aavegotchi-profile).
 
-## Kinship and Alchemical Channeling
+## Kinship en Alchemical Channeling
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+Kinschap wordt gebruikt voor Alchemical Channeling. Alchemical Channeling is een basispunt dat dagelijks wordt verdiend door Aavegotchis die rechtstreeks uit de Gotchiversether komt. in plaats van geoogst te worden van het [parceel](/gotchiverse).
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+Hoeveel Alchemica stoffen (FUD, FOMO, ALPHA en KEK) de Gotchi via Alchemisch kanaal ontvangen, hangt voornamelijk af van het Kinship niveau.
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+Het basistarief voor channeling, is **20 FUD, 10 FOMO, 5 ALPHA en 2 KEK.** Deze basiskoers wordt vervolgens vermenigvuldigd met een modifier, afhankelijk van het kinship level van Aavegotchi (zie tabel hieronder).
 
 table_alchemicaReceivedPerChanneling
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+Elk punt van Kinship verhoogt de Alchemical Channeling modifier, met de formule:
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+Elke Aavegotchi iskane deelnemen in Alchemical Channeling **een keer elke </strong uur.**
 

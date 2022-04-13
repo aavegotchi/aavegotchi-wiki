@@ -1,17 +1,17 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'Mumbai Testnet Tutorial'
 description: 'Mumbai Testnet Tutorial'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>

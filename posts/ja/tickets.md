@@ -1,10 +1,10 @@
 ---
-author: Nick Mudge
+author: ニック・マッジ
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
 description: 'Aavegotchi Tickets and Raffle prizes!'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -18,7 +18,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#purchasing-tickets>Purchasing Tickets</a></li>

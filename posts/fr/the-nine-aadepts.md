@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-La légende raconte la venue des neuf Aadeptes ! — A blockbuster story of epic proportions by Frenless Summer
+La légende raconte la venue des neuf Aadeptes ! — Une histoire de superproduction aux proportions épiques de Frenless Summer
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/the-nine-aadepts/the-nine-aadepts.jpg">

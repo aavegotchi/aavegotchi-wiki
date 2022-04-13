@@ -1,10 +1,10 @@
 ---
-author: Unintelligent Nerd
+author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
 description: 'All about Aavegotchi maTokens'
 contributors:
-  - "unintelligent-nerd"
+  - "アンインテリジェント・ナード"
 ---
 
 <div class="headerImageContainer">
@@ -18,12 +18,12 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 
 <div class="contentsBox">
 
-**Contents**
+**目次**
 
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
-<li><a href=#learn-more>Learn More</a></li>
+<li><a href=#learn-more>もっと詳しく</a></li>
 </ol>
 
 </div>
