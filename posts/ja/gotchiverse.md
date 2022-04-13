@@ -36,7 +36,7 @@ contributors:
 <p><a href=#crafting-revenue-distribution>クラフティングの収益分配</a></p>
 <li><a href=#realm-tokenomics>レルム トークノミクス</a></li>
 <p><a href=#total-supply>総供給量</a></p>
-<p><a href=#distribution>分配</a></p>
+<p><a href=#distribution>配布方法</a></p>
 <p><a href=#drop-tickets>ドロップチケット</a></p>
 <p><a href=#parcel-boosts>区画ブースト</a></p>
 </ol>
@@ -70,11 +70,11 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 アリーナ内では、十分な[スピリットフォース](/spirit-force)を持つAavegotchi（Aaveの力を持つ利子を得られるトークン）同士が、相手のスピリットフォースを奪い合う壮大なバトルロワイアルで戦える。
 
-Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
+リッキデーターはアリーナには近づこうとはしませんが、ファンタスティック・グラウンド方面はファイアーフレンドリーなエリアでリッキデーターがはびこっている。
 
 ### ビヨンド
 
-Locked Parcels that will not be unlocked until the beginning of Act 2.
+第2幕（アクト2）が始まるまで解錠されないロックされた区画。
 
 ## 地区
 
@@ -241,11 +241,11 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 ## レルム トークノミクス
 
-### Total Supply
+### 総供給量
 
 The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
 
-### Distribution
+### 配布方法
 
 REALM Parcels will be distributed in two main ways:
 
@@ -263,7 +263,7 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Drop Tickets
+### ドロップチケット
 
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
 
