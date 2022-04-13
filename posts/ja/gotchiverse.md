@@ -78,27 +78,27 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 ## 地区
 
-Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+地区は、互いに隣接するレルム区画のグループで構成されています。 以下の画像は、レルム区画が解放されているシタデルの一部と、その中にある地区を表しています。
 
-Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
+ギルドは一般的に地区単位で組織されています。 ギルドの一覧とその地区については、[ギルドのページ](/guild)をご覧ください。
 
 <img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
 
-Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+[gotchiverse.io](https://gotchiverse.io/)でレルムを閲覧できます。
 
 ## レルム区画サイズ
 
-Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+区画には3つのサイズがあり、サイズによってアルケミカ*の採石量や建築スペースが異なります
 
-* Humble: Contain smol deposits of Alchemica and building space (8 x 8 pixels)
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space (16 x 16 pixels)
-* Spacious: Contain huge deposits of Alchemica and building space (32 x 64 pixels)
+* ハンブル：少々のアルケミカ採石量と建築スペースを含む（8 x 8 ピクセル）
+* リーズナブル：リーズナブルな量のアルケミカと建築スペースがある（16 × 16 ピクセル）
+* スペーシャス：膨大なアルケミカの採石量と建築スペース（32 × 64 ピクセル）
 
-*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+*正確なマテリアル量は、購入時に[Chainlink VRF](/glossary#chainlink-vrf)で計算されます。
 
-Some parcels will be next to or adjacent to Alchemica deposits. These parcels will see farming boosters indicated on the gotchiverse dashboard and when they are listed on the Baazaar.
+一部の区画はアルケミカの鉱脈に隣接または近くにあります。 これらの区画は、ゴッチバースのダッシュボードやバザーに出品された際に、ファーミングブースターが表示されます。
 
-To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
+人間でも理解できるように、各区画にはユニークな3つの単語の組み合わせが割り当てられます。 これは、TokenIDとはまた別に付けられるものです。 ユーザーは、ゴッチバースサイトの検索ボックスを使って、探している単語を含む区画を特別にフィルタリングすることができます。
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
@@ -106,10 +106,10 @@ To make it more human frenly, each parcel will be assigned with a unique three w
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/lickquidator.gif" class="headerImage" alt="Lickquidator">
-<p class="headerImageText">Lickquidator</p>
+<p class="headerImageText">リッキデーター</p>
 </div>
 
-Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
+レルム区画の所有者は、自分のAavegotchi（または他の人のもの）を使ってレルム区画を耕し、ゴッチュスアルケミカとして知られている資源を大量に生産することができます。 これらの資源を組み合わせることで、「[インスタレーション（施設）](/gotchiverse#building-on-realm-parcels)」と呼ばれる強力な建造物を作ることができます。
 
 The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
 
