@@ -196,19 +196,19 @@ Aavegotchiは仲間との交流が大好きで、その中でもお気に入り�
 
 **レシピ**
 
-Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
+インスタレーションをクラフトしてより強力にアップグレードする、ゴッチバース体験の重要な部分を占めます。 インスタレーションによって、クラフトやアップグレードに必要な「レシピ」が異なるのですが、アデプト（先人）達が便利なレシピ本を残してくれてます。 最新のレシピは[こちら](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf)で確認できます。
 
-Installations and their upgrades also have a “Craft Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
+インスタレーションとそのアップグレードには「クラフト時間」があり、ポリゴンネットワークのブロック単位で計測されます。 1ブロックは人間時間で約2.2秒に相当します。 ほとんどのレベル1インスタレーションは、クラフトタイムが「Instant」（インスタント）になっており、すぐにクラフトされますが、クラフトタイムがインスタントよりも長いものは、時間が経ち完成するとオーナーに送信されます。
 
-This crafting/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+このクラフトやアップグレードのプロセスは、現在[GLTR](/gotchus-alchemica-exchange#gltr-token)と呼ばれるゲーム内通貨を消費することで加速することができます。 GLTRは、[ゴッチュスアルケミカ取引所](/gotchus-alchemica-exchange)でGHSTとゴッチュスアルケミカトークンの間の流動性を提供することで入手できます。
 
-**Harvest Rate, Capacity, and Spillover**
+**収穫レート、生産量、こぼれる量について**
 
-Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+ハーベスターとリザーバーは、ゴッチバースの地中からアルケミカを採掘するための特別なインスタレーションです。
 
-Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+各ハーベスターは1種類のアルケミカを採取でき、各リザーバーは1種類のアルケミカを一定量保持できる。 インスタレーションのレベルが上がると、収穫量と容量が増加する。
 
-**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**こぼれる量**とは、リザーバーからアルケミカを採取する際に、どれくらいの量と距離にアルケミカが溢れるのかが決定されるリザーバーの特性です。 低レベルのリザーバーでは、こぼれる量とこぼれる半径が大きく、アップグレードするとこぼれる量が減少します。
 
 You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
 
