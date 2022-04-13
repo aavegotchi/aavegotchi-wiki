@@ -61,15 +61,15 @@ AavegotchiマーケットはAavegotchiの公式セカンダリーマーケット
 
 詳細については[こちら](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
 
-Aavegotchiマーケットは [こちら](https://aavegotchi.com/baazaar).
+The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
 
 ## 機能
 マーケットには、さまざまな商品がリストされています。
 
 * ゴッチ
-* ポータル (閉)
-* ポータル (開)
-* ゴッチバースレルム（区画）
+* ポータル
+* Gotchiverse Land
+* Installations
 * ウェアラブル
 * 消費アイテム
 * ラッフルチケット
