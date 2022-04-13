@@ -1,18 +1,18 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
-image: "IMAGE HERE"
+title: '用語解説'
+description: 'Aavegotchi、NFT、そしてDeFi用語解説と情報。'
+image: "ここに画像"
 contributors:
   - "appellants"
   - "eris771"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">ゴッチ用語集を読んでからのAavegotchi</p>
 </div>
 
 If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
