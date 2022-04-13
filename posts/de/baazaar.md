@@ -61,15 +61,15 @@ Buyers may buy 1, some, or all of a multiple item listing.
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
 
 ## Features
 There are a variety of products listed on the Baazaar:
 
 * Aavegotchis
-* Portals — Closed
-* Portals — Open
-* Gotchiverse REALM
+* Portale
+* Gotchiverse Land
+* Installations
 * Kleidungsstücke
 * Consumables
 * Raffle Tickets
