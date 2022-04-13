@@ -83,4 +83,4 @@ table_guild
 
 Guild tự sắp xếp vị trí của mình tại các quận. Bản đồ guild này đã được thực hiện bởi MonsterRNG#3333 của Guild Avid Aavegotchi
 
-<img class="bodyImage" src="/guild/guild-map.png" alt="Bản Đồ Guild Aavegotchi" />
+<img class="bodyImage" src="/guild/guild-map.jpg" alt="Bản Đồ Guild Aavegotchi" />
