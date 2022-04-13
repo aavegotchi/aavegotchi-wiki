@@ -107,24 +107,24 @@ Aavegotchiとは、ERC-721標準に裏付けされたイーサリアムのブロ
 バッジの種類は[バッジのページ](/baadge)をご覧ください。
 
 ### Baard (ミュージシャン)
-ミニゲームの中にある素敵なチップチューンを楽しんでいますか？ They are created by our [Baards](/baard), our community musicians!
+ミニゲームの間、後ろで流れてる素敵なチップチューンを楽しんでいますか？ それは、コミュニティミュージシャンの[Baards](/baard)さんが作ったものです。
 
 ### ドロップチケット
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
+ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケット1枚につき、Aavegotchi[ポータル](/portals)や[レルム区画](/gotchiverse)が当たるNFTラッフルに1回参加することができます。
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10,000[FRENS](/glossary#frens)を1枚のドロップチケットに変換することができます。
 
-Raffle Tickets could also be converted into Drop Tickets.
+ラッフルチケットをドロップチケットに交換することもできます。
 
 ### フレンズ（FRENS）
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+GHSTをステークしたユーザーに付与されるポイント。 FRENSはトークンではありません。 技術的にはステーキング契約内の残高です。 FRENSは譲渡が不可能で、Aavegotchiプロジェクトに貢献したステークホルダーに対して報酬を与えることを目的としています。
 
-Read more about FRENS in the [Staking page](/staking).
+FRENSについて詳しくは[ステーキングページ](/staking)をご覧ください。
 
 ### ゴッチポケット
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+Aavegotchiは各々ゴッチポケットを持っています。 これは、装備したウェアラブルや[レアリティファーミング](/rarity-farming)で貰ったGHSTトークン、[バッジ](/baadge)などを入れておくインベントリーのようなものです。
 
-Technically, a Gotchi Pocket is an escrow address.
+正確には、ゴッチポケットは「エスクローアドレス」です。
 
 ### ゴッチュスアルケミカ
 Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
