@@ -127,36 +127,36 @@ Aavegotchiは各々ゴッチポケットを持っています。 これは、装
 正確には、ゴッチポケットは「エスクローアドレス」です。
 
 ### ゴッチュスアルケミカ
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
+ゴッチュスアルケミカ（Gotchus Alchemica）（ERC20トークン）は、ゴッチバースの4つの資源です：Fud、Fomo、Alpha、およびKekです。 これらを組み合わせて、[インスタレーション（Installation）](/glossary#installations)やエステティカ（Aesthetica）などのクラフトを作ることができます。
 
-Technically, each element exists as an ERC-20 token.
+技術的には、各資源はERC-20トークンとして存在します。
 
-Check the [Gotchiverse page](/gotchiverse) for more information.
+詳細は[ゴッチバースのページ](/gotchiverse)でご確認ください。
 
-### Gotchus Alchemica Exchange
+### ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）
 
-The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+Aavegotchiネイティヴの分散型取引所（DEX）。 GHST-Gotchus Alchemicaペアの取引に対応する予定です。 詳しくは[Gotchus Alchemica Exchange (GAX)のページ](/gotchus-alchemica-exchange)をご覧ください。
 
 ### ハウント
-[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+[ハウント](/haunt)とは、Aavegotchiのエディションのことです。 ハウント番号は順次生成され（例：ハウント1の後にハウント2が来る）、これらの番号はAavegotchiに表示されます。 ハウント間の統計的な違いはありません。
 
 ### インスタレーション
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
+インスタレーション（施設）とは、[ゴッチュスアルケミカ](/glossary#gotchus-alchemica)と呼ばれる資源を大量に使用して、レルム区画に作成できる強力な建造物です。
 
-Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
+あなたが構築できるインスタレーションの種類については、[ゴッチバースのページ](/gotchiverse#building-on-realm-parcels)をチェックしてください。
 
 ### ラッフルチケット
-Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+ラッフルチケットとは、限定[ウェアラブル](/wearables)が当たる抽選に参加するための券です。 ラッフルチケットは使用した時点で消費されます。
 
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
+ラッフルチケットは、[ステーキング](/staking)で獲得した[FRENS](/glossary#frens)を使って購入することができます。
 
-Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
+また、ラッフルチケットは[ドロップチケット](/glossary#drop-tickets)に変換して、レルム区画を購入することもできます。
 
-### レルム
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
+### レルム（REALM）
+あなたのゴッチが住むゴッチバース内の土地。 交流したり、冒険したり、悪い奴らと戦ったりする場所です。
 
 ### スピリットフォース
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+スピリットフォースとは、ゴッチの中に閉じ込められている担保（[maToken](/matokens)）の量のことです。 Aavegotchi内のスピリットフォースの量を増やしたり減らしたりすることができます。 However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### スピリットポイント
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
