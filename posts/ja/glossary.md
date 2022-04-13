@@ -217,10 +217,10 @@ DeFiの文脈では、このようなことが考えられます：
 Aavegotchiのメタバースでは、担保は[スピリットフォース](/glossary#spirit-force)としても知られています。
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
+Decentralized Autonomous Initial Coin Offeringの略。 [DAO（Decentralized Autonomous Organization）](/glossary#dao)とICO（Initial Coin Offering）の良いところを取り入れた新しい資金調達方法で、トークンセールの資金調達モデルをより効果的にする仕組みを目指しています。 DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+別名、Decentralized Autonomous Organization（分散型自律組織）。 These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
 
 In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
 
