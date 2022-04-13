@@ -83,4 +83,4 @@ tabel_guild
 
 Gilden organiseren zichzelf in districten. De volgende guild kaart is gecompileerd door MonsterRNG#3333 van Avid Aavegotchis
 
-<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guild Kaart" />
+<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guild Kaart" />
