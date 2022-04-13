@@ -1,7 +1,7 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchiverse'
+title: 'ゴッチバース'
 description: 'All about the Gotchiverse'
 contributors:
   - "eris771"
