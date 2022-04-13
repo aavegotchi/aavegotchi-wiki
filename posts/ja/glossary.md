@@ -179,42 +179,42 @@ Aavegotchiが身につける衣服・装備のこと。 [ERC-1155規格](/glossa
 
 ## DeFi 101
 
-"DeFi "とは、**De**centralized **Fi**nance（非中央型＝分散型　金融）の略です。 It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi "とは、**De**centralized **Fi**nance（非中央型＝分散型　金融）の略です。 従来の金融機関と同様のサービスを提供するアプリケーションやプロトコルのエコシステムと考えることができます（つまり、貸し借りや貯蓄による利息の発生など）。 しかし、1つだけ重要な違いがあります − DeFiは、中間業者を介さない分散型の方法でこれを行うことを目的としています。
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+つまり、銀行があなたの潜在的リターンの一部を取り上げることもなければ、あなたにマイナス金利を提供することもないのです。 また、システム全体が崩壊したり、権力が集中した小さなグループによって決定・実施される一連のルールに左右されたりするような、そんな中核的な障害点がなくなることをも意味している。
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+本稿執筆時点（2020年12月5日）で、Defiにロックされた総額は142億4,000万米ドルである。
 
-## Key Terms
+## 主な用語
 
 ### amToken
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+amTokenは、Aaveのマネー・マーケット・プールのLPトークンで、**Polygon**にネイティブに存在します。 [maToken](/glossary#matokens)とは**別物**です。
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APYはAnnual Percentage Yield（年率利回り）の略です。 これは、プロトコルに預けた貯金に対して得られる実質的な利回りであり、複利の効果を考慮したものです。
 
 ### aToken
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
+aTokenは、[Aaveプロトコル](https://aave.com/)の利子付きトークンです。 トークンの入手方法については、[スピリットフォースのページ](/spirit-force)をご参照ください。
 
 ### 自動マーケットメーカー（AMM）
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+分散型取引所（DEX）プロトコルの一種で、資産の価格付けを数式に沿って行う。 従来の取引所のようなオーダーブックを使用する代わりに、資産は価格設定アルゴリズムに従って価格設定されます。
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+この数式は各プロトコルによって異なる場合がある。 例えば、Uniswapではx * y = kを使用し、xはリキディティープール内の一方のトークンの量、yはもう一方のトークンの量となります。 この式では、kは固定定数であり、プールの総流動性は常に同じでなければならないことを意味しています。 他のAMMは、対象とする特定のユースケースに応じて、他の数式を使用します。 しかし、すべての AMM に共通するのは、価格をアルゴリズムで決定している点です。
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+AMMは、例えばETH/DAIといった取引ペアが存在する点で、オーダーブック取引所と似たような仕組みになっています。 しかし、トレーダーは取引を行うために相手側（他のトレーダー）を持つ必要がありません。 代わりに、あなたのために市場を「作る」スマートコントラクトと対話します。
 
 ### コラテラル（担保）
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
+コラテラル（担保）とは、非常にわかりやすい概念です。 貸し手からお金を借りるときに、貸し手に対する保証として差し入れる資産のことを指します。 万が一、返済ができなくなった場合、その担保は借金の返済に充てられます。
 
 
-In the context of DeFi, this is how things might look:
+DeFiの文脈では、このようなことが考えられます：
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+例えば、あるプロトコールからある資産を借りたいと思っているとします。 そのためには、自分の資産の一部を担保として設定する必要があります。 もし、借りたお金を返せなければ、プロトコルはその担保を返してはくれません。
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+Aavegotchiのメタバースでは、担保は[スピリットフォース](/glossary#spirit-force)としても知られています。
 
 ### DAICO
 Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
