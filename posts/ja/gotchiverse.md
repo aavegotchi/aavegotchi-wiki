@@ -152,49 +152,49 @@ Aavegotchiは仲間との交流が大好きで、その中でもお気に入り�
 ゴッチュスアルケミカは、4つの方法でレルムから抽出することができます：
 
 * **アルケミカルチャネリング**： Aavegotchiによって得られる基本的な毎日の支給は、区画から収穫されるのではなく、ゴッチバースイーサーから直接来ている。
-* **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
-* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
-* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+* **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 共同チャネリングに参加するには、Aavegotchiは関連するギルドの紋章を身につけ、儀式の間レルム区画に存在しなければなりません。 共同チャネリングの儀式に参加するAavegotchiが増えるごとに、アルケミカの採掘速度が上がります。
+* **ファーミング**：貯蔵庫にx個、近隣のマップに**y個**、グレートポータルに**z個**、それぞれ貯蔵される。
+* **収穫する**：Aavegotchiとリッキデーターはマップを歩き回り、採掘でこぼれたアルケミカを集めることができます。
 
-Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+ゴッチュスアルケミカの取引は、[ゴッチュスアルケミカ取引所（GAX）](/gotchus-alchemica-exchange)で行われる予定です。
 
-### Average Alchemica Per Parcel
+### 1区画あたりの平均アルケミカ
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
+レルム区画は、Aavegotchiの「ポータル」と同じように、調査することでその中に眠っているアルケミカの量を知ることができます。 この調査プロセスは、Chainlink VRFをオンチェインで呼び出すことで、本当にランダムな数字が生成されます。
 
-When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
+ゴッチバースがリリースされると、その所有者が選択した場合、既存のすべてのレルム区画を調査することができますし、調査プロセスを将来の日まで延期することができます。
 
-The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
+各区画で入手できるアルケミカの範囲は、第1幕（Act1）全体と、アルケミカの約25％を配布する第1幕の第1ラウンドの2種類です。
 
-*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
+*なお、区画内のアルケミカの合計は**累積**されるため、将来の調査によってアルケミカが追加されることになります。*
 
-table_avgBaseAlchemicaPerParcelAct1Total
+表_avgBaseAlchemicaPerParcelAct1Total
 
-table_avgBaseAlchemicaPerParcelAct1FirstRound
+表_avgBaseAlchemicaPerParcelAct1FirstRound
 
-### Surveying Alchemica Range
+### アルケミカの調査範囲
 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
+各調査ラウンドで発見可能なアルケミカの範囲です。 プレイヤー体験をつまらなくしないように、調査可能な「最小値」は平均値の20％、「最大値」は平均値の1.8倍となっています。
 
-For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
+例えば、アクト1全体のハンブル区画のFUDの値の範囲は5694～51251となり、平均値は28473となります。
 
-We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
+これにより、面白いゲームプレイを実現しつつ、不運なプレイヤーにも十分な「セーフティネット」を提供できると考えています。
 
 ## レルム区画での建築
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+**インスタレーション**は、リアルム区画の上に建てられる特別な建造物です。 アルケミカの様々な組み合わせで製作され、Aavegotchi[バザール](/baazaar)でGHSTと自由に交換することができます。
 
-Confirmed Installations include:
+確認されている設置物は以下の通りです：
 
-table_installations
+表_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+インスタレーションには一定のブロックチェーンのブロック数が必要ですが、GAX（ゴッチュスアルケミカ取引所）で流動性を提供することで得られるゲーム内通貨GLTR（GAX Liquidity Token Reward）を消費することでこの時間を短縮することが可能です。
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+**エステティカ**は、区画に追加できる装飾用のNFTで、アルケミカやその他の統計に影響を与えません。 ただ、見た目が超カッコイイだけです。
 
 ### インスタレーションの特性とレシピ
 
-**Recipes**
+**レシピ**
 
 Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
 
