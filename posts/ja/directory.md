@@ -47,7 +47,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [GHSTトークン](/ghst)
 
-* [Glossary](/glossary)
+* [用語解説](/glossary)
 
 * [Gotchi Lending](/gotchi-lending)
 
