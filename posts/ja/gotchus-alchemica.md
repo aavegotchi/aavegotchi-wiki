@@ -1,8 +1,8 @@
 ---
 author: アンインテリジェント・ナード
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica'
-description: 'Gotchus Alchemica'
+title: 'ゴッチュスアルケミカ'
+description: 'ゴッチュスアルケミカ'
 contributors:
   - "アンインテリジェント・ナード"
 ---
