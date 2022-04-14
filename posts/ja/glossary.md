@@ -336,48 +336,48 @@ ERC998を実装したノンファンジブルトークンは、ERC-721標準も�
 ERC-998標準の内容については、[こちら](https://eips.ethereum.org/EIPS/eip-998)をご確認ください。
 
 ### ERC-1155
-これまでの規格の良いところを取り入れ、互換性にとらわれず、ガス効率の良いトークンコントラクトを作ることを目的とした、新しいトークン規格です。 A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+これまでの規格の良いところを取り入れ、互換性にとらわれず、ガス効率の良いトークンコントラクトを作ることを目的とした、新しいトークン規格です。 単一のデプロイ（展開）された契約は、ファンジブルトークン、ノンファンジブルトークン、その他のコンフィギュレーション（例：セミ・ファンジブルトークン）の組み合わせを含むことができます。
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+詳しくは[こちら](https://eips.ethereum.org/EIPS/eip-1155)と[こちら](https://docs.openzeppelin.com/contracts/3.x/erc1155)をご覧ください。
 
-### GBMオークション
-A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
+### GBM Auction（GBMオークション）
+オークション開催中にリアルタイムで競り落とされた場合に、入札者にインセンティブが支払われる斬新なオークション方式。 つまり、GBMオークションに参加した人は、オークションを落札するか、あるいは、最初よりも多くのお金を持って帰ることになります。
 
-GBM stands for Gonnaud-Bessire-McDonaugh.
+GBMとは、Gonnaud-Bessire-McDonaughの略である。
 
-First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+2019年にCryptographによって初めて開拓されたGBMオークションは特許出願中のシステムで、ピクセルクラフト・スタジオはハウント2、レルム、さらにはウァラブルを含むすべてのAavegotchi NFT ドロップでこれを使用するライセンスを正式に取得しています。
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+GBMオークションの詳細については、[Cryptograph GBM Auctionのブログポスト](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5)をご覧ください。
 
-### メタバース
+### Metaverse（メタバース）
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+メタバースとは、ゲームやショップなどの世界そのものや、他のユーザーと交流できる仮想世界のことです。
 
-Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
+メタバースの例としては、セカンドライフやディセントランドなどのプロジェクトに加え、[ゴッチバース](/gotchiverse)があります。
 
-### Non-Fungible Token
+### Non-Fungible Token（ノンファンジブル トークン）
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+ノンファンジブルトークン（NFT）とは、特殊な暗号トークンであり、**ユニーク**なものを表し、他のトークンと交換することができないものです。 ノンファンジブルトークンは通常、身につけるもの、芸術品、その他の財産などの所有権を表します。
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+ノンファンジブルトークンの**逆**は、USDC や Bitcoin のような他の種類のトークンと交換できるものです。 同じ種類のコインと1対1で交換できるトークンは、Fungible Token（ファンジブル トークン）として知られています。
 
-### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+### Polygon（ポリゴン）
+ポリゴン（旧Matic Network）は、パブリックブロックチェーンのスケーリングソリューションです。 Plasma（プラズマ）フレームワーク（Plasma MoreVP）の適応された実装に基づき、アカウントベースの実装で、ポリゴンは既存のイーサリアムツールのすべてをサポートし、より高速で安価なトランザクションを実現します。
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+イーサリアム・メインネットからポリゴンにトークンを転送するには、[このガイド](/polygon)を参照してください。
 
-Read more about Polygon [here](https://matic.network/).
+ポリゴンの詳細については[こちら](https://matic.network/)をご覧ください。
 
-### Proof of Stake
+### Proof of Stake（プルーフオブステーク）
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) は、ブロックチェーンがデータ履歴の単一の真の記録について合意するために使用できる合意メカニズムの一種です。 PoSブロックチェーンでは、バリデータ（検証者）はブロックの存在を証明する（または「検証する」）ためにステークをコミットします。
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+バリデータとは、PoSブロックチェーン上でブロックを提案し証明するためのノード（バリデータノードと呼ばれる）を運営するネットワーク上の参加者のことです。 彼らは暗号（イーサリアム2.0の場合、ETH）をネットワーク上にステーキングすることでこれを行い、ブロックを提案するためにランダムに選択されるようにします。 そして他の検証者は、そのブロックを見たことを「証明」します。 十分な数の認証が集まると、そのブロックはブロックチェーンに追加されます。 検証者は、ブロックの提案に成功した場合（PoWの場合と同様）と、自分が見たブロックについて証明した場合の両方で報酬を受け取ります。
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Proof of Stakeのコンセンサスメカニズムについて詳しくは、[こちら](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/)をご覧ください。
 
-### クィックスワップ（QuickSwap）
+### QuickSwap（クィックスワップ）
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwapはイーサリアムをベースにしたパーミッションレスの分散型取引所（DEX）で、[ポリゴン](/glossary#polygon)のレイヤー2スケーラビリティ・インフラストラクチャを搭載しています。 QuickSwapのユーザーは、取引にレイヤー2を利用することで、あらゆるERC20資産をゼロに近いガスコストで電光石火のスピードで取引ができるようになります。
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+QuickSwapは[こちら](https://quickswap.exchange)からアクセスできます。
