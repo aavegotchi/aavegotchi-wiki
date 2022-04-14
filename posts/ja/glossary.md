@@ -239,33 +239,33 @@ CEXの例としては、Binance、Coinbase、OKexなどがあります。
 
 
 ### フラッシュローン
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+ローンとコラテラル（担保）について前に話したことを思い出してください。 フラッシュローンは、担保を置く必要性を回避するためのローンの一種です。 しかし、そこにカラクリがあります。
 
-The flash loan has to be repaid within the same transaction block.
+フラッシュ・ローンは同じトランザクション・ブロック内で返済されなければならないのです。
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
+そうしないと、トランザクション全体が反転し、その時点までに実行されたアクションを効果的に取り消すことになります。 フラッシュローンについて詳しくは、[こちら](https://aave.com/flash-loans/)をご覧ください。
 
 
 
 ### インパーマネント・ロス
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+[自動マーケットメーカー（AMM）](/glossary#automated-market-maker)内でトークンを保有した場合と、自分のウォレットで保有した場合、その違いで生じます。 AMM内のトークンの価格がある方向にどんどん変動して行った場合に発生します。 変動が大きければ大きいほど、インパーマネント（無常な）・ロス（損失）は大きくなります。 損失が「インパーマネント」なのは、AMM内のトークンの相対価格がAMMに入ったときの状態に戻りさえすれば、損失は消え、取引手数料を100％獲得できるためです。 しかし、このようなケースはほとんどありません。 多くの場合、無常な損失は永久的なものとなり、取引収入を食いつぶし、あるいはマイナスのリターンを残すことになるのです。 一般的にダイバージェンスロスとも呼ばれます。
 
 
 
 ### リキディティー・プール
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
+この用語は、やや自明である。 これは、スマートコントラクトにロックされたトークンのプールです。 これらは、リキディティー（流動性）を提供することによって取引を促進するために使用されます。
 
 
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
+これらの用語のより詳細な内訳については、Finematicsの[ガイド](https://finematics.com/liquidity-pools-explained/)を参照してください。
 
-### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
+### maToken
+maTokenは、Aave V2の[aToken](/glossary#atokens)を[Polygon](/glossary#polygon)上で表したものです。 私たちのチームの[Nick Mudge](/team#nick-mudge)氏によって開発されました。
 
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
+Ethereum Mainnet上のaTokenをPolygon上のmaTokenに変換する方法については、この[maTokenガイド](/matokens)を参照してください。
 
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
+maTokenは[amToken](/glossary#amtokens)と**同じではありません。**
 
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+Aavegotchiでは、**maToken**は[スピリットフォース/コラテラル](/glossary#spirit-force)として使用されます。
 
 ### オラクル
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
