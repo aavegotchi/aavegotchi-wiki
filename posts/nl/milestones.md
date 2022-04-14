@@ -184,192 +184,192 @@ contributors:
 * En nog veel meer!
 <p></p>
 
-## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
-* AGIP13 introduces a small BRS boost to gotchis as they age, to counteract statistical variance between haunts and reward long term engagement
-* Fulfil your Gotchi civic duty and vote!
+## [[AGIP13] Moet Aavegotchi een Aging Boost introduceren?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+* AGIP13 introduceert een kleine BRS-verhoging aan de leeftijd van gotchis om statistische verschillen tussen haunts tegen te gaan en betrokkenheid op de lange termijn te belonen
+* Fuliteer uw burgerlijke rechten en stem goed!
 <p></p>
 
-## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
-* Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
-* NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
-* Get 3x as many RARI trading rewards for trading Aavegotchis for the next 2 weeks!!!
+## [Aavegotchis terug naar Ethereum Mainnet Bruggen? Binnenkort beschikbaar!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
+* Beginnend op Maandag, 4 oktober 2021, kunnen Aavegotchis terug worden overgedragen naar Ethereum Mainnet met de Aavegotchi Bridge
+* NFT Marketplace Rarible biedt stimulansen voor de handel in Aavegotchis op hun marktplaats
+* Krijg 3 keer zoveel RARI trading beloningen voor het handelen in Aavegotchis voor de komende 2 weken!!!
 <p></p>
 
-## [Launch of Aavegotchi Ecosystem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
-* Following the huge success of our Aavegotchi Gaame Jaam, Pixelcraft Studios is excited to announce the launch of the Aavegotchi Ecosystem Grants program!
-* There are two tracks: (1) Game Track — Open to anyone creating mini-games; and (2) Ecosystem Track — Meant for every DApp, analytics platform, or viral gotchi experience that you have in mind to build.
+## [Start Aavegotchi Ecosysteem Grants!](https://aavegotchi.medium.com/aavegotchi-ecosystem-grants-launches-to-support-game-development-dapps-and-moar-2055e7612751)
+* Na het enorme succes van ons Aavegotchi Gaame Jaam, is Pixelcraft Studios opgewonden om de lancering van het Ecosysteem Grants programma van Aavegotchi bekend te maken!
+* Er zijn twee nummers: (1) Game Track - Open voor iedereen die mini-games creëert; en (2) Ecosysteem Track - Meant voor elke DApp, analytics platform, of virale gotchi ervaring die je in gedachten hebt om te bouwen.
 <p></p>
 
-## [Aavegotchi Side Views are now live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
-* Aavegotchi Side Views are now live!
-* They are viewable on the Aavegotchi UI and smart contract
+## [Aavegotchi Zijkant Weergaven zijn nu live!](https://aavegotchi.medium.com/onchain-side-views-are-live-heres-how-to-view-them-b1b29d0dae51?source=user_profile---------0----------------------------)
+* Aavegotchi Zijkant Weergaven zijn nu live!
+* Ze zijn zichtbaar op de Aavegotchi UI en smart contract
 <p></p>
 
-## [Aavegotchi Raffle 5 Wearables revealed!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
-* The wearables for Raffle 5 are revealed!
-* The theme is Aavegotchi's frenliest partnerships! :D :D :D
+## [Aavegotchi Lotterij 5 Wearables onthuld!](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225)
+* De wearables voor Lotterij 5 worden onthuld!
+* Het thema is de frenliliste partnerschappen van Aavegotchi! :D :D
 <p></p>
 
-## [120 Days of Gotchi! - A look at what to expect in Aavegotchi from now til 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
-* Gotchigang, boy do we have tons of exciting events for you!
+## [120 Dagen Gotchi! - Een kijkje naar wat je verwacht in Aavegotchi vanaf nu tot 2022](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e)
+* Gotchigang, jongen we hebben vele opwindende evenementen voor jou!
 * Haunt 2 Lotterij: 5 - 8 september 2021
-* AavegotchiDAO Frens Committee: 16 September 2021
-* FRENS Wearables Raffle #5: 24 - 28 September 2021
-* Baazaar NFT offers feature: Early October
-* Rarity Farming Season 2: October
-* REALM land sale #1: October
-* Gotchi renting/lending: November
-* The Aarcade: November
-* .....and many more! Check out the Medium post for all the hot hot alpha!
+* AavegotchiDAO Frens Commissie: 16 september 2021
+* FRENS Wearables Lotterij #5: 24 - 28 September 2021
+* Baazaar NFT aanbiedingen: Begin oktober
+* Rarity Farming Seizoen 2: oktober
+* REALM landverkoop #1: oktober
+* Gotchi huren/lenen: november
+* De Aarcade: november
+* .....en nog veel meer! Bekijk het Medium bericht voor alle hete alpha!
 <p></p>
 
-## [The Ultimate Guide to Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
-* The largest ever bid-to-earn auction is coming Aug 26–29 with new Aavegotchis and wearables!
-* Read this guide for more information!
+## [De Ultieme Gids voor Aavegotchi Haunt 2!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* De grootste veiling die ooit wordt aangeboden, komt voor Aug 26–29 met nieuwe Aavegotchis en wearables!
+* Lees deze handleiding voor meer informatie!
 <p></p>
 
-## [Aavegotchi Game Jaam coming soooon!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
-* The 1st Aavegotchi Game Jaam will be held on 1 - 5 September 2021!
-* Win aavesome prizes denominated in GHST!
-* The Gaame Jaam is organized by Aavegotchi's own Pixelcraft Studios who are providing custom tailored resources and hands-on workshops throughout the week
+## [Aavegotchi Game Jaam komt binnekort!](https://aavegotchi.medium.com/build-your-first-nft-mini-game-at-the-aavegotchi-game-jaam-sept-1-5-eeb795dfbb81)
+* De 1e Aavegotchi Game Jaam zal gehouden worden op 1 - 5 september 2021!
+* Win aavesome prijzen in GHST!
+* De Gaame Jaam is georganiseerd door Aavegotchi's eigen Pixelcraft Studios die door de week aangepaste hulpmiddelen en hand-on workshops leveren
 <p></p>
 
-## [The DeFi Case for GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
-* Coderdan has initiated a proposal to list GHST on the Aave Polygon market
-* Learn why GHST makes a good DeFi collateral in this post
-* Go delegate your proposition power to him to make this a reality!
+## [DeFi Geval voor GHST](https://aavegotchi.medium.com/the-defi-case-for-ghst-256a8653346a)
+* CoderDan heeft het initiatief genomen om GHST aan te bieden op de Aave Polygon Markt
+* Leer waarom GHST een goed DeFi collateral is in dit bericht
+* Gedelegeer je propositiebevoegdheid aan hem om dit werkelijkheid te maken!
 <p></p>
 
-## [Haunt 2 Dates Confirmed!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
-* Haunt 2 Dates confirmed on August 26, 2pm UTC — August 29, 2pm UTC
-* Format: GBM Auction
-* New Mythical Eye Shapes!
+## [Haunt 2 datums bevestigd!](https://aavegotchi.medium.com/haunt-2-dates-confirmed-f2d2029b0794)
+* Haunt 2 datums bevestigd op 26 augustus 2pm UTC - 29, 2pm UTC van 29 augustus
+* Formaat: GBM Veiling
+* Nieuwe Mythische Oog Vormen!
 <p></p>
 
-## [Aavegotchi July Update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
-* July has been jam-packed with Aavegotchi updates!
-* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquidity rewards and more!
-* Read all about it here!
+## [Aavegotchi juli update](https://aavegotchi.medium.com/aavegotchi-july-update-ab79bee02b9a)
+* De maand juli is opgepakt met Aavegotchi updates!
+* Bid2Earn Aauction, 1st Aavegotchi Birthday Paarty, DinoSwap GHST-ETH liquiditeit beloningen en meer!
+* Lees er hier alles over!
 <p></p>
 
-## [Haunt 1 Aavegotchi NFT Backgrounds are live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
-* On 5 August 2021, Pixelcraft announces that the Haunt 1 Aavegotchi NFT Backgrounds are now live!
-* This was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) and has finally been implemented
-* Head over to the Airdrops page and claim it!
+## [Haunt 1 Aavegotchi NFT Achtergronden zijn live!](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)
+* Op 5 augustus 2021 kondigt Pixelcraft aan dat de Haunt 1 Aavegotchi NFT Achtergronden nu live zijn!
+* Dit werd aangenomen in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis) en is eindelijk geïmplementeerd
+* Ga naar de Airdrop-pagina en claim ze!
 <p></p>
 
-## [CoinMarketCap former CTO joins Aavegotchi as Technical Advisor](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
-* On 29 July 2021, Pixelcraft announces that Mauvis Ledford, former CTO at CoinMarketCap (CMC), has joined Aavegotchi as a Technical Advisor.
-* Mauvis will play a lead role in scaling The Gotchiverse Realm so that tens of thousands of players can simultaneously enjoy the exciting virtual world when it goes live later this year!
+## [CoinMarketCap voormalige CTO toetreding tot Aavegotchi als Technisch Adviseur](https://aavegotchi.medium.com/coinmarketcap-former-cto-joins-aavegotchi-as-technical-advisor-a7ddcb186150)
+* Op 29 juli 2021 kondigt Pixelcraft aan dat Mauvis Ledford, voormalig CTO bij CoinMarketCap (CMC), zich als technisch adviseur bij Aavegotchi heeft aangesloten.
+* Mauvis zal een leidende rol spelen bij het schalen van The Gotchiverse Realm, zodat tienduizenden spelers tegelijkertijd kunnen genieten van de opwindende virtuele wereld wanneer deze later dit jaar live gaat!
 <p></p>
 
-## [Exclusive Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
-* Hear ye! Hear ye! There will be an exclusive Aavegotchi x Venly Wearables Drop coming up soon!
-* Read this post to learn more about the upcoming AMA as well as the Wearables Drop!
+## [Exclusieve Aavegotchi x Venly Wearables Drop](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)
+* Hoor je! Hoor je! Er komt een exclusieve Aavegotchi x Venly Wearables Drop binnenkort!
+* Lees dit bericht om meer te weten te komen over de aankomende AMA en de Wearables Drop!
 <p></p>
 
-## [A Review of Aavegotchi's first #Bid2Earn Auction](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
-* The recently concluded Aavegotchi #Bid2Earn Auction was a success!
-* View the Aauction aanalytics in this latest post!
+## [Een Review van Aavegotchi's eerste #Bid2Earn Veiling](https://aavegotchi.medium.com/winning-a-review-of-the-first-aavegotchi-bid2earn-auction-eaa4ed959c79)
+* De onlangs afgesloten Aavegotchi #Bid2Earn Auction was een succes!
+* Bekijk de Aauction aanalytics in dit laatste bericht!
 <p></p>
 
 ## [Aavegotchi Haunt 2 CoreProp is live!](https://aavegotchi.medium.com/wen-haunt-2-coreprop-voting-is-live-862259e15f18)
-* The SigProp for Aavegotchi Haunt 2 was a resounding success! It has now been upgraded to a CoreProp! Go vote now!
+* De SigProp voor Aavegotchi Haunt 2 was een klinkend succes! Het is nu opgewaardeerd naar een CoreProp! Stem nu!
 <p></p>
 
-## [DinoSwap has launched! GHST-ETH Liquidity Rewards are Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
-* On 17 July 2021, Pixelcraft announces that DinoSwap has launched and GHST-ETH Liquidity Rewards are now live!
-* Previously, AavegotchiDAO voted in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) to allocate 100,000 GHST tokens toward “Extinction Pool” rewards on to the dinoswap.exchange DEX aggregator, with an additional 100,000 GHST being matched by Pixelcraft Studios, the lead developers of Aavegotchi.
-* In return, DinoSwap is incentivizing QuickSwap.exchange’s GHST-ETH liquidity with 2 million USD worth of DINO tokens over the coming 90 days.
+## [DinoSwap is gelanceerd! GHST-ETH Liquidity Beloningen zijn Live!](https://aavegotchi.medium.com/dinoswap-launch-ghst-eth-liquidity-rewards-are-live-781d70d746bd)
+* Op 17 juli 2021 kondigt Pixelcraft aan dat DinoSwap is gelanceerd en dat GHST-ETH Liquidity Beloningen nu live zijn!
+* Voorheen stemde AavegotchiDAO in [AGIP10](/aavegotchi-improvement-proposals#partnership-between-aavegotchidao--pixelcraft--and-dinoswap) om 100.000 GHST tokens toe te wijzen aan 'Extinction Pool' beloningen aan de dinoswap. xchange DEX aggregator, plus 100.000 GHST wordt geëvenaard door Pixelcraft Studios, de lead ontwikkelaars van Aavegotchi.
+* In ruil daarvoor is DinoSwap de aanmoediging van QuickSwap.exchange’s GHST-ETH liquiditeit met 2 miljoen USD aan DINO tokens in de komende 90 dagen.
 <p></p>
 
-## [Aavegotchi Bid-to-Earn Auctions are coming to Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
-* On 14 July 2021, Pixelcraft announces that their first Bid-to-Earn Auction will be starting tomorrow on Thursday, 15 July 2021 at 10 PM SGT.
-* The auction will run for 72 hours and will conclude on Sunday, 10 PM SGT.
+## [Aavegotchi Bid-to-Earn Veilingen komen naar Polygon!](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* Op 14 juli 2021 kondigt Pixelcraft aan dat hun eerste Bid-to-Earn Auction morgen op donderdag 15 juli 2021 om 10 PM SGT zal beginnen.
+* De veiling zal 72 uur duren en zal op zondag afgerond zijn, 10 PM SGT.
 <p></p>
 
-## [Aavegotchi Haunt 2 Signal Proposal is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
-* On 8 July 2021, Pixelcraft announces that the Aavegotchi Haunt 2 Signal Proposal is Live!
-* After much discussion at the AavegotchiDAO, the team is excited to move forward with a Signal Proposal on Haunt 2
-* If the Signal Proposal is passed, it will be upgraded to a Core Proposal for one more round of voting
+## [Aavegotchi Haunt 2 Signaal Voorstel is Live!](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)
+* Op 8 juli 2021 kondigt Pixelcraft aan dat het Aavegotchi Haunt 2 Signaal Voorstel Live is!
+* Na veel discussie in de AavegotchiDAO is het team enthousiast om door te gaan met een Signaal Voorstel op Haunt 2
+* Als het Signaal-voorstel wordt doorgegeven, wordt het opgewaardeerd naar een basisvoorstel voor nog één stemronde
 <p></p>
 
-## [Drop Tickets are now live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
-* On 2 July 2021, Pixelcraft announces that Drop Tickets are now live on Aavegotchi.com
-* Drop Tickets can be used to participate in raffles to win H2 Portals and REALM parcels
+## [Drop Tickets zijn nu live!](https://aavegotchi.medium.com/win-big-with-drop-tickets-now-live-on-aavegotchi-com-ca2ae2115e0)
+* Op 2 juli 2021 kondigt Pixelcraft aan dat tickets nu live worden geplaatst op Aavegotchi.com
+* Drop tickets kunnen worden gebruikt om deel te nemen in lotterijen om H2 Portals en REALM pakketten te winnen
 <p></p>
 
-## [Aavegotchi Missions are back!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
-* On 26 June 2021, Pixelcraft announces that Aavegotchi Missions are back!
-* Read the REALM Litepaper and participate!
+## [Aavegotchi Missies zijn terug!](https://aavegotchi.medium.com/missions-are-back-introducing-the-aavegotchi-share2earn-litepaper-campaign-33442f9bcd50)
+* Op 26 juni 2021 kondigt Pixelcraft aan dat Aavegotchi Missions terug zijn!
+* Lees de REALM Litepaper en neem deel!
 <p></p>
 
-## [Vote on AGIP8 and AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
-* AGIPs 8 and 9 are now live as of 11 June 2021! Read the details here and go vote!
+## [Stem op AGIP8 en AGIP9](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2)
+* AGIPs 8 en 9 zijn vanaf 11 juni 2021 live! Lees de details hier en ga stemmen!
 <p></p>
 
-## [GHST is now listed on Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
-* On 9 June 2021, Pixelcraft announces that the Aavegotchi GHST token is now listed on Crypto.com's app!
+## [GHST staat nu vermeld op Crypto.com](https://aavegotchi.medium.com/ghst-is-now-listed-on-crypto-com-ebd05ecd2cc5)
+* Op 9 juni 2021 kondigt Pixelcraft aan dat de Aavegotchi GHST token nu is vermeld op Crypto.com's app!
 <p></p>
 
-## [Pixelcraft introduces the Aavegotchi Aambassador Program: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
-* On 25 May 2021, Pixelcraft introduces the V2 of the Aavegotchi Aambassadors Program!
-* An Aavegotchi Aambassador is responsible for spreading the Gospel of Gotchi to those who haven’t discovered us yet.
-* Join us as an Aambassador, grow your own community, and be rewarded for it!
+## [Pixelcraft introduceert het Aavegotchi Aambassadors Programma: V2](https://aavegotchi.medium.com/introducing-the-aavegotchi-aambassador-program-v2-3fb3e8905d59)
+* Op 25 mei 2021 introduceert Pixelcraft de V2 van het Aavegotchi Aambassadors-programma!
+* Een Aavegotchi Aambassadrice is verantwoordelijk voor het verspreiden van het Gospel van Gotchi naar degenen die ons nog niet hebben ontdekt.
+* Kom erbij als Ambassadeur, laat je je eigen gemeenschap groeien en word ervoor beloond!
 <p></p>
 
-## [Expansion of the uGOTCHI Collection!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
-* On 16 May 2021, Pixelcraft announces that they have added Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI Collection on Unic.ly
-* The Baadge Snapshot will be taken on Monday, May 17th at 10PM UTC. Those interested in earning a Baadge for their Aavegotchis should provide liquidity before the cutoff!
+## [Uitbreiding van de uGOTCHI Collectie!](https://aavegotchi.medium.com/the-ugotchi-collection-is-expanding-just-in-time-for-unic-farming-6e7fce7b8c2b)
+* Op 16 mei 2021 kondigt Pixelcraft aan dat ze niet-geopende Portaal 2 hebben toegevoegd het derde laagste tokenID van Haunt 1, in de uGOTCHI Collectie op Unic.ly
+* De Baadge Snapshot zal maandag worden gehouden, 17 mei om UTC van 10PM. Degenen die een Baadge willen verdienen voor hun Aavegotchis moeten liquiditeit bieden vóór de cutoff!
 <p></p>
 
-## [Vote on AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
-* On 12 May 2021, Pixelcraft introduces AGIP7 - Earn XP for Successful Signal Proposals
-* The AGIP was proposed by our Aassistant Moon!
+## [Stem op AGIP7!](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae)
+* Op 12 mei 2021, introduceert Pixelcraft AGIP7 - Verdien XP voor succesvolle Signaal Voorstellen
+* De AGIP werd voorgesteld door onze assistent Moon!
 <p></p>
 
-## [A new Baadge to collect!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
-* On 10 May 2021, Pixelcraft announces that NFT badges of honor will be bestowed on those LPing on Unicly pre-UNIC farming!
+## [Een nieuwe plaat om te verzamelen!](https://aavegotchi.medium.com/how-to-earn-an-exclusive-ugotchi-lp-baadge-for-your-aavegotchis-c707e783357b)
+* Op 10 mei 2021 kondigt Pixelcraft aan dat NFT badges van eer worden uitgereikt aan die LPing op Uniceke pre-UNIC-productie!
 <p></p>
 
-## [Ooooo Shiny New Gotchi Baadges!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
-* You can now collect Aavegotchi Baadges for your performance in rarity farming!
-* Gotchi Baadges are non-transferable ERC-1155 NFTs that reside in your Aavegotchi's Pocket foreeeeverrr!
-* Look out for more Baadges to collect in the future ;)
-* Post published on 4 May 2021
+## [Ooooo Blinkende Nieuwe Gotchi Uitrustingen!](https://aavegotchi.medium.com/the-first-nft-wallet-on-polygon-is-aavegotchi-b24cac01a1d9)
+* U kunt nu Aavegotchi baadges verzamelen voor uw prestaties in Rarity farming!
+* Gotchi badges zijn niet overdraagbaar ERC-1155 NFT's die zich voor altijd in je Aavegotchi's Pocket bevinden!
+* Kijk uit voor meer badges om te verzamelen in de toekomst ;)
+* Post gepubliceerd op 4 mei 2021
 <p></p>
 
-## [Pixelcraft releases the Aavegotchi Development Roadmap V2!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
-* Hello frens! On 28 April 2021, Pixelcraft reveals their V2 Roadmap for the next couple of years!
-* Phase 1: Incubation (Q2 2021 — Q4 2021) - Establish Aavegotchi as a popular game for crypto natives
-* Phase 2: Breakout (Q1 2022 — Q4 2023) - Establish Aavegotchi as a community-owned gaming platform with mainstream appeal
-* Phase 3: Ubiquitous (Q1 2024 — beyond) - Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal
+## [Pixelcraft brengt de Aavegotchi Development Roadmap V2 uit!](https://aavegotchi.medium.com/aavegotchi-development-roadmap-v2-15820dcf84de)
+* Hallo frens! Op 28 april 2021 onthult Pixelcraft hun V2 routekaart voor de komende jaren!
+* Fase 1: Incubatie (Q2 2021 - Q4 2021) - Bouw Aavegotchi als een populair spel voor crypto inheemse volken
+* Fase 2: Breakout (Q1 2022 - Q4 2023) - Establish Aavegotchi als een community-eigendom gaming-platform met mainstream appeal
+* Fase 3 (Q1 2024 - verder) - Voltooien van de Aavegotchi visie door het maken van een crypto-spel met massa mainstream aantrekkingskracht
 <p></p>
 
-## [AGIP #6 PASSES!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
-* Baazaar fees are now increased by 0.5% to 3.5%
-* Another Core Proposal vote coming up soon! (The right for Gotchis to vote!)
-* Post published on 19 April 2021
+## [AGIP #6 GOEDGEKEURD!](https://aavegotchi.medium.com/agip-6-passes-baazaar-sales-set-to-fund-reward-pool-at-0-5-55529cdcb83c)
+* De tarieven voor Baazaar zijn nu verhoogd met 0,5% tot 3,5%
+* Binnenkort komt er nog een stemming over het kernvoorstel! (Het recht van Gotchis om te stemmen!)
+* Post gepubliceerd op 19 april 2021
 <p></p>
 
-## [Aalpha Leak! Aavegotchi 1st Community Call](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
-* Missed the 1st Community Call? Wij staan voor je klaar, Fren!
-* The Aavegotchi team expands!
-* More collaborations announced!
-* More discussions on AavegotchiDAO
-* Post published on 18 April 2021
+## [Aalpha Leak! Aavegotchi 1e Gemeenschap Gesprek](https://aavegotchi.medium.com/aalpha-leak-aavegotchi-april-community-call-fc6384b53268)
+* Heeft u de 1e communautaire oproep gemist? Wij staan voor je klaar, Fren!
+* Het Aavegotchi team breidt uit!
+* Meer samenwerkingen aangekondigd!
+* Meer discussies op AavegotchiDAO
+* Post gepubliceerd op 18 april 2021
 <p></p>
 
-## [Fractionalized Aavegotchis on Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
-* Unicly — the protocol to combine, fractionalize, and trade NFTs — has fractionalized the first Aavegotchis on Ethereum Mainnet!
-* Published on 16 April 2021
+## [Gebroken Aavegotchis op Ethereum Mainnet!](https://aavegotchi.medium.com/unicly-has-fractionalized-the-first-aavegotchis-on-ethereum-2b7ce5ebe7f3)
+* Unicly - het protocol om NFT's te combineren, fractionaliseren en verhandelen - heeft de eerste Aavegotchis op Ethereum Mainnet gebroken!
+* Gepubliceerd op 16 april 2021
 <p></p>
 
-## [Lil Pump drop incoming!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
-* The Aavegotchi team reminds everyone that the Lil Pump drop will occur tomorrow, 9 April 2021, at the Maall.
+## [Lil Pump drop aanstaande!](https://aavegotchi.medium.com/iconic-lil-pump-aavegotchi-nfts-dropping-friday-april-9-at-1pm-utc-6d09fa7abb5f)
+* Het Aavegotchi team herinnert iedereen eraan dat de Lil Pump drop morgen op 9 april 2021 zal plaatsvinden, in het Maal.
 <p></p>
 
-## [Vote on AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
+## [Stem op AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
 * On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
 * Head over to Snapshot and vote now!
 <p></p>
@@ -597,7 +597,7 @@ contributors:
 <p></p>
 
 ## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
+* Hoor je! Hoor je! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
 <p></p>
 
 ## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
