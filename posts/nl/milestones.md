@@ -21,122 +21,122 @@ contributors:
 
 ## [De Gotchiverse is gelanceerd!](https://blog.aavegotchi.com/play-to-earn-guide-the-gotchiverse-alpha-launch/)
 * De Gotchiverse is gelanceerd!
-* During the alpha period (31st March - 30th April), collect Alchemica with your Gotchis!
-* Use your Alchemica to craft a limited edition Golden Aaltar that is only available during this period!
+* Gedurende de alpha periode (31 maart - 30 april), verzamel Alchemica met uw Gotchis!
+* Gebruik je Alchemica om een beperkte editie Gouden Aaltar te maken dat alleen beschikbaar is gedurende deze periode!
 <p></p>
 
-## [Gotchi Lending is now live!](https://blog.aavegotchi.com/aavegotchi-brings-scalability-to-nft-gaming-gotchi-lending-now-live/)
-* Gotchi Lending is now live!
-* Borrow or lend out your Gotchis in a trustless manner over the blockchain
+## [Gotchi Lending is nu live!](https://blog.aavegotchi.com/aavegotchi-brings-scalability-to-nft-gaming-gotchi-lending-now-live/)
+* Gotchi Lending is nu live!
+* Leen of leen uw Gotchis uit op een betrouwbare manier over de blockchain
 <p></p>
 
-## [AGIPs 24 - 28 are open for voting!](https://blog.aavegotchi.com/vote-agip-24-25-26-27-28-treasury-staking-on-aave-realm-auction-raffle-delay-parcel-vrf-variance-reduction-alternative-trait-mapping-dao-treasury-task-force-multisig-extension/)
-* 5 new coreprops for #gotchigang to vote on
-* Read and vote now!
+## [AGIPs 24 - 28 staan open voor stemming!](https://blog.aavegotchi.com/vote-agip-24-25-26-27-28-treasury-staking-on-aave-realm-auction-raffle-delay-parcel-vrf-variance-reduction-alternative-trait-mapping-dao-treasury-task-force-multisig-extension/)
+* 5 nieuwe coreprops voor #gotchigang om op te stemmen
+* Lees en stem nu!
 <p></p>
 
-## [Celebrate the Alpha launch of the Gotchiverse by minting a limited edition Golden Aaltar NFT!](https://blog.aavegotchi.com/le-golden-aaltar/)
-* The Gotchiverse alpha is launching on 31st March and will feature **real** Gotchus Alchemica
-* Collect as much Alchemica as possible to craft a limited edition Golden Aaltar NFT!
+## [Vier de Alpha lancering van de Gotchiverse door een beperkte editie Gouden Aaltar NFT!](https://blog.aavegotchi.com/le-golden-aaltar/)
+* De Gotchiverse alpha start op 31 maart en zal **echte** Gotchus Alchemica bevatten
+* Verzamel zoveel mogelijk Alchemica om een beperkte editie Gouden Aaltar NFT te craften!
 <p></p>
 
-## [Gotchi Lending is coming soon!](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
-* Gotchi Lending is coming out on 28 March!
-* Gotchi owners can now trustlessly lend out their Gotchis to other players for a set duration
+## [Gotchi Lending komt binnenkort!](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
+* Gotchi Lending komt uit op 28 maart!
+* Gotchi eigenaren kunnen nu hun Gotchis vertrouwelijk uitlenen aan andere spelers voor een bepaalde duur
 <p></p>
 
-## [Aavegotchi February Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
-* February was another action-packed month for #GotchiGang
-* GHST listing on Aave, Rarity Farming Season 3, Gotchiverse Stress Test #3, and moar!
+## [Aavegotchi februari Updates](https://blog.aavegotchi.com/aavegotchi-february-update/)
+* Februari was opnieuw een vol met actie-packed maand voor onze #GotchiGang
+* GHST vermeld op Aave, Rarity Farming Seizoen 3, Gotchiverse Stress Test #3, en moar!
 <p></p>
 
-## [The Gotchiverse Bible: Chapter 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
-* Chapter 3 is out!
-* It covers Alchemical Channeling, Wearable Traits Pool, Guilds and Gotchi Lodge, and GAX and GLTR!
+## [De Gotchiverse Bijbel: Hoofdstuk 3](https://blog.aavegotchi.com/gotchiverse-bible-chapter-3/)
+* Hoofdstuk 3 is uit!
+* Het bestrijkt Alchemical Channeling, Wearable Traits Pool, Guilds en Gotchi Lodge, en GAX en GLTR!
 <p></p>
 
-## [Rarity Farming Season 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
-* Rarity Farming Season 3 will commence on 24 February 2022
-* There will be 3 leaderboards this time round: Rarity (70%), Kinship (20%), and XP (10%)
+## [Rarity Farming Seizoen 3](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* Rarity Farming Seizoen 3 zal beginnen op 24 februari 2022
+* Er zullen deze keer 3 leaderboards zijn: Zeldzaamheid (70%), Kinship (20%) en XP (10%)
 <p></p>
 
-## [Memers, you ready?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
-* Aavegotchi launches an ongoing meme bounty program!
-* If your meme gets selected, winners will get a **100 GHST** bounty for image memes, and **200 GHST** bounty for video memes directly to your address after the post is live.
+## [Memers, bent u klaar?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
+* Aavegotchi lanceert een lopend meme-premie programma!
+* Als je meme wordt geselecteerd, krijgen winnaars een **100 GHST** premie voor afbeeldingen, en **200 GHST** premie voor video-memes direct naar uw adres nadat het bericht live is.
 <p></p>
 
-## [AGIPs 21, 22, and 23 are up for voting!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
-* AGIP 21: Adding GHST to Umbria Narni Bridge
-* AGIP 22: Starting Rarity Farming Season 3
-* AGIP 23: Co-sponsoring the GoodGhosting Pool
-* Vote now!
+## [AGIPs 21, 22 en 23 klaar om op te stemmen!](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
+* AGIP 21: GHST toevoegen aan Umbria Narni Bridge
+* AGIP 22: Begin Rarity Farming Seizoen 3
+* Co-Sponsoring van de GoodGhosting Pool
+* Stem nu!
 <p></p>
 
-## [Vote on AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
-* AGIP 19: Providing GHST Liquidity on SynFutures
-* AGIP 20: Creating the DAO Treasury Taask Force
+## [Stem op AGIPs 19 & 20!](https://blog.aavegotchi.com/vote-agip-19-20-ghst-on-synfutures-and-umbria-treasury-taask-force/)
+* AGIP 19: GHST Liquidity op SynFutures aanbieden
+* AGIP 20: Het maken van de DAO Schatkist Taask Force
 <p></p>
 
-## [GHST Token is now list on Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
-* GHST Token is now live on the Aave Polygon Market!
+## [GHST Token staat nu op Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
+* GHST Token is nu live op de Aave Polygon Market!
 <p></p>
 
-## [Gotchiverse Game Bible: Chapter 2 is out!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
-* The Gotchiverse Game Bible: Chapter 2 is out!
-* Topics covered: Alchemica Tokenomics, Installation Traits and Recipes, and Aavegotchi Trait Mappings!
+## [Gotchiverse Game Bijbel: Hoofdstuk 2 is uit!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
+* Gotchiverse Game Bijbel: Hoofdstuk 2 is uit!
+* Onderwerpen behandeld: Alchema Tokenomics, Installatie Eigenschappen en Recepten, en Aavegotchi Trait Mappingen!
 <p></p>
 
-## [Rarity Farming Season 2 Baadges are out!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
-* Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
+## [Rarity Farming Seizoen 2 Baadges zijn uit!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
+* Hier zijn de winnaars van elk van de Rarity Farming Seizoen 2 Scoreborden!
 <p></p>
 
-## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
-* Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
+## [Maker van PhaserQuest Joins Aavegotchi als Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
+* Phaser game engine expert Jerome Renaux voegt zich bij Pixelcraft Studios om de Gotchiverse te helpen bouwen!
 <p></p>
 
-## [The Gotchiverse Bible](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
-* The Gotchiverse Bible has been released!
-* It is a public-facing document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
+## [De Gotchiverse Bijbel](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
+* De Gotchiverse Bijbel is vrijgegeven!
+* Het is een publiek document dat gedetailleerde informatie geeft over gameplay, economie en opbouw in het Gotchiversspel.
 <p></p>
 
-## [Aavegotchi Raffle #6: DeFi RPG Theme](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
-* The 6th Aavegotchi Raffle has a DeFi RPG Theme
-* The Raffle will be held from 26 - 29 Jan!
-* Don't miss out on it!
+## [Aavegotchi Lotterij #6: Defi RPG Thema](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
+* De 6e Aavegotchi Lotterij heeft een DeFi RPG Thema
+* De Lotterij zal worden gehouden van 26 tot 29 Jan!
+* Mis het niet!
 <p></p>
 
 ## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
-* What has our shippooooorrr been up to in December 2021?
-* A lot!
-* Check out the Medium post for more
+* Wat heeft onze shippoooor in december 2021 bereikt?
+* Heel veel!
+* Bekijk de Medium Post voor meer
 <p></p>
 
-## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
-* 2 new Core Props and 6 new SigProps to vote for!
-* Vote now and get a deluge of XP!
+## [Niet 1, maar 8 voorstellen om voor te stemmen!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
+* 2 nieuwe Core Props en 6 nieuwe SigProps om op te stemmen!
+* Stem nu en krijg een golf van XP!
 <p></p>
 
-## [Earning in the Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
-* There are 3 ways to earn Alchemica
-* Check it out here!
+## [Verdienen in het Gotchiverse](https://aavegotchi.medium.com/aalpha-leak-your-guide-to-earning-in-the-gotchiverse-7fd8ca0fb4c1)
+* Er zijn 3 manieren om Alchemica te verdienen
+* Bekijk ze hier!
 <p></p>
 
-## [Gotchi Lending coming your way!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
-* Pixelcraft announces the upcoming Gotchi Lending feature! :D
+## [Gotchi Lending komt je weg uit!](https://aavegotchi.medium.com/massively-scaling-play-to-earn-with-gotchi-lending-4094005c2100)
+* Pixelcraf kondigt de aankomende Gotchi Lending functie aan! :D
 <p></p>
 
-## [2nd Gotchiverse Land Sale confirmed!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
-* 7000 parcels will be distributed through a Bid-to-Earn Auction from 2 - 5 December 2021
-* 3000 parcels will be distributed through a Drop Ticket Raffle from 10 - 13 December 2021
+## [2e Gotchiverse Land Verkoop bevestigd!](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 7000 parcelen zullen worden geveild via een Bid-to-Earn Veiling van 2 tot 5 december 2021
+* 3000 parcelen worden van 10 tot 13 december 2021 via een drop-Ticket verloot
 <p></p>
 
-## [DAOist, get ready to vote in AGIP14 and 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
-* AGIP14: Earn FRENS with GHST-MATIC LP Tokens
-* AGIP15: Create a Wearables Taask Force
+## [DAOist, maak je klaar om te stemmen in AGIP14 en 15!](https://aavegotchi.medium.com/vote-agip14-and-agip15-frens-for-ghst-matic-lps-creating-a-wearables-task-force-b30f7beccca)
+* AGIP14: Verdien FRENS met GHST-MATIC LP Tokens
+* AGIP15: Maak een Wearables Taask Force
 <p></p>
 
-## [Coderdan the shippoorrrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
-* Coderdan and his army of shippporrrrs continue to deliver:
+## [Coderdan de shippoorrr](https://aavegotchi.medium.com/aavegotchi-shippoors-continue-to-deliver-fbcb2ec4f67)
+* Coderdan en zijn leger van shippoorrrs blijven leveren:
 1. Eerste Gotchiverse Land Veiling
 2. Rarity Farming SZN 2 Kickoff
 3. Voormalig World of Warcraft Game Designer vervoegt het Team
@@ -152,36 +152,36 @@ contributors:
 13. Pixelcraft Studios Dev Hoogtepunten
 <p></p>
 
-## [Land Raffle #1 — November 5-8](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
-* Participate in Aavegotchi's very first Land Raffle from 5 to 8 November!
+## [Land Lotterij #1 - 5-8 november](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e)
+* Neem deel aan Aavegotch's allereerste Land Lotterij van 5 tot 8 november!
 <p></p>
 
 ## [Gotchus Alchemica Tokenomics](https://aavegotchi.medium.com/top-secret-gotchus-alchemica-tokenomics-report-fc588cda9896)
-* FUD, FOMO, ALPHA, KEK — The 4 elements in the Gotchiverse
-* Read all about their tokenomics here!
+* FUD, FOMO, ALPHA, KEK - De 4 elementen in de Gotchiverse
+* Lees alles over hun tokenomics hier!
 <p></p>
 
-## [Ex-World of Warcraft Game Designer joins Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
-* David Fried, a senior game industry veteran who previously worked on World of Warcraft, Diablo II, and Warcraft 3, has joined Pixelcraft Studios as Senior Engineer Game Advisor (SEGA!)!
+## [Ex-World of Warcraft Game Designer sluit zich aan bij Aavegotchi!](https://aavegotchi.medium.com/ex-world-of-warcraft-game-designer-brings-talents-to-aavegotchi-8102fb671e2c)
+* David Fried, een senior game-industrie veteraan die eerder werkte aan World of Warcraft, Diablo II en Warcraft 3 heeft zich aangesloten bij Pixelcraft Studios als senieur Game Adviseur (SEGA!)!
 <p></p>
 
-## [Are you ready? Aavegotchi Land Sale #1 coming up this Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
-* The very first Aavegotchi Land Sale is starting on Thursday, October 28 using the GBM Auction format
-* Get your GHST ready to bid bid bid!
+## [Ben jij er klaar voor? Aavegotchi Land Verkoop #1 komt deze Halloween!](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* De allereerste Aavegotchi Land Sale begint op donderdag 28 oktober met behulp van het GBM veiling formaat
+* Maak je GHST klaar om een bod te doen!
 <p></p>
 
-## [Rarity Farming Season 2 coming right upp!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
-* Get ready to farm 3 MILLION USD worth of GHST for your #GotchiGang
-* Season 2 begins Tuesday, 12 October 2021
-* Get the details in this post!
+## [Rarity Farming Seizoen 2 staat om de hoek!](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* Maak je klaar om 3 MILLIE USD aan GHST te verdienen voor je #GotchiGang
+* Seizoen 2 begint dinsdag 12 oktober 2021
+* Ontvang de details in dit bericht!
 <p></p>
 
-## [Aavegotchi September Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
-* September was another Aamazing month for the #GotchiGang!
-* Gotchiverse REALM Reveal
-* Haunt 2 Portal Raffle Completed
-* Wearables Raffle #5 Completed
-* And many more!
+## [Aavegotchi september Update](https://aavegotchi.medium.com/aavegotchi-september-update-30221e559bbe)
+* September was weer een verbazingwekkende maand voor de #GotchiGang!
+* Gotchiverse REALM Openbaring
+* Haunt 2 Portaal Lotterij voltooid
+* Wearable Lotterij #5 Voltooid
+* En nog veel meer!
 <p></p>
 
 ## [[AGIP13] Should Aavegotchi introduce an Aging Boost?](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
