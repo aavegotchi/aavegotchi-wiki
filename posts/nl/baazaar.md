@@ -61,14 +61,14 @@ Kopers kunnen er 1 kopen, een deel of een lijst met meerdere artikelen.
 
 Check dit [bericht](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) voor meer informatie.
 
-The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
+De Aavegotchi Baazaar kan je [hier](https://app.aavegotchi.com/baazaar) vinden.
 
 ## Functies
 Er staan een aantal producten te koop op de Baazaar:
 
 * Aavegotchis
 * Portalen
-* Gotchiverse Land
+* Gotchivers Land
 * Installaties
 * Wearables
 * Verbruiksartikelen
