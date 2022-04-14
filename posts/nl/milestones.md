@@ -370,38 +370,38 @@ contributors:
 <p></p>
 
 ## [Stem op AGIP6!](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528)
-* On 7 April 2021, the Aavegotchi team announces AGIP6, proposing the addition of a 0.5% Fee on Baazaar to Support Rarity Farming.
-* Head over to Snapshot and vote now!
+* Op 7 april 2021 kondigt het Aavegotchi team AGIP6 aan, dat voorstelt om een vergoeding van 0,5% op Baazaar toe te voegen om Rarity Farming te ondersteunen.
+* Ga naar Snapshot en stem nu!
 <p></p>
 
-## [Maall Drop and more!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
-* Lil Pump Wearables to drop this Friday, April 9
-* Hottest Signal Proposals on AavegotchiDAO
-* Pixelcraft Studios is expanding
-* Baazaar recently passed a major milestone achieving over 10 million GHST trading volume!
-* Post published on 5 April 2021
+## [Maall Drop en meer!](https://aavegotchi.medium.com/aavegotchi-community-update-21-7125edb82de2)
+* Lil Pump Wearables Drop vrijdag 9 april
+* Hottest Signal Voorstellen op AavegotchiDAO
+* Pixelcraft Studios is aan het uitbreiden
+* Baazaar heeft onlangs een belangrijke mijlpaal van meer dan 10 miljoen in handelsvolume bereikt!
+* Post gepubliceerd op 5 april 2021
 <p></p>
 
-## [Rarity Farming Season 1 Rewards](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
-* Rarity Farming Season 1 - Farm your share of over 2 million USD worth of GHST rewards over 8 weeks
-* Post published on 30 March 2021
+## [Rarity Farming Seizoen 1 Beloningen](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Rarity Farming Seizoen 1 - Boek uw aandeel van meer dan 2 miljoen USD aan GHST beloningen in 8 weken
+* Bericht gepubliceerd op 30 maart 2021
 <p></p>
 
-## [Lil Pump x Aavegotchi Collaboration](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
-* On 22 March 2021, the Aavegotchi team reveals their collaboration with multi-platinum music artist Lil Pump.
-* The mystery wearables for Raffle 4 are revealed to be Lil Pump wearables!
+## [Lil Pump x Aavegotchi Samenwerking](https://aavegotchi.medium.com/lil-pump-joins-gotchigang-with-exclusive-aavegotchi-wearables-set-543e73637b29)
+* Op 22 maart 2021 onthult het Aavegotchi team hun samenwerking met multi-platinum muziekartiest Lil Pump.
+* De mysterieuze wearables voor Lotterij 4 worden onthuld als Lil Pump wearables!
 <p></p>
 
-## [Vote in Aavegotchi Improvement Proposals 4 and 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
-* Frens, we need your vote! Aavegotchi Improvement Proposals (AGIPs) 4 and 5 are open for voting!
-* Should there be more haunts? Should Haunt 1 be unique? Vote nao!
-* Post published on 17 March 2021
+## [Stem op Aavegotchi Verbetervoorstellen 4 en 5!](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772)
+* Frens, wij hebben uw stem nodig! Aavegotchi verbeteringsvoorstellen (AGIP's) 4 en 5 zijn open om te stemmen!
+* Moet er meer Haunts komen? Moet Haunt 1 uniek zijn? Stem nu!
+* Bericht gepubliceerd op 17 maart 2021
 <p></p>
 
-## [Raffle 4 announced! Layer 2 Theme!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
-* On 15 March 2021, the Aavegotchi team announced Raffle 4: Layer 2 Theme
-* Raffle 4 will open on March 29, 2021 at 10PM SGT (10am EST) and, like previous Raffles, there will be a 72 hour window to enter your tickets into the Raffle contract.
-* On April 1, 2021, we’ll be engaging the Chainlink VRF on Polygon to spin the wheel and determine the winners!
+## [Lotterij 4 aangekondigd! Layer 2 Thema!](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9)
+* Op 15 maart 2021 kondigde het Aavegotchi team Lotterij 4: Layer 2 Thema aan
+* Lotterij 4 opent op 29 maart 2021 om 10PM SGT (10 am EST) en net als vorige Lotterijen, er zal een pauze van 72 uur zijn om je tickets in te voeren in het Lotterij-contract.
+* Op 1 april 2021 nemen we de Chainlink VRF in op Polygon om het wiel te draaien en de winnaars te bepalen!
 <p></p>
 
 ## [Evolution of AavegotchiDAO](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
