@@ -73,4 +73,4 @@ contributors:
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
-On the other side of the coin, borrowers will have a number of filters at their disposal to allow them to find the Aavegotchi that best suits their needs. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+一方、借り手側としては、自分のニーズに最も適したAavegotchiを見つけられるように、検索時にいくつかのフィルターを用意しています。 借りられるゴッチは、収益分配、初期費用、期間、共有トークンでフィルタリングできます。
