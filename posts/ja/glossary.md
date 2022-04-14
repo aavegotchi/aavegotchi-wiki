@@ -291,13 +291,13 @@ Aavegotchiでは、**maToken**は[スピリットフォース/コラテラル](/
 ## 一般用語
 
 ### Aragon（アラゴン）
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+アラゴンはオープンソースでコミュニティ主導のプロジェクトであり、分散型組織が成功するためのツールを作成することによって自由を強化することを使命としています。
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+プロジェクトの主要製品は、イーサリアム上の分散型組織を作成し、参加するためのツールであるアラゴンクライアントです。 また、このプロジェクトは、世界初のデジタル司法権であるアラゴン・ネットワークの構築も行っています。
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+アラゴンプロジェクトは、スイスのツークに拠点を置き、アラゴン・ネットワーク・トークンの保有者によって運営されている非営利団体、アラゴン・アソシエーションによって管理されています。
 
-Check out their [site](https://aragon.org/) here.
+彼らのサイトは[こちら](https://aragon.org/)です。
 
 ### ベル曲線
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
