@@ -220,22 +220,22 @@ Aavegotchiのメタバースでは、担保は[スピリットフォース](/glo
 Decentralized Autonomous Initial Coin Offeringの略。 [DAO（Decentralized Autonomous Organization）](/glossary#dao)とICO（Initial Coin Offering）の良いところを取り入れた新しい資金調達方法で、トークンセールの資金調達モデルをより効果的にする仕組みを目指しています。 DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
 
 ### DAO
-別名、Decentralized Autonomous Organization（分散型自律組織）。 These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+別名、Decentralized Autonomous Organization（分散型自律組織）。 スマートコントラクトにエンコードされたルールによって統治され、メンバーによってコントロールされる組織です。 これは、しばしば少人数の権威者によって統治される傾向にある従来の組織モデルとは対照的です。
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+AavegotchiDAOの文脈では、これが意味するのは、エコシステムのメンバーは、より大きなエコシステムの運営方法に影響を与える提案を開始し、投票ができるようになるということです。 例えば、メンバーはポータルの数を増やすことを提案するかもしれませんし、コミュニティを向上させるのに役立つと感じる他の機能を提案するかもしれません。
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+DAOに関するより詳細な説明については、[こちらのページ](https://blockchainhub.net/dao-decentralized-autonomous-organization/)をご覧ください。
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+分散型取引所（または非中央型取引所）（Decentralized EXchange）として知られています。 このようなプラットフォームでは、ユーザーがピアツーピア（peer-to-peer）方式で取引を処理し、スマートコントラクトの助けを借りてユーザー自身のウォレットを通じてトークンを取得することができます。 これは、中間業者（CEX自体）を通して運営されるCEX（Centralized Exchanges）（中央型取引所）の仕組みとは対照的です。
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+DEXの例としては、UniSwap、Mesa、Balancerなどがあります。
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+CEXの例としては、Binance、Coinbase、OKexなどがあります。
 
 
 ### フラッシュローン
