@@ -28,48 +28,48 @@ contributors:
 
 ゴッチ・レンディング は Aavegotchi プロトコルのシェアリングエコノミーで、ユーザーは自分の Aavegotchi NFT を他のプレイヤーに一定期間貸し出すことができます。
 
-The owners of the Gotchi are able to set:
-* any up-front fees
-* the duration of the lending period (maximum of 30 days)
-* the earnings split
+ゴッチのオーナーは以下の設定を行うことができます：
+* 前払い料金
+* 貸出期間（最大30日間）
+* 収益の分配
 
-Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
+ゴッチ・レンディングは100%ブロックチェーン上にあり、Aavegotchi NFTのシームレスで信頼性の高い安全なシェアリングを可能にします。
 
 ## ゴッチ・レンディングで何ができるのか？
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+ゴッチ・レンディングは、Aavegotchiを所有している人なら誰でも利用できます。 また、まもなくオープンする[ゴッチバース](/gotchiverse)でプレイしたい人にも便利です。 大規模な[ギルド](/guild)では、NFTをメンバーに貸すためにこの機能を利用することができ、稼いだ資金をギルドのトレジャリーウォレットに共有することも可能になります。
 
-Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
+また、個人でも、自分のAavegotchiを公開し、パッシブ・インカム（受動的収入）を得たり、友人や家族に無料でAavegotchiで遊んでもらうなど、ゴッチレンディングを活用できます。
 
 ## 貸主様へのご案内
 
-**Step 1: Set the Duration and Upfront Cost**
+**ステップ1：貸出期間と前払い料金を設定する**
 
-First the lender will set any upfront costs, the lending duration, and which tokens to share with the borrower. Whether to charge an upfront cost or not is up to the owner and the market. The majority of lenders will likely not charge an upfront cost, allowing anyone to use their Aavegotchis for free!
+まず貸し手は、前払い料金、貸出期間、借り手と共有するトークンを設定します。 初期費用を徴収するかどうかは、オーナーと市場次第です。 貸し手の大半は、前払い料金を請求せず、誰でも無料でAavegotchiを使用できるようにすると思われます。
 
-Lenders will be able to select which tokens to share with borrowers. This means a lender can choose to offer a sharing rate on some tokens and not others. For example, a lender can choose to offer a 100% sharing rate on one token, but not share any others. Alternatively, they could elect to share 50% of each.
+貸し手は、借り手と共有するトークンを選択できます。 つまり、貸し手は、あるトークンにはシェアリングレートを提供し、他のトークンには提供しないという選択ができるのです。 例えば、貸し手はあるトークンに対して100％のシェア率を提供し、他のトークンはシェアしないことを選択できます。 あるいは、それぞれを50％ずつシェアすることも可能です。
 
-Additionally, the token sharing options now include GHST in addition to the four types of Gotchus Alchemica. This is particularly important during Rarity Farming seasons, because lenders will get to determine what, if any, portion of an Aavegotchi’s GHST balance they wish to share.
+さらに、トークンのシェアリング・オプションには、4種類のゴッチュスアルケミカに加え、GHSTも含まれるようになりました。 これはレアリティ・ファーミングの季節に特に重要なことで、貸し手はAavegotchiのGHST残高のどの部分を共有したいかを決定することができます。
 
-The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://app.aavegotchi.com/whitelists).
+また、貸し手は、ゴッチが借りられる指定のアドレスを含むホワイトリストIDの作成ができます。 ホワイトリストIDは[ホワイトリストのページ](https://app.aavegotchi.com/whitelists)で確認することができます。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
-**Step 2: Choose your Profit Split**
+**ステップ2：利益配分を選択する**
 
-Next they will set the profit split, including the option to send earnings to a third-party address such as a guild wallet.
+次に、ギルドウォレットなどの第三者のアドレスに収益を送るオプションなど、利益の配分を設定します。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-2.png" />
 
-**Step 3: Review and Finalize**
+**ステップ3：レビューと最終確認**
 
-Finally, the lender reviews the terms one more time and creates the lending listing.
+最後に、貸し手はもう一度条件を確認し、貸し出しリストを作成します。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-3.png" />
 
-**Bonus Step:**
+**ボーナスステップ：**
 
-Lenders will also have the ability to create [whitelists](https://app.aavegotchi.com/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+貸し手は、[ホワイトリスト](https://app.aavegotchi.com/whitelists)を作成し、借り手の限定されたグループにのみAavegotchiを利用できるようにもできます。 この機能は、ゴッチを確実にギルドのメンバーに渡したい時などに最適です。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
