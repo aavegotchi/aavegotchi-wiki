@@ -268,29 +268,29 @@ maTokenは[amToken](/glossary#amtokens)と**同じではありません。**
 Aavegotchiでは、**maToken**は[スピリットフォース/コラテラル](/glossary#spirit-force)として使用されます。
 
 ### オラクル
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+スマートコントラクトが実行されるためには、いくつかの条件を満たしている必要があります。 これらの条件の有無の情報は、契約が存在するブロックチェーンに供給される必要があります。 ブロックチェーンは通常、チェーンの外側の情報にすぐにアクセスできないからです。 そこで登場するのがオラクルです。 オラクルは、スマートコントラクトをトリガーするために必要なデータを提供します。
 
 
 
 ### スマートコントラクト
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+一般に、スマートコントラクトとは、契約の利用者間の「合意事項」が契約自体のコードに直接書き込まれた自己実行型の契約です。 このあらかじめ決められた条件と一定の条件が満たされると、契約は実行されます。
 
 
 
 ### ステーキング
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+暗号通貨のステークとは、基本的にその通貨を保有し、取引の検証やネットワークのサポートに役立てることを意味します。 その対価として、ステークホルダーは通常、何らかの報酬を受け取ります。 例えば、Aavegotchiの世界では、$GHSTのステークホルダーはFRENS（ポイント）で報酬を受け、そのポイントでチケットを購入し、定期的に行われるラッフル抽選会で賞品を獲得することができます。
 
 
 
 ### イールドファーミング
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+イールドファーミングとは、簡単に言うと、ユーザーが特定のプロトコルに資産を預けたり貸したりして報酬を得ることである。
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+これは様々な方法で行われますが、最も一般的なメカニズムは、預金者/借り手が、ERC-20トークンや安定コインをそのプラットフォーム上に置くだけで、プロトコルからコインを獲得できることです。 通常、これらの報酬は、特定のプラットフォームに流動性を追加する潜在的な預金者と借り手のインセンティブに使用されます。
 
 
 ## 一般用語
 
-### アラゴン
+### Aragon（アラゴン）
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
 
 The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
