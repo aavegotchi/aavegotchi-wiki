@@ -299,44 +299,44 @@ Aavegotchiでは、**maToken**は[スピリットフォース/コラテラル](/
 
 彼らのサイトは[こちら](https://aragon.org/)です。
 
-### ベル曲線
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+### Bell Curve（ベルカーブ）
+ベルカーブまたはベル曲線とは、変数の一般的な分布の一種で、正規分布とも呼ばれます。 「ベルカーブ」の語源は、正規分布を表すのに用いられるグラフが左右対称のベル型曲線からなることに由来します。 詳しくは[こちら](https://www.investopedia.com/terms/b/bell-curve.asp)のページをご覧ください。
 
-### チェーンリンクVRF（Chainlink VRF）
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+### Chainlink VRF（チェーンリンクVRF）
+チェーンリンク社が開発した、オンチェーンで検証可能な乱数を生成するためのVRF関数（Verifiable Randomness Function）です。 スマートコントラクトの制御が及ばない改ざん不可能なランダムネス源を実際に使用していることを証明するために使用されます。 Aavegotchiプロジェクトでは、チェーンリンクVRFは、[ポータル](/portals)を開ける時やラッフルの賞品の当選有無の時点で、[特性（トレート）](/traits)の生成をランダム化するために使用されています。
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+チェーンリンクVRFについて詳しくは[こちら](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)をお読みください。
 
-### ダイヤモンド・スタンダード
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+### Diamond Standard（ダイヤモンド・スタンダード）
+ダイヤモンド・スタンダードは、我らが[ニック・マッジ](/team#nick-mudge)氏によって作られました。 ダイヤモンド・スタンダードは、モジュール式でガス効率の良い方法で、実質的にサイズ制限のない契約を書くことを可能にします。
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+ダイヤモンドは、既存の機能を再展開することなく、その場でアップグレードすることができます。
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+コントラクトのインターフェースとダイアモンドの実装の詳細を標準化し、ソフトウェアの統合（インテグレーション）と相互運用（インターオペラビリティー）を可能にします。
 
-A diamond is a contract that implements the Specification in this standard.
+ダイヤモンドは、この標準の仕様を実装したコントラクトです。
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+詳しくは[こちら](https://eips.ethereum.org/EIPS/eip-2535)をご覧ください。
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+トークンの規格で、トークンが他のトークンと全く同じ（型と値）であることを意味します。 トークンをあるアカウントから別のアカウントに転送したり、あるアカウントの現在のトークン残高やネットワーク上で利用可能なトークンの総供給量を取得するなどの機能が備わってます。 これらに加え、第三者のアカウントで使用できるトークンの量を承認するなど、いくつかの機能も備えています。 詳しくは[こちら](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)をご覧ください。
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+イーサリアムブロックチェーン上でnon-fungible（複製不可能）またはユニーク（特殊／唯一無二の）トークンを構築する方法を記述した無料のオープンスタンダードです。 ほとんどのトークンがfungible（代替可能）（どのトークンも他のトークンと同じ）であるのに対し、ERC-721トークンはすべてユニーク（唯一無二）なのです。
 
-Think of them like rare, one-of-a-kind collectables.
+希少な一点物の収集品のようなものだと考えてください。
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+ERC-721規格の詳細な説明については、[こちら](https://eips.ethereum.org/EIPS/eip-721)をご覧ください。
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998は[ERC-721](/glossary#erc-721)の拡張規格で、[ノンファンジブルトークン](/glossary#nft)が他のノンファンジブルトークンやERC-20トークンを所有する機能を追加しています。
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+ERC998を実装したノンファンジブルトークンは、ERC-721標準も実装しています。
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+ERC-998標準の内容については、[こちら](https://eips.ethereum.org/EIPS/eip-998)をご確認ください。
 
 ### ERC-1155
-A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+これまでの規格の良いところを取り入れ、互換性にとらわれず、ガス効率の良いトークンコントラクトを作ることを目的とした、新しいトークン規格です。 A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
 
 Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
