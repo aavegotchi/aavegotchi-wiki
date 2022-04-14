@@ -49,7 +49,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [用語解説](/glossary)
 
-* [Gotchi Lending](/gotchi-lending)
+* [ゴッチ・レンディング](/gotchi-lending)
 
 * [ゴッチバース](/gotchiverse)
 
