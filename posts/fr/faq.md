@@ -442,13 +442,13 @@ Le propriétaire est toujours en mesure de caresser son Aavegotchi pendant qu'il
 
 Non, une fois créé, un accord ne peut être rompu.
 
-### Can a borrower add or remove Wearables from an Aavegotchi?
+### Un locataire peut il ajouter ou enlever des équipements à un Aavegotchi ?
 
-No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+Non, lorsque vous empruntez un Aavegotchi, vous ne pouvez pas équiper ou dééquiper un équipement. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
 
 ### Avez-vous besoin de réinscrire un Aavegotchi une fois la période de location terminée?
 
-Yes, you will need to relist once the agreement has been concluded.
+Oui, vous devrez recréer une annonce une fois le contrat échu.
 
 However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 
