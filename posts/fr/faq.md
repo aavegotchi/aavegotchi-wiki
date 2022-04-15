@@ -444,7 +444,7 @@ Non, une fois créé, un accord ne peut être rompu.
 
 ### Un locataire peut il ajouter ou enlever des équipements à un Aavegotchi ?
 
-Non, lorsque vous empruntez un Aavegotchi, vous ne pouvez pas équiper ou dééquiper un équipement. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+Non, lorsque vous empruntez un Aavegotchi, vous ne pouvez pas équiper ou dééquiper un équipement. L'emprunteur saura de combien d'équipements est équipé un Gotchi avant de le louer.
 
 ### Avez-vous besoin de réinscrire un Aavegotchi une fois la période de location terminée?
 
