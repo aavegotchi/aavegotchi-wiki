@@ -9,9 +9,9 @@ contributors:
 
 Here is the list of pages in the Aavegotchi Wiki:
 
-* [Aarchitect](/aarchitect)
+* [アーキテクト](/aarchitect)
 
-* [Aartist](/aartist)
+* [アーティスト](/aartist)
 
 * [Aauction](/aauction)
 
@@ -21,9 +21,9 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [エージングメカニズム](/aging-mechanic)
 
-* [Baadge](/baadge)
+* [バッジ](/baadge)
 
-* [Baard](/baard)
+* [Baard (ミュージシャン)](/baard)
 
 * [Baazaar](/baazaar)
 
@@ -47,13 +47,13 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [GHSTトークン](/ghst)
 
-* [Glossary](/glossary)
+* [用語解説](/glossary)
 
-* [Gotchi Lending](/gotchi-lending)
+* [ゴッチ・レンディング](/gotchi-lending)
 
 * [ゴッチバース](/gotchiverse)
 
-* [Gotchus Alchemica](/gotchus-alchemica)
+* [ゴッチュスアルケミカ](/gotchus-alchemica)
 
 * [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
@@ -105,7 +105,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [ソーシャルメディア](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [スピリットフォース](/spirit-force)
 
 * [Spirit Force History](/spirit-force-history)
 

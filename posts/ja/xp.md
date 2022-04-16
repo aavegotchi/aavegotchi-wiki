@@ -18,7 +18,7 @@ contributors:
 <li><a href=#formula>数式</a></li>
 <li><a href=#experience-table>XPテーブル</a></li>
 <li><a href=#tracking-xp-received>受信されたXPを追跡する</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>XP Requirements for joining Guilds</a></li>
+<li><a href=#xp-requirements-for-joining-guilds>ギルドに加入するためのXP条件</a></li>
 </ol>
 
 </div>
@@ -56,12 +56,12 @@ table_XP
 
 彼が作成したアプリはこちらから [](https://aavegotchi-xp-dashboard.vercel.app) にアクセスできます。 Gotchi IDは、 [Gotchi Profile Page](/aavegotchi-profile)のURLの末尾にある数字です。
 
-## XP Requirements for joining Guilds
+## ギルドに加入するためのXP条件
 
-Gotchis are social creatures who love to hang with their frens, but much like starry-eyed college freshmen trying to attend every campus club activity, they get burned out with too much social activity.
+ゴッチは友達と遊ぶのが大好きな社交的な生き物ですが、星の数ほどある大学のクラブ活動に参加しようとする新入生と同じように、あまりに多くの活動で燃え尽きてしまうのです。
 
-As they gain more experience and become more worldly, their work-life balance improves, allowing them to take on more [Guild](/guild) responsibilities.
+経験を積み、世渡り上手になると、ワークライフバランスが向上し、より多くの[ギルド](/guild)の責任を負うようになります。
 
-Thus, how many Guilds a Gotchi can join depends on its XP Level.
+このように、ゴッチが参加できるギルドの数は、XPレベルによって異なります。
 
-table_xpRequirementForGuilds
+表_xpRequirementForGuilds

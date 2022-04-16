@@ -392,7 +392,7 @@ Deuxièmement, il est tout à fait possible, voire probable, que certaines propo
 Vous avez de la chance ! Le jeu Aavegotchi a toujours eu pour but d'allouer un pouvoir de vote basé sur la propriété Aavegotchi en plus de détenir simplement des GHST. Avec le passage de [l'AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), les objjets portables ont maintenant un pouvoir de vote dans AavegotchiDAO. Le pouvoir de vote (mesuré en GHST) d'un objet portable est basé sur son prix dans le Maall par rapport à sa rareté. Voir [ici](/wearables#voting-power) pour plus d'informations.
 
 ### Qu'en est-il des propositions de financement ?
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+Les demandes de financement ne sont pas trouvées dans le modèle de proposition *Cocoon* , principalement parce que le principe de la « marche avant la course » suggère que nous nous concentrions sur l’établissement d’un cadre sain avant d’introduire des complexités financières.
 
 **Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
 
@@ -407,7 +407,7 @@ La rareté d'Aavegotchi est basée sur une courbe en cloche, ce qui signifie que
 
 ### Combien ça coûte de jouer à Aavegotchi?
 
-Les portails devraient coûter 100 GHST pour la première fois. Les coûts des autres objets tels que les objets portables, les consommables et les parcelles seront annoncés dès leur sortie officielle. Mais après le lancement du jeu [le DAO](/dao) aura le pouvoir d'ajuster **les prix des actifs via le vote de gouvernance**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+Les portails devraient coûter 100 GHST pour la première fois. Les coûts des autres objets tels que les objets portables, les consommables et les parcelles seront annoncés dès leur sortie officielle. Mais après le lancement du jeu [le DAO](/dao) aura le pouvoir d'ajuster **les prix des actifs via le vote de gouvernance**. Entre-temps, vous pouvez voir les prix de certains équipements sur le [Baazaar](/baazaar).
 
 ### La modification de la quantité de collatéral bloquée affecte-t-elle le niveau de parenté ?
 Non, augmenter ou diminuer le collatéral/aToken mis dans les Aavegotchi n'affecte pas le niveau de parenté.
@@ -436,19 +436,19 @@ Oui, vous avez besoin d'un Aavegotchi pour jouer dans le Gotchiverse. Si vous ne
 
 ### Qui caresse un Aavegotchi loué ?
 
-The owner is still able to pet their Aavegotchi while it is being borrowed.
+Le propriétaire est toujours en mesure de caresser son Aavegotchi pendant qu'il est emprunté.
 
-### Is there a way to recall an Aavegotchi early once it’s been lent?
+### Y a t'il une manière de récupérer un Gotchi qui a été loué ?
 
-No, once created an agreement cannot be broken or recalled.
+Non, une fois créé, un accord ne peut être rompu.
 
-### Can a borrower add or remove Wearables from an Aavegotchi?
+### Un locataire peut il ajouter ou enlever des équipements à un Aavegotchi ?
 
-No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+Non, lorsque vous empruntez un Aavegotchi, vous ne pouvez pas équiper ou dééquiper un équipement. L'emprunteur saura de combien d'équipements est équipé un Gotchi avant de le louer.
 
 ### Avez-vous besoin de réinscrire un Aavegotchi une fois la période de location terminée?
 
-Yes, you will need to relist once the agreement has been concluded.
+Oui, vous devrez recréer une annonce une fois le contrat échu.
 
 However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 

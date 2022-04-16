@@ -93,13 +93,13 @@ Staken van GHST-QUICK en GHST-USDC volgt dezelfde stappen.
 
 * Stap 4: Neem deze LP tokens en zet ze in de [Aavegotchi staking interface](https://aavegotchi.com/stake-polygon) om stkGHST ontvangstbewijs tokens te krijgen. Voor de GHST-QUICK en GHST-USDC pools, worden deze stkGHST ontvangsttokens respectievelijk stkGHST-QUICK en stkGHST-USDC genoemd.
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
+*Voor elke 1 GHST-QUICK LP token op deze manier gestaked ontvangt je 83 FRENS / Dag (het team probeert de koers ongeveer 30-40% hoger te houden dan wanneer alleen GHST wordt gestaked. Dit tarief wordt periodiek omhoog/omlaag aangepast om de juiste evenredigheid te behouden.*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
+*Voor elke 1 GHST-USDC LP token is op deze manier gebruikt, u ontvangt 74 miljoen FRENS / Dag (10% meer dan alleen maar GHST).*
 
-Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+Waarom is er een enorm verschil in het aantal FRENS dat door LP staking verdiend wordt vergeleken met de directe staking van GHST tokens? Het uitzetten van LP tokens heeft het risico van [impermenent loss](/glossary#impermanent-loss). U wordt gecompenseerd voor het verhoogde risico dat u neemt.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+Waarom levert de GHST-USDC LP 74M FRENS per dag op? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. Zie deze [tweet](https://twitter.com/coderdannn/status/1362423402871447554) voor de lulz.
 
 ### Stake GHST-WETH
 
@@ -117,7 +117,7 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor 
 
 * BONUS: Stuur uw DINO naar de GHST Extinction Pool om nog meer GHST te verdienen!
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+Voor elke 1 GHST-ETH LP token op deze manier gestaked, ontvang je 12,08 miljoen FRENS / Dag (20% meer dan alleen maar GHST).
 
 ### Stake GHST-MATIC
 
@@ -129,11 +129,11 @@ For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FREN
 
 ### Staking Cheatsheets!
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+Als je iets meer visueel wilt, bekijk dan onze Stake Cheatsheets!
 
 * GHST staking en GHST-QUICK/GHST-USDC staking
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST naar Matic Cheatsheet" />
 
 * GHST-ETH staken
 
@@ -141,18 +141,18 @@ If you prefer something more visual, check out our Staking Cheatsheets!
 
 ### Staking Opbrengsten Tabel
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+De tabel hieronder vat de staking opbrengsten (in termen van FRENS) in percentage samen met de basislijn van staking GHST direct.
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+Houd er rekening mee dat het Pixelcraft team de FRENS hoeveelheid van tijd tot tijd kan updaten om het systeem in balans te houden.
 
-table_stakingReturns
+tabel_stakingReturns
 
 ## Staking Contractadressen
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+De volgende tabel toont de verschillende staking contract adressen op Polygon. De ghstStaking en stkGHSTQUICK contracten hebben hetzelfde contractadres. Controleer het contractadres eerst voordat je transacties afsluit.
 
-table_stakingContractAddresses
+tabel_stakingContractAdressen
 
 ## Wat nu?
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+Dus heb je nu wat FRENS? Ga naar de [Tickets pagina](/tickets) om te leren hoe je tickets met FRENS kan kopen en om deel te nemen aan Lotterijen!

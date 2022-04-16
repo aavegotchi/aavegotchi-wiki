@@ -61,15 +61,15 @@ Người mua có thể mua 1, một vài hoặc tất cả vật phẩm trong c�
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
-Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
+The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
 
 ## Các tính năng
 Có rất nhiều sản phẩm được bán trên Baazaar:
 
 * Aavegotchis
-* Portals - Chưa Mở
-* Portals - Mở
-* Gotchiverse REALM
+* Portals
+* Gotchiverse Land
+* Các Công Trình
 * Wearables
 * Vật phẩm tiêu hao
 * Vé Raffle

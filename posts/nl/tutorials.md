@@ -41,10 +41,10 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 <li><a href=#full-guide-to-buying-land>Volledige handleiding voor het kopen van Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Veiling Gids</a></li>
 <li><a href=#traits---bell-curve-explained>Eigenschappen & Bell Curve uitgelegd</a></li>
-<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
-<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#buying-an-aavegotchi--video->Aavegotchi kopen (Video)</a></li>
+<li><a href=#buying-ghst-token--article->GHST token kopen (artikel)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Deelnemen in AavegotchiDAO (Artikel)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Toegang tot de Gotchiverse op Mumbai Testnet</a></li>
 </ul>
 
 </div>
@@ -170,7 +170,7 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi kopen (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Leer hoe je een Aavegotchi op de Baazaar kunt kopen
 * Leer hoe je een geopend of een gesloten portaal kunt kopen op de Baazaar
@@ -178,30 +178,30 @@ Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-l
 
 <hr />
 
-### Buying GHST token (Article)
-Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+### GHST token kopen (artikel)
+Klik [hier](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) voor het artikel
 
-* Learn about the GHST token
-* Learn what the token could be used for
-* Learn where to buy GHST
-
-<hr />
-
-### Participating in AavegotchiDAO (Article)
-Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
-
-* Learn about the AavegotchiDAO Forum
-* Learn how to create Signal Proposals
-* Learn how Signal Proposals Become Core Proposals
-* Learn about the different types of Core Proposals
-* Learn about Vote Differential
-* Learn how to Vote
+* Leer meer over het GHST token
+* Leer waarvoor het token gebruikt kan worden
+* Leer waar GHST te kopen
 
 <hr />
 
-### Accessing the Gotchiverse on Mumbai Testnet
-Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+### Deelnemen in AavegotchiDAO (Artikel)
+Klik [hier](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) voor het artikel
 
-* Learn about the required setup to try out the Gotchiverse
-* Learn about the control scheme in the Gotchiverse
-* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+* Meer informatie over het AavegotchiDAO Forum
+* Leer hoe je Signaal Voorstellen kunt maken
+* Leer hoe Signal Voorstellen Basisvoorstellen worden
+* Leer meer over de verschillende soorten basisvoorstellen
+* Leer over Stem Differentiële
+* Leer hoe je kunt stemmen
+
+<hr />
+
+### Toegang tot de Gotchiverse op Mumbai Testnet
+Klik [hier](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) voor het artikel
+
+* Meer informatie over de vereiste configuratie om het Gotchiverse uit te proberen
+* Leer over het controleschema in het Gotchiverse
+* Leer hoe je Gotchus Alchema kunt verzamelen en hoe je een Aaltar Installatie kunt maken

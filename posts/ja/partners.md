@@ -17,16 +17,16 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <li><a href=#investors>Investors</a></li>
 <p><a href=#aave>Aave</a></p>
 <li><a href=#partners>Partners</a></li>
-<p><a href=#aragon>Aragon</a></p>
+<p><a href=#aragon>アラゴン</a></p>
 <p><a href=#opensea>OpenSea</a></p>
 <p><a href=#snapshot>Snapshot</a></p>
 <p><a href=#polygon>Polygon</a></p>
-<p><a href=#quickswap>QuickSwap</a></p>
+<p><a href=#quickswap>クィックスワップ（QuickSwap）</a></p>
 <p><a href=#cometh>Cometh</a></p>
 <p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
+<p><a href=#gbm-auction>GBMオークション</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
@@ -49,11 +49,11 @@ Aave is a decentralised non-custodial liquidity market protocol where users can 
 
 ## Partners
 
-### Aragon
+### アラゴン
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/aragon.jpg" alt = "Aragon">
-<p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">Aragon</a></p>
+<img class="leftImage" src="/partners/aragon.jpg" alt = "アラゴン">
+<p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">アラゴン</a></p>
 </div>
 
 Aragon is the leading platform for decentralized governance and DAOs.
@@ -85,11 +85,11 @@ Snapshot is a decentralized voting system. It provides flexibility on how voting
 
 Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
-### QuickSwap
+### クィックスワップ（QuickSwap）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/quickswap.jpg" alt = "QuickSwap">
-<p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">QuickSwap</a></p>
+<img class="leftImage" src="/partners/quickswap.jpg" alt = "クィックスワップ（QuickSwap）">
+<p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">クィックスワップ（QuickSwap）</a></p>
 </div>
 
 Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
@@ -136,11 +136,11 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 
 Wallet & NFT products that seamlessly integrate with your blockchain project.
 
-### GBM Auction
+### GBMオークション
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Auction">
-<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
+<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBMオークション">
+<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBMオークション</a></p>
 </div>
 
 GBM™ is a proprietary auction system where bidders make money when they are outbid.

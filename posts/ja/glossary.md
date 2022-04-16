@@ -1,383 +1,383 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
-image: "IMAGE HERE"
+title: '用語解説'
+description: 'Aavegotchi、NFT、そしてDeFi用語解説と情報。'
+image: "ここに画像"
 contributors:
   - "appellants"
   - "eris771"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img src="/glossary/glossary.png" class="headerImage">
-<p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
+<p class="headerImageText">ゴッチ用語集を読んでからのAavegotchi</p>
 </div>
 
-If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the Aavegotchi world, to help boost your understanding further.
+DeFiの世界を探求し始めたそこのあなた、インターネット上のこの区域へようこそ！ この用語集は、DeFiの基本を理解するのに役立つ情報を提供することを目的としています。 また、Aavegotchiの世界に入る前に、この用語集を読んで、理解を深めてください。
 
 
-When you're done reading this and hopefully have a better understanding of these terms, feel free to hop over to the ONBOARDING SECTION and dive into ecosystem proper.
+これを読み終えて、これらの用語の理解を深めたら、オンボーディング・セクションに移動して、ゴッチの世界へレッツゴー。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#aavegotchi-related>Aavegotchi-related</a></li>
-<p><a href=#aarchitect>Aarchitect</a></p>
-<p><a href=#aartist>Aartist</a></p>
+<li><a href=#aavegotchi-related>Aavegotchi関連</a></li>
+<p><a href=#aarchitect>アーキテクト</a></p>
+<p><a href=#aartist>アーティスト</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#baadge>Baadge</a></p>
-<p><a href=#baard>Baard</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
-<p><a href=#frens>FRENS</a></p>
+<p><a href=#baadge>バッジ</a></p>
+<p><a href=#baard>Baard (ミュージシャン)</a></p>
+<p><a href=#drop-tickets>ドロップチケット</a></p>
+<p><a href=#frens>フレンズ（FRENS）</a></p>
 <p><a href=#gotchi-pocket>ゴッチポケット</a></p>
-<p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
-<p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
-<p><a href=#haunts>Haunts</a></p>
-<p><a href=#installations>Installations</a></p>
-<p><a href=#raffle-tickets>Raffle Tickets</a></p>
-<p><a href=#realm>REALM</a></p>
-<p><a href=#spirit-force>Spirit Force</a></p>
-<p><a href=#spirit-point>Spirit Point</a></p>
-<p><a href=#ugotchi-token>uGOTCHI Token</a></p>
+<p><a href=#gotchus-alchemica>ゴッチュスアルケミカ</a></p>
+<p><a href=#gotchus-alchemica-exchange>ゴッチュスアルケミカ取引所</a></p>
+<p><a href=#haunts>ハウント</a></p>
+<p><a href=#installations>インスタレーション</a></p>
+<p><a href=#raffle-tickets>ラッフルチケット</a></p>
+<p><a href=#realm>レルム</a></p>
+<p><a href=#spirit-force>スピリットフォース</a></p>
+<p><a href=#spirit-point>スピリットポイント</a></p>
+<p><a href=#ugotchi-token>uGOTCHIトークン</a></p>
 <p><a href=#wearables>ウェアラブル</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
-<p><a href=#amtokens>amTokens</a></p>
+<p><a href=#amtokens>amToken</a></p>
 <p><a href=#apy>APY</a></p>
-<p><a href=#atokens>aTokens</a></p>
-<p><a href=#automated-market-maker>Automated Market Maker</a></p>
-<p><a href=#collateral>Collateral</a></p>
+<p><a href=#atokens>aToken</a></p>
+<p><a href=#automated-market-maker>自動マーケットメーカー（AMM）</a></p>
+<p><a href=#collateral>コラテラル（担保）</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
-<p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquidity Pools</a></p>
-<p><a href=#matokens>maTokens</a></p>
-<p><a href=#oracles>Oracles</a></p>
-<p><a href=#smart-contracts>Smart Contracts</a></p>
+<p><a href=#flash-loans>フラッシュローン</a></p>
+<p><a href=#impermanent-loss>インパーマネント・ロス</a></p>
+<p><a href=#liquidity-pools>リキディティー・プール</a></p>
+<p><a href=#matokens>maToken</a></p>
+<p><a href=#oracles>オラクル</a></p>
+<p><a href=#smart-contracts>スマートコントラクト</a></p>
 <p><a href=#staking>ステーキング</a></p>
-<p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>General Terms</a></li>
-<p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Bell Curve</a></p>
-<p><a href=#chainlink-vrf>Chainlink VRF</a></p>
-<p><a href=#diamond-standard>Diamond Standard</a></p>
+<p><a href=#yield-farming>イールドファーミング</a></p>
+<li><a href=#general-terms>一般用語</a></li>
+<p><a href=#aragon>アラゴン</a></p>
+<p><a href=#bell-curve>ベル曲線</a></p>
+<p><a href=#chainlink-vrf>チェーンリンクVRF（Chainlink VRF）</a></p>
+<p><a href=#diamond-standard>ダイヤモンド・スタンダード</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
-<p><a href=#gbm-auction>GBM Auction</a></p>
-<p><a href=#metaverse>Metaverse</a></p>
-<p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
-<p><a href=#polygon>Polygon</a></p>
-<p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
-<p><a href=#quickswap>QuickSwap</a></p>
+<p><a href=#gbm-auction>GBMオークション</a></p>
+<p><a href=#metaverse>メタバース</a></p>
+<p><a href=#non-fungible-token>ノン・ファンジブル・トークン(NFT)</a></p>
+<p><a href=#polygon>ポリゴン（Polygon）</a></p>
+<p><a href=#proof-of-stake>プルーフオブステーク(PoS)</a></p>
+<p><a href=#quickswap>クィックスワップ（QuickSwap）</a></p>
 </ol>
 
 </div>
 
-## Aavegotchi-related
+## Aavegotchi関連
 
-### Aarchitect
-Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
+### アーキテクト
+コミュニティーの開発者たちのこと！ 彼らが作成した[ツール](/developers)や[ミニゲーム](/minigames#community-created-mini-games)をご覧ください。 アーキテクトの紹介は[こちら](/aarchitect)。
 
-### Aartist
-Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+### アーティスト
+ゴッチコミュニティーの芸術家気質な仲間たちのこと。 ゴッチ達が身に着けている素敵なウェアラブルをデザインしているのは、芸術家の仲間たちです。 [こちら](/aartist)でご紹介しています。
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchiとは、ERC-721標準に裏付けされたイーサリアムのブロックチェーン上で生きるピクセル化されたゴーストのことです。 その価値は、基本特性、[ステークされた担保](atokens)の量、装備された[ウェアラブル](/wearables)などの複数の要素によって計算される[レア度](/rarity-farming)によって決定されます。
 
-### Baadge
-Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+### バッジ
+バッジは、あなたのゴッチが特別なイベントに参加したことを記念する譲渡不可能なERC-1155 NFTです。 バッジは一度ゴッチに送られると、そのゴッチのポケットに永久に保存されます。
 
-Baadges could be earned in a variety of ways:
+バッジは様々な方法で獲得することができます：
 
-* Getting into the Top 10/100 for [Rarity Farming](/rarity-farming)
-* Participating in an event
-* Voting in a major [AavegotchiDAO](/dao) vote
-* Breaking a [mini-game's](/minigames) high score
-* .....And many more!
+* [レアリティ・ファーミング](/rarity-farming)上位10/100に入る
+* イベントに参加する
+* [AavegotchiDAO](/dao)の大規模な投票に参加する
+* [ミニゲーム](/minigames)のハイスコア更新
+* ...他にもいろいろ！
 
-Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+今後もバッジにご注目ください。 随時、チームから発表されます。
 
-Check out the [Baadge](/baadge) page for the complete list of Baadges.
+バッジの種類は[バッジのページ](/baadge)をご覧ください。
 
-### Baard
-Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
+### Baard (ミュージシャン)
+ミニゲームの間、後ろで流れてる素敵なチップチューンを楽しんでいますか？ それは、コミュニティミュージシャンの[Baards](/baard)さんが作ったものです。
 
-### Drop Tickets
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
+### ドロップチケット
+ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケット1枚につき、Aavegotchi[ポータル](/portals)や[レルム区画](/gotchiverse)が当たるNFTラッフルに1回参加することができます。
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
+10,000[FRENS](/glossary#frens)を1枚のドロップチケットに変換することができます。
 
-Raffle Tickets could also be converted into Drop Tickets.
+ラッフルチケットをドロップチケットに交換することもできます。
 
-### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
+### フレンズ（FRENS）
+GHSTをステークしたユーザーに付与されるポイント。 FRENSはトークンではありません。 技術的にはステーキング契約内の残高です。 FRENSは譲渡が不可能で、Aavegotchiプロジェクトに貢献したステークホルダーに対して報酬を与えることを目的としています。
 
-Read more about FRENS in the [Staking page](/staking).
+FRENSについて詳しくは[ステーキングページ](/staking)をご覧ください。
 
 ### ゴッチポケット
-Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+Aavegotchiは各々ゴッチポケットを持っています。 これは、装備したウェアラブルや[レアリティファーミング](/rarity-farming)で貰ったGHSTトークン、[バッジ](/baadge)などを入れておくインベントリーのようなものです。
 
-Technically, a Gotchi Pocket is an escrow address.
+正確には、ゴッチポケットは「エスクローアドレス」です。
 
-### Gotchus Alchemica
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
+### ゴッチュスアルケミカ
+ゴッチュスアルケミカ（Gotchus Alchemica）（ERC20トークン）は、ゴッチバースの4つの資源です：Fud、Fomo、Alpha、およびKekです。 これらを組み合わせて、[インスタレーション（Installation）](/glossary#installations)やエステティカ（Aesthetica）などのクラフトを作ることができます。
 
-Technically, each element exists as an ERC-20 token.
+技術的には、各資源はERC-20トークンとして存在します。
 
-Check the [Gotchiverse page](/gotchiverse) for more information.
+詳細は[ゴッチバースのページ](/gotchiverse)でご確認ください。
 
-### Gotchus Alchemica Exchange
+### ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）
 
-The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+Aavegotchiネイティヴの分散型取引所（DEX）。 GHST-Gotchus Alchemicaペアの取引に対応する予定です。 詳しくは[Gotchus Alchemica Exchange (GAX)のページ](/gotchus-alchemica-exchange)をご覧ください。
 
-### Haunts
-[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+### ハウント
+[ハウント](/haunt)とは、Aavegotchiのエディションのことです。 ハウント番号は順次生成され（例：ハウント1の後にハウント2が来る）、これらの番号はAavegotchiに表示されます。 ハウント間の統計的な違いはありません。
 
-### Installations
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
+### インスタレーション
+インスタレーション（施設）とは、[ゴッチュスアルケミカ](/glossary#gotchus-alchemica)と呼ばれる資源を大量に使用して、レルム区画に作成できる強力な建造物です。
 
-Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
+あなたが構築できるインスタレーションの種類については、[ゴッチバースのページ](/gotchiverse#building-on-realm-parcels)をチェックしてください。
 
-### Raffle Tickets
-Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+### ラッフルチケット
+ラッフルチケットとは、限定[ウェアラブル](/wearables)が当たる抽選に参加するための券です。 ラッフルチケットは使用した時点で消費されます。
 
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
+ラッフルチケットは、[ステーキング](/staking)で獲得した[FRENS](/glossary#frens)を使って購入することができます。
 
-Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
+また、ラッフルチケットは[ドロップチケット](/glossary#drop-tickets)に変換して、レルム区画を購入することもできます。
 
-### REALM
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
+### レルム（REALM）
+あなたのゴッチが住むゴッチバース内の土地。 交流したり、冒険したり、悪い奴らと戦ったりする場所です。
 
-### Spirit Force
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+### スピリットフォース
+スピリットフォースとは、ゴッチの中に閉じ込められている担保（[maToken](/matokens)）の量のことです。 Aavegotchi内のスピリットフォースの量を増やしたり減らしたりすることができます。 ただし、Aavegotchiが必要とするスピリットフォースの最低レベルは、ベースレアリティスコアによって異なります。
 
-### Spirit Point
-Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+### スピリットポイント
+スピリットポイントとは、ゴッチがレベルアップする際に得られるポイントのことです。 RPGゲームのステータスポイントのようなものです。 3レベルごとに1ポイントもらえます。
 
-### uGOTCHI Token
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+### uGOTCHIトークン
+uGOTCHIトークンは、[Unicly](https://www.unic.ly/)を通じてミントされ、uGOTCHIコレクションを直接所有することを意味します。 ローンチ時、コレクションはイーサリアム上に存在する最初の5つのAavegotchiである「The Aastronauts」で構成されています。
 
-The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+このコレクションには、これまでで最も希少かつ高価なAavegotchiが含まれています。 スッポンポンであっても、これらのAavegotchiはすでに非常に高いレアリティスコアと超レアな目（ウェアラブルが少しも影響を与えることができない唯一の特徴）を持っています。 しかし、このERC-721 AavegotchiだけがNFTなのではありません。 彼らが装備している各ウェアラブルもERC-1155 NFTで、その多くは非常に希少で強力なアイテムです。
 
-The Collection's Aavegotchis are still able to participate in Rarity Farming.
+コレクションのAavegotchiは、現在もレアリティファーミングに参加することができます。
 
-On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+2021年5月16日、ピクセルクラフトはハウント1の3番目に低いtokenIDである「閉じたポータル2（Unopened Portal 2）」をuGOTCHIコレクションに導入しました。
 
-For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
+The AastronautsとuGOTCHIトークンの詳細については、[uGOTCHI](/ugotchi)ページをご確認ください。
 
 ### ウェアラブル
-Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+Aavegotchiが身につける衣服・装備のこと。 [ERC-1155規格](/glossary#erc-1155)に準拠している。 各ウェアラブルには、レアリティ、向上・悪化するステータス、最大数量、装備枠があります。
 
-Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+ウェアラブルはAavegotchiくじで獲得するか、[Aavegotchi モール（Maall）](/maall)で[GHSTトークン](/ghst)を使って購入することができます。
 
 ## DeFi 101
 
-"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
+"DeFi "とは、**De**centralized **Fi**nance（非中央型＝分散型　金融）の略です。 従来の金融機関と同様のサービスを提供するアプリケーションやプロトコルのエコシステムと考えることができます（つまり、貸し借りや貯蓄による利息の発生など）。 しかし、1つだけ重要な違いがあります − DeFiは、中間業者を介さない分散型の方法でこれを行うことを目的としています。
 
 
-That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
+つまり、銀行があなたの潜在的リターンの一部を取り上げることもなければ、あなたにマイナス金利を提供することもないのです。 また、システム全体が崩壊したり、権力が集中した小さなグループによって決定・実施される一連のルールに左右されたりするような、そんな中核的な障害点がなくなることをも意味している。
 
 
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
+本稿執筆時点（2020年12月5日）で、Defiにロックされた総額は142億4,000万米ドルである。
 
-## Key Terms
+## 主な用語
 
-### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+### amToken
+amTokenは、Aaveのマネー・マーケット・プールのLPトークンで、**Polygon**にネイティブに存在します。 [maToken](/glossary#matokens)とは**別物**です。
 
 ### APY
-APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
+APYはAnnual Percentage Yield（年率利回り）の略です。 これは、プロトコルに預けた貯金に対して得られる実質的な利回りであり、複利の効果を考慮したものです。
 
-### aTokens
-aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
+### aToken
+aTokenは、[Aaveプロトコル](https://aave.com/)の利子付きトークンです。 トークンの入手方法については、[スピリットフォースのページ](/spirit-force)をご参照ください。
 
-### Automated Market Maker
-A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
+### 自動マーケットメーカー（AMM）
+分散型取引所（DEX）プロトコルの一種で、資産の価格付けを数式に沿って行う。 従来の取引所のようなオーダーブックを使用する代わりに、資産は価格設定アルゴリズムに従って価格設定されます。
 
-This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
+この数式は各プロトコルによって異なる場合がある。 例えば、Uniswapではx * y = kを使用し、xはリキディティープール内の一方のトークンの量、yはもう一方のトークンの量となります。 この式では、kは固定定数であり、プールの総流動性は常に同じでなければならないことを意味しています。 他のAMMは、対象とする特定のユースケースに応じて、他の数式を使用します。 しかし、すべての AMM に共通するのは、価格をアルゴリズムで決定している点です。
 
-An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
+AMMは、例えばETH/DAIといった取引ペアが存在する点で、オーダーブック取引所と似たような仕組みになっています。 しかし、トレーダーは取引を行うために相手側（他のトレーダー）を持つ必要がありません。 代わりに、あなたのために市場を「作る」スマートコントラクトと対話します。
 
-### Collateral
-Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
-
-
-In the context of DeFi, this is how things might look:
+### コラテラル（担保）
+コラテラル（担保）とは、非常にわかりやすい概念です。 貸し手からお金を借りるときに、貸し手に対する保証として差し入れる資産のことを指します。 万が一、返済ができなくなった場合、その担保は借金の返済に充てられます。
 
 
-Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+DeFiの文脈では、このようなことが考えられます：
 
-In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
+
+例えば、あるプロトコールからある資産を借りたいと思っているとします。 そのためには、自分の資産の一部を担保として設定する必要があります。 もし、借りたお金を返せなければ、プロトコルはその担保を返してはくれません。
+
+Aavegotchiのメタバースでは、担保は[スピリットフォース](/glossary#spirit-force)としても知られています。
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
+Decentralized Autonomous Initial Coin Offeringの略。 [DAO（Decentralized Autonomous Organization）](/glossary#dao)とICO（Initial Coin Offering）の良いところを取り入れた新しい資金調達方法で、トークンセールの資金調達モデルをより効果的にする仕組みを目指しています。 DAICOは、資金調達が終了した時点で、集まった資金を投資家がコントロールするモデルです。 投資家は、「タップ」の仕組みを通じて、開発者がどのような頻度で資金にアクセスするかに影響を与えることができます。 さらに、投資家はプロジェクトの廃止に投票し、資金を返却してもらうこともできます。
 
 ### DAO
-Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
+別名、Decentralized Autonomous Organization（分散型自律組織）。 スマートコントラクトにエンコードされたルールによって統治され、メンバーによってコントロールされる組織です。 これは、しばしば少人数の権威者によって統治される傾向にある従来の組織モデルとは対照的です。
 
-In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
+AavegotchiDAOの文脈では、これが意味するのは、エコシステムのメンバーは、より大きなエコシステムの運営方法に影響を与える提案を開始し、投票ができるようになるということです。 例えば、メンバーはポータルの数を増やすことを提案するかもしれませんし、コミュニティを向上させるのに役立つと感じる他の機能を提案するかもしれません。
 
-For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
+DAOに関するより詳細な説明については、[こちらのページ](https://blockchainhub.net/dao-decentralized-autonomous-organization/)をご覧ください。
 
 
 
 ### DEX
-Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
+分散型取引所（または非中央型取引所）（Decentralized EXchange）として知られています。 このようなプラットフォームでは、ユーザーがピアツーピア（peer-to-peer）方式で取引を処理し、スマートコントラクトの助けを借りてユーザー自身のウォレットを通じてトークンを取得することができます。 これは、中間業者（CEX自体）を通して運営されるCEX（Centralized Exchanges）（中央型取引所）の仕組みとは対照的です。
 
 
-Some examples of DEXs include UniSwap, Mesa and Balancer.
+DEXの例としては、UniSwap、Mesa、Balancerなどがあります。
 
 
-Some examples of CEXs include Binance, Coinbase and OKex.
+CEXの例としては、Binance、Coinbase、OKexなどがあります。
 
 
-### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
+### フラッシュローン
+ローンとコラテラル（担保）について前に話したことを思い出してください。 フラッシュローンは、担保を置く必要性を回避するためのローンの一種です。 しかし、そこにカラクリがあります。
 
-The flash loan has to be repaid within the same transaction block.
+フラッシュ・ローンは同じトランザクション・ブロック内で返済されなければならないのです。
 
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
-
-
-
-### Impermanent Loss
-The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
+そうしないと、トランザクション全体が反転し、その時点までに実行されたアクションを効果的に取り消すことになります。 フラッシュローンについて詳しくは、[こちら](https://aave.com/flash-loans/)をご覧ください。
 
 
 
-### Liquidity Pools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
-
-
-For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
-
-### maTokens
-maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
-
-For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
-
-maTokens are **not the same** as [amTokens](/glossary#amtokens).
-
-In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
-
-### Oracles
-In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
+### インパーマネント・ロス
+[自動マーケットメーカー（AMM）](/glossary#automated-market-maker)内でトークンを保有した場合と、自分のウォレットで保有した場合、その違いで生じます。 AMM内のトークンの価格がある方向にどんどん変動して行った場合に発生します。 変動が大きければ大きいほど、インパーマネント（無常な）・ロス（損失）は大きくなります。 損失が「インパーマネント」なのは、AMM内のトークンの相対価格がAMMに入ったときの状態に戻りさえすれば、損失は消え、取引手数料を100％獲得できるためです。 しかし、このようなケースはほとんどありません。 多くの場合、無常な損失は永久的なものとなり、取引収入を食いつぶし、あるいはマイナスのリターンを残すことになるのです。 一般的にダイバージェンスロスとも呼ばれます。
 
 
 
-### Smart Contracts
-Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
+### リキディティー・プール
+この用語は、やや自明である。 これは、スマートコントラクトにロックされたトークンのプールです。 これらは、リキディティー（流動性）を提供することによって取引を促進するために使用されます。
+
+
+これらの用語のより詳細な内訳については、Finematicsの[ガイド](https://finematics.com/liquidity-pools-explained/)を参照してください。
+
+### maToken
+maTokenは、Aave V2の[aToken](/glossary#atokens)を[Polygon](/glossary#polygon)上で表したものです。 私たちのチームの[Nick Mudge](/team#nick-mudge)氏によって開発されました。
+
+Ethereum Mainnet上のaTokenをPolygon上のmaTokenに変換する方法については、この[maTokenガイド](/matokens)を参照してください。
+
+maTokenは[amToken](/glossary#amtokens)と**同じではありません。**
+
+Aavegotchiでは、**maToken**は[スピリットフォース/コラテラル](/glossary#spirit-force)として使用されます。
+
+### オラクル
+スマートコントラクトが実行されるためには、いくつかの条件を満たしている必要があります。 これらの条件の有無の情報は、契約が存在するブロックチェーンに供給される必要があります。 ブロックチェーンは通常、チェーンの外側の情報にすぐにアクセスできないからです。 そこで登場するのがオラクルです。 オラクルは、スマートコントラクトをトリガーするために必要なデータを提供します。
+
+
+
+### スマートコントラクト
+一般に、スマートコントラクトとは、契約の利用者間の「合意事項」が契約自体のコードに直接書き込まれた自己実行型の契約です。 このあらかじめ決められた条件と一定の条件が満たされると、契約は実行されます。
 
 
 
 ### ステーキング
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+暗号通貨のステークとは、基本的にその通貨を保有し、取引の検証やネットワークのサポートに役立てることを意味します。 その対価として、ステークホルダーは通常、何らかの報酬を受け取ります。 例えば、Aavegotchiの世界では、$GHSTのステークホルダーはFRENS（ポイント）で報酬を受け、そのポイントでチケットを購入し、定期的に行われるラッフル抽選会で賞品を獲得することができます。
 
 
 
-### Yield Farming
-Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
+### イールドファーミング
+イールドファーミングとは、簡単に言うと、ユーザーが特定のプロトコルに資産を預けたり貸したりして報酬を得ることである。
 
-This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
+これは様々な方法で行われますが、最も一般的なメカニズムは、預金者/借り手が、ERC-20トークンや安定コインをそのプラットフォーム上に置くだけで、プロトコルからコインを獲得できることです。 通常、これらの報酬は、特定のプラットフォームに流動性を追加する潜在的な預金者と借り手のインセンティブに使用されます。
 
 
-## General Terms
+## 一般用語
 
-### Aragon
-Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
+### Aragon（アラゴン）
+アラゴンはオープンソースでコミュニティ主導のプロジェクトであり、分散型組織が成功するためのツールを作成することによって自由を強化することを使命としています。
 
-The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
+プロジェクトの主要製品は、イーサリアム上の分散型組織を作成し、参加するためのツールであるアラゴンクライアントです。 また、このプロジェクトは、世界初のデジタル司法権であるアラゴン・ネットワークの構築も行っています。
 
-The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
+アラゴンプロジェクトは、スイスのツークに拠点を置き、アラゴン・ネットワーク・トークンの保有者によって運営されている非営利団体、アラゴン・アソシエーションによって管理されています。
 
-Check out their [site](https://aragon.org/) here.
+彼らのサイトは[こちら](https://aragon.org/)です。
 
-### Bell Curve
-A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+### Bell Curve（ベルカーブ）
+ベルカーブまたはベル曲線とは、変数の一般的な分布の一種で、正規分布とも呼ばれます。 「ベルカーブ」の語源は、正規分布を表すのに用いられるグラフが左右対称のベル型曲線からなることに由来します。 詳しくは[こちら](https://www.investopedia.com/terms/b/bell-curve.asp)のページをご覧ください。
 
-### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+### Chainlink VRF（チェーンリンクVRF）
+チェーンリンク社が開発した、オンチェーンで検証可能な乱数を生成するためのVRF関数（Verifiable Randomness Function）です。 スマートコントラクトの制御が及ばない改ざん不可能なランダムネス源を実際に使用していることを証明するために使用されます。 Aavegotchiプロジェクトでは、チェーンリンクVRFは、[ポータル](/portals)を開ける時やラッフルの賞品の当選有無の時点で、[特性（トレート）](/traits)の生成をランダム化するために使用されています。
 
-Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+チェーンリンクVRFについて詳しくは[こちら](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)をお読みください。
 
-### Diamond Standard
-The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
+### Diamond Standard（ダイヤモンド・スタンダード）
+ダイヤモンド・スタンダードは、我らが[ニック・マッジ](/team#nick-mudge)氏によって作られました。 ダイヤモンド・スタンダードは、モジュール式でガス効率の良い方法で、実質的にサイズ制限のない契約を書くことを可能にします。
 
-Diamonds can be upgraded on the fly without having to redeploy existing functionality.
+ダイヤモンドは、既存の機能を再展開することなく、その場でアップグレードすることができます。
 
-Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
+コントラクトのインターフェースとダイアモンドの実装の詳細を標準化し、ソフトウェアの統合（インテグレーション）と相互運用（インターオペラビリティー）を可能にします。
 
-A diamond is a contract that implements the Specification in this standard.
+ダイヤモンドは、この標準の仕様を実装したコントラクトです。
 
-See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
+詳しくは[こちら](https://eips.ethereum.org/EIPS/eip-2535)をご覧ください。
 
 ### ERC-20
-A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
+トークンの規格で、トークンが他のトークンと全く同じ（型と値）であることを意味します。 トークンをあるアカウントから別のアカウントに転送したり、あるアカウントの現在のトークン残高やネットワーク上で利用可能なトークンの総供給量を取得するなどの機能が備わってます。 これらに加え、第三者のアカウントで使用できるトークンの量を承認するなど、いくつかの機能も備えています。 詳しくは[こちら](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)をご覧ください。
 
 ### ERC-721
-A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
+イーサリアムブロックチェーン上でnon-fungible（複製不可能）またはユニーク（特殊／唯一無二の）トークンを構築する方法を記述した無料のオープンスタンダードです。 ほとんどのトークンがfungible（代替可能）（どのトークンも他のトークンと同じ）であるのに対し、ERC-721トークンはすべてユニーク（唯一無二）なのです。
 
-Think of them like rare, one-of-a-kind collectables.
+希少な一点物の収集品のようなものだと考えてください。
 
-For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
+ERC-721規格の詳細な説明については、[こちら](https://eips.ethereum.org/EIPS/eip-721)をご覧ください。
 
 ### ERC-998
-ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
+ERC-998は[ERC-721](/glossary#erc-721)の拡張規格で、[ノンファンジブルトークン](/glossary#nft)が他のノンファンジブルトークンやERC-20トークンを所有する機能を追加しています。
 
-Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
+ERC998を実装したノンファンジブルトークンは、ERC-721標準も実装しています。
 
-For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+ERC-998標準の内容については、[こちら](https://eips.ethereum.org/EIPS/eip-998)をご確認ください。
 
 ### ERC-1155
-A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+これまでの規格の良いところを取り入れ、互換性にとらわれず、ガス効率の良いトークンコントラクトを作ることを目的とした、新しいトークン規格です。 単一のデプロイ（展開）された契約は、ファンジブルトークン、ノンファンジブルトークン、その他のコンフィギュレーション（例：セミ・ファンジブルトークン）の組み合わせを含むことができます。
 
-Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+詳しくは[こちら](https://eips.ethereum.org/EIPS/eip-1155)と[こちら](https://docs.openzeppelin.com/contracts/3.x/erc1155)をご覧ください。
 
-### GBM Auction
-A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
+### GBM Auction（GBMオークション）
+オークション開催中にリアルタイムで競り落とされた場合に、入札者にインセンティブが支払われる斬新なオークション方式。 つまり、GBMオークションに参加した人は、オークションを落札するか、あるいは、最初よりも多くのお金を持って帰ることになります。
 
-GBM stands for Gonnaud-Bessire-McDonaugh.
+GBMとは、Gonnaud-Bessire-McDonaughの略である。
 
-First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+2019年にCryptographによって初めて開拓されたGBMオークションは特許出願中のシステムで、ピクセルクラフト・スタジオはハウント2、レルム、さらにはウァラブルを含むすべてのAavegotchi NFT ドロップでこれを使用するライセンスを正式に取得しています。
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+GBMオークションの詳細については、[Cryptograph GBM Auctionのブログポスト](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5)をご覧ください。
 
-### Metaverse
+### Metaverse（メタバース）
 
-A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
+メタバースとは、ゲームやショップなどの世界そのものや、他のユーザーと交流できる仮想世界のことです。
 
-Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
+メタバースの例としては、セカンドライフやディセントランドなどのプロジェクトに加え、[ゴッチバース](/gotchiverse)があります。
 
-### Non-Fungible Token
+### Non-Fungible Token（ノンファンジブル トークン）
 
-A non-fungible token (NFT) is a special type of cryptographic token which represents something **unique**, meaning it cannot be swapped out for any other token. Non-fungible tokens typically represent ownership of items such as wearables, works of art, or any other type of property.
+ノンファンジブルトークン（NFT）とは、特殊な暗号トークンであり、**ユニーク**なものを表し、他のトークンと交換することができないものです。 ノンファンジブルトークンは通常、身につけるもの、芸術品、その他の財産などの所有権を表します。
 
-The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
+ノンファンジブルトークンの**逆**は、USDC や Bitcoin のような他の種類のトークンと交換できるものです。 同じ種類のコインと1対1で交換できるトークンは、Fungible Token（ファンジブル トークン）として知られています。
 
-### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+### Polygon（ポリゴン）
+ポリゴン（旧Matic Network）は、パブリックブロックチェーンのスケーリングソリューションです。 Plasma（プラズマ）フレームワーク（Plasma MoreVP）の適応された実装に基づき、アカウントベースの実装で、ポリゴンは既存のイーサリアムツールのすべてをサポートし、より高速で安価なトランザクションを実現します。
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+イーサリアム・メインネットからポリゴンにトークンを転送するには、[このガイド](/polygon)を参照してください。
 
-Read more about Polygon [here](https://matic.network/).
+ポリゴンの詳細については[こちら](https://matic.network/)をご覧ください。
 
-### Proof of Stake
+### Proof of Stake（プルーフオブステーク）
 
-Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
+Proof of Stake (PoS) は、ブロックチェーンがデータ履歴の単一の真の記録について合意するために使用できる合意メカニズムの一種です。 PoSブロックチェーンでは、バリデータ（検証者）はブロックの存在を証明する（または「検証する」）ためにステークをコミットします。
 
-Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
+バリデータとは、PoSブロックチェーン上でブロックを提案し証明するためのノード（バリデータノードと呼ばれる）を運営するネットワーク上の参加者のことです。 彼らは暗号（イーサリアム2.0の場合、ETH）をネットワーク上にステーキングすることでこれを行い、ブロックを提案するためにランダムに選択されるようにします。 そして他の検証者は、そのブロックを見たことを「証明」します。 十分な数の認証が集まると、そのブロックはブロックチェーンに追加されます。 検証者は、ブロックの提案に成功した場合（PoWの場合と同様）と、自分が見たブロックについて証明した場合の両方で報酬を受け取ります。
 
-Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Proof of Stakeのコンセンサスメカニズムについて詳しくは、[こちら](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/)をご覧ください。
 
-### QuickSwap
+### QuickSwap（クィックスワップ）
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwapはイーサリアムをベースにしたパーミッションレスの分散型取引所（DEX）で、[ポリゴン](/glossary#polygon)のレイヤー2スケーラビリティ・インフラストラクチャを搭載しています。 QuickSwapのユーザーは、取引にレイヤー2を利用することで、あらゆるERC20資産をゼロに近いガスコストで電光石火のスピードで取引ができるようになります。
 
-QuickSwap can be accessed [here](https://quickswap.exchange).
+QuickSwapは[こちら](https://quickswap.exchange)からアクセスできます。
