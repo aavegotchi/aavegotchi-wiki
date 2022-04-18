@@ -34,10 +34,10 @@ contributors:
 
 ## Aavegotchiモール
 
-Aavegotchiモールは、Aavegotchiの公式ショップです。 The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+Aavegotchiモールは、Aavegotchiの公式ショップです。 [ウェアラブルや消耗品](/wearables)を販売し、価格は[GHSTトークン](/ghst)で表示されます。
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+モールには随時新しいウェアラブルが入荷されます。
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
+在庫がなくなったアイテムは、[バザール](/baazaar)などの二次市場で販売している他の人からしか購入することができません。
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+モールには[こちら](https://aavegotchi.com/shop)からアクセスできます。
