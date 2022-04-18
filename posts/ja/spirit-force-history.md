@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
 description: 'History about Aavegotchi Spirit Force'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 Spirit Force?
