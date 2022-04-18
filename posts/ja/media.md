@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Media'
 description: "Aavegotchi Media"
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't make it? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
