@@ -6,7 +6,7 @@ description: 'Short Answers to Quick Questions'
 image: "faq/faq.png"
 contributors:
   - "eris771"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
