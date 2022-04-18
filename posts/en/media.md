@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### ForbesBook Podcast with Jesse Johnson (13 April 2022)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ZMBxvjOd9KpzF6c980O3s?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ### Crypto Sapiens — Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming (12 March 2022)
 <iframe title="Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=79ipq-11cae95-pb&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>
 
