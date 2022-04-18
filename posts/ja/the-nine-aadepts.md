@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'The Nine Aadepts'
 description: 'The Nine Aadepts'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 The legend foretells about the coming of The Nine Aadepts! — A blockbuster story of epic proportions by Frenless Summer
