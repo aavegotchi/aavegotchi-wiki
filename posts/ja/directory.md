@@ -123,7 +123,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tutorials](/tutorials)
 
-* [uGOTCHI Collection](/ugotchi)
+* [uGOTCHI コレクション](/ugotchi)
 
 * [ウェアラブル](/wearables)
 
