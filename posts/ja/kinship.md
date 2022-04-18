@@ -46,17 +46,17 @@ Aavegotchiと12時間交流するごとに、最大1キンシップポイント�
 
 ## キンシップとアルケミカ・チャネリング
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+キンシップはアルケミカ・チャネリングに使用されます。 アルケミカ・チャネリングは、Aavegotchi達が獲得する基本的な日当で、[区画](/gotchiverse)から収穫されるのではなく、ゴッチバースのエーテルから直接得られるものです。
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+ゴッチがアルケミカ・チャネリングによって受け取るアルケミカ（FUD、FOMO、ALPHA、KEK）の量は、主にそのキンシップレベルに依存します。
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+チャネリングの基本レートは、**20 FUD、10 FOMO、5 ALPHA、2 KEK**です。この基本レートに、Aavegotchiのキンシップレベルに応じて修正値が乗算されます（以下の表を参照）。
 
-table_alchemicaReceivedPerChanneling
+表_alchemicaReceivedPerChanneling
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+キンシップが1ポイント増えるごとに、アルケミカル・チャネリングの修正値が次の計算式によって増加します：
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+すべてのAavegotchiは**24時間に1度**アルケミカル・チャネリングを行うことができます。
 
