@@ -49,31 +49,31 @@ Aastronautsは[レアリティファーミング](/rarity-farming)の参加者�
 
 ### Terence McKenna（テレンス・マッケンナ）
 
-<a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "Terence McKenna Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "テレンス・マッケンナ・Aavegotchi"></a>
 
 表_terenceMckenna
 
 ### Machine Elf（マシン・エルフ）
 
-<a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "Machine Elf Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "マシンエルフ・Aavegotchi"></a>
 
 table_machineElf
 
 ### Stoned Ape（ストーンド・エイプ）
 
-<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stoned Ape Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "ストーンド・エイプ・Aavegotchi"></a>
 
 表_stonedApe
 
 ### Ayahuasca（アヤワスカ）
 
-<a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "Ayahuasca Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "アヤワスカ・Aavegotchi"></a>
 
 表_ayahuasca
 
 ### Clockwork Elf（クロックワークエルフ）
 
-<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Clockwork Elf Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "クロックワークエルフ・Aavegotchi"></a>
 
 表_clockworkElf
 
@@ -81,7 +81,7 @@ table_machineElf
 
 2021年5月16日、ピクセルクラフトはアストロノーツ・コレクションに最後のメンバーを追加することを発表します。 未開封ポータル2は、ハウント1の3番目に低いtokenIDです。 ピクセルクラフト・スタジオがバザールで60,000 GHSTで取得し、すでにイーサリアムにブリッジされアストロノーツ・コレクションに預け入れられました。
 
-<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
+<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "未開封ポータル2・Aavegotchi"></a>
 
 ## uGOTCHI トークン
 
@@ -115,10 +115,10 @@ UniclyでuGOTCHIコレクションを見るには[ここ](https://www.app.unic.l
 
 7. Aavegotchiが2021年3月に初めて10,000ポータルを発売したとき、1分も経たずに完売しました。
 
-8. Aavegotchiは、2週間ごとにレアリティファーミングの報酬を獲得して、GHSTトークンを直接「NFTウォレット」機能でファーミングし続けています。 (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
+8. Aavegotchiは、2週間ごとにレアリティファーミングの報酬を獲得して、GHSTトークンを直接「NFTウォレット」機能でファーミングし続けています。 (テレンス・マッケンナだけで6月中旬までに40,000GHSTを獲得するペースです）。 これは、報酬が外部のウォレットに行くのではなく、レアリティスコアに応じて各Aavegotchiに直接入金されるため、非常に重要なことなのです。 テレンス・マッケンナはこのコレクションのリーダーで、現在、現存するすべてのAavegotchiの中で4番目にレアな存在です。
 
 ## uGOTCHIコレクションの買い取りについて
 
-On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+2021年10月8日、uGOTCHIトークン所有者のうち最大手の2社が、uGOTCHI保管庫を閉鎖し、中のゴッチを放出することを投票で決定しました。 第三者の入札者は誰でも、ゴッチに対してETHのオファーができるようになります。 保管庫が清算された瞬間、個々のゴッチの最高入札者はNFTを請求することができ、uGOTCHIトークン所有者は販売収益の比例配分分を請求することができます。
 
-For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+詳細については、この[投稿](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277)をご覧ください。
