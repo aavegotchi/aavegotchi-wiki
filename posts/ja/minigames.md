@@ -4,7 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Mini-games'
 description: 'All about Aavegotchi minigames'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
