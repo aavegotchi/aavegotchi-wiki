@@ -20,13 +20,16 @@ contributors: ["eris771", "unintelligent-nerd"]
 
 <ol>
 <li><a href=#general-faq>General FAQ</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->I'm new to Aavegotchi. After launch, how do I play?</a></p>
-<p><a href=#when-can-i-get-an-aavegotchi->When can I get an Aavegotchi?</a></p>
+<p><a href=#what-is-an-aavegotchi->What is an Aavegotchi?</a></p>
+<p><a href=#what-blockchain-is-aavegotchi-on->What blockchain is Aavegotchi on?</a></p>
+<p><a href=#is-aavegotchi-an-official-aave-project--how-much-is-aave-involved->Is Aavegotchi an official Aave project? How much is Aave involved?</a></p>
+<p><a href=#how-do-i-get-an-aavegotchi->How do I get an Aavegotchi?</a></p>
+<p><a href=#can-aavegotchis-be-traded-sold-bought->Can Aavegotchis be traded/sold/bought?</a></p>
+<p><a href=#what-is-the-gotchiverse->What is the Gotchiverse?</a></p>
 <p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
-<p><a href=#when-is-mainnet-launch->When is mainnet launch?</a></p>
-<p><a href=#what-can-i-do-now->What can I do now?</a></p>
+<p><a href=#can-i-start-playing-for-free->Can I start playing for free?</a></p>
+<p><a href=#how-can-i-earn-money->How can I earn money?</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
-<p><a href=#what-does-aave-have-to-do-with-aavegotchi->What does Aave have to do with Aavegotchi?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
@@ -125,34 +128,31 @@ contributors: ["eris771", "unintelligent-nerd"]
 
 </div>
 
-&nbsp;
-
-The FAQ is designed as a quick-reference guide for short answers to quick questions. For more in-depth info, check out the embedded links or peruse our sidebar for general topics.
 ## General FAQ
 
+### What is an Aavegotchi?
 
-### I'm new to Aavegotchi. After launch, how do I play?
+Aavegotchi is an open-source, community owned NFT gaming protocol, enabling true asset ownership for gamers. Aavegotchi NFTs are on-chain collectible ghosts staked with Aave’s interest-generating aTokens.
 
-* **STEP 1:** Buy [GHST](/ghst)
+### What blockchain is Aavegotchi on?
 
-* **STEP 2:** Use GHST to buy a [portal](/portals) or an Aavegotchi from the [Baazaar](/baazaar)
+Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
 
-* **STEP 3:** Get some wearables for your Gotchi from the Baazaar
+### Is Aavegotchi an official Aave project? How much is Aave involved?
 
-* **STEP 4:** Pet your Gotchi every 12 hours to increase his/her [kinship](/traits#kinship)
+Aavegotchi is a recipient of an Aave Ecosystem Grant, but we are not an official Aave project. However, Aave has been extremely helpful and we’re in close contact with the team. In fact, Stani Kulechov, the founder of Aave, was our first advisor.
 
-* **STEP 5:** Participate in [Rarity Farming](/rarity-farming)
+### How do I get an Aavegotchi?
 
-* **STEP 6:** Play some [Mini-Games](/minigames)
+There are two ways to purchase an Aavegotchi. The first is to purchase a [Portal](/portals) during a new [Haunt](/haunt) and then summon an Aavegotchi. The second is to head over to the Aavegotchi [Baazaar](/baazaar), our secondary NFT marketplace, and either purchase a Portal or a summoned Aavegotchi.
 
-* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
+### Can Aavegotchis be traded/sold/bought?
 
-You can find an in-depth outline of gameplay <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">here.</a>
+Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aavegotchi [Baazaar](/baazaar). We have an Aavegotchi to Ethereum bridge allowing Aavegotchis to be bought and sold on L1 through marketplaces like Rarible.
 
+### What is the Gotchiverse?
 
-### When can I get an Aavegotchi?
-
-2 March 2021 on Polygon! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
+The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
 
 ### How much does it cost to play Aavegotchi?
 There are a couple of ways to get an Aavegotchi:
@@ -171,22 +171,15 @@ Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since th
 
 * Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc. 
+Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
-### When is mainnet launch?
-Mainnet was originally scheduled for launch on 4 January 2021. Due to high congestion on the Ethereum blockchain at that point, a community vote was put into action. The community voted for the launch of Aavegotchi on Polygon at a later date. The Aavegotchi team has confirmed the 2 March 2021 launch date on Polygon.
+### Can I start playing for free?
 
+Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending) to browse the Lending listings now.
 
-### What can I do now?
+### How can I earn money?
 
-Right now, you can:
-
-* **Stake GHST to earn FRENS:** FRENS can be used to purchase raffle tickets to be used in Raffles. Check out the [Staking page](/staking) for more info!
-
-* **Pet your Gotchi evey 12 hours:** Yes! You need to build [Kinship](/traits#kinship) with your Gotchi fren too! The higher the Kinship, the better you do in [Rarity Farming](/rarity-farming)!
-
-* **Play some Mini-Games:** Some [Mini-Games](/minigames) are already available fren. Check them out!
-
+With Aavegotchi and The Gotchiverse there are a number of ways to earn money. The Gotchiverse has four play-to-earn ERC-20 tokens known as Gotchus Alchemica. These tokens can be used to craft Installation NFTs within The Gotchiverse, or traded for GHST. Players can earn these tokens by channeling from the skies above, farming from below the surface of their land parcel, or by collecting it from the maps surface. For details on the Tokenomics of Gotchus Alchemica check out [Chapter 2 of The Gotchiverse Game Bible](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/).
 
 ### Do I need KYC to play Aavegotchi or own GHST token?
 
@@ -195,10 +188,6 @@ No! You only need to do KYC if you want to buy GHST directly from the [bonding c
 The table below summarizes the information:
 
 table_kyc
-
-### What does Aave have to do with Aavegotchi?
-
-Aavegotchi began with an Aave ecosystem grant, entrusted with permission to use the Aave ghost logo. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
 
 ### Can aTokens staked inside an Aavegotchi get liquidated?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
