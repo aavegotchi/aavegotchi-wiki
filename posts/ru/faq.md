@@ -22,20 +22,22 @@ contributors:
 
 <ol>
 <li><a href=#general-faq>Общие вопросы</a></li>
-<p><a href=#i-m-new-to-aavegotchi--after-launch--how-do-i-play->Я новенький в Aavegotchi.
- Как я могу играть после запуска?</a></p>
-<p><a href=#when-can-i-get-an-aavegotchi->Когда я смогу получить Аавеготчи?</a></p>
-<p><a href=#how-much-does-it-cost-to-play-aavegotchi->Насколько дорого играть в Аавеготчи?</a></p>
-<p><a href=#when-is-mainnet-launch->Каковы сроки запуска основной сети?</a></p>
-<p><a href=#what-can-i-do-now->С чего можно начать?</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?</a></p>
-<p><a href=#what-does-aave-have-to-do-with-aavegotchi->Что общего между Aave и Аавеготчи?</a></p>
-<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?</a></p>
-<p><a href=#what-are-matokens->Что собой представляют  maTokens?</a></p>
-<p><a href=#could-captcha-be-used-to-prevent-bots->Будет ли использоваться Капча для борьбы с ботами?</a></p>
-<p><a href=#are-amtokens-the-same-as-matokens->Есть ли разница между amTokens и maTokens?</a></p>
-<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Почему нельзя просто поменять свои токены на maLINK/maUNI на Quickswap?</a></p>
-<p><a href=#will-aavegotchi-be-integrated-with-opensea->Может ли Аавеготчи быть интегрирован с OpenSea?</a></p>
+<p><a href=#what-is-an-aavegotchi->What is an Aavegotchi?</a></p>
+<p><a href=#what-blockchain-is-aavegotchi-on->What blockchain is Aavegotchi on?</a></p>
+<p><a href=#is-aavegotchi-an-official-aave-project--how-much-is-aave-involved->Is Aavegotchi an official Aave project? How much is Aave involved?</a></p>
+<p><a href=#how-do-i-get-an-aavegotchi->How do I get an Aavegotchi?</a></p>
+<p><a href=#can-aavegotchis-be-traded-sold-bought->Can Aavegotchis be traded/sold/bought?</a></p>
+<p><a href=#what-is-the-gotchiverse->What is the Gotchiverse?</a></p>
+<p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
+<p><a href=#can-i-start-playing-for-free->Can I start playing for free?</a></p>
+<p><a href=#how-can-i-earn-money->How can I earn money?</a></p>
+<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
+<p><a href=#what-are-matokens->What are maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
+<p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
 <p><a href=#where-can-i-find-the-aavegotchi-litepaper->Where can I find the Aavegotchi Litepaper?</a></p>
 <li><a href=#bonding-curve-faq>Вопросы по Кривой Связывания:</a></li>
 <p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
@@ -128,100 +130,86 @@ contributors:
 
 </div>
 
-&nbsp;
-
-Данный сборник вопросов/ответов является справочным руководством для геймеров. На этой странице вы можете посмотреть краткие ответы на самые распространенные вопросы. Чтобы получить более подробную и фундаментальную информацию — переходите по ссылкам или смотрите боковую панель нашей ВИКИ, чтобы получить полную информацию о проекте.
 ## Общие вопросы
 
+### What is an Aavegotchi?
 
-### Я новенький в Aavegotchi. Как я могу играть после запуска?
+Aavegotchi is an open-source, community owned NFT gaming protocol, enabling true asset ownership for gamers. Aavegotchi NFTs are on-chain collectible ghosts staked with Aave’s interest-generating aTokens.
 
-* **Шаг 1.** Купите токены **GHST**.
+### What blockchain is Aavegotchi on?
 
-* **Шаг 2**. Приобретите [портал](/portals) или Готчи на вторичном рынке — [Базаре](/baazaar).
+Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
 
-* **Шаг 3**. Приобретите экипировку, чтобы улучшить показатели Готчи. Можно на Базаре.
+### Is Aavegotchi an official Aave project? How much is Aave involved?
 
-* **Шаг 4**. Возвращайтесь к своему Готчи каждые 12 часов, чтобы рос показатель [лояльности](/traits#kinship).
+Aavegotchi is a recipient of an Aave Ecosystem Grant, but we are not an official Aave project. However, Aave has been extremely helpful and we’re in close contact with the team. In fact, Stani Kulechov, the founder of Aave, was our first advisor.
 
-* **Шаг 5**. Участвуйте в [фарминге](/rarity-farming).
+### How do I get an Aavegotchi?
 
-* **Шаг 6.** Играйте в [мини-игры](/minigames).
+There are two ways to purchase an Aavegotchi. The first is to purchase a [Portal](/portals) during a new [Haunt](/haunt) and then summon an Aavegotchi. The second is to head over to the Aavegotchi [Baazaar](/baazaar), our secondary NFT marketplace, and either purchase a Portal or a summoned Aavegotchi.
 
-* **STEP 7:** Wait for the [Gotchiverse](/gotchiverse) to roll out!
+### Can Aavegotchis be traded/sold/bought?
 
-Подробную информацию об игровом проекте вы сможете найти на странице о <a href="https://wiki.aavegotchi.com/en/gameplay" target = "_blank">Геймплее</a>.
+Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aavegotchi [Baazaar](/baazaar). We have an Aavegotchi to Ethereum bridge allowing Aavegotchis to be bought and sold on L1 through marketplaces like Rarible.
 
+### What is the Gotchiverse?
 
-### Когда я смогу получить Аавеготчи?
+The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
 
-Готчи появятся 02.03.2021 на Polygon! The [Gotchiverse](/gotchiverse) will open shortly after (Q1 2021).
+### How much does it cost to play Aavegotchi?
+There are a couple of ways to get an Aavegotchi:
 
-### Насколько дорого играть в Аавеготчи?
-Готчи можно получить двумя способами:
+* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
 
-* Приобрести [портал](/portals) во время проводящегося дропа, открыть и [вызвать](/portals#claiming-an-aavegotchi) Готчи, поставив минимум очков силы Духа.
+Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
 
-Это обойдется вам в 100 GHST + минимум 10 DAI, которые будут поставлены в качестве залога. Причем DAI может понадобиться больше, если вам выпадет более редкий Готчи. Увы, этот вариант работает только во время дропов, а они проходят очень быстро.
+* Buy an Unopened Portal at the [Baazaar](/baazaar).
 
-* Купить неоткрытый портал на вторичном рынке ([Базаре](/baazaar)).
+Cost: Variable.
 
-Цена варьирует.
+* Buy an Opened Portal at the [Baazaar](/baazaar).
 
-* Приобрести открытый портал на вторичном рынке ([Базаре](/baazaar)).
+Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
 
-Цена варьирует, но обычно Готчи обходятся дешевле, чем при покупке неоткрытых порталов, так как там уже есть до десятка Готчи.
+* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
 
-* Приобрести Готчи на вторичном рынке ([Базаре](/baazaar)).
+Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
 
-Цена варьирует. Находится в зависимости от нескольких моментов — редкости Готчи, наличия экипировки, баджей.
+### Can I start playing for free?
 
-### Каковы сроки запуска основной сети?
-Сроки запуска игры в основной сети несколько раз переносились. Изначально запуск планировалось провести 04.01.2021 года. Однако так как блокчейн Ethereum был перегружен, голосованием участников DAO (децентрализованной автономной организации) было решено, что Аавеготчи стартует на Polygon позднее. Подтвержденная разработчиками игры дата запуска — 02.03.2021 года.
+Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending) to browse the Lending listings now.
 
+### How can I earn money?
 
-### С чего можно начать?
+With Aavegotchi and The Gotchiverse there are a number of ways to earn money. The Gotchiverse has four play-to-earn ERC-20 tokens known as Gotchus Alchemica. These tokens can be used to craft Installation NFTs within The Gotchiverse, or traded for GHST. Players can earn these tokens by channeling from the skies above, farming from below the surface of their land parcel, or by collecting it from the maps surface. For details on the Tokenomics of Gotchus Alchemica check out [Chapter 2 of The Gotchiverse Game Bible](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/).
 
-До запуска основной сети можно:
+### Do I need KYC to play Aavegotchi or own GHST token?
 
-* **Заниматься стейкингом GHST, чтобы зарабатывать баллы FRENS.**  Это как мили на заправке — чем больше FRENS, тем больше за них можно купить лотерейных билетов и участвовать в розыгрыше экипировки. Подробную информацию о стейкинге можно почерпнуть на соответствующей [странице](/staking) нашей ВИКИ.
+No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
 
-* **Не забывайте про Готчи!** Возвращайтесь к нему каждые 12 часов. Чем чаще вы вместе, тем выше уровень сродства и лучше показатели в [фарминге](/rarity-farming).
-
-* **Займитесь прохождением мини-игр**. Некоторые из [игр](/minigames) уже доступны. Вперед!
-
-
-### Что насчет KYC? Требуется ли проходить проверку? Нужно ли владеть токеном GHST?
-
-No! Вносить свои данные и проходить KYC-проверку нужно лишь в том случае, если планируете покупать токены GHST из [кривой связывания](/curve). Также их можно свободно купить на децентрализованной бирже [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH), где KYC-проверка не требуется, и ряде [централизованных бирж](https://www.coingecko.com/en/coins/aavegotchi#markets). Приобретение внутриигровых объектов, например, как [порталы](/portals), прохождение [мини-игр](/minigames), [стейкинг GHST](/staking) или любой другой игровой аспект Аавеготчи **не требует KYC**!
-
-Подробнее о том, как все устроено, можете почитать в этой таблице:
+The table below summarizes the information:
 
 table_kyc
 
-### Что общего между Aave и Аавеготчи?
+### Can aTokens staked inside an Aavegotchi get liquidated?
+No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
-Игровой проект Аавеготчи начали разрабатывать на грант, выделенный экосистемой Aave. The Aavegotchi game incorporates the use of [aTokens](/spirit-force) as a central element of gameplay, and as of November 2020, Aave is also an [official investor](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f) in Pixelcraft Studios, the team behind Aavegotchi.
+### What are maTokens?
+maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
-### Токены aTokens, находящиеся в стейкинге в игровом проекте, могут быть ликвидированы?
-No. Токены aTokens, которые игроки размещают в Аавеготчи, не могут быть использованы для кредитования на платформе Aave, так как не могут стать залогом. Поэтому не могут быть ликвидированы.
+### Could CAPTCHA be used to prevent bots?
+No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
-### Что собой представляют  maTokens?
-Это токены, находившиеся в Aave V2, и перенесенные пользователями в Polygon. Как и другие aTokens, они со временем приносят прибыль!
+This is a feature of permissionless blockchains. It cannot be stopped.
 
-### Будет ли использоваться Капча для борьбы с ботами?
-Нет. Капча в игре не может быть введена. Сайт [Aaavegotchi.com](https://aavegotchi.com/) представляет собой простой интерфейс.  Боты смогут получать к нему доступ и взаимодействовать с основным смарт-контрактом.
+### Are amTokens the same as maTokens?
+No. amTokens are **not** the same as maTokens.
 
-Это особенность, характерная для инклюзивных блокчейн-проектов. Ее нельзя исключить.
-
-### Есть ли разница между amTokens и maTokens?
-No. Эти два типа токенов имеют **кардинальное отличие**!
-
-maTokens являются токенами из Aave V2, которые позже появились на Polygon. Их создателем является разработчик Аавеготчи [Ник Мадж](/team#nick-mudge). maToken понадобились, чтобы игровой проект Аавеготчи скорей запустился на Polygon.
+maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
 
 Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
-Токены, принадлежащие к разным категориям, приносят своим владельцам разную прибыль из-за различия процентных ставок. Процентные ставки для maToken можно увидеть на рынке Aave V2.  Ставки для amTokens можно посмотреть на Polygon.
+Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
 Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
@@ -233,14 +221,14 @@ Both maTokens and amTokens accrue interest. However, *the way* they accrue inter
 
 * amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
 
-### Почему нельзя просто поменять свои токены на maLINK/maUNI на Quickswap?
+### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
 **Doesn't work**: ETH/USDC -> maUNI/maLINK
 
 **Works**: maUSDC -> maUNI/maLINK
 
-### Может ли Аавеготчи быть интегрирован с OpenSea?
+### Will Aavegotchi be integrated with OpenSea?
 Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
