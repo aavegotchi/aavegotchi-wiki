@@ -39,7 +39,7 @@ Salut les Frens. Bienvenue dans notre carnet d'adresses Aavegotchi Smart Contrac
 
 * stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
 
-* stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
+* Adresse staking GHST-USDC: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
 * GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
 
