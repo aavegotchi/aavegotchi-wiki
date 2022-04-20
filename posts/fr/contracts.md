@@ -7,32 +7,35 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Before interacting with any contracts, do check against these addresses to ensure that it is the right one!
+Salut les Frens. Bienvenue dans notre carnet d'adresses Aavegotchi Smart Contracts. Avant d’interagir avec des contrats, vérifiez ces adresses pour vous assurer qu’elles sont bonnes !
 
-**Do NOT send funds to these addresses!**
+**N'envoyez PAS de fonds à ces adresses !**
 
 <div class="contentsBox">
 
 **Contenu**
 
 <ol>
-<li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
-<li><a href=#contract-addresses-on-polygon>Contract Addresses on Polygon</a></li>
+<li><a href=#contract-addresses-on-mainnet>Adresses des contracts sur le réseau principal (Ethereum)</a></li>
+<li><a href=#contract-addresses-on-polygon>Adresses des contracts sur Polygon</a></li>
 </ol>
 
 </div>
 
-## Contract Addresses on Mainnet
+## Adresses des contracts sur le réseau principal (Ethereum)
 
-* GHST Token Address: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
+* Adresse du token GHST: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/address/0x3f382dbd960e3a9bbceae22651e88158d2791550)
 
-* DAO Address: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
+* Adresse de la DAO: [0xffe6280ae4e864d9af836b562359fd828ece8020](https://etherscan.io/address/0xffe6280ae4e864d9af836b562359fd828ece8020)
 
-* Aavegotchi Address: [0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70](https://etherscan.io/address/0x1906fd9c4AC440561F7197Da0A4BD2E88DF5fA70)
+* Adresse Aavegotchi
+</p></li> </ul> 
+  
+  
 
-## Contract Addresses on Polygon
+## Adresses des contracts sur Polygon
 
-* GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
+* Adresse du token GHST: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
 
 * stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
 
