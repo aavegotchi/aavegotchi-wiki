@@ -57,7 +57,7 @@ Aastronautsは[レアリティファーミング](/rarity-farming)の参加者�
 
 <a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "マシンエルフ・Aavegotchi"></a>
 
-table_machineElf
+表_machineElf
 
 ### Stoned Ape（ストーンド・エイプ）
 
