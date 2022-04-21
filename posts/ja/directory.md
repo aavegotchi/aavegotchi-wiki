@@ -41,7 +41,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Eye Shape](/eye-shape)
 
-* [FAQ](/faq)
+* [FAQ（よくある質問）](/faq)
 
 * [Gaame Jaam](/gaame-jaam)
 
