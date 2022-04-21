@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming Seasons'
 description: 'Rarity Farming Seasons'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 Rarity Farming is organized into different seasons. Here's the data for each season.

@@ -1,124 +1,124 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'uGOTCHI Collection'
-description: 'uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly'
+title: 'uGOTCHI コレクション'
+description: 'uGOTCHI コレクション - Uniclyで分数化/シャード化されたレアなAavegotchiのセット'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ugotchi/terence-mckenna.svg">
-<p class="headerImageText">Terence McKenna</p>
+<p class="headerImageText">Terence McKenna（テレンス・マッケンナ）</p>
 </div>
 
-"Sir. It has been a pleasure to get to know you."
+"閣下、 お知り合いになれて光栄です"
 
-The Gotchi Minister salutes Terence McKenna and his team.
+ゴッチ大臣がテレンス・マッケンナとそのチームに敬礼する。
 
-The team took one last look at the beautiful world of Polygon before stepping into the spacecraft.
+チームは宇宙船に乗り込む前に、美しいポリゴンの世界を最後に眺めた。
 
-On 15 April 2021, history was made. Captain Terence McKenna and his team successfully crossed Polygon into the New World of Ethereum.
+2021年4月15日、歴史が刻まれた。 テレンス・マッケンナ船長と彼のチームは、ポリゴンを越えてイーサリアムの新世界に入ることに成功したのだ。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#the-aastronauts>The Aastronauts</a></li>
-<p><a href=#terence-mckenna>Terence McKenna</a></p>
-<p><a href=#machine-elf>Machine Elf</a></p>
-<p><a href=#stoned-ape>Stoned Ape</a></p>
-<p><a href=#ayahuasca>Ayahuasca</a></p>
-<p><a href=#clockwork-elf>Clockwork Elf</a></p>
-<p><a href=#unopened-portal-2>Unopened Portal 2</a></p>
-<li><a href=#ugotchi-token>uGOTCHI Token</a></li>
-<li><a href=#valuation>Valuation</a></li>
-<li><a href=#buyout-of-the-ugotchi-collection>Buyout of the uGOTCHI Collection</a></li>
+<li><a href=#the-aastronauts>The Aastronauts（アストロノーツ）</a></li>
+<p><a href=#terence-mckenna>Terence McKenna（テレンス・マッケンナ）</a></p>
+<p><a href=#machine-elf>Machine Elf（マシン・エルフ）</a></p>
+<p><a href=#stoned-ape>Stoned Ape（ストーンド・エイプ）</a></p>
+<p><a href=#ayahuasca>Ayahuasca（アヤワスカ）</a></p>
+<p><a href=#clockwork-elf>Clockwork Elf（クロックワークエルフ）</a></p>
+<p><a href=#unopened-portal-2>Unopened Portal 2（未開封ポータル2）</a></p>
+<li><a href=#ugotchi-token>uGOTCHI トークン</a></li>
+<li><a href=#valuation>評価額</a></li>
+<li><a href=#buyout-of-the-ugotchi-collection>uGOTCHIコレクションの買い取りについて</a></li>
 </ol>
 
 </div>
 
-## The Aastronauts
+## The Aastronauts（アストロノーツ）
 
-The Aastronauts are a collection of **5 rare Aavegotchis** and **1 rare Unopened [Portal](/portals)** that have been fractionalized/sharded through [Unicly](https://www.unic.ly/). The team is led by Terence McKenna.
+アストロノーツは、**5つのレアなAavegotchi**と1つの**レアな未開封[ポータル](/portals)**を、[Unicly](https://www.unic.ly/)を通じて分数化/シャーディングしたコレクションです。 チームはテレンス・マッケンナが率いています。
 
-The Aastronauts are participants in [Rarity Farming](/rarity-farming) and would receive rarity farming rewards as well. Unfortunately, as no one is petting these Gotchis, their [Kinship](/traits#kinship) level is dropping. In the future, a pet operator can be assigned to pet these Gotchis.
+Aastronautsは[レアリティファーミング](/rarity-farming)の参加者であり、レアリティファーミングの報酬も受け取ることができます。 残念ながら、誰もこれらのGotchisを撫でていないため、彼らの[キンシップ](/traits#kinship)レベルは低下しています。 将来的には、ペットオペレーターを任命して、このゴッチたちを撫でてもらうことができます。
 
-Clicking on the image of an Aastronaut will bring you to its [profile page](/aavegotchi-profile).
+アストロノートの画像をクリックすると、その宇宙飛行士の[プロフィールページ](/aavegotchi-profile)に移動します。
 
-### Terence McKenna
+### Terence McKenna（テレンス・マッケンナ）
 
-<a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "Terence McKenna Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "テレンス・マッケンナ・Aavegotchi"></a>
 
-table_terenceMckenna
+表_terenceMckenna
 
-### Machine Elf
+### Machine Elf（マシン・エルフ）
 
-<a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "Machine Elf Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "マシンエルフ・Aavegotchi"></a>
 
-table_machineElf
+表_machineElf
 
-### Stoned Ape
+### Stoned Ape（ストーンド・エイプ）
 
-<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "Stoned Ape Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "ストーンド・エイプ・Aavegotchi"></a>
 
-table_stonedApe
+表_stonedApe
 
-### Ayahuasca
+### Ayahuasca（アヤワスカ）
 
-<a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "Ayahuasca Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "アヤワスカ・Aavegotchi"></a>
 
-table_ayahuasca
+表_ayahuasca
 
-### Clockwork Elf
+### Clockwork Elf（クロックワークエルフ）
 
-<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "Clockwork Elf Aavegotchi"></a>
+<a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "クロックワークエルフ・Aavegotchi"></a>
 
-table_clockworkElf
+表_clockworkElf
 
-### Unopened Portal 2
+### Unopened Portal 2（未開封ポータル2）
 
-On 16 May 2021, Pixelcraft announces that they are adding a final member to the Aastronauts Collection. Unopened Portal 2 is the third lowest tokenID of Haunt 1. Pixelcraft Studios acquired it on the Baazaar for 60,000 GHST, and it has already been bridged to Ethereum and deposited into the Aastronauts collection.
+2021年5月16日、ピクセルクラフトはアストロノーツ・コレクションに最後のメンバーを追加することを発表します。 未開封ポータル2は、ハウント1の3番目に低いtokenIDです。 ピクセルクラフト・スタジオがバザールで60,000 GHSTで取得し、すでにイーサリアムにブリッジされアストロノーツ・コレクションに預け入れられました。
 
-<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "Unopened Portal 2 Aavegotchi"></a>
+<a href="https://aavegotchi.com/portal/2" target="_blank"><img src = "/ugotchi/unopened-portal-2.svg" alt = "未開封ポータル2・Aavegotchi"></a>
 
-## uGOTCHI Token
+## uGOTCHI トークン
 
-<img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI Token" />
+<img src = "/ugotchi/ugotchi-token.svg" alt = "uGOTCHI トークン" />
 
-The uGOTCHI Token allows token holders to have direct ownership of the Aastronauts. The total supply of the uGOTCHI token is fixed at 1,000,000. Hence, the amount of uGOTCHI tokens that you have represents the percentage of ownership over the entire Aastronauts collection.
+uGOTCHIトークンは、トークン所有者がアストロノーツの直接的な所有権を持つことを可能にします。 uGOTCHIトークンの総供給量は1,000,000に固定されています。 したがって、あなたが持っているuGOTCHIトークンの量は、アストロノーツ・コレクション全体に対する所有権の割合を表しています。
 
-The uGOTCHI Token is a good way for people who are interested to get exposure to a collection of rare Gotchis. For those who do not have the time to own and care for a Gotchi, the uGOTCHI token is a passive way to invest in a very good set of Aavegotchis for price appreciation. Of course, with every investment, this comes with risk of loss as well.
+uGOTCHIトークンは、希少なゴッチのコレクションに触れることに興味がある人にとって、良い方法です。 ゴッチを所有し、手入れをする時間がない人にとって、uGOTCHIトークンは、非常に優れたゴッチセットに投資し、価格上昇を狙うパッシブな方法と言えます。 もちろん、すべての投資において、これには損失のリスクも伴います。
 
-Click [here](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) to view the uGOTCHI collection on Unicly.
+UniclyでuGOTCHIコレクションを見るには[ここ](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)をクリックしてください。
 
-## Valuation
+## 評価額
 
-On 18 May 2021, Pixelcraft announces that appraisers have concluded their appraisal of the Aastronauts in the uGOTCHI collection. Using an ETH price of $3,550.00, the appraisers designated the collection to be worth 258.04 ETH or USD $916,042.00. The valuations of the individual members of the collection are reflected in the table below.
+2021年5月18日、ピクセルクラフトは鑑定士がuGOTCHIコレクションのアストロノーツの鑑定を終了したことを発表します。 ETH価格3,550.00ドルを使用して、鑑定士はコレクションの価値を258.04 ETHまたは916,042.00米ドルと指定しました。 コレクションの個々のメンバーの評価額は、以下の表に反映されています。
 
-table_valuation
+表_valuation
 
-The following points of consideration were made to the Appraisers:
+鑑定人に対し、以下のような配慮を行った：
 
-1. Each Aavegotchi is an ERC-721. Each wearable that is equipped is also a collectible ERC-1155.
+1. 各アベゴッチはERC-721である。 また、装備している各ウェアラブルは、コレクション性の高いERC-1155である。
 
-2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (currently going for 1.34 each). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. これらのNFTはすべて[バザール](/baazaar)で取引されており、価格はGHSTです（現在各1.34で取引されています）。 ぜひ、フィルターを使って、価格を探ってみてください。 また、Twitterでファンが管理する[Aavegotchitats](https://twitter.com/GotchiStats)をフォローすれば、最もエキサイティングなセールを見つけることができます。
 
-3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
+3. ゴッドライクのウェアラブルは、合計で5つしか存在しない最もレアなものです。 続いてMythicals（神話）です。 Uniclyコレクションのゴッチたちは、ゴッドライクとミシカルを複数着用しています。
 
-4. These 5 Aavegotchis are called the Aastronauts because they are the first gotchis to be bridged to Ethereum.
+4. これら5つのAavegotchiは、イーサリアムにブリッジされた最初のゴッチであることから、アストロノーツと呼ばれています。
 
-5. The Unopened Portal is the first portal to be bridged to Ethereum. It also has an extremely low ID (#2).
+5. 未開封のポータルは、イーサリアムにブリッジされた最初のポータルです。 また、IDが極めて低い（#2）。
 
-6. The Aavegotchi ecosystem is large and growing with over 30 million DAI deposited in the GHST [token bonding curve](/curve). The [AavegotchiDAO](/dao) has accumulated 1 million+ in the DAO treasury so far. There are more than 30k followers on Twitter and 10k active members in Discord. In addition, the Baazaar NFT market has significant and consistent volume. Aavegotchi typically ranks in the Top 10 on Analytics sites such as [DappRadar](https://dappradar.com/).
+6. Aavegotchiのエコシステムは大きく、GHST[トークンのボンディングカーブ](/curve)に3000万以上のDAIが預けられ、成長しています。 [AavegotchiDAO](/dao)はこれまでにDAO treasuryに100万以上蓄積されています。 ツィッターのフォロワーは30k以上、ディスコードのアクティブメンバーは10kです。 さらに、バザールNFT市場では、かなりのボリュームがあり、安定しています。 Aavegotchiは通常、[DappRadar](https://dappradar.com/)などのアナリティクス・サイトでトップ10にランクインしています。
 
-7. When Aavegotchi first launched their 10,000 Portals in March 2021, they were sold out in less than a minute.
+7. Aavegotchiが2021年3月に初めて10,000ポータルを発売したとき、1分も経たずに完売しました。
 
-8. The Aastronauts are continually farming GHST tokens directly into their "NFT wallet" feature by winning Rarity Farming rewards every two weeks. (Terence McKenna alone is on pace to earn 40,000 GHST before mid June). This is crucial because the rewards are not going to some outside wallet, but are deposited directly into each Aavegotchi according to their rarity scores. Terence McKenna is the leader of this collection and is currently the 4th rarest of all Aavegotchis in existence.
+8. Aavegotchiは、2週間ごとにレアリティファーミングの報酬を獲得して、GHSTトークンを直接「NFTウォレット」機能でファーミングし続けています。 (テレンス・マッケンナだけで6月中旬までに40,000GHSTを獲得するペースです）。 これは、報酬が外部のウォレットに行くのではなく、レアリティスコアに応じて各Aavegotchiに直接入金されるため、非常に重要なことなのです。 テレンス・マッケンナはこのコレクションのリーダーで、現在、現存するすべてのAavegotchiの中で4番目にレアな存在です。
 
-## Buyout of the uGOTCHI Collection
+## uGOTCHIコレクションの買い取りについて
 
-On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
+2021年10月8日、uGOTCHIトークン所有者のうち最大手の2社が、uGOTCHI保管庫を閉鎖し、中のゴッチを放出することを投票で決定しました。 第三者の入札者は誰でも、ゴッチに対してETHのオファーができるようになります。 保管庫が清算された瞬間、個々のゴッチの最高入札者はNFTを請求することができ、uGOTCHIトークン所有者は販売収益の比例配分分を請求することができます。
 
-For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+詳細については、この[投稿](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277)をご覧ください。

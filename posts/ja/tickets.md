@@ -4,7 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
 description: 'Aavegotchi Tickets and Raffle prizes!'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">

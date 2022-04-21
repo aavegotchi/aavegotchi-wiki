@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki Directory'
 description: 'Aavegotchi Wiki Directory'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 Here is the list of pages in the Aavegotchi Wiki:
@@ -41,7 +41,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Eye Shape](/eye-shape)
 
-* [FAQ](/faq)
+* [FAQ（よくある質問）](/faq)
 
 * [Gaame Jaam](/gaame-jaam)
 
@@ -123,7 +123,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tutorials](/tutorials)
 
-* [uGOTCHI Collection](/ugotchi)
+* [uGOTCHI コレクション](/ugotchi)
 
 * [ウェアラブル](/wearables)
 

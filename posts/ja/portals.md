@@ -1,11 +1,11 @@
 ---
-author: アペランツ
+author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'ポータル'
 description: 'Aavegotchiポータルの全て'
 contributors:
-  - "アペランツ"
-  - "アンインテリジェント・ナード"
+  - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 

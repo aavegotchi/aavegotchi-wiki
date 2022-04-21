@@ -6,7 +6,7 @@ description: 'All about Aavegotchi Missions'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">

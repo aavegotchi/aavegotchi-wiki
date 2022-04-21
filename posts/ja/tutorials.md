@@ -1,10 +1,10 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi 101'
 description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 Feeling overwhelmed fren?

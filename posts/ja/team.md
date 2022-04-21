@@ -6,7 +6,7 @@ description: 'See who&#8217s building the Aavegotchi Game'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 

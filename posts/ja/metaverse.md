@@ -5,7 +5,7 @@ title: 'ゴッチバース'
 description: 'ゴッチバースのすべて'
 contributors:
   - "eris771"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <meta http-equiv="refresh" content="0; URL='https://wiki.aavegotchi.com/gotchiverse'" />

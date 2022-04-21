@@ -1,43 +1,43 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Maall'
-description: 'Aavegotchi Maall'
+title: 'Aavegotchiモール'
+description: 'Aavegotchiモール'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/maall/maall.png">
-<p class="headerImageText">The Maall</p>
+<p class="headerImageText">ザ・モール</p>
 </div>
 
-"Hey Aamy. Sorry I'm late."
+"やあ エイミー 遅れてごめんよ"
 
-"Nevermind that. What are you getting later? The Praada Parasol looks cuuuute!"
+"気にしないで。 後で何を買うの？ プラダパラソル、かわいいね。"
 
-"The Kaate Spaade clutch will match my latest outfit! *twirls*"
+"ケイト・スペードのクラッチバッグは、私の最近の服装にマッチするわ！" *ソワソワ</strong></p>
 
-The doors to the Maall creaks open.
+モールの扉がギシギシと音を立てて開く。
 
-"Yippie! It's time to shop!"
+"ワーイ！ ショッピングの時間よ！"
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#aavegotchi-maall>Aavegotchi Maall</a></li>
+<li><a href=#aavegotchi-maall>Aavegotchiモール</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Maall
+## Aavegotchiモール
 
-The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+Aavegotchiモールは、Aavegotchiの公式ショップです。 [ウェアラブルや消耗品](/wearables)を販売し、価格は[GHSTトークン](/ghst)で表示されます。
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+モールには随時新しいウェアラブルが入荷されます。
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
+在庫がなくなったアイテムは、[バザール](/baazaar)などの二次市場で販売している他の人からしか購入することができません。
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+モールには[こちら](https://aavegotchi.com/shop)からアクセスできます。

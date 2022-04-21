@@ -1,15 +1,15 @@
 ---
-author: アンインテリジェント・ナード
+author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'キンシップ'
-description: 'Everything you need to know about Kinship and petting your Gotchi!'
+description: 'ゴッチのキンシップとペッティングに関する全て！'
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/kinship/petgotchi.gif">
-<p class="headerImageText">Petting your gotchi!</p>
+<p class="headerImageText">ゴッチをペッティングする（撫でる）！？</p>
 </div>
 
 <div class="contentsBox">
@@ -17,46 +17,46 @@ contributors:
 **目次**
 
 <ol>
-<li><a href=#what-is-kinship>What is Kinship</a></li>
-<li><a href=#kinship-levels>Kinship Levels</a></li>
-<li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+<li><a href=#what-is-kinship>キンシップとは</a></li>
+<li><a href=#kinship-levels>キンシップのレベル</a></li>
+<li><a href=#kinship-and-alchemical-channeling>キンシップとアルケミカ・チャネリング</a></li>
 </ol>
 
 </div>
 
-## What is Kinship
+## キンシップとは
 
-キンシップとは、あなたのAavegotchiがあなたに対して抱く忠誠心のことです。 Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
+キンシップとは、あなたのAavegotchiがあなたに対して抱く忠誠心のことです（親密度）。 召喚時に一定の値（50）から始まり、同じ飼い主との付き合いの長さや、飼い主との交流の度合いなど、さまざまな要因で増減します。 親密度の最小値は0です。 親密度の最大値はありません。
 
-Typically, longer ownership equals higher kinship, but neglecting your Aavegotchi for long periods of time will lower its kinship level. Aavegotchis aren’t just vessels to store your crypto bags. They’re living, breathing ghosts, and they need your affection!
+一般に、所有期間が長いほど親密度は高くなりますが、Aavegotchiを長期間放置すると親密度は下がります。 Aavegotchiは暗号資産を保存するための単なる容器ではありません。 彼らは生きている幽霊であり、あなたの愛情を必要としています。
 
-A maximum of 1 Kinship point is accrued for every 12 hour period in which you interact with your Aavegotchi. Conversely, there will be a -1 Kinship point penalty if your Aavegotchi is left unengaged for 24 hours.
+Aavegotchiと12時間交流するごとに、最大1キンシップポイントが発生します。 逆に、Aavegotchiと24時間関わらないと、キンシップポイントが１点引かれます。
 
-Kinship exists as an internal balance on the Aavegotchi smart contract.
+キンシップはAavegotchiのスマートコントラクトの内部バランスとして存在します。
 
-Potions could also be used to improve kinship scores. However, they are limited edition consumables.
+ポーションはキンシップのスコアを向上させるために使用することもできます。 しかし、これらは限定版の消耗品です。
 
-## Kinship Levels
+## キンシップのレベル
 
-The table below shows the kinship level and their value range.
+下の表は、キンシップレベルとその値の範囲を示しています。
 
-table_kinship
+表_kinship
 
-Kinship can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+キンシップは、[Aavegotchiのプロフィールページ](/aavegotchi-profile)で確認することができます。
 
-## Kinship and Alchemical Channeling
+## キンシップとアルケミカ・チャネリング
 
-Kinship is used for Alchemical Channeling. Alchemical Channeling is a basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the [parcel](/gotchiverse).
+キンシップはアルケミカ・チャネリングに使用されます。 アルケミカ・チャネリングは、Aavegotchi達が獲得する基本的な日当で、[区画](/gotchiverse)から収穫されるのではなく、ゴッチバースのエーテルから直接得られるものです。
 
-How much Alchemica (FUD, FOMO, ALPHA, and KEK) the Gotchi receives through Alchemical Channeling depends primarily on its Kinship level.
+ゴッチがアルケミカ・チャネリングによって受け取るアルケミカ（FUD、FOMO、ALPHA、KEK）の量は、主にそのキンシップレベルに依存します。
 
-The base rate for channeling is **20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK.** This base rate then gets multiplied by a modifier, depending on the Aavegotchi’s kinship level (see table below).
+チャネリングの基本レートは、**20 FUD、10 FOMO、5 ALPHA、2 KEK**です。この基本レートに、Aavegotchiのキンシップレベルに応じて修正値が乗算されます（以下の表を参照）。
 
-table_alchemicaReceivedPerChanneling
+表_alchemicaReceivedPerChanneling
 
-Each point of Kinship increases the Alchemical Channeling modifier, by the formula:
+キンシップが1ポイント増えるごとに、アルケミカル・チャネリングの修正値が次の計算式によって増加します：
 
 <img class="bodyImage" src="/kinship/alchemical-channeling-modifier.png" />
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+すべてのAavegotchiは**24時間に1度**アルケミカル・チャネリングを行うことができます。
 
