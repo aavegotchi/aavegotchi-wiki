@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [The Gotchiverse Bible: Chapter 4 has been released!](https://blog.aavegotchi.com/gotchiverse-bible-chapter-4/)
+* Featured in this chapter are Wearable Benefits, Estaates, Land Management, and Recipe Book Updates!
+<p></p>
+
 ## [Limited Edition Golden Tile NFTs](https://blog.aavegotchi.com/aavegotchi-limited-edition-golden-tile-nfts-are-coming-to-the-gotchiverse/)
 * Pixelcraft Studios introduces the limited edition Gold Tiles for the Gotchiverse
 * There are 3 designs
