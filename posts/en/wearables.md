@@ -98,7 +98,7 @@ table_wearablesVotingPower
 
 ## Weapons
 
-Certain Wearables have also been selected to be used as Weapons with the Gotchiverse.
+Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
 
 Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
 
