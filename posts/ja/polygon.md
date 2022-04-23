@@ -41,13 +41,13 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 1). Open the extension and click the “Ethereum Mainnet” button on the top.
 
-<img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
+<img class = "bodyImage" src = "/polygon/metamask.png" alt = "メタマスク" />
 
-2). Select “Custom RPC”.
+2). 「Custom RPC」を選択します。
 
-<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "メタマスクカスタムRPG" />
 
-3). Enter the following settings:
+3). 以下の設定を入力します：
 
 Network Name: Matic Mainnet
 
@@ -59,7 +59,7 @@ Currency Symbol (optional): MATIC
 
 Block Explorer URL (optional): https://explorer.matic.network/
 
-Once you’ve added everything, you can click on “Save”.
+すべて追加したら、「保存」をクリックします。
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
