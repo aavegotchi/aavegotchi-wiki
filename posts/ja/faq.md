@@ -125,7 +125,7 @@ contributors:
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>PolygonからGHSTを出金しましたが、待っても届きません。</a></p>
 <p><a href=#why-am-i-experiencing-lag-on-polygon->Polygonでラグが発生しているのはなぜですか？</a></p>
 <p><a href=#where-do-i-find-my-gotchi-token-id->私のゴッチトークンIDはどこにありますか？</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->私のゴッチのアドレスはどこにありますか？</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->私のゴッチアドレスはどこにありますか？</a></p>
 </ol>
 
 </div>
@@ -291,11 +291,11 @@ QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比�
 ### ラッフルチケットはどのように転送するのですか？
 ラッフルチケットはERC-1155規格に基づいています。 Aavegotchi DAppの[チケットのページ](https://aavegotchi.com/tickets)から転送することができます。 あなたが所有している各チケットカテゴリの下に、転送ボタンがあります（以下のスクリーンショットを参照）。 そのボタンをクリックすると、そのカテゴリーに属するチケットを転送することができます。
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Aavegotchiラッフルチケットを転送する" />
 
 転送先の住所やチケットの枚数を入力する画面が表示されます（下図）。 入力が終わりましたら、「転送」ボタンをクリックしてください。
 
-<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Aavegotchiラッフルチケットを転送する" />
 
 ### メインネットが開始された後もラッフルはありますか？
 はい、メインネットが開始された後も、追加の抽選が行われる予定です。 ただし、頻繁に行われるわけではなく、事前に発表されることはありません。 これは、まだ[FRENS](/glossary#frens)やラッフルチケットをステーキングし、蓄積しているユーザーに報いるためです。
@@ -553,58 +553,58 @@ Trezor One（トレゾァ・ワン）を使用してもPolygon（ポリゴン）
 QuickSwapにLPトークンをステークした後、ウォレットにLPトークンを表示することはできません。 ウォレットに反映させたい場合は、トークンをアンステークしてください。
 
 ### Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？ **いいえ！**Polygon側のトークンを直接中央集権的な取引所（Binance、Coinbaseなど）に送るべきではありません。 その前に、イーサリアムメインネットにブリッジバックする必要があります。
 
 ### なぜMetamaskは私のトークンシンボルを拒否するのですか？
 
-Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
+Metamaskは、トークンシンボルの最大文字数を11文字に制限しています。 トークン記号をもっと短いものに変更すれば動作します。 この場合、トークンには影響がなく、Metamaskの表示にのみ影響があります。
 
-Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
+stkGHST-QUICKのトークン記号が11文字以上あるため、かなり多くの人がこの問題に遭遇しています。
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "メタマスクトークンシンボルの上限" />
 
 ### PolygonからGHSTを出金しましたが、待っても届きません。
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+私は[Aavegotchi Bridge](https://aavegotchi.com/bridge)を使用して、Polygonからイーサリアム・メインネットに戻ってGHSTトークン（またはそれ以外の資産）を引き出しました。 数時間経っても、まだイーサリアム・メインネットで私の資産を受け取ることができません。 どうしたらいいでしょうか？
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+まず、[Polygon Block Explorer](https://explorer.matic.network/)にアクセスし、トランザクションIDを入力してください。 トランザクションのブロック番号を取得します。
 
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
+次に、以下のURLの[blockNumber] の部分を実際のブロック番号に置き換えて、そのURLにアクセスしてください。
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-That URL will indicate the status of your withdrawal transaction.
+このURLには、あなたの出金取引のステータスが表示されます。
 
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
+まだ処理されていない場合は、しばらくお待ちください。 最長で6時間かかったケースもあります。
 
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+ポリゴンでの処理が完了しても、AavegotchiブリッジのUIにアセットが表示されない場合は、Coderdan（または他のアプレンティス）へお問い合わせください。
 
 ### Polygonでラグが発生しているのはなぜですか？
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+他のPolygon RPCに接続してみてはいかがでしょうか？https://rpc-mainnet.maticvigil.com/
 
-For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
+接続方法については、[「Polygonガイド」](/polygon)をご参照ください。
 
 ### 私のゴッチトークンIDはどこにありますか？
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+AavegotchiトークンID（各Aavegotchiには固有のIDがあります）を取得するには、[マイAavegotchiページ](https://aavegotchi.com/aavegotchis)に移動してください。 自分のゴッチをクリックして、URLの後ろにある数字を観察してください。 以下のような感じです：
 
-https://aavegotchi.com/gotchi/(Gotchi Token ID)
+https://aavegotchi.com/gotchi/(ゴッチトークンID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+ゴッチIDを取得したら、Discordのfollowコマンドを使って、ゴッチをあなたのDiscordハンドルにリンクさせることができます。
 
 ```
 !gotchi link <tokenID>
 ```
 
-Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
+複数のゴッチをお持ちの場合は、同じ手順を複数回繰り返す必要がありますので、ご注意ください。
 
-### 私のゴッチのアドレスはどこにありますか？
+### 私のゴッチアドレスはどこにありますか？
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+まず、[マイAavegotchi](https://aavegotchi.com/aavegotchis)ページに移動してください。 自分のAavegotchiをどれか一つクリックします。 画面右下に「ポケット」ボタンがあります。 ポケットボタンをクリックすると、ゴッチポケットのウィンドウが表示されます。 「表示」ボタンがあります。 それをクリックすると、そのゴッチのスマートコントラクトアドレスに移動します。 これは、ゴッチの所有者が干渉できるエスクロー契約です。
 
-Do note that each Gotchi will have its own Smart Contract Address.
+各ゴッチは、独自のスマートコントラクトアドレスを持つことに注意してください。
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">つづく...</p>
 
 
