@@ -51,83 +51,83 @@ Avegotchi Wikiのページ一覧です：
 
 * [用語解説](/glossary)
 
-* [Gotchiverse（ゴッチバース）](/gotchi-lending)
+* [Gotchi Lending（ゴッチ・レンディング）](/gotchi-lending)
 
-* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchiverse)
+* [Gotchiverse（ゴッチバース）](/gotchiverse)
 
-* [Gotchus Alchemica Exchange（ゴッチュス・アルケミカ取引所）](/gotchus-alchemica)
+* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchus-alchemica)
 
-* [Guild（ギルド）](/gotchus-alchemica-exchange)
+* [ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [Haunt（ハウント）](/guild)
+* [Guild（ギルド）](/guild)
 
-* [Home（ホーム）](/haunt)
+* [Haunt（ハウント）](/haunt)
 
-* [はじめに](/index)
+* [Home（ホーム）](/index)
 
-* [Kinship（キンシップ）](/introduction)
+* [はじめに](/introduction)
 
-* [Maall（モール）](/kinship)
+* [Kinship（キンシップ）](/kinship)
 
-* [Maall](/maall)
+* [Maall（モール）](/maall)
 
 * [maTokens](/matokens)
 
-* [Memes（ミーム）](/media)
+* [メディア](/media)
 
-* [マイルストーン](/memes)
+* [Memes（ミーム）](/memes)
 
-* [ミニゲーム](/milestones)
+* [マイルストーン](/milestones)
 
-* [ミニゲームXPイベント](/minigames)
+* [ミニゲーム](/minigames)
 
-* [ミッション](/minigame-xp-events)
+* [ミニゲームXPイベント](/minigame-xp-events)
 
-* [Mumbaiテストネット](/missions)
+* [ミッション](/missions)
 
-* [パートナーズ](/mumbai-testnet)
+* [Mumbaiテストネット](/mumbai-testnet)
 
-* [Partners](/partners)
+* [パートナーズ](/partners)
 
 * [POAP](/poap)
 
-* [Portals（ポータル）](/polygon)
+* [Polygon（ポリゴン）](/polygon)
 
-* [ラッフルの統計](/portals)
+* [Portals（ポータル）](/portals)
 
-* [Rarity Farming（レアリティー・ファーミング）](/raffles-stats)
+* [ラッフルの統計](/raffles-stats)
 
-* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming)
+* [Rarity Farming（レアリティー・ファーミング）](/rarity-farming)
 
-* [ロードマップ](/rarity-farming-seasons)
+* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming-seasons)
 
-* [セット](/roadmap)
+* [ロードマップ](/roadmap)
 
-* [ソーシャルメディア](/sets)
+* [セット](/sets)
 
-* [スピリットフォース](/socialmedia)
+* [ソーシャルメディア](/socialmedia)
 
-* [スピリットフォース履歴](/spirit-force)
+* [スピリットフォース](/spirit-force)
 
-* [ステーキング](/spirit-force-history)
+* [スピリットフォース履歴](/spirit-force-history)
 
-* [チーム](/staking)
+* [ステーキング](/staking)
 
-* [九人の達人](/team)
+* [チーム](/team)
 
-* [Tickets（チケット）](/the-nine-aadepts)
+* [九人の達人](/the-nine-aadepts)
 
-* [Tokenomics（トークノミックス）](/tickets)
+* [チケット](/tickets)
 
-* [Traits（特性）](/tokenomics)
+* [Tokenomics（トークノミックス）](/tokenomics)
 
-* [チュートリアル](/traits)
+* [Traits（特性）](/traits)
 
-* [uGOTCHI コレクション](/tutorials)
+* [チュートリアル](/tutorials)
 
-* [武器](/ugotchi)
+* [uGOTCHI コレクション](/ugotchi)
 
-* [ウェアラブル](/weapons)
+* [武器](/weapons)
 
 * [ウェアラブル](/wearables)
 
