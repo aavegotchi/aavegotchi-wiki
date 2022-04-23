@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-Game XP Events'
-description: 'Mini-Game XP Events'
+title: 'ミニゲームXPイベント'
+description: 'ミニゲームXPイベント'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigame-xp-events/Aarcade_Machine.png">
-<p class="headerImageText">Ready Player One!</p>
+<p class="headerImageText">レディー・プレイヤー・ワン！</p>
 </div>
 
 From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
