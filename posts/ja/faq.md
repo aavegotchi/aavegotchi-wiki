@@ -146,20 +146,20 @@ AavegotchiはAaveエコシステム助成金の受給者ですが、公式のAav
 
 ### Aavegotchiはどのように入手できますか？
 
-There are two ways to purchase an Aavegotchi. The first is to purchase a [Portal](/portals) during a new [Haunt](/haunt) and then summon an Aavegotchi. The second is to head over to the Aavegotchi [Baazaar](/baazaar), our secondary NFT marketplace, and either purchase a Portal or a summoned Aavegotchi.
+Aavegotchiを購入するには2つの方法があります。 1つ目は、新しい[ハウント](/haunt)で[ポータル](/portals)を購入し、Aavegotchiを召喚する方法です。 もう1つは、NFTの第二の市場であるAavegotchi[バザール](/baazaar)で、ポータルまたは召喚されたAavegotchiを購入することです。
 
 ### Aavegotchiは取引/販売/購入できますか？
 
-Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aavegotchi [Baazaar](/baazaar). We have an Aavegotchi to Ethereum bridge allowing Aavegotchis to be bought and sold on L1 through marketplaces like Rarible.
+はい、NFTのセカンダリーマーケットプレイス「Aavegotchi [Baazaar（バザール）](/baazaar)」でAavegotchiを売買することができます。 Aavegotchiからイーサリアムへのブリッジがあり、Raribleなどのマーケットプレイスを通じてAavegotchiをL1上で売買することができます。
 
 ### ゴッチバースとは何ですか？
 
-The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
+Gotchiverse（ゴッチバース）は、ブロックチェーン技術の粋を集めたPixelcraft Studio（ピクセルクラフト・スタジオ）のフラッグシップタイトルです。 メタバースはAavegotchiプロトコル上に構築され、AavegotchiDAOを介してコミュニティからの直接のインプットにより共同作成されます。 ゴッチバース内では、プレイヤーはNFTをクラフトし、探索し、交流し、稼ぐことができます。 詳細については、[ライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)と[ゴッチバース・ゲームバイブル](https://github.com/aavegotchi/gotchiverse-bible)をご覧ください。 今すぐ[verse.aavegotchi.com](https://verse.aavegotchi.com/)でプレイを開始することができます。
 
 ### Aavegotchiをプレイするにはいくらかかりますか？
-There are a couple of ways to get an Aavegotchi:
+Aavegotchiを入手するには、いくつかの方法があります：
 
-* Buy a [portal](/portals) during a portal drop, open it, and [claim](/portals#claiming-an-aavegotchi) the Gotchi by staking the minimum required amount of Spirit Force.
+* ポータルドロップ中に[ポータル](/portals)を購入し、それを[開いて](/portals#claiming-an-aavegotchi)、最低限必要な量のスピリットフォースをステークしてゴッチを召喚します。
 
 Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
 
