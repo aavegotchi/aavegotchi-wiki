@@ -57,7 +57,7 @@ Initial amounts of Alchemical Channeling will be discussed in the Alchemical Cha
 
 Managed by [AavegotchiDAO](/dao), 10% of the total supply of Alchemica are set aside for an assortment of onboarding and liquidity activities outside of the Gotchiverse. These tokens will be minted then released via a vesting contract over a **thirty year period**, giving predictability and transparency to the usage of Alchemica within the Gotchiverse ecosystem for years to come.
 
-**Gameplay (15%)**
+**ゲームプレイ（15%）**
 
 Managed by Pixelcraft Studios and the REALM smart contract, these 15% of the total supply of Alchemica represent the budget for Alchemica to be distributed in-game over the lifetime of the Gotchiverse.
 
