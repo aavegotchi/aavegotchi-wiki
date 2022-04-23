@@ -113,13 +113,13 @@ contributors:
 <p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->イーサリアムに移行した状態で、OpenSeaでAavegotchiをトレードできますか？</a></p>
 <li><a href=#technical-faq>テクニカル FAQ</a></li>
 <p><a href=#is-aavegotchi-on-chain->Aavegotchiはオンチェーンですか？</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Aavegotchiでどのウォレットを使用すればよいですか？</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Aavegotchiで使うべきウォレットはどれですか？</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchiはレイヤー2で動作しますか？</a></p>
 <p><a href=#do-i-need-to-migrate-my-aave-tokens->Aaveトークンの移行は必要ですか？</a></p>
 <p><a href=#how-do-i-migrate-to-polygon->Polygonに移行するにはどうすればいいですか？</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->Ledger/Trezorを持っていますが、どうすればいいですか？</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->MetamaskでPolygonのGHSTが表示されないのですが？</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->QuickSwapでLPトークンが表示されないのはなぜですか？</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->レッジャー（Ledger）/トレゾァ（Trezor）を持っていますが、どうすればいいですか？</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->メタマスクでポリゴンGHSTが表示されませんが、なぜですか？</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->QuickSwapで自分のLPトークンが表示されないのはなぜですか？</a></p>
 <p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？</a></p>
 <p><a href=#why-is-metamask-rejecting-my-token-symbol->なぜMetamaskは私のトークンシンボルを拒否するのですか？</a></p>
 <p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>PolygonからGHSTを出金しましたが、待っても届きません。</a></p>
@@ -522,35 +522,35 @@ DiscordのBowtiedNerd#6509にDMを送り、[ギルドウィキページ](/guild)
 
 ### Aavegotchiはオンチェーンですか？
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Aavegotchiゲームのすべての要素は[イーサリアム・ブロックチェーンに保存されています](https://twitter.com/aavegotchi/status/1328548543909351429)。 ダイヤモンドスタンダードを使用した私たちのユニークなデザインについては、[こちら](/glossary#diamond-standard)をご覧ください。
 
-### Aavegotchiでどのウォレットを使用すればよいですか？
+### Aavegotchiで使うべきウォレットはどれですか？
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+私たちのコミュニティの経験では、<a href="https://metamask.io/">Metamask（メタマスク）</a>がAavegotchiで使用するのに最適なオプションです。 メタマスクと[Arkane（アルケーン）ウォレット](https://arkane.network/apps)（近日中にAavegotchiと統合予定）はどちらもERC1155トークンをサポートしており、GHSTトークンに加えてウォレット内のすべての資産（ウェアラブルなど）が見えるようになることを意味します。
 
-For android devices, using the Metamask app with the in-built browser is a good choice.
+アンドロイド端末の場合は、ブラウザ内蔵のメタマスクアプリを使用するのがよいでしょう。
 
 ### Aavegotchiはレイヤー2で動作しますか？
 
-はい！ Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+はい！ Aavegotchiはレイヤー2のソリューションとして[Polygon（ポリゴン）](https://matic.network/)を使用しています。 ポリゴンは強力なチームであり、分散化が進んでおり、OpenSea（オープンシー）のような他のNFTプラットフォームとのネットワーク効果も高いと思われるため、ポリゴンを選択しました。
 
 ### Aaveトークンの移行は必要ですか？
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchiは[Aaveバージョン2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a)のaTokenで動作します。したがって、Aavegotchiを請求しようとする前に、バージョン1のトークンをすべて移行してください。 Stani氏によると、[近々（発売前に）移行ツールをリリース](https://twitter.com/StaniKulechov/status/1334546997827809285)する<予定です。:)
 
-### Polygonに移行するにはどうすればいいですか？
-Check out our [Polygon Migration Guide](/polygon).
+### Polygon（ポリゴン）に移行するにはどうすればいいですか？
+[ポリゴンへの移行ガイド](/polygon)をご覧ください。
 
-### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+### レッジャー（Ledger）/トレゾァ（Trezor）を持っていますが、どうすればいいですか？
+Trezor One（トレゾァ・ワン）を使用してもPolygon（ポリゴン）にアクセスすることは可能です。 それ以外の場合は、今のところ不可能です。 Metamask（メタマスク）ウォレットを新規に作成し、@Jesse | gldnXross#6482にDMを送り、ヘルプを求めることができます。
 
-### MetamaskでPolygonのGHSTが表示されないのですが？
+### メタマスクでポリゴンGHSTが表示されませんが、なぜですか？
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+2つのトランザクションを完了したことを確認してください：(1) 承認手続き、(2) メインネットからポリゴンへの移行手続き。 ポリゴン上のGHSTのトークン・アドレスは以下の通りです： 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### QuickSwapでLPトークンが表示されないのはなぜですか？
+### QuickSwapで自分のLPトークンが表示されないのはなぜですか？
 
-After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
+QuickSwapにLPトークンをステークした後、ウォレットにLPトークンを表示することはできません。 ウォレットに反映させたい場合は、トークンをアンステークしてください。
 
 ### Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？
 **No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
