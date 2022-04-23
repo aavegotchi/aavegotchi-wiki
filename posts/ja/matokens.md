@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+title: 'maToken'
+description: 'AavegotchiのmaTokenのすべて'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/matokens/matoken.png">
-<p class="headerImageText">maTokens!</p>
+<p class="headerImageText">maToken！</p>
 </div>
 
 What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
@@ -21,14 +21,14 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 **目次**
 
 <ol>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
-<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Aavegotchi達にmaTokenをステーキング</a></li>
+<li><a href=#problems-while-staking-spirit-force>スピリットフォースをステーキングした際に起きる問題点</a></li>
 <li><a href=#learn-more>もっと詳しく</a></li>
 </ol>
 
 </div>
 
-## Staking maTokens into Aavegotchis
+## Aavegotchi達にmaTokenをステーキング
 
 Okay, I've gotten myself some maTokens. What now?
 
@@ -38,7 +38,7 @@ The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals c
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
-## Problems while staking Spirit Force
+## スピリットフォースをステーキングした際に起きる問題点
 
 There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
 
