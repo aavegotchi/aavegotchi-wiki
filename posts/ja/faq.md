@@ -65,14 +65,14 @@ contributors:
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->ウェアラブル商品券をポリゴンに転送する必要がありますか？</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->各ウェアラブルの数量には限りがありますか？</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>Aavegotchiからウェアラブルを外したのですが、インベントリにウェアラブルが見当たりません</a></p>
-<p><a href=#why-are-there-missing-ids-in-the-wearables-page->ウェアラブルのページでIDが表示されないのはなぜですか？</a></p>
+<p><a href=#why-are-there-missing-ids-in-the-wearables-page->ウェアラブルのページで、IDが抜けているのはなぜですか？</a></p>
 <li><a href=#portal-faq>ポータルに関するFAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->1回の取引でいくつのポータルを購入できますか？</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->ポータルを開いたものの、ゴッチを受け取るために必要なaTokenを持っていない場合、後で受け取りに来れますか？</a></p>
 <p><a href=#when-will-portals-be-released->ポータルはいつ公開されますか？</a></p>
 <li><a href=#aavegotchidao-faq>AavegotchiDAOに関するFAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->アラゴンでトラスト・ウォレットを使用して投票するにはどうしたらいいですか？</a></p>
-<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Snapshot Votingで間違ったタイムスタンプが表示されるのはなぜですか？</a></p>
+<p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->スナップショット投票で間違ったタイムスタンプが表示されるのはなぜですか？</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->なぜシグナルプロポーザルで20%の定数なのですか？</a></p>
 <p><a href=#why-two-votes->なぜ2回の投票が必要なのですか？</a></p>
 <p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->GHSTの予算をポータルとウェアラブルにすべて使ってしまったのですが、声が出なくなった</a></p>
@@ -325,56 +325,56 @@ First Come First Serve（＝早い者勝ち）NFTドロップでは、自動化�
 オークションの最後の5分間に入札が行われた場合、「ハンマータイム」はさらに5分延長されます。 これにより、ボットがオークション終了時に入札を行うことを防ぐことができます。
 
 ### NFTを請求するにはどうしたらいいですか？
-If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+オークション終了時に最高入札者であれば、「私の入札」ページに「NFTを請求」ボタンが表示されますので、直接ウォレットにNFTを請求することができます。
 
 ## ウェアラブルに関するFAQ
 
 ### ウェアラブル商品券をポリゴンに転送する必要がありますか？
-いいえ。 Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+いいえ。 Aavegotchiの発売と同時に、請求済み、未請求のウェアラブルバウチャーが自動的にポリゴンに転送されます。
 
 ### 各ウェアラブルの数量には限りがありますか？
-Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+はい、あります。 各ウェアラブルには数量に限りがあります。 数量は[ウェアラブルのページ](/wearables)で確認できます。
 
-For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+モールで購入したウェアラブルは、一度売り切れると二度とモールで販売することはありません。 そのウェアラブルを持っている他の人からしか購入することができません。
 
 ### Aavegotchiからウェアラブルを外したのですが、インベントリにウェアラブルが見当たりません
-Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
+Aavegotchiにはそれぞれ[ゴッチポケット](/aavegotchi-profile#gotchi-pocket)と呼ばれるインベントリがあります。 Aavegotchiからウェアラブルを取り外すと、取り外されたウェアラブルはそのAavegotchiのゴッチポケットに入ります。
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+あなた（オーナー）にも、別のインベントリーがあります。 おそらく、自分のインベントリに装備されていないウェアラブルが見つからないことを指しているのでしょう。
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+各[Aavegotchiのプロフィールページ](/aavegotchi-profile)で、画面右下に「ポケット」ボタンがあります。 これをクリックし、Aavegotchiのゴッチポケットから個人のインベントリに未装備のウェアラブルを転送してください。
 
-### ウェアラブルのページでIDが表示されないのはなぜですか？
-These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
+### ウェアラブルのページで、IDが抜けているのはなぜですか？
+ID162～198、210のアイテムは、ウェアラブルではありません。 [バッジ](/baadge)とハウント1の背景を表しています。
 
 ## ポータルに関するFAQ
 
 ### 1回の取引でいくつのポータルを購入できますか？
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+1回の取引で購入できるポータルは、1人あたり50個までです。 これは、クジラが一度に大量のポータルを独占してしまうことを防ぐためです。
 
 ### ポータルを開いたものの、ゴッチを受け取るために必要なaTokenを持っていない場合、後で受け取りに来れますか？
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+はい、ポータルを開いたまま、特定のaTokenを取得しに行き、後でゴッチを召喚しに来ることができます。 事前にaTokenを用意する必要はありません。
 
 ### ポータルはいつ公開されますか？
-Portals will be released on Polygon at February.
+ポータルは2月にポリゴンで公開される予定です。
 
 ## AavegotchiDAOに関するFAQ
 
 ### アラゴンでトラスト・ウォレットを使用して投票するにはどうしたらいいですか？
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+現時点では、アラゴンはまだトラスト・ウォレットを統合していません。 別の方法として、トラスト・ウォレットからMetamask（メタマスク）にプライベート鍵をインポートすることができます。 一旦メタマスクに取り込むと、アラゴンで投票できるようになります。
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+投票方法については[こちら](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194)をご覧ください。
 
-### Snapshot Votingで間違ったタイムスタンプが表示されるのはなぜですか？
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+### スナップショット投票で間違ったタイムスタンプが表示されるのはなぜですか？
+デバイス/コンピュータのタイムスタンプが、Snapshot（スナップショット）のタイムスタンプと異なるためです。 コンピュータの時間を自動に設定すれば、スナップショットのタイムスタンプと一致するように調整されます。
 
 ### なぜシグナルプロポーザルで20%の定数なのですか？
-A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
+20%の定足数により、コミュニティの関心が高いシグナルプロポーザルはコア投票が保証され、一方、アイデアやよりニッチな提案もその人気を試すプラットフォームが確保されるからです。
 
 ### なぜ2回の投票が必要なのですか？
-There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
+定足数20%に達した（そして過半数の支持を得た）シグナルプロポーザルが、コアプロポーザルとして2回目の投票を必要とするのには、2つの大きな理由があります。 第一に、より広いコミュニティが日常的に拘束票を監視しているわけではありませんし、監視することを期待されてもいません。 コアプロポーザルは、すべてのソーシャルネットワークで放送され、すべてのタイプのコミュニティのメンバーに通知される、よりまれな出来事です。
 
-Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
+第二に、一部のシグナル提案が、シグナル提案の所定のテンプレート（[こちら](/dao#creating-signal-proposals)を参照）に適切に従わないまま定足数を達成することは十分にあり得ますし、その可能性も高いと思われます。 この場合、提案の内容を調整し、テンプレートのすべての面を満足させる必要があるかもしれません。
 
 **If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
 
