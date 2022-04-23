@@ -12,9 +12,9 @@ contributors:
 <p class="headerImageText">レディー・プレイヤー・ワン！</p>
 </div>
 
-From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
+Aavegotchiの[ミニゲーム](/minigames)でXPイベントが開催されることがあります。 ゴッチたちはリーダーボードで互いに競い合い、段階的に[XP](/xp)の報酬を得ることができます。
 
-This page details the past mini-game XP events.
+このページでは、過去に開催されたミニゲームのXPイベントの詳細をご紹介します。
 
 <div class="contentsBox">
 
@@ -23,8 +23,8 @@ This page details the past mini-game XP events.
 <ol>
 <li><a href=#gotchi-the-gaatherer>ゴッチ・ザ・ギャザラー</a></li>
 <li><a href=#snaake>スネーク</a></li>
-<li><a href=#sushi-vader--1->Sushi Vader (1)</a></li>
-<li><a href=#whac-a-rofl>ロッフル叩き（もぐら叩き）ゲーム</a></li>
+<li><a href=#sushi-vader--1->スシベーダー（1）</a></li>
+<li><a href=#whac-a-rofl>ロッフル叩きゲーム</a></li>
 <li><a href=#astegotchi>アステゴッチ</a></li>
 <li><a href=#sushi-vader--2->スシベーダー（2）</a></li>
 <li><a href=#pinbaal>ピンボール</a></li>
