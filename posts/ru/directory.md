@@ -125,6 +125,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Коллекция uGOTCHI](/ugotchi)
 
+* [Weapons](/weapons)
+
 * [Элементы экипировки](/wearables)
 
 * [XP](/xp)

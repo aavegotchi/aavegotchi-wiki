@@ -1,76 +1,76 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mini-Game XP Events'
-description: 'Mini-Game XP Events'
+title: 'ミニゲームXPイベント'
+description: 'ミニゲームXPイベント'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/minigame-xp-events/Aarcade_Machine.png">
-<p class="headerImageText">Ready Player One!</p>
+<p class="headerImageText">レディー・プレイヤー・ワン！</p>
 </div>
 
-From time to time, XP events will be held for selected Aavegotchi [mini-games](/minigames). Gotchis have to compete against one another on a leaderboard for tiered [XP](/xp) rewards.
+Aavegotchiの[ミニゲーム](/minigames)でXPイベントが開催されることがあります。 ゴッチたちはリーダーボードで互いに競い合い、段階的に[XP](/xp)の報酬を得ることができます。
 
-This page details the past mini-game XP events.
+このページでは、過去に開催されたミニゲームのXPイベントの詳細をご紹介します。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#gotchi-the-gaatherer>Gotchi the Gaatherer</a></li>
-<li><a href=#snaake>Snaake</a></li>
-<li><a href=#sushi-vader--1->Sushi Vader (1)</a></li>
-<li><a href=#whac-a-rofl>Whac-a-Rofl</a></li>
-<li><a href=#astegotchi>Astegotchi</a></li>
-<li><a href=#sushi-vader--2->Sushi Vader (2)</a></li>
-<li><a href=#pinbaal>Pinbaal</a></li>
+<li><a href=#gotchi-the-gaatherer>ゴッチ・ザ・ギャザラー</a></li>
+<li><a href=#snaake>スネーク</a></li>
+<li><a href=#sushi-vader--1->スシベーダー（1）</a></li>
+<li><a href=#whac-a-rofl>ロッフル叩きゲーム</a></li>
+<li><a href=#astegotchi>アステゴッチ</a></li>
+<li><a href=#sushi-vader--2->スシベーダー（2）</a></li>
+<li><a href=#pinbaal>ピンボール</a></li>
 </ol>
 
 </div>
 
-## Gotchi the Gaatherer
+## ゴッチ・ザ・ギャザラー
 
-Event Duration: 13 - 19 May 2021
+イベント開催期間：2021年5月13〜19日
 
-table_gotchiTheGaatherer
+表_gotchiTheGaatherer
 
-## Snaake
+## スネーク
 
-Event Duration: 26 - 30 May 2021
+イベント開催期間：2021年5月26〜30日
 
-table_snaake
+表_snaake
 
-## Sushi Vader (1)
+## スシベーダー（1）
 
-Event Duration: 2 - 6 June 2021
+イベント開催期間：2021年6月2〜6日
 
-table_sushiVader1
+表_sushiVader1
 
-## Whac-a-Rofl
+## ロッフル叩き（もぐら叩き）ゲーム
 
-Event Duration: 12 - 19 August 2021
+イベント開催期間：2021年8月12〜19日
 
-table_whacARofl
+表_whacARofl
 
-## Astegotchi
+## アステゴッチ
 
-Event Duration: 23 - 26 November 2021
+イベント開催期間：2021年11月23〜26日
 
-table_astegotchi
+表_astegotchi
 
-## Sushi Vader (2)
+## スシベーダー（2）
 
-Event Duration: 4 - 11 January 2022
+イベント開催期間：2022年1月4〜11日
 
-table_sushiVader2
+表_sushiVader2
 
-## Pinbaal
+## ピンボール
 
-Event Duration: 29 January - 6 February 2022
+イベント開催期間：2022年1月29日〜2月6日
 
-table_pinbaal
+表_pinbaal
 

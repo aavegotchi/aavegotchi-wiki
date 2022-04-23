@@ -35,31 +35,32 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <ol>
 <li><a href=#key>Расшифровка.</a></li>
 <li><a href=#voting-power>Право голоса экипировки.</a></li>
-<li><a href=#link-themed-set>Тематический набор LINK.</a></li>
-<li><a href=#aave-themed-set>Тематический набор Aave.</a></li>
-<li><a href=#ethereum-themed-set>Тематический набор Ethereum.</a></li>
-<li><a href=#aagent-wearables-set>Набор экипировки Агента.</a></li>
-<li><a href=#wizard-wearables-set>Набор экипировки Волшебника.</a></li>
-<li><a href=#farmer-wearables-set>Набор экипировки Фермера.</a></li>
-<li><a href=#santa-wearables-set>Набор экипировки Санты.</a></li>
-<li><a href=#okex-wearables>Набор экипировки OKex.</a></li>
-<li><a href=#skater-wearables-set>Набор экипировки Скейтера.</a></li>
-<li><a href=#sushi-wearables-set>Набор экипировки Суши.</a></li>
-<li><a href=#gentleman-wearables-set>Набор экипировки Джентльмена.</a></li>
-<li><a href=#miner-wearables-set>Набор экипировки Майнера.</a></li>
-<li><a href=#pajamas-wearables-set>Набор экипировки Пижама.</a></li>
-<li><a href=#runner-wearables-set>Набор экипировки Бегуна.</a></li>
-<li><a href=#lady-wearables-set>Набор экипировки Леди.</a></li>
-<li><a href=#witchy-wearables-set>Набор экипировки Колдуньи.</a></li>
-<li><a href=#portal-wearables-set>Набор экипировки Портал.</a></li>
-<li><a href=#rasta-wearables-set>Набор экипировки Растамана.</a></li>
-<li><a href=#hazmat-wearables-set>Набор экипировки Химзащиты.</a></li>
-<li><a href=#vacation-wearables-set>Набор экипировки Отпускника.</a></li>
-<li><a href=#independent-drink-items>Напитки.</a></li>
-<li><a href=#independent-head-items>Головные уборы.</a></li>
-<li><a href=#independent-body-items>Одежда.</a></li>
+<li><a href=#weapons>Weapons</a></li>
+<li><a href=#link-themed-set>LINK Themed Set</a></li>
+<li><a href=#aave-themed-set>Aave Themed Set</a></li>
+<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
+<li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
+<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
+<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
+<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
+<li><a href=#okex-wearables>OKex Wearables</a></li>
+<li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
+<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
+<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
+<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
+<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
+<li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
+<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
+<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
+<li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
+<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
+<li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
+<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
+<li><a href=#independent-drink-items>Independent Drink Items</a></li>
+<li><a href=#independent-head-items>Independent Head Items</a></li>
+<li><a href=#independent-body-items>Independent Body Items</a></li>
 <li><a href=#consumables>Расходники.</a></li>
-<li><a href=#layer-2-themed-set>Тематический набор 2 уровня Polygon.</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
 <li><a href=#auction-wearables>Auction Wearables</a></li>
 <li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
@@ -96,115 +97,123 @@ With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-base
 
 table_wearablesVotingPower
 
-## Тематический набор LINK
+## Weapons
+
+Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
+
+Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+
+Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+
+## LINK Themed Set
 
 Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
-## Тематический набор Aave
+## Aave Themed Set
 
 The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
-## Тематический набор Ethereum
+## Ethereum Themed Set
 
 The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
-## Набор экипировки Агента
+## Aagent Wearables Set
 
 The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
-## Набор экипировки Волшебника
+## Wizard Wearables Set
 
 table_wizardWearablesTable
 
-## Набор экипировки Фермера
+## Farmer Wearables Set
 
 table_farmerWearablesTable
 
-## Набор экипировки Санты
+## Santa Wearables Set
 
 One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
-## Набор экипировки OKex
+## OKex Wearables
 
 On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
-## Набор экипировки Скейтера
+## Skater Wearables Set
 
 table_skaterWearablesTable
 
-## Набор экипировки Суши
+## Sushi Wearables Set
 
 table_sushiWearablesTable
 
-## Набор экипировки Джентльмена
+## Gentleman Wearables Set
 
 table_gentlemanWearablesTable
 
-## Набор экипировки Майнера
+## Miner Wearables Set
 
 table_minerWearablesTable
 
-## Набор экипировки Пижама
+## Pajamas Wearables Set
 
 table_pajamasWearablesTable
 
-## Набор экипировки Бегуна
+## Runner Wearables Set
 
 table_runnerWearablesTable
 
-## Набор экипировки Леди
+## Lady Wearables Set
 
 table_ladyWearablesTable
 
-## Набор экипировки Колдуньи
+## Witchy Wearables Set
 
 table_witchyWearablesTable
 
-## Набор экипировки Портал
+## Portal Wearables Set
 
 table_portalWearablesTable
 
-## Набор экипировки Растамана
+## Rasta Wearables Set
 
 table_rastaWearablesTable
 
-## Набор экипировки Химзащиты
+## Hazmat Wearables Set
 
 table_hazmatWearablesTable
 
-## Набор экипировки Отпускника
+## Vacation Wearables Set
 
 table_vacationWearablesTable
 
-## Напитки
+## Independent Drink Items
 
 table_independentDrinksTable
 
-## Головные уборы
+## Independent Head Items
 
 table_independentHeadTable
 
-## Одежда
+## Independent Body Items
 
 table_independentBodyTable
 
-## Расходники
+## Расходники.
 
 table_consumablesTable
 
-## Тематический набор 2 уровня Polygon
+## Layer 2 Themed Set
 
 The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
 
