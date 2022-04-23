@@ -75,13 +75,13 @@ contributors:
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->スナップショット投票で間違ったタイムスタンプが表示されるのはなぜですか？</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->なぜシグナルプロポーザルで20%の定数なのですか？</a></p>
 <p><a href=#why-two-votes->なぜ2回の投票が必要なのですか？</a></p>
-<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->GHSTの予算をポータルとウェアラブルにすべて使ってしまったのですが、声が出なくなった</a></p>
+<p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->GHSTの予算をポータルとウェアラブルに使いきってしまったのですが、私にひとこと言える権利はあるのかしら？</a></p>
 <p><a href=#what-about-funding-proposals->資金調達の提案はどうなっていますか？</a></p>
 <li><a href=#gameplay-faq>ゲームプレイに関するFAQ</a></li>
-<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->特性値が高いほどレアリティが高いのですか？</a></p>
+<p><a href=#do-higher-trait-scores-always-mean-higher-rarity->特性スコアが高ければ高いほどレアリティが高いのですか？</a></p>
 <p><a href=#how-much-does-it-cost-to-play->プレイするにはいくらかかりますか？</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->ステークされる担保を変更すると、キンシップレベルに影響が出ますか？</a></p>
-<li><a href=#gotchiverse-faq>ゴッチバースに関するFAQ</a></li>
+<li><a href=#gotchiverse-faq>Gotchiverse（ゴッチバース）に関するFAQ</a></li>
 <p><a href=#what-is-the-gotchiverse->ゴッチバースとは何ですか？</a></p>
 <p><a href=#what-is-gotchus-alchemica->ゴッチュス・アルケミカ（Gotchus Alchemica）とは何ですか？</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->アルケミカ・アールターとは何ですか？</a></p>
@@ -376,37 +376,37 @@ ID162～198、210のアイテムは、ウェアラブルではありません。
 
 第二に、一部のシグナル提案が、シグナル提案の所定のテンプレート（[こちら](/dao#creating-signal-proposals)を参照）に適切に従わないまま定足数を達成することは十分にあり得ますし、その可能性も高いと思われます。 この場合、提案の内容を調整し、テンプレートのすべての面を満足させる必要があるかもしれません。
 
-**If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**シグナルプロポーザルが定足数の20%に達しない場合、これは提案のメリットを否定するものではなく、単にその提案が自動的に拘束力のある、コミュニティ全体の投票に格上げされないことを意味します。**良いアイデアでよく書かれたシグナルプロポーザルは、依然としてDAOへの健全な貢献とみなされるべきであり、ピクセルクラフトと将来のコミュニティの提案に影響を与える可能性が非常に高いです。 ピクセルクラフトは時折、定足数に達しなかったシグナルプロポーザルを選択し、それに基づいてコアプロポーザルを作成することがあります。
 
-### GHSTの予算をポータルとウェアラブルにすべて使ってしまったのですが、声が出なくなった
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+### GHSTの予算をポータルとウェアラブルに使いきってしまったのですが、私にひとこと言える権利はあるのかしら？
+あなたは運がいい！ Aavegotchiでは、GHSTを保有するだけでなく、Aavegotchiの所有権に基づいて議決権を割り当てることを常に意図しています。 [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price)の可決により、ウェアラブルはAavegotchiDAOで投票権を持つようになりました。 ウェアラブルの議決権（GHSTで測定）は、レアリティタイプ/モール価格に基づいて決定されます。 詳しくは[こちら](/wearables#voting-power)をご覧ください。
 
 ### 資金調達の提案はどうなっていますか？
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+資金調達の依頼は、*コクーン*の提案書テンプレートにはありません。これは、主に「走る前に歩く」という原則から、財政的な複雑さを導入する前に、健全なフレームワークを確立することに集中するためです。
 
-**Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
+**資金調達の提案は確かにメタモルフォーシスの中心的な機能ですが、コクーンの焦点はゲームの仕組みを決定することにあります。**
 
-That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+とはいえ、*コクーン*は実験的なガバナンスの段階であり、良いアイデアが大きな支持を集め、実際にDAOの宝庫資金を必要とする可能性もないわけではありません。 そのような状況では、間違いなくギャラクシーレベルの投票と20%の定足数を必要とします。 ですから、基本的に私たちはそれを奨励しませんが、同時に私たちは決して「絶対」と言うべきでないことも覚えておいてください。
 
 ## ゲームプレイに関するFAQ
 
 
-### 特性値が高いほどレアリティが高いのですか？
+### 特性スコアが高ければ高いほどレアリティが高いのですか？
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Aavegotchiのレアリティはベル曲線に基づいています。つまり、**極端に高い特性スコアも極端に低い特性スコアも**望ましいとされています。 0～100の中間に位置する<a href="https://wiki.aavegotchi.com/traits">特性スコア</a>は、より一般的です。
 
 ### プレイするにはいくらかかりますか？
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+ポータルは、最初のハウントで100GHSTかかると予想されます。 ウェアラブル、消耗品、土地などの他のアイテムのコストは、正式にリリースされた時点で発表されます。ただし、ゲーム開始後、[DAO](/dao)は**ガバナンスの投票によって資産価格を調整する権限を持つ**ことになります。 それまでの間、[バザール](/baazaar)で特定のウェアラブルのオープンマーケット価格を確認することができます。
 
 ### ステークされる担保を変更すると、キンシップレベルに影響が出ますか？
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+いいえ。Aavegotchiでステークされている担保／トークンを増減しても、キンシップレベルには影響しません。
 
-## ゴッチバースに関するFAQ
+## Gotchiverse（ゴッチバース）に関するFAQ
 
 ### ゴッチバースとは何ですか？
 
-The Gotchiverse is the Aavegotchi NFT Gaming Protocol’s flagship game. We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコルのフラッグシップゲームです。 We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
 
 ### ゴッチュス・アルケミカ（Gotchus Alchemica）とは何ですか？
 
