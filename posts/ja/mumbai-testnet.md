@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mumbai Testnet Tutorial'
-description: 'Mumbai Testnet Tutorial'
+title: 'Mumbai Testnet チュートリアル'
+description: 'Mumbai Testnet チュートリアル'
 contributors:
   - "unintelligent-nerd"
 ---
