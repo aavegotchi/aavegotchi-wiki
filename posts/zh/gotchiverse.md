@@ -100,6 +100,8 @@ Some parcels will be next to or adjacent to Alchemica deposits. These parcels wi
 
 To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
 
+REALM parcels that are adjacent to one another can be used to form [estaates](/estaates).
+
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
 ## REALM Gameplay
