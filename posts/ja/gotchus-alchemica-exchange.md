@@ -84,7 +84,7 @@ The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in 
 
 GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
 
-**Tokenomics**
+**トークノミックス**
 
 * Max supply: 1,000,000,000,000 (1 trillion)
 
