@@ -134,15 +134,15 @@ contributors:
 
 ### Aavegotchiとは何ですか？
 
-Aavegotchi is an open-source, community owned NFT gaming protocol, enabling true asset ownership for gamers. Aavegotchi NFTs are on-chain collectible ghosts staked with Aave’s interest-generating aTokens.
+Aavegotchiは、コミュニティが所有する NFT オープンソース・ゲームプロトコルであり、ゲーマーの真の資産所有権を可能にします。 Aavegotchi NFTは、Aaveの利子の貯まるaTokenが備わっているオンチェーン・コレクティブル・ゴーストです。
 
 ### Aavegotchiはどのブロックチェーン上にあるのですか？
 
-Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
+Aavegotchiは、イーサリアムの主要なサイドチェーンであるポリゴン（Polygon）上に展開されています。
 
 ### AavegotchiはAaveの公式プロジェクトですか？ Aaveはどの程度関わっていますか？
 
-Aavegotchi is a recipient of an Aave Ecosystem Grant, but we are not an official Aave project. However, Aave has been extremely helpful and we’re in close contact with the team. In fact, Stani Kulechov, the founder of Aave, was our first advisor.
+AavegotchiはAaveエコシステム助成金の受給者ですが、公式のAaveプロジェクトではありません。 しかし、Aaveは非常に協力的で、私たちはチームと密接に連絡を取り合っています。 実際、Aaveの創設者であるStani Kulechov氏は、私たちの最初のアドバイザーでした。
 
 ### Aavegotchiはどのように入手できますか？
 
