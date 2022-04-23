@@ -39,7 +39,9 @@ contributors:
 
 * [Nhà phát triển](/developers)
 
-* [Hình Dạng Mắt](/eye-shape)
+* [Estaates](/estaates)
+
+* [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
 
