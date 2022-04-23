@@ -1,13 +1,13 @@
 ---
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
-title: 'Polygon'
-description: 'Polygon Tutorial'
+title: 'Polygon（ポリゴン）'
+description: 'ポリゴンチュートリアル'
 contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+こんにちはフレン! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
 
 In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
 
