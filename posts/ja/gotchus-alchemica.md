@@ -7,55 +7,55 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Gotchus Alchemica are the 4 elements of the [Gotchiverse](/gotchiverse):
+ゴッチュス・アルケミカは[ゴッチバース](/gotchiverse)の４元素のことです：
 
-* FUD
-* FOMO
-* ALPHA
-* KEK
+* FUD（ファッド）
+* FOMO（フォモ）
+* ALPHA（アルファ）
+* KEK（ケック）
 
-They are on-chain, freely tradable ERC-20 tokens.
+これらはオンチェーン上にあり、自由に取引可能なERC-20トークンです。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#utility>Utility</a></li>
+<li><a href=#utility>ユーティリティ</a></li>
 <li><a href=#tokenomics>トークノミックス</a></li>
 </ol>
 
 </div>
 
-### Utility
+### ユーティリティ
 
-Gotchus Alchemica can be combined to craft [Installations and Aesthetica](/gotchiverse#building-on-realm-parcels).
+ゴッチュスアルケミカを組み合わせて[インスタレーションやエステティカ](/gotchiverse#building-on-realm-parcels)といった構造物がクラフトできます。
 
 ### トークノミックス
 
-**Total Supply**
+**総供給量**
 
-* FUD: 100,000,000,000 (100 Billion)
+* FUD: 100,000,000,000（1000億）
 
-* FOMO: 50,000,000,000 (50 Billion)
+* FOMO: 50,000,000,000（500億）
 
-* ALPHA: 25,000,000,000 (25 Billion)
+* ALPHA: 25,000,000,000（250億）
 
-* KEK: 10,000,000,000 (10 Billion)
+* KEK: 10,000,000,000（100億）
 
-**Alchemica Supply Allocation**
+**アルケミカ供給の割り当て**
 
-table_totalSupplyAllocation
+表_totalSupplyAllocation
 
-**Channeling (25%)**
+**チャネリング（25%）**
 
-The budget for Alchemical and Communal Channeling, to be distributed throughout the lifetime of the Gotchiverse is **25% of the total supply for each token.** To prevent excessive inflation, new Alchemica are only minted when the balance of the Great Portal is less than its capacity (see Crafting Revenue Distribution section below).
+アルケミカとコミュナルチャネリングの予算は、ゴッチバースの寿命を通じて分配され、**各トークンの総供給量の25％**です。過度なインフレを防ぐため、新しいアルケミカはグレートポータルの残高がその容量を下回った場合にのみミントされます（下記の「クラフトの収益分配」の項を参照）。
 
-Initial amounts of Alchemical Channeling will be discussed in the Alchemical Channeling section of Chapter 3.
+アルケミカの初期量については、第3章の「アルケミカ・チャネリング」の項で説明します。
 
-**Ecosystem (10%)**
+**エコシステム (10%)**
 
-Managed by [AavegotchiDAO](/dao), 10% of the total supply of Alchemica are set aside for an assortment of onboarding and liquidity activities outside of the Gotchiverse. These tokens will be minted then released via a vesting contract over a **thirty year period**, giving predictability and transparency to the usage of Alchemica within the Gotchiverse ecosystem for years to come.
+[AavegotchiDAO](/dao)によって管理され、アルケミカの総供給量の10％がゴッチバースの外でのオンボーディングと流動性の活動のために確保されます。 これらのトークンは、**30年以上の期間**、権利確定契約を通じてミントされ、今後数年間、ゴッチバースエコシステム内のアルケミカの使用に予測可能性と透明性を与えるためにリリースされます。
 
 **ゲームプレイ（15%）**
 
