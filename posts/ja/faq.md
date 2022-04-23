@@ -480,43 +480,43 @@ Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコ
 
 ### ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DiscordのBowtiedNerd#6509にDMを送り、[ギルドウィキページ](/guild)にある必要な情報をすべて伝えてください。
 
 ## ブリッジングFAQ
 
 ### Aavegotchiがイーサリアムにブリッジされた後、Aavegotchiはまだペットできますか？
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**はい**、Gotchi World（ゴッチワールド）とGotchi Care（ゴッチケア＝ゴッチペッティングサービス）の開発者は、ブリッジされたすべてのAavegotchiを自動ペットされるようにしてくれました。 イーサリアムにいる間、Aavegotchiは毎日2ポイントずつキンシップ（親密度）を上げていきますが、ご主人様の訪問を待っています。 宇宙で一人は寂しいです。
 
 ### Aavegotchiがイーサリアムにある場合でも、レアリティ・ファーミングの報酬を得ることができますか？
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**はい**、あなたのゴッチは、ブリッジされている間、3つのカテゴリ全てのレアリティファーミングの報酬の対象となります。 すべての報酬は直接ポケットに送られます。
 
 ### ウェアラブルを装備したままゴッチをブリッジできますか？
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**はい**、ブリッジする前に好きなだけウェアラブルを装備することができます。ただし、イーサリアム上では、Aavegotchiはこれ以上衣装を変更することができませんのでご注意ください。
 
 ### イーサリアムにいる間、私のゴッチはウェアラブルを装備したり外したりすることができますか？
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**いいえ**。あなたのゴッチは基本的にブリッジされた瞬間のスナップショットとしてフリーズされます。 しかし、いつでも元のポリゴンにブリッジすることができます（通常のブリッジ料金がかかります）。
 
 ### イーサリアムにいる間、私のAavegotchiを使って、今後リリースされるゴッチバースで遊ぶことはできますか？
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**いいえ**、ゴッチバースはポリゴン上で動作するため、イーサリアム・メインネット上のゴッチはゴッチバースに参加することができません。 いつでもブリッジし直して遊ぶことができます。
 
-### 個々のウェアラブル、ポータル、消耗品もイーサリアムにブリッジしてRaribleに出品することは可能ですか？
+### 個々のウェアラブル、ポータル、および消耗品は、イーサリアムにブリッジされ、同様にRarible（ラリブル）にリストすることができますか？
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**はい**、でも**まだです**。 ポータルはERC-721トークンなので、すぐに可能です。 ウェアラブルと消耗品はERC-1155アイテムで、今後数週間のうちに独自のブリッジが開かれる予定です。
 
-### Raribleを通じてイーサリアムでAavegotchiを購入した場合、それをポリゴンに戻すにはどのようにブリッジすればよいですか？
+### Rarible（ラリブル）を通じてイーサリアムでAavegotchiを購入した場合、それをポリゴンに戻すにはどのようにブリッジすればよいですか？
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+[aavegotchi.com/bridge](https://aavegotchi.com/bridge)にアクセスするだけです。 いつでも好きなときにブリッジバックすることができます。
 
 ### イーサリアムにブリッジされた状態で、バザールでAavegotchiを売ることはできますか？
-**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
+**いいえ**、Aavegotchi がブリッジされている間は、Rarible（ラリブル）などのイーサリアムマーケットプレイスでのみ取引できます。
 
-### イーサリアムに移行した状態で、OpenSeaでAavegotchiをトレードできますか？
-**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
+### イーサリアムに移行した状態で、OpenSea（オープンシー）でAavegotchiをトレードできますか？
+**はい**、あなたのゴッチをイーサリアムベースのNFT市場で取引することができますが、Rarible（ラリブル）で取引するときだけRARIを獲得することができます！
 
 ## テクニカル FAQ
 
