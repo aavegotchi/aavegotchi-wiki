@@ -100,7 +100,7 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 人間でも理解できるように、各区画にはユニークな3つの単語の組み合わせが割り当てられます。 これは、TokenIDとはまた別に付けられるものです。 ユーザーは、ゴッチバースサイトの検索ボックスを使って、探している単語を含む区画を特別にフィルタリングすることができます。
 
-REALM parcels that are adjacent to one another can be used to form [estaates](/estaates).
+互いに隣接するレルムパーセルをくっ付けて[エステート（estaates）](/estaates)として使用できます。
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
@@ -108,7 +108,7 @@ REALM parcels that are adjacent to one another can be used to form [estaates](/e
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/lickquidator.gif" class="headerImage" alt="リッキデーター">
-<p class="headerImageText">リッキデーター</p>
+<p class="headerImageText">リックィデーター</p>
 </div>
 
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
@@ -285,11 +285,11 @@ Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KE
 
 table_alchemicalBoostsAndAmountPerLocation
 
-**Replenishings**
+**補充**
 
 After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
 
-**Alchemica Bubble Ups**
+**アルケミカ・バブル・アップ**
 
 The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
 
