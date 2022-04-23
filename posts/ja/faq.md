@@ -84,20 +84,20 @@ contributors:
 <li><a href=#gotchiverse-faq>Gotchiverse（ゴッチバース）に関するFAQ</a></li>
 <p><a href=#what-is-the-gotchiverse->ゴッチバースとは何ですか？</a></p>
 <p><a href=#what-is-gotchus-alchemica->ゴッチュス・アルケミカ（Gotchus Alchemica）とは何ですか？</a></p>
-<p><a href=#what-is-an-alchemical-aaltar->アルケミカ・アールターとは何ですか？</a></p>
+<p><a href=#what-is-an-alchemical-aaltar->アルケミカル・アールター（Alchemical Aaltar）とは何ですか？</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->プレイするにはAavegotchiが必要ですか？</a></p>
 <li><a href=#gotchi-lending-faq>ゴッチレンディングに関するFAQ</a></li>
 <p><a href=#who-pets-a-lent-aavegotchi->貸したAavegotchiは誰がペットするのですか？</a></p>
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Aavegotchiを貸した後、早めに回収する方法はありますか？</a></p>
 <p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->借り手はAavegotchiに装備するものを追加したり取り外したりすることができますか？</a></p>
-<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->レンタル期間が終了したら、Aavegotchiを再登録する必要がありますか？</a></p>
-<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->「ホワイトリスト」フィールドがウォレットアドレスを受け付けないのはなぜですか？</a></p>
+<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->レンタル期間が終了したら、Aavegotchiを再出品する必要がありますか？</a></p>
+<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->「ホワイトリスト」の項目がウォレットアドレスを受け付けないのはなぜですか？</a></p>
 <li><a href=#aambassador-faq>アーンバサダー（Aambassador）に関する FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->アーンバサダーとして毎月報告書を提出する必要がありますか？</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->ゴッチギャング（#GotchiGang）はどれくらいの大きさにすればいいのですか？</a></p>
 <p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->私が欲しい#GotchiGangの名前がすでに他の人に取られていた場合はどうすればいいですか？</a></p>
 <p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->私はすでにAavegotchiをテーマにしたグループを持っています。 アーンバサダーに応募したほうがよいですか？</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->ここにない質問があります。 どこで質問すればよいですか？</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->ここに答えがない質問があります。 どこで質問すればよいですか？</a></p>
 <li><a href=#guild-faq>ギルドFAQ</a></li>
 <p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->アーンバサダーグループとギルドの違いは何ですか？</a></p>
 <p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？</a></p>
@@ -406,77 +406,77 @@ Aavegotchiのレアリティはベル曲線に基づいています。つまり�
 
 ### ゴッチバースとは何ですか？
 
-Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコルのフラッグシップゲームです。 We like to think of it as “Clash of Clans” meets “Stardew Valley” meets “Eve Online”, an open-world combining elements of farming, socializing, battling, and world exploration, all powered by the Blockchain and governed by the players.
+Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコルのフラッグシップゲームです。 私たちは、「クラッシュ・オブ・クラン」、「スターデュー・バレー」、「イブ・オンライン」、ファーミング、ソーシャル、バトル、世界探検の要素を組み合わせたオープンワールド、ブロックチェーンによって駆動し、プレイヤーによって管理されるゲームだと考えています。
 
 ### ゴッチュス・アルケミカ（Gotchus Alchemica）とは何ですか？
 
-Gotchus Alchemica are the four elements of the Gotchiverse–FUD, FOMO, ALPHA, and KEK. They are fair-launch ERC20 tokens that are used to craft Installation NFTs within the Gotchiverse.
+ゴッチュス・アルケミカは、ゴッチバースの4つの元素であるFUD、FOMO、ALPHA、そしてKEKです。 これらは、ゴッチバース内のInstallation（インスタレーション）NFTsを作るために使用されるフェアローンチERC20トークンです。
 
-Players can earn Alchemica in three distinct ways: farming from their REALM parcels, channeling it from the skies above, or collecting it from the surface. Gotchus Alchemica can also be exchanged for [GHST](/ghst) (our eco-governance token) using our native DEX, the Gotchus Alchemica exchange (GAX).
+プレイヤーは3つの異なる方法でアルケミカを獲得することができます：自分のREALM（レルム）パーセルからファーム、上空からチャネリング、または地表から収集します。 また、ゴッチュス・アルケミカは、Gotchus Alchemica Exchange（GAX）（ゴッチュス・アルケミカ取引所）というDEXを使って、[GHST](/ghst)（エコガバナンストークン）に交換することができます。
 
-### アルケミカ・アールターとは何ですか？
+### アルケミカル・アールター（Alchemical Aaltar）とは何ですか？
 
-The Alchemical Aaltar is the most important installation you can place on your Gotchiverse REALM parcel. It is used for Alchemical channeling with a parcel’s linked Aavegotchi. The Alchemical Aaltar can be upgraded, using Gotchus Alchemica, to further the tech tree of other installations.
+アルケミカル・アールターは、ゴッチバースの土地に設置できる最も重要な設備です。 これは、区画のリンクされたAavegotchiとアルケミカルチャネリングするために使用されます。 アルケミカル・アールターはゴッチュス・アルケミカ（Gotchus Alchemica）を使ってアップグレードすることができ、他のインスタレーションの技術ツリーをさらに発展させることができます。
 
 ### プレイするにはAavegotchiが必要ですか？
 
-Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+はい、ゴッチバース（Gotchiverse）でプレイするにはAavegotchiが必要です。 Aavegotchiをお持ちでない場合は、ゴッチ・レンディング・プログラムでAavegotchiを借りてゴッチバースにアクセスすることができます。
 
 ## ゴッチレンディングに関するFAQ
 
 ### 貸したAavegotchiは誰がペットするのですか？
 
-The owner is still able to pet their Aavegotchi while it is being borrowed.
+借りられている間、オーナーは自分のAavegotchiを撫でることができます。
 
-### Is there a way to recall an Aavegotchi early once it’s been lent?
+### 一度貸した Aavegotchi を早く呼び戻す方法はありますか？
 
-No, once created an agreement cannot be broken or recalled.
+いいえ、一度作成した契約は破棄したり、回収したりすることはできません。
 
-### Can a borrower add or remove Wearables from an Aavegotchi?
+### Aavegotchiにウェアラブルを追加したり削除したりすることはできますか？
 
-No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+いいえ。Aavegotchiを借りている間は、ウェアラブルを装備したり外したりすることはできません。 借り手は、ゴッチを借りる前に、装備されているウェアラブルの数を確認することができます。
 
-### レンタル期間が終了したら、Aavegotchiを再登録する必要がありますか？
+### レンタル期間が終了したら、Aavegotchiを再出品する必要がありますか？
 
-Yes, you will need to relist once the agreement has been concluded.
+はい、契約終了後に再出品していただく必要があります。
 
-However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
+しかし、契約を結ばずに放置して延長することもできます。 貸主または借主のどちらかが契約を終了するまで、契約は有効です。
 
-### 「ホワイトリスト」フィールドがウォレットアドレスを受け付けないのはなぜですか？
+### 「ホワイトリスト」の項目がウォレットアドレスを受け付けないのはなぜですか？
 
-For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
+ゴッチレンディングでは、ホワイトリスト欄はウォレットアドレスを受け付けません。 ホワイトリストIDを受け付けます。
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+ホワイトリストIDは、ホワイトリスト作成後、[ホワイトリストページ](https://app.aavegotchi.com/whitelists)に表示されます。
 
 ## アーンバサダー（Aambassador）に関する FAQ
 
 ### アーンバサダーとして毎月報告書を提出する必要がありますか？
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+いいえ、必要ありません。 このアーンバサダープログラムは、あなたが管理業務に集中することなく、**#GotchiGang**の育成に専念できるように設計されています。
 
 ### ゴッチギャング（#GotchiGang）はどれくらいの大きさにすればいいのですか？
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+**#GotchiGang**の規模を小さくし、特化することが望ましいです。 あなたの街、都市、大学など、あなたの創造性で**#GotchiGang**を作ることができます。
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+あなたのグループが100人に達すると、あなたはAavegotchiアーンバサダーとして正式に認められます。
 
 ### 私が欲しい#GotchiGangの名前がすでに他の人に取られていた場合はどうすればいいですか？
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+その名前がすでに使われている場合は、タイプフォームで申請書を記入した後にお知らせします。
 
 ### 私はすでにAavegotchiをテーマにしたグループを持っています。 アーンバサダーに応募したほうがよいですか？
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+もちろんです！ あなたのネットワークの成長を簡単に追跡できるのであれば、アーンバサダーになる資格があります。
 
-### ここにない質問があります。 どこで質問すればよいですか？
+### ここに答えがない質問があります。 どこで質問すればよいですか？
 
-All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
+アンバサダープログラムに関する質問はすべて、DiscordのWebb#0001にお願いします。
 
 ## ギルドFAQ
 
 ### アーンバサダーグループとギルドの違いは何ですか？
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+アーンバサダー（Aambassador）グループは新しい人にAavegotchiを紹介するためのもので、ギルド（Guild）は既存のプレイヤーがグループになってゴッチバース（Gotchiverse）で一緒にプレイするためのものです。
 
 ### ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？
 
