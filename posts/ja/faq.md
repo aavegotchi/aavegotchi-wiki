@@ -32,9 +32,9 @@ contributors:
 <p><a href=#can-i-start-playing-for-free->無料でプレイを始めることはできますか？</a></p>
 <p><a href=#how-can-i-earn-money->どうすればお金を稼ぐことができますか？</a></p>
 <p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Aavegotchiをプレイしたり、GHSTトークンを所有するためにKYCが必要ですか？</a></p>
-<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Aavegotchi内にステークしたaTokenは清算されますか？</a></p>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Aavegotchi内にステークしたaTokenは清算（リキデート）されることはありますか？</a></p>
 <p><a href=#what-are-matokens->maTokenとは何ですか？</a></p>
-<p><a href=#could-captcha-be-used-to-prevent-bots->ボットを防止するためにCAPTCHAは使用できますか？</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->ボット対策にCAPTCHAを使用できますか？</a></p>
 <p><a href=#are-amtokens-the-same-as-matokens->amTokenはmaTokenと同じですか？</a></p>
 <p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Quickswapで自分の資産をmaLINK/maUNIに交換できないのはなぜですか？</a></p>
 <p><a href=#will-aavegotchi-be-integrated-with-opensea->AavegotchiはOpenSeaと統合されますか？</a></p>
@@ -161,59 +161,59 @@ Aavegotchiを入手するには、いくつかの方法があります：
 
 * ポータルドロップ中に[ポータル](/portals)を購入し、それを[開いて](/portals#claiming-an-aavegotchi)、最低限必要な量のスピリットフォースをステークしてゴッチを召喚します。
 
-Cost: 100 GHST + 10 DAI worth of collateral minimum (you might need more collateral if you pick a rarer Gotchi from the portal). This option is viable only during portal drops as they get swiped out very quickly.
+コスト：100 GHST + 10 DAI相当の担保が最低限必要（ポータルからレアなゴッチを選んだ場合は、もっと担保が必要な場合もあります）。 この方法は、ポータルドロップ時にのみ有効です。
 
-* Buy an Unopened Portal at the [Baazaar](/baazaar).
+* [バザール](/baazaar)で未開封のポータルを購入する。
 
-Cost: Variable.
+コスト：変動あり。
 
-* Buy an Opened Portal at the [Baazaar](/baazaar).
+* バザーで[開封済みのポータル](/baazaar)を購入する。
 
-Cost: Variable, but cheaper than Unopened Portals bought at the Baazaar since the 10 Gotchis in it are already revealed.
+コスト：変動するが、中に入っているゴッチ10体が判明しているため、バザールで購入する未開封のポータルより安い。
 
-* Buy an Aavegotchi from someone else selling it at the [Baazaar](/baazaar).
+* [バザール](/baazaar)で売っている人から「Aavegotchi」を購入する。
 
-Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with wearables, Baadges, etc.
+コスト：変動あり。 ゴッチのレア度や、ウェアラブル、バッジなどの付属品によって異なります。
 
 ### 無料でプレイを始めることはできますか？
 
-Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending) to browse the Lending listings now.
+はい！ Aavegotchiを借りて、100％オンチェーンの[ゴッチ・レンディング](/gotchi-lending)・プログラムのおかげで無料で遊ぶことができます。 [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending)にアクセスし、今すぐ貸出リストを閲覧してみてください。
 
 ### どうすればお金を稼ぐことができますか？
 
-With Aavegotchi and The Gotchiverse there are a number of ways to earn money. The Gotchiverse has four play-to-earn ERC-20 tokens known as Gotchus Alchemica. These tokens can be used to craft Installation NFTs within The Gotchiverse, or traded for GHST. Players can earn these tokens by channeling from the skies above, farming from below the surface of their land parcel, or by collecting it from the maps surface. For details on the Tokenomics of Gotchus Alchemica check out [Chapter 2 of The Gotchiverse Game Bible](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/).
+Aavegotchiとゴッチバースでは、お金を稼ぐ方法がいくつもあります。 ゴッチバースには、ゴッチュス・アルケミカと呼ばれる4つのプレイ・トゥ・アーンのERC-20トークンがあります。 これらのトークンは、ゴッチバース内のInstallation（インスタレーション）NFTを作るために使用したり、GHSTと交換することができます。 プレイヤーは、上空からのチャネリング、土地パーセルの地下からのファーミング、またはマップ表面からの収集によってこれらのトークンを獲得することができます。 ゴッチュス・アルケミカ・トークンに関する詳細は、ゴッチバース・ゲームバイブルの[第2章](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/)をご覧ください。
 
 ### Aavegotchiをプレイしたり、GHSTトークンを所有するためにKYCが必要ですか？
 
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
+いいえ！ あなたが[ボンディングカーブ](/curve)から直接GHSTを購入したい場合にのみ、KYCを行う必要があります。 [Uniswap（ユニスワップ）](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH)ではKYCなしでGHSTを購入できますし、[特定の取引所](https://www.coingecko.com/en/coins/aavegotchi#markets)でも購入できます。 一方、[ポータル](/portals)の購入、[ミニゲームのプレイ](/minigames)、[GHSTのステーキング](/staking)、その他Aavegotchiプロジェクト自体には**KYCは必要ありません**。
 
-The table below summarizes the information:
+以下の表は、その情報をまとめたものです：
 
-table_kyc
+表_kyc
 
-### Aavegotchi内にステークしたaTokenは清算されますか？
-No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
+### Aavegotchi内にステークしたaTokenは清算（リキデート）されることはありますか？
+いいえ。 Aavegotchiに張り付けられたaTokenは、Aaveプラットフォームで借入を行う際の担保として使用することはできません。 したがって、そのようなaTokenを清算することはできません。
 
 ### maTokenとは何ですか？
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+maTokenは、Aave V2のaTokenをPolygonに移行したものです。 aTokenと同様に、時間経過とともに利息が発生します！
 
-### ボットを防止するためにCAPTCHAは使用できますか？
-No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
+### ボット対策にCAPTCHAを使用できますか？
+いいえ。 [Aaavegotchi.comのウェブサイト](https://aavegotchi.com/)は単なるインターフェースに過ぎません。 ボットはインターフェイスを簡単に回避し、基礎となるスマートコントラクトと直接対話することができます。
 
-This is a feature of permissionless blockchains. It cannot be stopped.
+これはパーミッションレス・ブロックチェーンの特徴です。 止めることはできません。
 
 ### amTokenはmaTokenと同じですか？
-No. amTokens are **not** the same as maTokens.
+いいえ。 amToken は maToken と**同じではありません**。
 
-maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+maTokenはイーサリアム・メインネット上のAave V2のaTokenで、ポリゴン上で表現されたものです。 これらは、[Nick](/team#nick-mudge)がポリゴン上でのAavegotchiの立ち上げを急がせるために作成したものです。
 
-Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
+その後、Aave自身がポリゴンに移行したのです。 そのAave（ポリゴン）マーケットからのトークンは、amTokenとして知られています。
 
-Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
+どちらのカテゴリーのトークンも、金利のプロファイルが異なります。 maTokenの場合、その金利はAave V2市場で観察することができます。 amTokenの場合、その金利はAaveマーケット（ポリゴン）で観察することができます。
 
-Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
+[ハウント](/haunt)1に所属するAavegotchiは、スピリットフォースとしてmaTokenを使用します。
 
-From Haunt 2 onwards, amTokens will be used as Spirit Force.
+ハウント2 以降は、amToken がスピリットフォースとして使用されます。
 
 maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
 
@@ -275,7 +275,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### チケットを購入すると、ラッフル（抽選）に参加することになりますか？
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+いいえ！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Aavegotchiストアでラッフル用ウェアラブルは販売されますか？
@@ -532,7 +532,7 @@ For android devices, using the Metamask app with the in-built browser is a good 
 
 ### Aavegotchiはレイヤー2で動作しますか？
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+はい！ Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Aaveトークンの移行は必要ですか？
 
