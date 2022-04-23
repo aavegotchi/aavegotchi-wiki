@@ -55,7 +55,7 @@ contributors:
 <p><a href=#will-there-be-raffles-after-mainnet-launches->メインネットが開始された後もラッフルはありますか？</a></p>
 <li><a href=#aauction-faq>オークションFAQ</a></li>
 <p><a href=#how-much-can-i-earn->いくら稼ぐことができますか？</a></p>
-<p><a href=#can-i-outbid-myself->オークションで自分を落札することはできますか？</a></p>
+<p><a href=#can-i-outbid-myself->オークションで自分を競り落とすことはできますか？</a></p>
 <p><a href=#why-is-the-minimum-increase-10-->なぜ最低落札価格が10%も上がるのですか？</a></p>
 <p><a href=#is-there-a-minimum-bid->最低落札価格はありますか？</a></p>
 <p><a href=#what-prevents-bots-from-swiping-up-all-the-items->ボットによる出品物の横取りを防ぐにはどうしているのですか？</a></p>
@@ -275,54 +275,54 @@ QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比�
 
 ### チケットを購入すると、ラッフル（抽選）に参加することになりますか？
 
-いいえ！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+いいえ！ FRENSでチケットを購入するだけでは、**自動的にラッフルに参加することはできません**のでご注意ください。ラッフルが開催されている72時間の間にチケットをステークする必要があります。 これは、ラッフルのページでチケットを**承認**し、**チケットを入力する**という2つのトランザクションを含みます。 チケットの送信が完了すると、統計ページでラッフルに参加したチケットの枚数が表示されます。
 
 
 ### Aavegotchiストアでラッフル用ウェアラブルは販売されますか？
 
-いいえ。 The only time these wearables will ever be released is during the pre-launch raffles.
+いいえ。 これらのウェアラブルが発売されるのは、発売前のラッフル抽選会のときだけです。
 
 
 ### ラッフル用ウェアラブルは特別なものですか？
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+ゲームプレイに関しては、ラッフル・ウェアラブルは他のレアリティクラス（レア、ミシカルなど）のウェアラブルと同じ<a href="https://wiki.aavegotchi.com/wearables">ブースト</a>をあなたのAavegotchiに提供します。  [バザール](/baazaar)では、**発売前**であることや**ブランドイメージ**によって再販価値が高くなるかどうかは、市場の需要によって決定されます。
 
 
 ### ラッフルチケットはどのように転送するのですか？
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+ラッフルチケットはERC-1155規格に基づいています。 Aavegotchi DAppの[チケットのページ](https://aavegotchi.com/tickets)から転送することができます。 あなたが所有している各チケットカテゴリの下に、転送ボタンがあります（以下のスクリーンショットを参照）。 そのボタンをクリックすると、そのカテゴリーに属するチケットを転送することができます。
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+転送先の住所やチケットの枚数を入力する画面が表示されます（下図）。 入力が終わりましたら、「転送」ボタンをクリックしてください。
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### メインネットが開始された後もラッフルはありますか？
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+はい、メインネットが開始された後も、追加の抽選が行われる予定です。 ただし、頻繁に行われるわけではなく、事前に発表されることはありません。 これは、まだ[FRENS](/glossary#frens)やラッフルチケットをステーキングし、蓄積しているユーザーに報いるためです。
 
 ## オークションFAQ
 
 ### いくら稼ぐことができますか？
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+各GBMオークションは、最大収益を得るために特定のプリセットで設定することができます。 このウェアラブルオークションでは、クリプトグラフで使用されているものと同じプリセット、最小1％、最大10％を選択しました。 つまり、競り負けて獲得できる最大額は、入札額の10%です。
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+例えば、2000GHSTを入札した場合、最初のGBMオークションで競り落とされたときに得られる最大額は200GHSTです。 また、今後のオークションでは、様々なプリセットを試して、面白さを追求していきます。
 
-### オークションで自分を落札することはできますか？
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+### オークションで自分を競り落とすことはできますか？
+はい、インセンティブを得るために自分で入札することは問題ありません。 ただし、高値で落札するのはやめましょう。
 
 ### なぜ最低落札価格が10%も上がるのですか？
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+この最低「段階」は、GBM のゲーム理論の専門家が慎重に計算したもので、どんなに多くの入札があってもオークションの資金が十分に確保されるようにするためです。 最低落札価格の設定がなければ、オークションは資金不足に陥る危険性があります。
 
 ### 最低落札価格はありますか？
-There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+オークションに最低落札価格はありません。 1GHSTでも入札可能です。 ただし、入札額が高いほど、競り落とされたときに得られる利益が多くなる可能性があることに留意してください。
 
 ### ボットによる出品物の横取りを防ぐにはどうしているのですか？
-In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+First Come First Serve（＝早い者勝ち）NFTドロップでは、自動化されたスクリプトがブロックチェーンのイベントをリッスンし、アイテムがブロックチェーンに到達した瞬間に最初に購入することができます。
 
-This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+このスピードの利点はオークションシステムによって完全に緩和されます。AavegotchiオークションでボットがNFTを持ち逃げすることはありません！
 
 ### ボットがオークションの終わりを狙い撃ちしてくるのを防ぐにはどうしたらよいですか？
-If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+オークションの最後の5分間に入札が行われた場合、「ハンマータイム」はさらに5分延長されます。 これにより、ボットがオークション終了時に入札を行うことを防ぐことができます。
 
 ### NFTを請求するにはどうしたらいいですか？
 If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
