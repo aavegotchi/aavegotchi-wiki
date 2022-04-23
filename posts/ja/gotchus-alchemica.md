@@ -22,7 +22,7 @@ They are on-chain, freely tradable ERC-20 tokens.
 
 <ol>
 <li><a href=#utility>Utility</a></li>
-<li><a href=#tokenomics>Tokenomics</a></li>
+<li><a href=#tokenomics>トークノミックス</a></li>
 </ol>
 
 </div>
@@ -31,7 +31,7 @@ They are on-chain, freely tradable ERC-20 tokens.
 
 Gotchus Alchemica can be combined to craft [Installations and Aesthetica](/gotchiverse#building-on-realm-parcels).
 
-### Tokenomics
+### トークノミックス
 
 **Total Supply**
 
