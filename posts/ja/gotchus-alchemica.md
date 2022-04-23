@@ -59,14 +59,14 @@ contributors:
 
 **ゲームプレイ（15%）**
 
-Managed by Pixelcraft Studios and the REALM smart contract, these 15% of the total supply of Alchemica represent the budget for Alchemica to be distributed in-game over the lifetime of the Gotchiverse.
+Pixelcraft Studios（ピクセルクラフト・スタジオ）とREALM（レルム）スマートコントラクトによって管理される、アルケミカの総供給量の15%は、ゴッチバースの存続期間中にゲーム内で配布されるアルケミカの予算となります。
 
-Of the 15% total allocation, 33.3% (or 5% of total supply) will be allocated via the smart contract “Boost” system for adjacent alchemica. **These tokens are not vested, but can only be minted via Gotchiverse gameplay.**
+総配分量15%のうち、33.3%（総供給量の5%）は隣接するアルケミカのスマートコントラクト「ブースト」システムを通じて配分されます。 **これらのトークンは既得権（vested）ではなく、ゴッチバースのゲームプレイを通じてのみミントすることができます。**
 
-The remaining 66.6% (or 10% of total supply) will be **vested via the same schedule as the Ecosystem allocation above**, and used primarily for Alchemical Bubble Ups, Dungeons, and other in-game rewards that are not distributed via smart contract.
+残りの66.6%（または総供給量の10%）は、**上記のエコシステムの割り当てと同じスケジュールで帰属し**、主にアルケミカのバブルアップ、ダンジョン、その他スマートコントラクトで分配されないゲーム内報酬に使用されます。
 
-**Parcel Allocations (50%)**
+**パーセル区画への割り当て (50%)**
 
-50% of all Alchemica have been earmarked for Parcels in the Gotchiverse, including all three Acts and replenishings in each Act.
+全アルケミカの50%がゴッチバースのパーセル（区画）に割り当てられ、3つのアクト（Act＝幕）すべてと各アクトでの補充が含まれます。
 
-Act 1 will distribute roughly 25% of the total supply, whereas Act 2 and Act 3 will distribute 15% and 10%, respectively.
+第1幕では全体の約25％、第2幕では15％、第3幕では10％が分配される予定です。
