@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+title: 'Aavegotchi Wiki一覧'
+description: 'Aavegotchi Wiki一覧'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -39,95 +39,95 @@ Avegotchi Wikiのページ一覧です：
 
 * [Developers（デベロッパー）](/developers)
 
-* [Estaates](/estaates)
+* [Estaates（エステート）](/estaates)
 
-* [Eye Shape](/eye-shape)
+* [Eye Shape（アイ・シェイプ）](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
-* [Gaame Jaam](/gaame-jaam)
+* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
 
-* [ゴッチ・レンディング](/gotchi-lending)
+* [Gotchiverse（ゴッチバース）](/gotchi-lending)
 
-* [ゴッチバース](/gotchiverse)
+* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchiverse)
 
-* [ゴッチュスアルケミカ](/gotchus-alchemica)
+* [Gotchus Alchemica Exchange（ゴッチュス・アルケミカ取引所）](/gotchus-alchemica)
 
-* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
+* [Guild（ギルド）](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [Haunt（ハウント）](/guild)
 
-* [ハウント](/haunt)
+* [Home（ホーム）](/haunt)
 
-* [Home](/index)
+* [はじめに](/index)
 
-* [Introduction](/introduction)
+* [Kinship（キンシップ）](/introduction)
 
-* [キンシップ](/kinship)
+* [Maall（モール）](/kinship)
 
 * [Maall](/maall)
 
 * [maTokens](/matokens)
 
-* [Media](/media)
+* [Memes（ミーム）](/media)
 
-* [Memes](/memes)
+* [マイルストーン](/memes)
 
-* [Milestones](/milestones)
+* [ミニゲーム](/milestones)
 
-* [Mini-Games](/minigames)
+* [ミニゲームXPイベント](/minigames)
 
-* [ミニゲームXPイベント](/minigame-xp-events)
+* [ミッション](/minigame-xp-events)
 
-* [Missions](/missions)
+* [Mumbaiテストネット](/missions)
 
-* [Mumbai Testnet](/mumbai-testnet)
+* [パートナーズ](/mumbai-testnet)
 
 * [Partners](/partners)
 
 * [POAP](/poap)
 
-* [Polygon](/polygon)
+* [Portals（ポータル）](/polygon)
 
-* [ポータル](/portals)
+* [ラッフルの統計](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Rarity Farming（レアリティー・ファーミング）](/raffles-stats)
 
-* [Rarity Farming](/rarity-farming)
+* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [ロードマップ](/rarity-farming-seasons)
 
-* [ロードマップ](/roadmap)
+* [セット](/roadmap)
 
-* [Sets](/sets)
+* [ソーシャルメディア](/sets)
 
-* [ソーシャルメディア](/socialmedia)
+* [スピリットフォース](/socialmedia)
 
-* [スピリットフォース](/spirit-force)
+* [スピリットフォース履歴](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [ステーキング](/spirit-force-history)
 
-* [ステーキング](/staking)
+* [チーム](/staking)
 
-* [Team](/team)
+* [九人の達人](/team)
 
-* [The Nine Aadepts](/the-nine-aadepts)
+* [Tickets（チケット）](/the-nine-aadepts)
 
-* [Tickets](/tickets)
+* [Tokenomics（トークノミックス）](/tickets)
 
-* [Tokenomics](/tokenomics)
+* [Traits（特性）](/tokenomics)
 
-* [特性](/traits)
+* [チュートリアル](/traits)
 
-* [Tutorials](/tutorials)
+* [uGOTCHI コレクション](/tutorials)
 
-* [uGOTCHI コレクション](/ugotchi)
+* [武器](/ugotchi)
 
-* [Weapons](/weapons)
+* [ウェアラブル](/weapons)
 
 * [ウェアラブル](/wearables)
 
