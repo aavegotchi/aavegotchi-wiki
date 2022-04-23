@@ -39,93 +39,95 @@ Avegotchi Wikiのページ一覧です：
 
 * [Developers（デベロッパー）](/developers)
 
-* [Eye Shape（アイ・シェイプ）](/eye-shape)
+* [Estaates](/estaates)
+
+* [Eye Shape](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+* [Gaame Jaam](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
 
-* [Gotchi Lending（ゴッチ・レンディング）](/gotchi-lending)
+* [ゴッチ・レンディング](/gotchi-lending)
 
-* [Gotchiverse（ゴッチバース）](/gotchiverse)
+* [ゴッチバース](/gotchiverse)
 
-* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchus-alchemica)
+* [ゴッチュスアルケミカ](/gotchus-alchemica)
 
-* [Gotchus Alchemica Exchange（ゴッチュス・アルケミカ取引所）](/gotchus-alchemica-exchange)
+* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
-* [Guild（ギルド）](/guild)
+* [Guild](/guild)
 
-* [Haunt（ハウント）](/haunt)
+* [ハウント](/haunt)
 
-* [Home（ホーム）](/index)
+* [Home](/index)
 
-* [はじめに](/introduction)
+* [Introduction](/introduction)
 
-* [Kinship（キンシップ）](/kinship)
+* [キンシップ](/kinship)
 
-* [Maall（モール）](/maall)
+* [Maall](/maall)
 
 * [maTokens](/matokens)
 
-* [メディア](/media)
+* [Media](/media)
 
-* [Memes（ミーム）](/memes)
+* [Memes](/memes)
 
-* [マイルストーン](/milestones)
+* [Milestones](/milestones)
 
-* [ミニゲーム](/minigames)
+* [Mini-Games](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション](/missions)
+* [Missions](/missions)
 
-* [Mumbaiテストネット](/mumbai-testnet)
+* [Mumbai Testnet](/mumbai-testnet)
 
-* [パートナーズ](/partners)
+* [Partners](/partners)
 
 * [POAP](/poap)
 
-* [Polygon（ポリゴン）](/polygon)
+* [Polygon](/polygon)
 
-* [Portals（ポータル）](/portals)
+* [ポータル](/portals)
 
-* [ラッフルの統計](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
-* [Rarity Farming（レアリティー・ファーミング）](/rarity-farming)
+* [Rarity Farming](/rarity-farming)
 
-* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming-seasons)
+* [Rarity Farming Seasons](/rarity-farming-seasons)
 
 * [ロードマップ](/roadmap)
 
-* [セット](/sets)
+* [Sets](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [スピリットフォース履歴](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
 
-* [チーム](/team)
+* [Team](/team)
 
-* [九人の達人](/the-nine-aadepts)
+* [The Nine Aadepts](/the-nine-aadepts)
 
-* [Tickets（チケット）](/tickets)
+* [Tickets](/tickets)
 
-* [Tokenomics（トークノミックス）](/tokenomics)
+* [Tokenomics](/tokenomics)
 
-* [Traits（特性）](/traits)
+* [特性](/traits)
 
-* [チュートリアル](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
-* [武器](/weapons)
+* [Weapons](/weapons)
 
 * [ウェアラブル](/wearables)
 
