@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'トークノミックス'
-description: 'The Tokenomics of Aavegotchi GHST Token'
+description: 'Aavegotchi GHSTトークンのトークノミックス'
 image: "ここに画像"
 contributors:
   - "appellants"
@@ -10,62 +10,62 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/tokenomics/leogotchi.png" class="headerImage">
-<p class="headerImageText">wEn GHST $5???</p>
+<p class="headerImageText">1GHST5ドルはいつ！？？？</p>
 </div>
 
-Tokenomics? Who even cares? WeN mOoN??
+トークノミックス？ そんなもん誰が気にするんだ？ WeN mOoN?
 
-We do, and so should you. If you're planning to invest in a project like GHST (or any project for that matter), it's important to understand how the broader ecosystem works. At the end of the day this is how we can all win with our frens.
+私たちは気にしますし、あなたも気にする必要があります。 もしあなたがGHSTのようなプロジェクト（またはそれ以外のプロジェクト）に投資しようと思っているなら、より広いエコシステムがどのように機能するかを理解することが重要です。 結局、これが、私たちフレンズ全員で、勝利する方法なのです。
 
-Aavegotchi's approach to revenue sharing and tokenomics aims to balance four goals:
+Aavegotchiの収益分配とトークノミックスのアプローチは、4つの目標のバランスをとることを目的としています：
 
-<ul><p style="margin-left: 2.4em"><b><li>Creating a healthy play-to-earn ecosystem that rewards active players and DAO participants</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Ensuring that GHST token has a strong foundation for long-term value capture</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Building a treasury for AavegotchiDAO to use on discretionary spending</li></b></p></ul>
-<ul><p style="margin-left: 2.4em"><b><li>Providing ongoing financial rewards to those developing Aavegotchi</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>アクティブなプレイヤーとDAO参加者に報酬を与える、健全なプレイ・トゥ・アーンのエコシステムの構築</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>GHSTトークンが長期的な価値取得のための強固な基盤を持つことを確実にする</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>AavegotchiDAOが裁量的な支出に使用するための宝庫を構築すること</li></b></p></ul>
+<ul><p style="margin-left: 2.4em"><b><li>Aavegotchiの開発者に継続的な金銭的報酬を提供すること</li></b></p></ul>
 
-This part of the wiki will first take you through GHST's token distribution, then elaborate on how these goals will be accomplished.
+このWikiでは、まずGHSTのトークン配布について説明し、その後、これらの目標がどのように達成されるかを詳しく説明します。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#token-distribution>Token Distribution</a></li>
-<li><a href=#revenue-sharing-overview>Revenue Sharing Overview</a></li>
-<p><a href=#earn-it>EARN IT</a></p>
-<p><a href=#dao-it>DAO IT</a></p>
-<p><a href=#burn-it>BURN IT</a></p>
-<p><a href=#buidl-it>BUIDL IT</a></p>
-<li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#token-distribution>トークン配布</a></li>
+<li><a href=#revenue-sharing-overview>レベニューシェアの概要</a></li>
+<p><a href=#earn-it>EARN IT（アーン・イット＝稼げ）</a></p>
+<p><a href=#dao-it>DAO IT（ダオ・イット＝ダオやって）</a></p>
+<p><a href=#burn-it>BURN IT（バーン・イット＝燃やして）</a></p>
+<p><a href=#buidl-it>BUIDL IT（ビルド・イット＝作って）</a></p>
+<li><a href=#historical-changes>変容履歴</a></li>
 </ol>
 
 </div>
 
-## Token Distribution
+## トークン配布
 
-GHST was distributed in three stages. These were the private sale, pre-sale and public bonding curve sale.
-
-
-**The Private Sale**
-
-Size: 5,000,000 GHST Price: 0.05 DAI / GHST
+GHSTは3段階に分けて配布されました。 プライベートセール、プリセール、パブリックボンディングカーブセールです。
 
 
-The private sale was held in August 2020. Anyone who performed KYC and met a 20k DAI minimum can join. The funds raised during this round were allocated to Pixelcraft Studios, the company behind Aavegotchi, to ensure the successful development of the Aavegotchi game.
+**プライベートセール**
+
+サイズ：5,000,000 GHST 価格：0.05 DAI / GHST
 
 
-**The Pre-Sale**
+プライベートセールは、2020年8月に開催されました。 KYCを行い、最低20k DAIを満たした人なら誰でも参加することができました。 このラウンドで集まった資金は、Aavegotchiの開発会社であるPixelcraft Studios（ピクセルクラフト・スタジオ）に配分され、Aavegotchiのゲーム開発を成功させるために使用されました。
 
-Size: 500,000 GHST Price: 0.1 DAI / GHST
 
-The GHST Pre-Sale was held on 14 September 2020, with a time limit of 14 days or whenever the supply sold out, whichever came first. All Level 6 Aagents who had performed KYC by the aforementioned date were eligible to purchase GHST at this stage.
+**プリセール**
 
-To conduct the sale, a snapshot of all Level 6 Aagents at the time was taken. This was then cross-checked with those who performed KYC. Then, a special “Verified Level 6” badge was assigned to all eligible participants in the Discord. These participants were then added to a special discord channel, where links to the presale were posted.
+規模：500,000GHST 価格：0.1DAI / GHST
 
-The funds raised here were used to bootstrap liquidity in the Token Bonding Curve reserve pool, at a reserve ratio of 100%.
+GHSTプリセールは、2020年9月14日に開催され、制限時間は14日間または供給分が売り切れる時のどちらか早い方とされました。 前述の期日までにKYCを行ったすべてのレベル6エージェントは、この段階でGHSTを購入することができました。
 
-Participants of the Private Sale and Pre-Sale will have their GHST tokens vested over a period of one year, beginning from the close of the Pre-Sale round. After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+販売にあたっては、当時の全レベル6エージェントのスナップショットが撮影されました。 これをKYCを実施したエージェントと照合しました。 そして、Discordで対象者全員に「Verified Level 6（レベル6認証済）」バッジを特別に付与しました。 そして、これらの参加者は特別なDiscordチャンネルに追加され、そこにプリセールへのリンクが掲載されました。
+
+ここで集められた資金は、トークン・ボンディング・カーブのリザーブプールの流動性をブートストラップするために、リザーブ率100%で使用されました。
+
+プライベートセールとプリセールの参加者は、プリセールラウンドの終了から1年間かけてGHSTトークンを確定させます。 After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
 
 For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
@@ -103,7 +103,7 @@ We've made a handy diagram explaining Revenue Sharing V2:
 
 Read on to learn about the various categories in more detail.
 
-## EARN IT
+## EARN IT（アーン・イット＝稼げ）
 
 A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
 
@@ -122,14 +122,14 @@ More categories will be added, as the game continues to develop.
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO IT
+## DAO IT（ダオ・イット＝ダオやって）
 
 Community governance is also a core tenet of the Aavegotchi experience. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
 
 
-## BURN IT
+## BURN IT（バーン・イット＝燃やして）
 
 As a prelude, it would be good to get yourself acquainted with GHST's [bonding curve](/curve) and how it works. Then, the fun begins.
 
@@ -142,7 +142,7 @@ Burning GHST is a deflationary counterbalance to the downward pressure on GHST's
 Sending GHST directly to the burn address also locks DAI within the bonding curve, creating a rising price floor for GHST. This is a net positive for all parties as it enables better liquidity for buyers and sellers on the curve (aka less slippage), lowers the circulating supply, and provides stability for the [DAICO Tap Mechanism](/curve#aavegotchi-daico).
 
 
-## BUIDL IT
+## BUIDL IT（ビルド・イット＝作って）
 
 Last, but most definitely not least, **40%** of revenue goes to the development team. After all, it's important to feed our devs to make sure they can focus on helping build the best DeFi x NFT experience for everyone here.
 
@@ -162,7 +162,7 @@ One of the best parts about the crypto-verse and why you constantly see the addi
 
 Keep reading, and keep playing. See you on the moon soon, Aagent.
 
-## Historical Changes
+## 変容履歴
 
 The following table details the percentage changes in each category across Revenue Sharing versions:
 
