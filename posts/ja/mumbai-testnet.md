@@ -7,33 +7,33 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
+ムンバイのテストネットにAavegotchiバザールが登場しました！ テストするには、Metamaskを設定し、Testnetでトークンを取得する必要があります。 このガイドでは、その方法をご紹介します。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
-<li><a href=#getting-tokens-from-mumbai-faucet>Getting tokens from Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#adding-mumbai-testnet-to-your-metamask>Mumbai TestnetをMetamaskに追加する</a></li>
+<li><a href=#getting-tokens-from-mumbai-faucet>Mumbai Faucetからトークンを取得する</a></li>
+<li><a href=#getting-mumbai-ghst>Mumbai GHSTを取得する</a></li>
 </ol>
 
 </div>
 
-## Adding Mumbai Testnet to your Metamask
+## Mumbai TestnetをMetamaskに追加する
 
-To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
+Mumbai Testnetに接続するためには、Metamaskのウォレットにいくつかの設定を行う必要があります。
 
-1). First, open the extension and click the “Ethereum Mainnet” button on the top.
+1). まず、拡張機能を開き、上部にある「Ethereum Mainnet」ボタンをクリックします。
 
-<img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask" />
+<img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "メタマスク" />
 
-2). Select “Custom RPC”.
+2). 「Custom RPC」を選択します。
 
-<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "メタマスクカスタムRPG" />
 
-3). Enter the following settings:
+3). 以下の設定を入力します：
 
 Network Name: Mumbai Testnet
 
@@ -45,24 +45,24 @@ Currency Symbol (optional): MATIC
 
 Block Explorer URL (optional): https://mumbai-explorer.matic.today
 
-Once you’ve added everything, you can click on “Save”. You are now on Mumbai Testnet!
+すべて追加したら、「保存」をクリックします。 これでMumbai Testnetにアクセスできます！
 
-## Getting tokens from Mumbai Faucet
+## Mumbai Faucetからトークンを取得する
 
-1). Head over to the Mumbai Faucet at [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Mumbai Faucet（[https://faucet.matic.network/](https://faucet.matic.network/)）に向かいます。
 
-2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
+2). 蛇口（Faucet）から取得したいトークン（例：MATICトークン）を選択し、デフォルトネットワーク（Mumbai）を選択し、テキストボックスにMetamaskウォレットアドレスを入力します。
 
-3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
+3). 「Submit」ボタンを押し、トークンがウォレットに入金されるのを待ちます。
 
-## Getting Mumbai GHST
+## Mumbai GHSTを取得する
 
-Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
+Mumbai FaucetからMATICトークンを手に入れたら、次はMumbai GHSTを購入しましょう。
 
-1). Head over to [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
+1). [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst) にアクセスします。
 
-2). Connect to the Mumbai Testnet.
+2). Mumbai Testnetに接続します。
 
-3). Use the Mumbai MATIC tokens you have received to purchase Mumbai GHST by clicking the "Click to get MUMBAI GHST" button. Presto! You are done!
+3). 受け取ったMumbai MATICトークンを使って、「Click to get MUMBAI GHST」ボタンをクリックし、Mumbai GHSTを購入する。 やりましたね！ これで完了です！
 
-Have fun at the [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) fren!
+[Aavegotchiバザール](https://testnet.aavegotchi.com/baazaar/portals)で楽しんでってね、フレン！
