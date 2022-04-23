@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2014-04-26T22:00:00.000Z'
-title: 'Aavegotchi Estaates'
+title: 'Estaates'
 description: 'Aavegotchi Estaates'
 contributors:
   - "unintelligent-nerd"
