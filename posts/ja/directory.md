@@ -79,7 +79,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Mini-Games](/minigames)
 
-* [Mini-Game XP Events](/minigame-xp-events)
+* [ミニゲームXPイベント](/minigame-xp-events)
 
 * [Missions](/missions)
 
@@ -124,6 +124,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
+
+* [Weapons](/weapons)
 
 * [ウェアラブル](/wearables)
 

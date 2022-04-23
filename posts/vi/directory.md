@@ -125,6 +125,8 @@ contributors:
 
 * [uGOTCHI Collection](/ugotchi)
 
+* [Weapons](/weapons)
+
 * [Wearables](/wearables)
 
 * [XP](/xp)

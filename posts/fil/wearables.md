@@ -35,6 +35,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <ol>
 <li><a href=#key>Key</a></li>
 <li><a href=#voting-power>Voting Power</a></li>
+<li><a href=#weapons>Weapons</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
@@ -95,6 +96,14 @@ table_wearablesBRStable
 With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
 
 table_wearablesVotingPower
+
+## Weapons
+
+Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
+
+Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+
+Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
 
 ## LINK Themed Set
 
