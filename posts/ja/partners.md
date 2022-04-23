@@ -118,20 +118,20 @@ DinoSwap is a cross-chain infrastructure project that builds liquidity for layer
 
 DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
 
-### Unicly
+### ユニクリー（Unicly）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/unicly.jpg" alt = "Unicly">
-<p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
+<img class="leftImage" src="/partners/unicly.jpg" alt = "ユニクリー（Unicly）">
+<p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">ユニクリー（Unicly）</a></p>
 </div>
 
 Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
 
-### Venly
+### ヴェンリー（Venly）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/venly.jpg" alt = "Venly">
-<p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
+<img class="leftImage" src="/partners/venly.jpg" alt = "ヴェンリー（Venly）">
+<p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">ヴェンリー（Venly）</a></p>
 </div>
 
 Wallet & NFT products that seamlessly integrate with your blockchain project.
