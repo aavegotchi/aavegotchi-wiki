@@ -33,7 +33,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
-<li><a href=#matokens>maTokens</a></li>
+<li><a href=#matokens>maToken</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
@@ -94,7 +94,7 @@ Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) fo
 
 <hr />
 
-### maTokens
+### maToken
 Click [here](/matokens) for the article
 
 * Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
