@@ -33,8 +33,8 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 <ol>
 <li><a href=#token-distribution>トークン配布</a></li>
 <li><a href=#revenue-sharing-overview>レベニューシェアの概要</a></li>
-<p><a href=#earn-it>EARN IT（アーン・イット＝稼げ）</a></p>
-<p><a href=#dao-it>DAO IT（ダオ・イット＝ダオやって）</a></p>
+<p><a href=#earn-it>EARN IT（アーン・イット＝稼いで）</a></p>
+<p><a href=#dao-it>DAO IT（ダオ・イット＝ダオって）</a></p>
 <p><a href=#burn-it>BURN IT（バーン・イット＝燃やして）</a></p>
 <p><a href=#buidl-it>BUIDL IT（ビルド・イット＝作って）</a></p>
 <li><a href=#historical-changes>変容履歴</a></li>
@@ -65,49 +65,49 @@ GHSTプリセールは、2020年9月14日に開催され、制限時間は14日�
 
 ここで集められた資金は、トークン・ボンディング・カーブのリザーブプールの流動性をブートストラップするために、リザーブ率100%で使用されました。
 
-プライベートセールとプリセールの参加者は、プリセールラウンドの終了から1年間かけてGHSTトークンを確定させます。 After 180 days, an initial release equivalent to roughly 50% of the total amount will be released, followed by a drip release of the remaining tokens over the next 185 days.
+プライベートセールとプリセールの参加者は、プリセールラウンドの終了から1年間かけてGHSTトークンを確定させます。 180日後に総額の約50%に相当する初期リリースが行われ、その後185日間かけて残りのトークンがドリップリリースされる予定です。
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
-
-
-**Public Bonding Curve Sale**
-
-As our frens would say, the curve never ends! For more information on the mechanics of the curve, check out our page on the [curve](/curve).
-
-There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the curve. There is no lockup in this round either – tokens can be claimed straight away from the curve.
-
-Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
-
-Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
+この詳細については、[「Aavegotchiホワイトペーパー」](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing)と[「コミュニティアップデート#4」](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)をお読みください。
 
 
-**Ecosystem Fund**
+**パブリック・ボンディングカーブ・セール**
 
-The Ecosystem fund consists of 1,000,000 GHST locked according to the same schedule as the Private and Pre-Sale rounds. Unlocked funds can be deployed via proposals made to the [AavegotchiDAO](/dao) V2.0 and above, for legitimate use cases such as funding development by non-Aavegotchi core team members, promotion and marketing of AavegotchiDao, as well as any other use case the AavegotchiDAO deems useful.
+私たちのフレンズが言うように、カーブに終わりはありません！ カーブの仕組みについては、[カーブ](/curve)のページをご覧ください。
+
+このラウンドでは、GHSTの供給量に制限はなく、時間にも制限はありません。 価格は0.2DAI/GHSTで始まり、カーブに沿って変動します。 このラウンドではロックアップもありません。トークンはカーブからすぐに請求できます。
+
+KYCに参加し、Aavegotchiチームによってアドレスがホワイトリスト化された人は、カーブから直接購入できます。
+
+カーブから集められた資金は、GHSTトークン保有者がコントロールするタップメカニズムを通じて、Pixelcraft Studiosに提供されます。 メカニズムの詳細については、[こちら](https://fundrasing.aragon.black)をご覧ください。
 
 
-**Team Fund**
+**エコシステム・ファンド**
 
-The Team Fund consists of 1,000,000 GHST locked according to the same schedule as the Private Round. However, once funds have been fully unlocked, they will be distributed according to a 3-year vesting schedule, and the remaining funds will be locked into a new vesting contract for another two years, and drip-released to the Aavegotchi core team.
+エコシステム・ファンドは、プライベート・ラウンドおよびプリセールラウンドと同じスケジュールに従ってロックされた1,000,000 GHSTで構成されています。 ロック解除された資金は、[AavegotchiDAO](/dao) V2.0以上に提案され、非Aavegotchiコアチームメンバーによる開発資金、AavegotchiDaoのプロモーションやマーケティング、その他AavegotchiDAOが有用と考える正当な使用例で展開することができます。
 
-Team funds are primarily used to incentivize core Aavegotchi team members to contribute with their full effort to the project, as well as to compensate external advisors.
 
-## Revenue Sharing Overview
+**チーム・ファンド**
 
-What happens to all the GHST spent on portals and wearables?
+チーム・ファンドは1,000,000GHSTで構成され、プライベートラウンドと同じスケジュールでロックされます。 チーム・ファンドは1,000,000GHSTで構成され、プライベートラウンドと同じスケジュールでロックされます。しかし、資金が完全にアンロックされると、3年間の権利確定スケジュールに従って分配され、残りの資金はさらに2年間新しい権利確定契約にロックされ、Aavegotchiのコアチームにドリップリリースされます。
 
-We've made a handy diagram explaining Revenue Sharing V2:
+チーム資金は主に、Aavegotchiのコアチームメンバーがプロジェクトに全力で貢献するためのインセンティブとして、また外部アドバイザーへの報酬として使用されます。
+
+## レベニューシェアの概要
+
+ポータルやウェアラブルに使われたGHSTはどうなるのでしょうか？
+
+レベニューシェアV2について、わかりやすく解説した図を作成しました：
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
-Read on to learn about the various categories in more detail.
+各カテゴリーの詳細については、こちらをご覧ください。
 
-## EARN IT（アーン・イット＝稼げ）
+## EARN IT（アーン・イット＝稼いで）
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). To incentivize continuous and active engagement with the game's ecosystem, part of the revenue earned from portal sales and wearables will go towards rewarding the top rarity farmers.
+Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[レアリティファーミング](/rarity-farming)でウェアラブルを装備させることです。 ゲームのエコシステムに継続的かつ積極的に参加するインセンティブを与えるため、ポータル販売とウェアラブルから得られる収益の一部は、上位レアリティファーマーへの報酬に充てられる予定です。
 
-To that end, **40%** of all earned GHST will be distributed back to players via player rewards.
+そのため、獲得したGHSTの**40%**はプレイヤーへの報酬として還元される予定です。
 
 Initially, there will be three categories of Player Rewards:
 
@@ -122,7 +122,7 @@ More categories will be added, as the game continues to develop.
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO IT（ダオ・イット＝ダオやって）
+## DAO IT（ダオ・イット＝ダオって）
 
 Community governance is also a core tenet of the Aavegotchi experience. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
