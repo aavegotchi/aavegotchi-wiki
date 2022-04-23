@@ -1,7 +1,7 @@
 ---
 author: Unintelligent-nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Estaates'
+title: 'Estaates'
 description: 'Aavegotchi Estaates'
 contributors:
   - "chinyh"
