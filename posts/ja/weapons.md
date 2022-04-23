@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Weapons'
-description: 'Aavegotchi Weapons'
+title: '武器'
+description: 'Aavegotchiの武器'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -16,16 +16,16 @@ Each Weapon will also be endowed with special benefits, such as extra damage to 
 **目次**
 
 <ol>
-<li><a href=#melee-weapons>Melee Weapons</a></li>
-<li><a href=#ranged-weapons>Ranged Weapons</a></li>
+<li><a href=#melee-weapons>近接戦用武器</a></li>
+<li><a href=#ranged-weapons>遠距離攻撃用武器</a></li>
 </ol>
 
 </div>
 
-## Melee Weapons
+## 近接戦用武器
 
-table_meleeWeapons
+表_meleeWeapons
 
-## Ranged Weapons
+## 遠距離攻撃用武器
 
-table_rangedWeapons
+表_rangedWeapons
