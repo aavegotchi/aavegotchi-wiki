@@ -18,31 +18,31 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#aave>Aave</a></p>
 <li><a href=#partners>Partners</a></li>
 <p><a href=#aragon>アラゴン</a></p>
-<p><a href=#opensea>OpenSea</a></p>
-<p><a href=#snapshot>Snapshot</a></p>
-<p><a href=#polygon>Polygon</a></p>
+<p><a href=#opensea>OpenSea（オープンシー）</a></p>
+<p><a href=#snapshot>Snapshot（スナップショット）</a></p>
+<p><a href=#polygon>Polygon（ポリゴン）</a></p>
 <p><a href=#quickswap>クィックスワップ（QuickSwap）</a></p>
-<p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
-<p><a href=#unicly>Unicly</a></p>
-<p><a href=#venly>Venly</a></p>
+<p><a href=#cometh>Cometh（コメス）</a></p>
+<p><a href=#dinoswap>DinoSwap（ダイノスワップ）</a></p>
+<p><a href=#unicly>Unicly（ユニクリ）</a></p>
+<p><a href=#venly>Venly（ヴェンリ）</a></p>
 <p><a href=#gbm-auction>GBMオークション</a></p>
 <p><a href=#rarible>Rarible</a></p>
-<p><a href=#yield-guild-games>Yield Guild Games</a></p>
-<p><a href=#blackpool>BlackPool</a></p>
-<p><a href=#flamingo-dao>Flamingo DAO</a></p>
-<p><a href=#mao-dao>Mao DAO</a></p>
+<p><a href=#yield-guild-games>収穫（イールド）ギルドゲーム</a></p>
+<p><a href=#blackpool>BlackPool（ブラックプール）</a></p>
+<p><a href=#flamingo-dao>Flamingo DAO（フラミンゴ・ダオ）</a></p>
+<p><a href=#mao-dao>Mao DAO（マオ・ダオ）</a></p>
 </ol>
 
 </div>
 
-## Investors
+## 投資家
 
-### Aave
+### Aave（アーヴェ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/aave.jpg" alt = "Aave">
-<p class="leftImageText"><a href="https://twitter.com/AaveAave" target="_blank">Aave</a></p>
+<img class="leftImage" src="/partners/aave.jpg" alt = "Aave（アーヴェ）">
+<p class="leftImageText"><a href="https://twitter.com/AaveAave" target="_blank">Aave（アーヴェ）</a></p>
 </div>
 
 Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
@@ -58,29 +58,29 @@ Aave is a decentralised non-custodial liquidity market protocol where users can 
 
 Aragon is the leading platform for decentralized governance and DAOs.
 
-### OpenSea
+### OpenSea（オープンシー）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/opensea.png" alt = "OpenSea">
-<p class="leftImageText"><a href="https://twitter.com/opensea" target="_blank">OpenSea</a></p>
+<img class="leftImage" src="/partners/opensea.png" alt = "OpenSea（オープンシー）">
+<p class="leftImageText"><a href="https://twitter.com/opensea" target="_blank">OpenSea（オープンシー）</a></p>
 </div>
 
 The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets.
 
-### Snapshot
+### Snapshot（スナップショット）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/snapshot.jpg" alt = "Snapshot">
-<p class="leftImageText"><a href="https://twitter.com/SnapshotLabs" target="_blank">Snapshot</a></p>
+<img class="leftImage" src="/partners/snapshot.jpg" alt = "Snapshot（スナップショット）">
+<p class="leftImageText"><a href="https://twitter.com/SnapshotLabs" target="_blank">Snapshot（スナップショット）</a></p>
 </div>
 
 Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain.
 
-### Polygon
+### Polygon（ポリゴン）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Network">
-<p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
+<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Network（ポリゴン・ネットワーク）">
+<p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon（ポリゴン）</a></p>
 </div>
 
 Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
@@ -94,11 +94,11 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 
 Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
 
-### Cometh
+### Cometh（コメス）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/cometh.jpg" alt = "Cometh">
-<p class="leftImageText"><a href="https://twitter.com/MUSTCometh" target="_blank">Cometh</a></p>
+<img class="leftImage" src="/partners/cometh.jpg" alt = "Cometh（コメス）">
+<p class="leftImageText"><a href="https://twitter.com/MUSTCometh" target="_blank">Cometh（コメス）</a></p>
 </div>
 
 Cometh is a groundbreaking and evolving strategy game set in a persistent and sustainable space-inspired metaverse powered by Ethereum's blockchain.
@@ -107,11 +107,11 @@ The Cometh game consists in players mining asteroids to get tokens as rewards.
 
 Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.
 
-### DinoSwap
+### DinoSwap（ダイノスワップ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
+<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap（ダイノスワップ）">
+<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap（ダイノスワップ）</a></p>
 </div>
 
 DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
@@ -154,20 +154,20 @@ GBM™ is a proprietary auction system where bidders make money when they are ou
 
 The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
 
-### Yield Guild Games
+### 収穫（イールド）ギルドゲーム
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/yield-guild-games.jpg" alt = "Yield Guild Games">
-<p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
+<img class="leftImage" src="/partners/yield-guild-games.jpg" alt = "収穫（イールド）ギルドゲーム">
+<p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">収穫（イールド）ギルドゲーム</a></p>
 </div>
 
 Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
 
-### BlackPool
+### ブラックプール
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/blackpool.jpg" alt = "BlackPool">
-<p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
+<img class="leftImage" src="/partners/blackpool.jpg" alt = "ブラックプール">
+<p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">ブラックプール</a></p>
 </div>
 
 BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
@@ -178,20 +178,20 @@ We will lead the way in providing financial derivatives to digital marketplaces,
 
 BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
 
-### Flamingo DAO
+### Flamingo DAO（フラミンゴ・ダオ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/flamingodao.jpg" alt = "Flamingo DAO">
-<p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
+<img class="leftImage" src="/partners/flamingodao.jpg" alt = "Flamingo DAO（フラミンゴ・ダオ）">
+<p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO（フラミンゴ・ダオ）</a></p>
 </div>
 
 An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
 
-### Mao DAO
+### Mao DAO（マオ・ダオ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/mao-dao.jpg" alt = "Mao DAO">
-<p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
+<img class="leftImage" src="/partners/mao-dao.jpg" alt = "Mao DAO（マオ・ダオ）">
+<p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO（マオ・ダオ）</a></p>
 </div>
 
 MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
