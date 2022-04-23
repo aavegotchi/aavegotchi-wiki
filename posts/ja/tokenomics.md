@@ -1,7 +1,7 @@
 ---
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
+title: 'トークノミックス'
 description: 'The Tokenomics of Aavegotchi GHST Token'
 image: "ここに画像"
 contributors:
