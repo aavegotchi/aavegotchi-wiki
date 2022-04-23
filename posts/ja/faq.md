@@ -217,59 +217,59 @@ maTokenはイーサリアム・メインネット上のAave V2のaTokenで、ポ
 
 maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
 
-* maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するHaunt 1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
+* maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するハウント1 Aavegotchiに適用されます。 maTokenの価値は増加しますが、数量は変わらないため、自分のゴッチを生贄にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
-* amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
+* amTokenは時間とともに**数量**が増加します。 これはハウント2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
 
-### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
-QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+### QuickSwapでmaLINK/maUNIにスワップできないのはなぜですか？
+QuickSwap（クィックスワップ） は、maUNI や maLINK など、いくつかの maToken に対してルーティングの問題があります。 最初に手動で maUSDC にスワップし、その後、それぞれの maToken を取得する必要があります。
 
-**Doesn't work**: ETH/USDC -> maUNI/maLINK
+**動作しません**：ETH/USDC -> maUNI/maLINK
 
-**Works**: maUSDC -> maUNI/maLINK
+**動作します**： maUSDC -> maUNI/maLINK
 
 ### AavegotchiはOpenSeaと統合されますか？
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Aavegotchiはイーサリアム・メインネット上のオープンシー（および他のセカンダリーマーケットプレイス）と完全に互換性があります。 課題はオープンシーのポリゴンとの連携です。 誰かがバザールにゴッチを売りに出すと、そのウェアラブルも一緒に出品されます。 オープンシー・ポリゴンには、このロック機能がありません。 そのため、オープンシー・ポリゴンのゴッチ販売者は、ゴッチのウェアラブルを購入しようとする人に危害を加える可能性があります。 購入者を保護するために、ピクセルクラフトはオープンシーにポリゴンへの出品を追求しないことを通告しています。
 
-Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
+同様に、オープンシー・ポリゴンへのウェアラブルの出品にも制約があります。 オープンシー・ポリゴンはコントラクトを解析する方法によって、ERC-1155ウェアラブルの解析に難があります。 この問題は、同じアドレスがERC-721（ゴッチ）とERC-1155（ウェアラブル）の両方を保持していることです。 彼らのインフラストラクチャは、同じ契約で両方を処理するように設定されていません。
 
 ### Aavegotchiのライトペーパーはどこにありますか？
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
+Aavegotchiライトペーパーは2種類あります：(1) Aavegotchiプロジェクトのポイントをまとめた「オリジナルライトペーパー」と、(2) 今後のゴッチバースとゴッチバース内の土地区画であるREALM（レルム）を紹介する「最新ライトペーパー」です。
 
-They can be found here:
+こちらでご覧いただけます：
 
-* [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
+* [オリジナルライトペーパー](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
+* [Aavegotchi REALMライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
 ## ボンディングカーブFAQ
 
 ### GHSTを購入しましたが、ウォレットに表示されません
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+ボンディングカーブで購入した後、GHSTトークンを請求するためには、再度取引を行う必要があります。 例として、以下のスクリーンショットをご覧ください。 ユーザーは、GHSTトークンがウォレットに表示されるために、「CLAIM ORDER」ボタンをクリックする必要があります。
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### ボンディングカーブをフロントランすることは可能ですか？
+いいえ。 ボンディングカーブでGHSTトークンの購入/販売を行う場合、取引はスマートコントラクトに送信される前に他の人の取引と一緒にバッチ処理されます。 彼らはあなたの購入をフロントランするために、より高いガス料金でより低いGHST価格に入札することはできません。
 
 ## FRENS（フレンズ）FAQ
 
 ### FRENSは購入できますか？
-No. FRENS are a way to reward our community members who staked GHST.
+いいえ。 FRENSは、GHSTをステークした私たちのコミュニティメンバーに対するお礼のための方法です。
 
 ### FRENSはラッフル以外の用途に使われますか？
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+いいえ、FRENSはAavegotchiくじに参加するためにのみ使用されます。 Aavegotchiエコシステムの他の部分はGHSTによって動かされます。
 
-### What happens to the FRENS on Mainnet after the game launches on Polygon?
-Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+### ポリゴンでゲームが開始された後、メインネット上のFRENSはどうなりますか？
+あなたのFRENS残高は自動的にポリゴンに転送されます。 その後、メインネット上のFRENSは無価値となります。
 
 ### なぜGHST-USDC LPは1日に74M FRENSを生成するのですか？
-QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 ネタ元ツイートは[こちら](https://twitter.com/coderdannn/status/1362423402871447554)をご覧ください。
 
 ## ラッフルFAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+ラッフルに関する一般的な情報は、<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">ラッフル</a>を参照してください。
 
 
 
@@ -280,7 +280,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Aavegotchiストアでラッフル用ウェアラブルは販売されますか？
 
-No. The only time these wearables will ever be released is during the pre-launch raffles.
+いいえ。 The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### ラッフル用ウェアラブルは特別なものですか？
@@ -330,7 +330,7 @@ If you’re the highest bidder at the end of the Auction, you’ll see a “Clai
 ## ウェアラブルに関するFAQ
 
 ### ウェアラブル商品券をポリゴンに転送する必要がありますか？
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+いいえ。 Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ### 各ウェアラブルの数量には限りがありますか？
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
