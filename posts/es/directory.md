@@ -39,19 +39,21 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Desarrolladores](/developers)
 
-* [Forma de Ojos](/eye-shape)
+* [Estaates](/estaates)
+
+* [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
 
 * [Gaame Jaam](/gaame-jaam)
 
-* [Token GHST](/ghst)
+* [GHST Token](/ghst)
 
-* [Glosario](/glossary)
+* [Glossary](/glossary)
 
-* [Préstamo de Gotchi](/gotchi-lending)
+* [Gotchi Lending](/gotchi-lending)
 
-* [Gotchiverso](/gotchiverse)
+* [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
 
