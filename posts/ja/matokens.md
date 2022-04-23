@@ -22,7 +22,7 @@ There are multiple ways to get your hands on some maTokens. In this page, we wil
 
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Aavegotchi達にmaTokenをステーキング</a></li>
-<li><a href=#problems-while-staking-spirit-force>スピリットフォースをステーキングした際に起きる問題点</a></li>
+<li><a href=#problems-while-staking-spirit-force>スピリットフォースをステーキング中の問題点</a></li>
 <li><a href=#learn-more>もっと詳しく</a></li>
 </ol>
 
@@ -38,14 +38,14 @@ The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals c
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
-## スピリットフォースをステーキングした際に起きる問題点
+## スピリットフォースをステーキング中の問題点
 
 There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
 
 * You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
 * The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
 
-## Learn more
+## もっと詳しく
 
 * [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
 * Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
