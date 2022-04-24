@@ -1,12 +1,12 @@
 ---
-author: コーダー・ダン
+author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'ウェアラブル'
 description: 'Aavegotchiウェアラブルについて'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -35,37 +35,37 @@ Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です�
 <ol>
 <li><a href=#key>キー</a></li>
 <li><a href=#voting-power>投票権</a></li>
-<li><a href=#weapons>Weapons</a></li>
-<li><a href=#link-themed-set>LINK Themed Set</a></li>
-<li><a href=#aave-themed-set>Aave Themed Set</a></li>
-<li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
-<li><a href=#aagent-wearables-set>Aagent Wearables Set</a></li>
-<li><a href=#wizard-wearables-set>Wizard Wearables Set</a></li>
-<li><a href=#farmer-wearables-set>Farmer Wearables Set</a></li>
-<li><a href=#santa-wearables-set>Santa Wearables Set</a></li>
-<li><a href=#okex-wearables>OKex Wearables</a></li>
-<li><a href=#skater-wearables-set>Skater Wearables Set</a></li>
-<li><a href=#sushi-wearables-set>Sushi Wearables Set</a></li>
-<li><a href=#gentleman-wearables-set>Gentleman Wearables Set</a></li>
-<li><a href=#miner-wearables-set>Miner Wearables Set</a></li>
-<li><a href=#pajamas-wearables-set>Pajamas Wearables Set</a></li>
-<li><a href=#runner-wearables-set>Runner Wearables Set</a></li>
-<li><a href=#lady-wearables-set>Lady Wearables Set</a></li>
-<li><a href=#witchy-wearables-set>Witchy Wearables Set</a></li>
-<li><a href=#portal-wearables-set>Portal Wearables Set</a></li>
-<li><a href=#rasta-wearables-set>Rasta Wearables Set</a></li>
-<li><a href=#hazmat-wearables-set>Hazmat Wearables Set</a></li>
-<li><a href=#vacation-wearables-set>Vacation Wearables Set</a></li>
-<li><a href=#independent-drink-items>Independent Drink Items</a></li>
-<li><a href=#independent-head-items>Independent Head Items</a></li>
-<li><a href=#independent-body-items>Independent Body Items</a></li>
+<li><a href=#weapons>武器</a></li>
+<li><a href=#link-themed-set>LINKテーマセット</a></li>
+<li><a href=#aave-themed-set>Aaveテーマセット</a></li>
+<li><a href=#ethereum-themed-set>Ethereumテーマセット</a></li>
+<li><a href=#aagent-wearables-set>エージェント・ウェアラブルセット</a></li>
+<li><a href=#wizard-wearables-set>ウィザード・ウェアラブルセット</a></li>
+<li><a href=#farmer-wearables-set>ファーマー・ウェアラブルセット</a></li>
+<li><a href=#santa-wearables-set>サンタ・ウェアラブルセット</a></li>
+<li><a href=#okex-wearables>OKexウェアラブル</a></li>
+<li><a href=#skater-wearables-set>スケーター・ウェアラブルセット</a></li>
+<li><a href=#sushi-wearables-set>寿司ウェアラブルセット</a></li>
+<li><a href=#gentleman-wearables-set>紳士ウェアラブルセット</a></li>
+<li><a href=#miner-wearables-set>マイナー・ウェアラブルセット</a></li>
+<li><a href=#pajamas-wearables-set>パジャマ・ウェアラブルセット</a></li>
+<li><a href=#runner-wearables-set>ランナー・ウェアラブルセット</a></li>
+<li><a href=#lady-wearables-set>レディー・ウェアラブルセット</a></li>
+<li><a href=#witchy-wearables-set>ウィッチー・ウェアラブルセット</a></li>
+<li><a href=#portal-wearables-set>ポータル・ウェアラブルセット</a></li>
+<li><a href=#rasta-wearables-set>ラスタ・ウェアラブルセット</a></li>
+<li><a href=#hazmat-wearables-set>ハザードスーツ・ウェアラブルセット</a></li>
+<li><a href=#vacation-wearables-set>バケーション・ウェアラブルセット</a></li>
+<li><a href=#independent-drink-items>個別ドリンク・アイテム</a></li>
+<li><a href=#independent-head-items>個別ヘッド・アイテム</a></li>
+<li><a href=#independent-body-items>個別ボディ・アイテム</a></li>
 <li><a href=#consumables>消費アイテム</a></li>
-<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
-<li><a href=#auction-wearables>Auction Wearables</a></li>
-<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
-<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
-<li><a href=#partnerships-set>Partnerships Set</a></li>
-<li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#layer-2-themed-set>レイヤー2テーマセット</a></li>
+<li><a href=#auction-wearables>オークション・ウェアラブル</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi × Venly・ウェアラブル</a></li>
+<li><a href=#haunt-2-wearables>ハウント2・ウェアラブル</a></li>
+<li><a href=#partnerships-set>パートナーシップ・セット</a></li>
+<li><a href=#defi-rpg-wearables>DeFi RPG・ウェアラブル</a></li>
 </ol>
 
 </div>
@@ -97,7 +97,7 @@ Aavegotchiは4つの特性を持っており、ウェアラブルによって変
 
 表＿ウェアラブルの投票力
 
-## Weapons
+## ウェポン（武器）
 
 Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
 
@@ -105,107 +105,107 @@ Weapons are hand wearables classified either as Melee or Ranged Weapon. These sp
 
 Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
 
-## LINK Themed Set
+## LINKテーマセット
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
+LINKをテーマにしたこれらのウェアラブルは、AavegotchiとChainlinkのパートナーシップ、特にAavegotchiが検証可能で証明可能なランダムな特性を持つことを保証するためのChainlink VRFの使用を記念して2020年11月に限定ラッフルで配布されます。
 
-table_linkWearablesTable
+表＿LINKウェアラブル表
 
-## Aave Themed Set
+## Aaveテーマセット
 
-The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+2020年12月8日に開催された3回の発売前ラッフル第2弾で配布された「Aaveテーマセット」。 This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
-## Ethereum Themed Set
+## Ethereumテーマセット
 
 The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
-## Aagent Wearables Set
+## エージェント・ウェアラブルセット
 
 The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
-## Wizard Wearables Set
+## ウィザード・ウェアラブルセット
 
 table_wizardWearablesTable
 
-## Farmer Wearables Set
+## ファーマー・ウェアラブルセット
 
 table_farmerWearablesTable
 
-## Santa Wearables Set
+## サンタ・ウェアラブルセット
 
 One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
-## OKex Wearables
+## OKexウェアラブル
 
 On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
-## Skater Wearables Set
+## スケーター・ウェアラブルセット
 
 table_skaterWearablesTable
 
-## Sushi Wearables Set
+## 寿司ウェアラブルセット
 
 table_sushiWearablesTable
 
-## Gentleman Wearables Set
+## 紳士ウェアラブルセット
 
 table_gentlemanWearablesTable
 
-## Miner Wearables Set
+## マイナー・ウェアラブルセット
 
 table_minerWearablesTable
 
-## Pajamas Wearables Set
+## パジャマ・ウェアラブルセット
 
 table_pajamasWearablesTable
 
-## Runner Wearables Set
+## ランナー・ウェアラブルセット
 
 table_runnerWearablesTable
 
-## Lady Wearables Set
+## レディー・ウェアラブルセット
 
 table_ladyWearablesTable
 
-## Witchy Wearables Set
+## ウィッチー・ウェアラブルセット
 
 table_witchyWearablesTable
 
-## Portal Wearables Set
+## ポータル・ウェアラブルセット
 
 table_portalWearablesTable
 
-## Rasta Wearables Set
+## ラスタ・ウェアラブルセット
 
 table_rastaWearablesTable
 
-## Hazmat Wearables Set
+## ハザードスーツ・ウェアラブルセット
 
 table_hazmatWearablesTable
 
-## Vacation Wearables Set
+## バケーション・ウェアラブルセット
 
 table_vacationWearablesTable
 
-## Independent Drink Items
+## 個別ドリンク・アイテム
 
 table_independentDrinksTable
 
-## Independent Head Items
+## 個別ヘッド・アイテム
 
 table_independentHeadTable
 
-## Independent Body Items
+## 個別ボディ・アイテム
 
 table_independentBodyTable
 
@@ -213,13 +213,13 @@ table_independentBodyTable
 
 table_consumablesTable
 
-## Layer 2 Themed Set
+## レイヤー2テーマセット
 
 The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
 
 table_layer2WearablesTable
 
-## Auction Wearables
+## オークション・ウェアラブル
 
 The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
 
@@ -227,22 +227,22 @@ This first Aauction features two brand new sets of wearables as well as a fun ne
 
 table_auctionWearablesTable
 
-## Aavegotchi x Venly Wearables
+## Aavegotchi × Venly・ウェアラブル
 
 A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
 
 table_venlyWearablesTable
 
-## Haunt 2 Wearables
+## ハウント2・ウェアラブル
 
 table_haunt2Table
 
-## Partnerships Set
+## パートナーシップ・セット
 
 The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
 
 table_partnershipsTable
 
-## DeFi RPG Wearables
+## DeFi RPG・ウェアラブル
 
 table_DeFiRPGTable
