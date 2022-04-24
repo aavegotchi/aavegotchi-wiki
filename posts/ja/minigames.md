@@ -52,94 +52,94 @@ Aavegotchi.com DApp のミニゲームセクションは、[こちら](https://a
 
 ゲームへのリンクは[こちら](https://cryptolve.com/aavegotchi_pacman/)
 
-<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "リヴァースパックマンAavegotchiのミニゲーム" />
 
 ### Portal Rider by BitFlicker（ポータル・ライダー）
 
 ゲームへのリンクは[こちら](https://bitflicker.tech/aavegotchi/rider/)
 
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "ポータルライダーAavegotchiのミニゲーム" />
 
 ### Gotchi Tower Defense by jarrod | aavegotchistats.com（ゴッチ・タワー・ディフェンス）
 
 ゲームへのリンクは[こちら](https://aavegotchistats.com/td)
 
-<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "ゴッチタワーディフェンスAavegotchiのミニゲーム" />
 
 ### Gotchi the Gaatherer by BitFlicker（ゴッチ・ザ・ギャザラー）
 
 ゲームへのリンクは[こちら](https://gotchigaatherer.gg/)
 
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "ゴッチザギャザラーAavegotchiミニゲーム" />
 
 ### Sushi Vader by ricJones｜Grizzy（スシ・ベーダー）
 
 ゲームへのリンクは[こちら](https://sushivader.com/)
 
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "スシベーダーAavegotchiミニゲーム" />
 
 ### Snaake by SpyceBringer（スネーク）
 
 ゲームへのリンクは[こちら](https://snaake.gg/)
 
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/snaake.png" alt = "スネークAavegotchiミニゲーム" />
 
 ### Whac-a-Rofl by Gotchinomics（ワック・ア・ロッフル）
 
 ゲームへのリンクは[こちら](https://whacarofl.com/)
 
-<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "ワックアロッフルAavegotchiミニゲーム" />
 
 ### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics（ゴッチマイナー）
 
 ゲームへのリンクは[こちら](https://gotchiminer.rocks/)
 
-<img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "ゴッチマイナーAavegotchiミニゲーム" />
 
 ### Aadventure by MetaGuild @metaguildcom & @HotspurSC2（アードベンチャー）
 
 ゲームへのリンクは[こちら](https://hotspurhn.github.io/)
 
-<img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/aadventure.png" alt = "アードベンチャーAavegotchiミニゲーム" />
 
 ### 1 Arm Baandit @mdurkin92（ワン・アーム・バンディット）
 
 ゲームへのリンクは[こちら](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
-<img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "ワンアームバンディットAavegotchiミニゲーム" />
 
 ### Aavezon by @space_asylum（アーヴェゾン）
 
 ゲームへのリンクは[こちら](https://mikekrow.com/games/aavezon/index.html)
 
-<img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/aavezon.png" alt = "アーヴェゾンAavegotchiミニゲーム" />
 
 ### Portal Ddefenders by @oh_no_bruno（ポータル・ディフェンダーズ）
 
-Link to game [here](https://square-wildflower-4590.on.fleek.co/)
+ゲームへのリンクは[こちら](https://square-wildflower-4590.on.fleek.co/)
 
-<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "ポータルディフェンダーズAavegotchiミニゲーム" />
 
-### Sushibagotchi by @sushibatoken
+### Sushibagotchi by @sushibatoken（スシバゴッチ）
 
-Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
+ゲームへのリンクは[こちら](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
 
-<img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "スシバゴッチAavegotchi ミニゲーム" />
 
-### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)（サムゴッチ・ショーダウン）
 
-Link to game [here](https://samugotchi-shodown.vercel.app/)
+ゲームへのリンクは[こちら](https://samugotchi-shodown.vercel.app/)
 
-<img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "サムゴッチショーダウンAavegotchiミニゲーム" />
 
-### Astegotchi by Alvi
+### Astegotchi by Alvi（アステゴッチ）
 
-Link to game [here](https://astegotchi.aavegames.com/)
+ゲームへのリンクは[こちら](https://astegotchi.aavegames.com/)
 
-<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "アステゴッチAavegotchiミニゲーム" />
 
-### Pinbaal by SpyceBringer and Dennis Gedai Eichert
+### Pinbaal by SpyceBringer and Dennis Gedai Eichert（ピンバール）
 
-Link to game [here](https://pinbaal.com)
+ゲームへのリンクは[こちら](https://pinbaal.com)
 
-<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "ピンバールAavegotchiミニゲーム" />
