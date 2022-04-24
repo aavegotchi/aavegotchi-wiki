@@ -122,7 +122,7 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### ラッフル4への参加 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### ラッフル4への参加 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator)を使用して当選確率を計算する方法をご紹介します。
 * PolygonでGHSTトークンをステークする方法を学ぶ
@@ -141,7 +141,7 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### 土地購入の完全ガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 土地購入の完全ガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Aavegotchiとリッキデーター（Lickquidators）達について学びます
 * REALM（レルム）区画について
@@ -151,7 +151,7 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### Aavegotchi：土地オークションガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi：土地オークションガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * REALM（レルム）区画について
 * ゴッチュス・アルケミカ（Gotchus Alchemica）について
@@ -161,7 +161,7 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### 特性&ベルカーブ完全解説 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 特性&ベルカーブ完全解説 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * 特性について学ぶ
 * ベルカーブについて学ぶ
@@ -170,7 +170,7 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### Aavegotchiを購入する（ビデオ） <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchiを購入する（ビデオ） <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * バザールでAavegotchiを購入する方法を学ぶ
 * バザールで閉じたポータルや開いてるポータルの購入について学ぶ
@@ -194,14 +194,14 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 * シグナルプロポーザルの作り方について学ぶ
 * シグナルプロポーザルがコアプロポーザルになるには？
 * コアプロポーザルの種類について学ぶ
-* Learn about Vote Differential
-* Learn how to Vote
+* 差分投票について
+* 投票方法を学ぶ
 
 <hr />
 
-### Mumbai Testnetでゴッチバースにアクセスする
-Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+### Mumbai Testnetでゴッチバース（Gotchiverse）にアクセスする
+記事は[こちら](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
 
-* Learn about the required setup to try out the Gotchiverse
-* Learn about the control scheme in the Gotchiverse
-* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+* ゴッチバースで遊ぶために必要なセットアップについて学ぶ
+* ゴッチバースの制御方式について学ぶ
+* ゴッチュス・アルケミカ（Gotchus Alchemica）の収集方法とアールター・インスタレーション（Aaltar Installation）のクラフト方法について学ぶ
