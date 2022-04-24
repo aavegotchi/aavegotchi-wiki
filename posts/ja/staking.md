@@ -1,5 +1,5 @@
 ---
-author: ニック・マッジ
+author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'ステーキング'
 description: 'GHSTを預けてFRENSを稼ごう'
