@@ -1,8 +1,8 @@
 ---
-author: ニック・マッジ
+author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
-title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+title: 'チケット'
+description: 'Aavegotchi チケットとラッフル賞品!'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -21,7 +21,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 **目次**
 
 <ol>
-<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
+<li><a href=#purchasing-tickets>チケットを購入する</a></li>
 <li><a href=#entering-raffles>Entering Raffles</a></li>
 <li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
 <li><a href=#more-resources>More Resources</a></li>
@@ -29,7 +29,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 </div>
 
-## Purchasing Tickets
+## チケットを購入する
 
 Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
 
@@ -40,7 +40,7 @@ The current supply of Tickets can be determined using the OpenSea Polygon interf
 There are two main categories of tickets:
 
 * ラッフルチケット
-* Drop Ticket
+* ドロップチケット
 
 Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
 
