@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Estaates'
-description: 'Aavegotchi Estaates'
+title: 'Estaates（エステート）'
+description: 'Aavegotchiエステート'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/estaates/estaates.png">
-<p class="headerImageText">Estaates</p>
+<p class="headerImageText">Estaates（エステート）</p>
 </div>
 
 A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
