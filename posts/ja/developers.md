@@ -1,16 +1,16 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+title: 'Aavegotchiの開発'
+description: 'このウィキの開発を手伝ってください！'
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">CoderDanはあなたを歓迎します！</p>
 </div>
 
-Wanna show off your hotshot coding skills? We welcome you fren!
+凄腕のコーディングスキルを披露してみたい？ 私たちはあなたを歓迎します!
 
 The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
