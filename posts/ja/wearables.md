@@ -99,11 +99,11 @@ Aavegotchiは4つの特性を持っており、ウェアラブルによって変
 
 ## ウェポン（武器）
 
-Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
+一部のウェアラブルは、ゴッチバースで[ウェポン（武器）](/weapons)として使用することができます。
 
-Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+武器は手に装備するハンド・ウェアラブルで、近接武器と遠距離武器のどちらかに分類されます。 これらの特殊ウェアラブルは、ゴッチ（アリーナ内）、リッキデーター、エネミー、ウォールズ（Waalls）にダメージを与えることができます。
 
-Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+また、それぞれの武器には、ウォールズへの追加ダメージ、リッキデーターへの追加ダメージ、攻撃速度の増加など、特別な効果が付いています。
 
 ## LINKテーマセット
 
@@ -223,26 +223,26 @@ LINKをテーマにしたこれらのウェアラブルは、AavegotchiとChainl
 
 2021年7月15日（木）～18日（日）の期間、第1回「入札型オークション」を開催しました。 ビッド・トゥー・アーン（Bid-to-Earn）のオークションは、我々のフレンズであるGBM.accessの技術によって実現されています。 このNFTの配信方法が、なぜ旧来のモデルよりも大きな利点をもたらすのかについては、同社のサイトを訪問し、公開された[Mediumの記事](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)をお読みください。
 
-この最初のオークションでは、2つの新しいウェアラブルセットと、楽しくて新しいコモン・レアリティー・アイテムが出品されます。 Get ready for gamers, steampunks and even a cup of coffee!
+この最初のオークションでは、2つの新しいウェアラブルセットと、楽しくて新しいコモン・レアリティー・アイテムが出品されます。 ゲーマー、スチームパンク、そしてコーヒーカップがゲットできます！
 
-table_auctionWearablesTable
+表＿オークションウェアラブル表
 
 ## Aavegotchi × Venly・ウェアラブル
 
-A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+AavegotchiとVenlyのコラボにより、Aavegotchiを大勢のNFTゲームファンに紹介します。 詳しくは[この投稿](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)をお読みください。
 
-table_venlyWearablesTable
+表＿venlyウェアラブル表
 
 ## ハウント2・ウェアラブル
 
-table_haunt2Table
+表＿ハウント2表
 
 ## パートナーシップ・セット
 
-The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+第5回目の抽選会は、Aavegotchiの友好的なパートナーシップをイメージしています。
 
-table_partnershipsTable
+表＿パートナーシップ表
 
 ## DeFi RPG・ウェアラブル
 
-table_DeFiRPGTable
+表＿DeFiRPG表
