@@ -113,117 +113,117 @@ LINKをテーマにしたこれらのウェアラブルは、AavegotchiとChainl
 
 ## Aaveテーマセット
 
-2020年12月8日に開催された3回の発売前ラッフル第2弾で配布された「Aaveテーマセット」。 This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
+2020年12月8日に開催された3回の発売前ラッフル第2弾で配布された「Aaveテーマセット」。 AavegotchiとAaveコミュニティ、リーダーシップチームの絆を称えるアーベサム（Aavesome）コレクションです。
 
-table_aaveWearablesTable
+表＿aaveウェアラブル表
 
 ## Ethereumテーマセット
 
-The Ethereum-themed set is the last of three pre-Mainnet sets.
+イーサリアムをテーマにしたセットは、メインネット前の3つのセットのうち最後のものです。
 
-table_ethereumWearablesTable
+表＿イーサリアムウェアラブル表
 
 ## エージェント・ウェアラブルセット
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
+エージェント・ウェアラブルセットは、メインネット上のAavegotchiの開始前に、[レベル12のエージェント](/missions)・ミッションをすべてクリアしたエージェントにのみ贈られる限定セットです。 写真と数量は近日公開予定です。
 
-table_aagentWearablesTable
+表＿エージェントウェアラブル表
 
 ## ウィザード・ウェアラブルセット
 
-table_wizardWearablesTable
+表＿ウィザードウェアラブル表
 
 ## ファーマー・ウェアラブルセット
 
-table_farmerWearablesTable
+表＿ファーマーウェアラブル表
 
 ## サンタ・ウェアラブルセット
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+我々の友人の一人が誤ってGHSTステーキング・コントラクトに4000 LINK (~$50,000)を送信してしまいました。 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
 
-table_santaWearablesTable
+表＿サンタウェアラブル表
 
 ## OKexウェアラブル
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+2020年10月7日、AavegotchiはOKexと提携し、OKexのCEOであるジェイ・ハオ氏をイメージした特別なウェアラブルセットを作りました。 OKexのプラットフォームでGHSTトークンを預けた幸運な預金者は、これらのウェアラブルを獲得するチャンスがありました。 150個のウェアラブルをご用意しています。 上位5名の入金者は、自動的に5点セットを獲得することができます。 しかし、残りの125個のNFTは、10GHST以上入金した人にランダムに授与されます。 詳しくは[こちら](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)をご覧ください。
 
-table_okexWearablesTable
+表＿okexウェアラブル表
 
 ## スケーター・ウェアラブルセット
 
-table_skaterWearablesTable
+表＿スケーターウェアラブル表
 
 ## 寿司ウェアラブルセット
 
-table_sushiWearablesTable
+表＿寿司ウェアラブル表
 
 ## 紳士ウェアラブルセット
 
-table_gentlemanWearablesTable
+表＿紳士ウェアラブル表
 
 ## マイナー・ウェアラブルセット
 
-table_minerWearablesTable
+表＿マイナーウェアラブル表
 
 ## パジャマ・ウェアラブルセット
 
-table_pajamasWearablesTable
+表＿パジャマウェアラブル表
 
 ## ランナー・ウェアラブルセット
 
-table_runnerWearablesTable
+表＿ランナーウェアラブル表
 
 ## レディー・ウェアラブルセット
 
-table_ladyWearablesTable
+表＿レディーウェアラブル表
 
 ## ウィッチー・ウェアラブルセット
 
-table_witchyWearablesTable
+表＿ウィッチーウェアラブル表
 
 ## ポータル・ウェアラブルセット
 
-table_portalWearablesTable
+表＿ポータルウェアラブル表
 
 ## ラスタ・ウェアラブルセット
 
-table_rastaWearablesTable
+表＿ラスタウェアラブル表
 
 ## ハザードスーツ・ウェアラブルセット
 
-table_hazmatWearablesTable
+表＿ハザードスーツウェアラブル表
 
 ## バケーション・ウェアラブルセット
 
-table_vacationWearablesTable
+表＿バケーションウェアラブル表
 
 ## 個別ドリンク・アイテム
 
-table_independentDrinksTable
+表＿個別ドリンクアイテム表
 
 ## 個別ヘッド・アイテム
 
-table_independentHeadTable
+表＿個別ヘッドアイテム表
 
 ## 個別ボディ・アイテム
 
-table_independentBodyTable
+表＿個別ボディアイテム表
 
-## 消費アイテム
+## 消耗品
 
-table_consumablesTable
+表＿消耗品表
 
 ## レイヤー2テーマセット
 
-The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+[Polygon](/polygon)でのAavegotchi発売を記念した「第4回抽選会」。
 
-table_layer2WearablesTable
+表＿レイヤー2ウェアラブル表
 
 ## オークション・ウェアラブル
 
-The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+2021年7月15日（木）～18日（日）の期間、第1回「入札型オークション」を開催しました。 ビッド・トゥー・アーン（Bid-to-Earn）のオークションは、我々のフレンズであるGBM.accessの技術によって実現されています。 このNFTの配信方法が、なぜ旧来のモデルよりも大きな利点をもたらすのかについては、同社のサイトを訪問し、公開された[Mediumの記事](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)をお読みください。
 
-This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+この最初のオークションでは、2つの新しいウェアラブルセットと、楽しくて新しいコモン・レアリティー・アイテムが出品されます。 Get ready for gamers, steampunks and even a cup of coffee!
 
 table_auctionWearablesTable
 
