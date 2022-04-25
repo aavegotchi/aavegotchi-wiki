@@ -22,7 +22,7 @@ Esta página contiene información detallada sobre cada equipable que ha sido co
 
 El diseño de los equipables es realizado por [Xibot](/team#xibot) y nuestro equipo de [aartistas de la comunidad](/aartist). Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
 
-<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Equipables de Aavegotchi - 4 vistas" />
 
 Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets)!
 
@@ -229,7 +229,7 @@ table_auctionWearablesTable
 
 ## Aavegotchi x Venly equipables
 
-Una colaboración entre Aavegotchi y Venly para presentar Aavegotchi a un público masivo de juegos NFT. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+Una colaboración entre Aavegotchi y Venly para presentar Aavegotchi a un público masivo de juegos NFT. Lee esta [publicación](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) para más información.
 
 table_venlyWearablesTable
 
@@ -239,7 +239,7 @@ table_haunt2Table
 
 ## Set de Partnerships
 
-The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+El quinto Raffle está inspirado en las asociaciones más amistosas de Aavegotchi.
 
 table_partnershipsTable
 
