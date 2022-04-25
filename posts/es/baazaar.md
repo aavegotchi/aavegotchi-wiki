@@ -70,7 +70,7 @@ There are a variety of products listed on the Baazaar:
 * Portals
 * Gotchiverse Land
 * Installations
-* Wearables
+* Equipables
 * Consumables
 * Raffle Tickets
 
