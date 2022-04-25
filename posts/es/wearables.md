@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+title: 'Equipables'
+description: 'Todo sobre los sets de ropa de Aavegotchi'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -11,22 +11,22 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/wearables/sergey-blue.png">
-<p class="headerImageText">The Sergey Blue Plaid</p>
+<p class="headerImageText">Los cuadros azules de Sergey</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Los equipables son un componente importante del juego Aavegotchi. Además de dotar a tus Aavegotchi de un sentido de la moda, los vestidos también aumentan los rasgos de Aavegotchi y la puntuación de rareza, permitiéndoles mejorar su desempeño en [mini-juegos](/minigames), así como en [rarity farming](/rarity-farming).
 
-Wearables conform to the ERC-1155 standard.
+Los vestidos se ajustan al estándar ERC-1155.
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
+Esta página contiene información detallada sobre cada equipable que ha sido confirmado en el juego Aavegotchi.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+El diseño de los equipables es realizado por [Xibot](/team#xibot) y nuestro equipo de [aartistas de la comunidad](/aartist). Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
-For information on **Wearable Sets**, check out this [page](/sets)!
+Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets)!
 
-*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+*Nota: Hay algunos objetos (IDs 162-198, 210) que no se reflejan en esta página ya que no son equipables. Estos objetos son [Insignias](/baadge) y el fondos del Ritual 1.*
 
 <div class="contentsBox">
 
@@ -72,14 +72,14 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 ## Key
 
-Aavegotchis have four traits that can be modified by wearables.
+Los avegotchis tienen cuatro rasgos que pueden ser modificados por los equipables.
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG = Agresividad
+* NRG = Energía
+* SPK = Espanto
+* BRN = Inteligencia
 
-The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
+Los rasgos de "Color de Ojos" y "Forma de Ojos" no pueden ser modificados por equipables.
 
 *Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
