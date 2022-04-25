@@ -86,46 +86,51 @@ contributors:
 <p><a href=#what-is-gotchus-alchemica->ゴッチュス・アルケミカ（Gotchus Alchemica）とは何ですか？</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->アルケミカル・アールター（Alchemical Aaltar）とは何ですか？</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->プレイするにはAavegotchiが必要ですか？</a></p>
+<p><a href=#i-m-playing-with-a-borrowed-gotchi--i-claimed-tokens-from-my-gotchi-pocket--but-tokens-were-not-received>I’m playing with a borrowed Gotchi. I claimed tokens from my Gotchi Pocket, but tokens were not received</a></p>
+<p><a href=#claimable-rewards-in-my-gotchi-pocket-disappeared->Claimable rewards in my Gotchi Pocket disappeared!</a></p>
+<p><a href=#i-withdrew-my-alchemica-but-it-s-not-in-my-wallet>I withdrew my Alchemica but it’s not in my wallet</a></p>
+<p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>My borrowing period is over, but I don’t see the Alchemica in my wallet</a></p>
+<p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>I didn’t receive Alchemica that I tried to withdraw hours ago</a></p>
 <li><a href=#gotchi-lending-faq>ゴッチレンディングに関するFAQ</a></li>
-<p><a href=#who-pets-a-lent-aavegotchi->貸したAavegotchiは誰がペットするのですか？</a></p>
-<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Aavegotchiを貸した後、早めに回収する方法はありますか？</a></p>
-<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->借り手はAavegotchiに装備するものを追加したり取り外したりすることができますか？</a></p>
-<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->レンタル期間が終了したら、Aavegotchiを再出品する必要がありますか？</a></p>
-<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->「ホワイトリスト」の項目がウォレットアドレスを受け付けないのはなぜですか？</a></p>
+<p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
+<p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
+<p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
+<p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
+<p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Why doesn't the Whitelist field accept wallet addresses?</a></p>
 <li><a href=#aambassador-faq>アーンバサダー（Aambassador）に関する FAQ</a></li>
-<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->アーンバサダーとして毎月報告書を提出する必要がありますか？</a></p>
-<p><a href=#how-big-should-i-grow-my--gotchigang->ゴッチギャング（#GotchiGang）はどれくらいの大きさにすればいいのですか？</a></p>
-<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->私が欲しい#GotchiGangの名前がすでに他の人に取られていた場合はどうすればいいですか？</a></p>
-<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->私はすでにAavegotchiをテーマにしたグループを持っています。 アーンバサダーに応募したほうがよいですか？</a></p>
-<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->ここに答えがない質問があります。 どこで質問すればよいですか？</a></p>
+<p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
+<p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
+<p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
+<p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
+<p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
 <li><a href=#guild-faq>ギルドFAQ</a></li>
-<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->アーンバサダーグループとギルドの違いは何ですか？</a></p>
-<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？</a></p>
+<p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
+<p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
 <li><a href=#bridging-faq>ブリッジングFAQ</a></li>
-<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Aavegotchiがイーサリアムにブリッジされた後、Aavegotchiはまだペットできますか？</a></p>
-<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Aavegotchiがイーサリアムにある場合でも、レアリティ・ファーミングの報酬を得ることができますか？</a></p>
-<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->ウェアラブルを装備したままゴッチをブリッジできますか？</a></p>
-<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->イーサリアムにいる間、私のゴッチはウェアラブルを装備したり外したりすることができますか？</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->イーサリアムにいる間、私のAavegotchiを使って、今後リリースされるゴッチバースで遊ぶことはできますか？</a></p>
-<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->個々のウェアラブル、ポータル、消耗品もイーサリアムにブリッジしてRaribleに出品することは可能ですか？</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->Raribleを通じてイーサリアムでAavegotchiを購入した場合、それをポリゴンに戻すにはどのようにブリッジすればよいですか？</a></p>
-<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->イーサリアムにブリッジされた状態で、バザールでAavegotchiを売ることはできますか？</a></p>
-<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->イーサリアムに移行した状態で、OpenSeaでAavegotchiをトレードできますか？</a></p>
+<p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
+<p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
+<p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
+<p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
+<p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
+<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
+<p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
+<p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
 <li><a href=#technical-faq>テクニカル FAQ</a></li>
-<p><a href=#is-aavegotchi-on-chain->Aavegotchiはオンチェーンですか？</a></p>
-<p><a href=#which-wallet-should-i-use-with-aavegotchi->Aavegotchiで使うべきウォレットはどれですか？</a></p>
-<p><a href=#will-aavegotchi-run-on-layer-2->Aavegotchiはレイヤー2で動作しますか？</a></p>
-<p><a href=#do-i-need-to-migrate-my-aave-tokens->Aaveトークンの移行は必要ですか？</a></p>
-<p><a href=#how-do-i-migrate-to-polygon->Polygonに移行するにはどうすればいいですか？</a></p>
-<p><a href=#i-have-a-ledger---trezor--what-do-i-do->レッジャー（Ledger）/トレゾァ（Trezor）を持っていますが、どうすればいいですか？</a></p>
-<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->メタマスクでポリゴンGHSTが表示されませんが、なぜですか？</a></p>
-<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->QuickSwapで自分のLPトークンが表示されないのはなぜですか？</a></p>
-<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？</a></p>
-<p><a href=#why-is-metamask-rejecting-my-token-symbol->なぜMetamaskは私のトークンシンボルを拒否するのですか？</a></p>
-<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>PolygonからGHSTを出金しましたが、待っても届きません。</a></p>
-<p><a href=#why-am-i-experiencing-lag-on-polygon->Polygonでラグが発生しているのはなぜですか？</a></p>
-<p><a href=#where-do-i-find-my-gotchi-token-id->私のゴッチトークンIDはどこにありますか？</a></p>
-<p><a href=#where-do-i-find-my-gotchi-address->私のゴッチアドレスはどこにありますか？</a></p>
+<p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
+<p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
+<p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
+<p><a href=#do-i-need-to-migrate-my-aave-tokens->Do I need to migrate my Aave tokens?</a></p>
+<p><a href=#how-do-i-migrate-to-polygon->How do I migrate to Polygon?</a></p>
+<p><a href=#i-have-a-ledger---trezor--what-do-i-do->I have a ledger / trezor, what do I do</a></p>
+<p><a href=#why-can-t-i-see-my-polygon-ghst-on-metamask->Why can't I see my Polygon GHST on Metamask?</a></p>
+<p><a href=#why-can-t-i-see-my-lp-tokens-on-quickswap->Why can't I see my LP Tokens on QuickSwap?</a></p>
+<p><a href=#can-i-send-polygon-side-tokens-to-centralized-exchanges-directly->Can I send Polygon-side tokens to Centralized Exchanges directly?</a></p>
+<p><a href=#why-is-metamask-rejecting-my-token-symbol->Why is Metamask rejecting my token symbol?</a></p>
+<p><a href=#i-withdrew-my-ghst-from-polygon-but-i-have-yet-to-receive-them-even-after-a-long-wait>I withdrew my GHST from Polygon but I have yet to receive them even after a long wait</a></p>
+<p><a href=#why-am-i-experiencing-lag-on-polygon->Why am I experiencing lag on Polygon?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-token-id->Where do I find my Gotchi Token ID?</a></p>
+<p><a href=#where-do-i-find-my-gotchi-address->Where do I find my Gotchi Address?</a></p>
 </ol>
 
 </div>
@@ -422,189 +427,223 @@ Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコ
 
 はい、ゴッチバース（Gotchiverse）でプレイするにはAavegotchiが必要です。 Aavegotchiをお持ちでない場合は、ゴッチ・レンディング・プログラムでAavegotchiを借りてゴッチバースにアクセスすることができます。
 
+### I’m playing with a borrowed Gotchi. I claimed tokens from my Gotchi Pocket, but tokens were not received
+
+There are 3 possibilities for this:
+
+* Transaction has not yet confirmed onchain. Please wait for your transaction to confirm, or resend it with higher gas.
+
+* Withdraw from Vortex confirmed, but you have not withdrawn from Gotchi Pocket. Claim from your Gotchi Pocket (Top right in the UI).
+
+* Transaction confirmed, but the listing was created before Alchemica tokens were deployed on Polygon. This listing was likely created with “placeholder” Alchemica. Please wait until rental period expires then re-create a new listing with the same parameters. Then you will be able to claim the tokens.
+
+### Claimable rewards in my Gotchi Pocket disappeared!
+
+They were claimed by your manager (or scholar, if you are the manager). Please check your onchain wallet!
+
+### I withdrew my Alchemica but it’s not in my wallet
+
+There are 2 possibilities for this:
+
+* You are using a borrowed Gotchi. Please check your Gotchi Pocket and click “Claim” to move Alchemica to your personal wallet.
+
+* The Alchemica have arrived, but you have not added the tokens. Add the tokens to your Metamask.
+
+### My borrowing period is over, but I don’t see the Alchemica in my wallet
+
+You did not withdraw the tokens from the game before your lending agreement ended. You must withdraw Alchemica from in-game before the borrowing period is over. Try and contact your manager to see if they can transfer it to you manually.
+
+### I didn’t receive Alchemica that I tried to withdraw hours ago
+
+There are 2 possibilities for this:
+
+* Your transaction was still pending when your borrowing period ended. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+
+* There is high network latency. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+
 ## ゴッチレンディングに関するFAQ
 
-### 貸したAavegotchiは誰がペットするのですか？
+### Who pets a lent Aavegotchi?
 
-借りられている間、オーナーは自分のAavegotchiを撫でることができます。
+The owner is still able to pet their Aavegotchi while it is being borrowed.
 
-### 一度貸した Aavegotchi を早く呼び戻す方法はありますか？
+### Is there a way to recall an Aavegotchi early once it’s been lent?
 
-いいえ、一度作成した契約は破棄したり、回収したりすることはできません。
+No, once created an agreement cannot be broken or recalled.
 
-### Aavegotchiにウェアラブルを追加したり削除したりすることはできますか？
+### Can a borrower add or remove Wearables from an Aavegotchi?
 
-いいえ。Aavegotchiを借りている間は、ウェアラブルを装備したり外したりすることはできません。 借り手は、ゴッチを借りる前に、装備されているウェアラブルの数を確認することができます。
+No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
 
-### レンタル期間が終了したら、Aavegotchiを再出品する必要がありますか？
+### Do you need to relist an Aavegotchi once a rental period has concluded?
 
-はい、契約終了後に再出品していただく必要があります。
+Yes, you will need to relist once the agreement has been concluded.
 
-しかし、契約を結ばずに放置して延長することもできます。 貸主または借主のどちらかが契約を終了するまで、契約は有効です。
+However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
 
-### 「ホワイトリスト」の項目がウォレットアドレスを受け付けないのはなぜですか？
+### Why doesn't the Whitelist field accept wallet addresses?
 
-ゴッチレンディングでは、ホワイトリスト欄はウォレットアドレスを受け付けません。 ホワイトリストIDを受け付けます。
+For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
-ホワイトリストIDは、ホワイトリスト作成後、[ホワイトリストページ](https://app.aavegotchi.com/whitelists)に表示されます。
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
 ## アーンバサダー（Aambassador）に関する FAQ
 
-### アーンバサダーとして毎月報告書を提出する必要がありますか？
+### Do I need to fill out monthly reports as an Aambassador?
 
-いいえ、必要ありません。 このアーンバサダープログラムは、あなたが管理業務に集中することなく、**#GotchiGang**の育成に専念できるように設計されています。
+No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
 
-### ゴッチギャング（#GotchiGang）はどれくらいの大きさにすればいいのですか？
+### How big should I grow my #GotchiGang?
 
-**#GotchiGang**の規模を小さくし、特化することが望ましいです。 あなたの街、都市、大学など、あなたの創造性で**#GotchiGang**を作ることができます。
+Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
 
-あなたのグループが100人に達すると、あなたはAavegotchiアーンバサダーとして正式に認められます。
+Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
 
-### 私が欲しい#GotchiGangの名前がすでに他の人に取られていた場合はどうすればいいですか？
+### What if the #GotchiGang name I want has already been taken by someone else?
 
-その名前がすでに使われている場合は、タイプフォームで申請書を記入した後にお知らせします。
+We will inform you if the name has already been taken after you have filled up your application on the typeform.
 
-### 私はすでにAavegotchiをテーマにしたグループを持っています。 アーンバサダーに応募したほうがよいですか？
+### I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?
 
-もちろんです！ あなたのネットワークの成長を簡単に追跡できるのであれば、アーンバサダーになる資格があります。
+Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
 
-### ここに答えがない質問があります。 どこで質問すればよいですか？
+### I have a question that isn’t answered here. Where should I ask it?
 
-アンバサダープログラムに関する質問はすべて、DiscordのWebb#0001にお願いします。
+All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
 ## ギルドFAQ
 
-### アーンバサダーグループとギルドの違いは何ですか？
+### What are the differences between Aambassador groups and Guilds?
 
-アーンバサダー（Aambassador）グループは新しい人にAavegotchiを紹介するためのもので、ギルド（Guild）は既存のプレイヤーがグループになってゴッチバース（Gotchiverse）で一緒にプレイするためのものです。
+Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
 
-### ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？
+### How do I submit my Guild to the Guild wiki page?
 
-DiscordのBowtiedNerd#6509にDMを送り、[ギルドウィキページ](/guild)にある必要な情報をすべて伝えてください。
+DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
 ## ブリッジングFAQ
 
-### Aavegotchiがイーサリアムにブリッジされた後、Aavegotchiはまだペットできますか？
+### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
-**はい**、Gotchi World（ゴッチワールド）とGotchi Care（ゴッチケア＝ゴッチペッティングサービス）の開発者は、ブリッジされたすべてのAavegotchiを自動ペットされるようにしてくれました。 イーサリアムにいる間、Aavegotchiは毎日2ポイントずつキンシップ（親密度）を上げていきますが、ご主人様の訪問を待っています。 宇宙で一人は寂しいです。
+**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
-### Aavegotchiがイーサリアムにある場合でも、レアリティ・ファーミングの報酬を得ることができますか？
+### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
 
-**はい**、あなたのゴッチは、ブリッジされている間、3つのカテゴリ全てのレアリティファーミングの報酬の対象となります。 すべての報酬は直接ポケットに送られます。
+**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
 
-### ウェアラブルを装備したままゴッチをブリッジできますか？
+### Can my Gotchi be bridged over with wearables equipped?
 
-**はい**、ブリッジする前に好きなだけウェアラブルを装備することができます。ただし、イーサリアム上では、Aavegotchiはこれ以上衣装を変更することができませんのでご注意ください。
+**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
 
-### イーサリアムにいる間、私のゴッチはウェアラブルを装備したり外したりすることができますか？
+### Can my Gotchi equip or unequip wearables while on Ethereum?
 
-**いいえ**。あなたのゴッチは基本的にブリッジされた瞬間のスナップショットとしてフリーズされます。 しかし、いつでも元のポリゴンにブリッジすることができます（通常のブリッジ料金がかかります）。
+**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
 
-### イーサリアムにいる間、私のAavegotchiを使って、今後リリースされるゴッチバースで遊ぶことはできますか？
+### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
 
-**いいえ**、ゴッチバースはポリゴン上で動作するため、イーサリアム・メインネット上のゴッチはゴッチバースに参加することができません。 いつでもブリッジし直して遊ぶことができます。
+**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
 
-### 個々のウェアラブル、ポータル、および消耗品は、イーサリアムにブリッジされ、同様にRarible（ラリブル）にリストすることができますか？
+### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
 
-**はい**、でも**まだです**。 ポータルはERC-721トークンなので、すぐに可能です。 ウェアラブルと消耗品はERC-1155アイテムで、今後数週間のうちに独自のブリッジが開かれる予定です。
+**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### Rarible（ラリブル）を通じてイーサリアムでAavegotchiを購入した場合、それをポリゴンに戻すにはどのようにブリッジすればよいですか？
+### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
-[aavegotchi.com/bridge](https://aavegotchi.com/bridge)にアクセスするだけです。 いつでも好きなときにブリッジバックすることができます。
+Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
-### イーサリアムにブリッジされた状態で、バザールでAavegotchiを売ることはできますか？
-**いいえ**、Aavegotchi がブリッジされている間は、Rarible（ラリブル）などのイーサリアムマーケットプレイスでのみ取引できます。
+### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
+**NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
 
-### イーサリアムに移行した状態で、OpenSea（オープンシー）でAavegotchiをトレードできますか？
-**はい**、あなたのゴッチをイーサリアムベースのNFT市場で取引することができますが、Rarible（ラリブル）で取引するときだけRARIを獲得することができます！
+### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
+**YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
 ## テクニカル FAQ
 
-### Aavegotchiはオンチェーンですか？
+### Is Aavegotchi on-chain?
 
-Aavegotchiゲームのすべての要素は[イーサリアム・ブロックチェーンに保存されています](https://twitter.com/aavegotchi/status/1328548543909351429)。 ダイヤモンドスタンダードを使用した私たちのユニークなデザインについては、[こちら](/glossary#diamond-standard)をご覧ください。
+All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
 
-### Aavegotchiで使うべきウォレットはどれですか？
+### Which wallet should I use with Aavegotchi?
 
-私たちのコミュニティの経験では、<a href="https://metamask.io/">Metamask（メタマスク）</a>がAavegotchiで使用するのに最適なオプションです。 メタマスクと[Arkane（アルケーン）ウォレット](https://arkane.network/apps)（近日中にAavegotchiと統合予定）はどちらもERC1155トークンをサポートしており、GHSTトークンに加えてウォレット内のすべての資産（ウェアラブルなど）が見えるようになることを意味します。
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
-アンドロイド端末の場合は、ブラウザ内蔵のメタマスクアプリを使用するのがよいでしょう。
+For android devices, using the Metamask app with the in-built browser is a good choice.
 
-### Aavegotchiはレイヤー2で動作しますか？
+### Will Aavegotchi run on Layer 2?
 
-はい！ Aavegotchiはレイヤー2のソリューションとして[Polygon（ポリゴン）](https://matic.network/)を使用しています。 ポリゴンは強力なチームであり、分散化が進んでおり、OpenSea（オープンシー）のような他のNFTプラットフォームとのネットワーク効果も高いと思われるため、ポリゴンを選択しました。
+はい！ Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
-### Aaveトークンの移行は必要ですか？
+### Do I need to migrate my Aave tokens?
 
-Aavegotchiは[Aaveバージョン2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a)のaTokenで動作します。したがって、Aavegotchiを請求しようとする前に、バージョン1のトークンをすべて移行してください。 Stani氏によると、[近々（発売前に）移行ツールをリリース](https://twitter.com/StaniKulechov/status/1334546997827809285)する<予定です。:)
+Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
-### Polygon（ポリゴン）に移行するにはどうすればいいですか？
-[ポリゴンへの移行ガイド](/polygon)をご覧ください。
+### How do I migrate to Polygon?
+Check out our [Polygon Migration Guide](/polygon).
 
-### レッジャー（Ledger）/トレゾァ（Trezor）を持っていますが、どうすればいいですか？
-Trezor One（トレゾァ・ワン）を使用してもPolygon（ポリゴン）にアクセスすることは可能です。 それ以外の場合は、今のところ不可能です。 Metamask（メタマスク）ウォレットを新規に作成し、@Jesse | gldnXross#6482にDMを送り、ヘルプを求めることができます。
+### I have a ledger / trezor, what do I do?
+You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
 
-### メタマスクでポリゴンGHSTが表示されませんが、なぜですか？
+### Why can't I see my Polygon GHST on Metamask?
 
-2つのトランザクションを完了したことを確認してください：(1) 承認手続き、(2) メインネットからポリゴンへの移行手続き。 ポリゴン上のGHSTのトークン・アドレスは以下の通りです： 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
-### QuickSwapで自分のLPトークンが表示されないのはなぜですか？
+### Why can't I see my LP Tokens on QuickSwap?
 
-QuickSwapにLPトークンをステークした後、ウォレットにLPトークンを表示することはできません。 ウォレットに反映させたい場合は、トークンをアンステークしてください。
+After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
-### Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？
-Polygon側のトークンを直接中央集権取引所（CEX）に送ることはできますか？ **いいえ！**Polygon側のトークンを直接中央集権的な取引所（Binance、Coinbaseなど）に送るべきではありません。 その前に、イーサリアムメインネットにブリッジバックする必要があります。
+### Can I send Polygon-side tokens to Centralized Exchanges directly?
+**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
 
-### なぜMetamaskは私のトークンシンボルを拒否するのですか？
+### Why is Metamask rejecting my token symbol?
 
-Metamaskは、トークンシンボルの最大文字数を11文字に制限しています。 トークン記号をもっと短いものに変更すれば動作します。 この場合、トークンには影響がなく、Metamaskの表示にのみ影響があります。
+Metamask has a maximum limit of 11 characters for their token symbol. You can change the token symbol to something shorter and it will work. Changing the symbol to something shorter does not affect the token; it only affects the display on your Metamask.
 
-stkGHST-QUICKのトークン記号が11文字以上あるため、かなり多くの人がこの問題に遭遇しています。
+Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "メタマスクトークンシンボルの上限" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
 
-### PolygonからGHSTを出金しましたが、待っても届きません。
+### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
 
-私は[Aavegotchi Bridge](https://aavegotchi.com/bridge)を使用して、Polygonからイーサリアム・メインネットに戻ってGHSTトークン（またはそれ以外の資産）を引き出しました。 数時間経っても、まだイーサリアム・メインネットで私の資産を受け取ることができません。 どうしたらいいでしょうか？
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
-まず、[Polygon Block Explorer](https://explorer.matic.network/)にアクセスし、トランザクションIDを入力してください。 トランザクションのブロック番号を取得します。
+First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
 
-次に、以下のURLの[blockNumber] の部分を実際のブロック番号に置き換えて、そのURLにアクセスしてください。
+Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
 
 https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
 
-このURLには、あなたの出金取引のステータスが表示されます。
+That URL will indicate the status of your withdrawal transaction.
 
-まだ処理されていない場合は、しばらくお待ちください。 最長で6時間かかったケースもあります。
+If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
 
-ポリゴンでの処理が完了しても、AavegotchiブリッジのUIにアセットが表示されない場合は、Coderdan（または他のアプレンティス）へお問い合わせください。
+If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
 
-### Polygonでラグが発生しているのはなぜですか？
+### Why am I experiencing lag on Polygon?
 
-他のPolygon RPCに接続してみてはいかがでしょうか？https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
 
-接続方法については、[「Polygonガイド」](/polygon)をご参照ください。
+For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
-### 私のゴッチトークンIDはどこにありますか？
+### Where do I find my Gotchi Token ID?
 
-AavegotchiトークンID（各Aavegotchiには固有のIDがあります）を取得するには、[マイAavegotchiページ](https://aavegotchi.com/aavegotchis)に移動してください。 自分のゴッチをクリックして、URLの後ろにある数字を観察してください。 以下のような感じです：
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
-https://aavegotchi.com/gotchi/(ゴッチトークンID)
+https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-ゴッチIDを取得したら、Discordのfollowコマンドを使って、ゴッチをあなたのDiscordハンドルにリンクさせることができます。
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
 
 ```
 !gotchi link <tokenID>
 ```
 
-複数のゴッチをお持ちの場合は、同じ手順を複数回繰り返す必要がありますので、ご注意ください。
+Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### 私のゴッチアドレスはどこにありますか？
+### Where do I find my Gotchi Address?
 
-まず、[マイAavegotchi](https://aavegotchi.com/aavegotchis)ページに移動してください。 自分のAavegotchiをどれか一つクリックします。 画面右下に「ポケット」ボタンがあります。 ポケットボタンをクリックすると、ゴッチポケットのウィンドウが表示されます。 「表示」ボタンがあります。 それをクリックすると、そのゴッチのスマートコントラクトアドレスに移動します。 これは、ゴッチの所有者が干渉できるエスクロー契約です。
+First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
-各ゴッチは、独自のスマートコントラクトアドレスを持つことに注意してください。
+Do note that each Gotchi will have its own Smart Contract Address.
 
-<p style="font-style:italic; font-size:13px;">つづく...</p>
+<p style="font-style:italic; font-size:13px;">...to be continued!</p>
 
 
