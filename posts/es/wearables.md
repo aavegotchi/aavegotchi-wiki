@@ -139,13 +139,13 @@ table_farmerWearablesTable
 
 ## Set de Santa
 
-Uno de nuestros amigos accidentalmente envió 4000 LINK (~$50,000) al Contrato de Staking de GHST. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Other items in the Santa wearables set will be available soon as well.
+Uno de nuestros amigos accidentalmente envió 4000 LINK (~$50,000) al Contrato de Staking de GHST. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Otros artículos en el set de equipables de Santa también estarán disponibles pronto.
 
 table_santaWearablesTable
 
 ## Set OKex
 
-On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
+El 7 de octubre de 2020, Aavegotchi se asoció con OKex para crear un conjunto especial de prendas de vestir inspiradas por Jay Hao, el CEO de OKex. Los afortunados que depositan sus fichas GHST en la plataforma OKex tenían la oportunidad de ganar estos equipables. Hay 150 equipables disponibles. El top 5 de depositarios ganarán automáticamente el conjunto completo de 5 piezas. Pero los restantes 125 NFT serán otorgados aleatoriamente a cualquiera que deposite más de 10 GHST. Vea [aquí](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) para más información.
 
 table_okexWearablesTable
 
