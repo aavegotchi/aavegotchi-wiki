@@ -129,6 +129,6 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Weapons](/weapons)
 
-* [Wearables](/wearables)
+* [Equipables](/wearables)
 
 * [XP](/xp)
