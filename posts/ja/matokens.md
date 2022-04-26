@@ -1,51 +1,51 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+title: 'maToken'
+description: 'AavegotchiのmaTokenのすべて'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/matokens/matoken.png">
-<p class="headerImageText">maTokens!</p>
+<p class="headerImageText">maToken！</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
+利子が発生するaToken（エートークン）を[Polygon（ポリゴン）](/glossary#polygon)上に移すとどうなるのか？ それはもちろん、maTokenに変わるのです！
 
-There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
+maTokenを手に入れるには、いくつかの方法があります。 このページでは、その方法をご紹介します。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
-<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Aavegotchi達にmaTokenをステーキングする</a></li>
+<li><a href=#problems-while-staking-spirit-force>スピリットフォースをステーキング中の注意点</a></li>
 <li><a href=#learn-more>もっと詳しく</a></li>
 </ol>
 
 </div>
 
-## Staking maTokens into Aavegotchis
+## Aavegotchi達にmaTokenをステーキングする
 
-Okay, I've gotten myself some maTokens. What now?
+maTokenを手に入れたよ。 次は何？
 
-Good work fren.
+フレンよ、よくできました。
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+次は、[GHST](/ghst)を使って[ポータル](/portals)を購入します。 ポータルはAavegotchi DApp（リンクは発売時に提供されます）またはOpensea（オープンシー）のような[セカンダリーマーケット](/marketplace)で購入することができます。 貴重なポータルを手に入れたら、いよいよ召喚を開始します。 ポータルを開くと、10個のゴッチ達が表示され、それぞれに必要なmaToken/担保がランダムに設定されています。 ここで、入手したmaTokenの出番です。 同じ種類の担保を持つゴッチに張り付け、あなたのフレンズに命を吹き込んでください。
 
-For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+ポータルオープンの詳細な説明は、[ポータル](/portals)ページをご覧ください。
 
-## Problems while staking Spirit Force
+## スピリットフォースをステーキング中の注意点
 
-There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+ユーザーがゴッチに担保をステークすることができない状況が2つあります：
 
-* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
-* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
+* スマートコントラクトがあなたの ERC-20 トークンの使用を許可される前に、承認トランザクションを実行する必要があります。 ほとんどの場合、ユーザーは手動で許容限度を低く設定しすぎています。 この問題を解決するには、許容限度を増やします。
+* ユーザーはAave上の担保を借入に使用しており、それをステーキングするとヘルスファクターが下がり、ポジションが清算される可能性があります。 この状況を改善するには、借りたポジションを減らすかクローズするか、必要な担保を追加してください。
 
-## Learn more
+## もっと詳しく
 
-* [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* Polygon（ポリゴン）でaTokenをmaTokenとして展開することに成功した[Nick Mudge（ニック・マッジ）氏](/team#nick-mudge)による[Twitterスレッド](https://twitter.com/mudgen/status/1352399348219445250)
+* Nick Mudgeが[maTokenの技術的](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)な面につい解説しています

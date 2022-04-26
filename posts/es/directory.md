@@ -39,7 +39,9 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Desarrolladores](/developers)
 
-* [Forma de Ojos](/eye-shape)
+* [Estaates](/estaates)
+
+* [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
 
@@ -47,11 +49,11 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Token GHST](/ghst)
 
-* [Glosario](/glossary)
+* [Glossary](/glossary)
 
-* [Préstamo de Gotchi](/gotchi-lending)
+* [Gotchi Lending](/gotchi-lending)
 
-* [Gotchiverso](/gotchiverse)
+* [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
 
@@ -99,7 +101,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Temporada Rarity Farming](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [Hoja de ruta](/roadmap)
 
 * [Sets](/sets)
 
@@ -125,8 +127,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [uGOTCHI Collection](/ugotchi)
 
-* [Weapons](/weapons)
+* [Armas](/weapons)
 
-* [Wearables](/wearables)
+* [Equipables](/wearables)
 
 * [XP](/xp)

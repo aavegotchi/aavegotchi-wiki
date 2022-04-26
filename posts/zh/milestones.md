@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [Two Major Gotchiverse releases confirmed for May!](https://blog.aavegotchi.com/the-gotchiverse-two-major-releases-confirmed-for-may/)
+* May 2: Gotchiverse Social Release
+* May 18: Gotchiverse Land Release
+<p></p>
+
 ## [The Gotchiverse Bible: Chapter 4 has been released!](https://blog.aavegotchi.com/gotchiverse-bible-chapter-4/)
 * Featured in this chapter are Wearable Benefits, Estaates, Land Management, and Recipe Book Updates!
 <p></p>

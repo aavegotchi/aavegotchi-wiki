@@ -7,19 +7,19 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-こんにちはフレン! Did you know that if *certain wearables* are equipped together, you can get a set bonus above and beyond their individual wearables? Now you do!
+こんにちはフレン! *特定のウェアラブル*を一緒に装備すると、個々のウェアラブル以上のセットボーナスが得られることを知っていましたか？ これでわかりましたね。
 
-**Wearable Sets** are collections of wearables that confer an additional bonus on the Aavegotchi equipping them.
+**ウェアラブルセット**とは、装備しているAavegotchiに追加ボーナスを与えるウェアラブルの集合体です。
 
-Get ready a fat stack of GHST! You will need them!
+GHSTを大量に用意しよう！ 必要です。
 
-The colour of the border surrounding the wearables indicates its rarity:
-* <p style="color:#806AFB">Common: Cornflower Blue</p>
-* <p style="color:#98DBE5">Uncommon: Water Leaf</p>
-* <p style="color:#59BCFF">Rare: Malibu</p>
-* <p style="color:#FFC36B">Legendary: Koromiko</p>
-* <p style="color:#FF96FF">Mythical: Lavender Rose</p>
-* <p style="color:#51FFA8">Godlike: Aquamarine</p>
+ウェアラブルの枠の色はレアリティを表しています：
+* <p style="color:#806AFB">コモン：コーンフラワーブルー</p>
+* <p style="color:#98DBE5">アンコモン：ウォーターリーフ</p>
+* <p style="color:#59BCFF">レア：マリブ</p>
+* <p style="color:#FFC36B">レジェンダリー：コロミコ</p>
+* <p style="color:#FF96FF">ミシカル：ラベンダーローズ</p>
+* <p style="color:#51FFA8">ゴッドライク：アクアマリン</p>
 
 <div class="contentsBox">
 
@@ -34,13 +34,13 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 ## キー
 
-* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
+* BRS＝[基本レアリティスコア](/rarity-farming#base-rarity-score)
 * AGG＝攻撃性
 * NRG＝エネルギー
-* SPK = 不気味さ（おどろおどろしさ）
-* BRN = 脳の大きさ
+* SPK＝不気味さ（おどろおどろしさ）
+* BRN＝脳の大きさ
 
 ## アイテムセット
 
-table_sets
+表_sets
 

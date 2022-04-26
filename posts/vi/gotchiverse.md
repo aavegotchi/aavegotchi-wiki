@@ -100,7 +100,9 @@ Một số gói đất sẽ nằm cạnh hoặc gần mỏ Alchemica. Những g�
 
 Để khiến cho thông tin dễ hiểu hơn, mỗi gói đất sẽ được chỉnh định bằng một dãy gồm 3 từ. Địa chỉ này sẽ được kết hợp với TokenID. Người dùng sẽ có thể sử dụng ô tìm kiếm trên trang Gotchiverse để lọc gói đất bằng từ một hoặc nhiều từ mà họ đang tìm kiếm.
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Kích Thước Đất Aavegotchi REALM" />
+REALM parcels that are adjacent to one another can be used to form [estaates](/estaates).
+
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
 ## Lối Chơi Trong REALM
 
@@ -109,54 +111,54 @@ Một số gói đất sẽ nằm cạnh hoặc gần mỏ Alchemica. Những g�
 <p class="headerImageText">Lickquidator</p>
 </div>
 
-Những ai sở hữu những mẫu đất REALM có thể dùng Aavegotchi của mình (và của người khác) để có thể cày lãi trên những mẫu đất REALM, giúp tạo ra lượng lớn tài nguyên được gọi là Gotchus Alchemica. Những tài nguyên này có thể kết hợp để tạo ra những cấu trúc được gọi là [Installation](/gotchiverse#building-on-realm-parcels).
+Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
 
-Gotchiverse là một không gian xã hội kết thúc mở, nơi người chơi có thể tham gia vào vô số hoạt động chẳng hạn như nông nghiệp, chế tạo, giao dịch, và chiến đấu.
+The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
 
-Dù không hề có điều kiện thắng hoặc viễn cảnh “hết game”, nhưng mục tiêu tổng quát của Gotchiverse là thu thập Alchemica để củng cố mẫu đất, giúp tạo ra nhiều lãi hơn, và xây dựng những cấu trúc phòng thủ giúp chuẩn bị cho Lời tiên tri, và cuộc xâm lược lớn của Người Thanh Khoản.
+Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
 
-Người chơi có Điểm Tín Dụng Người Thanh Khoản có thể chơi với vai trò Liquidator. Điểm Tín Dụng Liquidator có thể kiếm được bằng cách hoàn thành nhiệm vụ, mời bạn, tham gia airdrop, và một số cách khác. Người chơi có thể dùng [GHST](/ghst) để mua.
+Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
 
-Mục tiêu chính của Liquidator là thu thập Alchemica rơi vãi khắp nơi tại Gotchiverse, nhưng chúng cũng có thể đánh nhau với Aavegotchi và những Công Trình tấn công để kiếm Alchemica.
+The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
 
-Người Thanh Khoản được định hình là cách để có thể chơi game miễn phí trong Gotchiverse Realm, không có lượng cung tối đa và khả năng thu thập bị giới hạn.
+Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
-Cũng có một tính năng mang tên [<0>Gotchi Lending](/gotchi-lending) cho phép chủ Gotchi mang Gotchi cho người khác thuê trong một khoảng thời gian để trải nghiệm game.
+There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
 
 ## Giao Tiếp Xã Hội Trong Gotchiverse
 
-Aavegotchi thích giao tiếp xã hội với bạn của mình, và nơi mà chúng thích đến chơi nhất chính là bên trong Gotchiverse!
+Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
-Theo mặc định, tất cả các Gotchi sẽ có thể chat chữ khi ở gần nhau. Người sở hữu Mẫu Đất REALM cũng có thể xây dựng nên những công trình đặc biệt trên mẫu đất của mình để bật tính năng voice chat cho Gotchi trong một Mẫu Đất, và nâng cấp Công Trình để hỗ trợ tính năng voice chat toàn cầu.
+By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
 
-Gotchi cũng có thể hợp mặt với nhau để cùng đi chế độ Aadventures (Phiêu Lưu), khám phá các hầm ngục, chiến đấu với Người Thanh Khoản, các nhân vật phản diện khác để kiếm phần thưởng. Vùng Đất Phiêu Lưu là những vùng đặc biệt nằm bên ngoài phần chính của thế giới Gotchiverse, nơi Aavegotchi có thể tận dụng [chỉ số](/traits) và [trang phục](/wearables) của mình để đánh bại những kẻ thù NPC, và kiếm kinh nghiệm cũng như tài nguyên. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định. Nhưng việc này sẽ chỉ diễn ra trong một khoảng thời gian nhất định!
+Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
 ## Lệnh Trò Chuyện
 
-Bảng sau đây cho thấy các lệnh để trò chuyện trong Gotchiverse.
+The following table shows the chat commands in the Gotchiverse.
 
 table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 token) là bốn nguyên tố của Gotchiverse: Fud, Fomo, Alpha, và Kek. Chúng có thể kết hợp lại để tạo ra các công trình và token Nft Aasthetica (đọc về token này ở phía dưới), bên cạnh những công dụng khác. Read more about the tokenomics [here](/gotchus-alchemica).
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-Bạn dưới đây cho thấy tổng lượng cung của chúng:
+The table below shows their total supply:
 
 table_gotchusAlchemicaSupply
 
-Gotchus Alchemica có thể được chiết xuất ra từ REALM theo 4 cách khác nhau:
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Alchemical Channeling**: tiền lương cơ bản hàng ngày mà Aavegotchi kiếm được trực tiếp từ Gotchiverse, thay vì từ gói đất.
 * **Communal Channeling (Đồng Truyền)**: Aavegotchi cũng có thể cùng nhau truyền Alchemica công trình Gotchi Lodge đã được dựng lên trên đất REALM. Để tham gia Đồng Truyền, Aavegotchi phải mặc chung đồng phục Guild Insignia và có mặt tại Mẫu Đất REALM trong buổi lễ. Càng có nhiều Aavegotchi tham gia vào lễ Đồng Truyền, Alchemica sẽ được farm càng nhanh.
 * **Farming (Cày)**: Một khi công trình Harvester (tạm dịch: Máy Thu Hoạch) đã được hoàn thành, Alchemica sẽ bắt đầu được tích lũy một cách thụ động. Với mỗi một lượng x đi vào công trình Reservoir (Hồ Chứa), một lượng **y** sẽ tràn ra bản đồ gần đó, và một lượng **z** sẽ đi vào Cánh Cổng Lớn
 * **Harvesting (Thu Hoạch)**: Aavegotchi và Người Thanh Khoản có thể lượn quanh bản đồ để thu thập Alchemica rơi ra từ quá trình khai thác.
 
-Các giao dịch với Gotchus Alchemica sẽ diễn ra tại [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
 ### Average Alchemica Per Parcel
 

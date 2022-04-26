@@ -1,92 +1,92 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+title: 'Aavegotchiの開発'
+description: 'このウィキの開発を手伝ってください！'
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/developers/codergotchi.png">
-<p class="headerImageText">CoderDan welcomes you!</p>
+<p class="headerImageText">CoderDanはあなたを歓迎します！</p>
 </div>
 
-Wanna show off your hotshot coding skills? We welcome you fren!
+凄腕のコーディングスキルを披露してみたい？ 私たちはあなたを歓迎します！
 
-The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
+Aavegotchiに関する資料は[こちら](https://docs.aavegotchi.com/)にあります。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#building-aavegotchi-com>Building Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Building the Wiki</a></li>
-<li><a href=#building-mini-games>Building Mini-Games</a></li>
-<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
-<li><a href=#subgraphs>Subgraphs</a></li>
-<li><a href=#gaame-jaam>Gaame Jaam</a></li>
+<li><a href=#building-aavegotchi-com>Aavegotchi.comを構築する</a></li>
+<li><a href=#building-the-wiki>Wikiを構築する</a></li>
+<li><a href=#building-mini-games>ミニゲームを作る</a></li>
+<li><a href=#aarchitect-creations>アーキテクト・クリエーションズ</a></li>
+<li><a href=#subgraphs>サブグラフ</a></li>
+<li><a href=#gaame-jaam>ゲーム・ジャム</a></li>
 </ol>
 
 </div>
 
-## Building Aavegotchi.com
+## Aavegotchi.comを構築する
 
-Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
+Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝いたいですか？
 
-Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)
+[ディスコード（Discord）](https://discord.com/invite/NPwnWB6)のcoderdan#8904に連絡してください。
 
-## Building the Wiki
+## Wikiを構築する
 
-Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
+ウィキを構築するのを手伝いたいですか？ ウィキに誤りを発見しましたか？ 内容を改善するための提案はありますか？
 
-Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
+[ディスコード（Discord）](https://discord.com/invite/NPwnWB6)のBowtiedNerd#6509に連絡してください。
 
-The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+ウィキ全体はGithubにあります。 [ここ](https://github.com/aavegotchi/aavegotchi-wiki)で見ることができます。
 
-## Building Mini-Games
+## ミニゲームを作る
 
-Coyote, our devangelist, has created 2 tutorials on mini-game creation.
+開発者のCoyoteが、ミニゲーム制作のチュートリアルを2つ作りました。
 
-* [Building a full-stack Aavegotchi minigame - Part 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
+* [フルスタックのAavegotchiミニゲームを作る - パート1: セットアップ + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
-* [Building a full-stack Aavegotchi minigame - Part 2: Server + Leaderboard](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
+* [フルスタックのAavegotchiミニゲームを作る - パート2: サーバーとリーダーボード](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-2-server-leaderboard-53la)
 
-* [Building a full-stack Aavegotchi minigame - Part 3: Deploying your game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
+* [フルスタックのAavegotchiミニゲームを作る - パート3: ゲームを展開する](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Aarchitect Creations
+## アーキテクト・クリエーションズ
 
-[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
+[アーキテクト](/aarchitect)は、私たちのコミュニティの開発者で、クールなウェブアプリを開発してます。 ぜひご覧ください。
 
-* [Aavegotchistats](https://aavegotchistats.com/) - Wearable Recommendations Engine / Leaderboards / Traits Distribution
+* [Aavegotchistats](https://aavegotchistats.com/) - ウェアラブル・レコメンデーション・エンジン / リーダーボード / 特性の分配
 
-* [Aavegotchi.land](https://aavegotchi.land/) - API for Aavegotchi / Open Portals / Raffle Tickets listing
+* [Aavegotchi.land](https://aavegotchi.land/) - Aavegotchi用API / オープンポータル / ラッフルチケットリスティング
 
-* [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Raffle Calculator / Guilds
+* [GHST_GG](https://fireball.gg/) - ゴッチマーケットエクスプローラー / ラッフル計算機 / ギルド
 
-* [Haaunt.com](https://haaunt.com/) - Aavegotchi Leaderboard / Wearable Prices
+* [Haaunt.com](https://haaunt.com/) - Aavegotchiリーダーボード / ウェアラブルプライス
 
-* [Haunt.gg](https://haunt.gg/) - Listing Organizer
+* [Haunt.gg](https://haunt.gg/) - リスティング・オーガナイザー
 
-* [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension to pet Aavegotchis
+* [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Aavegotchi をペットするための Chrome 拡張機能。
 
-* [GotchiCare](https://gotchicare.com/) - An Aavegotchi Day Care / Petting Service
+* [GotchiCare](https://gotchicare.com/) - Aavegotchi のデイケア、ペットサービス。
 
-* [GotchiWorld](https://linktr.ee/gotchiworld) - Community made free petting service
+* [GotchiWorld](https://linktr.ee/gotchiworld) - コミュニティが作る無料のペットサービス
 
-* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - A data visualization tool that features districts, floor prices, price estimators, etc.
+* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - 地区、フロア価格、価格推定などのデータ可視化ツール。
 
-* [Aadventure.io](https://www.aadventure.io) - REALM pricing / Land Auctions Data / Wearable Sets / Gotchi Pockets data
+* [Aadventure.io](https://www.aadventure.io) - REALM価格 / 土地オークションデータ / ウェアラブルセット / ゴッチポケットデータ
 
-* [Gotchi Vault](https://www.gotchivault.com/) - Asset manager for the Aavegotchi ecosystem
+* [Gotchi Vault](https://www.gotchivault.com/) - Aavegotchiエコシステムのためのアセットマネージャー
 
-## Subgraphs
+## サブグラフ
 
-* Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
+* 公式 Aavegotchi サブグラフ: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
 
 * Aavegotchi SVGs: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg)
 
-* Aavegotchi Raffles (Polygon): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
+* Aavegotchi ラッフル (ポリゴン): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
 
-## Gaame Jaam
+## ゲーム・ジャム
 
-The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
+2021年9月1日から5日にかけて、Aavegotchi Gaame Jaam/Hackathon（ゲーム・ジャム／ハッカソン）が開催されました。 作成されたクールなミニゲームを[こちら](/gaame-jaam)からご覧ください。

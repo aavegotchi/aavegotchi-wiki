@@ -15,24 +15,24 @@ Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com
 
 ### Crypto Sapiens — Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming (12 March 2022) <iframe title="Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=79ipq-11cae95-pb&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>
 
-### Aavegotchi Gotchiverse Gameplay on LADZ City (22 December 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi Gotchiverse Gameplay on LADZ City (22 December 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Cryptocurrency Subreddit AMA (13 October 2021)
 Link to AMA [here](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
-### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/6gwhKNbZ4JQ" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe title="Gamifying DeFi, with Jesse Johnson of PixelCraft Studios" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=2zxam-109ac29-pb&from=embed&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>
 
-### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/kyIcpDWrjxw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/J-49ls4b45o" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/SeMeiyOwCuo" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/16AAuaxiqSE" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe title="Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=79ipq-11cae95-pb&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>0
 
@@ -63,6 +63,6 @@ Link to video [here](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
 ### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe title="Jesse Johnson | Aavegotchi and Financial Accessibility Through Gaming" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=79ipq-11cae95-pb&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=150"></iframe>9
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>0
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>0
 
 

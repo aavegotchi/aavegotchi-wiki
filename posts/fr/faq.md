@@ -86,6 +86,11 @@ contributors:
 <p><a href=#what-is-gotchus-alchemica->What is Gotchus Alchemica?</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->What is an Alchemical Aaltar?</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->Do I need an Aavegotchi to Play?</a></p>
+<p><a href=#i-m-playing-with-a-borrowed-gotchi--i-claimed-tokens-from-my-gotchi-pocket--but-tokens-were-not-received>I’m playing with a borrowed Gotchi. I claimed tokens from my Gotchi Pocket, but tokens were not received</a></p>
+<p><a href=#claimable-rewards-in-my-gotchi-pocket-disappeared->Claimable rewards in my Gotchi Pocket disappeared!</a></p>
+<p><a href=#i-withdrew-my-alchemica-but-it-s-not-in-my-wallet>I withdrew my Alchemica but it’s not in my wallet</a></p>
+<p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>My borrowing period is over, but I don’t see the Alchemica in my wallet</a></p>
+<p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>I didn’t receive Alchemica that I tried to withdraw hours ago</a></p>
 <li><a href=#gotchi-lending-faq>Location de Gotchi</a></li>
 <p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
@@ -421,6 +426,40 @@ The Alchemical Aaltar is the most important installation you can place on your G
 ### Do I need an Aavegotchi to Play?
 
 Yes, you need an Aavegotchi to play in the Gotchiverse. If you do not own an Aavegotchi, you can access the Gotchiverse by borrowing one with our Gotchi Lending program.
+
+### I’m playing with a borrowed Gotchi. I claimed tokens from my Gotchi Pocket, but tokens were not received
+
+There are 3 possibilities for this:
+
+* Transaction has not yet confirmed onchain. Please wait for your transaction to confirm, or resend it with higher gas.
+
+* Withdraw from Vortex confirmed, but you have not withdrawn from Gotchi Pocket. Claim from your Gotchi Pocket (Top right in the UI).
+
+* Transaction confirmed, but the listing was created before Alchemica tokens were deployed on Polygon. This listing was likely created with “placeholder” Alchemica. Please wait until rental period expires then re-create a new listing with the same parameters. Then you will be able to claim the tokens.
+
+### Claimable rewards in my Gotchi Pocket disappeared!
+
+They were claimed by your manager (or scholar, if you are the manager). Please check your onchain wallet!
+
+### I withdrew my Alchemica but it’s not in my wallet
+
+There are 2 possibilities for this:
+
+* You are using a borrowed Gotchi. Please check your Gotchi Pocket and click “Claim” to move Alchemica to your personal wallet.
+
+* The Alchemica have arrived, but you have not added the tokens. Add the tokens to your Metamask.
+
+### My borrowing period is over, but I don’t see the Alchemica in my wallet
+
+You did not withdraw the tokens from the game before your lending agreement ended. You must withdraw Alchemica from in-game before the borrowing period is over. Try and contact your manager to see if they can transfer it to you manually.
+
+### I didn’t receive Alchemica that I tried to withdraw hours ago
+
+There are 2 possibilities for this:
+
+* Your transaction was still pending when your borrowing period ended. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+
+* There is high network latency. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
 
 ## Location de Gotchi
 

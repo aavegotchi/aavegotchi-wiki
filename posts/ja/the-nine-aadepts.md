@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'The Nine Aadepts'
-description: 'The Nine Aadepts'
+title: '九人の達人'
+description: '九人の達人'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -19,13 +19,13 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 **目次**
 
 <ol>
-<li><a href=#cast>Cast</a></li>
-<li><a href=#chapter-1>Chapter 1</a></li>
+<li><a href=#cast>キャスト</a></li>
+<li><a href=#chapter-1>第1章</a></li>
 </ol>
 
 </div>
 
-## Cast
+## キャスト
 
 * Narrator: Frenless Summer
 * First Aadept: Nofuturistic
@@ -36,9 +36,9 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 * Ninth Aadept: RyderNasrin
 * The Great Liquidator: Coder Dan
 
-## Chapter 1
+## 第1章
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TKsKa58FpSc?start=366" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

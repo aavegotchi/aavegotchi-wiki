@@ -39,6 +39,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Developers](/developers)
 
+* [Estaates](/estaates)
+
 * [Eye Shape](/eye-shape)
 
 * [Часто задаваемые вопросы](/faq)

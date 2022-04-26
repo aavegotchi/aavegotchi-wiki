@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Weapons'
-description: 'Aavegotchi Weapons'
+title: 'Armas'
+description: 'Armas de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+Las armas son equipables de mano clasificados como armas cuerpo a cuerpo o a distancia. Estos equipables especiales pueden infligir daño a Gotchis (en la Aarena), Lickquidators, Enemigos y Muros.
 
-Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+Cada arma también será dotada de beneficios especiales, como daño extra a Muros, daño extra a Lickquidators, velocidad de ataque extra y otros.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#melee-weapons>Melee Weapons</a></li>
-<li><a href=#ranged-weapons>Ranged Weapons</a></li>
+<li><a href=#melee-weapons>Arma(s) Cuerpo a Cuerpo</a></li>
+<li><a href=#ranged-weapons>Arma(s) a Distancia</a></li>
 </ol>
 
 </div>
 
-## Melee Weapons
+## Arma(s) Cuerpo a Cuerpo
 
 table_meleeWeapons
 
-## Ranged Weapons
+## Arma(s) a Distancia
 
-table_rangedWeapons
+table_meleeWeapons

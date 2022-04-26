@@ -1,131 +1,133 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+title: 'Aavegotchi Wiki一覧'
+description: 'Aavegotchi Wiki一覧'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Here is the list of pages in the Aavegotchi Wiki:
+Avegotchi Wikiのページ一覧です：
 
-* [アーキテクト](/aarchitect)
+* [Aarchitect（アーキテクト）](/aarchitect)
 
-* [アーティスト](/aartist)
+* [Aartist（アーティスト）](/aartist)
 
-* [Aauction](/aauction)
+* [Aauction（オークション）](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+* [Aavegotchi改良案](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+* [Aavegotchiプロフィールページ](/aavegotchi-profile)
 
-* [エージングメカニズム](/aging-mechanic)
+* [Aging Mechanic（エージングメカニック）](/aging-mechanic)
 
-* [バッジ](/baadge)
+* [Baadge（バッジ）](/baadge)
 
-* [Baard (ミュージシャン)](/baard)
+* [Baard (バード）](/baard)
 
-* [Baazaar](/baazaar)
+* [Baazaar（バザール）](/baazaar)
 
-* [Bridge](/bridge)
+* [Bridge（ブリッジ）](/bridge)
 
-* [コンテスト](/contests)
+* [Contests（コンテスト）](/contests)
 
-* [Contracts](/contracts)
+* [Contracts（コントラクト）](/contracts)
 
-* [ボンディング・カーブ](/curve)
+* [Bonding Curve（ボンディング・カーブ）](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers](/developers)
+* [Developers（デベロッパー）](/developers)
 
-* [Eye Shape](/eye-shape)
+* [Estaates（エステート）](/estaates)
+
+* [Eye Shape（アイ・シェイプ）](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
-* [Gaame Jaam](/gaame-jaam)
+* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
 
-* [ゴッチ・レンディング](/gotchi-lending)
+* [Gotchi Lending（ゴッチ・レンディング）](/gotchi-lending)
 
-* [ゴッチバース](/gotchiverse)
+* [Gotchiverse（ゴッチバース）](/gotchiverse)
 
-* [ゴッチュスアルケミカ](/gotchus-alchemica)
+* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchus-alchemica)
 
-* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
+* [ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [Guild（ギルド）](/guild)
 
-* [ハウント](/haunt)
+* [Haunt（ハウント）](/haunt)
 
-* [Home](/index)
+* [Home（ホーム）](/index)
 
-* [Introduction](/introduction)
+* [はじめに](/introduction)
 
-* [キンシップ](/kinship)
+* [Kinship（キンシップ）](/kinship)
 
-* [Maall](/maall)
+* [Maall（モール）](/maall)
 
 * [maTokens](/matokens)
 
-* [Media](/media)
+* [メディア](/media)
 
-* [Memes](/memes)
+* [Memes（ミーム）](/memes)
 
-* [Milestones](/milestones)
+* [マイルストーン](/milestones)
 
-* [Mini-Games](/minigames)
+* [ミニゲーム](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [Missions](/missions)
+* [ミッション](/missions)
 
-* [Mumbai Testnet](/mumbai-testnet)
+* [Mumbaiテストネット](/mumbai-testnet)
 
-* [Partners](/partners)
+* [パートナーズ](/partners)
 
 * [POAP](/poap)
 
-* [Polygon](/polygon)
+* [Polygon（ポリゴン）](/polygon)
 
-* [ポータル](/portals)
+* [Portals（ポータル）](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [ラッフルの統計](/raffles-stats)
 
-* [Rarity Farming](/rarity-farming)
+* [Rarity Farming（レアリティー・ファーミング）](/rarity-farming)
 
-* [Rarity Farming Seasons](/rarity-farming-seasons)
+* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming-seasons)
 
 * [ロードマップ](/roadmap)
 
-* [Sets](/sets)
+* [セット](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [スピリットフォース履歴](/spirit-force-history)
 
 * [ステーキング](/staking)
 
-* [Team](/team)
+* [チーム](/team)
 
-* [The Nine Aadepts](/the-nine-aadepts)
+* [九人の達人](/the-nine-aadepts)
 
-* [Tickets](/tickets)
+* [チケット](/tickets)
 
-* [Tokenomics](/tokenomics)
+* [Tokenomics（トークノミックス）](/tokenomics)
 
-* [特性](/traits)
+* [Traits（特性）](/traits)
 
-* [Tutorials](/tutorials)
+* [チュートリアル](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
-* [Weapons](/weapons)
+* [武器](/weapons)
 
 * [ウェアラブル](/wearables)
 

@@ -1,13 +1,13 @@
 ---
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
-title: 'Polygon'
-description: 'Polygon Tutorial'
+title: 'Polygon（ポリゴン）'
+description: 'ポリゴンチュートリアル'
 contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+こんにちはフレン! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
 
 In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
 
@@ -41,13 +41,13 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 1). Open the extension and click the “Ethereum Mainnet” button on the top.
 
-<img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
+<img class = "bodyImage" src = "/polygon/metamask.png" alt = "メタマスク" />
 
-2). Select “Custom RPC”.
+2). 「Custom RPC」を選択します。
 
-<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "Metamask Custom RPG" />
+<img class = "bodyImage" src = "/polygon/metamask-custom-RPC.png" alt = "メタマスクカスタムRPG" />
 
-3). Enter the following settings:
+3). 以下の設定を入力します：
 
 Network Name: Matic Mainnet
 
@@ -59,7 +59,7 @@ Currency Symbol (optional): MATIC
 
 Block Explorer URL (optional): https://explorer.matic.network/
 
-Once you’ve added everything, you can click on “Save”.
+すべて追加したら、「保存」をクリックします。
 
 4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
 
