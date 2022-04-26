@@ -79,12 +79,12 @@ El Baazaar viene equipado con Ordenar (precio), Filtro (rareza), & Buscar (nombr
 Otras características incluidas en el Baazar son:
 
 * Actividad - Ver ventas de Baazaar (Portales cerrados, Portales abiertos, Aavegotchis, Equipables, Consumibles & Tickets) aquí!
-* My Listings - View what you have put up for sale!
-* My Sales - Historical record of your sales on the Baazaar
-* My Purchases - Historical record of your purchases on the Baazaar
+* Mis listas - Ver lo que has puesto a la venta!
+* Mis Ventas - Histórico de tus ventas en el Baazaar
+* Mis Compras - Historial de tus compras en el Baazaar
 
 ## Rarible
 
-Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+Además del Baazaar, otro mercado secundario que apoya la compra y venta de Aavegotchis es la plataforma NFT [Rarible](https://rarible.com/) en Ethereum Mainnet.
 
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+Como Aavegotchis residen nativamente en Polygon, tienen que ser enviados de vuelta a Ethereum Mainnet a través del puente antes de que puedan ser comprados o vendidos en Rarible. Consulta esta [guía](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) sobre cómo conectar tu Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
