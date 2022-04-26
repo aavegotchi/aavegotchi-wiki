@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Bazar'
-description: 'Aavegotchi Baazaar'
+description: 'Aavegotchi Bazar'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -18,7 +18,7 @@ El mercader Gotchi con un brillo en sus ojos, te hace señas para que te acerque
 
 "Tengo algo increíble para ti"
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+El mercader Gotchi presenta un objeto cubierto por un trapo. Poco a poco retira el trapo. The object catches the sun's rays and shines in the bright afternoon sun.
 
 ".....A Mudgen Diamond" you whisper to yourself.
 
