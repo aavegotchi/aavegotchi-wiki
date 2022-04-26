@@ -39,18 +39,18 @@ Milestones: 25K MAU / 5K DAU
 
 ### Q2 2021
 
-* Polygon to Ethereum NFT Bridges
-* Aavegotchi Onchain Sideviews
-* GHST Token listed on Aave
-* Social media integrations (Link Aavegotchi via Discord/Twitter)
-* NFT Aauctions
-* REALM Gotchiverse Litepaper Release
-* Haunt 2 (planned)
-* REALM Gotchiverse Presale
+* Polygon a Ethereum Puente NFT
+* Aavegotchi Onchain Vista Lateral
+* Token GHST listado en Aave
+* Integraciones de las redes sociales (Link Aavegotchi via Discord/Twitter)
+* Subastas NFT
+* REALM Litepaper del Gotchiverse
+* Ritual 2 (planificado)
+* Preventa de Gotchiverse REALM,
 
 ### Q3 2021
 
-* Haunt 2 Raffle: 5 - 8 September 2021
+* Ritual 2 Raffle: 5 - 8 de septiembre de 2021
 * Raffle #5: 24 - 28 September 2021
 * REALM Gotchiverse Whitepaper Release
 * REALM Presale #2
