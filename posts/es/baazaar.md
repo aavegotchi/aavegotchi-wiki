@@ -57,7 +57,7 @@ Todos los listados tienen un mínimo de 1 GHST. Si un vendedor quiere poner un a
 
 Los compradores pueden comprar 1, algunos o todos los artículos de una lista múltiple.
 
-<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
+<img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazar" />
 
 Lee esta [publicación](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) para más información.
 
@@ -87,4 +87,4 @@ Otras características incluidas en el Baazar son:
 
 Además del Baazaar, otro mercado secundario que apoya la compra y venta de Aavegotchis es la plataforma NFT [Rarible](https://rarible.com/) en Ethereum Mainnet.
 
-Como Aavegotchis residen nativamente en Polygon, tienen que ser enviados de vuelta a Ethereum Mainnet a través del puente antes de que puedan ser comprados o vendidos en Rarible. Consulta esta [guía](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) sobre cómo conectar tu Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+Como Aavegotchis residen nativamente en Polygon, tienen que ser enviados de vuelta a Ethereum Mainnet a través del puente antes de que puedan ser comprados o vendidos en Rarible. Consulta esta [guía](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) sobre cómo conectar tu Aavegotchis. Echa un vistazo a las Preguntas Frecuentes en esa guía para las preguntas más comunes.
