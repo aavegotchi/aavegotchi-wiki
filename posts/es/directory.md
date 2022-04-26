@@ -47,7 +47,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Gaame Jaam](/gaame-jaam)
 
-* [GHST Token](/ghst)
+* [Token GHST](/ghst)
 
 * [Glossary](/glossary)
 
