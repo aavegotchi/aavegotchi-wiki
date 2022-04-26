@@ -1,8 +1,8 @@
 ---
 author: letsgobankless
-date: '2020-11-28T07:00:00.000Z'
-title: 'GHST Token'
-description: 'The eco-governance token of Aavegotchi'
+date: '2020-11-23T07:00:00.000Z'
+title: 'Token GHST'
+description: 'El token de ecogobernanza de Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
@@ -11,10 +11,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/ghst/ghst.gif">
-<p class="headerImageText">GHST Token</p>
+<p class="headerImageText">Token GHST</p>
 </div>
 
-Price action and trading is cool, but what else can you do with Aavegotchi’s native token, GHST?
+La acción del precio y el comercio son cool, pero ¿qué más se puede hacer con el token nativo de Aavegotchi, GHST?
 
 The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Aavegotchi assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, GHST also has several other functions, such as staking and enabling players to vote in the DAO.
 
