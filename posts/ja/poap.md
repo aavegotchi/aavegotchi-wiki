@@ -35,22 +35,22 @@ POAPはクールなデザインで、自分のバッジをみんなに自慢で�
 
 2021年6月、私たちのフレンGotchiLoveは、[POAPの開発チームが投票者にPOAPバッジで報酬を与えることができるスナップショットのプラグインを作成した](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932)と発表しました。
 
-A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) was made to introduce POAP badges for Snapshot voting and it passed.
+Snapshotの投票にPOAPバッジを導入する[提案](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e)がなされ、可決されました。
 
-Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
+POAPのデザインプロセスに貢献することに興味があるメンバーは、この[Discourseスレッド](https://dao.aavegotchi.com/t/poap-design-process/2854)をチェックしてみてください。
 
 ## Aavegotchi POAP
 
-The following POAPs are available for claiming:
+以下のPOAPを請求することができます:
 
-table_poaps
+表_poaps
 
 ## POAPを請求する
 
-To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
+POAPを請求するには、上の表にある、あなたが参加したスナップショット投票へのリンクをクリックしてください。 ページを下にスクロールすると、請求ボタンがあります(下の画像を参照)。 POAPバッジの請求／ミントは無料です。
 
 <img src="/poap/claiming-poap.png" />
 
 ## POAPコレクションを見る
 
-To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
+POAPコレクションを見るには、[https://app.poap.xyz/](https://app.poap.xyz/)、MetaMaskを接続してください。
