@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Baazaar'
+title: 'Bazar'
 description: 'Aavegotchi Baazaar'
 contributors:
   - "unintelligent-nerd"
@@ -9,14 +9,14 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/baazaar/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<p class="headerImageText">El Bazar</p>
 </div>
 
-"Psst.....you there"
+"Psst.....estás ahí"
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+El mercader Gotchi con un brillo en sus ojos, te hace señas para que te acerques a su puesto.
 
-"I have something aamazing for you."
+"Tengo algo increíble para ti"
 
 The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
 
