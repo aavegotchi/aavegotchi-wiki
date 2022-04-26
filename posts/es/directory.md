@@ -101,7 +101,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Temporada Rarity Farming](/rarity-farming-seasons)
 
-* [Roadmap](/roadmap)
+* [Hoja de ruta](/roadmap)
 
 * [Sets](/sets)
 
