@@ -51,15 +51,15 @@ Milestones: 25K MAU / 5K DAU
 ### Q3 2021
 
 * Ritual 2 Raffle: 5 - 8 de septiembre de 2021
-* Raffle #5: 24 - 28 September 2021
-* REALM Gotchiverse Whitepaper Release
-* REALM Presale #2
-* Aavegotchi Aarcade Mini-game hub
+* Raffle. 5: 24 - 28 de septiembre de 2021
+* REALM Litepaper del Gotchiverse
+* Preventa de REALM #2
+* Minijuego de Aavegotchi Aarcade
 
 ### Q4 2021
 
-* REALM Public Land Sale #1, #2, and #3
-* REALM Gotchiverse Alpha Launch
+* Venta de Terrenos Públicos #1, #2 y #3
+* Lanzamiento de la versión Alfa de Gotchiverse REALM
 * Creator Economy Wearables Dapp Launch
 * [AavegotchiDAO](/dao) V2 (Metamorphosis)
 * [Baazaar](/baazaar) NFT offers feature
