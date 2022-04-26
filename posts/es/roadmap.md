@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+title: 'Hoja de ruta'
+description: 'La Hoja de Ruta de Aavegotchi'
 contributors:
   - "hackingmoneyph"
   - "unintelligent-nerd"
@@ -10,30 +10,30 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/roadmap/roadmap.png">
-<p class="headerImageText">Let's go on a journey!</p>
+<p class="headerImageText">¡Vamos de viaje!</p>
 </div>
 
-Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
+¡Hola, siéntete y únete a nosotros en nuestro largo viaje para hacer de Aavegotchi un nombre hogareño! Nuestra Hoja de Ruta consta de tres secciones principales. ¡Sigue leyendo para más!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#incubation>Incubation</a></li>
-<li><a href=#breakout>Breakout</a></li>
-<li><a href=#ubiquitous>Ubiquitous</a></li>
+<li><a href=#incubation>Incubadora</a></li>
+<li><a href=#breakout>Lanzamiento</a></li>
+<li><a href=#ubiquitous>Expansión</a></li>
 </ol>
 
 </div>
 
-## Incubation
+## Incubadora
 
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
 
-Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.
+La incubación es la primera fase de nuestro viaje plurianual. Se extiende desde el Q2 2021 hasta el Q4 2021.
 
-Strategy for this phase: *Establish Aavegotchi as a popular game for crypto natives*
+Estrategia para esta fase: *Establecer Aavegotchi como un juego popular para los nativos criptográficos*
 
 Milestones: 25K MAU / 5K DAU
 
@@ -68,7 +68,7 @@ Milestones: 25K MAU / 5K DAU
 * The Aarcade
 * Gotchiverse Citaadel Launch
 
-## Breakout
+## Lanzamiento
 
 <img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
 
@@ -86,7 +86,7 @@ Milestones: 1M MAU / 25K DAU
 * More Haunts (planned)
 * AavegotchiDAO V3 (Oasis)
 
-## Ubiquitous
+## Expansión
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
