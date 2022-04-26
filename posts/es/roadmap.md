@@ -29,7 +29,7 @@ contributors:
 
 ## Incubadora
 
-<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
+<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Hoja de ruta Aavegotchi Fase 1: Incubación" />
 
 La incubación es la primera fase de nuestro viaje plurianual. Se extiende desde el Q2 2021 hasta el Q4 2021.
 
@@ -62,11 +62,11 @@ Milestones: 25K MAU / 5K DAU
 * Lanzamiento de la versión Alfa de Gotchiverse REALM
 * Creator Economy Wearables Dapp Launch
 * [AavegotchiDAO](/dao) V2 (Metamorphosis)
-* [Baazaar](/baazaar) NFT offers feature
-* [Rarity Farming](/rarity-farming) Season 2
-* Gotchi renting/lending
-* The Aarcade
-* Gotchiverse Citaadel Launch
+* [Baazaar](/baazaar) hacer ofertas NFT
+* [Rarity Farming](/rarity-farming) Temporada 2
+* Alquiler/préstamo de Gotchi
+* El Aarcade
+* Gotchiverso lanzamiento de la Ciudadela
 
 ## Lanzamiento
 
