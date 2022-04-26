@@ -35,13 +35,13 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 **Contenidos**
 
 <ol>
-<li><a href=#features>Features</a></li>
+<li><a href=#features>Funcionalidades</a></li>
 <li><a href=#gltr-token>GLTR Token</a></li>
 </ol>
 
 </div>
 
-## Features
+## Funcionalidades
 
 The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
 
