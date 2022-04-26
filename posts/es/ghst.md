@@ -41,12 +41,12 @@ Los jugadores tienen que comprar GHST y gastarlo en el proceso de convocatoria y
 Para más información, asegúrate de revisar la página de [tokenomics](/tokenomics).
 
 ## Usando GHST
-What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
+¿Qué se puede hacer con GHST, aparte de comprarlo y preguntarse wen moon? Mucho, y una vez que aprendes acerca de las diversas maneras de usar GHST, tenemos la sensación de que podría repensar la venta.
 
-These include:
+Estos incluyen:
 
-* Buying [portals](/portals) to summon Aavegotchis
-* Buying [wearables](/wearables) to equip on your Aavegotchis
+* Comprar [portales](/portals) para invocar Aavegotchis
+* Comprar [prendas](/wearables) para equiparte con tu Aavegotchis
 * Buying [REALM parcels](/metaverse) (more information TBC)
 * [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
 
