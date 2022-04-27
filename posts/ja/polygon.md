@@ -20,26 +20,26 @@ Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパ�
 **目次**
 
 <ol>
-<li><a href=#why-polygon->なぜPolygon（ポリゴン）なのか？</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Metamask（メタマスク）にPolygon（ポリゴン）を追加する</a></li>
+<li><a href=#why-polygon->なぜPolygonなのか？</a></li>
+<li><a href=#adding-polygon-to-your-metamask>MetamaskにPolygonを追加する</a></li>
 <li><a href=#matic-faucet>Maticフォセット</a></li>
 </ol>
 
 </div>
 
-## なぜPolygon（ポリゴン）なのか？
+## なぜPolygonなのか？
 
-ご存知の方もいらっしゃるかもしれませんが、Aavegotchiのメインネットローンチは2021年1月4日に予定されていました。 On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+ご存知の方もいらっしゃるかもしれませんが、Aavegotchiのメインネットローンチは2021年1月4日に予定されていました。 その日、ビットコインは40％近く動き、アービトラージボットが狂喜乱舞しました。 そのため、ガス代が400gwei以上に高騰し、とんでもない取引手数料が発生したのです。 [ポータル](/portals)を1つ購入し、それを開いてゴッチを召喚するだけで、少なくとも300ドルのコストがかかることになってしまいました。
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+イーサリアムメインネットでのローンチは不可能であることは明らかでした。 Polygon（ポリゴン）はすでにさまざまなNFTプロジェクト（OpenSeaなど）と連携していたため、選択は比較的簡単でした。 コミュニティはこの気持ちを共有し、76%でポリゴンでのローンチに投票しました。
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+このトピックに関する詳細な議論は、こちらのMediumの[投稿](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)をご覧ください。
 
-## Metamask（メタマスク）にPolygon（ポリゴン）を追加する
+## MetamaskにPolygonを追加する
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+さっそく楽しいことを始めましょう！ Polygonを使うには、まずMetamaskのウォレットにPolygonを追加する必要があります。
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). 拡張機能を開き、上部にある「Ethereum Mainnet」ボタンをクリックします。
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "メタマスク" />
 
@@ -61,16 +61,16 @@ Block Explorer URL (optional): https://explorer.matic.network/
 
 すべて追加したら、「保存」をクリックします。
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). ステップ4はありません、もう完了です！ 手順1のボタンをクリックすると、Ethereum MainnetとPolygonを切り替えることができます。
 
 ## Maticフォセット
 
-You need MATIC tokens to transact on Polygon.
+Polygonで取引を行うにはMATICトークンが必要です。
 
-Here are some MATIC faucets that will give you some free MATIC to do transactions:
+ここでは、取引をするために無料でMATICを入手できるMATICフォセットを紹介します：
 
-* [Matic Supply](https://matic.supply/)
+* [Matic Supply（マティック・サプライ）](https://matic.supply/)
 
-* [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
+* [Mac&Cheese Finance Faucet（マック&チーズ・ファイナンス・マティック・フォセット）](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-If the faucets do not work, drop in to the Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6) and head over to the #matic-requests channel and some of our frenly frens will provide you with some MATIC.
+もしこの蛇口（フォセット）が使えない場合は、[こちら](https://discord.com/invite/NPwnWB6)にあるAavegotchi Discordの#matic-requestsチャンネルに入れば、私たちのfrenly frensがMATICを提供してくれるでしょう。
