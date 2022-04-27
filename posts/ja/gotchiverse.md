@@ -102,7 +102,7 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 互いに隣接するレルムパーセルをくっ付けて[エステート（estaates）](/estaates)として使用できます。
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi レルム区画の大きさ" />
 
 ## レルムゲームプレイ
 
@@ -133,7 +133,7 @@ Aavegotchiたちは仲間との交流が大好きで、その中でもお気に�
 
 ゴッチはまた、行動を共にし冒険に出かけることができ、ダンジョンを探索し、リッキデーターや他の敵と戦ったりしながら報酬を得ることができます。 冒険はメインのゴッチバースの外にある特別な地域で、Aavegotchiたちは各々の[特性](/traits)や[ウェアラブル](/wearables)を使って探索し、NPC（ノンプレイアブルキャラ）の敵と戦い、経験や資源を獲得することができます。 しかし、それらは永遠に続くわけではありません！
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="ゴッチバースダンジョン" />
 
 ## チャットコマンド
 
@@ -269,7 +269,7 @@ Aavegotchiプロトコルの運営団体である**AavegotchiDAO**は、クラ�
 
 ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケットは、Aavegotchiポータルやレルムパーケルが当たるNFTラッフルに**1回**参加できるチケットです。
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchiドロップチケットとレルム区画" />
 
 ドロップチケットの入手方法は3つあります：
 
@@ -279,18 +279,18 @@ Aavegotchiプロトコルの運営団体である**AavegotchiDAO**は、クラ�
 
 ### 区画ブースト
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+レルム区画には、区画ブーストが付いているものがあります。 区画ブーストは、ゴッチバース内のアルケミカのスポットに隣接するレルム区画についてきます。 Chainlink VRFによってランダムに与えられる調査済みのアルケミカとは異なり、区画ブーストは、調査後に区画の合計アルケミカに追加されるアルケミカの基本量です。
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+アルケミカブーストの量は、FUD、FOMO、ALPHA、KEKそれぞれ1000、500、250、100となっています。
 
-table_alchemicalBoostsAndAmountPerLocation
+表_alchemicalBoostsAndAmountPerLocation
 
 **補充**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+第1幕の各大戦の後、プレイヤーは再び自分の区画を調査し、より多くのアルケミカを手に入れることができます。 上記のブースト量は、各測量ラウンドでプレイヤーがロールした量に加算されます。
 
 **アルケミカ・バブル・アップ**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+バブルアップのコンセプトは、Paatch 0.1c（パッチ0.1c）で議論されたブースト量増加案の否決から生まれたものです。 アルケミカバブルアップは、ブーストにさらなる有用性を与えるが、プレイヤーはバブルアップしたアルケミカを積極的に収穫する必要がある。
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+アルケミカバブルアップは、ゴッチバースのアルケミカの上にアルケミカが散発的に出現するイベントで、特にアクティブな区画の近くに出現します。 注目すべきは、これらのアルケミカのリリースをサポートするのは**Pixelcraftのゲームプレイ既得のリリース配分**であるが、AavegotchiDAOはその量を補うために投票することも可能である。
