@@ -21,23 +21,23 @@ contributors:
 
 ## Aavegotchiミッション8のミームコンテスト勝者
 
-In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). あなたのお気に入りに「良いね」してください！ The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively.
+[Aavegotchiミッション8](/missions)では、エージェントは[Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/)でゴッチまたはGHSTトークンを使用して最高のミームを作成するように任命されました。 あなたのお気に入りに「良いね」してください！ 10月9日午後8時SGT 付けに、上位3名はそれぞれ賞金300、200、100 GHSTを受け取りました。
 
 ### <span style="color:gold">1位：Zemusの「Aavegotchiパックマン」</span>
 
 <img class="bodyImage" src="/memes/AavegotchiPACMAN.jpg" alt = "aavegotchiミーム" />
 
-### <span style="color:silver">2位：ラスターアイズによって「パワーコンバインド」</span>
+### <span style="color:silver">2位：Raster Eyesの「バイ・ユア・パワー・コンバインド」</span>
 
 <img class="bodyImage" src="/memes/byyourpowerscombined.png" alt = "aavegotchiミーム" />
 
-### <span style="color:#cd7f32">3位：Moonの「居心地の良いghst」</span>
+### <span style="color:#cd7f32">3位：Moonの「コージーGHST」</span>
 
 <img class="bodyImage" src="/memes/CozyGHST.jpg" alt = "aavegotchiミーム" />
 
 ## 第2回ミームコンテスト
 
-Aavegotchi's subreddit is gaining traction and Pixelcraft studios is supporting with 250 GHST in prizes for an Aavegotchi MEME Contest!
+Aavegotchiのsubredditが勢いを増しており、PixelcraftスタジオはAavegotchi ミームコンテストの賞品として250 GHSTをサポートしています！
 
 入賞を目指して最高のミームを投稿しよう！
 
@@ -77,10 +77,10 @@ Aavegotchiのどの一面があなたにとって楽しいのかを見てみま�
 
 ### その他のミーム
 
-Nick Mudge teaching Vanilladelphia how to "put on his pants."
+ニック・マッジがヴァニラデルフィアに“パンツの履き方”を教えている
 
 <img class="bodyImage" src="/memes/nickmudgeandvan.png" alt = "ニック・マッジとバニラデルフィア" />
 
-CoderDan during his days as a humble maiya tang (malt candy) seller on the Beach. Created by Zer0dot.
+コーダーダンが昔、ビーチで謙虚なマイヤ・タン（モルト・キャンディ）屋さんをやっていたころ Zer0dot 作
 
 <img class="bodyImage" src="/memes/daniel-mathieu-maiyatang.png" alt = "ダニエル・マチュー" />
