@@ -13,9 +13,9 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm（レルム）</p>
 </div>
 
-人間のレルム（＝領域）の向こうには、暗い森の奥に潜むスマートコントラクトがきらめくイーサーレルムがあります。 さらにその奥へ進むと、「ゴッチバース（Gotchiverse）」と呼ばれるレルムがあります。 イーサーレルムでイールド・ファーマーがリキデート（＝清算）されると、その魂はゴッチバースに旅立ち、Aavegotchiとして生まれ変わるのです。 Aavegotchiは、[レアリティー・ファーミング](/rarity-farming)、[投票](/dao)、そして仲間との糞投稿をこよなく愛する妖怪のような種族です。
+ヒューマンレルム（Human Realm＝人間の領域）の向こう側には、スマートコントラクトが暗い森の奥で潜むきらめくイーサーレルム（Ether Realm）があります。 さらにその奥へ進むと、「ゴッチバース（Gotchiverse）」と呼ばれるレルム（世界）があります。 イーサーレルムでイールド・ファーマーがリキデート（＝清算）されると、その魂はゴッチバースに旅立ち、Aavegotchiとして生まれ変わるのです。 Aavegotchiは、[レアリティー・ファーミング](/rarity-farming)、[投票](/dao)、そして仲間との糞投稿をこよなく愛する妖怪のような種族です。
 
-ゴッチバースはほんの一握りのAavegotchiで始まりましたが、リキデーション化がイーサーレルム内で進むにつれ、ゴッチバースの人口は急増し、何千ものAavegotchiがその広大な土地を探索、建築、定住し、さらには彼らの創造主であるリキデーター（lickquidator）を崇拝するために大きな建造物を建設しています。
+ゴッチバースはほんの一握りのAavegotchi達で始まりましたが、イーサーレルムでリキデーション化が進むにつれ、ゴッチバースの人口は急増し、何千ものAavegotchi達がその広大な土地を探索、建築、定住し、さらには彼らの創造主であるリッキデーター（lickquidator）を崇拝するために大きな建造物を作っています。
 
 <a name="Realm"></a>
 
@@ -108,7 +108,7 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 <div class="headerImageContainer">
 <img src="/gotchiverse/lickquidator.gif" class="headerImage" alt="リッキデーター">
-<p class="headerImageText">リックィデーター</p>
+<p class="headerImageText">リッキデーター</p>
 </div>
 
 Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
