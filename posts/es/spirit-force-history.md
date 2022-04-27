@@ -25,6 +25,6 @@ Demos un paseo por la vía de la memoria:
 
 2. Debido a las altas tarifas de gas en Ethereum Mainnet, el lanzamiento del juego Aavegotchi se desplazó a [Polygon](/glossary#polygon), una solución de capa 2. Los beneficios de pasar a Polygon incluyen comisiones de transacción cercanas a cero y transacciones casi instantáneas.
 
-3. El paso al polygon significó que necesitamos aTokens para polygon. Nuestro genio de la codificación interna y diamondboi, [Nick Mudge](/team#nick-mudge) consiguió puentear **Aave V2 aTokens** de Ethereum Mainnet a Polygon. Estos son conocidos como **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
+3. El paso al polygon significó que necesitamos aTokens para polygon. Nuestro genio de la codificación interna y diamondboi, [Nick Mudge](/team#nick-mudge) consiguió puentear **Aave V2 aTokens** de Ethereum Mainnet a Polygon. Estos son conocidos como **maTokens**. Aavegotchis pertenecientes a Haunt 1 usan **maTokens** como su Fuerza Espiritual.
 
-4. Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
+4. Posteriormente, Aave se trasladó a Polygon. Los Tokens de sus mercados Aave (Polygon) se conocen ahora como **amTokens.** A partir de Haunt 2, la Fuerza de Espiritual para Aavegotchis utilizará **amTokens** en su lugar.
