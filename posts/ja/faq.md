@@ -559,11 +559,11 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bri
 
 ## テクニカル FAQ
 
-### Is Aavegotchi on-chain?
+### Aavegotchiはオンチェーンですか？
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Aavegotchiゲームのすべての要素は[イーサリアム・ブロックチェーンに保存されています](https://twitter.com/aavegotchi/status/1328548543909351429)。 ダイヤモンドスタンダードを使用した私たちのユニークなデザインについては、[こちら](/glossary#diamond-standard)をご覧ください。
 
-### Which wallet should I use with Aavegotchi?
+### Aavegotchiで使うべきウォレットはどれですか？
 
 <a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
@@ -600,7 +600,7 @@ Metamask has a maximum limit of 11 characters for their token symbol. You can ch
 
 Quite a number of people have encountered this issue as the stkGHST-QUICK token symbol has more than 11 characters.
 
-<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "Metamask Token Symbol Limit" />
+<img src = "/faq/metamask-token-symbol-limit.png" class = "bodyImage" alt = "メタマスクトークン記号制限" />
 
 ### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
 
@@ -638,12 +638,12 @@ Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord h
 
 Do note that if you have more than 1 Gotchi, you need to repeat the same process for multiple times.
 
-### Where do I find my Gotchi Address?
+### 私のゴッチアドレスはどこにありますか？
 
-First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchis. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+まず、[マイAavegotchi](https://aavegotchi.com/aavegotchis)ページに移動してください。 自分のAavegotchiをどれか一つクリックします。 画面右下に「ポケット」ボタンがあります。 ポケットボタンをクリックすると、ゴッチポケットのウィンドウが表示されます。 「表示」ボタンがあります。 それをクリックすると、そのゴッチのスマートコントラクトアドレスに移動します。 これは、ゴッチの所有者が干渉できるエスクロー契約です。
 
-Do note that each Gotchi will have its own Smart Contract Address.
+各ゴッチは、独自のスマートコントラクトアドレスを持つことに注意してください。
 
-<p style="font-style:italic; font-size:13px;">...to be continued!</p>
+<p style="font-style:italic; font-size:13px;">つづく...</p>
 
 
