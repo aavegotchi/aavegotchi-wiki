@@ -87,7 +87,7 @@ contributors:
 <p><a href=#what-is-an-alchemical-aaltar->アルケミカル・アールター（Alchemical Aaltar）とは何ですか？</a></p>
 <p><a href=#do-i-need-an-aavegotchi-to-play->プレイするにはAavegotchiが必要ですか？</a></p>
 <p><a href=#i-m-playing-with-a-borrowed-gotchi--i-claimed-tokens-from-my-gotchi-pocket--but-tokens-were-not-received>借りたゴッチで遊んでいます。 ゴッチポケットからトークンを請求しましたが、トークンが届きません</a></p>
-<p><a href=#claimable-rewards-in-my-gotchi-pocket-disappeared->ゴッチポケットから請求できる報酬が消えた！</a></p>
+<p><a href=#claimable-rewards-in-my-gotchi-pocket-disappeared->Claimable rewards in my Gotchi Pocket disappeared!</a></p>
 <p><a href=#i-withdrew-my-alchemica-but-it-s-not-in-my-wallet>アルケミカを引き出したけどウォレットにない</a></p>
 <p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>借入期間が終了したのに、ウォレットにアルケミカが来てない</a></p>
 <p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>何時間も前に引き出そうとしたアルケミカがまだ受け取れてない</a></p>
@@ -433,111 +433,111 @@ Gotchiverse（ゴッチバース）は Aavegotchi NFTゲーミングプロトコ
 
 * 取引がまだオンチェーンで確認されていません。 トランザクションが確認されるまでお待ちいただくか、より高いガスで再送信してください。
 
-* Withdraw from Vortex confirmed, but you have not withdrawn from Gotchi Pocket. Claim from your Gotchi Pocket (Top right in the UI).
+* Vortex（ヴォーテックス）からの引き出しは確認済みだが、ゴッチポケットからはまだ引きだしていない場合。 ゴッチポケットから請求してください（画面の右上）。
 
-* Transaction confirmed, but the listing was created before Alchemica tokens were deployed on Polygon. This listing was likely created with “placeholder” Alchemica. Please wait until rental period expires then re-create a new listing with the same parameters. Then you will be able to claim the tokens.
+* 取引は確認されたが、アルケミカがポリゴン上に展開（デプロイ）される前にリスティングが作成された場合。 このリスティングはおそらくアルケミカの「プレースホルダー」付きで作成されてます。 レンタル期間が終了するまでお待ちください。その後、同じパラメータで新しいリストを再作成してください。 そうすれば、トークンを請求することができます。
 
-### ゴッチポケットから請求できる報酬が消えた！
+### ゴッチポケットから請求できるはずの報酬が消えた！
 
-They were claimed by your manager (or scholar, if you are the manager). Please check your onchain wallet!
+それらはあなたのマネージャー(またはあなたがマネージャーであるならスコラー)によって請求されました。 オンチェーンウォレットをご確認ください！
 
 ### アルケミカを引き出したけどウォレットにない
 
-There are 2 possibilities for this:
+これには2つの可能性があります：
 
-* You are using a borrowed Gotchi. Please check your Gotchi Pocket and click “Claim” to move Alchemica to your personal wallet.
+* あなたは借りたゴッチを使っています。 ゴッチポケットを確認し、「請求」をクリックしてアルケミカをあなたのウォレットに移動してください。
 
-* The Alchemica have arrived, but you have not added the tokens. Add the tokens to your Metamask.
+* アルケミカは着いてはいるけど、トークンを追加していません。 トークンをメタマスクに追加してください。
 
 ### 借入期間が終了したのに、ウォレットにアルケミカが来てない
 
-You did not withdraw the tokens from the game before your lending agreement ended. You must withdraw Alchemica from in-game before the borrowing period is over. Try and contact your manager to see if they can transfer it to you manually.
+貸出契約が終了する前に、トークンをゲームから引き出しませんでした。 借入期間が終了する前に、アルケミカをゲーム内から引き出す必要があります。 マネージャーに連絡して、手動で転送できるかどうか確認してください。
 
 ### 何時間も前に引き出そうとしたアルケミカがまだ受け取れてない
 
-There are 2 possibilities for this:
+これには2つの可能性があります：
 
-* Your transaction was still pending when your borrowing period ended. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+* 借入期間が終了したとき、取引はまだ保留中でした。 Gotchi ID、ウォレットアドレス、スクリーンショットをお持ちの場合はサポートまでお問い合わせください。
 
-* There is high network latency. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+* 高いネットワーク待ち時間があります。 Gotchi ID、ウォレットアドレス、スクリーンショットをお持ちの場合はサポートまでお問い合わせください。
 
 ## ゴッチレンディングに関するFAQ
 
 ### 貸したAavegotchiは誰がペットするのですか？
 
-The owner is still able to pet their Aavegotchi while it is being borrowed.
+借りられている間でも、オーナーは自分のAavegotchiをペットすることができます。
 
-### Is there a way to recall an Aavegotchi early once it’s been lent?
+### 一度貸した Aavegotchi を早く呼び戻す方法はありますか？
 
-No, once created an agreement cannot be broken or recalled.
+いいえ、一度作成した契約は破棄したり、回収したりすることはできません。
 
-### Can a borrower add or remove Wearables from an Aavegotchi?
+### Aavegotchiにウェアラブルを追加したり削除したりすることはできますか？
 
-No, when borrowing an Aavegotchi you cannot equip or unequip any Wearables. The borrower will be able to tell how many Wearables are equipped before choosing to borrow a Gotchi.
+いいえ。Aavegotchiを借りている間は、ウェアラブルを装備したり外したりすることはできません。 借り手は、ゴッチを借りる前に、装備されているウェアラブルの数を確認することができます。
 
 ### レンタル期間が終了したら、Aavegotchiを再出品する必要がありますか？
 
-Yes, you will need to relist once the agreement has been concluded.
+はい、契約終了後に再出品していただく必要があります。
 
-However, you can also extend the agreement by simply not concluding it. The agreement will stay active until either the Lender or Borrower ends it.
+しかし、契約を結ばずに放置して延長することもできます。 貸主または借主のどちらかが契約を終了するまで、契約は有効です。
 
 ### 「ホワイトリスト」の項目がウォレットアドレスを受け付けないのはなぜですか？
 
-For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
+ゴッチレンディングでは、ホワイトリスト欄はウォレットアドレスを受け付けません。 ホワイトリストIDを受け付けます。
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+ホワイトリストIDは、ホワイトリスト作成後、[ホワイトリストページ](https://app.aavegotchi.com/whitelists)に表示されます。
 
 ## アーンバサダー（Aambassador）に関する FAQ
 
 ### アーンバサダーとして毎月報告書を提出する必要がありますか？
 
-No you do not. This Aambassador Program is designed in a way that allows you to focus less on admin tasks and more on building your **#GotchiGang.**
+いいえ、必要ありません。 このアーンバサダープログラムは、あなたが管理業務に集中することなく、**#GotchiGang**の育成に専念できるように設計されています。
 
 ### ゴッチギャング（#GotchiGang）はどれくらいの大きさにすればいいのですか？
 
-Keeping your **#GotchiGang** smaller and specific is actually better. You can create a **#GotchiGang** for your town, your city, your university… creativity is yours!
+**#GotchiGang**の規模を小さくし、特化することが望ましいです。 あなたの街、都市、大学など、あなたの創造性で**#GotchiGang**を作ることができます。
 
-Once your group reaches 100 legitimate members, you’ll be officially recognized as an Aavegotchi Aambassador.
+あなたのグループが100人に達すると、あなたはAavegotchiアーンバサダーとして正式に認められます。
 
 ### 私が欲しい#GotchiGangの名前がすでに他の人に取られていた場合はどうすればいいですか？
 
-We will inform you if the name has already been taken after you have filled up your application on the typeform.
+その名前がすでに使われている場合は、タイプフォームで申請書を記入した後にお知らせします。
 
 ### 私はすでにAavegotchiをテーマにしたグループを持っています。 アーンバサダーに応募したほうがよいですか？
 
-Absolutely! As long as we can easily track the growth of your network, you are eligible to be an Aambassador.
+もちろんです！ あなたのネットワークの成長を簡単に追跡できるのであれば、アーンバサダーになる資格があります。
 
 ### ここに答えがない質問があります。 どこで質問すればよいですか？
 
-All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
+アンバサダープログラムに関する質問はすべて、DiscordのWebb#0001にお願いします。
 
 ## ギルドFAQ
 
 ### アーンバサダーグループとギルドの違いは何ですか？
 
-Aambassador groups are meant to introduce new people to Aavegotchi while Guilds are for existing players to group up and play together in the Gotchiverse.
+アーンバサダー（Aambassador）グループは新しい人にAavegotchiを紹介するためのもので、ギルド（Guild）は既存のプレイヤーがグループになってゴッチバース（Gotchiverse）で一緒にプレイするためのものです。
 
 ### ギルドウィキページに自分のギルドを申請するにはどうすればよいですか？
 
-DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
+DiscordのBowtiedNerd#6509にDMを送り、[ギルドウィキページ](/guild)にある必要な情報をすべて伝えてください。
 
 ## ブリッジングFAQ
 
 ### Aavegotchiがイーサリアムにブリッジされた後、Aavegotchiはまだペットできますか？
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**はい**、Gotchi World（ゴッチワールド）とGotchi Care（ゴッチケア＝ゴッチペッティングサービス）の開発者は、ブリッジされたすべてのAavegotchiを自動ペットされるようにしてくれました。 イーサリアムにいる間、Aavegotchiは毎日2ポイントずつキンシップ（親密度）を上げていきますが、ご主人様の訪問を待っています。 宇宙で一人は寂しいです。
 
 ### Aavegotchiがイーサリアムにある場合でも、レアリティ・ファーミングの報酬を得ることができますか？
 
-**YES**, your Gotchi will still be eligible for Rarity Farming rewards in all three categories while bridged. All rewards will go directly to its pocket.
+**はい**、あなたのゴッチは、ブリッジされている間、3つのカテゴリ全てのレアリティファーミングの報酬の対象となります。 すべての報酬は直接ポケットに送られます。
 
 ### ウェアラブルを装備したままゴッチをブリッジできますか？
 
-**YES**, you can equip as many wearable as you want before you bridge, BUT do note that your Aavegotchi will not be doing further wardrobe changes while on Ethereum.
+**はい**、ブリッジする前に好きなだけウェアラブルを装備することができます。ただし、イーサリアム上では、Aavegotchiはこれ以上衣装を変更することができませんのでご注意ください。
 
 ### イーサリアムにいる間、私のゴッチはウェアラブルを装備したり外したりすることができますか？
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**いいえ**。あなたのゴッチは基本的にブリッジされた瞬間のスナップショットとしてフリーズされます。 しかし、いつでも元のポリゴンにブリッジすることができます（通常のブリッジ料金がかかります）。
 
 ### イーサリアムにいる間、私のAavegotchiを使って、今後リリースされるゴッチバースで遊ぶことはできますか？
 
