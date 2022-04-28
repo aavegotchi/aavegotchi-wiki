@@ -9,15 +9,17 @@ contributors:
 
 Đây là danh sách những trang có trong Aavegotchi Wiki:
 
-* [Kỹ Sư](/aarchitect)
+* [Aambassador](/aambassador)
 
-* [Nghệ Sĩ](/aartist)
+* [Aarchitect](/aarchitect)
 
-* [Đấu Giá](/aauction)
+* [Aartists](/aartist)
 
-* [Đề Xuất Cải Tiến Aavegotchi](/aavegotchi-improvement-proposals)
+* [Aauction](/aauction)
 
-* [Trang Profile Aavegotchi](/aavegotchi-profile)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Cơ Chế Trưởng Thành](/aging-mechanic)
 
@@ -27,17 +29,17 @@ contributors:
 
 * [Baazaar](/baazaar)
 
-* [Cầu Nối](/bridge)
+* [Bridge](/bridge)
 
 * [Cuộc thi](/contests)
 
-* [Hợp đồng](/contracts)
+* [Contracts](/contracts)
 
 * [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Nhà phát triển](/developers)
+* [Developers](/developers)
 
 * [Estaates](/estaates)
 
