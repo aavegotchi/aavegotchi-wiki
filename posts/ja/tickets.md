@@ -22,9 +22,9 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 <ol>
 <li><a href=#purchasing-tickets>チケットを購入する</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#entering-raffles>ラッフルに参加する</a></li>
+<li><a href=#past-raffles-statistics>過去のラッフルの統計</a></li>
+<li><a href=#more-resources>うぉー！それはピカピカのゴッドライクチケット！</a></li>
 </ol>
 
 </div>
@@ -52,7 +52,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## ラッフルに参加する
 
 A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
@@ -90,10 +90,10 @@ The entire process of staking GHST and winning prizes can be illustrated using t
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
 
-## Past Raffles Statistics
+## 過去のラッフルの統計
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## うぉー！それはピカピカのゴッドライクチケット！
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
