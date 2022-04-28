@@ -123,6 +123,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Токеномика](/tokenomics)
 
+* [Trait Mappings](/trait-mappings)
+
 * [Характеристики](/traits)
 
 * [Tutorials](/tutorials)
