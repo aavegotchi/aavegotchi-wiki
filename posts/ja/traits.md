@@ -23,6 +23,7 @@ contributors:
 <li><a href=#level>レベル</a></li>
 <li><a href=#haunt>ハウント</a></li>
 <li><a href=#aging-mechanic>エージングメカニズム</a></li>
+<li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
 
 </div>
@@ -101,3 +102,9 @@ Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを�
 ゴッチは、年をとる事につれてレア度が少しブーストされるはずです。 それは、召喚の統計的差異を打ち消し、長期的な関与に報いるためです。
 
 詳しくは、[エイジングメカニズム](/aging-mechanic)のページをご覧ください。
+
+## Trait Mappings
+
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
