@@ -123,6 +123,8 @@ contributors:
 
 * [Tokenomics](/tokenomics)
 
+* [Trait Mappings](/trait-mappings)
+
 * [Traits](/traits)
 
 * [Tutorials](/tutorials)
