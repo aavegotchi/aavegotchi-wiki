@@ -1,45 +1,45 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming Seasons'
-description: 'Rarity Farming Seasons'
+title: 'レアリティファーミングシーズン'
+description: 'レアリティファーミングシーズン'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Rarity Farming is organized into different seasons. Here's the data for each season.
+レアリティファーミングは季節（シーズン）ごとに構成されています。 各シーズンのデータはこちらです。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#season-1>Season 1</a></p>
-<li><a href=#season-2>Season 2</a></p>
-<li><a href=#season-3>Season 3</a></p>
-<li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
-<li><a href=#references>References</a></p>
+<li><a href=#season-1>シーズン1</a></p>
+<li><a href=#season-2>シーズン2</a></p>
+<li><a href=#season-3>シーズン3</a></p>
+<li><a href=#ghst-distribution-by-season>シーズン別GHST配布</a></p>
+<li><a href=#references>参考資料</a></p>
 </ol>
 
 </div>
 
-## Season 1
+## シーズン1
 
-The inaugural Rarity Farming Season was held from Tuesday, 20 April 2021 - Tuesday, 15 June 2021. A total of 1.4 Million GHST will be disbursed across all 4 rounds in Season 1.
+2021年4月20日（火）～2021年6月15日（火）の期間、初回のレアリティファーミングシーズンが開催されました。 シーズン1では、全4ラウンドで合計140万GHSTが配布されます。
 
-There were 3 categories to compete on:
+3つのカテゴリーで競われました：
 
-* Rarity (70% of the rewards pool / 980,000 GHST)
+* レアリティ（賞金総額の70％／98万GHST）
 
-* Kinship (20% of the rewards pool / 280,000 GHST)
+* キンシップ（賞金総額の20％／28万GHST)
 
-* XP (10% of the rewards pool / 140,000 GHST)
+* XP（賞金総額の10％／14万GHST）
 
-[Spreadsheet of Rarity Farming Season 1 Rewards](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[レアリティファーミングシーズン1報酬一覧表](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
 
-## Season 2
+## シーズン2
 
-Rarity Farming Season 2 was held from Tuesday, 12 October 2021 - Tuesday, 7 December 2021. A total of 2 Million GHST will be disbursed across all 4 rounds in Season 2.
+2021年10月12日（火）～2021年12月7日（火）の期間、レアリティファーミングシーズン2を開催しました。 シーズン2では、全4戦で合計200万GHSTが払い出されます。
 
 There were 5 categories to compete on:
 
@@ -59,7 +59,7 @@ There were 5 categories to compete on:
 
 Rarity Farming Season 3 was held from Thursday, 24 February 2022 - Thursday, 21 April 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 3.
 
-There were 3 categories to compete on:
+3つのカテゴリーで競われました：
 
 * Rarity (70% of the rewards pool / 1,050,000 GHST)
 
