@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+title: 'マイルストーン'
+description: 'Aavegotchiプロジェクトのマイルストーン'
 contributors:
   - "unintelligent-nerd"
 ---
 
-## [Two Major Gotchiverse releases confirmed for May!](https://blog.aavegotchi.com/the-gotchiverse-two-major-releases-confirmed-for-may/)
+## [5 月には、2 つの主要なリリースが確認されました!](https://blog.aavegotchi.com/the-gotchiverse-two-major-releases-confirmed-for-may/)
 * May 2: Gotchiverse Social Release
 * May 18: Gotchiverse Land Release
 <p></p>
