@@ -9,121 +9,123 @@ contributors:
 
 Avegotchi Wikiのページ一覧です：
 
-* [Aarchitect（アーキテクト）](/aarchitect)
+* [Aambassador](/aambassador)
 
-* [Aartist（アーティスト）](/aartist)
+* [アーキテクト](/aarchitect)
 
-* [Aauction（オークション）](/aauction)
+* [アーティスト](/aartist)
 
-* [Aavegotchi改良案](/aavegotchi-improvement-proposals)
+* [Aauction](/aauction)
 
-* [Aavegotchiプロフィールページ](/aavegotchi-profile)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aging Mechanic（エージングメカニック）](/aging-mechanic)
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Baadge（バッジ）](/baadge)
+* [エージングメカニズム](/aging-mechanic)
 
-* [Baard (バード）](/baard)
+* [バッジ](/baadge)
 
-* [Baazaar（バザール）](/baazaar)
+* [Baard (ミュージシャン)](/baard)
 
-* [Bridge（ブリッジ）](/bridge)
+* [Baazaar](/baazaar)
 
-* [Contests（コンテスト）](/contests)
+* [Bridge](/bridge)
 
-* [Contracts（コントラクト）](/contracts)
+* [コンテスト](/contests)
 
-* [Bonding Curve（ボンディング・カーブ）](/curve)
+* [Contracts](/contracts)
+
+* [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers（デベロッパー）](/developers)
+* [Developers](/developers)
 
 * [Estaates（エステート）](/estaates)
 
-* [Eye Shape（アイ・シェイプ）](/eye-shape)
+* [Eye Shape](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+* [Gaame Jaam](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
 
-* [Gotchi Lending（ゴッチ・レンディング）](/gotchi-lending)
+* [ゴッチ・レンディング](/gotchi-lending)
 
-* [Gotchiverse（ゴッチバース）](/gotchiverse)
+* [ゴッチバース](/gotchiverse)
 
-* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchus-alchemica)
+* [ゴッチュスアルケミカ](/gotchus-alchemica)
 
-* [ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
+* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
 
-* [Guild（ギルド）](/guild)
+* [Guild](/guild)
 
-* [Haunt（ハウント）](/haunt)
+* [ハウント](/haunt)
 
-* [Home（ホーム）](/index)
+* [Home](/index)
 
 * [はじめに](/introduction)
 
-* [Kinship（キンシップ）](/kinship)
+* [キンシップ](/kinship)
 
-* [Maall（モール）](/maall)
+* [Maall](/maall)
 
-* [maTokens](/matokens)
+* [maToken](/matokens)
 
-* [メディア](/media)
+* [Media](/media)
 
-* [Memes（ミーム）](/memes)
+* [Memes](/memes)
 
-* [マイルストーン](/milestones)
+* [Milestones](/milestones)
 
-* [ミニゲーム](/minigames)
+* [Mini-Games](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション](/missions)
+* [Missions](/missions)
 
-* [Mumbaiテストネット](/mumbai-testnet)
+* [Mumbai Testnet](/mumbai-testnet)
 
-* [パートナーズ](/partners)
+* [Partners](/partners)
 
 * [POAP](/poap)
 
 * [Polygon（ポリゴン）](/polygon)
 
-* [Portals（ポータル）](/portals)
+* [ポータル](/portals)
 
-* [ラッフルの統計](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
-* [Rarity Farming（レアリティー・ファーミング）](/rarity-farming)
+* [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
-* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming-seasons)
+* [レアリティファーミングシーズン](/rarity-farming-seasons)
 
 * [ロードマップ](/roadmap)
 
-* [セット](/sets)
+* [Sets](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [スピリットフォース履歴](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
 
-* [チーム](/team)
+* [Team](/team)
 
 * [九人の達人](/the-nine-aadepts)
 
 * [チケット](/tickets)
 
-* [Tokenomics（トークノミックス）](/tokenomics)
+* [トークノミックス](/tokenomics)
 
-* [Traits（特性）](/traits)
+* [特性](/traits)
 
-* [チュートリアル](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
