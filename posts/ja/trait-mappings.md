@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Trait Mappings'
-description: 'Trait Mappings'
+title: '特性マッピング'
+description: '特性マッピング'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis have 6 [traits](/traits):
+Aavegotchiたちには6つの [特性](/traits) があります：
 
 * AGG＝攻撃性
 * NRG＝エネルギー
@@ -20,7 +20,7 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/trait-mappings/gotchiverse-trait-map.jpg">
-<p class="headerImageText">Gotchiverse Trait Map</p>
+<p class="headerImageText">ゴッチバース特性マップ</p>
 </div>
 
 <div class="contentsBox">
@@ -28,15 +28,15 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 **目次**
 
 <ol>
-<li><a href=#gotchiverse-trait-definitions>Gotchiverse Trait Definitions</a></li>
-<li><a href=#trait-mappings>Trait Mappings</a></li>
-<li><a href=#trait-scaling-systems>Trait Scaling Systems</a></li>
-<li><a href=#resources>Resources</a></li>
+<li><a href=#gotchiverse-trait-definitions>ゴッチバースでの特性の定義</a></li>
+<li><a href=#trait-mappings>特性マッピング</a></li>
+<li><a href=#trait-scaling-systems>特性スケーリングシステム</a></li>
+<li><a href=#resources>資料</a></li>
 </ol>
 
 </div>
 
-## Gotchiverse Trait Definitions
+## ゴッチバースでの特性の定義
 
 * **HP Capacity:** A gotchi’s base level of hit points (HP). A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
 
@@ -58,11 +58,11 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 * **Ranged Power:** Determines the strength of ranged abilities (ranged hand wearables only at present) when equipped by a gotchi. Influences not only the strength of ranged hand wearables with damage abilities but also the strength of ranged hand wearables with restorative, buff or debuff abilities.
 
-## Trait Mappings
+## 特性マッピング
 
-table_traitMappings
+表_traitMappings
 
-## Trait Scaling Systems
+## 特性スケーリングシステム
 
 It is crucial to note that the way traits scale and change with increases/decreases to NRG, AGG, SPK and BRN shown in this version 2 trait map are still under discussion and not yet finalized. Two current proposed scaling models are:
 
@@ -72,6 +72,6 @@ It is crucial to note that the way traits scale and change with increases/decrea
 
 In addition, there are many ways these relationships can be modeled including linear, exponential, diminishing return curves and caps. This will be discussed with Pixelcraft Studios.
 
-## Resources
+## 資料
 
 * The [AavegotchiDAO](/dao) proposed and voted for an [alternative Gotchiverse Trait Map for NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
