@@ -9,7 +9,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-アベゴッチは生まれながらにして特徴を持っています。 ちょうどあなたの特徴が人としてのあなたを定義するように、Avegotchiの特徴もゴーストとしての生活を決定するのに重要です。 複数の特性を持つことで、[特性の基本レアリティ](/rarity-farming#base-rarity-score)、[ミニゲーム](/minigames)でのパフォーマンス、そして装備可能な[アイテム](/wearables)が変化します。 [ポータル](/portals)から召喚されたAavegotchiは、ランダムに生成された特性の組み合わせで生まれます。 ただし、Aavegotchiの特性は<a href=#level>レベル</a>や装備品、消耗品の使用によって変化します。 
+Aavegotchiは生まれながらにして特徴を持っています。 ちょうどあなたの特徴が人としてのあなたを定義するように、Avegotchiの特徴もゴーストとしての生活を決定するのに重要です。 複数の特性を持つことで、[特性の基本レアリティ](/rarity-farming#base-rarity-score)、[ミニゲーム](/minigames)でのパフォーマンス、そして装備可能な[アイテム](/wearables)が変化します。 [ポータル](/portals)から召喚されたAavegotchiは、ランダムに生成された特性の組み合わせで生まれます。 ただし、Aavegotchiの特性は<a href=#level>レベル</a>や装備品、消耗品の使用によって変化します。 
 
 <div class="contentsBox">
 
@@ -23,7 +23,7 @@ contributors:
 <li><a href=#level>レベル</a></li>
 <li><a href=#haunt>ハウント</a></li>
 <li><a href=#aging-mechanic>エージングメカニズム</a></li>
-<li><a href=#trait-mappings>Trait Mappings</a></li>
+<li><a href=#trait-mappings>特性マッピング</a></li>
 </ol>
 
 </div>
@@ -103,8 +103,8 @@ Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを�
 
 詳しくは、[エイジングメカニズム](/aging-mechanic)のページをご覧ください。
 
-## Trait Mappings
+## 特性マッピング
 
-These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+これらの6つの特性がベース（基本）特性です。 Aavegotchiを[ゴッチバース](/gotchiverse)の中で本格的なゲームにするには、もっとニュアンスのある変数が必要です。
 
-Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
+これらのベース特性が何にマッピングされるかは、[特性マッピングのページ](/trait-mappings)で確認できます。
