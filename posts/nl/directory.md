@@ -9,35 +9,37 @@ contributors:
 
 Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
+* [Aambassador](/aambassador)
+
 * [Aarchitecten](/aarchitect)
 
 * [Aartiesten](/aartist)
 
-* [Veiling](/aauction)
+* [Aauction](/aauction)
 
-* [Aavegotchi Verbetervoorstellen](/aavegotchi-improvement-proposals)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profielpagina](/aavegotchi-profile)
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Aging Mechanisme](/aging-mechanic)
 
-* [Baadges](/baadge)
+* [Baadge](/baadge)
 
 * [Baards](/baard)
 
 * [Baazaar](/baazaar)
 
-* [Brug](/bridge)
+* [Bridge](/bridge)
 
 * [Wedstrijden](/contests)
 
-* [Contracten](/contracts)
+* [Contracts](/contracts)
 
 * [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Ontwikkelaars](/developers)
+* [Developers](/developers)
 
 * [Estaates](/estaates)
 
