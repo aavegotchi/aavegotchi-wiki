@@ -9,35 +9,37 @@ contributors:
 
 Aquí está la lista de páginas en la Aavegotchi Wiki:
 
-* [Aarquitectos](/aarchitect)
+* [Aambassador](/aambassador)
 
-* [Artistas](/aartist)
+* [Aarchitect](/aarchitect)
 
-* [Subastas](/aauction)
+* [Aartist](/aartist)
 
-* [Propuestas de Mejora de Aavegotchi](/aavegotchi-improvement-proposals)
+* [Aauction](/aauction)
 
-* [Página de Perfil de Aavegotchi](/aavegotchi-profile)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Mecánica de envejecimiento](/aging-mechanic)
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Insignias](/baadge)
+* [Aging Mechanic](/aging-mechanic)
 
-* [Bardos](/baard)
+* [Baadge](/baadge)
+
+* [Baard](/baard)
 
 * [Bazar](/baazaar)
 
-* [Puente](/bridge)
+* [Bridge](/bridge)
 
-* [Competiciones](/contests)
+* [Contests](/contests)
 
-* [Contratos](/contracts)
+* [Contracts](/contracts)
 
-* [Curva de Emisión](/curve)
+* [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Desarrolladores](/developers)
+* [Developers](/developers)
 
 * [Estaates](/estaates)
 
