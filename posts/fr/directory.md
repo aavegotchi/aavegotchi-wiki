@@ -9,6 +9,8 @@ contributors:
 
 Here is the list of pages in the Aavegotchi Wiki:
 
+* [Aambassador](/aambassador)
+
 * [Aarchitectes](/aarchitect)
 
 * [Aartists](/aartist)
