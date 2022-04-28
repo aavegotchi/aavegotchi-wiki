@@ -8,6 +8,8 @@ contributors: ["unintelligent-nerd"]
 
 Here is the list of pages in the Aavegotchi Wiki:
 
+* [Aambassador](/aambassador)
+
 * [Aarchitect](/aarchitect)
 
 * [Aartist](/aartist)
