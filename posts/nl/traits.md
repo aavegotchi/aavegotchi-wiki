@@ -23,6 +23,7 @@ Aavegotchis worden geboren met eigenschappen. Net als hoe je eigenschappen defin
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
 <li><a href=#aging-mechanic>Aging Mechanisme</a></li>
+<li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
 
 </div>
@@ -101,3 +102,9 @@ Denk aan Haunts als edities, waarbij het nummer van Haunt op de Gotchi wordt aan
 Gotchis zouden een kleine boost krijgen van hun [BRS](/rarity-farming#base-rarity-score) naarmate ze ouder worden. Dit is bedoeld om statistische verschillen tussen haunts tegen te gaan en betrokkenheid op lange termijn te belonen.
 
 Voor meer informatie, bekijk de [Aging Mechanic](/aging-mechanic) pagina.
+
+## Trait Mappings
+
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
