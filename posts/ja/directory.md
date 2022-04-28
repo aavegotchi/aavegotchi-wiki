@@ -123,6 +123,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [トークノミックス](/tokenomics)
 
+* [Trait Mappings](/trait-mappings)
+
 * [特性](/traits)
 
 * [Tutorials](/tutorials)
