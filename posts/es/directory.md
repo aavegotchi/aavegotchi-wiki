@@ -123,6 +123,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
+* [Trait Mappings](/trait-mappings)
+
 * [Traits](/traits)
 
 * [Tutorials](/tutorials)
