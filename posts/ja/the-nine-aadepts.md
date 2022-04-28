@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-The legend foretells about the coming of The Nine Aadepts! — A blockbuster story of epic proportions by Frenless Summer
+伝説が予言する「九人の達人」の到来とは！ —脚本Frenless Summer（フレンレス・サマー）が描く超大作ストーリー
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/the-nine-aadepts/the-nine-aadepts.jpg">
@@ -27,14 +27,14 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 
 ## キャスト
 
-* Narrator: Frenless Summer
-* First Aadept: Nofuturistic
-* Second Aadept: Hefe
-* Third Aadept: Webb
-* Sixth Aadept: Roxiano
-* Eighth Aadept: Dr. Wagmi
-* Ninth Aadept: RyderNasrin
-* The Great Liquidator: Coder Dan
+* ナレーター：Frenless Summer
+* 一人目の達人：Nofuturistic
+* 二人目の達人：Hefe
+* 三人目の達人：Webb
+* 六人目の達人：Roxiano
+* 八人目の達人：Dr. Wagmi
+* 九人目の達人：RyderNasrin
+* ザ・グレート・リキデーター：Coder Dan
 
 ## 第1章
 
