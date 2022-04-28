@@ -31,4 +31,4 @@ contributors:
 
 ## アーンバサダー一覧
 
-table_aambassador
+表_aambassador
