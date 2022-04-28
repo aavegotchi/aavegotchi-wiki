@@ -1,25 +1,25 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
-description: 'History about Aavegotchi Spirit Force'
+title: 'Aavegotchi計画における『スピリット・フォース』という言葉の起源について'
+description: 'Aavegotchiのスピリットフォースにまつわる歴史'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Spirit Force?
+スピリットフォース?
 
-Collateral?
+コラテラル（担保）？
 
-aTokens?
+aToken？
 
-maTokens?
+maToken？
 
-amTokens?
+amToken？
 
-Why are there so many different terms?!?!?!?
+なんでこんなにいろんな用語があるんだ！！！？
 
-Let's take a walk down memory lane:
+記憶を辿ってみましょう：
 
 1. The Aavegotchi game was initially designed to be on Ethereum Mainnet. During that period, Spirit Force refers to aTokens, the interest-bearing tokens from the [Aave Protocol](https://aave.com).
 
