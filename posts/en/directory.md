@@ -122,6 +122,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
+* [Trait Mappings](/trait-mappings)
+
 * [Traits](/traits)
 
 * [Tutorials](/tutorials)
