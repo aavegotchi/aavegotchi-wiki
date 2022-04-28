@@ -1,8 +1,8 @@
 ---
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming'
-description: 'Everything you need to know about Rarity Farming!'
+title: 'Rarity Farming（レアリティー・ファーミング）'
+description: '知っておきたい！レアリティー・ファーミングのすべて！'
 contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
@@ -11,10 +11,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/rarity-farming/rarity-farming.png">
-<p class="headerImageText">A Rarity Farmer</p>
+<p class="headerImageText">レアリティー・ファーマー</p>
 </div>
 
-**Introduction**
+**はじめに**
 
 Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
