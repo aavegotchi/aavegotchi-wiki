@@ -9,26 +9,26 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<p class="headerImageText">ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+若きゴッチは、禁断の塔の入り口まで忍び寄った。 目の前には大きな木製の扉があり、不気味な彫刻や不吉なシンボルで埋め尽くされている。
 
-The door creaked open, inviting him in.
+扉はギシギシと音を立てて開き、彼を招き入れた。
 
-What he saw spooked him.
+その時、彼は目にしたものに驚かされた。
 
-Vials. Test Tubes. Flasks.
+小瓶。 試験管。 フラスコ。
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+どれも泡立ち、沸騰し、ヒューヒューと音を立て、得体の知れないパワーで光っている。
 
-Inside, Gotchis were busy haggling with one another.
+その中で、ゴッチたちが忙しそうに交渉している。
 
-"How much for a unit of KEK?"
+"KEK1単位いくら？"
 
-"WTT FOMO for ALPHA"
+"FOMOをALPHAに交換したい"
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+そう、これがGAX（ゴッチュスアルケミカ取引所）です。
 
 <div class="contentsBox">
 
@@ -36,33 +36,33 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 <ol>
 <li><a href=#features>機能</a></li>
-<li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#gltr-token>GLTRトークン</a></li>
 </ol>
 
 </div>
 
 ## 機能
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+ゴッチャスアルケミカ取引所（GAX）は、Aavegotchiプロトコルの重要なインフラで、Aavegotchi上に作られたゲームに安定した深い流動性を4つのゴッチャスアルケミカトークンを通じて供給します：
 
-* FUD
-* FOMO
-* ALPHA
-* KEK
+* FUD（ファド）
+* FOMO（フォモ）
+* ALPHA（アルファ）
+* KEK（ケック）
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-It also provides a sustainable source of revenue for powering rewards of the in-game economy.
+また、ゲーム内経済の報酬をパワーアップするための持続的な収益源となります。
 
-The GAX is a clone of SushiSwap V2, with the following differences:
+GAXはSushiSwap V2のクローンであり、以下のような違いがあります：
 
-* **DAO-owned Liquidity**
+* **DAOが所有する流動性**
 
-A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+GAXと他のDEXの主な違いは、GAXがAavegotchiプロトコル内の特定のニーズを満たすように設計されていることです - ゴッチバース（Gotchiverse）（および他のゲームの）経済トークンの流動性を所有し、インセンティブを与えること。
 
-Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+これらのトークンにはそれぞれ、[AavegotchiDAO](/dao)が所有する10%の「エコシステム」割り当てが含まれており、GHSTとペアリングすることで、コミュニティが所有する**恒久的なプロトコル流動性**のベースレイヤーを提供することが可能です。 この安定した流動性は、第三者からの（金銭目的な）流動性に頼ることなく、AavegotchiDAOが所有する流動性のベースレイヤーを確保し、時間の経過とともに増加させます。
 
-* **Low trading fees**
+* **低い取引手数料**
 
 Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
 
@@ -76,7 +76,7 @@ The final distinction between the GAX and traditional DEXes is where trading fee
 
 This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
 
-## GLTR Token
+## GLTRトークン
 
 **Utility**
 
