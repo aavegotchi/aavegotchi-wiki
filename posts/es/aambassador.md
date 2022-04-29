@@ -7,11 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-The Aambassadors are a team of Pixelcraft-incentivized volunteers with influence and following to crypto users. We collaborate with this team to produce educational content, marketing materials that get people excited about our products, and improve our language support for languages not supported by the team.
+Los Embajadores son un equipo de voluntarios de Pixelcraft con influencia y seguimiento a los usuarios de criptomonedas. Colaboramos con este equipo para producir contenido educativo, materiales de marketing que hacen que la gente se emocione por nuestros productos, y mejorar nuestro soporte de idiomas para idiomas no dominados por el equipo.
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/webb.png">
-<p class="headerImageText">Aambassador Lead Webb</p>
+<p class="headerImageText">Embajador líder Webb</p>
 </div>
 
 <div class="contentsBox">
@@ -19,16 +19,16 @@ The Aambassadors are a team of Pixelcraft-incentivized volunteers with influence
 **Contenidos**
 
 <ol>
-<li><a href=#getting-involved>Getting involved</a></li>
-<li><a href=#list-of-aambassadors>List of Aambassadors</a></li>
+<li><a href=#getting-involved>Involucrarse</a></li>
+<li><a href=#list-of-aambassadors>Lista de Embajadores</a></li>
 </ol>
 
 </div>
 
-## Getting involved
+## Involucrarse
 
-Do you have any questions about the Aambassador program? Interested to become an Aambassador? Check out the [Aambassador FAQ](/faq#aambassador-faq) or contact Webb, the Aambassador Lead, on [Discord](https://discord.com/invite/NPwnWB6).
+¿Tiene alguna pregunta sobre el programa de embajadores? ¿Está interesado en convertirse en embajador? Echa un vistazo a las preguntas frecuentes de [embajadores](/faq#aambassador-faq) o ponte en contacto con Webb, el líder del programa de embajadores, en [Discord](https://discord.com/invite/NPwnWB6).
 
-## List of Aambassadors
+## Lista de Embajadores
 
 table_aambassador
