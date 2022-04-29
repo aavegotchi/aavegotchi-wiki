@@ -8,7 +8,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
+<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchiウィザード">
 <p class="headerImageText">ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）</p>
 </div>
 
@@ -50,7 +50,7 @@ contributors:
 * ALPHA（アルファ）
 * KEK（ケック）
 
-<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
+<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="ゴッチュスアルケミカ取引所ペア" />
 
 また、ゲーム内経済の報酬をパワーアップするための持続的な収益源となります。
 
@@ -64,39 +64,39 @@ GAXと他のDEXの主な違いは、GAXがAavegotchiプロトコル内の特定�
 
 * **低い取引手数料**
 
-Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+GAXは金銭目的の流動性に依存しないため、他のDEXと比較して大幅に低い手数料を設定することが可能です。 UniswapベースのDEXの一般的な取引手数料は0.3%で、これは契約書にハードコードされており、各ペアで一般的なものです。
 
-On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+GAXでは、各ペアが独自のカスタム取引手数料を持つことができ、ペアの作成者が設定し、契約所有者が更新することができます。
 
-This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+これにより、AavegotchiDAOは、流動性を提供するペアを戦略的に選ぶことができ、他のDEXから取引ボリュームを引き寄せる可能性があります。
 
-* **Trading Fees Power P2E**
+* **取引手数料はP2Eの原動力**
 
-The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+GAXと従来のDEXの最後の違いは、取引手数料が貯まっていく場所です。 従来のDEXでは、取引手数料は流動性供給者（リキディティ・プロバイダー）に振り込まれていきますが、GAXでは、取引手数料はプレイヤーリワードプール（Aavegotchi NFT ゲーミング プロトコルのゲームプレイのインセンティブに充当される特別な資金配分）に貯まっていきます。
 
-This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+これにより、Aavegotchiは、ネットワークの経済活動とともに成長する持続可能なプレーヤー報酬の収入源を確保することができます。
 
 ## GLTRトークン
 
-**Utility**
+**ユーティリティ**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+GAX Liquidity Token Reward（GLTR）（＝GAX リキディティ・トークン・リワード）の主な用途は、GLTRを消費することによって、ゴッチバースのプレーヤーが自分の[インスタレーション](/gotchiverse#building-on-realm-parcels)のクラフトとアップグレードを加速し、ゲームのより高いレベルに早く到達することを可能にすることです。 **各GLTRの焼却（バーン）は、PolygonのPOSネットワーク上で1ブロックに相当します。**
 
-GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+GLTRはまた、[ウェアラブル・クレスト（Wearable Crest）](/guild#accessing-a-guild)のオークションに必要なメイントークンとして、二次的な機能もあります。 また、ギルドはGLTRを焼却することで、次のギルド・チャネリングまでの時間を短縮することができます。
 
 **トークノミックス**
 
-* Max supply: 1,000,000,000,000 (1 trillion)
+* 最大供給量：1,000,000,000,000（1兆）個
 
-* Distribution: 100% to liquidity rewards over 30 years
+* 分配方法：30年間、100%が流動性報酬に
 
-* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+* 権利確定（vesting）スケジュール：初年度に10％、残りを30年間で分配（4年ごとに半減）
 
-**Earning GLTR**
+**GLTRを稼ぐ**
 
-GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+GAX LPトークンをマスターシェフ契約にステークし、GLTRを獲得することができます。
 
-**Burning**
+**焼却（バーニング）**
 
-All GLTR spent in-game is burned from the supply (sent to burn address).
+ゲーム内で使用されたGLTRは、すべてサプライから焼却されます（焼却アドレスに送信されます）。
 
