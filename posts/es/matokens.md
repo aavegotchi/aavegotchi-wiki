@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'maTokens'
-description: 'All about Aavegotchi maTokens'
+description: 'Todo sobre Aavegotchi maTokens'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -12,33 +12,33 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
+¿Qué obtienes cuando tomas esos aTokens de interés y los pones en [Polygon](/glossary#polygon)? Tú obtienes maTokens, por supuesto!
 
-There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
+Hay múltiples maneras de poner las manos en algunos maTokens. En esta página introduciremos las distintas formas.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
-<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
-<li><a href=#learn-more>Learn More</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Staking matokens en Aavegotchis</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problemas mientras añades la fuerza espiritual</a></li>
+<li><a href=#learn-more>Aprende más</a></li>
 </ol>
 
 </div>
 
-## Staking maTokens into Aavegotchis
+## Staking matokens en Aavegotchis
 
-Okay, I've gotten myself some maTokens. What now?
+Vale, he conseguido algunos maTokens. ¿Ahora qué?
 
-Good work fren.
+Buen trabajo fren.
 
-The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
+El siguiente paso es comprar un [portal](/portal) usando [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
-## Problems while staking Spirit Force
+## Problemas mientras añades la fuerza espiritual
 
 There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
 
