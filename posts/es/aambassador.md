@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aambassadors'
-description: 'Aavegotchi Aambassadors'
+title: 'Embajadores'
+description: 'Embajadores de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
