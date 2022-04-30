@@ -89,7 +89,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Mumbai Testnet](/mumbai-testnet)
 
-* [Partners](/partners)
+* [Socios](/partners)
 
 * [POAP](/poap)
 
