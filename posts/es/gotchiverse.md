@@ -35,7 +35,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
 <p><a href=#crafting-revenue-distribution>Crafting Revenue Distribution</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
-<p><a href=#total-supply>Total Supply</a></p>
+<p><a href=#total-supply>Suministro Total</a></p>
 <p><a href=#distribution>Distribution</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
 <p><a href=#parcel-boosts>Parcel Boosts</a></p>
@@ -243,7 +243,7 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 ## REALM Tokenomics
 
-### Total Supply
+### Suministro Total
 
 The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
 
