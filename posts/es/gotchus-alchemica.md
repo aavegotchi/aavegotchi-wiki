@@ -7,61 +7,61 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Gotchus Alchemica are the 4 elements of the [Gotchiverse](/gotchiverse):
+Gotchus Alchemica son los 4 elementos del [Gotchiverse](/gotchiverse):
 
 * FUD
 * FOMO
 * ALPHA
 * KEK
 
-They are on-chain, freely tradable ERC-20 tokens.
+Son ERC-20 on-chain tokens, libres para comerciar.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#utility>Utility</a></li>
+<li><a href=#utility>Utilidad</a></li>
 <li><a href=#tokenomics>Tokenomics</a></li>
 </ol>
 
 </div>
 
-### Utility
+### Utilidad
 
-Gotchus Alchemica can be combined to craft [Installations and Aesthetica](/gotchiverse#building-on-realm-parcels).
+Gotchus Alchemica se puede combinar para fabricar [Instalaciones y Estética](/gotchiverse#building-on-realm-parcels).
 
 ### Tokenomics
 
-**Total Supply**
+**Suministro Total**
 
-* FUD: 100,000,000,000 (100 Billion)
+* FUD: 100,000,000,000 (100 Billones)
 
-* FOMO: 50,000,000,000 (50 Billion)
+* FOMO: 50,000,000,000 (50 billones)
 
-* ALPHA: 25,000,000,000 (25 Billion)
+* ALPHA: 25.000.000.000 (25 billones)
 
-* KEK: 10,000,000,000 (10 Billion)
+* KEK: 10.000.000.000 (10 billones)
 
-**Alchemica Supply Allocation**
+**Asignación de suministro de alquimia**
 
 table_totalSupplyAllocation
 
 **Channeling (25%)**
 
-The budget for Alchemical and Communal Channeling, to be distributed throughout the lifetime of the Gotchiverse is **25% of the total supply for each token.** To prevent excessive inflation, new Alchemica are only minted when the balance of the Great Portal is less than its capacity (see Crafting Revenue Distribution section below).
+Presupuesto para Alchemical and Communal Channeling, para ser distribuido a lo largo de toda la vida del Gotchiverse es **25% del suministro total de cada token.** Para prevenir una inflación excesiva, La nuevaAlchemica sólo se crea cuando el saldo del Gran Portal es menor que su capacidad (vea la sección de Distribución de Ingresos de Fabricación más abajo).
 
-Initial amounts of Alchemical Channeling will be discussed in the Alchemical Channeling section of Chapter 3.
+Las cantidades iniciales de Alchemical Channeling serán discutidas en la sección de Alchemical Channeling del Capítulo 3.
 
-**Ecosystem (10%)**
+**Ecosistema (10%)**
 
-Managed by [AavegotchiDAO](/dao), 10% of the total supply of Alchemica are set aside for an assortment of onboarding and liquidity activities outside of the Gotchiverse. These tokens will be minted then released via a vesting contract over a **thirty year period**, giving predictability and transparency to the usage of Alchemica within the Gotchiverse ecosystem for years to come.
+Gestionado por [AavegotchiDAO](/dao), El 10% del suministro total de Alchemica se reserva para un surtido de actividades de incorporación y liquidez fuera del Gotchiverso. Estos tokens serán mintados, luego liberados a través de un contrato de adquisición durante un **periodo de treinta años**, dar previsibilidad y transparencia al uso de Alchemica dentro del ecosistema del Gotchiverso durante años.
 
-**Gameplay (15%)**
+**Juego (15%)**
 
-Managed by Pixelcraft Studios and the REALM smart contract, these 15% of the total supply of Alchemica represent the budget for Alchemica to be distributed in-game over the lifetime of the Gotchiverse.
+Gestionado por Pixelcraft Studios y el contrato inteligente REALM, este 15% del suministro total de Alchemica representa el presupuesto para que Alchemica se distribuya en el juego durante la vida del Gotchiverso.
 
-Of the 15% total allocation, 33.3% (or 5% of total supply) will be allocated via the smart contract “Boost” system for adjacent alchemica. **These tokens are not vested, but can only be minted via Gotchiverse gameplay.**
+De la asignación total del 15%, el 33,3% (o 5% del suministro total) se asignará a través del sistema de contrato inteligente “Boost” para alquimica adyacente. **Estos tokens no están habilitados, pero sólo pueden ser mintados a través del juego de Gotchiverse.**
 
 The remaining 66.6% (or 10% of total supply) will be **vested via the same schedule as the Ecosystem allocation above**, and used primarily for Alchemical Bubble Ups, Dungeons, and other in-game rewards that are not distributed via smart contract.
 
