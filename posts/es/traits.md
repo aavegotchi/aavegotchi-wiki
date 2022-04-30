@@ -82,18 +82,18 @@ XP existe como un balance interno en el contrato inteligente de Aavegotchi.
 Se puede ver XP en la página de perfil de [Aavegotchi](/aavegotchi-profile).
 
 ## Nivel
-Aavegotchis level up as they gain more XP. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait. Some wearables can only be worn by Aavegotchis of a certain level.
+El Aavegotchi sube de nivel a medida que ganan más experiencia XP. Cada tres niveles, el Aavegotchis recibe un [Punto de Espíritu](/glossary#spirit-point) que puede asignarse para aumentar o disminuir un determinado rasgo. Algunos wearables sólo pueden ser usados por Aavegotchis de cierto nivel.
 
-The higher your Gotchi level, the more [guilds](/guild) they are allowed to join.
+Cuanto más alto sea tu nivel de Gotchi, a más [gremios](/guild) podrá unirse.
 
-For detailed information on the XP required for each level, click [here](/xp).
+Para obtener información detallada sobre la XP necesaria para cada nivel, haz clic [aquí](/xp).
 
-Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi-profile).
+El nivel de tu Aavegotchi puede verse en la página de perfil de [Aavegotchi](/aavegotchi-profile).
 
 ## Ritual
-Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
+Como los pioneros en el Nuevo Mundo, Aavegotchi viaja desde el Reino del Nether al Reino del Éter en grupos conocidos como [Rituales](/haunt). La Ritual inicial contiene 10.000 Aavegotchis. Por lo tanto, los nuevos Rituales deben ser aprobados por el [AavegotchiDAO](/dao). Algunos wearables sólo pueden ser usados por Aavegotchis de cierto ritual.
 
-Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
+Piense en Rituales como ediciones, con números de Ritual indicados en el Gotchi. No habrá diferencias de rasgos entre Rituales.
 
 ## Mecánica de envejecimiento
 
