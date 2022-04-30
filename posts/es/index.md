@@ -29,18 +29,18 @@ Dirígete a [Introducción](/introduction) para obtener una visión general de a
 
 ## Otros enlaces útiles
 
-* [Team](/team) -- See who's building Aavegotchi
-* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Equipo](/team) -- Ver quién está construyendo Aavegotchi
+* [Hoja de ruta](/roadmap) -- El mapa de ruta actualizado de Aavegotchi
 
-## Litepapers
+## Litepaper
 
-* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- El Litepaper Original resumiendo los puntos clave del Proyecto Aavegotchi
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- El más nuevo en el que se presenta el próximo Gotchiverse, donde Gotchis juegan y van de aventuras
 
-## Contribute
+## Contribuye
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+Cualquiera puede contribuir a la Wiki, solo necesita permisos de escritura para nuestro [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+Si quieres contribuir, dirígete al canal #wiki en la Discord Aavegotchi y pide permiso a uno de nuestros Aarchiveros.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Luego, diríjase a nuestro Github Repo y bucee con su primer compromiso. 
