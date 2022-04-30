@@ -12,111 +12,111 @@ contributors:
 <p class="headerImageText">Gaame Jaam</p>
 </div>
 
-The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
+El Aavegotchi Gaame Jaam/Hackathon se celebró del 1 al 5 de septiembre de 2021. Los aspirantes a desarrolladores de juegos participaron en el hackathon para crear su propio [mini-juego](/minigames). ¡Consigue una visión interior del Gaame Jaam aquí!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#rules>Rules</a></li>
-<li><a href=#sponsors>Sponsors</a></li>
-<li><a href=#prizes>Prizes</a></li>
-<li><a href=#judges>Judges</a></li>
-<li><a href=#participants>Participants</a></li>
+<li><a href=#rules>Reglas</a></li>
+<li><a href=#sponsors>Patrocinadores</a></li>
+<li><a href=#prizes>Premios</a></li>
+<li><a href=#judges>Jueces</a></li>
+<li><a href=#participants>Participantes</a></li>
 </ol>
 
 </div>
 
-## Rules
+## Reglas
 
-* Game must use Web3 to be able to fetch and play as their Aavegotchis.
-* Be built in a web based framework (like Phaser) to allow for seamless Metamask integration
-* Max team size of 4
-* Owning an Aavegotchi isn’t necessary for building the games
-* Moralis prize pool requires the use of a Moralis tool
+* El juego debe utilizar Web3 para poder elegir y jugar con sus Aavegotchis.
+* Se construye en un framework basado en la web (como Phaser) para permitir la integración sin problemas de Metamask
+* Tamaño máximo del equipo 4
+* Tener un Aavegotchi no es necesario para construir los juegos
+* Para optar al premio Moralis requiere el uso de una herramienta Moralis
 
-## Sponsors
+## Patrocinadores
 
 * [Moralis](https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
-## Prizes
+## Premios
 
-* 10k USD worth of prizes, all paid in [GHST](/ghst)
-* $5000 is set aside for the top three general winners and $5000 more rewards are allocated to builders who build making use of Moralis tools
-* Any participant who owns any Aavegotchi will also see 25 XP rewarded
+* Premios por valor de 10.000 USD, todos pagados en [GHST](/ghst)
+* Se reservan $5000 para los tres ganadores generales y se asignan $5000 más para constructores que utilicen herramientas Moralis
+* Cualquier participante que posea cualquier Aavegotchi también obtendrá 25 XP de recompensa
 
-<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Rewards" />
+<img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Recompensas Aavegotchi Gaame Jaam" />
 
-## Judges
+## Jueces
 
-* The one and only Ivan on Tech
-* The “No NFT, no play” gaming revolutionary Cagyjan
-* Polygon Network’s head of NFTs and Gaming Shreyansh Singh
-* Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
-* Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
+* El único e inigualable Iván en Tech
+* El “No NFT, no play” revolucionario del gaming Cagyjan
+* El jefe de NFTs y Gaming en Polygon Network, Shreyansh Singh
+* El invocador principal de Aavegotchi [Coder Dan](/team#coder-dan)
+* Pixelcraft Studio Dev Evangelist, [Coyote](/team#coyote)
 
-## Participants
+## Participantes
 
-### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
+### GOTCHIMINER por @smokeyZheBandit, @oibaffio2, @Crypto_Toupa y @gotchinomics
 
-The goal of this game is to dig underground for Crypto Crystals. GOTCHIMINER placed first in both the General and Moralis competitions!
+El objetivo de este juego es cavar bajo tierra para obtener Crypto Crystales. ¡GOTCHIMINER se colocó en primer lugar tanto en la competición general como en la de Moralis!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bIapa7PCf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### AADVENTURE by MetaGuild @metaguildcom & @HotspurSC2
+### ADVENTURA por MetaGuild @metaguildcom & @HotspurSC2
 
-Choose three Gotchis to form a team. The first task is to find @coderdannn who hasn’t been seen in two days! Flushed face AADVENTURE placed second in the general competition!
+Elige tres Gotchis para formar un equipo. ¡La primera tarea es encontrar a @coderdannn que no ha sido visto en dos días! La ADVENTURA se ha situado en segundo lugar en la competición general!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Uc5RPbag8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### PORTAL DEFENDERS by @oh_no_bruno
+### DEFENDERS PORTALES por @oh_no_bruno
 
-This multi-player game involves exactly what the title implies, defending portals from the Lickquidators! PORTAL DEFENDERS placed third in the general competition and second in the Moralis competition!
+Este juego multijugador involucra exactamente lo que el título implica, defendiendo portales de los Lickquidators! ¡Los DEFENDERS PORTALES se ubicaron tercero en la competición general y segundo en la competencia Moralis!
 
 [Github link](https://github.com/bmateus/PortalDefenders)
 
-### SOUTH BEACH ROFL BALL by @adamn_eth
+### SOUTH BEACH ROFL BALL de @adamn_eth
 
-Keep your Gotchi & Rofl Ball away from crabs! The closer they get, the more irritated your Gotchi becomes.
+¡Mantén tu Gotchi & Rofl Ball lejos de los cangrejos! Cuanto más se acercan, más irritados se volverá tu Gotchi.
 
-[Link to Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Enlace a Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
-### 1 ARM BAANDIT by @mdurkin92
+### 1 ARM BAANDIT por @mdurkin92
 
-This ebic slot machine game (powered by #Chainlink VRF!) features various Aavegotchi Wearables that you have to match across lines in order to receive payouts.
+Este juego de máquina tragaperras épica (alimentado por #Chainlink VRF!) incluye varios Aavegotchi Wearables que tienes que igualar a través de líneas para poder recibir pagos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gr5f7ogSAPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### AAVEGOTCHI DUNGEON by scranley#3257
+### AAVEGOTCHI DUNGEON por scranley#3257
 
-The player’s task for this game is to destroy towers and collect treasure!
+¡La tarea del jugador para este juego es destruir torres y recoger tesoros!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD4rNIVbMJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### AAVEZON by @space_asylum
+### AAVEZON por @space_asylum
 
-A Gotchified twist on working at Amazon! The goal of this game is for your Gotchi to push the required number of boxes into a portal before time runs out.
+¡Un giro Gotchified en el trabajo en Amazon! El objetivo de este juego es que tu Gotchi empuje el número necesario de cajas en un portal antes de que se acabe el tiempo.
 
-AAVEZON placed third Third place medal in the Moralis competition!
+AAVEZON colocó la medalla del tercer lugar en la competición de Moralis!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wDY6ix1v_aM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### SAMUGOTCHI SHOWDOWN by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
+### SAMUGOTCHI SHOWDOWN por Rainbow Hallow (@GrizzyJones, @vrycmfy, y @lahcen_kha)
 
-The game pits your Gotchi against the feared Lickquidator. Your Gotchi uses Guard, Throw, and Slash to attack. Just make sure your timing is right!
+El juego enfrenta a tu Gotchi contra el temido Lickquidator. Tu Gotchi usa Guardia, Arroja y Raja para atacar. ¡Asegúrate de que el momento sea el correcto!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xL2bxYcBtGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### SUSHIBAGOTCHI by @sushibatoken
+### SUSHIBAGOTCHI por @sushibatoken
 
-An ebic game where Aavegotchis, @MoralisWeb3, and Sushiba are the only three entities left in the world. The goal is to unite your Gotchis with Moralis and Sushiba!
+Un juego épico donde Aavegotchis, @MoralisWeb3 y Sushiba son las únicas tres entidades que quedan en el mundo. El objetivo es unir tu Gotchis con Moralis y Sushiba!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s6v9_VuZbj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### CONGOTCHI by SlickBB#5737
+### CONGOTCHI por SlickBB#5737
 
-Congotchi tasks the player with finding lost Gotchis and returning them to the comforts of the Citaadel.
+El Congotchi le encomienda la tarea al jugador de encontrar Gotchis perdidos y devolverlos al confort de la Ciudadela.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJ9D5m2tLos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
