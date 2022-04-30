@@ -51,26 +51,26 @@ Los prestamistas podrán seleccionar qué tokens compartir con los prestatarios.
 
 Además, las opciones de compartir tokens ahora incluyen GHST además de los cuatro tipos de Gotchus Alchemica. Esto es especialmente importante durante las temporadas de Rarity Farming, porque los prestamistas determinarán qué, si lo hubiera, porcentaje del saldo GHST de un Aavegotchi desean compartir.
 
-The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://app.aavegotchi.com/whitelists).
+El prestamista también podría especificar un identificador (ID whitelist) que contenga las direcciones elegibles para pedir prestado el Gotchi. Puedes encontrar tu ID whitelist en la página de listas blancas [](https://app.aavegotchi.com/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
-**Step 2: Choose your Profit Split**
+**Paso 2: Elige tu División de ganancias**
 
-Next they will set the profit split, including the option to send earnings to a third-party address such as a guild wallet.
+A continuación establecerán la división de beneficios, incluida la opción de enviar ganancias a una dirección de terceros como una cartera del clan.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-2.png" />
 
-**Step 3: Review and Finalize**
+**Paso 3: Revisar y finalizar**
 
-Finally, the lender reviews the terms one more time and creates the lending listing.
+Finalmente, el prestamista revisa los términos una vez más y crea la lista de préstamos.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-3.png" />
 
-**Bonus Step:**
+**Paso adicional:**
 
-Lenders will also have the ability to create [whitelists](https://app.aavegotchi.com/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+Los prestamistas también tendrán la capacidad de crear [whitelists](https://app.aavegotchi.com/whitelists), haciendo que sus Aavegotchis solo estén disponibles para un grupo exclusivo de prestamistas. Esta característica es perfecta para los clanes que quieren asegurarse de que sus NFT Aavegotchi entran en las manos de los miembros de su clan.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
-On the other side of the coin, borrowers will have a number of filters at their disposal to allow them to find the Aavegotchi that best suits their needs. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+En la otra cara de la moneda, los prestatarios dispondrán de varios filtros que les permitirán encontrar el Aavegotchi que mejor se adapte a sus necesidades. Aavegotchis disponible para tomar prestado puede ser filtrado por dividendos de ganancias, costo inicial, duración y tokens compartidos.
