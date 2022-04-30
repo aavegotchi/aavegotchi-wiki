@@ -9,41 +9,41 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<p class="headerImageText">Intercambio de Gotchus Alchemica</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+El joven Gotchi se deslizó hasta la entrada de la torre prohibida. Frente a él, una gran puerta de madera, llena de tallados sobrecogedores y siniestros símbolos.
 
-The door creaked open, inviting him in.
+La puerta se abrió, invitándole a entrar.
 
-What he saw spooked him.
+Lo que vio le asustó.
 
-Vials. Test Tubes. Flasks.
+Viales. Tubos de ensayo. Frascos.
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+Cada uno de ellos burbujeaba y hervía, siseaba y se agitaba, brillando con poderes sobrenaturales.
 
-Inside, Gotchis were busy haggling with one another.
+Dentro, los Gotchis estaban ocupados riñendo entre ellos.
 
-"How much for a unit of KEK?"
+"¿Cuánto para una unidad de KEK?"
 
-"WTT FOMO for ALPHA"
+"WTT FOMO por ALPHA"
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+Esto, mis amigos, es el Gotchus Alchemica Exchange (GAX).
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
 <li><a href=#features>Funcionalidades</a></li>
-<li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#gltr-token>Token GLTR</a></li>
 </ol>
 
 </div>
 
 ## Funcionalidades
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+El Gotchus Alchemica Exchange (GAX) es una pieza clave de la infraestructura del protocolo Aavegotchi que permitirá que los juegos construidos sobre Aavegotchi tengan una liquidez estable y profunda para los 4 tokens Gotchus Alchemica:
 
 * FUD
 * FOMO
@@ -52,35 +52,35 @@ The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aav
 
 <img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
 
-It also provides a sustainable source of revenue for powering rewards of the in-game economy.
+También proporciona una fuente sostenible de ingresos para potenciar las recompensas de la economía del juego.
 
-The GAX is a clone of SushiSwap V2, with the following differences:
+La GAX es un clon de SushiSwap V2, con las siguientes diferencias:
 
-* **DAO-owned Liquidity**
+* **Liquidez propiedad de DAO**
 
-A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+Una diferencia clave entre la GAX y otros DEXes es que la GAX está diseñada para satisfacer una necesidad específica dentro del protocolo Aavegotchi – poseer y hacer valer la liquidez para los tokens de la economía de Gotchiverse (y de otros juegos).
 
-Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+Cada uno de estos tokens incluye una asignación "Ecosystem" del 10% propiedad de [AavegotchiDAO](/dao) que puede emparejarse con GHST para proporcionar una capa base de **liquidez permanente del protocolo**propiedad de la comunidad. Esta liquidez estable garantiza una capa base de liquidez propiedad de AavegotchiDAO que aumentará con el tiempo, sin depender de la liquidez mercenaria de terceros.
 
-* **Low trading fees**
+* **Tarifas de trading bajas**
 
-Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+Debido a que la GAX depende menos de la liquidez mercenaria, tiene la capacidad de fijar tarifas significativamente más bajas que otros DEXes. Las comisiones de trading típicas en DEXes basados en Uniswap son de 0,3%, las cuales están codificadas en el contrato y son genéricas para cada par.
 
-On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+En la GAX, cada par puede tener su propia tarifa de trading, que puede ser establecido por el creador del par, y actualizado por el propietario del contrato.
 
-This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+Esto permite a AavegotchiDAO ser estratégico sobre qué pares proporcionar liquidez, con el potencial de atraer volumen de comercio de otros DEXes establecidos.
 
-* **Trading Fees Power P2E**
+* **Tarifas de negociación Power P2E**
 
-The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+La distinción final entre la GAX y los DEXes tradicionales es donde se acumulan las comisiones de operación. En un DEX tradicional, las comisiones de negociación van a parar a los proveedores de liquidez, pero en el GAX, las comisiones de negociación van a parar al fondo de recompensas de los jugadores, una asignación especial de fondos destinada a incentivar el juego en el protocolo de juego de Aavegotchi NFT.
 
-This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+Esto garantiza que Aavegotchi tenga una fuente sostenible de ingresos por recompensas a los jugadores que crece junto con la actividad económica de la red.
 
-## GLTR Token
+## Token GLTR
 
-**Utility**
+**Utilidad**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+La utilidad principal de GAX Liquidity Token Reward (GLTR) es permitir a los jugadores en el Gotchiverse acelerar la fabricación y actualización de sus [instalaciones](/gotchiverse#building-on-realm-parcels) quemando GLTR, permitiéndoles alcanzar niveles más altos del juego más rápido. **Cada GLTR quemado equivale a un bloque de la red PoS de Polygon.**
 
 GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
 
