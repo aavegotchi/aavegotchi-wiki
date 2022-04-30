@@ -1,22 +1,22 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Partners'
-description: 'Aavegotchi Partners'
+title: 'Socios de Aavegotchi'
+description: 'Socios de Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi is a frenly project. Get to know our frenly frens here!
+Aavegotchi es un proyecto amistoso. ¡Conoce a nuestros amigos aquí!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#investors>Investors</a></li>
+<li><a href=#investors>Inversores</a></li>
 <p><a href=#aave>Aave</a></p>
-<li><a href=#partners>Partners</a></li>
+<li><a href=#partners>Socios</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#opensea>OpenSea</a></p>
 <p><a href=#snapshot>Snapshot</a></p>
@@ -36,7 +36,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 </div>
 
-## Investors
+## Inversores
 
 ### Aave
 
@@ -45,9 +45,9 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p class="leftImageText"><a href="https://twitter.com/AaveAave" target="_blank">Aave</a></p>
 </div>
 
-Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
+Aave es un protocolo descentralizado del mercado de liquidez, en el que los usuarios pueden participar como depositario o prestatario. Los depositarios proporcionan liquidez al mercado para obtener un ingreso pasivo, mientras que los prestatarios pueden pedir prestado de una manera excesivamente colateralizada (perpetuemente) o subcolateralizada (liquidez de un solo bloque).
 
-## Partners
+## Socios
 
 ### Aragon
 
@@ -56,7 +56,7 @@ Aave is a decentralised non-custodial liquidity market protocol where users can 
 <p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">Aragon</a></p>
 </div>
 
-Aragon is the leading platform for decentralized governance and DAOs.
+Aragón es la plataforma líder para la gobernanza descentralizada y los DAO.
 
 ### OpenSea
 
@@ -65,7 +65,7 @@ Aragon is the leading platform for decentralized governance and DAOs.
 <p class="leftImageText"><a href="https://twitter.com/opensea" target="_blank">OpenSea</a></p>
 </div>
 
-The world’s first and largest digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets.
+El primer y mayor mercado digital del mundo para coleccionables criptográficos y tokens no fungibles (NFT). Compra, vende y descubre activos digitales exclusivos.
 
 ### Snapshot
 
@@ -74,7 +74,7 @@ The world’s first and largest digital marketplace for crypto collectibles and 
 <p class="leftImageText"><a href="https://twitter.com/SnapshotLabs" target="_blank">Snapshot</a></p>
 </div>
 
-Snapshot is a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types to cater to the needs of organizations. Creating proposals and voting on Snapshot is user-friendly and does not cost gas as the process is performed off-chain.
+Snapshot es un sistema de voto descentralizado. Proporciona flexibilidad sobre cómo se calcula el poder de voto para una votación. Snapshot soporta varios tipos de votación para satisfacer las necesidades de las organizaciones. Crear propuestas y votar en Snapshot es fácil y no cuesta gas ya que el proceso se realiza off-chain.
 
 ### Polygon
 
@@ -83,7 +83,7 @@ Snapshot is a decentralized voting system. It provides flexibility on how voting
 <p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
 </div>
 
-Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
+Polygon es un protocolo y un marco para construir y conectar redes de blockchain compatibles con Ethereum. Agregando soluciones escalables en Ethereum apoyando un ecosistema Ethereum multicadena.
 
 ### QuickSwap
 
@@ -92,7 +92,7 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 <p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">QuickSwap</a></p>
 </div>
 
-Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
+DEX de próxima generación. Opere a velocidad rápida con tarifas de gas cercanas a cero. Impulsado por Polygon.
 
 ### Cometh
 
@@ -101,11 +101,11 @@ Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by
 <p class="leftImageText"><a href="https://twitter.com/MUSTCometh" target="_blank">Cometh</a></p>
 </div>
 
-Cometh is a groundbreaking and evolving strategy game set in a persistent and sustainable space-inspired metaverse powered by Ethereum's blockchain.
+Cometh es un novedoso y evolucionado juego de estrategia establecido en un metaverso persistente y sustentable inspirado en el espacio, alimentado por la cadena de bloques de Ethereum.
 
-The Cometh game consists in players mining asteroids to get tokens as rewards.
+El juego Cometh consiste en que los jugadores extraigan asteroides para obtener tokens como recompensas.
 
-Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.
+El ecosistema de Cometh aprovecha DeFi (Finanzas descentralizadas) de una manera divertida y original para permitir a los jugadores recolectar, comercializan y ganan tokens a partir de protocolos ERC, y también de NFT único en el Metaverse.
 
 ### DinoSwap
 
@@ -114,9 +114,9 @@ Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a 
 <p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
 </div>
 
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
+DinoSwap es un proyecto de infraestructura de cadena cruzada que construye liquidez para blockchains de capa una, AMMs y proyectos de asociación. El lanzamiento en Polygon ofrece una emocionante oportunidad para los farmers de ganar tokens DINO y de proyectos.
 
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
+DinoSwap se beneficia de transacción rápidas y baratas posibles en Polygon.
 
 ### Unicly
 
@@ -125,7 +125,7 @@ DinoSwap benefits from velociraptor fast and prehistorically cheap transaction c
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
+Unicely es un protocolo sin permisos, gobernado por la comunidad, para combinar, fraccionar e intercambiar NFTs. Construido por coleccionistas NFT y entusiastas de DeFi, el protocolo alimenta la liquidez del NFT y proporciona una experiencia comercial perfecta para los activos del NFT al traer los AMMs y el rendimiento del farming al mundo de los NFT.
 
 ### Venly
 
@@ -134,7 +134,7 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Wallet & NFT products that seamlessly integrate with your blockchain project.
+Productos de Wallet & NFT que se integran perfectamente con su proyecto blockchain.
 
 ### GBM Auction
 
@@ -143,7 +143,7 @@ Wallet & NFT products that seamlessly integrate with your blockchain project.
 <p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
 </div>
 
-GBM™ is a proprietary auction system where bidders make money when they are outbid.
+GBMTM es un sistema de subastas propio, donde los postores ganan dinero cuando sus pujas superadas.
 
 ### Rarible
 
@@ -152,7 +152,7 @@ GBM™ is a proprietary auction system where bidders make money when they are ou
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
+El primer mercado de NFT, propiedad de la Comunidad. Crea, vende o colecciona objetos digitales asegurados con blockchain.
 
 ### Yield Guild Games
 
@@ -161,7 +161,7 @@ The first community-owned NFT marketplace. Create, sell or collect digital items
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
+Yield Guild Games (YGG) es una guild que reúne a los jugadores para ganar a través de juegos NFT. Somos los colonos del Metaverso.
 
 ### BlackPool
 
@@ -170,11 +170,11 @@ Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+BlackPool es un nuevo fondo que opera dentro de la industria del NFT: gestionando una gama de activos, desde cartas deportivas, objetos de juego y hasta arte digital.
 
-BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
+BlackPool es la primera organización autónoma descentralizada (DAO) creada exclusivamente para juegos y operaciones NFT. Nuestras estrategias se basarán en nuestra pasión a largo plazo por el juego y el arte, ya que combinamos análisis de datos profesionales y aprendizaje automático para proporcionar los mejores rendimientos para nuestros usuarios.
 
-We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
+Lideraremos el camino a la hora de proporcionar derivados financieros a los mercados digitales, ofreciendo servicios como índices de valoración de activos, alquiler, mecanismos de seguros y más.
 
 BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
 
