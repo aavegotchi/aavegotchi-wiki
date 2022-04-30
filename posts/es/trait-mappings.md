@@ -13,8 +13,8 @@ Aavegotchis have 6 [traits](/traits):
 * NRG = Energía
 * SPK = Espanto
 * BRN = Inteligencia
-* EYS = Eye Shape
-* EYC = Eye Color
+* EYS = Forma de ojos
+* EYC = Color de Ojos
 
 How exactly do these traits map out to actual gameplay in the [Gotchiverse](/gotchiverse)? Read on for the details.
 
