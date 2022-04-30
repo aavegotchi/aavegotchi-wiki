@@ -16,7 +16,7 @@ El Baazaar Aavegotchi ahora está en vivo en la red de pruebas Mumbai! Para prob
 <ol>
 <li><a href=#adding-mumbai-testnet-to-your-metamask>Añadiendo red de pruebas Mumbai a tu Metamask</a></li>
 <li><a href=#getting-tokens-from-mumbai-faucet>Obtener tokens de Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#getting-mumbai-ghst>Obteniendo GHST de Mumbai</a></li>
 </ol>
 
 </div>
