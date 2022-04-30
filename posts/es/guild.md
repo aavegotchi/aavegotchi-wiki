@@ -7,25 +7,25 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+¡El gameplay REALM estará disponible pronto! Habrá muchas actividades en el Gotchiverse — desde socializar hasta canalizar comunalmente en un Gotchi Lodge. ¡Conoce a más amigos y participa en actividades exclusivas de tu clan aquí!
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
-<li><a href=#accessing-a-guild>Accessing a Guild</a></li>
+<li><a href=#accessing-a-guild>Accediendo a un clan</a></li>
 <li><a href=#guild-channeling>Guild Channeling</a></li>
-<li><a href=#linking-your-guild-to-a-crest>Linking your Guild to a Crest</a></li>
-<li><a href=#list-of-guilds>List of Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#linking-your-guild-to-a-crest>Vincular tu clan a un Crest</a></li>
+<li><a href=#list-of-guilds>Lista de Clanes</a></li>
+<li><a href=#guild-map>Mapa de Clanes</a></li>
 </ol>
 
 </div>
 
-## Accessing a Guild
+## Accediendo a un clan
 
-Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
+Gotchi Lodges será accesible a Gotchis con un "Guild Crest" (emblema del clan) Una Guild Crest es un NFT particular que debe ser llevado o equipado por un Aavegotchi.
 
 By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).
 
@@ -59,7 +59,7 @@ table_gotchiPresenceBonus
 
 table_wearableMultiplier
 
-## Linking your Guild to a Crest
+## Vincular tu clan a un Crest
 
 *Wearable Crests*
 
@@ -75,11 +75,11 @@ This gives a strong incentive for Guilds to hold and LP their Alchemica, to cont
 
 Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
 
-## List of Guilds
+## Lista de Clanes
 
 table_guild
 
-## Guild Map
+## Mapa de Clanes
 
 Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
 
