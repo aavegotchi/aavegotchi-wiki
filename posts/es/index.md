@@ -2,32 +2,32 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
-image: "icons/introduction.svg"
+description: 'Todo acerca de la Wiki de Aavegotchi'
+image: "iconos/introducción.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Aavegotchi Wiki</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Bienvenido a la Wiki oficial Aavegotchi, amigo!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+Este humilde Wiki es el punto central de conocimiento de todo lo que está relacionado con Aavegotchi, mantenido y actualizado por nuestro increíble equipo de colaboradores, conocidos como Aarchivers.
 
-## New to Aavegotchi?
+## ¿Nuevo en Aavegotchi?
 
-Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
+Dirígete a [Introducción](/introduction) para obtener una visión general de alto nivel del juego Aavegotchi.
 
-## Popular Pages
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Wearables](/wearables) -- Fashion for your Aavegotchi
-* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+## Páginas populares
+* [GHST](/ghst) -- Aprende sobre el token de eco-gobernanza de Aavegotchi
+* [Tomando](/staking) -- Aprende a depositar GHST para hacer FRENS
+* [DAO](/dao) -- Todo lo que hay que saber sobre AavegotchiDAO
+* [Wearables](/wearables) -- Complementos para tu Aavegotchi
+* [Mini-juegos](/minigames) -- Juega algunos minijuegos con tu Aavegotchi
+* [Rarity Farming](/rarity-farming) -- ¡Juega a Aavegotchi y gana recompensas!
 
-## Other Useful Pages
+## Otros enlaces útiles
 
 * [Team](/team) -- See who's building Aavegotchi
 * [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
