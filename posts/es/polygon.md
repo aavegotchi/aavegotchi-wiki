@@ -7,13 +7,13 @@ contributors:
   - "moon14888"
 ---
 
-Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
+¡Hola, amigo! Así que has oído hablar de la migración a Polygon (antes Matic Network), pero no tienes ni idea de que es? No te preocupes, ¡te llevaremos a través de todo paso a paso!
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+En resumen, Polygon es una solución de escala de capa 2 para blockchains públicos como Ethereum. Se trata de una plataforma descentralizada que asegura transacciones más rápidas y de bajo costo con finalidad en la cadena principal. Si quieres saber cómo funciona con más detalle, revisa este [artículo](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
-So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
+Así que di adiós a transacciones de $100 en Uniswap y hola a (casi) interacciones gratis!
 
-Moving to Polygon was the right thing to do. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
+Pasar a Polygon era la decisión correcta. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
