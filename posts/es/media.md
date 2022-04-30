@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Media'
-description: "Aavegotchi Media"
+title: 'Multimedia'
+description: "Aavegotchi Multimedia"
 contributors:
   - "unintelligent-nerd"
 ---
 
-Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't make it? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
+Hola Familia! ¿Alguna vez te has perdido una sesión de charla/chat de Aavegotchi porque no pudiste atender? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
