@@ -54,9 +54,9 @@ Los Aavegotchis tienen 6 rasgos [](/traits):
 
 * **Etherealidad:** "Ethereality" aka "Ghastly Charm" es la habilidad natural de los gotchis para aprovechar las fuerzas espectrales invisibles del Gotchiverso. Un gotchi con alta ethereality ejerce influencia en su entorno para mejorar sus posibilidades de evadir ataques, asestar golpes críticos, deslizarse por las paredes y producir resultados favorables en casi todas las acciones basadas en el azar en todo el Gotchiverso. Algunos los llaman "Afortunados"… la mayoría los llaman "Degens"…
 
-* **Poder cuerpo a cuerpo:** Determina la fuerza de las habilidades cuerpo a cuerpo (usables a mano solo actualmente) cuando son equipadas por un gotchi. Influences not only the strength of melee hand wearables with damage abilities but also the strength of melee hand wearables with restorative, buff or debuff abilities.
+* **Poder cuerpo a cuerpo:** Determina la fuerza de las habilidades cuerpo a cuerpo (usables a mano solo actualmente) cuando son equipadas por un gotchi. Influye no sólo en la fuerza de los objetos de mano con habilidades de daño cuerpo a cuerpo, sino también en la fuerza de los objetos de mano de cuerpo a cuerpo con habilidades de recuperación, buff o debuff.
 
-* **Ranged Power:** Determines the strength of ranged abilities (ranged hand wearables only at present) when equipped by a gotchi. Influences not only the strength of ranged hand wearables with damage abilities but also the strength of ranged hand wearables with restorative, buff or debuff abilities.
+* **Potencia a distancia:** Determina la fuerza de las habilidades a distancia (por el momento, sólo los wearables de mano con ataque a distancia) cuando los equipa un gotchi. Influye no sólo en la potencia de los wearables de mano con habilidades de daño a distancia, sino también en la potencia de los objetos de mano a distancia con habilidades de recuperación, buff o debuff.
 
 ## Mapeo de Rasgos
 
@@ -64,14 +64,14 @@ table_traitMappings
 
 ## Sistemas de escalado de rasgos
 
-It is crucial to note that the way traits scale and change with increases/decreases to NRG, AGG, SPK and BRN shown in this version 2 trait map are still under discussion and not yet finalized. Two current proposed scaling models are:
+Es crucial señalar que la manera en que los rasgos de escala y cambia con aumentos / disminuciones de NRG, AGG, SPK y BRN mostrados en este mapa de rasgos versión 2 están todavía en discusión y aún no están finalizados. Los dos modelos de escala propuestos son:
 
-* Yin/Yang e.g. 0 NRG gotchi has less AP and more HP than a 50 NRG gotchi
+* Yin/Yang ej. 0 NRG gotchi tiene menos AP y más HP que un gotchi de 50 NRG
 
-* Buff Only e.g. 0 NRG gotchi has the same AP and more HP than a 50 NRG gotchi
+* Yin/Yang ej. 0 NRG gotchi tiene menos AP y más HP que un gotchi de 50 NRG
 
-In addition, there are many ways these relationships can be modeled including linear, exponential, diminishing return curves and caps. This will be discussed with Pixelcraft Studios.
+Además, hay muchas maneras en que estas relaciones pueden modelarse incluyendo curvas de retorno lineales, exponenciales, decrecientes y caídas. Esto se discutirá con Pixelcraft Studios.
 
 ## Recursos
 
-* The [AavegotchiDAO](/dao) proposed and voted for an [alternative Gotchiverse Trait Map for NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
+* El [AavegotchiDAO](/dao) propuso y votó por un [mapa alternativo de rasgos de Gotchiverse para NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
