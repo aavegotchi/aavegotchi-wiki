@@ -50,7 +50,7 @@ El Gotchus Alchemica Exchange (GAX) es una pieza clave de la infraestructura del
 * ALPHA
 * KEK
 
-<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
+<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Pares de intercambio de Gotchus Alchemica" />
 
 También proporciona una fuente sostenible de ingresos para potenciar las recompensas de la economía del juego.
 
@@ -90,13 +90,13 @@ GLTR también tiene una utilidad secundaria, siendo el token principal requerido
 
 * Distribución: 100% de las recompensas de liquidez durante 30 años
 
-* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+* Calendario de asignación: 10% en el primer año, el resto se distribuye a lo largo de 30 años (con una reducción a la mitad cada 4 años)
 
-**Earning GLTR**
+**Ganar GLTR**
 
-GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+Los tokens GAX LP pueden ser colocados en un contrato Master Chef para ganar GLTR.
 
-**Burning**
+**Quemar**
 
-All GLTR spent in-game is burned from the supply (sent to burn address).
+Todos los GLTR gastados en el juego se queman del suministro (enviados a la dirección de quemado).
 
