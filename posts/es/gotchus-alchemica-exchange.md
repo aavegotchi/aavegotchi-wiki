@@ -82,13 +82,13 @@ Esto garantiza que Aavegotchi tenga una fuente sostenible de ingresos por recomp
 
 La utilidad principal de GAX Liquidity Token Reward (GLTR) es permitir a los jugadores en el Gotchiverse acelerar la fabricación y actualización de sus [instalaciones](/gotchiverse#building-on-realm-parcels) quemando GLTR, permitiéndoles alcanzar niveles más altos del juego más rápido. **Cada GLTR quemado equivale a un bloque de la red PoS de Polygon.**
 
-GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+GLTR también tiene una utilidad secundaria, siendo el token principal requerido para subastas de [Wearable Crest](/guild#accessing-a-guild). Los clanes también tendrán la opción de quemar GLTR para acelerar el tiempo de su próxima Guild Channeling.
 
 **Tokenomics**
 
-* Max supply: 1,000,000,000,000 (1 trillion)
+* Suministro máximo: 1.000.000.000 (1 billón)
 
-* Distribution: 100% to liquidity rewards over 30 years
+* Distribución: 100% de las recompensas de liquidez durante 30 años
 
 * Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
 
