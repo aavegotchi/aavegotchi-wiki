@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica Exchange (GAX)'
-description: 'Gotchus Alchemica Exchange (GAX)'
+title: 'Intercambio de Gotchus Alchemica (GAX)'
+description: 'Intercambio de Gotchus Alchemica (GAX)'
 contributors:
   - "unintelligent-nerd"
 ---
