@@ -33,23 +33,23 @@ Los propietarios de los Gotchi pueden establecer:
 * la duración del período de préstamo (máximo de 30 días)
 * la división de ganancias
 
-Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, and secure sharing of Aavegotchi NFTs.
+Los préstamos de Gotchi están al 100% en la blockchain, permitiendo que los NFT de Aavegotchi se compartan de forma segura.
 
 ## ¿Qué puedo hacer con el alquiler de Gotchi?
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+Los préstamos de Gotchi son útiles para cualquiera que posea un Aavegotchi. También es útil para cualquier persona que quiera jugar en el próximo lanzamiento [Gotchivero](/gotchiverse). Grandes [clanes](/guild) podrán utilizar esta función para poner los NFT en manos de sus miembros, e incluso tendrá la capacidad de compartir los fondos ganados en la cartera de tesorería del clan.
 
-Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
+Los jugadores individuales también podrán hacer uso de los préstamos de Gotchi haciendo que sus Aavegotchis estén disponibles públicamente para ganar ingresos pasivos, o incluso permitir que amigos y familiares jueguen con su Aavegotchi sin costo.
 
 ## Instrucciones para Prestamistas
 
-**Step 1: Set the Duration and Upfront Cost**
+**Paso 1: Establezca la duración y el coste del inicio**
 
-First the lender will set any upfront costs, the lending duration, and which tokens to share with the borrower. Whether to charge an upfront cost or not is up to the owner and the market. The majority of lenders will likely not charge an upfront cost, allowing anyone to use their Aavegotchis for free!
+Primero el prestamista establecerá cualquier costo inicial, la duración del préstamo, y qué tokens compartir con el prestatario. Cobrar o no un costo anticipado corresponde al propietario y al mercado. La mayoría de los prestamistas probablemente no cobrarán un costo inicial, lo que permitirá a cualquiera usar sus Aavegotchis gratis!
 
-Lenders will be able to select which tokens to share with borrowers. This means a lender can choose to offer a sharing rate on some tokens and not others. For example, a lender can choose to offer a 100% sharing rate on one token, but not share any others. Alternatively, they could elect to share 50% of each.
+Los prestamistas podrán seleccionar qué tokens compartir con los prestatarios. Esto significa que un prestamista puede elegir ofrecer una tasa de participación en algunos tokens y en otros no. Por ejemplo, un prestamista puede elegir ofrecer una tasa de participación del 100% en un token, pero no compartir otro. Alternativamente, podrían elegir compartir el 50% de cada uno.
 
-Additionally, the token sharing options now include GHST in addition to the four types of Gotchus Alchemica. This is particularly important during Rarity Farming seasons, because lenders will get to determine what, if any, portion of an Aavegotchi’s GHST balance they wish to share.
+Además, las opciones de compartir tokens ahora incluyen GHST además de los cuatro tipos de Gotchus Alchemica. Esto es especialmente importante durante las temporadas de Rarity Farming, porque los prestamistas determinarán qué, si lo hubiera, porcentaje del saldo GHST de un Aavegotchi desean compartir.
 
 The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
