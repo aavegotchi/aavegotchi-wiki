@@ -2,42 +2,42 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+description: '¡Aavegotchi Tickets y Premios de Raffle!'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
-<p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
+<p class="headerImageText">¡Ooooo ese Ticket Godlike brillante!</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+Los Tickets son NFT que te permiten participar en Aavegotchi Raffles para ganar premios. Pueden ser comprados usando FRENS obtenidos al depositar Ghst o en el [Baazaar](/baazaar) usando [tokens GHST](/ghst).
 
-In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
+En esta página aprenderás a comprar Tickets utilizando FRENS y a participar en sorteos usando esos tickets!
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
-<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#purchasing-tickets>Compra de Tickets</a></li>
+<li><a href=#entering-raffles>Entradar Tickets</a></li>
+<li><a href=#past-raffles-statistics>Estadísticas de los sorteos</a></li>
+<li><a href=#more-resources>Más Recursos</a></li>
 </ol>
 
 </div>
 
-## Purchasing Tickets
+## Compra de Tickets
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
+Una vez que tengas suficientes FRENS, dirígete a la interfaz de usuario [Comprar a granel](https://aavegotchi.com/tickets) para comprar tickets con FRENS.
 
-Unlike FRENS, Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
+A diferencia de FRENS, los Tickets se pueden transferir de una cartera a otra. También pueden ser compradas/vendidas en mercados secundarios como el [Baazaar](/baazaar).
 
-The current supply of Tickets can be determined using the OpenSea Polygon interface [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
+El suministro actual de Tickets se puede determinar utilizando la interfaz de Polygon de OpenSea [aquí](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
 
-There are two main categories of tickets:
+Hay dos categorías principales de tickets:
 
 * Raffle Tickets
 * Drop Ticket
@@ -52,7 +52,7 @@ Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegot
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
-## Entering Raffles
+## Entradar Tickets
 
 A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
@@ -90,10 +90,10 @@ The entire process of staking GHST and winning prizes can be illustrated using t
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
 
-## Past Raffles Statistics
+## Estadísticas de los sorteos
 Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
-## More Resources
+## Más Recursos
 
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
