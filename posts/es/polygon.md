@@ -13,33 +13,33 @@ En resumen, Polygon es una solución de escala de capa 2 para blockchains públi
 
 Así que di adiós a transacciones de $100 en Uniswap y hola a (casi) interacciones gratis!
 
-Pasar a Polygon era la decisión correcta. [Nick](/team#nick-mudge) found that we have [saved $14.4 million dollars in gas fees from doing so](https://twitter.com/mudgen/status/1372245486535639040).
+Pasar a Polygon era la decisión correcta. [Nick](/team#nick-mudge) descubrió que hemos [ahorrado $14,4 millones de dólares de comisiones en gas al hacerlo](https://twitter.com/mudgen/status/1372245486535639040).
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
-<li><a href=#why-polygon->Why Polygon?</a></li>
-<li><a href=#adding-polygon-to-your-metamask>Adding Polygon to your Metamask</a></li>
+<li><a href=#why-polygon->¿Por qué el polygon?</a></li>
+<li><a href=#adding-polygon-to-your-metamask>Agrega Polygon a Metamask</a></li>
 <li><a href=#matic-faucet>Matic Faucet</a></li>
 </ol>
 
 </div>
 
-## Why Polygon?
+## ¿Por qué el polygon?
 
-As you might or might not know, Aavegotchi Mainnet launch was planned for January 4th 2021. On that day Bitcoin moved for almost 40%, which caused arbitrage bots to go crazy. This made gas fees skyrocket to over 400 gwei, resulting in ridiculous transaction fees. Just to put it into perspective: Buying a single [portal](/portals), opening it and summoning a Gotchi would have cost at least 300$.
+Como puede que sepas o no, el lanzamiento de Aavegotchi Mainnet estaba previsto para el 4 de enero de 2021. Ese día Bitcoin se movió por casi el 40%, lo que causó que los robots de arbitraje se volvieran locos. Esto hizo que las tasas de gas se dispararan hasta más de 400 gwei, resultando en tarifas de transacción ridículas. Solo para ponerlo en perspectiva: Comprar un solo [portal](/portals), abrirlo y invocar un Gotchi tendría un costo de al menos 300$.
 
-It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
+Estaba claro que un lanzamiento en Ethereum Mainnet era imposible. Dado que Polygon ya ha estado trabajando junto a diferentes proyectos NFT (como OpenSea), la elección fue relativamente fácil. La comunidad compartió este sentimiento y votó a favor de un lanzamiento en Polygon con 76%.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Para una discusión extendida sobre este tema, vea este medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
-## Adding Polygon to your Metamask
+## Agrega Polygon a Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+¡Comencemos con lo divertido! Para usar Polygon, primero tienes que añadirlo a tu cartera de Metamask.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Primero, abra la extensión y haga clic en el botón “Ethereum Mainnet” en la parte superior.
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
@@ -49,28 +49,28 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 3). Introduce los siguientes ajustes:
 
-Network Name: Matic Mainnet
+Nombre de red: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+Nueva URL RPC: https://rpc-mainnet.maticvigil.com/
 
-Chain ID: 137
+ID de cadena: 137
 
 Símbolo de Moneda (opcional): MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+URL del explorador de bloques (opcional): https://explorer.matic.network/
 
 Una vez que hayas añadido todo, puedes hacer clic en "Guardar".
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). No hay ningún paso cuatro, ¡ya estás listo! Ahora puedes cambiar entre Ethereum Mainnet y Polygon haciendo clic en el botón del paso 1.
 
 ## Matic Faucet
 
-You need MATIC tokens to transact on Polygon.
+Necesitas tokens MATIC para hacer transacciones en Polygon.
 
-Here are some MATIC faucets that will give you some free MATIC to do transactions:
+Aquí están algunos faucets en Polygon que te darán algunos MATIC gratis para hacer transacciones:
 
 * [Matic Supply](https://matic.supply/)
 
 * [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-If the faucets do not work, drop in to the Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6) and head over to the #matic-requests channel and some of our frenly frens will provide you with some MATIC.
+Si los faucet no funcionan, sube al Discord de Aavegotchi [aquí](https://discord.com/invite/NPwnWB6) y ve al canal #matic-requests y algunos de nuestros amigos te proporcionarán algo de MATIC.
