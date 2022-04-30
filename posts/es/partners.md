@@ -79,7 +79,7 @@ Snapshot es un sistema de voto descentralizado. Proporciona flexibilidad sobre c
 ### Polygon
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/polygon.jpg" alt = "Polygon Network">
+<img class="leftImage" src="/partners/polygon.jpg" alt = "Red de Polygon">
 <p class="leftImageText"><a href="https://twitter.com/0xPolygon" target="_blank">Polygon</a></p>
 </div>
 
@@ -176,7 +176,7 @@ BlackPool es la primera organización autónoma descentralizada (DAO) creada exc
 
 Lideraremos el camino a la hora de proporcionar derivados financieros a los mercados digitales, ofreciendo servicios como índices de valoración de activos, alquiler, mecanismos de seguros y más.
 
-BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
+BlackPool cree firmemente en el valor a largo plazo de los activos digitales, y entiende que se requiere un alto nivel de especialización en cada plataforma NFT para maximizar la creación de valores. Por lo tanto, siempre trataremos de emplear conocimientos especializados para mejorar nuestro rendimiento en cada plataforma.
 
 ### Flamingo DAO
 
@@ -185,7 +185,7 @@ BlackPool firmly believes in the long term value of scarce digital assets, and u
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
+Un DAO enfocado en el NFT que busca explorar oportunidades de inversión emergentes para activos propios y basados en blockchain. Los NFT no son sólo imágenes de gatos. Engloban el arte digital, los coleccionables y los activos dentro del juego y otros activos tangibles. Estas nuevas formas de propiedad digital están a punto de desempeñar un papel cada vez más importante en ayudar a crear, monetizar y aumentar el contenido digital en línea.
 
 ### Mao DAO
 
@@ -194,4 +194,4 @@ An NFT-focused DAO that aims to explore emerging investment opportunities for ow
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
+MAO DAO es un nuevo tipo de gaming DAO que pretende tomar la delantera en el espacio play-to-earn en Asia. Han integrado a cientos de jugadores en diferentes juegos existentes, siendo el primero Axie Infinity. Por ahora, decidieron lanzar el Ready Player Cat NFTs que representan la membresía de DAO, parte de los derechos de gobierno.
