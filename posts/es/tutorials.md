@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi 101'
-description: "Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!"
+description: "Aavegotchi 101. Tutoriales para empezar en todos los blockchain, DeFi y Aavegotchi!"
 contributors:
   - "unintelligent-nerd"
 ---
