@@ -50,51 +50,51 @@ table_RaffleTickets
 
 Publicación del blog: \[!depositar GHST y generar FRENS en vivo en Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en una sola transacción. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en una sola transacción. **no necesita** crear transacciones de compra separadas para cada categoría de raffle ticket.
 
 ## Entradar Tickets
 
-Un raffle (tanto wearable raffles como NFT raffles) tienen lugar durante un corto periodo de tiempo. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+Un raffle (tanto wearable raffles como NFT raffles) tienen lugar durante un corto periodo de tiempo. Durante este período, puedes enviar tus tickets para tener la oportunidad de ganar premios. El meter tickets en el sorteo implica una transacción en Polygon; no se realiza automáticamente. Si tienes muchas categorías diferentes de raffle tickets y deseas introducirlos juntos como un paquete, también es posible. **no necesitas** crear transacciones distintas para cada categoría de raffle ticket para introducirlos en el sorteo.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Cuando termine el sorteo, puedes averiguar qué premios has ganado y puedes reclamarlos.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your tickets. You can also accumulate tickets for subsequent raffles if you like to do so.
+Si decides no participar en un determinado Raffle, no necesita hacer nada con sus Tickets. Si así lo deseas, se pueden acumular los tickets para el próximo sorteo.
 
-As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Por ejemplo, el primer wearable raffle tenía un set tematico de Chainlink como premio. Aquí estaban los premios para el sorteo:
 
 <img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Un total de 6010 premios.
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Cada premio se asignará a un raffle ticket aleatorio, donde cada ticket tiene las mismas oportunidades de ganar.
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+Puedes aumentar tu probabilidad de ganar con:
+* Enviando múltiples tickets
+* Participando en las categorías del raffle con más premios (ej. Common)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Los números aleatorios para los ganadores de los premios del Raffle se generan a través del [generador de aleatoriedad verificable](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) de Chainlink.
 
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+Una vez finalizado el sorteo, los ganadores pueden reclamar sus premios en la Red Polygon y equipar a sus Gotchis con esos wearables.
 
-The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+Todo el proceso de depositar GHST y ganar premios se puede ilustrar usando las siguientes infografías:
 
-* Process of staking GHST to winning wearables in Wearable Raffles
+* Proceso de depositar GHST para ganar wearables en Wearable Raffles
 
 <img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
 
-* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+* Proceso de depositar GHST para ganar portales/parcelas REALM en NFT Raffles
 
 <img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
 
-* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+* Proceso de depositar GHST para ganar [parcelas REALM](/metaverse#realm-parcel-sizes)
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
 
 ## Estadísticas de los sorteos
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Saber como los FRENS y participar en Raffles es bueno. Pero, ¿qué pasa con las cifras? ¿Cuáles son las probabilidades de ganar un wearable basado en raffles pasados? Visite la página [Estadísticas de los Raffles](/raffles-stats) para obtener los datos históricos.
 
 ## Más Recursos
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Una Guía Amistosa](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Acabas de ganar](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon y el Ticket Verde](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
