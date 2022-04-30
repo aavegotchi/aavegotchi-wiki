@@ -65,7 +65,7 @@ Coyote, nuestro desarrollador, ha creado 2 tutoriales sobre la creación de mini
 
 * [Haaunt.com](https://haaunt.com/) - Leaderboard Aavegotchi / Precios de los equipables
 
-* [Haunt.gg](https://haunt.gg/) - Listing Organizer
+* [Haunt.gg](https://haunt.gg/) - Organizador de listados
 
 * [Extensión de Aavegotchi](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Extensión de Chrome para dar caricias a los Aavegotchis
 
