@@ -63,10 +63,10 @@ Gestionado por Pixelcraft Studios y el contrato inteligente REALM, este 15% del 
 
 De la asignación total del 15%, el 33,3% (o 5% del suministro total) se asignará a través del sistema de contrato inteligente “Boost” para alquimica adyacente. **Estos tokens no están habilitados, pero sólo pueden ser mintados a través del juego de Gotchiverse.**
 
-The remaining 66.6% (or 10% of total supply) will be **vested via the same schedule as the Ecosystem allocation above**, and used primarily for Alchemical Bubble Ups, Dungeons, and other in-game rewards that are not distributed via smart contract.
+El 66.6% restante (o 10% de la oferta total) será **investido mediante el mismo programa que la asignación del ecosistema superior a**, y usado principalmente para Alchemical Bubble Ups, Mazmorras y otras recompensas dentro del juego que no se distribuyen a través de contrato inteligente.
 
-**Parcel Allocations (50%)**
+**Asignación a parcelas (50%)**
 
-50% of all Alchemica have been earmarked for Parcels in the Gotchiverse, including all three Acts and replenishings in each Act.
+El 50% de la totalidad de la Alquimia se ha destinado a Parcelas en el Gotchiverse, incluyendo los tres Actos y su reposición en cada Acto.
 
-Act 1 will distribute roughly 25% of the total supply, whereas Act 2 and Act 3 will distribute 15% and 10%, respectively.
+El Acto 1 distribuirá aproximadamente el 25% del total, mientras que el Acto 2 y el Acto 3 distribuirán el 15% y el 10%, respectivamente.
