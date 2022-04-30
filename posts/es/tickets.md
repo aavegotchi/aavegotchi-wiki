@@ -42,19 +42,19 @@ Hay dos categorías principales de tickets:
 * Raffle Tickets
 * Drop Ticket
 
-Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+Los Raffle Tickets pueden ser subdivididos en seis subcategorías diferentes, que van desde Común (menos valioso) hasta Godlike (más valioso). Estos se utilizan para participar en **Wearable Raffles**.
 
-On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
+Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** para ganar [Portales](/portales) y [Parcelas REALM](/metaverse).
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Publicación del blog: \[!depositar GHST y generar FRENS en vivo en Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en una sola transacción. You do **not** need to create separate buy transactions for each category of raffle ticket.
 
 ## Entradar Tickets
 
-A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+Un raffle (tanto wearable raffles como NFT raffles) tienen lugar durante un corto periodo de tiempo. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
 When the raffle is over, you can find out what prizes you have won and can claim them.
 
