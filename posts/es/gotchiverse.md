@@ -45,21 +45,21 @@ El Gotchiverso comenzó con sólo un puñado de Aavegotchis, pero a medida que l
 
 ## Zonas
 
-The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
+El Gotchiverso ocupa una vasta extensión de tierra, con puntos de referencia clave distribuidos por su geografía. Tiene tres zonas distintas:
 
-* The Citaadel
-* The Grid
-* The Beyond
+* La Ciudadela
+* El Grid
+* El Más allá
 
-### The Citaadel
+### La Ciudadela
 
-Protected by a Force Field that keeps out lickquidators, the Citaadel is the home base of Aavegotchis in the Gotchiverse. Towers cannot be built in the Citaadel, except for in special areas around the Great Portal.
+Protegida por un campo de fuerza que mantiene alejados a los lickquidators, la Citaadel es la base de los Aavegotchis en el Gotchiverso. No se pueden construir torres en la Ciudadela, excepto en zonas especiales alrededor del Gran Portal.
 
 #### The Great Portal
 
 A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) harvested from the Gotchiverse.
 
-### The Grid
+### El Grid
 
 The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
 
@@ -72,7 +72,7 @@ Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered inte
 
 Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
 
-### The Beyond
+### El Más allá
 
 Locked Parcels that will not be unlocked until the beginning of Act 2.
 
