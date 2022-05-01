@@ -233,19 +233,19 @@ Cada vez que se fabrica una instalación, una mejora o cualquier otro objeto en 
 
 Toda la Alchemica que supere la capacidad del Gran Portal se reciclará de nuevo en el ecosistema a través de la Canalización Alquímica y de Grupo, reduciendo el ritmo de acuñación de nuevos tokens.
 
-Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+Inicialmente, la capacidad del Gran Portal será del 1% del suministro total, pero esto puede ser alterado por AavegotchiDAO. Hablando de AavegotchiDAO…
 
-**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+**AavegotchiDAO**, el órgano de gobierno del Protocolo Aavegotchi, recibe el 30% del reparto de Alchemica crafteada. Este balance de Alchemica representa una poderosa oportunidad para que la comunidad tenga una participación directa en la gestión de la tesorería y ponga estos tokens a trabajar en nombre del protocolo.
 
-**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+**Pixelcraft Studios**, la casa de desarrollo de Gotchiverse, también recibe el 30% de crafteo de Alchemica. Estos saldos de Alchemica pueden ponerse rápidamente a trabajar en cualquier esfuerzo que apoye el crecimiento del protocolo Aavegotchi y el juego Gotchiverso. Además de simplemente guardarlos, la adquisición de usuarios, las asignaciones estratégicas y las iniciativas de marketing son algunas de las formas en que Alchemica puede ponerse a trabajar.
 
-**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+**Una quema de fichas del 5%** es la guinda de este plan de Distribución de Ingresos de Crafting. Una quema de esta envergadura ayudará a compensar los diversos altibajos de la inflación de Alchemica, ya sea por los picos de adopción de los jugadores, los eventos alquímicos planificados como Las Grandes Batallas o las parcelas de REALM encuestadas con mucha suerte.
 
 ## Tokenomics REALM
 
 ### Suministro Total
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+El suministro total de REALM es de 420.069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
 
 ### Distribution
 
