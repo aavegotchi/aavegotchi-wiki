@@ -61,38 +61,38 @@ Un punto de referencia dentro de la Ciudadela es el Gran Portal. El Gran Portal 
 
 ### El Grid
 
-El Grid abarca todo lo que está fuera de la Ciudadela. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
+El Grid abarca todo lo que está fuera de la Ciudadela. Las parcelas del Grid son mucho más abundantes, pero los propietarios deben tener cuidado: los lickquidators están al acecho en cada esquina. Las Parcelas del Grid pueden construir tanto Muros como Torres.
 
-#### The Aarena
-A key landmark in the Grid is the Aarena.
+#### La Aarena
+Un elemento clave en el Grid es la Aarena.
 
-Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
+Aunque los Aavegotchis son amistosos, son conscientes de que los impulsos agresivos necesitan una salida, y por eso crearon la Aarena.
 
-Within the Aarena, Aavegotchis with high enough [Spirit Force (Aave-powered interest-bearing aTokens)](/spirit-force) can battle against each other in epic Battle Royales, competing for the Spirit Force of their opponents.
+Dentro de Aarena, los Aavegotchis con [fuerza-espiritual (aTokens de interés de Aave)](/fuerza-espiritual) pueden luchar entre sí en épicas Batallas Reales, compitiendo por la fuerza espiritual de sus oponentes.
 
-Lickquidators dare not enter into the Aarena, instead opting to frequent the Phantastic Grounds, another friendly-fire area that also allows lickquidators to enter.
+Los lickquidators no se atreven a entrar en la Aarena, sino que optan por frecuentar los Campos Fantásticos, otra zona de fuego amigo que también permite la entrada de los lickquidators.
 
 ### El Más allá
 
-Locked Parcels that will not be unlocked until the beginning of Act 2.
+Corresponde a parcelas bloqueadas que no se desbloquearán hasta el inicio del Acto 2.
 
 ## Distritos
 
-Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+Los distritos están formados por grupos de parcelas de REALM que están situadas cerca unas de otras. La siguiente imagen muestra una parte de la Citaadel en la que se han liberado parcelas de REALM y los distritos que la componen.
 
-Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
+Los clanes se organizan en distritos. Echa un vistazo a la página [del gremio](/guild) para ver la lista de clanes y en qué distritos se encuentran.
 
 <img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
 
-Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+Navega en el REALM aquí en [gotchiverse.io](https://gotchiverse.io/).
 
 ## PARCELAS del reino
 
-Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
+Las parcelas vienen en tres tamaños, cada una proporciona mayores depósitos de Alchemica* y más espacio de construcción
 
-* Humble: Contain smol deposits of Alchemica and building space (8 x 8 pixels)
-* Reasonably Sized: Contain reasonable deposits of Alchemica and building space (16 x 16 pixels)
-* Spacious: Contain huge deposits of Alchemica and building space (32 x 64 pixels)
+* Humilde: Contiene pequeños depósitos de Alchemica y espacio de construcción (8 x 8 píxeles)
+* Razonable: Contiene depósitos razonables de Alchemica y espacio de construcción (16 x 16 píxeles)
+* Espaciosa: Contiene enormes depósitos de Alchemica y espacio de construcción (32 x 64 píxeles)
 
 *Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
 
