@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
-title: 'Team'
-description: 'See who&#8217s building the Aavegotchi Game'
+title: 'Equipo'
+description: 'Mira quién&#8217 está construyendo el juego de Aavegotchi'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
@@ -15,38 +15,38 @@ contributors:
 <p class="headerImageText">Non edited photo</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+¿Quieres saber quién está detrás de estos lindos gotchis? ¡No te preocupes! Nosotros te ayudamos. ¡Presentando a la gente detrás de Aavegotchi!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#summoners>Summoners</a></li>
+<li><a href=#summoners>Invocadores</a></li>
 <p><a href=#coder-dan>Coder Dan</a></p>
 <p><a href=#jesse>Jesse</a></p>
 <p><a href=#xibot>Xibot</a></p>
 <p><a href=#nick-mudge>Nick Mudge</a></p>
-<li><a href=#aadvisors>Aadvisors</a></li>
+<li><a href=#aadvisors>Asesores</a></li>
 <p><a href=#stani>Stani</a></p>
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
-<li><a href=#team>Team</a></li>
-<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<li><a href=#team>Equipo</a></li>
+<p><a href=#nyankong---game-director>NyanKong - Director del juego</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
-<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans - Arquitecto Senior en la Nube</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
-<p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
+<p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
+<p><a href=#moon---head-of-paartnerships>Moon - Jefe de Asociaciones</a></p>
+<p><a href=#designerdave---game-design>DisignerDave - Diseño de Juego</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
-<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
-<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
-<li><a href=#origins>Origins</a></li>
+<p><a href=#mori---solidity-developer>Mori - Desarrollador de Solidity</a></p>
+<p><a href=#thrax---media-production>Thrax - Producción Media</a></p>
+<p><a href=#jc---business-development>JC - Desarrollo comercial</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Embajador líder</a></p>
+<li><a href=#origins>Orígenes</a></li>
 </ol>
 
 </div>
@@ -162,7 +162,7 @@ Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón
 ### Gravy - Director de Marketing
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Garvey">
 <p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
@@ -240,7 +240,7 @@ Procedente de las misteriosas tierras de Oriente Medio, Thrax es un creador de c
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+Jc es un estratega de desarrollo de negocios y entusiasta de la cadena de bloques, con una gran experiencia en la conexión y la creación de redes con algunas de las mentes más brillantes en el espacio de la criptomoneda. Emprendedor y motivado por el trabajo en equipo, ha demostrado su talento para establecer relaciones, influir en las asociaciones estratégicas, desarrollar nuevos canales de venta y utilizar las redes sociales y el marketing viral con notable eficacia. Una de sus mayores pasiones es presentar y promover nuevas empresas y ayudarlas en su puesta en marcha. Su entusiasmo por el espacio se basa en una creencia inquebrantable en el poder disruptivo de la tecnología blockchain.
 
 ### Webb - Embajador líder
 
@@ -260,10 +260,10 @@ Cosas que Webb ama:
 
 ## Orígenes
 
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+### El Dream Team se reúne
+Este es el equipo, detrás del meme.  Un equipo de ensueño para cualquiera, preparado para conquistar el mundo. La siguiente historia es un relato bastante preciso de cómo se formó el equipo.  Artísticamente acuñado por Vanilladelphia.eth Aapprentice et al.
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+El año era 2011... o tal vez 2012.  El Coder Dan acababa de terminar su carrera universitaria, cuando decidió dedicarse a su verdadera pasión.  Vender caramelos, en una playa en China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
 "It's time to sell some candy" Said Dan.
 
