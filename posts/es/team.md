@@ -51,7 +51,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 </div>
 
-## Summoners
+## Invocadores
 
 ### Coder Dan
 
@@ -60,7 +60,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
 
-Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Dan aka Coder Dan, es un desarrollador completo y el creador de Yield Hero, una dapp DeFi que permite a los usuarios redirigir su rendimiento AAVE hacia cualquier dirección que deseen. También es conocido por su papel principal en el desarrollo de la primera ERC721 con la plataforma ERC20s NFT, Bullionix. Daniel tiene su sede en Fujian, China y domina en chino. Además de su trabajo en tecnología, Dan es un hacker de crecimiento de nivel 1 que lidera el crecimiento inicial de Aavegotchi a más de 10.000 seguidores de Twitter y 6000 miembros activos en Discord. Su trabajo anterior hizo que la cuenta oficial de su marca en Weibo, Bilibili y WeChat se disparara a más de 1,5 millones de seguidores.
 
 ### Jesse
 
@@ -70,7 +70,7 @@ Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a De
 <p class="leftImageText"><a href="https://twitter.com/gldnXross" target="_blank">@GldnXross</a></p>
 </div>
 
-Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+Jesse, alias GldnXross, es un fundador centrado en el producto que ha tenido un papel de liderazgo en el desarrollo de algunas de las plataformas de NFT más conocidas hasta la fecha, incluida la primera plataforma de acuñación de NFT, Mintable, que ahora está disponible en las blockchains de Ethereum y Zilliqa. También es el creador del concepto Value-Staked NFTs mencionado anteriormente, así como el creador de Bullionix.io, que fue el primero en ofrecer coleccionables digitales en 3D de alta resolución estacados con monedas estables de oro. Antes de su trabajo con las dapps de Ethereum, Jesse estuvo muy involucrado en el lado del intercambio de activos digitales de la industria sirviendo como jefe de desarrollo internacional para ZB Group y antes de eso sirvió en China para la Unidad Móvil de Lenovo como especialista en mejora de productos y fusiones de Motorola.
 
 ### Xibot
 
@@ -79,7 +79,7 @@ Jesse, AKA GldnXross is a product centric founder who has had a leadership role 
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
 
-Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+Xavier Iturralde aka xibot, es uno de los artistas y empresarios más exitosos de la escena de Crypto Art. Su trabajo artístico en píxeles le ha valido la atención (y el volumen de ventas) de los operadores de NFT en OpenSea y Rarible. Su innovador token $PIXEL fue uno de los primeros símbolos sociales que se afianzaron y demostraron que los NFT vinculados a los tokens sociales es un modelo con piernas. Sus apasionados seguidores son una causa más del fomo que rodea al equipo de estrellas de Aavegotchi.
 
 ### Nick Mudge
 
@@ -88,9 +88,9 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
 <p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick Mudge es uno de los desarrolladores de solidity más exitosos de Ethereum. El estándar ERC998 de los componibles fue creado por Mudge y es uno de los aspectos más importantes del juego Aavegotchi, ya que permite a un NFT "padre" equipar y llevar consigo a los NFT "hijos". Más recientemente, Mudge ha dirigido la investigación y el desarrollo de Ethereum para lo que se ha denominado el Estándar Diamante. Este estándar ofrece importantes avances para los contratos actualizables y está siendo rápidamente adoptado por las DAOs centradas en la gobernanza.
 
-## Aadvisors
+## Asesores
 
 ### Stani
 
@@ -99,7 +99,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
 </div>
 
-Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
+Stani es el fundador y CEO de Aave. Es un emprendedor experimentado con amplia experiencia desarrollando tecnología en el espacio criptográfico, blockchain y fintech. Stani también es mentor de muchos fundadores y asesores de ICOs y proyectos blockchain y ha hablado en numerosos FinTech, Eventos Blockchain y de criptomonedas, particularmente sobre temas relacionados con Ethereum Smart Contracts.
 
 ### Les
 
@@ -108,9 +108,9 @@ Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensi
 <p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les</a></p>
 </div>
 
-Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
+Les Borsai (1968) es un emprendedor de tecnología basado en Los Angeles, promotor y gerente de música, y asesor en las industrias de criptomonedas, blockchain y tecnología musical. Comenzó su carrera en la industria de la música y el entretenimiento, trabajando en la gestión de artistas y el marketing, después de ganar reconocimiento como promotor de raves en la escena underground del sur de California a finales de la década de 1980. Ocupó cargos en Avalon Attractions (ahora Live Nation Entertainment|Live Nation), MCA Records y Bill Silva Entertainment antes de crear la empresa de gestión de músicos Modern Artist Management. Su lista de clientes incluye a la cantante de country Wynonna Judd, al artista pop Jason Mraz y a los grupos alternativos Burning Brides, The Icarus Line y Unwritten Law, entre otros.
 
-In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
+A finales de la década de 2000, Borsai se involucró en otras industrias, como la música digital, la criptomoneda y el blockchain. Fue cofundador de la empresa de desarrollo de aplicaciones para iPhone gridMob en 2008, así como de SongLily en 2012, una empresa de plataformas digitales que simplifica la concesión de licencias musicales para los desarrolladores de aplicaciones y juegos para móviles. Tras ser uno de los primeros inversores en la plataforma de criptodivisas Ethereum, fue asesor de empresas de blockchain y en 2018 cofundó Wave Financial, una empresa de gestión de activos digitales.
 
 ### Mauvis
 
