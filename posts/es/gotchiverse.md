@@ -131,7 +131,7 @@ A los Aavegotchis les encanta socializar con sus amigos, y su lugar favorito par
 
 Por defecto, el chat de texto se activará para todos los Gotchis que estén cerca unos de otros. Los propietarios de Parcelas REALM también pueden construir Instalaciones especiales en sus parcelas para permitir el chat de voz para los Gotchis dentro de una Parcela, y actualizar la Instalación para soportar el chat de voz global.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+Los Gotchis también pueden agruparse para realizar Aventuras juntos, explorando mazmorras, luchando contra lickquidators y otros baaddies para obtener recompensas. Las Aventuras son regiones especiales fuera del Gotchiverso principal donde los Aavegotchis pueden poner en práctica sus [rasgos](/traits) y [wearables](/wearables) mientras exploran, luchan contra enemigos NPC y ganan experiencia y recursos. Pero no duran para siempre!
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
@@ -143,20 +143,20 @@ table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
+**Gotchus Alchemica** (fichas ERC20) son los cuatro elementos del Gotchiverso: Fud, Fomo, Alpha y Kek. Pueden combinarse para elaborar Instalaciones y Estética, entre otros usos. Lea más sobre los tokenómicos [aquí](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-The table below shows their total supply:
+El siguiente cuadro muestra su suministro total:
 
 table_gotchusAlchemicaSupply
 
-Gotchus Alchemica can be extracted from REALM in four distinct ways:
+Gotchus Alchemica puede extraerse de REALM de cuatro maneras distintas:
 
-* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
-* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
-* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+* **Canalización alquímica**:  Un estipendio diario básico que ganan los Aavegotchis y que proviene directamente del éter del Gotchiverso, en lugar de ser cosechado de la parcela.
+* **Canalización comunitaria**: Los Aavegotchis también pueden canalizar colectivamente la Alchemica cuando se ha construido una Instalación de Logia Gotchi en la Parcela REALM. Para participar en la canalización comunitaria, el Aavegotchi debe llevar la Insignia del Clan asociada y estar presente en la Parcela REALM durante el ritual. Por cada Aavegotchi adicional que participe en el ritual de Canalización Comunitaria, la Alchemica se cultivará más rápidamente.
+* **Farming**: Una vez que se ha construido una cosechadora, la alquimia comienza a acumularse de forma pasiva, con una cantidad x que va a parar al Depósito, **y** cantidad derramada al mapa cercano, y **z** cantidad que va al Gran Portal
+* **Harvesting**: Los aavegotchis y los lickquidators pueden recorrer el mapa, recogiendo Alchemica suelta derramada por la minería.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
