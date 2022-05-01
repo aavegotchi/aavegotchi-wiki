@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchiverse'
-description: 'All about the Gotchiverse'
+title: 'Gotchiverso'
+description: 'Todo sobre el Gotchiverso'
 contributors:
   - "eris771"
   - "unintelligent-nerd"
@@ -13,9 +13,9 @@ contributors:
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
-Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens.
+Más allá del reino humano, está el reino del éter, donde los contratos inteligentes centellean y los bosques oscuros acechan. Si uno se adentra un poco más en la madriguera del conejo, acaba descubriendo el reino del Gotchiverso. Cuando un agricultor del Reino del Éter es liquidado, su espíritu viaja al Gotchiverso, donde se reencarna en un Aavegotchi. Los Aavegotchis son una especie espectral a la que nada le gusta más que[ cultivar](/rarity-farming), [votar](/dao), y hacer shitposting con sus amigos.
 
-The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
+El Gotchiverso comenzó con sólo un puñado de Aavegotchis, pero a medida que las liquidaciones crecían en el Reino del Éter, la población del Gotchiverso crecía, con miles de Aavegotchis explorando, construyendo y asentándose en sus vastas extensiones, e incluso construyendo grandes estructuras para adorar a los lickquidators, sus creadores.
 
 <a name="Realm"></a>
 
@@ -24,26 +24,26 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 **Contenidos**
 
 <ol>
-<li><a href=#zones>Zones</a></li>
-<li><a href=#districts>Districts</a></li>
-<li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
+<li><a href=#zones>Zonas</a></li>
+<li><a href=#districts>Distritos</a></li>
+<li><a href=#realm-parcel-sizes>PARCELAS del reino</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
-<p><a href=#chat-commands>Chat Commands</a></p>
+<li><a href=#socializing-in-the-gotchiverse>Socializar en el Gotchiverso</a></li>
+<p><a href=#chat-commands>Comandos de Chat</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
-<p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
-<p><a href=#crafting-revenue-distribution>Crafting Revenue Distribution</a></p>
-<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
+<li><a href=#building-on-realm-parcels>Construyendo sobre las parcelas del REALM</a></li>
+<p><a href=#installation-traits-and-recipes>Recetas y características de las instalaciones</a></p>
+<p><a href=#crafting-revenue-distribution>Distribución de los Ingresos de Fabricación</a></p>
+<li><a href=#realm-tokenomics>Tokenomics REALM</a></li>
 <p><a href=#total-supply>Suministro Total</a></p>
-<p><a href=#distribution>Distribution</a></p>
-<p><a href=#drop-tickets>Drop Tickets</a></p>
-<p><a href=#parcel-boosts>Parcel Boosts</a></p>
+<p><a href=#distribution>Distribución</a></p>
+<p><a href=#drop-tickets>Drop Ticket</a></p>
+<p><a href=#parcel-boosts>Potenciador de las parcelas</a></p>
 </ol>
 
 </div>
 
-## Zones
+## Zonas
 
 The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
 
@@ -76,7 +76,7 @@ Lickquidators dare not enter into the Aarena, instead opting to frequent the Pha
 
 Locked Parcels that will not be unlocked until the beginning of Act 2.
 
-## Districts
+## Distritos
 
 Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
 
@@ -86,7 +86,7 @@ Guilds generally organize themselves in districts. Check out the [Guild page](/g
 
 Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
 
-## REALM Parcel Sizes
+## PARCELAS del reino
 
 Parcels come in three sizes, with each size providing greater deposits of Alchemica* and more building space
 
@@ -125,7 +125,7 @@ Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Re
 
 There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
 
-## Socializing in the Gotchiverse
+## Socializar en el Gotchiverso
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
@@ -135,7 +135,7 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
-## Chat Commands
+## Comandos de Chat
 
 The following table shows the chat commands in the Gotchiverse.
 
@@ -182,7 +182,7 @@ For example, the range of values of FUD for a Humble parcel for the entire Act 1
 
 We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
 
-## Building on REALM parcels
+## Construyendo sobre las parcelas del REALM
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
@@ -194,7 +194,7 @@ Installations take a certain number of blockchain blocks to finish constructing,
 
 **Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
-### Installation Traits and Recipes
+### Recetas y características de las instalaciones
 
 **Recipes**
 
@@ -218,7 +218,7 @@ You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse
 
 Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
 
-### Crafting Revenue Distribution
+### Distribución de los Ingresos de Fabricación
 
 Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
 
@@ -241,7 +241,7 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
-## REALM Tokenomics
+## Tokenomics REALM
 
 ### Suministro Total
 
@@ -277,7 +277,7 @@ There are three ways to get Drop Tickets:
 * Convert other Raffle Tickets into a Drop Ticket
 * Refer your friends to earn Drop Tickets 🔥
 
-### Parcel Boosts
+### Potenciador de las parcelas
 
 Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
 
