@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Estaates'
-description: 'Aavegotchi Estaates'
+title: 'Fincas'
+description: 'Fincas Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/estaates/estaates.png">
-<p class="headerImageText">Estaates</p>
+<p class="headerImageText">Fincas</p>
 </div>
 
 A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
@@ -21,7 +21,7 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 **Contenidos**
 
 <ol>
-<li><a href=#benefits-of-estaates>Benefits of Estaates</a></li>
+<li><a href=#benefits-of-estaates>Beneficios de las fincas</a></li>
 <li><a href=#general-building-rules>General Building Rules</a></li>
 <li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
 <li><a href=#examples>Examples</a></li>
@@ -29,7 +29,7 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 
 </div>
 
-## Benefits of Estaates
+## Beneficios de las fincas
 
 Creating an Estaate gives:
 
