@@ -213,16 +213,16 @@ Caleb, apodado Coyote por ser su segundo nombre, se unió a la lucha a principio
 
 Candoizo, también conocido como candoizo, es un desarrollador de software que se dedica a facilitar a la comunidad de constructores la conquista de Aavegotchi! Su experiencia varía desde el tiempo que pasó como probador de penetración y la construcción de proyectos impulsados por la comunidad, todo ello derivado de un impulso para descifrar las cosas para la gente.
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+La historia sugiere que se crió en el desierto canadiense a base de juegos competitivos y de devoción por la construcción de herramientas legendarias. Con proyectos anteriores como Hauntgg, CoinVanity, y en todo iOS no faltan amigos que darían fe de esta historia de origen real. En el siguiente episodio, nuestro legendario entrenador Coder Dan pudo plasmar su corazón y habilidad para el equipo de Pixelcraft utilizando su innovador concepto de juego y su destacada comunidad!
 
-### Mori - Solidity Developer
+### Mori - Desarrollador de Solidity
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
 <p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
+Patrick Kim, alias Mori, es un desarrollador de solidez y defi degenerativo de Los Ángeles. Encontró Aavegotchi después de perder un montón de dinero en poocoins, y se inspiró en la cantidad de esfuerzos que se dedican a los NFTs dedicados a los liquidados. Como prueba de su falta de concentración, antes era estadístico y antes mecánico de aviones. Ve el anime por la trama, y era un jugador de apoyo dispuesto a no ser coaccionado cuando jugaba a DotA hace años. En su tiempo libre, le gusta preguntar insistentemente a coderdan sobre cuándo se van a lanzar sus funciones favoritas.
 
 ### Thrax - Producción Media
 
@@ -231,9 +231,9 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 <p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
 </div>
 
-Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+Procedente de las misteriosas tierras de Oriente Medio, Thrax es un creador de contenidos multimedia y artista de efectos visuales que comenzó su carrera en el diseño gráfico. Tras comprobar rápidamente que la vida corpórea no era de su gusto, se pasó a la producción de vídeo, y tuvo la suerte de trabajar con clientes de todo el mundo. Pasaron algunos años, y de alguna manera encontró el camino a la subasta de tierras de Aavegotchi. En la actualidad, Thrax se encarga de crear cualquier contenido visual que requieran nuestros invocadores, ayudando a difundir el Evangelio de Gotchi por todas partes.
 
-### JC - Business Development
+### JC - Desarrollo comercial
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
@@ -242,23 +242,23 @@ Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media con
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Aambassador Lead
+### Webb - Embajador líder
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
-* long walks on the beach
-* his waifu
-* rofls and pepes
-* making frens
-* loving my new bank and breaking up with my old one
+Cosas que Webb ama:
+* daos y defi
+* videojuegos, el juego favorito es dota, el juego más nostálgico es World of Warcraft
+* largos paseos en la playa
+* su waifu
+* rofls y pepes
+* hacer amigos
+* amando mi nuevo banco y rompiendo con el anterior
 
-## Origins
+## Orígenes
 
 ### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
