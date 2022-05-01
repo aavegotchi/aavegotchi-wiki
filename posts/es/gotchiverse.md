@@ -227,11 +227,11 @@ Cada vez que se fabrica una instalación, una mejora o cualquier otro objeto en 
 * DAO (30%)
 * Quemar (5%)
 
-**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+**El Gran Portal** es el corazón del Gotchiverso. Cada vez que se fabrican objetos en el Gotchiverso, el 35% de esa Alchemica es capturada por el Portal más importante del juego. Mientras el tesoro del Gran Portal se incrementa, una gran profecía espera ser cumplida…
 
-*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+*La cantidad que supere la capacidad máxima se redistribuirá mediante la canalización alquímica, en lugar de acuñar nuevos tokens.*
 
-Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+Toda la Alchemica que supere la capacidad del Gran Portal se reciclará de nuevo en el ecosistema a través de la Canalización Alquímica y de Grupo, reduciendo el ritmo de acuñación de nuevos tokens.
 
 Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
 
