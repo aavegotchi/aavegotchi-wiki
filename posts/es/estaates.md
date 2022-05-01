@@ -23,8 +23,8 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 <ol>
 <li><a href=#benefits-of-estaates>Beneficios de las fincas</a></li>
 <li><a href=#general-building-rules>General Building Rules</a></li>
-<li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
-<li><a href=#examples>Examples</a></li>
+<li><a href=#estaate-building--connection-waall--rules>Construyendo fincas "Conectando muros" Reglas</a></li>
+<li><a href=#examples>Ejemplos</a></li>
 </ol>
 
 </div>
@@ -96,7 +96,7 @@ Things that do **NOT block** linking include:
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 
-## Estaate Building “Connection Waall” Rules
+## Construyendo fincas "Conectando muros" Reglas
 
 One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
 
@@ -130,7 +130,7 @@ One of the tangible gameplay benefits of creating an Estaate is the ability for 
 
     * Unequips 1 Wall on either side of the Connection Waall
 
-## Examples
+## Ejemplos
 
 There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
 
