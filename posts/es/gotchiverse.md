@@ -263,19 +263,19 @@ Para equilibrar esto, el equipo ha decidido sortear el 20% restante de las parce
 
 Método 2: Sorteo (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+El método de distribución secundario para las parcelas de REALM será el de los Raffles impulsados por el VRF de Chainlink. Los participantes entrarán a través de Drop Tickets que se utilizan para los sorteos del Portal y de REALM. Los Drop Tickets se pueden ganar teniendo Aavegotchis invocados, participando en Misiones, o convirtiendo FRENS u otros [Raffle tickets](/tomando#raffle-tickets) a razón de 10.000 puntos FRENS por Drop Ticket. Empieza a acumular FRENS ahora mismo [depositando GHST](/staking).
 
-### Drop Tickets
+### Drop Ticket
 
-Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Los Drop Tickets son NFTs ERC-1155 que son totalmente comercializables en el Aavegotchi [Baazaar](/baazaar). Cada Drop Ticket representa **una** entrada en los Sorteos de NFT, donde puedes ganar Portales Aavegotchi y Parcelas REALM.
 
 <img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-There are three ways to get Drop Tickets:
+Hay tres maneras de obtener Tickets Drop:
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* Convierte 10.000 FRENS en un Drop Ticket
+* Convierte otros Raffle Tickets en Drop Ticket
+* Refierir a tus amigos para ganar Drop Tickets 🔥
 
 ### Potenciador de las parcelas
 
