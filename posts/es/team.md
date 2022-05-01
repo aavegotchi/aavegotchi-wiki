@@ -159,32 +159,32 @@ Ete Clark, también conocido como favabeans o haussenfeffer, ha pasado la mayor 
 
 Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón pero actualmente afincado en Rumanía en plena Transilvania ( boo ). Se unió a la tecnología blockchain con Aavegotchi a principios de febrero de 2021 antes de Hount 1, prob primer dev FE contratado por Pixelcraft Studios. Empecé el proyecto gotchiverse desde cero y conozco los entresijos del proyecto como la palma de mi mano, trabajando diariamente en todos los frentes del reino. Actualmente dirige el equipo de desarrollo del reino.
 
-### Gravy - Marketing Director
+### Gravy - Director de Marketing
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
 <p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
 </div>
 
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+Nick Graves, alias Gravy, es un director creativo de todo lo relacionado con el marketing con casi una década de experiencia en B2B y B2C en su haber. Después de años de machacarse en la vida corporativa estereotipada, dejó que ese barco zarpara y dedicó su carrera al 100% al mundo del blockchain. Mientras crea asociaciones estratégicas, mide los KPI enfermos y formula estrategias de marketing, Gravy se dedica a ayudar a llevar a Aavegotchi al siguiente nivel y se enorgullece de llamarse miembro de la GotchiGang.
 
-### Moon - Head of Paartnerships
+### Moon - Jefe de Asociaciones
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/moon.png" alt = "Moon">
 <p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
 </div>
 
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Gamer. Esposo de wagyuchicken.
 
-### DesignerDave - Game Design
+### DisignerDave - Diseño de Juego
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
 <p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
 </div>
 
-“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
+"DesignerDave" es un game & diseñador narrativo que ha trabajado con estudios como Blizzard Entertainment, Ubisoft, Wooga, e inXile, en franquicias como Wasteland, Warcraft, Silent Hill, y muchas otras. Comenzó su carrera en los juegos de PC haciendo éxitos AAA como Warcraft III y WoW, pasando a los juegos para móviles en 2009, donde ha conseguido que juegos casuales como Penny Dell Crosswords pasen de ganar mil al mes a unos pocos miles al día en el transcurso de un año. DesignerDave se especializa en la experiencia del usuario, el diseño narrativo y la definición de la mejor manera de satisfacer las expectativas de los nuevos usuarios con el fin de aumentar las métricas de retención y aumentar el gasto a través de la narración. Últimamente lidera el diseño de juegos NFT, creando narrativas de metaverso que abarcan varios mundos para permitir el inevitable futuro en el que los jugadores puedan llevar hordas de objetos y experiencias de un juego a otro. Está analizando y adaptándose rápidamente al nuevo paradigma de "jugar para ganar" que poco a poco usurpará el mercado del "free to play".
 
 ### Shohan - Gotchiverse Frontend
 
@@ -193,7 +193,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+Soy Shohan, desarrollador de juegos profesional, con más de 5 años de experiencia, tengo experiencia de trabajo en la programación de juegos, la programación de backend a varios aspectos del desarrollo de juegos. He trabajado para algunos de los mejores estudios de juegos como Stillfront (Moonfrog Labs). Tengo un máster en informática. Estoy trabajando en el juego frontend de REALM principalmente donde los niños pueden vagar, explorar y divertirse.
 
 ### Coyote - Dev evangelist / UI
 
@@ -202,7 +202,7 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
 </div>
 
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+Caleb, apodado Coyote por ser su segundo nombre, se unió a la lucha a principios de 2021. Su carrera comenzó en startups como diseñador de UI/UX hasta que finalmente pasó a especializarse en el desarrollo front-end. Coyote se aficionó a la cadena de bloques al desarrollar aplicaciones de terceros para Aavegotchi. Su objetivo ahora es compartir este despertar con otros desarrolladores para crear la próxima generación de ingenieros web!
 
 ### Candoizo - Frontend
 
@@ -211,7 +211,7 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+Candoizo, también conocido como candoizo, es un desarrollador de software que se dedica a facilitar a la comunidad de constructores la conquista de Aavegotchi! Su experiencia varía desde el tiempo que pasó como probador de penetración y la construcción de proyectos impulsados por la comunidad, todo ello derivado de un impulso para descifrar las cosas para la gente.
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
@@ -224,7 +224,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 
 Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### Thrax - Media Production
+### Thrax - Producción Media
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/thrax.png" alt = "Thrax">
