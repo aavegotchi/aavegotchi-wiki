@@ -245,23 +245,23 @@ Inicialmente, la capacidad del Gran Portal será del 1% del suministro total, pe
 
 ### Suministro Total
 
-El suministro total de REALM es de 420.069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+El suministro total de REALM es de 420.069. Inicialmente se desbloquearán 155.069 REALM que se distribuirán a lo largo de dos años (acto 1). Forman la Ciudadela y el Grid. Los restantes REALM están actualmente ocultos en una zona conocida como El Más Allá. A medida que se alcancen ciertos hitos del juego, estos REALM se desbloquearán para ofrecer nuevas experiencias de juego (Actos 2-3).
 
 ### Distribution
 
-REALM Parcels will be distributed in two main ways:
+Los paquetes REALM se distribuirán de dos maneras principales:
 
-Method 1: Incentivized GBM Auctions (80%)
+Método 1: Subastas de GBM Incentivizadas (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Los pioneros fueron Cryptographs en 2019, la subasta GBM es un sistema pendiente de patente, y Pixelcraft Studios ha sido oficialmente licenciado para utilizarlo en todos los Aavegotchi NFT Drops, incluyendo Ritual 2, parcelas, e incluso Ropa.
+El principal método de distribución de las Parcelas REALM será el sistema de subasta incentivada GBM. Los participantes podrán seleccionar y pujar por parcelas específicas desde el mapa mundial de Gotchiverso. En una subasta GBM, un participante puede ganar GHST por participar, incluso si no gana el NFT. Los pioneros fueron Cryptographs en 2019, la subasta GBM es un sistema pendiente de patente, y Pixelcraft Studios ha sido oficialmente licenciado para utilizarlo en todos los Aavegotchi NFT Drops, incluyendo Ritual 2, parcelas, e incluso Ropa.
 
-Check out our [Aauction page](/aauction) for more information.
+Consulte nuestra página [Subasta](/aauction) para obtener más información.
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Este revolucionario modelo de subasta resuelve muchos de los problemas inherentes a los populares descensos del tipo First Come First Serve (FCFS), pero, naturalmente, siguen favoreciendo a los que tienen más capital para invertir.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Para equilibrar esto, el equipo ha decidido sortear el 20% restante de las parcelas de REALM mediante rifas impulsadas por Chainlink VRF.
 
-Method 2: Raffle (20%)
+Método 2: Sorteo (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
