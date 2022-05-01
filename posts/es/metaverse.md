@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchiverse'
-description: 'All about the Gotchiverse'
+title: 'Gotchiverso'
+description: 'Todo sobre el Gotchiverso'
 contributors:
   - "eris771"
   - "unintelligent-nerd"
