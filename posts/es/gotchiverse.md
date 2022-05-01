@@ -94,13 +94,13 @@ Las parcelas vienen en tres tamaños, cada una proporciona mayores depósitos de
 * Razonable: Contiene depósitos razonables de Alchemica y espacio de construcción (16 x 16 píxeles)
 * Espaciosa: Contiene enormes depósitos de Alchemica y espacio de construcción (32 x 64 píxeles)
 
-*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
+*Las cantidades exactas de material son calculadas por [Chainlink VRF](/glossary#chainlink-vrf) al momento de comprar.
 
-Some parcels will be next to or adjacent to Alchemica deposits. These parcels will see farming boosters indicated on the gotchiverse dashboard and when they are listed on the Baazaar.
+Algunas parcelas estarán al lado o adyacentes a los depósitos Alchemica. Estas parcelas verán los potenciadores de farming indicados en el panel del gotchiverse y cuando aparezcan en el Baazaar.
 
-To make it more human frenly, each parcel will be assigned with a unique three word combination. This is in addition to the TokenID. Users will be able to use the search box on the Gotchiverse site to specifically filter for parcels with the word or words they are looking for.
+Para hacerlo más humano, a cada parcela se le asignará una combinación única de tres palabras. Esto es adicional al TokenID. Los usuarios podrán utilizar el cuadro de búsqueda del sitio web de Gotchiverso para filtrar específicamente las parcelas con la palabra o palabras que buscan.
 
-REALM parcels that are adjacent to one another can be used to form [estaates](/estaates).
+Las parcelas de REALM que son adyacentes entre sí pueden ser utilizadas para formar [fincas](/estados).
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
 
@@ -111,25 +111,25 @@ REALM parcels that are adjacent to one another can be used to form [estaates](/e
 <p class="headerImageText">Lickquidator</p>
 </div>
 
-Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
+Los propietarios de parcelas REALM pueden emplear sus Aavegotchis (y los de otros) para cultivar sus parcelas REALM, produciendo cantidades de recursos conocidos como Gotchus Alchemica. Estos recursos pueden combinarse para crear poderosas estructuras conocidas como [Instalaciones](/gotchiverse#building-on-realm-parcels).
 
-The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+El Gotchiverse es un espacio social abierto en el que los jugadores pueden participar en múltiples actividades, como la agricultura, la artesanía, el comercio y el combate.
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
+Aunque no hay condiciones de victoria ni escenarios de "fin de partida", un objetivo general del Gotchiverso es recoger Alchemica para reforzar tu parcela y producir más rendimiento, y construir estructuras defensivas en preparación para la llegada de la Profecía, y la gran invasión de lickquidators.
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+Los jugadores que poseen Créditos Lickquidator pueden optar por jugar como lickquidators. Los créditos Lickquidator se pueden ganar completando tareas, recomendando a amigos, participando en lanzamientos aéreos o de otras maneras. También se pueden comprar con [GHST](/ghst).
 
-The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+El objetivo principal de un lickquidator es recoger la Alchemica suelta que se ha derramado por el Gotchiverso, pero también pueden entrar en combate con Aavegotchis e Instalaciones ofensivas para ganar Alchemica.
 
-Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+Los Lickquidators están concebidos como un punto de entrada gratuito al Reino del Gotchiverso, sin límite de suministro y con una coleccionabilidad limitada.
 
-There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
+También hay una función [Préstamo de Gotchi](/gotchi-lending) que permite a los propietarios de Gotchi prestar sus Gotchis a otros jugadores durante un periodo de tiempo determinado para probar el juego.
 
 ## Socializar en el Gotchiverso
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+A los Aavegotchis les encanta socializar con sus amigos, y su lugar favorito para pasar el rato es el Gotchiverso!
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Por defecto, el chat de texto se activará para todos los Gotchis que estén cerca unos de otros. Los propietarios de Parcelas REALM también pueden construir Instalaciones especiales en sus parcelas para permitir el chat de voz para los Gotchis dentro de una Parcela, y actualizar la Instalación para soportar el chat de voz global.
 
 Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
 
@@ -137,7 +137,7 @@ Gotchis can also band together to go on Aadventures together, exploring dungeons
 
 ## Comandos de Chat
 
-The following table shows the chat commands in the Gotchiverse.
+La siguiente tabla muestra los comandos del chat en el Gotchiverso.
 
 table_chatCommands
 
