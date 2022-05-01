@@ -200,7 +200,7 @@ Las instalaciones tardan un cierto número de bloques de la cadena de bloques en
 
 Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte importante de la experiencia de Gotchiverse. Las distintas instalaciones requieren diferentes "recetas" para su elaboración y mejora, por lo que los adeptos nos han proporcionado un práctico libro de recetas para su consulta! Puede encontrar las últimas recetas [aquí](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
 
-Las instalaciones y sus mejoras también tienen un "Tiempo de elaboración", que se mide en bloques en la red Polygon. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
+Las instalaciones y sus mejoras también tienen un "Tiempo de elaboración", que se mide en bloques en la red Polygon. Un bloque equivale a unos 2,2 segundos en tiempo humano. La mayoría (pero no todas) de las instalaciones de nivel 1 tienen un tiempo de fabricación "instantáneo", lo que significa que se fabrican inmediatamente, mientras que las que tienen un tiempo de fabricación superior a "instantáneo" entrarán en una cola de fabricación y se enviarán a su propietario una vez completadas.
 
 This crafting/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
 
