@@ -180,27 +180,27 @@ El rango posible de Alchemica que se pueden descubrir durante cada ronda de regi
 
 Por ejemplo, el rango de valores de FUD para una parcela de Humilde para toda el Acto 1 será de 5694 a 51251, con una media de 28.473.
 
-We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
+Creemos que esto proporciona un juego interesante, a la vez que ofrece una "red de seguridad" suficiente incluso para los jugadores más desafortunados.
 
 ## Construyendo sobre las parcelas del REALM
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+Las **Instalaciones** son estructuras especiales construidas sobre tu Parcela REALM. Las instalaciones se fabrican mediante varias combinaciones de Alchemica, y se pueden intercambiar libremente por GHST en el [Bazaar de Aavegotchi](/baazaar).
 
 Las instalaciones confirmadas incluyen:
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Las instalaciones tardan un cierto número de bloques de la cadena de bloques en terminar de construirse, pero este tiempo puede reducirse gastando GLTR (GAX Liquidity Token Reward), una moneda del juego que puede ganarse proporcionando liquidez en el Intercambio de Gotchus Alchemica (GAX).
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+**Estética** son NFTs estéticas que pueden añadirse a una Parcela, pero no afectan a su Alquímica ni a otras estadísticas. Simplemente se ven chulas.
 
 ### Recetas y características de las instalaciones
 
-**Recipes**
+**Fórmulas**
 
-Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
+Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte importante de la experiencia de Gotchiverse. Las distintas instalaciones requieren diferentes "recetas" para su elaboración y mejora, por lo que los adeptos nos han proporcionado un práctico libro de recetas para su consulta! Puede encontrar las últimas recetas [aquí](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf).
 
-Installations and their upgrades also have a “Craft Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
+Las instalaciones y sus mejoras también tienen un "Tiempo de elaboración", que se mide en bloques en la red Polygon. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
 
 This crafting/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
 
