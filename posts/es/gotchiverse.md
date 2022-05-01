@@ -210,9 +210,9 @@ Los Haarvesters y los Reservorios son instalaciones especiales que permiten extr
 
 Cada tipo de Haarvester es capaz de cosechar un tipo de Alchemica, y cada Reservorio puede contener una cierta cantidad de un tipo de Alchemica. A medida que aumenta el nivel de la instalación, aumentan la tasa de cosecha y la capacidad.
 
-**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**El Esparcimiento** es otra propiedad de los Reservoirs que determina cuánto y hasta dónde se esparce la Alchemica cuando se reclama desde el Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+Puede consultar el Cuaderno de Fórmulas [aquí](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) para ver los índices exactos de cosecha, las capacidades y los índices de dispersión.
 
 **Removing Installations**
 
