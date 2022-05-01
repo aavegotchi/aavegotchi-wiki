@@ -158,27 +158,27 @@ Gotchus Alchemica puede extraerse de REALM de cuatro maneras distintas:
 * **Farming**: Una vez que se ha construido una cosechadora, la alquimia comienza a acumularse de forma pasiva, con una cantidad x que va a parar al Depósito, **y** cantidad derramada al mapa cercano, y **z** cantidad que va al Gran Portal
 * **Harvesting**: Los aavegotchis y los lickquidators pueden recorrer el mapa, recogiendo Alchemica suelta derramada por la minería.
 
-Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+La compraventa de Gotchus Alchemica tendrá lugar en la [Intercambio de Gotchus Alchemica (GAX)](/gotchus-alchemica-exchange).
 
-### Average Alchemica Per Parcel
+### Alchemica media por parcela
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
+De forma similar a la mecánica del "Portal" en Aavegotchi, las Parcelas REALM deben ser registradas antes de que finalmente revelen la cantidad de Alchemica que descansa en su interior. El proceso de registro consiste en una llamada onchain a Chainlink VRF, un autentico generador de números aleatorios.
 
-When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
+Cuando se libere el Gotchiverse, todas las Parcelas REALM existentes podrán ser registradas si sus propietarios así lo deciden, o el proceso de registro podrá retrasarse hasta una fecha futura.
 
-The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
+El rango de Alchemica disponible para cada Tipo de Parcela se indica a continuación, para todo el Acto 1, y para la Ronda 1 del Acto 1, el cual distribuye aproximadamente el 25% de la Alchemica.
 
-*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
+*Tenga en cuenta que el total de Alchemica dentro de una Parcela es **acumulativo**, lo que significa que futuros registros añadirán Alchemica adicional sobre el total.*
 
 table_avgBaseAlchemicaPerParcelAct1Total
 
 table_avgBaseAlchemicaPerParcelAct1FirstRound
 
-### Surveying Alchemica Range
+### Rango Alchemica en la parcela
 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
+El rango posible de Alchemica que se pueden descubrir durante cada ronda de registro. Para evitar una mala experiencia del jugador, el "mínimo" que se puede obtener es el 20% de la media, y el "máximo" es 1,8 veces la media.
 
-For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
+Por ejemplo, el rango de valores de FUD para una parcela de Humilde para toda el Acto 1 será de 5694 a 51251, con una media de 28.473.
 
 We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
 
@@ -186,7 +186,7 @@ We believe this provides for interesting gameplay, while also providing a suffic
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
-Confirmed Installations include:
+Las instalaciones confirmadas incluyen:
 
 table_installations
 
