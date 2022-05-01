@@ -55,13 +55,13 @@ El Gotchiverso ocupa una vasta extensión de tierra, con puntos de referencia cl
 
 Protegida por un campo de fuerza que mantiene alejados a los lickquidators, la Citaadel es la base de los Aavegotchis en el Gotchiverso. No se pueden construir torres en la Ciudadela, excepto en zonas especiales alrededor del Gran Portal.
 
-#### The Great Portal
+#### El Gran Portal
 
-A key landmark within the Citaadel is the the Great Portal. The Great Portal is a structure of impressive magical character, capable of bridging the chasm between the Gotchiverse and the Human Realm. Within the Great Portal swirl the spirits of all Aavegotchis that ever existed. The Great Portal protects the Gotchiverse Citaadel, taking in return a small tithe of the [Gotchus Alchemica](/gotchiverse#gotchus-alchemica) harvested from the Gotchiverse.
+Un punto de referencia dentro de la Ciudadela es el Gran Portal. El Gran Portal es una estructura de impresionante carácter mágico, capaz de salvar el abismo entre el Gotchiverso y el Reino Humano. En el Gran Portal se arremolinan los espíritus de todos los Aavegotchis que han existido. El Gran Portal protege la Ciudadela del Gotchiverso, recibiendo a cambio un pequeño diezmo de los [Gotchis Alchemica](/gotchiverse#gotchus-alchemica) cosechados en el Gotchiverso.
 
 ### El Grid
 
-The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
+El Grid abarca todo lo que está fuera de la Ciudadela. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
 
 #### The Aarena
 A key landmark in the Grid is the Aarena.
