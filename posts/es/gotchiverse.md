@@ -202,11 +202,11 @@ Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte im
 
 Las instalaciones y sus mejoras también tienen un "Tiempo de elaboración", que se mide en bloques en la red Polygon. Un bloque equivale a unos 2,2 segundos en tiempo humano. La mayoría (pero no todas) de las instalaciones de nivel 1 tienen un tiempo de fabricación "instantáneo", lo que significa que se fabrican inmediatamente, mientras que las que tienen un tiempo de fabricación superior a "instantáneo" entrarán en una cola de fabricación y se enviarán a su propietario una vez completadas.
 
-This crafting/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+Este proceso de elaboración/mejora puede acelerarse gastando una moneda del juego conocida actualmente como [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR puede adquirirse proporcionando liquidez entre GHST y los tokens de Gotchus Alchemica en la [ Intercambio de Gotchus Alchemica](/gotchus-alchemica-exchange).
 
-**Harvest Rate, Capacity, and Spillover**
+**Tasa de cosecha, capacidad y dispersión**
 
-Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+Los Haarvesters y los Reservorios son instalaciones especiales que permiten extraer Alchemica de debajo de la superficie del Gotchiverso.
 
 Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
 
