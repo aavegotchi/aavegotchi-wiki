@@ -208,7 +208,7 @@ Este proceso de elaboración/mejora puede acelerarse gastando una moneda del jue
 
 Los Haarvesters y los Reservorios son instalaciones especiales que permiten extraer Alchemica de debajo de la superficie del Gotchiverso.
 
-Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+Cada tipo de Haarvester es capaz de cosechar un tipo de Alchemica, y cada Reservorio puede contener una cierta cantidad de un tipo de Alchemica. A medida que aumenta el nivel de la instalación, aumentan la tasa de cosecha y la capacidad.
 
 **Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
 
