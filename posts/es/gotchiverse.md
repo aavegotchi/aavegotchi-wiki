@@ -9,7 +9,7 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi REALM">
+<img src="/gotchiverse/aavegotchi-realm.png" class="headerImage" alt="Aavegotchi Realm">
 <p class="headerImageText">Aavegotchi Realm</p>
 </div>
 
@@ -82,7 +82,7 @@ Los distritos están formados por grupos de parcelas de REALM que están situada
 
 Los clanes se organizan en distritos. Echa un vistazo a la página [del gremio](/guild) para ver la lista de clanes y en qué distritos se encuentran.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
+<img src="/gotchiverse/aavegotchi-districts.png" alt="Distritos de Aavegotchi" />
 
 Navega en el REALM aquí en [gotchiverse.io](https://gotchiverse.io/).
 
@@ -102,7 +102,7 @@ Para hacerlo más humano, a cada parcela se le asignará una combinación única
 
 Las parcelas de REALM que son adyacentes entre sí pueden ser utilizadas para formar [fincas](/estados).
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Tamaño de las parcelas Aavegotchi REALM" />
 
 ## REALM Gameplay
 
@@ -133,7 +133,7 @@ Por defecto, el chat de texto se activará para todos los Gotchis que estén cer
 
 Los Gotchis también pueden agruparse para realizar Aventuras juntos, explorando mazmorras, luchando contra lickquidators y otros baaddies para obtener recompensas. Las Aventuras son regiones especiales fuera del Gotchiverso principal donde los Aavegotchis pueden poner en práctica sus [rasgos](/traits) y [wearables](/wearables) mientras exploran, luchan contra enemigos NPC y ganan experiencia y recursos. Pero no duran para siempre!
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Mazmorra Gotchiverse" />
 
 ## Comandos de Chat
 
@@ -247,7 +247,7 @@ Inicialmente, la capacidad del Gran Portal será del 1% del suministro total, pe
 
 El suministro total de REALM es de 420.069. Inicialmente se desbloquearán 155.069 REALM que se distribuirán a lo largo de dos años (acto 1). Forman la Ciudadela y el Grid. Los restantes REALM están actualmente ocultos en una zona conocida como El Más Allá. A medida que se alcancen ciertos hitos del juego, estos REALM se desbloquearán para ofrecer nuevas experiencias de juego (Actos 2-3).
 
-### Distribution
+### Distribución
 
 Los paquetes REALM se distribuirán de dos maneras principales:
 
@@ -269,7 +269,7 @@ El método de distribución secundario para las parcelas de REALM será el de lo
 
 Los Drop Tickets son NFTs ERC-1155 que son totalmente comercializables en el Aavegotchi [Baazaar](/baazaar). Cada Drop Ticket representa **una** entrada en los Sorteos de NFT, donde puedes ganar Portales Aavegotchi y Parcelas REALM.
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets y parcelas REALM" />
 
 Hay tres maneras de obtener Tickets Drop:
 
@@ -279,18 +279,18 @@ Hay tres maneras de obtener Tickets Drop:
 
 ### Potenciador de las parcelas
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+Algunas parcelas de REALM vienen con potenciadores de parcela. Los potenciadores de parcela son puntos de Alchemica directamente adyacentes a las parcelas REALM dentro del Gotchiverso. A diferencia de la Alquímica asociada, que es otorgada aleatoriamente por el Chainlink VRF, los Potenciadores de Parcela son cantidades básicas de Alquímica que se añaden a la Alquímica total de una Parcela después de registrarla.
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+Las cantidades de Alchemica Boost son de 1000, 500, 250 y 100 por FUD, FOMO, ALPHA y KEK respectivamente.
 
 table_alchemicalBoostsAndAmountPerLocation
 
-**Replenishings**
+**Reabastecimiento**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+Después de cada Gran Batalla en el Acto 1, los jugadores podrán volver a registrar su parcela, tirando los dados para conseguir más Alquimia. La cantidad de Boost anterior se añadirá a la cantidad que saque el jugador en cada ronda de registro.
 
-**Alchemica Bubble Ups**
+**Las burbujas de Alchemica**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+El concepto de Bubble Ups surgió a partir del cuestionado Paatch 0.1c, en el que no se aprobó el aumento de las cantidades de refuerzo. Las burbujas de Alchemica proporcionan una utilidad adicional a los boosts, mientras que siguen requiriendo que el jugador coseche activamente la Alchemica que surge de las burbujas.
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+Los Burbujas Alchemica son eventos esporádicos (pero no infrecuentes) en los que aparecen Alchemica sobre depósitos de Alchemica en el Gotchiverso, especialmente cerca de parcelas activas. En principio, es ** será Pixelcraft ** quien apoye estos lanzamientos alquímicos, aunque AavegotchiDAO también puede votar para complementar la cantidad.
