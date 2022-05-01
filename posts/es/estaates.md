@@ -12,9 +12,9 @@ contributors:
 <p class="headerImageText">Fincas</p>
 </div>
 
-A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
+Una [Gotchiverse](/gotchiverse) Finca consiste en dos o más parcelas de REALM vinculadas entre sí a través de un sistema de enlace en el juego. Las parcelas enlazadas permiten la construcción de muros a lo largo de los bordes, de modo que se pueden rodear completamente varias parcelas para ayudar a evitar a los intrusos.
 
-Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they allow for privacy, protection, and convenience.
+Las fincas son perfectas para [clanes](/guild) o propietarios con grandes posesiones, ya que permiten privacidad, protección y comodidad.
 
 <div class="contentsBox">
 
@@ -22,7 +22,7 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 
 <ol>
 <li><a href=#benefits-of-estaates>Beneficios de las fincas</a></li>
-<li><a href=#general-building-rules>General Building Rules</a></li>
+<li><a href=#general-building-rules>Reglas generales de construcción</a></li>
 <li><a href=#estaate-building--connection-waall--rules>Construyendo fincas "Conectando muros" Reglas</a></li>
 <li><a href=#examples>Ejemplos</a></li>
 </ol>
@@ -31,20 +31,20 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 
 ## Beneficios de las fincas
 
-Creating an Estaate gives:
+Crear una Finca da:
 
-* Visibility - Everyone to see the link(s).
+* Visibilidad - Todo el mundo ve el enlace(s).
 
-* Protection - Owner can protect the Estaate perimeter by equipping Waalls.
+* Protección - El propietario puede proteger el perímetro de la Finca equipando muros.
 
-* Convenience: Owner can empty all Reservoirs in the Estaate at the same time, instead of one by one.
+* Eficiencia: el propietario puede vaciar todos los Reservoirs de la Finca al mismo tiempo, en lugar de uno por uno.
 
-## General Building Rules
+## Reglas generales de construcción
 
-1: Ownership
+Propiedad
 
-* The selected parcels must be owned by the same player.
-* Each parcel can be a part of only one Estaate.
+* Las parcelas seleccionados deben ser propiedad del mismo jugador.
+* Cada parcela puede formar parte de una sola Finca.
 * An owner can create any number of Estaates
 
 2: Types
