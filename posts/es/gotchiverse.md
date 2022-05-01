@@ -210,22 +210,22 @@ Los Haarvesters y los Reservorios son instalaciones especiales que permiten extr
 
 Cada tipo de Haarvester es capaz de cosechar un tipo de Alchemica, y cada Reservorio puede contener una cierta cantidad de un tipo de Alchemica. A medida que aumenta el nivel de la instalación, aumentan la tasa de cosecha y la capacidad.
 
-**El Esparcimiento** es otra propiedad de los Reservoirs que determina cuánto y hasta dónde se esparce la Alchemica cuando se reclama desde el Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**La dispersión** es otra propiedad de los Reservoirs que determina cuánto y hasta dónde se esparce la Alchemica cuando se reclama desde el Reservoir. Los Reservoirs de nivel inferior tienen una cantidad y un radio de dispersión más elevados, estas cantidades se reducen con las actualizaciones posteriores.
 
 Puede consultar el Cuaderno de Fórmulas [aquí](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) para ver los índices exactos de cosecha, las capacidades y los índices de dispersión.
 
-**Removing Installations**
+**Eliminando Instalaciones**
 
-Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
+Una vez que se añade una Instalación a una Parcela, ésta puede ser mejorada o eliminada. La eliminación de la Instalación destruye la NFT subyacente, pero devuelve al propietario original el 50% de toda la Alchemica gastada en la Instalación y sus mejoras.
 
 ### Distribución de los Ingresos de Fabricación
 
-Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+Cada vez que se fabrica una instalación, una mejora o cualquier otro objeto en el Gotchiverso, la alquimia subyacente se envía a cuatro lugares distintos:
 
-* Great Portal (35%)
+* Gran Portal (35%)
 * Pixelcraft (30%)
 * DAO (30%)
-* Burn (5%)
+* Quemar (5%)
 
 **The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
 
