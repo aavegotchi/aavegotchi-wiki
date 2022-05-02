@@ -80,9 +80,9 @@ Las cosas que **NO BLOQUEAN** la unión incluyen:
 
 * Si un propietario desea añadir una o más parcelas a su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Al intentar añadir se recalculará la vinculación de la finca.
 
-8: Subtracting
+8: sustraer
 
-* If an owner wishes to remove one or more owned parcels from their existing Estaate, they can do so as long as no rules are broken. Attempting to remove will recalculate the Estaate linking.
+* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to remove will recalculate the Estaate linking.
 * If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
 * If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
 
