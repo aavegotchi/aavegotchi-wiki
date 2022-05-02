@@ -90,9 +90,9 @@ Las cosas que **NO BLOQUEAN** la unión incluyen:
 
 * Si, al calcular un enlace, una o más parcelas sin dueño o parcelas propiedad de otro jugador van a quedar encajonadas, se activa una regla especial:
 * El centro, el eslabón más al norte de la Finca, se dejará vacante (no se cerrará), dejando un camino abierto.
-* If no center, north-most potential link is available, the closest clockwise link will be left vacant (not created), ensuring an open pathway exists.
+* Si no hay centro, el enlace potencial más al norte está disponible, el enlace más cercano en el sentido de las agujas del reloj se dejará vacante (no se creará), asegurando la existencia de una vía abierta.
 
-10: Intersection
+10: Intersección
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 
