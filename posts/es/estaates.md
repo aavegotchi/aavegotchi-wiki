@@ -82,9 +82,9 @@ Las cosas que **NO BLOQUEAN** la unión incluyen:
 
 8: sustraer
 
-* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to remove will recalculate the Estaate linking.
-* If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
-* If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
+* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Al intentar eliminar se recalculará la vinculación de la finca.
+* Si un propietario vende una o más parcelas que forman parte de una Finca, la vinculación de la Finca será recalculada en el momento de la venta.
+* Si un propietario sólo tiene dos parcelas formando una finca y vende una, la Parcela y su enlace serán disueltos.
 
 9: No Boxing In
 
