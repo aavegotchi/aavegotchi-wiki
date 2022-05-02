@@ -78,7 +78,7 @@ Las cosas que **NO BLOQUEAN** la unión incluyen:
 
 7: Añadiendo
 
-* Si un propietario desea añadir una o más parcelas a su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to add will recalculate the Estaate linking.
+* Si un propietario desea añadir una o más parcelas a su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Al intentar añadir se recalculará la vinculación de la finca.
 
 8: Subtracting
 
