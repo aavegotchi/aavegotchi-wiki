@@ -14,7 +14,7 @@ Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests 
 **Contenidos**
 
 <ol>
-<li><a href=#aavegotchi-mission-8-meme-contest-winners>Aavegotchi Mission 8 Meme Contest Winners</a></li>
+<li><a href=#aavegotchi-mission-8-meme-contest-winners>Ganadores del concurso Meme 8 de la Misión de Aavegotchi</a></li>
 <li><a href=#halloween-costume-contest-2020>Halloween Costume Contest 2020</a></li>
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchi Mission 9 Content Contest</a></li>
 <li><a href=#halloween-costume-contest-2021>Halloween Costume Contest 2021</a></li>
@@ -23,7 +23,7 @@ Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests 
 
 </div>
 
-## Aavegotchi Mission 8 Meme Contest Winners
+## Ganadores del concurso Meme 8 de la Misión de Aavegotchi
 
 In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
 

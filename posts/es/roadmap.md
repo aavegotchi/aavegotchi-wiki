@@ -29,7 +29,7 @@ contributors:
 
 ## Incubadora
 
-<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation" />
+<img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Hoja de ruta Aavegotchi Fase 1: Incubación" />
 
 La incubación es la primera fase de nuestro viaje plurianual. Se extiende desde el Q2 2021 hasta el Q4 2021.
 
@@ -60,43 +60,43 @@ Milestones: 25K MAU / 5K DAU
 
 * Venta de Terrenos Públicos #1, #2 y #3
 * Lanzamiento de la versión Alfa de Gotchiverse REALM
-* Creator Economy Wearables Dapp Launch
+* Wearables Dapp Launch
 * [AavegotchiDAO](/dao) V2 (Metamorphosis)
-* [Baazaar](/baazaar) NFT offers feature
-* [Rarity Farming](/rarity-farming) Season 2
-* Gotchi renting/lending
-* The Aarcade
-* Gotchiverse Citaadel Launch
+* [Baazaar](/baazaar) hacer ofertas NFT
+* [Rarity Farming](/rarity-farming) Temporada 2
+* Alquiler/préstamo de Gotchi
+* El Aarcade
+* Gotchiverso lanzamiento de la Ciudadela
 
 ## Lanzamiento
 
-<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Aavegotchi Roadmap Phase 2: Breakout" />
+<img class = "bodyImage" src = "/roadmap/phase-2-breakout.png" alt = "Hoja de ruta Aavegotchi Fase 2: Lanzamiento" />
 
-Breakout is the second phase of our multi-year journey. It spans from Q1 2022 to Q4 2023.
+El lanzamiento es la segunda fase de nuestro viaje plurianual. Se extiende desde la Q1 2022 hasta la Q4 2023.
 
-Strategy for this phase: *Establish Aavegotchi as a community-owned gaming platform with mainstream appeal*
+Estrategia para esta fase: *Establecer a Aavegotchi como una plataforma de juego relevante propiedad de la comunidad *
 
-Milestones: 1M MAU / 25K DAU
+Hitos: 25K MAU / 5K DAU
 
-* Aavegotchi Builder SDK
-* REALM Public Land Sales
-* REALM third-party Dapp Integration
-* GotchiGang Referral Program
-* Aavegotchi Mobile App alpha launch
-* More Haunts (planned)
+* Constructor de Aavegotchi SDK
+* Ventas de tierras públicas REALM
+* Integración de Dapp de terceros REALM
+* Programa de Referidos GotchiGang
+* Aavegotchi lanzamiento de la aplicación móvil versión alfa
+* Más Rituales (planificado)
 * AavegotchiDAO V3 (Oasis)
 
 ## Expansión
 
-<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
+<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Hoja de ruta Aavegotchi Fase 3: Expansión" />
 
-Ubiquitous is the final phase of our multi-year journey. It spans from Q1 2024 to beyond!
+La incubación es la primera fase de nuestro viaje multianual. Se extiende desde el Q1 2024 hasta más adelante!
 
-Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal*
+Estrategia para esta fase: *Llena la visión de Aavegotchi de hacer un juego de criptomonedas con un atractivo de adopción masiva*
 
-Milestones: 10M MAU / 50K DAU
+Hitos: 10M MAU / 50K DAU
 
-* More Haunts (planned)
-* REALM Public Land Sales
-* Aavegotchi Minigame Builder
-* Aavegotchi Hardware Wallet
+* Más Rituales (planificado)
+* Ventas de tierras públicas REALM
+* Constructor de Minijuegos de Aavegotchi
+* Cartera Hardware Aavegotchi

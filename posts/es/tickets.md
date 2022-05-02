@@ -2,99 +2,99 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+description: '¡Aavegotchi Tickets y Premios de Raffle!'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
-<p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
+<p class="headerImageText">¡Ooooo ese Ticket Godlike brillante!</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+Los Tickets son NFT que te permiten participar en Aavegotchi Raffles para ganar premios. Pueden ser comprados usando FRENS obtenidos al depositar Ghst o en el [Baazaar](/baazaar) usando [tokens GHST](/ghst).
 
-In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
+En esta página aprenderás a comprar Tickets utilizando FRENS y a participar en sorteos usando esos tickets!
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
-<li><a href=#purchasing-tickets>Purchasing Tickets</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#purchasing-tickets>Compra de Tickets</a></li>
+<li><a href=#entering-raffles>Entradar Tickets</a></li>
+<li><a href=#past-raffles-statistics>Estadísticas de los sorteos</a></li>
+<li><a href=#more-resources>Más Recursos</a></li>
 </ol>
 
 </div>
 
-## Purchasing Tickets
+## Compra de Tickets
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
+Una vez que tengas suficientes FRENS, dirígete a la interfaz de usuario [Comprar a granel](https://aavegotchi.com/tickets) para comprar tickets con FRENS.
 
-Unlike FRENS, Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
+A diferencia de FRENS, los Tickets se pueden transferir de una cartera a otra. También pueden ser compradas/vendidas en mercados secundarios como el [Baazaar](/baazaar).
 
-The current supply of Tickets can be determined using the OpenSea Polygon interface [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
+El suministro actual de Tickets se puede determinar utilizando la interfaz de Polygon de OpenSea [aquí](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
 
-There are two main categories of tickets:
+Hay dos categorías principales de tickets:
 
 * Raffle Tickets
 * Drop Ticket
 
-Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+Los Raffle Tickets pueden ser subdivididos en seis subcategorías diferentes, que van desde Común (menos valioso) hasta Godlike (más valioso). Estos se utilizan para participar en **Wearable Raffles**.
 
-On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
+Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** para ganar [Portales](/portales) y [Parcelas REALM](/metaverse).
 
 table_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Publicación del blog: \[!depositar GHST y generar FRENS en vivo en Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en una sola transacción. **no necesita** crear transacciones de compra separadas para cada categoría de raffle ticket.
 
-## Entering Raffles
+## Entradar Tickets
 
-A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+Un raffle (tanto wearable raffles como NFT raffles) tienen lugar durante un corto periodo de tiempo. Durante este período, puedes enviar tus tickets para tener la oportunidad de ganar premios. El meter tickets en el sorteo implica una transacción en Polygon; no se realiza automáticamente. Si tienes muchas categorías diferentes de raffle tickets y deseas introducirlos juntos como un paquete, también es posible. **no necesitas** crear transacciones distintas para cada categoría de raffle ticket para introducirlos en el sorteo.
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+Cuando termine el sorteo, puedes averiguar qué premios has ganado y puedes reclamarlos.
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your tickets. You can also accumulate tickets for subsequent raffles if you like to do so.
+Si decides no participar en un determinado Raffle, no necesita hacer nada con sus Tickets. Si así lo deseas, se pueden acumular los tickets para el próximo sorteo.
 
-As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
+Por ejemplo, el primer wearable raffle tenía un set tematico de Chainlink como premio. Aquí estaban los premios para el sorteo:
 
 <img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
 
-A total of 6010 prizes.
+Un total de 6010 premios.
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+Cada premio se asignará a un raffle ticket aleatorio, donde cada ticket tiene las mismas oportunidades de ganar.
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+Puedes aumentar tu probabilidad de ganar con:
+* Enviando múltiples tickets
+* Participando en las categorías del raffle con más premios (ej. Common)
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+Los números aleatorios para los ganadores de los premios del Raffle se generan a través del [generador de aleatoriedad verificable](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) de Chainlink.
 
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+Una vez finalizado el sorteo, los ganadores pueden reclamar sus premios en la Red Polygon y equipar a sus Gotchis con esos wearables.
 
-The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+Todo el proceso de depositar GHST y ganar premios se puede ilustrar usando las siguientes infografías:
 
-* Process of staking GHST to winning wearables in Wearable Raffles
+* Proceso de depositar GHST para ganar wearables en Wearable Raffles
 
 <img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
 
-* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+* Proceso de depositar GHST para ganar portales/parcelas REALM en NFT Raffles
 
 <img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
 
-* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+* Proceso de depositar GHST para ganar [parcelas REALM](/metaverse#realm-parcel-sizes)
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
 
-## Past Raffles Statistics
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+## Estadísticas de los sorteos
+Saber como los FRENS y participar en Raffles es bueno. Pero, ¿qué pasa con las cifras? ¿Cuáles son las probabilidades de ganar un wearable basado en raffles pasados? Visite la página [Estadísticas de los Raffles](/raffles-stats) para obtener los datos históricos.
 
-## More Resources
+## Más Recursos
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Una Guía Amistosa](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Acabas de ganar](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon y el Ticket Verde](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

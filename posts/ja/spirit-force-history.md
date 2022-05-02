@@ -1,30 +1,30 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
-description: 'History about Aavegotchi Spirit Force'
+title: 'Aavegotchi計画における『スピリット・フォース』という言葉の起源について'
+description: 'Aavegotchiのスピリットフォースにまつわる歴史'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Spirit Force?
+スピリットフォース?
 
-Collateral?
+コラテラル（担保）？
 
-aTokens?
+aToken？
 
-maTokens?
+maToken？
 
-amTokens?
+amToken？
 
-Why are there so many different terms?!?!?!?
+なんでこんなにいろんな用語があるんだ！！！？
 
-Let's take a walk down memory lane:
+記憶を辿ってみましょう：
 
-1. The Aavegotchi game was initially designed to be on Ethereum Mainnet. During that period, Spirit Force refers to aTokens, the interest-bearing tokens from the [Aave Protocol](https://aave.com).
+1. Aavegotchiのゲームは当初、イーサリアムメインネット上で行われるように設計されていました。 その期間、スピリットフォース（Spirit Force）は[Aaveプロトコル](https://aave.com)の利子付きトークンであるaTokenを指していました。
 
-2. Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions.
+2. イーサリアムメインネット上ではガス代が高いため、Aavegotchiゲームのローンチはレイヤー2ソリューションである[ポリゴン（Polygon）](/glossary#polygon)に移行されました。 ポリゴンにシフトしたメリットは、取引手数料がほぼゼロになることと、ほぼ瞬時に取引できることです。
 
-3. The shift to Polygon meant that we need aTokens on Polygon. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
+3. ポリゴンに移行したことで、ポリゴン上でaTokenが必要になりました。 当社の天才的コーディング技術者であり、ダイヤモンドボーイでもある[Nick Mudge](/team#nick-mudge)は、**Aave V2のaToken**をイーサリアムメインネットからポリゴンへ移行させることに成功しました。 これらは**maToken**として知られています。 ハウント1に所属するAavegotchiたちは、**maToken**をスピリットフォースとして使用しています。
 
-4. Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
+4. その後、Aave自身もポリゴンに移行しました。 彼らのAave（ポリゴン）マーケットからのトークンは、**amToken**として知られています。ハウント2以降、Aavegotchiたちのスピリットフォースは、代わりに**amToken**を使用することになります。

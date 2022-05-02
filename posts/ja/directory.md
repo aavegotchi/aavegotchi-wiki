@@ -9,126 +9,130 @@ contributors:
 
 Avegotchi Wikiのページ一覧です：
 
-* [Aarchitect（アーキテクト）](/aarchitect)
+* [アーンバサダー（Aambassador）](/aambassador)
 
-* [Aartist（アーティスト）](/aartist)
+* [アーキテクト（Aarchitect）](/aarchitect)
 
-* [Aauction（オークション）](/aauction)
+* [アーティスト（Aartist）](/aartist)
 
-* [Aavegotchi改良案](/aavegotchi-improvement-proposals)
+* [オークション（Aauction）](/aauction)
 
-* [Aavegotchiプロフィールページ](/aavegotchi-profile)
+* [Aavegotchi改良案（Aavegotchi Improvement Proposals）](/aavegotchi-improvement-proposals)
 
-* [Aging Mechanic（エージングメカニック）](/aging-mechanic)
+* [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
 
-* [Baadge（バッジ）](/baadge)
+* [エージングメカニック（Aging Mechanic）](/aging-mechanic)
 
-* [Baard (バード）](/baard)
+* [バッジ（Baadge）](/baadge)
 
-* [Baazaar（バザール）](/baazaar)
+* [バアード（Baard）](/baard)
 
-* [Bridge（ブリッジ）](/bridge)
+* [バザール（Baazaar）](/baazaar)
 
-* [Contests（コンテスト）](/contests)
+* [ブリッジ（Bridge）](/bridge)
 
-* [Contracts（コントラクト）](/contracts)
+* [コンテスト（Contests）](/contests)
 
-* [Bonding Curve（ボンディング・カーブ）](/curve)
+* [コントラクト（Contracts）](/contracts)
+
+* [ボンディング・カーブ（Bonding Curve）](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers（デベロッパー）](/developers)
+* [デベロッパーズ（Developers）](/developers)
 
-* [Estaates（エステート）](/estaates)
+* [エステート（Estaates）](/estaates)
 
-* [Eye Shape（アイ・シェイプ）](/eye-shape)
+* [アイ・シェイプ（Eye Shape）](/eye-shape)
 
-* [FAQ（よくある質問）](/faq)
+* [よくある質問（FAQ）](/faq)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+* [ゲーム・ジャム（Gaame Jaam）](/gaame-jaam)
 
-* [GHSTトークン](/ghst)
+* [GHSTトークン（GHST Token）](/ghst)
 
-* [用語解説](/glossary)
+* [用語解説（Glossary）](/glossary)
 
-* [Gotchi Lending（ゴッチ・レンディング）](/gotchi-lending)
+* [ゴッチ・レンディング（Gotchi Lending）](/gotchi-lending)
 
-* [Gotchiverse（ゴッチバース）](/gotchiverse)
+* [ゴッチバース（Gotchiverse）](/gotchiverse)
 
-* [Gotchus Alchemica（ゴッチュス・アルケミカ）](/gotchus-alchemica)
+* [ゴッチュス・アルケミカ（Gotchus Alchemica）](/gotchus-alchemica)
 
 * [ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [Guild（ギルド）](/guild)
+* [ギルド（Guild）](/guild)
 
-* [Haunt（ハウント）](/haunt)
+* [ハウント（Haunt）](/haunt)
 
-* [Home（ホーム）](/index)
+* [ホーム（Home）](/index)
 
-* [はじめに](/introduction)
+* [はじめに（Introduction）](/introduction)
 
-* [Kinship（キンシップ）](/kinship)
+* [キンシップ（Kinship）](/kinship)
 
-* [Maall（モール）](/maall)
+* [モール（Maall）](/maall)
 
-* [maTokens](/matokens)
+* [maToken](/matokens)
 
-* [メディア](/media)
+* [メディア（Media）](/media)
 
-* [Memes（ミーム）](/memes)
+* [ミーム（Memes）](/memes)
 
-* [マイルストーン](/milestones)
+* [マイルストーン（Milestones）](/milestones)
 
-* [ミニゲーム](/minigames)
+* [ミニゲーム（Mini-Games）](/minigames)
 
-* [ミニゲームXPイベント](/minigame-xp-events)
+* [ミニゲームXPイベント（Mini-Game XP Events）](/minigame-xp-events)
 
-* [ミッション](/missions)
+* [ミッション（Missions）](/missions)
 
-* [Mumbaiテストネット](/mumbai-testnet)
+* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
 
-* [パートナーズ](/partners)
+* [パートナーズ（Partners）](/partners)
 
 * [POAP](/poap)
 
-* [Polygon（ポリゴン）](/polygon)
+* [ポリゴン（Polygon）](/polygon)
 
-* [Portals（ポータル）](/portals)
+* [ポータル（Portals）](/portals)
 
-* [ラッフルの統計](/raffles-stats)
+* [ラッフルの統計（Raffles Statistics）](/raffles-stats)
 
-* [Rarity Farming（レアリティー・ファーミング）](/rarity-farming)
+* [レアリティ・ファーミング（Rarity Farming）](/rarity-farming)
 
-* [Rarity Farming Seasons（レアリティー・ファーミング・シーズンズ）](/rarity-farming-seasons)
+* [レアリティファーミングシーズン（Rarity Farming Seasons）](/rarity-farming-seasons)
 
-* [ロードマップ](/roadmap)
+* [ロードマップ（Roadmap）](/roadmap)
 
-* [セット](/sets)
+* [セット（Sets）](/sets)
 
-* [ソーシャルメディア](/socialmedia)
+* [ソーシャルメディア（Social Media）](/socialmedia)
 
-* [スピリットフォース](/spirit-force)
+* [スピリットフォース（Spirit Force）](/spirit-force)
 
-* [スピリットフォース履歴](/spirit-force-history)
+* [スピリットフォース履歴（Spirit Force History）](/spirit-force-history)
 
-* [ステーキング](/staking)
+* [ステーキング（Staking）](/staking)
 
-* [チーム](/team)
+* [チーム（Team）](/team)
 
-* [九人の達人](/the-nine-aadepts)
+* [九人の達人（The Nine Aadepts）](/the-nine-aadepts)
 
-* [チケット](/tickets)
+* [チケット（Tickets）](/tickets)
 
-* [Tokenomics（トークノミックス）](/tokenomics)
+* [トークノミックス（Tokenomics）](/tokenomics)
 
-* [Traits（特性）](/traits)
+* [特性マッピング（Trait Mappings）](/trait-mappings)
 
-* [チュートリアル](/tutorials)
+* [特性（Traits）](/traits)
 
-* [uGOTCHI コレクション](/ugotchi)
+* [チュートリアル（Tutorials）](/tutorials)
 
-* [武器](/weapons)
+* [uGOTCHI コレクション（uGOTCHI Collection）](/ugotchi)
 
-* [ウェアラブル](/wearables)
+* [武器（Weapons）](/weapons)
+
+* [ウェアラブル（Wearables）](/wearables)
 
 * [XP](/xp)

@@ -9,19 +9,21 @@ contributors:
 
 Aquí está la lista de páginas en la Aavegotchi Wiki:
 
-* [Aarquitectos](/aarchitect)
+* [Embajadores](/aambassador)
+
+* [Arquitectos](/aarchitect)
 
 * [Artistas](/aartist)
 
 * [Subastas](/aauction)
 
-* [Propuestas de Mejora de Aavegotchi](/aavegotchi-improvement-proposals)
+* [Propuestas de mejora de Aavegotchi](/aavegotchi-improvement-proposals)
 
-* [Página de Perfil de Aavegotchi](/aavegotchi-profile)
+* [Página del perfil de Aavegotchi](/aavegotchi-profile)
 
 * [Mecánica de envejecimiento](/aging-mechanic)
 
-* [Insignias](/baadge)
+* [Insignia](/baadge)
 
 * [Bardos](/baard)
 
@@ -29,7 +31,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Puente](/bridge)
 
-* [Competiciones](/contests)
+* [Concursos](/contests)
 
 * [Contratos](/contracts)
 
@@ -39,35 +41,35 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Desarrolladores](/developers)
 
-* [Estaates](/estaates)
+* [Propiedades](/estaates)
 
-* [Eye Shape](/eye-shape)
+* [Forma de ojos](/eye-shape)
 
-* [FAQ](/faq)
+* [Preguntas frecuentes (FAQ)](/faq)
 
-* [Gaame Jaam](/gaame-jaam)
+* [Game Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
 
-* [Glossary](/glossary)
+* [Glosario](/glossary)
 
-* [Gotchi Lending](/gotchi-lending)
+* [Préstamos de Gotchi](/gotchi-lending)
 
-* [Gotchiverse](/gotchiverse)
+* [Gotchiverso](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
 
-* [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange)
+* [Intercambio de Gotchus Alchemica](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [Clan](/guild)
 
-* [Haunt](/haunt)
+* [Ritual](/haunt)
 
-* [Home](/index)
+* [Inicio](/index)
 
-* [Introduction](/introduction)
+* [Introducción](/introduction)
 
-* [Kinship](/kinship)
+* [Fidelidad](/kinship)
 
 * [Maall](/maall)
 
@@ -77,25 +79,25 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Memes](/memes)
 
-* [Milestones](/milestones)
+* [Hitos](/milestones)
 
-* [Mini-Games](/minigames)
+* [Minijuegos](/minigames)
 
 * [Eventos de mini juego XP](/minigame-xp-events)
 
-* [Missions](/missions)
+* [Misiones](/missions)
 
 * [Mumbai Testnet](/mumbai-testnet)
 
-* [Partners](/partners)
+* [Socios](/partners)
 
 * [POAP](/poap)
 
 * [Polygon](/polygon)
 
-* [Portals](/portals)
+* [Portales](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Estadísticas de los sorteos](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -105,15 +107,15 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Sets](/sets)
 
-* [Social Media](/socialmedia)
+* [Redes Sociales](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Fuerza Espiritual](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Historial de Fuerza Espiral](/spirit-force-history)
 
 * [Staking](/staking)
 
-* [Team](/team)
+* [Equipo](/team)
 
 * [Los Nueve Adeptos](/the-nine-aadepts)
 
@@ -121,11 +123,13 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Traits](/traits)
+* [Mapeo de Rasgos](/trait-mappings)
 
-* [Tutorials](/tutorials)
+* [Rasgos](/traits)
 
-* [uGOTCHI Collection](/ugotchi)
+* [Tutoriales](/tutorials)
+
+* [colección uGOTCHI](/ugotchi)
 
 * [Armas](/weapons)
 

@@ -9,6 +9,8 @@ contributors:
 
 Here is the list of pages in the Aavegotchi Wiki:
 
+* [Aambassador](/aambassador)
+
 * [Aarchitect](/aarchitect)
 
 * [Aartist](/aartist)
@@ -120,6 +122,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Tickets](/tickets)
 
 * [Tokenomics](/tokenomics)
+
+* [Trait Mappings](/trait-mappings)
 
 * [Traits](/traits)
 

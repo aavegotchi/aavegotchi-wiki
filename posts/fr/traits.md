@@ -23,6 +23,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 <li><a href=#level>Niveau</a></li>
 <li><a href=#haunt>Haunt</a></li>
 <li><a href=#aging-mechanic>Mécanique du vieillissement</a></li>
+<li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
 
 </div>
@@ -101,3 +102,9 @@ Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. T
 Les Gotchis peuvent recevoir un petit coup de pouce à leur [BRS](/rarity-farming#base-rarity-score) au fur et à mesure qu'ils vieillissent. Il s'agit de doser plus justement la différence statistique entre les Haunts et la récompense de l'engagement sur le long terme.
 
 For more information, check out the [Aging Mechanic](/aging-mechanic) page.
+
+## Trait Mappings
+
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).

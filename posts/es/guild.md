@@ -7,80 +7,80 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+¡El gameplay REALM estará disponible pronto! Habrá muchas actividades en el Gotchiverse — desde socializar hasta canalizar comunalmente en un Gotchi Lodge. ¡Conoce a más amigos y participa en actividades exclusivas de tu clan aquí!
 
 <div class="contentsBox">
 
-**Contenidos**
+**Contenido**
 
 <ol>
-<li><a href=#accessing-a-guild>Accessing a Guild</a></li>
+<li><a href=#accessing-a-guild>Accediendo a un clan</a></li>
 <li><a href=#guild-channeling>Guild Channeling</a></li>
-<li><a href=#linking-your-guild-to-a-crest>Linking your Guild to a Crest</a></li>
-<li><a href=#list-of-guilds>List of Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#linking-your-guild-to-a-crest>Vincular tu clan a un Crest</a></li>
+<li><a href=#list-of-guilds>Lista de Clanes</a></li>
+<li><a href=#guild-map>Mapa de Clanes</a></li>
 </ol>
 
 </div>
 
-## Accessing a Guild
+## Accediendo a un clan
 
-Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
+Gotchi Lodges será accesible a Gotchis con un "Guild Crest" (emblema del clan) Una Guild Crest es un NFT particular que debe ser llevado o equipado por un Aavegotchi.
 
-By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).
+Por defecto, las Gotchi Lodges serán accesibles para cualquier Gotchi con el emblema del Clan apropiado en su bolsillo (acceso abierto), pero los Clanes también pueden restringir el acceso a ciertos Gotchi IDs requiriendo que los Aavegotchis soliciten la membresía (acceso restringido) o incluso designando qué Aavegotchis pueden solicitar la membresía (lista blanca).
 
-There are 2 types of Guild Crests:
+Hay 2 tipos de Guild Crests:
 
-* **Wearables Crests**: An established Aavegotchi protocol ERC-1155 [Wearables](/wearables) (such as Common Rofl, or Aave Hero Mask) with limited supply.
+* **Wearables Crests**: Un protocolo ERC-1155 establecido de Aavegotchi [Wearables](/wearables) (como Common Rofl, o Máscara de Héroe de Aavegotchi) con suministro limitado.
 
-* **Insignia Crests**: Special ERC-1155 NFTs without a fixed quantity that can be minted by Guild Owners and held by Aavegotchi members to allow access into a Gotchi Lodge.
+* **Insignia Crests**: NFTs especiales ERC-1155 sin una cantidad fija que pueden ser mintados por los propietarios del clan y mantenidos por miembros de Aavegotchi para permitir el acceso a un Gotchi Lodge.
 
-Each Gotchi Lodge can link one Insignia Crest and up to three Wearable Crests. The main difference between the two Crests is that **Wearable Crests** endow Guild Channeling privileges, whereas **Insignia Crests** only allow Guild access.
+Cada Gotchi Lodge puede enlazar una Insignia Crest y hasta tres Wearable Crests. La principal diferencia entre los dos Crests es que los **Wearable Crests** proporcionan privilegios de Guild Channeling, mientras que **Insignia Crests** sólo permiten el acceso al clan.
 
 ## Guild Channeling
 
-Guild Channeling (also known as Communal Channeling) is a ritual that Guild members can engage in every week to summon Alchemica to rain down nearby from the Gotchiverse.
+Guild Channeling (también conocidos como Communal Channeling) son un ritual en el que los miembros del clan pueden participar cada semana para convocar una lluvia de Alchemica en el Gotchiverso.
 
-Alchemica earned is dependent on the following 3 factors:
+La alquimica ganada depende de los siguientes 3 factores:
 
-* **Base Channel Rate** – how much Alchemica is allocated, before any modifications
+* **Tasa de canalización base** – cuánta Alchemica se asigna, antes de cualquier modificación
 
-* **Gotchi Presence** – how many Guild members are present
+* **Presencia Gotchi** – cuántos miembros del clan están presentes
 
-* **Wearable Crest Rarity** – the rarity of the Wearable used for channeling
+* **Wearable Crest Rarity** – la rareza del Wearable utilizado para canalizar
 
-The Base Channel Rate will initially be set at 20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK. This Rate may need to be adjusted by the community over time to prevent going over the Alchemica budget for Alchemical Channeling (25% of total supply over the lifetime of the game, 50% of which is allocated to Guild Channeling).
+La Tarifa Base del Channeling se establecerá inicialmente en 20 FUD, 10 FOMO, 5 ALPHA, y 2 KEK. Esta Tasa puede necesitar ser ajustada por la comunidad con el tiempo para evitar sobrepasar el presupuesto de Alchemica para Canalización Alquímica (25% del suministro total a lo largo de la vida del juego, 50% de los cuales se asignan a la canalización del clan).
 
-Every extra Aavegotchi holding the designated Wearable that joins in the ritual increases the total by the Base Channel Rate **Gotchi Presence**, which results in exponentially more Alchemica being dropped:
+Cada Aavegotchi adicional que tenga el wearable designado y que se una al ritual aumenta la tasa de base del channeling**Presencia del Gotchi**, lo que resulta en una cantidad exponencialmente mayor de Alchemica:
 
 table_gotchiPresenceBonus
 
-**Wearable Crest Rarity Multiplier** designates the base rate at which Alchemica is dropped:
+**El multiplicador de Wearable Crest Rarity** designa la tasa base de Alchemica que se suelta:
 
 table_wearableMultiplier
 
-## Linking your Guild to a Crest
+## Vincular tu clan a un Crest
 
 *Wearable Crests*
 
-A Gotchi Lodge has to link with a Wearable Crest on-chain before it can engage in Alchemical Channeling. Initially, only **one** Guild can use each Wearable.
+Un Gotchi Lodge tiene que enlazar con un Wearable Crest on-chain antes de poder participar en el Alchemical Channeling. Inicialmente, solo **un** clan puede usar cada Wearable.
 
-A Gotchi Lodge will be considered “linked” with its Wearable Crest if its [REALM parcel](/gotchiverse#realm-parcel-sizes) holds a special ERC-1155 Wearable Crest NFT onchain.
+Un Gotchi Lodge será considerado "enlazado" con su Wearable Crest si su parcela[REALM](/gotchiverse#realm-parcel-sizes) contiene un especial ERC-1155 Wearable Crest NFT onchain.
 
-This ERC-1155 Crest cannot be purchased off the open market, but must be won in a [Bid-to-earn Auction](/aauction) using GLTR. Auctions will be held every **three months** for all Wearable Crests, and the winners of those auctions will automatically be transferred the Wearable Crests on-chain, thus earning their Guild the privilege to engage in Guild Channeling.
+Esta ERC-1155 Crest no se puede comprar fuera del mercado abierto, sino que se debe ganar en una subasta [Bid-to-earn Auction](/aauction) usando GLTR. Las subastas se realizarán cada **tres meses** para todos los Wearable Crests, y los ganadores de esas subastas serán transferidos automáticamente al Wearable Crests on-chain, ganando así su clan el privilegio de participar en el Guild Channeling.
 
-This gives a strong incentive for Guilds to hold and LP their Alchemica, to continue earning GLTR, and providing Guild Channeling for their members.
+Esto da un fuerte incentivo para que los clanes tengan en LP su Alchemica, para seguir ganando GLTR y proporcionando Guild Channeling a sus miembros.
 
 *Insignia Crests*
 
-Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
+Cada Gotchi Lodge puede acuñar una Insignia Crest ERC-1155 para sus miembros, para permitir el acceso al Lodge sin tener el Wearable Crest. El dueño del Lodge puede actualizar los metadatos de Crest para cambiar el nombre y la apariencia del Crest, pero no el ID onchain del Crest.
 
-## List of Guilds
+## Lista de Clanes
 
 table_guild
 
-## Guild Map
+## Mapa de Clanes
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+Los clanes se organizan en distritos. El siguiente mapa de clanes ha sido compilado por MonsterRNG#333 de Avid Aavegotchis
 
-<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guild Map" />
+<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guilds" />

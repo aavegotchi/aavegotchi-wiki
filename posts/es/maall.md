@@ -9,18 +9,18 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/maall/maall.png">
-<p class="headerImageText">The Maall</p>
+<p class="headerImageText">El Maall</p>
 </div>
 
-"Hey Aamy. Sorry I'm late."
+"Hola Aamy. Lo siento, llego tarde
 
-"Nevermind that. What are you getting later? The Praada Parasol looks cuuuute!"
+No pasa nada. ¿Qué vas a conseguir después? ¡La sombrilla de Prada se ve linda!"
 
-"The Kaate Spaade clutch will match my latest outfit! *twirls*"
+"El bolso de Kate Spade va a juego con mi último outfit! *gira*"
 
-The doors to the Maall creaks open.
+Se abren las puertas del Maall.
 
-"Yippie! It's time to shop!"
+"¡Yippie! ¡Es hora de comprar!"
 
 <div class="contentsBox">
 
@@ -34,10 +34,10 @@ The doors to the Maall creaks open.
 
 ## Aavegotchi Maall
 
-The Aavegotchi Maall is the official Aavegotchi shop. The Maall sells [wearables and consumables](/wearables), with pricing in [GHST tokens](/ghst).
+El Aavegotchi Maall es la tienda oficial Aavegotchi. El Maall vende [prendas y consumibles](/wearables), con precios en [tokens GHST](/ghst).
 
-The Maall will be restocked from time to time, each time with totally new wearables.
+El Maall se reiniciará de vez en cuando, cada vez con ropa totalmente nueva.
 
-Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
+Una vez que estos artículos están fuera de stock, solo pueden ser comprados a otros que lo venden en mercados secundarios como el [Baazaar](/baazaar) y otros mercados en línea.
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+Se puede acceder al Maall [aquí](https://aavegotchi.com/shop).

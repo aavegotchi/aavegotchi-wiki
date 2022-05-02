@@ -1,33 +1,33 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Partners'
-description: 'Aavegotchi Partners'
+title: 'Aavegotchiパートナーズ'
+description: 'Aavegotchiパートナーズ'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchi is a frenly project. Get to know our frenly frens here!
+Aavegotchiは友好的な計画です。 我らのフレンリー・フレンについてもっと知ろう！
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#investors>Investors</a></li>
-<p><a href=#aave>Aave</a></p>
-<li><a href=#partners>Partners</a></li>
-<p><a href=#aragon>アラゴン</a></p>
+<li><a href=#investors>投資家</a></li>
+<p><a href=#aave>Aave（アーヴェ）</a></p>
+<li><a href=#partners>パートナーズ</a></li>
+<p><a href=#aragon>Aragon（アラゴン）</a></p>
 <p><a href=#opensea>OpenSea（オープンシー）</a></p>
 <p><a href=#snapshot>Snapshot（スナップショット）</a></p>
 <p><a href=#polygon>Polygon（ポリゴン）</a></p>
-<p><a href=#quickswap>クィックスワップ（QuickSwap）</a></p>
+<p><a href=#quickswap>QuickSwap（クィックスワップ）</a></p>
 <p><a href=#cometh>Cometh（コメス）</a></p>
 <p><a href=#dinoswap>DinoSwap（ダイノスワップ）</a></p>
 <p><a href=#unicly>Unicly（ユニクリ）</a></p>
 <p><a href=#venly>Venly（ヴェンリ）</a></p>
 <p><a href=#gbm-auction>GBMオークション</a></p>
-<p><a href=#rarible>Rarible</a></p>
+<p><a href=#rarible>Rarible（ラリブル）</a></p>
 <p><a href=#yield-guild-games>収穫（イールド）ギルドゲーム</a></p>
 <p><a href=#blackpool>BlackPool（ブラックプール）</a></p>
 <p><a href=#flamingo-dao>Flamingo DAO（フラミンゴ・ダオ）</a></p>
@@ -47,16 +47,16 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 Aave is a decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion.
 
-## Partners
+## パートナーズ
 
-### アラゴン
+### Aragon（アラゴン）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/aragon.jpg" alt = "アラゴン">
-<p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">アラゴン</a></p>
+<img class="leftImage" src="/partners/aragon.jpg" alt = "Aragon（アラゴン）">
+<p class="leftImageText"><a href="https://twitter.com/AragonProject" target="_blank">Aragon（アラゴン）</a></p>
 </div>
 
-Aragon is the leading platform for decentralized governance and DAOs.
+アラゴンは分散型ガバナンスとDAOのリーディングプラットフォームです。
 
 ### OpenSea（オープンシー）
 
@@ -85,11 +85,11 @@ Snapshot is a decentralized voting system. It provides flexibility on how voting
 
 Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
-### クィックスワップ（QuickSwap）
+### QuickSwap（クィックスワップ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/quickswap.jpg" alt = "クィックスワップ（QuickSwap）">
-<p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">クィックスワップ（QuickSwap）</a></p>
+<img class="leftImage" src="/partners/quickswap.jpg" alt = "QuickSwap（クィックスワップ）">
+<p class="leftImageText"><a href="https://twitter.com/QuickswapDEX" target="_blank">QuickSwap（クィックスワップ）</a></p>
 </div>
 
 Next-gen DEX. Trade at lightning-fast speeds with near-zero gas fees. Powered by Polygon.
@@ -121,7 +121,7 @@ DinoSwap benefits from velociraptor fast and prehistorically cheap transaction c
 ### ユニクリー（Unicly）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/unicly.jpg" alt = "ユニクリー（Unicly）">
+<img class="leftImage" src="/partners/unicly.jpg" alt = "Unicly（ユニクリ）">
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">ユニクリー（Unicly）</a></p>
 </div>
 
@@ -130,7 +130,7 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 ### ヴェンリー（Venly）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/venly.jpg" alt = "ヴェンリー（Venly）">
+<img class="leftImage" src="/partners/venly.jpg" alt = "Venly（ヴェンリ）">
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">ヴェンリー（Venly）</a></p>
 </div>
 
@@ -145,11 +145,11 @@ Wallet & NFT products that seamlessly integrate with your blockchain project.
 
 GBM™ is a proprietary auction system where bidders make money when they are outbid.
 
-### Rarible
+### Rarible（ラリブル）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/rarible.jpg" alt = "Rarible">
-<p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
+<img class="leftImage" src="/partners/rarible.jpg" alt = "Rarible（ラリブル）">
+<p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible（ラリブル）</a></p>
 </div>
 
 The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
@@ -163,11 +163,11 @@ The first community-owned NFT marketplace. Create, sell or collect digital items
 
 Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
 
-### ブラックプール
+### BlackPool（ブラックプール）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/blackpool.jpg" alt = "ブラックプール">
-<p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">ブラックプール</a></p>
+<img class="leftImage" src="/partners/blackpool.jpg" alt = "BlackPool（ブラックプール）">
+<p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool（ブラックプール）</a></p>
 </div>
 
 BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.

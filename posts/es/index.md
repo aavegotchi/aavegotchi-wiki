@@ -2,45 +2,45 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
-image: "icons/introduction.svg"
+description: 'Todo acerca de la Wiki de Aavegotchi'
+image: "iconos/introducción.svg"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/icons/introduction.svg">
-<p class="headerImageText">The Aavegotchi Wiki</p>
+<p class="headerImageText">Aavegotchi Wiki</p>
 </div>
 
-Welcome to the official Aavegotchi Wiki, fren!
+Bienvenido a la Wiki oficial Aavegotchi, amigo!
 
-This humble Wiki is the central knowledge point for everything Aavegotchi, maintained and updated by our aamazing team of contributors, known as Aarchivers.
+Este humilde Wiki es el punto central de conocimiento de todo lo que está relacionado con Aavegotchi, mantenido y actualizado por nuestro increíble equipo de colaboradores, conocidos como Aarchivers.
 
-## New to Aavegotchi?
+## ¿Nuevo en Aavegotchi?
 
-Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
+Dirígete a [Introducción](/introduction) para obtener una visión general de alto nivel del juego Aavegotchi.
 
-## Popular Pages
-* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
-* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
-* [Wearables](/wearables) -- Fashion for your Aavegotchi
-* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
-* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+## Páginas populares
+* [GHST](/ghst) -- Aprende sobre el token de eco-gobernanza de Aavegotchi
+* [Tomando](/staking) -- Aprende a depositar GHST para hacer FRENS
+* [DAO](/dao) -- Todo lo que hay que saber sobre AavegotchiDAO
+* [Wearables](/wearables) -- Complementos para tu Aavegotchi
+* [Mini-juegos](/minigames) -- Juega algunos minijuegos con tu Aavegotchi
+* [Rarity Farming](/rarity-farming) -- ¡Juega a Aavegotchi y gana recompensas!
 
-## Other Useful Pages
+## Otros enlaces útiles
 
-* [Team](/team) -- See who's building Aavegotchi
-* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Equipo](/team) -- Ver quién está construyendo Aavegotchi
+* [Hoja de ruta](/roadmap) -- El mapa de ruta actualizado de Aavegotchi
 
-## Litepapers
+## Litepaper
 
-* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the upcoming Gotchiverse, where Gotchis frolic and go on aadventures
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- El Litepaper Original resumiendo los puntos clave del Proyecto Aavegotchi
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- El más nuevo en el que se presenta el próximo Gotchiverse, donde Gotchis juegan y van de aventuras
 
-## Contribute
+## Contribuye
 
-Anyone can contribute to the Wiki, you just need write permissions for our [Github](https://github.com/aavegotchi/aavegotchi-wiki).
+Cualquiera puede contribuir a la Wiki, solo necesita permisos de escritura para nuestro [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 
-If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
+Si quieres contribuir, dirígete al canal #wiki en la Discord Aavegotchi y pide permiso a uno de nuestros Aarchiveros.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Luego, diríjase a nuestro Github Repo y bucee con su primer compromiso. 

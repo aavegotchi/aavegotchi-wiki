@@ -1,88 +1,88 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Estaates'
-description: 'Aavegotchi Estaates'
+title: 'Fincas'
+description: 'Fincas Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/estaates/estaates.png">
-<p class="headerImageText">Estaates</p>
+<p class="headerImageText">Fincas</p>
 </div>
 
-A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
+Una [Gotchiverse](/gotchiverse) Finca consiste en dos o más parcelas de REALM vinculadas entre sí a través de un sistema de enlace en el juego. Las parcelas enlazadas permiten la construcción de muros a lo largo de los bordes, de modo que se pueden rodear completamente varias parcelas para ayudar a evitar a los intrusos.
 
-Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they allow for privacy, protection, and convenience.
+Las fincas son perfectas para [clanes](/guild) o propietarios con grandes posesiones, ya que permiten privacidad, protección y comodidad.
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#benefits-of-estaates>Benefits of Estaates</a></li>
-<li><a href=#general-building-rules>General Building Rules</a></li>
-<li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
-<li><a href=#examples>Examples</a></li>
+<li><a href=#benefits-of-estaates>Beneficios de las fincas</a></li>
+<li><a href=#general-building-rules>Reglas generales de construcción</a></li>
+<li><a href=#estaate-building--connection-waall--rules>Construyendo fincas "Conectando muros" Reglas</a></li>
+<li><a href=#examples>Ejemplos</a></li>
 </ol>
 
 </div>
 
-## Benefits of Estaates
+## Beneficios de las fincas
 
-Creating an Estaate gives:
+Crear una Finca da:
 
-* Visibility - Everyone to see the link(s).
+* Visibilidad - Todo el mundo ve el enlace(s).
 
-* Protection - Owner can protect the Estaate perimeter by equipping Waalls.
+* Protección - El propietario puede proteger el perímetro de la Finca equipando muros.
 
-* Convenience: Owner can empty all Reservoirs in the Estaate at the same time, instead of one by one.
+* Eficiencia: el propietario puede vaciar todos los Reservoirs de la Finca al mismo tiempo, en lugar de uno por uno.
 
-## General Building Rules
+## Reglas generales de construcción
 
-1: Ownership
+1: Propiedad
 
-* The selected parcels must be owned by the same player.
-* Each parcel can be a part of only one Estaate.
-* An owner can create any number of Estaates
+* Las parcelas seleccionados deben ser propiedad del mismo jugador.
+* Cada parcela puede formar parte de una sola Finca.
+* Un propietario puede crear cualquier número de Fincas
 
-2: Types
+2: Tipos
 
-* All types of parcels can be included in an Estaate.
+* Todo tipo de parcelas pueden ser incluidas en una Finca.
 
-3: Proximity
+3: Proximidad
 
-* Parcels up to 8* gotchis away from each other can be linked (this number will likely be tuned).
+* Parcelas de hasta 8* gotchis distancia entre sí se pueden vincular (este número probablemente será ajustado).
 
-4: Alignment
+4: Alineación
 
-* Parcels need not be lined up to one another to link.
+* Las parcelas no tienen por qué estar alineados entre sí para enlazarlas.
 
-5: Quantity
+5: Cantidad
 
-* Lodge Level determines the number of parcels that can be linked together.
+* El Nivel del Lodge determina el número de parcelas que pueden ser enlazadas.
 
-6: Clearance
+6: Espacio
 
-Things that **BLOCK** linking include:
-* Items with impassable Collision (walls, towers, etc.)
-* Parcel owned by another player is between 2 owned parcels desired to be linked
-* Link from another owner is between 2 owned parcels desired to be linked
+Las cosas que **BLOQUEAN** el enlace incluyen:
+* Elementos con colisión intransitable (paredes, torres, etc.)
+* La parcela propiedad de otro jugador se encuentra entre 2 parcelas que se quieren enlazar
+* El enlace de otro propietario está entre dos parcelas de propiedad que se desean enlazar
 
-Things that do **NOT block** linking include:
+Las cosas que **NO BLOQUEAN** la unión incluyen:
 * Alchemica
-* Destructibles
-* Background objects like statues, trees, etc.
-* If a potential link is considered BLOCKED, it cannot be executed.
+* Destruibles
+* Objetos de fondo como estatuas, árboles, etc.
+* Si un enlace potencial es considerado BLOQUEADO, no puede ser ejecutado.
 
-7: Adding
+7: Añadiendo
 
-* If an owner wishes to add one or more owned parcels to their existing Estaate, they can do so as long as no rules are broken. Attempting to add will recalculate the Estaate linking.
+* Si un propietario desea añadir una o más parcelas a su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Al intentar añadir se recalculará la vinculación de la finca.
 
-8: Subtracting
+8: sustraer
 
-* If an owner wishes to remove one or more owned parcels from their existing Estaate, they can do so as long as no rules are broken. Attempting to remove will recalculate the Estaate linking.
+* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to remove will recalculate the Estaate linking.
 * If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
 * If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
 
@@ -96,7 +96,7 @@ Things that do **NOT block** linking include:
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 
-## Estaate Building “Connection Waall” Rules
+## Construyendo fincas "Conectando muros" Reglas
 
 One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
 
@@ -130,7 +130,7 @@ One of the tangible gameplay benefits of creating an Estaate is the ability for 
 
     * Unequips 1 Wall on either side of the Connection Waall
 
-## Examples
+## Ejemplos
 
 There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
 

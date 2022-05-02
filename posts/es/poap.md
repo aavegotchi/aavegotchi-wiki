@@ -7,50 +7,50 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hey fren, have you been actively voting in [AavegotchiDAO](/dao)?
+Hola, ¿has estado votando activamente en [AavegotchiDAO](/dao)?
 
-You now have proof that you voted!
+Ahora puedes probar que has votado!
 
 <div class="contentsBox">
 
 **Contenidos**
 
 <ol>
-<li><a href=#what-are-poaps->What are POAPs?</a></li>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#what-are-poaps->¿Qué son las POAPs?</a></li>
+<li><a href=#origins>Orígenes</a></li>
 <li><a href=#aavegotchi-poaps>Aavegotchi POAPs</a></li>
-<li><a href=#claiming-the-poaps>Claiming the POAPs</a></li>
-<li><a href=#viewing-your-poap-collection>Viewing your POAP Collection</a></li>
+<li><a href=#claiming-the-poaps>Reclamar las POAPs</a></li>
+<li><a href=#viewing-your-poap-collection>Ver tu colección POAP</a></li>
 </ol>
 
 </div>
 
-## What are POAPs?
+## ¿Qué son las POAPs?
 
-The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
+El POAP (Proof of Attendance Protocol) es un sistema que los organizadores de eventos pueden usar para distribuir cripto-insignias (ERC-721 tokens) a personas que aparecen en su evento. También proporciona un estándar abierto en el que los desarrolladores pueden construir.
 
-POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.
+Los POAPs no solo tienen buenos diseños y te permiten acumular tus insignias, su colección actúa como una prueba digital de representación sin proporcionar ningún dato personal explícito.
 
-## Origins
+## Orígenes
 
-In June 2021, our fren GotchiLove highlighted that the [dev team at POAP has created a Snapshot plugin allowing voters to be rewarded with POAP Badges](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
+En junio de 2021 nuestro amigo GotchiLove resaltó que el equipo dev [en POAP había creado un plugin para el Snapshot que permite a los votantes ser recompensados con Insignias POAP](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
 
-A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) was made to introduce POAP badges for Snapshot voting and it passed.
+Se hizo una [propuesta](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) para introducir las insignias POAP para las votaciones, y esta pasó la votación.
 
-Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
+Los miembros que estén interesados en contribuir al proceso de diseño de POAP pueden revisar este [hilo de discurso](https://dao.aavegotchi.com/t/poap-design-process/2854).
 
 ## Aavegotchi POAPs
 
-The following POAPs are available for claiming:
+Los siguientes POAPs están disponibles para reclamar:
 
 table_poaps
 
-## Claiming the POAPs
+## Reclamar las POAPs
 
-To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
+Para reclamar tus POAPs, haz clic en los enlaces de la tabla de arriba de las votaciones en las que has participado. Desplácese hacia abajo y habrá un botón de reclamación (ver imagen más abajo). Reclamar/acuñar la insignia POAP es gratis.
 
 <img src="/poap/claiming-poap.png" />
 
-## Viewing your POAP Collection
+## Ver tu colección POAP
 
-To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
+Para ver tu colección POAP, ve a [https://app.poap.xyz/](https://app.poap.xyz/) y conecta tu MetaMask.

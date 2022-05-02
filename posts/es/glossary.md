@@ -35,7 +35,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Bolsillo Gotchi</a></p>
 <p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
-<p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
+<p><a href=#gotchus-alchemica-exchange>Intercambio de Gotchus Alchemica</a></p>
 <p><a href=#haunts>Haunts</a></p>
 <p><a href=#installations>Installations</a></p>
 <p><a href=#raffle-tickets>Raffle Tickets</a></p>
@@ -133,7 +133,7 @@ Technically, each element exists as an ERC-20 token.
 
 Check the [Gotchiverse page](/gotchiverse) for more information.
 
-### Gotchus Alchemica Exchange
+### Intercambio de Gotchus Alchemica
 
 The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
 

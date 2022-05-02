@@ -102,7 +102,7 @@ Initially, there were 3 categories of rarity farming rewards:
 
 * Aavegotchi Rarity Scores (by BRS, ARS coming later)
 * [Kinship](/traits#kinship) Scores
-* [Experience](/traits#experience)
+* [Experiencia](/traits#experience)
 
 For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
 

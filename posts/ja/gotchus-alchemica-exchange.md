@@ -1,34 +1,34 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gotchus Alchemica Exchange (GAX)'
-description: 'Gotchus Alchemica Exchange (GAX)'
+title: 'ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）'
+description: 'ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchi Wizard">
-<p class="headerImageText">Gotchus Alchemica Exchange</p>
+<img class="headerImage" src="/gotchus-alchemica-exchange/wizard-aavegotchi.gif" alt="Aavegotchiウィザード">
+<p class="headerImageText">ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）</p>
 </div>
 
-The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
+若きゴッチは、禁断の塔の入り口まで忍び寄った。 目の前には大きな木製の扉があり、不気味な彫刻や不吉なシンボルで埋め尽くされている。
 
-The door creaked open, inviting him in.
+扉はギシギシと音を立てて開き、彼を招き入れた。
 
-What he saw spooked him.
+その時、彼は目にしたものに驚かされた。
 
-Vials. Test Tubes. Flasks.
+小瓶。 試験管。 フラスコ。
 
-Each were bubbling and boiling, hissing and churning, glowing with unearthly powers.
+どれも泡立ち、沸騰し、ヒューヒューと音を立て、得体の知れないパワーで光っている。
 
-Inside, Gotchis were busy haggling with one another.
+その中で、ゴッチたちが忙しそうに交渉している。
 
-"How much for a unit of KEK?"
+"KEK1単位いくら？"
 
-"WTT FOMO for ALPHA"
+"FOMOをALPHAに交換したい"
 
-This, my frens, is the Gotchus Alchemica Exchange (GAX).
+そう、これがGAX（ゴッチュスアルケミカ取引所）です。
 
 <div class="contentsBox">
 
@@ -36,67 +36,67 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 <ol>
 <li><a href=#features>機能</a></li>
-<li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#gltr-token>GLTRトークン</a></li>
 </ol>
 
 </div>
 
 ## 機能
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+ゴッチャスアルケミカ取引所（GAX）は、Aavegotchiプロトコルの重要なインフラで、Aavegotchi上に作られたゲームに安定した深い流動性を4つのゴッチャスアルケミカトークンを通じて供給します：
 
-* FUD
-* FOMO
-* ALPHA
-* KEK
+* FUD（ファド）
+* FOMO（フォモ）
+* ALPHA（アルファ）
+* KEK（ケック）
 
-<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="Gotchus Alchemica Exchange Pairs" />
+<img class="bodyImage" src="/gotchus-alchemica-exchange/gotchus-alchemica-exchange-pairs.png" alt="ゴッチュスアルケミカ取引所ペア" />
 
-It also provides a sustainable source of revenue for powering rewards of the in-game economy.
+また、ゲーム内経済の報酬をパワーアップするための持続的な収益源となります。
 
-The GAX is a clone of SushiSwap V2, with the following differences:
+GAXはSushiSwap V2のクローンであり、以下のような違いがあります：
 
-* **DAO-owned Liquidity**
+* **DAOが所有する流動性**
 
-A key difference between the GAX and other DEXes is that the GAX is designed to fulfill a specific need within the Aavegotchi protocol – owning and incentivizing liquidity for the Gotchiverse (and other games’) economy tokens.
+GAXと他のDEXの主な違いは、GAXがAavegotchiプロトコル内の特定のニーズを満たすように設計されていることです - ゴッチバース（Gotchiverse）（および他のゲームの）経済トークンの流動性を所有し、インセンティブを与えること。
 
-Each of these tokens includes a 10% “Ecosystem” Allocation owned by [AavegotchiDAO](/dao) that can be paired with GHST to provide a base layer of **permanent protocol liquidity**, owned by the community. This stable liquidity ensures a base layer of liquidity owned by AavegotchiDAO that will increase over time, without relying on mercenary liquidity from third parties.
+これらのトークンにはそれぞれ、[AavegotchiDAO](/dao)が所有する10%の「エコシステム」割り当てが含まれており、GHSTとペアリングすることで、コミュニティが所有する**恒久的なプロトコル流動性**のベースレイヤーを提供することが可能です。 この安定した流動性は、第三者からの（金銭目的な）流動性に頼ることなく、AavegotchiDAOが所有する流動性のベースレイヤーを確保し、時間の経過とともに増加させます。
 
-* **Low trading fees**
+* **低い取引手数料**
 
-Because the GAX is less reliant on mercenary liquidity, it has the ability to set fees significantly lower than other DEXes. Typical trading fees on Uniswap-based DEXes are 0.3%, which are hardcoded into the contract and generic for each pair.
+GAXは金銭目的の流動性に依存しないため、他のDEXと比較して大幅に低い手数料を設定することが可能です。 UniswapベースのDEXの一般的な取引手数料は0.3%で、これは契約書にハードコードされており、各ペアで一般的なものです。
 
-On the GAX, each pair can have its own custom trading fee, which can be set by the creator of the pair, and updated by the contract owner.
+GAXでは、各ペアが独自のカスタム取引手数料を持つことができ、ペアの作成者が設定し、契約所有者が更新することができます。
 
-This allows AavegotchiDAO to be strategic about which pairs it provides liquidity to, with the potential of attracting trading volume from other established DEXes.
+これにより、AavegotchiDAOは、流動性を提供するペアを戦略的に選ぶことができ、他のDEXから取引ボリュームを引き寄せる可能性があります。
 
-* **Trading Fees Power P2E**
+* **取引手数料はP2Eの原動力**
 
-The final distinction between the GAX and traditional DEXes is where trading fees accrue. In a traditional DEX, trading fees accrue to liquidity providers, but in the GAX, trading fees accrue to the Player Rewards pool — a special allocation of funds earmarked for incentivizing gameplay in the Aavegotchi NFT Gaming Protocol.
+GAXと従来のDEXの最後の違いは、取引手数料が貯まっていく場所です。 従来のDEXでは、取引手数料は流動性供給者（リキディティ・プロバイダー）に振り込まれていきますが、GAXでは、取引手数料はプレイヤーリワードプール（Aavegotchi NFT ゲーミング プロトコルのゲームプレイのインセンティブに充当される特別な資金配分）に貯まっていきます。
 
-This ensures that Aavegotchi has a sustainable source of player rewards income that grows together with economic activity of the network.
+これにより、Aavegotchiは、ネットワークの経済活動とともに成長する持続可能なプレーヤー報酬の収入源を確保することができます。
 
-## GLTR Token
+## GLTRトークン
 
-**Utility**
+**ユーティリティ**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+GAX Liquidity Token Reward（GLTR）（＝GAX リキディティ・トークン・リワード）の主な用途は、GLTRを消費することによって、ゴッチバースのプレーヤーが自分の[インスタレーション](/gotchiverse#building-on-realm-parcels)のクラフトとアップグレードを加速し、ゲームのより高いレベルに早く到達することを可能にすることです。 **各GLTRの焼却（バーン）は、PolygonのPOSネットワーク上で1ブロックに相当します。**
 
-GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
+GLTRはまた、[ウェアラブル・クレスト（Wearable Crest）](/guild#accessing-a-guild)のオークションに必要なメイントークンとして、二次的な機能もあります。 また、ギルドはGLTRを焼却することで、次のギルド・チャネリングまでの時間を短縮することができます。
 
 **トークノミックス**
 
-* Max supply: 1,000,000,000,000 (1 trillion)
+* 最大供給量：1,000,000,000,000（1兆）個
 
-* Distribution: 100% to liquidity rewards over 30 years
+* 分配方法：30年間、100%が流動性報酬に
 
-* Vesting schedule: 10% in first year, remainder distributed over 30 years (with halving every 4 years)
+* 権利確定（vesting）スケジュール：初年度に10％、残りを30年間で分配（4年ごとに半減）
 
-**Earning GLTR**
+**GLTRを稼ぐ**
 
-GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
+GAX LPトークンをマスターシェフ契約にステークし、GLTRを獲得することができます。
 
-**Burning**
+**焼却（バーニング）**
 
-All GLTR spent in-game is burned from the supply (sent to burn address).
+ゲーム内で使用されたGLTRは、すべてサプライから焼却されます（焼却アドレスに送信されます）。
 

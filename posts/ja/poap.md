@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Hey fren, have you been actively voting in [AavegotchiDAO](/dao)?
+やあフレン、[AavegotchiDAO](/dao)に積極的に投票してる？
 
-You now have proof that you voted!
+これからは投票した証拠がもらえるよ！
 
 <div class="contentsBox">
 
@@ -17,7 +17,7 @@ You now have proof that you voted!
 
 <ol>
 <li><a href=#what-are-poaps->POAPとは？</a></li>
-<li><a href=#origins>オリジン</a></li>
+<li><a href=#origins>起源</a></li>
 <li><a href=#aavegotchi-poaps>Aavegotchi POAP</a></li>
 <li><a href=#claiming-the-poaps>POAPを請求する</a></li>
 <li><a href=#viewing-your-poap-collection>POAPコレクションを見る</a></li>
@@ -27,30 +27,30 @@ You now have proof that you voted!
 
 ## POAPとは？
 
-The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
+POAP (Proof of Attendance Protocol) は、イベント主催者がイベントに参加した人に暗号バッジ (ERC-721 トークン) を配布するために使用できるシステムです。 また、開発者が構築するためのオープンスタンダードも提供します。
 
-POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.
+POAPはクールなデザインで、自分のバッジをみんなに自慢できるだけでなく、あなたのコレクションは明示的な個人データを提供することなく、デジタルな代表権の証明として機能するのです。
 
 ## 起源
 
-In June 2021, our fren GotchiLove highlighted that the [dev team at POAP has created a Snapshot plugin allowing voters to be rewarded with POAP Badges](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
+2021年6月、私たちのフレンGotchiLoveは、[POAPの開発チームが投票者にPOAPバッジで報酬を与えることができるスナップショットのプラグインを作成した](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932)と発表しました。
 
-A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) was made to introduce POAP badges for Snapshot voting and it passed.
+Snapshotの投票にPOAPバッジを導入する[提案](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e)がなされ、可決されました。
 
-Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
+POAPのデザインプロセスに貢献することに興味があるメンバーは、この[Discourseスレッド](https://dao.aavegotchi.com/t/poap-design-process/2854)をチェックしてみてください。
 
 ## Aavegotchi POAP
 
-The following POAPs are available for claiming:
+以下のPOAPを請求することができます:
 
-table_poaps
+表_poaps
 
 ## POAPを請求する
 
-To claim your POAPs, click on the links in the above table to the Snapshot votes you have participated in. Scroll down the page and there will be a claim button (see image below). Claiming/minting the POAP badge is free.
+POAPを請求するには、上の表にある、あなたが参加したスナップショット投票へのリンクをクリックしてください。 ページを下にスクロールすると、請求ボタンがあります(下の画像を参照)。 POAPバッジの請求／ミントは無料です。
 
 <img src="/poap/claiming-poap.png" />
 
 ## POAPコレクションを見る
 
-To view your POAP collection, go to [https://app.poap.xyz/](https://app.poap.xyz/) and connect your MetaMask.
+POAPコレクションを見るには、[https://app.poap.xyz/](https://app.poap.xyz/)、MetaMaskを接続してください。

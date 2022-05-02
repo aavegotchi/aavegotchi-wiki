@@ -9,12 +9,12 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/tickets/ticket-godlike.svg">
-<p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
+<p class="headerImageText">うぉー！それはピカピカのゴッドライクチケット！</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+チケットは、Aavegotchiラッフル（宝くじ）に参加して賞品を獲得するためのNFTです。 ステークで入手したFRENS、または[バザール](/baazaar)で[GHSTトークン](/ghst)を使って購入することができます。
 
-In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
+このページでは、FRENSを使ったチケットの購入方法と、そのチケットを使ったラッフルに参加する方法をご紹介します！
 
 <div class="contentsBox">
 
@@ -22,79 +22,79 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 <ol>
 <li><a href=#purchasing-tickets>チケットを購入する</a></li>
-<li><a href=#entering-raffles>Entering Raffles</a></li>
-<li><a href=#past-raffles-statistics>Past Raffles Statistics</a></li>
-<li><a href=#more-resources>More Resources</a></li>
+<li><a href=#entering-raffles>ラッフルに参加する</a></li>
+<li><a href=#past-raffles-statistics>過去のラッフルの統計</a></li>
+<li><a href=#more-resources>その他のリソース</a></li>
 </ol>
 
 </div>
 
 ## チケットを購入する
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
+FRENSが揃ったら、[Shop Bulk Buy（まとめ買い）のユーザーインターフェース](https://aavegotchi.com/tickets)にアクセスして、FRENSでチケットを購入してください。
 
-Unlike FRENS, Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
+FRENSとは異なり、チケットはあるウォレットから別のウォレットに移動することができます。 また、[バザール](/baazaar)などの二次市場で売買することも可能です。
 
-The current supply of Tickets can be determined using the OpenSea Polygon interface [here](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon).
+チケットの現在の供給量は、[こちら](https://opensea.io/collection/aavegotchi-raffle-tickets-polygon)のOpenSea Polygonのインターフェイスを使って確認することができます。
 
-There are two main categories of tickets:
+チケットには、大きく分けて2つのカテゴリーがあります：
 
 * ラッフルチケット
 * ドロップチケット
 
-Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+ラッフルチケットは、コモン（最も価値の低いもの）からゴッドライク（最も価値の高いもの）まで、6つのサブカテゴリーに分類されます。 これらは、**ウェアラブルラッフル**に参加するために使用されます。
 
-On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
+一方、ドロップチケットは、[ポータル](/portals)や[REALM区画](/metaverse)を獲得するための**NFTラッフル**に参加するために使用されます。
 
-table_RaffleTickets
+表_RaffleTickets
 
-Blog post: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+ブログ記事： \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
-Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
+ユーザーは、1つのトランザクションで異なるカテゴリーに属するチケットを購入することができます。 ラッフルチケットの各カテゴリーについて、個別の購入トランザクションを作成する必要は**ありません**。
 
-## Entering Raffles
+## ラッフルに参加する
 
-A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+ラッフル（ウェアラブルラッフル、NFTラッフルの両方）は、一定期間実施されます。 この期間中にチケットを提出すると、賞品を獲得するチャンスがあります。 抽選へのチケットの提出は、Polygonでのトランザクションを伴います。 異なるカテゴリーの抽選券をたくさんお持ちで、それらをまとめて応募したい場合も可能です。 抽選に参加するために、各カテゴリーのチケットのトランザクションを別々に作成する必要は**ありません**。
 
-When the raffle is over, you can find out what prizes you have won and can claim them.
+ラッフルが終了したら、どの賞品が当たったかを確認し、それを請求することができます。
 
-If you choose not to participate in a given Raffle, you do not need to do anything with your tickets. You can also accumulate tickets for subsequent raffles if you like to do so.
+ラッフルに参加しないことを選択した場合、チケットに何もする必要はありません。 また、ご希望であれば、次のラッフルのためにチケットを貯めることができます。
 
-As an example, the first wearable raffle had a Chainlink Theme. Here were the prizes for the raffle:
+例えば、最初のウェアラブルラッフルはチェーンリンクがテーマでした。 ラッフルの賞品はこちらでした。
 
-<img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchi Chainlink-theme Raffle Prizes" />
+<img class = "bodyImage" src = "/tickets/link-raffle-prizes.png" alt = "Aavegotchiチェーンリンクテーマのラッフル賞品" />
 
-A total of 6010 prizes.
+合計6010個の賞品。
 
-Each prize will be allocated to a randomly drawn raffle ticket, where each ticket has an equal chance of winning.
+各賞品は、ランダムに抽選されたラッフルチケットに割り当てられ、各チケットの当選確率は等しくなっています。
 
-You can improve your probability of winning by:
-* Submitting multiple tickets
-* Enter raffle ticket categories with more prizes (e.g. Common)
+当選確率を上げるには、以下の方法があります：
+* 複数枚のチケットを同時に提出する
+* より多くの賞品があるラッフルチケットのカテゴリーに参加する（例：共通）
 
-Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
+ラッフルの当選者の乱数は、チェーンリンクの[オンチェーン検証可能な乱数生成機](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/)によって生成されます。
 
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+ラッフルが終了した後、受賞者はPolygon Network上で賞品を請求し、ゴッチたちにそれらのウェアラブルを装備することができます。
 
-The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+GHSTのステーキングから賞品の獲得までの全プロセスは、以下のインフォグラフィックスを使用して説明ができます：
 
-* Process of staking GHST to winning wearables in Wearable Raffles
+* ウェアラブル・ラッフルにおけるGHSTのステーキングからウェアラブルの獲得までの流れ
 
-<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets" />
+<img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchiラッフルチケット" />
 
-* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+* NFTラッフルでGHSTをステークしてポータル/REALM区画を獲得するまでのプロセス
 
-<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets" />
+<img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchiドロップチケット" />
 
-* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+* [REALM区画](/metaverse#realm-parcel-sizes)を獲得するためにGHSTをステークするプロセス
 
-<img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets" />
+<img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchiドロップチケット" />
 
-## Past Raffles Statistics
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+## 過去のラッフルの統計
+FRENSのステークのやり方やラッフルに参加する方法を知っていることは良いことだと思います。 しかし、数字についてはどうでしょうか？ 過去のラッフルに基づくウェアラブルの当選確率はどうなっているのでしょうか？ 過去のデータについては、[ラッフルの統計のページ](/raffles-stats)をご覧ください。
 
-## More Resources
+## その他のリソース
 
-- [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi ラッフル - フレンドリー ガイド](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ チェーンリンク・ラッフル - あなたが勝ちました](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [アノンとグリーン・チケット](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

@@ -77,7 +77,7 @@ There are five ways to stake:
 
 * Step 6: Approve the contract to use your GHST tokens on Polygon.
 
-* Step 7: Input the amount of GHST you would like to deposit. Presto! You are done!
+* Step 7: Input the amount of GHST you would like to deposit. ¡Presto! Estás listo!
 
 *For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
