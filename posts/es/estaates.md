@@ -41,32 +41,32 @@ Crear una Finca da:
 
 ## Reglas generales de construcción
 
-Propiedad
+1: Propiedad
 
 * Las parcelas seleccionados deben ser propiedad del mismo jugador.
 * Cada parcela puede formar parte de una sola Finca.
-* An owner can create any number of Estaates
+* Un propietario puede crear cualquier número de Fincas
 
-2: Types
+2: Tipos
 
-* All types of parcels can be included in an Estaate.
+* Todo tipo de parcelas pueden ser incluidas en una Finca.
 
-3: Proximity
+3: Proximidad
 
-* Parcels up to 8* gotchis away from each other can be linked (this number will likely be tuned).
+* Parcelas de hasta 8* gotchis distancia entre sí se pueden vincular (este número probablemente será ajustado).
 
-4: Alignment
+4: Alineación
 
-* Parcels need not be lined up to one another to link.
+* Las parcelas no tienen por qué estar alineados entre sí para enlazarlas.
 
-5: Quantity
+5: Cantidad
 
-* Lodge Level determines the number of parcels that can be linked together.
+* El Nivel del Lodge determina el número de parcelas que pueden ser enlazadas.
 
-6: Clearance
+6: Espacio
 
-Things that **BLOCK** linking include:
-* Items with impassable Collision (walls, towers, etc.)
+Las cosas que **BLOQUEAN** el enlace incluyen:
+* Elementos con colisión intransitable (paredes, torres, etc.)
 * Parcel owned by another player is between 2 owned parcels desired to be linked
 * Link from another owner is between 2 owned parcels desired to be linked
 
