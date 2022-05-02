@@ -67,18 +67,18 @@ Crear una Finca da:
 
 Las cosas que **BLOQUEAN** el enlace incluyen:
 * Elementos con colisión intransitable (paredes, torres, etc.)
-* Parcel owned by another player is between 2 owned parcels desired to be linked
-* Link from another owner is between 2 owned parcels desired to be linked
+* La parcela propiedad de otro jugador se encuentra entre 2 parcelas que se quieren enlazar
+* El enlace de otro propietario está entre dos parcelas de propiedad que se desean enlazar
 
-Things that do **NOT block** linking include:
+Las cosas que **NO BLOQUEAN** la unión incluyen:
 * Alchemica
-* Destructibles
-* Background objects like statues, trees, etc.
-* If a potential link is considered BLOCKED, it cannot be executed.
+* Destruibles
+* Objetos de fondo como estatuas, árboles, etc.
+* Si un enlace potencial es considerado BLOQUEADO, no puede ser ejecutado.
 
-7: Adding
+7: Añadiendo
 
-* If an owner wishes to add one or more owned parcels to their existing Estaate, they can do so as long as no rules are broken. Attempting to add will recalculate the Estaate linking.
+* Si un propietario desea añadir una o más parcelas a su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to add will recalculate the Estaate linking.
 
 8: Subtracting
 
