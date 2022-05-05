@@ -103,6 +103,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Les saisons d'agriculture de rareté (Rarity Farming)](/rarity-farming-seasons)
 
+* [Recipes](/recipes)
+
 * [Feuille de route](/roadmap)
 
 * [Sets](/sets)
