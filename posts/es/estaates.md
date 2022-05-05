@@ -82,17 +82,17 @@ Las cosas que **NO BLOQUEAN** la unión incluyen:
 
 8: sustraer
 
-* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Attempting to remove will recalculate the Estaate linking.
-* If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
-* If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
+* Si un propietario desea eliminar una o más parcelas de su actual Finca, pueden hacerlo siempre y cuando no se incumplan las normas. Al intentar eliminar se recalculará la vinculación de la finca.
+* Si un propietario vende una o más parcelas que forman parte de una Finca, la vinculación de la Finca será recalculada en el momento de la venta.
+* Si un propietario sólo tiene dos parcelas formando una finca y vende una, la Parcela y su enlace serán disueltos.
 
 9: No Boxing In
 
-* If, when calculating a link, one or more unowned parcels or parcels owned by another player will get BOXED IN, a special rule is triggered:
-* The center, north-most intended link of the Estaate will be left vacant (not created), leaving an open pathway.
-* If no center, north-most potential link is available, the closest clockwise link will be left vacant (not created), ensuring an open pathway exists.
+* Si, al calcular un enlace, una o más parcelas sin dueño o parcelas propiedad de otro jugador van a quedar encajonadas, se activa una regla especial:
+* El centro, el eslabón más al norte de la Finca, se dejará vacante (no se cerrará), dejando un camino abierto.
+* Si no hay centro, el enlace potencial más al norte está disponible, el enlace más cercano en el sentido de las agujas del reloj se dejará vacante (no se creará), asegurando la existencia de una vía abierta.
 
-10: Intersection
+10: Intersección
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 

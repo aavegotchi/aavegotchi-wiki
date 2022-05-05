@@ -55,3 +55,5 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 * ALPHA Token Address: [0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2](https://polygonscan.com/token/0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2)
 
 * KEK Token Address: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
+
+* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
