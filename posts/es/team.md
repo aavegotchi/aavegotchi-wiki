@@ -38,14 +38,13 @@ contributors:
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Jefe de Asociaciones</a></p>
-<p><a href=#designerdave---game-design>DisignerDave - Diseño de Juego</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
-<p><a href=#mori---solidity-developer>Mori - Desarrollador de Solidity</a></p>
-<p><a href=#thrax---media-production>Thrax - Producción Media</a></p>
-<p><a href=#jc---business-development>JC - Desarrollo comercial</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Embajador líder</a></p>
+<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#jc---business-development>JC - Business Development</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Orígenes</a></li>
 </ol>
 
@@ -177,15 +176,6 @@ Nick Graves, alias Gravy, es un director creativo de todo lo relacionado con el 
 
 Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Gamer. Esposo de wagyuchicken.
 
-### DisignerDave - Diseño de Juego
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
-<p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
-</div>
-
-"DesignerDave" es un game & diseñador narrativo que ha trabajado con estudios como Blizzard Entertainment, Ubisoft, Wooga, e inXile, en franquicias como Wasteland, Warcraft, Silent Hill, y muchas otras. Comenzó su carrera en los juegos de PC haciendo éxitos AAA como Warcraft III y WoW, pasando a los juegos para móviles en 2009, donde ha conseguido que juegos casuales como Penny Dell Crosswords pasen de ganar mil al mes a unos pocos miles al día en el transcurso de un año. DesignerDave se especializa en la experiencia del usuario, el diseño narrativo y la definición de la mejor manera de satisfacer las expectativas de los nuevos usuarios con el fin de aumentar las métricas de retención y aumentar el gasto a través de la narración. Últimamente lidera el diseño de juegos NFT, creando narrativas de metaverso que abarcan varios mundos para permitir el inevitable futuro en el que los jugadores puedan llevar hordas de objetos y experiencias de un juego a otro. Está analizando y adaptándose rápidamente al nuevo paradigma de "jugar para ganar" que poco a poco usurpará el mercado del "free to play".
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -193,7 +183,7 @@ Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Ga
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-Soy Shohan, desarrollador de juegos profesional, con más de 5 años de experiencia, tengo experiencia de trabajo en la programación de juegos, la programación de backend a varios aspectos del desarrollo de juegos. He trabajado para algunos de los mejores estudios de juegos como Stillfront (Moonfrog Labs). Tengo un máster en informática. Estoy trabajando en el juego frontend de REALM principalmente donde los niños pueden vagar, explorar y divertirse.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Coyote - Dev evangelist / UI
 
@@ -202,7 +192,7 @@ Soy Shohan, desarrollador de juegos profesional, con más de 5 años de experien
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
 </div>
 
-Caleb, apodado Coyote por ser su segundo nombre, se unió a la lucha a principios de 2021. Su carrera comenzó en startups como diseñador de UI/UX hasta que finalmente pasó a especializarse en el desarrollo front-end. Coyote se aficionó a la cadena de bloques al desarrollar aplicaciones de terceros para Aavegotchi. Su objetivo ahora es compartir este despertar con otros desarrolladores para crear la próxima generación de ingenieros web!
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
 ### Candoizo - Frontend
 
@@ -211,45 +201,45 @@ Caleb, apodado Coyote por ser su segundo nombre, se unió a la lucha a principio
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, también conocido como candoizo, es un desarrollador de software que se dedica a facilitar a la comunidad de constructores la conquista de Aavegotchi! Su experiencia varía desde el tiempo que pasó como probador de penetración y la construcción de proyectos impulsados por la comunidad, todo ello derivado de un impulso para descifrar las cosas para la gente.
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
-La historia sugiere que se crió en el desierto canadiense a base de juegos competitivos y de devoción por la construcción de herramientas legendarias. Con proyectos anteriores como Hauntgg, CoinVanity, y en todo iOS no faltan amigos que darían fe de esta historia de origen real. En el siguiente episodio, nuestro legendario entrenador Coder Dan pudo plasmar su corazón y habilidad para el equipo de Pixelcraft utilizando su innovador concepto de juego y su destacada comunidad!
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
-### Mori - Desarrollador de Solidity
+### Mori - Solidity Developer
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
 <p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-Patrick Kim, alias Mori, es un desarrollador de solidez y defi degenerativo de Los Ángeles. Encontró Aavegotchi después de perder un montón de dinero en poocoins, y se inspiró en la cantidad de esfuerzos que se dedican a los NFTs dedicados a los liquidados. Como prueba de su falta de concentración, antes era estadístico y antes mecánico de aviones. Ve el anime por la trama, y era un jugador de apoyo dispuesto a no ser coaccionado cuando jugaba a DotA hace años. En su tiempo libre, le gusta preguntar insistentemente a coderdan sobre cuándo se van a lanzar sus funciones favoritas.
+Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### Thrax - Producción Media
+### Thrax - Media Production
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/thrax.png" alt = "Thrax">
 <p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
 </div>
 
-Procedente de las misteriosas tierras de Oriente Medio, Thrax es un creador de contenidos multimedia y artista de efectos visuales que comenzó su carrera en el diseño gráfico. Tras comprobar rápidamente que la vida corpórea no era de su gusto, se pasó a la producción de vídeo, y tuvo la suerte de trabajar con clientes de todo el mundo. Pasaron algunos años, y de alguna manera encontró el camino a la subasta de tierras de Aavegotchi. En la actualidad, Thrax se encarga de crear cualquier contenido visual que requieran nuestros invocadores, ayudando a difundir el Evangelio de Gotchi por todas partes.
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
-### JC - Desarrollo comercial
+### JC - Business Development
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc es un estratega de desarrollo de negocios y entusiasta de la cadena de bloques, con una gran experiencia en la conexión y la creación de redes con algunas de las mentes más brillantes en el espacio de la criptomoneda. Emprendedor y motivado por el trabajo en equipo, ha demostrado su talento para establecer relaciones, influir en las asociaciones estratégicas, desarrollar nuevos canales de venta y utilizar las redes sociales y el marketing viral con notable eficacia. Una de sus mayores pasiones es presentar y promover nuevas empresas y ayudarlas en su puesta en marcha. Su entusiasmo por el espacio se basa en una creencia inquebrantable en el poder disruptivo de la tecnología blockchain.
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Embajador líder
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Cosas que Webb ama:
+Things Webb loves:
 * daos y defi
 * videojuegos, el juego favorito es dota, el juego más nostálgico es World of Warcraft
 * largos paseos en la playa
@@ -260,15 +250,15 @@ Cosas que Webb ama:
 
 ## Orígenes
 
-### El Dream Team se reúne
-Este es el equipo, detrás del meme.  Un equipo de ensueño para cualquiera, preparado para conquistar el mundo. La siguiente historia es un relato bastante preciso de cómo se formó el equipo.  Artísticamente acuñado por Vanilladelphia.eth Aapprentice et al.
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-El año era 2011... o tal vez 2012.  El Coder Dan acababa de terminar su carrera universitaria, cuando decidió dedicarse a su verdadera pasión.  Vender caramelos, en una playa en China.  Dan sabía que no iban a dar este prestigioso trabajo a cualquier idiota, especialmente a un extranjero como él.  Fue entonces cuando nuestro héroe decidió que era mejor conseguir un trabajo de verdad, y convertirse en una celebridad de Youtube... y eso es justo lo que hizo.  Pasados un par de años, el joven Coderdan estaba listo para volver a la playa.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"Es hora de vender caramelos" dijo Dan.
+"It's time to sell some candy" Said Dan.
 
-¡Y qué vendedor era!  Aunque por desgracia no era lo suficientemente bueno como para vender caramelos en la playa, el joven pegó su campana con tal vigor que llamó la atención de otro joven transeúnte Jesse, alias GldnXross.  Los dos se convirtieron en amigos rápidamente, divirtiéndose juntos y haciendo una música maravillosa.  Por suerte para nosotros, el maiyatang no funcionó, y el dúo pasó a cosas mucho más grandes...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-Cuando nuestros soñadores decidieron crear una versión totalmente en cadena del clásico juguete de los 90 todo el mundo les llamó locos.  Pero Coder Dan ya había oído esto antes, pero sabía que tenían razón.  no podían hacer esto, al menos no por sí mismos.  Necesitaban al mejor, casi, al mejor de los mejores... pero ¿quién?  "Xibot!" Dan dijo inmediatamente.  "Si hay alguien que puede captar la esencia de un clásico tan querido por nosotros, ¡tiene que ser él!".  "Hmm, pero ¿qué pasa con los contratos inteligentes?", dijo GldnXross.  ¡Seguro que no hay nadie lo suficientemente bueno como para guardar estas cosas TOTALMENTE en cadena! "Hay una persona", dijo Dan. "Este tipo ama tanto los contratos inteligentes que escribe contratos inteligentes para contratos inteligentes"  "Espera, he oído hablar de este tipo..." Dijo GldnXross "Nick Mudge"  "¿Y la Comunidad? Seguramente necesitaremos a alguien increíble para acabar con los spammers y ayudar a los noobs"  Dan miró hacia arriba... " Se cuenta de un hombre, con la paciencia de un santo, y el martillo de Thor. " ¿El nombre de ese hombre? JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Así es como nuestros héroes se reunieron, algunos detalles han sido editados por el tiempo.
+So this is how our heroes assembled, some details have been edited for time.
