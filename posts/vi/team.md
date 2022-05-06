@@ -38,7 +38,6 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
-<p><a href=#designerdave---game-design>DesignerDave - Game Design</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
@@ -177,15 +176,6 @@ Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh n
 
 Moon là Head of Paartnerships. Não Vũ Trụ. Bot tốt nhất trong aavegotchi. Game thủ. Chồng của wagyuchicken.
 
-### DesignerDave - Game Design
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
-<p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
-</div>
-
-“DesignerDave” là một người thiết kế game & và cốt truyện, người làm việc với những studios như Blizzard Entertainment, Ubisoft, Wooga, và inXile, với những cái tên nổi tiếng như Wasteland, Warcraft, Silent Hill, và nhiều hơn nữa. Anh đã bắt đầu sự nghiệp game PC, tạo nên những hit AAA như Warcraft III và WoW, rồi chuyển game di động vào năm 2019, lĩnh vực mà ông đã khiến những game như Penny Dell Crosswords kiếm được từ 1000 usd mỗi tháng thành vài ngàn usd mỗi ngày trong vòng một năm. DesignerDave chuyên về trải nghiệm người dùng, thiết kế tường thuật và xác định cách tốt nhất để đáp ứng kỳ vọng của người dùng mới để nâng cao chỉ số giữ chân và tăng chi tiêu thông qua kể chuyện. Gần đây nhất, anh ấy đang lãnh đạo phụ trách thiết kế trò chơi NFT, tạo ra các câu chuyện metaverse đa thế giới trải dài để cho phép tương lai tất yếu, nơi người chơi có thể mang theo hàng loạt vật phẩm và trải nghiệm từ trò chơi này sang trò chơi khác. Ông đang phân tích và thích nghi nhanh chóng với mô hình play-to-earn, sẽ dần vượt mặt thị trường free to play.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -193,7 +183,7 @@ Moon là Head of Paartnerships. Não Vũ Trụ. Bot tốt nhất trong aavegotch
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Coyote - Dev evangelist / UI
 
@@ -202,7 +192,7 @@ Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kin
 <p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
 </div>
 
-Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã tham gia vào team hồi đầu năm 2021. Anh bắt đầu sự nghiệp với vai trò nhà thiết kế UI/UX trong các startup rồi cuối cùng chuyển sang chuyên về lập trình front end. Coyote đã tìm ra lỗi trên blockchain trong quá trình phát triển ứng dụng bên thứ ba cho Aavegotchi. Mục tiêu của anh là chia sẽ nguồn cảm hứng này với các lập trình viên đẻ tạo ra thế hệ kỹ sư web mới!
+Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
 ### Candoizo - Frontend
 
@@ -211,9 +201,9 @@ Caleb được gọi là Coyote vì đó là tên đệm của anh ta, anh đã 
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, còn gọi là candoizo, là một lập trình viên phần mềm đang cống hiến để giúp cộng đồng dễ dàng xây dựng ứng dụng trên Aavegotchi! Kinh nghiệm của anh khá đa dạng với các vị trí như tester và xây dựng các dự án được định hướng bởi cộng đồng, tất cả bắt nguồn từ mong muốn mở ra những chân trời mới cho cộng đồng.
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
-Lý lịch của anh cho thấy lớn lên tại khu vực hoang dại của các trò chơi mang tính cạnh tranh ở Canada và cống hiến cho việc xây dựng nên những công cụ huyền thoại. Với các dự án trong quá khứ như Hauntgg, CoinVanity, và trên iOS, sẽ không thiếu những người bạn mong muốn chứng thực cho câu chuyện này. Trong tập tiếp theo, người huấn luyện huyền thoại - Coder Dan đã nắm bắt được tâm can và những kỹ năng mà anh ấy cống hiến cho đội ngũ Pixelcraft bằng cách sử dụng ý tưởng game chấn động và cộng đồng người chơi nổi bật!
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
 ### Mori - Solidity Developer
 
@@ -222,7 +212,7 @@ Lý lịch của anh cho thấy lớn lên tại khu vực hoang dại của cá
 <p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-Patrick Kim, aka Mori là một tân binh defi degen và solidity developer đến từ Los Angeles. Ông đã tìm thấy Aavegotchi sau khi mất hàng đống tiền vào coin rác, và sau đó đã được truyền cảm hứng bởi sự nỗ lực trong ngành NFT. Minh chứng cho sự thiếu tập trung của anh ấy, trước đây anh là người phân tích số liệu, và trước đó là kỹ sư máy bay. Ông đã xem anime vì nội dung, và sẵn sàng hỗ trợ người chơi mà một cách vô tư khi chơi DotA vào một năm trước. Lúc rãnh, ông thích hỏi coderdan về khoảng thời gian mà các tính năng ông yêu thích sẽ được trình làng.
+Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
 ### Thrax - Media Production
 
