@@ -38,11 +38,10 @@ Vous voulez savoir qui est derrière les mignons gotchis ? Nous allons vous mont
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Directeur du marketing</a></p>
 <p><a href=#moon---head-of-paartnerships>Moo - Responsable partenariat</a></p>
-<p><a href=#designerdave---game-design>DesignerDave - Design du jeu</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
-<p><a href=#mori---solidity-developer>Mori - Développeur Solidity</a></p>
+<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
@@ -177,15 +176,6 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 
 Moon est responsable des Partenariats. Galaxy brain. Le meilleur bot d'Aavegotchi. Joueur. Mari de wagyuchicken.
 
-### DesignerDave - Design du jeu
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/designerdave.jpg" alt = "DesignerDave">
-<p class="leftImageText"><a href="https://twitter.com/davidkfried" target="_blank">DesignerDave</a></p>
-</div>
-
-“DesignerDave” is a game & narrative designer who has been working with studios like Blizzard Entertainment, Ubisoft, Wooga, and inXile, on franchises like Wasteland, Warcraft, Silent Hill, and many others. He began his career in PC games making AAA hits like Warcraft III and WoW, moving to mobile games in 2009 where he has successfully taken casual games like Penny Dell Crosswords from earning a thousand per month to a few thousand per day over the course of a year. DesignerDave specializes in user experience, narrative design, and defining how best to meet expectations of new users so as to raise retention metrics and increase spending through story-telling. He is most recently leading the charge on NFT game design, creating multi-world spanning metaverse narratives to allow for the inevitable future where players can bring hordes of items and experiences from one game to the next. He is analyzing and adapting quickly to the new play-to-earn paradigm that will gradually usurp the free to play market.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -215,7 +205,7 @@ Candoizo, aka candoizo, is a software developer dedicated to making it easy for 
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
-### Mori - Développeur Solidity
+### Mori - Solidity Developer
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
