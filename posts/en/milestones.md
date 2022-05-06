@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [April Updates](https://blog.aavegotchi.com/aavegotchi-april-update/)
+* What has PC achieved in April?
+* Read all about it here!
+<p></p>
+
 ## [Two Major Gotchiverse releases confirmed for May!](https://blog.aavegotchi.com/the-gotchiverse-two-major-releases-confirmed-for-may/)
 * May 2: Gotchiverse Social Release
 * May 18: Gotchiverse Land Release
