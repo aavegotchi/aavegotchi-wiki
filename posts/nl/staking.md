@@ -113,10 +113,6 @@ Waarom levert de GHST-USDC LP 74M FRENS per dag op? Een vroege depositor in de G
 
 * Stap 5: Als tegenprestatie verdien je FRENS punten en krijg je stkGHST-WETH tokens
 
-* Stap 6: Stort die op [dinoswap.exchange](https://dinoswap.exchange/) > Fossiele Farms op DINO
-
-* BONUS: Stuur uw DINO naar de GHST Extinction Pool om nog meer GHST te verdienen!
-
 Voor elke 1 GHST-ETH LP token op deze manier gestaked, ontvang je 12,08 miljoen FRENS / Dag (20% meer dan alleen maar GHST).
 
 ### Stake GHST-MATIC
@@ -135,24 +131,20 @@ Als je iets meer visueel wilt, bekijk dan onze Stake Cheatsheets!
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST naar Matic Cheatsheet" />
 
-* GHST-ETH staken
-
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
-
 ### Staking Opbrengsten Tabel
 
-De tabel hieronder vat de staking opbrengsten (in termen van FRENS) in percentage samen met de basislijn van staking GHST direct.
+The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
 
-Houd er rekening mee dat het Pixelcraft team de FRENS hoeveelheid van tijd tot tijd kan updaten om het systeem in balans te houden.
+Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
 
-tabel_stakingReturns
+table_stakingReturns
 
 ## Staking Contractadressen
 
-De volgende tabel toont de verschillende staking contract adressen op Polygon. De ghstStaking en stkGHSTQUICK contracten hebben hetzelfde contractadres. Controleer het contractadres eerst voordat je transacties afsluit.
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
-tabel_stakingContractAdressen
+table_stakingContractAddresses
 
 ## Wat nu?
 
-Dus heb je nu wat FRENS? Ga naar de [Tickets pagina](/tickets) om te leren hoe je tickets met FRENS kan kopen en om deel te nemen aan Lotterijen!
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
