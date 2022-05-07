@@ -113,10 +113,6 @@ Tạo sao token LP cặp GHST-USCD lại trả về 74 tr FRENS mỗi ngày? Nh�
 
 * Bước 5: Quay lại, kiếm FRENS và bạn nhận được token stkGHST-WETH
 
-* Bước 6: Gửi chúng vào [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farm để farm DINO
-
-* BONUS: Gửi DINO vào Extinction Pool để kiếm nhiều GHST hơn!
-
 Với mỗi 1 GHST-QUICK mà bạn muốn stake bằng cách này, bạn sẽ nhận được 12.08 triệu FRENS/Ngày (nhiều hơn 20% so với chỉ stake GHST).
 
 ### Stake GHST-ETH
@@ -135,24 +131,20 @@ Nếu bạn thích xem hình ảnh hơn thì hãy xem qua Staking Cheatsheet nh�
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "Hướng dẫn chuyển GHST sang Matic" />
 
-* Stake GHST-ETH
-
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
-
 ### Bảng Lợi Nhuận
 
-Bảng dưới đây tóm tắt lại lợi nhuận khi stake (dựa trên số FRENS) theo tỷ lệ phần trăm so với đường cơ bản là stake GHST đơn thuần.
+The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
 
-Hãy chú ý là team Pixelcraft sẽ cập nhật lượng FRENS này liên tục để cân bằng hệ thống.
+Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
 
 table_stakingReturns
 
 ## Địa Chỉ Hợp Đồng Staking
 
-Bạn dưới đây tổng hợp nhiều địa chỉ hợp đồng staking khác nhau trên Polygon. Hợp đồng ghstStaking và stkGHSTQUICK dùng chung một địa chỉ. Hãy xem kỹ địa chỉ hợp đồng trước khi hoàn thành bất kỳ giao dịch nào nhé.
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
 
 ## Bước tiếp theo?
 
-Vậy bạn đã có một ít FRENS rồi đúng không? Hãy vào [Tickets page](/tickets) để học cách mua vé bằng FRENS và tham gia vào Raffle!
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
