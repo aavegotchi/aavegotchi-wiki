@@ -113,10 +113,6 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 * ステップ5：お返しにFRENSポイントを獲得し、stkGHST-WETHトークンを入手します。
 
-* ステップ6：[dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farmsに入金し、DINOをファームします。
-
-* ボーナス：DINOをGHST Extinction Poolに送ると、さらにGHSTを獲得できます。
-
 この方法で1GHST-ETH LPトークンをステークするごとに、1,208万FRENS /日（GHSTをステークするよりも20％多く）を受け取ることができます。
 
 ### GHST-MATICのステーキング
@@ -135,24 +131,20 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHSTからMaticへのチートシート" />
 
-* GHST-ETHステーキング
-
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi X DinoSwap LPチートシート" />
-
 ### ステーキング利益表
 
-下の表は、GHSTを直接ステーキングした場合の基準に対して、ステーキングリターン（FRENS換算）をパーセンテージでまとめたものです。
+The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
 
-なお、Pixelcraftチームは、システムのバランスを取るために、FRENSの金額を随時更新することがあります。
+Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
 
-表_ステーキングリターン
+table_stakingReturns
 
 ## ステーキング・コントラクト・アドレス
 
-次の表は、Polygon上の様々なステーキングコントラクトのアドレスを示しています。 ghstStakingとstkGHSTQUICKの契約は同じ契約アドレスを共有しています。 取引を確定する前に、まず契約書のアドレスを確認してください。
+The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
-表_ステーキング・コンタクト・アドレス
+table_stakingContractAddresses
 
 ## 次は何をする？
 
-さて、FRENSを手に入れましたか？ [チケットのページ](/tickets)に行き、FRENSでチケットを購入する方法とラッフルに参加する方法を学んでください。
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
