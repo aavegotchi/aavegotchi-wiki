@@ -113,10 +113,6 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? Quickswap의 GHST-USD
 
 * Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
 
-* Step 6: Deposit those at [dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farms to farm DINO
-
-* BONUS: Send your DINO to the GHST Extinction Pool to earn even more GHST!
-
 For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
 
 ### Staking GHST-MATIC
@@ -134,10 +130,6 @@ If you prefer something more visual, check out our Staking Cheatsheets!
 * GHST Staking and GHST-QUICK/GHST-USDC Staking
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
-
-* GHST-ETH Staking
-
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi x DinoSwap LP Cheatsheet" />
 
 ### Staking Returns Table
 
