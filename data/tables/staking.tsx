@@ -19,6 +19,7 @@ export const tables
                 headers: ["Contract", "Address"],
                 data: [
                     ["ghstStaking", "0xA02d547512Bb90002807499F05495Fe9C4C3943f"],
+					["wapGHST", "0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea"],
                     ["stkGHST-QUICK", "0xA02d547512Bb90002807499F05495Fe9C4C3943f"],
                     ["stkGHST-USDC", "0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09"],
 					["stkGHST-MATIC", "0x6fcac9eee338e29205a24692bbf87e0eb9431997"],
@@ -35,6 +36,7 @@ export const tables
                 headers: ["Type", "% more"],
                 data: [
                     ["GHST", "Baseline"],
+					["wapGHST", "Baseline"],
                     ["GHST-USDC", "10%"],
                     ["GHST-ETH", "20%"],
 					["GHST-MATIC", "30%"],
