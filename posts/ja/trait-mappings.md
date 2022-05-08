@@ -16,7 +16,7 @@ Aavegotchiたちには6つの [特性](/traits) があります：
 * EYS＝アイ・シェイプ（目の形）
 * EYC＝アイ・カラー（目の色）
 
-How exactly do these traits map out to actual gameplay in the [Gotchiverse](/gotchiverse)? Read on for the details.
+これらの特性は、[ゴッチバース（Gotchiverse）](/gotchiverse)の実際のゲームプレイにどのようにマッピングされるのでしょうか？ 詳しくはこちらをご覧ください。
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/trait-mappings/gotchiverse-trait-map.jpg">
@@ -38,7 +38,7 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 ## ゴッチバースでの特性の定義
 
-* **HP Capacity:** A gotchi’s base level of hit points (HP). A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
+* **HP容量：**ゴッチの基本的なヒットポイント（HP）です。 A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
 
 * **AP Capacity:** A gotchi’s base level of action points (AP). Every physical attack, spell and ability (including teleportation) in the Gotchiverse will require the consumption of AP. The moar AP a gotchi has, the moar consecutive abilities they can unleash. Uber abilities will also require moar AP to execute so if you don’t know any high NRG gotchis yet, we suggest you start networking!
 
