@@ -47,17 +47,19 @@ Once you have some GHST tokens, they can be staked on the [Staking page](https:/
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST Staking UI" />
 
-There are five ways to stake:
+There are six ways to stake:
 
 1. GHST
 
-2. GHST-QUICK
+2. wapGHST
 
-3. GHST-USDC
+3. GHST-QUICK
 
-4. GHST-ETH
+4. GHST-USDC
 
-5. GHST-MATIC
+5. GHST-ETH
+
+6. GHST-MATIC
 
 **Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
@@ -80,6 +82,20 @@ There are five ways to stake:
 * Step 7: Input the amount of GHST you would like to deposit. Presto! You are done!
 
 *For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+
+### Staking wapGHST
+
+wapGHST stands for Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
+
+Stakers do not need to visit Aave. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
+
+*Note: The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST.)*
+
+* Step 1: Visit [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
+
+* Step 2: Approve the contract to use your GHST tokens.
+
+* Step 3: Wrap your GHST into wapGHST.
 
 ### Staking GHST-QUICK and GHST-USDC
 
