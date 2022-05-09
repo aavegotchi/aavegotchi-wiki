@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'レシピ'
-description: 'Aavegotchi Recipes'
+description: 'Aavegotchiレシピ'
 contributors:
   - "unintelligent-nerd"
 ---
