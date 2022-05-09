@@ -107,17 +107,17 @@ Avegotchi Wikiのページ一覧です：
 
 * [ロードマップ](/roadmap)
 
-* [Sets](/sets)
+* [セット（Sets）](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [スピリットフォースの歴史](/spirit-force-history)
 
 * [ステーキング](/staking)
 
-* [Team](/team)
+* [チーム](/team)
 
 * [九人の達人](/the-nine-aadepts)
 
@@ -129,7 +129,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [Tutorials](/tutorials)
+* [チュートリアル](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
