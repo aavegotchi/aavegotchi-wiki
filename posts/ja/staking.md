@@ -47,7 +47,7 @@ GHSTトークンを手に入れたら、[ステーキングページ](https://aa
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST ステーキング UI" />
 
-There are six ways to stake:
+ステーキングの方法は6つあります：
 
 1. GHST
 
@@ -83,67 +83,67 @@ There are six ways to stake:
 
 *この方法で1GHSTをステークするごとに、1FRENS / Dayを受け取ることができます。*
 
-### Staking wapGHST
+### wapGHSTのステーキング
 
-wapGHST stands for Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
+wapGHSTは、Wrapped Aave Polygon GHSTの略です。 GHSTを直接ステークするのと同じFRENSレートを提供し、さらにGHSTトークンを貸し出してAaveプラットフォーム上で追加の利回りを得ることができます。
 
-Stakers do not need to visit Aave. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
+ステーカーはAaveを訪問する必要はありません。 トークンを承認し、wrap GHSTをクリックして、GHSTをwapGHSTにラップ/アンラップするだけでよいのです。
 
-*Note: The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST.)*
+*注：発生したAPYは、wapGHSTの残高には表示されません。 むしろ、アンラッププロセス中（バニラGHSTに戻ったとき）にGHSTの残高に発生します。*
 
-* Step 1: Visit [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
+* ステップ1： [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)にアクセスします。
 
 * ステップ2：あなたのGHSTトークンを使用する契約を承認します。
 
-* Step 3: Wrap your GHST into wapGHST.
+* ステップ3：あなたのGHSTをwapGHSTにラップします。
 
-### Staking GHST-QUICK and GHST-USDC
+### GHST-QUICKとGHST-USDCのステーキング
 
-Staking GHST-QUICK and GHST-USDC follows the same steps.
+GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
-* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* ステップ1：[Polygonガイド](/polygon)に従って、Polygonを含むようにMetamaskウォレットを設定します。
 
-* Step 2: Use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
+* ステップ2：[Aavegotchi Bridge](https://aavegotchi.com/bridge)を使って、GHSTやその他のアセットをPolygonに転送してください。 [maTokensガイド](/matokens)では、この方法が紹介されています。
 
-* Step 3: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
+* ステップ3: [QuickSwap](https://quickswap.exchange)の[GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9)と[GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4)プールのいずれか、または両方でリキディティープロバイダになる。 リキディティー提供の見返りとして、LPトークンを受け取ります。 GHST-QUICKプールへのステーキングに興味のある方は、[QuickSwap](https://quickswap.exchange)からQUICKトークンを入手することができます。 現在、最も流動性の高いペアは、QUICK-UNI、QUICK-WETH、QUICK-USDC、そしてGHST-QUICKです。
 
-* Step 4: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+* ステップ4：これらのLPトークンを[Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon)からステークして、stkGHSTレシートトークンを取得します。 GHST-QUICKとGHST-USDCプールでは、これらのstkGHSTレシート・トークンはそれぞれstkGHST-QUICKとstkGHST-USDCと名付けられます。
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
+*この方法でステークされた1 GHST-QUICK LPトークンごとに、83 FRENS / Dayを受け取ることができます（我々チームとしては、単にGHSTだけをステークするよりも30～40%程度高いレートを維持しようとしています。 このレートは正しい比率を維持するために事前通知なしに定期的に調整されます）。*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
+*この方法で1つのGHST-USDC LPトークンをステークすると、7400万FRENS / Day（GHSTをステークするよりも10％多く）を受け取ることができます。*
 
-Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+なぜGHSTトークンを直接ステークするのとLPステークで得られるFRENSの数に大きな差があるのですか？ LPトークンのステーキングには、[インパーマネント・ロス](/glossary#impermanent-loss)のリスクがあります。 そのリスクの増加に対して補償されるのです。
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+なぜGHST-USDCプールは1日に7400万FRENSの利回りがあるのですか？ QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 この[ツイート](https://twitter.com/coderdannn/status/1362423402871447554)を見て、是非笑ってください。
 
-### Staking GHST-WETH
+### GHST-WETHのステーキング
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* ステップ1：[quickswap.exchange](https://quickswap.exchange/)にアクセスし、> プール > リキディティーを追加を選択します。
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* ステップ2：GHSTとETHをGHST-ETHリキディティープールに等しく入金します。
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* ステップ3：その見返りとして、GHST-WETH LPトークンを受け取ります。
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* ステップ4：そのLPトークンを受け取り、[aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)でステークする。
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* ステップ5：お返しにFRENSポイントを獲得し、stkGHST-WETHトークンを入手します。
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+この方法で1GHST-ETH LPトークンをステークするごとに、1,208万FRENS /日（GHSTをステークするよりも20％多く）を受け取ることができます。
 
-### Staking GHST-MATIC
+### GHST-MATICのステーキング
 
-* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+* ステップ1：[sushi.com](https://sushi.com/)にアクセスし、アプリに入る
 
-* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+* ステップ2：GHST-MATICのプールにリキディティーを追加します。 すると、GHST-MATIC LP トークンを受け取ることができます
 
-* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
+* ステップ3：GHST-MATIC LP トークンを取り、[Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) に預ける。 LPトークンをステーキングした後、stkGHST-MATICレシートトークンを受け取ります。
 
-### Staking Cheatsheets!
+### ステーキング・チートシート
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+より視覚的なものがお好みでしたら、ステーキング・チートシートをご覧ください！
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* GHSTステーキングとGHST-QUICK/GHST-USDCステーキング
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHSTからMaticへのチートシート" />
 
