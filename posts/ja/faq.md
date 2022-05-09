@@ -240,196 +240,196 @@ maTokenとamTokenはどちらも利息が発生します。 ただし、利息�
 
 * amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
 
-### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
-QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
+### QuickSwapでmaLINK/maUNIにスワップできないのはなぜですか？
+QuickSwap（クィックスワップ） は、maUNI や maLINK など、いくつかの maToken に対してルーティングの問題があります。 最初に手動で maUSDC にスワップし、その後、それぞれの maToken を取得する必要があります。
 
-**Doesn't work**: ETH/USDC -> maUNI/maLINK
+**動作しません**：ETH/USDC -> maUNI/maLINK
 
-**Works**: maUSDC -> maUNI/maLINK
+**動作します**： maUSDC -> maUNI/maLINK
 
 ### AavegotchiはOpenSeaと統合されますか？
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Aavegotchiはイーサリアム・メインネット上のオープンシー（および他のセカンダリーマーケットプレイス）と完全に互換性があります。 課題はオープンシーのポリゴンとの連携です。 誰かがバザールにゴッチを売りに出すと、そのウェアラブルも一緒に出品されます。 オープンシー・ポリゴンには、このロック機能がありません。 そのため、オープンシー・ポリゴンのゴッチ販売者は、ゴッチのウェアラブルを購入しようとする人に危害を加える可能性があります。 購入者を保護するために、ピクセルクラフトはオープンシーにポリゴンへの出品を追求しないことを通告しています。
 
-Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
+同様に、オープンシー・ポリゴンへのウェアラブルの出品にも制約があります。 オープンシー・ポリゴンはコントラクトを解析する方法によって、ERC-1155ウェアラブルの解析に難があります。 この問題は、同じアドレスがERC-721（ゴッチ）とERC-1155（ウェアラブル）の両方を保持していることです。 彼らのインフラストラクチャは、同じ契約で両方を処理するように設定されていません。
 
 ### Aavegotchiのライトペーパーはどこにありますか？
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
+Aavegotchiライトペーパーは2種類あります：(1) Aavegotchiプロジェクトのポイントをまとめた「オリジナルライトペーパー」と、(2) 今後のゴッチバースとゴッチバース内の土地区画であるREALM（レルム）を紹介する「最新ライトペーパー」です。
 
-They can be found here:
+こちらでご覧いただけます：
 
-* [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
+* [オリジナルライトペーパー](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
+* [Aavegotchi REALMライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
 ## ボンディングカーブFAQ
 
 ### GHSTを購入しましたが、ウォレットに表示されません
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
+ボンディングカーブで購入した後、GHSTトークンを請求するためには、再度取引を行う必要があります。 例として、以下のスクリーンショットをご覧ください。 ユーザーは、GHSTトークンがウォレットに表示されるために、「CLAIM ORDER」ボタンをクリックする必要があります。
 
 <img src = "/faq/claim-order.png" class="bodyImage" />
 
-### Can people frontrun the Bonding Curve?
-いいえ。 When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
+### ボンディングカーブをフロントランすることは可能ですか？
+いいえ。 ボンディングカーブでGHSTトークンの購入/販売を行う場合、取引はスマートコントラクトに送信される前に他の人の取引と一緒にバッチ処理されます。 彼らはあなたの購入をフロントランするために、より高いガス料金でより低いGHST価格に入札することはできません。
 
 ## ステーキングFAQ
 
 ### FRENSは購入できますか？
-いいえ。 FRENS are a way to reward our community members who staked GHST.
+いいえ。 FRENSは、GHSTをステークした私たちのコミュニティメンバーに対するお礼のための方法です。
 
 ### FRENSはラッフル以外の用途に使われますか？
 
-No, the only thing FRENS are for is entering Aavegotchi raffles. The rest of the Aavegotchi ecosystem will be powered by GHST.
+いいえ、FRENSはAavegotchiくじに参加するためにのみ使用されます。 Aavegotchiエコシステムの他の部分はGHSTによって動かされます。
 
-### What happens to the FRENS on Mainnet after the game launches on Polygon?
-Your FRENS balance will be automatically transferred to Polygon. FRENS on Mainnet will then become worthless.
+### ポリゴンでゲームが開始された後、メインネット上のFRENSはどうなりますか？
+あなたのFRENS残高は自動的にポリゴンに転送されます。 その後、メインネット上のFRENSは無価値となります。
 
 ### なぜGHST-USDC LPは1日に74M FRENSを生成するのですか？
-QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 See the tweet [here](https://twitter.com/coderdannn/status/1362423402871447554) for lulz.
+QuickSwapのGHST-USDCプールに、初期に預けた人が、資産間の比率をめちゃくちゃにしました。 したがって、トークンがプールに追加されると、0.00006のような微量のLPトークンを受け取ることになるのです。 ネタ元ツイートは[こちら](https://twitter.com/coderdannn/status/1362423402871447554)をご覧ください。
 
 ### wapGHSTとは何ですか?
 
-wapGHST stands for Wrapped Aave Polygon GHST. It is a wrapped, static form of apGHST (formerly known as amGHST in Aave v2).
+wapGHSTは、Wrapped Aave Polygon GHSTの略です。 apGHST (Aave v2 では amGHST として知られていた) をラップした静的な形式である。
 
-Stakers earn yield on their GHST deposits in Aave V3 in addition to FRENS.
+FRENSに加え、ステーカーはGHSTの預金に対するAave V3による利回りも得ることができます。
 
-The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST).
+発生したAPYは、wapGHSTの残高には表示されません。 むしろ、アンラッププロセス中（バニラGHSTに戻ったとき）にGHSTの残高に発生します。
 
-Vist [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
+ステーキングを始めるには、[https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)をご覧ください。 ステーカーはAaveを訪問する必要はありません。 トークンを承認し、wrap GHSTをクリックして、GHSTをwapGHSTにラップ/アンラップするだけでよいのです。
 
 ## ラッフルFAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+ラッフルに関する一般的な情報は、<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">ラッフル</a>を参照してください。
 
 
 
 ### チケットを購入すると、ラッフル（抽選）に参加することになりますか？
 
-いいえ！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+いいえ！ FRENSでチケットを購入するだけでは、**自動的にラッフルに参加することはできません**のでご注意ください。ラッフルが開催されている72時間の間にチケットをステークする必要があります。 これは、ラッフルのページでチケットを**承認**し、**チケットを入力する**という2つのトランザクションを含みます。 チケットの送信が完了すると、統計ページでラッフルに参加したチケットの枚数が表示されます。
 
 
 ### Aavegotchiストアでラッフル用ウェアラブルは販売されますか？
 
-いいえ。 The only time these wearables will ever be released is during the pre-launch raffles.
+いいえ。 これらのウェアラブルが発売されるのは、発売前のラッフル抽選会のときだけです。
 
 
 ### ラッフル用ウェアラブルは特別なものですか？
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+ゲームプレイに関しては、ラッフル・ウェアラブルは他のレアリティクラス（レア、ミシカルなど）のウェアラブルと同じ<a href="https://wiki.aavegotchi.com/wearables">ブースト</a>をあなたのAavegotchiに提供します。  [バザール](/baazaar)では、**発売前**であることや**ブランドイメージ**によって再販価値が高くなるかどうかは、市場の需要によって決定されます。
 
 
 ### ラッフルチケットはどのように転送するのですか？
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+ラッフルチケットはERC-1155規格に基づいています。 Aavegotchi DAppの[チケットのページ](https://aavegotchi.com/tickets)から転送することができます。 あなたが所有している各チケットカテゴリの下に、転送ボタンがあります（以下のスクリーンショットを参照）。 そのボタンをクリックすると、そのカテゴリーに属するチケットを転送することができます。
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
-You will then be brought to another page where you can specify the recipient's address as well as the number of tickets to transfer (see screenshot below). Once you have keyed in the information and confirmed it to be correct, hit the Transfer button.
+転送先の住所やチケットの枚数を入力する画面が表示されます（下図）。 入力が終わりましたら、「転送」ボタンをクリックしてください。
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
 ### メインネットが開始された後もラッフルはありますか？
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+はい、メインネットが開始された後も、追加の抽選が行われる予定です。 ただし、頻繁に行われるわけではなく、事前に発表されることはありません。 これは、まだ[FRENS](/glossary#frens)やラッフルチケットをステーキングし、蓄積しているユーザーに報いるためです。
 
 ## オークションFAQ
 
 ### いくら稼ぐことができますか？
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+各GBMオークションは、最大収益を得るために特定のプリセットで設定することができます。 このウェアラブルオークションでは、クリプトグラフで使用されているものと同じプリセット、最小1％、最大10％を選択しました。 つまり、競り負けて獲得できる最大額は、入札額の10%です。
 
-For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
+例えば、2000GHSTを入札した場合、最初のGBMオークションで競り落とされたときに得られる最大額は200GHSTです。 また、今後のオークションでは、様々なプリセットを試して、面白さを追求していきます。
 
 ### オークションで自分を競り落とすことはできますか？
-Yes, there is nothing wrong with outbidding yourself to earn the incentive. Just don’t overpay!
+はい、インセンティブを得るために自分で入札することは問題ありません。 ただし、払い過ぎに注意してください。
 
 ### なぜ最低落札価格が10%も上がるのですか？
-This minimum “step” has been carefully calculated by the game theory experts at GBM to ensure the auction remains fully funded no matter how many bids are thrown at it. Without a minimum increase, the auction would be at risk of becoming underfunded.
+この最低「段階」は、GBM のゲーム理論の専門家が慎重に計算したもので、どんなに多くの入札があってもオークションの資金が十分に確保されるようにするためです。 最低落札価格の設定がなければ、オークションは資金不足に陥る危険性があります。
 
 ### 最低落札価格はありますか？
-There is no minimum bid for the Auction. You can bid 1 GHST if you’d like! Just keep in mind, the higher you bid, the more you potentially earn if outbid.
+オークションに最低落札価格はありません。 1GHSTでも入札可能です。 ただし、入札額が高いほど、競り落とされたときに得られる利益が多くなる可能性があることに留意してください。
 
 ### ボットによる出品物の横取りを防ぐにはどうしているのですか？
-In a First Come First Serve NFT drop, an automated script can listen for blockchain events and be the first to purchase an item the moment it hits the blockchain.
+First Come First Serve（＝早い者勝ち）NFTドロップでは、自動化されたスクリプトがブロックチェーンのイベントをリッスンし、アイテムがブロックチェーンに到達した瞬間に最初に購入することができます。
 
-This speed advantage is fully mitigated by the auction system — bots will NOT be running off with NFTs in an Aavegotchi Aauction!
+このスピードの利点はオークションシステムによって完全に緩和されます。AavegotchiオークションでボットがNFTを持ち逃げすることはありません！
 
 ### ボットがオークションの終わりを狙い撃ちしてくるのを防ぐにはどうしたらよいですか？
-If a bid is placed within the last five minutes of the Auction, the “hammer time” is extended by another five minutes. This effectively prevents bots from sniping the end because they can still be outbid.
+オークションの最後の5分間に入札が行われた場合、「ハンマータイム」はさらに5分延長されます。 これにより、ボットがオークション終了時に入札を行うことを防ぐことができます。
 
 ### NFTを請求するにはどうしたらいいですか？
-If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
+オークション終了時に最高入札者であれば、「私の入札」ページに「NFTを請求」ボタンが表示されますので、直接ウォレットにNFTを請求することができます。
 
 ## ウェアラブルに関するFAQ
 
 ### ウェアラブル商品券をポリゴンに転送する必要がありますか？
-いいえ。 Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+いいえ。 Aavegotchiの発売と同時に、請求済み、未請求のウェアラブルバウチャーが自動的にポリゴンに転送されます。
 
 ### 各ウェアラブルの数量には限りがありますか？
-Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
+はい、あります。 各ウェアラブルには数量に限りがあります。 数量は[ウェアラブルのページ](/wearables)で確認できます。
 
-For Maall-bought wearables, this means that once a wearable is sold out, it will never be available for sale in the Maall again. You can only purchase it from other people who have that wearable.
+モールで購入したウェアラブルは、一度売り切れると二度とモールで販売することはありません。 そのウェアラブルを持っている他の人からしか購入することができません。
 
 ### Aavegotchiからウェアラブルを外したのですが、インベントリにウェアラブルが見当たりません
-Each Aavegotchi has its own inventory, known as a [Gotchi Pocket](/aavegotchi-profile#gotchi-pocket). When you unequip a wearable from your Aavegotchi, the unequipped wearable goes to that particular Aavegotchi's Gotchi Pocket.
+Aavegotchiにはそれぞれ[ゴッチポケット](/aavegotchi-profile#gotchi-pocket)と呼ばれるインベントリがあります。 Aavegotchiからウェアラブルを取り外すと、取り外されたウェアラブルはそのAavegotchiのゴッチポケットに入ります。
 
-You (the owner) have your own separate inventory as well. Most likely, you are referring to the fact that you are not able to find the unequipped wearable in your inventory.
+あなた（オーナー）にも、別のインベントリーがあります。 おそらく、自分のインベントリに装備されていないウェアラブルが見つからないことを指しているのでしょう。
 
-At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocket" button at the bottom-right corner of the screen. Click on it and then transfer the unequipped wearable from the Aavegotchi's Gotchi Pocket to your personal inventory.
+各[Aavegotchiのプロフィールページ](/aavegotchi-profile)で、画面右下に「ポケット」ボタンがあります。 これをクリックし、Aavegotchiのゴッチポケットから個人のインベントリに未装備のウェアラブルを転送してください。
 
 ### ウェアラブルのページで、IDが抜けているのはなぜですか？
-These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
+ID162～198、210のアイテムは、ウェアラブルではありません。 [バッジ](/baadge)とハウント1の背景を表しています。
 
 ## ポータルに関するFAQ
 
 ### 1回の取引でいくつのポータルを購入できますか？
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+1回の取引で購入できるポータルは、1人あたり50個までです。 これは、クジラが一度に大量のポータルを独占してしまうことを防ぐためです。
 
 ### ポータルを開いたものの、ゴッチを受け取るために必要なaTokenを持っていない場合、後で受け取りに来れますか？
-Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
+はい、ポータルを開いたまま、特定のaTokenを取得しに行き、後でゴッチを召喚しに来ることができます。 事前にaTokenを用意する必要はありません。
 
 ### ポータルはいつ公開されますか？
-Portals will be released on Polygon at February.
+ポータルは2月にポリゴンで公開される予定です。
 
 ## AavegotchiDAOに関するFAQ
 
 ### アラゴンでトラスト・ウォレットを使用して投票するにはどうしたらいいですか？
-As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
+現時点では、アラゴンはまだトラスト・ウォレットを統合していません。 別の方法として、トラスト・ウォレットからMetamask（メタマスク）にプライベート鍵をインポートすることができます。 一旦メタマスクに取り込むと、アラゴンで投票できるようになります。
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+投票方法については[こちら](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194)をご覧ください。
 
 ### スナップショット投票で間違ったタイムスタンプが表示されるのはなぜですか？
-This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
+デバイス/コンピュータのタイムスタンプが、Snapshot（スナップショット）のタイムスタンプと異なるためです。 コンピュータの時間を自動に設定すれば、スナップショットのタイムスタンプと一致するように調整されます。
 
 ### なぜシグナルプロポーザルで20%の定足数なのですか？
-A 20% quorum ensures that Signal Proposals with significant community interest are guaranteed a core vote, while ideation and more niche suggestions also have a platform to test their popularity.
+20%の定足数により、コミュニティの関心が高いシグナルプロポーザルはコア投票が保証され、一方、アイデアやよりニッチな提案もその人気を試すプラットフォームが確保されるからです。
 
 ### なぜ2回の投票が必要なのですか？
-There are two major reasons a Signal Proposal reaching 20% quorum (and majority support) still needs a second vote as a Core Proposal. First, the wider community isn’t watching, or expected to watch, for binding votes on a daily basis. Core Proposals are more rare occurrences that are broadcast across all socials, notifying all types of community members.
+定足数20%に達した（そして過半数の支持を得た）シグナルプロポーザルが、コアプロポーザルとして2回目の投票を必要とするのには、2つの大きな理由があります。 第一に、より広いコミュニティが日常的に拘束票を監視しているわけではありませんし、監視することを期待されてもいません。 コアプロポーザルは、すべてのソーシャルネットワークで放送され、すべてのタイプのコミュニティのメンバーに通知される、よりまれな出来事です。
 
-Secondly, it is entirely possible, even likely, that some Signal Proposals will achieve quorum while failing to adequately abide by the prescribed template for a Signal Proposal (see [here](/dao#creating-signal-proposals)). There may be a need to adjust the proposal to satisfy all aspects of the template.
+第二に、一部のシグナル提案が、シグナル提案の所定のテンプレート（[こちら](/dao#creating-signal-proposals)を参照）に適切に従わないまま定足数を達成することは十分にあり得ますし、その可能性も高いと思われます。 この場合、提案の内容を調整し、テンプレートのすべての面を満足させる必要があるかもしれません。
 
-**If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
+**シグナルプロポーザルが定足数の20%に達しない場合、これは提案のメリットを否定するものではなく、単にその提案が自動的に拘束力のある、コミュニティ全体の投票に格上げされないことを意味します。**良いアイデアでよく書かれたシグナルプロポーザルは、依然としてDAOへの健全な貢献とみなされるべきであり、ピクセルクラフトと将来のコミュニティの提案に影響を与える可能性が非常に高いです。 ピクセルクラフトは時折、定足数に達しなかったシグナルプロポーザルを選択し、それに基づいてコアプロポーザルを作成することがあります。
 
 ### GHSTの予算をポータルとウェアラブルに使いきってしまったのですが、私にひとこと言える権利はあるのかしら？
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+あなたは運がいい！ Aavegotchiでは、GHSTを保有するだけでなく、Aavegotchiの所有権に基づいて議決権を割り当てることを常に意図しています。 [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price)の可決により、ウェアラブルはAavegotchiDAOで投票権を持つようになりました。 ウェアラブルの議決権（GHSTで測定）は、レアリティタイプ/モール価格に基づいて決定されます。 詳しくは[こちら](/wearables#voting-power)をご覧ください。
 
 ### 資金調達の提案はどうなっていますか？
-Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
+資金調達の依頼は、*コクーン*の提案書テンプレートにはありません。これは、主に「走る前に歩く」という原則から、財政的な複雑さを導入する前に、健全なフレームワークを確立することに集中するためです。
 
-**Funding Proposals will certainly be a central feature in Metamorphosis but Cocoon’s focus is more on making game mechanics decisions.**
+**資金調達の提案は確かにメタモルフォーシスの中心的な機能ですが、コクーンの焦点はゲームの仕組みを決定することにあります。**
 
-That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
+とはいえ、*コクーン*は実験的なガバナンスの段階であり、良いアイデアが大きな支持を集め、実際にDAOの宝庫資金を必要とする可能性もないわけではありません。 そのような状況では、間違いなくギャラクシーレベルの投票と20%の定足数を必要とします。 ですから、基本的に私たちはそれを奨励しませんが、同時に私たちは決して「絶対」と言うべきでないことも覚えておいてください。
 
 ## ゲームプレイに関するFAQ
 
 
 ### 特性スコアが高ければ高いほどレアリティが高いのですか？
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Aavegotchiのレアリティはベル曲線に基づいています。つまり、**極端に高い特性スコアも極端に低い特性スコアも**望ましいとされています。 0～100の中間に位置する<a href="https://wiki.aavegotchi.com/traits">特性スコア</a>は、より一般的です。
 
 ### プレイするにはいくらかかりますか？
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+ポータルは、最初のハウントで100GHSTかかると予想されます。 ウェアラブル、消耗品、土地などの他のアイテムのコストは、正式にリリースされた時点で発表されます。ただし、ゲーム開始後、[DAO](/dao)は**ガバナンスの投票によって資産価格を調整する権限を持つ**ことになります。 それまでの間、[バザール](/baazaar)で特定のウェアラブルのオープンマーケット価格を確認することができます。
 
 ### ステークされる担保を変更すると、キンシップレベルに影響が出ますか？
-No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
+いいえ。Aavegotchiでステークされている担保／トークンを増減しても、キンシップレベルには影響しません。
 
 ## Gotchiverse（ゴッチバース）に関するFAQ
 
