@@ -43,6 +43,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins</a></li>
@@ -222,6 +223,15 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 </div>
 
 Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+
+### Zeke - Technical Artist
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
+<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke</a></p>
+</div>
+
+Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
 
 ### JC - Business Development
 
