@@ -7,37 +7,37 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchiメタバースゲームプレイは近日公開予定です! Aavegotchiメタバースでは、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフレンズを作りましょう！
+Aavegotchiレルム（REALM）ゲームプレイは近日公開予定です！ Aavegotchiメタバース（＝ゴッチバース）では、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフレンズを作りましょう！
 
 <div class="contentsBox">
 
-**内容**
+**目次**
 
 <ol>
-<li><a href=#accessing-a-guild>Accessing a Guild</a></li>
-<li><a href=#guild-channeling>Guild Channeling</a></li>
-<li><a href=#linking-your-guild-to-a-crest>Linking your Guild to a Crest</a></li>
-<li><a href=#list-of-guilds>List of Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#accessing-a-guild>ギルドへのアクセス</a></li>
+<li><a href=#guild-channeling>ギルドチャネリング</a></li>
+<li><a href=#linking-your-guild-to-a-crest>ギルドとクレストをリンクさせる</a></li>
+<li><a href=#list-of-guilds>ギルド一覧</a></li>
+<li><a href=#guild-map>ギルドマップ</a></li>
 </ol>
 
 </div>
 
-## Accessing a Guild
+## ギルドへのアクセス
 
-Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
+ゴッチロッジ（Gotchi Lodge）は、"ギルドクレスト "を持つゴッチにのみアクセス可能です。 ギルドクレストとは、Aavegotchiが必ず持っているか、装備している必要がある特定のNFTのことです。
 
-By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).
+デフォルトでは、ゴッチロッジは適切なギルドクレストをポケットに入れているゴッチなら誰でもアクセスできます（オープンアクセス）が、ギルドはAavegotchiにメンバーシップの申請を要求する（アクセス制限）、あるいはメンバーシップを申請できるAavegotchiを指定（ホワイトリスト）することによって、特定のゴッチIDにアクセスを制限することも可能です。
 
-There are 2 types of Guild Crests:
+ギルドクレストには2種類あります：
 
-* **Wearables Crests**: An established Aavegotchi protocol ERC-1155 [Wearables](/wearables) (such as Common Rofl, or Aave Hero Mask) with limited supply.
+* **ウェアラブルクレスト：**AavegotchiプロトコルのERC-1155[ウェアラブル](/wearables)（コモン・ロッフル（Common Rofl）やアーヴェ・ヒーロー・マスク（Aave Hero Mask）など）が確立されており、供給が制限されています。
 
-* **Insignia Crests**: Special ERC-1155 NFTs without a fixed quantity that can be minted by Guild Owners and held by Aavegotchi members to allow access into a Gotchi Lodge.
+* **インシグニアクレスト：**ギルドオーナーによって鋳造され、Aavegotchiメンバーが持つことでゴッチロッジに入れる、一定量のない特別なERC-1155 NFTです。
 
-Each Gotchi Lodge can link one Insignia Crest and up to three Wearable Crests. The main difference between the two Crests is that **Wearable Crests** endow Guild Channeling privileges, whereas **Insignia Crests** only allow Guild access.
+各ゴッチロッジは、1つのインシグニアクレストと最大3つのウェアラブルクレストをリンクさせることができます。 2つのクレストの主な違いは、**インシグニア・クレスト**がギルドへのアクセスを許可するだけなのに対し、**ウェアラブル・クレスト**はギルド・チャネリングの特権を与えるという点です。
 
-## Guild Channeling
+## ギルドチャネリング
 
 Guild Channeling (also known as Communal Channeling) is a ritual that Guild members can engage in every week to summon Alchemica to rain down nearby from the Gotchiverse.
 
@@ -59,7 +59,7 @@ table_gotchiPresenceBonus
 
 table_wearableMultiplier
 
-## Linking your Guild to a Crest
+## ギルドとクレストをリンクさせる
 
 *Wearable Crests*
 
@@ -75,11 +75,11 @@ This gives a strong incentive for Guilds to hold and LP their Alchemica, to cont
 
 Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
 
-## List of Guilds
+## ギルド一覧
 
 table_guild
 
-## Guild Map
+## ギルドマップ
 
 Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
 
