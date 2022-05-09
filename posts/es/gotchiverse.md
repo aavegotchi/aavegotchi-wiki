@@ -198,9 +198,9 @@ Las instalaciones tardan un cierto número de bloques de la cadena de bloques en
 
 **Fórmulas**
 
-Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte importante de la experiencia de Gotchiverse. Las distintas instalaciones requieren diferentes "recetas" para su elaboración y mejora, por lo que los adeptos nos han proporcionado un práctico libro de recetas para su consulta! You can find the latest Recipes [here](/recipes).
+Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte importante de la experiencia de Gotchiverse. Las distintas instalaciones requieren diferentes "recetas" para su elaboración y mejora, por lo que los adeptos nos han proporcionado un práctico libro de recetas para su consulta! Puedes encontrar las últimas fórmulas [aquí](/recipes).
 
-**Harvest Rate, Capacity, and Spillover**
+**Tasa de recolección, capacidad y dispersión**
 
 Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
 
