@@ -145,22 +145,22 @@ If you prefer something more visual, check out our Staking Cheatsheets!
 
 * GHST Staking and GHST-QUICK/GHST-USDC Staking
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHSTからMaticへのチートシート" />
 
-### Staking Returns Table
+### ステーキング利益表
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+下の表は、GHSTを直接ステーキングした場合の基準に対して、ステーキングリターン（FRENS換算）をパーセンテージでまとめたものです。
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+なお、Pixelcraftチームは、システムのバランスを取るために、FRENSの金額を随時更新することがあります。
 
-table_stakingReturns
+表_stakingReturn
 
 ## ステーキング・コントラクト・アドレス
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+次の表は、Polygon上の様々なステーキングコントラクトのアドレスを示しています。 ghstStakingとstkGHSTQUICKの契約は同じ契約アドレスを共有しています。 取引を確定する前に、まず契約書のアドレスを確認してください。
 
-table_stakingContractAddresses
+表_stakingContractAddresses
 
-## 次は何をする？
+## 次は何をするの？
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+さて、FRENSを手に入れましたか？ [チケットのページ](/tickets)に行き、FRENSでチケットを購入する方法とラッフルに参加する方法を学んでください。
