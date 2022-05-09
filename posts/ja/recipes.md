@@ -7,90 +7,90 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Crafting [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade. You can find the latest recipes on this page.
+[インスタレーション](/gotchiverse#building-on-realm-parcels)をクラフトし、アップグレードしてより強力にすることは、ゴッチバースを体験する上で重要な要素です。 異なるインスタレーションをクラフト／アップグレードするのにそれぞれ“レシピ”があります。 このページでは、最新のレシピを紹介しています。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#crafting-duration>Crafting Duration</a></li>
-<li><a href=#aalchemical-aaltar>Aalchemical Aaltar</a></li>
-<li><a href=#gotchi-lodge>Gotchi Lodge</a></li>
-<li><a href=#fud-haarvester>FUD Haarvester</a></li>
-<li><a href=#fomo-haarvester>FOMO Haarvester</a></li>
-<li><a href=#alpha-haarvester>ALPHA Haarvester</a></li>
-<li><a href=#kek-haarvester>KEK Haarvester</a></li>
-<li><a href=#waall>Waall</a></li>
-<li><a href=#fud-reservoir>FUD Reservoir</a></li>
-<li><a href=#fomo-reservoir>FOMO Reservoir</a></li>
-<li><a href=#alpha-reservoir>ALPHA Reservoir</a></li>
-<li><a href=#kek-reservoir>KEK Reservoir</a></li>
-<li><a href=#le-golden-aaltar>LE Golden Aaltar</a></li>
-<li><a href=#le-golden-tiles>LE Golden Tiles</a></li>
-<li><a href=#maaker>Maaker</a></li>
+<li><a href=#crafting-duration>クラフト時間</a></li>
+<li><a href=#aalchemical-aaltar>アルケミカル・アールター</a></li>
+<li><a href=#gotchi-lodge>ゴッチロッジ</a></li>
+<li><a href=#fud-haarvester>FUDハーベスター</a></li>
+<li><a href=#fomo-haarvester>FOMOハーベスター</a></li>
+<li><a href=#alpha-haarvester>ALPHAハーベスター</a></li>
+<li><a href=#kek-haarvester>KEKハーベスター</a></li>
+<li><a href=#waall>ウォール</a></li>
+<li><a href=#fud-reservoir>FUDリザーバ</a></li>
+<li><a href=#fomo-reservoir>FOMOリザーバ</a></li>
+<li><a href=#alpha-reservoir>ALPHAリザーバ</a></li>
+<li><a href=#kek-reservoir>KEKリザーバ</a></li>
+<li><a href=#le-golden-aaltar>LEゴールデンアールター</a></li>
+<li><a href=#le-golden-tiles>LEゴールデンタイル</a></li>
+<li><a href=#maaker>メーカー</a></li>
 </ol>
 
 </div>
 
-## Crafting Duration
+## クラフト時間
 
 インスタレーションとそのアップグレードには「クラフト時間」があり、ポリゴンネットワークのブロック単位で計測されます。 1ブロックは人間時間で約2.2秒に相当します。 ほとんどのレベル1インスタレーションは、クラフトタイムが「Instant」（インスタント）になっており、すぐにクラフトされますが、クラフトタイムがインスタントよりも長いものは、時間が経ち完成するとオーナーに送信されます。
 
-This crafting/upgrading process can be accelerated by spending an in-game currency currently known as “GLTR” (but which will likely be renamed before launch). GLTRは、[ゴッチュスアルケミカ取引所](/gotchus-alchemica-exchange)でGHSTとゴッチュスアルケミカトークンの間の流動性を提供することで入手できます。
+このクラフト/アップグレードのプロセスは、現在「GLTR」と呼ばれるゲーム内通貨（ただし、発売前に名称が変更される可能性があります）を消費することで加速させることができます。 GLTRは、[ゴッチュスアルケミカ取引所](/gotchus-alchemica-exchange)でGHSTとゴッチュスアルケミカトークンの間の流動性を提供することで入手できます。
 
-## Aalchemical Aaltar
+## アルケミカル・アールター
 
-table_aalchemicalAaltar
+表_aalchemicalAaltar
 
-## Gotchi Lodge
+## ゴッチロッジ
 
-table_gotchiLodge
+表_gotchiLodge
 
-## FUD Haarvester
+## FUDハーベスター
 
-table_fudHaarvester
+表_fudHaarvester
 
-## FOMO Haarvester
+## FOMOハーベスター
 
-table_fomoHaarvester
+表_fomoHaarvester
 
-## ALPHA Haarvester
+## ALPHAハーベスター
 
-table_alphaHaarvester
+表_alphaHaarvester
 
-## KEK Haarvester
+## KEKハーベスター
 
-table_kekHaarvester
+表_kekHaarvester
 
-## Waall
+## ウォール
 
-table_waall
+表_waall
 
-## FUD Reservoir
+## FUDリザーバ
 
-table_fudReservoir
+表_fudReservoir
 
-## FOMO Reservoir
+## FOMOリザーバ
 
-table_fomoReservoir
+表_fomoReservoir
 
-## ALPHA Reservoir
+## ALPHAリザーバ
 
-table_alphaReservoir
+表_alphaReservoir
 
-## KEK Reservoir
+## KEKリザーバ
 
-table_kekReservoir
+表_kekReservoir
 
-## LE Golden Aaltar
+## LEゴールデンアールター
 
-table_goldenAaltar
+表_goldenAaltar
 
-## LE Golden Tiles
+## LEゴールデンタイル
 
-table_goldenTiles
+表_goldenTiles
 
-## Maaker
+## メーカー
 
-table_maaker
+表_maaker
