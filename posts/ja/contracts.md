@@ -56,4 +56,4 @@ contributors:
 
 * KEK トークンアドレス：[0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
 
-* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
+* wapGHST トークンアドレス： [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
