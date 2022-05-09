@@ -152,7 +152,7 @@ GBM™は、入札者が競り落とされたときにお金を稼ぐ独自の�
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible（ラリブル）</a></p>
 </div>
 
-コミュニティが運営する初のNFTマーケットプレイス。 Create, sell or collect digital items secured with blockchain.
+コミュニティが運営する初のNFTマーケットプレイス。 ブロックチェーンで保護されたデジタルアイテムを作成、販売、収集することができます。
 
 ### 収穫（イールド）ギルドゲーム
 
@@ -161,7 +161,7 @@ GBM™は、入札者が競り落とされたときにお金を稼ぐ独自の�
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">収穫（イールド）ギルドゲーム</a></p>
 </div>
 
-Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
+Yield Guild Games（YGG）は、NFTゲームを通じて稼ぐプレイヤーが集うPlay-To-Earn（プレイトゥアーン）ギルドです。 私たちはメタバースの開拓者です。
 
 ### BlackPool（ブラックプール）
 
@@ -170,13 +170,13 @@ Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool（ブラックプール）</a></p>
 </div>
 
-BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
+ブラックプールは、スポーツカード、ゲームアイテム、デジタルアートなど様々な資産を運用する、NFT業界における新しいファンドです。
 
-BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
+ブラックプールは、NFTのゲームと取引のためだけに作られた初の分散型自律組織（DAO）です。 私たちの戦略は、ゲームとアートに対する長期的な情熱に基づき、専門的なデータ解析と機械学習を組み合わせて、ユーザーに最高のリターンを提供します。
 
-We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
+私たちは、資産評価指標、リース、保険機構などのサービスを提供することで、デジタルマーケットプレイスに金融派生商品を提供する道を切り開きます。
 
-BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
+ブラックプールは希少なデジタル資産の長期的な価値を固く信じており、価値創出を最大化するためには、各NFTプラットフォームに高い専門性が必要であることを理解しています。 そのため、各プラットフォームのパフォーマンスを向上させるために、常に専門知識を採用することを目指します。
 
 ### Flamingo DAO（フラミンゴ・ダオ）
 
@@ -185,7 +185,7 @@ BlackPool firmly believes in the long term value of scarce digital assets, and u
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO（フラミンゴ・ダオ）</a></p>
 </div>
 
-An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
+NFTに特化したDAOで、ブロックチェーンベースの所有可能な資産への新たな投資機会を探ることを目的としています。 NFTは猫の写真だけではありません。 デジタルアート、コレクターズアイテム、ゲーム内資産、その他の有形資産も含まれます。 これらの新しい形態のデジタル資産は、オンラインデジタルコンテンツの作成、収益化、インセンティブ付与を支援する上で、ますます大きな役割を果たすようになることが予想されます。
 
 ### Mao DAO（マオ・ダオ）
 
@@ -194,4 +194,4 @@ An NFT-focused DAO that aims to explore emerging investment opportunities for ow
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO（マオ・ダオ）</a></p>
 </div>
 
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
+MAO DAOは、アジアにおけるPlay-to-Earnスペースを形成する上で主導権を握ることを目的とした新しいタイプのゲームDAOである。 彼らは、Axie Infinity（アクシーインフィニティー）を筆頭に、様々な既存のゲームに何百人ものプレイヤーを取り込んできました。 とりあえず、DAOの会員権、ガバナンス権の一部を表す当社の「Ready Player Cat NFT（レディープレイヤーキャットNFT）」を発売することにしました。
