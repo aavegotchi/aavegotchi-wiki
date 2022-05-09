@@ -54,9 +54,9 @@ Aavegotchiたちには6つの [特性](/traits) があります：
 
 * **イーサリアリティ：**“イーサリアリティ”、別名 "ガーストリーチャーム "は、ゴッチバース内の目に見えない妖力を利用する、ゴッチの天賦の才能。 高いイーサリアリティ（妖力）を持つゴッチは周囲に影響を及ぼし、攻撃を回避したり、クリティカルヒットを決めたり、壁をすり抜けたり、ゴッチバース内のほぼすべての偶然に基づく行動において有利な結果を生む可能性を高めます。 ある者は彼等を"ラッキー "と呼び、またある者は "デジェンズ "と呼ぶ・・・
 
-* **メレー・パワー（Melee Power）（近接戦闘力）：**ゴッチが装備している近接アビリティ（現時点ではハンドウェアのみ）の強さを決定する。 Influences not only the strength of melee hand wearables with damage abilities but also the strength of melee hand wearables with restorative, buff or debuff abilities.
+* **メレー・パワー（Melee Power）（近接戦闘力）：**ゴッチが装備している近接アビリティ（現時点ではハンドウェアのみ）の強さを決定する。 ダメージ系アビリティを持つ近接武器だけでなく、回復系、強化系（バフ系）、弱体化系（デバフ系）アビリティを持つ近接武器にも影響する。
 
-* **Ranged Power:** Determines the strength of ranged abilities (ranged hand wearables only at present) when equipped by a gotchi. Influences not only the strength of ranged hand wearables with damage abilities but also the strength of ranged hand wearables with restorative, buff or debuff abilities.
+* **射撃の威力：**ゴッチが装備した際の射撃アビリティの強さを決定します（現時点では射撃ハンドウェアのみ）。 ダメージ系だけでなく、回復系やバフ系、デバフ系のアビリティを持つ近接系のアビリティの強さにも影響します。
 
 ## 特性マッピング
 
@@ -64,14 +64,14 @@ Aavegotchiたちには6つの [特性](/traits) があります：
 
 ## 特性スケーリングシステム
 
-It is crucial to note that the way traits scale and change with increases/decreases to NRG, AGG, SPK and BRN shown in this version 2 trait map are still under discussion and not yet finalized. Two current proposed scaling models are:
+このバージョン2の特性マップに示されている、NRG、AGG、SPK、BRNの増減による特性のスケールと変化の方法は、まだ議論中であり最終決定ではないことに注意する必要があります。 現在提案されているスケーリングモデルは以下の2つです：
 
-* Yin/Yang e.g. 0 NRG gotchi has less AP and more HP than a 50 NRG gotchi
+* 陰/陽式 例：NRG0のゴッチはNRG50のゴッチよりAPが少なく、HPが多い。
 
-* Buff Only e.g. 0 NRG gotchi has the same AP and more HP than a 50 NRG gotchi
+* バフのみ 例：0 NRGゴッチは50 NRGゴッチと同じAPと高いHPを持つ。
 
-In addition, there are many ways these relationships can be modeled including linear, exponential, diminishing return curves and caps. This will be discussed with Pixelcraft Studios.
+さらに、これらの関係は、線形、指数、リターンが軽減していく曲線、キャップ付き、などなど、さまざまな方法でモデル化することができます。 これについては、Pixelcraft Studiosと協議する予定です。
 
 ## 資料
 
-* The [AavegotchiDAO](/dao) proposed and voted for an [alternative Gotchiverse Trait Map for NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
+* [AavegotchiDAO](/dao)は、[NRG、AGG、SPK、BRN用の代替ゴッチバース特性マップ](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)を提案し、投票しました。
