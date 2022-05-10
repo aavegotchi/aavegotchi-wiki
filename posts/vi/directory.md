@@ -103,6 +103,8 @@ contributors:
 
 * [Các Mùa Rarity Farming](/rarity-farming-seasons)
 
+* [Recipes](/recipes)
+
 * [Roadmap](/roadmap)
 
 * [Sets](/sets)

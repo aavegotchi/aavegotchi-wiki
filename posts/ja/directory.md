@@ -103,36 +103,38 @@ Avegotchi Wikiのページ一覧です：
 
 * [レアリティファーミングシーズン（Rarity Farming Seasons）](/rarity-farming-seasons)
 
-* [ロードマップ（Roadmap）](/roadmap)
+* [レシピ](/recipes)
+
+* [ロードマップ](/roadmap)
 
 * [セット（Sets）](/sets)
 
-* [ソーシャルメディア（Social Media）](/socialmedia)
+* [ソーシャルメディア](/socialmedia)
 
-* [スピリットフォース（Spirit Force）](/spirit-force)
+* [スピリットフォース](/spirit-force)
 
-* [スピリットフォース履歴（Spirit Force History）](/spirit-force-history)
+* [スピリットフォースの歴史](/spirit-force-history)
 
-* [ステーキング（Staking）](/staking)
+* [ステーキング](/staking)
 
-* [チーム（Team）](/team)
+* [チーム](/team)
 
-* [九人の達人（The Nine Aadepts）](/the-nine-aadepts)
+* [九人の達人](/the-nine-aadepts)
 
-* [チケット（Tickets）](/tickets)
+* [チケット](/tickets)
 
-* [トークノミックス（Tokenomics）](/tokenomics)
+* [トークノミックス](/tokenomics)
 
-* [特性マッピング（Trait Mappings）](/trait-mappings)
+* [特性マッピング](/trait-mappings)
 
-* [特性（Traits）](/traits)
+* [特性](/traits)
 
-* [チュートリアル（Tutorials）](/tutorials)
+* [チュートリアル](/tutorials)
 
-* [uGOTCHI コレクション（uGOTCHI Collection）](/ugotchi)
+* [uGOTCHI コレクション](/ugotchi)
 
-* [武器（Weapons）](/weapons)
+* [武器](/weapons)
 
-* [ウェアラブル（Wearables）](/wearables)
+* [ウェアラブル](/wearables)
 
 * [XP](/xp)

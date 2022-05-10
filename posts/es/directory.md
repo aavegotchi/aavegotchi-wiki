@@ -103,15 +103,17 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Temporada Rarity Farming](/rarity-farming-seasons)
 
+* [Fórmulas](/recipes)
+
 * [Hoja de ruta](/roadmap)
 
 * [Sets](/sets)
 
 * [Redes Sociales](/socialmedia)
 
-* [Fuerza Espiritual](/spirit-force)
+* [Spirit Force](/spirit-force)
 
-* [Historial de Fuerza Espiral](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -127,9 +129,9 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Rasgos](/traits)
 
-* [Tutoriales](/tutorials)
+* [Tutorials](/tutorials)
 
-* [colección uGOTCHI](/ugotchi)
+* [uGOTCHI Collection](/ugotchi)
 
 * [Armas](/weapons)
 

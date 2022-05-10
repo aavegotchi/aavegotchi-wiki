@@ -7,80 +7,80 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchiメタバースゲームプレイは近日公開予定です! Aavegotchiメタバースでは、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフレンズを作りましょう！
+Aavegotchiレルム（REALM）ゲームプレイは近日公開予定です！ Aavegotchiメタバース（＝ゴッチバース）では、社交からアルケミカチャネリングまで、たくさんの活動が行われます。 ギルド専用のアクティビティに参加して、もっと多くのフレンズを作りましょう！
 
 <div class="contentsBox">
 
-**内容**
+**目次**
 
 <ol>
-<li><a href=#accessing-a-guild>Accessing a Guild</a></li>
-<li><a href=#guild-channeling>Guild Channeling</a></li>
-<li><a href=#linking-your-guild-to-a-crest>Linking your Guild to a Crest</a></li>
-<li><a href=#list-of-guilds>List of Guilds</a></li>
-<li><a href=#guild-map>Guild Map</a></li>
+<li><a href=#accessing-a-guild>ギルドへのアクセス</a></li>
+<li><a href=#guild-channeling>ギルドチャネリング</a></li>
+<li><a href=#linking-your-guild-to-a-crest>ギルドとクレストをリンクさせる</a></li>
+<li><a href=#list-of-guilds>ギルド一覧</a></li>
+<li><a href=#guild-map>ギルドマップ</a></li>
 </ol>
 
 </div>
 
-## Accessing a Guild
+## ギルドへのアクセス
 
-Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
+ゴッチロッジ（Gotchi Lodge）は、"ギルドクレスト "を持つゴッチにのみアクセス可能です。 ギルドクレストとは、Aavegotchiが必ず持っているか、装備している必要がある特定のNFTのことです。
 
-By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).
+デフォルトでは、ゴッチロッジは適切なギルドクレストをポケットに入れているゴッチなら誰でもアクセスできます（オープンアクセス）が、ギルドはAavegotchiにメンバーシップの申請を要求する（アクセス制限）、あるいはメンバーシップを申請できるAavegotchiを指定（ホワイトリスト）することによって、特定のゴッチIDにアクセスを制限することも可能です。
 
-There are 2 types of Guild Crests:
+ギルドクレストには2種類あります：
 
-* **Wearables Crests**: An established Aavegotchi protocol ERC-1155 [Wearables](/wearables) (such as Common Rofl, or Aave Hero Mask) with limited supply.
+* **ウェアラブルクレスト：**AavegotchiプロトコルのERC-1155[ウェアラブル](/wearables)（コモン・ロッフル（Common Rofl）やアーヴェ・ヒーロー・マスク（Aave Hero Mask）など）が確立されており、供給が制限されています。
 
-* **Insignia Crests**: Special ERC-1155 NFTs without a fixed quantity that can be minted by Guild Owners and held by Aavegotchi members to allow access into a Gotchi Lodge.
+* **インシグニアクレスト：**ギルドオーナーによって鋳造され、Aavegotchiメンバーが持つことでゴッチロッジに入れる、一定量のない特別なERC-1155 NFTです。
 
-Each Gotchi Lodge can link one Insignia Crest and up to three Wearable Crests. The main difference between the two Crests is that **Wearable Crests** endow Guild Channeling privileges, whereas **Insignia Crests** only allow Guild access.
+各ゴッチロッジは、1つのインシグニアクレストと最大3つのウェアラブルクレストをリンクさせることができます。 2つのクレストの主な違いは、**インシグニア・クレスト**がギルドへのアクセスを許可するだけなのに対し、**ウェアラブル・クレスト**はギルド・チャネリングの特権を与えるという点です。
 
-## Guild Channeling
+## ギルドチャネリング
 
-Guild Channeling (also known as Communal Channeling) is a ritual that Guild members can engage in every week to summon Alchemica to rain down nearby from the Gotchiverse.
+ギルドチャネリング（コミュナル・チャネリングとも呼ばれる）は、ギルド・メンバーが毎週行える儀式で、ゴッチバースから近くにアルケミカを降らせるために召喚することができます。
 
-Alchemica earned is dependent on the following 3 factors:
+獲得できるアルケミカは以下の3つの要素に依存します：
 
-* **Base Channel Rate** – how much Alchemica is allocated, before any modifications
+* **基本チャンネルレート** - 変更前のアルケミカが割り当てられる量
 
-* **Gotchi Presence** – how many Guild members are present
+* **ゴッチの存在数** - ギルドメンバーが何人いるか。
 
-* **Wearable Crest Rarity** – the rarity of the Wearable used for channeling
+* **ウェアラブルクレストのレア度** - チャネリングに使用するウェアラブルのレア度
 
-The Base Channel Rate will initially be set at 20 FUD, 10 FOMO, 5 ALPHA, and 2 KEK. This Rate may need to be adjusted by the community over time to prevent going over the Alchemica budget for Alchemical Channeling (25% of total supply over the lifetime of the game, 50% of which is allocated to Guild Channeling).
+基本チャネリングレートは、当初20FUD、10FOMO、5ALPHA、2KEKに設定されます。 このレートは、アルケミカのチャネリング予算（ゲーム期間中の総供給量の25%、そのうち50%がギルドチャネリングに割り当てられる）を超過しないよう、時間の経過とともにコミュニティによって調整されることがあります。
 
-Every extra Aavegotchi holding the designated Wearable that joins in the ritual increases the total by the Base Channel Rate **Gotchi Presence**, which results in exponentially more Alchemica being dropped:
+指定されたウェアラブルを持つAavegotchiが儀式に参加するたびに、合計が基本チャネリング率の**ゴッチの存在数**だけ増加し、その結果、指数関数的に多くのアルケミカがドロップされるようになります。
 
-table_gotchiPresenceBonus
+表_gotchiPresenceBonus
 
-**Wearable Crest Rarity Multiplier** designates the base rate at which Alchemica is dropped:
+**ウェアラブルクレストレア度倍数（Wearable Crest Rarity Multiplier）**は、アルケミカがドロップされる基本レートを指定する。
 
-table_wearableMultiplier
+表_wearableMultiplier
 
-## Linking your Guild to a Crest
+## ギルドとクレストをリンクさせる
 
-*Wearable Crests*
+*ウェアラブルクレスト*
 
-A Gotchi Lodge has to link with a Wearable Crest on-chain before it can engage in Alchemical Channeling. Initially, only **one** Guild can use each Wearable.
+ゴッチロッジは、アルケミカルチャネリングを行う前に、オンチェーンのウェアラブルクレストとリンクする必要があります。 最初は、**1つ**のギルドが1つのクレストを使用することができます。
 
-A Gotchi Lodge will be considered “linked” with its Wearable Crest if its [REALM parcel](/gotchiverse#realm-parcel-sizes) holds a special ERC-1155 Wearable Crest NFT onchain.
+ゴッチロッジは、その[レルム区画](/gotchiverse#realm-parcel-sizes)が特別なERC-1155ウェアラブルクレストNFTをオンチェーンに保持していれば、そのウェアラブルクレストと「リンク」しているとみなされます。
 
-This ERC-1155 Crest cannot be purchased off the open market, but must be won in a [Bid-to-earn Auction](/aauction) using GLTR. Auctions will be held every **three months** for all Wearable Crests, and the winners of those auctions will automatically be transferred the Wearable Crests on-chain, thus earning their Guild the privilege to engage in Guild Channeling.
+このERC-1155クレストは一般市場では購入できませんが、GLTRを使用した[Bid-to-earn（ビッドトゥーアーン）オークション](/aauction)で落札する必要があります。 オークションはすべてのウェアラブルクレストについて**3ヶ月**おきに開催され、オークションの落札者は自動的にウェアラブルクレストをオンチェーンに転送され、そのギルドはギルドチャネリングに従事する特権を獲得することができます。
 
-This gives a strong incentive for Guilds to hold and LP their Alchemica, to continue earning GLTR, and providing Guild Channeling for their members.
+これにより、ギルドはアルケミカを保有したりLPにしたりすることで、GLTRを獲得し続け、ギルドチャネリングをメンバーに提供する強い動機付けができます。
 
-*Insignia Crests*
+*インシグニアクレスト*
 
-Each Gotchi Lodge can mint an onchain ERC-1155 Insignia Crest for its members, to allow access to the Lodge without holding the Wearable Crest. The Lodge owner can update the Crest metadata to change the name and appearance of the Crest, but not the Crest’s onchain ID.
+各ゴッチロッジは、そのメンバーのためにオンチェーンERC-1155インシグニアクレストを鋳造し、ウェアラブルクレストを持たずにロッジにアクセスできるようにすることができます。 ロッジのオーナーはクレストのメタデータを更新して、クレストの名前と外観を変更することができますが、クレストのオンチェーンIDを変更することはできません。
 
-## List of Guilds
+## ギルド一覧
 
-table_guild
+表_guild
 
-## Guild Map
+## ギルドマップ
 
-Guilds organize themselves in districts. The following guild map has been compiled by MonsterRNG#3333 of Avid Aavegotchis
+ギルドは地区（ディストリクト）単位で組織されています。 以下のギルドマップはAvid AavegotchisのMonsterRNG#3333によって作成されたものです。
 
-<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guild Map" />
+<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchiギルドマップ" />

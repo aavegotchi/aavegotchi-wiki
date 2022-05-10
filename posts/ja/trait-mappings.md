@@ -16,7 +16,7 @@ Aavegotchiたちには6つの [特性](/traits) があります：
 * EYS＝アイ・シェイプ（目の形）
 * EYC＝アイ・カラー（目の色）
 
-How exactly do these traits map out to actual gameplay in the [Gotchiverse](/gotchiverse)? Read on for the details.
+これらの特性は、[ゴッチバース（Gotchiverse）](/gotchiverse)の実際のゲームプレイにどのようにマッピングされるのでしょうか？ 詳しくはこちらをご覧ください。
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/trait-mappings/gotchiverse-trait-map.jpg">
@@ -38,25 +38,25 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 ## ゴッチバースでの特性の定義
 
-* **HP Capacity:** A gotchi’s base level of hit points (HP). A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
+* **HP容量：**ゴッチの基本的なヒットポイント（HP）です。 HPが高いほどスタミナも高くなり、戦場を駆け抜けられるため、強力な特性である。
 
-* **AP Capacity:** A gotchi’s base level of action points (AP). Every physical attack, spell and ability (including teleportation) in the Gotchiverse will require the consumption of AP. The moar AP a gotchi has, the moar consecutive abilities they can unleash. Uber abilities will also require moar AP to execute so if you don’t know any high NRG gotchis yet, we suggest you start networking!
+* **AP容量：**ゴッチの基本的なアクションポイント(AP)です。 ゴッチバースでのあらゆる物理攻撃、呪文、能力（テレポートを含む）はAPを消費する必要があります。 APが多ければ多いほど、より多くの連続した能力を発揮できます。 超大技の実行にもより多くのAPを必要とするので、まだ高NRGのゴッチを知らない人は、ネットワーク作りを始めることをお勧めします。
 
-* **Defense Power:** Determines a gotchi’s base level of “toughness” and also dictates the effectiveness of the armor they have equipped. E.g. If you were to equip magic type armor on your gotchi, high Defense Power would increase the base magical resistance of that armor.
+* **防御力（ディフェンス・パワー）：**ゴッチの基本的な "タフネス "のレベルを決定し、また装備しているアーマーの効果も決定します。 例： 魔法タイプの防具を装備している場合、防御力が高ければ、その防具の魔法耐性が高くなります。
 
-* **Action Speed:** Different physical attacks, spells and abilities will all have different base cool down durations in the Gotchiverse. The higher a gotchi’s action speed, the shorter these cooldown durations become.
+* **行動速度（アクション・スピード）：**ゴッチバースでは、物理攻撃、呪文、アビリティの基本クールダウン時間がすべて異なっています。 ゴッチの行動速度が高ければ高いほど、これらのクールダウンの時間は短くなります。
 
-    * Example 1 - Physical attacks for a melee dagger would likely have a shorter cooldown than a melee spirit sword (as it’s more powerful than the dagger) when used by the same gotchi.
+    * 例1 - 同じゴッチで、短剣と霊剣の物理攻撃を比較した場合、より強力な霊剣の物理攻撃よりも弱い短剣のクールダウンスピードが早い。
 
-    * Example 2 - Two different gotchis with different action speeds both equipped with melee daggers would have different dagger cooldown durations.
+    * 例2 - 行動速度の異なる二匹のゴッチが近接ダガーを装備した場合、ダガーのクールダウンの持続時間は異なる。
 
-* **Regen (HP & AP):** Gotchis at the low end of the SPK spectrum are more cuddly and introverted than their high SPK siblings. As a result, they tend to concentrate their energy on themselves and can quickly regenerate HP & AP. A truly useful personal aid!
+* **リジェネ（HPとAP）：**SPKの低いゴッチは、高いSPKの兄弟よりもかわいらしく、内向的です。 そのため、自分自身にエネルギーを集中させる傾向があり、HPとAPを素早く回復させることができます。 本当に役に立つやつだ！
 
-* **Ethereality:** “Ethereality” aka “Ghastly Charm” is a gotchis natural ability to tap into the unseen spectral forces within the Gotchiverse. A gotchi with high ethereality exerts influence on its surroundings to improve its chances of evading attacks, landing critical strikes, slipping through walls and producing favorable outcomes in nearly all chance based actions throughout the Gotchiverse. Some call them “Lucky”… most call them “Degens”…
+* **イーサリアリティ：**“イーサリアリティ”、別名 "ガーストリーチャーム "は、ゴッチバース内の目に見えない妖力を利用する、ゴッチの天賦の才能。 高いイーサリアリティ（妖力）を持つゴッチは周囲に影響を及ぼし、攻撃を回避したり、クリティカルヒットを決めたり、壁をすり抜けたり、ゴッチバース内のほぼすべての偶然に基づく行動において有利な結果を生む可能性を高めます。 ある者は彼等を"ラッキー "と呼び、またある者は "デジェンズ "と呼ぶ・・・
 
-* **Melee Power:** Determines the strength of melee abilities (hand wearables only at present) when equipped by a gotchi. Influences not only the strength of melee hand wearables with damage abilities but also the strength of melee hand wearables with restorative, buff or debuff abilities.
+* **メレー・パワー（Melee Power）（近接戦闘力）：**ゴッチが装備している近接アビリティ（現時点ではハンドウェアのみ）の強さを決定する。 ダメージ系アビリティを持つ近接武器だけでなく、回復系、強化系（バフ系）、弱体化系（デバフ系）アビリティを持つ近接武器にも影響する。
 
-* **Ranged Power:** Determines the strength of ranged abilities (ranged hand wearables only at present) when equipped by a gotchi. Influences not only the strength of ranged hand wearables with damage abilities but also the strength of ranged hand wearables with restorative, buff or debuff abilities.
+* **射撃の威力：**ゴッチが装備した際の射撃アビリティの強さを決定します（現時点では射撃ハンドウェアのみ）。 ダメージ系だけでなく、回復系やバフ系、デバフ系のアビリティを持つ近接系のアビリティの強さにも影響します。
 
 ## 特性マッピング
 
@@ -64,14 +64,14 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 ## 特性スケーリングシステム
 
-It is crucial to note that the way traits scale and change with increases/decreases to NRG, AGG, SPK and BRN shown in this version 2 trait map are still under discussion and not yet finalized. Two current proposed scaling models are:
+このバージョン2の特性マップに示されている、NRG、AGG、SPK、BRNの増減による特性のスケールと変化の方法は、まだ議論中であり最終決定ではないことに注意する必要があります。 現在提案されているスケーリングモデルは以下の2つです：
 
-* Yin/Yang e.g. 0 NRG gotchi has less AP and more HP than a 50 NRG gotchi
+* 陰/陽式 例：NRG0のゴッチはNRG50のゴッチよりAPが少なく、HPが多い。
 
-* Buff Only e.g. 0 NRG gotchi has the same AP and more HP than a 50 NRG gotchi
+* バフのみ 例：0 NRGゴッチは50 NRGゴッチと同じAPと高いHPを持つ。
 
-In addition, there are many ways these relationships can be modeled including linear, exponential, diminishing return curves and caps. This will be discussed with Pixelcraft Studios.
+さらに、これらの関係は、線形、指数、リターンが軽減していく曲線、キャップ付き、などなど、さまざまな方法でモデル化することができます。 これについては、Pixelcraft Studiosと協議する予定です。
 
 ## 資料
 
-* The [AavegotchiDAO](/dao) proposed and voted for an [alternative Gotchiverse Trait Map for NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
+* [AavegotchiDAO](/dao)は、[NRG、AGG、SPK、BRN用の代替ゴッチバース特性マップ](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)を提案し、投票しました。

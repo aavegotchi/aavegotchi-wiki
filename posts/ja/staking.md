@@ -47,17 +47,19 @@ GHSTトークンを手に入れたら、[ステーキングページ](https://aa
 
 <img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "GHST ステーキング UI" />
 
-ステーキングの方法は5つあります：
+ステーキングの方法は6つあります：
 
 1. GHST
 
-2. GHST-QUICK
+2. wapGHST
 
-3. GHST-USDC
+3. GHST-QUICK
 
-4. GHST-ETH
+4. GHST-USDC
 
-5. GHST-MATIC
+5. GHST-ETH
+
+6. GHST-MATIC
 
 **重要: メインネットでのステーキングは終了しました。 ステーキングを解除し、Polygonで再ステーキングを行ってください。**
 
@@ -80,6 +82,20 @@ GHSTトークンを手に入れたら、[ステーキングページ](https://aa
 * ステップ7：入金したいGHSTの金額を入力します。 なんと！ これで完了です！
 
 *この方法で1GHSTをステークするごとに、1FRENS / Dayを受け取ることができます。*
+
+### wapGHSTのステーキング
+
+wapGHSTは、Wrapped Aave Polygon GHSTの略です。 GHSTを直接ステークするのと同じFRENSレートを提供し、さらにGHSTトークンを貸し出してAaveプラットフォーム上で追加の利回りを得ることができます。
+
+ステーカーはAaveを訪問する必要はありません。 トークンを承認し、wrap GHSTをクリックして、GHSTをwapGHSTにラップ/アンラップするだけでよいのです。
+
+*注：発生したAPYは、wapGHSTの残高には表示されません。 むしろ、アンラッププロセス中（バニラGHSTに戻ったとき）にGHSTの残高に発生します。*
+
+* ステップ1： [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)にアクセスします。
+
+* ステップ2：あなたのGHSTトークンを使用する契約を承認します。
+
+* ステップ3：あなたのGHSTをwapGHSTにラップします。
 
 ### GHST-QUICKとGHST-USDCのステーキング
 
@@ -113,10 +129,6 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 * ステップ5：お返しにFRENSポイントを獲得し、stkGHST-WETHトークンを入手します。
 
-* ステップ6：[dinoswap.exchange](https://dinoswap.exchange/) > Fossil Farmsに入金し、DINOをファームします。
-
-* ボーナス：DINOをGHST Extinction Poolに送ると、さらにGHSTを獲得できます。
-
 この方法で1GHST-ETH LPトークンをステークするごとに、1,208万FRENS /日（GHSTをステークするよりも20％多く）を受け取ることができます。
 
 ### GHST-MATICのステーキング
@@ -135,24 +147,20 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 <img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHSTからMaticへのチートシート" />
 
-* GHST-ETHステーキング
-
-<img class = "bodyImage" src = "/staking/aavegotchi-dinoswap-lp-cheatsheet.png" alt = "Aavegotchi X DinoSwap LPチートシート" />
-
 ### ステーキング利益表
 
 下の表は、GHSTを直接ステーキングした場合の基準に対して、ステーキングリターン（FRENS換算）をパーセンテージでまとめたものです。
 
 なお、Pixelcraftチームは、システムのバランスを取るために、FRENSの金額を随時更新することがあります。
 
-表_ステーキングリターン
+表_stakingReturn
 
 ## ステーキング・コントラクト・アドレス
 
 次の表は、Polygon上の様々なステーキングコントラクトのアドレスを示しています。 ghstStakingとstkGHSTQUICKの契約は同じ契約アドレスを共有しています。 取引を確定する前に、まず契約書のアドレスを確認してください。
 
-表_ステーキング・コンタクト・アドレス
+表_stakingContractAddresses
 
-## 次は何をする？
+## 次は何をするの？
 
 さて、FRENSを手に入れましたか？ [チケットのページ](/tickets)に行き、FRENSでチケットを購入する方法とラッフルに参加する方法を学んでください。

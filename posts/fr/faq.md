@@ -23,9 +23,11 @@ contributors:
 <ol>
 <li><a href=#general-faq>Foire aux questions générale</a></li>
 <p><a href=#what-is-an-aavegotchi->What is an Aavegotchi?</a></p>
+<p><a href=#how-do-i-get-started->How do I get started?</a></p>
+<p><a href=#how-do-i-care-for-an-aavegotchi->How do I care for an Aavegotchi?</a></p>
+<p><a href=#how-do-i-play-in-the-realm->How do I play in the REALM?</a></p>
 <p><a href=#what-blockchain-is-aavegotchi-on->What blockchain is Aavegotchi on?</a></p>
 <p><a href=#is-aavegotchi-an-official-aave-project--how-much-is-aave-involved->Is Aavegotchi an official Aave project? How much is Aave involved?</a></p>
-<p><a href=#how-do-i-get-an-aavegotchi->How do I get an Aavegotchi?</a></p>
 <p><a href=#can-aavegotchis-be-traded-sold-bought->Can Aavegotchis be traded/sold/bought?</a></p>
 <p><a href=#what-is-the-gotchiverse->What is the Gotchiverse?</a></p>
 <p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
@@ -142,6 +144,21 @@ contributors:
 
 Aavegotchi is an open-source, community owned NFT gaming protocol, enabling true asset ownership for gamers. Aavegotchi NFTs are on-chain collectible ghosts staked with Aave’s interest-generating aTokens.
 
+### How do I get started?
+
+There are a few ways to get started:
+
+* [Borrowing](/gotchi-lending) an Aavegotchi from someone who has one
+* Buying an Aavegotchi from the [Baazaar](/baazaar)
+
+### How do I care for an Aavegotchi?
+
+By petting them every 12 hours!
+
+### How do I play in the REALM?
+
+Once you have a gotchi in your wallet, REALM gameplay is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
+
 ### What blockchain is Aavegotchi on?
 
 Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
@@ -149,10 +166,6 @@ Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
 ### Is Aavegotchi an official Aave project? How much is Aave involved?
 
 Aavegotchi is a recipient of an Aave Ecosystem Grant, but we are not an official Aave project. However, Aave has been extremely helpful and we’re in close contact with the team. In fact, Stani Kulechov, the founder of Aave, was our first advisor.
-
-### How do I get an Aavegotchi?
-
-There are two ways to purchase an Aavegotchi. The first is to purchase a [Portal](/portals) during a new [Haunt](/haunt) and then summon an Aavegotchi. The second is to head over to the Aavegotchi [Baazaar](/baazaar), our secondary NFT marketplace, and either purchase a Portal or a summoned Aavegotchi.
 
 ### Can Aavegotchis be traded/sold/bought?
 
