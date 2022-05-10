@@ -12,58 +12,58 @@ contributors:
 <p class="headerImageText">Estaates（エステート）</p>
 </div>
 
-A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
+[ゴッチバースエステート（Gotchiverse Estaate）](/gotchiverse)とは、ゲーム内のリンクシステムによって結ばれた2つ以上のレルム区画のことです。 リンクされた区画の端にはウォール（Waall）を建設することができ、複数の区画を完全に囲めるため、侵入者を防ぐのに役立ちます。
 
-Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they allow for privacy, protection, and convenience.
+[ギルド](/guild)や大規模な土地を所有するオーナーにとって、プライバシー、防衛、利便性を高めるため、エステートは最適な場所です。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#benefits-of-estaates>Benefits of Estaates</a></li>
-<li><a href=#general-building-rules>General Building Rules</a></li>
-<li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
-<li><a href=#examples>Examples</a></li>
+<li><a href=#benefits-of-estaates>エステートのメリット</a></li>
+<li><a href=#general-building-rules>一般的な建築ルール</a></li>
+<li><a href=#estaate-building--connection-waall--rules>エステート建築「コネクションウォール」ルール</a></li>
+<li><a href=#examples>例</a></li>
 </ol>
 
 </div>
 
-## Benefits of Estaates
+## エステートのメリット
 
-Creating an Estaate gives:
+エスタートを作ると、以下のようなメリットがあります：
 
-* Visibility - Everyone to see the link(s).
+* 可視性 - 誰もがそのリンクを見られる。
 
-* Protection - Owner can protect the Estaate perimeter by equipping Waalls.
+* 防衛 - オーナーは、ウォールを装備することで、エステート周辺を防衛できる。
 
-* Convenience: Owner can empty all Reservoirs in the Estaate at the same time, instead of one by one.
+* 利便性 - エステート内のリザーバ（Reservoir）を、1つ1つ空けるのではなく、すべて同時に空にすることができます。
 
-## General Building Rules
+## 一般的な建築ルール
 
-1: Ownership
+1：所有権
 
-* The selected parcels must be owned by the same player.
-* Each parcel can be a part of only one Estaate.
-* An owner can create any number of Estaates
+* 選択した区画は、同じプレーヤーが所有していなければなりません。
+* 各区画は1つのエステートにのみ属することができます。
+* 1人のオーナーはいくつでもエステートを作ることができます。
 
-2: Types
+2：種類
 
-* All types of parcels can be included in an Estaate.
+* すべての種類の区画を1つのエステートに含めることができます。
 
-3: Proximity
+3：近接度
 
-* Parcels up to 8* gotchis away from each other can be linked (this number will likely be tuned).
+* 最大で8*ゴッチ分離れた区画を連結することができます（この数値は今後調整される予定です）。
 
-4: Alignment
+4：整列
 
-* Parcels need not be lined up to one another to link.
+* 区画は互いに並んでいる必要はありません。
 
-5: Quantity
+5：数量
 
-* Lodge Level determines the number of parcels that can be linked together.
+* ロッジレベル（Lodge Level）によって、リンクできる区画の数が決まります。
 
-6: Clearance
+6：クリアランス
 
 Things that **BLOCK** linking include:
 * Items with impassable Collision (walls, towers, etc.)
@@ -96,7 +96,7 @@ Things that do **NOT block** linking include:
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 
-## Estaate Building “Connection Waall” Rules
+## エステート建築「コネクションウォール」ルール
 
 One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
 
@@ -130,7 +130,7 @@ One of the tangible gameplay benefits of creating an Estaate is the ability for 
 
     * Unequips 1 Wall on either side of the Connection Waall
 
-## Examples
+## 例
 
 There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
 
