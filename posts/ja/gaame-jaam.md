@@ -12,36 +12,36 @@ contributors:
 <p class="headerImageText">Gaame Jaam（ゲーム・ジャム）</p>
 </div>
 
-2021年9月1日から5日にかけて、Aavegotchi Gaame Jaam/Hackathon（ゲーム・ジャム／ハッカソン）が開催されました。 ゲーム開発者がハッカソンに参加し、独自の [ミニゲーム](/minigames)を作成しました。 Get the inside scoop of the Gaame Jaam here!
+2021年9月1日から5日にかけて、Aavegotchi Gaame Jaam/Hackathon（ゲーム・ジャム／ハッカソン）が開催されました。 ゲーム開発者の卵たちが、自分だけの[ミニゲーム](/minigames)を作るためにハッカソンに参加しました。 ゲーム・ジャムの様子はこちらでご覧いただけます。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#rules>Rules</a></li>
-<li><a href=#sponsors>Sponsors</a></li>
-<li><a href=#prizes>Prizes</a></li>
-<li><a href=#judges>Judges</a></li>
-<li><a href=#participants>Participants</a></li>
+<li><a href=#rules>ルール</a></li>
+<li><a href=#sponsors>スポンサー</a></li>
+<li><a href=#prizes>賞品</a></li>
+<li><a href=#judges>審査員</a></li>
+<li><a href=#participants>参加者</a></li>
 </ol>
 
 </div>
 
-## Rules
+## ルール
 
-* Game must use Web3 to be able to fetch and play as their Aavegotchis.
-* Be built in a web based framework (like Phaser) to allow for seamless Metamask integration
-* Max team size of 4
-* Owning an Aavegotchi isn’t necessary for building the games
-* Moralis prize pool requires the use of a Moralis tool
+* ゲームはWeb3を使用し、Aavegotchiたちを取得しプレイできること。
+* Webベースのフレームワーク（Phaserなど）で構築され、Metamaskをシームレスに統合できること。
+* チームの最大人数は4名です。
+* Aavegotchiを所有している必要はありません。
+* Moralisの賞金プールは、Moralisのツールを使用する必要があります。
 
-## Sponsors
+## スポンサー
 
-* [Moralis](https://moralis.io/)
-* [Polygon Studios](https://polygonstudios.com/)
+* [Moralis（モラリス）](https://moralis.io/)
+* [Polygon Studios（ポリゴン・スタジオ）](https://polygonstudios.com/)
 
-## Prizes
+## 賞品
 
 * 10k USD worth of prizes, all paid in [GHST](/ghst)
 * $5000 is set aside for the top three general winners and $5000 more rewards are allocated to builders who build making use of Moralis tools
@@ -49,7 +49,7 @@ contributors:
 
 <img class = "bodyImage" src = "/gaame-jaam/gaame-jaam-rewards.png" alt = "Aavegotchi Gaame Jaam Rewards" />
 
-## Judges
+## 審査員
 
 * The one and only Ivan on Tech
 * The “No NFT, no play” gaming revolutionary Cagyjan
@@ -57,7 +57,7 @@ contributors:
 * Aavegotchi’s lead summoner [Coder Dan](/team#coder-dan)
 * Pixelcraft Studio’s Dev Evangelist, [Coyote](/team#coyote)
 
-## Participants
+## 参加者
 
 ### GOTCHIMINER by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
