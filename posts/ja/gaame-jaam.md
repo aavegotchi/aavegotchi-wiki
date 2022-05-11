@@ -1,18 +1,18 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gaame Jaam'
-description: 'Aavegotchi Gaame Jaam'
+title: 'Gaame Jaam（ゲーム・ジャム）'
+description: 'Aavegotchiゲームジャム'
 contributors:
   - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/gaame-jaam/aavegotchi-gaame-jaam.png">
-<p class="headerImageText">Gaame Jaam</p>
+<p class="headerImageText">Gaame Jaam（ゲーム・ジャム）</p>
 </div>
 
-The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
+2021年9月1日から5日にかけて、Aavegotchi Gaame Jaam/Hackathon（ゲーム・ジャム／ハッカソン）が開催されました。 ゲーム開発者がハッカソンに参加し、独自の [ミニゲーム](/minigames)を作成しました。 Get the inside scoop of the Gaame Jaam here!
 
 <div class="contentsBox">
 
