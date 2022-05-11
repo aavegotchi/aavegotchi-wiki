@@ -198,21 +198,21 @@ Aavegotchiたちは仲間との交流が大好きで、その中でもお気に�
 
 **レシピ**
 
-インスタレーションをクラフトしてより強力にアップグレードしていくのはゴッチバース体験の重要な部分を占めます。 インスタレーションによって、クラフトやアップグレードに必要な「レシピ」が異なるのですが、アデプト（先人）達が便利なレシピ本を残してくれてます。 You can find the latest Recipes [here](/recipes).
+インスタレーションをクラフトしてより強力にアップグレードしていくのはゴッチバース体験の重要な部分を占めます。 インスタレーションによって、クラフトやアップグレードに必要な「レシピ」が異なるのですが、アデプト（先人）達が便利なレシピ本を残してくれてます。 最新のレシピ は[こちら](/recipes) をご覧ください。
 
-**Harvest Rate, Capacity, and Spillover**
+**収穫レート、生産量、こぼれる量について**
 
-Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+ハーベスターとリザーバーは、ゴッチバースの地中からアルケミカを採掘するための特別なインスタレーションです。
 
-Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+各ハーベスターは1種類のアルケミカを採取でき、各リザーバーは1種類のアルケミカを一定量保持できる。 インスタレーションのレベルが上がると、収穫量と容量が増加する。
 
-**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**こぼれる量**とは、リザーバーからアルケミカを採取する際に、どれくらいの量と距離にアルケミカが溢れるのかが決定されるリザーバーの特性です。 低レベルのリザーバーでは、こぼれる量とこぼれる半径が大きく、アップグレードするとこぼれる量が減少します。
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+正確な収穫率、容量、流出率については、[こちら](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf)のレシピブックを参照してください。
 
-**Removing Installations**
+**インスタレーションを削除する**
 
-Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
+一度区画に追加された設備は、アップグレードや削除が可能です。 削除とともに裏にあるNFTも破壊されますが、その設備とアップグレードに費やしてきたアルケミカの50%が所有者の元に返却されます。
 
 ### クラフティングの収益分配
 
@@ -263,11 +263,11 @@ Aavegotchi Protocolの運営団体である**AavegotchiDAO**は、クラフト�
 
 ### ドロップチケット
 
-ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケットは、Aavegotchiポータルやレルムパーケルが当たるNFTラッフルに**1回**参加できるチケットです。
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchiドロップチケットとレルム区画" />
 
-There are three ways to get Drop Tickets:
+ドロップチケットの入手方法は3つあります：
 
 * 10,000 FRENSを1枚のドロップチケットに変換する
 * 他のラッフルチケットをドロップチケットに変換する
@@ -275,18 +275,18 @@ There are three ways to get Drop Tickets:
 
 ### 区画ブースト
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+レルム区画には、区画ブーストが付いているものがあります。 区画ブーストは、ゴッチバース内のアルケミカのスポットに隣接するレルム区画についてきます。 Chainlink VRFによってランダムに与えられる調査済みのアルケミカとは異なり、区画ブーストは、調査後に区画の合計アルケミカに追加されるアルケミカの基本量です。
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+アルケミカブーストの量は、FUD、FOMO、ALPHA、KEKそれぞれ1000、500、250、100となっています。
 
-table_alchemicalBoostsAndAmountPerLocation
+表_alchemicalBoostsAndAmountPerLocation
 
-**Replenishings**
+**補充方法**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+第1幕の各大戦の後、プレイヤーは再び自分の区画を調査し、より多くのアルケミカを手に入れることができます。 上記のブースト量は、各測量ラウンドでプレイヤーがロールした量に加算されます。
 
-**Alchemica Bubble Ups**
+**アルケミカバブルアップ**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+バブルアップのコンセプトは、Paatch 0.1c（パッチ0.1c）で議論されたブースト量増加案の否決から生まれたものです。 アルケミカバブルアップは、ブーストにさらなる有用性を与えるが、プレイヤーはバブルアップしたアルケミカを積極的に収穫する必要がある。
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+アルケミカバブルアップは、ゴッチバースのアルケミカの上にアルケミカが散発的に出現するイベントで、特にアクティブな区画の近くに出現します。 注目すべきは、これらのアルケミカのリリースをサポートするのは**Pixelcraftのゲームプレイ既得のリリース配分**であるが、AavegotchiDAOはその量を補うために投票することも可能である。
