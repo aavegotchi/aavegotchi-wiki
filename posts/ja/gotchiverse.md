@@ -216,50 +216,50 @@ Once an Installation is added to a Parcel, it can be upgraded or removed. Removi
 
 ### クラフティングの収益分配
 
-Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+ゴッチバース内でインスタレーション、アップグレード、その他のアイテムがクラフトされるたびに、その元となるアルケミカが4つの場所に送られます：
 
 * グレートポータル (35%)
 * ピクセルクラフト(30%)
 * DAO (30%)
 * 削除（バーン）(5%)
 
-**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+**グレートポータル**は、ゴッチバースの心臓部です。 ゴッチバースでアイテムが作られるたびに、そのアルケミカの35％がゲーム内で最も重要なポータルに捕獲されます。 グレートポータルの宝庫が膨れ上がると、大予言の日がやってくる...。
 
-*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+*容量を超える供給は、新しいトークンをミントする代わりに、アルケミカルチャネリングによって再分配されます。*
 
-Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+グレートポータルの容量を超えるアルケミカは、アルケミカルチャネリングとグループチャネリングによってエコシステムに再利用され、新しいトークンのミント速度が遅くなります。
 
-Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+初めは、グレートポータルの容量は全供給量の1%ですが、AavegotchiDAOによって変更することができます。 AavegotchiDAOといえば...
 
-**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+Aavegotchi Protocolの運営団体である**AavegotchiDAO**は、クラフトされたアルケミカの分配金の30％を受け取ります。 このアルケミカの残高は、コミュニティが財務管理に直接関与し、これらのトークンをプロトコルのために働かせる強力な機会を意味します。
 
-**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+ゴッチバースの開発会社である**Pixelcraft Studios**も、クラフトされたアルケミカの30％を受け取ります。 これらのアルケミカの残高は、Aavegotchiプロトコルとゴッチバースゲームの成長をサポートするあらゆる活動にすぐに活用することができます。 ダイヤモンドを手に入れるだけでなく、ユーザー獲得、戦略的配分、マーケティング活動など、アルケミカを活用する方法はさまざまです。
 
-**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+**5%のトークン・バーン**は、このクラフティング収益分配計画の最頂点です。 このような重要なバーンは、アルケミカのインフレの様々な波を相殺するのに役立ちます。 アルケミカのインフレというのは例えば、プレイヤー採用の急増から来たり、グレートバトルなどのアルケミカルイベントの計画、または非常に幸運なレルム区画の調査などによるものです。
 
 ## レルム トークノミクス
 
 ### 総供給量
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+レルムの総供給量は420,069個です。 はじめは、155,069個のレルムがアンロックされ、2年間（第1幕）にわたって配布される予定です。 これらはシタデルとグリッドを構成します。 残りのレルムは現在、ビヨンドと呼ばれるエリアにまだ隠されています。 特定のゲームのマイルストーンに到達すると、これらのレルムは、新しいゲーム体験を提供するためにロック解除されます（第2-3幕）。
 
 ### 配布方法
 
-REALM Parcels will be distributed in two main ways:
+レルム区画は、大きく分けて2つの方法で配布される予定です：
 
-Method 1: Incentivized GBM Auctions (80%)
+方法1：インセンティブ付きGBMオークション(80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft Studios（ピクんセルクラフトスタジオ）は召喚第２, ランドセールさらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用する正式なライセンスとされています
+レルム区画の主な配布方法は、インセンティブ付きの GBM オークションシステムです。 参加者は、ゴッチバースの世界地図から特定の区画を選択し、入札することができます。 GBMオークションでは、参加者はNFTを落札できなくても、参加することでGHSTを獲得することができます。 2019年にCryptographsによって最初に開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft Studios（ピクんセルクラフトスタジオ）は召喚第２, ランドセールさらにはアイテムやウエラブルを含むすべてのAavegotchi NFTのためにそれを使用する正式なライセンスとされています。
 
-Check out our [Aauction page](/aauction) for more information.
+詳細については、 [オークションページ](/aauction) をご覧ください。
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+この画期的なオークションモデルは、FCFS（First Come First Serve）（早い者勝ち）ドロップの多くの問題を解決していますが、当然ながら、投資資金の多い人が有利になるのは変わりません。
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+そこでチームは、残りの20%のレルム区画を、Chainlink VRFを利用したラッフル（抽選）で提供することを決定しました。
 
-Method 2: Raffle (20%)
+方法2：ラッフル抽選会（20%）
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+レルム区画の二次配布方法として、Chainlink VRFを使用したラッフル抽選会を実施します。 参加者は、ポータルやレルムの抽選に使用するドロップチケットで応募します。 ドロップチケットは、召喚されたAavegotchiを持ってミッションに参加したり、FRENSポイントや他の[ラッフルチケット](/staking#purchasing-raffle-tickets)に交換することで獲得できます。ドロップチケット１枚は１万FRENSします。 今すぐ[GHSTをステーク](/staking)してFRENSポイントを貯めましょう。
 
 ### ドロップチケット
 
