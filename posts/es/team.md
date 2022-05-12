@@ -41,6 +41,7 @@ contributors:
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
+<p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
@@ -205,6 +206,16 @@ Caleb, dubbed Coyote due to that being his middle name, joined the fray in early
 Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+
+### Wit1990 - Senior Solidity Engineer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/wit1990.jpg" alt = "Witt1990">
+<p class="leftImageText"><a>Witt1990</a></p>
+</div>
+
+William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
+
 
 ### Mori - Solidity Developer
 
