@@ -196,7 +196,7 @@ contributors:
 
 <img class="bodyImage" src="/estaates/estaates_sample_07b.png" />
 
-また、トラップされた区画の場合、ウォールを作ることはできますが、トラップされた区画からの移動のための隙間を埋めるウォールを作ることはできません。
+また、トラップされた区画の場合、ウォールを作ることはできますが、トラップされた区画から出られるように隙間を埋めるウォールは作ることはできません。
 
 <img class="bodyImage" src="/estaates/estaates_sample_07c.gif" />
 
