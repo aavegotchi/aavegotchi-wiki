@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd & Vanilladelphia.eth
 date: '2020-04-23T07:00:00.000Z'
-title: 'Team'
-description: 'See who&#8217s building the Aavegotchi Game'
+title: 'チーム'
+description: 'Aavegotchiの制作者たち'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
@@ -31,7 +31,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#stani>Stani</a></p>
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
-<li><a href=#team>Team</a></li>
+<li><a href=#team>チーム</a></li>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
@@ -122,7 +122,7 @@ In the later 2000s, Borsai became involved in other industries, including digita
 
 Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
-## Team
+## チーム
 
 ### NyanKong - Game Director
 
