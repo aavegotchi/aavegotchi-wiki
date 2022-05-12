@@ -12,10 +12,10 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/team/aavegotchi-team-photo.png">
-<p class="headerImageText">Non edited photo</p>
+<p class="headerImageText">未編集の写真</p>
 </div>
 
-Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
+キュートなゴッチは一体誰が作っているの？ と、お尋ねのそこのアナタ！よくぞ聞いてくれました。 Aavegotchiを支える人々をご紹介します。
 
 <div class="contentsBox">
 
