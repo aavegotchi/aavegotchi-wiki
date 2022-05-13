@@ -22,48 +22,48 @@ contributors:
 **目次**
 
 <ol>
-<li><a href=#summoners>Summoners</a></li>
-<p><a href=#coder-dan>Coder Dan</a></p>
-<p><a href=#jesse>Jesse</a></p>
-<p><a href=#xibot>Xibot</a></p>
-<p><a href=#nick-mudge>Nick Mudge</a></p>
-<li><a href=#aadvisors>Aadvisors</a></li>
-<p><a href=#stani>Stani</a></p>
-<p><a href=#les>Les</a></p>
-<p><a href=#mauvis>Mauvis</a></p>
-<li><a href=#team>チーム</a></li>
-<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
-<p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
-<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
-<p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
-<p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
-<p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
-<p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
-<p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
-<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
-<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
-<p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
-<li><a href=#origins>Origins</a></li>
+<li><a href=#summoners>Summoners - サモナーズ（召喚者達）</a></li>
+<p><a href=#coder-dan>Coder Dan（コーダー・ダン）</a></p>
+<p><a href=#jesse>Jesse（ジェシー）</a></p>
+<p><a href=#xibot>Xibot（ジボット）</a></p>
+<p><a href=#nick-mudge>Nick Mudge（ニック・マッジ）</a></p>
+<li><a href=#aadvisors>Aadvisors - アドバイザー</a></li>
+<p><a href=#stani>Stani（スタニ）</a></p>
+<p><a href=#les>Les（レス）</a></p>
+<p><a href=#mauvis>Mauvis（モーヴィス）</a></p>
+<li><a href=#team>Team - チーム</a></li>
+<p><a href=#nyankong---game-director>NyanKong（ニャンコング） - ゲームディレクター</a></p>
+<p><a href=#mark---gotchiverse-backend-lead>Mark（マーク）- ゴッチバース・バックエンド・リード</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト</a></p>
+<p><a href=#aris---gotchiverse-frontend-lead>Aris（アリス）- ゴッチバース・フロントエンド・リード</a></p>
+<p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
+<p><a href=#moon---head-of-paartnerships>Moon（ムーン）- パートナーシップの責任者</a></p>
+<p><a href=#shohan---gotchiverse-frontend>Shohan（ショハン）- ゴッチバース・フロントエンド</a></p>
+<p><a href=#coyote---dev-evangelist---ui>Coyote（コヨーテ）- デベロッパー・エバンジェリスト / UI</a></p>
+<p><a href=#candoizo---frontend>Candoizo（カンドイゾ）- フロントエンド</a></p>
+<p><a href=#wit1990---senior-solidity-engineer>Wit1990（ウィット1990）- シニアSolidityエンジニア</a></p>
+<p><a href=#mori---solidity-developer>Mori（モリ）- Solidityデベロッパー</a></p>
+<p><a href=#thrax---media-production>Thrax（スラックス）- メディアプロダクション</a></p>
+<p><a href=#zeke---technical-artist>Zeke（ジーク）- テクニカルアーティスト</a></p>
+<p><a href=#jc---business-development>JC（ジェイシー）- ビジネス開発</a></p>
+<p><a href=#webb---aambassador-lead>Webb（ウェッブ）- アンバサダー・リード</a></p>
+<li><a href=#origins>Origins - 起源</a></li>
 </ol>
 
 </div>
 
-## Summoners
+## Summoners - サモナーズ（召喚者達）
 
-### Coder Dan
+### Coder Dan（コーダー・ダン）
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
 
-Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a DeFi dapp that enables users to redirect their AAVE yield toward any address they wish. He is also known for his lead role developing the first ERC721 staked with ERC20s NFT platform, Bullionix. Daniel is based in Fujian, China and fluent in Chinese. In addition to his work in tech, Dan is a tier 1 growth hacker leading Aavegotchi’s initial growth to over 10k Twitter followers and 6000 active Discord citizens. His previous work saw his brand’s Weibo, Bilibili, and WeChat Official account balloon to over 1.5 million followers.
+Dan又はCoder Dan はフルスタックデベロッパーであり、ユーザーが AAVE の利回りを好きなアドレスにリダイレクトして振り分けられる DeFi dapp、Yield Hero のクリエーターです。 彼はまた、ERC20のNFTプラットフォームでステークされた最初のERC721であるBullionix（ブリオニックス）の開発をリードしたことでも知られています。 Daniel（ダニエル）は中国の福建省を拠点とし、中国語に堪能です。 技術的な仕事に加え、DanはAavegotchiの最初の成長を10K Twitterフォロワーと6000人のアクティブなDiscord市民に導いたティア1グロースハッカーでもあります。 彼の以前の仕事では、ブランドのWeibo、Bilibili、WeChatの公式アカウントのフォロワーが150万人以上に膨れ上がりました。
 
-### Jesse
+### Jesse（ジェシー）
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
@@ -71,7 +71,7 @@ Dan aka Coder Dan, is a full stack developer and the creator of Yield Hero, a De
 <p class="leftImageText"><a href="https://twitter.com/gldnXross" target="_blank">@GldnXross</a></p>
 </div>
 
-Jesse, AKA GldnXross is a product centric founder who has had a leadership role developing some of the most well known NFT platforms to date including the very first NFT minting platform, Mintable, which is now available on both Ethereum and Zilliqa blockchains. He is also the creator of the Value-Staked NFTs concept mentioned above as the creator of Bullionix.io which was the first to offer 3D, high resolution digital collectibles staked with gold stable coins. Prior to his work with Ethereum dapps, Jesse was heavily involved on the digital assets exchange side of the industry serving as the head of international development for ZB Group and prior to that served in China for Lenovo Mobile Unit as a Motorola product improvement and mergers specialist.
+GldnXrossことJesseは、製品中心の創業者で、現在イーサリアムとZilliqaブロックチェーンの両方で利用可能な最初のNFT造幣プラットフォーム、Mintableを含む今日まで最も有名なNFTプラットフォームの開発を主導してきた人物です。 また、Bullionix.ioのクリエーターとして、上記のValue-Staked NFTsのコンセプトの生みの親でもあり、金の安定したコインを張った3D高解像度デジタルコレクティブルを初めて提供しました。 Ethereum dappsに携わる前は、ZB Groupの国際開発責任者としてデジタル資産取引所に深く関わり、それ以前はLenovo Mobile UnitでMotorola製品の改善と合併の専門家として中国に駐在していたことがあります。
 
 ### Xibot
 
@@ -91,40 +91,40 @@ Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished
 
 Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
 
-## Aadvisors
+## Aadvisors - アドバイザー
 
-### Stani
+### Stani（スタニ）
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/stani-kulechov.png" alt = "Stani Kulechov">
-<p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
+<p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani（スタニ）</a></p>
 </div>
 
 Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
 
-### Les
+### Les（レス）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/les.jpg" alt = "Les">
-<p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les</a></p>
+<img class="leftImage" src="/team/les.jpg" alt = "Les（レス）">
+<p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les（レス）</a></p>
 </div>
 
 Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
 
 In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
 
-### Mauvis
+### Mauvis（モーヴィス）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/mauvis.jpg" alt = "Mauvis">
-<p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis</a></p>
+<img class="leftImage" src="/team/mauvis.jpg" alt = "Mauvis（モーヴィス）">
+<p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis（モーヴィス）</a></p>
 </div>
 
 Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
 ## チーム
 
-### NyanKong - Game Director
+### NyanKong（ニャンコング） - ゲームディレクター
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
@@ -133,7 +133,7 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
-### Mark - Gotchiverse Backend Lead
+### Mark（マーク）- ゴッチバース・バックエンド・リード
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mark.jpg" alt = "Mark">
@@ -142,7 +142,7 @@ Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create gam
 
 Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
 
-### Favabeans - Senior Cloud Architect
+### Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
@@ -151,7 +151,7 @@ Mark has been building out successful startup platforms with intimate teams for 
 
 Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
 
-### Aris - Gotchiverse Frontend Lead
+### Aris（アリス）- ゴッチバース・フロントエンド・リード
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/aris.png" alt = "Aris">
@@ -160,7 +160,7 @@ Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in th
 
 Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
-### Gravy - Marketing Director
+### Gravy（グレイヴィー）- マーケティングディレクター
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
@@ -169,7 +169,7 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the hea
 
 Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
-### Moon - Head of Paartnerships
+### Moon（ムーン）- パートナーシップの責任者
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/moon.png" alt = "Moon">
@@ -178,7 +178,7 @@ Nick Graves, aka Gravy, is a creative director of all things marketing with near
 
 Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
 
-### Shohan - Gotchiverse Frontend
+### Shohan（ショハン）- ゴッチバース・フロントエンド
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/shohan.png" alt = "Shohan">
@@ -187,7 +187,7 @@ Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. 
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
-### Coyote - Dev evangelist / UI
+### Coyote（コヨーテ）- デベロッパー・エバンジェリスト / UI
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/coyote.png" alt = "Coyote">
@@ -196,7 +196,7 @@ I am Shohan, professional game developer, having more than 5+ years of experienc
 
 Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
-### Candoizo - Frontend
+### Candoizo（カンドイゾ）- フロントエンド
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
@@ -207,7 +207,7 @@ Candoizo, aka candoizo, is a software developer dedicated to making it easy for 
 
 History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
-### Wit1990 - Senior Solidity Engineer
+### Wit1990（ウィット1990）- シニアSolidityエンジニア
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/wit1990.jpg" alt = "Witt1990">
@@ -217,7 +217,7 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
 
 
-### Mori - Solidity Developer
+### Mori（モリ）- Solidityデベロッパー
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
@@ -226,7 +226,7 @@ William joined Aavegotchi in May 2021. Work experiences with blockchain startups
 
 Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### Thrax - Media Production
+### Thrax（スラックス）- メディアプロダクション
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/thrax.png" alt = "Thrax">
@@ -235,7 +235,7 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 
 Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
-### Zeke - Technical Artist
+### Zeke（ジーク）- テクニカルアーティスト
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
@@ -244,7 +244,7 @@ Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media con
 
 Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
 
-### JC - Business Development
+### JC（ジェイシー）- ビジネス開発
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
@@ -253,7 +253,7 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Aambassador Lead
+### Webb（ウェッブ）- アンバサダー・リード
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
@@ -269,7 +269,7 @@ Things Webb loves:
 * making frens
 * loving my new bank and breaking up with my old one
 
-## Origins
+## Origins - 起源
 
 ### The Dream Team Assembles
 This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
