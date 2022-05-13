@@ -61,7 +61,7 @@ contributors:
 <p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
 
-Dan又はCoder Dan はフルスタックデベロッパーであり、ユーザーが AAVE の利回りを好きなアドレスにリダイレクトして振り分けられる DeFi dapp、Yield Hero のクリエーターです。 彼はまた、ERC20のNFTプラットフォームでステークされた最初のERC721であるBullionix（ブリオニックス）の開発をリードしたことでも知られています。 Daniel（ダニエル）は中国の福建省を拠点とし、中国語に堪能です。 技術的な仕事に加え、DanはAavegotchiの最初の成長を10K Twitterフォロワーと6000人のアクティブなDiscord市民に導いたティア1グロースハッカーでもあります。 彼の以前の仕事では、ブランドのWeibo、Bilibili、WeChatの公式アカウントのフォロワーが150万人以上に膨れ上がりました。
+Dan（ダン）又はCoder Dan（コーダー・ダン） はフルスタックデベロッパーであり、ユーザーが AAVE の利回りを好きなアドレスにリダイレクトして振り分けられる DeFi dapp、Yield Hero のクリエーターです。 彼はまた、ERC20のNFTプラットフォームでステークされた最初のERC721であるBullionix（ブリオニックス）の開発をリードしたことでも知られています。 Daniel（ダニエル）は中国の福建省を拠点とし、中国語に堪能です。 技術的な仕事に加え、DanはAavegotchiの最初の成長を10K Twitterフォロワーと6000人のアクティブなDiscord市民に導いたティア1グロースハッカーでもあります。 彼の以前の仕事では、ブランドのWeibo、Bilibili、WeChatの公式アカウントのフォロワーが150万人以上に膨れ上がりました。
 
 ### Jesse（ジェシー）
 
@@ -73,23 +73,23 @@ Dan又はCoder Dan はフルスタックデベロッパーであり、ユーザ�
 
 GldnXrossことJesseは、製品中心の創業者で、現在イーサリアムとZilliqaブロックチェーンの両方で利用可能な最初のNFT造幣プラットフォーム、Mintableを含む今日まで最も有名なNFTプラットフォームの開発を主導してきた人物です。 また、Bullionix.ioのクリエーターとして、上記のValue-Staked NFTsのコンセプトの生みの親でもあり、金の安定したコインを張った3D高解像度デジタルコレクティブルを初めて提供しました。 Ethereum dappsに携わる前は、ZB Groupの国際開発責任者としてデジタル資産取引所に深く関わり、それ以前はLenovo Mobile UnitでMotorola製品の改善と合併の専門家として中国に駐在していたことがあります。
 
-### Xibot
+### Xibot（ジボット）
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
 
-Xavier Iturralde aka xibot, is one of the Crypto Art scene’s most accomplished artists and entrepreneurs. His distinct pixel art work has earned him the attention (and sales volume) of NFT traders on OpenSea and Rarible. His innovative $PIXEL token was among the very first social tokens to take hold and demonstrate that NFTs tied to social tokens is a model with legs. His passionate followers are yet another cause for the fomo around Aavegotchi’s all-star team.
+XibotことXavier Iturraldeは、クリプト・アート・シーンで最も優れたアーティストであり起業家の一人です。 彼の独特なピクセルアート作品は、OpenSeaとRaribleのNFTトレーダーの注目（と販売量）を集めました。 彼の革新的な$PIXELトークンは、ソーシャルトークンの中で最も早く定着し、ソーシャルトークンと結びついたNFTが脚のあるモデルであることを証明しました。 彼の熱狂的なフォロワーは、Aavegotchiのオールスターチームを取り巻くFOMOのもう一つの原因となっています。
 
-### Nick Mudge
+### Nick Mudge（ニック・マッジ）
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
 <p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
-Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC998 composables standard was authored by Mudge and is among the most important aspect of the Aavegotchi game, allowing a “parent” NFT to equip and carry “child” NFTs with them. More recently, Mudge has headed Ethereum research and development for what has been dubbed the Diamond Standard. This standard offers major breakthroughs for upgradeable contracts and is quickly being adopted by governance focused DAOs.
+Nick MudgeはEthereumの最も熟練したsolidity（ソリディティー）開発者の一人です。 ERC998コンポーザブル・スタンダードはMudgeによって作成され、Aavegotchiゲームの最も重要な側面の1つで、「親」NFTが「子」NFTを装備して持ち運べるようにするものです。 最近では、MudgeはDiamond Standard（ダイヤモンド・スタンダード）と呼ばれるイーサリアムの研究開発の責任者を務めています。 この規格はアップグレード可能なコントラクトに大きなブレークスルーをもたらし、ガバナンスに焦点を当てたDAOによって急速に採用されています。
 
 ## Aadvisors - アドバイザー
 
@@ -100,7 +100,7 @@ Nick Mudge is one of Ethereum’s most accomplished solidity developers. The ERC
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani（スタニ）</a></p>
 </div>
 
-Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensive experience developing technology in the crypto, blockchain, and fintech space. Stani is also a mentor to many founders and advisors of ICOs and blockchain projects and has spoken at numerous FinTech, Blockchain and cryptocurrency events, particularly on topics related to Ethereum Smart Contracts.
+Staniは、Aaveの創設者兼CEOです。 彼は、暗号、ブロックチェーン、フィンテックの領域で技術開発を行った豊富な経験を持つベテラン起業家です。 また、ICOやブロックチェーンプロジェクトの多くの創設者やアドバイザーのメンターでもあり、数多くのフィンテック、ブロックチェーン、暗号通貨のイベント、特にイーサリアムのスマートコントラクトに関する講演をしています。
 
 ### Les（レス）
 
@@ -109,9 +109,9 @@ Stani is the founder and CEO of Aave. He is a seasoned entrepreneur with extensi
 <p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les（レス）</a></p>
 </div>
 
-Les Borsai (born 1968) is a Los Angeles-based technology entrepreneur, music promoter and manager, and advisor in the cryptocurrency, blockchain and music-technology industries. He began his career in the music and entertainment industry, working in artist management and marketing, after first gaining recognition as a rave promoter in the Southern California underground scene of the late 1980s. He held positions at Avalon Attractions (now Live Nation Entertainment|Live Nation), MCA Records, and Bill Silva Entertainment before starting the musician management company Modern Artist Management. His client list includes country singer Wynonna Judd, pop artist Jason Mraz, and the alternative bands Burning Brides, The Icarus Line and Unwritten Law, among others.
+Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼルスを拠点とするテクノロジー起業家、音楽プロモーターおよびマネージャー、そして暗号通貨、ブロックチェーン、音楽テクノロジー業界のアドバイザーです。 1980年代後半の南カリフォルニアのアンダーグラウンドシーンでレイブプロモーターとして注目を集めた後、音楽とエンターテインメント業界でキャリアをスタートし、アーティストマネージメントとマーケティングに従事した。 Avalon Attractions（現Live Nation Entertainment|Live Nation）、MCA Records、Bill Silva Entertainmentを経て、音楽家マネジメント会社Modern Artist Managementを設立。 彼の顧客リストには、カントリー歌手のウィノナ・ジャッド、ポップアーティストのジェイソン・ムラーズ、オルタナティブバンドのバーニング・ブライズ、ザ・イカルス・ライン、アンリトゥン・ローなどが名を連ねています。
 
-In the later 2000s, Borsai became involved in other industries, including digital music, cryptocurrency and blockchain. He co-founded the iPhone application development company gridMob in 2008 as well as SongLily in 2012, a digital platform company that simplifies music licensing for mobile application and game developers. After being an early investor in cryptocurrency platform Ethereum, he served as an advisor to blockchain companies and in 2018 co-founded Wave Financial, a digital asset management firm.
+2000年代後半、ボルサイはデジタル音楽、暗号通貨、ブロックチェーンなど、他の業界にも関わるようになった。 2008年にはiPhoneアプリケーション開発会社gridMobを、2012年にはモバイルアプリケーションやゲーム開発者のための音楽ライセンスを簡素化するデジタルプラットフォーム企業SongLilyを共同設立しました。 暗号通貨プラットフォーム・イーサリアムの初期投資家として活躍した後、ブロックチェーン企業のアドバイザーを務め、2018年にはデジタル資産管理会社「Wave Financial」を共同設立した。
 
 ### Mauvis（モーヴィス）
 
