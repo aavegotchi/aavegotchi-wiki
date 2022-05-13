@@ -12,210 +12,210 @@ contributors:
 <p class="headerImageText">Estaates（エステート）</p>
 </div>
 
-A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
+[ゴッチバースエステート（Gotchiverse Estaate）](/gotchiverse)とは、ゲーム内のリンクシステムによって結ばれた2つ以上のレルム区画のことです。 リンクされた区画の端にはウォール（Waall）を建設することができ、複数の区画を完全に囲めるため、侵入者を防ぐのに役立ちます。
 
-Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they allow for privacy, protection, and convenience.
+[ギルド](/guild)や大規模な土地を所有するオーナーにとって、プライバシー、防衛、利便性を高めるため、エステートは最適な場所です。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#benefits-of-estaates>Benefits of Estaates</a></li>
-<li><a href=#general-building-rules>General Building Rules</a></li>
-<li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
-<li><a href=#examples>Examples</a></li>
+<li><a href=#benefits-of-estaates>エステートのメリット</a></li>
+<li><a href=#general-building-rules>一般的な建築ルール</a></li>
+<li><a href=#estaate-building--connection-waall--rules>エステート建築「コネクションウォール」ルール</a></li>
+<li><a href=#examples>例</a></li>
 </ol>
 
 </div>
 
-## Benefits of Estaates
+## エステートのメリット
 
-Creating an Estaate gives:
+エスタートを作ると、以下のようなメリットがあります：
 
-* Visibility - Everyone to see the link(s).
+* 可視性 - 誰もがそのリンクを見られる。
 
-* Protection - Owner can protect the Estaate perimeter by equipping Waalls.
+* 防衛 - オーナーは、ウォールを装備することで、エステート周辺を防衛できる。
 
-* Convenience: Owner can empty all Reservoirs in the Estaate at the same time, instead of one by one.
+* 利便性 - エステート内のリザーバ（Reservoir）を、1つ1つ空けるのではなく、すべて同時に空にすることができます。
 
-## General Building Rules
+## 一般的な建築ルール
 
-1: Ownership
+1：所有権
 
-* The selected parcels must be owned by the same player.
-* Each parcel can be a part of only one Estaate.
-* An owner can create any number of Estaates
+* 選択した区画は、同じプレーヤーが所有していなければなりません。
+* 各区画は1つのエステートにのみ属することができます。
+* 1人のオーナーはいくつでもエステートを作ることができます。
 
-2: Types
+2：種類
 
-* All types of parcels can be included in an Estaate.
+* すべての種類の区画を1つのエステートに含めることができます。
 
-3: Proximity
+3：近接度
 
-* Parcels up to 8* gotchis away from each other can be linked (this number will likely be tuned).
+* 最大で8*ゴッチ分離れた区画を連結することができます（この数値は今後調整される予定です）。
 
-4: Alignment
+4：整列
 
-* Parcels need not be lined up to one another to link.
+* 区画は互いに並んでいる必要はありません。
 
-5: Quantity
+5：数量
 
-* Lodge Level determines the number of parcels that can be linked together.
+* ロッジレベル（Lodge Level）によって、リンクできる区画の数が決まります。
 
-6: Clearance
+6：クリアランス
 
-Things that **BLOCK** linking include:
-* Items with impassable Collision (walls, towers, etc.)
-* Parcel owned by another player is between 2 owned parcels desired to be linked
-* Link from another owner is between 2 owned parcels desired to be linked
+リンクが**ブロックされる**ものには、以下のようなものがあります：
+* 壁や塔など、ぶつかる可能性のあるもの。
+* リンクさせたい2つの区画の間に、他のプレイヤーが所有する区画がある場合。
+* リンクしたい2区画の間に他の所有者からのリンクがある場合。
 
-Things that do **NOT block** linking include:
-* Alchemica
-* Destructibles
-* Background objects like statues, trees, etc.
-* If a potential link is considered BLOCKED, it cannot be executed.
+リンクが**ブロックされない**ものは以下の通りです：
+* アルケミカ
+* 破壊可能なもの
+* 像や木などの背景となるオブジェクト
+* リンクの候補がブロックされているとみなされた場合、そのリンクは実行できません。
 
-7: Adding
+7：追加
 
-* If an owner wishes to add one or more owned parcels to their existing Estaate, they can do so as long as no rules are broken. Attempting to add will recalculate the Estaate linking.
+* 所有者が既存のエステートに1つまたは複数の所有区画を追加したい場合、ルールに違反しない限り、追加することができます。 追加しようとすると、エステートリンクが再計算されます。
 
-8: Subtracting
+8：減算
 
-* If an owner wishes to remove one or more owned parcels from their existing Estaate, they can do so as long as no rules are broken. Attempting to remove will recalculate the Estaate linking.
-* If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
-* If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
+* 所有者が、既存のエステートから所有区画を削除したい場合、ルールに違反しない限り、削除することができます。 削除しようとすると、エステートリンクが再計算されます。
+* 所有者がエステートに含まれる1つまたは複数の区画を売却する場合、売却時にエステートリンクが再計算されます。
+* 所有者が1つのエステートに2つの区画しか持っておらず、1つを売却した場合、エステートとそのリンクは解除されます。
 
-9: No Boxing In
+9: ボックスインなし
 
-* If, when calculating a link, one or more unowned parcels or parcels owned by another player will get BOXED IN, a special rule is triggered:
-* The center, north-most intended link of the Estaate will be left vacant (not created), leaving an open pathway.
-* If no center, north-most potential link is available, the closest clockwise link will be left vacant (not created), ensuring an open pathway exists.
+* リンクの計算時に、1つ以上の未所有の区画や他のプレイヤーが所有する区画がBOXED IN（囲まれた状態）になる場合、特別なルールが発動します：
+* エステートの中央、最北端のリンク予定地は空白（作成されない）となり、通路が空きます。
+* 中央の最北端のリンクがない場合、最も近い時計回りのリンクが空席となり（作成されず）、開かれた経路が確保されます。
 
-10: Intersection
+10：交差点
 
-* A link cannot be formed if it will create an intersection with another Estaate.
+* 他のエステートと交差するようなリンクは、作成できません。
 
-## Estaate Building “Connection Waall” Rules
+## エステート建築「コネクションウォール」ルール
 
-One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
+エステートを建設するうえで、ゲームプレイに大きな影響を与えるのが、エステートの周囲を囲むウォールです。 以下のルールにより、2つの区画の間にスペースがある場合でも、ゲーム内の壁がつながって外周を形成する「コネクションウォール」を作成することができます。
 
-### Creating a Connection Waall
+### コネクションウォールの作成
 
-* A “Connection Waall” comprises game-generated Waalls between 2 player-equipped Waalls.
-* The player does not actively equip Waalls in the space between linked parcels. This is reserved for Connection Waalls.
-* A Connection Waall can be created by the game if the following conditions are met:
+* コネクションウォールとは、プレイヤーが装備したウォールとウォールの間に、ゲーム内で生成されるウォールのことです。
+* プレイヤーは、接続された区画の間にあるウォールを積極的に装備することはありません。 このスペースは「コネクションウォール」のために確保されています。
+* コネクションウォールは、以下の条件を満たした場合に、ゲームによって生成されます：
 
-    * A Waall exists at the edge of 1 parcel and another Waall exists on the closest edge of the adjacent linked parcel. These are called Edge Waalls.
+    * 1つの区画の端にウォールがあり、隣接する区画の最も近い端に別のウォールがある。 これをエッジウォール（Edge Wall）と呼びます。
 
-    * Edge Waalls can be different levels, but the Connection Waall will be the lowest of the 2 levels.
+    * エッジウォールのレベルは2つありますが、コネクションウォールは2つのレベルのうち最も低いレベルのものになります。
 
 
-* Connection Waalls:
+* コネクションウォール：
 
-    * Should be treated as normal Waalls for game purposes (for attacking, allowing passage, collision, etc.).
+    * ゲーム上では、通常のウォールと同様に扱われます（攻撃、通行、衝突など）。
 
-    * Cannot be upgraded or unequipped directly.
+    * 直接アップグレードや装備解除はできません。
 
-### Upgrading a Connection Waall
+### コネクションウォールのアップグレード
 
-* To upgrade a Connection Waall, the owner must upgrade both equipped edge Waalls to the same level (edge Waalls surround the Connection Waalls) that is higher than the current Connection Waall. Doing so causes the Connection Waalls to update accordingly.
+* コネクションウォールをアップグレードするには、装備しているエッジウォールの両方を、現在のコネクションウォールよりも高いレベル（コネクションウォールを囲むエッジウォール）にアップグレードする必要があります。 これにより、コネクションウォールが更新されます。
 
-* To unequip a Connection Waall, one edge Waall must be unequipped. If this happens, the Connection Waall is destroyed.
+* コネクションウォールの装備を解除するには、片方のエッジウォールの装備を解除する必要があります。 この場合、コネクションウォールは破壊されます。
 
-### Destroying a Connection Waall
-* If an individual Waall within a Connection Waall is destroyed, then a hole in the Connection Waall will remain until the owner does one of the following:
+### コネクションウォールを破壊する
+* コネクションウォール内の個々のウォールを破壊した場合、以下のいずれかを行うまでコネクションウォールに穴が空いたままになります：
 
-    * Upgrades 1 Waall on either side of the Connection Waall
+    * コネクションウォールの左右のウォールを1つずつアップグレードします。
 
-    * Unequips 1 Wall on either side of the Connection Waall
+    * コネクションウォールの左右の壁を1つずつ解除します。
 
-## Examples
+## 例
 
-There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
+区画の構成には様々なものがありますが、そのすべてがエステートの作成に対応しているわけではありません。 以下では、エステートのルールを理解するために、これらの可能性を説明します。
 
-For the following diagrams:
+以下の図について：
 
-* Only functional representations of how linking works are shown. Game graphics will vary.
-* Humble parcels are used to convey these rules, but feel free to imagine any-sized parcels (or any combination therein) instead.
-* Parcels owned by the same player are shown in **light blue-green (teal).**
-* Unowned parcels are shown in **light gray.**
-* Parcels owned by a different player are shown in **light pink.**
+* リンクの仕組みは、機能的に表現されているに過ぎません。 ゲームグラフィックは異なります。
+* このルールでは、ハンブル区画を使用していますが、どんな大きさの区画でも（あるいはその組み合わせでも）良いので想像してみてください。
+* 同じプレイヤーが持っている区画は、**薄い青緑色（ティール）**で表示されます。
+* 未所有の区画は**薄い灰色**で表示されます。
+* 別のプレイヤーが所有する区画は、**薄いピンク色**で表示されます。
 
-### Links
+### リンク
 
-An owner can link 2 or more of their parcels together when they are close enough, even if there is ground Alchemica in between them.
+所有者は、2つ以上の区画の間に地上のアルケミカがあっても、十分近ければ、その区画をリンクさせることができます。
 
-**Linked parcels display an outline around them:**
+**リンクされた区画は、その周囲に輪郭が表示されます：**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page1.png" />
 
-**If the parcels are too far apart, have a road in between them, or an unowned or other-player-owned parcel exists in between, the parcels cannot be linked.**
+**区画の距離が離れすぎている場合、間に道路がある場合、未所有区画や他のプレイヤーが所有している区画がある場合は、リンクさせることができません。**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page2.png" />
 
-Note: The red lines indicate desired links that are considered “invalid” and would thus not occur.
+注：赤い線は、「無効」とみなされ、実現されないリンクを示しています。
 
-**If parcels do not share an edge they cannot be linked.**
+**区画がエッジを共有していない場合、リンクすることはできません。**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page3a.png" />
 
-The **two teal parcels** cannot be linked in either of the above examples.
+上記の例では、**2 つのティール色**の区画はリンクできません。
 
-**If a sequence of linked parcels will trap other parcels then an opening will always be left to allow movement in and out.**
+**もし、リンクされた区画の連続が他の区画を閉じ込めてしまうなら、出入りを可能にするために常に開口部が残されます。**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page3b.png" />
 
-Trapped parcels above are a neutral (unowned) parcel and an other-player-owned parcel, respectively.
+上記のトラップされた区画は、それぞれ中立の（所有権のない）区画と、他のプレイヤーが所有する区画です。
 
-**There can be many trapped parcels, but all it takes is one to require an opening in the linking.**
+**トラップされた区画はいくつもできますが、1つだけで、リンクに開口部ができます。**
 
 <img class="bodyImage" src="/estaates/trapped-parcels.png" />
 
-An owner can always add a new parcel or parcels to their Estaate, as well as remove one or more, and the game will recalculate the linking.
+所有者は、いつでも自分のエステートに新しい区画を追加したり、削除したりすることができ、ゲームもリンクの再計算を行います。
 
-### Waalls
+### ウォール
 
-**One of the tangible gameplay benefits of having an Estaate is that the area between links can automatically create “Connection Waalls.”**
+**エステートを所有することで、リンクとリンクの間に自動的に「コネクションウォール」を作成することができます。**
 
-Connection Waalls are treated as normal Waalls for purposes of hit points and damage.
+コネクションウォールは、ヒットポイントやダメージの点では、通常のウォールと同じように扱われます。
 
 <img class="bodyImage" src="/estaates/estaates_sample_08a.png" />
 
-The 4 Connection Waalls above would not be crafted or equipped, but would automatically be generated by the game.
+上記の4つの「コネクションウォール」は、クラフトや装備ではなく、ゲームによって自動的に生成されるものです。
 
 <img class="bodyImage" src="/estaates/estaates_sample_06b.png" />
 
-The owner must build at least 1 Waall on either side of the link, per side, for a Connection Waall to be able to be created. In the above, there is no valid link, so no Connection Waalls would be created.
+コネクションウォールの生成は、所有者がリンクの左右に、それぞれ1個以上のウォールを建設する必要があります。 上記の場合、有効なリンクがないため、「コネクションウォール」は生成されません。
 
-**More examples of how Waalls would manifest:**
+**ウォールの出現の他の例：**
 
 <img class="bodyImage" src="/estaates/estaates_sample_07a.png" />
 
-Since the above linked parcels share 1 Gotchi distance, only a single Waall is created over the link comprising 2 Waall sections as shown.
+上記のリンクされた区画は、1ゴッチの距離を共有しているので、図のように2つのウォールセクションからなるリンクには、1つのウォールが生成されます。
 
 <img class="bodyImage" src="/estaates/estaates_sample_07b.png" />
 
-In the case of trapped parcels, Waalls can be created, but no Waalls will bridge the opening left to allow movement for trapped parcel(s).
+また、トラップされた区画の場合、ウォールを作ることはできますが、トラップされた区画から出られるように隙間を埋めるウォールは作ることはできません。
 
 <img class="bodyImage" src="/estaates/estaates_sample_07c.gif" />
 
-The game will always try to create the opening on the north side of an Estaate if there are trapped parcels within it.
+この場合、エステートの北側に開口部を作ろうとします。
 
-**If the Waalls created on either side of a Link are of different levels, the game will choose the lower of the Waall levels to generate as the Connection Waalls over the link.**
+**リンクの両側に作られたウォールのレベルが異なる場合、低い方のレベルのウォールを選んで、リンク上のコネクションウォールとして生成します。**
 
 <img class="bodyImage" src="/estaates/estaates_sample_08b.png" />
 
-In the above example, there are level 1 Waalls (purple base) and level 4 Waalls (red base) shown.
+上の例では、レベル1のウォール（紫のベース）とレベル4のウォール（赤のベース）が表示されています。
 
-To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link) . This would result in the top Connection Waall section of 6 Waalls at level 1 (the lower of the 2 levels).
+この場合、レベル1のウォールを一番上（リンクの左側）に、レベル4のウォールをその右側（リンクの右側）に装備する必要があります。 そうすると、一番上のコネクションウォールの部分は、レベル1（2段階のうち低い方）のウォールが6個になります。
 
-Notice below it that there are level 4 Waalls on either side that result in a level 4 Connection Waall section in between them.
+その下には、レベル4のウォールがあり、その間にレベル4のコネクションウォールがあることに注意してください。
 
 <img class="bodyImage" src="/estaates/estaates_sample_06a.png" />
 
-The above example has the same equipped Waalls on the left and right, resulting in level 1 Connection Waalls being created over the links.
+上の例では、左右に同じ装備のウォールがあり、そのリンクの上にレベル1のコネクションウォールができています。
 
-If the owner unequips relevant Waalls or upgrades them, the game will recalculate the connecting Waalls to create.
+所有者が該当するウォールの装備を解除したり、アップグレードしたりすると、接続するウォールが再計算され作成されます。
 
-If a Waall within a Connection Waall is destroyed, a hole will remain until the owner either upgrades or unequips one of the Waalls on either side of the link.
+連結ウォール内のウォールが破壊された場合、左右のウォールのいずれかをアップグレードするか装備を外すかするまで、穴が空いたままになります。
