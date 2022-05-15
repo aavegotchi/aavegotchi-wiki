@@ -19,7 +19,7 @@ contributors:
 <ol>
 <li><a href=#what-is-gotchi-lending->Gotchi Lending là gì?</a></li>
 <li><a href=#what-can-i-do-with-gotchi-lending->Mình có thể làm gì với Gotchi Lending?</a></li>
-<li><a href=#instructions-for-lenders>Instructions for Lenders</a></li>
+<li><a href=#instructions-for-lenders>Hướng Dẫn Cho Người Cho Thuê</a></li>
 </ol>
 
 </div>
@@ -30,20 +30,20 @@ Gotchi Lending là nền kinh tế chia sẻ của Giao Thức Aavegotchi, cho p
 
 Chủ sở hữu Gotchi có thể đặt:
 * bất ký loại phí trả trước nào
-* the duration of the lending period (maximum of 30 days)
+* thời lượng thuê (tối đa 30 ngày)
 * tỷ lệ phân chia
 
 Gotchi Lending nằm 100% trên blockchain, cho phép người dùng cho thuê NFT Aavegotchi một cách dễ dàng, không dựa trên niềm tin, và bảo mật.
 
 ## Mình có thể làm gì với Gotchi Lending?
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+Gotchi Lending rất hữu ích với những ai sở hữu Aavegotchi. Nó cũng rất hữu ích cho những ai muốn chơi trong thế giới [Gotchiverse](/gotchiverse) sắp cập bến. Những [guild](/guild) lớn có thể tận dụng tính năng này để NFT có thể đến tay các thành viên, và thậm chí cho phép khả năng chia sẻ tiền vào ví ngân quỹ của guild.
 
-Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
+Các cá nhân có thể tận dụng Gotchi Lending bằng cách cho thuê Aavegotchi công khai để kiếm thu nhập thụ động, hoặc thậm chí là cho người thân và gia đình thuê với chi phí bằng 0.
 
-## Instructions for Lenders
+## Hướng Dẫn Cho Người Cho Thuê
 
-**Step 1: Set the Duration and Upfront Cost**
+**Bước 1: Đặt Thời Lượng và Phí Trả Trước**
 
 First the lender will set any upfront costs, the lending duration, and which tokens to share with the borrower. Whether to charge an upfront cost or not is up to the owner and the market. The majority of lenders will likely not charge an upfront cost, allowing anyone to use their Aavegotchis for free!
 
