@@ -45,7 +45,7 @@ Các cá nhân có thể tận dụng Gotchi Lending bằng cách cho thuê Aave
 
 **Bước 1: Đặt Thời Lượng và Phí Trả Trước**
 
-First the lender will set any upfront costs, the lending duration, and which tokens to share with the borrower. Whether to charge an upfront cost or not is up to the owner and the market. The majority of lenders will likely not charge an upfront cost, allowing anyone to use their Aavegotchis for free!
+Đầu tiên người cho thuê cần đặt bất kỳ phí trả trước nào, thời lượng cho thuê, token nào cần được chia sẻ với người cho thuê. Việc có cần tính phí trả trước hay không đều cho người chủ và thị trường quyết định. Đa số người cho thuê gần như đầu không tính phí trả trước để cho phép bất cứ ai cũng có thể thuê miễn phí!
 
 Lenders will be able to select which tokens to share with borrowers. This means a lender can choose to offer a sharing rate on some tokens and not others. For example, a lender can choose to offer a 100% sharing rate on one token, but not share any others. Alternatively, they could elect to share 50% of each.
 
