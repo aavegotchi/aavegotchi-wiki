@@ -27,7 +27,7 @@ Aambassador là một nhóm những người tiên phong được Pixelcraft khu
 
 ## Tham gia
 
-Do you have any questions about the Aambassador program? Interested to become an Aambassador? Check out the [Aambassador FAQ](/faq#aambassador-faq) or contact Webb, the Aambassador Lead, on [Discord](https://discord.com/invite/NPwnWB6).
+Bạn có bất kỳ câu hỏi nào về chương trình Aambassador hay không? Bạn muốn trở thành Aambassador? Hãy xem qua [Những câu hỏi thường gặp về Aambassador](/faq#aambassador-faq) hoặc liên hệ với Webb, Aambassador Lead, tại [Discord](https://discord.com/invite/NPwnWB6).
 
 ## Danh sách Aambassador
 
