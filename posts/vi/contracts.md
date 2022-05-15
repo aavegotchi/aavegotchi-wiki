@@ -48,12 +48,12 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 
 * Opensea (dành cho Aavegotchis và Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
-* FUD Token Address: [0x403E967b044d4Be25170310157cB1A4Bf10bdD0f](https://polygonscan.com/token/0x403E967b044d4Be25170310157cB1A4Bf10bdD0f)
+* Địa chỉ token FUD: [0x403E967b044d4Be25170310157cB1A4Bf10bdD0f](https://polygonscan.com/token/0x403E967b044d4Be25170310157cB1A4Bf10bdD0f)
 
-* FOMO Token Address: [0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8](https://polygonscan.com/token/0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8)
+* Địa chỉ token FOMO: [0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8](https://polygonscan.com/token/0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8)
 
-* ALPHA Token Address: [0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2](https://polygonscan.com/token/0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2)
+* Địa chỉ token ALPHA: [0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2](https://polygonscan.com/token/0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2)
 
-* KEK Token Address: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
+* Địa chỉ token KEK: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
 
-* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
+* Địa chỉ token wapGHST: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
