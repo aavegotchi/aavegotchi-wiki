@@ -73,4 +73,4 @@ Người cho thuê cũng sẽ có thể tạo [whitelists](https://app.aavegotch
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
-Mặt khác, người thuê sẽ có một số bộ lọc cho phép tìm những Aavegotchi phù hợp với nhu cầu của mình nhất. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+Mặt khác, người thuê sẽ có một số bộ lọc cho phép tìm những Aavegotchi phù hợp với nhu cầu của mình nhất. Aavegotchi có thể mượn được, có thể được lọc theo tỷ lệ chia thưởng, phí trả trước, thời lượng, và loại token được chia sẻ.
