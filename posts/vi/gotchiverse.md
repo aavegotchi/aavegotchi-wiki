@@ -162,9 +162,9 @@ Các giao dịch với Gotchus Alchemica sẽ diễn ra tại [Gotchus Alchemica
 
 ### Số Lượng Aavegotchi Gốc trong mỗi Gói Đất
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
+Tương tự như cơ chế "Portal" trong Aavegotchi, các Gói Đất REALM phải được khảo sát trước khi chúng hé lộ số lượng Alchemica nằm bên trong chúng. Quá trình khảo sát là một lệnh gọi onchain thông qua Chainlink VRF, một trình xổ số thật sự ngẫu nhiên.
 
-When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
+Khi Gotchiverse được ra mắt, tất cả các Gói Đất REALM có thể được khảo sát nếu chủ nhân của chúng muốn như vậy, hoặc quá trình khảo sát có thể được dời đến một ngày trong tương lai.
 
 The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 
