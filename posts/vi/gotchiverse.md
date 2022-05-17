@@ -251,19 +251,19 @@ Cách 1: Đấu Giá Nhận Thưởng Kiểu GBM (80%)
 
 Cách phân phối chủ yếu của những Mẫu Đất REALM sẽ là hình thức đấu giá nhận thưởng theo phong cách của GBM. Những ai tham gia sẽ có thể chọn và đấu giá cho những mẫu đất cụ thể trong bản đồ thế giới của Gotchiverse. Nếu người tham gia đấu giá bị người khác đưa ra giá cao hơn, số tiền họ đặt giá sẽ được trả lại, bên cạnh đó họ sẽ được phần thưởng token GHST cộng thêm. Đi tiên phong đầu tiên với Cryptograph vào năm 2019, đấu giá GBM là một hệ thống đang đợi cấp bằng sáng chế, và Pixelcraft Studios đã chính thức được cấp quyền sử sụng trong tất cả các sự kiện mở bán NFT Aavegotchi, bao gồm cả Haunt 2, REALM, và thậm chí là Trang Phục.
 
-Check out our [Aauction page](/aauction) for more information.
+Bạn có thể xem thêm thông tin tại [trang Đấu Giá](/aauction).
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Mô hình đấu giá mang tính cách mạng này đã giải quyết được nhiều vấn đề liên qua đến những đợt mở bán phục vụ theo thứ tự First Come First Serve, nhưng về bản chất, ai trả tiền nhiều vẫn sẽ thắng.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Để cân bằng việc này, đội ngũ phát triển đã quyết định xổ số 20% đất REALM còn lại bằng cách sử dụng Mô hình Xổ số dựa trên ChainLink VRF.
 
-Method 2: Raffle (20%)
+Cách 2: Xổ Số (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+Cách phân phối thứ 2 dành cho Các Mẫu Đất REALM sẽ được tiến hành thông qua hình thức xổ số dưới sự hỗ trợ của ChainLink. Những ai tham gia sẽ đăng ký bằng Drop Ticket, loại vé được dùng cho Xổ số Mua Portal và REALM. Drop Ticket có thể kiếm được bằng cách giữ Aavegotchi đã được triệu hồi, tham gia làm Nhiệm Vụ, hoặc bằng cách đổi điểm FRENS hoặc những loại [vé Raffle](/staking#purchasing-raffle-tickets) khác với tỷ lệ 10k FRENS mỗi Drop Ticket. Hãy bắt đầu tích trữ điểm FRENS ngay bằng cách [stake GHST](/staking).
 
 ### Vé Drop
 
-Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch trên Aavegotchi [Baazaar](/baazaar). Mỗi Vé Drop đại diện cho **một** cơ hội tham gia vào sự kiện Xổ Số Raffle, ở đó bạn có thể giành được Portal Aavegotchi và Mẫu Đất REALM.
 
 <img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
