@@ -166,9 +166,9 @@ Tương tự như cơ chế "Portal" trong Aavegotchi, các Gói Đất REALM ph
 
 Khi Gotchiverse được ra mắt, tất cả các Gói Đất REALM có thể được khảo sát nếu chủ nhân của chúng muốn như vậy, hoặc quá trình khảo sát có thể được dời đến một ngày trong tương lai.
 
-The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
+Khoảng Alchemica có trong mỗi loại gói đất được ghi bên dưới, đối với toàn bộ Act 1 và trong Round 1 của Act 1, phần bố khoảng 25% Alchemica chứa bên trong.
 
-*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
+*Hãy nhớ rằng tổng lượng Alchemica có trong một Gói Đất là **gom lại**, nghĩa là trong tương lai việc Khảo Sát sẽ tăng thêm tổng số Alchemica.*
 
 table_avgBaseAlchemicaPerParcelAct1Total
 
