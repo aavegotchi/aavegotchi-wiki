@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Gotchi UBI is coming to the Gotchiverse!](https://blog.aavegotchi.com/gotchi-ubi-is-coming-to-the-gotchiverse/)
+* Gotchi UBI is a daily stipend of Gotchus Alchemica available once every 24 hours to each Aavegotchi that enters the Gotchiverse
+* It will launch on the 18th of May!
+<p></p>
+
 ## [April Updates](https://blog.aavegotchi.com/aavegotchi-april-update/)
 * What has PC achieved in April?
 * Read all about it here!
