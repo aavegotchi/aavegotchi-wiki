@@ -69,8 +69,8 @@ Cuối cùng, người cho thuê xem lại các điều khoản một lần nữ
 
 **Bước Bổ Sung:**
 
-Lenders will also have the ability to create [whitelists](https://app.aavegotchi.com/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+Người cho thuê cũng sẽ có thể tạo [whitelists](https://app.aavegotchi.com/whitelists),  để Aavegotchi chỉ có thể thuê bởi một nhóm nhất định. Chức năng này rất thích hợp cho những guild nào muốn đảm bảo NFT Aavegotchi được đặt vào trong tay các thành viên của guild mình.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
-On the other side of the coin, borrowers will have a number of filters at their disposal to allow them to find the Aavegotchi that best suits their needs. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+Mặt khác, người thuê sẽ có một số bộ lọc cho phép tìm những Aavegotchi phù hợp với nhu cầu của mình nhất. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
