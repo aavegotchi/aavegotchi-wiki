@@ -275,9 +275,9 @@ Có 3 cách để nhận Vé Drop:
 
 ### Tăng Chỉ Số Gói Đất
 
-Một số gói đất REALM đi kèm với Boost. Boost là những điểm Alchemica nằm sát những gói đất REALM trong Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+Một số gói đất REALM đi kèm với Boost. Boost là những điểm Alchemica nằm sát những gói đất REALM trong Gotchiverse. Không giống như lượng Alchemica đã được khảo sát, vốn được suy ra ngẫu nhiên từ Chainlink VRF, Boost của gói đất là lượng Alchemica gốc được thêm vào tổng số Alchemica của một gói đất sau khi khảo sát.
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+Số lượng Alchemica Boost là 1000, 500, 250, và 100 lần lượt cho FUD, FOMO, ALPHA, và KEK.
 
 table_alchemicalBoostsAndAmountPerLocation
 
