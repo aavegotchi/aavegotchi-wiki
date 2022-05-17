@@ -267,7 +267,7 @@ Drop Ticket là những NFT ERC-1155 hoàn toàn có thể được giao dịch 
 
 <img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
 
-There are three ways to get Drop Tickets:
+Có 3 cách để nhận Vé Drop:
 
 * Chuyển đổi 10k FRENS thành một Vé Drop
 * Chuyển đổi những Vé Raffle khác thành Vé Drop
@@ -275,7 +275,7 @@ There are three ways to get Drop Tickets:
 
 ### Tăng Chỉ Số Gói Đất
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+Một số gói đất REALM đi kèm với Boost. Boost là những điểm Alchemica nằm sát những gói đất REALM trong Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
 
 Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
 
