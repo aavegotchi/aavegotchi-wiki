@@ -968,23 +968,23 @@ table_agip26
 
 **Tóm Tắt Đề Xuất:**
 
-Với sự xuất hiện của hệ quy đổi chỉ số đặc tính Gotchiverse trong Game Bible Chương 2, một cuộc thảo luận đáng chú ý đã bắt đầu về những sự mất cân bằng tiềm ẩn, điểm yếu, và những lĩnh vực đột phát trong hệ quy đổi điểm đặc tính được đề ra ban đầu cho NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+Với sự xuất hiện của hệ quy đổi chỉ số đặc tính Gotchiverse trong Game Bible Chương 2, một cuộc thảo luận đáng chú ý đã bắt đầu về những sự mất cân bằng tiềm ẩn, điểm yếu, và những lĩnh vực đột phát trong hệ quy đổi điểm đặc tính được đề ra ban đầu cho NRG, AGG, SPK & BRN. CoreProp đề xuất về việc thay đổi hệ quy chiếu trait cho 4 đặc tính này thành:
 
-NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
+NRG: Máu Tối Đa (0 NRG) <===> Thể Lực Tối Đa (100 NRG)
 
-AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
+AGG: Sức Phòng Thủ (0 AGG) <===> Tốc Độ Hành Động (100 AGG)
 
-SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
+SPK: Tối Độ Hồi Máu & Thể Lực (0 SPK) <===> Thần Lực (100 SPK)
 
-BRN: Melee Power (0 BRN) <===> Ranged Power (100 BRN)
+BRN: Sức Mạnh Đánh Gần (0 BRN) <===> Sức Mạnh Đánh Xa (100 BRN)
 
-EYS: To Be Confirmed
+EYS: Chờ Xác Nhận
 
-EYC: To Be Confirmed
+EYC: Chờ Xác Nhận
 
-Please refer to the DAO forum thread for a full rundown on what these changes mean (including an FAQ section).
+Xem qua chủ đề trên diễn đàn DAO để hiểu đầy đủ ý nghĩa của những thay đổi này (bao gôm cả phần FAQ).
 
-Core Effects of the New Trait Map
+Ảnh Hưởng Chính Đối Với Hệ Quy Đổi Mới
 
 * Tốc độ di chuyển được xóa khỏi biểu đồ quy đổi sẽ giúp cả thiện trải nghiệm người dùng (UX) dành cho tất cả người chơi mới bắt đầu tham gai Gotchiverse, cả mới và cũ,
 * Sức chứa bị gỡ bỏ khỏi bản đồ sẽ sửa chữa lại sự mất cân bằng của 1 chỉ số farm vs 7 chỉ số combat gồm NRG, AGG, SPK và BRN,
@@ -992,23 +992,23 @@ Core Effects of the New Trait Map
 * Hiện đã có sự khác nhau rõ ràng giữa tướng đánh gần và đánh xa,
 * Thần lực giờ đây có thể xem như "May mắn" và ảnh hưởng đến khả năng nó tránh, chí mạng, lướt qua tường và tất cả những hành động dựa trên cơ hội trong Gotchiverse.
 
-*End Goal*
+*Mục Đích Cuối Cùng*
 
-For the community and Pixelcraft to build a trait map together that is balanced, has excellent UX, playability and longevity while simultaneously allowing the flexibility to implement wearable buffs and abilities that work with the traits in the future.
+Để cộng đồng và Pixelcraft cùng nhau xây dựng một biểu đồ quy đổi thật là cân bằng, trải nghiệm người chơi tuyệt vời, và sự bền vững, đồng thời cho phép sự linh hoạt trong việc tích hợp buff trang bị và kỹ năng liên kết với chỉ số trait trong tương lai.
 
-*Risks*
+*Rủi ro*
 
-There is potential that some players and investors have already purchased gotchis based on the original trait mappings. It is important to note that these traits were always specified as non-immutable in the Game Bible HOWEVER, we strongly believe the new trait maps proposed here will create even moar diverse and entertaining play styles for OG investors and new players alike to experiment with and enjoy playing.
+Có nguy cơ một số người chơi và nhà đầu tư đã mua gotchi dựa trên những chỉ số quy đổi cũ. Một lưu ý quan trọng cần nhớ là những chỉ số trait này luôn được xem là không vĩnh viễn trong Game Bible. TUY NHIÊN, bọn mình tin chắc rằng bản đồ mới được đề xuất ở đây thậm chí sẽ đa dạng và giải trí hơn trong phong cách chơi dành cho những nhà đầu tư OG và người chơi mới để có thể trải nghiệm và chơi game.
 
-*Final Important Notes*
+*Ghi Chú Quan Trọng*
 
-There are a number of ways these Traits can scale (Yin/Yang linear, asymmetric, buff only starting from 50 and diminishing returns to name a few). The Trait Scaling System is still under review by the community so look forward to further calls with Pixelcraft (to really get into the nitty gritty) and another SigProp! EYS and EYC are still under review by the community. A number of interesting ideas including farming/alchemica/HUD abilities have been proposed. Make sure you get involved and have your say on how you’d like to see these evolve too!
+Có nhiều cách để chỉ số Trait ảnh hưởn gđến việc cân bằng (âm dương tuyến tính, không đối xứng, buff chỉ bắt đầu từ 50 và lợi nhuận giảm dần, v. v.). Hệ Thống Cân Bằng Trait vẫn đang được xem xét bởi cộng đồng nên hãy đón chờ những cuộc gọi kế tiếp từ Pixelcraft (để thực tham gia vào đó) và một bản SignProp khác nhé! EYS và EYC vẫn đang được cộng đồng xem xét. Một số ý tưởng thú vị bao gồm khả năng farm/alchemica/HUD đã được đề xuất. Hãy nhớ rằng nếu bạn nên tham gia và nói lên những suy nghĩ của mình nhé!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
 
-Option 1: Yes, use the new Trait Map
+Phương án 1: Vâng, hãy dùng bản quy đổi mới này
 
-Option 2: No, stick with the original
+Không, hãy sử dụng bản cũ
 
 **Thời gian vote:**23 - 30 tháng Mười 2022
 
@@ -1025,55 +1025,55 @@ table_agip27
 
 **Tóm Tắt Đề Xuất:**
 
-Hi frens, in Chapter 2 we proposed that 10% of the Gotchus Alchemica supply be vested over 30 years to be used for Ecosystem purposes. The primary goal of this allocation is to ensure excellent long-term liquidity across many platforms, including the GAX, various DEXes on Polygon, Mainnet, and even CEXes.
+Chào các bạn, trong Chương 2 chúng tôi đã đề xuất về việc 10% Gotchus Alchemica nền được mở khóa dần trong 30 năm để sử dụng cho các mục đích trong Hệ Sinh Thái. Mục tiêu chính của việc này là để đảm bảo thanh khoản lâu dài giữa các nền tảng, bao gôm GAX, nhiều sàn DEX khác trên Polygon, Mainnet, và thậm chí là CEX.
 
-Those who follow the project carefully know that we always try to do everything “by the book”, to make Aavegotchi a model case study for decentralization and legal compliance. We are currently in the final stages of setting up a new legal wrapper for AavegotchiDAO (more specifically, a Panama Foundation) and will soon be making an announcement for applications to serve.
+Những người theo dõi dự án kỹ lưỡng biết rằng bọn mình luôn cố làm mọi thứ "như trong sách", để giúp Aavegotchi trở thành một ví dụ điển hình cho tính phi tập trung và tuân thủ pháp lý. Chúng ta đang ở những giai đoạn cuối cùng để đặt ra một công ty pháp lý mới cho Aavegotchi (cụ thể là một Tổ Chức Panama) và sẽ sớm thông báo về các ứng dụng để phục vụ.
 
-On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
+Về mặt kỹ thuật, bọn mình cũng đang làm việc về vấn đề áp dụng quản trị on-chain cho giao thức Aavegotchi. Tuy nhiên, việc này sẽ tốt ít thời gian, do cần phải nâng cấp để triển khai token GHST trên Polygon.
 
-While all of this is happening in the background, we are also launching FIVE new ERC20 Alchemica tokens and locking a sizable amount of them into vesting contracts.
+Dù tất cả những việc này xảy ra ở phía sau cành gà, bọn mình cũng đang triển khai NĂM token Alchemica ERC20 mới và mở khóa một lượng lớn số token này để vào hợp đồng mở khóa chậm.
 
-For both legal and strategic reasons, we believe that the Ecosystem allocation should not be managed by Pixelcraft, but instead by AavegotchiDAO. The DAO Treasury Force has already been created to manage some of the DAO treasury, but the number of signers is quite few (six) and in my opinion insufficient to hold such a sum of funds.
+Vì lý do pháp lý và chiến lược, bọn mình tin rằng phần phân bố cho Hệ Sinh Thái không nên được quản lý bởi Pixelcraft mà nên được quản lý bởi AavegotchiDAO. Biệt Đội Ngân Quỹ DAO sẽ được tạo ra để quản trị một phần ngân quỹ DAO, nhưng số lượng người ký rất ít và theo ý kiến của mình thì điều này không đủ để giữ một số tiền lớn như vậy.
 
-Therefore, I propose we create an additional multisig under the current DTF, with fifteen signers instead of the current six. **Eleven** out of fifteen signatures would be required to confirm transactions.
+Do đó, mình đề xuất tạo ra một chiếc ví multisign dưới biệt đội DTF hiện tại, với 15 nguiowf ký tên thay vì 6 người. **Mười một** trong số 15 chữ ký sẽ cho phép xác nhận giao dịch.
 
-This multisig would be the beneficiary of the Ecosystem Vesting Contract (which holds 10% of each Alchemica’s token supply, vested over 30 years), and could also inherit the 1M GHST originally allocated during the GHST creation for Ecosystem building, to help bootstrap Alchemica liquidity.
+Ví multisign này sẽ có lợi cho Hợp Đồng Mở Khóa Chậm Hệ Sinh Thái (nắm giữ 10% nguồn cung của token Alchemica, trả chậm trong 30 năm), và cũng có thể kế thừa 1 triệu GHST được phân bổ ban đầu trong suốt quá trình tạo ra GHST cho việc xây dựng Hệ Sinh Thái, giúp giữ được thanh khoản Alchemica.
 
-On our side, we will deploy the Alchemica and create initial liquidity pools on Quickswap, after which we will transfer ownership of the vesting contract to the multisig. After that point, it will be up to the DTF to coordinate liquidity provision.
+Ở phía bọn mình, bọn mình sẽ triển khai Alchemica và tạo ra các quỹ thanh khoản ban đầu trên Quickswap, sau đó bọn mình sẽ chuyển quyền sở hữu của vesting contract sang cho ví multisign. Sau thời điểm đó, DTF sẽ quyết định việc cung cấp thanh khoản.
 
 Let’s goooo Gotchigang!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
 
-[Final note: You can vote for multiple members at once, the top 9 choices will then get elected! Short pitches for everyone can be found in the discussion thread]
+[Ghi chú cuối cùng: Bạn có thể bỏ phiếu cho nhiều thành viên cùng lúc, top 9 lựa chọn sẽ được bầu! Bài thuyết trình ngắn về các thành viên có thể được tìm htaays trong chủ đề thảo luận]
 
-Option 1: Kokusho
+Phương án 1: Kokusho
 
-Option 2: MGG
+Phương án 2: MGG
 
-Option 3: Choyna
+Phương án 3: Chonya
 
-Option 4: Pgendreau
+Phương án 4: Pgendreau
 
-Option 5: Diddlypoo
+Phương án 5: Diddlypoo
 
-Option 6: Tburd.eth
+Phương án 6: Tburd.eth
 
-Option 7: Jarrod
+Phương án 7: Jarrod
 
-Option 8: MarvinP
+Phương án 8: MarvinP
 
-Option 9: Notorious_BTC
+Phương án 9: Notorious_BTC
 
-Option 10: Hardkor
+Phương án 10: Hardkor
 
-Option 11: Yanik
+Phương án 11: Yanik
 
-Option 12: Master_Yin
+Phương án 12: Master_Yin
 
-Option 13: Nestor
+Phương án 13: Nestor
 
-Option 14: Chichi
+Phương án 14: Chichi
 
 **Thời gian vote:**23 - 30 tháng Mười 2022
 
@@ -1088,17 +1088,17 @@ table_agip28
 ### Các marketplace (thị trường trao đổi) dành cho Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Phương án A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Phương án B: Aavegotchi Maarket
 
-Choice C: Neither
+Phương án C: Không chọn 2 đáp án trên
 
 The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
 
