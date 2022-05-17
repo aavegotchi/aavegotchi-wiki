@@ -25,7 +25,7 @@ wearables</1> mà chúng được mặc. Những Aavegotchi được triệu h�
 <li><a href=#level>Cấp độ</a></li>
 <li><a href=#haunt>Haunt</a></li>
 <li><a href=#aging-mechanic>Cơ Chế Trưởng Thành</a></li>
-<li><a href=#trait-mappings>Trait Mappings</a></li>
+<li><a href=#trait-mappings>Quy Đổi Chỉ Số Trait</a></li>
 </ol>
 
 </div>
@@ -125,8 +125,8 @@ Gotchis sẽ nhận được một lượng [BRS](/rarity-farming#base-rarity-sc
 
 
 
-## Trait Mappings
+## Quy Đổi Chỉ Số Trait
 
-These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+6 chỉ số trait này là những trait cơ bản. Để biến Aavegotchi trở thành con game chính thức trong [Gotchiverse](/gotchiverse), chúng ta cần nhiều biến số sắc thái hơn.
 
-Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
+Bạn có thể tìm hiểu thêm về hệ quy chiếu trait này thông qua [trang Quy Đổi Trait](/trait-mappings).
