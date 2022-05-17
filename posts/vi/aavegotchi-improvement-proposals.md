@@ -900,25 +900,25 @@ table_agip24
 
 **Tóm Tắt Đề Xuất:**
 
-Pixelcraft has provided a schedule in Chapter 1 in the Gotchiverse Game Bible with the Gotchiverse Land Auction / Raffle 3 scheduled to occur Late February: [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse Game Bible với sự kiện Đấu Giá / Xổ Số Land Gotchiverse được đặt lịch tổ chức vào cuối tháng Hai [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 
-This was scheduled to happen before the following Gotchiverse Game Bible Chapters were published according to that same post. 4 more Chapters were released in March and there are more planned to be released during the following weeks/months.
+Việc này đã được lên lịch để xảy ra trước khi các chương Gotchiverse Game Bible được đăng tải dựa theo bài viết nêu trên. 4 Chương nữa đã được công bố vào tháng Ba và sẽ nhiều bài viết hơn đã được công bố trong những tuần/tháng kế tiếp.
 
-I propose the Land Auction & Raffle is delayed until the full release of Book One of the Gotchiverse occurs or the community votes for an additional sale.
+Mình đề xuất dời sự kiện Đấu Giá & Xổ Số Land đến khi Quyển Một của Gotchiverse diễn ra hoặc khi cộng đồng đồng ý tổ chức thêm.
 
-This is primarily to ensure that the community can make fully informed bids/investments in Land and we reduce the risk of repeating what happened previously with people overbidding and getting rekt.
+Việc này chủ yếu là để đảm bảo cộng đồng có thể chuẩn bị trước cho số tiền đầu tư/lệnh đấu giá Land và chúng ta có thể giảm thiểu nguy cơ lập lại tình trạng đã xảy ra với những ai đặt giá quá tay và toang.
 
-[CoreProp Edit: Since Book One is going to be fully published soon but there still seems to be little appetite for a REALM Sale, we have added a voting option to only start the next Auction & Raffle if a SigProp reaches Quorum and the respective CoreProp passes. This adjustment has been discussed with Jarrod beforehand.]
+[Chỉnh Sửa CoreProp: Do Quyển Một sắp được đăng tải trong tương lai gần nhưng vẫn có nhu cầu dành cho sự kiện mở bán REALM, nên chúng mình đã thêm một phương án bỏ phiếu để sự kiện Đấu Giá & Xổ Số sẽ chỉ bắt đầu khi SigProp đặt Túc Số và từng bản CoreProp được thông qua. Việc điều chỉnh này đã được thảo luận trước cùng Jarrod.]
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
 
-Option 1: Delay until full Book 1
+Phương án 1: Dời đến khi Quyển 1 được ra mắt xong
 
-Option 2: Delay until Community Proposal
+Phương án 2: Dời đến khi có Bản Đề Xuất Cộng Đồng
 
-Option 3: Start Auction 3 ASAP
+Phương án 3: Bắt Đầu Đấu Giá 3 càng sớm càng tốt
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -935,25 +935,25 @@ table_agip25
 
 *Vấn đề:*
 
-The VRF variance for Alchemica under the ground of parcels (0.2 - 1.8 of average) seems very high to me and could lead to some people getting rekt - see the graphic posted on the Discourse Thread.
+Biến số VRF dành cho Alchemica bên dưới lòng đất (trung bình 0.2 - 1.8) vẫn có vẻ cao và có thể khiến nhiều người toang - hãy xem biểu đồ được đăng trong bài viết trên Discord.
 
-A very unlucky spacious owner could get less alchemica than a lucky reasonable owner - which is in my opinion very bad UX, especially considering that it was communicated this wouldn’t be possible. Keep in mind that the first round (quarter) will distribute more Alchemica than the rest of them, so losing big in the first round could set someone back by a lot.
+Chủ sở hữu của một mảnh đất spacious có thể nhận được ít alchemica hơn một người chủ của mảnh đất reasonable may mắn - đó là lý do tại sao mình nghĩ đây là một trải nghiệm người dùng rất tệ, đặc biệt là khi chúng mình đã được báo trước là việc này sẽ không xảy ra. Hãy nhớ rằng vòng đầu tiên (quý) thì Alchemica sẽ được phân bố nhiều hơn thời điểm khác, vậy nên sự hụt hẫn ở vòng đầu có thể khiến ai đó bị tuột lại khá xa.
 
 *Giải pháp*
 
-I want to propose lowering the variance to AT LEAST 0.5 - 1.5 if not even 0.75 - 1.25 for the first round (Voting Choice 1). My issue with this very high variance is that people made financial decisions based on the average numbers published before the first auction, making people lose 50-80% of Alchemica value underneath the parcel is terrible UX to me.
+Mình muốn đề xuất hạ thấp biến số xuống ÍT NHẤT 0.5 - 1.5 nếu thậm chí không phải là 0.75 - 1.25 ở vòng đầu (Lựa chọn 1). Vấn đề của mình với biến số cao là mọi người đã đưa ra quyết định tài chính dựa trên những con số trung bình được đăng tải trước buổi đấu giá đầu tiên, khiến mọi người mất 50-80% giá trị Alchemica nằm bên dưới gói đất là một trải nghiệm người dùng tệ hại đối với mình.
 
-Another option suggested by Mori would be to create a binomial distribution with the left tail cut off, so it's possible to win big but impossible to get rekt hard (Voting Choice 2). This results in an average pull of 100, a minimum pull of 60, and a maximum pull of ~800. There's a fairly reasonable chance of winning this top prize, with ~0.02% of parcels being able to achieve this. Important note: This option would reduce the previous Median of 100 to roughly 83.
+Một phương án khác được đề xuất bởi Mori là tạo ra hệ phân bố nhị thức với khả năng cắt bỏ phần đuôi, vậy nên sẽ có thể thắng lớn nhưng gần như không thể thua tan nát (Phương án 2). Việc này sẽ dẫn đến lượng trung bình 100, nhỏ nhất là 60, và nhiều nhất là 800. Đây là một thay đổi có lý để thắng giải top, với chỉ ~0,02% gói đất có thể đạt được điều này. Ghi chú quan trọng: Phương án này sẽ giảm số trung bình là 100 xuống còn khoảng 83.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
-Option 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
+Phương án 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
 
-Option 2: Binomial Distribution
+Phương án 2: Phân bố nhị thức
 
-Option 3: No, don't change the Variance
+Phương án 3: Không, đừng thay đổi biến số
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -968,7 +968,7 @@ table_agip26
 
 **Tóm Tắt Đề Xuất:**
 
-With the introduction of Gotchiverse trait maps in the Game Bible Chapter 2, a significant discussion kicked off analyzing potential imbalances, weaknesses and areas for innovation in the original proposed trait map for NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+Với sự xuất hiện của hệ quy đổi chỉ số đặc tính Gotchiverse trong Game Bible Chương 2, một cuộc thảo luận đáng chú ý đã bắt đầu về những sự mất cân bằng tiềm ẩn, điểm yếu, và những lĩnh vực đột phát trong hệ quy đổi điểm đặc tính được đề ra ban đầu cho NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
 
 NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
 
@@ -1010,7 +1010,7 @@ Option 1: Yes, use the new Trait Map
 
 Option 2: No, stick with the original
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -1075,7 +1075,7 @@ Option 13: Nestor
 
 Option 14: Chichi
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
