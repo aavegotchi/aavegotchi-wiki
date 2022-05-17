@@ -1,7 +1,7 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Recipes'
+title: 'Công Thức'
 description: 'Aavegotchi Recipes'
 contributors:
   - "unintelligent-nerd"
