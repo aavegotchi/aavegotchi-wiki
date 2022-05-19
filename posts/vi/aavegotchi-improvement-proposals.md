@@ -900,25 +900,25 @@ table_agip24
 
 **Tóm Tắt Đề Xuất:**
 
-Pixelcraft has provided a schedule in Chapter 1 in the Gotchiverse Game Bible with the Gotchiverse Land Auction / Raffle 3 scheduled to occur Late February: [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+Pixelcraft đã cung cấp một lịch tình cho Chương 1 trong Gotchiverse Game Bible với sự kiện Đấu Giá / Xổ Số Land Gotchiverse được đặt lịch tổ chức vào cuối tháng Hai [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 
-This was scheduled to happen before the following Gotchiverse Game Bible Chapters were published according to that same post. 4 more Chapters were released in March and there are more planned to be released during the following weeks/months.
+Việc này đã được lên lịch để xảy ra trước khi các chương Gotchiverse Game Bible được đăng tải dựa theo bài viết nêu trên. 4 Chương nữa đã được công bố vào tháng Ba và sẽ nhiều bài viết hơn đã được công bố trong những tuần/tháng kế tiếp.
 
-I propose the Land Auction & Raffle is delayed until the full release of Book One of the Gotchiverse occurs or the community votes for an additional sale.
+Mình đề xuất dời sự kiện Đấu Giá & Xổ Số Land đến khi Quyển Một của Gotchiverse diễn ra hoặc khi cộng đồng đồng ý tổ chức thêm.
 
-This is primarily to ensure that the community can make fully informed bids/investments in Land and we reduce the risk of repeating what happened previously with people overbidding and getting rekt.
+Việc này chủ yếu là để đảm bảo cộng đồng có thể chuẩn bị trước cho số tiền đầu tư/lệnh đấu giá Land và chúng ta có thể giảm thiểu nguy cơ lập lại tình trạng đã xảy ra với những ai đặt giá quá tay và toang.
 
-[CoreProp Edit: Since Book One is going to be fully published soon but there still seems to be little appetite for a REALM Sale, we have added a voting option to only start the next Auction & Raffle if a SigProp reaches Quorum and the respective CoreProp passes. This adjustment has been discussed with Jarrod beforehand.]
+[Chỉnh Sửa CoreProp: Do Quyển Một sắp được đăng tải trong tương lai gần nhưng vẫn có nhu cầu dành cho sự kiện mở bán REALM, nên chúng mình đã thêm một phương án bỏ phiếu để sự kiện Đấu Giá & Xổ Số sẽ chỉ bắt đầu khi SigProp đặt Túc Số và từng bản CoreProp được thông qua. Việc điều chỉnh này đã được thảo luận trước cùng Jarrod.]
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
 
-Option 1: Delay until full Book 1
+Phương án 1: Dời đến khi Quyển 1 được ra mắt xong
 
-Option 2: Delay until Community Proposal
+Phương án 2: Dời đến khi có Bản Đề Xuất Cộng Đồng
 
-Option 3: Start Auction 3 ASAP
+Phương án 3: Bắt Đầu Đấu Giá 3 càng sớm càng tốt
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -935,25 +935,25 @@ table_agip25
 
 *Vấn đề:*
 
-The VRF variance for Alchemica under the ground of parcels (0.2 - 1.8 of average) seems very high to me and could lead to some people getting rekt - see the graphic posted on the Discourse Thread.
+Biến số VRF dành cho Alchemica bên dưới lòng đất (trung bình 0.2 - 1.8) vẫn có vẻ cao và có thể khiến nhiều người toang - hãy xem biểu đồ được đăng trong bài viết trên Discord.
 
-A very unlucky spacious owner could get less alchemica than a lucky reasonable owner - which is in my opinion very bad UX, especially considering that it was communicated this wouldn’t be possible. Keep in mind that the first round (quarter) will distribute more Alchemica than the rest of them, so losing big in the first round could set someone back by a lot.
+Chủ sở hữu của một mảnh đất spacious có thể nhận được ít alchemica hơn một người chủ của mảnh đất reasonable may mắn - đó là lý do tại sao mình nghĩ đây là một trải nghiệm người dùng rất tệ, đặc biệt là khi chúng mình đã được báo trước là việc này sẽ không xảy ra. Hãy nhớ rằng vòng đầu tiên (quý) thì Alchemica sẽ được phân bố nhiều hơn thời điểm khác, vậy nên sự hụt hẫn ở vòng đầu có thể khiến ai đó bị tuột lại khá xa.
 
 *Giải pháp*
 
-I want to propose lowering the variance to AT LEAST 0.5 - 1.5 if not even 0.75 - 1.25 for the first round (Voting Choice 1). My issue with this very high variance is that people made financial decisions based on the average numbers published before the first auction, making people lose 50-80% of Alchemica value underneath the parcel is terrible UX to me.
+Mình muốn đề xuất hạ thấp biến số xuống ÍT NHẤT 0.5 - 1.5 nếu thậm chí không phải là 0.75 - 1.25 ở vòng đầu (Lựa chọn 1). Vấn đề của mình với biến số cao là mọi người đã đưa ra quyết định tài chính dựa trên những con số trung bình được đăng tải trước buổi đấu giá đầu tiên, khiến mọi người mất 50-80% giá trị Alchemica nằm bên dưới gói đất là một trải nghiệm người dùng tệ hại đối với mình.
 
-Another option suggested by Mori would be to create a binomial distribution with the left tail cut off, so it's possible to win big but impossible to get rekt hard (Voting Choice 2). This results in an average pull of 100, a minimum pull of 60, and a maximum pull of ~800. There's a fairly reasonable chance of winning this top prize, with ~0.02% of parcels being able to achieve this. Important note: This option would reduce the previous Median of 100 to roughly 83.
+Một phương án khác được đề xuất bởi Mori là tạo ra hệ phân bố nhị thức với khả năng cắt bỏ phần đuôi, vậy nên sẽ có thể thắng lớn nhưng gần như không thể thua tan nát (Phương án 2). Việc này sẽ dẫn đến lượng trung bình 100, nhỏ nhất là 60, và nhiều nhất là 800. Đây là một thay đổi có lý để thắng giải top, với chỉ ~0,02% gói đất có thể đạt được điều này. Ghi chú quan trọng: Phương án này sẽ giảm số trung bình là 100 xuống còn khoảng 83.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
-Option 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
+Phương án 1: Round 1 0.75 - 1.25 & 0.5 - 1.5
 
-Option 2: Binomial Distribution
+Phương án 2: Phân bố nhị thức
 
-Option 3: No, don't change the Variance
+Phương án 3: Không, đừng thay đổi biến số
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -968,23 +968,23 @@ table_agip26
 
 **Tóm Tắt Đề Xuất:**
 
-With the introduction of Gotchiverse trait maps in the Game Bible Chapter 2, a significant discussion kicked off analyzing potential imbalances, weaknesses and areas for innovation in the original proposed trait map for NRG, AGG, SPK & BRN. This CoreProp proposes to change the trait mappings for these 4 traits to:
+Với sự xuất hiện của hệ quy đổi chỉ số đặc tính Gotchiverse trong Game Bible Chương 2, một cuộc thảo luận đáng chú ý đã bắt đầu về những sự mất cân bằng tiềm ẩn, điểm yếu, và những lĩnh vực đột phát trong hệ quy đổi điểm đặc tính được đề ra ban đầu cho NRG, AGG, SPK & BRN. CoreProp đề xuất về việc thay đổi hệ quy chiếu trait cho 4 đặc tính này thành:
 
-NRG: HP Capacity (0 NRG) <===> AP Capacity (100 NRG)
+NRG: Máu Tối Đa (0 NRG) <===> Thể Lực Tối Đa (100 NRG)
 
-AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
+AGG: Sức Phòng Thủ (0 AGG) <===> Tốc Độ Hành Động (100 AGG)
 
-SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
+SPK: Tối Độ Hồi Máu & Thể Lực (0 SPK) <===> Thần Lực (100 SPK)
 
-BRN: Melee Power (0 BRN) <===> Ranged Power (100 BRN)
+BRN: Sức Mạnh Đánh Gần (0 BRN) <===> Sức Mạnh Đánh Xa (100 BRN)
 
-EYS: To Be Confirmed
+EYS: Chờ Xác Nhận
 
-EYC: To Be Confirmed
+EYC: Chờ Xác Nhận
 
-Please refer to the DAO forum thread for a full rundown on what these changes mean (including an FAQ section).
+Xem qua chủ đề trên diễn đàn DAO để hiểu đầy đủ ý nghĩa của những thay đổi này (bao gôm cả phần FAQ).
 
-Core Effects of the New Trait Map
+Ảnh Hưởng Chính Đối Với Hệ Quy Đổi Mới
 
 * Tốc độ di chuyển được xóa khỏi biểu đồ quy đổi sẽ giúp cả thiện trải nghiệm người dùng (UX) dành cho tất cả người chơi mới bắt đầu tham gai Gotchiverse, cả mới và cũ,
 * Sức chứa bị gỡ bỏ khỏi bản đồ sẽ sửa chữa lại sự mất cân bằng của 1 chỉ số farm vs 7 chỉ số combat gồm NRG, AGG, SPK và BRN,
@@ -992,25 +992,25 @@ Core Effects of the New Trait Map
 * Hiện đã có sự khác nhau rõ ràng giữa tướng đánh gần và đánh xa,
 * Thần lực giờ đây có thể xem như "May mắn" và ảnh hưởng đến khả năng nó tránh, chí mạng, lướt qua tường và tất cả những hành động dựa trên cơ hội trong Gotchiverse.
 
-*End Goal*
+*Mục Đích Cuối Cùng*
 
-For the community and Pixelcraft to build a trait map together that is balanced, has excellent UX, playability and longevity while simultaneously allowing the flexibility to implement wearable buffs and abilities that work with the traits in the future.
+Để cộng đồng và Pixelcraft cùng nhau xây dựng một biểu đồ quy đổi thật là cân bằng, trải nghiệm người chơi tuyệt vời, và sự bền vững, đồng thời cho phép sự linh hoạt trong việc tích hợp buff trang bị và kỹ năng liên kết với chỉ số trait trong tương lai.
 
-*Risks*
+*Rủi ro*
 
-There is potential that some players and investors have already purchased gotchis based on the original trait mappings. It is important to note that these traits were always specified as non-immutable in the Game Bible HOWEVER, we strongly believe the new trait maps proposed here will create even moar diverse and entertaining play styles for OG investors and new players alike to experiment with and enjoy playing.
+Có nguy cơ một số người chơi và nhà đầu tư đã mua gotchi dựa trên những chỉ số quy đổi cũ. Một lưu ý quan trọng cần nhớ là những chỉ số trait này luôn được xem là không vĩnh viễn trong Game Bible. TUY NHIÊN, bọn mình tin chắc rằng bản đồ mới được đề xuất ở đây thậm chí sẽ đa dạng và giải trí hơn trong phong cách chơi dành cho những nhà đầu tư OG và người chơi mới để có thể trải nghiệm và chơi game.
 
-*Final Important Notes*
+*Ghi Chú Quan Trọng*
 
-There are a number of ways these Traits can scale (Yin/Yang linear, asymmetric, buff only starting from 50 and diminishing returns to name a few). The Trait Scaling System is still under review by the community so look forward to further calls with Pixelcraft (to really get into the nitty gritty) and another SigProp! EYS and EYC are still under review by the community. A number of interesting ideas including farming/alchemica/HUD abilities have been proposed. Make sure you get involved and have your say on how you’d like to see these evolve too!
+Có nhiều cách để chỉ số Trait ảnh hưởn gđến việc cân bằng (âm dương tuyến tính, không đối xứng, buff chỉ bắt đầu từ 50 và lợi nhuận giảm dần, v. v.). Hệ Thống Cân Bằng Trait vẫn đang được xem xét bởi cộng đồng nên hãy đón chờ những cuộc gọi kế tiếp từ Pixelcraft (để thực tham gia vào đó) và một bản SignProp khác nhé! EYS và EYC vẫn đang được cộng đồng xem xét. Một số ý tưởng thú vị bao gồm khả năng farm/alchemica/HUD đã được đề xuất. Hãy nhớ rằng nếu bạn nên tham gia và nói lên những suy nghĩ của mình nhé!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
 
-Option 1: Yes, use the new Trait Map
+Phương án 1: Vâng, hãy dùng bản quy đổi mới này
 
-Option 2: No, stick with the original
+Không, hãy sử dụng bản cũ
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -1025,57 +1025,57 @@ table_agip27
 
 **Tóm Tắt Đề Xuất:**
 
-Hi frens, in Chapter 2 we proposed that 10% of the Gotchus Alchemica supply be vested over 30 years to be used for Ecosystem purposes. The primary goal of this allocation is to ensure excellent long-term liquidity across many platforms, including the GAX, various DEXes on Polygon, Mainnet, and even CEXes.
+Chào các bạn, trong Chương 2 chúng tôi đã đề xuất về việc 10% Gotchus Alchemica nền được mở khóa dần trong 30 năm để sử dụng cho các mục đích trong Hệ Sinh Thái. Mục tiêu chính của việc này là để đảm bảo thanh khoản lâu dài giữa các nền tảng, bao gôm GAX, nhiều sàn DEX khác trên Polygon, Mainnet, và thậm chí là CEX.
 
-Those who follow the project carefully know that we always try to do everything “by the book”, to make Aavegotchi a model case study for decentralization and legal compliance. We are currently in the final stages of setting up a new legal wrapper for AavegotchiDAO (more specifically, a Panama Foundation) and will soon be making an announcement for applications to serve.
+Những người theo dõi dự án kỹ lưỡng biết rằng bọn mình luôn cố làm mọi thứ "như trong sách", để giúp Aavegotchi trở thành một ví dụ điển hình cho tính phi tập trung và tuân thủ pháp lý. Chúng ta đang ở những giai đoạn cuối cùng để đặt ra một công ty pháp lý mới cho Aavegotchi (cụ thể là một Tổ Chức Panama) và sẽ sớm thông báo về các ứng dụng để phục vụ.
 
-On the technical side, we are also working to implement onchain governance of the Aavegotchi protocol. However, this will take some time, as it requires upgrades to the deployed GHST token on Polygon.
+Về mặt kỹ thuật, bọn mình cũng đang làm việc về vấn đề áp dụng quản trị on-chain cho giao thức Aavegotchi. Tuy nhiên, việc này sẽ tốt ít thời gian, do cần phải nâng cấp để triển khai token GHST trên Polygon.
 
-While all of this is happening in the background, we are also launching FIVE new ERC20 Alchemica tokens and locking a sizable amount of them into vesting contracts.
+Dù tất cả những việc này xảy ra ở phía sau cành gà, bọn mình cũng đang triển khai NĂM token Alchemica ERC20 mới và mở khóa một lượng lớn số token này để vào hợp đồng mở khóa chậm.
 
-For both legal and strategic reasons, we believe that the Ecosystem allocation should not be managed by Pixelcraft, but instead by AavegotchiDAO. The DAO Treasury Force has already been created to manage some of the DAO treasury, but the number of signers is quite few (six) and in my opinion insufficient to hold such a sum of funds.
+Vì lý do pháp lý và chiến lược, bọn mình tin rằng phần phân bố cho Hệ Sinh Thái không nên được quản lý bởi Pixelcraft mà nên được quản lý bởi AavegotchiDAO. Biệt Đội Ngân Quỹ DAO sẽ được tạo ra để quản trị một phần ngân quỹ DAO, nhưng số lượng người ký rất ít và theo ý kiến của mình thì điều này không đủ để giữ một số tiền lớn như vậy.
 
-Therefore, I propose we create an additional multisig under the current DTF, with fifteen signers instead of the current six. **Eleven** out of fifteen signatures would be required to confirm transactions.
+Do đó, mình đề xuất tạo ra một chiếc ví multisign dưới biệt đội DTF hiện tại, với 15 nguiowf ký tên thay vì 6 người. **Mười một** trong số 15 chữ ký sẽ cho phép xác nhận giao dịch.
 
-This multisig would be the beneficiary of the Ecosystem Vesting Contract (which holds 10% of each Alchemica’s token supply, vested over 30 years), and could also inherit the 1M GHST originally allocated during the GHST creation for Ecosystem building, to help bootstrap Alchemica liquidity.
+Ví multisign này sẽ có lợi cho Hợp Đồng Mở Khóa Chậm Hệ Sinh Thái (nắm giữ 10% nguồn cung của token Alchemica, trả chậm trong 30 năm), và cũng có thể kế thừa 1 triệu GHST được phân bổ ban đầu trong suốt quá trình tạo ra GHST cho việc xây dựng Hệ Sinh Thái, giúp giữ được thanh khoản Alchemica.
 
-On our side, we will deploy the Alchemica and create initial liquidity pools on Quickswap, after which we will transfer ownership of the vesting contract to the multisig. After that point, it will be up to the DTF to coordinate liquidity provision.
+Ở phía bọn mình, bọn mình sẽ triển khai Alchemica và tạo ra các quỹ thanh khoản ban đầu trên Quickswap, sau đó bọn mình sẽ chuyển quyền sở hữu của vesting contract sang cho ví multisign. Sau thời điểm đó, DTF sẽ quyết định việc cung cấp thanh khoản.
 
 Let’s goooo Gotchigang!
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
 
-[Final note: You can vote for multiple members at once, the top 9 choices will then get elected! Short pitches for everyone can be found in the discussion thread]
+[Ghi chú cuối cùng: Bạn có thể bỏ phiếu cho nhiều thành viên cùng lúc, top 9 lựa chọn sẽ được bầu! Bài thuyết trình ngắn về các thành viên có thể được tìm htaays trong chủ đề thảo luận]
 
-Option 1: Kokusho
+Phương án 1: Kokusho
 
-Option 2: MGG
+Phương án 2: MGG
 
-Option 3: Choyna
+Phương án 3: Chonya
 
-Option 4: Pgendreau
+Phương án 4: Pgendreau
 
-Option 5: Diddlypoo
+Phương án 5: Diddlypoo
 
-Option 6: Tburd.eth
+Phương án 6: Tburd.eth
 
-Option 7: Jarrod
+Phương án 7: Jarrod
 
-Option 8: MarvinP
+Phương án 8: MarvinP
 
-Option 9: Notorious_BTC
+Phương án 9: Notorious_BTC
 
-Option 10: Hardkor
+Phương án 10: Hardkor
 
-Option 11: Yanik
+Phương án 11: Yanik
 
-Option 12: Master_Yin
+Phương án 12: Master_Yin
 
-Option 13: Nestor
+Phương án 13: Nestor
 
-Option 14: Chichi
+Phương án 14: Chichi
 
-**Voting Period:** 23 - 30 March 2022
+**Thời gian vote:**23 - 30 tháng Mười 2022
 
 **Kết quả:**
 
@@ -1088,23 +1088,23 @@ table_agip28
 ### Các marketplace (thị trường trao đổi) dành cho Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Phương án A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Phương án B: Aavegotchi Maarket
 
-Choice C: Neither
+Phương án C: Không chọn 2 đáp án trên
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1118,19 +1118,19 @@ table_marketplaceName
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1144,11 +1144,11 @@ table_ghstUsdcLp
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
 
 * Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
 
@@ -1156,17 +1156,17 @@ Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an
 
 * Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
 
-Let your $GHST token speak for you, and vote!
+Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
 
-AavegotchiDAO discussion topic 👇
+Chủ đề thảo luận của AavegotchiDAO 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Thời gian vote:**23 - 26 tháng Hai 2021
 
 **Kết quả:**
 
