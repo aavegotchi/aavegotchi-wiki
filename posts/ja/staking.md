@@ -34,7 +34,8 @@ GHSTのステーキングのやり方については、こちらをご覧くだ�
 <li><a href=#purchasing-ghst>GHSTの購入</a></li>
 <li><a href=#how-to-stake>ステーキングのやり方</a></li>
 <li><a href=#staking-contract-addresses>ステーキング・コントラクト・アドレス</a></li>
-<li><a href=#what-s-next->次は何をする？</a></li>
+<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -161,6 +162,12 @@ GHST-QUICKとGHST-USDCのステーキングは同じ手順で行います。
 
 表_stakingContractAddresses
 
-## 次は何をするの？
+## FRENS Taask Force
 
-さて、FRENSを手に入れましたか？ [チケットのページ](/tickets)に行き、FRENSでチケットを購入する方法とラッフルに参加する方法を学んでください。
+From time to time, the FRENS emission rate does not automatically get updated when the price of the underlying tokens changes.
+
+The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
+
+## What's next?
+
+So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
