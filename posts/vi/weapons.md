@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Weapons'
-description: 'Aavegotchi Weapons'
+title: 'Vũ Khí'
+description: 'Vũ Khí Trong Aavegotchi'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+Vũ khí là những trang phụ cầm tay thuộc dạng Đánh Gần hoặc Đánh Xa. Những Trang Phục đặc biệt này có thể gây sát thương lên Gotchi (trong Đấu Trường), Lickquidator, Kẻ Thù, và Những Bức Tường.
 
-Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+Mỗi Vũ Khí đều sẽ gắn liền với những lợi ích đặc biệt, ví dụ như tăng sát thương lên Tường, tăng sát thương lên Lickquidator, tăng tốc độ đánh, hoặc những lợi ích khác.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#melee-weapons>Melee Weapons</a></li>
-<li><a href=#ranged-weapons>Ranged Weapons</a></li>
+<li><a href=#melee-weapons>Vũ khí cận chiến</a></li>
+<li><a href=#ranged-weapons>Vũ khí đánh xa</a></li>
 </ol>
 
 </div>
 
-## Melee Weapons
+## Vũ khí cận chiến
 
 table_meleeWeapons
 
-## Ranged Weapons
+## Vũ khí đánh xa
 
 table_rangedWeapons
