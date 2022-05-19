@@ -47,73 +47,75 @@ Avegotchi Wikiのページ一覧です：
 
 * [よくある質問（FAQ）](/faq)
 
-* [ゲーム・ジャム（Gaame Jaam）](/gaame-jaam)
+* [FRENS Taask Force](/frens-taask-force)
 
-* [GHSTトークン（GHST Token）](/ghst)
+* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
-* [用語解説（Glossary）](/glossary)
+* [GHSTトークン](/ghst)
 
-* [ゴッチ・レンディング（Gotchi Lending）](/gotchi-lending)
+* [用語解説](/glossary)
 
-* [ゴッチバース（Gotchiverse）](/gotchiverse)
+* [ゴッチ・レンディング](/gotchi-lending)
 
-* [ゴッチュス・アルケミカ（Gotchus Alchemica）](/gotchus-alchemica)
+* [ゴッチバース](/gotchiverse)
 
-* [ゴッチュスアルケミカ取引所（Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
+* [ゴッチュスアルケミカ](/gotchus-alchemica)
 
-* [ギルド（Guild）](/guild)
+* [ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [ハウント（Haunt）](/haunt)
+* [Guild](/guild)
 
-* [ホーム（Home）](/index)
+* [ハウント](/haunt)
 
-* [はじめに（Introduction）](/introduction)
+* [Home](/index)
 
-* [キンシップ（Kinship）](/kinship)
+* [はじめに](/introduction)
 
-* [モール（Maall）](/maall)
+* [キンシップ](/kinship)
+
+* [Maall](/maall)
 
 * [maToken](/matokens)
 
-* [メディア（Media）](/media)
+* [Media](/media)
 
-* [ミーム（Memes）](/memes)
+* [Memes](/memes)
 
-* [マイルストーン（Milestones）](/milestones)
+* [マイルストーン](/milestones)
 
-* [ミニゲーム（Mini-Games）](/minigames)
+* [Mini-Games](/minigames)
 
-* [ミニゲームXPイベント（Mini-Game XP Events）](/minigame-xp-events)
+* [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション（Missions）](/missions)
+* [Missions](/missions)
 
-* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
+* [Mumbai Testnet](/mumbai-testnet)
 
-* [パートナーズ（Partners）](/partners)
+* [パートナーズ](/partners)
 
 * [POAP](/poap)
 
-* [ポリゴン（Polygon）](/polygon)
+* [Polygon（ポリゴン）](/polygon)
 
-* [ポータル（Portals）](/portals)
+* [ポータル](/portals)
 
-* [ラッフルの統計（Raffles Statistics）](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
-* [レアリティ・ファーミング（Rarity Farming）](/rarity-farming)
+* [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
-* [レアリティファーミングシーズン（Rarity Farming Seasons）](/rarity-farming-seasons)
+* [レアリティファーミングシーズン](/rarity-farming-seasons)
 
 * [レシピ](/recipes)
 
 * [ロードマップ](/roadmap)
 
-* [セット（Sets）](/sets)
+* [Sets](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [スピリットフォースの歴史](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
 
@@ -129,7 +131,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [チュートリアル](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
