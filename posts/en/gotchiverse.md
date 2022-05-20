@@ -26,6 +26,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#districts>Districts</a></li>
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
+<li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
 <li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
@@ -122,6 +123,20 @@ The main goal of a lickquidator is to collect loose Alchemica that has been spil
 Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
 
 There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
+
+## Entering the Gotchiverse
+
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
+
+You need a Gotchi to access the Gotchiverse.
+
+Select the Gotchi that you will be using and click on the portal to enter.
+
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png">
+
+Next, you need to select the Gotchi's spawn location. You can select from various locations on District 1, any REALM parcel that you own, or a random location.
+
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png">
 
 ## Socializing in the Gotchiverse
 
