@@ -37,6 +37,7 @@ Dit, vrienden, is de Gotchus Alchema Exchange (GAX).
 <ol>
 <li><a href=#features>Functies</a></li>
 <li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#earning-gltr>GLTR verdienen</a></li>
 </ol>
 
 </div>
@@ -100,3 +101,8 @@ GAX LP tokens kunnen worden ingezet in een Master Chef contract om GLTR te verdi
 
 Alle GLTR in-game uitgaven worden verbrand van het leveringspunt (verzonden naar het brandend adres).
 
+## GLTR verdienen
+
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+
+Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
