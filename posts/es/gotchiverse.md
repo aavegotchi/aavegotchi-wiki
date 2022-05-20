@@ -28,13 +28,14 @@ El Gotchiverso comenzó con sólo un puñado de Aavegotchis, pero a medida que l
 <li><a href=#districts>Distritos</a></li>
 <li><a href=#realm-parcel-sizes>PARCELAS del reino</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializar en el Gotchiverso</a></li>
+<li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
 <p><a href=#chat-commands>Comandos de Chat</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Construyendo sobre las parcelas del REALM</a></li>
+<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Recetas y características de las instalaciones</a></p>
 <p><a href=#crafting-revenue-distribution>Distribución de los Ingresos de Fabricación</a></p>
-<li><a href=#realm-tokenomics>Tokenomics REALM</a></li>
+<li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Suministro Total</a></p>
 <p><a href=#distribution>Distribución</a></p>
 <p><a href=#drop-tickets>Drop Ticket</a></p>
@@ -125,50 +126,64 @@ Los Lickquidators están concebidos como un punto de entrada gratuito al Reino d
 
 También hay una función [Préstamo de Gotchi](/gotchi-lending) que permite a los propietarios de Gotchi prestar sus Gotchis a otros jugadores durante un periodo de tiempo determinado para probar el juego.
 
-## Socializar en el Gotchiverso
+## Entering the Gotchiverse
 
-A los Aavegotchis les encanta socializar con sus amigos, y su lugar favorito para pasar el rato es el Gotchiverso!
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
 
-Por defecto, el chat de texto se activará para todos los Gotchis que estén cerca unos de otros. Los propietarios de Parcelas REALM también pueden construir Instalaciones especiales en sus parcelas para permitir el chat de voz para los Gotchis dentro de una Parcela, y actualizar la Instalación para soportar el chat de voz global.
+You need a Gotchi to access the Gotchiverse.
 
-Los Gotchis también pueden agruparse para realizar Aventuras juntos, explorando mazmorras, luchando contra lickquidators y otros baaddies para obtener recompensas. Las Aventuras son regiones especiales fuera del Gotchiverso principal donde los Aavegotchis pueden poner en práctica sus [rasgos](/traits) y [wearables](/wearables) mientras exploran, luchan contra enemigos NPC y ganan experiencia y recursos. Pero no duran para siempre!
+Select the Gotchi that you will be using and click on the portal to enter.
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Mazmorra Gotchiverse" />
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
+
+Next, you need to select the Gotchi's spawn location. You can select from various locations on District 1, any REALM parcel that you own, or a random location.
+
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
+
+## Socializing in the Gotchiverse
+
+Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+
+By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+
+Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+
+<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
 
 ## Comandos de Chat
 
-La siguiente tabla muestra los comandos del chat en el Gotchiverso.
+The following table shows the chat commands in the Gotchiverse.
 
 table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (fichas ERC20) son los cuatro elementos del Gotchiverso: Fud, Fomo, Alpha y Kek. Pueden combinarse para elaborar Instalaciones y Estética, entre otros usos. Lea más sobre los tokenómicos [aquí](/gotchus-alchemica).
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-El siguiente cuadro muestra su suministro total:
+The table below shows their total supply:
 
 table_gotchusAlchemicaSupply
 
-Gotchus Alchemica puede extraerse de REALM de cuatro maneras distintas:
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Canalización alquímica**:  Un estipendio diario básico que ganan los Aavegotchis y que proviene directamente del éter del Gotchiverso, en lugar de ser cosechado de la parcela.
 * **Canalización comunitaria**: Los Aavegotchis también pueden canalizar colectivamente la Alchemica cuando se ha construido una Instalación de Logia Gotchi en la Parcela REALM. Para participar en la canalización comunitaria, el Aavegotchi debe llevar la Insignia del Clan asociada y estar presente en la Parcela REALM durante el ritual. Por cada Aavegotchi adicional que participe en el ritual de Canalización Comunitaria, la Alchemica se cultivará más rápidamente.
 * **Farming**: Una vez que se ha construido una cosechadora, la alquimia comienza a acumularse de forma pasiva, con una cantidad x que va a parar al Depósito, **y** cantidad derramada al mapa cercano, y **z** cantidad que va al Gran Portal
 * **Harvesting**: Los aavegotchis y los lickquidators pueden recorrer el mapa, recogiendo Alchemica suelta derramada por la minería.
 
-La compraventa de Gotchus Alchemica tendrá lugar en la [Intercambio de Gotchus Alchemica (GAX)](/gotchus-alchemica-exchange).
+Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
 ### Alchemica media por parcela
 
-De forma similar a la mecánica del "Portal" en Aavegotchi, las Parcelas REALM deben ser registradas antes de que finalmente revelen la cantidad de Alchemica que descansa en su interior. El proceso de registro consiste en una llamada onchain a Chainlink VRF, un autentico generador de números aleatorios.
+Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
 
-Cuando se libere el Gotchiverse, todas las Parcelas REALM existentes podrán ser registradas si sus propietarios así lo deciden, o el proceso de registro podrá retrasarse hasta una fecha futura.
+When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
 
-El rango de Alchemica disponible para cada Tipo de Parcela se indica a continuación, para todo el Acto 1, y para la Ronda 1 del Acto 1, el cual distribuye aproximadamente el 25% de la Alchemica.
+The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 
-*Tenga en cuenta que el total de Alchemica dentro de una Parcela es **acumulativo**, lo que significa que futuros registros añadirán Alchemica adicional sobre el total.*
+*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
 
 table_avgBaseAlchemicaPerParcelAct1Total
 
@@ -176,31 +191,31 @@ table_avgBaseAlchemicaPerParcelAct1FirstRound
 
 ### Rango Alchemica en la parcela
 
-El rango posible de Alchemica que se pueden descubrir durante cada ronda de registro. Para evitar una mala experiencia del jugador, el "mínimo" que se puede obtener es el 20% de la media, y el "máximo" es 1,8 veces la media.
+The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
 
-Por ejemplo, el rango de valores de FUD para una parcela de Humilde para toda el Acto 1 será de 5694 a 51251, con una media de 28.473.
+For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
 
-Creemos que esto proporciona un juego interesante, a la vez que ofrece una "red de seguridad" suficiente incluso para los jugadores más desafortunados.
+We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
 
-## Construyendo sobre las parcelas del REALM
+## Building on REALM parcels
 
-Las **Instalaciones** son estructuras especiales construidas sobre tu Parcela REALM. Las instalaciones se fabrican mediante varias combinaciones de Alchemica, y se pueden intercambiar libremente por GHST en el [Bazaar de Aavegotchi](/baazaar).
+**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
-Las instalaciones confirmadas incluyen:
+Confirmed Installations include:
 
 table_installations
 
-Las instalaciones tardan un cierto número de bloques de la cadena de bloques en terminar de construirse, pero este tiempo puede reducirse gastando GLTR (GAX Liquidity Token Reward), una moneda del juego que puede ganarse proporcionando liquidez en el Intercambio de Gotchus Alchemica (GAX).
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
-**Estética** son NFTs estéticas que pueden añadirse a una Parcela, pero no afectan a su Alquímica ni a otras estadísticas. Simplemente se ven chulas.
+**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
 ### Recetas y características de las instalaciones
 
 **Fórmulas**
 
-Fabricar instalaciones y mejorarlas para que sean más poderosas es una parte importante de la experiencia de Gotchiverse. Las distintas instalaciones requieren diferentes "recetas" para su elaboración y mejora, por lo que los adeptos nos han proporcionado un práctico libro de recetas para su consulta! Puedes encontrar las últimas fórmulas [aquí](/recipes).
+Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](/recipes).
 
-**Tasa de recolección, capacidad y dispersión**
+**Harvest Rate, Capacity, and Spillover**
 
 Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
 
@@ -237,7 +252,7 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
-## Tokenomics REALM
+## REALM Tokenomics
 
 ### Suministro Total
 
