@@ -37,6 +37,7 @@ contributors:
 <ol>
 <li><a href=#features>Фичи.</a></li>
 <li><a href=#gltr-token>GLTR Token</a></li>
+<li><a href=#earning-gltr>Earning GLTR</a></li>
 </ol>
 
 </div>
@@ -100,3 +101,8 @@ GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
 
 All GLTR spent in-game is burned from the supply (sent to burn address).
 
+## Earning GLTR
+
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+
+Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
