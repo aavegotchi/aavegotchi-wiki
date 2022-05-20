@@ -37,6 +37,7 @@ Bên trong, các Gotchi đang bận mặc cả với nhau.
 <ol>
 <li><a href=#features>Các tính năng</a></li>
 <li><a href=#gltr-token>Token GLTR</a></li>
+<li><a href=#earning-gltr>Kiếm GLTR</a></li>
 </ol>
 
 </div>
@@ -100,3 +101,8 @@ Token LP GAX có thể được stake vào hợp đồng Master Chef để kiế
 
 Tất cả GLTR được chi tiêu trong game đều sẽ được đốt khỏi nguồn cung (gửi đến địa chỉ đốt).
 
+## Kiếm GLTR
+
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+
+Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
