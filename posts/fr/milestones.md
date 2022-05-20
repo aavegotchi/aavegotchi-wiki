@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi Raffles Return with Gotchiverse REALM Decorations](https://blog.aavegotchi.com/untitled-2/)
+* The first Gotchiverse Decorations Raffle is scheduled from 9 - 12 June 2022
+* Get your hands on ROFL Gnome, REALM Globe, Smol Flower, Laava Lamp, Neon Light, and Caamp Fire!
+<p></p>
+
 ## [Gotchi UBI is coming to the Gotchiverse!](https://blog.aavegotchi.com/gotchi-ubi-is-coming-to-the-gotchiverse/)
 * Gotchi UBI is a daily stipend of Gotchus Alchemica available once every 24 hours to each Aavegotchi that enters the Gotchiverse
 * It will launch on the 18th of May!
