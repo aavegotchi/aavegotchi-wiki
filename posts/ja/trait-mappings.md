@@ -60,7 +60,7 @@ Aavegotchiたちには6つの [特性](/traits) があります：
 
 ## 特性マッピング
 
-表_traitMappings
+table_traitMappings
 
 ## 特性スケーリングシステム
 
