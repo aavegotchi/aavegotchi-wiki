@@ -51,31 +51,31 @@ Aastronautsは[レアリティファーミング](/rarity-farming)の参加者�
 
 <a href="https://aavegotchi.com/gotchi/1549" target="_blank"><img src = "/ugotchi/terence-mckenna.svg" alt = "テレンス・マッケンナ・Aavegotchi"></a>
 
-表_terenceMckenna
+table_terenceMckenna
 
 ### Machine Elf（マシン・エルフ）
 
 <a href="https://aavegotchi.com/gotchi/8062" target="_blank"><img src = "/ugotchi/machine-elf.svg" alt = "マシンエルフ・Aavegotchi"></a>
 
-表_machineElf
+table_machineElf
 
 ### Stoned Ape（ストーンド・エイプ）
 
 <a href="https://aavegotchi.com/gotchi/4479" target="_blank"><img src = "/ugotchi/stoned-ape.svg" alt = "ストーンド・エイプ・Aavegotchi"></a>
 
-表_stonedApe
+table_stonedApe
 
 ### Ayahuasca（アヤワスカ）
 
 <a href="https://aavegotchi.com/gotchi/9106" target="_blank"><img src = "/ugotchi/ayahuasca.svg" alt = "アヤワスカ・Aavegotchi"></a>
 
-表_ayahuasca
+table_ayahuasca
 
 ### Clockwork Elf（クロックワークエルフ）
 
 <a href="https://aavegotchi.com/gotchi/1306" target="_blank"><img src = "/ugotchi/clockwork-elf.svg" alt = "クロックワークエルフ・Aavegotchi"></a>
 
-表_clockworkElf
+table_clockworkElf
 
 ### Unopened Portal 2（未開封ポータル2）
 
@@ -97,7 +97,7 @@ UniclyでuGOTCHIコレクションを見るには[ここ](https://www.app.unic.l
 
 2021年5月18日、ピクセルクラフトは鑑定士がuGOTCHIコレクションのアストロノーツの鑑定を終了したことを発表します。 ETH価格3,550.00ドルを使用して、鑑定士はコレクションの価値を258.04 ETHまたは916,042.00米ドルと指定しました。 コレクションの個々のメンバーの評価額は、以下の表に反映されています。
 
-表_valuation
+table_valuation
 
 鑑定人に対し、以下のような配慮を行った：
 
