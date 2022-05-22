@@ -26,10 +26,10 @@ contributors:
 ## XPを獲得する方法
 AavegotchisはXPを獲得する方法いくつかあります：
 * [AavegotchiDAO](/dao)で投票
-* Aavegotchi Discordでイベントを参加する。(GotchiでXPを受け取るため、イベント中に入力するタイプフォームをリリースします)
-* [ミニゲーム](/minigames) をプレイする (Discordで発表された一定期間のみ)
+* Aavegotchi Discordで開催されるイベントに参加する（イベント中にタイプフォームが公開され、それに記入することでゴッチのXPがもらえます）。
+* [ミニゲーム](/minigames)で遊ぶ（Discordで告知された特定の期間のみ）
 
-## 数式
+## 計算式
 XPをレベルアップを決定するに、次の式を使用しています。
 
 (現在のレベル^2)÷定数, ここで定数=0.02
@@ -64,4 +64,4 @@ table_XP
 
 このように、ゴッチが参加できるギルドの数は、XPレベルによって異なります。
 
-表_xpRequirementForGuilds
+table_xpRequirementForGuilds
