@@ -53,11 +53,11 @@ Aavegotchiレルム（REALM）ゲームプレイは近日公開予定です！ A
 
 指定されたウェアラブルを持つAavegotchiが儀式に参加するたびに、合計が基本チャネリング率の**ゴッチの存在数**だけ増加し、その結果、指数関数的に多くのアルケミカがドロップされるようになります。
 
-表_gotchiPresenceBonus
+table_gotchiPresenceBonus
 
 **ウェアラブルクレストレア度倍数（Wearable Crest Rarity Multiplier）**は、アルケミカがドロップされる基本レートを指定する。
 
-表_wearableMultiplier
+table_wearableMultiplier
 
 ## ギルドとクレストをリンクさせる
 
@@ -77,7 +77,7 @@ Aavegotchiレルム（REALM）ゲームプレイは近日公開予定です！ A
 
 ## ギルド一覧
 
-表_guild
+table_guild
 
 ## ギルドマップ
 
