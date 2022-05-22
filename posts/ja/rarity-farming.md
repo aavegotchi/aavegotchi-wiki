@@ -89,7 +89,7 @@ if (number < 50) return 100 - number;
 
 最終レアリティスコアの計算例は以下の通りです：
 
-表_RarityScoreCalculationTable（レアリティスコア計算テーブル）
+table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRSはBase Rarity Score（ベースレアリティスコア）、ARSはAbsolute Rarity Score（アブソリュートレアリティスコア）を表します。</i></p>
 
 **ARSの計算式は未定です。 そのため、上記表のARS欄の数値は架空のものです。**
