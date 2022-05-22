@@ -41,56 +41,56 @@ contributors:
 
 ## アルケミカル・アールター
 
-表_aalchemicalAaltar
+table_aalchemicalAaltar
 
 ## ゴッチロッジ
 
-表_gotchiLodge
+table_gotchiLodge
 
 ## FUDハーベスター
 
-表_fudHaarvester
+table_fudHaarvester
 
 ## FOMOハーベスター
 
-表_fomoHaarvester
+table_fomoHaarvester
 
 ## ALPHAハーベスター
 
-表_alphaHaarvester
+table_alphaHaarvester
 
 ## KEKハーベスター
 
-表_kekHaarvester
+table_kekHaarvester
 
 ## ウォール
 
-表_waall
+table_waall
 
 ## FUDリザーバ
 
-表_fudReservoir
+table_fudReservoir
 
 ## FOMOリザーバ
 
-表_fomoReservoir
+table_fomoReservoir
 
 ## ALPHAリザーバ
 
-表_alphaReservoir
+table_alphaReservoir
 
 ## KEKリザーバ
 
-表_kekReservoir
+table_kekReservoir
 
 ## LEゴールデンアールター
 
-表_goldenAaltar
+table_goldenAaltar
 
 ## LEゴールデンタイル
 
-表_goldenTiles
+table_goldenTiles
 
 ## メーカー
 
-表_maaker
+table_maaker
