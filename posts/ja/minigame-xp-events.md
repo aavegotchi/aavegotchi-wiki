@@ -36,41 +36,41 @@ Aavegotchiの[ミニゲーム](/minigames)でXPイベントが開催されるこ
 
 イベント開催期間：2021年5月13〜19日
 
-表_gotchiTheGaatherer
+table_gotchiTheGaatherer
 
 ## スネーク
 
 イベント開催期間：2021年5月26〜30日
 
-表_snaake
+table_snaake
 
 ## スシベーダー（1）
 
 イベント開催期間：2021年6月2〜6日
 
-表_sushiVader1
+table_sushiVader1
 
 ## ロッフル叩き（もぐら叩き）ゲーム
 
 イベント開催期間：2021年8月12〜19日
 
-表_whacARofl
+table_whacARofl
 
 ## アステゴッチ
 
 イベント開催期間：2021年11月23〜26日
 
-表_astegotchi
+table_astegotchi
 
 ## スシベーダー（2）
 
 イベント開催期間：2022年1月4〜11日
 
-表_sushiVader2
+table_sushiVader2
 
 ## ピンボール
 
 イベント開催期間：2022年1月29日〜2月6日
 
-表_pinbaal
+table_pinbaal
 
