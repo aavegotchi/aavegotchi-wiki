@@ -50,11 +50,11 @@ Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/d
 
 ## ステーブルコイン
 
-表_stablecoins
+table_stablecoins
 
 ## 暗号通貨
 
-表_cryptocurrencies
+table_cryptocurrencies
 
 ## aTokenの取得
 
