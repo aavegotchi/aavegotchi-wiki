@@ -28,10 +28,11 @@ De Gotchiverse begon met slechts een handvol Aavegotchis, maar naarmate de liqui
 <li><a href=#districts>Districts</a></li>
 <li><a href=#realm-parcel-sizes>REALM Parceelgrootte</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socialiseren in de Gotchiverse</a></li>
+<li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
+<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commando's</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Bouwen op REALM Parcelen</a></li>
+<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Installatie Eigenschappen en Recept</a></p>
 <p><a href=#crafting-revenue-distribution>Crafting Inkomsten Distributie</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
@@ -125,7 +126,21 @@ Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Re
 
 There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
 
-## Socialiseren in de Gotchiverse
+## Entering the Gotchiverse
+
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
+
+You need a Gotchi to access the Gotchiverse.
+
+Select the Gotchi that you will be using and click on the portal to enter.
+
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
+
+Next, you need to select the Gotchi's spawn location. You can select from various locations on District 1, any REALM parcel that you own, or a random location.
+
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
+
+## Socializing in the Gotchiverse
 
 Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
 
@@ -182,7 +197,7 @@ For example, the range of values of FUD for a Humble parcel for the entire Act 1
 
 We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
 
-## Bouwen op REALM Parcelen
+## Building on REALM parcels
 
 **Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 

@@ -47,6 +47,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Veelgestelde Vragen](/faq)
 
+* [FRENS Taask Force](/frens-taask-force)
+
 * [Gaame Jaam](/gaame-jaam)
 
 * [GHST Token](/ghst)

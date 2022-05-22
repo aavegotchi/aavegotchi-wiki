@@ -34,7 +34,8 @@ Hãy đọc thêm để học các stake GHST nhé.
 <li><a href=#purchasing-ghst>Mua GHST</a></li>
 <li><a href=#how-to-stake>Cách Stake</a></li>
 <li><a href=#staking-contract-addresses>Địa Chỉ Hợp Đồng Staking</a></li>
-<li><a href=#what-s-next->Bước tiếp theo?</a></li>
+<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -161,6 +162,12 @@ The following table shows the various staking contract addresses on Polygon. The
 
 table_stakingContractAddresses
 
-## Bước tiếp theo?
+## FRENS Taask Force
+
+From time to time, the FRENS emission rate does not automatically get updated when the price of the underlying tokens changes.
+
+The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
+
+## What's next?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!

@@ -34,6 +34,7 @@ Continue reading to learn how to stake GHST.
 <li><a href=#purchasing-ghst>GHST kaufen</a></li>
 <li><a href=#how-to-stake>Wie man staked</a></li>
 <li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
 <li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
@@ -160,6 +161,12 @@ table_stakingReturns
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
 table_stakingContractAddresses
+
+## FRENS Taask Force
+
+From time to time, the FRENS emission rate does not automatically get updated when the price of the underlying tokens changes.
+
+The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
 
 ## What's next?
 

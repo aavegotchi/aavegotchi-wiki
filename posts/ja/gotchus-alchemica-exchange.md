@@ -37,6 +37,7 @@ contributors:
 <ol>
 <li><a href=#features>機能</a></li>
 <li><a href=#gltr-token>GLTRトークン</a></li>
+<li><a href=#earning-gltr>GLTRを稼ぐ</a></li>
 </ol>
 
 </div>
@@ -100,3 +101,8 @@ GAX LPトークンをマスターシェフ契約にステークし、GLTRを獲�
 
 ゲーム内で使用されたGLTRは、すべてサプライから焼却されます（焼却アドレスに送信されます）。
 
+## GLTRを稼ぐ
+
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+
+Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.

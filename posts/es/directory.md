@@ -47,13 +47,15 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Preguntas frecuentes (FAQ)](/faq)
 
-* [Game Jaam](/gaame-jaam)
+* [FRENS Taask Force](/frens-taask-force)
+
+* [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
 
-* [Glosario](/glossary)
+* [Glossary](/glossary)
 
-* [Préstamos de Gotchi](/gotchi-lending)
+* [Alquiler de Gotchi](/gotchi-lending)
 
 * [Gotchiverso](/gotchiverse)
 
@@ -61,31 +63,31 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Intercambio de Gotchus Alchemica](/gotchus-alchemica-exchange)
 
-* [Clan](/guild)
+* [Guild](/guild)
 
 * [Ritual](/haunt)
 
-* [Inicio](/index)
+* [Home](/index)
 
-* [Introducción](/introduction)
+* [Introduction](/introduction)
 
-* [Fidelidad](/kinship)
+* [Kinship](/kinship)
 
 * [Maall](/maall)
 
 * [maTokens](/matokens)
 
-* [Media](/media)
+* [Multimedia](/media)
 
 * [Memes](/memes)
 
-* [Hitos](/milestones)
+* [Milestones](/milestones)
 
-* [Minijuegos](/minigames)
+* [Mini-Games](/minigames)
 
 * [Eventos de mini juego XP](/minigame-xp-events)
 
-* [Misiones](/missions)
+* [Missions](/missions)
 
 * [Mumbai Testnet](/mumbai-testnet)
 
@@ -95,9 +97,9 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Polygon](/polygon)
 
-* [Portales](/portals)
+* [Portals](/portals)
 
-* [Estadísticas de los sorteos](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 

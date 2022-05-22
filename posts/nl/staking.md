@@ -34,7 +34,8 @@ Ga verder met lezen om te leren hoe je GHST staked.
 <li><a href=#purchasing-ghst>Aankopen van GHST</a></li>
 <li><a href=#how-to-stake>Hoe te staken</a></li>
 <li><a href=#staking-contract-addresses>Staking Contractadressen</a></li>
-<li><a href=#what-s-next->Wat nu?</a></li>
+<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
 </ol>
 
 </div>
@@ -161,6 +162,12 @@ The following table shows the various staking contract addresses on Polygon. The
 
 table_stakingContractAddresses
 
-## Wat nu?
+## FRENS Taask Force
+
+From time to time, the FRENS emission rate does not automatically get updated when the price of the underlying tokens changes.
+
+The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
+
+## What's next?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
