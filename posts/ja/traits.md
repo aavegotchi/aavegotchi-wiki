@@ -42,7 +42,7 @@ RPG（ロールプレイングゲーム）用語で、`AGG`はStrength（強さ�
 
 特性は、[ポータル](/portals)を開いた時点で決定されます。 ポータルを開くと、[ChainlinkのVRFランダム数生成関数](/glossary#chainlink-vrf)が呼び出され、アアベゴッチにランダムな特性値が割り当てられます。 特性値はベルカーブで分布しており、各特性にはそのレアリティに応じてCommon、Uncommon、Rare、Mythicalの値が割り当てられている。 各特性のレアリティが得られる確率は、以下の表のとおりです：
 
-表_特性確率
+table_TraitsProbabilities
 
 特性値の分布のベルカーブは次のようなものです：
 
@@ -64,7 +64,7 @@ Avegotchiは当初6つの特性を持っていますが、将来的には[Avegot
 
 あなたのAavegotchiが持っている[スピリットフォース](/spirit-force)の種類も、特性の値に影響を及ぼします。
 
-表_スピリット・フォース・モディファイア
+table_spiritForceModifiers
 
 ## キンシップ
 キンシップとは、あなたのAavegotchiがあなたに対して抱く忠誠心のことです。 詳しくは[キンシップ](/kinship)のページをご覧ください。
