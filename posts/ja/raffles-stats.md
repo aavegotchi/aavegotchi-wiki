@@ -38,35 +38,35 @@ contributors:
 ## ウェアラブル ラッフルウェアラブル ラッフル
 
 ### ラッフル1 (Chainlink テーマ)
-表_wearableRaffle1
+table_wearableRaffle1
 
 ### ラッフル2 (Aave テーマ)
-表_wearableRaffle2
+table_wearableRaffle2
 
 ### ラッフル3 (Ethereum テーマ)
-表_wearableRaffle3
+table_wearableRaffle3
 
 ### ラッフル4 (Layer 2 テーマ)
-表_wearableRaffle4
+table_wearableRaffle4
 
 ### ラッフル5 (Partnerships テーマ)
-表_wearableRaffle5
+table_wearableRaffle5
 
 ### ラッフル6 (DeFi RPG テーマ)
-表_wearableRaffle6
+table_wearableRaffle6
 
 ## ポータル ラッフル
 
 ### ラッフル1 (ハウント 2 ポータル ドロップ)
-表_portalRaffle1
+table_portalRaffle1
 
 ## ランド ラッフル
 
 ### ラッフル1
-表_landRaffle1
+table_landRaffle1
 
 ### ラッフル2
-表_landRaffle2
+table_landRaffle2
 
 ## チャート
 
