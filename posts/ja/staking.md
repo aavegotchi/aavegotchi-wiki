@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">GHSTを預けてFRENSを稼ごう!</p>
 </div>
 
-ステーキングとは、報酬と引き換えに暗号通貨をロックするプロセスを指します。 これはAavegotchiプロジェクトでも変わりません。 The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [FRENS](/posts/glossary#frens) or [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+ステーキングとは、報酬と引き換えに暗号通貨をロックするプロセスを指します。 これはAavegotchiプロジェクトでも変わりません。 ネイティブトークンである[GHST](/posts/ghst)は、様々なステーキングコントラクトにステークすることで、[FRENS](/posts/glossary#frens)や[GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) のリワードを獲得することが可能です。
 
 <div class="contentsBox">
 
@@ -22,12 +22,12 @@ contributors:
 <ol>
 <li><a href=#frens>フレンズ（FRENS）</a></li>
 <li><a href=#gltr>GLTR</a></li>
-<li><a href=#where-to-stake>Where to Stake</a></li>
-<li><a href=#staking-for-frens>Staking for FRENS</a></li>
-<li><a href=#staking-for-gltr>Staking for GLTR</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
-<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#where-to-stake>どこでステークするの？</a></li>
+<li><a href=#staking-for-frens>FRENSを獲得するためにステークする</a></li>
+<li><a href=#staking-for-gltr>GLTRを獲得するためにステークする</a></li>
+<li><a href=#staking-contract-addresses>ステーキング・コントラクト・アドレス</a></li>
+<li><a href=#frens-taask-force>フレンズ・タスク・フォース（FRENS Taask Force）</a></li>
+<li><a href=#what-s-next->次は何をするの？</a></li>
 </ol>
 
 </div>
@@ -48,7 +48,7 @@ The primary utility of [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-ex
 
 GLTRはまた、[ウェアラブル・クレスト（Wearable Crest）](/guild#accessing-a-guild)のオークションに必要なメイントークンとして、二次的な機能もあります。 また、ギルドはGLTRを焼却することで、次のギルド・チャネリングまでの時間を短縮することができます。
 
-## Where to Stake
+## どこでステークするの？
 
 Staking is accessible at [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
 
@@ -58,7 +58,7 @@ You can either stake for **FRENS** rewards or **GLTR** rewards.
 
 <img class="bodyImage" src="/staking/stake.png" alt="Aavegotchi Staking" />
 
-## Staking for FRENS
+## FRENSを獲得するためにステークする
 
 <img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking for FRENS" />
 
@@ -158,7 +158,7 @@ Do note that the Pixelcraft team may update the FRENS amount from time to time t
 
 table_stakingReturns
 
-## Staking for GLTR
+## GLTRを獲得するためにステークする
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
@@ -168,7 +168,7 @@ table_stakingReturns
 
 * Step 3: Deposit your wapGHST/GHST LP tokens in those pools. Earn GLTR rewards every block!
 
-## Staking Contract Addresses
+## ステーキング・コントラクト・アドレス
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
@@ -180,6 +180,6 @@ From time to time, the FRENS emission rate does not automatically get updated wh
 
 The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
 
-## What's next?
+## 次は何をするの？
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
