@@ -46,9 +46,11 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#reducing-the-parcel-vrf-variance>Verminder de Parcel VRF variant</a></li>
 <li><a href=#alternative-gotchiverse-trait-mapping>Alternatieve Gotchiverse Trait Mapping</a></li>
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Uitbreiden van de DAO Schat Task Force Multisig</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Naam van de Aavegotchi Marktplaats</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Aantal portalen gekocht in één transactie</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>24h Windows for Alchemical Channeling</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Scheduling Land Auction/Raffle #3 for June</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
@@ -1085,91 +1087,172 @@ tabel_agip28
 
 <hr />
 
-### Naam van de Aavegotchi Marktplaats
-**Snapshot Stemming**
+### 24h Windows for Alchemical Channeling
+**Aavegotchi Improvement Proposal #29**
 
-**Voorstel samenvatting:** Hoe moet de Aavegotchi NFT Marktplaats worden genoemd?
+**Voorstel Samenvatting:**
 
-Aavegotchi lanceert zijn eigen NFT-marktplaats op Polygon in combinatie met het spel!
+As specified in Gotchiverse Bible Chapter 3, solo gotchi channeling will work via a 24 hour cooldown timer that starts immediately after a gotchi channels at an altar. We propose that this be revised to a windowed 24 hour system that runs from 00:00 UTC to 23:59 UTC in which a gotchi can solo channel once, anytime within that 24 hour window.
 
-Hoe moeten we de officiële Aavegotchi Marketplace noemen?
+*TIMELINE*
 
-Keuze A: Aavegotchi Baazaar
+Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
 
-Keuze B: Aavegotchi Maarket
+*RATIONALE*
 
-Keuze C: Geen
+With the introduction of the 12 hour petting cooldown system a year ago, we have all come to realize that a set interaction time with your gotchi is hard to maintain given real world events, network congestion, family and work commitments. We do not want to repeat this limitation with solo gotchi channeling.
 
-Het quorum voor deze stemming is vastgesteld op 500.000 GHST. Als het quorum niet is bereikt, kiest Pixelcraft een willekeurige winnaar.
+The above limitation has led to the development of automated bots to guarantee interaction efficiency which, arguably, results in lower user engagement. By removing this limitation for solo channeling, it is much more likely that players will organically engage with their gotchi for solo channeling on a daily basis.
 
-Als "Geen" wint..., kunnen jullie beter met goede alternatieven beginnen!
+Many players have multiple gotchis, multiple parcels and multiple altars spread all throughout the Citaadel. These players have shown amazing support in our community and should not be restricted in their efficiency by a 24 hour cooldown. They should still be able to comfortably channel once per day with all their gotchis when their busy schedules suit.
 
-**Stemperiode:** van 8 tot 11 februari 2021
+*BENEFITS*
+
+The 24 hour channeling solution would: Improve quality of life for gotchi owners,
+
+* Mitigate unfavorable interaction times,
+* Mitigate network congestion at interaction time, and,
+* Increase daily engagement for time-poor players.
+
+*RISKS*
+
+Proposal implementation date may be delayed if Pixelcraft encounters technical challenges or is otherwise unable to meet the May 18, 2022 implementation date.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
+
+Option 1: Yes, once per 24h window
+
+Option 2: No, every 24h interaction
+
+**Voting Period:** 21 - 28 May 2022
 
 **Resultaten:**
 
-tabel_marketplaceName
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbe89c5f01a02817058d66459cb00a399c45aa8991e29121fb1ca3b0e11e0c84b)
+
+<hr />
+
+### Scheduling Land Auction/Raffle #3 for June
+**Aavegotchi Improvement Proposal #30**
+
+**Voorstel Samenvatting:**
+
+Land Auction/Raffle #3 Proposal:
+
+* Hold the Auction and Raffle within June
+* 8,000 Parcels in total from predominantly districts 1, 6, 13, 23, 24, 25, 26. Parcels from previously auctioned/raffled districts are also included. The exact selection can be seen in the Discussion Thread: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
+* 70% (5,600) of parcels in the auction, 30% (2,400) in the raffle
+
+Proposed Revenue Distribution:
+
+* 40% of Revenue to the Rarity Farming Rewards Pool
+* 40% to Pixelcraft Studios
+* 20% to the AavegotchiDAO
+* 0% Burn
+
+This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
+
+This proposal has been discussed with the Pixelcraft team who support it and feel the target date is feasible.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
+
+Option 1: Yes, 8k Parcels in June
+
+Option 2: No
+
+**Voting Period:** 21 - 28 May 2022
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x658926263e4ce1eca559950bcb0f5d8f203758c5c99b30999bb7f082552695b8)
+
+<hr />
+
+### Name of Aavegotchi Marketplace
+**Snapshot Stemming**
+
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+
+What should we call the official Aavegotchi Marketplace?
+
+Choice A: Aavegotchi Baazaar
+
+Choice B: Aavegotchi Maarket
+
+Choice C: Neither
+
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+
+If "Neither" wins...you guys better start coming up with some good alternatives!
+
+**Voting Period:** 8 - 11 February 2021
+
+**Resultaten:**
+
+table_marketplaceName
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
 
 <hr />
 
-### Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen
+### Eligibility of GHST-USDC LP tokens to earn FRENS
 
 **Snapshot Stemming**
 
-**Voorstel samenvatting:** Moet GHST-USDC LP token in aanmerking komen om FRENS te verdienen?
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
-Ons liquiditeitsmigratieprogramma is een groot succes geweest, waarbij al meer dan 8 miljoen GHST naar Polygon is gemigreerd. Echter, zoals veel leden van de gemeenschap hebben opgemerkt, liquiditeit voor het GHST-USDC paar is nog steeds niet diep genoeg om het handelen van grote hoeveelheden USDC voor GHST op Quickswap te ondersteunen.
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-Een manier om dit te verhelpen is door GHST-USDC toe te voegen als een paar en dat deze in aanmerking komen voor FRENS op [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Net zoals GHST-QUICK een ontvangst token stkGHST-QUICK heeft, kan GHST-USDC ook een stkGHST-USDC token hebben, die in aanmerking kan komen voor beloningen op Quickswap, als hun team dat nodig acht.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
-Aangezien dit besluit rechtstreeks van invloed is op gameplay, zijn wij van mening dat het een rijpe kandidaat is voor onze eerste Snapshot stemming op Polygon.
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 
-We stellen een GHST quorum van 500.000 vast voor deze stemming.
+We are setting a 500,000 GHST quorum for this vote to be enacted.
 
-Het GHST-USDC LP token zal FRENS verdienen tegen dezelfde snelheid als enkel GHST, omdat inpermanente verliezen minimaal zijn en de kosten aanzienlijk zijn.
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Stemperiode:** van 8 tot 11 februari 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Resultaten:**
 
-tabel_ghstUsdcLp
+table_ghstUsdcLp
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
 
 <hr />
 
-### Aantal portalen gekocht in één transactie
+### Portals purchased in one transaction
 
 **Snapshot Stemming**
 
-**Voorstel Samenvatting:** Hoeveel portalen kunnen gekocht worden in één transactie?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
-De discussieduur is afgelopen voor dit onderwerp en nu is het tijd om te stemmen! De meest populaire opties waren: 1, 5 en 10 Portalen per transactie.
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
-Onze fren [@coderdannn](/team#coder-dan) gooide ook een scherp idee in de mix: een "Ape Tax" waardoor meer portalen in één transactie konden worden gekocht, maar tegen een hogere prijs. De portalen zouden op deze manier gerankschikt worden:
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
 
-* 0-5: 100 GHST elk
+* 0-5: 100 GHST each
 
-* 6-15: 200 GHST elk
+* 6-15: 200 GHST each
 
-* 16-25: 300 GHST elk
+* 16-25: 300 GHST each
 
-Dit laat ons dus vier opties over: 1, 5, 10 en 25 (v/ape tax).
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 
-Laat je $GHST token voor je spreken en stem!
+Let your $GHST token speak for you, and vote!
 
-Stemperiode: 72 uur Minimum quorum: 10% van het GHST op Matic (~1,1M GHST)
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-AavegotchiDAO discussieonderwerp 👇
+AavegotchiDAO discussion topic 👇
 
-[https://dao.aavegotchi.com/nl/how-many-portals-should-be-be--in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Stemperiode:** van 23 tot 26 februari 2021
+**Voting Period:** 23 - 26 February 2021
 
 **Resultaten:**
 
-tabel_portalenGekocht
+table_portalsPurchased
 
 [Link om te stemmen met Snapshot](https://snapshot.page/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)
