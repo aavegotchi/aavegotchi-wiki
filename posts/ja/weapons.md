@@ -24,8 +24,8 @@ contributors:
 
 ## 近接武器
 
-表_meleeWeapons
+table_meleeWeapons
 
 ## 遠距離武器
 
-表_rangedWeapons
+table_rangedWeapons

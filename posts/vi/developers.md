@@ -79,6 +79,8 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Quản lý tài sản cho hệ sinh thái Gotchiverse
 
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+
 ## Subgraphs
 
 * Subgraph Chính Chủ Của Aavegotchi: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)

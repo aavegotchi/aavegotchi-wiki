@@ -45,7 +45,7 @@ contributors:
 
 **アルケミカ供給の割り当て**
 
-表_totalSupplyAllocation
+table_totalSupplyAllocation
 
 **チャネリング（25%）**
 

@@ -103,6 +103,6 @@ GAX LPトークンをマスターシェフ契約にステークし、GLTRを獲�
 
 ## GLTRを稼ぐ
 
-wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+wapGHSTまたはQuickswap/Sushiswap LPトークンは、[https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr)から、GLTR報酬を得るためにステークできます。
 
-Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
+プールのシェアに応じて、各ポリゴンブロックにつきGLTRトークンが発生します。

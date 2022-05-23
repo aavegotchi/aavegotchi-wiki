@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'FRENS Taask Force'
-description: 'FRENS Taask Force'
+title: 'フレンズ・タスク・フォース（FRENS Taask Force）'
+description: 'フレンズ・タスク・フォース（FRENS Taask Force）'
 contributors:
   - "unintelligent-nerd"
 ---
 
-The FRENS Taask Force is a group of Aavegotchi community members who are responsible for monitoring and adjusting the FRENS rates to keep it in check with the pre-determined rate.
+フレンズ・タスク・フォース（FRENS Taask Force）はAavegotchiコミュニティのメンバーで構成され、FRENSのレートを監視し、あらかじめ決められたレートに維持するために調整する責任を担っています。
 
-They perform contract calls to the GHST Staking contracts only available to a new “rateManager” role created for the committee.
+彼らは、委員会のために作成された新しい "rateManager（レートマネージャー）"ロールにのみ利用可能なGHSTステーキングコントラクトへのコントラクトコールを実行します。
 
 <div class="contentsBox">
 
@@ -17,26 +17,26 @@ They perform contract calls to the GHST Staking contracts only available to a ne
 
 <ol>
 <li><a href=#origins>Origins - 起源</a></li>
-<li><a href=#members>Members</a></li>
+<li><a href=#members>メンバーズ</a></li>
 </ol>
 
 </div>
 
 ## Origins - 起源
 
-The idea for the committee came from [Coderdan](/team#coder-dan) on a [forum post](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905):
+委員会のアイデアは、 [Coderdan](/team#coder-dan)の[フォーラムの投稿](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905) から得られました:
 
-"As many LPs know, the FRENS emission rate for GHST-QUICK and GHST-USDC does not automatically get updated when the price of the underlying tokens changes. For simplicity and security, we decided in our contract architecture not to include a price oracle, which is necessary for an “auto-adjusting” rate. Thus, the frens rate must be adjusted manually, which has a not-insignificant overhead for the devs.
+"多くのLPが知っているように、GHST-QUICKとGHST-USDCのFRENS放出レートは、基礎トークンの価格が変更されても自動的に更新されない。 シンプルさと安全性のために、私たちは契約アーキテクチャにおいて、「自動調整」レートに必要な価格オラクルを含めないことにしました。 したがって、FRENSのレートは手動で調整する必要があり、開発者にとっては小さくないオーバーヘッドが発生します。
 
-There has been talk of setting up committees for managing certain parts of Aavegotchi, and I believe this could be an interesting candidate for such a committee. Right now we only have two pairs incentivized by FRENS, but this could change in the future.
+Aavegotchiの特定の部分を管理する委員会を設立するという話がありますが、これはそのような委員会の興味深い候補になり得ると思います。 今はFRENSのインセンティブがあるのは２ペアーだけですが、これは将来的に変わる可能性があります。
 
-The “committee” could be a multisig of at least nine (maybe up to fifteen) members with strong reputation in the community and high Gotchi dependability counters 19. At its core, this Liquidity Committee would monitor and adjust FRENS rates to keep in check with the pre-determined rate, by performing contract calls to the GHST Staking contracts only available to a new “rateManager” role created for the committee."
+「委員会」は、コミュニティで強い評判を持ち、高いゴッチ依存性カウンター19を持つ少なくとも9人（おそらく最大15人）のメンバーからなるマルチシグになる可能性があります。 その中核は、この流動性委員会は、委員会のために作成された新しい "rateManager（レートマネージャー）"ロールにのみ利用できるGHSTステーキングコントラクトへのコントラクトコールを実行することによって、事前に決められたレートと一致するようにFRENSレートを監視し調整するでしょう。"とあります。
 
-This was followed by another [forum post](https://dao.aavegotchi.com/t/frens-committee-applications/1944) where prospective candidates nominated themselves for the role.
+これに続いて、別の[フォーラムの投稿](https://dao.aavegotchi.com/t/frens-committee-applications/1944)では、候補者がこの役割に自らを推薦しています。
 
-This was formalized in a [DAO vote / AGIP 11](/aavegotchi-improvement-proposals#liquidity-manager---frens-committee). The vote passed and the FRENS Taask Force was created.
+これは[DAO投票/AGIP 11](/aavegotchi-improvement-proposals#liquidity-manager---frens-committee)で正式に決定されました。 投票は可決され、フレンズ・タスク・フォースが設立されました。
 
-## Members
+## メンバーズ
 
 * Angst
 

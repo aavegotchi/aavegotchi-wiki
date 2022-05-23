@@ -65,7 +65,7 @@ Aavegotchiを召喚して、ネザーから画面に連れてくるにはどう�
 
 この表で特性の範囲とレアリティの確率を確認することができます：
 
-表_PortalTraitTable
+table_PortalTraitTable
 
 
 レアリティファーミングの詳細については、[こちら](/rarity-farming)をご覧ください。

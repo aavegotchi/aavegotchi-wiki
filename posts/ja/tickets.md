@@ -46,7 +46,7 @@ FRENSとは異なり、チケットはあるウォレットから別のウォレ
 
 一方、ドロップチケットは、[ポータル](/portals)や[REALM区画](/metaverse)を獲得するための**NFTラッフル**に参加するために使用されます。
 
-表_RaffleTickets
+table_RaffleTickets
 
 ブログ記事： \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 

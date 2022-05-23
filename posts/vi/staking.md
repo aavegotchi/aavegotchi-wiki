@@ -8,13 +8,31 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-
 <div class="headerImageContainer">
 <img class="headerImage" src="/staking/staking.png">
 <p class="headerImageText">Stake GHST, Nhận FRENS!</p>
 </div>
 
-Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổi lấy phần thưởng. Không có gì khác biệt trong dự án Aavegotchi. Token của dự án, [GHST](/posts/ghst), có thể được stake trong Staking Contract để nhận [FRENS](/posts/glossary#frens).
+Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổi lấy phần thưởng. Không có gì khác biệt trong dự án Aavegotchi. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [FRENS](/posts/glossary#frens) or [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+
+<div class="contentsBox">
+
+**Nội dung**
+
+<ol>
+<li><a href=#frens>FRENS</a></li>
+<li><a href=#gltr>GLTR</a></li>
+<li><a href=#where-to-stake>Where to Stake</a></li>
+<li><a href=#staking-for-frens>Staking for FRENS</a></li>
+<li><a href=#staking-for-gltr>Staking for GLTR</a></li>
+<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
+<li><a href=#what-s-next->What's next?</a></li>
+</ol>
+
+</div>
+
+## FRENS
 
 FRENS là một một tài khoản không thể chuyển đi được nằm trong Hợp đồng Staking của Aavegotchi. FRENS không thể mua được. Chúng được tạo ra nhằm vinh danh những stakers, những người đã cống hiến cho dự án Aavegotchi.
 
@@ -24,31 +42,27 @@ FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 
 * Vé Drop có thể dùng để tham gia vào sự kiện Xổ Số NFT để trúng được [Portal](/portals) và [Các Mẫu Đất REALM](/metaverse).
 
-Hãy đọc thêm để học các stake GHST nhé.
+## GLTR
 
-<div class="contentsBox">
+The primary utility of [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. Every burned GLTR is equivalent to one block on the Polygon PoS network.
 
-**Nội dung**
+GLTR cũng có công dụng thứ hai, đó chính là token chính được dùng để đấu giá [Wearable Crest](/guild#accessing-a-guild). Các guild cũng sẽ được chọn trong việc chuyển đổi GLTR để tăng tốc trong việc Truyền theo Guild.
 
-<ol>
-<li><a href=#purchasing-ghst>Mua GHST</a></li>
-<li><a href=#how-to-stake>Cách Stake</a></li>
-<li><a href=#staking-contract-addresses>Địa Chỉ Hợp Đồng Staking</a></li>
-<li><a href=#frens-taask-force>FRENS Taask Force</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
-</ol>
+## Where to Stake
 
-</div>
+Staking is accessible at [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
 
-## Mua GHST
-Đầu tiên, bạn cần sở hữu một vài token GHST để stake. [Trang token GHST](/posts/ghst) của bọn mình cung cấp nhiều cách thức để bạn có thể tự mình sở hữu chúng.
+You need either [GHST token](/ghst) or a GHST LP pair (GHST-QUICK, GHST-USDC, GHST-ETH, GHST-MATIC) to stake.
 
-## Cách Stake
-Một khi bạn đã sở hữu một ít token GHST, bạn có thể stake chúng tại [trang Staking](https://aavegotchi.com/stake-polygon)! Staking diễn ra trên Polygon (trước đây là Matic Network).
+You can either stake for **FRENS** rewards or **GLTR** rewards.
 
-<img class = "bodyImage" src = "/staking/ghst-staking-ui.png" alt = "Giao Diện Stake GHST" />
+<img class="bodyImage" src="/staking/stake.png" alt="Aavegotchi Staking" />
 
-There are six ways to stake:
+## Staking for FRENS
+
+<img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking for FRENS" />
+
+There are six ways to stake for FRENS:
 
 1. GHST
 
@@ -62,27 +76,19 @@ There are six ways to stake:
 
 6. GHST-MATIC
 
-**Chú ý quan trọng: Không thể stake trên Mainnet được nữa! Mọi người vui lòng unstake và restake trên Polygon nhé.**
+**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
 
-*Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
+*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
 
 ### Stake token GHST trực tiếp
 
-* Bước 1: Chuyển GHST từ Ethereum Mainnet sang Polygon, a giải pháp layer 2 bằng cách sử dụng [Giao diện Bridge sang Polygon](https://aavegotchi.com/bridge).
+* Step 1: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://app.aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
 
-* Bước 2: Approve hợp đồng để dùng token GHST.
+* Step 2: Approve the contract to use your GHST tokens on Polygon.
 
-* Bước 3: Nhập số lượng GHST mà bạn muốn chuyển sang Polygon. Một khi giao dịch được xác nhận trên Ethereum, sẽ mất khoảng 7 đến 8 phút để số dư của bạn được hiện lên trên Polygon. Số dư của bạn sẽ được tự động cập nhật. Hãy kiên nhẫn nhé!
+* Step 3: Input the amount of GHST you would like to deposit. Presto! Xong rồi bạn êi!
 
-* Bước 4: Hãy cấu hình ví MetaMask thành Polygon bằng [bài hướng dẫn](/polygon) này.
-
-* Kết nối ví MetaMask với Polygon và chuyển đến trang [Polygon Staking Page](https://aavegotchi.com/stake-polygon) trên DApp của Aavegotchi.
-
-* Approve để hợp đồng sử dụng token của bạn.
-
-* Bước 7: Nhập số lượng GHST mà bạn muốn chuyển sang Polygon. Presto! Xong rồi bạn êi!
-
-*Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
+*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
 
 ### Staking wapGHST
 
@@ -102,13 +108,9 @@ Stakers do not need to visit Aave. You just need to approve your tokens and clic
 
 Staking GHST-QUICK and GHST-USDC follows the same steps.
 
-* Step 1: Configure your Metamask wallet to include Polygon by following this [Polygon Guide](/polygon).
+* Step 1: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
-* Step 2: Use the [Aavegotchi Bridge](https://aavegotchi.com/bridge) to transfer GHST and/or other assets to Polygon. The [maTokens Guide](/matokens) will show you how this is done.
-
-* Step 3: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
-
-* Step 4: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+* Step 2: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://app.aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
 
 *For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
 
@@ -126,7 +128,7 @@ Why is the GHST-USDC pool yielding 74 million FRENS a day? Những người gử
 
 * Step 3: In return, you receive GHST-WETH LP tokens.
 
-* Step 4: Take those LP tokens and stake them at [aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon)
+* Step 4: Take those LP tokens and stake them at [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
 
 * Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
 
@@ -138,7 +140,7 @@ For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FREN
 
 * Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
 
-* Step 3: Take the GHST-MATIC LP Tokens and deposit them at the [Aavegotchi Staking Interface](https://aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
+* Step 3: Take the GHST-MATIC LP Tokens and deposit them at [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
 
 ### Staking Cheatsheets!
 
@@ -156,7 +158,17 @@ Do note that the Pixelcraft team may update the FRENS amount from time to time t
 
 table_stakingReturns
 
-## Địa Chỉ Hợp Đồng Staking
+## Staking for GLTR
+
+<img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
+
+* Step 1: Visit [app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr)
+
+* Step 2: Select the pools you are interested in
+
+* Step 3: Deposit your wapGHST/GHST LP tokens in those pools. Earn GLTR rewards every block!
+
+## Staking Contract Addresses
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 

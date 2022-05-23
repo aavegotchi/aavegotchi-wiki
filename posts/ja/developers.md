@@ -79,6 +79,8 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Aavegotchiエコシステムのためのアセットマネージャー
 
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+
 ## サブグラフ
 
 * 公式 Aavegotchi サブグラフ: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)

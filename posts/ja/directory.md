@@ -47,7 +47,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [よくある質問（FAQ）](/faq)
 
-* [FRENS Taask Force](/frens-taask-force)
+* [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
 
 * [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
@@ -63,33 +63,33 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [ギルド（Guild）](/guild)
 
 * [ハウント](/haunt)
 
-* [Home](/index)
+* [ホーム（Home）](/index)
 
 * [はじめに](/introduction)
 
 * [キンシップ](/kinship)
 
-* [Maall](/maall)
+* [モール](/maall)
 
 * [maToken](/matokens)
 
-* [Media](/media)
+* [メディア](/media)
 
-* [Memes](/memes)
+* [ミーム](/memes)
 
 * [マイルストーン](/milestones)
 
-* [Mini-Games](/minigames)
+* [ミニゲーム](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [Missions](/missions)
+* [ミッション](/missions)
 
-* [Mumbai Testnet](/mumbai-testnet)
+* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
 
 * [パートナーズ](/partners)
 
@@ -99,7 +99,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [ポータル](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [ラッフルの統計](/raffles-stats)
 
 * [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
@@ -109,13 +109,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [ロードマップ](/roadmap)
 
-* [Sets](/sets)
+* [セット（Sets）](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [スピリットフォースの起源](/spirit-force-history)
 
 * [ステーキング](/staking)
 
@@ -131,7 +131,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [Tutorials](/tutorials)
+* [チュートリアル](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 

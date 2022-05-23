@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'キンシップ'
-description: 'ゴッチのキンシップとペッティングに関する全て！'
+description: 'ゴッチのキンシップとペッティングの全て！'
 contributors:
   - "unintelligent-nerd"
 ---
@@ -40,7 +40,7 @@ Aavegotchiと12時間交流するごとに、最大1キンシップポイント�
 
 下の表は、キンシップレベルとその値の範囲を示しています。
 
-表_kinship
+table_kinship
 
 キンシップは、[Aavegotchiのプロフィールページ](/aavegotchi-profile)で確認することができます。
 
@@ -52,7 +52,7 @@ Aavegotchiと12時間交流するごとに、最大1キンシップポイント�
 
 チャネリングの基本レートは、**20 FUD、10 FOMO、5 ALPHA、2 KEK**です。この基本レートに、Aavegotchiのキンシップレベルに応じて修正値が乗算されます（以下の表を参照）。
 
-表_alchemicaReceivedPerChanneling
+table_alchemicaReceivedPerChanneling
 
 キンシップが1ポイント増えるごとに、アルケミカル・チャネリングの修正値が次の計算式によって増加します：
 

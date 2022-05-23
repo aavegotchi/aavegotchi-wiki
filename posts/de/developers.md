@@ -79,6 +79,8 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Asset manager for the Aavegotchi ecosystem
 
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+
 ## Subgraphs
 
 * Official Aavegotchi Subgraph: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)

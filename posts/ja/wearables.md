@@ -89,13 +89,13 @@ Aavegotchiは4つの特性を持っており、ウェアラブルによって変
 
 ウェアラブルはいつでも装備することも外すことも可能です。 ウェアラブルの装備/非装備は、Aavegotchiの[全体的なレアリティ](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score)に影響を与える場合があります。
 
-表＿ウェアラブルBRS表
+table_wearablesBRStable
 
 ## 投票権
 
 [AGIP9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price)の成立により、[AavegotchiDAO](/dao)においてウェアラブルは投票権を持つようになりました。 ウェアラブルの投票権（GHSTで測定）は、そのレアリティタイプ/[モール](/maall)価格に基づいています。
 
-表＿ウェアラブルの投票力
+table_wearablesVotingPower
 
 ## ウェポン（武器）
 
@@ -109,115 +109,115 @@ Aavegotchiは4つの特性を持っており、ウェアラブルによって変
 
 LINKをテーマにしたこれらのウェアラブルは、AavegotchiとChainlinkのパートナーシップ、特にAavegotchiが検証可能で証明可能なランダムな特性を持つことを保証するためのChainlink VRFの使用を記念して2020年11月に限定ラッフルで配布されます。
 
-表＿LINKウェアラブル表
+table_linkWearablesTable
 
 ## Aaveテーマセット
 
 2020年12月8日に開催された3回の発売前ラッフル第2弾で配布された「Aaveテーマセット」。 AavegotchiとAaveコミュニティ、リーダーシップチームの絆を称えるアーベサム（Aavesome）コレクションです。
 
-表＿aaveウェアラブル表
+table_aaveWearablesTable
 
 ## Ethereumテーマセット
 
 イーサリアムをテーマにしたセットは、メインネット前の3つのセットのうち最後のものです。
 
-表＿イーサリアムウェアラブル表
+table_ethereumWearablesTable
 
 ## エージェント・ウェアラブルセット
 
 エージェント・ウェアラブルセットは、メインネット上のAavegotchiの開始前に、[レベル12のエージェント](/missions)・ミッションをすべてクリアしたエージェントにのみ贈られる限定セットです。 写真と数量は近日公開予定です。
 
-表＿エージェントウェアラブル表
+table_aagentWearablesTable
 
 ## ウィザード・ウェアラブルセット
 
-表＿ウィザードウェアラブル表
+table_wizardWearablesTable
 
 ## ファーマー・ウェアラブルセット
 
-表＿ファーマーウェアラブル表
+table_farmerWearablesTable
 
 ## サンタ・ウェアラブルセット
 
 我々の友人の一人が誤ってGHSTステーキング・コントラクトに4000 LINK (~$50,000)を送信してしまいました。 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
 
-表＿サンタウェアラブル表
+table_santaWearablesTable
 
 ## OKexウェアラブル
 
 2020年10月7日、AavegotchiはOKexと提携し、OKexのCEOであるジェイ・ハオ氏をイメージした特別なウェアラブルセットを作りました。 OKexのプラットフォームでGHSTトークンを預けた幸運な預金者は、これらのウェアラブルを獲得するチャンスがありました。 150個のウェアラブルをご用意しています。 上位5名の入金者は、自動的に5点セットを獲得することができます。 しかし、残りの125個のNFTは、10GHST以上入金した人にランダムに授与されます。 詳しくは[こちら](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)をご覧ください。
 
-表＿okexウェアラブル表
+table_okexWearablesTable
 
 ## スケーター・ウェアラブルセット
 
-表＿スケーターウェアラブル表
+table_skaterWearablesTable
 
 ## 寿司ウェアラブルセット
 
-表＿寿司ウェアラブル表
+table_sushiWearablesTable
 
 ## 紳士ウェアラブルセット
 
-表＿紳士ウェアラブル表
+table_gentlemanWearablesTable
 
 ## マイナー・ウェアラブルセット
 
-表＿マイナーウェアラブル表
+table_minerWearablesTable
 
 ## パジャマ・ウェアラブルセット
 
-表＿パジャマウェアラブル表
+table_pajamasWearablesTable
 
 ## ランナー・ウェアラブルセット
 
-表＿ランナーウェアラブル表
+table_runnerWearablesTable
 
 ## レディー・ウェアラブルセット
 
-表＿レディーウェアラブル表
+table_ladyWearablesTable
 
 ## ウィッチー・ウェアラブルセット
 
-表＿ウィッチーウェアラブル表
+table_witchyWearablesTable
 
 ## ポータル・ウェアラブルセット
 
-表＿ポータルウェアラブル表
+table_portalWearablesTable
 
 ## ラスタ・ウェアラブルセット
 
-表＿ラスタウェアラブル表
+table_rastaWearablesTable
 
 ## ハザードスーツ・ウェアラブルセット
 
-表＿ハザードスーツウェアラブル表
+table_hazmatWearablesTable
 
 ## バケーション・ウェアラブルセット
 
-表＿バケーションウェアラブル表
+table_vacationWearablesTable
 
 ## 個別ドリンク・アイテム
 
-表＿個別ドリンクアイテム表
+table_independentDrinksTable
 
 ## 個別ヘッド・アイテム
 
-表＿個別ヘッドアイテム表
+table_independentHeadTable
 
 ## 個別ボディ・アイテム
 
-表＿個別ボディアイテム表
+table_independentBodyTable
 
 ## 消耗品
 
-表＿消耗品表
+table_consumablesTable
 
 ## レイヤー2テーマセット
 
 [Polygon](/polygon)でのAavegotchi発売を記念した「第4回抽選会」。
 
-表＿レイヤー2ウェアラブル表
+table_layer2WearablesTable
 
 ## オークション・ウェアラブル
 
@@ -225,24 +225,24 @@ LINKをテーマにしたこれらのウェアラブルは、AavegotchiとChainl
 
 この最初のオークションでは、2つの新しいウェアラブルセットと、楽しくて新しいコモン・レアリティー・アイテムが出品されます。 ゲーマー、スチームパンク、そしてコーヒーカップがゲットできます！
 
-表＿オークションウェアラブル表
+table_auctionWearablesTable
 
 ## Aavegotchi × Venly・ウェアラブル
 
 AavegotchiとVenlyのコラボにより、Aavegotchiを大勢のNFTゲームファンに紹介します。 詳しくは[この投稿](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)をお読みください。
 
-表＿venlyウェアラブル表
+table_venlyWearablesTable
 
 ## ハウント2・ウェアラブル
 
-表＿ハウント2表
+table_haunt2Table
 
 ## パートナーシップ・セット
 
 第5回目の抽選会は、Aavegotchiの友好的なパートナーシップをイメージしています。
 
-表＿パートナーシップ表
+table_partnershipsTable
 
 ## DeFi RPG・ウェアラブル
 
-表＿DeFiRPG表
+table_DeFiRPGTable

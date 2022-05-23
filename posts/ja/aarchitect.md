@@ -21,4 +21,4 @@ contributors:
 
 ## 建築家
 
-table_aarchitecture
+table_aarchitect

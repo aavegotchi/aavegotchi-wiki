@@ -71,7 +71,7 @@ contributors:
 
 ## シーズン別GHST配布
 
-表_rarityFarmingSeasons
+table_rarityFarmingSeasons
 
 ## 参考資料
 

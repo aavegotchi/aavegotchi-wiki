@@ -5,7 +5,7 @@ title: 'ボンディング・カーブ'
 description: 'Aavegotchi ボンディング・カーブ'
 image: "curve/bonding-curve.png"
 contributors:
-  - "アンインテリジェント・ナード"
+  - "unintelligent-nerd"
 ---
 
 
