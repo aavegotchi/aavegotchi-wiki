@@ -7,6 +7,12 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Vote on AGIPs 29 & 30!](https://blog.aavegotchi.com/vote-agip-29-30/)
+* AGIP 29: 24h Windows for Alchemical Channeling
+* AGIP 30: Scheduling Land Auction/Raffle #3 for June
+* Vote is live from 21 - 28 May 2022!
+<p></p>
+
 ## [Aavegotchi Raffles Return with Gotchiverse REALM Decorations](https://blog.aavegotchi.com/untitled-2/)
 * The first Gotchiverse Decorations Raffle is scheduled from 9 - 12 June 2022
 * Get your hands on ROFL Gnome, REALM Globe, Smol Flower, Laava Lamp, Neon Light, and Caamp Fire!
