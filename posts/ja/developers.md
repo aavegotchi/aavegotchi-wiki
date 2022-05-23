@@ -79,7 +79,7 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Aavegotchiエコシステムのためのアセットマネージャー
 
-* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+* [aavegotchi.xyz リーダーボード](https://www.aavegotchi.xyz/leaderboard/players) - Cryptoticker.ioギルドが制作したリーダーボード
 
 ## サブグラフ
 
