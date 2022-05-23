@@ -79,6 +79,8 @@ Coyote, nuestro desarrollador, ha creado 2 tutoriales sobre la creación de mini
 
 * [Bóveda Gotchi](https://www.gotchivault.com/) - Gestor de activos para el ecosistema Aavegotchi
 
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+
 ## Subgraphs
 
 * Subgraf oficial de Aavegotchi: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
