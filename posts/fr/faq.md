@@ -94,6 +94,7 @@ contributors:
 <p><a href=#i-withdrew-my-alchemica-but-it-s-not-in-my-wallet>I withdrew my Alchemica but it’s not in my wallet</a></p>
 <p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>My borrowing period is over, but I don’t see the Alchemica in my wallet</a></p>
 <p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>I didn’t receive Alchemica that I tried to withdraw hours ago</a></p>
+<p><a href=#how-do-you-allow-borrowed-gotchis-to-channel-alchemica-from-parcels-owned-by-the-lender->How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?</a></p>
 <li><a href=#gotchi-lending-faq>Location de Gotchi</a></li>
 <p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
@@ -484,6 +485,18 @@ There are 2 possibilities for this:
 * Your transaction was still pending when your borrowing period ended. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
 
 * There is high network latency. Please contact support with your Gotchi ID, wallet address, and screenshots (if you have them).
+
+### How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?
+
+Head to [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon), connect your wallet, scroll down to RealmFacet, click Write and select **setParcelsAccessRights**, then follow the screenshot below to input the information.
+
+**_realmIds**: an array [] containing the IDs of your parcels
+
+**_actionRights**: an array [] containing the number 0, one 0 for each parcelID
+
+**_accessRights**: an array [] containing the number 1, one 1 for each parcelID you'd like to let your borrowers access.
+
+If you can't figure it out, ask for help and some frenly community devs will help you out.
 
 ## Location de Gotchi
 
