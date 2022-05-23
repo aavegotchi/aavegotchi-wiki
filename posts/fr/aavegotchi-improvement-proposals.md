@@ -46,6 +46,8 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#reducing-the-parcel-vrf-variance>Reducing the Parcel VRF Variance</a></li>
 <li><a href=#alternative-gotchiverse-trait-mapping>Alternative Gotchiverse Trait Mapping</a></li>
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Extending the DAO Treasury Task Force Multisig</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>24h Windows for Alchemical Channeling</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Scheduling Land Auction/Raffle #3 for June</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1082,6 +1084,87 @@ Option 14: Chichi
 table_agip28
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8b5862698c550b53e57f6ce4628a7a13ed5a4772e541c414e9a27fbcf95cf8c2)
+
+<hr />
+
+### 24h Windows for Alchemical Channeling
+**Aavegotchi Improvement Proposal #29**
+
+**Proposal Summary:**
+
+As specified in Gotchiverse Bible Chapter 3, solo gotchi channeling will work via a 24 hour cooldown timer that starts immediately after a gotchi channels at an altar. We propose that this be revised to a windowed 24 hour system that runs from 00:00 UTC to 23:59 UTC in which a gotchi can solo channel once, anytime within that 24 hour window.
+
+*TIMELINE*
+
+Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
+
+*RATIONALE*
+
+With the introduction of the 12 hour petting cooldown system a year ago, we have all come to realize that a set interaction time with your gotchi is hard to maintain given real world events, network congestion, family and work commitments. We do not want to repeat this limitation with solo gotchi channeling.
+
+The above limitation has led to the development of automated bots to guarantee interaction efficiency which, arguably, results in lower user engagement. By removing this limitation for solo channeling, it is much more likely that players will organically engage with their gotchi for solo channeling on a daily basis.
+
+Many players have multiple gotchis, multiple parcels and multiple altars spread all throughout the Citaadel. These players have shown amazing support in our community and should not be restricted in their efficiency by a 24 hour cooldown. They should still be able to comfortably channel once per day with all their gotchis when their busy schedules suit.
+
+*BENEFITS*
+
+The 24 hour channeling solution would: Improve quality of life for gotchi owners,
+
+* Mitigate unfavorable interaction times,
+* Mitigate network congestion at interaction time, and,
+* Increase daily engagement for time-poor players.
+
+*RISKS*
+
+Proposal implementation date may be delayed if Pixelcraft encounters technical challenges or is otherwise unable to meet the May 18, 2022 implementation date.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
+
+Option 1: Yes, once per 24h window
+
+Option 2: No, every 24h interaction
+
+**Voting Period:** 21 - 28 May 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbe89c5f01a02817058d66459cb00a399c45aa8991e29121fb1ca3b0e11e0c84b)
+
+<hr />
+
+### Scheduling Land Auction/Raffle #3 for June
+**Aavegotchi Improvement Proposal #30**
+
+**Proposal Summary:**
+
+Land Auction/Raffle #3 Proposal:
+
+* Hold the Auction and Raffle within June
+* 8,000 Parcels in total from predominantly districts 1, 6, 13, 23, 24, 25, 26. Parcels from previously auctioned/raffled districts are also included. The exact selection can be seen in the Discussion Thread: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
+* 70% (5,600) of parcels in the auction, 30% (2,400) in the raffle
+
+Proposed Revenue Distribution:
+
+* 40% of Revenue to the Rarity Farming Rewards Pool
+* 40% to Pixelcraft Studios
+* 20% to the AavegotchiDAO
+* 0% Burn
+
+This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
+
+This proposal has been discussed with the Pixelcraft team who support it and feel the target date is feasible.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
+
+Option 1: Yes, 8k Parcels in June
+
+Option 2: No
+
+**Voting Period:** 21 - 28 May 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x658926263e4ce1eca559950bcb0f5d8f203758c5c99b30999bb7f082552695b8)
 
 <hr />
 
