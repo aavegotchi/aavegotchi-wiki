@@ -46,11 +46,11 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#reducing-the-parcel-vrf-variance>Giảm Biến Số Parcel VRF</a></li>
 <li><a href=#alternative-gotchiverse-trait-mapping>Thay Thế Cách Quy Đổi Chỉ Số Trait Gotchiverse</a></li>
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO</a></li>
-<li><a href=#24h-windows-for-alchemical-channeling>24h Windows for Alchemical Channeling</a></li>
-<li><a href=#scheduling-land-auction-raffle--3-for-june>Scheduling Land Auction/Raffle #3 for June</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>Khung Thời Gian 24h Để Truyền Khoáng Sản</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -1087,7 +1087,7 @@ table_agip28
 
 <hr />
 
-### 24h Windows for Alchemical Channeling
+### Khung Thời Gian 24h Để Truyền Khoáng Sản
 **Aavegotchi Improvement Proposal #29**
 
 **Tóm Tắt Đề Xuất:**
@@ -1132,7 +1132,7 @@ Option 2: No, every 24h interaction
 
 <hr />
 
-### Scheduling Land Auction/Raffle #3 for June
+### Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu
 **Aavegotchi Improvement Proposal #30**
 
 **Tóm Tắt Đề Xuất:**
@@ -1168,26 +1168,26 @@ Option 2: No
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Lựa chọn A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Lựa chọn B: Aavegotchi Maarket
 
-Choice C: Neither
+Lựa chọn C: Không chọn 2 đáp án trên
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1197,7 +1197,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
@@ -1213,7 +1213,7 @@ We are setting a 500,000 GHST quorum for this vote to be enacted.
 
 The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1223,7 +1223,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
