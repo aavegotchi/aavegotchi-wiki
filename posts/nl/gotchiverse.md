@@ -29,7 +29,7 @@ De Gotchiverse begon met slechts een handvol Aavegotchis, maar naarmate de liqui
 <li><a href=#realm-parcel-sizes>REALM Parceelgrootte</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commando's</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
@@ -140,15 +140,30 @@ Next, you need to select the Gotchi's spawn location. You can select from variou
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Socializing in the Gotchiverse
+## Inside the Gotchiverse
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+<img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="Gotchiverse" />
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by your mouse.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+The Gotchiverse UI is designed as follows:
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+* Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
+* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
+* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table, Inventory, and Build Mode
+
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+
+The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
+
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+
+Once installations have been crafted, they are reflected in your Inventory.
+
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
 ## Chat Commando's
 
@@ -168,10 +183,10 @@ table_gotchusAlchemicaSupply
 
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
-* **Alchemisch Channeling**: Een dagelijkse steek verdiend door Aavegotchis die rechtstreeks van de Gotchiverether komt, in plaats van geoogst te worden van het pakket.
-* **Communal Channeling**: Aavegotchis kunnen ook collectief alchemica channelen wanneer een Gotchi Lodge Installatie is gebouwd op het REALM Parcel. Om deel te nemen aan hetCommunal Channeling, moet de Aavegotchi de bijbehorende Guild Insignia dragen en aanwezig zijn op het REALM Parcel tijdens het ritueel. Voor elke extra Aavegotchi die deelneemt aan het Communal Channeling ritueel, zal de Alchemica sneller verdiend worden.
-* **Farming**: Zodra een Harvester is gebouwd, begint Alchemicaa passief verdiend te worden en gaat x hoeveelheid naar het Reservoir, **y** een hoeveelheid dat spilt in de nabije omgeving, en **z** x hoeveelheid gaat naar het Grote Portaal
-* **Harvesting**: Aavegotchis en lickquidators kunnen de kaart verkennen om losse alchemica te verzamelen die gespilt wordt door harvesting.
+* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
+* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
@@ -236,7 +251,7 @@ Whenever an Installation, upgrade or other item is crafted within the Gotchivers
 * Great Portal (35%)
 * Pixelcraft (30%)
 * DAO (30%)
-* Verbrand (5%)
+* Burn (5%)
 
 **The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
 
@@ -284,9 +299,9 @@ Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Ba
 
 There are three ways to get Drop Tickets:
 
-* Ruil 10.000 FRENS om voor één Drop Ticket
-* Ruil andere Lotterij Tickets om voor een Drop Ticket
-* Refereer je vrienden om drop-Tickets te verdienen 🔥
+* Convert 10,000 FRENS into one Drop Ticket
+* Convert other Raffle Tickets into a Drop Ticket
+* Refer your friends to earn Drop Tickets 🔥
 
 ### Parcel Boosts
 
