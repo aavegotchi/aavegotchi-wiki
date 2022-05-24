@@ -1150,17 +1150,17 @@ Phân Bố Doanh Thu Chế Tạo:
 * 20% dành cho AavegotchiDAO
 * 0% đốt
 
-This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
+Đề xuất này được tổng hợp từ phản hồi của cộng đồng trong vài tuần qua và cố gắng cân bằng các yếu tố sau: pha loãng NFT; một cuộc đấu giá / xổ số diễn ra quá gấp gáp; thanh khoản GHST sẵn có không đầy đủ; quan ngại về kinh phí của Rarity Farming Season 4; tận dụng động lực và tiếp thị của bản phát hành trò chơi đầy đủ. Phiên đấu giá tháng 6 sẽ kéo dài> 2 tuần chơi trò chơi Citaadel và sẽ có đủ thời gian cho các nỗ lực tiếp thị và phát triển kinh doanh để thu được khoản đầu tư tối đa.  Có đủ Phần thưởng Gotchiverse sau hai cuộc đấu giá đất đầu tiên và việc bán này sẽ giúp tài trợ cho RFS4 và thậm chí có thể là một phần của Phần 5.
 
-This proposal has been discussed with the Pixelcraft team who support it and feel the target date is feasible.
+Đề xuất này đã được thảo luận với nhóm Pixelcraft, những người ủng hộ nó và cảm thấy ngày thực hiện mục tiêu là khả thi.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
 
-Option 1: Yes, 8k Parcels in June
+Phương án 1: Có, 8k gói đất vào tháng 6
 
-Option 2: No
+Phương án 2: Không thêm gói đất mới
 
-**Voting Period:** 21 - 28 May 2022
+**Thời gian vote:**21 - 28 tháng Năm 2022
 
 **Kết quả:**
 
