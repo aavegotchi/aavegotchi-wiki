@@ -1139,16 +1139,16 @@ Phương án 2: Không đồng ý, reset thời gian 24h sau mỗi lần tương
 
 Đề xuất đấu giá đất / xổ số 3:
 
-* Hold the Auction and Raffle within June
-* 8,000 Parcels in total from predominantly districts 1, 6, 13, 23, 24, 25, 26. Parcels from previously auctioned/raffled districts are also included. The exact selection can be seen in the Discussion Thread: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
-* 70% (5,600) of parcels in the auction, 30% (2,400) in the raffle
+* Tổ chức đấu giá và xổ số trong tháng 6
+* Tổng cộng 8.000 gói đất từ chủ yếu là các quận 1, 6, 13, 23, 24, 25, 26. Các bưu kiện từ các quận đã đấu giá / xổ số trước đó cũng sẽ được bán. Lựa chọn chính xác có thể được xem trong Chủ đề thảo luận: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
+* 70% (5.600) gói đất trong đấu giá, 30% (2.400) trong sổ xố
 
-Proposed Revenue Distribution:
+Phân Bố Doanh Thu Chế Tạo:
 
-* 40% of Revenue to the Rarity Farming Rewards Pool
-* 40% to Pixelcraft Studios
-* 20% to the AavegotchiDAO
-* 0% Burn
+* 40% doanh thu dành cho quỹ Rarity Farming
+* 40% gửi cho Pixelcraft Studios
+* 20% dành cho AavegotchiDAO
+* 0% đốt
 
 This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
 
