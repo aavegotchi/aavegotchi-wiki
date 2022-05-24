@@ -1096,33 +1096,33 @@ Như đã được chỉ ra cụ thể trong Chương 3 Gotchiverse Chân Kinh, 
 
 *DÒNG THỜI GIAN*
 
-Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
+Bản đề xuất nên được thực hiện trước 18 tháng 5, 2022 (ngày bắt đầu truyền cá nhân) hoặc bất cứ lúc nào Pixelcraft có thể làm được…
 
-*RATIONALE*
+*MỤC ĐÍCH*
 
-With the introduction of the 12 hour petting cooldown system a year ago, we have all come to realize that a set interaction time with your gotchi is hard to maintain given real world events, network congestion, family and work commitments. We do not want to repeat this limitation with solo gotchi channeling.
+Với cơ chế đến ngược 12 tiếng của petting vào 1 năm trước, chúng ta đều nhận thấy rằng một thời gian tương tác định sẵn với gotchi rất khó có thể duy trì dựa trên các sự kiện trong thế giới thực, mạng lag, công việc ở công ty và việc gia đình. Bọn mìn không muốn những hạn chế này lặp lại với việc truyền cá nhân.
 
-The above limitation has led to the development of automated bots to guarantee interaction efficiency which, arguably, results in lower user engagement. By removing this limitation for solo channeling, it is much more likely that players will organically engage with their gotchi for solo channeling on a daily basis.
+Hạn chế trên đã dẫn đến việc nhiều người phải làm ra bot để đảm bảo việc tương tác hiệu quả nhất, kết quả là sự tương tác với người dùng bị giảm đi. Bằng cách xóa bỏ hạn chế trong việc truyền cá nhân, việc người chơi tương tác một cách tích cực với gotchi trong việc truyền khoáng hàng ngày sẽ được cải thiện.
 
-Many players have multiple gotchis, multiple parcels and multiple altars spread all throughout the Citaadel. These players have shown amazing support in our community and should not be restricted in their efficiency by a 24 hour cooldown. They should still be able to comfortably channel once per day with all their gotchis when their busy schedules suit.
+Nhiều người chơi có nhiều gotchi, nhiều gói đất, nhiều altar ở khắp Citaadel. Những người chơi này đã thể hiện sự ủng hộ của mình đối với cộng đồng và không nên bị hạn chế sự hiệu quả qua việc giảm thời gian đếm ngược 24h. Họ nên vẫn có thể truyền một cách thoải mái mỗi ngày với tất cả gotchi khi có việc bận.
 
-*BENEFITS*
+*LỢI ÍCH*
 
-The 24 hour channeling solution would: Improve quality of life for gotchi owners,
+Giải pháp 24h truyền khoáng sẽ: Cải thiện chất lượng sống của chủ gotchi,
 
-* Mitigate unfavorable interaction times,
-* Mitigate network congestion at interaction time, and,
-* Increase daily engagement for time-poor players.
+* Giảm thời gian tương tác không thuận lợi,
+* Giảm thiểu tắc nghẽn mạng tại thời điểm tương tác và,
+* Tăng mức độ tương tác hàng ngày cho những người chơi không có nhiều thời gian.
 
-*RISKS*
+*Nguy cơ*
 
-Proposal implementation date may be delayed if Pixelcraft encounters technical challenges or is otherwise unable to meet the May 18, 2022 implementation date.
+Việc triển khai bản đề xuất sẽ không bắt kịp với ngày bắt đầu cho phép truyền là 18/5.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
 
-Option 1: Yes, once per 24h window
+Phương án 1: Đồng ý, 24 giờ một lần
 
-Option 2: No, every 24h interaction
+Phương án 2: Không đồng ý, reset thời gian 24h sau mỗi lần tương tác
 
 **Voting Period:** 21 - 28 May 2022
 
