@@ -29,7 +29,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Алхимия Готчи.</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
@@ -140,15 +140,30 @@ Next, you need to select the Gotchi's spawn location. You can select from variou
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Socializing in the Gotchiverse
+## Inside the Gotchiverse
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+<img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="Gotchiverse" />
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by your mouse.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+The Gotchiverse UI is designed as follows:
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+* Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
+* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
+* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table, Inventory, and Build Mode
+
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+
+The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
+
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+
+Once installations have been crafted, they are reflected in your Inventory.
+
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
 ## Chat Commands
 
@@ -169,8 +184,8 @@ table_gotchusAlchemicaSupply
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **Коллективный ченнелинг:** Метод добычи ресурсов, когда Готчи объединяют свои усилия, а на участке имеется соответствующая установка (комбайн). Участие в коллективном ченнелинге допускается для Готчи, состоящих в Гильдии, имеющих соответствующий знак, и присутствующих на участке во время коллективной добычи ископаемых. Чем больше Готчи, тем быстрей идет добыча ресурсов.
-* **Фарминг**. Как только на участке появится Комбайн, ресурсы алхимии начнут накапливаться, и постоянно определенное их количество (**Х**) будет поступать в хранилище, (**Y**) количество будет перетекать на соседние участки, а (<0>Z</0>) попадать в Великий портал.
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
