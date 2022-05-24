@@ -1137,7 +1137,7 @@ Phương án 2: Không đồng ý, reset thời gian 24h sau mỗi lần tương
 
 **Tóm Tắt Đề Xuất:**
 
-Land Auction/Raffle #3 Proposal:
+Đề xuất đấu giá đất / xổ số 3:
 
 * Hold the Auction and Raffle within June
 * 8,000 Parcels in total from predominantly districts 1, 6, 13, 23, 24, 25, 26. Parcels from previously auctioned/raffled districts are also included. The exact selection can be seen in the Discussion Thread: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
