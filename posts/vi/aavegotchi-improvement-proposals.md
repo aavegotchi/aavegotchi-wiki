@@ -1092,9 +1092,9 @@ table_agip28
 
 **Tóm Tắt Đề Xuất:**
 
-As specified in Gotchiverse Bible Chapter 3, solo gotchi channeling will work via a 24 hour cooldown timer that starts immediately after a gotchi channels at an altar. We propose that this be revised to a windowed 24 hour system that runs from 00:00 UTC to 23:59 UTC in which a gotchi can solo channel once, anytime within that 24 hour window.
+Như đã được chỉ ra cụ thể trong Chương 3 Gotchiverse Chân Kinh, việc truyền khoáng cá nhân sẽ hoạt động thông qua một khung thời gian 24 giờ đếm ngược, ngay sau khi một Aavegotchi truyền khoáng từ một altar. Bọn mình đề xuất sửa lại thành một hệ thống thời gian 24h giờ chạy từ 00:00 UTC đến 23:59 UTC, trong đó, một gotchi có thể truyền bất cứ lúc nào trong khung thời gian 24h.
 
-*TIMELINE*
+*DÒNG THỜI GIAN*
 
 Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
 
