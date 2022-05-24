@@ -221,15 +221,15 @@ table_layer2WearablesTable
 
 ## Trang Phục Đấu Giá
 
-The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức vào hôm thứ Năm, ngày 15 tháng 7 năm 2021. Đấu Giá Kiếm tiền được vận hành theo mô hình đấu giá của GBM. Hãy xem thêm những ưu điểm to lớn trong việc phân phối NFT từ mô hình này so với các mô hình cũ bằng cách truy cập vào trang wen và đọc [bài viết Medium](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29) của chúng tôi.
 
-This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+Chương trình đấu giá đầu tiên có sự xuất hiện của hai bộ trang phục mới cũng như một vật phẩm có độ hiếm common. Hãy sẵn sàng cho các gamer, steampunk và thậm chí là một cốc cà phê!
 
 table_auctionWearablesTable
 
 ## Trang Phục Aavegotchi x Venly
 
-A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi. medium. com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
 
 table_venlyWearablesTable
 
@@ -239,7 +239,7 @@ table_haunt2Table
 
 ## Trang phục Đối Tác
 
-The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+Sự kiện đấu giá Thứ Năm được truyền cảm hứng bởi những đối tác thân thiện nhất của Aavegotchi.
 
 table_partnershipsTable
 
