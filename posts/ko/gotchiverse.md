@@ -29,7 +29,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-parcel-sizes>REALM Parcel Sizes</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commands</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
@@ -140,15 +140,30 @@ Next, you need to select the Gotchi's spawn location. You can select from variou
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Socializing in the Gotchiverse
+## Inside the Gotchiverse
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+<img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="Gotchiverse" />
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by your mouse.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+The Gotchiverse UI is designed as follows:
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+* Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
+* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
+* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table, Inventory, and Build Mode
+
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+
+The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
+
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+
+Once installations have been crafted, they are reflected in your Inventory.
+
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
 ## Chat Commands
 
