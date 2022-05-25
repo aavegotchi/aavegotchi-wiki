@@ -21,6 +21,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
+* [Aesthetica](/aesthetica)
+
 * [Aging Mechanisme](/aging-mechanic)
 
 * [Baadge](/baadge)
