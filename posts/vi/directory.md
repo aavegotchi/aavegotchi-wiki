@@ -21,7 +21,7 @@ contributors:
 
 * [Trang Thông Tin Aavegotchi](/aavegotchi-profile)
 
-* [Aesthetica](/aesthetica)
+* [Vật Trang Trí](/aesthetica)
 
 * [Cơ Chế Trưởng Thành](/aging-mechanic)
 
@@ -31,11 +31,11 @@ contributors:
 
 * [Baazaar](/baazaar)
 
-* [Bridge](/bridge)
+* [Cầu Nối](/bridge)
 
 * [Cuộc thi](/contests)
 
-* [Contracts](/contracts)
+* [Hợp Đồng](/contracts)
 
 * [Bonding Curve](/curve)
 
