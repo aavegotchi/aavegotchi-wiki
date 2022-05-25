@@ -20,6 +20,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aavegotchi Profile Page](/aavegotchi-profile)
 
+* [Aesthetica](/aesthetica)
+
 * [Aging Mechanic](/aging-mechanic)
 
 * [Baadge](/baadge)
