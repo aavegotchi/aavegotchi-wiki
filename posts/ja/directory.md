@@ -21,31 +21,33 @@ Avegotchi Wikiのページ一覧です：
 
 * [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
 
-* [エージングメカニック（Aging Mechanic）](/aging-mechanic)
+* [Aesthetica](/aesthetica)
 
-* [バッジ（Baadge）](/baadge)
+* [エージングメカニズム](/aging-mechanic)
 
-* [バアード（Baard）](/baard)
+* [バッジ](/baadge)
 
-* [バザール（Baazaar）](/baazaar)
+* [Baard (ミュージシャン)](/baard)
 
-* [ブリッジ（Bridge）](/bridge)
+* [Baazaar](/baazaar)
 
-* [コンテスト（Contests）](/contests)
+* [Bridge](/bridge)
 
-* [コントラクト（Contracts）](/contracts)
+* [コンテスト](/contests)
 
-* [ボンディング・カーブ（Bonding Curve）](/curve)
+* [Contracts](/contracts)
+
+* [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [デベロッパーズ（Developers）](/developers)
+* [Developers](/developers)
 
-* [エステート（Estaates）](/estaates)
+* [Estaates（エステート）](/estaates)
 
-* [アイ・シェイプ（Eye Shape）](/eye-shape)
+* [Eye Shape](/eye-shape)
 
-* [よくある質問（FAQ）](/faq)
+* [FAQ（よくある質問）](/faq)
 
 * [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
 
@@ -63,33 +65,33 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [ギルド（Guild）](/guild)
+* [Guild](/guild)
 
 * [ハウント](/haunt)
 
-* [ホーム（Home）](/index)
+* [Home](/index)
 
 * [はじめに](/introduction)
 
 * [キンシップ](/kinship)
 
-* [モール](/maall)
+* [Maall](/maall)
 
 * [maToken](/matokens)
 
-* [メディア](/media)
+* [メディア（Media）](/media)
 
-* [ミーム](/memes)
+* [Memes](/memes)
 
 * [マイルストーン](/milestones)
 
-* [ミニゲーム](/minigames)
+* [Mini-Games](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション](/missions)
+* [Missions](/missions)
 
-* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
+* [Mumbai Testnet](/mumbai-testnet)
 
 * [パートナーズ](/partners)
 
@@ -99,7 +101,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [ポータル](/portals)
 
-* [ラッフルの統計](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
@@ -109,13 +111,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [ロードマップ](/roadmap)
 
-* [セット（Sets）](/sets)
+* [Sets](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [スピリットフォースの起源](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
 
@@ -131,7 +133,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [チュートリアル](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
