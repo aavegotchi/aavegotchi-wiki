@@ -79,7 +79,7 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Asset manager voor het Aavegotchi ecosysteem
 
-* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard gemaakt door Cryptoticker.io Guild
 
 ## Subgrafieken
 
