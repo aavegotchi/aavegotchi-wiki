@@ -46,11 +46,11 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#reducing-the-parcel-vrf-variance>Verminder de Parcel VRF variant</a></li>
 <li><a href=#alternative-gotchiverse-trait-mapping>Alternatieve Gotchiverse Trait Mapping</a></li>
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Uitbreiden van de DAO Schat Task Force Multisig</a></li>
-<li><a href=#24h-windows-for-alchemical-channeling>24h Windows for Alchemical Channeling</a></li>
-<li><a href=#scheduling-land-auction-raffle--3-for-june>Scheduling Land Auction/Raffle #3 for June</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>24u Windows voor Alchemical Channeling</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Plannen Land Veiling/Raffel #3 voor juni</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Naam van de Aavegotchi Marktplaats</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Aantal portalen gekocht in één transactie</a></li>
 </ol>
 
 </div>
@@ -1087,28 +1087,28 @@ tabel_agip28
 
 <hr />
 
-### 24h Windows for Alchemical Channeling
-**Aavegotchi Improvement Proposal #29**
+### 24u Windows voor Alchemical Channeling
+**Aavegotchi Verbetering Voorstel #29**
 
 **Voorstel Samenvatting:**
 
-As specified in Gotchiverse Bible Chapter 3, solo gotchi channeling will work via a 24 hour cooldown timer that starts immediately after a gotchi channels at an altar. We propose that this be revised to a windowed 24 hour system that runs from 00:00 UTC to 23:59 UTC in which a gotchi can solo channel once, anytime within that 24 hour window.
+Zoals aangegeven in Gotchiverse Bijbel Hoofdstuk 3, solo gotchi zal solo channeling werken via een 24 uur afkoeltijd die onmiddellijk begint na een gotchi channeling op een altar. Wij stellen voor dit te herzien naar een raam 24 uur systeem dat loopt van 00:00 UTC tot 23:59 UTC waarin een gotchi eenmalig kan channelen elk moment binnen dat 24-uurs raam.
 
-*TIMELINE*
+*TIJDLIJN*
 
-Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
+Voorstel om geïmplementeerd te worden op of voor 18 mei 2022 (de begindatum van solo channeling) of zodra daarna Pixelcraft kan verzenden...
 
-*RATIONALE*
+*BEOORDELING*
 
-With the introduction of the 12 hour petting cooldown system a year ago, we have all come to realize that a set interaction time with your gotchi is hard to maintain given real world events, network congestion, family and work commitments. We do not want to repeat this limitation with solo gotchi channeling.
+Met de invoering van het afkoelsysteem van 12 uur een jaar geleden we hebben allemaal begrepen dat een ingestelde interactietijd met je gotchi moeilijk te onderhouden is in een echte wereld gebeurtenis verkeersopstoppingen, gezins- en werkverplichtingen. We willen deze beperking niet herhalen met alleen het channelen van gotchi.
 
-The above limitation has led to the development of automated bots to guarantee interaction efficiency which, arguably, results in lower user engagement. By removing this limitation for solo channeling, it is much more likely that players will organically engage with their gotchi for solo channeling on a daily basis.
+Bovenstaande beperking heeft geleid tot de ontwikkeling van geautomatiseerde bots om interactieefficiëntie te garanderen, wat aantoonbaar leidt tot een lagere betrokkenheid van gebruikers. Door deze beperking voor solo channeling te verwijderen, het is veel waarschijnlijker dat spelers op organische wijze met hun gotchi zullen communiceren voor een solo kanaal.
 
-Many players have multiple gotchis, multiple parcels and multiple altars spread all throughout the Citaadel. These players have shown amazing support in our community and should not be restricted in their efficiency by a 24 hour cooldown. They should still be able to comfortably channel once per day with all their gotchis when their busy schedules suit.
+Veel spelers hebben meerdere gotchis, meerdere percels en meerdere altars verspreid over het hele Citaadel. Deze spelers hebben verbazingwekkende steun in onze gemeenschap getoond en mogen niet worden beperkt in hun efficiëntie met een cooldown van 24 uur. Ze moeten nog steeds rustig een keer per dag kunnen kanaliseren als hun drukke dienstregelingen uitkomen.
 
-*BENEFITS*
+*VOORDEEL*
 
-The 24 hour channeling solution would: Improve quality of life for gotchi owners,
+De 24-uurs kanaaloplossing kanaal: Verbeter de kwaliteit van leven voor gotchi eigenaren,
 
 * Mitigate unfavorable interaction times,
 * Mitigate network congestion at interaction time, and,
@@ -1132,7 +1132,7 @@ Option 2: No, every 24h interaction
 
 <hr />
 
-### Scheduling Land Auction/Raffle #3 for June
+### Plannen Land Veiling/Raffel #3 voor juni
 **Aavegotchi Improvement Proposal #30**
 
 **Voorstel Samenvatting:**
@@ -1168,7 +1168,7 @@ Option 2: No
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Naam van de Aavegotchi Marktplaats
 **Snapshot Stemming**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -1197,7 +1197,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Mogelijkheid van GHST-USDC LP tokens om FRENS te verdienen
 
 **Snapshot Stemming**
 
@@ -1223,7 +1223,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Aantal portalen gekocht in één transactie
 
 **Snapshot Stemming**
 
