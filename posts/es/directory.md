@@ -21,31 +21,33 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Página del perfil de Aavegotchi](/aavegotchi-profile)
 
+* [Aesthetica](/aesthetica)
+
 * [Mecánica de envejecimiento](/aging-mechanic)
 
-* [Insignia](/baadge)
+* [Baadge](/baadge)
 
-* [Bardos](/baard)
+* [Baard](/baard)
 
 * [Bazar](/baazaar)
 
-* [Puente](/bridge)
+* [Bridge](/bridge)
 
-* [Concursos](/contests)
+* [Contests](/contests)
 
-* [Contratos](/contracts)
+* [Contracts](/contracts)
 
-* [Curva de Emisión](/curve)
+* [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Desarrolladores](/developers)
+* [Developers](/developers)
 
-* [Propiedades](/estaates)
+* [Fincas](/estaates)
 
-* [Forma de ojos](/eye-shape)
+* [Eye Shape](/eye-shape)
 
-* [Preguntas frecuentes (FAQ)](/faq)
+* [FAQ](/faq)
 
 * [FRENS Taask Force](/frens-taask-force)
 
