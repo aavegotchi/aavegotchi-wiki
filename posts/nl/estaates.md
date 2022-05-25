@@ -12,77 +12,77 @@ contributors:
 <p class="headerImageText">Estaates</p>
 </div>
 
-A [Gotchiverse](/gotchiverse) Estaate is two or more REALM parcels linked together via an in-game linking system. Linked parcels allow building Waalls along the edges so that multiple parcels can be fully encircled to help prevent intruders.
+Een [Gotchiverse](/gotchiverse) Estaing is twee of meer REALM pakketten die aan elkaar zijn gekoppeld via een in-game koppelingssysteem. Verbonden pakketten maken het mogelijk om Waalls langs de randen te bouwen, zodat meerdere pakketten volledig omsingeld kunnen worden om indringers te helpen voorkomen.
 
-Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they allow for privacy, protection, and convenience.
+Estaateszijn perfect voor [Guilds](/guild) of eigenaren met grote bedrijven, als ze ruimte bieden voor privacy, bescherming en gemak.
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#benefits-of-estaates>Benefits of Estaates</a></li>
-<li><a href=#general-building-rules>General Building Rules</a></li>
-<li><a href=#estaate-building--connection-waall--rules>Estaate Building “Connection Waall” Rules</a></li>
-<li><a href=#examples>Examples</a></li>
+<li><a href=#benefits-of-estaates>Voordelen van Estaates</a></li>
+<li><a href=#general-building-rules>Algemene bouwregels</a></li>
+<li><a href=#estaate-building--connection-waall--rules>Estaing Bouw "Verbinding Waall" regels</a></li>
+<li><a href=#examples>Voorbeelden</a></li>
 </ol>
 
 </div>
 
-## Benefits of Estaates
+## Voordelen van Estaates
 
-Creating an Estaate gives:
+Het maken van een Estaate geeft:
 
-* Visibility - Everyone to see the link(s).
+* Zichtbaarheid - Iedereen om de link(s) te zien.
 
-* Protection - Owner can protect the Estaate perimeter by equipping Waalls.
+* Bescherming - Eigenaar kan de Estaate omtrek beschermen door Waall uit te rusten.
 
-* Convenience: Owner can empty all Reservoirs in the Estaate at the same time, instead of one by one.
+* Conventie: de eigenaar kan alle reservoirs in de Estaing tegelijkertijd leegmaken in plaats van een voor één.
 
-## General Building Rules
+## Algemene bouwregels
 
-1: Ownership
+Eigendom
 
-* The selected parcels must be owned by the same player.
-* Each parcel can be a part of only one Estaate.
-* An owner can create any number of Estaates
+* De geselecteerde pakketten moeten eigendom zijn van dezelfde speler.
+* Elk pakket kan slechts deel uitmaken van één Estaate.
+* Een eigenaar kan een willekeurig aantal 'Estaate' maken
 
 2: Types
 
-* All types of parcels can be included in an Estaate.
+* Alle soorten pakketten kunnen in een Estaate worden opgenomen.
 
-3: Proximity
+Nabijheid
 
-* Parcels up to 8* gotchis away from each other can be linked (this number will likely be tuned).
+* Parcels tot 8* gotchis away kunnen worden gekoppeld (dit nummer wordt waarschijnlijk in de gaten gehouden).
 
-4: Alignment
+4: Uitlijning
 
-* Parcels need not be lined up to one another to link.
+* Pakketten hoeven niet naar elkaar geplaatst te worden om te linken.
 
-5: Quantity
+Hoeveelheid
 
-* Lodge Level determines the number of parcels that can be linked together.
+* Het laadniveau bepaalt het aantal pakketjes dat aan elkaar gekoppeld kan worden.
 
-6: Clearance
+Breekzet
 
-Things that **BLOCK** linking include:
-* Items with impassable Collision (walls, towers, etc.)
-* Parcel owned by another player is between 2 owned parcels desired to be linked
-* Link from another owner is between 2 owned parcels desired to be linked
+Dingen die **BLOCK** linken omvatten:
+* Items met onbegaanbare botsing (muren, toren, etc.)
+* Parcel eigendom van een andere speler is tussen de 2 gewenste pakketten
+* Link vanaf een andere eigenaar bevindt zich tussen de 2 gewenste pakketten
 
-Things that do **NOT block** linking include:
+Dingen die **NIET blokkeer** koppeling omvatten:
 * Alchemica
-* Destructibles
-* Background objects like statues, trees, etc.
-* If a potential link is considered BLOCKED, it cannot be executed.
+* Vernietigbaar
+* Achtergrondobjecten zoals standen, bomen, enz.
+* Als een potentiële link wordt beschouwd als BLOCKED, kan deze niet worden uitgevoerd.
 
-7: Adding
+7: Toevoegen
 
-* If an owner wishes to add one or more owned parcels to their existing Estaate, they can do so as long as no rules are broken. Attempting to add will recalculate the Estaate linking.
+* Als een eigenaar een of meer eigen pakketten aan zijn bestaande Estaate wil toevoegen, Dat kunnen ze doen zolang er geen regels worden overtreden. Een poging om hieraan toe te voegen zal de link van de Estaate opnieuw berekenen.
 
-8: Subtracting
+Aftrekken
 
-* If an owner wishes to remove one or more owned parcels from their existing Estaate, they can do so as long as no rules are broken. Attempting to remove will recalculate the Estaate linking.
+* Als een eigenaar een of meer eigen pakketten van de bestaande Estaate wil verwijderen, Dat kunnen ze doen zolang er geen regels worden overtreden. Een poging tot verwijdering zal de koppeling van de Estaate opnieuw berekenen.
 * If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
 * If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
 
@@ -96,7 +96,7 @@ Things that do **NOT block** linking include:
 
 * A link cannot be formed if it will create an intersection with another Estaate.
 
-## Estaate Building “Connection Waall” Rules
+## Estaing Bouw "Verbinding Waall" regels
 
 One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
 
@@ -130,7 +130,7 @@ One of the tangible gameplay benefits of creating an Estaate is the ability for 
 
     * Unequips 1 Wall on either side of the Connection Waall
 
-## Examples
+## Voorbeelden
 
 There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
 
