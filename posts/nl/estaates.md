@@ -12,7 +12,7 @@ contributors:
 <p class="headerImageText">Estaates</p>
 </div>
 
-Een [Gotchiverse](/gotchiverse) Estaing is twee of meer REALM pakketten die aan elkaar zijn gekoppeld via een in-game koppelingssysteem. Verbonden pakketten maken het mogelijk om Waalls langs de randen te bouwen, zodat meerdere pakketten volledig omsingeld kunnen worden om indringers te helpen voorkomen.
+Een [Gotchiverse](/gotchiverse) Estaate is twee of meer REALM pakketten die aan elkaar zijn gekoppeld via een in-game koppelingssysteem. Verbonden pakketten maken het mogelijk om Waalls langs de randen te bouwen, zodat meerdere pakketten volledig omsingeld kunnen worden om indringers te helpen voorkomen.
 
 Estaateszijn perfect voor [Guilds](/guild) of eigenaren met grote bedrijven, als ze ruimte bieden voor privacy, bescherming en gemak.
 
@@ -41,7 +41,7 @@ Het maken van een Estaate geeft:
 
 ## Algemene bouwregels
 
-Eigendom
+1: Eigendom
 
 * De geselecteerde pakketten moeten eigendom zijn van dezelfde speler.
 * Elk pakket kan slechts deel uitmaken van één Estaate.
@@ -51,7 +51,7 @@ Eigendom
 
 * Alle soorten pakketten kunnen in een Estaate worden opgenomen.
 
-Nabijheid
+3: Nabijheid
 
 * Parcels tot 8* gotchis away kunnen worden gekoppeld (dit nummer wordt waarschijnlijk in de gaten gehouden).
 
@@ -59,11 +59,11 @@ Nabijheid
 
 * Pakketten hoeven niet naar elkaar geplaatst te worden om te linken.
 
-Hoeveelheid
+5: Hoeveelheid
 
 * Het laadniveau bepaalt het aantal pakketjes dat aan elkaar gekoppeld kan worden.
 
-Breekzet
+6: Wissel
 
 Dingen die **BLOCK** linken omvatten:
 * Items met onbegaanbare botsing (muren, toren, etc.)
@@ -83,139 +83,139 @@ Dingen die **NIET blokkeer** koppeling omvatten:
 Aftrekken
 
 * Als een eigenaar een of meer eigen pakketten van de bestaande Estaate wil verwijderen, Dat kunnen ze doen zolang er geen regels worden overtreden. Een poging tot verwijdering zal de koppeling van de Estaate opnieuw berekenen.
-* If an owner sells one or more parcels that are part of an Estaate, the Estaate linking will be recalculated at the time of sale.
-* If an owner only has two parcels in an estate and sells one, the Estaate and its link will be dissolved.
+* Als een eigenaar een of meer parcelen verkoopt die deel uitmaken van een Estaate, wordt de koppeling van de Estaate op het moment van verkoop opnieuw berekend.
+* Als een eigenaar slechts twee pakjes in een landgoed heeft en er een verkoopt, zal de Estaate en de koppeling worden ontbonden.
 
-9: No Boxing In
+9: Geen Boxing in
 
-* If, when calculating a link, one or more unowned parcels or parcels owned by another player will get BOXED IN, a special rule is triggered:
-* The center, north-most intended link of the Estaate will be left vacant (not created), leaving an open pathway.
-* If no center, north-most potential link is available, the closest clockwise link will be left vacant (not created), ensuring an open pathway exists.
+* Als, bij het berekenen van een link, een of meer onbekende pakketten of pakketten die eigendom zijn van een andere speler zullen BOXED IN krijgen, wordt er een speciale regel geactiveerd:
+* Het centrum, noordelijkste link van de Estaate wordt vrijgelaten (niet gemaakt), en laat een open route achter.
+* Als er geen centrum, noordelijkste potentiële link beschikbaar is, zal de dichtstbijzijnde link in de klok leeg worden gelaten (niet gemaakt), waardoor er een open pad bestaat.
 
-10: Intersection
+10: Kruispunt
 
-* A link cannot be formed if it will create an intersection with another Estaate.
+* Er kan geen link worden gevormd als er een kruispunt met een andere Estaate wordt gemaakt.
 
 ## Estaing Bouw "Verbinding Waall" regels
 
-One of the tangible gameplay benefits of creating an Estaate is the ability for the owner to encircle the Estaate’s perimeter with Waalls. The rules below detail how Waalls can be added in a way that will create “Connection Waalls” – in-game walls that connect to form a perimeter, even if there is space between the two parcels.
+Een van de tastbare gameplay voordelen van het creëren van een Estaate is het vermogen van de eigenaar om de omtrek van de Ex met Waalls te omslaan. De regels hieronder geven aan hoe Waalls kunnen worden toegevoegd op een manier die "Verbindings Waalls" - in-game muren die verbinding maken om een perimeter te vormen zelfs als er ruimte is tussen de twee pakketten.
 
-### Creating a Connection Waall
+### Een Verbinding Waall Maken
 
-* A “Connection Waall” comprises game-generated Waalls between 2 player-equipped Waalls.
-* The player does not actively equip Waalls in the space between linked parcels. This is reserved for Connection Waalls.
-* A Connection Waall can be created by the game if the following conditions are met:
+* Een "Connectie Waall" bestaat uit gegenereerde Waalls tussen 2 speler uitgeruste Waalls.
+* De speler bouwt niet actief Waalls in de ruimte tussen gekoppelde pakketten. Dit is gereserveerd voor Verbinding Waalls.
+* Een Verbinding Waall kan worden gemaakt door het spel als aan de volgende voorwaarden wordt voldaan:
 
-    * A Waall exists at the edge of 1 parcel and another Waall exists on the closest edge of the adjacent linked parcel. These are called Edge Waalls.
+    * Er bestaat een Waall aan de rand van 1 pakket en een andere Waall bestaat aan de dichtstbijzijnde rand van het aangrenzende gekoppelde pakket. Dit worden Edge Waalls genoemd.
 
-    * Edge Waalls can be different levels, but the Connection Waall will be the lowest of the 2 levels.
+    * Edge Waalls kunnen verschillende levels zijn, maar de verbinding Waall zal de laagste van de 2 niveaus zijn.
 
 
-* Connection Waalls:
+* Verbinding Waals:
 
-    * Should be treated as normal Waalls for game purposes (for attacking, allowing passage, collision, etc.).
+    * Moet behandeld worden als normale Waalls voor spel doeleinden (voor aanvallen, doorgang, botsing, enz.).
 
-    * Cannot be upgraded or unequipped directly.
+    * Kan niet direct worden geüpgraded of afgebroken.
 
-### Upgrading a Connection Waall
+### Upgraden van een Verbinding Waall
 
-* To upgrade a Connection Waall, the owner must upgrade both equipped edge Waalls to the same level (edge Waalls surround the Connection Waalls) that is higher than the current Connection Waall. Doing so causes the Connection Waalls to update accordingly.
+* Om een verbinding waall te upgraden, moet de eigenaar de beide uitgeruste rand Waalls upgraden naar hetzelfde niveau (rand Waalls surround the Connection Waalls) dat hoger is dan de huidige Verbinding Waall. Dit zorgt ervoor dat de Connectie Waalls wordt bijgewerkt.
 
-* To unequip a Connection Waall, one edge Waall must be unequipped. If this happens, the Connection Waall is destroyed.
+* Om een verbinding waall te omzeilen, moet één rand van de baan zijn. Als dit gebeurt, wordt de verbinding Waall vernietigd.
 
-### Destroying a Connection Waall
-* If an individual Waall within a Connection Waall is destroyed, then a hole in the Connection Waall will remain until the owner does one of the following:
+### Vernietig een Verbinding Waall
+* Als een individuele Waall binnen een Connectie Waall wordt vernietigd, dan blijft er een gat in de verbinding totdat de eigenaar een van de volgende doet:
 
-    * Upgrades 1 Waall on either side of the Connection Waall
+    * Upgrade 1 Waall aan beide zijden van de verbinding, Waall
 
-    * Unequips 1 Wall on either side of the Connection Waall
+    * Unequips 1 muur aan elke kant van de verbinding
 
 ## Voorbeelden
 
-There are many possible parcel configurations, not all of which can accommodate creation of Estaates. The following walks through a number of these possibilities to give you an idea of the rules for Estaates.
+Er zijn veel mogelijke pakketconfiguraties, die niet allemaal geschikt zijn voor het maken van Estaates. Een aantal van deze mogelijkheden lopen om u een idee te geven van de regels voor Estaats.
 
-For the following diagrams:
+Voor de volgende diagrammen:
 
-* Only functional representations of how linking works are shown. Game graphics will vary.
-* Humble parcels are used to convey these rules, but feel free to imagine any-sized parcels (or any combination therein) instead.
-* Parcels owned by the same player are shown in **light blue-green (teal).**
-* Unowned parcels are shown in **light gray.**
-* Parcels owned by a different player are shown in **light pink.**
+* Alleen functionele vertegenwoordigingen van hoe koppelingen worden getoond. Spelgrafische gegevens zullen verschillen.
+* Humble parcels worden gebruikt om deze regels over te brengen, maar stel in plaats daarvan geansificeerde pakketten (of een combinatie ervan) voor.
+* Pakketten die eigendom zijn van dezelfde speler worden weergegeven in **licht blauw (theel).**
+* Gebruikte pakketten worden weergegeven in **licht grijs.**
+* Pakketten die eigendom zijn van een andere speler worden weergegeven in **lichtroze.**
 
-### Links
+### Koppelingen
 
-An owner can link 2 or more of their parcels together when they are close enough, even if there is ground Alchemica in between them.
+Een eigenaar kan 2 of meer van zijn pakketten koppelen als ze dicht genoeg zijn, zelfs als er grond Alchema tussen zit.
 
-**Linked parcels display an outline around them:**
+**Gekoppelde pakketten geven een omlijning weer:**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page1.png" />
 
-**If the parcels are too far apart, have a road in between them, or an unowned or other-player-owned parcel exists in between, the parcels cannot be linked.**
+**Als de pakketten te ver uit elkaar liggen, heb je een weg daartussenin, of een ongeeigendom of andermans pakket bestaat daartussen, de pakketjes kunnen niet worden gekoppeld.**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page2.png" />
 
-Note: The red lines indicate desired links that are considered “invalid” and would thus not occur.
+Opmerking: De rode lijnen geven gewenste links aan die als "ongeldig" worden beschouwd en dus niet zouden plaatsvinden.
 
-**If parcels do not share an edge they cannot be linked.**
+**Als pakketten geen rand delen, kunnen ze niet worden gekoppeld.**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page3a.png" />
 
-The **two teal parcels** cannot be linked in either of the above examples.
+De **twee theepakketten** kunnen niet worden gekoppeld in een van de bovenstaande voorbeelden.
 
-**If a sequence of linked parcels will trap other parcels then an opening will always be left to allow movement in and out.**
+**Als een reeks gekoppelde pakketten andere pakketten vallen dan blijft er altijd een opening over om beweging binnen en buiten te laten.**
 
 <img class="bodyImage" src="/estaates/estaates_sample_page3b.png" />
 
-Trapped parcels above are a neutral (unowned) parcel and an other-player-owned parcel, respectively.
+Pakketten hierboven zijn een neutraal (oneigendomd) en een ander pakje in andere spelers.
 
-**There can be many trapped parcels, but all it takes is one to require an opening in the linking.**
+**Er kunnen veel pakketten in de val zitten, maar het enige wat nodig is, is een opening in de verbinding.**
 
 <img class="bodyImage" src="/estaates/trapped-parcels.png" />
 
-An owner can always add a new parcel or parcels to their Estaate, as well as remove one or more, and the game will recalculate the linking.
+Een eigenaar kan altijd een nieuw pakket of pakketten aan zijn Estaate toevoegen, evenals een of meer te verwijderen, en het spel zal de verbinding opnieuw berekenen.
 
 ### Waalls
 
-**One of the tangible gameplay benefits of having an Estaate is that the area between links can automatically create “Connection Waalls.”**
+**Een van de tastbare gameplay voordelen van het hebben van een Estaate is dat het gebied tussen koppelingen automatisch 'Verbinding Waalls' kan maken**
 
-Connection Waalls are treated as normal Waalls for purposes of hit points and damage.
+Connectie Waalls worden behandeld als normale Waallen voor hitpunten en schade.
 
 <img class="bodyImage" src="/estaates/estaates_sample_08a.png" />
 
-The 4 Connection Waalls above would not be crafted or equipped, but would automatically be generated by the game.
+De 4 bovenstaande verbinding waalls zouden niet gemaakt of uitgerust worden, maar zouden automatisch gegenereerd worden door het spel.
 
 <img class="bodyImage" src="/estaates/estaates_sample_06b.png" />
 
-The owner must build at least 1 Waall on either side of the link, per side, for a Connection Waall to be able to be created. In the above, there is no valid link, so no Connection Waalls would be created.
+De eigenaar moet ten minste 1 Waall aan een van de kant van de link bouwen, per zijde om een Verbinding te kunnen maken. In het bovenstaande is er geen geldige link, dus er zouden geen Connectie Waalls worden gemaakt.
 
-**More examples of how Waalls would manifest:**
+**Meer voorbeelden van hoe Waalls zouden verschijnen:**
 
 <img class="bodyImage" src="/estaates/estaates_sample_07a.png" />
 
-Since the above linked parcels share 1 Gotchi distance, only a single Waall is created over the link comprising 2 Waall sections as shown.
+Omdat de bovenstaande gekoppelde pakketten 1 Gotchi afstand delen, wordt er slechts één Waall gemaakt over de link bestaande uit 2 Waall secties, zoals getoond.
 
 <img class="bodyImage" src="/estaates/estaates_sample_07b.png" />
 
-In the case of trapped parcels, Waalls can be created, but no Waalls will bridge the opening left to allow movement for trapped parcel(s).
+In het geval van gevangen pakketten kunnen Waalls worden gemaakt, maar geen Waalls zal de linkeropening overbruggen om beweging toe te staan voor gevangen pakket(en).
 
 <img class="bodyImage" src="/estaates/estaates_sample_07c.gif" />
 
-The game will always try to create the opening on the north side of an Estaate if there are trapped parcels within it.
+Het spel zal altijd proberen om de opening aan de noordkant van een Estaate te maken als er pakjes in zitten die erin zitten.
 
-**If the Waalls created on either side of a Link are of different levels, the game will choose the lower of the Waall levels to generate as the Connection Waalls over the link.**
+**Als de Waalls gemaakt aan een van beide zijden van een link van verschillende niveaus zijn kiest het spel de onderkant van de Waall levels om te genereren als connectie Waalls via de link.**
 
 <img class="bodyImage" src="/estaates/estaates_sample_08b.png" />
 
-In the above example, there are level 1 Waalls (purple base) and level 4 Waalls (red base) shown.
+In het bovenstaande voorbeeld zijn er level 1 Waalls (paarse basis) en level 4 Waalls (rode basis) getoond.
 
-To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link) . This would result in the top Connection Waall section of 6 Waalls at level 1 (the lower of the 2 levels).
+Om deze instelling aan te maken, zou de eigenaar eerst een level 1 Waall aan de bovenkant (aan de linkerzijde van de link) moeten uitrusten met een niveau 4 Waall naar rechts (rechts van de koppeling) . Dit zou resulteren in de top Connection Waall sectie van 6 Waalls op niveau 1 (de onderste van de 2 niveaus).
 
-Notice below it that there are level 4 Waalls on either side that result in a level 4 Connection Waall section in between them.
+Merk hieronder op dat er level 4 Waalls op een van beide zijden zijn die resulteren in een verbinding level 4 Waall sectie ertus.
 
 <img class="bodyImage" src="/estaates/estaates_sample_06a.png" />
 
-The above example has the same equipped Waalls on the left and right, resulting in level 1 Connection Waalls being created over the links.
+Het bovenstaande voorbeeld heeft dezelfde uitgeruste Waallen aan de linker- en rechterkant, wat resulteert in het creëren van level 1 Connectie Waalls over de verbindingen.
 
-If the owner unequips relevant Waalls or upgrades them, the game will recalculate the connecting Waalls to create.
+Als de eigenaar relevante Waalls verwijdert of deze upgrade, zal het spel de verbindingsWaalls opnieuw berekenen.
 
-If a Waall within a Connection Waall is destroyed, a hole will remain until the owner either upgrades or unequips one of the Waalls on either side of the link.
+Als een Waall binnen een Connectie Waall wordt vernietigd, blijft een gat bestaan totdat de eigenaar een van de Waalls aan een van de kant van de link upgrades of één van de neus uitdeelt.
