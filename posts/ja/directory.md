@@ -51,7 +51,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+* [ゲーム・ジャム（Gaame Jaam）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
@@ -97,13 +97,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [POAP](/poap)
 
-* [Polygon（ポリゴン）](/polygon)
+* [ポリゴン（Polygon）](/polygon)
 
 * [ポータル](/portals)
 
 * [ラッフルの統計（Raffles Statistics）](/raffles-stats)
 
-* [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
+* [レアリティ・ファーミング（Rarity Farming）](/rarity-farming)
 
 * [レアリティファーミングシーズン](/rarity-farming-seasons)
 
