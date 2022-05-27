@@ -29,7 +29,7 @@ contributors:
 <li><a href=#realm-parcel-sizes>レルム区画サイズ</a></li>
 <li><a href=#realm-gameplay>レルムゲームプレイ</a></li>
 <li><a href=#entering-the-gotchiverse>ゴッチバースに入る</a></li>
-<li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
+<li><a href=#inside-the-gotchiverse>ゴッチバースの内部</a></li>
 <p><a href=#chat-commands>チャットコマンド</a></p>
 <li><a href=#gotchus-alchemica>ゴッチュスアルケミカ</a></li>
 <li><a href=#building-on-realm-parcels>レルム区画での建築</a></li>
@@ -140,30 +140,30 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Inside the Gotchiverse
+## ゴッチバースの内部
 
 <img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="ゴッチバース" />
 
-Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by your mouse.
+ゴッチの移動は、矢印キー、WASDキー、またはマウスで操作することができます。
 
-The Gotchiverse UI is designed as follows:
+ゴッチバースのUIは、以下のようなデザインになっています。
 
-* Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
-* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
-* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
-* Bottom right: Crafting Table, Inventory, and Build Mode
+* 左上：ゴッチバースのマップ。 あなたの現在地がゴッチとして反映されています。
+* 右上：あなたが使用している現在のゴッチ。 このゴッチで集めたアルケミカを表示します。
+* 左下：チャット - 現在いる地区、またはシタデル全域に設定できます。
+* 右下：クラフトテーブル、インベントリ、ビルドモードです。
 
-<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchiクラフトテーブル" />
 
-The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
+クラフトテーブルはゴッチュス・アルケミカを使用して新しい設備を作るために使用されます。 [レシピ](/recipes)のページで、クラフト可能な設備、必要なゴッチュス・アルケミカ、クラフトに必要な時間などを確認できます。 クラフトを行うには、取引が必要です。
 
-<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+<img src="/gotchiverse/inventory.png" alt="Aavegotchiインベントリ" />
 
-Once installations have been crafted, they are reflected in your Inventory.
+クラフトしたインスタレーションは、インベントリに反映されます。
 
-<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchiによるインスタレーションの建設" />
 
-Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
+ビルドモードでは、自分が所有するレルム区画にインスタレーションを設置することができます。 インスタレーションを区画に設置するには、トランザクションが必要です。
 
 ## チャットコマンド
 
@@ -289,34 +289,34 @@ Aavegotchi Protocolの運営団体である**AavegotchiDAO**は、クラフト�
 
 方法2：ラッフル抽選会（20%）
 
-レルム区画の二次配布方法として、Chainlink VRFを使用したラッフル抽選会を実施します。 Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+レルム区画の二次配布方法として、Chainlink VRFを使用したラッフル抽選会を実施します。 参加者は、ポータルやレルムの抽選に使用するドロップチケットで応募します。 ドロップチケットは、召喚されたAavegotchiを持ってミッションに参加したり、FRENSポイントや他の[ラッフルチケット](/staking#purchasing-raffle-tickets)に交換することで獲得できます。ドロップチケット１枚は１万FRENSします。 今すぐ[GHSTをステーク](/staking)してFRENSポイントを貯めましょう。
 
 ### ドロップチケット
 
-ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケットは、Aavegotchiポータルやレルム区画が当たるNFTラッフルに**1回**参加できるチケットです。
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchiドロップチケットとレルム区画" />
 
-There are three ways to get Drop Tickets:
+ドロップチケットの入手方法は3つあります：
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* 10,000 FRENSを1枚のドロップチケットに変換する
+* 他のラッフルチケットをドロップチケットに変換する
+* 友達を紹介してドロップチケットを獲得する 🔥
 
 ### 区画ブースト
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+レルム区画には、区画ブーストが付いているものがあります。 区画ブーストは、ゴッチバース内のアルケミカのスポットに隣接するレルム区画についてきます。 Chainlink VRFによってランダムに与えられる調査済みのアルケミカとは異なり、区画ブーストは、調査後に区画の合計アルケミカに追加されるアルケミカの基本量です。
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+アルケミカブーストの量は、FUD、FOMO、ALPHA、KEKそれぞれ1000、500、250、100となっています。
 
 table_alchemicalBoostsAndAmountPerLocation
 
-**Replenishings**
+**補充**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+第1幕の各大戦の後、プレイヤーは再び自分の区画を調査し、より多くのアルケミカを手に入れることができます。 上記のブースト量は、各測量ラウンドでプレイヤーがロールした量に加算されます。
 
-**Alchemica Bubble Ups**
+**アルケミカ・バブル・アップ**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+バブルアップのコンセプトは、Paatch 0.1c（パッチ0.1c）で議論されたブースト量増加案の否決から生まれたものです。 アルケミカバブルアップは、ブーストにさらなる有用性を与えるが、プレイヤーはバブルアップしたアルケミカを積極的に収穫する必要がある。
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+アルケミカバブルアップは、ゴッチバースのアルケミカの上にアルケミカが散発的に出現するイベントで、特にアクティブな区画の近くに出現します。 注目すべきは、これらのアルケミカのリリースをサポートするのは**Pixelcraftのゲームプレイ既得のリリース配分**であるが、AavegotchiDAOはその量を補うために投票することも可能である。
