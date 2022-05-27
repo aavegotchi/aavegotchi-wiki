@@ -21,31 +21,31 @@ Avegotchi Wikiのページ一覧です：
 
 * [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
 
-* [Aesthetica](/aesthetica)
+* [エステティカ（Aesthetica）](/aesthetica)
 
 * [エージングメカニズム](/aging-mechanic)
 
 * [バッジ](/baadge)
 
-* [Baard (ミュージシャン)](/baard)
+* [バアード（Baard）](/baard)
 
-* [Baazaar](/baazaar)
+* [バザール（Baazaar）](/baazaar)
 
-* [Bridge](/bridge)
+* [ブリッジ（Bridge）](/bridge)
 
 * [コンテスト](/contests)
 
-* [Contracts](/contracts)
+* [コントラクト（Contracts）](/contracts)
 
 * [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers](/developers)
+* [デベロッパーズ（Developers）](/developers)
 
-* [Estaates（エステート）](/estaates)
+* [エステート（Estaates）](/estaates)
 
-* [Eye Shape](/eye-shape)
+* [アイ・シェイプ（Eye Shape）](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
@@ -65,33 +65,33 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [Guild](/guild)
+* [ギルド（Guild）](/guild)
 
 * [ハウント](/haunt)
 
-* [Home](/index)
+* [ホーム（Home）](/index)
 
 * [はじめに](/introduction)
 
 * [キンシップ](/kinship)
 
-* [Maall](/maall)
+* [モール（Maall）](/maall)
 
 * [maToken](/matokens)
 
 * [メディア（Media）](/media)
 
-* [Memes](/memes)
+* [ミーム（Memes）](/memes)
 
 * [マイルストーン](/milestones)
 
-* [Mini-Games](/minigames)
+* [ミニゲーム（Mini-Games）](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [Missions](/missions)
+* [ミッション（Missions）](/missions)
 
-* [Mumbai Testnet](/mumbai-testnet)
+* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
 
 * [パートナーズ](/partners)
 
@@ -101,7 +101,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [ポータル](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [ラッフルの統計（Raffles Statistics）](/raffles-stats)
 
 * [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
@@ -111,13 +111,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [ロードマップ](/roadmap)
 
-* [Sets](/sets)
+* [セット（Sets）](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [スピリットフォースの起源](/spirit-force-history)
 
 * [ステーキング](/staking)
 
@@ -133,7 +133,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [Tutorials](/tutorials)
+* [チュートリアル（Tutorials）](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
