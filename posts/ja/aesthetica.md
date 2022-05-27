@@ -32,13 +32,13 @@ table_roflGnome
 
 ## レルムグローブ（REALM Globe）
 
-Aavegotchiたちは、ゴッチバースの奥深くを探索し、クエストに参加し、フレンズと一緒に働いて、遠くまで旅しています。 そのため、レルムグローブは旅と他のゴッチとの共存の両方のシンボルです。 Winning a REALM Globe during the first Decorations Raffle could mean the world to some members of GotchiGang, or should we say it could mean the Gotchiverse.
+Aavegotchiたちは、ゴッチバースの奥深くを探索し、クエストに参加し、フレンズと一緒に働いて、遠くまで旅しています。 そのため、レルムグローブは旅と他のゴッチとの共存の両方のシンボルです。 最初のデコレーション・ラッフル（装飾品抽選会）でレルムグローブを獲得することはゴッチギャングのメンバーの何人かにとっては物凄く大切なことかもしれません。
 
 table_realmGlobe
 
 ## スモルフラワー（Smol Flower）
 
-The Gotchiverse is rich with bright Alchemica rivers, magnificent landmarks, and flashy designs. How do you encapsulate all of this beauty onto one Gotchiverse Realm parcel? With a decorative Smol Flower of course! Win a few and you can even become the Gotchiverse’s first gardener.
+ゴッチバースは、明るいアルケミカの川、壮大なランドマーク、派手なデザインに富んでいます。 この美しさをどうやって1つのゴッチバース レルム区画に閉じ込められるのでしょう？ With a decorative Smol Flower of course! Win a few and you can even become the Gotchiverse’s first gardener.
 
 table_smolFlower
 
