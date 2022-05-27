@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Aesthetica are aesthetic NFTs that can be added to a Parcel, but do not affect its [Alchemica](/gotchus-alchemica) or other statistics. They just look dope.
+Aesthetica are aesthetic NFTs that can be added to a Parcel, but do not affect its [Alchemica](/gotchus-alchemica) or other statistics. ただ、見た目が超カッコイイだけです。
 
 <div class="contentsBox">
 
