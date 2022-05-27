@@ -167,38 +167,38 @@ Build Mode allows you to place your installations on the REALM parcels you own. 
 
 ## チャットコマンド
 
-The following table shows the chat commands in the Gotchiverse.
+ゴッチバースのチャットコマンドは次の表のとおりです。
 
 table_chatCommands
 
 ## ゴッチュスアルケミカ
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and [Aesthetica](/aesthetica), among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
+**ゴッチュスアルケミカ（Gotchus Alchemica）**（ERC20トークン）は、ゴッチバースの4つの資源です：Fud、Fomo、Alpha、およびKekです。 これらを組み合わせて、インスタレーション（Installation）や[エステティカ（Aesthetica）](/aesthetica)を作るなど、様々な使い方ができます。 トークノミックスについて詳しくは[こちら](/gotchus-alchemica)。
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="ゴッチュスアルケミカ" />
 
-The table below shows their total supply:
+以下の表は、それらの総供給量を示しています：
 
 table_gotchusAlchemicaSupply
 
-Gotchus Alchemica can be extracted from REALM in four distinct ways:
+ゴッチュスアルケミカは、4つの方法でレルムから抽出することができます：
 
-* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
-* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
-* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+* **アルケミカルチャネリング**： Aavegotchiによって得られる基本的な毎日の支給は、区画から収穫されるのではなく、ゴッチバースイーサーから直接来ている。
+* **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 共同チャネリングに参加するには、Aavegotchiは関連するギルドの紋章を身につけ、儀式の間レルム区画に存在しなければなりません。 共同チャネリングの儀式に参加するAavegotchiが増えるごとに、アルケミカの採掘速度が上がります。
+* **ファーミング**：貯蔵庫にx個、近隣のマップに**y個**、グレートポータルに**z個**、それぞれ貯蔵される。
+* **収穫する**：Aavegotchiとリッキデーターはマップを歩き回り、採掘でこぼれたアルケミカを集めることができます。
 
-Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+ゴッチュスアルケミカの取引は、[ゴッチュスアルケミカ取引所（GAX）](/gotchus-alchemica-exchange)で行われる予定です。
 
 ### 1区画あたりの平均アルケミカ
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
+レルム区画は、Aavegotchiの「ポータル」と同じように、調査することでその中に眠っているアルケミカの量を知ることができます。 この調査プロセスは、Chainlink VRFをオンチェインで呼び出すことで、真にランダムな数字が生成されます。
 
-When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
+ゴッチバースがリリースされると、その所有者が選択した場合、既存のすべてのレルム区画を調査することができますし、調査プロセスを将来の日まで延期することができます。
 
-The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
+各区画で入手できるアルケミカの範囲は、第1幕（Act1）全体と、アルケミカの約25％を配布する第1幕の第1ラウンドの2種類です。
 
-*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
+*なお、区画内のアルケミカの合計は**累積**されるため、将来の調査によってアルケミカが追加されることになります。*
 
 table_avgBaseAlchemicaPerParcelAct1Total
 
@@ -206,90 +206,90 @@ table_avgBaseAlchemicaPerParcelAct1FirstRound
 
 ### アルケミカの調査範囲
 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
+各調査ラウンドで発見可能なアルケミカの範囲です。 プレイヤー体験をつまらなくしないように、調査可能な「最小値」は平均値の20％、「最大値」は平均値の1.8倍となっています。
 
-For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
+例えば、アクト1全体のハンブル区画のFUDの値の範囲は5694～51251となり、平均値は28473となります。
 
-We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
+これにより、面白いゲームプレイを実現しつつ、不運なプレイヤーにも十分な「セーフティネット」を提供できると考えています。
 
 ## レルム区画での建築
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+**インスタレーション**は、リアルム区画の上に建てられる特別な建造物です。 アルケミカの様々な組み合わせで製作され、Aavegotchi[バザール](/baazaar)でGHSTと自由に交換することができます。
 
-Confirmed Installations include:
+確認されているインスタレーションは以下の通りです：
 
 table_installations
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+インスタレーションには一定のブロックチェーンのブロック数が必要ですが、GAX（ゴッチュスアルケミカ取引所）で流動性を提供することで得られるゲーム内通貨GLTR（GAX Liquidity Token Reward）を消費することでこの時間を短縮することが可能です。
 
-[**Aesthetica**](/aesthetica) are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+[**エステティカ**](/aesthetica)は、区画に追加できる装飾用のNFTで、アルケミカやその他の統計に影響を与えません。 ただ、見た目が超カッコイイだけです。
 
 ### インスタレーションの特性とレシピ
 
 **レシピ**
 
-Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](/recipes).
+インスタレーションをクラフトしてより強力にアップグレードしていくのはゴッチバース体験の重要な部分を占めます。 インスタレーションによって、クラフトやアップグレードに必要な「レシピ」が異なるのですが、アデプト（先人）達が便利なレシピ本を残してくれてます。 最新のレシピ は[こちら](/recipes) をご覧ください。
 
-**Harvest Rate, Capacity, and Spillover**
+**収穫レート、生産量、こぼれる量について**
 
-Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+ハーベスターとリザーバーは、ゴッチバースの地中からアルケミカを採掘するための特別なインスタレーションです。
 
-Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+各ハーベスターは1種類のアルケミカを採取でき、各リザーバーは1種類のアルケミカを一定量保持できる。 インスタレーションのレベルが上がると、収穫量と容量が増加する。
 
-**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**こぼれる量**とは、リザーバーからアルケミカを採取する際に、どれくらいの量と距離にアルケミカが溢れるのかが決定されるリザーバーの特性です。 低レベルのリザーバーでは、こぼれる量とこぼれる半径が大きく、アップグレードするとこぼれる量が減少します。
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+正確な収穫率、容量、流出率については、[こちら](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf)のレシピブックを参照してください。
 
-**Removing Installations**
+**インスタレーションを削除する**
 
-Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
+一度区画に追加された設備は、アップグレードや削除が可能です。 削除とともに裏にあるNFTも破壊されますが、その設備とアップグレードに費やしてきたアルケミカの50%が所有者の元に返却されます。
 
 ### クラフティングの収益分配
 
-Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+ゴッチバース内でインスタレーション、アップグレード、その他のアイテムがクラフトされるたびに、その元となるアルケミカが4つの場所に送られます：
 
-* Great Portal (35%)
-* Pixelcraft (30%)
+* グレートポータル (35%)
+* ピクセルクラフト(30%)
 * DAO (30%)
-* Burn (5%)
+* 削除（バーン）(5%)
 
-**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+**グレートポータル**は、ゴッチバースの心臓部です。 ゴッチバースでアイテムが作られるたびに、そのアルケミカの35％がゲーム内で最も重要なポータルに捕獲されます。 グレートポータルの宝庫が膨れ上がると、大予言の日がやってくる...。
 
-*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+*容量を超える供給は、新しいトークンをミントする代わりに、アルケミカルチャネリングによって再分配されます。*
 
-Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+グレートポータルの容量を超えるアルケミカは、アルケミカルチャネリングとグループチャネリングによってエコシステムに再利用され、新しいトークンのミント速度が遅くなります。
 
-Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+初めは、グレートポータルの容量は全供給量の1%ですが、AavegotchiDAOによって変更することができます。 AavegotchiDAOといえば...
 
-**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+Aavegotchi Protocolの運営団体である**AavegotchiDAO**は、クラフトされたアルケミカの分配金の30％を受け取ります。 このアルケミカの残高は、コミュニティが財務管理に直接関与し、これらのトークンをプロトコルのために働かせる強力な機会を意味します。
 
-**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+ゴッチバースの開発会社である**Pixelcraft Studios**も、クラフトされたアルケミカの30％を受け取ります。 これらのアルケミカの残高は、Aavegotchiプロトコルとゴッチバースゲームの成長をサポートするあらゆる活動にすぐに活用することができます。 ダイヤモンドを手に入れるだけでなく、ユーザー獲得、戦略的配分、マーケティング活動など、アルケミカを活用する方法はさまざまです。
 
-**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+**5%のトークン・バーン**は、このクラフティング収益分配計画の最頂点です。 このような重要なバーンは、アルケミカのインフレの様々な波を相殺するのに役立ちます。 アルケミカのインフレというのは例えば、プレイヤー採用の急増から来たり、グレートバトルなどのアルケミカルイベントの計画、または非常に幸運なレルム区画の調査などによるものです。
 
 ## レルム トークノミクス
 
 ### 総供給量
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+レルムの総供給量は420,069個です。 はじめは、155,069個のレルムがアンロックされ、2年間（第1幕）にわたって配布される予定です。 これらはシタデルとグリッドを構成します。 残りのレルムは現在、ビヨンドと呼ばれるエリアにまだ隠されています。 特定のゲームのマイルストーンに到達すると、これらのレルムは、新しいゲーム体験を提供するためにロック解除されます（第2-3幕）。
 
 ### 配布方法
 
-REALM Parcels will be distributed in two main ways:
+レルム区画は、大きく分けて2つの方法で配布される予定です：
 
-Method 1: Incentivized GBM Auctions (80%)
+方法1：インセンティブ付きGBMオークション(80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. 2019年にCryptographsによって開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft Studios（ピクセルクラフトスタジオ）はハウント2、レルム区画（ランド）、さらにはアイテムやウェアラブルを含むすべてのAavegotchi NFTを、このオークション方式で扱えるよう、正式な許可をもらいました。
+レルム区画の主な配布方法は、インセンティブ付きの GBM オークションシステムです。 参加者は、ゴッチバースの世界地図から特定の区画を選択し、入札することができます。 GBMオークションでは、参加者はNFTを落札できなくても、参加することでGHSTを獲得することができます。 2019年にCryptographsによって開拓されたGBMオークションは、特許出願中のシステムです。 そしてPixelcraft Studios（ピクセルクラフトスタジオ）はハウント2、レルム区画（ランド）、さらにはアイテムやウェアラブルを含むすべてのAavegotchi NFTを、このオークション方式で扱えるよう、正式な許可をもらいました。
 
-Check out our [Aauction page](/aauction) for more information.
+詳細については、 [オークションページ](/aauction) をご覧ください。
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+この画期的なオークションモデルは、FCFS（First Come First Serve）（早い者勝ち）ドロップの多くの問題を解決していますが、当然ながら、投資資金の多い人が有利になるのは変わりません。
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+そこでチームは、残りの20%のレルム区画を、Chainlink VRFを利用したラッフル（抽選）で提供することを決定しました。
 
-Method 2: Raffle (20%)
+方法2：ラッフル抽選会（20%）
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+レルム区画の二次配布方法として、Chainlink VRFを使用したラッフル抽選会を実施します。 Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
 ### ドロップチケット
 
