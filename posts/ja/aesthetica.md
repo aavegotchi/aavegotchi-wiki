@@ -38,24 +38,24 @@ table_realmGlobe
 
 ## スモルフラワー（Smol Flower）
 
-ゴッチバースは、明るいアルケミカの川、壮大なランドマーク、派手なデザインに富んでいます。 この美しさをどうやって1つのゴッチバース レルム区画に閉じ込められるのでしょう？ With a decorative Smol Flower of course! Win a few and you can even become the Gotchiverse’s first gardener.
+ゴッチバースは、明るいアルケミカの川、壮大なランドマーク、派手なデザインに富んでいます。 この美しさをどうやって1つのゴッチバース レルム区画に閉じ込められるのでしょう？ それはもちろん、スモール・フラワーを飾ればいいのです！ 数個を獲得すれば、ゴッチバース初の庭師になることも可能です。
 
 table_smolFlower
 
 ## ラーヴァランプ（Laava Lamp）
 
-In the Gotchiverse, rituals are important. In fact your Gotchi prefers to engage in a solo Alchemical Channeling ritual once each day. When the Lodge comes online, having your frens over for a Communal Channeling sesh can lead to even higher yields. Regardless of which type of ritual you engage in, it’s important to set the mood. This groovy Laava Lamp will do just that, setting the perfect vibe for any channeling sesh, solo or communal.
+ゴッチバースでは、儀式が重要です。 実際、あなたのゴッチは毎日一回、単独でアルケミカル・チャネリングの儀式を行うことを好みます。 ロッジがオープンしたら、仲間を呼んで共同チャネリングをすれば、より高い収穫が期待できます。 どのような儀式を行うにしても、ムードを盛り上げることが大切です。 このグルーヴィーなラァバランプは、ソロでも共同でも、どんなチャネリングセッションでも完璧な雰囲気を作ってくれるでしょう。
 
 table_laavaLamp
 
 ## ネオンライト（Neon Light）
 
-For GotchiGang, “GM” isn’t just something we say, it’s a way of life. I mean clearly, we didn’t top the [Discord GM Index](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) for no reason. Now you can light up your Gotchiverse REALM parcel with a frenly Neon “GM” Light for all to see. Who knows, these bright lights may even help us top a future metaverse GM Index!
+ゴッチギャングにとって、"GM "は単に口にするだけでなく、生き方のひとつです。 つまり、私たちが[DiscordのGMインデックス](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q)でトップになったのは理由がないわけではありません。 今、あなたのゴッチバース レルム区画に、誰もが見られるように熱烈なネオン "GM "ライトを点灯させることができます。 もしかしたら、このネオンライトがメタバースGMランキングの上位に食い込むかもしれませんよ。
 
 table_neonLight
 
 ## キャーンプファイヤー（Caamp Fire）
 
-Picture this: your Gotchi just got done with a long day of farming, channeling, and warding off Lickquidators. They’re tired, and their HP has dropped significantly. They finally make it back to the comfort of their parcel and just want to relax, count their Alchemica, and feel loved. The perfect spot for them to do so? Around a warm Caampfire of course!
+あなたのゴッチは、農作業とチャネリング、そしてリッキデーター退治で長い一日を終えたところです。 彼らは疲れていて、HPもかなり低下しています。 ようやく快適な小部屋に戻った彼らは、ただリラックスしてアルケミカを数え、愛されていることを実感したいのです。 そんな彼らにとって最高の場所とは？ もちろん、暖かいキャーンプファイヤーの周りです！
 
 table_caampFire
