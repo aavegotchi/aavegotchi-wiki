@@ -79,7 +79,7 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Quản lý tài sản cho hệ sinh thái Gotchiverse
 
-* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard created by Cryptoticker.io Guild
+* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) -Bảng Xếp Hạng được tạo bởi Cryptoticker.io Guild
 
 ## Subgraphs
 

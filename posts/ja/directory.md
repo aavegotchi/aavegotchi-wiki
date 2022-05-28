@@ -21,9 +21,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
 
-* [エージングメカニック（Aging Mechanic）](/aging-mechanic)
+* [エステティカ（Aesthetica）](/aesthetica)
 
-* [バッジ（Baadge）](/baadge)
+* [エージングメカニズム](/aging-mechanic)
+
+* [バッジ](/baadge)
 
 * [バアード（Baard）](/baard)
 
@@ -31,11 +33,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [ブリッジ（Bridge）](/bridge)
 
-* [コンテスト（Contests）](/contests)
+* [コンテスト](/contests)
 
 * [コントラクト（Contracts）](/contracts)
 
-* [ボンディング・カーブ（Bonding Curve）](/curve)
+* [ボンディング・カーブ](/curve)
 
 * [AavegotchiDAO](/dao)
 
@@ -45,11 +47,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [アイ・シェイプ（Eye Shape）](/eye-shape)
 
-* [よくある質問（FAQ）](/faq)
+* [FAQ（よくある質問）](/faq)
 
 * [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+* [ゲーム・ジャム（Gaame Jaam）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
@@ -73,21 +75,21 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
-* [モール](/maall)
+* [モール（Maall）](/maall)
 
 * [maToken](/matokens)
 
-* [メディア](/media)
+* [メディア（Media）](/media)
 
-* [ミーム](/memes)
+* [ミーム（Memes）](/memes)
 
 * [マイルストーン](/milestones)
 
-* [ミニゲーム](/minigames)
+* [ミニゲーム（Mini-Games）](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション](/missions)
+* [ミッション（Missions）](/missions)
 
 * [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
 
@@ -95,13 +97,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [POAP](/poap)
 
-* [Polygon（ポリゴン）](/polygon)
+* [ポリゴン（Polygon）](/polygon)
 
 * [ポータル](/portals)
 
-* [ラッフルの統計](/raffles-stats)
+* [ラッフルの統計（Raffles Statistics）](/raffles-stats)
 
-* [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
+* [レアリティ・ファーミング（Rarity Farming）](/rarity-farming)
 
 * [レアリティファーミングシーズン](/rarity-farming-seasons)
 
@@ -131,7 +133,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [チュートリアル](/tutorials)
+* [チュートリアル（Tutorials）](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 

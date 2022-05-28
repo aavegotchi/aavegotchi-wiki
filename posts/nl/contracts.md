@@ -56,8 +56,8 @@ Hoi frens. Welkom bij onze opslagplaats van Aavegotchi Smart Contract adressen. 
 
 * KEK Token Address: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
 
-* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
+* wapGHST Token adres: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan. com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
 
-* GLTR Token Address: [0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc](https://polygonscan.com/token/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc)
+* GLTR Token adres: [0x3801C3B3B5c98F88a9c9005966A96aa440B9Afc](https://polygonscan.com/token/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc)
 
-* GLTR Staking Address: [0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c](https://polygonscan.com/token/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c)
+* GLTR Staking Adres: [0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c](https://polygonscan.com/token/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c)

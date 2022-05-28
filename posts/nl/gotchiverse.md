@@ -28,11 +28,11 @@ De Gotchiverse begon met slechts een handvol Aavegotchis, maar naarmate de liqui
 <li><a href=#districts>Districts</a></li>
 <li><a href=#realm-parcel-sizes>REALM Parceelgrootte</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
-<li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#entering-the-gotchiverse>Gotchiverse binnengaan</a></li>
+<li><a href=#inside-the-gotchiverse>In de Gotchiverse</a></li>
 <p><a href=#chat-commands>Chat Commando's</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
-<li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
+<li><a href=#building-on-realm-parcels>Bouwen op REALM Parcelen</a></li>
 <p><a href=#installation-traits-and-recipes>Installatie Eigenschappen en Recept</a></p>
 <p><a href=#crafting-revenue-distribution>Crafting Inkomsten Distributie</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
@@ -101,9 +101,9 @@ Sommige parcelen zullen naast Alchemica voorraden liggen. Deze parcelen zullen b
 
 Om het menselijker te maken, wordt elk pakketje toegewezen met een unieke combinatie van drie woorden. Dit is een aanvulling op het TokenID. Gebruikers kunnen het zoekvak op de Gotchiverse gebruiken om specifiek te filteren op pakketten met het woord of de woorden die ze zoeken.
 
-REALM parcels that are adjacent to one another can be used to form [estaates](/estaates).
+REALM pakketten die aan elkaar grenzend zijn kunnen worden gebruikt om [estaates](/estaates) te vormen.
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="REALM Parceelgrootte" />
 
 ## REALM Gameplay
 
@@ -112,177 +112,192 @@ REALM parcels that are adjacent to one another can be used to form [estaates](/e
 <p class="headerImageText">Lickquidator</p>
 </div>
 
-Owners of REALM parcels can employ their Aavegotchis (and those of others) to farm their REALM parcels, producing quantities of resources known as Gotchus Alchemica. These resources can be combined to create powerful structures known as [Installations](/gotchiverse#building-on-realm-parcels).
+Eigenaren van REALM pakketten kunnen hun Aavegotchis (en die van anderen) gebruiken om hun REALM parcelen te farmen, op zoek naar grondstoffen die bekend staan als Gotchus Alchemica. Deze bronnen kunnen gecombineerd worden om krachtige gebouwen te maken, bekend als [installaties](/gotchiverse#building-on-realm-parcels).
 
-The Gotchiverse is an open-ended social space where players can engage in myriad activities, such as farming, crafting, trading, and combat.
+De Gotchiverse is een open sociale ruimte waar spelers zich kunnen bezighouden met talloze activiteiten, zoals farming, fabriceren, handel en strijden.
 
-Although there are no victory conditions or “end of game” scenarios, one overarching goal of the Gotchiverse is to collect Alchemica to bolster your parcel to produce more yield, and build defensive structures in preparation for the coming of the Prophecy, and the great lickquidators invasion.
+Hoewel er geen overwinningsvoorwaarden of ‘einde van het spel’ scenario's zijn, één overarching van het Gotchiverse is om Alchemica te verzamelen om je parceel te versterken om meer opbrengst te produceren, en bouw defensieve structuren in voorbereiding op de komst van de Prophecy, en de grote invasie van lickquidators.
 
-Players that possess Lickquidator Credits can opt to play as lickquidators. Lickquidator Credits can be earned by completing tasks, referring friends, participating in airdrops, or other ways. They can also be purchased with [GHST](/ghst).
+Spelers die Lickquidator-credits bezitten kunnen kiezen om te spelen als lickquidators. Kredieten kunnen worden verdiend door taken te voltooien, vrienden aan te bevelen en deel te nemen in airdrops of op andere manieren. Ze kunnen ook worden gekocht met [GHST](/ghst).
 
-The main goal of a lickquidator is to collect loose Alchemica that has been spilled around the Gotchiverse, but they can also engage in combat with Aavegotchis and offensive Installations to earn Alchemica.
+Het hoofddoel van een lickquidator is het verzamelen van losse Alchemica die rond de Gotchiverse is gemorst, maar ze kunnen ook strijden tegen Aavegotchis en installaties aanvallen om Alchemica te verdienen.
 
-Lickquidators are envisioned as a free-to-play entry point to the Gotchiverse Realm, with no cap on supply and limited collectability.
+Lickquidators worden weergegeven als een free-to-play invoerpunt naar het Gotchiverse Rijk, zonder cap op het aanbod en zonder beperkte verzamelbaarheid.
 
-There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi owners to lend out their Gotchis to other players for a set period of time to try out the game.
+Er is ook een [Gotchi Lending](/gotchi-lending) functie waarmee Gotchi eigenaren hun Gotchis kunnen uitlenen aan andere spelers voor een ingestelde periode om het spel uit te proberen.
 
-## Entering the Gotchiverse
+## Gotchiverse binnengaan
 
-The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
+Je kunt nu beginnen met spelen op [verse.aavegotchi.com](https://verse.aavegotchi.com).
 
-You need a Gotchi to access the Gotchiverse.
+U heeft een Gotchi nodig om toegang te krijgen tot de Gotchiverse.
 
-Select the Gotchi that you will be using and click on the portal to enter.
+Selecteer de Gotchi die u gaat gebruiken en klik op het portaal om in te voeren.
 
 <img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
 
-Next, you need to select the Gotchi's spawn location. You can select from various locations on District 1, any REALM parcel that you own, or a random location.
+Vervolgens moet je de spawnlocatie van de Gotchi selecteren. U kunt kiezen uit verschillende locaties in district 1, elk REALM pakket dat u bezit, of een willekeurige locatie.
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Socializing in the Gotchiverse
+## In de Gotchiverse
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+<img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="Gotchiverse" />
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Bediening van Gotchis kan worden bediend met behulp van pijltjestoetsen, WASD sleutels, of door je muis.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+De Gotchiverse UI is als volgt ontworpen:
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+* Linksboven: Kaart van de Gotchiverse. Uw huidige locatie wordt gereflecteerd als een Gotchi
+* Rechts boven: De huidige Gotchi die je gebruikt. De alchemie die u heeft verzameld met deze specifieke Gotchi
+* Links onder: Chat - kan worden ingesteld op het specifieke district waar u zich bevindt of in het Citaadel
+* Rechtsonder: Crafting Tabel, Voorraad en Bouw Modus
+
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting tafel" />
+
+De werkbank wordt gebruikt om nieuwe installaties te maken met Gotchus Alchemica. Bekijk de [Recepten](/recipes) pagina voor sommige van deze installaties die je kunt maken, de Gotchus Alchemica vereiste, en de tijd die nodig is om ze te maken. Er is een transactie nodig om ze te maken.
+
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventaris" />
+
+Zodra de installaties zijn gemaakt, worden ze weerspiegeld in jouw inventaris.
+
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi bouw installaties" />
+
+Bouw modus stelt u in staat uw installaties te plaatsen op de REALM pakketten die u bezit. Er is een transactie nodig om je installaties op je pakket te installeren.
 
 ## Chat Commando's
 
-The following table shows the chat commands in the Gotchiverse.
+De volgende tabel toont de chatcommando's in de Gotchiverse.
 
-table_chatCommands
+tabel_chatOpdrachten
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
+**Gotchus Alchemica** (ERC20 tokens) zijn de vier elementen van de Gotchiverse: Fud, Fomo, Alpha, and Kek. Ze kunnen onder meer worden gecombineerd met elkaar voor het maken van installaties en Aesthetica. Lees meer over de tokenomics [hier](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-The table below shows their total supply:
+De onderstaande tabel toont hun totale aanbod:
 
-table_gotchusAlchemicaSupply
+tabel_gotchusAlchemicaSupply
 
-Gotchus Alchemica can be extracted from REALM in four distinct ways:
+Gotchus Alchema kan op vier verschillende manieren uit het REALM worden verkregen:
 
 * **Alchemisch Channeling**: Een dagelijkse steek verdiend door Aavegotchis die rechtstreeks van de Gotchiverether komt, in plaats van geoogst te worden van het pakket.
 * **Communal Channeling**: Aavegotchis kunnen ook collectief alchemica channelen wanneer een Gotchi Lodge Installatie is gebouwd op het REALM Parcel. Om deel te nemen aan hetCommunal Channeling, moet de Aavegotchi de bijbehorende Guild Insignia dragen en aanwezig zijn op het REALM Parcel tijdens het ritueel. Voor elke extra Aavegotchi die deelneemt aan het Communal Channeling ritueel, zal de Alchemica sneller verdiend worden.
 * **Farming**: Zodra een Harvester is gebouwd, begint Alchemicaa passief verdiend te worden en gaat x hoeveelheid naar het Reservoir, **y** een hoeveelheid dat spilt in de nabije omgeving, en **z** x hoeveelheid gaat naar het Grote Portaal
 * **Harvesting**: Aavegotchis en lickquidators kunnen de kaart verkennen om losse alchemica te verzamelen die gespilt wordt door harvesting.
 
-Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+Handel in Gotchus Alchema vindt plaats op de [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
 ### Gemiddeld Basis Alchemica per Parceel
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
+Vergelijkbaar met de “Portal”-mechanica in Aavegotchi, moeten REALM parcels worden onderzocht voordat ze eindelijk de hoeveelheid Alchema onthullen die erin zit. Het enquêteproces is een onchain call naar Chainlink VRF, een echt willekeurige getalsmatige generator.
 
-When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
+Wanneer de Gotchiverse wordt vrijgegeven, kunnen alle bestaande REALM Parcels worden onderzocht als hun eigenaren dat willen, of het enquêteproces kan worden uitgesteld tot een toekomstige datum.
 
-The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
+Het bereik van Alchemie dat beschikbaar is voor elk Parcel-type staat hieronder vermeld, voor de hele akte 1 en voor Ronde 1 van Akte 1, die ruwweg 25% van de Alchemica distributeerd.
 
-*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
+*Merk op dat de totale Alchemica binnen een Parcel **cumulatief**is, wat betekent dat toekomstige Surveyings extra Alchemica bovenop het totaal zullen toevoegen.*
 
-table_avgBaseAlchemicaPerParcelAct1Total
+table_avgBaseAlchemicaPerParcelAct1Totaal
 
 table_avgBaseAlchemicaPerParcelAct1FirstRound
 
 ### Surveying Alchemica Bereik
 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
+Het bereik van mogelijke Alchemica dat tijdens elke enquête kan worden ontdekt. Om een slechte spelerservaring te voorkomen, is de ‘minimum’ die kan worden onderzocht, 20% van het gemiddelde, en het ‘maximum’ is 1,8x van het gemiddelde.
 
-For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
+Zo zal het bereik van de waarden van het FUD voor een Humble pakketje voor de hele Akte 1 5694 tot en met 51251 zijn. gemiddeld tot 28,473.
 
-We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
+We denken dat dit interessante gameplay oplevert, terwijl het ook een toereikend “vangnet” biedt voor zelfs de onlusten van spelers.
 
-## Building on REALM parcels
+## Bouwen op REALM Parcelen
 
-**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
+**installaties** zijn speciaal gebouwd bovenop je REALM pakket. Installaties worden gemaakt via verschillende combinaties van Alchemica en kunnen vrij worden verhandeld voor GHST in de [Aavegotchi Baazaar](/baazaar).
 
-Confirmed Installations include:
+Bevestigde installaties omvatten:
 
-table_installations
+tabel_installaties
 
-Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
+Installaties nemen een bepaald aantal blockchain-blokken in beslag om de bouw te voltooien, maar deze tijd kan worden verminderd door GLMR (GAX Liquidity Mining Beloningen), een in-game valuta die kan worden verdiend door liquiditeit te bieden op de Gotchus Alchema Exchange (GAX).
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+**Aesthetica** zijn esthetische NFT's die aan een pakketje kunnen worden toegevoegd, maar geen invloed hebben op de Alchemica of andere statistieken. Ze zien er gewoon dope uit.
 
 ### Installatie Eigenschappen en Recept
 
-**Recipes**
+**Recepten**
 
-Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](/recipes).
+Crafting en upgraden van installaties om krachtiger te worden is een belangrijk onderdeel van de Gotchiverse ervaring. Verschillende installaties vereisen verschillende "recepten" om te maken en te upgraden, daarom hebben de Aadepten ons een handig receptenboek gegeven! U kunt het laatste Recepten [hier](/recipes) vinden.
 
-**Harvest Rate, Capacity, and Spillover**
+**Oogst snelheid, Capaciteit, en Spillover**
 
-Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
+Haarvesters en Reservoirs zijn speciale installaties die het mogelijk maken om Alchemica te mijnen onder het Gotchiversale oppervlak.
 
-Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
+Elk type Haarvester is in staat één soort Alchemica te oogsten en elk Reservoir kan een bepaalde hoeveelheid Alchemica bezitten. Naarmate het installatieniveau stijgt, neemt de oogst en capaciteit toe.
 
-**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
+**Spillover** is een ander eigendom van Reservoirs dat bepaalt hoeveel en hoe ver Alchema vrijkomt wanneer het wordt opgeëist uit de Reservoir. Reservoirs op lager niveau hebben een hogere Spillover hoeveelheid en Spillover radius, en deze bedragen worden verlaagd met verdere upgrades.
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+U kunt het receptenboek [hier](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook.pdf) raadplegen om de exacte Harvest Tarieven, Capaciteiten en Spillover Rates te zien.
 
-**Removing Installations**
+**Installaties verwijderen**
 
-Once an Installation is added to a Parcel, it can be upgraded or removed. Removing the Installation destroys the underlying NFT, but returns 50% of all Alchemica spent on the Installation and its upgrades to the original owner.
+Zodra een installatie aan een parceel is toegevoegd, kan deze worden geüpgraded of verwijderd. Het verwijderen van de installatie vernietigt de onderliggende NFT, maar geeft 50% van alle Alchemica die worden uitgegeven aan de installatie en de bijbehorende upgrades aan de oorspronkelijke eigenaar.
 
 ### Crafting Inkomsten Distributie
 
-Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+Wanneer een installatie, upgrade of een ander item wordt gemaakt binnen de Gotchiverse, worden de onderliggende Alchemica naar vier verschillende plaatsen verzonden:
 
 * Great Portal (35%)
 * Pixelcraft (30%)
 * DAO (30%)
 * Verbrand (5%)
 
-**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+**De Great Portal** is de hartslag van de Gotchiverse. Wanneer voorwerpen worden gemaakt in de Gotchiverse, 35% van die Alchemie wordt gevangen door het belangrijkste Portaal van het spel. Als de schatballonnen van de Great Portal, wacht een geweldige profeccy op vervulling…
 
-*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+*Het overtollige aanbod zal via Alchemische kanalen worden herverdeeld in plaats van nieuwe tokens te mijnen.*
 
-Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+Elke Alchemica stof die de Great Portal capaciteit overschrijdt, zal weer in het ecosysteem worden gerecycled via Alchemisch en Groeps Channeling, vertraagt de miningsnelheid voor nieuwe tokens.
 
-Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+Aanvankelijk zal de Grote Portaal Capaciteit 1% van de totale aanvoer zijn, maar dit kan worden gewijzigd door AavegotchiDAO. Over AavegotchiDAO praten…
 
-**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+**AavegotchiDAO**, de besten van het Aavegotchi Protocol, ontvangt 30% van de vervaardigde Alchemica splitsen. Dit evenwicht in de Alchemica is een krachtige kans voor de gemeenschap om een direct aandeel te hebben in het beheer van de schatkisten en om deze tokens namens het protocol te laten werken.
 
-**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+**Pixelcraft Studios**, het gotchiverse's dev-huis, ontvangt ook 30% van de vervaardigde alchemica. Deze Alchemica saldi kunnen snel aan het werk worden gezet in elke poging om de groei van het Aavegotchi protocol en het Gotchivers spel te ondersteunen. Naast alleen diamanthandel, het aanschaffen van gebruikers, strategische toewijzingen en marketinginitiatieven zijn enkele van de manieren waarop Alchemie kan worden toegepast.
 
-**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+**Een token Verbranding van 5%** is de kersen bovenop dit plan voor fabricage Opbrengsten. Een verbranding van dit belang zal bijdragen aan het compenseren van de verschillende ebben en stromen van de inflatie van alchemica. of het nu gaat om adoptie van spelers, geplande Alchemische evenementen zoals de grote gevechten, of zeer gelukkige peilingen van REALM pakketten.
 
 ## REALM Tokenomics
 
 ### Totale Aanbod
 
-The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
+Het totale aanbod van REALM is 420.069. Aanvankelijk wordt 155.069 REALM ontgrendeld en verspreid over een periode van twee jaar (Act 1). Zij vormen de Citaadel en de Grid. De resterende REALM wordt momenteel verborgen in een gebied dat bekend staat als De Beyond. Wanneer bepaalde spel mijlpalen worden bereikt, zullen deze REALM worden ontgrendeld om nieuwe spel ervaringen aan te bieden (Acts 2-3).
 
 ### Distributie
 
-REALM Parcels will be distributed in two main ways:
+REALM parcelen worden op twee manieren verdeeld:
 
-Method 1: Incentivized GBM Auctions (80%)
+Methode 1: Geïncentivialiseerde GBM Veilingen (80%)
 
-The primary distribution method for REALM Parcels will be the incentivized GBM auction system. Participants will be able to select and bid on specific parcels from within the Gotchiverse world map. In a GBM auction, a participant can earn GHST by participating, even if they do not win the NFT. Voor het eerst gepionierd door Cryptographs in 2019, GBM-veiling is een systeem waarvoor patent is aangevraagd, en Pixelcraft Studios heeft officieel een licentie gekregen om het te gebruiken voor alle Aavegotchi NFT Drops, inclusief Haunt 2, REALM en zelfs Wearables.
+De primaire distributiemethode voor REALM Parcelen is het gesubsidieerde GBM-veilingsysteem. Deelnemers zullen in staat zijn om te bieden op specifieke parcelen uit de Gotchiverse wereldkaart. Bij een GBM-veiling kan een deelnemer GHST verdienen door mee te doen, zelfs als hij de NFT-overeenkomst niet wint. Voor het eerst gepionierd door Cryptographs in 2019, GBM-veiling is een systeem waarvoor patent is aangevraagd, en Pixelcraft Studios heeft officieel een licentie gekregen om het te gebruiken voor alle Aavegotchi NFT Drops, inclusief Haunt 2, REALM en zelfs Wearables.
 
-Check out our [Aauction page](/aauction) for more information.
+Bekijk onze [Aauction page](/aauction) voor meer informatie.
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Dit revolutionaire veilingsmodel lost veel problemen op die inherent zijn aan de populaire eerste First Come First Serve (FCFS) model, maar natuurlijk nog met een voorkeur op voor frens met het meeste kapitaal om te investeren.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Om dit in evenwicht te brengen, heeft het team besloten om de resterende 20% van de resterende REALM parcelen met behulp van Chainlink VRF-aangedreven Lotterijen te verdelen.
 
-Method 2: Raffle (20%)
+Methode 2: Lotterij (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+De secundaire distributiemethode voor REALM Parcels is de Chainlink VRF-aangedreven Lotterij. Deelnemers zullen deelnemen via Drop Tickets die worden gebruikt voor de Portaal en REALM Lotterijen. Je kan Drop Tickets verdienen door een Aavegotchi te bezitten, deel te nemen aan missies of door FRENS om te ruilen voor Drop tickets of andere [Lotterij tickets](/staking#purchasing-raffle-tickets) tegen 10,000 FRENS points per Drop Ticket. Begin nu met het genereren van FRENS punten door het [staken van GHST](/staking).
 
 ### Drop Tickets
 
-Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert **één** kans in de NFT Lotterij, waar u Aavegotchi portalen en REALM Parcelen kunt winnen.
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets en REALM Parcelen" />
 
-There are three ways to get Drop Tickets:
+Er zijn drie manieren om tickets te verkrijgen:
 
 * Ruil 10.000 FRENS om voor één Drop Ticket
 * Ruil andere Lotterij Tickets om voor een Drop Ticket
@@ -290,18 +305,18 @@ There are three ways to get Drop Tickets:
 
 ### Parcel Boosts
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+Sommige REALM pakketten worden geleverd met Parcel Boosts. Parcel Boosts zijn plekken van Alchemica die direct grenst aan REALM Parcels binnen de Gotchiverse. In tegenstelling tot onderzochte Alchemica, die willekeurig wordt gegeven door Chainlink VRF, zijn Parcel Boosts basishoeveelheden Alchemica stoffen die na onderzoek aan de totale Alchemica van een Parcel worden toegevoegd.
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+Alchemica Boost bedragen zijn 1000, 500, 250 en 100 voor FUD, FOMO, ALPHA en KEK.
 
-table_alchemicalBoostsAndAmountPerLocation
+tafel_alchemicalBoostsAndAmountPerLocation
 
 **Replenishings**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+Na elke Grote Strijd in Act 1 zullen spelers hun parceel opnieuw kunnen onderzoeken, waarna ze meer Alchemica krijgen. De boost hoeveelheid hierboven zal worden toegevoegd aan het aantal dat door de speler wordt gerangschikt voor elke enquêteronde.
 
-**Alchemica Bubble Ups**
+**Alchemicaa Bubbel Ups**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+Het Bubble Ups concept groeide uit de besproken Patch 0.1c waarbij Verhoog Boost Bedragen niet behaald kon worden. Alchema Bubble Ups bieden extra mogelijkheden om te boosten, terwijl de speler nog steeds moet zijn om de Alchemie die opbubbelt actief te oogsten.
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+Alchemie Bubble Ups zijn sporadisch (maar niet zeldzaam) evenementen waar Alchemica pickups verschijnen op de plaatsen van Alchemica in de Gotchiverse, vooral in de buurt van actieve parcelen. Met name het is **Pixelcraft’s Gameplay vested release** dat deze Alchemica releases ondersteunt, hoewel AavegotchiDAO ook kan stemmen om het aantal aan te vullen.

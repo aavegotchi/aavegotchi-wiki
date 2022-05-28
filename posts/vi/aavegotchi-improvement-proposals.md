@@ -46,11 +46,11 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#reducing-the-parcel-vrf-variance>Giảm Biến Số Parcel VRF</a></li>
 <li><a href=#alternative-gotchiverse-trait-mapping>Thay Thế Cách Quy Đổi Chỉ Số Trait Gotchiverse</a></li>
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO</a></li>
-<li><a href=#24h-windows-for-alchemical-channeling>24h Windows for Alchemical Channeling</a></li>
-<li><a href=#scheduling-land-auction-raffle--3-for-june>Scheduling Land Auction/Raffle #3 for June</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>Khung Thời Gian 24h Để Truyền Khoáng Sản</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -1087,42 +1087,42 @@ table_agip28
 
 <hr />
 
-### 24h Windows for Alchemical Channeling
+### Khung Thời Gian 24h Để Truyền Khoáng Sản
 **Aavegotchi Improvement Proposal #29**
 
 **Tóm Tắt Đề Xuất:**
 
-As specified in Gotchiverse Bible Chapter 3, solo gotchi channeling will work via a 24 hour cooldown timer that starts immediately after a gotchi channels at an altar. We propose that this be revised to a windowed 24 hour system that runs from 00:00 UTC to 23:59 UTC in which a gotchi can solo channel once, anytime within that 24 hour window.
+Như đã được chỉ ra cụ thể trong Chương 3 Gotchiverse Chân Kinh, việc truyền khoáng cá nhân sẽ hoạt động thông qua một khung thời gian 24 giờ đếm ngược, ngay sau khi một Aavegotchi truyền khoáng từ một altar. Bọn mình đề xuất sửa lại thành một hệ thống thời gian 24h giờ chạy từ 00:00 UTC đến 23:59 UTC, trong đó, một gotchi có thể truyền bất cứ lúc nào trong khung thời gian 24h.
 
-*TIMELINE*
+*DÒNG THỜI GIAN*
 
-Proposal to be implemented on or before May 18, 2022 (the commencement date of solo channeling) or as soon thereafter as Pixelcraft can ship...
+Bản đề xuất nên được thực hiện trước 18 tháng 5, 2022 (ngày bắt đầu truyền cá nhân) hoặc bất cứ lúc nào Pixelcraft có thể làm được…
 
-*RATIONALE*
+*MỤC ĐÍCH*
 
-With the introduction of the 12 hour petting cooldown system a year ago, we have all come to realize that a set interaction time with your gotchi is hard to maintain given real world events, network congestion, family and work commitments. We do not want to repeat this limitation with solo gotchi channeling.
+Với cơ chế đến ngược 12 tiếng của petting vào 1 năm trước, chúng ta đều nhận thấy rằng một thời gian tương tác định sẵn với gotchi rất khó có thể duy trì dựa trên các sự kiện trong thế giới thực, mạng lag, công việc ở công ty và việc gia đình. Bọn mìn không muốn những hạn chế này lặp lại với việc truyền cá nhân.
 
-The above limitation has led to the development of automated bots to guarantee interaction efficiency which, arguably, results in lower user engagement. By removing this limitation for solo channeling, it is much more likely that players will organically engage with their gotchi for solo channeling on a daily basis.
+Hạn chế trên đã dẫn đến việc nhiều người phải làm ra bot để đảm bảo việc tương tác hiệu quả nhất, kết quả là sự tương tác với người dùng bị giảm đi. Bằng cách xóa bỏ hạn chế trong việc truyền cá nhân, việc người chơi tương tác một cách tích cực với gotchi trong việc truyền khoáng hàng ngày sẽ được cải thiện.
 
-Many players have multiple gotchis, multiple parcels and multiple altars spread all throughout the Citaadel. These players have shown amazing support in our community and should not be restricted in their efficiency by a 24 hour cooldown. They should still be able to comfortably channel once per day with all their gotchis when their busy schedules suit.
+Nhiều người chơi có nhiều gotchi, nhiều gói đất, nhiều altar ở khắp Citaadel. Những người chơi này đã thể hiện sự ủng hộ của mình đối với cộng đồng và không nên bị hạn chế sự hiệu quả qua việc giảm thời gian đếm ngược 24h. Họ nên vẫn có thể truyền một cách thoải mái mỗi ngày với tất cả gotchi khi có việc bận.
 
-*BENEFITS*
+*LỢI ÍCH*
 
-The 24 hour channeling solution would: Improve quality of life for gotchi owners,
+Giải pháp 24h truyền khoáng sẽ: Cải thiện chất lượng sống của chủ gotchi,
 
-* Mitigate unfavorable interaction times,
-* Mitigate network congestion at interaction time, and,
-* Increase daily engagement for time-poor players.
+* Giảm thời gian tương tác không thuận lợi,
+* Giảm thiểu tắc nghẽn mạng tại thời điểm tương tác và,
+* Tăng mức độ tương tác hàng ngày cho những người chơi không có nhiều thời gian.
 
-*RISKS*
+*Nguy cơ*
 
-Proposal implementation date may be delayed if Pixelcraft encounters technical challenges or is otherwise unable to meet the May 18, 2022 implementation date.
+Việc triển khai bản đề xuất sẽ không bắt kịp với ngày bắt đầu cho phép truyền là 18/5.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
 
-Option 1: Yes, once per 24h window
+Phương án 1: Đồng ý, 24 giờ một lần
 
-Option 2: No, every 24h interaction
+Phương án 2: Không đồng ý, reset thời gian 24h sau mỗi lần tương tác
 
 **Voting Period:** 21 - 28 May 2022
 
@@ -1132,35 +1132,35 @@ Option 2: No, every 24h interaction
 
 <hr />
 
-### Scheduling Land Auction/Raffle #3 for June
+### Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu
 **Aavegotchi Improvement Proposal #30**
 
 **Tóm Tắt Đề Xuất:**
 
-Land Auction/Raffle #3 Proposal:
+Đề xuất đấu giá đất / xổ số 3:
 
-* Hold the Auction and Raffle within June
-* 8,000 Parcels in total from predominantly districts 1, 6, 13, 23, 24, 25, 26. Parcels from previously auctioned/raffled districts are also included. The exact selection can be seen in the Discussion Thread: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
-* 70% (5,600) of parcels in the auction, 30% (2,400) in the raffle
+* Tổ chức đấu giá và xổ số trong tháng 6
+* Tổng cộng 8.000 gói đất từ chủ yếu là các quận 1, 6, 13, 23, 24, 25, 26. Các bưu kiện từ các quận đã đấu giá / xổ số trước đó cũng sẽ được bán. Lựa chọn chính xác có thể được xem trong Chủ đề thảo luận: [https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
+* 70% (5.600) gói đất trong đấu giá, 30% (2.400) trong sổ xố
 
-Proposed Revenue Distribution:
+Phân Bố Doanh Thu Chế Tạo:
 
-* 40% of Revenue to the Rarity Farming Rewards Pool
-* 40% to Pixelcraft Studios
-* 20% to the AavegotchiDAO
-* 0% Burn
+* 40% doanh thu dành cho quỹ Rarity Farming
+* 40% gửi cho Pixelcraft Studios
+* 20% dành cho AavegotchiDAO
+* 0% đốt
 
-This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
+Đề xuất này được tổng hợp từ phản hồi của cộng đồng trong vài tuần qua và cố gắng cân bằng các yếu tố sau: pha loãng NFT; một cuộc đấu giá / xổ số diễn ra quá gấp gáp; thanh khoản GHST sẵn có không đầy đủ; quan ngại về kinh phí của Rarity Farming Season 4; tận dụng động lực và tiếp thị của bản phát hành trò chơi đầy đủ. Phiên đấu giá tháng 6 sẽ kéo dài> 2 tuần chơi trò chơi Citaadel và sẽ có đủ thời gian cho các nỗ lực tiếp thị và phát triển kinh doanh để thu được khoản đầu tư tối đa.  Có đủ Phần thưởng Gotchiverse sau hai cuộc đấu giá đất đầu tiên và việc bán này sẽ giúp tài trợ cho RFS4 và thậm chí có thể là một phần của Phần 5.
 
-This proposal has been discussed with the Pixelcraft team who support it and feel the target date is feasible.
+Đề xuất này đã được thảo luận với nhóm Pixelcraft, những người ủng hộ nó và cảm thấy ngày thực hiện mục tiêu là khả thi.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
 
-Option 1: Yes, 8k Parcels in June
+Phương án 1: Có, 8k gói đất vào tháng 6
 
-Option 2: No
+Phương án 2: Không thêm gói đất mới
 
-**Voting Period:** 21 - 28 May 2022
+**Thời gian vote:**21 - 28 tháng Năm 2022
 
 **Kết quả:**
 
@@ -1168,26 +1168,26 @@ Option 2: No
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
-**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
 
-Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
 
-What should we call the official Aavegotchi Marketplace?
+Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
 
-Choice A: Aavegotchi Baazaar
+Lựa chọn A: Aavegotchi Baazaar
 
-Choice B: Aavegotchi Maarket
+Lựa chọn B: Aavegotchi Maarket
 
-Choice C: Neither
+Lựa chọn C: Không chọn 2 đáp án trên
 
-The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
 
-If "Neither" wins...you guys better start coming up with some good alternatives!
+Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1197,23 +1197,23 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
 
-Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
 
-Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
 
-We are setting a 500,000 GHST quorum for this vote to be enacted.
+Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
 
-The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
 
-**Voting Period:** 8 - 11 February 2021
+**Thời gian vote:**8 - 11 tháng Hai 2021
 
 **Kết quả:**
 
@@ -1223,33 +1223,33 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
-**Proposal Summary:** How many Portals can be purchased in one transaction?
+**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
 
-Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
 
-Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
 
-* 0-5: 100 GHST each
+* Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
 
-* 6-15: 200 GHST each
+* Portal thứ 6 đến portal thứ 15 sẽ có giá là 200 GHST mỗi cái
 
-* 16-25: 300 GHST each
+* Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
 
-So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
 
-Let your $GHST token speak for you, and vote!
+Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
 
-Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
 
-AavegotchiDAO discussion topic 👇
+Chủ đề thảo luận của AavegotchiDAO 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Voting Period:** 23 - 26 February 2021
+**Thời gian vote:**23 - 26 tháng Hai 2021
 
 **Kết quả:**
 

@@ -92,9 +92,9 @@ There are six ways to stake for FRENS:
 
 ### Staking wapGHST
 
-wapGHST stands for Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
+wapGHST staat voor Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
 
-Stakers do not need to visit Aave. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
+Stakers hoeven geen Aave te bezoeken. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
 
 *Note: The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST.)*
 

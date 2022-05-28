@@ -29,7 +29,7 @@ El Gotchiverso comenzó con sólo un puñado de Aavegotchis, pero a medida que l
 <li><a href=#realm-parcel-sizes>PARCELAS del reino</a></li>
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
-<li><a href=#socializing-in-the-gotchiverse>Socializing in the Gotchiverse</a></li>
+<li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
 <p><a href=#chat-commands>Comandos de Chat</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
@@ -140,15 +140,30 @@ Next, you need to select the Gotchi's spawn location. You can select from variou
 
 <img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
 
-## Socializing in the Gotchiverse
+## Inside the Gotchiverse
 
-Aavegotchis love socializing with their frens, and their favorite place to hang out is inside the Gotchiverse!
+<img class="bodyImage" src="/gotchiverse/gotchiverse.png" alt="Gotchiverso" />
 
-By default, text chat will be enabled for all Gotchis in proximity to each other. REALM Parcel owners can also construct special Installations on their parcels to enable voice chat for Gotchis within a Parcel, and upgrade the Installation to support global voice chat.
+Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by your mouse.
 
-Gotchis can also band together to go on Aadventures together, exploring dungeons, fighting lickquidators and other baaddies to earn rewards. Aadventures are special regions outside of the main Gotchiverse where Aavegotchis can put their [traits](/traits) and [wearables](/wearables) to work while exploring, battling NPC enemies, and gaining experience and resources. But they don’t last forever!
+The Gotchiverse UI is designed as follows:
 
-<img class="bodyImage" src="/gotchiverse/gotchiverse-dungeon.png" alt="Gotchiverse Dungeon" />
+* Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
+* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
+* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table, Inventory, and Build Mode
+
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+
+The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
+
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+
+Once installations have been crafted, they are reflected in your Inventory.
+
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
 ## Comandos de Chat
 
@@ -158,7 +173,7 @@ table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and Aesthetica, among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and [Aesthetica](/aesthetica), among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
@@ -168,10 +183,10 @@ table_gotchusAlchemicaSupply
 
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
-* **Canalización alquímica**:  Un estipendio diario básico que ganan los Aavegotchis y que proviene directamente del éter del Gotchiverso, en lugar de ser cosechado de la parcela.
-* **Canalización comunitaria**: Los Aavegotchis también pueden canalizar colectivamente la Alchemica cuando se ha construido una Instalación de Logia Gotchi en la Parcela REALM. Para participar en la canalización comunitaria, el Aavegotchi debe llevar la Insignia del Clan asociada y estar presente en la Parcela REALM durante el ritual. Por cada Aavegotchi adicional que participe en el ritual de Canalización Comunitaria, la Alchemica se cultivará más rápidamente.
-* **Farming**: Una vez que se ha construido una cosechadora, la alquimia comienza a acumularse de forma pasiva, con una cantidad x que va a parar al Depósito, **y** cantidad derramada al mapa cercano, y **z** cantidad que va al Gran Portal
-* **Harvesting**: Los aavegotchis y los lickquidators pueden recorrer el mapa, recogiendo Alchemica suelta derramada por la minería.
+* **Alchemical Channeling**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
+* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
@@ -207,7 +222,7 @@ table_installations
 
 Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
-**Aesthetica** are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
+[**Aesthetica**](/aesthetica) are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. They just look dope.
 
 ### Recetas y características de las instalaciones
 
@@ -233,10 +248,10 @@ Once an Installation is added to a Parcel, it can be upgraded or removed. Removi
 
 Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
 
-* Gran Portal (35%)
+* Great Portal (35%)
 * Pixelcraft (30%)
 * DAO (30%)
-* Quemar (5%)
+* Burn (5%)
 
 **The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
 
@@ -284,9 +299,9 @@ Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaa
 
 There are three ways to get Drop Tickets:
 
-* Convierte 10.000 FRENS en un Drop Ticket
-* Convierte otros Raffle Tickets en Drop Ticket
-* Refierir a tus amigos para ganar Drop Tickets 🔥
+* Convert 10,000 FRENS into one Drop Ticket
+* Convert other Raffle Tickets into a Drop Ticket
+* Refer your friends to earn Drop Tickets 🔥
 
 ### Potenciador de las parcelas
 

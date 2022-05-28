@@ -9,17 +9,19 @@ contributors:
 
 Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
-* [Aambassador](/aambassador)
+* [Ambassadeurs](/aambassador)
 
 * [Aarchitecten](/aarchitect)
 
 * [Aartiesten](/aartist)
 
-* [Aauction](/aauction)
+* [Veiling](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+* [Aavegotchi Verbetervoorstellen](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+* [Aavegotchi Profielpagina](/aavegotchi-profile)
+
+* [Aesthetica](/aesthetica)
 
 * [Aging Mechanisme](/aging-mechanic)
 
@@ -29,21 +31,21 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Baazaar](/baazaar)
 
-* [Bridge](/bridge)
+* [Brug](/bridge)
 
 * [Wedstrijden](/contests)
 
-* [Contracts](/contracts)
+* [Contracten](/contracts)
 
 * [Bonding Curve](/curve)
 
 * [AavegotchiDAO](/dao)
 
-* [Developers](/developers)
+* [Ontwikkelaars](/developers)
 
 * [Estaates](/estaates)
 
-* [Eye Shape](/eye-shape)
+* [Oogvorm](/eye-shape)
 
 * [Veelgestelde Vragen](/faq)
 
@@ -67,7 +69,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Haunt](/haunt)
 
-* [Home](/index)
+* [Startpagina](/index)
 
 * [Introductie](/introduction)
 
@@ -99,13 +101,13 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Portalen](/portals)
 
-* [Raffles Statistics](/raffles-stats)
+* [Lotterij Statistieken](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
 * [Rarity Farming Seizoen](/rarity-farming-seasons)
 
-* [Recipes](/recipes)
+* [Recepten](/recipes)
 
 * [Roadmap](/roadmap)
 
@@ -115,7 +117,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Spirit Force](/spirit-force)
 
-* [Spirit Force History](/spirit-force-history)
+* [Spirit Force Geschiedenis](/spirit-force-history)
 
 * [Staken](/staking)
 
@@ -127,15 +129,15 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Tokenomics](/tokenomics)
 
-* [Trait Mappings](/trait-mappings)
+* [Eigenschap Mappings](/trait-mappings)
 
 * [Eigenschappen](/traits)
 
-* [Tutorials](/tutorials)
+* [Handleidingen](/tutorials)
 
 * [uGOTCHI Collectie](/ugotchi)
 
-* [Weapons](/weapons)
+* [Wapens](/weapons)
 
 * [Wearables](/wearables)
 

@@ -103,6 +103,6 @@ Alle GLTR in-game uitgaven worden verbrand van het leveringspunt (verzonden naar
 
 ## GLTR verdienen
 
-wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+wapGHST of Quickswap/Sushiswap LP tokens kunnen worden uitgezet om dagelijkse GLTR beloningen te verdienen op [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
 
-Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
+Stakers zullen GLTR tokens opbouwen op elk Polygon blok, volgens hun aandeel in de pool.
