@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-## [Vote on AGIPs 29 & 30!](https://blog.aavegotchi.com/vote-agip-29-30/)
-* AGIP 29: 24h Windows for Alchemical Channeling
-* AGIP 30: Scheduling Land Auction/Raffle #3 for June
+## [Stem op AGIPs 29 & 30!](https://blog.aavegotchi.com/vote-agip-29-30/)
+* AGIP 29: 24h venster voor Alchemical Channeling
+* AGIP 30: Plannen Land Veiling/Lotterij #3 voor juni
 * Vote is live from 21 - 28 May 2022!
 <p></p>
 
