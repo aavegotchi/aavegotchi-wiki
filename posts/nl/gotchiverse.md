@@ -103,7 +103,7 @@ Om het menselijker te maken, wordt elk pakketje toegewezen met een unieke combin
 
 REALM pakketten die aan elkaar grenzend zijn kunnen worden gebruikt om [estaates](/estaates) te vormen.
 
-<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes" />
+<img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="REALM Parceelgrootte" />
 
 ## REALM Gameplay
 
@@ -153,15 +153,15 @@ De Gotchiverse UI is als volgt ontworpen:
 * Links onder: Chat - kan worden ingesteld op het specifieke district waar u zich bevindt of in het Citaadel
 * Rechtsonder: Crafting Tabel, Voorraad en Bouw Modus
 
-<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
+<img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting tafel" />
 
 De werkbank wordt gebruikt om nieuwe installaties te maken met Gotchus Alchemica. Bekijk de [Recepten](/recipes) pagina voor sommige van deze installaties die je kunt maken, de Gotchus Alchemica vereiste, en de tijd die nodig is om ze te maken. Er is een transactie nodig om ze te maken.
 
-<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
+<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventaris" />
 
 Zodra de installaties zijn gemaakt, worden ze weerspiegeld in jouw inventaris.
 
-<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi bouw installaties" />
 
 Bouw modus stelt u in staat uw installaties te plaatsen op de REALM pakketten die u bezit. Er is een transactie nodig om je installaties op je pakket te installeren.
 
@@ -283,40 +283,40 @@ De primaire distributiemethode voor REALM Parcelen is het gesubsidieerde GBM-vei
 
 Bekijk onze [Aauction page](/aauction) voor meer informatie.
 
-This revolutionary auction model solves many problems inherent to the popular First Come First Serve (FCFS) drops, but they naturally, still favor those with the most capital to invest.
+Dit revolutionaire veilingsmodel lost veel problemen op die inherent zijn aan de populaire eerste First Come First Serve (FCFS) model, maar natuurlijk nog met een voorkeur op voor frens met het meeste kapitaal om te investeren.
 
-To balance this, the team has decided to raffle off the remaining 20% of REALM parcels using Chainlink VRF-powered Raffles.
+Om dit in evenwicht te brengen, heeft het team besloten om de resterende 20% van de resterende REALM parcelen met behulp van Chainlink VRF-aangedreven Lotterijen te verdelen.
 
-Method 2: Raffle (20%)
+Methode 2: Lotterij (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+De secundaire distributiemethode voor REALM Parcels is de Chainlink VRF-aangedreven Lotterij. Deelnemers zullen deelnemen via Drop Tickets die worden gebruikt voor de Portaal en REALM Lotterijen. Je kan Drop Tickets verdienen door een Aavegotchi te bezitten, deel te nemen aan missies of door FRENS om te ruilen voor Drop tickets of andere [Lotterij tickets](/staking#purchasing-raffle-tickets) tegen 10,000 FRENS points per Drop Ticket. Begin nu met het genereren van FRENS punten door het [staken van GHST](/staking).
 
 ### Drop Tickets
 
-Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
+Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert **één** kans in de NFT Lotterij, waar u Aavegotchi portalen en REALM Parcelen kunt winnen.
 
-<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets and REALM Parcels" />
+<img class="bodyImage" src="/gotchiverse/drop-tickets-and-realm-parcels.png" alt="Aavegotchi Drop Tickets en REALM Parcelen" />
 
-There are three ways to get Drop Tickets:
+Er zijn drie manieren om tickets te verkrijgen:
 
-* Convert 10,000 FRENS into one Drop Ticket
-* Convert other Raffle Tickets into a Drop Ticket
-* Refer your friends to earn Drop Tickets 🔥
+* Ruil 10.000 FRENS om voor één Drop Ticket
+* Ruil andere Lotterij Tickets om voor een Drop Ticket
+* Refereer je vrienden om drop-Tickets te verdienen 🔥
 
 ### Parcel Boosts
 
-Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
+Sommige REALM pakketten worden geleverd met Parcel Boosts. Parcel Boosts zijn plekken van Alchemica die direct grenst aan REALM Parcels binnen de Gotchiverse. In tegenstelling tot onderzochte Alchemica, die willekeurig wordt gegeven door Chainlink VRF, zijn Parcel Boosts basishoeveelheden Alchemica stoffen die na onderzoek aan de totale Alchemica van een Parcel worden toegevoegd.
 
-Alchemica Boost amounts are 1000, 500, 250, and 100 for FUD, FOMO, ALPHA, and KEK respectively.
+Alchemica Boost bedragen zijn 1000, 500, 250 en 100 voor FUD, FOMO, ALPHA en KEK.
 
-table_alchemicalBoostsAndAmountPerLocation
+tafel_alchemicalBoostsAndAmountPerLocation
 
 **Replenishings**
 
-After each Great Battle in Act 1, players will be able to survey their Parcel again, rolling to get more Alchemica. The Boost amount above will be added onto the amount rolled by the player for each surveying round.
+Na elke Grote Strijd in Act 1 zullen spelers hun parceel opnieuw kunnen onderzoeken, waarna ze meer Alchemica krijgen. De boost hoeveelheid hierboven zal worden toegevoegd aan het aantal dat door de speler wordt gerangschikt voor elke enquêteronde.
 
-**Alchemica Bubble Ups**
+**Alchemicaa Bubbel Ups**
 
-The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
+Het Bubble Ups concept groeide uit de besproken Patch 0.1c waarbij Verhoog Boost Bedragen niet behaald kon worden. Alchema Bubble Ups bieden extra mogelijkheden om te boosten, terwijl de speler nog steeds moet zijn om de Alchemie die opbubbelt actief te oogsten.
 
-Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+Alchemie Bubble Ups zijn sporadisch (maar niet zeldzaam) evenementen waar Alchemica pickups verschijnen op de plaatsen van Alchemica in de Gotchiverse, vooral in de buurt van actieve parcelen. Met name het is **Pixelcraft’s Gameplay vested release** dat deze Alchemica releases ondersteunt, hoewel AavegotchiDAO ook kan stemmen om het aantal aan te vullen.
