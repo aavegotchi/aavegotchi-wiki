@@ -60,7 +60,7 @@ Je kunt staken voor **FRENS** beloningen of **GLTR** beloningen.
 
 ## Staken voor FRENS
 
-<img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking for FRENS" />
+<img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking voor FRENS" />
 
 Er zijn zes manieren om te staken voor FRENS:
 
@@ -108,78 +108,78 @@ Stakers hoeven geen Aave te bezoeken. Ze hoeven alleen maar hun tokens goed te k
 
 Staken van GHST-QUICK en GHST-USDC volgt dezelfde stappen.
 
-* Step 1: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
+* Stap 1: Word een liquiditeitsprovider op hetzij de [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) en [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools op [QuickSwap](https://quickswap.exchange). Je ontvangt LP tokens in ruil voor je liquiditeitsvoorziening. Voor mensen die geïnteresseerd zijn in staking te gaan in de GHST-QUICK pool, kunt u wat QUICK token krijgen van [QuickSwap](https://quickswap.exchange). De meest liquide paren zijn momenteel QUICK-UNI, QUICK-WETH, QUICK-USDC en GHST-QUICK.
 
-* Step 2: Take these LP tokens and stake them in the [Aavegotchi Staking Interface](https://app.aavegotchi.com/stake-polygon) to get stkGHST receipt tokens. For the GHST-QUICK and GHST-USDC pools, these stkGHST receipt tokens are named stkGHST-QUICK and stkGHST-USDC, respectively.
+* Stap 2: Neem deze LP tokens en zet ze in de [Aavegotchi staking interface](https://app.aavegotchi.com/stake-polygon) om stkGHST ontvangstbewijs tokens te krijgen. Voor de GHST-QUICK en GHST-USDC pools, worden deze stkGHST ontvangsttokens respectievelijk stkGHST-QUICK en stkGHST-USDC genoemd.
 
-*For every 1 GHST-QUICK LP token staked in this way, you receive 83 FRENS / Day (the team tries to keep the rate around 30-40% higher than just staking GHST alone. This rate is periodically adjusted up/down without warning to maintain the correct proportion).*
+*Voor elke 1 GHST-QUICK LP token op deze manier gestaked ontvangt je 83 FRENS / Dag (het team probeert de koers ongeveer 30-40% hoger te houden dan wanneer alleen GHST wordt gestaked. Dit tarief wordt periodiek omhoog/omlaag aangepast om de juiste evenredigheid te behouden.*
 
-*For every 1 GHST-USDC LP token staked in this way, you receive 74 million FRENS / Day (10% more than just staking GHST).*
+*Voor elke 1 GHST-USDC LP token is op deze manier gebruikt, u ontvangt 74 miljoen FRENS / Dag (10% meer dan alleen maar GHST).*
 
-Why is there a huge difference in the number of FRENS earned through LP staking compared to staking GHST tokens directly? Staking LP tokens have the risk of [impermanent loss](/glossary#impermanent-loss). You are compensated for the increased risk you take.
+Waarom is er een enorm verschil in het aantal FRENS dat door LP staking verdiend wordt vergeleken met de directe staking van GHST tokens? Het uitzetten van LP tokens heeft het risico van [impermenent loss](/glossary#impermanent-loss). U wordt gecompenseerd voor het verhoogde risico dat u neemt.
 
-Why is the GHST-USDC pool yielding 74 million FRENS a day? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. See this [tweet](https://twitter.com/coderdannn/status/1362423402871447554) for the lulz.
+Waarom levert de GHST-USDC LP 74M FRENS per dag op? Een vroege depositor in de GHST-USDC pool op QuickSwap heeft de verhouding tussen de activa verprutst. Zo krijgen ze kleine hoeveelheden LP-tokens wanneer deposanten aan de pool toevoegen, zoals 0,00006. Zie deze [tweet](https://twitter.com/coderdannn/status/1362423402871447554) voor de lulz.
 
-### Staking GHST-WETH
+### Stake GHST-WETH
 
-* Step 1: Go to [quickswap.exchange](https://quickswap.exchange/) and choose > Pools > Add Liquidity.
+* Stap 1: Ga naar [quickswap.exchange](https://quickswap.exchange/) en kies > Pools > Liquiditeit toevoegen.
 
-* Step 2: Deposit GHST and ETH equally into the GHST-ETH liquidity pool.
+* Stap 2: Stort GHST en ETH evenredig in de GHST-ETH liquiditeitspool.
 
-* Step 3: In return, you receive GHST-WETH LP tokens.
+* Stap 3: In ruil daarvoor ontvang je GHST-WETH LP tokens.
 
-* Step 4: Take those LP tokens and stake them at [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
+* Stap 4: Neem die LP tokens en zet ze op [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
 
-* Step 5: In return, you earn FRENS points and you get stkGHST-WETH tokens
+* Stap 5: Als tegenprestatie verdien je FRENS punten en krijg je stkGHST-WETH tokens
 
-For every 1 GHST-ETH LP token staked in this way, you receive 12.08 million FRENS / Day (20% more than just staking GHST).
+Voor elke 1 GHST-ETH LP token op deze manier gestaked, ontvang je 12,08 miljoen FRENS / Dag (20% meer dan alleen maar GHST).
 
-### Staking GHST-MATIC
+### Stake GHST-MATIC
 
-* Step 1: Go to [sushi.com](https://sushi.com/) and enter the app
+* Stap 1: Ga naar [sushi.com](https://sushi.com/) en ga de app in
 
-* Step 2: Add liquidity to the GHST-MATIC pool. In turn, you will receive GHST-MATIC LP Tokens
+* Stap 2: Voeg liquiditeit toe aan de GHST-MATIC pool. Op zijn beurt ontvangt u GHST-MATIC LP Tokens
 
-* Step 3: Take the GHST-MATIC LP Tokens and deposit them at [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon). You will receive stkGHST-MATIC receipt tokens after staking your LP tokens.
+* Stap 3: Neem die LP tokens en zet ze op [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon). U ontvangt stkGHST-MATIC ontvangsttokens na het staking van uw LP tokens.
 
 ### Staking Cheatsheets!
 
-If you prefer something more visual, check out our Staking Cheatsheets!
+Als je iets meer visueel wilt, bekijk dan onze Stake Cheatsheets!
 
-* GHST Staking and GHST-QUICK/GHST-USDC Staking
+* GHST staking en GHST-QUICK/GHST-USDC staking
 
-<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST to Matic Cheatsheet" />
+<img class = "bodyImage" src = "/staking/GHST-to-Matic-Cheatsheet.png" alt = "GHST naar Matic Cheatsheet" />
 
-### Staking Returns Table
+### Staking Opbrengsten Tabel
 
-The table below summarizes the staking returns (in terms of FRENS) in percentage against the baseline of staking GHST directly.
+De tabel hieronder vat de staking opbrengsten (in termen van FRENS) in percentage samen met de basislijn van staking GHST direct.
 
-Do note that the Pixelcraft team may update the FRENS amount from time to time to balance the system.
+Houd er rekening mee dat het Pixelcraft team de FRENS hoeveelheid van tijd tot tijd kan updaten om het systeem in balans te houden.
 
-table_stakingReturns
+tabel_stakingReturns
 
 ## Staken voor GLTR
 
-<img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
+<img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking voor GLTR" />
 
-* Step 1: Visit [app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr)
+* Stap 1: Bezoek [app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr)
 
-* Step 2: Select the pools you are interested in
+* Stap 2: Selecteer de pools waarin je geïnteresseerd bent
 
-* Step 3: Deposit your wapGHST/GHST LP tokens in those pools. Earn GLTR rewards every block!
+* Stap 3: Stort je wapGHST/GHST LP tokens in die pools. Verdien GLTR beloningen voor elk blok!
 
 ## Staking Contractadressen
 
-The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
+De volgende tabel toont de verschillende staking contract adressen op Polygon. De ghstStaking en stkGHSTQUICK contracten hebben hetzelfde contractadres. Controleer het contractadres eerst voordat je transacties afsluit.
 
-table_stakingContractAddresses
+tabel_stakingContractAdressen
 
 ## FRENS Taask Force
 
-From time to time, the FRENS emission rate does not automatically get updated when the price of the underlying tokens changes.
+Van tijd tot tijd wordt de FRENS emissie rate niet automatisch bijgewerkt wanneer de prijs van de onderliggende tokens verandert.
 
-The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
+De [FRENS Taask Force](/frens-taask-force) is ingesteld om de FRENS tarieven te monitoren en aan te passen om de vooraf vastgestelde prijs te controleren.
 
 ## Wat nu?
 
-So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
+Dus heb je nu wat FRENS? Ga naar de [Tickets pagina](/tickets) om te leren hoe je tickets met FRENS kan kopen en om deel te nemen aan Lotterijen!
