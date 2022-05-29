@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Trait Mappings'
-description: 'Trait Mappings'
+title: 'Eigenschap Mappings'
+description: 'Eigenschap Mappings'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Aavegotchis have 6 [traits](/traits):
+Aavegotchis hebben 6 [eigenschappen](/traits):
 
 * AGG = Agressiviteit
 * NRG = Energie
@@ -16,11 +16,11 @@ Aavegotchis have 6 [traits](/traits):
 * EYS = Oogvorm
 * EYC = Oogkleur
 
-How exactly do these traits map out to actual gameplay in the [Gotchiverse](/gotchiverse)? Read on for the details.
+Hoe precies doen deze eigenschappen met actuele gameplay in de [Gotchiverse](/gotchiverse)? Lees verder voor meer details.
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/trait-mappings/gotchiverse-trait-map.jpg">
-<p class="headerImageText">Gotchiverse Trait Map</p>
+<p class="headerImageText">Gotchiverse Trait Kaart</p>
 </div>
 
 <div class="contentsBox">
@@ -28,50 +28,50 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 **Inhoud**
 
 <ol>
-<li><a href=#gotchiverse-trait-definitions>Gotchiverse Trait Definitions</a></li>
-<li><a href=#trait-mappings>Trait Mappings</a></li>
-<li><a href=#trait-scaling-systems>Trait Scaling Systems</a></li>
-<li><a href=#resources>Resources</a></li>
+<li><a href=#gotchiverse-trait-definitions>Gotchiverse Eigenschappen Definities</a></li>
+<li><a href=#trait-mappings>Eigenschap Mappings</a></li>
+<li><a href=#trait-scaling-systems>Schaalsystemen van Eigenschappen</a></li>
+<li><a href=#resources>Bronnen</a></li>
 </ol>
 
 </div>
 
-## Gotchiverse Trait Definitions
+## Gotchiverse Eigenschappen Definities
 
-* **HP Capacity:** A gotchi’s base level of hit points (HP). A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
+* **HP Capaciteit:** Het basisniveau van een willekeurige hit points (HP). Een krachtige vaardigheid om in te specialiseren, omdat moar HP ook moar uithoudingsvermogen betekent voor sprinten door het slagveld.
 
-* **AP Capacity:** A gotchi’s base level of action points (AP). Every physical attack, spell and ability (including teleportation) in the Gotchiverse will require the consumption of AP. The moar AP a gotchi has, the moar consecutive abilities they can unleash. Uber abilities will also require moar AP to execute so if you don’t know any high NRG gotchis yet, we suggest you start networking!
+* **AP Capaciteit:** Een vast niveau van actiepunten (AP). Elke fysieke aanval, spelling en vaardigheid (inclusief teleportatie) in Gotchiverse vereisen het verbruik van AP. De moar AP die een gotchi heeft, de achtereenvolgende vaardigheden die ze kunnen vrijgeven. Uber abilities zullen ook moar AP vereisen om uit te voeren, dus als je nog geen hoge NRG gotchis kent, raden we je aan om te beginnen met netwerken!
 
-* **Defense Power:** Determines a gotchi’s base level of “toughness” and also dictates the effectiveness of the armor they have equipped. E.g. If you were to equip magic type armor on your gotchi, high Defense Power would increase the base magical resistance of that armor.
+* **Verdedigingskracht:** Bepaalt het basisniveau van een gotchi aan "zwaarte" en dicteert ook de effectiviteit van de harnas die ze hebben uitgerust. Bv. Als je magische harnas zou uitrusten op je gotchi, zou hoge Verdedigingskracht de basis magische weerstand van dat pantser verhogen.
 
-* **Action Speed:** Different physical attacks, spells and abilities will all have different base cool down durations in the Gotchiverse. The higher a gotchi’s action speed, the shorter these cooldown durations become.
+* **Actiesnelheid:** Verschillende fysieke aanvallen, spreuken en vaardigheden zullen allemaal verschillende basis koele duur hebben in de Gotchiverse. Hoe hoger de actiesnelheid van een gotchi, des te korter deze afkoelduur.
 
-    * Example 1 - Physical attacks for a melee dagger would likely have a shorter cooldown than a melee spirit sword (as it’s more powerful than the dagger) when used by the same gotchi.
+    * Voorbeeld 1 - Lichaamsische aanvallen voor een melee dolk zouden waarschijnlijk een kortere afkoeltijd hebben dan een melee zwaard (omdat het krachtiger is dan de dolger) wanneer het door dezelfde gotchi wordt gebruikt.
 
-    * Example 2 - Two different gotchis with different action speeds both equipped with melee daggers would have different dagger cooldown durations.
+    * Voorbeeld 2 - Twee verschillende gotchis met verschillende actiesnelheid zouden beide uitgerust met melee zwervers verschillende afkoelduur hebben.
 
-* **Regen (HP & AP):** Gotchis at the low end of the SPK spectrum are more cuddly and introverted than their high SPK siblings. As a result, they tend to concentrate their energy on themselves and can quickly regenerate HP & AP. A truly useful personal aid!
+* **Regeneratie (HP & AP):** Gotchis aan het lage einde van het SPK-spectrum zijn knuffelder en introvert dan hun hoge SPK-broers. Als gevolg daarvan hebben ze de neiging om hun energie op zichzelf te concentreren en kunnen ze snel HP & AP hergenereren. Een waarlijk nuttige persoonlijke hulp!
 
-* **Ethereality:** “Ethereality” aka “Ghastly Charm” is a gotchis natural ability to tap into the unseen spectral forces within the Gotchiverse. A gotchi with high ethereality exerts influence on its surroundings to improve its chances of evading attacks, landing critical strikes, slipping through walls and producing favorable outcomes in nearly all chance based actions throughout the Gotchiverse. Some call them “Lucky”… most call them “Degens”…
+* **Etherealiteit:** "Ethereality" is een "Spookachtig Charm" natuurlijke vaardigheid om te tappen in de onzichtbare toeschouwers binnen de Gotchiverse. Een gotchi met hoge etherealiteit oefent invloed uit op zijn omgeving om zijn kansen op het ontwijken van aanvallen te verbeteren, het landen van kritische aanvallen, Door muren glippen en gunstige resultaten produceren in bijna alle kansgebaseerde acties in de hele Gotchiverse. Sommigen noemen ze “Geluk”… de meeste noemen ze “Degens”…
 
-* **Melee Power:** Determines the strength of melee abilities (hand wearables only at present) when equipped by a gotchi. Influences not only the strength of melee hand wearables with damage abilities but also the strength of melee hand wearables with restorative, buff or debuff abilities.
+* **Melee Power:** Bepaalt de sterkte van melee vaardigheden (hand wearables alleen op dit moment) wanneer hij is uitgerust door een gotche. Invloeden niet alleen de kracht van melee hand wearables met schade vaardigheden, maar ook de kracht van melee hand wearables met herstel, buff of debuff vaardigheden.
 
-* **Ranged Power:** Determines the strength of ranged abilities (ranged hand wearables only at present) when equipped by a gotchi. Influences not only the strength of ranged hand wearables with damage abilities but also the strength of ranged hand wearables with restorative, buff or debuff abilities.
+* **Kracht op afstand:** Bepaalt de sterkte van lange afstandsvaardigheden (lange afstandsbediening momenteel alleen) wanneer uitgerust door een gotche. Ininvloeden niet alleen de kracht van lange afstandshanddragers met schadevaardigheden, maar ook de kracht van lange afstandswezens met herstel, buff of debuff vaardigheden.
 
-## Trait Mappings
+## Eigenschap Mappings
 
-table_traitMappings
+tabel_traitMappings
 
-## Trait Scaling Systems
+## Schaalsystemen van Eigenschappen
 
-It is crucial to note that the way traits scale and change with increases/decreases to NRG, AGG, SPK and BRN shown in this version 2 trait map are still under discussion and not yet finalized. Two current proposed scaling models are:
+Het is van cruciaal belang om op te merken dat de schaal en de verandering met stijgen/dalingen naar NRG, AGV en ONGO verloopt, SPK en BRN getoond in deze versie 2 vaardigheid kaart zijn nog in discussie en nog niet afgerond. Twee voorgestelde schaalmodellen zijn:
 
-* Yin/Yang e.g. 0 NRG gotchi has less AP and more HP than a 50 NRG gotchi
+* Yin/Yang bijv. 0 NRG gotchi heeft minder AP en meer HP dan een 50 NRG gotchi
 
-* Buff Only e.g. 0 NRG gotchi has the same AP and more HP than a 50 NRG gotchi
+* Buff alleen bijv. 0 NRG gotchi heeft dezelfde AP en meer HP dan een 50 NRG gotchi
 
-In addition, there are many ways these relationships can be modeled including linear, exponential, diminishing return curves and caps. This will be discussed with Pixelcraft Studios.
+Daarnaast zijn er vele manieren waarop deze relaties gemodelleerd kunnen worden, waaronder lineaire, exponentieel afnemende terugkeercurves en caps. Dit wordt besproken met Pixelcraft Studios.
 
-## Resources
+## Bronnen
 
-* The [AavegotchiDAO](/dao) proposed and voted for an [alternative Gotchiverse Trait Map for NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
+* De [AavegotchiDAO](/dao) stelde voor en stemde voor een [alternatieve Gotchiverse Trait Map voor NRG, AGG, SPK & BRN](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135).
