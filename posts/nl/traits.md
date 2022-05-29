@@ -23,7 +23,7 @@ Aavegotchis worden geboren met eigenschappen. Net als hoe je eigenschappen defin
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
 <li><a href=#aging-mechanic>Aging Mechanisme</a></li>
-<li><a href=#trait-mappings>Trait Mappings</a></li>
+<li><a href=#trait-mappings>Eigenschap Mappings</a></li>
 </ol>
 
 </div>
@@ -103,8 +103,8 @@ Gotchis zouden een kleine boost krijgen van hun [BRS](/rarity-farming#base-rarit
 
 Voor meer informatie, bekijk de [Aging Mechanic](/aging-mechanic) pagina.
 
-## Trait Mappings
+## Eigenschap Mappings
 
-These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
+Deze 6 eigenschappen zijn de basiseigenschappen. Om Aavegotchi te veranderen in een volwaardig spel in de [Gotchiverse](/gotchiverse), hebben we meer gedifferentieerde variabelen nodig.
 
-Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
+Ontdek waar deze basis eigenschappen kaart in op de [Trait Mappings pagina](/trait-mappings).
