@@ -1,13 +1,13 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Recipes'
-description: 'Aavegotchi Recipes'
+title: 'Recepten'
+description: 'Aavegotchi Recepten'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Crafting [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade. You can find the latest recipes on this page.
+Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om krachtiger te worden is een belangrijk onderdeel van de Gotchivers-ervaring. Verschillende installaties vereisen verschillende "recepten" om te maken en te upgraden. U kunt het laatste Recepten hier vinden.
 
 <div class="contentsBox">
 
