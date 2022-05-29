@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Stake GHST, Maak FRENS!</p>
 </div>
 
-Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [FRENS](/posts/glossary#frens) or [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. De oorspronkelijke token, [GHST](/posts/ghst), kan worden ingezet in verschillende staking contracten om [FRENS](/posts/glossary#frens) of [GAX Liquidity Token Beloning (GLTR)](/gotchus-alchemica-exchange#gltr-token) beloningen te verdienen.
 
 <div class="contentsBox">
 
@@ -22,12 +22,12 @@ Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in rui
 <ol>
 <li><a href=#frens>FRENS</a></li>
 <li><a href=#gltr>GLTR</a></li>
-<li><a href=#where-to-stake>Where to Stake</a></li>
-<li><a href=#staking-for-frens>Staking for FRENS</a></li>
-<li><a href=#staking-for-gltr>Staking for GLTR</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#where-to-stake>Waar te staken</a></li>
+<li><a href=#staking-for-frens>Staken voor FRENS</a></li>
+<li><a href=#staking-for-gltr>Staken voor GLTR</a></li>
+<li><a href=#staking-contract-addresses>Staking Contractadressen</a></li>
 <li><a href=#frens-taask-force>FRENS Taask Force</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#what-s-next->Wat nu?</a></li>
 </ol>
 
 </div>
@@ -44,25 +44,25 @@ FRENS kunnen worden omgezet in Lotterij Tickets of Drop Tickets:
 
 ## GLTR
 
-The primary utility of [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. Every burned GLTR is equivalent to one block on the Polygon PoS network.
+Het primaire hulpmiddel van GAX Liquidity Token Reward (GLTR) laat spelers in de Gotchiverse toe om het maken en upgraden van hun [installaties](/gotchiverse#building-on-realm-parcels) door GLTR, te versnellen staat ze toe om hogere levels van het spel sneller te bereiken. Elke verbrande GLTR is gelijk aan één blok op het Polygon PoS netwerk.
 
 GLTR heeft ook een secundair doel, omdat het hoofdtoken is vereist voor [Wearable Crest](/guild#accessing-a-guild) veilingen. Guilds hebben ook de mogelijkheid GLTR te verbranden, om de tijd voor hun volgende Guild Channeling te versnellen.
 
-## Where to Stake
+## Waar te staken
 
-Staking is accessible at [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
+Staking is toegankelijk via [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
 
-You need either [GHST token](/ghst) or a GHST LP pair (GHST-QUICK, GHST-USDC, GHST-ETH, GHST-MATIC) to stake.
+U heeft [GHST token](/ghst) of een GHST LP paar (GHST-QUICK, GHST-USDC, GHST-ETH, GHST-MATIC) nodig om in te vallen.
 
-You can either stake for **FRENS** rewards or **GLTR** rewards.
+Je kunt staken voor **FRENS** beloningen of **GLTR** beloningen.
 
 <img class="bodyImage" src="/staking/stake.png" alt="Aavegotchi Staking" />
 
-## Staking for FRENS
+## Staken voor FRENS
 
 <img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking for FRENS" />
 
-There are six ways to stake for FRENS:
+Er zijn zes manieren om te staken voor FRENS:
 
 1. GHST
 
@@ -76,37 +76,37 @@ There are six ways to stake for FRENS:
 
 6. GHST-MATIC
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**Belangrijk: Staken op Mainnet is gestopt! Gelievete unstaken en opnieuw te staken op Polygon.**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Opmerking: GHST tokens kunnen niet verkocht worden totdat ze ontgrendeld zijn.*
 
 ### GHST tokens direct staken
 
-* Step 1: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://app.aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+* Stap 1: Verbind je Metamask met Polygon en ga naar de [Polygon Staking Page](https://app.aavegotchi.com/stake-polygon) in de Aavegotchi DApp.
 
-* Step 2: Approve the contract to use your GHST tokens on Polygon.
+* Stap 2: Bevestig het contract om uw GHST tokens op Polygon te gebruiken.
 
-* Step 3: Input the amount of GHST you would like to deposit. Presto! U bent klaar!
+* Stap 3: voer de hoeveelheid GHST in die u wilt overbrengen naar Polygon. Presto! U bent klaar!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Voor elke 1 GHST gestaked op deze manier ontvang je 1 FRENS/ Dag.*
 
 ### Staking wapGHST
 
-wapGHST staat voor Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
+wapGHST staat voor Wrapped Aave Polygon GHST. Het geeft direct dezelfde FRENS rating als staking GHST met de toevoeging van het uitlenen van het GHST token voor extra opbrengst op het Aave platform.
 
-Stakers hoeven geen Aave te bezoeken. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
+Stakers hoeven geen Aave te bezoeken. Ze hoeven alleen maar hun tokens goed te keuren, klik vervolgens op "Wrap GHST" om je GHST in wapGHST te wrappen/uitpakken.
 
-*Note: The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST.)*
+*De API zal niet verschijnen in je saldo van wapGST. In plaats daarvan zal het naar je GHST saldo tijdens het uitpakken (als je terugkeert naar vanilla GHST.)*
 
-* Step 1: Visit [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
+* Stap 1: Bezoek [app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon)
 
 * Stap 2: Bevestig het contract om uw GHST tokens te gebruiken.
 
-* Step 3: Wrap your GHST into wapGHST.
+* Stap 3: Zet je GHST in wapGST.
 
-### Staking GHST-QUICK and GHST-USDC
+### Stake GHST-QUICK en GHST-USDC
 
-Staking GHST-QUICK and GHST-USDC follows the same steps.
+Staken van GHST-QUICK en GHST-USDC volgt dezelfde stappen.
 
 * Step 1: Become a liquidity provider on either or both the [GHST-QUICK](https://info.quickswap.exchange/pair/0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9) and [GHST-USDC](https://info.quickswap.exchange/pair/0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4) pools on [QuickSwap](https://quickswap.exchange). You will receive LP tokens in return for your liquidity provision. For people who are interested in staking in the GHST-QUICK pool, you can get some QUICK token from [QuickSwap](https://quickswap.exchange). The most liquid pairs are currently QUICK-UNI, QUICK-WETH, QUICK-USDC, and GHST-QUICK.
 
@@ -158,7 +158,7 @@ Do note that the Pixelcraft team may update the FRENS amount from time to time t
 
 table_stakingReturns
 
-## Staking for GLTR
+## Staken voor GLTR
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
@@ -168,7 +168,7 @@ table_stakingReturns
 
 * Step 3: Deposit your wapGHST/GHST LP tokens in those pools. Earn GLTR rewards every block!
 
-## Staking Contract Addresses
+## Staking Contractadressen
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
@@ -180,6 +180,6 @@ From time to time, the FRENS emission rate does not automatically get updated wh
 
 The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
 
-## What's next?
+## Wat nu?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
