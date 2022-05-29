@@ -14,8 +14,8 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 **Inhoud**
 
 <ol>
-<li><a href=#crafting-duration>Crafting Duration</a></li>
-<li><a href=#aalchemical-aaltar>Aalchemical Aaltar</a></li>
+<li><a href=#crafting-duration>Fabricatie Duur</a></li>
+<li><a href=#aalchemical-aaltar>Aalchemisch Aaltar</a></li>
 <li><a href=#gotchi-lodge>Gotchi Lodge</a></li>
 <li><a href=#fud-haarvester>FUD Haarvester</a></li>
 <li><a href=#fomo-haarvester>FOMO Haarvester</a></li>
@@ -26,71 +26,71 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 <li><a href=#fomo-reservoir>FOMO Reservoir</a></li>
 <li><a href=#alpha-reservoir>ALPHA Reservoir</a></li>
 <li><a href=#kek-reservoir>KEK Reservoir</a></li>
-<li><a href=#le-golden-aaltar>LE Golden Aaltar</a></li>
-<li><a href=#le-golden-tiles>LE Golden Tiles</a></li>
+<li><a href=#le-golden-aaltar>LE Gouden Aaltar</a></li>
+<li><a href=#le-golden-tiles>LE Gouden tegels</a></li>
 <li><a href=#maaker>Maaker</a></li>
 </ol>
 
 </div>
 
-## Crafting Duration
+## Fabricatie Duur
 
-Installations and their upgrades also have a “Craft Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
+Installaties en hun upgrades hebben ook een "Craft Time", die wordt gemeten in blokken op het Polygon netwerk. Eén blok is ongeveer 2,2 seconden in menselijke tijd. De meeste (maar niet alle) niveaus 1 installaties hebben een ambachtelijke tijd van “Instant”, wat betekent dat ze onmiddellijk worden vervaardigd. wanneer degenen met vervaardigingstijden langer dan "Instant" een crafting wachtrij binnengaan en naar hun eigenaar worden gestuurd wanneer deze voltooid is.
 
-This crafting/upgrading process can be accelerated by spending an in-game currency currently known as “GLTR” (but which will likely be renamed before launch). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+Dit proces van maak/upgraden kan worden versneld door een in-game valuta uit te geven die momenteel bekend staat als "GLTR" (maar die waarschijnlijk hernoemd zal worden voor de start). GLTR kan worden verkregen door het verstrekken van liquiditeit tussen GHST en Gotchus Alchemica tokens op de [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
 
-## Aalchemical Aaltar
+## Aalchemisch Aaltar
 
-table_aalchemicalAaltar
+tafel_aalchemicalAaltar
 
 ## Gotchi Lodge
 
-table_gotchiLodge
+tafel_gotchiLodge
 
 ## FUD Haarvester
 
-table_fudHaarvester
+tafel_fudHaarvester
 
 ## FOMO Haarvester
 
-table_fomoHaarvester
+tafel_fomoHaarvester
 
 ## ALPHA Haarvester
 
-table_alphaHaarvester
+tafel_alphaHaarvester
 
 ## KEK Haarvester
 
-table_kekHaarvester
+tafel_kekHaarvester
 
 ## Waall
 
-table_waall
+tabel_waall
 
 ## FUD Reservoir
 
-table_fudReservoir
+tafel_fudReservoir
 
 ## FOMO Reservoir
 
-table_fomoReservoir
+tafel_fomoReservoir
 
 ## ALPHA Reservoir
 
-table_alphaReservoir
+tafel_alphaReservoir
 
 ## KEK Reservoir
 
-table_kekReservoir
+tafel_kekReservoir
 
-## LE Golden Aaltar
+## LE Gouden Aaltar
 
-table_goldenAaltar
+tafel_goldenAaltar
 
-## LE Golden Tiles
+## LE Gouden tegels
 
-table_goldenTiles
+tafel_goldentegels
 
 ## Maaker
 
-table_maaker
+tafel_maaker
