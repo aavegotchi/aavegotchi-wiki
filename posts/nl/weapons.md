@@ -1,31 +1,31 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Weapons'
-description: 'Aavegotchi Weapons'
+title: 'Wapens'
+description: 'Aavegotchi Wapens'
 contributors:
   - "unintelligent-nerd"
 ---
 
-Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+Wapens zijn handwearables geclassificeerd als Melee of op afstand wapens. Deze speciale Wearables kunnen schade toebrengen aan Gotchis (in de Aarena), Lickquidators, vijanden en Waalls.
 
-Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+Elk Wapen zal ook voorzien zijn van speciale voordelen, zoals extra schade aan Waals, extra schade aan Lickquidators, extra aanvalssnelheid en andere.
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#melee-weapons>Melee Weapons</a></li>
-<li><a href=#ranged-weapons>Ranged Weapons</a></li>
+<li><a href=#melee-weapons>Melee Wapens</a></li>
+<li><a href=#ranged-weapons>Afstand Wapens</a></li>
 </ol>
 
 </div>
 
-## Melee Weapons
+## Melee Wapens
 
-table_meleeWeapons
+table_meleeWapens
 
-## Ranged Weapons
+## Afstand Wapens
 
-table_rangedWeapons
+tafel_rangedWapens
