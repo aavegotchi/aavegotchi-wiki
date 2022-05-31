@@ -372,6 +372,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip29",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, once per 24h window", "17,000,000 GHST (96.1%)"],
+					["No, every 24h interaction", "706,000 GHST (3.9%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip30",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, 8k Parcels in June", "12,000,000 GHST (83.64%)"],
+					["No", "2,300,000 GHST (16.36%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
