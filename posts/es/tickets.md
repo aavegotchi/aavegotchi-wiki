@@ -42,7 +42,7 @@ Hay dos categorías principales de tickets:
 * Raffle Tickets
 * Drop Ticket
 
-Los Raffle Tickets pueden ser subdivididos en seis subcategorías diferentes, que van desde Común (menos valioso) hasta Godlike (más valioso). Estos se utilizan para participar en **Wearable Raffles**.
+Los Raffle Tickets pueden ser subdivididos en seis subcategorías diferentes, que van desde Común (menos valioso) hasta Godlike (más valioso). These are used to participate in [Wearable](/wearables) Raffles or [Aesthetica](/aesthetica) Raffles.
 
 Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** para ganar [Portales](/portales) y [Parcelas REALM](/metaverse).
 
@@ -54,7 +54,7 @@ Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en u
 
 ## Entradar Tickets
 
-Un raffle (tanto wearable raffles como NFT raffles) tienen lugar durante un corto periodo de tiempo. Durante este período, puedes enviar tus tickets para tener la oportunidad de ganar premios. El meter tickets en el sorteo implica una transacción en Polygon; no se realiza automáticamente. Si tienes muchas categorías diferentes de raffle tickets y deseas introducirlos juntos como un paquete, también es posible. **no necesitas** crear transacciones distintas para cada categoría de raffle ticket para introducirlos en el sorteo.
+A raffle runs for a period of time. Durante este período, puedes enviar tus tickets para tener la oportunidad de ganar premios. El meter tickets en el sorteo implica una transacción en Polygon; no se realiza automáticamente. Si tienes muchas categorías diferentes de raffle tickets y deseas introducirlos juntos como un paquete, también es posible. **no necesitas** crear transacciones distintas para cada categoría de raffle ticket para introducirlos en el sorteo.
 
 Cuando termine el sorteo, puedes averiguar qué premios has ganado y puedes reclamarlos.
 
@@ -74,7 +74,7 @@ Puedes aumentar tu probabilidad de ganar con:
 
 Los números aleatorios para los ganadores de los premios del Raffle se generan a través del [generador de aleatoriedad verificable](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) de Chainlink.
 
-Una vez finalizado el sorteo, los ganadores pueden reclamar sus premios en la Red Polygon y equipar a sus Gotchis con esos wearables.
+After the raffle has concluded, winners can claim their prizes on Polygon.
 
 Todo el proceso de depositar GHST y ganar premios se puede ilustrar usando las siguientes infografías:
 
