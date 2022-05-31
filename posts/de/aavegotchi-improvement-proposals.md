@@ -1128,6 +1128,8 @@ Option 2: No, every 24h interaction
 
 **Results:**
 
+table_agip29
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbe89c5f01a02817058d66459cb00a399c45aa8991e29121fb1ca3b0e11e0c84b)
 
 <hr />
@@ -1163,6 +1165,8 @@ Option 2: No
 **Voting Period:** 21 - 28 May 2022
 
 **Results:**
+
+table_agip30
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x658926263e4ce1eca559950bcb0f5d8f203758c5c99b30999bb7f082552695b8)
 
