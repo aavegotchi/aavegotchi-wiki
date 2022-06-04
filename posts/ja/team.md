@@ -120,7 +120,7 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 <p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis（モーヴィス）</a></p>
 </div>
 
-Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
+モーヴィスは、過去15年間テック系スタートアップで働き、立ち上げてきたビルダーです。 コインマーケットキャップの元CTOとして知られ、プラットフォームをアレクサ（Alexa）サイトのトップ100までに成長させました。 現在、妻とフレンチブルドッグのルーフィーとシンガポールに住んでいます。
 
 ## チーム
 
