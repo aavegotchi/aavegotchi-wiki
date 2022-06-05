@@ -1,8 +1,8 @@
 ---
 author: eris
 date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+title: 'ミッション'
+description: 'Aavegotchiミッションのすべて'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
@@ -11,7 +11,7 @@ contributors:
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">エージェントの仕事</p>
 </div>
 
 <div class="contentsBox">
@@ -19,15 +19,15 @@ contributors:
 **目次**
 
 <ol>
-<li><a href=#the-aagent-missions>The Aagent Missions</a></li>
-<li><a href=#share2earn-litepaper-campaign>Share2Earn Litepaper Campaign</a></li>
+<li><a href=#the-aagent-missions>エージェント・ミッション</a></li>
+<li><a href=#share2earn-litepaper-campaign>Share2Earn（シェアー・トゥー・アーン）ライトペーパーキャンペーン</a></li>
 </ol>
 
 </div>
 
-## The Aagent Missions
+## エージェント・ミッション
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+**Aavegotchiミッションプログラムは終了しました。**
 
 Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
 
@@ -75,7 +75,7 @@ Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/mission
 
 &nbsp; &nbsp;
 
-## Share2Earn Litepaper Campaign
+## Share2Earn（シェアー・トゥー・アーン）ライトペーパーキャンペーン
 
 We’re partnering with Viral Loops, an industry leader in referral programs, to create a limited-time campaign where you can earn real rewards for referring your frens to learn about Aavegotchi.
 
