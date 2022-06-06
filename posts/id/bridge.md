@@ -139,8 +139,8 @@ Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to 
 
 ### Binance
 
-Binance is one of the largest cryptocurrency exchanges in the world. They also provide withdrawals to Polygon Network.
+Binance is one of the largest cryptocurrency exchanges in the world.
 
-At the withdrawal page, set the Network to **MATIC** Polygon (see screenshot below).
+As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
+<img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon" />
