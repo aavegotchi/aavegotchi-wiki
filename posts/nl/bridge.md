@@ -139,8 +139,8 @@ Crypto.com is een mobiele app portemonnee. Ze maken opname van MATIC en USDC in 
 
 ### Binance
 
-Binance is een van de grootste cryptovalutabeurzen ter wereld. Ze bieden ook intrekkingen op het Polygonnetwerk.
+Binance is one of the largest cryptocurrency exchanges in the world.
 
-Stel het netwerk in op **MATIC** Polygon (zie screenshot hieronder).
+As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Uitnemen van Binance naar Polygon" />
+<img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon" />
