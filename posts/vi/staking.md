@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Stake GHST, Nhận FRENS!</p>
 </div>
 
-Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổi lấy phần thưởng. Không có gì khác biệt trong dự án Aavegotchi. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [FRENS](/posts/glossary#frens) or [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổi lấy phần thưởng. Không có gì khác biệt trong dự án Aavegotchi. Token chủ đạo, [GHST](/posts/ghst), có thể được stake trên nhiều hợp đồng staking để kiếm [FRENS](/posts/glossary#frens) hoặc [Token Thưởng Thanh Khoản Của Sàn GAX (GLTR)](/gotchus-alchemica-exchange#gltr-token)
 
 <div class="contentsBox">
 
@@ -22,12 +22,12 @@ Staking là quá trình khoá tài sản tiền mã hoá của bạn để đổ
 <ol>
 <li><a href=#frens>FRENS</a></li>
 <li><a href=#gltr>GLTR</a></li>
-<li><a href=#where-to-stake>Where to Stake</a></li>
-<li><a href=#staking-for-frens>Staking for FRENS</a></li>
-<li><a href=#staking-for-gltr>Staking for GLTR</a></li>
-<li><a href=#staking-contract-addresses>Staking Contract Addresses</a></li>
+<li><a href=#where-to-stake>Stake ở đâu</a></li>
+<li><a href=#staking-for-frens>Staking nhận FRENS</a></li>
+<li><a href=#staking-for-gltr>Staking nhận GLTR</a></li>
+<li><a href=#staking-contract-addresses>Địa Chỉ Hợp Đồng Staking</a></li>
 <li><a href=#frens-taask-force>FRENS Taask Force</a></li>
-<li><a href=#what-s-next->What's next?</a></li>
+<li><a href=#what-s-next->Bước tiếp theo?</a></li>
 </ol>
 
 </div>
@@ -44,25 +44,25 @@ FRENS có thể dùng để đổi sang Vé Raffle hoặc Vé Drop:
 
 ## GLTR
 
-The primary utility of [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. Every burned GLTR is equivalent to one block on the Polygon PoS network.
+Thời gian là nguồn lực hiếm nhất trên giới, và trong cuộc đua thu thập các nguồn lực, nó là thức có giá trị nhất. Công dụng chính của GLTR là cho phép người chơi trong Gotchiverse có thể tăng tốc chế tạo và nâng cấp [Công trình](/gotchiverse#building-on-realm-parcels) của họ bằng cách đốt GLTR, cho phép chạm đến những cấp độ cao hơn của game. Mỗi GLTR được đốt đi tương ứng với một block trong mạng lưới Polygon PoS.
 
 GLTR cũng có công dụng thứ hai, đó chính là token chính được dùng để đấu giá [Wearable Crest](/guild#accessing-a-guild). Các guild cũng sẽ được chọn trong việc chuyển đổi GLTR để tăng tốc trong việc Truyền theo Guild.
 
-## Where to Stake
+## Stake ở đâu
 
-Staking is accessible at [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
+Có thể stake tại [app.aavegotchi.com/stake](https://app.aavegotchi.com/stake).
 
-You need either [GHST token](/ghst) or a GHST LP pair (GHST-QUICK, GHST-USDC, GHST-ETH, GHST-MATIC) to stake.
+Bạn có thể stake [GHST token](/ghst) hoặc cặp (GHST-QUICK, GHST-USDC, GHST-ETH, GHST-MATIC).
 
-You can either stake for **FRENS** rewards or **GLTR** rewards.
+Bạn có thể stake nhận **FRENS** hoặc **GLTR**.
 
 <img class="bodyImage" src="/staking/stake.png" alt="Aavegotchi Staking" />
 
-## Staking for FRENS
+## Staking nhận FRENS
 
 <img class="bodyImage" src="/staking/stake-polygon.png" alt="Aavegotchi Staking for FRENS" />
 
-There are six ways to stake for FRENS:
+Có 6 cách để stake nhận FRENS:
 
 1. GHST
 
@@ -76,25 +76,25 @@ There are six ways to stake for FRENS:
 
 6. GHST-MATIC
 
-**Important: Staking on Mainnet has been discontinued! Please unstake and restake on Polygon.**
+**Chú ý quan trọng: Không thể stake trên Mainnet được nữa! Mọi người vui lòng unstake và restake trên Polygon nhé.**
 
-*Note: Pre-sale GHST tokens cannot be staked until they are unlocked.*
+*Chú ý: Những token GHST mua trong đợt pre-sale không thể nào được stake cho đến khi chúng được mở khoá.*
 
 ### Stake token GHST trực tiếp
 
-* Step 1: Connect your Metamask to Polygon and go to the [Polygon Staking Page](https://app.aavegotchi.com/stake-polygon) on the Aavegotchi DApp.
+* Kết nối ví MetaMask với Polygon và chuyển đến trang [Polygon Staking Page](https://app.aavegotchi.com/stake-polygon) trên DApp của Aavegotchi.
 
-* Step 2: Approve the contract to use your GHST tokens on Polygon.
+* Approve để hợp đồng sử dụng token của bạn.
 
-* Step 3: Input the amount of GHST you would like to deposit. Presto! Xong rồi bạn êi!
+* Bước 3: Nhập số lượng GHST mà bạn muốn chuyển sang Polygon. Presto! Xong rồi bạn êi!
 
-*For every 1 GHST staked in this way, you receive 1 FRENS / Day.*
+*Với mỗi 1 GHST được stake bằng cách này, bạn sẽ nhận được 1 FRENS/Ngày.*
 
-### Staking wapGHST
+### Stake wapGHST
 
-wapGHST stands for Wrapped Aave Polygon GHST. It provides the same FRENS rate as staking GHST directly, with the addition of lending the GHST token out for additional yield on the Aave platform.
+wapGHST là viết tắt của Wrapped Aave Polygon GHST. Nó cũng có tỷ lệ sinh FRENS tương tự như stake GHST, bổ sung thêm lãi từ việc stake token GHST trên nền tảng Aave.
 
-Stakers do not need to visit Aave. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
+Staker không cần vào Aave. You just need to approve your tokens and click on wrap GHST to wrap/unwrap your GHST into wapGHST.
 
 *Note: The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST.)*
 
@@ -158,7 +158,7 @@ Do note that the Pixelcraft team may update the FRENS amount from time to time t
 
 table_stakingReturns
 
-## Staking for GLTR
+## Staking nhận GLTR
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
@@ -168,7 +168,7 @@ table_stakingReturns
 
 * Step 3: Deposit your wapGHST/GHST LP tokens in those pools. Earn GLTR rewards every block!
 
-## Staking Contract Addresses
+## Địa Chỉ Hợp Đồng Staking
 
 The following table shows the various staking contract addresses on Polygon. The ghstStaking and stkGHSTQUICK contracts share the same contract address. Do check the contract address first before finalizing any transactions.
 
@@ -180,6 +180,6 @@ From time to time, the FRENS emission rate does not automatically get updated wh
 
 The [FRENS Taask Force](/frens-taask-force) has been setup to monitor and adjust the FRENS rates to keep it in check with the pre-determined rate.
 
-## What's next?
+## Bước tiếp theo?
 
 So you've got some FRENS now eh? Head over to the [Tickets page](/tickets) to learn how to purchase tickets with FRENS and to participate in Raffles!
