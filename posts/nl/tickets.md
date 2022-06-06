@@ -42,7 +42,7 @@ Er zijn twee hoofdcategorieën tickets:
 * Lotterij Tickets
 * Drop Tickets
 
-Lotterij tickets kunnen worden onderverdeeld in zes verschillende subcategorieën, variërend van Common (minst waardevol) tot Godlike (meest waardevol). Deze worden gebruikt om deel te nemen aan **Wearable Lotterijen**.
+Lotterij tickets kunnen worden onderverdeeld in zes verschillende subcategorieën, variërend van Common (minst waardevol) tot Godlike (meest waardevol). These are used to participate in [Wearable](/wearables) Raffles or [Aesthetica](/aesthetica) Raffles.
 
 Anderzijds worden Drop Tickets gebruikt om deel te nemen aan **NFT Lotterijen** om te winnen [Portals](/portals) en [REALM pakketten](/metaverse).
 
@@ -54,7 +54,7 @@ Gebruikers mogen tickets kopen die tot verschillende categorieën behoren in een
 
 ## Deeelnemen aan Lotterijen
 
-Een loterij (zowel wearable lotterij als NFT lotterij) gebruikt een periode van tijd. Gedurende deze periode kun je je tickets indienen om kans te maken prijzen te winnen. Het indienen van tickets in het remise brengt een transactie met zich mee op Polygon; het gebeurt niet automatisch. Als je veel verschillende categorieën raffle tickets hebt en ze samen wilt invoeren als bundel, is dit ook mogelijk. Je hoeft **geen** afzonderlijke transacties aan te maken om elke categorie tickets in te voeren.
+A raffle runs for a period of time. Gedurende deze periode kun je je tickets indienen om kans te maken prijzen te winnen. Het indienen van tickets in het remise brengt een transactie met zich mee op Polygon; het gebeurt niet automatisch. Als je veel verschillende categorieën raffle tickets hebt en ze samen wilt invoeren als bundel, is dit ook mogelijk. Je hoeft **geen** afzonderlijke transacties aan te maken om elke categorie tickets in te voeren.
 
 Wanneer de loterij voorbij is, kun je ontdekken welke prijzen je hebt gewonnen en ze kunnen claimen.
 
@@ -74,7 +74,7 @@ Je kunt je kans op het winnen verbeteren door:
 
 Willekeurige getallen voor de Lotterij prijswinnaars worden gegenereerd door Chainlink's [on-chain verifieerbare willekeurigheidgenerator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-Nadat de slag is geëindigd, kunnen winnaars hun prijzen opeisen op het Polygon-netwerk en hun Gotchis met deze wearabels uitrusten.
+After the raffle has concluded, winners can claim their prizes on Polygon.
 
 Het hele proces van staken van GHST en winnende prijzen kan worden geïllustreerd met behulp van de volgende infographics:
 

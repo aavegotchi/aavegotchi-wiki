@@ -57,7 +57,7 @@ contributors:
 ### Coder Dan（コーダー・ダン）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
+<img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu（ダニエル・マチュー）">
 <p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
 
@@ -67,7 +67,7 @@ Dan（ダン）又はCoder Dan（コーダー・ダン） はフルスタック�
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
+<img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson（ジェシー・ジョンソン）">
 <p class="leftImageText"><a href="https://twitter.com/gldnXross" target="_blank">@GldnXross</a></p>
 </div>
 
@@ -76,7 +76,7 @@ GldnXrossことJesseは、製品中心の創業者で、現在イーサリアム
 ### Xibot（ジボット）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
+<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot（ジボット）">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
 
@@ -85,7 +85,7 @@ XibotことXavier Iturraldeは、クリプト・アート・シーンで最も�
 ### Nick Mudge（ニック・マッジ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
+<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge（ニック・マッジ）">
 <p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
@@ -96,7 +96,7 @@ Nick MudgeはEthereumの最も熟練したsolidity（ソリディティー）開
 ### Stani（スタニ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/stani-kulechov.png" alt = "Stani Kulechov">
+<img class="leftImage" src="/team/stani-kulechov.png" alt = "Stani Kulechov（スタニ・クレチョフ）">
 <p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani（スタニ）</a></p>
 </div>
 
@@ -120,166 +120,166 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 <p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis（モーヴィス）</a></p>
 </div>
 
-Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
+モーヴィスは、過去15年間テック系スタートアップで働き、立ち上げてきたビルダーです。 コインマーケットキャップの元CTOとして知られ、プラットフォームをアレクサ（Alexa）サイトのトップ100までに成長させました。 現在、妻とフレンチブルドッグのルーフィーとシンガポールに住んでいます。
 
-## チーム
+## チーム紹介
 
 ### NyanKong（ニャンコング） - ゲームディレクター
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
-<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong（ニャンコング）">
+<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong（ニャンコング）</a></p>
 </div>
 
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+クリスチャン・セン（Chrisitan Senn）、又の名をニャンコング、又はクリス、は主にコンソール、PC、アーケード、モバイル、テーブルトップ、VRの各市場で、ゲームデザイン、アート、アニメーションを駆使したゲーム制作に30年間携わってきました。 インタラクティブなエンターテインメントを作ることが好きで、想像力が豊かな一方、チームや観客と積極的に交流することが好きで、社交的な一面も持っています。 Pixelcraftチームでの彼の主な仕事は、フレンズが何年もかけて探索し、楽しめるレルムのためのアートワークをデザインし作成することです。
 
 ### Mark（マーク）- ゴッチバース・バックエンド・リード
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/mark.jpg" alt = "Mark">
-<p class="leftImageText">Mark</p>
+<img class="leftImage" src="/team/mark.jpg" alt = "Mark（マーク）">
+<p class="leftImageText">Mark（マーク）</p>
 </div>
 
-Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
+マークは、15年以上にわたって親密なチームと一緒にスタートアップのプラットフォームを成功させてきました。 マークは、フルスタックエンジニアリングの専門知識と、企業のビジョンを考え抜かれたウェブ製品とサービスに変換する能力は、コインマーケットキャップの元CIOを含む多くの製品の立ち上げと買収の成功に貢献しています。
 
 ### Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
-<p class="leftImageText">Favabeans</p>
+<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans（ファヴァビーンズ）">
+<p class="leftImageText">Favabeans（ファヴァビーンズ）</p>
 </div>
 
-Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
+ピート・クラーク（Pete Clark）、別名ファヴァビーンズ、またはハウゼンフェッファーは、技術業界で26年間の大半をスタートアップ企業の共同設立とそのソフトウェアのゼロからの構築に費やしてきました。  彼は、バックエンドサービスのアーキテクチャ、コーディング、プロファイリングを行い、最高のパフォーマンスを実現すること、また、それらのサービスが動作するインフラの設計とスケーリングを行うことが好きです。  CoinMarketCapでは、リアルタイムのデータ取り込みと分析システム、インフラ、そしてYahooの暗号通貨ページで使用されているウェブソケットAPIを構築しました。  2人の息子の父親であり、動物、ボート、海全般をこよなく愛します。  また、レトロゲーム、カードゲーム、ボードゲームの愛好家でもあり、ちょっとしたゲーム史家でもある。 (任天堂のマリオが悪者として登場する歴史上唯一のビデオゲームの名前を言えますか?） Pixelcraftチームでの彼の主な仕事は、レルムのバックエンドの設計とコーディング、そして大規模なスケールを確保することです。
 
 ### Aris（アリス）- ゴッチバース・フロントエンド・リード
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/aris.png" alt = "Aris">
-<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
+<img class="leftImage" src="/team/aris.png" alt = "Aris（アリス）">
+<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris（アリス）</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
+アリスことピクセルラブ（PixellLab）は、フルスタックデベロッパー&ゴッチバースアーキテクトです。 心はトラベラーですが、現在はルーマニアのトランシルバニア地方の真ん中を拠点に活動しています（ブーイング）。 2021年2月初旬、ハウント1以前にAavegotchiと一緒にブロックチェーン技術に参加し、おそらくPixelcraft Studiosに雇われた最初のFE開発者となりました。 ゴッチバースプロジェクトをゼロから始め、プロジェクトの内部と外部を手のひらのように知っていて、毎日すべてのレルムに取り組んでいます。 現在、レルム開発チームのマネージメントを担当しています。
 
 ### Gravy（グレイヴィー）- マーケティングディレクター
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
+<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves（ニック・グレイヴス）">
+<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy（グレイヴィー）</a></p>
 </div>
 
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+ニック・グレイヴス（Nick Graves）、通称グレイヴィーは、B2BとB2Cで10年近い経験を持つ、マーケティング全般のクリエイティブディレクターです。 典型的な会社員生活を何年も送った後、彼はその船を出航させ、ブロックチェーンの世界に100％自分のキャリアを捧げました。 彼は戦略的パートナーシップを作成し、病気のKPIを測定し、戦略的マーケティング戦略を策定している間、グレイヴィーはAavegotchiを次のレベルに移動させるために専念し、ゴッチギャングのメンバーであることを誇りにしています。
 
 ### Moon（ムーン）- パートナーシップの責任者
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
+<img class="leftImage" src="/team/moon.png" alt = "Moon（ムーン）">
+<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon（ムーン）</a></p>
 </div>
 
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
+ムーンはパートナーシップ（Paartnerships）の責任者です。 ギャラクシーブレイン。 Aavegotchiで最高のボット。 ゲーマー。 wagyuchickenの夫。
 
 ### Shohan（ショハン）- ゴッチバース・フロントエンド
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan（ショハン）">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan（ショハン）</a></p>
 </div>
 
-I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+私は、プロのゲーム開発者、5年以上の経験を持って、私はゲームプレイのプログラミング、ゲーム開発の様々な側面へのバックエンドプログラミングの仕事の経験を持っているショハンと申します。 Stillfront (Moonfrog Labs)のようなトップゲームスタジオで働いた経験があります。 コンピュータサイエンスの修士号を取得しています。 私は、主にフレンズが歩き回り、探索し、楽しめるレルムのフロントエンドゲームプレイに携わっています。
 
 ### Coyote（コヨーテ）- デベロッパー・エバンジェリスト / UI
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
+<img class="leftImage" src="/team/coyote.png" alt = "Coyote（コヨーテ）">
+<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote（コヨーテ）</a></p>
 </div>
 
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
+ミドルネームが「コヨーテ（Coyote）」であることから「ケイレブ（Caleb）」と呼ばれる彼は、2021年初頭にこの戦いに加わりました。 彼のキャリアは、UI/UXデザイナーとしてスタートアップで始まり、最終的にはフロントエンド開発を専門にするように移行しました。 Coyoteは、Aavegotchiのサードパーティアプリの開発を通じて、ブロックチェーンに夢中になりました。 ブロックチェーンに目覚めたコヨーテの目標は、他の開発者たちとこの目覚めを共有し、次世代のウェブエンジニアを生み出すことです。
 
 ### Candoizo（カンドイゾ）- フロントエンド
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
-<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo（カンドイゾ）">
+<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo（カンドイゾ）</a></p>
 </div>
 
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+カンドイゾ（Candoizo）はソフトウェア開発者で、Aavegotchiに嵐を巻き起こすビルダーコミュニティーを簡単にすることに専念しています。 彼の経験は、侵入テストやコミュニティ主導のプロジェクトなど様々ですが、全ては人々のために何かを壊さないようにしたいという気持ちからきています。
 
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+カナダの荒野で競技ゲームと伝説的なツールの構築に没頭して育ったことがうかがえます。 Hauntgg、CoinVanity、そしてiOSのような過去のプロジェクトでは、この事実の起源を証明する友人には事欠かないでしょう。 次回のエピソードでは、伝説のトレーナーであるコーダー・ダンが、画期的なゲームコンセプトと傑出したコミュニティを使って、Pixelcraftチームのために彼のハートとスキルを獲得することができたのです!
 
 ### Wit1990（ウィット1990）- シニアSolidityエンジニア
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/wit1990.jpg" alt = "Witt1990">
-<p class="leftImageText"><a>Witt1990</a></p>
+<img class="leftImage" src="/team/wit1990.jpg" alt = "Wit1990（ウィット1990）">
+<p class="leftImageText"><a>Wit1990（ウィット1990）</a></p>
 </div>
 
-William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
+ウィリアム（William）は2021年5月にAavegotchiに入社しました。 ブロックチェーンスタートアップで4年間業務経験を積み、テクノロジーベースのビジネスを一から構築し、拡大することに貢献してます。 プロのスマートコントラクトエンジニアとして、スマートコントラクトをアイデアのみから設計・実装することを楽しんでます。 入社後、ハウント2、ゴッチレンディング、ERC721購入オーダーなど、多くのコア機能に携わってます。
 
 
 ### Mori（モリ）- Solidityデベロッパー
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/mori.jpg" alt = "Mori">
-<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
+<img class="leftImage" src="/team/mori.jpg" alt = "Mori（モリ）">
+<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori（モリ）</a></p>
 </div>
 
-Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
+パトリック・キム（Patrick Kim）別名モリは、ロサンゼルス出身の駆け出しのデフィゲンとSolidityの開発者です。 彼はプーコインで大金を失った後にAavegotchiを見つけ、清算人に捧げられるNFTの努力の量に触発されました。 集中力のなさを物語るように、以前は統計学者、その前は航空機の整備士でした。 アニメを見るのは筋書きのためで、数年前にDotAをプレイしたときは、強要されないサポートプレイヤーでした。 暇なときは、coderdanに自分の好きな機能の出荷時期についてしつこく質問するのが好きです。
 
 ### Thrax（スラックス）- メディアプロダクション
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
-<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax（スラックス）">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax（スラックス）</a></p>
 </div>
 
-Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+中東の神秘的な土地出身のThraxは、グラフィックデザインでキャリアをスタートさせたミックスメディアコンテンツクリエイターとVFXアーティストです。 グラフィックデザインでキャリアをスタートさせましたが、コーポラティブな生活は性に合わないと感じ、映像制作に移行し、幸運にも世界中のクライアントと仕事をすることができました。 数年後、どういうわけか彼はAavegotchiの土地オークションに参加することになりました。 現在、スラックスは召喚者が必要とするあらゆるビジュアルコンテンツの制作を担当し、ゴッチの教えを広く伝える手助けをしています。
 
 ### Zeke（ジーク）- テクニカルアーティスト
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
-<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke</a></p>
+<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke（ジーク）">
+<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke（ジーク）</a></p>
 </div>
 
-Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
+ジークはゲームディレクターやフロントエンドチームと密接に連携し、Aavegotchiのアート制作ワークフローを構築しています。 彼はゴッチバースゲームツールとパイプラインを開発し、維持します。 これには、完成したゲームアセットの最適化、ゲームエンジンへの移植、ゴッチバースに命を吹き込むシステムの作成が含まれます。
 
 ### JC（ジェイシー）- ビジネス開発
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
+<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown（ジェイシー・クラウン）">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown（ジェイシー・クラウン）</a></p>
 </div>
 
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
+ジェイシーはビジネス開発ストラテジストであり、ブロックチェーン愛好家です。暗号通貨スペースの最も輝かしい頭脳との接続とネットワーキングの豊富な経験を持っています。 起業家精神に溢れ、自発的なチームプレーヤーである彼は、人間関係の構築、戦略的パートナーシップへの影響力、新しい販売チャネルの開発、ソーシャルメディアとバイラルマーケティングを効果的に活用する才能を発揮しています。 彼の最大の情熱のひとつは、新しい企業を紹介し、宣伝し、その起業を支援することです。 ブロックチェーン技術の破壊的な力に対する揺るぎない信念に基づき、この分野に熱中しています。
 
 ### Webb（ウェッブ）- アンバサダー・リード
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
+<img class="leftImage" src="/team/webb.png" alt = "Webb（ウェッブ）">
+<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb（ウェッブ）</a></p>
 </div>
 
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
-* long walks on the beach
-* his waifu
-* rofls and pepes
-* making frens
-* loving my new bank and breaking up with my old one
+ウェッブの好きなもの：
+* DAOやDeFi
+* 好きなゲームはdota、一番懐かしいゲームはワールド・オヴ・ウォークラフト。
+* ビーチでの長い散歩
+* ワイフ
+* roflsとpepe
+* 友達を作ること
+* 新しい銀行を愛し、古い銀行と別れること。
 
-## Origins - 起源
+## Origins - 原点
 
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+### ドリームチーム集合
+これが、ミームの背後にいるチームだ。  誰がどう見てもドリームチームで、世界制覇を狙う。 次の物語は、このチームがどのように結成されたかを、かなり正確に語っている。  Vanilladelphia.ethのアプレンティスたちによる巧みな描写。
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+時は2011年......いや、2012年かもしれない。  コーダー・ダンは大学生活を終えたばかりで、本当の情熱を追求することを決意しました。  中国のビーチで、キャンディーを売ること。  ダンは、この名誉ある仕事を誰でも、特に彼のような外国人に与えるわけがないことを知っていました。  そこで、主人公は本当の仕事を見つけ、ユーチューブで有名人になることを決意しました。  それから数年後、コーダーダンは海辺に戻る準備をしていました。
 
-"It's time to sell some candy" Said Dan.
+「キャンディーを売る時が来たんだ」とダンは言いました。
 
-And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
+そして、彼はなんというセールスマンだったのでしょう！  残念ながらビーチでキャンディーを売るほどの腕前ではなかったが、この青年は勢いよくベルを鳴らしたので、もう一人の若い観客ジェシー（別名ゴールデンクロス、GldnXross）の目に留まった。  二人はすぐに仲良しになり、一緒にはしゃぎながら、すばらしい音楽を奏でた。  我々にとっては幸いなことに、音楽の世界ではうまくいかず、二人はもっともっと大きな世界へと進んでいくことになるのだが......。
 
-When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+私たちの夢想家たちが、90年代のクラシックなおもちゃを完全にオン・チェーン・バージョンで作ろうと決めたとき、誰もが彼らをクレイジーだと言いました。  しかし、コーダー・ダンは、この話を聞いたことがありましたが、彼らが正しいことを理解していました。  少なくとも自分たちだけではできないことでした。  彼らは最高の、いや、最高の中の最高を必要としていたのだ...しかし、誰が？  「Xibot！」 ダンは即座にそう言った。  「私たちの身近にある古典のエッセンスを取り込める人がいるとすれば、それは彼でなければならない！」。  「しかし、スマートコントラクトはどうだろう」とGldnXrossは言った。  確かに、これらを完全にチェーン上に保存できるような優秀な人物はいないでしょう！」。 「一人いますよ」とダンが言いました。 「この人はスマートコントラクトが大好きで、スマートコントラクトのためにスマートコントラクトを書いているんです。  「待てよ、この人のことは聞いたことがある...」 GldnXrossは言った「ニック・マッジ！」  「それからコミュニティは？」 確かに、スパム野郎をやっつけて、初心者を助けるには、すごい人が必要だ！」。  ダンが顔を上げた。「聖人のような忍耐力と雷神トールのようなハンマーを持つ男がいる」。 その男の名は？ JCクラウン。
 
-So this is how our heroes assembled, some details have been edited for time.
+というわけで、ヒーローたちはこうして集結した。

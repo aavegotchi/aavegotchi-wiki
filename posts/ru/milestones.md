@@ -7,6 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi May Update](https://blog.aavegotchi.com/aavegotchi-may-update/)
+* Our shipppoooorrrsss have been shipping!
+* In May, we shipped the Gotchiverse Land Release, Gotchi UBI, wapGHST staking, GLTR staking, and moar!
+<p></p>
+
+## [Binance now supports GHST deposits/withdrawals on Polygon!](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/)
+* Binance, the world’s largest crypto exchange, has enabled GHST deposits and withdrawals directly on Polygon Mainnet!
+<p></p>
+
 ## [Vote on AGIPs 29 & 30!](https://blog.aavegotchi.com/vote-agip-29-30/)
 * AGIP 29: 24h Windows for Alchemical Channeling
 * AGIP 30: Scheduling Land Auction/Raffle #3 for June

@@ -42,7 +42,7 @@ There are two main categories of tickets:
 * Raffle Tickets
 * Drop Ticket
 
-Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in **Wearable Raffles**.
+Raffle tickets can be subdivided into six different subcategories, ranging from Common (least valuable) to Godlike (most valuable). These are used to participate in [Wearable](/wearables) Raffles or [Aesthetica](/aesthetica) Raffles.
 
 On the other hand, Drop Tickets are used to participate in **NFT Raffles** to win [Portals](/portals) and [REALM Parcels](/metaverse).
 
@@ -54,7 +54,7 @@ Users are allowed to buy tickets belonging to different categories in a single t
 
 ## Entering Raffles
 
-A raffle (both wearable raffles and NFT raffles) runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
+A raffle runs for a period of time. During this period, you can submit your tickets for a chance to win prizes. Submitting tickets into the draw involves a transaction on Polygon; it is not done automatically. If you have many different categories of raffle tickets and wish to enter them together as a bundle, this is also possible. You do **not** need to create separate transactions for entering each category of tickets into the raffle.
 
 When the raffle is over, you can find out what prizes you have won and can claim them.
 
@@ -74,7 +74,7 @@ You can improve your probability of winning by:
 
 Random numbers for the Raffle prize winners are generated through Chainlink's [on-chain verifiable randomness generator](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
-After the raffle has concluded, winners can claim their prizes on Polygon Network and equip their Gotchis with those wearables.
+After the raffle has concluded, winners can claim their prizes on Polygon.
 
 The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
 
