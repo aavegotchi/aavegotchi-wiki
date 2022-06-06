@@ -145,8 +145,8 @@ Crypto.comはモバイルアプリウォレットです。 Crypto.comでPolygon�
 
 ### Binance
 
-バイナンスは、世界最大の暗号通貨取引所の1つです。 Polygonネットワークへの引き出しも提供します。
+Binance is one of the largest cryptocurrency exchanges in the world.
 
-引き出しページで、ネットワークを **MATIC** Polygonに設定します（下のスクリーンショットを参照）。
+As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Withdrawal from Binance to Polygon" />
+<img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon" />
