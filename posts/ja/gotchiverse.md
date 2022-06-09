@@ -238,36 +238,36 @@ table_installations
 
 **こぼれる量**とは、リザーバーからアルケミカを採取する際に、どれくらいの量と距離にアルケミカが溢れるのかが決定されるリザーバーの特性です。 低レベルのリザーバーでは、こぼれる量とこぼれる半径が大きく、アップグレードするとこぼれる量が減少します。
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook%20-%20Latest.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+正確な収穫率、容量、流出率については、[こちら](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook%20-%20Latest.pdf)のレシピブックを参照してください。
 
 **インスタレーションを削除する**
 
-一度区画に追加された設備は、アップグレードや削除が可能です。 To view upgrading cost for existing installations, check out the [recipes page](/recipes).
+一度区画に追加された設備は、アップグレードや削除が可能です。 既存設備のアップグレードコストは、[レシピのページ](/recipes)でご確認ください。
 
-Tiles and [Aesthetica](/aesthetica) are **not burnt** on unequip/removal.
+タイルと[エステティカ](/aesthetica)は、アンイクイップ/リムーバル（装備取り外し）では**バーン（燃焼）**されません。
 
-Installations are **burnt** on unequip/removal. Only 50% of the crafting and upgrading Alchemica will be refunded.
+インスタレーションは、アンイクイップ/リムーバル時に**バーン**されます。 クラフトとアップグレードにかかったアルケミカ費の50％が払い戻されます。
 
 ### クラフティングの収益分配
 
-Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
+ゴッチバース内でインスタレーション、アップグレード、その他のアイテムがクラフトされるたびに、その元となるアルケミカが4つの場所に送られます：
 
 * グレートポータル (35%)
 * ピクセルクラフト(30%)
 * DAO (30%)
 * 削除（バーン）(5%)
 
-**The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
+**グレートポータル**は、ゴッチバースの心臓部です。 ゴッチバースでアイテムが作られるたびに、そのアルケミカの35％がゲーム内で最も重要なポータルに捕獲されます。 グレートポータルの宝庫が膨れ上がると、大予言の日がやってくる...。
 
-*Supply in excess of the capacity will be redistributed via Alchemical Channeling, instead of minting new tokens.*
+*容量を超える供給は、新しいトークンをミントする代わりに、アルケミカルチャネリングによって再分配されます。*
 
-Any Alchemica in excess of the Great Portal Capacity will be recycled back into the ecosystem via Alchemical and Group Channeling, slowing the minting rate for new tokens.
+グレートポータルの容量を超えるアルケミカは、アルケミカルチャネリングとグループチャネリングによってエコシステムに再利用され、新しいトークンのミント速度が遅くなります。
 
-Initially, the Great Portal Capacity will be 1% of total supply, but this can be altered by AavegotchiDAO. Speaking of AavegotchiDAO…
+初めは、グレートポータルの容量は全供給量の1%ですが、AavegotchiDAOによって変更することができます。 AavegotchiDAOといえば...
 
-**AavegotchiDAO**, the governing body of the Aavegotchi Protocol, receives 30% of the crafted Alchemica split. This Alchemica balance represents a powerful opportunity for the community to have a direct stake in treasury management and put these tokens to work on the protocol’s behalf.
+Aavegotchi Protocolの運営団体である**AavegotchiDAO**は、クラフトされたアルケミカの分配金の30％を受け取ります。 このアルケミカの残高は、コミュニティが財務管理に直接関与し、これらのトークンをプロトコルのために働かせる強力な機会を意味します。
 
-**Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
+ゴッチバースの開発会社である**Pixelcraft Studios**も、クラフトされたアルケミカの30％を受け取ります。 These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
