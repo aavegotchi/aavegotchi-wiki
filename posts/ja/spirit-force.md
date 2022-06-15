@@ -36,6 +36,7 @@ Polygonでゴッチを召喚するには、最終的に**maToken/amTokenが必�
 <li><a href=#getting-atokens>aTokenの取得</a></li>
 <li><a href=#converting-atokens-into-matokens>aTokenをmaTokenに変換する</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>maTokenとamTokenの違いについて</a></li>
+<li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
@@ -93,3 +94,20 @@ maTokenとamTokenはどちらも利息が発生します。 ただし、利息�
 * maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するハウント1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
 * amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
+
+## Aura in the Gotchiverse
+
+The larger your Gotchi's Spirit Force, the larger his/her aura in the [Gotchiverse](/gotchiverse).
+
+The calculation for the aura size is as follows:
+
+```
+const radius = Phaser.Math.Clamp(248 + (level * 512) / 100, 124, 1024);
+const intensity = Phaser.Math.Clamp(0.5 + level / 40, 0.5, 3.5);
+
+let attenuation = 0.075;
+if (level <= 10) attenuation = 0.055;
+else if (level <= 20) attenuation = 0.045;
+else if (level <= 50) attenuation = 0.03;
+else attenuation = 0.025;
+```
