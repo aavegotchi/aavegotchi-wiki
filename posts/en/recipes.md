@@ -28,6 +28,8 @@ Crafting [Installations](/gotchiverse#building-on-realm-parcels) and upgrading t
 <li><a href=#le-golden-aaltar>LE Golden Aaltar</a></li>
 <li><a href=#le-golden-tiles>LE Golden Tiles</a></li>
 <li><a href=#maaker>Maaker</a></li>
+<li><a href=#grass>Grass</a></li>
+<li><a href=#rofl-rug>ROFL Rug</a></li>
 </ol>
 
 </div>
@@ -93,3 +95,11 @@ table_goldenTiles
 ## Maaker
 
 table_maaker
+
+## Grass
+
+table_grass
+
+## ROFL Rug
+
+table_roflRug

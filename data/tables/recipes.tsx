@@ -255,5 +255,27 @@ export const tables
 					["9", "42500", "10500", "16000", "8500", "200000", "10"]
                 ]
             }
-        }
+        },
+		{
+            tableName: "grass",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["LE Purple Grass", "1", "200", "0", "0", "5", "Instant"],
+					["LE Cyan Grass", "1", "200", "0", "10", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "roflRug",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["LE Mythical ROFL Rug", "1", "3000", "1000", "5000", "2000", "Instant"],
+					["LE Godlike ROFL Rug", "1", "15000", "5000", "25000", "10000", "Instant"]
+                ]
+            }
+        },
     ]
