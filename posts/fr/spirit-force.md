@@ -36,6 +36,7 @@ Notez que vous allez **avoir besoin de jetons maTokens/amTokens** pour invoquer 
 <li><a href=#getting-atokens>Obtenir des jetons (atoken)</a></li>
 <li><a href=#converting-atokens-into-matokens>Convertir vos jetons aToken en jeton maToken</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>Différences entre les jetons maTokens et amTokens</a></li>
+<li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
@@ -93,3 +94,20 @@ Les jetons maTokens et amTokens vous donnes des intérêts. Cependant, *la faço
 * Les jetons maTokens augmente de **valeur** au fil du temps. Cela s'applique aux portails Haunt 1 d'Aavegotchis qui utilisent des jetons maTokens. La valeur des maTokens augmente, mais comme la quantité ne change pas, Il n'est pas possible de retirer des maTokens du Gotchis à moins que vous ne sacrifiez votre Gotchi pour obtenir la garantie sous-jacente.
 
 * Les jetons amTokens augmentent en **quantité** au fil du temps. Cela s'applique aux portails d'Aavegotchis à partir de la Haunt 2 et plus. Les intérêts accumulés sont reflétés en quantité. Il est donc possible de retirer amTokens une fois qu'un intérêt suffisant a été généré.
+
+## Aura in the Gotchiverse
+
+The larger your Gotchi's Spirit Force, the larger his/her aura in the [Gotchiverse](/gotchiverse).
+
+The calculation for the aura size is as follows:
+
+```
+const radius = Phaser.Math.Clamp(248 + (level * 512) / 100, 124, 1024);
+const intensity = Phaser.Math.Clamp(0.5 + level / 40, 0.5, 3.5);
+
+let attenuation = 0.075;
+if (level <= 10) attenuation = 0.055;
+else if (level <= 20) attenuation = 0.045;
+else if (level <= 50) attenuation = 0.03;
+else attenuation = 0.025;
+```
