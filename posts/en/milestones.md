@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [More Aesthetica to craft!](https://blog.aavegotchi.com/crafting-wednesdays-are-coming-to-the-gotchiverse/)
+* Beautify your REALM parcels with Grass and Rugs
+* Each design will be released on Crafting Wednesdays
+<p></p>
+
 ## [Aavegotchi May Update](https://blog.aavegotchi.com/aavegotchi-may-update/)
 * Our shipppoooorrrsss have been shipping!
 * In May, we shipped the Gotchiverse Land Release, Gotchi UBI, wapGHST staking, GLTR staking, and moar!
