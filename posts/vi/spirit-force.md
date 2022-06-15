@@ -36,6 +36,7 @@ Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotc
 <li><a href=#getting-atokens>Sở hữu aToken</a></li>
 <li><a href=#converting-atokens-into-matokens>Chuyển đổi aToken thành maToken</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>Sự khác nhau giữa maToken và amToken</a></li>
+<li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
@@ -93,3 +94,20 @@ Cả maToken và amToken đều sinh lãi. Tuy nhiên, *các thức* sinh lãi c
 * maTokens tăng **giá trị** theo thời gian. Điều này đúng với Aavegotchi trong Haunt 1, với việc chúng sử dụng maToken. Giá trị của maToken tăng lên, nhưng số lượng không đổi, không thể rút maToken từ Gotchi, trừ khi bạn hiến tế Gotchi để lấy tài sản thế chấp.
 
 * maTokens tăng **giá trị** theo thời gian. Điều này đúng với những Aavegotchi trong Haunt 2 và những thế hệ sau. Lợi nhuận sinh ra được phản ảnh qua số lượng. Do đó, có thể ruát amToken khi đã đủ số lượng nhất định.
+
+## Aura in the Gotchiverse
+
+The larger your Gotchi's Spirit Force, the larger his/her aura in the [Gotchiverse](/gotchiverse).
+
+The calculation for the aura size is as follows:
+
+```
+const radius = Phaser.Math.Clamp(248 + (level * 512) / 100, 124, 1024);
+const intensity = Phaser.Math.Clamp(0.5 + level / 40, 0.5, 3.5);
+
+let attenuation = 0.075;
+if (level <= 10) attenuation = 0.055;
+else if (level <= 20) attenuation = 0.045;
+else if (level <= 50) attenuation = 0.03;
+else attenuation = 0.025;
+```
