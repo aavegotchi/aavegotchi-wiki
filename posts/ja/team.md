@@ -39,14 +39,13 @@ contributors:
 <p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon（ムーン）- パートナーシップの責任者</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan（ショハン）- ゴッチバース・フロントエンド</a></p>
-<p><a href=#coyote---dev-evangelist---ui>Coyote（コヨーテ）- デベロッパー・エバンジェリスト / UI</a></p>
-<p><a href=#candoizo---frontend>Candoizo（カンドイゾ）- フロントエンド</a></p>
-<p><a href=#wit1990---senior-solidity-engineer>Wit1990（ウィット1990）- シニアSolidityエンジニア</a></p>
-<p><a href=#mori---solidity-developer>Mori（モリ）- Solidityデベロッパー</a></p>
-<p><a href=#thrax---media-production>Thrax（スラックス）- メディアプロダクション</a></p>
-<p><a href=#zeke---technical-artist>Zeke（ジーク）- テクニカルアーティスト</a></p>
-<p><a href=#jc---business-development>JC（ジェイシー）- ビジネス開発</a></p>
-<p><a href=#webb---aambassador-lead>Webb（ウェッブ）- アンバサダー・リード</a></p>
+<p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
+<p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
+<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
+<p><a href=#jc---business-development>JC - Business Development</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins - 起源</a></li>
 </ol>
 
@@ -187,80 +186,71 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 
 私は、プロのゲーム開発者、5年以上の経験を持って、私はゲームプレイのプログラミング、ゲーム開発の様々な側面へのバックエンドプログラミングの仕事の経験を持っているショハンと申します。 Stillfront (Moonfrog Labs)のようなトップゲームスタジオで働いた経験があります。 コンピュータサイエンスの修士号を取得しています。 私は、主にフレンズが歩き回り、探索し、楽しめるレルムのフロントエンドゲームプレイに携わっています。
 
-### Coyote（コヨーテ）- デベロッパー・エバンジェリスト / UI
+### Candoizo - Frontend
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Coyote（コヨーテ）">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote（コヨーテ）</a></p>
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
+<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-ミドルネームが「コヨーテ（Coyote）」であることから「ケイレブ（Caleb）」と呼ばれる彼は、2021年初頭にこの戦いに加わりました。 彼のキャリアは、UI/UXデザイナーとしてスタートアップで始まり、最終的にはフロントエンド開発を専門にするように移行しました。 Coyoteは、Aavegotchiのサードパーティアプリの開発を通じて、ブロックチェーンに夢中になりました。 ブロックチェーンに目覚めたコヨーテの目標は、他の開発者たちとこの目覚めを共有し、次世代のウェブエンジニアを生み出すことです。
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
-### Candoizo（カンドイゾ）- フロントエンド
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+
+### Wit1990 - Senior Solidity Engineer
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo（カンドイゾ）">
-<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo（カンドイゾ）</a></p>
+<img class="leftImage" src="/team/wit1990.jpg" alt = "Witt1990">
+<p class="leftImageText"><a>Witt1990</a></p>
 </div>
 
-カンドイゾ（Candoizo）はソフトウェア開発者で、Aavegotchiに嵐を巻き起こすビルダーコミュニティーを簡単にすることに専念しています。 彼の経験は、侵入テストやコミュニティ主導のプロジェクトなど様々ですが、全ては人々のために何かを壊さないようにしたいという気持ちからきています。
+William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
 
-カナダの荒野で競技ゲームと伝説的なツールの構築に没頭して育ったことがうかがえます。 Hauntgg、CoinVanity、そしてiOSのような過去のプロジェクトでは、この事実の起源を証明する友人には事欠かないでしょう。 次回のエピソードでは、伝説のトレーナーであるコーダー・ダンが、画期的なゲームコンセプトと傑出したコミュニティを使って、Pixelcraftチームのために彼のハートとスキルを獲得することができたのです!
 
-### Wit1990（ウィット1990）- シニアSolidityエンジニア
+### Mori - Solidity Developer
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/wit1990.jpg" alt = "Wit1990（ウィット1990）">
-<p class="leftImageText"><a>Wit1990（ウィット1990）</a></p>
+<img class="leftImage" src="/team/mori.jpg" alt = "Mori">
+<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-ウィリアム（William）は2021年5月にAavegotchiに入社しました。 ブロックチェーンスタートアップで4年間業務経験を積み、テクノロジーベースのビジネスを一から構築し、拡大することに貢献してます。 プロのスマートコントラクトエンジニアとして、スマートコントラクトをアイデアのみから設計・実装することを楽しんでます。 入社後、ハウント2、ゴッチレンディング、ERC721購入オーダーなど、多くのコア機能に携わってます。
+Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-
-### Mori（モリ）- Solidityデベロッパー
+### Thrax - Media Production
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/mori.jpg" alt = "Mori（モリ）">
-<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori（モリ）</a></p>
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
 </div>
 
-パトリック・キム（Patrick Kim）別名モリは、ロサンゼルス出身の駆け出しのデフィゲンとSolidityの開発者です。 彼はプーコインで大金を失った後にAavegotchiを見つけ、清算人に捧げられるNFTの努力の量に触発されました。 集中力のなさを物語るように、以前は統計学者、その前は航空機の整備士でした。 アニメを見るのは筋書きのためで、数年前にDotAをプレイしたときは、強要されないサポートプレイヤーでした。 暇なときは、coderdanに自分の好きな機能の出荷時期についてしつこく質問するのが好きです。
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
-### Thrax（スラックス）- メディアプロダクション
+### Zeke - Technical Artist
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/thrax.png" alt = "Thrax（スラックス）">
-<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax（スラックス）</a></p>
+<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
+<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke</a></p>
 </div>
 
-中東の神秘的な土地出身のThraxは、グラフィックデザインでキャリアをスタートさせたミックスメディアコンテンツクリエイターとVFXアーティストです。 グラフィックデザインでキャリアをスタートさせましたが、コーポラティブな生活は性に合わないと感じ、映像制作に移行し、幸運にも世界中のクライアントと仕事をすることができました。 数年後、どういうわけか彼はAavegotchiの土地オークションに参加することになりました。 現在、スラックスは召喚者が必要とするあらゆるビジュアルコンテンツの制作を担当し、ゴッチの教えを広く伝える手助けをしています。
+Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
 
-### Zeke（ジーク）- テクニカルアーティスト
+### JC - Business Development
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke（ジーク）">
-<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke（ジーク）</a></p>
+<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-ジークはゲームディレクターやフロントエンドチームと密接に連携し、Aavegotchiのアート制作ワークフローを構築しています。 彼はゴッチバースゲームツールとパイプラインを開発し、維持します。 これには、完成したゲームアセットの最適化、ゲームエンジンへの移植、ゴッチバースに命を吹き込むシステムの作成が含まれます。
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### JC（ジェイシー）- ビジネス開発
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown（ジェイシー・クラウン）">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown（ジェイシー・クラウン）</a></p>
+<img class="leftImage" src="/team/webb.png" alt = "Webb">
+<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-ジェイシーはビジネス開発ストラテジストであり、ブロックチェーン愛好家です。暗号通貨スペースの最も輝かしい頭脳との接続とネットワーキングの豊富な経験を持っています。 起業家精神に溢れ、自発的なチームプレーヤーである彼は、人間関係の構築、戦略的パートナーシップへの影響力、新しい販売チャネルの開発、ソーシャルメディアとバイラルマーケティングを効果的に活用する才能を発揮しています。 彼の最大の情熱のひとつは、新しい企業を紹介し、宣伝し、その起業を支援することです。 ブロックチェーン技術の破壊的な力に対する揺るぎない信念に基づき、この分野に熱中しています。
-
-### Webb（ウェッブ）- アンバサダー・リード
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb（ウェッブ）">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb（ウェッブ）</a></p>
-</div>
-
-ウェッブの好きなもの：
+Things Webb loves:
 * DAOやDeFi
 * 好きなゲームはdota、一番懐かしいゲームはワールド・オヴ・ウォークラフト。
 * ビーチでの長い散歩
@@ -271,15 +261,15 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 
 ## Origins - 原点
 
-### ドリームチーム集合
-これが、ミームの背後にいるチームだ。  誰がどう見てもドリームチームで、世界制覇を狙う。 次の物語は、このチームがどのように結成されたかを、かなり正確に語っている。  Vanilladelphia.ethのアプレンティスたちによる巧みな描写。
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-時は2011年......いや、2012年かもしれない。  コーダー・ダンは大学生活を終えたばかりで、本当の情熱を追求することを決意しました。  中国のビーチで、キャンディーを売ること。  ダンは、この名誉ある仕事を誰でも、特に彼のような外国人に与えるわけがないことを知っていました。  そこで、主人公は本当の仕事を見つけ、ユーチューブで有名人になることを決意しました。  それから数年後、コーダーダンは海辺に戻る準備をしていました。
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-「キャンディーを売る時が来たんだ」とダンは言いました。
+"It's time to sell some candy" Said Dan.
 
-そして、彼はなんというセールスマンだったのでしょう！  残念ながらビーチでキャンディーを売るほどの腕前ではなかったが、この青年は勢いよくベルを鳴らしたので、もう一人の若い観客ジェシー（別名ゴールデンクロス、GldnXross）の目に留まった。  二人はすぐに仲良しになり、一緒にはしゃぎながら、すばらしい音楽を奏でた。  我々にとっては幸いなことに、音楽の世界ではうまくいかず、二人はもっともっと大きな世界へと進んでいくことになるのだが......。
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-私たちの夢想家たちが、90年代のクラシックなおもちゃを完全にオン・チェーン・バージョンで作ろうと決めたとき、誰もが彼らをクレイジーだと言いました。  しかし、コーダー・ダンは、この話を聞いたことがありましたが、彼らが正しいことを理解していました。  少なくとも自分たちだけではできないことでした。  彼らは最高の、いや、最高の中の最高を必要としていたのだ...しかし、誰が？  「Xibot！」 ダンは即座にそう言った。  「私たちの身近にある古典のエッセンスを取り込める人がいるとすれば、それは彼でなければならない！」。  「しかし、スマートコントラクトはどうだろう」とGldnXrossは言った。  確かに、これらを完全にチェーン上に保存できるような優秀な人物はいないでしょう！」。 「一人いますよ」とダンが言いました。 「この人はスマートコントラクトが大好きで、スマートコントラクトのためにスマートコントラクトを書いているんです。  「待てよ、この人のことは聞いたことがある...」 GldnXrossは言った「ニック・マッジ！」  「それからコミュニティは？」 確かに、スパム野郎をやっつけて、初心者を助けるには、すごい人が必要だ！」。  ダンが顔を上げた。「聖人のような忍耐力と雷神トールのようなハンマーを持つ男がいる」。 その男の名は？ JCクラウン。
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-というわけで、ヒーローたちはこうして集結した。
+So this is how our heroes assembled, some details have been edited for time.
