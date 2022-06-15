@@ -139,8 +139,8 @@ Crypto.com là một ứng dụng ví trên điện thoại. Họ cho phép rút
 
 ### Binance
 
-Binance là một trong những sàn giao dịch lớn nhất thế giới. Họ cũng cho phép rút sang Polygon.
+Binance là một trong những sàn giao dịch lớn nhất thế giới.
 
-Tại trang rút tiền, hãy chọn Network là **MATIC** Polygon (xem ảnh chụp màn hình bên dưới).
+Vào ngày 31 tháng Năm 2022, họ đã [cho phép nạp và rút GHST trực tiếp từ Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Rút từ Binance sang Polygon" />
+<img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="Rút từ Binance sang Polygon" />

@@ -39,14 +39,13 @@ Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. 
 <p><a href=#gravy---marketing-director>Gravy - Marketing Directeur</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Hoofd van Paartnerships</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
-<p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
-<p><a href=#mori---solidity-developer>Mori - Solidity Ontwikkelaar</a></p>
-<p><a href=#thrax---media-production>Thrax - Media Productie</a></p>
-<p><a href=#zeke---technical-artist>Zeke - Technische Artiest</a></p>
+<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Ambassadeur Lead</a></p>
+<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Oorsprong</a></li>
 </ol>
 
@@ -187,15 +186,6 @@ Moon is het Hoofd van Paartnerships. Galaxy hersenen. Beste bot in aavegotchi. G
 
 Ik ben Shohan, professionele game-ontwikkelaar, met meer dan 5+ jaar ervaring. Ik heb werkervaring in gameplay programmering, backend programmeren naar verschillende aspecten van spelontwikkeling. Ik heb gewerkt voor enkele top game studio's zoals Stillfront (Moonfrog Labs). Ik heb een Meester graad in Informatica. Ik werk in REALM frontend gameplay voornamelijk waar frens rond kunnen lopen, verkennen en leuk kunnen maken.
 
-### Coyote - Dev evangelist / UI
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
-</div>
-
-Caleb, Coyote genoemd omdat dat zijn tweede naam was, voegde zich begin 2021 aan het team toe. Zijn carrière begon in startups als een UI/UX ontwerper dat uiteindelijk overging naar specialisatie in frontend ontwikkeling. Coyote heeft de blockchain bug gepakt door derde partijen apps te ontwikkelen voor Aavegotchi. Zijn doel is nu om dit ontwaken te delen met andere ontwikkelaars om de volgende generatie webingenieurs te creëren!
-
 ### Candoizo - Frontend
 
 <div class="leftImageContainer">
@@ -203,9 +193,9 @@ Caleb, Coyote genoemd omdat dat zijn tweede naam was, voegde zich begin 2021 aan
 <p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
 </div>
 
-Candoizo, aka candoizo, is een softwareontwikkelaar die het makkelijk maakt voor de community van bouwers om Aavegotchi door storm mee te nemen! Zijn ervaring varieert van tijd tot tijd als een penetratietester en het opbouwen van projecten die door de gemeenschap worden aangedreven en die allemaal voortkomen uit een drang naar openbrekende zaken voor de bevolking.
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
 
-Uit de geschiedenis blijkt dat hij in de Canadese wilde natuur is opgegroeid. Hij heeft zich ingezet voor het bouwen van legendarische gereedschappen. Met projecten uit het verleden zoals Hauntgg, CoinVanity, en alle andere iOS, is er geen gebrek aan vrienden die zouden bevestigen aan dit feitelijke origine-verhaal. In de volgende aflevering was onze legendarische trainer Coder Dan in staat om zijn hart en vaardigheid te veroveren voor het team Pixelcraft met behulp van zijn grondbrekende spelconcept en standout gemeenschap!
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
 
 ### Wit1990 - Senior Solidity Engineer
 
@@ -214,35 +204,35 @@ Uit de geschiedenis blijkt dat hij in de Canadese wilde natuur is opgegroeid. Hi
 <p class="leftImageText"><a>Witt1990</a></p>
 </div>
 
-William heeft Aavegotchi toegetreden in mei 2021. Werk ervaringen met blockchain-startups voor 4 jaar, om technologiegebaseerde bedrijven vanaf de grond te bouwen en uit te breiden. Als professioneel smart contract ingenieur geniet hij van de architectuur en implementeert hij smart contracten op basis van ideeën. Na lid te worden, werkte hij voor veel kern functies - haunt 2, gotchi lending, ERC721 buy order.
+William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
 
 
-### Mori - Solidity Ontwikkelaar
+### Mori - Solidity Developer
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/mori.jpg" alt = "Mori">
 <p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
 </div>
 
-Patrick Kim, aka Mori is een baanbrekende defi degen en solidity ontwikkelaar van Los Angeles. Hij vond Aavegotchi nadat hij een hoop geld verloren had in poocoins, en werd geïnspireerd door de hoeveelheid inspanning die wordt besteed aan NFT's bestemd voor de liquiditeiten. In het verleden was hij een statisticus en eerder een vliegtuig mechanieker. Hij kijkt naar anime voor de plots en was een bereidwillige ondersteunende speler die niet onder druk stond toen hij DotA jaren geleden speelde. In zijn vrije tijd vraagt hij graag voortdurend naar coderdan over wanneer zijn favoriete functies te verzenden.
+Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
-### Thrax - Media Productie
+### Thrax - Media Production
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/thrax.png" alt = "Thrax">
 <p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
 </div>
 
-Komende uit het mysterieuze Midden-Oosten, Thrax is een maker van gemengde media-inhoud en een VFX artiest die zijn carrière in grafisch ontwerp begon. Na snel te hebben ontdekt dat hij het corpo feest niet smaakte, is hij overgestapt naar de productie van video, en had geluk genoeg om met klanten over de hele wereld te werken. Een paar jaar ging voorbij en op de een of andere manier vond hij zijn weg naar de veiling van Aavegotchi. Tegenwoordig is Thrax verantwoordelijk voor het maken van welke visuele inhoud onze oproermakers ook nodig hebben, door het verspreiden van het Gotchi Gospel verreweg en breed.
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
-### Zeke - Technische Artiest
+### Zeke - Technical Artist
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
 <p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke</a></p>
 </div>
 
-Zeke werkt nauw samen met de speldirecteur en het frontend team om Aavegotchi's kunstproductie workflow te creëren. Hij ontwikkelt en onderhoudt de Gotchiverse spelinstrumenten en -pijpleidingen. Dit omvat het optimaliseren van voltooide spelactiva, het aan de spelmotor overdragen en systemen creëren die het Gotchiverse tot leven brengen.
+Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
 
 ### JC - Business Development
 
@@ -251,16 +241,16 @@ Zeke werkt nauw samen met de speldirecteur en het frontend team om Aavegotchi's 
 <p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
 
-Jc is een business development strateeg en blockchainliefhebber, met een schat aan ervaring in het verbinden en netwerken met enkele van de slimste geesten in de cryptovaluta-ruimte. Hij heeft aangetoond talent te hebben voor het opbouwen van relaties, voor het beïnvloeden van strategische partnerschappen. het ontwikkelen van nieuwe verkoopkanalen, het gebruik van sociale media en virale marketing met opmerkelijke effectiviteit. Een van zijn grootste passies is het introduceren en bevorderen van nieuwe bedrijven en het ondersteunen van hun startende ondernemingen. Zijn enthousiasme voor de ruimte is gebaseerd op een onwrikbaar geloof in de verstorende kracht van blockchain-technologie.
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-### Webb - Ambassadeur Lead
+### Webb - Aambassador Lead
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/webb.png" alt = "Webb">
 <p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
 </div>
 
-Dingen die Webb leuk vind:
+Things Webb loves:
 * dao's en defi
 * videogames, favoriet spel is dota, het nostalgische spel is World of Warcraft
 * lange wandelingen op het strand
@@ -271,15 +261,15 @@ Dingen die Webb leuk vind:
 
 ## Oorsprong
 
-### Het Droom Team Komt Samen
-Dit is het team, achter de meme.  Een droomteam volgens eender welke maatstaf staat op het punt de wereld over te nemen. Het volgende verhaal is een vrij nauwkeurig overzicht van de manier waarop het team samenkwam.  Artsen stilgeplakt door Vanilladelphia.eth Aapprentice et al.
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Het jaar was 2011... of misschien 2012.  Coder Dan had net zijn studies voltooid, toen hij besloot zijn echte passie voort te zetten.  Verkopen van snoep op een strand in China.  Dan wist dat ze deze voorbarige baan niet zomaar aan een schlub zouden overhandigen, vooral aan een buitenlander zoals hij.  Dat is wanneer onze held beslist dat hij beter een echte baan kan krijgen, en een Youtube beroemdheid... en dat is precies wat hij deed.  Na een paar jaar snel vooruit en jonge Coderdan was het klaar om terug te gaan naar het strand.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-"Het is tijd om wat snoep te verkopen" Zoet Dan.
+"It's time to sell some candy" Said Dan.
 
-En wat een verkoper was hij!  Hoewel hij helaas niet goed genoeg was om snoep te verkopen op het strand, De jongeman stak zo energiek zijn bel vast met het oog van een andere jonge toeschouwer van Jesse, AKA GldnXross.  De twee werden snel frens, samen gekibbel en het maken van geweldige muziek.  Gelukkig slaagde de maiyatang er niet uit, en het duo ging door met veel grotere dingen...
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
 
-Toen onze dromers besloten dat ze een volledig onchain versie van het klassieke speelgoed van de jaren negentig zouden maken, noemde iedereen ze waanzinnig.  Maar Coder Dan had dit al eerder gehoord, maar hij wist dat hij gelijk HAD.  ze konden dit niet doen, althans niet alleen.  Ze hadden de beste, nacht, het beste van de best... maar wie dan wel?  "Xibot!" Dan zei onmiddellijk.  Als er iemand is die de essentie van een klassieke zo nabij en ons hart dierbaar is, dan moet het hem zijn!”.  "Hmm, maar hoe zit het met smart contracten?" zei GldnXross.  Er is toch niemand die goed genoeg is om deze dingen VOLLEDIG onchain op te slaan! "Er is één persoon" zei Dan. "Deze man houdt zo veel van smart contracts, dat hij smart contracten schrijft voor smart contracten."  "Wacht even, ik heb van deze kerel..." gehoord GldnXross "Nick Mudge!"  "En Gemeenschap? We hebben toch iemand nodig die de spammers geweldig de kop opsteekt en de noobs helpt!"  Dan keek om... "Er is iets te zeggen over een man, met het geduld van een heilige en de banhamer van Thor." De naam van die man? JC Crown.
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
-Dus dit is hoe onze helden bijeen zijn gekomen, enkele details zijn voor een bepaalde tijd gewijzigd.
+So this is how our heroes assembled, some details have been edited for time.

@@ -139,8 +139,8 @@ Crypto.com est un portefeuille d'applications mobiles. Ils permettent le retrait
 
 ### Binance
 
-Binance est l'un des plus grands changes de cryptomonnaies au monde. Ils offrent également des retraits sur le réseau Polygon.
+Binance is one of the largest cryptocurrency exchanges in the world.
 
-À la page de retrait, réglez le réseau sur le Polygon **MATIC** (voir la capture d'écran ci-dessous).
+As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-<img class="bodyImage" src="/bridge/withdrawal-from-binance-to-polygon.png" alt="Retrait sur Binance pour Polygon" />
+<img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon" />

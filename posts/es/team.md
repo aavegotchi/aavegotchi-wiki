@@ -39,7 +39,6 @@ contributors:
 <p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
 <p><a href=#moon---head-of-paartnerships>Moon - Jefe de Asociaciones</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
-<p><a href=#coyote---dev-evangelist---ui>Coyote - Dev evangelist / UI</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
@@ -186,15 +185,6 @@ Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Ga
 </div>
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
-
-### Coyote - Dev evangelist / UI
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/coyote.png" alt = "Coyote">
-<p class="leftImageText"><a href="https://twitter.com/ccoyotedev" target="_blank">Coyote</a></p>
-</div>
-
-Caleb, dubbed Coyote due to that being his middle name, joined the fray in early 2021. His career started in startups as a UI/UX designer until eventually transitioning to specialising in front end development. Coyote caught the blockchain bug through developing third party apps for Aavegotchi. His goal now is to share this awakening with other developers to create the next generation of web engineers!
 
 ### Candoizo - Frontend
 
