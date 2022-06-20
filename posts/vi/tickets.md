@@ -42,7 +42,7 @@ Có 2 loại vé:
 * Vé Raffle
 * Vé Drop
 
-Vé raffle có thể chi làm 6 loại nhỏ, từ Common (giá trị thấp nhất) đến Godlike (giá trị cao nhất). These are used to participate in [Wearable](/wearables) Raffles or [Aesthetica](/aesthetica) Raffles.
+Vé raffle có thể chi làm 6 loại nhỏ, từ Common (giá trị thấp nhất) đến Godlike (giá trị cao nhất). Chúng được dùng để tham gia Xổ số [Trang Phục](/wearables) hoặc [Đồ Trang Trí](/aesthetica).
 
 Cũng có một loại Vé Drop riêng được dùng để tham gia vào **NFT Raffles** để giành [Portals](/portals) và [REALM Parcels](/metaverse).
 
@@ -54,7 +54,7 @@ Người dùng được cho phép để mua nhiều loại vé khác nhau trong 
 
 ## Tham gia Raffle
 
-A raffle runs for a period of time. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
+Raffle sẽ diễn ra trong một giai đoạn thời gian. Trong giai đoạn này, bạn có thể tham gia với vé raffle của mình để có cơ hội thắng giải. Để tham gia quay số, bạn cần phải thực hiện một giao dịch Ethereum; bởi nó sẽ không diễn ra một cách tự động. Nếu bạn có nhiều loại vé raffle khác nhau và muốn mua chúng cùng lúc thì việc này là hoàn toàn có thể. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
 Một khi sự kiện raffle kết thúc, bạn có thể tìm thấy giải thưởng mà mình thắng được và nhận chúng.
 
