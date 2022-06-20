@@ -261,10 +261,10 @@ Things Webb loves:
 
 ## Team Gốc
 
-### The Dream Team Assembles
-This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
+### Đội Nhóm Không Tưởng Tập Hợp
+Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
 
-The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
+Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
 
 "It's time to sell some candy" Said Dan.
 
