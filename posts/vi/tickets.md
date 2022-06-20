@@ -74,7 +74,7 @@ Bạn có thể cải thiện khả năng thắng giải bằng cách:
 
 Những con số thằng giải Raffle ngẫu nhiên được quay ra từ [phần mềm quay số ngẫu nhiên on-chain đã được chứng nhận](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) của Chainlink.
 
-After the raffle has concluded, winners can claim their prizes on Polygon.
+Sau khi sự kiện xổ số kết thúc, người chiến thắng có thể nhận giải trên mạng Polygon.
 
 Cả quá trình stake GHST và thắng giải có thể dược mô tả bằng cách sử dụng infographic sau đây:
 
