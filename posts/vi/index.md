@@ -35,8 +35,8 @@ Hãy đến ngay phần [Giới thiệu](/introduction) để xem qua một bài
 ## Litepaper
 
 * [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- Litepaper Gốc tóm tắt lại những điểm chính về dự án Aavegotchi
-* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
-* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
+* [Aavegotchi Whitepaper bản 1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- Aavegotchi Whitepaper mang đến một tầm nhìn sâu về dự án
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- Litepaper mới nhất giới thiệu về Gotchiverse sắp được ra mắt, nơi mà Gotchi có thể vui chơi và phiêu lưu
 
 ## Đóng Góp
 
