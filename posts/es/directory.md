@@ -141,4 +141,6 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Equipables](/wearables)
 
+* [Wearables Taask Force](/wearables-taask-force)
+
 * [XP](/xp)
