@@ -41,6 +41,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [AavegotchiDAO](/dao)
 
+* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+
 * [Developers](/developers)
 
 * [Fincas](/estaates)
