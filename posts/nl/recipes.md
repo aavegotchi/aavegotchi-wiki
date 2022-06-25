@@ -29,6 +29,8 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 <li><a href=#le-golden-aaltar>LE Gouden Aaltar</a></li>
 <li><a href=#le-golden-tiles>LE Gouden tegels</a></li>
 <li><a href=#maaker>Maaker</a></li>
+<li><a href=#grass>Grass</a></li>
+<li><a href=#rofl-rug>ROFL Rug</a></li>
 </ol>
 
 </div>
@@ -94,3 +96,11 @@ tafel_goldentegels
 ## Maaker
 
 tafel_maaker
+
+## Grass
+
+table_grass
+
+## ROFL Rug
+
+table_roflRug

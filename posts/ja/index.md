@@ -35,7 +35,8 @@ Aavegotchiのゲームの概要については、「[はじめに](/introduction
 ## ライトペーパーズ
 
 * [Aavegotchi ライトペーパー](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- Aavegotchiプロジェクトの要点をまとめたオリジナルライトペーパー
-* [Aavegotchi レアルム ライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- ゴッチたちが戯れ、冒険する、これからのゴッチバースを紹介する最新ライトペーパー
+* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
 
 ## 貢献する
 
