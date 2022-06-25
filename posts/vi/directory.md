@@ -141,4 +141,6 @@ contributors:
 
 * [Wearables](/wearables)
 
+* [Wearables Taask Force](/wearables-taask-force)
+
 * [XP](/xp)
