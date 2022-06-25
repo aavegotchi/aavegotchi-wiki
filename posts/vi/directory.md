@@ -41,11 +41,13 @@ contributors:
 
 * [AavegotchiDAO](/dao)
 
-* [Các Nhà Phát Triển](/developers)
+* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+
+* [Developers](/developers)
 
 * [Estaates](/estaates)
 
-* [Hình Dạng Mắt](/eye-shape)
+* [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
 
@@ -69,7 +71,7 @@ contributors:
 
 * [Haunt](/haunt)
 
-* [Trang Chủ](/index)
+* [Home](/index)
 
 * [Giới thiệu](/introduction)
 
@@ -85,7 +87,7 @@ contributors:
 
 * [Lịch sử phát triển](/milestones)
 
-* [Mini-games](/minigames)
+* [Mini-Games](/minigames)
 
 * [Sự Kiện XP Minigame](/minigame-xp-events)
 
@@ -101,7 +103,7 @@ contributors:
 
 * [Portals](/portals)
 
-* [Dự Liệu Về Sự Kiện Raffle Trong Quá Khứ](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -111,13 +113,13 @@ contributors:
 
 * [Roadmap](/roadmap)
 
-* [Bộ Trang Phục](/sets)
+* [Sets](/sets)
 
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
 * [Linh Lực](/spirit-force)
 
-* [Lịch Sử Linh Lực](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
 
@@ -129,11 +131,11 @@ contributors:
 
 * [Tokenomics](/tokenomics)
 
-* [Quy Đổi Chỉ Số Trait](/trait-mappings)
+* [Trait Mappings](/trait-mappings)
 
 * [Traits](/traits)
 
-* [Hướng Dẫn](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI Collection](/ugotchi)
 
