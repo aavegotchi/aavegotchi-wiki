@@ -141,4 +141,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [ウェアラブル](/wearables)
 
+* [Wearables Taask Force](/wearables-taask-force)
+
 * [XP](/xp)
