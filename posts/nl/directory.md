@@ -41,11 +41,13 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [AavegotchiDAO](/dao)
 
-* [Ontwikkelaars](/developers)
+* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+
+* [Developers](/developers)
 
 * [Estaates](/estaates)
 
-* [Oogvorm](/eye-shape)
+* [Eye Shape](/eye-shape)
 
 * [Veelgestelde Vragen](/faq)
 
@@ -69,7 +71,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Haunt](/haunt)
 
-* [Startpagina](/index)
+* [Home](/index)
 
 * [Introductie](/introduction)
 
@@ -101,7 +103,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Portalen](/portals)
 
-* [Lotterij Statistieken](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
 * [Rarity Farming](/rarity-farming)
 
@@ -117,7 +119,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Spirit Force](/spirit-force)
 
-* [Spirit Force Geschiedenis](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [Staken](/staking)
 
@@ -133,7 +135,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Eigenschappen](/traits)
 
-* [Handleidingen](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI Collectie](/ugotchi)
 
