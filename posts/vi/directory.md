@@ -41,7 +41,7 @@ contributors:
 
 * [AavegotchiDAO](/dao)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+* [Biệt Đội Ngân Quỹ DAO](/dao-treasury-taask-force)
 
 * [Developers](/developers)
 
