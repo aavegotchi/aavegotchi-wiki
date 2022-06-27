@@ -48,15 +48,15 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO</a></li>
 <li><a href=#24h-windows-for-alchemical-channeling>Khung Thời Gian 24h Để Truyền Khoáng Sản</a></li>
 <li><a href=#scheduling-land-auction-raffle--3-for-june>Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu</a></li>
-<li><a href=#launch-of-rf-szn-4>Launch of RF Szn 4</a></li>
-<li><a href=#use-dyst-voting-power-to-support-vqi-qi-on-dystopia>Use DYST voting Power to Support vQi-Qi on Dystopia</a></li>
-<li><a href=#change-harvester-recipes>Change Harvester Recipes</a></li>
-<li><a href=#aavegotchidao----pixelcraft-studios-1-75m-dai-token-swap>AavegotchiDAO <> Pixelcraft Studios 1.75M DAI Token Swap</a></li>
-<li><a href=#delay-the-3rd-land-auction>Delay the 3rd LAND Auction</a></li>
-<li><a href=#utilizing-the-channeling--hot-zone->Utilizing the Channeling “Hot Zone”</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
-<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
-<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
+<li><a href=#launch-of-rf-szn-4>Triển Khai RF Mùa 4</a></li>
+<li><a href=#use-dyst-voting-power-to-support-vqi-qi-on-dystopia>Dùng DYST Để Hỗ Trợ Cặp vQi-Qi trên Dystopia</a></li>
+<li><a href=#change-harvester-recipes>Đổi Công Thức Máy Thu Hoạch</a></li>
+<li><a href=#aavegotchidao----pixelcraft-studios-1-75m-dai-token-swap>Swap Lượng Token Trị Giá 1,75tr DAI AavegotchiDAO <> Pixelcraft Studios</a></li>
+<li><a href=#delay-the-3rd-land-auction>Hoãn Thời Gian Đấu Giá Land 3</a></li>
+<li><a href=#utilizing-the-channeling--hot-zone->Tận Dụng "Vùng Nóng" Truyền Khoáng</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
 
 </div>
@@ -1178,7 +1178,7 @@ table_agip30
 
 <hr />
 
-### Launch of RF Szn 4
+### Triển Khai RF Mùa 4
 **Aavegotchi Improvement Proposal #31**
 
 **Tóm Tắt Đề Xuất:**
@@ -1225,7 +1225,7 @@ Option 2: No, don't start RF Szn 4
 
 <hr />
 
-### Use DYST voting Power to Support vQi-Qi on Dystopia
+### Dùng DYST Để Hỗ Trợ Cặp vQi-Qi trên Dystopia
 **Aavegotchi Improvement Proposal #32**
 
 **Tóm Tắt Đề Xuất:**
@@ -1270,7 +1270,7 @@ Phương án 3: Phiếu Trắng
 
 <hr />
 
-### Change Harvester Recipes
+### Đổi Công Thức Máy Thu Hoạch
 **Aavegotchi Improvement Proposal #33**
 
 **Tóm Tắt Đề Xuất:**
@@ -1319,7 +1319,7 @@ Option 2: No, Keep Things the Same
 
 <hr />
 
-### AavegotchiDAO <> Pixelcraft Studios 1.75M DAI Token Swap
+### Swap Lượng Token Trị Giá 1,75tr DAI AavegotchiDAO <> Pixelcraft Studios
 **Aavegotchi Improvement Proposal #34**
 
 **Tóm Tắt Đề Xuất:**
@@ -1394,7 +1394,7 @@ Option 2: No, don't perform a token swap
 
 <hr />
 
-### Delay the 3rd LAND Auction
+### Hoãn Thời Gian Đấu Giá Land 3
 **Aavegotchi Improvement Proposal #35**
 
 **Tóm Tắt Đề Xuất:**
@@ -1433,7 +1433,7 @@ Option 2: No, continue as planned
 
 <hr />
 
-### Utilizing the Channeling “Hot Zone”
+### Tận Dụng "Vùng Nóng" Truyền Khoáng
 **Aavegotchi Improvement Proposal #36**
 
 **Tóm Tắt Đề Xuất:**
@@ -1472,7 +1472,7 @@ Option 2: No, don't change anything
 
 <hr />
 
-### Name of Aavegotchi Marketplace
+### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
 **Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
@@ -1501,7 +1501,7 @@ table_marketplaceName
 
 <hr />
 
-### Eligibility of GHST-USDC LP tokens to earn FRENS
+### Khả năng nhận FRENS khi stake token LP của GHST-USDC
 
 **Vote bằng Snapshot**
 
@@ -1527,7 +1527,7 @@ table_ghstUsdcLp
 
 <hr />
 
-### Portals purchased in one transaction
+### Số lượng Portal mua được trong mỗi giao dịch
 
 **Vote bằng Snapshot**
 
