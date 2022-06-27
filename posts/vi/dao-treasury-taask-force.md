@@ -1,21 +1,21 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'DAO Treasury Taask Force'
-description: 'DAO Treasury Taask Force'
+title: 'Biệt Đội Ngân Quỹ DAO'
+description: 'Biệt Đội Ngân Quỹ DAO'
 contributors:
   - "unintelligent-nerd"
 ---
 
-The DAO Treasury Taask Force (DTF) is a committee assigned with making [DAO](/dao) treasury management proposals to the community and DAO for consideration.
+Biệt Đội Aavegotchi DAO là một hội đồng năng nổ được chỉ định để tạo ra các bản đề xuất quản lý ngân quỹ của DAO để cộng đồng và DAO có thể suy xét.
 
-The initial mission and goals of the committee will be:
+Nhiệm vụ và mục tiêu ban đầu sẽ là:
 
-1. Grow and optimize the DAO treasury with an emphasis on safety, security and transparency
+1. Phát triển và tối ưu hóa ngân quỹ DAO, nhấn mạnh vào sự an toàn, bảo mật, và minh bạch
 
-2. Partner with Pixelcraft to assist in developing and identifying tools and infrastructure for ongoing DAO Treasury management
+2. Liên kết với Pixelcraft để hỗ trợ phát triển và tìm công cụ và nền tảng để quản lý Ngân Quỹ DAO
 
-3. Foster and encourage growth of the overall Aavegotchi community by increasing awareness, actively promoting adoption, and maintaining current user engagement.
+3. Thúc đẩy và khuyến khích sự phát triển của cộng đồng Aavegotchi nói chung bằng cách nâng cao nhận thức, tích cực thúc đẩy việc áp dụng và duy trì mức độ tương tác của người dùng hiện tại.
 
 <div class="contentsBox">
 
@@ -23,20 +23,23 @@ The initial mission and goals of the committee will be:
 
 <ol>
 <li><a href=#origins>Team Gốc</a></li>
-<li><a href=#members>Members</a></li>
+<li><a href=#members>Các Thành Viên</a></li>
 </ol>
 
 </div>
 
 ## Team Gốc
 
-On Oct 2021, Dr Wagmi proposed the idea of a DTF on a [forum post](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460).
+Vào tháng 10 năm 2021, Tiến sĩ Wagmi đề xuất ý tưởng về DTF trên
+ bài đăng diễn đàn </ a>.</p> 
 
-This was formalized in a [DAO vote / AGIP 20](/aavegotchi-improvement-proposals#creating-the-dao-treasury-taask-force). The vote passed and the DTF was created with 8 members.
+Việc này được hợp thức hóa nhờ vào [ bản đề xuất DAO / AGIP 20](/aavegotchi-improvement-proposals#creating-the-dao-treasury-taask-force). Bản đề xuất này đã được thông qua và DTF đã được sinh ra với 8 thành viên.
 
-Subsequently, another [DAO vote / AGIP 28](/aavegotchi-improvement-proposals#extending-the-dao-treasury-task-force-multisig) was proposed by [Coderdan](/team#coder-dan) to expand the DTF multisig. The vote passed, increasing the size of the DTF to 18 members.
+Sau đó, một bản đề xuất khác từ [ đề xuất DAO / AGIP 28](/aavegotchi-improvement-proposals#extending-the-dao-treasury-task-force-multisig) đã được đề xuất bởi [Coderdan](/team#coder-dan) để mở rộng ví multisign DTF. Bài bỏ phiếu đã được thông qua, làm tăng số lượng thành viên của DTF lên 18 thành viên.
 
-## Members
+
+
+## Các Thành Viên
 
 * Dr Wagmi
 
