@@ -1221,6 +1221,8 @@ Phương án 2: Không, đừng triển khai RF SZN 4
 
 **Kết quả:**
 
+table_agip31
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x2ddd04ae165c6f6245f4cdd83abd00bb1644bf78fd6719eae394f9db4e00d910)
 
 <hr />
@@ -1230,11 +1232,11 @@ Phương án 2: Không, đừng triển khai RF SZN 4
 
 **Tóm Tắt Đề Xuất:**
 
-Aavegotchi DAO nên dùng sức mạnh bỏ phiếu DÝT để hỗ trợ quỹ vQi-Qi trên DystopiaSwap ngay lập tức. Bất kỳ thành viên nào trong cộng đồng có thể đăng lên một bản đề xuất mới thì nên được tái định vị.. Hỗ trợ vô thời hạn sẽ tránh việc đệ trình Sig Prop quá thường xuyên chỉ liên quan trực tiếp đến Aavegotchi DAO.
+The Aavegotchi DAO should use its DYST voting power to support the vQi-Qi pool on DystopiaSwap indefinitely. Any community member can submit an additional signal prop should reallocation be considered.. Indefinite support will avoid overly frequent Sig Prop submissions that are only tangentially related to the Aavegotchi DAO.
 
-*Bối Cảnh:*
+*Background:*
 
-Dystopia Swap là một trình tạo thị trường tự động với cơ chế ve(3,3), được vận hành trên Polygon. Họ đã airdrop lượng lớn token ban đầu cho các ứng dụng trên Polygon, bao gồm giao thức Aavegotchi, QiDAO, và Gotchivault. Token bỏ phiếu này được sử dụng để phân bổ phần thưởng đã được lên lịch trình tương tự như Qi của QiDAO. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
+Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
 
 A brief overview of why this is good for GHST:
 
@@ -1265,6 +1267,8 @@ Phương án 3: Phiếu Trắng
 **Thời gian vote:**22 - 29 tháng Sáu 2022
 
 **Kết quả:**
+
+table_agip32
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x68dc76a5d1069e58f1409d644824044df823c304fc349f85b38ccb0fcd95e4a4)
 
@@ -1314,6 +1318,8 @@ Option 2: No, Keep Things the Same
 **Thời gian vote:**22 - 29 tháng Sáu 2022
 
 **Kết quả:**
+
+table_agip33
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x599754e6bf5a683d0a44aadbcad78df0522bdeb448437ff79c70b6077408fe58)
 
@@ -1390,6 +1396,8 @@ Option 2: No, don't perform a token swap
 
 **Kết quả:**
 
+table_agip34
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xe9ceb07837c7b04420f33fb324c220694241c84ffd6bb50c2651e3376326adb3)
 
 <hr />
@@ -1429,6 +1437,8 @@ Option 2: No, continue as planned
 
 **Kết quả:**
 
+table_agip35
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xf614634f7b1864d19ea144dd68280df6c3cb3e514e2e20929767e6ccd2f4022c)
 
 <hr />
@@ -1467,6 +1477,8 @@ Option 2: No, don't change anything
 **Thời gian vote:**22 - 29 tháng Sáu 2022
 
 **Kết quả:**
+
+table_agip36
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xd610a038fb70717cefa788332d6cfbfd4504723fa2b33dc5689b542752da3cde)
 
