@@ -396,6 +396,79 @@ export const tables
         },
 		
 		{
+            tableName: "agip31",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, formally start RF Szn 4", "17,000,000 GHST (98.24%)"],
+					["No, don't start RF Szn 4", "309,000 GHST (1.76%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip32",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Vote for vQi-Qi", "14,000,000 GHST (79.76%)"],
+					["Abstain", "3,100,000 GHST (17.99%)"],
+					["No. Vote for someone else", "387,000 GHST (2.25%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip33",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Change the Recipes", "17,000,000 GHST (98.5%)"],
+					["No, Keep Things the Same", "263,000 GHST (1.5%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip34",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, perform a swap of 1.75M DAI", "17,000,000 GHST (98.26%)"],
+					["No, don't perform a token swap", "299,000 GHST (1.74%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip35",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, delay LAND 3 Release", "16,000,000 GHST (96.05%)"],
+					["No, continue as planned", "673,000 GHST (3.95%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip36",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, use the proposed model", "17,000,000 GHST (97.4%)"],
+					["No, don't change anything", "456,000 GHST (2.6%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

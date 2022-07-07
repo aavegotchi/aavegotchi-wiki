@@ -1234,6 +1234,8 @@ Option 2: No, don't start RF Szn 4
 
 **Results:**
 
+table_agip31
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x2ddd04ae165c6f6245f4cdd83abd00bb1644bf78fd6719eae394f9db4e00d910)
 
 <hr>
@@ -1278,6 +1280,8 @@ Option 3: Abstain
 **Voting Period:** 22 - 29 June 2022
 
 **Results:**
+
+table_agip32
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x68dc76a5d1069e58f1409d644824044df823c304fc349f85b38ccb0fcd95e4a4)
 
@@ -1327,6 +1331,8 @@ Option 2: No, Keep Things the Same
 **Voting Period:** 22 - 29 June 2022
 
 **Results:**
+
+table_agip33
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x599754e6bf5a683d0a44aadbcad78df0522bdeb448437ff79c70b6077408fe58)
 
@@ -1404,6 +1410,8 @@ Option 2: No, don't perform a token swap
 
 **Results:**
 
+table_agip34
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xe9ceb07837c7b04420f33fb324c220694241c84ffd6bb50c2651e3376326adb3)
 
 <hr>
@@ -1443,6 +1451,8 @@ Option 2: No, continue as planned
 
 **Results:**
 
+table_agip35
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xf614634f7b1864d19ea144dd68280df6c3cb3e514e2e20929767e6ccd2f4022c)
 
 <hr>
@@ -1481,6 +1491,8 @@ Option 2: No, don't change anything
 **Voting Period:** 22 - 29 June 2022
 
 **Results:**
+
+table_agip36
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xd610a038fb70717cefa788332d6cfbfd4504723fa2b33dc5689b542752da3cde)
 
