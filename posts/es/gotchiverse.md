@@ -206,11 +206,7 @@ table_avgBaseAlchemicaPerParcelAct1FirstRound
 
 ### Rango Alchemica en la parcela
 
-The range of possible Alchemica that can be discovered during each surveying round. To prevent a bad player experience, the “minimum” that can be surveyed is 20% of the average, and the “maximum” is 1.8x of the average.
-
-For example, the range of values of FUD for a Humble parcel for the entire Act 1 will be 5694 to 51251, averaging out to 28,473.
-
-We believe this provides for interesting gameplay, while also providing a sufficient “safety net” for even the unluckiest of players.
+The range of possible Alchemica that can be discovered during each surveying round is based on a [Binomial Distribution](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069/5) that was voted for in [AGIP-26](/aavegotchi-improvement-proposals#reducing-the-parcel-vrf-variance). The rationale is to make it possible to win big but impossible to get rekt hard.
 
 ## Building on REALM parcels
 
