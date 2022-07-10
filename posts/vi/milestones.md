@@ -7,6 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi June Update](https://blog.aavegotchi.com/aavegotchi-june-update/)
+* GotchiGang at NFT NYC 2022, Aavegotchi V2 Reveal, GBM Auctions in the Baazaar, and moar in this June Update!
+<p></p>
+
+## [Cast your votes for AGIPs 31 - 36!](https://blog.aavegotchi.com/new-core-props-live/)
+* We have 6 new Core Proposals for #gotchigang to vote on!
+* Read about them here and go vote!
+<p></p>
+
 ## [More Aesthetica to craft!](https://blog.aavegotchi.com/crafting-wednesdays-are-coming-to-the-gotchiverse/)
 * Beautify your REALM parcels with Grass and Rugs
 * Each design will be released on Crafting Wednesdays

@@ -48,7 +48,13 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#extending-the-dao-treasury-task-force-multisig>Mở rộng Ví Multisign Biệt Đội Ngân Quỹ DAO</a></li>
 <li><a href=#24h-windows-for-alchemical-channeling>Khung Thời Gian 24h Để Truyền Khoáng Sản</a></li>
 <li><a href=#scheduling-land-auction-raffle--3-for-june>Đặt Lịch Đấu Giá/Xổ Số #3 Vào Tháng Sáu</a></li>
-<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
+<li><a href=#launch-of-rf-szn-4>Triển Khai RF Mùa 4</a></li>
+<li><a href=#use-dyst-voting-power-to-support-vqi-qi-on-dystopia>Dùng DYST Để Hỗ Trợ Cặp vQi-Qi trên Dystopia</a></li>
+<li><a href=#change-harvester-recipes>Đổi Công Thức Máy Thu Hoạch</a></li>
+<li><a href=#aavegotchidao----pixelcraft-studios-1-75m-dai-token-swap>Swap Lượng Token Trị Giá 1,75tr DAI AavegotchiDAO <> Pixelcraft Studios</a></li>
+<li><a href=#delay-the-3rd-land-auction>Hoãn Thời Gian Đấu Giá Land 3</a></li>
+<li><a href=#utilizing-the-channeling--hot-zone->Tận Dụng "Vùng Nóng" Truyền Khoáng</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Khả năng nhận FRENS khi stake token LP của GHST-USDC</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Số lượng Portal mua được trong mỗi giao dịch</a></li>
 </ol>
@@ -1172,26 +1178,332 @@ table_agip30
 
 <hr />
 
-### Đặt tên cho Chợ Trao Đổi Vật Phẩm Aavegotchi
+### Triển Khai RF Mùa 4
+**Aavegotchi Improvement Proposal #31**
+
+**Tóm Tắt Đề Xuất:**
+
+Theo sau bản đề xuất core vào ngày 15 tháng Hai, mình muốn dùng khoảnh khác này để hợp thức hóa việc bắt đầu mùa 4 với gotchi-DAO.
+
+Do không hề có sự thay đổi lớn nào về BRS, XP hoặc hệ thống kinship diễn ra kể từ mùa trước, và kể từ khi bản đề xuất này được thông qua, mình đề xuất chúng ta giữ các thông số tương tự như mùa 3.
+
+Như vậy, đây sẽ là mô hình cuối của Mùa 4:
+
+4 Vòng (mỗi vòng 2 tuần) với pool thưởng 1,5 triệu GHST - sẽ được tài trợ bởi sự kiện bán land AGIP30.
+
+* 70% BRS
+
+* 20% Kinship
+
+* 10% XP
+
+* Top 7.5k Gotchis (30%)
+
+Do trong sự kiện bán land AGIP30 lượng tiền thưởng không đủ 1,5tr GHST nên mình đề nghị số tiền thưởng 1,5tr GHST sẽ được lấy từ ngân quỹ DAO như đã được thảo luận trong AGIP-23.
+
+DAO có thể sắp nhận được rất nhiều GHST do bản đề xuất mua lại DAI có thể sắp được thông qua trong tương lai gần, vậy nên nó sẽ rất hợp lý.
+
+Nếu bạn không biết, đây là bản tóm tắt về lịch tổ chức Rarity Farming;
+
+Mùa 4 (được nói đến trong bản đề xuất này): tháng Sáu - tháng Bảy
+
+Mùa 5: tháng 10 - tháng 11
+
+SZN 6: Tháng 2 - tháng 3 2023
+
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://dao.aavegotchi.com/t/launch-of-rf-szn4/3875)
+
+Phương án 1: Vâng, chính thức bắt đầu RF Mùa 4
+
+Phương án 2: Không, đừng triển khai RF SZN 4
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip31
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x2ddd04ae165c6f6245f4cdd83abd00bb1644bf78fd6719eae394f9db4e00d910)
+
+<hr />
+
+### Dùng DYST Để Hỗ Trợ Cặp vQi-Qi trên Dystopia
+**Aavegotchi Improvement Proposal #32**
+
+**Tóm Tắt Đề Xuất:**
+
+The Aavegotchi DAO should use its DYST voting power to support the vQi-Qi pool on DystopiaSwap indefinitely. Any community member can submit an additional signal prop should reallocation be considered.. Indefinite support will avoid overly frequent Sig Prop submissions that are only tangentially related to the Aavegotchi DAO.
+
+*Background:*
+
+Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
+
+A brief overview of why this is good for GHST:
+
+1. GHST users deposit their GHST for vGHST using the GotchiVault (3.83M vGHST exist currently)
+
+2. vGHST can be deposited in QiDAO as collateral for borrowing MAI
+
+3. Qi rewards are paid to borrowers based on a biweekly vote by Qi holders
+
+4. Qi that is staked for 4 years has 4x the voting power- this is known as eQi. vQi is a liquid form of eQi that allows holders to sell the token. vQi voting power is always used for vGHST. 5. The current vQi supply is 833k which means 3.3M eQi voting power.
+
+6. The system requires adequate vQi-Qi liquidity to be sustainable. This vote incentivizes the vQi-Qi pool which will deepen liquidity and create a flywheel effect in increasing vGHST rewards on QiDAO.
+
+7. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
+
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
+
+Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/use-dyst-voting-power-for-the-vqi-qi-pool/4010)
+
+Option 1: Yes. Vote for vQi-Qi
+
+Option 2: No. Vote for someone else
+
+Phương án 3: Phiếu Trắng
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip32
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x68dc76a5d1069e58f1409d644824044df823c304fc349f85b38ccb0fcd95e4a4)
+
+<hr />
+
+### Đổi Công Thức Máy Thu Hoạch
+**Aavegotchi Improvement Proposal #33**
+
+**Tóm Tắt Đề Xuất:**
+
+The original harvester recipes:
+
+* Discourage upgrading parcels beyond levels 3 & 4.
+
+* Are too expensive in cost and punishing in yields at the higher levels.
+
+* Easily allow for the Low Leveloor to extract insanely high yields with very little investment.
+
+* Are too inexpensive from a time-to-build perspective. This diminishes the effectiveness of makers and the utility of GLTR.
+
+After a month and a half of theorising, simulating, and refining MikeyJay, coderdan, letsgobankless, and myself have arrived at a final recipe which we believe best solves the above problem.
+
+The proposed recipe changes to the harvester:
+
+* Promote dynamic gameplay with a multitude of winning strategies
+
+* Make high level harvesters not only viable, but desirable
+
+* Reduces inflation of alchemica
+
+* Handicap the Low Leveloor strategySignificantly increase build time for each installation which promote a healthy GLTR economy. This increase drives more utility to the maaker.
+
+This topic has been discussed at length. For a full understanding, I highly encourage you to read through the [forum thread](https://dao.aavegotchi.com/t/something-aint-right-with-installation-upgrades-resolved-and-in-progress/3715), [simulation results](https://drive.google.com/drive/folders/1WB8L6aEPEdGnEgxcRUD3ysRwko2fjzMU), and recipe changes. The [Bot Strategy](https://github.com/mikey-jay/realm-simulator#readme) provides insight into how the simulation bots operated.
+
+*Associated Risks*
+
+Given the amount of time invested in recreating this recipe, there are few contingencies.
+
+The reduction in alchemica inflation also means a reduced ROI (in terms of alchemica, not necessarily $$$)
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/something-aint-right-with-installation-upgrades-resolved-and-in-progress/3715)
+
+Option 1: Yes, Change the Recipes
+
+Option 2: No, Keep Things the Same
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip33
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x599754e6bf5a683d0a44aadbcad78df0522bdeb448437ff79c70b6077408fe58)
+
+<hr />
+
+### Swap Lượng Token Trị Giá 1,75tr DAI AavegotchiDAO <> Pixelcraft Studios
+**Aavegotchi Improvement Proposal #34**
+
+**Tóm Tắt Đề Xuất:**
+
+*Summary*
+
+This proposal aims to swap 1.75 million DAI from AavegotchiDAO’s treasury with an equal value of GHST from Pixelcraft Studios’ balance sheet.
+
+*Nguyên tắc hoạt động*
+
+The launch of the Gotchiverse has introduced new and increasing infra costs for Pixelcraft Studios that cannot be paid for in GHST (or any crypto for that matter). These costs primarily consist of usage of AWS and Redis Enterprise for real-time gameplay in the Gotchiverse, and will continue to scale up as the game gets more popular.
+
+To pay for these costs, we have outlined several options:
+
+* Raise funding from VCs
+
+* Liquidate GHST into DAI and swap for fiat
+
+* Use GHST as collateral on Aave to take loans in DAI
+
+* Perform a token swap with AavegotchiDAO
+
+We believe Option 4 (Token Swap) is the best available option at the moment. We strongly value our independence from VCs, prefer not to have debt on our balance sheet, and do not want to market sell GHST acquired from sales.
+
+Therefore, we propose a token swap between AavegotchiDAO and Pixelcraft Studios to ensure adequate fiat runway for several years of further development, no matter how bearish the market becomes.
+
+*Key Details*
+
+At the time of this writing, AavegotchiDAO treasury holds roughly:
+
+* 2.5 Million DAI
+
+* 3.5 Million GHST
+
+* 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://app.aavegotchi.com/treasury))
+
+Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
+
+Pixelcraft Studios has been able to effectively grow the team and support infrastructure costs without needing to liquidate any significant amount of GHST. But last month’s launch of the Gotchiverse and anticipated continued growth has pushed operating costs dramatically higher. Server costs for the April playdrop, for example, exceeded 40k USD, and that is projected to grow in the months ahead.
+
+Such operating expenses are anticipated but we have to acknowledge that these subscriptions and invoices almost always insist on trad banking (fiat). We would prefer to not have to sell GHST in order to achieve the necessary growth budget.
+
+The DAO’s revenue from the GHST bonding curve opens up the possibility of a large-scale exchange of assets between our two parties. With the game live, GHST off its all time highs, and a DAO treasury that is well established, we believe this is the right time to propose an OTC token swap.
+
+For the purposes of this token swap, a valuation for GHST that all can agree on must be established. There are many ways to arrive at such, so in the interest of expediency, I am proposing an intuitive method that also tips the scale generously in the DAO’s direction:
+
+*GHST valuation methodology*
+
+Pixelcraft Studios has calculated GHST’s average price from Tuesday, June 14 to Saturday, June 18 (duration of the SigProp via CoinGecko) with a 5% discount applied to the final price: USD 1.28. If DAO voters find the results agreeable, they may vote to approve this CoreProp.
+
+*Execution*
+
+If the CoreProp passes, the token swap should process in a predictable way. I suggest the token swap occur with the following method of execution:
+
+* Pixelcraft Studios shall first transfer the agreed upon amount of GHST (defined in the CoreProp) to the AavegotchiDAO treasury wallet.
+
+* AavegotchiDAO treasury wallet (currently managed via multisig by Pixelcraft team) shall transfer 1.75 million DAI within 8 hours of receiving the GHST to the Pixelcraft Studios primary revenue wallet.
+
+* Pixelcraft Studios shall make an announcement in Aavegotchi Discord confirming the reception of the DAI, thus concluding the token swap.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/token-swap-1-75m-dai-from-aavegotchidao-for-ghst-from-pixelcraft-studios/3769)
+
+Option 1: Yes, perform a swap of 1.75M DAI
+
+Option 2: No, don't perform a token swap
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip34
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xe9ceb07837c7b04420f33fb324c220694241c84ffd6bb50c2651e3376326adb3)
+
+<hr />
+
+### Hoãn Thời Gian Đấu Giá Land 3
+**Aavegotchi Improvement Proposal #35**
+
+**Tóm Tắt Đề Xuất:**
+
+We are fast approaching the end of June when the LAND 3 auction/raffle is scheduled for based on the AGIP-30 core prop. However, since this core prop was started (20th May) a lot of things have changed:
+
+* Harvester release has been delayed
+
+* We are in the middle of a bloodbath in the markets
+
+* LAND prices have dropped 30-70%
+
+* LAND bazaar volume has dropped 90%
+
+* There's been huge selling pressure on alchemica prices
+
+Due to these significant changes in the market, its seems right to allow the DAO to have another emergency vote on whether to go ahead with the LAND auction or not as releasing an auction in this market is very likely to drive down assets prices across the ecosystem.
+
+Coderdan confirmed it is viable to stop the auction but we must act quickly frens:
+
+My thoughts are that it's generally not ideal to do a token sale in the middle of a market bloodbath as we are currently experiencing. Assets from all sectors of crypto are down, not just Aavegotchi. We are actually holding fairly strong in comparison.
+
+However, the DAO has voted to do this sale, and it passed overwhelmingly, so the DAO will also need to vote to delay it."
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/delay-the-3rd-land-auction/4063)
+
+Option 1: Yes, delay LAND 3 Release
+
+Option 2: No, continue as planned
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip35
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xf614634f7b1864d19ea144dd68280df6c3cb3e514e2e20929767e6ccd2f4022c)
+
+<hr />
+
+### Tận Dụng "Vùng Nóng" Truyền Khoáng
+**Aavegotchi Improvement Proposal #36**
+
+**Tóm Tắt Đề Xuất:**
+
+There has been a lot of heated discussion about bots, scholars, spillover and more. A lot of it completely misses the point though, at least in my opinion. I went more in-depth on why I don't believe botting to be the primary problem at the moment in a comment [here](https://dao.aavegotchi.com/t/keeping-the-status-quo-of-disabled-spillover-for-a-while/3845/172).
+
+So I started playing around with the numbers for spillover radius & rate, but I just couldn't find a satisfying solution. Reducing them only by a bit would barely have an effect, while reducing them drastically would devalue high level Aaltars. When I went through the blog post on channeling radius it finally clicked though! The mechanic was right there, just not utilized to its full potential (or at all really): The Hot Zone.
+
+It became obvious pretty quickly that the Hot Zone wasn't so hot after all. The name simply implied that statistically speaking, 10% of the spillover would spawn inside of the inner 10% radius, 20% inside of the inner 20%, etc. This results in a slightly higher drop rate closer to the parcel, but in reality it barely makes a difference (only a single digit % of all spillover spawns in the "Hot Zone"). I want to propose allocating a fixed % of the spilled Alchemica based on Aaltar level.
+
+Combined with a proposed radius of 60 Gotchis (compared to the 64x32 measurements of a Spacious), dropping a larger amount of Alchemica inside of the Hot Zone would suddenly make spillover feel much more like actual spillover instead of a random token drop around the map.
+
+Imo this would:
+
+* Create an interesting mechanic around the concept of spillover (as seen in the OG trailer)
+
+* Add an incentive for players to pick up their spilled tokens instead of channeling & logging off (and writing off the spillover completely)
+
+* Reduce the advantage of bots, since picking up spillover becomes less of a grinding & more of a channeling mechanic
+
+* Overall make the Gotchiverse in its current form more interesting
+
+Lastly, I would like to note one thing. This proposal suggests introducing the Hot Zone mechanic as soon as spillover is resumed. However, the reverse is not the case. This proposal is not a vote to turn spillover back on, I merely believe it to be one piece in the larger puzzle.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/utilizing-the-channeling-hot-zone/4055)
+
+Option 1: Yes, use the proposed model
+
+Option 2: No, don't change anything
+
+**Thời gian vote:**22 - 29 tháng Sáu 2022
+
+**Kết quả:**
+
+table_agip36
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xd610a038fb70717cefa788332d6cfbfd4504723fa2b33dc5689b542752da3cde)
+
+<hr />
+
+### Đặt tên cho cho Chợ Trao Đổi Vật Phẩm Aavegotchi
 **Vote bằng Snapshot**
 
-**Tóm tắt Bản Đề Xuất:** Chợ Trao Đổi NFT của Aavegotchi nên được gọi là gì?
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
 
-Aavegotchi sẽ khởi chạy khu chợ NFT của riêng mình trên Polygon khi game khởi chạy!
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
 
-Vậy ta nên gọi khu chợ chính chủ của Aavegotchi là gì nhỉ?
+What should we call the official Aavegotchi Marketplace?
 
-Lựa chọn A: Aavegotchi Baazaar
+Choice A: Aavegotchi Baazaar
 
-Lựa chọn B: Aavegotchi Maarket
+Choice B: Aavegotchi Maarket
 
-Lựa chọn C: Không chọn 2 đáp án trên
+Choice C: Neither
 
-Số phiếu tối thiểu để bản đề xuất này được thi hành là 500.000 GHST. Nếu không đạt được số phiếu tối thiểu này thì Pixelcraft sẽ chọn.
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
 
-Nếu lựa chọn C được bầu nhiều nhất thì mấy fen nên chuẩn bị trước đáp án thay thế đi nhá!
+If "Neither" wins...you guys better start coming up with some good alternatives!
 
-**Thời gian vote:**8 - 11 tháng Hai 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Kết quả:**
 
@@ -1205,19 +1517,19 @@ table_marketplaceName
 
 **Vote bằng Snapshot**
 
-**Tóm tắt Đề Xuất:** Stake GHST-USDC LP token thì có thể nhận FRENS được hay không?
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
 
-Chương trình dịch chuyển thanh khoản của bọn mình đang thành công rực rỡ với hơn 8 tr GHST được chuyển đến Polygon. Tuy nhiên, theo ý kiến của nhiều thành viên trong cộng đồng, thanh khoản của cặp GHST-USDC không đủ sau để có thể hỗ trợ swap lượng lớn token USDC thành GHST trên Quickswap.
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-Bọn mình tin cách để giải quyết vấn đề này chính là thêm GHST-USDC thành một cặp token có thể nhận FRENS trên [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Tương tự như khi GHST-QUICK nhận lại token stkGHST-QUICK, GHST-USDC có thể sẽ giúp người dùng nhận lại token stkGHST-USDC, để có thể nhận giải thưởng trên Quickswap, nếu team cảm thấy điều này là cần thiết.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
-Bởi điều này ảnh hưởng trực tiếp đến lối chơi nên bọn mình tin rằng đây chính là ứng cử viên sáng giá cho cuộc bầu chọn Snapshot đầu tiên trên Polygon.
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 
-Bọn mình đặt ra giới hạn thi hành tối thiểu là 500.000 GHST.
+We are setting a 500,000 GHST quorum for this vote to be enacted.
 
-Token LP cặp GHST-USDC sẽ nhận được lượng FRENS tương tự như khi stake GHST, bởi tổn thất tạm thời khá nhỏ và phí thì lại nhiều.
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
 
-**Thời gian vote:**8 - 11 tháng Hai 2021
+**Voting Period:** 8 - 11 February 2021
 
 **Kết quả:**
 
@@ -1231,29 +1543,29 @@ table_ghstUsdcLp
 
 **Vote bằng Snapshot**
 
-**Tóm tắt Bản Đề Xuất:** Có thể mua được tổng cộng bao nhiêu portal trong mỗi giao dịch?
+**Proposal Summary:** How many Portals can be purchased in one transaction?
 
-Giai đoạn thảo luận dành cho chủ đề này đã kết thúc và giờ là lúc để bỏ phiếu! Những lựa chọn được tán thành nhiều nhất là: 1, 5, và 10 Portal cho mỗi giao dịch.
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
 
-Anh bạn [@coderdannn](/team#coder-dan) của chúng ta cũng đã gợi ra một ý tưởng hết sức là lý tưởng kết hợp các phương án trên: một loại phí "Ape Tax" sẽ được thêm vào và người dùng mua càng nhiều Portal trong một giao dịch thì phí này sẽ càng cao. Giá Portal sẽ có các cấp độ như sau:
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
 
-* Mua từ 0 đến 5 portal: mỗi Portal sẽ có giá là 100 GHST
+* 0-5: 100 GHST each
 
-* Portal thứ 6 đến portal thứ 15 sẽ có giá là 200 GHST mỗi cái
+* 6-15: 200 GHST each
 
-* Portal thứ 16 đến portal thứ 25 sẽ có giá 300 GHST mỗi cái
+* 16-25: 300 GHST each
 
-Phương án này sẽ mang đến cho ta tổng cộng 4 lựa chọn: mỗi giao dịch sẽ có thể mua 1, 5, 10 hoặc 25 portal (kèm thuế ape tax).
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 
-Hãy dùng token $GHST để nói lên quan điểm của mình và bỏ phiếu nào!
+Let your $GHST token speak for you, and vote!
 
-Thời gian vote kéo dài 72 tiếng Số phiếu tối thiểu để Phương án đề xuất được thi hành là 10% lượng GHST trên Polygon (khoảng 1tr1 GHST)
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
-Chủ đề thảo luận của AavegotchiDAO 👇
+AavegotchiDAO discussion topic 👇
 
 [https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
 
-**Thời gian vote:**23 - 26 tháng Hai 2021
+**Voting Period:** 23 - 26 February 2021
 
 **Kết quả:**
 

@@ -41,6 +41,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [AavegotchiDAO](/dao)
 
+* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+
 * [Developers](/developers)
 
 * [Estaates](/estaates)
@@ -140,5 +142,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Weapons](/weapons)
 
 * [Objets portables](/wearables)
+
+* [Wearables Taask Force](/wearables-taask-force)
 
 * [XP](/xp)

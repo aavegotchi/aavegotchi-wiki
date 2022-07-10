@@ -43,6 +43,7 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
@@ -225,6 +226,15 @@ Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los 
 
 Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
+### BigFlex - Social Media Manager
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/bigflex.jpg" alt = "BigFlex">
+<p class="leftImageText"><a href="https://twitter.com/FlexLack" target="_blank">BigFlex</a></p>
+</div>
+
+Alex, aka Big Flex, is already well known within the GotchiGang community. As a social media specialist, with a Bachelor’s Degree in Marketing, Big Flex discovered Aavegotchi and devoured as much information as possible, spending countless hours learning about the project and participating in the community. It was inevitable that he would become more involved. Since joining the team as Social Media Manager, he immediately made a positive impact on Aavegotchi’s social media presence. Big Flex’s main focus is spreading the Gotchi Gospel far and wide.
+
 ### Zeke - Technical Artist
 
 <div class="leftImageContainer">
@@ -261,10 +271,10 @@ Things Webb loves:
 
 ## Team Gốc
 
-### Đội Nhóm Không Tưởng Tập Hợp
-Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
 "It's time to sell some candy" Said Dan.
 

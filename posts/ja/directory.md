@@ -41,17 +41,19 @@ Avegotchi Wikiのページ一覧です：
 
 * [AavegotchiDAO](/dao)
 
-* [デベロッパーズ（Developers）](/developers)
+* [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [エステート（Estaates）](/estaates)
+* [Developers](/developers)
 
-* [アイ・シェイプ（Eye Shape）](/eye-shape)
+* [Estaates（エステート）](/estaates)
+
+* [Eye Shape](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
 
 * [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
 
-* [ゲーム・ジャム（Gaame Jaam）](/gaame-jaam)
+* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
@@ -65,45 +67,45 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）](/gotchus-alchemica-exchange)
 
-* [ギルド（Guild）](/guild)
+* [Guild](/guild)
 
 * [ハウント](/haunt)
 
-* [ホーム（Home）](/index)
+* [Home](/index)
 
 * [はじめに](/introduction)
 
 * [キンシップ](/kinship)
 
-* [モール（Maall）](/maall)
+* [Maall](/maall)
 
 * [maToken](/matokens)
 
 * [メディア（Media）](/media)
 
-* [ミーム（Memes）](/memes)
+* [Memes](/memes)
 
 * [マイルストーン](/milestones)
 
-* [ミニゲーム（Mini-Games）](/minigames)
+* [Mini-Games](/minigames)
 
 * [ミニゲームXPイベント](/minigame-xp-events)
 
-* [ミッション（Missions）](/missions)
+* [ミッション](/missions)
 
-* [ムンバイ・テストネット（Mumbai Testnet）](/mumbai-testnet)
+* [Mumbai Testnet](/mumbai-testnet)
 
 * [パートナーズ](/partners)
 
 * [POAP](/poap)
 
-* [ポリゴン（Polygon）](/polygon)
+* [Polygon（ポリゴン）](/polygon)
 
 * [ポータル](/portals)
 
-* [ラッフルの統計（Raffles Statistics）](/raffles-stats)
+* [Raffles Statistics](/raffles-stats)
 
-* [レアリティ・ファーミング（Rarity Farming）](/rarity-farming)
+* [Rarity Farming（レアリティ・ファーミング）](/rarity-farming)
 
 * [レアリティファーミングシーズン](/rarity-farming-seasons)
 
@@ -111,13 +113,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [ロードマップ](/roadmap)
 
-* [セット（Sets）](/sets)
+* [Sets](/sets)
 
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
 
-* [スピリットフォースの起源](/spirit-force-history)
+* [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
 
@@ -133,12 +135,14 @@ Avegotchi Wikiのページ一覧です：
 
 * [特性](/traits)
 
-* [チュートリアル（Tutorials）](/tutorials)
+* [Tutorials](/tutorials)
 
 * [uGOTCHI コレクション](/ugotchi)
 
 * [武器](/weapons)
 
 * [ウェアラブル](/wearables)
+
+* [Wearables Taask Force](/wearables-taask-force)
 
 * [XP](/xp)
