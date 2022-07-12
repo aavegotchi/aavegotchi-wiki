@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Haarvesters, Reservoirs, and Maakers coming to you soon!](https://blog.aavegotchi.com/alpha-leak-gotchiverse-farming-release-incoming/)
+* 3 new Installations incoming!
+* New ways to play-to-earn, extracting Alchemica from your Parcel, and moar!
+<p></p>
+
 ## [Aavegotchi June Update](https://blog.aavegotchi.com/aavegotchi-june-update/)
 * GotchiGang at NFT NYC 2022, Aavegotchi V2 Reveal, GBM Auctions in the Baazaar, and moar in this June Update!
 <p></p>

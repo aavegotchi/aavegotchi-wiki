@@ -206,43 +206,39 @@ table_avgBaseAlchemicaPerParcelAct1FirstRound
 
 ### Surveying Alchemica Bereik
 
-Het bereik van mogelijke Alchemica dat tijdens elke enquête kan worden ontdekt. Om een slechte spelerservaring te voorkomen, is de ‘minimum’ die kan worden onderzocht, 20% van het gemiddelde, en het ‘maximum’ is 1,8x van het gemiddelde.
-
-Zo zal het bereik van de waarden van het FUD voor een Humble pakketje voor de hele Akte 1 5694 tot en met 51251 zijn. gemiddeld tot 28,473.
-
-We denken dat dit interessante gameplay oplevert, terwijl het ook een toereikend “vangnet” biedt voor zelfs de onlusten van spelers.
+The range of possible Alchemica that can be discovered during each surveying round is based on a [Binomial Distribution](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069/5) that was voted for in [AGIP-26](/aavegotchi-improvement-proposals#reducing-the-parcel-vrf-variance). The rationale is to make it possible to win big but impossible to get rekt hard.
 
 ## Bouwen op REALM Parcelen
 
-**installaties** zijn speciaal gebouwd bovenop je REALM pakket. Installaties worden gemaakt via verschillende combinaties van Alchemica en kunnen vrij worden verhandeld voor GHST in de [Aavegotchi Baazaar](/baazaar).
+**Installations** are special structures built on top of your REALM Parcel. Installations are crafted via various combinations of Alchemica, and can be freely traded for GHST in the [Aavegotchi Baazaar](/baazaar).
 
-Bevestigde installaties omvatten:
+Confirmed Installations include:
 
-tabel_installaties
+table_installations
 
-Installaties nemen een bepaald aantal blockchain-blokken in beslag om de bouw te voltooien, maar deze tijd kan worden verminderd door GLMR (GAX Liquidity Mining Beloningen), een in-game valuta die kan worden verdiend door liquiditeit te bieden op de Gotchus Alchema Exchange (GAX).
+Installations take a certain number of blockchain blocks to finish constructing, but this time can be reduced by spending GLTR (GAX Liquidity Token Reward), an in-game currency that can be earned by providing liquidity on the Gotchus Alchemica Exchange (GAX).
 
-**Aesthetica** zijn esthetische NFT's die aan een pakketje kunnen worden toegevoegd, maar geen invloed hebben op de Alchemica of andere statistieken. Ze zien er gewoon dope uit.
+[**Aesthetica**](/aesthetica) are aesthetic NFTs that can be added to a Parcel, but do not affect its Alchemica or other statistics. Ze zien er gewoon dope uit.
 
 ### Installatie Eigenschappen en Recept
 
 **Recepten**
 
-Crafting en upgraden van installaties om krachtiger te worden is een belangrijk onderdeel van de Gotchiverse ervaring. Verschillende installaties vereisen verschillende "recepten" om te maken en te upgraden, daarom hebben de Aadepten ons een handig receptenboek gegeven! U kunt het laatste Recepten [hier](/recipes) vinden.
+Crafting Installations and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade, which is why the Aadepts provided us with a handy Recipe Book for reference! You can find the latest Recipes [here](/recipes).
 
-**Oogst snelheid, Capaciteit, en Spillover**
+**Harvest Rate, Capacity, and Spillover**
 
-Haarvesters en Reservoirs zijn speciale installaties die het mogelijk maken om Alchemica te mijnen onder het Gotchiversale oppervlak.
+Haarvesters and Reservoirs are special Installations that allow mining of Alchemica from beneath the Gotchiverse surface.
 
-Elk type Haarvester is in staat één soort Alchemica te oogsten en elk Reservoir kan een bepaalde hoeveelheid Alchemica bezitten. Naarmate het installatieniveau stijgt, neemt de oogst en capaciteit toe.
+Each type of Haarvester is capable of harvesting one type of Alchemica, and each Reservoir can hold a certain amount of one type of Alchemica. As the Installation level increases, Harvest Rate and Capacity both increase.
 
-**Spillover** is een ander eigendom van Reservoirs dat bepaalt hoeveel en hoe ver Alchema vrijkomt wanneer het wordt opgeëist uit de Reservoir. Reservoirs op lager niveau hebben een hogere Spillover hoeveelheid en Spillover radius, en deze bedragen worden verlaagd met verdere upgrades.
+**Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
 
 You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook%20-%20Latest.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
 
-**Installaties verwijderen**
+**Removing Installations**
 
-Zodra een installatie aan een parceel is toegevoegd, kan deze worden geüpgraded of verwijderd. To view upgrading cost for existing installations, check out the [recipes page](/recipes).
+Once an Installation is added to a Parcel, it can be upgraded or removed. To view upgrading cost for existing installations, check out the [recipes page](/recipes).
 
 Tiles and [Aesthetica](/aesthetica) are **not burnt** on unequip/removal.
 
