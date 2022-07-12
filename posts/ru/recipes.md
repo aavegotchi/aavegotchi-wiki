@@ -87,9 +87,13 @@ table_kekReservoir
 
 ## LE Golden Aaltar
 
+*From 31 March - 30 April 2022 only*
+
 table_goldenAaltar
 
 ## LE Golden Tiles
+
+*From 20 April - 1 June 2022 only*
 
 table_goldenTiles
 
@@ -99,8 +103,12 @@ table_maaker
 
 ## Grass
 
+*For a limited time only*
+
 table_grass
 
 ## ROFL Rug
+
+*For a limited time only*
 
 table_roflRug
