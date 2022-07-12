@@ -35,6 +35,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
 <p><a href=#crafting-revenue-distribution>Crafting Revenue Distribution</a></p>
+<p><a href=#realm-parcel-access-rights>REALM Parcel Access Rights</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Эмиссия (общее предложение) земель</a></p>
 <p><a href=#distribution>Распределение</a></p>
@@ -266,6 +267,26 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 **Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+
+### REALM Parcel Access Rights
+
+REALM Owners can toggle the access rights to their REALM Parcels at the [My REALM Parcels page](https://app.aavegotchi.com/my-realm).
+
+<img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
+
+There are 4 types of Access Rights:
+
+* Alchemical Channelling
+* Empty Reservoir
+* Equip Installations
+* Equip Tiles
+
+The options for the Access Rights include:
+* Only me (Default)
+* Me + Borrowed Gotchi
+* Whitelist (Coming Soon)
+* Ban List (Coming Soon)
+* Anyone
 
 ## REALM Tokenomics
 
