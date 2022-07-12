@@ -87,20 +87,28 @@ tafel_kekReservoir
 
 ## LE Gouden Aaltar
 
-tafel_goldenAaltar
+*From 31 March - 30 April 2022 only*
+
+table_goldenAaltar
 
 ## LE Gouden tegels
 
-tafel_goldentegels
+*From 20 April - 1 June 2022 only*
+
+table_goldenTiles
 
 ## Maaker
 
-tafel_maaker
+table_maaker
 
 ## Grass
+
+*For a limited time only*
 
 table_grass
 
 ## ROFL Rug
+
+*For a limited time only*
 
 table_roflRug
