@@ -26,6 +26,8 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Wearables](/wearables) -- Fashion for your Aavegotchi
 * [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
 
 ## Другие полезные страницы
 
