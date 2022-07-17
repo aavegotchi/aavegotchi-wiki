@@ -278,4 +278,14 @@ export const tables
                 ]
             }
         },
+		{
+            tableName: "graandFountain",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Graand Fountain", "1", "10000", "0", "6008.2", "0", "Instant"]
+                ]
+            }
+        }
     ]
