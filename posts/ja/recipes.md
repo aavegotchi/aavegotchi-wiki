@@ -31,6 +31,7 @@ contributors:
 <li><a href=#maaker>メーカー</a></li>
 <li><a href=#grass>Grass</a></li>
 <li><a href=#rofl-rug>ROFL Rug</a></li>
+<li><a href=#graand-fountain>Graand Fountain</a></li>
 </ol>
 
 </div>
@@ -87,9 +88,13 @@ table_kekReservoir
 
 ## LEゴールデンアールター
 
+*From 31 March - 30 April 2022 only*
+
 table_goldenAaltar
 
 ## LEゴールデンタイル
+
+*From 20 April - 1 June 2022 only*
 
 table_goldenTiles
 
@@ -99,8 +104,16 @@ table_maaker
 
 ## Grass
 
+*For a limited time only*
+
 table_grass
 
 ## ROFL Rug
 
+*For a limited time only*
+
 table_roflRug
+
+## Graand Fountain
+
+table_graandFountain

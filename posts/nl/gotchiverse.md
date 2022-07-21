@@ -35,6 +35,7 @@ De Gotchiverse begon met slechts een handvol Aavegotchis, maar naarmate de liqui
 <li><a href=#building-on-realm-parcels>Bouwen op REALM Parcelen</a></li>
 <p><a href=#installation-traits-and-recipes>Installatie Eigenschappen en Recept</a></p>
 <p><a href=#crafting-revenue-distribution>Crafting Inkomsten Distributie</a></p>
+<p><a href=#realm-parcel-access-rights>REALM Parcel Access Rights</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Totale Aanbod</a></p>
 <p><a href=#distribution>Distributie</a></p>
@@ -267,6 +268,26 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
+### REALM Parcel Access Rights
+
+REALM Owners can toggle the access rights to their REALM Parcels at the [My REALM Parcels page](https://app.aavegotchi.com/my-realm).
+
+<img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
+
+There are 4 types of Access Rights:
+
+* Alchemical Channelling
+* Empty Reservoir
+* Equip Installations
+* Equip Tiles
+
+The options for the Access Rights include:
+* Only me (Default)
+* Me + Borrowed Gotchi
+* Whitelist (Coming Soon)
+* Ban List (Coming Soon)
+* Anyone
+
 ## REALM Tokenomics
 
 ### Totale Aanbod
@@ -299,9 +320,9 @@ Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Ba
 
 There are three ways to get Drop Tickets:
 
-* Ruil 10.000 FRENS om voor één Drop Ticket
-* Ruil andere Lotterij Tickets om voor een Drop Ticket
-* Refereer je vrienden om drop-Tickets te verdienen 🔥
+* Convert 10,000 FRENS into one Drop Ticket
+* Convert other Raffle Tickets into a Drop Ticket
+* Refer your friends to earn Drop Tickets 🔥
 
 ### Parcel Boosts
 

@@ -26,6 +26,8 @@ Hãy đến ngay phần [Giới thiệu](/introduction) để xem qua một bài
 * Mua [wearables](/wearables) để triệu hồi Aavegotchis
 * [Mini-Games](/minigames) -- Hãy chơi một số mini-games với Aavegotchi của bạn nhé
 * [Rarity Farming](/rarity-farming) -- Chơi game Aavegotchi và kiếm giải thưởng!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
 
 ## Những Trang Hữu Ích Khác
 

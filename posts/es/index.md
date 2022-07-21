@@ -26,6 +26,8 @@ Dirígete a [Introducción](/introduction) para obtener una visión general de a
 * [Wearables](/wearables) -- Complementos para tu Aavegotchi
 * [Mini-juegos](/minigames) -- Juega algunos minijuegos con tu Aavegotchi
 * [Rarity Farming](/rarity-farming) -- ¡Juega a Aavegotchi y gana recompensas!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
 
 ## Otros enlaces útiles
 

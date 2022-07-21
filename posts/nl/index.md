@@ -26,6 +26,8 @@ Ga naar [Introductie](/introduction) voor een hoogstaand overzicht van het Aaveg
 * [Wearables](/wearables) -- Fashion voor je Aavegotchi
 * [Mini-Games](/minigames) -- Speel enkele mini-games met je Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Speel Aavegotchi en verdien beloningen!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
 
 ## Andere nuttige pagina's
 

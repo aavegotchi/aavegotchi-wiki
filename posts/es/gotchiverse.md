@@ -35,11 +35,12 @@ El Gotchiverso comenzó con sólo un puñado de Aavegotchis, pero a medida que l
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Recetas y características de las instalaciones</a></p>
 <p><a href=#crafting-revenue-distribution>Distribución de los Ingresos de Fabricación</a></p>
+<p><a href=#realm-parcel-access-rights>REALM Parcel Access Rights</a></p>
 <li><a href=#realm-tokenomics>REALM Tokenomics</a></li>
 <p><a href=#total-supply>Suministro Total</a></p>
-<p><a href=#distribution>Distribución</a></p>
-<p><a href=#drop-tickets>Drop Ticket</a></p>
-<p><a href=#parcel-boosts>Potenciador de las parcelas</a></p>
+<p><a href=#distribution>Distribution</a></p>
+<p><a href=#drop-tickets>Drop Tickets</a></p>
+<p><a href=#parcel-boosts>Parcel Boosts</a></p>
 </ol>
 
 </div>
@@ -267,13 +268,33 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 **A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
+### REALM Parcel Access Rights
+
+REALM Owners can toggle the access rights to their REALM Parcels at the [My REALM Parcels page](https://app.aavegotchi.com/my-realm).
+
+<img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
+
+There are 4 types of Access Rights:
+
+* Alchemical Channelling
+* Empty Reservoir
+* Equip Installations
+* Equip Tiles
+
+The options for the Access Rights include:
+* Only me (Default)
+* Me + Borrowed Gotchi
+* Whitelist (Coming Soon)
+* Ban List (Coming Soon)
+* Anyone
+
 ## REALM Tokenomics
 
 ### Suministro Total
 
 The total supply of REALM is 420,069. Initially, 155,069 REALM will be unlocked and distributed over a period of two years (Act 1). They make up the Citaadel and the Grid. The remaining REALM are currently obscured in an area known as The Beyond. As certain game milestones are reached, these REALM will be unlocked to offer new game experiences (Acts 2-3).
 
-### Distribución
+### Distribution
 
 REALM Parcels will be distributed in two main ways:
 
@@ -291,7 +312,7 @@ Method 2: Raffle (20%)
 
 The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
 
-### Drop Ticket
+### Drop Tickets
 
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents **one** entry into the NFT Raffles, where you can win Aavegotchi Portals and REALM Parcels.
 
@@ -303,7 +324,7 @@ There are three ways to get Drop Tickets:
 * Convert other Raffle Tickets into a Drop Ticket
 * Refer your friends to earn Drop Tickets 🔥
 
-### Potenciador de las parcelas
+### Parcel Boosts
 
 Some REALM parcels come with Parcel Boosts. Parcel Boosts are spots of Alchemica directly adjacent to REALM Parcels within the Gotchiverse. Unlike surveyed Alchemica, which is randomly given by Chainlink VRF, Parcel Boosts are base amounts of Alchemica that are added to the total Alchemica of a Parcel after surveying.
 
