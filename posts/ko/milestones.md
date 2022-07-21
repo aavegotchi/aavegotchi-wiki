@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Chainlink VRF comes to REALM Parcel surveying!](https://blog.aavegotchi.com/aavegotchi-expands-use-of-chainlink-vrf-to-help-calculate-alchemica-with-gotchiverse-land-parcels/)
+* Find out how Chainlink VRF empowers the randomized calculation of Alchemica tokens in your REALM parcel!
+<p></p>
+
 ## [Haarvesters, Reservoirs, and Maakers coming to you soon!](https://blog.aavegotchi.com/alpha-leak-gotchiverse-farming-release-incoming/)
 * 3 new Installations incoming!
 * New ways to play-to-earn, extracting Alchemica from your Parcel, and moar!
