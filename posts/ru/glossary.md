@@ -34,17 +34,26 @@ contributors:
 <p><a href=#drop-tickets>Дроп билетов.</a></p>
 <p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Инвентарь призрака.</a></p>
-<p><a href=#gotchus-alchemica>Алхимия Готчи.</a></p>
 <p><a href=#gotchus-alchemica-exchange>Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
-<p><a href=#installations>Installations</a></p>
 <p><a href=#raffle-tickets>Лотерейные билеты.</a></p>
-<p><a href=#realm>REALM</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
 <p><a href=#ugotchi-token>Токен uGOTCHI.</a></p>
 <p><a href=#wearables>Элементы экипировки</a></p>
-<li><a href=#defi-101>Термины DeFi 101:</a></li>
+<li><a href=#gotchiverse-specific>Gotchiverse-specific</a></li>
+<p><a href=#lickquidator>Lickquidator</a></p>
+<p><a href=#realm-parcel>REALM Parcel</a></p>
+<p><a href=#installations>Installations</a></p>
+<p><a href=#gotchus-alchemica>Алхимия Готчи.</a></p>
+<p><a href=#vortex>Vortex</a></p>
+<p><a href=#spillover>Spillover</a></p>
+<p><a href=#spillover-rate>Spillover Rate</a></p>
+<p><a href=#spillover-radius>Spillover Radius</a></p>
+<p><a href=#alchemical-channeling>Alchemical Channeling</a></p>
+<p><a href=#aesthetica>Aesthetica</a></p>
+<p><a href=#tile>Tile</a></p>
+<li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
@@ -53,7 +62,6 @@ contributors:
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
 <p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>маТокены</a></p>
@@ -71,7 +79,7 @@ contributors:
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
-<p><a href=#metaverse>Метавселенная</a></p>
+<p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
@@ -126,13 +134,6 @@ Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allow
 
 Technically, a Gotchi Pocket is an escrow address.
 
-### Алхимия Готчи.
-Gotchus Alchemica are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft [Installations](/glossary#installations) and Aesthetica, among other uses.
-
-Technically, each element exists as an ERC-20 token.
-
-Check the [Gotchiverse page](/gotchiverse) for more information.
-
 ### Децентрализованная биржа (GAX) — Gotchus Alchemica Exchange
 
 The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
@@ -140,20 +141,12 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 ### Haunts
 [Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
 
-### Installations
-Installations are powerful structures that can be created on REALM parcels using quantities of resources known as [Gotchus Alchemica](/glossary#gotchus-alchemica).
-
-Check out the [Gotchiverse page](/gotchiverse#building-on-realm-parcels) for a list of Installations that you can build.
-
 ### Лотерейные билеты.
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
 
 Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
-
-### REALM
-Plots of land in the Gotchiverse that your Gotchi lives in. A place for socializing, going on aadventures, and fighting baaddies!
 
 ### Spirit Force
 Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
@@ -177,17 +170,47 @@ Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 sta
 
 Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
 
-## Термины DeFi 101:
+## Gotchiverse-specific
+
+### Lickquidator
+The mortal enemies of Aavegotchis. Also, technically, their creators. Has a rapacious appetite for yield.
+
+### REALM Parcel
+
+ERC721 NFT land owned in the Gotchiverse. Can equip Installations (Aaltar, Haarvester) and Tiles. Can also be surveyed and farm Alchemica.
+
+### Installations
+ERC-1155 NFTs that can be placed on top of a REALM Parcel. Some have various purposes and utilities, and some are purely aesthetic.
+
+### Алхимия Готчи.
+The building blocks of the Gotchiverse. Used to craft Installations and Tiles. Read the [Gotchus Alchemica page](/gotchus-alchemica) for more information.
+
+### Vortex
+A powerful portal between the Nether Realm (Gotchiverse) and Ether Realm (Ethereum) through which tokens can flow.
+
+### Spillover
+Alchemica spread onto the surface of the Gotchiverse, whether by Alchemical Channeling, Reservoir emptying, or other special events.
+
+### Spillover Rate
+The percentage of Alchemica that is spilled over during Alchemical Channeling or Reservoir emptying.
+
+### Spillover Radius
+The distance that Alchemica is spilled during Alchemical Channeling or Reservoir emptying.
+
+### Alchemical Channeling
+A ritual that summons Alchemica from the Gotchiverse to fall nearby an Aavegotchi.
+
+### Aesthetica
+A subset of Installations. Purely  a e s t h e t i c .
+
+### Tile
+An ERC-1155 NFT that can be placed on a REALM parcel. Rests underneath the Installation layer.
+
+## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
-
 That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
-
-
-At the time of writing (December 5 2020), the Total Value Locked in Defi stands at 14.24B USD.
-
-## Ключевые термины
 
 ### amTokens
 amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
@@ -208,9 +231,7 @@ An AMM works similarly to an order book exchange in that there are trading pairs
 ### Collateral
 Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
-
 In the context of DeFi, this is how things might look:
-
 
 Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
 
@@ -226,35 +247,18 @@ In the context of the AavegotchiDAO, what this means is that members of the ecos
 
 For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
-
-
 ### DEX
 Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
-
-Some examples of DEXs include UniSwap, Mesa and Balancer.
-
+Some examples of DEXs include UniSwap, SushiSwap, and Balancer.
 
 Some examples of CEXs include Binance, Coinbase and OKex.
-
-
-### Flash Loans
-Remember what we mentioned above about loans and collaterals? Well, flash loans are a form of loan that get around that need for putting down collateral. However, there's a catch.
-
-The flash loan has to be repaid within the same transaction block.
-
-If this doesn't happen, the whole transaction is reversed to effectively undo the actions executed up until that point. You can read more about Flash Loans [here](https://aave.com/flash-loans/).
-
-
 
 ### Impermanent Loss
 The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
 
-
-
 ### Liquidity Pools
-The term is somewhat self-explanatory. These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
-
+These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
 For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
@@ -270,17 +274,11 @@ In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glos
 ### Oracles
 In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
-
-
 ### Smart Contracts
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
-
-
 ### Стейкинг
 Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
-
-
 
 ### Yield Farming
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
@@ -349,7 +347,7 @@ First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending
 
 For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
-### Метавселенная
+### Metaverse
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
