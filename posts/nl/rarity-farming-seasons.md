@@ -17,8 +17,9 @@ Rarity Farming is georganiseerd in verschillende seizoenen. Hier zijn de gegeven
 <li><a href=#season-1>Seizoen 1</a></p>
 <li><a href=#season-2>Seizoen 2</a></p>
 <li><a href=#season-3>Seizoen 3</a></p>
-<li><a href=#ghst-distribution-by-season>GHST Distributie Per Seizoen</a></p>
-<li><a href=#references>Referenties</a></p>
+<li><a href=#season-4>Season 4</a></p>
+<li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
+<li><a href=#references>References</a></p>
 </ol>
 
 </div>
@@ -35,7 +36,7 @@ Er waren drie categorieën om te concurreren op:
 
 * XP (10% van de beloningen pool / 140,000 GHST)
 
-[Spreadsheet van Rarity Farming Seizoen 1 Beloningen](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[Spreadsheet van Rarity Farming Seizoen 1 Beloningen](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/)
 
 ## Seizoen 2
 
@@ -53,7 +54,7 @@ Er waren 5 categorieën om te concurreren op:
 
 * Beginner XP (10% van de beloningen pool / 200.000 GHST)
 
-[Spreadsheet van Rarity Farming Seizoen 2 Beloningen](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
+[Spreadsheet van Rarity Farming Seizoen 2 Beloningen](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/)
 
 ## Seizoen 3
 
@@ -67,16 +68,32 @@ Er waren drie categorieën om te concurreren op:
 
 * XP (10% van de beloningen pool / 150,000 GHST)
 
-[Spreadsheet van Rarity Farming Seizoen 3 Beloningen](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
+[Spreadsheet van Rarity Farming Seizoen 3 Beloningen](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-## GHST distributie per Seizoen
+## Season 4
 
-tabel_rarityFarmingSeizoenen
+Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 4.
 
-## Referenties
+Er waren drie categorieën om te concurreren op:
 
-* [Rarity Farming Seizoen 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* Zeldzaamheid (70% van de beloningen pool / 1.050.000 GHST)
+
+* Kinship (20% van de beloningen pool / 300.000 GHST)
+
+* XP (10% van de beloningen pool / 150,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
+
+## GHST Distribution by Season
+
+table_rarityFarmingSeasons
+
+## References
+
+* [Rarity Farming Season 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 
 * [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
-* [Rarity Farming Seizoen 3 Blogpost](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+
+* [Rarity Farming Season 4 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)
