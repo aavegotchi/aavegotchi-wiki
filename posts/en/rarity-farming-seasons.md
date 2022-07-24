@@ -16,6 +16,7 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 <li><a href=#season-1>Season 1</a></p>
 <li><a href=#season-2>Season 2</a></p>
 <li><a href=#season-3>Season 3</a></p>
+<li><a href=#season-4>Season 4</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -34,7 +35,7 @@ There were 3 categories to compete on:
 
 * XP (10% of the rewards pool / 140,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 1 Rewards](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[Spreadsheet of Rarity Farming Season 1 Rewards](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/)
 
 ## Season 2
 
@@ -52,7 +53,7 @@ There were 5 categories to compete on:
 
 * Rookie XP (10% of the rewards pool / 200,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 2 Rewards](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
+[Spreadsheet of Rarity Farming Season 2 Rewards](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/)
 
 ## Season 3
 
@@ -66,7 +67,21 @@ There were 3 categories to compete on:
 
 * XP (10% of the rewards pool / 150,000 GHST)
 
-[Spreadsheet of Rarity Farming Season 3 Rewards](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
+[Spreadsheet of Rarity Farming Season 3 Rewards](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+
+## Season 4
+
+Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 4.
+
+There were 3 categories to compete on:
+
+* Rarity (70% of the rewards pool / 1,050,000 GHST)
+
+* Kinship (20% of the rewards pool / 300,000 GHST)
+
+* XP (10% of the rewards pool / 150,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
 
 ## GHST Distribution by Season
 
@@ -79,3 +94,5 @@ table_rarityFarmingSeasons
 * [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
 * [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+
+* [Rarity Farming Season 4 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)
