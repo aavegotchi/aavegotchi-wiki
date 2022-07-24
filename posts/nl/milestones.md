@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi Rarity Farming Season 4 is Coming!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)
+* Are you excited?! Rarity Farming Season 4 will be starting on Thursday, July 28th!
+* 1.5 million GHST are up for grabs!
+<p></p>
+
 ## [Chainlink VRF comes to REALM Parcel surveying!](https://blog.aavegotchi.com/aavegotchi-expands-use-of-chainlink-vrf-to-help-calculate-alchemica-with-gotchiverse-land-parcels/)
 * Find out how Chainlink VRF empowers the randomized calculation of Alchemica tokens in your REALM parcel!
 <p></p>
