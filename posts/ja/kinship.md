@@ -46,7 +46,7 @@ table_kinship
 
 ## キンシップとアルケミカ・チャネリング
 
-キンシップはアルケミカ・チャネリングに使用されます。 アルケミカ・チャネリングは、Aavegotchi達が獲得する基本的な日当で、[区画](/gotchiverse)から収穫されるのではなく、ゴッチバースのエーテルから直接得られるものです。
+Kinship is used for [Alchemical Channeling](/alchemical-channeling). アルケミカ・チャネリングは、Aavegotchi達が獲得する基本的な日当で、[区画](/gotchiverse)から収穫されるのではなく、ゴッチバースのエーテルから直接得られるものです。
 
 ゴッチがアルケミカ・チャネリングによって受け取るアルケミカ（FUD、FOMO、ALPHA、KEK）の量は、主にそのキンシップレベルに依存します。
 
