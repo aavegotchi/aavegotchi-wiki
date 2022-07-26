@@ -25,17 +25,19 @@ Avegotchi Wikiのページ一覧です：
 
 * [エージングメカニズム](/aging-mechanic)
 
+* [Alchemical Channeling](/alchemical-channeling)
+
 * [バッジ](/baadge)
 
-* [バアード（Baard）](/baard)
+* [Baard (ミュージシャン)](/baard)
 
-* [バザール（Baazaar）](/baazaar)
+* [Baazaar](/baazaar)
 
-* [ブリッジ（Bridge）](/bridge)
+* [Bridge](/bridge)
 
 * [コンテスト](/contests)
 
-* [コントラクト（Contracts）](/contracts)
+* [Contracts](/contracts)
 
 * [ボンディング・カーブ](/curve)
 
