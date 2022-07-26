@@ -25,6 +25,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Mécanique du vieillissement](/aging-mechanic)
 
+* [Alchemical Channeling](/alchemical-channeling)
+
 * [Baadge](/baadge)
 
 * [Baard](/baard)
