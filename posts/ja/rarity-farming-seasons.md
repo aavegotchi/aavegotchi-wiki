@@ -17,8 +17,9 @@ contributors:
 <li><a href=#season-1>シーズン1</a></p>
 <li><a href=#season-2>シーズン2</a></p>
 <li><a href=#season-3>シーズン3</a></p>
-<li><a href=#ghst-distribution-by-season>シーズン別GHST配布</a></p>
-<li><a href=#references>参考資料</a></p>
+<li><a href=#season-4>Season 4</a></p>
+<li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
+<li><a href=#references>References</a></p>
 </ol>
 
 </div>
@@ -35,7 +36,7 @@ contributors:
 
 * XP（賞金総額の10％／14万GHST）
 
-[レアリティファーミングシーズン1報酬一覧表](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[レアリティファーミングシーズン1報酬一覧表](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/)
 
 ## シーズン2
 
@@ -53,7 +54,7 @@ contributors:
 
 * ルーキーXP（賞金総額の10％／20万GHST)
 
-[レアリティファーミングシーズン2報酬一覧表](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
+[レアリティファーミングシーズン2報酬一覧表](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/)
 
 ## シーズン3
 
@@ -67,16 +68,32 @@ contributors:
 
 * XP（賞金総額の10％／15万GHST）
 
-[レアリティファーミングシーズン3報酬一覧表](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
+[レアリティファーミングシーズン3報酬一覧表](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-## シーズン別GHST配布
+## Season 4
+
+Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 4.
+
+3つのカテゴリーで競われました：
+
+* レアリティ（賞金総額の70％／105万GHST）
+
+* キンシップ（賞金総額の20％／30万GHST）
+
+* XP（賞金総額の10％／15万GHST）
+
+[Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
+
+## GHST Distribution by Season
 
 table_rarityFarmingSeasons
 
-## 参考資料
+## References
 
-* [レアリティ・ファーミング シーズン1 ミディアムポスト](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* [Rarity Farming Season 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 
-* [レアリティ・ファーミング シーズン2 ミディアムポスト](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
-* [レアリティ・ファーミング シーズン3 ブログポスト](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+
+* [Rarity Farming Season 4 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)

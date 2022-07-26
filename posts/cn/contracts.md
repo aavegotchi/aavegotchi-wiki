@@ -32,21 +32,21 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 ## Contract Addresses on Polygon
 
-* GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
+### NFT Contracts
 
-* stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://explorer-mainnet.maticvigil.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+* Gotchiverse REALM Diamond Address: [0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11](https://polygonscan.com/address/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11)
 
-* stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://explorer-mainnet.maticvigil.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
+* Installations Diamond Address: [0x19f870bD94A34b3adAa9CaA439d333DA18d6812A](https://polygonscan.com/address/0x19f870bD94A34b3adAa9CaA439d333DA18d6812A)
 
-* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+* Tiles Diamond Address: [0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355](https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355)
 
-* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://explorer-mainnet.maticvigil.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+* Aavegotchi and Wearables Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
-* Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
+### Tokens Contracts
 
-* Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://explorer-mainnet.maticvigil.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+* GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://polygonscan.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
 
-* Opensea (for Aavegotchis and Wearables) Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://explorer-mainnet.maticvigil.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
 
 * FUD Token Address: [0x403E967b044d4Be25170310157cB1A4Bf10bdD0f](https://polygonscan.com/token/0x403E967b044d4Be25170310157cB1A4Bf10bdD0f)
 
@@ -56,8 +56,22 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 * KEK Token Address: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
 
-* wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/token/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
-
 * GLTR Token Address: [0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc](https://polygonscan.com/token/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc)
 
+### Staking Contracts
+
+* stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+
+* stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://polygonscan.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
+
+* GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+
 * GLTR Staking Address: [0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c](https://polygonscan.com/token/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c)
+
+### Others
+
+* DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://polygonscan.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+
+* Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://polygonscan.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
+
+* Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)

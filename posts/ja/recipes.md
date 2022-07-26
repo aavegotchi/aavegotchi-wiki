@@ -32,6 +32,7 @@ contributors:
 <li><a href=#grass>Grass</a></li>
 <li><a href=#rofl-rug>ROFL Rug</a></li>
 <li><a href=#graand-fountain>Graand Fountain</a></li>
+<li><a href=#nft-display-a>NFT Display A</a></li>
 </ol>
 
 </div>
@@ -117,3 +118,7 @@ table_roflRug
 ## Graand Fountain
 
 table_graandFountain
+
+## NFT Display A
+
+table_nftDisplayA

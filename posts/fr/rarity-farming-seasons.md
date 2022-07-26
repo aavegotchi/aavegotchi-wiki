@@ -17,8 +17,9 @@ L'agriculture de rareté (Rarity Farming) est organisée en différentes saisons
 <li><a href=#season-1>Saison 1</a></p>
 <li><a href=#season-2>Saison 2</a></p>
 <li><a href=#season-3>Saison 3</a></p>
-<li><a href=#ghst-distribution-by-season>Distribution de GHST par saison</a></p>
-<li><a href=#references>Références</a></p>
+<li><a href=#season-4>Season 4</a></p>
+<li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
+<li><a href=#references>References</a></p>
 </ol>
 
 </div>
@@ -35,7 +36,7 @@ Il y a eu 3 catégories pour rivaliser sur:
 
 * XP (10% du pool de récompenses / 140 000 GHST)
 
-[Feuille de calcul des récompenses de la saison 1 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/edit#gid=1912841879)
+[Feuille de calcul des récompenses de la saison 1 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1Q8vvu38B5cgs2zor8GmkBNHOT9ZZ6i1OBe8JvNlHSFI/)
 
 ## Saison 2
 
@@ -53,7 +54,7 @@ Il y a eu 5 catégories pour rivaliser sur:
 
 * XP débutant (10% du pool de récompenses / 200 000 GHST)
 
-[Feuille de calcul des récompenses de la saison 2 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/edit)
+[Feuille de calcul des récompenses de la saison 2 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1H5MmCmMxTGlbae3FT-v-w7T5XH6pN7y9trAFlb4lxbQ/)
 
 ## Saison 3
 
@@ -67,16 +68,32 @@ Il y a eu 3 catégories pour rivaliser sur:
 
 * XP (10% du pool de récompenses / 150 000 GHST)
 
-[Feuille de calcul des récompenses de la saison 3 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/edit#gid=1264384541)
+[Feuille de calcul des récompenses de la saison 3 de l'agriculture de rareté (rarity farming)](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-## Répartition des GHST par saison
+## Season 4
+
+Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 4.
+
+Il y a eu 3 catégories pour rivaliser sur:
+
+* Rareté (70% du pool de récompenses / 1,050,000 GHST)
+
+* Parenté (20% du pool de récompenses / 300,000, GHST)
+
+* XP (10% du pool de récompenses / 150 000 GHST)
+
+[Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
+
+## GHST Distribution by Season
 
 table_rarityFarmingSeasons
 
-## Références
+## References
 
-* [Agriculture de rareté (Rarity Farming) Saison 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* [Rarity Farming Season 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 
-* [Agriculture de rareté (Rarity Farming) Saison 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
-* [Agriculture de rareté (Rarity Farming) Saison 3 Medium post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+* [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
+
+* [Rarity Farming Season 4 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)

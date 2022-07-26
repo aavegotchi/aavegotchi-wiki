@@ -117,7 +117,7 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Redes Sociales](/socialmedia)
 
-* [Spirit Force](/spirit-force)
+* [Fuerza Espiritual](/spirit-force)
 
 * [Spirit Force History](/spirit-force-history)
 
