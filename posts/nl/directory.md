@@ -25,17 +25,19 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Aging Mechanisme](/aging-mechanic)
 
+* [Alchemical Channeling](/alchemical-channeling)
+
 * [Baadge](/baadge)
 
 * [Baards](/baard)
 
 * [Baazaar](/baazaar)
 
-* [Brug](/bridge)
+* [Bridge](/bridge)
 
 * [Wedstrijden](/contests)
 
-* [Contracten](/contracts)
+* [Contracts](/contracts)
 
 * [Bonding Curve](/curve)
 
