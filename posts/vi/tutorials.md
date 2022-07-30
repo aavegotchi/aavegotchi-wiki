@@ -29,22 +29,21 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Cách mua Aavegotchi trên Kovan Testnet</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)</a></li>
-<li><a href=#buying-tokens-straight-into-polygon>Mua token và nhận trực tiếp vào ví trên Polygon</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar đã có mặt trên Testnet Mumbai</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
-<li><a href=#entering-raffle-4>Tham gia Raffle 4</a></li>
-<li><a href=#participating-in-gbm-auctions>Tham gia đấu giá GBM</a></li>
-<li><a href=#full-guide-to-buying-land>Hướng dẫn toàn tập các mua land</a></li>
-<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Hướng Dẫn Đấu Giá Land</a></li>
-<li><a href=#traits---bell-curve-explained>Giải Thích về Trait và Bell Curve</a></li>
-<li><a href=#buying-an-aavegotchi--video->Mua Aavegotchi (Video)</a></li>
-<li><a href=#buying-ghst-token--article->Mua Token GHST (Bài viết)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->Tham gia AavegotchiDAO (Bài Viết)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Tham gia Gotchiverse trên Mumbai Testnet</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
+<li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
+<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
+<li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
+<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
+<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
 </div>
@@ -56,152 +55,139 @@ Bọn mình đã chuẩn bị một vài bài hướng dẫn để giúp bạn b
 
 <hr />
 
-### Cách mua Aavegotchi trên Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Học cách mua token GHST từ Uniswap
-* Học cách mua Portal trên Kovan Testnet
-* Học cách mở Portal trên Kovan Testnet
-* Học cách chọn một Aavegotchi từ những Portal đã mở trên Kovan Testnet
-* Học cách triệu hồi Aavegotchi từ Portal đã mở trên Kovan Testnet
-* Học cách lấy aToken
-* Học cách chơi Aavegotchi trên Kovan Testnet
-
-<hr />
-
-### Dịch chuyển token GHST từ Ethereum Mainnet đến Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Học cách chuyển token GHST từ Ethereum Mainnet sang Polygon (trước đây là Matic Network)
+* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
 * Học cách cấu hình MetaMask để truy cập vào mạng Polygon
-* Học cách thêm token trên Polygon vào MetaMask
-* Học cách stake token GHST trên Polygon
+* Learn how to add tokens from Polygon to your MetaMask
+* Learn how to stake GHST tokens on Polygon
 
 <hr />
 
-### Cách chuyển token GHST từ Ethereum Mainnet đến Polygon (Bài viết)
-Xem bài viết tại [đây](/polygon)
+### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
+Click [here](/polygon) for the article
 
-* Tìm hiểu nguyên nhân tại sao Aavegotchi lại chọn Polygon (tên trước đó là Matic) làm giải pháp Layer 2.
+* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
 * Học cách cấu hình MetaMask để truy cập vào mạng Polygon
-* Tìm hiểu cách chuyển tài sản giữa 2 mạng bằng giao diện ví Polygon
-* Tìm hiểu cách chuyển tài sản về Ethereum Mainnet từ mạng Polygon
+* Learn how to bridge assets using the Polygon wallet interface
+* Learn how to bridge assets back to Ethereum Mainnet from Polygon
 
 <hr />
 
-### Mua token và nhận trực tiếp vào ví trên Polygon
-Xem bài viết tại [đây](https://trasher.substack.com/p/buying-your-tokens-straight-into)
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
 
-* Học cách sử dụng tiền pháp định để mua token và nhận trực tiếp trên Polygon
+* Learn how to use fiat currency to buy tokens directly to Polygon
 
 <hr />
 
 ### maTokens
-Xem bài viết tại [đây](/matokens)
+Click [here](/matokens) for the article
 
-* Tìm hiểu cách chuyển đổi aToken thành maToken thông qua Aavegotchi Bridge
-* Cách chuyển tiền từ AscendEX to Polygon
-* Cách dùng Transak để chuyển tiền pháp định thành tiền mã hoá trên Polygon.
-* Tìm hiểu cách stake maToken vào Aavegotchi
-
-<hr />
-
-### Aavegotchi Baazaar đã có mặt trên Testnet Mumbai
-Xem bài viết tại [đây](/mumbai-testnet)
-
-* Học cách cấu hình MetaMask để truy cập vào mạng Polygon
-* Tìm hiểu cách nhận token từ Faucet của Mumbai
-* Học cách nhận token GHST trên Mumbai
+* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to transfer funds through AscendEX to Polygon
+* Learn how to use Transak as a fiat-to-Polygon on-ramp
+* Learn how to stake maTokens into Aavegotchis
 
 <hr />
 
-### Aavegotchi Pre-Launch Checklist
-Xem bài viết tại [đây](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist)
+### Aavegotchi Baazaar on Mumbai Testnet
+Click [here](/mumbai-testnet) for the article
 
-* Tìm hiểm cách kiếm ETH
-* Tìm hiểu cách chuyển ETH sang Polygon
-* Tìm hiểu cách mua ETH bằng Quickswap
-
-<hr />
-
-### Tham gia Raffle <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Học cách dùng [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) để tính ra cơ hội thắng giải của bạn
-* Học cách stake token GHST trên Polygon
-* Học cách dùng FRENS để mua vé Raffle
-* Học cách truy cập vào Aavegotchi Baazaar
-* Học cách đăng bán vé Raffle trên Baazaar
+* Learn how to configure MetaMask to display Mumbai Testnet
+* Learn how to get tokens from the Mumbai Faucet
+* Learn how to get Mumbai GHST tokens
 
 <hr />
 
-### Tham gia đấu giá GBM <iframe border=0 frameborder=0 width="560" height="600"
+### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* Learn how to stake GHST tokens on Polygon
+* Learn how to buy Raffle tickets with FRENS
+* Learn how to access the Aavegotchi Baazaar
+* Learn how to list your Raffle tickets at the Baazaar
+
+<hr />
+
+### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
-* Xem sự kiện GBM trực tiếp diễn ra như thế nào
-* Xem các đấu giá trong sự kiện Đấu Giá GBM
-* Học cách lọc trong Đấu Giá GBM
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction
 
 <hr />
 
-### Hướng dẫn toàn tập các mua land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Học về Aavegotchi và Lickquidator
-* Học về gói đất REALM
-* Học về Gotchus Alchemica và tokenomics của chúng
-* Học về các hoạt động có thể thực hiện đối với những gói đất REALM
-* Học cách mua gói đất REALM
-
-<hr />
-
-### Aavegotchi: Hướng Dẫn Đấu Giá Land <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Học về gói đất REALM
-* Tìm hiểu về Gotchus Alchemica
-* Tìm hiểu về các tính năng khiến mọi người săn lùng gói đất REALM
-* Tìm hiểu cách định vị bản đồ Đấu Giá
-* Tìm hiểu các chiến thuật Đấu Giá
+* Learn about Aavegotchis and Lickquidators
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica and their tokenomics
+* Learn what you can do with your REALM parcels
+* Learn how to buy a REALM parcel
 
 <hr />
 
-### Giải Thích về Trait và Bell Curve <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Tìm hiểu về Trait
-* Tìm hiểu về Bell Curve
-* Tìm hiểu về Trang phục ảnh hướng đến Trait
-* Tìm hiểu về những nguồn tài nguyên cộng đồng đang có
-
-<hr />
-
-### Mua Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Tìm hiểu về cách mua Aavegotchi trên Baazaar
-* Tìm hiểu về cách mua cổng mở hoặc chưa mở trên Baazaar
-* Tìm hiểu về cách triệu hồi Aavegotchi từ portal đã mở
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica
+* Learn about what features make REALM parcels desirable
+* Learn how to navigate the Auction map
+* Learn about Auction strategies
 
 <hr />
 
-### Mua Token GHST (Bài viết)
-Xem bài viết tại [đây](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/)
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Tìm hiểu về token GHST
-* Tìm hiểu cách sử dụng token
-* Tìm hiểu cách mua GHST
-
-<hr />
-
-### Tham gia AavegotchiDAO (Bài Viết)
-Xem bài viết tại [đây](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/)
-
-* Tìm hiểu về AavegotchiDAO Forum
-* Tìm hiểu cách tạo Signal Proposals
-* Tìm hiểu cách Signal Proposals trở thành Core Proposals
-* Tìm hiểu những loại Core Proposal khác nhau
-* Tìm hiểu cách biệt số phiếu
-* Tìm hiểm cách bỏ phiếu
+* Learn about Traits
+* Learn about the Bell Curve
+* Learn about how Wearables affect Traits
+* Learn about what community resources are available
 
 <hr />
 
-### Tham gia Gotchiverse trên Mumbai Testnet
-Xem bài viết tại [đây](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Tìm hiểu những thứ cần có để trải nghiệm Gotchiverse
-* Tìm hiểu cách sử dụng Gotchiverse
-* Tìm hiểu cách thu thập Gotchus Alchemica và chế tạo công trình Aaltar
+* Learn how to buy an Aavegotchi on the Baazaar
+* Learn how to buy an opened or a closed portal on the Baazaar
+* Learn how to summon your Aavegotchi from an opened portal
+
+<hr />
+
+### Buying GHST token (Article)
+Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+
+* Learn about the GHST token
+* Learn what the token could be used for
+* Learn where to buy GHST
+
+<hr />
+
+### Participating in AavegotchiDAO (Article)
+Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+
+* Learn about the AavegotchiDAO Forum
+* Learn how to create Signal Proposals
+* Learn how Signal Proposals Become Core Proposals
+* Learn about the different types of Core Proposals
+* Learn about Vote Differential
+* Learn how to Vote
+
+<hr />
+
+### Accessing the Gotchiverse on Mumbai Testnet
+Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+
+* Learn about the required setup to try out the Gotchiverse
+* Learn about the control scheme in the Gotchiverse
+* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+
+<hr />
+
+### Farming your Land Parcel <iframe width="560" height="315" src="https://www.youtube.com/embed/hfrBHajUons" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Haarvesters, Reservoirs, and Maakers
+* Learn how to empty your Reservoirs
+* Learn how to craft Installations
