@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi X Freckle Spooky Trivia](https://blog.aavegotchi.com/aavegotchi-partners-with-freckle-to-host-web3-trivia/)
+* Test your Gotchi knowledge in a Freckle trivia and stand to win prizes!
+<p></p>
+
 ## [Aavegotchi Rarity Farming Season 4 is Coming!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)
 * Are you excited?! Rarity Farming Season 4 will be starting on Thursday, July 28th!
 * 1.5 million GHST are up for grabs!
