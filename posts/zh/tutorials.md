@@ -29,13 +29,11 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Process of getting Aavegotchi on Kovan Testnet</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
@@ -45,6 +43,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 <li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
 </div>
@@ -53,18 +52,6 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 * Learn how to purchase Raffle tickets
 * Learn how to enter Raffle tickets into Raffles
-
-<hr />
-
-### Process of getting Aavegotchi on Kovan Testnet <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Learn how to purchase GHST tokens from UniSwap
-* Learn how to purchase Portals on Kovan Testnet
-* Learn how to open Portals on Kovan Testnet
-* Learn how to select an Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to summon the selected Aavegotchi from the opened Portal on Kovan Testnet
-* Learn how to get aTokens
-* Learn how to play with your Aavegotchi on Kovan Testnet
 
 <hr />
 
@@ -110,15 +97,6 @@ Click [here](/mumbai-testnet) for the article
 * Learn how to configure MetaMask to display Mumbai Testnet
 * Learn how to get tokens from the Mumbai Faucet
 * Learn how to get Mumbai GHST tokens
-
-<hr />
-
-### Aavegotchi Pre-Launch Checklist
-Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
-
-* Learn how to get ETH
-* Learn how to migrate ETH to Polygon
-* Learn how to buy GHST tokens using QuickSwap
 
 <hr />
 
@@ -205,3 +183,11 @@ Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai
 * Learn about the required setup to try out the Gotchiverse
 * Learn about the control scheme in the Gotchiverse
 * Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+
+<hr />
+
+### Farming your Land Parcel <iframe width="560" height="315" src="https://www.youtube.com/embed/hfrBHajUons" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Haarvesters, Reservoirs, and Maakers
+* Learn how to empty your Reservoirs
+* Learn how to craft Installations
