@@ -46,7 +46,7 @@ Kinship có thể được xem trên trang [thông tin của Aavegotchi](/aavego
 
 ## Kinship và Truyền Khoáng Sản
 
-Kinship và Truyền Khoáng Sản. **Alchemical Channeling**: tiền lương cơ bản hàng ngày mà Aavegotchi kiếm được trực tiếp từ Gotchiverse, thay vì từ [gói đất](/gotchiverse).
+Kinship is used for [Alchemical Channeling](/alchemical-channeling). **Alchemical Channeling**: tiền lương cơ bản hàng ngày mà Aavegotchi kiếm được trực tiếp từ Gotchiverse, thay vì từ [gói đất](/gotchiverse).
 
 Lượng Alchemica (FUD, FOMO, ALPHA, và KEK) mà Gotchi nhận được thông qua việc Truyền Khoáng Sản sẽ chủ yếu phụ thuộc vào cấp độ Kinship.
 

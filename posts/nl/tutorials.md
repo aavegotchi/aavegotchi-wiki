@@ -29,22 +29,21 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Lotterijen</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Proces om Aavegotchi op Kovan Testnet te krijgen</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->GHST token migreren van Ethereum Mainnet naar Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->GHST token migreren van Ethereum Mainnet naar Polygon (Artikel)</a></li>
-<li><a href=#buying-tokens-straight-into-polygon>Tokens rechtstreeks op Polygon kopen</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar op Mumbai Testnet</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
-<li><a href=#entering-raffle-4>Deeelnemen aan Lotterij 4</a></li>
-<li><a href=#participating-in-gbm-auctions>Deelnemen aan GBM veilingen</a></li>
-<li><a href=#full-guide-to-buying-land>Volledige handleiding voor het kopen van Land</a></li>
-<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Veiling Gids</a></li>
-<li><a href=#traits---bell-curve-explained>Eigenschappen & Bell Curve uitgelegd</a></li>
-<li><a href=#buying-an-aavegotchi--video->Aavegotchi kopen (Video)</a></li>
-<li><a href=#buying-ghst-token--article->GHST token kopen (artikel)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->Deelnemen in AavegotchiDAO (Artikel)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Toegang tot de Gotchiverse op Mumbai Testnet</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
+<li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
+<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
+<li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
+<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
+<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
 </div>
@@ -56,152 +55,139 @@ We hebben enkele tutorials (artikelen en video's) voorbereid om uw reis te helpe
 
 <hr />
 
-### Proces om Aavegotchi op Kovan Testnet te krijgen <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Leer hoe u GHST tokens kunt kopen van UniSwap
-* Leer hoe u Portals kunt kopen op Kovan Testnet
-* Leer hoe je Portals kunt openen op Kovan Testnet
-* Leer hoe je een Aavegotchi selecteert van het geopende Portaal op Kovan Testnet
-* Leer hoe je de geselecteerde Aavegotchi oproept van het geopende Portaal op Kovan Testnet
-* Leer hoe je aTokens krijgt
-* Leer hoe je speelt met je Aavegotchi op Kovan Testnet
-
-<hr />
-
-### GHST token migreren van Ethereum Mainnet naar Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Leer hoe u uw GHST token kunt migreren van Ethereum Mainnet naar Polygon (voorheen Matic Network)
+* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
 * Leer hoe u MetaMask kunt configureren om Polygon weer te geven
-* Leer hoe je tokens van Polygon aan je MetaMask toevoegt
-* Leer hoe je GHST tokens op Polygon kunt staken
+* Learn how to add tokens from Polygon to your MetaMask
+* Learn how to stake GHST tokens on Polygon
 
 <hr />
 
-### GHST token migreren van Ethereum Mainnet naar Polygon (Artikel)
-Klik [hier](/polygon) voor het artikel
+### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
+Click [here](/polygon) for the article
 
-* Leer waarom Polygon (voorheen Matic Network) geselecteerd werd als de oplossing van Layer 2 voor Aavegotchi
+* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
 * Leer hoe u MetaMask kunt configureren om Polygon weer te geven
-* Leer hoe je assets kunt overbruggen met behulp van de Polygon-interface
-* Leer hoe je activa terug kunt overbruggen naar Ethereum Mainnet van Polygon
+* Learn how to bridge assets using the Polygon wallet interface
+* Learn how to bridge assets back to Ethereum Mainnet from Polygon
 
 <hr />
 
-### Tokens rechtstreeks op Polygon kopen
-Klik [hier](https://trasher.substack.com/p/buying-your-tokens-straight-into) voor het artikel
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
 
-* Leer hoe je fiat valuta kunt gebruiken om tokens direct in Polygon te kopen
+* Learn how to use fiat currency to buy tokens directly to Polygon
 
 <hr />
 
 ### maTokens
-Klik [hier](/matokens) voor het artikel
+Click [here](/matokens) for the article
 
-* Leer hoe je aTokens kunt omzetten in maTokens via de Aavegotchi Bridge
-* Leer hoe je geld overmaakt via AscendEX naar Polygon
-* Leer hoe je Transak kunt gebruiken als een fiat-to-Polygon on-ramp
-* Leer hoe je maTokens in Aavegotchis staked
-
-<hr />
-
-### Aavegotchi Baazaar op Mumbai Testnet
-Klik [hier](/mumbai-testnet) voor het artikel
-
-* Leer hoe u MetaMask kunt configureren om Mumbai Testnet te tonen
-* Leer hoe je tokens van de Mumbai Faucet krijgt
-* Leer hoe je Mumbai GHST tokens kunt krijgen
+* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to transfer funds through AscendEX to Polygon
+* Learn how to use Transak as a fiat-to-Polygon on-ramp
+* Learn how to stake maTokens into Aavegotchis
 
 <hr />
 
-### Aavegotchi Pre-Launch Checklist
-Klik [hier](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) voor het artikel
+### Aavegotchi Baazaar on Mumbai Testnet
+Click [here](/mumbai-testnet) for the article
 
-* Leer hoe je ETH kunt krijgen
-* Leer hoe je ETH kunt migreren naar Polygon
-* Leer hoe u GHST tokens kunt kopen met behulp van QuickSwap
-
-<hr />
-
-### Deeelnemen aan Lotterij 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Leer hoe je [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) gebruikt om je kansen te berekenen om te winnen
-* Leer hoe je GHST tokens op Polygon kunt staken
-* Leer hoe je Lotterij tickets kunt kopen met FRENS
-* Leer hoe je toegang krijgt tot de Aavegotchi Baazaar
-* Leer hoe je je Lotterij tickets kunt verkopen op de Baazaar
+* Learn how to configure MetaMask to display Mumbai Testnet
+* Learn how to get tokens from the Mumbai Faucet
+* Learn how to get Mumbai GHST tokens
 
 <hr />
 
-### Deelnemen aan GBM veilingen <iframe border=0 frameborder=0 width="560" height="600"
+### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* Learn how to stake GHST tokens on Polygon
+* Learn how to buy Raffle tickets with FRENS
+* Learn how to access the Aavegotchi Baazaar
+* Learn how to list your Raffle tickets at the Baazaar
+
+<hr />
+
+### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
-* Bekijk hoe een live GBM vesting eruit ziet
-* Leer hoe je in een GBM veiling kunt bieden
-* Leer hoe filters in een GBM veiling in- of uitschakelen
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction
 
 <hr />
 
-### Volledige handleiding voor het kopen van Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Leer meer over Aavegotchis en Lickquidators
-* Meer informatie over REALM parcelen
-* Leer meer over Gotchus Alchemica en hun tokenomics
-* Leer wat u kunt doen met uw REALM parcelen
-* Leer hoe je een REALM parceel kunt kopen
-
-<hr />
-
-### Aavegotchi: Land Veiling Gids <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Meer informatie over REALM parcelen
-* Leer over Gotchus Alchemica
-* Meer informatie over welke functies REALM parcelen gewenst maken
-* Leer hoe u de Veiling kaart kunt navigeren
-* Meer informatie over veiling strategieën
+* Learn about Aavegotchis and Lickquidators
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica and their tokenomics
+* Learn what you can do with your REALM parcels
+* Learn how to buy a REALM parcel
 
 <hr />
 
-### Eigenschappen & Bell Curve uitgelegd <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Leer meer over Eigenschappen
-* Leer meer over de Bell Curve
-* Meer informatie over de invloed van Wearables op Eigenschappen
-* Meer informatie over welke gemeenschapsmiddelen beschikbaar zijn
-
-<hr />
-
-### Aavegotchi kopen (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Leer hoe je een Aavegotchi op de Baazaar kunt kopen
-* Leer hoe je een geopend of een gesloten portaal kunt kopen op de Baazaar
-* Leer hoe je je Aavegotchi oproept van een geopend portaal
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica
+* Learn about what features make REALM parcels desirable
+* Learn how to navigate the Auction map
+* Learn about Auction strategies
 
 <hr />
 
-### GHST token kopen (artikel)
-Klik [hier](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) voor het artikel
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Leer meer over het GHST token
-* Leer waarvoor het token gebruikt kan worden
-* Leer waar GHST te kopen
-
-<hr />
-
-### Deelnemen in AavegotchiDAO (Artikel)
-Klik [hier](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) voor het artikel
-
-* Meer informatie over het AavegotchiDAO Forum
-* Leer hoe je Signaal Voorstellen kunt maken
-* Leer hoe Signal Voorstellen Basisvoorstellen worden
-* Leer meer over de verschillende soorten basisvoorstellen
-* Leer over Stem Differentiële
-* Leer hoe je kunt stemmen
+* Learn about Traits
+* Learn about the Bell Curve
+* Learn about how Wearables affect Traits
+* Learn about what community resources are available
 
 <hr />
 
-### Toegang tot de Gotchiverse op Mumbai Testnet
-Klik [hier](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) voor het artikel
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Meer informatie over de vereiste configuratie om het Gotchiverse uit te proberen
-* Leer over het controleschema in het Gotchiverse
-* Leer hoe je Gotchus Alchema kunt verzamelen en hoe je een Aaltar Installatie kunt maken
+* Learn how to buy an Aavegotchi on the Baazaar
+* Learn how to buy an opened or a closed portal on the Baazaar
+* Learn how to summon your Aavegotchi from an opened portal
+
+<hr />
+
+### Buying GHST token (Article)
+Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+
+* Learn about the GHST token
+* Learn what the token could be used for
+* Learn where to buy GHST
+
+<hr />
+
+### Participating in AavegotchiDAO (Article)
+Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+
+* Learn about the AavegotchiDAO Forum
+* Learn how to create Signal Proposals
+* Learn how Signal Proposals Become Core Proposals
+* Learn about the different types of Core Proposals
+* Learn about Vote Differential
+* Learn how to Vote
+
+<hr />
+
+### Accessing the Gotchiverse on Mumbai Testnet
+Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+
+* Learn about the required setup to try out the Gotchiverse
+* Learn about the control scheme in the Gotchiverse
+* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+
+<hr />
+
+### Farming your Land Parcel <iframe width="560" height="315" src="https://www.youtube.com/embed/hfrBHajUons" title="YouTube videospeler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Haarvesters, Reservoirs, and Maakers
+* Learn how to empty your Reservoirs
+* Learn how to craft Installations

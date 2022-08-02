@@ -184,7 +184,7 @@ table_gotchusAlchemicaSupply
 
 ゴッチュスアルケミカは、4つの方法でレルムから抽出することができます：
 
-* **アルケミカルチャネリング**： Aavegotchiによって得られる基本的な毎日の支給は、区画から収穫されるのではなく、ゴッチバースイーサーから直接来ている。
+* **[Alchemical Channeling](/alchemical-channeling)**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
 * **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 共同チャネリングに参加するには、Aavegotchiは関連するギルドの紋章を身につけ、儀式の間レルム区画に存在しなければなりません。 共同チャネリングの儀式に参加するAavegotchiが増えるごとに、アルケミカの採掘速度が上がります。
 * **ファーミング**：貯蔵庫にx個、近隣のマップに**y個**、グレートポータルに**z個**、それぞれ貯蔵される。
 * **収穫する**：Aavegotchiとリッキデーターはマップを歩き回り、採掘でこぼれたアルケミカを集めることができます。

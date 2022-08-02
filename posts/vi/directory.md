@@ -25,17 +25,19 @@ contributors:
 
 * [Cơ Chế Trưởng Thành](/aging-mechanic)
 
+* [Alchemical Channeling](/alchemical-channeling)
+
 * [Huy Hiệu](/baadge)
 
 * [Nhạc Sĩ Baard](/baard)
 
 * [Baazaar](/baazaar)
 
-* [Cầu Nối](/bridge)
+* [Bridge](/bridge)
 
 * [Cuộc thi](/contests)
 
-* [Hợp Đồng](/contracts)
+* [Contracts](/contracts)
 
 * [Bonding Curve](/curve)
 

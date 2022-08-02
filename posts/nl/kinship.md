@@ -46,7 +46,7 @@ Kinship kan worden bekeken op de [Aavegotchi profielpagina](/aavegotchi-profile)
 
 ## Kinship en Alchemical Channeling
 
-Kinschap wordt gebruikt voor Alchemical Channeling. Alchemical Channeling is een basispunt dat dagelijks wordt verdiend door Aavegotchis die rechtstreeks uit de Gotchiversether komt. in plaats van geoogst te worden van het [parceel](/gotchiverse).
+Kinship is used for [Alchemical Channeling](/alchemical-channeling). Alchemical Channeling is een basispunt dat dagelijks wordt verdiend door Aavegotchis die rechtstreeks uit de Gotchiversether komt. in plaats van geoogst te worden van het [parceel](/gotchiverse).
 
 Hoeveel Alchemica stoffen (FUD, FOMO, ALPHA en KEK) de Gotchi via Alchemisch kanaal ontvangen, hangt voornamelijk af van het Kinship niveau.
 

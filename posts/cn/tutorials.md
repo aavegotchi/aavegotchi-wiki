@@ -29,13 +29,11 @@ contributors:
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi 抽奖券</a></li>
-<li><a href=#getting-avegotchi-on-kovan-testnet>在 Kovan 测试网上获取 Aavegotchi </a></li>
-<li><a href=#migrate-ghst-token-from e-there-mainnet-to-polygon-video->将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (视频)</a></li>
-<li><a href=#migrate-ghst-token-from e-there-mainnet-to polygon-article->将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (文章）</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchi Pre-Launch Checklist</a></li>
 <li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
@@ -45,6 +43,7 @@ contributors:
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 <li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
 </div>
@@ -56,34 +55,22 @@ contributors:
 
 <hr />
 
-### 在 Kovan 测试网上获取 Aavegotchi  <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 学习如何从 UniSwap 购买 GHST 代币
-* 学习如何在 Kovan 测试网购买传送门
-* 学习如何在 Kovan 测试网打开传送门
-* 学习如何从 Kovan 测试网上打开的传送门中选择一个 Aavegotchi
-* 学习如何从 Kovan 测试网上打开的传送门召唤所选的 Aavegotchi
-* 学习如何获取 aTokens
-* 学习如何在 Kovan 测试网和你的 Aavegotchi 一起游戏
+* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
+* 学习如何配置 MetaMask 显示 Polygon 网络
+* Learn how to add tokens from Polygon to your MetaMask
+* Learn how to stake GHST tokens on Polygon
 
 <hr />
 
-### 将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (视频) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
+Click [here](/polygon) for the article
 
-* 学习如何将你的 GHST 代币从 Ethereum 主网迁移到 Polygon（原 Matic 网络）
+* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
 * 学习如何配置 MetaMask 显示 Polygon 网络
-* 学习如何从 Polygon 在你的 MetaMask 上添加代币
-* 学习如何在 Polygon 上质押 GHST 代币
-
-<hr />
-
-### 将 GHST 代币从 Ethereum 主网迁移到 Polygon 网络 (文章）
-点击 [这里](/polygon) 阅读文章
-
-* 了解为什么 Aavegotchi  选择 Polygon (原 Matic 网络) 作为二层网络
-* 学习如何配置 MetaMask 显示 Polygon 网络
-* 学习如何使用 Polygon 钱包接口来桥接资产
-* 学习如何从 Polygon 桥接资产回到 Ethereum 主网
+* Learn how to bridge assets using the Polygon wallet interface
+* Learn how to bridge assets back to Ethereum Mainnet from Polygon
 
 <hr />
 
@@ -113,19 +100,10 @@ Click [here](/mumbai-testnet) for the article
 
 <hr />
 
-### Aavegotchi Pre-Launch Checklist
-Click [here](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist) for the article
-
-* Learn how to get ETH
-* Learn how to migrate ETH to Polygon
-* Learn how to buy GHST tokens using QuickSwap
-
-<hr />
-
 ### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
-* 学习如何在 Polygon 上质押 GHST 代币
+* Learn how to stake GHST tokens on Polygon
 * Learn how to buy Raffle tickets with FRENS
 * Learn how to access the Aavegotchi Baazaar
 * Learn how to list your Raffle tickets at the Baazaar
@@ -205,3 +183,11 @@ Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai
 * Learn about the required setup to try out the Gotchiverse
 * Learn about the control scheme in the Gotchiverse
 * Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+
+<hr />
+
+### Farming your Land Parcel <iframe width="560" height="315" src="https://www.youtube.com/embed/hfrBHajUons" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Haarvesters, Reservoirs, and Maakers
+* Learn how to empty your Reservoirs
+* Learn how to craft Installations

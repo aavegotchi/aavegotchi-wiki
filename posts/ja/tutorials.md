@@ -29,22 +29,21 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchiラッフル</a></li>
-<li><a href=#process-of-getting-aavegotchi-on-kovan-testnet>Kovan TestnetでAavegotchiを入手するプロセス</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->イーサリアムメインネットからポリゴンへのGHSTトークンの移行（ビデオ）</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->イーサリアムメインネットからポリゴンへのGHSTトークンの移行（記事）</a></li>
-<li><a href=#buying-tokens-straight-into-polygon>トークンをそのままポリゴンで購入する</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maToken</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Mumbai TestnetでAavegotchiバザール</a></li>
-<li><a href=#aavegotchi-pre-launch-checklist>Aavegotchiプリローンチ・チェックリスト</a></li>
-<li><a href=#entering-raffle-4>ラッフル4への参加</a></li>
-<li><a href=#participating-in-gbm-auctions>GBMオークションへの参加</a></li>
-<li><a href=#full-guide-to-buying-land>土地購入の完全ガイド</a></li>
-<li><a href=#aavegotchi--land-auction-guide>Aavegotchi：土地オークションガイド</a></li>
-<li><a href=#traits---bell-curve-explained>特性＆ベルカーブ完全解説</a></li>
-<li><a href=#buying-an-aavegotchi--video->Aavegotchiを購入する（ビデオ）</a></li>
-<li><a href=#buying-ghst-token--article->GHSTトークンを購入する (記事)</a></li>
-<li><a href=#participating-in-aavegotchidao--article->AavegotchiDAOに参加する (記事)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Mumbai Testnetでゴッチバースにアクセスする</a></li>
+<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
+<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
+<li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
+<li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
+<li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
+<li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
+<li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
+<li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
+<li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
+<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
+<li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
 </div>
@@ -56,152 +55,139 @@ Non-Fungible Token (NFTs)（ノンファンジブルトークン）もある。
 
 <hr />
 
-### Kovan TestnetでAavegotchiを入手する方法 <iframe width="560" height="315" src="https://www.youtube.com/embed/Un9BTNzNS7c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Migrate GHST token from Ethereum Mainnet to Polygon (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* UniSwapからGHSTトークンを購入する方法を学ぶ
-* Kovan Testnetでポータルを購入する方法を学ぶ
-* Kovan Testnetでポータルを開ける方法を学ぶ
-* Kovan Testnetで開いたポータルからAvegotchiを選択する方法を学ぶ
-* Kovan Testnetで開いたポータルから、選択したAavegotchiを召喚する方法を学ぶ
-* aTokenの入手方法を学ぶ
-* Kovan TestnetでAavegotchiと遊ぶ方法を学ぶ
-
-<hr />
-
-### GHSTトークンをイーサリアムメインネットからポリゴンに移行する（ビデオ） <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* GHSTトークンをイーサリアムメインネット（Ethereum Mainnet）からポリゴン（Polygon）（旧Matic Network）に移行する方法を紹介します
+* Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
 * Polygonを表示させるためのMetaMaskの設定方法について
-* PolygonからMetaMaskにトークンを追加する方法を学ぶ
-* PolygonでGHSTトークンをステークする方法を学ぶ
+* Learn how to add tokens from Polygon to your MetaMask
+* Learn how to stake GHST tokens on Polygon
 
 <hr />
 
-### GHSTトークンをイーサリアムメインネットからポリゴンに移行する（記事）
-記事は[こちら](/polygon)
+### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
+Click [here](/polygon) for the article
 
-* Aavegotchiのレイヤー2ソリューションとしてポリゴン（Polygon）（旧Matic Network）が採用された理由をご紹介します
+* Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
 * Polygonを表示させるためのMetaMaskの設定方法について
-* Polygonのウォレットインターフェースを使ったアセットブリッジの方法について
-* PolygonからEthereumメインネットにアセットをブリッジする方法を学ぶ
+* Learn how to bridge assets using the Polygon wallet interface
+* Learn how to bridge assets back to Ethereum Mainnet from Polygon
 
 <hr />
 
-### トークンをそのままポリゴンで購入する
-記事は[こちら](https://trasher.substack.com/p/buying-your-tokens-straight-into)
+### Buying tokens straight into Polygon
+Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
 
-* 不換紙幣（fiat currency）を使ってトークンをポリゴンで直接購入する方法を学ぶ
+* Learn how to use fiat currency to buy tokens directly to Polygon
 
 <hr />
 
 ### maToken
-記事は[こちら](/matokens)
+Click [here](/matokens) for the article
 
-* Aavegotchiブリッジを使用してaTokenをmaTokenに変換する方法について説明します。
-* AscendEXを利用してPolygonに送金する方法をご紹介します
-* TransakをフィアットからPolygonへのオンランプとして使用する方法をご紹介します
-* maTokenをAavegotchi達にステークする方法を学ぶ
-
-<hr />
-
-### Mumbai TestnetでAavegotchiバザール
-記事は[こちら](/mumbai-testnet)
-
-* Mumbai Testnetを表示するMetaMaskの設定方法を学ぶ
-* Mumbaiのフォセットからトークンを取得する方法を学ぶ
-* MumbaiGHSTトークンの取得方法はこちら
+* Learn how to convert aTokens into maTokens through the Aavegotchi Bridge
+* Learn how to transfer funds through AscendEX to Polygon
+* Learn how to use Transak as a fiat-to-Polygon on-ramp
+* Learn how to stake maTokens into Aavegotchis
 
 <hr />
 
-### Aavegotchiプリローンチ・チェックリスト
-記事は[こちら](https://peakd.com/teammalaysia/@buzz.lightyear/your-aavegotchi-pre-launch-checklist)
+### Aavegotchi Baazaar on Mumbai Testnet
+Click [here](/mumbai-testnet) for the article
 
-* ETHの取得方法について
-* ETHをPolygonに移行する方法を学ぶ
-* QuickSwapを使ったGHSTトークンの購入方法を学ぶ
-
-<hr />
-
-### ラッフル4への参加 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator)を使用して当選確率を計算する方法をご紹介します。
-* PolygonでGHSTトークンをステークする方法を学ぶ
-* FRENSでラッフルチケットを購入する方法を学ぶ
-* Aavegotchiバザールにアクセスする方法を学ぶ
-* バザールにラッフルチケットを出品する方法を学ぶ
+* Learn how to configure MetaMask to display Mumbai Testnet
+* Learn how to get tokens from the Mumbai Faucet
+* Learn how to get Mumbai GHST tokens
 
 <hr />
 
-### GBMオークションへの参加 <iframe border=0 frameborder=0 width="560" height="600"
+### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
+* Learn how to stake GHST tokens on Polygon
+* Learn how to buy Raffle tickets with FRENS
+* Learn how to access the Aavegotchi Baazaar
+* Learn how to list your Raffle tickets at the Baazaar
+
+<hr />
+
+### Participating in GBM Auctions <iframe border=0 frameborder=0 width="560" height="600"
  src="https://twitframe.com/show?url=https://twitter.com/aavegotchi/status/1431647917446631430"></iframe>
 
-* GBMオークションの様子をご覧ください。
-* オークションの入札方法を学ぶ
-* GBMオークションでフィルタを切り替える方法
+* Get to see how a live GBM Auction looks like
+* Learn how to bid in a GBM Auction
+* Learn how to toggle filters in a GBM Auction
 
 <hr />
 
-### 土地購入の完全ガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Aavegotchiとリッキデーター（Lickquidators）達について学びます
-* REALM（レルム）区画について
-* Gotchus Alchemica（ゴッチュス・アルケミカ）とそのトークノミックスについて学ぶ
-* REALM区画で何ができるかを学ぶ
-* REALM区画を購入する方法を学ぶ
-
-<hr />
-
-### Aavegotchi：土地オークションガイド <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* REALM（レルム）区画について
-* ゴッチュス・アルケミカ（Gotchus Alchemica）について
-* REALM区画の特徴を知る
-* オークションマップの操作方法
-* オークションの戦略について
+* Learn about Aavegotchis and Lickquidators
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica and their tokenomics
+* Learn what you can do with your REALM parcels
+* Learn how to buy a REALM parcel
 
 <hr />
 
-### 特性&ベルカーブ完全解説 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* 特性について学ぶ
-* ベルカーブについて学ぶ
-* ウェアラブルが特性に与える影響について学ぶ
-* コミュニティリソースについて学ぶ
-
-<hr />
-
-### Aavegotchiを購入する（ビデオ） <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* バザールでAavegotchiを購入する方法を学ぶ
-* バザールで閉じたポータルや開いてるポータルの購入について学ぶ
-* 開いたポータルからAavegotchiを召喚する方法を学ぶ
+* Learn about REALM parcels
+* Learn about Gotchus Alchemica
+* Learn about what features make REALM parcels desirable
+* Learn how to navigate the Auction map
+* Learn about Auction strategies
 
 <hr />
 
-### GHSTトークンを購入する (記事)
-記事は[こちら](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/)
+### Traits & Bell Curve Explained <iframe width="560" height="315" src="https://www.youtube.com/embed/cyKfBFeDCvw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* GHSTトークンについて学ぶ
-* トークンの用途について学ぶ
-* GHSTが購入できる場所について学ぶ
-
-<hr />
-
-### AavegotchiDAOに参加する (記事)
-記事は[こちら](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/)
-
-* AavegotchiDAOフォーラムについて学ぶ
-* シグナルプロポーザルの作り方について学ぶ
-* シグナルプロポーザルがコアプロポーザルになるには？
-* コアプロポーザルの種類について学ぶ
-* 差分投票について
-* 投票方法を学ぶ
+* Learn about Traits
+* Learn about the Bell Curve
+* Learn about how Wearables affect Traits
+* Learn about what community resources are available
 
 <hr />
 
-### Mumbai Testnetでゴッチバース（Gotchiverse）にアクセスする
-記事は[こちら](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
+### Buying an Aavegotchi (Video) <iframe width="560" height="315" src="https://www.youtube.com/embed/pgdlYYohW7g" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* ゴッチバースで遊ぶために必要なセットアップについて学ぶ
-* ゴッチバースの制御方式について学ぶ
-* ゴッチュス・アルケミカ（Gotchus Alchemica）の収集方法とアールター・インスタレーション（Aaltar Installation）のクラフト方法について学ぶ
+* Learn how to buy an Aavegotchi on the Baazaar
+* Learn how to buy an opened or a closed portal on the Baazaar
+* Learn how to summon your Aavegotchi from an opened portal
+
+<hr />
+
+### Buying GHST token (Article)
+Click [here](https://blog.aavegotchi.com/where-to-buy-aavegotchi-ghst/) for the article
+
+* Learn about the GHST token
+* Learn what the token could be used for
+* Learn where to buy GHST
+
+<hr />
+
+### Participating in AavegotchiDAO (Article)
+Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-member-of-the-worlds-most-active-dao/) for the article
+
+* Learn about the AavegotchiDAO Forum
+* Learn how to create Signal Proposals
+* Learn how Signal Proposals Become Core Proposals
+* Learn about the different types of Core Proposals
+* Learn about Vote Differential
+* Learn how to Vote
+
+<hr />
+
+### Accessing the Gotchiverse on Mumbai Testnet
+Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
+
+* Learn about the required setup to try out the Gotchiverse
+* Learn about the control scheme in the Gotchiverse
+* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
+
+<hr />
+
+### Farming your Land Parcel <iframe width="560" height="315" src="https://www.youtube.com/embed/hfrBHajUons" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Learn about Haarvesters, Reservoirs, and Maakers
+* Learn how to empty your Reservoirs
+* Learn how to craft Installations
