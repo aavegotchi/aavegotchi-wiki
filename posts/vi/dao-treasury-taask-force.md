@@ -24,6 +24,7 @@ Nhiệm vụ và mục tiêu ban đầu sẽ là:
 <ol>
 <li><a href=#origins>Team Gốc</a></li>
 <li><a href=#members>Các Thành Viên</a></li>
+<li><a href=#dtf-funding-application-form>DTF Funding Application Form</a></li>
 </ol>
 
 </div>
@@ -31,6 +32,7 @@ Nhiệm vụ và mục tiêu ban đầu sẽ là:
 ## Team Gốc
 
 Vào tháng 10 năm 2021, Tiến sĩ Wagmi đề xuất ý tưởng về DTF trên
+
  bài đăng diễn đàn </ a>.</p> 
 
 Việc này được hợp thức hóa nhờ vào [ bản đề xuất DAO / AGIP 20](/aavegotchi-improvement-proposals#creating-the-dao-treasury-taask-force). Bản đề xuất này đã được thông qua và DTF đã được sinh ra với 8 thành viên.
@@ -76,3 +78,9 @@ Sau đó, một bản đề xuất khác từ [ đề xuất DAO / AGIP 28](/aav
 * MarvinP
 
 * Chichi
+
+
+
+## DTF Funding Application Form
+
+Gotchigang members who are seeking a grant from the DTF, please complete this [form](https://docs.google.com/document/d/1FFi9MbkrWGG2vnw2yHCRycNpWipxKnN0ntjo1Jnh0Fo/edit) and submit it to one of the DTF members on the [DTF Discord](https://discord.gg/5c97vDNU).
