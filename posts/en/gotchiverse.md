@@ -78,11 +78,11 @@ Locked Parcels that will not be unlocked until the beginning of Act 2.
 
 ## Districts
 
-Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows a portion of the Citaadel where REALM parcels have been released and the districts in it.
+Districts comprise of groups of REALM parcels that are situated close to each other. The following image shows the Citaadel and its districts.
 
 Guilds generally organize themselves in districts. Check out the [Guild page](/guild) for the list of Guilds and which districts they are situated in.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts">
+<img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Aavegotchi Districts">
 
 Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
 
