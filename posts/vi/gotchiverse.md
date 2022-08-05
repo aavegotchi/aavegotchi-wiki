@@ -80,11 +80,11 @@ Hững Mẫu Đất bị khóa sẽ không thể mở được cho đến khi Ac
 
 ## Quận
 
-Các quận bao gồm những nhóm đất REALM được đặt gần nhau. Hình ảnh dưới đây cho thấy phần đất REALM của Citaadel đã được mở bán và các quận có trong đó.
+Các quận bao gồm những nhóm đất REALM được đặt gần nhau. The following image shows the Citaadel and its districts.
 
 Guild tự sắp xếp vị trí của mình tại các quận. Hãy xem qua [trang Guild](/guild) để thấy danh sách các Guild và xem chúng được đặt ở những quận nào.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Các Quận Trong Aavegotchi" />
+<img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Các Quận Trong Aavegotchi" />
 
 Hãy lướt xem REALM tại [gotchiverse.io](https://gotchiverse.io/).
 
