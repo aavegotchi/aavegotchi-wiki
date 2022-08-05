@@ -80,11 +80,11 @@ Vergrendelde Parcels die pas ontgrendeld zullen worden in het begin van Act 2.
 
 ## Districts
 
-Districten bestaan uit groepen REALM pakketten die dicht bij elkaar liggen. De volgende afbeelding toont een deel van de Citaadel waar REALM pakketjes zijn vrijgegeven en de districten daarin.
+Districten bestaan uit groepen REALM pakketten die dicht bij elkaar liggen. The following image shows the Citaadel and its districts.
 
 Guilds organiseren zich over het algemeen in districten. Bekijk de [Guilds pagina](/guild) voor de lijst van Guilds en in welke districten ze zich bevinden.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi Districts" />
+<img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Aavegotchi Districts" />
 
 Bekijk de REALM hier op [gotchiverse.io](https://gotchiverse.io/).
 
