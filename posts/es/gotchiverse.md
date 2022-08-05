@@ -80,11 +80,11 @@ Corresponde a parcelas bloqueadas que no se desbloquearán hasta el inicio del A
 
 ## Distritos
 
-Los distritos están formados por grupos de parcelas de REALM que están situadas cerca unas de otras. La siguiente imagen muestra una parte de la Citaadel en la que se han liberado parcelas de REALM y los distritos que la componen.
+Los distritos están formados por grupos de parcelas de REALM que están situadas cerca unas de otras. The following image shows the Citaadel and its districts.
 
 Los clanes se organizan en distritos. Echa un vistazo a la página [del gremio](/guild) para ver la lista de clanes y en qué distritos se encuentran.
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Distritos de Aavegotchi" />
+<img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Distritos de Aavegotchi" />
 
 Navega en el REALM aquí en [gotchiverse.io](https://gotchiverse.io/).
 
