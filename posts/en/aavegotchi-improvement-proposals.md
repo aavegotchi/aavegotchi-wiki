@@ -53,6 +53,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#aavegotchidao----pixelcraft-studios-1-75m-dai-token-swap>AavegotchiDAO <> Pixelcraft Studios 1.75M DAI Token Swap</a></li>
 <li><a href=#delay-the-3rd-land-auction>Delay the 3rd LAND Auction</a></li>
 <li><a href=#utilizing-the-channeling--hot-zone->Utilizing the Channeling “Hot Zone”</a></li>
+<li><a href=#configure-vp-for-amghst--wapghst--and-all-gltr-staking>Configure VP for amGHST, wapGHST, and all GLTR Staking</a></li>
+<li><a href=#stop-new-brs-wearable-emissions-until-further-notice>Stop new BRS Wearable Emissions until further notice</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1495,6 +1497,106 @@ Option 2: No, don't change anything
 table_agip36
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xd610a038fb70717cefa788332d6cfbfd4504723fa2b33dc5689b542752da3cde)
+
+<hr>
+
+### Configure VP for amGHST, wapGHST, and all GLTR Staking
+**Aavegotchi Improvement Proposal #37**
+
+**Proposal Summary:**
+
+As we have now launched GLTR staking and most of us have moved our liquidity from the FRENS pools to the GLTR pools, it is time to make those pools officially part of the voting power.
+
+The VP would be as follows, which is simply a continuation of how we have done everything on the FRENS staking side-
+
+The affected pairs and tokens to be added, are as follows -
+
+* amGHST(GHST staked on Aave)
+
+* wapGHST (unstaked, staked on FRENS side, or staked on GLTR side)
+
+* stkGHST-USDC (not added on GLTR side yet)
+
+* stkGHST-MATIC (not added on GLTR side yet)
+
+* stkGHST-GLTR
+
+* stkGHST-FUD
+
+* stkGHST-FOMO
+
+* stkGHST-ALPHA
+
+* stkGHST-KEK
+
+VP is calculated as follows -
+
+* amGHST, wapGHST - 1 VP per token
+
+* All supported pairs that receive GLTR rewards - 1 VP per GHST staked, calculated at time of Snapshot. Again, this is simply a continuation of how we have treated GHST and staking in the past.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/vp-for-wapghst-alchemica-lps-and-glitter-lps/4106)
+
+Option 1: Yes, do it
+
+Option 2: No, don't
+
+**Voting Period:** 3 - 10 August 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x9923aab6825158ec2503d88e3ee2f9c5fbb12000581d06343ac9829aa59b66a6)
+
+<hr>
+
+### Stop new BRS Wearable Emissions until further notice
+**Aavegotchi Improvement Proposal #38**
+
+**Proposal Summary:**
+
+*Problem*
+
+Over the lifespan of Aavegotchi, we've endured many wearable dilution events which have negatively impacted our community by:
+
+* Loss of investor confidence (and investors)
+
+* Depreciation of asset values
+
+* No known schedule for releases, resulting in uncertainty in the markets
+
+* In bullish conditions, new wearables would be released, capping our upside growth
+
+It makes sense to have a wearables budget. Something the whole community can see and investors can easily digest. A cap based on total live gotchis was proposed, but in truth it does not accurately depict the true usage of assets.
+
+The community by and large agrees on a budget, however at this moment in time, we don't have the metrics or data to create one. This budget is likely going to come from data such as daily active users (once PvP is live).
+
+*Proposal*
+
+This proposal is simple and straightforward:
+
+1. No new BRS-based wearables until the DAO votes on a budget
+
+2. That budget will be developed at a later date once the data is available
+
+The idea is to restore investor confidence and allow us to sleep a bit easier at night, knowing that our assets will not suffer from spontaneous dilution.
+
+Note: this proposal does not include aesthetic wearables, new set creations, or set rebalances (such as Link Marine)
+
+*Associated Risks*
+
+I don't see any potential risks for this proposal.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/setting-a-fixed-cap-on-new-wearables/4211)
+
+Option 1: Yes, stop new wearables
+
+Option 2: No, keep things as is
+
+**Voting Period:** 3 - 10 August 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xec282bd937a1d85a17726cc00711b78e2fc2f0125ff9af127ddb77497dd024e5)
 
 <hr>
 
