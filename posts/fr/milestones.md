@@ -7,6 +7,15 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Gotchigang, AGIPs 37 & 38 are now live!](https://blog.aavegotchi.com/vote-agip-37-38-voting-power-for-new-staking-pools-and-stopping-new-brs-wearable-emissions/)
+* Read all about it here and then head to Snapshot to vote nao!
+<p></p>
+
+## [Aavegotchi July Update](https://blog.aavegotchi.com/aavegotchi-july-update/)
+* Our shippoooorrrss never stop shipping!
+* Rarity Farming Season 4, launch of Gotchiverse Docs, Aavegotchi’s 2nd Birthday, and moar!
+<p></p>
+
 ## [Aavegotchi X Freckle Spooky Trivia](https://blog.aavegotchi.com/aavegotchi-partners-with-freckle-to-host-web3-trivia/)
 * Test your Gotchi knowledge in a Freckle trivia and stand to win prizes!
 <p></p>
