@@ -13,6 +13,9 @@ Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com
 ### Gotchiverse Walk-Thru, Farming Tutorial, Token Details with Jesse on the LADZ City show (22 July 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIIFAwAXJqE?start=438" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### GMI Guild Summit with Keynote Presentation by Jesse (17 July 2022)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxhVhQBjEiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### ForbesBook Podcast with Jesse Johnson (13 April 2022)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ZMBxvjOd9KpzF6c980O3s?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
