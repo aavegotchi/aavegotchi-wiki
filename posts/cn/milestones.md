@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [Mosaic Tiles are now available for crafting!](https://blog.aavegotchi.com/craft-mosaic-tiles-to-color-in-the-gotchiverse/)
+* A new color set of Mosaic Tiles will be released on Crafting Wednesday every week for the next six weeks
+* There's also a Mosaic Tiles Aart Contest with Faabulous prizes. Don't miss out on it!
+<p></p>
+
 ## [Gotchigang, AGIPs 37 & 38 are now live!](https://blog.aavegotchi.com/vote-agip-37-38-voting-power-for-new-staking-pools-and-stopping-new-brs-wearable-emissions/)
 * Read all about it here and then head to Snapshot to vote nao!
 <p></p>
