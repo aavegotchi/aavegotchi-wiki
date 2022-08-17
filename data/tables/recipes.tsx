@@ -305,5 +305,83 @@ export const tables
 					["9", "0", "15000", "45000", "9000", "590000"]
                 ]
             }
+        },
+		{
+            tableName: "blueTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "11.5", "5.4", "Instant"],
+					["Ghost", "1", "22", "11", "8.5", "2.2", "Instant"],
+					["Heart", "1", "0", "12", "19", "0", "Instant"],
+					["Star", "1", "36", "0", "16", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "magentaTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "11", "5.6", "Instant"],
+					["Ghost", "1", "22.7", "11.3", "8", "2.3", "Instant"],
+					["Heart", "1", "0", "11", "19.5", "0", "Instant"],
+					["Star", "1", "34", "0", "16.5", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "yellowTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "13.5", "4.6", "Instant"],
+					["Ghost", "1", "19.3", "9.7", "10.5", "1.9", "Instant"],
+					["Heart", "1", "0", "16", "17", "0", "Instant"],
+					["Star", "1", "44", "0", "14", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "purpleTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "12", "5.2", "Instant"],
+					["Ghost", "1", "21.3", "10.7", "9", "2.1", "Instant"],
+					["Heart", "1", "0", "13", "18.5", "0", "Instant"],
+					["Star", "1", "38", "0", "15.5", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "pinkTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "13", "4.8", "Instant"],
+					["Ghost", "1", "20", "10", "10", "2", "Instant"],
+					["Heart", "1", "0", "15", "17.5", "0", "Instant"],
+					["Star", "1", "42", "0", "14.5", "0", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "greenTiles",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Diamond", "1", "0", "0", "12.5", "5", "Instant"],
+					["Ghost", "1", "20.7", "10.3", "9.5", "2.1", "Instant"],
+					["Heart", "1", "0", "14", "18", "0", "Instant"],
+					["Star", "1", "40", "0", "15", "0", "Instant"]
+                ]
+            }
         }
     ]
