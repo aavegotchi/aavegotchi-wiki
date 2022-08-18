@@ -83,4 +83,4 @@ table_guild
 
 ギルドは地区（ディストリクト）単位で組織されています。 以下のギルドマップはAvid AavegotchisのMonsterRNG#3333によって作成されたものです。
 
-<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchiギルドマップ" />
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchiギルドマップ" />
