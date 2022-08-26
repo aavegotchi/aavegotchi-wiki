@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [FAKE Gotchis — A Frenly Art Karmic Experiment](https://blog.aavegotchi.com/introducing-fake-gotchis-a-frenly-art-karmic-experiment/)
+* FAKE Gotchis is a community-driven cryptoart collection based around the theme of Aavegotchi and the wider lore of the Gotchiverse
+* Get your FAKE Gotchi Cards and mint one now!
+<p></p>
+
 ## [Mosaic Tiles are now available for crafting!](https://blog.aavegotchi.com/craft-mosaic-tiles-to-color-in-the-gotchiverse/)
 * A new color set of Mosaic Tiles will be released on Crafting Wednesday every week for the next six weeks
 * There's also a Mosaic Tiles Aart Contest with Faabulous prizes. Don't miss out on it!
