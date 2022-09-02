@@ -56,6 +56,10 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#utilizing-the-channeling--hot-zone->Tận Dụng "Vùng Nóng" Truyền Khoáng</a></li>
 <li><a href=#configure-vp-for-amghst--wapghst--and-all-gltr-staking>Configure VP for amGHST, wapGHST, and all GLTR Staking</a></li>
 <li><a href=#stop-new-brs-wearable-emissions-until-further-notice>Stop new BRS Wearable Emissions until further notice</a></li>
+<li><a href=#modifying-the-channeling-window>Modifying the Channeling Window</a></li>
+<li><a href=#sunsetting-frens-immediately>Sunsetting FRENS Immediately</a></li>
+<li><a href=#update-gltr-emissions>Update GLTR Emissions</a></li>
+<li><a href=#setting-limits-on-the-number-of-borrowed-gotchis-allowed-per-wallet-address>Setting limits on the number of borrowed gotchis allowed per wallet address</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1531,6 +1535,8 @@ Option 2: No, don't
 
 **Kết quả:**
 
+table_agip37
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x9923aab6825158ec2503d88e3ee2f9c5fbb12000581d06343ac9829aa59b66a6)
 
 <hr />
@@ -1582,7 +1588,153 @@ Option 2: No, keep things as is
 
 **Kết quả:**
 
+table_agip38
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xec282bd937a1d85a17726cc00711b78e2fc2f0125ff9af127ddb77497dd024e5)
+
+<hr />
+
+### Modifying the Channeling Window
+**Aavegotchi Improvement Proposal #39**
+
+**Tóm Tắt Đề Xuất:**
+
+After trying out the 24 hour channeling window, many people were displeased with the results that it achieved.
+
+Issues with the current system include extra server load from Midnight to 1 UTC, the creation of a "prime time" where there is a short window of time where most alchemica is spilled, and problems caused by needing to channel a gotchi before putting it on the market(we do not have the full action control lists yet).
+
+The goal of this sig prop, is to give quality of life improvements to Gotchi owners with creating an exploitable mechanic or causing undue server loads or other issues.
+
+The proposed solutions are to either to A) revert to the original implementation, as presented in the Gotchiverse Bible, B) Leave the system as is and let the issues resolve themselves over time, or C) Keep the current system, but add a feature that lets you burn glitter to move your gotchi(s) channeling window reset time forward by one block, per glitter spent.
+
+The implementation, would be that we are given a way to adjust one or all gotchis channeling window, by spending GLTR to move the window forward one block per GLTR spent. It will only be possible to move the time forward, and you can only do this, if the gotchi(s) are currently able to channel.
+
+The risks associated with this are that there will be unintended consequences, as always.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107)
+
+Option 1: Revert to the original solution
+
+Option 2: Keep the current solution
+
+Option 3: Use GLTR to move channeling
+
+**Voting Period:** 26 August - 2 September 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0xb41fe70a12f107d9dc8f0c8aa0346b53d9c35866a5e71ce717253f02ba4ddd7b)
+
+<hr />
+
+### Sunsetting FRENS Immediately
+**Aavegotchi Improvement Proposal #40**
+
+**Tóm Tắt Đề Xuất:**
+
+I propose that we cease FRENS emissions immediately. FRENS emissions have been used as a liquidity mining (LM) incentive by providing GHST holders and liquidity providers access to future content through the raffle system. While this was an initially effective tool for LM, it is now doing more harm than good. Outlined below and in the forum thread are the reasons why Aavegotchi should sunset FRENS:
+
+* Eliminating FRENS will reduce Aaveogotchi protocol pressure to hold dilutional events by eliminating ongoing “content debt” created by FRENS emissions
+
+* GHST has alternative staking utility with GLTR liquidity mining
+
+* Shifting focus to alchemica/GLTR pairs reallocates LM rewards to asset holders who are more directly providing value to the ecosystem in the form of liquidity vs single-sided GHST staking which provides limited and historically overcompensated value
+
+* Future content events can generate protocol revenue instead of paying out content debt. This allows for a more sustainable revenue stream for Pixelcraft and the Aavegotchi DAO
+
+* The value of future content can be captured on-chain with GLTR/Alchemica/GHST instead of off-chain with FRENS
+
+* Capturing on-chain value of the above native assets will significantly add utility to all tokens
+
+* Current FRENS and raffle ticket holders must be acknowledged with raffle(s). There are multiple avenues for this which are outlined in the DAO forum thread. The community can design and publicize events to utilize these FRENS which will be an easier task if we stop further emissions and narrow the scope of the raffle with cessation of FRENS’ emissions.
+
+There will be an additional signal proposal outlining changes to GLTR emissions to support liquidity provision for the GHST token specifically. While the bonding curve is in place, it is important that a sustainable GHST liquidity plan is in place that captures and rewards LPs fairly and sustainably.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/sunset-frens-by-october-1st/4255)
+
+Option 1: Sunset FRENS immediately
+
+Option 2: Taper FRENS w/ end date of 10/1
+
+Option 3: Keep FRENS as they are
+
+**Voting Period:** 26 August - 2 September 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x9d8fa69132f66ad8e665549cff91c08de8687a72d2702cb66cd41dbb877f09f7)
+
+<hr />
+
+### Update GLTR Emissions
+**Aavegotchi Improvement Proposal #41**
+
+**Tóm Tắt Đề Xuất:**
+
+I propose that we alter GLTR emissions to optimize GHST liquidity and support the sunsetting of FRENS as outlined in the “Sunset FRENS" proposal.
+
+The above proposal and this one will accomplish the following:
+
+* Retire the GHST-QUICK liquidity pool liquidity mining rewards (currently FRENS)
+
+* Retire the GHST-WETH liquidity pool mining rewards (currently FRENS)
+
+* Retire the GHST-MATIC liquidity pool mining rewards (currently FRENS + GLTR)
+
+* Add 5% weight to the GHST-USDC LM rewards (taken from GHST-MATIC) for a total of 20%
+
+* This consolidation will maximize our most successful pool in GHST-USDC. It will eliminate rewards for unpopular pools and help grow our most successful pool. The GHST-WETH pair was borne from the Dinoswap pool which is a failed project. The GHST-MATIC pair is the only one on SushiSwap which is an inactive exchange on Polygon. Neither project offers ongoing LM incentives. The increase in GHST-USDC LM rewards is necessary to offer compensation for the impermanent loss risk incurred by the pair, otherwise single-sided staking for wapGHST will be prioritized and not afford further depth in the GHST-USDC pool. Below is the chart with highlighted changes to GLTR emissions and resultant estimated APYs.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/sunset-frens-by-october-1st/4255)
+
+Option 1: Yes. Increase USDC remove MATIC.
+
+Option 2: No. Leave emissions unchanged.
+
+**Voting Period:** 26 August - 2 September 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x304df0644d5ba0c929066959c5a2d585a2597630fa90a4642ffe8315e256d31a)
+
+<hr />
+
+### Setting limits on the number of borrowed gotchis allowed per wallet address
+**Aavegotchi Improvement Proposal #42**
+
+**Tóm Tắt Đề Xuất:**
+
+Until recently there have been no limits on the number of gotchis an address can borrow at the same time, either from a whitelist or from the open (non whitelisted) market.
+
+This was recently changed to a limit of 1 borrowed gotchi on the open market and 1 by default on all whitelists. A whitelist owner can change the number of allowed borrowed gotchis per address using Louper Dev, and soon, through the official UI.
+
+This change was put in place with no warning as an experiment in anti botting measures. Community members had reported difficulty in securing a gotchi to borrow for channelling, particularly around the 0:00UTC reset time, which has been attributed to bots scraping all the best rental offers before humans get a chance.
+
+The change has so far seen Gotchigang report an increase in available gotchis to borrow around reset time which is a positive.
+
+On the negative side, other Gotchigang have reported being unable to fully channel their aaltars due to not being able to rent enough gotchis. This is particularly for borrowers who’ve paid, say, 20ghst for a long term rental and are now stuck with that 1 gotchi and are unable to channel other parcels using other borrowed gotchis. This issue will tend to grow over time as people level up their aaltars and generate more channelling opportunities. The current limit on the open market is a disincentive to levelling up aaltars and purchasing more land for those without enough gotchis who prefer longer term rentals. It could also severely limit the demand for lending out gotchis long term, however it forces people to approach multiple guilds/whitelist owners for spots which is a positive for the social element of the game.
+
+A poll was run in the weekly DAO Hangout by CoderDan with the results suggesting most community members would prefer the allowed number of borrowed gotchis on the open market to reflect the number of parcels a wallet address holds plus 1, so in theory each parcel could be channelled once per day whilst still holding longer term rentals. For single channel rentals this is less of a concern as people can return a gotchi and borrow another as soon as they’ve finished using it.
+
+Further increasing the borrowing limit up to the number of available channellings per address was suggested by considering aaltar levels as well, but it was deemed too inefficient to be constantly recalculating this number dynamically in the background.
+
+As this was an experiment, I propose we revert these changes back now and continue to monitor the impacts so we can be clearer on the severity of the botting issue and be more confident in the effectiveness of this solution, whilst voting to implement the below.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reform-public-rental-market/4089)
+
+Option 1: Limit market to # of parcels + 1
+
+Option 2: Keep original unlimited system
+
+Option 3: Unlimited open, limit whitelists
+
+Option 4: Limit open market to 1
+
+**Voting Period:** 26 August - 2 September 2022
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x9b2559ed4cd5dd0c4c3c9b90b73e0e93c839aef64cd00df2d65cc8e97886ac0f)
 
 <hr />
 
