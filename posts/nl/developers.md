@@ -20,10 +20,11 @@ De Aavegotchi Docs kunnen [hier](https://docs.aavegotchi.com/) gevonden worden.
 
 <ol>
 <li><a href=#building-aavegotchi-com>Aavegotchi.com bouwen</a></li>
-<li><a href=#building-the-wiki>De Wiki bouwen</a></li>
-<li><a href=#building-mini-games>Mini-Games bouwen</a></li>
-<li><a href=#aarchitect-creations>Aarchitect Creaties</a></li>
-<li><a href=#subgraphs>Subgrafieken</a></li>
+<li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
 
@@ -35,17 +36,21 @@ Heb je een suggestie voor de Aavegotchi.com DApp? Wil je helpen met vertalen?
 
 Contact coderdan#8904 op [Discord](https://discord.com/invite/NPwnWB6)
 
-## De Wiki bouwen
+## Gotchiverse Analytics
 
-Wil je helpen met het bouwen van de wiki? Heb je fouten in de wiki gevonden? Suggesties om de inhoud te verbeteren?
+The official Gotchiverse Analytics page can be found [here](https://gotchiverse-analytics.vercel.app/)
 
-Contact met BowtiedNerd#6509 op [Discord](https://discord.com/invite/NPwnWB6)
+## Building the Wiki
 
-De volledige wiki is op Github. Bekijk het [hier](https://github.com/aavegotchi/aavegotchi-wiki)
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
-## Mini-Games bouwen
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
-Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-games.
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Bouw een volledig Aavegotchi minigame - Deel 1: Instellen + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
@@ -53,9 +58,9 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [Bouw een volledige Aavegotchi minigame - Deel 3: Je spel implementeren](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Aarchitect Creaties
+## Aarchitect Creations
 
-[Aarchitects](/aarchitect), onze communityontwikkelaars hebben coole webapplicaties bedacht. Bekijk ze nu!
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Wearable Aanrader Engine / Rankschikkingen / Eigenschap Distributie
 
@@ -81,7 +86,7 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 * [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) - Leaderboard gemaakt door Cryptoticker.io Guild
 
-## Subgrafieken
+## Subgraphs
 
 * Officiële Aavegotchi Subgrafie: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
 
@@ -91,4 +96,4 @@ Coyote, onze devangelist, heeft 2 handleidingen gemaakt voor het maken van mini-
 
 ## Gaame Jaam
 
-De Aavegotchi Gaame Jaam/Hackathon werd gehouden van 1 tot 5 september 2021. Bekijk de coole min-games gemaakt [hier](/gaame-jaam).
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
