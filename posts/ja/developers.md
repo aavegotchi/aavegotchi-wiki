@@ -20,11 +20,12 @@ Aavegotchiに関する資料は[こちら](https://docs.aavegotchi.com/)にあ�
 
 <ol>
 <li><a href=#building-aavegotchi-com>Aavegotchi.comを構築する</a></li>
-<li><a href=#building-the-wiki>Wikiを構築する</a></li>
-<li><a href=#building-mini-games>ミニゲームを作る</a></li>
-<li><a href=#aarchitect-creations>アーキテクト・クリエーションズ</a></li>
-<li><a href=#subgraphs>サブグラフ</a></li>
-<li><a href=#gaame-jaam>ゲーム・ジャム</a></li>
+<li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
+<li><a href=#subgraphs>Subgraphs</a></li>
+<li><a href=#gaame-jaam>Gaame Jaam（ゲーム・ジャム）</a></li>
 </ol>
 
 </div>
@@ -35,17 +36,21 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 [ディスコード（Discord）](https://discord.com/invite/NPwnWB6)のcoderdan#8904に連絡してください。
 
-## Wikiを構築する
+## Gotchiverse Analytics
 
-ウィキを構築するのを手伝いたいですか？ ウィキに誤りを発見しましたか？ 内容を改善するための提案はありますか？
+The official Gotchiverse Analytics page can be found [here](https://gotchiverse-analytics.vercel.app/)
 
-[ディスコード（Discord）](https://discord.com/invite/NPwnWB6)のBowtiedNerd#6509に連絡してください。
+## Building the Wiki
 
-ウィキ全体はGithubにあります。 [ここ](https://github.com/aavegotchi/aavegotchi-wiki)で見ることができます。
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
-## ミニゲームを作る
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
-開発者のCoyoteが、ミニゲーム制作のチュートリアルを2つ作りました。
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [フルスタックのAavegotchiミニゲームを作る - パート1: セットアップ + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
@@ -53,9 +58,9 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 * [フルスタックのAavegotchiミニゲームを作る - パート3: ゲームを展開する](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## アーキテクト・クリエーションズ
+## Aarchitect Creations
 
-[アーキテクト](/aarchitect)は、私たちのコミュニティの開発者で、クールなウェブアプリを開発してます。 ぜひご覧ください。
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - ウェアラブル・レコメンデーション・エンジン / リーダーボード / 特性の分配
 
@@ -81,7 +86,7 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 * [aavegotchi.xyz リーダーボード](https://www.aavegotchi.xyz/leaderboard/players) - Cryptoticker.ioギルドが制作したリーダーボード
 
-## サブグラフ
+## Subgraphs
 
 * 公式 Aavegotchi サブグラフ: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
 
@@ -89,6 +94,6 @@ Aavegotchi.comのDAppについて提案がありますか？ 翻訳を手伝い�
 
 * Aavegotchi ラッフル (ポリゴン): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
 
-## ゲーム・ジャム
+## Gaame Jaam（ゲーム・ジャム）
 
-2021年9月1日から5日にかけて、Aavegotchi Gaame Jaam/Hackathon（ゲーム・ジャム／ハッカソン）が開催されました。 作成されたクールなミニゲームを[こちら](/gaame-jaam)からご覧ください。
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
