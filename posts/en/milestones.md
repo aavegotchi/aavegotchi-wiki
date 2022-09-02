@@ -6,6 +6,14 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Aavegotchi August Update](https://blog.aavegotchi.com/aavegotchi-august-update/)
+* FAKE Gotchis, Mosaic Tiles, Rarity Farming Season 4 and moar in this Aavegotchi August Update!
+<p></p>
+
+## [Four new Core Proposals are up for voting!](https://blog.aavegotchi.com/vote-agip-39-40-41-42-modifying-the-channeling-window-sunsetting-frens-updating-gltr-emissions-setting-limits-for-the-amount-of-borrowed-gotchis/)
+* Gotchigang, it's time to do your civic duty and vote on four new Core Props!
+<p></p>
+
 ## [FAKE Gotchis — A Frenly Art Karmic Experiment](https://blog.aavegotchi.com/introducing-fake-gotchis-a-frenly-art-karmic-experiment/)
 * FAKE Gotchis is a community-driven cryptoart collection based around the theme of Aavegotchi and the wider lore of the Gotchiverse
 * Get your FAKE Gotchi Cards and mint one now!
