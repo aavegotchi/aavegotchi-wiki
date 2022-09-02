@@ -469,6 +469,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip37",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, do it", "18,000,000 GHST (98.85%)"],
+					["No, don't", "213,000 GHST (1.15%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip38",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, stop new wearables", "18,000,000 GHST (94.87%)"],
+					["No, keep things as is", "953,000 GHST (5.13%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
