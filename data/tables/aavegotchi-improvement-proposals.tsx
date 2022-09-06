@@ -493,6 +493,58 @@ export const tables
         },
 		
 		{
+            tableName: "agip39",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Keep the current solution", "7,100,000 GHST (59.54%)"],
+					["Use GLTR to move channeling", "3,400,000 GHST (28.48%)"],
+					["Revert to the original solution", "1,400,000 GHST (11.98%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip40",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Sunset FRENS immediately", "9,400,000 GHST (77.36%)"],
+					["Taper FRENS w/ end date of 10/1", "1,800,000 GHST (14.87%)"],
+					["Keep FRENS as they are", "945,000 GHST (7.76%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip41",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Increase USDC remove MATIC.", "11,000,000 GHST (88.28%)"],
+					["No. Leave emissions unchanged.", "1,400,000 GHST (11.72%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip42",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Limit market to # of parcels + 1", "9,900,000 GHST (81.6%)"],
+					["Keep original unlimited system", "975,000 GHST (8.03%)"],
+					["Unlimited open, limit whitelists", "838,000 GHST (6.89%)"],
+					["Limit open market to 1", "422,000 GHST (3.48%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
