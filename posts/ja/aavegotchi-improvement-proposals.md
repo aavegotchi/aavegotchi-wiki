@@ -1623,6 +1623,8 @@ Option 3: Use GLTR to move channeling
 
 **結果:**
 
+table_agip39
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0xb41fe70a12f107d9dc8f0c8aa0346b53d9c35866a5e71ce717253f02ba4ddd7b)
 
 <hr />
@@ -1662,6 +1664,8 @@ Option 3: Keep FRENS as they are
 
 **結果:**
 
+table_agip40
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x9d8fa69132f66ad8e665549cff91c08de8687a72d2702cb66cd41dbb877f09f7)
 
 <hr />
@@ -1694,6 +1698,8 @@ Option 2: No. Leave emissions unchanged.
 **Voting Period:** 26 August - 2 September 2022
 
 **結果:**
+
+table_agip41
 
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x304df0644d5ba0c929066959c5a2d585a2597630fa90a4642ffe8315e256d31a)
 
@@ -1733,6 +1739,8 @@ Option 4: Limit open market to 1
 **Voting Period:** 26 August - 2 September 2022
 
 **結果:**
+
+table_agip42
 
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x9b2559ed4cd5dd0c4c3c9b90b73e0e93c839aef64cd00df2d65cc8e97886ac0f)
 
