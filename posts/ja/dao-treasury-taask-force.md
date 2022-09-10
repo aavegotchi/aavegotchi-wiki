@@ -24,6 +24,7 @@ The initial mission and goals of the committee will be:
 <ol>
 <li><a href=#origins>Origins - 起源</a></li>
 <li><a href=#members>メンバーズ</a></li>
+<li><a href=#dtf-funding-application-form>DTF Funding Application Form</a></li>
 </ol>
 
 </div>
@@ -73,3 +74,7 @@ Subsequently, another [DAO vote / AGIP 28](/aavegotchi-improvement-proposals#ext
 * MarvinP
 
 * Chichi
+
+## DTF Funding Application Form
+
+Gotchigang members who are seeking a grant from the DTF, please complete this [form](https://docs.google.com/document/d/1FFi9MbkrWGG2vnw2yHCRycNpWipxKnN0ntjo1Jnh0Fo/edit) and submit it to one of the DTF members on the [DTF Discord](https://discord.gg/5c97vDNU).

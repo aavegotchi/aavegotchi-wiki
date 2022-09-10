@@ -20,9 +20,10 @@ Los documentos de Aavegotchi pueden encontrarse [aquí](https://docs.aavegotchi.
 
 <ol>
 <li><a href=#building-aavegotchi-com>Construyendo Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Construyendo la Wiki</a></li>
-<li><a href=#building-mini-games>Construyendo Minijuegos</a></li>
-<li><a href=#aarchitect-creations>Creaciones de los arquitectos</a></li>
+<li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
 <li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
@@ -35,17 +36,21 @@ Los documentos de Aavegotchi pueden encontrarse [aquí](https://docs.aavegotchi.
 
 Póngase en contacto con el coderdan#8904 en [Discord](https://discord.com/invite/NPwnWB6)
 
-## Construyendo la Wiki
+## Gotchiverse Analytics
 
-¿Quieres ayudar a construir la wiki? Has encontrado errores en la wiki? ¿Sugerencias para mejorar el contenido?
+The official Gotchiverse Analytics page can be found [here](https://gotchiverse-analytics.vercel.app/)
 
-Pónte en contacto con el coderdan#6509 en [Discord](https://discord.com/invite/NPwnWB6)
+## Building the Wiki
 
-Toda la wiki está en Github. Ver [aquí](https://github.com/aavegotchi/aavegotchi-wiki)
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
-## Construyendo Minijuegos
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
-Coyote, nuestro desarrollador, ha creado 2 tutoriales sobre la creación de minijuegos.
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Construyendo un minijuego Aavegotchi completo - Parte 1: Configurar + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
@@ -53,9 +58,9 @@ Coyote, nuestro desarrollador, ha creado 2 tutoriales sobre la creación de mini
 
 * [Construir un minijuego de Aavegotchi completo - Parte 3: Lanzando tu juego](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Creaciones de los arquitectos
+## Aarchitect Creations
 
-[Aarquitectos](/aarchitect), nuestros desarrolladores de la comunidad, han presentado algunas aplicaciones web geniales. ¡Pruébalas!
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Motor de recomendaciones / Leaderboards / Distribución de rasgos
 
@@ -91,4 +96,4 @@ Coyote, nuestro desarrollador, ha creado 2 tutoriales sobre la creación de mini
 
 ## Gaame Jaam
 
-El Aavegotchi Gaame Jaam/Hackathon se celebró del 1 al 5 de septiembre de 2021. Échale un vistazo a los minijuegos creados [aquí](/gaame-jaam).
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).

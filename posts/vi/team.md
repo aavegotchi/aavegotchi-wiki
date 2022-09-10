@@ -41,7 +41,6 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
-<p><a href=#mori---solidity-developer>Mori - Solidity Developer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
@@ -206,16 +205,6 @@ History suggests he was raised in the Canadian wilderness on competitive games a
 </div>
 
 William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
-
-
-### Mori - Solidity Developer
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/mori.jpg" alt = "Mori">
-<p class="leftImageText"><a href="https://twitter.com/mori_eth" target="_blank">Mori</a></p>
-</div>
-
-Patrick Kim, aka Mori is a fledgling defi degen and solidity developer from Los Angeles. He found Aavegotchi after losing a bunch of money in poocoins, and was inspired by the amount of effort that goes into NFTs dedicated to the liquidated. In a testament to his lack of focus, he was previously a statistician, and before that an aircraft mechanic. He watches anime for the plot, and was a willing support player not under duress when he played DotA years ago. In his spare time, he likes to persistently ask coderdan about when his favorite features are shipping.
 
 ### Thrax - Media Production
 

@@ -7,6 +7,38 @@ contributors:
   - "007"
 ---
 
+## [Partnership with Router Protocol](https://blog.aavegotchi.com/aavegotchi-x-router-protocol-introducing-cross-chain-swaps/)
+* Aavegotchi announces their partnership with Router Protocol
+* This partnership enables cross-chain swaps for GHST once Aavegotchi V2 goes live!
+<p></p>
+
+## [Aavegotchi August Update](https://blog.aavegotchi.com/aavegotchi-august-update/)
+* FAKE Gotchis, Mosaic Tiles, Rarity Farming Season 4 and moar in this Aavegotchi August Update!
+<p></p>
+
+## [Four new Core Proposals are up for voting!](https://blog.aavegotchi.com/vote-agip-39-40-41-42-modifying-the-channeling-window-sunsetting-frens-updating-gltr-emissions-setting-limits-for-the-amount-of-borrowed-gotchis/)
+* Gotchigang, it's time to do your civic duty and vote on four new Core Props!
+<p></p>
+
+## [FAKE Gotchis — A Frenly Art Karmic Experiment](https://blog.aavegotchi.com/introducing-fake-gotchis-a-frenly-art-karmic-experiment/)
+* FAKE Gotchis is a community-driven cryptoart collection based around the theme of Aavegotchi and the wider lore of the Gotchiverse
+* Get your FAKE Gotchi Cards and mint one now!
+<p></p>
+
+## [Mosaic Tiles are now available for crafting!](https://blog.aavegotchi.com/craft-mosaic-tiles-to-color-in-the-gotchiverse/)
+* A new color set of Mosaic Tiles will be released on Crafting Wednesday every week for the next six weeks
+* There's also a Mosaic Tiles Aart Contest with Faabulous prizes. Don't miss out on it!
+<p></p>
+
+## [Gotchigang, AGIPs 37 & 38 are now live!](https://blog.aavegotchi.com/vote-agip-37-38-voting-power-for-new-staking-pools-and-stopping-new-brs-wearable-emissions/)
+* Read all about it here and then head to Snapshot to vote nao!
+<p></p>
+
+## [Aavegotchi July Update](https://blog.aavegotchi.com/aavegotchi-july-update/)
+* Our shippoooorrrss never stop shipping!
+* Rarity Farming Season 4, launch of Gotchiverse Docs, Aavegotchi’s 2nd Birthday, and moar!
+<p></p>
+
 ## [Aavegotchi X Freckle Spooky Trivia](https://blog.aavegotchi.com/aavegotchi-partners-with-freckle-to-host-web3-trivia/)
 * Test your Gotchi knowledge in a Freckle trivia and stand to win prizes!
 <p></p>

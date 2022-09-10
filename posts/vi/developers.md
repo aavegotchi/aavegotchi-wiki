@@ -20,9 +20,10 @@ Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 
 <ol>
 <li><a href=#building-aavegotchi-com>Xây dựng Aavegotchi.com</a></li>
-<li><a href=#building-the-wiki>Xây dựng trang Wiki</a></li>
-<li><a href=#building-mini-games>Xây dựng Mini-Games</a></li>
-<li><a href=#aarchitect-creations>Sản Phẩm Của Các Kỹ Sư</a></li>
+<li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
+<li><a href=#building-the-wiki>Building the Wiki</a></li>
+<li><a href=#building-mini-games>Building Mini-Games</a></li>
+<li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
 <li><a href=#subgraphs>Subgraphs</a></li>
 <li><a href=#gaame-jaam>Gaame Jaam</a></li>
 </ol>
@@ -35,17 +36,21 @@ Bạn có đề xuất về DApp trên Aavegotchi.com? Bạn muốn hỗ trợ d
 
 Hãy liên hệ với CoderDan trên [Discord](https://discord.com/invite/NPwnWB6) nhé
 
-## Xây dựng trang Wiki
+## Gotchiverse Analytics
 
-Bạn muốn xây dựng trang wiki? Bạn tìm thấy lỗi trên wiki? Bạn muốn đề xuất về nội dung?
+The official Gotchiverse Analytics page can be found [here](https://gotchiverse-analytics.vercel.app/)
 
-Hãy liên hệ với BowtiedNerd#6509 trên[Discord](https://discord.com/invite/NPwnWB6)
+## Building the Wiki
 
-Tất cả nội dung của wiki đầu có trên Github. Bạn có thể xem tại [đây](https://github.com/aavegotchi/aavegotchi-wiki)
+Want to help build the wiki? Found any errors in the wiki? Suggestions to improve the content?
 
-## Xây dựng Mini-Games
+Contact BowtiedNerd#6509 on [Discord](https://discord.com/invite/NPwnWB6)
 
-Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn chơi game.
+The entire wiki is on Github. View it [here](https://github.com/aavegotchi/aavegotchi-wiki)
+
+## Building Mini-Games
+
+Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Xây dựng một mimni-game full-stack trên Aavegotchi - Phần 1: Set up + Phaser 3](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-1-set-up-phaser-3-29l5)
 
@@ -53,9 +58,9 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 * [Xây dựng một mimni-game full-stack trên Aavegotchi - Phần 3: Triển khai game](https://dev.to/ccoyotedev/building-a-full-stack-aavegotchi-minigame-part-3-deploying-your-game-mga)
 
-## Sản Phẩm Của Các Kỹ Sư
+## Aarchitect Creations
 
-[Aarchitects](/aarchitect), các lập trình viên của cộng đồng bọn mình, đã sáng tạo ra một số ứng dụng rất tuyệt. Hãy xem qua nhé!
+[Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
 * [Aavegotchistats](https://aavegotchistats.com/) - Công cụ Khuyến Nghị Trang Phục / Bảng Xếp Hạng / Phân Phối Điểm
 
@@ -91,4 +96,4 @@ Coyote, devangelist của bọn mình, đã tạo ra hai bài hướng dẫn ch�
 
 ## Gaame Jaam
 
-The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín 2021. Xem qua những mini-game thật vui tại [đây](/gaame-jaam).
+The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).

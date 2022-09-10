@@ -80,11 +80,11 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 ## 地区
 
-地区は、互いに隣接するレルム区画のグループで構成されています。 以下の画像は、レルム区画が解放されているシタデルの一部と、その中にある地区を表しています。
+地区は、互いに隣接するレルム区画のグループで構成されています。 The following image shows the Citaadel and its districts.
 
 ギルドは一般的に地区単位で組織されています。 ギルドの一覧とその地区については、[ギルドのページ](/guild)をご覧ください。
 
-<img src="/gotchiverse/aavegotchi-districts.png" alt="Aavegotchi地区" />
+<img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Aavegotchi地区" />
 
 [gotchiverse.io](https://gotchiverse.io/)でレルムを閲覧できます。
 

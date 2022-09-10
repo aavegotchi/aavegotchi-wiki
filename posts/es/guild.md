@@ -83,4 +83,4 @@ table_guild
 
 Los clanes se organizan en distritos. El siguiente mapa de clanes ha sido compilado por MonsterRNG#333 de Avid Aavegotchis
 
-<img class="bodyImage" src="/guild/guild-map.jpg" alt="Aavegotchi Guilds" />
+<img class="bodyImage" src="/guild/guild-map.png" alt="Aavegotchi Guilds" />

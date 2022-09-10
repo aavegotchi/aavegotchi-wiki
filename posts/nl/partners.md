@@ -32,6 +32,7 @@ Aavegotchi is een fraai project. Leer onze frens hier kennen!
 <p><a href=#blackpool>BlackPool</a></p>
 <p><a href=#flamingo-dao>Flamingo DAO</a></p>
 <p><a href=#mao-dao>Mao DAO</a></p>
+<p><a href=#router-protocol>Router Protocol</a></p>
 </ol>
 
 </div>
@@ -195,3 +196,12 @@ Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsm
 </div>
 
 MAO DAO is een nieuw soort gaming DAO dat tot doel heeft het voortouw te nemen bij het vormgeven van de speeltongruimte in Azië. Zij hebben honderden spelers aan boord genomen in verschillende bestaande spelletjes, omdat zij de eerste zwaartepunt van de oneindigheid vormden. Voorlopig hebben ze besloten om onze gestage Player Cat NFT's te lanceren, die het lidmaatschap van DAO vertegenwoordigen, een deel van de bestuursrechten.
+
+### Router Protocol
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/router-protocol.jpg" alt = "Router Protocol">
+<p class="leftImageText"><a href="https://twitter.com/routerprotocol" target="_blank">Router Protocol</a></p>
+</div>
+
+Router Protocol is a modular infrastructure layer enabling blockchains to communicate with each other. Currently live on Ethereum, Polygon, BSC, and more, Router is on a mission to integrate every chain.

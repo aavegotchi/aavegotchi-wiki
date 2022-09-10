@@ -33,6 +33,12 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 <li><a href=#rofl-rug>ROFL Rug</a></li>
 <li><a href=#graand-fountain>Graand Fountain</a></li>
 <li><a href=#nft-display-a>NFT Display A</a></li>
+<li><a href=#blue-mosaic-tiles>Blue Mosaic Tiles</a></li>
+<li><a href=#dark-magenta-mosaic-tiles>Dark Magenta Mosaic Tiles</a></li>
+<li><a href=#yellow-mosaic-tiles>Yellow Mosaic Tiles</a></li>
+<li><a href=#purple-mosaic-tiles>Purple Mosaic Tiles</a></li>
+<li><a href=#pink-mosaic-tiles>Pink Mosaic Tiles</a></li>
+<li><a href=#green-mosaic-tiles>Green Mosaic Tiles</a></li>
 </ol>
 
 </div>
@@ -122,3 +128,39 @@ table_graandFountain
 ## NFT Display A
 
 table_nftDisplayA
+
+## Blue Mosaic Tiles
+
+*From 10 - 24 August 2022 only*
+
+table_blueTiles
+
+## Dark Magenta Mosaic Tiles
+
+*From 17 - 31 August 2022 only*
+
+table_magentaTiles
+
+## Yellow Mosaic Tiles
+
+*From 24 August - 7 September 2022 only*
+
+table_yellowTiles
+
+## Purple Mosaic Tiles
+
+*From 31 August - 14 September 2022 only*
+
+table_purpleTiles
+
+## Pink Mosaic Tiles
+
+*From 7 - 21 September 2022 only*
+
+table_pinkTiles
+
+## Green Mosaic Tiles
+
+*From 14 - 28 September 2022 only*
+
+table_greenTiles
