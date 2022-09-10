@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Partnership with Router Protocol](https://blog.aavegotchi.com/aavegotchi-x-router-protocol-introducing-cross-chain-swaps/)
+* Aavegotchi announces their partnership with Router Protocol
+* This partnership enables cross-chain swaps for GHST once Aavegotchi V2 goes live!
+<p></p>
+
 ## [Aavegotchi August Update](https://blog.aavegotchi.com/aavegotchi-august-update/)
 * FAKE Gotchis, Mosaic Tiles, Rarity Farming Season 4 and moar in this Aavegotchi August Update!
 <p></p>
