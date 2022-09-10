@@ -32,6 +32,7 @@ Aavegotchi là một dự án thân thiện. Hãy cùng làm quen những ngư�
 <p><a href=#blackpool>BlackPool</a></p>
 <p><a href=#flamingo-dao>Flamingo DAO</a></p>
 <p><a href=#mao-dao>Mao DAO</a></p>
+<p><a href=#router-protocol>Router Protocol</a></p>
 </ol>
 
 </div>
@@ -195,3 +196,12 @@ Một DAO tập trung vào NFT, mong muốn khám phá những cơ hội đầu 
 </div>
 
 MAO DAO là một dạng DAO gaming mới, hướng tới việc dẫn đầu trong quá trình hình thành nên giới p2e tại Châu Á. Họ đã tiếp nhận hàng trăm người chơi cho những trò chơi khác nhau, đầu tiên là Axie Infinity. Hiện tại, họ đã quyết định triển khai NFT Ready Player Cat, đại diện cho tư cách thành viên của DAO, một phần của quyền quản trị.
+
+### Router Protocol
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/router-protocol.jpg" alt = "Router Protocol">
+<p class="leftImageText"><a href="https://twitter.com/routerprotocol" target="_blank">Router Protocol</a></p>
+</div>
+
+Router Protocol is a modular infrastructure layer enabling blockchains to communicate with each other. Currently live on Ethereum, Polygon, BSC, and more, Router is on a mission to integrate every chain.
