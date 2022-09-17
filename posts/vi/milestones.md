@@ -7,6 +7,12 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [The Gotchi Renaissance is here!](https://blog.aavegotchi.com/epic-gotchiverse-art-release-to-deliver-three-amazing-new-features/)
+* Showcase and sell your art with NFT Displays
+* Jump around the Gotchiverse with Bounce Gates
+* Explore without a Gotchi in Observooor Mode
+<p></p>
+
 ## [Partnership with Router Protocol](https://blog.aavegotchi.com/aavegotchi-x-router-protocol-introducing-cross-chain-swaps/)
 * Aavegotchi announces their partnership with Router Protocol
 * This partnership enables cross-chain swaps for GHST once Aavegotchi V2 goes live!
