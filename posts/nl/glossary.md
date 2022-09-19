@@ -32,7 +32,6 @@ Als je klaar bent met dit lezen en hopelijk een beter begrip van deze termen heb
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#baard>Baards</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
-<p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Broekzak</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
@@ -120,19 +119,12 @@ Geniet je van die mooie muziek in sommige van onze mini-games? Ze zijn gemaakt d
 ### Drop Tickets
 Tickets zijn ERC-1155 NFT's die volledig verhandelbaar zijn op de Aavegotchi [Baazaar](/baazaar). Elk Drop Ticket representeert een item in de NFT Lotterij, waar u Aavegotchi [Portalen](/portals) en [REALM Parcelen](/gotchiverse) kunt winnen.
 
-10.000 [FRENS](/glossary#frens) kunnen worden omgezet in één Drop Ticket.
-
-Lotterij tickets kunnen ook worden omgezet in 'Drop Tickets'.
-
-### FRENS
-Punten die worden beloond aan gebruikers die GHST hebben gestaked. FRENS is geen token. Het is technisch gezien een saldo binnen het Staking Contract. FRENS zijn niet overdraagbaar en zijn bedoeld om stakers te belonen voor hun bijdragen aan het Aavegotchi project.
-
-Lees meer over FRENS in de [Stakingpagina](/staking).
+Raffle Tickets could also be converted into Drop Tickets.
 
 ### Gotchi Broekzak
-Elke Aavegotchi heeft een Gotchi Pocket. Dit dient als een inventaris voor hen, waarin ze uitgeruste wearabels kunnen opslaan, GHST tokens ontvangen van [rarity farming](/rarity-farming), en [Baadges](/baadge).
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
-Technisch gezien is een Gotchi Pocket een escrow adres.
+Technically, a Gotchi Pocket is an escrow address.
 
 ### Gotchus Alchemica Exchange
 
@@ -143,8 +135,6 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 
 ### Lotterij Tickets
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
-
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
@@ -278,7 +268,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 ### Staken
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with [GLTR](/gotchus-alchemica-exchange#gltr-token) that they can use to speed up the crafting and upgrading of their Installations in the Gotchiverse.
 
 ### Yield Farming
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
