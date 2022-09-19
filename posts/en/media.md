@@ -10,6 +10,12 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### Securing the Aavegotchi Metaverse With On-Chain Randomness | Chainlink Tech Talk #17 (8 September 2022)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### CGC11 Fireside Chat with Jesse Johnson, Co-Founder and COO of Aavegotchi (31 August 2022)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHIG_VBkPhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Gotchiverse Walk-Thru, Farming Tutorial, Token Details with Jesse on the LADZ City show (22 July 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIIFAwAXJqE?start=438" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
