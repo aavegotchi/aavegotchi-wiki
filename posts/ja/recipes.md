@@ -32,7 +32,8 @@ contributors:
 <li><a href=#grass>Grass</a></li>
 <li><a href=#rofl-rug>ROFL Rug</a></li>
 <li><a href=#graand-fountain>Graand Fountain</a></li>
-<li><a href=#nft-display-a>NFT Display A</a></li>
+<li><a href=#nft-display>NFT Display</a></li>
+<li><a href=#le-golden-nft-display>LE Golden NFT Display</a></li>
 <li><a href=#blue-mosaic-tiles>Blue Mosaic Tiles</a></li>
 <li><a href=#dark-magenta-mosaic-tiles>Dark Magenta Mosaic Tiles</a></li>
 <li><a href=#yellow-mosaic-tiles>Yellow Mosaic Tiles</a></li>
@@ -125,9 +126,13 @@ table_roflRug
 
 table_graandFountain
 
-## NFT Display A
+## NFT Display
 
-table_nftDisplayA
+table_nftDisplay
+
+## LE Golden NFT Display
+
+table_goldenNFTDisplay
 
 ## Blue Mosaic Tiles
 
