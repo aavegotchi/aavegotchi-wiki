@@ -289,20 +289,26 @@ export const tables
             }
         },
 		{
-            tableName: "nftDisplayA",
+            tableName: "nftDisplay",
             tableCaption: "",
             tableData: {
-                headers: ["Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
                 data: [
-                    ["1", "150", "40", "110", "8", "Instant"],
-					["2", "300", "75", "225", "15", "12000"],
-					["3", "600", "150", "450", "30", "29500"],
-					["4", "750", "375", "1125", "150", "59000"],
-					["5", "1500", "750", "2250", "300", "89000"],
-					["6", "3000", "1500", "4500", "600", "119000"],
-					["7", "0", "3750", "11250", "2250", "235000"],
-					["8", "0", "7500", "22500", "4500", "355000"],
-					["9", "0", "15000", "45000", "9000", "590000"]
+                    ["4x4 NFT Display", "1", "400", "0", "600", "100", "Instant"],
+					["4x6/6x4 NFT Display", "1", "600", "0", "800", "200", "Instant"],
+					["8x8 NFT Display", "1", "1600", "0", "2000", "600", "Instant"]
+                ]
+            }
+        },
+		{
+            tableName: "goldenNFTDisplay",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["4x4 LE Golden NFT Display", "1", "4000", "0", "6000", "1000", "Instant"],
+					["4x6/6x4 LE Golden NFT Display", "1", "6000", "0", "8000", "2000", "Instant"],
+					["8x8 LE Golden NFT Display", "1", "16000", "0", "20000", "6000", "Instant"]
                 ]
             }
         },
