@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [Sneak peek at the first 4 FAKE Gotchis!](https://blog.aavegotchi.com/sneak-preview-first-5-exquisite-fake-gotchis-revealed/)
+* The first 4 FAKE Gotchi art designs are out now!
+<p></p>
+
 ## [The Gotchi Renaissance is here!](https://blog.aavegotchi.com/epic-gotchiverse-art-release-to-deliver-three-amazing-new-features/)
 * Showcase and sell your art with NFT Displays
 * Jump around the Gotchiverse with Bounce Gates
