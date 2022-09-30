@@ -19,6 +19,7 @@ Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều
 <li><a href=#aavegotchi-mission-9-content-contest>Người Thắng Cuộc Trong Nhiệm vụ 9:Sáng Tạo Nội Dung của Aavegotchi</a></li>
 <li><a href=#halloween-costume-contest-2021>Cuộc Thi Trang Phục Halloween 2021</a></li>
 <li><a href=#defi-rpg-wearables-meme-contest>Cuộc Thi Meme Trang Phục DeFi RPG</a></li>
+<li><a href=#mosaic-tiles-aart-contest>Mosaic Tiles Aart Contest</a></li>
 </ol>
 
 </div>
@@ -113,3 +114,14 @@ Top 3 trang phục chiến thắng lần lượt 100, 50, và 25 GHST.
 ### <span style="color:#cd7f32">Vị trí thứ ba: Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
+
+## Mosaic Tiles Aart Contest
+
+### <span style="color:gold">1st place: Notorious BTC</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/theoliverspoon/status/1574701392484179970"></iframe>
+
+### <span style="color:silver">2nd place: Star</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/Star020593/status/1574443893122564097"></iframe>
+
+### <span style="color:#cd7f32">3rd place: Dunc Idaho</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/Dunc__Idaho/status/1574706161970020357"></iframe>
