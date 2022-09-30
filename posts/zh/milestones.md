@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [5 more FAKE Gotchi Artwork!](https://blog.aavegotchi.com/exclusive-5-more-famous-crypto-artists-creating-fake-gotchis/)
+* More aavesome FAKE Gotchi artwork to feast your eyes on! 👀
+<p></p>
+
 ## [Sneak peek at the first 4 FAKE Gotchis!](https://blog.aavegotchi.com/sneak-preview-first-5-exquisite-fake-gotchis-revealed/)
 * The first 4 FAKE Gotchi art designs are out now!
 <p></p>
