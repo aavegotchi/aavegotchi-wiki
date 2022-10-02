@@ -6,6 +6,10 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Here are the winners of the Gotchiverse Mosaic Tiles Art Contest!](https://blog.aavegotchi.com/gotchiverse-mosaic-tiles-art-contest-winners-confirmed/)
+* We have so many ebic submissions for the contest!
+<p></p>
+
 ## [5 more FAKE Gotchi Artwork!](https://blog.aavegotchi.com/exclusive-5-more-famous-crypto-artists-creating-fake-gotchis/)
 * More aavesome FAKE Gotchi artwork to feast your eyes on! 👀
 <p></p>
