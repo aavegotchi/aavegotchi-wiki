@@ -24,7 +24,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <div class="contentsBox">
 
-**Contents**
+**Contents** 
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
