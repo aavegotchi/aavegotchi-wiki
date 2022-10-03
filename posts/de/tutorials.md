@@ -25,7 +25,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <div class="contentsBox">
 
-**Inhalte**
+**Inhalte** 
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
@@ -33,7 +33,6 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
@@ -86,15 +85,6 @@ Click [here](/matokens) for the article
 * Learn how to transfer funds through AscendEX to Polygon
 * Learn how to use Transak as a fiat-to-Polygon on-ramp
 * Learn how to stake maTokens into Aavegotchis
-
-<hr />
-
-### Aavegotchi Baazaar on Mumbai Testnet
-Click [here](/mumbai-testnet) for the article
-
-* Learn how to configure MetaMask to display Mumbai Testnet
-* Learn how to get tokens from the Mumbai Faucet
-* Learn how to get Mumbai GHST tokens
 
 <hr />
 
