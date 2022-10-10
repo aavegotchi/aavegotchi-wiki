@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [11 more Aavesome FAKE Gotchi Art revealed!](https://blog.aavegotchi.com/fake-gotchis-reveal-11-more-epic-crypto-artists/)
+* The third and final reveal of the FAKE Gotchi Summoning works are here!
+<p></p>
+
 ## [Here are the winners of the Gotchiverse Mosaic Tiles Art Contest!](https://blog.aavegotchi.com/gotchiverse-mosaic-tiles-art-contest-winners-confirmed/)
 * We have so many ebic submissions for the contest!
 <p></p>
