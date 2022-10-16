@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Vote on AGIPs 43 and 44!](https://blog.aavegotchi.com/vote-agip-43-44-adding-dao-liquidity-to-ghst-alchemica-pairs-providing-the-dtf-with-parcels-and-alchemica-for-contributor-compensation/)
+* Two more AGIPs for gotchigang to vote on!
+<p></p>
+
 ## [11 more Aavesome FAKE Gotchi Art revealed!](https://blog.aavegotchi.com/fake-gotchis-reveal-11-more-epic-crypto-artists/)
 * The third and final reveal of the FAKE Gotchi Summoning works are here!
 <p></p>
