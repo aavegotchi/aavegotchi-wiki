@@ -7,6 +7,11 @@ contributors:
   - "chinyh"
 ---
 
+## [Halloween Decorations! Gotchiverse Halloween Contest!](https://blog.aavegotchi.com/gotchiverse-halloween-contest-features-10k-ghst-in-prizes-up-for-grabs/)
+* 6 new Halloween-themed decorations have just hit the Crafting Table!
+* Take part in the Halloween-themed Gotchiverse parcel decorating contest!
+<p></p>
+
 ## [Vote on AGIPs 43 and 44!](https://blog.aavegotchi.com/vote-agip-43-44-adding-dao-liquidity-to-ghst-alchemica-pairs-providing-the-dtf-with-parcels-and-alchemica-for-contributor-compensation/)
 * Two more AGIPs for gotchigang to vote on!
 <p></p>
