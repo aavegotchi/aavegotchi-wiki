@@ -545,6 +545,31 @@ export const tables
         },
 		
 		{
+            tableName: "agip43",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Add 50k GHST + equal alchemica", "16,000,000 GHST (95.66%)"],
+					["Add 30k GHST + equal alchemica", "462,000 GHST (2.74%)"],
+					["Do not add GHST/alchemica to LPs", "269,000 GHST (1.6%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip44",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Transfer Parcels/alchemica", "13,000,000 GHST (78.47%)"],
+					["No. Don't use parcels/alch.", "3,600,000 GHST (21.53%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
