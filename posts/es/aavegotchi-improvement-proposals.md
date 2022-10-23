@@ -1787,6 +1787,8 @@ Option 3: Do not add GHST/alchemica to LPs
 
 **Results:**
 
+table_agip43
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x57055266d44a9c8679807c917fb0518bfd3ea92e6f21e81b977ce9892c191b6a)
 
 <hr />
@@ -1823,6 +1825,8 @@ Option 2: No. Don't use parcels/alch.
 **Voting Period:** 13 - 20 October 2022
 
 **Results:**
+
+table_agip44
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x1338064afddf6631e90e1a95d12117cf516e5de54e00eb557db5996845f75f47)
 
