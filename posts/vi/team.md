@@ -45,7 +45,6 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Team Gốc</a></li>
 </ol>
 
@@ -241,22 +240,6 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 </div>
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
-
-### Webb - Aambassador Lead
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
-</div>
-
-Things Webb loves:
-* daos và defi
-* videogames, thích nhất là dota, hoài niệm nhất là World of Warcraft
-* đi bộ thật lâu trên bãi biển
-* waifu
-* ếch this ếch that
-* kết bạn
-* yêu ngân hàng mới và bái bai ngân hàng cũ
 
 ## Team Gốc
 
