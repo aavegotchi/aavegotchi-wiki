@@ -37,7 +37,6 @@ Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. 
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Directeur</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Hoofd van Paartnerships</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -167,15 +166,6 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart
 
 Nick Graves, aka Gravy, is een creatieve directeur van alle zaken marketing met bijna een decennium B2B en B2C ervaring onder zijn gordel. Na jaren van het mikken in het stereotiepe bedrijfsleven liet hij dat schip varen en zijn carrière voor 100% wijden aan de blockchain-wereld. Terwijl hij strategische partnerschappen creëert, werkt hij zieke KPI's en strategische marketingstrategieën ui. Gravy is toegewijd om Aavegotchi te helpen naar het volgende niveau te bewegen en is er trots op zichzelf een lid van de GotchiGang te noemen.
 
-### Moon - Hoofd van Paartnerships
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
-</div>
-
-Moon is het Hoofd van Paartnerships. Galaxy hersenen. Beste bot in aavegotchi. Gamer. Husband van wagyukkip.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -183,7 +173,7 @@ Moon is het Hoofd van Paartnerships. Galaxy hersenen. Beste bot in aavegotchi. G
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-Ik ben Shohan, professionele game-ontwikkelaar, met meer dan 5+ jaar ervaring. Ik heb werkervaring in gameplay programmering, backend programmeren naar verschillende aspecten van spelontwikkeling. Ik heb gewerkt voor enkele top game studio's zoals Stillfront (Moonfrog Labs). Ik heb een Meester graad in Informatica. Ik werk in REALM frontend gameplay voornamelijk waar frens rond kunnen lopen, verkennen en leuk kunnen maken.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Candoizo - Frontend
 
