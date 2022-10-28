@@ -37,7 +37,6 @@ contributors:
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Arquitecto Senior en la Nube</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Jefe de Asociaciones</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -166,15 +165,6 @@ Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón
 </div>
 
 Nick Graves, alias Gravy, es un director creativo de todo lo relacionado con el marketing con casi una década de experiencia en B2B y B2C en su haber. Después de años de machacarse en la vida corporativa estereotipada, dejó que ese barco zarpara y dedicó su carrera al 100% al mundo del blockchain. Mientras crea asociaciones estratégicas, mide los KPI enfermos y formula estrategias de marketing, Gravy se dedica a ayudar a llevar a Aavegotchi al siguiente nivel y se enorgullece de llamarse miembro de la GotchiGang.
-
-### Moon - Jefe de Asociaciones
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
-</div>
-
-Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Gamer. Esposo de wagyuchicken.
 
 ### Shohan - Gotchiverse Frontend
 
