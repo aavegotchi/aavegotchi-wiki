@@ -37,8 +37,7 @@ contributors:
 <p><a href=#favabeans---senior-cloud-architect>Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris（アリス）- ゴッチバース・フロントエンド・リード</a></p>
 <p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon（ムーン）- パートナーシップの責任者</a></p>
-<p><a href=#shohan---gotchiverse-frontend>Shohan（ショハン）- ゴッチバース・フロントエンド</a></p>
+<p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
@@ -167,23 +166,14 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 
 ニック・グレイヴス（Nick Graves）、通称グレイヴィーは、B2BとB2Cで10年近い経験を持つ、マーケティング全般のクリエイティブディレクターです。 典型的な会社員生活を何年も送った後、彼はその船を出航させ、ブロックチェーンの世界に100％自分のキャリアを捧げました。 彼は戦略的パートナーシップを作成し、病気のKPIを測定し、戦略的マーケティング戦略を策定している間、グレイヴィーはAavegotchiを次のレベルに移動させるために専念し、ゴッチギャングのメンバーであることを誇りにしています。
 
-### Moon（ムーン）- パートナーシップの責任者
+### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon（ムーン）">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon（ムーン）</a></p>
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-ムーンはパートナーシップ（Paartnerships）の責任者です。 ギャラクシーブレイン。 Aavegotchiで最高のボット。 ゲーマー。 wagyuchickenの夫。
-
-### Shohan（ショハン）- ゴッチバース・フロントエンド
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.png" alt = "Shohan（ショハン）">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan（ショハン）</a></p>
-</div>
-
-私は、プロのゲーム開発者、5年以上の経験を持って、私はゲームプレイのプログラミング、ゲーム開発の様々な側面へのバックエンドプログラミングの仕事の経験を持っているショハンと申します。 Stillfront (Moonfrog Labs)のようなトップゲームスタジオで働いた経験があります。 コンピュータサイエンスの修士号を取得しています。 私は、主にフレンズが歩き回り、探索し、楽しめるレルムのフロントエンドゲームプレイに携わっています。
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Candoizo - Frontend
 
