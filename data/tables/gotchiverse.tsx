@@ -39,7 +39,9 @@ export const tables
 					[`U`, `<b>U</b>nhappy Face`],
 					[`O`, `<b>O</b>MG`],
 					[`B`, `<b>B</b>urning Fire`],
-					[`L`, `<b>L</b>ightning`]
+					[`L`, `<b>L</b>ightning`],
+					[`Spacebar`, `Shoot`],
+					[`Shift + Direction keys`, `Run`]
 				]
             }
         },
