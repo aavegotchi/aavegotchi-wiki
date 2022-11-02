@@ -33,6 +33,7 @@ Ga naar [Introductie](/introduction) voor een hoogstaand overzicht van het Aaveg
 
 * [Team](/team) -- Zie wie Aavegotchi bouwt
 * [Roadmap](/roadmap) -- De up-to-date roadmap van Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
 
 ## Litepapers
 
