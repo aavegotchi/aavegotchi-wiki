@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi October Update](https://blog.aavegotchi.com/aavegotchi-october-update/)
+* FAKE Gotchis Launch, AGIPs 43 & 44 passing, Polygon Discord AMA With gldnXross and moar in this October!
+<p></p>
+
 ## [Halloween Decorations! Gotchiverse Halloween Contest!](https://blog.aavegotchi.com/gotchiverse-halloween-contest-features-10k-ghst-in-prizes-up-for-grabs/)
 * 6 new Halloween-themed decorations have just hit the Crafting Table!
 * Take part in the Halloween-themed Gotchiverse parcel decorating contest!
