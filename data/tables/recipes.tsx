@@ -389,5 +389,20 @@ export const tables
 					["Star", "1", "40", "0", "15", "0", "Instant"]
                 ]
             }
-        }
+        },
+		{
+            tableName: "halloweenDecorations",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Paampkin Trio", "1", "600", "100", "250", "0", "Instant"],
+					["Roflkin", "1", "500", "0", "300", "50", "Instant"],
+					["Scareye Crow", "1", "700", "0", "500", "75", "Instant"],
+					["Gotchi Caandle", "1", "1000", "300", "1000", "0", "Instant"],
+					["Sus Baatterfly", "1", "3000", "0", "5000", "700", "Instant"],
+					["Skeledator", "1", "6000", "0", "25000", "2500", "Instant"]
+                ]
+            }
+        },
     ]
