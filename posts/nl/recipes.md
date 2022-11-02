@@ -40,6 +40,7 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 <li><a href=#purple-mosaic-tiles>Purple Mosaic Tiles</a></li>
 <li><a href=#pink-mosaic-tiles>Pink Mosaic Tiles</a></li>
 <li><a href=#green-mosaic-tiles>Green Mosaic Tiles</a></li>
+<li><a href=#halloween-decorations>Halloween Decorations</a></li>
 </ol>
 
 </div>
@@ -169,3 +170,9 @@ table_pinkTiles
 *From 14 - 28 September 2022 only*
 
 table_greenTiles
+
+## Halloween Decorations
+
+*Available for crafting up until 31 October 2022 only*
+
+table_halloweenDecorations
