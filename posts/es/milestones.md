@@ -7,6 +7,17 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [FAKE Gotchis Card Raffle coming up soon!](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/)
+* Gotchigang, get your Drop Tickets ready for the FAKE Gotchis Card Raffle!
+* 1,000 FAKE Gotchis Cards will also be airdropped to qualifying Gotchis
+* Burn your FAKE Gotchis Cards to mint your own FAKE!
+<p></p>
+
+## [Vote on AGIPs 45, 46, 47, and 48!](https://blog.aavegotchi.com/vote-agip-45-46-47-48/)
+* AGIPs 45, 46, 47, and 48 are up for voting!
+* Read about the details here!
+<p></p>
+
 ## [Aavegotchi October Update](https://blog.aavegotchi.com/aavegotchi-october-update/)
 * FAKE Gotchis Launch, AGIPs 43 & 44 passing, Polygon Discord AMA With gldnXross and moar in this October!
 <p></p>
