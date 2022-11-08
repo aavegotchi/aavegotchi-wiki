@@ -37,7 +37,6 @@ contributors:
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -45,7 +44,6 @@ contributors:
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -168,15 +166,6 @@ Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the hea
 
 Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
 
-### Moon - Head of Paartnerships
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "hard to edit since its already a proof-reading one, i’ll check this tomorrow">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">hard to edit since its already a proof-reading one, i’ll check this tomorrow</a></p>
-</div>
-
-Moon is the Head of Paartnerships. Galaxy brain. Best bot in aavegotchi. Gamer. Husband of wagyuchicken.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -241,22 +230,6 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 </div>
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
-
-### Webb - Aambassador Lead
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
-</div>
-
-Things Webb loves:
-* daos and defi
-* videogames, favorite game is dota, most nostalgic game is World of Warcraft
-* long walks on the beach
-* his waifu
-* rofls and pepes
-* making frens
-* loving my new bank and breaking up with my old one
 
 ## Origins
 

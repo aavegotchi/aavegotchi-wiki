@@ -32,7 +32,6 @@ contributors:
 <p><a href=#baadge>Baadge</a></p>
 <p><a href=#baard>Baard</a></p>
 <p><a href=#drop-tickets>Drop Tickets</a></p>
-<p><a href=#frens>FRENS</a></p>
 <p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
 <p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
 <p><a href=#haunts>Haunts</a></p>
@@ -120,14 +119,7 @@ Enjoying those lovely chiptunes in some of our mini-games? They are created by o
 ### Drop Tickets
 Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
 
-10,000 [FRENS](/glossary#frens) can be converted into one Drop Ticket.
-
 Raffle Tickets could also be converted into Drop Tickets.
-
-### FRENS
-Points that are rewarded to users who have staked GHST. FRENS is not a token. It is technically a balance within the Staking Contract. FRENS are not transferable and are meant to reward stakers for their contributions to the Aavegotchi project.
-
-Read more about FRENS in the [Staking page](/staking).
 
 ### Gotchi Pocket
 Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
@@ -143,8 +135,6 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 
 ### Raffle Tickets
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
-
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
@@ -278,7 +268,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 ### Staking
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with [GLTR](/gotchus-alchemica-exchange#gltr-token) that they can use to speed up the crafting and upgrading of their Installations in the Gotchiverse.
 
 ### Yield Farming
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.

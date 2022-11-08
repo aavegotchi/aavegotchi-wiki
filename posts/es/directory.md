@@ -53,8 +53,6 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [FAQ](/faq)
 
-* [FRENS Taask Force](/frens-taask-force)
-
 * [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)

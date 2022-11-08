@@ -33,6 +33,7 @@ Dirígete a [Introducción](/introduction) para obtener una visión general de a
 
 * [Equipo](/team) -- Ver quién está construyendo Aavegotchi
 * [Hoja de ruta](/roadmap) -- El mapa de ruta actualizado de Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
 
 ## Litepaper
 
