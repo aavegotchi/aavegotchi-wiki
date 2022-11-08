@@ -19,6 +19,7 @@ contributors:
 <li><a href=#aavegotchi-mission-9-content-contest>Aavegotchiミッション9のコンテンツコンテスト</a></li>
 <li><a href=#halloween-costume-contest-2021>ハロウィンコスチュームコンテスト2010年</a></li>
 <li><a href=#defi-rpg-wearables-meme-contest>DeF RPGウェアラブルのミームコンテスト</a></li>
+<li><a href=#mosaic-tiles-aart-contest>Mosaic Tiles Aart Contest</a></li>
 </ol>
 
 </div>
@@ -113,3 +114,14 @@ Aavegotchiのエージェントは、史上最高の1000を超えました！ �
 ### <span style="color:#cd7f32">3位：Occams_Schick</span>
 
 <img class="bodyImage" src="/contests/occams_schick.png" />
+
+## Mosaic Tiles Aart Contest
+
+### <span style="color:gold">1st place: Notorious BTC</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/theoliverspoon/status/1574701392484179970"></iframe>
+
+### <span style="color:silver">2nd place: Star</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/Star020593/status/1574443893122564097"></iframe>
+
+### <span style="color:#cd7f32">3rd place: Dunc Idaho</span> <iframe border=0 frameborder=0 width="560" height="600"
+ src="https://twitframe.com/show?url=https://twitter.com/Dunc__Idaho/status/1574706161970020357"></iframe>

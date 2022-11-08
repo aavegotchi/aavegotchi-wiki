@@ -7,6 +7,52 @@ contributors:
   - "chinyh"
 ---
 
+## [FAKE Gotchis Card Raffle coming up soon!](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/)
+* Gotchigang, get your Drop Tickets ready for the FAKE Gotchis Card Raffle!
+* 1,000 FAKE Gotchis Cards will also be airdropped to qualifying Gotchis
+* Burn your FAKE Gotchis Cards to mint your own FAKE!
+<p></p>
+
+## [Vote on AGIPs 45, 46, 47, and 48!](https://blog.aavegotchi.com/vote-agip-45-46-47-48/)
+* AGIPs 45, 46, 47, and 48 are up for voting!
+* Read about the details here!
+<p></p>
+
+## [Aavegotchi October Update](https://blog.aavegotchi.com/aavegotchi-october-update/)
+* FAKE Gotchis Launch, AGIPs 43 & 44 passing, Polygon Discord AMA With gldnXross and moar in this October!
+<p></p>
+
+## [Halloween Decorations! Gotchiverse Halloween Contest!](https://blog.aavegotchi.com/gotchiverse-halloween-contest-features-10k-ghst-in-prizes-up-for-grabs/)
+* 6 new Halloween-themed decorations have just hit the Crafting Table!
+* Take part in the Halloween-themed Gotchiverse parcel decorating contest!
+<p></p>
+
+## [Vote on AGIPs 43 and 44!](https://blog.aavegotchi.com/vote-agip-43-44-adding-dao-liquidity-to-ghst-alchemica-pairs-providing-the-dtf-with-parcels-and-alchemica-for-contributor-compensation/)
+* Two more AGIPs for gotchigang to vote on!
+<p></p>
+
+## [11 more Aavesome FAKE Gotchi Art revealed!](https://blog.aavegotchi.com/fake-gotchis-reveal-11-more-epic-crypto-artists/)
+* The third and final reveal of the FAKE Gotchi Summoning works are here!
+<p></p>
+
+## [Here are the winners of the Gotchiverse Mosaic Tiles Art Contest!](https://blog.aavegotchi.com/gotchiverse-mosaic-tiles-art-contest-winners-confirmed/)
+* We have so many ebic submissions for the contest!
+<p></p>
+
+## [5 more FAKE Gotchi Artwork!](https://blog.aavegotchi.com/exclusive-5-more-famous-crypto-artists-creating-fake-gotchis/)
+* More aavesome FAKE Gotchi artwork to feast your eyes on! 👀
+<p></p>
+
+## [Sneak peek at the first 4 FAKE Gotchis!](https://blog.aavegotchi.com/sneak-preview-first-5-exquisite-fake-gotchis-revealed/)
+* The first 4 FAKE Gotchi art designs are out now!
+<p></p>
+
+## [The Gotchi Renaissance is here!](https://blog.aavegotchi.com/epic-gotchiverse-art-release-to-deliver-three-amazing-new-features/)
+* Showcase and sell your art with NFT Displays
+* Jump around the Gotchiverse with Bounce Gates
+* Explore without a Gotchi in Observooor Mode
+<p></p>
+
 ## [Partnership with Router Protocol](https://blog.aavegotchi.com/aavegotchi-x-router-protocol-introducing-cross-chain-swaps/)
 * Aavegotchi announces their partnership with Router Protocol
 * This partnership enables cross-chain swaps for GHST once Aavegotchi V2 goes live!

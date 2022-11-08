@@ -86,6 +86,8 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [aavegotchi.xyz リーダーボード](https://www.aavegotchi.xyz/leaderboard/players) - Cryptoticker.ioギルドが制作したリーダーボード
 
+* [Orium Pet Operator and Automated Aavegotchi Lending](https://app.orium.network/) - Pet Operator and Automated Aavegotchi Lending created by Orium Guild
+
 ## Subgraphs
 
 * 公式 Aavegotchi サブグラフ: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)

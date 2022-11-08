@@ -33,6 +33,7 @@ Aavegotchiのゲームの概要については、「[はじめに](/introduction
 
 * [チーム](/team) -- 誰がAavegotchiを作っているのか見てみる
 * [ロードマップ](/roadmap) -- Aavegotchiの最新のロードマップです
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
 
 ## ライトペーパーズ
 

@@ -37,7 +37,6 @@ contributors:
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Arquitecto Senior en la Nube</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Jefe de Asociaciones</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -45,7 +44,6 @@ contributors:
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Orígenes</a></li>
 </ol>
 
@@ -168,15 +166,6 @@ Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón
 
 Nick Graves, alias Gravy, es un director creativo de todo lo relacionado con el marketing con casi una década de experiencia en B2B y B2C en su haber. Después de años de machacarse en la vida corporativa estereotipada, dejó que ese barco zarpara y dedicó su carrera al 100% al mundo del blockchain. Mientras crea asociaciones estratégicas, mide los KPI enfermos y formula estrategias de marketing, Gravy se dedica a ayudar a llevar a Aavegotchi al siguiente nivel y se enorgullece de llamarse miembro de la GotchiGang.
 
-### Moon - Jefe de Asociaciones
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
-</div>
-
-Moon es el jefe de Asociaciones. Cerebro Galáctico. Mejor bot en aavegotchi. Gamer. Esposo de wagyuchicken.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -241,22 +230,6 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 </div>
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
-
-### Webb - Aambassador Lead
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
-</div>
-
-Things Webb loves:
-* daos y defi
-* videojuegos, el juego favorito es dota, el juego más nostálgico es World of Warcraft
-* largos paseos en la playa
-* su waifu
-* rofls y pepes
-* hacer amigos
-* amando mi nuevo banco y rompiendo con el anterior
 
 ## Orígenes
 

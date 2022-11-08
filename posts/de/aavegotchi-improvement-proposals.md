@@ -60,6 +60,12 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#sunsetting-frens-immediately>Sunsetting FRENS Immediately</a></li>
 <li><a href=#update-gltr-emissions>Update GLTR Emissions</a></li>
 <li><a href=#setting-limits-on-the-number-of-borrowed-gotchis-allowed-per-wallet-address>Setting limits on the number of borrowed gotchis allowed per wallet address</a></li>
+<li><a href=#add-dao-liquidity-to-ghst-alchemica-pairs>Add DAO Liquidity to GHST-Alchemica Pairs</a></li>
+<li><a href=#mint-and-transfer-50-dao-parcels-and-4m-fud-eq--of-alchemica-to-the-dtf-for-contributor-compensation>Mint and Transfer 50 DAO Parcels and 4M FUD Eq. of Alchemica to the DTF for Contributor Compensation</a></li>
+<li><a href=#preventing-owners-from-channeling-gotchis-listed-for-lending>Preventing Owners From Channeling Gotchis Listed For Lending</a></li>
+<li><a href=#creating-new-wearable-sets>Creating New Wearable Sets</a></li>
+<li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
+<li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1745,6 +1751,222 @@ table_agip42
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x9b2559ed4cd5dd0c4c3c9b90b73e0e93c839aef64cd00df2d65cc8e97886ac0f)
 
 <hr />
+
+### Add DAO Liquidity to GHST-Alchemica Pairs
+**Aavegotchi Improvement Proposal #43**
+
+**Proposal Summary:**
+
+I propose that the Aavegotchi DAO add 50,000 GHST + matching alchemica liquidity to the GHST-Alchemica pairs. Further, I propose that we do not stake corresponding LP tokens for GLTR.
+
+The benefits of adding liquidity are multiple:
+
+* Allows for lower slippage trading which will attract more trading and investment
+
+* Legitimizes the Aavegotchi ecosystem, its farming, and the native tokens
+
+* Supports land investors and, more specifically, those actively farming their land
+
+* Allows the DAO to earn trading fees on the liquidity provided
+
+There are also some risks which should be considered:
+
+* Impermanent loss may decrease the net dollar value of DAO treasury funds
+
+* Asks a difficult question of whether or not to stake LP tokens for GLTR and compete directly against community stakers for rewards
+
+* Paying for liquidity is an expense in our ecosystem. In the long term, revenue must outweigh expenses for the Aavegotchi economy to thrive and assets to gain value. We should seriously consider our expenses vs revenues moving forward as we incentivize liquidity, hence the recent passed proposal to terminate FRENS which will both decrease expenses and allow NFT distributions to generate revenues
+
+There is currently only $732,000 TOTAL in liquidity among the four alchemica-GHST pairs. Anything above a 1500 GHST swap has a price impact >1% which is not acceptable for a GameFi blue chip looking to instill investor confidence and attract new, large builders. Let’s bolster liquidity now and develop a sustainable and predictable plan to continue to add DAO liquidity at an, ideally, expense neutral rate. We can partner with the incoming DAO Project Manager(s) and community bounty hunters to further define DAO revenues and expenses to formulate our liquidity plan.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-dao-liquidity-to-ghst-alchemica-pairs/4309)
+
+Option 1: Add 50k GHST + equal alchemica
+
+Option 2: Add 30k GHST + equal alchemica
+
+Option 3: Do not add GHST/alchemica to LPs
+
+**Voting Period:** 13 - 20 October 2022
+
+**Results:**
+
+table_agip43
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x57055266d44a9c8679807c917fb0518bfd3ea92e6f21e81b977ce9892c191b6a)
+
+<hr />
+
+### Mint and Transfer 50 DAO Parcels and 4M FUD Eq. of Alchemica to the DTF for Contributor Compensation
+**Aavegotchi Improvement Proposal #44**
+
+**Proposal Summary:**
+
+I propose that 50 DAO parcels from district 30 be minted and sent to the DTF multisig in addition to 4M FUD Equivalents worth of alchemica.
+
+This will allow us to leverage DAO assets other than GHST to compensate our contributors. We have a variety of assets as a protocol, some of which have considerable goodwill value such as parcels in the DAO district. We can leverage these assets to better compensate and acknowledge past, current, and prospective contributors. Parallel to this effort, a transparent, stepwise process towards earning a DAO parcel will be designed. Potential pros of using alchemica/minted NFT displays/parcels as compensation:
+
+* Gives the DAO more options in reimbursing contributors
+
+* Leverages assets outside of GHST
+
+* Develops and promotes a contributor/builder culture specifically inside the gotchiverse
+
+* May have potential cascade effect where contributors build and develop their earned parcels, keeping assets within the ecosystem
+
+* Fosters building and development in the DAO district which should hopefully be a spotlight of activity in the gotchiverse.
+
+An example of contributor compensation would be a DAO parcel with a LE NFT display and custom NFT – an incredibly meaningful and valuable token of appreciation for DAO contributions.
+
+The specific parcels will be defined in the core proposition if this signal proposition passes. Feedback and ideas on specific parcel allocation is appreciated and should be directed to the included DAO discourse thread above. If the DTF is absorbed by the new DAO structure, the parcels and alchemica can be sent to the same multisig holding the DTF budget funds.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/requesting-alchemica-and-30-dao-parcels-for-the-dtf-to-use-as-contributor-compensation/4401)
+
+Option 1: Yes. Transfer Parcels/alchemica
+
+Option 2: No. Don't use parcels/alch.
+
+**Voting Period:** 13 - 20 October 2022
+
+**Results:**
+
+table_agip44
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x1338064afddf6631e90e1a95d12117cf516e5de54e00eb557db5996845f75f47)
+
+<hr />
+
+### Preventing Owners From Channeling Gotchis Listed For Lending
+**Aavegotchi Improvement Proposal #45**
+
+**Proposal Summary:**
+
+The idea here is fairly simple. To prevent gotchi owners from channeling their gotchis while they are listed for rent on the aavegotchi site. The reason for this is that we saw at least a few instances of owners listing their gotchis for rent then immediately after channeling. What would happen was that an unexpecting player would check the rental market after the gotchi was rented but before it got channeled and would then be stuck renting a channeled gotchi. The owner would get the channeling alchemica as well as the rental fees from the borrower.
+
+This hasn’t been a widespread issue yet because not many people are maliciously doing it, it also needs to be timed well with someone checking the rental market at the wrong moment. But I don’t believe there is any benefit to allowing owners the ability to make use of this exploit.
+
+As per Dan on the thread, the implementation is ready so it won’t require anymore dev time, there just happened to be some minor pushback on this idea so the devs don’t want to implement it without a vote.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/preventing-gotchis-listed-for-rental-from-being-able-to-channel/4388)
+
+Option 1: Stop listed Gotchi from channeling
+
+Option 2: Do nothing
+
+**Voting Period:** 2 - 10 November 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfa99468d3de270ad12ae805651cae5b7a2a52ac3f1e0ff547308c6c7055ee040)
+
+<hr />
+
+### Creating New Wearable Sets
+**Aavegotchi Improvement Proposal #46**
+
+**Proposal Summary:**
+
+During the new wearables moratorium, the opportunities to fix existing sets and to introduce new sets involving ONLY current wearables were identified.
+
+The "broken" sets were successfully fixed via patch, and different members of the community put forth their suggestions for new wearable sets. Existing Pixelcraft guidelines for the composition and bonuses of each wearable set, mainly based on the rarity of the highest component, were applied.
+
+In the referenced forum link, polls were established for all members of the community to be able to express their support for a particular set.
+
+The spreadsheet with details for all proposed sets is available at: [https://docs.google.com/spreadsheets/d/174ea8dzcO3yiBOgCvAIdUuQkK5_AHG3FoZdMunAJZYY](https://docs.google.com/spreadsheets/d/174ea8dzcO3yiBOgCvAIdUuQkK5_AHG3FoZdMunAJZYY)
+
+The ideation Discord thread where the ideas for the sets were brainstormed can be referenced at: [https://discord.com/channels/732491344970383370/992288286271864832/1002569658634862602](https://discord.com/channels/732491344970383370/992288286271864832/1002569658634862602)
+
+It was decided by consensus that Pixelcraft would retain ultimate veto and decision power in the ultimate implementation of these sets. At large, this effort has been also a means to share with the broader Aavegotchi DAO public how the process has previously worked between WTF and Pixelcraft i.e. a volunteer-dependent process, that nonetheless can achieve great things for the ecosystem by harnessing the different talents and creativity of all of our frens.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/new-wearable-sets-existing-wearables-only/4421)
+
+Option 1: Yes, create new sets
+
+Option 2: No, don't do anything
+
+Option 3: Abstain
+
+**Voting Period:** 2 - 10 November 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x4955553b76b9bcaaa0bb0cec2928d0bed759cf957c17f02496452f8d1426c85c)
+
+<hr />
+
+### Enacting a Bonding Curve Emergency Plan
+**Aavegotchi Improvement Proposal #47**
+
+**Proposal Summary:**
+
+ There is a lot of uncertainty concerning the regulation of decentralized smart contracts (Tornado Cash) and stablecoins. Since GHST is closely tied to DAI's value, we need to monitor those developments very closely. If anything happens to DAI, our entire treasury (and GHST's stability) is at risk.
+
+In this proposal I want to define the potential cases of emergency and the actions the multisig currently managing the GHST Bonding Curve on Ethereum mainnet needs to take to mitigate risks. Again, as long as DAI works as intended, this proposal does not suggest messing with the Curve - that is a completely separate discussion.
+
+*Emergency Scenarios*
+
+1. DAI loses dollar peg: As long as USDC backing is intact, no action needed. Signers should however set alerts for $0.95 and $0.90 to be notified of a potential depeg so they're able to act immediately as the situation unrolls.
+2. MakerDAO shifts away from a dollar backing: Very long-term strategic consideration, will probably take 2-3 years to unfold. No immediate action needed, more relevant for the discussion surrounding a general Curve shutdown.
+3. This is the important one. MakerDAO contracts get blacklisted by Circle (USDC) due to regulatory reasons: Signers would have to act immediately to protect the value of GHST's backing. I propose immediately shutting down the Curve and swapping the DAI for USDC. This ensures that we lock in some of our treasury's value, it does however remove the main source of liquidity for GHST. To make sure GHST doesn't enter a free fall, $5M worth of USDC should immediately be paired with $5M worth of treasury GHST in our main Quickswap pool.
+
+Using the current numbers, this would leave us with ~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
+
+Keep in mind that this is a very unlikely emergency scenario. We should be prepared for everything though, getting caught with our pants down could wipe out a large sum of our treasury value and put GHST in a very vulnerable position.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/bonding-curve-emergency-plan/4397)
+
+Option 1: Yes, follow this Emergency Plan
+
+Option 2: No, ignore this Emergency Plan
+
+**Voting Period:** 2 - 10 November 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x73f93b7e65d0e45f5cce9e46b019d60f49a7a3d1b43bf9e3e12a718cccbe7769)
+
+<hr />
+
+### The Forge - Request for Funding and Development
+**Aavegotchi Improvement Proposal #48**
+
+**Proposal Summary:**
+
+Introducing the Forge:
+
+TL;DR
+
+* You can turn wearables into other wearables with the forge mechanic
+
+* Wearables are made of alloys + schematics (the recipe) + Frames
+
+* This allows many new wearable designs
+
+* This process can be deflationary, making room for new wearable sales and protecting current asset value
+
+* This 50,000 GHST will go to fund the development of the Forge, its mechanics, smart contracts, art, and educational materials
+
+* The goal is for the DAO to do as much of the work as possible to avoid delaying Pixelcraft’s other efforts
+
+* See the Project Overview and Google Sheet documents for extensive details
+
+* Know that this is all a work in progress and we would all benefit from broad DAO contributions
+
+*Budget Request and Purpose:*
+
+50k GHST to pay for development of smart contract work, economics team, project management, art bounties, dashboard bounties, and event/rewards for launch
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, fund the Project 50k GHST
+
+Option 2: No, don’t fund development
+
+**Voting Period:** 2 - 10 November 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x3f162f96d0bf396cb2cc3f9f39818cbaee7747441e0c50785b84aa243797b940)
 
 ### Name of Aavegotchi Marketplace
 **Snapshot Abstimmungen**

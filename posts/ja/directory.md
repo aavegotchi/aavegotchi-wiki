@@ -53,8 +53,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [FAQ（よくある質問）](/faq)
 
-* [フレンズ・タスク・フォース（FRENS Taask Force）](/frens-taask-force)
-
 * [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)

@@ -25,7 +25,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <div class="contentsBox">
 
-**Inhalte**
+**Inhalte** 
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
@@ -33,8 +33,6 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
-<li><a href=#aavegotchi-baazaar-on-mumbai-testnet>Aavegotchi Baazaar on Mumbai Testnet</a></li>
-<li><a href=#entering-raffle-4>Entering Raffle 4</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
@@ -42,7 +40,6 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
-<li><a href=#accessing-the-gotchiverse-on-mumbai-testnet>Accessing the Gotchiverse on Mumbai Testnet</a></li>
 <li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
 </ul>
 
@@ -88,25 +85,6 @@ Click [here](/matokens) for the article
 * Learn how to transfer funds through AscendEX to Polygon
 * Learn how to use Transak as a fiat-to-Polygon on-ramp
 * Learn how to stake maTokens into Aavegotchis
-
-<hr />
-
-### Aavegotchi Baazaar on Mumbai Testnet
-Click [here](/mumbai-testnet) for the article
-
-* Learn how to configure MetaMask to display Mumbai Testnet
-* Learn how to get tokens from the Mumbai Faucet
-* Learn how to get Mumbai GHST tokens
-
-<hr />
-
-### Entering Raffle 4 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWOyM5TIZ9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Learn how to use [GHST_GG Raffle Calculator](https://ghst.gg/raffle-calculator) to calculate your chances of winning
-* Learn how to stake GHST tokens on Polygon
-* Learn how to buy Raffle tickets with FRENS
-* Learn how to access the Aavegotchi Baazaar
-* Learn how to list your Raffle tickets at the Baazaar
 
 <hr />
 
@@ -174,15 +152,6 @@ Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-membe
 * Learn about the different types of Core Proposals
 * Learn about Vote Differential
 * Learn how to Vote
-
-<hr />
-
-### Accessing the Gotchiverse on Mumbai Testnet
-Click [here](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/) for the article
-
-* Learn about the required setup to try out the Gotchiverse
-* Learn about the control scheme in the Gotchiverse
-* Learn how to collect Gotchus Alchemica and how to craft an Aaltar Installation
 
 <hr />
 

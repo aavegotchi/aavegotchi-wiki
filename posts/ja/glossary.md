@@ -32,7 +32,6 @@ DeFiの世界を探求し始めたそこのあなた、インターネット上�
 <p><a href=#baadge>バッジ</a></p>
 <p><a href=#baard>Baard (ミュージシャン)</a></p>
 <p><a href=#drop-tickets>ドロップチケット</a></p>
-<p><a href=#frens>フレンズ（FRENS）</a></p>
 <p><a href=#gotchi-pocket>ゴッチポケット</a></p>
 <p><a href=#gotchus-alchemica-exchange>ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）</a></p>
 <p><a href=#haunts>ハウント</a></p>
@@ -120,19 +119,12 @@ Aavegotchiとは、ERC-721標準に裏付けされたイーサリアムのブロ
 ### ドロップチケット
 ドロップチケットはERC-1155 NFTで、Aavegotchi[バザール](/baazaar)で完全に取引可能です。 ドロップチケット1枚につき、Aavegotchi[ポータル](/portals)や[レルム区画](/gotchiverse)が当たるNFTラッフルに1回参加することができます。
 
-10,000[FRENS](/glossary#frens)を1枚のドロップチケットに変換することができます。
-
-ラッフルチケットをドロップチケットに交換することもできます。
-
-### フレンズ（FRENS）
-GHSTをステークしたユーザーに付与されるポイント。 FRENSはトークンではありません。 技術的にはステーキング契約内の残高です。 FRENSは譲渡が不可能で、Aavegotchiプロジェクトに貢献したステークホルダーに対して報酬を与えることを目的としています。
-
-FRENSについて詳しくは[ステーキングページ](/staking)をご覧ください。
+Raffle Tickets could also be converted into Drop Tickets.
 
 ### ゴッチポケット
-Aavegotchiは各々ゴッチポケットを持っています。 これは、装備したウェアラブルや[レアリティファーミング](/rarity-farming)で貰ったGHSTトークン、[バッジ](/baadge)などを入れておくインベントリーのようなものです。
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
 
-正確には、ゴッチポケットは「エスクローアドレス」です。
+Technically, a Gotchi Pocket is an escrow address.
 
 ### ゴッチュスアルケミカ取引所（GAX - Gotchus Alchemica Exchange）
 
@@ -143,8 +135,6 @@ The native Decentralized Exchange (DEX) of Aavegotchi. It will support the tradi
 
 ### ラッフルチケット
 Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
-
-Raffle tickets can be purchased using [FRENS](/glossary#frens) that are earned through [Staking](/staking).
 
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
@@ -278,7 +268,7 @@ In order for Smart Contracts to execute, certain conditions need to be met. Info
 Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 ### ステーキング
-Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with FRENS (points) that they can use to buy tickets and win prizes in periodic raffles.
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with [GLTR](/gotchus-alchemica-exchange#gltr-token) that they can use to speed up the crafting and upgrading of their Installations in the Gotchiverse.
 
 ### Yield Farming
 Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.

@@ -37,15 +37,13 @@ contributors:
 <p><a href=#favabeans---senior-cloud-architect>Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris（アリス）- ゴッチバース・フロントエンド・リード</a></p>
 <p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon（ムーン）- パートナーシップの責任者</a></p>
-<p><a href=#shohan---gotchiverse-frontend>Shohan（ショハン）- ゴッチバース・フロントエンド</a></p>
+<p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Origins - 起源</a></li>
 </ol>
 
@@ -168,23 +166,14 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 
 ニック・グレイヴス（Nick Graves）、通称グレイヴィーは、B2BとB2Cで10年近い経験を持つ、マーケティング全般のクリエイティブディレクターです。 典型的な会社員生活を何年も送った後、彼はその船を出航させ、ブロックチェーンの世界に100％自分のキャリアを捧げました。 彼は戦略的パートナーシップを作成し、病気のKPIを測定し、戦略的マーケティング戦略を策定している間、グレイヴィーはAavegotchiを次のレベルに移動させるために専念し、ゴッチギャングのメンバーであることを誇りにしています。
 
-### Moon（ムーン）- パートナーシップの責任者
+### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon（ムーン）">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon（ムーン）</a></p>
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-ムーンはパートナーシップ（Paartnerships）の責任者です。 ギャラクシーブレイン。 Aavegotchiで最高のボット。 ゲーマー。 wagyuchickenの夫。
-
-### Shohan（ショハン）- ゴッチバース・フロントエンド
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/shohan.png" alt = "Shohan（ショハン）">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan（ショハン）</a></p>
-</div>
-
-私は、プロのゲーム開発者、5年以上の経験を持って、私はゲームプレイのプログラミング、ゲーム開発の様々な側面へのバックエンドプログラミングの仕事の経験を持っているショハンと申します。 Stillfront (Moonfrog Labs)のようなトップゲームスタジオで働いた経験があります。 コンピュータサイエンスの修士号を取得しています。 私は、主にフレンズが歩き回り、探索し、楽しめるレルムのフロントエンドゲームプレイに携わっています。
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Candoizo - Frontend
 
@@ -241,22 +230,6 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 </div>
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
-
-### Webb - Aambassador Lead
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
-</div>
-
-Things Webb loves:
-* DAOやDeFi
-* 好きなゲームはdota、一番懐かしいゲームはワールド・オヴ・ウォークラフト。
-* ビーチでの長い散歩
-* ワイフ
-* roflsとpepe
-* 友達を作ること
-* 新しい銀行を愛し、古い銀行と別れること。
 
 ## Origins - 原点
 

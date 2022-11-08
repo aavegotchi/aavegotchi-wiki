@@ -37,7 +37,6 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
-<p><a href=#moon---head-of-paartnerships>Moon - Head of Paartnerships</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -45,7 +44,6 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 <p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
-<p><a href=#webb---aambassador-lead>Webb - Aambassador Lead</a></p>
 <li><a href=#origins>Team Gốc</a></li>
 </ol>
 
@@ -168,15 +166,6 @@ Aris aka PixellLab, fullstack dev &  kiến trúc sư của Gotchiverse. Ngườ
 
 Nick Graves, aka Gravy, là giám đốc sáng tạo về marketing với kinh nghiệm gần một thập kỷ làm việc ở ngành B2B và B2C. Sau nhiều năm chinh chiến trong các tập đoàn theo khuôn mẫu, anh đã giống buồm và cống hiến 100% sự nghiệp của mình cho thế giới blockchain. Dù anh đang gây dựng các mối quan hệ chiến lược, cân đo KPI gắt gao và tạo nên các chiến lượng marketing đầy kỹ xảo, Gravy đang cống hiến để giúp mang Aavegotchi đến một tầm cao mới và tự hào gọi mình là thành viên của GotchiGang.
 
-### Moon - Head of Paartnerships
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/moon.png" alt = "Moon">
-<p class="leftImageText"><a href="https://twitter.com/MoonGotchi" target="_blank">Moon</a></p>
-</div>
-
-Moon là Head of Paartnerships. Não Vũ Trụ. Bot tốt nhất trong aavegotchi. Game thủ. Chồng của wagyuchicken.
-
 ### Shohan - Gotchiverse Frontend
 
 <div class="leftImageContainer">
@@ -184,7 +173,7 @@ Moon là Head of Paartnerships. Não Vũ Trụ. Bot tốt nhất trong aavegotch
 <p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
 </div>
 
-Mình là Shohan, nhà phát triển game chuyên nghiệp với hơn 5 năm kinh nghiệm. Mình đã có kinh nghiệm trong việc lập trình lối chơi, lập trình backend cho nhiều khía cạnh của công việc phát triển game. Mình đã làm việc cho nhiều hãng game hàng đầu như Stillfront (Moonfrog Labs). Mình có bằng Thạc Sĩ Khoa Học Máy Tính. Mình đang lập trình frontend cho lối chơi của REALM, nơi mà cộng đồng có thể lượn vài vòng để khám phá và tìm niềm vui.
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
 ### Candoizo - Frontend
 
@@ -241,22 +230,6 @@ Zeke works closely with the game director and frontend team to create Aavegotchi
 </div>
 
 Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
-
-### Webb - Aambassador Lead
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/webb.png" alt = "Webb">
-<p class="leftImageText"><a href="https://twitter.com/Webb_Nft" target="_blank">Webb</a></p>
-</div>
-
-Things Webb loves:
-* daos và defi
-* videogames, thích nhất là dota, hoài niệm nhất là World of Warcraft
-* đi bộ thật lâu trên bãi biển
-* waifu
-* ếch this ếch that
-* kết bạn
-* yêu ngân hàng mới và bái bai ngân hàng cũ
 
 ## Team Gốc
 

@@ -32,13 +32,15 @@ contributors:
 <li><a href=#grass>Grass</a></li>
 <li><a href=#rofl-rug>ROFL Rug</a></li>
 <li><a href=#graand-fountain>Graand Fountain</a></li>
-<li><a href=#nft-display-a>NFT Display A</a></li>
+<li><a href=#nft-display>NFT Display</a></li>
+<li><a href=#le-golden-nft-display>LE Golden NFT Display</a></li>
 <li><a href=#blue-mosaic-tiles>Blue Mosaic Tiles</a></li>
 <li><a href=#dark-magenta-mosaic-tiles>Dark Magenta Mosaic Tiles</a></li>
 <li><a href=#yellow-mosaic-tiles>Yellow Mosaic Tiles</a></li>
 <li><a href=#purple-mosaic-tiles>Purple Mosaic Tiles</a></li>
 <li><a href=#pink-mosaic-tiles>Pink Mosaic Tiles</a></li>
 <li><a href=#green-mosaic-tiles>Green Mosaic Tiles</a></li>
+<li><a href=#halloween-decorations>Halloween Decorations</a></li>
 </ol>
 
 </div>
@@ -125,9 +127,13 @@ table_roflRug
 
 table_graandFountain
 
-## NFT Display A
+## NFT Display
 
-table_nftDisplayA
+table_nftDisplay
+
+## LE Golden NFT Display
+
+table_goldenNFTDisplay
 
 ## Blue Mosaic Tiles
 
@@ -164,3 +170,9 @@ table_pinkTiles
 *From 14 - 28 September 2022 only*
 
 table_greenTiles
+
+## Halloween Decorations
+
+*Available for crafting up until 31 October 2022 only*
+
+table_halloweenDecorations

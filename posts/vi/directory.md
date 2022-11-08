@@ -53,8 +53,6 @@ contributors:
 
 * [FAQ](/faq)
 
-* [FRENS Taask Force](/frens-taask-force)
-
 * [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
