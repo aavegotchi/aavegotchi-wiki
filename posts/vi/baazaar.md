@@ -70,9 +70,11 @@ Có rất nhiều sản phẩm được bán trên Baazaar:
 * Portals
 * Land Trong Gotchiverse
 * Các Công Trình
-* Wearables
-* Vật phẩm tiêu hao
+* Tiles
+* Equipment
 * Vé Raffle
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 Baazaar có các mục Sắp xếp (theo giá), Lọc (độ hiếm), & Tìm kiếm (theo tên) để giúp người mua thu hẹp lựa chọn của mình.
 
