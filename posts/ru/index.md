@@ -34,6 +34,8 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Команда](/team) — кто стоит за Аавеготчи и занимается развитием проекта.
 * [Дорожная карта](/roadmap) — узнайте, как будет двигаться развитие игры, посмотрев дорожную карту.
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Лайтпейпер
 
