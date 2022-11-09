@@ -34,6 +34,8 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Team](/team) -- See who's building Aavegotchi
 * [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Litepapers
 
