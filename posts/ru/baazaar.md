@@ -70,9 +70,11 @@ The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
 * Порталы
 * Gotchiverse Land
 * Installations
-* Элементы экипировки
-* Расходники.
+* Tiles
+* Equipment
 * Лотерейные билеты.
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 Все товары можно сортировать, что облегчает выбор.
 
