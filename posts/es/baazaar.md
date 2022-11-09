@@ -70,9 +70,11 @@ Hay una variedad de productos listados en el Baazaar:
 * Portales
 * Parcelas del Gotchiverso
 * Instalaciones
-* Equipables
-* Consumibles
+* Tiles
+* Equipment
 * Billetes de Rifa
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 El Baazaar viene equipado con Ordenar (precio), Filtro (rareza), & Buscar (nombre) funciones para ayudar a los compradores a reducir sus opciones.
 
