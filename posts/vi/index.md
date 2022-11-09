@@ -34,6 +34,8 @@ Hãy đến ngay phần [Giới thiệu](/introduction) để xem qua một bài
 * [Team](/team) -- Xem những ai đang xây dựng Aavegotchi
 * [Roadmap](/roadmap) -- Roadmap vừa được cập nhật của Aavegotchi
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Litepaper
 
