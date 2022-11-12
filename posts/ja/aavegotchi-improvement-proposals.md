@@ -66,6 +66,7 @@ contributors:
 <li><a href=#creating-new-wearable-sets>Creating New Wearable Sets</a></li>
 <li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
 <li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
+<li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1857,6 +1858,8 @@ Option 2: Do nothing
 
 **結果:**
 
+table_agip45
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0xfa99468d3de270ad12ae805651cae5b7a2a52ac3f1e0ff547308c6c7055ee040)
 
 <hr />
@@ -1890,6 +1893,8 @@ Option 3: Abstain
 
 **結果:**
 
+table_agip46
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x4955553b76b9bcaaa0bb0cec2928d0bed759cf957c17f02496452f8d1426c85c)
 
 <hr />
@@ -1922,6 +1927,8 @@ Option 2: No, ignore this Emergency Plan
 **Voting Period:** 2 - 10 November 2022
 
 **結果:**
+
+table_agip47
 
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x73f93b7e65d0e45f5cce9e46b019d60f49a7a3d1b43bf9e3e12a718cccbe7769)
 
@@ -1966,7 +1973,36 @@ Option 2: No, don’t fund development
 
 **結果:**
 
+table_agip48
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x3f162f96d0bf396cb2cc3f9f39818cbaee7747441e0c50785b84aa243797b940)
+
+<hr />
+
+### Adjust Aaltar Spillover Rates
+**Aavegotchi Improvement Proposal #49**
+
+**提案の要約**
+
+There's been a lot of debate in the DAO this week around alchemica inflation. It's clear that our economy cannot handle the amount of tokens being currently issued. Therefore, we have come up with a proposal to increase spillover rate in lower level aaltars to help reduce the amount of alchemica being issued and encourage frens to upgrade their aaltars. We believe this will stabilize the economy until more alchemica sinks are introduced in the eagerly anticipated combat release.
+
+The table in the Discourse thread shows the Daily FUD inflation rate caused by chanelling, broken down by aaltar level. You can see the current inflation levels and spillover rates, our new proposed spillover rates and the reduction in inflation this will cause.
+
+We believe these measures are necessary given current economic conditions but we are always free as a DAO to change them at a later date in light of new information or more alchemica sinks being introduced.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-alchemica-economic-plan/4490)
+
+Option 1: Change to Proposed Aaltar Rates
+
+Option 2: Do Nothing
+
+**Voting Period:** 11 - 19 November 2022
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
+
+<hr />
 
 ### Name of Aavegotchi Marketplace
 **スナップショット投票**
