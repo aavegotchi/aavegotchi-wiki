@@ -17,77 +17,59 @@ Elke Aavegotchi wordt aangedreven door Spirit Force. Bij het openen van een [por
 
 Dus wat is Spirit Force?
 
-Spirit Force zijn interest genererende tokens die zijn ingebed in je Aavegotch! Dit maakt je Aavegotchi steeds waardevoller na verloop van tijd!
+Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded within your Aavegotchi! Dit maakt je Aavegotchi steeds waardevoller na verloop van tijd!
 
-In Aavegotchi, de termen "Spirit Force", "Collateral", "aTokens", "maTokens" en "amTokens" betekenen hetzelfde ding. Verwarrend? Bekijk deze [geschiedenispagina](/spirit-force-history) voor meer informatie.
-
-Deze pagina geeft u nuttige informatie over wat de beschikbare tokens zijn en hoe u ze ontvangt.
-
-Houd er rekening mee dat je uiteindelijk **maTokens/amTokens** nodig hebt om je Gotchis op Polygon op te roepen. Er zijn verschillende manieren om tokens te krijgen zonder aTokens te hoeven doorlopen. Maar ter wille van de representativiteit leggen we uit hoe we hier aTokens kunnen krijgen.
+*In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.*
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#about>Over</a></li>
-<li><a href=#stablecoins>Stablecoins</a></li>
-<li><a href=#cryptocurrencies>Cryptocurrencies</a></li>
-<li><a href=#getting-atokens>Verkrijg aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converteren van aTokens naar maTokens</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>Verschillen tussen maTokens en amTokens</a></li>
+<li><a href=#supported-spirit-force>Supported Spirit Force</a></li>
+<li><a href=#getting-atokens>Getting aTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 <li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
 
-## Over
+## Supported Spirit Force
 
-Terwijl het onderliggende activum wordt geleend aan leners wint aTokens rente in realtime in je portemonnee! Serieus, u kunt uw saldo elke minuut zien groeien.
+table_supportedCollaterals
 
-aTokens kunnen worden geclassificeerd in een van de twee categorieën: (1) cryptocurrencies, of (2) stablecoins. Cryptocurrencies zijn digitale of virtuele valuta die worden beveiligd door cryptografie. Veel cryptovaluta's zijn gedecentraliseerde netwerken gebaseerd op blockchain-technologie — een gedistribueerd grootboek dat wordt afgedwongen door een verschillend netwerk van computers. Stablecoins zijn een klasse cryptovaluta's die probeert prijsstabiliteit te bieden door te worden gekoppeld aan een externe referentie zoals de US Dollar (USD). Het onderliggende mechanisme van peggen verschilt van stablecoins, met elk een eigen risicoprofiel.
+## Getting aTokens
 
-De volgende [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies en stablecoins) zijn beschikbaar op het Aave Protocol. De *Ondersteund door Aavegotchi* kolom geeft aan of een bepaalde aToken beschikbaar zal zijn voor Aavegotchi gameplay. Lijst met ondersteunde aTokens is niet voltooid; er zullen twitter stemmen/DAO stemmen zijn om meer aTokens aan Aavegotchi gameplay toe te voegen op basis van de vraag van de speler.
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-## Stablecoins
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-tabel_stablecoins
-
-## Cryptocurrencies
-
-table_cryptocurrencies
-
-## Verkrijg aTokens
-
-*De volgende stappen worden genomen van de [Zero to Held Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) van Aave Medium. Voor het gemak van de lezer is het hier gerepliceerd.*
-
-1). Ga naar het <a href = "https://app.aave.com/">Aave Protocol</a> om te beginnen!
-
-2). Hier hebt u enkele opties om uw crypto-wallet te koppelen, afhankelijk van het type portemonnee dat u hebt:
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Voordat u het Aave Protocol kunt gebruiken, wilt u crypto activa hebben. De lijst met beschikbare crypto-activa wordt weergegeven in de <a href=#stablecoins>Stablecoins</a> en de <a href=#cryptocurrencies>Cryptocurrencies</a> secties hierboven.
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-Als u geen crypto bezit, maar u wilt meedoen aan het plezier, moet u uw fiat valuta (normaal geld, zoals dollars, euro's, enz.) omwisselen in een cryptografisch goed (zoals een van de hierboven).
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-Gelukkig voor u, Aave introduceerde onlangs een fiat voor crypto onramp waar u crypto activa rechtstreeks kunt kopen in de Aave Protocol applicatie! Nu kun je Transak of Ramp Instant gebruiken om direct de activa van je keuze te kopen met een creditcard of debitkaart of bankoverschrijving in slechts een paar minuten (zie hieronder).
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Zodra u uw portemonnee hebt aangesloten op het platform, kunt u een asset storten in het Aave Protocol. Wanneer u klikt op "storting", toont de interface wat u beschikbaar hebt in uw portemonnee om te storten. Je selecteert vervolgens het activum dat je wilt storten, kies hoeveel je wilt storten, en daarna voila！! *Opmerking: er zal een "goedkeuring" transactie zijn voordat de feitelijke stortingstransactie plaatsvindt. Dit is om toestemming te verlenen aan het depositcontract om het specifieke activum dat u aan het storten bent te gebruiken.*
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
 
-Zodra uw stortingstransactie doorgaat, profiteert u van de stortingsrente. De aToken versie van het bestand kan nu in je portemonnee worden gezien.
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Converteren van aTokens naar maTokens
+## Converting aTokens into maTokens
 
-Heb je je aTokens? Goed!
+Got your aTokens? Good!
 
-Laten we naar de [maTokens](/matokens) pagina gaan voor stap 2!
+Let's head over to the [maTokens](/matokens) page for Step 2!
 
-## Verschillen tussen maTokens en amTokens
+## Differences between maTokens and amTokens
 
 Zowel de maTokens als amTokens genereren interest. Echter, *de manier* waarop ze rente opwekken verschilt:
 
