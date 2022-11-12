@@ -65,6 +65,7 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#creating-new-wearable-sets>Creating New Wearable Sets</a></li>
 <li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
 <li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
+<li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -1989,6 +1990,31 @@ Option 2: No, don’t fund development
 table_agip48
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x3f162f96d0bf396cb2cc3f9f39818cbaee7747441e0c50785b84aa243797b940)
+
+<hr>
+
+### Adjust Aaltar Spillover Rates
+**Aavegotchi Improvement Proposal #49**
+
+**Proposal Summary:**
+
+There's been a lot of debate in the DAO this week around alchemica inflation. It's clear that our economy cannot handle the amount of tokens being currently issued. Therefore, we have come up with a proposal to increase spillover rate in lower level aaltars to help reduce the amount of alchemica being issued and encourage frens to upgrade their aaltars. We believe this will stabilize the economy until more alchemica sinks are introduced in the eagerly anticipated combat release.
+
+The table in the Discourse thread shows the Daily FUD inflation rate caused by chanelling, broken down by aaltar level. You can see the current inflation levels and spillover rates, our new proposed spillover rates and the reduction in inflation this will cause.
+
+We believe these measures are necessary given current economic conditions but we are always free as a DAO to change them at a later date in light of new information or more alchemica sinks being introduced.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-alchemica-economic-plan/4490)
+
+Option 1: Change to Proposed Aaltar Rates
+
+Option 2: Do Nothing
+
+**Voting Period:** 11 - 19 November 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
 
 <hr>
 
