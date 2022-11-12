@@ -570,6 +570,55 @@ export const tables
         },
 		
 		{
+            tableName: "agip45",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Stop listed Gotchi from channeling", "11,000,000 GHST (96.02%)"],
+					["Do nothing", "467,000 GHST (3.98%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip46",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, create new sets", "10,000,000 GHST (85.52%)"],
+					["No, don't do anything", "1,300,000 GHST (10.58%)"],
+					["Abstain", "472,000 GHST (3.9%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip47",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, follow this Emergency Plan", "12,000,000 GHST (93.88%)"],
+					["No, ignore this Emergency Plan", "766,000 GHST (6.12%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip48",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund the Project 50k GHST", "11,000,000 GHST (92.65%)"],
+					["No, don’t fund development", "905,000 GHST (7.35%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

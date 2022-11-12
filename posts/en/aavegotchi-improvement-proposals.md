@@ -1871,6 +1871,8 @@ Option 2: Do nothing
 
 **Results:**
 
+table_agip45
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfa99468d3de270ad12ae805651cae5b7a2a52ac3f1e0ff547308c6c7055ee040)
 
 <hr>
@@ -1904,6 +1906,8 @@ Option 3: Abstain
 
 **Results:**
 
+table_agip46
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x4955553b76b9bcaaa0bb0cec2928d0bed759cf957c17f02496452f8d1426c85c)
 
 <hr>
@@ -1936,6 +1940,8 @@ Option 2: No, ignore this Emergency Plan
 **Voting Period:** 2 - 10 November 2022
 
 **Results:**
+
+table_agip47
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x73f93b7e65d0e45f5cce9e46b019d60f49a7a3d1b43bf9e3e12a718cccbe7769)
 
@@ -1980,7 +1986,11 @@ Option 2: No, don’t fund development
 
 **Results:**
 
+table_agip48
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x3f162f96d0bf396cb2cc3f9f39818cbaee7747441e0c50785b84aa243797b940)
+
+<hr>
 
 ### Name of Aavegotchi Marketplace
 **Snapshot Voting**
