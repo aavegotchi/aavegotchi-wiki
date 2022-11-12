@@ -17,47 +17,29 @@ contributors:
 
 Так что собой представляет Духовная сила?
 
-Spirit Force are interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
+Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded within your Aavegotchi! This makes your Aavegotchi increasingly valuable over time!
 
-In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.
-
-This page will provide you with some helpful information on what are the available aTokens and how do you get them.
-
-Do note that you eventually **need maTokens/amTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+*In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.*
 
 <div class="contentsBox">
 
 **Содержание**
 
 <ol>
-<li><a href=#about>Об аТокене.</a></li>
-<li><a href=#stablecoins>Стейблкоины.</a></li>
-<li><a href=#cryptocurrencies>Криптовалюты.</a></li>
-<li><a href=#getting-atokens>Получение аТокенов</a></li>
-<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены.</a></li>
+<li><a href=#supported-spirit-force>Supported Spirit Force</a></li>
+<li><a href=#getting-atokens>Getting aTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 <li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
 
-## Про аТокен
+## Supported Spirit Force
 
-While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
+table_supportedCollaterals
 
-aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
-
-The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
-
-## Стейблкоины
-
-table_stablecoins
-
-## Криптовалюты
-
-table_cryptocurrencies
-
-## Получение аТокенов
+## Getting aTokens
 
 *The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
 
@@ -81,7 +63,7 @@ Lucky for you, Aave recently introduced a fiat to crypto onramp where you can bu
 
 As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## Конвертация аТокенов в маТокены
+## Converting aTokens into maTokens
 
 Got your aTokens? Good!
 
