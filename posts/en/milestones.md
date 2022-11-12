@@ -6,6 +6,10 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Vote on AGIP 49 now!](https://blog.aavegotchi.com/vote-agip-49-adjust-aaltar-spillover-rates/)
+* Gotchigang, it's time to vote on the Aaltar Spillover Rates!
+<p></p>
+
 ## [FAKE Gotchis Card Raffle coming up soon!](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/)
 * Gotchigang, get your Drop Tickets ready for the FAKE Gotchis Card Raffle!
 * 1,000 FAKE Gotchis Cards will also be airdropped to qualifying Gotchis
