@@ -30,7 +30,8 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 <li><a href=#land-raffles>Xổ Số Land</a></li>
 <p><a href=#raffle-1>Raffle 1</a></p>
 <p><a href=#raffle-2>Raffle 2</a></p>
-<li><a href=#chart>Biểu đồ</a></li>
+<li><a href=#fake-gotchis-card-raffle>FAKE Gotchis Card Raffle</a></li>
+<li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
@@ -68,8 +69,11 @@ Tổng số giải thưởng của một loại trang phục / Tổng số vé t
 ### Raffle 2
 [10 - 13 December 2021](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957) table_landRaffle2
 
-## Biểu đồ
+## FAKE Gotchis Card Raffle
+[9 - 12 November 2022](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/) table_fakeGotchisCardRaffle
 
-Tỷ lệ (phần trăm) để giành được trang phục bằng 1 chiếc vé trong quá khứ là bao nhiêu? Hãy xem qua biểu đồ dưới đây.
+## Chart
+
+What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
