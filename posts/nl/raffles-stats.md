@@ -30,7 +30,8 @@ Totaal aantal prijzen in een bepaalde categorie / Totaal aantal Tickets ingedien
 <li><a href=#land-raffles>Land Lotterijen</a></li>
 <p><a href=#raffle-1>Lotterij 1</a></p>
 <p><a href=#raffle-2>Lotterij 2</a></p>
-<li><a href=#chart>Grafiek</a></li>
+<li><a href=#fake-gotchis-card-raffle>FAKE Gotchis Card Raffle</a></li>
+<li><a href=#chart>Chart</a></li>
 </ol>
 
 </div>
@@ -68,8 +69,11 @@ Totaal aantal prijzen in een bepaalde categorie / Totaal aantal Tickets ingedien
 ### Lotterij 2
 [10 - 13 December 2021](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957) table_landRaffle2
 
-## Grafiek
+## FAKE Gotchis Card Raffle
+[9 - 12 November 2022](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/) table_fakeGotchisCardRaffle
 
-Wat zijn je kansen (in procent) om een wearable te winnen met 1 ticket in eerdere wearable raffles? Bekijk de grafiek hieronder.
+## Chart
+
+What are your chances (in percentage) to win a wearable using 1 ticket in past wearable raffles? Check out the chart below.
 
 <img src="/raffles-stats/raffle-stats-chart.png" />
