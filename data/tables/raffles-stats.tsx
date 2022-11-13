@@ -140,4 +140,15 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "fakeGotchisCardRaffle",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
+                data: [
+                    ["Drop Ticket", "1500", "47633", "0.03149077"]
+                ]
+            }
+        },
     ]

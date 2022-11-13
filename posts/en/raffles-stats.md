@@ -29,6 +29,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 <li><a href=#land-raffles>Land Raffles</a></li>
 <p><a href=#raffle-1>Raffle 1</a></p>
 <p><a href=#raffle-2>Raffle 2</a></p>
+<li><a href=#fake-gotchis-card-raffle>FAKE Gotchis Card Raffle</a></li>
 <li><a href=#chart>Chart</a></li>
 </ol>
 
@@ -75,6 +76,10 @@ table_landRaffle1
 ### Raffle 2
 [10 - 13 December 2021](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
 table_landRaffle2
+
+## FAKE Gotchis Card Raffle
+[9 - 12 November 2022](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/)
+table_fakeGotchisCardRaffle
 
 ## Chart
 
