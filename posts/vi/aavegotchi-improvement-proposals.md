@@ -2000,6 +2000,8 @@ Option 2: Do Nothing
 
 **Kết quả:**
 
+table_agip49
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
 
 <hr />
