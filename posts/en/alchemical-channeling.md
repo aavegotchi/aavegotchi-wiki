@@ -47,7 +47,7 @@ Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 
 
 The final amount is then divided into two portions – the amount the Gotchi (or its owner) receives directly, and the amount that spills nearby.
 
-Higher level Alchemical Aaltars reduce the [spillover rate](/glossary#spillover-rate) by 5% per level.
+Higher level Alchemical Aaltars reduce the [spillover rate](/glossary#spillover-rate) by 10% per level.
 
 table_aaltarAndSpilloverRate
 
