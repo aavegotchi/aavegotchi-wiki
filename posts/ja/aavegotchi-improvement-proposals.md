@@ -2000,6 +2000,8 @@ Option 2: Do Nothing
 
 **結果:**
 
+table_agip49
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
 
 <hr />
