@@ -619,6 +619,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip49",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Change to Proposed Aaltar Rates", "13,000,000 GHST (75.49%)"],
+					["Do nothing", "4,100,000 GHST (24.51%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
