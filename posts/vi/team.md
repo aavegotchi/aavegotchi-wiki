@@ -155,7 +155,7 @@ Pete Clark, hay còn gọi là favabeans hoặc haussenfeffer, đã dành gần 
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  kiến trúc sư của Gotchiverse. Người du hành từ sâu trong trái tim trái tim nhưng hiện đang sống ở Romania, giữa Transilvania (boo). Đã tham gia công nghệ blockchain với Aavegotchi vào đầu năm 2021 trước Hount 1, nhà phát triển FE đầu tiên được Pixelcraft Studios tuyển dụng. Tôi đã bắt đầu dự án gotchiverse từ thuở sơ khai và tôi biết những điều trong và ngoài dự án như bàn tay của tôi, hàng ngày làm việc trên tất cả các khía cạnh của realm. Hiện đang quản lý đội phát triển realm.
+Aris aka PixellLab, fullstack dev &  kiến trúc sư của Gotchiverse. Người du hành từ sâu trong trái tim trái tim nhưng hiện đang sống ở Romania, giữa Transilvania (boo). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Tôi đã bắt đầu dự án gotchiverse từ thuở sơ khai và tôi biết những điều trong và ngoài dự án như bàn tay của tôi, hàng ngày làm việc trên tất cả các khía cạnh của realm. Hiện đang quản lý đội phát triển realm.
 
 ### Gravy - Marketing Director
 
