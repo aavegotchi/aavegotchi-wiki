@@ -155,7 +155,7 @@ Ete Clark, también conocido como favabeans o haussenfeffer, ha pasado la mayor 
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón pero actualmente afincado en Rumanía en plena Transilvania ( boo ). Se unió a la tecnología blockchain con Aavegotchi a principios de febrero de 2021 antes de Hount 1, prob primer dev FE contratado por Pixelcraft Studios. Empecé el proyecto gotchiverse desde cero y conozco los entresijos del proyecto como la palma de mi mano, trabajando diariamente en todos los frentes del reino. Actualmente dirige el equipo de desarrollo del reino.
+Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón pero actualmente afincado en Rumanía en plena Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Empecé el proyecto gotchiverse desde cero y conozco los entresijos del proyecto como la palma de mi mano, trabajando diariamente en todos los frentes del reino. Actualmente dirige el equipo de desarrollo del reino.
 
 ### Gravy - Director de Marketing
 
