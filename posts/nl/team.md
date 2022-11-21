@@ -155,7 +155,7 @@ Pete Clark, aka favabeans of haussenfeffer, heeft het grootste deel van zijn 26 
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart maar op dit moment gevestigd in Roemenië midden van Transilvania ( boo ). Lid geworden van blockchain met Aavegotchi in vroege feb 2021 pre Haunt 1, prob eerste FE dev aangenomen door Pixelcraft Studios. Ik ben vanaf nul begonnen met een nietszeggend project en ik ken de ins en outs van het project als de achterkant van mijn hand. dagelijks werken aan alle realm fronts. Het Realm dev team wordt momenteel beheerd.
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart maar op dit moment gevestigd in Roemenië midden van Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Ik ben vanaf nul begonnen met een nietszeggend project en ik ken de ins en outs van het project als de achterkant van mijn hand. dagelijks werken aan alle realm fronts. Het Realm dev team wordt momenteel beheerd.
 
 ### Gravy - Marketing Directeur
 
