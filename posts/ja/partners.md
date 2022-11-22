@@ -33,6 +33,7 @@ Aavegotchiは友好的な計画です。 我らのフレンリー・フレンに
 <p><a href=#flamingo-dao>Flamingo DAO（フラミンゴ・ダオ）</a></p>
 <p><a href=#mao-dao>Mao DAO（マオ・ダオ）</a></p>
 <p><a href=#router-protocol>Router Protocol</a></p>
+<p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
 </ol>
 
 </div>
@@ -205,3 +206,12 @@ MAO DAOは、アジアにおけるPlay-to-Earnスペースを形成する上で�
 </div>
 
 Router Protocol is a modular infrastructure layer enabling blockchains to communicate with each other. Currently live on Ethereum, Polygon, BSC, and more, Router is on a mission to integrate every chain.
+
+### Mandala Metaverse
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/mandala-metaverse.jpg" alt="Mandala Metaverse">
+<p class="leftImageText"><a href="https://twitter.com/enterthemandala" target="_blank">Mandala Metaverse</a></p>
+</div>
+
+Mandala is a cross-media story utilizing avatar NFTs in a geo-location AR mobile game + AAA Unreal Engine MMORPG, TV series, and graphic novel (Dark Horse).
