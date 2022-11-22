@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi partners with Mandala Metaverse!](https://blog.aavegotchi.com/fake-gotchis-x-mandala-metaverse-a-terrifying-fake-is-entering-the-queue/)
+* A new FAKE Gotchi from Mandala Metaverse is now in the queue!
+<p></p>
+
 ## [Vote on AGIP 49 now!](https://blog.aavegotchi.com/vote-agip-49-adjust-aaltar-spillover-rates/)
 * Gotchigang, it's time to vote on the Aaltar Spillover Rates!
 <p></p>
