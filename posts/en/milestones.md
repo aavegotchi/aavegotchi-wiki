@@ -6,6 +6,10 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Vote on AGIPs 50 - 53 now!](https://blog.aavegotchi.com/vote-agip-50-51-52-53-create-aavegotchidao-foundation-election-for-dao-foundations-9-directors-multisig-signers-rarity-farming-season-5-channel-alchemica-by-burning-kinship/)
+* Gotchigang, cast your votes on 4 more Core Proposals!
+<p></p>
+
 ## [Aavegotchi partners with Mandala Metaverse!](https://blog.aavegotchi.com/fake-gotchis-x-mandala-metaverse-a-terrifying-fake-is-entering-the-queue/)
 * A new FAKE Gotchi from Mandala Metaverse is now in the queue!
 <p></p>
