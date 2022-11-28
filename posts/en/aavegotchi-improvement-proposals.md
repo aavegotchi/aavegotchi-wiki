@@ -66,6 +66,10 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
 <li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
 <li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
+<li><a href=#create-aavegotchidao-foundation>Create AavegotchiDAO Foundation</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers>Election for DAO Foundation’s 9 Directors/Multisig-Signers</a></li>
+<li><a href=#rarity-farming-season-5>Rarity Farming Season 5</a></li>
+<li><a href=#channel-alchemica-by-burning-kinship>Channel Alchemica by Burning Kinship</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2017,6 +2021,304 @@ Option 2: Do Nothing
 table_agip49
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
+
+<hr>
+
+### Create AavegotchiDAO Foundation
+**Aavegotchi Improvement Proposal #50**
+
+**Proposal Summary:**
+
+AavegotchiDAO was summoned as a 100% on-chain DAO in September 2020 via the deployment of the GHST bonding curve. Since then, the DAO has matured into one of the world’s most active with over forty successful AGIPs passed and extremely healthy metrics on Snapshot. Over this period we also graduated across our DAO’s roadmap, going from DAO 1.0 into the more experimental period known as Cocoon, our precursor to Metamorphosis (AKA DAO 2.0). Achieving Metamorphosis requires the DAO to further decentralize and accept more responsibilities currently guarded by the original summoners and Pixelcraft Studios.
+
+Today we propose the next major step forward by suggesting it is time for AavegotchiDAO to add an off-chain presence to our decentralized autonomous organization. The following proposal is rooted in months of research and interfacing with a variety of legal advisors. We also take the practices of leading peers such as ENS and Sushi into consideration, opting for Foundation formation in the Cayman Islands coupled with on-chain governance being secured as primary via the Foundation’s Constitution.
+
+My proposal is for us to form the AavegotchiDAO Foundation in the Cayman Islands as soon as possible by following these steps:
+
+* Gather all interested in serving as one of nine Directors on the Foundation. These nine Directors simultaneously are seated on the Foundation’s newly formed multisig wallet. All serving must be KYC’d.
+
+* Host election via Snapshot where the nine most voted for shall serve as Directors of the Foundation until further notice (The DAO should likely flesh out details for term length etc with a separate AGIP at a later date). The election shall happen in parallel to this proposal’s CoreProp.
+
+* Submit the nine fully KYC’d Directors details to our legal counsel from LEX DAO so that they can immediately begin Foundation formation. This will be completed in days, not weeks.
+
+* Upon formation of the Foundation, the Directors shall create the new Foundation’s primary multisig using Gnosis.
+
+* Pixelcraft Studios shall transfer DAO Treasury multisig funds to the Foundation multisig, including DAI, GHST, and Alchemica on both Ethereum and Polygon networks.
+
+* The Foundation is thus formed, ready to execute transactions according to the will of AavegotchiDAO. Further definitions of responsibilities, scope, goals and limits can be defined by the DAO at a later date.
+
+**FOUNDATION DETAILS**
+
+*Entity*
+
+* A Cayman Islands foundation with a board consisting of 9 Directors, who are also the multisig signers of the DAO Treasury wallet.
+
+* Legal Counsel shall arrange a local officer to act as secretary fulfilling basic administrative requirements until further notice.
+
+* Legal Counsel shall arrange a local corporate secretarial service to assist with Foundation formation, documentation and production of financial statements.
+
+*DAO Treasury*
+
+* All DAO treasury funds present and future shall be transferred to the Board’s multisig.
+
+* The GHST Bonding Curve Council tokens could potentially also be transferred to the multisig signers, via a new AGIP proposal.
+
+* Eventually, all protocol contracts could be owned by this multisig, or if that is deemed not ideal, could be owned by the DAO itself (onchain voting) with the Board multisig action as a last resort Guardian to prevent malicious transactions.
+
+*Bank Account*
+
+Upon formation of the Foundation, legal counsel will confer with our corporate secretary to establish a Cayman Island’s bank account on the Foundation’s behalf. While not immediately useful, we have requested that this bank account be opened so as to futureproof the DAO to be able to natively settle any off-chain expenses (tradfi subscription fees, service providers, etc).
+
+*Board of Directors*
+
+Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Paid position starting at 8000 GHST per year, paying 2000 GHST to each Directory directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+*The Officer*
+
+The Foundation also requires at least one Officer to serve an official capacity for signing off-chain documentation. Legal offers a package to deliver one local Officer to fulfill this role. This is not a role for advocacy so this Officer will simply execute signatures at the direction of the Directors. Of course, AavegotchiDAO can always revisit or even expand Officer roles at any point.
+
+*The Constitution*
+
+Legal Counsel will draft and supply a first version of a Constitution that takes best practices from fellow DAOs into consideration. Counsel will submit this Constitution in the form of a commentable Google Sheet for our community to give feedback and suggest changes.
+
+Counsel and the DAO shall go back and forth in up to three drafts before the Constitution is sent to Snapshot for a three-day CoreProp regarding ratification.
+
+If ratification fails, another two drafts shall be edited before re-submitting for another CoreProp vote. This process continues until a ratification of the Constitution is achieved.
+
+Due to the critical nature of this CoreProp and the fact that it skips the SigProp step, the CoreProp vote shall require a voting result with those in approval at 66% or greater.
+
+*Benefits of Formation*
+
+* Independence; greater separation of Pixelcraft Studios from AavegotchiDAO
+
+* Board can execute proposals on behalf of the DAO (Liquidity provision, GHST staking, funding Dework, etc.)
+
+*Risks of Formation*
+
+* More responsibility on AavegotchiDAO governance
+
+* More exposure to any future policy shifts specifically in the Cayman Islands jurisdiction
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Option 1: Yes, let’s form AavegotchiDAO Foundation
+
+Option 2: No, let’s wait and discuss more
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3)
+
+<hr>
+
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers
+**Aavegotchi Improvement Proposal #51**
+
+**Proposal Summary:**
+
+This COREProp Will serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Director is a paid position starting at 8000 GHST per year, paying 2000 GHST to each Director directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
+
+Their first order of business once elected will be creating that multisig.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
+
+* CryptoGotchi#9089
+
+* Maxicrouton#1596
+
+* Mori#5912
+
+* Nofuturistic#1972
+
+* Zaunzi#1831
+
+* PG#0811
+
+* MichaelF#0901
+
+* yanik#0015
+
+* Choyna#0001
+
+* Rikige#0073
+
+* fifoooo#8782
+
+* cookheisenberg#9322 (SirLinkiest)
+
+* notorious_BTC#2084
+
+* brillz#7019
+
+* Mycaleum#8283
+
+* 0xzfi#4880
+
+* Zeitgeist#6030
+
+* Umami#9686
+
+* Mcabandonpants#1498
+
+* Kokusho#9945
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: PG#0811
+
+Option 7: MichaelF#0901
+
+Option 8: yanik#0015
+
+Option 9: Choyna#0001
+
+Option 10: Rikige#0073
+
+Option 11: fifoooo#8782
+
+Option 12: cookheisenberg#9322 (SirLinkiest)
+
+Option 13: notorious_BTC#2084
+
+Option 14: brillz#7019
+
+Option 15: Kokusho#9945
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x1b8438ec161f2b18dad49ebfcc9524340d030f4ec69a5fd71f732290ccb51bb4)
+
+<hr>
+
+### Rarity Farming Season 5
+**Aavegotchi Improvement Proposal #52**
+
+**Proposal Summary:**
+
+Gm frens,
+
+I come to you bearing the anticipated S5 sigprop!
+
+In the spirit of “if it ain’t broke don’t fix it”, I propose we keep things business as usual, since I believe our community has been having a bit of "change fatigue" of late - please refresh yourselves on the params of the past four seasons below:
+
+4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury:
+
+* 70% BRS
+
+* 20% Kinship
+
+* 10% XP
+
+Top 7.5k Gotchis (30%)
+
+Ideal launch period in the mind of the author: after the deployment of The Forge, or January 2023, whichever comes first.
+
+Thank you as always for your consideration and your votes.
+
+Stay spooky frens!
+
+Changes from Sigprop:
+
+The author has agreed that the next Rarity Farming Season should come after the deployment of The Forge, or January 2023, whichever comes first.
+
+The source of funds has been updated from Gotchiverse Player Rewards wallet to DAO treasury.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/rf-szn-5-kickoff/4424)
+
+Option 1: Yes, have S5 RF
+
+Option 2: No, Don’t have S5 RF
+
+Option 3: Yes, but with different params
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x84119ecd3be2cd0fd2382ffaf2db0490967b3456ff19695e6629fdeeb9058dbb)
+
+<hr>
+
+### Channel Alchemica by Burning Kinship
+**Aavegotchi Improvement Proposal #53**
+
+**Proposal Summary:**
+
+I propose to charge -4 kinship each time gotchi is channelling the altar.
+
+This change gives a gotchi a choice to:
+
+(1) accumulate kinship (+2 kinship /day) and improve the character farming specs
+
+(2) take alchemica now and lose on the yield multiplier
+
+By implementing this elegant and relatively simple solution, we are not only changing the alchemica dynamics and cutting the efficient inflation by 50% (in the wild should be closer to 60/40 or 40/60, depending on market conditions), but also making a game more strategic and exciting for long term players.
+
+Such change is an excellent alternative to the current economic proposals and additionally will reduce the MATIC spend for channelling in half.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/kinship-og-kinship-economical-proposal/4524)
+
+Option 1: Implement original kinship mechanics
+
+Option 2: Do not implement
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfb3766f05a6990514c618db06c2a74d8fd36298694740799e2dd23424a297115)
 
 <hr>
 
