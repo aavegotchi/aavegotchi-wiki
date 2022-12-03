@@ -7,6 +7,10 @@ contributors:
   - "chinyh"
 ---
 
+## [GBM Auction is back in the house!](https://blog.aavegotchi.com/now-anyone-can-launch-bid-to-earn-auctions-in-aavegotchis-auction-house/)
+* Now, anyone can launch their own GBM Auction!
+<p></p>
+
 ## [Vote on AGIPs 50 - 53 now!](https://blog.aavegotchi.com/vote-agip-50-51-52-53-create-aavegotchidao-foundation-election-for-dao-foundations-9-directors-multisig-signers-rarity-farming-season-5-channel-alchemica-by-burning-kinship/)
 * Gotchigang, cast your votes on 4 more Core Proposals!
 <p></p>
