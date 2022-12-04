@@ -7,6 +7,11 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Get ready to fight Gotchigang! The Aarena is launching soon!](https://blog.aavegotchi.com/the-gotchiverse-gets-its-first-taste-of-combat-aarena-preview-launching-this-december/)
+* The Aarena will be available soon!
+* Check out the features and the roadmap in this blog post
+<p></p>
+
 ## [GBM Auction is back in the house!](https://blog.aavegotchi.com/now-anyone-can-launch-bid-to-earn-auctions-in-aavegotchis-auction-house/)
 * Now, anyone can launch their own GBM Auction!
 <p></p>
