@@ -631,6 +631,67 @@ export const tables
         },
 		
 		{
+            tableName: "agip50",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES, let's form the Foundation!", "18,000,000 GHST (95.24%)"],
+					["NO, this ain't it!", "910,000 GHST (4.76%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip51",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yanik", "3,300,000 GHST (16.96%)"],
+					["Notorious_BTC", "2,300,000 GHST (11.75%)"],
+					["Nofuturistic", "1,900,000 GHST (10.01%)"],
+					["Mori", "1,700,000 GHST (8.56%)"],
+					["Mycaleum", "1,600,000 GHST (8.2%)"],
+					["Maxicrouton", "1,500,000 GHST (7.51%)"],
+					["Kokusho", "1,300,000 GHST (6.73%)"],
+					["PG", "1,100,000 GHST (5.7%)"],
+					["Umami", "1,100,000 GHST (5.43%)"],
+					["Choyna", "1,000,000 GHST (5.21%)"],
+					["Fifoooo", "740,000 GHST (3.83%)"],
+					["CryptoGotchi", "533,000 GHST (2.76%)"],
+					["Brillz", "502,000 GHST (2.59%)"],
+					["Cookheisenberg", "208,000 GHST (1.08%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip52",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, have S5 RF", "15,000,000 GHST (75.83%)"],
+					["No, don't have S5 RF", "4,200,000 GHST (21.33%)"],
+					["Yes, but with different params", "561,000 GHST (2.83%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip53",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Do not implement", "12,000,000 GHST (60.18%)"],
+					["Implement orig kinship mechanics", "7,700,000 GHST (39.82%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

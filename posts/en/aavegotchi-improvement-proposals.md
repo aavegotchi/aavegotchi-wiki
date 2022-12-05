@@ -2125,6 +2125,8 @@ Option 2: No, let’s wait and discuss more
 
 **Results:**
 
+table_agip50
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3)
 
 <hr>
@@ -2238,6 +2240,8 @@ Option 15: Kokusho#9945
 
 **Results:**
 
+table_agip51
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x1b8438ec161f2b18dad49ebfcc9524340d030f4ec69a5fd71f732290ccb51bb4)
 
 <hr>
@@ -2287,6 +2291,8 @@ Option 3: Yes, but with different params
 
 **Results:**
 
+table_agip52
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x84119ecd3be2cd0fd2382ffaf2db0490967b3456ff19695e6629fdeeb9058dbb)
 
 <hr>
@@ -2317,6 +2323,8 @@ Option 2: Do not implement
 **Voting Period:** 27 November - 4 December 2022
 
 **Results:**
+
+table_agip53
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfb3766f05a6990514c618db06c2a74d8fd36298694740799e2dd23424a297115)
 
