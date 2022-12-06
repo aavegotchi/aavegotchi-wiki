@@ -13,13 +13,15 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Aarchitecten](/aarchitect)
 
+* [Aarena](/aarena)
+
 * [Aartiesten](/aartist)
 
-* [Veiling](/aauction)
+* [Aauction](/aauction)
 
-* [Aavegotchi Verbetervoorstellen](/aavegotchi-improvement-proposals)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profielpagina](/aavegotchi-profile)
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Aesthetica](/aesthetica)
 
