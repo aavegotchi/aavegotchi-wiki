@@ -66,7 +66,7 @@ Un punto de referencia dentro de la Ciudadela es el Gran Portal. El Gran Portal 
 El Grid abarca todo lo que está fuera de la Ciudadela. Las parcelas del Grid son mucho más abundantes, pero los propietarios deben tener cuidado: los lickquidators están al acecho en cada esquina. Las Parcelas del Grid pueden construir tanto Muros como Torres.
 
 #### La Aarena
-Un elemento clave en el Grid es la Aarena.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Aunque los Aavegotchis son amistosos, son conscientes de que los impulsos agresivos necesitan una salida, y por eso crearon la Aarena.
 
