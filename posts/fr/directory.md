@@ -13,6 +13,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aarchitectes](/aarchitect)
 
+* [Aarena](/aarena)
+
 * [Aartists](/aartist)
 
 * [Aauction](/aauction)
