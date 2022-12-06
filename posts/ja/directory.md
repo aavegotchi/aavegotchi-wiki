@@ -13,13 +13,15 @@ Avegotchi Wikiのページ一覧です：
 
 * [アーキテクト（Aarchitect）](/aarchitect)
 
-* [アーティスト（Aartist）](/aartist)
+* [Aarena](/aarena)
 
-* [オークション（Aauction）](/aauction)
+* [アーティスト](/aartist)
 
-* [Aavegotchi改良案（Aavegotchi Improvement Proposals）](/aavegotchi-improvement-proposals)
+* [Aauction](/aauction)
 
-* [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [エステティカ（Aesthetica）](/aesthetica)
 
