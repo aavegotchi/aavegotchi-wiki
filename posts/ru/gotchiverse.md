@@ -66,7 +66,7 @@ Protected by a Force Field that keeps out lickquidators, the Citaadel is the hom
 Сетка охватывает все за пределами Цитадели. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. На территории Сетки можно строить как стены, так и башни.
 
 #### Арена
-Это ключевая достопримечательность Сетки.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Зачем она нужна, — да все просто, так как Готчи время от времени нужно выпустить пар.
 
