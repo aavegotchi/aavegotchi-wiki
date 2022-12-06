@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Vũ khí là những trang phụ cầm tay thuộc dạng Đánh Gần hoặc Đánh Xa. Những Trang Phục đặc biệt này có thể gây sát thương lên Gotchi (trong Đấu Trường), Lickquidator, Kẻ Thù, và Những Bức Tường.
+Vũ khí là những trang phụ cầm tay thuộc dạng Đánh Gần hoặc Đánh Xa. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
 Mỗi Vũ Khí đều sẽ gắn liền với những lợi ích đặc biệt, ví dụ như tăng sát thương lên Tường, tăng sát thương lên Lickquidator, tăng tốc độ đánh, hoặc những lợi ích khác.
 
