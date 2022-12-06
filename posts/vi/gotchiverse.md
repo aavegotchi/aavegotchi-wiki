@@ -66,7 +66,7 @@ Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu
 The Grid bao gồm tất cả mọi nơi bên ngoài Citaadel. Số lượng đất có ở Grid nhiều hơn, nhưng chủ sở hữu cần lưu ý - Người Thanh Khoản đang lùng sụt khắp mọi ngõ ngách. Những mẫu đất bên ngoài Grid có thể xây nên được Những Bức Tường và Tòa Tháp.
 
 #### The Aarena (Đấu Trường)
-Là khu vực chủ chốt ở Grid.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Dù Aavegotchi rất thân thiện, nhưng chúng nhận ra rằng việc những cơn thịnh nộ của mình cần được giải tỏa, đó là lý do tại sao chúng tạo ra Aarena.
 
