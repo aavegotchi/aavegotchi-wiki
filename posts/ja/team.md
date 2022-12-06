@@ -36,7 +36,6 @@ contributors:
 <p><a href=#mark---gotchiverse-backend-lead>Mark（マーク）- ゴッチバース・バックエンド・リード</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris（アリス）- ゴッチバース・フロントエンド・リード</a></p>
-<p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -156,15 +155,6 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 </div>
 
 アリスことピクセルラブ（PixellLab）は、フルスタックデベロッパー&ゴッチバースアーキテクトです。 心はトラベラーですが、現在はルーマニアのトランシルバニア地方の真ん中を拠点に活動しています（ブーイング）。 Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. ゴッチバースプロジェクトをゼロから始め、プロジェクトの内部と外部を手のひらのように知っていて、毎日すべてのレルムに取り組んでいます。 現在、レルム開発チームのマネージメントを担当しています。
-
-### Gravy（グレイヴィー）- マーケティングディレクター
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves（ニック・グレイヴス）">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy（グレイヴィー）</a></p>
-</div>
-
-ニック・グレイヴス（Nick Graves）、通称グレイヴィーは、B2BとB2Cで10年近い経験を持つ、マーケティング全般のクリエイティブディレクターです。 典型的な会社員生活を何年も送った後、彼はその船を出航させ、ブロックチェーンの世界に100％自分のキャリアを捧げました。 彼は戦略的パートナーシップを作成し、病気のKPIを測定し、戦略的マーケティング戦略を策定している間、グレイヴィーはAavegotchiを次のレベルに移動させるために専念し、ゴッチギャングのメンバーであることを誇りにしています。
 
 ### Shohan - Gotchiverse Frontend
 
