@@ -36,7 +36,6 @@ contributors:
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Arquitecto Senior en la Nube</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Director de Marketing</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -156,15 +155,6 @@ Ete Clark, también conocido como favabeans o haussenfeffer, ha pasado la mayor 
 </div>
 
 Aris aka PixellLab, dev fullstack &  arquitecto Gotchiverse. Viajero de corazón pero actualmente afincado en Rumanía en plena Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Empecé el proyecto gotchiverse desde cero y conozco los entresijos del proyecto como la palma de mi mano, trabajando diariamente en todos los frentes del reino. Actualmente dirige el equipo de desarrollo del reino.
-
-### Gravy - Director de Marketing
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Garvey">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
-</div>
-
-Nick Graves, alias Gravy, es un director creativo de todo lo relacionado con el marketing con casi una década de experiencia en B2B y B2C en su haber. Después de años de machacarse en la vida corporativa estereotipada, dejó que ese barco zarpara y dedicó su carrera al 100% al mundo del blockchain. Mientras crea asociaciones estratégicas, mide los KPI enfermos y formula estrategias de marketing, Gravy se dedica a ayudar a llevar a Aavegotchi al siguiente nivel y se enorgullece de llamarse miembro de la GotchiGang.
 
 ### Shohan - Gotchiverse Frontend
 
