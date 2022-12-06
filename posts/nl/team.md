@@ -36,7 +36,6 @@ Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. 
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Marketing Directeur</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -156,15 +155,6 @@ Pete Clark, aka favabeans of haussenfeffer, heeft het grootste deel van zijn 26 
 </div>
 
 Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart maar op dit moment gevestigd in Roemenië midden van Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Ik ben vanaf nul begonnen met een nietszeggend project en ik ken de ins en outs van het project als de achterkant van mijn hand. dagelijks werken aan alle realm fronts. Het Realm dev team wordt momenteel beheerd.
-
-### Gravy - Marketing Directeur
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graven">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
-</div>
-
-Nick Graves, aka Gravy, is een creatieve directeur van alle zaken marketing met bijna een decennium B2B en B2C ervaring onder zijn gordel. Na jaren van het mikken in het stereotiepe bedrijfsleven liet hij dat schip varen en zijn carrière voor 100% wijden aan de blockchain-wereld. Terwijl hij strategische partnerschappen creëert, werkt hij zieke KPI's en strategische marketingstrategieën ui. Gravy is toegewijd om Aavegotchi te helpen naar het volgende niveau te bewegen en is er trots op zichzelf een lid van de GotchiGang te noemen.
 
 ### Shohan - Gotchiverse Frontend
 
