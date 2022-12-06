@@ -66,7 +66,7 @@ Een belangrijke bezienswaardigheid binnen de Citaadel is het Grote Portaal. De G
 De Grid omvat alles buiten de Citaadel. Parcelen in De Grid zijn veel overvloediger maar eigenaren moeten oppassen -- lickquidators luren in elke hoek. Op Grid Parcelen kun je zowel Muren als Torens bouwen.
 
 #### De Aarena
-Een belangrijke bezienswaardigheid in De Grid is de Aarena.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Alhoewel Aavegotchis zeer vriendelijk zijn, tegelijkertijd realiseren zij zich wel dat agressieve aansporingen een afzetgebied nodig hebben en daarom hebben zij de Aarena gecreëerd.
 
