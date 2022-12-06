@@ -13,13 +13,15 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Arquitectos](/aarchitect)
 
-* [Artistas](/aartist)
+* [Aarena](/aarena)
 
-* [Subastas](/aauction)
+* [Aartist](/aartist)
 
-* [Propuestas de mejora de Aavegotchi](/aavegotchi-improvement-proposals)
+* [Aauction](/aauction)
 
-* [Página del perfil de Aavegotchi](/aavegotchi-profile)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Aesthetica](/aesthetica)
 
