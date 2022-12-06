@@ -66,7 +66,7 @@ A key landmark within the Citaadel is the the Great Portal. The Great Portal is 
 The Grid encompasses everything outside of the Citaadel. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. Grid Parcels can build both Walls and Towers.
 
 #### The Aarena
-A key landmark in the Grid is the Aarena.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Although Aavegotchis are frenly, they do realize that aggressive urges need an outlet, which is why they created the Aarena.
 
