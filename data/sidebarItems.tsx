@@ -86,6 +86,10 @@ export const items: Category[] = [
 				name: "Sets",
 				href: "sets"
 			},
+			{
+				name: "Recipes",
+				href: "recipes"
+			},
             {
                 name: "Rarity Farming",
                 href: "rarity-farming"
@@ -105,8 +109,11 @@ export const items: Category[] = [
             {
                  name: "Baazaar",
                  href: 'baazaar'
-            }
-
+            },
+			{
+				name: "Aarena",
+				href: "aarena"
+			}
         ]
     },
 
