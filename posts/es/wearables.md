@@ -89,13 +89,13 @@ Mira [rasgos](/traits) para más información sobre este tema.
 
 Los equipables se puede añadir o quitar en cualquier momento. Equipar/desequipar puede afectar a la [rareza general](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) de un Aavegotchi:
 
-tabla_vestiblesBRestables
+table_wearablesBRStable
 
 ## Poder de voto
 
 Con el paso de [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), los dquipables ahora tienen poder de voto en [AavegotchiDAO](/dao). El poder de voto (medido en GHST) de un determinado equipable se basa en su tipo de rareza/[Maall](/maall) precio.
 
-tabla_usarablesPoder de voto
+table_wearablesVotingPower
 
 ## Armas
 
@@ -115,7 +115,7 @@ table_linkWearablesTable
 
 El conjunto temático Aave-se distribuyó en el segundo de los tres Raffles anteriores al lanzamiento, celebrado el 8 de diciembre de 2020. Esta impresionante colección celebra el vínculo entre Aavegotchi y la comunidad Aave y el equipo de liderazgo.
 
-tabla_aaveWearablesTable
+table_aaveWearablesTable
 
 ## Set temático Ethereum
 
