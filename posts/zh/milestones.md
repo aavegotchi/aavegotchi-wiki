@@ -7,6 +7,16 @@ contributors:
   - "chinyh"
 ---
 
+## [Christmas decorations are here!](https://blog.aavegotchi.com/merry-gotchiverse/)
+* 4 of the decorations are craftable
+* Take part in the Christmas Raffle for the special fifth decoration!
+<p></p>
+
+## [Aavegotchi November Update!](https://blog.aavegotchi.com/aavegotchi-november-update/)
+* The shippooorrrs have shipped a ton of new features in November
+* Check it out here!
+<p></p>
+
 ## [Get ready to fight Gotchigang! The Aarena is launching soon!](https://blog.aavegotchi.com/the-gotchiverse-gets-its-first-taste-of-combat-aarena-preview-launching-this-december/)
 * The Aarena will be available soon!
 * Check out the features and the roadmap in this blog post
