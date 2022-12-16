@@ -27,8 +27,7 @@ In einer typischen TBC steigt der Preis, wenn das Angebot des Tokens steigt, und
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Angebots-Dynamik</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>Weitere Infos</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -91,10 +90,7 @@ In unserer obigen Diskussion über die Token Bonding Curve / DAICO haben wir gel
 
 Die Inflation von GHST Tokens durch Nettokäufe auf der Bonding Curve ist positiv mit dem GHST Preis korreliert. **Die Bonding Curve wurde mathematisch so programmiert, dass der Preis von GHST steigt, wenn das zirkulierende Angebot an GHST zunimmt.**
 
-## Arbitrage
-Nutzer, die KYC durchgeführt haben, werden in der Lage sein, die GHST Preisunterschiede zwischen der Token Bonding Curve und anderen dezentralen Börsen (DEX) wie Uniswap und Balancer zu arbitrieren. Laut [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp) ist "Arbitrage der Kauf und Verkauf eines Vermögenswertes, um von einer Preisdifferenz zwischen den Märkten zu profitieren. Es ist also ein Handel, der durch die Ausnutzung der Preisunterschiede von identischen oder ähnlichen Finanzinstrumenten auf verschiedenen Märkten oder in verschiedenen Formen profitiert. Arbitrage existiert als Ergebnis von Marktineffizienzen und würde daher nicht existieren, wenn alle Märkte perfekt effizient wären." Dies ist deshalb möglich, da DEXe mit ihrer eigenen Automated Market Maker (AMM) Formel ausgestattet sind und die Netto-Kauf-/Verkaufsaktionen von GHST Tokens auf diesen DEXen zu Preisen führen würden, die von der Token Bonding Curve abweichen. Ein erfahrener Investor könnte es erwägen, solche Ineffizienzen im Markt auszunutzen (*Alpha Leak*).
-
-## Weitere Infos
+## Learn More
 
 * Mehr über [Aragon Fundraising und Bonding Curves!](https://fundraising.aragon.black/components/bonding-curve)
 
