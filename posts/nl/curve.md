@@ -27,8 +27,7 @@ In een typische TBC stijgt de prijs naarmate het aanbod van de token toeneemt en
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Aanbod Dinamiek</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>Lees meer</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -91,10 +90,7 @@ In onze discussie over de token bonding curve/DAICO hierboven hebben we geleerd 
 
 De inflatie van GHST tokens door middel van netto-aankopen op de bonding curve is positief gekoppeld aan de GHST-prijs. **De bonding curve is wiskundig geprogrammeerd om de prijs van GHST te verhogen naarmate het circulerende aanbod van GHST stijgt.**
 
-## Arbitrage
-Voor gebruikers die KYC hebben voltooid kunnen de prijsverschillen tussen de token binding curve en andere DEXes zoals Uniswap en Balancer scheiden. Volgens [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage is de aankoop en verkoop van activa om te profiteren van een verschil in de prijs van het activum tussen de markten. Het is een handel die winst maakt door de prijsverschillen van identieke of vergelijkbare financiële instrumenten op verschillende markten of in verschillende vormen te exploiteren. Arbitrage bestaat als gevolg van inefficiënties van de markt en zou dus niet bestaan als alle markten perfect efficiënt zouden zijn." Dit is mogelijk omdat DEXes worden uitgerust met hun eigen Automated Market Maker (AMM) formule en de netto aankoop/verkoop acties van GHST tokens op deze DEXes zouden resulteren in prijzen die verschillen van de token bonding curve. Een meedogenloze belegger zou kunnen overwegen dergelijke inefficiënties op de markt te exploiteren (*alfa leak hier*).
-
-## Lees meer
+## Learn More
 
 * Voor meer op [Aragon Fundraising en binding curves!](https://fundraising.aragon.black/components/bonding-curve)
 
