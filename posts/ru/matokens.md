@@ -25,7 +25,7 @@ contributors:
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
 <li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
-<li><a href=#learn-more>Больше информации</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
