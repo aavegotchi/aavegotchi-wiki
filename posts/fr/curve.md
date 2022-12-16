@@ -28,8 +28,7 @@ Dans un TBC typique, le prix augmente à mesure que l'offre de jeton augmente, e
 <li><a href=#aavegotchi-bonding-curve>La Courbe de liaison d'Aavegotchi</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Dynamique de l'offre du token d'Aavegotchi</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>En savoir plus</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -108,13 +107,7 @@ L'inflation des jetons GHST par des achats nets sur la courbe de liaison est cor
 
 
 
-## Arbitrage
-
-Pour les utilisateurs qui ont terminé KYC, ils seront en mesure d'arbitrer les différences de prix entre la courbe de liaison de jetons et d'autres DEXes comme Uniswap et Balancer. Selon [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "l'Arbitrage est l'achat et la vente d'un actif afin de profiter d'une différence de prix entre les marchés. C'est un commerce qui profite en exploitant les différences de prix d'instruments financiers identiques ou similaires sur différents marchés ou sous différentes formes. L'arbitrage existe à la suite d'inefficacités du marché et n'existerait donc pas si tous les marchés étaient parfaitement efficaces." Ceci est possible puisque les DEXes sont équipés de leur propre formule automatisée de marché (AMM) et que les actions d’achat/vente nets de jetons de GHST sur ces DEXes entraîneraient des prix différents de la courbe de liaison. Un investisseur avisé pourrait envisager d'exploiter de telles inefficacités sur le marché (*fuite alpha ici*).
-
-
-
-## En savoir plus
+## Learn More
 
 * Pour en savoir plus sur [la collecte de fonds et la liaison avec Aragon !](https://fundraising.aragon.black/components/bonding-curve)
 
