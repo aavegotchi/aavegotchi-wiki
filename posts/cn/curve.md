@@ -27,8 +27,7 @@ contributors:
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi 联合曲线</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi 代币供应动态机制</a></li>
-<li><a href=#arbitrage>套利</a></li>
-<li><a href=#learn-more>了解更多</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -91,10 +90,7 @@ Aavegotchi项目通过Aragon上的DAICO启动了代币联合曲线。
 
 通过联合曲线上的净购买，GHST代币的通货膨胀与GHST价格呈正相关。 **根据联合曲线的数学编码，GHST的价格会随着供应量的增加而上涨。**
 
-## 套利
-对于已经完成KYC的用户，他们将能够在代币联合曲线和其他DEX（如Uniswap和Balancer）之间套利GHST价格差异。 根据[Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp)的说法，"套利是指为了从资产在市场之间的价格差异中获利而购买和出售资产的行为。 它是一种利用相同或相似的金融工具在不同市场或不同形式的价格差异而获利的交易。 仲裁是由于市场效率低下造成的，因此如果所有市场都完全高效，就不会存在。” 这样做是可能的，因为DEXes配备了自己的自动市场制造商(AMM) 公式，而GHST 代币在这些Dexes上的净购买/销售行动将导致和代币联合曲线的价格不同。 精明的投资者可能会考虑利用市场上的这种低效率(*Alpha leak here*)。
-
-## 了解更多
+## Learn More
 
 * 更多关于 [Aragon筹款和联合曲线！](https://fundraising.aragon.black/components/bonding-curve)
 
