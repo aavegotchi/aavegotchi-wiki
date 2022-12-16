@@ -405,4 +405,19 @@ export const tables
                 ]
             }
         },
+		{
+            tableName: "christmasDecorations",
+            tableCaption: "",
+            tableData: {
+                headers: ["Name", "Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)"],
+                data: [
+                    ["Feelin’ Lit", "1", "0", "150", "250", "100", "Instant"],
+					["Bulby", "1", "200", "450", "150", "50", "Instant"],
+					["Rednosed ROFL", "1", "2300", "0", "350", "100", "Instant"],
+					["Brrrooorrr", "1", "800", "0", "650", "80", "Instant"],
+					["O Aangel Tree O Aangel Tree", "1", "-", "-", "-", "-", "-"]
+                ]
+            }
+        },
+		
     ]
