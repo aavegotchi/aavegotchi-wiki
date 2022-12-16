@@ -27,8 +27,7 @@ contributors:
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi ボンディング・カーブ</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi トークン供給ダイナミクス</a></li>
-<li><a href=#arbitrage>アービトラージ</a></li>
-<li><a href=#learn-more>もっと詳しく</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -91,10 +90,7 @@ Aavegotchiプロジェクトは、AragonのDAICOを通じて、トークン・�
 
 ボンディングカーブでの純購入によるGHSTトークンのインフレは、GHST価格と正相関があります。 **ボンディングカーブは、GHSTの流通供給が増加するとGHSTの価格が上昇するように数学的にプログラムされています。**
 
-## アービトラージ
-KYCを完了したユーザーは、トークンのボンディングカーブとUniswapやBalancerといった他のDEXとのGHST価格差をアービトラージ（裁定）することができます。 [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp)によると、「アービトラージ取引とは、市場間の資産価格の差から利益を得るために資産を売買することである。 異なる市場、異なる形態の同一または類似の金融商品の価格差を利用して利益を得る取引である。 アービトラージ取引は市場の非効率性の結果として存在し、したがって、すべての市場が完全に効率的であれば存在しない。」 DEXは独自の自動マーケットメーカー（AMM）方式を備えており、これらのDEXでのGHSTトークンの純購入/売却行為は、トークン・ボンディング・カーブとは異なる価格になるため、これは可能である。 経験豊富な投資家は、市場のこのような非効率性を利用することを考えるかもしれません（*アルファリークはこちら*）。
-
-## もっと詳しく
+## Learn More
 
 * Aragon Fundraisingとボンディングカーブについてもっと知りたい方は[こちら](https://fundraising.aragon.black/components/bonding-curve)!
 
