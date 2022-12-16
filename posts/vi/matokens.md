@@ -23,7 +23,7 @@ Có nhiều cách để sở hữu maToken. Ở trang này, bạn sẽ biết th
 <ol>
 <li><a href=#staking-matokens-into-aavegotchis>Stake maToken vào Aavegotchi</a></li>
 <li><a href=#problems-while-staking-spirit-force>Vấn đề liên quan đến việc stake Spirit Force</a></li>
-<li><a href=#learn-more>Tìm hiểu thêm</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
