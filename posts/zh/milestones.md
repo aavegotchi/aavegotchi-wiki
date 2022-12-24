@@ -7,6 +7,17 @@ contributors:
   - "chinyh"
 ---
 
+## [Aavegotchi Forge: SOON!](https://blog.aavegotchi.com/the-forge-is-coming-blacksmithing-skill-new-wearables-and-a-way-to-combat-inflation/)
+* The Aavegotchi Forge is coming soon!
+* Familiarize yourself with Alloys and Essences!
+* Learn how to forge and smelt too!
+<p></p>
+
+## [Aavegotchi 2022 Year in Review](https://blog.aavegotchi.com/aavegotchi-2022-year-in-review/)
+* The Shippooorrrsss have been shipping hard!
+* Here's a recap for each month of the year!
+<p></p>
+
 ## [Christmas decorations are here!](https://blog.aavegotchi.com/merry-gotchiverse/)
 * 4 of the decorations are craftable
 * Take part in the Christmas Raffle for the special fifth decoration!
