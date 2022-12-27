@@ -55,6 +55,8 @@ contributors:
 
 * [FAQ](/faq)
 
+* [Forge](/forge)
+
 * [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
