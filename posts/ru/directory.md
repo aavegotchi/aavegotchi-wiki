@@ -55,6 +55,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Часто задаваемые вопросы](/faq)
 
+* [Forge](/forge)
+
 * [Gaame Jaam](/gaame-jaam)
 
 * [Токен GHST](/ghst)
