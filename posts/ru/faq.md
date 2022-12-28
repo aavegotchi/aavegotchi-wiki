@@ -91,6 +91,12 @@ contributors:
 <p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>My borrowing period is over, but I don’t see the Alchemica in my wallet</a></p>
 <p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>I didn’t receive Alchemica that I tried to withdraw hours ago</a></p>
 <p><a href=#how-do-you-allow-borrowed-gotchis-to-channel-alchemica-from-parcels-owned-by-the-lender->How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?</a></p>
+<li><a href=#forge-faq>Forge FAQ</a></li>
+<p><a href=#why-would-i-smelt-existing-items--if-i-can-wait-for-the-auction-and-raffle-to-get-new-schematics->Why would I smelt existing items, if I can wait for the auction and raffle to get new schematics</a></p>
+<p><a href=#does-a-gotchi-s-traits-brs-xp-affect-the-amount-of-essence-received-when-it-is-sacrificed->Does a Gotchi's traits/BRS/XP affect the amount of essence received when it is sacrificed?</a></p>
+<p><a href=#will-new-items-form-sets-with-each-other-or-existing-items->Will new items form sets with each other or existing items?</a></p>
+<p><a href=#will-attributes-of-the-new-items-be-in-the-same-range-as-existing-ones->Will attributes of the new items be in the same range as existing ones?</a></p>
+<p><a href=#will-crafting-the-same-item-multiple-times-make-it-stronger->Will crafting the same item multiple times make it stronger?</a></p>
 <li><a href=#gotchi-lending-faq>Gotchi Lending FAQ</a></li>
 <p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
@@ -480,6 +486,28 @@ Head to [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?n
 **_accessRights**: an array [] containing the number 1, one 1 for each parcelID you'd like to let your borrowers access.
 
 If you can't figure it out, ask for help and some frenly community devs will help you out.
+
+## Forge FAQ
+
+### Why would I smelt existing items, if I can wait for the auction and raffle to get new schematics?
+
+The new items being released are only schematics and limited quantity of cores. That means in order to make something new, you will have to obtain alloy either by buying it off bazaar or by smelting.
+
+### Does a Gotchi's traits/BRS/XP affect the amount of essence received when it is sacrificed?
+
+Each sacrifice is a flat 1000 essence.
+
+### Will new items form sets with each other or existing items?
+
+The new items are all individual and complete sets. I reckon new sets will be introduced that take some things from the new items and old (as done in the past). However at this moment, there have been no creation of these hybrid sets.
+
+### Will attributes of the new items be in the same range as existing ones?
+
+BRS-wise, all new schematics are in the same format as before. The aim was to fill the gaps of underrepresented stat combinations.
+
+### Will crafting the same item multiple times make it stronger?
+
+No. It would just level up your blacksmithing skill, resulting in a faster craft time (or less GLTR). There is talk in the future to allow items to venture past their current rarities for enormous cost.
 
 ## Gotchi Lending FAQ
 
