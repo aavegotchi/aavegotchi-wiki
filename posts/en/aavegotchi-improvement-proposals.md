@@ -68,8 +68,12 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
 <li><a href=#create-aavegotchidao-foundation>Create AavegotchiDAO Foundation</a></li>
 <li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers>Election for DAO Foundation’s 9 Directors/Multisig-Signers</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers--revote->Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)</a></li>
 <li><a href=#rarity-farming-season-5>Rarity Farming Season 5</a></li>
 <li><a href=#channel-alchemica-by-burning-kinship>Channel Alchemica by Burning Kinship</a></li>
+<li><a href=#creating-the-aarcade-taask-force--atf->Creating the Aarcade Taask Force (ATF)</a></li>
+<li><a href=#update-the-template-to-require-the-use-of--weighted-voting->Update the Template to Require the Use of ‘Weighted Voting’</a></li>
+<li><a href=#fund-alchemica-spending-competition>Fund Alchemica Spending Competition</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2246,6 +2250,115 @@ table_agip51
 
 <hr>
 
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)
+**Aavegotchi Improvement Proposal #51 (Revote)**
+
+**Proposal Summary:**
+
+This CoreProp shall serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers discussed in AGIP 50. Those elected shall only serve if AGIP 50 passes, otherwise this election is to be deemed null and void.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig.
+
+*FOUNDATION MULTISIG SETTINGS*
+
+* 5/9 signers in order to execute.
+
+* Directors shall use Gnosis to set up the multisig.
+
+*COMPENSATION*
+
+* Each Director is a compensated from the Foundation Multisig for a total of 8000 GHST annually.
+
+* Compensation shall be distributed once every 90 days, paying 2000 GHST to each Director directly from the Foundation multisig.
+
+*RESPONSIBILITIES*
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
+
+*COMPETENCY*
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have their name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* Be familiar with creating transactions and signing on Gnosis Safe
+
+*ELECTION*
+
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
+
+* CryptoGotchi#9089
+
+* Maxicrouton#1596
+
+* Mori#5912
+
+* Nofuturistic#1972
+
+* Zaunzi#1831
+
+* Choyna#0001
+
+* Rikige#0073
+
+* sirlinkiest#9322
+
+* notorious_BTC#2084
+
+* brillz#7019
+
+* Kokusho#9945
+
+* Zeitgeist#6030
+
+* Mycaleum#8283
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/agip-51-election-for-dao-foundation-s-9-directors-multisig-signers/4563)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: Choyna#0001
+
+Option 7: Rikige#0073
+
+Option 8: sirlinkiest#9322
+
+Option 9: notorious_BTC#2084
+
+Option 10: brillz#7019
+
+Option 11: Kokusho#9945
+
+Option 12: Zeitgeist#6030
+
+Option 13: Mycaleum#8283
+
+**Voting Period:** 3 - 10 January 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x5f3b6ff62ae4b8535e057b4f3af2c85ec93762dac95031a014c409969e3a0fc8)
+
+<hr>
+
 ### Rarity Farming Season 5
 **Aavegotchi Improvement Proposal #52**
 
@@ -2327,6 +2440,213 @@ Option 2: Do not implement
 table_agip53
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfb3766f05a6990514c618db06c2a74d8fd36298694740799e2dd23424a297115)
+
+<hr>
+
+### Creating the Aarcade Taask Force (ATF)
+**Aavegotchi Improvement Proposal #54**
+
+**Proposal Summary:**
+
+*Background*
+
+This SigProp was previously created back in June 2022, the proposal did not meet the quorum at the time. This proposal is being re-created as there has been some traction on games developed by community members that would like to utilize player rewards acquired through AGIP16.
+
+*Introduction*
+
+The open-source nature of the Aavegotchi protocol combined with its on-chain assets provides an excellent foundation for external development efforts. More specifically, third-party developed games can greatly expand the usability of Aavegotchi assets and provide growth to the entire project.
+
+*Problem*
+
+Through AGIP 16, the DAO staked 100k GHST to generate rewards that could be given out to the wider Aavegotchi community of players for participating in mini-game events. To date, there has been minimal usage of these rewards. This is in part due to lack of:
+
+* Clarity on how game developers can apply for (and be sent) player rewards for their game events,
+
+* A game development focused task force that can help review applications for these player rewards, and,
+
+* New games!!
+
+*Solution*
+
+This proposal aims to introduce and confirm the Aarcade Taask Force (ATF) who will:
+
+* Control the multi-sig wallet that distributes player rewards to the community and developers,
+
+* Review applications for player rewards to be used in developer games, and
+
+* Provide a supportive platform for developers to discuss, troubleshoot and test their games in the ATF’s Aavegotchi Aarcade discord server.
+
+*End Goal & Benefit*
+
+The ATF’s objective is to help incentivize the development of more mini-games of a higher quality for the Aavegotchi community to play, share and enjoy. The natural benefit of this is increased utility and growth for the Aavegotchi protocol and its assets. By taking active custody of the 100k GHST from AGIP16, the ATF firmly believes it can help more player rewards get to the community and spur the next generation of Aavegotchi mini-games!
+
+*Potential Risks*
+
+As we are in the early stages of forming the Aarcade Task Force some potential risks include:
+
+* Mismanagement, theft or loss of rewards (multi-sig wallet helps mitigate this),
+
+* ATF members becoming inactive (signer numbers have been kept low to help ensure the multi-sig remains agile)
+
+*Amendment to AGIP 16*
+
+AGIP16 did not originally allow for usage of the 100k GHST to directly purchase assets from the Aavegotchi bazaar.
+
+The ATF proposes that for successful stress test and xp/release game events, the following maximum drawdown amounts from the 100k GHST pool can be made (in agreeance with the game developer hosting an event) to purchase additional prizes from the Aavegotchi bazaar to be distributed to players:
+
+* 100 GHST per stress test game event
+
+* 500 GHST per xp/release game event
+
+Note: Purchases will only be made via the Aavegotchi bazaar for maximum transparency.
+
+*Fake Gotchi Cards (FGC’s)*
+
+Frens generated by the AGIP16 100k GHST were used to enter the last raffle draw for Fake Gotchi Cards netting a total of 87 burn cards that are now available for use as mini-game player rewards. Under this proposal, these cards would also be transferred to the ATF multi-sig.
+
+The ATF intends to allow one card be used per game event to mint a collection that can be distributed to players as the game developer of that event sees fit. A typical use case could be that 100 pieces of art are minted with one FGC and then distributed to the top 100 addresses in a game leaderboard event.
+
+Note: Compensation for artists collaborating on FGC works will be from funding sources outside of the AGIP16 100k GHST (and its rewards pool) and is outside the ATF’s scope. It will be the game developers responsibility to negotiate terms with a collaborating artist.
+
+*ATF Members*
+
+There will be 7 initial signers for the ATF multi-sig wallet:
+
+* jarrod | aavegotchistats.com#9686
+
+* Gotchinomics#4936
+
+* Slick#2526
+
+* shah#0369
+
+* PG#0811
+
+* Scrooger
+
+* Hefe
+
+These members have all actively participated in the Aavegotchi community for over a year now, come from different backgrounds and consist of experienced developers, security experts and gamers:
+
+Transactions will require 4 out 7 signers to approve before they can be processed.
+
+The ATF multi-sig treasury wallet will be used to:
+
+* Control distribution of rewards from AGIP16 100k GHST Staking,
+
+* Convert GHST to and from wapGHST for GLTR staking, noting the following: The staked ratio to be managed at the ATF’s discretion, and, only the wapGHST pool will be used to stake for GLTR for now but will review this as the greater Aavegotchi protocol and DAO evolves
+
+* Drawdown on 100K player rewards to purchase Aavegotchi NFT assets from the Baazaar to distribute as player rewards: Maximum of 100 GHST for each stress test event; Maximum of 500 GHST for each xp/release event
+
+* Minting Fake Gotchi Card art work to be used as player rewards
+
+*Conclusion*
+
+So what do you think? Should we form the Aarcade Taask Force this time Anon?
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128/47?u=jarrod)
+
+Option 1: Create the ATF
+
+Option 2: Don’t Create the ATF
+
+**Voting Period:** 3 - 11 January 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x123768584b0e878a6466a293e402702de7427f0657ea24fd60d71589d0b3003e)
+
+<hr>
+
+### Update the Template to Require the Use of ‘Weighted Voting’
+**Aavegotchi Improvement Proposal #55**
+
+**Proposal Summary:**
+
+I'd like to propose that we update the template for proposals to require all future proposals to use the voting system 'weighted voting' (even for simple yes/no proposals). Weighted voting is what was used in the AavegotchiDAO Foundation election CoreProp.
+
+*Effect:*
+
+1. Using weighted voting, sub-DAOs like GotchiVault will be able to vote in a way that accurately reflects the outcomes of their sister proposals.
+
+2. People will be able to show slight preferences, or even indifference, by splitting their own votes; even on yes/no proposals.
+
+*Goals:*
+
+1. A more accurate reflection of VP.
+
+2. Lessen concerns about large sub-DAOs being able to determine a proposal's outcome by themselves. For example, when GotchiVault does not split it's vote, they basically pick the winning choice of any proposal that reaches a quorum of about 3M or more. By giving them the ability to fine-tune their VP to their sister-proposal's results, there would be less concerns from DAO members about large sub-DAOs accumulating VP.
+
+*Risks:*
+
+1. Even if we require the use of weighted voting for all future proposals, we can't force sub-DAOs to utilize it in a democratic way. They still might decide to put all their VP behind the winning choice of their sister proposal. While this is completely up to them, there is little downside for the DAO in giving them that choice (i.e. enabling them to split their votes more accurately).
+
+2. Weighted voting might seem unfamiliar at first. However, we've recently utilized this voting system for the AavegotchiDAO Foundation election, and I have yet to see any complaints about the system being too complicated for people to use. The way that snapshot implemented it, is very intuitive, so 'weighted voting' being unfamiliar seems to be a negligible concern.
+
+3. Could potentially increase uninformed voting. Having to make a choice is sometimes hard. Especially because snapshot allows anyone to check all your past votes. So one should feel a sense of responsibility when casting one's vote. Using weighted voting we could see some people splitting their vote equally for all available choices. While this could reflect true indifference, it could also be a way for people to get XP while avoiding responsibility for any outcome. So no reason to read up on what's going on, just split the vote and get XP. While this might seem like a valid concern, I don't believe it is. There are always some uninformed people voting with their guts. People who care enough about their reputation to vote 50/50 to avoid responsibility for their choice (instead of just picking one of the options), but don't care enough to read up on their choices and pick what they believe is the best option, are likely a negligible minority.
+
+*Alternative:*
+
+Not changing the template.
+
+*Related material:*
+
+Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+
+Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/update-the-template-to-require-the-use-of-weighted-voting/4569)
+
+Option 1: Require Weighted Voting
+
+Option 2: Do Not Change the Template
+
+**Voting Period:** 3 - 11 January 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xcae82273be9b783832d85214303e0f9f52e2220cedd5acc254b81f5b9457bae7)
+
+<hr>
+
+### Fund Alchemica Spending Competition
+**Aavegotchi Improvement Proposal #56**
+
+**Proposal Summary:**
+
+Hey frens,
+
+This has been a long time in the works but we’re finally getting ready to launch the first Gotchiboard competition - Alchemica spending season 1.
+
+This will be hosted on [https://gotchiboard.com/](https://gotchiboard.com/) - a DAO funded project
+
+The competition will rank which addresses have spent the most alchemica. There will be 4 one-week rounds and a total of 80k GHST up for grabs!
+
+Pixelcraft have already confirmed they will provide 25k GHST and this proposal is to fund a further 55k GHST from the Gotchiverse player rewards wallet.
+
+Full details and rules can be found in the forum post.
+
+The aims of the competition are:
+
+* Incentivise Alchemica and GLTR spending to reduce the circulating supply before PvP
+
+* Provide a fun gamified way for guilds and individuals to build their farms
+
+* Have an entertaining and frenly competition for all to participate in or observe
+
+Thank you for your support frens and look forward to battling it out in the competition.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiboard-alchemica-competition/4571)
+
+Option 1: Yes, fund the competition
+
+Option 2: No, do not fund the competition
+
+**Voting Period:** 3 - 11 January 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8802a8883ff724f80752cdcfde817b4fdae48d7bc8d7ba7c47e9ed7106d67ee9)
 
 <hr>
 
