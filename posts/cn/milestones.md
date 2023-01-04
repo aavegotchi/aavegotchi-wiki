@@ -7,6 +7,11 @@ contributors:
   - "007"
 ---
 
+## [AGIP 51 revote. Vote on AGIPs 54-56](https://blog.aavegotchi.com/vote-agip-51-54-55-56/)
+* Revote on AGIP 51 - Election for DAO Foundation’s Directors/Multisig-Signers
+* 3 more completely new AGIPs to vote on!
+<p></p>
+
 ## [Aavegotchi Forge: SOON!](https://blog.aavegotchi.com/the-forge-is-coming-blacksmithing-skill-new-wearables-and-a-way-to-combat-inflation/)
 * The Aavegotchi Forge is coming soon!
 * Familiarize yourself with Alloys and Essences!
