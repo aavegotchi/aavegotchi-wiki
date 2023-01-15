@@ -6,6 +6,11 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
+* The Aavegotchi Forge will be launching soon!
+* Get the lowdown on how to forge and smelt here!
+<p></p>
+
 ## [AGIP 51 revote. Vote on AGIPs 54-56](https://blog.aavegotchi.com/vote-agip-51-54-55-56/)
 * Revote on AGIP 51 - Election for DAO Foundation’s Directors/Multisig-Signers
 * 3 more completely new AGIPs to vote on!
