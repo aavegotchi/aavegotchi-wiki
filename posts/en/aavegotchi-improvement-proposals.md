@@ -2355,6 +2355,8 @@ Option 13: Mycaleum#8283
 
 **Results:**
 
+table_agip51Revote
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x5f3b6ff62ae4b8535e057b4f3af2c85ec93762dac95031a014c409969e3a0fc8)
 
 <hr>
@@ -2554,6 +2556,8 @@ Option 2: Don’t Create the ATF
 
 **Results:**
 
+table_agip54
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x123768584b0e878a6466a293e402702de7427f0657ea24fd60d71589d0b3003e)
 
 <hr>
@@ -2605,6 +2609,8 @@ Option 2: Do Not Change the Template
 
 **Results:**
 
+table_agip55
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xcae82273be9b783832d85214303e0f9f52e2220cedd5acc254b81f5b9457bae7)
 
 <hr>
@@ -2645,6 +2651,8 @@ Option 2: No, do not fund the competition
 **Voting Period:** 3 - 11 January 2023
 
 **Results:**
+
+table_agip56
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8802a8883ff724f80752cdcfde817b4fdae48d7bc8d7ba7c47e9ed7106d67ee9)
 

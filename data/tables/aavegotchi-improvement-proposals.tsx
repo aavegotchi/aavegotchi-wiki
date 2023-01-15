@@ -667,6 +667,29 @@ export const tables
         },
 		
 		{
+            tableName: "agip51Revote",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Mori", "3,200,000 GHST (17.96%)"],
+					["Nofuturistic", "3,100,000 GHST (17.31%)"],
+					["Mycaleum", "2,000,000 GHST (11.18%)"],
+					["Notorious_BTC", "1,900,000 GHST (10.62%)"],
+					["Choyna", "1,700,000 GHST (9.77%)"],
+					["Kokusho", "1,400,000 GHST (7.77%)"],
+					["Maxicrouton", "1,200,000 GHST (6.77%)"],
+					["Brillz", "1,100,000 GHST (6.00%)"],
+					["CryptoGotchi", "865,000 GHST (4.84%)"],
+					["Sirlinkiest", "500,000 GHST (2.8%)"],
+					["Rikige", "324,000 GHST (1.81%)"],
+					["Zaunzi", "296,000 GHST (1.66%)"],
+					["Zeitgeist", "268,000 GHST (1.5%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "agip52",
             tableCaption: "",
             tableData: {
@@ -687,6 +710,42 @@ export const tables
                 data: [
                     ["Do not implement", "12,000,000 GHST (60.18%)"],
 					["Implement orig kinship mechanics", "7,700,000 GHST (39.82%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip54",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Create the ATF", "17,000,000 GHST (98.09%)"],
+					["Don't Create the ATF", "328,000 GHST (1.91%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip55",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Require Weighted Voting", "17,000,000 GHST (96.75%)"],
+					["Do Not Change the Template", "558,000 GHST (3.25%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip56",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund the competition", "16,000,000 GHST (86.73%)"],
+					["No, do not fund the competition", "2,400,000 GHST (13.27%)"]
 				]
             }
         },
