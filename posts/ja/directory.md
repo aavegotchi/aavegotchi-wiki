@@ -11,7 +11,9 @@ Avegotchi Wikiのページ一覧です：
 
 * [アーンバサダー（Aambassador）](/aambassador)
 
-* [アーキテクト（Aarchitect）](/aarchitect)
+* [Aarcade Taask Force](/aarcade-taask-force)
+
+* [アーキテクト](/aarchitect)
 
 * [Aarena](/aarena)
 
