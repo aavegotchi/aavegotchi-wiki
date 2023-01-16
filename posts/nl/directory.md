@@ -11,6 +11,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Ambassadeurs](/aambassador)
 
+* [Aarcade Taask Force](/aarcade-taask-force)
+
 * [Aarchitecten](/aarchitect)
 
 * [Aarena](/aarena)
