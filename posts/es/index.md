@@ -28,6 +28,7 @@ Dirígete a [Introducción](/introduction) para obtener una visión general de a
 * [Rarity Farming](/rarity-farming) -- ¡Juega a Aavegotchi y gana recompensas!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Otros enlaces útiles
 
