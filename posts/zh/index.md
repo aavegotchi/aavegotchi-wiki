@@ -28,6 +28,7 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## 其它有用連結
 
