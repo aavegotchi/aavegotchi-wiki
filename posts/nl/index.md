@@ -28,6 +28,7 @@ Ga naar [Introductie](/introduction) voor een hoogstaand overzicht van het Aaveg
 * [Rarity Farming](/rarity-farming) -- Speel Aavegotchi en verdien beloningen!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Andere nuttige pagina's
 
