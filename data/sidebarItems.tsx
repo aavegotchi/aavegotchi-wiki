@@ -113,6 +113,10 @@ export const items: Category[] = [
 			{
 				name: "Aarena",
 				href: "aarena"
+			},
+			{
+				name: "Forge",
+				href: "forge"
 			}
         ]
     },
