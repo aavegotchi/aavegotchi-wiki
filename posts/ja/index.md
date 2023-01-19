@@ -28,6 +28,7 @@ Aavegotchiのゲームの概要については、「[はじめに](/introduction
 * [レアリティ・ファーミング](/rarity-farming) -- Aavegotchiをプレイして報酬をゲットしよう!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## その他の便利なページ
 
