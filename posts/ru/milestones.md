@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Aavegotchi has a new CMO!](https://blog.aavegotchi.com/top-metaverse-marketing-executive-joins-aavegotchi-as-chief-marketing-officer/)
+* Meet Nigel Carlos, the man who helped propel Alien Worlds to the top of the DappRadar rankings!
+<p></p>
+
 ## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
 * The Aavegotchi Forge will be launching soon!
 * Get the lowdown on how to forge and smelt here!
