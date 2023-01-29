@@ -67,6 +67,16 @@ contributors:
 <li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
 <li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
 <li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
+<li><a href=#create-aavegotchidao-foundation>Create AavegotchiDAO Foundation</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers>Election for DAO Foundation’s 9 Directors/Multisig-Signers</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers--revote->Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)</a></li>
+<li><a href=#rarity-farming-season-5>Rarity Farming Season 5</a></li>
+<li><a href=#channel-alchemica-by-burning-kinship>Channel Alchemica by Burning Kinship</a></li>
+<li><a href=#creating-the-aarcade-taask-force--atf->Creating the Aarcade Taask Force (ATF)</a></li>
+<li><a href=#update-the-template-to-require-the-use-of--weighted-voting->Update the Template to Require the Use of ‘Weighted Voting’</a></li>
+<li><a href=#fund-alchemica-spending-competition>Fund Alchemica Spending Competition</a></li>
+<li><a href=#establish-the--core-framework--guiding-wearable-release>Establish the “Core Framework” Guiding Wearable Release</a></li>
+<li><a href=#launch-round-2-parcel-vrf-rolls>Launch Round 2 Parcel VRF Rolls</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2003,6 +2013,726 @@ Option 2: Do Nothing
 table_agip49
 
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
+
+<hr />
+
+### Create AavegotchiDAO Foundation
+**Aavegotchi Improvement Proposal #50**
+
+**提案の要約**
+
+AavegotchiDAO was summoned as a 100% on-chain DAO in September 2020 via the deployment of the GHST bonding curve. Since then, the DAO has matured into one of the world’s most active with over forty successful AGIPs passed and extremely healthy metrics on Snapshot. Over this period we also graduated across our DAO’s roadmap, going from DAO 1.0 into the more experimental period known as Cocoon, our precursor to Metamorphosis (AKA DAO 2.0). Achieving Metamorphosis requires the DAO to further decentralize and accept more responsibilities currently guarded by the original summoners and Pixelcraft Studios.
+
+Today we propose the next major step forward by suggesting it is time for AavegotchiDAO to add an off-chain presence to our decentralized autonomous organization. The following proposal is rooted in months of research and interfacing with a variety of legal advisors. We also take the practices of leading peers such as ENS and Sushi into consideration, opting for Foundation formation in the Cayman Islands coupled with on-chain governance being secured as primary via the Foundation’s Constitution.
+
+My proposal is for us to form the AavegotchiDAO Foundation in the Cayman Islands as soon as possible by following these steps:
+
+* Gather all interested in serving as one of nine Directors on the Foundation. These nine Directors simultaneously are seated on the Foundation’s newly formed multisig wallet. All serving must be KYC’d.
+
+* Host election via Snapshot where the nine most voted for shall serve as Directors of the Foundation until further notice (The DAO should likely flesh out details for term length etc with a separate AGIP at a later date). The election shall happen in parallel to this proposal’s CoreProp.
+
+* Submit the nine fully KYC’d Directors details to our legal counsel from LEX DAO so that they can immediately begin Foundation formation. This will be completed in days, not weeks.
+
+* Upon formation of the Foundation, the Directors shall create the new Foundation’s primary multisig using Gnosis.
+
+* Pixelcraft Studios shall transfer DAO Treasury multisig funds to the Foundation multisig, including DAI, GHST, and Alchemica on both Ethereum and Polygon networks.
+
+* The Foundation is thus formed, ready to execute transactions according to the will of AavegotchiDAO. Further definitions of responsibilities, scope, goals and limits can be defined by the DAO at a later date.
+
+**FOUNDATION DETAILS**
+
+*Entity*
+
+* A Cayman Islands foundation with a board consisting of 9 Directors, who are also the multisig signers of the DAO Treasury wallet.
+
+* Legal Counsel shall arrange a local officer to act as secretary fulfilling basic administrative requirements until further notice.
+
+* Legal Counsel shall arrange a local corporate secretarial service to assist with Foundation formation, documentation and production of financial statements.
+
+*DAO Treasury*
+
+* All DAO treasury funds present and future shall be transferred to the Board’s multisig.
+
+* The GHST Bonding Curve Council tokens could potentially also be transferred to the multisig signers, via a new AGIP proposal.
+
+* Eventually, all protocol contracts could be owned by this multisig, or if that is deemed not ideal, could be owned by the DAO itself (onchain voting) with the Board multisig action as a last resort Guardian to prevent malicious transactions.
+
+*Bank Account*
+
+Upon formation of the Foundation, legal counsel will confer with our corporate secretary to establish a Cayman Island’s bank account on the Foundation’s behalf. While not immediately useful, we have requested that this bank account be opened so as to futureproof the DAO to be able to natively settle any off-chain expenses (tradfi subscription fees, service providers, etc).
+
+*Board of Directors*
+
+Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Paid position starting at 8000 GHST per year, paying 2000 GHST to each Directory directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+*The Officer*
+
+The Foundation also requires at least one Officer to serve an official capacity for signing off-chain documentation. Legal offers a package to deliver one local Officer to fulfill this role. This is not a role for advocacy so this Officer will simply execute signatures at the direction of the Directors. Of course, AavegotchiDAO can always revisit or even expand Officer roles at any point.
+
+*The Constitution*
+
+Legal Counsel will draft and supply a first version of a Constitution that takes best practices from fellow DAOs into consideration. Counsel will submit this Constitution in the form of a commentable Google Sheet for our community to give feedback and suggest changes.
+
+Counsel and the DAO shall go back and forth in up to three drafts before the Constitution is sent to Snapshot for a three-day CoreProp regarding ratification.
+
+If ratification fails, another two drafts shall be edited before re-submitting for another CoreProp vote. This process continues until a ratification of the Constitution is achieved.
+
+Due to the critical nature of this CoreProp and the fact that it skips the SigProp step, the CoreProp vote shall require a voting result with those in approval at 66% or greater.
+
+*Benefits of Formation*
+
+* Independence; greater separation of Pixelcraft Studios from AavegotchiDAO
+
+* Board can execute proposals on behalf of the DAO (Liquidity provision, GHST staking, funding Dework, etc.)
+
+*Risks of Formation*
+
+* More responsibility on AavegotchiDAO governance
+
+* More exposure to any future policy shifts specifically in the Cayman Islands jurisdiction
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Option 1: Yes, let’s form AavegotchiDAO Foundation
+
+Option 2: No, let’s wait and discuss more
+
+**Voting Period:** 27 November - 4 December 2022
+
+**結果:**
+
+table_agip50
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3)
+
+<hr />
+
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers
+**Aavegotchi Improvement Proposal #51**
+
+**提案の要約**
+
+This COREProp Will serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Director is a paid position starting at 8000 GHST per year, paying 2000 GHST to each Director directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
+
+Their first order of business once elected will be creating that multisig.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
+
+* CryptoGotchi#9089
+
+* Maxicrouton#1596
+
+* Mori#5912
+
+* Nofuturistic#1972
+
+* Zaunzi#1831
+
+* PG#0811
+
+* MichaelF#0901
+
+* yanik#0015
+
+* Choyna#0001
+
+* Rikige#0073
+
+* fifoooo#8782
+
+* cookheisenberg#9322 (SirLinkiest)
+
+* notorious_BTC#2084
+
+* brillz#7019
+
+* Mycaleum#8283
+
+* 0xzfi#4880
+
+* Zeitgeist#6030
+
+* Umami#9686
+
+* Mcabandonpants#1498
+
+* Kokusho#9945
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: PG#0811
+
+Option 7: MichaelF#0901
+
+Option 8: yanik#0015
+
+Option 9: Choyna#0001
+
+Option 10: Rikige#0073
+
+Option 11: fifoooo#8782
+
+Option 12: cookheisenberg#9322 (SirLinkiest)
+
+Option 13: notorious_BTC#2084
+
+Option 14: brillz#7019
+
+Option 15: Kokusho#9945
+
+**Voting Period:** 27 November - 4 December 2022
+
+**結果:**
+
+table_agip51
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x1b8438ec161f2b18dad49ebfcc9524340d030f4ec69a5fd71f732290ccb51bb4)
+
+<hr />
+
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)
+**Aavegotchi Improvement Proposal #51 (Revote)**
+
+**提案の要約**
+
+This CoreProp shall serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers discussed in AGIP 50. Those elected shall only serve if AGIP 50 passes, otherwise this election is to be deemed null and void.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig.
+
+*FOUNDATION MULTISIG SETTINGS*
+
+* 5/9 signers in order to execute.
+
+* Directors shall use Gnosis to set up the multisig.
+
+*COMPENSATION*
+
+* Each Director is a compensated from the Foundation Multisig for a total of 8000 GHST annually.
+
+* Compensation shall be distributed once every 90 days, paying 2000 GHST to each Director directly from the Foundation multisig.
+
+*RESPONSIBILITIES*
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
+
+*COMPETENCY*
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have their name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* Be familiar with creating transactions and signing on Gnosis Safe
+
+*ELECTION*
+
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
+
+* CryptoGotchi#9089
+
+* Maxicrouton#1596
+
+* Mori#5912
+
+* Nofuturistic#1972
+
+* Zaunzi#1831
+
+* Choyna#0001
+
+* Rikige#0073
+
+* sirlinkiest#9322
+
+* notorious_BTC#2084
+
+* brillz#7019
+
+* Kokusho#9945
+
+* Zeitgeist#6030
+
+* Mycaleum#8283
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/agip-51-election-for-dao-foundation-s-9-directors-multisig-signers/4563)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: Choyna#0001
+
+Option 7: Rikige#0073
+
+Option 8: sirlinkiest#9322
+
+Option 9: notorious_BTC#2084
+
+Option 10: brillz#7019
+
+Option 11: Kokusho#9945
+
+Option 12: Zeitgeist#6030
+
+Option 13: Mycaleum#8283
+
+**Voting Period:** 3 - 10 January 2023
+
+**結果:**
+
+table_agip51Revote
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x5f3b6ff62ae4b8535e057b4f3af2c85ec93762dac95031a014c409969e3a0fc8)
+
+<hr />
+
+### Rarity Farming Season 5
+**Aavegotchi Improvement Proposal #52**
+
+**提案の要約**
+
+Gm frens,
+
+I come to you bearing the anticipated S5 sigprop!
+
+In the spirit of “if it ain’t broke don’t fix it”, I propose we keep things business as usual, since I believe our community has been having a bit of "change fatigue" of late - please refresh yourselves on the params of the past four seasons below:
+
+4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury:
+
+* 70% BRS
+
+* 20% Kinship
+
+* 10% XP
+
+Top 7.5k Gotchis (30%)
+
+Ideal launch period in the mind of the author: after the deployment of The Forge, or January 2023, whichever comes first.
+
+Thank you as always for your consideration and your votes.
+
+Stay spooky frens!
+
+Changes from Sigprop:
+
+The author has agreed that the next Rarity Farming Season should come after the deployment of The Forge, or January 2023, whichever comes first.
+
+The source of funds has been updated from Gotchiverse Player Rewards wallet to DAO treasury.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/rf-szn-5-kickoff/4424)
+
+Option 1: Yes, have S5 RF
+
+Option 2: No, Don’t have S5 RF
+
+Option 3: Yes, but with different params
+
+**Voting Period:** 27 November - 4 December 2022
+
+**結果:**
+
+table_agip52
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x84119ecd3be2cd0fd2382ffaf2db0490967b3456ff19695e6629fdeeb9058dbb)
+
+<hr />
+
+### Channel Alchemica by Burning Kinship
+**Aavegotchi Improvement Proposal #53**
+
+**提案の要約**
+
+I propose to charge -4 kinship each time gotchi is channelling the altar.
+
+This change gives a gotchi a choice to:
+
+(1) accumulate kinship (+2 kinship /day) and improve the character farming specs
+
+(2) take alchemica now and lose on the yield multiplier
+
+By implementing this elegant and relatively simple solution, we are not only changing the alchemica dynamics and cutting the efficient inflation by 50% (in the wild should be closer to 60/40 or 40/60, depending on market conditions), but also making a game more strategic and exciting for long term players.
+
+Such change is an excellent alternative to the current economic proposals and additionally will reduce the MATIC spend for channelling in half.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/kinship-og-kinship-economical-proposal/4524)
+
+Option 1: Implement original kinship mechanics
+
+Option 2: Do not implement
+
+**Voting Period:** 27 November - 4 December 2022
+
+**結果:**
+
+table_agip53
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0xfb3766f05a6990514c618db06c2a74d8fd36298694740799e2dd23424a297115)
+
+<hr />
+
+### Creating the Aarcade Taask Force (ATF)
+**Aavegotchi Improvement Proposal #54**
+
+**提案の要約**
+
+*Background*
+
+This SigProp was previously created back in June 2022, the proposal did not meet the quorum at the time. This proposal is being re-created as there has been some traction on games developed by community members that would like to utilize player rewards acquired through AGIP16.
+
+*はじめに*
+
+The open-source nature of the Aavegotchi protocol combined with its on-chain assets provides an excellent foundation for external development efforts. More specifically, third-party developed games can greatly expand the usability of Aavegotchi assets and provide growth to the entire project.
+
+*問題*
+
+Through AGIP 16, the DAO staked 100k GHST to generate rewards that could be given out to the wider Aavegotchi community of players for participating in mini-game events. To date, there has been minimal usage of these rewards. This is in part due to lack of:
+
+* Clarity on how game developers can apply for (and be sent) player rewards for their game events,
+
+* A game development focused task force that can help review applications for these player rewards, and,
+
+* New games!!
+
+*Solution*
+
+This proposal aims to introduce and confirm the Aarcade Taask Force (ATF) who will:
+
+* Control the multi-sig wallet that distributes player rewards to the community and developers,
+
+* Review applications for player rewards to be used in developer games, and
+
+* Provide a supportive platform for developers to discuss, troubleshoot and test their games in the ATF’s Aavegotchi Aarcade discord server.
+
+*End Goal & Benefit*
+
+The ATF’s objective is to help incentivize the development of more mini-games of a higher quality for the Aavegotchi community to play, share and enjoy. The natural benefit of this is increased utility and growth for the Aavegotchi protocol and its assets. By taking active custody of the 100k GHST from AGIP16, the ATF firmly believes it can help more player rewards get to the community and spur the next generation of Aavegotchi mini-games!
+
+*Potential Risks*
+
+As we are in the early stages of forming the Aarcade Task Force some potential risks include:
+
+* Mismanagement, theft or loss of rewards (multi-sig wallet helps mitigate this),
+
+* ATF members becoming inactive (signer numbers have been kept low to help ensure the multi-sig remains agile)
+
+*Amendment to AGIP 16*
+
+AGIP16 did not originally allow for usage of the 100k GHST to directly purchase assets from the Aavegotchi bazaar.
+
+The ATF proposes that for successful stress test and xp/release game events, the following maximum drawdown amounts from the 100k GHST pool can be made (in agreeance with the game developer hosting an event) to purchase additional prizes from the Aavegotchi bazaar to be distributed to players:
+
+* 100 GHST per stress test game event
+
+* 500 GHST per xp/release game event
+
+Note: Purchases will only be made via the Aavegotchi bazaar for maximum transparency.
+
+*Fake Gotchi Cards (FGC’s)*
+
+Frens generated by the AGIP16 100k GHST were used to enter the last raffle draw for Fake Gotchi Cards netting a total of 87 burn cards that are now available for use as mini-game player rewards. Under this proposal, these cards would also be transferred to the ATF multi-sig.
+
+The ATF intends to allow one card be used per game event to mint a collection that can be distributed to players as the game developer of that event sees fit. A typical use case could be that 100 pieces of art are minted with one FGC and then distributed to the top 100 addresses in a game leaderboard event.
+
+Note: Compensation for artists collaborating on FGC works will be from funding sources outside of the AGIP16 100k GHST (and its rewards pool) and is outside the ATF’s scope. It will be the game developers responsibility to negotiate terms with a collaborating artist.
+
+*ATF Members*
+
+There will be 7 initial signers for the ATF multi-sig wallet:
+
+* jarrod | aavegotchistats.com#9686
+
+* Gotchinomics#4936
+
+* Slick#2526
+
+* shah#0369
+
+* PG#0811
+
+* Scrooger
+
+* Hefe
+
+These members have all actively participated in the Aavegotchi community for over a year now, come from different backgrounds and consist of experienced developers, security experts and gamers:
+
+Transactions will require 4 out 7 signers to approve before they can be processed.
+
+The ATF multi-sig treasury wallet will be used to:
+
+* Control distribution of rewards from AGIP16 100k GHST Staking,
+
+* Convert GHST to and from wapGHST for GLTR staking, noting the following: The staked ratio to be managed at the ATF’s discretion, and, only the wapGHST pool will be used to stake for GLTR for now but will review this as the greater Aavegotchi protocol and DAO evolves
+
+* Drawdown on 100K player rewards to purchase Aavegotchi NFT assets from the Baazaar to distribute as player rewards: Maximum of 100 GHST for each stress test event; Maximum of 500 GHST for each xp/release event
+
+* Minting Fake Gotchi Card art work to be used as player rewards
+
+*Conclusion*
+
+So what do you think? Should we form the Aarcade Taask Force this time Anon?
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128/47?u=jarrod)
+
+Option 1: Create the ATF
+
+Option 2: Don’t Create the ATF
+
+**Voting Period:** 3 - 11 January 2023
+
+**結果:**
+
+table_agip54
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x123768584b0e878a6466a293e402702de7427f0657ea24fd60d71589d0b3003e)
+
+<hr />
+
+### Update the Template to Require the Use of ‘Weighted Voting’
+**Aavegotchi Improvement Proposal #55**
+
+**提案の要約**
+
+I'd like to propose that we update the template for proposals to require all future proposals to use the voting system 'weighted voting' (even for simple yes/no proposals). Weighted voting is what was used in the AavegotchiDAO Foundation election CoreProp.
+
+*Effect:*
+
+1. Using weighted voting, sub-DAOs like GotchiVault will be able to vote in a way that accurately reflects the outcomes of their sister proposals.
+
+2. People will be able to show slight preferences, or even indifference, by splitting their own votes; even on yes/no proposals.
+
+*Goals:*
+
+1. A more accurate reflection of VP.
+
+2. Lessen concerns about large sub-DAOs being able to determine a proposal's outcome by themselves. For example, when GotchiVault does not split it's vote, they basically pick the winning choice of any proposal that reaches a quorum of about 3M or more. By giving them the ability to fine-tune their VP to their sister-proposal's results, there would be less concerns from DAO members about large sub-DAOs accumulating VP.
+
+*Risks:*
+
+1. Even if we require the use of weighted voting for all future proposals, we can't force sub-DAOs to utilize it in a democratic way. They still might decide to put all their VP behind the winning choice of their sister proposal. While this is completely up to them, there is little downside for the DAO in giving them that choice (i.e. enabling them to split their votes more accurately).
+
+2. Weighted voting might seem unfamiliar at first. However, we've recently utilized this voting system for the AavegotchiDAO Foundation election, and I have yet to see any complaints about the system being too complicated for people to use. The way that snapshot implemented it, is very intuitive, so 'weighted voting' being unfamiliar seems to be a negligible concern.
+
+3. Could potentially increase uninformed voting. Having to make a choice is sometimes hard. Especially because snapshot allows anyone to check all your past votes. So one should feel a sense of responsibility when casting one's vote. Using weighted voting we could see some people splitting their vote equally for all available choices. While this could reflect true indifference, it could also be a way for people to get XP while avoiding responsibility for any outcome. So no reason to read up on what's going on, just split the vote and get XP. While this might seem like a valid concern, I don't believe it is. There are always some uninformed people voting with their guts. People who care enough about their reputation to vote 50/50 to avoid responsibility for their choice (instead of just picking one of the options), but don't care enough to read up on their choices and pick what they believe is the best option, are likely a negligible minority.
+
+*Alternative:*
+
+Not changing the template.
+
+*Related material:*
+
+Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+
+Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/update-the-template-to-require-the-use-of-weighted-voting/4569)
+
+Option 1: Require Weighted Voting
+
+Option 2: Do Not Change the Template
+
+**Voting Period:** 3 - 11 January 2023
+
+**結果:**
+
+table_agip55
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0xcae82273be9b783832d85214303e0f9f52e2220cedd5acc254b81f5b9457bae7)
+
+<hr />
+
+### Fund Alchemica Spending Competition
+**Aavegotchi Improvement Proposal #56**
+
+**提案の要約**
+
+Hey frens,
+
+This has been a long time in the works but we’re finally getting ready to launch the first Gotchiboard competition - Alchemica spending season 1.
+
+This will be hosted on [https://gotchiboard.com/](https://gotchiboard.com/) - a DAO funded project
+
+The competition will rank which addresses have spent the most alchemica. There will be 4 one-week rounds and a total of 80k GHST up for grabs!
+
+Pixelcraft have already confirmed they will provide 25k GHST and this proposal is to fund a further 55k GHST from the Gotchiverse player rewards wallet.
+
+Full details and rules can be found in the forum post.
+
+The aims of the competition are:
+
+* Incentivise Alchemica and GLTR spending to reduce the circulating supply before PvP
+
+* Provide a fun gamified way for guilds and individuals to build their farms
+
+* Have an entertaining and frenly competition for all to participate in or observe
+
+Thank you for your support frens and look forward to battling it out in the competition.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiboard-alchemica-competition/4571)
+
+Option 1: Yes, fund the competition
+
+Option 2: No, do not fund the competition
+
+**Voting Period:** 3 - 11 January 2023
+
+**結果:**
+
+table_agip56
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x8802a8883ff724f80752cdcfde817b4fdae48d7bc8d7ba7c47e9ed7106d67ee9)
+
+<hr />
+
+### Establish the “Core Framework” Guiding Wearable Release
+**Aavegotchi Improvement Proposal #57**
+
+**提案の要約**
+
+The Core Framework: A Proposal for Responsibly Managing Aavegotchi Wearables Emissions
+
+Core Framework Written Summary: [https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/](https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/)
+
+Core Framework Ratios, Calculations and Proposed Sale: [https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/](https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/)
+
+These documents, prepared by The Forge Team, constitutes our recommended framework for the DAO to responsibly manage the future emissions of additional cores, and thus the increase of wearables supply.
+
+The supply of cores, as defined in The Forge Litepaper, is the lever by which the protocol controls how many wearables can be forged on a rarity and slot basis. We are proposing three key ratios to be set by the DAO and used for managing the supply of cores in the future:
+
+1. The ratio of total wearables to total gotchis. The Forge Team proposes an increase in the rate of wearables to gotchis from current state of 4.2/gotchi  to 4.3/gotchi (approximately 2.6% increase).
+
+2. The ratio of each rarity tier to the total number of wearables. The Forge Team is not proposing any modifications to the ratios between rarity tiers.
+
+3. The ratio of each wearable slot to the total number of wearables. The Forge Team recommends the following slot ratios:
+
+table_slotRatios
+
+We propose that the DAO should use the above key ratios to determine when to release additional cores, as well as how new cores should be distributed between rarities and slots. These ratios result in an initial addition of 2158 total cores across 15 different core types (out of 36 total).
+
+The Core Framework will need to be maintained to include recent, relevant market data and evolutions in the market and the Aavegotchi protocol. Additional Core or Alloy sales must pass a core proposal outlining the specific sale and reasoning. If this Core Framework is accepted by the DAO, it will be included in a large Core Proposal to launch The Forge.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, Accept the Core Framework
+
+Option 2: No. Reject this Framework
+
+**Voting Period:** 26 January - 3 February 2023
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x1930189873f7591fa60fc108d632c0f11fc35d8fff3eaccc349d05756c54c321)
+
+<hr />
+
+### Launch Round 2 Parcel VRF Rolls
+**Aavegotchi Improvement Proposal #58**
+
+**提案の要約**
+
+I propose that we implement the round 2 parcel roll by early February.
+
+The  predominant discussions and farming emissions design specifically outlined a re-roll at 6 months. Many of the most invested and long-standing members of the Gotchiverse specifically designed their farming strategy around this shared understanding. Numerous DAO members helped contribute to the current recipes and mathematics specifically with that timetable in mind.
+
+There are additional reasons to implement the round 2 rolls:
+
+* We have an opportunity to meet our commitments as a DAO, even if the Gotchiverse deliverable of a great battle is not quite ready
+
+* We can set a precedent for supporting asset holders and contributing members of our ecosystem
+
+* We will encourage further investment from current community members and be a more attractive investment to newcomers if we establish a pattern of reliability
+
+* Gotchiverse land owners have been especially harmed by macro market conditions and gotchiverse-specific market trends. This is one small effort to support those investing time and resources into the Gotchiverse
+
+* We are pushing for a higher farming to channeling ratio of alchemica emissions which this would support
+
+* It is more attractive to invest in the alchemica spending competition (and land in general) with a definitive round 2 plan
+
+* It is a targeted nerf/rug to those most supporting the ecosystem to intentionally delay rerolls
+
+* The hopeful time frame of an April Great Battle is also not definitive and susceptible to delays given the complexity of the current roadmap and desired focus on PVP
+
+There are notable potential cons to consider:
+
+* Increased overall alchemica emissions if invested farmers have round 2 alchemica to farm
+
+* Mismatch of new rounds to the anticipated lore of a Great Battle followed by the new round
+
+On the 1/8 DAO call, coderdan specifically stated it is a small dev lift to implement the next round of re-rolls, so this should not cause any major delays or change in shipping priorities. As thoroughly discussed in DAO discussion, both paths are reasonable, and I appreciate the formal DAO temperature check with this sig prop.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/second-round-vrf-rolls-for-parcels/4602)
+
+Option 1: Yes. Launch Round 2 Parcel Roll
+
+Option 2: No. Wait until the Great Battle
+
+**Voting Period:** 26 January - 2 February 2023
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x378153f1fe22c673bb57d4c421b6ef93f5562f806317950be7c189547c0458c2)
 
 <hr />
 
