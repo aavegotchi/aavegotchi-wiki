@@ -751,6 +751,22 @@ export const tables
         },
 		
 		{
+            tableName: "slotRatios",
+            tableCaption: "",
+            tableData: {
+                headers: ["Wearable Slot", "Current Supply", "Current Ratio", "Proposed Ratio"],
+                data: [
+                    ["Hands", "24968", "30.22%", "30.00%"],
+					["Head", "22557", "27.30%", "22.50%"],
+					["Body", "19778", "23.94%", "22.50%"],
+					["Eyes", "6033", "7.30%", "10.00%"],
+					["Face", "5913", "7.16%", "10.00%"],
+					["Pet", "3365", "4.07%", "5.00%"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

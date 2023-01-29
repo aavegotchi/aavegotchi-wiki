@@ -74,6 +74,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#creating-the-aarcade-taask-force--atf->Creating the Aarcade Taask Force (ATF)</a></li>
 <li><a href=#update-the-template-to-require-the-use-of--weighted-voting->Update the Template to Require the Use of ‘Weighted Voting’</a></li>
 <li><a href=#fund-alchemica-spending-competition>Fund Alchemica Spending Competition</a></li>
+<li><a href=#establish-the--core-framework--guiding-wearable-release>Establish the “Core Framework” Guiding Wearable Release</a></li>
+<li><a href=#launch-round-2-parcel-vrf-rolls>Launch Round 2 Parcel VRF Rolls</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2655,6 +2657,98 @@ Option 2: No, do not fund the competition
 table_agip56
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x8802a8883ff724f80752cdcfde817b4fdae48d7bc8d7ba7c47e9ed7106d67ee9)
+
+<hr>
+
+### Establish the “Core Framework” Guiding Wearable Release
+**Aavegotchi Improvement Proposal #57**
+
+**Proposal Summary:**
+
+The Core Framework: A Proposal for Responsibly Managing Aavegotchi Wearables Emissions
+
+Core Framework Written Summary: [https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/](https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/)
+
+Core Framework Ratios, Calculations and Proposed Sale: [https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/](https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/)
+
+These documents, prepared by The Forge Team, constitutes our recommended framework for the DAO to responsibly manage the future emissions of additional cores, and thus the increase of wearables supply.
+
+The supply of cores, as defined in The Forge Litepaper, is the lever by which the protocol controls how many wearables can be forged on a rarity and slot basis. We are proposing three key ratios to be set by the DAO and used for managing the supply of cores in the future:
+
+1. The ratio of total wearables to total gotchis.
+The Forge Team proposes an increase in the rate of wearables to gotchis from current state of 4.2/gotchi  to 4.3/gotchi (approximately 2.6% increase).
+
+2. The ratio of each rarity tier to the total number of wearables.
+The Forge Team is not proposing any modifications to the ratios between rarity tiers.
+
+3. The ratio of each wearable slot to the total number of wearables. The Forge Team recommends the following slot ratios:
+
+table_slotRatios
+
+We propose that the DAO should use the above key ratios to determine when to release additional cores, as well as how new cores should be distributed between rarities and slots. These ratios result in an initial addition of 2158 total cores across 15 different core types (out of 36 total).
+
+The Core Framework will need to be maintained to include recent, relevant market data and evolutions in the market and the Aavegotchi protocol. Additional Core or Alloy sales must pass a core proposal outlining the specific sale and reasoning. If this Core Framework is accepted by the DAO, it will be included in a large Core Proposal to launch The Forge.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, Accept the Core Framework
+
+Option 2: No. Reject this Framework
+
+**Voting Period:** 26 January - 3 February 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x1930189873f7591fa60fc108d632c0f11fc35d8fff3eaccc349d05756c54c321)
+
+<hr>
+
+### Launch Round 2 Parcel VRF Rolls
+**Aavegotchi Improvement Proposal #58**
+
+**Proposal Summary:**
+
+I propose that we implement the round 2 parcel roll by early February.
+
+The  predominant discussions and farming emissions design specifically outlined a re-roll at 6 months. Many of the most invested and long-standing members of the Gotchiverse specifically designed their farming strategy around this shared understanding. Numerous DAO members helped contribute to the current recipes and mathematics specifically with that timetable in mind.
+
+There are additional reasons to implement the round 2 rolls:
+
+* We have an opportunity to meet our commitments as a DAO, even if the Gotchiverse deliverable of a great battle is not quite ready
+
+* We can set a precedent for supporting asset holders and contributing members of our ecosystem
+
+* We will encourage further investment from current community members and be a more attractive investment to newcomers if we establish a pattern of reliability
+
+* Gotchiverse land owners have been especially harmed by macro market conditions and gotchiverse-specific market trends. This is one small effort to support those investing time and resources into the Gotchiverse
+
+* We are pushing for a higher farming to channeling ratio of alchemica emissions which this would support
+
+* It is more attractive to invest in the alchemica spending competition (and land in general) with a definitive round 2 plan
+
+* It is a targeted nerf/rug to those most supporting the ecosystem to intentionally delay rerolls
+
+* The hopeful time frame of an April Great Battle is also not definitive and susceptible to delays given the complexity of the current roadmap and desired focus on PVP
+
+There are notable potential cons to consider:
+
+* Increased overall alchemica emissions if invested farmers have round 2 alchemica to farm
+
+* Mismatch of new rounds to the anticipated lore of a Great Battle followed by the new round
+
+On the 1/8 DAO call, coderdan specifically stated it is a small dev lift to implement the next round of re-rolls, so this should not cause any major delays or change in shipping priorities. As thoroughly discussed in DAO discussion, both paths are reasonable, and I appreciate the formal DAO temperature check with this sig prop.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/second-round-vrf-rolls-for-parcels/4602)
+
+Option 1: Yes. Launch Round 2 Parcel Roll
+
+Option 2: No. Wait until the Great Battle
+
+**Voting Period:** 26 January - 2 February 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x378153f1fe22c673bb57d4c421b6ef93f5562f806317950be7c189547c0458c2)
 
 <hr>
 
