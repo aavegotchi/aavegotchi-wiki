@@ -6,6 +6,16 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [Aavegotchi 2023 Roadmap!](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
+* What's in store for Aavegotchi in 2023?
+* Read all about it here!
+<p></p>
+
+## [Vote on AGIPs 57 and 58 now!](https://blog.aavegotchi.com/two-core-proposals-live/)
+* AGIP 57 — Establish the “Core Framework” Guiding Wearable Release - Forge Proposal
+* AGIP 58 — Launch Round 2 Parcel VRF Rolls
+<p></p>
+
 ## [Aavegotchi has a new CMO!](https://blog.aavegotchi.com/top-metaverse-marketing-executive-joins-aavegotchi-as-chief-marketing-officer/)
 * Meet Nigel Carlos, the man who helped propel Alien Worlds to the top of the DappRadar rankings!
 <p></p>
