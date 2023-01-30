@@ -27,7 +27,7 @@ contributors:
 
 * [Vật Trang Trí](/aesthetica)
 
-* [Cơ Chế Trưởng Thành](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
