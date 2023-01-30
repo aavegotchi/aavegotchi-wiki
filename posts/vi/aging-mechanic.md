@@ -1,8 +1,8 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Cơ Chế Trưởng Thành'
-description: 'Cơ Chế Trưởng Thành'
+title: 'Aging Mechanic'
+description: 'Aging Mechanic'
 contributors:
   - "unintelligent-nerd"
 ---
