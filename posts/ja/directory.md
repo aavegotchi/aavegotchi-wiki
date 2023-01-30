@@ -27,7 +27,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [エステティカ（Aesthetica）](/aesthetica)
 
-* [エージングメカニズム](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
