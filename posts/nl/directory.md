@@ -27,7 +27,7 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Aesthetica](/aesthetica)
 
-* [Aging Mechanisme](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
