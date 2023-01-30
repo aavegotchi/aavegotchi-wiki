@@ -22,7 +22,8 @@ Aavegotchis nacen con rasgos. ¡Al igual que tus rasgos definen quién eres como
 <li><a href=#experience>Experiencia</a></li>
 <li><a href=#level>Nivel</a></li>
 <li><a href=#haunt>Ritual</a></li>
-<li><a href=#aging-mechanic>Mecánica de envejecimiento</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 <li><a href=#trait-mappings>Mapeo de Rasgos</a></li>
 </ol>
 
@@ -95,16 +96,30 @@ Como los pioneros en el Nuevo Mundo, Aavegotchi viaja desde el Reino del Nether 
 
 Piense en Rituales como ediciones, con números de Ritual indicados en el Gotchi. No habrá diferencias de rasgos entre Rituales.
 
-## Mecánica de envejecimiento
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+Por ejemplo,. a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
+
+## Aging Mechanic
 
 [La Propuesta de Mejora 13 de Aavegotchi](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introdujo un mecanismo de envejecimiento para los Aavegotchis.
 
 Los Gotchis recibiría un pequeño impulso a su [BRS](/rarity-farming#base-rarity-score) a medida que envejecen. Esto es para contrarrestar la diferencia estadística entre los rituales y recompensar el compromiso a largo plazo.
 
-Para más información, revisa la página de [Mecánica de envejecimiento](/aging-mechanic).
+For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
 ## Mapeo de Rasgos
 
-Estos 6 rasgos son los rasgos básicos. Para convertir a Aavegotchi en un juego completo en el [Gotchiverse](/gotchiverse), necesitamos más variables con matices.
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
-Averigüe en qué se mapean estos rasgos básicos en la página [Mapeo de rasgos](/trait-mappings).
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
