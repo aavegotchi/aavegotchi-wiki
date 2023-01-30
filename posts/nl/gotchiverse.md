@@ -189,19 +189,21 @@ Gotchus Alchema kan op vier verschillende manieren uit het REALM worden verkrege
 * **Farming**: Zodra een Harvester is gebouwd, begint Alchemicaa passief verdiend te worden en gaat x hoeveelheid naar het Reservoir, **y** een hoeveelheid dat spilt in de nabije omgeving, en **z** x hoeveelheid gaat naar het Grote Portaal
 * **Harvesting**: Aavegotchis en lickquidators kunnen de kaart verkennen om losse alchemica te verzamelen die gespilt wordt door harvesting.
 
-Handel in Gotchus Alchema vindt plaats op de [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
+The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
+
+Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
 ### Gemiddeld Basis Alchemica per Parceel
 
-Vergelijkbaar met de “Portal”-mechanica in Aavegotchi, moeten REALM parcels worden onderzocht voordat ze eindelijk de hoeveelheid Alchema onthullen die erin zit. Het enquêteproces is een onchain call naar Chainlink VRF, een echt willekeurige getalsmatige generator.
+Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
 
-Wanneer de Gotchiverse wordt vrijgegeven, kunnen alle bestaande REALM Parcels worden onderzocht als hun eigenaren dat willen, of het enquêteproces kan worden uitgesteld tot een toekomstige datum.
+When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
 
-Het bereik van Alchemie dat beschikbaar is voor elk Parcel-type staat hieronder vermeld, voor de hele akte 1 en voor Ronde 1 van Akte 1, die ruwweg 25% van de Alchemica distributeerd.
+The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 
-*Merk op dat de totale Alchemica binnen een Parcel **cumulatief**is, wat betekent dat toekomstige Surveyings extra Alchemica bovenop het totaal zullen toevoegen.*
+*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
 
-table_avgBaseAlchemicaPerParcelAct1Totaal
+table_avgBaseAlchemicaPerParcelAct1Total
 
 table_avgBaseAlchemicaPerParcelAct1FirstRound
 
