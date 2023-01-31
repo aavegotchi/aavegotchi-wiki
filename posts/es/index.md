@@ -7,7 +7,7 @@ image: "iconos/introducción.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Aavegotchi Wiki</p>
 </div>
 
