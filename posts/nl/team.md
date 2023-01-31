@@ -32,7 +32,8 @@ Wil je weten wie er achter de schattige gotchis zit? We hebben het voor elkaar. 
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
-<p><a href=#nyankong---game-director>NyanKong - Game Directeur</a></p>
+<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
+<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
@@ -120,14 +121,25 @@ Mauvis is een Bouwer & Levenslange student die de afgelopen 15 jaar heeft gewerk
 
 ## Team
 
-### NyanKong - Game Directeur
+### Nigel - Chief Marketing Officer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
+<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
+</div>
+
+With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
+
+Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
+
+### NyanKong - Game Director
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
 <p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
 </div>
 
-Christian Senn, aka NyanKong of kurisu, heeft 30 jaar lang meegewerkt aan het maken van spellen met behulp van game design, kunst en animatie voor console, PC, arcade, mobiel, tablet-en VR-markten. Zijn liefde voor het creëren van interactieve entertainment houdt zijn overactieve fantasie druk, terwijl zijn noodzaak om op positieve wijze in contact te komen met teams en zijn publiek zijn sociale hart gelukkig houdt. Christian heeft de hoofdverantwoordelijkheid binnen het team van Pixelcraft om ontwerp- en ontwerpwerk te maken voor het Realmvwaarbinnen frens nog jaren kunnen verkennen en genieten.
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ### Mark - Gotchiverse Backend Lead
 
@@ -136,7 +148,7 @@ Christian Senn, aka NyanKong of kurisu, heeft 30 jaar lang meegewerkt aan het ma
 <p class="leftImageText">Mark</p>
 </div>
 
-Mark is al meer dan 15 jaar succesvol opstartup platforms met intieme teams aan het bouwen. Mark's volledige stack engineering expertise en vaardigheid om bedrijfsvisie te vertalen in bedachtzame uitgevoerde webproducten en diensten hebben bijgedragen aan talrijke succesvolle product lancering en overnames, waaronder als voormalige CIO of CoinMarketCap.
+Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
 
 ### Favabeans - Senior Cloud Architect
 
@@ -145,7 +157,7 @@ Mark is al meer dan 15 jaar succesvol opstartup platforms met intieme teams aan 
 <p class="leftImageText">Favabeans</p>
 </div>
 
-Pete Clark, aka favabeans of haussenfeffer, heeft het grootste deel van zijn 26 jaar doorgebracht in de tech industrie co-founding startups en hun software vanaf het begin te bouwen.  Hij houdt van architectuur, codering en profilering van backend voor piekprestaties en het ontwerpen en schalen van de infrastructuur waarop die diensten draaien.  Terwijl hij bij CoinMarketCap was, bouwde hij de real-time data-inname en analytics systemen en infrastructuur van het bedrijf. evenals hun websocket APIs, waarop Yahoo's cryptocurrency pagina toevallig wordt gevoed.  Hij is een vader van twee prachtige jongens, een dierliefhebber, pleziervaart en de oceaan in het algemeen.  Hij is ook een enthousiast retro videogamer, evenals een kaart en bordspeler, en... een beetje een gaming historian om op te starten! (Noem je het enige videospel in de geschiedenis, waarin Nintendo's Mario de slechte vent is?) Zijn primaire focus binnen het team Pixelcraft is het ontwerpen en coderen van de backend van de Realm en ervoor zorgen dat het schalen voor de massa's.
+Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
 
 ### Aris - Gotchiverse Frontend Lead
 
@@ -154,7 +166,7 @@ Pete Clark, aka favabeans of haussenfeffer, heeft het grootste deel van zijn 26 
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Reiziger in het hart maar op dit moment gevestigd in Roemenië midden van Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. Ik ben vanaf nul begonnen met een nietszeggend project en ik ken de ins en outs van het project als de achterkant van mijn hand. dagelijks werken aan alle realm fronts. Het Realm dev team wordt momenteel beheerd.
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
 ### Shohan - Gotchiverse Frontend
 
