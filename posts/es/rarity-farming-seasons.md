@@ -18,6 +18,7 @@ La Rarity Farming se organiza en diferentes temporadas. Aquí están los datos d
 <li><a href=#season-2>Temporada 2</a></p>
 <li><a href=#season-3>Temporada 3</a></p>
 <li><a href=#season-4>Season 4</a></p>
+<li><a href=#season-5>Season 5</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -83,6 +84,18 @@ Había 3 categorías para competir:
 * XP(10% de la piscina de recompensas / 150,000 GHST)
 
 [Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
+
+## Season 5
+
+Rarity Farming Season 5 was held from Tuesday, 13 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+
+* Rareza (70% de la piscina de recompensas / 1,050 GHST)
+
+* Fidelidad (20% de la piscina de recompensas / 300,000 GHST)
+
+* XP(10% de la piscina de recompensas / 150,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 5 Rewards](https://docs.google.com/spreadsheets/d/1_7YoQgarJWauRb1KAkU3rIi9QMCrG3Zy4VI9vv7qyCA/)
 
 ## GHST Distribution by Season
 
