@@ -11,7 +11,11 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aambassador](/aambassador)
 
+* [Aarcade Taask Force](/aarcade-taask-force)
+
 * [Aarchitectes](/aarchitect)
+
+* [Aarena](/aarena)
 
 * [Aartists](/aartist)
 
@@ -23,7 +27,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aesthetica](/aesthetica)
 
-* [Mécanique du vieillissement](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
@@ -52,6 +56,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
+
+* [Forge](/forge)
 
 * [Gaame Jaam](/gaame-jaam)
 

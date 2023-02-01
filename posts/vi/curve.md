@@ -28,8 +28,7 @@ Aragon</0> nên bài viết này cũng sẽ bàn luận về các DAICO.</p>
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Những Động Lực Trong Lượng Cung Token của Aavegotchi</a></li>
-<li><a href=#arbitrage>Kiếm lợi nhuận từ chênh lệch giá</a></li>
-<li><a href=#learn-more>Tìm hiểu thêm</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -108,13 +107,7 @@ Tình trạng lạm phát của token GHST những lệnh mua hàng tịnh trên
 
 
 
-## Kiếm lợi nhuận từ chênh lệch giá
-
-Với những ai đã hoàn thành KYC, họ sẽ có thể kiếm lợi nhuận từ sự chênh lệch giá GHST giữ token bonding curve và những DEX khác ví dụ như Uniswap và Balancer. Theo [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp), "Arbitrage là việc mua và bán một tài sản để có thể kiếm lợi nhuận từ sự khác nhau về giá giữa các thị trường. Loại giao dịch này kiếm lời bằng cách khai thác sự khác nhau về giá giữa những công cụ tài chính giống hoặc tương tự nhau trong những thị trường hoặc những dạng khác nhau. Kiếm lợi nhuận từ chênh lệch giá tồn tại khi thị trường thiếu đi sự hiệu quả và do đó không nó không tồn tại nếu tất cả thị trường vận hành một cách hoàn hảo." Điều này có thể xảy ra bởi các DEXes được trang bị những công thức Tạo Thị Trường Tự Động (AMM) riêng biệt và các lệnh mua/bán tịnh của token GHST trên những DEX này sẽ dẫn đến việc giá bị khác đi so với giá trên token bonding curve. Một nhà đầu tư có hiểu biết có thể sẽ nghĩ đến việc khai thác sự kém hiệu quả của thịt trường (*nhá nhẹ xíu nha*).
-
-
-
-## Tìm hiểu thêm
+## Learn More
 
 * Đọc nhèo hơn tại [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
 

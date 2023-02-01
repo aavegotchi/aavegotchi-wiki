@@ -22,6 +22,7 @@ contributors:
 <li><a href=#experience>경험치</a></li>
 <li><a href=#level>레벨</a></li>
 <li><a href=#haunt>Haunt!</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
 <li><a href=#aging-mechanic>Aging Mechanic</a></li>
 <li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
@@ -94,6 +95,20 @@ Your Aavegotchi level can be viewed on the [Aavegotchi profile page](/aavegotchi
 Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the Ether Realm in groups known as [Haunts](/haunt). The initial Haunt contains 10,000 Aavegotchis. Thereafter, new Haunts must be approved for travel by the [AavegotchiDAO](/dao). Some wearables can only be worn by Aavegotchis belonging to a certain Haunt.
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
+
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+E.g. a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
 
 ## Aging Mechanic
 

@@ -22,7 +22,8 @@ Aavegotchiは生まれながらにして特徴を持っています。 ちょう
 <li><a href=#experience>経験値</a></li>
 <li><a href=#level>レベル</a></li>
 <li><a href=#haunt>ハウント</a></li>
-<li><a href=#aging-mechanic>エージングメカニズム</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 <li><a href=#trait-mappings>特性マッピング</a></li>
 </ol>
 
@@ -95,7 +96,21 @@ Aavegotchiは新世界の開拓者のように、ネザー界からエーテル�
 
 ハウントはエディションと考え、ハウント番号はゴッチに表示されます。 なお、各ハウントのステータスに違いはありません。
 
-## エージングメカニズム
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+例： a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
+
+## Aging Mechanic
 
 Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを導入しました。
 
@@ -105,6 +120,6 @@ Aavegotchi改善提案13番は、ゴッチにエージングメカニズムを�
 
 ## 特性マッピング
 
-これらの6つの特性がベース（基本）特性です。 Aavegotchiを[ゴッチバース](/gotchiverse)の中で本格的なゲームにするには、もっとニュアンスのある変数が必要です。
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
-これらのベース特性が何にマッピングされるかは、[特性マッピングのページ](/trait-mappings)で確認できます。
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).

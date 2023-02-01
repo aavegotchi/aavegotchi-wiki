@@ -70,9 +70,11 @@ Aavegotchiバザールは [こちら](https://app.aavegotchi.com/baazaar) をご
 * ポータル
 * ゴッチバースの土地
 * インスタレーション
-* ウェアラブル
-* 消費アイテム
+* Tiles
+* Equipment
 * ラッフルチケット
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 マーケットでは、価格、レアリティ、と名前で並べ替えて、オプションを絞り込むのに役立ちます。
 

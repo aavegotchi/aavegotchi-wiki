@@ -7,6 +7,76 @@ contributors:
   - "007"
 ---
 
+## [Rarity Farming Season 5 is here!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-5-is-coming/)
+* Deck out your gotchis in bling-bling and win some GHST in Rarity Farming Season 5!
+<p></p>
+
+## [Aavegotchi 2023 Roadmap!](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
+* What's in store for Aavegotchi in 2023?
+* Read all about it here!
+<p></p>
+
+## [Vote on AGIPs 57 and 58 now!](https://blog.aavegotchi.com/two-core-proposals-live/)
+* AGIP 57 — Establish the “Core Framework” Guiding Wearable Release - Forge Proposal
+* AGIP 58 — Launch Round 2 Parcel VRF Rolls
+<p></p>
+
+## [Aavegotchi has a new CMO!](https://blog.aavegotchi.com/top-metaverse-marketing-executive-joins-aavegotchi-as-chief-marketing-officer/)
+* Meet Nigel Carlos, the man who helped propel Alien Worlds to the top of the DappRadar rankings!
+<p></p>
+
+## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
+* The Aavegotchi Forge will be launching soon!
+* Get the lowdown on how to forge and smelt here!
+<p></p>
+
+## [AGIP 51 revote. Vote on AGIPs 54-56](https://blog.aavegotchi.com/vote-agip-51-54-55-56/)
+* Revote on AGIP 51 - Election for DAO Foundation’s Directors/Multisig-Signers
+* 3 more completely new AGIPs to vote on!
+<p></p>
+
+## [Aavegotchi Forge: SOON!](https://blog.aavegotchi.com/the-forge-is-coming-blacksmithing-skill-new-wearables-and-a-way-to-combat-inflation/)
+* The Aavegotchi Forge is coming soon!
+* Familiarize yourself with Alloys and Essences!
+* Learn how to forge and smelt too!
+<p></p>
+
+## [Aavegotchi 2022 Year in Review](https://blog.aavegotchi.com/aavegotchi-2022-year-in-review/)
+* The Shippooorrrsss have been shipping hard!
+* Here's a recap for each month of the year!
+<p></p>
+
+## [Christmas decorations are here!](https://blog.aavegotchi.com/merry-gotchiverse/)
+* 4 of the decorations are craftable
+* Take part in the Christmas Raffle for the special fifth decoration!
+<p></p>
+
+## [Aavegotchi November Update!](https://blog.aavegotchi.com/aavegotchi-november-update/)
+* The shippooorrrs have shipped a ton of new features in November
+* Check it out here!
+<p></p>
+
+## [Get ready to fight Gotchigang! The Aarena is launching soon!](https://blog.aavegotchi.com/the-gotchiverse-gets-its-first-taste-of-combat-aarena-preview-launching-this-december/)
+* The Aarena will be available soon!
+* Check out the features and the roadmap in this blog post
+<p></p>
+
+## [GBM Auction is back in the house!](https://blog.aavegotchi.com/now-anyone-can-launch-bid-to-earn-auctions-in-aavegotchis-auction-house/)
+* Now, anyone can launch their own GBM Auction!
+<p></p>
+
+## [Vote on AGIPs 50 - 53 now!](https://blog.aavegotchi.com/vote-agip-50-51-52-53-create-aavegotchidao-foundation-election-for-dao-foundations-9-directors-multisig-signers-rarity-farming-season-5-channel-alchemica-by-burning-kinship/)
+* Gotchigang, cast your votes on 4 more Core Proposals!
+<p></p>
+
+## [Aavegotchi partners with Mandala Metaverse!](https://blog.aavegotchi.com/fake-gotchis-x-mandala-metaverse-a-terrifying-fake-is-entering-the-queue/)
+* A new FAKE Gotchi from Mandala Metaverse is now in the queue!
+<p></p>
+
+## [Vote on AGIP 49 now!](https://blog.aavegotchi.com/vote-agip-49-adjust-aaltar-spillover-rates/)
+* Gotchigang, it's time to vote on the Aaltar Spillover Rates!
+<p></p>
+
 ## [FAKE Gotchis Card Raffle coming up soon!](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/)
 * Gotchigang, get your Drop Tickets ready for the FAKE Gotchis Card Raffle!
 * 1,000 FAKE Gotchis Cards will also be airdropped to qualifying Gotchis

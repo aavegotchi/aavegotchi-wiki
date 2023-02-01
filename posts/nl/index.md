@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">De Aavegotchi Wiki</p>
 </div>
 
@@ -28,12 +28,15 @@ Ga naar [Introductie](/introduction) voor een hoogstaand overzicht van het Aaveg
 * [Rarity Farming](/rarity-farming) -- Speel Aavegotchi en verdien beloningen!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Andere nuttige pagina's
 
 * [Team](/team) -- Zie wie Aavegotchi bouwt
 * [Roadmap](/roadmap) -- De up-to-date roadmap van Aavegotchi
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Litepapers
 

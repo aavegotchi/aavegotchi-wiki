@@ -70,9 +70,11 @@ Il y a une variété de produits répertoriés sur le Baazar :
 * Portals
 * Gotchiverse Land
 * Installations
-* Objets portables
-* Consommables
+* Tiles
+* Equipment
 * Tickets de loterie
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 Le Baazaar est équipé de fonctions triage (prix), flitre (rareté), & recherche (nom) pour aider les acheteurs à affiner leurs choix.
 

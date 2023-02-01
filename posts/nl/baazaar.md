@@ -70,9 +70,11 @@ Er staan een aantal producten te koop op de Baazaar:
 * Portalen
 * Gotchivers Land
 * Installaties
-* Wearables
-* Verbruiksartikelen
+* Tiles
+* Equipment
 * Lotterij tickets
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 De Baazaar beschikt over de functies Sorteren (prijs), Filter (zeldzaamheid), & Zoeken (naam) om kopers te helpen hun keuzes te beperken.
 

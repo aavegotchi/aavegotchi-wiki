@@ -66,7 +66,7 @@ Protected by a Force Field that keeps out lickquidators, the Citaadel is the hom
 Сетка охватывает все за пределами Цитадели. Parcels in the Grid are much more plentiful, but owners should beware -- lickquidators are lurking in every corner. На территории Сетки можно строить как стены, так и башни.
 
 #### Арена
-Это ключевая достопримечательность Сетки.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Зачем она нужна, — да все просто, так как Готчи время от времени нужно выпустить пар.
 
@@ -188,6 +188,8 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 * **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
 * **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+
+The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 

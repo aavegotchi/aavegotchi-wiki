@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-武器は、近接武器と遠距離武器に分類されます。 これらの武器は、ゴッチ（アリーナ内）、リックィデーター、エネミー、ウォールズ（Waalls）にダメージを与えることができます。
+武器は、近接武器と遠距離武器に分類されます。 These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
 また、それぞれの武器には、ウォールズへの追加ダメージ、リックィデーターへの追加ダメージ、攻撃速度の増加など、特別な効果が付いています。
 

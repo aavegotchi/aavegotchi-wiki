@@ -32,11 +32,11 @@ contributors:
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
+<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
-<p><a href=#gravy---marketing-director>Gravy - Marketing Director</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -121,6 +121,17 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 
 ## Team
 
+### Nigel - Chief Marketing Officer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
+<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
+</div>
+
+With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
+
+Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
+
 ### NyanKong - Game Director
 
 <div class="leftImageContainer">
@@ -155,16 +166,7 @@ Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in th
 <p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Hount 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
-
-### Gravy - Marketing Director
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy</a></p>
-</div>
-
-Nick Graves, aka Gravy, is a creative director of all things marketing with nearly a decade of B2B and B2C experience under his belt. After years of grinding it out in the stereotypical corporate life, he let that ship sail and dedicated his career 100% to the blockchain world. While he is creating strategic partnerships, measuring sick KPIs and formulating strategic marketing strategies, Gravy is dedicated to help move Aavegotchi to the next level and is proud to call himself a member of the GotchiGang.
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
 ### Shohan - Gotchiverse Frontend
 

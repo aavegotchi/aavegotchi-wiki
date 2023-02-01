@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Wapens zijn handwearables geclassificeerd als Melee of op afstand wapens. Deze speciale Wearables kunnen schade toebrengen aan Gotchis (in de Aarena), Lickquidators, vijanden en Waalls.
+Wapens zijn handwearables geclassificeerd als Melee of op afstand wapens. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
 Elk Wapen zal ook voorzien zijn van speciale voordelen, zoals extra schade aan Waals, extra schade aan Lickquidators, extra aanvalssnelheid en andere.
 

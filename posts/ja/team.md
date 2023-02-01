@@ -32,11 +32,11 @@ contributors:
 <p><a href=#les>Les（レス）</a></p>
 <p><a href=#mauvis>Mauvis（モーヴィス）</a></p>
 <li><a href=#team>Team - チーム</a></li>
-<p><a href=#nyankong---game-director>NyanKong（ニャンコング） - ゲームディレクター</a></p>
-<p><a href=#mark---gotchiverse-backend-lead>Mark（マーク）- ゴッチバース・バックエンド・リード</a></p>
-<p><a href=#favabeans---senior-cloud-architect>Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト</a></p>
-<p><a href=#aris---gotchiverse-frontend-lead>Aris（アリス）- ゴッチバース・フロントエンド・リード</a></p>
-<p><a href=#gravy---marketing-director>Gravy（グレイヴィー）- マーケティングディレクター</a></p>
+<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
+<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
+<p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
@@ -121,50 +121,52 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 
 ## チーム紹介
 
-### NyanKong（ニャンコング） - ゲームディレクター
+### Nigel - Chief Marketing Officer
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong（ニャンコング）">
-<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong（ニャンコング）</a></p>
+<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
+<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
 </div>
 
-クリスチャン・セン（Chrisitan Senn）、又の名をニャンコング、又はクリス、は主にコンソール、PC、アーケード、モバイル、テーブルトップ、VRの各市場で、ゲームデザイン、アート、アニメーションを駆使したゲーム制作に30年間携わってきました。 インタラクティブなエンターテインメントを作ることが好きで、想像力が豊かな一方、チームや観客と積極的に交流することが好きで、社交的な一面も持っています。 Pixelcraftチームでの彼の主な仕事は、フレンズが何年もかけて探索し、楽しめるレルムのためのアートワークをデザインし作成することです。
+With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
 
-### Mark（マーク）- ゴッチバース・バックエンド・リード
+Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
+
+### NyanKong - Game Director
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/mark.jpg" alt = "Mark（マーク）">
-<p class="leftImageText">Mark（マーク）</p>
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
 </div>
 
-マークは、15年以上にわたって親密なチームと一緒にスタートアップのプラットフォームを成功させてきました。 マークは、フルスタックエンジニアリングの専門知識と、企業のビジョンを考え抜かれたウェブ製品とサービスに変換する能力は、コインマーケットキャップの元CIOを含む多くの製品の立ち上げと買収の成功に貢献しています。
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
-### Favabeans（ファヴァビーンズ）- シニア・クラウド・アーキテクト
+### Mark - Gotchiverse Backend Lead
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans（ファヴァビーンズ）">
-<p class="leftImageText">Favabeans（ファヴァビーンズ）</p>
+<img class="leftImage" src="/team/mark.jpg" alt = "Mark">
+<p class="leftImageText">Mark</p>
 </div>
 
-ピート・クラーク（Pete Clark）、別名ファヴァビーンズ、またはハウゼンフェッファーは、技術業界で26年間の大半をスタートアップ企業の共同設立とそのソフトウェアのゼロからの構築に費やしてきました。  彼は、バックエンドサービスのアーキテクチャ、コーディング、プロファイリングを行い、最高のパフォーマンスを実現すること、また、それらのサービスが動作するインフラの設計とスケーリングを行うことが好きです。  CoinMarketCapでは、リアルタイムのデータ取り込みと分析システム、インフラ、そしてYahooの暗号通貨ページで使用されているウェブソケットAPIを構築しました。  2人の息子の父親であり、動物、ボート、海全般をこよなく愛します。  また、レトロゲーム、カードゲーム、ボードゲームの愛好家でもあり、ちょっとしたゲーム史家でもある。 (任天堂のマリオが悪者として登場する歴史上唯一のビデオゲームの名前を言えますか?） Pixelcraftチームでの彼の主な仕事は、レルムのバックエンドの設計とコーディング、そして大規模なスケールを確保することです。
+Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
 
-### Aris（アリス）- ゴッチバース・フロントエンド・リード
+### Favabeans - Senior Cloud Architect
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/aris.png" alt = "Aris（アリス）">
-<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris（アリス）</a></p>
+<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
+<p class="leftImageText">Favabeans</p>
 </div>
 
-アリスことピクセルラブ（PixellLab）は、フルスタックデベロッパー&ゴッチバースアーキテクトです。 心はトラベラーですが、現在はルーマニアのトランシルバニア地方の真ん中を拠点に活動しています（ブーイング）。 2021年2月初旬、ハウント1以前にAavegotchiと一緒にブロックチェーン技術に参加し、おそらくPixelcraft Studiosに雇われた最初のFE開発者となりました。 ゴッチバースプロジェクトをゼロから始め、プロジェクトの内部と外部を手のひらのように知っていて、毎日すべてのレルムに取り組んでいます。 現在、レルム開発チームのマネージメントを担当しています。
+Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
 
-### Gravy（グレイヴィー）- マーケティングディレクター
+### Aris - Gotchiverse Frontend Lead
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/gravy.png" alt = "Nick Graves（ニック・グレイヴス）">
-<p class="leftImageText"><a href="https://twitter.com/0xGravy" target="_blank">Gravy（グレイヴィー）</a></p>
+<img class="leftImage" src="/team/aris.png" alt = "Aris">
+<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
 </div>
 
-ニック・グレイヴス（Nick Graves）、通称グレイヴィーは、B2BとB2Cで10年近い経験を持つ、マーケティング全般のクリエイティブディレクターです。 典型的な会社員生活を何年も送った後、彼はその船を出航させ、ブロックチェーンの世界に100％自分のキャリアを捧げました。 彼は戦略的パートナーシップを作成し、病気のKPIを測定し、戦略的マーケティング戦略を策定している間、グレイヴィーはAavegotchiを次のレベルに移動させるために専念し、ゴッチギャングのメンバーであることを誇りにしています。
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
 
 ### Shohan - Gotchiverse Frontend
 

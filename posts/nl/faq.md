@@ -91,22 +91,28 @@ contributors:
 <p><a href=#my-borrowing-period-is-over--but-i-don-t-see-the-alchemica-in-my-wallet>My borrowing period is over, but I don’t see the Alchemica in my wallet</a></p>
 <p><a href=#i-didn-t-receive-alchemica-that-i-tried-to-withdraw-hours-ago>I didn’t receive Alchemica that I tried to withdraw hours ago</a></p>
 <p><a href=#how-do-you-allow-borrowed-gotchis-to-channel-alchemica-from-parcels-owned-by-the-lender->How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?</a></p>
-<li><a href=#gotchi-lending-faq>Gotchi Lending Veelgestelde Vragen</a></li>
+<li><a href=#forge-faq>Forge FAQ</a></li>
+<p><a href=#why-would-i-smelt-existing-items--if-i-can-wait-for-the-auction-and-raffle-to-get-new-schematics->Why would I smelt existing items, if I can wait for the auction and raffle to get new schematics</a></p>
+<p><a href=#does-a-gotchi-s-traits-brs-xp-affect-the-amount-of-essence-received-when-it-is-sacrificed->Does a Gotchi's traits/BRS/XP affect the amount of essence received when it is sacrificed?</a></p>
+<p><a href=#will-new-items-form-sets-with-each-other-or-existing-items->Will new items form sets with each other or existing items?</a></p>
+<p><a href=#will-attributes-of-the-new-items-be-in-the-same-range-as-existing-ones->Will attributes of the new items be in the same range as existing ones?</a></p>
+<p><a href=#will-crafting-the-same-item-multiple-times-make-it-stronger->Will crafting the same item multiple times make it stronger?</a></p>
+<li><a href=#gotchi-lending-faq>Gotchi Lending FAQ</a></li>
 <p><a href=#who-pets-a-lent-aavegotchi->Who pets a lent Aavegotchi?</a></p>
 <p><a href=#is-there-a-way-to-recall-an-aavegotchi-early-once-it-s-been-lent->Is there a way to recall an Aavegotchi early once it's been lent?</a></p>
 <p><a href=#can-a-borrower-add-or-remove-wearables-from-an-aavegotchi->Can a borrower add or remove wearables from an Aavegotchi?</a></p>
 <p><a href=#do-you-need-to-relist-an-aavegotchi-once-a-rental-period-has-concluded->Do you need to relist an Aavegotchi once a rental period has concluded?</a></p>
 <p><a href=#why-doesn-t-the-whitelist-field-accept-wallet-addresses->Why doesn't the Whitelist field accept wallet addresses?</a></p>
-<li><a href=#aambassador-faq>Aambassador Veelgestelde Vragen</a></li>
+<li><a href=#aambassador-faq>Aambassador FAQ</a></li>
 <p><a href=#do-i-need-to-fill-out-monthly-reports-as-an-aambassador->Do I need to fill out monthly reports as an Aambassador?</a></p>
 <p><a href=#how-big-should-i-grow-my--gotchigang->How big should I grow my #GotchiGang?</a></p>
 <p><a href=#what-if-the--gotchigang-name-i-want-has-already-been-taken-by-someone-else->What if the #GotchiGang name I want has already been taken by someone else?</a></p>
 <p><a href=#i-already-have-an-aavegotchi-themed-group--should-i-apply-to-become-an-aambassador->I already have an Aavegotchi-themed group. Should I apply to become an Aambassador?</a></p>
 <p><a href=#i-have-a-question-that-isn-t-answered-here--where-should-i-ask-it->I have a question that isn’t answered here. Where should I ask it?</a></p>
-<li><a href=#guild-faq>Guild Veelgestelde Vragen</a></li>
+<li><a href=#guild-faq>Guild FAQ</a></li>
 <p><a href=#what-are-the-differences-between-aambassador-groups-and-guilds->What are the differences between Aambassador groups and Guilds?</a></p>
 <p><a href=#how-do-i-submit-my-guild-to-the-guild-wiki-page->How do I submit my Guild to the Guild wiki page?</a></p>
-<li><a href=#bridging-faq>Bridging Veelgestelde Vragen</a></li>
+<li><a href=#bridging-faq>Bridging FAQ</a></li>
 <p><a href=#can-i-still-pet-my-aavegotchi-once-it-has-been-bridged-back-to-ethereum->Can I still pet my Aavegotchi once it has been bridged back to Ethereum?</a></p>
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
 <p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
@@ -116,7 +122,7 @@ contributors:
 <p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
 <p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
 <p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
-<li><a href=#technical-faq>Technische Veelgestelde Vragen</a></li>
+<li><a href=#technical-faq>Technical FAQ</a></li>
 <p><a href=#is-aavegotchi-on-chain->Is Aavegotchi on-chain?</a></p>
 <p><a href=#which-wallet-should-i-use-with-aavegotchi->Which wallet should I use with Aavegotchi?</a></p>
 <p><a href=#will-aavegotchi-run-on-layer-2->Will Aavegotchi run on Layer 2?</a></p>
@@ -481,7 +487,29 @@ Head to [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?n
 
 If you can't figure it out, ask for help and some frenly community devs will help you out.
 
-## Gotchi Lending Veelgestelde Vragen
+## Forge FAQ
+
+### Why would I smelt existing items, if I can wait for the auction and raffle to get new schematics?
+
+The new items being released are only schematics and limited quantity of cores. That means in order to make something new, you will have to obtain alloy either by buying it off bazaar or by smelting.
+
+### Does a Gotchi's traits/BRS/XP affect the amount of essence received when it is sacrificed?
+
+Each sacrifice is a flat 1000 essence.
+
+### Will new items form sets with each other or existing items?
+
+The new items are all individual and complete sets. I reckon new sets will be introduced that take some things from the new items and old (as done in the past). However at this moment, there have been no creation of these hybrid sets.
+
+### Will attributes of the new items be in the same range as existing ones?
+
+BRS-wise, all new schematics are in the same format as before. The aim was to fill the gaps of underrepresented stat combinations.
+
+### Will crafting the same item multiple times make it stronger?
+
+Nee. It would just level up your blacksmithing skill, resulting in a faster craft time (or less GLTR). There is talk in the future to allow items to venture past their current rarities for enormous cost.
+
+## Gotchi Lending FAQ
 
 ### Who pets a lent Aavegotchi?
 
@@ -507,7 +535,7 @@ For Gotchi Lending, the Whitelist field does not accept wallet addresses. It acc
 
 After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
 
-## Aambassador Veelgestelde Vragen
+## Aambassador FAQ
 
 ### Do I need to fill out monthly reports as an Aambassador?
 
@@ -531,7 +559,7 @@ Absolutely! As long as we can easily track the growth of your network, you are e
 
 All questions about the Aambassador program can be directed towards Webb#0001 in Discord.
 
-## Guild Veelgestelde Vragen
+## Guild FAQ
 
 ### What are the differences between Aambassador groups and Guilds?
 
@@ -541,7 +569,7 @@ Aambassador groups are meant to introduce new people to Aavegotchi while Guilds 
 
 DM BowtiedNerd#6509 on Discord with all the required information that's in the [Guild wiki page](/guild).
 
-## Bridging Veelgestelde Vragen
+## Bridging FAQ
 
 ### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
@@ -577,7 +605,7 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bri
 ### Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?
 **YES**, you can trade your Gotchis on any Ethereum-based NFT market, but you’ll only earn RARI when you trade on Rarible!
 
-## Technische Veelgestelde Vragen
+## Technical FAQ
 
 ### Is Aavegotchi on-chain?
 

@@ -66,7 +66,7 @@ Là khu vực chủ chốt bên trong Citaadel. The Great Portal là một cấu
 The Grid bao gồm tất cả mọi nơi bên ngoài Citaadel. Số lượng đất có ở Grid nhiều hơn, nhưng chủ sở hữu cần lưu ý - Người Thanh Khoản đang lùng sụt khắp mọi ngõ ngách. Những mẫu đất bên ngoài Grid có thể xây nên được Những Bức Tường và Tòa Tháp.
 
 #### The Aarena (Đấu Trường)
-Là khu vực chủ chốt ở Grid.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Dù Aavegotchi rất thân thiện, nhưng chúng nhận ra rằng việc những cơn thịnh nộ của mình cần được giải tỏa, đó là lý do tại sao chúng tạo ra Aarena.
 
@@ -188,6 +188,8 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 * **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
 * **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+
+The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 

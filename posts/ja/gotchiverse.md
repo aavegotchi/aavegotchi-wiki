@@ -66,7 +66,7 @@ contributors:
 グリッドは、シタデルの外側のすべてのことを言います。 グリッド内の区画はより豊かなのですが、区画の所有者はいたるところにリッキデーターが潜んでいるので注意が必要です。 グリッドの区画は、ウォールとタワーの両方を建設することができます。
 
 #### アリーナ
-グリッドの重要なランドマークのひとつアリーナです。
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけないことがわかっており、そのためにアリーナを作りました。
 
@@ -189,17 +189,19 @@ table_gotchusAlchemicaSupply
 * **ファーミング**：貯蔵庫にx個、近隣のマップに**y個**、グレートポータルに**z個**、それぞれ貯蔵される。
 * **収穫する**：Aavegotchiとリッキデーターはマップを歩き回り、採掘でこぼれたアルケミカを集めることができます。
 
-ゴッチュスアルケミカの取引は、[ゴッチュスアルケミカ取引所（GAX）](/gotchus-alchemica-exchange)で行われる予定です。
+The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
+
+Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 
 ### 1区画あたりの平均アルケミカ
 
-レルム区画は、Aavegotchiの「ポータル」と同じように、調査することでその中に眠っているアルケミカの量を知ることができます。 この調査プロセスは、Chainlink VRFをオンチェインで呼び出すことで、真にランダムな数字が生成されます。
+Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
 
-ゴッチバースがリリースされると、その所有者が選択した場合、既存のすべてのレルム区画を調査することができますし、調査プロセスを将来の日まで延期することができます。
+When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
 
-各区画で入手できるアルケミカの範囲は、第1幕（Act1）全体と、アルケミカの約25％を配布する第1幕の第1ラウンドの2種類です。
+The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 
-*なお、区画内のアルケミカの合計は**累積**されるため、将来の調査によってアルケミカが追加されることになります。*
+*Note that total Alchemica within a Parcel is **cumulative**, which means future Surveyings will add additional Alchemica on top of the total.*
 
 table_avgBaseAlchemicaPerParcelAct1Total
 

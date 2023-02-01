@@ -24,8 +24,9 @@ wearables</1> mà chúng được mặc. Những Aavegotchi được triệu h�
 <li><a href=#experience>Kinh nghiệm</a></li>
 <li><a href=#level>Cấp độ</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Cơ Chế Trưởng Thành</a></li>
-<li><a href=#trait-mappings>Quy Đổi Chỉ Số Trait</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
+<li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
 
 </div>
@@ -115,7 +116,26 @@ Haunt có thể hiểu nôm na là các phiên bản Aavegotchi, số hiệu Hau
 
 
 
-## Cơ Chế Trưởng Thành
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+
+E.g. a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
+
+
+
+## Aging Mechanic
 
 [Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) giới thiệu về cơ chế trưởng thành dành cho Aavegotchi.
 
@@ -125,8 +145,8 @@ Gotchis sẽ nhận được một lượng [BRS](/rarity-farming#base-rarity-sc
 
 
 
-## Quy Đổi Chỉ Số Trait
+## Trait Mappings
 
-6 chỉ số trait này là những trait cơ bản. Để biến Aavegotchi trở thành con game chính thức trong [Gotchiverse](/gotchiverse), chúng ta cần nhiều biến số sắc thái hơn.
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
-Bạn có thể tìm hiểu thêm về hệ quy chiếu trait này thông qua [trang Quy Đổi Trait](/trait-mappings).
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).

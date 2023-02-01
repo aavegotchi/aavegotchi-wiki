@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Trang Wiki của Aavegotchi</p>
 </div>
 
@@ -28,12 +28,15 @@ Hãy đến ngay phần [Giới thiệu](/introduction) để xem qua một bài
 * [Rarity Farming](/rarity-farming) -- Chơi game Aavegotchi và kiếm giải thưởng!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Những Trang Hữu Ích Khác
 
 * [Team](/team) -- Xem những ai đang xây dựng Aavegotchi
 * [Roadmap](/roadmap) -- Roadmap vừa được cập nhật của Aavegotchi
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Litepaper
 

@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Аавеготчи ВИКИ</p>
 </div>
 
@@ -28,12 +28,15 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Другие полезные страницы
 
 * [Команда](/team) — кто стоит за Аавеготчи и занимается развитием проекта.
 * [Дорожная карта](/roadmap) — узнайте, как будет двигаться развитие игры, посмотрев дорожную карту.
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## Лайтпейпер
 

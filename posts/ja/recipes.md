@@ -41,6 +41,7 @@ contributors:
 <li><a href=#pink-mosaic-tiles>Pink Mosaic Tiles</a></li>
 <li><a href=#green-mosaic-tiles>Green Mosaic Tiles</a></li>
 <li><a href=#halloween-decorations>Halloween Decorations</a></li>
+<li><a href=#christmas-decorations>Christmas Decorations</a></li>
 </ol>
 
 </div>
@@ -176,3 +177,9 @@ table_greenTiles
 *Available for crafting up until 31 October 2022 only*
 
 table_halloweenDecorations
+
+## Christmas Decorations
+
+*From 14 - 27 December 2022 only*
+
+table_christmasDecorations

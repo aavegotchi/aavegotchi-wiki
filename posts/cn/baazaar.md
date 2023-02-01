@@ -70,9 +70,11 @@ There are a variety of products listed on the Baazaar:
 * 传送门
 * Gotchiverse Land
 * Installations
-* Wearables
-* Consumables
+* Tiles
+* Equipment
 * Raffle Tickets
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+* FAKE Cards
 
 The Baazaar comes equipped with Sort (price), Filter (rarity), & Search (name) functions to help buyers narrow down their choices.
 

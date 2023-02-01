@@ -11,19 +11,23 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Embajadores](/aambassador)
 
-* [Arquitectos](/aarchitect)
+* [Aarcade Taask Force](/aarcade-taask-force)
 
-* [Artistas](/aartist)
+* [Aarchitect](/aarchitect)
 
-* [Subastas](/aauction)
+* [Aarena](/aarena)
 
-* [Propuestas de mejora de Aavegotchi](/aavegotchi-improvement-proposals)
+* [Aartist](/aartist)
 
-* [Página del perfil de Aavegotchi](/aavegotchi-profile)
+* [Aauction](/aauction)
+
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Aesthetica](/aesthetica)
 
-* [Mecánica de envejecimiento](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
@@ -52,6 +56,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 * [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
+
+* [Forge](/forge)
 
 * [Gaame Jaam](/gaame-jaam)
 

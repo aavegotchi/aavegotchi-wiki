@@ -11,19 +11,23 @@ contributors:
 
 * [Aambassador](/aambassador)
 
+* [Aarcade Taask Force](/aarcade-taask-force)
+
 * [Aarchitect](/aarchitect)
+
+* [Aarena](/aarena)
 
 * [Aartists](/aartist)
 
-* [Đấu Giá](/aauction)
+* [Aauction](/aauction)
 
-* [Đề Xuất Cải Tiến Aavegotchi](/aavegotchi-improvement-proposals)
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Trang Thông Tin Aavegotchi](/aavegotchi-profile)
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [Vật Trang Trí](/aesthetica)
 
-* [Cơ Chế Trưởng Thành](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
@@ -52,6 +56,8 @@ contributors:
 * [Eye Shape](/eye-shape)
 
 * [FAQ](/faq)
+
+* [Forge](/forge)
 
 * [Gaame Jaam](/gaame-jaam)
 

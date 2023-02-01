@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Aavegotchiウィキ</p>
 </div>
 
@@ -28,12 +28,15 @@ Aavegotchiのゲームの概要については、「[はじめに](/introduction
 * [レアリティ・ファーミング](/rarity-farming) -- Aavegotchiをプレイして報酬をゲットしよう!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## その他の便利なページ
 
 * [チーム](/team) -- 誰がAavegotchiを作っているのか見てみる
 * [ロードマップ](/roadmap) -- Aavegotchiの最新のロードマップです
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
 ## ライトペーパーズ
 

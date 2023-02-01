@@ -17,77 +17,59 @@ contributors:
 
 では、スピリットフォースとは一体何なのでしょうか？
 
-スピリットフォースとは、Aavegotchiの中に埋め込まれている利権トークンのことです。 時間が経つにつれて、Aavegotchi の価値がどんどん上がっていきます。
+Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded within your Aavegotchi! 時間が経つにつれて、Aavegotchi の価値がどんどん上がっていきます。
 
-Aavegotchi では、「スピリットフォース」、「コラテラル」、「aToken」、「maToken」、「amToken」という用語は同じものを意味します。 混乱しましたか？ 詳しくは、この[履歴のページ](/spirit-force-history)をご覧ください。
-
-このページでは、利用可能なaTokenとは何なのか、どのように入手するのかについて、役立つ情報が記されています。
-
-Polygonでゴッチを召喚するには、最終的に**maToken/amTokenが必要になる**ことに注意してください。 aTokenを使わなくてもmaTokenを入手する方法はいろいろあります。 しかし、ここでは代表的な方法として、aTokenの入手方法を説明します。
+*In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", "maTokens", and "amTokens" mean the same thing. Confused? Check out this [history page](/spirit-force-history) for more information.*
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#about>概要</a></li>
-<li><a href=#stablecoins>ステーブルコイン</a></li>
-<li><a href=#cryptocurrencies>暗号通貨</a></li>
-<li><a href=#getting-atokens>aTokenの取得</a></li>
-<li><a href=#converting-atokens-into-matokens>aTokenをmaTokenに変換する</a></li>
-<li><a href=#differences-between-matokens-and-amtokens>maTokenとamTokenの違いについて</a></li>
+<li><a href=#supported-spirit-force>Supported Spirit Force</a></li>
+<li><a href=#getting-atokens>Getting aTokens</a></li>
+<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 <li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
 </ol>
 
 </div>
 
-## 概要
+## Supported Spirit Force
 
-原資産は借り手に貸し出されますが、aTokenはあなたのウォレットに直接、リアルタイムで利子が発生します。 つまり、あなたの残高が1分ごとに増えていくのを見ることができるのです。
+table_supportedCollaterals
 
-aTokenは2つのカテゴリーに分類されます：(1) 暗号通貨、(2) ステーブルコイン。 暗号通貨は、暗号技術によって保護されたデジタルまたは仮想の通貨です。 多くの暗号通貨は、ブロックチェーン技術（コンピュータの異種ネットワークによって実施される分散型台帳）に基づく分散型ネットワークです。 ステーブルコインは、米ドル（USD）などの外部参照通貨にペッグされることで価格の安定を図る暗号通貨の一種です。 ペッグの基本的な仕組みはステーブルコインによって異なり、それぞれ独自のリスクプロファイルを持っています。
+## Getting aTokens
 
-Aaveプロトコルでは、以下の[aToken](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)（暗号通貨およびステーブルコイン）が利用可能です。 *Supported by Aavegotchi*の列は、特定の aToken が Aavegotchi ゲームプレイで利用可能かどうかを示しています。 サポートされるaTokenのリストは最終的なものではなく、プレイヤーの需要に応じてAavegotchiのゲームプレイに使用できるaTokenを追加するためにTwitter投票/DAO投票が行われる予定です。
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-## ステーブルコイン
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-table_stablecoins
-
-## 暗号通貨
-
-table_cryptocurrencies
-
-## aTokenの取得
-
-*以下の手順は、AaveのMedium記事[「Zero to Hero Guide 2.0」](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45)から引用しています。 読者のため、ここに複製してあります。*
-
-1).  <a href = "https://app.aave.com/">Aaveプロトコル</a>に向かい、始めましょう
-
-2).  ここでは、あなたが持っている財布の種類に応じて、財布をリンクするためにいくつかのオプションがあります。
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3).  Aaveプロトコルを使用する前に、いくつかの暗号資産を持っているべきです。 利用可能な暗号資産の一覧は、上記の<a href=#stablecoins>「ステーブルコイン」</a>と<a href=#cryptocurrencies>「暗号通貨」</a>のセクションに記載されています。
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-暗号通貨を所有していないが、参加したい場合は、不換紙幣（ドル、ユーロなどの通常のお金）を暗号資産（上記のうちの1つなど）に変換する必要があります。
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-ラッキーなことに、Aaveは最近、Aaveプロトコルアプリケーションから直接暗号資産を購入できるフィアット通貨から暗号通貨へのオンランプを導入しました！ 今では、TransakまたはRamp Instantを使用して、わずか数分でクレジットカードまたはデビットカードまたはワイヤー送金で直接選択した資産を購入することができます（下記参照）。
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4).  自分のウォレットをプラットフォームに接続したら、Aaveプロトコルにアセットを入金することができます。 「入金」をクリックすると、入金可能なウォレット内の資産がインターフェースに表示されます。 その後、入金したい資産を選択し、入金額を選択すると、入金完了です。 *注：実際の入金処理の前に、「承認」処理が行われます。 これは、預け入れようとしている特定の資産を使用する許可を預け入れ契約に与えるためのものです。*
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
 
-預金取引が成立すると、すぐに預金金利の恩恵を受けることができます。 入金したアセットのaTokenバージョンがウォレットで確認できるようになります。
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
-## aTokenをmaTokenに変換する
+## Converting aTokens into maTokens
 
-aTokenを手に入れましたか？ それはよかった！
+Got your aTokens? Good!
 
-ステップ2の[maToken](/matokens)のページに行きましょう!
+Let's head over to the [maTokens](/matokens) page for Step 2!
 
-## maTokenとamTokenの違いについて
+## Differences between maTokens and amTokens
 
 maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
 

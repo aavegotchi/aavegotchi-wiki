@@ -22,7 +22,8 @@ Aavegotchis worden geboren met eigenschappen. Net als hoe je eigenschappen defin
 <li><a href=#experience>Ervaring</a></li>
 <li><a href=#level>Level</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Aging Mechanisme</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 <li><a href=#trait-mappings>Eigenschap Mappings</a></li>
 </ol>
 
@@ -95,7 +96,21 @@ Net als pioniers naar de Nieuwe Wereld, reizen Aavegotchis vanuit het Netherrijk
 
 Denk aan Haunts als edities, waarbij het nummer van Haunt op de Gotchi wordt aangegeven. Er zijn geen statistiekverschillen tussen Haunts.
 
-## Aging Mechanisme
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+Bv. a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
+
+## Aging Mechanic
 
 [Aavegotchi verbeteringsvoorstel](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduceerde een aging mechanic voor Aavegotchis.
 
@@ -105,6 +120,6 @@ Voor meer informatie, bekijk de [Aging Mechanic](/aging-mechanic) pagina.
 
 ## Eigenschap Mappings
 
-Deze 6 eigenschappen zijn de basiseigenschappen. Om Aavegotchi te veranderen in een volwaardig spel in de [Gotchiverse](/gotchiverse), hebben we meer gedifferentieerde variabelen nodig.
+These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
-Ontdek waar deze basis eigenschappen kaart in op de [Trait Mappings pagina](/trait-mappings).
+Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).

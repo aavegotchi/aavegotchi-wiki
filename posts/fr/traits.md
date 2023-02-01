@@ -22,7 +22,8 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 <li><a href=#experience>Expérience</a></li>
 <li><a href=#level>Niveau</a></li>
 <li><a href=#haunt>Haunt</a></li>
-<li><a href=#aging-mechanic>Mécanique du vieillissement</a></li>
+<li><a href=#alchemica-carrying-capacity>Alchemica Carrying Capacity</a></li>
+<li><a href=#aging-mechanic>Aging Mechanic</a></li>
 <li><a href=#trait-mappings>Trait Mappings</a></li>
 </ol>
 
@@ -95,7 +96,21 @@ Like pioneers to the New World, Aavegotchis travel from the Nether Realm to the 
 
 Think of Haunts as editions, with Haunt numbers being indicated on the Gotchi. There will be no stats differences between Haunts.
 
-## Mécanique de vieillissement
+## Alchemica Carrying Capacity
+
+[BRS](/rarity-farming#base-rarity-score) is used to boost a gotchi's carrying capacity with the follow formula:
+
+```
+Carrying Capacity = 100 * (BRS/300)^2
+```
+
+E.g. a Gotchi with:
+
+* BRS = 600 has a carrying capacity of 400 [Alchemica](/gotchus-alchemica) chunks
+
+* BRS = 900 has a carrying capacity of 900 Alchemica chunks
+
+## Aging Mechanic
 
 [La proposition d'amélioration Aavegotchi 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) a introduit un mécanisme de vieillissement pour les Aavegotchis.
 

@@ -11,7 +11,11 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Aambassador](/aambassador)
 
+* [Aarcade Taask Force](/aarcade-taask-force)
+
 * [Разработчики (Aarchitect).](/aarchitect)
+
+* [Aarena](/aarena)
 
 * [Артисты (Aartist).](/aartist)
 
@@ -52,6 +56,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Eye Shape](/eye-shape)
 
 * [Часто задаваемые вопросы](/faq)
+
+* [Forge](/forge)
 
 * [Gaame Jaam](/gaame-jaam)
 

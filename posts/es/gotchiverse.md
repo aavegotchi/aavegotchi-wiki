@@ -66,7 +66,7 @@ Un punto de referencia dentro de la Ciudadela es el Gran Portal. El Gran Portal 
 El Grid abarca todo lo que está fuera de la Ciudadela. Las parcelas del Grid son mucho más abundantes, pero los propietarios deben tener cuidado: los lickquidators están al acecho en cada esquina. Las Parcelas del Grid pueden construir tanto Muros como Torres.
 
 #### La Aarena
-Un elemento clave en el Grid es la Aarena.
+A key landmark in the Grid is the [Aarena](/aarena).
 
 Aunque los Aavegotchis son amistosos, son conscientes de que los impulsos agresivos necesitan una salida, y por eso crearon la Aarena.
 
@@ -188,6 +188,8 @@ Gotchus Alchemica can be extracted from REALM in four distinct ways:
 * **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
 * **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
 * **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
+
+The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
 
 Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange (GAX)](/gotchus-alchemica-exchange).
 

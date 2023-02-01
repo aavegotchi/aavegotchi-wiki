@@ -11,19 +11,23 @@ Avegotchi Wikiのページ一覧です：
 
 * [アーンバサダー（Aambassador）](/aambassador)
 
-* [アーキテクト（Aarchitect）](/aarchitect)
+* [Aarcade Taask Force](/aarcade-taask-force)
 
-* [アーティスト（Aartist）](/aartist)
+* [アーキテクト](/aarchitect)
 
-* [オークション（Aauction）](/aauction)
+* [Aarena](/aarena)
 
-* [Aavegotchi改良案（Aavegotchi Improvement Proposals）](/aavegotchi-improvement-proposals)
+* [アーティスト](/aartist)
 
-* [Aavegotchiプロフィールページ（Aavegotchi Profile Page）](/aavegotchi-profile)
+* [Aauction](/aauction)
+
+* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+
+* [Aavegotchi Profile Page](/aavegotchi-profile)
 
 * [エステティカ（Aesthetica）](/aesthetica)
 
-* [エージングメカニズム](/aging-mechanic)
+* [Aging Mechanic](/aging-mechanic)
 
 * [Alchemical Channeling](/alchemical-channeling)
 
@@ -52,6 +56,8 @@ Avegotchi Wikiのページ一覧です：
 * [Eye Shape](/eye-shape)
 
 * [FAQ（よくある質問）](/faq)
+
+* [Forge](/forge)
 
 * [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
