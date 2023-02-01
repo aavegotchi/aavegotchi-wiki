@@ -85,6 +85,17 @@ Milestones: 1M MAU / 25K DAU
 * More Haunts (planned)
 * AavegotchiDAO V3 (Oasis)
 
+### Year 2023-Specific Roadmap
+
+* Launching the AavegotchiDAO Foundation
+* Implementing On-chain Smart Contract Execution
+* Decentralizing our Workflow
+* Turning off the GHST Bonding Curve *Pending DAO vote*
+* Launch of Gotchichain – A blockchain for all things Aavegotchi
+* Gotchi in 3D
+
+For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
+
 ## Ubiquitous
 
 <img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous">
