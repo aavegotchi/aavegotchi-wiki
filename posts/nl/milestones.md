@@ -7,6 +7,10 @@ contributors:
   - "unintelligent-nerd"
 ---
 
+## [Rarity Farming Season 5 is here!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-5-is-coming/)
+* Deck out your gotchis in bling-bling and win some GHST in Rarity Farming Season 5!
+<p></p>
+
 ## [Aavegotchi 2023 Roadmap!](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
 * What's in store for Aavegotchi in 2023?
 * Read all about it here!
