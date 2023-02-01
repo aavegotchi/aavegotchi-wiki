@@ -90,7 +90,7 @@ Milestones: 1M MAU / 25K DAU
 * Launching the AavegotchiDAO Foundation
 * Implementing On-chain Smart Contract Execution
 * Decentralizing our Workflow
-* Turning off the GHST Bonding Curve *Pending DAO vote*
+* Turning off the GHST Bonding Curve *(Pending DAO vote)*
 * Launch of Gotchichain – A blockchain for all things Aavegotchi
 * Gotchi in 3D
 
