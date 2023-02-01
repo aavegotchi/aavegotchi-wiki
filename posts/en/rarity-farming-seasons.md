@@ -17,6 +17,7 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 <li><a href=#season-2>Season 2</a></p>
 <li><a href=#season-3>Season 3</a></p>
 <li><a href=#season-4>Season 4</a></p>
+<li><a href=#season-5>Season 5</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -82,6 +83,18 @@ There were 3 categories to compete on:
 * XP (10% of the rewards pool / 150,000 GHST)
 
 [Spreadsheet of Rarity Farming Season 4 Rewards](https://docs.google.com/spreadsheets/d/1VWmd-DD_L45nBOCxIhtGvnBK_JnbmUNqWFRAPl-KwjU/)
+
+## Season 5
+
+Rarity Farming Season 5 was held from Tuesday, 13 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+
+* Rarity (70% of the rewards pool / 1,050,000 GHST)
+
+* Kinship (20% of the rewards pool / 300,000 GHST)
+
+* XP (10% of the rewards pool / 150,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 5 Rewards](https://docs.google.com/spreadsheets/d/1_7YoQgarJWauRb1KAkU3rIi9QMCrG3Zy4VI9vv7qyCA/)
 
 ## GHST Distribution by Season
 
