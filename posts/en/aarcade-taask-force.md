@@ -20,6 +20,7 @@ The Aarcade Taask Force (ATF) is a group of [aarchitects](/aarchitect) that are 
 <ol>
 <li><a href=#origins>Origins</a></li>
 <li><a href=#multisig-signers>Multisig Signers</a></li>
+<li><a href=#multisig-address>Multisig Address</a></li>
 </ol>
 
 </div>
@@ -47,3 +48,9 @@ In Jan 2023, the Aarcade Taask Force was formally created through the passing of
 * Scrooger
 
 * Hefe
+
+* Chair
+
+## Multisig Address
+
+The ATF multisig address can be found here: [0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f](https://app.safe.global/matic:0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f/settings/setup).
