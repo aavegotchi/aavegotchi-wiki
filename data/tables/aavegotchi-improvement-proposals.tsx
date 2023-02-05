@@ -767,6 +767,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip57",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Accept the Core Framework", "18,000,000 GHST (95.71%)"],
+					["No. Reject this Framework", "801,000 GHST (4.29%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip58",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Launch Round 2 Parcel Roll", "11,000,000 GHST (56.89%)"],
+					["No. Wait until the Great Battle", "8,200,000 GHST (43.11%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
