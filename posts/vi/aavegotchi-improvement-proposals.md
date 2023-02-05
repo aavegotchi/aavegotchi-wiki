@@ -2683,6 +2683,8 @@ Option 2: No. Reject this Framework
 
 **Kết quả:**
 
+table_agip57
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x1930189873f7591fa60fc108d632c0f11fc35d8fff3eaccc349d05756c54c321)
 
 <hr />
@@ -2731,6 +2733,8 @@ Option 2: No. Wait until the Great Battle
 **Voting Period:** 26 January - 2 February 2023
 
 **Kết quả:**
+
+table_agip58
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/#/proposal/0x378153f1fe22c673bb57d4c421b6ef93f5562f806317950be7c189547c0458c2)
 
