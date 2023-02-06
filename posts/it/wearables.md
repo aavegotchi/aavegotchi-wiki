@@ -66,6 +66,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerships Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -246,3 +247,7 @@ table_partnershipsTable
 ## DeFi RPG Wearables
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
