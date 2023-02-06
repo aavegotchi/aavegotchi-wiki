@@ -66,6 +66,7 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerschappen Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -246,3 +247,7 @@ tafel_partnershipsTable
 ## DeFi RPG Wearables
 
 tafel_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
