@@ -66,6 +66,7 @@ Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets
 <li><a href=#haunt-2-wearables>Equipables Ritual 2</a></li>
 <li><a href=#partnerships-set>Set de Partnerships</a></li>
 <li><a href=#defi-rpg-wearables>RPG DeFi Equipables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -89,13 +90,13 @@ Mira [rasgos](/traits) para más información sobre este tema.
 
 Los equipables se puede añadir o quitar en cualquier momento. Equipar/desequipar puede afectar a la [rareza general](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) de un Aavegotchi:
 
-table_wearablesBRStable
+tabla_vestiblesBRestables
 
 ## Poder de voto
 
 Con el paso de [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), los dquipables ahora tienen poder de voto en [AavegotchiDAO](/dao). El poder de voto (medido en GHST) de un determinado equipable se basa en su tipo de rareza/[Maall](/maall) precio.
 
-table_wearablesVotingPower
+tabla_usarablesPoder de voto
 
 ## Armas
 
@@ -115,7 +116,7 @@ table_linkWearablesTable
 
 El conjunto temático Aave-se distribuyó en el segundo de los tres Raffles anteriores al lanzamiento, celebrado el 8 de diciembre de 2020. Esta impresionante colección celebra el vínculo entre Aavegotchi y la comunidad Aave y el equipo de liderazgo.
 
-table_aaveWearablesTable
+tabla_aaveWearablesTable
 
 ## Set temático Ethereum
 
@@ -246,3 +247,7 @@ table_partnershipsTable
 ## RPG DeFi Equipables
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
