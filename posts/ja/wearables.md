@@ -66,6 +66,7 @@ Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です�
 <li><a href=#haunt-2-wearables>ハウント2・ウェアラブル</a></li>
 <li><a href=#partnerships-set>パートナーシップ・セット</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG・ウェアラブル</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -246,3 +247,7 @@ table_partnershipsTable
 ## DeFi RPG・ウェアラブル
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
