@@ -26,6 +26,7 @@ Light the furnace and grab your hammers. It’s time to craft some wearables!
 <li><a href=#curbing-inflation>Curbing Inflation</a></li>
 <li><a href=#how-to-forge-and-smelt>How to Forge and Smelt</a></li>
 <li><a href=#blacksmithing-skill>Blacksmithing Skill</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -89,3 +90,7 @@ Coming Soon™ to a portal near you will be the all-new Forge UI. Make sure you 
 ## Blacksmithing Skill
 
 Coming with the Forge is the all-new and first-ever crafting skill: Blacksmithing. Crafting new wearables takes significant time or will cost you mountains of [GLTR](/gotchus-alchemica-exchange#gltr-token). However, this crafting time can be greatly diminished by leveling up your Blacksmithing skill. Your Gotchi will gain experience for both Forging and Smelting items.
+
+## Forge Wearables
+
+The list of Forge Wearables can be found [here](/wearables#forge-wearables).
