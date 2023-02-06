@@ -66,6 +66,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#haunt-2-wearables>Trang Phục Haunt 2</a></li>
 <li><a href=#partnerships-set>Trang phục Đối Tác</a></li>
 <li><a href=#defi-rpg-wearables>Trang Phục DeFi RPG</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
 </ol>
 
 </div>
@@ -246,3 +247,7 @@ table_partnershipsTable
 ## Trang Phục DeFi RPG
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
