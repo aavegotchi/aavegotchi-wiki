@@ -561,6 +561,36 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "forgeWearablesTable",
+            tableCaption: "Forge Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img src="/wearables/forge/350_Pixelcraft_Tee.svg" alt = "aavegotchi Pixelcraft Tee"/>`, `350`, `Pixelcraft Tee`, `Common`, `NRG +1`, `1000`, `body`],
+					[`<img src="/wearables/forge/351_3D_Glasses.svg" alt = "aavegotchi 3D Glasses"/>`, `351`, `3D Glasses`, `Common`, `BRN +1`, `1000`, `eyes`],
+					[`<img src="/wearables/forge/352_Pixelcraft_Square.svg" alt = "aavegotchi Pixelcraft Square"/>`, `352`, `Pixelcraft Square`, `Common`, `SPK -1`, `1000`, `hands`],
+					[`<img src="/wearables/forge/353_Nimbus.svg" alt = "aavegotchi Nimbus"/>`, `353`, `Nimbus`, `Common`, `AGG -1`, `1000`, `pet`],
+					[`<img src="/wearables/forge/354_AlchemicaApron.svg" alt = "aavegotchi Alchemica Apron"/>`, `354`, `Alchemica Apron`, `Uncommon`, `NRG +1, BRN -1`, `500`, `body`],
+					[`<img src="/wearables/forge/355_SafetyGlasses.svg" alt = "aavegotchi Safety Glasses"/>`, `355`, `Safety Glasses`, `Rare`, `NRG +1, AGG +2`, `250`, `eyes`],
+					[`<img src="/wearables/forge/356_Bandage.svg" alt = "aavegotchi Bandage"/>`, `356`, `Bandage`, `Uncommon`, `SPK +1, BRN -1`, `500`, `face`],
+					[`<img src="/wearables/forge/357_NailGun.svg" alt = "aavegotchi Nail Gun"/>`, `357`, `Nail Gun`, `Rare`, `NRG +1, SPK +2`, `250`, `hands`],
+					[`<img src="/wearables/forge/358_FlamingApron.svg" alt = "aavegotchi Flaming Apron"/>`, `358`, `Flaming Apron`, `Legendary`, `NRG -2, AGG -2`, `100`, `body`],
+					[`<img src="/wearables/forge/359_ForgeGoggles.svg" alt = "aavegotchi Forge Goggles"/>`, `359`, `Forge Goggles`, `Legendary`, `NRG -1, AGG -3`, `100`, `eyes`],
+					[`<img src="/wearables/forge/360_GeodeSmasher.svg" alt = "aavegotchi Geode Smasher"/>`, `360`, `Geode Smasher`, `Legendary`, `SPK +2, BRN +2`, `100`, `hands`],
+					[`<img src="/wearables/forge/361_Geo.svg" alt = "aavegotchi Geo"/>`, `361`, `Geo`, `Legendary`, `AGG -2, SPK +2`, `100`, `pet`],
+					[`<img src="/wearables/forge/362_FAKE_Shirt.svg" alt = "aavegotchi FAKE Shirt"/>`, `362`, `FAKE Shirt`, `Mythical`, `SPK -4, BRN -1`, `50`, `body`],
+					[`<img src="/wearables/forge/363_FAKE_Beret.svg" alt = "aavegotchi FAKE Beret"/>`, `363`, `FAKE Beret`, `Mythical`, `NRG -3, BRN -2`, `50`, `head`],
+					[`<img src="/wearables/forge/364_Paint_Brush.svg" alt = "aavegotchi Paint Brush"/>`, `364`, `Paint Brush`, `Mythical`, `NRG -3, SPK -2`, `50`, `hands`],
+					[`<img src="/wearables/forge/365_Paint_Palette.svg" alt = "aavegotchi Paint Palette"/>`, `365`, `Paint Palette`, `Mythical`, `SPK -1, BRN -4`, `50`, `hands`],
+					[`<img src="/wearables/forge/366_HeavenlyRobes.svg" alt = "aavegotchi Heavenly Robes"/>`, `366`, `Heavenly Robes`, `Godlike`, `NRG +4, BRN -2`, `5`, `body`],
+					[`<img src="/wearables/forge/367_EyesOfDevotion.svg" alt = "aavegotchi Eyes of Devotion"/>`, `367`, `Eyes of Devotion`, `Godlike`, `SPK -3, BRN -3`, `5`, `eyes`],
+					[`<img src="/wearables/forge/368_BeardOfDivinity.svg" alt = "aavegotchi Beard of Divinity"/>`, `368`, `Beard of Divinity`, `Godlike`, `SPK -3, BRN -3`, `5`, `face`],
+					[`<img src="/wearables/forge/369_StaffOfCreation.svg" alt = "aavegotchi Staff of Creation"/>`, `369`, `Staff of Creation`, `Godlike`, `SPK -3, BRN -3`, `5`, `hands`]
+                ]
+            }
+        },
 
         {
             tableName: "wearablesBRStable",
