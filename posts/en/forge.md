@@ -26,6 +26,7 @@ Light the furnace and grab your hammers. It’s time to craft some wearables!
 <li><a href=#how-to-forge-and-smelt>How to Forge and Smelt</a></li>
 <li><a href=#blacksmithing-skill>Blacksmithing Skill</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#references>References</a></li>
 </ol>
 
 </div>
@@ -93,3 +94,7 @@ Coming with the Forge is the all-new and first-ever crafting skill: Blacksmithin
 ## Forge Wearables
 
 The list of Forge Wearables can be found [here](/wearables#forge-wearables).
+
+## References
+
+* [Forge White paper](https://docs.google.com/document/d/1RvlJmCRudFnso45oPU0veBqo-OLwwZiMJDaNBjRhf54)
