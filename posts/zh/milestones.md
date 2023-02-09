@@ -7,6 +7,18 @@ contributors:
   - "chinyh"
 ---
 
+## [Vote on AGIP 61 nao!](https://blog.aavegotchi.com/core-proposal-agip-61/)
+* Cast your votes on launching the Aavegotchi Forge!
+<p></p>
+
+## [Aavegotchi January 2023 Update](https://blog.aavegotchi.com/aavegotchi-january-2023-update/)
+* Our shippooorrrsss have been busy shipping. Check out what they have shipped in Jan 2023 here!
+<p></p>
+
+## [Vote on AGIPs 59 and 60 now!](https://blog.aavegotchi.com/agip-59-60-live/)
+* Let's vote whether to set the 2023 DTF Budget and to send Gotchi Lodge to ETH Denver!
+<p></p>
+
 ## [Rarity Farming Season 5 is here!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-5-is-coming/)
 * Deck out your gotchis in bling-bling and win some GHST in Rarity Farming Season 5!
 <p></p>
