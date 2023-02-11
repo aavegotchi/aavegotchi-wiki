@@ -76,6 +76,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#fund-alchemica-spending-competition>Fund Alchemica Spending Competition</a></li>
 <li><a href=#establish-the--core-framework--guiding-wearable-release>Establish the “Core Framework” Guiding Wearable Release</a></li>
 <li><a href=#launch-round-2-parcel-vrf-rolls>Launch Round 2 Parcel VRF Rolls</a></li>
+<li><a href=#2023-dtf-budget-request>2023 DTF Budget Request</a></li>
+<li><a href=#gotchi-lodge-2023>Gotchi Lodge 2023</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2753,6 +2755,105 @@ Option 2: No. Wait until the Great Battle
 table_agip58
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x378153f1fe22c673bb57d4c421b6ef93f5562f806317950be7c189547c0458c2)
+
+<hr>
+
+### 2023 DTF Budget Request
+**Aavegotchi Improvement Proposal #59**
+
+**Proposal Summary:**
+
+I am requesting a budget extension while the DAO discusses alternatives to the DTF model.
+
+The request covers two projects which have delivered on their promises but remain partially funded. In hindsight, the funds allocated for a project should have been withheld to avoid making requests after the fact. We learn from this.
+
+The DAO is discussing the assessment and funding of new projects. This process may take another 3-6 weeks till we reach consensus and implement a new funding model.
+
+In the meantime, we should ensure DAO members and project sponsors who have already done work are made whole for their efforts.
+
+Below are the completed projects, including an additional request to cover bounties for two months. My compensation has been removed and will be included in another proposal.
+
+* Gotchi Farmy Sandbox Project; 8000/16000 GHST
+
+* GotchiBoard by Mark; 1000/2000 GHST
+* Media team Bounties 5000 GHST
+
+The total request is 14,000 GHST. Funding will be sent to the current DTF multi-sig.
+
+The DTF is not funding new Project Grants for 2023 until the DAO reaches a consensus on an improved funding process. This request is only to compensate members for completed work and to keep DAO operations going with bounties.
+
+Appreciate contributions and efforts given towards Aavegotchi DAO & Project development so far.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1062526743262535700)
+
+Option 1: Fund Completed Work/Bounties
+
+Option 2: Do Not Fund
+
+**Voting Period:** 2 - 10 February 2023
+
+**Results:**
+
+table_agip59
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xa749417f53627cc60140332e3c9e37fbb2779b50b96e71aff005244e71367a46)
+
+<hr>
+
+### Gotchi Lodge 2023
+**Aavegotchi Improvement Proposal #60**
+
+**Proposal Summary:**
+
+Eth Denver 2023 kicks off on February 24th, running through March 5th. It represents the largest gathering of Web3 talent in the world. This year’s event presents an opportunity for Aavegotchi DAO to collaborate with Pixelcraft by sending a team to spread awareness of the Aavegotchi protocol to developers and interested parties at the conference.
+
+The team will be led by Aavegotchi DAO member Hefe and some of our most active Aavegotchi members.
+
+The attending team will be:
+
+**Lost Local;** Pixelcraft Director of physical goods and events.
+
+**Hefe;** Event lead, managing bounties, organisation
+
+**NoFuturistic;** Media capture, editing
+
+**Zombie Shepherd;** Partnerships, media capture, A/V
+
+**Mycaleum;** Partnerships, marketing, support
+
+**Smokescreens;** Marketing, support
+
+**Lev;** Support
+
+The team is coordinating efforts to represent Aavegotchi as a unit; collaborating by wearing weather-appropriate branded team gear, carrying physical merchandise such as stickers, boiling down concise explanations for specific target audiences, and distributing links to a landing page showcasing key features of the protocol and resources for builders.
+
+One IRL meetup we are excited to host is an ebic coffee shop live-streamed discussion featuring interesting builders present at the event, advocates from venues, and existing partnership connections. We are calling this event #BuidlWithFrens. There will be merchandise giveaways and a custom FG card exclusive to the event, published by GMI. The event will be an opportunity to connect with new frens, and capture unique and interesting experiences from both the Hackathon, shilling zone, man-on-the-street interviews, as well as lecture workshops. The whole coffee shop event will be broadcasted via various streaming services, including Aavegotchi Discord for those who cannot attend.
+
+An extensive media plan has been put together for ETH Denver featuring a diverse and varied array of content, notably a dual daily VLOG, as well as raw footage sent to both editors and the Pixelcraft marketing team for promotional videos. Media coverage will not only increase our presence at the event, but also give the Aavegotchi team multiple opportunities to create long-term connections with other interesting and informed attendees. The Gotchi Lodge(Air BNB) is close to the venue, making it easy to host interviews there as well.
+
+Currently, lodging for the event has been secured close to the main venues. Travel plans to the event are secured for over-the-road travellers, with flyers waiting for proposal approval prior to ticket purchase. Details for the ETH Denver Core event are currently limited, but being followed closely with the guidance of LostLocal. The team is in process of procuring team gear and coordinating with partners such as the ETH Denver Polygon team for collaborative opportunities.
+
+ETH Denver #BUIDLWeek kicks off February 24th and runs to March 1st. The Core event runs from March 2nd to March 5th. There is a Mountain retreat running from March 6th to the 9th. Attendance to the retreat costs extra, and many of our members have not opted in for this. No allocated proposal funding will be utilised for the optional Mountain Retreat.
+
+Fully expanded proposal details can be found [here](https://docs.google.com/document/d/1cJpbepEWpZnxTn3mlEO9ts_RFdI2npBkGBSXb151lPM)
+
+* Please refer to the above document for amendments. Changes were made to the travel and lodging budgets.
+
+Thank you for taking the time to read our proposal and for the continued community support. With frens like you we are definitely GMI.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1064276736243683368)
+
+Option 1: Fund Gotchi Lodge 2023
+
+Option 2: Do Not Fund Gotchi Lodge 2023
+
+**Voting Period:** 2 - 10 February 2023
+
+**Results:**
+
+table_agip60
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x4c43e12bf5d84d049e907194c48f514e1efacb6ec1f1c5c742d0530a86df021a)
 
 <hr>
 

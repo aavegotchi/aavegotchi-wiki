@@ -791,6 +791,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip59",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund Completed Work/Bounties", "17,000,000 GHST (94.11%)"],
+					["Do Not Fund", "1,000,000 GHST (5.89%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip60",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund Gotchi Lodge 2023", "17,000,000 GHST (90.09%)"],
+					["Do Not Fund Gotchi Lodge 2023", "1,800,000 GHST (9.91%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
