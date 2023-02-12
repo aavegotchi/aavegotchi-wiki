@@ -79,6 +79,7 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#launch-round-2-parcel-vrf-rolls>Launch Round 2 Parcel VRF Rolls</a></li>
 <li><a href=#2023-dtf-budget-request>2023 DTF Budget Request</a></li>
 <li><a href=#gotchi-lodge-2023>Gotchi Lodge 2023</a></li>
+<li><a href=#launching-the-aavegotchi-forge>Launching The Aavegotchi Forge</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2838,6 +2839,52 @@ Option 2: Do Not Fund Gotchi Lodge 2023
 table_agip60
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x4c43e12bf5d84d049e907194c48f514e1efacb6ec1f1c5c742d0530a86df021a)
+
+<hr />
+
+### Launching The Aavegotchi Forge
+**Aavegotchi Improvement Proposal #61**
+
+**Proposal Summary:**
+
+**Completed Forge Whitepaper:** [https://docs.google.com/document/d/1RvlJmCRudFnso45oPU0veBqo-OLwwZiMJDaNBjRhf54](https://docs.google.com/document/d/1RvlJmCRudFnso45oPU0veBqo-OLwwZiMJDaNBjRhf54)
+
+I propose that we launch the Aavegotchi Forge! This proposal combines all previous Forge-related signal proposals into a final core proposal. The Core Framework has already been submitted and accepted as a core proposal (AGIP 57). The Completed Forge Whitepaper outlines all Forge mechanics and economics. The Whitepaper will be updated with Forge v1.1- Geodes expansion when the mechanic has been finalized.
+
+The signal proposals included in this core proposal:
+* [The Forge v1.1 – Geodes Funding and Implementation](https://snapshot.org/#/aavegotchi.eth/proposal/0x23655a075cd863a6c91f5a55557413c2b20b6cf3d41ab12c575437b321e9b851)
+* [Forge Raffle Strategy and Revenue Splits](https://snapshot.org/#/aavegotchi.eth/proposal/0xfd80fb620a1bfc80f1796d5f3cdc47bb62223e7ccbb8333bd4d7deb76c9f1fd9)
+* [The Forge- Fee Structure and Burn/DAO Percentages](https://snapshot.org/#/aavegotchi.eth/proposal/0x5436b9282dc8bff710b89110a9bcfd81010fe606f4306673f8e7a46058adc658)
+* [The Forge- Establishing Alloy Ratio](https://snapshot.org/#/aavegotchi.eth/proposal/0xac0a2081017c0540538e877d9bb5f2d8c87dcc1bc47d50435bbfd89cdfcb4962)
+
+The DAO modifiable variables:
+
+The following are built-in variables designed as levers for the DAO to control.
+
+1). Alloy return on smelting
+* Currently set at 90% of the amount required to forge
+* Of the 10% not returned, launch settings are the following:
+    * 50% of alloy sent to a burn address
+    * 50% of alloy sent to the DAO
+
+2). Core Framework Ratios and Sales – Already passed in AGIP 57
+
+3). Essence destination on Forging
+* Settings on launch: 50% of essence will be burnt; 50% sent to the DAO
+
+This proposal has no major adjustments from the passed signal proposals to the final product.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, launch the Aavegotchi Forge
+
+Option 2: No, do not launch
+
+**Voting Period:** 7 - 14 February 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x35f331772e625d209848a32cc25e84fef06d56cca7d270ff0031dcdeb38f3b4c)
 
 <hr />
 
