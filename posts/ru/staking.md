@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2014-04-26T22:00:00.000Z'
 title: 'Стейкинг'
-description: 'Стейкай GHST, делай FRENS'
+description: 'Stake GHST, Become GLTRy'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
