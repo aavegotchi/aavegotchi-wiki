@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: '스테이킹'
-description: 'GHST를 스테이킹하고 FRENS를 모으세요!'
+description: 'Stake GHST, Become GLTRy'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
