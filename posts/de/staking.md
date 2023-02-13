@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Staking'
-description: 'GHST staken, FRENS generieren'
+description: 'Stake GHST, Become GLTRy'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
