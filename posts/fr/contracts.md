@@ -45,7 +45,9 @@ Salut les Frens. Bienvenue dans notre carnet d'adresses Aavegotchi Smart Contrac
 
 * Tiles Diamond Address: [0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355](https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355)
 
-* Aavegotchi and Wearables Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* Aavegotchi Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+
+* Wearables Address: [0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f](https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f)
 
 
 
