@@ -6,6 +6,14 @@ description: 'Milestones of the Aaavegotchi Project'
 contributors: ["unintelligent-nerd"]
 ---
 
+## [The Aavegotchi Forge is going live on 22 Feb 2023!](https://blog.aavegotchi.com/aavegotchi-forge-launch-dates-confirmed/)
+* Craftooorrrs, hope you have been accumulating wearables for crafting! ;)
+<p></p>
+
+## [Vote on AGIPs 62 & 63 now!](https://blog.aavegotchi.com/agip-62-63-now-live/)
+* Gotchigang, let's cast our votes on funding the paartnership with Infinity Keys and Sandbox, respectively!
+<p></p>
+
 ## [Vote on AGIP 61 nao!](https://blog.aavegotchi.com/core-proposal-agip-61/)
 * Cast your votes on launching the Aavegotchi Forge!
 <p></p>
