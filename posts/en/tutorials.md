@@ -40,6 +40,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 <li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
+<li><a href=#introduction-to-the-aavegotchi-forge>Introduction to the Aavegotchi Forge</a></li>
 </ul>
 
 </div>
@@ -169,3 +170,12 @@ Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-membe
 * Learn about Haarvesters, Reservoirs, and Maakers
 * Learn how to empty your Reservoirs
 * Learn how to craft Installations
+
+### Introduction to the Aavegotchi Forge
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0F5L3MJw8X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* Learn about Smelting and Forging
+* Learn about Schematics, Cores, Alloys, and Essence
+* Learn how to smelt your Wearables
+* Learn how to forge a Wearable
+* Learn how to speed up forging
