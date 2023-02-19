@@ -815,6 +815,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip61",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, launch the Aavegotchi Forge", "15,000,000 GHST (96.46%)"],
+					["No, do not launch", "561,000 GHST (3.54%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
