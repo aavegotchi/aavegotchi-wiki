@@ -25,6 +25,7 @@ Light the furnace and grab your hammers. It’s time to craft some wearables!
 <p><a href=#essence>Essence</a></p>
 <li><a href=#curbing-inflation>Curbing Inflation</a></li>
 <li><a href=#how-to-forge-and-smelt>How to Forge and Smelt</a></li>
+<p><a href=#forging-time>Forging Time</a></p>
 <li><a href=#blacksmithing-skill>Blacksmithing Skill</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#references>References</a></li>
@@ -88,9 +89,23 @@ This will allow for exciting, new wearables to be released in the form of schema
 
 Coming Soon™ to a portal near you will be the all-new Forge UI. Make sure you bring your materials, and our resident Graandmaster Blacksmith, Flex, will show you the ropes! All the details you need for Forging and Smelting can be found here.
 
+### Forging Time
+
+While smelting is an instantaneous process, forging takes time. During this time, players’ materials remain locked inside The Forge. Players return to claim their new wearable once the forging is complete.
+
+The time it takes to forge a new wearable depends upon the wearable itself- the rarer and more valuable a wearable, the longer the forging process will take.
+
+A gotchi can only forge one wearable at a time. The player must wait for the wearable to complete before forging another wearable (or select a different gotchi to interact with The Forge).
+
+table_forgingTime
+
 ## Blacksmithing Skill
 
 Coming with the Forge is the all-new and first-ever crafting skill: Blacksmithing. Crafting new wearables takes significant time or will cost you mountains of [GLTR](/gotchus-alchemica-exchange#gltr-token). However, this crafting time can be greatly diminished by leveling up your Blacksmithing skill. Your Gotchi will gain experience for both Forging and Smelting items.
+
+Upon the completion of forging and smelting, the player’s designated gotchi will receive a certain amount of smithing skill points (with rare items granting more points).
+
+table_skillPointsEarned
 
 ## Forge Wearables
 
