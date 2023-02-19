@@ -80,6 +80,8 @@ contributors:
 <li><a href=#2023-dtf-budget-request>2023 DTF Budget Request</a></li>
 <li><a href=#gotchi-lodge-2023>Gotchi Lodge 2023</a></li>
 <li><a href=#launching-the-aavegotchi-forge>Launching The Aavegotchi Forge</a></li>
+<li><a href=#infinity-keys-x-aavegotchi-paartnership>Infinity Keys X Aavegotchi Paartnership</a></li>
+<li><a href=#aavegotchi-x-the-sandbox>Aavegotchi X The Sandbox</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2884,7 +2886,123 @@ Option 2: No, do not launch
 
 **結果:**
 
+table_agip61
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x35f331772e625d209848a32cc25e84fef06d56cca7d270ff0031dcdeb38f3b4c)
+
+<hr />
+
+### Infinity Keys X Aavegotchi Paartnership
+**Aavegotchi Improvement Proposal #62**
+
+**提案の要約**
+
+This CoreProp is for funding the Infinity Keys X Aavegotchi Onboarding Hunt. Infinity Keys put forth a discussion forum post [here](https://dao.aavegotchi.com/t/infinity-keys-x-aavegotchi/4595), has attended several Saturday Hangouts and Sunday DAO meetings to discuss their proposal, and include longtime members of the Aavegotchi community.
+
+If you didn't read the detailed post here is a tldr.
+
+* 4,500 ghst to fund a series of gamified challenges to promote onboarding for new players, 3,000 ghst is dedicated for treasure incentives.
+
+* 3 Challenges: 1) A passcode riddle based on Gotchi Lore, 2) Hold or Rent a Gotchi 3) Pet a Gotchi, and 4) Find a passcode hidden in the gotchiverse.
+
+* These are designed to be easy for new players to get familiar with the vibes and concepts behind Aavegotchi before they make a full purchase decision to play.
+
+* At some point beyond the start of the campaign (1-3 weeks) we will conduct a drawing from addresses that have completed the achievement and airdrop various Tickets to winning participants.
+
+* There is no hard timeline to stop this campaign so it can be used for future Gotchi testers and Infinity Keys collectors beyond the campaign and treasure airdrops.
+
+* Completing this achievement will be required in other Infinity Keys quests and hunts, bringing other communities to Aavegotchi
+
+One question that came through the discussions was about metrics. Infinity Keys has 26,000 mints from 5,000+ unique wallets for both free and low-cost mints from players solving challenges and collecting NFT keys. Individual partner projects have seen ~4,000 mints. And what's more exciting is that many of those mints continue to creep up far after the promotional campaign is complete.
+
+We have done no marketing or promotions, so we think this is a good sign that as we ramp up community, more players will come to test out the games. We can't guarantee any level of participation, however, it is very much in our interest to bring as many players as we can through this hunt and into Aavegotchi.
+
+One of the major goals of this proposal is to give those around you an easier path to trying Aavegotchi without buying in at a high price point. This onboarding comes from a deep understanding of the Gotchi community and how the system functions from an insider's perspective, but has the Alchemica to reach new players and bring them in.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/infinity-keys-x-aavegotchi/4595)
+
+Option 1: YES, fund 4.5k GHST partnership
+
+Option 2: NO, do not fund partnership
+
+**Voting Period:** 16 - 23 February 2023
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0x69f0ac4e4dc5c651d56940ba4717fedcf8813743c4f5a27967317a8fb29e69da)
+
+<hr />
+
+### Aavegotchi X The Sandbox
+**Aavegotchi Improvement Proposal #63**
+
+**提案の要約**
+
+The GFA Sandbox team proposes to launch the creation of the Aavegotchi X The Sandbox Experience. It follows the great feedback we got from the Proof of Concept presented in January and the SigProp that received the support of the DAO.
+
+This proposal aligns with the recent Aavegotchi Blog Post related to 2023 “The Year of the Gotchi.” We are convinced that having Aavegotchi in The Sandbox will bring exposure from a large user base to our ecosystem.
+
+**Bringing Aavegotchi into the Sandbox will contribute to achieving Aavegotchi’s three main focuses of 2023: Player growth, Partnerships and Decentralization.**
+
+As described in the DAO Discord Thread, we have an Aavegotchi IP Licence and are discussing  the details of this partnership with The Sandbox but we already have some exclusive intel to share. The Alpha Season 4 is on its way (End Q2 2023) and Aavegotchi could be part of it if the DAO supports this initiative! With these Sandbox experiences, Aavegotchi DAO will be able to republish again for another Alpha season or in the future on their own lands.
+
+**Please note these additions upon the feedback received from the SigProp and the most recent discussions with The Sandbox:**
+
+- Maintenance and Updates: The SigProp mentions "New updates or features to be added after those releases are out of this scope of work." This point will evolve regarding the last discussions we had with The Sandbox and expectations from DAO members. We got the confirmation that the time between the Alpha season 4 with experiences v0.8 (Q2 on sandbox lands) and the expected date for Land owners to be able to release experiences on their own lands shouldn't be too far from each other. That's the reason this proposal includes maintenance and updates until Aavegotchi DAO is willing to publish its own experiences on land (1 Major Gamemaker version update to 0.9 ie). As 0.8 just went out, Sandbox confirmed that the next release isn't right around the corner...
+
+- Ownership: As explained in Hangouts and DAO calls with the community, the GFA does not claim the ownership of any asset or account used / created in this whole process. The limited license agreement entrusts the GFA team to create and use digital assets based on Aavegotchi intellectual property (10% royalty to PC). All source files from asset creations (.VXM / . VXR / ...) and credentials of the Sandbox account (dedicated account) are licensed for a specified purpose and scope: the development and maintenance of our Sandbox Aavegotchi experience.
+
+This proposal will also lead to some returns upon:
+- Marketing Strategy (Ownership and specific tokens/assets) for experienced players (Gotchis i.e.)
+- Aavegotchi and Sandbox project Aura and community
+- Incentivized events (cross universe/easter eggs/enigmas/contests/leaderboard/prize pools/Twitch Live/AMA/Crew3 quests)
+- Avatars / Wearables Sales (5% commission to Sandbox)
+- Original Assets sales
+
+**This Core Proposal is to fund 195k GHST for the creation of two Aavegotchi Experiences in the next 4 months as per:**
+
+* The production costs
+* The side Costs (Project management tool licenses / Promotion / Creation process events / Sandbox Grant discussions and negotiations)
+* Incentives (In-game and Cross-Universe)
+
+Those costs cover 2 experiences:
+
+* A single player game on a 2x2 land with multiple layers dedicated to Aavegotchi environments
+* A multiplayer game on a 1x1 land with multiple layers
+
+We will start to work on these 2 experiences right after this voting session if the DAO supports it.
+
+**A detailed funding request is available here if you missed it in the DAO Thread:** [https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg](https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg)
+
+We are proposing a split funding with DAI & GHST from the treasury holdings (900k DAI and 4M GHST):
+
+**95 kGHST + 110 kDAI (rate : 1 GHST = $1.10)**
+
+The idea is to limit the selling pressure on GHST for the production compensation part. This would be 2 payments operated by the DAO Fondation. The release would be settled this way:
+
+**50% at start (47.5k GHST + 55k DAI)**
+
+**50% mid-journey (47.5k GHST + 55k DAI)**
+
+Mid-journey achievements to be judged would be based on The Sandbox milestones already settled in the timeline to be signed in order to be ready for the end of Q2 2023. The Beta Version is planned for the beginning of May and is the milestone to be considered. According to our contracts PC + The Sandbox would judge the quality of that mid term release.
+
+This funding includes some incentives to be distributed to engaged players and Aavegotchi community members.
+
+Thank you for your support Frens and get to your votes!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/aavegotchi-x-sandbox-experience-proposal/4637)
+
+Option 1: Yes, fund the experience
+
+Option 2: No, don’t fund the experience
+
+**Voting Period:** 16 - 23 February 2023
+
+**結果:**
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://vote.aavegotchi.com/#/proposal/0xfb622fe34ebf295d55d6d9a44d6da55176861f24c8d9393af7838cae393e6f7f)
 
 <hr />
 
