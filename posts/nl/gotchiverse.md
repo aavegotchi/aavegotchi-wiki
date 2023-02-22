@@ -131,15 +131,15 @@ Er is ook een [Gotchi Lending](/gotchi-lending) functie waarmee Gotchi eigenaren
 
 Je kunt nu beginnen met spelen op [verse.aavegotchi.com](https://verse.aavegotchi.com).
 
-U heeft een Gotchi nodig om toegang te krijgen tot de Gotchiverse.
+First, you need to select your Gotchi's spawn location.
 
-Selecteer de Gotchi die u gaat gebruiken en klik op het portaal om in te voeren.
+You can select from the active bounce gates (left in below image) or one of the parcels you own (right in below image).
 
-<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" alt="Gotchiverse binnengaan" />
 
-Vervolgens moet je de spawnlocatie van de Gotchi selecteren. U kunt kiezen uit verschillende locaties in district 1, elk REALM pakket dat u bezit, of een willekeurige locatie.
+Next, select the Gotchi that you will be using and click on the portal to enter.
 
-<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" alt="Aavegotchi entering the Gotchiverse" />
 
 ## In de Gotchiverse
 
@@ -150,39 +150,36 @@ Bediening van Gotchis kan worden bediend met behulp van pijltjestoetsen, WASD sl
 De Gotchiverse UI is als volgt ontworpen:
 
 * Linksboven: Kaart van de Gotchiverse. Uw huidige locatie wordt gereflecteerd als een Gotchi
-* Rechts boven: De huidige Gotchi die je gebruikt. De alchemie die u heeft verzameld met deze specifieke Gotchi
-* Links onder: Chat - kan worden ingesteld op het specifieke district waar u zich bevindt of in het Citaadel
-* Rechtsonder: Crafting Tabel, Voorraad en Bouw Modus
+* Top center: Super chat — Load Alchemica into a "Gotchiverse Wallet" and perform a Super chat that drops Alchemica around the Gotchi's radius. Up to 1000 of each kind of Alchemica can be dropped at once
+* Top right: Settings and Logging out
+* Bottom left: Gotchi stats and Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table and Build Mode
 
 <img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting tafel" />
 
 De werkbank wordt gebruikt om nieuwe installaties te maken met Gotchus Alchemica. Bekijk de [Recepten](/recipes) pagina voor sommige van deze installaties die je kunt maken, de Gotchus Alchemica vereiste, en de tijd die nodig is om ze te maken. Er is een transactie nodig om ze te maken.
 
-<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventaris" />
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
 
-Zodra de installaties zijn gemaakt, worden ze weerspiegeld in jouw inventaris.
-
-<img src="/gotchiverse/build-mode.png" alt="Aavegotchi bouw installaties" />
-
-Bouw modus stelt u in staat uw installaties te plaatsen op de REALM pakketten die u bezit. Er is een transactie nodig om je installaties op je pakket te installeren.
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
 ## Chat Commando's
 
-De volgende tabel toont de chatcommando's in de Gotchiverse.
+The following table shows the chat commands in the Gotchiverse.
 
-tabel_chatOpdrachten
+table_chatCommands
 
 ## Gotchus Alchemica
 
-**Gotchus Alchemica** (ERC20 tokens) zijn de vier elementen van de Gotchiverse: Fud, Fomo, Alpha, and Kek. Ze kunnen onder meer worden gecombineerd met elkaar voor het maken van installaties en Aesthetica. Lees meer over de tokenomics [hier](/gotchus-alchemica).
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and [Aesthetica](/aesthetica), among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="Gotchus Alchemica" />
 
-De onderstaande tabel toont hun totale aanbod:
+The table below shows their total supply:
 
-tabel_gotchusAlchemicaSupply
+table_gotchusAlchemicaSupply
 
-Gotchus Alchema kan op vier verschillende manieren uit het REALM worden verkregen:
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **[Alchemical Channeling](/alchemical-channeling)**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
 * **Communal Channeling**: Aavegotchis kunnen ook collectief alchemica channelen wanneer een Gotchi Lodge Installatie is gebouwd op het REALM Parcel. Om deel te nemen aan hetCommunal Channeling, moet de Aavegotchi de bijbehorende Guild Insignia dragen en aanwezig zijn op het REALM Parcel tijdens het ritueel. Voor elke extra Aavegotchi die deelneemt aan het Communal Channeling ritueel, zal de Alchemica sneller verdiend worden.
@@ -276,18 +273,18 @@ REALM Owners can toggle the access rights to their REALM Parcels at the [My REAL
 
 <img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
 
-There are 4 types of Access Rights:
+There are 5 types of Access Rights:
 
 * Alchemical Channelling
 * Empty Reservoir
 * Equip Installations
 * Equip Tiles
+* Upgrade Installations
 
 The options for the Access Rights include:
 * Only me (Default)
 * Me + Borrowed Gotchi
-* Whitelist (Coming Soon)
-* Ban List (Coming Soon)
+* Whitelist
 * Anyone
 
 ## REALM Tokenomics
