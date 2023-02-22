@@ -271,18 +271,18 @@ REALM Owners can toggle the access rights to their REALM Parcels at the [My REAL
 
 <img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights">
 
-There are 4 types of Access Rights:
+There are 5 types of Access Rights:
 
 * Alchemical Channelling
 * Empty Reservoir
 * Equip Installations
 * Equip Tiles
+* Upgrade Installations
 
 The options for the Access Rights include:
 * Only me (Default)
 * Me + Borrowed Gotchi
-* Whitelist (Coming Soon)
-* Ban List (Coming Soon)
+* Whitelist
 * Anyone
 
 ## REALM Tokenomics
