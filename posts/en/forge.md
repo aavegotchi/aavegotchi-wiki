@@ -24,6 +24,7 @@ Light the furnace and grab your hammers. It’s time to craft some wearables!
 <p><a href=#essence>Essence</a></p>
 <li><a href=#curbing-inflation>Curbing Inflation</a></li>
 <li><a href=#how-to-forge-and-smelt>How to Forge and Smelt</a></li>
+<p><a href=#alloy-forging-costs-and-smelting-yields>Alloy Forging Costs and Smelting Yields</a></p>
 <p><a href=#forging-time>Forging Time</a></p>
 <li><a href=#blacksmithing-skill>Blacksmithing Skill</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
@@ -70,6 +71,8 @@ The [DAO](/dao) has decided to send half of the lost alloy to be burned forever 
 
 This potent material comes straight from the hearts of sacrificed Aavegotchis. It takes Essence to Forge new Godlike items and pets. However, when you smelt those items again, ALL the Essence is lost!
 
+**1 Gotchi Sacrificed = 1,000 Essence**
+
 ## Curbing Inflation
 
 Each component serves as a different lever to control inflation in different ways.
@@ -86,7 +89,11 @@ This will allow for exciting, new wearables to be released in the form of schema
 
 ## How to Forge and Smelt
 
-Coming Soon™ to a portal near you will be the all-new Forge UI. Make sure you bring your materials, and our resident Graandmaster Blacksmith, Flex, will show you the ropes! All the details you need for Forging and Smelting can be found here.
+Make sure you bring your materials, and our resident Graandmaster Blacksmith, Flex, will show you the ropes! All the details you need for Forging and Smelting can be found here.
+
+### Alloy Forging Costs and Smelting Yields
+
+table_forgingCostsSmeltingYields
 
 ### Forging Time
 
@@ -100,11 +107,27 @@ table_forgingTime
 
 ## Blacksmithing Skill
 
-Coming with the Forge is the all-new and first-ever crafting skill: Blacksmithing. Crafting new wearables takes significant time or will cost you mountains of [GLTR](/gotchus-alchemica-exchange#gltr-token). However, this crafting time can be greatly diminished by leveling up your Blacksmithing skill. Your Gotchi will gain experience for both Forging and Smelting items.
+The Forge is accompanied with the all-new and first-ever crafting skill: Blacksmithing. Crafting new wearables takes significant time or will cost you mountains of [GLTR](/gotchus-alchemica-exchange#gltr-token). However, this crafting time can be greatly diminished by leveling up your Blacksmithing skill. Your Gotchi will gain experience for both Forging and Smelting items.
 
 Upon the completion of forging and smelting, the player’s designated gotchi will receive a certain amount of smithing skill points (with rare items granting more points).
 
 table_skillPointsEarned
+
+As skill points accrue, the Gotchi is able to progress to higher and higher smithing levels. Gotchis with higher smithing levels will be able to claim their new wearables from The Forge in a shorter timeframe than those with lower smithing levels. In typical RPG fashion, the amount of skill points required to reach each new level increases from one level to the next in exponential fashion.
+
+The formula for the forging time multiplier (M) for a gotchi given its smithing skill level (L) is as follows:
+
+```
+M = 0.97^L-1
+```
+
+All gotchis start at smithing skill level 1 with zero skill points. To determine the additional skill points required (P) to advance to a level (L) from the prior level (L - 1):
+
+```
+P = 8 * 1.4^L
+```
+
+table_blacksmithingLevels
 
 ## Forge Wearables
 
