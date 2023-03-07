@@ -827,6 +827,78 @@ export const tables
         },
 		
 		{
+            tableName: "agip62",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES, fund 4.5k GHST partnership", "18,000,000 GHST (96.25%)"],
+					["NO, do not fund partnership", "692,000 GHST (3.75%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip63",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund the experience", "12,000,000 GHST (65.38%)"],
+					["No, don’t fund the experience", "6,600,000 GHST (34.62%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip64",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES, close the GHST Curve", "17,000,000 GHST (91.17%)"],
+					["NO, do not close the GHST Curve", "1,700,000 GHST (8.83%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip65",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, agree to 25/25/25/25 split", "18,000,000 GHST (94.48%)"],
+					["No, find another way", "1,100,000 GHST (5.52%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip66",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Form and fund the CTT.", "17,000,000 GHST (93.41%)"],
+					["No. Do not form or fun the CTT.", "1,200,000 GHST (6.59%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip67",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Agree with the pre-curve plan", "13,000,000 GHST (94.45%)"],
+					["No, don't agree", "749,000 GHST (5.55%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
