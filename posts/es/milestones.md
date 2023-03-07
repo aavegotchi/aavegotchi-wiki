@@ -22,6 +22,19 @@ contributors:
 
 ## Year 2023
 
+## [The Great GHST Migration](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+* We are gonna turn off the bonding curve!
+* Here's what you need to know/do!
+<p></p>
+
+## [Vote on AGIP 67!](https://blog.aavegotchi.com/agip-67-now-live/)
+* Gotchigang, it's time to vote on the Curve Transition Plan
+<p></p>
+
+## [Vote on AGIPs 64, 65, & 66](https://blog.aavegotchi.com/agip-64-65-66/)
+* To close or not to close the bonding curve? What's the split for the Curve DAI? Form the Curve Transition Team? Let's vote on these matters now!
+<p></p>
+
 ## [The Aavegotchi Forge is going live on 22 Feb 2023!](https://blog.aavegotchi.com/aavegotchi-forge-launch-dates-confirmed/)
 * Craftooorrrs, hope you have been accumulating wearables for crafting! ;)
 <p></p>
