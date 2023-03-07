@@ -82,6 +82,10 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#launching-the-aavegotchi-forge>Launching The Aavegotchi Forge</a></li>
 <li><a href=#infinity-keys-x-aavegotchi-paartnership>Infinity Keys X Aavegotchi Paartnership</a></li>
 <li><a href=#aavegotchi-x-the-sandbox>Aavegotchi X The Sandbox</a></li>
+<li><a href=#close-the-ghst-bonding-curve>Close the GHST Bonding Curve</a></li>
+<li><a href=#25-25-25-25-split-for-curve-dai>25/25/25/25 Split for Curve DAI</a></li>
+<li><a href=#form-and-fund-the-curve-transition-team>Form and Fund the Curve Transition Team</a></li>
+<li><a href=#curve-transition-plan---securing-funds-for-liquidity>Curve Transition Plan - Securing funds for liquidity</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -2929,6 +2933,8 @@ Option 2: NO, do not fund partnership
 
 **Results:**
 
+table_agip62
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x69f0ac4e4dc5c651d56940ba4717fedcf8813743c4f5a27967317a8fb29e69da)
 
 <hr />
@@ -3000,9 +3006,289 @@ Option 2: No, don’t fund the experience
 
 **Results:**
 
-**Results:**
+table_agip63
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xfb622fe34ebf295d55d6d9a44d6da55176861f24c8d9393af7838cae393e6f7f)
+
+<hr />
+
+### Close the GHST Bonding Curve
+**Aavegotchi Improvement Proposal #64**
+
+**Proposal Summary:**
+
+AavegotchiDAO was summoned as a 100% on-chain DAO in September 2020 via the deployment of the GHST Bonding Curve. This proposal is based on a diligent risk assessment of the Curve and concludes that there is a strong case for closing the GHST Bonding Curve and freeing GHST from reliance on MakerDAO’s DAI stable coin.
+
+Closing the Curve in effect concludes a 2.5+ year DAICO (DAO+ICO) token sale. All DAI in the GHST Bonding Curve at the time of closing will transform the DAI from being half of a simple liquidity pool into actual Aavegotchi funding. A second Signal Proposal follows this one proposing a 30/30/40 split of the DAI for the founding team at Pixelcraft Studios, AavegotchiDAO treasury, and an additional 40% for the DAO that is explicitly earmarked for liquidity provisions.
+
+*The Problem: Unnecessary Risk Underpins Aavegotchi Today*
+
+“The Curve is forever” is a shorthand way of expressing how reliable GHST’s tokenomics have been up to this point. However, starting in 2022 turbulence in the macro crypto space has been growing, and our beloved bonding curve is potentially at risk of contagion.
+
+While MakerDAO, the issuers of DAI, have delivered a stable stablecoin up to this point (DAI has never had a significant depeg from the USD) there is no guarantee that such success will continue indefinitely. Recent red flags include an inability for MakerDAO to remove the GUSD vault (a stablecoin issued by the recently bankrupt Genesis), the “Endgame” plan to depeg DAI from USD, growing exposure to real-world-assets (RWA) fraught with counterparty risk, and a general overexposure to (and vulnerability of) the USDC stablecoin in the MakerDAO asset pool.
+
+Even if one concludes that DAI’s risk is only low to moderate, we must soberly assess whether such risk tolerance is acceptable to our DAO. Today, I put forth that not only is any risk from DAI’s depeg unacceptable, but such risk is also entirely avoidable.
+
+*Aavegotchi Is Ready to Secure Funds On Our Own*
+
+AavegotchiDAO has already demonstrated that it can manage its own treasury. Likewise, two plus years of Pixelcraft Studios flawlessly managing all significant ecosystem multisigs and upgradeable contracts underscores the company’s readiness to also manage the DAI at scale.
+
+With nearly 20M DAI in the curve, there is sufficient funding to continue development and enable deep liquidity at the same time. The Curve was KYC’d and never accessible to a large swath of Aavegotchi fans. Under this proposal, GHST with good liquidity would actually become more accessible to more people!
+
+It is along this backdrop of benefits including derisking, securing funding, and improving GHST accessibility that I propose closing the GHST Bonding Curve.
+
+*Allocation of the Curve’s DAI*
+
+Turning off the Curve is an opportunity to not only derisk from reliance on MakerDAO, but also secure significant funding for our ecosystems.
+
+So far, the DAI in the Curve’s contracts has only served one purpose: to provide liquidity for the creation and destruction of GHST tokens. After the Curve’s closure, whatever DAI remains in that contract will be freed to go to work on behalf of the Aavegotchi protocol.
+
+My originally paired Signal Proposal regarding allocation of DAI was voted down. However, another Signal Proposal written by Immaterial and Fantasma has passed with over 80% support. Titled “25/25/25/25 split for curve DAI”, that SigProp was upgraded to CoreProp shortly after the publishing of this proposal you are now reading.
+
+IF the 25/25/25/25 CoreProp passes alongside this proposal to close the curve, then DAI post-Curve closure shall be allocated in accordance with it.
+
+IF the 25/25/25/25 CoreProp does not pass, but this proposal to close the curve does pass,  Curve’s on-chain vote on Aragon will not happen until a new CoreProp regarding DAI allocation is passed.
+
+*Process:*
+
+Assuming both CoreProps pass, the process for our community to close the GHST Bonding Curve will happen in a controlled, methodical way by following these steps:
+
+Sunday, Feb 26
+
+This CoreProp and a DAI distribution CoreProp must both pass in order to confirm AavegotchiDAO’s intention and terms. If passed, the Aragon on-chain vote to close the GHST Bonding Curve begins in the days following shortly after.
+
+*Achieving quorum on our on-chain vote requires 8% of total GHST supply to participate. That means GHST holders need to coordinate migrating GHST back to Ethereum between now and the vote so that we can honor the AGIP and successfully close the Curve.
+
+IF Aragon vote successfully closes the Curve:
+
+The Curve will immediately close, capping the supply of GHST. Any DAI collateral shall be transferred to all multisig wallets in accordance with the terms of the 25/25/25/25 AGIP.
+
+*Risks*
+
+The risks of closing the Curve mostly are technical in nature. Pixelcraft Studios has already had our Solidity team spend time simulating the process for closing the Curve and how that would work. Everything worked as designed. The majority of risk is in the moments after the Curve closes.
+
+Without deep liquidity and a spike in outside entities speculating, we may see dramatic volatility in the GHST market.
+
+There is also a greater-than-zero risk for the new multisig wallets tasked with securing the DAI. With proper planning and for the reasons noted above, we believe that AavegotchiDAO is capable of this responsibility.
+
+*Benefits*
+
+The benefits and reasoning for this are already well fleshed out above but to briefly review:
+
+Remove all risk of Aavegotchi’s success relying on an outside party (MakerDAO and DAI)
+
+Complete the GHST continuous token sale, securing funding for both AavegotchiDAO and Pixelcraft Studios, thus enabling bigger, better, faster, stronger development for both parties.
+
+Improve GHST tokenomics, especially in terms of accessibility. As opposed to having most liquidity locked into a KYC-walled liquidity pool, AavegotchiDAO will be able to dynamically direct liquidity to the platforms that make the most sense at any given time.
+
+*Conclusion*
+
+For the benefits noted above, I am proposing that now is the time to meet the moment and make this significant change to the Aavegotchi ecosystem’s meta. The status quo is simply unacceptable as the risk of doing nothing cannot be justified. Together we have weathered a brutal bear market in 2022 and now have an opportunity to prove we’ve learned lessons from watching seemingly invincible players in the space fall. Securing significant funding that is rightfully raised also makes a lot of sense given where we are as a protocol. The vision is too great for small budgets especially when the option to close the token sale and allocate those funds to the vision’s development is completely within AavegotchiDAO’s control.
+
+We are in a completely unique situation where we can self-fund on a scale envious of our competitors, all while completely derisking from our current reliance on DAI tokens. Let's use this opportunity as a rallying cry to come together and level up as the completely independent, self sustaining AavegotchiDAO.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternate-proposal-for-post-curve-allocation/4668?ref=the-curve)
+
+Option 1: YES, close the GHST Curve
+
+Option 2: NO, do not close the GHST Curve
+
+**Voting Period:** 19 - 26 February 2023
+
+**Results:**
+
+table_agip64
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x6cabf7712786db0f3a954fe03e84c44a12d4b14aa2fb5243c606607bf6296bf1)
+
+<hr />
+
+### 25/25/25/25 Split for Curve DAI
+**Aavegotchi Improvement Proposal #65**
+
+**Proposal Summary:**
+
+We would like to put forward our own proposal that we believe is the fairest way to allocate the funds whilst also protecting asset holders. We believe that the 4 pillars of the Aavegotchi ecosystem are: Liquidity, The DAO, Pixelcraft, and Asset holders. Therefore, our proposal is to allocate the curve funds evenly between these 4 pillars and making sure asset holders are not left behind by allocating them 25% of the DAI for Protocol Rewards which will directly reward asset holders through either Rarity Farming, or another reward mechanism chosen by the DAO.
+
+The split would be as follows:
+
+* Liquidity: 25%
+
+* The DAO: 25%
+
+* Pixelcraft: 25%
+
+* Protocol rewards: 25%
+
+By protocol rewards, we mean fair and inclusive reward pools that account for all native assets in the protocol. A yes vote for protocol rewards in this case does not mean a yes vote for ongoing RF in its current iteration, it protects funds to be used to make sure that protocol assets remain liquid and sufficiently included in the economic cycle/paradigm going forward.
+
+A yes vote for protocol rewards signals to loyal supporters of the protocol that the original vision remains intact, rather than being diverted into new and unproven games and business models.
+
+Without inclusion/correlation between GHST and assets, great economic disruption could follow the turning off of the curve for asset owners. A stream of funding protocol rewards for two years not only creates an ongoing source of buy side liquidity for the GHST token, it also allows market participants to trust in the correlation between GHST and protocol assets.
+
+As we prepare to release the Forge and GBM different assets, we have the choice to signal to market participants whether they are bidding into a single RF season, or towards inclusion in the economic benefits of the platform for a full two years from here.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/even-allocation-of-curve-reserves-among-4-pillars-of-the-ecosystem/4664?ref=the-curve)
+
+Option 1: Yes, agree to 25/25/25/25 split
+
+Option 2: No, find another way
+
+**Voting Period:** 19 - 26 February 2023
+
+**Results:**
+
+table_agip65
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0xdae48a92f83f8317dac11e1f28475ce38f6cf9b1986695b6d229e50ca24c03ea)
+
+<hr />
+
+### Form and Fund the Curve Transition Team
+**Aavegotchi Improvement Proposal #66**
+
+**Proposal Summary:**
+
+We propose the formation of a DAO Curve Transition Team (CTT) to assist the DAO in managing liquidity and treasury on a contingent basis prior to and after turning off the GHST curve should the DAO consent. We have numerous problems to tackle which need thoughtful investigation. The CTT will provide detailed summaries and analysis of our current state and potential paths moving forward regarding liquidity and asset management. These are some of the main questions the CTT will address and provide potential paths and analyses for DAO consideration:
+
+*Regarding liquidity:*
+
+* Should current treasury assets be used to provide liquidity prior to the curve being turned off?
+
+* If so, how much? What wallet will hold these LP tokens? Will that liquidity remain after the curve DAI is distributed? Should the DAO stake those LP tokens for GLTR?
+
+* Should the DAO keep GHST-USDC as the primary liquidity pool? If supporting any secondary pools, where do we diversify out?
+
+* What is our goal amount of decentralized liquidity?
+
+* How does this compare to current liquidity? How fast should we seek to establish our goal amount?
+
+* What are potential estimations for impermanent loss with different potential trajectories for GHST?
+
+* Should we turn off GLTR rewards for amGHST and move them elsewhere?
+
+*Regarding treasury management:*
+
+* What are our operations for treasury management?
+
+* What wallet is holding the funds?
+
+* Is our operational security process adequate?
+
+* Are we keeping funds in DAI or moving to alternative assets?
+
+* What other stablecoins would we consider?
+
+* What other crypto assets would we consider? ETH, BTC, MATIC? On what chain?
+
+* What DeFi protocols should we consider for treasury management?
+
+* Which ones should we meet with and what liquidity mining rewards should we aim for?
+
+* Should we perform GHST buybacks? If so, how? What are the potential impacts and costs of such a strategy at different liquidity targets?
+
+* What should be done with interest earned? GHST buybacks? Compounding into the asset earning interest?
+
+To answer the above questions with sufficient market research, we propose a 10,000 GHST bounty. We aim to provide the DAO a complete analysis within 3 weeks with multiple potential paths for consideration. Efficient treasury management will provide yield to keep our operations sustainable while also directing liquidity to ensure decentralized access to our core product.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-curve-transition-team/4676?ref=the-curve)
+
+Option 1: Yes. Form and fund the CTT.
+
+Option 2: No. Do not form or fun the CTT.
+
+**Voting Period:** 21 - 28 February 2023
+
+**Results:**
+
+table_agip66
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x93f3e0fc14dec5ca662b6ec0df89a8ec3e22502e0171c326d087defd93c5ac2f)
+
+<hr />
+
+### Curve Transition Plan - Securing funds for liquidity
+**Aavegotchi Improvement Proposal #67**
+
+**Proposal Summary:**
+
+*Important note:* Currently there is $38M of DAI in the curve contract, 30% more than when sigprop went live, so we are asking for a bit more funds than in sigprop ($4M increased to $5M). This increase allows us to increase the liquidity on the DEXs a little more and not end up with cash intended for liquidity that would end up lying idle.
+
+Hello Frens!
+
+The core proposal to close the curve is in progress and the vote for a 25/25/25/25% split is likely to pass.
+
+One of these 25% was voted by the DAO to be used as liquidity to allow new entrants not to suffer from high slippage and to have a nice and smooth price discovery.
+
+At the moment the liquidity on the DEX is quite low. We have about $2 million in liquidity in the GHST-USDC Quickswap pool and we can assume that if we do nothing it will drop drastically because the 8% APY coming from the GLTR is not enough incentive compared to the impermanent loss risks when the curve will close.
+
+*The liquidity provision will be split in 2 plans:*
+
+* Pre-curve plan: Ensure high liquidity for the curve transition.
+
+* Post-curve plan: Buyback (protocol rewards), DAO treasury management, liquidity reallocations after price discovery.
+
+In the sigprop we had asked to secure $4M for the pre-curve plan while having fairly approximate plans, so after discussions with Balancer and Quickswap we are coming back with a more detailed plan.
+
+This core-prop only discusses the pre-curve plan to ensure liquidity on DEXs.
+
+We have a liquidity target of around $5M+, as this could allow new entrants to trade $50,000 with less than 2% slippage.
+
+*PRE-CURVE PLAN:*
+
+DEXs: Quickswap and Balancer.
+
+*BALANCER LIQUIDITY PROVISION:*
+
+We have a maximum of 957,000 DAI available in the DAO treasury pre-curve closure (1.067M DAI - FArmy's 110k).
+
+To add DAO liquidity, we chose an 80(GHST)-20(Stable) type pool. Since we have a lot more GHST than DAI in the treasury, this type of pool looks quite interesting.
+
+To use 950k DAI in the Balancer pool we would need to match it with the following amounts of GHST if valued at 1.50:
+
+80-20 pool: 2560000 GHST (4,750,000$ pool total)
+
+This liquidity injection must occur 3 days before the close of the curve.
+
+*Bribes program:*
+
+It is possible for the DAO to deploy 6M DAI (this number depends on the number of DAI at the close of the curve) on Balancer and earn 5% (~300k annual) + 5-6% BAL rewards. (For the rest of the calculation we will take the worst case: 5% APY total on the DAI => 300k$/year)
+
+Then we can use the 300k+ in DAI rewards to bribe the 80-20 GHST-STABLE pool, giving the DAO more rewards. This allows us to yield on our treasury and not let it sleep without yield.
+
+Bribes are done via Snapshot, which will require regular participation between our Snapshot DAO and Balancer.
+
+*QUICKSWAP V3 LIQUIDITY MINING PROGRAM:*
+
+To achieve the liquidity target, we believe that a liquidity mining (LM) program in addition to the direct provision of liquidity by the DAO is worthwhile.
+
+We are targeting $3M+ in external liquidity from this program. We believe that an APR of 50% for 2 months would be enough to incentivize the liquidity provider. This would require 160,000 GHST in LM rewards. The GHST must stay above $4 for the LM program to be cheaper than the IL incurred for the DAO. This liquidity mining program must begin 3 days before the curve closes and last for 2 months.
+
+We expect between 10% and 20% of the GHST amount in Quick rewards from Quickswap team for the liquidity mining rewards on their V3 (full range liquidity).
+
+For technical reasons, we cannot add all these rewards to the existing GLTR staking contract. So liquidity providers will have to choose between the GLTR rewards and the GHST + Quick rewards.
+
+So, to summarize, we are asking the DAO to add 2,560,000 GHST with the 957,000 DAI available in the DAO treasury to a 80-20 Balancer pool. This pool will be bribed by the DAO through treasury management thereafter.
+
+This provision of liquidity by the DAO will allow the DAO to earn swap fees and BAL rewards thus obtaining more cash flow.
+
+In addition to these numbers, we are asking the DAO to sponsor a Quickswap LM program with 160,000 GHST.
+
+Doing a liquidity program can be smarter in high volatility times because a 50-50 pool is very prone to impermanent losses, and we prefer incentive liquidity rather than having the DAO lose money through IL.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-curve-transition-team/4676?ref=the-curve)
+
+Option 1: Agree with the pre-curve plan
+
+Option 2: No, don’t agree
+
+**Voting Period:** 25 February - 2 March 2023
+
+**Results:**
+
+table_agip67
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x4fcf6ce9107b62231a92c3c3bed6a5806732b37e5da443883d4f8e5a5286177e)
 
 <hr />
 
