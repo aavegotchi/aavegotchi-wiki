@@ -17,6 +17,8 @@ A token bonding curve (TBC) is a mathematical curve that defines a relationship 
 
 In a typical TBC, the price increases as the supply of the token increases, and decreases as the supply decreases. As the Aavegotchi Bonding Curve was launched through an 	[Aragon](/glossary#aragon) [Decentralized Autonomous Initial Coin Offering (DAICO)](/glossary#daico), this article discusses DAICOs as well.
 
+**Note: The Bonding Curve is pending closure. For more information, read this [post](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/).**
+
 <div class="contentsBox">
 
 **Contents**
