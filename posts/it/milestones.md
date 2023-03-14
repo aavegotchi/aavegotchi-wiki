@@ -22,6 +22,14 @@ contributors:
 
 ## Year 2023
 
+## [2 new Core Proposals to vote on!](https://blog.aavegotchi.com/new-aavegotchidao-proposals-live/)
+* Vote to fund fireball.gg to develop guilds! Vote to secure protocol rewards!
+<p></p>
+
+## [Aavegotchi February 2023 Update!](https://blog.aavegotchi.com/aavegotchi-february-2023-update/)
+* Launch of the Aavegotchi Forge! Rarity Farming Season 5 Rounds 1 & 2! GotchiGang at ETH Denver! And moar!
+<p></p>
+
 ## [The Great GHST Migration](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
 * We are gonna turn off the bonding curve!
 * Here's what you need to know/do!
