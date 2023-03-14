@@ -86,6 +86,8 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#25-25-25-25-split-for-curve-dai>25/25/25/25 Split for Curve DAI</a></li>
 <li><a href=#form-and-fund-the-curve-transition-team>Form and Fund the Curve Transition Team</a></li>
 <li><a href=#curve-transition-plan---securing-funds-for-liquidity>Curve Transition Plan - Securing funds for liquidity</a></li>
+<li><a href=#fund-fireball-gg-team-to-develop-guilds>Fund fireball.gg Team to Develop Guilds</a></li>
+<li><a href=#securing-protocol-rewards---operational---funding-request>Securing Protocol Rewards - Operational & Funding Request</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -3289,6 +3291,169 @@ Option 2: No, don’t agree
 table_agip67
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x4fcf6ce9107b62231a92c3c3bed6a5806732b37e5da443883d4f8e5a5286177e)
+
+<hr />
+
+### Fund fireball.gg Team to Develop Guilds
+**Aavegotchi Improvement Proposal #68**
+
+**Proposal Summary:**
+
+*Changes from SigProp:* The previous SigProp funding request was for 25,000 GHST. The funding request for this CoreProp is for 27,500 DAI (a fixed price of $1.10 per GHST from the previous funding request).
+
+*BEGINNING*
+
+Last year, within the fireball.gg team we tried to imagine how guilds may look like in Aavegotchi. We deployed a guilds list page https://fireball.gg/guilds where players could group up and claim their spot as a guild inside the Gotchiverse!
+
+Twenty one brave guild leaders with their guilds passed through a github pull request quest and participated in this imaginary guild claim!
+
+*NEXT STEPS*
+
+Using all of our knowledge and insight, a new guild model was constructed, with given properties:
+
+- on chain solution based on https://app.safe.global/ makes it very convenient to pull all related guild stats
+- to participate there is no need to move any assets or any change in custody
+- guild warehouse (inventory) out of the box
+- name (flag) as non-transferable NFT
+- we teach our community how to best use the safe app!
+
+From a guild leader perspective the guild creation process would be something like:
+
+1. initiation transaction (deploy an empty gnosis safe)
+2. **claim a guild flag-name in registry contract**
+3. (optional) add members and other associated addresses
+4. (optional) set warehouse access rights
+
+*DELIVERABLES*
+
+The deliverables are separated in two stages (both are included within the current funding request):
+
+Version 2 — core features needed to start building guilds within the community and integration with ecosystem projects (Gotchiverse, STRATEGOTCHI and possibly others)
+
+Version 3 — a feasibility study for the experimental features based on data from the first two versions
+
+*Version 2:*
+
+(a) smart contract with the following capabilities:
+
+1. guild registration
+2. guild deletion
+3. guild name-flag as a non-transferable NFT
+
+(b) a custom data graph with a specific guilds and aavegotchi related stats:
+
+1. voting power
+2. assets (gotchis, wearables, land, etc)
+
+*Version 3:*
+
+(a) updates to the smart contract:
+
+1. guilds legacy — a historical NFT issued to remember historical events, like tournaments
+2. advanced guild warehouse access framework on https://github.com/gnosis/zodiac-guard-scope/
+
+(b) guilds market
+
+(c) other needed features based on data from version 2
+
+*BUDGET*
+
+(in DAI)
+
+- model, organization, integrations (ordengg) — 14,300
+- smart contract (PG) — 8,250
+- graph and data structures (ordengg) — 3,300
+- visual assets (FakeGotchis artists) — 1650
+
+*OWNERSHIP*
+
+After the guilds framework is stable we can:
+
+(a) transfer registry to the dao
+
+(b) deploy a new guild registry system to and from the dao which will effectively give us the “Official Aavegotchi Guilds!”
+
+*TIMELINE*
+
+Version 2 — April-May
+
+Version 3 — June-July
+
+*INTEGRATIONS*
+
+Having guilds makes pvp, farming and development much more interesting! The fireball.gg team has agreements in place to test new guild mechanics with other Aavegotchi sponsored projects:
+
+1. integration with https://gotchiboard.com/ will open a road for guild specific tournaments!
+
+2. Integration with STRATEGOTCHI will help with guilds registrations and leaderboards data.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/fireball-on-chain-guilds/4678?u=yanik&ref=the-curve)
+
+Option 1: Yes, Fund 27,500 DAI
+
+Option 2: No, Do Not Fund
+
+**Voting Period:** 8 - 15 March 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x59c001336592a05451805f89d66859159a136bfb850aa4263ec962f65134e2de)
+
+<hr />
+
+### Securing Protocol Rewards - Operational & Funding Request
+**Aavegotchi Improvement Proposal #69**
+
+**Proposal Summary:**
+
+*CoreProp summary (important parts):*
+
+Buyback schedule specifications for buying $GHST protocol rewards outlined in AGIP65. This includes consideration of a non-linear 18-month buying schedule with a 2-month long multiplier for purchase amounts to coincide with the liquidity mining plan, and the funding of an automated smart contract to execute purchases with various features. More details below:
+
+*INTRO*
+
+Per AGIP65 25% of the unlocked $DAI reserves from the retired Bonding Curve are supposed to be allocated for securing protocol rewards in the form of rarity farming rewards. To meet this goal, the CTT recommends internally developing operations standards for actually following through on this request.
+
+*1) Protocol Rewards Purchasing Program:*
+
+The main aspects voters should consider in this proposal involve establishing a buying schedule for $GHST as well as how to best execute purchases for the DAO.
+
+Filling the rewards pool is proposed to start once the curve closes & operations are in place to buy $GHST, with a planned duration in mind of no more than 18 months to conclusion. We are also proposing that the DAO implement a non-linear approach to daily/weekly purchases.
+
+For voters this would mean commitment to a 2-month long multiplier for every purchase, in line with the liquidity mining schedule outlined in AGIP67. We believe that this is the best way to quickly accumulate $GHST reserves and turn our stable assets into ecosystem rewards.
+
+It is also recommended, but not proposed, to establish responsibilities within a long-term treasury management team for projection modeling to ensure that the DAO is closely following a buying schedule. There will be some aspects of maintenance in such a long-term program.
+
+*2) Smart Contract*
+
+The proposed smart contract will ensure a secure environment for buying protocol rewards while ensuring Foundation users have the tools needed to buy protocol rewards in $GHST.
+
+This proposed tool will be designed by CTT member @Bearded Gotchi Vault, and will undergo review by members @Sudeep, @MaxiCrouton and other critical members prior to implementation for production.
+
+The expected contract deliverable will have the following features available for its DAO users:
+
+- Gelato automation tooling
+- Ability to choose purchasing between different DEX pools for best rate discovery
+- Adjusting the timing in between purchases & amounts of buybacks
+- Toggling for slippage rate tolerance
+- Automated reporting for accounting and proof of purchase
+- potential for future iteration and optimization development through the DAO bounty program or other funding opportunities.
+
+*Funding Request:*
+
+We are seeking a separate request of $5000 DAI (or $5000 worth of $GHST) to complete this contract as it will require ongoing maintenance and wasn’t anticipated in AGIP66 when the team was funded to conduct market research mainly.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-curve-transition-team/4676?ref=the-curve)
+
+Option 1: Yes, Implement Strategy
+
+Option 2: No. Need More Discussion
+
+**Voting Period:** 8 - 15 March 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0xc6622d08b9786e543699695b422c361d2bf6ed1d4395d9e365dd70d8301d440b)
 
 <hr />
 
