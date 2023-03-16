@@ -82,7 +82,7 @@ DeFiの世界を探求し始めたそこのあなた、インターネット上�
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
 <p><a href=#erc-1155>ERC-1155</a></p>
-<p><a href=#gbm-auction>GBMオークション</a></p>
+<p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon（ポリゴン）</a></p>
@@ -347,7 +347,7 @@ A novel token standard that aims to take the best from previous standards to cre
 
 Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
 
-### GBMオークション
+### GBM Auction
 A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
 
 GBM stands for Gonnaud-Bessire-McDonaugh.
