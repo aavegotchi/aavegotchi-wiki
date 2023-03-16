@@ -22,7 +22,6 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
@@ -107,17 +106,6 @@ Cometh is a groundbreaking and evolving strategy game set in a persistent and su
 The Cometh game consists in players mining asteroids to get tokens as rewards.
 
 Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse. 
-
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
-
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
 
 ### Unicly
 
