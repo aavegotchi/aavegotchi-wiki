@@ -23,7 +23,6 @@ Aavegotchi es un proyecto amistoso. ¡Conoce a nuestros amigos aquí!
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
@@ -109,17 +108,6 @@ El juego Cometh consiste en que los jugadores extraigan asteroides para obtener 
 
 El ecosistema de Cometh aprovecha DeFi (Finanzas descentralizadas) de una manera divertida y original para permitir a los jugadores recolectar, comercializan y ganan tokens a partir de protocolos ERC, y también de NFT único en el Metaverse.
 
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap es un proyecto de infraestructura de cadena cruzada que construye liquidez para blockchains de capa una, AMMs y proyectos de asociación. El lanzamiento en Polygon ofrece una emocionante oportunidad para los farmers de ganar tokens DINO y de proyectos.
-
-DinoSwap se beneficia de transacción rápidas y baratas posibles en Polygon.
-
 ### Unicly
 
 <div class="leftImageContainer">
@@ -127,7 +115,7 @@ DinoSwap se beneficia de transacción rápidas y baratas posibles en Polygon.
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicely es un protocolo sin permisos, gobernado por la comunidad, para combinar, fraccionar e intercambiar NFTs. Construido por coleccionistas NFT y entusiastas de DeFi, el protocolo alimenta la liquidez del NFT y proporciona una experiencia comercial perfecta para los activos del NFT al traer los AMMs y el rendimiento del farming al mundo de los NFT.
+Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
 
 ### Venly
 
@@ -136,7 +124,7 @@ Unicely es un protocolo sin permisos, gobernado por la comunidad, para combinar,
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Productos de Wallet & NFT que se integran perfectamente con su proyecto blockchain.
+Wallet & NFT products that seamlessly integrate with your blockchain project.
 
 ### GBM Auction
 
@@ -145,7 +133,7 @@ Productos de Wallet & NFT que se integran perfectamente con su proyecto blockcha
 <p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
 </div>
 
-GBMTM es un sistema de subastas propio, donde los postores ganan dinero cuando sus pujas superadas.
+GBM™ is a proprietary auction system where bidders make money when they are outbid.
 
 ### Rarible
 
@@ -154,7 +142,7 @@ GBMTM es un sistema de subastas propio, donde los postores ganan dinero cuando s
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-El primer mercado de NFT, propiedad de la Comunidad. Crea, vende o colecciona objetos digitales asegurados con blockchain.
+The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
 
 ### Yield Guild Games
 
@@ -163,7 +151,7 @@ El primer mercado de NFT, propiedad de la Comunidad. Crea, vende o colecciona ob
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) es una guild que reúne a los jugadores para ganar a través de juegos NFT. Somos los colonos del Metaverso.
+Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
 
 ### BlackPool
 
@@ -172,13 +160,13 @@ Yield Guild Games (YGG) es una guild que reúne a los jugadores para ganar a tra
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-BlackPool es un nuevo fondo que opera dentro de la industria del NFT: gestionando una gama de activos, desde cartas deportivas, objetos de juego y hasta arte digital.
+BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
 
-BlackPool es la primera organización autónoma descentralizada (DAO) creada exclusivamente para juegos y operaciones NFT. Nuestras estrategias se basarán en nuestra pasión a largo plazo por el juego y el arte, ya que combinamos análisis de datos profesionales y aprendizaje automático para proporcionar los mejores rendimientos para nuestros usuarios.
+BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
 
-Lideraremos el camino a la hora de proporcionar derivados financieros a los mercados digitales, ofreciendo servicios como índices de valoración de activos, alquiler, mecanismos de seguros y más.
+We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
 
-BlackPool cree firmemente en el valor a largo plazo de los activos digitales, y entiende que se requiere un alto nivel de especialización en cada plataforma NFT para maximizar la creación de valores. Por lo tanto, siempre trataremos de emplear conocimientos especializados para mejorar nuestro rendimiento en cada plataforma.
+BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
 
 ### Flamingo DAO
 
@@ -187,7 +175,7 @@ BlackPool cree firmemente en el valor a largo plazo de los activos digitales, y 
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-Un DAO enfocado en el NFT que busca explorar oportunidades de inversión emergentes para activos propios y basados en blockchain. Los NFT no son sólo imágenes de gatos. Engloban el arte digital, los coleccionables y los activos dentro del juego y otros activos tangibles. Estas nuevas formas de propiedad digital están a punto de desempeñar un papel cada vez más importante en ayudar a crear, monetizar y aumentar el contenido digital en línea.
+An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
 
 ### Mao DAO
 
@@ -196,7 +184,7 @@ Un DAO enfocado en el NFT que busca explorar oportunidades de inversión emergen
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO es un nuevo tipo de gaming DAO que pretende tomar la delantera en el espacio play-to-earn en Asia. Han integrado a cientos de jugadores en diferentes juegos existentes, siendo el primero Axie Infinity. Por ahora, decidieron lanzar el Ready Player Cat NFTs que representan la membresía de DAO, parte de los derechos de gobierno.
+MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
 
 ### Router Protocol
 
