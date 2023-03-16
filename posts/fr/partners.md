@@ -23,10 +23,9 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
-<p><a href=#gbm-auction>Enchères GBM</a></p>
+<p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
@@ -109,17 +108,6 @@ The Cometh game consists in players mining asteroids to get tokens as rewards.
 
 Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse.
 
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
-
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
-
 ### Unicly
 
 <div class="leftImageContainer">
@@ -138,11 +126,11 @@ Unicly is a permissionless, community-governed protocol to combine, fractionaliz
 
 Wallet & NFT products that seamlessly integrate with your blockchain project.
 
-### Enchères GBM
+### GBM Auction
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "Enchères GBM">
-<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">Enchères GBM</a></p>
+<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Auction">
+<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
 </div>
 
 GBM™ is a proprietary auction system where bidders make money when they are outbid.
