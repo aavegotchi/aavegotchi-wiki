@@ -23,10 +23,9 @@ Aavegotchi is een fraai project. Leer onze frens hier kennen!
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
-<p><a href=#gbm-auction>GBM Veilingen</a></p>
+<p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
@@ -109,17 +108,6 @@ Het Cometh spel bestaat uit spelers die asteroïden delven om tokens te krijgen 
 
 Het ecosysteem hefboomt Ethereumbased DeFi (Decentralized Finance) op een leuke en originele manier om spelers te laten verzamelen, en tokens te verdienen van ERC-20 protocollen, en ook NFT's uniek voor de Cometh Metaverse.
 
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap is een cross-chain infrastructuurproject dat liquiditeit opbouwt voor layer-one blockchains, AMM's en partnering projecten. Op Polygon, is er een spannende kans voor farmers om DINO en andere projecttokens te verdienen.
-
-DinoSwap profiteert van snelle en historisch gezien goedkope transactiemogelijkheden op Polygon.
-
 ### Unicly
 
 <div class="leftImageContainer">
@@ -127,7 +115,7 @@ DinoSwap profiteert van snelle en historisch gezien goedkope transactiemogelijkh
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicly is een protocol zonder toestemmingen en door de gemeenschap gecontroleerd om NFT's te combineren, fractionalize, en verhandelen. Gebouwd door NFT verzamelaars en DeFi enthousiastelingen, stimuleert het protocol de NFT-liquiditeit en biedt het een naadloze handelservaring voor NFT-activa door AMM's en opbrengst te brengen in de wereld van NFT's.
+Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
 
 ### Venly
 
@@ -136,16 +124,16 @@ Unicly is een protocol zonder toestemmingen en door de gemeenschap gecontroleerd
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Portemonnee & NFT producten die naadloos integreren met uw blockchainproject.
+Wallet & NFT products that seamlessly integrate with your blockchain project.
 
-### GBM Veilingen
+### GBM Auction
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Veilingen">
-<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Veilingen</a></p>
+<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Auction">
+<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
 </div>
 
-GBM™ is een merkgebonden veilingsysteem waar inschrijvers geld verdienen wanneer ze buiten de boot vallen.
+GBM™ is a proprietary auction system where bidders make money when they are outbid.
 
 ### Rarible
 
@@ -154,7 +142,7 @@ GBM™ is een merkgebonden veilingsysteem waar inschrijvers geld verdienen wanne
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-De eerste NFT-marktplaats van de gemeenschap. Maak, verkoop of verzamel digitale items die beveiligd zijn met blockchain.
+The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
 
 ### Yield Guild Games
 
@@ -163,7 +151,7 @@ De eerste NFT-marktplaats van de gemeenschap. Maak, verkoop of verzamel digitale
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) is een Play-To-Earn guild die spelers samenbrengt om te verdienen via NFT spellen. Wij zijn de kolonisten van de Metaverse.
+Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
 
 ### BlackPool
 
@@ -172,13 +160,13 @@ Yield Guild Games (YGG) is een Play-To-Earn guild die spelers samenbrengt om te 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-BlackPool is een nieuw fonds dat binnen de NFT-industrie werkt: het beheren van een scala aan activa van sportkaarten tot spelvoorwerpen tot digitale kunst.
+BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
 
-BlackPool is de eerste gedecentraliseerde autonome organisatie (DAO) die uitsluitend is gebouwd voor NFT gaming en handel. Onze strategieën zullen gebaseerd zijn op onze langetermijnpassie voor kansspelen en kunst, als we professionele data analytics combineren met machine leren om onze gebruikers het beste rendement te bieden.
+BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
 
-We zullen het voortouw nemen bij het verstrekken van financiële derivaten aan digitale markten door diensten als aandelenwaarderingsindices, leasing, verzekeringsmechanismen en meer aan te bieden.
+We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
 
-BlackPool gelooft sterk in de langetermijnwaarde van schaarse digitale activa, en begrijpen dat een hoge mate van specialisatie in elk NFT-platform vereist is om het creëren van waarde te maximaliseren. Daarom zullen we altijd proberen expertise in te zetten om onze prestaties op elk platform te verbeteren.
+BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
 
 ### Flamingo DAO
 
@@ -187,7 +175,7 @@ BlackPool gelooft sterk in de langetermijnwaarde van schaarse digitale activa, e
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsmogelijkheden voor eigenlijke, op blockchain gebaseerde activa. NFT's zijn niet alleen kattenbeelden. Ze omvatten digitale kunst, collectibels, in-game activa en andere tastbare activa. Deze nieuwe vormen van digitaal eigendom zijn in toenemende mate bedoeld om te helpen online digitale inhoud te creëren, te verdienen en te stimuleren.
+An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
 
 ### Mao DAO
 
@@ -196,7 +184,7 @@ Een NFT-gerichte DAO die gericht is op het verkennen van opkomende investeringsm
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO is een nieuw soort gaming DAO dat tot doel heeft het voortouw te nemen bij het vormgeven van de speeltongruimte in Azië. Zij hebben honderden spelers aan boord genomen in verschillende bestaande spelletjes, omdat zij de eerste zwaartepunt van de oneindigheid vormden. Voorlopig hebben ze besloten om onze gestage Player Cat NFT's te lanceren, die het lidmaatschap van DAO vertegenwoordigen, een deel van de bestuursrechten.
+MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
 
 ### Router Protocol
 
