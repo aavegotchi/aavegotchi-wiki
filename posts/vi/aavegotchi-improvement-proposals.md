@@ -3397,6 +3397,8 @@ Option 2: No, Do Not Fund
 
 **Kết quả:**
 
+table_agip68
+
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x59c001336592a05451805f89d66859159a136bfb850aa4263ec962f65134e2de)
 
 <hr />
@@ -3452,6 +3454,8 @@ Option 2: No. Need More Discussion
 **Voting Period:** 8 - 15 March 2023
 
 **Kết quả:**
+
+table_agip69
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0xc6622d08b9786e543699695b422c361d2bf6ed1d4395d9e365dd70d8301d440b)
 
