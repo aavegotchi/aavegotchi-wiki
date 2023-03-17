@@ -32,6 +32,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#mao-dao>Mao DAO</a></p>
 <p><a href=#router-protocol>Router Protocol</a></p>
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
+<p><a href=#magic-eden>Magic Eden</a></p>
 </ol>
 
 </div>
@@ -202,3 +203,12 @@ Router Protocol is a modular infrastructure layer enabling blockchains to commun
 </div>
 
 Mandala is a cross-media story utilizing avatar NFTs in a geo-location AR mobile game + AAA Unreal Engine MMORPG, TV series, and graphic novel (Dark Horse).
+
+### Magic Eden
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/magic-eden.jpg" alt="Magic Eden">
+<p class="leftImageText"><a href="https://twitter.com/MagicEden" target="_blank">Magic Eden</a></p>
+</div>
+
+Magic Eden is the leading cross-chain NFT platform driving the next billion users to web3. Led by former crypto, tech, and hospitality leaders, Magic Eden is building a user-friendly platform powered by market-leading minting and trading solutions. Magic Eden brings dynamic cultural moments onto the blockchain, empowering users across thousands of digital communities to create, discover and collect unique NFTs.
