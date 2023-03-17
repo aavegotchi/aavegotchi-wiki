@@ -899,6 +899,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip68",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Fund 27,500 DAI", "16,000,000 GHST (95.53%)"],
+					["No, Do Not Fund", "749,000 GHST (4.47%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip69",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Implement Strategy", "16,000,000 GHST (93.91%)"],
+					["No. Need More Discussion", "1,000,000 GHST (6.09%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
