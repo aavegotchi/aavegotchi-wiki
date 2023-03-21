@@ -33,7 +33,6 @@ contributors:
 <p><a href=#how-much-does-it-cost-to-play-aavegotchi->How much does it cost to play Aavegotchi?</a></p>
 <p><a href=#can-i-start-playing-for-free->Can I start playing for free?</a></p>
 <p><a href=#how-can-i-earn-money->How can I earn money?</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Do I need KYC to play Aavegotchi or own GHST token?</a></p>
 <p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
 <p><a href=#what-are-matokens->What are maTokens?</a></p>
 <p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
@@ -41,12 +40,9 @@ contributors:
 <p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
 <p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
 <p><a href=#where-can-i-find-the-aavegotchi-litepaper->Where can I find the Aavegotchi Litepaper?</a></p>
-<li><a href=#bonding-curve-faq>Вопросы по Кривой Связывания:</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>I bought GHST but I can't see it in my wallet</a></p>
-<p><a href=#can-people-frontrun-the-bonding-curve->Can people frontrun the bonding curve?</a></p>
 <li><a href=#staking-faq>Staking FAQ</a></li>
 <p><a href=#what-is-wapghst->What is wapGHST?</a></p>
-<li><a href=#raffle-faq>Вопросы о розыгрыше в лотерее:</a></li>
+<li><a href=#raffle-faq>Raffle FAQ</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
 <p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
@@ -205,14 +201,6 @@ Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain 
 
 With Aavegotchi and The Gotchiverse there are a number of ways to earn money. The Gotchiverse has four play-to-earn ERC-20 tokens known as Gotchus Alchemica. These tokens can be used to craft Installation NFTs within The Gotchiverse, or traded for GHST. Players can earn these tokens by channeling from the skies above, farming from below the surface of their land parcel, or by collecting it from the maps surface. For details on the Tokenomics of Gotchus Alchemica check out [Chapter 2 of The Gotchiverse Game Bible](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/).
 
-### Do I need KYC to play Aavegotchi or own GHST token?
-
-No! You only need to do KYC if you want to buy GHST directly from the [bonding curve](/curve). You can purchase GHST on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) without KYC, as well as on [certain exchanges](https://www.coingecko.com/en/coins/aavegotchi#markets). Meanwhile, **no KYC** is required to buy [portals](/portals), [play mini-games](/minigames), [stake GHST](/staking), or for any other aspect of the Aavegotchi project itself.
-
-The table below summarizes the information:
-
-table_kyc
-
 ### Can aTokens staked inside an Aavegotchi get liquidated?
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
@@ -264,16 +252,6 @@ They can be found here:
 * [Original Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
-## Вопросы по Кривой Связывания:
-
-### I bought GHST but I can't see it in my wallet
-After making a purchase on the bonding curve, you need to make another transaction to claim the GHST tokens. Please see the screenshot below for an example. The user has to click the "CLAIM ORDER" button for the GHST tokens to appear in their wallet.
-
-<img src = "/faq/claim-order.png" class="bodyImage" />
-
-### Can people frontrun the Bonding Curve?
-No. When you make purchases/sales of GHST token on the bonding curve, transactions are batched along with other people's transactions before being sent to the smart contract. They are not able to bid on a lower GHST price with a higher gas fee to frontrun your purchase.
-
 ## Staking FAQ
 
 ### What is wapGHST?
@@ -286,7 +264,7 @@ The APY accrued will not appear in your balance of wapGHST. Rather, it will accr
 
 Vist [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
 
-## Вопросы о розыгрыше в лотерее:
+## Raffle FAQ
 
 See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
