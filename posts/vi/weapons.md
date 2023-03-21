@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Vũ khí là những trang phụ cầm tay thuộc dạng Đánh Gần hoặc Đánh Xa. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
+Weapons are hand [wearables](/wearables) classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
-Mỗi Vũ Khí đều sẽ gắn liền với những lợi ích đặc biệt, ví dụ như tăng sát thương lên Tường, tăng sát thương lên Lickquidator, tăng tốc độ đánh, hoặc những lợi ích khác.
+Mỗi Vũ Khí đều sẽ gắn liền với những lợi ích đặc biệt, ví dụ như tăng sát thương lên Tường, tăng sát thương lên Lickquidator, tăng tốc độ đánh, hoặc những lợi ích khác. For a detailed breakdown of each wearable's effects (including weapons) in combat, check out the [wearable boosts](/aarena#wearable-boosts) section.
 
 <div class="contentsBox">
 
