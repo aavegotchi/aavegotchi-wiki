@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Wearables conform to the ERC-1155 standard.
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Each wearable comes with 4 different views (front, right, left, and back).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
