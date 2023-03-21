@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">Los cuadros azules de Sergey</p>
 </div>
 
-Los equipables son un componente importante del juego Aavegotchi. Además de dotar a tus Aavegotchi de un sentido de la moda, los vestidos también aumentan los rasgos de Aavegotchi y la puntuación de rareza, permitiéndoles mejorar su desempeño en [mini-juegos](/minigames), así como en [rarity farming](/rarity-farming).
+Los equipables son un componente importante del juego Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Los vestidos se ajustan al estándar ERC-1155.
 
 Esta página contiene información detallada sobre cada equipable que ha sido confirmado en el juego Aavegotchi.
 
-El diseño de los equipables es realizado por [Xibot](/team#xibot) y nuestro equipo de [aartistas de la comunidad](/aartist). Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Equipables de Aavegotchi - 4 vistas" />
 
