@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">セルゲイの青いタータンチェック</p>
 </div>
 
-Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です。 Aavegotchiにファッションセンスを与えるだけでなく、Aavegotchiの特性やレアリティスコアを上げ、[ミニゲーム](/minigames)や[レアリティファーミング](/rarity-farming)をより有利に進めることができます。
+Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です。 Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 ウェアラブルはERC-1155規格に準拠しています。
 
 このページでは、Aavegotchiのゲーム内で確認されているすべてのウェアラブルについて、詳細な情報を掲載しています。
 
-ウェアラブルのデザインは、[Xibot](/team#xibot)と[コミュニティアーティスト](/aartist)が担当しています。 各ウェアラブルには4つのビュー（正面、右側、左側、背面）があります。
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. 各ウェアラブルには4つのビュー（正面、右側、左側、背面）があります。
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi ウェアラブル - 4件のビュー" />
 
