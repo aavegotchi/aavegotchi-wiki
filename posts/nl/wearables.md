@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">Het Blauwe Sergey Plaid</p>
 </div>
 
-Wearables zijn een belangrijk onderdeel van het Aavegotchi spel. Naast het verstevigen van uw Aavegotchi met wat fashion, verhogen de wearables ook de eigenschappen en de zeldzaamheidsscore, zodat ze beter kunnen presteren in [mini-games](/minigames), evenals in [rarity farming](/rarity-farming).
+Wearables zijn een belangrijk onderdeel van het Aavegotchi spel. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Wearables voldoen aan de ERC-1155 standaard.
 
 Deze pagina bevat gedetailleerde informatie over elke wearable die is bevestigd in het Aavegotchi spel.
 
-Ontwerp van de wearables worden gedaan door [Xibot](/team#xibot) en ons team van [community aartists](/aartist). Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Weergaven" />
 
