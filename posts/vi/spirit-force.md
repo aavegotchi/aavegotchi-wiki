@@ -71,7 +71,7 @@ Let's head over to the [maTokens](/matokens) page for Step 2!
 
 ## Differences between maTokens and amTokens
 
-Cả maToken và amToken đều sinh lãi. Tuy nhiên, *các thức* sinh lãi của chúng khác nhau:
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
 * maTokens tăng **giá trị** theo thời gian. Điều này đúng với Aavegotchi trong Haunt 1, với việc chúng sử dụng maToken. Giá trị của maToken tăng lên, nhưng số lượng không đổi, không thể rút maToken từ Gotchi, trừ khi bạn hiến tế Gotchi để lấy tài sản thế chấp.
 
