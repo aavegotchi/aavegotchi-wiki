@@ -152,6 +152,7 @@ The Gotchiverse UI is designed as follows:
 * Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
 * Top center: Super chat — Load Alchemica into a "Gotchiverse Wallet" and perform a Super chat that drops Alchemica around the Gotchi's radius. Up to 1000 of each kind of Alchemica can be dropped at once
 * Top right: Settings and Logging out
+* Upper right: Item shop
 * Bottom left: Gotchi stats and Chat — can be set to the particular district you are in or throughout the Citaadel
 * Bottom right: Crafting Table and Build Mode
 
@@ -162,6 +163,11 @@ The Crafting Table is used to create new installations using Gotchus Alchemica. 
 <img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
 
 Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
+
+The Item Shop sells 2 products:
+
+* HP Potion (+2500 HP): 100 KEK
+* AP Potion (+250 AP): 200 ALPHA
 
 ## Lệnh Trò Chuyện
 
