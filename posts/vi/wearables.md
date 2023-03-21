@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](/minigames), cũng như trong [rarity farming](/rarity-farming).
+Trang phục là yếu tố quan trọng trong game Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Trang phục là những vật phẩm theo chuẩn ECR-1155.
 
 Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi.
 
-Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng aartist](/aartist) của nhóm bọn mình. Mỗi món trang phục có 4 góc nhìn khác nhau (trước, phải, trái, và sau).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Mỗi món trang phục có 4 góc nhìn khác nhau (trước, phải, trái, và sau).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Góc Nhìn" />
 
