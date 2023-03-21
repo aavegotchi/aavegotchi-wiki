@@ -71,7 +71,7 @@ Let's head over to the [maTokens](/matokens) page for Step 2!
 
 ## Differences between maTokens and amTokens
 
-Zowel de maTokens als amTokens genereren interest. Echter, *de manier* waarop ze rente opwekken verschilt:
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
 * maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. De waarde van de tokens neemt toe, maar omdat de hoeveelheid niet verandert, is het niet mogelijk om maTokens uit de Gotchis te halen, tenzij je je Gotchi opoffert om bij de onderliggende onderpand te komen.
 
