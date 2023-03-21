@@ -71,7 +71,7 @@ Let's head over to the [maTokens](/matokens) page for Step 2!
 
 ## Differences between maTokens and amTokens
 
-Les jetons maTokens et amTokens vous donnes des intérêts. Cependant, *la façon dont* ils accumulent des intérêts diffère :
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
 * Les jetons maTokens augmente de **valeur** au fil du temps. Cela s'applique aux portails Haunt 1 d'Aavegotchis qui utilisent des jetons maTokens. La valeur des maTokens augmente, mais comme la quantité ne change pas, Il n'est pas possible de retirer des maTokens du Gotchis à moins que vous ne sacrifiez votre Gotchi pour obtenir la garantie sous-jacente.
 
