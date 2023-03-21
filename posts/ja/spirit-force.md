@@ -71,7 +71,7 @@ Let's head over to the [maTokens](/matokens) page for Step 2!
 
 ## Differences between maTokens and amTokens
 
-maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
 * maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するハウント1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
