@@ -152,6 +152,7 @@ De Gotchiverse UI is als volgt ontworpen:
 * Linksboven: Kaart van de Gotchiverse. Uw huidige locatie wordt gereflecteerd als een Gotchi
 * Top center: Super chat — Load Alchemica into a "Gotchiverse Wallet" and perform a Super chat that drops Alchemica around the Gotchi's radius. Up to 1000 of each kind of Alchemica can be dropped at once
 * Top right: Settings and Logging out
+* Upper right: Item shop
 * Bottom left: Gotchi stats and Chat — can be set to the particular district you are in or throughout the Citaadel
 * Bottom right: Crafting Table and Build Mode
 
@@ -162,6 +163,11 @@ De werkbank wordt gebruikt om nieuwe installaties te maken met Gotchus Alchemica
 <img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
 
 Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
+
+The Item Shop sells 2 products:
+
+* HP Potion (+2500 HP): 100 KEK
+* AP Potion (+250 AP): 200 ALPHA
 
 ## Chat Commando's
 
@@ -182,9 +188,9 @@ table_gotchusAlchemicaSupply
 Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **[Alchemical Channeling](/alchemical-channeling)**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **Communal Channeling**: Aavegotchis kunnen ook collectief alchemica channelen wanneer een Gotchi Lodge Installatie is gebouwd op het REALM Parcel. Om deel te nemen aan hetCommunal Channeling, moet de Aavegotchi de bijbehorende Guild Insignia dragen en aanwezig zijn op het REALM Parcel tijdens het ritueel. Voor elke extra Aavegotchi die deelneemt aan het Communal Channeling ritueel, zal de Alchemica sneller verdiend worden.
-* **Farming**: Zodra een Harvester is gebouwd, begint Alchemicaa passief verdiend te worden en gaat x hoeveelheid naar het Reservoir, **y** een hoeveelheid dat spilt in de nabije omgeving, en **z** x hoeveelheid gaat naar het Grote Portaal
-* **Harvesting**: Aavegotchis en lickquidators kunnen de kaart verkennen om losse alchemica te verzamelen die gespilt wordt door harvesting.
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
+* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
 
@@ -251,7 +257,7 @@ Whenever an Installation, upgrade or other item is crafted within the Gotchivers
 * Great Portal (35%)
 * Pixelcraft (30%)
 * DAO (30%)
-* Verbrand (5%)
+* Burn (5%)
 
 **The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
 
