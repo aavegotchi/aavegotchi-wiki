@@ -21,6 +21,7 @@ The Aarena is a massive multi-player gaming experience where Aavegotchis fight e
 <ol>
 <li><a href=#preparing-for-battle>Preparing for Battle</a></li>
 <li><a href=#aarena-features>Aarena Features</a></li>
+<li><a href=#wearable-boosts>Wearable Boosts</a></li>
 <li><a href=#roadmap>Hoja de ruta</a></li>
 </ol>
 
@@ -73,6 +74,12 @@ Players in private aarenas and the always-on aarena may have to fend off NPC Lic
 ### Tournaments
 
 Tournament play allows for a number of new game modes to appear! Examples of potential tournament styles include 1v1, team tournaments, Battle Royale, Capture the Flag, and tons of other possibilities!
+
+## Wearable Boosts
+
+Each wearable provides a boost to a gotchi's combat stats in the Aarena:
+
+table_wearableBoosts
 
 ## Hoja de ruta
 
