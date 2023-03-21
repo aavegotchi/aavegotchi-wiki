@@ -33,26 +33,22 @@ contributors:
 <p><a href=#how-much-does-it-cost-to-play-aavegotchi->Aavegotchiをプレイするにはいくらかかりますか？</a></p>
 <p><a href=#can-i-start-playing-for-free->無料でプレイを始めることはできますか？</a></p>
 <p><a href=#how-can-i-earn-money->どうすればお金を稼ぐことができますか？</a></p>
-<p><a href=#do-i-need-kyc-to-play-aavegotchi-or-own-ghst-token->Aavegotchiをプレイしたり、GHSTトークンを所有するためにKYCが必要ですか？</a></p>
-<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Aavegotchi内にステークしたaTokenは清算（リキデート）されることはありますか？</a></p>
-<p><a href=#what-are-matokens->maTokenとは何ですか？</a></p>
-<p><a href=#could-captcha-be-used-to-prevent-bots->ボット対策にCAPTCHAを使用できますか？</a></p>
-<p><a href=#are-amtokens-the-same-as-matokens->amTokenはmaTokenと同じですか？</a></p>
-<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Quickswapで自分の資産をmaLINK/maUNIに交換できないのはなぜですか？</a></p>
-<p><a href=#will-aavegotchi-be-integrated-with-opensea->AavegotchiはOpenSeaと統合されますか？</a></p>
-<p><a href=#where-can-i-find-the-aavegotchi-litepaper->Aavegotchiのライトペーパーはどこにありますか？</a></p>
-<li><a href=#bonding-curve-faq>ボンディングカーブFAQ</a></li>
-<p><a href=#i-bought-ghst-but-i-can-t-see-it-in-my-wallet>GHSTを購入しましたが、ウォレットに表示されません</a></p>
-<p><a href=#can-people-frontrun-the-bonding-curve->ボンディングカーブをフロントランすることは可能ですか？</a></p>
-<li><a href=#staking-faq>ステーキングFAQ</a></li>
+<p><a href=#can-atokens-staked-inside-an-aavegotchi-get-liquidated->Can aTokens staked inside an Aavegotchi get liquidated?</a></p>
+<p><a href=#what-are-matokens->What are maTokens?</a></p>
+<p><a href=#could-captcha-be-used-to-prevent-bots->Could CAPTCHA be used to prevent bots?</a></p>
+<p><a href=#are-amtokens-the-same-as-matokens->Are amTokens the same as maTokens?</a></p>
+<p><a href=#why-can-t-i-swap-my-assets-for-malink-mauni-on-quickswap->Why can't I swap my assets for maLINK/maUNI on Quickswap?</a></p>
+<p><a href=#will-aavegotchi-be-integrated-with-opensea->Will Aavegotchi be integrated with OpenSea?</a></p>
+<p><a href=#where-can-i-find-the-aavegotchi-litepaper->Where can I find the Aavegotchi Litepaper?</a></p>
+<li><a href=#staking-faq>Staking FAQ</a></li>
 <p><a href=#what-is-wapghst->What is wapGHST?</a></p>
-<li><a href=#raffle-faq>ラッフルFAQ</a></li>
+<li><a href=#raffle-faq>Raffle FAQ</a></li>
 <p><a href=#does-buying-a-ticket-mean-i-m-entered-into-the-raffle->Does buying a ticket mean I'm entered into the raffle?</a></p>
 <p><a href=#will-raffle-wearables-be-available-in-the-aavegotchi-store->Will raffle wearables be available in the Aavegotchi store?</a></p>
 <p><a href=#are-raffle-wearables-special->Are raffle wearables special?</a></p>
 <p><a href=#how-do-you-transfer-raffle-tickets->How do you transfer raffle tickets?</a></p>
 <p><a href=#will-there-be-raffles-after-mainnet-launches->Will there be Raffles after Mainnet launches?</a></p>
-<li><a href=#aauction-faq>オークションFAQ</a></li>
+<li><a href=#aauction-faq>Aauction FAQ</a></li>
 <p><a href=#how-much-can-i-earn->How much can I earn?</a></p>
 <p><a href=#can-i-outbid-myself->Can I outbid myself?</a></p>
 <p><a href=#why-is-the-minimum-increase-10-->Why is the minimum increase 10%?</a></p>
@@ -60,27 +56,27 @@ contributors:
 <p><a href=#what-prevents-bots-from-swiping-up-all-the-items->What prevents bots from swiping up all the items?</a></p>
 <p><a href=#what-prevents-bots-from-being-able-to-snipe-the-end-of-an-auction->What prevents bots from being able to snipe the end of an auction?</a></p>
 <p><a href=#how-do-i-claim-my-nft->How do I claim my NFT?</a></p>
-<li><a href=#wearable-faq>ウェアラブルに関するFAQ</a></li>
+<li><a href=#wearable-faq>Wearable FAQ</a></li>
 <p><a href=#do-i-need-to-transfer-my-wearable-vouchers-to-polygon->Do I need to transfer my wearable vouchers to Polygon?</a></p>
 <p><a href=#are-there-limited-quantities-for-each-wearable->Are there limited quantities for each wearable?</a></p>
 <p><a href=#i-unequipped-the-wearables-from-my-aavegotchi-and-i-cannot-find-them-in-my-inventory>I unequipped the wearables from my Aavegotchi and I cannot find them in my inventory</a></p>
 <p><a href=#why-are-there-missing-ids-in-the-wearables-page->Why are there missing IDs in the Wearables page?</a></p>
-<li><a href=#portal-faq>ポータルに関するFAQ</a></li>
+<li><a href=#portal-faq>Portal FAQ</a></li>
 <p><a href=#how-many-portals-can-you-buy-in-1-transaction->How many portals can you buy in 1 transaction?</a></p>
 <p><a href=#if-i-open-a-portal-but-do-not-have-the-atoken-needed-to-claim-the-gotchi--can-i-come-back-later-to-claim-it->If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?</a></p>
 <p><a href=#when-will-portals-be-released->When will portals be released?</a></p>
-<li><a href=#aavegotchidao-faq>AavegotchiDAOに関するFAQ</a></li>
+<li><a href=#aavegotchidao-faq>AavegotchiDAO FAQ</a></li>
 <p><a href=#how-do-i-vote-using-trust-wallet-on-aragon->How do I vote using Trust Wallet on Aragon?</a></p>
 <p><a href=#why-does-it-say-wrong-timestamp-in-snapshot-voting->Why does it say wrong timestamp in Snapshot Voting?</a></p>
 <p><a href=#why-20--quorum-for-signal-proposals->Why 20% Quorum for Signal Proposals?</a></p>
 <p><a href=#why-two-votes->Why Two Votes?</a></p>
 <p><a href=#i-spent-all-my-ghst-budget-on-portals-and-wearables---where-s-my-voice->I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?</a></p>
 <p><a href=#what-about-funding-proposals->What about Funding Proposals?</a></p>
-<li><a href=#gameplay-faq>ゲームプレイに関するFAQ</a></li>
+<li><a href=#gameplay-faq>Gameplay FAQ</a></li>
 <p><a href=#do-higher-trait-scores-always-mean-higher-rarity->Do higher trait scores always mean higher rarity?</a></p>
 <p><a href=#how-much-does-it-cost-to-play->How much does it cost to play?</a></p>
 <p><a href=#does-changing-the-collateral-staked-affect-kinship-level->Does changing the collateral staked affect kinship level?</a></p>
-<li><a href=#gotchiverse-faq>Gotchiverse（ゴッチバース）に関するFAQ</a></li>
+<li><a href=#gotchiverse-faq>Gotchiverse FAQ</a></li>
 <p><a href=#what-is-the-gotchiverse->ゴッチバースとは何ですか？</a></p>
 <p><a href=#what-is-gotchus-alchemica->What is Gotchus Alchemica?</a></p>
 <p><a href=#what-is-an-alchemical-aaltar->What is an Alchemical Aaltar?</a></p>
@@ -205,76 +201,58 @@ Aavegotchiを入手するには、いくつかの方法があります：
 
 Aavegotchiとゴッチバースでは、お金を稼ぐ方法がいくつもあります。 ゴッチバースには、ゴッチュス・アルケミカと呼ばれる4つのプレイ・トゥ・アーンのERC-20トークンがあります。 これらのトークンは、ゴッチバース内のInstallation（インスタレーション）NFTを作るために使用したり、GHSTと交換することができます。 プレイヤーは、上空からのチャネリング、土地パーセルの地下からのファーミング、またはマップ表面からの収集によってこれらのトークンを獲得することができます。 ゴッチュス・アルケミカ・トークンに関する詳細は、ゴッチバース・ゲームバイブルの[第2章](https://blog.aavegotchi.com/the-gotchiverse-game-bible-chapter-2/)をご覧ください。
 
-### Aavegotchiをプレイしたり、GHSTトークンを所有するためにKYCが必要ですか？
+### Can aTokens staked inside an Aavegotchi get liquidated?
+No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
-いいえ！ あなたが[ボンディングカーブ](/curve)から直接GHSTを購入したい場合にのみ、KYCを行う必要があります。 [Uniswap（ユニスワップ）](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH)ではKYCなしでGHSTを購入できますし、[特定の取引所](https://www.coingecko.com/en/coins/aavegotchi#markets)でも購入できます。 一方、[ポータル](/portals)の購入、[ミニゲームのプレイ](/minigames)、[GHSTのステーキング](/staking)、その他Aavegotchiプロジェクト自体には**KYCは必要ありません**。
+### What are maTokens?
+maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
 
-以下の表は、その情報をまとめたものです：
+### Could CAPTCHA be used to prevent bots?
+No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
 
-table_kyc
+This is a feature of permissionless blockchains. It cannot be stopped.
 
-### Aavegotchi内にステークしたaTokenは清算（リキデート）されることはありますか？
-いいえ。 Aavegotchiに張り付けられたaTokenは、Aaveプラットフォームで借入を行う際の担保として使用することはできません。 したがって、そのようなaTokenを清算することはできません。
+### Are amTokens the same as maTokens?
+No. amTokens are **not** the same as maTokens.
 
-### maTokenとは何ですか？
-maTokenは、Aave V2のaTokenをPolygonに移行したものです。 aTokenと同様に、時間経過とともに利息が発生します！
+maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
 
-### ボット対策にCAPTCHAを使用できますか？
-いいえ。 [Aaavegotchi.comのウェブサイト](https://aavegotchi.com/)は単なるインターフェースに過ぎません。 ボットはインターフェイスを簡単に回避し、基礎となるスマートコントラクトと直接対話することができます。
+その後、Aave自身もポリゴンに移行しました。 Tokens from their Aave (Polygon) markets are known as amTokens.
 
-これはパーミッションレス・ブロックチェーンの特徴です。 止めることはできません。
+Both categories of tokens will have differing interest rate profiles. For maTokens, their interest rates can be observed in the Aave V2 market. For amTokens, their interest rates can be observed in the Aave market (Polygon).
 
-### amTokenはmaTokenと同じですか？
-いいえ。 amToken は maToken と**同じではありません**。
+Aavegotchis belonging to [Haunt](/haunt) 1 use maTokens as their Spirit Force.
 
-maTokenはイーサリアム・メインネット上のAave V2のaTokenで、ポリゴン上で表現されたものです。 これらは、[Nick](/team#nick-mudge)がポリゴン上でのAavegotchiの立ち上げを急がせるために作成したものです。
+From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
-その後、Aave自身もポリゴンに移行しました。 そのAave（ポリゴン）マーケットからのトークンは、amTokenとして知られています。
-
-どちらのカテゴリーのトークンも、金利のプロファイルが異なります。 maTokenの場合、その金利はAave V2市場で観察することができます。 amTokenの場合、その金利はAaveマーケット（ポリゴン）で観察することができます。
-
-[ハウント](/haunt)1に所属するAavegotchiは、スピリットフォースとしてmaTokenを使用します。
-
-ハウント2 以降は、amToken がスピリットフォースとして使用されます。
-
-maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
 * maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するハウント1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
 
 * amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
 
-### QuickSwapでmaLINK/maUNIにスワップできないのはなぜですか？
-QuickSwap（クィックスワップ） は、maUNI や maLINK など、いくつかの maToken に対してルーティングの問題があります。 最初に手動で maUSDC にスワップし、その後、それぞれの maToken を取得する必要があります。
+### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
+QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
-**動作しません**：ETH/USDC -> maUNI/maLINK
+**Doesn't work**: ETH/USDC -> maUNI/maLINK
 
-**動作します**： maUSDC -> maUNI/maLINK
+**Works**: maUSDC -> maUNI/maLINK
 
-### AavegotchiはOpenSeaと統合されますか？
-Aavegotchiはイーサリアム・メインネット上のオープンシー（および他のセカンダリーマーケットプレイス）と完全に互換性があります。 課題はオープンシーのポリゴンとの連携です。 誰かがバザールにゴッチを売りに出すと、そのウェアラブルも一緒に出品されます。 オープンシー・ポリゴンには、このロック機能がありません。 そのため、オープンシー・ポリゴンのゴッチ販売者は、ゴッチのウェアラブルを購入しようとする人に危害を加える可能性があります。 購入者を保護するために、ピクセルクラフトはオープンシーにポリゴンへの出品を追求しないことを通告しています。
+### Will Aavegotchi be integrated with OpenSea?
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
-同様に、オープンシー・ポリゴンへのウェアラブルの出品にも制約があります。 オープンシー・ポリゴンはコントラクトを解析する方法によって、ERC-1155ウェアラブルの解析に難があります。 この問題は、同じアドレスがERC-721（ゴッチ）とERC-1155（ウェアラブル）の両方を保持していることです。 彼らのインフラストラクチャは、同じ契約で両方を処理するように設定されていません。
+Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
-### Aavegotchiのライトペーパーはどこにありますか？
+### Where can I find the Aavegotchi Litepaper?
 
-Aavegotchiライトペーパーは2種類あります：(1) Aavegotchiプロジェクトのポイントをまとめた「オリジナルライトペーパー」と、(2) 今後のゴッチバースとゴッチバース内の土地区画であるREALM（レルム）を紹介する「最新ライトペーパー」です。
+There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
 
-こちらでご覧いただけます：
+They can be found here:
 
 * [オリジナルライトペーパー](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr)
 * [Aavegotchi REALMライトペーパー](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit)
 
-## ボンディングカーブFAQ
-
-### GHSTを購入しましたが、ウォレットに表示されません
-ボンディングカーブで購入した後、GHSTトークンを請求するためには、再度取引を行う必要があります。 例として、以下のスクリーンショットをご覧ください。 ユーザーは、GHSTトークンがウォレットに表示されるために、「CLAIM ORDER」ボタンをクリックする必要があります。
-
-<img src = "/faq/claim-order.png" class="bodyImage" />
-
-### ボンディングカーブをフロントランすることは可能ですか？
-いいえ。 ボンディングカーブでGHSTトークンの購入/販売を行う場合、取引はスマートコントラクトに送信される前に他の人の取引と一緒にバッチ処理されます。 彼らはあなたの購入をフロントランするために、より高いガス料金でより低いGHST価格に入札することはできません。
-
-## ステーキングFAQ
+## Staking FAQ
 
 ### What is wapGHST?
 
@@ -286,7 +264,7 @@ The APY accrued will not appear in your balance of wapGHST. Rather, it will accr
 
 Vist [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
 
-## ラッフルFAQ
+## Raffle FAQ
 
 See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
@@ -294,12 +272,12 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Does buying a ticket mean I'm entered into the raffle?
 
-いいえ！ Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
+No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll see the number of tickets you’ve entered in the raffle on the Stats page.
 
 
 ### Will raffle wearables be available in the Aavegotchi store?
 
-いいえ。 The only time these wearables will ever be released is during the pre-launch raffles.
+No. The only time these wearables will ever be released is during the pre-launch raffles.
 
 
 ### Are raffle wearables special?
@@ -319,7 +297,7 @@ You will then be brought to another page where you can specify the recipient's a
 ### Will there be Raffles after Mainnet launches?
 Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
 
-## オークションFAQ
+## Aauction FAQ
 
 ### How much can I earn?
 Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
@@ -346,10 +324,10 @@ If a bid is placed within the last five minutes of the Auction, the “hammer ti
 ### How do I claim my NFT?
 If you’re the highest bidder at the end of the Auction, you’ll see a “Claim NFT” button appear in your My Bids page, which will allow you to claim the NFT directly to your wallet!
 
-## ウェアラブルに関するFAQ
+## Wearable FAQ
 
 ### Do I need to transfer my wearable vouchers to Polygon?
-いいえ。 Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
 
 ### Are there limited quantities for each wearable?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
@@ -366,7 +344,7 @@ At each [Aavegotchi's Profile page](/aavegotchi-profile), there will be a "Pocke
 ### Why are there missing IDs in the Wearables page?
 These are objects (IDs 162-198, 210) that are not wearables. They represent [Baadges](/baadge) and the Haunt 1 Background.
 
-## ポータルに関するFAQ
+## Portal FAQ
 
 ### How many portals can you buy in 1 transaction?
 Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
@@ -377,7 +355,7 @@ Yes, you can leave the portal opened, go acquire the specific aToken, and come b
 ### When will portals be released?
 Portals will be released on Polygon at February.
 
-## AavegotchiDAOに関するFAQ
+## AavegotchiDAO FAQ
 
 ### How do I vote using Trust Wallet on Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
@@ -407,7 +385,7 @@ Funding requests are not found in the *Cocoon* proposal template, primarily beca
 
 That said, *Cocoon* is an experimental governance phase and it wouldn’t be out of the realm of possibility to see a good idea garner significant support that does in fact require DAO treasury funds. Any such situation would undoubtedly require a Galaxy level vote and 20% quorum. So basically, we’re not encouraging it, while at the same time remembering that we should never say never.
 
-## ゲームプレイに関するFAQ
+## Gameplay FAQ
 
 
 ### Do higher trait scores always mean higher rarity?
@@ -421,7 +399,7 @@ Portals are expected to cost 100 GHST for the first haunt. Costs for other items
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
 
-## Gotchiverse（ゴッチバース）に関するFAQ
+## Gotchiverse FAQ
 
 ### ゴッチバースとは何ですか？
 
@@ -507,7 +485,7 @@ BRS-wise, all new schematics are in the same format as before. The aim was to fi
 
 ### Will crafting the same item multiple times make it stronger?
 
-いいえ。 It would just level up your blacksmithing skill, resulting in a faster craft time (or less GLTR). There is talk in the future to allow items to venture past their current rarities for enormous cost.
+No. It would just level up your blacksmithing skill, resulting in a faster craft time (or less GLTR). There is talk in the future to allow items to venture past their current rarities for enormous cost.
 
 ## Gotchi Lending FAQ
 
