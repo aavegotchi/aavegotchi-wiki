@@ -164,6 +164,8 @@ Next, select the Gotchi that you will be using and click on the portal to enter.
 
 Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
+<img src="/gotchiverse/item-shop.png" alt="Aavegotchi Item Shop" />
+
 The Item Shop sells 2 products:
 
 * HP Potion (+2500 HP): 100 KEK
