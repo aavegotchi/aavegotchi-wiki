@@ -164,6 +164,8 @@ The Crafting Table is used to create new installations using Gotchus Alchemica. 
 
 Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
+<img src="/gotchiverse/item-shop.png" alt="Aavegotchi Item Shop" />
+
 The Item Shop sells 2 products:
 
 * HP Potion (+2500 HP): 100 KEK
