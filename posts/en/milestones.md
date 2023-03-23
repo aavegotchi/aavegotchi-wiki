@@ -21,6 +21,11 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [Introducing Gotchichain: Aavegotchi X Polygon Supernets](https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/)
+* Gotchichain is gonna be a dedicated blockchain for all things Aavegotchi!
+* It is powered by Polygon Supernets and will be launching in early Q3 2023!
+<p></p>
+
 ## [Aavegotchi partners with Magic Eden!](https://blog.aavegotchi.com/aavegotchi-nfts-are-now-available-on-magic-eden/)
 * Aavegotchi NFTs have launched on Magic Eden, one of the largest NFT Marketplaces on Polygon!
 * To celebrate this major moment in Gotchi history, Aavegotchi and Magic Eden are offering a 20,000 MATIC prize pool for the top traders of the Aavegotchi collections on Magic Eden’s marketplace!
