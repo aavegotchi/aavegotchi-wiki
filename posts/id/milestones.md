@@ -22,6 +22,16 @@ contributors:
 
 ## Year 2023
 
+## [Launch of Gotchi Miner game!](https://blog.aavegotchi.com/gotchi-miner-launches/)
+* Join the first ever Gotchi Miner public tournament from March 28th to April 4th, 2023!
+* The top players will receive amazing rewards, including NFT wearables and FAKE Gotchi NFTs from the popular Hall of Fame series
+<p></p>
+
+## [Web 3 Gaming Studio Inverse Worlds to Develop on Aavegotchi's Supernet](https://blog.aavegotchi.com/inverse-worlds-to-develop-on-aavegotchis-supernet/)
+* Inverse Worlds is coming to Gotchichain!
+* The web3 game studio, which focuses on building social metaverses, has big plans for development on Aavegotchi’s own Polygon Supernet.
+<p></p>
+
 ## [Introducing Gotchichain: Aavegotchi X Polygon Supernets](https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/)
 * Gotchichain is gonna be a dedicated blockchain for all things Aavegotchi!
 * It is powered by Polygon Supernets and will be launching in early Q3 2023!
