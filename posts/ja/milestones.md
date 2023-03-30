@@ -22,6 +22,15 @@ contributors:
 
 ## Year 2023
 
+## [Let's vote on AGIPs 70 & 71 now!](https://blog.aavegotchi.com/core-proposals-agip-70-and-71/)
+* Two new Core Proposals are live for voting on the official Aavegotchi Snapshot: Alchemica + GLTR Taskforce Funding and Gotchi Lodge 2023 Budget Revision
+<p></p>
+
+## [Gaming Industry Veteran Joins Pixelcraft Studios as Game Director](https://blog.aavegotchi.com/gaming-industry-veteran-joins-pixelcraft-jason-slama/)
+* Gotchigang, let's welcome Jason Slama as Pixelcraft's new Game Director!
+* Slama previously worked as Game Director at Gwent, a popular card game based on The Witcher
+<p></p>
+
 ## [Launch of Gotchi Miner game!](https://blog.aavegotchi.com/gotchi-miner-launches/)
 * Join the first ever Gotchi Miner public tournament from March 28th to April 4th, 2023!
 * The top players will receive amazing rewards, including NFT wearables and FAKE Gotchi NFTs from the popular Hall of Fame series
