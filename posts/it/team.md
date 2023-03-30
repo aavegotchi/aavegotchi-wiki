@@ -34,6 +34,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <li><a href=#team>Team</a></li>
 <p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
 <p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
@@ -139,6 +140,21 @@ Carlos led the strategic direction of world-class brand marketing and drove busi
 </div>
 
 Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+
+### Jason Slama - Game Director
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/jason-slama.png" alt = "Jason Slama">
+<p class="leftImageText"><a href="https://twitter.com/SlamaTwoFlags" target="_blank">Jason Slama</a></p>
+</div>
+
+Meet Jason, also known as SlamaTwoFlags, a seasoned game developer with over 20 years of experience in the industry. Starting with creating custom maps in Starcraft and Warcraft 3, he has since worked on both small and large-scale titles at Ubisoft and CD Projekt Red, including the acclaimed The Witcher 3: Wild Hunt.
+
+Having successfully led the development of Gwent, the popular minigame in The Witcher 3, Jason was entrusted with bringing it to life as a standalone product. He eventually took on the role of Game Director, where he honed his leadership skills across all development disciplines and consistently drove the team to improve the game.
+
+Today, Jason's mission is to create unforgettable gaming experiences in the Gotchiverse for players of all backgrounds. He is also passionate about dispelling misconceptions surrounding NFTs and is determined to showcase their potential in the gaming industry.
+
+In short, Jason is a visionary game developer who knows how to bring a team together to create incredible gaming experiences.
 
 ### Mark - Gotchiverse Backend Lead
 
