@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi in the News](https://blog.aavegotchi.com/aavegotchi-in-the-news/)
+* Aavegotchi is featured on Coindesk, Cointelegraph, and Yahoo Finance, and many moar!
+<p></p>
+
 ## [Let's vote on AGIPs 70 & 71 now!](https://blog.aavegotchi.com/core-proposals-agip-70-and-71/)
 * Two new Core Proposals are live for voting on the official Aavegotchi Snapshot: Alchemica + GLTR Taskforce Funding and Gotchi Lodge 2023 Budget Revision
 <p></p>
