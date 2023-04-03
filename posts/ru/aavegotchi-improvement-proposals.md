@@ -88,6 +88,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#curve-transition-plan---securing-funds-for-liquidity>Curve Transition Plan - Securing funds for liquidity</a></li>
 <li><a href=#fund-fireball-gg-team-to-develop-guilds>Fund fireball.gg Team to Develop Guilds</a></li>
 <li><a href=#securing-protocol-rewards---operational---funding-request>Securing Protocol Rewards - Operational & Funding Request</a></li>
+<li><a href=#alchemica---gltr-taskforce-funding>Alchemica + GLTR Taskforce Funding</a></li>
+<li><a href=#gotchi-lodge-2023-budget-revision>Gotchi Lodge 2023 Budget Revision</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -3458,6 +3460,155 @@ Option 2: No. Need More Discussion
 table_agip69
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0xc6622d08b9786e543699695b422c361d2bf6ed1d4395d9e365dd70d8301d440b)
+
+<hr />
+
+### Alchemica + GLTR Taskforce Funding
+**Aavegotchi Improvement Proposal #70**
+
+**Proposal Summary:**
+
+I've spent the last couple of weeks recruiting a diverse taskforce to generate ideas, conduct research and create sig props for our Alchemica + GLTR tokenomics. I hoped to find 8 members but ended up getting 10 amazing applications from some of the best minds and contributors in the community. These members have different types/sizes of holdings and different political/philosophical viewpoints to represent the diversity of our DAO as closely as possible.
+
+We plan to split into vertical teams of 1-3 to work on ideas and come together on weekly public calls to collaborate and provide feedback. This means, as a taskforce, we will constantly be progressing 4-5 ideas in parallel. The projects we intend to start with are:
+
+*Kinship Channelling*
+
+* @Immaterial
+
+*GLTR emissions/sinks research*
+
+* @Maxicrouton
+* @Webb
+* @Umami
+
+*GLTR Raffles*
+
+* @soloegoist
+
+*Guild/District Tokenomics*
+
+* @HARDKOR
+* @AL
+
+*New Alchemica/GLTR sinks ideation*
+
+* @Gotchinomics
+* @kuwlness
+
+*Media work (weekly summary videos)*
+
+* @Nofuturistic
+
+We are asking for funding for 5 hours of work per week at 25 GHST/hour for each of our members on a monthly rolling basis. This will make sure our community members are compensated for this important work and will keep them accountable to ensure that, as a DAO, we are constantly progressing our tokenomics.
+
+The total funding for this month will be: 10 members * 25 GHST/hour * 5 hour/week * 4 weeks = 5000 GHST
+
+As we have already started work, the 4 weeks will run from 6th of March until 2nd April.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alchemica-gltr-economic-taskforce/4684?ref=blog.aavegotchi.com)
+
+Option 1: Yes, fund the taskforce
+
+Option 2: No, do not fund the taskforce
+
+**Voting Period:** 30 March - 6 April 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x41c9e422c666c17d1961f7b210f9fa0278e6729f1a61e70a0719623c334abac6)
+
+<hr />
+
+### Gotchi Lodge 2023 Budget Revision
+**Aavegotchi Improvement Proposal #71**
+
+**Proposal Summary:**
+
+*Change from Sigprop:* The disbursement was requested to be paid in GHST, this has been changed to DAI
+
+The 2023 Gotchi Lodge was a major success, with the Aavegotchi project being one of the best-represented projects at ETH Denver 2023.
+
+The Lodge started with six core team members but quickly became the Gotchi Hostel, accommodating seven Gotchigang cavalry members into the mix. These members proved to be critical to the great representation we had across all venues.
+
+Key performance metrics proved challenging to quantify, but there was a noticeable increase in Twitter and discord engagement, Bazaar activity, External and internal enthusiasm for Aavegotchi, and BD/partnership leads post-event.
+
+While the impact went far, we would like to fairly compensate all attending members at appropriate rates for the work done, and the initial budget set out for the event cannot accommodate that. Below is a complete breakdown of estimated vs actual hours, unforeseen expenses, preparation and long-tail labor (not taken into account), and finally, our request in USD terms.
+
+This being our first IRL activation as AavegotchiDAO, we over-delivered and initially underestimated ourselves, and the current budget reflects that. As a team, we are coming away from this event with immense experience in planning future events.
+
+*Deliverables*
+
+The team hit across all metrics in the initial proposal and then some. There was a noticeable increase in internal and external enthusiasm for the Aavegotchi protocol during our presence in Denver.
+
+*Estimated hours vs actual*
+
+The original Estimate for a workday was:
+* 7 hours/day
+* $15/hr
+* Ten days in total
+
+Final Production Payout Structure was updated to:
+* 12 hours/day (reflective of actual hours from arriving and leaving main venues)
+* $21/hr
+* Ten days in total for core event staff
+* Additional days allocated for long tail labor regarding prep and post-production
+
+*Unforeseen Expenses*
+
+Calvary team members' support; all who stepped up put in immense work and were critical to our mission. Most of them gave up their booth-browsing time to help us.
+
+Sticker production costs were late-stage additions, but immense value adds in promoting Aavegotchi + creating awareness for Fake Gotchis.
+
+Crafting supplies for Marijuana mansion, Art Work Prints, and Framing
+
+An extensive amount of driving for the vehicle team
+
+*Preparation and long-tail labor*
+
+We genuinely undervalued and underestimated the work on the front and back end of EthDenver.
+
+*Front end*
+
+Hefe & Mycaleum: Many hours were spent planning, scheduling, and working with event organizers to secure panel slots. We also put time into budget management and funding necessary travel expenses for team members while waiting for the initial funding proposal to clear.
+
+*Back end*
+
+NoFuturistic continues to work on post-event content editing and distribution.
+
+Hefe & Mycaleum: We have been working on the budget with actual expenses as well as the distribution of costs and compensation. We also put lots of time into crafting this budget extension proposal.
+
+TBurd completed his photo album edits and uploading.
+
+Smokescreens is working on a b-roll for behind-the-scenes clips and footage.
+
+Zombie Shepheard assisting with post-event media delivery and lead follow-up
+
+Kontak has large content libraries to edit and share with NF for distribution.
+
+Dr. Wagmi and Diddly have continuing BD discussions with project teams that met in Denver.
+
+*Funding Request in USD*
+
+The initial funding proposal [AGIP 60] was $11,723, paid in GHST at delivery on February 11th, 2023.
+
+The requested extension is $19,255 USD, paid in DAI.
+
+We appreciate the continued support and look forward to future IRL activations with the Gotchigang!
+
+Funds should be sent to this Safe address as a single payment on Polygon: 0x376184461aaa5Bd445cd52924Fdf29e8E4b86900
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1084905113350570084/1084905113350570084?ref=blog.aavegotchi.com)
+
+Option 1: Fund Revised Team Budget
+
+Option 2: Do Not Fund
+
+**Voting Period:** 30 March - 6 April 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0xb8418b96099bc828a60aecf39b92f6d4c3f87a0a897c8bd5c85f0929798df967)
 
 <hr />
 
