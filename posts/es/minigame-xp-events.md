@@ -28,6 +28,7 @@ Esta página detalla los pasados eventos de XP para minijuegos.
 <li><a href=#astegotchi>Astegotchi</a></li>
 <li><a href=#sushi-vader--2->Sushi Vader (2)</a></li>
 <li><a href=#pinbaal>Pinbaal</a></li>
+<li><a href=#gotchi-miner>Gotchi Miner</a></li>
 </ol>
 
 </div>
@@ -74,3 +75,10 @@ Duración del evento: 29 de enero - 6 de febrero de 2022
 
 tabla_pinbaal
 
+## Gotchi Miner
+
+Event Duration: 28 March - 4 April 2023
+
+table_gotchiMiner
+
+Read the [blog post](https://blog.aavegotchi.com/gotchi-miner-launches/) for the top player rewards!
