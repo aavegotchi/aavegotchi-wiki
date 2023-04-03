@@ -6,6 +6,7 @@ description: 'Aavegotchi GHST 代币的经济模型'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ Aavegotchi在收入分配和代币经济方面，旨在平衡四项目标：
 <ul><p style="margin-left: 2.4em"><b><li>为AavegotchiDAO建造一个金库，用于自由支配支出</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>向那些正在开发Aavegotchi的人提供持续的财政奖励</li></b></p></ul>
 
-Wiki这一部分将首先带你了解GHST的代币发行，然后详细说明如何实现这些目标。
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,6 +39,7 @@ Wiki这一部分将首先带你了解GHST的代币发行，然后详细说明如
 <p><a href=#burn-it>BURN IT</a></p>
 <p><a href=#buidl-it>BUIDL IT</a></p>
 <li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
@@ -46,14 +48,11 @@ Wiki这一部分将首先带你了解GHST的代币发行，然后详细说明如
 
 GHST分三个阶段分发。 这三个阶段分别是私募、预售和联合曲线销售。
 
-
 **私募**
 
 额度：5,000,000GHST 价格：0.05DAI / GHST
 
-
 私人出售于2020年8月进行。 任何人只要达到20k的 DAI 最小值并进行KYC就可以加入。 本轮募集的资金将分配给Aavegotchi背后的公司Pixelcraft Studios，以确保Aavegotchi游戏的成功开发。
-
 
 **预售：**
 
@@ -69,22 +68,19 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
-
 **公开联合曲线销售**
 
-正如我们的朋友们所说的那样，曲线永远不会结束！ 欲了解更多关于曲线机制的信息，请查看我们在 [曲线](/curve) 上的页面。
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-在这一轮中，GHST的供应没有限制，时间也没有限制。 价格以0.2DAI/GHST开盘，并沿曲线波动。 本轮没有锁定，可直接通过曲线领取代币。
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-凡是参加了KYC，并且地址被Aavegotchi团队列入白名单的人，都可以直接从曲线上购买。
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-联合曲线筹集的资金将通过GHST代币持有者控制的水龙头机制提供给Pixelcraft工作室。 关于该机制的更多信息可以在这里找到 [](https://fundrasing.aragon.black)。
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **生态系统基金**
 
 生态系统基金由100万GHST组成，按照与私募轮和预售轮相同的时间表进行锁定。 解锁的资金可以通过向 [AavegotchiDAO](/dao)及以上版本提出的提案进行部署，用于资助非Aavegotchi核心团队成员的开发、Aavegotchi Dao的推广和营销，以及AavegotchiDAO认为有用的任何其他用例。
-
 
 **团队基金**
 
@@ -169,3 +165,7 @@ The following table details the percentage changes in each category across Reven
 table_revenueSharing
 
 The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
