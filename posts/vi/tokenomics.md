@@ -6,6 +6,7 @@ description: 'The Tokenomics of Token GHST Trong Dự Án Aavegotchi'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ Giải pháp của Aavegotchi về vấn đề chia sẻ doanh thu và tokenomic
 <ul><p style="margin-left: 2.4em"><b><li>Xây dựng ngân quỹ cho AavegotchiDAO để dùng trong chi tiêu cho nhiều mục đích khác nhau</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Mang đến phần thưởng tài chính đều đặn cho những ai phát triển nên Aavegotchi</li></b></p></ul>
 
-Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token GHST được phân phối và đề xuất cách mà những mục tiêu này được hoàn thành.
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,6 +39,7 @@ Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token G
 <p><a href=#burn-it>BURN IT</a></p>
 <p><a href=#buidl-it>BUIDL IT</a></p>
 <li><a href=#historical-changes>Lịch sử thay đổi</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
@@ -46,14 +48,11 @@ Phần wiki này, trước tiên, sẽ giúp bạn hiểu được cách token G
 
 GHST được phân phối theo ba giai đoạn. Bao gồm private sale, pre-sale, và public bonding curve sale.
 
-
 **The Private Sale**
 
 Số lượng: 5.000.000 GHST Giá: 0.05 DAI / GHST
 
-
 Private sale diễn ra vào Tháng Tám 2020. Những ai thực hiện KYC và có ít nhất 20k DAI sẽ có quyền tham gia. Số tiền kêu gọi được trong vòng này sẽ đượng phân bố cho Pixelcraft Studios, công ty phát triển Aavegotchi, để đảm bảo thành công cho sự phát triển của trò chơi Aavegotchi.
-
 
 **Pre-Sale**
 
@@ -69,22 +68,19 @@ Những người tham gia vào Private Sale và Pre-Sale sẽ dần nhận đư�
 
 Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
-
 **Sale Công Khai Thông Qua Bonding Curve**
 
-Như những gì mà bọn của bọn tới thường nói, the curve né vờ đai! Nếu muốn biến thêm nhiều thông tin về cơ thế của bonding curve, hãy xem qua trang [curve](/curve).
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-Không có giới hạn nào với lượng cung của GHST trong vòng này cả, và cũng không có giới hạn về thời gian. Giá mở bán đã là 0.2 DAI/GHST, và giao động theo đường cong. Token cũng sẽ không bị khoá trong vòng này - người dùng có thể nhận token ngay từ bonding curve.
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-Những ai đã hoàn thành KYC và địa chỉ của họ đã được vào whitelist của Aavegotchi thì sẽ có thể mua luôn từ bonding curve.
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-Số tiền có được từ Bonding Curve sẽ được trao cho Pixelcraft Studios thông qua tap mechinism (cơ chế trả lương) được quyết định bởi những người nắm giữ token GHST. Bạn có thể xem thêm và cơ chế này tại [đây](https://fundrasing.aragon.black).
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **Ngân Quỹ Của Hệ Sinh Thái**
 
 Ngân Quỹ Của Hệ Sinh Thái lưu giữ 1.000.000 GHST được khoá lại theo cơ chế tương tự như lịch trình của vòng Private và Pre-Sale. Việc mở khoá ngân quỹ có thể được thực hiên thông qua những đề xuất được đệ trình lên [AavegotchiDAO ](/dao) 2.0 hoặc hơn, để phục vụ cho những tình huống hợp lý ví dụ những quỹ phát triển dành cho những thành viên không nằm trong team chủ chốt của Aavegotchi, khuyến mãi và marketing dành cho AavegotchiDAO, cũng như bất kỳ trường hợp nào mà Aavegotchi cảm thấy có ích.
-
 
 **Quỹ Dành Cho Đội Ngũ Phát Triển**
 
@@ -169,3 +165,7 @@ Bảng sau đây cho thấy phần trăm thay đổi của mỗi hạng mục qu
 table_revenueSharing
 
 Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
