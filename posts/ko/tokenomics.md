@@ -6,6 +6,7 @@ description: '아베고치 GHST 토큰 이코노미'
 image: "IMAGE HERE"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ contributors:
 <ul><p style="margin-left: 2.4em"><b><li> 아베고치 Dao에서 나온 안건들이 자유롭게 집행될 수 있도록 재원을 마련하는 것 </li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>아베고치 개발자들을 위해 지속적으로 재정적인 보상을 제공해주는 것.</li></b></p></ul>
 
-이제부터 여러분에게 GHST 토큰 배분에 대해 먼저 말씀드리고, 앞서 언급한 목표들이 어떻게 완수될 수 있는지 상세하게 알려드릴 것입니다. 그러니 집중하셔서 읽어주시길 바랍니다 :)
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,6 +39,7 @@ contributors:
 <p><a href=#burn-it>BURN IT</a></p>
 <p><a href=#buidl-it>BUIDL IT</a></p>
 <li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
@@ -46,14 +48,11 @@ contributors:
 
 GHST는 3단계에 걸쳐 배분되었습니다. 바로 한정판매(Private Sale), 특별 판매(pre-sale), 그리고 bonding curve에 따른 판매입니다.
 
-
 **한정 판매 (The Private Sale)**
 
 규모: 5,000,000 GHST 가격: 0.05 DAI / GHST
 
-
 한정 판매는 2020년 8월에 개시되었습니다. KYC인증을 마치고 최소 20k DAI를 가진 누구나 참여할 수 있었습니다. 당시에 유입된 자금들은 아베고치 게임의 성공적인 개발을 도와주는 Pixelcraft Studios에 배당되었습니다.
-
 
 **특별 판매(pre-sale)**
 
@@ -69,22 +68,19 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
-
 **모두에게 열린 Bonding Curve에 따른 판매**
 
-아베고치의 열렬한 팬들은 "Curve는 결코 끝나지 않는다!"라고 말합니다. Curve의 메커니즘에 대해 좀 더 자세히 알고 싶다면, 다음 [Curve(곡선)](/curve). 페이지를 꼭 확인해보세요
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-이제는 GHST의 공급에 있어 어떠한 시공간적인 제약이 없습니다. 처음엔 가격이 0.2 DAI/ GHST로 형성이 되었으며 Cuve에 의해 변화합니다. 이전 판매와 달리 락업이 따로 없습니다. 즉 Curve에 의해 토큰을 구매 후 바로 소유할 수 있게 됩니다.
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-KYC인증을 마치고 아베고치 팀에 의해 검증된 지갑 주소를 가진 누구든지 Curve로부터 바로 GHST를 구매할 수 있습니다.
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 탭 메커니즘(tap mechansim) 을 통해 Pixelcraft Studios가 사용할 수 있습니다. 더 자세한 정보는 [여기](https://fundrasing.aragon.black)에서 확인할 수 있습니다.
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **생태계 자금**
 
 아베고치 생태계에 이용될 자금은 1,000,000 GHST로 조성되어 있으며, 이전의 한정 판매, 특별 판매의 일정에 따라현재 락업되어 있습니다. 락업이 해제된 자금들은 아베고치 DAO V2.0에 의해 만들어진 제안들에 따라 효율적으로 이용될 수 있습니다. 그리고 아베고치에 속하진 않지만 상당한 기여를 한 핵심 멤버들의 개발에 대한 지원, 아베고치 DAO의 홍보, 마케팅 등 아베고치 Dao에 유용할 것이라고 판단되는 합당한 사례들에 이용될 수 있습니다.
-
 
 **팀(Team) 자금**
 
@@ -169,3 +165,7 @@ The following table details the percentage changes in each category across Reven
 table_revenueSharing
 
 The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
