@@ -6,6 +6,7 @@ description: 'Aavegotchi GHSTトークンのトークノミックス'
 image: "ここに画像"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 <ul><p style="margin-left: 2.4em"><b><li>AavegotchiDAOが裁量的な支出に使用するための宝庫を構築すること</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Aavegotchiの開発者に継続的な金銭的報酬を提供すること</li></b></p></ul>
 
-このWikiでは、まずGHSTのトークン配布について説明し、その後、これらの目標がどのように達成されるかを詳しく説明します。
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,6 +39,7 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 <p><a href=#burn-it>BURN IT（バーン・イット＝燃やして）</a></p>
 <p><a href=#buidl-it>BUIDL IT（ビルド・イット＝作って）</a></p>
 <li><a href=#historical-changes>変容履歴</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
@@ -46,14 +48,11 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 
 GHSTは3段階に分けて配布されました。 プライベートセール、プリセール、パブリックボンディングカーブセールです。
 
-
 **プライベートセール**
 
 サイズ：5,000,000 GHST 価格：0.05 DAI / GHST
 
-
 プライベートセールは、2020年8月に開催されました。 KYCを行い、最低20k DAIを満たした人なら誰でも参加することができました。 このラウンドで集まった資金は、Aavegotchiの開発会社であるPixelcraft Studios（ピクセルクラフト・スタジオ）に配分され、Aavegotchiのゲーム開発を成功させるために使用されました。
-
 
 **プリセール**
 
@@ -69,22 +68,19 @@ GHSTプリセールは、2020年9月14日に開催され、制限時間は14日�
 
 この詳細については、[「Aavegotchiホワイトペーパー」](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing)と[「コミュニティアップデート#4」](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)をお読みください。
 
-
 **パブリック・ボンディングカーブ・セール**
 
-私たちのフレンズが言うように、カーブに終わりはありません！ カーブの仕組みについては、[カーブ](/curve)のページをご覧ください。
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-このラウンドでは、GHSTの供給量に制限はなく、時間にも制限はありません。 価格は0.2DAI/GHSTで始まり、カーブに沿って変動します。 このラウンドではロックアップもありません。トークンはカーブからすぐに請求できます。
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-KYCに参加し、Aavegotchiチームによってアドレスがホワイトリスト化された人は、カーブから直接購入できます。
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-カーブから集められた資金は、GHSTトークン保有者がコントロールするタップメカニズムを通じて、Pixelcraft Studiosに提供されます。 メカニズムの詳細については、[こちら](https://fundrasing.aragon.black)をご覧ください。
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **エコシステム・ファンド**
 
 エコシステム・ファンドは、プライベート・ラウンドおよびプリセールラウンドと同じスケジュールに従ってロックされた1,000,000 GHSTで構成されています。 ロック解除された資金は、[AavegotchiDAO](/dao) V2.0以上に提案され、非Aavegotchiコアチームメンバーによる開発資金、AavegotchiDaoのプロモーションやマーケティング、その他AavegotchiDAOが有用と考える正当な使用例で展開することができます。
-
 
 **チーム・ファンド**
 
@@ -169,3 +165,7 @@ Aavegotchiのボンディングカーブは、懸念の分離によってこの�
 table_revenueSharing
 
 V1からV2への変更の根拠は、[こちら](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)でご確認ください。
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
