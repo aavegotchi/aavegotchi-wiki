@@ -28,6 +28,7 @@ Aavegotchiの[ミニゲーム](/minigames)でXPイベントが開催されるこ
 <li><a href=#astegotchi>アステゴッチ</a></li>
 <li><a href=#sushi-vader--2->スシベーダー（2）</a></li>
 <li><a href=#pinbaal>ピンボール</a></li>
+<li><a href=#gotchi-miner>Gotchi Miner</a></li>
 </ol>
 
 </div>
@@ -74,3 +75,10 @@ table_sushiVader2
 
 table_pinbaal
 
+## Gotchi Miner
+
+Event Duration: 28 March - 4 April 2023
+
+table_gotchiMiner
+
+Read the [blog post](https://blog.aavegotchi.com/gotchi-miner-launches/) for the top player rewards!
