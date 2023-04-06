@@ -923,6 +923,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip70",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund the task force", "14,000,000 GHST (93.72%)"],
+					["No, do not fund the taskforce", "963,000 GHST (6.28%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip71",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund Revised Team Budget", "13,000,000 GHST (80.64%)"],
+					["Do Not Fund", "3,000,000 GHST (19.36%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
