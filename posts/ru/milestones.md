@@ -22,6 +22,14 @@ contributors:
 
 ## Year 2023
 
+## [Vote on AGIPs 72 - 75 now!](https://blog.aavegotchi.com/agip-72-73-74-75/)
+* Four more AGIPs to vote on! 4 sets of XP rewards to earn!
+<p></p>
+
+## [March 2023 Update](https://blog.aavegotchi.com/aavegotchi-march-2023-update/)
+* It's the monthly update from our shippooorrrs! Find out what's cookin' in March 2023!
+<p></p>
+
 ## [Aavegotchi in the News](https://blog.aavegotchi.com/aavegotchi-in-the-news/)
 * Aavegotchi is featured on Coindesk, Cointelegraph, and Yahoo Finance, and many moar!
 <p></p>
