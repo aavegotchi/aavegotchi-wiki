@@ -3516,6 +3516,8 @@ Option 2: No, do not fund the taskforce
 
 **結果:**
 
+table_agip70
+
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x41c9e422c666c17d1961f7b210f9fa0278e6729f1a61e70a0719623c334abac6)
 
 <hr />
@@ -3607,6 +3609,8 @@ Option 2: Do Not Fund
 **Voting Period:** 30 March - 6 April 2023
 
 **結果:**
+
+table_agip71
 
 [スナップショットの投票にのリンク](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0xb8418b96099bc828a60aecf39b92f6d4c3f87a0a897c8bd5c85f0929798df967)
 
