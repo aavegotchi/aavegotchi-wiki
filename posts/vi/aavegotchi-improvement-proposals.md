@@ -90,6 +90,10 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#securing-protocol-rewards---operational---funding-request>Securing Protocol Rewards - Operational & Funding Request</a></li>
 <li><a href=#alchemica---gltr-taskforce-funding>Alchemica + GLTR Taskforce Funding</a></li>
 <li><a href=#gotchi-lodge-2023-budget-revision>Gotchi Lodge 2023 Budget Revision</a></li>
+<li><a href=#liquidity-provision--reimbursement-of-the-dao>Liquidity Provision: Reimbursement of the DAO</a></li>
+<li><a href=#liquidity-provision--adding-the--2-5m-left-in-a-quickswap-pool>Liquidity Provision: Adding the $2.5M left in a Quickswap Pool</a></li>
+<li><a href=#dao-meeting-management-and-delivery--one-time-disbursement-for-fulfilled-deliverables>DAO Meeting Management and Delivery: One-time disbursement for fulfilled deliverables</a></li>
+<li><a href=#aavegotchi-x-anata-collaboration>Aavegotchi X Anata Collaboration</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -3613,6 +3617,219 @@ Option 2: Do Not Fund
 table_agip71
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0xb8418b96099bc828a60aecf39b92f6d4c3f87a0a897c8bd5c85f0929798df967)
+
+<hr />
+
+### Liquidity Provision: Reimbursement of the DAO
+**Aavegotchi Improvement Proposal #72**
+
+**Tóm Tắt Đề Xuất:**
+
+*Changes from SigProp:* The original Sigprop had four options for GHST Reimbursement, this CoreProp only includes the option that got the most support.
+
+Little summary of where we are in the $7.5M liquidity allocation from the curve closing.
+
+*What has been used:*
+- QUICKSWAP LM program : 160,000 GHST (took from DAO wallet)
+- BALANCER POOL : 2,580,000 GHST and 926,022 USDC (taken from DAO wallet. [https://polygonscan.com/tx/0xae27fed433feac9a4eb8a73871fbf307de107255fdb0d0fa289c81d065adb8a6](https://polygonscan.com/tx/0xae27fed433feac9a4eb8a73871fbf307de107255fdb0d0fa289c81d065adb8a6?ref=blog.aavegotchi.com))
+
+These funds (about $5M) used prior to the curve closing came from the DAO wallet, which we took roughly $4M worth of GHST and $1M DAI.
+
+So we need to reimburse the DAO wallet with these $5M borrowed, we have two options:
+
+1) Reimburse all the funds ($5M) in DAI.
+
+2) Reimburse the $4M worth of GHST in GHST, so it means using DAI to buyback GHST.
+
+If we choose to reimburse in GHST, the schedule of swaps to pay back the DAO could be 6 months. (With constant swaps over the period)
+
+Not having too long of a timeline will help to have an average price closer to the price when we borrowed the funds.
+
+The original Sigprop had four options for GHST Reimbursement, this CoreProp only includes the option that got the most support. Which is:
+
+1 GHST is 1 GHST, trying to reimburse the 2,740,000 GHST borrowed with $5M DAI (Would be at maximum $5M purchase of GHST, can be lower if we suceed to get enought GHST to reimburse the DAO with less than $5M)
+
+*Technical details for the DAO directors:*
+
+Deploy a new "swap contract" (see AGIP 69) with the Liquidity wallet as owner
+
+Swap 3/4/5/$7.5M DAI into USDC. (can be done in little chunks)
+
+Send 3/4/5/$7.5M USDC to the contract. (can be done in little chunks)
+
+Send GHST to the Treasury Wallet
+
+*Note: The 6 months swaps timeline specified can be changed to any timeline if the DAO is willing to.*
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/where-should-25-lp-allocation-from-curve-go/4739/3?ref=blog.aavegotchi.com)
+
+Option 1: Reimburse only in DAI
+
+Option 2: Reimburse in GHST
+
+**Voting Period:** 6 - 13 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x7fe819f1bba47d2322d4bb1f1b796a3a13c96146ac90dba5f3ef436b10323aba)
+
+<hr />
+
+### Liquidity Provision: Adding the $2.5M left in a Quickswap Pool
+**Aavegotchi Improvement Proposal #73**
+
+**Tóm Tắt Đề Xuất:**
+
+Little summary of where we are in the $7.5M liquidity allocation from the curve closing.
+
+*What has been used:*
+- QUICKSWAP LM program : 160,000 GHST (taken from DAO wallet)
+- BALANCER POOL : 2,580,000 GHST and 926,022 USDC (taken from DAO wallet. [https://polygonscan.com/tx/0xae27fed433feac9a4eb8a73871fbf307de107255fdb0d0fa289c81d065adb8a6](https://polygonscan.com/tx/0xae27fed433feac9a4eb8a73871fbf307de107255fdb0d0fa289c81d065adb8a6?ref=blog.aavegotchi.com))
+
+We already used about $5M for adding liquidity on Balancer and for the LM program on Quickswap, so we have about $2.5M DAI left.
+
+From these $2.5M DAI left, I propose to use 50% of this amount to buy GHST, and pool it with 50% USDC in a Quickswap pool (Gamma V3), increasing liquidity and cash flow for the DAO (through fees).
+
+Concerning the schedule of swaps, all the swaps should be done in 2 months (constant swaps). I believe 2 months is appropriate. Not too long since the sooner we have liquidity the better it is for the DAO/ecosystem, and doing it in less than 2 months would dilute our own LM program.
+
+*Technical details for the DAO directors:*
+
+Deploy a new "swap contract" (see AGIP 69) with the Liquidity wallet as owner
+
+Swap $1.25M DAI into USDC. (can be done in little chunks)
+
+Send $1.25M USDC to the contract. (can be done in little chunks)
+
+Wait 2 months for the swaps to finish.
+
+Add all the funds on the GHST-USDC pool (Gamma V3 Quickswap pool)
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/where-should-25-lp-allocation-from-curve-go/4739/3?ref=blog.aavegotchi.com)
+
+Option 1: Yes, swap and add liquidity
+
+Option 2: No, don’t do it
+
+**Voting Period:** 6 - 13 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x9d2a5cbe986c1c1f30132c3e396470e6b67f7d74ce2afb6a681100ce209d27e0)
+
+<hr />
+
+### DAO Meeting Management and Delivery: One-time disbursement for fulfilled deliverables
+**Aavegotchi Improvement Proposal #74**
+
+**Tóm Tắt Đề Xuất:**
+
+I have taken feedback from the recent Media Team Signal proposal and am proposing a way to move forward;
+
+In hindsight, a funding request for fulfilled deliverables and future funding should have been two separate proposals.
+
+While there has been extensive discussion around ways information should be disseminated, there has been little pushback on the necessity of these meetings or the value they provide to stakeholders.
+
+So, I would like to be made whole for my completed efforts there. I am happy to help formulate a new proposal in collaboration with the DAO based on aggregated feedback + additional input.
+
+We can develop a satisfactory iteration of the previous DAO proposal reasonably quickly since extensive discussion exists. We will sort out details on management and delivery of meetings and associated media over 1-2 focused DAO calls. A subsequent proposal will get posted in addition to any challenging proposals (highly encouraged). The DAO can vote on the offering(s) of their choice.
+
+This part of the last proposal did not seem like a point of contention and would serve as a reasonable way to continue moving forward with the DAO on what they would like to see from Sunday DAO calls.
+
+January, February and March payments total 4800 GHST
+
+*Treasury Details:*
+
+4800 GHST priced @ the time of Signal Proposal Snapshot (1.07 USD/GHST)
+
+Total disbursement amount in USD: 5,136
+
+Paid out to 0xfD95Dea0f353618826d5FA94be862D9cb0d4dda8 within 48 hours of Core Proposal passing in either DAI or USDC
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1084905113350570084/1084905113350570084)
+
+Option 1: Fund completed work
+
+Option 2: Do not fund completed work
+
+**Voting Period:** 6 - 13 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x96c8936c66da9ef291e6bbfb2861db523aef347beeb787d0ad4fb01ea1089f89)
+
+<hr />
+
+### Aavegotchi X Anata Collaboration
+**Aavegotchi Improvement Proposal #75**
+
+**Tóm Tắt Đề Xuất:**
+
+*Changes from SigProp:* The proposal at AnataDAO is currently passing. We also added clarification on how the Anatas will be bought and how the community can use the DAO owned Anatas.
+
+*WHAT*
+
+Provide Aavegotchi community with Anata NFT's. A similar proposal is passing with 100% in favor to buy Aavegotchi Gotchi’s from AnataDAO. The Anata team would TWAP buy GHST over a 1-3 day period and purchase Aavegotchi's / Portals on for our holders to participate in the Gotchiverse (Bazaar or Magic Eden, etc).
+
+*ABOUT*
+
+Anata is a collection of 2,000 Anime Themed VTube rigged avatars. It is the NFT you use on calls, streams, meetings, etc. Each anata counts as one vote in Anata DAO. Anata is an art project heavily catered towards content creators. So far, the DAO has voted to provide every Anata NFT holder a 3D VRM, 1/1 PFP, Chibi, Upgraded 2D Vtuber Files, Gaming & Metaverse world integrations.
+
+Holders - 950
+
+Active Members - 100 (ish)
+
+Treasury - $4m+
+
+Team - BigDSenpai, Grug, DCF God, Herro
+
+*WHY*
+
+I am a big believer in Aavegotchi. Some of you may remember I used to stream opening H1-H2 portals and giving away gotchi's at random to the community. I didn't have a Face Cam though - an Anata VTUBE avatar would have been perfect while playing - which makes chat and video way more interactive.
+
+Anata has a very large gaming sector, with gaming events & nights firing off 4-5 times per week. It would be great to intertwine what we are doing with Pudgy Penguins, Cozy Penguins and other communities with Aavegotchi games.
+
+**TLDR; more exposure into the Gotchiverse by helping eachother get community members involved in both projects.**
+
+*COST*
+
+A) $10,000 DAI  (4-5 Anata)
+
+B) $20,000 DAI (9-11 Anata)
+
+C) Do Nothing
+
+Average Anata price is .69-1ETH, the "cost" really depends on how much the DAO would want to give out to the community. I am all in favor of starting small if everyone else is.
+
+The proposal would only be executed assuming the Anata DAO proposal passes. This is probably the best way to learn about Anata in under 2.5 minutes: [https://twitter.com/AnataNFT/status/1625594906596249600](https://twitter.com/AnataNFT/status/1625594906596249600)
+
+VOD of Moon playing Gotchi Miners: [https://www.twitch.tv/videos/1779138941](https://www.twitch.tv/videos/1779138941)
+
+*Aavegotchi DAO Owning Anatas*
+
+Aavegotchi DAO will own the Anatas they purchase. Each Anata NFT comes with:
+
+1. Fully rigged vtuber 2D Files
+2. 3D VRM Files *soon to be completed*
+3. 1/1 Profile Pictures
+4. Any future releases tied to that specific Anata NFT # These files of the purchased Anata’s can be placed in an Aavegotchi holder-only discord channel for Aavegotchi community members to use.
+
+*Aavegotchi DAO  Buying Anatas*
+
+Aavegotchi DAO will buy an equal (as reasonably possible) amount of Male & Female Anatas at the best prices (floor) across multiple marketplaces Blur, Opensea, etc. within two weeks after the proposal passing.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1091014164291530762)
+
+Option 1: Yes, 10k DAI
+
+Option 2: Yes, 20k DAI
+
+Option 3: No, do nothing
+
+**Voting Period:** 6 - 13 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x75c2e9cc1472c6d18709ba53653b8e03f863afd8c42e58c5abb48f2d962069c2)
 
 <hr />
 
