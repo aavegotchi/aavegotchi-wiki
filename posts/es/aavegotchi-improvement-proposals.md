@@ -3671,6 +3671,8 @@ Option 2: Reimburse in GHST
 
 **Results:**
 
+table_agip72
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x7fe819f1bba47d2322d4bb1f1b796a3a13c96146ac90dba5f3ef436b10323aba)
 
 <hr />
@@ -3714,6 +3716,8 @@ Option 2: No, don’t do it
 
 **Results:**
 
+table_agip73
+
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x9d2a5cbe986c1c1f30132c3e396470e6b67f7d74ce2afb6a681100ce209d27e0)
 
 <hr />
@@ -3754,6 +3758,8 @@ Option 2: Do not fund completed work
 **Voting Period:** 6 - 13 April 2023
 
 **Results:**
+
+table_agip74
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x96c8936c66da9ef291e6bbfb2861db523aef347beeb787d0ad4fb01ea1089f89)
 
@@ -3828,6 +3834,8 @@ Option 3: No, do nothing
 **Voting Period:** 6 - 13 April 2023
 
 **Results:**
+
+table_agip75
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x75c2e9cc1472c6d18709ba53653b8e03f863afd8c42e58c5abb48f2d962069c2)
 
