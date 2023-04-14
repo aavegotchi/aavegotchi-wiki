@@ -947,6 +947,55 @@ export const tables
         },
 		
 		{
+            tableName: "agip72",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Reimburse in GHST", "14,000,000 GHST (89.64%)"],
+					["Reimburse only in DAI", "1,600,000 GHST (10.36%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip73",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, swap and add liquidity", "15,000,000 GHST (97.48%)"],
+					["No, don't do it", "376,000 GHST (2.52%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip74",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund completed work", "15,000,000 GHST (94.55%)"],
+					["Do not fund completed work", "851,000 GHST (5.45%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip75",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, 20k DAI", "7,600,000 GHST (48.72%)"],
+					["Yes, 10k DAI", "4,900,000 GHST (31.22%)"],
+					["No, do nothing", "3,100,000 GHST (20.06%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
