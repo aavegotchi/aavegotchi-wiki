@@ -168,6 +168,7 @@ The Item Shop sells 2 products:
 
 * HP Potion (+2500 HP): 100 KEK
 * AP Potion (+250 AP): 200 ALPHA
+* Protolick (10 mins, 10k health, 6% armour): 60 FUD & 20 FOMO
 
 ## Chat Commands
 
