@@ -166,10 +166,11 @@ Build Mode allows you to place your installations on the REALM parcels you own. 
 
 <img src="/gotchiverse/item-shop.png" alt="Aavegotchi Item Shop" />
 
-The Item Shop sells 2 products:
+The Item Shop sells 3 products:
 
 * HP Potion (+2500 HP): 100 KEK
 * AP Potion (+250 AP): 200 ALPHA
+* Protolick (10 mins, 10k health, 6% armour): 60 FUD & 20 FOMO
 
 ## Chat Commands
 
