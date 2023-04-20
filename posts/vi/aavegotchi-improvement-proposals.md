@@ -94,6 +94,13 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#liquidity-provision--adding-the--2-5m-left-in-a-quickswap-pool>Liquidity Provision: Adding the $2.5M left in a Quickswap Pool</a></li>
 <li><a href=#dao-meeting-management-and-delivery--one-time-disbursement-for-fulfilled-deliverables>DAO Meeting Management and Delivery: One-time disbursement for fulfilled deliverables</a></li>
 <li><a href=#aavegotchi-x-anata-collaboration>Aavegotchi X Anata Collaboration</a></li>
+<li><a href=#create-a-dao-treasury-dashboard>Create a DAO Treasury Dashboard</a></li>
+<li><a href=#aavegotchi-ghst-ship-summoning>Aavegotchi GHST Ship Summoning</a></li>
+<li><a href=#alchemica-spending-competition-season-ii>Alchemica Spending Competition Season II</a></li>
+<li><a href=#forge-2-0-request-for-funding>Forge 2.0 Request for Funding</a></li>
+<li><a href=#fund-development-of-strategotchi---digital-multiplayer-version>Fund development of Strategotchi - Digital Multiplayer version</a></li>
+<li><a href=#dao-directors---treasury-officer-role>DAO Directors : Treasury officer role</a></li>
+<li><a href=#channel-alchemica-through-a--2-kinship-burn>Channel Alchemica through a -2 kinship burn</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -3838,6 +3845,388 @@ Option 3: No, do nothing
 table_agip75
 
 [Đường link vote trên Snapshot](https://vote.aavegotchi.com/?ref=blog.aavegotchi.com#/proposal/0x75c2e9cc1472c6d18709ba53653b8e03f863afd8c42e58c5abb48f2d962069c2)
+
+<hr />
+
+### Create a DAO Treasury Dashboard
+**Aavegotchi Improvement Proposal #76**
+
+**Tóm Tắt Đề Xuất:**
+
+I (MikeyJay) propose creating a DAO Treasury Dashboard to provide a clear overview of the Aavegotchi DAO’s financial health and activity. This dashboard, created in collaboration with Eitri (eitri#0228), will enable stakeholders to make informed decisions about the DAO’s operations and governance. It may also be useful to a bookkeeping and accounting team in the future, as it will provide summarized transaction information that can be posted as individual accounting ledger entries each month.
+
+The dashboard will break down income sources, such as alchemica earned from Gotchiverse crafting, GHST earned from Baazaar fees and GBM auctions, and alloy earned from The Forge. It will also include a breakdown of various DAO token balances over time (GHST, DAI, alchemica, alloy, matic, and USDC).
+
+The dashboard will be created using Dune Analytics. The complete specification for the dashboard can be reviewed here: [https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd](https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd)
+
+We aim to complete the dashboard within six weeks of the proposal's passage by the DAO. We request 2,000 DAI in funding, which we will allocate as follows:
+
+* 1,500 DAI paid to Eitri to create the dashboard
+
+* 500 DAI paid to myself for writing the specification and project management
+
+*Potential Risks*
+
+Our initial investigation suggests that we can use the freely available Dune Analytics to create the dashboard. However, there is a possibility that we may need a supplemental tool as work progresses. If we identify the need for a supplemental paid tool as work progresses, we will inform the DAO and, if necessary, seek approval for additional funding.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/create-a-dao-treasury-dashboard/4746)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x25c0def94d5fb016fb39ac823755dd2de447bd5de609d25cc108f182391ddcda)
+
+<hr />
+
+### Aavegotchi GHST Ship Summoning
+**Aavegotchi Improvement Proposal #77**
+
+**Tóm Tắt Đề Xuất:**
+
+*Changes from SigProp: The original Sigprop had requested payment in GHST, however the coreprop requests DAI.*
+
+$7700 USD paid in DAI for Aavegotchi logo sail. This sail will be great passive advertising for us and allows for active marketing to charter clients.
+
+I got a quote on a billboard in our area, they charge $1200 a month with around 5400 views a day and are sold out. We’d get 5 years easy compared to 6 months with a billboard with easily a few hundred sets of eyes on the sail each trip.
+
+We run 100-130 trips throughout the year. Trips are 2-5+ hours and we often have 12+ people onboard. The boat is owned and paid for and the sail is expected to last 5 to 10+ years from this sail and the costs of a billboard or something similar are way higher and less unique and targeted.
+
+115 trips x 3 hours= 345 hours/year
+
+345 hours x 5 years =1725 hours
+
+$7700/1725 hours =$4.4/per hour of advertising minimum
+
+*LỢI ÍCH*
+
+Captive target audience with extra income and crypto knowledge, unique advertising opportunity, media capture, onboarding help and discounted sailing trips for Aavegotchi holders. Opens the door for a world of content creation and unique marketing with merch as well as offering a platform for IRL meetups. Building positive synergy between the DAO and community supporters. I've already been offering 50% off discounts for Aavegotchi holders for over a year.
+
+*POTENTIAL RISK/DOWNSIDE*
+
+Damage to sail due to extreme weather (Hurricane, high-wind events, etc.) and daily usage. Sail must be used in the appropriate wind conditions to avoid damage. Advertising/Marketing funds could be used in other places.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/custom-aavegotchi-logo-sail-for-catamaran-charter-boat/3818)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xbf227c513737067b8e3aeb66eecfeb18d52129ac701317ca21c0a1d3ba7181e9)
+
+<hr />
+
+### Alchemica Spending Competition Season II
+**Aavegotchi Improvement Proposal #78**
+
+**Tóm Tắt Đề Xuất:**
+
+Following the success of Season 1 and using the feedback from the Gotchiboard Survey we would now like to propose Alchemica Spending Competition Season 2. Starting date will be May 1st 2023.
+
+Details same as season 1:
+
+* 80k Total prize pool
+* Funded from Gotchiverse Player Rewards Wallet
+* 4 one-week rounds
+* 20k prize pool each round
+* Top 50 places paid each round
+
+New details for season 2:
+
+* Each round time multipliers will be same as Season 1 Round 1
+* Each round will also have a different token multiplier: Week 1 FUD 2x, Week 2 FOMO 2x, Week 3 ALPHA 2x, Week 4 KEK 2x
+* Off chain item spending will now be included
+* A new Super Proto Lickquidator will be released
+* Off chain item spending will only count once the item is USED
+* Some new tiles or decorations will also be released for the competition
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1090577840778514493)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xb7b45e605373b2835b92ee570b6aaf06219a1c8042e6a0a467d06c02da17b727)
+
+<hr />
+
+### Forge 2.0 Request for Funding
+**Aavegotchi Improvement Proposal #79**
+
+**Tóm Tắt Đề Xuất:**
+
+• Hire the Forge Team for a 3-month period with an overall UI/UX focus
+
+• Planned deliverables: full geode functionality with refilling of prize pool with at least 3 new schematics; respec potion completion and distribution; strong UI/UX focus with main website integration of the Dressing Room w/ similar art/RPG feel as offered by the Forge UI; major improvements to Forge UI/UX; operationalize a schematic pipeline for new schematic releases
+
+• No plans for further core or alloy release in this period
+
+• Goal is for content to accrue value to native assets (gotchis, wearables)
+
+• Backgrounds, wearable skins, evolving pets and a new BRS-modifying slot will be tabled for further technical development. The Forge Team will prevent the most viable and community-favored project(s) for the next Forge installment.
+
+• Compensation is denominated in USD instead of GHST for a total of $161,825 for the Forge Team and a 10,000 GHST bounty budget
+
+The Aavegotchi Forge Team proposes a 3 month contracted period of service to the Aavegotchi DAO to continue developing and improve features on the Aavegotchi protocol and User Interface. Over this three-month period, we plan to “stick the landing” for the Forge, add additional User Interface work w/ an integrated dressing room, and outline potential new features that can be pursued by the Forge Team or other design teams.
+
+A contracted three-month period allows the team to take on multiple projects simultaneously. It also allows our team the ability to provide rolling economic data, maintain and improve the UI, update the Core Framework document, and maximally engage the community. The Forge launch on 2/22 generated >$256,000 in total sales. We anticipate we will be able to continue to generate revenue without inflating cores or alloy and aim for budget neutrality or better while delivering new content, advancing the protocol, improving user experience, and providing value to native assets.
+
+*Forge Team Roadmap:*
+
+* Geodes: Regardless of this proposal, the Forge team will debut the minimal viable Geode ASAP with function to obtain the 400 legendary Forge set schematics. As part of this proposal, the Forge Team will develop additional schematics for some of the unmatched cores from the Forge Launch auction. Plan to reload the prize pool by the end of April, ideally with multi-tier rarity functionality.
+
+* Review and complete the technical design and airdrop “Respec Potions”
+
+* UI Upgrade: Integrate the “Dressing Room” to the main Aavegotchi website. Create a dress-up and buy now option with new art, new NPC, and Aavegotchi aesthetic. Additionally, we will focus on overall UI/UX improvement with the goal of maximally educating users on protocol assets.
+
+    • Schematic pipeline – Will operationalize new schematic creation with predictable schematic releases, randomized/fair trait selection, intentional approach to avoid power creep, and maximally assist in translating new wearables to Gotchiverse functionality
+
+* Updates to wearables.report (market data reporting) site to account for new wearables mechanics.
+
+* Add a dashboard of metrics related to The Forge (include reporting on two new mechanics developed by The Forge team)
+
+* Update existing metrics to account for changes in supply related to forging
+
+* UI/UX improvements (mostly navigation related to accommodate additional content, with some minor aesthetic updates
+
+* Back-end code improvements to allow for modularity and expandability in the future
+
+*Future Project Outlines* – Forge Team to investigate and prepare potential proposals for the following:
+
+* Outline and potentially implement the transition from FRENS to GLTR for raffle tickets
+
+* New/Custom backgrounds – Develop a path for the community to design unique backgrounds and/or obtain Forge Team/Pixelcraft designed backgrounds
+
+* Wearable skins/non-BRS-modifying wearables – Continue aesthetics focus by creating a path for wearable skins w/ goal to maximize community-created content.
+
+* New BRS-modifying slot – Will be tabled for further economic and technical development for presentation to the DAO in Q3 2023*
+
+* Evolving pets/Upgradeable wearables – Tabled for further technical development and separate proposal for the DAO, though it still may be implemented by the Forge Team during the 3-month period or beyond.*
+
+*Forge Team Stipend:*
+
+For this work, diddly will be hired on as a full-time developer and responsible for all technical builds, solidity work and front-end management. This stipend for the Lead Developer role includes pay for extensive work performed in February-March 2023 to complete the Forge and to build the mobile user interface for a 4 month total stipend vs 3 months for the rest of the team. The three other roles will be part time ~20 hours/week. The 10,000 GHST bounty budget is to maximize external contributions and facilitate open contributions as much as possible.
+
+*Execution Details:*
+
+* Three disbursements in DAI from the DAO Treasury Wallet to the Forge Team Wallet which will be specified in the core proposal:
+
+* $61,825 upon passage of core proposal
+
+* $50,000 30 days after passage of core proposal
+
+* $50,000 60 days after passage of core proposal
+
+* Funds will be sent to the following address: 0xa60CD32d13d1D99c1141eebD6D6F07652F19B982
+
+In summary, we are requesting compensation for a dedicated 3-month period to form a devoted, highly skilled and proven team to continue developing the protocol. We strongly believe we will create more value than our asking cost as demonstrated by our previous success. We look forward to this period of exponential growth and helping the DAO continue its transition through the metamorphosis phase.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/forge-2-0-proposal-discussion/4736)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xb07be37d556302c873bee9b232c8a54d5ab8925af72ce9f38828e91fdb6ab5a4)
+
+<hr />
+
+### Fund development of Strategotchi - Digital Multiplayer version
+**Aavegotchi Improvement Proposal #80**
+
+**Tóm Tắt Đề Xuất:**
+
+The Strategotchi team is seeking a grant to complete the design and development of Strategotchi - Digital Multiplayer version. The team aims to expand the Aavegotchi universe with a unique multiplayer gaming experience that favors politics and alliance building as heavily as strategy and gaming ability.
+
+*Introductory post + litepaper:*
+
+[https://dao.aavegotchi.com/t/introducing-strategotchi/4671](https://dao.aavegotchi.com/t/introducing-strategotchi/4671)
+
+*Long Term Value:*
+
+Additionally, the grant will aid in bootstrapping Strata Inc., a legitimate software development company capable of providing long-term value to the ecosystem. By establishing a legal entity we can improve credibility, accountability, and better facilitate contracting with third parties, thereby enhancing the potential for scaling and achieving significant impact on adoption.
+
+*A Gotchi Multiplayer Strategy Game*
+
+Our game takes place in the Gotchiverse Grid, bringing players outside of the Citaadel for the first time and expanding on the established lore It features a new type of asset in the form of Guild Cards; NFT assets with in-game utility that allow players to build custom decks and tailor their play style to their preference.
+
+*Guild Cards Season 1 - Tokenomics and Distribution:*
+
+[https://dao.aavegotchi.com/t/guild-cards-season-1-tokenomics-and-distribution/4724](https://dao.aavegotchi.com/t/guild-cards-season-1-tokenomics-and-distribution/4724)
+
+*Token Sinks:*
+
+The game will provide a sink for native tokens through “Ranked Mode” buy-ins in GHST and/or Alchemica. Future plans for sinks include crafting a Strategotchi Board Tile for Gotchiverse parcels, a Seasonal LE Guild Waarz Trophy deco, and de-gen game modes (Sacrificial Gotchi) that, utilizing Forge smelting, will create deflationary pressure on Gotchis and wearables.
+
+*Guild vs Guild:*
+
+Along with the development of the game, the team will host the Strategotchi Inaugural Guild Tournament, a precursor to Guild Waarz, our model for an ongoing seasonal tournament that gives guilds the opportunity to make their mark in Gotchiverse History with custom skinned Limited Edition Trophies
+
+*Gotchichain:*
+
+With the ability to process more than 2000 transactions per second, Gotchichain can provide a seamless and responsive gaming experience. This is why PC sees the potential for Strategotchi to launch with heavy support in Gotchichain's launch window
+
+*Budget:*
+
+We are seeking 131,400 USD (GHST equivalent) paid in 2 installments. A 50% upfront payment of 65,700 USD to be transferred upon successful passing of a core prop. The subsequent 50% (65,700 USD) to be paid upon the successful completion of the single player mode MVP (based on DAO foundation members’ judgment)
+
+*Deliverables:*
+
+* Season 1 Guild Cards Distribution (GBM)
+
+* Single player mode (digital)
+
+* Multiplayer mode (digital)
+
+* Inaugural Guild Tournament (precursor to Guild Waarz)
+
+*Cost Breakdown:*
+
+* Development: 61,200 USD
+
+* Art: 48,200 USD
+
+* Management: 22,000 USD
+
+* Total: 131,400 USD (GHST equivalent)
+
+* Original budget: 87.6k GHST ($1.5/GHST)
+
+* Roadmap + Budget: [https://dao.aavegotchi.com/t/strategotchi-roadmap-budget-proposal/4711](https://dao.aavegotchi.com/t/strategotchi-roadmap-budget-proposal/4711)
+
+*Conclusion:*
+
+We believe this project has the potential to attract a new player base and expose the Aavegotchi IP to a new audience of strategy game enthusiasts, aligning it with the 2023 roadmap set out by PC, focusing on gaming and player growth.
+
+It also serves our existing community by expanding utility of native assets as well as providing an engaging social experience involving Guild play, and pioneering the path for Guild vs. Guild competition.
+
+As of today, I have achieved a verbal understanding with PC to have a limited licensing agreement extended to this project. Such a license will move into drafting and signatures only after the passage of this Sigprop. The agreement grants PC 20% of the revenue, and includes their support with smart contract development. (The remaining 80% is to be split evenly between player rewards and the DAO.)
+
+*It's important to emphasize that this grant is specifically for the digital version of the game, although plans for an official PC physical version are already being discussed. From my talks with the PC team, they are very enthusiastic about the idea and already have multiple manufacturing and distribution leads for the tabletop physical.*
+
+We are super excited and highly driven to embark on this ebic project, frens. With your support, Strategotchi aims to establish itself as a reliable and valuable contributor to the ecosystem over the long haul. We are eager to have your backing and work together to transform our aspirations into a reality!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/introducing-strategotchi/4671)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x19110d25764ffa927cbfc41297fd4c55f35d33a85c805f1cecc6326760f1b6bf)
+
+<hr />
+
+### DAO Directors : Treasury officer role
+**Aavegotchi Improvement Proposal #81**
+
+**Tóm Tắt Đề Xuất:**
+
+*Changes from Sigprop: This role will remain until the directors are re-elected.*
+
+Hello frens!
+
+With the end of the curve, a substantial amount of funds has been given to the DAO. The directors have been discussing the importance of DAO officer roles for some time, and I believe it's crucial to start the process by appointing a treasurer for the DAO.
+
+DAO officer roles are important because sometimes directors' tasks go beyond signing transactions on DAO proposals. These roles help to further structure the DAO. That's why I am running for the position of treasurer.
+
+*The purpose of the treasurer role would be to:*
+
+• Ensure that all movement of funds asked to the DAO is completely clear, without misinterpretation possible.•Ensure that all movement of funds is smooth, swap contracts have sufficient funds, transfer of funds is done in a timely manner, etc.
+
+• Prepare a monthly summary of the DAO treasury that is accessible to all.
+
+• Stay informed about DAO proposals, ongoing funding, and the status of the treasury.
+
+• Additionally, the role would also serve as an "expert" role, advising directors on how to interact with smart contracts to minimize losses to the DAO.
+
+As a current director, I receive a payment of 2,000 GHST every three months. Given the active nature of the treasurer role, I plan to dedicate two hours per day to this role and will be requesting an increase in compensation to 5,000 GHST per three months.
+
+*Why choose me (Maxicrouton)?*
+
+* I possess in-depth knowledge of DeFi and market making, enabling me to provide valuable advice on all financial decisions related to the DAO.
+
+* I am well-versed in the DAO's structure and DAO fund locations. I think having a go-to person for all treasury matters can be helpful for the DAO.
+
+* My participation in the Curve transition team and in directors group allow me to be aware and understand every fund move.
+
+*Thank you for considering me for the treasurer role.*
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/dao-directors-officer-roles/4742)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x28700326fc76752543f263d05770fea9534cff73c107cf8775760bdba9ca1f1e)
+
+<hr />
+
+### Channel Alchemica through a -2 kinship burn
+**Aavegotchi Improvement Proposal #82**
+
+**Tóm Tắt Đề Xuất:**
+
+This proposal re-attempts to change kinship mechanics so that kinship points are burned during each Gotchi channeling event. Current Alchemica emission trajectories forecast an annual increase of 40% in supply due to persistent increases in Gotchi kinship multipliers at no cost to the player. The proposed change is a -2 kinship point burn per each Gotchi channeling event.
+
+Additionally, a new rental permission will also be added for Aavegotchis that will on default be set to “NO” to avoid player friction with accidental kinship burning. Players may toggle this feature to allow renters to channel their gotchis or keep it off to preserve kinship.
+
+*Some benefits of this proposal:*
+
+* Players will immediately face trade-offs for how to use kinship. This translates to either burning it at the altar to produce resources, or preserving it for other Aavegotchi uses like rarity farming, future gotchiverse functions, or expenditure in other games.
+
+* Develops some standardization around spending kinship. Serves as a good foundation for future spending utility.
+
+* There is a timing impact of this proposal where future Gotchiverse developments should provide meaningful kinship buffs from Pixelcraft efforts or through use in other games.
+
+* The specific burn rate can be adjusted via DAO vote over time if needed. The bigger focus is just implementing the mechanic change.
+
+* Alchemica emissions should lower as players opt to save points for kinship leaderboard ranking funded by the Aavegotchi protocol instead of spending them to expand their Gotchiverse assets.
+
+*Potential Risks*
+
+* Players with newly summoned, or low kinship gotchis will lose channeling abilities if they want their kinship to grow. A counter-argument is:
+
+* Less engagement with Aavegotchis due to expected loss of channeling activity.
+
+* Additional complexity. This mechanic opens the door for dynamic strategy, but also has potential to overwhelm newcomers.
+
+*This work was the result of several people’s efforts including, but not limited to @Yanik_AI as the original kinship burning author, Alchemica + GLTR Task Force, @Immaterial for the edits, and feedback from the discussions boards.*
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1087881280210870333)
+
+Option 1: Yes
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 18 - 25 April 2023
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xade68c6cf0285a55e4cf914266761b9a505389ef4686e7972ad5426ac49cd238)
 
 <hr />
 
