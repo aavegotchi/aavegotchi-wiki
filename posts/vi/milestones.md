@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [7 new Core Props to vote for!](https://blog.aavegotchi.com/vote-now-aavegotchidao-core-proposals-agip-76-77-78-2/)
+* Gotchigang, your votes are needed for 7 new Core Props!
+<p></p>
+
 ## [Vote on AGIPs 72 - 75 now!](https://blog.aavegotchi.com/agip-72-73-74-75/)
 * Four more AGIPs to vote on! 4 sets of XP rewards to earn!
 <p></p>
