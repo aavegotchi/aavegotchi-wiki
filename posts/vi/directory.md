@@ -67,6 +67,8 @@ contributors:
 
 * [Gotchi Lending](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
