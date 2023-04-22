@@ -67,6 +67,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Gotchi Lending](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
