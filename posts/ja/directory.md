@@ -67,6 +67,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチ・レンディング](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [ゴッチバース](/gotchiverse)
 
 * [ゴッチュスアルケミカ](/gotchus-alchemica)
