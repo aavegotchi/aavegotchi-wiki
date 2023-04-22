@@ -67,6 +67,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Alquiler de Gotchi](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [Gotchiverso](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
