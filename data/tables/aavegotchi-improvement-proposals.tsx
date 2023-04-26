@@ -996,6 +996,90 @@ export const tables
         },
 		
 		{
+            tableName: "agip76",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "17,000,000 GHST (97.29%)"],
+					["No", "465,000 GHST (2.71%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip77",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["No", "10,000,000 GHST (57.74%)"],
+					["Yes", "7,600,000 GHST (42.26%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip78",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "17,000,000 GHST (92.79%)"],
+					["No", "1,300,000 GHST (7.21%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip79",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "12,000,000 GHST (65.41%)"],
+					["No", "6,300,000 GHST (34.59%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip80",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["No", "9,500,000 GHST (51.1%)"],
+					["Yes", "9,100,000 GHST (48.9%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip81",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "18,000,000 GHST (93.82%)"],
+					["No", "1,200,000 GHST (6.18%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip82",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "12,000,000 GHST (64%)"],
+					["No", "6,700,000 GHST (36%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
