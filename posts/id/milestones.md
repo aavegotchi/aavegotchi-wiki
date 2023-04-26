@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi heading for Consensus 2023!](https://blog.aavegotchi.com/yee-haw-aavegotchi-heads-to-texas-for-consensus/)
+* Aavegotchi will be at Consensus 2023 in Austin, Texas next week!
+* There will be aavesome Gotchi swag and merch!
+<p></p>
+
 ## [7 new Core Props to vote for!](https://blog.aavegotchi.com/vote-now-aavegotchidao-core-proposals-agip-76-77-78-2/)
 * Gotchigang, your votes are needed for 7 new Core Props!
 <p></p>
