@@ -3879,6 +3879,8 @@ Option 2: No
 
 **Resultaten:**
 
+table_agip76
+
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x25c0def94d5fb016fb39ac823755dd2de447bd5de609d25cc108f182391ddcda)
 
 <hr />
@@ -3920,6 +3922,8 @@ Option 2: No
 
 **Resultaten:**
 
+table_agip77
+
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xbf227c513737067b8e3aeb66eecfeb18d52129ac701317ca21c0a1d3ba7181e9)
 
 <hr />
@@ -3957,6 +3961,8 @@ Option 2: No
 **Voting Period:** 18 - 25 April 2023
 
 **Resultaten:**
+
+table_agip78
 
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xb7b45e605373b2835b92ee570b6aaf06219a1c8042e6a0a467d06c02da17b727)
 
@@ -4042,6 +4048,8 @@ Option 2: No
 **Voting Period:** 18 - 25 April 2023
 
 **Resultaten:**
+
+table_agip79
 
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xb07be37d556302c873bee9b232c8a54d5ab8925af72ce9f38828e91fdb6ab5a4)
 
@@ -4132,6 +4140,8 @@ Option 2: No
 
 **Resultaten:**
 
+table_agip80
+
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x19110d25764ffa927cbfc41297fd4c55f35d33a85c805f1cecc6326760f1b6bf)
 
 <hr />
@@ -4181,6 +4191,8 @@ Option 2: No
 
 **Resultaten:**
 
+table_agip81
+
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x28700326fc76752543f263d05770fea9534cff73c107cf8775760bdba9ca1f1e)
 
 <hr />
@@ -4225,6 +4237,8 @@ Option 2: No
 **Voting Period:** 18 - 25 April 2023
 
 **Resultaten:**
+
+table_agip82
 
 [Link om te stemmen met Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xade68c6cf0285a55e4cf914266761b9a505389ef4686e7972ad5426ac49cd238)
 
