@@ -41,7 +41,6 @@ contributors:
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
-<p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
 <p><a href=#jc---business-development>JC - Business Development</a></p>
 <li><a href=#origins>Origins</a></li>
@@ -209,15 +208,6 @@ William joined Aavegotchi in May 2021. Work experiences with blockchain startups
 </div>
 
 Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
-
-### BigFlex - Social Media Manager
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/bigflex.jpg" alt = "BigFlex">
-<p class="leftImageText"><a href="https://twitter.com/FlexLack" target="_blank">BigFlex</a></p>
-</div>
-
-Alex, aka Big Flex, is already well known within the GotchiGang community. As a social media specialist, with a Bachelor’s Degree in Marketing, Big Flex discovered Aavegotchi and devoured as much information as possible, spending countless hours learning about the project and participating in the community. It was inevitable that he would become more involved. Since joining the team as Social Media Manager, he immediately made a positive impact on Aavegotchi’s social media presence. Big Flex’s main focus is spreading the Gotchi Gospel far and wide.
 
 ### Zeke - Technical Artist
 
