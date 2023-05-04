@@ -34,6 +34,7 @@ Aavegotchi is een fraai project. Leer onze frens hier kennen!
 <p><a href=#router-protocol>Router Protocol</a></p>
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
 <p><a href=#magic-eden>Magic Eden</a></p>
+<p><a href=#oneplanet>OnePlanet</a></p>
 </ol>
 
 </div>
@@ -213,3 +214,12 @@ Mandala is a cross-media story utilizing avatar NFTs in a geo-location AR mobile
 </div>
 
 Magic Eden is the leading cross-chain NFT platform driving the next billion users to web3. Led by former crypto, tech, and hospitality leaders, Magic Eden is building a user-friendly platform powered by market-leading minting and trading solutions. Magic Eden brings dynamic cultural moments onto the blockchain, empowering users across thousands of digital communities to create, discover and collect unique NFTs.
+
+### OnePlanet
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/oneplanet.jpg" alt="OnePlanet">
+<p class="leftImageText"><a href="https://twitter.com/OnePlanet_NFT" target="_blank">OnePlanet</a></p>
+</div>
+
+OnePlanet is a Polygon-dedicated NFT launchpad and marketplace, offering a diverse range of NFT experiences for both creators and the community. Their comprehensive launchpad services and add-on utilities empower creators to bring their NFTs to life and monetize their work. Meanwhile, users can explore, evaluate, and interact with their NFTs in exciting new ways.
