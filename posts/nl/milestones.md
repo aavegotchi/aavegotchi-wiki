@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi partners with OnePlanet!](https://blog.aavegotchi.com/aavegotchi-oneplanet-partnership/)
+* Aavegotchi partners with OnePlanet, an NFT launchpad and marketplace on Polygon!
+<p></p>
+
 ## [Aavegotchi heading for Consensus 2023!](https://blog.aavegotchi.com/yee-haw-aavegotchi-heads-to-texas-for-consensus/)
 * Aavegotchi will be at Consensus 2023 in Austin, Texas next week!
 * There will be aavesome Gotchi swag and merch!
