@@ -168,9 +168,10 @@ Build Mode allows you to place your installations on the REALM parcels you own. 
 
 The Item Shop sells 3 products:
 
-* HP Potion (+2500 HP): 100 KEK
-* AP Potion (+250 AP): 200 ALPHA
-* Protolick (10 mins, 10k health, 6% armour): 60 FUD & 20 FOMO
+* HP Potion (+2500 HP): 10 KEK
+* AP Potion (+250 AP): 20 ALPHA
+* Protolick 1 (10 mins, 10k health, 6% DMG per attack): 60 FUD & 20 FOMO
+* Protolick 2 (10 mins, 60k health, 10% DMG per attack): 400 FUD, 150 FOMO, 100 ALPHA, 15 KEK
 
 ## Lệnh Trò Chuyện
 
