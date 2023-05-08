@@ -39,7 +39,7 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#features>Các tính năng</a></li>
-<li><a href=#rarible>Rarible</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
@@ -85,8 +85,9 @@ Những tính năng khác trong Baazaar bao gồm:
 * My Sales - Xem những đơn hàng mà bạn đã bán thành công trên Baazaar
 * My Sales - Xem những đơn hàng mà bạn đã mua thành công trên Baazaar
 
-## Rarible
+## Secondary Marketplaces
 
-Ngoài Baazaar, một thị trường thứ cấp khác hỗ trợ việc mua bán Aavegotchi là nền tảng [Rarible](https://rarible.com/) trên Ethereum Mainnet.
+Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
 Do Aavegotchi tồn tại trên Polygon, chúng cần phải được chuyển tới Ethereum Mainnet trước có thể mua/bán chúng trên Rarible. Tham khảo [bài hướng dẫn này](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) để biết cách chuyển mạng cho Aavegotchi. Hãy xem qua trang FAQ để có thể biết trả lời cho những câu hỏi thường được hỏi nhé.
+
