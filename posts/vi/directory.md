@@ -85,6 +85,8 @@ contributors:
 
 * [Kinship](/kinship)
 
+* [Lore](/lore)
+
 * [Maall](/maall)
 
 * [maTokens](/matokens)
