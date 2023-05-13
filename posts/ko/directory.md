@@ -85,6 +85,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [친밀도](/kinship)
 
+* [Lore](/lore)
+
 * [Maall](/maall)
 
 * [maTokens](/matokens)
