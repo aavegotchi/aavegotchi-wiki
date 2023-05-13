@@ -85,6 +85,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
+* [Lore](/lore)
+
 * [Maall](/maall)
 
 * [maToken](/matokens)
