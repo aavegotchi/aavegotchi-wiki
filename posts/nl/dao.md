@@ -251,8 +251,8 @@ Stem op AGIPs en krijg er[POAP badges](/poap) voor!
 
 ## Schatkist
 
-AavegotchiDAO verdient 0.3% van alle transacties op de Aavegotchi [Bonding Curve](/curve) op Ethereum Mainnet. Dit is de huidige bron van alle DAO-fondsen.
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-Als verantwoordelijke rentmeesters zullen de leden van AavegotchiDAO een rol spelen bij het bepalen van de wijze waarop deze fondsen worden toegewezen.
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
 
-De AavegotchiDAO schatkist is [hier](https://aavegotchi.com/treasury).
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
