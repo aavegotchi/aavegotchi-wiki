@@ -251,8 +251,8 @@ AGIPsに投票して、[POAPバッジ](/poap)をゲットしよう！
 
 ## 宝庫
 
-AavegotchiDAOは、イーサリアムメインネット上のAavegotchi[Bonding Curve](/curve)の全取引の0.3%を獲得しています。 これが現在のDAOの全資金源です。
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-責任ある運営者として、AavegotchiDAOのメンバーはこれらの資金がどのように配分されるかを決定する役割を担います。
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
 
-AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/treasury)にあります。
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
