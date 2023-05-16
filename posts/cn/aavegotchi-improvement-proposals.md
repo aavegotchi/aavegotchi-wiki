@@ -3883,6 +3883,8 @@ table_agip76
 
 [Link to vote on Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x25c0def94d5fb016fb39ac823755dd2de447bd5de609d25cc108f182391ddcda)
 
+**The completed Dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)**
+
 <hr />
 
 ### Aavegotchi GHST Ship Summoning
