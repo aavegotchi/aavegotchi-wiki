@@ -41,7 +41,11 @@ export const tables
 					[`B`, `<b>B</b>urning Fire`],
 					[`L`, `<b>L</b>ightning`],
 					[`Spacebar`, `Shoot`],
-					[`Shift + Direction keys`, `Run`]
+					[`Shift + Direction keys`, `Run`],
+					[`Left Mouse Button`, `Shoot`],
+					[`Left Mouse Button (Hold & Release)`, `Charged Shot`],
+					[`Right Mouse Button`, `Melee Attack`],
+					[`Right Mouse Button (Hold & Release)`, `Teleport`]
 				]
             }
         },
