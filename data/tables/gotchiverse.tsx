@@ -40,7 +40,6 @@ export const tables
 					[`O`, `<b>O</b>MG`],
 					[`B`, `<b>B</b>urning Fire`],
 					[`L`, `<b>L</b>ightning`],
-					[`Spacebar`, `Shoot`],
 					[`Shift + Direction keys`, `Run`],
 					[`Left Mouse Button`, `Shoot`],
 					[`Left Mouse Button (Hold & Release)`, `Charged Shot`],
