@@ -27,7 +27,7 @@ export const tables
         },
 		
 	    {
-            tableName: "chatCommands",
+            tableName: "controls",
             tableCaption: "",
             tableData: {
                 headers: ["Hotkey", "Animation"],
