@@ -30,7 +30,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
 <li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
-<p><a href=#chat-commands>Chat Commands</a></p>
+<p><a href=#controls>Controls</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
@@ -173,11 +173,11 @@ The Item Shop sells 3 products:
 * Protolick 1 (10 mins, 10k health, 6% DMG per attack): 60 FUD & 20 FOMO
 * Protolick 2 (10 mins, 60k health, 10% DMG per attack): 400 FUD, 150 FOMO, 100 ALPHA, 15 KEK
 
-## Chat Commands
+## Controls
 
-The following table shows the chat commands in the Gotchiverse.
+The following table shows the control scheme used in the Gotchiverse.
 
-table_chatCommands
+table_controls
 
 ## Gotchus Alchemica
 
