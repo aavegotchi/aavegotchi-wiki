@@ -30,7 +30,7 @@ contributors:
 <li><a href=#realm-gameplay>レルムゲームプレイ</a></li>
 <li><a href=#entering-the-gotchiverse>ゴッチバースに入る</a></li>
 <li><a href=#inside-the-gotchiverse>ゴッチバースの内部</a></li>
-<p><a href=#chat-commands>チャットコマンド</a></p>
+<p><a href=#controls>Controls</a></p>
 <li><a href=#gotchus-alchemica>ゴッチュスアルケミカ</a></li>
 <li><a href=#building-on-realm-parcels>レルム区画での建築</a></li>
 <p><a href=#installation-traits-and-recipes>インスタレーションの特性とレシピ</a></p>
@@ -173,11 +173,11 @@ The Item Shop sells 3 products:
 * Protolick 1 (10 mins, 10k health, 6% DMG per attack): 60 FUD & 20 FOMO
 * Protolick 2 (10 mins, 60k health, 10% DMG per attack): 400 FUD, 150 FOMO, 100 ALPHA, 15 KEK
 
-## チャットコマンド
+## Controls
 
-The following table shows the chat commands in the Gotchiverse.
+The following table shows the control scheme used in the Gotchiverse.
 
-table_chatCommands
+table_controls
 
 ## ゴッチュスアルケミカ
 
