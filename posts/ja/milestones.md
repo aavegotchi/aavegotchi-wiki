@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi Dev Update - June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/)
+* Let's hear from the Shippooorrrs at Pixelcraft Studios!
+* Ebic news about Gotchi Guardians and the migration to Unity
+<p></p>
+
 ## [Aavegotchi partners with OnePlanet!](https://blog.aavegotchi.com/aavegotchi-oneplanet-partnership/)
 * Aavegotchi partners with OnePlanet, an NFT launchpad and marketplace on Polygon!
 <p></p>
