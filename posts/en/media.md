@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### FIRST LOOK at ex Gwent Game-Director Jason Slama's NEW GAME | Gotchi Guardians Devlog #1 (1 June 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### AMA with Aavegotchi, Community-Owned Gaming Protocol (21 October 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
