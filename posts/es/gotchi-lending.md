@@ -37,7 +37,7 @@ Los préstamos de Gotchi están al 100% en la blockchain, permitiendo que los NF
 
 ## ¿Qué puedo hacer con el alquiler de Gotchi?
 
-Los préstamos de Gotchi son útiles para cualquiera que posea un Aavegotchi. También es útil para cualquier persona que quiera jugar en el próximo lanzamiento [Gotchivero](/gotchiverse). Grandes [clanes](/guild) podrán utilizar esta función para poner los NFT en manos de sus miembros, e incluso tendrá la capacidad de compartir los fondos ganados en la cartera de tesorería del clan.
+Los préstamos de Gotchi son útiles para cualquiera que posea un Aavegotchi. También es útil para cualquier persona que quiera jugar en el próximo lanzamiento [Gotchiverso](/gotchiverse). Grandes [clanes](/guild) podrán utilizar esta función para poner los NFT en manos de sus miembros, e incluso tendrá la capacidad de compartir los fondos ganados en la cartera de tesorería del clan.
 
 Los jugadores individuales también podrán hacer uso de los préstamos de Gotchi haciendo que sus Aavegotchis estén disponibles públicamente para ganar ingresos pasivos, o incluso permitir que amigos y familiares jueguen con su Aavegotchi sin costo.
 
@@ -69,7 +69,7 @@ Finalmente, el prestamista revisa los términos una vez más y crea la lista de 
 
 **Paso adicional:**
 
-Los prestamistas también tendrán la capacidad de crear [whitelists](https://app.aavegotchi.com/whitelists), haciendo que sus Aavegotchis solo estén disponibles para un grupo exclusivo de prestamistas. Esta característica es perfecta para los clanes que quieren asegurarse de que sus NFT Aavegotchi entran en las manos de los miembros de su clan.
+Los prestamistas también tendrán la capacidad de crear [listasblancas](https://app.aavegotchi.com/whitelists), haciendo que sus Aavegotchis solo estén disponibles para un grupo exclusivo de prestamistas. Esta característica es perfecta para los clanes que quieren asegurarse de que sus NFT Aavegotchi entran en las manos de los miembros de su clan.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
