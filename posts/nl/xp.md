@@ -17,8 +17,9 @@ Aavegotchis gaan een level omhoog als ze meer XP krijgen). Maar hoeveel XP hebbe
 <li><a href=#gaining-xp>Verkrijg XP</a></li>
 <li><a href=#formula>Formule</a></li>
 <li><a href=#experience-table>Ervaring Tabel</a></li>
-<li><a href=#tracking-xp-received>Bijhouden van ontvangen XP</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>XP vereisten voor het toetreden tot Guilds</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
+<li><a href=#xp-requirements-for-joining-guilds>XP Requirements for joining Guilds</a></li>
 </ol>
 
 </div>
@@ -50,18 +51,24 @@ Het maximale niveau dat een aavegotchi zou kunnen bemachtigen is 99. Eventuele w
 
 tabel_XP
 
-## Bijhouden van ontvangen XP
+## Claiming XP
 
-Onze vriendelijke [aarchitect](/aarchitect) Frank Pfeift heeft een applicatie gemaakt om de XP te volgen die een Gotchi over zijn leven heeft ontvangen.
+XP has to be manually claimed at https://dapp.aavegotchi.com/u/[XXXXX]/xp.
 
-Zijn app kan geopend worden [hier](https://aavegotchi-xp-dashboard.vercel.app). Uw Gotchi ID is de cijfers die te vinden zijn aan het einde van de URL op uw [Gotchi Profiel Pagina](/aavegotchi-profile).
+Replace XXXXX with your wallet address in the url above.
 
-## XP vereisten voor het toetreden tot Guilds
+## Tracking XP received
 
-Gotchis zijn sociale wezens die graag met hun frens willen uithangen, maar net als frisse collega's die elke campus-club proberen bij te wonen, raken ze met te veel sociale activiteit in brand gestoken.
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
-Naarmate ze meer ervaring opdoen en meer wereldwijd worden, verbetert het evenwicht tussen werk en privéleven, waardoor ze meer [Guild](/guild) verantwoordelijkheden op zich kunnen nemen.
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
 
-Hoeveel Guilds een Gotchi kan toetreden, hangt dus af van het XP Niveau.
+## XP Requirements for joining Guilds
 
-tabel_xpRequirementForGuilds
+Gotchis are social creatures who love to hang with their frens, but much like starry-eyed college freshmen trying to attend every campus club activity, they get burned out with too much social activity.
+
+As they gain more experience and become more worldly, their work-life balance improves, allowing them to take on more [Guild](/guild) responsibilities.
+
+Thus, how many Guilds a Gotchi can join depends on its XP Level.
+
+table_xpRequirementForGuilds
