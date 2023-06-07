@@ -88,3 +88,5 @@ Salut les Frens. Bienvenue dans notre carnet d'adresses Aavegotchi Smart Contrac
 * Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://polygonscan.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
 * Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+
+* Tickets Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
