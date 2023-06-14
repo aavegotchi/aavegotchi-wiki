@@ -20,6 +20,7 @@ contributors:
 <li><a href=#what-is-kinship>Wat is Kinship</a></li>
 <li><a href=#kinship-levels>Kinship Niveaus</a></li>
 <li><a href=#kinship-and-alchemical-channeling>Kinship en Alchemical Channeling</a></li>
+<li><a href=#kinship-burning>Kinship Burning</a></li>
 </ol>
 
 </div>
@@ -60,3 +61,6 @@ Elk punt van Kinship verhoogt de Alchemical Channeling modifier, met de formule:
 
 Elke Aavegotchi iskane deelnemen in Alchemical Channeling **een keer elke </strong uur.**
 
+## Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.
