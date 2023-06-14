@@ -100,6 +100,9 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#fund-development-of-strategotchi---digital-multiplayer-version>Fund development of Strategotchi - Digital Multiplayer version</a></li>
 <li><a href=#dao-directors---treasury-officer-role>DAO Directors : Treasury officer role</a></li>
 <li><a href=#channel-alchemica-through-a--2-kinship-burn>Channel Alchemica through a -2 kinship burn</a></li>
+<li><a href=#thank-aavegotchi-pilot>Thank Aavegotchi Pilot</a></li>
+<li><a href=#rarity-farming-season-6>Rarity Farming Season 6</a></li>
+<li><a href=#schedule-all-act-1-parcel-surveys--re-rolls->Schedule all Act 1 Parcel Surveys (re-rolls)</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -4266,6 +4269,127 @@ Option 2: No
 table_agip82
 
 [Link to vote on Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0xade68c6cf0285a55e4cf914266761b9a505389ef4686e7972ad5426ac49cd238)
+
+<hr>
+
+### Thank Aavegotchi Pilot
+**Aavegotchi Improvement Proposal #83**
+
+**Proposal Summary:**
+
+Aavegotchi DAO members provide extraordinary support to the DAO. They could provide even more - and better - support if they are thanked for their valuable DAO contributions with $GHST and an on-chain thank you note!
+
+We propose a 3-month Thank Aavegotchi pilot to thank (reward and recognize) valuable contributions to Aavegotchi DAO with $GHST + an on-chain thank you note. We’ll do it in a way that is automated, scalable, on-chain, and protects against bots and bad actors.
+
+The impact of rewarding Aavegotchi DAO members for your value-creating contributions should be greater efficiency, utility, and value for Aavegotchi DAO as well as more shared ownership in our community.
+
+During pilot, we will test 3 different rewards formats in 3 1-month “seasons”:
+
+Season 1: 15k total $GHST raffled to 30 winners. Each contribution you make to the DAO earns you “raffle tickets”.
+
+Season 2: 15k total $GHST rewarding each valuable contribution you make.
+
+Season 3: 15k total $GHST rewarding you in rarity-farming style.
+
+At the culmination of the third month, the community will vote on which rewards format you prefer. If a follow-up proposal passes to continue our pilot for an additional 3 months, rewards for the second pilot will be in the winning format.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/thank-aavegotchi-proposal-scalable-automated-on-chain-rewards-for-valuable-aavegotchi-dao-contributions/4763)
+
+Option 1: Yes
+
+Option 2: No
+
+**Voting Period:** 2 - 9 May 2023
+
+**Results:**
+
+table_agip83
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x9c4951fcf5371ca2641b7db5ea4d31b64aac4f1f3dbcbc7c7f68a5889ea4b577)
+
+<hr>
+
+### Rarity Farming Season 6
+**Aavegotchi Improvement Proposal #84**
+
+**Proposal Summary:**
+
+The sigprop to start rarity farming has passed, so I am proposing that we start rarity farming season 6 ASAP at the conclusion of this vote, should it succeed.
+
+This proposal suggests keeping reward parameters the same as the prior several seasons and deferring any significant changes until Season 7 towards the end of the year. Last season used the following reward parameters:
+
+4 Rounds (2 weeks each), 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury
+
+* 70% BRS
+
+* 20% Kinship
+
+* 10% XP
+
+Top 7.5k Gotchis (30%)
+
+Launch period: Season 6 round 1 to commence as soon as possible after the conclusion of the voting period.
+
+Thank you as always for your consideration and your votes!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/next-season-of-rarity-farming/4778)
+
+Option 1: Yes, launch RF season 6 ASAP!
+
+Option 2: No, delay RF season 6
+
+**Voting Period:** 17 May - 9 June 2023
+
+**Results:**
+
+table_agip84
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x0a5b7e0c7fb2137cfcb5a546c27f5ddcef066631e79b9d77d1b16e3a501f9e2f)
+
+<hr>
+
+### Schedule all Act 1 Parcel Surveys (re-rolls)
+**Aavegotchi Improvement Proposal #85**
+
+**Proposal Summary:**
+I propose that Parcel Re-rolls be scheduled and recurring every three months to complete ACT 1. Further survey rolls and tokenomics of Acts 2 and 3 can be proposed by Pixelcraft or the Aavegotchi DAO. This predictability will ensure investors have prior investment decisions honored and to be more confident in future investments. The Pixelcraft team continues to develop the Gotchiverse and GotchiGuardians which will create further sinks and a healthy, sustainable ecosystem.
+
+This will continue to push alchemica emissions away from channeling and into farming. It will allow Pixelcraft clear dates around which to target a Great Battle or similar climactic experience for the rounds. It also affords more confident participation in the alchemica spending competitions which have been very successful to date.
+
+*Minor changes from sig prop to core prop:*
+
+* Clarification of dates w/ addition of Survey #10
+
+* Dates are an estimate based on proximity to Pixelcraft shipping Fridays.
+
+*Historical Survey Dates:*
+
+* Survey #1 (Initial Farm release): 7/20/2022 (25% of alchemica in act 1)
+
+* Survey #2: 3/3/2023 (8.33% as are all surveys 2-10)
+
+*Proposed Survey rolls (estimates based on closest PC shipping Friday):*
+
+* Survey #3: 6/16/2023
+* Survey #4: 9/8/2023
+* Survey #5: 12/1/2023
+* Survey #6: 2/23/2024
+* Survey #7: 5/17/2024
+* Survey #8: 8/9/2024
+* Survey #9: 12/3/2024
+* Survey #10: 1/24/2024 (final survey of Act 1)
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1111329507987701871/1111329507987701871)
+
+Option 1: Yes
+
+Option 2: No
+
+**Voting Period:** 13 - 20 June 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x00c00dc576a8729214934ecf329ef86c4a78428111b030af6fa49a60807c973b)
 
 <hr>
 

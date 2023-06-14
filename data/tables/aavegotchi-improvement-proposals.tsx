@@ -1080,6 +1080,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip83",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "9,500,000 GHST (70.47%)"],
+					["No", "4,000,000 GHST (29.53%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip84",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, launch RF season 6 ASAP!", "15,000,000 GHST (94.7%)"],
+					["No, delay RF season 6", "848,000 GHST (5.3%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
