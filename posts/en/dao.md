@@ -195,7 +195,7 @@ There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
 ### Snapshot Voting
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
 
 To vote on Snapshot, follow the steps below:
 
