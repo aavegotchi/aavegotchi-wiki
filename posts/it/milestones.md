@@ -22,6 +22,12 @@ contributors:
 
 ## Year 2023
 
+## [Are you ready for Gotchi Heroes?](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/)
+* The Gotchi Heroes XP event is coming your way on the 17th of June!
+* The XP event is broken into two rounds, each with a separate leaderboard
+* There are prizes to be won!
+<p></p>
+
 ## [Aavegotchi Dev Update - June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/)
 * Let's hear from the Shippooorrrs at Pixelcraft Studios!
 * Ebic news about Gotchi Guardians and the migration to Unity
