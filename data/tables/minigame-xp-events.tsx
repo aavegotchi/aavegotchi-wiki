@@ -115,5 +115,17 @@ export const tables
                 ]
             }
         },
-
+		
+		{
+            tableName: "gotchiHeroes",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    ["All Aavegotchis above 500", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"]
+                ]
+            }
+        },
     ]
