@@ -19,6 +19,7 @@ contributors:
 <li><a href=#season-3>シーズン3</a></p>
 <li><a href=#season-4>Season 4</a></p>
 <li><a href=#season-5>Season 5</a></p>
+<li><a href=#season-6>Season 6</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -96,6 +97,18 @@ Rarity Farming Season 5 was held from Tuesday, 13 January 2023 - Tuesday, 28 Mar
 * XP（賞金総額の10％／15万GHST）
 
 [Spreadsheet of Rarity Farming Season 5 Rewards](https://docs.google.com/spreadsheets/d/1_7YoQgarJWauRb1KAkU3rIi9QMCrG3Zy4VI9vv7qyCA/)
+
+## Season 6
+
+Rarity Farming Season 6 was held from Thursday, 29 June 2023 - Thursday, 24 August 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 6.
+
+* レアリティ（賞金総額の70％／105万GHST）
+
+* キンシップ（賞金総額の20％／30万GHST）
+
+* XP（賞金総額の10％／15万GHST）
+
+[Spreadsheet of Rarity Farming Season 6 Rewards](https://docs.google.com/spreadsheets/d/1BkAhzkgkcDNVJKQ7bDL3etpjDjB7ml8iJuMzC1A-KlU/)
 
 ## GHST Distribution by Season
 
