@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [Rarity Farming Season 6 coming soon!](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
+* Ready for round 6 of Gotchi UBI? 😏
+<p></p>
+
 ## [Are you ready for Gotchi Heroes?](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/)
 * The Gotchi Heroes XP event is coming your way on the 17th of June!
 * The XP event is broken into two rounds, each with a separate leaderboard
