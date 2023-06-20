@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi Forge Unleashes the Mystical Power of Geodes](https://blog.aavegotchi.com/aavegotchi-forge-unleashes-the-mystical-power-of-geodes/)
+* Unveil the mysteries of geodes
+* What surprises await? 👀
+<p></p>
+
 ## [Rarity Farming Season 6 coming soon!](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
 * Ready for round 6 of Gotchi UBI? 😏
 <p></p>
