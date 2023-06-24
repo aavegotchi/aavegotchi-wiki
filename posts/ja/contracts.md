@@ -18,6 +18,7 @@ contributors:
 <ol>
 <li><a href=#contract-addresses-on-mainnet>メインネットのアドレス</a></li>
 <li><a href=#contract-addresses-on-polygon>ポリゴンのアドレス</a></li>
+<li><a href=#contract-addresses-on-mumbai-testnet>Contract Addresses on Mumbai Testnet</a></li>
 </ol>
 
 </div>
@@ -79,3 +80,13 @@ contributors:
 * Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
 
 * Tickets Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+
+## Contract Addresses on Mumbai Testnet
+
+* GHST Token Address: [0xc93A55a39356BddA580036Ce50044C106Dd211c8](https://mumbai.polygonscan.com/address/0xc93A55a39356BddA580036Ce50044C106Dd211c8)
+
+* Aavegotchi Diamond Contract: [0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e](https://mumbai.polygonscan.com/address/0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e)
+
+* Wearables Diamond Contract: [0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8](https://mumbai.polygonscan.com/address/0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8)
+
+* Forge Diamond Contract: [0x2E6cb85DD86141a2A284988E883fF377CA223afE](https://mumbai.polygonscan.com/address/0x2E6cb85DD86141a2A284988E883fF377CA223afE)
