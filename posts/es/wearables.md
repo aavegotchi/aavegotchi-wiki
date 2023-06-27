@@ -140,7 +140,7 @@ table_farmerWearablesTable
 
 ## Set de Santa
 
-Uno de nuestros amigos accidentalmente envió 4000 LINK (~$50,000) al Contrato de Staking de GHST. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Otros artículos en el set de equipables de Santa también estarán disponibles pronto.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Otros artículos en el set de equipables de Santa también estarán disponibles pronto.
 
 table_santaWearablesTable
 
