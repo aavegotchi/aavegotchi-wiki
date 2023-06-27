@@ -140,7 +140,7 @@ table_farmerWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Santa
 
-Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
 
 table_santaWearablesTable
 
