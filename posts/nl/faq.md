@@ -115,7 +115,7 @@ contributors:
 <p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
 <p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
 <p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
-<p><a href=#if-i-buy-a-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
+<p><a href=#if-i-buy-an-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy an Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
 <p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
 <p><a href=#can-i-trade-my-aavegotchis-on-opensea-while-they-re-on-ethereum->Can I trade my Aavegotchis on OpenSea while they’re on Ethereum?</a></p>
 <li><a href=#technical-faq>Technical FAQ</a></li>
@@ -227,7 +227,7 @@ From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
 Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
-* maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. De waarde van de tokens neemt toe, maar omdat de hoeveelheid niet verandert, is het niet mogelijk om maTokens uit de Gotchis te halen, tenzij je je Gotchi opoffert om bij de onderliggende onderpand te komen.
+* maTokens nemen in de loop van de tijd toe in **waarde**. Dit geldt voor Haunt 1 Aavegotchis die maTokens gebruiken. The value of the maTokens is increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
 
 * amTokens nemen na verloop van tijd **hoeveelheid** toe. Dit geldt voor Aavegotchis uit Haunt 2 en daarna. De opgebouwde rente wordt weerspiegeld in hoeveelheid. Zo is het mogelijk om amTokens terug te trekken zodra er voldoende rente is gegenereerd.
 
@@ -239,7 +239,7 @@ QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You 
 **Works**: maUSDC -> maUNI/maLINK
 
 ### Will Aavegotchi be integrated with OpenSea?
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with the it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
@@ -262,7 +262,7 @@ Stakers earn yield on their GHST deposits in Aave V3 in addition to FRENS.
 
 The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST).
 
-Vist [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
+Visit [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
 
 ## Raffle FAQ
 
@@ -300,7 +300,7 @@ Yes, there will be additional raffles after Mainnet launches. However, they will
 ## Aauction FAQ
 
 ### How much can I earn?
-Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1% , and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
+Each GBM auction can be configured with certain presets for maximum earning. For this Wearable auction, we have chosen the same presets used in Cryptographs — minimum 1%, and maximum 10%. This means that the max amount you can earn from being outbid is a full 10% of the bid amount!
 
 For example, if you bid 2000 GHST, the maximum you can earn if outbid in the first GBM auction is 200 GHST. Future Auctions will also be experimenting with different presets to keep it interesting!
 
@@ -347,7 +347,7 @@ These are objects (IDs 162-198, 210) that are not wearables. They represent [Baa
 ## Portal FAQ
 
 ### How many portals can you buy in 1 transaction?
-Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one ago.
+Each user can purchase up to 50 portals in 1 transaction. This is to prevent whales from monopolizing a huge number of portals at one go.
 
 ### If I open a portal but do not have the atoken needed to claim the gotchi, can I come back later to claim it?
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
@@ -551,7 +551,7 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 ### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
-**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points everyday, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
+**YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points every day, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
 
 ### Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?
 
@@ -573,7 +573,7 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 **YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
 
-### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
+### If I buy an Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
 Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
 
@@ -656,7 +656,7 @@ To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to 
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
-Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the follow Discord command:
+Once you have gotten your Gotchi ID, you can link your Gotchis to your Discord handle using the following Discord command:
 
 ```
 !gotchi link <tokenID>
