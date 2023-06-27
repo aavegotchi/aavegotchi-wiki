@@ -57,7 +57,7 @@ De relatie tussen Collateraal, Eigenschappen, Wearables, en Kinship is het beste
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
 ## Aavegotchi Waarde
-De waardering van een Aavegotchi is afkomstig van zowel zijn intrinsieke waarde als van zijn zeldzaamheidswaarde.
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **Intrinsieke waarde** Intrinc-waarde is de genoteerde waarde van de onderpand van de Aavegotchi. Als de Aavegotchi wordt ingezet met 10 aDAI, dan is de intrinsieke waarde 10 aDAI, plus de extra aDAI die uit de Lending Pools is voortgekomen. In eerste instantie zijn alleen [ERC20](/glossary#erc-20) tokens die worden weergegeven op het Aave platform (aTokens) beschikbaar als onderpand. Als AavegotchiDAO echter eenmaal is gelanceerd, zal de gemeenschap kunnen stemmen over welke nieuwe onderpanden ze kan toestaan.
 
