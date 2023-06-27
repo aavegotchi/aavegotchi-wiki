@@ -208,7 +208,7 @@ Het spel zal altijd proberen om de opening aan de noordkant van een Estaate te m
 
 In het bovenstaande voorbeeld zijn er level 1 Waalls (paarse basis) en level 4 Waalls (rode basis) getoond.
 
-Om deze instelling aan te maken, zou de eigenaar eerst een level 1 Waall aan de bovenkant (aan de linkerzijde van de link) moeten uitrusten met een niveau 4 Waall naar rechts (rechts van de koppeling) . Dit zou resulteren in de top Connection Waall sectie van 6 Waalls op niveau 1 (de onderste van de 2 niveaus).
+To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link). Dit zou resulteren in de top Connection Waall sectie van 6 Waalls op niveau 1 (de onderste van de 2 niveaus).
 
 Merk hieronder op dat er level 4 Waalls op een van beide zijden zijn die resulteren in een verbinding level 4 Waall sectie ertus.
 
