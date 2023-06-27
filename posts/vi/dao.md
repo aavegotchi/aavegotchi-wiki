@@ -196,7 +196,7 @@ Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (
 
 ### Vote bằng Snapshot
 
-Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
+Snapshot là một DApp phục vụ voting trên Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
 
 Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
