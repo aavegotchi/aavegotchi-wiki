@@ -140,7 +140,7 @@ table_farmerWearablesTable
 
 ## サンタ・ウェアラブルセット
 
-我々の友人の一人が誤ってGHSTステーキング・コントラクトに4000 LINK (~$50,000)を送信してしまいました。 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
 
 table_santaWearablesTable
 
