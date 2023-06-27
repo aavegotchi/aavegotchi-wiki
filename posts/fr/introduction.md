@@ -57,7 +57,7 @@ La relation entre le Collatéral, les Traits, les Objets Portables et la Parent�
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Schéma d'oignon Aavegotchi" />
 
 ## Valeur d'Aavegotchi
-L'évaluation d'un Aavegotchi provient à la fois de sa valeur intrinsèque et de sa rareté.
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **Valeur intrinsèque** La valeur intrinsèque est la valeur utilisée pour le collatéral de l'Aavegotchi. Si l'Aavegotchi est invoqué avec 10 aDAI, alors la valeur intrinsèque serait 10 aDAI, en plus de tout autre aDAI supplémentaire provenant du Lending Pool. Initialement, seuls les [jetons ERC20](/glossary#erc-20) répertoriés sur la plateforme Aave (aTokens) seront disponibles en tant que collatéral. Cependant, une fois AavegotchiDAO lancé, la communauté sera en mesure de voter sur les nouveaux collatéral à autoriser.
 
