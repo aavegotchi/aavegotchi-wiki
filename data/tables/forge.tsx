@@ -27,6 +27,21 @@ export const tables
                 ]
             }
         },
+		{
+            tableName: "geodePrizeDistributionPercentage",
+            tableCaption: "",
+            tableData: {
+                headers: ["Rarity", "Prize Distribution (%)"],
+                data: [
+                    ["Common", "0.7920"],
+					["Uncommon", "2.3573"],
+					["Rare", "9.8209"],
+					["Legendary", "34.3900"],
+					["Mythical", "86.3022"],
+					["Godlike", "100"]
+                ]
+            }
+        },
         {
             tableName: "forgingTime",
             tableCaption: "",
