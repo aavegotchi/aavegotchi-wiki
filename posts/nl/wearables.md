@@ -140,7 +140,7 @@ tabel_boer WearablesTable
 
 ## Kerstman Wearables Set
 
-Een van onze vrienden stuurt per ongeluk 4000 LINK (~$50,000) naar het GHST Uitzet Contract. We hebben geld van onze gemeenschap bijeengebracht om hem te helpen. Iedereen die meer dan $20 aan ELKE ERC20 token aan SantaGotchi.eth heeft gedoneerd, zal een beperkte editie Santagotchi hoed uitgevouwen worden. Zie [hier](https://twitter.com/aavegotchi/status/1339738554906243072) voor meer informatie. Een foto voor de wearable zal binnenkort uit de lijst zijn! Andere voorwerpen van de Kerstman zullen ook binnenkort beschikbaar zijn.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We hebben geld van onze gemeenschap bijeengebracht om hem te helpen. Iedereen die meer dan $20 aan ELKE ERC20 token aan SantaGotchi.eth heeft gedoneerd, zal een beperkte editie Santagotchi hoed uitgevouwen worden. Zie [hier](https://twitter.com/aavegotchi/status/1339738554906243072) voor meer informatie. Een foto voor de wearable zal binnenkort uit de lijst zijn! Andere voorwerpen van de Kerstman zullen ook binnenkort beschikbaar zijn.
 
 tafel_santaWearablesTable
 
