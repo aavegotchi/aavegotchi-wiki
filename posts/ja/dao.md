@@ -196,7 +196,7 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 
 ### スナップショット投票
 
-スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.page/#/aavegotchi.eth)です。
+スナップショットはイーサリアム上の投票DAppです。 Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchiのスナップショットのページは[こちら](https://snapshot.page/#/aavegotchi.eth)です。
 
 スナップショットで投票を行うには、以下の手順で行います：
 
