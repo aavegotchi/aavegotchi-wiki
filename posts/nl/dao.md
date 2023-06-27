@@ -196,7 +196,7 @@ Er zijn twee manieren om te stemmen: (1) Snapshot Stemming en/of (2) Aragon.
 
 ### Snapshot Stemming
 
-Snapshot is een stem-DApp op Ethereum. Stemmen op Snapshot vereisen geen gas en zijn niet on-chain. Aavegotchi's Snapshot pagina kan je [hier](https://snapshot.page/#/aavegotchi.eth) vinden.
+Snapshot is een stem-DApp op Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot pagina kan je [hier](https://snapshot.page/#/aavegotchi.eth) vinden.
 
 Om te stemmen op Snapshot, volg de onderstaande stappen:
 
