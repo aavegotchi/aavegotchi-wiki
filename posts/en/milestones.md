@@ -21,6 +21,10 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [Aavegotchi Dev Updates — July 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-july-2023/)
+* 3rd Aanniversary Birthday Party, Gotchichain, 3D Aavegotchis and moar in this July 2023 Dev update!
+<p></p>
+
 ## [Aavegotchi Forge Unleashes the Mystical Power of Geodes](https://blog.aavegotchi.com/aavegotchi-forge-unleashes-the-mystical-power-of-geodes/)
 * Unveil the mysteries of geodes
 * What surprises await? 👀
