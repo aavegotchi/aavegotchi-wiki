@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi's Brand Refresh!](https://blog.aavegotchi.com/everything-you-need-to-know-about-aavegotchis-new-look/)
+* HAPPY 3RD AAVEGOTCHI BIRTHDAY FRENS!
+* Aavegotchi has a new look too 😉 Check out the brand refresh!
+<p></p>
+
 ## [Aavegotchi Dev Updates — July 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-july-2023/)
 * 3rd Aanniversary Birthday Party, Gotchichain, 3D Aavegotchis and moar in this July 2023 Dev update!
 <p></p>
