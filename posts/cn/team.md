@@ -33,7 +33,6 @@ contributors:
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>团队</a></li>
 <p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
-<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
 <p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
@@ -130,15 +129,6 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
 
 Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
-
-### NyanKong - Game Director
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
-<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
-</div>
-
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
 
 ### Jason Slama - Game Director
 
