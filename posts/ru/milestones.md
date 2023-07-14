@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [Let's welcome Andy Tudor, our new Gotchiverse Game Director](https://blog.aavegotchi.com/game-industry-titan-wants-to-bring-aavegotchi-to-the-mainstream/)
+* Andy is widely recognized and respected within the gaming community and is probably best known for his work on film & TV titles *Fast & Furious*, *The Walking Dead*, and *24*, as well as racing franchises *Need For Speed*, *Test Drive*, and the crowd-funded/crowd-powered *Project CARS*.
+<p></p>
+
 ## [Aavegotchi's Brand Refresh!](https://blog.aavegotchi.com/everything-you-need-to-know-about-aavegotchis-new-look/)
 * HAPPY 3RD AAVEGOTCHI BIRTHDAY FRENS!
 * Aavegotchi has a new look too 😉 Check out the brand refresh!
