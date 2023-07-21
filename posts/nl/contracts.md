@@ -83,10 +83,28 @@ Hoi frens. Welkom bij onze opslagplaats van Aavegotchi Smart Contract adressen. 
 
 ## Contract Addresses on Mumbai Testnet
 
-* GHST Token Address: [0xc93A55a39356BddA580036Ce50044C106Dd211c8](https://mumbai.polygonscan.com/address/0xc93A55a39356BddA580036Ce50044C106Dd211c8)
-
 * Aavegotchi Diamond Contract: [0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e](https://mumbai.polygonscan.com/address/0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e)
 
 * Wearables Diamond Contract: [0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8](https://mumbai.polygonscan.com/address/0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8)
 
 * Forge Diamond Contract: [0x2E6cb85DD86141a2A284988E883fF377CA223afE](https://mumbai.polygonscan.com/address/0x2E6cb85DD86141a2A284988E883fF377CA223afE)
+
+* REALM Diamond Contract: [0xBcCf68d104aCEa36b1EA20BBE8f06ceD12CaC008](https://mumbai.polygonscan.com/address/0xBcCf68d104aCEa36b1EA20BBE8f06ceD12CaC008)
+
+* Installation Diamond Contract: [0x2fD1C70728f686AE5f30734C20924a0Db1Df14e6](https://mumbai.polygonscan.com/address/0x2fD1C70728f686AE5f30734C20924a0Db1Df14e6)
+
+* Tile Diamond Contract: [0xCbc2682E1Dd543557174c4168Ce33c7B358f5a1B](https://mumbai.polygonscan.com/address/0xCbc2682E1Dd543557174c4168Ce33c7B358f5a1B)
+
+### Tokens Contracts
+
+* GHST Token Address: [0xc93A55a39356BddA580036Ce50044C106Dd211c8](https://mumbai.polygonscan.com/address/0xc93A55a39356BddA580036Ce50044C106Dd211c8)
+
+* FUD Token Address: [0x1D349EB5c7FBC586892C8903B0565cf1684ef111](https://mumbai.polygonscan.com/address/0x1D349EB5c7FBC586892C8903B0565cf1684ef111)
+
+* FOMO Token Address: [0xd33259671Db89b82d6fFf0ed043FeCcEB6D72270](https://mumbai.polygonscan.com/address/0xd33259671Db89b82d6fFf0ed043FeCcEB6D72270)
+
+* ALPHA Token Address: [0xbC59FD59163E9F32Be1E1c836fBADd34525cf798](https://mumbai.polygonscan.com/address/0xbC59FD59163E9F32Be1E1c836fBADd34525cf798)
+
+* KEK Token Address: [0x419Cd8C320C485A2169C5Bc7FAA49f563Cd16B78](https://mumbai.polygonscan.com/address/0x419Cd8C320C485A2169C5Bc7FAA49f563Cd16B78)
+
+* GLTR Token Address: [0xcBcDae5769d31B468402e695a32277E29b1FEc06](https://mumbai.polygonscan.com/address/0xcBcDae5769d31B468402e695a32277E29b1FEc06)
