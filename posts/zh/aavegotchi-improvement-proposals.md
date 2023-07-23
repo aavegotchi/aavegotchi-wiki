@@ -4365,6 +4365,8 @@ Option 2: No
 
 **Results:**
 
+table_agip85
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x00c00dc576a8729214934ecf329ef86c4a78428111b030af6fa49a60807c973b)
 
 <hr />
