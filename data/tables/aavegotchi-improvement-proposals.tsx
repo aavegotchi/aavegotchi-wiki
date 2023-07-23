@@ -1104,6 +1104,18 @@ export const tables
         },
 		
 		{
+            tableName: "agip85",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "11,000,000 GHST (75.37%)"],
+					["No", "3,400,000 GHST (24.63%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
