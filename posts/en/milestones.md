@@ -21,6 +21,11 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [August 2023 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-august-2023/)
+* Have you seen the 3D Gotchiverse? 
+* 3D Aarena, flying Gotchis, and Gotchi Guardians.........soon!
+<p></p>
+
 ## [Let's welcome Andy Tudor, our new Gotchiverse Game Director](https://blog.aavegotchi.com/game-industry-titan-wants-to-bring-aavegotchi-to-the-mainstream/)
 * Andy is widely recognized and respected within the gaming community and is probably best known for his work on film & TV titles *Fast & Furious*, *The Walking Dead*, and *24*, as well as racing franchises *Need For Speed*, *Test Drive*, and the crowd-funded/crowd-powered *Project CARS*.
 <p></p>
