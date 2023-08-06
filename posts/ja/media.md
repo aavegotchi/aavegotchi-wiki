@@ -11,6 +11,8 @@ contributors:
 
 それと、私たちの[Aavegotchi Youtube](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g)チャンネルもありますよ :D
 
+### Epic Gotchi Guardians GAMEPLAY! Watch Aavegotchis Battle for Survival | Devlog #2 (29 July 2023) <iframe width="560" height="315" src="https://www.youtube.com/embed/PDZOhsAyOYU" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### FIRST LOOK at ex Gwent Game-Director Jason Slama's NEW GAME | Gotchi Guardians Devlog #1 (1 June 2023) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### AMA with Aavegotchi, Community-Owned Gaming Protocol (21 October 2022) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,28 +31,28 @@ contributors:
 
 ### Aavegotchi Gotchiverse Gameplay on LADZ City (22 December 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/ShKh5NYS3wU?start=345" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpp1GPosvMY" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>0
 
 ### Cryptocurrency Subreddit AMA (13 October 2021)
 AMAへのリンクは[こちら](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
-### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>0
+### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>1
 
-### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>1
+### Gamifying DeFi, with Jesse Johnson of PixelCraft Studios by The Metaverse Podcast (26 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>2
 
-### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>2
+### Building on Aavegotchi! Coderdan interviewed by Ivan on Tech (22 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>3
 
-### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>3
+### Recording of Aavegotchi's First Birthday Party and Community Call by No Futuristic (8 July 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>4
 
-### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>4
+### Recording of Gotchiverse Realm Litepaper Release by No Futuristic (24 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>5
 
-### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>5
+### Recording of DinoSwap AMA by No Futuristic (18 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>6
 
-### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>6
+### Recording of Season 1 Rarity Farming Finale Community Call by No Futuristic (16 June 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>7
 
-### Jesse shares about AavegotchiDAO in the Blockchain Gaming Alliance Panel (7 May 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>7
+### Jesse shares about AavegotchiDAO in the Blockchain Gaming Alliance Panel (7 May 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>8
 
-### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>8
+### Coderdan and Jesse discusses about Chainlink VRF on Layer 2 (24 February 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>9
 
 ### Coderdan presents Aavegotchi on Odaily China Crypto News (3 February 2021)
 動画へのリンクは[こちら](https://play.yunxi.tv/pages/b2726cf6ead246f4939a4e5a74c40f3c?openId=oY3Tsvic6lm4BHKkHJFAlnLd0NG4#/)
@@ -61,20 +63,20 @@ AMAへのリンクは[こちら](https://www.reddit.com/r/CryptoCurrency/comment
 ### Our Malaysian Aambassador Buzz Lightyear / Jason Chew shares with DeFi Singapore about Aavegotchi Farming and NFTs! (27 January 2021)
 動画へのリンクは[こちら](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
-### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>9
+### Learning how to integrate Aavegotchi for your hackathon, with Coderdan and Nick (19 January 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>0
 
-### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>0
+### Coderdan giving a presentation on the Bonding Curve (20 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>1
 
-### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>1
+### Cutting-edge Games Conference: Interoperable Avatars For The Great Web3 MMORPG (12 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>2
 
-### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>2
+### Aave * Aavegotchi Fireside Chat (8 December 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>3
 
-### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>3
+### Jesse & Dan - Challenging the NFT Status Quo on Zima Red (30 November 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>4
 
-### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>4
+### Aavegotchi Founder Interview. Cagyjan interviews Jesse / GldnXross (16 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>5
 
-### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>5
+### The Quest for Rarity: DeFi Meets NFTs With Aavegotchi by Robin Schmidt and The Defiant (5 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>6
 
-### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/f2g2nlhVFBA" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>6
+### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020) <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube動画プレイヤー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>7
 
 
