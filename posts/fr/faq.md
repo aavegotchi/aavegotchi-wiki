@@ -227,9 +227,9 @@ From Haunt 2 onwards, amTokens will be used as Spirit Force.
 
 Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
-* Les jetons maTokens augmente de **valeur** au fil du temps. Cela s'applique aux portails Haunt 1 d'Aavegotchis qui utilisent des jetons maTokens. The value of the maTokens is increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
+* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens is increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
 
-* Les jetons amTokens augmentent en **quantité** au fil du temps. Cela s'applique aux portails d'Aavegotchis à partir de la Haunt 2 et plus. Les intérêts accumulés sont reflétés en quantité. Il est donc possible de retirer amTokens une fois qu'un intérêt suffisant a été généré.
+* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
 
 ### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
