@@ -1116,6 +1116,78 @@ export const tables
         },
 		
 		{
+            tableName: "agip86",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes fund", "11,000,000 GHST (87.55%)"],
+					["Do not fund", "1,600,000 GHST (12.45%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip87",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Further discussion needed", "6,500,000 GHST (55.91%)"],
+					["OTC deal at a fixed price", "5,100,000 GHST (44.09%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip88",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Accept the proposal", "9,500,000 GHST (79.16%)"],
+					["Further Discussion needed", "2,500,000 GHST (20.84%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip89",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Accept new wearables/sets.", "9,700,000 GHST (78.36%)"],
+					["No. Do not accept.", "2,700,000 GHST (21.64%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip90",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Accept all.", "10,000,000 GHST (80.8%)"],
+					["No. Do not accept.", "2,500,000 GHST (19.2%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip91",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, support", "11,000,000 GHST (92.65%)"],
+					["No, reject", "909,000 GHST (7.35%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
