@@ -104,6 +104,12 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#thank-aavegotchi-pilot>Thank Aavegotchi Pilot</a></li>
 <li><a href=#rarity-farming-season-6>Rarity Farming Season 6</a></li>
 <li><a href=#schedule-all-act-1-parcel-surveys--re-rolls->Schedule all Act 1 Parcel Surveys (re-rolls)</a></li>
+<li><a href=#gotchi-battler-funding>Gotchi Battler funding</a></li>
+<li><a href=#otc-agreement-for-ghst-holdings-of-0vix-users>OTC Agreement for GHST Holdings of 0VIX Users</a></li>
+<li><a href=#return-0vix-funds-to-multisig>Return 0VIX funds to multisig</a></li>
+<li><a href=#forge-2-0-new-schematics--methodology--and-godlike-sets>Forge 2.0 New Schematics, Methodology, and Godlike Sets</a></li>
+<li><a href=#geodes--schematic-distribution--and-a-final-non-drop-ticket-raffle>Geodes, Schematic Distribution, and a Final non-drop ticket Raffle</a></li>
+<li><a href=#gotchi-crawler-demo-proposal>Gotchi Crawler Demo Proposal</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -4368,6 +4374,506 @@ Phương án 2: Không thêm gói đất mới
 table_agip85
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x00c00dc576a8729214934ecf329ef86c4a78428111b030af6fa49a60807c973b)
+
+<hr />
+
+### Gotchi Battler funding
+**Aavegotchi Improvement Proposal #86**
+
+**Tóm Tắt Đề Xuất:**
+
+This sigprop is to obtain funding for the development of Gotchi Battler. I've assembled a team of some of the best builders in the community and we're excited to get started and build what is hopefully a prize asset for the DAO and community for years to come. Please read on to get an overview of the game, costs and deliverables and if you want a deeper dive into the game including a trailer please visit the forum post: [https://dao.aavegotchi.com/t/gotchi-battler/4772](https://dao.aavegotchi.com/t/gotchi-battler/4772)
+
+*What is Gotchi battler?*
+
+Gotchi Battler is an auto battler game where 2 teams of 5 gotchis battle each other until 1 team is wiped out. Each Gotchis stats and special move will be determined by its traits. To set up a good team you’ll have to strategise what types of Gotchis mix well together and what formation the team should be in. Once you’ve set up the team you can sit back and watch your strategy play out in an epic Gotchi battle to the death!
+
+*Why Gotchi Battler?*
+
+I created a long post detailing the motivation behind building Gotchi Battler here: [https://dao.aavegotchi.com/t/gotchi-battler/4772/21?u=immaterial](https://dao.aavegotchi.com/t/gotchi-battler/4772/21?u=immaterial) So please go read that post but the TLDR headlines are:
+
+* Gamify Protocol Rewards
+
+* Increase demand for protocol assets
+
+* Strengthen the game lineup for Gotchichain
+
+* DAO revenue generation through future PvE expansions
+
+*Cost breakdowns*
+
+Name: Immaterial (gotchiboard.com)
+
+* Role: Ideation, Prototype, Specs, Management, Backend/Frontend dev, Infrastructure.
+
+* Monthly cost: $8k
+
+* Months of work: 7 (Feb-September)
+
+* Total cost: $56k
+
+Coinmandeer (gotchiboard.com)
+
+* Role: Designer
+
+* Monthly cost: $8k
+
+* Months of work: 1
+
+* Total cost: $8k
+
+Wildfyr
+
+* Role: Battle Mechanics Consultant
+
+* Monthly cost: $4k
+
+* Months of work: 1
+
+* Total cost: $4k
+
+Maxicrouton
+
+* Role: Backend specs, ½ Backend API, Smart contracts
+
+* Monthly cost: $8k
+
+* Months of work: 3.5 (June-August + ½ September)
+
+* Total cost: $28k
+
+Eitri (aadventure.io)
+
+* Role: Frontend Development
+
+* Monthly cost: $8k
+
+* Months of work: 2.5 (July-August + ½ September)
+
+* Total cost: $20k
+
+Unity Developer (anon)
+
+* Role: Unity development
+
+* Monthly cost: $8k
+
+* Months of work: 2.5 (July-August + ½ September)
+
+* Total cost: $20k
+
+Bounties: $10k
+
+Total cost: $146k
+
+*DAO payout schedule and deliverables:*
+
+14th of July
+
+Amount: 45k DAI
+
+Address: 0x10B989914A478Ed7DE2d2C4CC4e835bbd3de229b
+
+Description: For designs, battle mechanics and upfront 1/2 payment for devs
+
+Deliverables:
+
+* Web app designs
+
+* Battle mechanics V2 document
+
+1st of September
+
+Amount: 45k DAI
+
+Address: 0x10B989914A478Ed7DE2d2C4CC4e835bbd3de229b
+
+Description: 2nd 1/2 payment for devs on completion of beta and funds for bounties
+
+Deliverables:
+
+* Public beta version of the game
+
+* Bug bounty program
+
+1st of October
+
+Amount: 56k DAI
+
+Address: 0x10B989914A478Ed7DE2d2C4CC4e835bbd3de229b
+
+Description: Immaterial's payment on completion of the project
+
+Deliverables
+
+* Full general release of the game
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchi-battler/4772)
+
+Option 1: Yes fund
+
+Option 2: Do not fund
+
+**Voting Period:** 1 - 8 July 2023
+
+**Kết quả:**
+
+table_agip86
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x705c1bd8e3d6a6455241bfb0b236ea2504fc5bf7157a1073245ec01b4bacb62a)
+
+<hr />
+
+### OTC Agreement for GHST Holdings of 0VIX Users
+**Aavegotchi Improvement Proposal #87**
+
+**Tóm Tắt Đề Xuất:**
+
+*Modifications from sigprop:*
+
+1. Removed explicit multisig address as it will be voted in a separate proposal focused on the returning of funds
+
+2. Added paragraph (lines 23-26) to explain on how OTC price will be calculated in a verifiable way.
+
+*Introduction:*
+
+In order to prevent a negative market impact of a sudden liquidation of 763,624 GHST tokens, an Over-the-Counter (OTC) transaction for DAI held in the AAVEGOTCHI DAO treasury is being proposed. @Maxicrouton is one of the main points of contact here that will assist with that transaction. This method is preferable due to its ability to reduce a substantial price pressure that could result from a sell order of this magnitude.
+
+*Objectives:*
+
+In essence the goal is to secure a fair OTC deal that meets the needs and expectations of all stakeholders involved. Aavegotchi DAO’s goal is to mitigate the sell pressure on the GHST token while concurrently ensuring the rightful owners of the funds receive their funds 0VIX users want to have a fair price and get the maximum value from funds recuperated
+
+To circumvent market volatilities, the OTC price will be defined by averaging Chainlink prices over the time period that this CoreProp is voted on.
+
+To derive the price of the GHST / DAI pair from Chainlink, the block-per-block price feeds on Polygon PoS will be used. The final OTC price for swapping GHST into DAI will be determined as the simple average of all the GHST/DAI pair prices derived at each block (~300k distinct values).
+
+Upon passing of the CoreProp vote, a csv file and simple script will be submitted to the Aavegotchi DAO with the final OTC price value for everyone to verify publicly.
+
+Script link: [https://gist.github.com/pestopoppa/28630e7a6ae0215e071de7decf678e6a](https://gist.github.com/pestopoppa/28630e7a6ae0215e071de7decf678e6a)
+
+*Option A:*
+
+Yes to the OTC deal at a fixed price. That option offers the key advantage of price certainty and stability for both Aavegotchi DAO and 0VIX users. It circumvents market volatility by averaging prices over the days that the CoreProp is voted on, thus providing a quick execution route for the transaction.
+
+*Option B:*
+
+This CoreProp has been discussed extensively over the past days and weeks. If there are questions please refer to the 0VIX discussion sub-channel on the AV DAO discord.
+
+If the community feels it requires even further discussion, then please vote for this option.
+
+The returning of funds will be voted on separately and should appear on Snapshot after review by the community. As it stands now the multi-sig co-signers would be Hamzah Khan, Head of DeFi at Polygon Labs and Benjamin.lens, core-contributor at QiDAO.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1106249657425862827)
+
+Option 1: Further Discussion needed
+
+Option 2: OTC deal at a fixed price
+
+**Voting Period:** 13 - 19 July 2023
+
+**Kết quả:**
+
+table_agip87
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x929b6df24a265c0b7ea7e6a4f49eac4f1852993c3c9be69ef38f07f8a462923e)
+
+<hr />
+
+### Return 0VIX funds to multisig
+**Aavegotchi Improvement Proposal #88**
+
+**Tóm Tắt Đề Xuất:**
+
+*Introduction:*
+
+To achieve a final resolution and ensure a definitive closure to this more than 2 months old issue, we propose advancing with the conclusive vote on sending the funds. These funds will be used to compensate users who have been affected by the 0vix exploit. The longer the process takes, the more uncertainty it brings for them. It is crucial to resolve this so that 0VIX can reopen the markets and distribute the shares to the users in question. For anyone that wants to read up on the topic here are the preceding CoreProps:
+
+* [0vix exploit : Return the funds](https://snapshot.org/#/aavegotchi.eth/proposal/0x91189c9e91aca85013b212166163098fa72dbc9e1b9f4260fc08f4075560e3c8)
+
+* [How to return the GHST from the 0VIX exploit that was transferred to the Aavegotchi DAO Treasury to 0VIX users](https://snapshot.org/#/aavegotchi.eth/proposal/0x861986d8a9b4962d0ebf378268f9e3dbb1bbe4e014b4bb87101e408e1b46bd65)
+
+*Objectives:*
+
+We all have a strong desire to move forward and put this situation behind us, and we want to take a moment to thank you for your help in bringing us to this point.
+
+*Details:*
+
+The multisig address to which the funds shall be sent to is: 0xa50bB0c6e80618D215b48352df0644006289d2B7
+
+It is controlled by the following three signers:
+
+* 0VIX deployer wallet: recipient of Vitalik's message and 0.01ETH by Vitalik on Polygon zkEVM’s launch day
+
+    * PubKey: 0x7A10033Fb8F474F28C66caB7578F4aF9e6dAd37D
+
+* Hamzah Khan: Polygon Head of DeFi & Director of Growth
+
+    * PubKey: 0xc156C57231a9302D9f5C7b5eF22871cC25F40736
+
+* Benjamin.lens: QiDAO core team member
+
+    * PubKey: 0xd39c1775e98a73fd0a9c8ecac8c9fedb9bb81e45
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1106249657425862827)
+
+Option 1: Accept the proposal
+
+Option 2: Further Discussion needed
+
+**Voting Period:** 20 - 27 July 2023
+
+**Kết quả:**
+
+table_agip88
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x538e41dc85ec65809b2b072d4ebb7dd4af1c9c973cb09f416300b9cc3d3b588f)
+
+<hr />
+
+### Forge 2.0 New Schematics, Methodology, and Godlike Sets
+**Aavegotchi Improvement Proposal #89**
+
+**Tóm Tắt Đề Xuất:**
+
+Takeaway Points:
+
+* We propose 14 new schematics designed by the Forge Team
+
+* MikeyJay’s methodology was used for trait/set selection and should guide any future releases
+
+* We propose 4 new four-piece godlike sets to give all 16 gotchi types access to such a set
+
+* New godlikes maximally incorporate “old/classic” wearables
+
+*New Schematics*
+
+The Forge Team has been working diligently on standardizing and improving the process of new content releases. Intermittent wearable releases have been a staple of engagement for our community and comprise the majority of protocol engagement thus far. New content release comes with extensive backend work, however, especially as the Pixelcraft team transitions all assets to 3D in light of the rebranding and Gotchi Guardians. To this end, it’s imperative that trait and set selection be deliberate and equitable to all gotchi types. This will maximize the available wearables per gotchi, satisfy unmet demand, balance rarity farming, and provide a more balanced collection of assets on which 3rd party games can be built.
+
+MikeyJay’s methodology is outlined in this intensive 13 page document: [https://docs.google.com/document/d/1D9e2FEh5NnYXrPEK28UF7GWpsI1ybOsCY94x1kGCpJs/edit](https://docs.google.com/document/d/1D9e2FEh5NnYXrPEK28UF7GWpsI1ybOsCY94x1kGCpJs/edit)
+
+Specific trait selections by rarity tier and slot are outlined in this spreadsheet: [https://docs.google.com/spreadsheets/d/1Y8geMG-uI7yZMn3khWnTzwOLD7_r6kRQawU9kqeMGGg/edit#gid=562462486](https://docs.google.com/spreadsheets/d/1Y8geMG-uI7yZMn3khWnTzwOLD7_r6kRQawU9kqeMGGg/edit#gid=562462486)
+
+*Sets and Godlike Sets*
+
+A major critique of the Forge 1.0 wearable release was the introduction of a 4-piece godlike set and general “power creep” with new content releases. This was the second 4-piece godlike set and only allowed 3 out of 16 gotchi types access to a 4-piece godlike set. A major goal of this release was to provide all gotchi types access to “end game” with a 4-piece godlike set. Another major goal was to incorporate classic wearables and reduce power creep of newly released wearables as much as possible. To meet this goal, we propose the introduction of 4 new four-piece godlike sets composed of new and classic wearables.
+
+Attached here is the spreadsheet that outlines the number of sets accessible to each of the 16 gotchi types: [https://docs.google.com/spreadsheets/d/1VigrwRsUfTSl5sKMYD_Sy7dBDhpNCSu91hTK4mVA-VU/edit#gid=1816507981](https://docs.google.com/spreadsheets/d/1VigrwRsUfTSl5sKMYD_Sy7dBDhpNCSu91hTK4mVA-VU/edit#gid=1816507981)
+
+This release maximally fills gaps in the wearable market and provides all gotchi types access to a four-piece godlike set. It also provides a transparent path forward for new content which can be used by all parties building on the protocol. We are very excited about the art and can’t wait to share more with the community if this and the corresponding distribution proposal are accepted.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/geodes-and-forge-2-0-new-schematics-and-distribution/6167)
+
+Option 1: Yes. Accept new wearables/sets.
+
+Option 2: No. Do not accept.
+
+**Voting Period:** 27 July - 3 August 2023
+
+**Kết quả:**
+
+table_agip89
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xae17b512c7055fb2fa0ae2701666c417ebe2c80bc2901eda93d80239a9ca5c53)
+
+<hr />
+
+### Geodes, Schematic Distribution, and a Final non-drop ticket Raffle
+**Aavegotchi Improvement Proposal #90**
+
+**Tóm Tắt Đề Xuất:**
+
+*Takeaway points:*
+
+* The table below outlines the programmed odds for the multi-tier rarity geode
+
+* The 14 Forge 2.0 Schematics will be distributed 60% through geodes and 40% by raffle
+
+* This raffle will be the last non-drop ticket raffle paving the way for a transition to GLTR tickets
+
+*Geodes:*
+
+Geodes are currently only obtained by smelting wearables which means you can only get new content by smelting old content and burning alloy in the process. This allows for predictable distribution of new content over time. A well-stocked prize pool will transparently drip new content to the community and could be refilled at any time – refills could be new schematics or other prizes, content, partnership items (Anata NFTs), etc. MikeyJay designed the table below outlining odds for Multitier-Rarity Geodes. We plan to push this live in August alongside the Forge 2.0 New Schematic Release. Schematics can be minted and stored in the forge contract until the updated Geode contract is ready.
+
+See Appendix A for details regarding geode odds and prize distribution: [https://docs.google.com/document/d/1zFjdeOae-Pg8r2DHIGvJu7RGennHzZDtZ0lv8v142S8/edit](https://docs.google.com/document/d/1zFjdeOae-Pg8r2DHIGvJu7RGennHzZDtZ0lv8v142S8/edit)
+
+*Forge 2.0 Schematic Distribution:*
+
+We propose that the 14 new wearable schematics be distributed 60% by multi-tier rarity geodes and 40% by traditional raffle using FRENS-purchased tickets. This recommendation comes after soliciting feedback from the community and Pixelcraft. It avoids a resource-intensive auction which comes with a risk of poor user experience. It uses up all remaining FRENS (unless users elect to wait for a drop ticket raffle) and sets an expectation for no further FRENS-based tiered raffles. It also allows for the fun, community-building event of a raffle and slow, drip distribution metered by protocol engagement through the Geode mechanic. Overall, we think the 60:40 distribution strategy threads the needle and respects all stakeholders.
+
+*Final FRENS Tiered-Rarity Raffle*
+
+The Forge Team proposes this raffle be the last traditionally tiered FRENS raffle. This means that Common-Godlike tickets purchased by FRENS will not be used again. They could be converted to Drop Tickets for a final Drop Ticket raffle to be determined later by Pixelcraft or the DAO. This is a significant step toward removing FRENS as a liability on the DAO balance sheet. It paves the way for creation of a GLTR-based raffle system to be used in the future if deemed necessary by PC or the DAO.
+
+Please see the complementary proposal on the Forge 2.0 Schematics release for details on the proposed schematics and methodology.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1126256051528937624/1126256051528937624)
+
+Option 1: Yes. Accept all.
+
+Option 2: No. Do not accept.
+
+**Voting Period:** 27 July - 3 August 2023
+
+**Kết quả:**
+
+table_agip90
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5116dcfea59bb27189e607e990746417840142115f31ecb6223a8748868b2a7f)
+
+<hr />
+
+### Gotchi Crawler Demo Proposal
+**Aavegotchi Improvement Proposal #91**
+
+**Tóm Tắt Đề Xuất:**
+
+Hello frens,
+
+It is with great pleasure to bring forward to you today a proposal for the long-anticipated Gotchi Crawler! Slick and I have teamed up to bring to the community a demo for the game.
+
+*What is Gotchi Crawler?*
+
+Gotchi Crawler is a single or multiplayer (up to three) roguelike dungeon crawler. Players must descend, gather treasure and fight off swarms of enemies along the way. On each floor multiple of ten there is a merchant floor where players may exit the mines, capturing their score. Or, they can choose to descend further. Take note, if they die or run out of time before exiting, their score will be zero! Simply put, the core gameplay loop is enter mines, descend, gather treasure, exit / die, skill up, descend further, repeat The game is designed in such a way to facilitate solo play, however you are at great advantage to play as a team!
+
+*A Boon for Asset Holders*
+
+One of the core design principles is how to bring value back to the community? While creating a fun game is priority #1, we also want to build mechanisms that give fresh new utility to existing Aavegotchi assets. One thing we are really keen on is finding value for as many protocol assets as possible. These concepts are slated for the alpha release and beyond.
+
+*The Road Ahead*
+
+The game will launch in a series of stages: demo, alpha, beta, and the final game. The purpose of the demo is to establish the core gameplay loop. From the demo phase, we will have a better understanding of the scope for the full game and what it will require from the perspective of funding and additional team. We are confident in our abilities to deliver the demo as outlined below:
+
+Target launch: Mid October, 2023
+
+1). Multiplayer:
+
+* 1-3 players
+
+* Client side prediction for lag-free games
+
+2). Levels:
+
+* Three types -battle, adventure, and puzzle
+
+* Randomly spawn destructible objects
+
+* Single biome, the underground forest
+
+3). Destructible objects - these can contain:
+
+* GLTR points (this is how high scores are tracked in the MVP),
+
+* Ladders which allow the team to progress to lower level,
+
+* Lil Essence which if captured adds essence to the essence timer
+
+4). Battle:
+
+* Health/AP bars for gotchis
+
+* In-game stats based on gotchi traits
+
+* Geode smasher & fireball weapons
+
+* Dash mechanic for gotchis
+
+* Enemies with health bars only (no mage creeps yet!)
+
+* Simple enemy AI (roaming with an aggro range trigger)
+
+5). Puzzles
+
+* Team-dependent pressure switches implemented into the levels
+
+* Special doors that can only be opened with switches that (usually) contain treasure
+
+6). Essence timer:
+
+* Shared timer for all team mates
+
+* Approximately 15 minutes of play
+
+* Capture “Lil Essence” to increase play time
+
+7). Scoring:
+
+* GLTR = points
+
+* One score per gotchi
+
+8). Merchant / exit floor:
+
+* every multiple of 10, players will be able to escape and capture their score or descend lower
+
+9). Gameover screen:
+
+* Appears for a gotchi if their HP goes to zero
+
+* Appears for entire team if Essence goes to zero
+
+10). Sound FX & background song
+
+11). Leaderboard:
+
+* Per gotchi
+
+* XP event (TBC and pending Pixelcraft approval)
+
+We believe this will give enough of a gameplay experience for the community to enjoy, provide feedback for, and determine whether they wish for the game development to continue.
+
+*Funding Request*
+
+We are seeking a grant request of $58,000 with a 4,000 GHST bounty.
+
+* $32,000 DAI Oliver Spoon for project management, game design, and game assets
+
+* $24,000 DAI Slick for development
+
+* 4,000 GHST for bounty and outsourcing components
+
+* $2,000 DAI for server maintenance
+
+*Funding Disbursement*
+
+Bounty and server funds to be released up-front. Pay funds to be released 1/2 up front and in two further tranches as follows:
+
+Upon Core prop passing:
+
+* 18,000 DAI and 4,000 GHST to 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
+
+* 12,000 DAI to 0xA21329fec88d918d05f1D906dBb363E61Af76355
+
+September 15:
+
+* 14,000 DAI to 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
+
+October 15:
+
+* 14,000 DAI to 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
+
+*Alpha Phase and Beyond*
+
+Please see the litepaper for the full alpha phase plans.
+
+*Closing Remarks*
+
+I’ve spoken with Jesse and our vision is in line with theirs regarding IP usage. This project concept has been refined over many months. Please have a read through the litepaper to see all that is in store.
+
+As always, thank you for your support!
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchi-crawler-demo-litepaper-and-funding-request/6936)
+
+Option 1: Yes, support
+
+Option 2: No, reject
+
+**Voting Period:** 2 - 9 August 2023
+
+**Kết quả:**
+
+table_agip91
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x42da17ccfaf9c99bd5a904de5a9d1f1d72f8e7057594fbd20f9d328ad6b8a109)
 
 <hr />
 
