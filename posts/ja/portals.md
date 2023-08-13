@@ -95,9 +95,9 @@ if (rarityScore < 300) return 10;
 
 例えば、Base Rarity Scoreが300未満の場合、ゴッチを召喚するためには最低でも10DAI分の担保を預ける必要があります。
 
-Aavegotchiの霊力（預けられたaTokenの量）は後でAavegotchi Dapp UIから増減することができます。
+You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-Gotchiを請求するには、2つのトランザクションを実行する必要があります。 まず、スマートコントラクトを承認し、ウォレット内のaTokenを使用できるようにする必要があります。 その後のトランザクションで、Aavegotchiを受け取ることができます。
+Gotchiを請求するには、2つのトランザクションを実行する必要があります。 First, you need to approve the smart contract to spend the maToken/amToken in your wallet. その後のトランザクションで、Aavegotchiを受け取ることができます。
 
 ## Aavegotchiと交流する
 
