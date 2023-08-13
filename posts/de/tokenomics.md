@@ -91,10 +91,8 @@ Die Teamgelder werden in erster Linie verwendet, um die Kernmitglieder des Aaveg
 ## Revenue Sharing Übersicht
 
 Was passiert mit den ganzen GHST, die für Portale und Kleidungsstücke ausgegeben werden?
-
-We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Read on to learn about the various categories in more detail.
