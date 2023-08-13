@@ -89,8 +89,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [Maall](/maall)
 
-* [maToken](/matokens)
-
 * [メディア（Media）](/media)
 
 * [Memes](/memes)
