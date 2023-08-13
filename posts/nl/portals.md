@@ -95,9 +95,9 @@ if (rarityScore < 300) return 10;
 
 Bijvoorbeeld, als de Basis Rarity Score minder is dan 300, je moet minstens 10 DAI als onderpand halen om de Gotchi op te roepen.
 
-U kunt Spirit Force (gestakte aToken) van uw Aavegotchi later verhogen of verlagen via de Aavegotchi Dapp UI.
+You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-Om Gotchi te claimen, moet je 2 transacties uitvoeren. Eerst moet u het smart contract goedkeuren om de aToken in uw portemonnee te kunnen besteden. Met de volgende transactie kunt u de Aavegotchi claimen.
+Om Gotchi te claimen, moet je 2 transacties uitvoeren. First, you need to approve the smart contract to spend the maToken/amToken in your wallet. Met de volgende transactie kunt u de Aavegotchi claimen.
 
 ## Interactie met je Aavegotchi
 
