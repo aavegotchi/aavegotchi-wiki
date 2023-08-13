@@ -73,9 +73,9 @@ Meer informatie over rarity farming vindt u [hier](/rarity-farming).
 
 ## Claim een Aavegotchi
 
-Om een Aavegotchi uit het portaal te claimen, moet u de vereiste hoeveelheid [Spirit Force](/spirit-force) in het Portaal zetten. Spirit Force kan direct verkregen worden via [Aave](https://aave.com/) of DEXes zoals Uniswap.
+Om een Aavegotchi uit het portaal te claimen, moet u de vereiste hoeveelheid [Spirit Force](/spirit-force) in het Portaal zetten. Spirit Force can be acquired directly through the [Aavegotchi UI](/spirit-force#buying-matokens-amtokens).
 
-Naast hun monetaire waarde zoals gedicteerd door schaarste en marktkrachten, heeft elke Aavegotchi ook een intrinsieke waarde. De aTokens die je erbij betrekt, bieden deze intrinsieke waarde.
+Naast hun monetaire waarde zoals gedicteerd door schaarste en marktkrachten, heeft elke Aavegotchi ook een intrinsieke waarde. The [maTokens/amTokens](/spirit-force#buying-matokens-amtokens) you stake to it provide this intrinsic value.
 
 **Voor meer informatie over Spirit Force, zie [hier](/spirit-force).**
 
