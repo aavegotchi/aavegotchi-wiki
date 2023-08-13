@@ -91,10 +91,8 @@ Quỹ của team được sử dụng chủ yếu để khuyến khích những 
 ## Tổng Quan Về Phân Chia Doanh Thu
 
 Điều gì sẽ xảy ra khi tất cả GHST được đổ vào portal và wearable?
-
-Bọn mình đã thiết kế một bản tổng kết bỏ túi để giải thích về mô hình chia sẻ doanh thu V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Tokenomics của Aavegotchi">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Hãy đọc thêm để hiểu hơn về cách thức phân bố một cách chi tiết.
