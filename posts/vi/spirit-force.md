@@ -30,6 +30,7 @@ Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded wi
 <li><a href=#buying-matokens-amtokens>Buying maTokens/amTokens</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 <li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
+<li><a href=#nick-mudge-on-matokens>Nick Mudge on maTokens</a></li>
 </ol>
 
 </div>
@@ -80,3 +81,8 @@ else if (level <= 20) attenuation = 0.045;
 else if (level <= 50) attenuation = 0.03;
 else attenuation = 0.025;
 ```
+
+## Nick Mudge on maTokens
+
+* [Bài Thảo Luận trên Twitter ](https://twitter.com/mudgen/status/1352399348219445250) của [Nick Mudge](/team#nick-mudge) về việc anh ta đã mang thành công aToken lên trên Polygon và biến nó thành maToken
+* Nick Mudge giải thích sâu hơn về[đặc tính kỹ thuật của maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
