@@ -73,9 +73,9 @@ table_PortalTraitTable
 
 ## Aavegotchiを受け取る
 
-ポータルからAavegotchiを受け取るには、必要な量の[スピリットフォース](/spirit-force)をポータルにステークする（担保として預ける）必要があります。 スピリットフォースは、[Aave](https://aave.com/)やUniswapなどのDEXで直接入手することができます。
+ポータルからAavegotchiを受け取るには、必要な量の[スピリットフォース](/spirit-force)をポータルにステークする（担保として預ける）必要があります。 Spirit Force can be acquired directly through the [Aavegotchi UI](/spirit-force#buying-matokens-amtokens).
 
-Aavegotchiには、希少価値や市場原理による金銭的な価値だけでなく、本質的な価値も存在します。 あなたがステークするaTokenは、この本質的な価値を提供します。
+Aavegotchiには、希少価値や市場原理による金銭的な価値だけでなく、本質的な価値も存在します。 The [maTokens/amTokens](/spirit-force#buying-matokens-amtokens) you stake to it provide this intrinsic value.
 
 **スピリットフォースの詳細については、[こちら](/spirit-force)をご覧ください。**
 
