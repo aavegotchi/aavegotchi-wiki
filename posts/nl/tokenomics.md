@@ -91,10 +91,8 @@ Teamfondsen worden voornamelijk gebruikt om de core Aavegotchi teamleden te stim
 ## Overzicht Gedeelde Inkomsten
 
 Wat gebeurt er met al het GHST dat aan portalen en wearabels wordt uitgegeven?
-
-We hebben een handig diagram gemaakt waarin de inkomsten worden uitgelegd V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Lees verder voor meer gedetailleerde informatie over de verschillende categorieën.
