@@ -95,9 +95,9 @@ if (rarityScore < 300) return 10;
 
 Ví dụ, nếu Base Rarity Score thấp hơn, 300 thì bạn cần phải stake một lượng token có giá trị ít nhất 10 DAI để triệu hồi Gotchi.
 
-Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake) của Aavegotchi thông qua giao diện ngừi dùng của Dapp Aavegotchi.
+You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. Đầu tiên, bạn cần phải cho phép hợp đồng thông minh dùng aToken trong ví bạn. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
+Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. First, you need to approve the smart contract to spend the maToken/amToken in your wallet. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
 
 ## Tương tác với các Gotchi
 
