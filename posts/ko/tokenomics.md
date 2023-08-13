@@ -91,10 +91,8 @@ At approximately 2 years after the project's inception, the community voted for 
 ## 수익 배분 개관
 
 Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
-
-We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "아베고치 토큰 이코노미">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Read on to learn about the various categories in more detail.
