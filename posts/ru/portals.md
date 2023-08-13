@@ -95,9 +95,9 @@ if (rarityScore < 300) return 10;
 
 For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the maToken/amToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
 ## Взаимодействие с призраком в игре
 
