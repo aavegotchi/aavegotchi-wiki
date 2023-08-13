@@ -89,8 +89,6 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Maall](/maall)
 
-* [maTokens](/matokens)
-
 * [Multimedia](/media)
 
 * [Memes](/memes)
