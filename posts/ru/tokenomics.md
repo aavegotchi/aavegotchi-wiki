@@ -91,10 +91,8 @@ At approximately 2 years after the project's inception, the community voted for 
 ## Распределение доходов
 
 Как распределяются токены GHST, потраченные на порталы и wearables?
-
-We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Токеномика Aavegotchi">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Read on to learn about the various categories in more detail.
