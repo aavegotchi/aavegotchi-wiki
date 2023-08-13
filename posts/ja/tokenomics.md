@@ -91,10 +91,8 @@ At approximately 2 years after the project's inception, the community voted for 
 ## レベニューシェアの概要
 
 ポータルやウェアラブルに使われたGHSTはどうなるのでしょうか？
-
-レベニューシェアV2について、わかりやすく解説した図を作成しました：
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchiトークノミックス">
+<img class="centerImage" src="" alt = "">
 </div>
 
 各カテゴリーの詳細については、こちらをご覧ください。
