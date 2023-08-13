@@ -89,8 +89,6 @@ contributors:
 
 * [Maall](/maall)
 
-* [maTokens](/matokens)
-
 * [Media](/media)
 
 * [Memes](/memes)
