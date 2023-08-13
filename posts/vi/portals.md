@@ -73,9 +73,9 @@ Xem thêm thông tin về rarity farming tại [đây](/rarity-farming).
 
 ## Nhận Aavegotchi
 
-Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng [Spirit Force](/spirit-force) được yêu cầu vào trong Portal. Linh Lực có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
+Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng [Spirit Force](/spirit-force) được yêu cầu vào trong Portal. Spirit Force can be acquired directly through the [Aavegotchi UI](/spirit-force#buying-matokens-amtokens).
 
-Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
+Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. The [maTokens/amTokens](/spirit-force#buying-matokens-amtokens) you stake to it provide this intrinsic value.
 
 **Để có thêm nhiều thông tin về Spirit Force, hãy xem qua [tại đây](/spirit-force).**
 
