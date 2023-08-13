@@ -91,10 +91,8 @@ Team funds are primarily used to incentivize core Aavegotchi team members to con
 ## Revenue Sharing Overview
 
 What happens to all the GHST spent on portals and wearables?
-
-We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
+<img class="centerImage" src="" alt = "">
 </div>
 
 Read on to learn about the various categories in more detail.
