@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+### 100x $ghst token! Aavegotchi founder on polygon supernets, new games, new AAA game devs! (25 August 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjZJIISyx2k?si=wj5nF23MzrhowMLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Epic Gotchi Guardians GAMEPLAY! Watch Aavegotchis Battle for Survival | Devlog #2 (29 July 2023)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PDZOhsAyOYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
