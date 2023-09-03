@@ -110,6 +110,8 @@ contributors:
 <li><a href=#forge-2-0-new-schematics--methodology--and-godlike-sets>Forge 2.0 New Schematics, Methodology, and Godlike Sets</a></li>
 <li><a href=#geodes--schematic-distribution--and-a-final-non-drop-ticket-raffle>Geodes, Schematic Distribution, and a Final non-drop ticket Raffle</a></li>
 <li><a href=#gotchi-crawler-demo-proposal>Gotchi Crawler Demo Proposal</a></li>
+<li><a href=#aaveghostly-latina-spin-dream>Aaveghostly Latina Spin Dream</a></li>
+<li><a href=#alchemica-spending-competition---season-3>Alchemica Spending Competition - Season 3</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -4874,6 +4876,110 @@ Option 2: No, reject
 table_agip91
 
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x42da17ccfaf9c99bd5a904de5a9d1f1d72f8e7057594fbd20f9d328ad6b8a109)
+
+<hr />
+
+### Aaveghostly Latina Spin Dream
+**Aavegotchi Improvement Proposal #92**
+
+**提案の要約**
+
+I have put myself a challenge to cycle all around the whole Iberian Penisula region using only the strength of my own muscles, my goal is to draw a big circle on a map and finish where I started.
+
+To spice that adventure up I will sleep in the wilderness in my tent or hammock.
+
+Whole journey is going to be recorded using GoPro 11 with full attachments and additionally with Xiaomi MI 10T.
+
+Video content will be recorded in English and Polish language, all content is going to be daily posted/streamed on my non-web3 journey-related Polish social media which is Facebook and Instagram, and English web3 crypto-related Twitter profile. After returning home from cycling, all gathered materials will be used to create YouTube videos which will be in both languages for both audiences.
+
+There will be hundreds of gigabytes of videos, and around 44 days of cycling should be edited into around 6-15 full YouTube episodes, they are going to be partially launched on YouTube, even a long time afterwise the journey, I will add all of them and fulfill what was started regarding the time passed.
+
+I believe that the Aavegotchi Ghost theme, will show people even more how important are their lives and show them how important are good helpful people/communities around them.
+
+To promote Aavegotchi worldwide thanks to my double-languaged viral video content and to bring masses not only from outside the Aavegotchi ecosystem but also outside the whole web3 scene.
+
+My proposal is to create an official Sponsorship/Partnership deal so whole journey will be signed under the official Aavegotchi wing.
+
+In return for the sponsorship, I commit to promoting the Aavegotchi brand and community in various ways.
+
+This includes:
+
+* Incorporating Aavegotchi content into our adventure videos. (Putting logos, fonts, Aavegotchis and with every other possible way)
+
+* Wearing Aavegotchi-branded merchandise during our journey. (T-shirts, Flags, stickers on my equipment and whatever other is possible)
+
+* Creating dedicated promotional videos for Aavegotchi. (Videos in which I talk strictly bout Aavegotchi and explain the project + simple mentions)
+
+* Creating dedicated promotional threads for Aavegotchi. (+ tagging in my content tweets etc.)
+
+* Displaying the Aavegotchi logo on all our official adventure videos. (Exactly the created YouTube episodes and adding everywhere information about the official partnership)
+
+* Leaving Aavegotchi-branded stickers throughout Spain and Portugal. (Randomly sticking to places where it is possible, or giving away to people explaining what it is)
+
+To make that deal happen and realize my vision with that Partnership deal I would like to get paid only expenses which I will spend on food through whole cycling and transport of me + bicycle back and forth by plane.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/2023-spain-portugal-bicycle-adventure-lap-35-45-days-sponsorship-partnership/5704/1)
+
+Option 1: Yes, fund it.
+
+Option 2: No, pass.
+
+**Voting Period:** 21 - 28 August 2023
+
+**結果:**
+
+table_agip92
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x22577b713bc6a0b3670bd721af21c4649329ec1744652adc0ecb9f70dbbf6716)
+
+<hr />
+
+### Alchemica Spending Competition - Season 3
+**Aavegotchi Improvement Proposal #93**
+
+**提案の要約**
+
+Season 3 parameters:
+
+2 one–week rounds (Most of the activity came within first two weeks of competition, and so this should be the focus)
+
+* Week one: 28 August (Monday) to 3 September (Sunday)
+
+* Week two: 4 September (Monday) to 10 September (Sunday)
+
+30k GSHT reward for each round funded from gotchiverse player rewards wallet
+
+Multiplier for both weeks will be the same: 1.8x – 1.6 – 1.4x – 1.3x – 1.2x – 1.1x – 1x
+
+(We believe this give incentive to build early, moving focus from the “last minute” spenders as they would have bigger cost to move up in the leaderboard)
+
+Top 100 places paid each round
+
+(We want to experiment with longer tail. The kinship burn mechanic had a major impact on the alchemica emission. We saw about 300% reduction in alchemica emissions from channeling, and therefore we think this season could attract some new builders inside gotchiverse)
+
+TOTAL WINNER of competiton will get a unique “Statue” decoration from Pixelcraft once the 3D Gothiverse launches, there will be only 1 statue like this inside the Gotchiverse.
+
+WINNER of each week get a “Trophie” Fake from SOJU (preview in post), so it’s going to be 2 out of 2 fake (super rare)
+
+FIRST to TENTH place for each week get a “Medal” Fake from SOJU (preview in post), so it’s going to be 20 out of 20 fake (still quite rare)
+
+SOJUs work is commissioned, and would be sent to SOJUs wallet 0x8CbF96319b3C56d50a7C82EFb6d3c46bD6f889Ba after the FAKES are delivered to the winners. The price of commission is 250 GHST for each fake + 70 GHST floor for 1 FAKE card, so in total 640 GHST payed from Gotchiverse reward pool
+
+Final words: We believe this competition could “flush out” plenty of alchemica from circulation. The effect should be longer term, as the channeling emissions are reduced after kinship burn implementation. At the same time, we would incentive more builders to come to gotchiverse, and potentially turn them into alchemica bulls.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1131451897774100510)
+
+Option 1: YES, fund the competition
+
+Option 2: NO, do not fund the competition
+
+**Voting Period:** 21 - 27 August 2023
+
+**結果:**
+
+table_agip93
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xd3c0ca68dedf236a9418b51fb9743dc4428182d7b178528f80a448dd5b2aeb6e)
 
 <hr />
 
