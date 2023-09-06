@@ -22,7 +22,7 @@ contributors:
 
 ## Year 2023
 
-## [Aavegotchi September Updates!](https://blog.aavegotchi.com/aavegotchi-dev-update-september-2023/)
+## [Aavegotchi September 2023 Dev Updates!](https://blog.aavegotchi.com/aavegotchi-dev-update-september-2023/)
 * New Aarena features, cool new stuff for Gotchi Guardians, and moar in this September dev update!
 <p></p>
 
