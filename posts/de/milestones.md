@@ -22,6 +22,10 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi September Updates!](https://blog.aavegotchi.com/aavegotchi-dev-update-september-2023/)
+* New Aarena features, cool new stuff for Gotchi Guardians, and moar in this September dev update!
+<p></p>
+
 ## [August 2023 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-august-2023/)
 * Have you seen the 3D Gotchiverse?
 * 3D Aarena, flying Gotchis, and Gotchi Guardians.........soon!
