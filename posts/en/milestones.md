@@ -19,7 +19,12 @@ contributors: ["unintelligent-nerd"]
 
 </div>
 
-## Year 2023 
+## Year 2023
+
+## [The Gotchi Gaming Revolution has arrived!](https://blog.aavegotchi.com/its-official-the-aavegotchi-gaming-revolution-has-just-arrived/)
+* Did you know that Aavegotchi is gonna become the next Steam and Epic Games?
+* Come and sample the games in the newwwww Game Center! 👀
+<p></p>
 
 ## [Aavegotchi September 2023 Dev Updates!](https://blog.aavegotchi.com/aavegotchi-dev-update-september-2023/)
 * New Aarena features, cool new stuff for Gotchi Guardians, and moar in this September dev update!
