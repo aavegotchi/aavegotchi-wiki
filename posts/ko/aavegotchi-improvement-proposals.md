@@ -112,6 +112,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#gotchi-crawler-demo-proposal>Gotchi Crawler Demo Proposal</a></li>
 <li><a href=#aaveghostly-latina-spin-dream>Aaveghostly Latina Spin Dream</a></li>
 <li><a href=#alchemica-spending-competition---season-3>Alchemica Spending Competition - Season 3</a></li>
+<li><a href=#revamp-the-aavegotchi-rental-protocol-to-support-parcels-and-wearables>Revamp the Aavegotchi Rental Protocol to support Parcels and Wearables</a></li>
+<li><a href=#gotchi-heroes-reworked-version-proposal>Gotchi Heroes Reworked Version Proposal</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -4980,6 +4982,134 @@ Option 2: NO, do not fund the competition
 table_agip93
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd3c0ca68dedf236a9418b51fb9743dc4428182d7b178528f80a448dd5b2aeb6e)
+
+<hr />
+
+### Revamp the Aavegotchi Rental Protocol to support Parcels and Wearables
+**Aavegotchi Improvement Proposal #94**
+
+**Proposal Summary:**
+
+*Why does the DAO need a new Rental Protocol?*
+
+The current Rental Protocol was specifically made for the Aavegotchi use case. It will take a great deal of time to add support for other NFTs, which would have to be implemented one at a time with much customisation.
+
+Moreover, the DAO does not benefit from Rental activity. 100% of the $GHST generated goes straight to the lender, meaning token holders are not rewarded even when the marketplace bursts with usage.
+
+Finally, the DAO needs a standard interface to list new NFTs when they are launched. There are many unexplored use cases for lending Wearables, Tiles, and Installations, and by providing a standard interface, the DAO will have an easy path to list these new assets.
+
+*Proposed Solution*
+
+We propose to create a custom implementation of ERC-7432, including a contract that stores all role assignments for all NFTs of the Aavegotchi ecosystem. This approach will tremendously simplify how utility delegation is implemented since all logic will be centralised in a single contract owned by the DAO.
+
+However, it’s important to highlight that this proposal only covers Aavegotchis, Land Parcels, and Wearables. Other NFTs can still be listed, but we must review their current functionality to ensure they will work as expected.
+
+*Deliverables & Timeline*
+
+Here is a complete list of all the deliverables included in this Proposal:
+
+* Smart Contracts:
+
+    * Aavegotchi Diamond contract update.
+
+    * Land Parcel Diamond contract update.
+
+    * Wearables Diamond contract update.
+
+    * New Contract: Roles Registry (ERC-7432).
+
+* Subgraphs:
+
+    * Roles & Marketplace.
+
+* Front-End & Back-End:
+
+    * UI for Direct Rentals.
+
+    * UI for Marketplace.
+
+    * API to parse Subgraph data.
+
+After assessing the technical effort to implement the items above, the team estimated the development time in four months. All deliverables will be transferred to the DAO control, except for the Front-End & Back-End.
+
+*Cost Breakdown*
+
+The team working on this project contains five full-time developers: three Solidity Engineers and 2 Full-Stack developers. Since we will spend four months developing the project, with an average compensation of 5,000 DAI per developer per month, the team is requesting a budget of 80,000 DAI to deliver this project.
+
+We also suggest a payment schedule of three tranches:
+
+* 20,000 DAI when the proposal is approved.
+
+* 30,000 DAI when the Smart Contracts are delivered.
+
+* 30,000 DAI when the Subgraphs and UI are delivered.
+
+*ROI (Return on Investment)*
+
+The result would depend on the marketplace volume and the royalties established by the DAO. The DAO would still earn a substantial return even in a low-volume year.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1142228456491458652)
+
+Option 1: Yes, Revamp the Protocol!
+
+Option 2: No, Do Nothing
+
+**Voting Period:** 15 - 24 September 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd46fdc43cf05ad2059c1f1ddd9d129fafcf1a522a4623aaf21438ac6c1672478)
+
+<hr />
+
+### Gotchi Heroes Reworked Version Proposal
+**Aavegotchi Improvement Proposal #95**
+
+**Proposal Summary:**
+
+The Gotchi Heroes Reworked version is the culmination of valuable feedback received over the past year, representing our ultimate dream of creating a fun-to-play Aavegotchi Idle game. The key improvements and new features include:
+
+* A full graphical revamp, encompassing game items, objects, battle scenes, and monsters, to enhance the visual experience. (Artwork Included)
+
+* Fully animated battles between Aavegotchis and monsters, allowing you to witness epic fights and see your beloved gotchis in action. (Artwork Included)
+
+* A completely redesigned UI/UX to provide a better and smoother gaming experience. (Artwork Included)
+
+* The introduction of numerous new features, including account progression and leveling up, achievements, dungeon gameplay mode, a new in-game item crafting system, epic boss battles with a loot system, pet companions, and much more!
+
+* Finally, we have worked on balancing the Leaderboard climbing experience by reducing the presence of pay-to-win elements and adding more in-game loot, objectives, and activities mentioned above.
+
+* And yet, this is just the beginning of our journey with this newly improved Aavegotchi Idle game, which will soon be ready to be introduced to the entire blockchain world.
+
+*Proposal*
+
+This proposal outlines our request for Aavegotchi DAO's support in migrating Gotchi Heroes to the Unity game engine and eventually the Gotchichain. This endeavor is not just a cosmetic upgrade; it's a comprehensive revamp of the game, from its core framework to its user interface. We are working with a game developer and game artist so the assets shown are real life examples of how the game will change.
+
+How will Aavegotchi DAO Benefit?
+
+Here's what Aavegotchi DAO stands to gain:
+
+* Improved Player Experience: By enhancing the graphics and incorporating fresh game mechanics, we promise a vastly improved and more immersive player experience.
+
+* Inclusion of Alchemica: The integration of Alchemica is already complete This move will offer new in-game actions and raise their utility.
+
+* Token Burning: We plan to burn 50% of the Alchemica deployed for in-game actions, which will effectively serve as a sink for Aavegotchi tokens.
+
+We project a budget of 50k DAI for this initiative. This figure encompasses the costs of redevelopment, graphic enhancement, testing, implementation, and subsequent maintenance.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/introducing-gotchi-heroes-reworked-version-funding-request/7440)
+
+Option 1: Yes, support.
+
+Option 2: No, reject.
+
+Option 3: Abstain
+
+**Voting Period:** 23 - 30 September 2023
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x47a9ce6f103047d8cb10ca14cd7274cd8d13871080e32cbe0b4efedf6e0b888c)
 
 <hr />
 
