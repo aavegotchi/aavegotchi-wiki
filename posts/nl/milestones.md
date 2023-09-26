@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [A new partnership with GameSwift!](https://blog.aavegotchi.com/game-tech-spotlight-announcing-a-new-partnership-with-gameswift/)
+* Aavegotchi is now partnering with GameSwift, a pioneering modular gaming blockchain built on zkEVM technology, and one of the world’s leading Web3 gaming aggregators!
+* As part of the partnership, GameSwift will showcase on its platform both of Aavegotchi’s much-anticipated upcoming releases: **Gotchi Guardians**, a fusion of high-stakes survival and tower defense game, and the **Gotchiverse Arena**, a multiplayer battle-royale deathmatch game deeply integrated with the Aavegotchi IP
+<p></p>
+
 ## [The Gotchi Gaming Revolution has arrived!](https://blog.aavegotchi.com/its-official-the-aavegotchi-gaming-revolution-has-just-arrived/)
 * Did you know that Aavegotchi is gonna become the next Steam and Epic Games?
 * Come and sample the games in the newwwww Game Center! 👀
