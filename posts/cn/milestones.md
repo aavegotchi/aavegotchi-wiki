@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [The Aavegotchi x Sandbox shared Metaverse experience](https://blog.aavegotchi.com/this-is-what-happens-when-metaverses-collide/)
+* Are you ready to experience Aavegotchi in The Sandbox? 👀
+* It's gonna go live on October 25th in The Sandbox, with TWO claimable airdrops.
+<p></p>
+
 ## [A new partnership with GameSwift!](https://blog.aavegotchi.com/game-tech-spotlight-announcing-a-new-partnership-with-gameswift/)
 * Aavegotchi is now partnering with GameSwift, a pioneering modular gaming blockchain built on zkEVM technology, and one of the world’s leading Web3 gaming aggregators!
 * As part of the partnership, GameSwift will showcase on its platform both of Aavegotchi’s much-anticipated upcoming releases: **Gotchi Guardians**, a fusion of high-stakes survival and tower defense game, and the **Gotchiverse Arena**, a multiplayer battle-royale deathmatch game deeply integrated with the Aavegotchi IP
