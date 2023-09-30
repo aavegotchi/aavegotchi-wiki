@@ -35,6 +35,7 @@ Aavegotchi es un proyecto amistoso. ¡Conoce a nuestros amigos aquí!
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
 <p><a href=#magic-eden>Magic Eden</a></p>
 <p><a href=#oneplanet>OnePlanet</a></p>
+<p><a href=#gameswift>GameSwift</a></p>
 </ol>
 
 </div>
@@ -223,3 +224,12 @@ Magic Eden is the leading cross-chain NFT platform driving the next billion user
 </div>
 
 OnePlanet is a Polygon-dedicated NFT launchpad and marketplace, offering a diverse range of NFT experiences for both creators and the community. Their comprehensive launchpad services and add-on utilities empower creators to bring their NFTs to life and monetize their work. Meanwhile, users can explore, evaluate, and interact with their NFTs in exciting new ways.
+
+### GameSwift
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/gameswift.jpg" alt="GameSwift">
+<p class="leftImageText"><a href="https://twitter.com/GameSwift_io" target="_blank">GameSwift</a></p>
+</div>
+
+GameSwift is a zkEVM modular blockchain for games that harnesses the shared security of its L1 infrastructure and provides the opportunity to scale and maximize revenue, thanks to zkEVM roll-ups.
