@@ -1212,6 +1212,31 @@ export const tables
         },
 		
 		{
+            tableName: "agip94",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Revamp the Protocol!", "8,600,000 GHST (90.88%)"],
+					["No, Do Nothing", "861,000 GHST (9.12%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip95",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, support.", "9,400,000 GHST (87.78%)"],
+					["No, reject.", "745,000 GHST (6.97%)"],
+					["Abstain", "560,000 GHST (5.24%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
