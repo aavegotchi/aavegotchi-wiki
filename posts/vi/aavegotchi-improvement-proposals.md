@@ -5058,6 +5058,8 @@ Option 2: No, Do Nothing
 
 **Kết quả:**
 
+table_agip94
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd46fdc43cf05ad2059c1f1ddd9d129fafcf1a522a4623aaf21438ac6c1672478)
 
 <hr />
@@ -5108,6 +5110,8 @@ Phương án 3: Phiếu Trắng
 **Voting Period:** 23 - 30 September 2023
 
 **Kết quả:**
+
+table_agip95
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x47a9ce6f103047d8cb10ca14cd7274cd8d13871080e32cbe0b4efedf6e0b888c)
 
