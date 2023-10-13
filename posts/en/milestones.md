@@ -21,6 +21,15 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [October 2023 Dev Update](https://blog.aavegotchi.com/aavegotchi-dev-update-october-2023/)
+* New Gotchi Guardians towers, Gotchiverse Aarena NPC Lickquidators, and moar in this October update!
+<p></p>
+
+## [Aavegotchi partners with CARV!](https://blog.aavegotchi.com/a-massive-new-gotchi-gaming-partner-has-just-arrived/)
+* CARV is the latest gaming partner to team up with Aavegotchi!
+* They are the 'first of a kind' gaming credential protocol that has generated a lot of buzz in both on-chain and off-chain gaming communities
+<p></p>
+
 ## [The Aavegotchi x Sandbox shared Metaverse experience](https://blog.aavegotchi.com/this-is-what-happens-when-metaverses-collide/)
 * Are you ready to experience Aavegotchi in The Sandbox? 👀
 * It's gonna go live on October 25th in The Sandbox, with TWO claimable airdrops.
