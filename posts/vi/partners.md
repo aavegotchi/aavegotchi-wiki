@@ -36,6 +36,7 @@ Aavegotchi là một dự án thân thiện. Hãy cùng làm quen những ngư�
 <p><a href=#magic-eden>Magic Eden</a></p>
 <p><a href=#oneplanet>OnePlanet</a></p>
 <p><a href=#gameswift>GameSwift</a></p>
+<p><a href=#carv>CARV</a></p>
 </ol>
 
 </div>
@@ -233,3 +234,16 @@ OnePlanet is a Polygon-dedicated NFT launchpad and marketplace, offering a diver
 </div>
 
 GameSwift is a zkEVM modular blockchain for games that harnesses the shared security of its L1 infrastructure and provides the opportunity to scale and maximize revenue, thanks to zkEVM roll-ups.
+
+### CARV
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/carv.png" alt="CARV">
+<p class="leftImageText"><a href="https://twitter.com/carv_official" target="_blank">CARV</a></p>
+</div>
+
+CARV is building a credential and data infrastructure focused on gaming, enabling gamers with data sovereignty and games with intelligence.
+
+With consumer facing gaming hub and studio facing CRM products, CARV enable gamers with seamless credential-based gaming experiences, and empowering games with data-driven growth & intelligence, starting with web3.
+
+The name CARV is derived from the verb "carve", which means to cut or shape something by removing material. The word "carve" has a strong association with craftsmanship, precision, and attention to detail, and so are we.
