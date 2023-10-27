@@ -22,6 +22,11 @@ contributors:
 
 ## Year 2023
 
+## [Aavegotchi Halloween Party!](https://blog.aavegotchi.com/boo-your-invitation-to-the-aavegotchi-halloween-2023-party/)
+* Save the date for the Aavegotchi Halloween Party on Oct 28!
+* Plenty of fun activities including an IRL Costume Contest, Online Art Contest, First 3D playtest, GHST Airdrops, and moar!
+<p></p>
+
 ## [October 2023 Dev Update](https://blog.aavegotchi.com/aavegotchi-dev-update-october-2023/)
 * New Gotchi Guardians towers, Gotchiverse Aarena NPC Lickquidators, and moar in this October update!
 <p></p>
