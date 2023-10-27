@@ -10,6 +10,9 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+###  This is why Aavegotchi fell in love with Chainlink #SmartCon2023 (12 October 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wEyW-J1cw8M?si=DKqy07h_DENlInRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 100x $ghst token! Aavegotchi founder on polygon supernets, new games, new AAA game devs! (25 August 2023)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjZJIISyx2k?si=wj5nF23MzrhowMLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
