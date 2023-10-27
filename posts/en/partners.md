@@ -36,6 +36,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#oneplanet>OnePlanet</a></p>
 <p><a href=#gameswift>GameSwift</a></p>
 <p><a href=#carv>CARV</a></p>
+<p><a href=#helika-analytics>Helika Analytics</a></p>
 </ol>
 
 </div>
@@ -246,3 +247,12 @@ CARV is building a credential and data infrastructure focused on gaming, enablin
 With consumer facing gaming hub and studio facing CRM products, CARV enable gamers with seamless credential-based gaming experiences, and empowering games with data-driven growth & intelligence, starting with web3.
 
 The name CARV is derived from the verb "carve", which means to cut or shape something by removing material. The word "carve" has a strong association with craftsmanship, precision, and attention to detail, and so are we.
+
+### Helika Analytics
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/helika-analytics.png" alt="Helika Analytics">
+<p class="leftImageText"><a href="https://twitter.com/HelikaAnalytics" target="_blank">Helika Analytics</a></p>
+</div>
+
+Helika helps gaming studios make strategic decisions with no-code analytics.
