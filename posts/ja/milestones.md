@@ -22,6 +22,16 @@ contributors:
 
 ## Year 2023
 
+## [Test Your Skill in the Arena Playtest](https://blog.aavegotchi.com/happening-now-test-your-skill-in-the-arena-playtest/)
+* The much-awaited Aavegotchi Arena Playtest has officially begun!
+* Download the build and try it out
+<p></p>
+
+## [Rarity Farming Season 7 is upon us!](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
+* Dress up your gotchis and farm that yield in Rarity Farming Season 7
+* Commencing on 31 October 2023!
+<p></p>
+
 ## [Aavegotchi Halloween Party!](https://blog.aavegotchi.com/boo-your-invitation-to-the-aavegotchi-halloween-2023-party/)
 * Save the date for the Aavegotchi Halloween Party on Oct 28!
 * Plenty of fun activities including an IRL Costume Contest, Online Art Contest, First 3D playtest, GHST Airdrops, and moar!
