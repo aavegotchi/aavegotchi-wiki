@@ -20,6 +20,7 @@ contributors:
 <li><a href=#season-4>Season 4</a></p>
 <li><a href=#season-5>Season 5</a></p>
 <li><a href=#season-6>Season 6</a></p>
+<li><a href=#season-7>Season 7</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -88,7 +89,7 @@ Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 Sept
 
 ## Season 5
 
-Rarity Farming Season 5 was held from Tuesday, 13 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
 
 * レアリティ（賞金総額の70％／105万GHST）
 
@@ -110,6 +111,16 @@ Rarity Farming Season 6 was held from Thursday, 29 June 2023 - Thursday, 24 Augu
 
 [Spreadsheet of Rarity Farming Season 6 Rewards](https://docs.google.com/spreadsheets/d/1BkAhzkgkcDNVJKQ7bDL3etpjDjB7ml8iJuMzC1A-KlU/)
 
+## Season 7
+
+Rarity Farming Season 7 was held from Tuesday, 31 October 2023 - Tuesday, 26 December 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 7.
+
+* レアリティ（賞金総額の70％／105万GHST）
+
+* キンシップ（賞金総額の20％／30万GHST）
+
+* XP（賞金総額の10％／15万GHST）
+
 ## GHST Distribution by Season
 
 table_rarityFarmingSeasons
@@ -123,3 +134,9 @@ table_rarityFarmingSeasons
 * [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
 
 * [Rarity Farming Season 4 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/)
+
+* [Rarity Farming Season 5 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-5-is-coming/)
+
+* [Rarity Farming Season 6 Blog post](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
+
+* [Rarity Farming Season 7 Blog post](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
