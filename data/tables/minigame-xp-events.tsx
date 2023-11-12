@@ -128,4 +128,18 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "gotchiCrawler",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    ["Score 2000 points and exit", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"],
+					["Top 10", "20 XP"]
+                ]
+            }
+        },
     ]
