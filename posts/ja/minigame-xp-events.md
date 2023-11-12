@@ -30,6 +30,7 @@ Aavegotchiの[ミニゲーム](/minigames)でXPイベントが開催されるこ
 <li><a href=#pinbaal>ピンボール</a></li>
 <li><a href=#gotchi-miner>Gotchi Miner</a></li>
 <li><a href=#gotchi-heroes>Gotchi Heroes</a></li>
+<li><a href=#gotchi-crawler>Gotchi Crawler</a></li>
 </ol>
 
 </div>
@@ -95,3 +96,9 @@ The Gotchi Heroes XP event is broken into 2 rounds, each with a separate leaderb
 table_gotchiHeroes
 
 Read the [Gotchi Heroes XP Event blog post](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/) for the top player rewards!
+
+## Gotchi Crawler
+
+Event Duration: 4 - 11 November 2023
+
+table_gotchiCrawler
