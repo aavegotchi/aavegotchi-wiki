@@ -1237,6 +1237,55 @@ export const tables
         },
 		
 		{
+            tableName: "agip96",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, launch RF season 7 on 10/31", "11,000,000 GHST (93.57%)"],
+					["No, delay RF season 7", "785,000 GHST (6.43%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip97",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, LFG!", "11,000,000 GHST (89.04%)"],
+					["No", "1,300,000 GHST (10.96%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip98",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Approve", "11,000,000 GHST (93.87%)"],
+					["Needs Slight Changes", "513,000 GHST (4.52%)"],
+					["Something Else Entirely", "182,000 GHST (1.61%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip99",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes fund", "9,500,000 GHST (83.18%)"],
+					["No do not fund", "1,900,000 GHST (16.82%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
