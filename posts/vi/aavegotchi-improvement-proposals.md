@@ -114,6 +114,10 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#alchemica-spending-competition---season-3>Alchemica Spending Competition - Season 3</a></li>
 <li><a href=#revamp-the-aavegotchi-rental-protocol-to-support-parcels-and-wearables>Revamp the Aavegotchi Rental Protocol to support Parcels and Wearables</a></li>
 <li><a href=#gotchi-heroes-reworked-version-proposal>Gotchi Heroes Reworked Version Proposal</a></li>
+<li><a href=#rarity-farming-season-7>Rarity Farming Season 7</a></li>
+<li><a href=#gotchi-crawler-leaderboard-prize-pool-funding>Gotchi Crawler Leaderboard Prize Pool Funding</a></li>
+<li><a href=#aavegotchi-dao-mission-statement>Aavegotchi DAO Mission Statement</a></li>
+<li><a href=#gotchi-greetoors--formerly-itf--funding>Gotchi Greetoors (formerly ITF) Funding</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -5114,6 +5118,222 @@ Phương án 3: Phiếu Trắng
 table_agip95
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x47a9ce6f103047d8cb10ca14cd7274cd8d13871080e32cbe0b4efedf6e0b888c)
+
+<hr />
+
+### Rarity Farming Season 7
+**Aavegotchi Improvement Proposal #96**
+
+**Tóm Tắt Đề Xuất:**
+
+We are proposing that we start rarity farming season 7 on Halloween, October 31 (if deemed feasible by PC, or ASAP after that in consultation with PC).
+
+We’ve been aiming for ~3 rarity farming seasons a year, and our proposed Halloween start date ends this third 2023 season right around the end of the year. This proposal suggests keeping reward parameters largely the same as the prior several seasons, with the addition of a 100k prize pool for Gotchi Battler. Last season used the following reward parameters:
+
+4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury
+
+* 70% BRS
+
+* 20% Kinship
+
+* 10% XP
+
+Top 7.5k Gotchis (30%)
+
+For the upcoming season we want to add a 4th category for Gotchi Battler. The prizepool will be increased to 1.6M total GHST and the extra 100K will be for a Gotchi Battler tournament. The tournament can have up to 4096 teams entered with each team comprising of 5 gotchis, this means a total of 20,480 gotchis could enter, although we'd expect a lot less than that.
+
+The tournament will be a single elimination tournament with 1 round each day. To participate you just need to enter your team during the registration period at the start of the tournament, then your team will automatically progress through each round. Once the VRF has been rolled for the round each day you can view all the battles on the Gotchi Battler website. The tournament will take place before the end of the season and we will have many "test" tournaments with small prize pools beforehand so there will be plenty of opportunity to practice and figure out what your best team configuration is.
+
+Launch period: Season 7 round 1 to commence on October 31, or as soon as deemed feasible by PC
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1153382684014411897)
+
+Option 1: Yes, launch RF season 7 on 10/31
+
+Option 2: No, delay RF season 7
+
+**Voting Period:** 11 - 17 October 2023
+
+**Kết quả:**
+
+table_agip96
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x4fec11f6ee6c58dc3caa0face6d4894ac1704e63a18be5c9da25b259bac84eb1)
+
+<hr />
+
+### Gotchi Crawler Leaderboard Prize Pool Funding
+**Aavegotchi Improvement Proposal #97**
+
+**Tóm Tắt Đề Xuất:**
+
+We’re getting hyped for the launch of our demo here soon. We wanted to spice things up with a little leaderboard prize pool.
+
+Benefits:
+
+* Great fun for the community
+
+* Funding request will be used to purchase assets off the marketplace
+
+* All prizes will be NFTs and Forge components, keeping the money in the economy
+
+* More feedback for our team to deliver a better alpha phase product
+
+We’re asking for a 5,000 GHST player reward bounty. We’ll be using the funds to purchase wearables etc to use as prizes for our launch event competition and other giveaways.
+
+We will have individual 1st, 2nd, and 3rd prizes and then similar/identical prizes for ranks 4th-10th, 11th-25th, 26th-50th, 51st-100th. We will also have some giveaways and other funs things to do during the event.
+
+Prizes will be per gotchi and based off the leaderboard score for most points accumulated in one play through.
+
+Option 1: Yes, LFG!
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 12 - 19 October 2023
+
+**Kết quả:**
+
+table_agip97
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5fa86c431e3e0d5429906f86d1182781b7f0366f554a57631cf0c8fd2dd1c2b5)
+
+<hr />
+
+### Aavegotchi DAO Mission Statement
+**Aavegotchi Improvement Proposal #98**
+
+**Tóm Tắt Đề Xuất:**
+
+This is a second submission to achieve approval for the great work done by gud frens in this prop. The first submission received widespread support but unfortunately did not attain quorum before closure. Thanks for getting us this far Fantasma and crew. Let’s get it all the way Home this time, frens. -Mycaleum
+
+*Prop:*
+
+For quite a long time, our DAO has faced the challenge of passing proposals, funding initiatives, making changes to DAO mechanics, all while postponing answering our most basic questions. What are we? Who are we? What do we stand for? What is the reason and purpose of our DAOs existence?
+
+It has not been a straight or obvious path, but the journey of discovery for the many frens here, has been deeply enjoyable and illuminating. We humbly present you with a mission statement we believe most successfully aims at the core and soul of the purpose and spirit of our DAO. We hope you find enthusiastic agreement, as we did.
+
+Without further ado, we propose that the mission statement of Aavegotchi Dao be ratified as:
+
+“To empower players to own, build, grow, and connect in a multiverse of their own creation.”
+
+*The Word-Salad Graveyard (terms that were deliberately excluded):*
+
+Gotchigang:
+
+Many felt this endearment could instead create an exclusionary feeling to potential or prospective readers considering joining our DAO.
+
+Web3/SDK/Protocol/Blockchain/L2/decentralization/metaverse:
+
+All of these words were sprinkled among the earlier (and lengthier) versions of our mission statement. We drew inspiration from the most successful organizations in history, and chose to avoid directly mentioning the product, the technology or explicitly what we do. Nintendo’s mission statement doesn’t even mention gaming consoles.
+
+members/participants:
+
+This was one of the toughest choices. These identifiers were ultimately supplanted by “player”, to avoid being exclusionary or stale and uninspiring.
+
+gamers, game, play:
+
+Just how much to convey our gaming focus and roots was a point of constant consideration. We feel that by addressing “players”, this spirit is sufficiently covered. “Player” is also a synonym for “participant”. As such, participants that engage with the DAO and protocol can always be considered players, even if they are not gamers.
+
+*Why bother with a mission statement?*
+
+What does the DAO achieve from this vote and effort?
+
+By answering our most basic organizational identity questions, a ratified Mission Statement gives our DAO cohesive intention. It also paves the way towards creation of a funded working group to formulate our Vision Statement. Ultimately, this skill tree leads to high quality operational achievements such as organizational charts and workstreams, budget proposals that align with the intention of the DAO, diverse and effective contributors and more. Our Mission Statement will be a philosophical rally point for the entire community, and provide a stronghold to empower players to own, build, grow, and connect in a multiverse of their own creation.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1141459848245018755)
+
+Option 1: Approve
+
+Option 2: Needs Slight Changes
+
+Option 3: Something Else Entirely
+
+**Voting Period:** 7 - 14 November 2023
+
+**Kết quả:**
+
+table_agip98
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xc4a9034b518ae0ba34181e3f835fa1f525efbf9bc1172b2cdd3fac7bfda5599e)
+
+<hr />
+
+### Gotchi Greetoors (formerly ITF) Funding
+**Aavegotchi Improvement Proposal #99**
+
+**Proposal Summary:** As we are on the precipice of multiple releases of new games and a refreshed Gotchiverse, I believe it is time for the DAO to take our IRL presence to the next level! Pixelcraft has stepped up big time, putting in some aavesome efforts with the BFG and new booth design. Now it’s time for us to take that and show the world what Gotchigaang is all about! I am proposing the creation of the Gotchi Greetoors (formerly ITF), which would be responsible for the following:
+
+* Coordinate IRL strategy in collaboration with Pixelcraft
+
+* Handling administrative tasks on behalf of the DAO (Business Development, Partnerships, onboarding of talent, administrative duties, general networking)
+
+* Source a minimum of 25% of event/booth staff from local dao members where/when applicable
+
+* Manage event booth + staff in tandem with Lost Local or other PC employees
+
+* Find lodging to house DAO staff members for the duration of the event at a budget-friendly price
+
+* DAO-related content capture, post production of content, and ensuring timely delivery of said DAO content to social streams and proof-of-attendance via live streaming
+
+* Explore feasibility of creating DAO revenue streams via DAO-sourced merch, ticketed events, IRL tournaments, etc
+
+* Developing DAO-to-DAO and DAO-to-influencer collaborations for events and content capture
+
+* Coordinate DAO representation at events outside of PC’s scope that are beneficial to the DAO
+
+* Curate and source lRL wearables for gotchigang attending each event
+
+* Quarterly reporting on task force activity
+
+* Budgets for previous & following quarter
+
+* Report on events attended (bizdev + partnership leads, activations, etc.)
+
+* Strategy for upcoming quarter’s events
+
+* Planning Phase 2 for implementation after event strategy has been perfected
+
+* community led meetups + tournaments in gotchi IRL hot zones, GotchiCon, more TBD
+
+This team would consist of:
+
+* Litepiglet - Admin Lead
+
+* Nofuturistic - Media Lead
+
+* Lost Local - Pixelcraft Liaison
+
+* Tburd - Lead Support or aka assistant to the assistant regional manager
+
+We are requesting a total budget of $80,000 paid as $20,000 per quarter, in USDC or DAI, which would be converted to USDC upon transfer. This task force would need to submit for funding for any additional time period after the first year. This funding would rollover to the following quarter if it is not spent in the previous one and any excess would be returned to the DAO after the 1 year funding period is up. These funds will be used for DAO member payments for the following:
+
+* Travel
+
+* Per diem
+
+* Event/booth work
+
+* Incidental travel expenses (lost luggage, flight delays, etc)
+
+Also included would be quarterly compensation to the task force in the following amounts:
+
+* Nofuturistic - 750 USDC
+
+* Litepiglet - 500 USDC
+
+* Tburd - 350 USDC
+
+Option 1: Yes fund
+
+Option 2: No do not fund
+
+**Voting Period:** 7 - 14 November 2023
+
+**Kết quả:**
+
+table_agip99
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x551268ae0158295bfa0e818cac2ddf1356149f1dfbdb9727028f29833b3e53e5)
 
 <hr />
 
