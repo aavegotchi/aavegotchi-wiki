@@ -22,6 +22,16 @@ contributors:
 
 ## Year 2023
 
+## [Eighteen new Wearable Schematics are hot off the presses, ready for forging 🔥](https://blog.aavegotchi.com/terrifying-nightmare-fuel-now-heres-how-to-get-them/)
+* Voted on by AavegotchiDAO, these eighteen new Schematics fill the trait gaps in all six rarity levels, ensuring your Gotchi has the widest range of wearable combinations to choose from
+* In line with the method proposed in AGIP90, this new batch of Schematics will be distributed 40% via FRENS Raffle, and 60% via Geodes
+* The Raffle will be held December 13-16. Beginning at 2:30PM UTC on December 13, it ends at 2:30PM UTC on December 16th, coinciding with the Aavegotchi community hangout
+<p></p>
+
+## [Spirit Force Arena is soft launching first on HyperPlay!](https://blog.aavegotchi.com/spirit-force-arena-is-soft-launching-first-on-hyperplay/)
+* Spirit Force Arena, the first Battle Royale game from Aavegotchi, will list on HyperPlay with an exclusive early access DEMO version starting November 17th at 5PM UTC (9AM PST)!
+<p></p>
+
 ## [Test Your Skill in the Arena Playtest](https://blog.aavegotchi.com/happening-now-test-your-skill-in-the-arena-playtest/)
 * The much-awaited Aavegotchi Arena Playtest has officially begun!
 * Download the build and try it out
