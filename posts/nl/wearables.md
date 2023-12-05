@@ -67,6 +67,7 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 <li><a href=#partnerships-set>Partnerschappen Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 </ol>
 
 </div>
@@ -251,3 +252,7 @@ tafel_DeFiRPGTable
 ## Forge Wearables
 
 table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
