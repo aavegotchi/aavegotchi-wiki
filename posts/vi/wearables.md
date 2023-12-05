@@ -67,6 +67,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 <li><a href=#partnerships-set>Trang phục Đối Tác</a></li>
 <li><a href=#defi-rpg-wearables>Trang Phục DeFi RPG</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 </ol>
 
 </div>
@@ -251,3 +252,7 @@ table_DeFiRPGTable
 ## Forge Wearables
 
 table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
