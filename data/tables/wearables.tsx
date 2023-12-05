@@ -592,6 +592,34 @@ export const tables
             }
         },
 
+		{
+            tableName: "forgeWearables2Table",
+            tableCaption: "Forge Wearables 2",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img style="object-fit:contain" src="/wearables/forge2/370_WavyHair.svg" alt="aavegotchi Wavy Hair" title="Wavy Hair"/>`, `370`, `Wavy Hair`, `Common`, `NRG +1`, `1000`, `head`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/371_PlasticEarrings.svg" alt="aavegotchi Plastic Earrings" title="Plastic Earrings"/>`, `371`, `Plastic Earrings`, `Common`, `NRG +1`, `1000`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/372_PartyDress.svg" alt="aavegotchi Party Dress" title="Party Dress"/>`, `372`, `Party Dress`, `Common`, `BRN +1`, `1000`, `body`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/373_Overalls.svg" alt="aavegotchi Overalls" title="Overalls"/>`, `373`, `Overalls`, `Uncommon`, `SPK -2`, `500`, `body`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/374_LensFrensPlant.svg" alt="aavegotchi Lens n Frens Plant" title="Lens n Frens Plant"/>`, `374`, `Lens n Frens Plant`, `Rare`, `NRG +2, BRN -1`, `250`, `pet`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/375_GMSeeds.svg" alt="aavegotchi GM Seeds" title="GM Seeds"/>`, `375`, `GM Seeds`, `Common`, `SPK -1`, `1000`, `left hand`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/376_LickBrain.svg" alt="aavegotchi Lick Brain" title="Lick Brain"/>`, `376`, `Lick Brain`, `Rare`, `AGG +2, BRN -1`, `250`, `head`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/377_LickEyes.svg" alt="aavegotchi Lick Eyes" title="Lick Eyes"/>`, `377`, `Lick Eyes`, `Uncommon`, `SPK -2`, `500`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/378_LickTongue.svg" alt="aavegotchi Lick Tongue" title="Lick Tongue"/>`, `378`, `Lick Tongue`, `Rare`, `SPK -3`, `250`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/379_LickTentacle.svg" alt="aavegotchi Lick Tentacle" title="Lick Tentacle"/>`, `379`, `Lick Tentacle`, `Rare`, `NRG -3`, `250`, `hand`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/380_SebastienHair.svg" alt="aavegotchi Sebastien Hair" title="Sebastien Hair"/>`, `380`, `Sebastien Hair`, `Legendary`, `NRG +2, SPK -2`, `100`, `head`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/381_VoxelEyes.svg" alt="aavegotchi Voxel Eyes" title="Voxel Eyes"/>`, `381`, `Voxel Eyes`, `Legendary`, `NRG +1, AGG -3`, `100`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/382_GOATee.svg" alt="aavegotchi GOAT-ee" title="GOAT-ee"/>`, `382`, `GOAT-ee`, `Legendary`, `NRG +1, AGG -3`, `100`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/383_SandboxHoodie.svg" alt="aavegotchi Sandbox Hoodie" title="Sandbox Hoodie"/>`, `383`, `Sandbox Hoodie`, `Legendary`, `NRG +3, AGG -1`, `100`, `body`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/384_Faangs.svg" alt="aavegotchi Faangs" title="Faangs"/>`, `384`, `Faangs`, `Mythical`, `SPK +5`, `50`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/385_BlockScanners.svg" alt="aavegotchi Block Scanners" title="Block Scanners"/>`, `385`, `Block Scanners`, `Godlike`, `NRG +6`, `5`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/386_StaffCharming.svg" alt="aavegotchi Staff of Charming" title="Staff of Charming"/>`, `386`, `Staff of Charming`, `Godlike`, `NRG -4, BRN -2`, `5`, `hands`],
+					[`<img style="object-fit:contain" src="/wearables/forge2/387_Roflnoggin.svg" alt="aavegotchi Roflnoggin" title="Roflnoggin"/>`, `387`, `Roflnoggin`, `Godlike`, `BRN -6`, `5`, `head`]
+                ]
+            }
+        },
+
         {
             tableName: "wearablesBRStable",
             tableCaption: "Wearable Rarity and BRS Bonus",
