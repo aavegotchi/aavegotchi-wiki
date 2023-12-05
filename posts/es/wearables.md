@@ -67,6 +67,7 @@ Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets
 <li><a href=#partnerships-set>Set de Partnerships</a></li>
 <li><a href=#defi-rpg-wearables>RPG DeFi Equipables</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 </ol>
 
 </div>
@@ -251,3 +252,7 @@ table_DeFiRPGTable
 ## Forge Wearables
 
 table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
