@@ -1286,6 +1286,30 @@ export const tables
         },
 		
 		{
+            tableName: "agip100",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund Mechagotchis V1", "10,000,000 GHST (89.15%)"],
+					["No, do not fund", "1,200,000 GHST (10.85%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip101",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund!", "11,000,000 GHST (91.02%)"],
+					["No, don't fund", "1,000,000 GHST (8.98%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {

@@ -117,6 +117,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#gotchi-crawler-leaderboard-prize-pool-funding>Gotchi Crawler Leaderboard Prize Pool Funding</a></li>
 <li><a href=#aavegotchi-dao-mission-statement>Aavegotchi DAO Mission Statement</a></li>
 <li><a href=#gotchi-greetoors--formerly-itf--funding>Gotchi Greetoors (formerly ITF) Funding</a></li>
+<li><a href=#mechagotchis-v1>Mechagotchis V1</a></li>
+<li><a href=#strategotchi-v1--funding-proposal>Strategotchi V1: Funding Proposal</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -5293,6 +5295,7 @@ table_agip98
 **Aavegotchi Improvement Proposal #99**
 
 **Proposal Summary:**
+
 As we are on the precipice of multiple releases of new games and a refreshed Gotchiverse, I believe it is time for the DAO to take our IRL presence to the next level! Pixelcraft has stepped up big time, putting in some aavesome efforts with the BFG and new booth design. Now it’s time for us to take that and show the world what Gotchigaang is all about! I am proposing the creation of the Gotchi Greetoors (formerly ITF), which would be responsible for the following:
 
 * Coordinate IRL strategy in collaboration with Pixelcraft
@@ -5366,6 +5369,153 @@ Option 2: No do not fund
 table_agip99
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x551268ae0158295bfa0e818cac2ddf1356149f1dfbdb9727028f29833b3e53e5)
+
+<hr>
+
+### Mechagotchis V1
+**Aavegotchi Improvement Proposal #100**
+
+**Proposal Summary:**
+
+Set in a remote training ground somewhere in the Gotchiverse, players will be able to engage in intense PvP battles. For game mode 1 we'll be focused on multiplayer and damage system development, followed by Gotchi trait integration and mech customization.
+
+*Game Mechanics*
+
+Players will pilot their Mechagotchis using a mouse and keyboard , with future updates to include controller support.
+
+The game's mechanics are deeply tied to the Gotchi traits, which tentatively influence mech performance as follows:
+
+* Energy: Balances Health Points and Action Points.
+
+* Aggression: Dictates the strength of Shields and Attack Speed.
+
+* Spookyness: Affects the chance for Dodge and Critical Hits.
+
+* Brain Size: Determines the power of Melee versus Ranged attacks.
+
+* Eyes shape and Color effect TBC
+
+*Blockchain Integration*
+
+Blockchain technology is at the heart of Mechagotchis, enabling the distribution of reward tokens and NFTs that represent rare mech upgrades and to verify ownership for exclusive in-game content (eg. LE Gold Skin for Mechagotchi FAKEgotchi holders.)
+
+*Community Engagement*
+
+The game will foster community involvement through active dev logs, Beta test parties, a community mech design contest, and potentially even a level-builder for user-generated maps. And of course at the end of each phase’s development we will hold our usual XP event/ playtest. These initiatives should contribute to the game's evolution as well as engage players and help them feel more involved in the development process.
+
+*Platform*
+
+Mechagotchis is a web-based PC game developed in Unity, ensuring broad accessibility while maintaining high-quality graphics and gameplay.
+
+*Customization*
+
+Mech customization will evolve from simple paint jobs to extensive modifications, including weapons, armor, and other mech parts, allowing players to tailor their combatants to their playstyle, modifying their in-game behavior. Think of this part like “wearables for your mech”
+
+*Timeline*
+
+This proposal is to fund development of game mode 1, which is expected to enter beta testing within two months. Milestones will include devlogs, environment designs, secondary mech design finalization, closed group beta testing, wider testing, and an XP event tournament!
+
+*Expected Costs*
+
+Total Cost: 20K USD
+
+Breakdown:
+
+* 4K - Project Management
+
+* 5K - 3D modeling/Animation/Rigging
+
+* 4K - Front-end Development
+
+* 6K - Back-end Development
+
+* 1K - Server Deployment + maintenance
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1171486760618950707)
+
+Option 1: Fund Mechagotchis V1
+
+Option 2: No, do not fund
+
+**Voting Period:** 30 November - 14 December 2023
+
+**Results:**
+
+table_agip100
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd26cce5529ae0bf5bdba4c17d3a9a39c823c186c86ed3805ad9fc1876d14bd87)
+
+<hr>
+
+### Strategotchi V1: Funding Proposal
+**Aavegotchi Improvement Proposal #101**
+
+**Proposal Summary:**
+
+The original version of Strategotchi was proposed as a strategy game that featured lengthy multiplayer games. Following community feedback, significant refinements were made to the game concept, mechanics, and graphics.
+
+*Strategotchi Tactics Litepaper:*
+
+[https://docs.google.com/document/d/17dtKyTLHUWB35UxmfNXlXl9TK6mRCsbHkuxkiJht6Q4](https://docs.google.com/document/d/17dtKyTLHUWB35UxmfNXlXl9TK6mRCsbHkuxkiJht6Q4)
+
+Since the initial vote, the game's development has been ongoing, with the focus shifting towards a single-player experience, blending elements of a tactical RPG, rogue-lite and a puzzle game. The current iteration presents an innovative blend, requiring players to skillfully manage various elements of a mining operation.
+
+*Gameplay:*
+
+The game is essentially a puzzler disguised as a tactical RPG. Individual levels are puzzle-like, with moveable pieces and a finite number of rounds to achieve your goals, yet there is a heavy emphasis on battle strategy. You train and build your Gotchis (predefined avatars and actual Gotchis) the way you want, utilizing various classes with unique advantages.
+
+The weapons and Gotchis you choose define your play style. Each protocol weapon has a unique effect that “moves things” around in different ways. Typical attacks cause damage as well as push units back. Lassos pull things. Grenades disperse crowds. Other weapons might temporarily freeze or teleport units to another location. With the multitude of available weapons in the Aavegotchi protocol, players will be able to tailor unique teams to suit their play style and gain experience to upgrade and grow their characters and equipment as they see fit.
+
+*Level Progression:*
+
+The game incorporates rogue-like elements (resembling a dungeon run) where you try to get as far as you can through a series of procedurally generated landscapes. Players aim to harvest as much REDACTED as they can to stop their Reputation (REP) from inevitably reaching zero. Luckily you can use earnings to buy your REP back from shady characters you meet in the wild. Earnings can also be used to upgrade weapons and equipment, enhancing the player's chances of advancing further.
+
+*V1 Overview:*
+
+V1’s objective is to highlight the core gameplay mechanics, offering a glimpse into the possibilities of Strategotchi. It will showcase a singular game mode featuring an “infinite island” (dungeon) with a predefined party of avatars. Your aim is to progress as far as possible through the island and maintain your REP, clearing procedurally generated levels with unique parameters. Once you lose your REP, your run is over and your final score is tallied.
+
+*Current Development Status:*
+
+The project has achieved significant milestones, including fully modeled assets, procedural level generation, functional player and enemy systems, enemy AI and targeting mechanisms. The front end has been completely revamped from the initial prototype and the GUI has been redesigned and partially implemented
+
+*Remaining Tasks:*
+
+* Revamp player movement system
+
+* Revamp player interaction system
+
+* Create inter collision damage system
+
+* Complete GUI implementation
+
+* Sound design
+
+* Leaderboards
+
+* Juice/eye candy/VFX
+
+*Funding Request*
+
+Seeking a $12,000 grant in USD equivalent (USDC or DAI) to expedite Unity development and accelerate the completion of V1. The funding will support finalization of the remaining tasks and shipping of a playable game within a 4-6 week timeframe.
+
+*Conclusion:*
+
+Thank you for taking the time to read this proposal. Join the Strategotchi discord and follow the Strategotchi gaming channel on official discord to learn more about what’s happening behind the scenes, give suggestions and feedback and generally stay up to date on the development of the project.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1168845205999464549)
+
+Option 1: Yes, fund!
+
+Option 2: No, don't fund
+
+**Voting Period:** 30 November - 14 December 2023
+
+**Results:**
+
+table_agip101
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xce52040a02927a460303484c408f10ac0405a2c4bb3ffa1a0262ab5b42f9df44)
+
 
 <hr>
 
