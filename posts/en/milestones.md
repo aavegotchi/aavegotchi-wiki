@@ -21,6 +21,10 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [The 2023 Godlike Green Aavegotchi Holiday Sweater!](https://blog.aavegotchi.com/the-2023-godlike-green-aavegotchi-holiday-sweater/)
+* Gotchigang, are you ready to get your hands on the 2023 Godlike Green Aavegotchi Holiday Sweater?!?!
+<p></p>
+
 ## [Eighteen new Wearable Schematics are hot off the presses, ready for forging 🔥](https://blog.aavegotchi.com/terrifying-nightmare-fuel-now-heres-how-to-get-them/)
 * Voted on by AavegotchiDAO, these eighteen new Schematics fill the trait gaps in all six rarity levels, ensuring your Gotchi has the widest range of wearable combinations to choose from
 * In line with the method proposed in AGIP90, this new batch of Schematics will be distributed 40% via FRENS Raffle, and 60% via Geodes
