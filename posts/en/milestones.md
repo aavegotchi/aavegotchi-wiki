@@ -21,6 +21,10 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2023
 
+## [5 Exciting New Developments Coming to Aavegotchi in 2024](https://blog.aavegotchi.com/5-exciting-new-developments-coming-to-aavegotchi-in-2024/)
+* Frens, are you ready for the Aavegotchi Gaming Console, GHST Staking 2.0, Aavegotchi Gaming Console NFT Mint, More Game Releases, and Expansion of the Baazaar in 2024?!?!
+<p></p>
+
 ## [The 2023 Godlike Green Aavegotchi Holiday Sweater!](https://blog.aavegotchi.com/the-2023-godlike-green-aavegotchi-holiday-sweater/)
 * Gotchigang, are you ready to get your hands on the 2023 Godlike Green Aavegotchi Holiday Sweater?!?!
 <p></p>
