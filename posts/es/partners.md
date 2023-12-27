@@ -39,6 +39,7 @@ Aavegotchi es un proyecto amistoso. ¡Conoce a nuestros amigos aquí!
 <p><a href=#carv>CARV</a></p>
 <p><a href=#helika-analytics>Helika Analytics</a></p>
 <p><a href=#metacade>Metacade</a></p>
+<p><a href=#1kin-labs>1Kin Labs</a></p>
 </ol>
 
 </div>
@@ -269,3 +270,12 @@ Helika helps gaming studios make strategic decisions with no-code analytics.
 The premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration.
 
 Our Mission: To supercharge, reward and connect developers and players, providing an unfair advantage through plug-and-play community initiatives and testing, early access, dev-player collaboration, financial rewards, gigs, accolades and a thriving ecosystem, all in a seamless, enjoyable platform.
+
+### 1Kin Labs
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/1kin-labs.jpg" alt="1Kin Labs">
+<p class="leftImageText"><a href="https://twitter.com/1KinLabs" target="_blank">1Kin Labs</a></p>
+</div>
+
+1KIN is building the next generation platform for gamers to discover and connect with the world’s best community driven games. The 1KIN platform facilitates the discovery, distribution and true digital ownership of gaming assets with cutting edge technology.
