@@ -37,6 +37,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#gameswift>GameSwift</a></p>
 <p><a href=#carv>CARV</a></p>
 <p><a href=#helika-analytics>Helika Analytics</a></p>
+<p><a href=#metacade>Metacade</a></p>
 </ol>
 
 </div>
@@ -256,3 +257,14 @@ The name CARV is derived from the verb "carve", which means to cut or shape some
 </div>
 
 Helika helps gaming studios make strategic decisions with no-code analytics.
+
+### Metacade
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/metacade.jpg" alt="Metacade">
+<p class="leftImageText"><a href="https://twitter.com/Metacade_" target="_blank">Metacade</a></p>
+</div>
+
+The premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration.
+
+Our Mission: To supercharge, reward and connect developers and players, providing an unfair advantage through plug-and-play community initiatives and testing, early access, dev-player collaboration, financial rewards, gigs, accolades and a thriving ecosystem, all in a seamless, enjoyable platform.
