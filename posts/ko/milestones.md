@@ -12,6 +12,7 @@ contributors:
 ** 목차 **
 
 <ol>
+<li><a href=#year-2024>Year 2024</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -19,6 +20,12 @@ contributors:
 </ol>
 
 </div>
+
+## Year 2024
+
+## [3 Gotchi Battler tournaments to pit your Gotchis to the test!](https://blog.aavegotchi.com/enter-now-three-epic-tournaments-one-massive-100-000-prize-pool/)
+* Form your team of 5 Gotchis and get ready to rumble!
+<p></p>
 
 ## Year 2023
 
