@@ -79,7 +79,7 @@ export const tables
 					[`<img src="/wearables/ethereum/ETH TSHIRT.svg" alt="aavegotchi ETH T-Shirt" title="ETH TShirt"/>`, "37", "ETH TShirt", "Common", "BRN -1", "1000", "body"],
 					[`<img src="/wearables/ethereum/32 ETH COIN.svg" alt="aavegotchi 32 ETH Coin" title="32 ETH Coin"/>`, "38", "32 ETH Coin", "Common", "BRN -1", "1000", "right hand"],
 					[`<img src="/wearables/ethereum/FOXY MASK.svg" alt="aavegotchi Foxy Mask" title="Foxy Mask"/>`, "39", "Foxy Mask", "Uncommon", "AGG -2", "500", "head"],
-					[`<img src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail"/>`, "40", "Foxy Tail", "Uncommon", "AGG -1, SPK -1", "500", "petBack"],
+					[`<img src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail"/>`, "40", "Foxy Tail", "Uncommon", "AGG -1, SPK -1", "500", "pet"],
 					[`<img src="/wearables/ethereum/TREZOR WALLET.svg" alt="aavegotchi Trezor Wallet" title="Trezor Wallet"/>`, "41", "Trezor Wallet", "Uncommon", "NRG -1, AGG -1", "500", "hands"],
 					[`<img src="/wearables/ethereum/EAGLE MASK.svg" alt="aavegotchi Eagle Mask" title="Eagle Mask"/>`, "42", "Eagle Mask", "Rare", "NRG +1, SPK +2", "250", "head"],
 					[`<img src="/wearables/ethereum/NOGARA ARMOR.svg" alt="aavegotchi Nogara Armor" title="Nogara Armor"/>`, "43", "Nogara Armor", "Rare", "NRG +2, SPK +1", "250", "body"],
