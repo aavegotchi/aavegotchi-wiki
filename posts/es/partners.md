@@ -40,6 +40,7 @@ Aavegotchi es un proyecto amistoso. ¡Conoce a nuestros amigos aquí!
 <p><a href=#helika-analytics>Helika Analytics</a></p>
 <p><a href=#metacade>Metacade</a></p>
 <p><a href=#1kin-labs>1Kin Labs</a></p>
+<p><a href=#nitro-league>Nitro League</a></p>
 </ol>
 
 </div>
@@ -279,3 +280,12 @@ Our Mission: To supercharge, reward and connect developers and players, providin
 </div>
 
 1KIN is building the next generation platform for gamers to discover and connect with the world’s best community driven games. The 1KIN platform facilitates the discovery, distribution and true digital ownership of gaming assets with cutting edge technology.
+
+### Nitro League
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/nitro-league.jpg" alt="Nitro League">
+<p class="leftImageText"><a href="https://twitter.com/nitroleaguegame" target="_blank">Nitro League</a></p>
+</div>
+
+Nitro League is a racing metaverse that's perfect for both hardcore gamers and casual players alike. This immersive world combines the best of Game-Fi to create an unforgettable gaming experience.
