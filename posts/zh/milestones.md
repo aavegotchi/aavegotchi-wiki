@@ -23,6 +23,12 @@ contributors:
 
 ## Year 2024
 
+## [January 2024 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-january-2024/)
+* Launch details for the Aavegotchi Gaming Console!
+* Updates on the 3D Gotchiverse!
+* ....And tons of new games to look forward to!
+<p></p>
+
 ## [3 Gotchi Battler tournaments to pit your Gotchis to the test!](https://blog.aavegotchi.com/enter-now-three-epic-tournaments-one-massive-100-000-prize-pool/)
 * Form your team of 5 Gotchis and get ready to rumble!
 <p></p>
