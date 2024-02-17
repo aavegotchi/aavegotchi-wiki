@@ -1310,6 +1310,42 @@ export const tables
         },
 		
 		{
+            tableName: "agip102",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund", "9,100,000 GHST (80.3%)"],
+					["No, do not fund", "2,200,000 GHST (19.7%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip103",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Buy 3M DAI worth of ETH.", "8,500,000 GHST (89.15%)"],
+					["No. Do not buy ETH.", "1,000,000 GHST (10.85%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip104",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, upgrade!", "9,600,000 GHST (93.34%)"],
+					["No, don't upgrade", "689,000 GHST (6.66%)"]
+				]
+            }
+        },
+		
+		{
             tableName: "marketplaceName",
             tableCaption: "",
             tableData: {
