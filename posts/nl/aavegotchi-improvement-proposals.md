@@ -120,6 +120,9 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#gotchi-greetoors--formerly-itf--funding>Gotchi Greetoors (formerly ITF) Funding</a></li>
 <li><a href=#mechagotchis-v1>Mechagotchis V1</a></li>
 <li><a href=#strategotchi-v1--funding-proposal>Strategotchi V1: Funding Proposal</a></li>
+<li><a href=#dropt---tfg-alpha-funding-proposal>Dropt | TFG Alpha Funding Proposal</a></li>
+<li><a href=#strategic-treasury-diversification-into-ethereum-with--3m-eth-purchase>Strategic Treasury Diversification into Ethereum with $3M ETH Purchase</a></li>
+<li><a href=#upgrading-the-atf>Upgrading the ATF</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -5485,6 +5488,280 @@ table_agip101
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xce52040a02927a460303484c408f10ac0405a2c4bb3ffa1a0262ab5b42f9df44)
 
+<hr />
+
+### Dropt | TFG Alpha Funding Proposal
+**Aavegotchi Improvement Proposal #102**
+
+**Voorstel Samenvatting:**
+
+Gm frens. It is with great pleasure to present today the Dropt | The Fallen Gotchi alpha proposal.
+
+The Demo Phase was a great success and proof of concept. Now, we're ready to scale our efforts. The Alpha Phase is designed to be our biggest and we will be building the vast majority of game features.
+
+The extensive game design document can be found [here](https://docs.google.com/document/d/1UOCVKlULVaLmuWLvUkZqFJWOGv3GnTm3eIppvsZWy5c).
+
+We have an expected road map of twelve months with key deliverables slated for each month.
+
+During our alpha build, we will keep the Demo open and available for play. We will also host at least one community play test during the year.
+
+Please review our roadmap [here](https://docs.google.com/document/d/1awuFtmTC-Ajpv9N_sMn1Nc5zz0-N9oQklYql5mVbnrM).
+
+*Alpha Phase Key Deliverables*
+
+Please review the design docs as the deliverables are extensive.
+
+The high-level deliverables:
+
+* Port game to Unity
+
+* All wearables, pets, and weapons implemented
+
+* Alchemica power-ups implemented
+
+* In-app purchase implemented
+
+* Essence burn implemented
+
+* Additional resource sink implemented
+
+* Vastly improved enemy AI
+
+* More enemies
+
+* Two bosses
+
+* New biome- geode mines
+
+* New overworld- Degenape village
+
+* Difficulty adjuster - Frequency Disruptor implemented
+
+* Meta progress implemented
+
+* Improved HUD, UX, and website
+
+* And much, much more...
+
+*Timeline*
+
+Our expected timeline is twelve months. Please see the road map for key dates and deliverables
+
+*Funding Request*
+
+Team Funding
+
+The demo phase was a part-time endeavour. However for the alpha phase, both Oliver and Slick will be stepping into this project full-time.
+
+* Oliver- project management and game designer, lead artist: 13,000 DAI per month for 156,000 in total
+
+* Slick - lead dev and game design: 13,000 DAI per month for 156,000 in total
+
+External Funding Requirements
+
+* Junior artist and animator - 5,000 DAI
+
+* Outsourced dev work - 20,000 DAI
+
+* Extensive play testing - 10,000 GHST
+
+* Web UI/UX - 3,000 DAI
+
+* Smart contract developer - 5,000 DAI
+
+* Audio & SFX - 1,200 DAI
+
+* Story crafter - 800 DAI
+
+* Someone who can help bring all the story elements into a bundled presentation that we can world-build from.
+
+* Marketing and promotions - 10,000 GHST
+
+* Bounties - 10,000 GHST
+
+* Servers and other operating expenses for twelve months - 6,000 DAI
+
+Total DAI: 353,000
+
+Total GHST: 30,000
+
+Funding would be allocated as follows:
+
+* 40% upon passing of prop
+
+* 30% upon completion of December - April “Deliverables” found in the roadmap document
+
+* 30% upon completion of May - August “Deliverables” found in the roadmap document
+
+All funds sent to: 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
+
+Thank you for supporting us on this journey. We look forward to continue building and will bring our full love and energy into the next leg of the journey.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1182344178848505876)
+
+Option 1: Yes, fund
+
+Option 2: No, do not fund
+
+**Voting Period:** 18 December 2023 - 1 January 2024
+
+**Resultaten:**
+
+table_agip102
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xac53f22b919be753d98f159df7d5f6883861ecb7c5c47f35b3ebfdec2f6be3c6)
+
+<hr />
+
+### Strategic Treasury Diversification into Ethereum with $3M ETH Purchase
+**Aavegotchi Improvement Proposal #103**
+
+**Voorstel Samenvatting:**
+
+The proposal recommends the Aavegotchi DAO to diversify its treasury by purchasing 3,000,000 DAI worth of ETH. This acquisition would be executed through Cowswap on the Ethereum blockchain, divided into six weekly tranches of 500,000 DAI each. Funds will come from the DAO Foundation Treasury Wallet which stems from the 25% treasury allocation after curve closure.
+
+*Current Treasury Composition:*
+
+* GHST: 16,223,059 ($16,098,141 @ $0.9923)
+
+* DAI: 8,886,873
+
+* USDC: 3,756,276
+
+Total Value: $28,741,290
+
+*Post-Purchase Treasury Composition:*
+
+* GHST: $16,098,141 (56%)
+
+* USDC: $3,756,276 (13%)
+
+* DAI: $5,886,873 (21%)
+
+* ETH: $3,000,000 (10%)
+
+*Benefits:*
+
+* Enhanced Portfolio Diversification: Acquiring ETH introduces a high-potential asset, reducing overreliance on stablecoins and GHST.
+
+* Reduced DAI Exposure: Decreases dependency on a single stablecoin, mitigating specific stablecoin risks.
+
+* Hedging Against Inflation: ETH, as a non-fiat asset, offers a hedge against USD inflationary pressures.
+
+* Capital Appreciation Potential: ETH has historically shown significant growth potential, offering possible higher returns compared to stablecoins.
+
+* Access to DeFi Opportunities: ETH holdings can be leveraged for staking or other DeFi instruments, potentially generating additional revenue.
+
+* Simple Execution: The proposed method of acquisition is straightforward and can be executed with relative ease.
+
+*Additional Benefits:*
+
+* Liquidity and Market Depth: ETH, being a major cryptocurrency, offers high liquidity and market depth, facilitating easy entry and exit.
+
+* Community Engagement: Participation in a major blockchain like Ethereum could enhance community engagement and visibility.
+
+*Potential Risks and Challenges:*
+
+* Market Volatility: ETH is subject to high price volatility, which could significantly impact the value of the DAO's treasury.
+
+* Accessibility of Funds: Allocating a portion of funds in ETH may complicate treasury access, as proposals would need to clearly specify fund origination requiring additional transactions by the Directors.
+
+*Execution:*
+
+The purchase will come from the DAO Director Multisig Safe (0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62) using funds from the DAO Foundation Treasury Wallet (0x939b67F6F6BE63E09B0258621c5A24eecB92631c). The purchases will be made in 6 equal, weekly tranches of 500,000 DAI using Cowswap.
+
+*Conclusion:*
+
+This proposal strategically diversifies the Aavegotchi DAO’s treasury by leveraging the potential of Ethereum while being mindful of the associated risks. If this proposal is accepted by the Aavegotchi DAO, a separate, second proposal will be produced to consider staking acquired ETH on Lido.
+
+Reference Material: (Aavegotchi DAO Treasury Report): [https://docs.google.com/document/d/1u-hODswpYcLSJhCh4y6SNoR-17rClwenenmU71Ag9Og](https://docs.google.com/document/d/1u-hODswpYcLSJhCh4y6SNoR-17rClwenenmU71Ag9Og)
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1178398712817516704)
+
+Option 1: Yes. Buy 3M DAI worth of ETH.
+
+Option 2: No. Do not buy ETH.
+
+**Voting Period:** 20 December 2023 - 3 January 2024
+
+**Resultaten:**
+
+table_agip103
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x2585c9a492118092309a0c60738f704129297e4384c7bec47694e02a6448bf94)
+
+<hr />
+
+### Upgrading the ATF
+**Aavegotchi Improvement Proposal #104**
+
+**Voorstel Samenvatting:**
+
+*Background*
+
+The ATF was officially formed in [AGIP54](https://snapshot.org/#/aavegotchi.eth/proposal/0x123768584b0e878a6466a293e402702de7427f0657ea24fd60d71589d0b3003e). In amost a year, there has only been one request to the ATF for prize pool funding and 99,500 GHST remains along with 70+ Fake Cards in the ATF treasury wallet:
+
+* 0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f
+
+*Probleem*
+
+The ATF treasury is under-utilized. Uptake on prize pool funds has been minimal due to lack of new minigames. There have also been instances where more substantial Aavegotchi games have requested funds but due to the ATF’s hard limit of 500 GHST per game, they have instead had to complete a full SigProp/CoreProp application to the DAO. Bv. [AGIP 97](https://snapshot.org/#/aavegotchi.eth/proposal/0x5fa86c431e3e0d5429906f86d1182781b7f0366f554a57631cf0c8fd2dd1c2b5).
+
+*Oplossing*
+
+The ATF would like to propose the following updates to their operation of treasury funds so that individual game developers can apply for, and be granted up to:
+
+* 4000 GHST per calendar year to fund their gaming prize pools
+
+* 5 fake gotchi cards per calendar year to be used as part of their game competitions
+
+* 1000 GHST per calendar year to assist with server hosting costs, playtest funding, fake gotchi artist commissions, marketing and any other activities that help raise awareness for, or assist development of, their game.
+
+*End Goal & Benefits*
+
+This proposal will:
+
+* Allow game developers more flexibility when creating prize pools
+
+* Create quicker turnaround for funding approvals
+
+* Encourage use of predominantly dormant ATF prize pool funds that are available for the community
+
+*Updated ATF Members*
+
+As per original ATF creation proposal, 4 out of 7 signers will be required for all transactions and approval of funding requests. Some of our original signers have now moved on and the updated list of 7 signers will be:
+
+* Slick
+
+* PG
+
+* Scrooger
+
+* Hefe
+
+* Mycaleum
+
+* Laggin
+
+* Chair
+
+Please note, if one of the ATF signers is requesting funding, they will not be able to sign for that specific transaction should the ATF agree to provide funding.
+
+*Besluit*
+
+Thank you for your time Gotchigang, now let's vote!
+
+Option 1: Yes, upgrade!
+
+Option 2: No, don't upgrade
+
+**Voting Period:** 19 December 2023 - 2 January 2024
+
+**Resultaten:**
+
+table_agip104
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xce4c9735a8c6ba58adc123b6e91fe94c729cf45546db88647ecdb9bf77ebb485)
 
 <hr />
 
