@@ -123,6 +123,9 @@ contributors:
 <li><a href=#dropt---tfg-alpha-funding-proposal>Dropt | TFG Alpha Funding Proposal</a></li>
 <li><a href=#strategic-treasury-diversification-into-ethereum-with--3m-eth-purchase>Strategic Treasury Diversification into Ethereum with $3M ETH Purchase</a></li>
 <li><a href=#upgrading-the-atf>Upgrading the ATF</a></li>
+<li><a href=#supply--3-5m-treasury-dai-to-aave>Supply ~3.5M Treasury DAI to Aave</a></li>
+<li><a href=#aavegotchi-x-sandbox-experience---expansion---maintenance>Aavegotchi x Sandbox Experience - Expansion & Maintenance</a></li>
+<li><a href=#gotchi-battler---prize-pool-funding>Gotchi Battler - Prize Pool Funding</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -5762,6 +5765,165 @@ Option 2: No, don't upgrade
 table_agip104
 
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xce4c9735a8c6ba58adc123b6e91fe94c729cf45546db88647ecdb9bf77ebb485)
+
+<hr />
+
+### Supply ~3.5M Treasury DAI to Aave
+**Aavegotchi Improvement Proposal #105**
+
+**提案の要約**
+
+This proposal suggests allocating 3,549,809 DAI from the Aavegotchi DAO Treasury to the Aave V3 Ethereum Market. With an average supply APR of 4.34%, this move aims to generate an annual yield of approximately $154,061, enhancing the DAO's revenue through a stable, high-yield strategy. The proposal ensures over 500,000 DAI remains in the DAO's Polygon wallet for ongoing initiatives, while the rest of the DAI is strategically supplied to Aave. All supplied DAI comes from the 25% post curve closure Treasury Allocation.
+
+*Proposed Porfolio Composition Assuming AGIP 103 Passes*
+
+Proposed Portfolio USD Value
+
+* GHST (0.904) 15017760.91
+
+* USDC 3756276
+
+* Supplied DAI 3549809
+
+* Unsupplied DAI 2337064
+
+* ETH (not yet purchased) 3000000
+
+*Benefits:*
+
+1. Passive Income: Leverages a stable, high-yield avenue for revenue generation without active management.
+
+2. Flexibility: Easy entry and exit strategies for the supplied positions, offering liquidity management benefits.
+
+3. Market Optimism: Positions the DAO to capitalize on the anticipated increased demand for stablecoins in an upcoming bull market.
+
+4. Diversification: Broadens the DAO's investment portfolio and protects our stablecoins against inflation by generating yield.
+
+*Risks:*
+
+1. Platform Dependence: Relies heavily on the Aave ecosystem and the stability of its smart contracts, introducing platform-specific risks.
+
+2. Liquidity Constraints: Future proposals may require accessing funds from the supplied DAI if the Polygon treasury depletes, potentially affecting liquidity.
+
+3. Market Volatility: Exposure to market fluctuations could affect the APR and overall returns.
+
+4. Smart Contract Vulnerabilities: Despite Aave's track record, the risk of smart contract bugs or exploits remains inherent in DeFi protocols.
+
+The proposal represents a balanced approach to revenue generation and risk management, aiming to strengthen the Aavegotchi DAO's financial position while maintaining operational flexibility.
+
+Reference Material: [Aavegotchi DAO Treasury Report](https://docs.google.com/document/d/1u-hODswpYcLSJhCh4y6SNoR-17rClwenenmU71Ag9Og)
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1171582821010264095)
+
+Option 1: Yes. Supply DAI to Aave.
+
+Option 2: No. Do not supply DAI to Aave.
+
+**Voting Period:** 9 - 23 January 2024
+
+**結果:**
+
+table_agip105
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x7a2767fdecf22ff48fe0cc200c5a4018c8950ab7dbdee8b8f39135bd63733d5f)
+
+<hr />
+
+### Aavegotchi x Sandbox Experience - Expansion & Maintenance
+**Aavegotchi Improvement Proposal #106**
+
+**提案の要約**
+
+This proposal of funding is to empower GFA to operate Pixelcraft lands and partnership for a limited and renewable 6 months duration with as follows duties :
+
+1). Management of Project and Coordination
+
+2). Partnership Management
+
+* Maintain channel of discussion with Sandbox officers like Sebastien Borget
+
+* Upgrades of Aavegotchi avatar collection in Sandbox
+
+* Aavegotchi Assets collection utility and highlight in game
+
+3). Experience Updates
+
+* Management of Aavegotchi Parcels in Sandbox + Collect & analysis of InGame and Traffic datas with TheSandbox
+
+* Upgrades and modifications of experiences due to Sandbox New GameMaker and GameClient release (Forecasted Bi-Monthly for 0.9 minor versions) and specific events
+
+* Interaction in the Slack Technical support with Sandbox Team and ticketing system
+
+4). Organisation and Strategy for futur events
+
+* InGame contests / Social events
+
+* Maintain & highlight Aavegotchi in next mainstream Sandbox events like ie. alpha seasons / IRL events
+
+Please note: the single player experience has been migrated to the latest 0.9.10 Gameclient version and is fully operative as covered!
+
+The overall budget breakdown to achieve those tasks for the 6 months duration of this proposal is 29 460 DAI
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1188051581950759034)
+
+Option 1: Yes, fund
+
+Option 2: No, do not fund
+
+**Voting Period:** 6 - 20 February 2024
+
+**結果:**
+
+table_agip106
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x4c05f8411850c2155c423417c6ce554e1750a04d31ec1b9bf85b716d46a50745)
+
+<hr />
+
+### Gotchi Battler - Prize Pool Funding
+**Aavegotchi Improvement Proposal #107**
+
+**提案の要約**
+
+*IMPORTANT CHANGES FROM SIGPROP*
+
+Following lengthy discussions in the DAO, please note the following changes from the sigprop:
+
+* For Rarity Farming Season 8, Gotchi Battler will receive a 10% allocation of rewards, coming from the BRS leaderboard.
+
+* For Rarity Farming Season 9 and onwards, Gotchi Battler will receive a 20% allocation of rewards, coming from the BRS leaderboard, unless a Coreprop is passed that changes this allocation up or down.
+
+Immaterial has also formally agreed to open-source the Gotchi Battler game logic after Season 8 completes so every battle can be verified after the fact but no advantages can be gained for Season 8 through building simulations. Then, from Season 9 onwards, more complexity/variations will be added so that simulations will be too computationally expensive to be worth it.
+
+Hello frens,
+
+We've been blown away and deeply humbled by all the enthusiasm and support for Gotchi Battler over the last few weeks. We're starting this proposal to deliver on the promise of evolving protocol rewards through the addition of Gotchi Battler as a staple of our Rarity Farming seasons going forward.
+
+The proposed changes to Rarity Farming Rewards are:
+
+Season 8
+
+table_gotchiBattlerSeason8
+
+Season 9 onwards
+
+table_gotchiBattlerSeason9
+
+In line with the original Gotchi Battler proposal [AGIP 86](/aavegotchi-improvement-proposals#gotchi-battler-funding) to gamify protocol rewards, we wish to reallocate 10% from the BRS leaderboard to Gotchi Battler Tournaments for season 8 and 20% from the BRS leaderboard for Season 9 and onwards. Gotchi Battler was designed with this exact purpose in mind to carry on the meta of the BRS leaderboard as much as possible whilst also providing a more engaging and competitive experience for players.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1201505887169286276)
+
+Option 1: Yes, reallocate rewards to GB
+
+Option 2: Do, don't include Gotchi Battler
+
+**Voting Period:** 15 - 29 February 2024
+
+**結果:**
+
+table_agip107
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xd80bddef82f5543ff581139ef060e9571fcf2825df15e7bda7f740cddc6c8459)
 
 <hr />
 
