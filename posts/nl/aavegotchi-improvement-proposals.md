@@ -127,6 +127,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#aavegotchi-x-sandbox-experience---expansion---maintenance>Aavegotchi x Sandbox Experience - Expansion & Maintenance</a></li>
 <li><a href=#gotchi-battler---prize-pool-funding>Gotchi Battler - Prize Pool Funding</a></li>
 <li><a href=#gotchi-battler-v1-5-funding>Gotchi Battler V1.5 funding</a></li>
+<li><a href=#rarity-farming-season-8>Rarity Farming Season 8</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -6008,6 +6009,45 @@ Option 2: No, do not fund
 **Resultaten:**
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5b328a78c8461910ec5cc9240eb9143efcfcc4a537304c30235d969ffab02ec3)
+
+<hr />
+
+### Rarity Farming Season 8
+**Aavegotchi Improvement Proposal #109**
+
+**Voorstel Samenvatting:**
+
+Per our three seasons a year schedule, it is now time to vote on Rarity Farming Season 8
+
+The timing, funding, and configuration of Rarity Farming Season 8 shall be -
+
+* Start Date - March 16th 2:30 PM UTC
+
+* Total Rewards Allocated - 1.5 Million GHST from the player rewards wallet
+
+Pool allocations per category -
+
+* BRS 60%
+
+* KIN 20%
+
+* XP 10%
+
+* Battler 10%
+
+BRS/KIN/XP for top 7500 Gotchis (30% of total)
+
+Battler details and anything not specifically covered in this proposal are to be confirmed later.
+
+Option 1: YES - Make it so!
+
+Option 2: NO - Do not want!
+
+**Voting Period:** 6 - 12 March 2024
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xe2536a75bf80798f65559eeb832312198d9a9c640b5660f432e1e71de60dd945)
 
 <hr />
 
