@@ -126,6 +126,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#supply--3-5m-treasury-dai-to-aave>Supply ~3.5M Treasury DAI to Aave</a></li>
 <li><a href=#aavegotchi-x-sandbox-experience---expansion---maintenance>Aavegotchi x Sandbox Experience - Expansion & Maintenance</a></li>
 <li><a href=#gotchi-battler---prize-pool-funding>Gotchi Battler - Prize Pool Funding</a></li>
+<li><a href=#gotchi-battler-v1-5-funding>Gotchi Battler V1.5 funding</a></li>
 <li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
 <li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
 <li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
@@ -5924,6 +5925,89 @@ Option 2: Do, don't include Gotchi Battler
 table_agip107
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd80bddef82f5543ff581139ef060e9571fcf2825df15e7bda7f740cddc6c8459)
+
+<hr />
+
+### Gotchi Battler V1.5 funding
+**Aavegotchi Improvement Proposal #108**
+
+**Voorstel Samenvatting:**
+
+Just wanted to say thanks to the community for all the support given to Gotchi Battler so far. It has been a real privilege to see such a high amount of engagement/interest in the game and we've received a load of invaluable feedback from the community on how to improve going forward. This proposal is to fund the next version of the game which will bring improvements to:
+
+* Gameplay balance
+
+* Tournaments
+
+* Training
+
+* Lending
+
+* The Battle Replayer
+
+You can see the full detailed list of improvements [here](https://docs.google.com/document/d/17BV5ezSyw5JpzrY5Ic12B7bqM-DgwHYavQ8HX1ECtyM).
+
+The release schedule of this work will be April 2024, which will be in time to host a large Rarity Farming Tournament(s) for Season 8 at the beginning of May, if this gets confirmed by the DAO.
+
+The total cost for this next version will be $120k, broken down as follows:
+
+*Eitri*
+
+* Frontend development
+
+* 2 months @ $8k = $16k
+
+*Coinmandeer*
+
+* Design
+
+* 1 month @ $8k = $8k
+
+*DeadFolk (2 people)*
+
+* Unity development
+
+* 3 months @ $16k = $48k
+
+*Lavel*
+
+* Balancing and Data Analysis
+
+* 2 months @ $8k = $16k
+
+*Immaterial*
+
+*Backend, infrastructure, QA, management
+
+* 3 months @ $8k = $24k
+
+*Expenses*
+
+* Infrastructure, art, bounties
+
+* $8k
+
+Total = $120k payable as DAI from the DAO Treasury
+
+*Payments:*
+
+* 1st payment on passing of proposal: $68k
+
+* 2nd payment on completion of work: $52k
+
+If you have any questions, head over to the DAO forum post linked below, and thank you, as always, for your support frens.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1201198282957922345/1201198282957922345)
+
+Option 1: Yes, fund
+
+Option 2: No, do not fund
+
+**Voting Period:** 26 February - 11 March 2024
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5b328a78c8461910ec5cc9240eb9143efcfcc4a537304c30235d969ffab02ec3)
 
 <hr />
 
