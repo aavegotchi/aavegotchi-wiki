@@ -74,5 +74,17 @@ export const tables
 					["No, don't include Gotchi Battler", "2,600,000 GHST (22.93%)"]
 				]
             }
+        },
+
+		{
+            tableName: "agip108",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund", "9,800,000 GHST (84.75%)"],
+					["No, do not fund", "1,800,000 GHST (15.25%)"]
+				]
+            }
         }		
     ]
