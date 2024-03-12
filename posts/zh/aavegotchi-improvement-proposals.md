@@ -121,7 +121,7 @@ This proposal of funding is to empower GFA to operate Pixelcraft lands and partn
 
 * Interaction in the Slack Technical support with Sandbox Team and ticketing system
 
-4). Organisation and Strategy for futur events
+4). Organisation and Strategy for future events
 
 * InGame contests / Social events
 
@@ -272,6 +272,8 @@ Option 2: No, do not fund
 **Voting Period:** 26 February - 11 March 2024
 
 **Results:**
+
+table_agip108
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5b328a78c8461910ec5cc9240eb9143efcfcc4a537304c30235d969ffab02ec3)
 
