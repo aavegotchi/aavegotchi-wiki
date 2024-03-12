@@ -31,7 +31,6 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
 <p><a href=#flamingo-dao>Flamingo DAO</a></p>
-<p><a href=#mao-dao>Mao DAO</a></p>
 <p><a href=#router-protocol>Router Protocol</a></p>
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
 </ol>
@@ -188,15 +187,6 @@ BlackPool firmly believes in the long term value of scarce digital assets, and u
 </div>
 
 An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
-
-### Mao DAO
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/mao-dao.jpg" alt = "Mao DAO">
-<p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
-</div>
-
-MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
 
 ### Router Protocol
 
