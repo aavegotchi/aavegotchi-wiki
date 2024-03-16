@@ -22,6 +22,11 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [Are you ready for Rarity Farming Season 8?!?!](https://blog.aavegotchi.com/rarity-farming-season-8/)
+* Rarity Farming Season 8 is commencing on March 16th, 2024 at 10AM EST/2PM UTC!
+* This season comes with the Gotchi Battler category too! Form your team and aim for the top!
+<p></p>
+
 ## [January 2024 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-january-2024/)
 * Launch details for the Aavegotchi Gaming Console!
 * Updates on the 3D Gotchiverse!
