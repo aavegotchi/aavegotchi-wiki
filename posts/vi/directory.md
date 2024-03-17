@@ -85,6 +85,8 @@ contributors:
 
 * [Kinship](/kinship)
 
+* [Licky's Escape](/lickys-escape)
+
 * [Lore](/lore)
 
 * [Maall](/maall)
