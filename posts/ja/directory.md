@@ -85,6 +85,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
+* [Licky's Escape](/lickys-escape)
+
 * [Lore](/lore)
 
 * [Maall](/maall)
