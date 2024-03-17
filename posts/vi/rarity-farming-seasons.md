@@ -21,6 +21,7 @@ Rarity Farming được chia thành các mùa khác nhau. Đây là dữ liệu 
 <li><a href=#season-5>Season 5</a></p>
 <li><a href=#season-6>Season 6</a></p>
 <li><a href=#season-7>Season 7</a></p>
+<li><a href=#season-8>Season 8</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -121,6 +122,26 @@ Rarity Farming Season 7 was held from Tuesday, 31 October 2023 - Tuesday, 26 Dec
 
 * Độ hiếm (10% quỹ giải thưởng / 140.000 GHST)
 
+An additional 100,000 GHST is going to players of Gotchi Battler.
+
+[Spreadsheet of Rarity Farming Season 7 Rewards](https://docs.google.com/spreadsheets/d/1TncwLzWN2HMwEzpAHXNBvTSkWX3kBGXXzpOd2hpb8Ow/)
+
+
+
+## Season 8
+
+Rarity Farming Season 8 was held from Saturday, 16 March 2024 - Saturday, 11 May 2024. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 8.
+
+* Rarity (60% of the rewards pool / 900,000 GHST)
+
+* Kinship (20% quỹ giải thưởng / 200.000 GHST)
+
+* Độ hiếm (10% quỹ giải thưởng / 140.000 GHST)
+
+* Gotchi Battler (10% of the rewards pool / 150,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 8 Rewards](https://docs.google.com/spreadsheets/d/1JXUbhiGBvj69cHMxkDiRcLvdeyHAZdcZVYpFmcIpPls/)
+
 ## GHST Distribution by Season
 
 table_rarityFarmingSeasons
@@ -140,3 +161,5 @@ table_rarityFarmingSeasons
 * [Rarity Farming Season 6 Blog post](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
 
 * [Rarity Farming Season 7 Blog post](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
+
+* [Rarity Farming Season 8 Blog post](https://blog.aavegotchi.com/rarity-farming-season-8/)
