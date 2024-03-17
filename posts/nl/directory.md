@@ -85,6 +85,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Kinship](/kinship)
 
+* [Licky's Escape](/lickys-escape)
+
 * [Lore](/lore)
 
 * [Maall](/maall)
