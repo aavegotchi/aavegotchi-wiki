@@ -22,6 +22,11 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [Aavegotchi chooses Base as settlement layer for Gotchichain](https://blog.aavegotchi.com/aavegotchi-chooses-base-as-settlement-layer-for-gotchichain/)
+* Gotchichain, our upcoming Layer 3 (L3) rollup dedicated to Aavegotchi gaming, will use Base as its settlement layer
+* Base is a leading EVM-compatible Layer 2 (L2) chain developed by Coinbase that offers a safe, low-cost, and developer-friendly way to develop onchain, while still remaining strongly aligned with Ethereum.
+<p></p>
+
 ## [Are you ready for Rarity Farming Season 8?!?!](https://blog.aavegotchi.com/rarity-farming-season-8/)
 * Rarity Farming Season 8 is commencing on March 16th, 2024 at 10AM EST/2PM UTC!
 * This season comes with the Gotchi Battler category too! Form your team and aim for the top!
