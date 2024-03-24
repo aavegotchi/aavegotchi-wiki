@@ -41,6 +41,8 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#metacade>Metacade</a></p>
 <p><a href=#1kin-labs>1Kin Labs</a></p>
 <p><a href=#nitro-league>Nitro League</a></p>
+<p><a href=#base>Base</a></p>
+<p><a href=#dogami>Dogami</a></p>
 </ol>
 
 </div>
@@ -289,3 +291,21 @@ Our Mission: To supercharge, reward and connect developers and players, providin
 </div>
 
 Nitro League is a racing metaverse that's perfect for both hardcore gamers and casual players alike. This immersive world combines the best of Game-Fi to create an unforgettable gaming experience.
+
+### Base
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/base.jpg" alt="Base">
+<p class="leftImageText"><a href="https://twitter.com/base" target="_blank">Base</a></p>
+</div>
+
+Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain. Base is powered by Optimism's OP Stack, making it one of the most secure, scalable EVM L2s out there. The OP Stack is an open-source public good that will serve as the foundation for a “superchain” of L2s that share interoperability, sequencing, and governance.
+
+### Dogami
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/dogami.jpg" alt="Dogami">
+<p class="leftImageText"><a href="https://twitter.com/Dogami" target="_blank">Dogami</a></p>
+</div>
+
+DOGAMI is an entertainment 3.0 company backed by renowned names in both the gaming and blockchain industry. Adopt your own Dogamí, Compete against the best and Earn $DOGA. The Web3 Mobile Game Backed by Ubisoft & AnimocaBrands.
