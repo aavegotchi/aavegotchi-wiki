@@ -7,6 +7,7 @@ contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,9 @@ contributors:
 <p class="headerImageText">Một Rarity Farmer</p>
 </div>
 
-**Giới thiệu**
+Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
-Rarity farming là một cơ chế chơi game đột phá được đi đầu bởi Aavegotchi. Nó được thiết kế thể tưởng thưởng cho những người dùng tương tác một cách có chiến thuật và tích cực nhất với hệ sinh thái. Như thể hiện ở cái tên của nó, đây là quá trình mà bạn cố gắng nuôi nấng những bé Aavegotchi hiếm nhất, và nhận phần thưởng cho việc đó.
-
-Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong rarity farming, và cách mà Aavegotchi được định hình. Hãy đọc tiếp đẻ hiểu thêm nhé!
+This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
 
 <div class="contentsBox">
 
@@ -26,10 +25,8 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 
 <ol>
 <li><a href=#how-do-i-rarity-farm->Làm thế nào để có thể Farm Rarity?</a></p>
-<li><a href=#calculating-rarity>Cách tính Rarity</a></li>
-<p><a href=#base-rarity-score>Base Rarity Score</a></p>
-<p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p><a href=#final-rarity-score>Final Rarity Score</a></p>
+<li><a href=#components-of-rarity-score>Components of Rarity Score</a></li>
+<li><a href=#calculating-rarity-score>Calculating Rarity Score</a></li>
 <li><a href=#rewards>Phần thưởng</a></li>
 <p><a href=#rarity-farming-seasons>Các Mùa Rarity Farming</a></p>
 <p><a href=#collecting-rarity-farming-rewards>Thu Thập Phần Thưởng Từ Rarity Farming</a></p>
@@ -37,22 +34,18 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 
 </div>
 
-## **Làm thế nào để có thể Farm Rarity?**
+## Làm thế nào để có thể Farm Rarity?
 Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farming. Bao gồm:
 
 * **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
 
 * **Trang bị [wearables](/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
 
-* **Tương tác trong [mini-games](/minigames)**
-
 Để có nhiều thông tin hơn, hãy theo dõi đường link dẫn ở phần sidebar.
 
-Điều này có nghĩa là độ hiếm của mỗi Aavegotchi là có động lực và sẽ thay đổi theo thời gian, khi sự phân bổ của các đặc điểm và phụ kiện trong thế giới của Aavegotchi thay đổi. Nói cách khác, sẽ không đơn giản chỉ có chiến thuật tăng cao một đặc điểm nào đó trong Aavegotchi của bạn. Bạn cũng cần phải xem xét hành động của người chơi khác. Ví dụ, nếu có quá nhiều người muốn chơi những bé gochi thành đánh nhau với điểm hiếu chiến cao, thì những đặc điểm này sẽ trở nên ít hiếm hơn, và độ hiếm Aavegotchi của bạn sẽ giảm xuống.
+Điều này có nghĩa là độ hiếm của mỗi Aavegotchi là có động lực và sẽ thay đổi theo thời gian, khi sự phân bổ của các đặc điểm và phụ kiện trong thế giới của Aavegotchi thay đổi. Nói cách khác, sẽ không đơn giản chỉ có chiến thuật tăng cao một đặc điểm nào đó trong Aavegotchi của bạn. Bạn cũng cần phải xem xét hành động của người chơi khác. For instance, if other players [sacrifice](/traits#experience) a number of Gotchis to boost a particular Gotchi, they could overtake you on the Experience/XP category of the Rarity Farming leaderboards.
 
-## **Tính Toán Độ Hiếm**
-
-Có hai loại điểm độ hiếm trong trò chơi - Base Rarity Score (dành cho traits and wearables) & Absolute Rarity Score.
+## Components of Rarity Score
 
 ### Base Rarity Score
 
@@ -79,20 +72,11 @@ Wearables BRS thì lại dựa vào độ hiếm của nó. Ví dụ [wearables]
 
 Khi Gotchi lớn lên, chúng sẽ nhận thêm BRS. Để có thêm thông tin, hãy xem qua trang [Cơ chế trưởng thành](/aging-mechanic).
 
-### Absolute Rarity Score
+## Calculating Rarity Score
 
-Absolute Rarity Score (ARS) có được từ độ hiếm nhất định trong trait của Aavegotchi trong cả hệ sinh thái Aavegotchi. Ví dụ, nếu có nhiều người chơi train Aavegotchi của mình để có Cấp Độ Năng Lượng cao nhất, vậy thì ARS dành cho Cấp Độ Năng Lượng cao - TURNT sẽ thấp hơn Cấp Độ Năng Lượng thấp nhất - WASTED. ARS được thính theo phần trăm đối với mỗi trait của Aavegotchi. Vậy nên ví dụ nếu tất cả Aavegotchi sở hữu một trait với trạng thái WASTED thì trait này sẽ mang đến 95 cho ARS đặc điểm năng luowjgn của Aavegotchi.
-
-### Final Rarity Score
-
-<b>Final Rarity Score = Traits BRS + Wearables BRS + Traits ARS</b>
-
-Ví dụ về cách tính Final Rarity Score được thể hiện phía dưới:
+Example of Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRS là viết tắt của Base Rarity Score; ARS là viết tắt của Absolute Rarity Score</i></p>
-
-**Công thức tính ARS vẫn chưa hoàn chỉnh. Do đó, giá trị trên cột ARS chỉ mang tính chất tượng trưng.**
 
 ## Phần thưởng
 
@@ -104,11 +88,15 @@ Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 * Top [Điểm Kinship](/traits#kinship) Cao Nhất
 * [Kinh nghiệm](/traits#experience)
 
-Với mỗi hạng mục, giải thưởng dành cho rarity farming sẽ được phân phối dựa trên đường cong giảm dần, trong đó chỉ một số Aavegotchi trên đỉnh có thể kiếm được nhiều hơn những Gotchi nằm ở phần dưới của đường cong. Sẽ có những điểm cắt mà ở Gotchi nào ở dưới điểm đó sẽ không nhận được phần thưởng. Vậy nên hãy cố gắng hết sức để nằm ở trên điểm cắt đó. Thế nào rồi bạn cũng thắng được chút ít mà thôi! (Xem thêm về [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), top 5000 Gotchi trong mỗi hạng mục sẽ nhận được giải thưởng từ rarity farming).
+Với mỗi hạng mục, giải thưởng dành cho rarity farming sẽ được phân phối dựa trên đường cong giảm dần, trong đó chỉ một số Aavegotchi trên đỉnh có thể kiếm được nhiều hơn những Gotchi nằm ở phần dưới của đường cong. Sẽ có những điểm cắt mà ở Gotchi nào ở dưới điểm đó sẽ không nhận được phần thưởng. Vậy nên hãy cố gắng hết sức để nằm ở trên điểm cắt đó. Thế nào rồi bạn cũng thắng được chút ít mà thôi!
 
 Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quyết định bởi AavegotchiDAO.
 
-Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển.
+Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển. Some of these new one-off categories include:
+
+* Rookie Kinship
+* Rookie Experience/XP
+* Gotchi Battler
 
 Phần thưởng sẽ được phân phát mỗi hai tuần thông qua snapshot trên snapshot. Ban đầu, quá trình này sẽ được team Pixelcraft tự quản lý, những về sau nó sẽ được tự động giải quyết bởi DAO. Sau mỗi lần snapshot, giải thưởng có thể được nhận bởi tất cả những người nông dân thành công trong việc cày độ hiếm và vòng đua top kế tiếp sẽ bắt đầu ngay lập tức.
 
