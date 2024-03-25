@@ -196,7 +196,7 @@ There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
 ### Snapshot Abstimmungen
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
 
 To vote on Snapshot, follow the steps below:
 
@@ -251,8 +251,8 @@ Vote on AGIPs and get [POAP badges](/poap) for it!
 
 ## Treasury
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
-
 As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
 The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)

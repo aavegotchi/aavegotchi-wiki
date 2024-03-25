@@ -196,7 +196,7 @@ Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (
 
 ### Vote bằng Snapshot
 
-Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
+Snapshot là một DApp phục vụ voting trên Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.page/#/aavegotchi.eth).
 
 Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
@@ -251,8 +251,8 @@ Hãy bỏ phiếu cho các bản đề xuất để nhận [huy hiệu POAP](/po
 
 ## Ngân Quỹ
 
-AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
+As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
 
-The AavegotchiDAO Treasury có thể truy cập vào tại [đây](https://aavegotchi.com/treasury).
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)

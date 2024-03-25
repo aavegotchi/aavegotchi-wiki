@@ -27,10 +27,10 @@ Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded wi
 
 <ol>
 <li><a href=#supported-spirit-force>Supported Spirit Force</a></li>
-<li><a href=#getting-atokens>Getting aTokens</a></li>
-<li><a href=#converting-atokens-into-matokens>Converting aTokens into maTokens</a></li>
+<li><a href=#buying-matokens-amtokens>Buying maTokens/amTokens</a></li>
 <li><a href=#differences-between-matokens-and-amtokens>Differences between maTokens and amTokens</a></li>
 <li><a href=#aura-in-the-gotchiverse>Aura in the Gotchiverse</a></li>
+<li><a href=#nick-mudge-on-matokens>Nick Mudge on maTokens</a></li>
 </ol>
 
 </div>
@@ -39,43 +39,31 @@ Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded wi
 
 table_supportedCollaterals
 
-## Getting aTokens
+## Buying maTokens/amTokens
 
-*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/aave-protocol-zero-to-hero-guide-e3f206e57e45) from Aave Medium. It has been replicated here for the reader's convenience.*
+Aavegotchis are unable to use your regular Aave aTokens. They need to use *specially created ones.* ;)
 
-1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
+The type of token you need depends on the [haunt](/haunt) your Aavegotchi belongs to:
 
-2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
+* Haunt 1 Aavegotchis: maTokens
 
-<img src = "/spirit-force/connect-your-wallet.png" alt = "aave" class="bodyImage" />
+* Haunt 2 (and onwards) Aavegotchis: amTokens
 
-3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
+**Important: amTokens used as Spirit Force comes from Aave V2, not V3.**
 
-If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
+After opening a portal, you are given a choice to select 1 Gotchi from among 10 Gotchis. If you do not have the particular type of Spirit Force (maToken/amToken) to summon the Gotchi, the top righthand corner of the UI provides a convenient way to acquire that spirit force.
 
-Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
+The example in the screenshot below shows the summoning of an maWETH Gotchi. The summoner lacks maWETH in his/her wallet. To get maWETH, he/she could click on the "Get aWETH" text (circled in red in the screenshot below). He/she could then trade any existing tokens in their wallet for maWETH to summon the Gotchi.
 
-<img src = "/spirit-force/buy-with-fiat.png" alt = "aave" class="bodyImage" />
-
-4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
-
-<img src = "/spirit-force/deposit.gif" alt = "aave" class="bodyImage" />
-
-As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
-
-## Converting aTokens into maTokens
-
-Got your aTokens? Good!
-
-Let's head over to the [maTokens](/matokens) page for Step 2!
+<img class="bodyImage" src="/spirit-force/summoning-an-aavegotchi.png" />
 
 ## Differences between maTokens and amTokens
 
-maTokenとamTokenはどちらも利息が発生します。 ただし、利息の*つき方*が異なります。
+Both maTokens and amTokens accrue interest. However, *the way* they accrue interest differs:
 
-* maToken は時間経過とともに**価値**が上がります。 これは、maTokenを使用するハウント1 Aavegotchiに適用されます。 maTokenの価値は増加していますが、数量は変わらないため、自分のゴッチを犠牲（生贄）にして裏付けとなる担保を手に入れない限り、ゴッチからmaTokenを引き出すことはできません。
+* maTokens increase in **value** over time. This applies to Haunt 1 Aavegotchis that use maTokens. The value of the maTokens are increasing, but as the quantity does not change, it is not possible to withdraw maTokens from the Gotchis unless you sacrifice your Gotchi to get at the underlying collateral.
 
-* amToken は時間とともに**数量**が増加します。 これはHaunt 2以降のAavegotchiに適用されます。 発生した利息は、数量として反映されます。 したがって、十分な利息が発生すれば、amTokenを引き出すことが可能です。
+* amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
 
 ## Aura in the Gotchiverse
 
@@ -93,3 +81,8 @@ else if (level <= 20) attenuation = 0.045;
 else if (level <= 50) attenuation = 0.03;
 else attenuation = 0.025;
 ```
+
+## Nick Mudge on maTokens
+
+* Polygon（ポリゴン）でaTokenをmaTokenとして展開することに成功した[Nick Mudge（ニック・マッジ）氏](/team#nick-mudge)による[Twitterスレッド](https://twitter.com/mudgen/status/1352399348219445250)
+* Nick Mudgeが[maTokenの技術的](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)な面につい解説しています

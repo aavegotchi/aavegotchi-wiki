@@ -67,6 +67,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [ゴッチ・レンディング](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [ゴッチバース](/gotchiverse)
 
 * [ゴッチュスアルケミカ](/gotchus-alchemica)
@@ -83,9 +85,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maToken](/matokens)
+* [Lore](/lore)
+
+* [Maall](/maall)
 
 * [メディア（Media）](/media)
 

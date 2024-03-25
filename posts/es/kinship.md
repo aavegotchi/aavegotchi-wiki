@@ -20,6 +20,7 @@ contributors:
 <li><a href=#what-is-kinship>Qué es Kinship</a></li>
 <li><a href=#kinship-levels>Niveles de Kinship</a></li>
 <li><a href=#kinship-and-alchemical-channeling>Kinship y Canalización de Alquimia</a></li>
+<li><a href=#kinship-burning>Kinship Burning</a></li>
 </ol>
 
 </div>
@@ -60,3 +61,6 @@ Cada punto de Kinship incrementa el modificador de canalización alquímica, por
 
 Cada Aavegotchi es elegible para participar en la canaización alquímica **una vez cada 24 horas.**
 
+## Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.

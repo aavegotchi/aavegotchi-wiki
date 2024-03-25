@@ -67,6 +67,8 @@ contributors:
 
 * [Gotchi Lending](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
@@ -83,9 +85,11 @@ contributors:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Maall](/maall)
 
 * [Media](/media)
 

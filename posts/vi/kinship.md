@@ -20,6 +20,7 @@ contributors:
 <li><a href=#what-is-kinship>Kinship là gì</a></li>
 <li><a href=#kinship-levels>Cấp độ Kinship</a></li>
 <li><a href=#kinship-and-alchemical-channeling>Kinship và Truyền Khoáng Sản</a></li>
+<li><a href=#kinship-burning>Kinship Burning</a></li>
 </ol>
 
 </div>
@@ -60,3 +61,6 @@ Mỗi điểm Kinship tăng lên sẽ tăng cấp số nhân Truyền Khoáng S�
 
 Mỗi Aaveogtchi có thể tương ttasctrong việc Truyền Khoáng Sản **cứ mỗi 24 giờ.**
 
+## Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.

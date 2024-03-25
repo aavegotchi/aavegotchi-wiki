@@ -7,6 +7,7 @@ contributors:
   - "cinnabarhorse"
   - "wagyuchicken"
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,9 @@ contributors:
 <p class="headerImageText">稀有农民</p>
 </div>
 
-**介绍**
+Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
-稀有农业是Aavegotchi倡导的一种创新游戏机制。 它努力奖励那些最深思熟虑和最热情地参与生态系统的用户。 正如它的名称所表明的那样，这是一个你试图提高最稀少的Aavegotchis的过程，并且因为这样做而得到奖励。
-
-这个wiki页面将解释你如何从事稀有农业，以及如何确定最稀有的Aavegotchis。 继续阅读以了解更多！
+This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
 
 <div class="contentsBox">
 
@@ -26,10 +25,8 @@ contributors:
 
 <ol>
 <li><a href=#how-do-i-rarity-farm->我如何进行稀有农场？</a></p>
-<li><a href=#calculating-rarity>计算稀有度</a></li>
-<p><a href=#base-rarity-score>基础稀有分</a></p>
-<p><a href=#absolute-rarity-score>绝对稀有分</a></p>
-<p><a href=#final-rarity-score>最终得分</a></p>
+<li><a href=#components-of-rarity-score>Components of Rarity Score</a></li>
+<li><a href=#calculating-rarity-score>Calculating Rarity Score</a></li>
 <li><a href=#rewards>奖励</a></li>
 <p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
 <p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
@@ -37,22 +34,18 @@ contributors:
 
 </div>
 
-## **我如何稀有农作？**
+## 我如何稀有农作？
 你们可以通过几种方式从事稀有的耕作。 这些包括：
 
 * **在 [召唤过程中，仔细选择一个稀有特性的 Aavegotchi](/portals)**
 
 * **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **Engaging in [mini-games](/minigames)**
-
 关于每个进程的更多信息，请点击侧边栏上相应页面的链接。
 
-尽管如此，单个Aavegotchi的稀有水平是动态的，将随着时间的推移而变化。 Aavegotchi 宇宙中特性和织物分布的变化。 换言之，仅仅在您的 Aavegotchi 中最大化某个特性是不够的。 你还必须考虑其他玩家的行动。 例如，如果太多的玩家试图为侵略得分很高的战争之类的争斗而磨难， 这个特性变得更少了，你的 Aavegotchi 的稀有水平下降。
+尽管如此，单个Aavegotchi的稀有水平是动态的，将随着时间的推移而变化。 Aavegotchi 宇宙中特性和织物分布的变化。 换言之，仅仅在您的 Aavegotchi 中最大化某个特性是不够的。 你还必须考虑其他玩家的行动。 For instance, if other players [sacrifice](/traits#experience) a number of Gotchis to boost a particular Gotchi, they could overtake you on the Experience/XP category of the Rarity Farming leaderboards.
 
-## **计算稀有度**
-
-稀有度分数在这里有2种类型-基本稀有度分数（针对特质和可穿戴设备）和 绝对稀有度分数。
+## Components of Rarity Score
 
 ### 基础稀有分
 
@@ -79,20 +72,11 @@ Wearables BRS on the other hand, is dependent on its rarity. For example, rare [
 
 As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
-### 绝对稀有分
+## Calculating Rarity Score
 
-Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
-
-### 最终得分
-
-<b>最终稀有分 = Traits BRS + Wearables BRS + Traits ARS</b>
-
-Example of the Final Rarity Score calculation is as shown below:
+Example of Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
-
-**The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
 ## 奖励
 
@@ -104,11 +88,15 @@ Initially, there were 3 categories of rarity farming rewards:
 * [Kinship](/traits#kinship) Scores
 * [Experience](/traits#experience)
 
-For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
+For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something!
 
 The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
 
-More categories will be added later as the Aavegotchi game continues to develop.
+More categories will be added later as the Aavegotchi game continues to develop. Some of these new one-off categories include:
+
+* Rookie Kinship
+* Rookie Experience/XP
+* Gotchi Battler
 
 Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 

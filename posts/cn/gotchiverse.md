@@ -30,7 +30,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 <li><a href=#realm-gameplay>REALM Gameplay</a></li>
 <li><a href=#entering-the-gotchiverse>Entering the Gotchiverse</a></li>
 <li><a href=#inside-the-gotchiverse>Inside the Gotchiverse</a></li>
-<p><a href=#chat-commands>Chat Commands</a></p>
+<p><a href=#controls>Controls</a></p>
 <li><a href=#gotchus-alchemica>Gotchus Alchemica</a></li>
 <li><a href=#building-on-realm-parcels>Building on REALM parcels</a></li>
 <p><a href=#installation-traits-and-recipes>Installation Traits and Recipes</a></p>
@@ -131,15 +131,15 @@ There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi own
 
 The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
 
-You need a Gotchi to access the Gotchiverse.
+First, you need to select your Gotchi's spawn location.
 
-Select the Gotchi that you will be using and click on the portal to enter.
+You can select from the active bounce gates (left in below image) or one of the parcels you own (right in below image).
 
-<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" alt="Entering the Gotchiverse" />
 
-Next, you need to select the Gotchi's spawn location. You can select from various locations on District 1, any REALM parcel that you own, or a random location.
+Next, select the Gotchi that you will be using and click on the portal to enter.
 
-<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" alt="Aavegotchi entering the Gotchiverse" />
 
 ## Inside the Gotchiverse
 
@@ -150,27 +150,34 @@ Movement of Gotchis can be controlled using the arrow keys, WASD keys, or by you
 The Gotchiverse UI is designed as follows:
 
 * Top left: Map of the Gotchiverse. Your current location is reflected as a Gotchi
-* Top right: The current Gotchi you are using. The alchemica you have collected with this particular Gotchi
-* Bottom left: Chat — can be set to the particular district you are in or throughout the Citaadel
-* Bottom right: Crafting Table, Inventory, and Build Mode
+* Top center: Super chat — Load Alchemica into a "Gotchiverse Wallet" and perform a Super chat that drops Alchemica around the Gotchi's radius. Up to 1000 of each kind of Alchemica can be dropped at once
+* Top right: Settings and Logging out
+* Upper right: Item shop
+* Bottom left: Gotchi stats and Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table and Build Mode
 
 <img src="/gotchiverse/crafting-table.png" alt="Aavegotchi Crafting Table" />
 
 The Crafting Table is used to create new installations using Gotchus Alchemica. Check the [Recipes](/recipes) page for some of these installations that you can craft, the Gotchus Alchemica required, and the duration needed to craft them. A transaction is required to craft them.
 
-<img src="/gotchiverse/inventory.png" alt="Aavegotchi Inventory" />
-
-Once installations have been crafted, they are reflected in your Inventory.
-
 <img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
 
 Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
-## Chat Commands
+<img src="/gotchiverse/item-shop.png" alt="Aavegotchi Item Shop" />
 
-The following table shows the chat commands in the Gotchiverse.
+The Item Shop sells 3 products:
 
-table_chatCommands
+* HP Potion (+2500 HP): 10 KEK
+* AP Potion (+250 AP): 20 ALPHA
+* Protolick 1 (10 mins, 10k health, 6% DMG per attack): 60 FUD & 20 FOMO
+* Protolick 2 (10 mins, 60k health, 10% DMG per attack): 400 FUD, 150 FOMO, 100 ALPHA, 15 KEK
+
+## Controls
+
+The following table shows the control scheme used in the Gotchiverse.
+
+table_controls
 
 ## Gotchus Alchemica
 
@@ -276,18 +283,18 @@ REALM Owners can toggle the access rights to their REALM Parcels at the [My REAL
 
 <img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
 
-There are 4 types of Access Rights:
+There are 5 types of Access Rights:
 
 * Alchemical Channelling
 * Empty Reservoir
 * Equip Installations
 * Equip Tiles
+* Upgrade Installations
 
 The options for the Access Rights include:
 * Only me (Default)
 * Me + Borrowed Gotchi
-* Whitelist (Coming Soon)
-* Ban List (Coming Soon)
+* Whitelist
 * Anyone
 
 ## REALM Tokenomics

@@ -21,6 +21,7 @@ Có thể xem Aavegotchi Docs tại [đây](https://docs.aavegotchi.com/).
 <ol>
 <li><a href=#building-aavegotchi-com>Xây dựng Aavegotchi.com</a></li>
 <li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
+<li><a href=#dao-treasury>DAO Treasury</a></li>
 <li><a href=#building-the-wiki>Building the Wiki</a></li>
 <li><a href=#building-mini-games>Building Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
@@ -39,6 +40,10 @@ Hãy liên hệ với CoderDan trên [Discord](https://discord.com/invite/NPwnWB
 ## Gotchiverse Analytics
 
 The official Gotchiverse Analytics page can be found [here](https://gotchiverse-analytics.vercel.app/)
+
+## DAO Treasury
+
+DAO Treasury Dashboard ([AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard)) by MikeyJay and Eitri can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
 
 ## Building the Wiki
 

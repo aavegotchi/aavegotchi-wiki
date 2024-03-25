@@ -57,7 +57,7 @@ Aavegotchiは、CryptoKitties、Axie Infinity、Cryptovoxelsなどの人気ブ�
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchiオニオン図" />
 
 ## Aavegotchiの価値
-Aavegotchi の評価は、その本質的な価値と希少価値の両方から得られます。
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **本源的価値** 本源的価値とは、Aavegotchiのステークされたコラテラル（賭けられた担保）の建値（たてね）のことです。 Aavegotchiが10 aDAIでステークされている場合、本質的価値は10 aDAIと、レンディングプールから発生した余分なaDAIを加えたものになります。 当初は、Aaveプラットフォームに掲載されている[ERC20](/glossary#erc-20)トークン（aTokens）のみがコラテラル（担保）として利用可能です。 しかし、AavegotchiDAOがローンチされると、コミュニティはどの新しいコラテラルを許可するか投票できるようになる予定です。
 

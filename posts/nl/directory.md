@@ -67,6 +67,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Gotchi Lending](/gotchi-lending)
 
+* [Gotchichain](/gotchichain)
+
 * [Gotchiverse](/gotchiverse)
 
 * [Gotchus Alchemica](/gotchus-alchemica)
@@ -83,9 +85,11 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Maall](/maall)
 
 * [Media](/media)
 
