@@ -314,6 +314,8 @@ Option 2: NO - Do not want!
 
 **Resultaten:**
 
+table_agip109
+
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xe2536a75bf80798f65559eeb832312198d9a9c640b5660f432e1e71de60dd945)
 
 <hr />
@@ -443,6 +445,8 @@ Option 2: No, don't lend tokens to Skynet
 
 **Resultaten:**
 
+table_agip110
+
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x53725868842a2b7c6e2cf251eaeb5c939b7272c3c849ef3814ac7bc9b62469eb)
 
 <hr />
@@ -487,6 +491,8 @@ Option 2: No. Don't stake or buy rETH
 **Voting Period:** 8 - 21 March 2024
 
 **Resultaten:**
+
+table_agip111
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xce481514fa4f8c08b1384a2fdec32cf4b90fb24bedcf834cbf1e87ddafac418f)
 
@@ -545,6 +551,8 @@ Option 2: No. Don't establish it.
 
 **Resultaten:**
 
+table_agip112
+
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xc4a1181fa1d6ede81e71c195aab84a21c1431f8a8b28221100e42720b84c2df3)
 
 <hr />
@@ -597,6 +605,8 @@ Option 2: No
 **Voting Period:** 8 - 21 March 2024
 
 **Resultaten:**
+
+table_agip113
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x9e2dfd4a35b6069df9c0e29a4d88f197a3a6af816f5275b210a768521c734b97)
 
