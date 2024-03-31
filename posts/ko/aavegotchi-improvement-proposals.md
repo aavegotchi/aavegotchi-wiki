@@ -176,7 +176,7 @@ Season 9 onwards
 
 table_gotchiBattlerSeason9
 
-In line with the original Gotchi Battler proposal [AGIP 86](/aavegotchi-improvement-proposals#gotchi-battler-funding) to gamify protocol rewards, we wish to reallocate 10% from the BRS leaderboard to Gotchi Battler Tournaments for season 8 and 20% from the BRS leaderboard for Season 9 and onwards. Gotchi Battler was designed with this exact purpose in mind to carry on the meta of the BRS leaderboard as much as possible whilst also providing a more engaging and competitive experience for players.
+In line with the original Gotchi Battler proposal [AGIP 86](/aavegotchi-improvement-proposals-2023#gotchi-battler-funding) to gamify protocol rewards, we wish to reallocate 10% from the BRS leaderboard to Gotchi Battler Tournaments for season 8 and 20% from the BRS leaderboard for Season 9 and onwards. Gotchi Battler was designed with this exact purpose in mind to carry on the meta of the BRS leaderboard as much as possible whilst also providing a more engaging and competitive experience for players.
 
 Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1201505887169286276)
 
