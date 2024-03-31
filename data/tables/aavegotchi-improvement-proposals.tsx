@@ -86,5 +86,65 @@ export const tables
 					["No, do not fund", "1,800,000 GHST (15.25%)"]
 				]
             }
-        }		
+        },
+
+		{
+            tableName: "agip109",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES - Make it so!", "10,000,000 GHST (96.21%)"],
+					["NO - Do not want!", "409,000 GHST (3.79%)"]
+				]
+            }
+        },
+
+		{
+            tableName: "agip110",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, let's lend tokens to Skynet", "5,900,000 GHST (50.26%)"],
+					["No, don't lend tokens to Skynet", "5,900,000 GHST (49.74%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip111",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Stake w/ Lido and buy rETH", "8,800,000 GHST (76.33%)"],
+					["No. Don't stake or buy rETH", "2,700,000 GHST (23.67%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip112",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes. Establish this sell ladder.", "11,000,000 GHST (92.24%)"],
+					["No. Don't establish it.", "888,000 GHST (7.76%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip113",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, I agree", "10,000,000 GHST (92.61%)"],
+					["No", "826,000 GHST (7.39%)"]
+				]
+            }
+        }
     ]
