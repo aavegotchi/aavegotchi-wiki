@@ -198,7 +198,7 @@ table_agip19
 
 Bọn mình đề xuất tạo ra Biệt Đội DAO Treasury (DTF). Hội đồng ban đầu sẽ bao gồm 8 thành viên với thâm niêm tham gia DAO trong vòng 6 tháng.
 
-Vào ngày 12/07/2021, DAO Treasury (https\://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng \~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
+Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
 
 Tuyên bố Sứ mệnh
 
@@ -468,7 +468,7 @@ _Solution_
 
 Mình muốn đề xuất hạ thấp biến số xuống ÍT NHẤT 0.5 - 1.5 nếu thậm chí không phải là 0.75 - 1.25 ở vòng đầu (Lựa chọn 1). Vấn đề của mình với biến số cao là mọi người đã đưa ra quyết định tài chính dựa trên những con số trung bình được đăng tải trước buổi đấu giá đầu tiên, khiến mọi người mất 50-80% giá trị Alchemica nằm bên dưới gói đất là một trải nghiệm người dùng tệ hại đối với mình.
 
-Một phương án khác được đề xuất bởi Mori là tạo ra hệ phân bố nhị thức với khả năng cắt bỏ phần đuôi, vậy nên sẽ có thể thắng lớn nhưng gần như không thể thua tan nát (Phương án 2). Việc này sẽ dẫn đến lượng trung bình 100, nhỏ nhất là 60, và nhiều nhất là 800. Đây là một thay đổi có lý để thắng giải top, với chỉ \~0,02% gói đất có thể đạt được điều này. Ghi chú quan trọng: Phương án này sẽ giảm số trung bình là 100 xuống còn khoảng 83.
+Một phương án khác được đề xuất bởi Mori là tạo ra hệ phân bố nhị thức với khả năng cắt bỏ phần đuôi, vậy nên sẽ có thể thắng lớn nhưng gần như không thể thua tan nát (Phương án 2). Việc này sẽ dẫn đến lượng trung bình 100, nhỏ nhất là 60, và nhiều nhất là 800. Đây là một thay đổi có lý để thắng giải top, với chỉ ~0,02% gói đất có thể đạt được điều này. Ghi chú quan trọng: Phương án này sẽ giảm số trung bình là 100 xuống còn khoảng 83.
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
@@ -761,7 +761,7 @@ The Aavegotchi DAO should use its DYST voting power to support the vQi-Qi pool o
 
 _Background:_
 
-Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the \~4M GHST in the vGHST protocol.
+Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
 
 A brief overview of why this is good for GHST:
 
@@ -777,7 +777,7 @@ A brief overview of why this is good for GHST:
 
 6. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https\://www\.dystopia.exchange/vote).
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 
@@ -1442,7 +1442,7 @@ _Emergency Scenarios_
 2. MakerDAO shifts away from a dollar backing: Very long-term strategic consideration, will probably take 2-3 years to unfold. No immediate action needed, more relevant for the discussion surrounding a general Curve shutdown.
 3. This is the important one. MakerDAO contracts get blacklisted by Circle (USDC) due to regulatory reasons: Signers would have to act immediately to protect the value of GHST's backing. I propose immediately shutting down the Curve and swapping the DAI for USDC. This ensures that we lock in some of our treasury's value, it does however remove the main source of liquidity for GHST. To make sure GHST doesn't enter a free fall, $5M worth of USDC should immediately be paired with $5M worth of treasury GHST in our main Quickswap pool.
 
-Using the current numbers, this would leave us with \~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
+Using the current numbers, this would leave us with ~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
 
 Keep in mind that this is a very unlikely emergency scenario. We should be prepared for everything though, getting caught with our pants down could wipe out a large sum of our treasury value and put GHST in a very vulnerable position.
 
