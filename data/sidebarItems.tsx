@@ -54,11 +54,7 @@ export const items: Category[] = [
             {
                 name: "Staking",
                 href: "staking"
-            },
-			{
-				name: "Tickets",
-				href: "tickets"
-			}
+            }
         ]
 
     },
