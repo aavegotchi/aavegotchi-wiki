@@ -1,15 +1,15 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace (Thị trường trao đổi)'
-description: 'Các marketplace (thị trường trao đổi) dành cho Aavegotchi'
+date: 2020-04-23T07:00:00.000Z
+title: Marketplace
+description: Aavegotchi Marketplace
 contributors:
-  - "unintelligent-nerd"
+  - unintelligent-nerd
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/marketplace/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<img class="headerImage" src="/marketplace/marketplace.gif">
+<p class="headerImageText">The Marketplace</p>
 </div>
 
 "Ệi...cậu đây rồi"
@@ -28,7 +28,7 @@ Một Gotchi khác chen vào. "Tôi sẽ mua món này!"
 
 "KHÔNG ĐƯỢC! "MÓN NÀY LÀ CỦA TÔI!"
 
-Nơi đây, bạn tôi ơi, chính là Aavegotchi Baazaar. Bạn có đủ sành sỏi để tìm và chốt được một deal ngon lành nhanh gọn hay không? Bạn có thể chịu được nhiệt khi trả giá với bọn nhà giàu hay không?
+This, my Frens, is the Aavegotchi Marketplace. Bạn có đủ sành sỏi để tìm và chốt được một deal ngon lành nhanh gọn hay không? Bạn có thể chịu được nhiệt khi trả giá với bọn nhà giàu hay không?
 
 Hãy đến và thử xem nhé! Cả người mua và người bán!
 
@@ -37,32 +37,51 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 **Nội dung**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Địa Chỉ Của Các Vật Phẩm</a></li>
-<li><a href=#precautions>Khuyến Cáo</a></li>
+<li><a href=#aavegotchi-marketplace>Aavegotchi Marketplace</a></li>
+<li><a href=#features>Features</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Aavegotchi Marketplace
 
-Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. Với mỗi đơn hàng mới được đăng bán, người dùng sẽ trả phí là 0.1 GHST để bán trên Aavegotchi Baazaar. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. 0.1 GHST này sẽ không về tay Pixelcraft Studios hay AavegotchiDAO. Thay vào đó, nó sẽ được gửi thẳng đến [địa chỉ đốt token](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) trên Polygon khi một đơn hàng được tạo ra hoặc cập nhật.
+The Aavegotchi Marketplace is the official secondary marketplace for Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Marketplace. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. This 0.1 GHST neither goes to Pixelcraft Studios nor to [AavegotchiDAO](/dao). Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
+Khi một vật phẩm được bán thành công, người bán sẽ nhận được 96,5% giá bán được gửi vào ví của họ. 3,5% còn lại sẽ được phân bổ như sau:
 
-Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
+- 2% gửi cho Pixelcraft Studios
+- 1% gửi cho AavegotchiDAO
+- 0,5% gửi vào quỹ phần thưởng Rarity Farming
 
-Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
+Tất cả những bài đăng bán đều phải có giá tối thiểu là 1 GHST. Nếu người bán muốn bán vật phảm với giá dưới 1 GHST, họ phải bán nhiều vật phẩm cùng loại một lúc sao cho giá bán của chúng từ 1 GHST trở lên.
 
-## Địa Chỉ Của Các Vật Phẩm
+Người mua có thể mua 1, một vài hoặc tất cả vật phẩm trong cùng một bài đăng.
 
-Bảng phía dưới đây cho thấy địa chỉ hợp đồng thông minh chính thức của nhiều loại tài sản trong Aavegotchi. Trước khi mua hàng trên bất kỳ marketplace nào, hãy xác thực lại hợp đồng của món hàng mà bạn định mua thông qua những hợp đồng được liệt kê trong bảng dưới đây (ví dụ, nếu bạn định mua vế Raffle, hãy xem lại contract address của Raffle Tickets trước khi tiến hành mua).
+<img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
 
-table_smartcontracts
+The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis).
 
-## Khuyến Cáo
+## Các tính năng
 
-Tiền kiếm rất khó khăn nên bạn nhớ đừng mua phải những tài sản giả mạo, vậy nên khi bạn mua hàng trên OpenSea hoặc những thị trường thứ cấp, hãy nhớ luôn kiểm tra thật cẩn thận. Lưu ý rằng, nếu thấy món hàng nhìn thấy nó pha ke kiểu gì thì có thể là nó pha ke thật đấy!
+There are a variety of products listed on the Marketplace:
 
-* Hãy luôn kiểm tra lại contract address nhiều lần bởi những món vật phẩm được sinh ra từ những contract address thật.
-* Nếu bạn thấy không chắc chắn, hãy tham gia vào [kênh Discord chính thức của Aavegotchi](https://discord.com/invite/NPwnWB6), để hỏi các bạn Aaprentice thân thiện luôn sẵn sàng giúp đỡ nhé!
+- Aavegotchis
+- [Wearables](/wearables)
+- Vật phẩm tiêu hao
+- [Portals](/portals)
+- [Forge items](/forge)
+- Vé Raffle
+- Gotchiverse Parcels
+- Gotchiverse Tiles
+- Gotchiverse Installations
+- [FAKE Gotchis](https://www.fakegotchis.com/)
+- FAKE Cards
+
+The Marketplace comes equipped with filter functions to help buyers narrow down their choices.
+
+## Secondary Marketplaces
+
+Besides the official Aavegotchi Marketplace, there are other secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
+
+Do Aavegotchi tồn tại trên Polygon, chúng cần phải được chuyển tới Ethereum Mainnet trước có thể mua/bán chúng trên Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Hãy xem qua trang FAQ để có thể biết trả lời cho những câu hỏi thường được hỏi nhé.
