@@ -161,7 +161,7 @@ table_agip6
 
 **Aavegotchi Improvement Proposal #7**
 
-**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (\~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
+**Proposal Summary:** We currently have a lot of Signal / Community Proposals on Snapshot and new posts on our forum everyday. So far none of those proposals were able to even get close to the quorum of 20%. The most popular one by @JG about adding additional fees for rarity farming only got around 2 million GHST in votes (~11%)-even though the team decided to take it as a Core Proposal. After being upgraded to Core we smashed right through the quorum in less than 24h.
 
 I think there are two pretty obvious reasons for this. On the one hand, our Snapshot is a bit chaotic right now, with some Signal Proposals not following the template at all. On the other hand-and I think this is the more important one-voting on Core Proposal gets you 20 Experience (XP) for your Gotchi.
 
@@ -600,7 +600,7 @@ So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 Let your $GHST token speak for you, and vote!
 
 Voting period: 72 hrs
-Minimum quorum: 10% of GHST on Matic (\~1.1M GHST)
+Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
 AavegotchiDAO discussion topic 👇
 
