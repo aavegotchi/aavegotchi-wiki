@@ -600,7 +600,7 @@ So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
 Let your $GHST token speak for you, and vote!
 
 Voting period: 72 hrs
-Minimum quorum: 10% of GHST on Matic (\~1.1M GHST)
+Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
 
 AavegotchiDAO discussion topic 👇
 
