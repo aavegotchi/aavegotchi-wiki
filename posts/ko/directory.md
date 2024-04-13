@@ -35,8 +35,6 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Baard](/baard)
 
-* [Baazaar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [Contests](/contests)
@@ -65,6 +63,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Glossary](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [Gotchi Lending](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
@@ -89,7 +89,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Lore](/lore)
 
-* [Maall](/maall)
+* [Marketplace](/marketplace)
 
 * [Media](/media)
 
