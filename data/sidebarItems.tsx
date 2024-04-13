@@ -103,8 +103,8 @@ export const items: Category[] = [
                  href: 'maall'
             },			
             {
-                 name: "Baazaar",
-                 href: 'baazaar'
+                 name: "Marketplace",
+                 href: 'marketplace'
             },
 			{
 				name: "Aarena",
