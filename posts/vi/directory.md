@@ -35,8 +35,6 @@ contributors:
 
 * [Nhạc Sĩ Baard](/baard)
 
-* [Baazaar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [Cuộc thi](/contests)
@@ -65,6 +63,8 @@ contributors:
 
 * [Thuật Ngữ](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [Gotchi Lending](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
@@ -89,7 +89,7 @@ contributors:
 
 * [Lore](/lore)
 
-* [Maall](/maall)
+* [Marketplace](/marketplace)
 
 * [Media](/media)
 
