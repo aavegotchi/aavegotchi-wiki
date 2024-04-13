@@ -35,8 +35,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [Baard (ミュージシャン)](/baard)
 
-* [Baazaar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [コンテスト](/contests)
@@ -65,6 +63,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [用語解説](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [ゴッチ・レンディング](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
@@ -89,7 +89,7 @@ Avegotchi Wikiのページ一覧です：
 
 * [Lore](/lore)
 
-* [Maall](/maall)
+* [Marketplace](/marketplace)
 
 * [メディア（Media）](/media)
 
